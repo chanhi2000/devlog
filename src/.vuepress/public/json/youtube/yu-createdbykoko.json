@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/bIGu0Wgr1iQ0GRTY4-9AhVm1uJttJX67Pm3usC9B7LbgkuBJidiJEoCuL9TRHdVI3xmCBlkGKg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bXyXPhL-YbU", "title": "how i use notion to organise my coding projects // Notion AI" },
+    { "id": "b-cXnkIjS28", "title": "while loop 📱 how to code apps #flutter" },
+    { "id": "SjPRyqvvh24", "title": "break / continue statements 📱 how to code apps" },
+    { "id": "VC6XbZWrmzs", "title": "for loops 📱 how to code apps • control flow 👨🏽‍💻 #flutter" },
+    { "id": "e1DST4xKjZ4", "title": "switch case statement 📱 how to code apps • control flow 👨🏽‍💻 #flutter" },
+    { "id": "bWDiu4GaQng", "title": "if else 📱 how to code apps • control flow 👨🏽‍💻 #flutter" },
+    { "id": "TjR6lOPjcug", "title": "📱 How to code apps • Logical Operators 👨🏽‍💻 #flutter" },
+    { "id": "O395qj6GzPQ", "title": "📱 How to code apps • Comparison Operators 👨🏽‍💻 #flutter" },
+    { "id": "nvoKUDqLRdw", "title": "📱 How to code apps • Math Operators 👨🏽‍💻 #flutter" },
+    { "id": "zT8II1X3cX4", "title": "📱How to code apps ‧ Math Operators 👨🏽‍💻 #flutter" },
+    { "id": "ULupDyOgcJg", "title": "💳📱 Minimal Expense Tracker • Flutter Tutorial" },
     { "id": "TLaWibjFArw", "title": "👊🏽📱 Minimal Habit Tracker • Flutter x Isar Tutorial" },
     { "id": "Zr4j6W7nmpg", "title": "🎧📱 Minimal Music Player • Flutter Tutorial" },
     { "id": "NuSb0wq9K-I", "title": "✏️📱 Minimal Notes App • Flutter x Isar Tutorial" },

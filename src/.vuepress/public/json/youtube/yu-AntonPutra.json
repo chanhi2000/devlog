@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/C_gAF421iSd-dgT0f5QXzT52XNMbqPcwyNYyketDh4zk8AYAH5N3LBynwyv_WVcB1bbYLy6Qpw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LuTzJZwMLUQ", "title": "What Is a Graph Database?" },
+    { "id": "F4U1KsTnVyQ", "title": "Kubernetes Architecture" },
+    { "id": "IsgRatCefVc", "title": "Apache Kafka Architecture" },
+    { "id": "fJ5w1YGrDdM", "title": "Docker vs Kubernetes vs Containerd" },
     { "id": "VfcRxtBKI54", "title": "Types of Databases: Relational vs. Columnar vs. Document vs. Graph vs. Vector vs. Key-value & more" },
     { "id": "fqfieWP1jY4", "title": "Kubernetes Health Checks: Liveness vs. Readiness vs. Startup Probe" },
     { "id": "4MEgCP7h8UU", "title": "Kubernetes Workload Resources: App vs. Container vs. Pod vs. Deployment vs. StatefulSets & More" },

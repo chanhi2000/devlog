@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/E3Bbni4t9_C7Dd3o6nrIimaHTExTejChg1aikJB5lqAeUrEa1tzm019zEF1t2HZFNOKJFcYw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-MYYB0QjV6I", "title": "Egor Romanov - Performance of Vector Databases" },
+    { "id": "5P0aP1BPPcQ", "title": "PyData Chicago January 2023 Meetup | Securday: Natural Language Network Scanner" },
+    { "id": "oNuFqBAHpxU", "title": "Ramona Sartipi - When Design Thinking Meets Opensource | PyData Global 2023" },
+    { "id": "1LcCAjJ589Y", "title": "️ AI Assistants & ️ Data Ops:  PyData Heilbronn #1 @ IPAI" },
+    { "id": "zi9KgTJjnjc", "title": "Furkan M. Torun - Become a Data Storyteller with Streamlit!  [PyData Prague 2023-11-20]" },
+    { "id": "MF3ZNET89F0", "title": "Optimizing Ad Conversions with DS / Yael Kiselman (DigitalTurbine)" },
+    { "id": "0mDgjZMcW04", "title": "Structured output with large language models / Uri Goren (Argmax)" },
+    { "id": "q4uF8nF5SWk", "title": "Re-ranking recommendation feeds by visual appeal / Eitan Zimmerman (Argmax)" },
+    { "id": "Qp3XZeB15lA", "title": "Giles Weaver & Ian Ozsvald - Pandas 2, Dask or Polars? Tackling larger data on a single machine" },
+    { "id": "JZFTDCE1plc", "title": "Alexander Hendorf -  ✨ FastAPI facts we wish we'd known beforehand. | PyData London 2023" },
     { "id": "vICrdSUS9vg", "title": "Vahan Huroyan - Recent Developments in Self-Supervised Learning for Computer Vision" },
     { "id": "yKPMP8N3-yg", "title": "Ondřej Vostál - Async Python modules in Rust [PyData Prague 2022-12-13]" },
     { "id": "uswpei2GpLE", "title": "Maximilian M. - SHAPtivating Insights: unravelling blackbox AI models" },

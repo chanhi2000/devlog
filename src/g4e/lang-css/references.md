@@ -216,6 +216,7 @@ tag:
 ## Ahmad Shadeed
 
 - [CSS Variables 101](https://ishadeed.com/article/css-vars-101)
+- [CSS `:has()` Interactive Guide](https://ishadeed.com/article/css-has-guide/)
 
 ---
 
@@ -247,6 +248,12 @@ tag:
 
 - [Three modern CSS properties your website must have](https://bejamas.io/blog/modern-css-properties-your-website-must-have/)
 - [Learn CSS `:has()` selector by examples: 5 top use cases](https://bejamas.io/blog/learn-css-has-selector-by-examples-top-use-cases)
+
+---
+
+## voussoir
+
+- [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 
 ---
 

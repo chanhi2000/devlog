@@ -127,4 +127,10 @@ tag:
 
 ---
 
+## Worth Doing Badly
+
+- [How a kids' novel inspired me to simulate a gene drive on 86 million genealogy profiles](https://worthdoingbadly.com/familytree/)
+
+---
+
 <TagLinks />

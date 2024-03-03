@@ -85,5 +85,9 @@ tag:
 <MyYouTubeItems jsonName="yu-_JohnHammond" /><!-- John Hammond -->
 <MyYouTubeItems jsonName="yu-orkslayergamedev" /><!-- Ork Slayer Gamedev -->
 <MyYouTubeItems jsonName="yu-DaveGrayTeachesCode" /><!-- Dave Gray -->
+<MyYouTubeItems jsonName="yu-bugbytes3923" /><!-- BugBytes -->
+<MyYouTubeItems jsonName="yu-akashpadhiyar" /><!-- Akash Padhiyar -->
+<MyYouTubeItems jsonName="yu-marearts." /><!-- MareArts -->
+<MyYouTubeItems jsonName="yu-itrun" /><!-- 형님IT -->
 
 <TagLinks />

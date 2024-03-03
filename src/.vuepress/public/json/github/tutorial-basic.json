@@ -149,5 +149,10 @@
     "desc": "Guidance on implementing cryptography as a developer. ",
     "officialSite": "https://samuellucas.com/Cryptography-Guidelines/",
     "topics": ["aead", "aes-gcm", "blake2b", "blake3", "chacha20-poly1305", "crypto", "cryptographic-algorithms", "cryptographic-library", "cryptography", "ed25519", "ed448", "education", "encrypt-then-mac", "gotchas", "hmac", "rsa", "sha2", "sha3", "x25519", "x448"]
+  }, {
+    "repo": "microsoft/Security-101",
+    "desc": "7 Lessons, Kick-start Your Cybersecurity Learning.",
+    "officialSite": "https://microsoft.github.io/Security-101/",
+    "topics": ["appsec", "cia-triad", "data-protection", "data-security", "iam", "identity", "risk-management", "secops", "security", "threat-modeling", "zero-trust"]
   }
 ]

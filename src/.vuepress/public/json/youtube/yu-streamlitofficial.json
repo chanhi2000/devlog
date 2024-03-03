@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/yywUQ_ZU1Bna8IN8qnh_lHDMek4qjrEBHE3NI8SWwsvNO6H2JDw-nNnKTh9isz-PoZ8OmmSLWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dM_EOBQnh0k", "title": "Build Interactive Data Apps Faster with GitHub Codespaces + Community Cloud" },
+    { "id": "oRKjVfJfy3w", "title": "Building a career in open source with Hugging Face's Yuichiro Tachibana" },
+    { "id": "xqSwCLbzzxQ", "title": "Level up pandas dataframes with PyGWalker's advanced visualizations ✨" },
+    { "id": "oRKjVfJfy3w", "title": "Building a career in open source with Hugging Face's Yuichiro Tachibana" },
     { "id": "T_ZmJecsqCs", "title": "Optimize Streamlit App Workflows with GitLab" },
     { "id": "ZwOnB_uRdX0", "title": "Generating SQL Queries Using AI Agents" },
     { "id": "58LClFx3WOY", "title": "Vectors and databases and retrieval, oh my!" },

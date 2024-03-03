@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/pgmE4DwLjeVpu8UNukTPMubwk_Mmb4TilFr8aSSPg8lZIpthR7-ZtZXuoNm5_uWFMU2WmISEbA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xkEGjuIa69Y", "title": "How To Remotely Access Your Homelab Ft. Twingate" },
+    { "id": "61X9Y3fpJe4", "title": "Gaming In Proxmox" },
+    { "id": "uQxYpokYkZs", "title": "How to Passthrough PCI-E/GPU Devices In Proxmox" },
     { "id": "i41EnpeXF1w", "title": "Windows Server 2022 One Click Install Proxmox Template" }
   ]
 }

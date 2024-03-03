@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/pz7L60DZW8X1KubFhuKe7a_fxNPXAOfsDn1KZ4VK9jETvenZ2OKW_J8L7UGheEZsyqo9682IjfI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xDijrW_dzpc", "title": "프로젝트 구조 살펴보기 [ 리액트 (React + Typescript) ]" },
+    { "id": "W1a3GtN7Ti0", "title": "Yarn 패키지 매니저 적용하기 [ 리액트 (React + Typescript) ]" },
+    { "id": "zDsIrJK7Cq8", "title": "포토샵 AI 기능 사용해 보기 [ 리뷰 (Review) ]" },
+    { "id": "UWq6AA5Zi4M", "title": "2024 설특집 코틀린 기초 강의 몰아보기" },
+    { "id": "RDIKsxddlmg", "title": "Prettier, ESLint 설치하기 [ 리액트 (React + Typescript) ]" },
+    { "id": "2D-y_vGn15Q", "title": "Emotion 적용하기 [ 리액트 (React + Typescript) ]" },
+    { "id": "CstTVnAKhUE", "title": "Props 이론편 [ 리액트 (React + Typescript) ]" },
     { "id": "_jZ5ignWnnQ", "title": "레포지토리 최신화하기 (트러블슈팅) [ 플러터 기초 (Flutter Basic) ]" },
     { "id": "UaYedzyi95I", "title": "StatelessWidget과 StatefulWidget -실습편- [ 플러터 기초 (Flutter Basic) ]" },
     { "id": "ga--l9KfD0c", "title": "03 UI 구성하기 [ 토이 프로젝트 (Toy Project) ]" },

@@ -189,9 +189,7 @@ description: 🧶Node.js > 📺Youtube
 <MyYouTubeItems jsonName="yu-blogcreator6109" /><!-- 블로그 크리에이터 -->
 <MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
 <MyYouTubeItems jsonName="yu-reactproject" /><!-- React & Next js Projects with Sahand -->
-<MyYouTubeItems jsonName="yu-danteDeveloper" /><!-- 단테 -->
 <MyYouTubeItems jsonName="yu-jahiddev" /><!-- Jahid Anowar -->
-<MyYouTubeItems jsonName="yu-jsWithTola" /><!-- Giwa Fauzziyyah -->
 <MyYouTubeItems jsonName="yu-Pentacode" /><!-- Pentacode -->
 <MyYouTubeItems jsonName="yu-bugbytes3923" /><!-- BugBytes -->
 <MyYouTubeItems jsonName="yu-huxnwebdev" /><!-- HuXn WebDev -->
@@ -222,5 +220,6 @@ description: 🧶Node.js > 📺Youtube
 <MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 하찮은오후 -->
 <MyYouTubeItems jsonName="yu-eddiejaoude" /><!-- Eddie Jaoude -->
 <MyYouTubeItems jsonName="yu-FED-RF2023-yg9fv" /><!-- 탐쌤 FED-RF 2023 과정 -->
+<MyYouTubeItems jsonName="yu-user-mg8kt9go7z" /><!-- 모던애자일팀 -->
 
 <TagLinks />

@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "iJv0v1Lcj2Y", "title": "karpenter 인스턴스 후보 옵션 설정(Nodepool)" },
+    { "id": "fufHHLTpVLI", "title": "Ansible task 실행실패 동작" },
+    { "id": "hh3K9if2-2U", "title": "Ansible collection과 mysql 유저 생성 예제" },
+    { "id": "1rWe601H8PM", "title": "vscode에서 폴더를 즐겨찾기하는 방법" },
+    { "id": "z667TL5r6ZI", "title": "Ansible GUI관리 도구 - Smeaphore" },
+    { "id": "5WM4hVhxMnA", "title": "Kubernetes Admission controller" },
+    { "id": "YK5fp6pmxpc", "title": "AWS IPv6 통신을 위한 준비" },
     { "id": "s5SGdlwdbpw", "title": "docker-compose로 Ansible실습환경 구축" },
     { "id": "24zzkj0mYiw", "title": "ArgoCD Extension" },
     { "id": "Xk5kLFw2zGA", "title": "vscode에서 ansible자동완성 사용하는 방법" },

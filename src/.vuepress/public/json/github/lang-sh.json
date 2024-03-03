@@ -329,5 +329,10 @@
     "desc": "Windows in a Docker container.",
     "officialSite": "",
     "topics": ["docker", "docker-container", "windows", "windows-virtual-machines"]
+  }, {
+    "repo": "opendtrace/toolkit",
+    "desc": "The DTrace Toolkit: A set of scripts for use with DTrace on various systems.",
+    "officialSite": "",
+    "topics": []
   }
 ]

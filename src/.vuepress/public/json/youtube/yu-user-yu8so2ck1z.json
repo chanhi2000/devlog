@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/hnvrPXrMnzIWfh5sBVKzU3gZm9F5EdoVtL-V2Er-gYovHcI5EC3kwBx2DK6O3Vilgqzj3o54QQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Paht-0v8CnY", "title": "자바스크립트 그룹프로젝트 하고 싶은 사람 모여라! | 코딩 스터디 그룹 모집" },
+    { "id": "kllWOdnU1Fg", "title": "useRef 훅 누구보다 쉽게 설명해드림 | 지금 까지 useState만 썼다면 꼭 봐라" },
     { "id": "0RQymLPFNXs", "title": "(2024 최신 후기) 코딩 학원의 실태와 취업률의 실태를 알려드립니다." },
     { "id": "F-iaFWK7KIE", "title": "직접 비전공자들을 가르쳐 봤습니다. | 비전공자 코딩 2주 후.. 그 결과 공개| 1,2,3등 프로젝트 대 공개" },
     { "id": "Mqh13dNI8jc", "title": "웹개발자면서 이것도 모름? | DOM과 CSSOM, 렌더링 과정" },

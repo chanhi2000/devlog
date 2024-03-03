@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/TApmzNskaydDlyhXx1t7j7URhFUzIX5MufCihuJIRTVLym_pHqymT6X1O-b4WyQKx4K14N7d=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9lzrlOzzYMg", "title": "Controlling PixInsight with a StreamDeck on a Mac" },
+    { "id": "lNJ31b4FR28", "title": "Turbocharge your CPU Intensive Python Apps using MultiProcessing" },
     { "id": "QkGeJGAKHfs", "title": "Speed Up your Python Apps with Caching" }, 
     { "id": "4yUXPZGhIX8", "title": "Pydantic: Migrating from V1 to V2" }
   ]

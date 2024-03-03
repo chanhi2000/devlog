@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/m_WGEq8pBawVi71mEKiFbnOjbkvzyWguNpcAbss54NenWDivjpbbqREAlyoRNONKNBk6QlS87A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "v-2rWplEDoA", "title": "Dart Crash Course #12 - Fetching Data" },
+    { "id": "q7wlSvt0JIc", "title": "Godot 4 Crash Course #1 - The Basics" },
+    { "id": "8CrFk3tjsSY", "title": "Godot 4 Crash Course #2 - Coding in Godot" },
+    { "id": "nBCcnPAMvBg", "title": "Godot 4 Crash Course #3 - Physics & Signals" },
+    { "id": "MtKC5y1wK9Y", "title": "Godot 4 Crash Course #5 - Custom Signals" },
+    { "id": "_d5iunVxlk4", "title": "Godot 4 Crash Course #6 - Animation" },
+    { "id": "sYsl6PqcZSs", "title": "Godot 4 Crash Course #7 - Layout" },
+    { "id": "R8y1xxxbfEg", "title": "Godot 4 Crash Course #9 - Extras" },
+    { "id": "ZhVFoux2EzU", "title": "Godot 4 Crash Course #8 - Finishing Up" },
     { "id": "OjX0lOCn-8Q", "title": "Dart Crash Course #5 - Lists & Sets" },
     { "id": "5udl_LBpAHk", "title": "Dart Crash Course #6 - Control Flow" },
     { "id": "792ek6Y9940", "title": "Dart Crash Course #7 - Maps" },

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/ERYS_WWb_y_rBcIesvxslBQOifCVfZtk95ler7s4J1w27-qWhOyk4F5S9vh0R0e9OP4kCoXvIA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oH7XFAKh6W8", "title": "Svelte Society San Diego - January 2024" },
+    { "id": "wAttcVDP4Ec", "title": "Lucas Martin - Using SvelteKit to Build An Interactive Portfolio" },
+    { "id": "N8Hs-LVL_f8", "title": "Lukas Stracke - Building an Error and Performance Monitoring SDK for SvelteKit" },
+    { "id": "auqkebVQYXE", "title": "Domenik Reitzner - A brief history of prototyping" },
+    { "id": "YLp4F6615SQ", "title": "This Week in Svelte (16 Feb 2024)" },
+    { "id": "XXoaVj4-1cM", "title": "This Week in Svelte (23 Feb 2024)" },
+    { "id": "sJPHToFOAY0", "title": "This Week in Svelte (1 Mar 2024)" },
     { "id": "57tawstksmc", "title": "This Week in Svelte (2023 Dec 15) - SvelteKit 2.0!" },
     { "id": "3B7s5oeLIo0", "title": "Svelte in dynamic e-commerce widgets with Jacob Stordahl" },
     { "id": "O5ElGJICg0s", "title": "This Week in Svelte (22 Dec 2023) - SvelteKit 2.0.6, handling peerDependencies, action params" },

@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/n52IhPoygv7Es1j7Qzf5HYCyQRIzVAYG_Yv8CoBPVUWexcZqhsqEuShI5jsPHoT4e3jgo_jk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ozw3m_1Ap5c", "title": "Portainer and OhMyForm | Simple Open Source Forms in Containers for Easy Data Gathering" },
+    { "id": "jk4RoEYCZTo", "title": "Visualizing Data with ELK Stack | Elastic Stack Tutorial" },
+    { "id": "1pY_vHn-tVg", "title": "List Open Files and Users Accessing Them on Your System | Using lsof for System Administration" },
+    { "id": "__Iah689yHA", "title": "Building and Scaling with Terraform | Infrastructure as Code Series With Justin Mitchel" },
+    { "id": "A2wJmQVM0MM", "title": "Create Cloud Resources With the Power of Pulumi | Exploring Pulumi In Depth" },
+    { "id": "HDaHhC1j-DU", "title": "Automating Infrastructure with Terraform | Obtaining API Tokens and Provisioning Resources" },
+    { "id": "SuB-jQuJdQg", "title": "Is WASM the Future of Cloud Computing? | How Building with WASM Today Could Prevent Future Headaches" },
+    { "id": "Os5cWe_xrxI", "title": "Managing Resources and Creating Templates with Terraform | Building and Scaling with IaC" },
+    { "id": "zyhQpJC8Y1c", "title": "The Versatility of WebAssembly | Top 5 Languages You Can Deploy Anywhere with WASM" },
+    { "id": "ESCMdAjMPMw", "title": "Using Cloud Init to Easily Preconfigure Your Instances | Starting Instances with Defined Variables" },
+    { "id": "JQx7tFbcscY", "title": "Web Assembly for Node Developers | Enhancing Functionality and Speed" },
+    { "id": "2CCZ8fcLyGk", "title": "Building with FluxCD and Kubernetes | GitOps Principles Explained in Action" },
     { "id": "ulwU8LTmwys", "title": "Deploy Docker on Akamai Connected Cloud WITH SSL Certification | Reverse Proxy SSL Setup" },
     { "id": "rXLhjnRmqxE", "title": "How to Train Your Own Custom AI Bot | Use Custom Data with ChatGPT" },
     { "id": "qMSZ91NXhiw", "title": "Open Project | Open Source Project Management for Large Scale Organizations" },

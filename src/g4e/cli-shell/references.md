@@ -207,6 +207,12 @@ tag:
 
 ---
 
+## The Autodidacts
+
+- [Reclaim your focus with ~12 lines of bash](https://www.autodidacts.io/coldturkey-selfcontrol-freedom-leechblock-alternative-in-bash/)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

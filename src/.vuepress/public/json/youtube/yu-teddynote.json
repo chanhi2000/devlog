@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/Qfg6cJu-0hF72hWqycaSMrnVYdIx2rmLOEs7Sbw9_2lFWLjOD-WIOnNyRi9iLBi88MaCG2pPsxw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "r5YyftofuII", "title": "[10분컷] 노코딩으로 쇼핑몰 리뷰 분석 (크롤링 + Q&A 챗봇)" },
+    { "id": "D9v8oGbtfZA", "title": "[EP02] SEO 최적화된 Github 블로그 제목, 태그, 설명 생성 자동화" },
+    { "id": "RA9eqYTH1WU", "title": "#파이썬 코드를 #블로그 글로 변환하는 방법 feat. #chatgpt" },
+    { "id": "G8jrAA2bPnA", "title": "#LangChain 이 만든 #LangGraph 출시! LangGraph 의 멀티 에이전트 콜라보레이션 찍먹하기" },
+    { "id": "0X4Ks_nJUt8", "title": "#langchain 의 마법같은 문법 LCEL & Runnable" },
+    { "id": "hY8Pquy3Hhg", "title": "이미지를 matplotlib 파이썬 코드로, 원하는 문장을 입력하면 파이썬 코드로 변환하는 방법" },
+    { "id": "1scMJH93v0M", "title": "#langchain 의 #RAG 파이프라인 이해해보기 - 네이버 뉴스기사 기반 Q&A 챗봇 제작" },
+    { "id": "-Wne4a-8RlY", "title": "EP01. #openai 의 새로운 기능 #assistant  API 완벽히 이해해보기" },
+    { "id": "BMW1NJkL7Ks", "title": "EP02. #openai 의 새로운 기능 #assistant  API 3가지 도구 활용법" },
     { "id": "03r7sloAyOY", "title": "파이썬 Decorator! 알면 인생이 편해지는 기능!" },
     { "id": "2q1XlbFVzf8", "title": "LangChain Agent 를 활용하여 #chatgpt  를 #업무자동화 에 적용하는 방법🔥🔥" },
     { "id": "sSZ-IVpz7EU", "title": "초간단 파일공유 서비스(직접 만들어봄! 무료!!)" },

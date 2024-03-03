@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "p7HXjZEYXzI", "title": "Color Your Shell Prompt Red If the Last Command Threw an Error" },
+    { "id": "P8Y_Aw4H260", "title": "Hiding User Input in a Shell Script" },
+    { "id": "jtc28pCkN0k", "title": "Build Multi-CPU Architecture Docker Images with Buildx" },
+    { "id": "-NH8Urs4ST0", "title": "Build Git Tagged Multi-Arch Docker Images with GitHub Actions" },
+    { "id": "y5MW7dSmi3o", "title": "Wait for Input in a Graphical Code Editor in a Shell Script" },
     { "id": "wKE7dpe8czs", "title": "Troubleshooting Steps for When a Vim Plugin Is Not Working" },
     { "id": "l9DhnM0Q_ms", "title": "Difference between Double Ampersand and Semicolon in a Shell Script" },
     { "id": "2xJyBRSE4g0", "title": "Automate Suspending Kubernetes Cron Jobs with find and sed" },

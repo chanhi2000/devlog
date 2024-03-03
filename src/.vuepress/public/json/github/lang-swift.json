@@ -426,9 +426,9 @@
     "topics": ["ios", "large-language-model", "llama", "llama2", "llm", "mistral", "ollama", "ollama-app", "swift"]
   }, {
     "repo": "argmaxinc/WhisperKit",
-    "desc": "Swift native on-device speech recognition with Whisper for iOS and macOS",
+    "desc": "Swift native on-device speech recognition with Whisper for Apple Silicon",
     "officialSite": "https://takeargmax.com/blog/whisperkit",
-    "topics": ["inference", "ios", "pretrained-models", "speech-recognition", "swift", "transformers", "whisper"]
+    "topics": ["inference", "ios", "macos", "pretrained-models", "speech-recognition", "swift", "transformers", "visionos", "watchos", "whisper"]
   }, {
     "repo": "andersrex/notesollama",
     "desc": "Use Ollama to talk to local LLMs in Apple Notes",

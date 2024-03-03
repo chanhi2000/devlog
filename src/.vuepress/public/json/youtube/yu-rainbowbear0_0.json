@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "_xNDF1Gqgk0", "title": "[개발일기] 프로필 수정 결과, 해시태그 구상 (조언 환영)" },
+    { "id": "S6YWGG7lylY", "title": "[개발일기] controller - service - repository 리팩토링 (조언 환영)" },
+    { "id": "RDzrHPQEO0Y", "title": "[[개발일기] 채팅 구현을 위한 자료조사" },
+    { "id": "oapvCaE1RV4", "title": "[개발일기] gRPC 자료조사" },
     { "id": "j-blpu0Tue8", "title": "[개발일기] 프로필 수정 페이지 1차 기록 (조언 환영)" },
     { "id": "DCFF11saSXw", "title": "[개발일기] 프로필 수정 페이지 2차 기록 (조언 환영)" },
     { "id": "165L53-hjtg", "title": "[개발일기] 프로필 이미지 수정 구상 및 공부 기록 (조언 환영)" },

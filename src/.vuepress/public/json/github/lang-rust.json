@@ -1124,5 +1124,20 @@
     "desc": "Fuel Network Rust SDK",
     "officialSite": "https://fuellabs.github.io/fuels-rs",
     "topics": []
+  }, {
+    "repo": "cloudflare/pingora",
+    "desc": "A library for building fast, reliable and evolvable network services.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jafioti/luminal",
+    "desc": "Deep learning at the speed of light.",
+    "officialSite": "https://www.luminalai.com/",
+    "topics": []
+  }, {
+    "repo": "cloudflare/pingora",
+    "desc": "A library for building fast, reliable and evolvable network services.",
+    "officialSite": "",
+    "topics": []
   }
 ]

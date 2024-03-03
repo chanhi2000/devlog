@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/ZLv8NFRl9HmbN83EHoxpDViPz3c9CKgUUrPAdR6ysVI_dTyq-HUG2U63LM_nPEFMfKjK028D=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DO9Uv9eyVG4", "title": "AWS Tutorials - 126 -  Route53 - Logging - AWS  (in Hindi)" },
+    { "id": "lcj_GOE16U4", "title": "AWS Tutorials - 127 -  Route53 - DNS Firewall - Block Websites/ Allow Websites - AWS  (in Hindi)" },
+    { "id": "8T5B-VszRbQ", "title": "AWS Tutorials - 128 - Route53 - Private Hosted Zone - AWS (in Hindi)" },
+    { "id": "8T5B-VszRbQ", "title": "AWS Tutorials - 128 - Route53 - Private Hosted Zone - AWS (in Hindi)" },
+    { "id": "1wa-qSlRiFE", "title": "AWS Tutorials - 129 - Hybrid DNS - DNS Inbound EndPoints - AWS (in Hindi)" },
+    { "id": "lrGAd_PMIkY", "title": "AWS Tutorials - 130 - Hybrid DNS - DNS Outbound EndPoints - AWS (in Hindi)" },
+    { "id": "v5Mz6SL4UP0", "title": "AWS Tutorials - 131 - Route53 - Cleanup - Delete Inbount and Outbound Endpoint - Delete Hosted Zone" },
     { "id": "DKlSaceTHRc", "title": "AWS Tutorials - 120 -  Route53 - Latency Based Routing Policy in Action - AWS  (in Hindi)" },
     { "id": "4hFS0wIQzL8", "title": "AWS Tutorials - 121 -  Route53 - Failover Routing Policy in Action - AWS  (in Hindi)" },
     { "id": "Dwwd2YHr2Qs", "title": "AWS Tutorials - 122 -  Route53 - Multivalue Answer Routing Policy in Action - AWS  (in Hindi)" },

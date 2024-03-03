@@ -120,5 +120,7 @@ tag:
 <MyYouTubeItems jsonName="yu-DavidOndrej" /> <!-- David Ondrej -->
 <MyYouTubeItems jsonName="yu-mreflow" /><!-- Matt Wolfe -->
 <MyYouTubeItems jsonName="yu-newlearningTV" /><!-- NewLearning 뉴러닝 -->
+<MyYouTubeItems jsonName="yu-ExplainingComputers" /><!-- ExplainingComputers -->
+<MyYouTubeItems jsonName="yu-easyaitech" /><!-- AI 파트너스 -->
 
 <TagLinks />

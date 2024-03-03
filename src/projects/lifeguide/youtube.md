@@ -105,5 +105,8 @@ head:
 <MyYouTubeItems jsonName="yu-rala" /><!-- 랄라의살림기록 -->
 <MyYouTubeItems jsonName="yu-TheMoneyGPS" /><!-- The Money GPS -->
 <MyYouTubeItems jsonName="yu-sam_simple_restaurant" /><!-- 삼플식당(Sam Simple Restaurant) -->
+<MyYouTubeItems jsonName="yu-mannarecipe" /><!-- 함께해요 맛나요리 -->
+<MyYouTubeItems jsonName="yu-life_peace87" /><!-- 라이프피스 -->
+<MyYouTubeItems jsonName="yu-jamo_JonPark" /><!-- 자영업의 모든것 -->
 
 <TagLinks />

@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/VcrjriygyYu8arXpagf9kXTOZzJI73fg9Vhp62YHPFM2lh07_65LKf87kJCKzOHfUYBnEg5l=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sFGTwIYKK9I", "title": "백엔드 10년차 개발자의 고민" },
+    { "id": "DvFTiMWbLxk", "title": "IT강사는 돈을 잘 버는 직업인가? - 1편" },
+    { "id": "sZ3FnGxR6vU", "title": "메모장에 입력한 글이 파일로 저장되기까지 어떤 일들이 일어날까?" },
+    { "id": "FbLjQjuTkVA", "title": "취업에 성공하는 백엔드 개발자가 되고 싶은 분들을 위한 강의추천" },
+    { "id": "K00xh3zsof0", "title": "로그인된 상태를 Stateless 프로토콜인 HTTP는 어떻게 판단하는가?" },
+    { "id": "nJcqP3wjDys", "title": "MFC Windows 프로그래밍 - 기본과정 오픈안내" },
+    { "id": "loaBxjh6ryk", "title": "사수도 교육도 없이 개발을 해야 한다면 이직해야 할까요?" },
+    { "id": "TXqWLVh85Xo", "title": "커리어가 꼬인 비전공자 여성 개발자의 질문에 대한 답변" },
     { "id": "L78Cvmp716w", "title": "20대 현업 보안 컨설턴트에게 드리는 우울한 조언" },
     { "id": "_ckH37mpXzs", "title": "C개발자를 위한 최소한의 C++ 신규강의 오픈 안내" },
     { "id": "alZBfnOiZQw", "title": "객체, 클래스, 인스턴스 헷갈리지 않게 정리해드림" },

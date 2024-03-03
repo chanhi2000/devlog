@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/1CMERkpE8B5CzDv7PZoSHj9rZ9GspzwFlMmqyjAYQpnPAqjWsjRv_EgXp6IJ1gimRcUxbrTQnA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1c9iyoVIwDs", "title": "4 Methods of Prompt Engineering" },
+    { "id": "nwjROTpVpQQ", "title": "Top 5 Cloud Misconfigurations" },
+    { "id": "2YZ2gURJVOY", "title": "DSPM versus CSPM" },
+    { "id": "muLPOvIEtaw", "title": "How to implement AI Ethics" },
+    { "id": "pePAAGfh-IU", "title": "How to Pick the Right AI Foundation Model" },
+    { "id": "qxo8p8PtFeA", "title": "Why Linear regression for Machine Learning?" },
+    { "id": "cvPEiPt7HXo", "title": "Large Language ModelOperations (LLMOps) Explained" },
+    { "id": "mfxgfU5Abdk", "title": "How to Build AI Systems you can Trust" },
+    { "id": "ii09M-VsuPg", "title": "Cyber Attack Trends: Global Identity Crisis" },
+    { "id": "6tjSVXpHrE8", "title": "What is Apache Iceberg?" },
     { "id": "MiCK6_jZigo", "title": "Data Service Strategy for Stateful Containers" },
     { "id": "j8X0xiHTW54", "title": "Benefits of Data Observability" },
     { "id": "mJJpZ70q9M0", "title": "Spring Boot versus Quarkus" },

@@ -24,6 +24,12 @@ tag:
 
 ---
 
+## Pdf
+
+- [Sampling: What Nyquist Didn’t Say, and What to Do About It](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
+
+---
+
 ## Johns Hopkins Poker Course
 
 - [Johns Hopkins Poker Course](https://hopkinspokercourse.com/)

@@ -1,11 +1,13 @@
 {
   "channel": {
     "id": "jusikdante",
-    "name": "써티퍼센트_작전주,경제차트분석,주식전문",
+    "name": "주식단테_God of stock📈",
     "profile": "https://yt3.googleusercontent.com/IbnQQ-7mKiHLxAd8GKg6RlE1JUzuATh9oAT1qXK14b2ilqIX0wlQkAiNs9OHBpKJ_Ym-HWV76w=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/NyZPJBF8GEBOfgAHwcVcB3OGlZ_npnqEJEL5MExU42g0bH6nNQEjTGiG2wQkBUQcJVvZnlQsBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Bt_d3tc8Vxo", "title": "가치 투자를 그만두고 차트 분석을 하게 된 이유" },
+    { "id": "qzzfXKAMbDM", "title": "매매 시나리오를 수정하는 2가지 방법" },
     { "id": "hCiWIuhZz5I", "title": "이 구간을 알아두면 주식이 쉬워집니다!" }
   ]
 }

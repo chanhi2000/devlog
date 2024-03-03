@@ -1161,9 +1161,9 @@
     "topics": ["javascript", "testing", "facebook", "snapshot", "expectation", "easy", "painless-javascript-testing", "immersive", "painless"]
   }, {
     "repo": "ueberdosis/tiptap",
-    "desc": "The headless editor framework for web artisans.",
+    "desc": "The headless rich text editor framework for web artisans.",
     "officialSite": "https://tiptap.dev",
-    "topics": ["react", "javascript", "editor", "vue", "js", "prosemirror", "wysiwyg", "wysiwyg-editor", "rich-text", "hacktoberfest", "renderless-components", "tiptap"]
+    "topics": ["editor", "javascript", "js", "prosemirror", "react", "renderless-components", "rich-text", "tiptap", "vue", "wysiwyg", "wysiwyg-editor"]
   }, {
     "repo": "ueberdosis/hocuspocus",
     "desc": "The Y.js WebSocket backend",
@@ -2318,5 +2318,25 @@
     "desc": "📱 user interfaces for react-three-fiber",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "redis/ioredis",
+    "desc": "🚀 A robust, performance-focused, and full-featured Redis client for Node.js.",
+    "officialSite": "",
+    "topics": ["nodejs", "redis", "redis-client", "redis-cluster", "redis-module", "redis-sentinel", "typescript"]
+  }, {
+    "repo": "cooderl/wewe-rss",
+    "desc": "🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。",
+    "officialSite": "",
+    "topics": ["mysql", "nestjs", "rss", "rsshub", "sqlite", "trpc", "wechat", "wechat-rss", "weread"]
+  }, {
+    "repo": "ente-io/ente",
+    "desc": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+    "officialSite": "https://ente.io",
+    "topics": ["2fa", "android", "authy", "e2ee", "encryption", "end-to-end-encryption", "flutter", "golang", "google-photos", "google-photos-alternative", "ios", "opensource", "photos", "privacy", "privacy-tools", "typescript", "zero-knowledge"]
+  }, {
+    "repo": "vercel/ai",
+    "desc": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+    "officialSite": "https://sdk.vercel.ai/docs",
+    "topics": ["artificial-intelligence", "huggingface", "javascript", "language-model", "llm", "nextjs", "openai", "react", "solidjs", "svelte", "typescript", "vercel", "vue"]
   }
 ]

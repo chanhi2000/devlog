@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "starcoding",
+    "name": "별코딩",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mYvldJRDtZ7SEJraqMXGxA90dzr6oB3Xzx49ei=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AZuSUyV7xarFy_h2eWqsg3Ytl_HRKXus9ZTs5l5uAipWZc7Jv-jkn0241rRDAUu0L0hvjJwMmg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "React.js 강의 시리즈",
+      "videos": [
+        { "id": "oqUgcxwrnSY", "title": "React.memo로 컴포넌트 최적화하기 (ft. useMemo, useCallback)" },
+        { "id": "XuF6Qem0cTE", "title": "React.Fragment는 무엇? 리액트 개발자라면 꼭 알아야됨" },
+        { "id": "gc-kXt0tjTM", "title": "React의 가상돔 (Virtual DOM)이 뭔가요? (짱 쉬움)" },
+        { "id": "QC3PtSlzp3s", "title": "React - List와 Key의 중요성. 디버깅의 악몽을 피하자!" },
+        { "id": "LtYzjv2yXHE", "title": "React의 ForwardRef란? | Ref 전달하기" }
+      ]
+    }, {
+      "title": "React Hooks에 취한다 - 리액트 훅스 쉽게 마스터하기",
+      "videos": [
+        { "id": "G3qglTF-fFI", "title": "React Hooks에 취한다 - useState 15분만에 마스터하기 | 리액트 훅스 시리즈" },
+        { "id": "kyodvzc5GHU", "title": "React Hooks에 취한다 - useEffect 깔끔하게 마스터하기 | 리액트 훅스 시리즈" },
+        { "id": "VxqZrL4FLz8", "title": "React Hooks에 취한다 - useRef 완벽 정리 1# 변수 관리 | 리액트 훅스 시리즈" },
+        { "id": "EMK8oUUwP5Q", "title": "React Hooks에 취한다 - useRef 완벽 정리 2# DOM 요소 접근 | 리액트 훅스 시리즈" },
+        { "id": "LwvXVEHS638", "title": "React Hooks에 취한다 - useContext + Context API | 리액트 훅스 시리즈" },
+        { "id": "e-CnI8Q5RY4", "title": "React Hooks에 취한다 - useMemo 제대로 사용하기 | 리액트 훅스 시리즈" },
+        { "id": "XfUF9qLa3mU", "title": "React Hooks에 취한다 - useCallback 짱 쉬운 강의 | 리액트 훅스 시리즈" },
+        { "id": "tdORpiegLg0", "title": "React Hooks에 취한다 - useReducer 확실히 정리해드려요 | 리액트 훅스 시리즈" },
+        { "id": "oqUgcxwrnSY", "title": "React.memo로 컴포넌트 최적화하기 (ft. useMemo, useCallback)" },
+        { "id": "S6POUU2-tr8", "title": "React Hooks에 취한다 - Custom Hooks 커스텀 훅 | 리액트 훅스 시리즈" },
+        { "id": "DSyJHvPPF48", "title": "React Hooks에 취한다 🧑🏻‍💻 #Shorts" },
+        { "id": "y0vhpilNSKo", "title": "React Hooks에 취한다 - useId 세상에서 제일 쉬운 리액트 훅" }
+      ]
+    }
+  ]
+}

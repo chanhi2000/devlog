@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/LBx-PFPevasWu6YfvRtaV6VDKalTt7lpHKixM9JyQ13iv7fPqoB_vgaBzYgqBeEte8xb5K0X=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cY6tApsLZC8", "title": "SEO, Sitemaps, Open Graph and Google Analytics - Deployment with Django - Part 12" },
+    { "id": "AjKhxWgGpjY", "title": "Deploy Django app to Railway" },
+    { "id": "DANYPEz2iXg", "title": "Upgrade Django version - Deployment with Django - Part 13" },
+    { "id": "ENOZ4iA_d2w", "title": "AWS S3 bucket & files transfer - Deployment with Django - Part 14" },
     { "id": "CziC1s5MULw", "title": "Maintenance Page with Django Middleware - Deployment with Django - Part 10" },
     { "id": "MfMok3ZAWjU", "title": "Domains, Allowed Hosts and CSRF - Deployment with Django - Part 11" },
     { "id": "6KNO-RBimNo", "title": "Nested Replies with Django and Htmx" },

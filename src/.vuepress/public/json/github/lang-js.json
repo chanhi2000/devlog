@@ -2009,5 +2009,10 @@
     "desc": "Supplanting matrices with PGA in a forward 3D renderer.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "adrianhajdin/brainwave",
+    "desc": "Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills.",
+    "officialSite": "https://jsm-brainwave.com",
+    "topics": ["reactjs", "tailwindcss"]
   }
 ]

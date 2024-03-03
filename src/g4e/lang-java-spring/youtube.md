@@ -61,5 +61,7 @@ head:
 <MyYouTubeItems jsonName="yu-NarenJavaTech" /><!-- Naren Java Help Line -->
 <MyYouTubeItems jsonName="yu-IOCodes" /><!-- IOCODES -->
 <MyYouTubeItems jsonName="yu-crackITTechieTalks" /><!-- crackIT -->
+<MyYouTubeItems jsonName="yu-airklassofficial" /><!-- 에어클래스 -->
+<MyYouTubeItems jsonName="yu-tech-soft" /><!-- Tech Soft -->
 
 <TagLinks />

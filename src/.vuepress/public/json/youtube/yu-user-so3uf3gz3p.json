@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/CDpj23-Bz_cRWW3J1q0ozQgwCisyW6AcMzEjIGmCUzmgidl9G3FXqcA8x-yYZuSznpXWA7ntjbk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dWY12E_CMMc", "title": "도커와 컨테이너는 무엇일까요?" },
+    { "id": "eoWfuFfHjbw", "title": "리눅스 Zero베이스 초보자 트러블슈팅 미리보기" },
+    { "id": "dkf_rYbANNg", "title": "쿠버네티스 무엇일까요?" },
+    { "id": "2ODNNN6Mpv0", "title": "sync 와 /proc/sys/vm/drop_caches 차이점" },
+    { "id": "0uPh4qAvP98", "title": "vi,vim 스왑파일swap문제해결" },
+    { "id": "VGOD2wwtUBY", "title": "리눅스 필수 시스템 명령어 알아보기(무료 실습환경 소개 포함)" },
+    { "id": "Ebm_20-Byhg", "title": "리눅스 필수 네트워크 명령어 알아보기(무료 실습환경 소개 포함)" },
+    { "id": "qfujVybZWz4", "title": "리눅스,쿠버네티스(k8s) 설치없이 웹사이트에서 무료로 실습하기" },
     { "id": "uGwR64h0flU", "title": "리눅스Zero베이스미리보기" },
     { "id": "_sB9-4SYZCQ", "title": "[리얼리눅스 무료세미나] \"코딩없이 IT 취업하려면?\"" },
     { "id": "LeaFY0uJ1ig", "title": "리눅스 배우면 서버엔지니어 가능한가요?" },

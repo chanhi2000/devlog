@@ -620,6 +620,11 @@
     "officialSite": "",
     "topics": ["awesome", "ai", "artificial-intelligence", "generative-art", "awesome-list", "large-language-models", "llm", "generative-ai"]
   }, {
+    "repo": "aishwaryanr/awesome-generative-ai-guide",
+    "desc": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+    "officialSite": "https://www.linkedin.com/in/areganti/",
+    "topics": ["awesome", "awesome-list", "generative-ai", "interview-questions", "large-language-models", "llms", "notebook-jupyter", "vision-and-language"]
+  }, {
     "repo": "binhnguyennus/awesome-scalability",
     "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
     "officialSite": "",
@@ -1009,5 +1014,10 @@
     "desc": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。",
     "officialSite": "https://v2cross.com",
     "topics": ["clash", "client", "fanqiang", "fq", "free-servers", "freefq", "google", "shadowrocket", "shadowshare", "shadowsocks", "socket", "ss", "tizi", "trojan", "v2ray", "vless", "vmess", "xtls"]
+  }, {
+    "repo": "charlax/professional-programming",
+    "desc": "A collection of learning resources for curious software engineers",
+    "officialSite": "",
+    "topics": ["architecture", "computer-science", "concepts", "documentation", "engineer", "learning", "lessons-learned", "professional", "programmer", "programming-language", "read-articles", "scalability", "software-engineering"]
   }
 ]

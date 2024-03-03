@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/9DKy95AxTFOd98MqP1P6JzG1JayMWonpB3UkQLu5noWEcyy0hdMJr94auTgNrHY8APrxdSRQKd0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jSVVsD3H7zs", "title": "Prompt Engineering for Beginners - Tutorial 14 - Creating Prompt Templates" },
+    { "id": "8hW-OjwpwMk", "title": "Prompt Engineering for Beginners - Tutorial 15 - Evaluation Pipeline" },
+    { "id": "t8QuD3s9GsI", "title": "Prompt Engineering for Beginners - Tutorial 16 - Anthropic" },
     { "id": "g14Rkur1SCw", "title": "Prompt Engineering for Beginners - Tutorial 13 - Embeddings" },
     { "id": "2BPDwDoiw3E", "title": "Prompt Engineering for Beginners - Tutorial 11 - Image Variation" },
     { "id": "He4V-qn188k", "title": "Prompt Engineering for Beginners - Tutorial 9 - Scoring" },

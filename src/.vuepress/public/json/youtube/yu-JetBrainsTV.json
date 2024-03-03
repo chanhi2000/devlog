@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/iwXjS04FuZpdVULzd3Ko0Ezkqr7iolMGetVHRC6YvgVLCe_uIikyux0IpFQKoW073CBSYD3fh8I=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GIrXNibrD-I", "title": "How to work with SQL and Databases in DataSpell" },
+    { "id": "hX08s8OJo3c", "title": "Developing Critical Thinking in the Era of ChatGPT" },
+    { "id": "to5QoIvUI5U", "title": "Updating Old .NET Framework Apps" },
+    { "id": "slkbAAWNP3I", "title": "People Behind Plugins With Soner Sayakci, Author of the 1Password and Shopware 6 Toolbox Plugins" },
+    { "id": "7BtkiMXed3w", "title": "JS Roundup: Vue 3.4 | Angular 17.1 | ESLint 9.0.0 Alpha | React Custom Elements | Bun Shell" },
+    { "id": "0Iho911N7Nk", "title": "Navigate by Symbol in any JetBrains IDE" },
+    { "id": "UHWhLxBYfKs", "title": "How To Build a Plugin for JetBrains IDEs (Analog.js Example)" },
+    { "id": "pp_Ugbx9wj8", "title": "Mastering Ruby Version Managers in RubyMine" },
+    { "id": "3D4NAtpmQjc", "title": "Debugging Ruby on Rails With Ease in RubyMine" },
+    { "id": "Qxou-fpOZKY", "title": "Go to File in any JetBrains IDE" },
     { "id": "-YYosWp77yM", "title": "Idiomatic Go Enums Explained, with GoLand" },
     { "id": "QVrcHv-Tm4k", "title": "Mastering OData: An In-Depth Developer's Guide" },
     { "id": "v6_sydJT8XM", "title": "C++: Building Better With Jonathan Müller and Dmitry Kozhevnikov" },

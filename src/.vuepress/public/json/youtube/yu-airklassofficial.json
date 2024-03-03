@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "airklassofficial",
+    "name": "에어클래스",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k8pjvHb4v9Fp3SGeiJos17mP-nfk0uvVXaNkzjnQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dM0QOFVvgqam-oCGwTBCk5u7rddoNoP5MSKk5JBX0l4WiCmW4TlUub7wZbKEBm8xAkF4LuwBogk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "P56j0qwZBa8", "title": "파이토치로 딥러닝 제대로 배우기 | PyTorch(파이토치)로 딥러닝 제대로 배우기 (활용) Part.1 | 취업·실무·창업 | 에어클래스" },
+    { "id": "e6VsfN4v5ZU", "title": "인벤터 2024 에서 3D 형상 조립하기 | Inventor(인벤터) 2024 제대로 활용하기 Part.2 | 취업·실무·창업 | 에어클래스" },
+    { "id": "lvNl2y02NUw", "title": "인벤터 2024 에서 3D 형상 모델링 연습 | Inventor(인벤터) 2024 제대로 활용하기 Part.1 | 취업·실무·창업 | 에어클래스" },
+    { "id": "D4XyUUSKvWU", "title": "플러터 프로그래밍 기법 학습 | 모바일 앱 개발자를 위한 Flutter(플러터) 제대로 배우기 Part.4 중급1 단위계산기, 작업 타이머 앱 | 취업·실무·창업 | 에어클래스" },
+    { "id": "EfE0F7s3h7I", "title": "라즈베리파이의 기능과 간단한 센서 익히기 | 라즈베리파이(Raspberry Pi) 초보자를 위한 로봇 팔 만들기 | 취업·실무·창업 | 에어클래스" },
+    { "id": "fnE0Lzi74cA", "title": "파이토치로 딥러닝 제대로 배우기 | PyTorch(파이토치)로 딥러닝 제대로 배우기 (활용) Part.2 | 취업·실무·창업 | 에어클래스" },
+    { "id": "PbRelwfQslM", "title": "플러터 모바일 앱 개발 | 모바일 앱 개발자를 위한 Flutter(플러터) 제대로 배우기 Part.4 중급4 List, Map, Dart | 취업·실무·창업 | 에어클래스" },
+    { "id": "3yXT-jNL8jA", "title": "플러터 모바일 앱개발 | 모바일 앱 개발자를 위한 Flutter(플러터) 제대로 배우기 Part.4 중급3 구글 맵과 장소기록, 도서API 이용앱 | 취업·실무·창업 | 에어클래스" },
+    { "id": "NixfcD8M1KY", "title": "플러터 모바일 앱 개발 | 모바일 앱 개발자를 위한 Flutter(플러터) 제대로 배우기 Part.4 중급2 핑퐁게임, 영화나라, 장보기 앱 | 취업·실무·창업 | 에어클래스" },
+    { "id": "794XNKMGl7A", "title": "2024 신년맞이 자기개발도 하고 50% 환급도 받아볼까? 약 15,000개 클래스 오마카세 대기중!" },
+    { "id": "e1-A9NjBvK0", "title": "아두이노 모듈을 이용하여 회로 구성하기 | 얼굴 아나토미(anatomy, 해부학)와 라이크니스(Likeness) 배우기 (Zbrush2023활용) | 취업·실무·창업 | 에어클래스" },
+    { "id": "5jtB-amMupA", "title": "아두이노 모듈을 이용하여 회로 구성하기 | 아두이노(Arduino) 제대로 배우기 | 취업·실무·창업 | 에어클래스" },
+    { "id": "2-_bYnhJ9TA", "title": "플러터 비동기 처리 | 모바일 앱개발자를 위한 Flutter(플러터) 배우기 Part.4 중급5 Class, 추상, 제네릭, 파일처리, 암호화 등 | 취업·실무·창업 | 에어클래스" },
+    { "id": "FasKar8FtRY", "title": "2024 신년 성공 부적 만들기 이벤트 | 기술사 클래스 최대 24% 할인 중!" },
+    { "id": "G_OCiFZcfOA", "title": "자바 언어 배우기 | 자바 백엔드 개발자되기 제1탄 - JAVA 프로그래밍 with Java17 Part.2-1 클래스와 객체 | 취업·실무·창업 | 에어클래스" },
+    { "id": "vkBNQeIU1Ns", "title": "HTML,CSS,포토샵 기초습득 | 왕초보를 위한 상세 페이지 제작 강의노트 (Photoshop, HTML, CSS 활용)(2024) Part.2 | 취업·실무·창업 | 에어클래스" },
+    { "id": "cpsFcTuPSUI", "title": "HTML,CSS,포토샵 기초 습득 | 왕초보를 위한 상세 페이지 제작 강의노트 (Photoshop,HTML,CSS 활용) (2024) Part.1 | 취업·실무·창업 | 에어클래스" },
+    { "id": "v7NsjA2ZZoo", "title": "자바 백엔드 개발자 되기 | 자바 백엔드 개발자되기 제1탄 - JAVA 프로그래밍 with Java17 Part.3-2 배열과 미니 프로젝트 | 취업·실무·창업 | 에어클래스" },
+    { "id": "iT0ceDVjNNk", "title": "자바 언어 배우기 | 자바 백엔드 개발자되기 제1탄 - JAVA 프로그래밍 with Java17 Part.2-2 클래스와 객체 | 취업·실무·창업 | 에어클래스" },
+    { "id": "MpiPya-8hoI", "title": "자바 백엔드 개발자 되기 | 자바 백엔드 개발자되기 제1탄 - JAVA 프로그래밍 with Java17 Part.3-1 배열과 미니 프로젝트 | 취업·실무·창업 | 에어클래스" },
+    { "id": "rSYLK3zFQJM", "title": "자바 프로그래밍 배우기 | 자바 백엔드 개발자되기 제1탄 - JAVA 프로그래밍 with Java17 Part.5-1 입출력 및 유용한 클래스들 | 취업·실무·창업 | 에어클래스" },
+    { "id": "QBMfLM7GfnU", "title": "자바 백엔드 개발자 되기 | 자바 백엔드 개발자되기 제1탄 - JAVA 프로그래밍 with Java17 Part.4-1 OOP 중급 | 취업·실무·창업 | 에어클래스" },
+    { "id": "HIfC-aKPsa4", "title": "자바 프로그래밍 배우기 | 자바 백엔드 개발자되기 제1탄 - JAVA 프로그래밍 with Java17 Part.4-2 OOP 중급 | 취업·실무·창업 | 에어클래스" },
+    { "id": "Qf4If8p05QY", "title": "자바 프로그래밍 배우기 | 정보처리기능사 실기 2과목 프로그래밍언어 활용 (2023년개정) Part.2 JAVA | 취업·실무·창업 | 에어클래스" },
+    { "id": "1IFJBaV9JXA", "title": "자바 프로그래밍 배우기 | 정보처리기능사 실기 2과목 프로그래밍언어 활용 (2023년개정) Part.1 C언어 | 취업·실무·창업 | 에어클래스" },
+    { "id": "4GBgwWoxSZ4", "title": "자바 프로그래밍 배우기 | 자바 백엔드 개발자되기 제1탄 - JAVA 프로그래밍 with Java17 Part.5-2 입출력 및 유용한 클래스들 | 취업·실무·창업 | 에어클래스" },
+    { "id": "QWW_gLRxQyA", "title": "2023년 확률과 통계 4점 문제유형 76제 | 수능 확률과 통계-2023 | 초중고 | 에어클래스" },
+    { "id": "2NuSf4Qex6o", "title": "2023년 미적분 4점 문제유형 85제 | 수능 미적분-2023 | 초중고 | 에어클래스" },
+    { "id": "PhnBJQ0ymL0", "title": "무료 makerCAM으로 무엇을 할 수 있는가 | 오픈소프트웨어 2.5D CNC 메이커캠 강의 | 취업·실무·창업 | 에어클래스" },
+    { "id": "njZdy8XNbfU", "title": "원금 손실없는 주식투자로 경제적 자유 달성하자 | [경자나라] 익절파티반 | 경제 | 에어클래스" },
+    { "id": "p2pUADctk58", "title": "PowerBI를 이용한 시각화보고서 작성 및 스토리텔링 | 알상무의 파워비아이 트레이닝 캠프 | 취업·실무·창업 | 에어클래스" },
+    { "id": "SrYgdhC6mKo", "title": "핵심 패턴만으로도 폴란드 현지인과 자연스러운 대화가 되는 비법을 담은 강의 | The 바른 폴란드어 Step2 : Part1 | 외국어 | 에어클래스" },
+    { "id": "olnoL6bLUmo", "title": "인도네시아에서 실제로 많이 쓰이는 네이티브 실용 표현 학습 | 패턴의 법칙 인도네시아어 첫걸음 Part2 | 외국어 | 에어클래스" }
+  ]
+}

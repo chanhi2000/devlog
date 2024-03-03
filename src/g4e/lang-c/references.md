@@ -213,6 +213,12 @@ tag:
 
 ---
 
+## Reddit (old)
+
+- [Maybe possible bug in `std::shared_mutex` on Windows](https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

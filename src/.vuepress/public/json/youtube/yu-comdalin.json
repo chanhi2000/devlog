@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "iQXEvWb7564", "title": "[인공지능,머신러닝,딥러닝] (심화) Evaluating and Inducing Personality in Pre-trained Language Models" },
+    { "id": "E-VI1SfTszs", "title": "[인공지능,머신러닝,딥러닝] (심화) LLM leaderboard 성능은 의미있다 or 없다" },
     { "id": "Gtz5_21lHxM", "title": "[파이썬] unittest, 그리고 coverage" },
     { "id": "51k4ZKvFyJQ", "title": "[pinecone] Filtering with Metadata" },
     { "id": "GEcSutX6kmE", "title": "[pinecone] Data management" },

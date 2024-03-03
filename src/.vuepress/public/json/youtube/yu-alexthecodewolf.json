@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/AkFbWpidry0bFjIop0oa6Ct65P6xWu9o93GamfbYSVSF-I_xUuoUTOnpKez77NLKhqNJ6kkzqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bCDiMBfU7UE", "title": "Use the Azure Cosmos DB emulator to develop locally" },
+    { "id": "zqNr0wiKaMM", "title": "Use a SQL Server Database container for local .NET development (and other frameworks)" },
+    { "id": "HUNQnchaxMA", "title": "Use a Redis Container for local .NET Development (and other frameworks)" },
+    { "id": "EqfUV_LRQ10", "title": ".NET 9.0 Preview 1 is here!! An introductory tour." },
+    { "id": "hw6oTjw9_Ro", "title": "Use AI to chat with a relational SQL database with natural language!" },
+    { "id": "9g0T0Bd-U4s", "title": "Use Content Filtering to Build Safer OpenAI Apps" },
     { "id": "9yHjJPRkac0", "title": "Build a Language Flashcard App with Azure AI and Blazor - every step!" },
     { "id": "bzfVYB2WBXs", "title": "Introducing Microsoft AppCAT - Analyze your apps for Azure migration in one command." },
     { "id": "keIs_bpgdXs", "title": "Authenticate to Azure OpenAI the right way using Microsoft Entra ID" },

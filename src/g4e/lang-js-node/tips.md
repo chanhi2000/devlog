@@ -23,7 +23,9 @@ tag:
 
 ## One-liner
 
-### Capitalize Text
+::: tabs
+
+@tab:active Capitalize Text
 
 ```js
 const capitalize = (str) => `${str.charAt(0).toUpperCase()}${str.slice(1)}`;
@@ -33,7 +35,7 @@ capitalize(name)
 // Result: "Robert"
 ```
 
-### Calculate Percent
+@tab Calculate Percent
 
 ```js
 const calculatePercent = (value, total) => Math.round((value / total) * 100)
@@ -44,7 +46,7 @@ calculatePercent(questionsCorrect, questionsTotal);
 // Result: 55
 ```
 
-### Get a Random Element
+@tab Get a Random Element
 
 ```js
 const getRandomItem = (items) =>  items[Math.floor(Math.random() * items.length)];
@@ -54,7 +56,7 @@ getRandomItem(items);
 // Result: "Good job!"
 ```
 
-### Remove Duplicate Elements
+@tab Remove Duplicate Elements
 
 ```js
 const removeDuplicates = (arr) => [...new Set(arr)];
@@ -64,7 +66,7 @@ removeDuplicates(friendList);
 // Result: ['Jeff', 'Jane', 'Rob']
 ```
 
-### Sort Elements By Certain Property
+@tab Sort Elements By Certain Property
 
 ```js
 const sortBy = (arr, key) => arr.sort((a, b) => a[key] > b[key] ? 1 : a[key] < b[key] ? -1 : 0);
@@ -76,7 +78,7 @@ sortBy(lessons, 'position');
 // {position: 1, name: 'Intro'}
 ```
 
-### Check If Arrays/Objects are Equal
+@tab Check If Arrays/Objects are Equal
 
 ```js
 const isEqual = (a, b) => JSON.stringify(a) === JSON.stringify(b);
@@ -85,7 +87,7 @@ isEqual([1, '2'], [1, 2]); // Result: false
 isEqual([1, 2], [1, 2]); // Result: true
 ```
 
-### Count Number of Occurrences
+@tab Count Number of Occurrences
 
 ```js
 const countOccurrences = (arr, value) => arr.reduce((a, v) => (v === value ? a + 1 : a), 0);
@@ -96,7 +98,7 @@ countOccurrences(pollResponses, response);
 // Result: 2
 ```
 
-### Wait for a Certain Amount of Time
+@tab Wait for a Certain Amount of Time
 
 ```js
 const wait = async (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
@@ -104,7 +106,7 @@ const wait = async (milliseconds) => new Promise((resolve) => setTimeout(resolve
 wait(2000).then(() => goToSignupPage());
 ```
 
-### Use the Pluck Property from Array of Objects
+@tab Use the Pluck Property from Array of Objects
 
 ```js
 const pluck = (objs, key) => objs.map((obj) => obj[key]);
@@ -114,7 +116,7 @@ pluck(users, 'name');
 // Result: ['Abe', 'Jennifer']
 ```
 
-### Insert an Element at a Certain Position
+@tab Insert an Element at a Certain Position
 
 ```js
 const insert = (arr, index, newItem) => [...arr.slice(0, index), newItem, ...arr.slice(index)];
@@ -125,11 +127,15 @@ insert(items, 2, 3);
 // Result: [1, 2, 3, 4, 5]
 ```
 
+:::
+
 ---
 
 ## Number
 
-### Truncate an Array
+::: tabs
+
+@tab:active Truncate an Array
 
 ```js
 let array = [0, 1, 2, 3, 4, 5];
@@ -137,7 +143,7 @@ array.length = 3;
 // Result: [0, 1, 2]
 ```
 
-### Last Item in Array
+@tab Last Item in Array
 
 ```js
 let array = [0, 1, 2, 3];
@@ -145,7 +151,7 @@ array.slice(-1);
 // Result: [3]
 ```
 
-### Convert to Boolean
+@tab Convert to Boolean
 
 ```js
 const isTrue = !0;
@@ -155,7 +161,7 @@ const alsoFalse = !!0;
 // typeof isTrue: "boolean",
 ```
 
-### Convert to String
+@tab Convert to String
 
 ```js
 const val = 5 + "";
@@ -163,7 +169,7 @@ const val = 5 + "";
 // typeof val: "string",
 ```
 
-### Convert to Int
+@tab Convert to Int
 
 ```js
 let int = "15";
@@ -172,7 +178,7 @@ int = +int;
 // typeof  int: "number"
 ```
 
-### Convert Float to Int
+@tab Convert Float to Int
 
 ```js
 const int = 19.8 | 0;
@@ -180,7 +186,7 @@ const int = 19.8 | 0;
 // typeof int: "number"
 ```
 
-### Remove Last Digit
+@tab Remove Last Digit
 
 ```js
 const int = 1553 / 10 | 0;;
@@ -188,13 +194,15 @@ const int = 1553 / 10 | 0;;
 // typeof int: "number"
 ```
 
-### Random number in a given range
+@tab Random number in a given range
 
 ```js
 const randomNumberInAGivenRange = (num1, num2) => Math.random() * (num2 - num1) + num1;
 
 console.log(randomNumberInAGivenRange(50, 100));
 ```
+
+:::
 
 ---
 

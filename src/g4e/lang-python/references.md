@@ -343,4 +343,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Cal Bryant
+
+- [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python)
+
+---
+
 <TagLinks />

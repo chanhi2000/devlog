@@ -33,5 +33,6 @@ tags:
 <MyYouTubeItems jsonName="yu-marcusstone6273" /><!-- Marcus Stone -->
 <MyYouTubeItems jsonName="yu-Bardeenai" /><!-- Bardeen -->
 <MyYouTubeItems jsonName="yu-Ginseng_Youngman" /><!-- 홍청이의 방방곡곡 -->
+<MyYouTubeItems jsonName="yu-learningspoons" /><!-- 러닝스푼즈 - 성장이 필요한 순간 -->
 
 <TagLinks />

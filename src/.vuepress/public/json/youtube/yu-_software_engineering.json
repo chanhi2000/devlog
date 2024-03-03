@@ -119,7 +119,41 @@
     { "id": "uG3PUeKGBz8", "title": "Android App using Unit Testing and UI Testing (JUnit & Espresso)" }
   ],
   "playlists": [
-    { 
+    {
+      "title": "💼  Mastering Lead Android Developer Interview Q & A - بالعربي",
+      "videos": [
+        { "id": "Lc2kBsde0UQ", "title": "💖 Lead Android Developer Interview Questions part-1" },
+        { "id": "0vlR1r5xG7M", "title": "💕 Lead Android Developer Interview Questions part-2" },
+        { "id": "Nw0npj7IjKw", "title": "💝 Lead Android Developer Interview Questions part-3" },
+        { "id": "3ETbrh0MztY", "title": "💖 Lead Android Developer Interview Questions part-4 End" },
+        { "id": "RXm7dhH1StQ", "title": "Most Common Team Lead Android Developer Interview Q & A" },
+        { "id": "ysGcfkgwKIY", "title": "Most Common Tech Lead Android Developer Interview Q & A" },
+        { "id": "cruSwCKOq9M", "title": "Top Team Leader Q & A (1)" },
+        { "id": "ej8-jLr4PWw", "title": "Top Team Leader Q & A (2)" },
+        { "id": "b5E9OcSPdL0", "title": "Top Team Leader Q & A (3)" },
+        { "id": "Ieut5SmQSxw", "title": "Tech Lead Interview Q & A" },
+        { "id": "NL04O-bPemo", "title": "Top Technical Lead Interview Q & A (1)" },
+        { "id": "M40ibgrF2LQ", "title": "Top  Tech Lead Interview Q & A (2)" },
+        { "id": "02JSRTVERGs", "title": "Top  Tech Lead Interview Q & A  (3)" },
+        { "id": "R1kR_mIxgA4", "title": "Top Team leader Interview Q & A (1)" },
+        { "id": "pfuJBd3mSe8", "title": "Top Team leader Interview Q & A (2)" },
+        { "id": "5HrkVpQMM-A", "title": "Top Team leader Interview Q & A (3)" },
+        { "id": "6fbEsBUi1hs", "title": "Top Team leader Interview Q & A (4)" },
+        { "id": "kQLABsfEr7s", "title": "Team Leaders Interview Q & A (1)" },
+        { "id": "l6t-WC-1LcM", "title": "Team Leaders Interview Q & A (2)" },
+        { "id": "0-iFW2pB_GU", "title": "Team Leaders Interview Q & A (3)" },
+        { "id": "U02uHJRr3d4", "title": "Team Leaders Interview Q & A (4)" },
+        { "id": "_0rhnnYHXlI", "title": "Team Leaders Interview Q & A (5)" },
+        { "id": "nO96pmCscP4", "title": "Team Leaders Interview Q & A (6)" },
+        { "id": "D8TzIsKS9-g", "title": "Team Leaders Interview Q & A (7)" },
+        { "id": "ZSzzBVXk0dU", "title": "Team Leaders Interview Q & A (8)" },
+        { "id": "vv_oVK_aOH4", "title": "10 good technical lead interview questions" },
+        { "id": "BALLQIFbhEU", "title": "Most Common Tech Lead Interview Q & A (1)" },
+        { "id": "58ga73JL4LM", "title": "Most Common Tech Lead Interview Q & A (2)" },
+        { "id": "bXDC9EG8UHc", "title": "Most Common Tech Lead Interview Q & A (3)" },
+        { "id": "NZirUuCWwxQ", "title": "Most Common Tech Lead Interview Q & A (4)" }
+      ]
+    }, {
       "title": "Android Developer Interview Q & A - بالعربي",  
       "videos": [
         { "id": "tkn9RlHz-uc", "title": "Android Developer Interview Q & A part-1" },

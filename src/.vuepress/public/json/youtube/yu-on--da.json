@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "on--da",
+    "name": "온다 ON-DA",
+    "profile": "https://yt3.googleusercontent.com/sLhqmMHb-WpsUaBas2oC2-KECVNacZl3qBa7izCVnqrnZvORLAwSod1c42m_TpPSVyaLzJVY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5e8VD--RbhCucnzS963YL-DTCALa6KoNOPFwNOcsXSug-L2m7-yhR6RW2v1DqTovA5sFwr1z=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rs1BDo5c2oo", "title": "구글 킵 사용법 | 구글 킵의 모든 것 | 스마트한 메모관리 | Google Keep | 메모" },
+    { "id": "DXZe_Bm45Yc", "title": "한글 문서에 서명 넣기 | 사인 넣기 | 초간단 한글" },
+    { "id": "cVfd-Fnj4Po", "title": "구글 계정 삭제 방법 | 구글 테이크아웃" },
+    { "id": "GSOdKb6wAX0", "title": "재직증명서 발급하는 방법 | 교원(기간제 교원) | 교육감 소속 지방공무원 | 교육공무직원 | 재직증명서 PDF로 저장하기" },
+    { "id": "9O5ep-Fgq8c", "title": "구글 드라이브 사용법 | 구글 드라이브 데스크톱 버전 동기화 해제하기 | 동기화 폴더 추가하기" },
+    { "id": "BZXrqzHwkbI", "title": "구글 시트 활용 독서기록장 만들기 | 읽은 책 관리 | 독서 기록 템플릿 공유 | 독서노트 | 독서기록" }
+  ]
+}

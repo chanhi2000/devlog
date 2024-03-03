@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "CodeSpitz",
+    "name": "코드스피츠",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mzZWUn7cBHSE4wyetBwsTJXbJiQ7BSBQlA5JSN=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/f7-g54Tw4GbG6Wmrj2oOuhF1aDpocyIGNGeGXYPJeZuJtLJpcBXXjf9k9nZw2bzIIovdv6lFMQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bS92r4KMHdw", "title": "부록편 오현석의 람다계산법" }
+  ]
+}

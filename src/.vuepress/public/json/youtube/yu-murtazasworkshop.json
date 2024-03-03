@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/ixn07-kVmCxnBPkLYapURFw_vIaN9SXtNTCwu1418xHjBo4BhrOHdY7oBi_5_zJ4jDRjcTOe=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "64hZ7vf7abQ", "title": "How I created a Viral Deep Fake using Face Fusion | CPU and GPU" },
+    { "id": "R95coF8wF1o", "title": "Automated  Dino Game using Computer Vision | OpenCV  CVZone" },
     { "id": "Rlt8uLAksgo", "title": "Learn to generate FREE AI Images using your local PC" },
     { "id": "fHn-6kZkruc", "title": "Learn Computer Vison Web Development in 2 Hours" }, 
     { "id": "9iEPzbG-xLE",  "title": "Gesture Volume Control | OpenCV Python | Computer Vision" }, 
@@ -14,4 +16,3 @@
     { "id": "WgPbbWmnXJ8",  "title": "Object Detection 101 Course - Including 4xProjects | Computer Vision" }
   ]
 }
-

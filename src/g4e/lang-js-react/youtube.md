@@ -74,5 +74,7 @@ head:
 <MyYouTubeItems jsonName="yu-BroCodez" /><!-- Bro Code -->
 <MyYouTubeItems jsonName="yu-josehp_han" /><!-- 한상훈 -->
 <MyYouTubeItems jsonName="yu-codinginflow" /><!-- Coding in Flow -->
+<MyYouTubeItems jsonName="yu-around.hub.studio" /><!-- 어라운드 허브 스튜디오 - Around Hub Studio -->
+<MyYouTubeItems jsonName="yu-starcoding" /><!-- 별코딩 -->
 
 <TagLinks />

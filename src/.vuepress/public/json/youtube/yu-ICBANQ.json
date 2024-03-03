@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/WDYAqCMXBMVUuv5AOLvQaMdY_RpARhciiMNV7ZRqY8hJLhEAoFyideyLzwnVBic5nro7jCcGw9Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6bZSawG2dmI", "title": "[4분 요약]  IoT가 뭔데? l 아두이노 ESP32로 쉽게 이해하는 스마트 홈의 원리" },
     { "id": "VLtvErjTBmg", "title": "쉽게 스마트 쓰레기통 만들기?! (with 아두이노 uno) ㅣ스마트 홈의 기본템 스마트 쓰레기통 iot 기술로 만들어보자!" },
     { "id": "0MHtJ_n75QI", "title": "[C언어 코딩 기초 강의] 15장 : 전처리기와 라이브러리" },
     { "id": "pR5yqzWbWEc", "title": "[C언어 코딩 기초 강의] 14장 : 전처리기와 라이브러리" },

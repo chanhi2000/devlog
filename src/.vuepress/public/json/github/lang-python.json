@@ -4299,5 +4299,45 @@
     "desc": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
     "officialSite": "",
     "topics": ["chinese", "english", "french", "japanese", "korean", "multilingual", "spanish", "text-to-speech", "tts"]
+  }, {
+    "repo": "kyegomez/BitNet",
+    "desc": "Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch",
+    "officialSite": "https://discord.gg/qUtxnK2NMf",
+    "topics": ["artificial-intelligence", "deep-neural-networks", "deeplearning", "gpt4", "machine-learning", "multimodal", "multimodal-deep-learning"]
+  }, {
+    "repo": "layerdiffusion/sd-forge-layerdiffusion",
+    "desc": "[WIP] Layer Diffusion for WebUI (via Forge)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "naver/dust3r",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "pydantic/FastUI",
+    "desc": "Build better UIs faster.",
+    "officialSite": "https://fastui-demo.onrender.com",
+    "topics": ["fastapi", "pydantic", "python", "react"]
+  }, {
+    "repo": "bigcode-project/starcoder2",
+    "desc": "Home of StarCoder2!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "intel/intel-npu-acceleration-library",
+    "desc": "Intel® NPU Acceleration Library",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "litestar-org/litestar",
+    "desc": "Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs",
+    "officialSite": "https://litestar.dev/",
+    "topics": ["api", "asgi", "asyncio", "hacktoberfest", "litestar", "litestar-api", "litestar-framework", "msgspec", "openapi", "pydantic", "python", "rapidoc", "redoc", "rest", "starlite", "starlite-api", "swagger"]
+  }, {
+    "repo": "aappleby/hancho",
+    "desc": "A simple pleasant build system in Python.",
+    "officialSite": "",
+    "topics": ["build-tool", "python", "python3"]
   }
 ]
