@@ -221,5 +221,6 @@ description: 🧶Node.js > 📺Youtube
 <MyYouTubeItems jsonName="yu-eddiejaoude" /><!-- Eddie Jaoude -->
 <MyYouTubeItems jsonName="yu-FED-RF2023-yg9fv" /><!-- 탐쌤 FED-RF 2023 과정 -->
 <MyYouTubeItems jsonName="yu-user-mg8kt9go7z" /><!-- 모던애자일팀 -->
+<MyYouTubeItems jsonName="yu-yangdongjun" /><!-- 양동준 Yang DongJun -->
 
 <TagLinks />

@@ -15,14 +15,14 @@
     { "id": "DnoozY7kMmY", "title": "09. Python in QGIS3. Python plugin. Part 2." },
     { "id": "66dhatHnxj4", "title": "FlexGIS. Мастер-класс. Обзор платформы v.1.5" },
     { "id": "JZdNkq488gQ", "title": "FlexGIS 06. Настройка слоя. Стилизация, Кластеризация" }, 
-    { "id": "hLYySB95_eo",  "title": "Exploring Browser APIs - Course Drop Party" }, 
-    { "id": "622FDEae9nc",  "title": "02. Python in QGIS3. Read, Add, Delete, Update Features. Vector Layer" }, 
-    { "id": "CZ3zRVqXjTI",  "title": "01. Python in QGIS3. Vector layers. Selection. Features" }, 
-    { "id": "26Uq_xQDbHk",  "title": "GeoServer. OpenLayers. Apache" }, 
-    { "id": "TWmxzwJ99Fo",  "title": "03. React + Leaflet. Component Lifecycle. Geojson" }, 
-    { "id": "-9g_7j97K04",  "title": "FlexGIS 02. Конструктор веб-карт" }, 
-    { "id": "22mvlxfpApY",  "title": "FlexGIS 03. Создание и публикация веб-гис приложения" }, 
-    { "id": "pE-9x6jWHzw",  "title": "FlexGIS 04. Добавление данных на карту. Вектор и растр" }, 
-    { "id": "G_toKwXC3r4",  "title": "FlexGIS 05. Настройка слоя. Фильтрация, Подписи, Инфоокно" }
+    { "id": "hLYySB95_eo", "title": "Exploring Browser APIs - Course Drop Party" }, 
+    { "id": "622FDEae9nc", "title": "02. Python in QGIS3. Read, Add, Delete, Update Features. Vector Layer" }, 
+    { "id": "CZ3zRVqXjTI", "title": "01. Python in QGIS3. Vector layers. Selection. Features" }, 
+    { "id": "26Uq_xQDbHk", "title": "GeoServer. OpenLayers. Apache" }, 
+    { "id": "TWmxzwJ99Fo", "title": "03. React + Leaflet. Component Lifecycle. Geojson" }, 
+    { "id": "-9g_7j97K04", "title": "FlexGIS 02. Конструктор веб-карт" }, 
+    { "id": "22mvlxfpApY", "title": "FlexGIS 03. Создание и публикация веб-гис приложения" }, 
+    { "id": "pE-9x6jWHzw", "title": "FlexGIS 04. Добавление данных на карту. Вектор и растр" }, 
+    { "id": "G_toKwXC3r4", "title": "FlexGIS 05. Настройка слоя. Фильтрация, Подписи, Инфоокно" }
   ]
 }

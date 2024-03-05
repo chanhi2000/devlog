@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/OZQTv6Ipibga_PEW7MXhj3BG6GiZV0khmxaLaGAW2K968Kf9TCz25qwcG9hIvRtw9Vt4bhBb=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XSKkRbZAWRw", "title": "Intel® Simics® Simulator for Intel® FPGAs Command Line Interface" },
     { "id": "q43qXxlcQnE", "title": "使用英特尔® oneAPI工具套件优化FPGA设计入门" },
     { "id": "OwKMlX_gHEs", "title": "Nios®V Software Development Flow with Ashling* RiscFree* IDE for Intel® FPGAs" },
     { "id": "pE-9rIhSjJA", "title": "Intel® Hyperflex™ Architecture overview" },

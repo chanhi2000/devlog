@@ -1765,8 +1765,8 @@
     "topics": []
   }, {
     "repo": "abi/screenshot-to-code",
-    "desc": "Drop in a screenshot and convert it to clean HTML/Tailwind/JS code",
-    "officialSite": "https://picoapps.xyz/free-tools/screenshot-to-code",
+    "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "officialSite": "https://screenshottocode.com",
     "topics": []
   }, {
     "repo": "tldraw/make-real-starter",
@@ -2338,5 +2338,10 @@
     "desc": "Build AI-powered applications with React, Svelte, Vue, and Solid",
     "officialSite": "https://sdk.vercel.ai/docs",
     "topics": ["artificial-intelligence", "huggingface", "javascript", "language-model", "llm", "nextjs", "openai", "react", "solidjs", "svelte", "typescript", "vercel", "vue"]
+  }, {
+    "repo": "marcusGoncalvess/zap-gpt",
+    "desc": "Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,6 +6,21 @@
     "banner": ""
   },
   "videos": [
+    { "id": "WZ9E93VgZqA", "title": "내가 쓰는 어플이 하이브리드 인지 네이티브 인지 확인하는 빠른 방법" },
+    { "id": "lNvuz_065DM", "title": "링크드리스트 완결" },
+    { "id": "K_gPS5rszG0", "title": "링크드리스트란??" },
+    { "id": "tvZqUfAZknk", "title": "링크드리스트 2부" },
+    { "id": "E_2rlFlPXGg", "title": "연결리스트란 무엇일까요?" },
+    { "id": "02Q7lYV1AZ4", "title": "우선순위큐란 무엇일까요??" },
+    { "id": "a5ELV5E4Tx4", "title": "순환큐 란 무엇일까요?" },
+    { "id": "M7mKHpCcmU8", "title": "큐유형 설명드립니다." },
+    { "id": "z-KMgX04hls", "title": "큐 데이터 구조 설명드립니다." },
+    { "id": "oGGUxjqa4BI", "title": "스택 데이터구조 설명드립니다." },
+    { "id": "Ff12_ivlxZg", "title": "데이터가 이루어진 구조" },
+    { "id": "owP3mR_bqP8", "title": "자료구조 알고리즘을 배우는 근본적인 이유??" },
+    { "id": "XZb7QBoV6kE", "title": "회사가면 꼭 존재하는 개발자 유형 5가지" },
+    { "id": "UDHBueegw4w", "title": "개발자의 최종 종착지 4가지 -1편-" },
+    { "id": "GDlSt5hJj78", "title": "회사생활 질문, 회의, 업무요청, 진솔함에 대한 생각 공유" },
     { "id": "HOZQe3hrNN4", "title": "알아두면 언젠가 쓸모있는 javascript 주의사항 2가지" },
     { "id": "ApoRhAR76Eo", "title": "개발자 취업 완전이진트리 전략 -마지막편-" },
     { "id": "pduyJ3iXAv0", "title": "개발자 취업 완전이진트리 전략 -2편-" }

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/a4dSkp9F7UvxRWb0Dc81cSfsTuXGlCv59O9ljd5AE-RLzHGZJ5Np_0V9Ign0S_1PbjnD5jW5oA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BXYDQfnAMiA", "title": "Powerful protection for your network! // Unifi Express" },
+    { "id": "Yg3QL8To6uQ", "title": "SPF, DKIM, DMARC was never so simple! // EasyDMARC" },
+    { "id": "qFQTSWVJE90", "title": "HomeLab Talk, Community Q&A //part 3" },
+    { "id": "w6TmrrE5zyI", "title": "How do we manage HomeLab projects and resources?" },
+    { "id": "sSQTTrlmOeY", "title": "Supercharge your LINUX terminal // Warp" },
+    { "id": "tNBwddCczK8", "title": "Secret Docker Commands you don't know!" },
+    { "id": "nyxCxY8yiCI", "title": "HomeLab Talk, Community Q&A //part 4" },
     { "id": "HEklvsr7q54", "title": "This Docker Compose UI is amazing! //Dockge Tutorial" },
     { "id": "nnT4FtcYQwY", "title": "HomeLab Talk, Community Q&A //part 1" },
     { "id": "7-qo6tTPdTM", "title": "Is it time to switch from Docker to Podman?" },
@@ -18,14 +25,14 @@
     { "id": "6QhA_mKHINc", "title": "Turn on your Server from anywhere!" },
     { "id": "iKq15WXdN88", "title": "STOP using VPN, embrace Zero-Trust networking!" },
     { "id": "NyOSoLn5T5U", "title": "This web UI for Ansible is so damn useful!" },
-    { "id": "tIazVdhsSqQ",  "title": "The BEST Home Server Uptime Monitoring!" }, 
-    { "id": "syzwLwE3Xq4",  "title": "You want a real DNS Server at home? (bind9 + docker)" }, 
-    { "id": "cEDXeYStfP4",  "title": "Self hosted, open source password manager built for teams!" }, 
-    { "id": "NfggT5enF4o",  "title": "New *incredible* mac OS terminal! (warp + starship + zsh)" }, 
-    { "id": "Yb3_4PZX0B0",  "title": "Let's do GitOps in Kubernetes! ArgoCD Tutorial" }, 
-    { "id": "xWz_-gyv3j4",  "title": "What's the BEST home server operating system?" }, 
-    { "id": "yMmxw-DZ5Ec",  "title": "How to use Cloudflare Tunnel in your Homelab (even with Traefik)" }, 
-    { "id": "MUDjd44t2GE",  "title": "Installing a Windows Server in my Homelab, am I crazy?" }
+    { "id": "tIazVdhsSqQ", "title": "The BEST Home Server Uptime Monitoring!" }, 
+    { "id": "syzwLwE3Xq4", "title": "You want a real DNS Server at home? (bind9 + docker)" }, 
+    { "id": "cEDXeYStfP4", "title": "Self hosted, open source password manager built for teams!" }, 
+    { "id": "NfggT5enF4o", "title": "New *incredible* mac OS terminal! (warp + starship + zsh)" }, 
+    { "id": "Yb3_4PZX0B0", "title": "Let's do GitOps in Kubernetes! ArgoCD Tutorial" }, 
+    { "id": "xWz_-gyv3j4", "title": "What's the BEST home server operating system?" }, 
+    { "id": "yMmxw-DZ5Ec", "title": "How to use Cloudflare Tunnel in your Homelab (even with Traefik)" }, 
+    { "id": "MUDjd44t2GE", "title": "Installing a Windows Server in my Homelab, am I crazy?" }
   ],
   "playlists": [
     {

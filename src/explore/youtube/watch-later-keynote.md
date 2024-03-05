@@ -115,5 +115,6 @@ tag:
 <MyYouTubeItems jsonName="yu-VoxxedDaysLuxembourg" /><!-- Voxxed Days Luxembourg -->
 <MyYouTubeItems jsonName="yu-programmersdevcourse" /><!-- 프로그래머스 데브코스 -->
 <MyYouTubeItems jsonName="yu-rustlabconference3671" /><!-- RustLab Conference -->
+<MyYouTubeItems jsonName="yu-CodeEurope" /><!-- Code Europe -->
 
 <TagLinks />

@@ -6,6 +6,19 @@
     "banner": "https://yt3.googleusercontent.com/4rtjrb_IF5E8XCtVgl_Bb5_O1xOyqAhDMXUAUifKwwwqLWp-mBNCppPJUGNs3RzJAJYwFufc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IAVMd5U-arY", "title": "Azure Static Web Apps Community Standup - Building a Next.js site with Wordpress on App Service" },
+    { "id": "mgcpxaZ4fKY", "title": "Azure Cache for Redis Community Standup - Using Azure Cache for Redis in a .NET intelligent chat app" },
+    { "id": "SuGkhuBUV5k", "title": "How to Import APIs from Azure API Management to Azure API Center using CLI" },
+    { "id": "Dvar8Dg25s0", "title": "Get Started with the Azure API Center CLI" },
+    { "id": "62X0NALedCc", "title": "Introducing the VS Code extension for Azure API Center" },
+    { "id": "7Z45FdCLFbA", "title": "How to Set Up Your API Center Portal" },
+    { "id": "eX3PfkGfuQI", "title": "Azure Data API Builder Community Standup - Data API Builder" },
+    { "id": "44P8C2_EW_c", "title": "Azure Functions Community Standup - Azure Functions latest updates + sneak peak!" },
+    { "id": "Zo-hdD7SYzk", "title": "Microsoft Dev Box: Configure as Code Customization" },
+    { "id": "mx3wakiu2as", "title": "Azure Logic Apps Community Standup - February 2024" },
+    { "id": "r-V3G3sj6bg", "title": "Monitoring JBOSS EAP Applications on Azure App Service" },
+    { "id": "SpT5RJIlw3g", "title": "Azure Cache for Redis Community Standup - Connect your Azure Cache for Redis with Microsoft Entra ID" },
+    { "id": "TZi1AVC10P4", "title": "Azure Developers - APIs in Action" },
     { "id": "Z8_A8qqEtbI", "title": "Azure App Service Community Standup - Migrating your JBOSS EAP apps to App Service" },
     { "id": "7gclscn92Ig", "title": "Migrating Java Tomcat Applications to Azure App Service" },
     { "id": "FXZeKX8A_Gw", "title": "Azure Container Apps Community Standup - Cloud-native apps with .NET Aspire" },
@@ -47,8 +60,8 @@
     { "id": "y8Hy0uYL3hg", "title": "Architect your Azure solutions" }, 
     { "id": "EqNJ9IQgODI", "title": "Get more from your free account" }, 
     { "id": "leJRc0JWzSY", "title": "Getting started in the Azure Portal" }, 
-    { "id": "Knctudbao1o",  "title": "Build a SMS generator with short URLs leveraging Azure Functions, Storage, & Communication Services" }, 
-    { "id": "Sb5ei5-wmSA",  "title": "Modernizing .NET Apps with Key Vault, Azure Monitor, & Beyond" }
+    { "id": "Knctudbao1o", "title": "Build a SMS generator with short URLs leveraging Azure Functions, Storage, & Communication Services" }, 
+    { "id": "Sb5ei5-wmSA", "title": "Modernizing .NET Apps with Key Vault, Azure Monitor, & Beyond" }
   ],
   "playlists": [
     {

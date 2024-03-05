@@ -7,6 +7,6 @@
   },
   "videos": [
     { "id": "57x4ZzzCr2Y", "title": "Integrating Git and (Neo)Vim: LazyGit + Fugitive + MergeTool for maximum efficiency [Showcase]" },
-    { "id": "DOtM1mrWjUo",  "title": "How I take notes as a Math major using Vim + LaTeX" }
+    { "id": "DOtM1mrWjUo", "title": "How I take notes as a Math major using Vim + LaTeX" }
   ]
 }

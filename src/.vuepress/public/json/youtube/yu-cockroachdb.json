@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/6RRkZnDgobEWsvxpuXT3Z9dZBqL5s-M065EVcQ5LyWy2wyx7dhjF2-qQmZ0NEkKAq7gRyZsm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HA8ec9e_a-s", "title": "How to migrate to CockroachDB using the MOLT Live Migration Service" },
+    { "id": "1KAhAgFqBzE", "title": "Consolidate your read & write databases into one db that does it all | Architectural Simplification" },
+    { "id": "hC7GfdbH4-A", "title": "How Shopmonkey built scalable, geo-aware auto shop management software on CockroachDB" },
+    { "id": "ghN3y42rHts", "title": "How Storj is using CockroachDB to dramatically scale global cloud storage" },
+    { "id": "KxRN3PKjHJA", "title": "Horizontal scaling made easy | Architectural simplification" },
+    { "id": "PNWqyKaSoxU", "title": "SELECT FOR UPDATE in SQL: how it works and why to use it" },
+    { "id": "xalwIyq_0qY", "title": "How To Make (CDC) Change Data Capture Less Complicated | Architectural Simplification" },
     { "id": "DAtAA6BE0YE", "title": "Planning for scale: How Materialize uses CockroachDB | RoachFest 2023" },
     { "id": "A4ALSOw2pIw", "title": "The data behind digital marketing: A conversation with Bluecore’s Software Architect" },
     { "id": "MvogGSS9Stc", "title": "How to use ADD CONSTRAINT in SQL (with examples)" },
@@ -22,4 +29,3 @@
     { "id": "xvBBQVIGYio", "title": "How to perform zero downtime online schema changes" }
   ]
 }
-

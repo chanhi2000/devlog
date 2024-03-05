@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/WdIWDa38qpK8De9JbKiO_382aFtx9yxKlPflgPlBglEd6W0_KBPvXLS6bHrqlg5S9S1JM8amjA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lovnPtQOFGk", "title": "How to create & use Lambda layers using AWS" },
+    { "id": "MY-7MzeHaeY", "title": "How to use Amazon Q: The GenAI-powered AWS building assistant" },
+    { "id": "8_bgqJpQCSM", "title": "How to build a serverless application with Application Composer" },
+    { "id": "BMhQA8pz5cM", "title": "9 analytics services to know for the AWS Certified Cloud Practitioner exam" },
     { "id": "ElX-W3dEwq0", "title": "How to add GenAI capabilities to your app code using Amazon Bedrock" },
     { "id": "IsjbXajoxes", "title": "Let's build a game in JavaScript!" }, 
     { "id": "akrQr15iBt4", "title": "Let's Build a Game in JavaScript" }, 

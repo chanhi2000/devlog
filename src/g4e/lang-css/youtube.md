@@ -38,5 +38,7 @@ tag:
 <MyYouTubeItems jsonName="yu-devbang" /><!-- 개발자방16 -->
 <MyYouTubeItems jsonName="yu-AcademyNet.net1" /><!-- AcademyNet -->
 <MyYouTubeItems jsonName="yu-TutorialsPoint_" /><!-- Tutorialspoint -->
+<MyYouTubeItems jsonName="yu-craftsman-mentality" /><!-- 크래프트맨 멘탈리티 -->
+<MyYouTubeItems jsonName="yu-Homgwart" /> <!-- 홈페이지마법사 -->
 
 <TagLinks />

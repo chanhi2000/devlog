@@ -1139,5 +1139,10 @@
     "desc": "A library for building fast, reliable and evolvable network services.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "rerun-io/revy",
+    "desc": "Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.",
+    "officialSite": "https://www.rerun.io/",
+    "topics": ["bevy", "debugger", "gamedev", "rerun", "tools", "visualizer"]
   }
 ]

@@ -8,9 +8,9 @@
   "videos": [
     { "id": "5U-y6hQuboU", "title": "Customize Your Flutter Environment with Dart Define | Step-by-Step Tutorial" },
     { "id": "qv4ifDozdl8", "title": "Dart Records | Simple use case #flutter #codex" },
-    { "id": "zx2eh3t_98Q",  "title": "Serverpod 🚀 Deploying to AWS" }, 
-    { "id": "nNpecoYRV-o",  "title": "5 useful extensions for VS Code | Flutter" }, 
-    { "id": "ZnevdXDH25Q",  "title": "GetX State Management tutorial with Flutter 😍" },
+    { "id": "zx2eh3t_98Q", "title": "Serverpod 🚀 Deploying to AWS" }, 
+    { "id": "nNpecoYRV-o", "title": "5 useful extensions for VS Code | Flutter" }, 
+    { "id": "ZnevdXDH25Q", "title": "GetX State Management tutorial with Flutter 😍" },
     { "id": "vxNQ2YGUt5M", "title": "Create own API with FREE hosting and domain" }
   ]
 }

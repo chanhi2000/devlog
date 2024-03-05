@@ -13,13 +13,13 @@
     { "id": "YuJ6jEb3bOQ", "title": "Building the Dev Platform Ep 10: Code with Me" },
     { "id": "R-1xJTFknc8", "title": "Building the Dev Platform Ep 9: Done with the Profile Page!" },
     { "id": "jCem-wZuH34", "title": "I Coded a Mystery Revealing Scavenger Hunt Site" }, 
-    { "id": "sDlCSIDwpDs",  "title": "Everything You NEED to Know About WEB APP Architecture" }, 
-    { "id": "b0pkpcD8Ms4",  "title": "How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite" }, 
-    { "id": "DIny00tOBdU",  "title": "Command Line Tools ALL Developers Should Know" }, 
+    { "id": "sDlCSIDwpDs", "title": "Everything You NEED to Know About WEB APP Architecture" }, 
+    { "id": "b0pkpcD8Ms4", "title": "How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite" }, 
+    { "id": "DIny00tOBdU", "title": "Command Line Tools ALL Developers Should Know" }, 
     { "id": "LktFP0Dpl-c" , "title": "I Coded with WSL2 for a Week" }, 
-    { "id": "gZqdOe6VoFQ",  "title": "Arch Linux VM Setup & Coding Talk" }, 
-    { "id": "9PgZCJNzY9M",  "title": "An Entire Software Development Life Cycle - Full Guide (Tutorial)" }, 
-    { "id": "bhopW92Qxw8",  "title": "My Linux Ubuntu Setup for Software Development" }, 
-    { "id": "jArtVVbYGKk",  "title": "These AI TOOLS will help you CODE BETTER" } 
+    { "id": "gZqdOe6VoFQ", "title": "Arch Linux VM Setup & Coding Talk" }, 
+    { "id": "9PgZCJNzY9M", "title": "An Entire Software Development Life Cycle - Full Guide (Tutorial)" }, 
+    { "id": "bhopW92Qxw8", "title": "My Linux Ubuntu Setup for Software Development" }, 
+    { "id": "jArtVVbYGKk", "title": "These AI TOOLS will help you CODE BETTER" } 
   ]
 }

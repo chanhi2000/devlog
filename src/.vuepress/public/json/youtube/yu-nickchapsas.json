@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/D0zJGrt0X-2CCvS1enIVEU0PlcbVCGSrHd2udgk7WHvnABGkvD9VrIccLsu-lFXJYw-HbCZj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "55_E5m-YBpU", "title": "The Magic of Breaking Down Your Types in C#" },
+    { "id": "kd4Bb9Ijlf8", "title": "What’s Behind Your App’s .NET Requests?" },
+    { "id": "pWkTMIOcOgY", "title": "Microsoft Is Abandoning C# for Rust! Now What?" },
+    { "id": "2L68EldtKFo", "title": "Why .NET's Most Ambitious Feature Might Fail" },
+    { "id": "tllygkj0czw", "title": "\"Don't Use Loops, They Are Slow! Do This Instead\" | Code Cop #011" },
+    { "id": "p1gsK69m94Y", "title": "Build Clean Messaging in .NET with Wolverine" },
+    { "id": "032SfEBFIJs", "title": "The Pattern You MUST Learn in .NET" },
+    { "id": "otokHS2PScc", "title": "Why Developers Already Hate .NET 9" },
     { "id": "UMeKxBcNBE0", "title": "Await Async Might Change Completely in .NET 9" },
     { "id": "cTdaRX0vQuk", "title": "\"Stop Using Singletons in .NET!\" | Code Cop #009" },
     { "id": "iHIh5WoIvks", "title": "Building the Smallest C# Game That Doesn’t Need .NET" },

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/8e4JeFEut_R5CHrGHePLnqd444tc4T7kQV6SZ-JkR71ZZRLW1JjWmjyD9QRkOF8E_i9GgyanWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UOy-zKKbNe4", "title": "Docker for Web Development | Workshop (DockerCon 2023)" },
+    { "id": "aKzmFrLmFSo", "title": "Secure Development with Docker | Workshop (DockerCon 2023)" },
+    { "id": "zQVYjmGFvv0", "title": "Docker for Machine Learning, AI, and Data Science | Workshop (DockerCon 2023)" },
     { "id": "wQfwNiIrlCI", "title": "Challenges with Cloud Development #docker #softwaredevelopment #cloudcomputing" },
     { "id": "C6FjWAtmYAc", "title": "Processing Docker Container Logs and Metrics at Scale #Docker #devops #programming" },
     { "id": "4qVHL4d2-ho", "title": "Wasm on Docker Desktop with Spin #Docker #webassembly #wasm" },

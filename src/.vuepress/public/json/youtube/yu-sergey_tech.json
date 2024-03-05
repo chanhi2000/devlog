@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "sergey_tech",
+    "name": "Sergey Tech",
+    "profile": "https://yt3.googleusercontent.com/mjOWiqTbTd2ib6qsSG_XIOk6TPkxeITI0yvu50dGem0XcQXNMI1ib7sHwXULAP01BEV3dNWUJJc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eVfH6aVkN65w9hxA00_nF_2vH0p8DloqQS-F5558ZoSVyjJYKKggGDIHrIrcB5DI-218_aWr=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6PHddMkl-yw", "title": "Dangers of CSRF Attacks and How to Prevent Them in Spring Boot App" },
+    { "id": "_GSHvvken2k", "title": "Spring Security From Beginner to Pro: A Journey Through Spring Security Architecture" }
+  ]
+}

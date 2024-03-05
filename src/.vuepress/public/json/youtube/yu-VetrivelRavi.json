@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "VetrivelRavi",
+    "name": "Vetrivel Ravi",
+    "profile": "https://yt3.googleusercontent.com/iIkFPU-3mWQjoGDC-rcrh5xlhZ3mOK4gYs8y8_PKZGAfDYT2KATTwi_xq2IqKeC5k1SWHV8p=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QkPD88VYkdKErMwHfcefeQh8l4kB5f2MyPf5OLfaxh17j8r7bjk6LfqTGhsBRTKrdfgvZpyBHg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_fv4e8LgMqg", "title": "Full Stack App-Store Mastery with ReactJS & Firebase Authentication & Cloud Functions" },
+    { "id": "5FqMwEJ1j1I", "title": "Day 1 - Full-Stack Resume Builder Tutorial  For Beginners | ReactJS, Firebase, React Query" },
+    { "id": "1hSrsR2WXOw", "title": "Day 2 - Full-Stack Resume Builder Tutorial  For Beginners | ReactJS, Firebase, React Query" },
+    { "id": "4n7TRirmEOk", "title": "Day 3 - Full-Stack Resume Builder Tutorial  For Beginners | ReactJS, Firebase, React Query" }
+  ]
+}

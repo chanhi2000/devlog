@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/ZkK9dbYp2Fv3HM5-9zLU1t7-Pl5n8V1eW4NC_KHlQ4-4fyWeeBsmcHrzWPJoazq8xL-LAojc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "shaGaiwu4Fg", "title": "React Native just got better" },
+    { "id": "gzehQxHxtfw", "title": "Can this replace NextJS?" },
+    { "id": "COH_XhlMyZ4", "title": "The Time for React Native is NOW" },
+    { "id": "iWzUZiVoiR0", "title": "Airbnb Clone with React Native (Expo Router, Authentication, Reanimated, Clerk)" },
+    { "id": "NHNb--ISlig", "title": "Migrating from React Navigation to Expo Router" },
+    { "id": "VUhaDTKYBJU", "title": "Build a WhatsApp Clone with React Native (Expo Router, Reanimated, Clerk, Gestures, Gifted Chat)" },
+    { "id": "SnhNHjqIbNw", "title": "Local-First is the Future, Here’s Why" },
     { "id": "Xwk4rcB6qVQ", "title": "THE React Native Tech Stack for 2024 😎" },
     { "id": "OT5hQbvGRW8", "title": "Better than React Native Stylesheet 💪" },
     { "id": "LIMyd5FoKyc", "title": "The Worlds Best Apps use React Native" },

@@ -6,6 +6,22 @@
     "banner": "https://yt3.googleusercontent.com/goVmFqwDEBJr-VDXlCnvWuduW_Aot_1kFH8F9T9ye96kICSE4ZadBoKo8tohwwJvWeCK4XBX1w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iC02HJtNA3U", "title": "[8분 강의] 회귀 분석 (1) - 회귀 분석의 이해 및 유형" },
+    { "id": "tSa-YJmiUTA", "title": "132회 정보관리기술사/컴퓨터시스템응용기술사 기출 해설" },
+    { "id": "t8Ld1ETLQLQ", "title": "[7분 강의] 회귀 분석 (2) - 단순 회귀 분석" },
+    { "id": "qco8MF3SQXQ", "title": "[5분 강의] 회귀 분석 (3) - 다중회귀분석, 다중공선성" },
+    { "id": "ChO0c6crg-s", "title": "[4분 강의] 회귀 분석 (4) - 비선형 회귀 분석, 일반화 선형 모델" },
+    { "id": "ChO0c6crg-s", "title": "[4분 통계] 회귀 분석 (4) - 비선형 회귀 분석, 일반화 선형 모델" },
+    { "id": "VhFl4QdbuIE", "title": "[7분 통계] 로지스틱 회귀 분석 (Logistic Regression Analysis)" },
+    { "id": "QHYZDLoc1wA", "title": "완벽한 이해로 기술사 합격! 김원섭 멘토와 함께하는 OK-ITPE│아이리포 기술사 심화과정" },
+    { "id": "Hr4FoyIjlKg", "title": "[4분 통계] 의사 결정 나무 (1) (Decision Tree) - 이해, 구조, 분석 방법 등" },
+    { "id": "X5sxdQWE5No", "title": "[7분 통계] 의사 결정 나무 (2)  (Decision Tree) - 의사결정나무 분석 유형, 알고리즘" },
+    { "id": "10iHgIWuSPI", "title": "[6분 통계] 인공신경망 (1) (Neural Network) - 인공지능, 머신러닝, 딥러닝" },
+    { "id": "pw8TSPQKujc", "title": "[5분 통계] 인공신경망 (2) (Neural Network) - 인공지능, 머신러닝, 딥러닝" },
+    { "id": "C4Tv0bWcOX8", "title": "[4분 통계] 인공신경망 (3) (Neural Network) - 인공지능, 머신러닝, 딥러닝" },
+    { "id": "dpEwN-2dvNA", "title": "빅데이터분석기사 필기 공부방법 | 비전공자 | 직장인 | 합격후기 | 가성비학습 | 공부법 | 아이리포" },
+    { "id": "C_ZvbVGff3E", "title": "[5분 통계] 서포트벡터머신 (1) (SVM) - 서포트벡터, 마진, 초평면" },
+    { "id": "nnoETcy-0dI", "title": "[4분 통계] 서포트벡터머신 (2) (SVM) - 서포트벡터, 마진, 초평면" },
     { "id": "2BGTqkocA_k", "title": "2023년 도심제조업 디지털 전환 촉진을 위한 AI 산업 인력 역량 강화 홍보 영상" }
   ]
 }

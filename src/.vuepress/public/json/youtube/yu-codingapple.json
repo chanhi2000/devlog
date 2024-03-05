@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "eyDSR_0WG4I", "title": "구글이 100억개의 권한 관리하는 법" },
+    { "id": "F2Ju2d6kUmE", "title": "AI가 마크 플레이영상까지 만들줄은 몰랐는데" },
+    { "id": "DSBDQhsOmhs", "title": "(양심고백) 랜덤 가챠는 실은 랜덤이 아님" },
     { "id": "4Syo6Qbe3oY", "title": "실수로 npm을 파괴했던 개발자들" },
     { "id": "lZZ19fLWjfI", "title": "동영상 AI 1년 후 근황 (퀄리티 뭐임?)" },
     { "id": "HpiyWggNgyU", "title": "if문 하나 까먹었다고 개인정보 90만개 털린 사건" },

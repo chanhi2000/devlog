@@ -183,4 +183,16 @@ tag:
 
 ---
 
+## ubicloud
+
+- [Improving Network Performance with Linux Flowtables](https://www.ubicloud.com/blog/improving-network-performance-with-linux-flowtables)
+
+---
+
+## doubleagent.net
+
+- [GTPDOOR - A novel backdoor tailored for covert access over the roaming exchange](https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR)
+
+---
+
 <TagLinks />

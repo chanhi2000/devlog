@@ -6,13 +6,21 @@
     "banner": "https://yt3.googleusercontent.com/TQsRBMJG1YKlUXO0njg_E3mNZI5CMsMoYecMVoBN4tFWzrpGMwnbvV0HRraryj_Akd44ynlt=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3Q19qgHgQJo", "title": "5 Steps To Fast & Reliable Software Development" },
+    { "id": "9HZ4iSHiiec", "title": "Applying DDD Beyond Object-Oriented Programming" },
+    { "id": "o3jDLVCpH1E", "title": "It's Time For Waterfall To DIE" },
+    { "id": "yC6EEuxhglE", "title": "The HARD TRUTH About Your Microservices" },
+    { "id": "ZRZjZXIxbiI", "title": "Disturbing Cyber-Security Attacks On Software Supply-Chains" },
+    { "id": "if0qjCwcy-A", "title": "Developer Productivity ISN'T About Measurement | Trisha Gee In The Engineering Room Ep. 26" },
+    { "id": "MrVxgJ8rlg0", "title": "Testing Is Bad For Developer Productivity" },
+    { "id": "fQXmXpVNQko", "title": "ALL Software Development Is Incremental" },
     { "id": "I2G3OftfsfA", "title": "The Difference Between Developers & Software Engineers" },
     { "id": "wM0sCAQtEAI", "title": "Scale Is The Enemy Of Software Engineering" },
     { "id": "-UqYC_vNfFM", "title": "How I Produced Some Of The World's BEST API Design | Kelsey Hightower" },
-    { "id": "Ty5Tj4Jag_A",  "title": "Is KUBERNETES Overly Complex? | Kelsey Hightower & Dave Farley Debate The Open-Source System" }, 
-    { "id": "zkEYxCmPGqU",  "title": "Kelsey Hightower On Kubernetes & Cloud Computing | The Engineering Room Ep. 13" }, 
-    { "id": "Bq_oz7nCNUA",  "title": "Test Driven Development vs Behavior Driven Development" }, 
-    { "id": "Ty5Tj4Jag_A",  "title": "Is KUBERNETES Overly Complex? | Kelsey Hightower & Dave Farley Debate The Open-Source System" }, 
-    { "id": "_gs3MjJBEfs",  "title": "From Legacy Code To STATE OF THE ART DEVELOPMENT" } 
+    { "id": "Ty5Tj4Jag_A", "title": "Is KUBERNETES Overly Complex? | Kelsey Hightower & Dave Farley Debate The Open-Source System" }, 
+    { "id": "zkEYxCmPGqU", "title": "Kelsey Hightower On Kubernetes & Cloud Computing | The Engineering Room Ep. 13" }, 
+    { "id": "Bq_oz7nCNUA", "title": "Test Driven Development vs Behavior Driven Development" }, 
+    { "id": "Ty5Tj4Jag_A", "title": "Is KUBERNETES Overly Complex? | Kelsey Hightower & Dave Farley Debate The Open-Source System" }, 
+    { "id": "_gs3MjJBEfs", "title": "From Legacy Code To STATE OF THE ART DEVELOPMENT" } 
   ]
 }

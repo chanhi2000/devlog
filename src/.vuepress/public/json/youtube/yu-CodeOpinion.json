@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/MTcKhVE2NDL8DoS5h3M0nbEX7qwFV6aT7EY_o9o0lkgTkxBOkVxQvjcJV6SOJsyudO_gXmeJIFU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QoK7jSZ-viw", "title": "Enums aren't evil. Conditionals everywhere are" },
+    { "id": "HrVfw7vs8ho", "title": "Tips for Production Ready Database (Query) Design" },
+    { "id": "2yUnY61zdAk", "title": "Avoiding long running HTTP API requests." },
+    { "id": "FNN8TWngN38", "title": "Async workflows" },
+    { "id": "VbuJaH7mKIc", "title": "Battle Of The Software Architectures: Which One Reigns Supreme?" },
+    { "id": "WGMlNKCzhB0", "title": "What Kind Of Software Architecture Is This? Monolith or Microservices?" },
     { "id": "d-QQvJIBrUc", "title": "The Bulkhead Pattern: How To Make Your System Fault-tolerant" },
     { "id": "ybfOhW4O0nQ", "title": "Beware! Anti-patterns in Event-Driven Architecture" },
     { "id": "PyxadX8yrsI", "title": "Locking In On Concurrency Control" },

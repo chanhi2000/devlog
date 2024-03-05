@@ -6,6 +6,32 @@
     "banner": "https://yt3.googleusercontent.com/WSNuXInkFJ222QghUDj219CwUmidO56SfuZeEqShIVxp5Yqfz5FWbB3DpiTsiryWYT_sGOhrGjM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uELrtc82QoQ", "title": "05. What is ASP.NET MVC?" },
+    { "id": "K37Z6LSrfMY", "title": "07. Creating Your First Controller in ASP.NET MVC" },
+    { "id": "mqCUSZmvnwU", "title": "06. Default Files of an ASP.NET MVC Project" },
+    { "id": "pwlNKVWYG_0", "title": "09. Creating Your First View in ASP.NET MVC" },
+    { "id": "Tp2EaBEnY1A", "title": "10. Methods to Pass Data from Controller to View" },
+    { "id": "1DyqqZlp-WQ", "title": "12. Using ViewData to Pass Data to a View" },
+    { "id": "P_A6O7Sdw58", "title": "14. Using TempData to Pass Data from a Controller to a View" },
+    { "id": "mB5xErb1vxs", "title": "13. Using ViewBag to Pass Data From a Controller to a View" },
+    { "id": "m3gCL91x2lM", "title": "18. Designing the Navigation Bar in ASP.NET MVC" },
+    { "id": "WBe56l_T91Q", "title": "19. Designing the All Links Page" },
+    { "id": "19Z35XT4l_c", "title": "20. Passing Data to All Links Page" },
+    { "id": "NUBFkBE-v64", "title": "21. What is a ViewModel in ASP.NET MVC" },
+    { "id": "GS3FKH0p0MI", "title": "22. Creating a new Model in ASP.NET MVC" },
+    { "id": "uaHwOu5pQgA", "title": "23. Creating a New Controller and a View in ASP.NET MVC" },
+    { "id": "JrYFlxk8yiU", "title": "24. Updating Footer Style in ASP.NET MVC" },
+    { "id": "7NKuUsBslBw", "title": "32. Passing Data to Controller with Ajax in ASP.NET MVC" },
+    { "id": "TNReD_dMv3Q", "title": "31. Form Data Submission via ViewModel in ASP.NET MVC" },
+    { "id": "MddG0TXIh4o", "title": "30. Passing Data with Form Submission in ASP.NET MVC" },
+    { "id": "jwE43i7MOU0", "title": "29. Passing Parameters as Route Data in ASP.NET MVC" },
+    { "id": "fP3LelFxPt4", "title": "28. Passing Data in Query Strings" },
+    { "id": "vTypWCClrVg", "title": "27. Methods for Passing Data for a Controller in ASP.NET MVC" },
+    { "id": "Edty_kl_v5I", "title": "26. Designing the Register Form" },
+    { "id": "yrUOxkolSc8", "title": "25. Designing the Login Form" },
+    { "id": "xo8MfYfM9xY", "title": "34. Passing URL Value from HomePage to HomeController" },
+    { "id": "Si5nk4PP5nQ", "title": "33. Introduction to Form Submission and Data Validation in ASP.NET MVC" },
+    { "id": "ZSkAm4KgOfE", "title": "JavaScript Interop in ASP.NET Core Blazor [Pluralsight]" },
     { "id": "lmT-kyvsnak", "title": "Securing ASP.NET Applications" },
     { "id": "9Bq-bDaIbQM", "title": "03. Setting up Development Environment" },
     { "id": "-QWpREhe6X0", "title": "41. ActorsService Configuration with EntityBaseRepository" },
@@ -27,7 +53,7 @@
     { "id": "snV4YwhJiks", "title": "31. Designing the Search Page" }, 
     { "id": "edc1ms7Rwe8", "title": "24. Designing the Homepage - Slider" }, 
     { "id": "fRV53m7kMoQ", "title": "Publishing an Angular project to a Github repository" }, 
-    { "id": "28ZTycztXqk",  "title": "05. Testing Asp.Net Core Web APIs with Swagger and Postman" }
+    { "id": "28ZTycztXqk", "title": "05. Testing Asp.Net Core Web APIs with Swagger and Postman" }
   ]
 }
 

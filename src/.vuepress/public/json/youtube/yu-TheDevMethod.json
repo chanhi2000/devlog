@@ -6,9 +6,9 @@
     "banner": ""
   },
   "videos": [
-    { "id": "dGjuAFxvXnU",  "title": "Rust: Shared-State Concurrency" }, 
-    { "id": "QZKWEEO-Uoo",  "title": "Rust: Starting a Workspace" }, 
-    { "id": "9yMRRxR8kIQ",  "title": "Rust: RefCell" }, 
-    { "id": "UKPpGaqk3ik",  "title": "Rust: Deref Trait" }
+    { "id": "dGjuAFxvXnU", "title": "Rust: Shared-State Concurrency" }, 
+    { "id": "QZKWEEO-Uoo", "title": "Rust: Starting a Workspace" }, 
+    { "id": "9yMRRxR8kIQ", "title": "Rust: RefCell" }, 
+    { "id": "UKPpGaqk3ik", "title": "Rust: Deref Trait" }
   ]
 }

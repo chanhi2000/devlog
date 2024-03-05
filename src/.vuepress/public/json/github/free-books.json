@@ -184,5 +184,10 @@
     "desc": "A Detailed Introduction to My Favorite Statistical Measure, Hoeffding's D",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "lining808/CS-Ebook",
+    "desc": "一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。",
+    "officialSite": "",
+    "topics": ["ai", "computer-science", "data-science", "deep-learning", "ebooks", "programming-language"]
   }
 ]

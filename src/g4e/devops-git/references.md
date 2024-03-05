@@ -29,6 +29,7 @@ description: 🛠️Git > 📚References
 - [Git Tips 1: Oldies but Goodies](https://blog.gitbutler.com/git-tips-1-theres-a-git-config-for-that/)
 - [Git Tips 2: New Stuff in Git](https://blog.gitbutler.com/git-tips-2-new-stuff-in-git/)
 - [Git Tips 3: Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
+- [Git Worktrees and GitButler](https://blog.gitbutler.com/git-worktrees/)
 
 ---
 

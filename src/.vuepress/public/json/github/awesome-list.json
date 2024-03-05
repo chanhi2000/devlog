@@ -1019,5 +1019,10 @@
     "desc": "A collection of learning resources for curious software engineers",
     "officialSite": "",
     "topics": ["architecture", "computer-science", "concepts", "documentation", "engineer", "learning", "lessons-learned", "professional", "programmer", "programming-language", "read-articles", "scalability", "software-engineering"]
+  }, {
+    "repo": "merill/awesome-entra",
+    "desc": "😎 Awesome list of all things related to Microsoft Entra",
+    "officialSite": "https://aka.ms/awesome-entra",
+    "topics": ["awesome", "awesome-list", "entra", "microsoft"]
   }
 ]

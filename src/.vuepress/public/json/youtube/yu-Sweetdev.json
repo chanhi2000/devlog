@@ -6,7 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/PoLs1Sr-BeeMxOgBnkA16pQNyWNTSIMRHC6cL86JFZf6MgWoI8kA08OXMxwcRt8rwbA0eXTkAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "8QO3sf9WhVw",  "title": "From design into HTML and CSS web page | Part 1" }, 
-    { "id": "eAsBo6VMaH4",  "title": "Vuex | State management example with Axios" }
+    { "id": "8QO3sf9WhVw", "title": "From design into HTML and CSS web page | Part 1" }, 
+    { "id": "eAsBo6VMaH4", "title": "Vuex | State management example with Axios" }
   ]
 }

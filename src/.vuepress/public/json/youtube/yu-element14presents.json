@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/urwcjkUXmPZ9RbN58-LluVWYrOafMIzEJV-zy5FomNR0o7ACajiw5G0qSuHjZoLI54-4-kSHxg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0L8hSVrNQQo", "title": "Off-Grid Remote Generator Starter" },
     { "id": "R0Uy4EL4xWs", "title": "How Transistors Work - The Learning Circuit" },
     { "id": "pj0a91vlcGo", "title": "How to Run Linux on an ESP32" }
   ]

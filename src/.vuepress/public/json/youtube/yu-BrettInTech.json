@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/INGtr1FGTE-QMH2ZQp45uyg8GWhQqXNO0KTBIGECJhWcBaGMtxPnDXPIGJV-But6NUrqen0sWeA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CR-v2CWnB0M", "title": "8 Fun AI Tools You Should Try! (2024)" },
+    { "id": "BgPlbvNgsmc", "title": "7 Useful Websites Most People Don't Know About! 2024" },
+    { "id": "yAVgpaO8WzM", "title": "6 Incredibly Useful Websites for You to Try Out! 2024" },
+    { "id": "WhDOdBv6Y6Y", "title": "7 Free Software That Are Absolutely Awesome! 2024" },
+    { "id": "uHm1KawaZC8", "title": "Windows 11 Performance Tips to Speed Up Your PC! 2024" },
+    { "id": "gyEu98nr1aQ", "title": "How to Disable Ads in Windows 11 (2024)" },
+    { "id": "tBbKTkWWlU0", "title": "8 Useful Websites You May Not Know Existed! 2024" },
     { "id": "KbDs6Jbu1vA", "title": "8 Useful Websites You Should Know About!" },
     { "id": "01SoWd50ED4", "title": "7 Useful Websites You'll Wish You Knew Earlier! 2024" },
     { "id": "Ogh2wOovQzQ", "title": "7 Free Software That Are Actually Great! 2024" },
@@ -26,11 +33,11 @@
     { "id": "Dn-ItZIBbkw", "title": "How To Disable Windows 11's Tracking Features" },
     { "id": "yW2io0TwDMQ", "title": "Top 10 Best FREE SOFTWARE For Your Computer (2023)" }, 
     { "id": "1RwxwNNPt7c", "title": "How to Fix Windows 10/11 for FREE (No Data Loss)" }, 
-    { "id": "0-TEzySiNv8",  "title": "15 Cool Microsoft Edge Features You'll Wish You Knew Earlier!" }, 
-    { "id": "1tl4eLB_sHY",  "title": "How to Use Windows Security App on Windows 10 (Beginners Guide)" }, 
-    { "id": "H5YnJ3EEojo",  "title": "How to Clear Windows 10 Cache to Improve Performance!" }, 
-    { "id": "mFuTT-j5T0U",  "title": "Accessibility Features That Make Windows 10 Easier to Use!" }, 
-    { "id": "pm3bvkl3yEk",  "title": "Windows 10 Hidden Features You Didn't Know Existed!" }, 
-    { "id": "5vpcaTA9y20",  "title": "Windows 10 PowerToys (Beginners Guide)" }
+    { "id": "0-TEzySiNv8", "title": "15 Cool Microsoft Edge Features You'll Wish You Knew Earlier!" }, 
+    { "id": "1tl4eLB_sHY", "title": "How to Use Windows Security App on Windows 10 (Beginners Guide)" }, 
+    { "id": "H5YnJ3EEojo", "title": "How to Clear Windows 10 Cache to Improve Performance!" }, 
+    { "id": "mFuTT-j5T0U", "title": "Accessibility Features That Make Windows 10 Easier to Use!" }, 
+    { "id": "pm3bvkl3yEk", "title": "Windows 10 Hidden Features You Didn't Know Existed!" }, 
+    { "id": "5vpcaTA9y20", "title": "Windows 10 PowerToys (Beginners Guide)" }
   ]
 }

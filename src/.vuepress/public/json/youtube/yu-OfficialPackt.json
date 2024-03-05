@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/LXfjyOF3xN2_9knWUbFZ89uuPHhJoG-tKy8m9NPFJ4oyVBCX4YAkJVGormkVCWdm3D6v9G13=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "G67sdqr0g-k", "title": "Generative AI with LangChain" },
+    { "id": "0c25Eh6FUdI", "title": "Developing Kaggle Notebooks" },
+    { "id": "03YqejICtU0", "title": "Bayesian Analysis with Python" },
     { "id": "YrGwn5korC8", "title": "Implementing Multifactor Authentication I Marco Fanti I Practical Overview I Packt" },
     { "id": "jCdofJDCHkA", "title": "Learn PostgreSQL I Author Meet-Up I Luca Ferrari I Enrico Pirozzi I Packt" },
     { "id": "odHF6dShjRU", "title": "Industrializing Financial Services with DevOps I Spyridon Maniotis I Book Tour I Packt" },

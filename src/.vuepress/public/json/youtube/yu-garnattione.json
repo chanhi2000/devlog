@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/J1UN38AwAO-G46Y4jWpVkXl5hsjdGjDkeCLX6zv6Fq6R3UOqVM5gJJxOdPfQKPfN6Piiqnhjaw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vtzEOH22urI", "title": "How to embed PDF with Custom Display | EASY" },
+    { "id": "qFewyoKekxY", "title": "How to Create a Customizable Button in WordPress" },
+    { "id": "IkNrrMTrrqQ", "title": "CSS Text Color Change Transition on Hover Effect | EASY" },
+    { "id": "K_azLrhqCQY", "title": "CSS Button Effects: Running Glowing Edges (Border Animation)" },
     { "id": "W0sVZJHDUlo", "title": "How to Create a Responsive Comparison Table with CSS" },
     { "id": "njQPkYGVsfo", "title": "How to Enable Credit Card Fields in WooCommerce Checkout Using PayPal" },
     { "id": "F4bSBTMZUJY", "title": "How to Create Custom Breadcrumbs Function with Yoast" },

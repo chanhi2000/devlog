@@ -1254,5 +1254,10 @@
     "desc": "Pipelined Query Language",
     "officialSite": "https://pql.dev",
     "topics": ["clickhouse", "detection-engineering", "go", "golang", "query-language", "siem", "sql"]
+  }, {
+    "repo": "harshadmanglani/polaris",
+    "desc": "High performance workflow orchestrator for Golang",
+    "officialSite": "",
+    "topics": ["go", "golang", "orchestrator", "workflow", "workflow-engine", "workflow-orchestration", "workflow-orchestrator"]
   }
 ]

@@ -21,8 +21,8 @@
     { "id": "vG5njB0Yku8", "title": "DevOps before there was \"devops\" - VueConf US 2023" },
     { "id": "vamAefgWCJc", "title": "Speed up your development flow with Vite - VueConf US 2023" },
     { "id": "k2wi03hw2ek", "title": "Quickly Test your Apps with Vitest" },
-    { "id": "Jkb4wmGrPiw",  "title": "SharePoint as a BackEnd framework for Vue" }, 
-    { "id": "xyrWIRdGLmw",  "title": "How to build a chrome extension with Vue" }, 
-    { "id": "MU7K_V6rFjM",  "title": "Test Driven Development in Vue with Cypress by Josh Justice" }
+    { "id": "Jkb4wmGrPiw", "title": "SharePoint as a BackEnd framework for Vue" }, 
+    { "id": "xyrWIRdGLmw", "title": "How to build a chrome extension with Vue" }, 
+    { "id": "MU7K_V6rFjM", "title": "Test Driven Development in Vue with Cypress by Josh Justice" }
   ]
 }

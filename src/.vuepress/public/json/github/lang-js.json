@@ -2014,5 +2014,10 @@
     "desc": "Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills.",
     "officialSite": "https://jsm-brainwave.com",
     "topics": ["reactjs", "tailwindcss"]
+  }, {
+    "repo": "HeyPuter/puter",
+    "desc": "Desktop Environment in the Browser!",
+    "officialSite": "https://puter.com",
+    "topics": ["cloud-os", "desktop", "desktop-environment", "javascrip", "osjs", "web-desktop", "web-os", "webtop"]
   }
 ]
