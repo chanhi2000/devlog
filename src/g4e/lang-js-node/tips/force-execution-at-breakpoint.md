@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > Force execution, skipping breakpoints, when paused
-description: 🧶Node.js > 💡Tips > Force execution, skipping breakpoints, when paused
+title: Tips > Force execution, skipping breakpoints, when paused
+description: Node.js > Tips > Force execution, skipping breakpoints, when paused
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

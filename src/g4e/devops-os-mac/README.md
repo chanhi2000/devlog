@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🖥️macOS
-description: 🖥️macOS
+title: macOS
+description: macOS
+icon: fa-brands fa-apple
 category:
-  - 🖥️macOS
+  - macOS
+tag:
+  - macOS
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -1,9 +1,14 @@
 ---
 lang: ko-KR
-title: 🧩Excel
-description: 🧩Excel
+title: Excel
+description: Excel
+icon: fas fa-file-excel
 category: 
-  - 🧩Excel
+  - Excel
+tag:
+  - excel
+  - xls
+  - xlsx
 ---
 
 # {{ $frontmatter.description }} 관련

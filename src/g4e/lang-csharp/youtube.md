@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: ♯CSharp > 📺Youtube
+title: Youtube
+description: ♯CSharp > Youtube
+icon: fa-brands fa-youtube
 category:
   - ♯CSharp
-  - 📺Youtube
+  - Youtube
 tag: 
   - csharp
   - dotnet

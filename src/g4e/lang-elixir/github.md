@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 💧Elixir > 🕶️Github
+title: Github
+description: 💧Elixir > Github
+icon: fa-brands fa-github
 category:
   - 💧Elixir 
-  - 🕶️Github
+  - Github
 tag: 
   - elixir
   - exs

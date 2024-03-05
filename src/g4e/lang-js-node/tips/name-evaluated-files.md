@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > Name evaluated files with the sourceURL pragma
-description: 🧶Node.js > 💡Tips > Name evaluated files with the sourceURL pragma
+title: Tips > Name evaluated files with the sourceURL pragma
+description: Node.js > Tips > Name evaluated files with the sourceURL pragma
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🤵🏻‍♂️Jenkins
-description: 🤵🏻‍♂️Jenkins
+title: Jenkins
+description: Jenkins
+icon: fa-brands fa-jenkins
 category:
-  - 🤵🏻‍♂️Jenkins
+  - Jenkins
+tag:
+  - jenkins
+  - jenkinsfile
 ---
 
 # {{ $frontmatter.title }} 관련

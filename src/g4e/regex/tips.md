@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🥋Regex > 💡Tips
+title: Tips
+description: Regex > Tips
+icon: fas fa-lightbulb
 category:
-  - 🥋Regex
-  - 💡Tips
+  - Regex
+  - Tips
 tag:
   - regex
   - regular-expression

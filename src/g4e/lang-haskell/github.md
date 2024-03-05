@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description:  🐑Haskell > 🕶️Github
+title: Github
+description:  🐑Haskell > Github
+icon: fa-brands fa-github
 category: 
   - 🐑Haskell
-  - 🕶️Github
+  - Github
 tag: 
   - git
   - github
@@ -12,9 +13,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🐑Haskell > 🕶️Github
+      content: 🐑Haskell > Github
     - property: og:description
-      content: 🐑Haskell > 🕶️Github
+      content: 🐑Haskell > Github
     - propert: og:type
       content: article
     - property: og:url

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > Explain console errors by using artificial intelligence
-description: 🧶Node.js > 💡Tips > Explain console errors by using artificial intelligence
+title: Tips > Explain console errors by using artificial intelligence
+description: Node.js > Tips > Explain console errors by using artificial intelligence
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔮Snippets
-description: ⌨Sublime Text > 🔮Snippets
+title: Snippets
+description: ⌨Sublime Text > Snippets
+icon: fas fa-eye-dropper
 category: 
   - ⌨Sublime Text
-  - 🔮Snippets
+  - Snippets
 tag: 
   - js
   - chrome

@@ -1,11 +1,14 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🧮General > 📺Youtube
-category: Mathematics & Science
+title: Youtube
+description: 🧮General > Youtube
+icon: fa-brands fa-youtube
+category: 
+  - Mathematics 
+  - Science
 tag: 
- - youtube
- - tutorial
+  - youtube
+  - tutorial
 ---
 
 # {{ $frontmatter.title }} 관련

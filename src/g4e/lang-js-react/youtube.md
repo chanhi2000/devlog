@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: ⚛React.js > 📺Youtube
+title: Youtube
+description: ⚛React.js > Youtube
+icon: fa-brands fa-youtube
 category:
   - ⚛React.js
-  - 📺Youtube
+  - Youtube
 tag: 
   - js
   - node
@@ -19,9 +20,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ⚛React.js > 📺Youtube
+      content: ⚛React.js > Youtube
     - property: og:description
-      content: ⚛React.js > 📺Youtube
+      content: ⚛React.js > Youtube
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-js-react/youtube.html
 ---

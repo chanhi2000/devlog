@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🐣Basics
-description: 🐋Docker > 🐣Basics
+description: Docker > 🐣Basics
 category:
-  - 🐋Docker 
+  - Docker
   - 🐣Basics
 tag: 
   - sh

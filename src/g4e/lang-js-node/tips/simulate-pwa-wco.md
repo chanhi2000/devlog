@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > Simulate the Window Controls Overlay feature for PWA
-description: 🧶Node.js > 💡Tips > Simulate the Window Controls Overlay feature for PWA
+title: Tips > Simulate the Window Controls Overlay feature for PWA
+description: Node.js > Tips > Simulate the Window Controls Overlay feature for PWA
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

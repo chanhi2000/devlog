@@ -3,6 +3,7 @@ lang: ko-KR
 title: 🤖Android
 description: 🤖Android
 category:
+  - Java
   - 🤖Android
 ---
 

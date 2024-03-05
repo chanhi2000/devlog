@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: Education (Computer Science)
-description: 📺Youtube > Education (Computer Science)
+description: Youtube > Education (Computer Science)
 category: 
-  - 📺Youtube
+  - Youtube
   - Education (Computer Science)
 tag: 
   - education

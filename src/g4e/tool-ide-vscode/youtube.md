@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🆚VSCode > 📺Youtube
+title: Youtube
+description: VSCode > Youtube
+icon: fa-brands fa-youtube
 category: 
-  - 🆚VSCode
-  - 📺Youtube
+  - VSCode
+  - Youtube
 tag: 
   - education
   - youtube

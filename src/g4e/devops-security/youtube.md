@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🛡Security > 📺Youtube
+title: Youtube
+description: Security > Youtube
+icon: fa-brands fa-youtube
 category:
-  - 🛡Security
-  - 📺Youtube
+  - Security
+  - Youtube
 tag: 
   - "youtube"
   - "tutorial"

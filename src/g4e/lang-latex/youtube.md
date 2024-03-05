@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🦢LaTeX > 📺Youtube
+title: Youtube
+description: LaTeX > Youtube
+icon: fa-brands fa-youtube
 category:
-  - 🦢LaTeX
-  - 📺Youtube
+  - LaTeX
+  - Youtube
 tags:
   - latex
   - youtube

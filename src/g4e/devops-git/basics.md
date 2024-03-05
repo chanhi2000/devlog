@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🐣Basics
-description: 🛠️Git > 🐣Basics
+description: Git > 🐣Basics
 category:
-  - 🛠️Git 
+  - Git 
   - 🐣Basics
 tag: 
   - git

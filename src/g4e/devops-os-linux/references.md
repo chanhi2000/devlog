@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🐧Linux > 📚References
+description: Linux > 📚References
 category:
-  - 🐧Linux
+  - Linux
   - 📚References 
 tag: 
   - win

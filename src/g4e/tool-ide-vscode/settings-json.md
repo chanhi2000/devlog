@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ⚙settings.json
-description: 🆚VSCode > ⚙settings.json
+title: settings.json
+description: VSCode > settings.json
+icon: iconfont icon-json
 category: 
-  - 🆚VSCode
-  - ⚙settings.json
+  - VSCode
+  - settings.json
 tag: 
   - webdev
   - vscode

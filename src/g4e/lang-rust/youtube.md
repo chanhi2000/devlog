@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🦀Rust > 📺Youtube
+title: Youtube
+description: 🦀Rust > Youtube
+icon: fa-brands fa-youtube
 category: 
   - 🦀Rust
-  - 📺Youtube
+  - Youtube
 tag: 
   - education
   - youtube

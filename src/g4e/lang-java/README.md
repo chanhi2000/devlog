@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: ☕️Java
-description: ☕️Java
+title: Java
+description: Java
+icon: fa-brands fa-java
 category:
-  - ☕️Java
+  - Java
 ---
 
 # {{ $frontmatter.description }} 관련

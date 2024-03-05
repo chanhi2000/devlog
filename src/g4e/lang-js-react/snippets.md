@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔮Snippets
-description: ⚛React.js > 🔮Snippets
+title: Snippets
+description: React.js > Snippets
+icon: fas fa-eye-dropper
 category:
-  - ⚛React.js
-  - 🔮Snippets
+  - React.js
+  - Snippets
 tag: 
   - js
   - node
@@ -18,9 +19,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ⚛React.js > 🔮Snippets
+      content: ⚛React.js > Snippets
     - property: og:description
-      content: ⚛React.js > 🔮Snippets
+      content: ⚛React.js > Snippets
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-js-react/references.html
 ---

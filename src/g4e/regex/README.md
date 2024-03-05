@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🥋Regex
-description: 🥋Regex
+title: Regex
+description: Regex
+icon: iconfont icon-regexp
 category:
-  - 🥋Regex
+  - Regex
+tag:
+  - regex
+  - regular-expression
 ---
 
 # {{ $frontmatter.description }} 관련

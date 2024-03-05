@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🦄Solidity > 📺Youtube
+title: Youtube
+description: 🦄Solidity > Youtube
+icon: fa-brands fa-youtube
 category: 
   - 🦄Solidity
-  - 📺Youtube
+  - Youtube
 tag: 
   - education
   - youtube

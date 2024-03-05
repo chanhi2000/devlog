@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔌Plugins
-description: ⌨Sublime Text > 🔌Plugins
+title: Plugins
+description: ⌨Sublime Text > Plugins
+icon: fas fa-plug
 category: 
   - ⌨Sublime Text
-  - 🔌Plugins
+  - Plugins
 tag: 
   - text-editor
   - sublimetext

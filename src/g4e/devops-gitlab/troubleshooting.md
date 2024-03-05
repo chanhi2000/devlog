@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🩺Troubleshooting 
-description: 🦊Gitlab > 🩺Troubleshooting 
+title: Troubleshooting 
+description: Gitlab > Troubleshooting 
+icon: fas fa-bug-slash
 category:
-  - 🦊Gitlab
-  -  🩺Troubleshooting
+  - Gitlab
+  -  Troubleshooting
 tag: 
   - troubleshooting
   - git

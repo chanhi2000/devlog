@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🦀Rust
-description: 🦀Rust
+title: Rust
+description: Rust
+icon: fa-brands fa-rust
 category: 
-  - 🦀Rust
+  - Rust
+tag:
+  - rs
+  - rust
 ---
 
 # {{ $frontmatter.description }} 관련

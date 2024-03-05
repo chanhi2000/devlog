@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🩺Troubleshooting
-description: 🧶Node.js > 🩺Troubleshooting
+title: Troubleshooting
+description: Node.js > Troubleshooting
+icon: fas fa-bug-slash
 category:
-  - 🧶Node.js
-  - 🩺Troubleshooting
+  - Node.js
+  - Troubleshooting
 tag: 
   - js
   - node

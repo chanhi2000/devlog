@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 💉Dependency Injection
-description: 🕊️Swift > 💉Dependency Injection
+description: Swift > 💉Dependency Injection
 category: 
-  - 🕊️Swift
+  - Swift
   - 💉Dependency Injection
 tag: 
   - ios

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🩺Troubleshooting
-description: 🐘Gradle > 🩺Troubleshooting
+title: Troubleshooting
+description: 🐘Gradle > Troubleshooting
+icon: fas fa-bug-slash
 category: 
   - 🐘Gradle
-  - 🩺Troubleshooting
+  - Troubleshooting
 tag: 
   - gradle
   - groovy

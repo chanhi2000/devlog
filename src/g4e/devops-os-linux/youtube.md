@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🐧Linux > 📺Youtube
+title: Youtube
+description: Linux > Youtube
+icon: fa-brands fa-youtube
 category:
-  - 🐧Linux
-  - 📺Youtube 
+  - Linux
+  - Youtube 
 tag: 
   - "youtube"
   - "tutorial"

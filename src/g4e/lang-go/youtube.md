@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🦦Go > 📺Youtube
+title: Youtube
+description: 🦦Go > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🦦Go 
-  - 📺Youtube
+  - Youtube
 tag: 
   - go
   - youtube
@@ -12,9 +13,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🦦Go > 📺Youtube
+      content: 🦦Go > Youtube
     - property: og:description
-      content: 🦦Go > 📺Youtube
+      content: 🦦Go > Youtube
     - propert: og:type
       content: article
     - property: og:url

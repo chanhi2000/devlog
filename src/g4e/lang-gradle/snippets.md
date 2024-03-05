@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔮Snippets
-description: 🐘Gradle > 🔮Snippets
+title: Snippets
+description: 🐘Gradle > Snippets
+icon: fas fa-eye-dropper
 category:
   - 🐘Gradle
-  - 🔮Snippets
+  - Snippets
 tag: 
   - gradle
   - groovy

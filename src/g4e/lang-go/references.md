@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🦦Go > 📚References
+description: Go > 📚References
 category: 
-  - 🦦Go
+  - Go
   - 📚References
 tag: 
   - go

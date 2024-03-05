@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🙆‍♂️Oracle SQL > 📺Youtube
+title: Youtube
+description: 🙆‍♂️Oracle SQL > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🙆‍♂️Oracle SQL 
-  - 📺Youtube
+  - Youtube
 tag: 
   - sql
   - db

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🗡Vim > 💡Tips
+title: Tips
+description: 🗡Vim > Tips
+icon: fas fa-lightbulb
 category: 
   - 🗡Vim
-  - 💡Tips 
+  - Tips 
 tag: 
   - vim
   - cli
@@ -20,7 +21,7 @@ tag:
 
 ---
 
-## 💡Tips
+## Tips
 
 | 명령어 | 설명 |
 | :--- | :--- |

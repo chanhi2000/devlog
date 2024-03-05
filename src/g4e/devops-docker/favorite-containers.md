@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📍Favorite Container(s)
-description: 🐋Docker > 📍Favorite Container(s)
+description: Docker > 📍Favorite Container(s)
 category:
-  - 🐋Docker 
+  - Docker 
   - 📍Favorite Container(s)
 tag: 
   - sh

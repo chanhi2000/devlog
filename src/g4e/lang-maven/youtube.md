@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🐦Maven > 📺Youtube
+title: Youtube
+description: 🐦Maven > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🐦Maven
-  - 📺Youtube
+  - Youtube
 tag: 
   - maven
   - apache-maven
@@ -21,9 +22,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🐦Maven > 📺Youtube
+      content: 🐦Maven > Youtube
     - property: og:description
-      content: 🐦Maven > 📺Youtube
+      content: 🐦Maven > Youtube
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-maven/youtube.html
 ---

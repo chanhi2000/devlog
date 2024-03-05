@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🧰Environment Setup
-description: 🖥️macOS > 🧰Environment Setup
+description: macOS > 🧰Environment Setup
 category:
-  - 🖥️macOS
+  - macOS
   - 🧰Environment Setup
 tag: 
   - sh

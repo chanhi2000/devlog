@@ -2074,5 +2074,10 @@
     "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "officialSite": "https://agpt.co",
     "topics": ["ai", "artificial-intelligence", "autonomous-agents", "gpt-4", "openai", "python"]
+  }, {
+    "repo": "said7388/developer-portfolio",
+    "desc": "Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.",
+    "officialSite": "https://abusaid.me",
+    "topics": ["developer-portfolio", "next-portfolio", "personal-portfolio", "personal-website", "portfolio", "portfolio-site", "portfolio-template", "portfolio-website", "react", "react-portfolio", "resume", "software-developer-portfolio"]
   }
 ]

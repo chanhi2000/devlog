@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🧰Environment Setup
-description: 👓Windows > 🧰Environment Setup
+description: Windows > 🧰Environment Setup
 category:
-  - 👓Windows
+  - Windows
   - 🧰Environment Setup
 tag: 
   - bat

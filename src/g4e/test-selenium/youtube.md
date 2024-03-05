@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🧐Selenium > 📺Youtube
+title: Youtube
+description: 🧐Selenium > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🧐Selenium
-  - 📺Youtube
+  - Youtube
 tag: 
   - "test"
   - "testing"

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: ☸️Kubernetes > 📺Youtube
+title: Youtube
+description: ☸️Kubernetes > Youtube
+icon: fa-brands fa-youtube
 category:
   - ☸️Kubernetes
-  - 📺Youtube
+  - Youtube
 tag: 
   - "youtube"
   - "tutorial"

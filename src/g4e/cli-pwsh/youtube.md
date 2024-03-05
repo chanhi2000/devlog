@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🧙‍♂️Powershell > 📺Youtube
+title: Youtube
+description: 🧙‍♂️Powershell > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🧙‍♂️Powershell
-  - 📺Youtube
+  - Youtube
 tag: 
   - "youtube"
   - "tutorial"

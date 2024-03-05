@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🆚VSCode > 📚References
+description: VSCode > 📚References
 category:
-  - 🆚VSCode
+  - VSCode
   - 📚References
 tag: 
   - webdev

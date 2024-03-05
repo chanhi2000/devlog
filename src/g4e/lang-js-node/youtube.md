@@ -1,7 +1,24 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🧶Node.js > 📺Youtube
+title: Youtube
+description: Node.js > Youtube
+icon: fa-brands fa-youtube
+category: 
+  - Node.js
+  - Youtube
+tag: 
+  - js
+  - node
+  - nodejs
+  - youtube
+head:
+  - - meta:
+    - property: og:title
+      content: Node.js > Youtube
+    - property: og:description
+      content: Node.js > Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-js-node/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

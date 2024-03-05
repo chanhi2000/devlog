@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🦦Go > 🕶️Github
+title: Github
+description: Go > Github
+icon: fa-brands fa-github
 category:
-  - 🦦Go 
-  - 🕶️Github
+  - Go 
+  - Github
 tag: 
   - git 
   - github 
@@ -13,9 +14,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🦦Go > 🕶️Github
+      content: Go > Github
     - property: og:description
-      content: 🦦Go > 🕶️Github
+      content: Github
     - propert: og:type
       content: article
     - property: og:url

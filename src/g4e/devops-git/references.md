@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🛠️Git > 📚References
+description: Git > 📚References
 ---
 
 # {{ $frontmatter.title }} 관련

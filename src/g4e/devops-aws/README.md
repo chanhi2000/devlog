@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 📦AWS
-description: 📦AWS
+title: AWS
+description: AWS
+icon: fa-brands fa-aws
 category:
-  - 📦AWS
+  - AWS
+tag:
+  - aws
+  - amazon-web-services
 ---
 
 # {{ $frontmatter.description }} 관련

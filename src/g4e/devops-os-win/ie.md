@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🌍Internet Explorer
-description: 👓Windows > 🌍Internet Explorer
+title: Internet Explorer
+description: Windows > Internet Explorer
+icon: fa-brands fa-internet-explorer
 category:
-  - 👓Windows
-  - 🌍Internet Explorer
+  - Windows
+  - Internet Explorer
 tag: 
   - ie 
   - internet-explorer

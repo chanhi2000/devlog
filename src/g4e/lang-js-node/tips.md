@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🧶Node.js > 💡Tips
+title: Tips
+description: Node.js > Tips
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - node

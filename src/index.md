@@ -1,39 +1,40 @@
 ---
+layout: BlogHome
 home: true
-icon: home
 title: Home
+icon: home
 heroText: chanhi2000
+heroFullScreen: true
 tagline: My Personal Super Mindmap
-heroImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
-actions:
-  - text: 📖G4E
+bgImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
+heroImage: https://avatars.githubusercontent.com/u/6296241?v=4
+projects:
+  - name: 🏭
+    desc: Project
+    link: /project/
+    icon: fas fa-industry
+  - name: 📖
+    desc: G4E
     link: /g4e/
-    type: primary
-  - text: 🌐Explore
+    icon: iconfont icon-relation
+  - name: 🌐
+    desc: Explore
     link: /explore/
-    type: secondary
-  - text: 🥁Crashcourse
+    icon: fas fa-compass
+  - name: 🥁
+    desc: Crashcourse
     link: https://chanhi2000.github.io/crashcourse
-    type: primary
+    icon: iconfont icon-study
+  - name: 🅽
+    desc: Notion Portfolio
+    link: https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd
+    icon: https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg
 footerHtml: true
 footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present <a target="_blank" href="https://github.com/chanhi2000">Chan Hee Lee</a>
 ---
 
 <ShieldsGroup 
-  logos="github,gitlab,swift,java,spring,springboot,springsecurity,kotlin,csharp,dotnet,css3,javascript,typescript,jquery,nodedotjs,react,vuedotjs,apachemaven,apachecordova,npm,cocoapods,gradle,subversion,mysql,mariadb,graphql,sqlite,oracle,docker,kubernetes,synology,jenkins,firebase,kakao,gitea,notion,postman,redhatopenshift,naver"
-/>
-
-<VPBanner
-  title=""
-  content=""
-  logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"
-  :actions='[
-    {
-      text: "Notion",
-      link: "https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd",
-    },
-  ]'
-/>
+  logos="github,gitlab,swift,java,spring,springboot,springsecurity,kotlin,csharp,dotnet,css3,javascript,typescript,jquery,nodedotjs,react,vuedotjs,apachemaven,apachecordova,npm,cocoapods,gradle,subversion,mysql,mariadb,graphql,sqlite,oracle,docker,kubernetes,synology,jenkins,firebase,kakao,gitea,notion,postman,redhatopenshift,naver"/>
 
 <div class="features">
   <div class="feature">

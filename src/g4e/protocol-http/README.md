@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🌤️HTTP
-description: 🌤️HTTP
+title: HTTP
+description: HTTP
+icon: iconfont icon-http
 category:
-  - 🌤️HTTP
+  - HTTP
+tag:
+  - http
 ---
 
 # {{ $frontmatter.description }} 관련

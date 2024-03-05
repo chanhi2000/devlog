@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 📊Power BI > 📺Youtube
+title: Youtube
+description: 📊Power BI > Youtube
+icon: fa-brands fa-youtube
 category: 
   - 📊Power BI
-  - 📺Youtube
+  - Youtube
 tag: 
   - youtube
   - powerbi

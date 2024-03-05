@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔌Plugins
-description: 🌈Chrome Browser > 🔌Plugins
+title: Plugins
+description: Chrome Browser > Plugins
+icon: fas fa-plug
 category:
-  - 🌈Chrome Browser
-  - 🔌Plugins
+  - Chrome Browser
+  - Plugins
 tag: 
   - js
   - chrome

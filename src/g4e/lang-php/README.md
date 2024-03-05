@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: ⛵php
-description: ⛵php
+title: php
+description: php
+icon: fa-brands fa-php
 category: 
-  - ⛵php
+  - php
+tag:
+  - php
 ---
 
 # {{ $frontmatter.description }} 관련

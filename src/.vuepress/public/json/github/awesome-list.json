@@ -1074,5 +1074,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "webbertakken/awesome-docusaurus",
+    "desc": "A curated list of awesome Docusaurus resources.",
+    "officialSite": "",
+    "topics": ["awesome", "awesome-list", "docusaurus", "docusaurus-documentation"]
+  }, {
+    "repo": "milanm/DevOps-Roadmap",
+    "desc": "DevOps Roadmap for 2024. with learning resources",
+    "officialSite": "https://newsletter.techworld-with-milan.com/",
+    "topics": ["aws", "azure", "computer-science", "continous-delivery", "continuous-integration", "developer-roadmap", "devops", "devops-roadmap", "docker", "go", "grafana", "jira", "kubernetes", "linux", "prometheus", "python", "roadmap", "sre", "study-plan"]
   }
 ]

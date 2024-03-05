@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🩺Troubleshooting
-description: 🤖Android > 🩺Troubleshooting
+title: Troubleshooting
+description: Android > Troubleshooting
+icon: fas fa-bug-slash
 category:
-  - 🤖Android 
-  - 🩺Troubleshooting
+  - Android 
+  - Troubleshooting
 tag: 
   - java
   - android

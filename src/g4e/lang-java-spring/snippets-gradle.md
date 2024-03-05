@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🐘🔮Gradle Snippets
-description: 🍃Spring > 🐘🔮Gradle Snippets
+description: Spring > 🐘🔮Gradle Snippets
 category:
-  - 🍃Spring
+  - Spring
   - 🐘🔮Gradle Snippets
 tag: 
   - gradle

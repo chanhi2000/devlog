@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🧶Node.js
-description: 🧶Node.js
+title: Node.js
+description: Node.js
+icon: fa-brands fa-node
 category:
-  - 🧶Node.js 
+  - Node.js 
 tag: 
   - js
   - node

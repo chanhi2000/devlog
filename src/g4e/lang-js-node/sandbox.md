@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🏖️Sandbox
-description: 🧶Node.js > 🏖️Sandbox
+description: Node.js > 🏖️Sandbox
 category:
-  - 🧶Node.js
+  - Node.js
   - 🏖️Sandbox
 tag: 
   - js

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > See the accessibility tree
-description: 🧶Node.js > 💡Tips > See the accessibility tree
+title: Tips > See the accessibility tree
+description: Node.js > Tips > See the accessibility tree
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

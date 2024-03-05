@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🦊Gitlab
-description: 🦊Gitlab
+title: Gitlab
+description: Gitlab
+icon: fa-brands fa-gitlab
 category:
-  - 🦊Gitlab
+  - Gitlab
 ---
 
 # {{ $frontmatter.description }} 관련

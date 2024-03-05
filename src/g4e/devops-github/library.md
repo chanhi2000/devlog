@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
 title: Library
-description: 🕶️Github > Library
+description: Github > Library
+icon: fas fa-book-bookmark
 category:
-  - 🕶️Github
+  - Github
   - Library
 tag: 
   - git 

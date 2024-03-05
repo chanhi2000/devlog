@@ -24,5 +24,10 @@
     "desc": "The comprehensive .NET Developer Roadmap by seniority level.",
     "officialSite": "https://newsletter.techworld-with-milan.com/",
     "topics": ["asp-net", "asp-net-core", "aspnet", "aspnetcore", "blazor", "csharp", "dotnet", "dotnet-core", "maui", "razor", "roadmap"]
+  }, {
+    "repo": "StefanTheCode/dotnet_interview_questions",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

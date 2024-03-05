@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: Cordova
-description: 🧶Node.js > 🤖Cordova
+description: Node.js > 🤖Cordova
 category:
-  - 🧶Node.js
+  - Node.js
   - 🤖Cordova
 tag: 
   - js
@@ -18,8 +18,6 @@ tag:
 > {{ $frontmatter.description }}
 
 ---
-
-## 💡Tips
 
 | 명령어 | 설명 |
 | :--- | :--- |

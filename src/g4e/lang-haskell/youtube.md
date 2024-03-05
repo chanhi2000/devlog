@@ -1,19 +1,20 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🐑Haskell > 📺Youtube
+title: Youtube
+description: 🐑Haskell > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🐑Haskell
-  - 📺Youtube
+  - Youtube
 tag:
   - haskell
   - youtube
 head:  
   - - meta:
     - property: og:title
-      content: 🐑Haskell > 📺Youtube
+      content: 🐑Haskell > Youtube
     - property: og:description
-      content: 🐑Haskell > 📺Youtube
+      content: 🐑Haskell > Youtube
     - property: og:type
       content: article
     - property: og:url

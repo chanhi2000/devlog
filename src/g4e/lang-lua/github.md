@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🪐Lua > 🕶️Github
+title: Github
+description: 🪐Lua > Github
+icon: fa-brands fa-github
 category:
   - 🪐Lua
-  - 🕶️Github
+  - Github
 tag: 
   - git
   - github
@@ -12,9 +13,9 @@ tag:
 head:  
   - - meta:
     - property: og:title
-      content: 🪐Lua > 🕶️Github
+      content: 🪐Lua > Github
     - property: og:description
-      content: 🪐Lua > 🕶️Github
+      content: 🪐Lua > Github
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-lua/github.html
 ---

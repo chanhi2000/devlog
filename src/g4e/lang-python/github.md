@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🐍Python > 🕶️Github
+title: Github
+description: Python > Github
+icon: fa-brands fa-github
 category:
-  - 🐍Python
-  - 🕶️Github
+  - Python
+  - Github
 tag: 
   - git
   - github
@@ -13,9 +14,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🐍Python > 🕶️Github
+      content: 🐍Python > Github
     - property: og:description
-      content: 🐍Python > 🕶️Github
+      content: 🐍Python > Github
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-python/github.html
 ---

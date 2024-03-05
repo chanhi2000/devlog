@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🗞️News
-description: 🕊️Swift > 🗞️News
+description: Swift > 🗞️News
 category: 
-  - 🕊️Swift
+  - Swift
   - 🗞️News
 tag: 
   - swift

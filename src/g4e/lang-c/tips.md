@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🦕C > 💡Tips
+title: Tips
+description: 🦕C > Tips
+icon: fas fa-lightbulb
 category: 
   - 🦕C
-  - 💡Tips
+  - Tips
 tag: 
   - c
   - cpp

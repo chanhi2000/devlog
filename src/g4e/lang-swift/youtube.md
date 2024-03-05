@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🕊️Swift > 📺Youtube
+title: Youtube
+description: Swift > Youtube
+icon: fa-brands fa-youtube
 category: 
-  - 🕊️Swift
-  - 📺Youtube
+  - Swift
+  - Youtube
 tag: 
   - "education"
   - "youtube"

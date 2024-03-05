@@ -28,8 +28,9 @@ export const sidebarEn = sidebar({
     //endregion
     //region: lang
     {
-      text: '🐚Shell',
+      text: 'Shell',
       collapsible: true,
+      icon: 'iconfont icon-shell',
       children: [
         '/g4e/cli-shell/README.md',
         '/g4e/cli-shell/basics.md',
@@ -98,8 +99,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-maven/youtube.md',
       ]
     }, {
-      text: '☕️Java',
+      text: 'Java',
       collapsible: true,
+      icon: 'fa-brands fa-java',
       children: [
         '/g4e/lang-java/README.md',
         '/g4e/lang-java/basics.md',
@@ -114,8 +116,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-java/youtube.md',
       ]
     }, {
-      text: '🍃Spring',
+      text: 'Spring',
       collapsible: true,
+      icon: 'fas fa-leaf',
       children: [
         '/g4e/lang-java-spring/README.md',
         '/g4e/lang-java-spring/snippets-gradle.md',
@@ -125,8 +128,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-java-spring/youtube.md',
       ]
     }, {
-      text: '🤖Android',
+      text: 'Android',
       collapsible: true,
+      icon: 'fa-brands fa-android',
       children: [
         '/g4e/lang-java-android/README.md',
         '/g4e/lang-java-android/adb.md',
@@ -140,8 +144,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-java-android/youtube.md',
       ]
     }, {
-      text: '🕊️Swift',
+      text: 'Swift',
       collapsible: true,
+      icon: 'fas fa-dove',
       children: [
         '/g4e/lang-swift/README.md',
         '/g4e/lang-swift/learn-essential-swift-in-one-hour.md',
@@ -153,8 +158,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-swift/youtube.md',
       ]
     }, {
-      text: '🧶Node.js',
+      text: 'Node.js',
       collapsible: true,
+      icon: 'fa-brands fa-node',
       children: [
         '/g4e/lang-js-node/README.md',
         '/g4e/lang-js-node/troubleshooting.md',
@@ -178,8 +184,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-js-node/youtube.md',
       ]
     }, {
-      text: '⚛React.js',
+      text: 'React.js',
       collapsible: true,
+      icon: 'fa-brands fa-react',
       children: [
         '/g4e/lang-js-react/README.md',
         '/g4e/lang-js-react/snippets.md',
@@ -188,8 +195,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-js-react/youtube.md',
       ]
     }, {
-      text: '🌲Vue.js',
+      text: 'Vue.js',
       collapsible: true,
+      icon: 'fa-brands fa-vuejs',
       children: [
         '/g4e/lang-js-vue/README.md',
         '/g4e/lang-js-vue/snippets.md',
@@ -205,8 +213,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-js-mermaid/examples.md',
       ]
     }, {
-      text: '🐍Python',
+      text: 'Python',
       collapsible: true,
+      icon: 'fa-brands fa-python',
       children: [
         '/g4e/lang-python/README.md',
         '/g4e/lang-python/references.md',
@@ -214,8 +223,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-python/youtube.md',
       ]
     }, {
-      text: '🎨CSS',
+      text: 'CSS',
       collapsible: true,
+      icon: 'fa-brands fa-css3-alt',
       children: [
         '/g4e/lang-css/README.md',
         '/g4e/lang-css/tips.md',
@@ -224,8 +234,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-css/youtube.md',
       ]
     }, {
-      text: '🦀Rust',
+      text: 'Rust',
       collapsible: true,
+      icon: 'fa-brands fa-rust',
       children: [
         '/g4e/lang-rust/README.md',
         '/g4e/lang-rust/references.md',
@@ -252,8 +263,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-csharp/youtube.md',
       ]
     }, {
-      text: '🦦Go',
+      text: 'Go',
       collapsible: true,
+      icon: 'fa-brands fa-golang',
       children: [
         '/g4e/lang-go/README.md',
         '/g4e/lang-go/references.md',
@@ -271,8 +283,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-dart/youtube.md',
       ]
     }, {
-      text: '⛵php',
+      text: 'php',
       collapsible: true,
+      icon: 'fa-brands fa-php',
       children: [
         '/g4e/lang-php/README.md',
         '/g4e/lang-php/references.md',
@@ -328,8 +341,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-zig/youtube.md',
       ]
     }, {
-      text: '🦢LaTeX',
+      text: 'LaTeX',
       collapsible: true,
+      icon: 'iconfont icon-tex',
       children: [
         '/g4e/lang-latex/README.md',
         '/g4e/lang-latex/references.md',
@@ -339,8 +353,9 @@ export const sidebarEn = sidebar({
     //endregion
     //region: devops
     {
-      text: '🛠️Git',
+      text: 'Git',
       collapsible: true,
+      icon: 'fa-brands fa-git',
       children: [
         '/g4e/devops-git/README.md',
         '/g4e/devops-git/basics.md',
@@ -348,8 +363,9 @@ export const sidebarEn = sidebar({
         '/g4e/devops-git/youtube.md',
       ]
     }, {
-      text: '🕶️Github',
+      text: 'Github',
       collapsible: true,
+      icon: 'fa-brands fa-github',
       children: [
         '/g4e/devops-github/README.md',
         '/g4e/devops-github/awesome-list.md',
@@ -363,8 +379,9 @@ export const sidebarEn = sidebar({
         '/g4e/devops-github/youtube.md',
       ]
     }, {
-      text: '🦊Gitlab',
+      text: 'Gitlab',
       collapsible: true,
+      icon: 'fa-brands fa-gitlab',
       children: [
         '/g4e/devops-gitlab/README.md',
         '/g4e/devops-gitlab/docker.md',
@@ -375,8 +392,9 @@ export const sidebarEn = sidebar({
         '/g4e/devops-gitlab/youtube.md',
       ]
     }, {
-      text: '🐧Linux',
+      text: 'Linux',
       collapsible: true,
+      icon: 'fa-brands fa-linux',
       children: [
         '/g4e/devops-os-linux/README.md',
         '/g4e/devops-os-linux/env-setup.md',
@@ -384,8 +402,9 @@ export const sidebarEn = sidebar({
         '/g4e/devops-os-linux/youtube.md',
       ]
     }, {
-      text: '🖥️macOS',
+      text: 'macOS',
       collapsible: true,
+      icon: 'fa-brands fa-apple',
       children: [
         '/g4e/devops-os-mac/README.md',
         '/g4e/devops-os-mac/env-setup.md',
@@ -394,8 +413,9 @@ export const sidebarEn = sidebar({
 
       ],
     }, {
-      text: '👓Windows',
+      text: 'Windows',
       collapsible: true,
+      icon: 'fa-brands fa-windows',
       children: [
         '/g4e/devops-os-win/README.md',
         '/g4e/devops-os-win/env-setup.md',
@@ -414,8 +434,9 @@ export const sidebarEn = sidebar({
         '/g4e/devops-ovirt/youtube.md',
       ]
     }, {
-      text: '🐋Docker',
+      text: 'Docker',
       collapsible: true,
+      icon: 'fa-brands fa-docker',
       children: [
         '/g4e/devops-docker/README.md',
         '/g4e/devops-docker/basics.md',
@@ -442,39 +463,44 @@ export const sidebarEn = sidebar({
         '/g4e/devops-kubernetes/youtube.md',
       ]
     }, {
-      text: '⭕Openshift',
+      text: 'Openshift',
       collapsible: true,
+      icon: 'fa-brands fa-redhat',
       children: [
         '/g4e/devops-openshift/README.md',
         '/g4e/devops-openshift/references.md',
       ]
     }, {
-      text: '📦AWS',
+      text: 'AWS',
       collapsible: true,
+      icon: 'fa-brands fa-aws',
       children: [
         '/g4e/devops-aws/README.md',
         '/g4e/devops-aws/references.md',
         '/g4e/devops-aws/youtube.md',
       ]
     }, {
-      text: '🛡Security',
+      text: 'Security',
       collapsible: true,
+      icon: 'fas fa-shield-halved',
       children: [
         '/g4e/devops-security/README.md',
         '/g4e/devops-security/references.md',
         '/g4e/devops-security/youtube.md',
       ]
     }, {
-      text: '🌤️HTTP',
+      text: 'HTTP',
       collapsible: true,
+      icon: 'iconfont icon-http',
       children: [
         '/g4e/protocol-http/README.md',
         '/g4e/protocol-http/api.md',
         '/g4e/protocol-http/references.md',
       ]
     }, {
-      text: '🤵🏻Jenkins',
+      text: 'Jenkins',
       collapsible: true,
+      icon: 'fa-brands fa-jenkins',
       children: [
         '/g4e/ci-jenkins/README.md',
         '/g4e/ci-jenkins/template.md',
@@ -510,8 +536,9 @@ export const sidebarEn = sidebar({
         '/g4e/dracula/env-setup.md',
       ],
     }, {
-      text: '🆚VSCode',
+      text: 'VSCode',
       collapsible: true,
+      icon: 'iconfont icon-vscode',
       children: [
         '/g4e/tool-ide-vscode/README.md',
         '/g4e/tool-ide-vscode/plugins.md',
@@ -542,16 +569,18 @@ export const sidebarEn = sidebar({
         '/g4e/tool-ide/dbeaver-qtmplt.md',
       ]
     }, {
-      text: '🧩Excel',
+      text: 'Excel',
       collapsible: true,
+      icon: 'fas fa-file-excel',
       children: [
         '/g4e/tool-excel/README.md',
         '/g4e/tool-excel/references.md',
         '/g4e/tool-excel/youtube.md',
       ]
     }, {
-      text: '🌈Chrome Browser',
+      text: 'Chrome Browser',
       collapsible: true,
+      icon: 'fa-brands fa-chrome',
       children: [
         '/g4e/tool-chrome-browser/README.md',
         '/g4e/tool-chrome-browser/plugins.md',
@@ -689,8 +718,9 @@ export const sidebarEn = sidebar({
     }, 
     //endregion
     {
-      text: '🥋Regex',
+      text: 'Regex',
       collapsible: true,
+      icon: 'iconfont icon-regexp',
       children: [
         '/g4e/regex/README.md',
         '/g4e/regex/tips.md',
@@ -755,7 +785,7 @@ export const sidebarEn = sidebar({
         '/explore/newsletter/data-science.md',
       ]
     }, {
-      text: '📺Youtube',
+      text: 'Youtube',
       collapsible: true,
       children: [
         '/explore/youtube/README.md',

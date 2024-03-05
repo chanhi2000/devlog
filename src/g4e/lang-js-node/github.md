@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🧶Node.js > 🕶️Github
+title: Github
+description: Node.js > Github
+icon: fa-brands fa-github
 category:
-  - 🧶Node.js
-  - 🕶️Github
+  - Node.js
+  - Github
 tag: 
   - js
   - node
@@ -15,9 +16,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🧶Node.js > 🕶️Github
+      content: Node.js > Github
     - property: og:description
-      content: 🧶Node.js > 🕶️Github
+      content: Node.js > Github
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-js-node/github.html
 ---

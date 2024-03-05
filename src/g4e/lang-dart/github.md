@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🔰Dart > 🕶️Github
+title: Github
+description: 🔰Dart > Github
+icon: fa-brands fa-github
 category:
   - 🔰Dart 
-  - 🕶️Github
+  - Github
 tag: 
   - dart
   - flutter

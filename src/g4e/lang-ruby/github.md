@@ -1,8 +1,26 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🔻Ruby > 🕶️Github
+title: Github
+description: 🔻Ruby > Github
+icon: fa-brands fa-github
+category:
+  - Ruby
+  - Github
+tag: 
+  - git
+  - github
+  - ruby
+  - rb
+head:
+  - - meta:
+    - property: og:title
+      content: 🔻Ruby > Github
+    - property: og:description
+      content: 🔻Ruby > Github
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-ruby/github.html
 ---
+
 
 # {{ $frontmatter.title }} 관련
 

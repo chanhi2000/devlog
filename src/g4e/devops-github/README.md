@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🕶️Github
+title: Github
+description: Github
+icon: fa-brands fa-github
 category:
-  - 🕶️Github
+  - Github
+tag:
+  - github
 ---
 
 # {{ $frontmatter.description }} 관련

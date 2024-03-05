@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🦢LaTeX > 📚References
+description: LaTeX > 📚References
 category:
-  - 🦢LaTeX
+  - LaTeX
   - 📚References
 tag: 
   - tex

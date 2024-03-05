@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🍃Spring > 🕶️Github
+title: Github
+description: Spring > Github
+icon: fa-brands fa-github
 category:
-  - 🍃Spring 
-  - 🕶️Github
+  - Spring 
+  - Github
 tag: 
   - git
   - github
@@ -15,9 +16,9 @@ tag:
 head:  
   - - meta:
     - property: og:title
-      content: 🍃Spring > 🕶️Github
+      content: Spring > Github
     - property: og:description
-      content: 🍃Spring > 🕶️Github
+      content: Spring > Github
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-java-spring/github.html
 ---

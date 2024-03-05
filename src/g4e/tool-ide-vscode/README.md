@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🆚VSCode
-description: 🆚VSCode
+title: VSCode
+description: VSCode
+icon: iconfont icon-vscode
 category:
-  - 🆚VSCode
+  - VSCode
+tag:
+  - vscode
+  - visualstudiocode
 ---
 
 # {{ $frontmatter.description }} 관련

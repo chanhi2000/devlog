@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > List all event listeners on the entire page
-description: 🧶Node.js > 💡Tips > List all event listeners on the entire page
+title: Tips > List all event listeners on the entire page
+description: Node.js > Tips > List all event listeners on the entire page
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

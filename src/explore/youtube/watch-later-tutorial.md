@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: Watch Later (Tutorial)
-description: 📺Youtube > Watch Later (Tutorial)
+description: Youtube > Watch Later (Tutorial)
 category: 
-  - 📺Youtube 
+  - Youtube 
   - Watch Later (Tutorial)
 tag:
   - tutorial

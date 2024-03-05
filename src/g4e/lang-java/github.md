@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: ☕️Java > 🕶️Github
+title: Github
+description: Java > Github
+icon: fa-brands fa-github
 category: 
-  - ☕️Java 
-  - 🕶️Github
+  - Java 
+  - Github
 tag: 
   - git
   - github
@@ -15,9 +16,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ☕️Java > 🕶️Github
+      content: Java > Github
     - property: og:description
-      content: ☕️Java > 🕶️Github
+      content: Java > Github
     - property: og:type
       content: article  
     - property: og:url

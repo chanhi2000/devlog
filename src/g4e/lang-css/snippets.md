@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔮Snippets
-description: 🎨CSS > 🔮Snippets
+title: Snippets
+description: 🎨CSS > Snippets
+icon: fas fa-eye-dropper
 category: 
   - 🎨CSS 
-  - 🔮Snippets
+  - Snippets
 tag: 
   - css
   - scss

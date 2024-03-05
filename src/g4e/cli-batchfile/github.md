@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🧢Batchfile > 🕶️Github
+title: Github
+description: 🧢Batchfile > Github
+icon: fa-brands fa-github
 category:
   - 🧢Batchfile
-  - 🕶️Github
+  - Github
 tag: 
   - batch
   - bat

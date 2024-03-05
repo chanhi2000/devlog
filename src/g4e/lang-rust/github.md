@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🦀Rust > 🕶️Github
+title: Github
+description: Rust > Github
+icon: fa-brands fa-github
 category: 
-  - 🦀Rust
-  - 🕶️Github
+  - Rust
+  - Github
 tag: 
   - git
   - github
@@ -13,9 +14,9 @@ tag:
 head: 
   - - meta:
     - property: og:title
-      content: 🦀Rust > 🕶️Github
+      content: Rust > Github
     - property: og:description
-      content: 🦀Rust > 🕶️Github
+      content: Rust > Github
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-rust/github.html
 ---

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🐬MySQL > 📺Youtube
+title: Youtube
+description: 🐬MySQL > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🐬MySQL 
-  - 📺Youtube
+  - Youtube
 tag: 
   - sql
   - db

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🧭Lifeguide > 📺Youtube
+title: Youtube
+description: 🧭Lifeguide > Youtube
+icon: fa-brands fa-youtube
 category: 
   - 🧭Lifeguide
-  - 📺Youtube
+  - Youtube
 tag: 
   - lifeguide
   - youtube
@@ -12,9 +13,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🧭Lifeguide > 📺Youtube
+      content: 🧭Lifeguide > Youtube
     - property: og:description
-      content: 🧭Lifeguide > 📺Youtube
+      content: 🧭Lifeguide > Youtube
     - property: og:url
       content: https://chanhi2000.github.io/projects/lifeguide/youtube.html
 ---

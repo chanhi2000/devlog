@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🤠Django > 📺Youtube
+title: Youtube
+description: 🤠Django > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🤠Django
-  - 📺Youtube
+  - Youtube
 tag: 
   - youtube
   - tutorial

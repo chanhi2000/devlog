@@ -48,8 +48,9 @@ export const navbarEn = navbar([
         text: '🌱API - Kakao',
         link: '/g4e/api-kakao/README.md',
       }, {
-        text: '🐚Shell',
+        text: 'Shell',
         link: '/g4e/cli-shell/README.md',
+        icon: 'fas fa-terminal'
       }, {
         text: '🧢Batchfile (Windows)',
         link: '/g4e/cli-batchfile/README.md',
@@ -69,38 +70,48 @@ export const navbarEn = navbar([
         text: '🅺Kotlin',
         link: '/g4e/lang-kotlin/README.md',
       }, {
-        text: '☕️Java',
+        text: 'Java',
         link: '/g4e/lang-java/README.md',
+        icon: 'fa-brands fa-java'
       }, {
-        text: '🍃Spring',
+        text: 'Spring',
         link: '/g4e/lang-java-spring/README.md',
+        icon: 'fas fa-leaf',
       }, {
-        text: '🤖Android',
+        text: 'Android',
         link: '/g4e/lang-java-android/README.md',
+        icon: 'fa-brands fa-android'
       },  {
-        text: '🕊️Swift',
+        text: 'Swift',
         link: '/g4e/lang-swift/README.md',
+        icon: 'fas fa-dove',
       }, {
-        text: '🧶Node.js',
+        text: 'Node.js',
         link: '/g4e/lang-js-node/README.md',
+        icon: 'fa-brands fa-node',
       }, {
-        text: '⚛React.js',
+        text: 'React.js',
         link: '/g4e/lang-js-react/README.md',
+        icon: 'fa-brands fa-react',
       }, {
-        text: '🌲Vue.js',
+        text: 'Vue.js',
         link: '/g4e/lang-js-vue/README.md',
+        icon: 'fa-brands fa-vuejs',
       }, {
         text: '🧜‍♀️Mermaid.js',
         link: '/g4e/lang-js-mermaid/README.md',
       }, {
-        text: '🐍Python',
+        text: 'Python',
         link: '/g4e/lang-python/README.md',
+        icon: 'fa-brands fa-python',
       }, {
-        text: '🎨CSS',
+        text: 'CSS',
         link: '/g4e/lang-css/README.md',
+        icon: 'fa-brands fa-css3-alt'
       }, {
-        text: '🦀Rust',
+        text: 'Rust',
         link: '/g4e/lang-rust/README.md',
+        icon: 'fa-brands fa-rust'
       }, {
         text: '🪐Lua',
         link: '/g4e/lang-lua/README.md',
@@ -108,14 +119,16 @@ export const navbarEn = navbar([
         text: '♯CSharp',
         link: '/g4e/lang-csharp/README.md',
       }, {
-        text: '🦦Go',
+        text: 'Go',
         link: '/g4e/lang-go/README.md',
+        icon: 'fa-brands fa-golang'
       }, {
         text: '🔰Dart',
         link: '/g4e/lang-dart/README.md',
       }, {
-        text: '⛵php',
+        text: 'php',
         link: '/g4e/lang-php/README.md',
+        icon: 'fa-brands fa-php'
       }, {
         text: '🔻Ruby',
         link: '/g4e/lang-ruby/README.md',
@@ -132,8 +145,9 @@ export const navbarEn = navbar([
         text: '🏂Zig',
         link: '/g4e/lang-zig/README.md',
       }, {
-        text: '🦢LaTeX',
+        text: 'LaTeX',
         link: '/g4e/lang-latex/README.md',
+        icon: 'iconfont icon-tex',
       }
     ]
   }, {
@@ -144,9 +158,6 @@ export const navbarEn = navbar([
 //   text: '📍Misc.',
 //   children: [
 //     {
-//       text: '🕶️Github',
-//       link: 'https://github.com/chanhi2000',
-//     }, {
 //       text: '🅽Notion',
 //       link: 'https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd',
 //     },{

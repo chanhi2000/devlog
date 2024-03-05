@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🤵🏻‍♂️Jenkins > 📺Youtube
+title: Youtube
+description: 🤵🏻‍♂️Jenkins > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🤵🏻‍♂️Jenkins
-  - 📺Youtube
+  - Youtube
 tag: 
   - "youtube"
   - "tutorial"

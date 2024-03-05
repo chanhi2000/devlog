@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔌Plugins
-description: 🆚VSCode > 🔌Plugins
+title: Plugins
+description: VSCode > Plugins
+icon: fas fa-plug
 category:
-  - 🆚VSCode
-  - 🔌Plugins
+  - VSCode
+  - Plugins
 tag: 
   - vscode
   - visual-studio-code

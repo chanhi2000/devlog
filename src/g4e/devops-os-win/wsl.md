@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🧠WSL
-description: 👓Windows > 🧠WSL
+title: WSL
+description: Windows > WSL
+icon: fas fa-brain
 category:
-  - 👓Windows
-  - 🧠WSL
+  - Windows
+  - WSL
 tag: 
   - win
   - Windows

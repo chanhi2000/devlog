@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🐚Shell > 💡Tips
+title: Tips
+description: Shell > Tips
+icon: fas fa-lightbulb
 category:
-  - 🐚Shell
-  - 💡Tips
+  - Shell
+  - Tips
 tag: 
   - bash
   - linux

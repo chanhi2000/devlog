@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔮Snippets
-description: 🧢Batchfile > 🔮Snippets
+title: Snippets
+description: 🧢Batchfile > Snippets
+icon: fas fa-eye-dropper
 category:
   - 🧢Batchfile 
-  - 🔮Snippets
+  - Snippets
 tag: 
   - batch
   - bat

@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🌲Vue.js
-description: 🌲Vue.js
+title: Vue.js
+description: Vue.js
+icon: fa-brands fa-vuejs
 category:
-  - 🌲Vue.js
+  - Vue.js
 tag: 
   - js
   - node

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🎨CSS > 💡Tips
+title: Tips
+description: 🎨CSS > Tips
+icon: fas fa-lightbulb
 category:
   - 🎨CSS
-  - 💡Tips
+  - Tips
 tag: 
   - css
   - scss

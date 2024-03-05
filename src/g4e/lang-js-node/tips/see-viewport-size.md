@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > See the viewport size
-description: 🧶Node.js > 💡Tips > See the viewport size
+title: Tips > See the viewport size
+description: Node.js > Tips > See the viewport size
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

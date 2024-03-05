@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: ☕️Java > 📺Youtube
+title: Youtube
+description: ☕️Java > Youtube
+icon: fa-brands fa-youtube
 category:
   - ☕️Java 
-  - 📺Youtube
+  - Youtube
 tag: 
   - "java"
   - "jdk"
@@ -108,9 +109,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ☕️Java > 📺Youtube
+      content: ☕️Java > Youtube
     - property: og:description
-      content: ☕️Java > 📺Youtube
+      content: ☕️Java > Youtube
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-java/youtube.html
 ---

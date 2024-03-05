@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🩺Troubleshooting
-description: 🐚Shell > 🩺Troubleshooting
+title: Troubleshooting
+description: Shell > Troubleshooting
+icon: fas fa-bug-slash
 category:
-  - 🐚Shell
-  - 🩺Troubleshooting
+  - Shell
+  - Troubleshooting
 tag: 
   - bash
   - linux

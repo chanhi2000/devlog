@@ -1,9 +1,15 @@
 ---
 lang: ko-KR
-title: 👓Windows
-description: 👓Windows
+title: Windows
+description: Windows
+icon: fa-brands fa-windows
 category:
-  - 👓Windows
+  - Windows
+tag:
+  - win
+  - windows
+  - win10
+  - win11
 ---
 
 # {{ $frontmatter.description }} 관련

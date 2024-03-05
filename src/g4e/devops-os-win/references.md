@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 👓Windows > 📚References
+description: Windows > 📚References
 category:
-  - 👓Windows
+  - Windows
   - 📚References
 tag: 
   - win

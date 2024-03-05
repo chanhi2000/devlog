@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🐧Linux
-description: 🐧Linux
+title: Linux
+description: Linux
+icon: fa-brands fa-linux
 category:
-  - 🐧Linux
+  - Linux
+tag:
+  - linux
 ---
 
 # {{ $frontmatter.description }} 관련

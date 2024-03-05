@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: ⚡Template
-description: 🤵🏻‍♂️Jenkins > ⚡Template
+description: Jenkins > ⚡Template
 category:
-  - 🤵🏻‍♂️Jenkins
+  - Jenkins
   - ⚡Template
 tag: 
   - jenkins

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🧩Excel > 📺Youtube
+title: Youtube
+description: Excel > Youtube
+icon: fa-brands fa-youtube
 category: 
-  - 🧩Excel
-  - 📺Youtube
+  - Excel
+  - Youtube
 tag:
   - "education"
   - "youtube"

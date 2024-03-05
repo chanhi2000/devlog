@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > Block DevTools
-description: 🧶Node.js > 💡Tips > Block DevTools
+title: Tips > Block DevTools
+description: Node.js > Tips > Block DevTools
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

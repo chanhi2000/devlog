@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🎨CSS
-description: 🎨CSS
+title: CSS
+description: CSS
+icon: fa-brands fa-css3-alt
 category:
-  - 🎨CSS
+  - CSS
+tag:
+  - css
+  - scss
 ---
 
 # {{ $frontmatter.description }} 관련

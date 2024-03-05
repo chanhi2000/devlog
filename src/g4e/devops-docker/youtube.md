@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🐋Docker > 📺Youtube
+title: Youtube
+description: 🐋Docker > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🐋Docker 
-  - 📺Youtube
+  - Youtube
 tag: 
   - "sh"
   - "bash"

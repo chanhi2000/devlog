@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🗡Vim > 📺Youtube
+title: Youtube
+description: 🗡Vim > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🗡Vim
-  - 📺Youtube
+  - Youtube
 tag: 
   - "youtube"
   - "tutorial"

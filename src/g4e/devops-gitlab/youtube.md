@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube 
-description: 🦊Gitlab > 📺Youtube 
+title: Youtube 
+description: 🦊Gitlab > Youtube 
+icon: fa-brands fa-youtube
 category:
   - 🦊Gitlab
-  - 📺Youtube 
+  - Youtube 
 tag: 
   - "youtube"
   - "tutorial"

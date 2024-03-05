@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🦢LaTeX > 🕶️Github
+title: Github
+description: LaTeX > Github
+icon: fa-brands fa-github
 category:
-  - 🦢LaTeX
-  - 🕶️Github
+  - LaTeX
+  - Github
 tag: 
   - tex
   - latex
@@ -15,9 +16,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🦢LaTeX > 🕶️Github
+      content: LaTeX > Github
     - property: og:description
-      content: 🦢LaTeX > 🕶️Github
+      content: LaTeX > Github
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-latex/github.html
 ---

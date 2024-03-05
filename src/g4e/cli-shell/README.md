@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🐚Shell
-description: 🐚Shell
+title: Shell
+description: Shell
+icon: iconfont icon-shell
 category:
-  - 🐚Shell
+  - Shell
 ---
 
 # {{ $frontmatter.description }} 관련

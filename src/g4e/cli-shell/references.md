@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🐚Shell > 📚References
+description: Shell > 📚References
 category: 
-  - 🐚Shell
+  - Shell
   - 📚References
 tag: 
   - bash

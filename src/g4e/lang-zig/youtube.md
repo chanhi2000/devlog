@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🏂Zig > 📺Youtube
+title: Youtube
+description: 🏂Zig > Youtube
+icon: fa-brands fa-youtube
 category: 
   - 🏂Zig
-  - 📺Youtube
+  - Youtube
 tag: 
   - youtube
   - zig

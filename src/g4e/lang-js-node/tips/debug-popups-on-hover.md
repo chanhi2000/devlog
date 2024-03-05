@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > Debug popups that appear on hover
-description: 🧶Node.js > 💡Tips > Debug popups that appear on hover
+title: Tips > Debug popups that appear on hover
+description: Node.js > Tips > Debug popups that appear on hover
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

@@ -4474,5 +4474,30 @@
     "desc": "Automate browser-based workflows with LLMs and Computer Vision",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "albertan017/LLM4Decompile",
+    "desc": "Reverse Engineering: Decompiling Binary Code with Large Language Models",
+    "officialSite": "",
+    "topics": ["decompile", "large-language-models", "reverse-engineering"]
+  }, {
+    "repo": "cbh123/narrator",
+    "desc": "David Attenborough narrates your life",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "BerriAI/litellm",
+    "desc": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",
+    "officialSite": "https://docs.litellm.ai/docs/",
+    "topics": ["anthropic", "langchain", "langchain-python", "llm", "llmops", "openai"]
+  }, {
+    "repo": "amazon-science/chronos-forecasting",
+    "desc": "Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting",
+    "officialSite": "",
+    "topics": ["artificial-intelligence", "forecasting", "foundation-models", "huggingface", "huggingface-transformers", "large-language-models", "llm", "machine-learning", "pretrained-models", "time-series", "time-series-forecasting", "timeseries"]
+  }, {
+    "repo": "NanmiCoder/MediaCrawler",
+    "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: ⛵php > 📺Youtube
+title: Youtube
+description: ⛵php > Youtube
+icon: fa-brands fa-youtube
 category:
   - ⛵php
-  - 📺Youtube
+  - Youtube
 tag:
   - education
   - youtube

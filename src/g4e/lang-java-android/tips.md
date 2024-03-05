@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🤖Android > 💡Tips
+title: Tips
+description: Android > Tips
+icon: fas fa-lightbulb
 category:
-  - 🤖Android 
-  - 💡Tips
+  - Android 
+  - Tips
 tag: 
   - references
   - android

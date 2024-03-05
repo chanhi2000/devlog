@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🐣Basics
-description: 🐚Shell > 🐣Basics
+description: Shell > 🐣Basics
 category:
-  - 🐚Shell
+  - Shell
   - 🐣Basics
 tag: 
   - bash

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 👓Windows > 💡Tips
+title: Tips
+description: Windows > Tips
+icon: fas fa-lightbulb
 category:
-  - 👓Windows 
-  - 💡Tips
+  - Windows 
+  - Tips
 tag: 
   - bat 
   - pwsh

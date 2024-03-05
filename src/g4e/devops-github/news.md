@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🗞️News
-description: 🕶️Github > 🗞️News
+title: News
+description: Github > News
+icon: fas fa-rss
 category: 
-  - 🕶️Github 
-  - 🗞️News
+  - Github 
+  - News
 tag: 
   - github
   - news

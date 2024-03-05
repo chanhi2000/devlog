@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔮Snippets
-description: 🆚VSCode > 🔮Snippets
+title: Snippets
+description: VSCode > Snippets
+icon: fas fa-eye-dropper
 category:
-  - 🆚VSCode
-  - 🔮Snippets
+  - VSCode
+  - Snippets
 tag: 
   - vscode
   - visual-studio-code

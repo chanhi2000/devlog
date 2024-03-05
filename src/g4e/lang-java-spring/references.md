@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🍃Spring > 📚References
+description: Spring > 📚References
 category: 
-  - 🍃Spring 
+  - Spring
   - 📚References
 tag: 
   - java
@@ -14,9 +14,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🍃Spring > 📚References
+      content: Spring > 📚References
     - property: og:description
-      content: 🍃Spring > 📚References
+      content: Spring > 📚References
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-java-spring/references.html
 ---

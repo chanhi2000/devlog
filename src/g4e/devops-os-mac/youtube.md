@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🖥️macOS > 📺Youtube
+title: Youtube
+description: 🖥️macOS > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🖥️macOS
-  - 📺Youtube
+  - Youtube
 tag: 
   - "youtube"
   - "tutorial"

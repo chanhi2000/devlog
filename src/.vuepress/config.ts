@@ -7,17 +7,9 @@ import { getDirname, path } from 'vuepress/utils'
 /* plugins V2 */
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
-import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom';
 
 /* plugins 3rd-party */
-// import { copyrightPlugin } from "vuepress-plugin-copyright2";
-// import { componentsPlugin } from "vuepress-plugin-components";
-// import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
-// import anchorRightPlugin from 'vuepress-plugin-anchor-right';
-// import { copyCodePlugin } from "vuepress-plugin-copy-code2";
-// import { searchProPlugin } from "vuepress-plugin-search-pro";
 import MdDefinePlugin from 'vuepress-plugin-markdown-define2';
-import { usePagesPlugin } from 'vuepress-plugin-use-pages'
 
 import {
   // head,
@@ -70,7 +62,21 @@ export default defineUserConfig({
       },
     },
     breadcrumbIcon: true,
+    blog: {
+      intro: 'https://chanhi2000.github.io',
+      description: "프로그램이 작성되는 환경부터 배포되는 환경까지 적용하는 개발자 이찬희 입니다.",
+      avatar: 'https://avatars.githubusercontent.com/u/6296241?v=4',
+      roundAvatar: true,
+      medias: {
+        GitHub: "https://github.com/chanhi2000",
+        Facebook: "https://facebook.com/spamlove",
+        Instagram: "https://instagram.com/chanhi2000",
+        Linkedin: "https://linkedin.com/in/chanhi2000",
+        Gmail: "chanhi2000@gmail.com"
+      }
+    },
     plugins: {
+      blog: true,
       components: {
         components: [
           "VidStack", "FontIcon", "Badge", "Share", "PDF", "SiteInfo", "VPCard", "VPBanner"
@@ -157,12 +163,6 @@ export default defineUserConfig({
       id: 'G-XFRP81YMEP',
       debug: true
     }),
-    mediumZoomPlugin({
-      selector: ':not(.youtube-item):not(a) > img'
-    }),
     MdDefinePlugin(CONSTS),
-    usePagesPlugin({
-      startsWith: '/'
-    }),
   ],
 })

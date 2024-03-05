@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: ⚛React.js
-description: ⚛React.js
+title: React.js
+description: React.js
+icon: fa-brands fa-react
 category:
-  - ⚛React.js
+  - React.js
 tag: 
   - js
   - node

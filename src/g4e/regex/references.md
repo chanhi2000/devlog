@@ -1,7 +1,13 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🥋Regex > 📚References
+description: Regex > 📚References
+category:
+  - Regex
+  - 📚References
+tag: 
+  - regex
+  - regular-expressoin
 ---
 
 # {{ $frontmatter.title }} 관련

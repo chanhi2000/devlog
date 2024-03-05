@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🎡Microsoft SQL Server > 📺Youtube
+title: Youtube
+description: 🎡Microsoft SQL Server > Youtube
+icon: fa-brands fa-youtube
 category: 
   - 🎡Microsoft SQL Server
-  - 📺Youtube
+  - Youtube
 tag:
   - youtube
   - tutorial

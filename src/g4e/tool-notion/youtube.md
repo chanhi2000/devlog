@@ -1,7 +1,8 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🅽Notion > 📺Youtube
+title: Youtube
+description: 🅽Notion > Youtube
+icon: fa-brands fa-youtube
 tags:
   - notion
   - productivity

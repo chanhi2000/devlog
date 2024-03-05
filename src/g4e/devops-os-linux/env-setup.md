@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🧰Environment Setup
-description: 🐧Linux > 🧰Environment Setup
+description: Linux > 🧰Environment Setup
 category:
-  - 🐧Linux 
+  - Linux 
   - 🧰Environment Setup
 tag: 
   - sh

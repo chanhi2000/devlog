@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐋Docker
-description: 🦊GitLab > 🐋Docker
+title: Docker
+description: GitLab > Docker
+icon: fa-brands fa-docker
 category:
-  - 🦊GitLab
-  - 🐋Docker
+  - GitLab
+  - Docker
 tag: 
   - sh
   - bash

@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🤵🏻‍♂️Jenkins > 📚References
+description: Jenkins > 📚References
 category:
-  - 🤵🏻‍♂️Jenkins 
+  - Jenkins 
   - 📚References
 tag: 
   - jenkins

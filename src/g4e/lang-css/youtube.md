@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🎨CSS > 📺Youtube
+title: Youtube
+description: CSS > Youtube
+icon: fa-brands fa-youtube
 category:
-  - 🎨CSS
-  - 📺Youtube
+  - CSS
+  - Youtube
 tag: 
   - education
   - youtube

@@ -2408,5 +2408,10 @@
     "desc": "Yes, it's another chat over documents implementation... but this one is entirely local!",
     "officialSite": "https://webml-demo.vercel.app",
     "topics": []
+  }, {
+    "repo": "AntonioErdeljac/next14-duolingo-clone",
+    "desc": "",
+    "officialSite": "https://next14-duolingo-clone.vercel.app",
+    "topics": []
   }
 ]

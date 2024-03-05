@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 💧Elixir > 📺Youtube
+title: Youtube
+description: 💧Elixir > Youtube
+icon: fa-brands fa-youtube
 category:
   - 💧Elixir
-  - 📺Youtube
+  - Youtube
 tag: 
   - elixir
   - exs

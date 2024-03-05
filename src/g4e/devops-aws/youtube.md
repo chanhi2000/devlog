@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 📦AWS > 📺Youtube
+title: Youtube
+description: AWS > Youtube
+icon: fa-brands fa-youtube
 category:
-  - 📦AWS
-  - 📺Youtube
+  - AWS
+  - Youtube
 tag: 
   - "youtube"
   - "tutorial"

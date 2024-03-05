@@ -1,9 +1,11 @@
 ---
 lang: ko-KR
-title: 🍃Spring
-description: 🍃Spring
+title: Spring
+description: Spring
+icon: fas fa-leaf
 category:
-  - 🍃Spring
+  - Java
+  - Spring
 ---
 
 # {{ $frontmatter.description }} 관련

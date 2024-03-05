@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔮Snippets
-description: 🔰Dart > 🔮Snippets
+title: Snippets
+description: 🔰Dart > Snippets
+icon: fas fa-eye-dropper
 category:
   - 🔰Dart
-  - 🔮Snippets
+  - Snippets
 tag: 
   - dart
   - flutter

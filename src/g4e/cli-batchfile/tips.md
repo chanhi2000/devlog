@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🧢Batchfile > 💡Tips
+title: Tips
+description: 🧢Batchfile > Tips
+icon: fas fa-lightbulb
 category:
   - 🧢Batchfile 
-  - 💡Tips
+  - Tips
 tag: 
   - batch
   - bat

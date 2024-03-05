@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🛠️Git
-description: 🛠️Git
+title: Git
+description: Git
+icon: fa-brands fa-git
 category:
-  - 🛠️Git
+  - Git
 ---
 
 # {{ $frontmatter.description }} 관련

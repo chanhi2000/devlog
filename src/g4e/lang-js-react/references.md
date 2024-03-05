@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: ⚛React.js > 📚References
+description: React.js > 📚References
 category:
-  - ⚛React.js
+  - React.js
   - 📚References
 tag: 
   - js
@@ -17,9 +17,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ⚛React.js > 📚References
+      content: React.js > 📚References
     - property: og:description
-      content: ⚛React.js > 📚References
+      content: React.js > 📚References
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-js-react/references.html
 ---

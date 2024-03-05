@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🎼OpenAI > 📺Youtube
+title: Youtube
+description: 🎼OpenAI > Youtube
+icon: fa-brands fa-youtube
 category: 
   - 🎼OpenAI
-  - 📺Youtube
+  - Youtube
 tag: 
   - "youtube"
   - "tutorial"

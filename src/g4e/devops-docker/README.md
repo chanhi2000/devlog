@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🐋Docker
-description: 🐋Docker
+title: Docker
+description: Docker
+icon: fa-brands fa-docker
 category:
-  - 🐋Docker
+  - Docker
+tag:
+  - docker
 ---
 
 # {{ $frontmatter.description }} 관련

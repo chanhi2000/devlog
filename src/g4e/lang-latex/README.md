@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🦢LaTeX
-description: 🦢LaTeX
+title: LaTeX
+description: LaTeX
+icon: iconfont icon-tex
 category:
-  - 🦢LaTeX
+  - LaTeX
+tag:
+  - tex
+  - latex
 ---
 
 # {{ $frontmatter.description }} 관련

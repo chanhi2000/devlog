@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🐚Shell > 🕶️Github
+title: Github
+description: Shell > Github
+icon: fa-brands fa-github
 category:
-  - 🐚Shell
-  - 🕶️Github
+  - Shell
+  - Github
 tag: 
   - bash
   - linux

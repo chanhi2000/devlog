@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐋Docker
-description: 🧊Cubrid > 🐋Docker
+title: Docker
+description: 🧊Cubrid > Docker
+icon: fa-brands fa-docker
 category:
   - 🧊Cubrid
-  - 🐋Docker
+  - Docker
 tag: 
   - sh
   - bash

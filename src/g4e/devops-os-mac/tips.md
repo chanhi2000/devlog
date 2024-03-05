@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🖥️macOS > 💡Tips
+title: Tips
+description: macOS > Tips
+icon: fas fa-lightbulb
 category:
-  - 🖥️macOS
-  - 💡Tips
+  - macOS
+  - Tips
 tag: 
   - sh
   - bash

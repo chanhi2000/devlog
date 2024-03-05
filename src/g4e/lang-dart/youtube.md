@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🔰Dart > 📺Youtube
+title: Youtube
+description: 🔰Dart > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🔰Dart
-  - 📺Youtube
+  - Youtube
 tag: 
   - dart
   - flutter

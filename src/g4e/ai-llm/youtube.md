@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🦙Llama > 📺Youtube
+title: Youtube
+description: 🦙Llama > Youtube
+icon: fa-brands fa-youtube
 category: 
   - 🦙Llm
-  - 📺Youtube
+  - Youtube
 tag: 
   - "youtube"
   - "tutorial"

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🦕C > 🕶️Github
+title: Github
+description: 🦕C > Github
+icon: fa-brands fa-github
 category:
   - 🦕C
-  - 🕶️Github
+  - Github
 tag: 
   - c
   - cpp

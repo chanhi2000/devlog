@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: Watch Later (Keynote)
-description: 📺Youtube > Watch Later (Keynote)
+description: Youtube > Watch Later (Keynote)
 category: 
-  - 📺Youtube
+  - Youtube
   - Watch Later (Keynote)
 tag: 
   - keynotes

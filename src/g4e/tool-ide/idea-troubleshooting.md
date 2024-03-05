@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: Intellij Idea > 🩺Troubleshooting
-description: Intellij Idea > 🩺Troubleshooting
+title: Intellij Idea > Troubleshooting
+description: Intellij Idea > Troubleshooting
+icon: fas fa-bug-slash
 category:
   - Intellij Idea
-  - 🩺Troubleshooting
+  - Troubleshooting
 tag: 
   - idea
   - intellij-idea

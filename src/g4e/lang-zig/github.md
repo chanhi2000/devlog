@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🏂Zig > 🕶️Github
+title: Github
+description: 🏂Zig > Github
+icon: fa-brands fa-github
 category: 
   - 🏂Zig
-  - 🕶️Github
+  - Github
 tag:
   - git
   - github

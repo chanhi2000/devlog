@@ -1,7 +1,8 @@
 ---
 lang: ko-KR
-title: 🕊️Swift
-description: 🕊️Swift
+title: Swift
+description: Swift
+icon: fas fa-dove
 category: 
   - Swift
 ---

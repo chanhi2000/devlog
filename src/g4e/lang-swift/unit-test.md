@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
 title: 🔎Unit Test
-description: 🕊️Swift > 🔎Unit Test
-category: 🕊️Swift
+description: Swift > 🔎Unit Test
+category: Swift
 tag:
   - ios
   - swift

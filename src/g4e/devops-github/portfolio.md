@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
 title: Portfolio
-description: 🕶️Github > Portfolio
+description: Github > Portfolio
+icon: fas fa-address-card
 category:
-  - 🕶️Github 
+  - Github 
   - Portfolio
 tag: 
   - portfolio
@@ -25,6 +26,7 @@ tag:
 - [teemusk][teemusk]: Tanel Teemusk
 - [ksundong][ksundong]: 김선동 | 코드 리뷰를 사랑하는 개발자
 - [ecnop.dev][ecnop.dev]: Jose Mari Ponce
+- [이정재 이력서](https://magic-fennel-2ec.notion.site/3babce8f698b49c680ac60dfaac92a9f)
 
 ---
 

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🕋Nexus Repository > 💡Tips
+title: Tips
+description: 🕋Nexus Repository > Tips
+icon: fas fa-lightbulb
 category:
   - 🕋Nexus Repository
-  - 💡Tips
+  - Tips
 tag: 
   - "nexus"
   - "sonatype-nexus"

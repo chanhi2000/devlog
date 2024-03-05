@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🚢Docker Compose
-description: 🐋Docker > 🚢Docker Compose
+description: Docker > 🚢Docker Compose
 category:
-  - 🐋Docker 
+  - Docker 
   - 🚢Docker Compose
 tag: 
   - sh

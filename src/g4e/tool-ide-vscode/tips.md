@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips
-description: 🆚VSCode > 💡Tips
+title: Tips
+description: VSCode > Tips
+icon: fas fa-lightbulb
 category:
-  - 🆚VSCode 
-  - 💡Tips
+  - VSCode 
+  - Tips
 tag: 
   - vscode
   - visual-studio-code

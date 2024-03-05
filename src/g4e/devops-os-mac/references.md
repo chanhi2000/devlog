@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🖥️macOS > 📚References
+description: macOS > 📚References
 category:
-  - 🖥️macOS
+  - macOS
   - 📚References
 tag: 
   - macos

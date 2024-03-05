@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
-title: 🔌Plugins
-description: Intellij Idea > 🔌Plugins
+title: Plugins
+description: Intellij Idea > Plugins
 category:
   - Intellij Idea
-  - 🔌Plugins
+  - Plugins
 tag: 
   - idea
   - intellij-idea

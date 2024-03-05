@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🧶Node.js > 📚References
+description: Node.js > 📚References
 category:
-  - 🧶Node.js
+  - Node.js
   - 📚References
 tag: 
   - js

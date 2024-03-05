@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🌈Chrome Browser > 📚References
+description: Chrome Browser > 📚References
 category: 
-  - 🌈Chrome Browser
+  - Chrome Browser
   - 📚References
 tag: 
   - devlog

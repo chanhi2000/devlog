@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🚄Learn essential Swift in one hour
-description: 🕊️Swift > 🚄Learn essential Swift in one hour
+description: Swift > 🚄Learn essential Swift in one hour
 category: 
-  - 🕊️Swift
+  - Swift
   - 🚄Learn essential Swift in one hour
 tag: 
   - references

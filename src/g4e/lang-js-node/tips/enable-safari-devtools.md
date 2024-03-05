@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > Enable DevTools in Safari
-description: 🧶Node.js > 💡Tips > Enable DevTools in Safari
+title: Tips > Enable DevTools in Safari
+description: Node.js > Tips > Enable DevTools in Safari
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

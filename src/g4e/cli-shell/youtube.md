@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🐚Shell > 📺Youtube
+title: Youtube
+description: Shell > Youtube
+icon: fa-brands fa-youtube
 category: 
-  - 🐚Shell
-  - 📺Youtube
+  - Shell
+  - Youtube
 tag:
   - "youtube"
   - "tutorial"

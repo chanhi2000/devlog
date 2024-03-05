@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🧩Excel > 📚References
+description: Excel > 📚References
 category: 
-  - 🧩Excel
+  - Excel
   - 📚References
 tag: 
   - education

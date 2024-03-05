@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: ⛵php > 📚References
+description: php > 📚References
 category: 
-  - ⛵php
+  - php
   - 📚References
 tag: 
   - education

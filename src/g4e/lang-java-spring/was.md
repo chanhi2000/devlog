@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📡WAS
-description: 🍃Spring > 📡WAS
+description: Spring > 📡WAS
 category:
-  - 🍃Spring 
+  - Spring 
   - 📡WAS
 tag:
   - java

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🚀Github Action
-description: 🕶️Github > 🚀Github Action
+title: Github Action
+description: Github > Github Action
+icon: fas fa-code-branch
 category:
-  - 🕶️Github
-  - 🚀Github Action
+  - Github
+  - Github Action
 tag: 
   - github
   - github-action

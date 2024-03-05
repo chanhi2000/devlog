@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🗡Vim > 🕶️Github
+title: Github
+description: 🗡Vim > Github
+icon: fa-brands fa-github
 category:
   - 🗡Vim
-  - 🕶️Github
+  - Github
 tag: 
   - bash
   - linux

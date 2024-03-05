@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 📺YouTube
-description: 📺YouTube
+title: Youtube
+description: Youtube
 ---
 
 # {{ $frontmatter.description }} 관련

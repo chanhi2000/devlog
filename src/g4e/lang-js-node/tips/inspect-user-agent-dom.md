@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 💡Tips > Inspect the user-agent DOM
-description: 🧶Node.js > 💡Tips > Inspect the user-agent DOM
+title: Tips > Inspect the user-agent DOM
+description: Node.js > Tips > Inspect the user-agent DOM
+icon: fas fa-lightbulb
 category:
-  - 🧶Node.js
-  - 💡Tips
+  - Node.js
+  - Tips
 tag: 
   - js
   - debug

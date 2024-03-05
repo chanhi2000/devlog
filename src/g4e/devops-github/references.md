@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🕶️Github > 📚References
+description: Github > 📚References
 category:
-  - 🕶️Github
+  - Github
   - 📚References
 tag: 
   - sh

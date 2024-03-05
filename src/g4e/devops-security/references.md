@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 📚References
-description: 🛡Security > 📚References
+description: Security > 📚References
 category:
-  - 🛡Security
+  - Security
   - 📚References
 tag: 
   - devsecops

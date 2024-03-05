@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔮Snippets
-description: 🧶Node.js > 🔮Snippets
+title: Snippets
+description: Node.js > Snippets
+icon: fas fa-eye-dropper
 category:
-  - 🧶Node.js
-  - 🔮Snippets
+  - Node.js
+  - Snippets
 tag: 
   - js
   - node

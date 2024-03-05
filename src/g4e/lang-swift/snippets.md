@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔮Snippets
-description: 🕊️Swift > 🔮Snippets
+title: Snippets
+description: Swift > Snippets
+icon: fas fa-eye-dropper
 category: 
-  - 🕊️Swift
-  - 🔮Snippets
+  - Swift
+  - Snippets
 tag: 
   - references
   - swift

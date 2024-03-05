@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🍃Spring > 📺Youtube
+title: Youtube
+description: Spring > Youtube
+icon: fa-brands fa-youtube
 category: 
-  - 🍃Spring
-  - 📺Youtube
+  - Spring
+  - Youtube
 tag: 
   - java
   - jdk
@@ -14,9 +15,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🍃Spring > 📺Youtube
+      content: Spring > Youtube
     - property: og:description
-      content: 🍃Spring > 📺Youtube
+      content: Spring > Youtube
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-java-spring/youtube.html
 ---

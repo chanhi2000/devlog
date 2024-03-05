@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📺Youtube
-description: 🪐Lua > 📺Youtube
+title: Youtube
+description: 🪐Lua > Youtube
+icon: fa-brands fa-youtube
 category:
   - 🪐Lua
-  - 📺Youtube
+  - Youtube
 tag: 
   - education
   - youtube
@@ -15,11 +16,11 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🪐Lua > 🕶️Github
+      content: 🪐Lua > Youtube
     - property: og:description
-      content: 🪐Lua > 🕶️Github
+      content: 🪐Lua > Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/g4e/lang-lua/github.html
+      content: https://chanhi2000.github.io/g4e/lang-lua/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

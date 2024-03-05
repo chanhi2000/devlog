@@ -1,7 +1,8 @@
 ---
 lang: ko-KR
-title: 🦦Go
-description: 🦦Go
+title: Go
+description: Go
+icon: fa-brands fa-golang
 category:
   - 🦦Go
 ---

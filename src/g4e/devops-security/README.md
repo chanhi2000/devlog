@@ -1,9 +1,14 @@
 ---
 lang: ko-KR
-title: 🛡Security
-description: 🛡Security
+title: Security
+description: Security
+icon: fas fa-shield-halved
 category:
-  - 🛡Security
+  - Security
+tag:
+  - security
+  - sec
+  - devopsec
 ---
 
 # {{ $frontmatter.description }} 관련

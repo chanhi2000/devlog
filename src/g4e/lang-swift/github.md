@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🕶️Github
-description: 🕊️Swift > 🕶️Github
+title: Github
+description: Swift > Github
+icon: fa-brands fa-github
 category: 
-  - 🕊️Swift
-  - 🕶️Github
+  - Swift
+  - Github
 tag: 
   - git
   - github
