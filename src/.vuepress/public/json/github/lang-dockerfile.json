@@ -29,5 +29,10 @@
     "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
     "officialSite": "https://vulhub.org",
     "topics": ["docker", "docker-compose", "dockerfile", "vulhub", "vulnerability-environment"]
+  }, {
+    "repo": "jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "officialSite": "https://jaywcjlove.github.io/reference",
+    "topics": ["cheatsheet", "docker", "javascript", "npm", "npm-package", "reactjs", "references", "semver", "toml", "typescript"]
   }
 ]

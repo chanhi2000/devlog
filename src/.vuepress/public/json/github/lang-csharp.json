@@ -334,5 +334,10 @@
     "desc": "rhythm is just a *click* away!",
     "officialSite": "https://osu.ppy.sh",
     "topics": ["beatmap-parser", "game", "hacktoberfest", "osu", "rhythm"]
+  }, {
+    "repo": "Unity-Technologies/EntityComponentSystemSamples",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["auto-vectorisation", "auto-vectorization", "burst", "component", "containers", "csharp", "documentation", "ecs", "entity", "high", "jobs", "multicore", "multicore-processors", "multicore-programming", "native", "performance", "simd", "system", "tutorials", "unity3d"]
   }
 ]

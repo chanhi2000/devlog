@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/joxgzot2UdPx2_10RWO4rLGmtJRjyrUt1DwZ0-H2YUbfABzmwuUCjrpt__9ito8DWKfRYb2J=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1_M-btTiaVI", "title": "JavaScript bigint // The missing guide" },
+    { "id": "I5DLfGxcCPc", "title": "JavaScript WeakSet // Simplified MasterClass" },
+    { "id": "WQVBrBVG13w", "title": "RegExp - regex // JavaScript Regular Expressions Ultimate MasterClass" },
+    { "id": "sTDAMtVx7PQ", "title": "WeakRef - JavaScript Strong vs Weak references // Advanced JavaScript" },
+    { "id": "2hTPBiyuoMg", "title": "JavaScript Memory Leaks // The Biggest Sources and Fixes" },
+    { "id": "6TEuixdp6KE", "title": "Testing Multiple Browser Tabs using Cypress // Official Plugin" },
     { "id": "Z-S9XfeEy8A", "title": "Sequencing async await tasks using JavaScript // Powerful Promise Utility Methods" },
     { "id": "itERu0VEfng", "title": "JavaScript Garbage Collection // Simplifed and Demonstrated" },
     { "id": "oMAS6wkyfro", "title": "JavaScript WeakMap  // Advanced JavaScript memory management" },

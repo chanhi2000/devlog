@@ -132,6 +132,12 @@ tag:
 
 ---
 
+## Paul Butler
+
+- [The hater’s guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
+
+---
+
 ## velog
 
 - [@synoti21 - 쿠버네티스 입문의 모든 것](https://velog.io/@synoti21/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)

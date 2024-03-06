@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/SQafsD08RT9PAzTcgJamj9PeLzcMJKarTIqpLTTCSOzhov9tNCW7s6XY6lpWxHE9v3ZMAd35=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "TEKYu00ca0E", "title": "BEST WAY to understand graphics and rendering code" },
+    { "id": "djm3mUUxfzg", "title": "This Animation System IS AMAZING" },
+    { "id": "Z2U-S3fxAg8", "title": "From Editor to Runtime - The Hazel Engine Workflow" },
+    { "id": "qQUHzJSC00o", "title": "Path Tracer Code Walkthrough (C++/OpenGL) // Code Review" },
     { "id": "r7LeSyW54aQ", "title": "Don't Make This Mistake! // Code Review" }, 
     { "id": "jCqO4hoB2EY", "title": "\"Please Tear My Code Apart\" // Code Review" },
     { "id": "-NJDxf4XwlQ", "title": "Make Beautiful Desktop Applications in C++" }, 

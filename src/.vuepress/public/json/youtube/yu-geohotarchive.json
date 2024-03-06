@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Nn4hpY1fEJBjee0fWZ76I2sjzA-PAp4Pi9fcdWxN8hVcE3xEZ_Ge122EI9xIYf2P_V6aOqS32Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QXRXyVNltXY", "title": "George Hotz | Researching | rewriting the linearizer (tinygrad) | Part 1" },
+    { "id": "R-Xr1JRF6bY", "title": "George Hotz | Programming | rewriting linearizer (tinygrad) | Day In The Life Of A Software Engineer" },
     { "id": "8U8kK3SpLTU", "title": "George Hotz | Programming | Decision Transformer Reinforcement Learning (RL) | LunarLander | Part 1" },
     { "id": "-tZkb0vgaDk", "title": "George Hotz | Programming | RL is dumb and doesn't work | Reinforcement Learning LunarLander Part 2" },
     { "id": "Ul5-NKOP8RQ", "title": "George Hotz | Researching | RL is dumb and doesn't work (theory) | Reinforcement Learning | Part 3" },

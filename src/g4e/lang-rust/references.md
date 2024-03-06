@@ -19,7 +19,13 @@ tag:
 
 ---
 
-## 
+## `seed.redicle.garden`
+
+- [`seed.redicle.garden`/`heartwood`](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+
+---
+
+## Just One Single History
 
 - [Just One Single History](https://josh-project.github.io/josh/intro.html)
 

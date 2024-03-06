@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/ABl3qpyfEsbtfaRXiiqAk7rkMpo-UgoB1vrjQ-z2pblACl9gYkNyVg_ZXzakn3BNtDowbIbQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Krju03DqW4I", "title": "Rethinking RESTFulsense" },
+    { "id": "utFpDJgXvD4", "title": "REST001: Abstractions & Exposers" },
+    { "id": "gCDo24dJ5Fg", "title": "REST002: Standardized Provider Abstraction Spikes" },
     { "id": "41X3JJlUsKw", "title": "EI034: Data Processing Service (Part 6)" },
     { "id": "vMMm137e8dU", "title": "EI032: Data Processing Service (Part 4)" },
     { "id": "OC4e8rWx6E0", "title": "EI027: AI Processing Service (Part 13)" },

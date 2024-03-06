@@ -24,6 +24,12 @@ tag:
 
 ---
 
+## Github
+
+- [<FontIcon icon="iconfont icon-github"/>`microsoft/WSA`: Windows Subsystem for Android™ and the Amazon Appstore will no longer be available in the Microsoft Store after March 5, 2025. #536](https://github.com/microsoft/WSA/discussions/536)
+
+---
+
 ## Stackoverflow
 
 - [How do I get an apk file from an Android device?](https://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
@@ -145,7 +151,6 @@ tag:
 ## Greek geek
 
 - [Swing VPN app is a DDOS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites)
-
 
 ---
 

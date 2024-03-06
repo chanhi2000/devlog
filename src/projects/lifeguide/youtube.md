@@ -108,5 +108,11 @@ head:
 <MyYouTubeItems jsonName="yu-mannarecipe" /><!-- 함께해요 맛나요리 -->
 <MyYouTubeItems jsonName="yu-life_peace87" /><!-- 라이프피스 -->
 <MyYouTubeItems jsonName="yu-jamo_JonPark" /><!-- 자영업의 모든것 -->
+<MyYouTubeItems jsonName="yu-ohdesk" /><!-- 오늘의 데스크 -->
+<MyYouTubeItems jsonName="yu-excessorizeme" /><!-- EXCESSORIZE ME. -->
+<MyYouTubeItems jsonName="yu-pickplus_official" /><!-- 픽플러스 -->
+<MyYouTubeItems jsonName="yu-Welfaremarble" /><!-- 복지마블TV [Welfare Marble] -->
+<MyYouTubeItems jsonName="yu-CarTip1004" /><!-- 카팁 -->
+<MyYouTubeItems jsonName="yu-dyom.y" /><!-- 됴미 -->
 
 <TagLinks />

@@ -89,5 +89,6 @@ tag:
 <MyYouTubeItems jsonName="yu-akashpadhiyar" /><!-- Akash Padhiyar -->
 <MyYouTubeItems jsonName="yu-marearts." /><!-- MareArts -->
 <MyYouTubeItems jsonName="yu-itrun" /><!-- 형님IT -->
+<MyYouTubeItems jsonName="yu-brendancodes" /><!-- BK Binary -->
 
 <TagLinks />

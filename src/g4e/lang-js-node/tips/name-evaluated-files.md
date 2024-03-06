@@ -55,7 +55,14 @@ This can also be useful when using inline `<script>` tags:
 
 Using the `sourceURL` pragma is a great way to debug your code more easily in DevTools. __Console__ messages will be easier to identify, and source code will be easier to debug.
 
+---
 
+## See also
+
+- https://devtoolstips.org/tips/en/debugger-statement
+- https://devtoolstips.org/tips/en/unminify-javascript-code
+- https://devtoolstips.org/tips/en/detect-unused-code
+- https://devtoolstips.org/tips/en/ignore-scripts
 
 ---
 

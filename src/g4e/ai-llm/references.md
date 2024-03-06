@@ -130,4 +130,16 @@ tag:
 
 ---
 
+## kapa.ai
+
+- [Optimizing Technical Docs for LLMs](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms)
+
+---
+
+## Cloudflare
+
+- [Cloudflare announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
+
+---
+
 <TagLinks/>

@@ -1144,5 +1144,10 @@
     "desc": "Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.",
     "officialSite": "https://www.rerun.io/",
     "topics": ["bevy", "debugger", "gamedev", "rerun", "tools", "visualizer"]
+  }, {
+    "repo": "elodin-sys/elodin",
+    "desc": "Physics simulation software for space + aerospace",
+    "officialSite": "https://elodin.systems",
+    "topics": ["aerospace", "ecs", "physics-simulation", "space"]
   }
 ]

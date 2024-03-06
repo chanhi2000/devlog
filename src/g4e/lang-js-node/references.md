@@ -41,6 +41,16 @@ tag:
 
 ---
 
+## Google
+
+### Chrome for Developers
+
+- [Supercharge compression efficiency with shared dictionaries ](https://developer.chrome.com/blog/shared-dictionary-compression?hl=en)
+
+---
+
+---
+
 ## Toast UI
 
 - [ECMAScript 명세 이해, 1부](https://ui.toast.com/posts/ko_20221116_1)
@@ -62,6 +72,19 @@ tag:
 - [View Transitions API](https://fe-developers.kakaoent.com/2023/230403-view-transitions-api)
 
 ---
+
+## 요즘IT
+
+- [프론트엔드 개발자가 알아야 할 ‘유닛 테스트’ 작성법](https://yozm.wishket.com/magazine/detail/2483/)
+
+---
+
+## Deno
+
+- [Introducing JSR - the JavaScript Registry](https://deno.com/blog/jsr_open_beta)
+
+---
+
 
 ## Banksalad
 

@@ -161,11 +161,17 @@ export const sidebarEn = sidebar({
         '/g4e/lang-js-node/sandbox.md',
         '/g4e/lang-js-node/cordova.md',
         '/g4e/lang-js-node/tips.md',
-        '/g4e/lang-js-node/tips/enable-safari-devtools.md',
-        '/g4e/lang-js-node/tips/explain-errors-with-ai.md',
-        '/g4e/lang-js-node/tips/inspect-user-agent-dom.md',
+        '/g4e/lang-js-node/tips/see-accessibility-tree.md',
         '/g4e/lang-js-node/tips/name-evaluated-files.md',
         '/g4e/lang-js-node/tips/simulate-pwa-wco.md',
+        '/g4e/lang-js-node/tips/inspect-user-agent-dom.md',
+        '/g4e/lang-js-node/tips/explain-errors-with-ai.md',
+        '/g4e/lang-js-node/tips/enable-safari-devtools.md',
+        '/g4e/lang-js-node/tips/block-devtools.md',
+        "/g4e/lang-js-node/tips/list-all-event-listeners.md",
+        "/g4e/lang-js-node/tips/debug-popups-on-hover.md",
+        "/g4e/lang-js-node/tips/force-execution-at-breakpoint.md",
+        "/g4e/lang-js-node/tips/see-viewport-size.md",
         '/g4e/lang-js-node/snippets.md',
         '/g4e/lang-js-node/references.md',
         '/g4e/lang-js-node/github.md',
@@ -574,6 +580,13 @@ export const sidebarEn = sidebar({
         '/g4e/ai-llm/README.md',
         '/g4e/ai-llm/references.md',
         '/g4e/ai-llm/youtube.md',
+      ]
+    }, {
+      text: '🌟Gemini',
+      collapsible: true,
+      children: [
+        '/g4e/ai-gemini/README.md',
+        '/g4e/ai-gemini/references.md',
       ]
     }, {
       text: '🦖JEUS',

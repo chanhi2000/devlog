@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/7x8rsuHAv15jxBiEqYt-SMoE81WxmMPjXbpdDcxjkTj7Mvqix9tv4AoQmIeWx9C-vdYypyHCMQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cQSxxbxFflk", "title": "Installing a Super Compact Home Network & UniFi Protect CCTV Setup" },
+    { "id": "RWP_rZlZg_0", "title": "My new Thunderbolt Docking Setup with 10 Gigabit Ethernet!" },
     { "id": "BE6ZJmede5Q", "title": "Installing a Complete Multiroom HDMI Distribution System - OREI UHD48-EX230-K" },
     { "id": "FwIjK5cN5lU", "title": "Building My New Proxmox Server! - ASUS RS100-E10-PI2" }
   ]

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/87820lQXu6MHYiTwY2dYbk8VWLgcidLabPghdX-7PQkGRK_f88T3JJLKqAxUNY8wOI2V0xJ-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uMtyxRSqxIk", "title": "How to Add Scrolling & Sticky Headers to HTML Tables with CSS" },
+    { "id": "LU_QkpvuyYk", "title": "A Simple Explanation of Recursion" },
+    { "id": "U7Q1T4ENH58", "title": "Using The CSS Object in JavaScript" },
+    { "id": "SeFSZZnjcq4", "title": "How To Create Styled External Links & Icon with HTML & CSS" },
+    { "id": "r2_A3bh94fY", "title": "How to Send Data From iframe To Parent Page — JavaScript postMessage Tutorial" },
     { "id": "LE9EaIZdjFM", "title": "How to Animate CSS Properties with JavaScript" },
     { "id": "3jMykB29rOI", "title": "How to Create Your Own Context Menu with Icons Using HTML, CSS & JavaScript" },
     { "id": "r1BfaetMmP8", "title": "How to Use Slots With JavaScript Web Components" },

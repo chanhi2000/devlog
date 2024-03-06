@@ -6,6 +6,16 @@
     "banner": ""
   },
   "videos": [
+    { "id": "HPtlPgRcGw8", "title": "티스토리 블로그 스킨 제작 가이드 3] 치환자" },
+    { "id": "1LDEn7SP8mo", "title": "티스토리 블로그 스킨 제작 가이드 4] 헤더 만들기" },
+    { "id": "2ySwWveJ9eA", "title": "티스토리 블로그 스킨 제작 가이드 5] 헤더 만들기 2" },
+    { "id": "o4Iy8WeQpnM", "title": "블로그 스킨 제작 가이드 6]  파일 불러오기" },
+    { "id": "setBNSv_Lww", "title": "블로그 스킨 제작 가이드 7] 사이드바와 방문자수" },
+    { "id": "QOPa2UT7jlE", "title": "블로그 스킨 제작 가이드 8] 랜덤태그" },
+    { "id": "NF5rrp5y4y4", "title": "티스토리 블로그 스킨 제작 가이드 9] 최근댓글" },
+    { "id": "_Ltxt5B0W5Q", "title": "티스토리 블로그 스킨 제작 가이드 10] 최근글과 인기글" },
+    { "id": "jhM9prSEA-4", "title": "티스토리 블로그 스킨 제작 가이드 11] 최근 공지사항" },
+    { "id": "Uam0UOhWYws", "title": "티스토리 블로그 스킨 제작 가이드 12] 카테고리" },
     { "id": "ly8N8ZDeC2k", "title": "Vue.js 강의 - Template refs" }
   ],
   "playlists": [

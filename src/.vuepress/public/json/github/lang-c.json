@@ -794,5 +794,10 @@
     "desc": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
     "officialSite": "https://wazuh.com/",
     "topics": ["cloud-security", "compliance", "configuration-assessement", "container-security", "cybersecurity", "file-integrity-monitoring", "incident-response", "infosec", "log-analysis", "malware-detection", "pci-dss", "security", "security-audit", "security-automation", "security-hardening", "security-tools", "siem", "vulnerability-detection", "wazuh", "xdr"]
+  }, {
+    "repo": "dekuNukem/bob_cassette_rewinder",
+    "desc": "Renew and Refill Bob Cassettes for 98% Cost Saving!",
+    "officialSite": "",
+    "topics": ["bob-cassettes", "bob-rewinder", "daan-tech", "dishwasher-detergents"]
   }
 ]

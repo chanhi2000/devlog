@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/2dUz1znn1GCW4QqA__t-1E14E9QWq2nwBtCxKvFtzV6naeAyOyTq6BgT_Ic7o53CXhVc9XP7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "j24uVD-LCq8", "title": "Remote Repositories and GitHub" },
+    { "id": "-peVc-7oDzs", "title": "Source Control with Xcode: Gitignore and config files" },
+    { "id": "FT0DWIB_qTI", "title": "Forking, Issues and Pull Requests" },
+    { "id": "OfrKx4c8YoY", "title": "7. GitHub Desktop for Macintosh" },
+    { "id": "X_boPC1tg_Y", "title": "Custom SwiftUI Calendar" },
+    { "id": "tJC7izUkm8k", "title": "Custom Calendar Tallies in SwiftUI" },
     { "id": "58zVtGTHOFw", "title": "Dynamic Application Warning Alerts" },
     { "id": "opFyA4EabWc", "title": "Git Introduction and Initialization" },
     { "id": "H5zvrFJMhuE", "title": "SwiftData   CloudKit" },

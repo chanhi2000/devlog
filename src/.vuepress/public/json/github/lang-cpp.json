@@ -176,7 +176,7 @@
     "topics": ["electron", "nodejs", "javascript", "css", "html", "c-plus-plus", "chrome", "v8", "works-with-codespaces"]
   }, {
     "repo": "pineappleEA/pineapple-src",
-    "desc": "yuzu Early Access source code",
+    "desc": "A former citrus fruit-named emulator's Early Access source code",
     "officialSite": "",
     "topics": []
   }, {
@@ -1138,5 +1138,20 @@
     "desc": "SuperTux source code",
     "officialSite": "https://supertux.org",
     "topics": ["c-plus-plus", "game", "games", "hacktoberfest", "opengl", "sdl", "sdl2", "supertux"]
+  }, {
+    "repo": "yuzu-mirror/yuzu",
+    "desc": "Nintendo Switch emulator (unofficial mirror fork)",
+    "officialSite": "",
+    "topics": ["c-plus-plus", "cpp", "emulation", "emulator", "switch"]
+  }, {
+    "repo": "PabloMK7/citra",
+    "desc": "A Nintendo 3DS Emulator",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "cemu-project/Cemu",
+    "desc": "Cemu - Wii U emulator",
+    "officialSite": "https://cemu.info",
+    "topics": ["cemu", "cemu-emulator", "cpp", "emulation", "emulator", "nintendo", "wiiu"]
   }
 ]

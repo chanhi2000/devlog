@@ -6,7 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/S4O95-olyJAOU4mR5ilyOMIZJP6Lla5y4K4EYzuxUxHXqdSa018XjGE4Nb9p9axaVYdoEm_G=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "IMo05vscNPY", "title": "효율성 및 보안을 위한 Openstack 자동화 / 박영선" },
+    { "id": "yqR0TPNWnTw", "title": "Creating a sustainable future / Wai Chung Ngai" },
+    { "id": "YcHRo8U7MnE", "title": "신호철의 오픈스택 이야기 파일럿편" },
     { "id": "9iqcmcB7Msw", "title": "국내 유일 ARM서버 기업 : 엑세스랩 주식회사의 유명환 CEO가 알려주는 ARM 서버의 모든 것! | OpenInfra Community Days Korea 2021" },
     { "id": "dR86iBTSOWA", "title": "Grafana LGTM Stack을 이용한 Observability 환경 구성 / 한종민" }
   ],

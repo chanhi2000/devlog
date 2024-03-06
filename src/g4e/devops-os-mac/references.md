@@ -154,6 +154,18 @@ tag:
 
 ---
 
+## Texts.blog
+
+- [Cracking Meta’s Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
+
+---
+
+## biosrythm
+
+- [Pushing AppleTalk Across the Internet](https://biosrhythm.com/?p=2767)
+
+---
+
 ## Misc
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)

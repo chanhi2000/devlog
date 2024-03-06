@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/f8tL36K51Er0YJuXNUK-T-cMv6xSaCK1JrNFHny2iaX6N8ef-NdnniKFpJpsviXWZfZ2LMEE0g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tKLzetRsj44", "title": "SSD 총 쓰기량 확인하기" },
+    { "id": "-KzfVjbe7CQ", "title": "별도 프로그램 없이 파일의 해시값 확인하기" },
+    { "id": "zgUCFoaUX_c", "title": "PE 환경에서 윈도우 장치 드라이버 백업하기" },
+    { "id": "W80oHog9dcA", "title": "PE 환경에서 윈도우 장치 드라이버 백업 복구 하기" },
+    { "id": "mfCRU4TEXhc", "title": "PE 환경에서 윈도우 설치하기 #1" },
     { "id": "j2axgdG58-k", "title": "한컴 오피스 자동 설치 만들기" },
     { "id": "kxbXpVnV5aw", "title": "한컴 오피스 제품키 확인하기" },
     { "id": "tN2VFee7hWg", "title": "한컴 오피스 MSI 내부 오류 1603 에러 해결 방법" },

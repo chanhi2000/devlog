@@ -155,4 +155,10 @@ tag:
 
 ---
 
+## Ben Hoyt
+
+- [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
+
+---
+
 <TagLinks />

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/8MA0Jv5ubvTC9cz4R1D8sc0JRO-5BAztZ-JjMNOSyrIRRIE6wysR5KZXm9M3EavKAVrzVzw-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8IkHQ84lmPI", "title": "HackTheBox - Clicker" },
+    { "id": "0AafRQIaWmQ", "title": "HackTheBox - Keeper" },
+    { "id": "jYCOIf9Fcmo", "title": "HackTheBox - Builder" },
+    { "id": "HM8_Pf8zxko", "title": "HackTheBox - Drive" },
     { "id": "H6QfYGeGdGQ", "title": "HackTheBox - Sau" },
     { "id": "C78yku9WC0o", "title": "HackTheBox   Zipping" },
     { "id": "qg6ucvkWOFA", "title": "Beyond Root - Crawling PHP Webapps After File Disclosure" },

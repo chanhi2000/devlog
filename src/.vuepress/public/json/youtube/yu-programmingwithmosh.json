@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Q_ypVrP2RYzpxtxNySrT-0lUHjZt5O50RnmXqcve69fNHKM1dkG0zuLyxdEyTRD1L_RFz_Jkdg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zuKbR4Q428o", "title": "JavaScript Unit Testing Tutorial for Beginners" },
+    { "id": "8Xwq35cPwYg", "title": "React Testing for Beginners: Start Here!" },
     { "id": "B5Kh0kZ-gA8", "title": "The Worst React Code!" },
     { "id": "J9sfR6HN6BY", "title": "Next.js Projects:  Build a Full-stack App with Next.js, Tailwind, Radix UI, and Prisma" },
     { "id": "SqcY0GlETPk", "title": "React Tutorial for Beginners" }, 

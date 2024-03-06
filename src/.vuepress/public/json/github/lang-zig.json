@@ -29,5 +29,10 @@
     "desc": "Unified abstraction layer and HAL for several microcontrollers",
     "officialSite": "",
     "topics": ["embedded", "hal", "zig", "zig-package", "ziglang"]
+  }, {
+    "repo": "NilsIrl/dockerc",
+    "desc": "container image to single executable compiler",
+    "officialSite": "",
+    "topics": ["containers", "docker", "oci", "oci-image"]
   }
 ]

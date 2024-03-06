@@ -534,6 +534,16 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 }
 ```
 
+```component VPCard
+{
+  "title": "Greptile",
+  "desc": "Greptile: the best way to learn any repo",
+  "link": "https://app.greptile.com/repo",
+  "logo": "https://app.greptile.com/images/logo-small.png",
+  "background": "rgba(75,139,117,0.2)"
+}
+```
+
 @tab Documentations
 
 ```component VPCard

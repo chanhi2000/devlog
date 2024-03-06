@@ -1259,5 +1259,10 @@
     "desc": "High performance workflow orchestrator for Golang",
     "officialSite": "",
     "topics": ["go", "golang", "orchestrator", "workflow", "workflow-engine", "workflow-orchestration", "workflow-orchestrator"]
+  }, {
+    "repo": "stefanprodan/podinfo",
+    "desc": "Go microservice template for Kubernetes",
+    "officialSite": "",
+    "topics": ["cuelang", "e2e-testing", "gitops", "golang", "helm", "kubernetes", "kustomize", "microservice"]
   }
 ]

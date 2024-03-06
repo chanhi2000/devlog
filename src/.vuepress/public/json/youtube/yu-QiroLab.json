@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/gLQzGdMHrF7BjaVjrxPL2dfNPobKmOXkX6JtD5EvO0_ZycAQ8EHvmz8taxNaUoZ5TBwV1MnHug=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8RQfhZgmDu4", "title": "Stylelint + VSCode = Your Code's Best Friend | CSS Linting | Streamlining Your CSS & SCSS Workflow" },
+    { "id": "0co_9kVcS38", "title": "PHP-CS-Fixer + VSCode = ✨ Automate Code Formatting, Elevate PHP Standards (In-depth Tutorial)" },
+    { "id": "0co_9kVcS38", "title": "PHP-CS-Fixer + VSCode = ✨ Automate Code Formatting, Elevate PHP Standards (In-depth Tutorial)" },
+    { "id": "fNMEGyKN5-Q", "title": "Laravel Pint + VSCode: Start Automating Code Style to Keep Your Laravel Code Clean & Consistent" },
+    { "id": "RDP8rlqtiP0", "title": "VS Code Editor Customization Guide: Tips & Tricks for Personalizing Your Visual Studio Code IDE" },
     { "id": "320vwRDqi9w", "title": "Laravel Spatie/BrowserShot: The Ultimate Guide to Dynamic PDF Exports (with Examples!)" },
     { "id": "7PVRVGqzplc", "title": "Laravel Clockwork: Debugging and Profiling Like a Pro | Optimizing Laravel Performance" },
     { "id": "F0IrHtPo-Ec", "title": "ESLint, Prettier, and VSCode Setup for JavaScript Code Linting & Formatting | Tips for Clean Code" },

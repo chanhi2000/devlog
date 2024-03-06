@@ -2016,8 +2016,28 @@
     "topics": ["reactjs", "tailwindcss"]
   }, {
     "repo": "HeyPuter/puter",
-    "desc": "Desktop Environment in the Browser!",
+    "desc": "The Internet OS!",
     "officialSite": "https://puter.com",
     "topics": ["cloud-os", "desktop", "desktop-environment", "javascrip", "osjs", "web-desktop", "web-os", "webtop"]
+  }, {
+    "repo": "atherosai/ui",
+    "desc": "Simple UI examples from my social media",
+    "officialSite": "https://learning.atheros.ai",
+    "topics": ["nextjs", "react-components", "reactjs"]
+  }, {
+    "repo": "0xsongsu/dailytask",
+    "desc": "每日签到任务",
+    "officialSite": "https://twitter.com/Johnze268",
+    "topics": []
+  }, {
+    "repo": "wkrouse/Bringing-My-OCD",
+    "desc": "These are an in-progress set of user scripts that allow you to use the internet forums Sufficient Velocity, Spacebattle, and *Questionable Questing without knowing how close you are to finishing. I've coded them because I don't want to dread the end. ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "dada-lang/dada",
+    "desc": "I speak only of myself since I do not wish to convince, I have no right to drag others into my river, I oblige no one to follow me and everybody practices his art in his own way.",
+    "officialSite": "https://dada-lang.org",
+    "topics": []
   }
 ]

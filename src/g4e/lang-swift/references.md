@@ -253,6 +253,13 @@ tag:
 
 - [`SwiftSyntax` Code Generation Notes](https://padraig.org/swift-format/2023/10/17/swift-format-tips)
 
+---
+
+## Paper
+
+- [Nerdy internals of an Apple text editor 👨🏻‍🔧](https://papereditor.app/internals)
+
+---
 
 ## Misc
 

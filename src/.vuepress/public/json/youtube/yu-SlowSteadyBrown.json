@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/r0KDU1TTVGiiZiEOpX6SxClS81q4fs0T66desheV7fL8t3h1_4oFLcgi_VUCPFXDmq8Haob2tQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YCTJuMJ7znY", "title": "URLSession | 30살 문과생 | 2024.2.19" },
+    { "id": "VVeyUwufQIY", "title": "디스패치 큐 | 2024.2.21" },
+    { "id": "BDCpzMmz96w", "title": "너 자신을 알라 | 2024.2.21" },
+    { "id": "6ezcfOA9cTw", "title": "새로운 기록 시스템 도입 | 문과생개발자되기 | 2024.1.27" },
     { "id": "ZqapB6KVfRs", "title": "[개발일기] 독학 부트캠프 | Day3" }
   ]
 }

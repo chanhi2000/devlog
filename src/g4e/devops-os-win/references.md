@@ -65,6 +65,12 @@ tag:
 
 ---
 
+## Swift Forum
+
+- [Embedded Swift on the Raspberry Pi Pico/RP2040 without the Pico SDK](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
+
+---
+
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217

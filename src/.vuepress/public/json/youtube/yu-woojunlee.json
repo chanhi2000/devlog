@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "woojunlee",
+    "name": "우준리",
+    "profile": "https://yt3.googleusercontent.com/JnjZr0_iph9XjBPmbwyWPDen5yS3ZTF_t2xjiBIr2eDfdwn808GrO6S3D4GBRpaOkWhyR-z5=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9OFolLT86OkyKojplOr8rpO9BvmKPnZxiepyw5_ruzwg19PwSaS73VJtHiPvf931xyNXMSAeXw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "j8a3FqpfYYE", "title": "간단한 교차로 제작 연습해보기 | 시티즈 스카이라인 2" },
+    { "id": "ogtWzTGECwM", "title": "The Last Start | Project KR - Episode 0" }
+  ]
+}

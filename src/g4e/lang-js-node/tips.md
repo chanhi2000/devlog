@@ -21,6 +21,120 @@ tag:
 
 ---
 
+## Devtool Tips
+
+```component VPCard
+{
+  "title": "See the accessibility tree",
+  "desc": "Devtools Tips > See the accessibility tree",
+  "link": "tips/see-accessibility-tree.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Name evaluated files with the sourceURL pragma",
+  "desc": "Devtools Tips > Name evaluated files with the sourceURL pragma",
+  "link": "tips/name-evaluated-files.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Simulate the Window Controls Overlay feature for PWA",
+  "desc": "Devtools Tips > Simulate the Window Controls Overlay feature for PWA",
+  "link": "tips/simulate-pwa-wco.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Inspect the user-agent DOM",
+  "desc": "Devtools Tips > Inspect the user-agent DOM",
+  "link": "tips/inspect-user-agent-dom.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Explain console errors by using artificial intelligence",
+  "desc": "Devtools Tips > Explain console errors by using artificial intelligence",
+  "link": "tips/explain-errors-with-ai.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Enable DevTools in Safari",
+  "desc": "Devtools Tips > Enable DevTools in Safari",
+  "link": "tips/enable-safari-devtools.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Block DevTools",
+  "desc": "Devtools Tips > Block DevTools",
+  "link": "tips/block-devtools.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "List all event listeners on the entire page",
+  "desc": "Devtools Tips > List all event listeners on the entire page",
+  "link": "tips/list-all-event-listeners.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Debug popups that appear on hover",
+  "desc": "Devtools Tips > Debug popups that appear on hover",
+  "link": "tips/debug-popups-on-hover.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Force execution, skipping breakpoints, when paused",
+  "desc": "Devtools Tips > Force execution, skipping breakpoints, when paused",
+  "link": "tips/force-execution-at-breakpoint.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "See the viewport size",
+  "desc": "Devtools Tips > See the viewport size",
+  "link": "tips/see-viewport-size.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+---
+
 ## One-liner
 
 ::: tabs

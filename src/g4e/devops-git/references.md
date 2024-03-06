@@ -146,4 +146,10 @@ description: 🛠️Git > 📚References
 
 ---
 
+## Koen van Gilst
+
+- [Why I Prefer Trunk-Based Development](https://koenvangilst.nl/blog/trunkbased-development)
+
+---
+
 <TagLinks />

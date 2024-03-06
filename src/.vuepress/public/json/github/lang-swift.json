@@ -434,5 +434,10 @@
     "desc": "Use Ollama to talk to local LLMs in Apple Notes",
     "officialSite": "https://smallest.app/notesollama",
     "topics": []
+  }, {
+    "repo": "onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "officialSite": "",
+    "topics": ["cache", "filters", "image", "image-processor", "ios", "kingfisher", "macos", "swift", "xcode"]
   }
 ]

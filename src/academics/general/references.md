@@ -36,6 +36,18 @@ tag:
 
 ---
 
+## UC Riverside
+
+- [The Beauty of Roots](https://math.ucr.edu/home/baez/roots/)
+
+---
+
+## Extreme Learning
+
+- [How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
+
+---
+
 ## StackExchange
 
 ### Physics
@@ -135,6 +147,7 @@ tag:
 ## Quanta Magazine
 
 - [Inside the Proton, the ‘Most Complicated Thing You Could Possibly Imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- [Elliptic Curve ‘Murmurations’ Found With AI Take Flight](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)
 
 ---
 
@@ -159,6 +172,12 @@ tag:
 ## Science Advances
 
 - [Anomalous cooling of bosons by dimensional reduction](https://www.science.org/doi/10.1126/sciadv.adk6870)
+
+---
+
+## HILLEL WAYNE
+
+- [The "missing" graph datatype already exists. It was invented in the '70s](https://tylerhou.com/posts/datalog-go-brrr/)
 
 ---
 

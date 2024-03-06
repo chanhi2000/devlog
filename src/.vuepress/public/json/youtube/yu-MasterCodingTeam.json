@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/SmDt0lnsptnVrAPhH5I7m2Au9maCIDmkt6_N1INi8qYolDtqCdl-7iHlHkY6TTrl72IXSvMTTdI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "C9RgqZa6ULU", "title": "EditText in Android - Learn Android from Zero #11" },
+    { "id": "-itcqN4hkbA", "title": "Buttons in Android - Learn Android from Zero #12" },
+    { "id": "rGH4HB-gF9A", "title": "ImageView in Android - Learn Android from Zero #13" },
+    { "id": "kUAWYDMPNco", "title": "Building The Greeting App - Learn Android From Zero #14" },
+    { "id": "mkNgNm40afo", "title": "The Counter App - Learn Android From Zero #15" },
     { "id": "BOiVcvJZ2vs", "title": "Android Studio Project Structure - Learn Android from Zero #7" },
     { "id": "GxcBv12lxp8", "title": "View & View Group in Android - Learn Android from Zero #8" },
     { "id": "dsfiD8exvkg", "title": "Views Attributes - Learn Android from Zero #9" },

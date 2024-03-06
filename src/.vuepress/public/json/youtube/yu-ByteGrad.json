@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/ldwLRO_hLeiQA535Amc27MOedUn8pOZDWHqNqBO9HNQR27LWc_GWBkPO7j2I7ne_cp_RGtLM2A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FXvFgw3RVYM", "title": "React Scheduler / Calendar - Top 3 Enterprise UI-Components - #3 (Syncfusion)" },
+    { "id": "DCwMn70ctXM", "title": "React Charts - Top 3 Enterprise UI-Components - #2 (Syncfusion)" },
+    { "id": "--fdH_Wru78", "title": "React Data Grid / Table - Top 3 Enterprise UI-Components - #1 (Syncfusion)" },
+    { "id": "RHQLzn4y4Ro", "title": "React / Next.js Image Uploads (EASY!) - CDN, WebP / AVIF, Signed Uploads, Webhooks, Uploadcare" },
+    { "id": "51pf_nCJpwg", "title": "Why I don't use React-Query and tRPC anymore" },
+    { "id": "397259iiZ6M", "title": "3 React Patterns for Reusability Everyone Should Know (Custom Hooks)" },
+    { "id": "W3x4delZwwc", "title": "Add Auth & Protect Routes in Next.js in 2 Minutes" },
     { "id": "Z-v6MxJGPS4", "title": "Next.js 14 Authentication (Kinde Auth, Server Actions, Roles & Permissions)" },
     { "id": "sUKptmUVIBM", "title": "Fresh React Portfolio Website (Next.js App, Framer Motion, TypeScript, Tailwind CSS, Email)" },
     { "id": "XhdOUmT2ViA", "title": "This AI-tool is even better than GitHub Copilot?" },

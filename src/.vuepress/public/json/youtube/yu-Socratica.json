@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/2dVZs0tg7nbaGZhlMWkTIEoAcs0ntqIO3F0jlHYmACpEfGc1QfZ_ZjMCHBjSzAxp1L0SBmgX=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kLMhePA3BiY", "title": "Bag of Words - Feature Extraction in Natural Language Processing (BoW in NLP)" },
+    { "id": "rGzmG1uXklM", "title": "Use Mathematica for FREE 📌 Raspberry Pi, Wolfram Cloud Basic Plan, etc." },
+    { "id": "uKl8PN1lBMs", "title": "Cosine Similarity ← Natural Language Processing ← Socratica" },
     { "id": "9yeOJ0ZMUYw", "title": "SQL Joins Explained  |¦| Joins in SQL |¦| SQL Tutorial" }
   ]
 }

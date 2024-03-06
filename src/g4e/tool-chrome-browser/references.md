@@ -47,4 +47,10 @@ tag:
 
 ---
 
+## Supermium
+
+- [An up-to-date Chromium-based web browser compatible with Windows XP, 2003, Vista, 7, 8.x, and newer.](https://win32subsystem.live/supermium/)
+
+---
+
 <TagLinks />

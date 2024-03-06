@@ -219,6 +219,12 @@ tag:
 
 ---
 
+## The Metaverse
+
+- [How likely are chance resemblances between languages?](https://www.zompist.com/chance.htm)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

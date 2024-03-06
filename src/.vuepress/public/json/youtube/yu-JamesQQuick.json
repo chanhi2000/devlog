@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/StC9GOxgXbmFL9yXgjzYQneqJ3iQRYKWMSp5a_eTvbq--zwpyaOGJMT1HIWTFp7lRpUXWpEo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PeaDEbfYKz4", "title": "Don't Make This Data Fetching Mistake In React!" },
+    { "id": "UUelj9zOucE", "title": "Live Coding" },
+    { "id": "BnFdhw6e7bY", "title": "Real-time 2D Maps in Astro" },
+    { "id": "l5akQHDcYIU", "title": "I Found a BETTER Way to Do File Uploads" },
+    { "id": "VC8oyU5cUXE", "title": "2024 Web Development Predictions" },
+    { "id": "RZK4EWMyCGc", "title": "Code Review - Next.js, Resend, Tailwind" },
+    { "id": "kUTbEcO-lrk", "title": "10 JavaScript Interview Questions You HAVE TO KNOW" },
     { "id": "oDlagfQ6HGs", "title": "ESSENTIAL JavaScript Extensions for VS Code in 2024" },
     { "id": "E3rg4KmktJE", "title": "This IMMEDIATELY Changes How We Debug Fullstack Applications!" },
     { "id": "D5ArCEjV0gU", "title": "Access Localhost ANYWHERE With This New Astro Integration" },

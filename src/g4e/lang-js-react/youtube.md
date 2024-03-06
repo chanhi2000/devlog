@@ -77,4 +77,7 @@ head:
 <MyYouTubeItems jsonName="yu-around.hub.studio" /><!-- 어라운드 허브 스튜디오 - Around Hub Studio -->
 <MyYouTubeItems jsonName="yu-starcoding" /><!-- 별코딩 -->
 <MyYouTubeItems jsonName="yu-VetrivelRavi" /><!-- Vetrivel Ravi -->
+<MyYouTubeItems jsonName="yu-programmingwithmosh" /><!-- Programming with Mosh -->
+<MyYouTubeItems jsonName="yu-ByteGrad" /><!-- ByteGrad -->
+
 <TagLinks />

@@ -4339,5 +4339,50 @@
     "desc": "A simple pleasant build system in Python.",
     "officialSite": "",
     "topics": ["build-tool", "python", "python3"]
+  }, {
+    "repo": "layerdiffusion/sd-forge-layerdiffuse",
+    "desc": "[WIP] Layer Diffusion for WebUI (via Forge)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mini-sora/minisora",
+    "desc": "The Mini Sora project aims to explore the implementation path and future development direction of Sora.",
+    "officialSite": "",
+    "topics": ["diffusion", "sora", "video-generation"]
+  }, {
+    "repo": "huchenlei/ComfyUI-layerdiffuse",
+    "desc": "Layer Diffusion custom nodes",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "huchenlei/ComfyUI-layerdiffuse",
+    "desc": "Layer Diffuse custom nodes",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Ryujinx/release-channel-master",
+    "desc": "Ryujinx's Release channel: master",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "gradio-app/gradio",
+    "desc": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+    "officialSite": "http://www.gradio.app",
+    "topics": ["data-analysis", "data-science", "data-visualization", "deep-learning", "deploy", "gradio", "gradio-interface", "hacktoberfest", "interface", "machine-learning", "models", "python", "python-notebook", "ui", "ui-components"]
+  }, {
+    "repo": "QwenLM/Qwen-Agent",
+    "desc": "Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "nicobrenner/commandjobs",
+    "desc": "Job searching for software engineers, from the command line",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "catboost/catboost",
+    "desc": "A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",
+    "officialSite": "https://catboost.ai",
+    "topics": ["big-data", "catboost", "categorical-features", "coreml", "cuda", "data-mining", "data-science", "decision-trees", "gbdt", "gbm", "gpu", "gpu-computing", "gradient-boosting", "kaggle", "machine-learning", "python", "r", "tutorial"]
   }
 ]
