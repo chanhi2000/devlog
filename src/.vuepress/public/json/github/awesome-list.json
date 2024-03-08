@@ -1034,5 +1034,15 @@
     "desc": "🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。",
     "officialSite": "",
     "topics": ["adblock", "adguard", "anticensorship", "chinalist", "clash", "dnsmasq", "easylist", "geosite", "gfw", "gfwlist", "proxy", "routing", "shadowsocks", "ss", "ssr", "surge", "v2ray"]
+  }, {
+    "repo": "yuzu-mirror/yuzu-downloads",
+    "desc": "Archived releases of yuzu (not part of the original organization)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "awesome-devblog/awesome-devblog",
+    "desc": "어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).",
+    "officialSite": "https://awesome-devblog.netlify.app/",
+    "topics": ["awesome", "blogs", "devblog", "developer", "korean", "tech-blog"]
   }
 ]

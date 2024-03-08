@@ -2039,5 +2039,25 @@
     "desc": "I speak only of myself since I do not wish to convince, I have no right to drag others into my river, I oblige no one to follow me and everybody practices his art in his own way.",
     "officialSite": "https://dada-lang.org",
     "topics": []
+  }, {
+    "repo": "gorisanson/pikachu-volleyball",
+    "desc": "Pikachu Volleyball implemented into JavaScript by reverse engineering the original game",
+    "officialSite": "https://gorisanson.github.io/pikachu-volleyball/en/",
+    "topics": ["game", "pikachu-volleyball", "reverse-engineering", "video-game"]
+  }, {
+    "repo": "insin/control-panel-for-youtube",
+    "desc": "Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers",
+    "officialSite": "https://jbscript.dev/control-panel-for-youtube",
+    "topics": ["browser-extension", "content-blocker", "productivity", "skip-ads", "youtube"]
+  }, {
+    "repo": "pvdz/yacge",
+    "desc": "Yet Another Chess Game Engine (Yacge) is a chess game web interface (vanilla html/css/js) that started out as a simple thing to validate my implementation of chess rules and which feature creeped into a fairly full engine and web UI",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "aaronraimist/DontFuckWithPaste",
+    "desc": "Google Chrome and Firefox extension that prevents the blocking of pasting into input fields",
+    "officialSite": "https://addons.mozilla.org/en-US/firefox/addon/don-t-fuck-with-paste/",
+    "topics": ["chrome", "chrome-extension", "copy", "firefox", "firefox-addon", "paste"]
   }
 ]

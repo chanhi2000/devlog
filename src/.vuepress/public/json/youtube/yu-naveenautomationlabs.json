@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/6DTM0UAarn4qXhR6dQZuxeskCOVWEdeSHUvNFreKxQL5gCO1ERTEOd_p3ec0gK5hy-kKUQRVuQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MuguT0A3uWI", "title": "#7 - Locators (ID, ClassName, Text, CSS Selector, XPath) in Playwright - Typescript" },
+    { "id": "z9adNuIlhVQ", "title": "#8 - Data-Test-Id or Test-Data-ID - Locate by test id in Playwright+Typescript" },
+    { "id": "Il8efgsiJyw", "title": "Email Testing with Mailosaur API || Fetch OTP, Email Body, To, CC, BCC, Subject, Images, Attachments" },
+    { "id": "s5ppYJJF0R0", "title": "Fetch OTP | Verification Code from Email using #Mailosaur API With Selenium WebDriver" },
+    { "id": "G3CkXZ9prmk", "title": "New Training/Boot Camp (Feb 21st): Selenium+Java+End to End Framework + Infrastructure Setup(DevOps)" },
+    { "id": "S6BpmRVQtmU", "title": "All things Generative AI, Automation and Testing" },
+    { "id": "irNPdduYXYo", "title": "#11 - Chaining Locators in Playwright + Typescript" },
+    { "id": "tSi6Lin8hQk", "title": "#10 - Open Browser without Incognito Mode (Normal Mode) with Playwright" },
+    { "id": "-Bei4OA34Qs", "title": "#9 - getByRole() in Playwright | Find Elements using ARIA Roles || Accessibility Role" },
+    { "id": "KtQECC6kTH0", "title": "Is Development Programming Language == Test Automation Programming Language?" },
     { "id": "_TAg4hpdlDU", "title": "#1 - Playwright with TypeScript - Setup & Installation | First Script" },
     { "id": "ZGK6wY1Hv9k", "title": "#2 - Time Travel Debugging - UI Mode Feature In Playwright - Typescript" },
     { "id": "72xCWQNe7UI", "title": "#3 - Playwright - Test Runner Installation & Dependency Setup || tsConfig.json || package.json" },

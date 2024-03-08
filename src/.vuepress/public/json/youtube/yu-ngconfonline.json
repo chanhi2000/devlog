@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Oc4PMpaPSVaZO4TQb2Wzdf3cV5VOxaWTJpbFrQ9yeUdgp6PQDzr78bVKvR0B8c69ZvSy_IS1xj0=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ANgGbeAbvP0", "title": "Auxiliary Routes - the Ant-Man of Angular | Ankita Sood | ng-conf 2023" },
+    { "id": "yGCSPtwTFdc", "title": "Fun with Feature Flags | Brooke Avery & Preston Lamb | ng-conf 2023" },
+    { "id": "fC9ZKSK8agM", "title": "Angular Community Meetup en Español | Enero 9 2024 | Carlos Caballero" },
+    { "id": "h4S3VOwRhRQ", "title": "The Cleanest Way to Write Observable Chains | David Valentine | ng-conf 2023" },
     { "id": "kXH7lVhut2E", "title": "Clean Up Your Old Angular Apps! | Stephen Fluin | ng-conf 2023" },
     { "id": "g_al2o54JL0", "title": "Fine-Tuning Your Angular Workflow with Nx: Beyond the CLI | Juri Strumpflohner | ng-conf 2023" },
     { "id": "aabi5LiZkFQ", "title": "Angular + Solana for Finances | Silent Genius | Learn Angular | Integrate WebSockets w/ Angular" },

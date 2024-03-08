@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/oLPKU9voOeZ4eiDF0fNnKB33MIWqIjMy5WnzVeZya3g6ddyZ9_UUXU2jFIox2SAEMyfwnHJVgpQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1WfY9wcqpT8", "title": "AD 홈 랩 3 - ADCS 서버 (네트워크 해킹 준비)" },
+    { "id": "6HKbwEumCJI", "title": "해커들을 추적하는 사이버 보안 위협 인텔리전스팀에 대해 알아보자!" },
     { "id": "Zyo2clOUrIM", "title": "풀영상 - 3시간만 투자해서 모의해킹 시작하기 (TryHackMe 모의해킹 기초방 풀영상)" },
     { "id": "EvQBI1vFf8w", "title": "풀영상 - 1시간만 투자해서 오신트 기술 배워보기 (TryHackMe 오신트 기초방 풀영상)" },
     { "id": "IPm-maI2bio", "title": "2시간만 투자해서 해킹 피싱 인프라 C2 구축하기 (TryHackMe 레드팀 인프라방 풀영상)" },

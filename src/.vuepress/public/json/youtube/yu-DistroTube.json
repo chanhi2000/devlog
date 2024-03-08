@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/oMrToBgvTsKkj_uZ1F1qYT2XuGY5gN9mkuVun9L0x2lUlfV-gnntzK3jX-VpoQDLBaTfJCIZebA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ASkf0EBLZGc", "title": "Reinstalling An Operating System Kinda Sucks" },
+    { "id": "B0MCR7_103w", "title": "Qtile Is Love, Qtile Is Life" },
+    { "id": "Sf8qJeQ1Tt0", "title": "Do You Have To \"Learn\" Linux To Use Linux?" },
+    { "id": "ac4AR6FvqWo", "title": "Hey, DT! Why Doesn't Arch Have A Stable Branch? ('And Other Questions)" },
+    { "id": "6FHd-rBM2Mc", "title": "The Confusion With Linux Shells" },
+    { "id": "scBBjZcy6fc", "title": "Why No One Can Answer The \"Vim Versus Emacs\" Question" },
+    { "id": "y7C654DPAvs", "title": "A PDF Viewer With Vim Like Bindings And Configuration" },
+    { "id": "y9nKjTfDHLA", "title": "Arch Linux One Of The Easiest Distros To Install" },
+    { "id": "WkTgIN3qJno", "title": "ArcoLinux Now Offers DT's Qtile Config" },
+    { "id": "i6LuV7Pl2YU", "title": "Sync Files Across All Your Devices With Syncthing" },
     { "id": "v2-m7_X3uy8", "title": "Emacs Does Everything, Including Viewing PDFs and Diffs" },
     { "id": "DD1LVtwCUXQ", "title": "A Look At SparkyLinux With KDE Plasma" },
     { "id": "HD5ENKbxgao", "title": "The Apps That I Use (Most Available on Windows, Mac and Linux!)" },

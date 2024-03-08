@@ -181,4 +181,22 @@ tag:
 
 ---
 
+## Algeo
+
+- [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
+
+---
+
+## WorldBuilding Pasta
+
+- [HURRIED THOUGHTS: YOU'RE WRONG ABOUT TIDAL-LOCKING](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
+
+---
+
+## Plus, bringing mathematics to life
+
+- [Take a break by Emily Dixon](https://plus.maths.org/content/take-break)
+
+---
+
 <TagLinks />

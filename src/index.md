@@ -1,5 +1,9 @@
 ---
 home: true
+icon: home
+title: Home
+heroText: chanhi2000
+tagline: My Personal Super Mindmap
 heroImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
 actions:
   - text: 📖G4E
@@ -22,13 +26,8 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 <VPBanner
   title=""
   content=""
-  logo="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg"
+  logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"
   :actions='[
-    {
-      text: "Github",
-      link:"https://github.com/chanhi2000",
-      type: "default",
-    },
     {
       text: "Notion",
       link: "https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd",
@@ -74,6 +73,16 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   "link": "https://news.hada.io",
   "logo": "https://news.hada.io/logo.png",
   "background": "rgba(56, 59, 64, 0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "어썸데브블로그",
+  "desc": "국내 개발/기술 블로그 모음(only 실명으로).",
+  "link": "https://awesome-devblog.netlify.app/",
+  "logo": "https://awesome-devblog.netlify.app/favicon.ico",
+  "background": "rgba(230,230,230,0.2)"
 }
 ```
 
@@ -136,7 +145,6 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   "logo": "https://newsgpt.web.app/logo192.png",
   "background": "rgba(46, 46, 46, 0.2)"
 }
-
 ```
 
 ```component VPCard
@@ -446,7 +454,7 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   "title": "gitignore.io",
   "desc": "자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요",
   "link": "https://www.toptal.com/developers/gitignore",
-  "logo": "https://www.toptal.com/img/toptal-logo-wordmark.svg",
+  "logo": "https://www.toptal.com/favicon.ico",
   "background": "rgba(32,78,207,0.2)"
 }
 ```
@@ -544,6 +552,16 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 }
 ```
 
+```component VPCard
+{
+  "title": "어썸블로그",
+  "desc": "국내의 좋은 블로그 글들을 매일 배달해줍니다.",
+  "link": "https://awesome-blogs.petabytes.org/feeds?group=dev",
+  "logo": "https://awesome-blogs.petabytes.org/favicon.ico",
+  "background": "rgba(20,20,20,0.2)"
+}
+```
+
 @tab Documentations
 
 ```component VPCard
@@ -561,6 +579,16 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
   "title": "vuepress-plugin-md-enhance",
   "desc": "Enhancement for Markdown in VuePress",
   "link": "https://plugin-md-enhance.vuejs.press/",
+  "logo": "https://theme-hope-assets.vuejs.press/logo.svg",
+  "background": "rgb(62,175,124,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "VuePress Theme Hope",
+  "desc": "A VuePress theme with tons of features✨",
+  "link": "https://theme-hope.vuejs.press/",
   "logo": "https://theme-hope-assets.vuejs.press/logo.svg",
   "background": "rgb(62,175,124,0.2)"
 }

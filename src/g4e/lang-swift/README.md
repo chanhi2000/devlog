@@ -3,7 +3,7 @@ lang: ko-KR
 title: 🕊️Swift
 description: 🕊️Swift
 category: 
-  - 🕊️Swift
+  - Swift
 ---
 
 # {{ $frontmatter.description }} 관련

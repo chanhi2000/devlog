@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/7IP22BjAJ9JwfnWeXjfr9Ep5D087UD0lXDdehEUjcctUvZK7ezBZVl1fGZmNyc1P0qLmODKfcw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rP0lZ_T5P28", "title": "I loaded 100,000,000 rows into MySQL (fast)" },
+    { "id": "ggqI40wMDkE", "title": "Auto-generate MySQL schema diagrams with a custom Figma plugin" },
+    { "id": "2mq8aGRaL1o", "title": "Increase speed and durability with MySQL replication (2 easy ways)" },
+    { "id": "dJ_94Pz54Ts", "title": "Watch me 100x a SQL query (in 10 mins)" },
     { "id": "ZdLd5Ijlv1o", "title": "Working with time series data in MySQL" },
     { "id": "wTcpZWPHl6w", "title": "RAND is too slow (in MySQL)" },
     { "id": "NZqFiBDQG1s", "title": "Two new MySQL expressions" },

@@ -98,6 +98,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Draw Folder Structure (`jmkrivocapich.drawfolderstructure`)",
+  "desc": "Generate markdown representations of your folder and file structure",
+  "link": "https://marketplace.visualstudio.com/items?itemName=jmkrivocapich.drawfolderstructure",
+  "logo": "https://jmkrivocapich.gallerycdn.vsassets.io/extensions/jmkrivocapich/drawfolderstructure/1.2.2/1703633564435/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(239,241,243,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Elm Emmet (`necinc.elmmet`)",
   "desc": "Convert emmet abbreviations to composition of elm functions",
   "link": "https://marketplace.visualstudio.com/items?itemName=necinc.elmmet",
@@ -498,6 +508,7 @@ code --install-extension aaron-bond.better-comments; #Better Comments
 code --install-extension adpyke.codesnap; #CodeSnap
 code --install-extension pranaygp.vscode-css-peek; #CSS Peek
 code --install-extension dracula-theme.theme-dracula; #Dracula Official
+code --install-extension jmkrivocapich.drawfolderstructure; # Draw Folder Structure
 code --install-extension necinc.elmmet; #Elm Emmet
 code --install-extension dsznajder.es7-react-js-snippets; #ES7+ React/Redux/React-Native snippets
 code --install-extension vscjava.vscode-java-pack; #Extension Pack for Java
@@ -548,6 +559,7 @@ code --install-extension aaron-bond.better-comments && REM #Better Comments
 code --install-extension adpyke.codesnap && REM CodeSnap
 code --install-extension pranaygp.vscode-css-peek && REM CSS Peek
 code --install-extension dracula-theme.theme-dracula && REM Dracula Official
+code --install-extension jmkrivocapich.drawfolderstructure && REM Draw Folder Structure
 code --install-extension necinc.elmmet && REM Elm Emmet
 code --install-extension dsznajder.es7-react-js-snippets && REM ES7+ React/Redux/React-Native snippets
 code --install-extension vscjava.vscode-java-pack && REM Extension Pack for Java

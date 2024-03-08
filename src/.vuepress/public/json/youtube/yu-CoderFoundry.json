@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/IXUyAkeypJ530eATnw6J5T5GMZSuVb5mGUS3LQVSsvjHyqt6GGvup4mx18Ag8ZjFcz9SW-LF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HcVfL9o4LUw", "title": "Blazor JavaScript Interop (Easy How To)" },
+    { "id": "e9IFl7BP4HI", "title": "The Brutal Truth About The Web Development Job Market in 2024" },
+    { "id": "bvhZ653aUSM", "title": "Live coding The 100k Subs Giveaway With Blazor" },
     { "id": "6SaYkzxAULo", "title": ".NET 8 & Blazor: Server Side Magic!" },
     { "id": "eQkusddfDlE", "title": "Blazor: Easy Client-Side Form Validation" },
     { "id": "shNw2a-Ma5U", "title": "Coding Challenge: Clock Hands (Complete Blazor Web App Solution)" },

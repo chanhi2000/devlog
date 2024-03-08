@@ -48,6 +48,12 @@ tag:
 
 ---
 
+## Ben Kettle
+
+- [Autogenerating a Book Series From Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
+
+---
+
 ## Tool(s)
 
 - [Equation Editor for online mathematics](https://editor.codecogs.com)

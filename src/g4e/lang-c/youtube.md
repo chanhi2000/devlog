@@ -66,5 +66,6 @@ tag:
 <MyYouTubeItems jsonName="yu-GeekyScript" /><!-- Geeky Script -->
 <MyYouTubeItems jsonName="yu-eunwoossaem" /><!-- 은우쌤 -->
 <MyYouTubeItems jsonName="yu-jaeohlee5719" /><!-- Jaeoh Lee -->
+<MyYouTubeItems jsonName="yu-JacobSorber" /><!-- Jacob Sorber -->
 
 <TagLinks />

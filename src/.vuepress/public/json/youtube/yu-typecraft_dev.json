@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/s-78iN0gTGbiZLvCEJnfNPrwoi4jKaJ38-ClV6ngM0RgI3Y44mgDQfUB9HjwzZp--Mva7uWiOQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zOQMwWqdp9w", "title": "Neovim and Git: SOLVED" },
+    { "id": "ZDV4edcaXSY", "title": "The most beautiful terminal setup EVER -- Mac OS / Linux / Windows" },
+    { "id": "c9y7bKk-R7U", "title": "Next Level Neovim: Github Copilot, Session Management, and LSP-Zero !" },
+    { "id": "9Kl26O32-MI", "title": "Will this hurt or help Neovim?" },
     { "id": "oYzZxi3SSnM", "title": "How to configure Debuggers in Neovim | FREE COURSE // EP 6" },
     { "id": "TLNdwvIFoCg", "title": "I'm never using Git the same way again" },
     { "id": "4zyZ3sw_ulc", "title": "A BEAUTIFUL neovim config with Lazy | FREE COURSE // EP 2" },

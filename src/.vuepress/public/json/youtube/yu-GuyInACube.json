@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/3AfskTu89xkDj02bZK3Sp5aNcG9WMu4eiQ-pXKPni3o2lLmtaf4tRHyHeqEij0zhuFxYuvxVJA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lLfDJvvTDZs", "title": "Where in the world are Adam and Patrick?" },
+    { "id": "zvyr2qYCQNo", "title": "Use Source Control with your Power BI Report in Microsoft Fabric!" },
+    { "id": "2RuoHpNZbc4", "title": "Adding a column to your Lakehouse? Where is it in the Semantic Model???" },
+    { "id": "uBJw7_zvXEo", "title": "Why can't I edit my Power BI semantic model?" },
+    { "id": "SyRDll6OvX0", "title": "Creating your first EVENTSTREAM in Microsoft Fabric" },
+    { "id": "fgOlMbTfFd4", "title": "NO CODE extract ZIP files with Pipelines in Microsoft Fabric" },
+    { "id": "wNxVw_yLy0s", "title": "All Code!!! Extract ZIP files with Notebooks in Microsoft Fabric" },
+    { "id": "iC7BsYH9EKE", "title": "REPLAY Microsoft Fabric / Power BI Q&A - LIVE (Mar 2, 2024)" },
+    { "id": "U0_JPX0q4Es", "title": "Uncovering OneLake's Secrets with Delta Analyzer in Microsoft Fabric" },
+    { "id": "eDRgzEVwVEc", "title": "Getting started with Visual Calcs in Power BI" },
     { "id": "W1geyI4pCNo", "title": "What happens to the incremental data???" },
     { "id": "sINPHVa0Kds", "title": "REPLAY Let's talk Microsoft Fabric - LIVE w/ Matthew Roche (Jan 13, 2024)" },
     { "id": "Cg6zRhwF-Ro", "title": "Can you use Field Parameters with Direct Lake in Power BI?" },

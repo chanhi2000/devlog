@@ -2348,5 +2348,10 @@
     "desc": "Detect when your installed Chrome extensions have changed owners.",
     "officialSite": "",
     "topics": ["extensions", "extensions-chrome", "javascript"]
+  }, {
+    "repo": "flydelabs/flyde",
+    "desc": "⚡️⚡️⚡️ Open-source, visual programming for developers. Includes VS Code extension, integrates with existing TypeScript code, browser and Node.js.",
+    "officialSite": "http://www.flyde.dev/",
+    "topics": ["flow-based", "flow-based-programming", "reactive-programming", "visual", "visual-programming", "visual-programming-editor", "visual-studio-code", "vscode"]
   }
 ]

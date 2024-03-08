@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/dwT77K2YhX-UaBKr_ESuCYnVYRnKyhS8NfPzTMJW-36FCRSfZybIALahrfsVvBFiSNIPzJ4kKw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KGt_PYvrbjw", "title": "Making cloud native work for your org" },
+    { "id": "Pn8Ji9xeIRI", "title": "Think faster, talk smarter: Matt Abrahams in conversation" },
+    { "id": "fvGm1nJ8blA", "title": "A guide to creating a great code documentation culture" },
+    { "id": "TQUzV4JubB0", "title": "How to communicate effectively as an IC" },
     { "id": "c5YhGDk0BFw", "title": "Practically engaging with AI" },
     { "id": "xo_f9O8bMNw", "title": "Avoiding the priority zero trap | LeadDev Broadcasts" },
     { "id": "o9sqIOqrzXs", "title": "Why being laid off can help you be a better manager" }, 

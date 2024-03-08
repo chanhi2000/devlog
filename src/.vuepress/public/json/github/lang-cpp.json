@@ -1153,5 +1153,15 @@
     "desc": "Cemu - Wii U emulator",
     "officialSite": "https://cemu.info",
     "topics": ["cemu", "cemu-emulator", "cpp", "emulation", "emulator", "nintendo", "wiiu"]
+  }, {
+    "repo": "Crimson-Hawk/suyu",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ProjectDreamland/area51",
+    "desc": "Source code for Area 51 (2005) ",
+    "officialSite": "",
+    "topics": ["game-development", "game-engine", "gamedev", "ps2", "xbox"]
   }
 ]

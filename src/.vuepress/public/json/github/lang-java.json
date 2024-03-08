@@ -594,5 +594,10 @@
     "desc": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
     "officialSite": "https://testcontainers.org",
     "topics": ["docker", "docker-compose", "hacktoberfest", "java", "junit", "jvm", "test-automation", "testing"]
+  }, {
+    "repo": "langchain4j/langchain4j",
+    "desc": "Java version of LangChain",
+    "officialSite": "https://docs.langchain4j.dev",
+    "topics": ["azure-openai", "chatgpt", "chroma", "embeddings", "gemini", "gpt", "huggingface", "java", "langchain", "langchain-java", "llama", "llama2", "localai", "milvus", "ollama", "onnx", "openai", "pinecone", "vector-database", "weaviate"]
   }
 ]

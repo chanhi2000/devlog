@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "koreankoder",
+    "name": "KoreanKoder",
+    "profile": "https://yt3.googleusercontent.com/jlO0hD_iBfrd7134XGZ26JG8aifK_F8tBxsfklqwRSa0mRBoS9KleXTDSenKtwZdbx42-Pwq=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Q2uuG7iUw4Y", "title": "git 브랜치 이해하기, 머지 merge, 커밋 commit 한번에 이해하기" }
+  ]
+}

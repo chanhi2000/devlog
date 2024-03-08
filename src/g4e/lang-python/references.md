@@ -349,4 +349,10 @@ description: 🐍Python > 📚References
 
 ---
 
+## Stealth Rocket
+
+- [Genesis of a new programming model](https://stealthrocket.tech/blog/genesis-of-a-new-programming-model/)
+
+---
+
 <TagLinks />

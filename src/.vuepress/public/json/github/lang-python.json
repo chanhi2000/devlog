@@ -4384,5 +4384,15 @@
     "desc": "A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",
     "officialSite": "https://catboost.ai",
     "topics": ["big-data", "catboost", "categorical-features", "coreml", "cuda", "data-mining", "data-science", "decision-trees", "gbdt", "gbm", "gpu", "gpu-computing", "gradient-boosting", "kaggle", "machine-learning", "python", "r", "tutorial"]
+  }, {
+    "repo": "VAST-AI-Research/TripoSR",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hpcaitech/Open-Sora",
+    "desc": "Building your own video generation model like OpenAI's Sora",
+    "officialSite": "",
+    "topics": []
   }
 ]

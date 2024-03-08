@@ -799,5 +799,10 @@
     "desc": "Renew and Refill Bob Cassettes for 98% Cost Saving!",
     "officialSite": "",
     "topics": ["bob-cassettes", "bob-rewinder", "daan-tech", "dishwasher-detergents"]
+  }, {
+    "repo": "fvwmorg/fvwm3",
+    "desc": "FVWM version 3 -- the successor to fvwm2",
+    "officialSite": "",
+    "topics": ["fvwm", "fvwm3", "window-manager", "x11-wm"]
   }
 ]

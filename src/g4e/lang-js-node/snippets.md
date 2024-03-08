@@ -49,7 +49,7 @@ async function deleteWatchLater() {
   // Fiddle with these if you'd like
   let batchSize = 200; // Number to delete at once before waiting
   let waitBetweenBatchesInMilliseconds = 1000 * 60 * 5; // 5 minutes
-  let waitBetweenDeletionsInMilliseconds = 500; // Half a second
+  let waitBetweenDeletionsInMilliseconds = 1000; // Half a second
 
   let totalWaitTime = ((5000 / batchSize) * (waitBetweenBatchesInMilliseconds / 1000 / 60)) + (5000 * (waitBetweenDeletionsInMilliseconds / 1000 / 60))
   console.log(`Deletion will take around ${totalWaitTime.toFixed(0)} minutes to run if the playlist is full.`);
