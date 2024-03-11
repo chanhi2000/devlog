@@ -4394,5 +4394,55 @@
     "desc": "Building your own video generation model like OpenAI's Sora",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "OpenAccess-AI-Collective/axolotl",
+    "desc": "Go ahead and axolotl questions",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Vahe1994/AQLM",
+    "desc": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hatchet-dev/hatchet",
+    "desc": "A distributed, fault-tolerant task queue",
+    "officialSite": "https://hatchet.run",
+    "topics": ["concurrency", "dag", "distributed", "distributed-systems", "durable-execution", "event-driven", "fastapi", "golang", "nodejs", "python", "queue", "typescript", "workflow-engine"]
+  }, {
+    "repo": "KhoomeiK/LlamaGym",
+    "desc": "Fine-tune LLM agents with online reinforcement learning",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "google/maxtext",
+    "desc": "A simple, performant and scalable Jax LLM!",
+    "officialSite": "",
+    "topics": ["gpt", "large-language-models", "llm"]
+  }, {
+    "repo": "jxmorris12/bm25_pt",
+    "desc": "minimal pytorch implementation of bm25 (with sparse tensors)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "run-llama/llama_index",
+    "desc": "LlamaIndex is a data framework for your LLM applications",
+    "officialSite": "https://docs.llamaindex.ai",
+    "topics": ["agents", "application", "data", "fine-tuning", "framework", "llamaindex", "llm", "rag", "vector-database"]
+  }, {
+    "repo": "h2oai/enterprise-h2ogpte",
+    "desc": "Client Code Examples, Use Cases and Benchmarks for Enterprise h2oGPTe RAG-Based GenAI Platform",
+    "officialSite": "https://h2o.ai/platform/enterprise-h2ogpt/",
+    "topics": ["benchmark", "genai", "llm", "python", "rag"]
+  }, {
+    "repo": "fluencelabs/dev-rewards",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "python/cpython",
+    "desc": "The Python programming language",
+    "officialSite": "https://www.python.org/",
+    "topics": []
   }
 ]

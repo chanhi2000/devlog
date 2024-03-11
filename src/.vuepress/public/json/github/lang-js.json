@@ -2059,5 +2059,15 @@
     "desc": "Google Chrome and Firefox extension that prevents the blocking of pasting into input fields",
     "officialSite": "https://addons.mozilla.org/en-US/firefox/addon/don-t-fuck-with-paste/",
     "topics": ["chrome", "chrome-extension", "copy", "firefox", "firefox-addon", "paste"]
+  }, {
+    "repo": "plankanban/planka",
+    "desc": "The realtime kanban board for workgroups built with React and Redux.",
+    "officialSite": "https://planka.app",
+    "topics": ["agile", "collaboration", "docker", "javascript", "kanban", "react", "redux", "trello"]
+  }, {
+    "repo": "obsidianmd/jsoncanvas",
+    "desc": "An open file format for infinite canvas data.",
+    "officialSite": "https://jsoncanvas.org",
+    "topics": []
   }
 ]

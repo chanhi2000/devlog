@@ -81,7 +81,6 @@ description: 🧶Node.js > 📺Youtube
 <MyYouTubeItems jsonName="yu-jeffrey_codes" /><!-- Jeffrey Codes Javascript -->
 <MyYouTubeItems jsonName="yu-DesignCourse" /><!-- DesignCourse -->
 <MyYouTubeItems jsonName="yu-AniaKubow" /><!-- Code with Ania Kubów -->
-<MyYouTubeItems jsonName="yu-PedroTechnologies" /><!-- PedroTech -->
 <MyYouTubeItems jsonName="yu-CodeBucks" /><!-- CodeBucks -->
 <MyYouTubeItems jsonName="yu-Huntabyte" /><!-- Huntabyte -->
 <MyYouTubeItems jsonName="yu-aaeideapro1192" /><!-- AAE IdeaPro -->

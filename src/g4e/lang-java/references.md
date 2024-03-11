@@ -106,6 +106,14 @@ tag:
 
 - [SpringBoot에 JDBC로 Postgresql 연동하기](https://velog.io/@jwpark06/SpringBoot%EC%97%90-JDBC%EB%A1%9C-Postgresql-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 
+#### `@qkrtkdwns3410`
+
+- [[자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
+
+#### `@dradnats1012`
+
+- [DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
+
 ### Douglas Schmidt
 
 - [CS *254: Concurrent Object-Oriented Programming in Java and Android](http://www.dre.vanderbilt.edu/~schmidt/cs891s/)
@@ -242,8 +250,11 @@ tag:
 
 - [JPA, Not Null 처리하는 방법 - Default 적용](https://mollangpiu.tistory.com/376)
 
----
+### devkuma
 
+- [Kotest 자원 (Resources)](https://www.devkuma.com/docs/kotest/framework/resources/)
+
+---
 
 
 <TagLinks />

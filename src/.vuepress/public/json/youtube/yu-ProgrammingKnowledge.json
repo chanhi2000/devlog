@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/P_2SlvEHY8VylI_j63FgIBK8EKvJryQ-08B9FQptF_SI09S6JKuVmV7MpeXlkxh9WNmsprO8_A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7nYbzxoVRdg", "title": "How To Install Qt Creator on Mac / MacOS (2024)" },
+    { "id": "vDopK_Z6FwI", "title": "Learn C Files I/O: Create, Open, Read, Write and Close a File" },
+    { "id": "SjQmo5tJB4c", "title": "Linux Command Line Full Course | Beginners To Experts | Bash Command Line Tutorials" },
+    { "id": "NLbF1j0rNoI", "title": "How To Install Jenkins on Mac / MacOS (2024)" },
+    { "id": "mSQM8Xo78Wc", "title": "Bash Scripting Tutorial for Beginners | Bash Scripting Full Course 3 Hours" },
+    { "id": "zZC3mXzmHO0", "title": "Kubernetes Tutorial for Beginners | Kubernetes Course 1.5 Hours" },
+    { "id": "CCENlDeGvv8", "title": "How to Install XAMPP on Mac | Install XAMPP on MacOS (2024)" },
     { "id": "8gUQL2zlpvI", "title": "How to Install MongoDB on Mac | Install MongoDB on macOS (2024)" },
     { "id": "hWCvMO_0SAE", "title": "FIX: “CodeBlocks” needs to be updated Error in Mac |  Solve issues running Code::blocks on my MacOS" },
     { "id": "_Kz1hHT3pq4", "title": "How to Install VirtualBox on Mac (M1 | M2 | M3 | Apple Silicon)  [2024]" },

@@ -732,6 +732,15 @@ export const sidebarEn = sidebar({
         '/projects/lifeguide/travel/china.md',
         '/projects/lifeguide/travel/references.md',
       ]
+    }, {
+      text: '🍽Cook',
+      collapsible: true,
+      children: [
+        '/projects/cook/README.md',
+        '/projects/cook/youtube.md',
+        '/projects/cook/references.md',
+
+      ]
     }
   ],
   '/explore/': [

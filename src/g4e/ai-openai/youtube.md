@@ -123,5 +123,7 @@ tag:
 <MyYouTubeItems jsonName="yu-ExplainingComputers" /><!-- ExplainingComputers -->
 <MyYouTubeItems jsonName="yu-easyaitech" /><!-- AI 파트너스 -->
 <MyYouTubeItems jsonName="yu-kooky0ai" /><!-- 기묘한 자동화 -->
+<MyYouTubeItems jsonName="yu-Buff_TV" /><!-- 버프TV -->
+<MyYouTubeItems jsonName="yu-TwoMinutePapers" /><!-- Two Minute Papers -->
 
 <TagLinks />

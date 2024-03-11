@@ -169,4 +169,17 @@ tag:
 
 ---
 
+## Microsoft MVP 프로그래머 김성엽
+
+- [[Q&A] CRect 클래스의 IsRectEmpty 함수와 IsRectNull 함수는 어떤 차이가 있나요?](https://blog.naver.com/tipsware/223378336569)
+
+---
+
+## 이모저모 개발 블로그
+
+- [[WPF] `ListView`와 `SelectedItem`](https://hj0216.tistory.com/901)
+- [[WPF] `ListView`와 `ItemsSource`](https://hj0216.tistory.com/900)
+
+---
+
 <TagLinks />

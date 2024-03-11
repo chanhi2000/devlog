@@ -64,5 +64,6 @@ head:
 <MyYouTubeItems jsonName="yu-airklassofficial" /><!-- 에어클래스 -->
 <MyYouTubeItems jsonName="yu-tech-soft" /><!-- Tech Soft -->
 <MyYouTubeItems jsonName="yu-sergey_tech" /><!-- Sergey Tech -->
+<MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
 
 <TagLinks />

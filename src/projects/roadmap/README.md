@@ -29,27 +29,27 @@ title 2023년 목표 정의
 excludes weekdays 2023-01-10
 
 section A 2022년 자료준비
-북마크 기록                    :done,          desA1, 2022-12-07, 2022-12-09
-github profile 변경           :done,         desA2, 2022-12-08, 2022-12-09
+북마크 기록                       :done,          desA1, 2022-12-07, 2022-12-09
+github profile 변경              :done,         desA2, 2022-12-08, 2022-12-09
 22년안에 처리해야 할 기타 작업      :done,         desA3, 2022-12-14, 2022-12-31
 
 section B Career Developing
-
-Linkedin 프로필 갱신                 :         descB1, 2023-10-30, 1w
-JobKorea 프로필 갱신                 :         descB2, 2023-10-30, 1w
-Wanted 프로필 갱신                 :         descB3, 2023-10-30, 1w
+Linkedin 프로필 갱신              :         descB1, 2023-10-30, 1w
+JobKorea 프로필 갱신              :         descB2, 2023-10-30, 1w
+Wanted 프로필 갱신                :         descB3, 2023-10-30, 1w
 사람인 프로필 갱신                 :         descB4, 2023-11-03, 1w
 
 section C 노트정리
-cli-text-processing-w-gnu-awk 정리 :active    desC1, 2023-09-20, 10w
-swift-100-days-of-swift 정리 :active    desC2, 2023-09-20, 30w
-swift-100-days-of-swiftui 정리 :active  desC3, 2023-09-20, 30w
-paul-hudson-swiftui-by-example 정리 :active   desC4, 2023-09-20, 30w
-pwsh-script 정리                    :done     desC5, 2023-09-20, 4w
+cli-text-processing-w-gnu-awk 정리  :done,     desC1, 2023-09-20, 10w
+swift-100-days-of-swift 정리        :done,     desC2, 2023-09-20, 30w
+swift-100-days-of-swiftui 정리      :active,   desC3, 2023-09-20, 30w
+paul-hudson-swiftui-by-example 정리 :active,   desC4, 2023-09-20, 30w
+pwsh-script 정리                    :done,     desC5, 2023-09-20, 4w
 devops-ovirt 정리                   :         desC6, 2023-09-20, 20w
+
 section Z 기타
 피부양자 등록                         :        desZ1, 2023-09-20, 3w
-P.A.R.A 구조로 프로젝트 트리 변경        :        desZ2, 2023-09-30, 1w
+P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1w
 ```
 
 

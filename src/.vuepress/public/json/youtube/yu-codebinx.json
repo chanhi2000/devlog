@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "codebinx",
+    "name": "CodebinX",
+    "profile": "https://yt3.googleusercontent.com/bTNBPnIj6Ww8odB2x0aRbPun8AZCuuuxiG-CIg6zQ1yuLfL34TeRx-jAr5ly87GgiS4DFuEMPA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1_DMoW6eHgHOHE9S7WnGMvMrvb0cCpyCinowLTjIcrtoGhbnGwETDUmNgLDlYt4vIRIl0uOC=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3CegNp6Ulqc", "title": ".NET 6 & 7 web development| Asp.net MVC| Asp.net core| Asp.net 7 web development| CodeBinX| Tamil" }
+  ]
+}

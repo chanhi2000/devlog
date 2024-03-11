@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/aNRT3yJ9pLkOcAW8PDgnNdJ5akaT0Gry16KdG07TY-kTxl6sm7S9t-Qh9a2bUvrdC2MtC3o21OM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Gg0CghYbS80", "title": "Your FullStack App is NOT Safe, Here is How To Fix It" },
+    { "id": "QbSXXXEGA70", "title": "The Best React Helper Tool - React Dev Tools Tutorial" },
+    { "id": "w1RR68hNNOE", "title": "REACT 19 IS COMING - Here's Whats Changing!" },
+    { "id": "NOvx4LB6Hfk", "title": "React Query in 40 Minutes - Everything You Need to Know About Tanstack React Query" },
+    { "id": "OgQWJ7_9qy0", "title": "6 React Concepts That Will be Obsolete in 2024" },
     { "id": "miUsa5SOXGk", "title": "React Movie Rating App - Code and Deploy React Intermediate Project" },
     { "id": "UolaGb7tR38", "title": "These 5 VsCode Extensions Will Skyrocket Your React Productivity" },
     { "id": "Yokjzp91A4o", "title": "Redux and NextJS 13 Tutorial | Redux Toolkit Tutorial With Next 13" },

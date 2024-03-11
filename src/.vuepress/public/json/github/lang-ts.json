@@ -1840,7 +1840,7 @@
     "topics": ["hacktoberfest", "nextjs", "prisma", "react", "typescript"]
   }, {
     "repo": "QuivrHQ/quivr",
-    "desc": "Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+    "desc": "Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
     "officialSite": "https://quivr.app",
     "topics": ["ai", "api", "chatbot", "chatgpt", "database", "docker", "frontend", "html", "javascript", "llm", "openai", "postgresql", "privacy", "rag", "react", "rest-api", "security", "typescript", "vector", "ycombinator"]
   }, {
@@ -2353,5 +2353,50 @@
     "desc": "⚡️⚡️⚡️ Open-source, visual programming for developers. Includes VS Code extension, integrates with existing TypeScript code, browser and Node.js.",
     "officialSite": "http://www.flyde.dev/",
     "topics": ["flow-based", "flow-based-programming", "reactive-programming", "visual", "visual-programming", "visual-programming-editor", "visual-studio-code", "vscode"]
+  }, {
+    "repo": "cuixueshe/earthworm",
+    "desc": "Learning English through the method of constructing sentences with conjunctions",
+    "officialSite": "https://earthworm.cuixueshe.com",
+    "topics": []
+  }, {
+    "repo": "Deeptrain-Community/chatnio",
+    "desc": "🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google Gemini (PaLM2)，Moonshot，LocalAI 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费 / 订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+    "officialSite": "https://chatnio.net",
+    "topics": ["ai-chat", "chatgpt", "golang", "react", "stream", "typescript", "web", "web-chatgpt", "websocket"]
+  }, {
+    "repo": "ixartz/Next-js-Boilerplate",
+    "desc": "🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Cypress + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS",
+    "officialSite": "https://nextjs-boilerplate.com",
+    "topics": ["boilerplate", "boilerplate-code", "jamstack", "javascript", "js-boilerplate", "netlify-template", "next-js", "next-theme", "nextjs", "nextjs-starter", "nextjs-template", "react", "react-boilerplate", "reactjs", "starter-kit", "starter-project", "starter-template", "tailwind-css", "tailwindcss", "typescript"]
+  }, {
+    "repo": "sugarforever/chat-ollama",
+    "desc": "",
+    "officialSite": "https://chat-ollama-beta.vercel.app",
+    "topics": []
+  }, {
+    "repo": "dahlia/fedify",
+    "desc": "A fediverse server framework in Deno",
+    "officialSite": "https://fedify.dev/",
+    "topics": ["activitypub", "deno", "fediverse", "typescript"]
+  }, {
+    "repo": "mendableai/rag-arena",
+    "desc": "RAG Arena is an open-source Next.js project made by Mendable.ai that interfaces with LangChain to provide a RAG chatbot experience where queries receive multiple responses. Users vote on these responses, which are then unblurred to reveal the Retriever used, differentiating the chatbots by their data retrieval methods.",
+    "officialSite": "https://ragarena.com",
+    "topics": ["ai", "chatbot", "langchain", "langchain-typescript", "mendable", "nextjs", "rag", "retrieval"]
+  }, {
+    "repo": "teableio/teable",
+    "desc": "✨ A Super fast, Real-time, Professional, Developer friendly, No code database",
+    "officialSite": "https://teable.io",
+    "topics": ["airtable", "airtable-alternative", "database", "low-code", "no-code", "nocode", "postgres", "postgresql", "realtime", "spreadsheet", "sqlite"]
+  }, {
+    "repo": "cuixueshe/earthworm",
+    "desc": "Learning English through the method of constructing sentences with conjunctions",
+    "officialSite": "https://earthworm.cuixueshe.com",
+    "topics": []
+  }, {
+    "repo": "OnedocLabs/react-print-pdf",
+    "desc": "Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.",
+    "officialSite": "https://react.onedoclabs.com/",
+    "topics": ["document", "documents", "front-end", "html", "javascript", "layout", "open-source", "opensource", "pdf", "pdf-generator", "pdf-library", "pdf-manipulation", "pdf-reader", "pdf-reports", "print", "react", "react-print", "ui", "ui-kit", "ycombinator"]
   }
 ]

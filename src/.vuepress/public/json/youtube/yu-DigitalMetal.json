@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/B6XcrOa6Sb77IXUqaEeWeqN_Sowsz9Wq_fTtDobNFIoOqdhbVftBk1wA5Xf4-tfuu5aIs_an=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WI11Urbq-14", "title": "Level Bar Output in BASH" },
+    { "id": "mqpG2ktLUWM", "title": "Sending Files to Trash" },
+    { "id": "6OvoeViivBo", "title": "Edit Compressed Archives without Extracting" },
+    { "id": "Y7rcnZ36CuI", "title": "Quick Open Last File with VIM" },
+    { "id": "kdJyINJZM7A", "title": "RetroArch on Android Quick Setup" },
+    { "id": "JuUaQIT0vgk", "title": "Ad Blocking is Nothing New" },
+    { "id": "Q3n--WBE7Bw", "title": "Get Android Contact List with ADB" },
+    { "id": "K2SAsQjVVy4", "title": "How Do I Root My Phone" },
+    { "id": "Ss3Qvt2aOgg", "title": "Convert Images to Text" },
     { "id": "vYFT3zyUVAg", "title": "Continuous dmesg output" },
     { "id": "EXvMJMOOmB8", "title": "Horizontal Lines in your BASH Shell Script" },
     { "id": "ztZd2iPGTKQ", "title": "Converting Office Documents to Text" },

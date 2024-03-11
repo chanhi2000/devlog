@@ -64,6 +64,11 @@
     "desc": ":cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "spring-office-hours/resources-learning-spring",
+    "desc": "Resources for Learning Spring",
+    "officialSite": "",
+    "topics": []
   }
 ]
 

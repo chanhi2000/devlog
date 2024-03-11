@@ -271,5 +271,11 @@ tag:
 
 ---
 
+## Steady Study
+
+- [[뉴스레터 요약 버전] AI 시대의 협업 전략: 3자간 협업을 통한 대용량 JS 파일 리팩토링 경험](https://www.stdy.blog/news-large-js-file-refactoring-with-three-way-collaboration-kr/)
+
+---
+
 <TagLinks />
 

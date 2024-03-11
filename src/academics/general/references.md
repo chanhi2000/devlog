@@ -199,4 +199,16 @@ tag:
 
 ---
 
+## Extropic
+
+- [Ushering in the Thermodynamic Future](https://www.extropic.ai/future)
+
+---
+
+## Jed Margolin
+
+- [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
+
+---
+
 <TagLinks />

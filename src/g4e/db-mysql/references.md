@@ -77,4 +77,10 @@ tag:
 
 ---
 
+## Simple is best
+
+- [[시스템디자인 3편] 메시지큐에 이벤트가 대량으로 생성된 경우](https://insanelysimple.tistory.com/481)
+
+---
+
 <TagLinks />

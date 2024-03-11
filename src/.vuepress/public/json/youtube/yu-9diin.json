@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/WVJZAjZwxJ-225NMqrz8FBuZaDZPOa0jYbF_HXVTcC9SKykGdAVgP1uCOKCL01xELI5uifT3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tPr0fslSEhY", "title": "[New 2024] Vue3 Tutorial - 이벤트핸들링" },
+    { "id": "-2q8qOPWgxc", "title": "[New 2024] Vue3 Tutorial - Computed" },
+    { "id": "UeUWJ5fYTyc", "title": "[New 2024] Vue3 Tutorial - Watch" },
+    { "id": "XLsWRaQvcFM", "title": "[New 2024] Vue3 Tutorial - OptionsAPI Props VS CompositionAPI Props" },
+    { "id": "gP8Mfjojc7o", "title": "[New 2024] Vue3 Tutorial - OptionsAPI Emits VS CompositionAPI Emits" },
     { "id": "tO-2-84uKUQ", "title": "[New 2024] Vue3 Tutorial - 조건부 렌더링 v-if / v-else-if / v-else" },
     { "id": "YoV7ZWu1sk8", "title": "[New 2024] Vue3 Tutorial - 조건부 렌더링 v-show" },
     { "id": "2klGTn5m2yI", "title": "[New 2024] Vue3 Tutorial - 리스트 렌더링 v-for" },

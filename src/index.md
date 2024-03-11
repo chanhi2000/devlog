@@ -469,6 +469,16 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 }
 ```
 
+```component VPCard
+{
+  "title": "Timelock Encryption",
+  "desc": "Send secrets into the future...",
+  "link": "https://timelock.dev/",
+  "logo": "https://timelock.dev/favicon.ico",
+  "background": "rgba(33,37,41,0.2)"
+}
+```
+
 @tab Curated
 
 ```component VPCard
@@ -554,11 +564,61 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 
 ```component VPCard
 {
+  "title": "Gumroad: Solomon Eseme",
+  "desc": "Lead Backend Engineer | Founder of MasteringBackend.com | I help you become a great backend engineer.",
+  "link": "https://solomoneseme.gumroad.com/",
+  "logo": "https://solomoneseme.gumroad.com/favicon.ico",
+  "background": "rgba(36,36,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Gumroad: 삶의 여정을 즐기세요",
+  "desc": "Internet of Things Product Development, Maker Project Development Teaching, Software Training, Arduino Training, Raspberry Pi Training",
+  "link": "https://kimbongzo.gumroad.com/",
+  "logo": "https://kimbongzo.gumroad.com/favicon.ico",
+  "background": "rgba(36,36,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Rodrigo 🐍🚀",
+  "desc": "Gumroad: Taking your Python 🐍 skills to the next level! 🚀",
+  "link": "https://mathspp.gumroad.com/",
+  "logo": "https://mathspp.gumroad.com/favicon.ico",
+  "background": "rgba(36,36,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "thoughtbot",
+  "desc": "Gumroad: We are thoughtbot. We build great products.",
+  "link": "https://thoughtbot.gumroad.com/",
+  "logo": "https://thoughtbot.gumroad.com/favicon.ico",
+  "background": "rgba(36,36,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "어썸블로그",
   "desc": "국내의 좋은 블로그 글들을 매일 배달해줍니다.",
   "link": "https://awesome-blogs.petabytes.org/feeds?group=dev",
   "logo": "https://awesome-blogs.petabytes.org/favicon.ico",
   "background": "rgba(20,20,20,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "DDS",
+  "desc": "Dead Simple Sites: The most minimal sites on the web, curated in one place.",
+  "link": "https://deadsimplesites.com/",
+  "logo": "https://deadsimplesites.com/favicon.ico",
+  "background": "rgab(5,5,5,0.2)"
 }
 ```
 

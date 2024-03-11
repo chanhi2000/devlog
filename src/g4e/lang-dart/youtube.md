@@ -51,5 +51,6 @@ tag:
 <MyYouTubeItems jsonName="yu-CodingwithT" /><!-- Coding With Tea -->
 <MyYouTubeItems jsonName="yu-DavidSerranoIO" /><!-- David Serrano -->
 <MyYouTubeItems jsonName="yu-airklassofficial" /><!-- 에어클래스 -->
+<MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
 
 <TagLinks />

@@ -133,4 +133,10 @@ tag:
 
 ---
 
+## Taras Kloba
+
+- [How to use PostgreSQL for (military) geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
+
+---
+
 <TagLinks />

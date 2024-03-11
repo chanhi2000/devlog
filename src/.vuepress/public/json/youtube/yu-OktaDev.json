@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/K0_q3Z6zbDODlhZ2wab2PnH-szBepybsASSPUV7boJ6O0iuzZeAKDh0e9uPziXiOyiYrVLLphA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9ubpQ_VW158", "title": "Setting up the Auth0 Next.js SDK with App Router Support" },
+    { "id": "cEhc6vMFTh4", "title": "An Illustrated Guide to Passkeys" },
+    { "id": "XDl-nz47hlE", "title": "Troubleshooting \"Your account has been blocked...\" Error -- Auth0 Community Response Series" },
+    { "id": "qfouGlOK45c", "title": "Beyond AuthN: Extend Auth0 with Actions" },
     { "id": "m-lhymNdPBc", "title": "Java Microservices with Spring Boot and Spring Cloud" },
     { "id": "M-rqcjGAHuY", "title": "How to Request an MFA Reset - Auth0 Community Response Series" },
     { "id": "EpK6h1eQUWE", "title": "How does machine to machine authorization work? And, how to use it (M2M)" },

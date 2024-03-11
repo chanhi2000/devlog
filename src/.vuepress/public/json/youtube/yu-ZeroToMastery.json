@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/3p_sYqOn1h370EeUndzHt0DqC5tOQwRCHi0njtoczqRXkHIwiFpsI115bR3AXGTgR2b-6JgAKQE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iIF90HqoB9U", "title": "The 5 Soft Skills You Need To Get Hired (Or Promoted) in 2024" },
+    { "id": "-01BzZf0Tg8", "title": "Build 5 Javascript Projects (HTML5 + CCS3 + Vanilla JS) | Javascript Crash Course" },
+    { "id": "-ABTmThphYo", "title": "Stop Waiting To Feel Motivated... Do This Instead!" },
     { "id": "S5uF11PGeXQ", "title": "Python in Excel? Is this the real deal 🤯?" },
     { "id": "Bo6znDWGMac", "title": "Web Development News in 60 Seconds [July 2023 Edition]" },
     { "id": "S65k7Tubbck", "title": "Golang 101 Crash Course: Learn Go Programming Fundamentals!" },

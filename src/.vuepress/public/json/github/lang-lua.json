@@ -134,5 +134,10 @@
     "desc": "Open source clone of Theme Hospital",
     "officialSite": "",
     "topics": ["game", "opensource", "remake", "strategy-game", "theme-hospital"]
+  }, {
+    "repo": "gingerbeardman/mandala",
+    "desc": "A little playground for testing pixel logic patterns.",
+    "officialSite": "",
+    "topics": ["logic", "mandala", "mandala-art", "pixels"]
   }
 ]

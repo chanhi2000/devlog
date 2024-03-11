@@ -104,6 +104,20 @@
     "desc": "📺 Discover the latest machine learning / AI courses on YouTube.",
     "officialSite": "",
     "topics": ["ai", "data-science", "deep-learning", "machine-learning", "natural-language-processing", "nlp"]
+  }, {
+    "repo": "anthropics/anthropic-cookbook",
+    "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "AnswerDotAI/fsdp_qlora",
+    "desc": "Training LLMs with QLoRA + FSDP",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "NielsRogge/Transformers-Tutorials",
+    "desc": "This repository contains demos I made with the Transformers library by HuggingFace.",
+    "officialSite": "",
+    "topics": ["bert", "gpt-2", "layoutlm", "pytorch", "transformers", "vision-transformer"]
   }
 ]
-

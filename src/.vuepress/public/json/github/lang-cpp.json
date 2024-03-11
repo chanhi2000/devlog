@@ -173,7 +173,7 @@
     "repo": "electron/electron",
     "desc": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
     "officialSite": "https://electronjs.org",
-    "topics": ["electron", "nodejs", "javascript", "css", "html", "c-plus-plus", "chrome", "v8", "works-with-codespaces"]
+    "topics": ["c-plus-plus", "chrome", "css", "electron", "html", "javascript", "nodejs", "v8", "works-with-codespaces"]
   }, {
     "repo": "pineappleEA/pineapple-src",
     "desc": "A former citrus fruit-named emulator's Early Access source code",
@@ -1163,5 +1163,15 @@
     "desc": "Source code for Area 51 (2005) ",
     "officialSite": "",
     "topics": ["game-development", "game-engine", "gamedev", "ps2", "xbox"]
+  }, {
+    "repo": "lightvector/KataGo",
+    "desc": "GTP engine and self-play learning in Go",
+    "officialSite": "https://katagotraining.org/",
+    "topics": []
+  }, {
+    "repo": "NatronGitHub/Natron",
+    "desc": "Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
+    "officialSite": "http://NatronGitHub.github.io",
+    "topics": []
   }
 ]

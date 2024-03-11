@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/wF_e4Wc-g1eMhPS1vWje3oXdp7TMrcfKLwwXIkxawBYedXo957xFNQD0auWQkcOE621cTHse-us=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dZWDRxN-Ng4", "title": "Virtual threads in action!" },
+    { "id": "hjGVJHOLSjA", "title": "Tips For Reading Code" },
+    { "id": "p6pUdHN3eT4", "title": "Building and Testing Apps With Micronaut & Testcontainers in IntelliJ IDEA" },
+    { "id": "h6fZeocZHlI", "title": "Qodana Code Analysis: From the IDE to Quality Gates" },
+    { "id": "ZD_YxTmQ16Q", "title": "IntelliJ IDEA Conf 2024. Day 1" },
+    { "id": "dJstULvEFJ4", "title": "IntelliJ IDEA Conf 2024. Day 2" },
     { "id": "Ewb5nYRVlTA", "title": "The State of IntelliJ Scala Plugin" },
     { "id": "eLKsm0OpwN8", "title": "Enhance Code Safety: Unveiling IntelliJ IDEA’s New Exploitable Path Feature" },
     { "id": "1uAU6XyJfcU", "title": "IntelliJ IDEA 2023.3 – Out of the box Kubernetes Development" },

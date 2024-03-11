@@ -22,6 +22,9 @@ export const navbarEn = navbar([
       }, {
         text: '🧭Lifeguide',
         link: '/projects/lifeguide/README.md'
+      }, {
+        text: '🍽Cook',
+        link: '/projects/cook/README.md'
       }
     ],
   }, {

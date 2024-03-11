@@ -86,4 +86,10 @@ tag:
 
 ---
 
+## Cal Paterson
+
+- [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
+
+---
+
 <TagLinks />

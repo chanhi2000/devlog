@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/kOU7SXN7IIUUwK2GIjosSbzCUBbV4mT3vKDdVlwWG5eEerc98KAl90DxV5RbmnnLjxc0IVRj=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UBgam9XUHs0", "title": "Exploring Verse, Haskell, Language Design and Teaching (with Simon Peyton Jones)" },
+    { "id": "pZV9FvdKmLc", "title": "Implementing Hardware-Friendly Databases (with DuckDB co-creator, Hannes Mühleisen)" },
+    { "id": "GWt7VXm5tKM", "title": "How do refactoring tools work? (with Jonathan Schneider)" },
+    { "id": "7JpJg72mbqA", "title": "Bridging the Gap Between Languages (with Martin Johansen)" },
+    { "id": "wHJZ0icwSkc", "title": "Automate Your Way to Better Code: Advanced Property Testing (with Oskar Wickström)" },
+    { "id": "Q9t8oxD5Bs8", "title": "Creating Hackathons that Work (with Jon Gottfried)" },
     { "id": "V7vhSHqMxus", "title": "Can Event-Driven Architecture make Software Design Easier? (with Bobby Calderwood)" },
     { "id": "aKYdj0f1iQI", "title": "Is Odin \"Programming done right\"? (with Bill Hall)" },
     { "id": "Nhb6qA1FF38", "title": "If Kafka has a UX problem, does UNIX have the answer?  (with Luca Pette)" }

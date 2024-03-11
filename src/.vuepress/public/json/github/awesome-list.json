@@ -1044,5 +1044,20 @@
     "desc": "어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).",
     "officialSite": "https://awesome-devblog.netlify.app/",
     "topics": ["awesome", "blogs", "devblog", "developer", "korean", "tech-blog"]
+  }, {
+    "repo": "valeman/Awesome_CatBoost",
+    "desc": "The repository to showcase the best framework for tabular data - the Awesome CatBoost",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "xbresson/GML2023",
+    "desc": "Graph Machine Learning course, Xavier Bresson, 2023",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "friuns2/BlackFriday-GPTs-Prompts",
+    "desc": "List of free GPTs that doesn't require plus subscription",
+    "officialSite": "",
+    "topics": ["ai", "awesome", "awesome-list", "gpt"]
   }
 ]

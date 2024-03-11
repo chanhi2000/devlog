@@ -140,9 +140,12 @@ tag:
 
 ## velog
 
-- [@synoti21 - 쿠버네티스 입문의 모든 것](https://velog.io/@synoti21/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
-- [@hanblueblue - [쿠버네티스] 2. 워크로드 - 파드(1)](https://velog.io/@hanblueblue/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-2.-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C-%ED%8C%8C%EB%93%9C)
-- [@neity16 - 핵심만 콕 쿠버네티스 (2) - `k8s` 기본 개념](https://velog.io/@neity16/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EC%BD%95-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-2-k8s-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
+- [`@synoti21` - 쿠버네티스 입문의 모든 것](https://velog.io/@synoti21/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
+- [`@hanblueblue` - [쿠버네티스] 2. 워크로드 - 파드(1)](https://velog.io/@hanblueblue/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-2.-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C-%ED%8C%8C%EB%93%9C)
+- [`@neity16` - 핵심만 콕 쿠버네티스 (2) - `k8s` 기본 개념](https://velog.io/@neity16/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EC%BD%95-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-2-k8s-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
+- [`!1996yyk` - [k8s] Set Odd Master Nodes On `k8s`](https://velog.io/@1996yyk/k8s-Set-Odd-Master-Nodes-On-k8s)
+
+
 
 ---
 

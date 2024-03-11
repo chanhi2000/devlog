@@ -1180,11 +1180,6 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "apernet/OpenGFW",
-    "desc": "OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux",
-    "officialSite": "",
-    "topics": []
-  }, {
     "repo": "docker/compose",
     "desc": "Define and run multi-container applications with Docker",
     "officialSite": "https://docs.docker.com/compose/",
@@ -1264,5 +1259,10 @@
     "desc": "Go microservice template for Kubernetes",
     "officialSite": "",
     "topics": ["cuelang", "e2e-testing", "gitops", "golang", "helm", "kubernetes", "kustomize", "microservice"]
+  }, {
+    "repo": "ledgerwatch/erigon",
+    "desc": "Ethereum implementation on the efficiency frontier",
+    "officialSite": "",
+    "topics": ["blockchain", "ethereum"]
   }
 ]

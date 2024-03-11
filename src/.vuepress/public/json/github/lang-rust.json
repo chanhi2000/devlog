@@ -1149,5 +1149,36 @@
     "desc": "Physics simulation software for space + aerospace",
     "officialSite": "https://elodin.systems",
     "topics": ["aerospace", "ecs", "physics-simulation", "space"]
+  }, {
+    "repo": "rolldown/rolldown",
+    "desc": "Fast Rust bundler for JavaScript with Rollup-compatible API.",
+    "officialSite": "https://rolldown.rs",
+    "topics": []
+  }, {
+    "repo": "timelock-dev/tlock-worker",
+    "desc": "Demonstration worker supporting timelock encryption.",
+    "officialSite": "https://tlock-worker.crypto-team.workers.dev",
+    "topics": []
+  }, {
+    "repo": "devflowinc/trieve",
+    "desc": "All-in-one infrastructure for building retrieval and RAG. Trieve combines search language models with tools for tuning.",
+    "officialSite": "https://trieve.ai",
+    "topics": ["actix", "actix-web", "ai", "artificial-intelligence", "diesel", "embedding", "llm", "postgresql", "qdrant", "qdrant-vector-database", "rag", "retrieval-augmented-generation", "rust", "search", "search-engine", "solidjs", "tailwindcss", "vector-search"]
+  }, {
+    "repo": "gleam-lang/gleam",
+    "desc": "⭐️ A friendly language for building type-safe, scalable systems!",
+    "officialSite": "https://gleam.run",
+    "topics": ["compiler", "erlang", "gleam", "programming-language", "statically-typed"]
+  }, {
+    "repo": "microsoft/aici",
+    "desc": "AICI: Prompts as (Wasm) Programs",
+    "officialSite": "",
+    "topics": ["ai", "inference", "language-model", "llm", "llm-framework", "llm-inference", "llm-serving", "llmops", "model-serving", "rust", "transformer", "wasm", "wasmtime"]
+  }, {
+    "repo": "flxzt/rnote",
+    "desc": "Sketch and take handwritten notes.",
+    "officialSite": "https://rnote.flxzt.net",
+    "topics": ["drawing", "gtk", "gtk-rs", "gtk4", "gtk4-rs", "hacktoberfest", "handwriting", "infinite-canvas", "notes", "notes-app", "pdf", "rust", "wacom-tablet"]
   }
+  
 ]

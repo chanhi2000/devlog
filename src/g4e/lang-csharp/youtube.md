@@ -9,6 +9,8 @@ tag:
   - csharp
   - dotnet
   - dotnetcore
+  - asp
+  - aspdotnet
   - nuget
   - blazor
   - aspdotnet
@@ -74,5 +76,6 @@ tag:
 <MyYouTubeItems jsonName="yu-hunterfreeman3496" /><!-- Hunter Freeman -->
 <MyYouTubeItems jsonName="yu-AzurenaPratica" /><!-- Azure na Prática -->
 <MyYouTubeItems jsonName="yu-amantinband" /><!-- Amichai Mantinband -->
+<MyYouTubeItems jsonName="yu-codebinx" /><!-- CodebinX -->
 
 <TagLinks />

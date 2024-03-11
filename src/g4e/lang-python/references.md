@@ -355,4 +355,22 @@ description: 🐍Python > 📚References
 
 ---
 
+## ENFJ.dev
+
+- [| Hacks | conda - Python multiple venv manger](https://gngsn.tistory.com/279)
+
+---
+
+## 멈춤보단 천천히라도
+
+- [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
+
+---
+
+## ChenYang Yuan
+
+- [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
+
+---
+
 <TagLinks />

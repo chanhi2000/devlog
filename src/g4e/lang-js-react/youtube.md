@@ -79,5 +79,6 @@ head:
 <MyYouTubeItems jsonName="yu-VetrivelRavi" /><!-- Vetrivel Ravi -->
 <MyYouTubeItems jsonName="yu-programmingwithmosh" /><!-- Programming with Mosh -->
 <MyYouTubeItems jsonName="yu-ByteGrad" /><!-- ByteGrad -->
+<MyYouTubeItems jsonName="yu-PedroTechnologies" /><!-- PedroTech -->
 
 <TagLinks />

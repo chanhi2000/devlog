@@ -166,10 +166,18 @@ tag:
 
 ---
 
+## 기계인간 John Grib
+
+- [`say` 명령어: macOS에서 음성으로 문자열을 읽게 한다](https://johngrib.github.io/wiki/cmd/say/)
+
+---
+
 ## Misc
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 
 ---
+
+
 
 <TagLinks />
