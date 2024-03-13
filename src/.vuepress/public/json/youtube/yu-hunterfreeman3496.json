@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "nDPTbgOmo2Y", "title": "My IDE from scratch Progress" },
+    { "id": "TPJauvMWsHo", "title": "Coding an IDE - No Talking (see description)" },
+    { "id": "OzUd48Lzr6o", "title": "I'm tutoring, $20 per hour (Computer Science, Math, and Physics)" },
     { "id": "QsrnjaDaZZw", "title": "I made a Unit Test Explorer with Blazor" },
     { "id": "XHUKLWllIgo", "title": "I'm making an IDE" },
     { "id": "hC4E2-LNxB4", "title": "Text Editor NuGet Package | Luthetus.TextEditor v1.4.0" },

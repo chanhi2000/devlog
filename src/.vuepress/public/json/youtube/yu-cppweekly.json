@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/hGuK35xxMUot29sl0pBB6v-59COh6a5L518qI2G74tzqtq13OYO5s4uMkgEANqQQ6zVz0A6R=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "y8Aw6AnQMws", "title": "CS101++ - What Are Nibbles, Bits, Bytes and Words" },
+    { "id": "KhF0INTcs5o", "title": "CS101++ - Exploring Circuit Simulation Tools: Online & Offline" },
+    { "id": "84Zy1D8MWaI", "title": "C++ Weekly - Ep 415 - Moving From C++98 to C++11" },
+    { "id": "0numLoDeTXw", "title": "CS101++ - What Are Computability and the Halting Problem?" },
+    { "id": "_Rq8gWimRcA", "title": "C++ Weekly - Ep 416 - Moving From C++11 to C++14" },
+    { "id": "gOBbu2dL_R8", "title": "C++ Weekly - Ep 417 - Turbocharge Your Build With Mold?" },
+    { "id": "VkkfybyE5GI", "title": "CS101++ - What is a `do` Loop?" },
+    { "id": "yL0DWa2LxNU", "title": "C++ Weekly - Ep 418 - Moving From C++14 to C++17" },
     { "id": "E0QhZ6tNoRg", "title": "C++ Weekly - Ep 410 -  What Are Padding and Alignment? (And Why You Might Care)" },
     { "id": "uE0h79vB-rw", "title": "C++ Weekly - Ep 411 - Intro to C++ Exceptions" },
     { "id": "3cgDMAVHdoc", "title": "CS101++ - What are Functions and Procedures?" },

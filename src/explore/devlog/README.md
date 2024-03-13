@@ -12,4 +12,4 @@ description: Devlog
 
 ---
 
-<TagLink />
+<TagLinks />

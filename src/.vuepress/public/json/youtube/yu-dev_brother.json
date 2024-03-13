@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "dev_brother",
+    "name": "개발동생",
+    "profile": "https://yt3.googleusercontent.com/oxq4r0XdpEsxoTa2INfE2S4fkFuCzrMu0MNmaKaSvWdHDukeFTEL0F9eborxLC25z36nqn8X=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "VNfQNw3w0vI", "title": "ChatGPT 플러그인으로 업무 생산성 끌어올리기 | 마인드맵 + 플로우차트" },
+    { "id": "swb605XEJRw", "title": "이제 배우도 대체 될까요? | 오픈AI SORA" },
+    { "id": "H-19h-J4foY", "title": "(2024) 챗GPT 초보자 이 영상 후회 안합니다 | 무려 10가지 팁" }
+  ]
+}

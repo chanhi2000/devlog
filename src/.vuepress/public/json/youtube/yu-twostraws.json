@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/8DWyCDTkh3XnzeEdKRLZ6-77PGgdODPre3z0vIGHZhufSK21OhSG0RzvAA3nkhKJ0iqLep1d=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "B-juQNel_IM", "title": "Introducing Vortex: High-performance particle effects for SwiftUI" },
+    { "id": "H-kWbiPqjuM", "title": "Making it Rain – Advanced Special Effects with SwiftUI" },
     { "id": "n4SCMC25BxY", "title": "Create your first app with SwiftUI and SwiftData" },
     { "id": "EgzWwgRpUuw", "title": "SwiftUI + Metal – Create special effects by building your own shaders" },
     { "id": "bx3U10UHCnU", "title": "Wrap up: our SwiftData project is complete – SwiftData Starter Project 8/8" },

@@ -1179,6 +1179,15 @@
     "desc": "Sketch and take handwritten notes.",
     "officialSite": "https://rnote.flxzt.net",
     "topics": ["drawing", "gtk", "gtk-rs", "gtk4", "gtk4-rs", "hacktoberfest", "handwriting", "infinite-canvas", "notes", "notes-app", "pdf", "rust", "wacom-tablet"]
+  }, {
+    "repo": "altsem/gitu",
+    "desc": "A TUI Git client inspired by Magit",
+    "officialSite": "",
+    "topics": ["cli", "git", "magit", "standalone", "tui"]
+  }, {
+    "repo": "SixArm/csv-to-usv-rust-crate",
+    "desc": "Comma Separated Values (CSV) to Unicode Separated Values (USV) Rust crate",
+    "officialSite": "",
+    "topics": []
   }
-  
 ]

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "StormWindStudios",
+    "name": "StormWind Studios",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nc8c3m2OW_vkW7xRtWyW7jhFtdYx1UdsxRNegaSg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/87Gj7-nRmxwWF77oxFu85iuSTld9qRrfjEggvYyMbtxunNnQzqibmAoaIM13v1SJOiycRl9V=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ku3q1tFkEjw", "title": "ITIL Essentials Enhancing Your IT Service Management" },
+    { "id": "fQei0MNjNs0", "title": "Full Stack Developer Courses Available Now!" },
+    { "id": "NFLMBAR8zU4", "title": "Scrum Essentials for Software Project Delivery" },
+    { "id": "zTKWOJnI0Rc", "title": "Network Analysis with Wireshark" }
+  ]
+}

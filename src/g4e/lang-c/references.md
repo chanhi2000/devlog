@@ -225,6 +225,18 @@ tag:
 
 ---
 
+### zznewsclear13
+
+- [Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
+
+---
+
+## Abdelhadi
+
+- [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

@@ -39,5 +39,6 @@ tag:
 <MyYouTubeItems jsonName="yu-ChaelCodes" /><!-- ChaelCodes -->
 <MyYouTubeItems jsonName="yu-Snytkine" /><!-- Dmitri Snytkine -->
 <MyYouTubeItems jsonName="yu-koreankoder" /><!-- KoreanKoder -->
+<MyYouTubeItems jsonName="yu-NickNisi" /><!-- Nick Nisi -->
 
 <TagLinks />

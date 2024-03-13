@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/H2oNAmVST79Z0eWeC2eDhPSCdfr7jdnB-5mTbR2ZwWSNR9aE6SAq0dAqt4no6sDDVX3erwJQvII=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JM6j8HTy97E", "title": "불필요한 내용을 줄이면 RAG가 성능이 올라간다고?!-2[RECOMP: IMPROVING RETRIEVAL-AUGMENTED LMS WITH COMPRESSION ...]|꼬꼬엔" },
+    { "id": "leT_0eGNBFs", "title": "불필요한 내용을 줄이면 RAG가 성능이 올라간다고?!-1[RECOMP: IMPROVING RETRIEVAL-AUGMENTED LMS WITH COMPRESSION ...]|꼬꼬엔" },
     { "id": "I9HCNVEvnCY", "title": "Q: 이미지 인식을 위해 컨볼루션 신경망(CNN)을 구현하는 방법을 설명하세요. CNN의 주요 레이어는 무엇이며 이미지 처리에 어떻게 기여하나요? |꼬꼬면" },
     { "id": "ZCzizNSKMaQ", "title": "어떻게 AI 논문을 읽어야 할까요?[How to Read a Paper?]|꼬꼬엔" },
     { "id": "IiLepUfSBCM", "title": "Q: 트랜스포머 모델의 Self-Attention은 LSTM 기반의 `seq2seq`와 같은 이전 모델에서 사용했던 Attention과 어떻게 다릅니까?|꼬꼬기" },

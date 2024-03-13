@@ -194,5 +194,10 @@
     "desc": "A PHP parser written in PHP",
     "officialSite": "",
     "topics": ["ast", "parser", "php", "static-analysis"]
+  }, {
+    "repo": "xenocrat/chyrp-lite",
+    "desc": "An ultra-lightweight blogging engine, written in PHP.",
+    "officialSite": "https://chyrplite.net/",
+    "topics": ["accessible", "apache", "blog", "blog-engine", "caddy2", "html5", "jquery", "lightweight", "localised", "mysql", "nginx", "php", "postgresql", "sqlite", "twig"]
   }
 ]

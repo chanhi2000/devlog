@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/7b-DCZA5aeStNuLK2lyOX_MwmFNpXOfzgHR_u01s17CKA8NwNhvijTgpvCi3BvEQB8Xrja3h=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JNkmXMjKv0o", "title": "Keys and Digital Signatures in Rust" },
     { "id": "IooIXYf0PIo", "title": "SQLite3 in Node with better-sqlite3" },
     { "id": "bssWKAX74uA", "title": "PostgreSQL Introduction - Beginner Crash Course" },
     { "id": "-l0W_T8taZA", "title": "Unsafe Rust - Complete Tutorial" },

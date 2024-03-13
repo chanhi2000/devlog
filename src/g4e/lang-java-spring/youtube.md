@@ -31,6 +31,7 @@ head:
 
 <MyYouTubeItems jsonName="yu-amigoscode" /><!-- Amigoscode -->
 <MyYouTubeItems jsonName="yu-Javatechie" /><!-- Java Techie -->
+<MyYouTubeItems jsonName="yu-SivaReddyJavaTechie" /><!-- Siva Reddy -->
 <MyYouTubeItems jsonName="yu-TechPrimers" /><!-- Tech Primers -->
 <MyYouTubeItems jsonName="yu-HelloWorldStudy" /><!-- HelloWorld -->
 <MyYouTubeItems jsonName="yu-user-uc2wv8zw3h" /><!-- 전자정부 표준프레임워크 센터 -->
@@ -65,5 +66,7 @@ head:
 <MyYouTubeItems jsonName="yu-tech-soft" /><!-- Tech Soft -->
 <MyYouTubeItems jsonName="yu-sergey_tech" /><!-- Sergey Tech -->
 <MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
+<MyYouTubeItems jsonName="yu-datmt_dev" /><!-- datmt -->
+<MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 코딩하는오후 -->
 
 <TagLinks />

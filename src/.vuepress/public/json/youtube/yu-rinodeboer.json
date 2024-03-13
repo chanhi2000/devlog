@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "rinodeboer",
+    "name": "Rino de Boer",
+    "profile": "https://yt3.googleusercontent.com/I5LLCmDo7w47wzHn3uiTcMzpNqD6MgzW12X6pXajsp6QySmQ4z37sgT6-TQnXkgx8XXEoCp7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TZzT-2RbZYSyuuEoFm-wfhnprd75vVZ1q-BywMDcDdxd9JB9UyYuyJaHPhHwN8WJu_AKKC808kA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "o7HjHMYyLw0", "title": "My thoughts on Elementor’s Image Optimizer Plugin" }
+  ]
+}

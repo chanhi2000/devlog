@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "mannercode",
+    "name": "매너코드(mannercode)",
+    "profile": "https://yt3.googleusercontent.com/qWQasRmKK8QfP5MMMOKcpJs7pOR_S-lb3bUeC8Y6rJxO0GlvpRBEI90EWmdfXozPbkcGkdORUQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fRtr9jrbl4bAy63upRN3-6_1vQVr7mep2CgF7y5q65iTaZbJ8O_IdM3Vi_-dL0kgdXKA_1TamQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "E11VEqfgd3Q", "title": "4. Sequence Diagram" },
+    { "id": "DjO0QC7ji1s", "title": "5. Design - Recommended Movie List" }
+  ]
+}

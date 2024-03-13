@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/8PIT7olkpQgEJFD10EkVlpvn_DRXtLsce_PSV70v7Gz2CxzLihyoM1J1Qd6nQg4_Gg1lRbat0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vGkunLdVDqk", "title": "Great Starting Points for Contributing to Open Source | Real Python Podcast #190" },
+    { "id": "l8BKMovPJQY", "title": "Python's enum - Start Building Enumerations" },
+    { "id": "EQNbSLHlEk4", "title": "Tuples and Lists Practice: Python Basics Exercises" },
+    { "id": "PrA2JoDvgGQ", "title": "Focusing on Data Science & Less on Engineering and Dependencies | Real Python Podcast #191" },
+    { "id": "PpywbmIcUhM", "title": "Starting With Conway's Game of Life in Python" },
+    { "id": "VCk-HQoPsMo", "title": "Practical Python Decorator Uses & Avoiding datetime Pitfalls | Real Python Podcast #192" },
+    { "id": "NIyljVEcJKw", "title": "Improving Python Console Output With Rich" },
+    { "id": "QTkwgsMFq9E", "title": "Wes McKinney on Improving the Data Stack & Composable Systems | Real Python Podcast #193" },
+    { "id": "f5PO8cXRQCg", "title": "Installing Packages With pip Practice: Python Basics Exercises" },
+    { "id": "kQvFMrSvG4c", "title": "Introduction to Celery and Creating Asynchronous Tasks for Django" },
+    { "id": "ZEWDGuKOkI8", "title": "Building a Healthy Developer Mindset While Learning Python | Real Python Podcast #195" },
     { "id": "bTZqa7vWeeY", "title": "Functions and Loops Practice: Python Basics Exercises" },
     { "id": "MhBlbx923vo", "title": "Serializing Data With Python & Underscore Naming Conventions | Real Python Podcast #187" },
     { "id": "fTmL_XUrEw4", "title": "Starting With Python Tuples: Python Basics" },

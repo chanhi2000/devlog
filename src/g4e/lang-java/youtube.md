@@ -91,7 +91,6 @@ tag:
   - "@user-ht2jq8bg9b"
   - "@SpringIOConference"
   - "@CodeWisTechnologies"
-  - "@hobbyMett"
   - "@ssap-dba"
   - "@VickingDev"
   - "@ringring_creator"
@@ -188,7 +187,6 @@ head:
 <MyYouTubeItems jsonName="yu-atl.academy" /><!-- ATL Academy (by Lucas Moy) -->
 <MyYouTubeItems jsonName="yu-springcampkr" /><!-- SpringCamp by KSUG -->
 <MyYouTubeItems jsonName="yu-WhizdomTrainings01" /><!-- Ashish Thakur -->
-<MyYouTubeItems jsonName="yu-SivaReddyJavaTechie" /><!-- Siva Reddy -->
 <MyYouTubeItems jsonName="yu-patrickwashingtondc" /><!-- Patrick WashingtonDC -->
 <MyYouTubeItems jsonName="yu-javasoul4367" /><!-- JavaSoul -->
 <MyYouTubeItems jsonName="yu-NareshIT" /><!-- Naresh i Technologies -->
@@ -208,7 +206,6 @@ head:
 <MyYouTubeItems jsonName="yu-user-ht2jq8bg9b" /><!-- 이숭무 -->
 <MyYouTubeItems jsonName="yu-SpringIOConference" /><!-- Spring I/O -->
 <MyYouTubeItems jsonName="yu-CodeWisTechnologies" /><!-- CodeWis Technologies -->
-<MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 하찮은오후 -->
 <MyYouTubeItems jsonName="yu-ssap-dba" /><!-- 쌉DBA -->
 <MyYouTubeItems jsonName="yu-VickingDev" /><!-- VickingDev -->
 <MyYouTubeItems jsonName="yu-ringring_creator" /><!-- RingRing -->
@@ -230,5 +227,7 @@ head:
 <MyYouTubeItems jsonName="yu-codingpiece" /><!-- 코딩한조각 -->
 <MyYouTubeItems jsonName="yu-eunwoossaem" /><!-- 은우쌤 -->
 <MyYouTubeItems jsonName="yu-CodingWithJohn" /><!-- Coding with John -->
+<MyYouTubeItems jsonName="yu-dr.javaher" /><!-- Dr. Nina Javaher -->
+<MyYouTubeItems jsonName="yu-csezsw" /><!-- ezsw -->
 
 <TagLinks />

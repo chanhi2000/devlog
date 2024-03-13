@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/xEwWuAkQYnOdcy3AMd6Ohv6rRFUtUPzyVwnke27uHab0c6BqUn24HXAY_XsjdEJ6A774F-BcZu0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "du3B__vGOiw", "title": "How to Test Networking Layer in Android!" },
+    { "id": "UHsWR1syMBI", "title": "Dagger Hilt - Assisted Inject Hilt in Android!" },
+    { "id": "IfHGfo1KinU", "title": "Kickstart New Android Project with This Template (its FREE)!" },
+    { "id": "HUdmjJQg9UI", "title": "The Effective Pull Request Checklist (I Use it to Review +1000 PRs)" },
+    { "id": "14kx0qRUiOY", "title": "The easy way to migrate to Gradle Version Catalog!" },
+    { "id": "8ek39o0aLBk", "title": "99% of Developers Don't Know this Compose Performance Trick!" },
+    { "id": "NAKOhe4bpT0", "title": "Get Started with Canvas API in Jetpack Compose" },
+    { "id": "yE2IUeQkOtc", "title": "5 Android App Ideas You Need to Develop!" },
     { "id": "c9leA895cNc", "title": "Test your APIs in Android using MockWebServer!" },
     { "id": "D0OYk2xtOl8", "title": "Interview Question Tip 🤯 #short #interview" },
     { "id": "EjD5TQxHM5A", "title": "Custom Savers" },

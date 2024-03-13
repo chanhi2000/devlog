@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "5aZGbmbVcVQ", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 08 - Game Theory (1/2) Matrix Games" },
+    { "id": "Sk4XfhC5Awk", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 09 - Game Theory (2/2) Nash Equilibrium" },
+    { "id": "YBEWToJUB1w", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 14 - Assignment 4" },
     { "id": "m8joNgFKuxo", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 02 - Agents and Environments" },
     { "id": "8vGJegrx9Ls", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 03 - Problem Solving and Search" },
     { "id": "DKG7oM3o9bA", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 05 - Heuristic Search + A* Search Algorithm" }

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "dr.javaher",
+    "name": "Dr. Nina Javaher",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lytSngH6kSmRJjoz5NP7DNMD3jErgilkE-t-wltA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FRcfdtod19mynkWc-DsBwqqzNExgCMj0yDqfoHkDZjlZYnnX8ORT0V5UzVubc0AkFm3sXwS1HQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9a_3YQBLvX0", "title": "ADT Bag in Data Structure and Algorithm with Sample Interview Question" },
+    { "id": "hVD79qXNLsM", "title": "Stack and Queue Data Structure in Java" },
+    { "id": "H_VnKbTUV8E", "title": "Tree in Data Structure and Algorithm" }
+  ]
+}

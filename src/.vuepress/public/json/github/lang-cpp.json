@@ -171,7 +171,7 @@
     "topics": ["windows", "linux", "osx", "qt5"]
   }, {
     "repo": "electron/electron",
-    "desc": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
     "officialSite": "https://electronjs.org",
     "topics": ["c-plus-plus", "chrome", "css", "electron", "html", "javascript", "nodejs", "v8", "works-with-codespaces"]
   }, {
@@ -1173,5 +1173,10 @@
     "desc": "Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
     "officialSite": "http://NatronGitHub.github.io",
     "topics": []
+  }, {
+    "repo": "ProfJski/FloatCompMandelbrot",
+    "desc": "What impact does floating point precision have on Mandelbrot set calculations?",
+    "officialSite": "",
+    "topics": ["floating-point", "fractal", "mandelbrot-set", "numerical-analysis"]
   }
 ]

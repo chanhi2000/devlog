@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/vgLcJl1lFuWCA8xvZETUeX8lGg1lk0kO71qTvQ5fSakyjsCsHUQEz3SQSOKtk-GxxY5_ilNm=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jYWOyMZamcY", "title": "Observable Flutter 34: Code generation" },
+    { "id": "yjsN2Goe_po", "title": "feedback (Package of the Week)" },
+    { "id": "ngUiuIdcGjk", "title": "Observable Flutter #35: Writing a code generator" },
+    { "id": "sojm449IB-4", "title": "Observable Flutter #36: Google AI Dart SDK!" },
+    { "id": "ggp5lE5DP2U", "title": "Announcing the judges for the #GlobalGamers Challenge" },
+    { "id": "c6BPtrU0M7I", "title": "Drag and drop - Flutter Build Show" },
     { "id": "CJ73P28dr14", "title": "Observable Flutter #33: Fighting zombies" },
     { "id": "giV9AbM2gd8", "title": "DropdownMenu (Widget of the Week)" },
     { "id": "aLvlqD4QS7Y", "title": "Patterns #DecodingFlutter" },

@@ -18,4 +18,4 @@ category:
 
 ---
 
-<TagLink />
+<TagLinks />

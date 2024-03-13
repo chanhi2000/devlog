@@ -92,7 +92,7 @@ tag:
 <MyYouTubeItems jsonName="yu-KyounRrock" /><!-- Kyeongrok Kim -->
 <MyYouTubeItems jsonName="yu-anthonygg_" /><!-- Anthony GG -->
 <MyYouTubeItems jsonName="yu-bobbyiliev_" /><!-- Bobby Iliev -->
-<MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 하찮은오후 -->
+<MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 코딩하는오후 -->
 <MyYouTubeItems jsonName="yu-xpressengine7822" /><!-- XpressEngine -->
 <MyYouTubeItems jsonName="yu-quentinsf" /><!-- Quentin Stafford-Fraser -->
 <MyYouTubeItems jsonName="yu-eddiezane" /><!-- Eddie Zaneski -->

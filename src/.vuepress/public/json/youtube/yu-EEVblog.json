@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "EEVblog",
+    "name": "EEVblog",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lagjGDfXbXlQXhznx3CDRitOBdxvebllQd_YP1ag=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yIJ9ad80n49rK-YUcZLe_8bLmR-aGyg5ybDH_XKIc0GDWrC6s1Wzz8lxnq3_hux_5b6NHPZ9=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fIEH4-P2nyQ", "title": "EEVblog 1594 - Inside a Quantum Computer! with Andrea Morello" }
+  ]
+}

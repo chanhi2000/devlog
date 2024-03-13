@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/ZR4c62jHJcHbDWofKk2xGsAY9X3rBMShDtzCcKwIKD0eRnATDWlttWeYxJjQA1BDTHO-pKib=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lOn3FJXJRFs", "title": "LLM 지식의 출처 (2024년 1월)" },
+    { "id": "u431kfsFmPA", "title": "LLM에게 예의를 지켜야 할까? (2024년 2월)" },
     { "id": "fEHrTSWJ5a0", "title": "ChatGPT 일 잘 시키기 - Prompting 요령 (2023년 12월)" },
     { "id": "KeLmEv3Mzvk", "title": "아이의 ChatGPT 활용 지도하기 (2023년 10월)" },
     { "id": "eWw5c3X__wI", "title": "교수를 위한 ChatGPT 활용법 (2023년 10월)" },

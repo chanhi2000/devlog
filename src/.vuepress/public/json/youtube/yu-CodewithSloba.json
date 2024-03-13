@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/0-Gu0orVOhzkCfyOZMUYjIUp6RU7m87d_YnWtHKgnLqCtW2eLCcZMGj6URI4q5LiRxTXHqeZLw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QjUES_l_J2A", "title": "Next.js 14 Course Tutorial #2 - Set up a Next.JS Project" },
+    { "id": "orKoHewt9OY", "title": "Next.js 14 Course Tutorial #4 - Project Pages Setup & CSS" },
     { "id": "VY6tgKS02ao", "title": "React File and Folder Structure | #32 React Course" },
     { "id": "NFJ0g95ObX4", "title": "Building a Fast Portfolio Website with Qwik Framework" },
     { "id": "UX5HIrxbRUc", "title": "How to Build a Quiz App using React (for Beginners)" },
@@ -14,4 +16,3 @@
     { "id": "d25dg0AgkwQ", "title": "Build Web Scraping Website | React, Puppeteer, Firebase" }
   ]
 }
-

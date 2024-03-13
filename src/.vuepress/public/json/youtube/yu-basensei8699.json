@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/KoZi7PprCZK_aa0SS2emknKldVhLnxFFMuqWFrOP9yVJ7--5dPDoR0WEA38NDGl3qyCZV-WH=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "e3c142fGJnQ", "title": "Power Query - Advanced Transformation of Nested Tables" },
+    { "id": "ILk-38VDr3A", "title": "Power Query - Refer to Sheet by Number" },
+    { "id": "vIcmD7EqTT0", "title": "Power Query - The Let-in syntax alternatives" },
+    { "id": "vEnjSZC-RRk", "title": "Power Query - Shortcut to Remove Columns" },
+    { "id": "JUQMnuF8qqc", "title": "Power Query - Adding spaces to CamelCase & number fields with List Accumulate" },
+    { "id": "B5tkkOcteVs", "title": "Power Query - Dynamically transform column names" },
+    { "id": "bCSeOHrSy58", "title": "Power Query - List.Buffer to do a Million row Lookup" },
     { "id": "QBhG8m-zio0", "title": "Power Query - Dynamically Promote Double Headers 🚀📊" },
     { "id": "1mJaN1t9mwk", "title": "Power Query - Previous Row Hack" },
     { "id": "WnzQU-T3ZB0", "title": "Power Query - Unstack Rows to Columns" },

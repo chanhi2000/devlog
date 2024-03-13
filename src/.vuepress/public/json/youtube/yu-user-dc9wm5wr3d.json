@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "user-dc9wm5wr3d",
+    "name": "이노베이션 아카데미",
+    "profile": "https://yt3.googleusercontent.com/7ciH-WbT3YtagGgP8Jt8Cohimp2kdHzY6H62T2mdic-hQVpY7z4jP7mkqOh3lw_DUJKSH0gsyg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ue6fH3CkxHo1YFF9P2xvxLYfYbx3CrcY32Y11qn7G6bt0vo5o15qCA53HlZKMGXCJQC_S-BaHw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Iv0tiXlb8Yw", "title": "[2023 42 SEOUL 인터뷰] 미래의 신입 개발자! 42서울 교육생에게 전하는 현직자 이야기" },
+    { "id": "G4JK2WzPUfI", "title": "동료와 함께 성장하는 개발자 양성 프로그램 'Project-X'" },
+    { "id": "l1FVklNusYQ", "title": "현대오토에버 상반기 채용 연계 프로그램 설명회" }
+  ]
+}

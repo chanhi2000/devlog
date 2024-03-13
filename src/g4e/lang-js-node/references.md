@@ -41,6 +41,12 @@ tag:
 
 ---
 
+## David Walsh
+
+- [Detect Caps Lock with JavaScript](https://davidwalsh.name/detect-caps-lock)
+
+---
+
 ## Google
 
 ### Chrome for Developers

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/HZzqk9eqBjLin6-aiUgeAYlcrRyI10rgrhZJXy5-R03bn8xQ5y3ORLE7eSMoRFKYPvUImKGD0OI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HHDkn8feiT4", "title": "클라우드 시대의 혁신 : 쿠버네티스 기반 내부 개발자플랫폼(IDP) 소개 - 클라우드타입" },
+    { "id": "hacBokGOjoI", "title": "AI 기반 챗봇 ChatGPT를 활용해서 뚝딱 만들기" },
+    { "id": "lModnJHm3J4", "title": "백엔드 개발자 경쟁력을 높히기 위한 클라우드 강의" },
+    { "id": "YcRxu76IjIg", "title": "함수라고 다 같은 함수가 아닙죠" },
     { "id": "4wnsJHpbTC4", "title": "3강. 백앤드 개발 - 질문 목록 구현 / 서비스(Service) / 답변하기 기능 개발 《Do it! 점프 투 스프링 부트 3》도서로 공부 함께 해요!" },
     { "id": "0k_pOeVozMA", "title": "[이벤트마감] 마지막 부분에 이벤트 있어요. 쿠버네티스 어디까지 해야 할까? 클라우드 엔지니어 vs 백앤드 개발자" },
     { "id": "wRP3e0rk34M", "title": "1강. 백앤드 개발 공부 함께 해요! 점프 투 더스프링 도서로 합니다!" },

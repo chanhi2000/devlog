@@ -1,11 +1,14 @@
 {
   "channel": {
     "id": "redgate",
-    "name": "Redgate Videos",
+    "name": "Redgate Software",
     "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQy4238R-YSAq4kFSQHh8V6v7RpD7Rsrwrk452Egw=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/hy_ANeUEcU-HjIMUcB5zp1aMRjz9X3XOtPMsilblQbGchSp90Ik1OJjnHT545EcXTvOghp32sh8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "illFf-zuUnA", "title": "Introduction to PostgreSQL | PostgreSQL 101" },
+    { "id": "JGLjbEXHF24", "title": "Using Flyway with MongoDB and Studio 3T | Redgate" },
+    { "id": "lcVnNyIvrhw", "title": "The benefits of effective test data management | Redgate" },
     { "id": "wlDJRoYrNSg", "title": "Datenbank Monitoring - News & Updates | Redgate" },
     { "id": "aO4dYNpDjQ4", "title": "Introduction to Multi-Version Concurrency Control and Vacuum | PostgreSQL 101" },
     { "id": "4C3omclRxxc", "title": "Database monitoring and optimization | PostgreSQL 101" },

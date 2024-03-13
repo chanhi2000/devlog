@@ -29,5 +29,10 @@
     "desc": "Apple 2 full screen clock driven by the pendulum of my wall clock",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "toruzz/WebsiteHowtoCode",
+    "desc": "How to colorize Game Boy games - Example code",
+    "officialSite": "",
+    "topics": []
   }
 ]

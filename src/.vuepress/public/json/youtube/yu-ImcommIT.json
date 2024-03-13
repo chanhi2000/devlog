@@ -6,6 +6,16 @@
     "banner": ""
   },
   "videos": [
+    { "id": "fGylablqiE4", "title": "9. 자료형 확장 【내일은 파이썬】" },
+    { "id": "y0b3TmyNAF8", "title": "개발자 특: 쓸 데 없는 거 만듦" },
+    { "id": "a4ru_x-jiNc", "title": "1명만 주문 vs 100명이 동시에 주문" },
+    { "id": "hCJ8PDhoQmQ", "title": "14. import 【내일은 파이썬】" },
+    { "id": "YdX_ZQ10L4s", "title": "13. 클래스 【내일은 파이썬】" },
+    { "id": "cMJGY5tML4I", "title": "12. 함수 【내일은 파이썬】" },
+    { "id": "nKHcJGcYm0g", "title": "11. 제어문 확장 【내일은 파이썬】" },
+    { "id": "WWMxkS0vgcY", "title": "10. 자주 쓰이는 함수와 표현식 【내일은 파이썬】" },
+    { "id": "pTUYXkdxwwo", "title": "어쩌면 진짜일수도" },
+    { "id": "ENMtsWy52WA", "title": "생성이랑 확률이 뭔 상관?" },
     { "id": "dQvwCg2DnxA", "title": "파기 좋은 함정이 많은 질문 【 자료구조 】" },
     { "id": "ppqvDxFyZMc", "title": "QnA 답변 영상" },
     { "id": "ILxU57jX4sA", "title": "모호하게 건방진 함수" },

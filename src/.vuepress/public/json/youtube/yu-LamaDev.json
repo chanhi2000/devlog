@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "DJaZUFK8Kv4", "title": "Next.js Animated Portfolio Website with Framer Motion & Tailwind CSS | Next.js Beginner Project" },
+    { "id": "p_FiVGxyksI", "title": "Next.js Auth | This is the Easiest Way To Build Auth with Cookie Sessions" },
+    { "id": "HFj5FMb0jwY", "title": "React Real Estate App UI Design Tutorial for Beginners" },
     { "id": "vCOSTG10Y4o", "title": "Next.js 14 Complete Course 2024 | Next.js 14 Full Stack App Tutorial for Beginners" },
     { "id": "6BRZ-yHjYwo", "title": "Build the Fastest Blog Website with Markdown Content | Hugo Static Site Generation Tutorial" },
     { "id": "cBg6xA5C60s", "title": "Next.js 14 Admin Dashboard Tutorial | Fullstack Next.js 14 Project with Server Actions" }, 

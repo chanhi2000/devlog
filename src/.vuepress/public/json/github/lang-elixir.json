@@ -34,5 +34,10 @@
     "desc": "Platform for creating interactive courses.",
     "officialSite": "https://app.uneebee.com",
     "topics": ["education", "elixir", "phoenix"]
+  }, {
+    "repo": "elixir-lang/elixir",
+    "desc": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "officialSite": "https://elixir-lang.org/",
+    "topics": []
   }
 ]

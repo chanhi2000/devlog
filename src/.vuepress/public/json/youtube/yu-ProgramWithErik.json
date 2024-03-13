@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/qwaYLUAbBeIcDmBR0G-k6p2v-fFgTPLxFJFPHAH--LQ16HaXI_GstOzSYcKMGGmDviHcsOEB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "SiOBwa2qNEw", "title": "TypeScript From End-To-End Changes Everything!" },
+    { "id": "v6n-Q0CNq0Q", "title": "This Vue Mistake Was A Real Problem" },
+    { "id": "M-oYhJlILbY", "title": "You're Using Tailwind CSS The Wrong Way! A look at reuse." },
+    { "id": "rs6Vmkz93EQ", "title": "Style Your App With Tailwind CSS In 10 Minutes (Full Stack)" },
+    { "id": "AovK5jedMHg", "title": "A Better Way To Create Vue Components With Props Using TypeScript" },
+    { "id": "u-N0xIApC9I", "title": "Panda CSS - Should It Replace Tailwind With Vue?" },
+    { "id": "Ql8SBCF8OQg", "title": "Build A Full Stack Vue Photo Album With Image Editing (Nuxt.js, Cloudinary, API Routes)" },
+    { "id": "o79p7hitiZE", "title": "Is Your Vue VSCode Extension Broken?" },
+    { "id": "aeFVVBjymNc", "title": "This Vue AI App with Claude 3 Blew Me Away" },
     { "id": "CIGBujoNMS0", "title": "This Tailwind UI Component Library Really Surprised Me!" },
     { "id": "Z9Qi0SSO86s", "title": "A Better Way To Organize Components In Vue" },
     { "id": "hz3V6VyJxKE", "title": "The Future Of Tailwind UI Component Frameworks? A look at shadcn/ui." },

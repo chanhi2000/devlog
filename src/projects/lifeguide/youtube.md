@@ -106,5 +106,6 @@ head:
 <MyYouTubeItems jsonName="yu-Welfaremarble" /><!-- 복지마블TV [Welfare Marble] -->
 <MyYouTubeItems jsonName="yu-CarTip1004" /><!-- 카팁 -->
 <MyYouTubeItems jsonName="yu-dyom.y" /><!-- 됴미 -->
+<MyYouTubeItems jsonName="yu-masterchoi_" /><!-- Master Choi -->
 
 <TagLinks />

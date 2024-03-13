@@ -3966,9 +3966,9 @@
     "topics": []
   }, {
     "repo": "danielmiessler/fabric",
-    "desc": "fabric is an open-source framework for augmenting humans using AI.",
-    "officialSite": "",
-    "topics": []
+    "desc": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "officialSite": "https://danielmiessler.com/p/fabric-origin-story",
+    "topics": ["ai", "augmentation", "flourishing", "life", "work"]
   }, {
     "repo": "FlagOpen/FlagEmbedding",
     "desc": "Dense Retrieval and Retrieval-augmented LLMs",
@@ -4444,5 +4444,10 @@
     "desc": "The Python programming language",
     "officialSite": "https://www.python.org/",
     "topics": []
+  }, {
+    "repo": "microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+    "officialSite": "https://qlib.readthedocs.io/en/latest/",
+    "topics": ["algorithmic-trading", "auto-quant", "deep-learning", "finance", "fintech", "investment", "machine-learning", "paper", "platform", "python", "quant", "quant-dataset", "quant-models", "quantitative-finance", "quantitative-trading", "research", "research-paper", "stock-data"]
   }
 ]

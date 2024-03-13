@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "4-msZqqrN1A", "title": "Componentizing Application State - THAT Conference Texas 2024" },
     { "id": "VMJ1eAj5HgI", "title": "How I use Git Worktrees in my developer workflow" }
   ]
 }

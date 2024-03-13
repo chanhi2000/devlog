@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "wxVpncsqjEE", "title": "Tauri Tutorial 6: Tauri Plugin (how to and best practices)" },
     { "id": "BVCdaVzWM1w", "title": "Tauri Tutorial 2: Project Setup" }, 
     { "id": "zsaWFf2LEv4", "title": "Tauri Tutorial 3: Window and Title Bar Customization" }, 
     { "id": "W8eIApyZe28", "title": "Tauri Tutorial 4: Commands" },

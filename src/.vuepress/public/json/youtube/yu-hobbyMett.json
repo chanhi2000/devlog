@@ -1,11 +1,18 @@
 {
   "channel": {
     "id": "hobbyMett",
-    "name": "하찮은오후",
+    "name": "코딩하는오후",
     "profile": "https://yt3.googleusercontent.com/EOy9cI3luq9OU2Nco16QZTf76IeVKdBF0gAWEotgwl7z29hK4NHGe1RF-jYQ7uEBnsIiDOspK40=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/knZWtmFBCHXLGNhlaXU7NgZLLKWLE_8BBn-oATMTR0LuBnayGCAp9-zcuDPO3QT8S15ch54DEN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WTvJVV91lts", "title": "스프링부트 : 코드 커버리지" },
+    { "id": "q0BpiA6HVGE", "title": "React Redux toolkit : quick start" },
+    { "id": "L5ID-3r-U4w", "title": "Zustand는 작고, 빠르고, 확장가능한 상태관리 솔루션입니다." },
+    { "id": "asDNPNmkPFE", "title": "스프링부트 : localhost에서 https 이용하기" },
+    { "id": "gWqrgygvMsU", "title": "Refactoring 실습" },
+    { "id": "a4h4b4IidwY", "title": "findById는 왜 Optional을 리턴할까" },
+    { "id": "zewUad-RQ_E", "title": "관계형데이터베이스 구현" },
     { "id": "cIZDQQYKwNY", "title": "Nest.js에서 데코레이터가 동작하는 원리를 알아봅시다." },
     { "id": "uDmhEgh-OsE", "title": "백엔드 older 개발자의 스타일시트 도전기(응원바랍니다)" },
     { "id": "cvv5kJUDf0A", "title": "[오후의 Backlog] 1회 백로그의 시작, spring 3 변경점, 인공지능, 개발공정, 못했던 이야기" },

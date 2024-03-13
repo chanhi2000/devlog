@@ -54,5 +54,10 @@
     "desc": "It's sudo, for Windows",
     "officialSite": "",
     "topics": ["sudo", "windows", "windows-11"]
+  }, {
+    "repo": "ScoopInstaller/Main",
+    "desc": "📦 The default bucket for Scoop.",
+    "officialSite": "https://scoop.sh",
+    "topics": ["scoop", "scoop-apps", "scoop-bucket"]
   }
 ]

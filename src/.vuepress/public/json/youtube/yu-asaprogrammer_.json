@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/0DzJbmHb0Orb0DiMaevnPDLMSIiOZYTM0KmFyDN4X2IQrYhSYAEeMo-BGkBizsrdvPMgB69P=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HwCqsOis894", "title": "MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io | Super Detailed Tutorial" },
+    { "id": "P6UyvDhNTbg", "title": "MERN Stack Project: Build and Deploy a Github-like App | React.js, MongoDB, Node.js, Passport.js" },
+    { "id": "Vr-QHtbmd38", "title": "GraphQL Crash Course in 2024 | Build a Full Stack MERN App" },
     { "id": "voYZS2218rw", "title": "Prerequisites for React in 2024? You only need 10 JavaScript concepts" },
     { "id": "eCRvIPPnYs0", "title": "Publishing your own npm package feels like magic" },
     { "id": "jr-XVRX163I", "title": "How to make Flappy Bird game in JavaScript - Step by step tutorial" },

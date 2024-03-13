@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/MFHFeloW3xAxIUKf0_aDKFFXxWwI_arzKqk_2hXO4R2GmjRR0pc_CkhH6T5z3mmuJ2OiPgR2Z4E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mVSFHgItaa4", "title": "Deploying Spring Boot on AWS EKS (Elastic Kubernetes Service ) Tutorial | JavaTechie" },
+    { "id": "nNINuF5s32k", "title": "Automate Task Scheduling | Spring Boot Tasks on Kubernetes with Cron Jobs | @Javatechie" },
+    { "id": "lUQ4y74LWgw", "title": "Docker Init | Streamlining Dockerization for Any Application in Minutes 🚀 | JavaTechie" },
+    { "id": "aNBSd7T-RGA", "title": "Kafka Error Handling with Spring Boot | Retry Strategies & Dead Letter Topics | JavaTechie" },
     { "id": "9hFqmdLzJa0", "title": "🚀 Launching My Brand New DevOps For Developers Live Course FOR 90-DAYS | Enroll Now | 🔥 JavaTechie" },
     { "id": "FDowW7NAjmw", "title": "Spring Boot Interview Mastery 🔥 | Question & Answer Guide for Developers | Part-5 | @Javatechie" },
     { "id": "9dUPPHREF7w", "title": "Spring Boot 3.2 With Virtual Threads Explained | Benchmarking Insights | JavaTechie" },

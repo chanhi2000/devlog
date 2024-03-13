@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/eyICDvp0yioa1jRUdYMt28GzzwJ8lco6Yz5neP6OXkuBJFhuR9FlfHodzhiHixeL7lO2Ip0p4w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KnjvIsgEogg", "title": "Session 10- Java OOPS Concepts - Class, Object & Methods | Java & Selenium | 2024 New series" },
+    { "id": "LIA4GrlgTgM", "title": "Session 11- Java OOPS Concepts - Java Methods & Constructors | Java & Selenium | 2024 New series" },
+    { "id": "O6-yEvX3f9c", "title": "Session 12- Java OOPS Concepts -  Polymorphism & Encapsulation | Overloading | 2024 New series" },
+    { "id": "WccnkJkohhM", "title": "Session 13- Java OOPS Concepts - Usage of this and static keywords in Java | 2024 New series" },
+    { "id": "s-kZ5RM7EAc", "title": "Session 14- Java OOPS Concepts - Inheritance and Types of Inheritance in Java | 2024 New series" },
+    { "id": "sYe1sNphqXk", "title": "Session 15- Java OOPS Concepts - Method Overriding, final & super keywords in java | 2024 New series" },
+    { "id": "PBv0rQKrgXg", "title": "Session 16- Java OOPS Concepts - Data Abstraction | Interface Concept in Java | 2024 New series" },
+    { "id": "bcw9Tqqqb7Q", "title": "Session 17- Wrapper Classes | Data Conversion | Packages | Access Modifiers  | 2024 New series" },
+    { "id": "EjqrvYZpvns", "title": "Session 18- Exception Handling in Java | Try..Catch..Finally Blocks | 2024 New series" },
     { "id": "3ehenPER6To", "title": "Session 5- Working with Java Loops & Jump Statements | Java & Selenium | 2024 New series" },
     { "id": "xX6kS8wDoeQ", "title": "Session 6- Working with Java Arrays | Single & two dimensional | Java & Selenium | 2024 New series" },
     { "id": "nmkTPN7TLy4", "title": "Session 7- Working with Java Arrays | Coding Examples on Arrays | Java & Selenium | 2024 New series" },

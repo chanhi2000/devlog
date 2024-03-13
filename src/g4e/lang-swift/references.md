@@ -18,6 +18,12 @@ tag:
 
 ---
 
+## Swift 
+
+- [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
+
+---
+
 ## Official Docs
 
 - [WebObjectsOverview](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)

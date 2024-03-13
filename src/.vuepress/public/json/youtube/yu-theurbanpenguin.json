@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/C-3jr3nU2LiG6dSdDXYNrpo2JckIO8zR20cu4ReuZhtRVfkoIUsGXGL4sNaYpt2KbNRMYzDXv8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "u-3amrvANSs", "title": "ChatGPT Demo: Exploring US States with Capital and Population Data" },
+    { "id": "lkeyWJiKv4A", "title": "Understanding Systemd Socket Units By Creating Your Own QOTD Service" },
+    { "id": "8s2P-FuZfLk", "title": "ChatGPT: A Practical Guide to Prompt Engineering Examples" },
+    { "id": "zRyL_iSKdl8", "title": "Coding with ChatGPT: Generating UK Lottery Numbers with Python" },
+    { "id": "DzBtIS-v6Ig", "title": "How To Make Your Own Linux Fortune Cookies" },
+    { "id": "sR4IpclSXlY", "title": "Master Webscraping with grep and sed" },
+    { "id": "zQIjLOfJSV4", "title": "Master Systemd Path Units in Rocky Linux" },
     { "id": "A21igrrrdrE", "title": "Using Ansible to Implement Firewalld Firewalls in Ubuntu and Rocky Linux" },
     { "id": "m_fIwnZcYUE", "title": "Scripting APT Updates using Bash Shell Scripts" },
     { "id": "n0xkt0wFSFg", "title": "Learn French Conversation with ChatGPT" },

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/NzV6mYZEMVUqiIieMb1cAqVohsXOpiMByt-M2bbhjJlvbLbBRZ4cQ1PmU-tM9msiTpA1NQtveg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "khHJ7CiKlH4", "title": "Building an Android App with Flutter | Trying Day Friday" },
+    { "id": "KBmZ5oFQaSs", "title": "LISTD Sprint Week - Day 1 | SvelteKit App Build | Maintenance, Planning and Prioritization" },
+    { "id": "OxL9q64xWuE", "title": "Everything I Learned Trying Laravel / PHP" },
+    { "id": "3dB5dCREdvA", "title": "LISTD Sprint Week - Day 2 | SvelteKit App Build | Pair Programming | MVP Features!!!" },
     { "id": "fnQdZdxYxrU", "title": "XSS Explained with React and Vanilla JS Examples | Cross Site Scripting | dangerouslySetInnerHTML" },
     { "id": "9WoPx8vdbcs", "title": "SQL Injection | Learning to Hack with Try Hack Me" },
     { "id": "Zp5IktQhnnE", "title": "Trying Godot | Doing the 3D Game Tutorial | Try Day Friday" },

@@ -1059,5 +1059,10 @@
     "desc": "List of free GPTs that doesn't require plus subscription",
     "officialSite": "",
     "topics": ["ai", "awesome", "awesome-list", "gpt"]
+  }, {
+    "repo": "doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "officialSite": "https://doocs.github.io/source-code-hunter",
+    "topics": ["dubbo", "mybatis", "netty", "redis", "sourcecode-analysis", "spring"]
   }
 ]

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "tryexponent",
+    "name": "Exponent",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lQqsnGOLbg6gy2NLAzG_Yujzra13fOWAPyEG30hw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YycJ2Ql3RY344u2t7YNwYCrSv-cCb3VjkfvIhK9erutQuUdB3o6rynK1AQCfV-a_trg6ClWEJw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_Y7E2YKfuFM", "title": "ML Training Data vs. Testing Data (Key Differences)" },
+    { "id": "ZcituUOnfQI", "title": "Gradient Descent Explained: Batch, Mini-Batch, and Stochastic (Simple)" },
+    { "id": "4d58jmAoSdk", "title": "Importance of Feature Scaling and Normalization" },
+    { "id": "xNK1yT1vy6M", "title": "Classification vs. Regression in Machine Learning" },
+    { "id": "w9ipP9kPpFc", "title": "When to Refresh an ML Model" },
+    { "id": "Y5DVYLmmdrw", "title": "Handling Exploding Gradients in Machine Learning" },
+    { "id": "lRf2AXCzMkQ", "title": "“What are your salary expectations?” | Salary Negotiation Interview" },
+    { "id": "SdP4ygpTmNw", "title": "How Do I Know My Offer Is Good? | Salary Negotiation Interview" },
+    { "id": "7tLMslk1Zm8", "title": "Essential ML Engineer Interview Questions (with Snapchat MLE)" },
+    { "id": "VtsQXHXRmGM", "title": "Software Engineer Behavioral Interview - What's Your Proudest Project? (with Formation CEO)" },
+    { "id": "2uqhyOD2euo", "title": "Machine Learning Interview - Design an ML Model To Predict App Deletion" },
+    { "id": "krDQ54H-JJo", "title": "Machine Learning Interview - Implement the KNN Algorithm (with Snapchat MLE)" }   
+  ]
+}

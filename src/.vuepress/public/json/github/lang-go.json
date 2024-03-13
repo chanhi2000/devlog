@@ -1264,5 +1264,10 @@
     "desc": "Ethereum implementation on the efficiency frontier",
     "officialSite": "",
     "topics": ["blockchain", "ethereum"]
+  }, {
+    "repo": "open-policy-agent/opa",
+    "desc": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+    "officialSite": "https://www.openpolicyagent.org",
+    "topics": ["authorization", "cloud-native", "compliance", "declarative", "doge", "json", "lolcat", "opa", "open-policy-agent", "policy"]
   }
 ]
