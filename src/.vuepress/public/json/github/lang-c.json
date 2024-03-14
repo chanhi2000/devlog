@@ -804,5 +804,15 @@
     "desc": "FVWM version 3 -- the successor to fvwm2",
     "officialSite": "",
     "topics": ["fvwm", "fvwm3", "window-manager", "x11-wm"]
+  }, {
+    "repo": "Next-Flip/Momentum-Firmware",
+    "desc": "🐬 Feature-rich, stable and customizable Flipper firmware",
+    "officialSite": "https://momentum-fw.dev",
+    "topics": ["custom", "custom-firmware", "firmware", "flipper", "flipper-zero", "flipper-zero-firmware", "flipperzero", "momentum"]
+  }, {
+    "repo": "open-simh/simh",
+    "desc": "The Open SIMH simulators package",
+    "officialSite": "https://opensimh.org/",
+    "topics": []
   }
 ]

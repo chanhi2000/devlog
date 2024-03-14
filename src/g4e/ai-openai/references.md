@@ -24,6 +24,10 @@ tag:
 
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 
+### Documentation
+
+- [Assistants API](https://platform.openai.com/docs/assistants/overview?context=with-streaming)
+
 ---
 
 ## GPT

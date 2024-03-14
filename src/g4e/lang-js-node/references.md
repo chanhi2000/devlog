@@ -190,6 +190,7 @@ tag:
 ## Robin Wieruch
 
 - [main](https://www.robinwieruch.de/blog)
+- [10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends/)
 
 ---
 
@@ -729,10 +730,14 @@ tag:
 
 ---
 
+## eieio.games
+
+- [BREAKTIME](https://eieio.games/nonsense/game-13-breaktime/)
+
+---
+
 ## Misc
 
-- [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
-- [Can I use](https://caniuse.com)
 - [Create Next Stack: The ultimate starter kit for Next.js](https://www.create-next-stack.com)
 
 ---

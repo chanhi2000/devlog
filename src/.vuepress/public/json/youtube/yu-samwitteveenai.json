@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "samwitteveenai",
+    "name": "Sam Witteveen",
+    "profile": "https://yt3.googleusercontent.com/pcbOedZ-2mp9HN2TVxntXAfc_p-MLzlcDjBNJ94G952O_g8KUgLZ2TgeA14r6RW_99zTnbKegw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/d-ZfrUaGIkvRxy-aPwAAFLkyYGFtTFWgeVqOfrj7d95mtvBuUo0IgyEKdkOEstng2-cREMxa=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Y_k3bHPcPTo", "title": "MetaVoice 1B - TTS & Voice Cloning" },
+    { "id": "PqS1kib7RTw", "title": "LangGraph Crash Course with code examples" },
+    { "id": "9NJ196KlAE0", "title": "Ollama - Libraries, Vision and Updates" },
+    { "id": "_TUvb6NtpGA", "title": "Image Annotation with LLava & Ollama" },
+    { "id": "Pvk4vqescz4", "title": "Gemini 1.5 for Summarization" },
+    { "id": "pt78XWrOEVk", "title": "Gemini 1.5 Pro for Video Analysis" },
+    { "id": "W7xYXCQQvss", "title": "Introducing Gemma - 2B 7B 6Trillion Tokens" },
+    { "id": "0xhZ2OhGNDg", "title": "Running Gemma using HuggingFace Transformers or Ollama" },
+    { "id": "I3YE1ESKiN8", "title": "Gemini 1.5 Pro for Code - Part 01" },
+    { "id": "YJeJiSWgtlE", "title": "Mistral Large with Function Calling - Review and Code" },
+    { "id": "qd-jfgyd4c0", "title": "Claude 3 - The best is not what you think." },
+    { "id": "LaO8OrII3t4", "title": "Cohere's Command-R a Strong New Model for RAG" }
+  ]
+}

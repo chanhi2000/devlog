@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/82wasPpOknXCNhUUhDyLW-HGPvPPgnzBlss8878LXtvXGf4GX9c6rmpiOUEKCguO6Am_e_u1=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YVl87Qw_yzk", "title": "Add Push Notifications to an iOS PWA (w / Nuxt & FCM)" },
     { "id": "QNh0hrmlOhY", "title": "Nuxt3 TDD Todo app (part 2) PlanetScale + Prisma + Authentication 🚀" }, 
     { "id": "Ev9YLaLvAJM", "title": "Build a React Bookmark app from scratch (Learn React Hooks)" }, 
     { "id": "8jOVi4fRSKo", "title": "How To Use The Vue Composition API 🛠️ A Vue 3 Sneak Peek" }

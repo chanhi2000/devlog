@@ -1178,5 +1178,20 @@
     "desc": "What impact does floating point precision have on Mandelbrot set calculations?",
     "officialSite": "",
     "topics": ["floating-point", "fractal", "mandelbrot-set", "numerical-analysis"]
+  }, {
+    "repo": "suyu-emu/suyu",
+    "desc": "suyu, pronounced \"sue-you\" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.",
+    "officialSite": "https://suyu.dev/",
+    "topics": []
+  }, {
+    "repo": "flox/flox",
+    "desc": "Developer environments you can take with you",
+    "officialSite": "https://flox.dev",
+    "topics": ["developer-tools", "development-environment", "nix", "package-manager", "virtual-environments"]
+  }, {
+    "repo": "EricLengyel/Terathon-Math-Library",
+    "desc": "C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.",
+    "officialSite": "",
+    "topics": []
   }
 ]

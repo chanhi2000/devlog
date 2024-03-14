@@ -39,7 +39,6 @@ tags:
   - "@NaNyunJae"
   - "@1under"
   - "@MattKC"
-  - "@AnsonAlexander"
   - "@techmong"
   - "@Keybored"
   - "@gwigom"
@@ -92,7 +91,6 @@ tags:
 <MyYouTubeItems jsonName="yu-TV-bk8fv" /><!-- 김노무사 -->
 <MyYouTubeItems jsonName="yu-NaNyunJae" /><!-- 남중구의 IT강의 -->
 <MyYouTubeItems jsonName="yu-MattKC" /><!-- MattKC -->
-<MyYouTubeItems jsonName="yu-AnsonAlexander" /><!-- Anson Alexander -->
 <MyYouTubeItems jsonName="yu-techmong" /><!-- 테크몽 Techmong -->
 <MyYouTubeItems jsonName="yu-Keybored" /><!-- Keybored -->
 <MyYouTubeItems jsonName="yu-kundol" /><!-- 큰돌의터전 -->

@@ -34,6 +34,12 @@ tag:
 
 ---
 
+## Fermyon
+
+- [Introducing SpinKube and Fermyon Platform for Kubernetes](https://www.fermyon.com/blog/introducing-spinkube-fermyon-platform-for-k8s)
+
+---
+
 ## Medium
 
 - [Kubernetes commands that every developer must know ☸](https://medium.com/@InzamamAhmad/kubernetes-commands-that-every-developer-must-know-192d2bc40608)

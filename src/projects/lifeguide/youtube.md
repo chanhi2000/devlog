@@ -107,5 +107,6 @@ head:
 <MyYouTubeItems jsonName="yu-CarTip1004" /><!-- 카팁 -->
 <MyYouTubeItems jsonName="yu-dyom.y" /><!-- 됴미 -->
 <MyYouTubeItems jsonName="yu-masterchoi_" /><!-- Master Choi -->
+<MyYouTubeItems jsonName="yu-numolri" /><!-- 너만몰랐던리뷰 -->
 
 <TagLinks />

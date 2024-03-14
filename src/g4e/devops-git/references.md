@@ -152,4 +152,10 @@ description: 🛠️Git > 📚References
 
 ---
 
+## The If Works
+
+- [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
+
+---
+
 <TagLinks />

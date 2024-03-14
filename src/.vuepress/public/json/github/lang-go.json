@@ -1269,5 +1269,10 @@
     "desc": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
     "officialSite": "https://www.openpolicyagent.org",
     "topics": ["authorization", "cloud-native", "compliance", "declarative", "doge", "json", "lolcat", "opa", "open-policy-agent", "policy"]
+  }, {
+    "repo": "lionsoul2014/ip2region",
+    "desc": "Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",
+    "officialSite": "",
+    "topics": ["c", "clang", "golang", "ip-address", "ip-address-database", "ip-address-location", "ip-location", "ip-lookup", "java", "lua", "lua-extension", "php", "rust", "xdb-engine"]
   }
 ]

@@ -109,6 +109,12 @@ head:
 
 ---
 
+## Storybook
+
+- [Storybook 8](https://storybook.js.org/blog/storybook-8/)
+
+---
+
 ## Dev.to
 
 - [about React](https://dev.to/t/react)

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/1iaL75MFwgvbo1BmztPGuztj1gE6Dpt8_RRu_VDzhx1ljC-3l1Ru4vdK7U57mZ3DG07ZeebE0g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HlpG_uR62V8", "title": "BeJS Podcast #6: A chat with Aleksandra Sikora" },
+    { "id": "Ohebxw8x7mA", "title": "A Chat with Josh Goldberg - BeJS Podcast #7" },
+    { "id": "LGZHiAr2Wdo", "title": "A chat with Debbie O'Brien" },
     { "id": "5E96qw0AZss", "title": "React Paris Full speaker lineup Announcement!" },
     { "id": "1mVhuhbVn64", "title": "BeJS Podcast#4: A chat with Daniel Afonso" },
     { "id": "bGzanfKVFeU", "title": "Goodbye, useEffect - David Khourshid" },

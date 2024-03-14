@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/S9acvDV0KaB1HLJMU4xkp2TAybeD7LJorOggTYlKbo9vAzIwZRzLX2yXg9oft8w4jKfA0ibA_Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IGxs5v26Teg", "title": "Rust keeps making JavaScript faster" },
+    { "id": "fknamfNtKk0", "title": "Why do developers hate Rust?" },
+    { "id": "P1cJJMLMEKk", "title": "Solving Rust’s biggest problem" },
     { "id": "UzoWLSZ-scQ", "title": "Rust's most wanted feature just arrived!" },
     { "id": "EYCBm0xAWow", "title": "5 things I wish I knew before learning Rust" },
     { "id": "ZSN_NaHSfhE", "title": "AWS now officially supports Rust!" },

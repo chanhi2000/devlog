@@ -383,13 +383,24 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 
 ```component VPCard
 {
-  "title": "Saaze ",
+  "title": "Saaze",
   "desc": "An all-inclusive, flat-file CMS for simple websites and blogs",
   "link": "https://saaze.dev",
   "logo": "https://saaze.dev/assets/favicon.png",
   "background": "rgba(42,38,87,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "Can I Use?",
+  "desc": "Can I use... Support tables for HTML5, CSS3, etc",
+  "link": "https://caniuse.com/",
+  "logo": "https://caniuse.com/img/favicon-128.png",
+  "background": "rgba(131,53,2,0.2)"
+}
+```
+
 
 ```component VPCard
 {

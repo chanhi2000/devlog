@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/UUS3sKc6KiBvkFmJtjuVwfcgUl7FPWGkVHjqpC2D7SdS6aqExzg-maoSDY8pN0jo-y4WzEPqEw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EwpT466EyP4", "title": "What is an ORM and what does it do?" },
+    { "id": "BCPTRCvASk0", "title": "Learn TypeORM in 10 Minutes" },
+    { "id": "LpDcOhhBX_A", "title": "Let's build an app with Angular, Express and TypeORM!" },
+    { "id": "v6I8MiFnvZg", "title": "Reactive Form Validation In Angular" },
+    { "id": "RysuMHXEpDk", "title": "This is a game changer for new developers using Windows #codenewbie" },
+    { "id": "bQNumLcku4U", "title": "12 Command Line Mistakes New Developers Make (and how to fix them)" },
     { "id": "kL7LhSVT_YQ", "title": "Should you use RawJS in your next project?" },
     { "id": "qOhLOxhYi7s", "title": "How To Create A New Angular Project" },
     { "id": "hC6Ke5xQIC4", "title": "How to use Angular Templating" },

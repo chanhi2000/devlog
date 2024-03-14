@@ -1064,5 +1064,10 @@
     "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
     "officialSite": "https://doocs.github.io/source-code-hunter",
     "topics": ["dubbo", "mybatis", "netty", "redis", "sourcecode-analysis", "spring"]
+  }, {
+    "repo": "ai-boost/awesome-prompts",
+    "desc": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "officialSite": "https://awesomegpts.vip",
+    "topics": ["awesome", "awesome-list", "chatgpt", "gpt4", "gpts", "gptstore", "papers", "prompt", "prompt-engineering"]
   }
 ]

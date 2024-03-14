@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "97i2BAUw5Xc", "title": "3 concepts to master the lowest level (try it right now)" },
+    { "id": "jtRHYQxbRxw", "title": "they put WHAT on the internet???" },
+    { "id": "frFZxdYLqVQ", "title": "LLVM == BASEDLANG" },
+    { "id": "BpjkfeAW2f0", "title": "Are the Arduino Libraries Useful?" },
+    { "id": "VLd9GZg8ALs", "title": "Reverse Engineering, but it's 100 Math Problems." },
+    { "id": "769VqNup21Q", "title": "why rust libraries may never exist." },
+    { "id": "aFpyK8QZPiI", "title": "Twitch Tries to Code." },
     { "id": "CulF4YQt6zA", "title": "i wrote my own memory allocator to prove a point" },
     { "id": "kdgq-OwsOs8", "title": "why does this array access work? (arrays in C are WEIRD)" },
     { "id": "-bJa4VEeQ2M", "title": "We Made Up. (Coding in a Random Language Every Day - Day 4)" },

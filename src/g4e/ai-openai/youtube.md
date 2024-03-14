@@ -126,5 +126,7 @@ tag:
 <MyYouTubeItems jsonName="yu-Buff_TV" /><!-- 버프TV -->
 <MyYouTubeItems jsonName="yu-TwoMinutePapers" /><!-- Two Minute Papers -->
 <MyYouTubeItems jsonName="yu-dev_brother" /><!-- 개발동생 -->
+<MyYouTubeItems jsonName="yu-samwitteveenai" /><!-- Sam Witteveen -->
+<MyYouTubeItems jsonName="yu-AnsonAlexander" /><!-- Anson Alexander -->
 
 <TagLinks />

@@ -131,7 +131,6 @@ head:
 <MyYouTubeItems jsonName="yu-java0405" /><!-- 김기태의 JAVA를 자바 -->
 <MyYouTubeItems jsonName="yu-freeleckor" /><!-- 프리렉 -->
 <MyYouTubeItems jsonName="yu-JavaGuides" /><!-- Java Guides -->
-<MyYouTubeItems jsonName="yu-RamNJava" /><!-- Ram N Java -->
 <MyYouTubeItems jsonName="yu-ResoCoder" /><!-- Reso Coder -->
 <MyYouTubeItems jsonName="yu-discospiff" /><!-- Brandan Jones -->
 <MyYouTubeItems jsonName="yu-DailyCodeBuffer" /><!-- Daily Code Buffer -->

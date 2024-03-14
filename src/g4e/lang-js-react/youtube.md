@@ -80,5 +80,6 @@ head:
 <MyYouTubeItems jsonName="yu-programmingwithmosh" /><!-- Programming with Mosh -->
 <MyYouTubeItems jsonName="yu-ByteGrad" /><!-- ByteGrad -->
 <MyYouTubeItems jsonName="yu-PedroTechnologies" /><!-- PedroTech -->
+<MyYouTubeItems jsonName="yu-RedwoodJS" /><!-- RedwoodJS -->
 
 <TagLinks />

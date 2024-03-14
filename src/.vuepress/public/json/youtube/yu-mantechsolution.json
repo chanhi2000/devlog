@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "mantechsolution",
+    "name": "맨텍솔루션",
+    "profile": "https://yt3.googleusercontent.com/tkrK2YdfPm2NM7ZMzPkfDZov9St8V_AwnF4FXKQTO2RUPfQD7UoRB2TGz-HVSz3wf4AP4IO-EA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Xiatv5sMYMrl_a5stQR9QaMVEvuagqHqOjSWPjcWDphED4TQhSFflUWeVMqKa7dEot0D7wH6=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pHC4fLkzd-c", "title": "재해복구 운영? 자동화가 필수죠! | 핀잇" },
+    { "id": "7KIEsTVzGYk", "title": "원격지 데이터 전송시 네트워크 퍼포먼스 저하로 어려움을 겪고 계신가요?" },
+    { "id": "gGIJGR4fcf0", "title": "실시간 데이터 복제 상태를 쉽고 편리하게 모니터링하고 싶으신가요?" },
+    { "id": "S15l4AvacAA", "title": "특정 시간대에 데이터 복제가 필요하신가요?" },
+    { "id": "bCuv1-jhiwI", "title": "1:1, 1:N, N:1 다양한 구성의 데이터 복제가 필요하신가요?" },
+    { "id": "qbg5qS7yUvQ", "title": "클라우드 센터로 데이터 복제를 계획 중이신가요?" }
+  ]
+}

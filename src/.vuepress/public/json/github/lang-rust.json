@@ -1189,5 +1189,20 @@
     "desc": "Comma Separated Values (CSV) to Unicode Separated Values (USV) Rust crate",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "veryl-lang/veryl",
+    "desc": "Veryl: A Modern Hardware Description Language",
+    "officialSite": "",
+    "topics": ["rtl", "rust", "systemverilog", "verilog"]
+  }, {
+    "repo": "PistonDevelopers/piston",
+    "desc": "A modular game engine written in Rust",
+    "officialSite": "https://www.piston.rs",
+    "topics": ["modular-game-engine", "piston", "rust"]
+  }, {
+    "repo": "sethm/dmd_core",
+    "desc": "AT&T / Teletype DMD5620 Terminal Emulator core library",
+    "officialSite": "https://loomcom.com/3b2/dmd5620_emulator.html",
+    "topics": ["emulator", "terminal-emulator", "unix"]
   }
 ]

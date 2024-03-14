@@ -2398,5 +2398,15 @@
     "desc": "Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.",
     "officialSite": "https://react.onedoclabs.com/",
     "topics": ["document", "documents", "front-end", "html", "javascript", "layout", "open-source", "opensource", "pdf", "pdf-generator", "pdf-library", "pdf-manipulation", "pdf-reader", "pdf-reports", "print", "react", "react-print", "ui", "ui-kit", "ycombinator"]
+  }, {
+    "repo": "tiangolo/full-stack-fastapi-template",
+    "desc": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+    "officialSite": "",
+    "topics": ["backend", "chakra-ui", "docker", "fastapi", "frontend", "json", "json-schema", "jwt", "letsencrypt", "openapi", "postgresql", "python", "react", "sqlmodel", "swagger", "tanstack-query", "tanstack-router", "traefik", "typescript"]
+  }, {
+    "repo": "jacoblee93/fully-local-pdf-chatbot",
+    "desc": "Yes, it's another chat over documents implementation... but this one is entirely local!",
+    "officialSite": "https://webml-demo.vercel.app",
+    "topics": []
   }
 ]

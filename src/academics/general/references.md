@@ -27,6 +27,8 @@ tag:
 ## Pdf
 
 - [Sampling: What Nyquist Didn’t Say, and What to Do About It](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
+- [Projective Geometric Algebra](https://projectivegeometricalgebra.org/projgeomalg.pdf)
+- [Conformal Geometric Algebra](https://projectivegeometricalgebra.org/confgeomalg.pdf)
 
 ---
 
@@ -214,6 +216,12 @@ tag:
 ## Border Guards
 
 - [Quantum Soccer](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
+
+---
+
+## arXiv.org
+
+- [Tilman Sauer: Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
 
 ---
 
