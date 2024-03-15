@@ -339,5 +339,10 @@
     "desc": "",
     "officialSite": "",
     "topics": ["auto-vectorisation", "auto-vectorization", "burst", "component", "containers", "csharp", "documentation", "ecs", "entity", "high", "jobs", "multicore", "multicore-processors", "multicore-programming", "native", "performance", "simd", "system", "tutorials", "unity3d"]
+  }, {
+    "repo": "dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "officialSite": "https://asp.net",
+    "topics": ["aspnetcore", "dotnet", "hacktoberfest", "help-wanted"]
   }
 ]

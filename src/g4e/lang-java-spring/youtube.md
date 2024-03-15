@@ -69,5 +69,7 @@ head:
 <MyYouTubeItems jsonName="yu-datmt_dev" /><!-- datmt -->
 <MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 코딩하는오후 -->
 <MyYouTubeItems jsonName="yu-RamNJava" /><!-- Ram N Java -->
+<MyYouTubeItems jsonName="yu-GenuineCoder" /><!-- Genuine Coder -->
+<MyYouTubeItems jsonName="yu-ProgrammingTechie" /><!-- Programming Techie -->
 
 <TagLinks />

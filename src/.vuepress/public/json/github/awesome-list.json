@@ -1069,5 +1069,10 @@
     "desc": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
     "officialSite": "https://awesomegpts.vip",
     "topics": ["awesome", "awesome-list", "chatgpt", "gpt4", "gpts", "gptstore", "papers", "prompt", "prompt-engineering"]
+  }, {
+    "repo": "krishnaik06/Data-Science-Gen-AI-Playlist-2024",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -37,7 +37,6 @@ tag:
   - "@priyatalkstech6534"
   - "@aptkode"
   - "@fosdemtalks"
-  - "@GenuineCoder"
   - "@alexlorenlee"
   - "@1BestCsharpblog"
   - "@RomanianCoder"
@@ -66,7 +65,6 @@ tag:
   - "@gamefromscratch"
   - "@GiuseppeScaramuzzino"
   - "@JavaInUse"
-  - "@ProgrammingTechie"
   - "@Touchlab"
   - "@atl.academy"
   - "@springcampkr"
@@ -152,7 +150,6 @@ head:
 <MyYouTubeItems jsonName="yu-priyatalkstech6534" /><!-- Priya Talks Tech -->
 <MyYouTubeItems jsonName="yu-aptkode" /><!-- aptkode -->
 <MyYouTubeItems jsonName="yu-fosdemtalks" /><!-- FOSDEM -->
-<MyYouTubeItems jsonName="yu-GenuineCoder" /><!-- Genuine Coder -->
 <MyYouTubeItems jsonName="yu-alexlorenlee" /><!-- Alex Lee -->
 <MyYouTubeItems jsonName="yu-1BestCsharpblog" /><!-- 1BestCsharp blog -->
 <MyYouTubeItems jsonName="yu-RomanianCoder" /><!-- Dan Geabunea (Romanian Coder) -->
@@ -181,7 +178,6 @@ head:
 <MyYouTubeItems jsonName="yu-gamefromscratch" /><!-- Gamefromscratch -->
 <MyYouTubeItems jsonName="yu-GiuseppeScaramuzzino" /><!-- Giuseppe Scaramuzzino -->
 <MyYouTubeItems jsonName="yu-JavaInUse" /><!-- JavaInUse -->
-<MyYouTubeItems jsonName="yu-ProgrammingTechie" /><!-- Programming Techie -->
 <MyYouTubeItems jsonName="yu-Touchlab" /><!-- Touchlab -->
 <MyYouTubeItems jsonName="yu-atl.academy" /><!-- ATL Academy (by Lucas Moy) -->
 <MyYouTubeItems jsonName="yu-springcampkr" /><!-- SpringCamp by KSUG -->

@@ -2421,7 +2421,7 @@
     "officialSite": ""
   }, {
     "repo": "Pythagora-io/gpt-pilot",
-    "desc": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+    "desc": "The first real AI developer",
     "officialSite": "",
     "topics": ["ai", "codegen", "coding-assistant", "developer-tools", "gpt-4", "research-project"]
   }, {
@@ -4462,6 +4462,16 @@
   }, {
     "repo": "oldherl/syllazh",
     "desc": "Linux TTY font for Chinese, but treat it as a syllabic writing / 中文 Linux TTY 字体，但是表音文字",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "BAAI-Agents/Cradle",
+    "desc": "The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Skyvern-AI/skyvern",
+    "desc": "Automate browser-based workflows with LLMs and Computer Vision",
     "officialSite": "",
     "topics": []
   }

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/0_niFavz4DhmkPH4iAd8zCfCCqoKH4eytZHxE3X020hGECSWYBZM6rPit8ymXqAw0mg91OnDCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "N9RCWhZgMuU", "title": "This SPEED is getting RIDICULOUS! - SQL Queries with Entity Framework Core BulkExtensions" },
     { "id": "WkQwW-r2a1Q", "title": "One step to DOUBLE the Speed for your Queries? - Its Bulk Insertion in Entity Framework Core" },
     { "id": "UnSYbu1oOfE", "title": "What you DID NOT know about Network Protocols - FTP, FTPS, and SFTP" },
     { "id": "i0DX8U5ttqQ", "title": "Linux Terminal for Beginners - The Complete Starter Guide" },

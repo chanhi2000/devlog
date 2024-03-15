@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "IMSAIGuy",
+    "name": "IMSAI Guy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lUG6GHaPpcvYCoTPBhTGppzf6yQw7NTmqttIck=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S5KMXJMIivWEVAQifn_OfN6x8d_kTk8mkDk3uN3gzFEoJkAB_VsYb1ib11pmCSo8E7oNsIqS6A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Bgrubw6B_us", "title": "#1099 How I learned electronics" },
+    { "id": "M_xYDsaXRzE", "title": "#1776 Darlington and Sziklai Transistors" },
+    { "id": "t3e4X523Kfo", "title": "#1781 Gyrator (part 1 of 4)" },
+    { "id": "df9YCg59l3Y", "title": "#1785 HP/Harrison Power Supply Circuit" },
+    { "id": "hn93K3Spatw", "title": "#1786 Two Transistor NPN PNP Oscillator" },
+    { "id": "3w7iausYaCc", "title": "#1790 Transistor Teaching PC Board" },
+    { "id": "FZkHGGrnlF4", "title": "#1793 CEM 3340 VCO" }
+  ]
+}

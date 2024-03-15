@@ -10,10 +10,10 @@
     "officialSite": "https://www.monicahq.com",
     "topics": []
   }, {
-    "repo": "laravel/breeze",
-    "desc": "Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.",
-    "officialSite": "https://laravel.com/docs/starter-kits#laravel-breeze",
-    "topics": []
+    "repo": "laravel/laravel",
+    "desc": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+    "officialSite": "https://laravel.com",
+    "topics": ["framework", "laravel", "php"]
   }, {
     "repo": "openai-php/laravel",
     "desc": "⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API",

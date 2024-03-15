@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "tambuwalmathsclass",
+    "name": "Tambuwal Maths Class",
+    "profile": "https://yt3.googleusercontent.com/9CeE3e18p29PUWbYTMmGO8mizJZDzV8RydWKGjNrLtcw3xSvzv4ToNq2o2aB4rnQV06mP2nNcg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nwa7K18TjlBqqWLfOwoVgRYesSEonB3TtdzqMfmyO-FvAwPmKirRB8pLD5wb3uDSOr8RaJul=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OmaQjfgQ5EU", "title": "Sin(60⁰+arcsin(½))" },
+    { "id": "nLV8-5Q6xtc", "title": "4^x = 8" },
+    { "id": "nGef-meYOl8", "title": "Beautiful Logarithmic Equation" },
+    { "id": "_ggQgcpX4Ew", "title": "Profitable Pen Puzzle: Solving for Number of Pens Sold at 25% Profit Margin" },
+    { "id": "WprMoN6LLOQ", "title": "Linear inequality | open and close intervals" },
+    { "id": "EjJLMIiN1cY", "title": "Olympiad Math | An interesting complex problem." },
+    { "id": "EzaZjBWJvak", "title": "How to resolve double inequality" },
+    { "id": "DB1eyn56dmo", "title": "Linear inequality containing rational function" },
+    { "id": "1-UWsHj0oLU", "title": "Derivative of 4ˣ" },
+    { "id": "CWE9Q-EpIkQ", "title": "Inequality | Rational Function" },
+    { "id": "E-xQBhzz-JI", "title": "Simultaneous Linear Equations consisting 3 unknown variables" },
+    { "id": "nQN_gvHtv1s", "title": "Rational Inequality" },
+    { "id": "TdWvEaEHm1E", "title": "Rational Inequality (x-4)/(x+5) ≤ 4" },
+    { "id": "ILXePovyvmE", "title": "Beautiful Exponential Equation" },
+    { "id": "BswV2V3iDQU", "title": "Rational Inequality | 1/(1+x) + 2/(1-x²) ≤ 2/(x-1)" },
+    { "id": "q0PCEb3vdiU", "title": "Find a partial differential equation whose general solution is  u = f(3x-4y)" },
+    { "id": "q0PCEb3vdiU", "title": "Find a partial differential equation whose general solution is  u = f(3x-4y)" },
+    { "id": "fXQoy_g6XDU", "title": "Quadratic Inequality | x²-x-6 less than 0" },
+    { "id": "IDSDv1-4THc", "title": "Problem on Quadratic Inequality" },
+    { "id": "RKiXx_RdujM", "title": "Conditions for Quadratic Inequality" },
+    { "id": "T9ITHYuKlCE", "title": "Exploring 8 Quadratic Inequalities: A Step-by-Step Analysis" },
+    { "id": "67M6BvX_law", "title": "Factorial Equation" },
+    { "id": "WDycaCkr-GQ", "title": "Find the value of a if 4x²-12x+3a is a perfect square quadratic expression." },
+    { "id": "KWiNsiNI670", "title": "Rational inequality involving quadratic functions | [(x²-x-6)/(x²+4x-5)]≥0" },
+    { "id": "ruw0qDf4vZI", "title": "Simple Olympiad Math Question" },
+    { "id": "sQ00VUfc-14", "title": "Rational inequality involving quadratic functions | [(x²-x-6)/(x²+4x-5)]≤0" },
+    { "id": "mMg4YDX2iDc", "title": "Simplifying Trigonometric Expression | if y=cosx show that y√(2y²-1)=√(2sin²x-2)(sin²x-1)" },
+    { "id": "PMm5g8SBjzY", "title": "What to avoid in solving rational inequality" }
+  ]
+}

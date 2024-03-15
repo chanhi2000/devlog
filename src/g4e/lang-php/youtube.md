@@ -38,5 +38,6 @@ tag:
 <MyYouTubeItems jsonName="yu-mouredev" /><!-- MoureDev by Brais Moure -->
 <MyYouTubeItems jsonName="yu-projectworld8632" /><!-- project world -->
 <MyYouTubeItems jsonName="yu-QiroLab" /><!-- QiroLab -->
+<MyYouTubeItems jsonName="yu-auztuts" /><!-- AUZ Tutorials -->
 
 <TagLinks />

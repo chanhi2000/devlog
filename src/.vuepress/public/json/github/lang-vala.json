@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "RajSolai/TextSnatcher",
+    "desc": "How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop.",
+    "officialSite": "https://textsnatcher.rf.gd/",
+    "topics": ["elementary-apps", "flatpak", "gtk3", "libhandy", "linux-app", "meson", "ocr", "tesseract-ocr", "vala"]
+  }
+]

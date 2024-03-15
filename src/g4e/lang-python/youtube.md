@@ -91,5 +91,10 @@ tag:
 <MyYouTubeItems jsonName="yu-itrun" /><!-- 형님IT -->
 <MyYouTubeItems jsonName="yu-brendancodes" /><!-- BK Binary -->
 <MyYouTubeItems jsonName="yu-jejucodingcamp" /><!-- 제주코딩베이스캠프 -->
+<MyYouTubeItems jsonName="yu-ClearCode" /><!-- Clear Code -->
+<MyYouTubeItems jsonName="yu-KianBrose" /><!-- Kian Brose -->
+<MyYouTubeItems jsonName="yu-1mrnewton" /><!-- Mr. Newton -->
+<MyYouTubeItems jsonName="yu-codebasics" /><!-- codebasics -->
+<MyYouTubeItems jsonName="yu-mrdbourke" /><!-- Daniel Bourke -->
 
 <TagLinks />

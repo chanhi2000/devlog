@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "itseorab",
+    "name": "IT서랍",
+    "profile": "https://yt3.googleusercontent.com/KoIDmeb5As3Hq2xwg_2Gx4ISxB_WfH68zLPdUlA5KrGo_-WxNO4XhDkEqQfiA57RNsucsP9FXBM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "R_HqtUROfxI", "title": "안보면 손해인 엑셀에서 \"만능함수\" 만드는 법" },
+    { "id": "SVO32ur-69I", "title": "진짜??? 365수식만으로 간트챠트를 구현한다고??" },
+    { "id": "XSgWfIzN1iA", "title": "VBA 없이, 엑셀365 함수만으로 \"섯다게임\" 만들기 (1부)" },
+    { "id": "JXul5S62Ldg", "title": "#017B VBA 없이, 엑셀365 함수만으로 \"섯다게임\" 만들기 (2부)" },
+    { "id": "DdYqshMP_J8", "title": "#018 \"다중 조건 검색\"이 가능한 데이터 필터링 함수 만들기" },
+    { "id": "g070BU204yQ", "title": "#019 엑셀함수로 해찾기 로직을 구현해봅시다! 참 쉽죠?!" },
+    { "id": "e2E87OeceBM", "title": "#020 엑셀에서 날짜와 시간은 \"이렇게\" 쓰는겁니다." },
+    { "id": "iaGl4UO2ICY", "title": "#021 1초만에 데이터가공을 자동으로 완성시켜줍니다" }
+  ]
+}

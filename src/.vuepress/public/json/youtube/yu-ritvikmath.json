@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/-rCmCQJVASU_pb0AvQszD1DvLCjEOzdH-UtimFKTxaRew6J-Uj3g3SITNjsiNbibvFhy0Oi2_g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HpwEMld3uVo", "title": "The Dirichlet Distribution : Data Science Basics" },
+    { "id": "mxpGtL7W5Gg", "title": "How the Heck do Bending Genetics work in Avatar the Last Airbender?" },
+    { "id": "l_ReCLzMkkQ", "title": "I Used Data Science to Buy the Dip" },
+    { "id": "Tcyz0AG5ktA", "title": "The Best Data Visualization of All Time" },
     { "id": "ozD57MJ7FYg", "title": "The Easy Trick to Understand any Data Science Formula" },
     { "id": "8TWyNQGW6NI", "title": "Detecting Phrases with Data Science : Natural Language Processing" },
     { "id": "jFu20v5Rp44", "title": "ChatGPT vs Google Bard for Resume Writing!" },

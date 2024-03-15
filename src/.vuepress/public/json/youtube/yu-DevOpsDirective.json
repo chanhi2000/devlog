@@ -7,8 +7,6 @@
   },
   "videos": [
     { "id": "Jk0xrN4crqg", "title": "Should you Self-Host Kubernetes?" },
-    { "id": "RqTEHSBrYFw", "title": "Complete Docker Course - From BEGINNER to PRO! (Learn Containers)" }, 
-    { "id": "7xngnjfIlK4", "title": "Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)" },
     { "id": "RqTEHSBrYFw", "title": "Complete Docker Course - From BEGINNER to PRO! (Learn Containers)" },
     { "id": "XltFOyGanYE", "title": "Kubernetes 101: Deploying Your First Application!" },
     { "id": "7xngnjfIlK4", "title": "Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)" }

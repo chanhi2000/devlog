@@ -1274,5 +1274,15 @@
     "desc": "Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",
     "officialSite": "",
     "topics": ["c", "clang", "golang", "ip-address", "ip-address-database", "ip-address-location", "ip-location", "ip-lookup", "java", "lua", "lua-extension", "php", "rust", "xdb-engine"]
-  }
+  }, {
+    "repo": "redis/go-redis",
+    "desc": "Redis Go client",
+    "officialSite": "https://redis.uptrace.dev",
+    "topics": ["go", "golang", "redis", "redis-client", "redis-cluster"]
+  }, {
+    "repo": "panjf2000/gnet",
+    "desc": "🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",
+    "officialSite": "https://gnet.host",
+    "topics": ["epoll", "event-driven", "event-loop", "go", "golang", "goroutine", "io", "kqueue", "network", "networking", "non-blocking", "reactor", "tcp", "udp", "unix-domain-socket"]
+  }  
 ]

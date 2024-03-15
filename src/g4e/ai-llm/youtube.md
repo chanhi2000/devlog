@@ -29,5 +29,6 @@ tag:
 <MyYouTubeItems jsonName="yu-user-bv8if5qg9l" /><!-- 빅데이터 혁신융합대학 -->
 <MyYouTubeItems jsonName="yu-SecondStateInc" /><!-- Second State -->
 <MyYouTubeItems jsonName="yu-thewilltejeda" /><!-- Will Tejeda -->
+<MyYouTubeItems jsonName="yu-kskroyaltech" /><!-- Ksk Royal -->
 
 <TagLinks/>

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "KianBrose",
+    "name": "Kian Brose",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l8WoJBfmw3vdGgJUE6xX3jndQsgqoz054jEuY_lA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bdfv53fbrM_uH_u_TrT3tRK8WLxNkM65pLXIjlZ4TtyEDIUkxWmjh7YNCad4JvH9--Ob2MiSUg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ot7SeZvfBA0", "title": "Making a mod menu is easy! (Here's how to make one with Python and Cheat Engine)" }
+  ]
+}

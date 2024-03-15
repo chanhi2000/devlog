@@ -22,6 +22,7 @@ tag:
 
 - [WASI support in Go](https://go.dev/blog/wasi)
 - [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
+- [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 
 ---
 

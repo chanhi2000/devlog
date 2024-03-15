@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/D6JP3tbuMHTeuMqKL8iekuzx_VSnUuyp34LDvZ2DJ7y8kWIQprgKoaWW4QTSyix0neOxIBSv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UWiQZQPK9OM", "title": "Azure DevTest Lab Demo" },
+    { "id": "79DHG2LvLf4", "title": "How to add a VM to DevTest Lab Environment (Part 2)" },
+    { "id": "eRnJ9eOq_Jg", "title": "Azure DevTest Lab Part 3 - DevTest Lab Configuration and Policies" },
+    { "id": "H6YQ3zQO6Rw", "title": "Azure में Billing details चेक करने का सबसे आसान तरीका" },
+    { "id": "37xZAaGUBWE", "title": "MS Azure 104 - Sql Database vs. Sql Managed Instance vs. Sql Server on VM" },
+    { "id": "joCzUHdxRCs", "title": "Azure AZ 104 - Sql  Database  कैसे बनाये।" },
+    { "id": "BlLd8aDipqM", "title": "Public vs. Private vs. Hybrid Cloud (पब्लिक क्लाउड  vs. प्राइवेट क्लाउड  vs. हाइब्रिड क्लाउड )" },
+    { "id": "gfYbHxinyQc", "title": "Azure Sql Database options (Sql Database Demo) Final Part" },
     { "id": "jud5txtrxIA", "title": "Lecture 2 Azure 104 - Microsoft Entra ID Concepts (Module 1 Unit 3)" },
     { "id": "156WDP_B80Y", "title": "Microsoft Exam Azure 104  - What is Azure Files, Benefits, Demo (Hindi)" },
     { "id": "Xmihh2H7Jb0", "title": "Microsoft Azure 104 - Module 1 Intro and Entra ID features and benefits (Unit 1 and 2)" },

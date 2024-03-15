@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/XK5Ah-M_WTVhgHjdeq8XA9Qs20NsIkuEOvMCk2ZCl7jys1RxdjUo4TSOnEvE4rNpBI0P0vCa=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rT-fbLFOCy0", "title": "I Read the Entire Neovim User Manual" },
+    { "id": "f1r6ozOy9yw", "title": "OCAML MY CAML" },
+    { "id": "tPPOzyboFBc", "title": "COME LEARN ABOUT C" },
+    { "id": "LaS32vctfOY", "title": "LSP Explained (in 5 Minutes)" },
+    { "id": "m8C0Cq9Uv9o", "title": "The Only Video You Need to Get Started with Neovim" },
+    { "id": "WYXl7psr5Ag", "title": "Writing an LSP from scratch (in Go!)" },
+    { "id": "09-9LltqWLY", "title": "tree-sitter explained" },
+    { "id": "ADlBQWV7tWc", "title": "Infinite Craft from Scratch" },
     { "id": "MQBr9hwf0BY", "title": "Neovim & Extensibility - My Talk from Jane Street" },
     { "id": "stqUbv-5u2s", "title": "Effective Neovim: Instant IDE" }
   ]

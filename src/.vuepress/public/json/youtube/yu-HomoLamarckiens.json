@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "HomoLamarckiens",
+    "name": "IQ95 The Homo Lamarckiens",
+    "profile": "https://yt3.googleusercontent.com/FJ3Ly6fSSi4wkQdutetNPdlEdq6xfX3BV8BJ-oSDMQz2h7XsPPFbx8eM9mxz4oc9qzwLK9a21Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KlBXEQGrx99lGpfyBnu2eKtSm2TkO0tyh7VpXciE9kWl6Gvdeq2UxdzqYPRZo-AkUvkLvulm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RY6qwaTPbcs", "title": "080- Surface Integral 1, Scalar Integrand, drv5, oprvar, dior, pras, Vector Calculus" },
+    { "id": "Nmrke53KYqQ", "title": "082- Surface Integral 3, Cylindrical Coordinates, Scalar Integrand, oprvar, Vector Calculus" },
+    { "id": "61dZL8XSEBw", "title": "083- Surface Integral 4, Cylindrical Coordinates along X-axis, Scalar Integrand, Vector Calculus" },
+    { "id": "8cOiw18GrWY", "title": "084- Surface Integral 5, Scalar Integrand, Triangular Region, plane, solve_eqn, Vector Calculus" },
+    { "id": "i5Et-PSXMpM", "title": "085- Surface Integral 6, var1, var2, ic_point, coeff, vctr3d_pline, vctr3d_line, ic_line" },
+    { "id": "DLP4Drl_QqE", "title": "086- Surface Integral 7, 유사 원통 좌표계, Cylindrical Coordinates, Scalar Integrand, Vector Calculus" },
+    { "id": "SCBWAe913jo", "title": "087- Surface Integral 8, 면적분 알고리듬 및 수학적 배경 이론 설명, Vector Calculus," },
+    { "id": "t8H7oLv9FAc", "title": "088- Surface Integral 9, Heat Flow, Poynting Vector, Conservation of Mechanical Energy" },
+    { "id": "IxsQqKrvK5E", "title": "089- Green Theorem 1, Line Integral 1, vctr3d_line, flux, circulation" },
+    { "id": "98KwS04Fx7U", "title": "091- Green Theorem 3, Vector Calculus 큰 그림, The Big Picture" },
+    { "id": "UrVpZWYtxEQ", "title": "092- Green Theorem 4, Area Formula, Vector Calculus Insights, 직관" },
+    { "id": "OJw5l5e7tO4", "title": "094- Green Theorem 6, Green Theorem for Moment of Inertia" },
+    { "id": "OHhpTPeWNek", "title": "093- Green Theorem 5, Area and the Centroid, First Moment, Vector Calculus" },
+    { "id": "KZt-SBae6w4", "title": "096- Green Theorem 8, Moment of Inertia, Green's Theorem for Moment of Inertia, Iy, Ix" },
+    { "id": "fMeze-WS7u8", "title": "095- Green Theorem 7, Tangent Plane, depen, indepen, same_expr, tangent_plane, coeffs, normal" },
+    { "id": "dCjAR_wzscA", "title": "098- Green Theorem 10, First Moment 2, Single Variable Integral for Center of Mass" },
+    { "id": "CZqi3fv37Hs", "title": "100- Green Theorem 12, First Moment 4, Principle of Center of Mass 1/2" },
+    { "id": "8feGYXlVk1s", "title": "102- Green Theorem 14, Torus Parametrization, 토러스 매개변수화, 토러스 표면적, 토러스 부피" }
+  ]
+}

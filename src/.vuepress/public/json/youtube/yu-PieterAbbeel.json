@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "NlIqjtbjjRE", "title": "L4 Latent Variable Models and Variational AutoEncoders -- CS294-158 SP24 Deep Unsupervised Learning" },
+    { "id": "lFAHPJS2HHc", "title": "L5 GANs -- CS294-158 SP24 Deep Unsupervised Learning -- UC Berkeley" },
+    { "id": "DsEDMjdxOv4", "title": "L6 Diffusion Models (SP24)" },
+    { "id": "s6xh6oKq1C0", "title": "L7 Self-Supervised Learning (Spring 2024, UC Berkeley) -- Pieter Abbeel & Philipp Wu" },
+    { "id": "tCgX48cvuw4", "title": "L8 Large Language Models (LLMs) --- Guest Instructor Hao Liu" },
     { "id": "xWPViQ6LI-Q", "title": "Lecture 1 Introduction -- CS287-FA19 Advanced Robotics at UC Berkeley" }
   ]
 }

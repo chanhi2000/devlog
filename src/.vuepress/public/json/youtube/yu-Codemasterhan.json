@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Codemasterhan",
+    "name": "한상훈 개발자 채널",
+    "profile": "https://yt3.googleusercontent.com/tSIMRNs3gMOlOweLTpQzSBMI2GQ5B_C1rhof0qvGG5VXiEvWXV88qQWSuzUVOF1gm9xxQSjmc9Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XYZPFzDT2LZ-MAVALwh9zli5egLagfPrlGljX3LkY8pjBq6IrX0Xg0d_TuGFbA2B7qsz0x1RENo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oltlapP89cU", "title": "[개발자의 기본기] 타입스크립트에서 타입과 인터페이스의 차이점" },
+    { "id": "B6pT6I8D4B4", "title": "[개발자의 기본기] div 사용하지 마세요!" },
+    { "id": "mC5N3NZcxFU", "title": "리액트 렌더 페이즈와 커밋 페이즈" },
+    { "id": "a2IPerW73Dw", "title": "ERC와 블록체인을 공부하는 방법" },
+    { "id": "PJvNmGf2CbI", "title": "[블록체인 이야기] 6편. NFT" },
+    { "id": "EOnUGgcQWN8", "title": "[블록체인 이야기] 7편.  비트코인의 NFT 오디널스" }
+  ]
+}

@@ -33,5 +33,6 @@ tag:
 <MyYouTubeItems jsonName="yu-EPASSKOREA" /><!-- EPASSKOREA -->
 <MyYouTubeItems jsonName="yu-AndyMath" /><!-- Andy Math -->
 <MyYouTubeItems jsonName="yu-YaleCourses" /><!-- YaleCourses -->
+<MyYouTubeItems jsonName="yu-tambuwalmathsclass" /><!-- Tambuwal Maths Class -->
 
 <TagLinks />

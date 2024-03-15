@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/12NqD7utK2pTos8vt_b6aITBE7gtnE_U5z3VsjiznrsfUXNWHoXqOIfy_CqCxzAAJbkCA-Bv4Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "guSDz5Iwgw0", "title": "Making Simple Graphical Linux Distro from Scratch" },
+    { "id": "bNhrOmoa1MI", "title": "Windows Kernel Debugging Introduction" },
+    { "id": "ITevJ8s6BQM", "title": "3 Cool Bash Tricks (Jobs, Debugging Scripts, Math)" },
+    { "id": "_VtnqLzakDI", "title": "Making Simple Shared Object (.so) in C on Linux" },
+    { "id": "BSyLjD3NG88", "title": "Windows API Shared Memory Explained" },
+    { "id": "MpsDNv-I8i0", "title": "Making Minimalist Web Server in Assembly on Linux (x64)" },
+    { "id": "tHO5x_Ha6pE", "title": "Making Snake Boot Sector Game in Assembly (x86)" },
+    { "id": "Gy9dRLwhbLE", "title": "Windows API Window Messages Explained" },
     { "id": "d2E7ryHCK08", "title": "Making Simple X11 GUI Window in C on Linux" },
     { "id": "RiweaH6Qmro", "title": "Making Simple GUI Window in C on Windows" },
     { "id": "RiJma626jMY", "title": "Making Driver That Blue Screens Windows using C" },

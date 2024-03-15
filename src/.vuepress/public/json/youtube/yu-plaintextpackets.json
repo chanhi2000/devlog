@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "plaintextpackets",
+    "name": "Plaintext Packets",
+    "profile": "https://yt3.googleusercontent.com/JWZ6PHIbTDjxSKXlLNwpciwcQiGn4An690NxhzatPZocKGVZbvu_TOeD5PfVgS70K02wLXzwnEA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jL31k-u3pIHCfpLYc955Vbp3XgFUI9lnTeCLcrWeNGMLDw9WLSpJQz1v0PgCYR1ynp5P76blCm4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OzgE7mS5ZWU", "title": "How to Listen to Phone Calls in Wireshark" },
+    { "id": "4xu4UYSyUnY", "title": "How to DoS Your Network with this One Command" },
+    { "id": "EbsbtTOtk-M", "title": "How to Take Down a Wifi Network from Within" },
+    { "id": "wI2qfO61iFw", "title": "How to Capture Traffic in Wireshark" },
+    { "id": "ML9QEoZsU4c", "title": "Why Should You Learn Wireshark?" },
+    { "id": "zUxgQ-x7mJ8", "title": "Wireshark for Helpdesk Analysts - Troubleshooting a User's Website Issue" }
+  ]
+}

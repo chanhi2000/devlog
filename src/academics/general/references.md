@@ -32,6 +32,12 @@ tag:
 
 ---
 
+## Hazy Research
+
+- [Learning from DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
+
+---
+
 ## Johns Hopkins Poker Course
 
 - [Johns Hopkins Poker Course](https://hopkinspokercourse.com/)

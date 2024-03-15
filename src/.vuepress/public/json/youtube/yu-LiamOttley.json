@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "LiamOttley",
+    "name": "Liam Ottley",
+    "profile": "https://yt3.googleusercontent.com/sCwVC_WxhY4JAfWZDs-5IJgBECBsj0Yivm4YHC-c5ViXFYjeID70A4rzZC4MjFQU8oRKoIaT5Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rcwGZ-jFXNxr4jWcJGtk-HwyMv3xZ1p63Hgem_aUqbPXhH5dOuAwZ8Yo6nzd2jFvxIOZLR0OZA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jCoH82LPgdk", "title": "How to Build Chatbots | Complete AI Chatbot Tutorial for Beginners" },
+    { "id": "3-SpV8wpv4w", "title": "6 Ways to Make Money With OpenAI SORA - AI Video Generation is HERE" }
+  ]
+}

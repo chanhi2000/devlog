@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/pfx3FySE0cNcMV841FU9J1B8H9y1iO3vv1tEf7egC0eShTjmD3F6n39dKLFE-G8fcnRkJn8ZtA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HdXpTXHUTu0", "title": "Navigation with Voyager In Jetpack Compose" },
+    { "id": "mBpeqKJupic", "title": "Jetpack Compose - Compose States & remember #4" },
+    { "id": "sEFt73rBkVQ", "title": "Multiple Backstacks Tutorial in Jetpack Compose" },
+    { "id": "ZTUhb3nk3og", "title": "TextField & BasicTextField & BasicTextField2 - Jetpack Compose #5" },
+    { "id": "maXLPrdEVDc", "title": "Android Roadmap 2024 - ZERO to PRO" },
+    { "id": "wtP3htsxVG4", "title": "Full Guide to Styling Texts - Jetpack Compose #6" },
+    { "id": "LKxSlq_jMd8", "title": "Build an MVVM Dictionary App - (Android Tutorial)" },
+    { "id": "AGVVDkQpo8A", "title": "Loading Images - everything you need to know - Jetpack Compose #7" },
+    { "id": "0xtrtRstrLA", "title": "Support Multi-Screen Sizes in Jetpack Compose" },
     { "id": "0CI87FSC2R0", "title": "Jetpack Compose - Modifier #3" },
     { "id": "_55C6Vzr7aw", "title": "Kotlin Flows Tutorial - State Flow #5" },
     { "id": "2Etx4LDbMqY", "title": "Kotlin Flows Tutorial - Shared Flow - Channels (Last Part)" },

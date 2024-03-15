@@ -12,6 +12,14 @@ description: 🐍Python > 📚References
 
 ---
 
+## Microsoft
+
+### Windows Blogs
+
+- [Sandboxing Python with Win32 App Isolation](https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/)
+
+---
+
 ## Gitlab
 
 - [`cpaperma/nondet`: Non deterministic python](https://gitlab.inria.fr/cpaperma/nondet)

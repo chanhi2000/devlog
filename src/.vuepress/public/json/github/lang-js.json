@@ -2069,5 +2069,10 @@
     "desc": "An open file format for infinite canvas data.",
     "officialSite": "https://jsoncanvas.org",
     "topics": []
+  }, {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "officialSite": "https://agpt.co",
+    "topics": ["ai", "artificial-intelligence", "autonomous-agents", "gpt-4", "openai", "python"]
   }
 ]
