@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🦕C > Youtube
+description: C > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🦕C
+  - C
   - Youtube
 tag: 
   - "youtube"

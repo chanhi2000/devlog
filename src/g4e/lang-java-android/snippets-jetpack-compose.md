@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ✈️🔮Jetpack Compose Snippets
-description: 🤖Android > ✈️🔮Jetpack Compose Snippets
+title: Jetpack Compose Snippets
+description: Android > Jetpack Compose Snippets
+icon: icon fa-compass-drafting
 category: 
-  - 🤖Android 
-  - ✈️🔮Jetpack Compose Snippets
+  - Android 
+  - Jetpack Compose
 tag: 
   - kt
   - kts

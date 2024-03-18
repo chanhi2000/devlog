@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: php > 📚References
+title: References
+description: php > References
+icon: iconfont icon-share
 category: 
   - php
-  - 📚References
+  - References
 tag: 
   - education
   - youtube

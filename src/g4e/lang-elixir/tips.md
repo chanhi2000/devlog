@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Tips
-description: 💧Elixir > Tips
+description: Elixir > Tips
 icon: fas fa-lightbulb
 category:
-  - 💧Elixir
+  - Elixir
   - Tips
 tag: 
   - elixir

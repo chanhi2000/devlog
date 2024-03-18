@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: ☕️Java > Youtube
+description: Java > Youtube
 icon: fa-brands fa-youtube
 category:
-  - ☕️Java 
+  - Java 
   - Youtube
 tag: 
   - "java"

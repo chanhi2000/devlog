@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: LaTeX > 📚References
+title: References
+description: LaTeX > References
+icon: iconfont icon-share
 category:
   - LaTeX
-  - 📚References
+  - References
 tag: 
   - tex
   - latex

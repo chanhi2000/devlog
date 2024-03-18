@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🦏PostgreSQL
-description: 🦏PostgreSQL
+title: PostgreSQL
+description: PostgreSQL
+icon: fa-brands fa-deskpro
 category:
-  - 🦏PostgreSQL
+  - PostgreSQL
 ---
 
 # {{ $frontmatter.description }} 관련

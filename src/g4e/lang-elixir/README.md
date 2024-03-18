@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 💧Elixir
-description: 💧Elixir
+title: Elixir
+description: Elixir
+icon: fas fa-droplet
 category:
-  - 💧Elixir
+  - Elixir
+tag:
+  - elixir
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -5,7 +5,7 @@ description: Gitlab > Troubleshooting
 icon: fas fa-bug-slash
 category:
   - Gitlab
-  -  Troubleshooting
+  - Troubleshooting
 tag: 
   - troubleshooting
   - git

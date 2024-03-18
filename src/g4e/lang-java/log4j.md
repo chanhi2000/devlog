@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🖨Log4j
-description:  ☕️Java > 🖨Log4j
+description: Java > 🖨Log4j
 category:
-  - ☕️Java 
+  - Java 
   - 🖨Log4j
 tag: 
   - java

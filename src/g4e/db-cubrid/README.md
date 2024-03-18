@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🧊Cubrid
-description: 🧊Cubrid
+title: Cubrid
+description: Cubrid
+icon: fas fa-cube
 category:
-  - 🧊Cubrid
+  - Cubrid
+tag:
+  - cubrid
+  - db
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📡WAS
-description: Spring > 📡WAS
+title: WAS
+description: Spring > WAS
+icon: fas fa-satellite-dish
 category:
   - Spring 
-  - 📡WAS
+  - WAS
 tag:
   - java
   - jdk

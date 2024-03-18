@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 💧Elixir > 📚References
+title: References
+description: Elixir > References
+icon: iconfont icon-share
 category:
-  - 💧Elixir
-  - 📚References
+  - Elixir
+  - References
 tag: 
   - elixir
   - exs

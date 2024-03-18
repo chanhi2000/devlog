@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🐘Gradle > 📚References
+title: References
+description: 🐘Gradle > References
+icon: iconfont icon-share
 category:
   - 🐘Gradle 
-  - 📚References
+  - References
 tag: 
   - java
   - axelor

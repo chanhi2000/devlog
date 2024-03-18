@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🔻Ruby > Youtube
+description: Ruby > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🔻Ruby
+  - Ruby
   - Youtube
 tag: 
   - ruby

@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🤖Android > Youtube
+description: Android > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🤖Android 
+  - Android 
   - Youtube
 tag: 
   - "education"

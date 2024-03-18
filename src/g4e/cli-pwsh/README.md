@@ -1,9 +1,15 @@
 ---
 lang: ko-KR
-title: 🧙‍♂️Powershell
-description: 🧙‍♂️Powershell
+title: Powershell
+description: Powershell
+icon: fas fa-hat-wizard
 category:
-  - 🧙‍♂️Powershell
+  - Powershell
+tag:
+  - powershell
+  - pwsh
+  - win
+  - windows
 ---
 
 # {{ $frontmatter.description }} 관련

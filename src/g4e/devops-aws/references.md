@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 📦AWS > 📚References
+title: References
+description: AWS > References
+icon: iconfont icon-share
 category: 
-  - 📦AWS
-  - 📚References
+  - AWS
+  - References
 tag: 
   - aws
   - amazon

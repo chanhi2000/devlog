@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🦄Solidity > 📚References
+title: References
+description: 🦄Solidity > References
+icon: iconfont icon-share
 category: 
   - 🦄Solidity
-  - 📚References
+  - References
 tag:
   - solidity
   - sol

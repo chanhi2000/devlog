@@ -1,11 +1,11 @@
 ---
 lang: ko-KR
-title: 😎Awesome List
-description: Github > 😎Awesome List
-icon: fa-brands fa-github
+title: Awesome List
+description: Github > Awesome List
+icon: fas fa-glasses
 category:
   - Github 
-  - 😎Awesome List
+  - Awesome List
 tag: 
   - awesome-list
   - github

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🧰Environment Setup
-description: Windows > 🧰Environment Setup
+title: Environment Setup
+description: Windows > Environment Setup
+icon: fas fa-toolbox
 category:
   - Windows
-  - 🧰Environment Setup
+  - Environment Setup
 tag: 
   - bat
   - pwsh

@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🔍Query
-description: 🤠Django > 🔍Query
+description: Django > 🔍Query
 category:
-  - 🤠Django
+  - Django
   - 🔍Query
 tag:
   - django

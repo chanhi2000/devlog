@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 📝Markdown
-description: 📝Markdown
+title: Markdown
+description: Markdown
+icon: fa-brands fa-markdown
 category:
-  - 📝Markdown
+  - Markdown
 tag: 
   - markdown
   - md

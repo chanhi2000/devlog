@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🍄Podman > 📚References
+title: References
+description: 🍄Podman > References
+icon: iconfont icon-share
 category:
   - 🍄Podman
-  - 📚References
+  - References
 tag: 
   - podman
   - docker

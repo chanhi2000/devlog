@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🧜‍♀️Mermaid.js
-description: 🧜‍♀️Mermaid.js
+title: Mermaid.js
+description: Mermaid.js
+icon: fas fa-person-swimming
 category:
-  - 🧜‍♀️Mermaid.js
+  - Mermaid.js
 tag: 
   - js
   - node

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🧰Environment Setup
-description: macOS > 🧰Environment Setup
+title: Environment Setup
+description: macOS > Environment Setup
+icon: fas fa-toolbox
 category:
   - macOS
-  - 🧰Environment Setup
+  - Environment Setup
 tag: 
   - sh
   - bash

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🗞️News
-description: ☕️Java > 🗞️News
+title: News
+description: Java > News
+icon: fas fa-rss
 category: 
-  - ☕️Java
-  - 🗞️News
+  - Java
+  - News
 tag: 
   - java
   - jdk

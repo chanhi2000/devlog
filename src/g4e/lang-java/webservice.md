@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
 title: WebService
-description: ☕️Java > WebService
+description: Java > WebService
+icon: fas fa-tower-broadcast
 category:
-  - ☕️Java
+  - Java
   - WebService
 tag: 
   - java

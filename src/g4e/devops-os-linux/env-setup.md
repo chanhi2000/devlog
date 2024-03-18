@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🧰Environment Setup
-description: Linux > 🧰Environment Setup
+title: Environment Setup
+description: Linux > Environment Setup
+icon: fas fa-toolbox
 category:
   - Linux 
-  - 🧰Environment Setup
+  - Environment Setup
 tag: 
   - sh
   - bash

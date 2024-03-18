@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🦙Llm > 📚References
+title: References
+description: 🦙Llm > References
+icon: iconfont icon-share
 category: 
   - 🦙Llm
-  - 📚References
+  - References
 tag: 
   - llm
   - llama
@@ -42,6 +43,14 @@ tag:
 - [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding)
 - [Self-supervised learning: The dark matter of intelligence](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence)
 - [Audiobox: Generating audio from voice and natural language prompts](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts)
+
+---
+
+## Google
+
+### Colab
+
+- [MANATEE(lm) : Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E)
 
 ---
 
@@ -84,7 +93,7 @@ tag:
 ## Justine
 
 - [Bash One-Liners for LLMs](https://justine.lol/oneliners)
-  - [jart/rename-pictures.sh](https://gist.github.com/jart/bd2f603aefe6ac8004e6b709223881c0)
+  - [<FontIcon icon="iconfont icon-shell"/>`jart/rename-pictures.sh`](https://gist.github.com/jart/bd2f603aefe6ac8004e6b709223881c0)
 
 ---
 
@@ -139,6 +148,12 @@ tag:
 ## Cloudflare
 
 - [Cloudflare announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
+
+---
+
+## Martin Lumiste
+
+- [Compressing images with neural networks](https://mlumiste.com/technical/compression-deep-learning/)
 
 ---
 

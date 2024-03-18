@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🦖JEUS > 📚References
+title: References
+description: 🦖JEUS > References
+icon: iconfont icon-share
 category:
   - 🦖JEUS
-  - 📚References
+  - References
 tag: 
   - java
   - jdk

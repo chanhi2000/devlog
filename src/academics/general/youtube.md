@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🧮General > Youtube
+description: General > Youtube
 icon: fa-brands fa-youtube
 category: 
   - Mathematics 

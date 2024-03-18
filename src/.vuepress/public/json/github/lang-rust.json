@@ -1204,5 +1204,10 @@
     "desc": "AT&T / Teletype DMD5620 Terminal Emulator core library",
     "officialSite": "https://loomcom.com/3b2/dmd5620_emulator.html",
     "topics": ["emulator", "terminal-emulator", "unix"]
+  }, {
+    "repo": "vectordotdev/vector",
+    "desc": "A high-performance observability data pipeline.",
+    "officialSite": "https://vector.dev",
+    "topics": ["events", "forwarder", "logs", "metrics", "observability", "parser", "pipeline", "router", "rust", "stream-processing", "vector"]
   }
 ]

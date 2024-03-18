@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🦏PostgreSQL > 📚References
+title: References
+description: PostgreSQL > References
+icon: iconfont icon-share
 category:
-  - 🦏PostgreSQL 
-  - 📚References
+  - PostgreSQL 
+  - References
 tag: 
   - sql
   - db

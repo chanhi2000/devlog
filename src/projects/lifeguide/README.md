@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🧭Lifeguide
-description: 🏭Project > 🧭Lifeguide
+title: Lifeguide
+description: Project > Lifeguide
+icon: fas fa-compass
 category: 
-  - 🏭Project
-  - 🧭Lifeguide
+  - Project
+  - Lifeguide
 tag: 
   - nhis
   - lifeguide

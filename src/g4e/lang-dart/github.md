@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Github
-description: 🔰Dart > Github
+description: Dart > Github
 icon: fa-brands fa-github
 category:
-  - 🔰Dart 
+  - Dart
   - Github
 tag: 
   - dart

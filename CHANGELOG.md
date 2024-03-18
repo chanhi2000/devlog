@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.8.1  2024-03-18][v0.8.1]
+
+- 내용채워넣기
+
+---
+
 ## [v0.8.0  2024-03-18][v0.8.0]
 
 - blog 테마 적용 및 기본 기능 복구
@@ -1599,3 +1605,4 @@ Tips 트리구조 구성
 [v0.7.12]: https://github.com/chanhi2000/devlog/compare/v0.7.11...v0.7.12
 [v0.7.13]: https://github.com/chanhi2000/devlog/compare/v0.7.12...v0.7.13
 [v0.8.0]: https://github.com/chanhi2000/devlog/compare/v0.7.13...v0.8.0
+[v0.8.1]: https://github.com/chanhi2000/devlog/compare/v0.8.0...v0.8.1

@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🔻Ruby
-description: 🔻Ruby
+title: Ruby
+description: Ruby
+icon: fas fa-gem
 category: 
-  - 🔻Ruby
+  - Ruby
+tag:
+  - ruby
+  - rb  
 ---
 
 # {{ $frontmatter.description }} 관련

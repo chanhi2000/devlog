@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: ♯CSharp > 📚References
+title: References
+description: CSharp > References
+icon: iconfont icon-share
 category:
-  - ♯CSharp
-  - 📚References
+  - CSharp
+  - References
 tag:
   - csharp
   - dotnet

@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 💪GitLab Runner
-description: 🦊Gitlab > 💪GitLab Runner
+description: Gitlab > 💪GitLab Runner
 category:
-  - 🦊Gitlab
+  - Gitlab
   - 💪GitLab Runner
 tag: 
   - sh

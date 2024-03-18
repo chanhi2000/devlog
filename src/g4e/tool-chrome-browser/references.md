@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Chrome Browser > 📚References
+title: References
+description: Chrome Browser > References
+icon: iconfont icon-share
 category: 
   - Chrome Browser
-  - 📚References
+  - References
 tag: 
   - devlog
   - notion

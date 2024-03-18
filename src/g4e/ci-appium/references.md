@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🍐Appium > 📚References
+title: References
+description: 🍐Appium > References
+icon: iconfont icon-share
 category: 
   - 🍐Appium
-  - 📚References
+  - References
 tag:
   - win
   - Windows

@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🔰Dart > Youtube
+description: Dart > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🔰Dart
+  - Dart
   - Youtube
 tag: 
   - dart

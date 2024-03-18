@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: ⚙️Scripts to Manage Computers
-description: 🧙‍♂️Powershell > ⚙️Scripts to Manage Computers
+description: Powershell > ⚙️Scripts to Manage Computers
 category:
-  - 🧙‍♂️Powershell
+  - Powershell
   - ⚙️Scripts to Manage Computers
 tag: 
   - powershell

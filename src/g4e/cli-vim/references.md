@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🗡Vim > 📚References
+title: References
+description: 🗡Vim > References
+icon: iconfont icon-share
 category:
   - 🗡Vim
-  - 📚References
+  - References
 tag: 
   - bash
   - linux

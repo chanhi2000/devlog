@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 👽oVirt > 📚References
+title: References
+description: 👽oVirt > References
+icon: iconfont icon-share
 category:
   - 👽oVirt
-  - 📚References
+  - References
 tag: 
   - bash
   - sh

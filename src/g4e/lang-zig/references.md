@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🏂Zig > 📚References
+title: References
+description: 🏂Zig > References
+icon: iconfont icon-share
 category: 
   - 🏂Zig
-  - 📚References
+  - References
 tag: 
   - references
   - zig

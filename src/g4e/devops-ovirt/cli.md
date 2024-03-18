@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: CLI
-description: 👽oVirt > CLI
+description: oVirt > CLI
 icon: fas fa-terminal
 category:
-  - 👽oVirt
+  - oVirt
   - CLI
 tag: 
   - bash

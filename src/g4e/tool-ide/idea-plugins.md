@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Plugins
 description: Intellij Idea > Plugins
+icon: fas fa-plug
 category:
   - Intellij Idea
   - Plugins

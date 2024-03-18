@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐚adb
-description: 🤖Android > 🐚adb
+title: adb
+description: Android > adb
+icon: fas fa-terminal
 category: 
-  - 🤖Android 
-  - 🐚adb 
+  - Android 
+  - adb 
 tag: 
   - adb
   - android

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Github
-description: 🔻Ruby > Github
+description: Ruby > Github
 icon: fa-brands fa-github
 category:
   - Ruby
@@ -14,9 +14,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🔻Ruby > Github
+      content: Ruby > Github
     - property: og:description
-      content: 🔻Ruby > Github
+      content: Ruby > Github
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-ruby/github.html
 ---

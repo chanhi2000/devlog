@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
-title: 📁Scripts for Files & Folders
-description: 🧙‍♂️Powershell > 📁Scripts for Files & Folders
+title: Scripts for Files & Folders
+description: Powershell > Scripts for Files & Folders
+icon: fas fa-folder
 category: 
-  - 🧙‍♂️Powershell
-  - 📁Scripts for Files & Folders
+  - Powershell
 tag:
   - powershell
   - windows

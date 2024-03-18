@@ -9,22 +9,18 @@ tagline: My Personal Super Mindmap
 bgImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
 heroImage: https://avatars.githubusercontent.com/u/6296241?v=4
 projects:
-  - name: 🏭
-    desc: Project
-    link: /project/
+  - name: Projects
+    link: /projects/
     icon: fas fa-industry
-  - name: 📖
-    desc: G4E
+  - name: G4E
     link: /g4e/
-    icon: iconfont icon-relation
-  - name: 🌐
-    desc: Explore
+    icon: fas fa-book
+  - name: Explore
     link: /explore/
-    icon: fas fa-compass
-  - name: 🥁
-    desc: Crashcourse
+    icon: fas fa-globe
+  - name: Crashcourse
     link: https://chanhi2000.github.io/crashcourse
-    icon: iconfont icon-study
+    icon: fas fa-drum
   - name: 🅽
     desc: Notion Portfolio
     link: https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd

@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🤠Django
-description: 🤠Django
+title: Django
+description: Django
+icon: fas fa-hat-cowboy
 category:
-  - 🤠Django
+  - Django
 ---
 
 # {{ $frontmatter.description }} 관련

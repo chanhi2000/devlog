@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🧙‍♂️Powershell > 📚References
+title: References
+description: 🧙‍♂️Powershell > References
+icon: iconfont icon-share
 category:
   - 🧙‍♂️Powershell
-  - 📚References
+  - References
 tag: 
   - powershell
   - pwsh

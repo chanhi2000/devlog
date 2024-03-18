@@ -1,7 +1,17 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🐍Python > 📚References
+title: References
+description: Python > References
+icon: iconfont icon-share
+category: 
+  - python
+  - py
+  - References
+tag: 
+  - blog
+  - programming
+  - python
+  - py
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -380,5 +390,9 @@ description: 🐍Python > 📚References
 - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
 
 ---
+
+## notes.billmill.org
+
+- [What are the "worst" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
 
 <TagLinks />

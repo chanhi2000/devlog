@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: ⭕Openshift > 📚References
+title: References
+description: Openshift > References
+icon: iconfont icon-share
 category:
-  - ⭕Openshift
-  - 📚References
+  - Openshift
+  - References
 tag: 
   - openshift
   - oc

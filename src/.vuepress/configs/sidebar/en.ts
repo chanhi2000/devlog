@@ -3,7 +3,8 @@ import { sidebar } from 'vuepress-theme-hope'
 export const sidebarEn = sidebar({
   '/g4e/': [
     {
-      text: '📖G4E',
+      text: 'G4E',
+      icon: 'fas fa-book',
       children: [ '/g4e/README.md' ],
     },
     //region: api
@@ -52,8 +53,9 @@ export const sidebarEn = sidebar({
         '/g4e/cli-batchfile/github.md',
       ]
     }, {
-      text: '🧙‍♂️Powershell',
+      text: 'Powershell',
       collapsible: true,
+      icon: 'fas fa-hat-wizard',
       children: [
         '/g4e/cli-pwsh/README.md',
         '/g4e/cli-pwsh/basics.md',
@@ -90,8 +92,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-gradle/references.md'
       ]
     }, {
-      text: '🐦Maven',
+      text: 'Maven',
       collapsible: true,
+      icon: 'fas fa-feather-pointed',
       children: [
         '/g4e/lang-maven/README.md',
         '/g4e/lang-maven/snippets.md',
@@ -118,7 +121,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Spring',
       collapsible: true,
-      icon: 'fas fa-leaf',
+      icon: 'fa-brands fa-envira',
       children: [
         '/g4e/lang-java-spring/README.md',
         '/g4e/lang-java-spring/snippets-gradle.md',
@@ -146,7 +149,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Swift',
       collapsible: true,
-      icon: 'fas fa-dove',
+      icon: 'fa-brands fa-swift',
       children: [
         '/g4e/lang-swift/README.md',
         '/g4e/lang-swift/learn-essential-swift-in-one-hour.md',
@@ -206,8 +209,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-js-vue/youtube.md',
       ]
     }, {
-      text: '🧜‍♀️Mermaid.js',
+      text: 'Mermaid.js',
       collapsible: true,
+      icon: 'fas fa-person-swimming',
       children: [
         '/g4e/lang-js-mermaid/README.md',
         '/g4e/lang-js-mermaid/examples.md',
@@ -254,8 +258,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-lua/youtube.md',
       ]
     }, {
-      text: '♯CSharp',
+      text: 'CSharp',
       collapsible: true,
+      icon: 'fas fa-hashtag',
       children: [
         '/g4e/lang-csharp/README.md',
         '/g4e/lang-csharp/references.md',
@@ -273,8 +278,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-go/youtube.md',
       ]
     }, {
-      text: '🔰Dart',
+      text: 'Dart',
       collapsible: true,
+      icon: 'iconfont icon-dart',
       children: [
         '/g4e/lang-dart/README.md',
         '/g4e/lang-dart/snippets.md',
@@ -293,8 +299,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-php/youtube.md',
       ]
     }, {
-      text: '🔻Ruby',
+      text: 'Ruby',
       collapsible: true,
+      icon: 'fas fa-gem',
       children: [
         '/g4e/lang-ruby/README.md',
         '/g4e/lang-ruby/references.md',
@@ -302,8 +309,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-ruby/youtube.md',
       ]
     }, {
-      text: '💧Elixir',
+      text: 'Elixir',
       collapsible: true,
+      icon: 'fas fa-droplet',
       children: [
         '/g4e/lang-elixir/README.md',
         '/g4e/lang-elixir/tips.md',
@@ -321,8 +329,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-haskell/youtube.md',
       ]
     }, {
-      text: '🦕C',
+      text: 'C',
       collapsible: true,
+      icon: 'iconfont icon-c',
       children: [
         '/g4e/lang-c/README.md',
         '/g4e/lang-c/tips.md',
@@ -355,7 +364,7 @@ export const sidebarEn = sidebar({
     {
       text: 'Git',
       collapsible: true,
-      icon: 'fa-brands fa-git',
+      icon: 'iconfont icon-git',
       children: [
         '/g4e/devops-git/README.md',
         '/g4e/devops-git/basics.md',
@@ -425,8 +434,9 @@ export const sidebarEn = sidebar({
         '/g4e/devops-os-win/youtube.md',
       ]
     }, {
-      text: '👽oVirt',
+      text: 'oVirt',
       collapsible: true,
+      icon: 'fas fa-cubes',
       children: [
         '/g4e/devops-ovirt/README.md',
         '/g4e/devops-ovirt/cli.md',
@@ -455,8 +465,9 @@ export const sidebarEn = sidebar({
         '/g4e/devops-podman/articles/you-dont-have-to-use-docker-anymore.md',
       ]
     }, {
-      text: '☸️Kubernetes',
+      text: 'Kubernetes',
       collapsible: true,
+      icon: 'fas fa-dharmachakra',
       children: [
         '/g4e/devops-kubernetes/README.md',
         '/g4e/devops-kubernetes/references.md',
@@ -515,8 +526,9 @@ export const sidebarEn = sidebar({
         '/g4e/ci-appium/references.md',
       ]
     }, {
-      text: '📚Nexus Repository',
+      text: 'Nexus Repository',
       collapsible: true,
+      icon: 'fas fa-kaaba',
       children: [
         '/g4e/devops-nexus/README.md',
         '/g4e/devops-nexus/tips.md',
@@ -637,8 +649,9 @@ export const sidebarEn = sidebar({
     //endregion
     //region: DB
     {
-      text: '🐬MySQL',
+      text: 'MySQL',
       collapsible: true,
+      icon: 'iconfont icon-mysql',
       children: [
         '/g4e/db-mysql/README.md',
         '/g4e/db-mysql/query.md',
@@ -664,8 +677,9 @@ export const sidebarEn = sidebar({
         '/g4e/db-mssql/youtube.md',
       ]
     }, {
-      text: '🧊Cubrid',
+      text: 'Cubrid',
       collapsible: true,
+      icon: 'fas fa-cube',
       children: [
         '/g4e/db-cubrid/README.md',
         '/g4e/db-cubrid/cli.md',
@@ -674,8 +688,9 @@ export const sidebarEn = sidebar({
         '/g4e/db-cubrid/references.md',
       ]
     }, {
-      text: '🦏PostgreSQL',
+      text: 'PostgreSQL',
       collapsible: true,
+      icon: 'fa-brands fa-deskpro',
       children: [
         '/g4e/db-postgres/README.md',
         '/g4e/db-postgres/query.md',
@@ -683,8 +698,9 @@ export const sidebarEn = sidebar({
         '/g4e/db-postgres/youtube.md',
       ]
     }, {
-      text: '🤠Django',
+      text: 'Django',
       collapsible: true,
+      icon: 'fas fa-hat-cowboy',
       children: [
         '/g4e/db-django/README.md',
         '/g4e/db-django/query.md',
@@ -729,9 +745,9 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Markdown',
       collapsible: true,
+      icon: 'fa-brands fa-markdown',
       children: [
         '/g4e/lang-markdown/README.md',
-        '/g4e/lang-markdown/mermaid.md',
         '/g4e/lang-markdown/template.md',
         '/g4e/lang-markdown/references.md',
       ]
@@ -739,7 +755,8 @@ export const sidebarEn = sidebar({
   ],
   '/projects/': [
     {
-      text: '🏭Project',
+      text: 'Project',
+      icon: 'fas fa-industry',
       children: [ '/projects/README.md' ],
     }, {
       text: '🏁My Roadmap',
@@ -751,8 +768,9 @@ export const sidebarEn = sidebar({
         '/projects/portfolio/README.md',
       ],
     }, {
-      text: '🧭Lifeguide',
+      text: 'Lifeguide',
       collapsible: true,
+      icon: 'fas fa-compass',
       children: [
         '/projects/lifeguide/README.md',
         '/projects/lifeguide/youtube.md',
@@ -763,8 +781,9 @@ export const sidebarEn = sidebar({
         '/projects/lifeguide/travel/references.md',
       ]
     }, {
-      text: '🍽Cook',
+      text: 'Cook',
       collapsible: true,
+      icon: 'fas fa-fire-burner',
       children: [
         '/projects/cook/README.md',
         '/projects/cook/youtube.md',
@@ -775,11 +794,13 @@ export const sidebarEn = sidebar({
   ],
   '/explore/': [
     {
-      text: 'Intro',
+      text: 'Explore',
+      icon: 'fas fa-globe',
       children: [ '/explore/README.md' ],
     }, {
-      text: '🗞️Newsletter',
+      text: 'Newsletter',
       collapsible: true,
+      icon: 'fas fa-rss',
       children: [
         '/explore/newsletter/README.md',
         '/explore/newsletter/data-science.md',
@@ -787,6 +808,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Youtube',
       collapsible: true,
+      icon: 'fa-brands fa-youtube',
       children: [
         '/explore/youtube/README.md',
         '/explore/youtube/watch-later.md',
@@ -795,8 +817,9 @@ export const sidebarEn = sidebar({
         '/explore/youtube/edu-compsci.md',
       ]
     }, {
-      text: '🧭Public API',
+      text: 'Public API',
       collapsible: true,
+      icon: 'fas fa-bullseye',
       children: [
         '/explore/api/README.md',
         '/explore/api/list.md',
@@ -822,7 +845,8 @@ export const sidebarEn = sidebar({
   ],
   '/academics/': [
     {
-      text: 'Intro',
+      text: 'Academics',
+      icon: 'fas fa-graduation-cap',
       children: [ '/academics/README.md' ],
     }, {
       text: 'General',

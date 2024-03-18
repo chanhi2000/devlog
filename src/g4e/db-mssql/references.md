@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🎡Microsoft SQL Server > 📚References
+title: References
+description: 🎡Microsoft SQL Server > References
+icon: iconfont icon-share
 category:
   - 🎡Microsoft SQL Server
-  - 📚References
+  - References
 tag: 
   - sql
   - db

@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🐣Basics
-description: 🧙‍♂️Powershell > 🐣Basics
+description: Powershell > 🐣Basics
 category:
-  - 🧙‍♂️Powershell 
+  - Powershell 
   - 🐣Basics
 tag: 
   - powershell

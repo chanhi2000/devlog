@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Github
-description: 🤠Django > Github
+description: Django > Github
 icon: fa-brands fa-github
 category:
-  - 🤠Django 
+  - Django 
   - Github
 tag: 
   - django

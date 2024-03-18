@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🙆‍♂️Oracle SQL > 📚References
+title: References
+description: Oracle SQL > References
+icon: iconfont icon-share
 category:
-  - 🙆‍♂️Oracle SQL 
-  - 📚References
+  - Oracle SQL 
+  - References
 tag: 
   - sql
   - db

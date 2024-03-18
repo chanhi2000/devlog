@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
-title: 🔎Scripts for Powershell
-description: 🧙‍♂️Powershell > 🔎Scripts for Powershell
+title: Scripts for Powershell
+description: Powershell > Scripts for Powershell
+icon: fas fa-magnifying-glass
 category:
-  - 🧙‍♂️Powershell
-  - 🔎Scripts for Powershell
+  - Powershell
 tag: 
   - powershell
   - windows

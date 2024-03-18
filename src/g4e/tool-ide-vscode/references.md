@@ -1,13 +1,15 @@
 ---
 lang: ko-KR
-title: 📚References
-description: VSCode > 📚References
+title: References
+description: VSCode > References
+icon: iconfont icon-share
 category:
   - VSCode
-  - 📚References
+  - References
 tag: 
   - webdev
   - vscode
+  - visual-studio-code
   - productivity
   - programming
 ---

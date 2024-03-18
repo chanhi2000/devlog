@@ -1,9 +1,14 @@
 ---
 lang: ko-KR
-title: 🔰Dart
-description: 🔰Dart
+title: Dart
+description: Dart
+icon: iconfont icon-dart
 category:
-  - 🔰Dart
+  - Dart
+  - Flutter
+tag:
+  - dart
+  - flutter
 ---
 
 # {{ $frontmatter.description }} 관련

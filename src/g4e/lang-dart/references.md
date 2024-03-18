@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🔰Dart > 📚References
+title: References
+description: Dart > References
+icon: iconfont icon-share
 category:
-  - 🔰Dart
-  - 📚References
+  - Dart
+  - References
 tag: 
   - dart
   - flutter

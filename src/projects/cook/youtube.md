@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🍽Cook > Youtube
+description: Cook > Youtube
 icon: fa-brands fa-youtube
 category: 
-  - 🍽Cook
+  - Cook
   - Youtube
 tag: 
   - cook
@@ -16,9 +16,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🍽Cook > Youtube
+      content: Cook > Youtube
     - property: og:description
-      content: 🍽Cook > Youtube
+      content: Cook > Youtube
     - property: og:url
       content: https://chanhi2000.github.io/projects/cook/youtube.html
 ---

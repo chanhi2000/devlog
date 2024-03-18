@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Excel > 📚References
+title: References
+description: Excel > References
+icon: iconfont icon-share
 category: 
   - Excel
-  - 📚References
+  - References
 tag: 
   - education
   - iexceller

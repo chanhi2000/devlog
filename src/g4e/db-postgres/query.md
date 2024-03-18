@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔎Query
-description: 🦏PostgreSQL > 🔎Query
+title: Query
+description: PostgreSQL > Query
+icon: fas fa-magnifying-glass
 category:
-  - 🦏PostgreSQL 
-  - 🔎Query
+  - PostgreSQL 
+  - Query
 tag: 
   - sql
   - postgres

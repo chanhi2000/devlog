@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🦕C > 📚References
+title: References
+description: C > References
+icon: iconfont icon-share
 category:
-  - 🦕C 
-  - 📚References
+  - C 
+  - References
 tag: 
   - c
   - cpp
@@ -22,7 +23,7 @@ tag:
 
 ## Github
 
-- [`munificent/generate.c`](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
+- [<FontIcon icon="iconfont icon-github"/>`munificent/generate.c`](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
 
 ---
 

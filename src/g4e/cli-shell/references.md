@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Shell > 📚References
+title: References
+description: Shell > References
+icon: iconfont icon-share
 category: 
   - Shell
-  - 📚References
+  - References
 tag: 
   - bash
   - linux

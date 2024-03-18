@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🤠Django > Youtube
+description: Django > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🤠Django
+  - Django
   - Youtube
 tag: 
   - youtube

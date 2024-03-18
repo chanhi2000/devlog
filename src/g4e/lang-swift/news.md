@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🗞️News
-description: Swift > 🗞️News
+title: News
+description: Swift > News
+icon: fas fa-rss
 category: 
   - Swift
-  - 🗞️News
+  - News
 tag: 
   - swift
   - news

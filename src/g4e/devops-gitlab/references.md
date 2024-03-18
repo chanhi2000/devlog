@@ -1,7 +1,16 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🦊Gitlab > 📚References
+title: References
+description: Gitlab > References
+icon: iconfont icon-share
+category:
+  - Gitlab
+  - References
+tag: 
+  - "git"
+  - "gitlab"
+  - "gitlab-cli"
+  - "sh"
 ---
 
 # {{ $frontmatter.title }} 관련

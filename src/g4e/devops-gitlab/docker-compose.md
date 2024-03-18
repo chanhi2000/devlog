@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🚢Docker Compose
-description: 🦊GitLab > 🚢Docker Compose
+title: Docker Compose
+description: GitLab > Docker Compose
+icon: fa-brands fa-octopus-deploy
 category:
-  - 🦊GitLab
-  - 🚢Docker Compose
+  - GitLab
+  - Docker Compose
 tag: 
   - sh
   - bash

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🌤️HTTP > 📚References
+title: References
+description: HTTP > References
+icon: iconfont icon-share
 category:
-  - 🌤️HTTP 
-  - 📚References
+  - HTTP 
+  - References
 tag: 
   - education
   - references

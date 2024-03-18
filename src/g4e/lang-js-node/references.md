@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Node.js > 📚References
+title: References
+description: Node.js > References
+icon: iconfont icon-share
 category:
   - Node.js
-  - 📚References
+  - References
 tag: 
   - js
   - nodejs

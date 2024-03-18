@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🧰Environment Setup
-description: 🧛‍♀️Dracula > 🧰Environment Setup
+title: Environment Setup
+description: Dracula > Environment Setup
+icon: fas fa-toolbox
 category:
-  - 🧛‍♀️Dracula
-  - 🧰Environment Setup
+  - Dracula
+  - Environment Setup
 tag: 
   - sh
   - bash

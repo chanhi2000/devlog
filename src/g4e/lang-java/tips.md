@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Tips
-description: ☕️Java > Tips
+description: Java > Tips
 icon: fas fa-lightbulb
 category:
-  - ☕️Java
+  - Java
   - Tips
 tag: 
   - kt

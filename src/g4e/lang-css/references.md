@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🎨CSS > 📚References
+title: References
+description: CSS > References
+icon: iconfont icon-share
 category:
-  - 🎨CSS
-  - 📚References
+  - CSS
+  - References
 tag: 
   - css
   - scss

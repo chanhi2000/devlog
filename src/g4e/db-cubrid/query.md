@@ -1,14 +1,14 @@
 ---
 lang: ko-KR
-title: 🔍Query
-description: 🧊Cubrid > 🔍Query
+title: Query
+description: Cubrid > Query
+icon: fas fa-magnifying-glass
 category:
-  - 🧊Cubrid
-  - 🔍Query
+  - Cubrid
+  - Query
 tag:
   - sql
-  - mysql
-  - mysql5
+  - cubrid
   - ddl
   - dml
   - sql-privilege

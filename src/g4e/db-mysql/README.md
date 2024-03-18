@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🐬MySQL
-description: 🐬MySQL
+title: MySQL
+description: MySQL
+icon: iconfont icon-mysql
 category:
-  - 🐬MySQL
+  - MySQL
+tag:
+  - mysql
+  - mysql5
 ---
 
 # {{ $frontmatter.description }} 관련

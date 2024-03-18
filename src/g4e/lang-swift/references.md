@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Swift > 📚References
+title: References
+description: Swift > References
+icon: iconfont icon-share
 category: 
   - Swift
-  - 📚References
+  - References
 tag: 
   - swift
   - references

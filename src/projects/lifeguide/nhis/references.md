@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ❤📚References
-description: 🧭Lifeguide > ❤📚References
+title: References
+description: Lifeguide > References
+icon: iconfont icon-share
 category:
-  - 🧭Lifeguide
-  - ❤📚References
+  - Lifeguide
+  - References
 tag: 
   - nhis
   - lifeguide

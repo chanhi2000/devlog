@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Regex > 📚References
+title: References
+description: Regex > References
+icon: iconfont icon-share
 category:
   - Regex
-  - 📚References
+  - References
 tag: 
   - regex
   - regular-expressoin

@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🕋Nexus Repository
-description: 🕋Nexus Repository
+title: Nexus Repository
+description: Nexus Repository
+icon: fas fa-kaaba
 category:
-  - 🕋Nexus Repository
+  - Nexus Repository
 ---
 
 # {{ $frontmatter.description }} 관련

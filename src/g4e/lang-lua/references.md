@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🪐Lua > 📚References
+title: References
+description: 🪐Lua > References
+icon: iconfont icon-share
 category: 
   - 🪐Lua
-  - 📚References
+  - References
 tag: 
   - git
   - github 
@@ -12,9 +13,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🪐Lua > 📚References
+      content: 🪐Lua > References
     - property: og:description
-      content: 🪐Lua > 📚References
+      content: 🪐Lua > References
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-lua/references.html
 ---

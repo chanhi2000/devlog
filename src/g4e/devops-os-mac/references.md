@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: macOS > 📚References
+title: References
+description: macOS > References
+icon: iconfont icon-share
 category:
   - macOS
-  - 📚References
+  - References
 tag: 
   - macos
   - settings

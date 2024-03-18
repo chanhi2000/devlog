@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: ☸️Kubernetes
-description: ☸️Kubernetes
+title: Kubernetes
+description: Kubernetes
+icon: fa-brands fa-dharmachakra
 category:
-  - ☸️Kubernetes
+  - Kubernetes
+tag:
+  - kubernetes
+  - kube
 ---
 
 # {{ $frontmatter.title }} 관련

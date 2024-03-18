@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🎼OpenAI > 📚References
+title: References
+description: 🎼OpenAI > References
+icon: iconfont icon-share
 category: 
   - 🎼OpenAI 
-  - 📚References
+  - References
 tag:
   - openai
   - chatgpt

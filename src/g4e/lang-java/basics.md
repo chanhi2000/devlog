@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🐣Basics
-description: ☕️Java > 🐣Basics
+description: Java > 🐣Basics
 category:
-  - ☕️Java
+  - Java
   - 🐣Basics
 tag: 
   - java

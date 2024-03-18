@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: React.js > 📚References
+title: References
+description: React.js > References
+icon: iconfont icon-share
 category:
   - React.js
-  - 📚References
+  - References
 tag: 
   - js
   - node
@@ -17,9 +18,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: React.js > 📚References
+      content: React.js > References
     - property: og:description
-      content: React.js > 📚References
+      content: React.js > References
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-js-react/references.html
 ---
@@ -599,6 +600,12 @@ head:
 ## Sindre Sorhus
 
 - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
+
+---
+
+## Miroslav Nikolov
+
+- [The High-Risk Refactoring](https://webup.org/blog/the-high-risk-refactoring/)
 
 ---
 

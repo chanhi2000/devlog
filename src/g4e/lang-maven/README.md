@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🐦Maven
-description: 🐦Maven
+title: Maven
+description: Maven
+icon: fas fa-feather-pointed
 category:
-  - 🐦Maven
+  - Maven
 ---
 
 # {{ $frontmatter.description }} 관련

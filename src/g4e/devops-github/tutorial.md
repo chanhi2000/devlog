@@ -1,11 +1,11 @@
 ---
 lang: ko-KR
-title: 👨‍🏫Tutorial
-description: Github > 👨‍🏫Tutorial
+title: Tutorial
+description: Github > Tutorial
 icon: fas fa-graduation-cap
 category: 
   - Github 
-  - 👨‍🏫Tutorial
+  - Tutorial
 tag: 
   - tutorial
   - github

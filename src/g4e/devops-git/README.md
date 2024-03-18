@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Git
 description: Git
-icon: fa-brands fa-git
+icon: iconfont icon-git
 category:
   - Git
 ---

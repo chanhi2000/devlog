@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🍷API
-description: 🌤️HTTP > 🍷API
+title: API
+description: HTTP > API
+icon: fas fa-bullseye
 category: 
-  - 🌤️HTTP
-  - 🍷API
+  - HTTP
+  - API
 tag: 
   - references
   - api

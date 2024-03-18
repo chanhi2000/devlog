@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 📝Markdown > 📚References
+title: References
+description: Markdown > References
+icon: iconfont icon-share
 category:
-  - 📝Markdown
-  - 📚References
+  - Markdown
+  - References
 tag: 
   - markdown
   - md
@@ -13,9 +14,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 📝Markdown > 📚References
+      content: Markdown > References
     - property: og:description
-      content: 📝Markdown > 📚References
+      content: Markdown > References
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-markdown/references.html
 ---

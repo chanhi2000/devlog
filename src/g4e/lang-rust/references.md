@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🦀Rust > 📚References
+title: References
+description: Rust > References
+icon: iconfont icon-share
 category: 
-  - 🦀Rust
-  - 📚References
+  - Rust
+  - References
 tag: 
   - rust
   - rs

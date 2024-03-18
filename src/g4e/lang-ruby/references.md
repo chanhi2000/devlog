@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🔻Ruby > 📚References
+title: References
+description: Ruby > References
+icon: iconfont icon-share
 category:
-  - 🔻Ruby
-  - 📚References
+  - Ruby
+  - References
 tag: 
   - ruby
   - rb
@@ -28,6 +29,7 @@ tag:
 - [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools/read/introduction)
 - [Introduction to Regular Expressions](https://launchschool.com/books/regex/read/introduction)
 - [Demystifying Rails](https://launchschool.com/books/demystifying_rails/read/introduction)
+
 ---
 
 ## RailsNotes

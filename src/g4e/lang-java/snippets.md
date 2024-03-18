@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Snippets
-description: ☕️Java > Snippets
+description: Java > Snippets
 icon: fas fa-eye-dropper
 category:
-  - ☕️Java
+  - Java
   - Snippets
 tag: 
   - java

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Go > 📚References
+title: References
+description: Go > References
+icon: iconfont icon-share
 category: 
   - Go
-  - 📚References
+  - References
 tag: 
   - go
   - golang

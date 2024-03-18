@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🍽Cook > 📚References
+title: References
+description: Cook > References
+icon: iconfont icon-share
 category: 
-  - 🍽Cook
-  - 📚References
+  - Cook
+  - References
 tag:
   - cook
   - food
@@ -13,9 +14,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🍽Cook > 📚References
+      content: Cook > References
     - property: og:description
-      content: 🍽Cook > 📚References
+      content: Cook > References
     - property: og:url
       content: https://chanhi2000.github.io/projects/cook/references.html
 ---

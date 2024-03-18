@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📝Scripts for Git
-description: 🧙‍♂️Powershell > 📝Scripts for Git
+title: Scripts for Git
+description: Powershell > Scripts for Git
+icon: iconfont icon-git
 category:
-  - 🧙‍♂️Powershell
-  - 📝Scripts for Git
+  - Powershell
+  - Git
 tag:
   - powershell
   - pwsh

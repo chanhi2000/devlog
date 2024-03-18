@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Swift
 description: Swift
-icon: fas fa-dove
+icon: fa-brands fa-swift
 category: 
   - Swift
 ---

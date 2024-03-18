@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🚄Learn essential Swift in one hour
-description: Swift > 🚄Learn essential Swift in one hour
+title: Learn essential Swift in one hour
+description: Swift > Learn essential Swift in one hour
+icon: fas fa-rocket
 category: 
   - Swift
-  - 🚄Learn essential Swift in one hour
+  - Learn essential Swift in one hour
 tag: 
   - references
   - swift

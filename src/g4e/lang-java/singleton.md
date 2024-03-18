@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🦴Singleton
-description: ☕️Java > 🦴Singleton
+description: Java > 🦴Singleton
 category:
-  - ☕️Java
+  - Java
   - 🦴Singleton
 tag: 
   - git
@@ -14,9 +14,9 @@ tag:
 head:  
   - - meta:
     - property: og:title
-      content: ☕️Java > 🦴Singleton
+      content: Java > 🦴Singleton
     - property: og:description
-      content: ☕️Java > 🦴Singleton
+      content: Java > 🦴Singleton
     - property: og:type
       content: article
     - property: og:url

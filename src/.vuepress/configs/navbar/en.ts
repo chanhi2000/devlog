@@ -1,14 +1,9 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const navbarEn = navbar([
-  /* 
   {
-    text: '🔖', // Tags
-    link: '/tag/README.md'
-  }, 
-  */
-  {
-    text: '🏭', // Projects
+    text: '', // Projects
+    icon: 'fas fa-industry',
     children: [
       {
         text: '🏭Projects',
@@ -28,7 +23,8 @@ export const navbarEn = navbar([
       }
     ],
   }, {
-    text: '🎓', // academics
+    text: '', // academics
+    icon: 'fas fa-graduation-cap',
     children: [
       {
         text: 'MATH011',
@@ -42,7 +38,8 @@ export const navbarEn = navbar([
       }
     ],
   }, {
-    text: '📖', // g4e
+    text: '', // g4e
+    icon: 'fas fa-book',
     children: [
       {
         text: '🌱API - Kakao',
@@ -50,13 +47,14 @@ export const navbarEn = navbar([
       }, {
         text: 'Shell',
         link: '/g4e/cli-shell/README.md',
-        icon: 'fas fa-terminal'
+        icon: 'iconfont icon-shell'
       }, {
         text: '🧢Batchfile (Windows)',
         link: '/g4e/cli-batchfile/README.md',
       }, {
-        text: '🧙‍♂️Powershell',
+        text: 'Powershell',
         link: '/g4e/cli-pwsh/README.md',
+        icon: 'fas fa-hat-wizard',
       }, {
         text: '🗡Vim',
         link: '/g4e/cli-vim/README.md',
@@ -64,8 +62,9 @@ export const navbarEn = navbar([
         text: '🐘Gradle',
         link: '/g4e/lang-gradle/README.md',
       }, {
-        text: '🐦Maven',
+        text: 'Maven',
         link: '/g4e/lang-maven/README.md',
+        icon: 'fas fa-feather-pointed',
       }, {
         text: '🅺Kotlin',
         link: '/g4e/lang-kotlin/README.md',
@@ -84,7 +83,7 @@ export const navbarEn = navbar([
       },  {
         text: 'Swift',
         link: '/g4e/lang-swift/README.md',
-        icon: 'fas fa-dove',
+        icon: 'fa-brands fa-swift',
       }, {
         text: 'Node.js',
         link: '/g4e/lang-js-node/README.md',
@@ -98,8 +97,9 @@ export const navbarEn = navbar([
         link: '/g4e/lang-js-vue/README.md',
         icon: 'fa-brands fa-vuejs',
       }, {
-        text: '🧜‍♀️Mermaid.js',
+        text: 'Mermaid.js',
         link: '/g4e/lang-js-mermaid/README.md',
+        icon: 'fas fa-person-swimming',
       }, {
         text: 'Python',
         link: '/g4e/lang-python/README.md',
@@ -116,31 +116,36 @@ export const navbarEn = navbar([
         text: '🪐Lua',
         link: '/g4e/lang-lua/README.md',
       }, {
-        text: '♯CSharp',
+        text: 'CSharp',
         link: '/g4e/lang-csharp/README.md',
+        icon: 'fas fa-hashtag'
       }, {
         text: 'Go',
         link: '/g4e/lang-go/README.md',
         icon: 'fa-brands fa-golang'
       }, {
-        text: '🔰Dart',
+        text: 'Dart',
         link: '/g4e/lang-dart/README.md',
+        icon: 'iconfont icon-dart'
       }, {
         text: 'php',
         link: '/g4e/lang-php/README.md',
         icon: 'fa-brands fa-php'
       }, {
-        text: '🔻Ruby',
+        text: 'Ruby',
         link: '/g4e/lang-ruby/README.md',
+        icon: 'fas fa-gem'
       }, {
-        text: '💧Elixir',
+        text: 'Elixir',
         link: '/g4e/lang-elixir/README.md',
+        icon: 'fas fa-droplet'
       }, {
         text: '🐑Haskell',
         link: '/g4e/lang-haskell/README.md',
       }, {
-        text: '🦕C',
+        text: 'C',
         link: '/g4e/lang-c/README.md',
+        icon: 'iconfont icon-c',
       }, {
         text: '🏂Zig',
         link: '/g4e/lang-zig/README.md',
@@ -151,8 +156,9 @@ export const navbarEn = navbar([
       }
     ]
   }, {
-    text: '🌐', // explore
+    text: '', // explore
     link: '/explore/README.md',
+    icon: 'fas fa-globe'
   }
 // {
 //   text: '📍Misc.',

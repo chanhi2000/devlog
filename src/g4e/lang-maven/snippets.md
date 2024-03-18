@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Snippets
-description: 🐦Maven > Snippets
+description: Maven > Snippets
 icon: fas fa-eye-dropper
 category:
-  - 🐦Maven
+  - Maven
   - Snippets
 tag: 
   - maven

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🅺🔮Kotlin Snippets
-description: 🤖Android > 🅺🔮Kotlin Snippets
+title: Kotlin Snippets
+description: Android > Kotlin Snippets
+icon: fas fa-eye-dropper
 category:
-  - 🤖Android 
-  - 🅺🔮Kotlin Snippets
+  - Android 
+  - Kotlin Snippets
 tag: 
   - kt
   - kts

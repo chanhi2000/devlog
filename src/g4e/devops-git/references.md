@@ -1,7 +1,15 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Git > 📚References
+title: References
+description: Git > References
+icon: iconfont icon-share
+category:
+  - Git
+  - References
+tag: 
+  - git
+  - github
+  - git-cli
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 👽oVirt
-description: 👽oVirt
+title: oVirt
+description: oVirt
+icon: fas fa-cubes
 category:
-  - 👽oVirt
+  - oVirt
 ---
 
 # {{ $frontmatter.description }} 관련

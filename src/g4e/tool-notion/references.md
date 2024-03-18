@@ -1,9 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🅽Notion > 📚References
+title: References
+description: 🅽Notion > References
+icon: iconfont icon-share
+category:
   - 🅽Notion
-  - 📚References
+  - References
 tag: 
   - notion
   - productivity

@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🦏PostgreSQL > Youtube
+description: PostgreSQL > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🦏PostgreSQL 
+  - PostgreSQL 
   - Youtube
 tag: 
   - sql

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: ⌨Sublime Text > 📚References
+title: References
+description: ⌨Sublime Text > References
+icon: iconfont icon-share
 category: 
   - ⌨Sublime Text
-  - 📚References
+  - References
 tag: 
   - text-editor
   - sublimetext

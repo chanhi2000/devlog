@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🤖Android > 📚References
+title: References
+description: Android > References
+icon: iconfont icon-share
 category:
-  - 🤖Android 
-  - 📚References
+  - Android 
+  - References
 tag: 
   - references
   - android

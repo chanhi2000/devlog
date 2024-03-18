@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🌟Gemini > 📚References
+title: References
+description: 🌟Gemini > References
+icon: iconfont icon-share
 category: 
   - 🌟Gemini
-  - 📚References
+  - References
 tag: 
   - llm
   - llama

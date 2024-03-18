@@ -1,7 +1,8 @@
 ---
 lang: ko-KR
-title: 🔎Unit Test
-description: Swift > 🔎Unit Test
+title: Unit Test
+description: Swift > Unit Test
+icon: fas fa-list-check
 category: Swift
 tag:
   - ios

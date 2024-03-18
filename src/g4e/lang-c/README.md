@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🦕C
-description: 🦕C
+title: C
+description: C
+icon: iconfont icon-c
 category: 
-  - 🦕C
+  - C
 tag: 
   - c
   - cpp

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🦉Altibase > 📚References
+title: References
+description: 🦉Altibase > References
+icon: iconfont icon-share
 category:
   - 🦉Altibase
-  - 📚References
+  - References
 tag: 
   - sql
   - altibase

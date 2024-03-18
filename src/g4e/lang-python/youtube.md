@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🐍Python > Youtube
+description: Python > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🐍Python
+  - Python
   - Youtube
 tag: 
   - education

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔍Query
-description: 🐬MySQL > 🔍Query
+title: Query
+description: MySQL > Query
+icon: fas fa-magnifying-glass
 category:
-  - 🐬MySQL
-  - 🔍Query
+  - MySQL
+  - Query
 tag:
   - sql
   - mysql
@@ -139,7 +140,7 @@ service mysqld start # 결과가 `mysql is stopped` 일 경우,
 
 ---
 
-## 📚References
+## References
 
 - [MySQL SQL 독학 강의 전체 A to Z](https://stricky.tistory.com/333)
 

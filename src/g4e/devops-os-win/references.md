@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Windows > 📚References
+title: References
+description: Windows > References
+icon: iconfont icon-share
 category:
   - Windows
-  - 📚References
+  - References
 tag: 
   - win
   - Windows

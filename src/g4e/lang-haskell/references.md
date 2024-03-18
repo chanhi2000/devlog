@@ -1,18 +1,19 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🐑Haskell > 📚References
+title: References
+description: 🐑Haskell > References
+icon: iconfont icon-share
 category: 
   - 🐑Haskell
-  - 📚References
+  - References
 tag: 
   - haskell
 head:
   - - meta:
     - property: og:title
-      content: 📚References
+      content: References
     - property: og:description
-      content: 🐑Haskell > 📚References
+      content: 🐑Haskell > References
     - propert: og:type
       content: article
     - property: og:url

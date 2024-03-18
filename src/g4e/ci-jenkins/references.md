@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Jenkins > 📚References
+title: References
+description: Jenkins > References
+icon: iconfont icon-share
 category:
   - Jenkins 
-  - 📚References
+  - References
 tag: 
   - jenkins
   - cicd

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🧢Batchfile > 📚References
+title: References
+description: 🧢Batchfile > References
+icon: iconfont icon-share
 category: 
   - 🧢Batchfile 
-  - 📚References
+  - References
 tag: 
   - bash
   - linux

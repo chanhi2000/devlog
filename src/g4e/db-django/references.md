@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🤠Django > 📚References
+title: References
+description: Django > References
+icon: iconfont icon-share
 category:
-  - 🤠Django
-  - 📚References
+  - Django
+  - References
 tag:
   - django
 ---

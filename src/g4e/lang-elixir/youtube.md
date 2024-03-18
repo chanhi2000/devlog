@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 💧Elixir > Youtube
+description: Elixir > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 💧Elixir
+  - Elixir
   - Youtube
 tag: 
   - elixir

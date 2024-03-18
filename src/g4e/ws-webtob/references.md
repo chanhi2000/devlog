@@ -1,7 +1,8 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🏹WebtoB > 📚References
+title: References
+description: 🏹WebtoB > References
+icon: iconfont icon-share
 tags:
   - http.m
   - webtob

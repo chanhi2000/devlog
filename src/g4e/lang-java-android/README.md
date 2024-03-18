@@ -1,10 +1,19 @@
 ---
 lang: ko-KR
-title: 🤖Android
-description: 🤖Android
+title: Android
+description: Android
+icon: fa-brands fa-android
 category:
   - Java
-  - 🤖Android
+  - Android
+tag:
+  - java
+  - jdk
+  - jdk8
+  - jdk11
+  - kotlin
+  - kt
+  - android
 ---
 
 # {{ $frontmatter.description }} 관련

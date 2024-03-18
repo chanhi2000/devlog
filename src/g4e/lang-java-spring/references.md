@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Spring > 📚References
+title: References
+description: Spring > References
+icon: iconfont icon-share
 category: 
   - Spring
-  - 📚References
+  - References
 tag: 
   - java
   - jdk
@@ -14,9 +15,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Spring > 📚References
+      content: Spring > References
     - property: og:description
-      content: Spring > 📚References
+      content: Spring > References
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-java-spring/references.html
 ---

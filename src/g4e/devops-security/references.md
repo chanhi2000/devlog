@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Security > 📚References
+title: References
+description: Security > References
+icon: iconfont icon-share
 category:
   - Security
-  - 📚References
+  - References
 tag: 
   - devsecops
   - security

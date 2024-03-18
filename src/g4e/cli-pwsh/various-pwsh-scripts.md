@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: 🛒Various Powershell Scripts
-description: 🧙‍♂️Powershell > 🛒Various Powershell Scripts
+description: Powershell > 🛒Various Powershell Scripts
 category:
-  - 🧙‍♂️Powershell
+  - Powershell
   - 🛒Various Powershell Scripts
 tag: 
   - powershell

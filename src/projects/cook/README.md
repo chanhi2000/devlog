@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
-title: 🍽Cook
-description: 🏭Project > 🍽Cook
+title: Cook
+description: Project > Cook
 category: 
-  - 🏭Project
-  - 🍽Cook
+  - Project
+  - Cook
 tag: 
   - cook
   - food

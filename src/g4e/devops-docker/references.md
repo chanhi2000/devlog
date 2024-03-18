@@ -1,7 +1,14 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🐋Docker > 📚References
+title: References
+description: Docker > References
+icon: iconfont icon-share
+category:
+  - Docker
+  - References
+tag: 
+  - docker
+  - vm
 ---
 
 # {{ $frontmatter.title }} 관련

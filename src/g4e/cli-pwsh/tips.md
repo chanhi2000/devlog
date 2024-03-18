@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Tips
-description: 🧙‍♂️Powershell > Tips
+description: Powershell > Tips
 icon: fas fa-lightbulb
 category:
-  - 🧙‍♂️Powershell
+  - Powershell
   - Tips
 tag: 
   - powershell

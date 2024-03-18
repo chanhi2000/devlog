@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🧙‍♂️Powershell > Youtube
+description: Powershell > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🧙‍♂️Powershell
+  - Powershell
   - Youtube
 tag: 
   - "youtube"

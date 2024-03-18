@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
-title: 💻Scripts for the Desktop
-description: 🧙‍♂️Powershell > 💻Scripts for the Desktop
+title: Scripts for the Desktop
+description: Powershell > Scripts for the Desktop
+font: fas fa-computer
 category:
-  - 🧙‍♂️Powershell
-  - 💻Scripts for the Desktop
+  - Powershell
 tag: 
   - powershell
   - pwsh

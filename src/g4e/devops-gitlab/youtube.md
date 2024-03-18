@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube 
-description: 🦊Gitlab > Youtube 
+description: Gitlab > Youtube 
 icon: fa-brands fa-youtube
 category:
-  - 🦊Gitlab
+  - Gitlab
   - Youtube 
 tag: 
   - "youtube"

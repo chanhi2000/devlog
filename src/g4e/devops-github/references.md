@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: Github > 📚References
+title: References
+description: Github > References
+icon: iconfont icon-share
 category:
   - Github
-  - 📚References
+  - References
 tag: 
   - sh
   - bash

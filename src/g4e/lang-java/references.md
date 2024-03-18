@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: ☕️Java > 📚References
+title: References
+description: Java > References
+icon: iconfont icon-share
 category:
-  - ☕️Java
-  - 📚References
+  - Java
+  - References
 tag: 
   - java
   - baeldung

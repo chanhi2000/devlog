@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🧊Cubrid > 📚References
+title: References
+description: 🧊Cubrid > References
+icon: iconfont icon-share
 category:
   - 🧊Cubrid
-  - 📚References
+  - References
 tag: 
   - sh
   - bash

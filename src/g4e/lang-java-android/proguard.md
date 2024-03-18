@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ⚔Proguard
-description: 🤖Android > ⚔Proguard
+title: Proguard
+description: Android > Proguard
+icon: fas fa-user-secret
 category:
-  - 🤖Android 
-  - ⚔Proguard
+  - Android
+  - Proguard
 tag: 
   - references
   - android

@@ -1,10 +1,14 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🧮General > 📚References
-category: Mathematics & Science
-tag: 
-  - youtube
+title: References
+description: General > References
+icon: iconfont icon-share
+category: 
+  - Mathematics
+  - Math
+  - Science
+tag:
+  - ebooks
   - tutorial
 ---
 
@@ -29,6 +33,12 @@ tag:
 - [Sampling: What Nyquist Didn’t Say, and What to Do About It](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
 - [Projective Geometric Algebra](https://projectivegeometricalgebra.org/projgeomalg.pdf)
 - [Conformal Geometric Algebra](https://projectivegeometricalgebra.org/confgeomalg.pdf)
+
+---
+
+## Bionic
+
+- [과학을 위한 연산](https://boinc.berkeley.edu/index.php)
 
 ---
 

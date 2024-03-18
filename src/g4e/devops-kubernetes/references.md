@@ -1,11 +1,14 @@
 ---
 lang: ko-KR
-title: 📚References
-description: ☸️Kubernetes > 📚References
+title: References
+description: Kubernetes > References
+icon: iconfont icon-share
 category:
-  - ☸️Kubernetes
-  - 📚References
+  - Kubernetes
+  - References
 tag: 
+  - kubernetes
+  - kube
   - win
   - Windows
   - win10

@@ -43,7 +43,8 @@ include ":ws-BmsSifSchViewService"
 // 최종 아티팩트명 지정
 project(":ws-BmsSifSchViewService").name = "BmsSifSchViewService" 
 ```
-최종 모듈명은 `BmsSifSchViewService`으로 변경
+
+> 최종 모듈명은 `BmsSifSchViewService`으로 변경
 
 
 ---
@@ -103,7 +104,7 @@ task openBrowser {
 
 @tab Kotlin
 
-```kts
+```kotlin
 import java.awt.Desktop
 import java.net.URL
 
@@ -127,7 +128,7 @@ task("openBrowser") {
 ## `exploreOutput` task
 
 | title | description |
-| ---: | :---------- |
+| :---: | :--- |
 | 목적 | 빌드 후 빌드된 결과물을 보기 위한 task |
 | 적업대상 `gradle` 파일 | `./<모듈>/build.gradle` |
 
@@ -148,7 +149,7 @@ tasks.war.finalizedBy exploreOutput
 
 @tab Kotlin
 
-```kts
+```kotlin
 import java.awt.Desktop
 
 // ... 생략 ...
@@ -166,10 +167,11 @@ tasks.war { finalizedBy(tasks.named("exploreOutput")) }
 :::
 
 ---
+
 ## `war` Plugin
 
 | title | description |
-| ---: | :---------- |
+| :---: | :--- |
 | 목적 | 최종 war로 묶어줄 때 타 module에서 compile된 class파일들을 package경로 밑으로 풀어줘서 빌드 되도록 구성 |
 | 적업대상 `gradle` 파일 | `./<war으로 묶어 줄 모듈>/build.gradle` |
 
@@ -246,6 +248,77 @@ tasks.war {
 ```sh
 gradlew <war으로 묶어 줄 모듈>:war
 ```
+
+## `publish` Plugin
+
+| title | description |
+| ---: | :---------- |
+| 목적 | 최종 war를 private 저장소로 배포 |
+| 적업대상 `gradle` 파일 | `./<war으로 묶어 줄 모듈>/build.gradle` |
+
+::: tabs
+
+@tab:active Groovy
+
+```groovy
+plugins {
+    id "java"
+    id "war"
+    id "maven-publish"
+}
+
+// ... 
+dependencies {
+    // ...
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId = "<그룹ID>"
+            artifactId = rootProject.name // 또는 최총 아티펙트명
+            version = "버전명"
+            from components.web
+
+            pom {
+                name = rootProject.name
+                description = "..."
+                url = "..."
+                licenses {
+                    license {
+                        name = "..."
+                    }
+                }
+                scm {
+                    connection = "..."
+                }
+            }
+        }
+    }
+
+    repositories {
+        maven {
+            url = repo.releaseUrl
+            credentials {
+                username = project.nexusUsername // gradle.properties에서 지정
+                password = project.nexusPassword // gradle.properties에서 지정
+            }
+        }
+    }
+}
+
+publish.dependsOn war
+```
+
+@tab Kotlin
+
+```kotlin
+```
+
+:::
+
+
+---
 
 ## `java` Plugin 
 

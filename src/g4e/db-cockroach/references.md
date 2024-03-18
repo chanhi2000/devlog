@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🪳Cockroach > 📚References
+title: References
+description: 🪳Cockroach > References
+icon: iconfont icon-share
 category:
   - 🪳Cockroach
-  - 📚References
+  - References
 tag: 
   - sql
   - db

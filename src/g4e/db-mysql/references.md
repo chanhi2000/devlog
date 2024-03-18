@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🐬MySQL > 📚References
+title: References
+description: MySQL > References
+icon: iconfont icon-share
 category:
-  - 🐬MySQL
-  - 📚References
+  - MySQL
+  - References
 tag: 
   - sql
   - db

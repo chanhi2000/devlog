@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 👽oVirt > Youtube
+description: oVirt > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 👽oVirt
+  - oVirt
   - Youtube
 tag:
   - "youtube"

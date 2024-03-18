@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ▶CLI
-description: 🧊Cubrid > ▶CLI
+title: CLI
+description: Cubrid > CLI
+icon: fas fa-terminal
 category:
-  - 🧊Cubrid
-  - ▶CLI
+  - Cubrid
+  - CLI
 tag:
   - sql
   - cli

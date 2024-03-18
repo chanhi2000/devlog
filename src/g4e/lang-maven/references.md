@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 🐦Maven > 📚References
+title: References
+description: Maven > References
+icon: iconfont icon-share
 category:
-  - 🐦Maven
-  - 📚References
+  - Maven
+  - References
 tag: 
   - maven
   - apache-maven
@@ -21,9 +22,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🐦Maven > 📚References
+      content: Maven > References
     - property: og:description
-      content: 🐦Maven > 📚References
+      content: Maven > References
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-markdown/references.html
 ---

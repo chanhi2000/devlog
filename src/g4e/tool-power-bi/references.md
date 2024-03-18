@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 📚References
-description: 📊Power BI > 📚References
+title: References
+description: 📊Power BI > References
+icon: iconfont icon-share
 category: 
   - 📊Power BI
-  - 📚References
+  - References
 tag: 
   - education
   - powerbi

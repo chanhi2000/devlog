@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Github
-description: 🧙‍♂️Powershell > Github
+description: Powershell > Github
 icon: fa-brands fa-github
 category:
-  - 🧙‍♂️Powershell
+  - Powershell
   - Github
 tag: 
   - powershell

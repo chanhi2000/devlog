@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Spring
 description: Spring
-icon: fas fa-leaf
+icon: fa-brands fa-envira
 category:
   - Java
   - Spring
