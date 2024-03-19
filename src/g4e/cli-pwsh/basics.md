@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐣Basics
-description: Powershell > 🐣Basics
+title: Basics
+description: Powershell > Basics
+icon: fas fa-egg
 category:
   - Powershell 
-  - 🐣Basics
+  - Basics
 tag: 
   - powershell
   - pwsh

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/P2UUePAwzRtfo1CU1ubqWhxToThCjsA7fIpfPkK1jSKp4NQVfpwab6HwKCILpWyeMJQGaF-JRsA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1vHJp445ORI", "title": "Veritas and Morgans — Cyber Security, Data Protection, and Compliance" },
+    { "id": "SxKxR2TWUeI", "title": "Veritas L!VE: Demystifying the NIST 2.0 Framework" },
     { "id": "LCydAAU977I", "title": "NetBackup-powered appliances" }
   ]
 }

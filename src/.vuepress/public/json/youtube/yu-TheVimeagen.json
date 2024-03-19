@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/nZf114FIlvBfTVFRDr3NHKmYMhaYIABF1MtPiIc8Vsc2OP1JwsK5nrfxJKendi7H3VC0SJ-4BA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AtZiAU9-A5A", "title": "SQLite Per User Database Creation w Turso" },
+    { "id": "ALYvH07P53k", "title": "Per User Database Exploration" },
+    { "id": "StZJtDpNvT0", "title": "Twitch Chat To GoLang To Vim" },
+    { "id": "9rVAGZDV6XQ", "title": "Chat is dumb" },
+    { "id": "iFHNjjxa7tU", "title": "Designing Multiplayer TD in Neovim" },
+    { "id": "NOQKRY9X0Jc", "title": "Neovim Tower Defense Update" },
+    { "id": "SorznXIdWO4", "title": "Building Neovim TD Part 1- Parsing Chat" },
+    { "id": "thC-Wvydr_U", "title": "60 FPS Render Test In NeoVim" },
+    { "id": "3QK-w3WWb0I", "title": "TCP Packets In Vim and Golang" },
+    { "id": "sAhV2sbWxAU", "title": "Controlling NeoVim From Golang" },
+    { "id": "XCjEYu4-XEI", "title": "First Realtime App With The Golang Platform" },
+    { "id": "BR6L7V10F-w", "title": "Creating Game Of Life In Neovim" },
     { "id": "aGMIGUqKa64", "title": "Vim APM - Go Packet Parsing" },
     { "id": "PtkjIdcIRTM", "title": "Vim APM - Timings On The Network Algorithm" },
     { "id": "eWQ1BTZe6dI", "title": "VIM APM - The Better Calculator" },

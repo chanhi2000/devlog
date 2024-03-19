@@ -29,5 +29,10 @@
     "desc": "An Operating System Interface made in Godot!",
     "officialSite": "",
     "topics": ["application", "godot-engine", "godot4", "interface"]
+  }, {
+    "repo": "the-mirror-gdp/the-mirror",
+    "desc": "The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.",
+    "officialSite": "https://themirror.space",
+    "topics": ["game-development", "gaming", "gdscript", "godot", "godot-engine", "godotengine", "mit", "mongodb", "mongoose", "multiplayer", "nestjs", "no-code", "open-source", "redis", "roblox", "server", "uefn", "unreal", "visual-scripting", "visual-scripting-language"]
   }
 ]

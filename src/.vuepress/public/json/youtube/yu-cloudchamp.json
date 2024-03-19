@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/HRBgAcsz-w2EJHATAAHVecgaI874LHD4dLEdzWK3IeViMyoXZdqtt8L_g6mqw_FRa-9-gTwg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vf7EIaHuwzU", "title": "My DevOps Resume | How to Build DevOps Resume in 2024" },
+    { "id": "rqEcheJgquA", "title": "Docker Explained with Docker Init & Docker Scout! (Hands On Demo)" },
+    { "id": "oqOzM_WBqZc", "title": "DevOps Project - Automate Terraform with GitLab CICD pipeline" },
+    { "id": "ULiPYBLcCiw", "title": "AWS Interview Questions and Answers 2024" },
+    { "id": "q5S14cfOWfE", "title": "Complete Docker course in 30 mins | Docker Tutorial for Beginners 2024" },
     { "id": "dHXgg9fbP8E", "title": "How I passed the Certified Kubernetes Administrator (CKA) Exam in 2024" },
     { "id": "AsXNDf5-cTs", "title": "IMPORTANT Deployment Strategies in DevOps! (Example & Code)" },
     { "id": "x1PXAY4kQ2k", "title": "Trending DevOps Tools and Technologies in 2024" },

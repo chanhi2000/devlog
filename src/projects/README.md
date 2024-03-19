@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🏭Projects
-description: 🏭Projects
+title: Projects
+description: Projects
+icon: fas fa-industry
 category:
-  - 🏭Project
+  - Project
 tag:
   - schedule
   - gantt

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/rBBZmbNZbxnw1bfoOtUrY9Io1u06Qf85K9ic5Z74PKORAUd9qYz3Z2DYawlTxY2ZtOsRGMfn7g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IYLV26d0dOc", "title": "37 x Interactive React JS Components to Try - Aceternity UI" },
+    { "id": "OIYevBOSMxY", "title": "How to build a PDF summarizer using AI - React JS Next.js" },
     { "id": "ynUFPMoU3_w", "title": "Next.js 14, React, Mongo - Coding a YouTube Clone with A.I." },
     { "id": "Rx02_nUBte8", "title": "You must try this Visual Editor for building React JS Apps" },
     { "id": "COuz7r4M-Wg", "title": "I don't need Firebase anymore! I use Appwrite Cloud Functions" },

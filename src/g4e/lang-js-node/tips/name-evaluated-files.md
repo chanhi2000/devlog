@@ -40,7 +40,7 @@ For example, when using `eval()`:
 eval('console.log("Hello world!")\n//# sourceURL=hello-world.js');
 ```
 
-The above code snippet not only runs the evaluated code, but it also makes it appear in the __Sources__ (or __Debugger__) tool as if it came from a file named `hello-world.js`.
+The above code snippet not only runs the evaluated code, but it also makes it appear in the __Sources__ (or __Debugger__) tool as if it came from a file named <FontIcon icon="fa-brands fa-js"/>`hello-world.js`.
 
 
 ![Firefox DevTools, the `sourceURL` pragma was used when evaluating some code in the Console, and a new file now appears in the Debugger tool, named after the string provided in the sourceURL pragma](https://devtoolstips.org/assets/img/name-evaluated-files.png)

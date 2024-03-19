@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: 🇨🇳China
-description: 🧭Lifeguide > ✈️Travel > 🇨🇳China
+description: Lifeguide > Travel > 🇨🇳China
 category:
-  - 🧭Lifeguide
-  - ✈️Travel
+  - Lifeguide
+  - Travel
   - 🇨🇳China
 tag: 
   - travel

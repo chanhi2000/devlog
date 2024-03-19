@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Jetpack Compose Snippets
 description: Android > Jetpack Compose Snippets
-icon: icon fa-compass-drafting
+icon: fas fa-compass-drafting
 category: 
   - Android 
   - Jetpack Compose

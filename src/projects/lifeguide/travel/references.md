@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ✈️Travel
-description: 🧭Lifeguide > ✈️Travel
+title: Travel
+description: Lifeguide > Travel > References
+icon: iconfont icon-share
 category:
-  - 🧭Lifeguide
-  - ✈️Travel
+  - Lifeguide
+  - Travel
 tag: 
   - travel
   - lifeguide

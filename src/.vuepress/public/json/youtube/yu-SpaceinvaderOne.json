@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/bq58SePe8ZZUWsSweTlnBVih4WtUwMUT5DxybwcfRaaPXxmIZaUTrh39Lgh9b9Z9yEGwPgcK4w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h5fAcE70xbQ", "title": "Simple Cloudflare Tunnel Setup on Unraid for Beginners!" },
+    { "id": "krAZcUIP3YE", "title": "Immich  pt1 - A Closer Look - See How It Compares with Google Photos Before You Switch" },
     { "id": "bXTeftSu0J0", "title": "Mastering ZFS: Snapshot to Rsync Replication to Non-ZFS Destinations - PART B" },
     { "id": "_r6OMmqsYTk", "title": "2 Minute Tips  -  Easily Exchange SSH keys in 30 seconds or less" },
     { "id": "qnEuHKdf7N0", "title" :"How to Migrate from Letsencrypt to the New Swag Container" }, 

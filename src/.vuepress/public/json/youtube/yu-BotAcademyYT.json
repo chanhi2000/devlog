@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "BotAcademyYT",
+    "name": "Bot Academy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kxSlQT9YG3ra7fyIANdbQaiHKjSDMfv5typrx85A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RlQXDK5S-IKNZd43gUDuPc300rkM4O2cQgcZz88wV8x2rQVm1RsQJHfqfBpfoQKt8uH7un7r_zs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_CPXR8PzUTY", "title": "How I created the 'Neural Networks Explained ...' Video!" },
+    { "id": "Pk--a1i194c", "title": "[Showcase] We created a program that generates Twitch Gaming Compilations!" }
+  ]
+}

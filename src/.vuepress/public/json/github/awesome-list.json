@@ -1084,5 +1084,10 @@
     "desc": "DevOps Roadmap for 2024. with learning resources",
     "officialSite": "https://newsletter.techworld-with-milan.com/",
     "topics": ["aws", "azure", "computer-science", "continous-delivery", "continuous-integration", "developer-roadmap", "devops", "devops-roadmap", "docker", "go", "grafana", "jira", "kubernetes", "linux", "prometheus", "python", "roadmap", "sre", "study-plan"]
+  }, {
+    "repo": "BossChow/ultimate-submit-list",
+    "desc": "This repository is dedicated to collecting a directory of resources for submitting startup projects, including websites, communities, newsletters, and more. It aims to help solo makers save time and effortlessly find the right platforms to promote their startups.",
+    "officialSite": "https://submitlist.net",
+    "topics": []
   }
 ]

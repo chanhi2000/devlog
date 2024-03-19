@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐣Basics
-description: 🧢Batchfile > 🐣Basics
+title: Basics
+description: 🧢Batchfile > Basics
+icon: fas fa-egg
 category: 
   - 🧢Batchfile 
-  - 🐣Basics
+  - Basics
 tag: 
   - batch
   - bat

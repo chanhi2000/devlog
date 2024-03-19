@@ -1209,5 +1209,10 @@
     "desc": "A high-performance observability data pipeline.",
     "officialSite": "https://vector.dev",
     "topics": ["events", "forwarder", "logs", "metrics", "observability", "parser", "pipeline", "router", "rust", "stream-processing", "vector"]
+  }, {
+    "repo": "iKevinY/ultra",
+    "desc": "Cryptanalysis of the Enigma machine in Rust.",
+    "officialSite": "",
+    "topics": ["cryptanalysis", "enigma", "enigma-machine", "rust"]
   }
 ]

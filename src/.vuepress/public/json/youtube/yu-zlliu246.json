@@ -1,11 +1,26 @@
 {
   "channel": {
     "id": "zlliu246",
-    "name": "Liu Zuo Lin",
+    "name": "Liu",
     "profile": "https://yt3.googleusercontent.com/qpZRmFspDJ_YYgP2E-b4YyIJ0tZy1FX6IiAxSwDCPs9GoEokjl3mMuxpjZASDC_KQkuAWjiZQg=s176-c-k-c0x00ffffff-no-rj",
     "banner": ""
   },
   "videos": [
+    { "id": "DUOWTIzRW2w", "title": "tictactoe() but in ONE LINE (Can You Solve This in One Line? 10)" },
+    { "id": "WSmVw3WOSsM", "title": "What Every Single Punctuation Does in Python" },
+    { "id": "mTkMV7eH08I", "title": "How to Draw Irregular Shapes in HTML Using SVGs For Beginners (Shapes are Interactable BTW)" },
+    { "id": "sLNphS3LoTM", "title": "Well-Formed Brackets In ONE Line (Can You Solve This In One Line? 11)" },
+    { "id": "opjzWvyZ2aU", "title": "Basic Strings (Python Zero To One - Part 18)" },
+    { "id": "HbxSt-J7c40", "title": "7 Things I Wish I Knew Earlier About Python FastAPI" },
+    { "id": "3rL4cuaFQjk", "title": "7 Things I Wish I Knew Earlier About Python Classes" },
+    { "id": "oT0EDxbe-xw", "title": "Hollow Triangle (Difficult Python Practice Question 5)" },
+    { "id": "zGtPe9qnuSw", "title": "Hollow Triangle (Can you Solve This in ONE Line? 9)" },
+    { "id": "_COYlz7j0cQ", "title": "9 Things I Wish I Knew Earlier About Pandas" },
+    { "id": "6Cmfis_JfG8", "title": "Well-formed Brackets (Difficult Python Practice Question 7)" },
+    { "id": "p-LkXEfHG-A", "title": "Every Python Keyword Explained" },
+    { "id": "65Mu9F67758", "title": "Vue Frontend + GOOGLE SHEETS Backend + How To Deploy For Free On Netlify" },
+    { "id": "8kT1FPIKM0Y", "title": "Every Single Operator in Python Explained" },
+    { "id": "ty9Y3RuqXHY", "title": "How To Sort Lists in Python Using Custom Conditions (Sorting By Length/Second Letter/Etc Etc)" },
     { "id": "TQPOmw-Y6GE", "title": "4 Basic For Loop/While Loop Practice Questions (Python From Zero To One Checkpoint 3)" },
     { "id": "NLEdc7bIBNg", "title": "Nested Loops Explained (Python From Zero To One Part 16)" },
     { "id": "pHu3t3wzAGA", "title": "Accumulating Using A For Loop (Python From Zero To One - Part 17)" },

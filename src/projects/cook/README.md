@@ -2,7 +2,8 @@
 lang: ko-KR
 title: Cook
 description: Project > Cook
-category: 
+icon: fas fa-fire-burner
+category:
   - Project
   - Cook
 tag: 

@@ -344,5 +344,15 @@
     "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
     "officialSite": "https://asp.net",
     "topics": ["aspnetcore", "dotnet", "hacktoberfest", "help-wanted"]
+  }, {
+    "repo": "microsoft/garnet",
+    "desc": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+    "officialSite": "https://microsoft.github.io/garnet/",
+    "topics": ["cache", "cache-storage", "cluster", "concurrent", "hash-table", "key-value", "larger-than-memory", "low-latency", "persistent", "remote", "scalable", "store"]
+  }, {
+    "repo": "marticliment/WingetUI",
+    "desc": "WingetUI: A better UI for your package managers",
+    "officialSite": "https://www.marticliment.com/wingetui/",
+    "topics": ["chocolatey", "cli", "npm", "package", "package-manager", "pip", "scoop", "windows", "windows-10", "windows-11", "winget", "wingetui"]
   }
 ]

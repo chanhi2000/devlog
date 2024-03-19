@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Kotlin Snippets
 description: Android > Kotlin Snippets
-icon: fas fa-eye-dropper
+icon: fa-brands fa-kickstarter
 category:
   - Android 
   - Kotlin Snippets

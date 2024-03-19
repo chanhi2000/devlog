@@ -200,7 +200,6 @@ head:
 <MyYouTubeItems jsonName="yu-perfectbase" /><!-- Ravi - Perfect Base -->
 <MyYouTubeItems jsonName="yu-NerdCademyDev" /><!-- NerdCademy -->
 <MyYouTubeItems jsonName="yu-ColorCodeio" /><!-- ColorCode -->
-<MyYouTubeItems jsonName="yu-ClarityCoders" /><!-- ClarityCoders -->
 <MyYouTubeItems jsonName="yu-blogcreator6109" /><!-- 블로그 크리에이터 -->
 <MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
 <MyYouTubeItems jsonName="yu-jahiddev" /><!-- Jahid Anowar -->
@@ -238,5 +237,6 @@ head:
 <MyYouTubeItems jsonName="yu-yangdongjun" /><!-- 양동준 Yang DongJun -->
 <MyYouTubeItems jsonName="yu-Delba" /><!-- Delba -->
 <MyYouTubeItems jsonName="yu-TomDoesTech" /><!-- TomDoesTech -->
+<MyYouTubeItems jsonName="yu-LachlanMiller" /><!-- Lachlan Miller -->
 
 <TagLinks />

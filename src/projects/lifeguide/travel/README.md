@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ✈️Travel
-description: 🧭Lifeguide > ✈️Travel
+title: Travel
+description: Lifeguide > Travel
+icon: fas fa-plane
 category:
-  - 🧭Lifeguide
-  - ✈️Travel
+  - Lifeguide
+  - Travel
 tag: 
   - travel
   - lifeguide

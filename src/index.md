@@ -669,6 +669,7 @@ footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present 
 <!-- <DataTauItems /> -->
 <!-- <ZSyncItems /> -->
 
+<!-- 
 ```mermaid
 mindmap
   root((Fullstack DevOps))
@@ -743,3 +744,4 @@ mindmap
       K3(NCloud)
       K4(Notion)
 ```
+-->

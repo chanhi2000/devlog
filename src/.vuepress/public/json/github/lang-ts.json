@@ -1450,7 +1450,7 @@
     "topics": ["ledger", "ledger-cli", "personal-finance", "plaintext-accounting", "visualization"]
   }, {
     "repo": "lobehub/lobe-chat",
-    "desc": "🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.",
+    "desc": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
     "officialSite": "https://chat-preview.lobehub.com",
     "topics": ["ai", "azure-openai", "chat", "chatglm", "chatgpt", "claude", "dalle-3", "function-calling", "gemini", "gpt", "gpt-4", "gpt-4-vision", "llama2", "nextjs", "ollama", "openai", "tts"]
   }, {
@@ -2412,6 +2412,11 @@
     "repo": "AntonioErdeljac/next14-duolingo-clone",
     "desc": "",
     "officialSite": "https://next14-duolingo-clone.vercel.app",
+    "topics": []
+  }, {
+    "repo": "OpenDevin/OpenDevin",
+    "desc": "",
+    "officialSite": "",
     "topics": []
   }
 ]

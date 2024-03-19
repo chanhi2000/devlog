@@ -154,5 +154,10 @@
     "desc": "7 Lessons, Kick-start Your Cybersecurity Learning.",
     "officialSite": "https://microsoft.github.io/Security-101/",
     "topics": ["appsec", "cia-triad", "data-protection", "data-security", "iam", "identity", "risk-management", "secops", "security", "threat-modeling", "zero-trust"]
+  }, {
+    "repo": "codediodeio/rembg-webapp-tutorial",
+    "desc": "a simple webapp with rembg",
+    "officialSite": "",
+    "topics": []
   }
 ]

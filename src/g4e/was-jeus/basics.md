@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐣Basics
-description: 🦖JEUS > 🐣Basics
+title: Basics
+description: 🦖JEUS > Basics
+icon: fas fa-egg
 category:
   - 🦖JEUS
-  - 🐣Basics
+  - Basics
 tag: 
   - java
   - jdk

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/AqxtaCQJVqERHpcnvpyeeIMPj_wp-lJzRyGoi-7bYVL50YDJ4_X5aMbGvzgjQrxzqyBQuUlmyEY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VpnZnFUHhIU", "title": "The Data Structure You Use Matters a Lot" },
+    { "id": "vxk6YPRVg_o", "title": "Everything You NEED to Know about Web Scraping (Advanced)" },
+    { "id": "ALPWOiUKIjY", "title": "How Data Structures & Algorithms are Actually Used" },
     { "id": "S1nJPemTgzk", "title": "How Software Engineers SHOULD Write Code" },
     { "id": "UmeDkmGL62Y", "title": "The Dev Platform is ALMOST Done!! - Dev Startup Day 11" },
     { "id": "s2JSKp95Zaw", "title": "Dev Startup Day 12 - Merry Christmas!" },

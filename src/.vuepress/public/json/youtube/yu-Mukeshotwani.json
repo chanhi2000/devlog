@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/Z9BcqOh-yc6CGwOJM2btL6Uira8ZFw5O_O36F7kB0mDXsKPN0ko5nowPT64FPRvWQvLApTq9fw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ASYCV3P2AYU", "title": "How To Push Playwright Test To Github" },
+    { "id": "HwLJspzlLdk", "title": "Web Automation Testing Using Cypress On Cloud | LambdaTest" },
+    { "id": "jzNOGxobG2g", "title": "I Have Learned Java But Now My Company Is Asking Me Working On Different Language" },
+    { "id": "QhmE2Vzxk5g", "title": "How To Download And Install Maven On MAC" },
+    { "id": "Pd_rcyDgK9k", "title": "Automation Testing Q&A Session - New Batch Announcement For Selenium With Java" },
     { "id": "4aiu6pRE0YQ", "title": "Page Object Model In Playwright With JavaScript" },
     { "id": "4MG08fBp7kc", "title": "How To Run Selenium Test In Headless Mode In Edge Browser" },
     { "id": "KwqqTKi3ti8", "title": "How To Fix `java.lang.NoSuchMethodError` In TestNG" },

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "TiagoForte",
+    "name": "Tiago Forte",
+    "profile": "https://yt3.googleusercontent.com/RNjeFJ_AlvfCZwwEUaZIRFiLdPXRUbWSWavmQ-mlwi8D7XAFpX1EXGg5GgIkwM8fTFPFArb0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/66tT4RtTG2KlX0UWOfX039f1I2_QTU4v_zzi2M_iQG8N0_PwMK8RZlwJKlSJ04cFlXKVwXMP=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iWPjBwXy_Io", "title": "How to Use NotebookLM (Google's New AI Tool)" },
+    { "id": "tHF8bwVJ--4", "title": "How to Digitize Handwritten Notes With ChatGPT Vision" },
+    { "id": "Lmv40Nvasts", "title": "Intro to Notetaking in Mem (with Srini Rao) – Part 1" }
+  ]
+}

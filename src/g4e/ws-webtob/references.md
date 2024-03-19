@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: References
-description: 🏹WebtoB > References
+description: WebtoB > References
 icon: iconfont icon-share
 tags:
   - http.m

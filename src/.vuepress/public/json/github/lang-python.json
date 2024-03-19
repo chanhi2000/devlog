@@ -4509,5 +4509,20 @@
     "desc": "Grok open release",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "openai/grok",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "philz1337x/clarity-upscaler",
+    "desc": "Clarity-Upscaler: Reimagined image upscaling for everyone",
+    "officialSite": "https://ClarityAI.cc",
+    "topics": ["ai", "ai-art", "image-upscale", "image-upscaler", "image-upscaling", "image2image", "img2img", "stable-diffusion", "stable-diffusion-webui", "upscale", "upscaler", "upscalerimage"]
+  }, {
+    "repo": "mealie-recipes/mealie",
+    "desc": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+    "officialSite": "https://docs.mealie.io",
+    "topics": ["hacktoberfest", "hacktoberfest2022", "meal-plans", "recipe-manager", "self-hosted"]
   }
 ]

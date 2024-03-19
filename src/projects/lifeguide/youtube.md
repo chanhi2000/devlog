@@ -110,5 +110,6 @@ head:
 <MyYouTubeItems jsonName="yu-masterchoi_" /><!-- Master Choi -->
 <MyYouTubeItems jsonName="yu-numolri" /><!-- 너만몰랐던리뷰 -->
 <MyYouTubeItems jsonName="yu-800c_official" /><!-- 800도씨 -->
+<MyYouTubeItems jsonName="yu-muchelin1" /><!-- 머슐랭 -->
 
 <TagLinks />

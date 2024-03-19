@@ -33,7 +33,6 @@ tag:
 <MyYouTubeItems jsonName="yu-inflearn_official" /><!-- 인프런 inflearn -->
 <MyYouTubeItems jsonName="yu-coohde" /><!-- 생활코딩 -->
 <MyYouTubeItems jsonName="yu-devaslife" /><!-- devaslife -->
-<MyYouTubeItems jsonName="yu-Telusko" /><!-- Telusko  -->
 <MyYouTubeItems jsonName="yu-nadocoding" /><!-- 나도코딩 -->
 <MyYouTubeItems jsonName="yu-edurekaIN" /><!-- edureka! -->
 <MyYouTubeItems jsonName="yu-LearnitTraining" /><!-- Learnit Training -->

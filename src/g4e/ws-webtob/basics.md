@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐣Basics
-description: 🏹WebtoB > 🐣Basics
+title: Basics
+description: 🏹WebtoB > Basics
+icon: fas fa-egg
 category:
   - 🏹WebtoB
-  - 🐣Basics
+  - Basics
 tag: 
   - http.m
   - webtob

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/yXw0wwrz4T7Bg8HCqeKK9WyW4YTd81UL0pJLjBDh8scieNJp4wsZ76D1OgGjibMuqaYlKH2Y6w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-7c6uagBBBM", "title": "Transforming Company Data into Epic Insights✨ | Isabel Sandstroem | SSW EagleEye" },
+    { "id": "nR5JGyYSVTM", "title": "Exploring Radius: A Cloud-Native Platform | William Liebenberg & Will Velida" },
+    { "id": "sMWxVPMS4tg", "title": "TDD: How Fluent Assertions came to be | Luke Parker & Dennis Doomen" },
+    { "id": "X8RlScYi-Dg", "title": "Exploring Azure AI Speech Studio | Ulysses Maclaren & Michelle Sandford" },
     { "id": "Oeh2IJw7Zig", "title": "Blazor Web Apps - Goodbye JavaScript! I'm in love with C#" }
   ]
 }

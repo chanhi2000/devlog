@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "CloudComputingInsider",
+    "name": "Cloud Computing Insider",
+    "profile": "https://yt3.googleusercontent.com/ZmdmH2unpshL152M9WG8MVY7zF9b8hIquIk3NfrrKaGiJDtoLSuELTL4g0JCTLPKupWJAQPRew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nlriWBvw0XdE_UDM97vQA4jT11KnGSsqJ-v5idAN_fWJR6dhU64Bf-pzDj8sgEf6-uYUgdzH=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "L1fGs0h5JOM", "title": "3 Surefire Ways to Be a better (and better paid) Cloud Architect" },
+    { "id": "KopfoqQdEzE", "title": "Serverless & Microservices Epic Fails!" },
+    { "id": "EkeQv5mWY08", "title": "Three Reasons Why the Cloud Was a Huge Mistake" },
+    { "id": "3cT74vGLTEY", "title": "What If Your Cloud Solution Was a Bicycle?" }
+  ]
+}

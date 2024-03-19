@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "DenverGamer",
+    "name": "Denver Gamer",
+    "profile": "https://yt3.googleusercontent.com/VRS5j4uDP_VNeBJJ5DNxys4TVTW_bx0VWIgliIBKC61IINVLQkzefjMS15UTRXRawDmxZJYFtA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HZ9fmHKPcsyeH9R5YXpgBln-sVN5PfCR-4ibpOp4om0EyF1X51wkhuO_QQKgY7J2kQcU5i4swQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "x7dpmsMKH1o", "title": "How to Unlock a Full XBLA Game in Xenia Master" },
+    { "id": "sYHrSHszw4E", "title": "Easy Xenia Setup Tutorial and Best Settings 2024! Xbox 360 Emulator for PC!" },
+    { "id": "3LE5NZvM47w", "title": "How To Import Save Files Into Xenia Canary 2024" },
+    { "id": "BQYTZfxwqB8", "title": "EASY Parallel Launcher Setup Guide 2024! Nintendo 64 Emulator for PC! (N64)" }
+  ]
+}

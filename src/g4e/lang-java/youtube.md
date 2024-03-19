@@ -138,7 +138,6 @@ head:
 <MyYouTubeItems jsonName="yu-ntigo" /><!-- 김대협 -->
 <MyYouTubeItems jsonName="yu-javajigi" /><!-- 박재성 -->
 <MyYouTubeItems jsonName="yu-rabisankarpodder7839" /><!-- Rabi Sankar Podder -->
-<MyYouTubeItems jsonName="yu-GainJavaKnowledge" /><!-- Gain Java Knowledge -->
 <MyYouTubeItems jsonName="yu-infybuzz" /><!-- Infybuzz -->
 <MyYouTubeItems jsonName="yu-java" /><!-- Java -->
 <MyYouTubeItems jsonName="yu-namoosori" /><!-- 나무소리 -->

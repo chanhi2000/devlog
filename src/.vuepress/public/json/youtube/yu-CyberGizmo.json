@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/3gSKtGMbSfzcfYzxdFbhlC4jS9dQMI9fMgbu_e3sHfrVOFO-qRM5jjl6KWWiZG8GN7PPeljFiA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZrFQJ0zTZjE", "title": "Linux in 2024 - Charting its Own Path to Innovation" },
+    { "id": "eosQZDgbME0", "title": "Comparing 10 Popular Linux Distros: Which One Rules Your Desktop?" },
+    { "id": "MRjB62WNABw", "title": "eGPUs on Linux - Unleashing External Graphics Power" },
+    { "id": "APbCWRDWci0", "title": "Post-Quantum Cryptography: Securing Our Digital Life" },
+    { "id": "5qd3tOZdelg", "title": "Elevate CentOS 7 to AlmaLinux 9" },
+    { "id": "s95hjvFAE5g", "title": "Why Compile a Linux Kernel from Source?" },
+    { "id": "hN_tKgl_BsE", "title": "Forge the Latest: Upgrading Debian Stable to Testing" },
+    { "id": "AOSXtYuloC0", "title": "Effortless Upgrades: Migrating Your Servers with AlmaLinux Elevate" },
     { "id": "jxt9wUPGzSw", "title": "Cleaning Out Journal Files" },
     { "id": "FBGbENrLEJA", "title": "BcacheFS - \"The COW filesystem for Linux that won't eat your data\"" },
     { "id": "85d-HcCZURU", "title": "Three Container Systems for Linux" },

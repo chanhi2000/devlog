@@ -6,19 +6,18 @@ export const navbarEn = navbar([
     icon: 'fas fa-industry',
     children: [
       {
-        text: '🏭Projects',
-        link: '/projects/README.md'
-      }, {
         text: '🏁My Roadmap',
         link: '/projects/roadmap/README.md'
       }, {
         text: '🏰Portfolio',
         link: '/projects/portfolio/README.md',
       }, {
-        text: '🧭Lifeguide',
+        text: 'Lifeguide',
+        icon: 'fas fa-compass',
         link: '/projects/lifeguide/README.md'
       }, {
-        text: '🍽Cook',
+        text: 'Cook',
+        icon: 'fas fa-fire-burner',
         link: '/projects/cook/README.md'
       }
     ],
@@ -65,10 +64,7 @@ export const navbarEn = navbar([
         text: 'Maven',
         link: '/g4e/lang-maven/README.md',
         icon: 'fas fa-feather-pointed',
-      }, {
-        text: '🅺Kotlin',
-        link: '/g4e/lang-kotlin/README.md',
-      }, {
+    }, {
         text: 'Java',
         link: '/g4e/lang-java/README.md',
         icon: 'fa-brands fa-java'

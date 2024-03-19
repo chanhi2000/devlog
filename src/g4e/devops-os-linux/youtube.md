@@ -133,5 +133,6 @@ tag:
 <MyYouTubeItems jsonName="yu-wboan" /><!-- W보안넷 : 정보보안 -->
 <MyYouTubeItems jsonName="yu-TutorialsPoint_" /><!-- Tutorialspoint -->
 <MyYouTubeItems jsonName="yu-MichaelMJD" /><!-- Michael MJD -->
+<MyYouTubeItems jsonName="yu-decrazyo" /><!-- decrazyo -->
 
 <TagLinks />

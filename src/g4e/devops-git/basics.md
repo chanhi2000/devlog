@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐣Basics
-description: Git > 🐣Basics
+title: Basics
+description: Git > Basics
+icon: fas fa-egg
 category:
   - Git 
-  - 🐣Basics
+  - Basics
 tag: 
   - git
   - git-cli

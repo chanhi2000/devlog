@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/dsJKoz3hgne41o9N9qlVGpD4tZu8VtBYpo3NkPIp0kaaVZzfL3SCVAFXJY_RUkn4srRJ5Krexw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FPiiiE4LXVw", "title": "Now Is The Best Time to Learn Go" },
+    { "id": "qSQtKtmj4M0", "title": "React 19 - This Has To Stop!" },
+    { "id": "v8-yeWXCsi4", "title": "Now is The Best Time to Learn WebAssembly" },
+    { "id": "GCrjzRmn4os", "title": "Now is the Best Time to Learn Tailwind" },
     { "id": "f5MpjDtnFP4", "title": "Why Is Lua SO Popular?" },
     { "id": "E7pxGyEcPNI", "title": "Go is Surprisingly Easy" },
     { "id": "bti-bnGbyak", "title": "The HATE Stack - Simple and Efficient" },

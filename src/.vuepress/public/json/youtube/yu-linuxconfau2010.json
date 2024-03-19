@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "linuxconfau2010",
+    "name": "Linux.conf.au 2010 -- Wellington, New Zealand",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kCaeR4pcTGDPL--HwDbzM1f9pydrP9XzOU3j_s=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "RiKJqtppKSM", "title": "Git Wrangling - Advanced Tips and Tricks" }
+  ]
+}

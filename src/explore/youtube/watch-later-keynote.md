@@ -116,5 +116,6 @@ tag:
 <MyYouTubeItems jsonName="yu-programmersdevcourse" /><!-- 프로그래머스 데브코스 -->
 <MyYouTubeItems jsonName="yu-rustlabconference3671" /><!-- RustLab Conference -->
 <MyYouTubeItems jsonName="yu-CodeEurope" /><!-- Code Europe -->
+<MyYouTubeItems jsonName="yu-linuxconfau2010" /> <!-- Linux.conf.au 2010 -- Wellington, New Zealand -->
 
 <TagLinks />

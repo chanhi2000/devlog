@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "TheBuilder",
+    "name": "The Builder",
+    "profile": "https://yt3.googleusercontent.com/1DyjhKRfJVK3bbkqXOghVho-F7Z4uFyfMlyvBNROOtjxJ5b7vWH0oeUgCaXeVztli-Mj_HTbaw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ihgLBQKGJno", "title": "Can you use C++ for Machine Learning?" },
+    { "id": "VEjO-UrvHFs", "title": "most useful format function" },
+    { "id": "kPyCexyJ8ik", "title": "use memset to protect your data" },
+    { "id": "GKBu7KYImeI", "title": "Pointers Explained in 4 Minutes" },
+    { "id": "cdsezM1QfzY", "title": "Learn to Build Real Software With CodeCrafters" }
+  ]
+}

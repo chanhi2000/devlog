@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐣Basics
-description: Docker > 🐣Basics
+title: Basics
+description: Docker > Basics
+icon: fas fa-egg
 category:
   - Docker
-  - 🐣Basics
+  - Basics
 tag: 
   - sh
   - bash

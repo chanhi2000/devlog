@@ -34,5 +34,10 @@
     "desc": "How to colorize Game Boy games - Example code",
     "officialSite": "",
     "topics": []
+  },{
+    "repo": "nanochess/bootLogo",
+    "desc": "Logo language in 508 bytes (x86 boot sector)",
+    "officialSite": "",
+    "topics": []
   }
 ]

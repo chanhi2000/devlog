@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🐣Basics
-description: Shell > 🐣Basics
+title: Basics
+description: Shell > Basics
+icon: fas fa-egg
 category:
   - Shell
-  - 🐣Basics
+  - Basics
 tag: 
   - bash
   - linux

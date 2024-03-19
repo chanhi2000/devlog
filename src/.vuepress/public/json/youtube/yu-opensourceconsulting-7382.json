@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/wE7WmtbClGirC9reZfYCxIol6vI-Po6W3UOFHgneoo-LidpliL7hViaGRBH0sXsehfrctXwKygs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tp-NIVRCcho", "title": "[Unleash in Seoul] 성공을 이끄는통합 협업 시스템 구축 및 조직 Alignment 사례 - LG CNS 김형진 팀장" },
+    { "id": "4QynKFEfFF4", "title": "[Unleash in Seoul] 협업 툴을 활용한 Agile practice 실행하기(feat. Atlassian, Miro) - 오픈소스컨설팅 김두현 애자일 코치" },
+    { "id": "kvN6uBQa8fQ", "title": "[Unleash in Seoul] 왜 우리 개발팀은 CI/CD 도구로Bitbucket Cloud를 선택했을까? - 오픈소스컨설팅 송홍섭 테크 리더" },
+    { "id": "wmT7FKNBNuU", "title": "[Unleash in Seoul] Atlassian Jira, JSM,Bitbucket을 활용한 ITSM 구축 사례 및 데모 - 오픈소스컨설팅 황정효 프로" },
+    { "id": "vWdOrbWrR4Y", "title": "[Unleash in Seoul] Atlassian tool chain을 이용한 Open DevOps 플랫폼 - Atlassian 정광섭 이사" },
+    { "id": "88ybiqHfaUU", "title": "[Unleash in Seoul] Keynote: Unleashing the right dev culture - Atlassian 류윤상 대표" },
+    { "id": "YAWxYPz_jyg", "title": "[Unleash in Seoul] Keynote:Business Agility를 위한 DX with AX - 오픈소스컨설팅 김대일 고문" },
+    { "id": "wjCxoHMHPXk", "title": "Unleash Agile & DevOps in Seoul 현장 스케치" },
+    { "id": "InOmq2ex5VE", "title": "[고객 사례] LG CNS | 'Flexible User License'를 선택한 이유!" },
+    { "id": "IW1X8jLYeL0", "title": "[Customer Story] LG CNS | Why did we choose 'Flexible User License'?" },
     { "id": "CUTTg89SYm4", "title": "✅ What is Agile? 2탄, 애자일이란 무엇일까요? - 오픈소스컨설팅 Agile Series (3)" },
     { "id": "8IgtHlWE53o", "title": "[BDS 2023] VM과 컨테이너를 통합 관리하는 클라우드 네이티브 HCI 구축방안" }, 
     { "id": "siT_Gn9npQU", "title": "What is Jira seats? How to control your team's Jira Seats?" }, 

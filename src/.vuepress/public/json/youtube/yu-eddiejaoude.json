@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/cJk7WK4_iRZKQ4N5gWD06RoYbDg4V47eeEYrrwqWWpvKhsuux1XUuT-II_wk1K6LInYxmJsF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "u9TjbtZX4Zg", "title": "Open Source Feature Flags with Flagsmith" },
+    { "id": "nnYyWuPBblE", "title": "Open Source GitHub Repo Reactions (part 2)" },
+    { "id": "L3KN17klxpc", "title": "Custom GitHub Actions and Release Workflows" },
+    { "id": "Xj4cSObuf3w", "title": "Automate Repo Reviews with NextJS and Tailwind" },
+    { "id": "BCzNtbEh5T4", "title": "GitHub VERIFIED #github #git" },
+    { "id": "ZI7tSRR9q8w", "title": "Reviewing your Open Source Repos + Profiles" },
     { "id": "Nj1O1vbyzIM", "title": "NextJS AppRouter API custom headers" },
     { "id": "-GuWsVLBM2A", "title": "Mockoon: Open Source SaaS product" },
     { "id": "pOI0zhjLtp8", "title": "SaaS Ideas to make extra money" },

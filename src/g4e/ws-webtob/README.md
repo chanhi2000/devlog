@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🏹WebtoB
-description: 🏹WebtoB
+title: WebtoB
+description: WebtoB
+icon: fas fa-sailboat
 category:
-  - 🏹WebtoB
+  - WebtoB
 tags:
   - http.m
   - webtob

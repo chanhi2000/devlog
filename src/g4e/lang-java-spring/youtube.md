@@ -72,5 +72,7 @@ head:
 <MyYouTubeItems jsonName="yu-RamNJava" /><!-- Ram N Java -->
 <MyYouTubeItems jsonName="yu-GenuineCoder" /><!-- Genuine Coder -->
 <MyYouTubeItems jsonName="yu-ProgrammingTechie" /><!-- Programming Techie -->
+<MyYouTubeItems jsonName="yu-Telusko" /><!-- Telusko  -->
+<MyYouTubeItems jsonName="yu-GainJavaKnowledge" /><!-- Gain Java Knowledge -->
 
 <TagLinks />

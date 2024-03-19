@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/8rCr8lFPJIInkiDVnQ73LWNu56kKjncyRpirqfMHEHHnWXzerbQvzjgvUP63vQP-gLg8U0Or=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "S5UAXb8lGHM", "title": "Introducing NGINX One" },
     { "id": "4Ikk-KJo3y4", "title": "WebAssembly Breakthroughs with Timo Stark" },
     { "id": "ctvi9POSeOg", "title": "Get the Real Story: The Application Development Journey" },
     { "id": "ZmyGJnAEDqI", "title": "Migrate Workloads with F5 NGINXaaS for Azure" }, 

@@ -130,5 +130,9 @@ tag:
 <MyYouTubeItems jsonName="yu-samwitteveenai" /><!-- Sam Witteveen -->
 <MyYouTubeItems jsonName="yu-AnsonAlexander" /><!-- Anson Alexander -->
 <MyYouTubeItems jsonName="yu-LiamOttley" /><!-- Liam Ottley -->
+<MyYouTubeItems jsonName="yu-TiagoForte" /><!-- Tiago Forte -->
+<MyYouTubeItems jsonName="yu-fitcevents" /><!-- fitcevents -->
+<MyYouTubeItems jsonName="yu-Lbdyro" /><!-- Seongsik Kim -->
+<MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
 
 <TagLinks />

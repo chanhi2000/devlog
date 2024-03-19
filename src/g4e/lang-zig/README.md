@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🏂Zig
-description: 🏂Zig
+title: Zig
+description: Zig
+icon: fas fa-person-snowboarding
 category: 
-  - 🏂Zig
+  - Zig
+tag:
+  - zig
 ---
 
 # {{ $frontmatter.description }} 관련

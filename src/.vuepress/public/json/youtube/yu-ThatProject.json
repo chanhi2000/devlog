@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/rVw7-4D0OIAW9TiatMzRGuSKN9sEAaMsoXLJjJBSgEJoF5x98BC_pq35DtL89fdcfoff8Va_5A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NlU4DTx7_1k", "title": "LVGL 9 Examples, [Ep. 02] We can understand better and faster through LVGL Examples #LVGL #UI" },
+    { "id": "PdpRFgsxTwg", "title": "LVGL 9, [Ep. 03] Creating Stunning UI on ESP32 with LVGL: A Step-by-Step Guide #LVGL #UI #ESP32" },
+    { "id": "lJsi2XrTV8w", "title": "e-Paper Calendar to manage family scheduling #ESP32 #EPDiy #ED097TC2" },
     { "id": "33Vnp6Jhn88", "title": "[Dev Environment Setup] ESP-IDF & Visual Studio Code for ESP32 Programming on MAC" }, 
     { "id": "IuvEtq73gyE", "title": "[Arduino Library] OpenAI's API for ChatGPT" } 
   ]
