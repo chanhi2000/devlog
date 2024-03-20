@@ -1,12 +1,14 @@
 ---
 lang: ko-KR
-title: 🧐Selenium
-description: 🧐Selenium
+title: Selenium
+description: Selenium
+icon: fas fa-square-check
 category: 
-  - 🧐Selenium
+  - Selenium
 tag: 
+  - test
   - selenium
-  - automation
+  - test-automation
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -16,3 +18,7 @@ tag:
 :::
 
 <ShieldsGroup logos="selenium"/>
+
+---
+
+<TagLinks />

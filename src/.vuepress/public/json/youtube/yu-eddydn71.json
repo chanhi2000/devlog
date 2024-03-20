@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/nf8LF5WytA1-bgqBmqXgvc4a-L4XdbSdDWcmv3H78c8MC5ExXwSmsKyKsn_3U030OC0lzxNIlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7kzBBhRsFls", "title": "Monolithic vs Microservices Architectures #softwarearchitecturepattern #edmtdev" },
+    { "id": "6vPp5SuYtfA", "title": "A More Efficient Way to Update Multiple Records in Your Database with EFCore #edmtdev" },
+    { "id": "aVV-nN6jUng", "title": "Six common ways to build APIs #api  #edmtdev" },
+    { "id": "5g-EtprViTE", "title": "Dive Into REST API: Beginner to Expert in Simple Steps" },
     { "id": "JV-x_yTTTXs", "title": "Quiz App Development with Flutter: A Comprehensive Tutorial" },
     { "id": "xcBN2OGghNA", "title": "HTML Tutorial: How to Design a Before-After Image Comparison Slider  #edmtdev #html #javascript #js" },
     { "id": "UKU9WizT7Bw", "title": "Kotlin with Jetpack Compose: Day 2 -  QR Scanner App" },

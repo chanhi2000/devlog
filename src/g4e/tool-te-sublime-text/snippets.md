@@ -1,12 +1,16 @@
 ---
 lang: ko-KR
 title: Snippets
-description: ⌨Sublime Text > Snippets
+description: Sublime Text > Snippets
 icon: fas fa-eye-dropper
 category: 
-  - ⌨Sublime Text
+  - Sublime Text
   - Snippets
-tag: 
+tag:
+  - text-editor
+  - sublimetext
+  - sublime-text
+  - subl
   - js
   - chrome
   - chrome-browser

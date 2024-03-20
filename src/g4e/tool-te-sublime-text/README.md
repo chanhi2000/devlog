@@ -1,9 +1,15 @@
 ---
 lang: ko-KR
-title: ⌨Sublime Text
-description: ⌨Sublime Text
+title: Sublime Text
+description: Sublime Text
+icon: fas fa-file-lines
 category:
-  - ⌨Sublime Text
+  - Sublime Text
+tag:
+  - text-editor
+  - sublimetext
+  - sublime-text
+  - subl
 ---
 
 # {{ $frontmatter.description }} 관련

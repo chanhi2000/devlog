@@ -2,8 +2,10 @@
 lang: ko-KR
 title: Excel
 description: Excel
-icon: fas fa-file-excel
+icon: fas fa-table
 category: 
+  - Microsoft
+  - Microsoft Office
   - Excel
 tag:
   - excel

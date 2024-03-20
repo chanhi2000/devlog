@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
 title: References
-description: 🌱API - Kakao > References
+description: API - Kakao > References
 icon: iconfont icon-share
 category:
-  - 🌱API - Kakao
+  - API 
+  - Kakao
   - References
 tag: 
   - kakao

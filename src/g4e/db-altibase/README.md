@@ -1,9 +1,17 @@
 ---
 lang: ko-KR
-title: 🦉Altibase
-description: 🦉Altibase
+title: Altibase
+description: Altibase
+icon: fas fa-campground
 category:
-  - 🦉Altibase
+  - Database
+  - DB
+  - Altibase
+tag:
+  - database
+  - db
+  - sql
+  - altibase
 ---
 
 # {{ $frontmatter.description }} 관련

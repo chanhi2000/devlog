@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔭Skopeo 
-description: 🍄Podman > 🔭Skopeo 
+title: Skopeo 
+description: Podman > Skopeo
+icon: fas fa-binoculars
 category:
-  - 🍄Podman
-  - 🔭Skopeo
+  - Podman
+  - Skopeo
 tag: 
   - sh
   - bash

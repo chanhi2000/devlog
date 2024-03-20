@@ -35,6 +35,7 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-CleverProgrammer" /><!-- Clever Programmer -->
 <MyYouTubeItems jsonName="yu-CodeBoost" /><!-- Code Boost -->
 <MyYouTubeItems jsonName="yu-Codevolution" /><!-- Codevolution -->
 <MyYouTubeItems jsonName="yu-notjustdev" /><!-- notJust․dev -->

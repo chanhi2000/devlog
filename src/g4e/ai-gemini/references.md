@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: References
-description: 🌟Gemini > References
+description: Gemini > References
 icon: iconfont icon-share
 category: 
-  - 🌟Gemini
+  - Gemini
   - References
 tag: 
   - llm

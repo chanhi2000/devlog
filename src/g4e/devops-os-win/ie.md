@@ -4,6 +4,7 @@ title: Internet Explorer
 description: Windows > Internet Explorer
 icon: fa-brands fa-internet-explorer
 category:
+  - Microsoft
   - Windows
   - Internet Explorer
 tag: 

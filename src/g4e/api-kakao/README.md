@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🌱API - Kakao
-description: 🌱API - Kakao
+title: API - Kakao
+description: API - Kakao
+icon: fas fa-seedling
 category:
-  - 🌱API - Kakao
+  - API 
+  - Kakao
+tag:
+  - kakao
 ---
 
 # {{ $frontmatter.description }} 관련

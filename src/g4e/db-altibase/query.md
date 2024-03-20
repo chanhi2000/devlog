@@ -1,11 +1,14 @@
 ---
 lang: ko-KR
-title: 🔍Query
-description: 🦉Altibase > 🔍Query
+title: Query
+description: Altibase > Query
+icon: fas fa-magnifying-glass
 category:
-  - 🦉Altibase 
-  - 🔍Query
+  - Altibase 
+  - Query
 tag: 
+  - database
+  - db
   - sql
   - altibase
   - altibase7
@@ -70,28 +73,6 @@ INSERT INTO :테이블명 (
     , :컬럼명2 = :컬럼2의값
     /* ...[이하생략] */
 ;
-```
-
----
-
-## B. CLI
-
-### B1. 전체 translist 확인
-
-#### B1-i. 실행중인 쿼리 조회
-
-```sh
-watch -n 1 cubrid translist \
-    -p <접근 비밀번호> <테이블스페이스명>@<IP주소> \
-    --sort-key=7 --reverse
-```
-
-#### B1-ii. 실행중인 쿼리 중지
-
-```sh
-cubrid killtran \
-    -p <접근 비밀번호> \
-    -i <액티브번호> <테이블스페이스명>@<IP주소>
 ```
 
 ---

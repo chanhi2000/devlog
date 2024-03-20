@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🔎SQL
-description: 🔎SQL
+title: SQL
+description: SQL
+icon: fas fa-magnifying-glass
 category:
-  - 🔎SQL
+  - SQL
+tag:
+  - sql
 ---
 
 # {{ $frontmatter.description }} 관련

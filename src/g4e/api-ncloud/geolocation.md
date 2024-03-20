@@ -1,10 +1,12 @@
 ---
 lang: ko-KR
-title: 🌏GeoLocation
-description: 🐸API - NCloud > 🌏GeoLocation
+title: GeoLocation
+description: API - NCloud > GeoLocation
+icon: fas fa-earth-americas
 category:
-  - 🐸API - NCloud
-  - 🌏GeoLocation
+  - API 
+  - NCloud
+  - GeoLocation
 tag: 
   - ncloud
   - api

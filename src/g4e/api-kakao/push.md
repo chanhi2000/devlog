@@ -1,10 +1,12 @@
 ---
 lang: ko-KR
-title: 🔔푸시알람
-description: 🌱API - Kakao > 🔔푸시알람
+title: 푸시알람
+description: API - Kakao > 푸시알람
+icon: fas fa-bell
 category:
-  - 🌱API - Kakao
-  - 🔔푸시알람
+  - API 
+  - Kakao
+  - 푸시알람
 tag: 
   - kakao
   - api

@@ -1,14 +1,12 @@
 ---
 lang: ko-KR
 title: Travel
-description: Lifeguide > Travel
+description: Travel
 icon: fas fa-plane
 category:
-  - Lifeguide
   - Travel
 tag: 
   - travel
-  - lifeguide
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -18,3 +16,5 @@ tag:
 :::
 
 ---
+
+<TagLinks />

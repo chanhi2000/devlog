@@ -4,6 +4,7 @@ title: WSL
 description: Windows > WSL
 icon: fas fa-brain
 category:
+  - Microsoft
   - Windows
   - WSL
 tag: 

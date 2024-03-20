@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🏰Portfolio
-description: 🏭Project > 🏰Portfolio
+title: Portfolio
+description: Project > Portfolio
+icon: fa-brands fa-fort-awesome
 category: 
-  - 🏭Project
-  - 🏰Portfolio
+  - Project
+  - Portfolio
 tag:
   - notion
   - portfolio

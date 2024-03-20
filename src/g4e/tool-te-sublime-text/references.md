@@ -1,14 +1,15 @@
 ---
 lang: ko-KR
 title: References
-description: ⌨Sublime Text > References
+description: Sublime Text > References
 icon: iconfont icon-share
 category: 
-  - ⌨Sublime Text
+  - Sublime Text
   - References
 tag: 
   - text-editor
   - sublimetext
+  - sublime-text
   - subl
 ---
 

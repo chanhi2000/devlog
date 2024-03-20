@@ -1,14 +1,15 @@
 ---
 lang: ko-KR
-title: 🇨🇳China
-description: Lifeguide > Travel > 🇨🇳China
+title: Asia
+description: Travel > Asia
+icon: fas fa-earth-asia
 category:
-  - Lifeguide
   - Travel
-  - 🇨🇳China
+  - Asia
 tag: 
   - travel
-  - lifeguide
+  - asia
+  - china
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -19,21 +20,21 @@ tag:
 
 ---
 
-## 여행계획
+## China
+
+### 여행계획
 
 출발일: 8월4일~6일
 
----
+### Visa
 
-## Visa
-
-### 직접신청 방법 및 서류
+#### 직접신청 방법 및 서류
 
 1. [온라인 신청서 작성](https://www.visaforchina.cn/globle) 
   - 다운로드 및 출력
 2. 비자 발급 센터 예약
 
-### 작성 및 예약방법 참고
+#### 작성 및 예약방법 참고
 
 - https://blog.naver.com/so6198/223109570807
 - https://blog.naver.com/dd_keep_well/223107182225?&isInf=true
@@ -42,7 +43,7 @@ tag:
 - 영업시간: 접수시간 9:00~15:00
           발급시간 13:00~15:00
 
-### 비자발급 준비물
+#### 비자발급 준비물
 
 - [ ] 여권
 - [ ] 여권사진 1매(비자 신청시 사용한 사진)
@@ -54,7 +55,7 @@ tag:
 > 투숙객 이름과 동일해야함
 - [ ] 여행계획서-샤오슈에 준비
 
-### 센터 처리시간 대략 2~3시간
+#### 센터 처리시간 대략 2~3시간
 
 ```mermaid
 graph LR
@@ -63,12 +64,12 @@ graph LR
 
 1차 서류검토-2차 서류검토-지문등록-얼굴 촬영-결제
 
-### 비자발급 
+#### 비자발급 
 
 - 4일 소요/우편으로 받을 경우 대략 10일
 - 비용 55,000원
 
-### 여행사 통해서 신청
+#### 여행사 통해서 신청
 
 1. 비자발급 3주 소요, 비용 대략 130,000원~150,000원
 2. 여행사 정보

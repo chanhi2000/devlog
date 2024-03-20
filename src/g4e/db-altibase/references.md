@@ -1,12 +1,14 @@
 ---
 lang: ko-KR
 title: References
-description: 🦉Altibase > References
+description: Altibase > References
 icon: iconfont icon-share
 category:
-  - 🦉Altibase
+  - Altibase
   - References
 tag: 
+  - database
+  - db
   - sql
   - altibase
 ---

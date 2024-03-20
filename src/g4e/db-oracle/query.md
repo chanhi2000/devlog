@@ -1,10 +1,12 @@
 ---
 lang: ko-KR
-title: 🔍Query
-description: 🙆‍♂️Oracle SQL > 🔍Query
+title: Query
+description: Oracle SQL > Query
+icon: fas fa-magnifying-glass
 category:
-  - 🙆‍♂️Oracle SQL 
-  - 🔍Query
+  - SQL
+  - Oracle 
+  - Query
 tag: 
   - sql
   - oracle

@@ -1,9 +1,14 @@
 ---
 lang: ko-KR
-title: 🐸API - NCloud
-description: 🐸API - NCloud
+title: API - NCloud
+description: API - NCloud
+icon: fas fa-frog
 category:
-  - 🐸API - NCloud
+  - API
+  - NCloud
+tag:
+  - api
+  - ncloud
 ---
 
 # {{ $frontmatter.description }} 관련

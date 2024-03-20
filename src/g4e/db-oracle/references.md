@@ -4,7 +4,8 @@ title: References
 description: Oracle SQL > References
 icon: iconfont icon-share
 category:
-  - Oracle SQL 
+  - SQL
+  - Oracle
   - References
 tag: 
   - sql

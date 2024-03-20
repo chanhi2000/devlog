@@ -9,26 +9,24 @@ export const sidebarEn = sidebar({
     },
     //region: api
     {
-      text: '🌱API - Kakao',
+      text: 'API - Kakao',
       collapsible: true,
+      icon: 'fas fa-seedling',
       children: [
         '/g4e/api-kakao/README.md',
         '/g4e/api-kakao/local.md',
         '/g4e/api-kakao/push.md',
         '/g4e/api-kakao/references.md'
       ]
-    }, 
-    // {
-    //   text: '🐸API - NCloud',
-    //   collapsible: true,
-    //   children: [
-    //     '/g4e/api-ncloud/README.md',
-    //     '/g4e/api-ncloud/geolocation.md',
-    //   ]
-    // },
-    //endregion
-    //region: lang
-    {
+    },  {
+      text: 'API - NCloud',
+      collapsible: true,
+      icon: 'fas fa-frog',
+      children: [
+         '/g4e/api-ncloud/README.md',
+         '/g4e/api-ncloud/geolocation.md',
+       ]
+    }, {
       text: 'Shell',
       collapsible: true,
       icon: 'iconfont icon-shell',
@@ -249,8 +247,9 @@ export const sidebarEn = sidebar({
       ]
     }, 
     {
-      text: '🪐Lua',
+      text: 'Lua',
       collapsible: true,
+      icon: 'fas fa-meteor',
       children: [
         '/g4e/lang-lua/README.md',
         '/g4e/lang-lua/references.md',
@@ -340,7 +339,8 @@ export const sidebarEn = sidebar({
         '/g4e/lang-c/youtube.md',
       ]
     }, {
-      text: '🏂Zig',
+      text: 'Zig',
+      icon: 'fas fa-person-snowboarding',
       collapsible: true,
       children: [
         '/g4e/lang-zig/README.md',
@@ -519,8 +519,9 @@ export const sidebarEn = sidebar({
         '/g4e/ci-jenkins/youtube.md',
       ]
     }, {
-      text: '🍐Appium',
+      text: 'Appium',
       collapsible: true,
+      icon: 'fas fa-hurricane',
       children: [
         '/g4e/ci-appium/README.md',
         '/g4e/ci-appium/references.md',
@@ -534,8 +535,9 @@ export const sidebarEn = sidebar({
         '/g4e/devops-nexus/tips.md',
       ]
     }, {
-      text: '🧐Selenium',
+      text: 'Selenium',
       collapsible: true,
+      icon: 'fas fa-square-check',
       children: [
         '/g4e/test-selenium/README.md',
         '/g4e/test-selenium/youtube.md',
@@ -561,8 +563,9 @@ export const sidebarEn = sidebar({
         '/g4e/tool-ide-vscode/youtube.md',
       ],
     }, {
-      text: '⌨Sublime Text',
+      text: 'Sublime Text',
       collapsible: true,
+      icon: 'fas fa-file-lines',
       children: [
         '/g4e/tool-te-sublime-text/README.md',
         '/g4e/tool-te-sublime-text/plugins.md',
@@ -583,7 +586,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Excel',
       collapsible: true,
-      icon: 'fas fa-file-excel',
+      icon: 'fas fa-table',
       children: [
         '/g4e/tool-excel/README.md',
         '/g4e/tool-excel/references.md',
@@ -599,8 +602,9 @@ export const sidebarEn = sidebar({
         '/g4e/tool-chrome-browser/references.md'
       ]
     }, {
-      text: '🅽Notion',
+      text: 'Notion',
       collapsible: true,
+      icon: 'fas fa-n',
       children: [
         '/g4e/tool-notion/README.md',
         '/g4e/tool-notion/references.md',
@@ -623,8 +627,9 @@ export const sidebarEn = sidebar({
         '/g4e/ai-llm/youtube.md',
       ]
     }, {
-      text: '🌟Gemini',
+      text: 'Gemini',
       collapsible: true,
+      icon: 'fas fa-wand-magic-sparkles',
       children: [
         '/g4e/ai-gemini/README.md',
         '/g4e/ai-gemini/references.md',
@@ -638,8 +643,9 @@ export const sidebarEn = sidebar({
         '/g4e/was-jeus/references.md'
       ]
     }, {
-      text: '🏹WebtoB',
+      text: 'WebtoB',
       collapsible: true,
+      icon: 'fas fa-sailboat',
       children: [
         '/g4e/ws-webtob/README.md',
         '/g4e/ws-webtob/basics.md',
@@ -659,8 +665,9 @@ export const sidebarEn = sidebar({
         '/g4e/db-mysql/youtube.md',
       ]
     }, {
-      text: '🙆‍♂️Oracle SQL',
+      text: 'Oracle SQL',
       collapsible: true,
+      icon: 'fas fa-eye',
       children: [
         '/g4e/db-oracle/README.md',
         '/g4e/db-oracle/query.md',
@@ -725,8 +732,9 @@ export const sidebarEn = sidebar({
         '/g4e/db-altibase/references.md',
       ]
     }, {
-      text: '🔎SQL',
+      text: 'SQL',
       collapsible: true,
+      icon: 'fas fa-magnifying-glass',
       children: [
         '/g4e/sql/README.md',
         '/g4e/sql/tibero.md',
@@ -759,26 +767,32 @@ export const sidebarEn = sidebar({
       icon: 'fas fa-industry',
       children: [ '/projects/README.md' ],
     }, {
-      text: '🏁My Roadmap',
+      text: 'My Roadmap',
+      icon: 'fas fa-flag-checkered',
       children: [ '/projects/roadmap/README.md' ],
     }, {
-      text: '🏰Portfolio',
+      text: 'Portfolio',
+      icon: 'fa-brands fa-fort-awesome',
       collapsible: true,
-      children: [
-        '/projects/portfolio/README.md',
-      ],
+      children: [ '/projects/portfolio/README.md', ],
     }, {
       text: 'Lifeguide',
       collapsible: true,
       icon: 'fas fa-compass',
       children: [
         '/projects/lifeguide/README.md',
+        '/projects/lifeguide/nhis.md',
         '/projects/lifeguide/youtube.md',
-        '/projects/lifeguide/nhis/README.md',
-        '/projects/lifeguide/nhis/references.md',
-        '/projects/lifeguide/travel/README.md',
-        '/projects/lifeguide/travel/china.md',
-        '/projects/lifeguide/travel/references.md',
+        '/projects/lifeguide/references.md',
+      ]
+    }, {
+      text: 'Travel',
+      collapsible: true,
+      icon: 'fas fa-plane',
+      children: [
+        '/projects/travel/README.md',
+        '/projects/travel/asia.md',
+        '/projects/travel/references.md',
       ]
     }, {
       text: 'Cook',

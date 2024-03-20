@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🧐Selenium > Youtube
+description: Selenium > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🧐Selenium
+  - Selenium
   - Youtube
 tag: 
   - "test"

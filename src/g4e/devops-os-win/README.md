@@ -4,6 +4,7 @@ title: Windows
 description: Windows
 icon: fa-brands fa-windows
 category:
+  - Microsoft
   - Windows
 tag:
   - win

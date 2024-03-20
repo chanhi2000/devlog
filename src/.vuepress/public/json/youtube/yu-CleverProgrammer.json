@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Q1-YKN9ApRDsnGIreC8lZ50tcF1V63eT4wr-2Oh1V_hP6nDGyzPOi_c2Xzq-Nn-m2Bt5_Ico=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "aysrmDYhEqg", "title": "Build an AI SaaS in 30 Minutes (Next.js, Supabase, Stripe, LEAP AI, Vercel)" },
     { "id": "eJwYRANi4L0", "title": "Reacting to END of Programming Talk by Dr. Matt Welsh" },
     { "id": "rng8oDz2Edw", "title": "ChatGPT Store Will Make You RICH" },
     { "id": "muQCZoZ-ZaM", "title": "Programming will be NO CODE in few years" },

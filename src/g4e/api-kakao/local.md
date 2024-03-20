@@ -1,10 +1,12 @@
 ---
 lang: ko-KR
-title: 🌏로컬
-description: 🌱API - Kakao > 🌏로컬
+title: 로컬
+description: API - Kakao > 로컬
+icon: fas fa-earth-americas
 category:
-  - 🌱API - Kakao
-  - 🌏로컬
+  - API 
+  - Kakao
+  - 로컬
 tag: 
   - kakao
   - api

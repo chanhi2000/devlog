@@ -4,6 +4,7 @@ title: Environment Setup
 description: Windows > Environment Setup
 icon: fas fa-toolbox
 category:
+  - Microsoft
   - Windows
   - Environment Setup
 tag: 

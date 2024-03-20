@@ -33,7 +33,6 @@ head:
 <MyYouTubeItems jsonName="yu-AlgoJS" /><!-- AlgoJS -->
 <MyYouTubeItems jsonName="yu-bawad" /><!-- Ben Awad -->
 <MyYouTubeItems jsonName="yu-SonnySangha" /><!-- Sonny Sangha -->
-<MyYouTubeItems jsonName="yu-CleverProgrammer" /><!-- Clever Programmer -->
 <MyYouTubeItems jsonName="yu-CodingNepal" /><!-- CodingNepal -->
 <MyYouTubeItems jsonName="yu-LamaDev" /><!-- Lama Dev -->
 <MyYouTubeItems jsonName="yu-JamesQQuick" /><!-- James Q Quick -->

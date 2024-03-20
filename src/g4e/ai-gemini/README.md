@@ -1,10 +1,13 @@
 ---
 lang: ko-KR
-title: 🌟Gemini
-description: 🌟Gemini
+title: Gemini
+description: Gemini
+icon: fas fa-wand-magic-sparkles
 category: 
-  - 🌟Gemini
+  - Gemini
 tag:
+  - ai
+  - google
   - bard
   - gemini
 ---

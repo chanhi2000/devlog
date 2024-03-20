@@ -6,15 +6,21 @@ export const navbarEn = navbar([
     icon: 'fas fa-industry',
     children: [
       {
-        text: '🏁My Roadmap',
+        text: 'My Roadmap',
+        icon: 'fas fa-flag-checkered',
         link: '/projects/roadmap/README.md'
       }, {
-        text: '🏰Portfolio',
+        text: 'Portfolio',
+        icon: 'fa-brands fa-fort-awesome',
         link: '/projects/portfolio/README.md',
       }, {
         text: 'Lifeguide',
         icon: 'fas fa-compass',
         link: '/projects/lifeguide/README.md'
+      },  {
+        text: 'Travel',
+        icon: 'fas fa-plane',
+        link: '/projects/travel/README.md'
       }, {
         text: 'Cook',
         icon: 'fas fa-fire-burner',
@@ -41,8 +47,13 @@ export const navbarEn = navbar([
     icon: 'fas fa-book',
     children: [
       {
-        text: '🌱API - Kakao',
+        text: 'API - Kakao',
         link: '/g4e/api-kakao/README.md',
+        icon: 'fas fa-seedling'
+      }, {
+        text: 'API - NCloud',
+        link: '/g4e/api-ncloud/README.md',
+        icon: 'fas fa-frog'
       }, {
         text: 'Shell',
         link: '/g4e/cli-shell/README.md',
@@ -109,8 +120,9 @@ export const navbarEn = navbar([
         link: '/g4e/lang-rust/README.md',
         icon: 'fa-brands fa-rust'
       }, {
-        text: '🪐Lua',
+        text: 'Lua',
         link: '/g4e/lang-lua/README.md',
+        icon: 'fas fa-meteor'
       }, {
         text: 'CSharp',
         link: '/g4e/lang-csharp/README.md',
@@ -143,8 +155,9 @@ export const navbarEn = navbar([
         link: '/g4e/lang-c/README.md',
         icon: 'iconfont icon-c',
       }, {
-        text: '🏂Zig',
+        text: 'Zig',
         link: '/g4e/lang-zig/README.md',
+        icon: 'fas fa-person-snowboarding',
       }, {
         text: 'LaTeX',
         link: '/g4e/lang-latex/README.md',

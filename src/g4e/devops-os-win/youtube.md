@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 👓Windows > Youtube
+description: Windows > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 👓Windows
+  - Microsoft
+  - Windows
   - Youtube
 tag: 
   - "youtube"

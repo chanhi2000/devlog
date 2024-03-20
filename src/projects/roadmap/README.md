@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🏁My Roadmap
-description: 🏭Project > 🏁My Roadmap
+title: My Roadmap
+description: Project > My Roadmap
+icon: fas fa-flag-checkered
 category: 
-  - 🏭Project
-  - 🏁My Roadmap
+  - Project
+  - My Roadmap
 tag: 
   - schedule
   - gantt

@@ -4,7 +4,8 @@ title: Tips
 description: Windows > Tips
 icon: fas fa-lightbulb
 category:
-  - Windows 
+  - Microsoft
+  - Windows
   - Tips
 tag: 
   - bat 

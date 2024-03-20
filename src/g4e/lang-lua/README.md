@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🪐Lua
-description: 🪐Lua
+title: Lua
+description: Lua
+icon: fas fa-meteor
 category:
-  - 🪐Lua
+  - Lua
+tag:
+  - lua  
 ---
 
 # {{ $frontmatter.description }} 관련

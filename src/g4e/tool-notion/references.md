@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: References
-description: 🅽Notion > References
+description: Notion > References
 icon: iconfont icon-share
 category:
-  - 🅽Notion
+  - Notion
   - References
 tag: 
   - notion

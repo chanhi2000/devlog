@@ -1,9 +1,14 @@
 ---
 lang: ko-KR
-title: 🙆‍♂️Oracle SQL
-description: 🙆‍♂️Oracle SQL
+title: Oracle SQL
+description: Oracle SQL
+icon: fas fa-eye
 category:
-  - 🙆‍♂️Oracle SQL
+  - SQL
+  - Oracle 
+tag:
+  - oracle
+  - sql
 ---
 
 # {{ $frontmatter.description }} 관련

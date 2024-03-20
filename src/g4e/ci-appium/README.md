@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🍐Appium
-description: 🍐Appium
+title: Appium
+description: Appium
+icon: fas fa-hurricane
 category:
-  - 🍐Appium
+  - Appium
+tag:
+  - appium
+  - ci  
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
 title: Tibero
-description: 🔎SQL > Tibero
+description: SQL > Tibero
+icon: fas fa-t
 category:
-  - 🔎SQL
+  - SQL
   - Tibero
 tag: 
   - sql
