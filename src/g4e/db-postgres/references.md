@@ -14,7 +14,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -144,6 +143,12 @@ tag:
 ## Kviklet
 
 - [Parsing the postgres protocol](https://kviklet.dev/blog/parsing-the-postgres-protocol/)
+
+---
+
+## Xata
+
+- [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
 
 ---
 

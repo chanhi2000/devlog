@@ -2,9 +2,11 @@
 lang: ko-KR
 title: Watch Later (Tutorial)
 description: Youtube > Watch Later (Tutorial)
+icon: fas fa-chalkboard-user
 category: 
   - Youtube 
-  - Watch Later (Tutorial)
+  - Watch Later 
+  - Tutorial
 tag:
   - tutorial
   - jetbrains
@@ -15,7 +17,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

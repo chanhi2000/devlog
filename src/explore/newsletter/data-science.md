@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔬Data Science
-description: 🗞️Newsletter > 🔬Data Science
+title: Data Science
+description: Newsletter > Data Science
+icon: fas fa-magnifying-glass-chart
 category: 
-  - 🗞️Newsletter
-  - 🔬Data Science
+  - Newsletter
+  - Data Science
 tag: 
   - reddit
   - data-science
@@ -13,7 +14,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -25,7 +25,7 @@ tag:
 - [Data Science Central](https://www.datasciencecentral.com)
 - [KDnuggets](https://www.kdnuggets.com)
   - [Fine-Tuning OpenAI Language Models with Noisily Labeled Data](https://www.kdnuggets.com/2023/04/finetuning-openai-language-models-noisily-labeled-data.html)
-- [r/datascience](https://www.reddit.com/r/datascience)
+- [<FontIcon icon="fa-brands fa-reddit"/>`r/datascience`](https://www.reddit.com/r/datascience)
 - [SmartDataCollective](https://www.smartdatacollective.com)
 - [Codementor Blog](https://www.codementor.io/blog)
 - [DataTau](https://datatau.net)

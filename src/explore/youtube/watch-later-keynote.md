@@ -2,9 +2,11 @@
 lang: ko-KR
 title: Watch Later (Keynote)
 description: Youtube > Watch Later (Keynote)
+icon: fas fa-person-chalkboard
 category: 
   - Youtube
-  - Watch Later (Keynote)
+  - Watch Later
+  - Keynote
 tag: 
   - keynotes
   - codingtech
@@ -17,7 +19,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

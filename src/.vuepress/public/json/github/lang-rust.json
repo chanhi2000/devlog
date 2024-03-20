@@ -1214,5 +1214,15 @@
     "desc": "Cryptanalysis of the Enigma machine in Rust.",
     "officialSite": "",
     "topics": ["cryptanalysis", "enigma", "enigma-machine", "rust"]
+  }, {
+    "repo": "ynqa/jnv",
+    "desc": "interactive JSON filter using jq",
+    "officialSite": "",
+    "topics": ["autocomplete", "cli", "command-line", "interactive", "jq", "json", "kubernetes", "prompt", "rust"]
+  }, {
+    "repo": "Wilfred/difftastic",
+    "desc": "a structural diff that understands syntax 🟥🟩",
+    "officialSite": "https://difftastic.wilfred.me.uk/",
+    "topics": ["diff", "tree-sitter"]
   }
 ]

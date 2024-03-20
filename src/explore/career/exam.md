@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 👩‍💻Exam
-description: Career > 👩‍💻Exam
+title: Exam
+description: Career > Exam
+icon: fas fa-building-shield
 category: 
   - Career
-  - 👩‍💻Exam
+  - Exam
 tag: 
   - career
   - exam
@@ -14,7 +15,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

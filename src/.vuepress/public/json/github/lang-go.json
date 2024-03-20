@@ -1284,5 +1284,15 @@
     "desc": "🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",
     "officialSite": "https://gnet.host",
     "topics": ["epoll", "event-driven", "event-loop", "go", "golang", "goroutine", "io", "kqueue", "network", "networking", "non-blocking", "reactor", "tcp", "udp", "unix-domain-socket"]
-  }  
+  }, {
+    "repo": "kitabisa/teler",
+    "desc": "Real-time HTTP Intrusion Detection",
+    "officialSite": "https://teler.app",
+    "topics": ["analyze-logs", "go", "golang", "ids", "intrusion", "intrusion-detection", "intrusion-detection-system", "iocs", "log", "log-analyzer", "logs", "threat", "threat-analyzer", "threat-hunting", "threat-intelligence", "threat-rules"]
+  }, {
+    "repo": "microsoft/retina",
+    "desc": "eBPF distributed networking observability tool for Kubernetes",
+    "officialSite": "https://retina.sh",
+    "topics": ["ebpf", "kubernetes", "networking", "observability"]
+  }
 ]

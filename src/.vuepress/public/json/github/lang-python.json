@@ -467,8 +467,8 @@
   }, {
     "repo": "hpcaitech/ColossalAI",
     "desc": "Making large AI models cheaper, faster and more accessible",
-    "topics": [],
-    "officialSite": "https://www.colossalai.org"
+    "officialSite": "https://www.colossalai.org",
+    "topics": ["ai", "big-model", "data-parallelism", "deep-learning", "distributed-computing", "foundation-models", "heterogeneous-training", "hpc", "inference", "large-scale", "model-parallelism", "pipeline-parallelism"]
   }, {
     "repo": "ZrrSkywalker/LLaMA-Adapter",
     "desc": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
@@ -2327,8 +2327,8 @@
   }, {
     "repo": "roboflow/supervision",
     "desc": "We write your reusable computer vision tools. 💜",
-    "topics": ["python", "tracking", "machine-learning", "computer-vision", "deep-learning", "metrics", "tensorflow", "image-processing", "pytorch", "video-processing", "yolo", "classification", "coco", "object-detection", "pascal-voc", "instance-segmentation"],
-    "officialSite": "https://roboflow.github.io/supervision"
+    "officialSite": "https://supervision.roboflow.com",
+    "topics": ["classification", "coco", "computer-vision", "deep-learning", "image-processing", "instance-segmentation", "low-code", "machine-learning", "metrics", "object-detection", "oriented-bounding-box", "pascal-voc", "python", "pytorch", "tensorflow", "tracking", "video-processing", "yolo"]
   }, {
     "repo": "normal-computing/outlines",
     "desc": "Generative Model Programming",
@@ -4391,7 +4391,7 @@
     "topics": []
   }, {
     "repo": "hpcaitech/Open-Sora",
-    "desc": "Building your own video generation model like OpenAI's Sora",
+    "desc": "Open-Sora: Democratizing Efficient Video Production for All",
     "officialSite": "",
     "topics": []
   }, {
@@ -4524,5 +4524,25 @@
     "desc": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
     "officialSite": "https://docs.mealie.io",
     "topics": ["hacktoberfest", "hacktoberfest2022", "meal-plans", "recipe-manager", "self-hosted"]
+  }, {
+    "repo": "zylon-ai/private-gpt",
+    "desc": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+    "officialSite": "https://docs.privategpt.dev",
+    "topics": []
+  }, {
+    "repo": "luijait/DarkGPT",
+    "desc": "DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "raphaelsty/knowledge",
+    "desc": "Open-source personal bookmarks search engine",
+    "officialSite": "https://raphaelsty.github.io/knowledge/",
+    "topics": ["bookmarks", "github", "hacker-news", "knowledge-base", "search-engine", "twitter", "zotero"]
+  }, {
+    "repo": "explodinggradients/ragas",
+    "desc": "Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines",
+    "officialSite": "https://docs.ragas.io",
+    "topics": ["llm", "llmops"]
   }
 ]

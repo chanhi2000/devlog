@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🦴Singleton
-description: Java > 🦴Singleton
+title: Singleton
+description: Java > Singleton
+icon: fas fa-bone
 category:
   - Java
-  - 🦴Singleton
+  - Singleton
 tag: 
   - git
   - github
@@ -14,18 +15,17 @@ tag:
 head:  
   - - meta:
     - property: og:title
-      content: Java > 🦴Singleton
+      content: Java > Singleton
     - property: og:description
-      content: Java > 🦴Singleton
+      content: Singleton
     - property: og:type
       content: article
     - property: og:url
-      content: https://chanhi2000.github.io/g4e/lang-java/github.html
+      content: https://chanhi2000.github.io/g4e/lang-java/singleton.html
 ---
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

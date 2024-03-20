@@ -15,7 +15,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -320,6 +319,7 @@ tag:
 - [Why Web UI Development Is So Hard?](https://itnext.io/why-web-ui-development-is-so-hard-a88c47f4b3c5)
 - [Microtask Queue + RxJS + Angular](https://itnext.io/microtask-queue-rxjs-angular-ac3d8612d3f6)
 - [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
+- [`@calebleak`: Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
 
 ---
 
@@ -734,6 +734,12 @@ tag:
 ## eieio.games
 
 - [BREAKTIME](https://eieio.games/nonsense/game-13-breaktime/)
+
+---
+
+## Software Engineering Standard
+
+- [Tunnelmole, an `ngrok` alternative (open source)](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)
 
 ---
 

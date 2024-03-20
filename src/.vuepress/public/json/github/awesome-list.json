@@ -1089,5 +1089,20 @@
     "desc": "This repository is dedicated to collecting a directory of resources for submitting startup projects, including websites, communities, newsletters, and more. It aims to help solo makers save time and effortlessly find the right platforms to promote their startups.",
     "officialSite": "https://submitlist.net",
     "topics": []
+  }, {
+    "repo": "laylavish/uBlockOrigin-HUGE-AI-Blocklist",
+    "desc": "A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO",
+    "desc": "我的 ComfyUI 工作流合集 | My ComfyUI workflows collection",
+    "officialSite": "",
+    "topics": ["comfyui", "stable-diffusion"]
+  }, {
+    "repo": "dotnet-smartcomponents/smartcomponents",
+    "desc": "Experimental, end-to-end AI features for .NET apps",
+    "officialSite": "",
+    "topics": []
   }
 ]

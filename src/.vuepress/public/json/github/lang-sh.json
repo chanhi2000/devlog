@@ -349,5 +349,15 @@
     "desc": "💽 Soothing pastel theme for Tmux!",
     "officialSite": "",
     "topics": ["catppuccin", "colors", "colorscheme", "hacktoberfest", "pretty", "tmux", "tmux-conf", "tmux-theme"]
+  }, {
+    "repo": "CISOfy/lynis",
+    "desc": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+    "officialSite": "https://cisofy.com/lynis/",
+    "topics": ["auditing", "compliance", "devops", "devops-tools", "gdpr", "hardening", "hipaa", "linux", "pci-dss", "security-audit", "security-hardening", "security-scanner", "security-tools", "security-vulnerability", "shell", "system-hardening", "unix", "vulnerability-assessment", "vulnerability-detection", "vulnerability-scanners"]
+  }, {
+    "repo": "aforensics/HiddenVM",
+    "desc": "HiddenVM — Use any desktop OS without leaving a trace.",
+    "officialSite": "",
+    "topics": ["anti-forensics", "antiforensics", "debian", "deniability", "linux", "opsec", "privacy", "snowden", "tails", "tor", "veracrypt", "virtualbox", "virtualization", "vm"]
   }
 ]

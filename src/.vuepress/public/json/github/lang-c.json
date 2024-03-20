@@ -814,5 +814,10 @@
     "desc": "The Open SIMH simulators package",
     "officialSite": "https://opensimh.org/",
     "topics": []
+  }, {
+    "repo": "getgrit/gritql",
+    "desc": "GritQL is a query language for searching, linting, and modifying code.",
+    "officialSite": "https://docs.grit.io/",
+    "topics": ["ast", "codemod", "javascript", "linter", "refactoring", "rust", "search", "tree-sitter"]
   }
 ]

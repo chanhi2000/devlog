@@ -1,7 +1,12 @@
 ---
 lang: ko-KR
-title: Resources
-description: 🧭API > Resources
+title: List
+description: API > List
+icon: fas fa-bars-staggered
+category:
+  - Explore
+  - API
+  - List
 tag:
   - image
   - color
@@ -16,7 +21,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -24,12 +28,6 @@ tag:
 
 ## APIs
 
-- [github-opensource-guide][github-opensource-guide]: Open source software is made by people just like you. Learn how to launch and grow your project.
-- [gitignore][gitignore]: Create useful .gitignore files for your project
-- [Smalldev Tools][small-devtools]
-- [mobbin][mobbin]: Browse iOS apps
-- [Iconbuddy](https://iconbuddy.app): Download, Customize, Edit and Personalize. Over 100k+ open source icons
-- [heroicons][heroicons]: Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Bootstrap Icons][Bootstrap-Icons]: Official open source SVG icon library for Bootstrap.
 - [regexper][regexper]: You thought you only had two problems…
 - [regexr][regexr]: RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
@@ -49,31 +47,6 @@ tag:
 - [CoinGecko](https://www.coingecko.com/en/api): Cryptocurrencies
 - [Lorem Picsum](https://picsum.photos): The Lorem Ipsum for photos.
 - [newscatcher](https://newscatcherapi.com): News Data: structured, relevant, real-time
-
----
-
-## Online Tools
-
-- [Naver QR Code](https://qr.naver.com)
-- [mybatis log parser](http://comne.kr/mybatis)
-- [Instant SQL Formatter](https://www.dpriver.com/pp/sqlformat.htm)
-- [Sha256 Decrypt & Encrypt](https://md5decrypt.net/en/Sha256/#answer)
-- [epsg.io - Transform coordinate](https://epsg.io/transform#s_srs=5186&t_srs=5187)
-- [Spatial Reference](https://spatialreference.org/ref/epsg)
-- [GPS Coordinates](https://gps-coordinates.org)
-- [Operator Lookup](https://www.joshwcomeau.com/operator-lookup)
-- [htaccess tester](https://htaccess.madewithlove.com)
-- [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
-- [Web Code Tools](https://webcode.tools)
-- [SVG Artista](https://svgartista.net)
-- [Shape](https://shape.so)
-- [CleanMock](https://cleanmock.com)
-- [Unscreen](https://www.unscreen.com)
-- [DrawSQL](https://drawsql.app)
-- [Database diagram](https://databasediagram.com)
-- [Whatsmydns.net](https://www.whatsmydns.net)
-- [Chalk.ist](https://chalk.ist)
-
 
 ---
 
@@ -129,9 +102,6 @@ tag:
 - [kakaobrain](https://kakaobrain.com): 카카오브레인
 - [fonts-material-icons][fonts-material-icons]: Google Fonts (Material Icons)
 - [thenounproject][thenounproject]: Icons and Photos For Everything
-- [fonts-earlyaccess][fonts-earlyaccess]: Google Fonts (Early Access)
-- [youtube-documentation][youtube-documentation]: 
-- [jshint][jshint]: JSHint
 - [design/fluent][design/fluent]: Fluent Design System. Fluent is an open-source, cross-platform design system that gives designers and developers the frameworks they need to create engaging product experiences—accessibility, internationalization, and performance included.
 - [VisuAlgo](https://visualgo.net/en)
 - [Hero Patterns](https://heropatterns.com): A collection of repeatable SVG background patterns for you to use on your web projects.
@@ -161,11 +131,7 @@ tag:
 
 
 <!-- APIs -->
-[github-opensource-guide]: https://opensource.guide
-[mobbin]: https://mobbin.com/browse/ios/apps
-[small-devtools]: https://smalldev.tools
 [Bootstrap-Icons]: https://icons.getbootstrap.com
-[heroicons]: https://heroicons.com
 [regexper]: https://regexper.com
 [regexr]: https://regexr.com
 [emailjs]: https://www.emailjs.com/docs
@@ -221,9 +187,6 @@ tag:
 [inventwithpython]: https://inventwithpython.com/hacking/chapters
 [fonts-material-icons]: https://fonts.google.com/icons?selected=Material+Icons
 [thenounproject]: https://thenounproject.com
-[fonts-earlyaccess]: https://fonts.google.com/earlyaccess
-[youtube-documentation]: https://developers.google.com/youtube/documentation
-[jshint]: https://jshint.com
 [design/fluent]: https://www.microsoft.com/design/fluent
 <!-- Community -->
 [hamonikr]: https://hamonikr.org

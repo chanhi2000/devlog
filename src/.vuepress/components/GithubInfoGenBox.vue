@@ -41,7 +41,9 @@
 
 <script>
 import FontIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/FontIcon'
+import Notice from '../../../node_modules/vuepress-plugin-components/lib/client/components/Notice'
 import * as Prism from 'prismjs'
+
 import 'prismjs/components/prism-json'
 import 'prismjs/plugins/line-numbers/prism-line-numbers'
 import 'prismjs/plugins/line-numbers/prism-line-numbers.css'

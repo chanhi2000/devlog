@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Github
-description: 🧢Batchfile > Github
+description: Batchfile > Github
 icon: fa-brands fa-github
 category:
-  - 🧢Batchfile
+  - Batchfile
   - Github
 tag: 
   - batch
@@ -15,7 +15,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

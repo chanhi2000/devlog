@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🗡Vim > Youtube
+description: Vim > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🗡Vim
+  - Vim
   - Youtube
 tag: 
   - "youtube"
@@ -30,7 +30,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

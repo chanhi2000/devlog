@@ -1,6 +1,4 @@
 // 2024-02-17
-{ "channelId": "Eigensteve", "channelName": "Steve Brunton", "id": "JoFW2uSd3Uo", "title": "Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering" },
-{ "channelId": "Autodesk_Korea", "channelName": "오토데스크코리아", "id": "z3R-hGNG1zU", "title": "[Autodesk Fusion] 락앤락(LocknLock), 소비자 중심의 디자인 혁신 & 함께하는 건강한 주방생활 - 오토데스크 고객사례" },
 { "channelId": "user-ok8rp7yx5p", "channelName": "복지수호신 김신", "id": "iNJIvuN5cAo", "title": "(긴급)2월 25일 지급 최종확정! 최대 53만원 정부지급! 주민센터에서 이렇게 신청 하세요! 지원대상, 지원금액, 신청기간, 신청방법 #53만원지급, #주민센터,#25일지급확정" },
 { "channelId": "KIMTOOFLEX", "channelName": "Kim Too", "id": "SCAqWDmJM9k", "title": "Introducing KimTools For WinForms - Elevate Your Development Experience! C# .NET   🚀😍" },
 { "channelId": "nywoo622", "channelName": "수학사교육의 모든 것", "id": "aDZ78SDcZPM", "title": "미적분 정적분으로 정의된 함수 일본 의대 본고사 문제" },
@@ -584,7 +582,6 @@
 { "channelId": "ExpertZone", "channelName": "Microsoft ExpertZone North America", "id": "DQRJTXnetmM", "title": "What is Copilot Pro? Is it worth it?" },
 { "channelId": "GregHogg", "channelName": "Greg Hogg", "id": "RfMroCV17-4", "title": "Min Stack - Leetcode 155 - Explanation + Python Solution" },
 { "channelId": "GitLabUnfiltered", "channelName": "GitLab Unfiltered", "id": "bDGjzyS_9b0", "title": "GitLab Innovation Pitch Competition - Sample Pitch Day" },
-{ "channelId": "Eigensteve", "channelName": "Steve Brunton", "id": "ARMk955pGbg", "title": "AI/ML+Physics Part 1: Choosing what to model [Physics Informed Machine Learning]" },
 { "channelId": "LearnitTraining", "channelName": "Learnit Training", "id": "f72Ks1z_8MU", "title": "The Learn-It-All Podcast with Dennis Dowdell" },
 { "channelId": "1littlecoder", "channelName": "1littlecoder", "id": "JQhFs6g1Fmg", "title": "Brave's Game-Changing AI (Spoiler: RAG)!!!" },
 { "channelId": "MicrosoftDeveloper", "channelName": "Microsoft Developer", "id": "jP5YfPzP1nI", "title": "What's the weirdest project you've ever worked on? | One Dev Question with Larry Osterman" },
@@ -1380,7 +1377,6 @@
 { "channelId": "2kabhishek", "channelName": "Abhishek Keshri", "id": "RWZtwsBZitg", "title": "My Neovim Config for 2024 | Neovim as IDE | nvim2K update" },
 { "channelId": "code_bob", "channelName": "코드밥", "id": "rvI_znIjw58", "title": "HTTP 3분 요약" },
 { "channelId": "javascriptmastery", "channelName": "JavaScript Mastery", "id": "B91wc5dCEBA", "title": "Build and Deploy a Modern UI/UX Website with React & Tailwind CSS" },
-{ "channelId": "Eigensteve", "channelName": "Steve Brunton", "id": "g-S0m2zcKUg", "title": "AI/ML+Physics Part 2: Curating Training Data [Physics Informed Machine Learning]" },
 { "channelId": "Eduonix", "channelName": "Eduonix Learning Solutions", "id": "P4bcoDvNtIA", "title": "3-Minute Guide to Supercharge Your Life with ChatGPT in 2024! | 10 ChatGPT Life Hacks | Eduonix" },
 { "channelId": "interviewingio", "channelName": "interviewing.io", "id": "Af6hPEBY4Yw", "title": "Java interview with a FAANG engineer: Minimum and Maximum Number of Nodes Between Critical Points" },
 { "channelId": "GeeksforGeeksVideos", "channelName": "GeeksforGeeks", "id": "wvcv4y20vWg", "title": "DATA SCIENCE PROJECT with JULIUS AI | AI Tools | GeeksforGeeks" },
@@ -2309,7 +2305,6 @@
 { "channelId": "CodeBucks", "channelName": "CodeBucks", "id": "T5t46vuW8fo", "title": "Build an Amazing Personal Portfolio Website with Next.js, Three.js & Tailwind CSS" },
 { "channelId": "KodeKloud", "channelName": "KodeKloud", "id": "7ccmXrMM9zg", "title": "What Is Open Source Software? - Origins, Principles, and Licenses | KodeKloud" },
 { "channelId": "schezokim", "channelName": "Austin Kim", "id": "Xf41osamWxY", "title": "[리눅스 커널] Crash Utility 기본 명령어 사용 방법-1" },
-{ "channelId": "Eigensteve", "channelName": "Steve Brunton", "id": "fiX8c-4K0-Q", "title": "AI/ML+Physics Part 3: Designing an Architecture [Physics Informed Machine Learning]" },
 { "channelId": "JAICHANGPARK", "channelName": "Dream Walker", "id": "9GaIalVUVKY", "title": "[Flutter] Flutter Live Coding EP1814 (Video Sharing App Part 2)" },
 { "channelId": "NDC", "channelName": "NDC Conferences", "id": "aSm8o2EIyvM", "title": "Introduction to unsafe C#: Calling native code and crashing in entirely new ways - Dennis Dietrich" },
 { "channelId": "_johncook8725", "channelName": "아하부장_JOHNCOOK", "id": "Fy3EZAhEoKo", "title": "[명동교자] 레시피의 핵심 포인트만 콕콕 찍어보겠습니다" },
@@ -4991,6 +4986,8 @@ https://www.benkuhn.net/writing/
 https://sondehub.org/#!mt=Mapnik&mz=5&qm=3h&mc=53.47497,-2.19727
 https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/
 https://github.com/nolboo/nolboo.github.io/wiki
+https://eclipsetracks.org/?show=2024-04-08#NoIgtAzAdArAbAFgEwE4CmBqOIA04CMUCEMS+mA7LiBVAAwR3KbZ51RkUJ1xLXsAOCjAT4KVPGHbEx+GDH5R8TOjAgpFogSgEC+bKCjpI6dHbiQI4KlDnxwUFfHYC6QA
+https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/
 
 // instagram
 https://www.instagram.com/p/CEBRs2fABux

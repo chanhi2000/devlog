@@ -300,11 +300,6 @@
     "officialSite": "E-Mail: liukaiyuan@sjtu.edu.cn",
     "topics": ["access", "email", "excel", "kms", "lync", "microsoft", "msoffice", "office", "office-free", "office365", "onedrive", "onenote", "outlook", "ppt", "project", "publisher", "skype", "teams", "visio", "word"]
   }, {
-    "repo": "veler/DevToys",
-    "desc": "A Swiss Army knife for developers.",
-    "officialSite": "https://devtoys.app/",
-    "topics": ["csharp", "developer-tools", "fluent", "fluent-design", "mica", "syntax-highlighting", "uwp", "windows", "windows-10", "windows-11", "winui", "xaml"]
-  }, {
     "repo": "Tichau/FileConverter",
     "desc": "File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.",
     "officialSite": "http://www.file-converter.org",
@@ -354,5 +349,10 @@
     "desc": "WingetUI: A better UI for your package managers",
     "officialSite": "https://www.marticliment.com/wingetui/",
     "topics": ["chocolatey", "cli", "npm", "package", "package-manager", "pip", "scoop", "windows", "windows-10", "windows-11", "winget", "wingetui"]
+  }, {
+    "repo": "DevToys-app/DevToys",
+    "desc": "A Swiss Army knife for developers.",
+    "officialSite": "https://devtoys.app/",
+    "topics": ["blazor", "cross-platform", "csharp", "desktop", "desktop-app", "desktop-application", "developer-tools", "extensible", "fluent", "fluent-design", "linux", "macos", "mica", "syntax-highlighting", "typescript", "windows", "windows-10", "windows-11", "winui"]
   }
 ]

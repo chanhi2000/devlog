@@ -40,8 +40,9 @@ export const sidebarEn = sidebar({
         '/g4e/cli-shell/youtube.md',
       ]
     }, {
-      text: '🧢Batchfile',
+      text: 'Batchfile',
       collapsible: true,
+      icon: 'fas fa-gears',
       children: [
         '/g4e/cli-batchfile/README.md',
         '/g4e/cli-batchfile/basics.md',
@@ -70,8 +71,9 @@ export const sidebarEn = sidebar({
         '/g4e/cli-pwsh/youtube.md',
       ]
     }, {
-      text: '🗡Vim',
+      text: 'Vim',
       collapsible: true,
+      icon: 'fas fa-pen-nib',
       children: [
         '/g4e/cli-vim/README.md',
         '/g4e/cli-vim/tips.md',
@@ -109,9 +111,10 @@ export const sidebarEn = sidebar({
         '/g4e/lang-java/singleton.md',
         '/g4e/lang-java/log4j.md',
         '/g4e/lang-java/webservice.md',
-        '/g4e/lang-java/news.md',
         '/g4e/lang-java/tips.md',
         '/g4e/lang-java/snippets.md',
+        '/g4e/lang-java/crashcourse.md',
+        '/g4e/lang-java/news.md',
         '/g4e/lang-java/references.md',
         '/g4e/lang-java/github.md',
         '/g4e/lang-java/youtube.md',
@@ -124,6 +127,7 @@ export const sidebarEn = sidebar({
         '/g4e/lang-java-spring/README.md',
         '/g4e/lang-java-spring/snippets-gradle.md',
         '/g4e/lang-java-spring/was.md',
+        '/g4e/lang-java-spring/crashcourse.md',
         '/g4e/lang-java-spring/references.md',
         '/g4e/lang-java-spring/github.md',
         '/g4e/lang-java-spring/youtube.md',
@@ -150,9 +154,9 @@ export const sidebarEn = sidebar({
       icon: 'fa-brands fa-swift',
       children: [
         '/g4e/lang-swift/README.md',
-        '/g4e/lang-swift/learn-essential-swift-in-one-hour.md',
         '/g4e/lang-swift/tips.md',
         '/g4e/lang-swift/snippets.md',
+        '/g4e/lang-swift/crashcourse.md',
         '/g4e/lang-swift/news.md',
         '/g4e/lang-swift/references.md',
         '/g4e/lang-swift/github.md',
@@ -724,8 +728,9 @@ export const sidebarEn = sidebar({
         '/g4e/db-cockroach/references.md',
       ]
     }, {
-      text: '🦉Altibase',
+      text: 'Altibase',
       collapsible: true,
+      icon: 'fas fa-campground',
       children: [
         '/g4e/db-altibase/README.md',
         '/g4e/db-altibase/query.md',
@@ -840,20 +845,22 @@ export const sidebarEn = sidebar({
         '/explore/api/popular.md',
       ],
     }, {
-      text: '✏️Devlog',
+      text: 'Devlog',
       collapsible: true,
+      icon: 'fas fa-timeline',
       children: [
         '/explore/devlog/README.md',
         '/explore/devlog/list.md',
       ]
     }, {
-      text: '🦺Career',
+      text: 'Career',
       collapsible: true,
+      icon: 'fas fa-user-tie',
       children: [
         '/explore/career/README.md',
         '/explore/career/hiring.md',
-        '/explore/career/resource.md',
         '/explore/career/exam.md',
+        '/explore/career/references.md',
       ]
     }
   ],

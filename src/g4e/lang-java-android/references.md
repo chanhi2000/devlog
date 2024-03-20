@@ -13,7 +13,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -170,6 +169,12 @@ tag:
 ## Fabien Sanglard
 
 - [WHY ANDROID DEVELOPERS NO LONGER NEED WINDOWS USB DRIVERS](https://fabiensanglard.net/android_windows_driver/index.html)
+
+---
+
+## The Thin Computer
+
+- [Using Termux on Android for Self Hosting? Yes, really.](https://thin.computer/index.php/2024/03/21/using-termux-on-android-for-self-hosting-yes-really/)
 
 ---
 

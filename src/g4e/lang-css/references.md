@@ -17,7 +17,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -89,6 +88,12 @@ tag:
 
 - [Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
 - [CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023)
+
+---
+
+## WebKit
+
+- [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
 
 ---
 

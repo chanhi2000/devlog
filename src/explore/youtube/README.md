@@ -2,6 +2,12 @@
 lang: ko-KR
 title: Youtube
 description: Youtube
+icon: fa-brands fa-youtube
+category:
+  - YouTube
+tag:
+  - yt
+  - youtube
 ---
 
 # {{ $frontmatter.description }} 관련

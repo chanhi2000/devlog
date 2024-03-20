@@ -1,14 +1,16 @@
 ---
 lang: ko-KR
 title: Tips
-description: 🧢Batchfile > Tips
+description: Batchfile > Tips
 icon: fas fa-lightbulb
 category:
-  - 🧢Batchfile 
+  - Batchfile 
   - Tips
 tag: 
-  - batch
+  - cli
   - bat
+  - batchfile
+  - win
   - windows
   - windows-terminal
   - net
@@ -17,7 +19,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Tips
-description: 🗡Vim > Tips
+description: Vim > Tips
 icon: fas fa-lightbulb
 category: 
-  - 🗡Vim
+  - Vim
   - Tips 
 tag: 
   - vim
@@ -15,7 +15,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

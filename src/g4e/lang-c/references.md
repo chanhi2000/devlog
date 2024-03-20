@@ -15,7 +15,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -235,6 +234,12 @@ tag:
 ## Abdelhadi
 
 - [Vulkan Foliage rendering using GPU Instancing](https://www.thegeeko.me/blog/foliage-rendering)
+
+---
+
+## tavianator.com 
+
+- [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Snippets
-description: 🧢Batchfile > Snippets
+description: Batchfile > Snippets
 icon: fas fa-eye-dropper
 category:
-  - 🧢Batchfile 
+  - Batchfile 
   - Snippets
 tag: 
   - batch
@@ -17,7 +17,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

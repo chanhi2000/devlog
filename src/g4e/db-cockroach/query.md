@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔍Query
-description: 🪳Cockroach > 🔍Query
+title: Query
+description: Cockroach > Query
+icon: fas fa-magnifying-glass
 category:
-  -  🪳Cockroach
-  - 🔍Query
+  - Cockroach
+  - Query
 tag: 
   - sql
   - db
@@ -16,7 +17,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

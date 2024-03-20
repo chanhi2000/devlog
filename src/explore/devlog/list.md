@@ -1,7 +1,8 @@
 ---
 lang: ko-KR
 title: List
-description: List > Devlogs
+description: Devlogs > List
+icon: fas fa-bars-staggered
 category: 
   - List
   - Devlogs
@@ -23,7 +24,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

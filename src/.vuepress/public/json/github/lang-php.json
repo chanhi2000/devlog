@@ -199,5 +199,10 @@
     "desc": "An ultra-lightweight blogging engine, written in PHP.",
     "officialSite": "https://chyrplite.net/",
     "topics": ["accessible", "apache", "blog", "blog-engine", "caddy2", "html5", "jquery", "lightweight", "localised", "mysql", "nginx", "php", "postgresql", "sqlite", "twig"]
+  }, {
+    "repo": "pulsejet/memories",
+    "desc": "Fast, modern and advanced photo management suite. Runs as a Nextcloud app.",
+    "officialSite": "https://memories.gallery",
+    "topics": ["backup-tool", "gallery", "nextcloud", "photo-gallery", "photos", "self-hosted", "videos"]
   }
 ]

@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Watch Later
 description: Youtube > Watch Later
+icon: fas fa-clock
 category:
   - Youtube
   - Watch Later
@@ -55,7 +56,6 @@ tags:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

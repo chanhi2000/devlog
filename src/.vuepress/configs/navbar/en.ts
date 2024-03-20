@@ -59,8 +59,9 @@ export const navbarEn = navbar([
         link: '/g4e/cli-shell/README.md',
         icon: 'iconfont icon-shell'
       }, {
-        text: '🧢Batchfile (Windows)',
+        text: 'Batchfile (Windows)',
         link: '/g4e/cli-batchfile/README.md',
+        icon: 'fas fa-gears',
       }, {
         text: 'Powershell',
         link: '/g4e/cli-pwsh/README.md',
@@ -166,19 +167,29 @@ export const navbarEn = navbar([
     ]
   }, {
     text: '', // explore
-    link: '/explore/README.md',
-    icon: 'fas fa-globe'
+    icon: 'fas fa-globe',
+    children: [
+      {
+        text: 'Newsletter',
+        icon: 'fas fa-rss',
+        link: '/explore/newsletter/README.md',
+      }, {
+        text: 'YouTube',
+        icon: 'fa-brands fa-youtube',
+        link: '/explore/youtube/README.md',
+      }, {
+        text: 'Public API',
+        icon: 'fas fa-bullseye',
+        link: '/explore/api/README.md',
+      }, {
+        text: 'Devlog',
+        icon: 'fas fa-timeline',
+        link: '/explore/devlog/README.md',
+      }, {
+        text: 'Career',
+        icon: 'fas fa-user-tie',
+        link: '/explore/career/README.md',
+      }
+    ]
   }
-// {
-//   text: '📍Misc.',
-//   children: [
-//     {
-//       text: '🅽Notion',
-//       link: 'https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd',
-//     },{
-//       text: "📢Tell Me What's Wrong",
-//       link: "https://github.com/chanhi2000/devlog/issues",
-//     }
-//   ]
-// }, 
 ])

@@ -499,5 +499,10 @@
     "desc": "Automate automation with Large Action Model framework",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Azure-Samples/contoso-chat",
+    "desc": "This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.",
+    "officialSite": "",
+    "topics": []
   }
 ]

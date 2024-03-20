@@ -1,14 +1,16 @@
 ---
 lang: ko-KR
 title: Basics
-description: 🧢Batchfile > Basics
+description: Batchfile > Basics
 icon: fas fa-egg
 category: 
-  - 🧢Batchfile 
+  - Batchfile 
   - Basics
 tag: 
-  - batch
+  - cli
   - bat
+  - batchfile
+  - win
   - windows
   - windows-terminal
   - multiline
@@ -17,7 +19,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

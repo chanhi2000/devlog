@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🖨Log4j
-description: Java > 🖨Log4j
+title: Log4j
+description: Java > Log4j
+icon: fas fa-file-invoice
 category:
   - Java 
-  - 🖨Log4j
+  - Log4j
 tag: 
   - java
   - jdk
@@ -14,9 +15,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ☕️Java > 🖨Log4j
+      content: Java > Log4j
     - property: og:description
-      content: ☕️Java > 🖨Log4j
+      content: Log4j
     - property: og:type
       content: article
     - property: og:url
@@ -25,7 +26,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

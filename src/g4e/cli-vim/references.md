@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: References
-description: 🗡Vim > References
+description: Vim > References
 icon: iconfont icon-share
 category:
-  - 🗡Vim
+  - Vim
   - References
 tag: 
   - bash
@@ -17,7 +17,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

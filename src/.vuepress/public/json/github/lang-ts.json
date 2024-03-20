@@ -2418,5 +2418,25 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "discord/embedded-app-sdk",
+    "desc": "🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord.",
+    "officialSite": "https://discord.com/developers/docs/activities/overview",
+    "topics": []
+  }, {
+    "repo": "xyflow/xyflow",
+    "desc": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+    "officialSite": "https://xyflow.com",
+    "topics": ["flowchart", "graph", "javascript", "node-based-ui", "react", "react-flow", "svelte", "svelte-flow", "typescript", "typescript-library", "workflow"]
+  }, {
+    "repo": "yesmore/vmail",
+    "desc": "Open source temporary email tool. 开源临时邮箱工具 👉 vmail.dev",
+    "officialSite": "https://vmail.dev",
+    "topics": []
+  }, {
+    "repo": "chearon/dropflow",
+    "desc": "A CSS layout engine",
+    "officialSite": "https://chearon.github.io/dropflow/",
+    "topics": []
   }
 ]

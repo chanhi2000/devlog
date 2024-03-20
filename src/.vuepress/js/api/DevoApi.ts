@@ -18,7 +18,7 @@ const PUBLIC_GITHUB_BASEPATH = `${Setup.BASEURL}/json/github`
 const URL_JSON_GITHUB_COLOR = `${Setup.BASEURL}/json/github-color.json`
 
 const jsonFullPathsLang = [
-  "android", "assembly", "awk", "batchfile", "blade", "c", "clojure", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "elm", "gdscript", "go", "haskell", "hcl", "java", "js", "julia", "jupyter-notebook", "kotlin", "lua", "objc", "ocaml", "prolog", "php", "pwsh", "python", "qml", "r", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "vala", "vdhl", "verilog", "vim-script", "zig"
+  "android", "assembly", "awk", "batchfile", "blade", "c", "clojure", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "elm", "gdscript", "go", "haskell", "hcl", "java", "js", "julia", "jupyter-notebook", "kotlin", "lua", "nextflow", "objc", "ocaml", "prolog", "php", "pwsh", "python", "qml", "r", "ruby", "rust", "scala", "sh", "solidity", "swift", "tex", "ts", "v", "vala", "vdhl", "verilog", "vim-script", "zig"
 ].map((e: string) => `${PUBLIC_GITHUB_BASEPATH}/lang-${e}.json`);
 
 const jsonFullPathsLangTut = [

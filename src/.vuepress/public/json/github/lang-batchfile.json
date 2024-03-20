@@ -24,5 +24,10 @@
     "desc": "Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium",
     "officialSite": "https://thorium.rocks",
     "topics": ["avx", "chrome", "chromedriver", "chromium", "chromium-browser", "content-shell", "thorium", "thorium-browser", "web-browser", "web-platform", "webbrowser", "windows"]
+  }, {
+    "repo": "TheMMC/In-Place_Upgrade_Helper",
+    "desc": "Helper-Tool für Windows 10/11 Inplace-Upgrades und Editionswechsel",
+    "officialSite": "",
+    "topics": []
   }
 ]

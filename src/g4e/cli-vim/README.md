@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🗡Vim
-description: 🗡Vim
+title: Vim
+description: Vim
+icon: fas fa-pen-nib
 categroy:
-  - 🗡Vim
+  - Vim
+tag:
+  - vi
+  - vim
 ---
 
 # {{ $frontmatter.description }} 관련

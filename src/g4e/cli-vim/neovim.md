@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🏔NeoVim
-description: 🗡Vim > 🏔NeoVim
+title: NeoVim
+description: Vim > NeoVim
+icon: fa-brands fa-neos
 category:
-  - 🗡Vim
-  - 🏔NeoVim
+  - Vim
+  - NeoVim
 tag: 
   - bash
   - linux
@@ -16,7 +17,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 

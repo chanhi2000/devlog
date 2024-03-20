@@ -44,5 +44,10 @@
     "desc": "ContainerView is designed to add a cool swim from the bottom to the animation with the effect of scale, controlled by the help of a gesture, scrollView also takes control. The idea is taken from the application: https://www.apple.com/ios/maps/",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "firebase/firebase-ios-sdk",
+    "desc": "Firebase SDK for Apple App Development",
+    "officialSite": "https://firebase.google.com",
+    "topics": ["authentication", "database-as-a-service", "firebase", "firebase-auth", "firebase-authentication", "firebase-database", "firebase-messaging", "firebase-storage", "ios-sdk", "objective-c", "push-notifications", "storage-service"]
   }
 ]

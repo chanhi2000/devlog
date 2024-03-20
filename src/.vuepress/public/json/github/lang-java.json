@@ -599,5 +599,10 @@
     "desc": "Java version of LangChain",
     "officialSite": "https://docs.langchain4j.dev",
     "topics": ["azure-openai", "chatgpt", "chroma", "embeddings", "gemini", "gpt", "huggingface", "java", "langchain", "langchain-java", "llama", "llama2", "localai", "milvus", "ollama", "onnx", "openai", "pinecone", "vector-database", "weaviate"]
+  }, {
+    "repo": "00-Evan/shattered-pixel-dungeon",
+    "desc": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+    "officialSite": "https://shatteredpixel.com/shatteredpd/",
+    "topics": ["android", "game", "game-development", "ios", "java", "libgdx"]
   }
 ]

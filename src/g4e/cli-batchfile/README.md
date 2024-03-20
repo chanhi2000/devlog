@@ -1,9 +1,17 @@
 ---
 lang: ko-KR
-title: 🧢Batchfile
-description: 🧢Batchfile
+title: Batchfile
+description: Batchfile
+icon: fas fa-gears
 category:
-  - 🧢Batchfile
+  - Batchfile
+tag:
+  - cli
+  - bat
+  - batchfile
+  - win
+  - windows
+  - windows-terminal
 ---
 
 # {{ $frontmatter.description }} 관련

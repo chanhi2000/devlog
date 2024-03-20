@@ -14,7 +14,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -232,6 +231,12 @@ tag:
 ## Border Guards
 
 - [Quantum Soccer](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
+
+---
+
+## James Somers
+
+- [The Baffling Intelligence of a Single Cell](https://jsomers.net/e-coli-chemotaxis/)
 
 ---
 

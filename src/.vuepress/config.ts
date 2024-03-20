@@ -79,7 +79,7 @@ export default defineUserConfig({
       blog: true,
       components: {
         components: [
-          "VidStack", "FontIcon", "Badge", "Share", "PDF", "SiteInfo", "VPCard", "VPBanner"
+          "VidStack", "FontIcon", "Badge", "Notice", "Share", "PDF", "SiteInfo", "VPCard", "VPBanner"
         ],
         componentOptions: {
           fontIcon: {
@@ -87,7 +87,22 @@ export default defineUserConfig({
           }
         },
         rootComponents: {
-          // backToTop: false,
+          notice: [
+            {
+              path: "/",
+              title: "Notice Title",
+              content: "Notice Content",
+              actions: [
+                {
+                  text: "Primary Action",
+                  link: "https://theme-hope.vuejs.press/",
+                  type: "primary",
+                },
+                { text: "Default Action" },
+              ],
+              fullscreen: true,
+            }
+          ]
         }
       },
       copyright: {

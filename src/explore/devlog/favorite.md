@@ -14,7 +14,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
@@ -46,4 +45,7 @@ tag:
 - [Tall, Snarky Canadian](https://snarky.ca)
 - [서버포럼](https://svrforum.com)
 - [Currl - A free text-based social bookmarking website. Collect links you love from around the web.](https://currl.io)
+
+---
+
 <TagLinks />

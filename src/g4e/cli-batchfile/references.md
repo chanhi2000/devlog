@@ -1,13 +1,18 @@
 ---
 lang: ko-KR
 title: References
-description: 🧢Batchfile > References
+description: Batchfile > References
 icon: iconfont icon-share
 category: 
-  - 🧢Batchfile 
+  - Batchfile 
   - References
 tag: 
-  - bash
+  - cli
+  - bat
+  - batchfile
+  - win
+  - windows
+  - windows-terminal
   - linux
   - macos
   - terminal
@@ -16,7 +21,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-> {{ $frontmatter.description }}
 
 [[toc]]
 
