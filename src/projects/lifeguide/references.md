@@ -34,4 +34,10 @@ tag:
 
 ---
 
+## benkuhn
+
+- [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)
+
+---
+
 <TagLinks />

@@ -176,6 +176,26 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "Prompt Library",
+  "desc": "Explore optimized prompts for a breadth of business and personal tasks.",
+  "link": "https://docs.anthropic.com/claude/prompt-library",
+  "logo": "https://files.readme.io/69d2014-favicon.ico",
+  "background": "rgba(38,46,51,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Kimchi Reader",
+  "desc": "Your Ultimate Toolbox for Immersive Korean Language Learning",
+  "link": "https://kimchi-reader.app/",
+  "logo": "https://kimchi-reader.app/_app/immutable/assets/icon-full.4M8znj2G.svg",
+  "background": "rgba(15,15,15,0.2)"
+}
+```
+
 - [Operator Lookup](https://www.joshwcomeau.com/operator-lookup)
 - [Sha256 Decrypt & Encrypt](https://md5decrypt.net/en/Sha256/#answer)
 
@@ -236,7 +256,7 @@ tag:
   "title": "네이버 - QR코드",
   "desc": "나만의 QR코드로 간편하게 정보를 담아보세요",
   "link": "https://qr.naver.com",
-  "logo": "https://qr.naver.com/images/naver-logo.svg",
+  "logo": "https://naver.com/favicon.ico",
   "background": "rgba(3,199,90,0.2)"
 }
 ```
@@ -281,6 +301,26 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "Hexcodle - The Daily Hexcode Guessing Game!",
+  "desc": "Can you guess today's hexcode color? Challenge your color instincts and decode the hexcode with Hexcodle! Inspired by Wordle, but for color enthusiasts.",
+  "link": "https://hexcodle.com/",
+  "logo": "https://hexcodle.com/favicon.ico",
+  "background": "rgba(227,232,239,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "shadeup.dev",
+  "desc": "The power of WebGPU with just a few lines of code",
+  "link": "https://shadeup.dev/browse",
+  "logo": "https://shadeup.dev/logo.svg",
+  "background": "rgba(74,39,116,0.2)"
+}
+```
+
 - [Iconbuddy](https://iconbuddy.app): Download, Customize, Edit and Personalize. Over 100k+ open source icons
 - [heroicons](https://heroicons.com): Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [fonts-earlyaccess](https://fonts.google.com/earlyaccess): Google Fonts (Early Access)
@@ -314,6 +354,36 @@ tag:
   "link": "https://gps-coordinates.org",
   "logo": "https://gps-coordinates.org/images/logo.gif",
   "background": "rgba(33,166,33,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "OsmAPP",
+  "desc": "A universal OpenStreetMap app",
+  "link": "https://osmapp.org/#7.00/37.3666/126.9512",
+  "logo": "https://osmapp.org/logo/osmapp_256.png",
+  "background": "rgba(66,66,66,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "WaterwayMap.org - OSM River Basins",
+  "desc": "A unique, topological, view on rivers & waterways in OpenStreetMap, showing how they are connected. Find mistakes and make better maps.",
+  "link": "https://waterwaymap.org/#map=2/0/0",
+  "logo": "https://waterwaymap.org/img/osm.png",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Sit In Shade",
+  "desc": "Find Best Seat to Minimize Sun Exposure While Traveling - Sit In Shade",
+  "link": "https://sitinshade.com/",
+  "logo": "https://sitinshade.com/favicon.ico",
+  "background": "rgba(10,10,10,0.2)"
 }
 ```
 
@@ -388,6 +458,26 @@ tag:
   "desc": "대출이자 계산기, 대출이자 자동계산기, 원리금균등상환 계산기, 원금균등상환 계산기, 원금만기일시상환 계산기, 대출금리계산기, 대출이자 계산방법, 대출이자율 계산기, 주택담보대출이자계산, 은행대출이자 계산, 대출이자 계산법",
   "link": "http://calc.funstory.biz/",
   "background": "rgba(40,164,229,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "binvis.io",
+  "desc": "visual analysis of binary files",
+  "link": "https://binvis.io/#/",
+  "logo": "",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ambient.garden",
+  "desc": "An Algorithmic Audio Landscape",
+  "link": "https://ambient.garden/",
+  "logo": "https://ambient.garden/favicon.ico",
+  "background": "rgba(10,10,10,0.2)"
 }
 ```
 

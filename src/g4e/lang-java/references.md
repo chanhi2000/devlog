@@ -92,27 +92,9 @@ tag:
 
 ### velog
 
-#### `@jj362`
-
-- [스프링 Security 를 유닛테스트 하라! - Episode1, 2](https://velog.io/@jj362/Spring-Security-%EB%A5%BC-%EC%9C%A0%EB%8B%9B%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0)
-- [스프링 Security를 유닛테스트 하라! - Episode 4 게시판](https://velog.io/@jj362/%EC%8A%A4%ED%94%84%EB%A7%81-Security%EB%A5%BC-%EC%9C%A0%EB%8B%9B%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EB%9D%BC-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%AA%A8%EB%93%88%ED%8E%B8)
-- [스프링 Security를 유닛테스트하라! - 토큰을 공유하는 애플리케이션 서버들](https://velog.io/@jj362/%EC%8A%A4%ED%94%84%EB%A7%81-Security%EB%A5%BC-%EC%9C%A0%EB%8B%9B%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%9D%BC-%ED%86%A0%ED%81%B0%EC%9D%84-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B2%84%EB%93%A4)
-
-#### `@lehdqlsl`
-
-- [SpringBoot JPA Multiple Databases 설정](https://velog.io/@lehdqlsl/SpringBoot-JPA-Multiple-Databases-%EC%84%A4%EC%A0%95)
-
-#### `@jwpark06`
-
-- [SpringBoot에 JDBC로 Postgresql 연동하기](https://velog.io/@jwpark06/SpringBoot%EC%97%90-JDBC%EB%A1%9C-Postgresql-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
-
-#### `@qkrtkdwns3410`
-
-- [[자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
-
-#### `@dradnats1012`
-
-- [DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
+- [`@qkrtkdwns3410`: [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
+- [`@dradnats1012`: DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
+- [`@danjr`: 이스케이프 문자열](https://velog.io/@danjr/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
 
 ### Douglas Schmidt
 

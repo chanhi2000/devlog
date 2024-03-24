@@ -287,5 +287,11 @@ tag:
 
 ---
 
+## Factorial Funds
+
+- [Under The Hood: How OpenAI's Sora Model Works](https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works)
+
+---
+
 <TagLinks />
 

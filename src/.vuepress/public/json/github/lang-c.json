@@ -815,9 +815,9 @@
     "officialSite": "https://opensimh.org/",
     "topics": []
   }, {
-    "repo": "getgrit/gritql",
-    "desc": "GritQL is a query language for searching, linting, and modifying code.",
-    "officialSite": "https://docs.grit.io/",
-    "topics": ["ast", "codemod", "javascript", "linter", "refactoring", "rust", "search", "tree-sitter"]
+    "repo": "redis/redis",
+    "desc": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "officialSite": "http://redis.io",
+    "topics": ["cache", "database", "key-value", "message-broker", "nosql", "redis"]
   }
 ]

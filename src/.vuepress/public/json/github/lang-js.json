@@ -2079,5 +2079,20 @@
     "desc": "Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.",
     "officialSite": "https://abusaid.me",
     "topics": ["developer-portfolio", "next-portfolio", "personal-portfolio", "personal-website", "portfolio", "portfolio-site", "portfolio-template", "portfolio-website", "react", "react-portfolio", "resume", "software-developer-portfolio"]
+  }, {
+    "repo": "mnutt/rotary",
+    "desc": "Adventures with rotary phones and asterisk",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "thevahidal/soul",
+    "desc": "🕉 A SQLite REST and realtime server",
+    "officialSite": "https://thevahidal.github.io/soul/",
+    "topics": ["nodejs", "realtime", "rest", "sqlite", "sqlite3"]
+  }, {
+    "repo": "SuhailTechInfo/Suhail-Md",
+    "desc": "meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖",
+    "officialSite": "https://youtube.com/SuhailTechInfo",
+    "topics": ["bot", "heroku", "md-bot-whatsapp", "mongodb", "multidevice", "nodejs", "suhail-md", "suhail-md-bot", "suhail-whatsapp-bot", "wa-bot", "whatsapp-bot", "whatsapp-bot-md", "whatsapp-md-bot"]
   }
 ]

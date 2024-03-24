@@ -381,9 +381,9 @@
     "topics": ["binary-neural-networks", "knowledge-distillation", "model-compression", "pruning", "quantization", "self-supervised"]
   }, {
     "repo": "microsoft/autogen",
-    "desc": "Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ",
-    "officialSite": "https://microsoft.github.io/autogen",
-    "topics": ["agent-based-framework", "agent-oriented-programming", "chat", "chat-application", "chatbot", "chatgpt", "gpt", "gpt-35-turbo", "gpt-4", "llm-agent", "llm-framework", "llm-inference", "llmops"]
+    "desc": "A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ",
+    "officialSite": "https://microsoft.github.io/autogen/",
+    "topics": ["agent-based-framework", "agent-oriented-programming", "agentic", "agentic-agi", "chat", "chat-application", "chatbot", "chatgpt", "gpt", "gpt-35-turbo", "gpt-4", "llm-agent", "llm-framework", "llm-inference", "llmops"]
   }, {
     "repo": "PWhiddy/PokemonRedExperiments",
     "desc": "Playing Pokemon Red with Reinforcement Learning",
@@ -502,6 +502,21 @@
   }, {
     "repo": "Azure-Samples/contoso-chat",
     "desc": "This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "OpenDevin/OpenDevin",
+    "desc": "🐚 OpenDevin: Code Less, Make More",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mshumer/gpt-investor",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "lichao-sun/Mora",
+    "desc": "Mora: More like Sora for Generalist Video Generation",
     "officialSite": "",
     "topics": []
   }

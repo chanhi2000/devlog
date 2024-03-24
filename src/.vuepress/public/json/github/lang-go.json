@@ -1294,5 +1294,25 @@
     "desc": "eBPF distributed networking observability tool for Kubernetes",
     "officialSite": "https://retina.sh",
     "topics": ["ebpf", "kubernetes", "networking", "observability"]
+  }, {
+    "repo": "refaktor/rye",
+    "desc": "homoiconic dynamic programming language with some new ideas",
+    "officialSite": "https://ryelang.org",
+    "topics": ["console", "factor", "golang", "programming-language", "rebol", "ryelang"]
+  }, {
+    "repo": "anchordotdev/cli",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "yusufcanb/tlm",
+    "desc": "Local CLI Copilot, powered by CodeLLaMa. 💻🦙",
+    "officialSite": "",
+    "topics": ["bash", "codellama", "llama2", "llm", "powershell", "starcoder2"]
+  }, {
+    "repo": "failsafe-go/failsafe-go",
+    "desc": "Fault tolerance and resilience patterns for Go",
+    "officialSite": "https://failsafe-go.dev",
+    "topics": ["bulkhead", "circuit-breaker", "fallback", "hedge", "rate-limiter", "resilience", "resiliency-patterns", "retry", "timeout"]
   }
 ]

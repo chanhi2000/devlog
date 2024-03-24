@@ -1198,5 +1198,10 @@
     "desc": "World's smallest readable 3x4 font with lowercase; includes all ASCII symbols",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Snapchat/KeyDB",
+    "desc": "A Multithreaded Fork of Redis",
+    "officialSite": "https://keydb.dev",
+    "topics": []
   }
 ]

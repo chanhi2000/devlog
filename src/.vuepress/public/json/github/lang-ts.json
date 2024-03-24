@@ -1021,9 +1021,9 @@
     "topics": []
   }, {
     "repo": "immich-app/immich",
-    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "desc": "High performance self-hosted photo and video management solution.",
     "officialSite": "https://immich.app",
-    "topics": ["nodejs", "photos", "svelte", "photo-gallery", "mobile-app", "self-hosted", "videos", "google-photos", "flutter", "backup-tool", "nestjs", "sveltekit", "google-photos-alternative"]
+    "topics": ["backup-tool", "flutter", "google-photos", "google-photos-alternative", "javascript", "mobile-app", "nestjs", "nodejs", "photo-gallery", "photos", "photos-management", "self-hosted", "svelte", "sveltekit", "typescript", "videos"]
   }, {
     "repo": "Shelf-nu/shelf.nu",
     "desc": "shelf is open source Asset Management Infrastructure for absolutely everyone.",
@@ -2438,5 +2438,10 @@
     "desc": "A CSS layout engine",
     "officialSite": "https://chearon.github.io/dropflow/",
     "topics": []
+  }, {
+    "repo": "larswaechter/voici.js",
+    "desc": "A Node.js library for pretty printing your data on the terminal🎨",
+    "officialSite": "https://voici.larswaechter.dev",
+    "topics": ["console", "data-science", "javascript", "shell", "terminal", "tty", "typescript"]
   }
 ]

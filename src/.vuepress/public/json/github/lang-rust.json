@@ -1224,5 +1224,21 @@
     "desc": "a structural diff that understands syntax 🟥🟩",
     "officialSite": "https://difftastic.wilfred.me.uk/",
     "topics": ["diff", "tree-sitter"]
+  }, {
+    "repo": "lapce/lapdev",
+    "desc": "Self-Hosted Remote Dev Environment",
+    "officialSite": "https://lap.dev",
+    "topics": []
+  }, {
+    "repo": "getgrit/gritql",
+    "desc": "GritQL is a query language for searching, linting, and modifying code.",
+    "officialSite": "https://docs.grit.io/",
+    "topics": ["ast", "codemod", "javascript", "linter", "refactoring", "rust", "search", "tree-sitter"]
+  }, {
+    "repo": "wasmerio/wasmer",
+    "desc": "🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten",
+    "officialSite": "https://wasmer.io/",
+    "topics": ["emscripten", "linux", "macos", "rust", "wasi", "wasix", "wasm", "wasmer", "webassembly", "windows"]
   }
+  
 ]

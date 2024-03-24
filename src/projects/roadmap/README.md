@@ -42,7 +42,7 @@ Wanted 프로필 갱신                :         descB3, 2023-10-30, 1w
 section C 노트정리
 cli-text-processing-w-gnu-awk 정리  :done,     desC1, 2023-09-20, 10w
 swift-100-days-of-swift 정리        :done,     desC2, 2023-09-20, 30w
-swift-100-days-of-swiftui 정리      :active,   desC3, 2023-09-20, 30w
+swift-100-days-of-swiftui 정리      :done,   desC3, 2023-09-20, 30w
 paul-hudson-swiftui-by-example 정리 :active,   desC4, 2023-09-20, 30w
 pwsh-script 정리                    :done,     desC5, 2023-09-20, 4w
 devops-ovirt 정리                   :         desC6, 2023-09-20, 20w
@@ -58,18 +58,20 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 ::: details 2023년 완료
 
 - A. 2022년 자료준비
-  - A1. 북마크 기록
+  - 북마크 기록
     - 크롬 브라우저에 동기화 되어 있는 북마크 중, 개발관련 내용은 전부 여기로 이동
-  - A2. 22년안에 처리해야 할 기타 작업
+  - 22년안에 처리해야 할 기타 작업
 - B. 2023년 Career Developing
-  - B1. github profile 변경
+  - github profile 변경
 - C. 노트정리
-  - C1. `/crashcourse/devops-linux-journey` 정리
-  - C2. `/crashcourse/cli-mastering-curl-interactive-text-guide` 정리
-  - C3. `/crashcourse/devops-freecodecamp-gitlab-ci` 정리
-  - C4. `/g4e/lang-pwsh/scripts-*` 정리
-  - C5. `/crashcourse/cli-text-processing-w-gnu-awk` 정리
- 
+  - `/crashcourse/devops/linux-journey` 정리
+  - `/crashcourse/cli-mastering-curl-interactive-text-guide` 정리
+  - `/crashcourse/devops/freecodecamp-gitlab-ci` 정리
+  - `/g4e/lang-pwsh/scripts-*` 정리
+  - `/crashcourse/cli/text-processing-w-gnu-awk` 정리
+  - `/crashcourse/swift/100-days-of-swift` 정리
+  - `/crashcourse/swift/100-days-of-swiftui` 정리
+
 :::
 
 ## 🎯TODO
@@ -79,14 +81,6 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 ### B. 2023년 Career Developing
 
 ### C. 노트정리
-
-#### C1. `/crashcourse/swift/100-days-of-swift` 정리
-
-> [See README](https://chanhi2000.github.io/crashcourse/swift/100-days-of-swift)
-
-#### C2. `/crashcourse/swift/100-days-of-swiftui` 정리
-
-> [See README](https://chanhi2000.github.io/crashcourse/swift/100-days-of-swiftui)
 
 #### C3. `/crashcourse/swift/swiftui-by-example` 정리
 
@@ -102,25 +96,16 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 
 > [See README](/g4e/devops-ovirt/README.md)
 
+### D. 기능개발
+
+- simple-icons integration
+- 
 
 ### Z. 기타
 
 #### Z1. 피부양자 등록
 
-- [x] 피부양자 등록 조건 찾기
-
-#### Z2. P.A.R.A 구조로 프로젝트 트리 변경
-
-- [x] 🪠P (Project)
-- [ ] 🌙A (Area)
-- [ ] 🪄R (Resource)
-  - 자료나 관심있는 것들을 __주제별로__ 모아둠 (`g4e`와 유사)
-- [ ] 🌀A (Archive)
-  - 더 이상 필요 없는 노트 (`explore`와 유사)
-  - 예
-    - 완료가 된 프로젝트
-    - 더이상 신경쓰지 않아도 될 Area
-    - 관심에서 사라진 Resource
+- [x] 피부양자 등록 조건 찾기 
 
 ---
 

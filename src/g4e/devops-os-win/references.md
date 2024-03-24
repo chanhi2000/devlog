@@ -77,6 +77,7 @@ tag:
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217
 - https://www.gooper.com/ss/tnt_lang/4213
 - https://pgr21.co.kr/qna/27717?page=36&select_arrange=hit
+- [DiskClick](https://deervo.itch.io/diskclick)
 
 ---
 

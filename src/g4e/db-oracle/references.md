@@ -73,4 +73,10 @@ tag:
 
 ---
 
+## star collector
+
+- [[데이터베이스] 인덱스 + 심화 (커버링 인덱스, 실행 계획, 인덱스 스캔)](https://shout-to-my-mae.tistory.com/410)
+
+---
+
 <TagLinks />

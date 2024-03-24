@@ -210,5 +210,15 @@
     "desc": "Twine: A multiplatform RSS reader built using Kotlin and Compose",
     "officialSite": "",
     "topics": ["compose-multiplatform", "kotlin-multiplatform"]
+  }, {
+    "repo": "unit-mesh/auto-dev",
+    "desc": "🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀",
+    "officialSite": "https://ide.unitmesh.cc/",
+    "topics": ["aigc", "genai", "genaistack", "ide", "intellij"]
+  }, {
+    "repo": "wirequery/wirequery",
+    "desc": "WireQuery is a full-stack session replay tool. Using WireQuery, you can see how a user experiences an issue through a video-like frontend recording. Combined with an overview of the network calls to the backend (including network calls further upstream and their actual payload), you get a holistic overview of how an issue came into existence.",
+    "officialSite": "http://www.wirequery.io",
+    "topics": ["debugging", "distributed-tracing", "observability", "session-replay", "tracing", "traffic-analysis"]
   }
 ]

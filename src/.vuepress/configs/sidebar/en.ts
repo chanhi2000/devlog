@@ -495,6 +495,15 @@ export const sidebarEn = sidebar({
         '/g4e/devops-aws/youtube.md',
       ]
     }, {
+      text: 'Azure',
+      collapsible: true,
+      icon: 'fa-brands fa-microsoft',
+      children: [
+        '/g4e/devops-azure/README.md',
+        '/g4e/devops-azure/references.md',
+        '/g4e/devops-azure/youtube.md',
+      ]
+    }, {
       text: 'Security',
       collapsible: true,
       icon: 'fas fa-shield-halved',

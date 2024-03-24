@@ -46,4 +46,16 @@ tag:
 
 ---
 
+## 호이
+
+- [우리가 본받을 만한 실리콘밸리의 기업문화](https://blog.hoy.im/siliconvalley)
+
+---
+
+## QAing
+
+- [기업에서 QA담당자들이 일하는 방법](https://blog.qaing.co/qaprocess)
+
+---
+
 <TagLinks />

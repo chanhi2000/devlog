@@ -52,6 +52,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "전직장닷컴",
+  "desc": "전직장닷컴",
+  "link": "https://junjikjang.com/",
+  "logo": "https://junjikjang.com/img/logo-day.png",
+  "background": "rgba(244,244,244,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Crescendo",
   "desc": "소규모 스터디 플랫폼",
   "link": "https://www.crescendo-study.site/",

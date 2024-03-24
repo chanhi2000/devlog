@@ -394,4 +394,12 @@ tag:
 
 - [What are the "worst" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
 
+---
+
+## webnautes
+
+- [컬럼에서 특정 값을 가진 행 삭제하는 Pandas 예제](https://webnautes.tistory.com/2299)
+
+---
+
 <TagLinks />

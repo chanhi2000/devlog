@@ -2500,11 +2500,6 @@
     "topics": [],
     "officialSite": "https://facebookresearch.github.io/nougat"
   }, {
-    "repo": "KillianLucas/open-interpreter",
-    "desc": "OpenAI's Code Interpreter in your terminal, running locally",
-    "topics": ["python", "interpreter", "gpt-4", "chatgpt", "llama2", "codellama"],
-    "officialSite": "http://openinterpreter.com"
-  }, {
     "repo": "OpenBMB/ChatDev",
     "desc": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
     "officialSite": "",
@@ -4544,5 +4539,70 @@
     "desc": "Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines",
     "officialSite": "https://docs.ragas.io",
     "topics": ["llm", "llmops"]
+  }, {
+    "repo": "stitionai/devika",
+    "desc": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "OpenInterpreter/open-interpreter",
+    "desc": "A natural language interface for computers",
+    "officialSite": "http://openinterpreter.com/",
+    "topics": ["chatgpt", "gpt-4", "interpreter", "javascript", "nodejs", "python"]
+  }, {
+    "repo": "OpenInterpreter/01",
+    "desc": "The open-source language model computer",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Lightning-AI/lightning-thunder",
+    "desc": "Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "SakanaAI/evolutionary-model-merge",
+    "desc": "Official repository of Evolutionary Optimization of Model Merging Recipes",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hiyouga/LLaMA-Factory",
+    "desc": "Unify Efficient Fine-tuning of 100+ LLMs",
+    "officialSite": "",
+    "topics": ["agent", "baichuan", "chatglm", "fine-tuning", "generative-ai", "gpt", "instruction-tuning", "language-model", "large-language-models", "llama", "llm", "lora", "mistral", "mixture-of-experts", "peft", "qlora", "quantization", "qwen", "rlhf", "transformers"]
+  }, {
+    "repo": "FlagOpen/FlagEmbedding",
+    "desc": "Retrieval and Retrieval-augmented LLMs",
+    "officialSite": "",
+    "topics": ["embeddings", "information-retrieval", "llm", "retrieval-augmented-generation", "sentence-embeddings", "text-semantic-similarity"]
+  }, {
+    "repo": "httpie/cli",
+    "desc": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+    "officialSite": "https://httpie.io",
+    "topics": ["api", "api-client", "api-testing", "cli", "client", "curl", "debugging", "developer-tools", "development", "devops", "http", "http-client", "httpie", "json", "python", "rest", "rest-api", "terminal", "usability", "web"]
+  }, {
+    "repo": "harry0703/MoneyPrinterTurbo",
+    "desc": "利用大模型，一键生成短视频",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "lewis-007/MediaCrawler",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jasonppy/VoiceCraft",
+    "desc": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ezelikman/quiet-star",
+    "desc": "Code for Quiet-STaR",
+    "officialSite": "https://arxiv.org/abs/2403.09629",
+    "topics": []
+  }, {
+    "repo": "jiji262/MediaCrawler-new",
+    "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+    "officialSite": "",
+    "topics": []
   }
 ]
