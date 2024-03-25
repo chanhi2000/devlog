@@ -1239,6 +1239,10 @@
     "desc": "🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten",
     "officialSite": "https://wasmer.io/",
     "topics": ["emscripten", "linux", "macos", "rust", "wasi", "wasix", "wasm", "wasmer", "webassembly", "windows"]
+  }, {
+    "repo": "Y2Z/monolith",
+    "desc": "⬛️ CLI tool for saving complete web pages as a single HTML file",
+    "officialSite": "https://crates.io/crates/monolith",
+    "topics": ["come-and-take-it", "e-hoarding", "its-mine", "make-the-internet-great-again", "no-more-404", "procrastination", "save-the-internet", "tab-rehab"]
   }
-  
 ]

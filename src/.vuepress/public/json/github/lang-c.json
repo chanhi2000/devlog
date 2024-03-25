@@ -819,5 +819,10 @@
     "desc": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
     "officialSite": "http://redis.io",
     "topics": ["cache", "database", "key-value", "message-broker", "nosql", "redis"]
+  }, {
+    "repo": "janmojzis/tinyssh",
+    "desc": "TinySSH is small server (less than 100000 words of code)",
+    "officialSite": "",
+    "topics": []
   }
 ]

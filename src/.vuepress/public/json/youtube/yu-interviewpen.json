@@ -7,6 +7,10 @@
     "banner": "https://yt3.googleusercontent.com/U8zij5TNWorDHhlNs2rTAKV4u431lDN4m3_NqKBfCX7cPpF5xgbqZyunQHN7yifp7Xb1ZVPRlg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "R_agd5qZ26Y", "title": "Basic System Design for Uber or Lyft | System Design Interview Prep" },
+    { "id": "v6qvrIY5Tgs", "title": "Design a Video Streaming Protocol (HLS, DASH) | System Design" },
+    { "id": "wiBSjzDyA48", "title": "Design a Fault Tolerant E-commerce System | System Design" },
+    { "id": "yKPVZgA6Oe0", "title": "What makes Kafka special? | System Design" },
     { "id": "0LTXCcVRQi0", "title": "Design a Basic Search Engine (Google or Bing) | System Design Interview Prep" }, 
     { "id": "R_agd5qZ26Y", "title": "Basic System Design for Uber or Lyft | System Design Interview Prep" }
   ]

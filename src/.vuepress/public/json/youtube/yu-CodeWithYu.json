@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "CodeWithYu",
+    "name": "CodeWithYu",
+    "profile": "https://yt3.googleusercontent.com/GO_5r9plegy4pSLRlEXKeezL-hJMQFzaTZd83NasIpqj8KBxe_Me2L5vpS-YxyAWIk3w3Ioz=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VmUM-BEOMXvaZaQV2VvqjqaB2J_A0G5WYnvYjNGalTxiqac6DA5VSMlzB0mOVVpUWilBssFb1w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GqAcTrqKcrY", "title": "Realtime Data Streaming |  End To End Data Engineering Project" },
+    { "id": "Vv_fvwF41_0", "title": "Smart City End to End Realtime Data Engineering Project | Get Hired as an AWS Data Engineer" },
+    { "id": "M6BWTnMH77M", "title": "End to End Realtime Streaming with Unstructured Data | Get Hired as an Experienced Data Engineer" },
+    { "id": "u0bTOXVSrQc", "title": "Designing DataWarehouse from Scratch | End to End Data Engineering" }
+  ]
+}

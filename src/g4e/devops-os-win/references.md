@@ -72,6 +72,12 @@ tag:
 
 ---
 
+## ARM64 Boot Camp
+
+- [ARM64EC (and ARM64X) Explained](http://www.emulators.com/docs/abc_arm64ec_explained.htm)
+
+---
+
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217

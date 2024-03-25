@@ -36,5 +36,10 @@ head:
 <MyYouTubeItems jsonName="yu-makc" /><!-- MAKC -->
 <MyYouTubeItems jsonName="yu-typecraft_dev" /><!-- typecraft -->
 <MyYouTubeItems jsonName="yu-ascourter" /><!-- Andrew Courter -->
+<MyYouTubeItems jsonName="yu-sagaratytube" /><!-- Dispatch -->
+<MyYouTubeItems jsonName="yu-Goodgis" /><!-- Goodgis -->
+<MyYouTubeItems jsonName="yu-2kabhishek" /><!-- Abhishek Keshri -->
+<MyYouTubeItems jsonName="yu-mischavandenburg" /><!-- Mischa van den Burg -->
+
 
 <TagLinks />

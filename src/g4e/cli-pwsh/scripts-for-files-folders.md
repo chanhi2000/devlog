@@ -833,7 +833,7 @@ try {
 }
 ```
 
-This PowerShell script changes the current working directory to the root directory (<FontIcon icon="iconfont icon-folder"/>`C:\` on Windows).
+This PowerShell script changes the current working directory to the root directory (<FontIcon icon="fas fa-folder-open"/>`C:\` on Windows).
 
 ::: tabs
 

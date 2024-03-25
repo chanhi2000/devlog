@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "KodapsAcademy",
+    "name": "Kodaps Academy",
+    "profile": "https://yt3.googleusercontent.com/tXKxCqBx51L-0InM7zS4Gc_tBPG_2qUMXW7nWBmPbrW9KiAXNqY5n5kSvFlhgJC33rFSKYGFuA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FCy20Fqw64pw-Ai0fS_nbG38bb9dRJEY6gEc46bfZ8gpaGOO7X0htgee6RhU6Gl6DECWiuPIjE4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LjIe4w_-vzk", "title": "Go vs Rust: Which To Learn In 2024?" },
+    { "id": "iJ_B_5W-pDA", "title": "How to Use OpenAI's ChatGPT API in JavaScript" },
+    { "id": "I_rzFahRFeE", "title": "Why learn LUA?" },
+    { "id": "4JuPQBXivaw", "title": "Understanding React 19's Changes" }
+  ]
+}

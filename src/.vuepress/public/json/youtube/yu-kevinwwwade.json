@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/hfylw3tAcPX9ISvKp1cf32Cwn4HRTGUsL0OoGFN0Thd3ad0qv3EkMcXVD7pudDtcXmkwocjJ2r4=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "evA-2q6oEIo", "title": "Biome, an ESLint/Prettier replacement?" },
     { "id": "I-htDVxmFGM", "title": "Auto Restart/Rebuild with Docker Compose Watch" },
     { "id": "fWX8d1vVSPI", "title": "Repo Dive: Maybe Personal Finance App" },
     { "id": "Z9mU-l4MdYI", "title": "Next.js Full Stack w/ Server Actions - Full Walkthrough" },

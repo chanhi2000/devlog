@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "devseop",
+    "name": "개발알려주는 남자, 데브남",
+    "profile": "https://yt3.ggpht.com/pjAw_wCc1Ktj-MAUErVO4Loh36aXJ2Jf4fW7zG4CGXTUYXpBc5cCbH70TkKvZfODvystmEJYDxU=s48-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-rg6nVQlZOzZe6iazVzsBBlWV-ICzpCLrnFI-zcaVBNd3TKXPyD21SbH3xcyxY_I-z9KYjUs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DS2RenK3XHo", "title": "억대 연봉 개발자의 코딩 공부법" }
+  ]
+}

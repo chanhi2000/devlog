@@ -162,6 +162,16 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "Model & API Providers Analysis | Artificial Analysis",
+  "desc": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key metrics including quality, price, performance and speed (throughput & latency).",
+  "link": "https://artificialanalysis.ai/",
+  "logo": "https://artificialanalysis.ai/favicon.ico",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
 - [mobbin](https://mobbin.com/browse/ios/apps): Browse iOS apps
 
 @tab community
@@ -193,6 +203,26 @@ tag:
   "link": "http://www.soen.kr",
   "logo": "http://www.soen.kr/data/soen.png",
   "background": "rgba(255,255,241,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "게임코디",
+  "desc": "게임 프로그래머 만담 커뮤니티, 게임코디",
+  "link": "http://1st.gamecodi.com/",
+  "logo": "http://1st.gamecodi.com/favicon.png",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Infosec Exchange",
+  "desc": "A Mastodon instance for info/cyber security-minded people.",
+  "link": "https://infosec.exchange/explore",
+  "logo": "https://assets.infosec.exchange/packs/media/images/logo-symbol-icon-035f79c35ed096e2d5bffab156e3a706.svg",
+  "background": "rgb(140,141,255,0.2)"
 }
 ```
 

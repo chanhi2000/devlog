@@ -31,13 +31,4 @@ tag:
 
 ---
 
-
-## C++
-
-<MyGithubItems jsonName="lang-cpp"/>
-
----
-
-<!-- C & C++ -->
-
 <TagLinks />

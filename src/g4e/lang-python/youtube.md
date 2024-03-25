@@ -96,5 +96,8 @@ tag:
 <MyYouTubeItems jsonName="yu-1mrnewton" /><!-- Mr. Newton -->
 <MyYouTubeItems jsonName="yu-codebasics" /><!-- codebasics -->
 <MyYouTubeItems jsonName="yu-mrdbourke" /><!-- Daniel Bourke -->
+<MyYouTubeItems jsonName="yu-Magicandskill" /><!-- Pythonic Magic and Skill -->
+<MyYouTubeItems jsonName="yu-DavesSpace" /><!-- Dave's Space -->
+<MyYouTubeItems jsonName="yu-umarjamilai" /><!-- Umar Jamil -->
 
 <TagLinks />

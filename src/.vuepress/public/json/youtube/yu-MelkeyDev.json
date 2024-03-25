@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "MelkeyDev",
+    "name": "Melkey",
+    "profile": "https://yt3.googleusercontent.com/eq3ygDxhNtOHuGmzRzwZEhgvg0EELpkgcn-3TZKYj7OLKW9mhpHPTAC-m8A9wc63-8VJUXKKmw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5rIf3nvZm1jfI6S3Tp2szb_akptY34y9Zp-imw1uzUf_xzxN61UrJn_is1IjSTIuXfgPaR6yjHA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AR9zcS86ZRQ", "title": "The best way to learn Go  #programming #shorts" },
+    { "id": "qT14b1pxtiI", "title": "How I Would Learn Golang in 2024 (If I Could Start Over)" },
+    { "id": "LH6bjIgyPx0", "title": "🚨CODING IS NOT ENOUGH ANYMORE + JOB MARKET HIRING🚨" },
+    { "id": "LH6bjIgyPx0", "title": "🚨CODING IS NOT ENOUGH ANYMORE + JOB MARKET HIRING🚨" },
+    { "id": "Nvq6z1Duxhg", "title": "🚨NETFLIX GOLANG CODING + CAREER/TECH MARKET Q/A🚨" },
+    { "id": "phPXSChqo7U", "title": "🚨NETFLIX GO COURSE CODING + CAREER/TECH MARKET Q/A🚨" },
+    { "id": "OpXBERpnzPE", "title": "Golang Error Handling Isn't ACTUALLY Bad" },
+    { "id": "ynU7SOAcwZM", "title": "🚨🚨WHY EVERYONE IS LEARNING GOLANG + TECH CAREER Q/A🚨🚨" },
+    { "id": "ttdG_Cuq2Zk", "title": "🚨🚨NETFLIX GOLANG CODING + TECH NEWS + CAREER Q/A🚨🚨" },
+    { "id": "UjhpyjVMfuo", "title": "Golang Has Entered a New Era for Routing" },
+    { "id": "UjhpyjVMfuo", "title": "Golang Has Entered a New Era for Routing" },
+    { "id": "rZ4JBJgTBz4", "title": "🚨🚨🚨🚨TOP PAYING TECH COMPANIES + JOBS CAREER Q/A🚨🚨🚨🚨" },
+    { "id": "_MNEbD1274g", "title": "Well F*ck - Do NOT Deploy Your Code Like This" },
+    { "id": "xvPmJQ7U1A8", "title": "Why Golang + HTMX Is The Most Productive Stack" },
+    { "id": "x5fQhYhvWoM", "title": "🚨🚨AI SOFTWARE ENGINEER WILL STEAL OUR JOBS?! + JOBS CAREER Q/A🚨🚨" },
+    { "id": "x5fQhYhvWoM", "title": "🚨🚨AI SOFTWARE ENGINEER WILL STEAL OUR JOBS?! + JOBS CAREER Q/A🚨🚨" },
+    { "id": "KKEzUTQ_BNo", "title": "🚨🚨How I Write HTTP Services in Go After 13 years + Go Cloud Course🚨🚨" },
+    { "id": "svtHTETDMcM", "title": "🚨🚨GOLANG ARTICLES + LEARN GO COURSE PREP 🚨🚨" },
+    { "id": "qeSp-F_82XY", "title": "🚨THE HARSH REALITY OF SOFTWARE ENGINEERING + GO COURSE 🚨" },
+    { "id": "RXaj8EYwuu4", "title": "Stop Taking Software Opinions Personally" },
+    { "id": "YnawHcs8I4M", "title": "🚨FRONTEND MASTERS GO COURSE WRAP UP + GET HIRED IN TECH🚨" },
+    { "id": "LCU0vFIrfXU", "title": "🚨JOB MARKET FOR DEVELOPERS + LEX FRIDMAN/SAM ALTMAN PODCAST🚨" },
+    { "id": "wK11xa5CbG4", "title": "Rust vs Go : Hands On Comparison in 2024" }
+  ]
+}

@@ -156,6 +156,10 @@ export const navbarEn = navbar([
         link: '/g4e/lang-c/README.md',
         icon: 'iconfont icon-c',
       }, {
+        text: 'Cpp',
+        link: '/g4e/lang-cpp/README.md',
+        icon: 'fas fa-dice-two',
+      }, {
         text: 'Zig',
         link: '/g4e/lang-zig/README.md',
         icon: 'fas fa-person-snowboarding',

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/JxaGu-CApL5j42vf_CO0zQ6M-uDhBRBTwI6yKVQ8z9ZjclMoaxzRLajdJ9ogVNctepMCH731uA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XqwUMGG1rtg", "title": "Visual Studio Code: Selenium C# tutorial" },
+    { "id": "TGCJKh-x1EU", "title": "Dependency Injection Selenium: Autofac Dependency Injection" },
+    { "id": "VjGt3EfgwAY", "title": "Visual Studio Code: Selenium Python tutorial" },
+    { "id": "OpzBWSomYIE", "title": "Install Python dependencies from requirements.txt" },
+    { "id": "PwTMLSy5LtY", "title": "Pytest working with custom markers | pytest pyproject.toml markers" },
+    { "id": "4KYNCt7ep70", "title": "Export Selenium IDE tests to Python and Pytest. Run Selenium tests from terminal" },
+    { "id": "5A2F75HcKT0", "title": "Selenium IDE update locators" },
     { "id": "MypxNib9yCQ", "title": "Generate unit test html report using dotnet test" },
     { "id": "89YBs9mK9V8", "title": "Run Selenium tests in parallel & Extent Reports parallel execution" }
   ]

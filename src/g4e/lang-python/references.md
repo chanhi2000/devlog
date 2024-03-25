@@ -402,4 +402,17 @@ tag:
 
 ---
 
+## Nerding out, one post at a time
+
+- [Creating an autopilot in X-Plane using Python – part 1](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
+
+---
+
+
+## Hexmos Journal
+
+- [How ML Model Data Poisoning Works in 5 Minutes](https://journal.hexmos.com/training-data-poisoning/?src=hn)
+
+---
+
 <TagLinks />

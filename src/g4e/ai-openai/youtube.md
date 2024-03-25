@@ -133,5 +133,8 @@ tag:
 <MyYouTubeItems jsonName="yu-fitcevents" /><!-- fitcevents -->
 <MyYouTubeItems jsonName="yu-Lbdyro" /><!-- Seongsik Kim -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
+<MyYouTubeItems jsonName="yu-drawandrew" /><!-- 드로우앤드류 -->
+<MyYouTubeItems jsonName="yu-career_hacker_alex" /><!-- 커리어해커 알렉스 -->
+<MyYouTubeItems jsonName="yu-KodapsAcademy" /><!-- Kodaps Academy -->
 
 <TagLinks />

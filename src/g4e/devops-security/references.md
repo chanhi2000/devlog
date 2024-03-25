@@ -21,10 +21,17 @@ tag:
 
 ---
 
+## Pdf(s)
+
+<PDF url="https://raw.githubusercontent.com/cert-orangecyberdefense/ransomware_map/blob/main/OCD_WorldWatch_Ransomware-ecosystem-map.pdf"/>
+<PDF url="https://raw.githubusercontent.com/bluecapesecurity/PWF/blob/main/Resources/PracticalWindowsForensics-cheat-sheet.pdf"/>
+
+---
+
 ## Cheatsheet(s)
 
 - [<FontIcon icon="iconfont icon-github"/>`bluecapesecurity/PWF`](https://github.com/bluecapesecurity/PWF)
-  - [PracticalWindowsForensics-cheat-sheet.pdf](https://github.com/bluecapesecurity/PWF/blob/main/Resources/PracticalWindowsForensics-cheat-sheet.pdf)
+
 
 ---
 

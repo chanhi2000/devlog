@@ -303,6 +303,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "D2 Playground",
+  "desc": "An online runner to play, learn, and create with D2, the modern diagram scripting language that turns text to diagrams.",
+  "link": "https://play.d2lang.com",
+  "logo": "https://play.d2lang.com/assets/images/og.png",
+  "background": "rgba(87,121,245,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Hexcodle - The Daily Hexcode Guessing Game!",
   "desc": "Can you guess today's hexcode color? Challenge your color instincts and decode the hexcode with Hexcodle! Inspired by Wordle, but for color enthusiasts.",
   "link": "https://hexcodle.com/",
@@ -318,6 +328,37 @@ tag:
   "link": "https://shadeup.dev/browse",
   "logo": "https://shadeup.dev/logo.svg",
   "background": "rgba(74,39,116,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Color Lisa - Curated Color Palette Masterpieces.",
+  "desc": "Color Lisa is a curated list of inspiring color palettes based famous work of the world's greatest artists. Each palette was painstakingly created by color obsessed designers, artists, museum curators, and masters of color theory. ",
+  "link": "https://colorlisa.com/",
+  "logo": "https://colorlisa.com/icons/apple-touch-icon-152x152.png",
+  "background": "rgba(9,175,253,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Vectorpea | Online Vector Editor",
+  "desc": "Vectorpea Online Vector Editor lets you edit vector graphics, AI, SVG and PDF files!",
+  "link": "https://www.vectorpea.com/",
+  "logo": "https://www.vectorpea.com/icon512.png",
+  "background": "rgba(101,165,0,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Typ.io: Fonts that go together",
+  "desc": "Be better at typography.",
+  "link": "https://typ.io/",
+  "logo": "https://typ.io/typio.svg",
+  "background": "rgba(255,255,255,0.2)"
+  
 }
 ```
 
@@ -387,11 +428,60 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "overpass turbo",
+  "desc": "A web based data mining tool for OpenStreetMap which runs any kind of Overpass API query and shows the results on an interactive map.",
+  "link": "https://overpass-turbo.eu/",
+  "logo": "https://overpass-turbo.eu/assets/favicon.ico",
+  "background": "rgb(62,196,135,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Spacetime maps",
+  "desc": "This is a map that can show time instead of space. Distances in the map reflect travel times: points that are close but take a long time to travel between (by car) get pushed away from each other, and vice versa.",
+  "link": "https://spacetime-maps.vercel.app/",
+  "logo": "https://spacetime-maps.vercel.app/logo192.png",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The Astro App | Explore the Night Sky",
+  "desc": "The Astro App (early access) is a tool for exploring the night sky and tracking celestial events. It's primarily targeted for amateur astrophotographers.",
+  "link": "https://astro.sshh.io/",
+  "logo": "https://astro.sshh.io/logo192.png",
+  "background": "rgba(30,41,59,0.2)"
+}
+```
+
 - [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
 
-@tab Network
+@tab Network & Security
 
-- [Whatsmydns.net](https://www.whatsmydns.net)
+```component VPCard
+{
+  "title": "permission.site",
+  "desc": "A site to test the interaction of web APIs and browser permissions.",
+  "link": "https://permission.site/",
+  "logo": "https://permission.site/app-icon.png",
+  "background": "rgb(238,238,238,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "DNS Propagation Checker - Global DNS Testing Tool",
+  "desc": "Instant DNS Propagation Check. Global DNS Propagation Checker - Check DNS records around the world.",
+  "link": "https://www.whatsmydns.net",
+  "logo": "https://www.whatsmydns.net/apple-touch-icon.png",
+  "background": "rgba(39,76,113,0.2)"
+}
+```
+
 - [htaccess tester](https://htaccess.madewithlove.com)
 
 @tab Documentation
@@ -463,6 +553,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "ffmprovisr",
+  "desc": "Making FFmpeg Easier",
+  "link": "https://amiaopensource.github.io/ffmprovisr/",
+  "logo": "https://amiaopensource.github.io/ffmprovisr/img/vhs.ico",
+  "background": "rgba(6,6,6,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "binvis.io",
   "desc": "visual analysis of binary files",
   "link": "https://binvis.io/#/",
@@ -478,6 +578,56 @@ tag:
   "link": "https://ambient.garden/",
   "logo": "https://ambient.garden/favicon.ico",
   "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "MemChess",
+  "desc": "Learn chess openings and variations online by repeating the most popular chess Master moves",
+  "link": "https://grondilu.github.io/memchess/",
+  "logo": "https://grondilu.github.io/memchess/img/favicon.png",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SlideSynth",
+  "dsec": "Touch to make sound. Move touch up and down to change frequency. Move touch left and right to change volume. Tap the logo to loop, tap again to stop looping, tap yet again to cancel the loop. Tap the waveform icons to change the waveform.",
+  "link": "https://slidesynth.com/",
+  "logo": "https://slidesynth.com/icon.svg",
+  "background": "rgba(121,30,29,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Infinite Craft",
+  "desc": "A crafting game where you can make anything. No really it's pretty much endless I think.",
+  "link": "https://neal.fun/infinite-craft/",
+  "logo": "https://neal.fun/favicons/infinite-craft.png",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The Grid",
+  "desc": "With the Grid's founding nearly 10 years ago we embarked on an expedition to the unknown that clearly wasn't your typical valley-safe niche but none of us expected this... Trust we are heads-down, all-in, no plan-b devoted to returning and sharing the bounty.",
+  "link": "https://thegrid.io/",
+  "logo": "https://thegrid.io/favicon.ico",
+  "background": "rgba(229,52,840.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Product Chart - Interactive Product Comparison Charts",
+  "desc": "A new way to discover products. Each chart gives you an easy to grasp overview of what is available on the market, and provides the tools to find the product that is perfect for you. Choose a category and try it out",
+  "link": "https://www.productchart.com/",
+  "logo": "https://www.productchart.com/favicon.ico",
+  "background": "rgba(242,101,34,0.2)"
 }
 ```
 

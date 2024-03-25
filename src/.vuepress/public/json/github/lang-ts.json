@@ -2443,5 +2443,10 @@
     "desc": "A Node.js library for pretty printing your data on the terminal🎨",
     "officialSite": "https://voici.larswaechter.dev",
     "topics": ["console", "data-science", "javascript", "shell", "terminal", "tty", "typescript"]
+  }, {
+    "repo": "Project-DARC/DARC",
+    "desc": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
+    "officialSite": "https://darc.app",
+    "topics": []
   }
 ]

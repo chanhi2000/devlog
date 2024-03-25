@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "code_bob",
+    "name": "코드밥",
+    "profile": "https://yt3.googleusercontent.com/HjXb_BYELdyIoIN_orqsKFBpc4C2BNjG1zLmNzvX-BR1Rgx93Yow7Vek6-_wswv-H0Nz2zAEbB4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IMVAJMG3Ojwnl4PXYHVzTwRRcjFb9HYdSXUa5-t8ovuHqWeIrnzjs9C0FxQbRj4BkmAl-Ob8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ChaqaikCvZA", "title": "젠킨스 코딩한 프로그래머" },
+    { "id": "g09Qn23cYJ8", "title": "TempleOS를 코딩한 프로그래머 Terry Davis" },
+    { "id": "rvI_znIjw58", "title": "HTTP 3분 요약" }
+  ]
+}

@@ -40,4 +40,10 @@ tag:
 
 ---
 
+## kciter.so
+
+- [갓생사는 방법론](https://kciter.so/posts/effective-work)
+
+---
+
 <TagLinks />

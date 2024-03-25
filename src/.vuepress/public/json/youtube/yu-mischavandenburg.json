@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "mischavandenburg",
+    "name": "Mischa van den Burg",
+    "profile": "https://yt3.googleusercontent.com/DuoOQcZg9KpLufdRC_8zdh4CIuKeWCmCLg7DCjXX6YD0Ut2ipJ-P0w8aHfks6-nr6H0aFDxnlQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/naUQc2Qy8JlhlsrA8jc3sVtp0YK8LQcfWg06fndw9pWMLMr9q6FavawYOrLzImF58um209snQH8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iagjeLuxnMs", "title": "My Entire Neovim + Tmux Workflow As A DevOps Engineer On MacOS" },
+    { "id": "5OtglEvyAs0", "title": "🏠 Kubernetes Homelab - Deploying Home Assistant - Neovim" },
+    { "id": "OyeDTZkSG2Q", "title": "FULL NEOVIM Configuration Walkthrough As A DevOps Engineer On MacOS" },
+    { "id": "jJC7Tr98J4A", "title": "I launched a Skool community and it's growing fast! - Kubernetes - DevOps" },
+    { "id": "Kc5K1kMj4Vk", "title": "Start with Vim #linux #devops #vim #skool" },
+    { "id": "zBRq4Q0Jv4I", "title": "Using this tool is a HORRIBLE idea if you're serious about the CLI & Linux" },
+    { "id": "92UhZbJJivU", "title": "PARA in Obsidian. Start being productive." },
+    { "id": "ICVxK7z6G34", "title": "Kubernetes Fundamentals Course - 1. Introduction - By Mischa van den Burg" },
+    { "id": "wrQ0iJawTn4", "title": "600% GROWTH?! 2024 DevOps & Kubernetes Market Analysis" },
+    { "id": "iagjeLuxnMs", "title": "My Entire Neovim + Tmux Workflow As A DevOps Engineer On MacOS" },
+    { "id": "4HuL812KaaA", "title": "Switching to Starship for my Bash Prompt" },
+    { "id": "1NJTM2ocdtM", "title": "📚 Kubernetes Study - CKS Certification" }
+  ]
+}

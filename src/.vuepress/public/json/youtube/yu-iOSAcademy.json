@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/0L41YEmkyuGmIeFBahinVqWaaHqUWDWiZdxsnjrK8CWVdTr1cF1GnkUfg98InksaiqXDIjWopA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xeAsbWxDVpY", "title": "Building FaceTime Video Calling App with Stream (iOS) – 2024" },
     { "id": "Lb7OShyNSdM", "title": "Background Tasks in iOS (Swift & Xcode) – Beginners" },
     { "id": "AEuLtzPRakU", "title": "Date Timezones in Xcode 15 and Swift – iOS Development" },
     { "id": "2YpNPUhGo44", "title": "Introduction to SwiftData – iOS Development" },

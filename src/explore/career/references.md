@@ -49,12 +49,32 @@ tag:
 ## 호이
 
 - [우리가 본받을 만한 실리콘밸리의 기업문화](https://blog.hoy.im/siliconvalley)
+- [이제 막 팀의 리더가 된 이들을 위한 추천 도서](https://blog.hoy.im/bookcuration)
+- [성공적인 데일리 스크럼 문화를 위한 가이드](https://blog.hoy.im/dailyscrum)
 
 ---
 
 ## QAing
 
 - [기업에서 QA담당자들이 일하는 방법](https://blog.qaing.co/qaprocess)
+
+---
+
+## Growth Ryan
+
+- [엔지니어가 가져야 할 자세](https://ryanpark.dev/30)
+
+---
+
+## The New Stack
+
+- [What Is Clean Code?](https://thenewstack.io/what-is-clean-code/)
+
+---
+
+## hiddennest
+
+- [제품을 바닥부터 다시 만들게 된다면 꼭 지킬 것들](https://hiddenest.dev/things-to-do-when-rebuild-from-scratch)
 
 ---
 

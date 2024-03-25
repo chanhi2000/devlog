@@ -178,6 +178,10 @@ tag:
 
 ---
 
+## Arun Venkatesan
 
+- [The secret formula for Apple's rounded corners](https://arun.is/blog/apple-rounded-corners/)
+
+---
 
 <TagLinks />

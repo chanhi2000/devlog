@@ -26,7 +26,7 @@ tag:
 {
   "title": "Swift > Learn essential Swift in one hour",
   "desc": "Learn essential Swift in one hour",
-  "link": "https://chanhi2000.github.io/swift/learn-essential-swift-in-one-hour/",
+  "link": "https://chanhi2000.github.io/crashcourse/swift/learn-essential-swift-in-one-hour/",
   "logo": "https://www.hackingwithswift.com/favicon-96x96.png",
   "background": "rgba(174,10,10,0.2)"
 }

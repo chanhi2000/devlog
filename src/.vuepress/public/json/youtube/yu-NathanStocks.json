@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "NathanStocks",
+    "name": "Nathan Stocks",
+    "profile": "https://yt3.googleusercontent.com/kBfvXyhmiHmb9s029idZ9XJyOEkiZzOCVpS_zD0o3a1AJLT1lcRfioosAevqbA0aVJSm9eWEqpk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "gcB86MA9tuY", "title": "Rust 1.76.0: 73 highlights in 24 minutes" }
+  ]
+}

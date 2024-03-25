@@ -343,6 +343,17 @@ export const sidebarEn = sidebar({
         '/g4e/lang-c/youtube.md',
       ]
     }, {
+      text: 'Cpp',
+      collapsible: true,
+      icon: 'fas fa-dice-two',
+      children: [
+        '/g4e/lang-cpp/README.md',
+        '/g4e/lang-cpp/tips.md',
+        '/g4e/lang-cpp/references.md',
+        '/g4e/lang-cpp/github.md',
+        '/g4e/lang-cpp/youtube.md',
+      ]
+    }, {
       text: 'Zig',
       icon: 'fas fa-person-snowboarding',
       collapsible: true,

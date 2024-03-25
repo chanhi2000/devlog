@@ -54,5 +54,8 @@ tag:
 <MyYouTubeItems jsonName="yu-thoughtbot" /><!-- thoughtbot -->
 <MyYouTubeItems jsonName="yu-theurbanpenguin" /><!-- theurbanpenguin -->
 <MyYouTubeItems jsonName="yu-MentalOutlaw" /><!-- Mental Outlaw -->
+<MyYouTubeItems jsonName="yu-sagaratytube" /><!-- Dispatch -->
+<MyYouTubeItems jsonName="yu-mischavandenburg" /><!-- Mischa van den Burg -->
+
 
 <TagLinks />

@@ -110,5 +110,7 @@ head:
 <MyYouTubeItems jsonName="yu-numolri" /><!-- 너만몰랐던리뷰 -->
 <MyYouTubeItems jsonName="yu-800c_official" /><!-- 800도씨 -->
 <MyYouTubeItems jsonName="yu-muchelin1" /><!-- 머슐랭 -->
+<MyYouTubeItems jsonName="yu-user-ok8rp7yx5p" /><!-- 복지수호신 김신 -->
+<MyYouTubeItems jsonName="yu-happyloo2023" /><!-- 해피루, 도그토토 -->
 
 <TagLinks />

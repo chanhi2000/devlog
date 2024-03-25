@@ -246,10 +246,17 @@ tag:
 
 ---
 
+## Max Slater
+
+- [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
+
+---
+
 ## arXiv.org
 
 - [Tilman Sauer: Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
 
 ---
+
 
 <TagLinks />
