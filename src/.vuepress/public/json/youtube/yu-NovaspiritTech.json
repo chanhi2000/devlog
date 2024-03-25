@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/4cfS36Ere2G2viZ1eUeJIny-Q-QZ6op3UnM3r0HkThZzZFLyzj69gWgfwoAAd6lNt6c43GLxVw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3pGuZz_1BzI", "title": "A Complete OS on 1.44MB Floppy Disk" },
+    { "id": "LEyElt_yP50", "title": "Installing Android On Proxmox As A Virtual Machine Using BlissOS" },
+    { "id": "_jP1zFK-clc", "title": "Windows 11 Clone? .... Wubuntu" },
+    { "id": "X0KlXsQUoBE", "title": "Running ESXi On Raspberry Pi 5" },
+    { "id": "U7s_HgQ5YvI", "title": "Is This The PERFECT Home Lab Mini PC?" },
+    { "id": "r5CXwtwdUmc", "title": "I'm Switching to ARCH + KDE Plasma 6..." },
+    { "id": "aH73AX1HsIU", "title": "This Retro Look Is So Good!" },
+    { "id": "ZYLY5KFkq1w", "title": "Did you know you can do this?" },
+    { "id": "M9cXRp4YiG8", "title": "4 Linux Backup Utilities You Can Use" },
+    { "id": "1vEkn_kcXas", "title": "Dual Boot Windows and Linux With rEFInd" },
     { "id": "4StZn2XpC5I", "title": "Convert Images to Part for 3d Printing  on Freecad Tutorial" },
     { "id": "Eli3uYzgC8A", "title": "Setting Up Proxmox High Availability Cluster & Ceph" },
     { "id": "Son7F5Vv1p4", "title": "Checking out Unraid For the First Time!" },

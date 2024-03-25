@@ -4604,5 +4604,20 @@
     "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "mistralai-sf24/hackathon",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "StevenBlack/hosts",
+    "desc": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+    "officialSite": "",
+    "topics": ["ad-blocker", "anti-virus", "curated-sources", "gambling-filter", "hosts", "malware", "porn-filter", "pornblocker", "privacy", "protection", "python", "ransomware", "security", "social-media-filter", "trojans", "unified-hosts"]
+  }, {
+    "repo": "pytorch/torchtune",
+    "desc": "A Native-PyTorch Library for LLM Fine-tuning",
+    "officialSite": "",
+    "topics": []
   }
 ]

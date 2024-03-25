@@ -262,9 +262,17 @@ tag:
 
 - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 
+---
+
 ## James Fisher
 
 - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
+
+---
+
+## Olivia King
+
+- [Inclusive Sans](https://www.oliviaking.com/inclusive-sans)
 
 ---
 

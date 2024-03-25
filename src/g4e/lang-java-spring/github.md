@@ -4,6 +4,8 @@ title: Github
 description: Spring > Github
 icon: fa-brands fa-github
 category:
+  - Java
+  - Kotlin
   - Spring 
   - Github
 tag: 

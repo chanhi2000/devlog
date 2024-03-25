@@ -78,4 +78,16 @@ tag:
 
 ---
 
+## Shesh's blog
+
+- [Thoughts on the Future of Software Development](https://www.sheshbabu.com/posts/thoughts-on-the-future-of-software-development/)
+
+---
+
+## HOW TO 1000 LABS
+
+- [초기유저가 중요한 이유 | 초기유저가 미치는 영향](https://maily.so/howto1000labs/posts/b29f60b4)
+
+---
+
 <TagLinks />

@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fRM1d_dxrKU", "title": "004개고생하면서 배우는 Rust_GUI_gtk-rs" },
+    { "id": "RBjCpkyKUS0", "title": "013개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part8(Tabby&NeoVim)" },
+    { "id": "pc88wH5heJw", "title": "014개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part9(Tabby&NeoVim) Assembly_x86_64" },
+    { "id": "SMdF5ucheL0", "title": "015개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part10(Tabby&NeoVim) Assembly_Arm(macOS)" },
+    { "id": "AXUWPndyJNQ", "title": "001개고생하면서 배우는 Rust_Algorithms알고리즘DataStructure(Tabby&NeoVim) LinuxOS(Rust, C, Zig)" },
+    { "id": "vqGkLuSd2fY", "title": "016개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part11(Tabby&NeoVim) Assembly_Linux" },
+    { "id": "ZmsBS_RjgX0", "title": "한글Rust_082⭐️Zed_러스트로 만들어진 에디터_제드맛보기_zed editor(vim setting)" },
+    { "id": "YOR6quxftBI", "title": "017개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part12(Tabby&NeoVim)_Standard Library Traits" },
+    { "id": "I5wAmuYqYcQ", "title": "018개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part13(Tabby&NeoVim)_Standard Library Traits(2)" },
+    { "id": "odJ2pzZGqA8", "title": "019개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part14(Tabby&NeoVim)_Standard Library Traits(3)" },
+    { "id": "vuka7-dw__M", "title": "020개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part15(helix)_Asynchronous(1)" },
     { "id": "Rkc734sv3ss", "title": "002개고생하면서 배우는 Rust Game개발GameDev.(BevyGameEngine)_TabbyAI" },
     { "id": "OA5roCbj644", "title": "005개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part2(Tabby)" },
     { "id": "NFs_lik7a2U", "title": "006개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part3(Tabby)" },

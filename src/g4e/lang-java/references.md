@@ -195,6 +195,7 @@ tag:
 
 - [<FontIcon icon="iconfont icon-link"/> Android Table of Elements](https://www.androidelements.com)
 - [<FontIcon icon="iconfont icon-link"/> Kotlin Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf)
+
 <PDF url="https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf"/>
 
 ### Stackoverflow

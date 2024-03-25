@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/WqVfhl_ie7eMUyA1Li-vipm5YXNOTA7g1m_Y0teN5y4Y6qsMxsXAsLV48z8-k0kmTPlYSL89-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5wy2iLU5fs0", "title": "Why Neovim nerds are so obsessed with the terminal" },
+    { "id": "jfsgSiMwt3U", "title": "I didn't know snapshot testing was a thing" },
+    { "id": "WWW0hqe8hXw", "title": "The mindset you need for a DECLARATIVE code refactor" },
+    { "id": "UUbakMjwQAc", "title": "Refactoring my ugliest code with signal view queries" },
+    { "id": "006G5XCqc7M", "title": "Don't make my toSignal mistake in Angular" },
     { "id": "HWe5qaXKsLY", "title": "Why signal INPUTS in Angular are such a big deal" },
     { "id": "Sv3LXGWKw6Q", "title": "Should this be the future of Angular applications?" },
     { "id": "cxoew5rmwFM", "title": "SIGNALS can make Angular \"REACTIVE\" forms more reactive" },

@@ -23,4 +23,10 @@ tag:
 
 ---
 
+## divy.work
+
+- [Turbocall: the Just-in-time compiler for Deno FFI](https://divy.work/turbocall.html)
+
+---
+
 <TagLinks />

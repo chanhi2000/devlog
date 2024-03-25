@@ -519,5 +519,10 @@
     "desc": "Mora: More like Sora for Generalist Video Generation",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "mattismegevand/invertornot",
+    "desc": "API to determine if an image should be inverted for optimal dark-mode rendering.",
+    "officialSite": "https://invertornot.com/",
+    "topics": []
   }
 ]

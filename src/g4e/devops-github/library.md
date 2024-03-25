@@ -98,6 +98,8 @@ tag:
 ## Pascal
 
 - [markmal/freeship-plus-in-lazarus][markmal/freeship-plus-in-lazarus]: FreeShip Plus in Lazarus
+- [PackOrganization/Pack](https://github.com/PackOrganization/Pack): Pack
+  - [🌐Official Site](https://pack.ac)
 
 ---
 

@@ -4,7 +4,10 @@ title: WAS
 description: Spring > WAS
 icon: fas fa-satellite-dish
 category:
-  - Spring 
+  - Java
+  - Kotlin
+  - Spring
+  - Gradle
   - WAS
 tag:
   - java

@@ -824,5 +824,10 @@
     "desc": "TinySSH is small server (less than 100000 words of code)",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "placeholderkv/placeholderkv",
+    "desc": "A new project to resume development on the formerly open-source Redis project. Name is placeholder.",
+    "officialSite": "",
+    "topics": ["cache", "database", "key-value", "key-value-store", "nosql", "redis"]
   }
 ]

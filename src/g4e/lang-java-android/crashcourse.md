@@ -1,14 +1,13 @@
 ---
 lang: ko-KR
 title: Crashcourse
-description: Java > Crashcourse
+description: Android > Crashcourse
 icon: fas fa-drum
 category:
   - Java 
   - Kotlin
-  - Spring
-  - Gradle
   - Android
+  - Gradle
   - Crashcourse
 tag: 
   - crashcourse
@@ -16,6 +15,16 @@ tag:
   - kotiln
   - android
   - gradle
+head:
+  - - meta:
+    - property: og:title
+      content: Java > Crashcourse
+    - property: og:description
+      content: Java > Crashcourse
+    - property: og:type
+      content: article  
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-java-android/crashcourse.html
 ---
 
 # {{ $frontmatter.title }} 관련

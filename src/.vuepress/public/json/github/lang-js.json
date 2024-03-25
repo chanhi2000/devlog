@@ -2094,5 +2094,15 @@
     "desc": "meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖",
     "officialSite": "https://youtube.com/SuhailTechInfo",
     "topics": ["bot", "heroku", "md-bot-whatsapp", "mongodb", "multidevice", "nodejs", "suhail-md", "suhail-md-bot", "suhail-whatsapp-bot", "wa-bot", "whatsapp-bot", "whatsapp-bot-md", "whatsapp-md-bot"]
+  }, {
+    "repo": "end-4/dots-hyprland",
+    "desc": "Modern, feature-rich and accessible desktop configuration. ",
+    "officialSite": "https://end-4.github.io/dots-hyprland-wiki/en/",
+    "topics": ["ags", "dotfiles", "eww", "hyprland", "linux", "material-design", "osu", "pywal", "rice", "ricing", "unixporn", "wayland"]
+  }, {
+    "repo": "Adawg4/openapi-autospec",
+    "desc": "Proxy server that generates API specs for any app or website on localhost.",
+    "officialSite": "http://portway.ai",
+    "topics": ["api", "apidoc-generator", "devtools", "documentation-generator", "generator", "openapi", "openapi-specification", "openapi3", "proxy-server", "specification"]
   }
 ]

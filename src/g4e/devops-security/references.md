@@ -23,8 +23,9 @@ tag:
 
 ## Pdf(s)
 
-<PDF url="https://raw.githubusercontent.com/cert-orangecyberdefense/ransomware_map/blob/main/OCD_WorldWatch_Ransomware-ecosystem-map.pdf"/>
-<PDF url="https://raw.githubusercontent.com/bluecapesecurity/PWF/blob/main/Resources/PracticalWindowsForensics-cheat-sheet.pdf"/>
+<PDF url="https://raw.githubusercontent.com/cert-orangecyberdefense/ransomware_map/8df75ee22e740fdcf8c957f1cd71b195161f52c6/OCD_WorldWatch_Ransomware-ecosystem-map.pdf"/>
+<PDF url="https://raw.githubusercontent.com/bluecapesecurity/PWF/d74b875e27c12fbd9f7a8a8abec506560127c8f6/Resources/PracticalWindowsForensics-cheat-sheet.pdf
+"/>
 
 ---
 
@@ -32,12 +33,6 @@ tag:
 
 - [<FontIcon icon="iconfont icon-github"/>`bluecapesecurity/PWF`](https://github.com/bluecapesecurity/PWF)
 
-
----
-
-## Useful Site(s)
-
-- [forensictools](https://cristian.sh/projects/forensictools.html)
 
 ---
 
@@ -169,6 +164,12 @@ tag:
 ## Vin01's Blog
 
 - [You can not simply publicly access private secure links, can you?](https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html)
+
+---
+
+## Computer Security Group
+
+- [ZenHammer: Rowhammer Attacks on AMD Zen-based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
 
 ---
 

@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🔍Query
-description: Django > 🔍Query
+title: Query
+description: Django > Query
+icon: fas fa-magnifying-glass
 category:
   - Django
-  - 🔍Query
+  - Query
 tag:
   - django
 ---

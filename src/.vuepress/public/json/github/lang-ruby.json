@@ -41,9 +41,9 @@
     "topics": []
   }, {
     "repo": "ubicloud/ubicloud",
-    "desc": "Open, free, and portable cloud. Elastic compute, block storage (non replicated), and virtual networking services in public alpha.",
+    "desc": "Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.",
     "officialSite": "https://ubicloud.com",
-    "topics": ["ruby", "cloud", "portable", "open", "hosting", "bare-metal", "managed-cloud"]
+    "topics": ["bare-metal", "cloud", "github-actions", "hosting", "linux", "managed-cloud", "open", "portable", "postgresql", "ruby"]
   }, {
     "repo": "mmistakes/minimal-mistakes",
     "desc": "📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.",

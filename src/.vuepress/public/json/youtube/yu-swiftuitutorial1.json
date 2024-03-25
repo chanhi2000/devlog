@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/f05GS1-4H5VmCYw6a9KyuzdQdyJJV11McNB6X86oq0okED07xuLP6KzylWjTxOtQmmKgbNxfLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "18DjbZNhTi0", "title": "How To Embed 3D Objects Into visionOS Windows" },
+    { "id": "BiF2gBvHYgc", "title": "How to Adjust Vertical Spacing in a SwiftUI List" },
+    { "id": "r17zGZaXwnQ", "title": "How to Sync Reality Composer Pro to visionOS Projects" },
+    { "id": "ynhaBzBbEOY", "title": "Create a visionOS Drawing App with SwiftUI" },
+    { "id": "KhoGcrAJ4gU", "title": "Create the Siri Animation in visionOS With SwiftUI" },
+    { "id": "y_3ZRgaQL7U", "title": "SwiftUI: Make and Receive Calls on iPhone/iPad" },
+    { "id": "3joKP7aYfXg", "title": "SwiftUI withAnimation: Getting a Default Animation Instance" },
+    { "id": "8npuczSgGDk", "title": "SwiftUI 3D Text Character Flip With Default Animation" },
     { "id": "AGrCyfJnVd0", "title": "Create Beautiful Animations With SwiftUI: Incoming Call" },
     { "id": "5G53q03VfUk", "title": "SwiftUI: Create an Animated Highlighting Effect with Hue Rotation and Variable Color" },
     { "id": "DvERp4lD1rM", "title": "visionOS: Adding Glass Effect Behind SwiftUI Views" },

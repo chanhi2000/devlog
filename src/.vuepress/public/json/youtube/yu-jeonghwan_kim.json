@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "wNiMk5ljVes", "title": "[HTTP 캐싱] 케시 제어를 위한 헤더. Cache-Control" },
+    { "id": "SYe593NtfNs", "title": "서버가 브라우져에 붙인 스티커, 쿠키" },
+    { "id": "i0OWReJla5M", "title": "쿠키 요청 범위를 설정하는 법. Domain, Path | HTTP 쿠키 #2" },
+    { "id": "3MUkvIPd2_k", "title": "쿠키 생명주기 Expires, Max-Age | HTTP 쿠키 #3" },
     { "id": "ocuA9Dc5_2U", "title": "HTTP 클라이언트 자바스크립트 라이브러리 비교 (XHR 기반). SuperAgent, Axios" },
     { "id": "2Mmh6cETKZQ", "title": "Fetch 기반 HTTP 클라이언트 자바스크립트 라이브러리 비교. Ky, Wretch" },
     { "id": "I4ERQ986_M0", "title": "시간 기반 캐싱을 위한 헤더. Last-Modified, If-Modified-Since" },

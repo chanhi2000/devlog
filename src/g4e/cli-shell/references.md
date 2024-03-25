@@ -213,6 +213,12 @@ tag:
 
 ---
 
+## Arthur O'Dwyer
+
+- [The best engineering interview question I’ve ever gotten, Part 1](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

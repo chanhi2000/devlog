@@ -195,5 +195,54 @@ export const navbarEn = navbar([
         link: '/explore/career/README.md',
       }
     ]
+  }, { /* https://chanhi2000.github.io/crashcourse */
+    text: '', // crashcourse (외부)
+    icon: 'fas fa-drum',
+    children: [
+      {
+        text: 'CLI',
+        icon: 'iconfont icon-shell',
+        link: 'https://chanhi2000.github.io/crashcourse/cli/'
+      }, {
+        text: 'Swift',
+        icon: 'fa-brands fa-swift',
+        link: 'https://chanhi2000.github.io/crashcourse/swift/'
+      }, {
+        text: 'Java / Kotlin / Spring',
+        icon: 'fa-brands fa-java',
+        link: 'https://chanhi2000.github.io/crashcourse/java/',
+      }, {
+        text: 'JavaScript / TypeScript',
+        icon: 'fa-brands fa-js',
+        link: 'https://chanhi2000.github.io/crashcourse/js/'
+      }, {
+        text: 'Python',
+        icon: 'fa-brands fa-python',
+        link: 'https://chanhi2000.github.io/crashcourse/python/'
+      }, {
+        text: 'Rust',
+        icon: 'fa-brands fa-rust',
+        link: 'https://chanhi2000.github.io/crashcourse/rust/'
+      }, {
+        text: 'Cpp',
+        icon: 'fas fa-dice-two',
+        link: 'https://chanhi2000.github.io/crashcourse/cpp/'
+      }, {
+        text: 'Ruby',
+        icon: 'fas fa-gem',
+        link: 'https://chanhi2000.github.io/crashcourse/ruby/'
+      }, {
+        text: '🐑Haskell',
+        link: 'https://chanhi2000.github.io/crashcourse/haskell/'
+      }, {
+        text: 'DevOps',
+        icon: 'fas fa-cubes-stacked',
+        link: 'https://chanhi2000.github.io/crashcourse/devops/'
+      }, {
+        text: 'Misc',
+        icon: 'fas fa-object-group',
+        link: 'https://chanhi2000.github.io/crashcourse/misc/'
+      }
+    ]
   }
 ])

@@ -4,7 +4,10 @@ title: Youtube
 description: Spring > Youtube
 icon: fa-brands fa-youtube
 category: 
+  - Java
+  - Kotlin
   - Spring
+  - Gradle
   - Youtube
 tag: 
   - java

@@ -113,6 +113,7 @@ tag:
 - [상용 수준의 LLM 애플리케이션을 위한 개발자 가이드(The Developer’s Guide to Production-Grade LLM Apps)](https://discuss.pytorch.kr/t/llm-the-developers-guide-to-production-grade-llm-apps/2919)
 - [대규모 언어 모델을 위한 검색-증강 생성(RAG) 기술 현황 - 1/2편](https://discuss.pytorch.kr/t/rag-1-2/3135)
 - [[2024/01/22 ~ 01/28] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-01-22-01-28-ml-top-ml-papers-of-the-week/3372)
+- [Road to Sora: OpenAI의 Sora를 이해하기 위한 선행 연구 소개 (feat. Oxen.AI)](https://discuss.pytorch.kr/t/road-to-sora-openai-sora-feat-oxen-ai/3846)
 
 ---
 
@@ -412,6 +413,12 @@ tag:
 ## Hexmos Journal
 
 - [How ML Model Data Poisoning Works in 5 Minutes](https://journal.hexmos.com/training-data-poisoning/?src=hn)
+
+---
+
+## Robin Kåveland
+
+- [Friends don't let friends export to CSV](https://kaveland.no/friends-dont-let-friends-export-to-csv.html)
 
 ---
 

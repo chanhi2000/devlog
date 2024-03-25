@@ -359,5 +359,10 @@
     "desc": "HiddenVM — Use any desktop OS without leaving a trace.",
     "officialSite": "",
     "topics": ["anti-forensics", "antiforensics", "debian", "deniability", "linux", "opsec", "privacy", "snowden", "tails", "tor", "veracrypt", "virtualbox", "virtualization", "vm"]
+  }, {
+    "repo": "pyenv/pyenv",
+    "desc": "Simple Python version management",
+    "officialSite": "",
+    "topics": ["python", "shell"]
   }
 ]

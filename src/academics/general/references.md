@@ -252,6 +252,12 @@ tag:
 
 ---
 
+## Sorta Insightful
+
+- [Solving Crew Battle Strategy With Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
+
+---
+
 ## arXiv.org
 
 - [Tilman Sauer: Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)

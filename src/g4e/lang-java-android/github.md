@@ -1,10 +1,12 @@
 ---
 lang: ko-KR
 title: Github
-description: Java > Github
+description: Android > Github
 icon: fa-brands fa-github
 category: 
-  - Java 
+  - Java
+  - Kotlin
+  - Android
   - Github
 tag: 
   - git
@@ -22,7 +24,7 @@ head:
     - property: og:type
       content: article  
     - property: og:url
-      content: https://chanhi2000.github.io/g4e/lang-java/github.html
+      content: https://chanhi2000.github.io/g4e/lang-java-android/github.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -32,23 +34,13 @@ head:
 
 ---
 
-## ☕️Java
+## Android
 
-<MyGithubItems jsonName="lang-java" />
-
-### Tutorial
-
-<MyGithubItems jsonName="lang-java-tut" />
-
----
-
-## 🅺Kotlin
-
-<MyGithubItems jsonName="lang-kotiln" />
+<MyGithubItems jsonName="lang-android" />
 
 ### Tutorial
 
-<MyGithubItems jsonName="lang-kotiln-tut" />
+<MyGithubItems jsonName="lang-android-tut" />
 
 ---
 

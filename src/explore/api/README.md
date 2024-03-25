@@ -196,10 +196,40 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "Database of Databases",
+  "desc": "The on-line encyclopedia of databases systems from Carnegie Mellon University.",
+  "link": "https://dbdb.io",
+  "logo": "https://dbdb.io/static/core/images/favicon.ico",
+  "background": "rgba(45,73,98,0.2)"
+}
+```
+
 - [Operator Lookup](https://www.joshwcomeau.com/operator-lookup)
 - [Sha256 Decrypt & Encrypt](https://md5decrypt.net/en/Sha256/#answer)
 
 @tab Design & Image
+
+```component VPCard
+{
+  "title": "Iconbuddy — 200K+ open source free svg icons",
+  "desc": "Iconbuddy is a search engine that allows you to search, download, customize, and edit over 200,000 open source svg icons for free.",
+  "link": "https://iconbuddy.app",
+  "logo": "https://c1.tablecdn.com/iconbuddy/iconbuddy-logo.png",
+  "background": "rgba(237,63,99,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Heroicons",
+  "desc": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+  "link": "https://heroicons.com",
+  "logo": "https://heroicons.com/_next/static/media/apple-touch-icon.822687be.png",
+  "background": "rgb(242,236,250,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -362,8 +392,27 @@ tag:
 }
 ```
 
-- [Iconbuddy](https://iconbuddy.app): Download, Customize, Edit and Personalize. Over 100k+ open source icons
-- [heroicons](https://heroicons.com): Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+```component VPCard
+{
+  "title": "Windows 98 Icon Viewer",
+  "desc": "",
+  "link": "https://win98icons.alexmeub.com/",
+  "logo": "https://win98icons.alexmeub.com/favicon.ico",
+  "background": "rgba(0,128,128,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Ugly Avatar",
+  "desc": "CREATED BY XUAN TANG, MORE INFO AT TXSTC55.GITHUB.IO",
+  "link": "https://txstc55.github.io/ugly-avatar/",
+  "logo": "https://txstc55.github.io/ugly-avatar/avatar.png",
+  "background": "rgba(255,253,208,0.2)"
+}
+```
+
+
 - [fonts-earlyaccess](https://fonts.google.com/earlyaccess): Google Fonts (Early Access)
 
 @tab Geospatial
@@ -482,6 +531,26 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "forensictools",
+  "desc": "",
+  "link": "https://cristian.sh/projects/forensictools.html",
+  "logo": "https://cristian.sh/projects/forensictools_full.png",
+  "background": "rgba(47,52,63,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "STARLINKMAP.ORG - Real-Time Starlink Satellite Tracker",
+  "desc": "Track the Starlink satellite constellation in real-time.",
+  "link": "https://www.starlinkmap.org/",
+  "logo": "https://www.starlinkmap.org/favicon.ico",
+  "background": "rgb(127,29,29,0.2)"
+}
+```
+
 - [htaccess tester](https://htaccess.madewithlove.com)
 
 @tab Documentation
@@ -558,6 +627,15 @@ tag:
   "link": "https://amiaopensource.github.io/ffmprovisr/",
   "logo": "https://amiaopensource.github.io/ffmprovisr/img/vhs.ico",
   "background": "rgba(6,6,6,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "FFmpeg Explorer!",
+  "desc": "",
+  "link": "https://ffmpeg.lav.io",
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 

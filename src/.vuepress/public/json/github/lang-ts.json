@@ -1171,9 +1171,9 @@
     "topics": ["prosemirror", "yjs", "collaborative-editing", "slatejs", "tiptap"]
   }, {
     "repo": "linkwarden/linkwarden",
-    "desc": "A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.",
+    "desc": "⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.",
     "officialSite": "https://linkwarden.app",
-    "topics": ["typescript", "nextjs", "collaboration", "self-hosted", "bookmark-manager"]
+    "topics": ["bookmark-manager", "collaboration", "nextjs", "self-hosted", "typescript"]
   }, {
     "repo": "openstatusHQ/openstatus",
     "desc": "The open-source status page",
@@ -2448,5 +2448,15 @@
     "desc": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
     "officialSite": "https://darc.app",
     "topics": []
+  }, {
+    "repo": "TracecatHQ/tracecat",
+    "desc": "😼 The AI-native, open source alternative to Tines / Splunk SOAR.",
+    "officialSite": "https://tracecat.com",
+    "topics": ["automation", "genai", "llm-security", "openapi", "security"]
+  }, {
+    "repo": "divriots/jampack",
+    "desc": "Optimizes static websites for best user experience and best Core Web Vitals scores.",
+    "officialSite": "https://jampack.divriots.com/",
+    "topics": ["blog", "jamstack", "node", "static-site", "static-site-building", "static-site-generator"]
   }
 ]
