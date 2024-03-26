@@ -2458,5 +2458,20 @@
     "desc": "Optimizes static websites for best user experience and best Core Web Vitals scores.",
     "officialSite": "https://jampack.divriots.com/",
     "topics": ["blog", "jamstack", "node", "static-site", "static-site-building", "static-site-generator"]
+  }, {
+    "repo": "semanser/codel",
+    "desc": "✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.",
+    "officialSite": "https://discord.gg/uMaGSHNjzc",
+    "topics": ["agent", "ai", "autonomous-agents", "devin", "openai"]
+  }, {
+    "repo": "developersdigest/llm-answer-engine",
+    "desc": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+    "officialSite": "https://developersdigest.tech",
+    "topics": []
+  }, {
+    "repo": "fdundjer/solana-sniper-bot",
+    "desc": "Solana Sniper Bot - Proof of Concept",
+    "officialSite": "",
+    "topics": []
   }
 ]

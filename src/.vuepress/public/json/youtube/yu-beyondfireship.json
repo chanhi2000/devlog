@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/d8uUfoq_KYPKWLNtrGM-f9kDpionO_wdlQvO0oOIX9F4qEnxXtxSTTBTYkBgJeiPb0MCFGMQAw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_xfZIr5sDLw", "title": "I built an Apple Vision Pro app... visionOS tutorial" },
+    { "id": "RPa3_AD1_Vs", "title": "This UI component library is mind-blowing" },
+    { "id": "cw34KMPSt4k", "title": "How I deploy serverless containers for free" },
+    { "id": "P8MfgV9us4o", "title": "GitHub Copilot now controls your command line..." },
     { "id": "-JE8P2TiJEg", "title": "PROOF JavaScript is a Multi-Threaded language" },
     { "id": "-uN1Q98UMO4", "title": "Most overpowered way to build mobile apps?" }, 
     { "id": "4QN1BzxF8wM", "title": "I tried 8 different Postgres ORMs" }, 

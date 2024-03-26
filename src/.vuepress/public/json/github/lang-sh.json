@@ -364,5 +364,10 @@
     "desc": "Simple Python version management",
     "officialSite": "",
     "topics": ["python", "shell"]
+  }, {
+    "repo": "olegos2/mobox",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

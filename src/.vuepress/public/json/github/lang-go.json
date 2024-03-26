@@ -1314,5 +1314,15 @@
     "desc": "Fault tolerance and resilience patterns for Go",
     "officialSite": "https://failsafe-go.dev",
     "topics": ["bulkhead", "circuit-breaker", "fallback", "hedge", "rate-limiter", "resilience", "resiliency-patterns", "retry", "timeout"]
+  }, {
+    "repo": "c100k/rebootx-on-prem",
+    "desc": "RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables in the RebootX app.",
+    "officialSite": "https://c100k.eu/p/rebootx",
+    "topics": ["cloud", "infrastructure", "on-prem", "server"]
+  }, {
+    "repo": "cheat/cheat",
+    "desc": "cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.",
+    "officialSite": "",
+    "topics": ["bash", "cheat", "cheatsheet", "cheatsheets", "documentation", "help", "interactive-cheatsheets", "man-page"]
   }
 ]

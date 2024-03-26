@@ -152,4 +152,16 @@ tag:
 
 ---
 
+## GIS Developer
+
+- [PostgreSQL 삭제 (on CentOS)](http://www.gisdeveloper.co.kr/?p=14597)
+
+---
+
+## pgvecto.rs
+
+- [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
+
+---
+
 <TagLinks />

@@ -112,5 +112,6 @@ head:
 <MyYouTubeItems jsonName="yu-muchelin1" /><!-- 머슐랭 -->
 <MyYouTubeItems jsonName="yu-user-ok8rp7yx5p" /><!-- 복지수호신 김신 -->
 <MyYouTubeItems jsonName="yu-happyloo2023" /><!-- 해피루, 도그토토 -->
+<MyYouTubeItems jsonName="yu-HoneyJamini" /><!-- 꿀잼미니 -->
 
 <TagLinks />

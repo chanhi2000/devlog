@@ -111,8 +111,9 @@ tag:
 
 ## velog
 
-- [`@tjdud0123` - css 변수 이용 다크 모드 토글](https://velog.io/@tjdud0123/css-%EB%B3%80%EC%88%98-%EC%9D%B4%EC%9A%A9-%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%ED%86%A0%EA%B8%80)
-- [`@danjr` - HTML 기본 태그 - (4)](https://velog.io/@danjr/HTML-%EA%B8%B0%EB%B3%B8-%ED%83%9C%EA%B7%B8-4)
+- [`@tjdud0123`: css 변수 이용 다크 모드 토글](https://velog.io/@tjdud0123/css-%EB%B3%80%EC%88%98-%EC%9D%B4%EC%9A%A9-%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%ED%86%A0%EA%B8%80)
+- [`@danjr`: HTML 기본 태그 - (4)](https://velog.io/@danjr/HTML-%EA%B8%B0%EB%B3%B8-%ED%83%9C%EA%B7%B8-4)
+- [`@danjr`: CSS 속성 선택자](https://velog.io/@danjr/CSS-%EC%86%8D%EC%84%B1-%EC%84%A0%ED%83%9D%EC%9E%90)
 
 ---
 
@@ -273,6 +274,12 @@ tag:
 ## Olivia King
 
 - [Inclusive Sans](https://www.oliviaking.com/inclusive-sans)
+
+---
+
+## Junhyunny's Devlogs
+
+- [How to set weights and styles with `@font-face`](https://junhyunny.github.io/html/css/how-to-set-weights-and-styles-with-font-face/)
 
 ---
 

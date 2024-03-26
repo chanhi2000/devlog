@@ -4619,5 +4619,20 @@
     "desc": "A Native-PyTorch Library for LLM Fine-tuning",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "IDEA-Research/T-Rex",
+    "desc": "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy",
+    "officialSite": "https://deepdataspace.com/home",
+    "topics": ["interactive", "object-counting", "object-detection", "open-set", "text-prompt", "visual-prompt"]
+  }, {
+    "repo": "FoundationVision/GLEE",
+    "desc": "【CVPR2024】GLEE: General Object Foundation Model for Images and Videos at Scale",
+    "officialSite": "https://glee-vision.github.io/",
+    "topics": ["foundation-model", "interactive-segmentation", "object-detection", "open-vocabulary-detection", "open-vocabulary-segmentation", "open-vocabulary-video-segmentation", "open-world", "referring-expression-comprehension", "referring-expression-segmentation", "referring-video-object-segmentation", "segment-anything", "tracking", "video-instance-segmentation", "video-object-segmentation", "zero-shot-object-detection"]
+  }, {
+    "repo": "DoMusic/Hybrid-Net",
+    "desc": "Real-time audio source separation, generate lyrics, chords, beat.",
+    "officialSite": "https://lamucal.ai",
+    "topics": []
   }
 ]

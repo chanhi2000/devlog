@@ -21,6 +21,7 @@ tag:
 ## Swift 
 
 - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
+- [Writing GNOME Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 
 ---
 
@@ -264,6 +265,12 @@ tag:
 ## Paper
 
 - [Nerdy internals of an Apple text editor 👨🏻‍🔧](https://papereditor.app/internals)
+
+---
+
+## Jacob's Tech Tavern
+
+- [The 2FA app that tells you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
 
 ---
 

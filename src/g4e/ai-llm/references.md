@@ -156,4 +156,10 @@ tag:
 
 ---
 
+## Brandon's Digital Garden
+
+- [Building an email to calendar LLM](https://ngacho.com/blog/emaillm/)
+
+---
+
 <TagLinks/>

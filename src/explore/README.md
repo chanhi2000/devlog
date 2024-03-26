@@ -155,6 +155,17 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "BooksByMood - Find Books Based on Your Mood",
+  "desc": "Find books to read based on your mood (e.g., what to read when I'm tired). Suggested books have an average rating of 4.09/5 on Goodreads.",
+  "link": "https://booksbymood.com/",
+  "logo": "https://booksbymood.com/logo.svg",
+  "background": "rgba(101,195,200,0.2)"
+}
+```
+
 ---
+
 
 <TagLinks />

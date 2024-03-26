@@ -73,4 +73,18 @@ tag:
 
 - [Top 5 VS Code extensions for security](https://snyk.io/blog/top-5-vs-code-extensions-security)
 
+---
+
+## 드프 DrawingProcess
+
+- [[IDE] VSCode 파일 확장자 인식 설정 방법](https://csj000714.tistory.com/1071)
+
+---
+
+## 나는 내 좌절에 값어치를 매긴다
+
+- [[vscode 1% 이해하기] Jetbrains Mono 폰트 vscode 적용하기 (feat. Font Ligature)](https://helicopter55.tistory.com/84)
+
+---
+
 <TagLinks />

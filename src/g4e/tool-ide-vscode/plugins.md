@@ -637,7 +637,7 @@ code --install-extension octref.vetur && REM Vuter
 
 ### 🔑API Key 관리
 
-사용하고 싶은 API의 키를 발급 받아 `settings.json` 파일을 만들어 환경설정 하세요.
+사용하고 싶은 API의 키를 발급 받아 <FontIcon icon="iconfont icon-json"/>`settings.json` 파일을 만들어 환경설정 하세요.
 
 ```json
 "rest-client.certificates": {

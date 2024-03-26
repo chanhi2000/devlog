@@ -58,20 +58,20 @@ brew tap homebrew/cask-fonts;
 brew tap oven-sh/bun; # for macOS and Linux
 
 # Install formula
-brew install bat bat-extras bun autojump amazon-ecs-cli awscli bison \
-    cocoapods ffmpeg fizz flac git \
-    mas neofetch nvm openssl pixman \
-    python rust scrcpy starship tmux watchman \
-    wget xz zsh;
+brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
+  cheat cocoapods exiftool ffmpeg fizz flac git \
+  hyperfine mas neofetch nvm openssl pixman \
+  python rust scrcpy starship tmux tokei watchman \
+  wget xz zsh;
 
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner cheatsheet  \
-    dbeaver-community docker eul flipper font-jetbrains-mono \
-    google-chrome grandperspective iina intellij-idea-ce notion \
-    opencore-patcher oversight pennywise raycast resilio-sync \
-    sf-symbols shottr spectacle sublime-merge sublime-text \
-    the-unarchiver taskexplorer temurin11 transmission visual-studio-code \
-    vlc wireshark;
+  dbeaver-community docker eul flipper font-jetbrains-mono \
+  google-chrome grandperspective iina intellij-idea-ce notion \
+  opencore-patcher oversight pennywise raycast resilio-sync \
+  sf-symbols shottr spectacle sublime-merge sublime-text \
+  the-unarchiver taskexplorer temurin11 transmission visual-studio-code \
+  vlc wireshark;
 ```
 
 ---
@@ -348,6 +348,9 @@ defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES;
 killall Finder;
 
 ### Recent Files ###
+## Google Chrome
+defaults write com.google.keystone.agent checkinterval 0;
+
 ## VLC
 defaults delete org.videolan.vlc.LSSharedFileList RecentDocuments;
 defaults write org.videolan.vlc NSRecentDocumentsLimit 0;

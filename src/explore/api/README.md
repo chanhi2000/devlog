@@ -54,7 +54,7 @@ tag:
 
 ::: tabs
 
-@tab:active Programming - General
+@tab:active Programming Tools - General
 
 ```component VPCard
 {
@@ -209,7 +209,50 @@ tag:
 - [Operator Lookup](https://www.joshwcomeau.com/operator-lookup)
 - [Sha256 Decrypt & Encrypt](https://md5decrypt.net/en/Sha256/#answer)
 
+@tab Package Manager
+
+```component VPCard
+{
+  "title": "Homebrew — The Missing Package Manager for macOS (or Linux)",
+  "desc": "The Missing Package Manager for macOS (or Linux).",
+  "link": "https://brew.sh/",
+  "logo": "https://brew.sh/assets/img/homebrew.svg",
+  "background": "rgba(46,42,36,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Chocolatey Software | Packages",
+  "desc": "Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. Chocolatey integrates w/SCCM, Puppet, Chef, etc. Chocolatey is trusted by businesses to manage software deployments.",
+  "link": "https://community.chocolatey.org/packages",
+  "logo": "https://community.chocolatey.org/content/images/global-shared/logo.svg",
+  "background": "rgba(18,32,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scoop Apps",
+  "desc": "Scoop Apps is an online package browser for Scoop, the command-line installer for Windows",
+  "link": "https://bjansen.github.io/scoop-apps/main/",
+  "logo": "https://bjansen.github.io/scoop-apps/favicon.ico",
+  "background": "rgba(42,42,41,0.2)"
+}
+```
+
+
 @tab Design & Image
+
+```component VPCard
+{
+  "title": "Font Awesome",
+  "desc": "The internet's icon library + toolkit. Used by millions of designers, devs, & content creators. Open-source. Always free. Always awesome.",
+  "link": "https://fontawesome.com/search",
+  "logo": "https://fontawesome.com/images/favicon/icon.svg",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -412,7 +455,6 @@ tag:
 }
 ```
 
-
 - [fonts-earlyaccess](https://fonts.google.com/earlyaccess): Google Fonts (Early Access)
 
 @tab Geospatial
@@ -507,6 +549,16 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "CityDensity.com",
+  "desc": "",
+  "link": "https://citydensity.com/",
+  "logo": "https://citydensity.com/logo.png",
+  "background": "rgba(248,248,248,0.2)"
+}
+```
+
 - [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
 
 @tab Network & Security
@@ -551,10 +603,19 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "PDF 잠금해제",
+  "desc": "PDF 비밀번호를 온라인으로 제거하세요. PDF 파일의 비밀번호 보안을 제거하세요.",
+  "link": "https://www.ilovepdf.com/ko/unlock_pdf",
+  "logo": "https://www.ilovepdf.com/img/favicons-pdf/favicon-32x32.png",
+  "background": "rgba(229,50,45,0.2)"
+}
+```
+
 - [htaccess tester](https://htaccess.madewithlove.com)
 
 @tab Documentation
-
 
 ```component VPCard
 {
@@ -580,7 +641,7 @@ tag:
 {
   "title": "VuePress Theme Hope",
   "desc": "A VuePress theme with tons of features✨",
-  "link": "https://theme-hope.vuejs.press/",
+  "link": "https://theme-hope.vuejs.press/guide/",
   "logo": "https://theme-hope-assets.vuejs.press/logo.svg",
   "background": "rgb(62,175,124,0.2)"
 }
@@ -617,6 +678,15 @@ tag:
   "desc": "대출이자 계산기, 대출이자 자동계산기, 원리금균등상환 계산기, 원금균등상환 계산기, 원금만기일시상환 계산기, 대출금리계산기, 대출이자 계산방법, 대출이자율 계산기, 주택담보대출이자계산, 은행대출이자 계산, 대출이자 계산법",
   "link": "http://calc.funstory.biz/",
   "background": "rgba(40,164,229,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "사람인 - 연봉계산기",
+  "desc": "...",
+  "link": "https://www.saramin.co.kr/zf_user/tools/salary-calculator",
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -708,6 +778,12 @@ tag:
   "background": "rgba(242,101,34,0.2)"
 }
 ```
+
+- https://viperfish.com.au/games/pinnacle.html
+- https://workout.olzhasar.com/
+- [https://allrgb.com/kd-tree]
+- https://oneminutefocus.com/
+- https://foldmation.com/
 
 :::
 

@@ -76,4 +76,20 @@ head:
 
 ---
 
+## Seungdols Company
+
+- [스프링 핵심 원리 기본편 강의 - 싱글톤](https://seungdols.tistory.com/1012)
+- [스프링 핵심 원리 기본편 강의 - 스프링](https://seungdols.tistory.com/1013)
+- [스프링 핵심 원리 기본편 강의 - Bean scope & Bean lifecycle](https://seungdols.tistory.com/1014)
+- [스프링 핵심 원리 기본편 강의 - Bean Definition](https://seungdols.tistory.com/1015)
+- [스프링 핵심 원리 기본편 강의 - `ComponentScan`과 의존 관계 자동 주입](https://seungdols.tistory.com/1016)
+
+---
+
+## 기계인간 John Grib
+
+- [릴리즈 트레인 (Release Train)](https://johngrib.github.io/wiki/spring/cloud/release-train/)
+
+---
+
 <TagLinks />

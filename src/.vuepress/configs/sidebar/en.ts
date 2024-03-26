@@ -786,6 +786,15 @@ export const sidebarEn = sidebar({
         '/g4e/regex/references.md',
       ],
     }, {
+      text: 'Hardware',
+      collapsible: true,
+      icon: 'fas fa-microchip',
+      children: [
+        '/g4e/hardware/README.md',
+        '/g4e/hardware/references.md',
+        '/g4e/hardware/youtube.md',
+      ]
+    },{
       text: 'Markdown',
       collapsible: true,
       icon: 'fa-brands fa-markdown',

@@ -27,6 +27,12 @@ tag:
 
 ---
 
+## velog
+
+- [`@eunbibi`: Database](https://velog.io/@eunbibi/Database)
+
+---
+
 ## PlanetScale
 
 - [Pagination in MySQL](https://planetscale.com/blog/mysql-pagination)

@@ -28,16 +28,16 @@ Possible variables are: `$1`, `$2` for tab stops, `$0` for the final cursor posi
 
 Placeholders with the same ids are connected.
 
-::: info 📂저장위치
+::: info <FontIcon icon="fas fa-folder-open"/>저장위치
 
-- Windows: `%APPDATA%\Code\User\snippets`
-- Mac: `~/Application Support/Code/User/snippets`
+- .<FontIcon icon="fa-brands fa-windows"/>Windows: `%APPDATA%\Code\User\snippets`
+- .<FontIcon icon="fa-brands fa-apple"/>Mac: `~/Application Support/Code/User/snippets`
 
 :::
 
 ## Vuepress Components
 
-### `markdown.json`
+### <FontIcon icon="iconfont icon-json"/>`markdown.json`
 
 ```json
 {
@@ -134,7 +134,7 @@ Placeholders with the same ids are connected.
 ```
 
 
-### `json.json`
+### <FontIcon icon="iconfont icon-json"/>`json.json`
 
 ```json
 {

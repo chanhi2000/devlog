@@ -91,4 +91,10 @@ tag:
 
 ---
 
+## 개발하는 기획자 기획하는 개발자
+
+- [탄력적 IP 적용하기](https://blog.naver.com/gi_balja/223394021270)
+
+---
+
 <TagLinks />

@@ -65,7 +65,6 @@ tag:
 - [5 Important Microservices Design Patterns](https://medium.com/javarevisited/5-important-microservices-design-patterns-c4d636b0051)
 - [How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
 
-
 ### Ted Park
 
 - [알아두면 쓸모있는 신비한 안드로이드 지식 9가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)
@@ -93,8 +92,13 @@ tag:
 ### velog
 
 - [`@qkrtkdwns3410`: [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
+- [`@qkrtkdwns3410`: FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
+-[`@qkrtkdwns3410`: [알고리즘] 주차요금 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0)
 - [`@dradnats1012`: DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
 - [`@danjr`: 이스케이프 문자열](https://velog.io/@danjr/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
+
+
+
 
 ### Douglas Schmidt
 
@@ -187,6 +191,17 @@ tag:
 
 - [Parsing: The Solved Problem That Isn't](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
 
+### 기억의 정류장
+
+- [intelliJ, Gradle 환경에서 JavaFX 사용하기](https://rachel0115.tistory.com/entry/intelliJ-Gradle-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-JavaFX-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+### star collector
+
+- [Java와 객체 지향 : OOP 4대 특성](https://shout-to-my-mae.tistory.com/412)
+- [[Test] `static` 블록 vs `@BeforeClass`](https://shout-to-my-mae.tistory.com/413)
+- [Java가 확장한 객체 지향 (`abstract`, 생성자, `static`, `final`, `this`, `super`)](https://shout-to-my-mae.tistory.com/414)
+
+
 ---
 
 ## 🅺Kotlin
@@ -201,6 +216,10 @@ tag:
 ### Stackoverflow
 
 - [How to get String UUID in JPA and store as VARCHAR in Postgresql database?](https://stackoverflow.com/questions/76346452/how-to-get-string-uuid-in-jpa-and-store-as-varchar-in-postgresql-database)
+
+### velog
+
+- [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ### Leo3418
 
@@ -236,6 +255,15 @@ tag:
 ### devkuma
 
 - [Kotest 자원 (Resources)](https://www.devkuma.com/docs/kotest/framework/resources/)
+
+### simple is best
+          
+- [Leetcode 930.`BinarySubarraysWithSum`](https://insanelysimple.tistory.com/483)
+- [Leetcode1669.`MergeInBetweenLinkedLists`](https://insanelysimple.tistory.com/484)
+
+### 개발하는 곰돌이
+
+- [[Kotlin] 백준 13199 : 치킨 먹고 싶다](https://colabear754.tistory.com/208)
 
 ---
 

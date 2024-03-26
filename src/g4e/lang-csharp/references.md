@@ -182,4 +182,8 @@ tag:
 
 ---
 
+## 재우니의 블로그
+
+- [Dapper (ORM) 과 EF 비교하여 WHERE 조건 검색 비교하기](https://aspdotnet.tistory.com/3189)
+
 <TagLinks />

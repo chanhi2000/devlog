@@ -422,4 +422,29 @@ tag:
 
 ---
 
+## jako's IT log
+
+- [Google API 없이 Youtube 데이터 수집하기](https://jakpentest.tistory.com/entry/Google-API-%EC%97%86%EB%8A%94-Youtube-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
+
+---
+
+## 멈춤보단 천천히라도
+
+- [pyQt5에서 libGL error: MESA-LOADER: failed to open 에러 발생시 해결방법입니다. ](https://webnautes.tistory.com/2302)
+
+---
+
+## 무너지기직전
+
+- [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/15)
+- [[백준] 1026번: 보물 - python](https://findsilverlining.tistory.com/17)
+- [[백준] 11399번: ATM - python](https://findsilverlining.tistory.com/18)
+- [[백준] 2847번: 게임을 만든 동준이 - python](https://findsilverlining.tistory.com/20)
+- [[백준] 11501번: 주식 - python](https://findsilverlining.tistory.com/21)
+- [[백준] 1012번: 유기농 배추 - python](https://findsilverlining.tistory.com/22)
+- [[백준] 1697번: 숨바꼭질 - python](https://findsilverlining.tistory.com/23)
+
+
+---
+
 <TagLinks />

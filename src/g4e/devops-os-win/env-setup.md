@@ -51,7 +51,7 @@ First, ensure that you are using an __administrative__ shell
 ### B2. Guide
 
 - <kbd>win</kbd> + <kbd>r</kbd> 입력
-- 창에 `powershell`입력 후 <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>enter</kbd> 눌러 실행
+- 창에 `powershell`입력 후 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행
 - Copy and Paste the following to the Powershell Prompt
 
 ```powershell
@@ -62,8 +62,12 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 Copy and Paste the following to the Powershell Prompt
 
+::: code-tabs#powershell
+
+@tab:active powershell
+
 ```powershell
-choco install -y everything everythingtoolbar notion openssl powertoys qdir `
+choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode `
     dbeaver googlechrome fiddler windirstat 7zip `
     procexp scrcpy nvm docker-desktop temurin11 temurin11 `
@@ -71,16 +75,18 @@ choco install -y everything everythingtoolbar notion openssl powertoys qdir `
     twinkle-tray wiztree rust
 ```
 
-or Windows Cmd
+@tab Cmd
 
 ```batch
-choco install -y everything everythingtoolbar notion openssl powertoys qdir ^
+choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir ^
     sharex speccy sublimemerge sublimetext4 vlc vscode ^
     dbeaver googlechrome fiddler windirstat 7zip ^
     procexp scrcpy nvm docker-desktop temurin11 temurin11 ^
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal ^
     twinkle-tray wiztree rust
 ```
+
+:::
 
 ---
 
@@ -109,17 +115,23 @@ irm get.scoop.sh | iex
 
 Copy and Paste the following to the Powershell Prompt
 
+::: code-tabs#powershell
+
+@tab:active powershell
+
 ```powershell
-scoop install 7zip neofetch oh-my-posh terminal-icons watchman `
+scoop install 7zip cheat hyperfine neofetch oh-my-posh terminal-icons tokei watchman `
     git
 ```
 
-or Windows Cmd
+@tab Cmd
 
 ```batch
-scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
+scoop install 7zip cheat hyperfine neofetch oh-my-posh terminal-icons tokei watchman ^
     git 
 ```
+
+:::
 
 ---
 
@@ -130,7 +142,9 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
 - `alias.cmd` 파일을 만들어 관련 Alias 지정
 
 ::: tip NOTE
-[🌐chanhi2000/chan-alias](https://github.com/chanhi2000/chan-alias) 참조
+
+[<FontIcon icon="iconfont icon-github"/>`chanhi2000/chan-alias`](https://github.com/chanhi2000/chan-alias) 참조
+
 :::
 
 ### D2. Guide
@@ -143,9 +157,9 @@ scoop install 7zip neofetch oh-my-posh terminal-icons watchman ^
 - 시스템 재시작
 
 
-### D2-i. `schema.json`
+### D2-i. <FontIcon icon="iconfont icon-json"/>`schema.json`
 
-> 📁저장위치: 왠만하면 `%USERPROFILE%\.oh-my-posh` 폴더에 위치해 두도록
+> <FontIcon icon="fas fa-folder-open"/>저장위치: 왠만하면 `%USERPROFILE%\.oh-my-posh` 폴더에 위치해 두도록
 
 ```json
 {

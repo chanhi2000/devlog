@@ -56,4 +56,10 @@ tag:
 
 ---
 
+## 몽상현실개발주의
+
+- [Rails의 지연 로딩(Lazy Loading) 과 데이터베이스 연결 전환](https://leeiopd.tistory.com/entry/Rails%EC%9D%98-%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%B0%EA%B2%B0-%EC%A0%84%ED%99%98)
+
+---
+
 <TagLinks />

@@ -1244,5 +1244,15 @@
     "desc": "⬛️ CLI tool for saving complete web pages as a single HTML file",
     "officialSite": "https://crates.io/crates/monolith",
     "topics": ["come-and-take-it", "e-hoarding", "its-mine", "make-the-internet-great-again", "no-more-404", "procrastination", "save-the-internet", "tab-rehab"]
+  }, {
+    "repo": "XAMPPRocky/tokei",
+    "desc": "Count your code, quickly.",
+    "officialSite": "",
+    "topics": ["badge", "cli", "cloc", "code", "command-line-tool", "linux", "macos", "rust", "sloc", "statistics", "tokei", "windows"]
+  }, {
+    "repo": "sharkdp/hyperfine",
+    "desc": "A command-line benchmarking tool",
+    "officialSite": "",
+    "topics": ["benchmark", "cli", "command-line", "hacktoberfest", "rust", "terminal", "tool"]
   }
 ]

@@ -293,5 +293,11 @@ tag:
 
 ---
 
+## Adam Karvonen
+
+- [Manipulating Chess-GPT's World Model](https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html)
+
+---
+
 <TagLinks />
 

@@ -16,7 +16,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -170,6 +169,18 @@ tag:
 ## Computer Security Group
 
 - [ZenHammer: Rowhammer Attacks on AMD Zen-based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/)
+
+---
+
+## Timelessness
+
+- [A simple, asymmetric AKE](https://dannyvanheumen.nl/post/simple-asymmetric-ake/)
+
+---
+
+## pwning tech
+
+- [Flipping Pages: An analysis of a new Linux vulnerability in `nf_tables` and hardened exploitation techniques](https://pwning.tech/nftables/)
 
 ---
 

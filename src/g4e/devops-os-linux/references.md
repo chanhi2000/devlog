@@ -195,4 +195,9 @@ tag:
 
 ---
 
+## 기계인간 John Grib
+
+- [(요약) The mind behind Linux | Linus Torvalds](https://johngrib.github.io/wiki/summary-the-mind-behind-linux)
+- [`bc`, An arbitrary precision calculator language](https://johngrib.github.io/wiki/cmd/bc/)
+
 <TagLinks />

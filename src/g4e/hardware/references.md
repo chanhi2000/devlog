@@ -1,0 +1,53 @@
+---
+lang: ko-KR
+title: References
+description: Hardware > References
+icon: iconfont icon-share
+category:
+  - Hardware
+  - References
+tag: 
+  - hardware
+  - npu
+  - computre  
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+## Linux Programmer
+
+- [인텔 N100 미니PC (SZBOX W6)](https://sunyzero.tistory.com/295)
+
+---
+
+## HiGenis
+
+- [NPU 2Tops가 내장된 Allwinner T527 개발 보드 - MYIRTech MYD-LT527](https://blog.naver.com/chandong83/223394412555)
+
+---
+
+## The Copetti site
+
+- [Sega Saturn Architecture](https://www.copetti.org/writings/consoles/sega-saturn/)
+
+---
+
+## beagleboard.org
+
+- [BeagleY-AI](https://www.beagleboard.org/boards/beagley-ai)
+
+---
+
+## 기린
+
+- [Arduino UNO R4의 `FspTimer` 라이브러리 사용법](https://fishpoint.tistory.com/9142)
+- [Arduino Uno R4를 HID 키보드 장치로 만들기](https://fishpoint.tistory.com/9143)
+- [UNO R4 업로드 에러 해결 방법 Failed uploading: uploading error: exit status 74](https://fishpoint.tistory.com/9144)
+
+---
+
+<TagLinks />

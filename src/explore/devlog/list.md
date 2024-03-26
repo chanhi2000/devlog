@@ -271,7 +271,6 @@ tag:
 - [요즘 읽는 디자인 블로그들](https://brunch.co.kr/@outlines/44)
 - [화살표에 대한 단상](https://brunch.co.kr/@meanimize/75)
 - [1px 보다 얇은 디자인 — 라인 편](https://brunch.co.kr/@euid/6)
-- [(요약) The mind behind Linux | Linus Torvalds](https://johngrib.github.io/wiki/summary-the-mind-behind-linux)
 - [Enhancements to the Kagi search experience](https://blog.kagi.com/search-enhancements)
 - [Driving Compiler](https://fabiensanglard.net/dc/index.php)
 - [Porting WaterLily.jl into a backend-agnostic solver](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)

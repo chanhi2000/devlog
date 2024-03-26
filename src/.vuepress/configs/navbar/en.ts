@@ -235,6 +235,10 @@ export const navbarEn = navbar([
         text: '🐑Haskell',
         link: 'https://chanhi2000.github.io/crashcourse/haskell/'
       }, {
+        text: 'Kubernetes',
+        icon: 'fas fa-dharmachakra',
+        link: 'https://chanhi2000.github.io/crashcourse/kubernetes/'
+      },{
         text: 'DevOps',
         icon: 'fas fa-cubes-stacked',
         link: 'https://chanhi2000.github.io/crashcourse/devops/'

@@ -184,4 +184,8 @@ tag:
 
 ---
 
+## Persistent.info
+
+- [Infinite Mac: Turning To The Dark Side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
+
 <TagLinks />

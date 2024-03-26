@@ -154,6 +154,9 @@ tag:
 - [`!1996yyk` - [k8s] Set Odd Master Nodes On `k8s`](https://velog.io/@1996yyk/k8s-Set-Odd-Master-Nodes-On-k8s)
 
 
+## ENFJ.dev 
+
+- [Kubernetes Affinity, 제대로 이해하기](https://gngsn.tistory.com/283)
 
 ---
 

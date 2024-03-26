@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "WingsOfUtu",
+    "name": "Wings of Utu",
+    "profile": "https://yt3.googleusercontent.com/bBrKiawtd7phu7-e2C3EJF_7v3mvtYfxcDdTS6-r2D-pmvePr-PrH_fkqdiv9_-KFths5Z83=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ksVakWsEbJOx-nyGth6Z7VE7tZ8dL-yPeyq93MXr-cCehOGDLp8ACVljfl1n08qeL0GMQX44mA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hdbZ6deaFDU", "title": "Wrap Web Application Into a Native Ones in 20 Minutes | Beginner Friendly | Xcode" },
+    { "id": "HvxSu3CXCzQ", "title": "Multi Platform Push Notification - Part 1 of 2" },
+    { "id": "4_4umBXkczs", "title": "Multi Platform Push Notification - Part 2 of 2" }
+  ]
+}

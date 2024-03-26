@@ -7,7 +7,6 @@ category:
   - Cubrid
   - CLI
 tag:
-  - sql
   - cli
   - csql
   - cubrid
@@ -17,7 +16,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

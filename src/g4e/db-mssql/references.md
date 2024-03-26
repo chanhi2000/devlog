@@ -27,4 +27,10 @@ tag:
 
 ---
 
+## 재우니의 블로그
+
+- [mssql 키보드 쿼리 바로가기 단축키 괜찮은 것](https://aspdotnet.tistory.com/1049)
+
+---
+
 <TagLinks />

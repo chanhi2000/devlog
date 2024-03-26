@@ -39,5 +39,10 @@
     "desc": "Logo language in 508 bytes (x86 boot sector)",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "meribold/btry",
+    "desc": "Monoplatform battery info program written in unportable x86 assembly",
+    "officialSite": "",
+    "topics": ["assembly", "bloatfree", "bloatless", "linux", "x86", "x86-64"]
   }
 ]

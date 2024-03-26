@@ -29,4 +29,10 @@ tag:
 
 ---
 
+## 프로그래머 김성엽
+
+- [[Q&A] vector에 객체를 직접 대입하는 경우...](https://blog.naver.com/tipsware/223395160791)
+
+---
+
 <TagLinks />

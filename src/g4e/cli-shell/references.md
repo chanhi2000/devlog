@@ -219,6 +219,12 @@ tag:
 
 ---
 
+## 운동하는 개발자
+
+- [Linux to Linux 파일 전송 (SCP)](https://singo112ok.tistory.com/265)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

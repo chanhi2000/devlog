@@ -243,6 +243,8 @@ tag:
 ## 다빈치코딩
 
 - [2019년 정보올림피아드 필기 중등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/120)
+- [2020년 정보올림피아드 필기 초등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/123)
+- [2020년 정보올림피아드 필기 초등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/124)
 
 ---
 
@@ -261,6 +263,12 @@ tag:
 ## arXiv.org
 
 - [Tilman Sauer: Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
+
+---
+
+## Bartosz Ciechanowski
+
+- [Airfoil](https://ciechanow.ski/airfoil/)
 
 ---
 

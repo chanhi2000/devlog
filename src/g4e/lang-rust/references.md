@@ -45,8 +45,8 @@ tag:
 
 ## Dev.to
 
-- [Rust 🦀 CRUD Rest API with Docker 🐳](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
-- [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
+- [`francescoxx` - Rust 🦀 CRUD Rest API with Docker 🐳](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
+- [`emmanuelantony2000` - Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
 
 ---
 
@@ -222,6 +222,18 @@ tag:
 ## notgull
 
 - [Why choose `async`/`await` over threads?](https://notgull.net/why-not-threads/)
+
+---
+
+## Cliffle
+
+- [Who killed the network switch?](https://cliffle.com/blog/who-killed-the-network-switch/)
+
+---
+
+## Wesley Moore
+
+- [Building a Hybrid Native Application With Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
 
 ---
 

@@ -182,7 +182,7 @@ git clone https://github.com/dracula/windows-terminal dracula-win-terminal
 
 Start Windows Terminal and click on the down arrow symbol `˅` from menu bar. This will open a drop down menu from which select Settings option. Alternatively use <kbd>Ctrl</kbd>+<kbd>,</kbd> to open Settings directly.
 
-In the `settings.json` settings file for Windows Terminal, find the schemes section and paste the content of `dracula.json`.
+In the <FontIcon icon="iconfont icon-json"/>`settings.json` settings file for Windows Terminal, find the schemes section and paste the content of <FontIcon icon="iconfont icon-json"/>`dracula.json`.
 
 ```json
 "schemes": [
@@ -224,7 +224,7 @@ Once the color scheme has been defined, it's time to enable it. Find the profile
 
 :::
 
-> 📁`settings.json` 파일경로: `%APPDATA%\Local\Packages\Microsoft.WindowsTerminal_????????\LocalState`
+> .<FontIcon icon="iconfont icon-json"/>`settings.json` 파일경로: <FontIcon icon="fas fa-folder-open"/>`%APPDATA%\Local\Packages\Microsoft.WindowsTerminal_????????\LocalState`
 
 ---
 

@@ -1203,5 +1203,10 @@
     "desc": "A Multithreaded Fork of Redis",
     "officialSite": "https://keydb.dev",
     "topics": []
+  }, {
+    "repo": "carlosefr/spinner-mouse",
+    "desc": "Arduino-based USB rotary controller for arcade Arkanoid, Tempest, etc.",
+    "officialSite": "",
+    "topics": []
   }
 ]

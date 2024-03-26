@@ -35,6 +35,7 @@ copy and paste below
 {
     "workbench.colorTheme": "Dracula Soft",
     "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontLigatures": true,
     
     "GitLive.Special branches": "main|master|trunk|dev|develop|qa|test|release[-/].*",
     "GitLive.Issue tracker integration": "Disabled",

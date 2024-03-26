@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Loud_uilsoundworks",
+    "name": "LoudBell Studio",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mqmdFjc_Vn_frBZHxIIQ6EbWOcIME-7mGVOUgXhw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J4qmPK9jSlpCLKkj9V2Lfye6czEcCW5E8XFxfNgb3YSRydH6LrK6BjeC75pef56vMnswJgKq24I=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mI9aTaGyqpg", "title": "Mixing Lecture(믹싱 강의) - Stereo imaging(스테레오 이미징) 작업을 적극적으로 활용하기. - Haas Effect 이해. - 유일사운드웍스" },
+    { "id": "5ZuF8d28jx0", "title": "Buss Compressor 3종 알아보기 - 딱히 다루지 않았던 제품 위주로 - 쓸만한 버스 컴프레서 - 유일사운드웍스" }
+  ]
+}
