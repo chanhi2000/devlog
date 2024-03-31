@@ -134,6 +134,7 @@ export default defineUserConfig({
         sup: true,
         vPre: true,
         vuePlayground: true,
+        sandpack: true,
         kotlinPlayground: true,
       },
       copyCode: {

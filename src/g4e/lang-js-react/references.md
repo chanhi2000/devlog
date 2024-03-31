@@ -147,7 +147,7 @@ head:
 - [@bbumjun - [TIL] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 - [@superlipbalm - (번역) 자바스크립트 Import Map에 대해 알아야 할 모든 것](https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps)
 - [@eunbinn - [번역] 웹 푸시는 이제 iOS 17에서 사용할만합니다](https://velog.io/@eunbinn/web-push-ios17)
-
+- [`@yerini` - 면접질문-2](https://velog.io/@yerini/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8-2)
 ---
 
 ## Okta

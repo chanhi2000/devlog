@@ -40,6 +40,12 @@ tag:
 
 ---
 
+## blex.me
+
+- [`@mildsalmon`: 회식과 저녁에 대한 시간 기준](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-13%EC%A3%BC%EC%B0%A8-3%EC%9B%94)
+
+---
+
 ## Felipe Vogel
 
 - [Being laid off in 2023-2024 as an early-career developer](https://fpsvogel.com/posts/2024/early-career-developer-job-search-after-layoffs)
@@ -123,6 +129,18 @@ tag:
 ## Ben Hoyt
 
 - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
+
+---
+
+## 프로페셔널 프로그래머
+
+- [안 하는 것과 못하는 것](https://blog.naver.com/cybervictor008/223399042771)
+
+---
+
+## Chanhyo's Blog
+
+- [개발 특기 살려서 군대 가는 법 🪖](https://roian6.hashnode.dev/army-tiger)
 
 ---
 

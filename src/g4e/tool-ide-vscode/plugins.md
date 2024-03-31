@@ -58,6 +58,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Conventional Commits (`vivaxy.vscode-conventional-commits`)",
+  "desc": "💬Conventional Commits for VSCode.",
+  "link": "https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits",
+  "logo": "https://vivaxy.gallerycdn.vsassets.io/extensions/vivaxy/vscode-conventional-commits/1.25.0/1672399638528/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(239,241,243,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "CSS Peek (`pranaygp.vscode-css-peek`)",
   "desc": "Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.",
   "link": "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek",
@@ -505,6 +515,7 @@ tag:
 ```sh
 code --install-extension formulahendry.auto-rename-tag; #Auto Rename Tag
 code --install-extension aaron-bond.better-comments; #Better Comments
+code --install-extension vivaxy.vscode-conventional-commits; #Conventional Commits
 code --install-extension adpyke.codesnap; #CodeSnap
 code --install-extension pranaygp.vscode-css-peek; #CSS Peek
 code --install-extension dracula-theme.theme-dracula; #Dracula Official
@@ -555,7 +566,8 @@ code --install-extension octref.vetur # Vuter
 
 ```batch
 code --install-extension formulahendry.auto-rename-tag && REM Auto Rename Tag
-code --install-extension aaron-bond.better-comments && REM #Better Comments
+code --install-extension aaron-bond.better-comments && REM Better Comments
+code --install-extension vivaxy.vscode-conventional-commits && REM Conventional Commits
 code --install-extension adpyke.codesnap && REM CodeSnap
 code --install-extension pranaygp.vscode-css-peek && REM CSS Peek
 code --install-extension dracula-theme.theme-dracula && REM Dracula Official

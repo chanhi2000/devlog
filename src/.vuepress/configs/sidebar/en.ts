@@ -205,6 +205,7 @@ export const sidebarEn = sidebar({
       children: [
         '/g4e/lang-js-react/README.md',
         '/g4e/lang-js-react/snippets.md',
+        '/g4e/lang-js-react/snippets-serpiko.md',
         '/g4e/lang-js-react/references.md',
         '/g4e/lang-js-react/github.md',
         '/g4e/lang-js-react/youtube.md',

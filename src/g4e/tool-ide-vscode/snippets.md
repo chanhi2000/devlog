@@ -48,6 +48,13 @@ Placeholders with the same ids are connected.
     ],
     "description": "Create URL form for Github Repoistory"
   },
+  "VuepressMarkdownYoutube": {
+    "prefix": "vpy",
+    "body": [
+      "<VidStack src=\"youtube/${1:id}\" />",
+    ],
+    "description": "Create VidStack Youtube Vue Component"
+  },
   "VuepressMarkdownYoutubeItem": {
     "prefix": "vpyi",
     "body": [
@@ -122,6 +129,20 @@ Placeholders with the same ids are connected.
       "<FontIcon icon=\"iconfont icon-${1:name}\"/>${0}"
     ],
     "description": "Create FontIcon Vue Componenet"
+  },
+  "VuepressFontIconAwesome": {
+    "prefix": "vfia",
+    "body": [
+      "<FontIcon icon=\"fas fa-${1:name}\"/>${0}"
+    ],
+    "description": "Create FontIcon Vue Componenet (FontAwesome)"
+  },
+  "VuepressFontIconAwesomeBrand": {
+    "prefix": "vfiab",
+    "body": [
+      "<FontIcon icon=\"fa-brands fa-${1:name}\"/>${0}"
+    ],
+    "description": "Create FontIcon Vue Componenet (FontAwesome Brand)"
   },
   "TgKbd": {
      "prefix": "tgkbd",

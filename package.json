@@ -1,5 +1,5 @@
 {
-  "version": "0.8.8",
+  "version": "0.8.9",
   "private": true,
   "name": "chanhi2000.github.io",
   "description": "My Personal Super Mindmap",
@@ -25,6 +25,7 @@
     "axios": "1.5.1",
     "dotenv": "16.3.1",
     "express": "^4.18.2",
+    "sandpack-vue3": "3.1.11",
     "vuepress": "2.0.0-rc.8",
     "vuepress-plugin-markdown-define2": "^1.0.0",
     "vuepress-theme-hope": "2.0.0-rc.25"
