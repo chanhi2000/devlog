@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/cESZ9qnZaMe9-o1jCD2QQVPgeHUdndTurh2UUSe3WGD5drCH7KrEIrtbrJyqLA_BhoYgAPTAaA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xQWA_tTmE_A", "title": "The Magical React Hook That Makes your Components Smaller" },
+    { "id": "sXwdGmY9SAY", "title": "I Just Discovered The Most Underrated UI Library for React" },
+    { "id": "8sgAUP_e4Zk", "title": "I Got Access to Google's New AI Code Editor | Project IDX" },
+    { "id": "IGom7eqDcPU", "title": "I Switched From Figma Dev Mode to Zeplin" },
     { "id": "HXTcC_3pe_g", "title": "Stop Doing These Next.js Mistakes" },
     { "id": "3vb8YnTcqek", "title": "Git Mistakes Every Junior Developer should Avoid | clean-code" },
     { "id": "LNY8agJQJFc", "title": "Build a REST API AI SaaS with Latest AI Models, Nest.js & Postgres" },

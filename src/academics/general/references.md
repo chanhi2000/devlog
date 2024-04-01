@@ -24,6 +24,7 @@ tag:
 - [Calculating Logarithms By Hand](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
 - [On the dimensionality of spacetime](https://space.mit.edu/home/tegmark/dimensions.pdf)
 - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
+- [CS251 - Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
 
 ---
 
@@ -38,6 +39,15 @@ tag:
 ## Bionic
 
 - [과학을 위한 연산](https://boinc.berkeley.edu/index.php)
+
+---
+
+## velog
+
+- [`@ksh4704` - 코드스테이츠-부트캠프 [자료구조/알고리즘](2)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%982)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [소프트웨어 개발 방법론]](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [Rest API]](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Rest-API)
+
 
 ---
 
@@ -245,6 +255,8 @@ tag:
 - [2019년 정보올림피아드 필기 중등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/120)
 - [2020년 정보올림피아드 필기 초등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/123)
 - [2020년 정보올림피아드 필기 초등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/124)
+- [2021년 정보올림피아드 필기 초등부(1 ~ 5)](https://davincicoding.tistory.com/125)
+- [2021년 정보올림피아드 필기 초등부(11 ~ 15)](https://davincicoding.tistory.com/128)
 
 ---
 
@@ -278,5 +290,16 @@ tag:
 
 ---
 
+## pizzathief
+
+- [Conformal Prediction으로 모델의 불확실성 계산하기](https://pizzathiefz.github.io/posts/introduction-to-conformal-prediction/)
+
+---
+
+## Developer's Delight
+
+- [희소행렬을 효율적으로 저장하는 COO, CSR 형식](https://sonseungha.tistory.com/711)
+
+---
 
 <TagLinks />

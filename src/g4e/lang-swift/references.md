@@ -44,6 +44,12 @@ tag:
 
 ---
 
+## velog
+
+- [`@jwlee010523`: 기본 연산자(Basic Operators)](https://velog.io/@jwlee010523/Swift-%EA%B8%B0%EB%B3%B8-%EC%97%B0%EC%82%B0%EC%9E%90Basic-Operators)
+
+---
+
 ## Devlog
 
 - [tucan9389's blog](http://canapio.tistory.com)

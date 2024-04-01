@@ -299,5 +299,11 @@ tag:
 
 ---
 
+## finedataproducts
+
+- [Can GPT Optimize My Taxes?](https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/)
+
+---
+
 <TagLinks />
 

@@ -79,5 +79,6 @@ tag:
 <MyYouTubeItems jsonName="yu-codebinx" /><!-- CodebinX -->
 <MyYouTubeItems jsonName="yu-jamesnet214" /><!-- jamesnet -->
 <MyYouTubeItems jsonName="yu-Unclassical" /><!-- Unclassical -->
-1
+<MyYouTubeItems jsonName="yu-nickproudprogrammer" /><!-- Nick Proud -->
+
 <TagLinks />

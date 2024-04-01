@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/S69HxPn_grNWnKx0kuI9C_I3aJY5l0QwJYMTssqPFF4sc5t2GA4Gg5_ea0WAS6MvpsNbrorT=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "30ueATSf-JE", "title": "Meeting thoughtbot's newest Incubator participants!" },
+    { "id": "LVimgB7cV3M", "title": "Team Lead Fireside Chat" },
+    { "id": "3dihrNdKOsE", "title": "Improving Rails Test Suite Performance" },
+    { "id": "PaZS_wIRUDo", "title": "Adventures in customer discovery! Incubator update with Womanish" },
+    { "id": "BxyM6ZwDbzU", "title": "Improving Rails Test Suite Performance (continued)" },
+    { "id": "QJJ-M8-Tuqo", "title": "Pairing on MIT's Teacher Moments" },
     { "id": "tzZ_gRhefbs", "title": "From Figma to Browser with Eleventy (Part 3)" },
     { "id": "tNcMhJ0c5QE", "title": "1.1 PDS Kit: Intro to Day 1 of the Sprint" },
     { "id": "IyZhsDdY0A8", "title": "1.2 PDS Kit: Exercise 1 - Long-term Goal" },

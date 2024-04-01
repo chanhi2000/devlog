@@ -225,6 +225,12 @@ tag:
 
 ---
 
+## xomedia
+
+- [A Deep Dive into Email Deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

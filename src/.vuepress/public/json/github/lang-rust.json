@@ -1254,5 +1254,10 @@
     "desc": "A command-line benchmarking tool",
     "officialSite": "",
     "topics": ["benchmark", "cli", "command-line", "hacktoberfest", "rust", "terminal", "tool"]
+  }, {
+    "repo": "sunng87/pgwire",
+    "desc": "PostgreSQL wire protocol implemented as a rust library.",
+    "officialSite": "",
+    "topics": ["database", "postgresql", "rust"]
   }
 ]

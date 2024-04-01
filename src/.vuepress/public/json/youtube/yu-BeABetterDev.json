@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/_DkMv1f8NdP7BCDRa9j7I9RV_ts0eot7ENEFCsh33fCJTy1tlGdRpaRPoxLK6qvZvZLFxyTKCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LTKnSRikBXs", "title": "Amazon States Language (ASL) Introduction" },
+    { "id": "jJ49-g337s4", "title": "Real Life AWS Project Architecture Overview" },
+    { "id": "zyT4y-rfu7s", "title": "How AWS is Making It Easier To Convert to IaC/CDK" },
+    { "id": "UxIpAuIaV1E", "title": "Top AWS Services For Backend Developers" },
+    { "id": "vQ9BUc-UmXY", "title": "AWS Lambda + Bedrock Tutorial" },
     { "id": "pgpWyn_6zlA", "title": "AWS API Gateway Introduction" },
     { "id": "LEcoXWK7Ch8", "title": "AWS Workspaces Setup Tutorial" },
     { "id": "bY5X2jLLlUk", "title": "The Best Way To Search Through Logs Using AI + CloudWatch Log Insights" },

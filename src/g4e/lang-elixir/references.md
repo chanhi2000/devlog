@@ -18,6 +18,12 @@ tag:
 
 ---
 
+## Resonate
+
+- [The Mechanics of Async Await](https://blog.resonatehq.io/async-await-mechanics)
+
+---
+
 ## Underjord
 
 - [SCRIPTING WITH ELIXIR](https://underjord.io/scripting-with-elixir.html)
@@ -47,6 +53,5 @@ tag:
 - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
 
 ---
-
 
 <TagLinks />

@@ -144,4 +144,43 @@ tag:
 
 ---
 
+## 스파르타 코딩클럽
+
+- [변화를 꿈꾸는 이들을 위한 안내서](https://blog.naver.com/spartacoding/223397157872)
+- [‘가치의 가치있음’을 믿으며, 계속 살아내기](https://blog.naver.com/spartacoding/223397154746?)
+- [비전공자도 개발자 취업할 수 있을까? | 팀스파르타 이범규 대표 인터뷰](https://blog.naver.com/spartacoding/223399417138?)
+
+---
+
+## 이프로
+
+- [경력사항 세부정리 - 1번째 회사](https://blog.naver.com/hidejj79/223397842492?)
+
+---
+
+## 컴공생의 발자취
+
+- [[스파르타코딩클럽] 데일리 미션 - Lv.2 웹개발자 JD 분석](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EB%AF%B8%EC%85%98-Lv2-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90-JD-%EB%B6%84%EC%84%9D)
+- [[스파르타코딩클럽] 데일리미션 - Lv.3 비슷한 직무 JD 분석](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv3-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A7%81%EB%AC%B4-JD-%EB%B6%84%EC%84%9D)
+
+---
+
+## 힘차게, 열심히 공대생
+
+- [육각형 개발자 - 시니어 개발자로 성장하기 위한 10가지 핵심 역량 | 최범균](https://thalals.tistory.com/474)
+
+---
+
+## 편리함을 추구하는 핸디의 지식 블로그
+
+- [[개발회고] 24년 1분기 회고](https://all-dev-kang.tistory.com/entry/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0-24%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
+
+---
+
+## InfoQ
+
+- [How Platform and Site Reliability Engineering Are Evolving DevOps](https://www.infoq.com/articles/platform-sre-evolving-devops/)
+
+---
+
 <TagLinks />

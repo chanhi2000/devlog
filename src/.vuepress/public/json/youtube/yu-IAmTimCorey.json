@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/D5kKP3e-2L20ujvDWT0FTemzuiibUXCW8OSNvxlCjP7E7w24g6K15O07XwQnkQ-2WV5Th-Zd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Q4YFhcyGnf4", "title": "Renaming in Visual Studio Using AI" },
+    { "id": "odRDX8_Hox0", "title": "What Skills Will Help Me Advance in My Career?" },
+    { "id": "1VkP433XExM", "title": "Visual Studio Update: Automatically Close Brackets and Quotes" },
+    { "id": "voq_hz4LZLA", "title": "Should I Build a Monolith or Microservices?" },
+    { "id": "ip3Z4ZcAgA8", "title": "Background Jobs in ASP.NET Core" },
+    { "id": "GKzjaic6oi4", "title": "What Is the Purpose of Design Patterns?" },
+    { "id": "bg0QVTS4Q0c", "title": "Containerize Your C# Application Easily with the .NET CLI" },
+    { "id": "vQHABZumaeo", "title": "How Do I Make My Portfolio Better?" },
+    { "id": "B5NsgtdwOlg", "title": "Global Error Handling in C# Minimal APIs" },
     { "id": "X7EcJcgbJTs", "title": "CSS Isolation in Blazor Applications in 10 Minutes or Less" },
     { "id": "UPkOH4Vv4BM", "title": "What Are The Differences Between Full-Time and Contracting?" },
     { "id": "Ld5D6B2Ntjg", "title": "How To Create Generics in C#, Including New Features" },

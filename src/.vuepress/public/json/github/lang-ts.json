@@ -2473,5 +2473,25 @@
     "desc": "Solana Sniper Bot - Proof of Concept",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "midday-ai/midday",
+    "desc": "Run your business smarter.",
+    "officialSite": "https://midday.ai",
+    "topics": ["finance", "nextjs", "supabase", "tailwind", "typescript"]
+  }, {
+    "repo": "adrianhajdin/zoom-clone",
+    "desc": "Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.",
+    "officialSite": "https://jsmastery.pro",
+    "topics": ["clerk", "getstream-io", "nextjs", "reactjs"]
+  }, {
+    "repo": "proposal-signals/proposal-signals",
+    "desc": "A proposal to add signals to JavaScript.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Chaoyingz/flect",
+    "desc": "flect is a Python framework for building full-stack web applications.",
+    "officialSite": "https://flect.celerforge.com/docs/introduction/",
+    "topics": ["fastapi", "fastui", "next", "pydantic", "react-router", "reactjs", "shadcn-ui"]
   }
 ]

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/iGdDIcKrLXMkmZifgB-BeKpRhqIsq2FvtxIhuel3M8FUIPIjQrYbFtOAa9BkQs_ntiXWvQn8NA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xsdFNpThetE", "title": "10 Typical Linux Problems and How to Fix Them" },
+    { "id": "tCjyfh6kWWo", "title": "Enterprise Linux Security Episode 83 - FBI/NCA vs Lockbit" },
+    { "id": "cZtuNuWmQaM", "title": "Enterprise Linux Security Episode 84 - Security Debt" },
+    { "id": "drxeHS0wpRw", "title": "Enterprise Linux Security Episode 85 - Managing a Distro (featuring benny Vasquez from AlmaLinux OS)" },
+    { "id": "nY9dVJ2EnSk", "title": "5 Common Mistakes New Linux Users Often Make" },
     { "id": "Mk9xeDoo7CU", "title": "Netdata's Awesome New Feature: Systemd Journal Support Explained!" },
     { "id": "2RHhabUiRjk", "title": "What's New in ThinLinc? A Discussion with Pierre Ossman from Cendio" },
     { "id": "FxeriGuJKTM", "title": "How to Install Arch Linux: A Comprehensive Step-by-Step Guide" },

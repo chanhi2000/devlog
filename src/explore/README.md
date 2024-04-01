@@ -47,6 +47,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Best AI Tools Directory & AI Tools List - Toolify",
+  "desc": "Toolify is the largest AI tools directory & GPT Store Apps. Over 11100+ AI Websites and AI Tools. AI Tools list and GPTs Store Apps list are auto updated by ChatGPT.",
+  "link": "https://www.toolify.ai/",
+  "logo": "https://www.toolify.ai/favicon.ico",
+  "background": "rgba(113,80,230,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "GPTE",
   "desc": "GPTE - Free Database of 5,000+ AI Tools",
   "link": "https://gpte.ai",
@@ -137,16 +147,6 @@ tag:
 
 ```component VPCard
 {
-  "title": "어썸블로그",
-  "desc": "국내의 좋은 블로그 글들을 매일 배달해줍니다.",
-  "link": "https://awesome-blogs.petabytes.org/feeds?group=dev",
-  "logo": "https://awesome-blogs.petabytes.org/favicon.ico",
-  "background": "rgba(20,20,20,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "DDS",
   "desc": "Dead Simple Sites: The most minimal sites on the web, curated in one place.",
   "link": "https://deadsimplesites.com/",
@@ -164,6 +164,8 @@ tag:
   "background": "rgba(101,195,200,0.2)"
 }
 ```
+
+https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqVDzw/edit#gid=0
 
 ---
 

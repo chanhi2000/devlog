@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/5Vysh9wfPY1Ux6_mLsLSTykPDQ6jTIjpPgfaB227RO1VBJbahAu6zzgghJALWeJ9dQ07hGR3=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kDYovTfEAz0", "title": "Primitive Data Types VS Non Primitive Data Types" },
+    { "id": "5TC4NnrbMAU", "title": "Kotlin Android Interview Questions (6)" },
+    { "id": "6KVUl7bcoIw", "title": "Kotlin Android Interview Questions (5)" },
+    { "id": "SCYKNSXqO6k", "title": "ENUM VS Sealed Classes" },
+    { "id": "03eEznq_uwg", "title": "Top Kotlin Interview Q & A (2)" },
+    { "id": "jgOWY9LY44s", "title": "Top Kotlin Interview Q & A (1)" },
     { "id": "Rv4sDeYJ3gk", "title": "💘 How to Reduce Apk size ?" },
     { "id": "-aY7pjUULkc", "title": "Kotlin Interview Questions Android Devs Must Know (4)" },
     { "id": "6XQFHnNaekc", "title": "Kotlin Interview Questions Android Devs Must Know (3)" },

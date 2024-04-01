@@ -6,6 +6,28 @@
     "banner": "https://yt3.googleusercontent.com/4f_OE8YHRnDFI9sM81LYWUOznYObksSdBmukcb7_sUVM12b1HwrfNrrQAFXqcW33BLj9NOnxjg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "s3LvIWhBOtQ", "title": "Can C++ Data-oriented-design be Improved? - Ollivier Roberge - CppCon 2023" },
+    { "id": "K3P_Lmq6pw0", "title": "Single Producer Single Consumer Lock-free FIFO From the Ground Up - Charles Frasch - CppCon 2023" },
+    { "id": "YolkGP-rb3U", "title": "Advanced SIMD Algorithms in Pictures - Denis Yaroshevskiy - CppCon 2023" },
+    { "id": "PFI_rpboj8U", "title": "C++ Regular, Revisited - Victor Ciura - CppCon 2023" },
+    { "id": "izxuLq_HZHA", "title": "Evolution of a Median Algorithm in C++ - Pete Isensee - CppCon 2023" },
+    { "id": "juAZDfsaMvY", "title": "Back to Basics: The Rule of Five in C++ - Andre Kostur - CppCon 2023" },
+    { "id": "JHiBeuRqVkY", "title": "Khronos APIs for Heterogeneous Compute and Safety: SYCL and SYCL SC - CppCon 2023" },
+    { "id": "w6-FCWJrZko", "title": "Building Bridges: Leveraging C++ and ROS for Simulators, Sensor Data and Algorithms - CppCon 2023" },
+    { "id": "i5MAXAxp_Tw", "title": "Optimizing Away C++ Virtual Functions May Be Pointless - Shachar Shemesh - CppCon 2023" },
+    { "id": "ghXk3Bk5F2U", "title": "An Introduction to Tracy Profiler in C++ - Marcos Slomp - CppCon 2023" },
+    { "id": "dHxzADxQv48", "title": "C++ in the Developing World: Why it Matters - Mathew Benson - CppCon 2023" },
+    { "id": "nDyjCMnTu7o", "title": "Iteration Revisited: A Safer Iteration Model for Cpp - Tristan Brindle - CppCon 2023" },
+    { "id": "stfEry0zz5E", "title": "Designing Fast and Efficient List-like Data Structures - Yannic Bonenberger - CppCon 2023" },
+    { "id": "-Bth3PFsrsw", "title": "Building Consensus on a Set of Rules for Our Massive C++ Codebase - Sherry Sontag - CppCon 2023" },
+    { "id": "SVEYNEWZLo4", "title": "C++ Memory Model: from C++11 to C++23 - Alex Dathskovsky - CppCon 2023" },
+    { "id": "54LiB_OxPHE", "title": "Tips on Surveying the C++ Community - Anastasia Kazakova - CppCon 2023" },
+    { "id": "OWsepDEh5lQ", "title": "Better Code: Contracts in C++ - Sean Parent & Dave Abrahams - CppCon 2023" },
+    { "id": "wxzQXj6WW2E", "title": "Better Code: Exploring Validity in C++ - David Sankel - CppCon 2023" },
+    { "id": "NReDubvNjRg", "title": "Getting Started with C++ - Michael Price - CppCon 2023" },
+    { "id": "Et0ofYRi3fw", "title": "Abstraction Patterns for Cross Platform Development Using C++ - Al-Afiq Yeong - CppCon 2023" },
+    { "id": "xv7jf2jQezI", "title": "Building Effective Embedded Systems in C++: Architectural Best Practices - Gili Kamma - CppCon 2023" },
+    { "id": "rB7c69Z5Kus", "title": "Writing Python Bindings for C++ Libraries: Easy-to-use Performance - Saksham Sharma - CppCon 2023" },
     { "id": "BzwpdOpNFpQ", "title": "Managarm: A Fully Asynchronous OS Based on Modern C++ - Alexander van der Grinten - CppCon 2020" }
   ],
   "playlists": [

@@ -31,6 +31,12 @@ tag:
 
 ---
 
+## Medium
+
+- [`mcdonalds-technical-blog`: Reduce, reuse, recycle: McDonald’s reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
+
+---
+
 ## 인포그랩
 
 - [인포그랩의 소중한 자산입니다. 콘텐츠를 복사할 수 없는 점 너른 양해 부탁드립니다.](https://insight.infograb.net/blog/2023/08/29/gitlab-vs-github)
@@ -43,7 +49,7 @@ tag:
 
 ---
 
-## Simon Willison
+## Simon Willison’s TILs
 
 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping)
 

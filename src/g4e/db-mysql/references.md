@@ -89,4 +89,10 @@ tag:
 
 ---
 
+## lefred blog: tribulations of a MySQL Evangelist
+
+- [Javascript support in MySQL: the UUID example](https://lefred.be/content/javascript-support-in-mysql-the-uuid-example/)
+
+---
+
 <TagLinks />

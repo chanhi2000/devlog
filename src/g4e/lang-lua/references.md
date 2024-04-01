@@ -39,4 +39,10 @@ head:
 
 ---
 
+## 류광의 번역 이야기
+
+- [폴리글랏 .bat - 파이썬, 자바스크립트, 루아](https://occamsrazr.net/tt/398)
+
+---
+
 <TagLinks />

@@ -609,5 +609,15 @@
     "desc": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
     "officialSite": "https://getaegis.app",
     "topics": ["2fa", "android", "authenticator", "encryption", "fingerprint", "hacktoberfest", "hotp", "otp", "secure", "totp"]
+  }, {
+    "repo": "jagrosh/MusicBot",
+    "desc": "🎶 A Discord music bot that's easy to set up and run yourself!",
+    "officialSite": "https://jmusicbot.com",
+    "topics": ["discord", "discord-bot", "java", "jda", "music", "music-bot", "musicbot", "playlist", "playlists", "radio", "soundcloud", "youtube"]
+  }, {
+    "repo": "oracle/graal",
+    "desc": "GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+    "officialSite": "https://www.graalvm.org",
+    "topics": ["aot", "compiler", "graalvm", "java"]
   }
 ]

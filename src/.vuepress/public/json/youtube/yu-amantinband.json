@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/1p_F6MA_A8QqQlG5wgQ4-F8SCijBlpIZ8DQZ4tUZezFAOgH6yIOzyhGMEdqrvHpJPX7qect0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "M1jxLQu40qo", "title": "Dependency injection fundamentals in C# - DI vs IoC vs DIP" },
+    { "id": "E98p-sABx2I", "title": "Making LINQ Blazing fast with PLINQ (Parallel LINQ) | .NET & C# Essentials" },
+    { "id": "yjUCKSKCQxg", "title": "Dependency Injection Deep Dive | .NET & C# Essentials" },
+    { "id": "4NfflZilTvk", "title": "Stop returning custom error responses from your API. Do this instead." },
+    { "id": "b9qj3mK5JEM", "title": "Understand ASP.NET Web APIs in 9 Minutes" },
+    { "id": "cVQEKamdLK8", "title": "5 C# Naming Conventions I Wish Everyone Followed" },
     { "id": "DTmlhHu8tHA", "title": "The ULTIMATE Clean Architecture Project Template for .NET" },
     { "id": "eUW2CYAT1Nk", "title": "Clean Architecture vs Domain-Driven Design - Understand The Difference" },
     { "id": "Edj07MdcnLw", "title": "Why Developers Are OBSESSED With Obsidian" },

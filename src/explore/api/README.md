@@ -23,7 +23,7 @@ tag:
 <VPBanner
   title="Simple Icons"
   content="A 12 Lesson course teaching everything you need to know to start building Generative AI applications"
-  logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e391bf8a91ca06e38a8792fd01b/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f73696d706c6569636f6e732f3030302f666666"
+logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e391bf8a91ca06e38a8792fd01b/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f73696d706c6569636f6e732f3030302f666666"
   :actions='[
     {
       text: "Visit Now",
@@ -105,6 +105,7 @@ tag:
   "background": "rgba(42,38,87,0.2)"
 }
 ```
+
 
 ```component VPCard
 {
@@ -455,7 +456,25 @@ tag:
 }
 ```
 
-- [fonts-earlyaccess](https://fonts.google.com/earlyaccess): Google Fonts (Early Access)
+```component VPCard
+{
+  "title": "Browse Fonts - Google Fonts",
+  "desc": "Making the web more beautiful, fast, and open through great typography",
+  "link": "https://fonts.google.com/",
+  "logo": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg",
+  "background": "rgba(32,33,36,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "공공누리",
+  "desc": "",
+  "link": "https://www.kogl.or.kr/index.do",
+  "logo": "https://www.kogl.or.kr/static/kogl/img/common/logo.png",
+  "background": "rgba(0,165,137,0.2)"
+}
+```
 
 @tab Geospatial
 
@@ -559,6 +578,15 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "DWG to SHP Converter Online - MyGeodata Cloud",
+  "desc": "Discover fast and easy to use online conversion and transformation tool to convert DWG to SHP format - widely used in AutoCAD, ESRI ArcGIS and ArcView.",
+  "link": "https://mygeodata.cloud/converter/dwg-to-shp",
+  "logo": "https://mygeodata.cloud/favicon.ico",
+  "background": "rgba(51,122,183,0.2)"
+}
+```
 - [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
 
 @tab Network & Security
@@ -781,9 +809,12 @@ tag:
 
 - https://viperfish.com.au/games/pinnacle.html
 - https://workout.olzhasar.com/
-- [https://allrgb.com/kd-tree]
+- https://allrgb.com/kd-tree
 - https://oneminutefocus.com/
 - https://foldmation.com/
+- https://truncate.town/
+- https://susam.net/myrgb.html
+- https://pykidos.github.io/
 
 :::
 

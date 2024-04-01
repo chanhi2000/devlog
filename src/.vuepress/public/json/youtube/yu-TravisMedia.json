@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/c3c8tRqMTf640F5eoVLPPOBaOzZP0vpd8FENF4h71bZphDPK58jcmBGkJ-I6GFGoaXWBg4mq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1MWxLUOMZmk", "title": "YouTube Tech Influencers Are Not REAL Developers?" },
+    { "id": "2RmISQvpsrU", "title": "Binary Search in 3 Minutes | Algorithms For Self-Taught Developers" },
+    { "id": "ODk38qJ1A3U", "title": "The Rust Standard Library is SO Confusing...Until Now!" },
+    { "id": "68N5XMJWh88", "title": "The App YOU or I Could Have Built... ShipFast" },
+    { "id": "TqS4FMSxbrU", "title": "3 Amazing New Docker Features Explained | Build Cloud, Scout, Init" },
+    { "id": "MUImpPHNpvE", "title": "The Current State of AI and the Future of Developers" },
     { "id": "r2zuL9MW6wc", "title": "Kubernetes Explained in 15 Minutes | Hands On (2024 Edition)" },
     { "id": "FryJt0Tbt9Q", "title": "Every Developer NEEDS To Know 12-Factor App Principles" },
     { "id": "B_HR2R3xsnQ", "title": "5 Signs of an Inexperienced Self-Taught Developer (and how to fix)" },

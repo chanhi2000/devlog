@@ -173,6 +173,7 @@ tag:
 - [`@eunbinn` - [번역] 웹 푸시는 이제 iOS 17에서 사용할만합니다](https://velog.io/@eunbinn/web-push-ios17)
 - [`@juhee067` - Node.js: JavaScript를 브라우저 이상에서 실행할 수 있는 런타임](https://velog.io/@juhee067/Node.js)
 - [`@ksh4704` - 코드스테이츠-부트캠프 [Backend] 인증/보안(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Backend-%EC%9D%B8%EC%A6%9D%EB%B3%B4%EC%95%881)
+- [`@ansrjsdn` - JS Tagged Template literal Function](https://velog.io/@ansrjsdn/JS-Tagged-Template-literal-Function)
 
 ---
 
@@ -322,6 +323,7 @@ tag:
 - [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
 - [`@calebleak`: Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
 - [`baekkyoungjung`: 웹페이지 SEO, 성능, UX 최적화 한번에 하기](https://baekkyoungjung.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-seo-ux-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%9C%EB%B2%88%EC%97%90-%ED%95%98%EA%B8%B0-a529d233c521)
+- [`lemonabase`: 이거 어디까지 올라가는 거예요? - 성능 테스트 환경 구축기](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
 
 ---
 
@@ -721,7 +723,7 @@ tag:
 
 ---
 
-## Simon Willison
+## Simon Willison’s TILs
 
 - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 

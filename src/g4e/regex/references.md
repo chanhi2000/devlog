@@ -50,4 +50,10 @@ tag:
 
 ---
 
+## Seth Michael Larson
+
+- [Regex character “$” doesn't mean “end-of-string”](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
+
+---
+
 <TagLinks />

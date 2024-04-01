@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/rL9axs__25XMnS8Z6VCTfZw6xxaT-WfrwRUI5L5xBPnykIu6svzI2dh24VfmAqkgU8hOQQ5wMr8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Hf09ZCY9-8I", "title": "Building an event bus from scratch!" },
+    { "id": "nmTtY6VJuh8", "title": "Some laid back, early morning coding" },
+    { "id": "jgN-sT4raiI", "title": "Designing a framework can be difficult…" },
+    { "id": "nU0eSJ-v3N8", "title": "Working towards 1.0" },
+    { "id": "uWsGDUCxbT0", "title": "Let's talk about Pecl" },
+    { "id": "dKhMwfsh8VE", "title": "What \"a New Pecl\" looks like | Stream Highlight" },
+    { "id": "cZugbAR8Fyg", "title": "🎨 I wrote a code highlighter from scratch" },
+    { "id": "V-KLT3jOtCw", "title": "Composer.json for PHP extensions! | Stream Highlight" },
+    { "id": "cXEXLUxen60", "title": "\"Regex\" is my middle name" },
     { "id": "rx65AR3w0NY", "title": "I added a command bus…" },
     { "id": "bIo_ncBFGuA", "title": "I sat down with a Python dev…" },
     { "id": "w7Qd_cPc_IQ", "title": "The problem with dates" },

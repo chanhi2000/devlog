@@ -1208,5 +1208,10 @@
     "desc": "Arduino-based USB rotary controller for arcade Arkanoid, Tempest, etc.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "apache/kvrocks",
+    "desc": "Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.",
+    "officialSite": "https://kvrocks.apache.org/",
+    "topics": ["database", "distributed", "kv", "namespace", "redis", "redis-cluster"]
   }
 ]

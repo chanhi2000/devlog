@@ -188,4 +188,18 @@ tag:
 
 - [Infinite Mac: Turning To The Dark Side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html)
 
+---
+
+## ITWorld Korea
+
+- [“맥이 느려졌어요” 속도 개선 팁 20가지](https://www.itworld.co.kr/news/330839)
+
+---
+
+## blog.davep.org
+
+- [Homebrew all the Python things](https://blog.davep.org/2024/03/10/homebrew-all-the-python-things.html)
+
+---
+
 <TagLinks />

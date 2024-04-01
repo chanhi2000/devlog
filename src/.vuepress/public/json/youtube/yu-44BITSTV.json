@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/3nyxB4hDoEsxIusJ_PO-levqaXEzNhT3jHEh21gs2oA1u5lHsz-W-Lj99dN-MW_EnKA_l0LzXb8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "e3I7AZ2_XgU", "title": "199화 jQuery 4.0?! / 애플 비전프로 구입기" },
+    { "id": "OyOsqh9CzXM", "title": "[240310] 뉴스 AWS 이전 트래픽 비용 무료, 애플 페이 확대 움직임, dockerc 등" },
+    { "id": "K0VyMWXtt5U", "title": "201화 44bits.io 장애?! / 아이단의 온라인 강의 경험담" },
+    { "id": "QMsKenvwncs", "title": "[240313] 뉴스 Deno 패키지 매니저 JSR, 삼프로TV 상장 불발, 페이스북 인증 장애 등" },
+    { "id": "QSBb1-UywJ0", "title": "[240320] 뉴스 Hashicorp 매각설, AWS 데이터센터 신축설 등" },
     { "id": "QrnEO_wDIxc", "title": "44BITS 팟캐스트 라이브 #197" },
     { "id": "LbFOisQOT9g", "title": "197 우리 회사도 RSU 줄까? + Cloudflare의 트래픽 보고서" },
     { "id": "gwWbn1EL7Ps", "title": "OpenAI DevDay 요약" },

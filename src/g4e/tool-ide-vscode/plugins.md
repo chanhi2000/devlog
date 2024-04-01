@@ -145,7 +145,7 @@ tag:
   "background": "rgba(255, 255, 255, 0.2)"
 }
 ```
-
+<!-- 
 ```component VPCard
 {
   "title": "GitLens - Git supercharged (`eamodio.gitlens`)",
@@ -154,7 +154,8 @@ tag:
   "logo": "https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2022.12.2010/1671549214618/Microsoft.VisualStudio.Services.Icons.Default",
   "background": "rgba(255, 255, 255, 0.2)"
 }
-```
+``` 
+-->
 
 ```component VPCard
 {
@@ -166,6 +167,7 @@ tag:
 }
 ```
 
+<!--
 ```component VPCard
 {
   "title": "GitLive (`teamhub.teamhub`)",
@@ -174,7 +176,8 @@ tag:
   "logo": "https://teamhub.gallerycdn.vsassets.io/extensions/teamhub/teamhub/16.1.3/1671538872416/Microsoft.VisualStudio.Services.Icons.Default",
   "background": "rgba(0, 17, 51, 0.2)"
 }
-```
+``` 
+-->
 
 ```component VPCard
 {
@@ -223,6 +226,16 @@ tag:
   "link": "https://marketplace.visualstudio.com/items?itemName=zignd.html-css-class-completion",
   "logo": "https://zignd.gallerycdn.vsassets.io/extensions/zignd/html-css-class-completion/1.20.0/1608419199966/Microsoft.VisualStudio.Services.Icons.Default",
   "background": "rgba(255, 255, 255, 0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "jumpy (`wmaurer.vscode-jumpy`)",
+  "desc": "Jumpy provides fast cursor movement, inspired by Atom's package of the same name.",
+  "link": "https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy",
+  "logo": "https://wmaurer.gallerycdn.vsassets.io/extensions/wmaurer/vscode-jumpy/0.3.1/1477339064168/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(30,30,30,0.2)"
 }
 ```
 
@@ -348,6 +361,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Placeholder Images (`JakeWilson.vscode-placeholder-images`)",
+  "desc": "Generate and insert placeholder images into your HTML",
+  "link": "https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images",
+  "logo": "https://jakewilson.gallerycdn.vsassets.io/extensions/jakewilson/vscode-placeholder-images/0.1.0/1499508629226/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(239,241,243,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Polacode (`pnp.polacode`)",
   "desc": "📸 Polaroid for your code",
   "link": "https://marketplace.visualstudio.com/items?itemName=pnp.polacode",
@@ -408,6 +431,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Text Power Tools (`qcz.text-power-tools`)",
+  "desc": "All-in-one solution with 240+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.",
+  "link": "https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools",
+  "logo": "https://qcz.gallerycdn.vsassets.io/extensions/qcz/text-power-tools/1.47.1/1711006080740/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(30,65,94,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "TODO Highlight (`wayou.vscode-todo-highlight`)",
   "desc": "highlight TODOs, FIXMEs, and any keywords, annotations...",
   "link": "https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight",
@@ -438,11 +471,31 @@ tag:
 
 ```component VPCard
 {
+  "title": "SQLTools (`mtxr.sqltools`)",
+  "desc": "Connecting users to many of the most commonly used databases. Welcome to database management done right.",
+  "link": "https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools",
+  "logo": "https://mtxr.gallerycdn.vsassets.io/extensions/mtxr/sqltools/0.28.1/1699898095934/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(85,85,85,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Svg Preview (`SimonSiefke.svg-preview`)",
   "desc": "Preview for Svg files",
   "link": "https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview",
   "logo": "https://simonsiefke.gallerycdn.vsassets.io/extensions/simonsiefke/svg-preview/2.8.3/1581688879196/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(36, 43, 43, 0.2)"
+  "background": "rgba(36,43,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "vscode-faker (`deerawan.vscode-faker`)",
+  "desc": "Generate fake data for name, address, lorem ipsum, commerce and much more",
+  "link": "https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker",
+  "logo": "https://deerawan.gallerycdn.vsassets.io/extensions/deerawan/vscode-faker/2.0.0/1645010468208/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(239,241,243,0.2)"
 }
 ```
 
@@ -524,13 +577,14 @@ code --install-extension necinc.elmmet; #Elm Emmet
 code --install-extension dsznajder.es7-react-js-snippets; #ES7+ React/Redux/React-Native snippets
 code --install-extension vscjava.vscode-java-pack; #Extension Pack for Java
 code --install-extension mhutchie.git-graph; #Git Graph 
-code --install-extension eamodio.gitlens; #GitLens - Git supercharged
-code --install-extension teamhub.teamhub; #GitLive
+# code --install-extension eamodio.gitlens; #GitLens - Git supercharged
+# code --install-extension teamhub.teamhub; #GitLive
 code --install-extension vscjava.vscode-gradle; #Gradle for Java
 code --install-extension naco-siren.gradle-language; #Gradle Language Support
 code --install-extension visualstudioexptteam.vscodeintellicode; #IntelliCode
 code --install-extension visualstudioexptteam.intellicode-api-usage-examples; #IntelliCode API Usage Examples
 code --install-extension zignd.html-css-class-completion; #IntelliSense for CSS class names in HTML
+code --install-extension wmaurer.vscode-jumpy; #jumpy
 code --install-extension ms-toolsai.jupyter; #Jupyter
 code --install-extension ms-toolsai.jupyter-keymap; #Jupyter KeyMap
 code --install-extension ms-toolsai.jupyter-renderers; #Jupyter Notebook Renderers
@@ -543,17 +597,21 @@ code --install-extension bierner.markdown-mermaid; #Markdown Preview Mermaid Sup
 # code --install-extension davidanson.vscode-markdownlint; #markdownlint
 code --install-extension vscjava.vscode-maven; #Maven for Java
 code --install-extension fallenmax.mithril-emmet; #Mithril Emmet
+code --install-extension JakeWilson.vscode-placeholder-images; #Placeholder Images 
 code --install-extension pnp.polacode; #Polacode
 code --install-extension vscjava.vscode-java-dependency; #Project Manager for Java
 code --install-extension ms-python.vscode-pylance; #Pylance
 code --install-extension ms-python.python; #Python
 code --install-extension syler.sass-indented; #Sass
 code --install-extension vscjava.vscode-spring-initializr; #Spring Initializer Java Support
+code --install-extension qcz.text-power-tools; #Text Power Tools
 code --install-extension wayou.vscode-todo-highlight; # TODO Highlight
 code --install-extension Gruntfuggly.todo-tree # Todo Tree
 # code --install-extension wallabyjs.quokka-vscode; # Quokka.js
 code --install-extension humao.rest-client; # REST Client
+code --install-extension mtxr.sqltools; # SQLTools
 code --install-extension SimonSiefke.svg-preview; # Svg Preview
+code --install-extension deerawan.vscode-faker; # vscode-faker
 code --install-extension mikestead.dotenv # DotENV
 code --install-extension sidthesloth.html5-boilerplate # HTML Boilerplate
 code --install-extension yzhang.markdown-all-in-one # Markdown All in One
@@ -576,13 +634,14 @@ code --install-extension necinc.elmmet && REM Elm Emmet
 code --install-extension dsznajder.es7-react-js-snippets && REM ES7+ React/Redux/React-Native snippets
 code --install-extension vscjava.vscode-java-pack && REM Extension Pack for Java
 code --install-extension mhutchie.git-graph && REM Git Graph
-code --install-extension eamodio.gitlens && REM GitLens - Git supercharged
-code --install-extension teamhub.teamhub && REM GitLive
+REM code --install-extension eamodio.gitlens && REM GitLens - Git supercharged
+REM code --install-extension teamhub.teamhub && REM GitLive
 code --install-extension vscjava.vscode-gradle && REM Gradle for Java
 code --install-extension naco-siren.gradle-language && REM Gradle Language Support
 code --install-extension visualstudioexptteam.vscodeintellicode && REM IntelliCode
 code --install-extension visualstudioexptteam.intellicode-api-usage-examples && REM IntelliCode API Usage Examples
 code --install-extension zignd.html-css-class-completion && REM IntelliSense for CSS class names in HTML
+code --install-extension wmaurer.vscode-jumpy && REM jumpy
 code --install-extension ms-toolsai.jupyter && REM Jupyter
 code --install-extension ms-toolsai.jupyter-keymap && REM Jupyter KeyMap
 code --install-extension ms-toolsai.jupyter-renderers && REM Jupyter Notebook Renderers
@@ -596,16 +655,20 @@ REM code --install-extension davidanson.vscode-markdownlint && REM markdownlint
 code --install-extension vscjava.vscode-maven && REM Maven for Java
 code --install-extension fallenmax.mithril-emmet && REM Mithril Emmet
 code --install-extension pnp.polacode && REM Polacode
+code --install-extension JakeWilson.vscode-placeholder-images && REM Placeholder Images 
 code --install-extension vscjava.vscode-java-dependency && REM Project Manager for Java
 code --install-extension ms-python.vscode-pylance && REM Pylance
 code --install-extension ms-python.python && REM Python
 code --install-extension syler.sass-indented && REM Sass
 code --install-extension vscjava.vscode-spring-initializr && REM Spring Initializer Java Support
+code --install-extension qcz.text-power-tools && REM Text Power Tools
 code --install-extension wayou.vscode-todo-highlight && REM TODO Highlight
 code --install-extension Gruntfuggly.todo-tree && REM Todo Tree
 REM code --install-extension wallabyjs.quokka-vscode && REM Quokka.js
 code --install-extension humao.rest-client && REM REST Client
+code --install-extension mtxr.sqltools && REM SQLTools
 code --install-extension SimonSiefke.svg-preview && REM Svg Preview
+code --install-extension deerawan.vscode-faker && REM vscode-faker
 code --install-extension mikestead.dotenv && REM DotENV
 code --install-extension sidthesloth.html5-boilerplate && REM HTML Boilerplate
 code --install-extension yzhang.markdown-all-in-one && REM Markdown All in One

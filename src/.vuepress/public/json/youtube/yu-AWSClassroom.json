@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "dVw0XVcQ3cw", "title": "AWS를 너무 좋아하는 스타트업 개발자의 AWS 최애 서비스는?" },
+    { "id": "SnDDXVnqYmA", "title": "AWS Serverless 실전 아키텍처 : Serverless로 질문에 답하는 Slack 챗봇 만들기" },
+    { "id": "oa-6f8QyFyo", "title": "Amazon CloudFront 완벽 정리 정리 (3) : CloudFront Caching(캐싱)" },
+    { "id": "-r_S_kweXlk", "title": "Amazon CloudFront 완벽 정리  (1) : CloudFront  소개" },
+    { "id": "Vq7DFKZIllI", "title": "Amazon CloudFront 완벽 정리 정리 (2) : CloudFront Origin(원본)" },
+    { "id": "Z3lxE9rUsZo", "title": "Amazon CloudFront 완벽 정리 정리 (4) : CloudFront Behavior(동작)" },
+    { "id": "V8J5m2DyesQ", "title": "AWS 비용 초과 시 자동으로 리소스/지출 멈추는 방법" },
+    { "id": "6cekSiRVxDo", "title": "Amazon CloudFront 완벽 정리 정리 (5) : CloudFront 파일 관리" },
+    { "id": "piyx6c1zmTI", "title": "Autoscaling이 EC2 종료시키면 EC2 로그 S3로 백업하기" },
     { "id": "Ah0jXNfllAk", "title": "AWS입문자 강의(3): AWS 실습 시작 전 필수! AWS 과금 없이 사용해보는 방법 - AWS 프리티어!" },
     { "id": "rH0jL9U1R1U", "title": "성장하고 싶으면 질문은 제대로 해야합니다." },
     { "id": "E0j5wKIakEo", "title": "AWS가 직접 라이브로 준비한 입문자 강의 소개합니다 : AWS Builders 온라인 시리즈!" },

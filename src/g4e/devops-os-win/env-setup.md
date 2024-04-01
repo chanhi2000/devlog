@@ -269,4 +269,19 @@ neofetch
 
 ---
 
+## 기타 툴 
+
+```component VPCard
+{
+  "title": "윈도우클리너",
+  "desc": "기본 프로세서만 남겨두고 깨끗이 종료해드립니다.",
+  "link": "https://kcleaner.kilho.net/",
+  "logo": "https://kilho.net/favicon.png",
+  "background": "rgba(0,136,204,0.2)"
+}
+```
+
+
+---
+
 <TagLinks />

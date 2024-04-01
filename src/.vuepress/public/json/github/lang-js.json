@@ -2109,5 +2109,15 @@
     "desc": "WhatTheDuck is an open-source web application built on DuckDB. It allows users to upload CSV files, store them in tables, and perform SQL queries on the data. ",
     "officialSite": "https://whattheduck.incentius.com/",
     "topics": ["csv", "duckdb", "sql"]
+  }, {
+    "repo": "joone/fosscomics",
+    "desc": "Site generator for F/OSS Comics",
+    "officialSite": "https://fosscomics.com",
+    "topics": ["blog-engine", "comics", "static-site-generator"]
+  }, {
+    "repo": "soorajshankar/logScreen",
+    "desc": "Piping logs, visualising on a web app – just suffix \"| npx logscreen\" ",
+    "officialSite": "",
+    "topics": ["logs", "piping", "react", "web"]
   }
 ]

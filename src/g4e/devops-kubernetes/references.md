@@ -30,6 +30,12 @@ tag:
 
 ---
 
+## Kakao Pay
+
+- [환경미화 프로젝트(부제: 카카오페이 k8s에서 낭비되는 자원을 절약해 보자!)](https://tech.kakaopay.com/post/eco-ami/)
+
+---
+
 ## Linux Handbook
 
 - [Complete Beginner's Guide to Kubernetes Cluster Deployment on CentOS (and Other Linux)](https://linuxhandbook.com/kubernetes-cluster-deployment)

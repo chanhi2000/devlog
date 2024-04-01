@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "uengine5309",
+    "name": "uEngine",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lxbHESBvNwSRJVFGH_LNquQXSn5fspskrElEvi=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9FKk0zpfeOZLLb5PYO2Se-7F26WG9LE6mmQaQ2sQ0U3k9LFYqBgHnZ9bvLW--pz34_qbMBFO4uM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "K8jP9Zu-VAI", "title": "[Full] 생성형 AI를 이용한 SW아키텍처링과 마이크로서비스 구현" },
+    { "id": "UA7kYEk4sAk", "title": "process-gpt 채팅 기능 데모" },
+    { "id": "mRTGKSd8Jhg", "title": "process-gpt 인스턴스 실행 데모" },
+    { "id": "MtvHmdES6eQ", "title": "[cursor ide] vision 인식을 통한 생성" },
+    { "id": "Plo8Jffc91Y", "title": "[cursor ide] mention" },
+    { "id": "PTJGMI64hcE", "title": "[ai-coding] GPT-Engineer 이용 생성" },
+    { "id": "qUb1BWnyfkw", "title": "[LLM스쿨] CursorIDE를 활용한 분석-구현-리팩토링(디시전 테이블 활용)" }
+  ]
+}

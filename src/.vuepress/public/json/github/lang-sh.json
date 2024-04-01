@@ -369,5 +369,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Atlas-OS/Atlas",
+    "desc": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.",
+    "officialSite": "https://atlasos.net",
+    "topics": ["atlas", "atlasos", "debloat", "fps", "gaming", "latency", "open-source", "opensource", "performance", "privacy", "security", "tweaks", "windows"]
   }
 ]

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "nickproudprogrammer",
+    "name": "Nick Proud",
+    "profile": "https://yt3.googleusercontent.com/2f1g2WRvNG_WFdPxjMSAP7bY6tjgo32AKVZkHZUAlHZNTvqKAN2ernNbVZd-lNEvafKcot1ORA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-3tMeweZ3ShV7zeRCgTjzY_3wJt_oFljiLII2oHs_5yVK-ui_-_pe6e21AZMT1eWJDvDK5K52Cw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "TAGoid4u6PY", "title": "Mastering TCPListener in C#: Building Network Applications from Scratch" },
+    { "id": "AuKKFVSMxJc", "title": "Easy Guide to Creating Minimal APIs in ASP.NET" },
+    { "id": "4ZfFI4zV1Wc", "title": "Easy C# Tutorial - Understand Attributes and Write your Own!" }
+  ]
+}

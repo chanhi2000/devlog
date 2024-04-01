@@ -24,4 +24,10 @@ tag:
 
 ---
 
+## Photon Designer
+
+- [Create a quiz app with HTMX and Django in 8 mins ☑️](https://www.photondesigner.com/articles/quiz-htmx)
+
+---
+
 <TagLinks />

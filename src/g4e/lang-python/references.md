@@ -151,6 +151,7 @@ tag:
 ## Bite code!
 
 - [This is valid Python syntax](https://www.bitecode.dev/p/this-is-valid-python-syntax)
+- [Analyzing "Sorting a million 32-bit integers in 2MB of RAM using Python"](https://www.bitecode.dev/p/analyzing-sorting-a-million-32-bit)
 
 ---
 
@@ -431,6 +432,7 @@ tag:
 ## 멈춤보단 천천히라도
 
 - [pyQt5에서 libGL error: MESA-LOADER: failed to open 에러 발생시 해결방법입니다. ](https://webnautes.tistory.com/2302)
+- [`qt.qpa.plugin`: Could not load the Qt platform plugin "xcb" 에러 해결 방법](https://webnautes.tistory.com/2303)
 
 ---
 
@@ -443,7 +445,116 @@ tag:
 - [[백준] 11501번: 주식 - python](https://findsilverlining.tistory.com/21)
 - [[백준] 1012번: 유기농 배추 - python](https://findsilverlining.tistory.com/22)
 - [[백준] 1697번: 숨바꼭질 - python](https://findsilverlining.tistory.com/23)
+- [[백준] 7562번: 나이트의 이동 - python](https://findsilverlining.tistory.com/25)
+- [[백준] 2583번: 영역 구하기 - python](https://findsilverlining.tistory.com/26)
+- [[백준] 9657번: 돌 게임 3 - python](https://findsilverlining.tistory.com/27)
+- [[백준] 1931번: 회의실 배정 - python](https://findsilverlining.tistory.com/28)
+- [[백준] 1541번: 잃어버린 괄호 - python](https://findsilverlining.tistory.com/29)
+- [[백준] 1929번: 소수 구하기 - python](https://findsilverlining.tistory.com/36)
+- [[백준] 11653번: 소인수분해 - python](https://findsilverlining.tistory.com/37)
+---
 
+## [ 프로페셔널 프로그래머 ]
+
+- [[ Python By Example #02 ]](https://blog.naver.com/cybervictor008/223397016205)
+
+---
+
+## Codeit;
+
+- [[코딩백과101] 파이썬 에러 TOP7 (오류 메시지 종류와 해결 방법)](https://blog.naver.com/codeitofficial/223397232283?)
+
+---
+
+## Kani Kim Dev
+
+- [Domain Driven Design for FastAPI(파이썬 FastAPI를 위한 도메인 주도 디자인) - Layered Architecture(계층적 구조)](https://kimkani.tistory.com/59)
+
+---
+
+## Daddy Makers
+
+- [몬테카를로 시뮬레이션 기반 주가 예측](https://daddynkidsmakers.blogspot.com/2024/03/blog-post_30.html)
+
+---
+
+## Yun Blog
+
+- [Locust 성능 테스트 도구 소개](https://cheese10yun.github.io/locust-part-1/)
+
+---
+
+## 류광의 번역 이야기
+
+- [폴리글랏 .bat - 파이썬, 자바스크립트, 루아](https://occamsrazr.net/tt/398)
+
+---
+
+## mobidev
+
+- [Python App Development: In-Depth Guide for Product Owners](https://mobidev.biz/blog/python-app-development-guide)
+
+---
+
+## blog.davep.org
+
+- [Homebrew all the Python things](https://blog.davep.org/2024/03/10/homebrew-all-the-python-things.html)
+
+---
+
+## Codebeez
+
+- [The memory footprint of your Python application](https://codebeez.nl/blogs/the-memory-footprint-of-your-python-application/)
+
+---
+
+## Applied Cartography
+
+- [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
+
+---
+
+## MLJAR
+
+- [How to create Dashboard in Python from PostgreSQL](https://mljar.com/blog/postgresql-dashboard-python/)
+
+---
+
+## Tyler Kennedy
+
+- [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
+
+---
+
+## TestDriven.io
+
+- [Building a Single Page Application with Python and Pyodide - Part 2](https://testdriven.io/blog/build-spa-with-python-part-2/)
+- [How Are Requests Processed in Flask?](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
+- [Parallelism, Concurrency, and AsyncIO in Python - by example](https://testdriven.io/blog/python-concurrency-parallelism/)
+
+---
+
+## datapythonista blog
+
+- [How fast can we process a CSV file](https://datapythonista.me/blog/how-fast-can-we-process-a-csv-file)
+
+---
+
+## Piglei
+
+- [6 ways to improve the architecture of your Python project (using import-linter)](https://www.piglei.com/articles/en-6-ways-to-improve-the-arch-of-you-py-project/)
+
+---
+
+## Ned Batchelder
+
+- [Does Python have pointers?](https://nedbatchelder.com/blog/202403/does_python_have_pointers.html)
+
+---
+
+## mathspp
+
+- [Python `deque` tutorial](https://mathspp.com/blog/python-deque-tutorial)
 
 ---
 

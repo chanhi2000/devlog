@@ -829,5 +829,25 @@
     "desc": "A new project to resume development on the formerly open-source Redis project. Name is placeholder.",
     "officialSite": "",
     "topics": ["cache", "database", "key-value", "key-value-store", "nosql", "redis"]
+  }, {
+    "repo": "valkey-io/valkey",
+    "desc": "A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",
+    "officialSite": "https://valkey.io",
+    "topics": ["cache", "database", "key-value", "key-value-store", "nosql", "redis"]
+  }, {
+    "repo": "buserror/libmui",
+    "desc": "Classic MacOS & GS/OS widget library for linux (and other?)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "skx/lighthouse-of-doom",
+    "desc": "A simple text-based adventure game",
+    "officialSite": "https://steve.fi/Software/lighthouse/",
+    "topics": ["adventure-game", "console-application", "cpm", "game", "spectrum", "z80", "z80asm", "zx-spectrum", "zxspectrum"]
+  }, {
+    "repo": "ossc-db/pg_hint_plan",
+    "desc": "Extension adding support for optimizer hints in PostgreSQL",
+    "officialSite": "",
+    "topics": []
   }
 ]

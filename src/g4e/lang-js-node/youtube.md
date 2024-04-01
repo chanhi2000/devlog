@@ -47,7 +47,6 @@ head:
 <MyYouTubeItems jsonName="yu-WesBos" /><!-- Wes Bos -->
 <MyYouTubeItems jsonName="yu-nomadcoders" /><!-- 노마드 코더 Nomad Coders -->
 <MyYouTubeItems jsonName="yu-CodingArtist" /><!-- Coding Artist -->
-<MyYouTubeItems jsonName="yu-codedamn" /><!-- codedamn -->
 <MyYouTubeItems jsonName="yu-TylerPotts" /><!-- Tyler Potts -->
 <MyYouTubeItems jsonName="yu-jherr" /><!-- Jack Herrington -->
 <MyYouTubeItems jsonName="yu-brianmmdev" /><!-- Brian Morrison -->

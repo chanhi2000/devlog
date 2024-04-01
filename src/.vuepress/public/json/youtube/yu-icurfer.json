@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "64TG9TjczSk", "title": "정보처리기사 | 스키마란?" },
     { "id": "IC9lFyR-UQQ", "title": "python 실습 | 3. python 가상화 설정 및 django 시작하기" },
     { "id": "j6jU3RuOYF4", "title": "우분투 리눅스 입문 | 0. 오리엔테이션 및 가상머신 생성 VirtualBox 7.0" },
     { "id": "E8tjqAknkLY", "title": "우분투 리눅스 입문 | 1. MobaXterm, vi 에디터, apache2 설치" },

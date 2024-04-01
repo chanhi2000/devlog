@@ -87,4 +87,16 @@ tag:
 
 ---
 
+## Seungdols Company
+
+- [Conventional commit plugin 추천 - commit prefix 자동화를 하자.](https://seungdols.tistory.com/1017)
+
+---
+
+## ITWorld Korea
+
+- [비주얼 스튜디오 코드로 생산성을 높이는 10가지 방법](https://www.itworld.co.kr/news/330552)
+
+---
+
 <TagLinks />

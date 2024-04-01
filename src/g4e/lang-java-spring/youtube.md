@@ -77,5 +77,6 @@ head:
 <MyYouTubeItems jsonName="yu-Telusko" /><!-- Telusko  -->
 <MyYouTubeItems jsonName="yu-GainJavaKnowledge" /><!-- Gain Java Knowledge -->
 <MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
+<MyYouTubeItems jsonName="yu-dev.mminsu" /><!-- dev.mminsu -->
 
 <TagLinks />

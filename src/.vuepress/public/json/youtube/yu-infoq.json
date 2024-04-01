@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/RqmkiNd-NF7fWJJTKJC07I7I03BWmfmZiJrBAYKcRACGXj4DcEuR5autu5oY-Z-r57AZAKwu3Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QVQPhOHBWBk", "title": "The Rise of the Serverless Data Architectures" },
+    { "id": "mDJSH40ufRY", "title": "Generally AI Episode 3: The Founders of CS and AI" },
+    { "id": "paTtLhZFsGE", "title": "How Netflix Ensures Highly-Reliable Online Stateful Systems" },
+    { "id": "AECR8WMHjv0", "title": "AWS Lambda Under the Hood" },
+    { "id": "4ND6lCzofrM", "title": "Generally AI Episode 5: Making Waves" },
     { "id": "D7qDt-I_q6I", "title": "Wasm: What is Universal Compute Good For?" },
     { "id": "lLbcvGgxCPg", "title": "The Joy of Building Large Scale Systems" },
     { "id": "3hN-WvY3ptc", "title": "Hard Problems in Front-End Platforms" },

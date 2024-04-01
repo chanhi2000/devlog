@@ -53,6 +53,7 @@ tag:
 ## Jonathan Katz
 
 - [PGVECTOR 0.5.0 FEATURE HIGHLIGHTS AND HOWTOS](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0)
+- [DISTRIBUTED QUERIES FOR PGVECTOR](https://jkatz05.com/post/postgres/distributed-pgvector/)
 
 ---
 
@@ -161,6 +162,31 @@ tag:
 ## pgvecto.rs
 
 - [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
+- [pgvector vs. pgvecto.rs in 2024: A Comprehensive Comparison for Vector Search in PostgreSQL](https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql)
+
+---
+
+## Stormatics
+
+- [PostgreSQL Internals Part 2: Understanding Page Structure](https://stormatics.tech/blogs/postgresql-internals-part-2-understanding-page-structure)
+
+---
+
+## InfoQ
+
+- [Relational Data at the Edge: How Cloudflare Operates Distributed PostgreSQL Clusters](https://www.infoq.com/articles/cloudflare-distributed-postgres/)
+
+---
+
+## Pinaraf's website
+
+- [Look ma, I wrote a new JIT compiler for PostgreSQL](https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/)
+
+---
+
+## CYBERTEC
+
+- [RECOVERING DELETED DATA FROM POSTGRESQL TABLES](https://www.cybertec-postgresql.com/en/recovering-deleted-data-from-postgresql-tables/)
 
 ---
 

@@ -84,6 +84,12 @@ tag:
 
 ---
 
+## 류광의 번역 이야기
+
+- [폴리글랏 .bat - 파이썬, 자바스크립트, 루아](https://occamsrazr.net/tt/398)
+
+---
+
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217

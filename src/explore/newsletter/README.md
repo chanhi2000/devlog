@@ -46,7 +46,7 @@ tag:
 {
   "title": "어썸데브블로그",
   "desc": "국내 개발/기술 블로그 모음(only 실명으로).",
-  "link": "https://awesome-devblog.netlify.app/",
+  "link": "https://awesome-devblog.netlify.app/korean/people/feeds",
   "logo": "https://awesome-devblog.netlify.app/favicon.ico",
   "background": "rgba(230,230,230,0.2)"
 }
@@ -59,6 +59,27 @@ tag:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "어썸블로그",
+  "desc": "국내의 좋은 블로그 글들을 매일 배달해줍니다.",
+  "link": "https://awesome-blogs.petabytes.org/feeds?group=dev",
+  "logo": "https://awesome-blogs.petabytes.org/favicon.ico",
+  "background": "rgba(20,20,20,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
+  "desc": "Everyday Engineering Challenges",
+  "link": "https://blog.ideaharbour.site/engineering/",
+  "logo": "https://blog.ideaharbour.site/engineering/wp-content/uploads/sites/3/2024/03/cropped-android-chrome-512x512-1-192x192.png",
+  "background": "rgba(27,132,21,0.2)"
+
 }
 ```
 

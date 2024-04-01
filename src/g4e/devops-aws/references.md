@@ -94,6 +94,13 @@ tag:
 ## 개발하는 기획자 기획하는 개발자
 
 - [탄력적 IP 적용하기](https://blog.naver.com/gi_balja/223394021270)
+- [Route53과 도메인 연결](https://blog.naver.com/gi_balja/223398889777)
+
+---
+
+## clean up the desk
+
+- [[aws summit seoul 2023] 당신만 모르고 있는 AWS 컨트롤 타워 트렌드](https://cleanupthedesk.tistory.com/70)
 
 ---
 

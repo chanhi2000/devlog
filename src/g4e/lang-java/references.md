@@ -25,6 +25,11 @@ tag:
 - [Can JPA be persuaded to convert between eg UUIDs and Strings?](https://stackoverflow.com/questions/8446378/can-jpa-be-persuaded-to-convert-between-eg-uuids-and-strings)
 - [Spring JPA repoistory findBy IN List - allow null](https://stackoverflow.com/questions/28898132/spring-jpa-repoistory-findby-in-list-allow-null)
 
+### G마켓 기술블로그
+
+- [설계란 고민의 연속이다 1편](https://dev.gmarket.com/104)
+
+
 ### 우아한 기술블로그
 
 - [Java Enum 활용기](https://techblog.woowahan.com/2527)
@@ -93,12 +98,9 @@ tag:
 
 - [`@qkrtkdwns3410`: [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
 - [`@qkrtkdwns3410`: FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
--[`@qkrtkdwns3410`: [알고리즘] 주차요금 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0)
+- [`@qkrtkdwns3410`: [알고리즘] 주차요금 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0)
 - [`@dradnats1012`: DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
 - [`@danjr`: 이스케이프 문자열](https://velog.io/@danjr/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
-
-
-
 
 ### Douglas Schmidt
 
@@ -201,6 +203,21 @@ tag:
 - [[Test] `static` 블록 vs `@BeforeClass`](https://shout-to-my-mae.tistory.com/413)
 - [Java가 확장한 객체 지향 (`abstract`, 생성자, `static`, `final`, `this`, `super`)](https://shout-to-my-mae.tistory.com/414)
 
+### 컴공생의 발자취
+
+- [[ 99클럽 코테 스터디 3일차 TIL ] 문자열에서 index 위치의 문자 반환 및 형변환 (char to int & String to Array)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C-index-%EC%9C%84%EC%B9%98%EC%9D%98-%EB%AC%B8%EC%9E%90-%EB%B0%98%ED%99%98-%EB%B0%8F-char-to-int-%ED%98%95%EB%B3%80%ED%99%98)
+
+### 류광의 번역 이야기
+
+- [폴리글랏 .bat - 파이썬, 자바스크립트, 루아](https://occamsrazr.net/tt/398)
+
+### ITWorld Korea
+
+- [자바의 새로운 부드러움에 익숙해지기](https://www.itworld.co.kr/news/330776)
+
+### InfoQ
+
+- [Java 22 Delivers Foreign Memory & Memory API, Unnamed Variables & Patterns, and Return of JavaOne](https://www.infoq.com/news/2024/03/java22-released/)
 
 ---
 
@@ -264,6 +281,10 @@ tag:
 ### 개발하는 곰돌이
 
 - [[Kotlin] 백준 13199 : 치킨 먹고 싶다](https://colabear754.tistory.com/208)
+
+### Square Lab
+
+- [죽임 당한 컨테이너 (exit status 143)](https://squarelab.co/blog/argo-exit-status-143/)
 
 ---
 

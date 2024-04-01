@@ -46,6 +46,7 @@ head:
 - [`@jj362`: 스프링 Security를 유닛테스트하라! - 토큰을 공유하는 애플리케이션 서버들](https://velog.io/@jj362/%EC%8A%A4%ED%94%84%EB%A7%81-Security%EB%A5%BC-%EC%9C%A0%EB%8B%9B%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%9D%BC-%ED%86%A0%ED%81%B0%EC%9D%84-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B2%84%EB%93%A4)
 - [`@lehdqlsl`: SpringBoot JPA Multiple Databases 설정](https://velog.io/@lehdqlsl/SpringBoot-JPA-Multiple-Databases-%EC%84%A4%EC%A0%95)
 - [`@jwpark06`: SpringBoot에 JDBC로 Postgresql 연동하기](https://velog.io/@jwpark06/SpringBoot%EC%97%90-JDBC%EB%A1%9C-Postgresql-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+- [`@stella6767`: 니들은 MSA 하지마라](https://velog.io/@stella6767/%EB%8B%88%EB%93%A4%EC%9D%80-MSA-%ED%95%98%EC%A7%80%EB%A7%88%EB%9D%BC)
 
 ---
 

@@ -28,7 +28,6 @@ tag:
 - [<FontIcon icon="fa-brands fa-reddit"/>`r/datascience`](https://www.reddit.com/r/datascience)
 - [SmartDataCollective](https://www.smartdatacollective.com)
 - [Codementor Blog](https://www.codementor.io/blog)
-- [DataTau](https://datatau.net)
 - [Kaggle Blog](https://medium.com/kaggle-blog)
 - [data.world Blog](https://data.world/blog)
 - [mode Blog](https://mode.com/blog)

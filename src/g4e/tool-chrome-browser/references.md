@@ -53,4 +53,10 @@ tag:
 
 ---
 
+## Simon Willison’s TILs
+
+- [Google Chrome `--headless` mode](https://til.simonwillison.net/chrome/headless)
+
+---
+
 <TagLinks />

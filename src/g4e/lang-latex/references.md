@@ -54,6 +54,12 @@ tag:
 
 ---
 
+## Chris Cummins
+
+- [Typesetting the LaTeX way](https://chriscummins.cc/2013/typesetting/)
+
+---
+
 ## Tool(s)
 
 - [Equation Editor for online mathematics](https://editor.codecogs.com)

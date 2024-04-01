@@ -281,6 +281,7 @@ head:
 - [Microtask Queue + RxJS + Angular](https://itnext.io/microtask-queue-rxjs-angular-ac3d8612d3f6)
 - [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
 - [A Modern Approach to React Development](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)
+- [`junghan92` - (번역) 리액트 컴파일러의 타입 시스템](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EC%9D%98-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-177486489096)
 
 ---
 
@@ -512,39 +513,9 @@ head:
 
 ---
 
-## Clien
-
-- [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(1) 세팅편](https://www.clien.net/service/board/lecture/17960697)
-- [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(2) Vue.js적용](https://www.clien.net/service/board/lecture/17962453)
-- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(3)프론트 작업1](https://www.clien.net/service/board/lecture/17964735)
-- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(4)프론트 작업2](https://www.clien.net/service/board/lecture/17966827)
-- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(5)테이블 작업](https://www.clien.net/service/board/lecture/17969157)
-- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(6)로또정보 얻어오기](https://www.clien.net/service/board/lecture/17970633)
-- [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(7)RestAPI 및 마무리](https://www.clien.net/service/board/lecture/17972239)
-
----
-
-## BGSSM
-
-- [Vue.js: v-on:click을 사용해 해당 요소(element)의 DOM 가져오기](http://yoonbumtae.com/?p=2810)
-
----
-
-## The Codest
-
-- [Writing documentation has become easy thanks to VuePress](https://thecodest.co/blog/writing-documentation-has-become-easy-thanks-to-vuepress)
-
----
-
 ## Marvin Hagemeister
 
 - [Speeding up the JavaScript ecosystem - Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6)
-
----
-
-## rockyourcode 
-
-- [Use Environment Variables With VuePress 2](https://www.rockyourcode.com/use-environment-variables-with-vuepress-2)
 
 ---
 
@@ -590,12 +561,6 @@ head:
 
 ---
 
-## 冴羽的JavaScript博客
-
-- [VuePress 博客如何开启本地 HTTPS 访问](https://segmentfault.com/a/1190000041416203/en)
-
----
-
 ## Sindre Sorhus
 
 - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
@@ -620,10 +585,23 @@ head:
 
 ---
 
+## serpiko
+
+- [React Hook Form (useState-less 패턴)](https://serpiko.tistory.com/903)
+- [React Hook Form: FormProvider-`useFormContext`](https://serpiko.tistory.com/904)
+- [react using state when you don't need it](https://serpiko.tistory.com/905)
+
+---
+
+## Life Log
+
+- [10만건 이상의 데이터 in front (테이블 개선)](https://ravenkim97.tistory.com/400)
+
+---
+
 ## Misc
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
-- [Can I use](https://caniuse.com)
 - [Create Next Stack: The ultimate starter kit for Next.js](https://www.create-next-stack.com)
 
 ---

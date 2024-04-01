@@ -4634,5 +4634,70 @@
     "desc": "Real-time audio source separation, generate lyrics, chords, beat.",
     "officialSite": "https://lamucal.ai",
     "topics": []
-  }
+  }, {
+    "repo": "agiresearch/AIOS",
+    "desc": "AIOS: LLM Agent Operating System",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Zejun-Yang/AniPortrait",
+    "desc": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "harry0703/MoneyPrinterTurbo",
+    "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "officialSite": "",
+    "topics": ["automation", "chatgpt", "moviepy", "python", "shortvideo", "tiktok"]
+  }, {
+    "repo": "tiangolo/typer",
+    "desc": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+    "officialSite": "https://typer.tiangolo.com/",
+    "topics": ["cli", "click", "python", "python3", "shell", "terminal", "typehints", "typer"]
+  }, {
+    "repo": "TMElyralab/MuseV",
+    "desc": "MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "StableFluffy/LogicKor",
+    "desc": "한국어 언어모델 다분야 사고력 벤치마크",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "simonw/shot-scraper",
+    "desc": "A command-line utility for taking automated screenshots of websites",
+    "officialSite": "https://shot-scraper.datasette.io",
+    "topics": ["playwright", "playwright-python", "scraping", "screenshot-utility", "screenshots"]
+  }, {
+    "repo": "paveldedik/ludic",
+    "desc": "🌳 Lightweight framework for building dynamic HTML pages in pure Python.",
+    "officialSite": "https://ludic.readthedocs.io",
+    "topics": ["async", "html-css-js", "htmx", "python"]
+  }, {
+    "repo": "Delgan/loguru",
+    "desc": "Python logging made (stupidly) simple",
+    "officialSite": "",
+    "topics": ["log", "logger", "logging", "python"]
+  }, {
+    "repo": "pyutils/line_profiler",
+    "desc": "Line-by-line profiling for Python",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zmievsa/cadwyn",
+    "desc": "Production-ready community-driven modern Stripe-like API versioning in FastAPI",
+    "officialSite": "https://docs.cadwyn.dev/",
+    "topics": ["api", "api-versioning", "code-generation", "fastapi", "hints", "json-schema", "pydantic", "python", "python310", "python311", "python312", "stripe", "versioning"]
+  }, {
+    "repo": "rommapp/romm",
+    "desc": "A beautiful, powerful, self-hosted rom manager",
+    "officialSite": "https://romm.website",
+    "topics": ["emulation", "open-source", "retrogaming", "rommapp", "self-hosted"]
+  }, {
+    "repo": "cohere-ai/BinaryVectorDB",
+    "desc": "Efficient vector database for hundred millions of embeddings.",
+    "officialSite": "",
+    "topics": []
+  }  
 ]
