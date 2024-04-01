@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/H8_4Waa8bWh5flJA7Epnpbd7zKo7nbKG9p-dqGOXSjbscK0RmNaxUcB2mOgxK4O8SF9fXAiOcA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tZKL364H8ho", "title": "Gatling Beginners Tutorial | Correlation | Dynamic Referencing" },
+    { "id": "Ou1OHS_fXi0", "title": "Gatling Step by Step Masterclass | Part 1" },
+    { "id": "Ie2k_BM-_1U", "title": "Gatling Step by Step Masterclass | Part 2" },
+    { "id": "SQnzfJ7nmwU", "title": "Gatling Step by Step Masterclass | Part 3" },
+    { "id": "MHq57q42hFI", "title": "Gatling Step by Step Masterclass | Part 4" },
+    { "id": "mJjPxwielpg", "title": "Gatling Step by Step Masterclass | Part 5" },
+    { "id": "EnsevjAnO44", "title": "Gatling Maven Project Setup Demo | Command Line Runs" },
+    { "id": "NAHISnYuN_4", "title": "Testim Beginner Tutorial 3 | Top Features of Testim with DEMO" },
     { "id": "-ecG6B_jNW8", "title": "HOW TO SWITCH JAVA VERSION and SET JAVA_HOME PATH ON MAC OS M1 M2" },
     { "id": "SW5MAG4YFJE", "title": "TestCafe | 4 | VS Code Extensions" },
     { "id": "LsOZ40VCzP8", "title": "#AskRaghav | 4 Scenario based interview Ques | Performance Testing" },

@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "pLy2hm7_70o", "title": "Senior Angular Developer Interview (theory)" },
+    { "id": "glUGdUGF7JI", "title": "Pagination + Infinite Scroll = Ultimate Hybrid Pagination" },
     { "id": "SXdrsLXakNg", "title": "Let's code Realistic 3D card with HTML/CSS/JavaScript" }
   ]
 }

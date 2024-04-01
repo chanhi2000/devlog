@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "t_coding",
+    "name": "티코딩 - 설명할 줄 알아야 아는거라 했음",
+    "profile": "https://yt3.googleusercontent.com/nMqMjfupu9ZBXSYgfEWRmcvk82GAgnwAeHbppRIERITMeSPj6gXVhcY3o_YFPX5ObgQ9KjXL4Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "dMhKxLawPUA", "title": "프로젝트 언제까지 될까요?(미안..열심히 할게 내 자신아...)" },
+    { "id": "aPiq5YAEg28", "title": "프로젝트 규모가 작다면 무조건 JPA" },
+    { "id": "Bh_BGBrHRdQ", "title": "저도요.." }
+  ]
+}

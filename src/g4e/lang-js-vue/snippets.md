@@ -16,11 +16,11 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🌲Vue.js > Snippets
+      content: Vue.js > Snippets
     - property: og:description
-      content: 🌲Vue.js > Snippets
+      content: Vue.js > Snippets
     - property: og:url
-      content: https://chanhi2000.github.io/g4e/lang-js-vue/references.html
+      content: https://chanhi2000.github.io/g4e/lang-js-vue/snippets.html
 ---
 
 # {{ $frontmatter.title }} 관련

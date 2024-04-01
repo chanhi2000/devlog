@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "aMfBeXD_rnE", "title": "Infinite Pagination Component With React Query" },
+    { "id": "TWzcHZG9Qxo", "title": "Introducing Project React" },
+    { "id": "upM6p0eIdw8", "title": "Building a Mock API in React" },
+    { "id": "Gp95bKdmfok", "title": "Build a Reusable Component in React (Shadcn/ui, Tailwind)" },
+    { "id": "DwiwRop1rvk", "title": "Most Common React Interview Question" },
     { "id": "cc_xmawJ8Kg", "title": "React Hook Form - Complete Tutorial (with Zod)" },
     { "id": "3RvGXNcR1YE", "title": "Sequence Diagrams for React applications" },
     { "id": "tLPi3SPqUSE", "title": "Single Responsibility Principle in React (Design Patterns)" },

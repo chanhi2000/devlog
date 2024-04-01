@@ -185,6 +185,12 @@ tag:
 
 ---
 
+## JHyeok
+
+- [Node.js에서 MySQL 8 버전에 연결할 때 발생하는 오류 해결하기](https://jhyeok.com/nodejs-mysql8/)
+
+---
+
 ## Misc
 
 - [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)

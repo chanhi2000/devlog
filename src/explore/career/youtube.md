@@ -1,0 +1,26 @@
+---
+lang: ko-KR
+title: Youtube
+description: Career > Youtube
+icon: fa-brands fa-youtube
+category: 
+  - Explore
+  - Career
+  - Youtube
+tag: 
+  - youtube
+  - yt
+  - career
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+<MyYouTubeItems jsonName="yu-t_coding" /><!-- 티코딩 - 설명할 줄 알아야 아는거라 했음 -->
+
+---
+
+<TagLinks />

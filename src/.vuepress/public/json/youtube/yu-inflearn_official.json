@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/yICc3vYIirxKwjiVTqAPJvaQUuyFDS84kCRrM5qGCWrOvx9MuxmwjAYCZ9eQyAI6sA0Lvo10qg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tUVu_hg3QF8", "title": "임베디드 MCU SW 신입 개발자를 위한 필수 기초 지식ㅣ 신입사원에게 들려주는 - MCU SW 직무 기초 개념완성" },
+    { "id": "F3gEkZirFMU", "title": "Gitlab을 활용한 빠르고 안전한 배포 파이프라인 (CI/CD) 만들기│결국 gitops를 해야 하는 이유?" },
+    { "id": "QGUdBUXwNho", "title": "AWS, 그럴듯하게 운영해보기 | 인프런 퇴근길 밋업 #05 인프라 & AWS" },
     { "id": "eRfHp16qJq8", "title": "개발자를 위한 쉬운 도커 (2024 NEW) | 컨테이너, 도커, 쿠버네티스의 개념을 엄청 쉽게 알려드려요." },
     { "id": "cotti29Dphk", "title": "디자이너 Q&A - 어떤 도메인이 나랑 잘 맞을까요?" },
     { "id": "-ATPFJ7HRPs", "title": "내 맘처럼 안되는 사이드 프로젝트 제대로 해보기│인프런 퇴근길 밋업 #04 사이드 프로젝트" },

@@ -15,9 +15,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🌲Vue.js > References
+      content: Vue.js > References
     - property: og:description
-      content: 🌲Vue.js > References
+      content: Vue.js > References
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-js-vue/references.html
 ---

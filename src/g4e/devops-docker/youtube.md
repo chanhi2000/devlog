@@ -101,6 +101,7 @@ tag:
 <MyYouTubeItems jsonName="yu-testhivemanchester5873" /><!-- Test Hive Manchester -->
 <MyYouTubeItems jsonName="yu-SeekerLabs" /><!-- Seeker Labs -->
 <MyYouTubeItems jsonName="yu-christianlempa" /><!-- Christian Lempa -->
+<MyYouTubeItems jsonName="yu-NickJanetakis" /><!-- Nick Janetakis -->
 <MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
 
 <TagLinks />

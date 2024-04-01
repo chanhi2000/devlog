@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/0t-I4m8giX3HMKGofGRsEBXUyhMC3tOw7lmfNw3uIFU16QK2T3isUNJiOrTiNDCOO5Lbr0nuYM0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ExQIlmtAntk", "title": "Biotech Special: ML at Recursion with Jordan Christensen and Imran Haque" },
+    { "id": "6cRF2hKfA1Q", "title": "Portal 64 with James Lambert" },
+    { "id": "k3p90bM1aoM", "title": "Biotech Special: BigHat Bio with Eddie Abrams" },
+    { "id": "JMCzjZLaq-A", "title": "Graphical Photorealism with Andrew Price the Blender Guru" },
+    { "id": "aoFPTS5uAq4", "title": "Biotech Special: Scientific Computing Pipelines with Evan Floden" },
+    { "id": "QN7tys4O_co", "title": "Bringing Godot to Mobile with Hein-Pieter van Braam" },
+    { "id": "IyMV01Y2PI8", "title": "C# Compiler and Language Design at Microsoft with Jared Parsons" },
+    { "id": "Q_j9t28fOPQ", "title": "Biotech Special: Life Science Data Analysis with Nicholas Larus-Stone" },
+    { "id": "iQkDXJ5agLI", "title": "Netlify and Edge Computing with Erica Pisani" },
     { "id": "tUwCvHMwx7Y", "title": "Jetbrains AI with Jodie Burchell" },
     { "id": "h0jPyyHmC58", "title": "Netflix UIs at Scale with Shaundai Person" },
     { "id": "KJgCkKAmDE8", "title": "Blender with Sybren Stüvel" },

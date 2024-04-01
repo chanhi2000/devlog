@@ -93,7 +93,7 @@ head:
 <MyYouTubeItems jsonName="yu-bbocute_main" /><!-- 뽀큐트 -->
 <MyYouTubeItems jsonName="yu-KkukTV" /><!-- 꾹TV(Kkuk TV) -->
 <MyYouTubeItems jsonName="yu-korea.decoration" /><!-- 생각하는 개미도배 -->
-<MyYouTubeItems jsonName="yu-lifetips3695" /><!-- 생활속꿀팁 -->
+<MyYouTubeItems jsonName="yu-Life-tips365" /><!-- 생활속꿀팁 -->
 <MyYouTubeItems jsonName="yu-pltechkorea" /><!-- 피엘테크 -->
 <MyYouTubeItems jsonName="yu-rala" /><!-- 랄라의살림기록 -->
 <MyYouTubeItems jsonName="yu-TheMoneyGPS" /><!-- The Money GPS -->
@@ -113,5 +113,6 @@ head:
 <MyYouTubeItems jsonName="yu-user-ok8rp7yx5p" /><!-- 복지수호신 김신 -->
 <MyYouTubeItems jsonName="yu-happyloo2023" /><!-- 해피루, 도그토토 -->
 <MyYouTubeItems jsonName="yu-HoneyJamini" /><!-- 꿀잼미니 -->
+<MyYouTubeItems jsonName="yu-bbocute_main" /><!-- 뽀큐트 -->
 
 <TagLinks />

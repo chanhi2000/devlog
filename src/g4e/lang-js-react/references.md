@@ -67,6 +67,12 @@ head:
 
 ---
 
+## Toss
+
+- [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024)
+
+---
+
 ## traversymedia
 
 - [MERN Crash Course (Part 2) - React Frontend UI, State Management With Redux Toolkit](https://www.traversymedia.com/blog/mern-crash-course-part-2)
@@ -142,12 +148,14 @@ head:
 ## velog
 
 - [[Javascript Toy Project] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [@wooder2050 - JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
-- [@edie_ko - JavaScript | Class 클래스](https://velog.io/@edie_ko/JavaScript-Class-%ED%81%B4%EB%9E%98%EC%8A%A4)
-- [@bbumjun - [TIL] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
-- [@superlipbalm - (번역) 자바스크립트 Import Map에 대해 알아야 할 모든 것](https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps)
-- [@eunbinn - [번역] 웹 푸시는 이제 iOS 17에서 사용할만합니다](https://velog.io/@eunbinn/web-push-ios17)
+- [`@wooder2050` - JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
+- [`@edie_ko` - JavaScript | Class 클래스](https://velog.io/@edie_ko/JavaScript-Class-%ED%81%B4%EB%9E%98%EC%8A%A4)
+- [`@bbumjun` - [TIL] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
+- [`@superlipbalm` - (번역) 자바스크립트 Import Map에 대해 알아야 할 모든 것](https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps)
+- [`@eunbinn` - [번역] 웹 푸시는 이제 iOS 17에서 사용할만합니다](https://velog.io/@eunbinn/web-push-ios17)
 - [`@yerini` - 면접질문-2](https://velog.io/@yerini/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8-2)
+- [`@surim014` - [번역] 리액트가 컴파일될 예정입니다](https://velog.io/@surim014/react-19-will-be-compiled)
+- 
 ---
 
 ## Okta

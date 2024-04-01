@@ -235,6 +235,10 @@ export const navbarEn = navbar([
         text: '🐑Haskell',
         link: 'https://chanhi2000.github.io/crashcourse/haskell/'
       }, {
+        text: 'Docker',
+        icon: 'fa-brands fa-docker',
+        link: 'https://chanhi2000.github.io/crashcourse/docker/'
+      }, {
         text: 'Kubernetes',
         icon: 'fas fa-dharmachakra',
         link: 'https://chanhi2000.github.io/crashcourse/kubernetes/'

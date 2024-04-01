@@ -20,9 +20,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ⚛React.js > Github
+      content: React.js > Github
     - property: og:description
-      content: ⚛React.js > Github
+      content: React.js > Github
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-js-react/github.html
 ---

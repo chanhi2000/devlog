@@ -171,4 +171,11 @@ tag:
 
 ---
 
+## Jeremy's Blog
+
+- [Stacked Diffs(Stacked PR)](https://sungjk.github.io/2024/03/17/stacked-diffs.html)
+
+---
+
+
 <TagLinks />

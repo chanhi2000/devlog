@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "dyson",
+    "name": "다이슨",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lWBAoV0gs17uSOAv8kbwZiqrgNPyjyJ5Qed9Rg3g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8TCVpi_lrXQx0mkSaqEjHBOyjgggI0RBSf4ZHtJMlhVarqKvJy7aDBVsnyEgY20ft17t5b3dm_Y=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pEvzp9ExgpU", "title": "The engineering story behind the Dyson Supersonic r™  Professional hair dryer" }
+  ]
+}

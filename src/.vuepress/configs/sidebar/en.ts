@@ -549,7 +549,7 @@ export const sidebarEn = sidebar({
       icon: 'fa-brands fa-jenkins',
       children: [
         '/g4e/ci-jenkins/README.md',
-        '/g4e/ci-jenkins/template.md',
+        '/g4e/ci-jenkins/snippets.md',
         '/g4e/ci-jenkins/references.md',
         '/g4e/ci-jenkins/youtube.md',
       ]
@@ -900,6 +900,7 @@ export const sidebarEn = sidebar({
         '/explore/career/README.md',
         '/explore/career/hiring.md',
         '/explore/career/exam.md',
+        '/explore/career/youtube.md',
         '/explore/career/references.md',
       ]
     }

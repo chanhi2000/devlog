@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🌲Vue.js > Youtube
+description: Vue.js > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🌲Vue.js
+  - Vue.js
   - Youtube
 tag: 
   - js
@@ -16,9 +16,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🌲Vue.js > Youtube
+      content: Vue.js > Youtube
     - property: og:description
-      content: 🌲Vue.js > Youtube
+      content: Vue.js > Youtube
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-js-vue/youtube.html
 ---

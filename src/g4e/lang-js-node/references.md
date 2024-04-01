@@ -174,6 +174,14 @@ tag:
 - [`@juhee067` - Node.js: JavaScript를 브라우저 이상에서 실행할 수 있는 런타임](https://velog.io/@juhee067/Node.js)
 - [`@ksh4704` - 코드스테이츠-부트캠프 [Backend] 인증/보안(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Backend-%EC%9D%B8%EC%A6%9D%EB%B3%B4%EC%95%881)
 - [`@ansrjsdn` - JS Tagged Template literal Function](https://velog.io/@ansrjsdn/JS-Tagged-Template-literal-Function)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%881)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(2)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%882)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(3)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%883)
+- [`@kyj2471` - 프로토 타입](https://velog.io/@kyj2471/%ED%94%84%EB%A1%9C%ED%86%A0-%ED%83%80%EC%9E%85)
+- [`@kyj2471` - 클로저](https://velog.io/@kyj2471/%ED%81%B4%EB%A1%9C%EC%A0%80)
+- [`@kyj2471` - 콜백함수](https://velog.io/@kyj2471/%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98)
+- [`@kyj2471` - This](https://velog.io/@kyj2471/This)
+
 
 ---
 
@@ -768,6 +776,18 @@ tag:
 ## Lost Pixels
 
 - [Building an interactive plotter art installation](https://lostpixels.io/writings/building-interactive-plotter-art)
+
+---
+
+## The NodeSource Blog
+
+- [Enhancing Node.js Core: Introducing Support for Synchronous ESM Graphs](https://nodesource.com/blog/enhancing-nodejs-esm-graphs)
+
+---
+
+## JusticeHui가 PS하는 블로그
+
+- [네이버 Yorkie TF 인턴 생존기](https://justicehui.github.io/review/2024/03/30/naver-intern-review/)
 
 ---
 

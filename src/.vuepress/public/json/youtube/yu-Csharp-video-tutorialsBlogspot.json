@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/cLeRiq17ue28QJpfoNL9fIh2fdfI_85Va-fPHCpiGp_g5HumZSMj_nFy8PIj3K7QLhHNl-cVIOM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WNQ9Y3PlJec", "title": "MAUI - Syncfusion : Data Visualization: Maps - 1" },
+    { "id": "vgF0xvNvEoU", "title": "MAUI - Syncfusion : Data Visualization: Maps - 2" },
+    { "id": "qafV-vvXEpA", "title": "MAUI - Syncfusion : Data Visualization: Maps - 3" },
+    { "id": "b2trzC-8w-0", "title": "How to create QR Codes and Barcodes in .NET MAUI" },
+    { "id": "d6SsvhlHZZQ", "title": ".NET MAUI TreeMap Component" },
     { "id": "h9isIpC4Dls", "title": "MAUI - Syncfusion : Data Visualization : Radial and Funnel Chart" },
     { "id": "aWRAq2TggYw", "title": "MAUI - Syncfusion : Data Visualization : Pyramid and Radial Guage Charts" },
     { "id": "SWNQ9ZpTeeg", "title": "MAUI - Syncfusion : Data Visualization : Radial Gauge Charts 2 - Pointers and Annotations" },

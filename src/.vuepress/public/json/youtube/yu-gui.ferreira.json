@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/L768wRh4C9YEDL4q7JPD-0bQfT6gUChrGAivVfP_tVuq-y3Hf1K_sTI1PM11XH7lnMuqNh86dg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "paYrVKO1Pi4", "title": "The NETFLIX Way to Keep Your .NET APIs Reliable" },
+    { "id": "ydI-lztt2zY", "title": "How to Survive a Layoff (as a developer)" },
+    { "id": "-y_-ID3Sp74", "title": "10 Tools EVERY Software Engineer Should Know" },
+    { "id": "XtUftqJK8mE", "title": "3 Tips to Clean Exception Handling" },
+    { "id": "N0IHV6Q7lms", "title": "Stop returning null collections" },
     { "id": "nk9BUPKgN_k", "title": "Kiota - The NEW OpenAPI SDK Generator" },
     { "id": "fU9b7frZX_c", "title": "Do NOT Use Int IDs In Your API" },
     { "id": "RvSjkPovozU", "title": "How to Gracefully Cancel .NET Application Work in 2 minutes" },

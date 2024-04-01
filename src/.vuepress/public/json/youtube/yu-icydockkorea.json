@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "icydockkorea",
+    "name": "ICY DOCK 코리아",
+    "profile": "https://yt3.googleusercontent.com/PPxmz44XfKyxFAiINpeHM5LwgFXACMFBIUfX8WRGz2-RcMpTUv6fplR8zKWOq2-AHAAUDyWF1w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HWNDjN79fbi_dnwLe_30gRcTJKbZRCmj1zIX6znS7cqcYy8moZ5hu3zIX_5Fys90p3CBuZfMcUE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DgxpB89FMGs", "title": "Tri-mode 카드 지원 | 8x M.2 NVMe SSD PCIe 4.0 모바일 랙, 8x OCuLink SFF-8612 | ToughArmor MB873MP- B V2" },
+    { "id": "YCgWgUeJfcE", "title": "8베이 2.5\" SAS/SATA HDD/SSD 하드랙 5.25\" 디바이스 베이 수용 | 고밀도 스토리지 | ExpressCage MB038SP-B" }
+  ]
+}

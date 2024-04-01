@@ -162,4 +162,17 @@ tag:
 
 ---
 
+## Justine Tunney's Web Page
+
+- [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+
+---
+
+## hiddenest
+
+- [llm은 모르지만 뭔가 만들고 싶어서](https://hiddenest.dev/three-hours-of-llm)
+
+---
+
+
 <TagLinks/>

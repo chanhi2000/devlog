@@ -10,7 +10,6 @@ tag:
   - "java"
   - "jdk"
   - "youtube"
-  - "@MikesTechCorner"
   - "@KeepToo"
   - "@naveenautomationlabs"
   - "@java0405"
@@ -123,7 +122,6 @@ head:
 
 ---
 
-<MyYouTubeItems jsonName="yu-MikesTechCorner" /><!-- Mike Møller Nielsen -->
 <MyYouTubeItems jsonName="yu-KeepToo" /><!-- KeepToo -->
 <MyYouTubeItems jsonName="yu-naveenautomationlabs" /><!-- Naveen AutomationLabs -->
 <MyYouTubeItems jsonName="yu-java0405" /><!-- 김기태의 JAVA를 자바 -->

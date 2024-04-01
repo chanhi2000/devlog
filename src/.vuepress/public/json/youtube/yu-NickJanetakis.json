@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "d1Rggflybhk", "title": "Create Read-Only AKA Immutable Variables in Bash" },
+    { "id": "L7wBIlFgHX4", "title": "Docker Tip #97: Save and Load Docker Images from a Zip File" },
+    { "id": "uq5VWPDCtFo", "title": "Git Diff 2 Different Commits, Tags or Branches" },
+    { "id": "1HFu-1cSB8I", "title": "My Origin Story with Docker and Why I'm Using It 10 Years Later" },
     { "id": "p7HXjZEYXzI", "title": "Color Your Shell Prompt Red If the Last Command Threw an Error" },
     { "id": "P8Y_Aw4H260", "title": "Hiding User Input in a Shell Script" },
     { "id": "jtc28pCkN0k", "title": "Build Multi-CPU Architecture Docker Images with Buildx" },

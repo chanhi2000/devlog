@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ⚡Template
-description: Jenkins > ⚡Template
+title: Snippets
+description: Jenkins > Snippets
+icon: fas fa-eye-dropper
 category:
   - Jenkins
-  - ⚡Template
+  - Snippets
 tag: 
   - jenkins
   - cicd

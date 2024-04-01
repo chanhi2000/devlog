@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/96CjkSA_n8umhsLd8TLqn7mV4wzeXNhMBGMGriQgEUuRMJBT9jSNmU_gHAr_zbmiwz10ytuE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "c7uJoKpVo-U", "title": "Selenium With C# Training Trial Class 2 | Part 2" },
+    { "id": "f-p-ypV5XhE", "title": "Selenium With C# Training Trial Class 2 | Part 1" },
+    { "id": "dJ7IVPyiL0M", "title": "Selenium With C# Trial Class 3 | Part 2" },
+    { "id": "e7madT5FcRM", "title": "Selenium With C# Trial Class 3 | Part 1" },
     { "id": "lqYWzeNpLRE", "title": "Selenium with Java | Trial Class 5 | Whizdom Trainings | Sep 2020" }, 
     { "id": "f_nbmsO7H6o", "title": "Selenium with Java | Trial Class 3 | Whizdom Trainings | Sep 2020" }, 
     { "id": "prb26bsv0bA", "title": "#Grouping and Parameterize Test Cases Assertions | #Selenium with #Python" }, 

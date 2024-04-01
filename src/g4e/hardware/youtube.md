@@ -21,6 +21,8 @@ tag:
 ---
 
 <MyYouTubeItems jsonName="yu-ThePhawx" /><!-- The Phawx -->
+<MyYouTubeItems jsonName="yu-gardiner_bryant" /><!-- Gardiner Bryant -->
+<MyYouTubeItems jsonName="yu-icydockkorea" /><!-- ICY DOCK 코리아 -->
 
 ---
 

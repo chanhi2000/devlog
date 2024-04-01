@@ -1329,5 +1329,15 @@
     "desc": "A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.",
     "officialSite": "",
     "topics": ["grafana", "grafana-dashboard", "monitoring", "prometheus", "ssh"]
+  }, {
+    "repo": "amlweems/xzbot",
+    "desc": "notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "pufferffish/wireproxy",
+    "desc": "Wireguard client that exposes itself as a socks5 proxy",
+    "officialSite": "",
+    "topics": ["golang", "network", "proxy", "socks5", "socks5-proxy", "vpn", "wireguard", "wireguard-tunnel"]
   }
 ]

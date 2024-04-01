@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/gzYqW5hmeAoMcpSeBBOqcWUPa8r0Qe-kaHr17UVUmfEaibEzEZrrJuHk10sHB4IiIIm-G-dgLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vW5H69scGac", "title": "Annotating Images with OpenCV: A Step-by-Step Guide" },
+    { "id": "BA00xTv5-Z4", "title": "Image Thresholding in OpenCV" },
+    { "id": "XsbNUeAZmqI", "title": "Mouse and Trackbar Functions in OpenCV | OpenCV Tutorial" },
+    { "id": "Qz0AJjGGMbM", "title": "Mouse & Trackbar Functions using OpenCV" },
+    { "id": "rAOtQZsrmgE", "title": "YOLOv9: Advancing the YOLO Legacy" },
+    { "id": "onoPBDAB3ps", "title": "Deciphering LLMs: From Transformers to Quantization" },
     { "id": "qapu53dL8bU", "title": "Image Resizing with OpenCV - Tutorial" },
     { "id": "OkBfpY0dXCY", "title": "OpenCV Simplified: Read, Display & Write Images | Beginner's Guide" },
     { "id": "o0KDTwa0cR0", "title": "Image Filtering with Convolution in OpenCV" },

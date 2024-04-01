@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: ⚛React.js > Youtube
+description: React.js > Youtube
 icon: fa-brands fa-youtube
 category:
-  - ⚛React.js
+  - React.js
   - Youtube
 tag: 
   - js
@@ -20,9 +20,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ⚛React.js > Youtube
+      content: React.js > Youtube
     - property: og:description
-      content: ⚛React.js > Youtube
+      content: React.js > Youtube
     - property: og:url
       content: https://chanhi2000.github.io/g4e/lang-js-react/youtube.html
 ---
@@ -88,6 +88,6 @@ head:
 <MyYouTubeItems jsonName="yu-WebChainDev" /><!-- WebChain Dev -->
 <MyYouTubeItems jsonName="yu-ClarityCoders" /><!-- ClarityCoders -->
 <MyYouTubeItems jsonName="yu-codedamn" /><!-- Mehul - Codedamn -->
-
+<MyYouTubeItems jsonName="yu-GreatStackDev" /><!-- GreatStack -->
 
 <TagLinks />

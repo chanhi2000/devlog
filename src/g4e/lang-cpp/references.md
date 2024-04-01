@@ -38,7 +38,8 @@ tag:
 ## 프로그래머 김성엽
 
 - [[Q&A] vector에 객체를 직접 대입하는 경우...](https://blog.naver.com/tipsware/223395160791)
-- [printf 함수의 형식 지정자 실습용 프로그램 - Step 2](https://blog.naver.com/tipsware/223400595787)
+- [`printf` 함수의 형식 지정자 실습용 프로그램 - Step 2](https://blog.naver.com/tipsware/223400595787)
+- [일정한 간격으로 파일 생성하기](https://blog.naver.com/tipsware/223401287814)
 
 ---
 

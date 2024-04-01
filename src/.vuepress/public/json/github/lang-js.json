@@ -2104,7 +2104,7 @@
     "desc": "Proxy server that generates API specs for any app or website on localhost.",
     "officialSite": "http://portway.ai",
     "topics": ["api", "apidoc-generator", "devtools", "documentation-generator", "generator", "openapi", "openapi-specification", "openapi3", "proxy-server", "specification"]
-  }, {
+}, {
     "repo": "incentius-foss/WhatTheDuck",
     "desc": "WhatTheDuck is an open-source web application built on DuckDB. It allows users to upload CSV files, store them in tables, and perform SQL queries on the data. ",
     "officialSite": "https://whattheduck.incentius.com/",
@@ -2119,5 +2119,10 @@
     "desc": "Piping logs, visualising on a web app – just suffix \"| npx logscreen\" ",
     "officialSite": "",
     "topics": ["logs", "piping", "react", "web"]
+  }, {
+    "repo": "basecamp/trix",
+    "desc": "A rich text editor for everyday writing",
+    "officialSite": "https://trix-editor.org/",
+    "topics": ["custom-elements", "editor", "javascript", "rich-text-editor", "text-editor", "wysiwyg", "wysiwyg-editor"]
   }
 ]

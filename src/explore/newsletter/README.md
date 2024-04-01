@@ -64,6 +64,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Outsider's Dev Story",
+  "desc": "Stay Hungry. Stay Foolish. Don't Be Satisfied.",
+  "link": "https://blog.outsider.ne.kr/category/Newsletter",
+  "logo": "https://blog.outsider.ne.kr/favicon.ico",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "어썸블로그",
   "desc": "국내의 좋은 블로그 글들을 매일 배달해줍니다.",
   "link": "https://awesome-blogs.petabytes.org/feeds?group=dev",

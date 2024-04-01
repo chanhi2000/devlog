@@ -38,5 +38,7 @@ tag:
 <MyYouTubeItems jsonName="yu-tambuwalmathsclass" /><!-- Tambuwal Maths Class -->
 <MyYouTubeItems jsonName="yu-very-normal" /><!-- Very Normal -->
 <MyYouTubeItems jsonName="yu-AplusB7" /><!-- AplusB -->
+<MyYouTubeItems jsonName="yu-blackpenredpen" /><!-- blackpenredpen -->
+<MyYouTubeItems jsonName="yu-1minMathScience" /><!-- 1분영국수학과학 -->
 
 <TagLinks />

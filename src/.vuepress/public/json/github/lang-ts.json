@@ -2493,5 +2493,15 @@
     "desc": "flect is a Python framework for building full-stack web applications.",
     "officialSite": "https://flect.celerforge.com/docs/introduction/",
     "topics": ["fastapi", "fastui", "next", "pydantic", "react-router", "reactjs", "shadcn-ui"]
+  }, {
+    "repo": "heyform/heyform",
+    "desc": "HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.",
+    "officialSite": "https://heyform.net",
+    "topics": ["form", "quiz", "survey"]
+  }, {
+    "repo": "wandb/openui",
+    "desc": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+    "officialSite": "",
+    "topics": []
   }
 ]

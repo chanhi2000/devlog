@@ -4699,5 +4699,20 @@
     "desc": "Efficient vector database for hundred millions of embeddings.",
     "officialSite": "",
     "topics": []
-  }  
+  }, {
+    "repo": "MsLolita/grass",
+    "desc": "grass-mining",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "TencentARC/BrushNet",
+    "desc": "The official implementation of paper \"BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion\"",
+    "officialSite": "https://tencentarc.github.io/BrushNet/",
+    "topics": ["diffusion", "diffusion-models", "image-inpainting", "text-to-image"]
+  }, {
+    "repo": "infiniflow/ragflow",
+    "desc": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+    "officialSite": "https://ragflow.io",
+    "topics": ["data-pipelines", "deep-learning", "document-parser", "document-understanding", "information-retrieval", "llm", "llmops", "machine-learning", "nlp", "ocr", "orchestration", "pdf-to-text", "preprocessing", "rag", "retrieval-augmented-generation", "table-structure-recognition"]
+  }
 ]

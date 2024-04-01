@@ -220,5 +220,10 @@
     "desc": "WireQuery is a full-stack session replay tool. Using WireQuery, you can see how a user experiences an issue through a video-like frontend recording. Combined with an overview of the network calls to the backend (including network calls further upstream and their actual payload), you get a holistic overview of how an issue came into existence.",
     "officialSite": "http://www.wirequery.io",
     "topics": ["debugging", "distributed-tracing", "observability", "session-replay", "tracing", "traffic-analysis"]
+  }, {
+    "repo": "bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "officialSite": "",
+    "topics": ["brook", "daze", "fanqiang", "goflyway", "lightsocks", "proxy", "psiphon", "shadowsocks", "ssr", "trojan", "v2ray"]
   }
 ]

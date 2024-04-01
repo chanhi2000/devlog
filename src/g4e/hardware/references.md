@@ -59,4 +59,9 @@ tag:
 
 ---
 
+## Old Vintage Computing Research
+
+- [Refurb weekend: Data General/One (and the worst LCD in the world)](https://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
+---
+
 <TagLinks />

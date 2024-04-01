@@ -815,7 +815,8 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 - https://truncate.town/
 - https://susam.net/myrgb.html
 - https://pykidos.github.io/
-
+- https://parallel-arabic.com/
+- 
 :::
 
 ---

@@ -1,18 +1,19 @@
 ---
 lang: ko-KR
-title: ⚡Template
-description: ⚡Template
-category: 
-  - ⚡Template
+title: Snippets
+description: Markdown > Snippets
+icon: fas fa-eye-dropper
+category:
+  - Markdown
+  - Snippets
 tag: 
   - markdown
-  - bash
+  - sh
   - cli
   - md
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 
@@ -20,7 +21,7 @@ tag:
 
 ## Directory Tree
 
-```bash
+```sh
 ├── data
 │   ├── train
 │   ├── test
@@ -33,7 +34,7 @@ tag:
 └── run.sh
 ``` 
 
-```bash
+```sh
 ├─Github
 │  │  README.md
 │  ├─docs

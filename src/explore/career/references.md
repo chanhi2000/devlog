@@ -21,7 +21,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -51,6 +50,10 @@ tag:
 - [Being laid off in 2023-2024 as an early-career developer](https://fpsvogel.com/posts/2024/early-career-developer-job-search-after-layoffs)
 
 ---
+
+## Medium
+
+- [`delightroom` - 1년 만에 성공한 온보딩 실험 작업기](https://medium.com/delightroom/1%EB%85%84-%EB%A7%8C%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%9C-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8B%A4%ED%97%98-%EC%9E%91%EC%97%85%EA%B8%B0-5b96330a3bb3)
 
 ## 당근
 
@@ -135,6 +138,7 @@ tag:
 ## 프로페셔널 프로그래머
 
 - [안 하는 것과 못하는 것](https://blog.naver.com/cybervictor008/223399042771)
+- [가장 중요한 것은?](https://blog.naver.com/cybervictor008/223401802404)
 
 ---
 
@@ -180,6 +184,25 @@ tag:
 ## InfoQ
 
 - [How Platform and Site Reliability Engineering Are Evolving DevOps](https://www.infoq.com/articles/platform-sre-evolving-devops/)
+
+---
+
+
+## Leading Developers
+
+- [You are firing people too late](https://zaidesanton.substack.com/p/you-are-firing-people-too-late)
+
+---
+
+## MOBA Blog
+
+- [PM의 생산적인 일정관리 방법, Time Blocking](https://blog.moba.works/timeblocking/)
+
+---
+
+## Dmitry Kudryavtsev
+
+- [The Curse of the Senior Software Engineer](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/)
 
 ---
 

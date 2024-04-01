@@ -849,5 +849,10 @@
     "desc": "Extension adding support for optimizer hints in PostgreSQL",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "raygard/wak",
+    "desc": "wak -- an awk implementation for toybox and standalone",
+    "officialSite": "",
+    "topics": []
   }
 ]

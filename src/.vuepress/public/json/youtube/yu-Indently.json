@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/0DSeePNUmxbTH0UDOmqF4_wQaWu8BIo0UWkR7qgCQLDG4_lr-Zt91TVMZHH3c1EGZA7Xf-Id=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I72uD8ED73U", "title": "5 Good Python Habits" },
+    { "id": "sQ1Q96-Vhjk", "title": "5 Uncommon Python Features I Love" },
+    { "id": "PoSxMZALVgo", "title": "3 Bad Python Habits To Avoid" },
+    { "id": "3_P-dxrNCq8", "title": "5 Useful Python Decorators (ft. Carberra)" },
+    { "id": "aa39jL7wdJs", "title": "5 More Useful F-String Tricks In Python" },
+    { "id": "Y9fT4HVdCuQ", "title": "Python: A Quick Guide To Type Annotations (ft. Mypy)" },
+    { "id": "Ffeb5ibQDP0", "title": "5 Random Useful Python Functions" },
     { "id": "I8ov3Phpon4", "title": "BEST Practises For SIMPLE Benchmarks In Python" },
     { "id": "5Ka8oD3U4GA", "title": "I Can't Believe THIS Works In Python #code #python #programming" },
     { "id": "JvMh6yshgFo", "title": "“NEVER Worry About Performance In Python” #python #programming #coding" },
