@@ -36,7 +36,6 @@ tag:
 <MyYouTubeItems jsonName="yu-devaslife" /><!-- devaslife -->
 <MyYouTubeItems jsonName="yu-nadocoding" /><!-- 나도코딩 -->
 <MyYouTubeItems jsonName="yu-edurekaIN" /><!-- edureka! -->
-<MyYouTubeItems jsonName="yu-LearnitTraining" /><!-- Learnit Training -->
 <MyYouTubeItems jsonName="yu-CodingEntrepreneurs" /><!-- CodingEntrepreneurs -->
 <MyYouTubeItems jsonName="yu-claydesk" /><!-- ClayDesk E-Learning -->
 <MyYouTubeItems jsonName="yu-Intellipaat" /><!-- Intellipaat -->

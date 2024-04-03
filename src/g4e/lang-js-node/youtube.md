@@ -57,12 +57,9 @@ head:
 <MyYouTubeItems jsonName="yu-VicodeMedia" /><!-- Vicode Media -->
 <MyYouTubeItems jsonName="yu-dongbinna" /><!-- 동빈나 -->
 <MyYouTubeItems jsonName="yu-MinjunKim" /><!-- Minjun Kim -->
-<MyYouTubeItems jsonName="yu-academind" /><!-- Academind -->
 <MyYouTubeItems jsonName="yu-KaizenCodes" /><!-- Kaizen Codes -->
-<MyYouTubeItems jsonName="yu-JustinJackson" /><!-- Justin Jackson -->
 <MyYouTubeItems jsonName="yu-pluralsight" /><!-- Pluralsight -->
 <MyYouTubeItems jsonName="yu-CodingTutorials360" /><!-- Dylan Israel -->
-<MyYouTubeItems jsonName="yu-developedbyed" /><!-- developedbyed -->
 <MyYouTubeItems jsonName="yu-AdrianTwarog" /><!-- Adrian Twarog -->
 <MyYouTubeItems jsonName="yu-AdamWathan" /><!-- Adam Wathan -->
 <MyYouTubeItems jsonName="yu-ReactWithMasoud" /><!-- React with Masoud -->
@@ -234,5 +231,6 @@ head:
 <MyYouTubeItems jsonName="yu-Delba" /><!-- Delba -->
 <MyYouTubeItems jsonName="yu-TomDoesTech" /><!-- TomDoesTech -->
 <MyYouTubeItems jsonName="yu-LachlanMiller" /><!-- Lachlan Miller -->
+<MyYouTubeItems jsonName="yu-codeboba" /><!-- Code Boba -->
 
 <TagLinks />

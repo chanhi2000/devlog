@@ -119,5 +119,7 @@ tag:
 <MyYouTubeItems jsonName="yu-CodeEurope" /><!-- Code Europe -->
 <MyYouTubeItems jsonName="yu-linuxconfau2010" /> <!-- Linux.conf.au 2010 -- Wellington, New Zealand -->
 <MyYouTubeItems jsonName="yu-11TechTalk" /><!-- 11번가 TechTalk -->
+<MyYouTubeItems jsonName="yu-EngineersSG" /><!-- Engineers.SG -->
+<MyYouTubeItems jsonName="yu-devmento" /><!-- 데브멘토(Devmento : Real IT Portal) -->
 
 <TagLinks />

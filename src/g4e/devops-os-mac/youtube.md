@@ -85,5 +85,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Aleksey_Konovalov" /><!-- Aleksey Konovalov -->
 <MyYouTubeItems jsonName="yu-masterbot" /><!-- 마스터봇 -->
 <MyYouTubeItems jsonName="yu-himelstech" /><!-- Himels Tech -->
+<MyYouTubeItems jsonName="yu-rt9" /><!-- Route 9 루트나인 -->
 
 <TagLinks />

@@ -155,6 +155,7 @@ head:
 - [`@eunbinn` - [번역] 웹 푸시는 이제 iOS 17에서 사용할만합니다](https://velog.io/@eunbinn/web-push-ios17)
 - [`@yerini` - 면접질문-2](https://velog.io/@yerini/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8-2)
 - [`@surim014` - [번역] 리액트가 컴파일될 예정입니다](https://velog.io/@surim014/react-19-will-be-compiled)
+- [`@kyj2471` - Redux에서 React-Query로 이전](https://velog.io/@kyj2471/Redux%EC%97%90%EC%84%9C-React-Query%EB%A1%9C-%EC%9D%B4%EC%A0%84)
 - 
 ---
 

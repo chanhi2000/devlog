@@ -84,5 +84,7 @@ tag:
 <MyYouTubeItems jsonName="yu-danscourses" /><!-- danscourses -->
 <MyYouTubeItems jsonName="yu-plaintextpackets" /><!-- Plaintext Packets -->
 <MyYouTubeItems jsonName="yu-CyberFlow10" /><!-- CyberFlow -->
+<MyYouTubeItems jsonName="yu-LAWRENCESYSTEMS" /><!-- Lawrence Systems -->
+<MyYouTubeItems jsonName="yu-TCMSecurityAcademy" /><!-- The Cyber Mentor -->
 
 <TagLinks />

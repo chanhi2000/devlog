@@ -1339,5 +1339,10 @@
     "desc": "Wireguard client that exposes itself as a socks5 proxy",
     "officialSite": "",
     "topics": ["golang", "network", "proxy", "socks5", "socks5-proxy", "vpn", "wireguard", "wireguard-tunnel"]
+  }, {
+    "repo": "go-nunu/nunu",
+    "desc": "A CLI tool for building Go applications.",
+    "officialSite": "https://go-nunu.github.io/nunu/",
+    "topics": ["ddd", "gin", "go", "golang", "golang-cli", "scaffold"]
   }
 ]

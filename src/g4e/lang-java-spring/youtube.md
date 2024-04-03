@@ -79,5 +79,6 @@ head:
 <MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
 <MyYouTubeItems jsonName="yu-dev.mminsu" /><!-- dev.mminsu -->
 <MyYouTubeItems jsonName="yu-MikesTechCorner" /><!-- Mike Møller Nielsen -->
+<MyYouTubeItems jsonName="yu-user-ht2jq8bg9b" /><!-- 이숭무 샘 -->
 
 <TagLinks />

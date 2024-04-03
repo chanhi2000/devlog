@@ -4714,5 +4714,15 @@
     "desc": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
     "officialSite": "https://ragflow.io",
     "topics": ["data-pipelines", "deep-learning", "document-parser", "document-understanding", "information-retrieval", "llm", "llmops", "machine-learning", "nlp", "ocr", "orchestration", "pdf-to-text", "preprocessing", "rag", "retrieval-augmented-generation", "table-structure-recognition"]
+  }, {
+    "repo": "dvlab-research/MiniGemini",
+    "desc": "Official implementation for Mini-Gemini",
+    "officialSite": "https://mini-gemini.github.io/",
+    "topics": ["generation", "large-language-models", "vision-language-model"]
+  }, {
+    "repo": "princeton-nlp/SWE-agent",
+    "desc": "SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models",
+    "officialSite": "https://swe-agent.com/",
+    "topics": []
   }
 ]

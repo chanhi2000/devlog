@@ -231,6 +231,12 @@ tag:
 
 ---
 
+## research!rsc
+
+- [The `xz` attack shell script](https://research.swtch.com/xz-script)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

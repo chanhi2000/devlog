@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/J3jQFYAyRWx-G_rHNHIjDPLuCpM-T1kQZkMZDCTdRg4_j0E1SRN9r05CQH1TSNdLkAJgN-kJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ti_2epuntK4", "title": "Best Virtualization Projects in 2024 for the Home Lab" },
+    { "id": "cjlpp0Da_Qk", "title": "Firewalla Gold SE Review: Is it a Good Firewall for home lab?" },
+    { "id": "bTTDBCCKQ2U", "title": "Best Free Hypervisors in 2024" },
+    { "id": "rg_ijDFkpaI", "title": "Nutanix Community Edition Home Lab - Is it good?" },
     { "id": "stQzK0p59Fc", "title": "Proxmox VLAN Configuration: Linux Bridge Tagging, Management IP, and Virtual Machines" },
     { "id": "uPt3VKQOMBs", "title": "Connect Kubernetes to your Synology NAS NFS share" },
     { "id": "bsB2dvpdBYg", "title": "Yacht vs Portainer - Docker Dashboard comparison!" },

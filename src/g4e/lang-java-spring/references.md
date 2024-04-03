@@ -93,4 +93,10 @@ head:
 
 ---
 
+## Toby's Epril
+
+- [테스트가 관리하는 트랜잭션 - 향로 님의 `@Transactional` 글을 읽고](https://toby.epril.com/8)
+
+---
+
 <TagLinks />

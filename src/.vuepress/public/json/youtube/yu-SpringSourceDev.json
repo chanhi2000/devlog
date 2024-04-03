@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/FQS_lysIGW5MmkQB8lBaWVJCWfUnuLUaIgg6nJDp7i6J_om4-iANSAPa527xY8seM8k69EIvBQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "m6CtIMC6ukg", "title": "Spring Tips (a short): the Spring Health Assessment #java #springboot  #springframework" },
+    { "id": "2X9X5Y2ltxY", "title": "Spring Office Hours: S3E7 - Spring AI" },
+    { "id": "p3aLjH2VPzU", "title": "Spring Tips: the Spring Authorization Server: securing SPAs and messaging flows" },
+    { "id": "W0u9XaCyWPo", "title": "Spring Office Hours: S3E8 - Resources for learning Spring" },
+    { "id": "GVsKQ4dp_pQ", "title": "Spring Tips: the Spring Authorization Server: durability of data" },
+    { "id": "Ap1XaG0WPeE", "title": "Spring Office Hours: S3E9 - Pull requests are welcomed!" },
+    { "id": "dmdkJ3ZmT5E", "title": "Spring Tips: Spring Batch Remote Partitioning, your easy button for data scale!" },
+    { "id": "4p5ovtFTHts", "title": "Spring Tips: the Exposed ORM for Kotlin" },
+    { "id": "0Os62f_KDPs", "title": "Spring Office Hours: S3E10 - Batch Processing with Spring" },
+    { "id": "ew_wc-mNHfM", "title": "Spring Office Hours: S3E11 - Spring Boot 3.3 & Java 22 First Look" },
+    { "id": "e9POHS0BjEg", "title": "Spring Tips: Distributed Job Scheduling with Jobrunr" },
     { "id": "rt_cUtb8LnQ", "title": "Spring Tips: DataSources" },
     { "id": "FWJ3IzQp0fk", "title": "Spring Tips: CQRS and Axon Framework" },
     { "id": "nd5JzDIEI6A", "title": "Spring Office Hours S3E4 - Common Spring Developer Mistakes" },

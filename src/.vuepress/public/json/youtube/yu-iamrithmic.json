@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/1C7JsH9x4DmmcHxfVGJMhRIeSLmRH41Xnm2oKITHfuACk64NNt_iNA3Myy9sD3Z9VomitfFKcQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Pu6A9a2jRvY", "title": "Understanding map, filter and reduce in JavaScript #javascript #programming #coding #webdev" },
+    { "id": "ZK-w-yFWfxM", "title": "Add Clerk Authentication & Stripe Payments to your NextJS tRPC Application" },
+    { "id": "M6Euwo5XgZ4", "title": "Create a list of prime numbers in JavaScript #javascript #webdev #coding #javascriptdev" },
+    { "id": "VnRC8PyzBT8", "title": "NextJS Page Animation Transitions with GSAP" },
+    { "id": "2Eei1ZgGkMk", "title": "Create a fun Text Input Animation using Framer Motion" },
+    { "id": "KKQQn_lDuVQ", "title": "You Need This Hover Effect on Your SVGs ASAP (ReactJS / TailwindCSS)" },
     { "id": "ahX4mVgM8AE", "title": "Create a Blog with NextJS - In 10 Minutes" },
     { "id": "kuO3XzK6xQc", "title": "Build a Side Navigation with TailwindCSS and Framer Motion" },
     { "id": "JPkRGIzh39w", "title": "Add Google Fonts to you ReactJS TailwinCSS App" },

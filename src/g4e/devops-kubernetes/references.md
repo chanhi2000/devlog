@@ -163,6 +163,7 @@ tag:
 ## ENFJ.dev 
 
 - [Kubernetes Affinity, 제대로 이해하기](https://gngsn.tistory.com/283)
+- [Kubernetes Scheduler, 제대로 이해하기](https://gngsn.tistory.com/284)
 
 ---
 

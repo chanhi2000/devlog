@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "4vSfbz9YMa0", "title": "Return of the starwars data set" },
+    { "id": "EAejx8uKFj4", "title": "Better quality of life in R and RStudio" },
+    { "id": "01KifhHDkFk", "title": "Beautiful presentations with R and Quarto" },
+    { "id": "evBG6ZbZB68", "title": "Cross references in R and Quarto" },
+    { "id": "jptX745mp7M", "title": "Beautiful tables with the gt package" },
     { "id": "D-ArAu3XFWc", "title": "Understanding the structure of R functions" },
     { "id": "eU_68QcZOi4", "title": "LaTeX for R users" },
     { "id": "a-kpc7WISEA", "title": "The gamma function" },

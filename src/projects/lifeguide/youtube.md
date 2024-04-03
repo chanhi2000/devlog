@@ -114,5 +114,6 @@ head:
 <MyYouTubeItems jsonName="yu-happyloo2023" /><!-- 해피루, 도그토토 -->
 <MyYouTubeItems jsonName="yu-HoneyJamini" /><!-- 꿀잼미니 -->
 <MyYouTubeItems jsonName="yu-bbocute_main" /><!-- 뽀큐트 -->
+<MyYouTubeItems jsonName="yu-DanoTV" /><!-- DanoTV -->
 
 <TagLinks />

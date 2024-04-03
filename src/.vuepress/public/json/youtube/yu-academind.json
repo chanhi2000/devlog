@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/j6vprjTgjWFBukddRjLZjf4Dz7aVMkNMwhdUTNYoCuYrRePBJZmOK53S7cd47IfwRtBylKs-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "t18Kzj9S8-M", "title": "Understanding Signals" },
+    { "id": "oMzdnVdoWqE", "title": "How React aims to help with cross-platform development" },
+    { "id": "174kDnSUJj4", "title": "10 Visual Studio Code Shortcuts You Should Know in 2024" },
+    { "id": "OiExSkZpKe4", "title": "How To Switch Project Easily in Visual Studio Code #visualstudiocode" },
+    { "id": "1R02JJczFBg", "title": "How To Use It & Why It's Awesome" },
+    { "id": "V1f8MOQiHRw", "title": "You might not need useEffect() ..." },
+    { "id": "ujBBiPtyAd8", "title": "Use JavaScript without writing JavaScript..." },
     { "id": "oQiEZ8adag0", "title": "React's becoming a bit weird..." },
     { "id": "oDDcZhKqUxQ", "title": "5 Modern CSS Features You Should Know In 2024" },
     { "id": "zhqW8IZcOYM", "title": "CSS Container Queries #css" },

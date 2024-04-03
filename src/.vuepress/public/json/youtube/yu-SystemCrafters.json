@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/wZPQXRO4qeti6imMlGRbxBY9WDMgxT7_9ZZ0ihqJjflYS08qkHmaj3wBujeI2xsxlJFinxhRd8o=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jULVBFlxn60", "title": "Every Linux at Once with Distrobox - System Crafters Live!" },
+    { "id": "yY-qyCYc5GU", "title": "Crafting a Minimal Writing Environment with Emacs - System Crafters Live!" },
+    { "id": "O6hMwJfaXV8", "title": "Code Dive: Project.el in Emacs - System Crafters Live!" },
     { "id": "L4Aa3oWaaTE", "title": "Exploring the Guile Scheme Ecosystem - System Crafters Live!" },
     { "id": "hQXmLbNIbWA", "title": "Writing Manuals with Texinfo in Emacs - System Crafters Live!" },
     { "id": "xzm5xiQKJB8", "title": "Craftable Terminal Sessions with Zellij - System Crafters Live!" },

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "JoyofCodeDev",
+    "name": "Joy of Code",
+    "profile": "https://yt3.googleusercontent.com/f-nkXHIt4t8B7yFIOdkQBGEyTY0LVrS8DWkAnF6W7KazXPtcD2XHzWPSsOx_vAjVgs3RQu736cY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dkwZggV8NIhHTHMT-VMQ232Q3ndZgS7n12bGHkyac0McpWKPShMBLZvKQNZOrBN31pL6xkGDjbk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qyG-xWjNZKU", "title": "I Tried Every Svelte UI Library" },
+    { "id": "TEMKKfQpY94", "title": "Modern CSS Features You Should Know About" },
+    { "id": "llGupgNwmIk", "title": "How To Make A Blazing Fast Search For Your SvelteKit Site" },
+    { "id": "uxiqlwtEQx0", "title": "Tailwind Is A CSS Framework Generator" },
+    { "id": "YNOwO5s4AL8", "title": "How To Not Suck At Design For Developers" },
+    { "id": "oWcTGCCezR0", "title": "Improve Your Coding Workflow Using These Free AI Tools" }
+  ]
+}

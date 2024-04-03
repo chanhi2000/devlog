@@ -90,6 +90,12 @@ tag:
 
 ---
 
+## Henri Sivonen’s pages
+
+- [Activating Browser Modes with Doctype](https://hsivonen.fi/doctype/)
+
+---
+
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217

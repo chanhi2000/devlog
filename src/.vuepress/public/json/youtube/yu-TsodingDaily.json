@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/bQ8tYTXxD7v9-o3rvg2XzKS23Rdza-Ug7uUUqSF869fq5_aPqVtinn1CMO5H5pqObMnd4xzTus0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dZRPY0D9nbU", "title": "Hiding Data Inside of Executable Files" },
+    { "id": "F4xc4jQO7ck", "title": "Reviewing Your Pull Requests" },
+    { "id": "A_g6jfLx3ws", "title": "Control Your Dependencies" },
+    { "id": "rTb6NFKUmQU", "title": "I spent 2 days implementing Game of Life in Uxn" },
     { "id": "mbFY3Rwv7XM", "title": "I made JIT Compiler for Brainf*ck lol" },
     { "id": "p60L-TOecik", "title": "GameDev in Assembly?!" },
     { "id": "GvWCpsZcaBE", "title": "Easy Annoying Popups in C" },

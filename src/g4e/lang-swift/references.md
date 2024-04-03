@@ -280,6 +280,12 @@ tag:
 
 ---
 
+## Romes' Musings
+
+- [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
+
+---
+
 ## Misc
 
 - [`EXC_BAD_ACCESS` - Swizzling With Swift](https://academy.realm.io/posts/sash-zats-swift-swizzling)

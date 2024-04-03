@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "navekeng",
+    "name": "Navek",
+    "profile": "https://yt3.googleusercontent.com/L_H9P9Lh1ZdtLNN4oTtthZTkYS0_Qe_Cmd4gA46LWJeFvd1AXIQiZKgi6-qUxytqyhOokls6=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/prgaFtl4pZbkCjkUK5gBMGwouJMidNleuBMfDMjXov082KuQgWLDwhUoODFdHJZcaB0MfE1x_w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "crFZOrqlqao", "title": "`grep`: A Practical Guide" },
+    { "id": "2ipP7tmfTpk", "title": "`df` vs `du`: Practically Explained" }
+  ]
+}

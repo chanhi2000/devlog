@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/cRsI_zBvS8Cv7K5IzwVFfrVc026q-nBM4dVu4nF0wL2hJKcjWCh_tdy3Naoa-d9BWwxi-lcgKtg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9F4aICEisVI", "title": "Build Flappy Bird with React Native: Skia & Reanimated Tutorial" },
+    { "id": "ewW6_baBXko", "title": "Build Your Own Blog with React Native (for Web & Mobile)" },
+    { "id": "bpHq_-bPkGo", "title": "Data Fetching in React Native with TanStack Query (tutorial for beginners)" },
+    { "id": "goT4xsmeE-E", "title": "Building a MyFitnessPal Clone: React Native Tutorial for Beginners" },
+    { "id": "UczTzTBYRhA", "title": "Let’s build a Native Library using Expo Modules" },
+    { "id": "lleZC3gyZYU", "title": "How to use SWR in React Native - Fetch and Cache data (tutorial)" },
+    { "id": "3OgZzRe57P4", "title": "Building an Apple Wallet Clone with React Native Reanimated" },
     { "id": "3cD5UFWsNOA", "title": "Building the Ultimate Workout Tracker with React Native & MongoDB" },
     { "id": "7MbFDnR_6HM", "title": "Building a Full Stack Workout Tracker with React Native & MongoDB" },
     { "id": "i5UqNMZUUKM", "title": "In-app Subscriptions & Paywalls with RevenueCat in React Native" },

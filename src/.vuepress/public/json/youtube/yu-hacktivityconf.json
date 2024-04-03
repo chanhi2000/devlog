@@ -6,9 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/sqgM8JctZq9RAGutda6Uvk2_aXVWb_y-6K4Z_pDx9QQeNK6GzXZpcg2kYgyawIAjnazY69gU3g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3pWl963PFvo", "title": "#Hacktivity2023 // Get Deception In Your Environment Now!" },
+    { "id": "fyutVF9hJH8", "title": "#Hacktivity2023 // Carved in Stone: Malware [ab]use of the Bitcoin Blockchain" },
+    { "id": "buSyt3vZRuk", "title": "#Hacktivity2023 // The Power of Coercion Techniques in Windows Environments" },
     { "id": "tOUOzHOFNMs", "title": "#Hacktivity2022 // How an Android Application can Drain Your Wallet? by Dimitrios Valsamaras" }, 
     { "id": "0YAJugdyqgw", "title": "Gabriel Cirlig - ADBHoney - Analyzing the ADB Malware Ecosystem" }
- 
   ]
 }
 

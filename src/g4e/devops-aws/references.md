@@ -96,6 +96,8 @@ tag:
 - [탄력적 IP 적용하기](https://blog.naver.com/gi_balja/223394021270)
 - [Route53과 도메인 연결](https://blog.naver.com/gi_balja/223398889777)
 - [AWS 로드 밸런서 적용하기](https://blog.naver.com/gi_balja/223401436302)
+- [AWS RDS 연결하기](https://blog.naver.com/gi_balja/223402753221)
+
 ---
 
 ## clean up the desk

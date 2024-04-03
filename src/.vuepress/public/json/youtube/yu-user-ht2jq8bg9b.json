@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "FXdlGYQhJM0", "title": "jsp에서 MVC패턴을 이용한  게시판 CRUD" },
     { "id": "oQRIPJTfOhA", "title": "spring_boot와 mongdb를 이용한 게시판 CRUD" },
     { "id": "BOt0NVm0V3Y", "title": "[JSP 모델2] 18강. 쇼핑몰 만들기  -  구매 목록에서 결제하기 , 결제 취소, 상품상세보기에서 바로구매" },
     { "id": "7j1abOJGflQ", "title": "[JSP 모델2] 21강. 쇼핑몰 만들기 - 제품 상세 설명를 클릭하면 제품정보가, 리뷰를 클릭하면 리뷰정보가, 상품문의..." },

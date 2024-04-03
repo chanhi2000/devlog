@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/p453_K2bg707VFD9LM4RoMvsfwArj0Y-ejFKExtQiWHkzDvTGuOkzuov94KsdoGryORZSQYH5w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hnHr0wr5jbY", "title": "Effective Ways To Manage Secrets in GitOps | By Kunal Verma" },
+    { "id": "tBq4-z4kpnA", "title": "Kubernetes reliability in 2024" },
+    { "id": "1vHrf7-D3oI", "title": "Hands on Dagger workshop - Solomon Hykes" },
+    { "id": "tBq4-z4kpnA", "title": "Optimizing Kubernetes Reliability in 2024 with Komodor | Kubesimplify Webinar" },
     { "id": "eYekV2Do0YU", "title": "The Complete WebAssembly Course - From BEGINNER to ADVANCED!" },
     { "id": "uAtzPRehBl4", "title": "Glasskube  - New package manager for Kubernetes?" },
     { "id": "yoMlS-VVbNc", "title": "Kubernetes 1.29 - Mandala" },

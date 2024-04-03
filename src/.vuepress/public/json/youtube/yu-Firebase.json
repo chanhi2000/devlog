@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Ny05xXn-UtlKcxT8mNUw8Y9c7NhhSsyAQtQLiXhDGgAcdFaXM8snSIgcwOBhVBfeWIlN0t8tFbg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "moZssMRVoWI", "title": "Getting started with anonymous authentication and account linking on Android" },
+    { "id": "N-CS73eHld0", "title": "Vue.js and #Firebase crash course" },
+    { "id": "HIi-DuLKff8", "title": "New #Firebase Extensions with Gemini" },
+    { "id": "-QHpBX3u8pM", "title": "Go for Cloud Functions and #Firebase" },
     { "id": "7IkUgCLr5oA", "title": "Learn JavaScript Promises (Pt.1) with HTTP Triggers in Cloud Functions - Firecasts" }, 
     { "id": "pkgvFNPdiEs", "title": "The Local Firebase Emulator UI in 15 minutes" }, 
     { "id": "3aoxOtMM2rc", "title": "To Realtime or Not?  | Get to know Cloud Firestore #10" }

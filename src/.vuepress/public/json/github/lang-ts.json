@@ -2503,5 +2503,10 @@
     "desc": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "dashpresshq/dashpress",
+    "desc": "Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic! ",
+    "officialSite": "http://demo.dashpress.io",
+    "topics": ["admin", "admin-dashboard", "admin-panel", "admin-ui", "crud-generator", "internal-applications", "internal-tools", "low-code", "lowcode", "no-code", "nocode", "nodejs", "react", "typescript"]
   }
 ]

@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "r5wCOYuVlFg", "title": "Linkor - GDSC Solution Challenge 2024" },
+    { "id": "fvAad5St4oI", "title": "S.H.I.E.L.D. - GDSC Solution Challenge 2024" },
+    { "id": "dvmoFaMlMG4", "title": "TRUETREE - GDSC Solution Challenge 2024" },
+    { "id": "zuoaXLIXAb0", "title": "PlogUs -  GDSC Solution Challenge 2024" },
+    { "id": "x6irLBh55W4", "title": "멀티클라우드와 하이브리드 클라우드" },
+    { "id": "3TIwPc0yu64", "title": "NoSQL 데이터베이스 활용하기" },
+    { "id": "c4uZEIbbU6k", "title": "HTML로 이메일 템플릿 만들기" },
+    { "id": "UTyTxk3XYVI", "title": "Django로 실시간 채팅 구현하기" },
     { "id": "hdt5SC6d7Ww", "title": "프로젝트 A to Z" },
     { "id": "1zBaKtw8xKY", "title": "CI/CD with GitHubActions" },
     { "id": "cD4_REpXO9o", "title": "노션과 아이디어, 그리고 활용의 방법 - 1" },

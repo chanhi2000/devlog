@@ -100,5 +100,7 @@ tag:
 <MyYouTubeItems jsonName="yu-DavesSpace" /><!-- Dave's Space -->
 <MyYouTubeItems jsonName="yu-umarjamilai" /><!-- Umar Jamil -->
 <MyYouTubeItems jsonName="yu-GregHogg" /><!-- Greg Hogg -->
+<MyYouTubeItems jsonName="yu-user-lu1tr6kr5f" /><!-- 나는 황쌤이다 -->
+<MyYouTubeItems jsonName="yu-kukjinman" /><!-- 국진맨(KUKJINMAN) Ch -->
 
 <TagLinks />

@@ -136,5 +136,6 @@ tag:
 <MyYouTubeItems jsonName="yu-drawandrew" /><!-- 드로우앤드류 -->
 <MyYouTubeItems jsonName="yu-career_hacker_alex" /><!-- 커리어해커 알렉스 -->
 <MyYouTubeItems jsonName="yu-KodapsAcademy" /><!-- Kodaps Academy -->
+<MyYouTubeItems jsonName="yu-alejandro_ao" /><!-- Alejandro AO - Software & Ai -->
 
 <TagLinks />

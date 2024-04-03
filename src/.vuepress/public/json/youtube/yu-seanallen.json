@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/5exaEZH9hpSVtQBOPPUXh3uJaaBsYe-5tV-rf05rBfMNbBq_I_dqD-pV5SAYrejMLctrPoFHpQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BuHsRVO0JKw", "title": "iOS Dev's Thoughts on Working in Apple Vision Pro (Xcode)" },
+    { "id": "Qjbs-nye7CU", "title": "Swift News - SwiftUI Field Guide, Apple Vision Pro, State of Mobile 2024 , Indie Dev & More" },
+    { "id": "kYL0Ef3XKO0", "title": "3D Content in iOS & visionOS apps with Spline (Xcode & SwiftUI)" },
+    { "id": "yI54JFm96RQ", "title": "How to Create 3D App Icons for visionOS | Xcode" },
+    { "id": "7BXertzo8sg", "title": "Build 3D content for visionOS Apps | SwiftUI | Xcode | Spline" },
+    { "id": "lPRwYJeElfg", "title": "Swift News - Swift 6, Strict Concurrency, Privacy, State of Subscription Apps, Indie Dev & More" },
+    { "id": "T6IvImk66m8", "title": "Your App Will Get Rejected | New Privacy Rules - 2024" },
     { "id": "hwQvpDxgGh4", "title": "Apple's Human Interface Guidelines 2024 - Updated w/ visionOS" },
     { "id": "pa-1XlU3rpk", "title": "ARKit: What can it do? (visionOS)" },
     { "id": "bEB7ATENue0", "title": "Simple, Clean Empty States in SwiftUI - `ContentUnavailableView` - iOS 17" },

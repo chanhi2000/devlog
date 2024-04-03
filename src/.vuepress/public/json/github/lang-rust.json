@@ -241,9 +241,9 @@
     "officialSite": "https://sui.io"
   }, {
     "repo": "DioxusLabs/dioxus",
-    "desc": "Fullstack GUI library for desktop, web, mobile, and more.",
-    "topics": ["react", "css", "android", "html", "rust", "ios", "ui", "web", "native", "ssr", "wasm", "desktop", "virtualdom"],
-    "officialSite": "https://dioxuslabs.com"
+    "desc": "Fullstack GUI library for web, desktop, mobile, and more.",
+    "officialSite": "https://dioxuslabs.com",
+    "topics": ["android", "css", "desktop", "html", "ios", "native", "react", "rust", "ssr", "ui", "virtualdom", "wasm", "web"]
   }, {
     "repo": "GyulyVGC/sniffnet",
     "desc": "Application to comfortably monitor your Internet traffic 🕵️‍♂️", 
@@ -1259,5 +1259,10 @@
     "desc": "PostgreSQL wire protocol implemented as a rust library.",
     "officialSite": "",
     "topics": ["database", "postgresql", "rust"]
+  }, {
+    "repo": "achristmascarl/three_body",
+    "desc": "✨ rudimentary simulation of the three-body problem",
+    "officialSite": "",
+    "topics": []
   }
 ]

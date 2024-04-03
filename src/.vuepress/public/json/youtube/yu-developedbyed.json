@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/71AwzsBmWpjQR8PPhb8e8I0eF0qEgRAZDZuDkxXzUyGA8mQ-ZubpXQ0le1jquOFbuPe9-XgIkg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZY1Om-AOpBY", "title": "Typescript is nice | A beginners guide to Typescript Intro" },
+    { "id": "XlXT9lhy-4M", "title": "This React Drag and Drop Component Is Magic" },
     { "id": "UKupfEuUc1M", "title": "Next.js 14 - Server Actions TUTORIAL | Type Safety, Error Handling, Pending States" },
     { "id": "3ocq83df9m0", "title": "This Animation Tool Will Change Web Development" },
     { "id": "9kjc6SWxBIA", "title": "Why I Still Use React Query with Next 14" },

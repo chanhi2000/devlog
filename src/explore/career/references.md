@@ -28,7 +28,6 @@ tag:
 ## Opinion
 
 - [blog.shiren.dev/2020-11-23](https://blog.shiren.dev/2020-11-23): 누구나 원하는 개발자되기
-- [velog-@hygoogi](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C): 기술 면접 질문 모음
 - [<FontIcon icon="iconfont icon-github"/>`ksundong/backend-interview-question`](https://github.com/ksundong/backend-interview-question): 백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)
 
 ---
@@ -51,9 +50,18 @@ tag:
 
 ---
 
+## velog
+
+- [`@endmoseung` - 꾸준함과 당연하다는것](https://velog.io/@endmoseung/%EA%BE%B8%EC%A4%80%ED%95%A8%EA%B3%BC-%EB%8B%B9%EC%97%B0%ED%95%98%EB%8B%A4%EB%8A%94%EA%B2%83)
+- [`@hygoogi` - 기술 면접 질문 모음](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C)
+
+
+---
+
 ## Medium
 
 - [`delightroom` - 1년 만에 성공한 온보딩 실험 작업기](https://medium.com/delightroom/1%EB%85%84-%EB%A7%8C%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%9C-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8B%A4%ED%97%98-%EC%9E%91%EC%97%85%EA%B8%B0-5b96330a3bb3)
+- [`namunamu1105` - 내가 개발자로서 회사에서 한 실수들](https://namunamu1105.medium.com/%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%ED%95%9C-%EC%8B%A4%EC%88%98%EB%93%A4-ffca7bb947a2)
 
 ## 당근
 
@@ -187,7 +195,6 @@ tag:
 
 ---
 
-
 ## Leading Developers
 
 - [You are firing people too late](https://zaidesanton.substack.com/p/you-are-firing-people-too-late)
@@ -203,6 +210,49 @@ tag:
 ## Dmitry Kudryavtsev
 
 - [The Curse of the Senior Software Engineer](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/)
+
+---
+
+## 주먹불끈
+
+- [책: 그들의 생각을 바꾸는 방법 - 딥 캔버싱](https://jusths.tistory.com/392)
+- [책: 그들의 생각을 바꾸는 방법 - 자신만의 현실](https://jusths.tistory.com/393)
+
+---
+
+## The Startup Bible
+
+- [과소평가, 과대평가 – 기술](https://www.thestartupbible.com/2024/04/things-we-overestimate-and-underestimate-technology.html)
+
+---
+
+## jako's IT log  
+
+- [[24년 3월] 하기 싫으면 관둬라](https://jakpentest.tistory.com/entry/24%EB%85%84-3%EC%9B%94-%ED%95%98%EA%B8%B0-%EC%8B%AB%EC%9C%BC%EB%A9%B4-%EA%B4%80%EB%91%AC%EB%9D%BC)
+
+---
+
+## 기억보단 기록을
+
+- [혼란하게 진행하기](https://jojoldu.tistory.com/776)
+
+---
+
+## 사진찍는 웹 개발자의 블로그
+
+- [생산성 향상을 위한 실무에서의 비동기 커뮤니케이션](https://donghoon-song.github.io/%EC%83%9D%EC%82%B0%EC%84%B1/%EC%83%9D%EC%82%B0%EC%84%B1-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98/)
+
+---
+
+## Cojette의 Data Wonderland
+
+- [서비스에서 넛지를 추구하면 안 되는 걸까](https://cojette.github.io/posts/servicenudge/)
+
+---
+
+## The Smashing Magazine
+
+- [The End Of My Gatsby Journey](https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/)
 
 ---
 

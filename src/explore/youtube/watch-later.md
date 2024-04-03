@@ -19,7 +19,6 @@ tags:
   - "@seoulian"
   - "@AleksPopovic"
   - "@JeffSu"
-  - "@TCMSecurityAcademy"
   - "@SeoulWorkshop"
   - "@ExecuteAutomation"
   - "@Mukeshotwani"
@@ -33,7 +32,6 @@ tags:
   - "@yalco-coding"
   - "@ContenJoo"
   - "@AZisk"
-  - "@interviewingio"
   - "@goldenmanual"
   - "@TV-bk8fv"
   - "@3protv"
@@ -47,7 +45,6 @@ tags:
   - "@SpaceRexWill"
   - "@kevinfaang"
   - "@studian365"
-  - "@ETAPRIME"
   - "@BudgetNerd"
   - "@TechTalkAmerica"
   - "@techwiser"
@@ -72,7 +69,6 @@ tags:
 <MyYouTubeItems jsonName="yu-seoulian" /><!-- 서울리안 SEOULiAN -->
 <MyYouTubeItems jsonName="yu-AleksPopovic" /><!-- Aleks Popovic -->
 <MyYouTubeItems jsonName="yu-JeffSu" /><!-- Jeff Su -->
-<MyYouTubeItems jsonName="yu-TCMSecurityAcademy" /><!-- The Cyber Mentor -->
 <MyYouTubeItems jsonName="yu-SeoulWorkshop" /><!-- Seoul Workshop -->
 <MyYouTubeItems jsonName="yu-ExecuteAutomation" /><!-- Execute Automation -->
 <MyYouTubeItems jsonName="yu-Mukeshotwani" /><!-- Mukesh otwani -->
@@ -86,7 +82,6 @@ tags:
 <MyYouTubeItems jsonName="yu-yalco-coding" /><!-- 얄팍한 코딩사전 -->
 <MyYouTubeItems jsonName="yu-ContenJoo" /><!-- 콘텐주 -->
 <MyYouTubeItems jsonName="yu-AZisk" /><!-- Alex Ziskind -->
-<MyYouTubeItems jsonName="yu-interviewingio" /><!-- interviewing.io -->
 <MyYouTubeItems jsonName="yu-goldenmanual" /><!-- 황금설명서 -->
 <MyYouTubeItems jsonName="yu-TV-bk8fv" /><!-- 김노무사 -->
 <MyYouTubeItems jsonName="yu-NaNyunJae" /><!-- 남중구의 IT강의 -->
@@ -96,7 +91,6 @@ tags:
 <MyYouTubeItems jsonName="yu-kundol" /><!-- 큰돌의터전 -->
 <MyYouTubeItems jsonName="yu-SpaceRexWill" /><!-- SpaceRex -->
 <MyYouTubeItems jsonName="yu-kevinfaang" /><!-- Kevin Fang -->
-<MyYouTubeItems jsonName="yu-ETAPRIME" /><!-- ETA PRIME -->
 <MyYouTubeItems jsonName="yu-BudgetNerd" /><!-- Budget Nerd -->
 <MyYouTubeItems jsonName="yu-TechTalkAmerica" /><!-- Tech Talk America -->
 <MyYouTubeItems jsonName="yu-techwiser" /><!-- TechWiser -->

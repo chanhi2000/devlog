@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/1iRoj5sQ45VNWnNDZXZlZBj3_w0vBlyqsydEhSPIa4FIFWvpnl47yFZ8p2MH0DjScQeAewbHCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mxuf9T5rync", "title": "Live Code: Astro SSR Reading Tracker Site" },
+    { "id": "kGGnanUKM00", "title": "Working with Images in Astro" },
+    { "id": "Q1GJpcJLXhQ", "title": "Dynamic API Endpoints in Astro" },
+    { "id": "IpzNH0GarFo", "title": "Live Code: Astro Course Prep Site (Full CRUD app)" },
+    { "id": "adVbsvUf3jA", "title": "Live Code: Building with Astro DB" },
+    { "id": "whP7C8n7NzE", "title": "👋 Goodbye, CoPilot!  Hello, Codeium!" },
     { "id": "MtbqpOnI-A0", "title": "Best New Features of Resend’s Launch Week" },
     { "id": "Ng4JvzL6xX8", "title": "Live Code: Frontend Mentor Astro TODO App" },
     { "id": "QStTpLfJJko", "title": "Full Astro Landing Page Build with Convert Kit (and deploy to Netlify!)" },

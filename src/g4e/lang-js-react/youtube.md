@@ -89,5 +89,9 @@ head:
 <MyYouTubeItems jsonName="yu-ClarityCoders" /><!-- ClarityCoders -->
 <MyYouTubeItems jsonName="yu-codedamn" /><!-- Mehul - Codedamn -->
 <MyYouTubeItems jsonName="yu-GreatStackDev" /><!-- GreatStack -->
+<MyYouTubeItems jsonName="yu-JustinJackson" /><!-- Justin Jackson -->
+<MyYouTubeItems jsonName="yu-academind" /><!-- Academind -->
+<MyYouTubeItems jsonName="yu-developedbyed" /><!-- developedbyed -->
+<MyYouTubeItems jsonName="yu-GeeksforGeeksVideos" /><!-- GeeksforGeeks -->
 
 <TagLinks />

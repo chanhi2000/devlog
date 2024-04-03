@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "ZuluboProductions",
+    "name": "Zulubo Productions",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lyxx2QCM_cLBWLQWlRlIpty64Hkq4xlgoCIk57Fg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fE81X2UmnnsceH68wyoYLHh8e1ZFA2AkvcijivqfkQWmtE3IOKmSDRkhSzj6XXekZTOm5b0I=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WxPTZQU6B-0", "title": "Secret Gamedev Tricks - Specular Probes" },
+    { "id": "hvAFXU9gNcI", "title": "Secret Gamedev Tricks - Gaussian Random Numbers" }
+  ]
+}

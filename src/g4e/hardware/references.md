@@ -50,6 +50,7 @@ tag:
 - [Arduino UNO R4의 `FspTimer` 라이브러리 사용법](https://fishpoint.tistory.com/9142)
 - [Arduino Uno R4를 HID 키보드 장치로 만들기](https://fishpoint.tistory.com/9143)
 - [UNO R4 업로드 에러 해결 방법 Failed uploading: uploading error: exit status 74](https://fishpoint.tistory.com/9144)
+- [ESP32 BLE를 사용하여 LED ](https://fishpoint.tistory.com/9152)
 
 ---
 
@@ -62,6 +63,7 @@ tag:
 ## Old Vintage Computing Research
 
 - [Refurb weekend: Data General/One (and the worst LCD in the world)](https://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
+
 ---
 
 <TagLinks />

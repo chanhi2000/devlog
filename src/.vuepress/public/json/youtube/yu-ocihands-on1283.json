@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/QGexky0-GLUFRPC46O8zRiLlpOq2bc_Fye6jlDex95aK01jilP9kBzD0PlKoiaDxhsJ3d6JsORs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AlDDYUP1vkw", "title": "[OCI Hands-on] 우분투 블록 볼륨 확장하기" },
+    { "id": "xgAqlE2ok4k", "title": "[OCI Hands-on] 우분투 부트 볼륨 확장하기" },
+    { "id": "4gI6kGfaBu8", "title": "Select AI 쿼리 생성 기능 소개(ADB)" },
+    { "id": "vuJrFTPNK2c", "title": "[OCI Hands-on] 우분투 블록 볼륨 연결" },
+    { "id": "-O0gBeUxdWA", "title": "[OCI Hands-on] 컴퓨트 인스턴스 Shape 변경" },
+    { "id": "DDM2buw24Gc", "title": "[OCI Hands-on] Full Stack DR 서비스로 리전 간 DR 전환하기" },
+    { "id": "28yXP-5ABqc", "title": "[OCI Hands-on] OKE POD Autoscaling" },
     { "id": "09SHd5yH-wo", "title": "[Feb,2024 Developer Meetup] 세션1-9 : 최종 구동 테스트 진행" },
     { "id": "CHIBQb8CJYY", "title": "[Feb,2024 Developer Meetup] 세션1-8 멀티서버 데이터 동기화" },
     { "id": "dQuPF4MLKLU", "title": "[Feb,2024 Developer Meetup] 세션2-2 : 모니터링 프로그램용 추가 VM 배포" },

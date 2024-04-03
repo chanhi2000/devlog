@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "suhakham",
+    "name": "더수학함",
+    "profile": "https://yt3.googleusercontent.com/TmLQ0Iz43Ssx3tN7-1x7IIcpnA8OhVa_Ybi1Lfj87PHh9nhRul6hxfqyN8e9Q9wwqfYMpAYc2A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ZTYpTF2fpdQ", "title": "더수학함 고급개념 | 시그마공식 조합으로 해석 2탄, 2차식 | 유튜브 최초 신박한 발상의전환" },
+    { "id": "Vxgg-WP8Ilc", "title": "더수학함 고급개념 | 시그마공식, 조합으로 해석 1탄, 1차식 | 유튜브 최초 신박한 발상의전환" },
+    { "id": "Q0sNvBGilmQ", "title": "테일러근사 | 코사인함수를 다항함수로 해석해내다 | 고급개념" },
+    { "id": "TznmjQIgSxo", "title": "주제탐구 발표수업 | 피보나치수열 기하편 1탄 _ 지적호기심 예비중3 김주원학생" },
+    { "id": "2SFsB2KbkNw", "title": "획기적 시간단축 | 대칭성을 이용해서 (해설지에 없는 접근)" },
+    { "id": "7rQWwrKi4sM", "title": "영재과학학교 입학준비 도전!! 1번은 워밍업" },
+    { "id": "4dkZgeq7Gg4", "title": "신기한 루트값 소수점 계산법" }
+  ]
+}

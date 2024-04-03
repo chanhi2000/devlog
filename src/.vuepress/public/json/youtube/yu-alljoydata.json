@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/21hG1381WcnhMjQfOnx8EifYsaVIJdTpqvRY_zEXH0zChYKEoYcYlVvkIzsS1ifAj6s1ZqJYyw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EuB5o9gk5XU", "title": "Import data into GCP | Beginners Tutorial" },
+    { "id": "9QyLVFuaG64", "title": "Create a SQL Server source connection in Collibra" },
     { "id": "t86rg47yD-s", "title": "How to create a ODBC Connection to mySQL in Microsoft SQL Server # #mysql #dataanalyst #odbc" }, 
     { "id": "J1Ubei--9RY", "title": "SQL Server CharIndex Function Tutorial for Data Analysts" },
     { "id": "gpZJww9GFqc", "title": "How to create a SAP UOM Data Quality Report in SQL Server #dataanalyst #dataquality #sqlserver #sap" },

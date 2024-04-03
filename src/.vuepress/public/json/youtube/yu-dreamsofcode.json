@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/Yn70X579PO08-VKiqvXU_ATSSDKfLFV9paBhtvJDguvghUDA6_PGmRzVtxK1_UL8yipARHkh-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kerKXChDmsE", "title": "Tonic makes gRPC in Rust stupidly simple" },
+    { "id": "ig_HLrssAYE", "title": "Create beautiful code screenshots in Neovim. Without damaging your wrists." },
+    { "id": "bFf-A27Rc9s", "title": "Adding a cache is not as simple as it may seem..." },
+    { "id": "WQ61RL1GpEE", "title": "I've been using Redis wrong this whole time..." },
+    { "id": "H7tbjKFSg58", "title": "The standard library now has all you need for advanced routing in Go." },
     { "id": "zfNqp85g5JM", "title": "Using docker in unusual ways" },
     { "id": "kYAe7qDGOJw", "title": "8 ways JavaScript is just... different." },
     { "id": "Smc-6qfZ2JU", "title": "One of the most common mistakes in Go is about to be fixed" },

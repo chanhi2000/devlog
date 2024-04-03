@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/ZJrllM6YjiQRKsCME_SIYfNW5hbmat4xQRoDlmNdlqycNeD5SXe1JVgiEGjRvqd9vazkCZ8LwNk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hAcCS90IzTY", "title": "Mapped Super Class | Hibernate in Java | Hibernate #18 | #java #hibernate" },
+    { "id": "WBh_eqlv8fk", "title": "Intro to Hibernate Query Language (HQL) | Hibernate in Java | Hibernate #19 | #java #hibernate" },
+    { "id": "6BY1Ri4SWg4", "title": "Solving N+1 Problem | Hibernate in Java | Hibernate #20 | #java #hibernate" },
+    { "id": "15NR9gl-ZwY", "title": "Complex queries with HQL | Hibernate in Java | Hibernate #21 | #java #hibernate" },
+    { "id": "pDO7Li8yb1U", "title": "Hibernate Criteria API | Hibernate in Java | Hibernate #22 | #java #hibernate" },
     { "id": "gKNf1BFedeM", "title": "Eager Loading vs Lazy Loading | Hibernate in Java | Hibernate #12 | #java #hibernate" },
     { "id": "Tln7KyQ7-O0", "title": "Switching Careers to IT in 2024? This is NOT What They Told You About Getting Hired" },
     { "id": "BwdhC63pAgY", "title": "Many-to-Many Mapping | Hibernate in Java | Hibernate #14 | #java #hibernate" },

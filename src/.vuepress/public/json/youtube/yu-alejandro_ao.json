@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/77MAEca8Ow9aIJu7koV6akKsU2dWUBhEQSyGVfTqVT4-PCfFXM96gqVC5jEFfabR5uLvY-YO=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9ccl1_Wu24Q", "title": "Chat with MySQL Database | LangChain Tutorial" },
+    { "id": "zKGeRWjJlTU", "title": "Stream LLMs with LangChain + Streamlit | Tutorial" },
+    { "id": "YqqRkuizNN4", "title": "Chat with MySQL Database using GPT-4 and Mistral AI | Python GUI App" },
     { "id": "FbUhHUeI3ZU", "title": "LangChain Version 0.1.0 Explained | New Features & Changes" },
     { "id": "LBNpyjcbv0o", "title": "Create a RAG Chain using LangChain 0.1.0 (New version)" },
     { "id": "bupx08ZgSFg", "title": "Tutorial | Chat with any Website using Python and Langchain (LATEST VERSION)" },

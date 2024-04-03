@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/zxeh6xgShj-D5EhmdS23h4MzK7qCmY9Z_5J25Bg9RFsuI1UENvJqUnP2QKXmDgapUAbaFMnc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hFTzDwo9jMk", "title": "Screen Connect Vulnerability & Exploit Feb 2024" },
+    { "id": "2wMmSm_ZeZ4", "title": "Getting Started With Xcp-ng & Xen Orchestra: The Ultimate Guide To Open Source Virtualization" },
+    { "id": "DLSglSuHTak", "title": "The Homelab Show Episode 122: Why the Fundamentals are Important with Special Guest Veronica" },
+    { "id": "KIhyGvuCDcc", "title": "XCP-ng Passthrough Made Easy: A Step-by-Step Guide for USB & PCI" },
+    { "id": "CU8JmwZBGgI", "title": "The Homelab Show Episode 122: Special Guest Techno Tim" },
+    { "id": "cONTWiodd4M", "title": "VLOG Thursday 374: TrueNAS, XCP-ng, Homelab, & Tech Talk Live Q&A" },
+    { "id": "Xf0i4OxzYWE", "title": "TrueNAS Boot Drive Failure:How To Recover and Get Your NAS Back FAST" },
+    { "id": "uIm41PhGEgQ", "title": "How to Setup Minio S3 Object Storage on TrueNAS Scale" },
+    { "id": "mdHmcwWTNWA", "title": "Configuring TrueNAS NFS Share for XCP-ng" },
+    { "id": "4AWJz2OK-JM", "title": "The Homelab Episode 124: Technical Debt" },
+    { "id": "PBBOfeA91zo", "title": "Saturday Live Q&A: TrueNAS Testing, XCP-ng Testing, Homelab And Other Tech Topics" },
     { "id": "_-S02GSUWps", "title": "Client Project: Hashcat Testing With an AMD Epyc Supermicro Nvidia GPU Server Using Proxmox" },
     { "id": "a3LbQow7i4Q", "title": "Step-by-Step Guide: Sending Windows Event Logs to Graylog With NXLOG" },
     { "id": "1ZOhviksEEY", "title": "Understanding Sysmon & Threat Hunting with A Cybersecurity Specialist & Incident Detection Engineer" },

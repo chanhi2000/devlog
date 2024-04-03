@@ -48,6 +48,12 @@ tag:
 
 ---
 
+## velog
+
+- [`@qlgks1` - Django - sqlite 는 Json이 text 래요!, sqlite lookup (contains) 오버라이딩 하기](https://velog.io/@qlgks1/Django-sqlite-lookup-contain-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-%ED%95%98%EA%B8%B0)
+
+---
+
 ## Medium
 
 - [Computational Linear Algebra: Scalars, Vectors, Matrices and Tensors](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc)
@@ -555,6 +561,12 @@ tag:
 ## mathspp
 
 - [Python `deque` tutorial](https://mathspp.com/blog/python-deque-tutorial)
+
+---
+
+## Huon on the internet
+
+- [10 > 64, in QR codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 
 ---
 

@@ -44,5 +44,6 @@ head:
 <MyYouTubeItems jsonName="yu-CodingCafe1" /><!-- 코딩카페1 -->
 <MyYouTubeItems jsonName="yu-jsWithTola" /><!-- Giwa Fauzziyyah -->
 <MyYouTubeItems jsonName="yu-danteDeveloper" /><!-- 단테 -->
+<MyYouTubeItems jsonName="yu-JustinJackson" /><!-- Justin Jackson -->
 
 <TagLinks />

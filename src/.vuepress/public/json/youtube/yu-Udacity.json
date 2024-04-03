@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "Udacity",
+    "name": "Udacity",
+    "profile": "https://yt3.googleusercontent.com/nFftJEiVxwRTL9OPe2bncvKgOIlYytuHImJCFFrSEmCUTbisGew0MaFoGo8zfVpDMAXEfRSjjQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AFai_b7_Eo-wTyk4HSYCjersfwodvSUtzzlAeZdsRE-c85Tmg2b8rE0c1uhRd9gFbo8mea7p=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zteFFTQv0Do", "title": "Bjarne Stroustrup On How He Created C++" },
+    { "id": "Sgjqqzx4e-Q", "title": "Community-Career Webinar Series: Personal Branding & Self-Discovery (Full Recording)" },
+    { "id": "5irN5YL7hBI", "title": "World Digital Marketing Day: The Impact of Influencers on Social Marketing (Full Recording)" },
+    { "id": "M6443LDEUfU", "title": "What Is A 'Digital Twin' in AIoT Artificial Intelligence of Things" },
+    { "id": "TXlfySsZZHY", "title": "What Is 'AIoT' Artificial Intelligence of Things" },
+    { "id": "LCo3NoFKdqc", "title": "Why Should Your Business Care About Data Science" },
+    { "id": "mhvQ1qNEkIA", "title": "What Do Cybersecurity Professionals Actually Do" },
+    { "id": "D2ootKpNx9A", "title": "Understanding Electronic Circuits In Embedded Systems & Robotics (Part 3)" },
+    { "id": "Kpo3gAXUehU", "title": "Understanding Electronic Circuits In Embedded Systems & Robotics (Part  2)" },
+    { "id": "A5Qo6zR0DE8", "title": "Understanding Electronic Circuits In Embedded Systems & Robotics (Part  1)" },
+    { "id": "JwLmpK0NejA", "title": "How To Portray Movement In Your Digital Art" },
+    { "id": "gH8I7fazFC8", "title": "Understanding 'Algorithmic Bias' In Your Company's Data" },
+    { "id": "WEUp4ShTp7w", "title": "The Importance of 'Platform Thinking' To Thriving In The Digital Age" },
+    { "id": "6y0ZmKhyHXo", "title": "The Business Case For Cloud Computing Services" },
+    { "id": "A4MdjufWB0I", "title": "The 3 Stages of The Video Production Process" },
+    { "id": "G9mYQuaM_hU", "title": "Radically Secured: Reimagining The Cybersecurity Industry" },
+    { "id": "BikkOaVyE-k", "title": "Mastering Midjourney Commands" },
+    { "id": "4zZJFUQFTOM", "title": "How To Build Generative AI Apps and Models (Part  2)" },
+    { "id": "nnaEnNyHSsM", "title": "How To Build Generative AI Apps and Models (Part  1)" },
+    { "id": "GP6W8GqhZ8M", "title": "Getting Started With Prompt Engineering For Creative Professionals" },
+    { "id": "9mR8PHzB3NM", "title": "Getting Started With Cloud Computing Services In Your Business" },
+    { "id": "zBcbfL7KCQc", "title": "GenAI Fundamentals How To Use Probing To Train A Classifier" },
+    { "id": "J80roY38aZE", "title": "Color Palette Fundamentals For Graphic Designers" },
+    { "id": "k79_pfCLZRI", "title": "How To Query A Digital Music Store Database | Udacity Project Walkthrough" },
+    { "id": "pXwSndsGdrw", "title": "Self Driving Car Engineer 101: Detecting Objects In Urban Environments | Udacity Project Walkthrough" },
+    { "id": "hTOMHK0wfJU", "title": "Building A Portfolio Website That Will Get You Hired | Udacity Project Walkthrough" },
+    { "id": "Hgz_DdWlCIE", "title": "How To Use SQL To Decrease The Impact of Deforestation | Udacity Project Walkthrough" },
+    { "id": "fvP6dD3nZCk", "title": "Learn AI Photo Editing with Inpainting | Udacity Project Walkthrough" },
+    { "id": "rTxQr7AWUmc", "title": "Generate New Faces Using GANs | Udacity Project Walkthrough" }
+  ]
+}

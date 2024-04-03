@@ -259,6 +259,7 @@ tag:
 - [2020년 정보올림피아드 필기 초등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/124)
 - [2021년 정보올림피아드 필기 초등부(1 ~ 5)](https://davincicoding.tistory.com/125)
 - [2021년 정보올림피아드 필기 초등부(11 ~ 15)](https://davincicoding.tistory.com/128)
+- [2021년 정보올림피아드 필기 초등부(16 ~ 20)](https://davincicoding.tistory.com/129)
 
 ---
 

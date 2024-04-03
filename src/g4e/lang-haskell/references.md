@@ -65,4 +65,10 @@ head:
 
 ---
 
+## Evans Library
+
+- [[번역] 프로그래머를 위한 카테고리 이론 - 8. 펑터의 특성](https://evan-moon.github.io/2024/04/02/category-theory-for-programmers-8-functoriality/)
+
+---
+
 <TagLinks />

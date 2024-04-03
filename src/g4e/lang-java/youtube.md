@@ -195,7 +195,6 @@ head:
 <MyYouTubeItems jsonName="yu-devCJH" /><!-- devCJH -->
 <MyYouTubeItems jsonName="yu-Techtter" /><!-- Techtter -->
 <MyYouTubeItems jsonName="yu-ithotgi" /><!-- IT핥기 -->
-<MyYouTubeItems jsonName="yu-user-ht2jq8bg9b" /><!-- 이숭무 -->
 <MyYouTubeItems jsonName="yu-SpringIOConference" /><!-- Spring I/O -->
 <MyYouTubeItems jsonName="yu-CodeWisTechnologies" /><!-- CodeWis Technologies -->
 <MyYouTubeItems jsonName="yu-ssap-dba" /><!-- 쌉DBA -->

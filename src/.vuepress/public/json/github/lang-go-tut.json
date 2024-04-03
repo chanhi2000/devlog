@@ -24,5 +24,10 @@
     "desc": "Examples of WebRTC applications that are large, or use 3rd party libraries",
     "officialSite": "https://pion.ly/",
     "topics": ["go", "golang", "pion"]
+  }, {
+    "repo": "halfrost/LeetCode-Go",
+    "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "officialSite": "https://books.halfrost.com/leetcode",
+    "topics": ["acm-icpc", "algo", "algorithm", "algorithm-competitions", "algorithms", "algorithms-and-data-structures", "dynamic-programming", "facebook", "go", "golang", "interview-questions", "leetcode", "leetcode-go", "leetcode-golang", "leetcode-solutions", "math", "pattern"]
   }
 ]

@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "0xYY4ou15PE", "title": "[ FLUTTER  10분 ] 네이버 로그인 연동하기 (1강 - IOS)" },
+    { "id": "MeJoG53LE5o", "title": "[ FLUTTER  10분 ] 네이버 로그인 연동하기 (2강 - 안드로이드)" },
     { "id": "mPgqLvUVino", "title": "[ FLUTTER  10분 ] 구글 애드몹 광고 넣기" },
     { "id": "zS3qdBvt1l4", "title": "[ FLUTTER  10분 ] 구글 애드몹 광고 넣기 2" },
     { "id": "BQ7iXKLqgHQ", "title": "[ FLUTTER  10분 ] 카카오 Login 연동하기 (ios , 안드로이드 테스트)" },

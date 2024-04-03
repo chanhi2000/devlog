@@ -468,6 +468,26 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
+  "title": "Visual Dictionary and Thesaurus | Graphwords.com",
+  "desc": "Graphwords.com is a visual thesaurus and dictionary to help you explore English words. Find meanings of words and their associations in easy way using this online thesaurus tool. It's a tool that produces word maps that blossom with related words, branching out to synonyms and definitions.",
+  "link": "https://graphwords.com/",
+  "logo": "https://graphwords.com/img/favicon.png",
+  "background": "rgba(176,208,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney",
+  "desc": "The #1 website for Artificial Intelligence and Prompt Engineering. Search the world's best AI prompts for models like Stable Diffusion, ChatGPT, Midjourney...",
+  "link": "https://prompthero.com/",
+  "logo": "https://prompthero.com/favicon/apple-touch-icon.png",
+  "background": "rgba(115,67,89.0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "공공누리",
   "desc": "",
   "link": "https://www.kogl.or.kr/index.do",
@@ -759,6 +779,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
+  "title": "ambiphone. ambient music + sounds for work, study and relaxation.",
+  "desc": "Ambient music + sounds for work, study and relaxation",
+  "link": "https://ambiph.one/"
+  "logo": "https://ambiph.one/img/app-icons/apple-touch-icon.png",
+  "background": "rgba(201,161,111,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "MemChess",
   "desc": "Learn chess openings and variations online by repeating the most popular chess Master moves",
   "link": "https://grondilu.github.io/memchess/",
@@ -816,7 +846,11 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 - https://susam.net/myrgb.html
 - https://pykidos.github.io/
 - https://parallel-arabic.com/
-- 
+- https://afterthebeep.tel/
+- https://dalle.party/
+- https://bbycroft.net/llm
+- https://puter.com/
+
 :::
 
 ---
