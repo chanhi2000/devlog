@@ -177,5 +177,10 @@ tag:
 
 ---
 
+## Ductile Systems
+
+- [Better Git Conflicts with `zdiff3`](https://ductile.systems/zdiff3/)
+
+---
 
 <TagLinks />

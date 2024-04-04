@@ -178,6 +178,7 @@ tag:
 - [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%881)
 - [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(2)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%882)
 - [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(3)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%883)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(4)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-TypeScript-%EA%B8%B0%EC%B4%884-c1mu78n2)
 - [`@kyj2471` - 프로토 타입](https://velog.io/@kyj2471/%ED%94%84%EB%A1%9C%ED%86%A0-%ED%83%80%EC%9E%85)
 - [`@kyj2471` - 클로저](https://velog.io/@kyj2471/%ED%81%B4%EB%A1%9C%EC%A0%80)
 - [`@kyj2471` - 콜백함수](https://velog.io/@kyj2471/%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98)
@@ -235,6 +236,12 @@ tag:
 
 ---
 
+## Netflix
+
+- [Introducing SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
+
+---
+
 ## DigitalOcean 
 
 - [Using Bitwise operators in JavaScript](https://www.digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
@@ -256,7 +263,13 @@ tag:
 - [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://www.freecodecamp.org/news/improve-reactjs-code)
 - [How to Use GraphQL](https://www.freecodecamp.org/news/graphql-database-tutorial)
 - [Cross-Browser Compatibility Testing – Best Practices for Web Developers](https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers)
--
+
+---
+
+## Inflab Tech
+
+- [인프런은 동적으로 생성되는 OG 이미지가 왜 필요할까?](https://tech.inflab.com/20240219-dynamic-og-image/)
+  
 
 ---
 
@@ -330,9 +343,9 @@ tag:
 - [Why Web UI Development Is So Hard?](https://itnext.io/why-web-ui-development-is-so-hard-a88c47f4b3c5)
 - [Microtask Queue + RxJS + Angular](https://itnext.io/microtask-queue-rxjs-angular-ac3d8612d3f6)
 - [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
-- [`@calebleak`: Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
-- [`baekkyoungjung`: 웹페이지 SEO, 성능, UX 최적화 한번에 하기](https://baekkyoungjung.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-seo-ux-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%9C%EB%B2%88%EC%97%90-%ED%95%98%EA%B8%B0-a529d233c521)
-- [`lemonabase`: 이거 어디까지 올라가는 거예요? - 성능 테스트 환경 구축기](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
+- [`@calebleak` - Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
+- [`baekkyoungjung` - 웹페이지 SEO, 성능, UX 최적화 한번에 하기](https://baekkyoungjung.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-seo-ux-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%9C%EB%B2%88%EC%97%90-%ED%95%98%EA%B8%B0-a529d233c521)
+- [`lemonabase` - 이거 어디까지 올라가는 거예요? - 성능 테스트 환경 구축기](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
 
 ---
 
@@ -735,6 +748,7 @@ tag:
 ## Simon Willison’s TILs
 
 - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
+- [Running OCR against PDFs and images directly in your browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
 
 ---
 
@@ -789,6 +803,13 @@ tag:
 ## JusticeHui가 PS하는 블로그
 
 - [네이버 Yorkie TF 인턴 생존기](https://justicehui.github.io/review/2024/03/30/naver-intern-review/)
+
+---
+
+## 그랩의 블로그
+
+- [개발 배경지식들 빠르게 격파하기](https://www.grabbing.me/grabyroom/8d9e92b19e084c5a8cb173a695aa81af#171215d0045b49e2affaf9e3c6eef635)
+- [프론트엔드(웹) 큰그림 뿌셔먹기](https://www.grabbing.me/grabyroom/3a44d95ce316417ab182370d09fd2bfe#d7dacccb4c0d4d59a33d1da576a1ff1d)
 
 ---
 

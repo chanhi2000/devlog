@@ -570,4 +570,10 @@ tag:
 
 ---
 
+## Make headway towards solving the problem
+
+- [Adapter Pattern](https://iostream.tistory.com/178)
+
+---
+
 <TagLinks />

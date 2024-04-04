@@ -1344,5 +1344,20 @@
     "desc": "A CLI tool for building Go applications.",
     "officialSite": "https://go-nunu.github.io/nunu/",
     "topics": ["ddd", "gin", "go", "golang", "golang-cli", "scaffold"]
+  }, {
+    "repo": "uptrace/bun",
+    "desc": "SQL-first Golang ORM",
+    "officialSite": "https://bun.uptrace.dev",
+    "topics": ["database", "go", "golang", "mssql", "mysql", "orm", "postgresql", "sql", "sqlite", "sqlite3"]
+  }, {
+    "repo": "nilsherzig/LLocalSearch",
+    "desc": "This is a completely locally running meta search engine using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.",
+    "officialSite": "",
+    "topics": ["llm", "search-engine"]
+  }, {
+    "repo": "plandex-ai/plandex",
+    "desc": "An AI coding engine for complex tasks",
+    "officialSite": "https://plandex.ai",
+    "topics": ["ai", "ai-agents", "ai-developer-tools", "ai-tools", "cli", "developer-tools", "golang", "gpt-4", "llm", "openai", "polyglot-programming", "terminal-based"]
   }
 ]

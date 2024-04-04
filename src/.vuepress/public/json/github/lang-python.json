@@ -4724,5 +4724,35 @@
     "desc": "SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models",
     "officialSite": "https://swe-agent.com/",
     "topics": []
+  }, {
+    "repo": "AlexanderKoch-Koch/low_cost_robot",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "princeton-nlp/SWE-bench",
+    "desc": "[ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?",
+    "officialSite": "https://www.swebench.com",
+    "topics": ["benchmark", "language-model", "software-engineering"]
+  }, {
+    "repo": "zeroasiccorp/logik",
+    "desc": "A configurable RTL to bitstream FPGA toolchain",
+    "officialSite": "https://logik.readthedocs.io/en/latest/",
+    "topics": []
+  }, {
+    "repo": "qilingframework/qiling",
+    "desc": "A True Instrumentable Binary Emulation Framework",
+    "officialSite": "https://qiling.io",
+    "topics": ["analysis", "binary", "cross-architecture", "emulator", "framework", "malware", "qiling", "reverse-engineering", "uefi", "unicorn-emulator", "unicorn-engine"]
+  }, {
+    "repo": "DAGWorks-Inc/burr",
+    "desc": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, persist, and execute on your own infrastructure.",
+    "officialSite": "https://burr.dagworks.io",
+    "topics": ["ai", "burr", "chatbot-framework", "dags", "generative-ai", "graphs", "llmops", "llms", "mlops", "persistent-data-structure", "state-machine", "state-management", "visibility"]
+  }, {
+    "repo": "intel-analytics/ipex-llm",
+    "desc": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.",
+    "officialSite": "https://ipex-llm.readthedocs.io",
+    "topics": ["analytics-zoo", "bigdl", "distributed-deep-learning", "keras", "llm", "python", "pytorch", "scala", "spark", "tensorflow", "transformers"]
   }
 ]

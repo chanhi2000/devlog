@@ -32,6 +32,12 @@ head:
 
 ---
 
+## React 
+
+- [React Labs: What We've Been Working On – February 2024](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
+
+---
+
 ## Education
 
 - [Patterns](https://www.patterns.dev/resources)
@@ -156,7 +162,9 @@ head:
 - [`@yerini` - 면접질문-2](https://velog.io/@yerini/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8-2)
 - [`@surim014` - [번역] 리액트가 컴파일될 예정입니다](https://velog.io/@surim014/react-19-will-be-compiled)
 - [`@kyj2471` - Redux에서 React-Query로 이전](https://velog.io/@kyj2471/Redux%EC%97%90%EC%84%9C-React-Query%EB%A1%9C-%EC%9D%B4%EC%A0%84)
-- 
+- [`@kyj2471` - 코드 스플리팅](https://velog.io/@kyj2471/%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%94%8C%EB%A6%AC%ED%8C%85)
+- [`@hakokim` - React Native 앱 접근성 지원 시작하기](https://velog.io/@hakokim/React-Native-%EC%95%B1-%EC%A0%91%EA%B7%BC%EC%84%B1-%EC%A7%80%EC%9B%90-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+
 ---
 
 ## Okta

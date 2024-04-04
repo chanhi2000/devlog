@@ -37,6 +37,12 @@ tag:
 
 ---
 
+## velog
+
+- [[Github 협업, 이것만은 알자] - Cherry pick](https://velog.io/@pgmjun/Github-%ED%98%91%EC%97%85-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EC%95%8C%EC%9E%90-Cherry-pick)
+
+---
+
 ## 인포그랩
 
 - [인포그랩의 소중한 자산입니다. 콘텐츠를 복사할 수 없는 점 너른 양해 부탁드립니다.](https://insight.infograb.net/blog/2023/08/29/gitlab-vs-github)
@@ -66,5 +72,6 @@ tag:
 - [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)
 
 ---
+
 
 <TagLinks />

@@ -66,4 +66,22 @@ tag:
 
 ---
 
+## passion is like genius; a miracle.
+
+- [Chromebook 은 어떨까](https://mkseo.pe.kr/blog/?p=4907)
+
+---
+
+## Henrik's Blog
+
+- [Homemade 6 GHz pulse compression radar](https://hforsten.com/homemade-6-ghz-pulse-compression-radar.html)
+
+---
+
+## Más Bandwidth
+
+- [XDP for Game Programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
+
+---
+
 <TagLinks />

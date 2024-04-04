@@ -162,4 +162,10 @@ tag:
 
 ---
 
+## nowotarski.info
+
+- [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
+
+---
+
 <TagLinks />

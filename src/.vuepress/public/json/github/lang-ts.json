@@ -2508,5 +2508,35 @@
     "desc": "Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic! ",
     "officialSite": "http://demo.dashpress.io",
     "topics": ["admin", "admin-dashboard", "admin-panel", "admin-ui", "crud-generator", "internal-applications", "internal-tools", "low-code", "lowcode", "no-code", "nocode", "nodejs", "react", "typescript"]
+  }, {
+    "repo": "tonaljs/tonal",
+    "desc": "A functional music theory library for Javascript",
+    "officialSite": "https://tonaljs.github.io/tonal/docs",
+    "topics": ["chord-progression", "chords", "functional", "interval", "javascript", "key-signatures", "music", "music-theory", "scale", "transpose", "typescript"]
+  }, {
+    "repo": "OneUptime/oneuptime",
+    "desc": "OneUptime is the complete open-source observability platform.",
+    "officialSite": "https://oneuptime.com",
+    "topics": ["devops", "incident-management", "incident-response", "monitoring", "observability", "on-call", "status-page"]
+  }, {
+    "repo": "atlassian/pragmatic-drag-and-drop",
+    "desc": "Fast drag and drop for any experience on any tech stack",
+    "officialSite": "https://atlassian.design/components/pragmatic-drag-and-drop",
+    "topics": ["dnd", "drag-and-drop", "dropzone", "sortable"]
+  }, {
+    "repo": "formkit/tempo",
+    "desc": "📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.",
+    "officialSite": "https://tempo.formkit.com",
+    "topics": ["date", "date-formatting", "datetime", "javascript", "time", "time-formatting", "typescript"]
+  }, {
+    "repo": "rocketseat-education/nlw-unite-nodejs",
+    "desc": "Back-end em Node.js desenvolvido durante o NLW Unite da Rocketseat",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ixartz/SaaS-Boilerplate",
+    "desc": "🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing",
+    "officialSite": "https://react-saas.com/",
+    "topics": ["authentication", "boilerplate", "multi-tenancy", "nextjs", "react", "reactjs", "saas", "saas-app", "saas-application", "saas-boilerplate", "saas-kit", "shadcn-ui", "stack", "starter", "starter-kit", "starter-project", "starter-template", "template", "template-project", "typescript"]
   }
 ]

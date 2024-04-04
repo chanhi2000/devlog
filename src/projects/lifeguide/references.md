@@ -52,4 +52,16 @@ tag:
             
 ---
 
+## Dveamer
+
+- [11차 퀀트투자 수익, 수익률 공개 : 하위20% 소형주 + 고성장 + 분기 PFCR 저벨류 + 고마진](https://dveamer.github.io/investing/My11thQuantInvestingResult.html)
+
+---
+
+## 연로그
+
+- [무기력을 흘려보내는 이야기](https://yeonyeon.tistory.com/326)
+
+---
+
 <TagLinks />

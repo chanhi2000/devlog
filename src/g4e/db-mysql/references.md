@@ -29,7 +29,10 @@ tag:
 
 ## velog
 
-- [`@eunbibi`: Database](https://velog.io/@eunbibi/Database)
+- [`@eunbibi` - Database](https://velog.io/@eunbibi/Database)
+- [`@eunbibi` - `concat`, `alias`, `distinct`, `limit`](https://velog.io/@eunbibi/concat-alias-distinct-limit)
+- [`@eunbibi` - `UNION`,](https://velog.io/@eunbibi/UNION)
+- [`@eunbibi` - `JOIN`](https://velog.io/@eunbibi/JOIN)
 
 ---
 

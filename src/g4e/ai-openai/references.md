@@ -305,5 +305,11 @@ tag:
 
 ---
 
+## Pega Devlog
+
+- [ChatGPT 활용 KIER 강의자료 중 업무효율화 SW](https://jehyunlee.github.io/2024/04/02/General-47_kierworkaccel/)
+
+---
+
 <TagLinks />
 

@@ -524,5 +524,10 @@
     "desc": "API to determine if an image should be inverted for optimal dark-mode rendering.",
     "officialSite": "https://invertornot.com/",
     "topics": []
+  }, {
+    "repo": "huggingface/cookbook",
+    "desc": "Open-source AI cookbook",
+    "officialSite": "https://huggingface.co/learn/cookbook",
+    "topics": []
   }
 ]

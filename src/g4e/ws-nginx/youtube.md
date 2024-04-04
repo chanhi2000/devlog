@@ -1,15 +1,13 @@
 ---
 lang: ko-KR
-title: NGINX
-description: NGINX
-icon: fa-brands fa-neos
-category: 
+title: Youtube
+description: NGINX > Youtube
+icon: fa-brands fa-youtube
+category:
   - NGINX
-tag: 
-  - nignx
-  - webserver
-  - web-server
-  - reverse-proxy
+  - Youtube
+tag:
+  - NGINX
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,8 +15,6 @@ tag:
 ::: tip NOTE
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
-
-<ShieldsGroup logos="nginx"/>
 
 ---
 

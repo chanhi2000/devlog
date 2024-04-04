@@ -17,6 +17,12 @@ tag:
 
 ---
 
+## Google Open Source Blog
+
+- [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
+
+---
+
 ## Étienne Laurin
 
 - [C++ left arrow operator](https://www.atnnn.com/p/operator-larrow/)
@@ -40,12 +46,26 @@ tag:
 - [[Q&A] vector에 객체를 직접 대입하는 경우...](https://blog.naver.com/tipsware/223395160791)
 - [`printf` 함수의 형식 지정자 실습용 프로그램 - Step 2](https://blog.naver.com/tipsware/223400595787)
 - [일정한 간격으로 파일 생성하기](https://blog.naver.com/tipsware/223401287814)
+- [[Q&A] 로그 코드에 호출된 함수 이름을 추가하려고 합니다.](https://blog.naver.com/tipsware/223403816586?)
 
 ---
 
 ## Cpp2 and cppfront — An experimental 'C++ syntax 2' and its first compiler
 
 - [Overview: What are Cpp2 and cppfront? How do I get and build cppfront?](https://hsutter.github.io/cppfront/)
+
+---
+
+## Bokyoung's TechNote
+
+- [백준 14890 - 경사로](https://bellbpng.github.io/baekjoon%20solution/14890/)
+- [백준 14891 - 톱니바퀴](https://bellbpng.github.io/baekjoon%20solution/14891/)
+
+---
+
+## PROBABLY DANCE
+
+- [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 
 ---
 

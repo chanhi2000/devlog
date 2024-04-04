@@ -1104,5 +1104,10 @@
     "desc": "Experimental, end-to-end AI features for .NET apps",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "DataExpert-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "officialSite": "",
+    "topics": ["apachespark", "awesome", "bigdata", "data", "dataengineering", "sql"]
   }
 ]

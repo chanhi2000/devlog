@@ -199,5 +199,14 @@ tag:
 
 - [(요약) The mind behind Linux | Linus Torvalds](https://johngrib.github.io/wiki/summary-the-mind-behind-linux)
 - [`bc`, An arbitrary precision calculator language](https://johngrib.github.io/wiki/cmd/bc/)
+- [`touch`: change file access and modification times](https://johngrib.github.io/wiki/cmd/touch/)
+
+---
+
+## rachelbythebay : Writing
+
+- [`autoconf` makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
+
+---
 
 <TagLinks />

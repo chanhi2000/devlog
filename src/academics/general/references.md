@@ -33,6 +33,7 @@ tag:
 - [Sampling: What Nyquist Didn’t Say, and What to Do About It](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
 - [Projective Geometric Algebra](https://projectivegeometricalgebra.org/projgeomalg.pdf)
 - [Conformal Geometric Algebra](https://projectivegeometricalgebra.org/confgeomalg.pdf)
+- [The Quintic, the Icosahedron, and Elliptic Curves](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
 
 ---
 
@@ -308,6 +309,12 @@ tag:
 ## Frank's Ramblings
 
 - [Vision Transformers are Overrated](https://frankzliu.com/blog/vision-transformers-are-overrated)
+
+---
+
+## foreXiv
+
+- [Legendre transform](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
 
 ---
 

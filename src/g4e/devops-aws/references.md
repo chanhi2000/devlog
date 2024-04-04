@@ -43,6 +43,12 @@ tag:
 
 ---
 
+## velog
+
+- [`@ksh4704` - 코드스테이츠-부트캠프 [Deploy]-AWS](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Deploy-AWS)
+
+---
+
 ## Dev.to
 
 - [A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
@@ -103,6 +109,12 @@ tag:
 ## clean up the desk
 
 - [[aws summit seoul 2023] 당신만 모르고 있는 AWS 컨트롤 타워 트렌드](https://cleanupthedesk.tistory.com/70)
+
+---
+
+## Inflab Tech
+
+- [스타트업 엔지니어의 AWS 비용 최적화 경험기](https://tech.inflab.com/20240227-finops-for-startup/)
 
 ---
 

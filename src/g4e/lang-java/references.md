@@ -18,7 +18,7 @@ tag:
 
 ---
 
-## ☕️Java
+## <FontIcon icon="fa-brands fa-java"/>Java
 
 ### Stackoverflow
 
@@ -219,9 +219,17 @@ tag:
 
 - [Java 22 Delivers Foreign Memory & Memory API, Unnamed Variables & Patterns, and Return of JavaOne](https://www.infoq.com/news/2024/03/java22-released/)
 
+### 얇고 넓은 개발자
+
+- [클린 코드 - 1. 객체 지향 생활 체조](https://sundries-in-myidea.tistory.com/164)
+
+### 
+
+- [Java 멀티스레딩, 병행성 및 성능 최적화](https://jwkim96.tistory.com/324)
+
 ---
 
-## 🅺Kotlin
+## <FontIcon icon="fa-brands fa-kickstarter"/>Kotlin
 
 ### Roadmap
 

@@ -781,7 +781,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 {
   "title": "ambiphone. ambient music + sounds for work, study and relaxation.",
   "desc": "Ambient music + sounds for work, study and relaxation",
-  "link": "https://ambiph.one/"
+  "link": "https://ambiph.one/",
   "logo": "https://ambiph.one/img/app-icons/apple-touch-icon.png",
   "background": "rgba(201,161,111,0.2)"
 }

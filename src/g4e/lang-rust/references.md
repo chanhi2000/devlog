@@ -64,7 +64,7 @@ tag:
 
 ## hashrust
 
-- [A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust)
+- [A guide to sures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust)
 
 ---
 
@@ -234,6 +234,12 @@ tag:
 ## Wesley Moore
 
 - [Building a Hybrid Native Application With Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
+
+---
+
+## Cloudflare
+
+- [Open sourcing Pingora: our Rust framework for building programmable network services](https://blog.cloudflare.com/pingora-open-source)
 
 ---
 

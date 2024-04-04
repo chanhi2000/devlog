@@ -36,6 +36,12 @@ tag:
 
 ---
 
+## Inflab Tech
+
+- [개발-운영 생산성 모니터링하기 (with Devlake, Grafana)](https://tech.inflab.com/20240221-dora-metric-with-devlake/)
+
+---
+
 ## Linux Handbook
 
 - [Complete Beginner's Guide to Kubernetes Cluster Deployment on CentOS (and Other Linux)](https://linuxhandbook.com/kubernetes-cluster-deployment)

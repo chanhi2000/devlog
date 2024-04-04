@@ -237,6 +237,20 @@ tag:
 
 ---
 
+## 기계인간 John Grib
+
+- [`bc`, An arbitrary precision calculator language](https://johngrib.github.io/wiki/cmd/bc/)
+- [`touch`: change file access and modification times](https://johngrib.github.io/wiki/cmd/touch/)
+
+---
+
+## Dagger
+
+- [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
+  
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)

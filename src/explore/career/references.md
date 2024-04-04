@@ -25,6 +25,12 @@ tag:
 
 ---
 
+## Google Site Reliability Engineering
+
+- [Product-Focused Reliability for SRE](https://sre.google/resources/practices-and-processes/product-focused-reliability-for-sre/)
+
+---
+
 ## Opinion
 
 - [blog.shiren.dev/2020-11-23](https://blog.shiren.dev/2020-11-23): 누구나 원하는 개발자되기
@@ -147,6 +153,8 @@ tag:
 
 - [안 하는 것과 못하는 것](https://blog.naver.com/cybervictor008/223399042771)
 - [가장 중요한 것은?](https://blog.naver.com/cybervictor008/223401802404)
+- [결이 다르다?](https://blog.naver.com/cybervictor008/223404138961?)
+- [정리하다.](https://blog.naver.com/cybervictor008/223402005645?)
 
 ---
 
@@ -174,6 +182,7 @@ tag:
 
 - [[스파르타코딩클럽] 데일리 미션 - Lv.2 웹개발자 JD 분석](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EB%AF%B8%EC%85%98-Lv2-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90-JD-%EB%B6%84%EC%84%9D)
 - [[스파르타코딩클럽] 데일리미션 - Lv.3 비슷한 직무 JD 분석](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv3-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A7%81%EB%AC%B4-JD-%EB%B6%84%EC%84%9D)
+- [[스파르타코딩클럽] 데일리미션 - Lv.4 웹개발 용어 정리 2](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv4-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-2)
 
 ---
 
@@ -253,6 +262,42 @@ tag:
 ## The Smashing Magazine
 
 - [The End Of My Gatsby Journey](https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/)
+
+---
+
+## 파랑새
+
+- [풀지 못한 프로그래머의 생산성 문제](https://blog.naver.com/birdparang/223402009011?)
+
+---
+
+## K리그 프로그래머
+
+- [1인 개발자로 행복하게 살기 (송도 헬로월드 2024 발표)](https://jeho.page/essay/2024/04/01/songdo.html)
+
+---
+
+## 오세용닷컴
+
+- [[유자랩스 창업기 #36] 판단하지 마세요. 제안하세요.](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-36-%ed%8c%90%eb%8b%a8%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-%ec%a0%9c%ec%95%88%ed%95%98%ec%84%b8%ec%9a%94/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%25a0%25ec%259e%2590%25eb%259e%25a9%25ec%258a%25a4-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b8%25b0-36-%25ed%258c%2590%25eb%258b%25a8%25ed%2595%2598%25ec%25a7%2580-%25eb%25a7%2588%25ec%2584%25b8%25ec%259a%2594-%25ec%25a0%259c%25ec%2595%2588%25ed%2595%2598%25ec%2584%25b8%25ec%259a%2594)
+
+---
+
+## Qiang
+
+- [PM에게 유용한 프로젝트 관리 방법론](https://blog.qaing.co/projectmanagement)
+
+---
+
+## Rob Mensching
+
+- [A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
+
+---
+
+## Reactor
+
+- [On Letting Go of the Idea of “Keeping Up”](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
 
 ---
 

@@ -1264,5 +1264,15 @@
     "desc": "✨ rudimentary simulation of the three-body problem",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Netflix/bpftop",
+    "desc": "bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "HardhatChad/ore",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

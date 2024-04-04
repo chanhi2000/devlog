@@ -59,5 +59,10 @@
     "desc": "📦 The default bucket for Scoop.",
     "officialSite": "https://scoop.sh",
     "topics": ["scoop", "scoop-apps", "scoop-bucket"]
+  }, {
+    "repo": "actions/runner-images",
+    "desc": "GitHub Actions runner images",
+    "officialSite": "",
+    "topics": []
   }
 ]

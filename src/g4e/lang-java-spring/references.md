@@ -87,7 +87,7 @@ head:
 
 ---
 
-## 기계인간 John Grib
+## 기계인간 John Grib 
 
 - [릴리즈 트레인 (Release Train)](https://johngrib.github.io/wiki/spring/cloud/release-train/)
 

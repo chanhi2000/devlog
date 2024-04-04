@@ -685,6 +685,15 @@ export const sidebarEn = sidebar({
         '/g4e/ws-webtob/README.md',
         '/g4e/ws-webtob/basics.md',
         '/g4e/ws-webtob/references.md'
+      ] 
+    }, {
+      text: 'NGINX',
+      collapsible: true,
+      icon: 'fa-brands fa-neos',
+      children: [
+        '/g4e/ws-nginx/README.md',
+        '/g4e/ws-nginx/references.md',
+        '/g4e/ws-nginx/youtube.md',
       ]
     }, 
     //endregion

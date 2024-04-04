@@ -190,4 +190,16 @@ tag:
 
 ---
 
+## research!rsc
+
+- [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
+
+---
+
+## 데브시스터스
+
+- [세계 최초로 cert-manager 버그를 발견하고 해결하기](https://tech.devsisters.com/posts/finding-and-fixing-cert-manager-bug/)
+
+---
+
 <TagLinks />

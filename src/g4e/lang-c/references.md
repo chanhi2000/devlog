@@ -25,6 +25,18 @@ tag:
 
 ---
 
+## Microsoft
+
+- [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
+
+---
+
+## Red Hat Developer
+
+- [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler#)
+
+---
+
 ## Medium
 
 - [C pointers guide in 2023](https://levelup.gitconnected.com/c-pointers-guide-in-2023-82d5ef8afb98)
