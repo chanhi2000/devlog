@@ -2,8 +2,8 @@
   "channel": {
     "id": "ChromeDevs",
     "name": "Chrome for Developers",
-    "profile": "https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s160-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/z7D6byt5OmReaIl2bMx3lTSfr15mUOubB-QDuEqQ9P3oZOzZnjVttQzwJlnPw59OPdk4sEKY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2A3Qqy8ezQrLgyGOdwAlQMedrqV12aqV8o_4UfJtg42hvPu6Uw0Tk5MSvodE2oaecTEItVS7=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "BIpz9Hdjm_A", "title": "Debugging speculative navigations for faster page loads #DevToolsTips" },

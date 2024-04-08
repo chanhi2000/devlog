@@ -2,8 +2,8 @@
   "channel": {
     "id": "jejucodingcamp",
     "name": "제주코딩베이스캠프",
-    "profile": "https://yt3.googleusercontent.com/3hz56HjIGViMbtdu-JbuGw1Vu_FUZRlPD01AAlS29D8PAilecyFxTBdJScVGXxm3_AuuM_10=s160-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/1BZRbzAm66GtM7P5Vm0tyEFFGXRjeuUJkBhY1jjOYc1D2ztciBB8QrwgFvH7ukZ9scBhkuwO=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/3hz56HjIGViMbtdu-JbuGw1Vu_FUZRlPD01AAlS29D8PAilecyFxTBdJScVGXxm3_AuuM_10=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1Mn8fBu9uxfejUVNCptbZuX75Er5rz_RLa3_4-cN-cWCdBM7mFr-0B4WWVMK9gpY4kxcwAJh4LU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "CnnZi3_F8DY", "title": "[Python 알고리즘 베이직 100] #24. 연속 수열의 최대합" },

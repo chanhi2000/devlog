@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/sYKSmIMzjshWM6wgrkIsF2oxaIcY0Fa6wmsfbc2GiJWKlsTR5e6nST0ljxwu-_nuHuE52crOsQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gMTfkPxcoEk", "title": "My Ultimate Case For The Amazing MX Corne Keyboard | Tented & Regular" },
+    { "id": "vzDTdLaAzXc", "title": "How To Build An RGB Corne Split Keyboard: The Complete Beginner's Guide" },
+    { "id": "AA8fw2MbpYg", "title": "How To Program Your Keyboard With Code Instead Of QMK Configurator" },
+    { "id": "6pAG3BHurdM", "title": "How I Setup Neovim To Make It AMAZING In 2024 | Complete Guide" },
     { "id": "8W06wMNZmo8", "title": "How To Make An Amazing Custom Menu Bar For Your Mac With Sketchybar" },
     { "id": "CEMPq_r8UYQ", "title": "A Powerful Way To Make Editing Code In Neovim Even Better" },
     { "id": "ybUE4D80XSk", "title": "How To Setup Linting/Formatting In Neovim & Replace null-ls" },

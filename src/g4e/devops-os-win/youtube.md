@@ -62,5 +62,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Tips2Fix" /><!-- Tips 2 Fix -->
 <MyYouTubeItems jsonName="yu-MikeTholfsen" /><!-- Mike Tholfsen -->
 <MyYouTubeItems jsonName="yu-masterbot" /><!-- 마스터봇 -->
+<MyYouTubeItems jsonName="yu-ringring_creator" /><!-- RingRing -->
 
 <TagLinks />

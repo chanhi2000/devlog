@@ -115,5 +115,7 @@ head:
 <MyYouTubeItems jsonName="yu-HoneyJamini" /><!-- 꿀잼미니 -->
 <MyYouTubeItems jsonName="yu-bbocute_main" /><!-- 뽀큐트 -->
 <MyYouTubeItems jsonName="yu-DanoTV" /><!-- DanoTV -->
+<MyYouTubeItems jsonName="yu-outstandcrew" /><!-- 아웃스탠딩TV -->
+<MyYouTubeItems jsonName="yu-goldenmanual" /><!-- 황금설명서 -->
 
 <TagLinks />

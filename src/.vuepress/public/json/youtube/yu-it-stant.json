@@ -1,11 +1,16 @@
 {
   "channel": {
-    "id": "icurfer",
-    "name": "icurfer",
-    "profile": "https://yt3.googleusercontent.com/4lECkGOU1Eniur2rPDo2Q21NK0hNT1IW36ASz4Ij3cEGRz6drmLe4rCiLbfOelqyCVXAEcRbNg=s176-c-k-c0x00ffffff-no-rj",
+    "id": "it-stant",
+    "name": "itstant",
+    "profile": "https://yt3.googleusercontent.com/cXwhsWd4-gp2PWFNgWyY20z5DAD_tMFMpIXsC0ulEAIle2PWBn8T4t4A_5J1fCCbqn0lqV6H=s176-c-k-c0x00ffffff-no-rj",
     "banner": ""
   },
   "videos": [
+    { "id": "UX5s10vkMA8", "title": "우분투 22.04 | 2. 파일 시스템 계층 표준 ( 폴더 구조 )" },
+    { "id": "wiB60gnQFwQ", "title": "쿠버네티스 | 11_OpenLens 설치 및 기본 설정" },
+    { "id": "HD8YOJPcVYo", "title": "쿠버네티스 | 12_Core-dns와 Pod Container 통신" },
+    { "id": "FrEqDNZGsGA", "title": "쿠버네티스 | 13_NFS를 이용한 StorageClass 생성 및 Prometheus 배포" },
+    { "id": "LWYE6FX53ok", "title": "쿠버네티스 | 14_다양한 오픈소스가 배포된 Kubernetes 환경 모아보기" },
     { "id": "64TG9TjczSk", "title": "정보처리기사 | 스키마란?" },
     { "id": "IC9lFyR-UQQ", "title": "python 실습 | 3. python 가상화 설정 및 django 시작하기" },
     { "id": "j6jU3RuOYF4", "title": "우분투 리눅스 입문 | 0. 오리엔테이션 및 가상머신 생성 VirtualBox 7.0" },

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "TheCodingSloth",
+    "name": "The Coding Sloth",
+    "profile": "https://yt3.googleusercontent.com/tefsSEFVJaD0OnAnAQH1s2zAilKRUXoIZdfIetoFxLhS9Tg-WuuxwgMec1ri8bNFhk0U01GbMQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LxEKqRtDoAhqfJ0Z4H76NYsXttIiop8nOGffDYHH4GjfkvfVOcRS8Rlr8lFHWpk88gjJCFjwOQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iLFMeauv4Jw", "title": "This COULD Help You Get MORE Software Engineer Interviews" },
+    { "id": "SS19Q-_saCc", "title": "This is Why Programming Is Hard For you" },
+    { "id": "_DAb1XDsaHM", "title": "I Turned Tinder Into A Pet Adoption App" }
+  ]
+}

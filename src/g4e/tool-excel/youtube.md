@@ -92,5 +92,7 @@ tag:
 <MyYouTubeItems jsonName="yu-ExcelCampus" /><!-- Excel Campus - Jon -->
 <MyYouTubeItems jsonName="yu-OtherLevels" /><!-- Other Level’s -->
 <MyYouTubeItems jsonName="yu-LearnitTraining" /><!-- Learnit Training -->
+<MyYouTubeItems jsonName="yu-FMWC" /><!-- Financial Modeling World Cup -->
+<MyYouTubeItems jsonName="yu-deepsam77" /><!-- 딥쌤 -->
 
 <TagLinks />

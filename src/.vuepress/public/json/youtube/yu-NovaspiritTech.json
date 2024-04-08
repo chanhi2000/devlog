@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/4cfS36Ere2G2viZ1eUeJIny-Q-QZ6op3UnM3r0HkThZzZFLyzj69gWgfwoAAd6lNt6c43GLxVw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zmtnbl2OJYs", "title": "Play PC Games on Raspberry Pi 5" },
+    { "id": "rDNWhwWCk2k", "title": "Outfit your Proxmox with Pi-Hole" },
     { "id": "3pGuZz_1BzI", "title": "A Complete OS on 1.44MB Floppy Disk" },
     { "id": "LEyElt_yP50", "title": "Installing Android On Proxmox As A Virtual Machine Using BlissOS" },
     { "id": "_jP1zFK-clc", "title": "Windows 11 Clone? .... Wubuntu" },

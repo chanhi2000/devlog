@@ -1,9 +1,9 @@
 {
   "channel": {
     "id": "codeWithAndrei",
-    "name": "CodingWithAndrei",
+    "name": "Code with Andrei",
     "profile": "https://yt3.googleusercontent.com/jEsrsQIihZpMCKSRHRQVcHrLwcNdj59nLt1l8dkpoCe28RI9KgbYR3ZC1Hc6FTB3RbfFDZBLIg=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/yg2gjbpBspMKQ-ti6WCs3K-DzhRBfOarXZRwvcjZdkBQS60itKvZmKXfkMnPQKjoLn-fCVQQkw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/rWXU9WRlk0bwvIUqHzWHtD-_Dy712Y9r0OLu_CWOQE4-oqFOaeD0TXy8g90td_g58r3j7uP3nA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "wke9-zU1lOM", "title": "Build a Furniture Store App with Swift UI #9" },

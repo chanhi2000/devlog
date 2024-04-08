@@ -1359,5 +1359,15 @@
     "desc": "An AI coding engine for complex tasks",
     "officialSite": "https://plandex.ai",
     "topics": ["ai", "ai-agents", "ai-developer-tools", "ai-tools", "cli", "developer-tools", "golang", "gpt-4", "llm", "openai", "polyglot-programming", "terminal-based"]
+  }, {
+    "repo": "aurora-develop/aurora",
+    "desc": "free",
+    "officialSite": "",
+    "topics": ["chatgpt", "free", "gpt"]
+  }, {
+    "repo": "pldubouilh/alarm",
+    "desc": "Fire alarm beep detection",
+    "officialSite": "",
+    "topics": []
   }
 ]

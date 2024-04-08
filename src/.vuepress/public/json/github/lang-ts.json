@@ -2538,5 +2538,20 @@
     "desc": "🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing",
     "officialSite": "https://react-saas.com/",
     "topics": ["authentication", "boilerplate", "multi-tenancy", "nextjs", "react", "reactjs", "saas", "saas-app", "saas-application", "saas-boilerplate", "saas-kit", "shadcn-ui", "stack", "starter", "starter-kit", "starter-project", "starter-template", "template", "template-project", "typescript"]
-  }
+  }, {
+    "repo": "cloudflare/orange",
+    "desc": "",
+    "officialSite": "https://demo.orange.cloudflare.dev/",
+    "topics": []
+  }, {
+    "repo": "pagefaultgames/pokerogue",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "eduardoleao052/js-pytorch",
+    "desc": "A JavaScript library like PyTorch, built from scratch.",
+    "officialSite": "",
+    "topics": ["automatic-differentiation", "deep-learning", "javascript-library", "neural-networks", "pytorch"]
+  }  
 ]

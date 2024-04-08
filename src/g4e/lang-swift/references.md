@@ -294,4 +294,10 @@ tag:
 
 ---
 
+## Fernando 기술블로그
+
+- [다가오는 5월, iOS Privacy Manifest 심사 대응 준비하기](https://fernando.kr/develop/2024-04-07-ios-privacy-manifest-scanner/)
+
+---
+
 <TagLinks />

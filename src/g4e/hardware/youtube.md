@@ -27,6 +27,13 @@ tag:
 <MyYouTubeItems jsonName="yu-BullsLab" /><!-- 뻘짓연구소 -->
 <MyYouTubeItems jsonName="yu-WorkFromHype" /><!-- Work From Hype -->
 <MyYouTubeItems jsonName="yu-ETAPRIME" /><!-- ETA PRIME -->
+<MyYouTubeItems jsonName="yu-quad-robotics" /><!-- 쿼드(QUAD) 드론 연구소 -->
+<MyYouTubeItems jsonName="yu-ArticulatedRobotics" /><!-- Articulated Robotics -->
+<MyYouTubeItems jsonName="yu-electronicsrepairschool" /><!-- Electronics Repair School -->
+<MyYouTubeItems jsonName="yu-2GuysTek" /><!-- 2GuysTek -->
+<MyYouTubeItems jsonName="yu-NovaspiritTech" /> <!-- Novaspirit Tech -->
+<MyYouTubeItems jsonName="yu-MattKC" /><!-- MattKC -->
+<MyYouTubeItems jsonName="yu-Keybored" /><!-- Keybored -->
 
 ---
 

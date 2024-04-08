@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/tzHfGYzu6qkZpCd-nn0c58mfvimB7mJoeCyR7Xi4Is8WQqijstRr-dqGEFtbNWtwxuhE1K7P=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8hlWCPsUQqk", "title": "Refresh SwiftUI View Programmatically" },
+    { "id": "xBZRT5Z3ab8", "title": "How to update your app on the App Store in 2024" },
+    { "id": "MiMKXBMhsHo", "title": "Snap to Scroll in SwiftUI (iOS 17+)" },
     { "id": "biQ8neZXW6Q", "title": "The BEST Way to Build an App" }, 
     { "id": "GNaVZBhbmTI", "title": "Alerts & Lists on visionOS (Lesson 3)" },
     { "id": "rdDviHtzA28", "title": "Intermittent Fasting Tracker with WidgetKit & SwiftData | Episode 2" },

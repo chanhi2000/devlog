@@ -38,6 +38,13 @@
     { "id": "FrLPcAvmJCA", "title": "Material 3: How To Support Dynamic Colors And Themed lcon" },
     { "id": "Aey3_l-nyV0", "title": "Protect Your API Keys From Attackers In Android Studio" },
     { "id": "sfjl2hJaAlk", "title": "Pick Photos And Videos From User's Device - Part 2" },
-    { "id": "bhlQq5s0WHw", "title": "How To Create Stars Rating Bar In Jetpack Compose" }
+    { "id": "bhlQq5s0WHw", "title": "How To Create Stars Rating Bar In Jetpack Compose" },
+    { "id": "LaoYe8biUq4", "title": "MVVM Clean Architecture - How To Structure Android Apps" },
+    { "id": "MrigfafMo84", "title": "MVVM Movies App - DetailsScreen & ViewModel - (Last Part)" },
+    { "id": "I338rqAVFaE", "title": "Dagger Hilt Android Tutorial - Dependency Injection" },
+    { "id": "z3upO8AFLO4", "title": "Build A Clean Architecture Movies App -  Part 1" },
+    { "id": "8IhNq0ng-wk", "title": "Retrofit Android Tutorial - Make API Calls" },
+    { "id": "7m8Wm2yyDYA", "title": "Navigation In Jetpack Compose - Android" },
+    { "id": "j88wrM4eRPs", "title": "Lazy Lists In Jetpack Compose - (Lazy Column, Row, Grid)" }
   ]
 }

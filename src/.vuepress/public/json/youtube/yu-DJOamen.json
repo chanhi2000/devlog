@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/6r37uvmD2t76rc90wM9ipbAwlLSPjjNMq-J4xunHUv0gbTm9nZBJM0vUBWFwTIQsbyJnGajm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "n6wJ2yQ8qDQ", "title": "Machine Learning Tutorial of how to Use the SciPy mode method in Python" },
+    { "id": "uHtbxtxHpbY", "title": "Machine Learning Tutorial of how to use the NumPy Median method to find the middle value in Python" },
+    { "id": "2OE6TVxy4KA", "title": "Machine Learning Tutorial of how to use the NumPy mean() method to find an Average in Python" },
+    { "id": "8A9dMXmHEmY", "title": "Machine Learning Tutorial of How to Create an Array containing Random Floats Numbers in Python" },
+    { "id": "hUn8y6UKRYU", "title": "Machine Learning Tutorial of How to Create Standard Deviation using the NumPy std() method in Python" },
+    { "id": "31vls9PWUP4", "title": "How to Create a Lottery Number Generator using Tkinter in Python, Corrected" },
+    { "id": "MFYhh-6E9oY", "title": "How to Create a Calculator with Adobe Animate" },
+    { "id": "anEwEOqI80Q", "title": "How to Create a Weapon Switching  in Unity" },
+    { "id": "6hvmUvoFFM8", "title": "How to Create a Loan Calculator using PMT Function in Java with NetBeans - Full Tutorial" },
+    { "id": "cOy3vxzPUd4", "title": "How to Create a Loan Calculator using PMT Function in Java with NetBeans - Part 2 of 2" },
+    { "id": "MZGKVRBR8p4", "title": "How to Create a Loan Calculator using PMT Function in Java with NetBeans - Part 1 of 2" },
     { "id": "cgZcNk-iK3w", "title": "How to Create a Gantt Chart in Python" },
     { "id": "v41xeKYnIbc", "title": "How to Create a Lottery Number Generator using Tkinter in Python" },
     { "id": "OvHqFHydg9I", "title": "How to Create a Loan Calculator with PMT Function in Visual Basic.Net" },

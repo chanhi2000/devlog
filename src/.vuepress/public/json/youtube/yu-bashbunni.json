@@ -2,10 +2,16 @@
   "channel": {
     "id": "bashbunni",
     "name": "bashbunni",
-    "profile": "https://yt3.googleusercontent.com/ORzy_eq8KGYPLWzxim5BkvHOhBSwquxHpAtYti_tt4QaIvzvX4DhDHj8WhIoaxTrQJr9QYDBrOY=s160-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/NfXI1ruUrRXCQfkNI7fPnRxxNbo-6OJmfl9GbEx8CnUojvyRtZ5az52GFOEGSZ4ZHtemfFzB11M=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ORzy_eq8KGYPLWzxim5BkvHOhBSwquxHpAtYti_tt4QaIvzvX4DhDHj8WhIoaxTrQJr9QYDBrOY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/r_lmUOu3afstlrXYwPvm5RYIwkRc1w7KPpRUw8jw4_KnIlVRSKBCVksUES13UcqRZvKyQ05_=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MHa3AZw8I_U", "title": "programming and being a good person" },
+    { "id": "8wgokv5uzm4", "title": "vibin + workin (pomodoro)" },
+    { "id": "RPona9LJYv4", "title": "learning elm, so I don't need to use javascript" },
+    { "id": "afA577RlvHI", "title": "learning elm, so I can (eventually) build a blog without JavaScript" },
+    { "id": "pdSJbvfw2yw", "title": "Who cares about privacy? (Not decision makers…)" },
+    { "id": "M8VCm_S9-uw", "title": "My (elm) website looks like a terminal | ep.1 home page" },
     { "id": "_7Fz6HcDaOw", "title": "time to learn go? here's how" },
     { "id": "noEb8_1RhkU", "title": "deep work when everything wants your attention" },
     { "id": "3bcjKAan8gA", "title": "Reacting to the Developer Ecosystem Report by JetBrains" },

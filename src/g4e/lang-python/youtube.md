@@ -76,11 +76,10 @@ tag:
 <MyYouTubeItems jsonName="yu-_wy_choi" /><!-- 최원영 -->
 <MyYouTubeItems jsonName="yu-MargaritKyurkchyan" /><!-- Margarit Kyurkchyan -->
 <MyYouTubeItems jsonName="yu-allmdev" /><!-- allmnet의 Python 개발 채널 -->
-<MyYouTubeItems jsonName="yu-icurfer" /><!-- icurfer -->
+<MyYouTubeItems jsonName="yu-it-stant" /><!-- itstant -->
 <MyYouTubeItems jsonName="yu-Tech2etc" /><!-- Tech2 etc -->
 <MyYouTubeItems jsonName="yu-iamrithmic" /><!-- rithmic -->
 <MyYouTubeItems jsonName="yu-code_name_sagang" /><!-- 사강코딩 -->
-<MyYouTubeItems jsonName="yu-AiEmil" /><!-- AiEmil -->
 <MyYouTubeItems jsonName="yu-error_by_night_" /><!-- Error By Night -->
 <MyYouTubeItems jsonName="yu-_JohnHammond" /><!-- John Hammond -->
 <MyYouTubeItems jsonName="yu-orkslayergamedev" /><!-- Ork Slayer Gamedev -->
@@ -102,5 +101,6 @@ tag:
 <MyYouTubeItems jsonName="yu-GregHogg" /><!-- Greg Hogg -->
 <MyYouTubeItems jsonName="yu-user-lu1tr6kr5f" /><!-- 나는 황쌤이다 -->
 <MyYouTubeItems jsonName="yu-kukjinman" /><!-- 국진맨(KUKJINMAN) Ch -->
+<MyYouTubeItems jsonName="yu-logandihel" /><!-- Logan Dihel -->
 
 <TagLinks />

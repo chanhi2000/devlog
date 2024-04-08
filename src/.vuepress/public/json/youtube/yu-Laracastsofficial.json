@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/8Mn7l1_4wF4GhJlxNfU4ohQBbdqNC1r0XZKnrjb4ph0SLv1Yn-BPIzVqWsE5i-tQrNKkP5zRtAA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-RmHhQy2m2M", "title": "How to Bulk Insert Data With Laravel" },
+    { "id": "EuHMmJTk6Vo", "title": "Small Laravel Packages - Big Impact, Ep 02 - Laravel Login Link" },
+    { "id": "r4V1kEu9eZ4", "title": "What's New in Laravel 11, Ep 01 - Fewer Config Files" },
+    { "id": "r4V1kEu9eZ4", "title": "What's New in Laravel 11, Ep 01 - Fewer Config Files" },
+    { "id": "ndq8gHA6J24", "title": "What's New in Laravel 11, Ep 02 - Missing Middleware" },
+    { "id": "xPG3dc9m0qk", "title": "What's New in Laravel 11, Ep 05 - Sqlite Out of the Box" },
+    { "id": "ltijaMn_eAQ", "title": "What's New in Laravel 11, Ep 06 - The Dumpable Trait" },
+    { "id": "SnPyMFTZXTI", "title": "What's New in Laravel 11, Ep 08 - Super Simple Memoization" },
+    { "id": "j9jsI2ByipY", "title": "What's New in Laravel 11, Ep 10 - Per Second Rate Limits" },
+    { "id": "M79PK1ExG4I", "title": "What's New in Laravel 11, Ep 12 - Encryption Key Rotation" },
+    { "id": "mfq-vWM0u8I", "title": "What's New in Laravel 11 - Full Series" },
     { "id": "QmHjVLa6bF8", "title": "Modular Laravel, Ep 03 - Setting Up Service Providers" },
     { "id": "76oUujP7-yE", "title": "Set Alias for PHP Artisan command to save some time!" },
     { "id": "51DcRlyoD7s", "title": "Using OpenAI API in PHP Projects" },

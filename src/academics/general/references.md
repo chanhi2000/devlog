@@ -318,4 +318,10 @@ tag:
 
 ---
 
+## Infinitely More
+
+- [Structuralism](https://www.infinitelymore.xyz/p/structuralism)
+
+---
+
 <TagLinks />

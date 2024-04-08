@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/V27xfJjsKz8SHRwulm1pzYJZVpJbVBTvIg4JdHKyuN9m6jysm2gxZvHT3DxUiik4vihTaFxx5g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QDfLou004iE", "title": "How to make your GitHub more impressive to Employers! (5 simple tips)" },
+    { "id": "YXANJ20--vA", "title": "Ask me anything! (data science, LLMs, landing a job, and more)" },
     { "id": "moi8WPO3Xhs", "title": "How to create & deploy an API in Python! (with interactive documentation)" },
     { "id": "eMOA1pPVUc4", "title": "Solving real world data science tasks with Python Pandas!" }
   ]

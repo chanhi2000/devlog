@@ -53,14 +53,15 @@ tag:
   - "@PRABEESHRK"
   - "@FererAtlus"
   - "@DroidKnights"
-  - "@android_devs_academy"
+  - "@ahmed_guedmioui"
   - "@AndroidPolice"
   - "@gdgosijek5328"
   - "@LearningWorldz"
   - "@ssaurel"
   - "@destoffe"
-  - "@getteched"
+  - "@codeboba"
 ---
+
 
 # {{ $frontmatter.title }} 관련
 
@@ -110,13 +111,12 @@ tag:
 <MyYouTubeItems jsonName="yu-FererAtlus"/><!-- Ferer Atlus -->
 <MyYouTubeItems jsonName="yu-ahmed_guedmioui" /><!-- Ahmed Guedmioui -->
 <MyYouTubeItems jsonName="yu-DroidKnights" /><!-- DroidKnights -->
-<MyYouTubeItems jsonName="yu-android_devs_academy" /><!-- Android Devs Academy -->
 <MyYouTubeItems jsonName="yu-AndroidPolice" /><!-- Android Police -->
 <MyYouTubeItems jsonName="yu-gdgosijek5328" /><!-- GDG Osijek -->
 <MyYouTubeItems jsonName="yu-LearningWorldz" /><!-- LearningWorldz -->
 <MyYouTubeItems jsonName="yu-ssaurel" /><!-- Sylvain Saurel -->
 <MyYouTubeItems jsonName="yu-destoffe" /><!-- Destoffe -->
-<MyYouTubeItems jsonName="yu-getteched" /><!-- GetTeched -->
+<MyYouTubeItems jsonName="yu-codeboba" /><!-- Code Boba -->
 <MyYouTubeItems jsonName="yu-tareksabry5231" /><!-- Tarek Sabry -->
 <MyYouTubeItems jsonName="yu-danieltalkscode" /><!-- Daniel Talks Code -->
 <MyYouTubeItems jsonName="yu-LelandRichardsonDev" /><!-- Leland Richardson -->

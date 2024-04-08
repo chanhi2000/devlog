@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JaO-9U4CBXE", "title": "Part1.  C언어 소개 [디딤돌 C언어]" },
+    { "id": "kNIh6H809s8", "title": "Part 2.  첫 번째 프로그램 Hello, World [디딤돌 C언어]" },
+    { "id": "jM6x-EvNhjY", "title": "\"C언어 입문용\" Part 3. 형식과 메모리 크기, 진수 표현 [디딤돌 C언어]" },
+    { "id": "0Pvo1Bq2a7g", "title": "Part 5. 문자 형식과 ASCII 코드 [디딤돌 C언어]" },
+    { "id": "rsN8KgGP53k", "title": "Part 6. 정수 형식의 표현 범위와 Overflow 값 잘림 현상 [디딤돌 C언어]" },
+    { "id": "jIPrdy2uVNk", "title": "Part 7. 실수 표현과 메모리 구조 [디딤돌 C언어]" },
+    { "id": "m4XXMo_-KnA", "title": "Part 8. 표준 입출력 [디딤돌 C언어]" },
+    { "id": "5l7SUqXrO9A", "title": "Part 9. 산술, 논리, 비교 연산자 [디딤돌 C언어]" },
+    { "id": "-ZDqF-wm5fE", "title": "Part 10. 비트, 쉬프트 연산자 [디딤돌 C언어]" },
+    { "id": "72V-5gD_KdI", "title": "Part 11.  대입, 증감, 기타 연산자 [디딤돌 C언어]" },
     { "id": "eOTQt66y4L0", "title": "지수분포 [파이썬으로 다루는 통계]" },
     { "id": "JPNLJHXyGVs", "title": "[C++] Windows 그룹 목록 열거하기 - NetLocalGroupEnum 함수" },
     { "id": "1MlDAfTNctg", "title": "키보드 후킹 라이브러리 및 앱 만들기 [C++]" },

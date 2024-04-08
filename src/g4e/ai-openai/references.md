@@ -308,6 +308,19 @@ tag:
 ## Pega Devlog
 
 - [ChatGPT 활용 KIER 강의자료 중 업무효율화 SW](https://jehyunlee.github.io/2024/04/02/General-47_kierworkaccel/)
+- [KIER 강연 - AI활용 업무 효율화 방안](https://jehyunlee.github.io/2024/04/03/General-48_kierworkaccellec/)
+
+---
+
+## PlugBear
+
+- [11 Practical AI Use Cases you can build in a day](https://plugbear.io/posts/11-practical-use-cases)
+
+---
+
+## 김태영의 케라스 블로그
+
+- [Gemma 온디바이스 탑재 - 웹브라우저편](https://tykimos.github.io/2024/04/02/gemma_ondevice_webbrowser_fast_execute/)
 
 ---
 

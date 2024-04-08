@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/8gkCcFYrQ-KvvRsXMBb3-GUZ_7o19mqMpnAIvHGzrQ91C6Uyya5E3jHkTwLeoAyUPhVUJNEbLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UiROuE91IYY", "title": "Build a Full Stack Social Media App | React, Firebase, Uploadcare, Tailwind CSS & Shadcn/UI | Ep.1" },
+    { "id": "FYQ3u-N3b90", "title": "Build a Full Stack Social Media App | React, Firebase, Uploadcare, Tailwind CSS & Shadcn/UI | Ep.2" },
+    { "id": "rQa2MtrFOTY", "title": "Build & Deploy React, TypeScript & Firebase Full Stack Social Media App | Ep. 3" },
     { "id": "-fj1loJfSdA", "title": "Learn Vite For Next React TypeScript Project in 2024 | Vite Crash Course in 15 minutes" },
     { "id": "0ysWx_XPdG0", "title": "SquareX : The future of web browsing | Browser Security and Privacy Extension" },
     { "id": "sKq-aSrnZog", "title": "Building a URL Shortener MERN Stack App with Node.js, TypeScript, MongoDB & React  Ep.1" },

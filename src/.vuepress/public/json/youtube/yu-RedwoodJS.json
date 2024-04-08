@@ -2,8 +2,8 @@
   "channel": {
     "id": "RedwoodJS",
     "name": "RedwoodJS",
-    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kUOhffwEuRB4aFaXDXP1eZ0Uus97dN1Lkyudkv=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/k09aTTLoIEaXOYz0ZjqsGZ0nxE7PZNLu3V5ZIxg47_CHoriZKHcvk2UjEQnmu5LTpDL5BUPrmQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lx-YwfnAo8N5zxFTsuYrA_WIZ-N3AWRkdqzf5OoBK0qw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DbrryfKCSxZr9t504TNG5YMlv2Kyq3VkBJoWNnKguRuOn16oxh7cwNgPzWD0DzxzKGp5hlBT=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "XpGk6ZKE_SM", "title": "Town Hall February 2024: Announcing Redwood's React Server Components (RSC) Roadmap" }

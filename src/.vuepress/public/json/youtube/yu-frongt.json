@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/iQx_lCTQix7c8Hq7sFlNZB1_ORXT2a4-lN-c_gDxIo1w4kAah7dJUdRpXH8rupFH7fNKyzj4EZk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YVYgeTcM6ew", "title": "프론트엔드 코드를 망치는 9가지 방법" },
+    { "id": "-bJ5rkdtgQs", "title": "요즘 회사들이 원하는 역량은?" },
+    { "id": "BZhFObQ0nc8", "title": "이것은 필수이며 기본입니다." },
     { "id": "vf8WjR4zJj0", "title": "figma 드리븐코딩?  Next말고 no JS대세? TS 꺾이나..?" },
     { "id": "9KK4URh_YjI", "title": "이건 알고 리액트랑 넥스트 하는 걸로" },
     { "id": "eeC6t9ZGmMs", "title": "함수는 (알고보면) 객체였다?" },

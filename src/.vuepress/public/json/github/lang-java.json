@@ -619,5 +619,10 @@
     "desc": "GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
     "officialSite": "https://www.graalvm.org",
     "topics": ["aot", "compiler", "graalvm", "java"]
+  }, {
+    "repo": "AutoMQ/automq",
+    "desc": "A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.",
+    "officialSite": "https://www.automq.com",
+    "topics": ["cloud", "cloud-economics", "cloud-native", "ebs", "kafka", "messaging", "minio", "s3", "serverless", "spot", "storage", "streaming"]
   }
 ]

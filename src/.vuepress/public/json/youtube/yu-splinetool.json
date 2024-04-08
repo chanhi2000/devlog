@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/cP5PrZvooVMJujLSwbRq3RtT5D55ypWEKbYFFkTrJgojMDiz-7haPP0UI-R2G0P0TtceMYnMzAQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lRhLWE_cXkc", "title": "How to create particles in 3d with Spline" },
+    { "id": "xoujiGBf5Ow", "title": "How to create lens blur DoF for 3D scenes on Spline" },
+    { "id": "kS_EJGDYN-g", "title": "How to Create Interactive Sand Particles in 3D with Spline" },
+    { "id": "QVRCZi0kyL0", "title": "How to Create Stylized 3D Text Using the Path Tool in Spline" },
     { "id": "Id_SZVCUVMM", "title": "How to use variables to create interactive 3d content in Spline" },
     { "id": "qPht5-9slhI", "title": "Designs using the Glass Material in Spline. #3d #3ddesign #3danimation #webdesign #designtools #uiux" }
   ]

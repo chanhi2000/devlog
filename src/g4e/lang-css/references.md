@@ -115,6 +115,7 @@ tag:
 - [`@danjr`: HTML 기본 태그 - (4)](https://velog.io/@danjr/HTML-%EA%B8%B0%EB%B3%B8-%ED%83%9C%EA%B7%B8-4)
 - [`@danjr`: CSS 속성 선택자](https://velog.io/@danjr/CSS-%EC%86%8D%EC%84%B1-%EC%84%A0%ED%83%9D%EC%9E%90)
 - [`@danjr`: CSS - position](https://velog.io/@danjr/CSS-position)
+- [`@9rganizedchaos` - Flexbox Align-items center와 overflow scroll이 결합될 때!](https://velog.io/@9rganizedchaos/Flexbox-Align-items-center%EC%99%80-overflow-scroll%EC%9D%B4-%EA%B2%B0%ED%95%A9%EB%90%A0-%EB%95%8C)
 
 ---
 

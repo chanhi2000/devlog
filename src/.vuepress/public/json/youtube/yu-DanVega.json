@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/YZszOyMVJh2dRmktetnCGJVHMf5QTTvjZFn9GOmsw_SYRhhruhSa37Ah3jN0KDZnURZa4rO1I0k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PbkROQPTBao", "title": "5 Common Mistakes Spring Developers Make" },
+    { "id": "aR580OCEp7w", "title": "Spring MVC Http Interfaces - How to Create a Rest Client with almost no code!" },
+    { "id": "lGAYLVk5HaY", "title": "Java is slow and verbose (or so they say)" },
+    { "id": "izBR3WQCN1Q", "title": "How to learn Spring - A collection of resources for Learning Spring" },
+    { "id": "FjRBHKUP-NA", "title": "Getting started with Spring Boot AOT + GraalVM Native Images" },
+    { "id": "e4R6AZHpAD8", "title": "Upgrading your Java & Spring Boot applications with OpenRewrite in IntelliJ" },
+    { "id": "bQG5lzlzo6I", "title": "Java Class Design: When to use a Primitive vs Reference Type" },
+    { "id": "yyvjT0v3lpY", "title": "Spring AI Introduction: Building AI Applications in Java with Spring" },
+    { "id": "ACpLp2KXqgE", "title": "Working with Prompts in Spring AI - Effectively Communicating with LLMs" },
     { "id": "5jRwAWjMoZU", "title": "Building Full-Stack Applications in Java with Vaadin" },
     { "id": "9M0NggD6Mbw", "title": "Spring Boot Rest Client - How to change the underlying HTTP Client" },
     { "id": "jhhi03AIin4", "title": "Spring Boot Rest Client - How to test HTTP calls using @RestClientTest" },

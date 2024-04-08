@@ -2,10 +2,17 @@
   "channel": {
     "id": "codingmoon",
     "name": "코딩문 TV",
-    "profile": "https://yt3.googleusercontent.com/YEOG-p65_--ozrPQGLMEAHsAZVmf5nNSh28r6cNDkfIFEFQjFfYh0NTnSN5DKX7heuKHH15j=s160-c-k-c0x00ffffff-no-rj",
-    "banner": ""
+    "profile": "https://yt3.googleusercontent.com/RB-6rkXNm4oZa96B3rBkyD7RwbRj1l7B8ZmrukLMPlO6Pmz6uuvgelwGXp940vA1nvoF3Efan6M=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Tb-1pG-bCpr2TikUKw0t9LmZMKfwzS842uqe9Xo7ni6b2acrxHPQugmWOP15ZuOLh633rFc3S6Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GAhlOHNn9IM", "title": "재귀함수? 최대한 쉽게 설명해 볼게요" },
+    { "id": "-qg6o0Fpd5U", "title": "내가 사용하는 터미널 alias 모음 [개발자의  터미널]" },
+    { "id": "u6S71cpMfw8", "title": "neovim 시작하기! 설치부터 기본 설정 까지 [개발자의 에디터]" },
+    { "id": "9_qW5GZo-WE", "title": "Go 언어 소개 [Go 프로그래밍]" },
+    { "id": "M8YrfquecWc", "title": "neovim, 이렇게 설정하면 생산성이 2배로! 핵심 플러그인 설정 가이드 [개발자의 에디터]" },
+    { "id": "aOMs7M3z4ws", "title": "neovim, 진짜 프로그래머는 시작화면부터 다르니까 [개발자의 에디터]" },
+    { "id": "j1Fvixz0RyQ", "title": "다음 메서드를 직접 구현 하시오 | JavaScript | 개발자 면접 질문" },
     { "id": "VHerL9C0624", "title": "ep6. 큐 (Queue) | JS 알고리즘 마스터 클래스" },
     { "id": "FTbd8p0nVXg", "title": "Go 언어로 간단한 웹 서버 만들어보기 | Code with Me | 2024.02.10 (Live 편집본)" },
     { "id": "PSYkFKT6Ups", "title": "상위 1% 프로그래머들의 7가지 습관" },

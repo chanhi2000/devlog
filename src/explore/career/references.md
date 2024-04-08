@@ -155,6 +155,10 @@ tag:
 - [가장 중요한 것은?](https://blog.naver.com/cybervictor008/223401802404)
 - [결이 다르다?](https://blog.naver.com/cybervictor008/223404138961?)
 - [정리하다.](https://blog.naver.com/cybervictor008/223402005645?)
+- [다시 반복되는 하루](https://blog.naver.com/cybervictor008/223402966033?)
+- [지금 할 수 있는 것을 하라.](https://blog.naver.com/cybervictor008/223405231219?)
+- [자투리 시간의 활용](https://blog.naver.com/cybervictor008/223406340741?)
+- [Unix를 알아야 하는 이유(?)](https://blog.naver.com/cybervictor008/223404547371?)
 
 ---
 
@@ -298,6 +302,36 @@ tag:
 ## Reactor
 
 - [On Letting Go of the Idea of “Keeping Up”](https://reactormag.com/on-letting-go-of-the-idea-of-keeping-up/)
+
+---
+
+## MOBA Blog
+
+- [PM의 생산적인 일정관리 방법, Day Theming](https://blog.moba.works/daytheming/)
+
+---
+
+## Notifly
+
+- [작은 스타트업에서 디자인 시스템 쉽게 구축하기 (feat. Catalyst)](https://blog.notifly.tech/notifly-design-system/)
+
+---
+
+## Hello.Stranger
+
+- [아프리카TV의 프로그램 분석 (1부)](https://maily.so/blackcon/posts/bf6f1de6)
+
+---
+
+## YoungSeon.Ahn
+
+- [11키티즈 개발에 사용한 기술과 사용 후기](https://lovemewithoutall.github.io/it/11kitties-tech/)
+
+---
+
+## THE STARTUP BIBLE
+
+- [과소평가, 과대평가 – 사람](https://www.thestartupbible.com/2024/04/things-we-overestimate-and-underestimate-people.html)
 
 ---
 

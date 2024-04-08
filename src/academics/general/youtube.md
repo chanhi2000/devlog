@@ -41,5 +41,7 @@ tag:
 <MyYouTubeItems jsonName="yu-blackpenredpen" /><!-- blackpenredpen -->
 <MyYouTubeItems jsonName="yu-1minMathScience" /><!-- 1분영국수학과학 -->
 <MyYouTubeItems jsonName="yu-suhakham" /><!-- 더수학함 -->
+<MyYouTubeItems jsonName="yu-SpanningTree" /><!-- Spanning Tree -->
+<MyYouTubeItems jsonName="yu-veritasium" /><!-- Veritasium -->
 
 <TagLinks />

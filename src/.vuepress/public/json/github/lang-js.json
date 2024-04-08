@@ -2134,5 +2134,15 @@
     "desc": "node:test runner wrapper with TypeScript support",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "logspace-ai/langflow",
+    "desc": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+    "officialSite": "http://www.langflow.org",
+    "topics": ["chatgpt", "langchain", "large-language-models", "react-flow"]
+  }, {
+    "repo": "stackframe-projects/pgmock",
+    "desc": "In-memory Postgres for unit/E2E tests",
+    "officialSite": "https://stackframe-projects.github.io/pgmock/",
+    "topics": []
   }
 ]

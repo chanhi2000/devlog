@@ -20,5 +20,6 @@ tags:
 ---
 
 <MyYouTubeItems jsonName="yu-DrTrefor" /><!-- Dr. Trefor Bazett -->
+<MyYouTubeItems jsonName="yu-HowTomakeitdone" /><!-- HowTo -->
 
 <TagLinks />

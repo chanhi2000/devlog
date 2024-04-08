@@ -30,6 +30,8 @@ tag:
 - [NPU 2Tops가 내장된 Allwinner T527 개발 보드 - MYIRTech MYD-LT527](https://blog.naver.com/chandong83/223394412555)
 - [[공지] [월간 HG Labs] 3월 세미나 STM32 External Loader 공지 사항 - 참석자들 필독 요망](https://blog.naver.com/chandong83/223397077312?)
 - [ESP32-S3-ETH-CAN485 보드 자료](https://blog.naver.com/chandong83/223397555779?)
+- [STM32G4-2Relay 보드 검증 완료](https://blog.naver.com/chandong83/223404390101?)
+- [와... 조...졸았나....](https://blog.naver.com/chandong83/223406717717?)
 
 ---
 
@@ -83,5 +85,9 @@ tag:
 - [XDP for Game Programmers](https://mas-bandwidth.com/xdp-for-game-programmers/)
 
 ---
+
+## Greaseweazle
+
+- [Greaseweazle](https://retrocmp.de/hardware/greaseweazle/greaseweazle.htm)
 
 <TagLinks />

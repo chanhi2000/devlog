@@ -70,5 +70,8 @@ tag:
 <MyYouTubeItems jsonName="yu-TheBuilder" />    <!-- The Builder -->
 <MyYouTubeItems jsonName="yu-DylanFalconer" /><!-- Dylan Falconer -->
 <MyYouTubeItems jsonName="yu-champemunasong" /><!-- 우경고찬폐문하성 -->
+<MyYouTubeItems jsonName="yu-maximilian-schwarzmueller" /><!-- Maximilian Schwarzmüller -->
+<MyYouTubeItems jsonName="yu-dreamsofautonomy" /><!-- Dreams of Autonomy -->
+<MyYouTubeItems jsonName="yu-MultsElMesco" /><!-- Mults -->
 
 <TagLinks />

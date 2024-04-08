@@ -46,6 +46,7 @@ tag:
 ## velog
 
 - [`@ksh4704` - 코드스테이츠-부트캠프 [Deploy]-AWS](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Deploy-AWS)
+- [`@eunbibi` - AWS RDS](https://velog.io/@eunbibi/AWS-RDS)
 
 ---
 
@@ -103,6 +104,7 @@ tag:
 - [Route53과 도메인 연결](https://blog.naver.com/gi_balja/223398889777)
 - [AWS 로드 밸런서 적용하기](https://blog.naver.com/gi_balja/223401436302)
 - [AWS RDS 연결하기](https://blog.naver.com/gi_balja/223402753221)
+- [AWS S3](https://blog.naver.com/gi_balja/223407211913?)
 
 ---
 

@@ -6,6 +6,18 @@
     "banner": ""
   },
   "videos": [
+    { "id": "RwMw9wHdAuk", "title": "How To Start a React App in 2024" },
+    { "id": "7aq5ppPoj_E", "title": "What's NEW in React 19" },
+    { "id": "qBK8Y1QCQks", "title": "This is the FUTURE for User Experience" },
+    { "id": "Ekc_baEI3XM", "title": "This UI Library is AWESOME" },
+    { "id": "tSI98g3PDyE", "title": "NextJS 14 Markdown Blog: TypeScript, Tailwind, shadcn/ui, MDX, Velite," },
+    { "id": "RuRfcjzEv9w", "title": "STOP using outer margins" },
+    { "id": "t3OxbxA757g", "title": "TailwindCSS V4 Update Makes UI libraries easier" },
+    { "id": "zSlORhjh5DQ", "title": "Turn CSS into React?!?!" },
+    { "id": "aujEjdMO3ME", "title": "NextJS 14 Markdown Blog (Part 2): Adding Topic Tags" },
+    { "id": "ntdzCWLWU-c", "title": "This UI Library Update is AWESOME!" },
+    { "id": "vAVNZpXq5-A", "title": "JavaScript... WTF?!?" },
+    { "id": "EGDD0rlBd8Q", "title": "STOP using Layouts for Authentication!" },
     { "id": "hxpH3HyaeM4", "title": "I WISH I used this component earlier... Responsive CSS Helper" },
     { "id": "rVKJGr4VjmA", "title": "Copy & Paste React Hook Libraries" },
     { "id": "uhEkgWt-pUM", "title": "Code Cleanup Made Easy...  Remove JavaScript Exports, Files & Dependencies" },

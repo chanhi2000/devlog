@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/_2yJlN6rNRa30qfFamUS-EujV2D73JZHQwgPeCMCPSxmlpiDvcizvOjuG_irlFOVxDh_5ohk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MDz2_Zdzhos", "title": "Lydia Hallie - From Self Taught Coder to Vercel Through Open Source | Frontend Masters Podcast Ep.12" },
+    { "id": "IHQcma93fpE", "title": "Test Your JavaScript Knowledge with Lydia Hallie | Preview" },
+    { "id": "deybMk7hiuM", "title": "Marcy Sutton Todd - A Deep Dive into Web Accessibility Insights | Frontend Masters Podcast Ep.13" },
+    { "id": "D5qQNEAC2AE", "title": "Web App Accessibility (feat. React) with Marcy Sutton Todd | Preview" },
+    { "id": "LOP0ICzkg2c", "title": "Enterprise Accessibility with Marcy Sutton Todd | Preview" },
     { "id": "_GcQYrZKM5Q", "title": "Jem Young - Senior Developer to Engineering Manager at Netflix | The Frontend Masters Podcast Ep.8" },
     { "id": "d_45NhWGht0", "title": "Engineering Management Fundamentals with Jem Young | Preview" },
     { "id": "dWxcw2R0gZs", "title": "Blazingly Fast JavaScript with ThePrimeagen | Preview" },

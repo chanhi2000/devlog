@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "2GuysTek",
+    "name": "2GuysTek",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kDQESRA27rD4jLHXfGmBGEE3i5-NfYjODoE0eIQM_NgZ4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-eMX9tunLbDyBwWoDiuCchX51AXPsPl28haBLrmXGDWsL1SfIzdbSzriWz18sq-ETXjKuXa5zg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yGQK0t_h46k", "title": "Exploring Proxmox from a VMware User's Perspective" },
+    { "id": "eIlgMElEz7M", "title": "Making The Case for Open Source Hypervisors with Tom Lawrence!" },
+    { "id": "fIpxX5M6XBo", "title": "Conquering Cloud Storage with Sync.com" },
+    { "id": "hrfoCT9sioU", "title": "Exploring Hyper-V from a VMware User's Perspective" },
+    { "id": "Of_5ljXIRAM", "title": "World Backup Day Giveaway - Win a Synology DS423+ and 2 8TB HDDs!" },
+    { "id": "rMzbuxd5b_Y", "title": "Exploring Nutanix from a VMware User's Perspective" }
+  ]
+}

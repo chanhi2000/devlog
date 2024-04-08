@@ -32,6 +32,11 @@ tag:
 
 - [<FontIcon icon="iconfont icon-github"/>`bluecapesecurity/PWF`](https://github.com/bluecapesecurity/PWF)
 
+---
+
+## Google Security Blog
+
+- [Google Public DNS’s approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
 
 ---
 

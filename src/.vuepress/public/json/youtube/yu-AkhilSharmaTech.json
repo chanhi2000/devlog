@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/GcIphwpLdkasYlrN2xGMTrFli4015EwYlt4ZJAsFVUgvJcXlbeOi-sZPJ7KwNlTrAyuYiHIg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BUpJN72fMes", "title": "Building A Job Summarizer #streamlit #langchain #openai #chatgpt #gpt4 #python #programming" },
+    { "id": "N1Nuw5j0QKc", "title": "Rust Postgres Operations (Create and Read)" },
+    { "id": "DGri47uFvG0", "title": "Rust Postgres Connection" },
+    { "id": "_WT58eL_BWU", "title": "Rust Restaurant Management Project: Building, Testing with Warp & SQLite #rust #programming #coding" },
+    { "id": "j6bqJKxb2w0", "title": "Event Driven Programming with GO and Kafka" },
+    { "id": "l4S29YK1BG0", "title": "A Robust Rust CLI to download videos!" },
+    { "id": "tPkESMMBXyo", "title": "FULLSTACK Rust Project using Tide and Postgres #rust #postgresql #programming #tutorial #coding" },
+    { "id": "lUNh39w5a3s", "title": "Using RabbitMQ With GO #rabbitmq #golang #programming #tutorial #queues #coding #rabbitmqwithgolang" },
+    { "id": "sIkbTL5XskY", "title": "Is This the BEST Rust Web Framework? [AXUM + Postgres] #axum #rust" },
+    { "id": "GZ2gALn0ZRI", "title": "I Built a coding bot with CODE LLAMA 70B. #llm #llama #ai" },
     { "id": "BPLpzpgp79A", "title": "Build A Text Search Engine with GO" },
     { "id": "s3yslNpY4y4", "title": "Rate Limiting With GO #golang #programming #coding #development" },
     { "id": "8EBsOZPGZn8", "title": "Connect RUST and SQLITE #rust #programming #coding #database #rustlang #sqlite" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Y8QlxdWGzVgZ_JrOkINfhhevfUQTabozHrq9cXYNLgli-zxNpwdoSSWCz2tvkvQ-JI0B3vO8hQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IUTFrexghsQ", "title": "Build a typing assistant with Mistral 7B and Ollama - Python Tutorial" },
+    { "id": "IUTFrexghsQ", "title": "Build a free writing assistant with Python and Ollama" },
     { "id": "owopzp436jM", "title": "PyScript is officially here!🚀 Build web apps with Python " }, 
     { "id": "LbT1yp6quS8", "title": "LangChain Crash Course - Build apps with language models" }, 
     { "id": "0H2miBK_gAk", "title": "How to create a great dev environment with Docker" }

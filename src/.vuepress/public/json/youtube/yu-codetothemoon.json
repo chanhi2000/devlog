@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/DYYmvnH6HJDOnmEGTEQ2c2bREpeapdj-4HF7L1DWt1G7HOeHgD-gi-P332QirVuCuuQy7KVHwg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Pr6T0Phjvgc", "title": "Modern All Rust Stack - Dioxus, Axum, Warp, SurrealDB" },
     { "id": "tq3-M7QJiWg", "title": "Rust full stack web frameworks have a bright future" },
     { "id": "ywtYpkDww74", "title": "Enchanted LLM and the bright path for open language models" },
     { "id": "slV0zdUEYJw", "title": "Larger Scale Software Development (and a Big Trap)" },

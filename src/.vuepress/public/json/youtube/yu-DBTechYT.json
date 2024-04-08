@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/XMwXQqmDcemfT7EzolsCnzPuBZwHwkoLQP9XJMP_mthEvjsarWSAG2PRo4XTd5nomwpkbbUm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kLG4XUfrLmE", "title": "Just Chatting: What Cool Projects Have You Added to Your Homelab?" },
+    { "id": "gqqk8WTOZ3Q", "title": "Simplify Your Finances: Get Subscription Service Reminders with Wallos!" },
+    { "id": "rjQUjGatQsc", "title": "Just Chatting: What Cool Projects Have You Added to Your Homelab?" },
+    { "id": "qU_NG0XEiLM", "title": "Beelink SEi12: The Mini PC You Didn't Know You Needed!" },
+    { "id": "bjH_PV82yO8", "title": "Deploy and Manage a VPN for your Docker Containers via Dockge!" },
     { "id": "VmPjwZUfL7Q", "title": "Anker KVM Switch with Dual 4k Output #AnkerKVMSwitch #AnkerDockingStation #DockingStation" },
     { "id": "HSu2swDnkFg", "title": "Docker & Docker Compose: Quick & Easy Install on Linux!" },
     { "id": "AD75A2UESiQ", "title": "Hasty Paste - A Fast and Easy Way to Store and Share Code! (A Pastebin Alternative)" },

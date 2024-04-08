@@ -2,8 +2,8 @@
   "channel": {
     "id": "iVish",
     "name": "iVish",
-    "profile": "https://yt3.googleusercontent.com/pX1CqBSE5SqqD5uJSr__UAidGiAQzoRNHA6hrp_89_s8ZIjIZH4twcS3ZJZq7qFFoEnYeaYI=s176-c-k-c0x00ffffff-no-rj",
-    "banner": ""
+    "profile": "https://yt3.googleusercontent.com/whPsTTdkkPys2ioYn4PT7qEi01DaDh6fPZP2ru3LPwH_0PuMES9Y-IDxxyH7GeydckcyC8dbEw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J63TbV61to8wWLtrxkaRnZJaLtmipQl5p3nuX9PzhFOjJbNe8QbjvvQLzlJ-LfzpgEvzNmoQlg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "UisMtIyzPLE", "title": "Building with ChatGPT | Creating NavBar, Footer & Hero Section in Laravel & VueJS | Day 2" },

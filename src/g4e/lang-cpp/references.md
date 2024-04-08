@@ -47,6 +47,7 @@ tag:
 - [`printf` 함수의 형식 지정자 실습용 프로그램 - Step 2](https://blog.naver.com/tipsware/223400595787)
 - [일정한 간격으로 파일 생성하기](https://blog.naver.com/tipsware/223401287814)
 - [[Q&A] 로그 코드에 호출된 함수 이름을 추가하려고 합니다.](https://blog.naver.com/tipsware/223403816586?)
+- [[Q&A] 로그에 함수 이름 추가할 때 오버로딩된 함수를 구별하려면...](https://blog.naver.com/tipsware/223404347557?)
 
 ---
 
@@ -60,6 +61,7 @@ tag:
 
 - [백준 14890 - 경사로](https://bellbpng.github.io/baekjoon%20solution/14890/)
 - [백준 14891 - 톱니바퀴](https://bellbpng.github.io/baekjoon%20solution/14891/)
+- [백준 15683 - 감시](https://bellbpng.github.io/baekjoon%20solution/15683/)
 
 ---
 
@@ -68,5 +70,6 @@ tag:
 - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 
 ---
+
 
 <TagLinks />

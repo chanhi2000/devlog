@@ -73,7 +73,7 @@ head:
 <MyYouTubeItems jsonName="yu-tubeguruji" /><!-- TubeGuruji -->
 <MyYouTubeItems jsonName="yu-iamrithmic" /><!-- rithmic -->
 <MyYouTubeItems jsonName="yu-BroCodez" /><!-- Bro Code -->
-<MyYouTubeItems jsonName="yu-josehp_han" /><!-- 한상훈 -->
+<MyYouTubeItems jsonName="yu-josehp_han" /><!-- HAN SANG HOON -->
 <MyYouTubeItems jsonName="yu-codinginflow" /><!-- Coding in Flow -->
 <MyYouTubeItems jsonName="yu-around.hub.studio" /><!-- 어라운드 허브 스튜디오 - Around Hub Studio -->
 <MyYouTubeItems jsonName="yu-starcoding" /><!-- 별코딩 -->
@@ -83,7 +83,6 @@ head:
 <MyYouTubeItems jsonName="yu-PedroTechnologies" /><!-- PedroTech -->
 <MyYouTubeItems jsonName="yu-RedwoodJS" /><!-- RedwoodJS -->
 <MyYouTubeItems jsonName="yu-reactproject" /><!-- React & Next js Projects with Sahand -->
-<MyYouTubeItems jsonName="yu-Codemasterhan" /><!-- 한상훈 개발자 채널 -->
 <MyYouTubeItems jsonName="yu-gionatha" /><!-- Code With Gionatha -->
 <MyYouTubeItems jsonName="yu-WebChainDev" /><!-- WebChain Dev -->
 <MyYouTubeItems jsonName="yu-ClarityCoders" /><!-- ClarityCoders -->

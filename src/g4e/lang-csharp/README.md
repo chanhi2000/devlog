@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: ♯CSharp
-description: ♯CSharp
+title: CSharp
+description: CSharp
+icon: fas fa-hashtag
 category:
-  - ♯CSharp
+  - CSharp
 ---
 
 # {{ $frontmatter.description }} 관련

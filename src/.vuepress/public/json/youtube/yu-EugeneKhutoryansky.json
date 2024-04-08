@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "EugeneKhutoryansky",
+    "name": "Physics Videos by Eugene Khutoryansky",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kqhQijaZNlCuSeVzvP88JJfe7U1egwBqKQnKzdxzPDj9I=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rduQmLIYtlF1TcnfgjPOpLyl9IJqbLqEEE9AYo8m5D26iyO57kZynS1j5iMB56e1CNwb1dhNYw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QKy6137F7OY", "title": "Surface Tension as you've never seen it" }
+  ]
+}

@@ -854,5 +854,20 @@
     "desc": "wak -- an awk implementation for toybox and standalone",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "FascinatedBox/bonk",
+    "desc": "X11 window management toolkit",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "migueletto/PumpkinOS",
+    "desc": "PumpkinOS is a re-implementation of PalmOS.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "maharmstone/btrfs",
+    "desc": "WinBtrfs - an open-source btrfs driver for Windows",
+    "officialSite": "",
+    "topics": ["btrfs", "windows"]
   }
 ]

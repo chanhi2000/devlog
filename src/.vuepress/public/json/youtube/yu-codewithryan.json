@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Ry5L_8xQQsw", "title": "Will You Become a 10x Software Engineer with the Apple Vision Pro?" },
+    { "id": "ticb6hvtQ00", "title": "How to build a Vision Pro App (As a React Developer)" },
     { "id": "t_10_g4FHao", "title": "Is It Worth $3500? Exploring Apple's visionOS" },
     { "id": "ilrLQpWxP1M", "title": "Making an Angry AI Chat Bot with Node.js/OpenAI" },
     { "id": "N3KhMOk_6HE", "title": "GTA3 Code Review: Weapons, Vehicles, Cops and Gangs" },

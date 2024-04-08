@@ -76,7 +76,7 @@ tag:
   - "@newlec1"
   - "@sangmessi727"
   - "@loianegroner"
-  - "@microserviceslab5515"
+  - "@microserviceslab"
   - "@hancoding"
   - "@around.hub.studio"
   - "@SagguUK"
@@ -91,7 +91,6 @@ tag:
   - "@CodeWisTechnologies"
   - "@ssap-dba"
   - "@VickingDev"
-  - "@ringring_creator"
   - "@TheTestingAcademy"
   - "@puneethkumarnarasimhaiah5092"
   - "@shadsluiter"
@@ -185,7 +184,7 @@ head:
 <MyYouTubeItems jsonName="yu-newlec1" /><!-- 뉴렉처 -->
 <MyYouTubeItems jsonName="yu-sangmessi727" /><!-- Sangmessi -->
 <MyYouTubeItems jsonName="yu-loianegroner" /><!-- Loiane Groner -->
-<MyYouTubeItems jsonName="yu-microserviceslab5515" /><!-- Microservices Lab -->
+<MyYouTubeItems jsonName="yu-microserviceslab" /><!-- Microservices Lab -->
 <MyYouTubeItems jsonName="yu-hancoding" /><!-- 한코딩 -->
 <MyYouTubeItems jsonName="yu-around.hub.studio" /><!-- 어라운드 허브 스튜디오 - Around Hub Studio -->
 <MyYouTubeItems jsonName="yu-SagguUK" /><!-- Saggu -->
@@ -199,7 +198,6 @@ head:
 <MyYouTubeItems jsonName="yu-CodeWisTechnologies" /><!-- CodeWis Technologies -->
 <MyYouTubeItems jsonName="yu-ssap-dba" /><!-- 쌉DBA -->
 <MyYouTubeItems jsonName="yu-VickingDev" /><!-- VickingDev -->
-<MyYouTubeItems jsonName="yu-ringring_creator" /><!-- RingRing -->
 <MyYouTubeItems jsonName="yu-TheTestingAcademy" /><!-- The Testing Academy -->
 <MyYouTubeItems jsonName="yu-puneethkumarnarasimhaiah5092" /><!-- Puneeth Kumar Narasimhaiah -->
 <MyYouTubeItems jsonName="yu-shadsluiter" /><!-- Programming w/ Professor Sluiter -->
@@ -220,5 +218,6 @@ head:
 <MyYouTubeItems jsonName="yu-CodingWithJohn" /><!-- Coding with John -->
 <MyYouTubeItems jsonName="yu-dr.javaher" /><!-- Dr. Nina Javaher -->
 <MyYouTubeItems jsonName="yu-csezsw" /><!-- ezsw -->
+<MyYouTubeItems jsonName="yu-bienadam" /><!-- Adam Bien -->
 
 <TagLinks />

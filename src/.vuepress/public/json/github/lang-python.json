@@ -4754,5 +4754,25 @@
     "desc": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.",
     "officialSite": "https://ipex-llm.readthedocs.io",
     "topics": ["analytics-zoo", "bigdl", "distributed-deep-learning", "keras", "llm", "python", "pytorch", "scala", "spark", "tensorflow", "transformers"]
+  }, {
+    "repo": "myshell-ai/JetMoE",
+    "desc": "Reaching LLaMA2 Performance with 0.1M Dollars",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "searxng/searxng",
+    "desc": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+    "officialSite": "https://docs.searxng.org",
+    "topics": ["hacktoberfest", "metasearch", "metasearch-engine", "python", "search", "searxng"]
+  }, {
+    "repo": "FoundationVision/VAR",
+    "desc": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\"",
+    "officialSite": "",
+    "topics": ["auto-regressive-model", "diffusion-models", "image-generation", "transformers"]
+  }, {
+    "repo": "UKPLab/sentence-transformers",
+    "desc": "Multilingual Sentence & Image Embeddings with BERT",
+    "officialSite": "https://www.SBERT.net",
+    "topics": []
   }
 ]

@@ -1,11 +1,12 @@
 {
   "channel": {
     "id": "josehp_han",
-    "name": "한상훈",
-    "profile": "https://yt3.googleusercontent.com/rQKlBngHc5uJrwFtpb6qGnPZm4cnDB9m7GIzHx1pHtE1k9akqIJvEHcpE_7KwrI8TzRs4uSpEA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/JZMtfRcOjGcizAsPJpHYLddyB_Wh5YnkKi0fIOVwZebYsmItJ3TZIf-yEK6hUGdPhc3oSRbjWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "name": "HAN SANG HOON",
+    "profile": "https://yt3.googleusercontent.com/-mW46PbronywwkSVVy6wOlugWzsWflf954V9POkFFAxZ-k76rRI7IWirNsRvs2U3gUX1MFeuYQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KMt9yD7pDuEi0RlxDreZpvO2syzoZdqy9dBnzTRHWw2txDh8uN0Znk1hCcSjyKfJM7flWRlpXg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kzuxUfQ_wiE", "title": "Live streaming challenge for 12 hours every weekday in 2024(2024. 2. 28)" },
     { "id": "1VZz75RqDLA", "title": "3년전 패스트캠퍼스 강의 자료 보기 + 이제는 진짜 러다이트 운동 뿐이야 + 신나는 강의 기획서 만들기 + 해리포터와 보약의 방 + 빛나는 망고 사이트 만들기" },
     { "id": "dA3d0Pzz12Q", "title": "쓸모없는 사이트 만드는 중 + 오픈 소스 둘러보는 중" },
     { "id": "Hv3afhsrEdk", "title": "12시간 챌린지(2024. 1. 23)" },

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "reps",
+    "name": "Marco Reps",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mJvwoooQ8yuduFFjUJ_VS8IMjzMXSF7R7eNfpZ2O0xVKw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CoIkM72ylr57AzMVkMMijzbZpqQXSL9fMudktBOLLncIOprdkjEt5k7dNMjvTwpldeMaScDCjCo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H1JEY2btwKk", "title": "LinuxCNC EtherCAT for reals this time - New Control Cabinet and Leadshine Servos" }
+  ]
+}

@@ -3,9 +3,10 @@
     "id": "devbang",
     "name": "개발자방16",
     "profile": "https://yt3.googleusercontent.com/OIs9ImO0jgE_Jcyi0Afq2uWtkPBKITBYuLgHeE1xigp_Sy3Wxp4pLqKmsbFkAJtVLGvlaaJvxQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/V9opkZvdcJAT8gzonpRqamZkajmRSAM_bqVcYcn06VxTUHhNiGl0AVi5GQ0EjAxZ-bE00QK3=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/yJGRehw6R29sOCOZCP1lGMa7mKON3sRqd7PDj0wUKR_F9VcdaxJ0Y9g7HFPTKOaVW5cnX5e171U=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0fAYZPX9Y5k", "title": "챗GPT 최적화 프롬프트 엔지니어링 2가지 방법과 6개 전략" },
     { "id": "uwNcb58Qgh8", "title": "CSS 속성 재설정 이유와 효과 (Reset 코드 예시 포함)" },
     { "id": "jv0LvbGy83w", "title": "세계 최초 웹사이트 이야기: 네트워크 기술의 시작" },
     { "id": "RLTKK15IiGw", "title": "IT 개발자 정리해고 트렌드, 살아남는 방법" },

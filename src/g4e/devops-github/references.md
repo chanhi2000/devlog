@@ -73,5 +73,8 @@ tag:
 
 ---
 
+## moregorenine
+
+- [`gh-pages`를 통한 github pages 배포](https://moregorenine.github.io/git/git-deploy/)
 
 <TagLinks />

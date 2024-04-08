@@ -1218,5 +1218,10 @@
     "desc": "Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "jrouwe/JoltPhysics",
+    "desc": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.",
+    "officialSite": "",
+    "topics": ["c-plus-plus", "cpp", "game-development", "game-engine", "physics", "physics-engine", "physics-simulation", "simulation", "vr"]
   }
 ]

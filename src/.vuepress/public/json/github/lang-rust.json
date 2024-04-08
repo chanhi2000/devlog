@@ -1274,5 +1274,30 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "HardhatChad/ore-cli",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "availproject/avail",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "availproject/avail-light",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "AmrDeveloper/ClangQL",
+    "desc": " ClangQL is a tool that allow you to run SQL-like query on C/C++ Code instead of database files using the GitQL SDK",
+    "officialSite": "https://crates.io/crates/clangql",
+    "topics": ["ast", "clang", "cpp", "database", "gitql", "llvm", "llvm-clang", "llvm-fro", "parser"]
+  }, {
+    "repo": "rpgp/rpgp",
+    "desc": "Pure rust implementation of OpenPGP",
+    "officialSite": "https://docs.rs/pgp",
+    "topics": ["cryptography", "openpgp", "pgp", "rust"]
   }
 ]

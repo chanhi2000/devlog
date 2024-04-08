@@ -79,7 +79,7 @@ tag:
 <MyYouTubeItems jsonName="yu-BrianAdvent" /><!-- Brian Advent -->
 <MyYouTubeItems jsonName="yu-swifttutorialsforios" /><!-- Swift Tutorials -->
 <MyYouTubeItems jsonName="yu-LetsBuildThatApp" /><!-- Lets Build That App -->
-<MyYouTubeItems jsonName="yu-codeWithAndrei" /><!-- CodingWithAndrei -->
+<MyYouTubeItems jsonName="yu-codeWithAndrei" /><!-- Code with Andrei -->
 <MyYouTubeItems jsonName="yu-swiftkatcodefactory" /><!-- Swift Kat Code Factory -->
 <MyYouTubeItems jsonName="yu-DesignCodeTeam" /><!-- DesignCode -->
 <MyYouTubeItems jsonName="yu-PaulColton" /><!-- Paul Colton -->
@@ -151,5 +151,6 @@ tag:
 <MyYouTubeItems jsonName="yu-easytoswift7018" /><!-- EasytoSwift -->
 <MyYouTubeItems jsonName="yu-AboutTech-official" /><!-- About Tech -->
 <MyYouTubeItems jsonName="yu-WingsOfUtu" /><!-- Wings of Utu -->
+<MyYouTubeItems jsonName="yu-FullQueueDeveloper" /><!-- Full Queue Developer -->
 
 <TagLinks/>

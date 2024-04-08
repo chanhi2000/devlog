@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "dreamsofautonomy",
+    "name": "Dreams of Autonomy",
+    "profile": "https://yt3.googleusercontent.com/9ewleNMa9AeuU2d6mQXxYmWCgUpWqedFOQ4s4qJfms1krV0fHWcdBX408gUsrFGnr-tmj5mewA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "aghxkpyRVDY", "title": "zoxide has forever improved the way I navigate in the terminal." },
+    { "id": "W30wzKVwCHo", "title": "We finally have a simple solution for backing up files on Linux" }
+  ]
+}

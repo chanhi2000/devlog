@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "maximilian-schwarzmueller",
+    "name": "Maximilian Schwarzmüller",
+    "profile": "https://yt3.googleusercontent.com/niH-kGw8E_vQClmu7N_eVjG8nGtAMkz_X007eVh5r0djg8pqELMEnyTpX2354JEIIqlILw_XoA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/G8a0inSGWBgVy5luW4WT8AZbYbtm921EMo0XSziT3gHUTu5bnE2AZeE8DbJjWSfJzcmTisX0xuE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HIknhFhhioY", "title": "React 19 Is Coming!" },
+    { "id": "9jqYhAxzJdQ", "title": "Are Metaframeworks Like NextJS The Future Of React & co?" }
+  ]
+}

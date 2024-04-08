@@ -37,9 +37,7 @@ tags:
   - "@3protv"
   - "@NaNyunJae"
   - "@1under"
-  - "@MattKC"
   - "@techmong"
-  - "@Keybored"
   - "@gwigom"
   - "@kundol"
   - "@SpaceRexWill"
@@ -61,7 +59,6 @@ tags:
 <MyYouTubeItems jsonName="yu-ChrisTitusTech" /><!-- Chris Titus Tech -->
 <MyYouTubeItems jsonName="yu-snazzy"/><!-- Snazzy Labs -->
 <MyYouTubeItems jsonName="yu-lukemiani" /><!-- Luke Miani -->
-<MyYouTubeItems jsonName="yu-NovaspiritTech" /> <!-- Novaspirit Tech -->
 <MyYouTubeItems jsonName="yu-tongguni" /><!-- 통구니TV -->
 <MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
 <MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
@@ -82,12 +79,9 @@ tags:
 <MyYouTubeItems jsonName="yu-yalco-coding" /><!-- 얄팍한 코딩사전 -->
 <MyYouTubeItems jsonName="yu-ContenJoo" /><!-- 콘텐주 -->
 <MyYouTubeItems jsonName="yu-AZisk" /><!-- Alex Ziskind -->
-<MyYouTubeItems jsonName="yu-goldenmanual" /><!-- 황금설명서 -->
 <MyYouTubeItems jsonName="yu-TV-bk8fv" /><!-- 김노무사 -->
 <MyYouTubeItems jsonName="yu-NaNyunJae" /><!-- 남중구의 IT강의 -->
-<MyYouTubeItems jsonName="yu-MattKC" /><!-- MattKC -->
 <MyYouTubeItems jsonName="yu-techmong" /><!-- 테크몽 Techmong -->
-<MyYouTubeItems jsonName="yu-Keybored" /><!-- Keybored -->
 <MyYouTubeItems jsonName="yu-kundol" /><!-- 큰돌의터전 -->
 <MyYouTubeItems jsonName="yu-SpaceRexWill" /><!-- SpaceRex -->
 <MyYouTubeItems jsonName="yu-kevinfaang" /><!-- Kevin Fang -->
@@ -148,7 +142,6 @@ tags:
 [yu-varuncbv]: https://www.youtube.com/@varuncbv
 [yu-user-jb1yn4ve5p]: https://www.youtube.com/@user-jb1yn4ve5p
 [yu-cat-technology]: https://www.youtube.com/@Renewedcart
-[yu-make-use-of]: https://www.youtube.com/@MakeUseOf
 [yu-gis-donwell]: https://www.youtube.com/@GISdonwell
 [yu-user-mq5ph1ct8y]: https://www.youtube.com/@user-mq5ph1ct8y
 [yu-priyatalkstech6534]: https://www.youtube.com/@priyatalkstech6534

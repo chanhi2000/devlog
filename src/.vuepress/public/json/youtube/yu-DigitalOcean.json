@@ -2,8 +2,8 @@
   "channel": {
     "id": "DigitalOcean",
     "name": "DigitalOcean",
-    "profile": "https://yt3.googleusercontent.com/AXuTwGFHTFN7t9QNoZm6M7fjZMdHg5jQiOgyU1B_FlVFmBI4RdHVFvdrieruRY9S1JuAim__-ok=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/6fo8y5vKJwL9YCCFVaDqSAAmeAS4WhGmgxIm2vz46nCP2AitTdJe6jDtXitNdab7SAqBsbyvSQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/1P7DJeQSLJDpbCQcUIVW9NlvA3eeb3fEAf4cB_rvl8m5m1EQAtFB85Qp9v8nadxZYuG-hBjp_0k=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZyxAt0DrdhL0fD5MPFWOxxsGEgyfKzyeIwo9YcWOlSMele-WaxfXvK66pOhsWmwRiZ1M3Q1WGQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "L41pz_VCmgg", "title": "Move to Managed MongoDB: Why you need to migrate ASAP" },

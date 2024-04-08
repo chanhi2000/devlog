@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "5Cb601qLrjA", "title": "Resilience in Microservices - Circuit breaker | Code Demo" },
+    { "id": "fS8QY7BiDaQ", "title": "When to use HTTP POST instead of GET to retrieve data?" },
+    { "id": "4CN-s1S9dwU", "title": "How to handle exceptions in Microservices architecture? | Code Demo" },
+    { "id": "isDdylIUaOU", "title": "Design application that handles millions if requests | System Design Interview Question" },
+    { "id": "_qMSV1kFMdk", "title": "Rate Limiter | Microservices | Resilience | Code Demo" },
+    { "id": "Jen7e6mX6nU", "title": "Spring Boot 3.0 + Spring Security 6 | JWT Authentication & Authorization" },
+    { "id": "W6ktf5INsmo", "title": "Spring Boot Repository Testing | @DataJpaTest" },
     { "id": "gfvi7o_x9Sc", "title": "How to connect multiple databases in one Springboot application?" },
     { "id": "UM4DZdU0VPQ", "title": "What is JWT? JSON Web Token Explained !!!" },
     { "id": "uED0m8oQTl0", "title": "Working with FeignClient | @EnableFeignClient | @FeignClient | Microservices Communication" },

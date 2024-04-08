@@ -1109,5 +1109,10 @@
     "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
     "officialSite": "",
     "topics": ["apachespark", "awesome", "bigdata", "data", "dataengineering", "sql"]
+  }, {
+    "repo": "sourcegraph/awesome-code-ai",
+    "desc": "A list of AI coding tools (assistants, completions, refactoring, etc.)",
+    "officialSite": "",
+    "topics": []
   }
 ]

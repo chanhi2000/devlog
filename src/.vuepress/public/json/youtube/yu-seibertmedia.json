@@ -1,11 +1,16 @@
 {
   "channel": {
     "id": "seibertmedia",
-    "name": "SEIBERTMEDIA",
-    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRZYdsaQq1gxBISUYKMT5AxGXFAmqmn7fgBhQeF_Q=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/XhGDBRqgXdg2usWtip_EEWTXUbn6vt9OB24D5JCZDsRCf5ii23_V8pYeBgFJcrARreRrdilq2Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "name": "Seibert Media",
+    "profile": "https://yt3.googleusercontent.com/BwB_TfUvWy2AuqR2T-wrSou2GbZeOslD8QOTJQn6elUUB3Q2vIDp62vNjr70lzKWvw97-_mLIQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t29z7StphOYWOG-V40yIWMYwVacnSJ0Jt8ylHliThYvUrtFT9TteZT6HUqj7JiZpzsZh1PA2nQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3dkaAEf_dCM", "title": "Podcastfolge #10 Die Welt als moderner remote Arbeitsplatz - Interview mit Thomas Rosin" },
+    { "id": "3dkaAEf_dCM", "title": "Podcastfolge #10 Die Welt als moderner remote Arbeitsplatz - Interview mit Thomas Rosin" },
+    { "id": "BE1yOg90TrM", "title": "Let’s talk about: Vorurteile, Frauen und Tech - Women in Tech Night`24" },
+    { "id": "cPCcDnxRF1c", "title": "#12 Kundenzentrierte Arbeit durch das Jobs-to-be-Done Framework - Interview mit Eckhart Böhme" },
+    { "id": "oE9KcZoj38U", "title": "The Human Algorithm: Responsible AI Driven by DEI - Women in Tech Night'24" },
     { "id": "9r3WiTCt0rk", "title": "Agile Coach vs Führungskraft - Wie lerne ich Führung?" },
     { "id": "GYRrs52v_9o", "title": "Podcastfolge #05 Shared Leadership - Wie die gemeinsame Verantwortung zu besseren Ergebnissen führt" },
     { "id": "DkojX-bE2QQ", "title": "Einblicke in Jira Align" },

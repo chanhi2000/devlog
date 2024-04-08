@@ -6,7 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/-g6VXL7m-W-wGUx5OZGZDQUINlaEiJI9ZUJVzP_GDO5-OsuE6YVIXKqq5g_JGAr5djvFBeWU_dM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "PK_FKzgPDWg", "title": "Rust Vienna Jan 2024 - Serverless Data Pipelines in Rust by Michele Vigilante" },
+    { "id": "N7GMHcX-WdA", "title": "Project Syn - Simon Gerber - Rust Zürisee March 2024" },
+    { "id": "fTUZj9dazWA", "title": "new trait solver walkthrough - lcnr - 2024.02.26" },
+    { "id": "q5gh-XX1_Ws", "title": "Diplomat - Idiomatic Multi-Language APIs - Robert Bastian - Rust Zürisee March 2024" }
   ],
   "playlists": [
     {

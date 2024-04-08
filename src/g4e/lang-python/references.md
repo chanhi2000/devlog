@@ -64,6 +64,7 @@ tag:
 - [Getting started with Redpanda in Python](https://redpanda-data.medium.com/getting-started-with-redpanda-in-python-d3a5c74965ab)
 - [Guide to managing environment variables with Infisical + Python](https://medium.com/@tony.infisical/guide-to-managing-environment-variables-with-infisical-python-9d26ab07b387)
 - [Python: Uncovering the Overlooked Core Functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
+- [[python] 버전 변경](https://medium.com/%EB%8F%84%EA%B9%A8%EB%B9%84-%EC%9D%B4%EC%95%BC%EA%B8%B0/python-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-03cece908cac)
 
 ---
 
@@ -573,6 +574,12 @@ tag:
 ## Make headway towards solving the problem
 
 - [Adapter Pattern](https://iostream.tistory.com/178)
+
+---
+
+## 김태영의 케라스 블로그
+
+- [오늘의어시 - 블로그 작성 어시](https://tykimos.github.io/2024/04/04/todayassi___blog_writing_assi/)
 
 ---
 

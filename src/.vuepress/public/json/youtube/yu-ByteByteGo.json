@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/9BCeBFuI8LqoAS9rWKmAZIAy4bMn7zFQaa6WqOoezPiyNf_sJ4Dd_Tut0WvwSkFJTff2RXwxG9g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "x_jjhcDrISk", "title": "Top 3 Things You Should Know About Webhooks!" },
+    { "id": "wh98s0XhMmQ", "title": "Caching Pitfalls Every Developer Should Know" },
+    { "id": "x8lcdDbKZto", "title": "Why is Redis so FAST #javascript #python #web #coding #programming" },
+    { "id": "RqfaTIWc3LQ", "title": "Reverse Proxy vs API Gateway vs Load Balancer" },
+    { "id": "GAe5oB742dw", "title": "ACID Properties in Databases With Examples" },
+    { "id": "yMqldbY2AAg", "title": "Roadmap for Learning SQL" },
     { "id": "bbmWOjuFmgA", "title": "Linux File System Explained!" },
     { "id": "UN1kW5AHid4", "title": "How Disney Hotstar Captures One Billion Emojis!" },
     { "id": "dnFPWJ5nPvo", "title": "What’s Behind Kubernetes? #javascript #python #web #coding #programming" },

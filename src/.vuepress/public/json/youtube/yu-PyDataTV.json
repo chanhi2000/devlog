@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/E3Bbni4t9_C7Dd3o6nrIimaHTExTejChg1aikJB5lqAeUrEa1tzm019zEF1t2HZFNOKJFcYw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "i-8IeS9N7wA", "title": "Aleksei Gorin - Machine Learning Approaches in Neuroscience" },
+    { "id": "oDagBqLCu8E", "title": "PyData Granada - Meetup February 2024: IA Generativas + Clasificación de imágenes médicas (Spanish)" },
+    { "id": "nG2QOdrjaHc", "title": "PyData Chicago February 2024 Meetup | Community Science and Data Science: MicroPlants!" },
+    { "id": "gGd2NRzA3cA", "title": "Going beyond Parquet's default settings – be surprised what you can get - Uwe Korn (QuantCo)" },
+    { "id": "Sp3ZWnp4Vbk", "title": "Profiling and Optimising Model Prediction Services -Paolo Rechia (Schwarz IT)" },
+    { "id": "31EMTdUlPeo", "title": "PyData Zurich March 2024: The Utility of Transformers by François Fleuret" },
+    { "id": "kptxrinMJNc", "title": "o Bid, or not to Bid – Reinforcement Learning for Real Time Bidding / Doron Hai Reuven (Intango)" },
     { "id": "-MYYB0QjV6I", "title": "Egor Romanov - Performance of Vector Databases" },
     { "id": "5P0aP1BPPcQ", "title": "PyData Chicago January 2023 Meetup | Securday: Natural Language Network Scanner" },
     { "id": "oNuFqBAHpxU", "title": "Ramona Sartipi - When Design Thinking Meets Opensource | PyData Global 2023" },

@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "54lDPgNFt-8", "title": "MOST IMPORTANT TOPICS IN QUANTITATIVE FINANCE" },
+    { "id": "wD369Ujhj7E", "title": "CROSS VALIDATION IN MACHINE LEARNING/AI (K-FOLD AND LOOCV)" },
+    { "id": "c2Mz5JziKFM", "title": "PRE-REQUISITES TO STUDY QUANTITATIVE FINANCE" },
+    { "id": "17rXp0PqubQ", "title": "GRADIENT BOOSTING - MACHINE LEARNING" },
+    { "id": "WjvTVPw6sRc", "title": "CAREER PATHS IN QUANTITATIVE FINANCE" },
+    { "id": "2RciXeqAF8M", "title": "AREAS OF RISK MODELLING (FOR CAREER IN QUANTITATIVE FINANCE)" },
     { "id": "qFiG7tAGwys", "title": "EXPLORING NETFLIX'S STOCK PRICE DATA USING PYTHON (EDA ON TIME SERIES DATA)" },
     { "id": "pjBoGUPBnVQ", "title": "Kernel Density Estimation in Python" },
     { "id": "i_CT3nHICjU", "title": "BASEL Accord | Financial Risk Management | Regulatory Capital |  Banking" }

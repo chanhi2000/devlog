@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "ArticulatedRobotics",
+    "name": "Articulated Robotics",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nvvJsGPGcI2NUD-H9dVFPkefpXk6_uNbgPDu-Pdn5IzA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "JIGO3b-aoz8", "title": "When your webcam isn't working" },
+    { "id": "NGPn9nvLPmg", "title": "Coordinate Transformations - How robots move through space" }
+  ]
+}

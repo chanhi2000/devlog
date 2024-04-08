@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/VcrjriygyYu8arXpagf9kXTOZzJI73fg9Vhp62YHPFM2lh07_65LKf87kJCKzOHfUYBnEg5l=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nJcqP3wjDys", "title": "MFC Windows 프로그래밍 - 기본과정 오픈안내" },
+    { "id": "loaBxjh6ryk", "title": "사수도 교육도 없이 개발을 해야 한다면 이직해야 할까요?" },
+    { "id": "QLKM6dFLgwI", "title": "곧 2년차가 되는 Java 백엔드 개발자의 이직고민에 대한 답변" },
+    { "id": "HM-Yk1OK48U", "title": "백악관도 쓰지 말라는 C/C++, 그래서 어쩌란 말인가?" },
+    { "id": "pcHTMJFx4D0", "title": "Java 백엔드 개발자가 되려는 분들에게 C++ 개발자가 권하는 널널하지 않은 커리큘럼" },
+    { "id": "K5xCVr5Z610", "title": "왜 저를 채용해서 이 고생을 시키는 것인지... 그 이유를 모르겠습니다." },
+    { "id": "7AzyuygkCgc", "title": "2024년 3월 1개월 동안 모든 강의 30% 할인지원" },
+    { "id": "rLfiyn95HXU", "title": "널널한 개발자의 주관적 의견과 답변 시리즈 정리 및 운영안내" },
+    { "id": "LmIrm2JZyfs", "title": "IT기술서를 고르는 방법 소개 및 Spring 강의추천" },
+    { "id": "_v1Bbmmf5eI", "title": "C++의  임시객체에 대한 보충설명" },
     { "id": "sFGTwIYKK9I", "title": "백엔드 10년차 개발자의 고민" },
     { "id": "DvFTiMWbLxk", "title": "IT강사는 돈을 잘 버는 직업인가? - 1편" },
     { "id": "sZ3FnGxR6vU", "title": "메모장에 입력한 글이 파일로 저장되기까지 어떤 일들이 일어날까?" },
