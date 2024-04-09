@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/sxzld_A3w-McPIbiDog31iFkqoNDtUsD22_flBamY4EGBq9N3gz8mYGBKS2HquFxzouWZJweBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qzrE7cfc_3Q", "title": "Django Graph Models command - Generate ER Diagrams for your Database" },
+    { "id": "--ddZc39wVQ", "title": "Writing Django Middleware (with tests!) | HTMX middleware | IP Blacklist middleware" },
+    { "id": "KF2p-LQjZZ4", "title": "Django Proxy Models - Customizing Model Behaviour using Proxy Models!" },
+    { "id": "s7mynG3zxWQ", "title": "Alpine AJAX - Alpine plugin (bringing HTMX-like functionality to Alpine!)" },
+    { "id": "x_N2VjGQKr4", "title": "SQLC in Go - Auto-Generating Database Code in Golang" },
+    { "id": "ErVx9QyoBQI", "title": "Live Reloading in Go / Golang - with Air" },
+    { "id": "Gf9L7XA1X8Q", "title": "Go, Alpine.js & HTMX - Building a Small Todo App ( Golang )" },
+    { "id": "jdKEGrjf4mw", "title": "Go flag Module - Reading Command-Line Flags in Golang!" },
+    { "id": "pRYzMF04fLw", "title": "FastAPI & SQLModel - Database Interaction in FastAPI apps with SQLModel" },
+    { "id": "zTSmvUVbk8M", "title": "FastAPI & Alembic - Database Migrations in FastAPI apps" },
     { "id": "m1f6oxBXLJY", "title": "django-ninja & Next.js - DaisyUI Components | Client Components | Form Submissions" },
     { "id": "yQqig-c2dd4", "title": "django-ninja - Permissions, Controllers & Throttling with django-ninja-extra!" },
     { "id": "9Hc-mql6Gv4", "title": "Python & FastAPI - Annotated Type for Data Validation + Metadata!" },

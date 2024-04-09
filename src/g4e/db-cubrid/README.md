@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Cubrid
 description: Cubrid
-icon: fas fa-cube
+icon: iconfont icon-cubrid
 category:
   - Cubrid
 tag:

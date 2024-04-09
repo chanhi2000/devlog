@@ -1369,5 +1369,10 @@
     "desc": "Fire alarm beep detection",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "flipt-io/reverst",
+    "desc": "Reverse Tunnels in Go over HTTP/3 and QUIC",
+    "officialSite": "",
+    "topics": []
   }
 ]

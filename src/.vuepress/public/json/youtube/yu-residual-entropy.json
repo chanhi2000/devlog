@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "residual-entropy",
+    "name": "Residual Entropy",
+    "profile": "https://yt3.googleusercontent.com/BTiwIpZEpFl7FMF_UZ1iL_l61pFyKLQ7J7E0gk9d6f9HSBDC3uBDW2xjOAZqHmwcTEdrGuYqRoc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "qqgDuEi7OU0", "title": "\"Horribly Unsafe\" Safe Rust!? (transmute in cve-rs)" }
+  ]
+}

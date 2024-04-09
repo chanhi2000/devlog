@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🐘Gradle
-description: 🐘Gradle
+title: Gradle
+description: Gradle
+icon: iconfont icon-gradle
 category:
-  - 🐘Gradle
+  - Gradle
+tag:
+  - gradle
 ---
 
 # {{ $frontmatter.description }} 관련

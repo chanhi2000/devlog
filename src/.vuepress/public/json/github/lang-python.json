@@ -4774,5 +4774,20 @@
     "desc": "Multilingual Sentence & Image Embeddings with BERT",
     "officialSite": "https://www.SBERT.net",
     "topics": []
+  }, {
+    "repo": "nashsu/FreeAskInternet",
+    "desc": "FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "PKU-YuanGroup/Open-Sora-Plan",
+    "desc": "This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Libr-AI/OpenFactVerification",
+    "desc": "Open-source solution designed to automate the process of verifying factuality",
+    "officialSite": "https://www.librai.tech/",
+    "topics": ["ai", "factuality", "hallucination"]
   }
 ]

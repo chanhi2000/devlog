@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: IDE
-description: IDE
+title: DBeaver
+description: DBeaver
+icon: iconfont icon-dbeaver
 category:
-  - IDE
+  - DBeaver
+tag:
+  - dbeaver
+  - dbeaver-ce
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -12,7 +16,7 @@ category:
 {{ $frontmatter.description }} 관련 정리내용입니다.
 :::
 
-<ShieldsGroup logos="jetbrains,intellijidea,androidstudio,vim,neovim"/>
+<ShieldsGroup logos="dbeaver"/>
 
 ---
 

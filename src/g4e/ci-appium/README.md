@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Appium
 description: Appium
-icon: fas fa-hurricane
+icon: iconfont icon-appium
 category:
   - Appium
 tag:

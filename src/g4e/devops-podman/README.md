@@ -1,9 +1,12 @@
 ---
 lang: ko-KR
-title: 🍄Podman
-description: 🍄Podman
+title: Podman
+description: Podman
+icon: iconfont icon-podman
 category:
-  - 🍄Podman
+  - Podman
+tag:
+  - podman
 ---
 
 # {{ $frontmatter.description }} 관련

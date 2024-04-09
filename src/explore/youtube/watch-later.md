@@ -104,7 +104,6 @@ tags:
 [yu-user-fp8lc6ju1n]: https://www.youtube.com/@user-fp8lc6ju1n
 [yu-dev_jeongdaeri]: https://www.youtube.com/@dev_jeongdaeri
 [yu-sketch-2-react]: https://www.youtube.com/@Sketch2React
-[yu-james-montemagno]: https://www.youtube.com/@JamesMontemagno
 [yu-be9952]: https://www.youtube.com/@be9952
 [yu-swiftwithyash]: https://www.youtube.com/@swiftwithyash
 [yu-creativeclue2772]: https://www.youtube.com/@creativeclue2772

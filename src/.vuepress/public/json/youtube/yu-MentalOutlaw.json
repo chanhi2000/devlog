@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/MCKlDYo78cX-ODEurmP8J1q-Pkf27Sb2E0cD8kbgwDU8ZlmQVll7gLmbznsPrXvinS6577z-bA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hhmvZwQ9bJU", "title": "The White House Endorses Rust" },
+    { "id": "M3mslUBWqIY", "title": "Dark Web Vendors Are Using Drones for Delivery" },
+    { "id": "044GiRqGebc", "title": "The XZ Backdoor Almost Compromised Every Linux System" },
     { "id": "yW3ovyQCwpw", "title": "NVChad - Turn Neovim Into An Awesome IDE" },
     { "id": "qLgCzFN_LDo", "title": "How Tor Users Get Caught By Saying Too Much" },
     { "id": "w9JynqotWqk", "title": "Microsoft Kills Wordpad" },

@@ -11,7 +11,7 @@ export const sidebarEn = sidebar({
     {
       text: 'API - Kakao',
       collapsible: true,
-      icon: 'fas fa-seedling',
+      icon: 'iconfont icon-kakao',
       children: [
         '/g4e/api-kakao/README.md',
         '/g4e/api-kakao/local.md',
@@ -21,7 +21,7 @@ export const sidebarEn = sidebar({
     },  {
       text: 'API - NCloud',
       collapsible: true,
-      icon: 'fas fa-frog',
+      icon: 'iconfont icon-naver',
       children: [
          '/g4e/api-ncloud/README.md',
          '/g4e/api-ncloud/geolocation.md',
@@ -54,17 +54,23 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Powershell',
       collapsible: true,
-      icon: 'fas fa-hat-wizard',
+      icon: 'iconfont icon-powershell',
       children: [
         '/g4e/cli-pwsh/README.md',
         '/g4e/cli-pwsh/basics.md',
-        '/g4e/cli-pwsh/scripts-manage-computer.md',
-        '/g4e/cli-pwsh/scripts-for-desktop.md',
-        '/g4e/cli-pwsh/scripts-for-files-folders.md',
-        '/g4e/cli-pwsh/scripts-convert-files.md',
-        '/g4e/cli-pwsh/scripts-for-git.md',
-        '/g4e/cli-pwsh/scripts-for-pwsh.md',
-        '/g4e/cli-pwsh/various-pwsh-scripts.md',
+        {
+          text: 'Scripts',
+          collapsible: true,
+          children: [
+            '/g4e/cli-pwsh/scripts-manage-computer.md',
+            '/g4e/cli-pwsh/scripts-for-desktop.md',
+            '/g4e/cli-pwsh/scripts-for-files-folders.md',
+            '/g4e/cli-pwsh/scripts-convert-files.md',
+            '/g4e/cli-pwsh/scripts-for-git.md',
+            '/g4e/cli-pwsh/scripts-for-pwsh.md',
+            '/g4e/cli-pwsh/various-pwsh-scripts.md',
+          ]
+        },
         '/g4e/cli-pwsh/tips.md',
         '/g4e/cli-pwsh/references.md',
         '/g4e/cli-pwsh/github.md',
@@ -73,7 +79,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Vim',
       collapsible: true,
-      icon: 'fas fa-pen-nib',
+      icon: 'iconfont icon-vim',
       children: [
         '/g4e/cli-vim/README.md',
         '/g4e/cli-vim/tips.md',
@@ -83,8 +89,9 @@ export const sidebarEn = sidebar({
         '/g4e/cli-vim/youtube.md',
       ]
     }, {
-      text: '🐘Gradle',
+      text: 'Gradle',
       collapsible: true,
+      icon: 'iconfont icon-gradle',
       children: [
         '/g4e/lang-gradle/README.md',
         '/g4e/lang-gradle/snippets.md',
@@ -94,7 +101,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Maven',
       collapsible: true,
-      icon: 'fas fa-feather-pointed',
+      icon: 'iconfont icon-maven',
       children: [
         '/g4e/lang-maven/README.md',
         '/g4e/lang-maven/snippets.md',
@@ -122,7 +129,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Spring',
       collapsible: true,
-      icon: 'fa-brands fa-envira',
+      icon: 'iconfont icon-spring',
       children: [
         '/g4e/lang-java-spring/README.md',
         '/g4e/lang-java-spring/snippets-gradle.md',
@@ -224,7 +231,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Mermaid.js',
       collapsible: true,
-      icon: 'fas fa-person-swimming',
+      icon: 'iconfont icon-mermaid',
       children: [
         '/g4e/lang-js-mermaid/README.md',
         '/g4e/lang-js-mermaid/examples.md',
@@ -264,7 +271,7 @@ export const sidebarEn = sidebar({
     {
       text: 'Lua',
       collapsible: true,
-      icon: 'fas fa-meteor',
+      icon: 'iconfont icon-lua',
       children: [
         '/g4e/lang-lua/README.md',
         '/g4e/lang-lua/references.md',
@@ -274,7 +281,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'CSharp',
       collapsible: true,
-      icon: 'fas fa-hashtag',
+      icon: 'iconfont icon-csharp',
       children: [
         '/g4e/lang-csharp/README.md',
         '/g4e/lang-csharp/references.md',
@@ -315,7 +322,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Ruby',
       collapsible: true,
-      icon: 'fas fa-gem',
+      icon: 'iconfont icon-ruby',
       children: [
         '/g4e/lang-ruby/README.md',
         '/g4e/lang-ruby/references.md',
@@ -325,7 +332,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Elixir',
       collapsible: true,
-      icon: 'fas fa-droplet',
+      icon: 'iconfont icon-elixir',
       children: [
         '/g4e/lang-elixir/README.md',
         '/g4e/lang-elixir/tips.md',
@@ -334,8 +341,9 @@ export const sidebarEn = sidebar({
         '/g4e/lang-elixir/youtube.md',
       ]
     }, {
-      text: '🐑Haskell',
+      text: 'Haskell',
       collapsible: true,
+      icon: 'iconfont icon-haskell',
       children: [
         '/g4e/lang-haskell/README.md',
         '/g4e/lang-haskell/references.md',
@@ -356,7 +364,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Cpp',
       collapsible: true,
-      icon: 'fas fa-dice-two',
+      icon: 'iconfont icon-cpp',
       children: [
         '/g4e/lang-cpp/README.md',
         '/g4e/lang-cpp/tips.md',
@@ -439,7 +447,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'macOS',
       collapsible: true,
-      icon: 'fa-brands fa-apple',
+      icon: 'iconfont icon-macos',
       children: [
         '/g4e/devops-os-mac/README.md',
         '/g4e/devops-os-mac/env-setup.md',
@@ -482,8 +490,9 @@ export const sidebarEn = sidebar({
         '/g4e/devops-docker/youtube.md',
       ]
     }, {
-      text: '🍄Podman',
+      text: 'Podman',
       collapsible: true,
+      icon: 'iconfont icon-podman',
       children: [
         '/g4e/devops-podman/README.md',
         '/g4e/devops-podman/skopeo.md',
@@ -556,7 +565,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Appium',
       collapsible: true,
-      icon: 'fas fa-hurricane',
+      icon: 'iconfont icon-appium',
       children: [
         '/g4e/ci-appium/README.md',
         '/g4e/ci-appium/references.md',
@@ -572,19 +581,31 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Selenium',
       collapsible: true,
-      icon: 'fas fa-square-check',
+      icon: 'iconfont icon-selenium',
       children: [
         '/g4e/test-selenium/README.md',
         '/g4e/test-selenium/youtube.md',
       ],
     }, {
-      text: '🧛‍♀️Dracula',
+      text: 'Dracula',
       collapsible: true,
+      icon: 'iconfont icon-vampire-dracula',
       children: [
         '/g4e/dracula/README.md',
         '/g4e/dracula/env-setup.md',
       ],
     }, {
+      text: 'Intellij Idea',
+      collapsible: true,
+      icon: 'iconfont icon-intellijidea',
+      children: [
+        '/g4e/tool-ide-idea/README.md',
+        '/g4e/tool-ide-idea/plugins.md',
+        '/g4e/tool-ide-idea/troubleshooting.md',
+        '/g4e/tool-ide-idea/references.md',
+        '/g4e/tool-ide-idea/youtube.md',
+      ]
+    },{
       text: 'VSCode',
       collapsible: true,
       icon: 'iconfont icon-vscode',
@@ -600,7 +621,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Sublime Text',
       collapsible: true,
-      icon: 'fas fa-file-lines',
+      icon: 'iconfont icon-sublimetext',
       children: [
         '/g4e/tool-te-sublime-text/README.md',
         '/g4e/tool-te-sublime-text/plugins.md',
@@ -608,20 +629,19 @@ export const sidebarEn = sidebar({
         '/g4e/tool-te-sublime-text/references.md',
       ],
     }, {
-      text: '🎩IDE & Text Editor',
+      text: 'DBeaver',
       collapsible: true,
+      icon: 'iconfont icon-dbeaver',
       children: [
-        '/g4e/tool-ide/README.md',
-        '/g4e/tool-ide/idea-plugins.md',
-        '/g4e/tool-ide/idea-troubleshooting.md',
-        '/g4e/tool-ide/dbeaver-hotkey.md',
-        '/g4e/tool-ide/dbeaver-jdbc.md',
-        '/g4e/tool-ide/dbeaver-qtmplt.md',
+        '/g4e/tool-ide-dbeaver/README.md',
+        '/g4e/tool-ide-dbeaver/hotkey.md',
+        '/g4e/tool-ide-dbeaver/jdbc.md',
+        '/g4e/tool-ide-dbeaver/qtmplt.md',
       ]
     }, {
       text: 'Excel',
       collapsible: true,
-      icon: 'fas fa-table',
+      icon: 'iconfont icon-excel',
       children: [
         '/g4e/tool-excel/README.md',
         '/g4e/tool-excel/references.md',
@@ -639,7 +659,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Notion',
       collapsible: true,
-      icon: 'fas fa-n',
+      icon: 'iconfont icon-notion',
       children: [
         '/g4e/tool-notion/README.md',
         '/g4e/tool-notion/references.md',
@@ -689,7 +709,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'NGINX',
       collapsible: true,
-      icon: 'fa-brands fa-neos',
+      icon: 'iconfont icon-nginx',
       children: [
         '/g4e/ws-nginx/README.md',
         '/g4e/ws-nginx/references.md',
@@ -711,7 +731,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Oracle SQL',
       collapsible: true,
-      icon: 'fas fa-eye',
+      icon: 'iconfont icon-oracle',
       children: [
         '/g4e/db-oracle/README.md',
         '/g4e/db-oracle/query.md',
@@ -719,8 +739,9 @@ export const sidebarEn = sidebar({
         '/g4e/db-oracle/youtube.md',
       ]
     }, {
-      text: '🎡Microsoft SQL Server',
+      text: 'Microsoft SQL Server',
       collapsible: true,
+      icon: 'iconfont icon-sqlserver',
       children: [
         '/g4e/db-mssql/README.md',
         '/g4e/db-mssql/query.md',
@@ -730,7 +751,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Cubrid',
       collapsible: true,
-      icon: 'fas fa-cube',
+      icon: 'iconfont icon-cubrid',
       children: [
         '/g4e/db-cubrid/README.md',
         '/g4e/db-cubrid/cli.md',
@@ -741,7 +762,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'PostgreSQL',
       collapsible: true,
-      icon: 'fa-brands fa-deskpro',
+      icon: 'iconfont icon-postgresql',
       children: [
         '/g4e/db-postgres/README.md',
         '/g4e/db-postgres/query.md',
@@ -751,7 +772,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Django',
       collapsible: true,
-      icon: 'fas fa-hat-cowboy',
+      icon: 'iconfont icon-django',
       children: [
         '/g4e/db-django/README.md',
         '/g4e/db-django/query.md',
@@ -770,8 +791,8 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Altibase',
       collapsible: true,
-      icon: 'fas fa-campground',
-      children: [
+      icon: 'iconfont icon-altibase',
+    children: [
         '/g4e/db-altibase/README.md',
         '/g4e/db-altibase/query.md',
         '/g4e/db-altibase/references.md',
@@ -887,7 +908,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Public API',
       collapsible: true,
-      icon: 'fas fa-bullseye',
+      icon: 'iconfont icon-api',
       children: [
         '/explore/api/README.md',
         '/explore/api/list.md',

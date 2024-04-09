@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/G8a0inSGWBgVy5luW4WT8AZbYbtm921EMo0XSziT3gHUTu5bnE2AZeE8DbJjWSfJzcmTisX0xuE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7YYuZ_YtxmQ", "title": "Why (almost) every JavaScript developer should learn TypeScript" },
+    { "id": "lxZM7kQuBXY", "title": "Should you REALLY learn JavaScript before React, Angular etc?" },
+    { "id": "osFmiMR2OQQ", "title": "👋 Bye, bye software engineers?" },
+    { "id": "rzJitNMyMHo", "title": "Did we go too far?" },
+    { "id": "rOVhKFiZW9U", "title": "HTMX is amazing!" },
+    { "id": "55pP37NDP4c", "title": "Smart Developers Write Simple Code!" },
     { "id": "HIknhFhhioY", "title": "React 19 Is Coming!" },
     { "id": "9jqYhAxzJdQ", "title": "Are Metaframeworks Like NextJS The Future Of React & co?" }
   ]

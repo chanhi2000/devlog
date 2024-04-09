@@ -34,8 +34,9 @@ tag:
 <MyYouTubeItems jsonName="yu-NovaspiritTech" /> <!-- Novaspirit Tech -->
 <MyYouTubeItems jsonName="yu-MattKC" /><!-- MattKC -->
 <MyYouTubeItems jsonName="yu-Keybored" /><!-- Keybored -->
-
----
+<MyYouTubeItems jsonName="yu-AlteraFPGA_" /><!-- Altera -->
+<MyYouTubeItems jsonName="yu-JavaHomeCloud" /><!-- Java Home Cloud -->
+<MyYouTubeItems jsonName="yu-iVish" /><!-- iVish -->
 
 <TagLinks />
 

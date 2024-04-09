@@ -2,7 +2,7 @@
 lang: ko-KR
 title: NeoVim
 description: Vim > NeoVim
-icon: fa-brands fa-neos
+icon: iconfont icon-neovim
 category:
   - Vim
   - NeoVim

@@ -2144,5 +2144,10 @@
     "desc": "In-memory Postgres for unit/E2E tests",
     "officialSite": "https://stackframe-projects.github.io/pgmock/",
     "topics": []
+  }, {
+    "repo": "drawdb-io/drawdb",
+    "desc": "Free, simple, and intuitive online database design tool and SQL generator.",
+    "officialSite": "https://drawdb.vercel.app",
+    "topics": ["database-schema", "editor", "indexeddb", "mariadb", "postgresql", "react", "sql", "sql-server", "sqlite", "svg", "tailwindcss"]
   }
 ]

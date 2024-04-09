@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ♻️Scripts to Convert Files
-description: 🧙‍♂️Powershell > ♻️Scripts to Convert Files
+title: Scripts to Convert Files
+description: Powershell > Scripts to Convert Files
+icon: fas fa-recycle
 category:
-  - 🧙‍♂️Powershell
-  - ♻️Scripts to Convert Files
+  - Powershell
+  - Scripts to Convert Files
 tag:
   - powershell
   - pwsh

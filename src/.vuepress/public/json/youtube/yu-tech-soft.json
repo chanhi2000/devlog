@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/MzpI_GnSivlorIbsDcDYVlSEw4ilPEFfjfW23VZuEwL90kiwv-wgViBFUNl32dAniEPPI4y0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "40x2KJioRNw", "title": "Apache Kafka Tutorials for Beginners | What & Why Apache Kafka? Brief introduction" },
+    { "id": "_eEDA0Z0Wos", "title": "Apache Kafka® Components & Architecture | Kafka Terminology |Apache Kafka Tutorials for Beginners" },
     { "id": "K8nP3gyf7o0", "title": "JWT with Spring boot Authentication & Authorization | Spring Security full demo in Spring Boot 3 #1" },
     { "id": "PPDluVFDwis", "title": "Spring Boot | Rest API | Spring Data JPA | MYSQL database | Spring Boot Application in 13 minutes" },
     { "id": "fzTl-Dr99aw", "title": "WebClient | Service to service communication in microservice | How to use webclient in spring boot" },

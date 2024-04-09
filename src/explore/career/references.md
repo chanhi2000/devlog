@@ -159,6 +159,7 @@ tag:
 - [지금 할 수 있는 것을 하라.](https://blog.naver.com/cybervictor008/223405231219?)
 - [자투리 시간의 활용](https://blog.naver.com/cybervictor008/223406340741?)
 - [Unix를 알아야 하는 이유(?)](https://blog.naver.com/cybervictor008/223404547371?)
+- [감정 이입](https://blog.naver.com/cybervictor008/223408992830?)
 
 ---
 
@@ -236,6 +237,7 @@ tag:
 ## The Startup Bible
 
 - [과소평가, 과대평가 – 기술](https://www.thestartupbible.com/2024/04/things-we-overestimate-and-underestimate-technology.html)
+- [소명과 책임](https://www.thestartupbible.com/2024/04/on-the-calling-of-a-vc.html)
 
 ---
 
@@ -332,6 +334,18 @@ tag:
 ## THE STARTUP BIBLE
 
 - [과소평가, 과대평가 – 사람](https://www.thestartupbible.com/2024/04/things-we-overestimate-and-underestimate-people.html)
+
+---
+
+## AB180 엔지니어링 베이스
+
+- [동일한 비용으로 리포트 요청 10배 처리하기](https://engineering.ab180.co/stories/improve-performance-airbridge-report-worker)
+
+---
+
+## sosolog
+
+- [디자인 시스템, 코드를 넘어서](https://so-so.dev/react/design-system-beyond-code/)
 
 ---
 

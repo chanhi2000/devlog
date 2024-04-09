@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Spring
 description: Spring
-icon: fa-brands fa-envira
+icon: iconfont icon-spring
 category:
   - Java
   - Kotlin

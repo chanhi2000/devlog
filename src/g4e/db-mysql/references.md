@@ -33,6 +33,8 @@ tag:
 - [`@eunbibi` - `concat`, `alias`, `distinct`, `limit`](https://velog.io/@eunbibi/concat-alias-distinct-limit)
 - [`@eunbibi` - `UNION`,](https://velog.io/@eunbibi/UNION)
 - [`@eunbibi` - `JOIN`](https://velog.io/@eunbibi/JOIN)
+- [`@eunbibi` - Primary Key, Foreign Key](https://velog.io/@eunbibi/Primary-Key-Foreign-Key)
+- [`@eunbibi` - Python MySQL](https://velog.io/@eunbibi/Python-w-MySQL)
 
 ---
 

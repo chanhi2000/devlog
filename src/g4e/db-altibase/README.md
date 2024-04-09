@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Altibase
 description: Altibase
-icon: fas fa-campground
+icon: iconfont icon-altibase
 category:
   - Database
   - DB

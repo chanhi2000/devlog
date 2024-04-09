@@ -43,5 +43,6 @@ tag:
 <MyYouTubeItems jsonName="yu-suhakham" /><!-- 더수학함 -->
 <MyYouTubeItems jsonName="yu-SpanningTree" /><!-- Spanning Tree -->
 <MyYouTubeItems jsonName="yu-veritasium" /><!-- Veritasium -->
+<MyYouTubeItems jsonName="yu-electric_revolution" /><!-- 전기혁명 -->
 
 <TagLinks />

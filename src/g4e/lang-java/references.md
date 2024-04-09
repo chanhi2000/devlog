@@ -229,7 +229,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-kickstarter"/>Kotlin
+## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ### Roadmap
 

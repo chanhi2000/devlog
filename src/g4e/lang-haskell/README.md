@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🐑Haskell
-description: 🐑Haskell
+title: Haskell
+description: Haskell
+icon: iconfont icon-haskell
 category:
-  - 🐑Haskell
+  - Haskell
+tag:
+  - haskell
+  - hk
 ---
 
 # {{ $frontmatter.description }} 관련

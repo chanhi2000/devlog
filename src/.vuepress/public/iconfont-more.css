@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4499603 */
+  src: url('//at.alicdn.com/t/c/font_4499603_h4dej62ul0q.woff2?t=1712634706525') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_h4dej62ul0q.woff?t=1712634706525') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_h4dej62ul0q.ttf?t=1712634706525') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_h4dej62ul0q.svg?t=1712634706525#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-quarkus:before { content: "\ec70"; }
+.icon-spring-boot:before { content: "\e602"; }
+.icon-api:before { content: "\e7e1"; }
+.icon-jupyter:before { content: "\ebde"; }
+.icon-objective-c:before { content: "\e6e5"; }
+.icon-mermaid:before { content: "\e894"; }
+.icon-mysql:before { content: "\ec6d"; }
+.icon-sqlserver:before { content: "\e664"; }
+.icon-kotlin:before { content: "\ebed"; }
+.icon-maven:before { content: "\ea08"; }
+.icon-neovim:before { content: "\ec2c"; }
+.icon-vim:before { content: "\ecfd"; }
+.icon-naver:before { content: "\e635"; }
+.icon-spring:before { content: "\e601"; }
+.icon-tomcat:before { content: "\e60a"; }
+.icon-csharp:before { content: "\e60b"; }
+.icon-macos:before { content: "\e73a"; }
+.icon-excel:before { content: "\edde"; }
+.icon-altibase:before { content: "\e628"; }
+.icon-django:before { content: "\eb7b"; }
+.icon-nginx:before { content: "\ec30"; }
+.icon-oracle:before { content: "\ec48"; }
+.icon-postgresql:before { content: "\ec5d"; }
+.icon-powershell:before { content: "\ec5e"; }
+.icon-appium:before { content: "\e7cd"; }
+.icon-kakao:before { content: "\e600"; }
+.icon-selenium:before { content: "\e6a5"; }
+.icon-lua:before { content: "\e6e7"; }
+.icon-podman:before { content: "\e636"; }
+.icon-cubrid:before { content: "\e61c"; }
+.icon-ruby:before { content: "\e613"; }
+.icon-cpp:before { content: "\e609"; }
+.icon-gradle:before { content: "\ebaf"; }
+.icon-haskell:before { content: "\ebbb"; }
+.icon-notion:before { content: "\ec37"; }
+.icon-elixir:before { content: "\e75a"; }
+.icon-sublimetext:before { content: "\e67b"; }
+.icon-vampire-dracula:before { content: "\e6fa"; }
+.icon-intellijidea:before { content: "\ebd1"; }
+.icon-dbeaver:before { content: "\e621"; }
+.icon-jetbrains:before { content: "\ebdb"; }

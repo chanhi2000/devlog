@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "encord",
+    "name": "Encord",
+    "profile": "https://yt3.googleusercontent.com/XV9sDM6pu_GUmaGvF8htxJndeSFZZcojKtCa_1afZef4xZ0jiCgVyf_crmdX5IwLjGIyrRhFsFQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ebV5UJw8N0kSBWkCGC25pcDMkoiHkmXL_THx6eclD77iAVJdeuivQ-NTiLE2ireYxIf3sP7aoQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2o3xV_F51gI", "title": "Vision-Language Models:The Future of AI Webinar" },
+    { "id": "-seoJHbtQus", "title": "The Rise of Multimodal AI" },
+    { "id": "qxgIM1XIMjs", "title": "Multi-modal Foundational Models: The End of Data Labeling?" }
+  ]
+}

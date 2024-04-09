@@ -7,18 +7,20 @@ category:
   - Intellij Idea
   - Plugins
 tag: 
-  - idea
-  - intellij-idea
-  - intellij
-  - jetbrains
-  - android-studio
+  - java
+  - jdk
   - ide
+  - jetbrains
+  - intellij
+  - intellij-idea
+  - android-studio
+  - productivity
+  - programming
   - plugin
-  - idea-plugin
+  - idea-plugin 
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

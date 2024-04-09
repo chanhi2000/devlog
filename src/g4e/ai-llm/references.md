@@ -24,6 +24,12 @@ tag:
 
 ---
 
+## velog
+
+- [`@geoffyoon-dev` - 데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy)
+
+---
+
 ## Medium
 
 - [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
@@ -50,12 +56,19 @@ tag:
 ### Colab
 
 - [MANATEE(lm) : Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E)
+- [<FontIcon icon="fa-brands fa-python"/>`llm-pricing-cost-quality.ipynb`](https://colab.research.google.com/gist/virattt/7b67c685ca6b256d4fa6108bfae53d7a/exploring-llm-pricing-cost.ipynb)
 
 ---
 
 ## Ollama
 
 - [Run Llama 2 Uncensored Locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
+
+---
+
+## Linkedin
+
+- [How to Fit Large Language Models in Small Memory: Quantization](https://www.linkedin.com/pulse/how-fit-large-language-models-small-memory-ivan-reznikov/)
 
 ---
 

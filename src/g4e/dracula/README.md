@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🧛‍♀️Dracula
-description: 🧛‍♀️Dracula
+title: Dracula
+description: Dracula
+icon: iconfont icon-vampire-dracula
 category: 
-  - 🧛‍♀️Dracula
+  - Dracula
 ---
 
 # {{ $frontmatter.description }} 관련

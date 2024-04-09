@@ -104,5 +104,6 @@ tag:
 <MyYouTubeItems jsonName="yu-NickJanetakis" /><!-- Nick Janetakis -->
 <MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
 <MyYouTubeItems jsonName="yu-micoding" /><!-- 몰입코딩 아카이브 -->
+<MyYouTubeItems jsonName="yu-javascriptmastery" /><!-- JavaScript Mastery -->
 
 <TagLinks />

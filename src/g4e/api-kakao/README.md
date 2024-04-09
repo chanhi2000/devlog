@@ -2,7 +2,7 @@
 lang: ko-KR
 title: API - Kakao
 description: API - Kakao
-icon: fas fa-seedling
+icon: iconfont icon-kakao
 category:
   - API 
   - Kakao

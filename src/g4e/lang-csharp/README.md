@@ -2,9 +2,13 @@
 lang: ko-KR
 title: CSharp
 description: CSharp
-icon: fas fa-hashtag
+icon: iconfont icon-csharp
 category:
   - CSharp
+tag:
+  - dotnet
+  - csharp
+  - visual-studio
 ---
 
 # {{ $frontmatter.description }} 관련

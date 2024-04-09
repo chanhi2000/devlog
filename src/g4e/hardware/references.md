@@ -32,6 +32,7 @@ tag:
 - [ESP32-S3-ETH-CAN485 보드 자료](https://blog.naver.com/chandong83/223397555779?)
 - [STM32G4-2Relay 보드 검증 완료](https://blog.naver.com/chandong83/223404390101?)
 - [와... 조...졸았나....](https://blog.naver.com/chandong83/223406717717?)
+- [USB to CAN 동글 우분투에서 테스트하기](https://blog.naver.com/chandong83/223407505153?) 
 
 ---
 

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Cpp
 description: Cpp
-icon: fas fa-dice-two
+icon: iconfont icon-cpp
 category: 
   - Cpp
 tag: 

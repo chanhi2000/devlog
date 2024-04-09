@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Lua
 description: Lua
-icon: fas fa-meteor
+icon: iconfont icon-lua
 category:
   - Lua
 tag:

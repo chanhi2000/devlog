@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Sublime Text
 description: Sublime Text
-icon: fas fa-file-lines
+icon: iconfont icon-sublimetext
 category:
   - Sublime Text
 tag:

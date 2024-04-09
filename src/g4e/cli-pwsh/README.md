@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Powershell
 description: Powershell
-icon: fas fa-hat-wizard
+icon: iconfont icon-powershell
 category:
   - Powershell
 tag:

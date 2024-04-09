@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Public APIs
 description: Public APIs
-icon: fas fa-bullseye
+icon: iconfont icon-api
 category:
   - Explore
   - API
@@ -204,6 +204,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://dbdb.io",
   "logo": "https://dbdb.io/static/core/images/favicon.ico",
   "background": "rgba(45,73,98,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Anakin.ai",
+  "desc": "Generate Content, Images, Videos, and Voice; Craft Automated Workflows, Custom AI Apps, and Intelligent AgentsYour exclusive AI app customization workstation",
+  "link": "https://app.anakin.ai/discover",
+  "logo": "https://app.anakin.ai/favicon.ico",
+  "background": "rgba(158,119,255,0.2)"
 }
 ```
 
@@ -496,6 +506,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "OCR PDFs and images directly in your browser",
+  "desc": "This tool runs entirely in your browser. No files are uploaded to a server.",
+  "link": "https://tools.simonwillison.net/ocr",
+  "logo": "https://simonwillison.net/favicon.ico",
+  "background": "rgba(97,71,130,0.2)"
+}
+```
+
 @tab Geospatial
 
 ```component VPCard
@@ -607,6 +627,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "background": "rgba(51,122,183,0.2)"
 }
 ```
+
 - [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
 
 @tab Network & Security
@@ -850,6 +871,26 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 - https://dalle.party/
 - https://bbycroft.net/llm
 - https://puter.com/
+
+```component VPCard
+{
+  "title": "GHGHGHKO/klassic-quote-api",
+  "desc": "한국 클래식 영화 명대사 API",
+  "link": "https://klassic-quote.vercel.app/",
+  "logo": "https://klassic-quote.vercel.app/apple-touch-icon.png",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "제이문자 - 폰문자, 광고문자, 단체문자, 콜백문자, 선거문자 발송시스템",
+  "desc": "제이문자는 광고문자, 단체문자, 콜백문자, 선거문자 발송을 편리하게 할 수 있도록 도와주는 문자발송시스템 입니다.",
+  "link": "https://jmunja.com/sms/",
+  "logo": "https://jmunja.com/favicon.ico",
+  "background": "rgba(0,186,248,0.2)"
+}
+```
 
 :::
 

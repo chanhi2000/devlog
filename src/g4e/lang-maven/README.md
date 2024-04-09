@@ -2,9 +2,12 @@
 lang: ko-KR
 title: Maven
 description: Maven
-icon: fas fa-feather-pointed
+icon: iconfont icon-maven
 category:
   - Maven
+tag:
+  - maven
+  - xml
 ---
 
 # {{ $frontmatter.description }} 관련

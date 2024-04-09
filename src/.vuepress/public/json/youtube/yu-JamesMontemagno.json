@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "JamesMontemagno",
+    "name": "James Montemagno",
+    "profile": "https://yt3.googleusercontent.com/ix5f5kkT-Iuh1op2ChTDAvc6nk75LTwGFKEOg6XonbdUWCL6_WvmixyGHsjWZejCssB4dxDei-Y=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/A2elMAJ6QzqOTTzNEtETz1o0dLYjDWVmWCg28hv0ToIEzCCWpPZrISoLLl46EbNobSQWtjLae54=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tSUwr-R1JPQ", "title": "Generate Blazor Websites in Minutes with Visual Studio's NEW Scaffolder for RAD development!" },
+    { "id": "-SiYAYp5AOI", "title": "Reverse Proxy Beginner's Guide with YARP & .NET" },
+    { "id": "vYZ9t-nHOss", "title": "App Center Build to Azure DevOps Pipelines Migration Guide" }
+  ]
+}

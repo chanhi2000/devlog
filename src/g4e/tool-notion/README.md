@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Notion
 description: Notion
-icon: fas fa-n
+icon: iconfont icon-notion
 category:
   - Notion
 tag:

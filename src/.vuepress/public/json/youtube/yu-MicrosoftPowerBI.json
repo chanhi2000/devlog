@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/VVL89bwesTdWh9owl-7JxYaC6VUoxUfdRqCuLVzyN3EmAC-Gqc4EJ6t16GwuZxfrQDVuGuDH=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pnWZOLVI5Ik", "title": "Hack Together Wrap Up - How to submit and get ready for Fabric Community Conference" },
     { "id": "LhZRNm5Vjjc", "title": "Learn Together:  Get started with end-to-end analytics and lakehouses in Microsoft Fabric" },
     { "id": "MtXWO-5HmO4", "title": "Building a Custom Object Detection Model on Microsoft Fabric with Snapshot Serengeti Dataset" },
     { "id": "cDoWXNgd_eg", "title": "Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric" },

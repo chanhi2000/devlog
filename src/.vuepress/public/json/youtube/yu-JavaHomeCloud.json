@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/eqH4RHRRaGsPDwOTOFf_C7W1XZCjiK-4aIlzhDn_77qfRLVvBv8nyaH2qr85MgcC9y43tkZd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [   
+    { "id": "h07XKYLmzYs", "title": "AWS Lambda cold and warm start | AWS Lambda Tutorial | Lambda Performance Tuning | AWS Lambda" },
+    { "id": "0qejNJtvDS8", "title": "Very Important 10 Docker Interview Questions for DevOps | Docker FAQs | Docker concepts for  DevOps" },
+    { "id": "XqLPhMMfKO8", "title": "How to check Docker Logs | Docker Logs Command" },
+    { "id": "sX8Y-Lzw-TQ", "title": "How to use Docker Volumes in 10 minutes | Docker Volumes explained | Docker Volumes Demo" },
     { "id": "Ud1WW9i10Ag", "title": "Level Up Your Boto3 Skills: Mastering Boto3 with Practical Examples" },
     { "id": "Ta4gPMpfPgg", "title": "Free Seminar | Terraform Best Practices | Writing Terraform Modules | Terraform tutorial | Java Home" }, 
     { "id": "xsBnF9gbXW4", "title": "Debug Pod in Kubernetes | Debugging Pod | Pod Logs | ImagePullBackoff | DevOps Training" }, 

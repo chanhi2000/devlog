@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "electric_revolution",
+    "name": "전기혁명",
+    "profile": "https://yt3.googleusercontent.com/baenQtLDeOvkE6p1xNnyfdJv4GbYYJez_LsJsVwBjIaniNJnjX7wUNPKHV_jZWx8rFfl-qwf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/aiwiGpkyQswSD5C_WFVyMfUE-EgORJoipGtWOiTFcTp6sfq2nslnBZqUmJ32pzeJJg1YvSm1Vt0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uk3J4jHEn1M", "title": "전압 vs 전류 논쟁 종결판! #shorts" },
+    { "id": "uk3J4jHEn1M", "title": "전압 vs 전류 논쟁 종결판! #shorts" },
+    { "id": "Rr7e3s7Wd-8", "title": "3상 부하의 중성점을 증명하라(절대 따라하지 마세요) #shorts" }
+  ]
+}

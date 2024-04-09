@@ -1223,5 +1223,15 @@
     "desc": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.",
     "officialSite": "",
     "topics": ["c-plus-plus", "cpp", "game-development", "game-engine", "physics", "physics-engine", "physics-simulation", "simulation", "vr"]
+  }, {
+    "repo": "andreasfertig/cppinsights",
+    "desc": "C++ Insights - See your source code with the eyes of a compiler",
+    "officialSite": "https://cppinsights.io",
+    "topics": ["ast", "clang", "cplusplus", "cplusplus-11", "cplusplus-14", "cplusplus-17", "cplusplus-20", "cplusplus-23", "cpp", "cpp11", "cpp14", "cpp17", "cpp2", "cpp20", "cpp23", "llvm"]
+  }, {
+    "repo": "ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "officialSite": "https://docs.zlmediakit.com",
+    "topics": ["flv", "gb28181", "hls", "http", "http-flv", "http-fmp4", "http-ts", "live", "media-server", "mp4", "rtmp", "rtp", "rtsp", "srt", "ts", "webrtc", "websocket", "websocket-flv"]
   }
 ]

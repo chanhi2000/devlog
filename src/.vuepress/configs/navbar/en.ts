@@ -49,11 +49,11 @@ export const navbarEn = navbar([
       {
         text: 'API - Kakao',
         link: '/g4e/api-kakao/README.md',
-        icon: 'fas fa-seedling'
+        icon: 'iconfont icon-kakao'
       }, {
         text: 'API - NCloud',
         link: '/g4e/api-ncloud/README.md',
-        icon: 'fas fa-frog'
+        icon: 'iconfont icon-naver'
       }, {
         text: 'Shell',
         link: '/g4e/cli-shell/README.md',
@@ -65,17 +65,19 @@ export const navbarEn = navbar([
       }, {
         text: 'Powershell',
         link: '/g4e/cli-pwsh/README.md',
-        icon: 'fas fa-hat-wizard',
+        icon: 'iconfont icon-powershell',
       }, {
-        text: '🗡Vim',
+        text: 'Vim',
         link: '/g4e/cli-vim/README.md',
+        icon: 'iconfont icon-vim'
       }, {
-        text: '🐘Gradle',
+        text: 'Gradle',
         link: '/g4e/lang-gradle/README.md',
+        icon: 'iconfont icon-gradle'
       }, {
         text: 'Maven',
         link: '/g4e/lang-maven/README.md',
-        icon: 'fas fa-feather-pointed',
+        icon: 'iconfont icon-maven',
     }, {
         text: 'Java',
         link: '/g4e/lang-java/README.md',
@@ -83,7 +85,7 @@ export const navbarEn = navbar([
       }, {
         text: 'Spring',
         link: '/g4e/lang-java-spring/README.md',
-        icon: 'fas fa-leaf',
+        icon: 'iconfont icon-spring',      
       }, {
         text: 'Android',
         link: '/g4e/lang-java-android/README.md',
@@ -107,7 +109,7 @@ export const navbarEn = navbar([
       }, {
         text: 'Mermaid.js',
         link: '/g4e/lang-js-mermaid/README.md',
-        icon: 'fas fa-person-swimming',
+        icon: 'iconfont icon-mermaid',
       }, {
         text: 'Python',
         link: '/g4e/lang-python/README.md',
@@ -123,11 +125,11 @@ export const navbarEn = navbar([
       }, {
         text: 'Lua',
         link: '/g4e/lang-lua/README.md',
-        icon: 'fas fa-meteor'
+        icon: 'iconfont icon-lua',
       }, {
         text: 'CSharp',
         link: '/g4e/lang-csharp/README.md',
-        icon: 'fas fa-hashtag'
+        icon: 'iconfont icon-csharp',
       }, {
         text: 'Go',
         link: '/g4e/lang-go/README.md',
@@ -143,14 +145,15 @@ export const navbarEn = navbar([
       }, {
         text: 'Ruby',
         link: '/g4e/lang-ruby/README.md',
-        icon: 'fas fa-gem'
+        icon: 'iconfont icon-ruby',
       }, {
         text: 'Elixir',
         link: '/g4e/lang-elixir/README.md',
-        icon: 'fas fa-droplet'
+        icon: 'iconfont icon-elixir',
       }, {
-        text: '🐑Haskell',
+        text: 'Haskell',
         link: '/g4e/lang-haskell/README.md',
+        icon: 'iconfont icon-haskell',
       }, {
         text: 'C',
         link: '/g4e/lang-c/README.md',
@@ -158,7 +161,7 @@ export const navbarEn = navbar([
       }, {
         text: 'Cpp',
         link: '/g4e/lang-cpp/README.md',
-        icon: 'fas fa-dice-two',
+        icon: 'iconfont icon-cpp',
       }, {
         text: 'Zig',
         link: '/g4e/lang-zig/README.md',
@@ -183,7 +186,7 @@ export const navbarEn = navbar([
         link: '/explore/youtube/README.md',
       }, {
         text: 'Public API',
-        icon: 'fas fa-bullseye',
+        icon: 'iconfont icon-api  ',
         link: '/explore/api/README.md',
       }, {
         text: 'Devlog',
@@ -225,14 +228,15 @@ export const navbarEn = navbar([
         link: 'https://chanhi2000.github.io/crashcourse/rust/'
       }, {
         text: 'Cpp',
-        icon: 'fas fa-dice-two',
+        icon: 'iconfont icon-cpp',
         link: 'https://chanhi2000.github.io/crashcourse/cpp/'
       }, {
         text: 'Ruby',
-        icon: 'fas fa-gem',
+        icon: 'iconfont icon-ruby',
         link: 'https://chanhi2000.github.io/crashcourse/ruby/'
       }, {
-        text: '🐑Haskell',
+        text: 'Haskell',
+        icon: 'iconfont icon-haskell',
         link: 'https://chanhi2000.github.io/crashcourse/haskell/'
       }, {
         text: 'Docker',

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/JWXdU83-8DQkweKSPADldBsMWzA9-ntWBVIQ_ujE4IJP8o6so3LvNBgOdyRW0hq1mifLhjMc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sQr16FVWCe4", "title": "What's New in Two with Redis - February Edition" },
+    { "id": "nfpnuDJDd-Y", "title": "Operator Workshop: Exploring Redis as a Vector Database" },
+    { "id": "MTVcScW423w", "title": "Operator Workshop: Redis Persistence Explained" },
     { "id": "R1IXYnoSd5U", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
     { "id": "NDAzTvjpyS4", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
     { "id": "j3mlSPgzOmU", "title": "What's New In Two with Redis - January Edition" },

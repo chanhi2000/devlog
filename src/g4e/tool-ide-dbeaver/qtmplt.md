@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Query Template
 description: DBeaver > Query Template
+icon: fas fa-magnifying-glass
 category:
   - DBeaver
   - Query Template

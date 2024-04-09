@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Django
 description: Django
-icon: fas fa-hat-cowboy
+icon: iconfont icon-django
 category:
   - Django
 ---

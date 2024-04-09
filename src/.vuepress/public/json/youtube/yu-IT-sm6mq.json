@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "uwti6BkJMrU", "title": "Q 그리고 A #1 Java, Js, Db, Spring 어디까지 공부해야 하나? 뻔한 답변이지만 진지하게 영상으로.." },
+    { "id": "G_s27ulYg9U", "title": "RPA #1 Prologue Why RPA - RPA 시작해 보고자 합니다." },
+    { "id": "RnVtXuZTvUw", "title": "RPA #2 Install , RPA 툴로 UiPath 를 설치합니다." },
+    { "id": "KoYnQ9HOAYY", "title": "[RPA _ UiPath] #3-1 브라우저사용 : 브라우저 검색 , 결과 값 가져오기" },
+    { "id": "XTMrY_CKwjg", "title": "[RPA _ UiPath] #3-3 이메일송부 (Out look)" },
+    { "id": "K2rwN0HxTGE", "title": "[RPA _ UiPath] #3-2 데이타 파일저장하기(메모장)" },
     { "id": "y8wm6h_IIo8", "title": "#4 객체지향 - 상속 Inheritance | 상속을 만들어 보자" },
     { "id": "Q2sxtbgq4Eo", "title": "#3 [객체지향] No 상속 ? 난 그런거 모름..." },
     { "id": "liKHxyqAUdw", "title": "#2 환경설정 [객체지향] : eclipse 설치 & 기본 Class 생성" },

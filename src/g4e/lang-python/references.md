@@ -488,6 +488,7 @@ tag:
 ## Yun Blog
 
 - [Locust 성능 테스트 도구 소개](https://cheese10yun.github.io/locust-part-1/)
+- [Locust 성능 테스트 도구 소개 Part 2](https://cheese10yun.github.io/locust-part-2/)
 
 ---
 
@@ -580,6 +581,13 @@ tag:
 ## 김태영의 케라스 블로그
 
 - [오늘의어시 - 블로그 작성 어시](https://tykimos.github.io/2024/04/04/todayassi___blog_writing_assi/)
+- [RLHF 튜닝으로 향상된 Gemma 1.1 2B IT 공개](https://tykimos.github.io/2024/04/08/rlhf_tuning_enhanced_gemma_1.1_2b_it_release/)
+
+---
+
+## The Python Coding Stack
+
+- [The Strange Practices at The Broadcaster's Inn • Broadcasting in NumPy (A NumPy for Numpties article)](https://www.thepythoncodingstack.com/p/numpy-broadcasting-python-the-broadcasters-inn)
 
 ---
 

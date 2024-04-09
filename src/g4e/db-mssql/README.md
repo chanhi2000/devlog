@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: 🎡Microsoft SQL Server
-description: 🎡Microsoft SQL Server
+title: Microsoft SQL Server
+description: Microsoft SQL Server
+icon: iconfont icon-sqlserver
 category:
-  - 🎡Microsoft SQL Server
+  - Microsoft SQL Server
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Oracle SQL
 description: Oracle SQL
-icon: fas fa-eye
+icon: iconfont icon-oracle
 category:
   - SQL
   - Oracle 

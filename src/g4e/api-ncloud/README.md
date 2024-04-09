@@ -2,7 +2,7 @@
 lang: ko-KR
 title: API - NCloud
 description: API - NCloud
-icon: fas fa-frog
+icon: iconfont icon-naver
 category:
   - API
   - NCloud

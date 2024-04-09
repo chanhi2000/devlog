@@ -55,6 +55,9 @@ export default defineUserConfig({
     footer: 'MIT Licensed | Copyright © 2022-present <a href="https://github.com/chanhi2000">Chan Hee Lee</a>',
     displayFooter: true,
     // footerHtml: true,
+    repo: 'chanhi2000/devlog',
+    repoLabel: 'Github',  
+    repoDisplay: true,
     locales: {
       "/": {
         navbar: navbarEn,
@@ -83,7 +86,12 @@ export default defineUserConfig({
         ],
         componentOptions: {
           fontIcon: {
-            assets: ["iconfont", "fontawesome", "fontawesome-with-brands"],
+            assets: [
+              "iconfont", 
+              "fontawesome", 
+              "fontawesome-with-brands",
+              "/iconfont-more.css"
+            ],
           }
         },
         rootComponents: {

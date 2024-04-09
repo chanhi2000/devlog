@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Vim
 description: Vim
-icon: fas fa-pen-nib
+icon: iconfont icon-vim
 categroy:
   - Vim
 tag:

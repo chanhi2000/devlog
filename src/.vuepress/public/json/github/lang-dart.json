@@ -46,9 +46,9 @@
     "topics": ["ai", "chatbot", "flutter", "gpt", "gpt-4", "stable-diffusion", "wenxinyiyan", "tongyiqianwen"]
   }, {
     "repo": "shorebirdtech/shorebird",
-    "desc": "Home of the Shorebird Tools 🐦",
+    "desc": "Code Push for Flutter and other tools for Flutter businesses.",
     "officialSite": "https://shorebird.dev",
-    "topics": []
+    "topics": ["codepush", "deployment", "flutter", "shorebird"]
   }, {
     "repo": "Sangwan5688/BlackHole",
     "desc": "A Music Player App made with Flutter",

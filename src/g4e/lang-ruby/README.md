@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Ruby
 description: Ruby
-icon: fas fa-gem
+icon: iconfont icon-ruby
 category: 
   - Ruby
 tag:

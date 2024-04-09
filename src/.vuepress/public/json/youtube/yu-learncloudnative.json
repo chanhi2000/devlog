@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/fbvy650wx4_QRT8rtU1rn6MSGt_vIrdyVE73lsh6EVmnx_fsnWF1v_NLSDk9NiS8ee4GSnOF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IM1VzKDI9SI", "title": "Exploring LangFuse" },
+    { "id": "MP-IJBMDm0I", "title": "Exploring Azure AI Studio" },
+    { "id": "JsII4MXdCBw", "title": "What is Backstage? (Part 2)" },
+    { "id": "5Vt9ixVGR0Q", "title": "What is Backstage?" },
+    { "id": "JsII4MXdCBw", "title": "Developer Portals: Building Backstage templates and plugins" },
+    { "id": "lsoxkporwmE", "title": "Kubernetes Network Observability with Retina" },
     { "id": "hC0GKJaFstw", "title": "Exploring MetaGPT" },
     { "id": "X-irXixeo1Y", "title": "Deploy and run Embedchain apps on Kubernetes" },
     { "id": "q2sG9cRJh-w", "title": "Deploy and run Embedchain apps on Kubernetes (Part 2)" },

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Mermaid.js
 description: Mermaid.js
-icon: fas fa-person-swimming
+icon: iconfont icon-mermaid
 category:
   - Mermaid.js
 tag: 

@@ -869,5 +869,15 @@
     "desc": "WinBtrfs - an open-source btrfs driver for Windows",
     "officialSite": "",
     "topics": ["btrfs", "windows"]
+  }, {
+    "repo": "Notselwyn/CVE-2024-1086",
+    "desc": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",
+    "officialSite": "https://pwning.tech/nftables",
+    "topics": ["cve", "cve-2024-1086", "exploit", "lpe", "poc"]
+  }, {
+    "repo": "karpathy/llm.c",
+    "desc": "LLM training in simple, raw C/CUDA",
+    "officialSite": "",
+    "topics": []
   }
 ]

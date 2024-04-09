@@ -2,6 +2,7 @@
 lang: ko-KR
 title: Hotkey 
 description: DBeaver > Hotkey
+icon: fas fa-keyboard
 category:
   - DBeaver
   - Hotkey
@@ -18,6 +19,7 @@ tag:
 [[toc]]
 
 ---
+
 ## 목록
 
 | key | what's for |

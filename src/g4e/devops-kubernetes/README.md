@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Kubernetes
 description: Kubernetes
-icon: fa-brands fa-dharmachakra
+icon: fas fa-dharmachakra
 category:
   - Kubernetes
 tag:

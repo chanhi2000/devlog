@@ -2,7 +2,7 @@
 lang: ko-KR
 title: PostgreSQL
 description: PostgreSQL
-icon: fa-brands fa-deskpro
+icon: iconfont icon-postgresql
 category:
   - PostgreSQL
 ---

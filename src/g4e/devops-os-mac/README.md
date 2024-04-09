@@ -2,7 +2,7 @@
 lang: ko-KR
 title: macOS
 description: macOS
-icon: fa-brands fa-apple
+icon: iconfont icon-macos
 category:
   - macOS
 tag:

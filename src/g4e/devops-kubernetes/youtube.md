@@ -87,5 +87,6 @@ tag:
 <MyYouTubeItems jsonName="yu-mischavandenburg" /><!-- Mischa van den Burg -->
 <MyYouTubeItems jsonName="yu-TravisMedia" /><!-- Travis Media -->
 <MyYouTubeItems jsonName="yu-it-stant" /><!-- itstant -->
+<MyYouTubeItems jsonName="yu-szLynAs" /><!-- LynAs Sazzad -->
 
 <TagLinks />

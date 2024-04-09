@@ -2,6 +2,7 @@
 lang: ko-KR
 title: JDBC 
 description: DBeaver > JDBC
+icon: fas fa-link
 category: 
   - DBeaver
   - JDBC
@@ -44,6 +45,8 @@ tag:
 | Class Name | `cubrid.jdbc.driver.CUBRIDDriver` |
 | URL Template | `jdbc:CUBRID:thin:{host}:{port}:{database}:::?charset=UTF-8` |
 | Default Port | 33000 |
+
+---
 
 <TagLinks />
 

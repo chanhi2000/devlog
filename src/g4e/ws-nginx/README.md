@@ -2,7 +2,7 @@
 lang: ko-KR
 title: NGINX
 description: NGINX
-icon: fa-brands fa-neos
+icon: iconfont icon-nginx
 category: 
   - NGINX
 tag: 

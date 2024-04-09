@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/J63TbV61to8wWLtrxkaRnZJaLtmipQl5p3nuX9PzhFOjJbNe8QbjvvQLzlJ-LfzpgEvzNmoQlg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "T_tjlYIPinw", "title": "Build with ChatGPT | Trending Video Listings with Vue.js | Styled & Interactive | Day 10" },
+    { "id": "ETVPVXAGWw0", "title": "Automating Deployment: CI/CD with GitHub Actions to GoDaddy | Day 11" },
     { "id": "UisMtIyzPLE", "title": "Building with ChatGPT | Creating NavBar, Footer & Hero Section in Laravel & VueJS | Day 2" },
     { "id": "vN4pdCXccx0", "title": "Effective ChatGPT prompts leads to better results, here’s how #chatgpt #generativeai #ai #reels" },
     { "id": "RxBmq649Ey4", "title": "ChatGPT Debugging Deep Dive | Vue.js & Laravel Fine-Tuning | Day 3" },

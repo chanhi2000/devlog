@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Selenium
 description: Selenium
-icon: fas fa-square-check
+icon: iconfont icon-selenium
 category: 
   - Selenium
 tag: 

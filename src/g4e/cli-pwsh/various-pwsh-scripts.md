@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: 🛒Various Powershell Scripts
-description: Powershell > 🛒Various Powershell Scripts
+title: Various Powershell Scripts
+description: Powershell > Various Powershell Scripts
+icon: fas fa-cart-shopping
 category:
   - Powershell
-  - 🛒Various Powershell Scripts
+  - Various Powershell Scripts
 tag: 
   - powershell
   - pwsh

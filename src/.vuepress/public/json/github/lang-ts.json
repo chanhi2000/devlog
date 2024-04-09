@@ -1880,7 +1880,7 @@
     "topics": []
   }, {
     "repo": "HerbertHe/iptv-sources",
-    "desc": "自动抓取更新iptv源 Autoupdate iptv sources",
+    "desc": "Autoupdate iptv sources",
     "officialSite": "https://m3u.ibert.me/",
     "topics": ["diyp", "docker", "iptv", "iptv-channels", "iptv-m3u", "kodi", "m3u", "tvbox"]
   }, {
@@ -2553,5 +2553,30 @@
     "desc": "A JavaScript library like PyTorch, built from scratch.",
     "officialSite": "",
     "topics": ["automatic-differentiation", "deep-learning", "javascript-library", "neural-networks", "pytorch"]
-  }  
+  }, {
+    "repo": "PawanOsman/ChatGPT",
+    "desc": "OpenAI API Free Reverse Proxy",
+    "officialSite": "https://chat.pawan.krd",
+    "topics": ["ai", "api", "bard", "bing", "chat", "chatbot", "chatgpt", "chatgpt-api", "free", "gpt-3", "gpt-4", "openai", "openai-api", "reverse-proxy"]
+  }, {
+    "repo": "enricoros/big-AGI",
+    "desc": "Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.",
+    "officialSite": "https://big-agi.com",
+    "topics": ["agi", "anthropic", "beam", "chatgpt", "chatgpt-ui", "generative-ai", "gpt", "gpt-4", "gpt-5", "groq", "large-language-models", "mistral", "multimodal", "openai", "openai-api", "stable-diffusion", "ui"]
+  }, {
+    "repo": "backbone-hq/minibone",
+    "desc": "A compact, versatile, and misuse-resistant library for end-to-end-encryption",
+    "officialSite": "",
+    "topics": ["cryptography", "e2ee", "encryption", "end-to-end-encryption", "security", "webcrypto"]
+  }, {
+    "repo": "hrishioa/lumentis",
+    "desc": "AI powered one-click comprehensive docs from transcripts and text.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zengm-games/facesjs",
+    "desc": "A JavaScript library for generating vector-based cartoon faces",
+    "officialSite": "https://zengm.com/facesjs/",
+    "topics": ["svg"]
+  }
 ]

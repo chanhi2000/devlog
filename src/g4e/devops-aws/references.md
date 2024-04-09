@@ -105,6 +105,7 @@ tag:
 - [AWS 로드 밸런서 적용하기](https://blog.naver.com/gi_balja/223401436302)
 - [AWS RDS 연결하기](https://blog.naver.com/gi_balja/223402753221)
 - [AWS S3](https://blog.naver.com/gi_balja/223407211913?)
+- [AWS S3와 CloudFront](https://blog.naver.com/gi_balja/223408217352?)
 
 ---
 
@@ -117,6 +118,12 @@ tag:
 ## Inflab Tech
 
 - [스타트업 엔지니어의 AWS 비용 최적화 경험기](https://tech.inflab.com/20240227-finops-for-startup/)
+
+---
+
+## nanotoly
+
+- [AWS API gateway를 통해서 AWS IOT 에 메세지 PUBLISH 하기](https://blog.naver.com/nanotoly/223408850676?)
 
 ---
 

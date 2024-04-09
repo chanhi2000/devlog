@@ -1,27 +1,30 @@
 ---
 lang: ko-KR
-title: Intellij Idea > Troubleshooting
+title: Troubleshooting
 description: Intellij Idea > Troubleshooting
 icon: fas fa-bug-slash
 category:
   - Intellij Idea
   - Troubleshooting
 tag: 
-  - idea
-  - intellij-idea
-  - intellij
-  - jetbrains
-  - android-studio
+  - java
+  - jdk
   - ide
+  - jetbrains
+  - intellij
+  - intellij-idea
+  - android-studio
+  - productivity
+  - programming
   - troubleshooting
 ---
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
+
 ## feat. Bind Exception Address already in use
 
 - 💊cmd 실행 
@@ -33,5 +36,7 @@ netsh int ipv4 set dynamicport udp start=49152 num=16383
 net stop winnat
 net start winnat
 ```
+
+---
 
 <TagLinks />

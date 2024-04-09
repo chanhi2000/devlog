@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Elixir
 description: Elixir
-icon: fas fa-droplet
+icon: iconfont icon-elixir
 category:
   - Elixir
 tag:

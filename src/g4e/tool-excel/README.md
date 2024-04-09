@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Excel
 description: Excel
-icon: fas fa-table
+icon: iconfont icon-excel
 category: 
   - Microsoft
   - Microsoft Office
