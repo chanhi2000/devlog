@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/-YGdX6fT3R2paQngKFyRe0VX74f24_JQG-MtHXxPVqAKzKyP7554ARzUpnnvL9aIOv9aap3z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5y31jUxgxu4", "title": "코린이들을 위한 코인가격 쉽게 확인하는 방법" },
+    { "id": "saT0EOzEwG8", "title": "Oracle 23c 신기능 - DDL with if not exists 구문" },
+    { "id": "q5O_l5EaJD0", "title": "Oracle 23c 신기능 - from 절 없는 select 구문, multiple data insert" },
+    { "id": "sXBrE5Mo_gw", "title": "지금은 코인 불장, 비트코인 10억 가는 이유 요약" },
     { "id": "1WsL2dHlJbM", "title": "Oracle 23c 신기능 -  Ubiquitous Search Index 소개" },
     { "id": "ctASA9suLV4", "title": "Oracle Hang 장애시 DBA들이 반드시 해야하는 Systemstate Dump" },
     { "id": "S7eWjty0lXg", "title": "(팁) 버츄얼박스 네트워크이 갑자기 안되는 경우의 팁" },

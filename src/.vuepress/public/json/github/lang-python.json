@@ -4776,12 +4776,12 @@
     "topics": []
   }, {
     "repo": "nashsu/FreeAskInternet",
-    "desc": "FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.",
+    "desc": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
     "officialSite": "",
     "topics": []
   }, {
     "repo": "PKU-YuanGroup/Open-Sora-Plan",
-    "desc": "This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+    "desc": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
     "officialSite": "",
     "topics": []
   }, {
@@ -4799,5 +4799,30 @@
     "desc": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
     "officialSite": "https://dify.ai",
     "topics": ["agent", "ai", "backend-as-a-service", "chatbot", "genai", "gpt", "gpt-4", "langchain", "llama2", "llm", "nextjs", "openai", "orchestration", "python", "rag", "workflow"]
+  }, {
+    "repo": "AiGptCode/Iphone-14-15-IRAN-Anten",
+    "desc": "آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا",
+    "officialSite": "",
+    "topics": ["code", "farsi", "hack", "hacking", "iphone", "iphone14", "iphone15", "iphone16", "iran", "iranian", "js", "kali", "persian", "persian-language", "profile", "python", "swift", "web3"]
+  }, {
+    "repo": "karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "paul-gauthier/aider",
+    "desc": "aider is AI pair programming in your terminal",
+    "officialSite": "https://aider.chat/",
+    "topics": ["chatgpt", "cli", "command-line", "gpt-3", "gpt-35-turbo", "gpt-4", "openai"]
+  }, {
+    "repo": "google-deepmind/recurrentgemma",
+    "desc": "Open weights language model from Google DeepMind, based on Griffin.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "BernardZhao/lenssort",
+    "desc": "Making some cool pfps 👩‍🎤",
+    "officialSite": "",
+    "topics": ["face-recognition", "glitch-art", "lens", "pixelsort"]
   }
 ]

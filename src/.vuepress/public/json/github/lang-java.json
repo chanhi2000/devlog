@@ -209,12 +209,7 @@
       "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "officialSite": "https://f-droid.org/en/packages/com.termux",
       "topics": ["android", "linux", "terminal", "termux", "hacktoberfest"]  
-  } ,{
-    "repo": "alibaba/Chat2DB",
-    "desc": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
-    "officialSite": "https://chat2db.opensource.alibaba.com",
-    "topics": ["electron", "mysql", "java", "redis", "sql", "ai", "chatbot", "postgresql", "oracle", "dbeaver", "gpt", "navicat", "datagrip", "chatgpt", "chatgpt-api"]
-  } ,{
+  }, {
     "repo": "cedar-policy/cedar-java",
     "desc": "Java bindings for the Cedar language",
     "officialSite": "https://www.cedarpolicy.com",
@@ -311,9 +306,9 @@
     "topics": []
   }, {
     "repo": "chat2db/Chat2DB",
-    "desc": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
-    "officialSite": "https://chat2db.opensource.alibaba.com",
-    "topics": ["mysql", "redis", "ai", "postgresql", "oracle", "dbeaver", "gpt", "h2", "sqlserver", "navicat", "datagrip", "chatgpt"]
+    "desc": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.",
+    "officialSite": "http://chat2db.ai",
+    "topics": ["ai", "bi", "chatgpt", "database", "datagrip", "dbeaver", "gpt", "mysql", "navicat", "oracle", "postgresql", "redis", "sqlserver"]
   }, {
     "repo": "nayuki/QR-Code-generator",
     "desc": "High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.",

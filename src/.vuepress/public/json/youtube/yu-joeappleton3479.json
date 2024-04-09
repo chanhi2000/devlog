@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "joeappleton3479",
+    "name": "joe Appleton",
+    "profile": "https://yt3.googleusercontent.com/UJv5vgjaJON8uzGPCVFIf64gWcMRG0xytwkTw3JwhQ_U0wZBiJ7eivcz-rpEE3CxlOztH0VbwQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AhqFwO-omexcZ8FvaFVW44j-E0qxUSD9KVx6CIG0FvlRxFpiI6qONpmsijCcaRCdLe2Om13J7EE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hcNNovzF2yM", "title": "Use MAVEN to create a lightweight REST API. Along the way, learn the fundamentals of Java." }
+  ]
+}

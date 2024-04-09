@@ -25,6 +25,12 @@ tag:
 
 ---
 
+## Learning
+
+- [An open source game about learning Git!](https://ohmygit.org/)
+
+---
+
 ## 우아한 기술블로그
  
 - [셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기](https://techblog.woowahan.com/16044/)
@@ -186,6 +192,18 @@ tag:
 ## Ductile Systems
 
 - [Better Git Conflicts with `zdiff3`](https://ductile.systems/zdiff3/)
+
+---
+
+## datree
+
+- [Git error - Fatal: Not a git repository](https://www.datree.io/resources/git-error-fatal-not-a-git-repository)
+
+---
+
+## Git cookbook
+
+- [Repairing and recovering broken git repositories](https://git.seveas.net/repairing-and-recovering-broken-git-repositories.html)
 
 ---
 

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/yywUQ_ZU1Bna8IN8qnh_lHDMek4qjrEBHE3NI8SWwsvNO6H2JDw-nNnKTh9isz-PoZ8OmmSLWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fIUQch4RpAE", "title": "Develop enterprise-ready chatbots with Cohere Command" },
+    { "id": "dZevAJfguQw", "title": "Bring data to life with animated Vizzu charts" },
     { "id": "dM_EOBQnh0k", "title": "Build Interactive Data Apps Faster with GitHub Codespaces + Community Cloud" },
     { "id": "oRKjVfJfy3w", "title": "Building a career in open source with Hugging Face's Yuichiro Tachibana" },
     { "id": "xqSwCLbzzxQ", "title": "Level up pandas dataframes with PyGWalker's advanced visualizations ✨" },

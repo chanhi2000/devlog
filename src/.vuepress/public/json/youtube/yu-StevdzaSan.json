@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/CJ3jXN8bFt7hqwXZky40MPIkiX71MNlHFB84Vb4Ld54b7FNb3JZ-hY-iwMCCEQ3z_MGjRNAKpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Zzb-fryOazs", "title": "Here's What's NEW in Compose Multiplatform v1.6.0" },
+    { "id": "L39NrirKohg", "title": "ScreenModel: Kotlin Multiplatform ViewModel Solution for Android/iOS - Voyager" },
+    { "id": "LM6B03sCFxY", "title": "Useful Wrapper class That I use on a Daily Basis! - RequestState()" },
+    { "id": "1TLk36FdmMA", "title": "Build a Full MVVM Application for iOS and Android with Compose Multiplatform in Kotlin" },
+    { "id": "qhjl47tu_jA", "title": "Let’s Build our own KMP Library for opening a Web Browser - iOS/Android" },
+    { "id": "fMKZ180fuLc", "title": "Here’s How to Improve your Project Architecture - Tips and Tricks!" },
+    { "id": "YNy6fKNzyC0", "title": "Passing Complex Objects between Screens is BAD! - Here’s Why" },
     { "id": "aV-Yai4zDc0", "title": "Be Careful! This Navigation Logic Causes an Unexpected Behavior in your App!⚠️" },
     { "id": "2t02rF1Tybg", "title": "Complete Guide on Building and Publishing a Watch Face for Wear-OS on Play Store - No Coding!" },
     { "id": "cOmXe91TyWE", "title": "Ad Reward System with a Server-Side Verification on Android (Online Course)" },

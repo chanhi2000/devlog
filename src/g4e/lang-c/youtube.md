@@ -74,5 +74,9 @@ tag:
 <MyYouTubeItems jsonName="yu-dreamsofautonomy" /><!-- Dreams of Autonomy -->
 <MyYouTubeItems jsonName="yu-MultsElMesco" /><!-- Mults -->
 <MyYouTubeItems jsonName="yu-JamesMontemagno" /><!-- James Montemagno -->
+<MyYouTubeItems jsonName="yu-PortfolioCourses" /><!-- Portfolio Courses -->
+<MyYouTubeItems jsonName="yu-devopstoolbox" /><!-- DevOps Toolbox -->
+<MyYouTubeItems jsonName="yu-1BestCsharpblog" /><!-- 1BestCsharp blog -->
+<MyYouTubeItems jsonName="yu-quickandeasytools" /><!-- Quick and Easy Tools -->
 
 <TagLinks />

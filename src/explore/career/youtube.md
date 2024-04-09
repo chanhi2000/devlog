@@ -23,5 +23,6 @@ tag:
 <MyYouTubeItems jsonName="yu-InternetMadeCoder" /><!-- Internet Made Coder -->
 <MyYouTubeItems jsonName="yu-interviewingio" /><!-- interviewing.io -->
 <MyYouTubeItems jsonName="yu-devseop" /><!-- 개발알려주는 남자, 데브남 -->
+<MyYouTubeItems jsonName="yu-yangdongjun" /><!-- 양동준 Yang DongJun -->
 
 <TagLinks />

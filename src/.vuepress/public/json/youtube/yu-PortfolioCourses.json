@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "PortfolioCourses",
+    "name": "Portfolio Courses",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l21JcrW-W4-DM3b35gqp3ldFqmtPSYj4pqe_IbZ-Clrbo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/w1XPd3mNr6dyrSzkCSnxySFtTOYbkYWAN3x67c27QanlY7LKNhOKj89WVdRUzpM_p-Yf3x3wqA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H5MlTh5cBOg", "title": "int *p vs int* p Pointer Declarations | C Programming Tutorial" },
+    { "id": "RaHlFhPymQE", "title": "Sum The Digits In A String | C Programming Example" },
+    { "id": "AoHjSi-0-BA", "title": "Sum The Digits In A String | Python Example" },
+    { "id": "f9_RYPjvhr0", "title": "Convert Feet To Inches And Feet | C Programming Example" },
+    { "id": "rjty0sSrFZc", "title": "Shuffle The Lines Of A File | Python Example" }
+  ]
+}

@@ -2578,5 +2578,15 @@
     "desc": "A JavaScript library for generating vector-based cartoon faces",
     "officialSite": "https://zengm.com/facesjs/",
     "topics": ["svg"]
+  }, {
+    "repo": "miurla/morphic",
+    "desc": "An AI-powered answer engine with a generative UI",
+    "officialSite": "https://morphic.sh",
+    "topics": ["generative-ai", "generative-ui", "nextjs", "react", "shadcn-ui", "tailwindcss", "typescript", "vercel-ai-sdk"]
+  }, {
+    "repo": "code100x/daily-code",
+    "desc": "",
+    "officialSite": "https://daily-code-web.vercel.app",
+    "topics": []
   }
 ]

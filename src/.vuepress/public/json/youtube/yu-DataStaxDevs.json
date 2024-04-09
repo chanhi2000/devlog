@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/i2xlUZE0RlMBHaiScHK6g8tVtdNViARjEjW9GOg5hfO4Z5jpzW8ZR5yV8_gwYrBXAf77F5Uelw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YqtTOdicngY", "title": "Vectorize PDFs for RAG with Imprompt.ai and LlamaIndex" },
+    { "id": "Fja24G0lGf8", "title": "Building a GenAI app with Airbyte and DataStax Astra DB" },
+    { "id": "PgCRcRftJj8", "title": "Announcing Multi-Region Vector Data Support in DataStax Astra DB" },
+    { "id": "YqtTOdicngY", "title": "Vectorize PDFs for RAG with Imprompt.ai and LlamaIndex" },
+    { "id": "6dobfkDcyrw", "title": "Prototyping a RAG Application Without Code" },
+    { "id": "fnnoRTCeoYE", "title": "How to Architect Your GenAI App Fast!" },
+    { "id": "rK8gyMfBfsM", "title": "Streamline GenAI and RAG Data Pipelines with Airbyte and Astra DB" },
     { "id": "uNPB8jKcxuk", "title": "WikiChat: Build a real-time RAG app on Wikipedia with LangChain.js, Vercel, and Astra DB" },
     { "id": "q2AxKzjM9vg", "title": "DataStax Astra DB Vector Experience" },
     { "id": "_3g1_cOZPCc", "title": "Build Production Gen AI Chat with Vertex ai, LangChain and Astra DB Vector Search" },

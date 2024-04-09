@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/S0noOcOOypAijYzxNGBQrPqOETHyO6p7JHR87yBSZhrLKX6et18RUnK2hYCmaCMoAqy9G2AIIA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8IOZ7JpnxS4", "title": "[카카오 코딩테스트 풀이] 메뉴 리뉴얼 같이 풀어보기" },
+    { "id": "aotVfEE0BWE", "title": "[톡윗지니] Ep.10 네이버 신입 개발자 이야기 with 202x 신입" },
     { "id": "ubBsVqNMPfk", "title": "[파이썬 기초 Feat.코딩테스트] backtracking 알아보기" },
     { "id": "FJfXZ0rlWh4", "title": "[파이썬 기초 Feat.코딩테스트] 완전탐색 알아보기" },
     { "id": "UXyk2cP-N7c", "title": "[톡윗지니] Ep.09 개발자 신입 면접 이야기 with 라인 면접관" },

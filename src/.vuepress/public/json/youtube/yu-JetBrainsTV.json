@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/iwXjS04FuZpdVULzd3Ko0Ezkqr7iolMGetVHRC6YvgVLCe_uIikyux0IpFQKoW073CBSYD3fh8I=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "f8QK-X3WZ1g", "title": "Running Builds in Docker and How to Do It in TeamCity" },
+    { "id": "gFcR8J90S8c", "title": "Debug Like a Pro: JavaScript Edition" },
+    { "id": "X8rX_bYUeh4", "title": "Nx v18 recap / TypeScript 5.4 / Support for Vite in Remix / React Compiler | JS Roundup" },
+    { "id": "2do8Mby92LI", "title": "Make CI/CD Part of Your Development Flow With TeamCity Pipelines" },
+    { "id": "N_eLotlcjXo", "title": "Stop using Entity Framework as a DTO provider!" },
+    { "id": "0xENpeGTEZ0", "title": "Can ChatGPT solve your business problems?" },
+    { "id": "gj3IcXX9o5M", "title": "Learning Git with Anna Skoulikari" },
+    { "id": "zMwV0-8J01Q", "title": "Understanding Ruby Project Indexing" },
+    { "id": "DLBiJ5kYUFg", "title": "Local and Fast AI comes to your developer workflow - Full Line Code Completion" },
+    { "id": "6pi0Y07yQDo", "title": "WebStorm 2024.1 Explained: 3 New Features You Can't Afford to Miss!" },
     { "id": "GIrXNibrD-I", "title": "How to work with SQL and Databases in DataSpell" },
     { "id": "hX08s8OJo3c", "title": "Developing Critical Thinking in the Era of ChatGPT" },
     { "id": "to5QoIvUI5U", "title": "Updating Old .NET Framework Apps" },

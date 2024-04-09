@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/VmyNIHFYT0kP-Ksps52zsaVC-H9J2R_xvhkYwQKrkpHiRsMD0xMQ8WpzklWGluD8DD1dDhKg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QATefHrO4kg", "title": "Three.js Raycasting Tutorial for Beginners" },
+    { "id": "TKHaDC49ITY", "title": "9. TOOL ANIMATION, TOOLBAR, SAVE & LOAD // Coding a Minecraft Clone with JavaScript + Three.js" },
     { "id": "izG8DIgM33U", "title": "BURN ALL THE CODE! // SimCity Three.js Project Update" },
     { "id": "FPWhrz5r3JE", "title": "15. POWER PLANTS // Creating a SimCity Game with JavaScript & Three.js" },
     { "id": "p4Fk2uUnIHc", "title": "Add an Interactive Animated 3D Avatar to Your Portfolio // Three.js + Mixamo + Blender" }

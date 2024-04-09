@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/5dQVlxRd4hIKRUKDrLn79K1YVs8m-uQunEIeZEvWF8tuQw9PrtmOIkw2K7KLo6juiNJtFTuMSA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "M-qNebxjsMk", "title": "How to Become AWS Certified Solutions Architect for Beginners" },
+    { "id": "gadb5EHZFok", "title": "Which skills are required to become AWS Certified DevOps Engineer?" },
+    { "id": "bfEhMR6Ci1w", "title": "What to Choose - Solutions Architect OR Cloud Engineer" },
+    { "id": "ZzlYgeWikb8", "title": "How to Generate and Review the AWS Account Credential Report for Beginners - AWS Credentials" },
+    { "id": "sEX9lpuZ4-o", "title": "AWS Cloud Support - Why Should You Become an AWS Support Engineer" },
+    { "id": "Op706zgfUsc", "title": "How to get AWS Secret Access Key for Beginners" },
     { "id": "oPTqKaPExdw", "title": "How To Create Infrastructure in AWS | AWS VPC Networking Components" },
     { "id": "YUziq-q4QJY", "title": "Amazon VPC Security in AWS Virtual Private Cloud | AWS VPC tutorial" },
     { "id": "xLHv2GJhVAg", "title": "What Is AWS Identity and Access Management (IAM)" },

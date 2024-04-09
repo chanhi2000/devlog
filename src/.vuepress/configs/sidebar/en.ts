@@ -168,6 +168,15 @@ export const sidebarEn = sidebar({
         '/g4e/lang-swift/snippets.md',
         '/g4e/lang-swift/crashcourse.md',
         '/g4e/lang-swift/news.md',
+        {
+          text: 'Interview Prep',
+          collapsible: true,
+          icon: 'fas fa-clipboard-question',
+          children: [
+            '/g4e/lang-swift/interview-prep.md',
+            
+          ]
+        },
         '/g4e/lang-swift/references.md',
         '/g4e/lang-swift/github.md',
         '/g4e/lang-swift/youtube.md',

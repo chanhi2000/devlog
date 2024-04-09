@@ -575,6 +575,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "ADS-B Massive Visualizer",
+  "desc": "",
+  "link": "https://adsb.exposed/?zoom=3&lat=11.6953&lng=6.6797&query=11aea631085a55a6bc0f9b574d7b6c16",
+  "logo": "https://adsb.exposed/favicon.png",
+  "background": "rgba(16,18,19,0.2)"
+}
+```
+
 - [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
 
 @tab Network & Security
@@ -819,6 +829,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 - https://bbycroft.net/llm
 - https://puter.com/
 - https://byronicalpatrick.github.io/qwanji/
+- https://sonauto.ai/Home
 
 ```component VPCard
 {

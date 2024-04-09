@@ -354,5 +354,10 @@
     "desc": "A Swiss Army knife for developers.",
     "officialSite": "https://devtoys.app/",
     "topics": ["blazor", "cross-platform", "csharp", "desktop", "desktop-app", "desktop-application", "developer-tools", "extensible", "fluent", "fluent-design", "linux", "macos", "mica", "syntax-highlighting", "typescript", "windows", "windows-10", "windows-11", "winui"]
+  }, {
+    "repo": "kjpgit/SmallestCSVParser",
+    "desc": "World's Smallest CSV Parser (C#)",
+    "officialSite": "",
+    "topics": []
   }
 ]

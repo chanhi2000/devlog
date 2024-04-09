@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/GDYq3odwhSmzHSqqySsKnBCrO2fKtgPy45DH2AOcyYl4_oFbqoRuBqRs-lPD39DTplyzqfeahnY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6H-037qNlvA", "title": "Built-in control flow Angular #angular #webdevelopment" },
     { "id": "IZjhK91Mbgg", "title": "Dependency injection and Provider in NestJs | Backend Framework for Angular Developers" },
     { "id": "yUxgFGshAf8", "title": "NgRx and Angular Signals" },
     { "id": "Vjz_1-w3Evg", "title": "Chat GPT: The Truth About Its Impact on Web Developer Jobs" }, 

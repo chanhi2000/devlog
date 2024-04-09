@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "5ikry4jIDkA", "title": "[정보이론]_03-1. 정보 엔트로피(entropy) 개념, 표기, 연산 - 이론" },
+    { "id": "03usOd5Uwa0", "title": "[정보이론]_02. 정보이론에서 '정보(information)'이란 무엇일까?" },
+    { "id": "Gz1mKx5L7K8", "title": "[정보이론]_03-2. 정보 엔트로피(entropy) 개념, 표기, 연산 - 실습" },
+    { "id": "EwME3JH_EaM", "title": "[정보이론]_04. 딥러닝에서의 엔트로피(entropy)" },
+    { "id": "HJBsq19pcbY", "title": "[정보이론]_05-2. 엔트로피 손실(Cross Entropy Loss) 실습" },
+    { "id": "t6WIGyz0tD8", "title": "[정보이론]_05-1. 엔트로피 손실 (Binary Cross Entropy, Cross Entropy) - Deep dive" },
+    { "id": "6pRJnQTCoYE", "title": "[정보이론]_07. 정보 이론 시리즈를 마무리 하며 (요약, 정리, 인사말씀)" },
+    { "id": "bE9dSiW6_h4", "title": "[정보이론]_06. KL 발산 (Kullback-Leibler Divergence) in Deeplearning" },
     { "id": "j1D1jY71Wjg", "title": "[미분]_01. 미분 시리즈를 시작하며, 오리엔테이션 (Orientation)" },
     { "id": "QU99KdtT81I", "title": "[미분]_05. 경사 하강법 (Gradient Descent) 알고리즘의 개념, 해석, 학습" },
     { "id": "_8chLG-JFDo", "title": "[미분]_04. 딥러닝에서 편미분 개념과 연산" },

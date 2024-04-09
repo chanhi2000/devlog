@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/W24nrbMLN3nbCDWSKpdiMM9XS27WOhVwtNPNRduliX1jL33hls7aB8kOMUo-VnkEaJorBg_GSw0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WlR1p8DCdNY", "title": "React Hook Form Tutorial -  w/ Zod Validation, Form State, Controller" },
+    { "id": "92QqWVB6GNg", "title": "Vector Databases and Embeddings w/ Langchain - Build a Summarization Tool" },
+    { "id": "h3s47owx8io", "title": "Cn, twMerge, clsx, cva - Write Clean Tailwind Code with these utility functions" },
     { "id": "qDRQ2EaWsNM", "title": "Authentication with Next Auth V5 and NextJS 14 [EASY] - API Routes, Server & Client Components" },
     { "id": "Kb1f5bvF6f4", "title": "NextJs Portfolio Tutorial - Build a Responsive Portfolio Website w/ Advanced Animations (2023)" },
     { "id": "zzWypOl4JkY", "title": "Fullstack AI Form Builder Tutorial with Next JS, TypeScript, Drizzle ORM, React, OpenAI, Stripe" },

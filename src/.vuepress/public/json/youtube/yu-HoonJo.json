@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/b2H_qaKfozD2Lj1EGwCDd7KcOdgH--0641pjq3msSKf-hzt3FIhU7CARxiKJpFD9GCT1jvj0og=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BBM1MlWUXQg", "title": "X 33 001 프로메테우스 자격증 소개 및 준비법(PCA,Prometheus Certified Associate)" },
     { "id": "nHgfwONQ_3E", "title": "X 13 002 1 CKAD 취득하는 법 2023년 12월 갱신" },
     { "id": "VfEVKc1BdrE", "title": "[DEMO] 초보자가 쿠버네티스에서 돌려본 라마 버전2(llama-2-13b) 13B 모델" },
     { "id": "Op_Os7jVNDg", "title": "Istio를 통한 MSA(Online Boutique) 데모 on NKS(Naver Kubernetes Service)" },

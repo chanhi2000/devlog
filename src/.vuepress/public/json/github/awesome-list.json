@@ -1119,5 +1119,15 @@
     "desc": "💿 Free software that works great, and also happens to be open-source Python. ",
     "officialSite": "ftp://you:relookin@it#readme",
     "topics": ["application", "audio", "education", "game", "graphics", "gui", "productivity", "python", "science", "video"]
+  }, {
+    "repo": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "officialSite": "",
+    "topics": ["artificial-intelligence", "artificial-intelligence-projects", "awesome", "computer-vision", "computer-vision-project", "data-science", "deep-learning", "deep-learning-project", "machine-learning", "machine-learning-projects", "nlp", "nlp-projects", "python"]
+  }, {
+    "repo": "owainlewis/awesome-artificial-intelligence",
+    "desc": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "officialSite": "",
+    "topics": ["ai", "artificial-intelligence", "deep-learning", "intelligent-machines", "intelligent-systems", "machine-intelligence", "machine-learning", "neural-network", "reinforcement-learning", "statistical-learning", "unsupervised-learning"]
   }
 ]

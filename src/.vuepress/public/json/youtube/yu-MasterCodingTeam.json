@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/SmDt0lnsptnVrAPhH5I7m2Au9maCIDmkt6_N1INi8qYolDtqCdl-7iHlHkY6TTrl72IXSvMTTdI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "chyp_Dv-8Wg", "title": "Building Unit Converter App - Learn Android from Zero #16" },
+    { "id": "4uX8uDcV9mQ", "title": "What are Layouts? - Learn Android from Zero #17" },
+    { "id": "wKaJlRoaqKk", "title": "Types of Layouts - Learn Android from Zero #18" },
+    { "id": "07UyI69gNx8", "title": "Android Linear Layout - Learn Android from Zero #19" },
     { "id": "C9RgqZa6ULU", "title": "EditText in Android - Learn Android from Zero #11" },
     { "id": "-itcqN4hkbA", "title": "Buttons in Android - Learn Android from Zero #12" },
     { "id": "rGH4HB-gF9A", "title": "ImageView in Android - Learn Android from Zero #13" },

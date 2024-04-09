@@ -168,4 +168,10 @@ tag:
 
 ---
 
+## Redowan's Reflections
+
+- [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
+
+---
+
 <TagLinks />

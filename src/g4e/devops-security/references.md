@@ -213,4 +213,10 @@ tag:
 
 ---
 
+## Irresponsible Disclosure
+
+- [Do you really need IPv4 anymore?](https://blog.daknob.net/do-you-really-need-ipv4-anymore/)
+
+---
+
 <TagLinks />

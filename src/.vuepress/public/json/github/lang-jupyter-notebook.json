@@ -529,5 +529,10 @@
     "desc": "Open-source AI cookbook",
     "officialSite": "https://huggingface.co/learn/cookbook",
     "topics": []
+  },{
+    "repo": "datawhalechina/self-llm",
+    "desc": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+    "officialSite": "",
+    "topics": ["llm"]
   }
 ]

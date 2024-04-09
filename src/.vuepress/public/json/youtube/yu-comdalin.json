@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "d_f_vpPaO2s", "title": "[인공지능,머신러닝,딥러닝] (기초) 디버깅으로 코드 이해하기" },
+    { "id": "A80ue5nS_A4", "title": "[인공지능,머신러닝,딥러닝] (심화) Direct preference optimization (DPO)" },
+    { "id": "ENcjk67kK7k", "title": "컴퓨터공학도가 바라보는 AI가 가져올 가까운 미래와 먼 미래" },
     { "id": "iQXEvWb7564", "title": "[인공지능,머신러닝,딥러닝] (심화) Evaluating and Inducing Personality in Pre-trained Language Models" },
     { "id": "E-VI1SfTszs", "title": "[인공지능,머신러닝,딥러닝] (심화) LLM leaderboard 성능은 의미있다 or 없다" },
     { "id": "Gtz5_21lHxM", "title": "[파이썬] unittest, 그리고 coverage" },

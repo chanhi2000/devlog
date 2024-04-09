@@ -190,4 +190,10 @@ tag:
 
 ---
 
+## Val Town Blog
+
+- [Code Search is Hard](https://blog.val.town/blog/search-notes/)
+
+---
+
 <TagLinks />

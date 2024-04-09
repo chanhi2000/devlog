@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/Qfg6cJu-0hF72hWqycaSMrnVYdIx2rmLOEs7Sbw9_2lFWLjOD-WIOnNyRi9iLBi88MaCG2pPsxw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NfQrRQmDrcc", "title": "[#langchain 밋업 발표] R.A.G. 우리가 절대 쉽게결과물을 얻을 수 없는 이유" },
+    { "id": "2JfGHBij1ko", "title": "🔥오래전부터 준비한 토이프로젝트🔥 gpt4 를 뛰어넘었다는 claude3 써봤어요🙌" },
+    { "id": "NaU89YXQAoI", "title": "[토론 AI 에이전트] - 의대 입학정원 증원에 대한 찬반토론을 AI 끼리 한다면?" },
+    { "id": "Z2j93efq1S0", "title": "[AI vs AI] 의대 증원에 대한 모의 찬반토론 (AI 더빙본)" },
+    { "id": "mdzMBF56HOM", "title": "[LangServe 리뷰] 초간편 LLM 웹앱 제작 & 배포기능까지! 과연, Streamlit 대체할 수 있을까?" },
+    { "id": "vNJi-jjeVrk", "title": "[3분 하이라이트] LangServe 리뷰! 과연, Streamlit 대체할 수 있을까?" },
+    { "id": "8JEbrboSumg", "title": "[Self Learning GPT] #LangSmith 피드백으로 원하는 형식의 답변을 학습하는 GPT" },
+    { "id": "lvOUMmtsRIQ", "title": "[2분 하이라이트] Self Learning GPT #LangSmith 피드백으로 원하는 형식의 답변을 학습하는 GPT" },
+    { "id": "VtS8yF2ItgI", "title": "[LangChain 강의] 대화내용을 기록하는 LLM Chain 생성 방법 + 도큐먼트 참조하는 tip!" },
+    { "id": "ZVmLe3odQvc", "title": "[LangChain 강의] #streamlit 으로 ChatGPT 클론 서비스 제작하는 방법" },
+    { "id": "MfF6WbMMayg", "title": "🔥원데이 세미나🔥 ~4/14일까지 신청. [GPT를 활용한 jupyter notebook 변환기]" },
     { "id": "r5YyftofuII", "title": "[10분컷] 노코딩으로 쇼핑몰 리뷰 분석 (크롤링 + Q&A 챗봇)" },
     { "id": "D9v8oGbtfZA", "title": "[EP02] SEO 최적화된 Github 블로그 제목, 태그, 설명 생성 자동화" },
     { "id": "RA9eqYTH1WU", "title": "#파이썬 코드를 #블로그 글로 변환하는 방법 feat. #chatgpt" },

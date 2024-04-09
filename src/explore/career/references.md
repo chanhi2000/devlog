@@ -68,6 +68,7 @@ tag:
 
 - [`delightroom` - 1년 만에 성공한 온보딩 실험 작업기](https://medium.com/delightroom/1%EB%85%84-%EB%A7%8C%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%9C-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8B%A4%ED%97%98-%EC%9E%91%EC%97%85%EA%B8%B0-5b96330a3bb3)
 - [`namunamu1105` - 내가 개발자로서 회사에서 한 실수들](https://namunamu1105.medium.com/%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%ED%95%9C-%EC%8B%A4%EC%88%98%EB%93%A4-ffca7bb947a2)
+- [`Netflix Technology Blog` - Predictive CPU isolation of containers at Netflix](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
 
 ---
 

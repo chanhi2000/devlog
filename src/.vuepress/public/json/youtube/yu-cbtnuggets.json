@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/0VMs_-x-_HrssRiDKMPzVlreFMnKYHZoQnTJ--vmbWu_Oe-imNoWTMtBI-RPtcVL4C3vP16l=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h5vq9hFROEA", "title": "Ports Explained | Networking" },
+    { "id": "7SJZeuJoAjo", "title": "What is PPPoE? Point-to-Point Protocol and Point-to-Point Protocol over Ethernet Explained" },
+    { "id": "ENLbgVtZ3rA", "title": "Virtual Servers | How to Troubleshoot Load Balancing | F5 Certified BIG-IP Administrator (201 TMOS)" },
+    { "id": "Byl01tE5Egg", "title": "Physical Layer TCP/IP | Ethernet Standards Copper or Fiber" },
+    { "id": "pgrK8y7tIYM", "title": "How to Install PowerShell for Windows, macOS, Linux" },
     { "id": "rbhF_oaFfRw", "title": "Fortinet Certification Changes: NSE 8" },
     { "id": "OEoQYfDzZPo", "title": "Managed vs Unmanaged Switch in 5 minutes | Network+" },
     { "id": "3ki6K96K_Y0", "title": "Is Wayland better than Xorg? | Wayland vs Xorg" },

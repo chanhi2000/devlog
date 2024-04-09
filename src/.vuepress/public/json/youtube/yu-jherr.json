@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/jZlcSjAybNwxoX0ao-ywQO-j5XF2QWPNI9tMjLTNB0I2xIwm2dIJaASPWOq2GlDVWc1Z-Ichaw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qOwnQJOClrw", "title": "Is Tanstack Router Better Than React-Router?" },
+    { "id": "YzQrHnlWyZ0", "title": "Tailwind CSS V4 For NextJS, Astro and Vite TODAY" },
+    { "id": "fyja_ldjxwA", "title": "Pigment-CSS: Material-UI Fixed on NextJS" },
+    { "id": "qERgb3pWfu0", "title": "Finally Fix Your Issues With JS/React Memory Management 😤" },
+    { "id": "bWeshvf62EI", "title": "LIVE! Finally Fix Your Issues With JS/React Memory Management 😤" },
+    { "id": "74q1vURXvlY", "title": "Are You In A React Cult?" },
+    { "id": "IuMPvdMdbts", "title": "LIVE! Are You In A React Cult?" },
     { "id": "vQUqgURgG8M", "title": "Alpine, HTMX, Astro Stack Wordle App With Full Source!" },
     { "id": "lWcDAxNpJI8", "title": "Easy Multi-tenant NextJS Apps With Clerk" },
     { "id": "ZkQPxP4wlE8", "title": "Five Application Killing React Anti-Patterns" },
