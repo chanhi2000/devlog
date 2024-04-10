@@ -204,5 +204,10 @@
     "desc": "Fast, modern and advanced photo management suite. Runs as a Nextcloud app.",
     "officialSite": "https://memories.gallery",
     "topics": ["backup-tool", "gallery", "nextcloud", "photo-gallery", "photos", "self-hosted", "videos"]
+  }, {
+    "repo": "coollabsio/coolify",
+    "desc": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+    "officialSite": "https://coolify.io",
+    "topics": ["analytics", "couchdb", "databases", "docker", "minio", "mongodb", "mysql", "mysql-database", "nextjs", "nodejs", "php", "postgresql", "reactjs", "redis", "self-hosting", "static", "svelte", "vscode", "vuejs"]
   }
 ]

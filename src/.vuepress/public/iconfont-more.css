@@ -14,6 +14,29 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+@font-face {
+  font-family: "iconfont"; /* Project id 4499603 */
+  src: url('//at.alicdn.com/t/c/font_4499603_xieh9ah6yla.woff2?t=1712738410274') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_xieh9ah6yla.woff?t=1712738410274') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_xieh9ah6yla.ttf?t=1712738410274') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_xieh9ah6yla.svg?t=1712738410274#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-microsoftpowerpoint:before { content: "\e61a"; }
+.icon-microsoftword:before { content: "\e675"; }
+.icon-awsec2:before { content: "\e614"; }
+.icon-microsoftazure:before { content: "\ec16"; }
+.icon-microsoftexcel:before { content: "\ec18"; }
+.icon-powerbi:before { content: "\e7de"; }
+.icon-openai:before { content: "\e6c4"; }
 .icon-quarkus:before { content: "\ec70"; }
 .icon-spring-boot:before { content: "\e602"; }
 .icon-api:before { content: "\e7e1"; }
@@ -31,7 +54,6 @@
 .icon-tomcat:before { content: "\e60a"; }
 .icon-csharp:before { content: "\e60b"; }
 .icon-macos:before { content: "\e73a"; }
-.icon-excel:before { content: "\edde"; }
 .icon-altibase:before { content: "\e628"; }
 .icon-django:before { content: "\eb7b"; }
 .icon-nginx:before { content: "\ec30"; }

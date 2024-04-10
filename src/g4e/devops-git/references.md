@@ -21,7 +21,7 @@ tag:
 
 ## Cheatsheet(s)
 
-- [Wall-Skills](https://wall-skills.com/2013/git-cheat-sheet/)
+![[<FontIcon icon="fas fa-globe"/>Git Cheatsheet](https://wall-skills.com/2013/git-cheat-sheet/)](https://wall-skills.com/wp-content/uploads/2013/12/git-Cheat-Sheet_Wall-Skills1.png)
 
 ---
 
@@ -49,6 +49,12 @@ tag:
 ## freecodcamp.org
 
 - [How to Write Commit Messages that Project Maintainers Will Appreciate](https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like)
+
+---
+
+## velog
+
+- [`@eunbibi` - Git tutorial](https://velog.io/@eunbibi/Git-tutorial)
 
 ---
 

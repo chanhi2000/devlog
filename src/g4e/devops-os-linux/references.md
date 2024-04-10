@@ -209,4 +209,10 @@ tag:
 
 ---
 
+## chhanz 기술 블로그
+
+- [[Linux] How to extend MD device (RAID 0)](https://tech.chhanz.xyz/linux/2024/04/09/md-device-extend-raid-0/)
+
+---
+
 <TagLinks />

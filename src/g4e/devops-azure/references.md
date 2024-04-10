@@ -3,10 +3,13 @@ lang: ko-KR
 title: References
 description: Azure > References
 icon: iconfont icon-share
-category: 
+category:
   - Azure
+  - Microsoft
+  - Devops
   - References
-tag: 
+tag:
+  - microsoft
   - azure
 ---
 

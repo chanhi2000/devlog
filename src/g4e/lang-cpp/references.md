@@ -48,6 +48,8 @@ tag:
 - [일정한 간격으로 파일 생성하기](https://blog.naver.com/tipsware/223401287814)
 - [[Q&A] 로그 코드에 호출된 함수 이름을 추가하려고 합니다.](https://blog.naver.com/tipsware/223403816586?)
 - [[Q&A] 로그에 함수 이름 추가할 때 오버로딩된 함수를 구별하려면...](https://blog.naver.com/tipsware/223404347557?)
+- [[Q&A] 객체의 멤버에 값을 대입하는 방법에 대하여](https://blog.naver.com/tipsware/223410450594)
+- [[Q&A] CRect & 형식의 매개 변수에 RECT 구조체 변수 사용하려면 어떻게 해야 하나요?](https://blog.naver.com/tipsware/223409435511)
 
 ---
 

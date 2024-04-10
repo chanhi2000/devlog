@@ -35,6 +35,10 @@ tag:
 - [`@eunbibi` - `JOIN`](https://velog.io/@eunbibi/JOIN)
 - [`@eunbibi` - Primary Key, Foreign Key](https://velog.io/@eunbibi/Primary-Key-Foreign-Key)
 - [`@eunbibi` - Python MySQL](https://velog.io/@eunbibi/Python-w-MySQL)
+- [`@eunbibi` - Subquery](https://velog.io/@eunbibi/SQL-Subquery)
+- [`@eunbibi` - Scalar functions](https://velog.io/@eunbibi/Scalar-functions)
+- [`@eunbibi` - Aggregate functions](https://velog.io/@eunbibi/Aggregate-Functions)
+- [`@qkrtkdwns3410` - [DB] 인덱스의 종류에 대해](https://velog.io/@qkrtkdwns3410/DB-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%9D%98-%EC%A2%85%EB%A5%98%EC%97%90-%EB%8C%80%ED%95%B4)
 
 ---
 

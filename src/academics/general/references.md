@@ -324,4 +324,10 @@ tag:
 
 ---
 
+## Marvin Borner
+
+- [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
+
+---
+
 <TagLinks />

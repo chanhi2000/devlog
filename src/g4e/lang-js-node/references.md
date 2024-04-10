@@ -32,6 +32,7 @@ tag:
 - [Advanced TypeScript](https://fettblog.eu/advanced-typescript-guide)
 - [Deno by example](https://examples.deno.land)
 - [ControlChallenges](http://janismac.github.io/ControlChallenges)
+- [JS CheatSheet](https://htmlcheatsheet.com/js)
 
 ---
 
@@ -349,6 +350,7 @@ tag:
 - [`baekkyoungjung` - 웹페이지 SEO, 성능, UX 최적화 한번에 하기](https://baekkyoungjung.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-seo-ux-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%9C%EB%B2%88%EC%97%90-%ED%95%98%EA%B8%B0-a529d233c521)
 - [`lemonabase` - 이거 어디까지 올라가는 거예요? - 성능 테스트 환경 구축기](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
 - [`@hong009319` - Webpack → Vite: 스토리북의 번들러 마이그레이션](https://medium.com/@hong009319/webpack-vite-%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B6%81%EC%9D%98-%EB%B2%88%EB%93%A4%EB%9F%AC-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-0100b3ab0725)
+- [`Catenoid Techblog` - ffmpeg.wasm](https://techblog.catenoid.net/ffmepg-wasm-7160cc29e97d)
 
 ---
 
@@ -622,6 +624,12 @@ tag:
 
 ---
 
+## Appwrite
+
+- [Improving user security in your web apps with email OTP auth](https://appwrite.io/blog/post/email-otp-auth-sveltekit)
+
+---
+
 ## quasilyte blog
 
 - [Generations-based array](https://quasilyte.dev/blog/post/gen-map)
@@ -838,6 +846,12 @@ tag:
 ## Sourcegraph
 
 - [The lifecycle of a code AI completion](https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion)
+
+---
+
+## moregorenine
+
+- [Electron reload](https://moregorenine.github.io/electron/electron/)
 
 ---
 

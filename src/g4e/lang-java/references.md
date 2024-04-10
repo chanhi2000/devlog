@@ -245,6 +245,7 @@ tag:
 ### velog
 
 - [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`@danjr` - JAVA - 반복문](https://velog.io/@danjr/JAVA-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 
 ### Leo3418
 

@@ -1374,5 +1374,15 @@
     "desc": "Reverse Tunnels in Go over HTTP/3 and QUIC",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "dolthub/go-mysql-server",
+    "desc": "A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.",
+    "officialSite": "",
+    "topics": ["database", "mysql", "mysql-server", "query-engine", "relational-database", "sql", "sql-engine", "sql-server"]
+  }, {
+    "repo": "gohugoio/hugo",
+    "desc": "The world’s fastest framework for building websites.",
+    "officialSite": "https://gohugo.io",
+    "topics": ["blog-engine", "cms", "content-management-system", "documentation-tool", "go", "hugo", "static-site-generator"]
   }
 ]

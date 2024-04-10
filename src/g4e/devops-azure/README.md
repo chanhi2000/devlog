@@ -2,11 +2,14 @@
 lang: ko-KR
 title: Azure
 description: Azure
-icon: fa-brands fa-microsoft
+icon: iconfont icon-microsoftazure
 category:
   - Azure
+  - Microsoft
+  - Devops
 tag:
-  - Azure
+  - microsoft
+  - azure
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -2149,5 +2149,10 @@
     "desc": "Free, simple, and intuitive online database design tool and SQL generator.",
     "officialSite": "https://drawdb.vercel.app",
     "topics": ["database-schema", "editor", "indexeddb", "mariadb", "postgresql", "react", "sql", "sql-server", "sqlite", "svg", "tailwindcss"]
+  }, {
+    "repo": "amalshaji/portr",
+    "desc": "Open source ngrok alternative designed for teams",
+    "officialSite": "https://portr.dev",
+    "topics": ["cli", "developer-tools", "golang", "http", "ngrok-alternative", "open-source", "python", "reverse-tunnel", "shadcn-svelte", "ssh-tunnel", "svelte", "tcp", "tunneling"]
   }
 ]

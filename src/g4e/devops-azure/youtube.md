@@ -5,8 +5,12 @@ description: Azure > Youtube
 icon: fa-brands fa-youtube
 category:
   - Azure
+  - Microsoft
+  - Devops
   - Youtube
-tag: 
+tag:
+  - microsoft
+  - azure
   - "youtube"
   - "tutorial"
   - "azure"

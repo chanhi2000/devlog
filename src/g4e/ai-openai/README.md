@@ -1,9 +1,13 @@
 ---
 lang: ko-KR
-title: 🎼OpenAI
-description: 🎼OpenAI
+title: OpenAI
+description: OpenAI
+icon: iconfont icon-openai
 category: 
-  - 🎼OpenAI
+  - OpenAI
+tag:
+  - openai
+  - chatgpt
 ---
 
 # {{ $frontmatter.description }} 관련

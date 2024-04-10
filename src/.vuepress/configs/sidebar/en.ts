@@ -528,7 +528,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Azure',
       collapsible: true,
-      icon: 'fa-brands fa-microsoft',
+      icon: 'iconfont icon-microsoftazure',
       children: [
         '/g4e/devops-azure/README.md',
         '/g4e/devops-azure/references.md',
@@ -641,7 +641,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Excel',
       collapsible: true,
-      icon: 'iconfont icon-excel',
+      icon: 'iconfont icon-microsoftexcel',
       children: [
         '/g4e/tool-excel/README.md',
         '/g4e/tool-excel/references.md',
@@ -666,8 +666,9 @@ export const sidebarEn = sidebar({
         '/g4e/tool-notion/youtube.md',
       ]
     }, {
-      text: '🎼OpenAI',
+      text: 'OpenAI',
       collapsible: true,
+      icon: 'iconfont icon-openai',
       children: [
         '/g4e/ai-openai/README.md',
         '/g4e/ai-openai/references.md',

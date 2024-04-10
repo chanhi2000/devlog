@@ -31,7 +31,6 @@ tag:
 - [Bootstrap Icons][Bootstrap-Icons]: Official open source SVG icon library for Bootstrap.
 - [regexper][regexper]: You thought you only had two problems…
 - [regexr][regexr]: RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-- [overapi](https://overapi.com): Collecting All Cheat Sheets
 - [emailjs][emailjs]: EmailJS Documentation
 - [htaccess][htaccess]: Test your htaccess rewrite rules
 - [testing-library][testing-library]: The home for all testing-library projects

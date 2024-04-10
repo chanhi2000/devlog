@@ -47,6 +47,10 @@ export const navbarEn = navbar([
     icon: 'fas fa-book',
     children: [
       {
+        text: 'G4E',
+        link: "/g4e/README.md",
+        icon: 'fas fa-book',
+      }, {
         text: 'API - Kakao',
         link: '/g4e/api-kakao/README.md',
         icon: 'iconfont icon-kakao'
@@ -176,7 +180,11 @@ export const navbarEn = navbar([
     text: '', // explore
     icon: 'fas fa-globe',
     children: [
-      {
+      { 
+        text: 'Explore',
+        icon: 'fas fa-globe',
+        link: '/explore/README.md',
+      }, {
         text: 'Newsletter',
         icon: 'fas fa-rss',
         link: '/explore/newsletter/README.md',

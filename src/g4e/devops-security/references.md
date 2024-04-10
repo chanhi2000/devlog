@@ -207,4 +207,10 @@ tag:
 
 ---
 
+## Juicebox
+
+- [Key to Simplicity: Squeezing the hassle out of encryption key recovery](https://www.juicebox.xyz/blog/key-to-simplicity-squeezing-the-hassle-out-of-encryption-key-recovery)
+
+---
+
 <TagLinks />

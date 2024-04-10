@@ -148,6 +148,7 @@ head:
 - [`@sumankalia` Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
 - [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
 - [`@miracool` How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
+- [`itswillt` - ⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8?ref=dailydev)
 
 ---
 

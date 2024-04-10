@@ -243,4 +243,10 @@ tag:
 
 ---
 
+## todo: findname
+
+- [Making an RISC-V OS (Part 3): Managing free memory](https://traxys.me/riscv_os_buddy.html)
+
+---
+
 <TagLinks />

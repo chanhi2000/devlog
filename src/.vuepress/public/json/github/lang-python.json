@@ -4789,5 +4789,15 @@
     "desc": "Open-source solution designed to automate the process of verifying factuality",
     "officialSite": "https://www.librai.tech/",
     "topics": ["ai", "factuality", "hallucination"]
+  }, {
+    "repo": "InstantStyle/InstantStyle",
+    "desc": "InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥",
+    "officialSite": "https://instantstyle.github.io/",
+    "topics": []
+  }, {
+    "repo": "langgenius/dify",
+    "desc": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+    "officialSite": "https://dify.ai",
+    "topics": ["agent", "ai", "backend-as-a-service", "chatbot", "genai", "gpt", "gpt-4", "langchain", "llama2", "llm", "nextjs", "openai", "orchestration", "python", "rag", "workflow"]
   }
 ]

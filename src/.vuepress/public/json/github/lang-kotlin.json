@@ -225,5 +225,10 @@
     "desc": "翻墙-科学上网",
     "officialSite": "",
     "topics": ["brook", "daze", "fanqiang", "goflyway", "lightsocks", "proxy", "psiphon", "shadowsocks", "ssr", "trojan", "v2ray"]
+  }, {
+    "repo": "mobile-dev-inc/maestro",
+    "desc": "Painless Mobile UI Automation",
+    "officialSite": "https://maestro.mobile.dev/",
+    "topics": ["android", "blackbox-testing", "ios", "ui-automation"]
   }
 ]

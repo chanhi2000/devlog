@@ -40,6 +40,7 @@ tag:
 
 - [Automate CloudWatch Logs Export to S3 using Lambda and Event Bridge](https://awstip.com/automate-cloudwatch-logs-export-to-s3-using-lambda-and-event-bridge-8748fedadeb9)
 - [Apache Web Server utilizing AWS CentOS Server](https://aws.plainenglish.io/apache-web-server-utilizing-aws-centos-server-bd5538afabd8)
+- [`도깨비-이야기` - [AWS] ECS 테스크 생성이 지연될때](https://medium.com/%EB%8F%84%EA%B9%A8%EB%B9%84-%EC%9D%B4%EC%95%BC%EA%B8%B0/aws-ecs-%ED%85%8C%EC%8A%A4%ED%81%AC-%EC%83%9D%EC%84%B1%EC%9D%B4-%EC%A7%80%EC%97%B0%EB%90%A0%EB%95%8C-f97b10267ba1)
 
 ---
 
@@ -106,6 +107,7 @@ tag:
 - [AWS RDS 연결하기](https://blog.naver.com/gi_balja/223402753221)
 - [AWS S3](https://blog.naver.com/gi_balja/223407211913?)
 - [AWS S3와 CloudFront](https://blog.naver.com/gi_balja/223408217352?)
+- [S3 리액트 자동 배포 (Github Action 사용)](https://blog.naver.com/gi_balja/223410998889)
 
 ---
 

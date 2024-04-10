@@ -69,6 +69,14 @@ tag:
 - [`delightroom` - 1년 만에 성공한 온보딩 실험 작업기](https://medium.com/delightroom/1%EB%85%84-%EB%A7%8C%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%9C-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8B%A4%ED%97%98-%EC%9E%91%EC%97%85%EA%B8%B0-5b96330a3bb3)
 - [`namunamu1105` - 내가 개발자로서 회사에서 한 실수들](https://namunamu1105.medium.com/%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%ED%95%9C-%EC%8B%A4%EC%88%98%EB%93%A4-ffca7bb947a2)
 
+---
+
+## Brunch 
+
+- [`@jamess` - 프리랜서가 값싼 프로젝트에서 벗어나지 못하는 이유](https://brunch.co.kr/@jamess/107)
+
+---
+
 ## 당근
 
 - [웹사이트의 첫 삽부터 나무를 기르기까지: 당근닷컴 디벨롭의 여정](https://medium.com/daangn/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%B2%AB-%EC%82%BD%EB%B6%80%ED%84%B0-%EB%82%98%EB%AC%B4%EB%A5%BC-%EA%B8%B0%EB%A5%B4%EA%B8%B0%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC%EB%8B%B7%EC%BB%B4-%EB%94%94%EB%B2%A8%EB%A1%AD%EC%9D%98-%EC%97%AC%EC%A0%95-830cc1a27bf0)

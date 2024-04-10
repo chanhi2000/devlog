@@ -28,6 +28,12 @@ tag:
 
 ---
 
+## StackExchange
+
+### Retrocomputing
+
+- [Why does part of the Windows 98 Setup program look older than the rest?](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
+
 ## Tistory
 
 - [이벤트 뷰어, 윈도우 시스템 사용 기록 각종 로그 정보 보기](https://prolite.tistory.com/959)

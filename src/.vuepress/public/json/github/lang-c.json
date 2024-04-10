@@ -879,5 +879,25 @@
     "desc": "LLM training in simple, raw C/CUDA",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "tidwall/neco",
+    "desc": "Concurrency library for C (coroutines)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "git/git",
+    "desc": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "officialSite": "",
+    "topics": ["c", "hacktoberfest", "shell"]
+  }, {
+    "repo": "maypok86/otter",
+    "desc": "A high performance lockless cache for Go. Many times faster than Ristretto and friends.",
+    "officialSite": "https://maypok86.github.io/otter/",
+    "topics": ["cache", "go", "performance", "s3-fifo"]
+  }, {
+    "repo": "jpillora/chisel",
+    "desc": "A fast TCP/UDP tunnel over HTTP",
+    "officialSite": "",
+    "topics": ["golang", "http", "tcp", "tunnel"]
   }
 ]

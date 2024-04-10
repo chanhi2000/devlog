@@ -64,28 +64,52 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 - B. 2023년 Career Developing
   - github profile 변경
 - C. 노트정리
-  - `/crashcourse/devops/linux-journey` 정리
-  - `/crashcourse/cli-mastering-curl-interactive-text-guide` 정리
-  - `/crashcourse/devops/freecodecamp-gitlab-ci` 정리
-  - `/g4e/lang-pwsh/scripts-*` 정리
-  - `/crashcourse/cli/text-processing-w-gnu-awk` 정리
-  - `/crashcourse/swift/100-days-of-swift` 정리
-  - `/crashcourse/swift/100-days-of-swiftui` 정리
+  - <FontIcon icon="fa-brands fa-linux"/>`/crashcourse/devops/linux-journey`
+  - <FontIcon icon="iconfont icon-shell"/>`/crashcourse/cli-mastering-curl-interactive-text-guide`
+  - <FontIcon icon="fa-brands fa-gitlab"/>`/crashcourse/devops/freecodecamp-gitlab-ci`
+  - <FontIcon icon="iconfont icon-shell"/>`/crashcourse/cli/text-processing-w-gnu-awk`
+  - <FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swift`
+  - <FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swiftui`
+  - <FontIcon icon="iconfont icon-powershell"/>`/g4e/lang-pwsh/scripts-*`
+
+:::
+
+::: details 2024년 완료
+
+- A. 2022년 자료준비
+  - 북마크 기록
+- Z.기타
+  - 피부양자 등록
 
 :::
 
 ## 🎯TODO
 
-### A. 2022년 자료준비
-
-### B. 2023년 Career Developing
-
 ### C. 노트정리
 
-#### C3. `/crashcourse/swift/swiftui-by-example` 정리
-
-> [See README](https://chanhi2000.github.io/crashcourse/swift/swiftui-by-example)
-
+- [ ] [<FontIcon icon="iconfont icon-shell"/>`/crashcourse/cli/bash-dev`](https://chanhi2000.github.io/crashcourse/cli/bash-dev/)
+- [ ] [<FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/swiftui-by-example`](https://chanhi2000.github.io/crashcourse/swift/swiftui-by-example/)
+- [ ] [<FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/shuokai-objc`](https://chanhi2000.github.io/crashcourse/swift/shuokai-objc/)
+- [ ] [<FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/apple-develop-in-swift`](https://chanhi2000.github.io/crashcourse/swift/apple-develop-in-swift/)
+- [ ] [<FontIcon icon="iconfont icon-spring"/>`/crashcourse/java/spring-boot-whiteship`](https://chanhi2000.github.io/crashcourse/java/spring-boot-whiteship/)
+- [ ] [<FontIcon icon="iconfont icon-kotlin"/>`/crashcourse/java/devkuma-kotest`](https://chanhi2000.github.io/crashcourse/java/devkuma-kotest/)
+- [ ] [<FontIcon icon="fa-brands fa-python"/>`/crashcourse/python/finance-w-python`](https://chanhi2000.github.io/crashcourse/python/finance-w-python/)
+- [ ] [<FontIcon icon="fa-brands fa-python"/>`/crashcourse/python/rpa-excel`](https://chanhi2000.github.io/crashcourse/python/rpa-excel/)
+- [ ] [<FontIcon icon="fa-brands fa-python"/>`/crashcourse/python/langchain-kr`](https://chanhi2000.github.io/crashcourse/python/langchain-kr/)
+- [ ] [<FontIcon icon="fa-brands fa-rust"/>`/crashcourse/rust/freecodecamp-rust-by-practice`](https://chanhi2000.github.io/crashcourse/rust/freecodecamp-rust-by-practice/)
+- [ ] [<FontIcon icon="fa-brands fa-rust"/>`/crashcourse/rust/wasm-by-example`](https://chanhi2000.github.io/crashcourse/rust/wasm-by-example/)
+- [ ] [<FontIcon icon="fa-brands fa-rust"/>`/crashcourse/rust/eventhelix-rust-to-assembly`](https://chanhi2000.github.io/crashcourse/rust/eventhelix-rust-to-assembly/)
+- [ ] [<FontIcon icon="fa-brands fa-php"/>`/crashcourse/php/three-min-summary`](https://chanhi2000.github.io/crashcourse/php/three-min-summary/)
+- [ ] [<FontIcon icon="iconfont icon-cpp"/>`/crashcourse/cpp/algorithms-for-competitive-programming`](https://chanhi2000.github.io/crashcourse/cpp/algorithms-for-competitive-programming/)
+- [ ] [<FontIcon icon="iconfont icon-ruby"/>`/crashcourse/ruby/rubyonjets-learning-content`](https://chanhi2000.github.io/crashcourse/ruby/rubyonjets-learning-content/)
+- [ ] [<FontIcon icon="iconfont icon-haskell"/>`/crashcourse/haskell/megaparsec`](https://chanhi2000.github.io/crashcourse/haskell/megaparsec/)
+- [ ] [<FontIcon icon="iconfont icon-haskell"/>`/crashcourse/haskell/template-haskell`](https://chanhi2000.github.io/crashcourse/haskell/template-haskell/)
+- [ ] [<FontIcon icon="fa-brands fa-docker"/>`/crashcourse/docker/pearlluck`](https://chanhi2000.github.io/crashcourse/docker/pearlluck/)
+- [ ] [<FontIcon icon="fas fa-dharmachakra"/>`/crashcourse/kubernetes/always-up-to-date-kubernetes`](https://chanhi2000.github.io/crashcourse/kubernetes/always-up-to-date-kubernetes/)
+- [ ] [<FontIcon icon="fa-brands fa-aws"/>`/crashcourse/devops/art-of-aws`](https://chanhi2000.github.io/crashcourse/devops/art-of-aws/)
+- [ ] [<FontIcon icon="fas fa-shield-halved"/>`/crashcourse/devops/digital-forensics-lab`](https://chanhi2000.github.io/crashcourse/devops/digital-forensics-lab/)
+- [ ] [<FontIcon icon="fa-brands fa-css3-alt"/>`/crashcourse/misc/colt-steele-mastering-css-grid`](https://chanhi2000.github.io/crashcourse/misc/colt-steele-mastering-css-grid/)
+- [ ] [<FontIcon icon="fas fa-brain"/>`/crashcourse/misc/llm-generative-ai-for-beginners`](https://chanhi2000.github.io/crashcourse/misc/llm-generative-ai-for-beginners/)
 
 #### C5. Notion 관련 API 도입 방법 확인
 
@@ -96,16 +120,7 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 
 > [See README](/g4e/devops-ovirt/README.md)
 
-### D. 기능개발
-
-- simple-icons integration
-- 
-
 ### Z. 기타
-
-#### Z1. 피부양자 등록
-
-- [x] 피부양자 등록 조건 찾기 
 
 ---
 

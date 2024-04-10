@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: Travel
+title: References
 description: Lifeguide > Travel > References
 icon: iconfont icon-share
 category:

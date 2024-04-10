@@ -178,16 +178,6 @@ tag:
 
 ```component VPCard
 {
-  "title": "DevTools Tips", 
-  "desc": "The collection of tips useful for web development.", 
-  "link": "https://devtoolstips.org", 
-  "logo": "https://devtoolstips.org/assets/logo-small.png", 
-  "background": "rgba(27,44,43,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "FONT CLUB",
   "desc": "뉴스 / 트렌드",
   "link": "http://www.fontclub.co.kr/?cat=1",
@@ -205,8 +195,6 @@ tag:
   "background": "rgba(10,10,10,0.2)"
 }
 ```
-
-- [mobbin](https://mobbin.com/browse/ios/apps): Browse iOS apps
 
 @tab community
 

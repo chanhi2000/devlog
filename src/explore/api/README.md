@@ -88,32 +88,11 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
-  "title": "Can I Use?",
-  "desc": "Can I use... Support tables for HTML5, CSS3, etc",
-  "link": "https://caniuse.com/",
-  "logo": "https://caniuse.com/img/favicon-128.png",
-  "background": "rgba(131,53,2,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "Saaze",
   "desc": "An all-inclusive, flat-file CMS for simple websites and blogs",
   "link": "https://saaze.dev",
   "logo": "https://saaze.dev/assets/favicon.png",
   "background": "rgba(42,38,87,0.2)"
-}
-```
-
-
-```component VPCard
-{
-  "title": "gitignore.io",
-  "desc": "자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요",
-  "link": "https://www.toptal.com/developers/gitignore",
-  "logo": "https://www.toptal.com/developers/gitignore/img/toptal-logo-wordmark.svg",
-  "background": "rgba(32,78,207,0.2)"
 }
 ```
 
@@ -199,16 +178,6 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
-  "title": "Database of Databases",
-  "desc": "The on-line encyclopedia of databases systems from Carnegie Mellon University.",
-  "link": "https://dbdb.io",
-  "logo": "https://dbdb.io/static/core/images/favicon.ico",
-  "background": "rgba(45,73,98,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "Anakin.ai",
   "desc": "Generate Content, Images, Videos, and Voice; Craft Automated Workflows, Custom AI Apps, and Intelligent AgentsYour exclusive AI app customization workstation",
   "link": "https://app.anakin.ai/discover",
@@ -219,38 +188,6 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 - [Operator Lookup](https://www.joshwcomeau.com/operator-lookup)
 - [Sha256 Decrypt & Encrypt](https://md5decrypt.net/en/Sha256/#answer)
-
-@tab Package Manager
-
-```component VPCard
-{
-  "title": "Homebrew — The Missing Package Manager for macOS (or Linux)",
-  "desc": "The Missing Package Manager for macOS (or Linux).",
-  "link": "https://brew.sh/",
-  "logo": "https://brew.sh/assets/img/homebrew.svg",
-  "background": "rgba(46,42,36,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Chocolatey Software | Packages",
-  "desc": "Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. Chocolatey integrates w/SCCM, Puppet, Chef, etc. Chocolatey is trusted by businesses to manage software deployments.",
-  "link": "https://community.chocolatey.org/packages",
-  "logo": "https://community.chocolatey.org/content/images/global-shared/logo.svg",
-  "background": "rgba(18,32,43,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Scoop Apps",
-  "desc": "Scoop Apps is an online package browser for Scoop, the command-line installer for Windows",
-  "link": "https://bjansen.github.io/scoop-apps/main/",
-  "logo": "https://bjansen.github.io/scoop-apps/favicon.ico",
-  "background": "rgba(42,42,41,0.2)"
-}
-```
 
 
 @tab Design & Image
@@ -628,6 +565,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "British Placename Mapper",
+  "desc": "This tool lets you visualise British place names that match certain search terms on a map.",
+  "link": "https://placenames.rtwilson.com/",
+  "logo": "https://placenames.rtwilson.com/favicon.ico",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
 - [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
 
 @tab Network & Security
@@ -871,6 +818,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 - https://dalle.party/
 - https://bbycroft.net/llm
 - https://puter.com/
+- https://byronicalpatrick.github.io/qwanji/
 
 ```component VPCard
 {
