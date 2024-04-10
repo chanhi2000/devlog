@@ -41,7 +41,7 @@ tag:
 
 ---
 
-## 프로그래머 김성엽
+## Microsoft MVP 프로그래머 김성엽
 
 - [[Q&A] vector에 객체를 직접 대입하는 경우...](https://blog.naver.com/tipsware/223395160791)
 - [`printf` 함수의 형식 지정자 실습용 프로그램 - Step 2](https://blog.naver.com/tipsware/223400595787)
@@ -51,7 +51,9 @@ tag:
 - [[Q&A] 객체의 멤버에 값을 대입하는 방법에 대하여](https://blog.naver.com/tipsware/223410450594)
 - [[Q&A] CRect & 형식의 매개 변수에 RECT 구조체 변수 사용하려면 어떻게 해야 하나요?](https://blog.naver.com/tipsware/223409435511)
 - [Static 컨트롤에 문자열로 두 가지 색상이 포함된 문자열 출력하기](https://blog.naver.com/tipsware/223411842482?)
-- [[Q&A] GetStyle 함수와 ModifyStyle 함수에 대해](https://blog.naver.com/tipsware/223411620137)
+- [[Q&A] `GetStyle` 함수와 `ModifyStyle` 함수에 대해](https://blog.naver.com/tipsware/223411620137)
+- [[Q&A] 함수의 도움말이 제대로 연결되지 않습니다.](https://blog.naver.com/tipsware/223413927405?)
+- [표 형식의 단어 편집기에서 단어 드래그해서 이동하기](https://blog.naver.com/tipsware/223412592410?)
 
 ---
 
@@ -79,6 +81,18 @@ tag:
 ## 상구리의 기술 블로그
 
 - [C – error: jump to case label](https://www.skyer9.pe.kr/wordpress/?p=8963)
+
+---
+
+## 운동하는 개발자
+
+- [Beakjoon\] 줄 세우(백준 2252코테) - 그래프 (C++)](https://singo112ok.tistory.com/270)
+
+---
+
+## jacking75
+
+- [C++ - C++23 `std::print` 소개](https://jacking75.github.io/Cpp_20240413/)
 
 ---
 

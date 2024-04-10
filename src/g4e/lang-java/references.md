@@ -58,13 +58,6 @@ tag:
 
 - [Flyway 로 Java 에서 DB schema, seed 관리하기](https://blog.gangnamunni.com/post/introducing-flyway)
 
-### Thdev
-
-- [Kotlin extensions use를 알아보고, 사용법을 알아보자.](https://thdev.tech/kotlin/2020/11/03/kotlin_effective_09)
-- [Kotlin extensions 정의를 알아보고, 활용 시 주의할 부분을 알아보자.](https://thdev.tech/kotlin/2020/10/27/kotlin_effective_08)
-- [Kotlin typealias와 inline class를 알아보고 적절한 사용법을 알아보자.](https://thdev.tech/kotlin/2020/10/13/kotlin_effective_06)
-- [Kotlin Collections에서 지연 계산(lazy)의 이점을 알아보자.](https://thdev.tech/kotlin/2020/10/06/kotlin_effective_05)
-
 ### Medium
 
 - [5 Important Microservices Design Patterns](https://medium.com/javarevisited/5-important-microservices-design-patterns-c4d636b0051)
@@ -206,6 +199,9 @@ tag:
 ### 컴공생의 발자취
 
 - [[ 99클럽 코테 스터디 3일차 TIL ] 문자열에서 index 위치의 문자 반환 및 형변환 (char to int & String to Array)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C-index-%EC%9C%84%EC%B9%98%EC%9D%98-%EB%AC%B8%EC%9E%90-%EB%B0%98%ED%99%98-%EB%B0%8F-char-to-int-%ED%98%95%EB%B3%80%ED%99%98)
+- [[ 99클럽 코테 스터디 17일차 TIL ] 프로그래머스(JadenCase 문자열 만들기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-17%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [[ 99클럽 코테 스터디 16일차 TIL ] 깊이 우선 탐색(DFS: Depth-First Search) 및 프로그래머스(모음사전)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-16%EC%9D%BC%EC%B0%A8-TIL-%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89DFS-Depth-First-Search-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)
+- [[ 99클럽 코테 스터디 15일차 TIL ] 프로그래머스(2016년)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-15%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42016%EB%85%84)
 
 ### 류광의 번역 이야기
 
@@ -223,9 +219,13 @@ tag:
 
 - [클린 코드 - 1. 객체 지향 생활 체조](https://sundries-in-myidea.tistory.com/164)
 
-### 
+### JW공부스토리
 
 - [Java 멀티스레딩, 병행성 및 성능 최적화](https://jwkim96.tistory.com/324)
+
+### 블로그 이름 뭐하지??
+
+- [Java HashMap의 내부 동작 - 이론편](https://potwings.tistory.com/59)
 
 ---
 
@@ -238,9 +238,20 @@ tag:
 
 <PDF url="https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf"/>
 
+### Thdev
+
+- [Kotlin extensions use를 알아보고, 사용법을 알아보자.](https://thdev.tech/kotlin/2020/11/03/kotlin_effective_09)
+- [Kotlin extensions 정의를 알아보고, 활용 시 주의할 부분을 알아보자.](https://thdev.tech/kotlin/2020/10/27/kotlin_effective_08)
+- [Kotlin typealias와 inline class를 알아보고 적절한 사용법을 알아보자.](https://thdev.tech/kotlin/2020/10/13/kotlin_effective_06)
+- [Kotlin Collections에서 지연 계산(lazy)의 이점을 알아보자.](https://thdev.tech/kotlin/2020/10/06/kotlin_effective_05)
+
 ### Stackoverflow
 
 - [How to get String UUID in JPA and store as VARCHAR in Postgresql database?](https://stackoverflow.com/questions/76346452/how-to-get-string-uuid-in-jpa-and-store-as-varchar-in-postgresql-database)
+
+### HolyKisa
+
+- [EveDrop 개발기1](https://holykisa.tistory.com/128)
 
 ### velog
 
@@ -286,6 +297,7 @@ tag:
           
 - [Leetcode 930.`BinarySubarraysWithSum`](https://insanelysimple.tistory.com/483)
 - [Leetcode1669.`MergeInBetweenLinkedLists`](https://insanelysimple.tistory.com/484)
+- [Leetcode61.RotateList (kotlin)](https://insanelysimple.tistory.com/486)
 
 ### 개발하는 곰돌이
 

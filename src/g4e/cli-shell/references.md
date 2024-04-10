@@ -248,6 +248,17 @@ tag:
 
 - [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
   
+---
+
+## passion is like genius; a miracle.
+
+- [`poetry` is great](https://mkseo.pe.kr/blog/?p=4907)
+
+---
+
+## Alin Panaitiu
+
+- [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 
 ---
 

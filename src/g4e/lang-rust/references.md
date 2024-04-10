@@ -249,4 +249,10 @@ tag:
 
 ---
 
+## Jaz's Blog
+
+- [Your (Graph) Data Fits in Memory](https://jazco.dev/2024/04/15/in-memory-graphs/)
+
+---
+
 <TagLinks />

@@ -322,6 +322,7 @@ tag:
 
 - [Gemma 온디바이스 탑재 - 웹브라우저편](https://tykimos.github.io/2024/04/02/gemma_ondevice_webbrowser_fast_execute/)
 - [소스코드 생성 전용 - CodeGemma 시작하기](https://tykimos.github.io/2024/04/10/getting_started_with_codegemma/)
+- [구글폼, 깃허브 액션 그리고 랭체인으로 AI 인플루언서 블로그 작성 간소화](https://tykimos.github.io/2024/04/13/simplifying_virtual_influencer_blog_creation_with_google_forms,_github_actions,_and_langchain/)
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: References
-description: 🏂Zig > References
+description: Zig > References
 icon: iconfont icon-share
 category: 
-  - 🏂Zig
+  - Zig
   - References
 tag: 
   - references
@@ -35,5 +35,9 @@ tag:
 - [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
 
 ---
+
+## 멈춤보단 천천히라도
+
+- [zig 강좌 07 - Defer](https://webnautes.tistory.com/2317)
 
 <TagLinks/>

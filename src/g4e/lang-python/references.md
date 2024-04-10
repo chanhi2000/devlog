@@ -387,12 +387,6 @@ tag:
 
 ---
 
-## 멈춤보단 천천히라도
-
-- [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
-
----
-
 ## ChenYang Yuan
 
 - [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html)
@@ -402,12 +396,6 @@ tag:
 ## notes.billmill.org
 
 - [What are the "worst" spelling bee pangrams?](https://notes.billmill.org/blog/2024/03/What_are_the__worst__spelling_bee_pangrams_.html)
-
----
-
-## webnautes
-
-- [컬럼에서 특정 값을 가진 행 삭제하는 Pandas 예제](https://webnautes.tistory.com/2299)
 
 ---
 
@@ -438,8 +426,12 @@ tag:
 
 ## 멈춤보단 천천히라도
 
+- [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
+- [컬럼에서 특정 값을 가진 행 삭제하는 Pandas 예제](https://webnautes.tistory.com/2299)
 - [pyQt5에서 libGL error: MESA-LOADER: failed to open 에러 발생시 해결방법입니다. ](https://webnautes.tistory.com/2302)
 - [`qt.qpa.plugin`: Could not load the Qt platform plugin "xcb" 에러 해결 방법](https://webnautes.tistory.com/2303)
+- [pyQt5 - process에서 메시지 박스를 보여주는 예제](https://webnautes.tistory.com/2318)
+- [PyQt5 예제 - 단축키로 버튼 누르기](https://webnautes.tistory.com/2316)
 
 ---
 
@@ -588,6 +580,12 @@ tag:
 ## The Python Coding Stack
 
 - [The Strange Practices at The Broadcaster's Inn • Broadcasting in NumPy (A NumPy for Numpties article)](https://www.thepythoncodingstack.com/p/numpy-broadcasting-python-the-broadcasters-inn)
+
+---
+
+## solaqualog
+
+- [`poetry`와 github actions를 활용한 파이썬 라이브러리 배포 자동화](https://sjquant.tistory.com/97)
 
 ---
 

@@ -174,7 +174,6 @@ tag:
 - [Github: Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
 - [\[iOS\]\[SwiftPM\]\[Xcode 13.0\] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
 - [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
-- [기억보단 기록을 - 1. 페이징 성능 개선하기](https://jojoldu.tistory.com/528)
 - [okta developer - Build a Secure Spring Data JPA Resource Server](https://developer.okta.com/blog/2020/11/20/spring-data-jpa)
 - [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html)
 - [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)

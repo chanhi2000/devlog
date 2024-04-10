@@ -174,4 +174,10 @@ tag:
 
 ---
 
+## ByteSizeGo
+
+- [Learning Go in 2024; From Beginner to Senior](https://www.bytesizego.com/blog/learning-golang-2024)
+
+---
+
 <TagLinks />

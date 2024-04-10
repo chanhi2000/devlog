@@ -35,4 +35,11 @@ head:
 
 ---
 
+## 기계인간 John Grib
+
+- [Kafka Producer acks](https://johngrib.github.io/wiki/kafka/producer-acks/)
+- [Kafka는 파일 시스템에 저장한다](https://johngrib.github.io/wiki/kafka/writes-to-disk/)
+
+---
+
 <TagLinks />

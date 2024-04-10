@@ -261,6 +261,9 @@ tag:
 - [2021년 정보올림피아드 필기 초등부(1 ~ 5)](https://davincicoding.tistory.com/125)
 - [2021년 정보올림피아드 필기 초등부(11 ~ 15)](https://davincicoding.tistory.com/128)
 - [2021년 정보올림피아드 필기 초등부(16 ~ 20)](https://davincicoding.tistory.com/129)
+- [2020년 정보올림피아드 필기 중등부(2-4 ~ 2-8)](https://davincicoding.tistory.com/142)
+- [2020년 정보올림피아드 필기 중등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/141)
+- [부동소수점 이해하기](https://davincicoding.tistory.com/144)
 
 ---
 
@@ -339,6 +342,26 @@ tag:
 ## 기계인간 John Grib
 
 - [Cardinality](https://johngrib.github.io/wiki/database/cardinality/)
+
+---
+
+## 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔
+
+- [#2. 반도체 수율 (제조업 공통) 한 방에 정리!!](https://topnanis.tistory.com/245)
+- [#1. 반도체 공정이란 (반도체 8대 공정 + 패키징 공정 추가)](https://topnanis.tistory.com/244)
+- [#0. 강의소개_반도체는 과연 무엇일까? (+ 패키징 반도체 비법 과외교실 소개)](https://topnanis.tistory.com/243)
+
+---
+
+## Phillip Tennen
+
+- [Building a GPS Receiver, Part 1: Hearing Whispers](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
+
+---
+
+## Cambridge University
+
+- [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 
 ---
 

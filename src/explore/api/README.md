@@ -292,6 +292,96 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
+  "title": "Animista - On-Demand CSS Animations Library",
+  "desc": "Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.",
+  "link": "https://animista.net/play/basic/rotate-90",
+  "logo": "https://animista.net/images/animista-logo-small.svg",
+  "background": "rgba(237,102,107,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CSS Glow Generator - CSS Bud",
+  "desc": "A modern and clearn CSS Glow Generator. Custom colors, transparency, and blurs for your creative needs. Enjoy!",
+  "link": "https://cssbud.com/css-generator/css-glow-generator/",
+  "logo": "https://cssbud.com/wp-content/uploads/2020/04/cssbud-logo.png",
+  "background": "rgba(176,165,225,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "cssbuttons.app | Over 60+ Free CSS Buttons To Use",
+  "desc": "Collection of over 60+ handpicked and custom made CSS buttons for your website.",
+  "link": "https://cssbuttons.app/",
+  "logo": "https://cssbuttons.app/favicon.ico",
+  "background": "rgba(16,16,16,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Neumorphism/Soft UI CSS shadow generator",
+  "desc": "CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.",
+  "link": "https://neumorphism.io/",
+  "logo": "https://neumorphism.io/favicon.ico",
+  "background": "rgba(224,224,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Easing Gradients",
+  "desc": "Supercharge your gradients with non-linear color mix and custom color spaces.",
+  "link": "https://larsenwork.com/easing-gradients/",
+  "logo": "https://larsenwork.com/favicon.ico",
+  "background": "rgba(216,45,144,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Hamburgers by Jonathan Suh",
+  "desc": "Tasty CSS-animated Hamburgers",
+  "link": "https://jonsuh.com/hamburgers/",
+  "logo": "https://jonsuh.com/favicon.ico",
+  "background": "rgba(244,244,244,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Smooth Shadow",
+  "desc": "Make a smooth css shadow",
+  "link": "https://shadows.brumm.af/",
+  "logo": "https://shadows.brumm.af/logo192.png",
+  "background": "rgba(76,138,244,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Glassmorphism CSS Generator | SquarePlanet | SquarePlanet",
+  "desc": "Glassmorphism is a unified name for the popular Frosted Glass aesthetic.",
+  "link": "https://hype4.academy/tools/glassmorphism-generator",
+  "logo": "https://hype4.academy/favicon/android-icon-192x192.png",
+  "background": "rgba(50,48,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CSS Tools Online | 10015 Tools",
+  "desc": "Looking to spruce up your website's style? Check out 10015.io's online CSS Tools! With a variety of online tools available, you can easily customize your site's look and feel. And best of all, our CSS tools are free to use!",
+  "link": "https://10015.io/css-tools",
+  "logo": "https://10015.io/brand/logo-on-light.svg",
+  "background": "rgba(72,75,245,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Free Favicon Maker",
   "desc": "Free Favicon Maker — Create SVG & PNG favicon in seconds!",
   "link": "https://formito.com/tools/favicon",
@@ -813,6 +903,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+- https://beta-genport.newsystock.com/backtest/TradingM.aspx?UseType=KOR
 - https://viperfish.com.au/games/pinnacle.html
 - https://workout.olzhasar.com/
 - https://allrgb.com/kd-tree

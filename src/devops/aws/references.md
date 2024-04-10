@@ -108,6 +108,9 @@ tag:
 - [AWS S3](https://blog.naver.com/gi_balja/223407211913?)
 - [AWS S3와 CloudFront](https://blog.naver.com/gi_balja/223408217352?)
 - [S3 리액트 자동 배포 (Github Action 사용)](https://blog.naver.com/gi_balja/223410998889)
+- [AWS Lambda](https://blog.naver.com/gi_balja/223415212877?)
+- [AWS API Gateway](https://blog.naver.com/gi_balja/223414349399?)
+- [AWS SES와 Nodemailer](https://blog.naver.com/gi_balja/223414001298?)
 
 ---
 

@@ -173,7 +173,7 @@ export const navbarEn = navbar([
       }, {
         text: 'Zig',
         link: '/g4e/lang-zig/README.md',
-        icon: 'fas fa-person-snowboarding',
+        icon: 'iconfont icon-zig',
       }, {
         text: 'LaTeX',
         link: '/g4e/lang-latex/README.md',
@@ -355,6 +355,10 @@ export const navbarEn = navbar([
         text: 'Notion',
         icon: 'iconfont icon-notion',
         link: '/tool/notion/README.md',
+      }, {
+        text: 'Wireshark',
+        icon: 'iconfont icon-wireshark',
+        link: '/tool/wireshark/README.md',
       }
     ]
   }, {

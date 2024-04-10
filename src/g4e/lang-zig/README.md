@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Zig
 description: Zig
-icon: fas fa-person-snowboarding
+icon: iconfont icon-zig
 category: 
   - Zig
 tag:

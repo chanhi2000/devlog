@@ -4020,6 +4020,11 @@
     "officialSite": "",
     "topics": []
   }, {
+    "repo": "OpenBMB/MiniCPM-V",
+    "desc": "MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities",
+    "officialSite": "",
+    "topics": []
+  }, {
     "repo": "AbanteAI/rawdog",
     "desc": "Generate and auto-execute Python scripts in the cli",
     "officialSite": "",
@@ -4834,5 +4839,20 @@
     "desc": "Improved file parsing for LLM’s",
     "officialSite": "https://filimoa.github.io/open-parse/",
     "topics": ["document-parser", "document-structure", "layout-parsing", "table-detection"]
+  }, {
+    "repo": "huggingface/parler-tts",
+    "desc": "Inference and training library for high-quality TTS models.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zulip/zulip",
+    "desc": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+    "officialSite": "https://zulip.com",
+    "topics": ["apache", "chat", "collaboration", "electron", "foss", "free", "javascript", "python", "python3", "react-native", "slack", "zulip"]
+  }, {
+    "repo": "vEduardovich/dodari",
+    "desc": "AI 영한-한영 번역기, 도다리 en-ko/ ko-en AI translator",
+    "officialSite": "https://moonlit.himion.com",
+    "topics": ["ai", "tanslation"]
   }
 ]

@@ -189,6 +189,8 @@ tag:
 - [`@sehyunny` - (번역) 자바스크립트 시각화하기 : 프로미스 실행](https://velog.io/@sehyunny/js-visualized-promise-execution)
 - [`@juhee067` - `/channels`와 `/channels/:id`에서 생긴 문제](https://velog.io/@juhee067/GET%EC%9A%94%EC%B2%AD%EC%97%90-Body-%EA%B0%92-%EC%A0%84%EB%8B%AC)
 - [`@surim014` - [번역] 재미와 이익을 위한 자바스크립트 최적화](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit)
+- [`@juhee067` - [오류해결] CJS 특징으로 인한 모듈 오류](https://velog.io/@juhee067/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0-CJS-%ED%8A%B9%EC%A7%95%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EB%AA%A8%EB%93%88-%EC%98%A4%EB%A5%98)
+
 ---
 
 ## Webkit
@@ -853,6 +855,18 @@ tag:
 ## moregorenine
 
 - [Electron reload](https://moregorenine.github.io/electron/electron/)
+
+---
+
+## Weaviate
+
+- [A Web Developers Guide to Hybrid Search](https://weaviate.io/blog/hybrid-search-for-web-developers)
+
+---
+
+## Raphael
+
+- [Trying To Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 
 ---
 

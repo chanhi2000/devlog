@@ -26,7 +26,6 @@ tag:
 
 - [flexiple](https://flexiple.com/illustrations)
 - [CTA Button Generator](https://www.clickminded.com/button-generator)
-- [Neumorphism](https://neumorphism.io)
 - [Glassmorphism](http://glassmorphism.com)
 - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius)
 - [WAIT! Animate](https://waitanimate.wstone.uk)
@@ -267,7 +266,7 @@ tag:
 
 ---
 
-## James Fisher
+## James Fisherh
 
 - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 
@@ -282,6 +281,12 @@ tag:
 ## Junhyunny's Devlogs
 
 - [How to set weights and styles with `@font-face`](https://junhyunny.github.io/html/css/how-to-set-weights-and-styles-with-font-face/)
+
+---
+
+## Enthusiastically, Steady, Slowly
+
+- [21 HTML Tips You Must Know About(무조건 알아야 하는 21개의 HTML 팁)](https://rutgo-letsgo.tistory.com/entry/21-HTML-Tips-You-Must-Know-About%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-21%EA%B0%9C%EC%9D%98-HTML-%ED%8C%81)
 
 ---
 

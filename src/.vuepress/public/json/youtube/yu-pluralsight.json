@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/WdIWDa38qpK8De9JbKiO_382aFtx9yxKlPflgPlBglEd6W0_KBPvXLS6bHrqlg5S9S1JM8amjA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_G149qdpOJU", "title": "AI This Month: Sora, Gemini, and ChatGPT’s delightful nonsense" },
+    { "id": "a9d6LpZ6sC4", "title": "2024 AWS certifications: From foundational to specialty" },
+    { "id": "mR5PmorRgLo", "title": "Pluralsight Flow: The Engineering Transformation Partner" },
+    { "id": "utbYioUAdlw", "title": "AWS CCP exam | 9 machine learning services to know" },
     { "id": "lovnPtQOFGk", "title": "How to create & use Lambda layers using AWS" },
     { "id": "MY-7MzeHaeY", "title": "How to use Amazon Q: The GenAI-powered AWS building assistant" },
     { "id": "8_bgqJpQCSM", "title": "How to build a serverless application with Application Composer" },

@@ -85,6 +85,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "BLEX",
+  "desc": "누구나 경험과 지식을 공유할 수 있는 블로그 플랫폼입니다. 마크다운으로 글을 작성할 수 있으며 코드 강조 표시, 수식, 이미지 삽입 등을 지원합니다. 방문자가 내 포스트를 언제, 어디서, 어떻게 찾는지 분석할 수 있습니다. 단순한 디자인으로 사용자가 우리의 경험을 보다 쉽게 탐색할 수 있습니다.",
+  "link": "https://blex.me/",
+  "logo": "https://blex.me/favicon.ico",
+  "background": "rgba(160,118,241,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
   "desc": "Everyday Engineering Challenges",
   "link": "https://blog.ideaharbour.site/engineering/",

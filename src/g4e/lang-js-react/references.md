@@ -610,11 +610,17 @@ head:
 - [React Hook Form: FormProvider-`useFormContext`](https://serpiko.tistory.com/904)
 - [react using state when you don't need it](https://serpiko.tistory.com/905)
 
----
+---https://o-yeon.tistory.com/227
 
 ## Life Log
 
 - [10만건 이상의 데이터 in front (테이블 개선)](https://ravenkim97.tistory.com/400)
+
+---
+
+## CONST oyeonDevlog; 
+
+- [Tanstack-Query (a.k.a React-Query) 입문자들을 위한 간단 설명](https://o-yeon.tistory.com/227)
 
 ---
 

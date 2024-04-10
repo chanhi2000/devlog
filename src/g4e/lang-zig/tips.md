@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Tips
-description: 🏂Zig > Tips
+description: Zig > Tips
 icon: fas fa-lightbulb
 category: 
-  - 🏂Zig
+  - Zig
   - Tips
 tag: 
   - tips

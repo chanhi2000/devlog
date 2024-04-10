@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/C-3jr3nU2LiG6dSdDXYNrpo2JckIO8zR20cu4ReuZhtRVfkoIUsGXGL4sNaYpt2KbNRMYzDXv8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5jmhxa_aJ1Q", "title": "Validate Entries Using BASH Shell Scripting and Convert Case" },
+    { "id": "I6AsylUfzTE", "title": "Ditch ChatGPT and Learn Python to Create your own AI Application" },
+    { "id": "m-yfjaRpnE4", "title": "Harness the Power of AI: Build a Python CLI App with GPT 3.5 Turbo" },
+    { "id": "8XR70OLcIRU", "title": "Create Voiceovers With Python And OpenAI: Text to speech Conversion Made Easy!" },
+    { "id": "wQGxmn4AkjU", "title": "Create Awesome AI Images from the Linux CLI with Dall-E and Python" },
+    { "id": "uWjtFDOGpWs", "title": "Create an Ansible Playbook to Cater for Different Versions of Ansible on Different Controllers" },
+    { "id": "38AwIGOihZw", "title": "Quick And Easy Ways To Convert The Case Of Strings In Linux CLI" },
+    { "id": "h6oa_FwzFwU", "title": "How to Create Python Package and Upload to PyPi" },
+    { "id": "edD60WRiw2E", "title": "Controlling the Hosts Execution of Ansible Playbooks" },
+    { "id": "Fon_-9bhXkQ", "title": "LPIC-3 303 and Let's Encrypt" },
+    { "id": "7dT5B73Bcqs", "title": "Master AWK: Group Users by Shell in Linux Like a Pro!" },
+    { "id": "eW4qrQJX3sI", "title": "Mastering Bash: Utilizing declare -l to Handle Lowercase Variables Enhancing Script Input Processing" },
     { "id": "u-3amrvANSs", "title": "ChatGPT Demo: Exploring US States with Capital and Population Data" },
     { "id": "lkeyWJiKv4A", "title": "Understanding Systemd Socket Units By Creating Your Own QOTD Service" },
     { "id": "8s2P-FuZfLk", "title": "ChatGPT: A Practical Guide to Prompt Engineering Examples" },

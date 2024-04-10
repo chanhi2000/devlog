@@ -2159,5 +2159,20 @@
     "desc": "A tool for writing better scripts",
     "officialSite": "https://google.github.io/zx/",
     "topics": ["bash", "cli", "javascript", "nodejs", "shell"]
+  }, {
+    "repo": "lkesteloot/turbopascal",
+    "desc": "Web-based Turbo Pascal compiler. ",
+    "officialSite": "https://www.teamten.com/lawrence/projects/turbo_pascal_compiler/",
+    "topics": []
+  }, {
+    "repo": "thebinarysearchtree/flyweight",
+    "desc": "An ORM for SQLite",
+    "officialSite": "",
+    "topics": ["nodejs", "orm", "sqlite"]
+  }, {
+    "repo": "alexpinel/Dot",
+    "desc": "Standalone app for document interaction with local LLM",
+    "officialSite": "https://dotapp.uk/",
+    "topics": ["ai", "app", "desktop-app", "document-chat", "embeddings", "faiss", "gpt", "langchain", "llm", "local", "localai", "mistral", "mistral-7b", "privategpt", "rag", "standalone", "standalone-app"]
   }
 ]

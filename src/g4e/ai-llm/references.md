@@ -187,5 +187,11 @@ tag:
 
 ---
 
+## Make headway towards solving the problem
+
+- [Full Stack Optimization of Transformer Inference: a Survey (1)](https://iostream.tistory.com/179)
+
+---
+
 
 <TagLinks/>

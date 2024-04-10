@@ -53,6 +53,11 @@ tag:
 - [Full Docker Course \[FREE\] 🎉 🐳](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
 - [`tungbq`: Introducing DevOps Toolkit](https://dev.to/tungbq/introducing-devops-toolkit-32fa)
 
+---
+
+## BLEX
+
+- [`@baealex` - Docker 이미지 사이즈 최적화](https://blex.me/@baealex/docker-image-size-optimize)
 
 ---
 
@@ -189,6 +194,12 @@ tag:
 
 - [Node.js에서 MySQL 8 버전에 연결할 때 발생하는 오류 해결하기](https://jhyeok.com/nodejs-mysql8/)
 
+---
+
+## Octoping
+
+- [[번역] Spring Topical Guides - Spring Boot Docker](https://octoping.tistory.com/58)
+  
 ---
 
 ## Misc

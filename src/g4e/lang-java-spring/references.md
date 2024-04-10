@@ -99,4 +99,22 @@ head:
 
 ---
 
+## 데엔잘하고싶은데엔🔥💎
+
+- [Spring Boot Actuator로 메모리 이슈 모니터링하기](http://checkout.secomps.co.kr/block?Culture=1042)
+
+---
+
+## Enthusiastically, Steady, Slowly
+
+- [[숫자야구게임 Step 1] 비지니스 로직을 작성하자.](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step-1-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90)
+
+---
+
+## Octoping
+
+- [[번역] Spring Topical Guides - Spring Boot Docker](https://octoping.tistory.com/58)
+
+---
+
 <TagLinks />

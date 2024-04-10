@@ -393,7 +393,7 @@ export const sidebarEn = sidebar({
       ]
     }, {
       text: 'Zig',
-      icon: 'fas fa-person-snowboarding',
+      icon: 'iconfont icon-zig',
       collapsible: true,
       children: [
         '/g4e/lang-zig/README.md',
@@ -551,6 +551,15 @@ export const sidebarEn = sidebar({
         '/tool/notion/README.md',
         '/tool/notion/references.md',
         '/tool/notion/youtube.md',
+      ]
+    }, {
+      text: 'Wireshark',
+      collapsible: true,
+      icon: 'iconfont icon-wireshark',
+      children: [
+        '/tool/wireshark/README.md',
+        '/tool/wireshark/references.md',
+        '/tool/wireshark/youtube.md',
       ]
     }
   ],

@@ -181,6 +181,8 @@ tag:
 - [[WPF] `ListView`와 `SelectedItem`](https://hj0216.tistory.com/901)
 - [[WPF] `ListView`와 `ItemsSource`](https://hj0216.tistory.com/900)
 - [[WPF] MVVM Scroll 동작 구현](https://hj0216.tistory.com/908)
+- [[WPF] `MaterialDesignTheme` 적용](https://hj0216.tistory.com/911)
+- [[WPF] `WebView2`와 동영상](https://hj0216.tistory.com/910)
 
 ---
 

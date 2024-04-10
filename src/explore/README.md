@@ -364,6 +364,36 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+```component VPCard
+{
+  "title": "Go by Example",
+  "desc": "Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below",
+  "link": "https://gobyexample.com/",
+  "logo": "https://gobyexample.com/favicon.ico",
+  "background": "rgba(16,16,16,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Golang tutorial: Table Of Contents",
+  "desc": "Tutorials to learn go from the ground up with a hands approach. Learning is made easier with simple examples. Run the code online using go playground.",
+  "link": "https://golangbot.com/learn-golang-series/",
+  "logo": "https://golangbot.com/favicon.ico",
+  "background": "rgba(11,36,54,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CS 886: Recent Advances on Foundation Models - Winter 2024",
+  "desc": "Home page for CS 886",
+  "link": "https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/",
+  "logo": "https://cs.uwaterloo.ca/favicon.ico",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
 :::
 
 ---

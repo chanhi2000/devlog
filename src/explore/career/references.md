@@ -60,7 +60,12 @@ tag:
 
 - [`@endmoseung` - 꾸준함과 당연하다는것](https://velog.io/@endmoseung/%EA%BE%B8%EC%A4%80%ED%95%A8%EA%B3%BC-%EB%8B%B9%EC%97%B0%ED%95%98%EB%8B%A4%EB%8A%94%EA%B2%83)
 - [`@hygoogi` - 기술 면접 질문 모음](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C)
-
+- [`@qkrtkdwns3410` - 인프라 아키텍처의 이해](https://velog.io/@qkrtkdwns3410/%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%9D%B4%ED%95%B4)
+- [`@qkrtkdwns3410` - 네트워킹의 이해](https://velog.io/@qkrtkdwns3410/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%9D%98-%EC%9D%B4%ED%95%B4)
+- [`@qkrtkdwns3410` - 서버와 가상화](https://velog.io/@qkrtkdwns3410/%EC%84%9C%EB%B2%84%EC%99%80-%EA%B0%80%EC%83%81%ED%99%94)
+- [`@seochan99` - 컴퓨터 네트워크 1장 : introduction(Performance, Security, Protocol layers...)](https://velog.io/@seochan99/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-1%EC%9E%A5-introductionPerformance-Security-Protocol-layers)
+- [`@seochan99` - 컴퓨터 네트워크 1장 : introduction(네트워크 코어)](https://velog.io/@seochan99/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-1%EC%9E%A5-introduction%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%BD%94%EC%96%B4)
+- [`@seochan99` - 컴퓨터 네트워크 1장 : introduction(인터넷, 프로토콜, 네트워크 엣지)](https://velog.io/@seochan99/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-1%EC%9E%A5-introduction)
 
 ---
 
@@ -250,6 +255,7 @@ tag:
 - [과소평가, 과대평가 – 기술](https://www.thestartupbible.com/2024/04/things-we-overestimate-and-underestimate-technology.html)
 - [소명과 책임](https://www.thestartupbible.com/2024/04/on-the-calling-of-a-vc.html)
 - [피드백에 대해](https://www.thestartupbible.com/2024/04/is-your-vc-giving-you-feedback-on-rejection.html)
+- [거절은 새로운 시작](https://www.thestartupbible.com/2024/04/selling-starts-when-the-buyer-says-no.html)
 
 ---
 
@@ -262,6 +268,9 @@ tag:
 ## 기억보단 기록을
 
 - [혼란하게 진행하기](https://jojoldu.tistory.com/776)
+- [1. 페이징 성능 개선하기](https://jojoldu.tistory.com/528)
+- [Public API의 CDN 캐시](https://jojoldu.tistory.com/779)
+- [언제 이직할 회사를 고르면 좋을까?](https://jojoldu.tistory.com/778)
 
 ---
 
@@ -354,7 +363,47 @@ tag:
 
 - [디자인 시스템, 코드를 넘어서](https://so-so.dev/react/design-system-beyond-code/)
 
+---
 
+## 진양 뉴스레터
+
+- [Re : 제로부터 시작하는… 월순익 1,000만원 만드는 슬로우 라이프 하기로 했습니다. (Ep. 1~4)](https://www.jianyang.co.kr/p/re-1000-ep-14)
+
+---
+
+## Sequoia
+
+- [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
+
+---
+
+## Product-Market Fit Method
+
+- [The 4 Levels of PMF](https://pmf.firstround.com/levels)
+
+---
+
+## A Smart Bear
+
+- [The roadmap to Product/Market Fit (PMF)… maybe](https://longform.asmartbear.com/product-market-fit-formula/)
+
+---
+
+## Ykss
+
+- [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend/)
+
+---
+
+## 현구막 기술 블로그
+
+- [제품을 만드는 사람과 변화를 만드는 사람](https://hyeon9mak.github.io/who-create-product-and-who-create-change/)
+
+---
+
+## 네트워크 엔지니어 환영의 기술블로그
+
+- [엔지니어를 위한, 연금 제도 쉽게 이해하기](https://aws-hyoh.tistory.com/287)
 
 ---
 

@@ -312,4 +312,11 @@ tag:
 - [SwiftUI로 이모지 키보드 만들기](https://www.hohyeonmoon.com/blog/swiftui-emoji-keyboard)
 
 ---
+
+## 민소네
+
+- [Realistic Motion Blur](https://minsone.github.io/swiftui-code/Realistic-Motion-Blur/)
+
+---
+
 <TagLinks />

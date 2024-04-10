@@ -54,6 +54,7 @@ tag:
 - [Arduino Uno R4를 HID 키보드 장치로 만들기](https://fishpoint.tistory.com/9143)
 - [UNO R4 업로드 에러 해결 방법 Failed uploading: uploading error: exit status 74](https://fishpoint.tistory.com/9144)
 - [ESP32 BLE를 사용하여 LED ](https://fishpoint.tistory.com/9152)
+- [USB 램프 만들기](https://fishpoint.tistory.com/9177)
 
 ---
 
@@ -90,5 +91,7 @@ tag:
 ## Greaseweazle
 
 - [Greaseweazle](https://retrocmp.de/hardware/greaseweazle/greaseweazle.htm)
+
+---
 
 <TagLinks />

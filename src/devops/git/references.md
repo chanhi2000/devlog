@@ -61,7 +61,8 @@ tag:
 ## velog
 
 - [`@eunbibi` - Git tutorial](https://velog.io/@eunbibi/Git-tutorial)
-
+- [`@eunbibi` - Tag](https://velog.io/@eunbibi/Tag)
+- [`@eunbibi` - Merge and Conflict](https://velog.io/@eunbibi/Merge-and-Conflict)
 ---
 
 ## appsmith
@@ -204,6 +205,12 @@ tag:
 ## Git cookbook
 
 - [Repairing and recovering broken git repositories](https://git.seveas.net/repairing-and-recovering-broken-git-repositories.html)
+
+---
+
+## passion is like genius; a miracle.
+
+- [How to add unittest to `pre-commit`](https://mkseo.pe.kr/blog/?p=4907)
 
 ---
 

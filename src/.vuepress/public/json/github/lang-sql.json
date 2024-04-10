@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "supabase/index_advisor",
+    "desc": "PostgreSQL Index Advisor",
+    "officialSite": "https://supabase.com/docs/guides/database/extensions/index_advisor",
+    "topics": ["extension", "indexing", "postgres", "postgresql"]
+  }
+]

@@ -1384,5 +1384,10 @@
     "desc": "The world’s fastest framework for building websites.",
     "officialSite": "https://gohugo.io",
     "topics": ["blog-engine", "cms", "content-management-system", "documentation-tool", "go", "hugo", "static-site-generator"]
+  }, {
+    "repo": "nalgeon/redka",
+    "desc": "Redis re-implemented with SQLite",
+    "officialSite": "",
+    "topics": ["database", "key-value", "redis", "sqlite"]
   }
 ]

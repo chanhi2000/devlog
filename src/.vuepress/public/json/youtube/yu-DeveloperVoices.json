@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/kOU7SXN7IIUUwK2GIjosSbzCUBbV4mT3vKDdVlwWG5eEerc98KAl90DxV5RbmnnLjxc0IVRj=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4bpc8NpNHRc", "title": "The Magic of Property Testing" },
+    { "id": "A9he0682AK4", "title": "Neovim: Creating, Curating and Customising Your Ideal Editor (with TJ DeVries)" },
+    { "id": "BQG5dcIgDCk", "title": "The beauty of building things in Lua. #podcast #softwaredevelopment #neovim" },
+    { "id": "Ziy5Uo-6YsY", "title": "Fast iteration is a winning formula #podcast #softwaredevelopment #neovim" },
+    { "id": "EkndmJztyzU", "title": "How Apache Pinot Achieves 200,000 Queries per Second (with Tim Berglund)" },
+    { "id": "IxQ586TS8Gw", "title": "Taking Erlang to OCaml 5 (with Leandro Ostera)" },
+    { "id": "HXABdG3xJW4", "title": "Developing a Neovim Docker Plugin from Scratch" },
+    { "id": "P91XSggJemk", "title": "Bringing Pure Python to Apache Kafka (with Tomáš Neubauer)" },
     { "id": "UBgam9XUHs0", "title": "Exploring Verse, Haskell, Language Design and Teaching (with Simon Peyton Jones)" },
     { "id": "pZV9FvdKmLc", "title": "Implementing Hardware-Friendly Databases (with DuckDB co-creator, Hannes Mühleisen)" },
     { "id": "GWt7VXm5tKM", "title": "How do refactoring tools work? (with Jonathan Schneider)" },

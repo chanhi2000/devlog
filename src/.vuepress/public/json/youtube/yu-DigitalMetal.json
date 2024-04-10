@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/B6XcrOa6Sb77IXUqaEeWeqN_Sowsz9Wq_fTtDobNFIoOqdhbVftBk1wA5Xf4-tfuu5aIs_an=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "i9m3SvecbEI", "title": "Convert Images to Blender Cubes" },
+    { "id": "AxcNUr8WefY", "title": "Installing Nextcloud" },
+    { "id": "sCdw-ejtQnc", "title": "Shell Scripting Live Stream" },
+    { "id": "AhEYl6eJNU8", "title": "Android Screen Share through SSH" },
+    { "id": "rJf0D-Lyl1w", "title": "Learn the Linux Shell 01" },
+    { "id": "PNezkv8oPbY", "title": "Learn the Linux Shell 02" },
+    { "id": "L0kIR0X85GA", "title": "Learn The Linux Shell 03" },
+    { "id": "l4Mi-7ayWa0", "title": "Learn The Linux Shell 04 GREP" },
     { "id": "WI11Urbq-14", "title": "Level Bar Output in BASH" },
     { "id": "mqpG2ktLUWM", "title": "Sending Files to Trash" },
     { "id": "6OvoeViivBo", "title": "Edit Compressed Archives without Extracting" },
