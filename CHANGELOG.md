@@ -7,9 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
-## [v0.8.17  2024-04-11][v0.8.17]
+## [v0.9.0  2024-04-11][v0.9.0]
 
 - 내용채워넣기
+- Introducing `/devops/`
 
 ---
 
@@ -1717,4 +1718,4 @@ Tips 트리구조 구성
 [v0.8.14]: https://github.com/chanhi2000/devlog/compare/v0.8.13...v0.8.14
 [v0.8.15]: https://github.com/chanhi2000/devlog/compare/v0.8.14...v0.8.15
 [v0.8.16]: https://github.com/chanhi2000/devlog/compare/v0.8.15...v0.8.16
-[v0.8.17]: https://github.com/chanhi2000/devlog/compare/v0.8.16...v0.8.17
+[v0.9.0]: https://github.com/chanhi2000/devlog/compare/v0.8.16...v0.9.0

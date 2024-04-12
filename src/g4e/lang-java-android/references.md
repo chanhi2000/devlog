@@ -124,6 +124,7 @@ tag:
 ## Pluu Dev
 
 - [UI Code Snippet용 Plugin 제작기 ~ 3부 : Import](https://pluu.github.io/blog/android/2024/03/09/designsystem-plugin-03/)
+- [[메모] AndroidX Lifecycle 2.7.0-alpha02부터 변경된 동작](https://pluu.github.io/blog/android/2024/04/10/livedata/)
 
 ---
 

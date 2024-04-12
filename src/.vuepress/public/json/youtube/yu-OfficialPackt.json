@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/LXfjyOF3xN2_9knWUbFZ89uuPHhJoG-tKy8m9NPFJ4oyVBCX4YAkJVGormkVCWdm3D6v9G13=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "aNRka2ovbyY", "title": "Transformers for Natural Language Processing and Computer Vision" },
     { "id": "G67sdqr0g-k", "title": "Generative AI with LangChain" },
     { "id": "0c25Eh6FUdI", "title": "Developing Kaggle Notebooks" },
     { "id": "03YqejICtU0", "title": "Bayesian Analysis with Python" },

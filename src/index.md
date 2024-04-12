@@ -15,6 +15,12 @@ projects:
   - name: G4E
     link: /g4e/
     icon: fas fa-book
+  - name: DevOps
+    link: /devops/
+    icon: fas fa-cubes-stacked
+  - name: Tool
+    link: /tool/
+    icon: fas fa-screwdriver-wrench
   - name: Explore
     link: /explore/
     icon: fas fa-globe

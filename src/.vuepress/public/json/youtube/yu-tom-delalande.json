@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "tom-delalande",
+    "name": "Tom Delalande",
+    "profile": "https://yt3.googleusercontent.com/nntMLfLzNm9PWSQzbxdE38sa7bObZRSwb1Ff-i9BGvhzKLxDFYnqW-5X8xMNCthjbI9QpCcbUuE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "EhXpJo3YbKg", "title": "The better alternative to Markdown" },
+    { "id": "LdvcIhfZJcE", "title": "Kotlin for Typescript developers" },
+    { "id": "ZtsnLuLf5YU", "title": "How leveraging events can simplify your app" },
+    { "id": "-MbTj8DGOP0", "title": "Comparing 10 programming languages. I built the same app in all of them." }
+  ]
+}

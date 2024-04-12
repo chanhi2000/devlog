@@ -44,5 +44,7 @@ tag:
 <MyYouTubeItems jsonName="yu-SpanningTree" /><!-- Spanning Tree -->
 <MyYouTubeItems jsonName="yu-veritasium" /><!-- Veritasium -->
 <MyYouTubeItems jsonName="yu-electric_revolution" /><!-- 전기혁명 -->
+<MyYouTubeItems jsonName="yu-chemophilia" /><!-- 화학하악 -->
+<MyYouTubeItems jsonName="yu-stanfordonline" /><!-- Stanford Online -->
 
 <TagLinks />

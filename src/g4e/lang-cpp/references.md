@@ -50,6 +50,8 @@ tag:
 - [[Q&A] 로그에 함수 이름 추가할 때 오버로딩된 함수를 구별하려면...](https://blog.naver.com/tipsware/223404347557?)
 - [[Q&A] 객체의 멤버에 값을 대입하는 방법에 대하여](https://blog.naver.com/tipsware/223410450594)
 - [[Q&A] CRect & 형식의 매개 변수에 RECT 구조체 변수 사용하려면 어떻게 해야 하나요?](https://blog.naver.com/tipsware/223409435511)
+- [Static 컨트롤에 문자열로 두 가지 색상이 포함된 문자열 출력하기](https://blog.naver.com/tipsware/223411842482?)
+- [[Q&A] GetStyle 함수와 ModifyStyle 함수에 대해](https://blog.naver.com/tipsware/223411620137)
 
 ---
 
@@ -64,6 +66,7 @@ tag:
 - [백준 14890 - 경사로](https://bellbpng.github.io/baekjoon%20solution/14890/)
 - [백준 14891 - 톱니바퀴](https://bellbpng.github.io/baekjoon%20solution/14891/)
 - [백준 15683 - 감시](https://bellbpng.github.io/baekjoon%20solution/15683/)
+- [SW Expert Academy - 2383. 점심 식사시간](https://bellbpng.github.io/samsung%20sw/2383/)
 
 ---
 

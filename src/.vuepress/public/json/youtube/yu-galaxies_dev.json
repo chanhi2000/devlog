@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/ZkK9dbYp2Fv3HM5-9zLU1t7-Pl5n8V1eW4NC_KHlQ4-4fyWeeBsmcHrzWPJoazq8xL-LAojc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "G5TjXRHoEno", "title": "Build a Kids Drawing App with React Native" },
+    { "id": "cMi6Vwo6C2M", "title": "Role Based Navigation in React Native with Expo Router" },
+    { "id": "2yvjgwTZOUY", "title": "The Best Stack for Universal React Apps" },
+    { "id": "iDZBeIgcixk", "title": "Build a FinTech Clone with React Native (API Routes, Zustand, Tanstack Query, FaceID, Charts, Clerk)" },
+    { "id": "D_14xgyW4Rk", "title": "React Native with HTML?" },
     { "id": "shaGaiwu4Fg", "title": "React Native just got better" },
     { "id": "gzehQxHxtfw", "title": "Can this replace NextJS?" },
     { "id": "COH_XhlMyZ4", "title": "The Time for React Native is NOW" },

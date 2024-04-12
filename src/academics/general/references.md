@@ -336,4 +336,10 @@ tag:
 
 ---
 
+## 기계인간 John Grib
+
+- [Cardinality](https://johngrib.github.io/wiki/database/cardinality/)
+
+---
+
 <TagLinks />

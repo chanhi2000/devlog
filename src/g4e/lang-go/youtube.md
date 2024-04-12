@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🦦Go > Youtube
+description: Go > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🦦Go 
+  - Go 
   - Youtube
 tag: 
   - go
@@ -13,9 +13,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🦦Go > Youtube
+      content: Go > Youtube
     - property: og:description
-      content: 🦦Go > Youtube
+      content: Go > Youtube
     - propert: og:type
       content: article
     - property: og:url
@@ -39,5 +39,7 @@ head:
 <MyYouTubeItems jsonName="yu-codingmoon" /><!-- 코딩문codingmoon -->
 <MyYouTubeItems jsonName="yu-TomDoesTech" /><!-- TomDoesTech -->
 <MyYouTubeItems jsonName="yu-MelkeyDev" /><!-- Melkey -->
+<MyYouTubeItems jsonName="yu-backend_blueprints" /><!-- Backend Blueprints -->
+<MyYouTubeItems jsonName="yu-x.kernel" /><!-- xKernel -->
 
 <TagLinks/>

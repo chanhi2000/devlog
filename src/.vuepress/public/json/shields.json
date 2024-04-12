@@ -9,6 +9,7 @@
   { "logo": "androidstudio", "name": "Android%20Studio", "colorHex": "3DDC84" },
   { "logo": "apachecordova", "name": "Apache%20Cordova", "colorHex": "E8E8E8" },
   { "logo": "apachegroovy", "name": "Apache%20Groovy", "colorHex": "4298B8" },
+  { "logo": "apachekafka", "name": "Apache%20Kafka", "colorHex": "231F20" },
   { "logo": "apachemaven", "name": "Apache%20Maven", "colorHex": "C71A36" },
   { "logo": "apachetomcat", "name": "Apache%20Tomcat", "colorHex": "F8DC75" },
   { "logo": "apple", "name": "macOS", "colorHex": "000000" },

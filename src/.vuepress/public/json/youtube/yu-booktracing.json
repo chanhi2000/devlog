@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "booktracing",
+    "name": "북트레싱",
+    "profile": "https://yt3.googleusercontent.com/Npr9M5OIaHDuCheT_GjETMHHIzSFmsCp174SCmHb2Nv6DrR3rsmt-qJKIK0v37Vr655kysm2lA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "2_KcotCJyhU", "title": "네이버, 구글 번역보다 낫다. 옵시디언 원클릭 번역 DeepL" },
+    { "id": "a2s6gV9SSwc", "title": "Whisper(위스퍼)로 음성 메모 파일 텍스트로 변환하기, 생산성 향상" },
+    { "id": "svk2lxXuf5I", "title": "매크로 자동화를 통한 생산성 증가, QuickAdd 플러그인" },
+    { "id": "fl_ExilH9to", "title": "주간, 월간 캘린더로 Tasks 할 일 보기 tasksCalendar" },
+    { "id": "yLwZk86LoCk", "title": "나만의 지도 만들기, 옵시디언 지도 위치 표시 Map View" }
+  ]
+}

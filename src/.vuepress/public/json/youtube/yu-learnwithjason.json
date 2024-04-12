@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/JZav5tL14daax3jDES8yDJuU57aPKQYOlaIxHx0SpsL0rhfYOnDD5BUElK3UEGZnkgPkOtrv=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NgdDIQaWiac", "title": "Growth and discomfort" },
+    { "id": "9KJcgaqa5Zs", "title": "LWJ: React Suspense in GraphQL with Apollo Client with Lenz Weber-Tronic" },
+    { "id": "9KJcgaqa5Zs", "title": "React Suspense in GraphQL with Apollo Client" },
+    { "id": "aMfhtFkk1m4", "title": "Build a viral event sharing page" },
+    { "id": "qquVJ81APEs", "title": "LWJ: Astro’s biggest release yet with Fred K. Schott" },
+    { "id": "tPiEPnLWmNk", "title": "LWJ: Building Web Demos + Q&A with Jason Lengstorf" },
+    { "id": "tPiEPnLWmNk", "title": "Build a View Transitions powered video player in Astro" },
+    { "id": "N4PP-vwxCuw", "title": "Fix async/await in JavaScript and TypeScript with Charles Lowell" },
+    { "id": "WnOcLog2P1Y", "title": "LWJ: Val Town wants to make serverless JavaScript easier with Steve Krouse" },
     { "id": "W-j2HH1GdjU", "title": "Qwik + Astro perf on perf on perf with @Steve8708" },
     { "id": "64Hq1bZfhVs", "title": "4 Web Devs 1 App Idea:  @chantastic, Domitrius Clark, @mewtru" },
     { "id": "tSfSY3Ni3X0", "title": "LWJ: Learn With Jason Live, LIVE! The CSS-stravaganza!" },

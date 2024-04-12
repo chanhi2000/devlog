@@ -218,7 +218,6 @@ head:
 <MyYouTubeItems jsonName="yu-blondiebytes" /><!-- blondiebytes -->
 <MyYouTubeItems jsonName="yu-asaprogrammer_" /><!-- As a Programmer -->
 <MyYouTubeItems jsonName="yu-VincentLabStudio" /><!-- Vincent Lab -->
-<MyYouTubeItems jsonName="yu-learnwithjason" /><!-- Learn With Jason -->
 <MyYouTubeItems jsonName="yu-Huntabyte" /><!-- Huntabyte -->
 <MyYouTubeItems jsonName="yu-jeonghwan_kim" /><!-- 김정환 -->
 <MyYouTubeItems jsonName="yu-mattpocockuk" /><!-- Matt Pocock -->
@@ -234,5 +233,6 @@ head:
 <MyYouTubeItems jsonName="yu-codeboba" /><!-- Code Boba -->
 <MyYouTubeItems jsonName="yu-ProgrammerZamanNow" /><!-- Programmer Zaman Now -->
 <MyYouTubeItems jsonName="yu-maximilian-schwarzmueller" /><!-- Maximilian Schwarzmüller -->
+<MyYouTubeItems jsonName="yu-frontendfyi" /><!-- Frontend FYI -->
 
 <TagLinks />

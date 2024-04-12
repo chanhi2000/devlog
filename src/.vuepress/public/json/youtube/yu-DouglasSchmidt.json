@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Ej-truz7tgpNU-Qqq1WzsIaCGiXvVi71MmkeZB8J9zNSJrCY-0LbyZPnev_DokVSEEYu1TAvpw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RiDI3JGEhcA", "title": "Applying Key Operators in the Flux Class: Case Study ex3 (Part 2)" },
     { "id": "8t3_O9eVFGQ", "title": "Walkthrough of Frequently Made Mistakes for Assignment 1A in CS 891" },
     { "id": "p7a73CkUdYc", "title": "Walkthrough of Frequently Made Mistakes for Assignment 1A in CS 8395" },
     { "id": "zgZsW6BAMbc", "title": "Walkthrough of Assignment 1B for My Scalable Microservices Course" },

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/LBx-PFPevasWu6YfvRtaV6VDKalTt7lpHKixM9JyQ13iv7fPqoB_vgaBzYgqBeEte8xb5K0X=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "SQ4A7Q6_md8", "title": "Django Starter with Allauth and Htmx" },
+    { "id": "u7siCTdGhuw", "title": "Real-Time Chat app with Django Channels and WebSockets Introduction - Part 1" },
+    { "id": "lPR8SbDJogU", "title": "How does a Real-Time Chat App works? #django #websockets #channels #webapp #python" },
+    { "id": "Q7N2oJTnThA", "title": "Real-Time Chat app - Basic Setup with Htmx - Part 2" },
+    { "id": "Ta-4uW1MmY8", "title": "Django Channels & Websockets with Htmx - Real-Time Chat app - Part 3" },
+    { "id": "668OIdxjxJo", "title": "Online Tracker with Websockets - Real-Time Chat app - Part 4" },
     { "id": "cY6tApsLZC8", "title": "SEO, Sitemaps, Open Graph and Google Analytics - Deployment with Django - Part 12" },
     { "id": "AjKhxWgGpjY", "title": "Deploy Django app to Railway" },
     { "id": "DANYPEz2iXg", "title": "Upgrade Django version - Deployment with Django - Part 13" },

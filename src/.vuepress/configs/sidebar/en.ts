@@ -159,6 +159,16 @@ export const sidebarEn = sidebar({
         '/g4e/lang-java-android/youtube.md',
       ]
     }, {
+      text: 'Kafka',
+      collapsible: true,
+      icon: 'iconfont icon-apachekafka',
+      children: [
+        '/g4e/lang-java-kafka/README.md',
+        '/g4e/lang-java-kafka/references.md',
+        '/g4e/lang-java-kafka/github.md',
+        '/g4e/lang-java-kafka/youtube.md',
+      ]
+    }, {
       text: 'Swift',
       collapsible: true,
       icon: 'fa-brands fa-swift',
@@ -403,278 +413,7 @@ export const sidebarEn = sidebar({
       ]
     },
     //endregion
-    //region: devops
     {
-      text: 'Git',
-      collapsible: true,
-      icon: 'iconfont icon-git',
-      children: [
-        '/g4e/devops-git/README.md',
-        '/g4e/devops-git/basics.md',
-        '/g4e/devops-git/references.md',
-        '/g4e/devops-git/youtube.md',
-      ]
-    }, {
-      text: 'Github',
-      collapsible: true,
-      icon: 'fa-brands fa-github',
-      children: [
-        '/g4e/devops-github/README.md',
-        '/g4e/devops-github/awesome-list.md',
-        '/g4e/devops-github/library.md',
-        '/g4e/devops-github/news.md',
-        '/g4e/devops-github/tutorial.md',
-        '/g4e/devops-github/portfolio.md',
-        '/g4e/devops-github/github-action.md',
-        '/g4e/devops-github/troubleshooting.md',
-        '/g4e/devops-github/references.md',
-        '/g4e/devops-github/youtube.md',
-      ]
-    }, {
-      text: 'Gitlab',
-      collapsible: true,
-      icon: 'fa-brands fa-gitlab',
-      children: [
-        '/g4e/devops-gitlab/README.md',
-        '/g4e/devops-gitlab/docker.md',
-        '/g4e/devops-gitlab/docker-gitlab-runner.md',
-        '/g4e/devops-gitlab/docker-compose.md',
-        '/g4e/devops-gitlab/troubleshooting.md',
-        '/g4e/devops-gitlab/references.md',
-        '/g4e/devops-gitlab/youtube.md',
-      ]
-    }, {
-      text: 'Linux',
-      collapsible: true,
-      icon: 'fa-brands fa-linux',
-      children: [
-        '/g4e/devops-os-linux/README.md',
-        '/g4e/devops-os-linux/env-setup.md',
-        '/g4e/devops-os-linux/references.md',
-        '/g4e/devops-os-linux/youtube.md',
-      ]
-    }, {
-      text: 'macOS',
-      collapsible: true,
-      icon: 'iconfont icon-macos',
-      children: [
-        '/g4e/devops-os-mac/README.md',
-        '/g4e/devops-os-mac/env-setup.md',
-        '/g4e/devops-os-mac/tips.md',
-        '/g4e/devops-os-mac/youtube.md',
-
-      ],
-    }, {
-      text: 'Windows',
-      collapsible: true,
-      icon: 'fa-brands fa-windows',
-      children: [
-        '/g4e/devops-os-win/README.md',
-        '/g4e/devops-os-win/env-setup.md',
-        '/g4e/devops-os-win/ie.md',
-        '/g4e/devops-os-win/tips.md',
-        '/g4e/devops-os-win/wsl.md',
-        '/g4e/devops-os-win/youtube.md',
-      ]
-    }, {
-      text: 'oVirt',
-      collapsible: true,
-      icon: 'fas fa-cubes',
-      children: [
-        '/g4e/devops-ovirt/README.md',
-        '/g4e/devops-ovirt/cli.md',
-        '/g4e/devops-ovirt/references.md',
-        '/g4e/devops-ovirt/youtube.md',
-      ]
-    }, {
-      text: 'Docker',
-      collapsible: true,
-      icon: 'fa-brands fa-docker',
-      children: [
-        '/g4e/devops-docker/README.md',
-        '/g4e/devops-docker/basics.md',
-        '/g4e/devops-docker/docker-compose.md',
-        '/g4e/devops-docker/favorite-containers.md',
-        '/g4e/devops-docker/references.md',
-        '/g4e/devops-docker/youtube.md',
-      ]
-    }, {
-      text: 'Podman',
-      collapsible: true,
-      icon: 'iconfont icon-podman',
-      children: [
-        '/g4e/devops-podman/README.md',
-        '/g4e/devops-podman/skopeo.md',
-        '/g4e/devops-podman/references.md',
-        '/g4e/devops-podman/articles/you-dont-have-to-use-docker-anymore.md',
-      ]
-    }, {
-      text: 'Kubernetes',
-      collapsible: true,
-      icon: 'fas fa-dharmachakra',
-      children: [
-        '/g4e/devops-kubernetes/README.md',
-        '/g4e/devops-kubernetes/references.md',
-        '/g4e/devops-kubernetes/youtube.md',
-      ]
-    }, {
-      text: 'Openshift',
-      collapsible: true,
-      icon: 'fa-brands fa-redhat',
-      children: [
-        '/g4e/devops-openshift/README.md',
-        '/g4e/devops-openshift/references.md',
-      ]
-    }, {
-      text: 'AWS',
-      collapsible: true,
-      icon: 'fa-brands fa-aws',
-      children: [
-        '/g4e/devops-aws/README.md',
-        '/g4e/devops-aws/references.md',
-        '/g4e/devops-aws/youtube.md',
-      ]
-    }, {
-      text: 'Azure',
-      collapsible: true,
-      icon: 'iconfont icon-microsoftazure',
-      children: [
-        '/g4e/devops-azure/README.md',
-        '/g4e/devops-azure/references.md',
-        '/g4e/devops-azure/youtube.md',
-      ]
-    }, {
-      text: 'Security',
-      collapsible: true,
-      icon: 'fas fa-shield-halved',
-      children: [
-        '/g4e/devops-security/README.md',
-        '/g4e/devops-security/references.md',
-        '/g4e/devops-security/youtube.md',
-      ]
-    }, {
-      text: 'HTTP',
-      collapsible: true,
-      icon: 'iconfont icon-http',
-      children: [
-        '/g4e/protocol-http/README.md',
-        '/g4e/protocol-http/api.md',
-        '/g4e/protocol-http/references.md',
-      ]
-    }, {
-      text: 'Jenkins',
-      collapsible: true,
-      icon: 'fa-brands fa-jenkins',
-      children: [
-        '/g4e/ci-jenkins/README.md',
-        '/g4e/ci-jenkins/snippets.md',
-        '/g4e/ci-jenkins/references.md',
-        '/g4e/ci-jenkins/youtube.md',
-      ]
-    }, {
-      text: 'Appium',
-      collapsible: true,
-      icon: 'iconfont icon-appium',
-      children: [
-        '/g4e/ci-appium/README.md',
-        '/g4e/ci-appium/references.md',
-      ]
-    }, {
-      text: 'Nexus Repository',
-      collapsible: true,
-      icon: 'fas fa-kaaba',
-      children: [
-        '/g4e/devops-nexus/README.md',
-        '/g4e/devops-nexus/tips.md',
-      ]
-    }, {
-      text: 'Selenium',
-      collapsible: true,
-      icon: 'iconfont icon-selenium',
-      children: [
-        '/g4e/test-selenium/README.md',
-        '/g4e/test-selenium/youtube.md',
-      ],
-    }, {
-      text: 'Dracula',
-      collapsible: true,
-      icon: 'iconfont icon-vampire-dracula',
-      children: [
-        '/g4e/dracula/README.md',
-        '/g4e/dracula/env-setup.md',
-      ],
-    }, {
-      text: 'Intellij Idea',
-      collapsible: true,
-      icon: 'iconfont icon-intellijidea',
-      children: [
-        '/g4e/tool-ide-idea/README.md',
-        '/g4e/tool-ide-idea/plugins.md',
-        '/g4e/tool-ide-idea/troubleshooting.md',
-        '/g4e/tool-ide-idea/references.md',
-        '/g4e/tool-ide-idea/youtube.md',
-      ]
-    },{
-      text: 'VSCode',
-      collapsible: true,
-      icon: 'iconfont icon-vscode',
-      children: [
-        '/g4e/tool-ide-vscode/README.md',
-        '/g4e/tool-ide-vscode/plugins.md',
-        '/g4e/tool-ide-vscode/settings-json.md',
-        '/g4e/tool-ide-vscode/tips.md',
-        '/g4e/tool-ide-vscode/snippets.md',
-        '/g4e/tool-ide-vscode/references.md',
-        '/g4e/tool-ide-vscode/youtube.md',
-      ],
-    }, {
-      text: 'Sublime Text',
-      collapsible: true,
-      icon: 'iconfont icon-sublimetext',
-      children: [
-        '/g4e/tool-te-sublime-text/README.md',
-        '/g4e/tool-te-sublime-text/plugins.md',
-        '/g4e/tool-te-sublime-text/snippets.md',
-        '/g4e/tool-te-sublime-text/references.md',
-      ],
-    }, {
-      text: 'DBeaver',
-      collapsible: true,
-      icon: 'iconfont icon-dbeaver',
-      children: [
-        '/g4e/tool-ide-dbeaver/README.md',
-        '/g4e/tool-ide-dbeaver/hotkey.md',
-        '/g4e/tool-ide-dbeaver/jdbc.md',
-        '/g4e/tool-ide-dbeaver/qtmplt.md',
-      ]
-    }, {
-      text: 'Excel',
-      collapsible: true,
-      icon: 'iconfont icon-microsoftexcel',
-      children: [
-        '/g4e/tool-excel/README.md',
-        '/g4e/tool-excel/references.md',
-        '/g4e/tool-excel/youtube.md',
-      ]
-    }, {
-      text: 'Chrome Browser',
-      collapsible: true,
-      icon: 'fa-brands fa-chrome',
-      children: [
-        '/g4e/tool-chrome-browser/README.md',
-        '/g4e/tool-chrome-browser/plugins.md',
-        '/g4e/tool-chrome-browser/references.md'
-      ]
-    }, {
-      text: 'Notion',
-      collapsible: true,
-      icon: 'iconfont icon-notion',
-      children: [
-        '/g4e/tool-notion/README.md',
-        '/g4e/tool-notion/references.md',
-        '/g4e/tool-notion/youtube.md',
-      ]
-    }, {
       text: 'OpenAI',
       collapsible: true,
       icon: 'iconfont icon-openai',
@@ -699,124 +438,7 @@ export const sidebarEn = sidebar({
         '/g4e/ai-gemini/README.md',
         '/g4e/ai-gemini/references.md',
       ]
-    }, {
-      text: '🦖JEUS',
-      collapsible: true,
-      children: [
-        '/g4e/was-jeus/README.md',
-        '/g4e/was-jeus/basics.md',
-        '/g4e/was-jeus/references.md'
-      ]
-    }, {
-      text: 'WebtoB',
-      collapsible: true,
-      icon: 'fas fa-sailboat',
-      children: [
-        '/g4e/ws-webtob/README.md',
-        '/g4e/ws-webtob/basics.md',
-        '/g4e/ws-webtob/references.md'
-      ] 
-    }, {
-      text: 'NGINX',
-      collapsible: true,
-      icon: 'iconfont icon-nginx',
-      children: [
-        '/g4e/ws-nginx/README.md',
-        '/g4e/ws-nginx/references.md',
-        '/g4e/ws-nginx/youtube.md',
-      ]
     }, 
-    //endregion
-    //region: DB
-    {
-      text: 'MySQL',
-      collapsible: true,
-      icon: 'iconfont icon-mysql',
-      children: [
-        '/g4e/db-mysql/README.md',
-        '/g4e/db-mysql/query.md',
-        '/g4e/db-mysql/references.md',
-        '/g4e/db-mysql/youtube.md',
-      ]
-    }, {
-      text: 'Oracle SQL',
-      collapsible: true,
-      icon: 'iconfont icon-oracle',
-      children: [
-        '/g4e/db-oracle/README.md',
-        '/g4e/db-oracle/query.md',
-        '/g4e/db-oracle/references.md',
-        '/g4e/db-oracle/youtube.md',
-      ]
-    }, {
-      text: 'Microsoft SQL Server',
-      collapsible: true,
-      icon: 'iconfont icon-sqlserver',
-      children: [
-        '/g4e/db-mssql/README.md',
-        '/g4e/db-mssql/query.md',
-        '/g4e/db-mssql/references.md',
-        '/g4e/db-mssql/youtube.md',
-      ]
-    }, {
-      text: 'Cubrid',
-      collapsible: true,
-      icon: 'iconfont icon-cubrid',
-      children: [
-        '/g4e/db-cubrid/README.md',
-        '/g4e/db-cubrid/cli.md',
-        '/g4e/db-cubrid/query.md',
-        '/g4e/db-cubrid/docker.md',
-        '/g4e/db-cubrid/references.md',
-      ]
-    }, {
-      text: 'PostgreSQL',
-      collapsible: true,
-      icon: 'iconfont icon-postgresql',
-      children: [
-        '/g4e/db-postgres/README.md',
-        '/g4e/db-postgres/query.md',
-        '/g4e/db-postgres/references.md',
-        '/g4e/db-postgres/youtube.md',
-      ]
-    }, {
-      text: 'Django',
-      collapsible: true,
-      icon: 'iconfont icon-django',
-      children: [
-        '/g4e/db-django/README.md',
-        '/g4e/db-django/query.md',
-        '/g4e/db-django/github.md',
-        '/g4e/db-django/references.md',
-        '/g4e/db-django/youtube.md',      
-      ]
-    }, {
-      text: '🪳Cockroach',
-      collapsible: true,
-      children: [
-        '/g4e/db-cockroach/README.md',
-        '/g4e/db-cockroach/query.md',
-        '/g4e/db-cockroach/references.md',
-      ]
-    }, {
-      text: 'Altibase',
-      collapsible: true,
-      icon: 'iconfont icon-altibase',
-    children: [
-        '/g4e/db-altibase/README.md',
-        '/g4e/db-altibase/query.md',
-        '/g4e/db-altibase/references.md',
-      ]
-    }, {
-      text: 'SQL',
-      collapsible: true,
-      icon: 'fas fa-magnifying-glass',
-      children: [
-        '/g4e/sql/README.md',
-        '/g4e/sql/tibero.md',
-      ]
-    }, 
-    //endregion
     {
       text: 'Regex',
       collapsible: true,
@@ -844,7 +466,409 @@ export const sidebarEn = sidebar({
         '/g4e/lang-markdown/template.md',
         '/g4e/lang-markdown/references.md',
       ]
+    },
+  ],
+  '/tool/': [
+    {
+      text: 'Tool',
+      icon: 'fas fa-screwdriver-wrench',
+      children: [ '/tool/README.md' ],
+    }, {
+      text: 'Dracula',
+      collapsible: true,
+      icon: 'iconfont icon-vampire-dracula',
+      children: [
+        '/tool/dracula/README.md',
+        '/tool/dracula/env-setup.md',
+      ],
+    }, {
+      text: 'Intellij Idea',
+      collapsible: true,
+      icon: 'iconfont icon-intellijidea',
+      children: [
+        '/tool/intellij-idea/README.md',
+        '/tool/intellij-idea/plugins.md',
+        '/tool/intellij-idea/troubleshooting.md',
+        '/tool/intellij-idea/references.md',
+        '/tool/intellij-idea/youtube.md',
+      ]
+    },{
+      text: 'VSCode',
+      collapsible: true,
+      icon: 'iconfont icon-vscode',
+      children: [
+        '/tool/vscode/README.md',
+        '/tool/vscode/plugins.md',
+        '/tool/vscode/settings-json.md',
+        '/tool/vscode/tips.md',
+        '/tool/vscode/snippets.md',
+        '/tool/vscode/references.md',
+        '/tool/vscode/youtube.md',
+      ],
+    }, {
+      text: 'Sublime Text',
+      collapsible: true,
+      icon: 'iconfont icon-sublimetext',
+      children: [
+        '/tool/sublimetext/README.md',
+        '/tool/sublimetext/plugins.md',
+        '/tool/sublimetext/snippets.md',
+        '/tool/sublimetext/references.md',
+      ],
+    }, {
+      text: 'DBeaver',
+      collapsible: true,
+      icon: 'iconfont icon-dbeaver',
+      children: [
+        '/tool/dbeaver/README.md',
+        '/tool/dbeaver/hotkey.md',
+        '/tool/dbeaver/jdbc.md',
+        '/tool/dbeaver/qtmplt.md',
+      ]
+    }, {
+      text: 'Excel',
+      collapsible: true,
+      icon: 'iconfont icon-microsoftexcel',
+      children: [
+        '/tool/excel/README.md',
+        '/tool/excel/references.md',
+        '/tool/excel/youtube.md',
+      ]
+    }, {
+      text: 'Chrome Browser',
+      collapsible: true,
+      icon: 'fa-brands fa-chrome',
+      children: [
+        '/tool/googlechrome/README.md',
+        '/tool/googlechrome/plugins.md',
+        '/tool/googlechrome/references.md'
+      ]
+    }, {
+      text: 'Notion',
+      collapsible: true,
+      icon: 'iconfont icon-notion',
+      children: [
+        '/tool/notion/README.md',
+        '/tool/notion/references.md',
+        '/tool/notion/youtube.md',
+      ]
+    }
+  ],
+  '/devops/': [
+    {
+      text: 'DevOps',
+      icon: 'fas fa-cubes-stacked',
+      children: [ '/devops/README.md' ],
     }, 
+    //region: devops
+    {
+      text: 'Git',
+      collapsible: true,
+      icon: 'iconfont icon-git',
+      children: [
+        '/devops/git/README.md',
+        '/devops/git/basics.md',
+        '/devops/git/references.md',
+        '/devops/git/youtube.md',
+      ]
+    }, {
+      text: 'Github',
+      collapsible: true,
+      icon: 'fa-brands fa-github',
+      children: [
+        '/devops/github/README.md',
+        '/devops/github/awesome-list.md',
+        '/devops/github/library.md',
+        '/devops/github/news.md',
+        '/devops/github/tutorial.md',
+        '/devops/github/portfolio.md',
+        '/devops/github/github-action.md',
+        '/devops/github/troubleshooting.md',
+        '/devops/github/references.md',
+        '/devops/github/youtube.md',
+      ]
+    }, {
+      text: 'Gitlab',
+      collapsible: true,
+      icon: 'fa-brands fa-gitlab',
+      children: [
+        '/devops/gitlab/README.md',
+        '/devops/gitlab/docker.md',
+        '/devops/gitlab/docker-gitlab-runner.md',
+        '/devops/gitlab/docker-compose.md',
+        '/devops/gitlab/troubleshooting.md',
+        '/devops/gitlab/references.md',
+        '/devops/gitlab/youtube.md',
+      ]
+    }, {
+      text: 'Linux',
+      collapsible: true,
+      icon: 'fa-brands fa-linux',
+      children: [
+        '/devops/linux/README.md',
+        '/devops/linux/env-setup.md',
+        '/devops/linux/references.md',
+        '/devops/linux/youtube.md',
+      ]
+    }, {
+      text: 'macOS',
+      collapsible: true,
+      icon: 'iconfont icon-macos',
+      children: [
+        '/devops/macos/README.md',
+        '/devops/macos/env-setup.md',
+        '/devops/macos/tips.md',
+        '/devops/macos/youtube.md',
+      ],
+    }, {
+      text: 'Windows',
+      collapsible: true,
+      icon: 'fa-brands fa-windows',
+      children: [
+        '/devops/windows/README.md',
+        '/devops/windows/env-setup.md',
+        '/devops/windows/ie.md',
+        '/devops/windows/tips.md',
+        '/devops/windows/wsl.md',
+        '/devops/windows/youtube.md',
+      ]
+    }, {
+      text: 'oVirt',
+      collapsible: true,
+      icon: 'fas fa-cubes',
+      children: [
+        '/devops/ovirt/README.md',
+        '/devops/ovirt/cli.md',
+        '/devops/ovirt/references.md',
+        '/devops/ovirt/youtube.md',
+      ]
+    }, {
+      text: 'Docker',
+      collapsible: true,
+      icon: 'fa-brands fa-docker',
+      children: [
+        '/devops/docker/README.md',
+        '/devops/docker/basics.md',
+        '/devops/docker/docker-compose.md',
+        '/devops/docker/favorite-containers.md',
+        '/devops/docker/references.md',
+        '/devops/docker/youtube.md',
+      ]
+    }, {
+      text: 'Podman',
+      collapsible: true,
+      icon: 'iconfont icon-podman',
+      children: [
+        '/devops/podman/README.md',
+        '/devops/podman/skopeo.md',
+        '/devops/podman/references.md',
+        '/devops/podman/articles/you-dont-have-to-use-docker-anymore.md',
+      ]
+    }, {
+      text: 'Kubernetes',
+      collapsible: true,
+      icon: 'fas fa-dharmachakra',
+      children: [
+        '/devops/kubernetes/README.md',
+        '/devops/kubernetes/references.md',
+        '/devops/kubernetes/youtube.md',
+      ]
+    }, {
+      text: 'Openshift',
+      collapsible: true,
+      icon: 'fa-brands fa-redhat',
+      children: [
+        '/devops/openshift/README.md',
+        '/devops/openshift/references.md',
+      ]
+    }, {
+      text: 'AWS',
+      collapsible: true,
+      icon: 'fa-brands fa-aws',
+      children: [
+        '/devops/aws/README.md',
+        '/devops/aws/references.md',
+        '/devops/aws/youtube.md',
+      ]
+    }, {
+      text: 'Azure',
+      collapsible: true,
+      icon: 'iconfont icon-microsoftazure',
+      children: [
+        '/devops/azure/README.md',
+        '/devops/azure/references.md',
+        '/devops/azure/youtube.md',
+      ]
+    }, {
+      text: 'Security',
+      collapsible: true,
+      icon: 'fas fa-shield-halved',
+      children: [
+        '/devops/security/README.md',
+        '/devops/security/references.md',
+        '/devops/security/youtube.md',
+      ]
+    }, {
+      text: 'HTTP',
+      collapsible: true,
+      icon: 'iconfont icon-http',
+      children: [
+        '/devops/protocol-http/README.md',
+        '/devops/protocol-http/api.md',
+        '/devops/protocol-http/references.md',
+      ]
+    }, {
+      text: 'Jenkins',
+      collapsible: true,
+      icon: 'fa-brands fa-jenkins',
+      children: [
+        '/devops/jenkins/README.md',
+        '/devops/jenkins/snippets.md',
+        '/devops/jenkins/references.md',
+        '/devops/jenkins/youtube.md',
+      ]
+    }, {
+      text: 'Appium',
+      collapsible: true,
+      icon: 'iconfont icon-appium',
+      children: [
+        '/devops/appium/README.md',
+        '/devops/appium/references.md',
+      ]
+    }, {
+      text: 'Nexus Repository',
+      collapsible: true,
+      icon: 'fas fa-kaaba',
+      children: [
+        '/devops/nexus/README.md',
+        '/devops/nexus/tips.md',
+      ]
+    }, {
+      text: 'Selenium',
+      collapsible: true,
+      icon: 'iconfont icon-selenium',
+      children: [
+        '/devops/selenium/README.md',
+        '/devops/selenium/youtube.md',
+      ],
+    }, {
+      text: '🦖JEUS',
+      collapsible: true,
+      children: [
+        '/devops/jeus/README.md',
+        '/devops/jeus/basics.md',
+        '/devops/jeus/references.md'
+      ]
+    }, {
+      text: 'WebtoB',
+      collapsible: true,
+      icon: 'fas fa-sailboat',
+      children: [
+        '/devops/webtob/README.md',
+        '/devops/webtob/basics.md',
+        '/devops/webtob/references.md'
+      ] 
+    }, {
+      text: 'NGINX',
+      collapsible: true,
+      icon: 'iconfont icon-nginx',
+      children: [
+        '/devops/nginx/README.md',
+        '/devops/nginx/references.md',
+        '/devops/nginx/youtube.md',
+      ]
+    }, 
+    //endregion
+    //region: DB
+    {
+      text: 'MySQL',
+      collapsible: true,
+      icon: 'iconfont icon-mysql',
+      children: [
+        '/devops/mysql/README.md',
+        '/devops/mysql/query.md',
+        '/devops/mysql/references.md',
+        '/devops/mysql/youtube.md',
+      ]
+    }, {
+      text: 'Oracle SQL',
+      collapsible: true,
+      icon: 'iconfont icon-oracle',
+      children: [
+        '/devops/oracle/README.md',
+        '/devops/oracle/query.md',
+        '/devops/oracle/references.md',
+        '/devops/oracle/youtube.md',
+      ]
+    }, {
+      text: 'Microsoft SQL Server',
+      collapsible: true,
+      icon: 'iconfont icon-sqlserver',
+      children: [
+        '/devops/mssql/README.md',
+        '/devops/mssql/query.md',
+        '/devops/mssql/references.md',
+        '/devops/mssql/youtube.md',
+      ]
+    }, {
+      text: 'Cubrid',
+      collapsible: true,
+      icon: 'iconfont icon-cubrid',
+      children: [
+        '/devops/cubrid/README.md',
+        '/devops/cubrid/cli.md',
+        '/devops/cubrid/query.md',
+        '/devops/cubrid/docker.md',
+        '/devops/cubrid/references.md',
+      ]
+    }, {
+      text: 'PostgreSQL',
+      collapsible: true,
+      icon: 'iconfont icon-postgresql',
+      children: [
+        '/devops/postgres/README.md',
+        '/devops/postgres/query.md',
+        '/devops/postgres/references.md',
+        '/devops/postgres/youtube.md',
+      ]
+    }, {
+      text: 'Django',
+      collapsible: true,
+      icon: 'iconfont icon-django',
+      children: [
+        '/devops/django/README.md',
+        '/devops/django/query.md',
+        '/devops/django/github.md',
+        '/devops/django/references.md',
+        '/devops/django/youtube.md',      
+      ]
+    }, {
+      text: '🪳Cockroach',
+      collapsible: true,
+      children: [
+        '/devops/cockroach/README.md',
+        '/devops/cockroach/query.md',
+        '/devops/cockroach/references.md',
+      ]
+    }, {
+      text: 'Altibase',
+      collapsible: true,
+      icon: 'iconfont icon-altibase',
+    children: [
+        '/devops/altibase/README.md',
+        '/devops/altibase/query.md',
+        '/devops/altibase/references.md',
+      ]
+    }, {
+      text: 'Tibero',
+      collapsible: true,
+      icon: 'fas fa-magnifying-glass',
+      children: [
+        '/devops/tibero/README.md',
+        '/devops/tibero/tibero.md',
+      ]
+    },
+    //endregion
   ],
   '/projects/': [
     {

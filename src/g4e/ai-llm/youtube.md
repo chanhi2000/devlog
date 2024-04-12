@@ -36,5 +36,7 @@ tag:
 <MyYouTubeItems jsonName="yu-reps" /><!-- Marco Reps -->
 <MyYouTubeItems jsonName="yu-ringring_creator" /><!-- RingRing -->
 <MyYouTubeItems jsonName="yu-YangCom2014" /><!-- 양컴 -->
+<MyYouTubeItems jsonName="yu-Andytizer" /><!-- Andrew Tsai -->
+<MyYouTubeItems jsonName="yu-aipapersacademy" /><!-- AI Papers Academy -->
 
 <TagLinks/>

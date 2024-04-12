@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/pz7L60DZW8X1KubFhuKe7a_fxNPXAOfsDn1KZ4VK9jETvenZ2OKW_J8L7UGheEZsyqo9682IjfI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "twNT4iRUtRo", "title": "Props 실습편 [ 리액트 (React + Typescript) ]" },
+    { "id": "7UbUUN9U7r0", "title": "State 이론편 [ 리액트 (React + Typescript) ]" },
+    { "id": "Zf-kqnV7wjI", "title": "State 실습편 [ 리액트 (React + Typescript) ]" },
+    { "id": "DmcXRuQlfy4", "title": "Context API 이론편 [ 리액트 (React + Typescript) ]" },
+    { "id": "-Pf0IV6j1yU", "title": "A/S 영상! Spring Boot 3 업데이트 및 Swagger(Open API) 라이브러리 변경 [ 스프링 부트 (Spring Boot) ]" },
     { "id": "xDijrW_dzpc", "title": "프로젝트 구조 살펴보기 [ 리액트 (React + Typescript) ]" },
     { "id": "W1a3GtN7Ti0", "title": "Yarn 패키지 매니저 적용하기 [ 리액트 (React + Typescript) ]" },
     { "id": "zDsIrJK7Cq8", "title": "포토샵 AI 기능 사용해 보기 [ 리뷰 (Review) ]" },

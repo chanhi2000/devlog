@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/C_gAF421iSd-dgT0f5QXzT52XNMbqPcwyNYyketDh4zk8AYAH5N3LBynwyv_WVcB1bbYLy6Qpw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fBRgw5dyBd4", "title": "Docker Networking Tutorial (Bridge - None - Host - IPvlan - Macvlan - Overlay)" },
+    { "id": "-6Xc2_IOh-0", "title": "What Is a Graph Database? (Animated + Practice)" },
+    { "id": "b_O501x_F68", "title": "What is a Reverse Proxy? (vs. Forward Proxy) | Proxy servers explained" },
     { "id": "LuTzJZwMLUQ", "title": "What Is a Graph Database?" },
     { "id": "F4U1KsTnVyQ", "title": "Kubernetes Architecture" },
     { "id": "IsgRatCefVc", "title": "Apache Kafka Architecture" },

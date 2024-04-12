@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "MickeyPedia",
+    "name": "미키피디아",
+    "profile": "https://yt3.googleusercontent.com/SRPnoSFWlvDCbJ-lZKt7BP0fIHM8k-IJNCguwQqgKtpug8upMeiMXwg_k_jl2N-rG5sP6iIe_sE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YPp78Bypr1urcR_5a8Z9Qx4kpZg-F_8WSmdTYlJQQ4Hc1xCvmMQjtsv9tIaWEWXozP9RudtSdRE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LqVaMCvZ4wc", "title": "🌜갓생 직장인이 되는 나이트 루틴! 오늘부터 해보세요 (feat.스킨수티컬즈)" },
+    { "id": "cVXMfA7PtQM", "title": "🎓지원 준비부터 커리어 업글까지! 대학원 유학이 도움되는 이유 (feat.합격 에세이 공개)" }
+  ]
+}

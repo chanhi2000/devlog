@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/D0zJGrt0X-2CCvS1enIVEU0PlcbVCGSrHd2udgk7WHvnABGkvD9VrIccLsu-lFXJYw-HbCZj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "E8ilDMg7Dak", "title": "How to Deploy .NET Apps to Kubernetes" },
+    { "id": "nFU-hcHyl2s", "title": "Getting Started with OpenTelemetry in .NET" },
+    { "id": "1oeMTz7LwrU", "title": "The Ultimate .NET Developer Roadmap in 2024" },
+    { "id": "IRPCv_QUJvI", "title": "“.NET 9 Is Killing MediatR, MassTransit & Wolverine!”" },
+    { "id": "1gWzE9SIGkQ", "title": "“Turn All Your Enums Into Bytes Now!” | Code Cop 14" },
+    { "id": "8xw5KM8AJHY", "title": "“Stop Using Good Names in Your Code” | Code Cop #015" },
+    { "id": "K3aByK0Wgh8", "title": "I messed up. I'm sorry." },
+    { "id": "0WR-6JlyANE", "title": "\"Stop Wasting Memory on Strings in C#!\" | Code Cop #016" },
     { "id": "55_E5m-YBpU", "title": "The Magic of Breaking Down Your Types in C#" },
     { "id": "kd4Bb9Ijlf8", "title": "What’s Behind Your App’s .NET Requests?" },
     { "id": "pWkTMIOcOgY", "title": "Microsoft Is Abandoning C# for Rust! Now What?" },

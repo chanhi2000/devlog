@@ -40,5 +40,7 @@ tag:
 <MyYouTubeItems jsonName="yu-TutorialsPoint_" /><!-- Tutorialspoint -->
 <MyYouTubeItems jsonName="yu-craftsman-mentality" /><!-- 크래프트맨 멘탈리티 -->
 <MyYouTubeItems jsonName="yu-Homgwart" /> <!-- 홈페이지마법사 -->
+<MyYouTubeItems jsonName="yu-rc_codex" /><!-- rccodex -->
+<MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
 
 <TagLinks />

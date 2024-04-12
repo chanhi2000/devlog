@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "aipapersacademy",
+    "name": "AI Papers Academy",
+    "profile": "https://yt3.googleusercontent.com/FEtBvhtkQIiXklBtO8UU57GsC5ezDiWMyRnoYqNs4o04OFpUvBZWApLV8VJXXQ-IUxSBIf6w6A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uitDlUnlXNXeMwUqnroXePbD6aWnCtRBjQiTjxXUlpextHgxe2NyyqIFAmIb4OsK4Q6wJdqF=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZpxQec_3t38", "title": "The Era of 1-bit LLMs by Microsoft | AI Paper Explained" },
+    { "id": "lmPdcTsy9rM", "title": "Stealing Part of a Production Language Model | AI Paper Explained" }
+  ]
+}

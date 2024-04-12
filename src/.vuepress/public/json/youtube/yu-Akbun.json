@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "iyLChKT47J4", "title": "AWS IPv6 to IPv4 통신방법" },
+    { "id": "iw9dQUhV9rE", "title": "IPv6 소켓 프로그래밍" },
+    { "id": "y6_NIvQ7hmA", "title": "EKS IPv6 생성방법" },
+    { "id": "PLcUIx1cRaY", "title": "EKS IPv6 VPC CNI 특징" },
+    { "id": "3c78BQ3inxM", "title": "EKS IPv6 pod간 통신 원리" },
+    { "id": "ieH-jTYRvPA", "title": "EKS IPv6 IPv4통신 원리" },
     { "id": "iJv0v1Lcj2Y", "title": "karpenter 인스턴스 후보 옵션 설정(Nodepool)" },
     { "id": "fufHHLTpVLI", "title": "Ansible task 실행실패 동작" },
     { "id": "hh3K9if2-2U", "title": "Ansible collection과 mysql 유저 생성 예제" },

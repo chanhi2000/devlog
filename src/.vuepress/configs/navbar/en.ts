@@ -82,7 +82,7 @@ export const navbarEn = navbar([
         text: 'Maven',
         link: '/g4e/lang-maven/README.md',
         icon: 'iconfont icon-maven',
-    }, {
+      }, {
         text: 'Java',
         link: '/g4e/lang-java/README.md',
         icon: 'fa-brands fa-java'
@@ -94,7 +94,11 @@ export const navbarEn = navbar([
         text: 'Android',
         link: '/g4e/lang-java-android/README.md',
         icon: 'fa-brands fa-android'
-      },  {
+      }, {
+        text: 'Kafka',
+        link: '/g4e/lang-java-kafka/README.md',
+        icon: 'iconfont icon-apachekafka',
+      }, {
         text: 'Swift',
         link: '/g4e/lang-swift/README.md',
         icon: 'fa-brands fa-swift',
@@ -174,6 +178,183 @@ export const navbarEn = navbar([
         text: 'LaTeX',
         link: '/g4e/lang-latex/README.md',
         icon: 'iconfont icon-tex',
+      }
+    ]
+  }, {
+    text: '',
+    icon: 'fas fa-cubes-stacked',
+    children: [ 
+      {
+        text: 'DevOps',
+        icon: 'fas fa-cubes-stacked',
+        link: '/devops/README.md',
+      }, {
+        text: 'Git',
+        icon: 'iconfont icon-git',
+        link: '/devops/git/README.md',
+      }, {
+        text: 'Github',
+        icon: 'fa-brands fa-github',
+        link: '/devops/github/README.md',
+      }, {
+        text: 'Gitlab',
+        icon: 'fa-brands fa-gitlab',
+        link: '/devops/gitlab/README.md',
+      }, {
+        text: 'Linux',
+        icon: 'fa-brands fa-linux',
+        link: '/devops/linux/README.md',
+      }, {
+        text: 'macOS',
+        icon: 'iconfont icon-macos',
+        link: '/devops/macos/README.md',
+      }, {
+        text: 'Windows',
+        icon: 'fa-brands fa-windows',
+        link: '/devops/windows/README.md',
+      }, {
+        text: 'oVirt',
+        icon: 'fas fa-cubes',
+        link: '/devops/ovirt/README.md',
+      }, {
+        text: 'Docker',
+        icon: 'fa-brands fa-docker',
+        link: '/devops/docker/README.md',
+      }, {
+        text: 'Podman',
+        icon: 'iconfont icon-podman',
+        link: '/devops/podman/README.md',
+      }, {
+        text: 'Kubernetes',
+        icon: 'fas fa-dharmachakra',
+        link: '/devops/kubernetes/README.md',
+      }, {
+        text: 'Openshift',
+        icon: 'fa-brands fa-redhat',
+        link: '/devops/openshift/README.md',
+      }, {
+        text: 'AWS',
+        icon: 'fa-brands fa-aws',
+        link: '/devops/aws/README.md',
+      }, {
+        text: 'Azure',
+        icon: 'iconfont icon-microsoftazure',
+        link: '/devops/azure/README.md',
+      }, {
+        text: 'Security',
+        icon: 'fas fa-shield-halved',
+        link: '/devops/security/README.md',
+      }, {
+        text: 'HTTP',
+        icon: 'iconfont icon-http',
+        link: '/devops/protocol-http/README.md',
+      }, {
+        text: 'Jenkins',
+        icon: 'fa-brands fa-jenkins',
+        link: '/devops/jenkins/README.md',
+      }, {
+        text: 'Appium',
+        icon: 'iconfont icon-appium',
+        link: '/devops/appium/README.md',
+      }, {
+        text: 'Nexus Repository',
+        icon: 'fas fa-kaaba',
+        link: '/devops/nexus/README.md',
+      }, {
+        text: 'Selenium',
+        icon: 'iconfont icon-selenium',
+        link: '/devops/selenium/README.md',
+      }, {
+        text: '🦖JEUS',
+        link: '/devops/jeus/README.md',
+      }, {
+        text: 'WebtoB',
+        icon: 'fas fa-sailboat',
+        link: '/devops/webtob/README.md',
+      }, {
+        text: 'NGINX',
+        icon: 'iconfont icon-nginx',
+        link: '/devops/nginx/README.md',
+      }, 
+      //endregion
+      //region: DB
+      {
+        text: 'MySQL',
+        icon: 'iconfont icon-mysql',
+        link: '/devops/mysql/README.md',
+      }, {
+        text: 'Oracle SQL',
+        icon: 'iconfont icon-oracle',
+        link: '/devops/oracle/README.md',
+      }, {
+        text: 'Microsoft SQL Server',
+        icon: 'iconfont icon-sqlserver',
+        link: '/devops/mssql/README.md',
+      }, {
+        text: 'Cubrid',
+        icon: 'iconfont icon-cubrid',
+        link: '/devops/cubrid/README.md',
+      }, {
+        text: 'PostgreSQL',
+        icon: 'iconfont icon-postgresql',
+        link: '/devops/postgres/README.md',
+      }, {
+        text: 'Django',
+        icon: 'iconfont icon-django',
+        link: '/devops/django/README.md',
+      }, {
+        text: '🪳Cockroach',
+        link: 'devops/django/README.md',
+      }, {
+        text: 'Altibase',
+        icon: 'iconfont icon-altibase',
+        link: '/devops/altibase/README.md',
+      }, {
+        text: 'Tibero',
+        icon: 'fas fa-magnifying-glass',
+        link: '/devops/tibero/README.md',
+      },
+    ],
+  }, {
+    text: '',
+    icon: 'fas fa-screwdriver-wrench',
+    children: [ 
+      {
+        text: 'Tool',
+        icon: 'fas fa-screwdriver-wrench',
+        link: '/tool/README.md',
+      }, {
+        text: 'Dracula',
+        icon: 'iconfont icon-vampire-dracula',
+        link: '/tool/dracula/README.md',
+      }, {
+        text: 'Intellij Idea',
+        icon: 'iconfont icon-intellijidea',
+        link: '/tool/intellij-idea/README.md',
+      },{
+        text: 'VSCode',
+        icon: 'iconfont icon-vscode',
+        link: '/tool/vscode/README.md',
+      }, {
+        text: 'Sublime Text',
+        icon: 'iconfont icon-sublimetext',
+        link: '/tool/sublimetext/README.md',
+      }, {
+        text: 'DBeaver',
+        icon: 'iconfont icon-dbeaver',
+        link: '/tool/dbeaver/README.md',
+      }, {
+        text: 'Excel',
+        icon: 'iconfont icon-microsoftexcel',
+        link: '/tool/excel/README.md',
+      }, {
+        text: 'Chrome Browser',
+        icon: 'fa-brands fa-chrome',
+        link: '/tool/googlechrome/README.md',
+      }, {
+        text: 'Notion',
+        icon: 'iconfont icon-notion',
+        link: '/tool/notion/README.md',
       }
     ]
   }, {

@@ -374,5 +374,10 @@
     "desc": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.",
     "officialSite": "https://atlasos.net",
     "topics": ["atlas", "atlasos", "debloat", "fps", "gaming", "latency", "open-source", "opensource", "performance", "privacy", "security", "tweaks", "windows"]
+  }, {
+    "repo": "getlago/lago",
+    "desc": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+    "officialSite": "https://www.getlago.com",
+    "topics": ["analytics", "billing", "clickhouse", "fintech", "invoices", "metering", "open-source", "payments", "pricing", "pricing-data-science", "react", "ruby", "self-hosted", "subscriptions", "usage-based-billing"]
   }
 ]

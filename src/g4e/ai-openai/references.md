@@ -321,6 +321,7 @@ tag:
 ## 김태영의 케라스 블로그
 
 - [Gemma 온디바이스 탑재 - 웹브라우저편](https://tykimos.github.io/2024/04/02/gemma_ondevice_webbrowser_fast_execute/)
+- [소스코드 생성 전용 - CodeGemma 시작하기](https://tykimos.github.io/2024/04/10/getting_started_with_codegemma/)
 
 ---
 

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "frontendfyi",
+    "name": "Frontend FYI",
+    "profile": "https://yt3.googleusercontent.com/OQG9lFq0RJyHallz6FNTBci2AcwcggXPTyK3XuUnva5Xhb-HNoREkw8znutLSBJey2b8zzHkKQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2bRBnSV5BLe-UOCtJHINs09a5gEUed6HwCrUsF57oHSH6tgR0kpJIRthtYnSElMfX3TmhB6EQw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hxXZG6U9Yjw", "title": "Tailwind CSS V4: A first look –SO Good!" },
+    { "id": "TmelPbKsFWo", "title": "How I Rebuilt This Apple TV+ Page With Framer Motion And TailwindCSS" },
+    { "id": "B_S70wXI9QE", "title": "Building a landing page for Cal.com with Tailwind and NextJS" }
+  ]
+}

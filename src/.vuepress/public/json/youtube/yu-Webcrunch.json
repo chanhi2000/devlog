@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/D8fhq001Aiaw3GF7roX6tesMz2f9YegrpzuVxDUirXHrczb3HWt1I7THi5z2TJJs5mZ4g578jJw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "w7UzwO673Gg", "title": "Should you use Ruby on Rails in 2024?" },
+    { "id": "dxu7OeEnp6A", "title": "Easy String Normalization with Rails" },
+    { "id": "x4wZXxAL2Ig", "title": "Avoid these 9 mistakes when learning Ruby on Rails" },
     { "id": "Jaa1reWjsqA", "title": "Rails UI Update - Shepherd theme launch" },
     { "id": "Pf3Kpbb4ZHg", "title": "How to Add Live Reload to Your Rails Application" },
     { "id": "h_xmLBxS5SA", "title": "Create a Responsive Tailwind Navbar with Dropdowns" },

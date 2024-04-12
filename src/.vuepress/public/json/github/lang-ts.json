@@ -2588,5 +2588,10 @@
     "desc": "",
     "officialSite": "https://daily-code-web.vercel.app",
     "topics": []
+  }, {
+    "repo": "code100x/cms",
+    "desc": "",
+    "officialSite": "https://cms-qrlx.vercel.app",
+    "topics": []
   }
 ]

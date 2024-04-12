@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/NR7mt68maaOHV0rxr6_XiSzaW0yziFd6uvUGQMBg1tICGHR0NFSLWa3UAsk7N2-NgmxDezuk4A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VenLRGHx3D4", "title": "State Managers Are Making Your Code Worse In React" },
+    { "id": "cTu9-C2rd-0", "title": "Is Drizzle Really Better Than Prisma?" },
+    { "id": "iqrgggs0Qk0", "title": "Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind" },
+    { "id": "7-NZ0MlPpJA", "title": "Learn Drizzle In 60 Minutes" },
     { "id": "rGPpQdbDbwo", "title": "React Server Components Change Everything" },
     { "id": "a6IIhwZv4ls", "title": "How To Actually Get Hired In 2024" },
     { "id": "9S6ILGBs4OE", "title": "Do You Know All 63 HTTP Status Codes?" },

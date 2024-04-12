@@ -162,7 +162,7 @@ tag:
 - [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
 - [`this-is-learning` - Hono vs. H3 vs. HatTip vs. Elysia - modern server(less) replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
 - [`this-is-learning` - WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
-- 
+
 ---
 
 ## velog
@@ -187,7 +187,8 @@ tag:
 - [`@kyj2471` - 에어브릿지 적용기](https://velog.io/@kyj2471/%EC%97%90%EC%96%B4%EB%B8%8C%EB%A6%BF%EC%A7%80-%EC%A0%81%EC%9A%A9%EA%B8%B0)
 - [`@kyj2471` - 트레져데이터](https://velog.io/@kyj2471/%ED%8A%B8%EB%A0%88%EC%A0%B8%EB%8D%B0%EC%9D%B4%ED%84%B0)
 - [`@sehyunny` - (번역) 자바스크립트 시각화하기 : 프로미스 실행](https://velog.io/@sehyunny/js-visualized-promise-execution)
-
+- [`@juhee067` - `/channels`와 `/channels/:id`에서 생긴 문제](https://velog.io/@juhee067/GET%EC%9A%94%EC%B2%AD%EC%97%90-Body-%EA%B0%92-%EC%A0%84%EB%8B%AC)
+- [`@surim014` - [번역] 재미와 이익을 위한 자바스크립트 최적화](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit)
 ---
 
 ## Webkit

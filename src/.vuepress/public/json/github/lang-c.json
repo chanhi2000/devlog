@@ -899,5 +899,10 @@
     "desc": "A fast TCP/UDP tunnel over HTTP",
     "officialSite": "",
     "topics": ["golang", "http", "tcp", "tunnel"]
+  }, {
+    "repo": "Tencent/wcdb",
+    "desc": "WCDB is a cross-platform database framework developed by WeChat.",
+    "officialSite": "",
+    "topics": ["android", "database", "ios", "linux", "macos", "sqlcipher", "sqlite", "wechat", "windows"]
   }
 ]

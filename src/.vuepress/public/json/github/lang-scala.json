@@ -44,5 +44,10 @@
     "desc": "A code-golfing language experience that has aspects of traditional programming languages - terse, elegant, readable.",
     "officialSite": "https://vyxal.github.io/",
     "topics": ["array-language", "arrays", "code-golf", "conciseness", "esolang", "esoteric-language", "esoteric-programming-language", "experience", "fractional-bytes", "golfing", "golfing-language", "powered-by-copilot", "programming-language", "python", "readability", "stack-based", "stack-based-language", "vyxal"]
+  }, {
+    "repo": "airbnb/chronon",
+    "desc": "Chronon is a data platform for serving for AI/ML applications.",
+    "officialSite": "",
+    "topics": ["ai", "ml"]
   }
 ]

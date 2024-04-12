@@ -38,6 +38,8 @@ tag:
 <MyYouTubeItems jsonName="yu-JavaHomeCloud" /><!-- Java Home Cloud -->
 <MyYouTubeItems jsonName="yu-iVish" /><!-- iVish -->
 <MyYouTubeItems jsonName="yu-lukemiani" /><!-- Luke Miani -->
+<MyYouTubeItems jsonName="yu-CraftComputing" /><!-- Craft Computing -->
+<MyYouTubeItems jsonName="yu-element14presents" /><!-- element14 presents -->
 
 <TagLinks />
 

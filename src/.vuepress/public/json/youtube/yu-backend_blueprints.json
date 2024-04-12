@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "backend_blueprints",
+    "name": "Backend Blueprints",
+    "profile": "https://yt3.googleusercontent.com/dsZuc4OUSxmfujeeBLbp_JKAUlpxW8ETaouNWCSA2wIAAHCYNkOpYE7qg1XZuC09wCOSVnArhw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "JSNdFhXgUcg", "title": "Designing tic tac toe in Golang" }
+  ]
+}

@@ -2154,5 +2154,10 @@
     "desc": "Open source ngrok alternative designed for teams",
     "officialSite": "https://portr.dev",
     "topics": ["cli", "developer-tools", "golang", "http", "ngrok-alternative", "open-source", "python", "reverse-tunnel", "shadcn-svelte", "ssh-tunnel", "svelte", "tcp", "tunneling"]
+  }, {
+    "repo": "google/zx",
+    "desc": "A tool for writing better scripts",
+    "officialSite": "https://google.github.io/zx/",
+    "topics": ["bash", "cli", "javascript", "nodejs", "shell"]
   }
 ]

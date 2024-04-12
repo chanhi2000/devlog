@@ -95,6 +95,7 @@ tag:
 ## QAing
 
 - [기업에서 QA담당자들이 일하는 방법](https://blog.qaing.co/qaprocess)
+- [스타트업에서 올바른 아이디어를 발견하고 검증하는 방법](https://blog.qaing.co/startupidea)
 
 ---
 
@@ -169,6 +170,7 @@ tag:
 - [자투리 시간의 활용](https://blog.naver.com/cybervictor008/223406340741?)
 - [Unix를 알아야 하는 이유(?)](https://blog.naver.com/cybervictor008/223404547371?)
 - [감정 이입](https://blog.naver.com/cybervictor008/223408992830?)
+- [보여주기 위한 삶?](https://blog.naver.com/cybervictor008/223411369171?)
 
 ---
 
@@ -247,6 +249,7 @@ tag:
 
 - [과소평가, 과대평가 – 기술](https://www.thestartupbible.com/2024/04/things-we-overestimate-and-underestimate-technology.html)
 - [소명과 책임](https://www.thestartupbible.com/2024/04/on-the-calling-of-a-vc.html)
+- [피드백에 대해](https://www.thestartupbible.com/2024/04/is-your-vc-giving-you-feedback-on-rejection.html)
 
 ---
 
@@ -283,6 +286,7 @@ tag:
 ## 파랑새
 
 - [풀지 못한 프로그래머의 생산성 문제](https://blog.naver.com/birdparang/223402009011?)
+- [실마리 프로그램, 그리고 다시 생각나는 풀 스택 개발자 논쟁](https://blog.naver.com/birdparang/223411456071?)
 
 ---
 
@@ -340,12 +344,6 @@ tag:
 
 ---
 
-## THE STARTUP BIBLE
-
-- [과소평가, 과대평가 – 사람](https://www.thestartupbible.com/2024/04/things-we-overestimate-and-underestimate-people.html)
-
----
-
 ## AB180 엔지니어링 베이스
 
 - [동일한 비용으로 리포트 요청 10배 처리하기](https://engineering.ab180.co/stories/improve-performance-airbridge-report-worker)
@@ -355,6 +353,8 @@ tag:
 ## sosolog
 
 - [디자인 시스템, 코드를 넘어서](https://so-so.dev/react/design-system-beyond-code/)
+
+
 
 ---
 

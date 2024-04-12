@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/-6N5B2iQmpRDyXaWz3b16DMTQ9kQ8aVJ6zlXYGcYfH92ZRK_gc17gbGWB1s36y-q9FdFKCwq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ra5kMCXO-6I", "title": "Automate Your Development Environment Setup with Scripts and Dotfiles" },
     { "id": "jRAAaDll34Q", "title": "How to Use ChatGPT as a Powerful Tool for Programming" }
   ]
 }

@@ -4810,11 +4810,6 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "paul-gauthier/aider",
-    "desc": "aider is AI pair programming in your terminal",
-    "officialSite": "https://aider.chat/",
-    "topics": ["chatgpt", "cli", "command-line", "gpt-3", "gpt-35-turbo", "gpt-4", "openai"]
-  }, {
     "repo": "google-deepmind/recurrentgemma",
     "desc": "Open weights language model from Google DeepMind, based on Griffin.",
     "officialSite": "",
@@ -4824,5 +4819,20 @@
     "desc": "Making some cool pfps 👩‍🎤",
     "officialSite": "",
     "topics": ["face-recognition", "glitch-art", "lens", "pixelsort"]
+  }, {
+    "repo": "nus-apr/auto-code-rover",
+    "desc": "A project structure aware autonomous software engineer aiming for autonomous program improvement",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "liguodongiot/llm-action",
+    "desc": "本项目旨在分享大模型相关技术原理以及实战经验。",
+    "officialSite": "https://www.zhihu.com/column/c_1456193767213043713",
+    "topics": ["llm", "llm-inference", "llm-serving", "llm-training", "llmops"]
+  }, {
+    "repo": "Filimoa/open-parse",
+    "desc": "Improved file parsing for LLM’s",
+    "officialSite": "https://filimoa.github.io/open-parse/",
+    "topics": ["document-parser", "document-structure", "layout-parsing", "table-detection"]
   }
 ]

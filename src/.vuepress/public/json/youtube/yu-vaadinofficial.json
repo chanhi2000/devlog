@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/cUc68B9FqXJnFL9T-o74Xuexs5AvGs1PiJxVn9cVyoRFNsAmAzl79aPI5pAcBaXjvobnmn6hew=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZrXphwkhSRA", "title": "Hilla: The Full-stack Web App Solution for Java Developers" },
     { "id": "WhUqfLA2Htw", "title": "What if Java developers could build web apps without touching JavaScript? 🤔" },
     { "id": "fUxSZavRCjs", "title": "Thinking in React Signals" },
     { "id": "PwR-oxV8l4U", "title": "Extend your pure Java experience to the persistence layer with EclipseStore" },

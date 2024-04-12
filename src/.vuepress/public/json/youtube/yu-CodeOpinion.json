@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/MTcKhVE2NDL8DoS5h3M0nbEX7qwFV6aT7EY_o9o0lkgTkxBOkVxQvjcJV6SOJsyudO_gXmeJIFU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "q07FkWjtbAY", "title": "Stop leaking and implying logic in your Frontend" },
+    { "id": "6WMrfGRf9UA", "title": "\"Serverless sucks!\"... or does it?" },
+    { "id": "HKspPiCGE2E", "title": "Event Sourcing Core Concepts" },
     { "id": "QoK7jSZ-viw", "title": "Enums aren't evil. Conditionals everywhere are" },
     { "id": "HrVfw7vs8ho", "title": "Tips for Production Ready Database (Query) Design" },
     { "id": "2yUnY61zdAk", "title": "Avoiding long running HTTP API requests." },

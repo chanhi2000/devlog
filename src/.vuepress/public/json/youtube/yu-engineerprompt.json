@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/65qv-IUJXhEcwd2WLDJ3gXqcAk6fkIceYxvKUII7Gz1rBeHiOt4L2JQwqhvvAYv5wEC1ucsj=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ws0xZCBQNoA", "title": "Ultra Fast LocalGPT inference with Groq API" },
+    { "id": "1bbDH3kyf9I", "title": "How to Set the Chunk Size in Document Splitter | RAG | LangChain" },
+    { "id": "B-lIqtgAUK0", "title": "Gemini 1.5 Pro - Coding Assistant with 1M tokens" },
+    { "id": "5fmfCtA7WqE", "title": "Grok-1 is Open Source | All you need to know!!!" },
+    { "id": "xTzUn3G9YA0", "title": "Supercharge Your RAG with Contextualized Late Interactions" },
+    { "id": "eLiMpEIRBzY", "title": "Introducing DEVIKA - OpenSource AI Software Engineer | Local Install" },
+    { "id": "oGpCws0R9WU", "title": "OpenAI Voice Engine - Realistic Voice Cloning" },
+    { "id": "kEgeegk9iqo", "title": "Advanced RAG with ColBERT in LangChain and LlamaIndex" },
+    { "id": "nrW__jof8pg", "title": "SWE-Agent: The New Open Source Software Engineering Agent Takes on DEVIN" },
+    { "id": "fDErWDOT4XE", "title": "Claude 3 Introduces Function Calling and Tool Usage" },
     { "id": "v_eykfyGfWE", "title": "First local LLM to Beat GPT-4 on Coding | Codellama-70B" },
     { "id": "r2m9DbEmeqI", "title": "Better RAG: Hybrid Search in Chat with Documents | BM25 and Ensemble" },
     { "id": "hOqQR7abKtE", "title": "OpenAI's SORA Text to Video Model is Absurd" },

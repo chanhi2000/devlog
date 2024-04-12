@@ -138,5 +138,6 @@ tag:
 <MyYouTubeItems jsonName="yu-KodapsAcademy" /><!-- Kodaps Academy -->
 <MyYouTubeItems jsonName="yu-alejandro_ao" /><!-- Alejandro AO - Software & Ai -->
 <MyYouTubeItems jsonName="yu-encord" /><!-- Encord -->
+<MyYouTubeItems jsonName="yu-DigitalMirrorComputing" /><!-- Digital Mirror -->
 
 <TagLinks />
