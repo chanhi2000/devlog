@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/WVJZAjZwxJ-225NMqrz8FBuZaDZPOa0jYbF_HXVTcC9SKykGdAVgP1uCOKCL01xELI5uifT3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JCwuFK9Fo5o", "title": "[New 2024] Vue3 Tutorial - 양방향 데이터 바인딩 v-model" },
+    { "id": "9lWaIhE05m8", "title": "2024 Vue.js 개발 가이드 - Full Course (feat. Composition API)" },
+    { "id": "67wGRZiBp5I", "title": "[New 2024] React Tutorial - 교육과정 소개" },
+    { "id": "pFWw2bBwz7Y", "title": "[New 2024] React Tutorial - 프로젝트 환경설정" },
+    { "id": "I7Ol06BtwXY", "title": "[New 2024] React Tutorial - 리액트 라우터 설정 및 동적 페이지 라우팅" },
+    { "id": "BUiZm8sGhxU", "title": "[New 2024] React Tutorial - 퍼블리싱 CSS 모듈 Scoped" },
+    { "id": "CO043YOqFzQ", "title": "[New 2024] React Tutorial - 공통 컴포넌트 Header 작업" },
+    { "id": "8QIirpNn6w4", "title": "[New 2024] React Tutorial - 공통 컴포넌트 Search Bar 작업" },
+    { "id": "ojKAlyLxaQk", "title": "[New 2024] React Tutorial - useState를 활용한 UI 반복생성" },
+    { "id": "xLbIBwctGZ8", "title": "[New 2024] React Tutorial - 공통 컴포넌트 Search Bar 작업" },
+    { "id": "e78UZFZZ1mM", "title": "[New 2024] React Tutorial - 데이터 Props & 데이터 바인딩" },
+    { "id": "9HxWIgJwhvQ", "title": "[New 2024] React Tutorial - 오픈 API 통신 및 호출하기" },
     { "id": "tPr0fslSEhY", "title": "[New 2024] Vue3 Tutorial - 이벤트핸들링" },
     { "id": "-2q8qOPWgxc", "title": "[New 2024] Vue3 Tutorial - Computed" },
     { "id": "UeUWJ5fYTyc", "title": "[New 2024] Vue3 Tutorial - Watch" },

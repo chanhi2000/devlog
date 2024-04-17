@@ -1,12 +1,14 @@
 ---
 lang: ko-KR
-title: Linux
-description: Linux
-icon: fa-brands fa-linux
+title: Linux - Debain
+description: Linux - Debain
+icon: fa-brands fa-debian
 category:
   - Linux
+  - Debian
 tag:
   - linux
+  - debian
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -17,7 +19,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/devops/linux/" />
+<ToCLocal basePath="/devops/debian/" />
 
 ---
 

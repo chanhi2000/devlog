@@ -190,6 +190,7 @@ tag:
 - [`@juhee067` - `/channels`와 `/channels/:id`에서 생긴 문제](https://velog.io/@juhee067/GET%EC%9A%94%EC%B2%AD%EC%97%90-Body-%EA%B0%92-%EC%A0%84%EB%8B%AC)
 - [`@surim014` - [번역] 재미와 이익을 위한 자바스크립트 최적화](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit)
 - [`@juhee067` - [오류해결] CJS 특징으로 인한 모듈 오류](https://velog.io/@juhee067/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0-CJS-%ED%8A%B9%EC%A7%95%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EB%AA%A8%EB%93%88-%EC%98%A4%EB%A5%98)
+- [`@9rganizedchaos` - Tanstack-Query 서버데이터 로컬스토리지에 캐싱하기 💽](https://velog.io/@9rganizedchaos/Tanstack-Query-%EC%84%9C%EB%B2%84%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80%EC%97%90-%EC%BA%90%EC%8B%B1%ED%95%98%EA%B8%B0)
 
 ---
 
@@ -870,4 +871,9 @@ tag:
 
 ---
 
+## 푸르고 개발 블로그
+
+- [[DDD] 값 객체, Value Object](https://puleugo.tistory.com/186)
+
+---
 <TagLinks />

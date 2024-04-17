@@ -379,5 +379,10 @@
     "desc": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
     "officialSite": "https://www.getlago.com",
     "topics": ["analytics", "billing", "clickhouse", "fintech", "invoices", "metering", "open-source", "payments", "pricing", "pricing-data-science", "react", "ruby", "self-hosted", "subscriptions", "usage-based-billing"]
+  }, {
+    "repo": "bitnami/containers",
+    "desc": "Bitnami container images",
+    "officialSite": "https://bitnami.com",
+    "topics": ["bitnami", "containers", "docker", "docker-image", "non-root", "vmware"]
   }
 ]

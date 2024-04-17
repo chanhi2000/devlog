@@ -1,0 +1,26 @@
+---
+lang: ko-KR
+title: Youtube
+description: Proxmox > Youtube
+icon: fa-brands fa-youtube
+category:
+  - Proxmox
+  - VM
+  - Youtube
+tag:
+  - vm
+  - virtual-machine
+  - proxmox
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+<MyYouTubeItems jsonName="yu-HarveysVE" /><!-- Harvey’s Virtual Environment -->
+
+---
+
+<TagLinks />

@@ -4854,5 +4854,20 @@
     "desc": "AI 영한-한영 번역기, 도다리 en-ko/ ko-en AI translator",
     "officialSite": "https://moonlit.himion.com",
     "topics": ["ai", "tanslation"]
+  }, {
+    "repo": "1Panel-dev/MaxKB",
+    "desc": "💬  基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+    "officialSite": "",
+    "topics": ["1panel", "gpt", "llm", "maxkb", "ollama", "openai"]
+  }, {
+    "repo": "aixcoder-plugin/aiXcoder-7B",
+    "desc": "official repository of aiXcoder-7B Code Large Language Model",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "intuitem/ciso-assistant-community",
+    "desc": "CISO Assistant is an open-source one-stop-shop for GRC - Risk and Audit Management supporting multiple standards: NIST CSF, ISO 27001, NIS2, SOC2, PCI DSS, CMMC, PSPF, GDPR, HIPAA, Essential Eight, DFS-500, DORA, NIST AI RMF, CyFun, AirCyber and more",
+    "officialSite": "https://intuitem.com",
+    "topics": ["ai-risk", "audit", "cmmc", "compliance", "csf", "cybersecurity", "dora", "gdpr", "grc", "hipaa", "iso-27001", "nis2", "nist", "open-source", "owasp", "pci-dss", "privacy", "pspf", "risk", "soc2"]
   }
 ]

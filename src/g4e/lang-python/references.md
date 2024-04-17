@@ -456,7 +456,8 @@ tag:
 ## [ 프로페셔널 프로그래머 ]
 
 - [[ Python By Example #02 ]](https://blog.naver.com/cybervictor008/223397016205)
-
+- [[ Python By Example #05 ]](https://blog.naver.com/cybervictor008/223416453972?)
+- 
 ---
 
 ## Codeit;
@@ -586,6 +587,24 @@ tag:
 ## solaqualog
 
 - [`poetry`와 github actions를 활용한 파이썬 라이브러리 배포 자동화](https://sjquant.tistory.com/97)
+
+---
+
+## ISciNumPy.dev
+
+- [Should You Use Upper Bound Version Constraints?](https://iscinumpy.dev/post/bound-version-constraints/)
+
+---
+
+## oso
+
+- [Authorization is still a nightmare for engineers: Launching Distributed Authorization](https://www.osohq.com/post/distributed-authorization)
+
+---
+
+## kciter.so
+
+- [비밀 관리를 위한 금고 시스템 만들기](https://kciter.so/posts/encrypted-vault-system)
 
 ---
 

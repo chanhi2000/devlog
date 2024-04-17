@@ -71,6 +71,10 @@ export const navbarEn = navbar([
         link: '/g4e/cli-pwsh/README.md',
         icon: 'iconfont icon-powershell',
       }, {
+        text: 'Git',
+        link: '/g4e/git/README.md',
+        icon: 'iconfont icon-git',
+      }, {
         text: 'Vim',
         link: '/g4e/cli-vim/README.md',
         icon: 'iconfont icon-vim'
@@ -189,10 +193,6 @@ export const navbarEn = navbar([
         icon: 'fas fa-cubes-stacked',
         link: '/devops/README.md',
       }, {
-        text: 'Git',
-        icon: 'iconfont icon-git',
-        link: '/devops/git/README.md',
-      }, {
         text: 'Github',
         icon: 'fa-brands fa-github',
         link: '/devops/github/README.md',
@@ -201,10 +201,6 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-gitlab',
         link: '/devops/gitlab/README.md',
       }, {
-        text: 'Linux',
-        icon: 'fa-brands fa-linux',
-        link: '/devops/linux/README.md',
-      }, {
         text: 'macOS',
         icon: 'iconfont icon-macos',
         link: '/devops/macos/README.md',
@@ -212,6 +208,18 @@ export const navbarEn = navbar([
         text: 'Windows',
         icon: 'fa-brands fa-windows',
         link: '/devops/windows/README.md',
+      }, {
+        text: 'Linux - Debian',
+        icon: 'fa-brands fa-debian',
+        link: '/devops/debian/README.md',
+      }, {
+        text: 'Proxmox',
+        icon: 'iconfont icon-proxmox',
+        link: '/devops/proxmox/README.md',
+      }, {
+        text: 'KVM',
+        icon: 'fa-brands fa-linux',
+        link: '/devops/kvm/README.md',
       }, {
         text: 'oVirt',
         icon: 'fas fa-cubes',

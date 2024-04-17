@@ -5,8 +5,10 @@ description: Podman
 icon: iconfont icon-podman
 category:
   - Podman
+  - Container
 tag:
   - podman
+  - container
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "98m-vASmU3s", "title": "UIViewAnimation : Move View right to left & left to right - iOS Swift 5" },
+    { "id": "1RvBGZ2zQvE", "title": "Build an AI Chatbot with your Custom Data in 5 minutes | Custom ChatBot with knowledgeBase|No Coding" },
+    { "id": "n0h8tKVVvOc", "title": "Safeguarding Sensitive Data in iOS Apps with Keychain Manager | Persisting Sensitive Data in Swift" },
     { "id": "qDrNDbCWss4", "title": "Text to Speech in iOS Apps | AVSpeechSynthesizer | Convert string to voice | AVKit | Swift5 _2023-24" },
     { "id": "y10znzF133Y", "title": "ARKit Full Short course in Flutter | Face Detection in ARCamera | Detect Eye motion wt/Box,Chapter:4" },
     { "id": "13DEa5RGO8k", "title": "ARKit Full Short course in Flutter | Render Custom Object in AR Camera |ARKitReferenceNode-Chapter:3" },

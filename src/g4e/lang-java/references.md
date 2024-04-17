@@ -302,6 +302,7 @@ tag:
 ### 개발하는 곰돌이
 
 - [[Kotlin] 백준 13199 : 치킨 먹고 싶다](https://colabear754.tistory.com/208)
+- [[OOP] 일급 컬렉션(First Class Collection)으로 컬렉션을 다뤄보자](https://colabear754.tistory.com/209)
 
 ### Square Lab
 

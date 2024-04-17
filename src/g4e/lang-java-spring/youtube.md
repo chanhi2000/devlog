@@ -81,5 +81,6 @@ head:
 <MyYouTubeItems jsonName="yu-MikesTechCorner" /><!-- Mike Møller Nielsen -->
 <MyYouTubeItems jsonName="yu-user-ht2jq8bg9b" /><!-- 이숭무 샘 -->
 <MyYouTubeItems jsonName="yu-systemv1968" /><!-- System V -->
+<MyYouTubeItems jsonName="yu-user-jc7ek9jk3l" /><!-- 차태진 -->
 
 <TagLinks />

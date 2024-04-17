@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/6DTM0UAarn4qXhR6dQZuxeskCOVWEdeSHUvNFreKxQL5gCO1ERTEOd_p3ec0gK5hy-kKUQRVuQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WYdWlWclApk", "title": "#12 - DropDown Handling With Playwright +Typescript" },
+    { "id": "wVLIdJNGU9c", "title": "Selenium Coding Challenge : #RedBus Calendar Scenario [Complexity : Medium]" },
+    { "id": "HJGWaggkOrg", "title": "How to Remove CDP Version Warning in Selenium" },
+    { "id": "0ujnOOCLYag", "title": "#13 - Mouse Hover in Playwright || Handle Menu - Sub Menu Items" },
+    { "id": "5Qu4kvA26UU", "title": "#14 - Mouse Clicks [Right Click, Double Click, Shift Click, Mouse Hover, Normal Click] in Playwright" },
+    { "id": "LMo_n9o6Bl0", "title": "#16 - Enter Character by Character with a Delay in a TextField || Enter Values like a User" },
+    { "id": "VE5i82IulGc", "title": "#15 - Drag and Drop With #Playwright  + Typescript" },
+    { "id": "szFgfPzpmL4", "title": "#17 - File Upload in Playwright + Typescript (Single & Multiple Files Uploading)" },
+    { "id": "3WdENxCZ-pA", "title": "#18 - Focus on an Element using Playwright + Typescript" },
+    { "id": "XHKUHeAwoRE", "title": "JetBrains Aqua Editor - Perfect IDE for Selenium, Playwright and Cypress based Projects" },
     { "id": "MuguT0A3uWI", "title": "#7 - Locators (ID, ClassName, Text, CSS Selector, XPath) in Playwright - Typescript" },
     { "id": "z9adNuIlhVQ", "title": "#8 - Data-Test-Id or Test-Data-ID - Locate by test id in Playwright+Typescript" },
     { "id": "Il8efgsiJyw", "title": "Email Testing with Mailosaur API || Fetch OTP, Email Body, To, CC, BCC, Subject, Images, Attachments" },

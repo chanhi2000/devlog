@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
 title: Environment Setup
-description: Linux > Environment Setup
+description: Linux - Debain > Environment Setup
 icon: fas fa-toolbox
 category:
   - Linux 
+  - Debain
   - Environment Setup
 tag: 
   - sh

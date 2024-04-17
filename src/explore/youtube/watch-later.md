@@ -12,7 +12,6 @@ tags:
   - "@ChrisTitusTech"
   - "@lukemiani"
   - "@NovaspiritTech"
-  - "@tongguni"
   - "@44BITSTV"
   - "@neonchang"
   - "@KevinStratvert"
@@ -59,7 +58,6 @@ tags:
 <MyYouTubeItems jsonName="yu-ChrisTitusTech" /><!-- Chris Titus Tech -->
 <MyYouTubeItems jsonName="yu-snazzy"/><!-- Snazzy Labs -->
 <MyYouTubeItems jsonName="yu-lukemiani" /><!-- Luke Miani -->
-<MyYouTubeItems jsonName="yu-tongguni" /><!-- 통구니TV -->
 <MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
 <MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
 <MyYouTubeItems jsonName="yu-KevinStratvert" /><!-- Kevin Stratvert -->

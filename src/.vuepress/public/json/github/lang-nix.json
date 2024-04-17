@@ -4,5 +4,10 @@
     "desc": "A Nix web bundler because why not",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "tvlfyi/tvix",
+    "desc": "Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix",
+    "officialSite": "",
+    "topics": []
   }
 ]

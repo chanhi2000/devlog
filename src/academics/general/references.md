@@ -263,6 +263,7 @@ tag:
 - [2021년 정보올림피아드 필기 초등부(16 ~ 20)](https://davincicoding.tistory.com/129)
 - [2020년 정보올림피아드 필기 중등부(2-4 ~ 2-8)](https://davincicoding.tistory.com/142)
 - [2020년 정보올림피아드 필기 중등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/141)
+- [2021년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/143)
 - [부동소수점 이해하기](https://davincicoding.tistory.com/144)
 
 ---

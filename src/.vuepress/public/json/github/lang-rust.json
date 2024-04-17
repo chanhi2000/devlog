@@ -516,9 +516,9 @@
     "officialSite": ""
   }, {
     "repo": "GraphiteEditor/Graphite",
-    "desc": "2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.",
-    "topics": ["art", "design", "image-processing", "procedural-drawing", "image-manipulation", "image-generation", "photo-editing", "photo-editor", "compositor", "graphic-design", "node-graph", "2d-graphics", "svg-editor", "procedural-art", "graphics-editor", "node-editor", "digital-painting", "vector-editor", "ai-art", "stable-diffusion"],
-    "officialSite": "https://graphite.rs"
+    "desc": "2D raster & vector editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+    "officialSite": "https://graphite.rs",
+    "topics": ["2d-graphics", "art", "compositor", "design", "graphic-design", "graphics-editor", "image-generation", "image-manipulation", "image-processing", "node-editor", "node-graph", "photo-editing", "photo-editor", "procedural", "procedural-art", "procedural-drawing", "svg-editor", "vector-editor"]
   }, {
     "repo": "martinvonz/jj",
     "desc": "A Git-compatible DVCS that is both simple and powerful",
@@ -1299,5 +1299,15 @@
     "desc": "Pure rust implementation of OpenPGP",
     "officialSite": "https://docs.rs/pgp",
     "topics": ["cryptography", "openpgp", "pgp", "rust"]
+  }, {
+    "repo": "tonyke-bot/ore-miner",
+    "desc": "ORE Miner built on top of Jito bundle with both CPU and GPU support.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "neondatabase/neon",
+    "desc": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",
+    "officialSite": "https://neon.tech",
+    "topics": ["database", "postgres", "postgresql", "rust", "serverless"]
   }
 ]

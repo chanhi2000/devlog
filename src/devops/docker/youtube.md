@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🐋Docker > Youtube
+description: Docker > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🐋Docker 
+  - Docker
+  - Container
   - Youtube
 tag: 
   - "sh"
@@ -54,7 +55,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 
@@ -106,5 +106,7 @@ tag:
 <MyYouTubeItems jsonName="yu-micoding" /><!-- 몰입코딩 아카이브 -->
 <MyYouTubeItems jsonName="yu-javascriptmastery" /><!-- JavaScript Mastery -->
 <MyYouTubeItems jsonName="yu-ByteGrad" /><!-- ByteGrad -->
+<MyYouTubeItems jsonName="yu-user-jc7ek9jk3l" /><!-- 차태진 -->
+<MyYouTubeItems jsonName="yu-user-mg8kt9go7z" /><!-- 모던애자일팀 -->
 
 <TagLinks />

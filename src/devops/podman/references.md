@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: References
-description: 🍄Podman > References
+description: Podman > References
 icon: iconfont icon-share
 category:
-  - 🍄Podman
+  - Podman
   - References
 tag: 
   - podman

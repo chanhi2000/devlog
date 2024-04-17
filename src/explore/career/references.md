@@ -164,7 +164,7 @@ tag:
 
 ---
 
-## 프로페셔널 프로그래머
+## [ 소프트웨어 개발자 이야기 Vol.3 ]
 
 - [안 하는 것과 못하는 것](https://blog.naver.com/cybervictor008/223399042771)
 - [가장 중요한 것은?](https://blog.naver.com/cybervictor008/223401802404)
@@ -204,6 +204,8 @@ tag:
 - [[스파르타코딩클럽] 데일리 미션 - Lv.2 웹개발자 JD 분석](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EB%AF%B8%EC%85%98-Lv2-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90-JD-%EB%B6%84%EC%84%9D)
 - [[스파르타코딩클럽] 데일리미션 - Lv.3 비슷한 직무 JD 분석](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv3-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A7%81%EB%AC%B4-JD-%EB%B6%84%EC%84%9D)
 - [[스파르타코딩클럽] 데일리미션 - Lv.4 웹개발 용어 정리 2](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv4-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-2)
+- [[내일배움캠프 1일차 TIL] 새로운 팀원 & 미니 프로젝트](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%9D%BC%EC%B0%A8-TIL-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%80%EC%9B%90-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [[ 99클럽 코테 스터디 18일차 TIL ] 프로그래머스(개인정보 수집 유효기간](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-18%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
 
 ---
 
@@ -404,6 +406,24 @@ tag:
 ## 네트워크 엔지니어 환영의 기술블로그
 
 - [엔지니어를 위한, 연금 제도 쉽게 이해하기](https://aws-hyoh.tistory.com/287)
+
+---
+
+## WONIZZ.LOG
+
+- [[서평 작성] 개발자 기술 면접 노트](https://blog.wonizz.com/2024/04/15/hanbit-reviewer-6/)
+
+---
+
+## Unidev
+
+- [Focus Keeper 랜딩 페이지 런칭 후기 (부제: UX가 프로덕트 성공에 미치는 영향)](https://univdev.page/posts/focuskeeper-renewal/)
+
+---
+
+## 리내로그
+
+- [생각 정리, 그리고 Learn in Public](https://rinae.dev/posts/thinking-and-learn-in-public/)
 
 ---
 

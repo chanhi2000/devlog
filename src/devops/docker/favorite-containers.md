@@ -1,10 +1,12 @@
 ---
 lang: ko-KR
-title: 📍Favorite Container(s)
-description: Docker > 📍Favorite Container(s)
+title: Favorite Container(s)
+description: Docker > Favorite Container(s)
+icon: fas fa-bookmark
 category:
   - Docker 
-  - 📍Favorite Container(s)
+  - Container
+  - Favorite Container(s)
 tag: 
   - sh
   - bash
@@ -19,7 +21,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

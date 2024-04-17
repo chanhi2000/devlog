@@ -5,8 +5,10 @@ description: Docker
 icon: fa-brands fa-docker
 category:
   - Docker
+  - Container
 tag:
   - docker
+  - container
 ---
 
 # {{ $frontmatter.description }} 관련

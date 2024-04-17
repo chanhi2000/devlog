@@ -105,14 +105,31 @@ tag:
 ## 코딩팩토리
 
 - [[복붙하세요] 로마 숫자 특수기호 모음집 (Ⅰ, Ⅱ, Ⅲ, Ⅳ, Ⅴ, Ⅵ, Ⅶ...)](https://coding-factory.tistory.com/1046)
+- [[복붙하세요] 말 줄임표 특수기호(···. ······.) 모음집](https://coding-factory.tistory.com/1047)
+
+---
+
+## 멈춤보단 천천히라도
+
+- [윈도우와 우분투 듀얼 부팅시 윈도우 시간 안 맞는 문제 해결](https://webnautes.tistory.com/2319)
+
+---
+
+## gooper.com
+
+- ["지금 보고 있는 웹페이지 창을 닫으려고 합니다..." 안나타나게 하기](https://www.gooper.com/ss/tnt_lang/4213)
+
+---
+
+## PGR21.com
+
+- [[질문] 지금 보고 있는 웹 페이지 창을 닫으려고 합니다. 이거 해결방법이 있나요?](https://pgr21.co.kr/qna/27717?page=36&select_arrange=hit)
 
 ---
 
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217
-- https://www.gooper.com/ss/tnt_lang/4213
-- https://pgr21.co.kr/qna/27717?page=36&select_arrange=hit
 - [DiskClick](https://deervo.itch.io/diskclick)
 
 ---

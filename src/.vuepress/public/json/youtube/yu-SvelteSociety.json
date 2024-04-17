@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/ERYS_WWb_y_rBcIesvxslBQOifCVfZtk95ler7s4J1w27-qWhOyk4F5S9vh0R0e9OP4kCoXvIA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_vQVkOa5K-s", "title": "This Week in Svelte (8 Mar 2024)" },
+    { "id": "QiAMLIyM894", "title": "This Week in Svelte (22 Mar 2024)" },
+    { "id": "W6GEibSZDKs", "title": "Phoenix LiveView and Svelte with Wout De Puysseleir" },
+    { "id": "MmiBRw8aoXI", "title": "This Week in Svelte (5 Apr)" },
+    { "id": "_DoRbo5lv9o", "title": "Svelte London - February 2024" },
+    { "id": "WQFjaM1-Hm0", "title": "This Week in Svelte (12 Apr)" },
     { "id": "oH7XFAKh6W8", "title": "Svelte Society San Diego - January 2024" },
     { "id": "wAttcVDP4Ec", "title": "Lucas Martin - Using SvelteKit to Build An Interactive Portfolio" },
     { "id": "N8Hs-LVL_f8", "title": "Lukas Stracke - Building an Error and Performance Monitoring SDK for SvelteKit" },

@@ -94,4 +94,8 @@ tag:
 
 ---
 
+## 멈춤보단 천천히라도
+
+- [Raspberry Pi 400에 RetroPie 설치하기](https://webnautes.tistory.com/2314)
+
 <TagLinks />

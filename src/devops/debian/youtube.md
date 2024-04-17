@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Linux > Youtube
+description: Linux - Debain > Youtube
 icon: fa-brands fa-youtube
 category:
   - Linux
+  - Debian
   - Youtube 
 tag: 
   - "youtube"
@@ -58,12 +59,9 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
-
-## Linux Leech
 
 <MyYouTubeItems jsonName="yu-linuxleech" /><!-- Linux Leech -->
 <MyYouTubeItems jsonName="yu-tmanelshrghk" /><!-- 스무디tv -->

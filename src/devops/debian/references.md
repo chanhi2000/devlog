@@ -1,21 +1,20 @@
 ---
 lang: ko-KR
 title: References
-description: Linux > References
+description: Linux - Debain > References
 icon: iconfont icon-share
 category:
   - Linux
+  - Debian
   - References 
 tag: 
-  - win
-  - Windows
-  - win10
-  - msc
-  - eventvwr.msc
+  - linux
+  - debian
+  - pacman
+  - package-manager
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 
@@ -212,6 +211,12 @@ tag:
 ## chhanz 기술 블로그
 
 - [[Linux] How to extend MD device (RAID 0)](https://tech.chhanz.xyz/linux/2024/04/09/md-device-extend-raid-0/)
+
+---
+
+## SPICE
+
+- [`usbredir`](https://www.spice-space.org/usbredir.html)
 
 ---
 

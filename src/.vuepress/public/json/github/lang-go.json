@@ -1389,5 +1389,10 @@
     "desc": "Redis re-implemented with SQLite",
     "officialSite": "",
     "topics": ["database", "key-value", "redis", "sqlite"]
+  }, {
+    "repo": "goharbor/harbor",
+    "desc": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "officialSite": "https://goharbor.io",
+    "topics": ["cloud-native", "cncf", "cncf-project", "container", "container-management", "container-registry", "containers", "docker", "hacktoberfest", "helm", "kubernetes", "registry"]
   }
 ]

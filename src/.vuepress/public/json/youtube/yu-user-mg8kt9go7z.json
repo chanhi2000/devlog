@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "6rZ1IV32SHs", "title": "[모던 애자일팀] 6기 최종회고" },
+    { "id": "dggOmEEGMQ0", "title": "[모던 애자일팀] 쿠키와 세션 - 안진우(7기)" },
+    { "id": "RCAlGiLJrCc", "title": "[모던 애자일팀] JWT(JSON Web Token) - 안진우(7기)" },
+    { "id": "1qFsA942Fhc", "title": "[모던 애자일팀]Docker-김준우(7기)" },
+    { "id": "soYThSzhYWc", "title": "[모던 애자일팀] Prisma - 조영은(7기)" },
     { "id": "N_ULt-IbPo4", "title": "[모던 애자일팀] 암호화 Hash, Salt - 박준혁(6기)" },
     { "id": "IZpLXmVx9Rg", "title": "[모던 애자일팀] Stack VS Queue VS Heap - 박준혁(6기)" },
     { "id": "_tsqK0wo-bc", "title": "[모던 애자일팀] 예외 처리 try/catch - 박준혁(6기)" },

@@ -1233,5 +1233,10 @@
     "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
     "officialSite": "https://docs.zlmediakit.com",
     "topics": ["flv", "gb28181", "hls", "http", "http-flv", "http-fmp4", "http-ts", "live", "media-server", "mp4", "rtmp", "rtp", "rtsp", "srt", "ts", "webrtc", "websocket", "websocket-flv"]
+  }, {
+    "repo": "kevinbentley/Descent3",
+    "desc": "Descent 3 by Outrage Entertainment",
+    "officialSite": "",
+    "topics": []
   }
 ]

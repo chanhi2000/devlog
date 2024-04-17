@@ -29,7 +29,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -93,5 +92,6 @@ head:
 <MyYouTubeItems jsonName="yu-developedbyed" /><!-- developedbyed -->
 <MyYouTubeItems jsonName="yu-GeeksforGeeksVideos" /><!-- GeeksforGeeks -->
 <MyYouTubeItems jsonName="yu-learnwithjason" /><!-- Learn With Jason -->
+<MyYouTubeItems jsonName="yu-9diin" /><!-- 구디사는 개발자 9Diin -->
 
 <TagLinks />

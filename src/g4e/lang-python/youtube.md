@@ -104,5 +104,6 @@ tag:
 <MyYouTubeItems jsonName="yu-logandihel" /><!-- Logan Dihel -->
 <MyYouTubeItems jsonName="yu-swithgenie" /><!-- 스윗지니 -->
 <MyYouTubeItems jsonName="yu-PortfolioCourses" /><!-- Portfolio Courses -->
+<MyYouTubeItems jsonName="yu-easyspub" /><!-- 이지스퍼블리싱 출판사 -->
 
 <TagLinks />

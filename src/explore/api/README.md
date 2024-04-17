@@ -940,6 +940,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Term Typer - Improve typing and vocabulary",
+  "desc": "Simply type the word and description to improve typing and vocabulary.",
+  "link": "https://www.termtyper.com/",
+  "logo": "https://www.termtyper.com/logo.png",
+  "background": "rgba(2,45,62,0.2)"
+}
+```
+
 :::
 
 ---

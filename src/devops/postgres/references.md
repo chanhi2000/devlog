@@ -14,7 +14,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -199,6 +198,12 @@ tag:
 ## 푸르고 개발 블로그
 
 - [[PostgreSQL] 내가 enum을 쓰지 않는 이유](https://puleugo.tistory.com/185)
+
+---
+
+## Ali Ramadhan
+
+- [Building a weather data warehouse part I: Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
 
 ---
 

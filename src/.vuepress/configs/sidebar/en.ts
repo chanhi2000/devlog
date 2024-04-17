@@ -25,7 +25,8 @@ export const sidebarEn = sidebar({
       children: [
          '/g4e/api-ncloud/README.md',
          '/g4e/api-ncloud/geolocation.md',
-       ]
+         '/g4e/api-ncloud/references.md',
+        ]
     }, {
       text: 'Shell',
       collapsible: true,
@@ -75,6 +76,25 @@ export const sidebarEn = sidebar({
         '/g4e/cli-pwsh/references.md',
         '/g4e/cli-pwsh/github.md',
         '/g4e/cli-pwsh/youtube.md',
+      ]
+    }, {
+      text: 'Git',
+      collapsible: true,
+      icon: 'iconfont icon-git',
+      children: [
+        '/g4e/git/README.md',
+        '/g4e/git/basics.md',
+        '/g4e/git/references.md',
+        '/g4e/git/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/g4e/git/articles/README.md',
+            '/g4e/git/articles/yozm/2545.md',
+          ]
+        }
       ]
     }, {
       text: 'Vim',
@@ -223,6 +243,17 @@ export const sidebarEn = sidebar({
         '/g4e/lang-js-node/references.md',
         '/g4e/lang-js-node/github.md',
         '/g4e/lang-js-node/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/g4e/lang-js-node/articles/README.md',
+            '/g4e/lang-js-node/articles/yozm/2483.md',
+            '/g4e/lang-js-node/articles/yozm/2504.md',
+            '/g4e/lang-js-node/articles/yozm/2505.md',
+          ]
+        }
       ]
     }, {
       text: 'React.js',
@@ -235,6 +266,18 @@ export const sidebarEn = sidebar({
         '/g4e/lang-js-react/references.md',
         '/g4e/lang-js-react/github.md',
         '/g4e/lang-js-react/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/g4e/lang-js-react/articles/README.md',
+            '/g4e/lang-js-react/articles/yozm/2479.md',
+            '/g4e/lang-js-react/articles/yozm/2493.md',
+            '/g4e/lang-js-react/articles/yozm/2528.md',
+            '/g4e/lang-js-react/articles/yozm/2537.md',
+          ]
+        }
       ]
     }, {
       text: 'Vue.js',
@@ -246,6 +289,15 @@ export const sidebarEn = sidebar({
         '/g4e/lang-js-vue/references.md',
         '/g4e/lang-js-vue/github.md',
         '/g4e/lang-js-vue/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/g4e/lang-js-vue/articles/README.md',
+            '/g4e/lang-js-vue/articles/yozm/2511.md',
+          ]
+        }
       ]
     }, {
       text: 'Mermaid.js',
@@ -571,16 +623,6 @@ export const sidebarEn = sidebar({
     }, 
     //region: devops
     {
-      text: 'Git',
-      collapsible: true,
-      icon: 'iconfont icon-git',
-      children: [
-        '/devops/git/README.md',
-        '/devops/git/basics.md',
-        '/devops/git/references.md',
-        '/devops/git/youtube.md',
-      ]
-    }, {
       text: 'Github',
       collapsible: true,
       icon: 'fa-brands fa-github',
@@ -610,16 +652,6 @@ export const sidebarEn = sidebar({
         '/devops/gitlab/youtube.md',
       ]
     }, {
-      text: 'Linux',
-      collapsible: true,
-      icon: 'fa-brands fa-linux',
-      children: [
-        '/devops/linux/README.md',
-        '/devops/linux/env-setup.md',
-        '/devops/linux/references.md',
-        '/devops/linux/youtube.md',
-      ]
-    }, {
       text: 'macOS',
       collapsible: true,
       icon: 'iconfont icon-macos',
@@ -640,6 +672,43 @@ export const sidebarEn = sidebar({
         '/devops/windows/tips.md',
         '/devops/windows/wsl.md',
         '/devops/windows/youtube.md',
+      ]
+    }, {
+      text: 'Linux - Debian',
+      collapsible: true,
+      icon: 'fa-brands fa-debian',
+      children: [
+        '/devops/debian/README.md',
+        '/devops/debian/env-setup.md',
+        '/devops/debian/references.md',
+        '/devops/debian/youtube.md',
+      ]
+    }, {
+      text: 'Proxmox',
+      collapsible: true,
+      icon: 'iconfont icon-proxmox',
+      children: [
+        '/devops/proxmox/README.md',
+        '/devops/proxmox/references.md',
+        '/devops/proxmox/youtube.md',
+      ],
+    }, {
+      text: 'QEMU',
+      collapsible: true,
+      icon: 'iconfont icon-qemu',
+      children: [
+        '/devops/qemu/README.md',
+        '/devops/qemu/references.md',
+        '/devops/qemu/youtube.md',
+      ]
+    },{
+      text: 'KVM',
+      collapsible: true,
+      icon: 'fa-brands fa-linux',
+      children: [
+        '/devops/kvm/README.md',
+        '/devops/kvm/references.md',
+        '/devops/kvm/youtube.md',
       ]
     }, {
       text: 'oVirt',
@@ -671,7 +740,15 @@ export const sidebarEn = sidebar({
         '/devops/podman/README.md',
         '/devops/podman/skopeo.md',
         '/devops/podman/references.md',
-        '/devops/podman/articles/you-dont-have-to-use-docker-anymore.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/podman/articles/README.md',
+            '/devops/podman/articles/you-dont-have-to-use-docker-anymore.md',
+          ]
+        }
       ]
     }, {
       text: 'Kubernetes',
@@ -681,6 +758,14 @@ export const sidebarEn = sidebar({
         '/devops/kubernetes/README.md',
         '/devops/kubernetes/references.md',
         '/devops/kubernetes/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            
+          ]
+        }
       ]
     }, {
       text: 'Openshift',

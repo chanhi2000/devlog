@@ -254,6 +254,13 @@ tag:
 
 ---
 
+## [ 소프트웨어 개발자 이야기 Vol.3 ]
+
+- [[ Embedded C Coding Standard ]](https://blog.naver.com/cybervictor008/223416969741)
+
+---
+
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

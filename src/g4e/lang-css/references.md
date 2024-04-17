@@ -290,4 +290,10 @@ tag:
 
 ---
 
+## Life Log
+
+- [[Find_Similar_Colors] for CSS Desingner (셀레니움 + 크롤링)](https://ravenkim97.tistory.com/406)
+
+---
+
 <TagLinks />

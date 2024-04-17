@@ -4,5 +4,10 @@
     "desc": "Modern CSS framework based on Flexbox",
     "officialSite": "https://bulma.io",
     "topics": ["css", "css-framework", "design", "flexbox", "html"]
+  }, {
+    "repo": "black7375/Firefox-UI-Fix",
+    "desc": "🦊 I respect proton UI and aim to improve it.",
+    "officialSite": "",
+    "topics": ["firefox", "firefox-css", "firefox-customization", "firefox-theme", "firefox-tweaks", "hacktoberfest", "theme", "unixporn", "user-interface", "userchrome", "userchrome-styles", "userchromecss", "userstyles"]
   }
 ]

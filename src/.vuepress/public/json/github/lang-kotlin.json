@@ -230,5 +230,10 @@
     "desc": "Painless Mobile UI Automation",
     "officialSite": "https://maestro.mobile.dev/",
     "topics": ["android", "blackbox-testing", "ios", "ui-automation"]
+  }, {
+    "repo": "skydoves/pokedex-compose",
+    "desc": "🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.",
+    "officialSite": "",
+    "topics": ["android", "coroutines", "hilt", "jetpack-android", "jetpack-compose", "kotlin", "motion", "mvvm", "mvvm-architecture", "pokedex", "pokemon", "skydoves"]
   }
 ]

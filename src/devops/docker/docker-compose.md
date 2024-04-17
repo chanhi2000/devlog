@@ -3,7 +3,8 @@ lang: ko-KR
 title: 🚢Docker Compose
 description: Docker > 🚢Docker Compose
 category:
-  - Docker 
+  - Docker
+  - Container
   - 🚢Docker Compose
 tag: 
   - sh
@@ -20,16 +21,13 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
 
 ## 기본 명령어
 
-
 ### 기동/중지
-
 
 | 명령어 | 설명 |
 | :--- | :--- |
@@ -38,7 +36,7 @@ tag:
 
 ---
 
-## 자주쓰는 docker-compose 
+## 자주쓰는 docker-compose
 
 ### 구성요소
 

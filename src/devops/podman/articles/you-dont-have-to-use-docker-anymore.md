@@ -1,9 +1,10 @@
 ---
 lang: ko-KR
-title: You Don’t Have to Use Docker Anymore 
-description: 🍄Podman > You Don’t Have to Use Docker Anymore
+title: "[towardsdatascience.com] You Don’t Have to Use Docker Anymore"
+description: "Podman > [towardsdatascience.com] You Don’t Have to Use Docker Anymore"
 category: 
-  - 🍄Podman
+  - Podman
+  - Article(s)
 tag: 
   - opinion
   - towardsdatascience
@@ -14,7 +15,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 
@@ -30,9 +30,9 @@ tag:
 }
 ```
 
----
-
 In the ancient times of containers (really more like 4 years ago) _Docker_ was the only player in the container game. That’s not the case anymore though and Docker is not _the only_, but rather _just another_ container engine on the landscape. Docker allows us to build, run, pull, push or inspect container images, but for each of these tasks there are other alternative tools, which might just do better job at it than Docker. So, let’s explore the landscape and (just _maybe_) uninstall and forget about Docker altogether…
+
+---
 
 ## Why Not Use Docker, Though?
 
@@ -40,11 +40,13 @@ If you’ve been a docker user for long time, I think it will take some persuadi
 
 First of all, Docker is a monolithic tool. It’s a tool that tries to do everything, which generally is not the best approach. Most of the time it’s better to choose a specialized tool that does just one thing, but does it really well.
 
-If you are scared of switching to different set of tools, because you would have to learn to work with different CLI, different API or in general different concepts, then that won’t be a problem. Choosing any of the tools shown in this article can be completely seamless as they all (including Docker) adhere to same specification under OCI, which is short for [Open Container Initiative](https://opencontainers.org). This initiative contains specifications for [container runtime](https://github.com/opencontainers/runtime-spec), [container distribution](https://github.com/opencontainers/distribution-spec) and [container images](https://github.com/opencontainers/image-spec), which covers all the features needed for working with containers.
+If you are scared of switching to different set of tools, because you would have to learn to work with different CLI, different API or in general different concepts, then that won’t be a problem. Choosing any of the tools shown in this article can be completely seamless as they all (including Docker) adhere to same specification under OCI, which is short for [Open Container Initiative](https://opencontainers.org). This initiative contains specifications for [<FontIcon icon="iconfont icon-github"/>`opencontainers/runtime-spec`](https://github.com/opencontainers/runtime-spec), [<FontIcon icon="iconfont icon-github"/>`opencontainers/distribution-spec`](https://github.com/opencontainers/distribution-spec) and [<FontIcon icon="iconfont icon-github"/>`opencontainers/image-spec`](https://github.com/opencontainers/image-spec), which covers all the features needed for working with containers.
 
 Thanks to the OCI you can choose a set of tools that best suit your needs and at the same time you can still enjoy using the same APIs and same CLI commands as with Docker.
 
 So, if you’re open to trying out new tools, then let’s compare the advantages, disadvantages and features of Docker and it’s competitors to see whether it actually makes sense to even consider ditching Docker for some new shiny tool.
+
+---
 
 ## Container Engines
 
@@ -52,23 +54,23 @@ When comparing Docker with any other tool we need to break it down by its compon
 
 There are many container engines available, but the most prominent competitor to Docker is _Podman_, developed by _Red Hat_. Unlike Docker, Podman doesn’t need daemon to run and also doesn’t need root privileges which has been long-standing concern with Docker. Based on the name, Podman can not only run containers, but also _pods_. In case you are not familiar with concept of pods, then pod is the smallest compute unit for Kubernetes. It consists of one or more containers — the main one and so-called _sidecars_ — that perform supporting tasks. This makes it easier for Podman users to later migrate their workloads to Kubernetes. So, as a simple demonstration, this is how you would run 2 containers in a single pod:
 
-::: details podman.sh
+::: details <FontIcon icon="fas fa-terminal"/>podman.sh
 
 ```sh
-~ $ podman pod create --name mypod
-~ $ podman pod list
+podman pod create --name mypod
+podman pod list
+#
+# POD ID         NAME    STATUS    CREATED         # OF CONTAINERS   INFRA ID
+# 211eaecd307b   mypod   Running   2 minutes ago   1                 a901868616a5
 
-POD ID         NAME    STATUS    CREATED         # OF CONTAINERS   INFRA ID
-211eaecd307b   mypod   Running   2 minutes ago   1                 a901868616a5
-
-~ $ podman run -d --pod mypod nginx  # First container
-~ $ podman run -d --pod mypod nginx  # Second container
-~ $ podman ps -a --pod
-
-CONTAINER ID  IMAGE                           COMMAND               CREATED        STATUS            PORTS  NAMES               POD           POD NAME
-3b27d9eaa35c  docker.io/library/nginx:latest  nginx -g daemon o...  2 seconds ago  Up 1 second ago          brave_ritchie       211eaecd307b  mypod
-d638ac011412  docker.io/library/nginx:latest  nginx -g daemon o...  5 minutes ago  Up 5 minutes ago         cool_albattani      211eaecd307b  mypod
-a901868616a5  k8s.gcr.io/pause:3.2          
+podman run -d --pod mypod nginx  # First container
+podman run -d --pod mypod nginx  # Second container
+podman ps -a --pod
+# 
+# CONTAINER ID  IMAGE                           COMMAND               CREATED        STATUS            PORTS  NAMES               POD           POD NAME
+# 3b27d9eaa35c  docker.io/library/nginx:latest  nginx -g daemon o...  2 seconds ago  Up 1 second ago          brave_ritchie       211eaecd307b  mypod
+# d638ac011412  docker.io/library/nginx:latest  nginx -g daemon o...  5 minutes ago  Up 5 minutes ago         cool_albattani      211eaecd307b  mypod
+# a901868616a5  k8s.gcr.io/pause:3.2          
 ```
 
 :::
@@ -80,6 +82,8 @@ There are other container engines besides Docker and Podman, but I would conside
 - [LXD](https://linuxcontainers.org/lxd/introduction) — LXD is container manager (daemon) for LXC (Linux Containers). This tool offers ability to run _system_ containers that provide container environment that is more similar to VMs. It sits in very narrow space and doesn’t have many users, so unless you have very specific use case, then you’re probably better off using Docker or Podman.
 - [CRI-O](https://cri-o.io) — When you google what is cri-o, you might find it described as container engine. It really is container runtime, though. Apart from the fact that it isn’t actually an engine, it also is not suitable for _“normal”_ use. And by that I mean that it was specifically built to be used as Kubernetes runtime (CRI) and not for an end-user usage.
 - [rkt](https://coreos.com/rkt) — rkt (_“rocket”_) is container engine developed by _CoreOS_. This project is mentioned here really just for completeness, because the project ended and its development was halted — and therefore it should not be used.
+
+---
 
 ## Building Images
 
@@ -142,6 +146,8 @@ As in the previous section, here we also have a few _“honorable mentions”_ w
 - [Jib](https://github.com/GoogleContainerTools/jib) is another tool by Google, specifically for building Java images. It includes [Maven](https://github.com/GoogleContainerTools/jib/tree/master/jib-maven-plugin#quickstart) and [Gradle](https://github.com/GoogleContainerTools/jib/tree/master/jib-gradle-plugin#quickstart) plugins, which can make it easy for you to build images without messing with Dockerfiles.
 - Last but not least is [Bazel](https://github.com/bazelbuild/bazel), which is anoooother tool by Google. This one is not _just_ for building container images, but rather a complete build system. If you just want to build an image, then diving into Bazel might be a bit of an overkill, but definitely a good learning experience, so if you’re up for it, then [rules_docker](https://github.com/bazelbuild/rules_docker) section is a good starting point for you.
 
+---
+
 ## Container Runtime
 
 Last big piece of a puzzle is _container runtime_ which is  responsible for, well, running containers. Container runtime is one part of the whole container lifecycle/stack, which you will most likely not going to mess with, unless you have some very specific requirement for speed, security, etc. So, if you’re tired of me already, then you might want skip this one section. If on the other hand, you just want to know what are the options, then here goes:
@@ -154,6 +160,8 @@ Speaking of CRI-O. Earlier I said that CRI-O isn’t really a container engine, 
 
 Last one for this section is [containerd](https://containerd.io), which is a CNCF graduating project. It’s a daemon that acts as an API facade for various container runtimes and OS. In the background it relies on runc and it’s the default runtime for Docker engine. It’s also used by Google Kubernetes Engine (GKE) and IBM Kubernetes Service (IKS). It’s an implementation of Kubernetes Container Runtime Interface (same as CRI-O), therefore it’s a good candidate for runtime of your Kubernetes cluster.
 
+---
+
 ## Image Inspection and Distribution
 
 Last part of container stack is image inspection and distribution. This effectively replaces `docker inspect` and also (optionally) adds ability to copy/mirror images between remote registries.
@@ -162,9 +170,13 @@ The only tool which I will mention here that can do these tasks is [Skopeo](http
 
 As a little bonus, I want to also mention [Dive](https://github.com/wagoodman/dive), which is a tool for inspecting, exploring and analyzing images. It’s little more user friendly, provides more readable output and can dig (or _dive_, I guess) a bit deeper into your image and analyze and measure its efficiency. It’s also suitable for use in CI pipelines, where it can measure whether your image is _“efficient enough”_ or in other words — whether it wastes too much space or not.
 
+---
+
 ## Conclusion
 
 This article wasn’t meant to persuade you to completely ditch Docker, rather its goal was to show you the whole landscape and all the options for building, running, managing and distributing containers and their images. Each of these tools including Docker, has its pros and cons and it’s important to evaluate what set of tools suits your workflow and use case the best and I hope this article will help you with that.
+
+---
 
 ## Resources
 
