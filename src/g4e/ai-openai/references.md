@@ -180,9 +180,10 @@ tag:
 
 ---
 
-## ResObscura
+## Substack
 
-- [Translating Latin demonology manuals with GPT-4 and Claude](https://resobscura.substack.com/p/translating-latin-demonology-manuals)
+- [`@resobscura` - Translating Latin demonology manuals with GPT-4 and Claude](https://resobscura.substack.com/p/translating-latin-demonology-manuals)
+- [`@helixml` - How we got fine-tuning Mistral-7B to not suck: Helix Project Report, Feb 2024](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)
 
 ---
 
@@ -255,11 +256,6 @@ tag:
 
 - [How hard is it to cheat with ChatGPT in technical interviews? We ran an experiment.](https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
 
----
-
-## HelixML
-
-- [How we got fine-tuning Mistral-7B to not suck: Helix Project Report, Feb 2024](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)
 
 ---
 

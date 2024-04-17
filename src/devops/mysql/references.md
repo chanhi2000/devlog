@@ -41,6 +41,7 @@ tag:
 - [`@qkrtkdwns3410` - [DB] 인덱스의 종류에 대해](https://velog.io/@qkrtkdwns3410/DB-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%9D%98-%EC%A2%85%EB%A5%98%EC%97%90-%EB%8C%80%ED%95%B4)
 - [`@qkrtkdwns3410` - [MySQL] InnoDB 스토리지 엔진 아키텍처 특징 (1)](https://velog.io/@qkrtkdwns3410/MySQL-InnoDB-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%97%94%EC%A7%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8A%B9%EC%A7%95-1)
 - [`@eunbibi` - Tableau tutorial](https://velog.io/@eunbibi/Tableau-tutorial)
+- [`@eunbibi` - Tableau charts](https://velog.io/@eunbibi/Tableau-charts)
 
 ---
 

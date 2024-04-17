@@ -1,21 +1,27 @@
 ---
 lang: ko-KR
-title: Tips > See the accessibility tree
-description: Node.js > Tips > See the accessibility tree
-icon: fas fa-lightbulb
-category:
-  - Node.js
-  - Tips
+title: "See the accessibility tree"
+description: "Node.js > See the accessibility tree"
+category: 
+  - JavaScript
+  - Article(s)
 tag: 
   - js
   - debug
   - tips
   - eval
   - sourceURL
+head:
+  - - meta:
+    - property: og:title
+      content: "Node.js > See the accessibility tree"
+    - property: og:description
+      content: "See the accessibility tree"
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-js-node/articles/devtoolstips/see-accessibility-tree.html
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

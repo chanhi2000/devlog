@@ -222,7 +222,7 @@ export const navbarEn = navbar([
         link: '/devops/kvm/README.md',
       }, {
         text: 'oVirt',
-        icon: 'fas fa-cubes',
+        icon: 'iconfont icon-ovirt',
         link: '/devops/ovirt/README.md',
       }, {
         text: 'Docker',

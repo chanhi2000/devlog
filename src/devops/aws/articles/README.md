@@ -1,26 +1,19 @@
 ---
 lang: ko-KR
 title: Article(s)
-description: Git > Article(s)
+description: AWS > Article(s)
 icon: fas fa-square-share-nodes
-category: 
-  - Git
+category:
+  - AWS
   - Article(s)
-tag: 
-  - git
+tag:
+  - aws 
+  - amazon-web-services
   - blog
   - yozm
-head:
-  - - meta:
-    - property: og:title
-      content: Vue.js > Article(s)
-    - property: og:description
-      content: Article(s)
-    - property: og:url
-      content: https://chanhi2000.github.io/g4e/git/articles/
 ---
 
-# {{ $frontmatter.title }} 관련
+# {{ $frontmatter.description }} 관련
 
 ```component VPCard
 {
@@ -32,7 +25,7 @@ head:
 }
 ```
 
-[[toc]]
+<ShieldsGroup logos="amazon,amazonaws,amazonec2,amazonecs,amazoneks,amazons3"/>
 
 ---
 
@@ -40,13 +33,15 @@ head:
 
 ```component VPCard
 {
-  "title": "팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지 | 요즘IT",
-  "desc": "팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지",
-  "link": "/g4e/git/articles/yozm/2545.md",
+  "title": "‘오브젝트 스토리지’는 어떻게 활용할까? | 요즘IT",
+  "desc": "‘오브젝트 스토리지’는 어떻게 활용할까?",
+  "link": "/devops/aws/articles/yozm/2541.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+:::
 
 ---
 

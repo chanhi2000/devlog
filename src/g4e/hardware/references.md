@@ -24,6 +24,12 @@ tag:
 
 ---
 
+## Substack
+
+- [`@dynomight` - The midwit home](https://dynomight.substack.com/p/midwit-home)
+
+---
+
 ## HiGenis
 
 - [STM32 External Loader](https://higenis.notion.site/STM32-External-Loader-e7196eefefff435ab1ff26778f7f1360)

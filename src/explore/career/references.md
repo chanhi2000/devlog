@@ -66,6 +66,7 @@ tag:
 - [`@seochan99` - 컴퓨터 네트워크 1장 : introduction(Performance, Security, Protocol layers...)](https://velog.io/@seochan99/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-1%EC%9E%A5-introductionPerformance-Security-Protocol-layers)
 - [`@seochan99` - 컴퓨터 네트워크 1장 : introduction(네트워크 코어)](https://velog.io/@seochan99/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-1%EC%9E%A5-introduction%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%BD%94%EC%96%B4)
 - [`@seochan99` - 컴퓨터 네트워크 1장 : introduction(인터넷, 프로토콜, 네트워크 엣지)](https://velog.io/@seochan99/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-1%EC%9E%A5-introduction)
+- [`@qkrtkdwns3410` - 스토리지 아키텍처](https://velog.io/@qkrtkdwns3410/%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 
 ---
 
@@ -205,7 +206,7 @@ tag:
 - [[스파르타코딩클럽] 데일리미션 - Lv.3 비슷한 직무 JD 분석](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv3-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A7%81%EB%AC%B4-JD-%EB%B6%84%EC%84%9D)
 - [[스파르타코딩클럽] 데일리미션 - Lv.4 웹개발 용어 정리 2](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv4-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-2)
 - [[내일배움캠프 1일차 TIL] 새로운 팀원 & 미니 프로젝트](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%9D%BC%EC%B0%A8-TIL-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%80%EC%9B%90-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-- [[ 99클럽 코테 스터디 18일차 TIL ] 프로그래머스(개인정보 수집 유효기간](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-18%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
+- [[내일배움캠프 2일차 TIL] 미니 프로젝트 개발 진척 상황](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-2%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A9)
 
 ---
 
@@ -227,9 +228,15 @@ tag:
 
 ---
 
-## Leading Developers
+## Substack
 
-- [You are firing people too late](https://zaidesanton.substack.com/p/you-are-firing-people-too-late)
+- [`@zaidesanton` - You are firing people too late](https://zaidesanton.substack.com/p/you-are-firing-people-too-late)
+- [`@cutlefish` - TBM 271: The Biggest Untapped Opportunity](https://cutlefish.substack.com/p/tbm-271-the-biggest-untapped-opportunity)
+- [`@pinpointresearch` - ABLY](https://pinpointresearch.substack.com/p/ably)
+- [`@pinpointresearch` - 야놀자](https://pinpointresearch.substack.com/p/yanolja)
+- [`@engineerscodex` - 7 simple habits of the top 1% of engineers](https://read.engineerscodex.com/p/7-simple-habits-of-the-top-1-of-engineers)
+- [`@engineerscodex` - How Pinterest scaled to 11 million users with only 6 engineers](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
+- [`@engineerscodex` - How Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
 
 ---
 
@@ -424,6 +431,7 @@ tag:
 ## 리내로그
 
 - [생각 정리, 그리고 Learn in Public](https://rinae.dev/posts/thinking-and-learn-in-public/)
+
 
 ---
 

@@ -133,9 +133,10 @@ tag:
 
 ---
 
-## StuVision
+## Substack
 
-- [Adapting an App to visionOS](https://varrall.substack.com/p/adapting-an-app-to-visionos)
+- [`@varrall` - Adapting an App to visionOS](https://varrall.substack.com/p/adapting-an-app-to-visionos)
+- [`@jacobbartlett` - he 2FA app that tells you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
 
 ---
 
@@ -271,12 +272,6 @@ tag:
 ## Paper
 
 - [Nerdy internals of an Apple text editor 👨🏻‍🔧](https://papereditor.app/internals)
-
----
-
-## Jacob's Tech Tavern
-
-- [The 2FA app that tells you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
 
 ---
 

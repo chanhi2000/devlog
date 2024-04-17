@@ -111,6 +111,7 @@ tag:
 - [AWS Lambda](https://blog.naver.com/gi_balja/223415212877?)
 - [AWS API Gateway](https://blog.naver.com/gi_balja/223414349399?)
 - [AWS SES와 Nodemailer](https://blog.naver.com/gi_balja/223414001298?)
+- [AWS API Gateway와 Lambda 연동하기](https://blog.naver.com/gi_balja/223417844588?)
 
 ---
 

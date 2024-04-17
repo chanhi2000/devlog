@@ -2,7 +2,7 @@
 lang: ko-KR
 title: oVirt
 description: oVirt
-icon: fas fa-cubes
+icon: iconfont icon-ovirt
 category:
   - oVirt
 ---
@@ -13,7 +13,7 @@ category:
 
 ## Table of Contents
 
-<ToCLocal basePath="/devops/linux/" />
+<ToCLocal basePath="/devops/ovirt/" />
 
 ---
 

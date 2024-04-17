@@ -4856,7 +4856,7 @@
     "topics": ["ai", "tanslation"]
   }, {
     "repo": "1Panel-dev/MaxKB",
-    "desc": "💬  基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+    "desc": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
     "officialSite": "",
     "topics": ["1panel", "gpt", "llm", "maxkb", "ollama", "openai"]
   }, {
@@ -4869,5 +4869,10 @@
     "desc": "CISO Assistant is an open-source one-stop-shop for GRC - Risk and Audit Management supporting multiple standards: NIST CSF, ISO 27001, NIS2, SOC2, PCI DSS, CMMC, PSPF, GDPR, HIPAA, Essential Eight, DFS-500, DORA, NIST AI RMF, CyFun, AirCyber and more",
     "officialSite": "https://intuitem.com",
     "topics": ["ai-risk", "audit", "cmmc", "compliance", "csf", "cybersecurity", "dora", "gdpr", "grc", "hipaa", "iso-27001", "nis2", "nist", "open-source", "owasp", "pci-dss", "privacy", "pspf", "risk", "soc2"]
+  }, {
+    "repo": "stanford-oval/storm",
+    "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "officialSite": "https://arxiv.org/abs/2402.14207",
+    "topics": []
   }
 ]

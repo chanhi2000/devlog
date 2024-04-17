@@ -127,6 +127,13 @@ tag:
 
 ---
 
+## Microsoft MVP 프로그래머 김성엽
+
+- [Windows 샌드박스](https://blog.naver.com/tipsware/223417380962?)
+
+---
+
+
 ## Misc
 
 - https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217

@@ -55,7 +55,8 @@ tag:
 - [[Q&A] 함수의 도움말이 제대로 연결되지 않습니다.](https://blog.naver.com/tipsware/223413927405?)
 - [표 형식의 단어 편집기에서 단어 드래그해서 이동하기](https://blog.naver.com/tipsware/223412592410?)
 - [[Q&A] 버튼을 Mouse Over 상태에 따라 색상을 변경하고 싶습니다.](https://blog.naver.com/tipsware/223416519433?)
-- 
+- [[Q&A] 반환형이 void인데 return 문에서 오류가 발생하지 않습니다.](https://blog.naver.com/tipsware/223417188277?)
+
 ---
 
 ## Cpp2 and cppfront — An experimental 'C++ syntax 2' and its first compiler

@@ -202,4 +202,8 @@ tag:
 
 ---
 
+## Pozafly's Blog
+
+- [`rm -rf`로 날린 컴퓨터, `chezmoi`로 관리하기](https://pozafly.github.io/tools/manage-with-rm-rf-erased-setting-file-chezmoi/)
+
 <TagLinks />

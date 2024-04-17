@@ -421,6 +421,7 @@ tag:
 ## jako's IT log
 
 - [Google API 없이 Youtube 데이터 수집하기](https://jakpentest.tistory.com/entry/Google-API-%EC%97%86%EB%8A%94-Youtube-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
+- [[Programmers] 코딩테스트입문 - 로그인 성공?](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9E%85%EB%AC%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%84%B1%EA%B3%B5)
 
 ---
 

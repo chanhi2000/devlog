@@ -1,16 +1,23 @@
 ---
 lang: ko-KR
-title: Tips > Block DevTools
-description: Node.js > Tips > Block DevTools
-icon: fas fa-lightbulb
-category:
-  - Node.js
-  - Tips
+title: "lock DevTools"
+description: "Node.js > Block DevTools"
+category: 
+  - JavaScript
+  - Article(s)
 tag: 
   - js
   - debug
   - tips
   - devtools
+head:  
+  - - meta:
+    - property: og:title
+      content: "Node.js > Block DevTools"
+    - property: og:description
+      content: "Block DevTools"
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-js-node/articles/devtoolstips/block-devtools.html
 ---
 
 # {{ $frontmatter.title }} 관련

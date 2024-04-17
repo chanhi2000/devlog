@@ -39,6 +39,21 @@ export const sidebarEn = sidebar({
         '/g4e/cli-shell/references.md',
         '/g4e/cli-shell/github.md',
         '/g4e/cli-shell/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/g4e/cli-shell/articles/README.md',
+            {
+              text: 'devkuma.com',
+              collapsible: true,
+              children: [
+                '/g4e/cli-shell/articles/devkuma/makefile.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Batchfile',
@@ -220,25 +235,7 @@ export const sidebarEn = sidebar({
         '/g4e/lang-js-node/troubleshooting.md',
         '/g4e/lang-js-node/sandbox.md',
         '/g4e/lang-js-node/cordova.md',
-        {
-          text: 'Tips',
-          collapsible: true,
-          icon: 'fas fa-lightbulb',
-          children: [
-            '/g4e/lang-js-node/tips.md',
-            '/g4e/lang-js-node/tips/see-accessibility-tree.md',
-            '/g4e/lang-js-node/tips/name-evaluated-files.md',
-            '/g4e/lang-js-node/tips/simulate-pwa-wco.md',
-            '/g4e/lang-js-node/tips/inspect-user-agent-dom.md',
-            '/g4e/lang-js-node/tips/explain-errors-with-ai.md',
-            '/g4e/lang-js-node/tips/enable-safari-devtools.md',
-            '/g4e/lang-js-node/tips/block-devtools.md',
-            "/g4e/lang-js-node/tips/list-all-event-listeners.md",
-            "/g4e/lang-js-node/tips/debug-popups-on-hover.md",
-            "/g4e/lang-js-node/tips/force-execution-at-breakpoint.md",
-            "/g4e/lang-js-node/tips/see-viewport-size.md",
-          ]
-        },
+        '/g4e/lang-js-node/tips.md',
         '/g4e/lang-js-node/snippets.md',
         '/g4e/lang-js-node/references.md',
         '/g4e/lang-js-node/github.md',
@@ -249,9 +246,37 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/g4e/lang-js-node/articles/README.md',
-            '/g4e/lang-js-node/articles/yozm/2483.md',
-            '/g4e/lang-js-node/articles/yozm/2504.md',
-            '/g4e/lang-js-node/articles/yozm/2505.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              children: [
+                '/g4e/lang-js-node/articles/yozm/2483.md',
+                '/g4e/lang-js-node/articles/yozm/2504.md',
+                '/g4e/lang-js-node/articles/yozm/2505.md',
+              ]
+            }, {
+              text: 'devtoolstips.org',
+              collapsible: true,
+              children: [
+                '/g4e/lang-js-node/articles/devtoolstips/see-accessibility-tree.md',
+                '/g4e/lang-js-node/articles/devtoolstips/name-evaluated-files.md',
+                '/g4e/lang-js-node/articles/devtoolstips/simulate-pwa-wco.md',
+                '/g4e/lang-js-node/articles/devtoolstips/inspect-user-agent-dom.md',
+                '/g4e/lang-js-node/articles/devtoolstips/explain-errors-with-ai.md',
+                '/g4e/lang-js-node/articles/devtoolstips/enable-safari-devtools.md',
+                '/g4e/lang-js-node/articles/devtoolstips/block-devtools.md',
+                "/g4e/lang-js-node/articles/devtoolstips/list-all-event-listeners.md",
+                "/g4e/lang-js-node/articles/devtoolstips/debug-popups-on-hover.md",
+                "/g4e/lang-js-node/articles/devtoolstips/force-execution-at-breakpoint.md",
+                "/g4e/lang-js-node/articles/devtoolstips/see-viewport-size.md",
+              ]
+            }, {
+              text: 'sitepoint.com',
+              collapsible: true,
+              children: [
+                '/g4e/lang-js-node/articles/sitepoint/20240312-new-javascript-ecmascript.md',
+              ]
+            }
           ]
         }
       ]
@@ -713,7 +738,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'oVirt',
       collapsible: true,
-      icon: 'fas fa-cubes',
+      icon: 'iconfont icon-ovirt',
       children: [
         '/devops/ovirt/README.md',
         '/devops/ovirt/cli.md',
@@ -783,6 +808,15 @@ export const sidebarEn = sidebar({
         '/devops/aws/README.md',
         '/devops/aws/references.md',
         '/devops/aws/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/aws/articles/README.md',
+            '/devops/aws/articles/yozm/2541.md',
+          ]
+        }
       ]
     }, {
       text: 'Azure',

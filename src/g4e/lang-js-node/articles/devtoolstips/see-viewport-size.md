@@ -1,17 +1,24 @@
 ---
 lang: ko-KR
-title: Tips > See the viewport size
-description: Node.js > Tips > See the viewport size
-icon: fas fa-lightbulb
-category:
-  - Node.js
-  - Tips
+title: "See the viewport size"
+description: "Node.js > See the viewport size"
+category: 
+  - JavaScript
+  - Article(s)
 tag: 
   - js
   - debug
   - testing
   - css
   - tips
+head:
+  - - meta:
+    - property: og:title
+      content: "Node.js > See the viewport size"
+    - property: og:description
+      content: "See the viewport size"
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-js-node/articles/devtoolstips/see-viewport-size.html
 ---
 
 # {{ $frontmatter.title }} 관련

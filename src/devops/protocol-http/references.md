@@ -21,6 +21,12 @@ tag:
 
 ---
 
+## nowotarski.info
+
+- [HTTP/2 CONTINUATION Flood](https://nowotarski.info/http2-continuation-flood/)
+
+---
+
 ## Medium
 
 - [Easy CSRF bypass](https://infosecwriteups.com/easy-csrf-bypass-7226b4e3593e)

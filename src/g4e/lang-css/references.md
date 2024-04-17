@@ -296,4 +296,10 @@ tag:
 
 ---
 
+## Blog @ tonsky.me
+
+- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
+
+---
+
 <TagLinks />

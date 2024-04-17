@@ -1309,5 +1309,15 @@
     "desc": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",
     "officialSite": "https://neon.tech",
     "topics": ["database", "postgres", "postgresql", "rust", "serverless"]
+  }, {
+    "repo": "WINSDK/bite",
+    "desc": "Disassembler focused on comprehensive rust support.",
+    "officialSite": "",
+    "topics": ["debugger", "demangler", "dissassembler", "gui", "rust"]
+  }, {
+    "repo": "BenjaSOL/ore-cli-gpu",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

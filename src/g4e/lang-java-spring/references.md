@@ -47,6 +47,7 @@ head:
 - [`@jwpark06`: SpringBoot에 JDBC로 Postgresql 연동하기](https://velog.io/@jwpark06/SpringBoot%EC%97%90-JDBC%EB%A1%9C-Postgresql-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 - [`@stella6767`: 니들은 MSA 하지마라](https://velog.io/@stella6767/%EB%8B%88%EB%93%A4%EC%9D%80-MSA-%ED%95%98%EC%A7%80%EB%A7%88%EB%9D%BC)
 - [`@qkrtkdwns3410` - [Websocket] @MessageMapping 이란](https://velog.io/@qkrtkdwns3410/Websocket-MessageMapping-%EC%9D%B4%EB%9E%80)
+- [`@qkrtkdwns3410` - Spring-open-in-view 속성](https://velog.io/@qkrtkdwns3410/Spring-open-in-view-%EC%86%8D%EC%84%B1)
 
 ---
 

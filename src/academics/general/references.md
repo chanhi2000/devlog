@@ -37,6 +37,12 @@ tag:
 
 ---
 
+## Google Research
+
+- [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
+
+---
+
 ## Bionic
 
 - [과학을 위한 연산](https://boinc.berkeley.edu/index.php)
@@ -265,6 +271,7 @@ tag:
 - [2020년 정보올림피아드 필기 중등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/141)
 - [2021년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/143)
 - [부동소수점 이해하기](https://davincicoding.tistory.com/144)
+- [2021년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/145)
 
 ---
 

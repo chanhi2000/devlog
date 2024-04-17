@@ -29,7 +29,6 @@ tag:
 
 - [설계란 고민의 연속이다 1편](https://dev.gmarket.com/104)
 
-
 ### 우아한 기술블로그
 
 - [Java Enum 활용기](https://techblog.woowahan.com/2527)
@@ -60,12 +59,10 @@ tag:
 
 ### Medium
 
-- [5 Important Microservices Design Patterns](https://medium.com/javarevisited/5-important-microservices-design-patterns-c4d636b0051)
-- [How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+- [`YDB — Open Source` - How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+- [`박상권의-삽질블로그` - 알아두면 쓸모있는 신비한 안드로이드 지식 9가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)
+- [`Javarevisited` - 10 Best Free Courses to Learn Spring and Microservices for Java Programmers in 2023](https://medium.com/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e)
 
-### Ted Park
-
-- [알아두면 쓸모있는 신비한 안드로이드 지식 9가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)
 
 ### 동팡
 
@@ -89,11 +86,12 @@ tag:
 
 ### velog
 
-- [`@qkrtkdwns3410`: [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
-- [`@qkrtkdwns3410`: FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
-- [`@qkrtkdwns3410`: [알고리즘] 주차요금 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0)
-- [`@dradnats1012`: DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
-- [`@danjr`: 이스케이프 문자열](https://velog.io/@danjr/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
+- [`@qkrtkdwns3410` - [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
+- [`@qkrtkdwns3410` - FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
+- [`@qkrtkdwns3410` - [알고리즘] 주차요금 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0)
+- [`@dradnats1012` - DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
+- [`@danjr` - 이스케이프 문자열](https://velog.io/@danjr/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
+- [`@danjr` - JAVA - 반복문](https://velog.io/@danjr/JAVA-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 
 ### Douglas Schmidt
 
@@ -171,7 +169,6 @@ tag:
 - [Task (2) - taskAffinity](https://parkho79.tistory.com/42)
 - [The 2023 Java Developer RoadMap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html)
 - [Java 8 `java.util.function.Function` Tutorial with Examples](https://www.javabrahman.com/java-8/java-8-java-util-function-function-tutorial-with-examples)
-- [10 Best Free Courses to Learn Spring and Microservices for Java Programmers in 2023](https://medium.com/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e)
 - [Java NIO `FileChannel` 과 `DirectByteBuffer`](https://homoefficio.github.io/2020/08/10/Java-NIO-FileChannel-%EA%B3%BC-DirectByteBuffer)
 - [싱글톤 패턴이 필요한 이유와 실제 서비스에 적용까지](https://injae-kim.github.io/dev/2020/08/06/singleton-pattern-usage.html)
 - [오라클 버전과 JDBC 버전(JDK버전 확인) / What are the Oracle JDBC releases Vs JDK versions?](https://developerntraveler.tistory.com/3)
@@ -202,6 +199,9 @@ tag:
 - [[ 99클럽 코테 스터디 17일차 TIL ] 프로그래머스(JadenCase 문자열 만들기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-17%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [[ 99클럽 코테 스터디 16일차 TIL ] 깊이 우선 탐색(DFS: Depth-First Search) 및 프로그래머스(모음사전)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-16%EC%9D%BC%EC%B0%A8-TIL-%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89DFS-Depth-First-Search-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)
 - [[ 99클럽 코테 스터디 15일차 TIL ] 프로그래머스(2016년)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-15%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42016%EB%85%84)
+- [[ 99클럽 코테 스터디 18일차 TIL ] 프로그래머스(개인정보 수집 유효기간](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-18%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
+- [[ 99클럽 코테 스터디 19일차 TIL ] 시간 초과 및 프로그래머스(연속된 부분 수열의 합)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-19%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%9C%EA%B0%84-%EC%B4%88%EA%B3%BC-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%97%B0%EC%86%8D%EB%90%9C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
+
 
 ### 류광의 번역 이야기
 
@@ -226,6 +226,15 @@ tag:
 ### 블로그 이름 뭐하지??
 
 - [Java HashMap의 내부 동작 - 이론편](https://potwings.tistory.com/59)
+- [Java HashMap의 내부 동작 - 실전편](https://potwings.tistory.com/60)
+
+### integer
+
+- [Netflix의 Java 사용 변천사 (번역)](https://www.integer.blog/evolution-of-java-usage-at-netflix/)
+
+## 푸르고 개발 블로그
+
+- [[DDD] 도메인 엔티티, Domain Entity](https://puleugo.tistory.com/187)
 
 ---
 
@@ -253,10 +262,16 @@ tag:
 
 - [EveDrop 개발기1](https://holykisa.tistory.com/128)
 
+### Medium
+
+- [`The Airbnb Tech Blog` - Introducing Trio | Part I](https://medium.com/airbnb-engineering/introducing-trio-part-i-7f5017a1a903)
+- [`The Airbnb Tech Blog` - Introducing Trio | Part II](https://medium.com/airbnb-engineering/introducing-trio-part-ii-fe836013a798)
+- [`The Airbnb Tech Blog` - Introducing Trio | Part III](https://medium.com/airbnb-engineering/introducing-trio-part-iii-033fbfe2171b)
+- [`Programming Geeks` - Kotlin DSL: Gradle scripts in Android made easy](https://medium.com/android-dev-hacks/kotlin-dsl-gradle-scripts-in-android-made-easy-b8e2991e2ba)
+
 ### velog
 
 - [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
-- [`@danjr` - JAVA - 반복문](https://velog.io/@danjr/JAVA-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 
 ### Leo3418
 
@@ -264,7 +279,6 @@ tag:
 
 ### Devlogs
 
-- [Kotlin DSL: Gradle scripts in Android made easy](https://medium.com/android-dev-hacks/kotlin-dsl-gradle-scripts-in-android-made-easy-b8e2991e2ba)
 - [Gradle 스크립트 언어를 Groovy DSL에서 Kotlin DSL로 변경 하기](https://www.charlezz.com/?p=45140)
 - [Gradle Kotlin DSL을 무작정 적용해보자! - 개발새발 블로그](https://seansation-blog.tistory.com/7)
 - [gist : Android Livedata Observe Once Only (Kotlin)](https://gist.github.com/kobeumut/edb3edd9a2ae9abf6984a42bb2de0441)

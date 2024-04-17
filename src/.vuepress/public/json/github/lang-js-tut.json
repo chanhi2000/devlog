@@ -13,7 +13,7 @@
     "repo": "trekhleb/javascript-algorithms",
     "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "officialSite": "",
-    "topics": []
+    "topics": ["algorithm", "algorithms", "computer-science", "data-structures", "interview", "interview-preparation", "javascript", "javascript-algorithms"]
   }, {
     "repo": "Asabeneh/30-Days-Of-JavaScript",
     "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",

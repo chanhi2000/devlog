@@ -1,21 +1,27 @@
 ---
 lang: ko-KR
-title: Tips > Enable DevTools in Safari
-description: Node.js > Tips > Enable DevTools in Safari
-icon: fas fa-lightbulb
-category:
-  - Node.js
-  - Tips
+title: "Enable DevTools in Safari"
+description: "Node.js > Enable DevTools in Safari"
+category: 
+  - JavaScript
+  - Article(s)
 tag: 
   - js
   - debug
   - tips
   - eval
   - sourceURL
+head:
+  - - meta:
+    - property: og:title
+      content: "Node.js > Enable DevTools in Safari"
+    - property: og:description
+      content: "Enable DevTools in Safari"
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-js-node/articles/devtoolstips/enable-safari-devtools.html
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

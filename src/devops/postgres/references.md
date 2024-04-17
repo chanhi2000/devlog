@@ -37,6 +37,12 @@ tag:
 
 ---
 
+## Substack
+
+- [`@bawolf` - Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
+
+---
+
 ## Become Mastermind
 
 - [Understanding database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)

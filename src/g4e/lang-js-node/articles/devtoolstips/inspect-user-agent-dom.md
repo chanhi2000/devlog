@@ -1,21 +1,27 @@
 ---
 lang: ko-KR
-title: Tips > Inspect the user-agent DOM
-description: Node.js > Tips > Inspect the user-agent DOM
-icon: fas fa-lightbulb
-category:
-  - Node.js
-  - Tips
+title: "Inspect the user-agent DOM"
+description: "Node.js > Inspect the user-agent DOM"
+category: 
+  - JavaScript
+  - Article(s)
 tag: 
   - js
   - debug
   - tips
   - html
   - webcomponents
+head:
+  - - meta:
+    - property: og:title
+      content: "Node.js > Inspect the user-agent DOM"
+    - property: og:description
+      content: "Inspect the user-agent DOM"
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-js-node/articles/devtoolstips/inspect-user-agent-dom.html
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 
@@ -81,7 +87,7 @@ https://devtoolstips.org/tips/en/inspect-devtools-with-devtools
 ```component VPCard
 {
   "title": "See the accessibility tree",
-  "desc": "Devtools Tips > See the accessibility tree",
+  "desc": "Devtools See the accessibility tree",
   "link": "tips/see-accessibility-tree.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"

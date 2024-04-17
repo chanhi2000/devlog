@@ -15,8 +15,21 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
+
+---
+
+## Package Manager
+
+```component VPCard
+{
+  "title": "JSR: the JavaScript Registry",
+  "desc": "JSR is the open-source package registry for modern JavaScript. JSR natively supports TypeScript, and works with all JS runtimes and package managers.",
+  "link": "https://jsr.io/",
+  "logo": "https://jsr.io/logo-square.svg?__frsh_c=300cae9ef4e919ec7e168fd6b8408e9fb82a84f5",
+  "background": "rgbㅁ(247,223,30,0.2)"
+}
+```
 
 ---
 
@@ -89,6 +102,7 @@ tag:
 ## Deno
 
 - [Introducing JSR - the JavaScript Registry](https://deno.com/blog/jsr_open_beta)
+- [How we built JSR](https://deno.com/blog/how-we-built-jsr)
 
 ---
 

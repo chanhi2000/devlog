@@ -2598,5 +2598,25 @@
     "desc": "Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/",
     "officialSite": "https://jina.ai/reader",
     "topics": ["llm", "proxy"]
+  }, {
+    "repo": "toss/es-hangul",
+    "desc": "A modern JavaScript library for handling Hangul characters.",
+    "officialSite": "https://es-hangul.slash.page/",
+    "topics": []
+  }, {
+    "repo": "Dhravya/supermemory",
+    "desc": "Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.",
+    "officialSite": "https://supermemory.dhr.wtf",
+    "topics": ["cloudflare-ai", "cloudflare-browser-rendering", "cloudflare-d1", "cloudflare-kv", "cloudflare-pages", "cloudflare-queues", "cloudflare-vectorize", "cloudflare-workers", "drizzle-orm", "nextjs", "nextjs14", "tailwindcss", "typescript"]
+  }, {
+    "repo": "recharts/recharts",
+    "desc": "Redefined chart library built with React and D3",
+    "officialSite": "http://recharts.org",
+    "topics": ["chart", "charting-library", "components", "d3", "data-visualisation", "javascript", "react", "recharts", "typescript", "ui"]
+  }, {
+    "repo": "honojs/hono",
+    "desc": "Fast, Lightweight, Web-standards",
+    "officialSite": "https://hono.dev",
+    "topics": ["aws-lambda", "bun", "cloudflare", "cloudflare-workers", "deno", "npm", "router", "typescript", "web-framework"]
   }
 ]

@@ -1,17 +1,24 @@
 ---
 lang: ko-KR
-title: Tips > Name evaluated files with the sourceURL pragma
-description: Node.js > Tips > Name evaluated files with the sourceURL pragma
-icon: fas fa-lightbulb
-category:
-  - Node.js
-  - Tips
+title: "Name evaluated files with the sourceURL pragma"
+description: "Node.js > Name evaluated files with the sourceURL pragma"
+category: 
+  - JavaScript
+  - Article(s)
 tag: 
   - js
   - debug
   - tips
   - eval
   - sourceURL
+head:
+  - - meta:
+    - property: og:title
+      content: "Node.js > Name evaluated files with the sourceURL pragma"
+    - property: og:description
+      content: "Name evaluated files with the sourceURL pragma"
+    - property: og:url
+      content: https://chanhi2000.github.io/g4e/lang-js-node/articles/devtoolstips/name-evaluated-files.html
 ---
 
 # {{ $frontmatter.title }} 관련
