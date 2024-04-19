@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/GeJQsfYruMQScd0llHWfPQIVk0WhA2BNau_fLzzwRgHQou-3FMRdJFaP7f-YMFqD2rr8oFEV=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FtSHkUyzPwQ", "title": "켠 김에 PR까지 42: Thread pool 을 만들자 14부" },
+    { "id": "h0InAgN2MdY", "title": "켠 김에 PR까지 43: Thread pool 을 만들자 15부" },
+    { "id": "2Zto_nMOROM", "title": "켠 김에 PR까지 44: Virtual thread 지원하는 Thread pool 을 만들자 16부" },
+    { "id": "0dJDCHwzKh4", "title": "켠 김에 PR까지 45: Virtual thread 지원하는 Thread pool 을 만들자 17부" },
+    { "id": "TQ2YpQelueI", "title": "켠 김에 PR까지 46: Virtual thread와 Platform thread를 모두 지원하는 Thread pool을 만들자 18부" },
     { "id": "bFAKytCnVpU", "title": "켠 김에 PR까지 39: Thread pool 을 만들자 11부" },
     { "id": "9SW3yAywtdM", "title": "켠 김에 PR까지 40: Thread pool 을 만들자 12부" },
     { "id": "D_4n_JwyroU", "title": "켠 김에 PR까지 41: Thread pool 을 만들자 13부" },

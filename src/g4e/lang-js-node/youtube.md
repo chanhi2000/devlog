@@ -234,5 +234,6 @@ head:
 <MyYouTubeItems jsonName="yu-ProgrammerZamanNow" /><!-- Programmer Zaman Now -->
 <MyYouTubeItems jsonName="yu-maximilian-schwarzmueller" /><!-- Maximilian Schwarzmüller -->
 <MyYouTubeItems jsonName="yu-frontendfyi" /><!-- Frontend FYI -->
+<MyYouTubeItems jsonName="yu-JsKIM_0_0" /><!-- 김종상 -->
 
 <TagLinks />

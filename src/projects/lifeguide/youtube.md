@@ -117,5 +117,6 @@ head:
 <MyYouTubeItems jsonName="yu-DanoTV" /><!-- DanoTV -->
 <MyYouTubeItems jsonName="yu-outstandcrew" /><!-- 아웃스탠딩TV -->
 <MyYouTubeItems jsonName="yu-goldenmanual" /><!-- 황금설명서 -->
+<MyYouTubeItems jsonName="yu-DanBecker" /><!-- Dan Becker -->
 
 <TagLinks />

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "BowserVids",
+    "name": "BowserVids",
+    "profile": "https://yt3.googleusercontent.com/3Hhej4Zl5-2YK0axCjFj2LPfjyX9-pa9qXhQpZmkoVa35iSgTutFKVfT9ygMcuY7V52X_RDa=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/txqTiG8795mEXg4rckUjsRrHA5HmGtQfiZjsu61cZZ7_kSDOTruJx-28zPxh40tVch3TwobCrQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "17HTJiQw8xo", "title": "Onyx on VHS!" }
+  ]
+}

@@ -433,6 +433,7 @@ tag:
 - [`qt.qpa.plugin`: Could not load the Qt platform plugin "xcb" 에러 해결 방법](https://webnautes.tistory.com/2303)
 - [pyQt5 - process에서 메시지 박스를 보여주는 예제](https://webnautes.tistory.com/2318)
 - [PyQt5 예제 - 단축키로 버튼 누르기](https://webnautes.tistory.com/2316)
+- [PyQT5 - 랜덤 컬러 그리드 생성하기](https://webnautes.tistory.com/2320)
 
 ---
 

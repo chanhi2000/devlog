@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/VGzSeHWmxGjNbCIpS8CGSUp99E2D1obWoSJnFnSzQV7yH4JKdzGRutzcmVyNEg2FWT7V86oEeUo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0cCBn-iMOUY", "title": "Linux Desktop Growth, Fedora Dropping Xorg, Nintendo vs Yuzu lawsuit & more Linux news" },
+    { "id": "P9LJkwlah2g", "title": "GNOME 46, Linux 6.8, KDE Security Warning, Fedora 40 Beta & more Linux news" },
+    { "id": "u0475LDXlDg", "title": "XZ Backdoor Attack, Linux Mint 22, Fedora Switch to KDE?, Flathub Unverified & more Linux news" },
     { "id": "5KqAHwlxDpE", "title": "Gentoo Linux, Firefox 122, Parrot OS, Valve Proton & more Linux news" },
     { "id": "1h1WnfnonI4", "title": "Fedora goes Atomic, COSMIC is Coming, Linux Kernel Security, Mozilla Refocusing & more Linux news" },
     { "id": "sR-QN2N7-Xg", "title": "Kasm: the Open Source Workspace Streaming Platform" },

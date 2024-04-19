@@ -384,5 +384,10 @@
     "desc": "Bitnami container images",
     "officialSite": "https://bitnami.com",
     "topics": ["bitnami", "containers", "docker", "docker-image", "non-root", "vmware"]
+  }, {
+    "repo": "spawnmason/randar-explanation",
+    "desc": "\"Randar\" is an exploit for Minecraft which uses LLL lattice reduction to crack the internal state of an incorrectly reused java.util.Random in the Minecraft server, then works backwards from that to locate other players currently loaded into the world.",
+    "officialSite": "",
+    "topics": ["2b2t", "exploit", "exploitation", "lattice", "lattice-reduction", "lll", "minecraft", "munmap", "papermc", "radar", "randar", "random", "rng", "spawnmason", "spawnmasons"]
   }
 ]

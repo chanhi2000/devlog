@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/KwUbURd37fSY3pDKHIpH3Dc5aDG8Hzxr6i-HG9AtZeIwMnDhOQ_Q833LkSYrdzDvZqYuKn766Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eUNWzJUvkCA", "title": "Laravel 11 Crash Course - Laravel in 1 hour" },
+    { "id": "VrQRa-afCAk", "title": "Laravel 11 + React Full Stack App with Inertia - Project Management App" },
+    { "id": "BdGvI3W0f9E", "title": "Laravel 11 + React SaaS with Stripe Integration" },
     { "id": "K-3Rp4kNkuY", "title": "Send and Accept Invitations to join to Group - Part 24 | Laravel Social Media Website" },
     { "id": "iT0fSJjPjEk", "title": "Approve/Reject Pending Users from Group - Part 26 | Laravel Social Media Website" },
     { "id": "cTX3dsDGFzQ", "title": "Join to Groups with Auto Approval - Part 25 | Laravel Social Media Website" },

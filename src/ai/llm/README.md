@@ -1,0 +1,27 @@
+---
+lang: ko-KR
+title: LLM
+description: LLM
+icon: fas fa-language
+category: 
+  - LLM
+  - AI
+tag: 
+  - ai
+  - llm
+  - llama
+---
+
+# {{ $frontmatter.description }} 관련
+
+<ShieldsGroup logos="openai"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/g4e/ai-llama/" />
+
+---
+
+<TagLinks />

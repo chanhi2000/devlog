@@ -22,11 +22,16 @@ tag:
 
 ### Animated Curve Line
 
-<VideoPlayer 
+<VidStack 
   title="Tip #469: Animated Waveform UIKit. Create a waveform that animates along screen using UIBeizerPath and a special object CADisplayLink to render the drawing with the apps refresh rate of the display."
   src="/videos/lang-swift/animated-waveform-uikit.mp4" />
 
-- https://stackoverflow.com/questions/44006942/animated-curve-line-in-swift-3
+<SiteInfo
+  name="swift3 - Animated curve line in Swift 3 - Stack Overflow"
+  desc="I want to draw some bezier lines and I want to animate them with a wave effect,"
+  url="https://stackoverflow.com/questions/44006942/animated-curve-line-in-swift-3"
+  preview="https://i.stack.imgur.com/MZv0h.png"
+/>
 
 ::: details Animated Curve Line
 
@@ -113,7 +118,7 @@ class ViewController: UIViewController {
 
 ### Side Menu
 
-<VideoPlayer 
+<VidStack 
   title="Tip #435: Side Menu SwiftUI. Create a Side Menu that allows you to present options for the user to navigate through your app. Swipe for code."
   src="/videos/lang-swift/side-menu.mp4" />
 

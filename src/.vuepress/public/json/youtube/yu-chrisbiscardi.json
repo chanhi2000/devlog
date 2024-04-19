@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/hixnmypYndFEira_ZJiE6YzVrjo3JeDn2iQ-O9qIoqgLH2coTUTOhV5i84XZdqiScNSLDshHcgI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_JkIQiZa6Ds", "title": "This Week in Bevy: Animation Graphs, Cheatbook, and googly eyes!" },
+    { "id": "uZYhiZahRAc", "title": "Dev tools can be more than a grab bag" },
+    { "id": "z-EhQoKKG2k", "title": "Asteroids Particles and Life system" },
+    { "id": "Tw4lG6UEYUk", "title": "Asteroids in Rust with Bevy: Input management" },
+    { "id": "BjiToRlHgDg", "title": "This Week in Bevy: 0.13.2, Curves, Gizmos, and Games" },
+    { "id": "jCjsC0-gVHU", "title": "GPU particle effects with Bevy Hanabi" },
+    { "id": "Tw4lG6UEYUk", "title": "Asteroids in Rust with Bevy: Input management" },
     { "id": "o7okEkXPuIA", "title": "embassy is now on crates.io" },
     { "id": "H4mhliz-zVQ", "title": "Day 22 - Advent of Code" },
     { "id": "FVhOkpIytJc", "title": "Top 10 Games from Bevy Jam 4" },

@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/_pZydqxiDpztopjEnxADuUml4ec_MR5Ls02bGclan0ngkqJQaKnY2jKuXHB23VTswx8BR3YZ9xo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6YWEooV-MEU", "title": "Why Linux" },
+    { "id": "Y7LTdEwR9M8", "title": "Setting up the Ultimate System" },
+    { "id": "K2gliga5Vwc", "title": "The Ultimate System - QEMU and VM Setup" },
+    { "id": "01R8Ft1BdxE", "title": "The Ultimate System - GPU Passthrough with Looking Glass" },
+    { "id": "hzMJ2a1G8rc", "title": "Modifying DWM-Titus" },
+    { "id": "xzUcDbIh-0w", "title": "Windows Utility Update" },
+    { "id": "mJqNBBSViDU", "title": "🚨WinUtil EMERGENCY 🚨 Defender False Flag!" },
+    { "id": "h_H5o1Xaj1M", "title": "DWMBlocks and Hyprland Revisited" },
+    { "id": "0ws1SIbAQq8", "title": "Freedesktop BANS Hyprland Maintainer" },
+    { "id": "mJyVCjoARP0", "title": "Titus Tech Talk - LIVE!" },
     { "id": "T8mY9LhnER4", "title": "NixOS Home Manager Install" },
     { "id": "U6u39w60iwI", "title": "Don't use Linux! Just use Windows!" },
     { "id": "GCdHdRg3K3c", "title": "Back to Thorium" },

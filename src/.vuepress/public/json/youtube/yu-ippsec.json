@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/8MA0Jv5ubvTC9cz4R1D8sc0JRO-5BAztZ-JjMNOSyrIRRIE6wysR5KZXm9M3EavKAVrzVzw-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yGy3_EUi75w", "title": "HackTheBox - AppSanity" },
+    { "id": "lT2Tv0m4k7M", "title": "HackTheBox - Manager" },
+    { "id": "p1NsQSGeDv0", "title": "HackTheBox - Analytics" },
     { "id": "8IkHQ84lmPI", "title": "HackTheBox - Clicker" },
     { "id": "0AafRQIaWmQ", "title": "HackTheBox - Keeper" },
     { "id": "jYCOIf9Fcmo", "title": "HackTheBox - Builder" },

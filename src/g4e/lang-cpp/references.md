@@ -56,6 +56,8 @@ tag:
 - [표 형식의 단어 편집기에서 단어 드래그해서 이동하기](https://blog.naver.com/tipsware/223412592410?)
 - [[Q&A] 버튼을 Mouse Over 상태에 따라 색상을 변경하고 싶습니다.](https://blog.naver.com/tipsware/223416519433?)
 - [[Q&A] 반환형이 void인데 return 문에서 오류가 발생하지 않습니다.](https://blog.naver.com/tipsware/223417188277?)
+- [[Q&A] CWinApp + CWnd 구조에서 프로그램 중복 실행을 방지하려면 어떻게 해야 하나요?](https://blog.naver.com/tipsware/223418873278?)
+- [Here 0.03 - 마우스 위치 강조하기](https://blog.naver.com/tipsware/223419021061?)
 
 ---
 

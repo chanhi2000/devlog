@@ -95,12 +95,21 @@ tag:
 
 ```component VPCard
 {
+  "title": "iOS Dev Weekly - The best iOS development links, every Friday",
+  "desc": "Subscribe to a hand-picked round-up of the best iOS development links every week. Curated by Dave Verwer and published every Friday. Free.",
+  "link": "https://iosdevweekly.com",
+  "logo": "https://dxj7eshgz03ln.cloudfront.net/production/publication/publication_icon/1/favicon_442526aa-1e62-489a-87ac-8f09b5f0f867.png",
+  "background": "rgba(2,107,184,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
   "desc": "Everyday Engineering Challenges",
   "link": "https://blog.ideaharbour.site/engineering/",
   "logo": "https://blog.ideaharbour.site/engineering/wp-content/uploads/sites/3/2024/03/cropped-android-chrome-512x512-1-192x192.png",
   "background": "rgba(27,132,21,0.2)"
-
 }
 ```
 
@@ -201,6 +210,38 @@ tag:
   "link": "https://artificialanalysis.ai/",
   "logo": "https://artificialanalysis.ai/favicon.ico",
   "background": "rgba(10,10,10,0.2)"
+}
+```
+
+@tab App(s)
+
+```component VPCard
+{
+  "title": "Discover iOS Apps | Mobbin",
+  "desc": "Browse and search across hundreds of iOS apps for UI & UX research.",
+  "link": "https://mobbin.com/browse/ios/apps",
+  "logo": "https://mobbin.com/favicon.svg?v=2.1",
+  "background": "rgba(17,17,17,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Discover Android Apps | Mobbin",
+  "desc": "Browse and search across hundreds of Android apps for UI & UX research.",
+  "link": "https://mobbin.com/browse/android/apps",
+  "logo": "https://mobbin.com/favicon.svg?v=2.1",
+  "background": "rgba(17,17,17,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Discover Web Apps | Mobbin",
+  "desc": "Browse and search across hundreds of Web apps for UI & UX research.",
+  "link": "https://mobbin.com/browse/web/apps",
+  "logo": "https://mobbin.com/favicon.svg?v=2.1",
+  "background": "rgba(17,17,17,0.2)"
 }
 ```
 

@@ -168,37 +168,6 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
-```component VPCard
-{
-  "title": "Discover iOS Apps | Mobbin",
-  "desc": "Browse and search across hundreds of iOS apps for UI & UX research.",
-  "link": "https://mobbin.com/browse/ios/apps",
-  "logo": "https://mobbin.com/favicon.svg?v=2.1",
-  "background": "rgba(17,17,17,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Discover Android Apps | Mobbin",
-  "desc": "Browse and search across hundreds of Android apps for UI & UX research.",
-  "link": "https://mobbin.com/browse/android/apps",
-  "logo": "https://mobbin.com/favicon.svg?v=2.1",
-  "background": "rgba(17,17,17,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Discover Web Apps | Mobbin",
-  "desc": "Browse and search across hundreds of Web apps for UI & UX research.",
-  "link": "https://mobbin.com/browse/web/apps",
-  "logo": "https://mobbin.com/favicon.svg?v=2.1",
-  "background": "rgba(17,17,17,0.2)"
-}
-```
-
-
 @tab Cheatsheet
 
 ```component VPCard
@@ -287,6 +256,58 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "link": "https://easings.net/",
   "logo": "https://easings.net/96.8aa68ac4.png",
   "background": "rgba(51,108,214,0.2)"
+}
+```
+
+@tab Open Source
+
+```component VPCard
+{
+  "title": "Awesome Java | LibHunt",
+  "desc": "Your go-to Java Toolbox. A curated list of awesome Java frameworks, libraries and software. 1049 projects organized into 134 categories.",
+  "link": "https://java.libhunt.com",
+  "logo": "https://cdn-b.libhunt.com/assets/logos/java/logo-favicon-1ba5abb13b6a92aa5147a9b5db9fcda9ca7d936edd7a2fb393c4fd96f8168d30.png",
+  "background": "rgba(56,104,152,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Awesome Kotlin | LibHunt",
+  "desc": "Your go-to Kotlin Toolbox. A collection of awesome Kotlin libraries, resources and shiny things. 349 projects organized into 27 categories.",
+  "link": "https://kotlin.libhunt.com",
+  "logo": "https://cdn-b.libhunt.com/assets/logos/kotlin/logo-favicon-9922e3b7aa62feec1e403d1f389fb814f9008e7ec8b1fec5a8a2953393073ce5.png",
+  "background": "rgba(1,149,214,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Awesome Android | LibHunt",
+  "desc": "Your go-to Android Toolbox. A curated list of awesome Android packages and resources. 1967 projects organized into 132 categories.",
+  "link": "https://android.libhunt.com",
+  "logo": "https://cdn-b.libhunt.com/assets/logos/android/logo-favicon-91fc938bba1d32e8061d0c2d209238ea0256057134df6ee1648efcd449f21070.png",
+  "background": "rgba(147,166,3,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Awesome iOS | LibHunt",
+  "desc": "Your go-to iOS Toolbox. A curated list of awesome iOS libraries, including Objective-C and Swift Projects. 3009 projects organized into 166 categories.",
+  "link": "https://ios.libhunt.com",
+  "logo": "https://cdn-b.libhunt.com/assets/logos/ios/logo-9d7b2b0fdb09def8274aa10d0569181b5b7176cf40f2377f228ae3b952833d72.png",
+  "background": "rgba(117,117,117,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Awesome Swift | LibHunt",
+  "desc": "Your go-to Swift Toolbox. A curated list of awesome swift libraries and resources. 1578 projects organized into 136 categories.",
+  "link": "https://swift.libhunt.com",
+  "logo": "https://cdn-b.libhunt.com/assets/logos/swift/logo-9ba3f461edd7cb4d1a355a8915db122dc5abbf792d71a143b96cbc7f5757ba62.png",
+  "background": "rgba(244,33,21,0.2)"
 }
 ```
 

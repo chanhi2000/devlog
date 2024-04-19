@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "startcoding.official",
+    "name": "스타트코딩",
+    "profile": "https://yt3.googleusercontent.com/96GhTdB4E_zaBZL5ZC9lIIbkWBY1CT-ZC-OvFa_xB_ej4u0QhfeEa3yGjeLKOhNnMYXKd_u8iK8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LZLMidb6LoUk93zEZjMtlbqZt-dD3xJN3u8kg_t_OTmWeG3vb2WS7B1hEtIgHmNoaWvaWit2pQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cZVOluN1rrc", "title": "한번 알면 평생 쓰는 코딩 기술 ‘파이썬’ 대공략집! 초보자를 위한 코딩공부순서와 일반인은 모르는 코딩 수익화 방법 5가지 까지!" },
+    { "id": "Uf21RUo3KNc", "title": "웹크롤링 비법 대공개! 데이터 수집 기초부터 돈버는 전략까지 한번에 배우기!" }
+  ]
+}

@@ -559,6 +559,16 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "Swift (`sswg.swift-lang`)",
+  "desc": "Swift Language Support for Visual Studio Code.",
+  "link": "https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang",
+  "logo": "https://sswg.gallerycdn.vsassets.io/extensions/sswg/swift-lang/1.9.0/1713350086569/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(239,241,243,0.2)"
+}
+```
+
 ### ⚙️To Install
 
 ::: tabs 
@@ -618,6 +628,7 @@ code --install-extension yzhang.markdown-all-in-one # Markdown All in One
 code --install-extension mgmcdermott.vscode-language-babel # Babel JavaScript
 code --install-extension chrmarti.regex # Regex Previewer
 code --install-extension octref.vetur # Vuter
+code --isntall-extension sswg.swift-lang # Swift
 ```
 
 @tab cmd

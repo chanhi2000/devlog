@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "backendbanterfm",
+    "name": "Backend Banter",
+    "profile": "https://yt3.googleusercontent.com/rDbXKsxmY2H5JtCrHtVuqyIJFzo70eIuyummRSQ_k5kXgggCgZmKrlLsNWMLDW3kvBYFYMT2qg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YlN8EJdLEcGg42hhW9tyvCdpOUhnXRt1rTxQvOkyIzgvKihkzMO5_G86fQUhLfSgInEf8cFFDw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3C5iuBJJsJE", "title": "Becoming a Netflix-Level Engineer with @trash_dev  | Backend Banter 012" },
+    { "id": "ruW9wtH2AZs", "title": "Managers should know how to code ft. Thorsten Ball | Backend Banter 044" },
+    { "id": "GQnM2C0fhv0", "title": "Whiskey, Web, and Wagners | Backend Banter 045" },
+    { "id": "-Vi0Gy8On4Q", "title": "How I Spent $100,000/mo on CI/CD | Backend Banter 046" },
+    { "id": "YHt00vmaOu4", "title": "Your command line sucks ft. Bashbunni | Backend Banter 048" },
+    { "id": "BhJWRRa14wY", "title": "Is OCaml SaaS Ready? | Backend Banter 049" }
+  ]
+}

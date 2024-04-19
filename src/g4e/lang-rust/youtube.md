@@ -1,14 +1,15 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🦀Rust > Youtube
+description: Rust > Youtube
 icon: fa-brands fa-youtube
 category: 
-  - 🦀Rust
+  - Rust
   - Youtube
 tag: 
   - education
   - youtube
+  - yt
   - programming
   - rust
   - rs
@@ -60,5 +61,6 @@ tag:
 <MyYouTubeItems jsonName="yu-huakun" /><!-- Huakun -->
 <MyYouTubeItems jsonName="yu-NathanStocks" /><!-- Nathan Stocks -->
 <MyYouTubeItems jsonName="yu-residual-entropy" /><!-- Residual Entropy -->
+<MyYouTubeItems jsonName="yu-oliverjumpertzme" /><!-- Oliver Jumpertz -->
 
 <TagLinks />

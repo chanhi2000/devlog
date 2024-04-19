@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/2eqjhiHaxMHhBplYtt3hgljz1bqZkfLLiIoEQAiAcQGDQYAQe1lNWEiCfeNca6YFoaFOV-yq0g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MhDOfXfyeqo", "title": "The ego involved in making an operating system" },
+    { "id": "M6jd0847ib8", "title": "Back to text mode. Is the GUI causing our minds to melt down?" },
+    { "id": "hIw0KU2WXHU", "title": "The web at 35: Tim Berners Lee's baby has gone astray" },
     { "id": "EfRrvmRkHHM", "title": "The machine IBM really didn't want you to upgrade! #CPU #BIOS #multitasking #286" },
     { "id": "YUxaLP6bI00", "title": "Microsoft's forgotten UNIX operating system - Whatever happened to Xenix?" }
   ]

@@ -439,5 +439,10 @@
     "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
     "officialSite": "",
     "topics": ["cache", "filters", "image", "image-processor", "ios", "kingfisher", "macos", "swift", "xcode"]
+  }, {
+    "repo": "OpenSwiftUIProject/OpenSwiftUI",
+    "desc": "[WIP] Open source implementation of Apple's SwiftUI.",
+    "officialSite": "https://swiftpackageindex.com/OpenSwiftUIProject/OpenSwiftUI/main/documentation/openswiftui",
+    "topics": []
   }
 ]

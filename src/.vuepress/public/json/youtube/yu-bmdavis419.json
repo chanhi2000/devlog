@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "bmdavis419",
+    "name": "Ben Davis",
+    "profile": "https://yt3.googleusercontent.com/khehSk8rMRzJlN7HiiYfFxa4um5NbwEEmqqorowrvaYCgR9u5iWw_pqqnU1Zil8ertSDu2u2CQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/61SiYbQU6oYO_l7zvQOTiS-MYrHEF_5phSRBF94NzMbFQL3Bs8Eby8QViwfig94h_2SC-9VUoWk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vKbrRzBROso", "title": "My Favorite Database is Now a Lot Harder to Recommend..." },
+    { "id": "xahLLwrxW2Y", "title": "SvelteKit + Lucia Auth Explained in 15 Minutes" },
+    { "id": "EJSPVx0btyw", "title": "Looking at how to actually make AI useful in my app..." },
+    { "id": "oHqw9uR2KFU", "title": "Astro DB Surprised Me..." },
+    { "id": "Furwj8_1hqc", "title": "Adding a \"real\" backend to my fullstack JS apps (new template & thoughts)" },
+    { "id": "Njh5cyvi78M", "title": "Demo Hono + Astro App and Talking About What Database I'm Using..." },
+    { "id": "4XctkLE3MuM", "title": "2024 JavaScript Backend Frameworks Are Getting Weird..." },
+    { "id": "rW2YR6kljd8", "title": "Picking a Database is Hard..." },
+    { "id": "PINFQpMevj4", "title": "Wait, is NextJS the Framework of the Future?" },
+    { "id": "isTO0NahEM8", "title": "How I Build More Projects" },
+    { "id": "gO-fF4m_2Xg", "title": "The New NextJS Surprised Me..." },
+    { "id": "1WFodRUX4mM", "title": "Betting on SQLite..." }
+  ]
+}

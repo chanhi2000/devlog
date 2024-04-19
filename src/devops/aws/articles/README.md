@@ -10,7 +10,7 @@ tag:
   - aws 
   - amazon-web-services
   - blog
-  - yozm
+  - yozm.wishket.com
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -35,7 +35,7 @@ tag:
 {
   "title": "‘오브젝트 스토리지’는 어떻게 활용할까? | 요즘IT",
   "desc": "‘오브젝트 스토리지’는 어떻게 활용할까?",
-  "link": "/devops/aws/articles/yozm/2541.md",
+  "link": "/explore/articles/yozm.wishket.com/2541.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

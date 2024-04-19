@@ -1319,5 +1319,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "facebookexperimental/hermit",
+    "desc": "Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Julien-cpsn/ATAC",
+    "desc": "A simple API client (postman like) in your terminal",
+    "officialSite": "https://github.com/Julien-cpsn/ATAC/wiki",
+    "topics": ["api", "insomnia", "postman", "rust", "tui"]
   }
 ]

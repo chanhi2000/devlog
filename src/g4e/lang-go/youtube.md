@@ -41,5 +41,6 @@ head:
 <MyYouTubeItems jsonName="yu-MelkeyDev" /><!-- Melkey -->
 <MyYouTubeItems jsonName="yu-backend_blueprints" /><!-- Backend Blueprints -->
 <MyYouTubeItems jsonName="yu-x.kernel" /><!-- xKernel -->
+<MyYouTubeItems jsonName="yu-JsKIM_0_0" /><!-- 김종상 -->
 
 <TagLinks/>

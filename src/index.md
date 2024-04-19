@@ -5,7 +5,7 @@ title: Home
 icon: home
 heroText: chanhi2000
 heroFullScreen: true
-tagline: My Personal Super Mindmap
+tagline: My Personal Mindmap
 bgImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
 heroImage: https://avatars.githubusercontent.com/u/6296241?v=4
 projects:
@@ -21,6 +21,9 @@ projects:
   - name: Tool
     link: /tool/
     icon: fas fa-screwdriver-wrench
+  - name: AI
+    link: /ai/
+    icon: fas fa-brain
   - name: Explore
     link: /explore/
     icon: fas fa-globe

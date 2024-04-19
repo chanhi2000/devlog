@@ -2618,5 +2618,10 @@
     "desc": "Fast, Lightweight, Web-standards",
     "officialSite": "https://hono.dev",
     "topics": ["aws-lambda", "bun", "cloudflare", "cloudflare-workers", "deno", "npm", "router", "typescript", "web-framework"]
+  }, {
+    "repo": "figma/code-connect",
+    "desc": "A tool for connecting your design system components in code with your design system in Figma",
+    "officialSite": "",
+    "topics": []
   }
 ]

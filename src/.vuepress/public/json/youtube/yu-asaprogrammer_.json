@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/cTzhIzgjGffDZuAtsjyVHzb9hTBO2HJB2uqsoJHGI56fkQ_w94p8XOaK8clBQ7y2rBP2-QaV5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "G4V4xO9wyD8", "title": "12+ Hour MERN Masterclass: Build and Deploy a Threads App with Real-Time Chat Functionality" },
+    { "id": "sQ1zvdS8eU8", "title": "Build and Deploy a Full Stack WhatsApp Clone | Video Calls, Screen Sharing | React.js, TypeScript" },
     { "id": "HwCqsOis894", "title": "MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io | Super Detailed Tutorial" },
     { "id": "P6UyvDhNTbg", "title": "MERN Stack Project: Build and Deploy a Github-like App | React.js, MongoDB, Node.js, Passport.js" },
     { "id": "Vr-QHtbmd38", "title": "GraphQL Crash Course in 2024 | Build a Full Stack MERN App" },

@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/2dUz1znn1GCW4QqA__t-1E14E9QWq2nwBtCxKvFtzV6naeAyOyTq6BgT_Ic7o53CXhVc9XP7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9xzHJAT_Iqk", "title": "1. MapKit with SwiftUI - Regions, Markers and Annotations and CameraPosition" },
+    { "id": "Z3B8z6WhjCE", "title": "2. MapKit with SwiftUI - Map Destination Persistence and MockData" },
+    { "id": "7MbagyBB9VM", "title": "3. MapKit with SwiftUI - DestinationsList and Navigation" },
+    { "id": "SNni__HWoTI", "title": "4. MapKit with SwiftUI - MapManager and Searching" },
+    { "id": "_-x24ng9moA", "title": "5. MapKit with SwiftUI - Marker Selection and LookaroundView" },
+    { "id": "jjm8WOn0Xhk", "title": "6. MapKit with SwiftUI - Tap to place marker on Map" },
+    { "id": "xIU0PtHiwtg", "title": "7. MapKit with SwiftUI - User Location and LocationManager" },
+    { "id": "F-H1CQAWQSU", "title": "8. MapKit with SwiftUI - User Location Search and OpenInMaps" },
+    { "id": "9Lmb6HoHrm0", "title": "10. MapKit with SwiftUI - MapControls and Styles" },
+    { "id": "5koCT6h-EAY", "title": "Dynamic Application FAQs in SwiftUI" },
     { "id": "j24uVD-LCq8", "title": "Remote Repositories and GitHub" },
     { "id": "-peVc-7oDzs", "title": "Source Control with Xcode: Gitignore and config files" },
     { "id": "FT0DWIB_qTI", "title": "Forking, Issues and Pull Requests" },

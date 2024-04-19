@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/z6e4goZdbhZNhSjHOyx4VWxb1qvVBDfZndlwQuPNHm_E6kt5mLHyVavp9Le9VvIUGUQjhza2qA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NG8qTapopj4", "title": "Como EU lido com autorizações (permissões) nos meus apps" },
+    { "id": "rKz-IL6dFCU", "title": "Conhecendo o mercado | C# na Prática" },
+    { "id": "pIM0xkSDg7M", "title": "API para Upload de Arquivos | C# na Prática" },
+    { "id": "UVlFt05vND4", "title": "O código do meu novo app SaaS multi-tenant com Next.js" },
+    { "id": "az7NpD02RM4", "title": "Sistema de encurtamento de URLs | Node.js na Prática" },
+    { "id": "fZeNbnMqMLM", "title": "SaaS Single-tenant vs Multi-tenant (devo criar um banco por empresa!)" },
+    { "id": "YcH2kxqK3nc", "title": "Estratégias de autenticação entre front-end e back-end com JWT (cookies storage)" },
+    { "id": "aFTn3RRna1Q", "title": "NLW Unite | Abertura oficial | Online e gratuito" },
+    { "id": "j7PdI5LZSi0", "title": "NLW Unite | Encerramento (certificado + sorteios)" },
+    { "id": "x2j9_6jUveg", "title": "Os pré-requisitos pra entrar no mercado dev aumentaram?" },
     { "id": "Hg7etQH63M8", "title": "Criei uma feature do ZERO em um projeto interno (Next.js + OpenAI)" },
     { "id": "KiRVg5j1KAo", "title": "O Bun resolveu o maior problema dos bash scripts?! (Bun Shell)" },
     { "id": "sStBPj7JJpM", "title": "Essa é a forma que eu crio meus commits (conventional commits)" },

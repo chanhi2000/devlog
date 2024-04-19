@@ -595,11 +595,6 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "Winfredy/SadTalker",
-    "desc": "（CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
-    "topics": [],
-    "officialSite": "https://sadtalker.github.io"
-  }, {
     "repo": "VideoCrafter/VideoCrafter",
     "desc": "A Toolkit for Text-to-Video Generation and Editing",
     "topics": [],
@@ -4874,5 +4869,10 @@
     "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
     "officialSite": "https://arxiv.org/abs/2402.14207",
     "topics": []
+  }, {
+    "repo": "OpenTalker/SadTalker",
+    "desc": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+    "officialSite": "https://sadtalker.github.io/",
+    "topics": ["audio-driven-talking-face", "cvpr2023", "deep-fake", "deep-fakes", "image-animation", "talking-face", "talking-face-generation", "talking-head", "talking-heads"]
   }
 ]

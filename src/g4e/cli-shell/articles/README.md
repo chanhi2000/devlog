@@ -42,7 +42,7 @@ head:
 {
   "title": "Makefile | devkuma", 
   "desc": "Makefile은 UNIX 계열 OS에서 일반적인 빌드 도구인 'make'(make 명령어)에 실행할 절차를 기술한 텍스트 파일이다.", 
-  "link": "/g4e/cli-shell/articles/devkuma/makefile.md", 
+  "link": "/explore/articles/devkuma.com/makefile.md",
   "logo": "https://www.devkuma.com/favicons/favicon.ico",
   "background": "rgba(48,99,142,0.2)"
 }

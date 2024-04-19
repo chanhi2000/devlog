@@ -22,6 +22,7 @@ tag:
 
 - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 - [Writing GNOME Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
+- [Swift Server Workgroup (SSWG)](https://www.swift.org/sswg/)
 
 ---
 
@@ -94,6 +95,7 @@ tag:
 - [Create a Swift Package in Xcode](https://stevenpcurtis.medium.com/create-a-swift-package-in-xcode-e7700adf7a7d)
 - [A simple chat app with SwiftUI and WebSockets — or: Swift in the back, Swift in the front!](https://frzi.medium.com/a-simple-chat-app-with-swiftui-and-websockets-or-swift-in-the-back-swift-in-the-front-78b34c3dc912)
 - [Simplifying SwiftUI Navigation](https://medium.com/@mahmoudabdelshafi4/simplifying-swiftui-navigation-f510cb58f46f)
+- [`hinaabbaskhan` - Image Processing Using Swift](https://code.likeagirl.io/image-processing-using-swift-fa5cd5ffab98)
 
 ---
 
@@ -137,6 +139,8 @@ tag:
 
 - [`@varrall` - Adapting an App to visionOS](https://varrall.substack.com/p/adapting-an-app-to-visionos)
 - [`@jacobbartlett` - he 2FA app that tells you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
+- [`@fatbobman` - Fatbobman's Swift Weekly #026](https://weekly.fatbobman.com/p/fatbobmans-swift-weekly-026)
+- [`@rudrank` - Exploring Claude: Streaming Messages Using Claude 3 Haiku](https://www.rudrank.com/exploring-claude-streaming-messages-using-claude-3-haiku)
 
 ---
 
@@ -193,6 +197,7 @@ tag:
 ## Donny Wals
 
 - [Making your SwiftData models Codable](https://www.donnywals.com/making-your-swiftdata-models-codable)
+- [Actor reentrancy in Swift explained](https://www.donnywals.com/actor-reentrancy-in-swift-explained)
 
 ---
 
@@ -299,6 +304,7 @@ tag:
 
 - [SwiftData를 사용해보자! 1탄](https://falsy.me/swiftdata%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%b4%eb%b3%b4%ec%9e%90-1%ed%83%84/)
 - [`NSViewRepresentable`을 사용하여 SwiftUI 기반 앱에서 AppKit 사용하기](https://falsy.me/nsviewrepresentable%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-swiftui-%ea%b8%b0%eb%b0%98-%ec%95%b1%ec%97%90%ec%84%9c-appkit-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/)
+- [`WKWebView`의 웹 페이지에서 콘텍스트 메뉴의 이미지 다운로드 기능 구현하기(MacOS)](https://falsy.me/image-download-in-context-menu-on-wkwebview-macos/)
 
 ---
 
@@ -311,6 +317,39 @@ tag:
 ## 민소네
 
 - [Realistic Motion Blur](https://minsone.github.io/swiftui-code/Realistic-Motion-Blur/)
+
+---
+
+## Matteo Manferdini
+
+- [Decoding JSON with Dynamic Types in Swift [With Codable]](https://matteomanferdini.com/swift-codable-dynamic-type/)
+- [Decoding and Flattening Nested JSON with Codable](https://matteomanferdini.com/swift-codable-nested-json/)
+- [Decode JSON with Dynamic Keys in Swift [Dictionaries and Arrays]](https://matteomanferdini.com/swift-decode-json-dynamic-keys/)
+- [Parsing JSON in Swift: The Complete Guide [With Examples]](https://matteomanferdini.com/swift-parse-json )
+
+---
+
+## Digital Bunker
+
+- [Exploring ABI stability, `@frozen`, and library evolution mode](https://digitalbunker.dev/understanding-frozen-in-swift/)
+
+---
+
+## Swift and Tips
+
+- [Adaptive Text Color in SwiftUI based on Background](https://swiftandtips.com/adaptive-text-color-in-swiftui-based-on-background)
+
+---
+
+## Fatbobman's Blog
+
+- [New Frameworks, New Mindset: Unveiling the Observation and SwiftData Frameworks](https://fatbobman.com/en/posts/new-frameworks-new-mindset/)
+
+---
+
+## Edvinas Byla
+
+- [In Search of a Smooth Scroll](https://byla.lt/posts/in-search-of-smooth-scroll/)
 
 ---
 

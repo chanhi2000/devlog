@@ -42,7 +42,7 @@ head:
 {
   "title": "팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지 | 요즘IT",
   "desc": "팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지",
-  "link": "/g4e/git/articles/yozm/2545.md",
+  "link": "/explore/articles/yozm.wishket.com/2545.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

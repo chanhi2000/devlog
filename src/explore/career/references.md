@@ -67,6 +67,7 @@ tag:
 - [`@seochan99` - 컴퓨터 네트워크 1장 : introduction(네트워크 코어)](https://velog.io/@seochan99/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-1%EC%9E%A5-introduction%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%BD%94%EC%96%B4)
 - [`@seochan99` - 컴퓨터 네트워크 1장 : introduction(인터넷, 프로토콜, 네트워크 엣지)](https://velog.io/@seochan99/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-1%EC%9E%A5-introduction)
 - [`@qkrtkdwns3410` - 스토리지 아키텍처](https://velog.io/@qkrtkdwns3410/%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+- [`@dus532` - 이스포츠 뷰어십을 볼수 없을까? 소프트콘 이스포츠 제작기(1)](https://velog.io/@dus532/softconeesports1)
 
 ---
 
@@ -207,6 +208,8 @@ tag:
 - [[스파르타코딩클럽] 데일리미션 - Lv.4 웹개발 용어 정리 2](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv4-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-2)
 - [[내일배움캠프 1일차 TIL] 새로운 팀원 & 미니 프로젝트](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%9D%BC%EC%B0%A8-TIL-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%80%EC%9B%90-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [[내일배움캠프 2일차 TIL] 미니 프로젝트 개발 진척 상황](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-2%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A9)
+- [[내일배움캠프 3일차 TIL] 미니 프로젝트 개발 진척 상황2](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A92)
+- [[정보처리기사 실기] 개념요약 - 01. 요구사항 확인](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-01-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%99%95%EC%9D%B8)
 
 ---
 
@@ -265,6 +268,7 @@ tag:
 - [소명과 책임](https://www.thestartupbible.com/2024/04/on-the-calling-of-a-vc.html)
 - [피드백에 대해](https://www.thestartupbible.com/2024/04/is-your-vc-giving-you-feedback-on-rejection.html)
 - [거절은 새로운 시작](https://www.thestartupbible.com/2024/04/selling-starts-when-the-buyer-says-no.html)
+- [스케일은 우리의 적](https://www.thestartupbible.com/2024/04/scale-is-your-enemy.html)
 
 ---
 
@@ -432,6 +436,17 @@ tag:
 
 - [생각 정리, 그리고 Learn in Public](https://rinae.dev/posts/thinking-and-learn-in-public/)
 
+---
+
+## Miles UX/UI Insight
+
+- [블록체인 프로젝트 기획 경험기 (1) - Experience planning a blockchain project](https://vurias0203.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EA%B2%BD%ED%97%98%EA%B8%B0-1-Experience-planning-a-blockchain-project)
+
+---
+
+## 해맥(海脈)의 IT/정보기술
+
+- [CIO로서 2가지 주요 영역에만 집중하기로 결정했다면, 그 영역은 무엇일까?](https://i-bada.blogspot.com/2024/04/cio-2.html)
 
 ---
 

@@ -1111,7 +1111,7 @@
     "topics": []
   }, {
     "repo": "Mintplex-Labs/anything-llm",
-    "desc": "The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.",
+    "desc": "The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.",
     "officialSite": "https://useanything.com",
     "topics": ["agents", "ai-agents-framework", "chroma", "desktop-application", "document-chat", "langchain-app", "llama", "lmstudio", "local-llm", "localai", "ollama", "openai-chatgpt", "pinecone", "rag", "retrieval-augmented-generation", "vector-database"]
   }, {
@@ -2189,5 +2189,10 @@
     "desc": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
     "officialSite": "http://www.langflow.org",
     "topics": ["chatgpt", "langchain", "large-language-models", "react-flow"]
+  }, {
+    "repo": "nasa/openmct",
+    "desc": "A web based mission control framework. ",
+    "officialSite": "https://nasa.github.io/openmct/",
+    "topics": []
   }
 ]

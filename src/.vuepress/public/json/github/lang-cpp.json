@@ -1238,5 +1238,10 @@
     "desc": "Descent 3 by Outrage Entertainment",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "esphome/esphome",
+    "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "officialSite": "https://esphome.io/",
+    "topics": ["esp32", "esp8266", "hacktoberfest", "home-assistant", "home-automation", "iot", "mqtt", "platformio", "python", "yaml"]
   }
 ]

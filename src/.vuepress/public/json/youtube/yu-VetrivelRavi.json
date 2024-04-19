@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/QkPD88VYkdKErMwHfcefeQh8l4kB5f2MyPf5OLfaxh17j8r7bjk6LfqTGhsBRTKrdfgvZpyBHg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "y4DPYEBunCo", "title": "Building a Fullstack Spotify Clone V 2.0 🚀 | Next.js, TypeScript, Tailwind CSS, Supabase, Stripe" },
+    { "id": "-rL95-27Y-8", "title": "Day 1 - UI Layout & Structure Fullstack Spotify Clone V 2.0 | Next.js, TypeScript, Supabase, Stripe" },
+    { "id": "kQ17x5Jf6hc", "title": "Day 2 - Integrating Supabase & Authentication | Spotify Clone 2.0 NextJs Typescript" },
+    { "id": "cPmQSpoatwI", "title": "Day 3 -  Handling Form Data & Bugs | Spotify Clone 2.0 NextJs Typescript" },
+    { "id": "cd7FJE1-Nm8", "title": "Day 4 -  Fixing Bus & Handling Artist Data | Spotify Clone 2.0 NextJs Typescript" },
+    { "id": "fVYUEg_Gnx0", "title": "Day 5 -  Handling Song Form Data & Fixing The Bugs | Spotify Clone 2.0 NextJs Typescript" },
+    { "id": "xZxJd-TcoP4", "title": "Day 6 -  Implementing Search Options & Add To Favourites | Spotify Clone 2.0 NextJs Typescript" },
+    { "id": "Ir52DwQK5Ck", "title": "Day 7 -  Music Player Funcitonality | Spotify Clone 2.0 NextJs Typescript" },
+    { "id": "1aXDSP8H0P8", "title": "Day 8 -  Stripe Integrations & Deployment | Spotify Clone 2.0 NextJs Typescript" },
+    { "id": "qRwmWn_7Ipw", "title": "Full-Stack Resume Builder |  For Beginners | ReactJS, Firebase, React Query" },
     { "id": "_fv4e8LgMqg", "title": "Full Stack App-Store Mastery with ReactJS & Firebase Authentication & Cloud Functions" },
     { "id": "5FqMwEJ1j1I", "title": "Day 1 - Full-Stack Resume Builder Tutorial  For Beginners | ReactJS, Firebase, React Query" },
     { "id": "1hSrsR2WXOw", "title": "Day 2 - Full-Stack Resume Builder Tutorial  For Beginners | ReactJS, Firebase, React Query" },

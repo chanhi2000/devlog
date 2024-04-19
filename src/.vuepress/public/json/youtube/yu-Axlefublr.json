@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "Axlefublr",
+    "name": "Axlefublr (she\\they)",
+    "profile": "https://yt3.googleusercontent.com/Q2VKmJwD9bSuUHppcLw_k0JuGFNwEO3tR9NRZxPgVAeMEfa6WlGcq2VTAH8bLfWVVjUtOJ4mRg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "3qt1v9ZVh8k", "title": "Fish — The Power of a Good Shell — Stream VOD" },
+    { "id": "XTS9BRpxY2s", "title": "I Switched to NEOVIM (from Vscode) — Stream VOD" },
+    { "id": "l3BmiztENcc", "title": "Neotree: an actually usable filetree — Stream VOD" },
+    { "id": "DDuZnCnCnVc", "title": "I LOVE my in-memory filesystem! — Stream VOD" },
+    { "id": "sAnnasb77LM", "title": "Global Registers — 36 Clipboards! — Stream VOD" },
+    { "id": "l3BmiztENcc", "title": "Neotree: an actually usable filetree — Stream VOD" },
+    { "id": "4R8zIL569pM", "title": "Oil.nvim is now my File Manager! — Stream VOD" },
+    { "id": "YFOjeog7gA8", "title": "My Own, Better Harpoon! — Stream VOD" },
+    { "id": "bxHDdlnchB4", "title": "Birthday! woohoooo yahooo yipeee! — Stream VOD" },
+    { "id": "3qt1v9ZVh8k", "title": "Fish — The Power of a Good Shell — Stream VOD" }
+  ]
+}

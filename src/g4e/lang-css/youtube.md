@@ -15,7 +15,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -42,5 +41,7 @@ tag:
 <MyYouTubeItems jsonName="yu-Homgwart" /> <!-- 홈페이지마법사 -->
 <MyYouTubeItems jsonName="yu-rc_codex" /><!-- rccodex -->
 <MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
+<MyYouTubeItems jsonName="yu-appbrewery" /><!-- London App Brewery -->
+<MyYouTubeItems jsonName="yu-MattVisiwig" /><!-- Matt Visiwig -->
 
 <TagLinks />

@@ -19,7 +19,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -120,5 +119,6 @@ tag:
 <MyYouTubeItems jsonName="yu-11TechTalk" /><!-- 11번가 TechTalk -->
 <MyYouTubeItems jsonName="yu-EngineersSG" /><!-- Engineers.SG -->
 <MyYouTubeItems jsonName="yu-devmento" /><!-- 데브멘토(Devmento : Real IT Portal) -->
+<MyYouTubeItems jsonName="yu-SamsungNewsroom" /><!-- 삼성전자 뉴스룸 [Samsung Newsroom] -->
 
 <TagLinks />

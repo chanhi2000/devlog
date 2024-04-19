@@ -119,6 +119,10 @@ export const navbarEn = navbar([
         link: '/g4e/lang-js-vue/README.md',
         icon: 'fa-brands fa-vuejs',
       }, {
+        text: 'Svelte.js',
+        link: '/g4e/lang-js-svelte/README.md',
+        icon: 'iconfont icon-svelte',
+      }, {
         text: 'Mermaid.js',
         link: '/g4e/lang-js-mermaid/README.md',
         icon: 'iconfont icon-mermaid',
@@ -370,6 +374,24 @@ export const navbarEn = navbar([
       }
     ]
   }, {
+    text: '', // ai
+    icon: 'fas fa-brain',
+    children: [
+      {
+        text: 'OpenAI',
+        icon: 'iconfont icon-openai',
+        link: '/ai/openai/README.md',
+      }, {
+        text: 'LLM',
+        icon: 'fas fa-language',
+        link: '/ai/llm/README.md',
+      }, {
+        text: 'Gemini',
+        icon: 'fas fa-wand-magic-sparkles',
+        link: '/ai/gemini/README.md',
+      }, 
+    ]
+  }, {
     text: '', // explore
     icon: 'fas fa-globe',
     children: [
@@ -382,6 +404,10 @@ export const navbarEn = navbar([
         icon: 'fas fa-rss',
         link: '/explore/newsletter/README.md',
       }, {
+        text: 'Article(s)',
+        icon: 'fas fa-square-share-nodes',
+        link: '/explore/articles/README.md',
+      },{
         text: 'YouTube',
         icon: 'fa-brands fa-youtube',
         link: '/explore/youtube/README.md',

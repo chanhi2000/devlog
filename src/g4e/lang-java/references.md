@@ -192,6 +192,7 @@ tag:
 - [Java와 객체 지향 : OOP 4대 특성](https://shout-to-my-mae.tistory.com/412)
 - [[Test] `static` 블록 vs `@BeforeClass`](https://shout-to-my-mae.tistory.com/413)
 - [Java가 확장한 객체 지향 (`abstract`, 생성자, `static`, `final`, `this`, `super`)](https://shout-to-my-mae.tistory.com/414)
+- [스프링 삼각형 : IoC(제어의 역전) / DI(의존성 주입)](https://shout-to-my-mae.tistory.com/425)
 
 ### 컴공생의 발자취
 
@@ -201,6 +202,7 @@ tag:
 - [[ 99클럽 코테 스터디 15일차 TIL ] 프로그래머스(2016년)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-15%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42016%EB%85%84)
 - [[ 99클럽 코테 스터디 18일차 TIL ] 프로그래머스(개인정보 수집 유효기간](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-18%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
 - [[ 99클럽 코테 스터디 19일차 TIL ] 시간 초과 및 프로그래머스(연속된 부분 수열의 합)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-19%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%9C%EA%B0%84-%EC%B4%88%EA%B3%BC-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%97%B0%EC%86%8D%EB%90%9C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
+- [[ 99클럽 코테 스터디 20일차 TIL ] 프로그래머스(내적)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-20%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%B4%EC%A0%81)
 
 
 ### 류광의 번역 이야기

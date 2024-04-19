@@ -8,6 +8,10 @@ category:
   - TypeScript
   - Article(s)
 tag: 
+  - blog
+  - sitepoint.com
+  - devtoolstips.org
+  - yozm.wishket.com
   - js
   - javascript
   - ts
@@ -65,7 +69,7 @@ head:
 {
   "title": "프론트엔드 개발자가 알아야 할 ‘유닛 테스트’ 작성법 | 요즘IT",
   "desc": "프론트엔드 개발자가 알아야 할 ‘유닛 테스트’ 작성법",
-  "link": "/g4e/lang-js-node/articles/yozm/2483.md",
+  "link": "/explore/articles/yozm.wishket.com/2483.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -75,7 +79,7 @@ head:
 {
   "title": "SSR 환경(Node.js) 메모리 누수 디버깅 가이드 (1) | 요즘IT",
   "desc": "SSR 환경(Node.js) 메모리 누수 디버깅 가이드 (1)",
-  "link": "/g4e/lang-js-node/articles/yozm/2504.md",
+  "link": "/explore/articles/yozm.wishket.com/2504.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -85,7 +89,7 @@ head:
 {
   "title": "SSR 환경(Node.js) 메모리 누수 디버깅 가이드 (2) | 요즘IT",
   "desc": "SSR 환경(Node.js) 메모리 누수 디버깅 가이드 (2)",
-  "link": "/g4e/lang-js-node/articles/yozm/2505.md",
+  "link": "/explore/articles/yozm.wishket.com/2505.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -99,7 +103,7 @@ head:
 {
   "title": "See the accessibility tree",
   "desc": "Devtools Tips > See the accessibility tree",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/see-accessibility-tree.md",
+  "link": "/explore/articles/devtoolstips.org/see-accessibility-tree.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -109,7 +113,7 @@ head:
 {
   "title": "Name evaluated files with the sourceURL pragma",
   "desc": "Devtools Tips > Name evaluated files with the sourceURL pragma",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/name-evaluated-files.md",
+  "link": "/explore/articles/devtoolstips.org/name-evaluated-files.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -119,7 +123,7 @@ head:
 {
   "title": "Simulate the Window Controls Overlay feature for PWA",
   "desc": "Devtools Tips > Simulate the Window Controls Overlay feature for PWA",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/simulate-pwa-wco.md",
+  "link": "/explore/articles/devtoolstips.org/simulate-pwa-wco.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -129,7 +133,7 @@ head:
 {
   "title": "Inspect the user-agent DOM",
   "desc": "Devtools Tips > Inspect the user-agent DOM",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/inspect-user-agent-dom.md",
+  "link": "/explore/articles/devtoolstips.org/inspect-user-agent-dom.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -139,7 +143,7 @@ head:
 {
   "title": "Explain console errors by using artificial intelligence",
   "desc": "Devtools Tips > Explain console errors by using artificial intelligence",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/explain-errors-with-ai.md",
+  "link": "/explore/articles/devtoolstips.org/explain-errors-with-ai.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -149,7 +153,7 @@ head:
 {
   "title": "Enable DevTools in Safari",
   "desc": "Devtools Tips > Enable DevTools in Safari",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/enable-safari-devtools.md",
+  "link": "/explore/articles/devtoolstips.org/enable-safari-devtools.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -159,7 +163,7 @@ head:
 {
   "title": "Block DevTools",
   "desc": "Devtools Tips > Block DevTools",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/block-devtools.md",
+  "link": "/explore/articles/devtoolstips.org/block-devtools.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -169,7 +173,7 @@ head:
 {
   "title": "List all event listeners on the entire page",
   "desc": "Devtools Tips > List all event listeners on the entire page",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/list-all-event-listeners.md",
+  "link": "/explore/articles/devtoolstips.org/list-all-event-listeners.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -179,7 +183,7 @@ head:
 {
   "title": "Debug popups that appear on hover",
   "desc": "Devtools Tips > Debug popups that appear on hover",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/debug-popups-on-hover.md",
+  "link": "/explore/articles/devtoolstips.org/debug-popups-on-hover.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -189,7 +193,7 @@ head:
 {
   "title": "Force execution, skipping breakpoints, when paused",
   "desc": "Devtools Tips > Force execution, skipping breakpoints, when paused",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/force-execution-at-breakpoint.md",
+  "link": "/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -199,7 +203,7 @@ head:
 {
   "title": "See the viewport size",
   "desc": "Devtools Tips > See the viewport size",
-  "link": "/g4e/lang-js-node/articles/devtoolstips/see-viewport-size.md",
+  "link": "/explore/articles/devtoolstips.org/see-viewport-size.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -212,7 +216,7 @@ head:
 <SiteInfo
   name="5 Exciting New JavaScript Features in 2024 — SitePoint"
   desc="Explore some hotly anticipated new additions to JavaScript, including better date management with the Temporal API and pipe operators."
-  url="/g4e/lang-js-node/articles/sitepoint/20240312-new-javascript-ecmascript.md"
+  url="/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md"
   logo="https://www.sitepoint.com/favicons/512x512.png"
   preview="https://uploads.sitepoint.com/wp-content/uploads/2024/03/1710139726ecmascript2024-new-features.jpg"/>
 

@@ -8,6 +8,8 @@ category:
   - Container
   - Article(s)
 tag:
+  - blog
+  - towardsdatascience.com
   - podman
   - container
 ---
@@ -18,9 +20,17 @@ tag:
 
 ---
 
-## Table of Contents
+## towards data science
 
-<ToCLocal basePath="/devops/podman/articles/" />
+```component VPCard
+{
+  "title": "You Don’t Have to Use Docker Anymore",
+  "desc": "Docker is not the only containerization tool out there and there might just be better alternatives…",
+  "link": "/explore/articles/towardsdatascience.com/you-dont-have-to-use-docker-anymore.md",
+  "logo": "https://miro.medium.com/v2/resize:fill:96:96/2*p3sIQ1Ga2bfAbZYzoCcACw.jpeg",
+  "background": "rgba(10, 10, 10, 0.2)"
+}
+```
 
 ---
 

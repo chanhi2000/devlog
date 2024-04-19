@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_3leysxtsxo3.woff2?t=1713337436822') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_3leysxtsxo3.woff?t=1713337436822') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_3leysxtsxo3.ttf?t=1713337436822') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_3leysxtsxo3.svg?t=1713337436822#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_g6kqj504fg.woff2?t=1713507439171') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_g6kqj504fg.woff?t=1713507439171') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_g6kqj504fg.ttf?t=1713507439171') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_g6kqj504fg.svg?t=1713507439171#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-svelte:before { content: "\e6bb"; }
 .icon-redis:before { content: "\ec7c"; }
 .icon-ovirt:before { content: "\e612"; }
 .icon-qemu:before { content: "\e603"; }

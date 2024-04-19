@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/u0hA3qiqE5Vh5sAREZVdSa-jKWCuTwSJfErbRSpE9Tk8NBCoTrwh73DtXIzPujWaWwZ7hOitrqs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "52AM5GPUshk", "title": "I ran Linux for a year, this is my review." },
+    { "id": "1uLZU7h7r9I", "title": "Event sourcing anyone? How to install Apache Kafka in production" },
+    { "id": "ZFaHFMQW-fk", "title": "Mobile device management - How to install and use Headwind MDM" },
+    { "id": "eKf3my9qaOU", "title": "I chatted with a PDF document offline - Five simple steps to get up and running with PrivateGPT" },
+    { "id": "zFWKd6CwN7s", "title": "Generate images locally - How to setup and use Fooocus" },
     { "id": "iDFElTTjN1c", "title": "Using Sonatype Nexus as a proxy cache for docker and debian packages over Ceph RGW." },
     { "id": "WPS4DZ8gEYQ", "title": "Upgrade all the things... (TopGrade for Windows, Linux and Mac)" },
     { "id": "VwaR2VkvpzM", "title": "Recording audio in Javascript" },

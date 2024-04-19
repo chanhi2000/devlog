@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/fcCgvRHuv5nq0kcMERI8SkPFSaKk7_OR4e2ipR-33P-yDjojNv0owVlLtxBwnl5SsNWlNlfb=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "acI5lbKB5xU", "title": "The New TailwindCSS Looks Promising" },
+    { "id": "rqbhBopxrB0", "title": "Everyone's Going Crazy About Devin" },
+    { "id": "XMlzAFzWpqM", "title": "The Most Creative NPM Package I've Seen" },
+    { "id": "9jrNwmj73F4", "title": "A New Way to Write React" },
+    { "id": "PQfQZ9iH8bg", "title": "4 UI Design Tools I Can't Live Without" },
+    { "id": "ip6_6Tc4ACI", "title": "We Need to Talk About Redis." },
+    { "id": "kgHzwb37LLE", "title": "This UI Library Keeps Crushing It" },
+    { "id": "wkqwyrcuPs0", "title": "The Problem With UUIDs" },
     { "id": "OXk6Eabu7uM", "title": "This Animation Tool is Awesome" },
     { "id": "O6VbrLR6ro8", "title": "TypeScript Got a New Utility Type" },
     { "id": "sKDeTRlEVTE", "title": "The Results of Launching my SaaS" },

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "JsKIM_0_0",
+    "name": "김종상",
+    "profile": "https://yt3.ggpht.com/ytc/AIdro_lbpfOC9I8qLiOVcpkqVGISdiSIIKblr7zkprr7zVhB1cV6PVM=s48-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "w7vG-8mabPE", "title": "ToyProject ] Python ] Linux Server Monitoring System." },
+    { "id": "9meyzuNSUxA", "title": "ToyProject ] Python ] Linux Server Monitoring System. + GUI" },
+    { "id": "p7zHtPacDcI", "title": "ToyProject ] JS ] WebGame ] Registration & Login & Keep Logged In #04" }
+  ]
+}

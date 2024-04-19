@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "moddell",
+    "name": "ODDELL",
+    "profile": "https://yt3.googleusercontent.com/s7cgZFBvCFDKAm59-6xrRzGq0nV2BO97Pz80TIwv3d40_iVNqxtNqLbev0AtE1Vr_JOn0utu=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "GGBYFh4gpBE", "title": "This rare technique helps you solve difficult code problems" },
+    { "id": "tcARX9rLyvw", "title": "Learn more than 99% of software engineers with just two tools" },
+    { "id": "a4e3WSBjNX0", "title": "10x your coding speed with this universal plugin (IDE Mastery)" },
+    { "id": "T0tsduoqhaA", "title": "The productivity tool for programmers nobody is talking about (does it grow corn)" },
+    { "id": "CLinuXvfYs4", "title": "Devin will replace programmers, and its a good thing" },
+    { "id": "FxgGV0R1mSo", "title": "Become a coding wizard" },
+    { "id": "I6oHzSFS-Es", "title": "What I learned from 5840 hours of coding (so far)" },
+    { "id": "7cu2eO5oOZ8", "title": "How to learn code as fast as humanly possible" }
+  ]
+}

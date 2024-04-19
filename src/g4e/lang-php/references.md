@@ -55,7 +55,7 @@ tag:
 - [3.07. 파일 읽고 쓰기](https://ysedeveloper.tistory.com/entry/307-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B0%EA%B8%B0)
 - [3.08. 직렬화와 역직렬화](https://ysedeveloper.tistory.com/entry/308-%EC%A7%81%EB%A0%AC%ED%99%94%EC%99%80-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94)
 - [3.09. 다른 파일 포함하기](https://ysedeveloper.tistory.com/entry/309-%EB%8B%A4%EB%A5%B8-%ED%8C%8C%EC%9D%BC-%ED%8F%AC%ED%95%A8%ED%95%98%EA%B8%B0)
-
+- [3.10. 날짜 시간 계산하기](https://ysedeveloper.tistory.com/entry/310-%EB%82%A0%EC%A7%9C-%EC%8B%9C%EA%B0%84-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
 
 ---
 

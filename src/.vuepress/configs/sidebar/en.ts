@@ -48,8 +48,9 @@ export const sidebarEn = sidebar({
             {
               text: 'devkuma.com',
               collapsible: true,
+              icon: 'https://www.devkuma.com/favicons/favicon.ico',
               children: [
-                '/g4e/cli-shell/articles/devkuma/makefile.md',
+                '/explore/articles/devkuma.com/makefile.md',
               ]
             }
           ]
@@ -107,7 +108,14 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/g4e/git/articles/README.md',
-            '/g4e/git/articles/yozm/2545.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2545.md',
+              ]
+            }
           ]
         }
       ]
@@ -160,6 +168,22 @@ export const sidebarEn = sidebar({
         '/g4e/lang-java/references.md',
         '/g4e/lang-java/github.md',
         '/g4e/lang-java/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/g4e/lang-java/articles/README.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2478.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Spring',
@@ -192,6 +216,22 @@ export const sidebarEn = sidebar({
         '/g4e/lang-java-android/references.md',
         '/g4e/lang-java-android/github.md',
         '/g4e/lang-java-android/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/g4e/lang-java-android/articles/README.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2457.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Kafka',
@@ -219,12 +259,38 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-clipboard-question',
           children: [
             '/g4e/lang-swift/interview-prep.md',
-            
           ]
         },
         '/g4e/lang-swift/references.md',
         '/g4e/lang-swift/github.md',
         '/g4e/lang-swift/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            {
+              text: 'douggregor.net',
+              collapsible: true,
+              icon: 'fas fa-globe',
+              children: [
+                '/explore/articles/douggregor.net/swift-for-cpp-practitioners-1.md',
+                '/explore/articles/douggregor.net/swift-for-cpp-practitioners-2.md',
+                '/explore/articles/douggregor.net/swift-for-cpp-practitioners-3.md',
+                '/explore/articles/douggregor.net/swift-for-cpp-practitioners-4.md',
+                '/explore/articles/douggregor.net/swift-for-cpp-practitioners-5.md',
+                '/explore/articles/douggregor.net/swift-for-cpp-practitioners-6.md',
+              ]
+            }, {
+              text: 'hackingwithswift.com',
+              collapsible: true,
+              icon: 'https://hackingwithswift.com/favicon.svg',
+              children: [
+                '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Node.js',
@@ -249,32 +315,35 @@ export const sidebarEn = sidebar({
             {
               text: 'yozm.wishket.com',
               collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
               children: [
-                '/g4e/lang-js-node/articles/yozm/2483.md',
-                '/g4e/lang-js-node/articles/yozm/2504.md',
-                '/g4e/lang-js-node/articles/yozm/2505.md',
+                '/explore/articles/yozm.wishket.com/2483.md',
+                '/explore/articles/yozm.wishket.com/2504.md',
+                '/explore/articles/yozm.wishket.com/2505.md',
               ]
             }, {
               text: 'devtoolstips.org',
               collapsible: true,
+              icon: 'https://devtoolstips.org/assets/favicon.ico',
               children: [
-                '/g4e/lang-js-node/articles/devtoolstips/see-accessibility-tree.md',
-                '/g4e/lang-js-node/articles/devtoolstips/name-evaluated-files.md',
-                '/g4e/lang-js-node/articles/devtoolstips/simulate-pwa-wco.md',
-                '/g4e/lang-js-node/articles/devtoolstips/inspect-user-agent-dom.md',
-                '/g4e/lang-js-node/articles/devtoolstips/explain-errors-with-ai.md',
-                '/g4e/lang-js-node/articles/devtoolstips/enable-safari-devtools.md',
-                '/g4e/lang-js-node/articles/devtoolstips/block-devtools.md',
-                "/g4e/lang-js-node/articles/devtoolstips/list-all-event-listeners.md",
-                "/g4e/lang-js-node/articles/devtoolstips/debug-popups-on-hover.md",
-                "/g4e/lang-js-node/articles/devtoolstips/force-execution-at-breakpoint.md",
-                "/g4e/lang-js-node/articles/devtoolstips/see-viewport-size.md",
+                '/explore/articles/devtoolstips.org/see-accessibility-tree.md',
+                '/explore/articles/devtoolstips.org/name-evaluated-files.md',
+                '/explore/articles/devtoolstips.org/simulate-pwa-wco.md',
+                '/explore/articles/devtoolstips.org/inspect-user-agent-dom.md',
+                '/explore/articles/devtoolstips.org/explain-errors-with-ai.md',
+                '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
+                '/explore/articles/devtoolstips.org/block-devtools.md',
+                "/explore/articles/devtoolstips.org/list-all-event-listeners.md",
+                "/explore/articles/devtoolstips.org/debug-popups-on-hover.md",
+                "/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md",
+                "/explore/articles/devtoolstips.org/see-viewport-size.md",
               ]
             }, {
               text: 'sitepoint.com',
               collapsible: true,
+              icon: 'https://www.sitepoint.com/favicons/512x512.png',
               children: [
-                '/g4e/lang-js-node/articles/sitepoint/20240312-new-javascript-ecmascript.md',
+                '/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md',
               ]
             }
           ]
@@ -297,10 +366,17 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/g4e/lang-js-react/articles/README.md',
-            '/g4e/lang-js-react/articles/yozm/2479.md',
-            '/g4e/lang-js-react/articles/yozm/2493.md',
-            '/g4e/lang-js-react/articles/yozm/2528.md',
-            '/g4e/lang-js-react/articles/yozm/2537.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2479.md',
+                '/explore/articles/yozm.wishket.com/2493.md',
+                '/explore/articles/yozm.wishket.com/2528.md',
+                '/explore/articles/yozm.wishket.com/2537.md',
+              ]
+            }
           ]
         }
       ]
@@ -320,7 +396,31 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/g4e/lang-js-vue/articles/README.md',
-            '/g4e/lang-js-vue/articles/yozm/2511.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2511.md',
+              ]
+            }
+          ]
+        }
+      ]
+    }, {
+      text: 'Svelte.js',
+      collapsible: true,
+      icon: 'iconfont icon-svelte',
+      children: [
+        '/g4e/lang-js-svelte/README.md',
+        '/g4e/lang-js-svelte/references.md',
+        '/g4e/lang-js-svelte/github.md',
+        '/g4e/lang-js-svelte/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
           ]
         }
       ]
@@ -341,6 +441,24 @@ export const sidebarEn = sidebar({
         '/g4e/lang-python/references.md',
         '/g4e/lang-python/github.md',
         '/g4e/lang-python/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/g4e/lang-python/articles/README.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2543.md',
+                '/explore/articles/yozm.wishket.com/2536.md',
+                '/explore/articles/yozm.wishket.com/2057.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'CSS',
@@ -488,35 +606,7 @@ export const sidebarEn = sidebar({
         '/g4e/lang-latex/references.md',
         '/g4e/lang-latex/github.md', 
       ]
-    },
-    //endregion
-    {
-      text: 'OpenAI',
-      collapsible: true,
-      icon: 'iconfont icon-openai',
-      children: [
-        '/g4e/ai-openai/README.md',
-        '/g4e/ai-openai/references.md',
-        '/g4e/ai-openai/youtube.md',
-      ]
     }, {
-      text: '🦙Llm',
-      collapsible: true,
-      children: [
-        '/g4e/ai-llm/README.md',
-        '/g4e/ai-llm/references.md',
-        '/g4e/ai-llm/youtube.md',
-      ]
-    }, {
-      text: 'Gemini',
-      collapsible: true,
-      icon: 'fas fa-wand-magic-sparkles',
-      children: [
-        '/g4e/ai-gemini/README.md',
-        '/g4e/ai-gemini/references.md',
-      ]
-    }, 
-    {
       text: 'Regex',
       collapsible: true,
       icon: 'iconfont icon-regexp',
@@ -534,7 +624,7 @@ export const sidebarEn = sidebar({
         '/g4e/hardware/references.md',
         '/g4e/hardware/youtube.md',
       ]
-    },{
+    }, {
       text: 'Markdown',
       collapsible: true,
       icon: 'fa-brands fa-markdown',
@@ -568,6 +658,22 @@ export const sidebarEn = sidebar({
         '/tool/intellij-idea/troubleshooting.md',
         '/tool/intellij-idea/references.md',
         '/tool/intellij-idea/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/intellij-idea/articles/README.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2478.md',
+              ]
+            }
+          ]
+        }
       ]
     },{
       text: 'VSCode',
@@ -581,6 +687,22 @@ export const sidebarEn = sidebar({
         '/tool/vscode/snippets.md',
         '/tool/vscode/references.md',
         '/tool/vscode/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/vscode/articles/README.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2478.md',
+              ]
+            }
+          ]
+        }
       ],
     }, {
       text: 'Sublime Text',
@@ -756,6 +878,22 @@ export const sidebarEn = sidebar({
         '/devops/docker/favorite-containers.md',
         '/devops/docker/references.md',
         '/devops/docker/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/docker/articles/README.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2527.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Podman',
@@ -771,7 +909,14 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/podman/articles/README.md',
-            '/devops/podman/articles/you-dont-have-to-use-docker-anymore.md',
+            {
+              text: 'towardsdatascience.com',
+              collapsible: true,
+              icon: 'https://cdn-images-1.medium.com/v2/resize:fill:128:128/1*VzTUkfeGymHP4Bvav-T-lA.png',
+              children: [
+                '/explore/articles/towardsdatascience.com/you-dont-have-to-use-docker-anymore.md',
+              ]
+            }
           ]
         }
       ]
@@ -788,7 +933,16 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            
+            '/devops/kubernetes/articles/README.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/1990.md',
+                '/explore/articles/yozm.wishket.com/2515.md',
+              ]
+            }
           ]
         }
       ]
@@ -814,7 +968,14 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/aws/articles/README.md',
-            '/devops/aws/articles/yozm/2541.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2541.md',
+              ]
+            }
           ]
         }
       ]
@@ -835,6 +996,22 @@ export const sidebarEn = sidebar({
         '/devops/security/README.md',
         '/devops/security/references.md',
         '/devops/security/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/security/articles/README.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2503.md',                
+              ]
+            }
+          ]
+        },
       ]
     }, {
       text: 'HTTP',
@@ -997,8 +1174,39 @@ export const sidebarEn = sidebar({
       ]
     },
     //endregion
-  ],
-  '/projects/': [
+  ], '/ai/': [
+    {
+      text: 'AI',
+      icon: 'fas fa-brain',
+      children: [ '/ai/README.md' ],
+    }, {
+      text: 'OpenAI',
+      collapsible: true,
+      icon: 'iconfont icon-openai',
+      children: [
+        '/ai/openai/README.md',
+        '/ai/openai/references.md',
+        '/ai/openai/youtube.md',
+      ]
+    }, {
+      text: 'LLM',
+      collapsible: true,
+      icon: 'fas fa-language',
+      children: [
+        '/ai/llm/README.md',
+        '/ai/llm/references.md',
+        '/ai/llm/youtube.md',
+      ]
+    }, {
+      text: 'Gemini',
+      collapsible: true,
+      icon: 'fas fa-wand-magic-sparkles',
+      children: [
+        '/ai/gemini/README.md',
+        '/ai/gemini/references.md',
+      ]
+    }, 
+  ], '/projects/': [
     {
       text: 'Project',
       icon: 'fas fa-industry',
@@ -1055,6 +1263,97 @@ export const sidebarEn = sidebar({
       children: [
         '/explore/newsletter/README.md',
         '/explore/newsletter/data-science.md',
+      ]
+    }, {
+      text: 'Article(s)',
+      collapsible: true,
+      icon: 'fas fa-square-share-nodes',
+      children: [
+        {
+          text: 'yozm.wishket.com',
+          collapsible: true,
+          icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+          children: [
+            '/explore/articles/yozm.wishket.com/1990.md',
+            '/explore/articles/yozm.wishket.com/2057.md',
+            '/explore/articles/yozm.wishket.com/2425.md',
+            '/explore/articles/yozm.wishket.com/2457.md',
+            '/explore/articles/yozm.wishket.com/2478.md',
+            '/explore/articles/yozm.wishket.com/2479.md',
+            '/explore/articles/yozm.wishket.com/2483.md',
+            '/explore/articles/yozm.wishket.com/2493.md',
+            '/explore/articles/yozm.wishket.com/2499.md',
+            '/explore/articles/yozm.wishket.com/2503.md',
+            '/explore/articles/yozm.wishket.com/2504.md',
+            '/explore/articles/yozm.wishket.com/2505.md',
+            '/explore/articles/yozm.wishket.com/2511.md',
+            '/explore/articles/yozm.wishket.com/2515.md',
+            '/explore/articles/yozm.wishket.com/2527.md',
+            '/explore/articles/yozm.wishket.com/2528.md',
+            '/explore/articles/yozm.wishket.com/2536.md',
+            '/explore/articles/yozm.wishket.com/2537.md',
+            '/explore/articles/yozm.wishket.com/2541.md',
+            '/explore/articles/yozm.wishket.com/2543.md',
+            '/explore/articles/yozm.wishket.com/2545.md',
+          ]
+        }, {
+          text: 'devkuma.com',
+          icon: 'https://devkuma.com/favicons/favicon.ico',
+          collapsible: true,
+          children: [
+            '/explore/articles/devkuma.com/makefile.md',
+          ]
+        }, {
+          text: 'devtoolstips.org',
+          collapsible: true,
+          icon: 'https://devtoolstips.org/assets/favicon.ico',
+          children: [
+            '/explore/articles/devtoolstips.org/see-accessibility-tree.md',
+            '/explore/articles/devtoolstips.org/name-evaluated-files.md',
+            '/explore/articles/devtoolstips.org/simulate-pwa-wco.md',
+            '/explore/articles/devtoolstips.org/inspect-user-agent-dom.md',
+            '/explore/articles/devtoolstips.org/explain-errors-with-ai.md',
+            '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
+            '/explore/articles/devtoolstips.org/block-devtools.md',
+            "/explore/articles/devtoolstips.org/list-all-event-listeners.md",
+            "/explore/articles/devtoolstips.org/debug-popups-on-hover.md",
+            "/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md",
+            "/explore/articles/devtoolstips.org/see-viewport-size.md",
+          ]
+        }, {
+          text: 'sitepoint.com',
+          collapsible: true,
+          icon: 'https://www.sitepoint.com/favicons/512x512.png',
+          children: [
+            '/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md',
+          ]
+        }, {
+          text: 'towardsdatascience.com',
+          collapsible: true,
+          icon: 'https://cdn-images-1.medium.com/v2/resize:fill:128:128/1*VzTUkfeGymHP4Bvav-T-lA.png',
+          children: [
+            '/explore/articles/towardsdatascience.com/you-dont-have-to-use-docker-anymore.md',
+          ]
+        }, {
+          text: 'douggregor.net',
+          collapsible: true,
+          icon: 'fas fa-globe',
+          children: [
+            '/explore/articles/douggregor.net/swift-for-cpp-practitioners-1.md',
+            '/explore/articles/douggregor.net/swift-for-cpp-practitioners-2.md',
+            '/explore/articles/douggregor.net/swift-for-cpp-practitioners-3.md',
+            '/explore/articles/douggregor.net/swift-for-cpp-practitioners-4.md',
+            '/explore/articles/douggregor.net/swift-for-cpp-practitioners-5.md',
+            '/explore/articles/douggregor.net/swift-for-cpp-practitioners-6.md',
+          ]
+        }, {
+          text: 'hackingwithswift.com',
+          collapsible: true,
+          icon: 'https://hackingwithswift.com/favicon.svg',
+          children: [
+            '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
+          ]
+        }
       ]
     }, {
       text: 'Youtube',

@@ -166,6 +166,8 @@ tag:
 - [`@neity16` - 핵심만 콕 쿠버네티스 (2) - `k8s` 기본 개념](https://velog.io/@neity16/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EC%BD%95-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-2-k8s-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
 - [`!1996yyk` - [k8s] Set Odd Master Nodes On `k8s`](https://velog.io/@1996yyk/k8s-Set-Odd-Master-Nodes-On-k8s)
 - [`@qkrtkdwns3410` - [도커&쿠버] 도커 컨테이너에서 호스트 파일 복사 등](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4%EC%BF%A0%EB%B2%84-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%ED%98%B8%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EB%B3%B5%EC%82%AC-%EB%93%B1)
+- [`@qkrtkdwns3410` - 쿠버네티스란](https://velog.io/@qkrtkdwns3410/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%9E%80)
+- [`@qkrtkdwns3410` - 마스터 노드와 워커 노드](https://velog.io/@qkrtkdwns3410/%EB%A7%88%EC%8A%A4%ED%84%B0-%EB%85%B8%EB%93%9C%EC%99%80-%EC%9B%8C%EC%BB%A4-%EB%85%B8%EB%93%9C)
 
 ---
 
@@ -173,6 +175,8 @@ tag:
 
 - [Kubernetes Affinity, 제대로 이해하기](https://gngsn.tistory.com/283)
 - [Kubernetes Scheduler, 제대로 이해하기](https://gngsn.tistory.com/284)
+- [Kubernetes ConfigMap & Secret, 제대로 이해하기](https://gngsn.tistory.com/288)
+- [Kubernetes, 제대로 이해하기](https://gngsn.tistory.com/289)
 
 ---
 

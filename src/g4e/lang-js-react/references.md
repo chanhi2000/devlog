@@ -27,7 +27,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -615,6 +614,7 @@ head:
 ## Life Log
 
 - [10만건 이상의 데이터 in front (테이블 개선)](https://ravenkim97.tistory.com/400)
+- [Warning: Maximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.](https://ravenkim97.tistory.com/407)
 
 ---
 
