@@ -71,9 +71,9 @@
     "topics": ["vim", "esp32", "bluetooth", "initial-v"]
   }, {
     "repo": "ggerganov/llama.cpp",
-    "desc": "Port of Facebook's LLaMA model in C/C++",
+    "desc": "LLM inference in C/C++",
     "officialSite": "",
-    "topics": []
+    "topics": ["ggml", "llama"]
   }, {
     "repo": "ggerganov/whisper.cpp",
     "desc": "Port of OpenAI's Whisper model in C/C++",
@@ -1243,5 +1243,10 @@
     "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
     "officialSite": "https://esphome.io/",
     "topics": ["esp32", "esp8266", "hacktoberfest", "home-assistant", "home-automation", "iot", "mqtt", "platformio", "python", "yaml"]
+  }, {
+    "repo": "mudler/LocalAI",
+    "desc": ":robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.",
+    "officialSite": "https://localai.io",
+    "topics": ["ai", "alpaca", "api", "api-rest", "audio-generation", "coqui", "falcon", "gemma", "gpt4all", "image-generation", "kubernetes", "llama", "llm", "mamba", "mistral", "musicgen", "rwkv", "stable-diffusion", "text-generation", "tts"]
   }
 ]

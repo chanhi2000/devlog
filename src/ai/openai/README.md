@@ -21,7 +21,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/g4e/ai-openai/" />
+<ToCLocal basePath="/programming/ai-openai/" />
 
 ---
 

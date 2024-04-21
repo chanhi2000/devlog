@@ -1240,11 +1240,6 @@
     "officialSite": "https://chatgpt.js.org",
     "topics": ["javascript", "nlp", "chat", "bot", "machine-learning", "library", "ai", "js", "frontend", "chatbot", "ml", "artificial-intelligence", "openai", "gpt", "clientside", "conversational-bots", "conversational-ai", "gpt-3", "gpt-4", "chatgpt"]
   }, {
-    "repo": "cypress-io/cypress",
-    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
-    "officialSite": "https://cypress.io",
-    "topics": ["testing", "test", "test-suite", "test-runner", "test-automation", "tests", "e2e-tests", "testing-tools", "javascript-tests", "end-to-end-testing", "cypress", "e2e-testing"]
-  }, {
     "repo": "thedevdojo/pines",
     "desc": "The Pines UI library",
     "officialSite": "https://devdojo.com/pines",
@@ -2193,6 +2188,21 @@
     "repo": "nasa/openmct",
     "desc": "A web based mission control framework. ",
     "officialSite": "https://nasa.github.io/openmct/",
+    "topics": []
+  }, {
+    "repo": "greensock/GSAP",
+    "desc": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
+    "officialSite": "https://gsap.com",
+    "topics": ["animation", "gsap", "javascript", "javascript-library", "scroll"]
+  }, {
+    "repo": "tinyworldmap/tiny-world-map",
+    "desc": "tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "libccy/noname",
+    "desc": "",
+    "officialSite": "http://noname.pub",
     "topics": []
   }
 ]

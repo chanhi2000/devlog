@@ -1,0 +1,33 @@
+---
+lang: ko-KR
+title: Overview of webpack, a JavaScript bundler
+description: Article(s) > Overview of webpack, a JavaScript bundler
+icon: fa-brands fa-js
+category: 
+  - Node.js
+  - JavaScript
+  - Article(s)
+tag: 
+  - blog
+  - freecodecamp.org
+  - js
+  - javascript
+  - node.js
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+<SiteInfo
+  name="What is Dead Zone in JavaScript?"
+  desc="In JavaScript, you may encounter the term &quot;dead zone.&quot; While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively."
+  url="https://freecodecamp.org/news/what-is-dead-zone-in-javascript/?ref=dailydev"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"/>
+
+---
+
+<TagLinks />

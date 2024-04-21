@@ -43,158 +43,158 @@ export const navbarEn = navbar([
       }
     ],
   }, {
-    text: '', // g4e
-    icon: 'fas fa-book',
+    text: '', // programming
+    icon: 'fas fa-keyboard',
     children: [
       {
-        text: 'G4E',
-        link: "/g4e/README.md",
-        icon: 'fas fa-book',
+        text: 'Programming',
+        link: "/programming/README.md",
+        icon: 'fas fa-keyboard',
       }, {
         text: 'API - Kakao',
-        link: '/g4e/api-kakao/README.md',
+        link: '/programming/api-kakao/README.md',
         icon: 'iconfont icon-kakao'
       }, {
         text: 'API - NCloud',
-        link: '/g4e/api-ncloud/README.md',
+        link: '/programming/api-ncloud/README.md',
         icon: 'iconfont icon-naver'
       }, {
         text: 'Shell',
-        link: '/g4e/cli-shell/README.md',
+        link: '/programming/sh/README.md',
         icon: 'iconfont icon-shell'
       }, {
         text: 'Batchfile (Windows)',
-        link: '/g4e/cli-batchfile/README.md',
+        link: '/programming/batchfile/README.md',
         icon: 'fas fa-gears',
       }, {
         text: 'Powershell',
-        link: '/g4e/cli-pwsh/README.md',
+        link: '/programming/pwsh/README.md',
         icon: 'iconfont icon-powershell',
       }, {
         text: 'Git',
-        link: '/g4e/git/README.md',
+        link: '/programming/git/README.md',
         icon: 'iconfont icon-git',
       }, {
         text: 'Vim',
-        link: '/g4e/cli-vim/README.md',
+        link: '/programming/vim/README.md',
         icon: 'iconfont icon-vim'
       }, {
         text: 'Gradle',
-        link: '/g4e/lang-gradle/README.md',
+        link: '/programming/gradle/README.md',
         icon: 'iconfont icon-gradle'
       }, {
         text: 'Maven',
-        link: '/g4e/lang-maven/README.md',
+        link: '/programming/maven/README.md',
         icon: 'iconfont icon-maven',
       }, {
         text: 'Java',
-        link: '/g4e/lang-java/README.md',
+        link: '/programming/java/README.md',
         icon: 'fa-brands fa-java'
       }, {
         text: 'Spring',
-        link: '/g4e/lang-java-spring/README.md',
+        link: '/programming/java-spring/README.md',
         icon: 'iconfont icon-spring',      
       }, {
         text: 'Android',
-        link: '/g4e/lang-java-android/README.md',
+        link: '/programming/java-android/README.md',
         icon: 'fa-brands fa-android'
       }, {
         text: 'Kafka',
-        link: '/g4e/lang-java-kafka/README.md',
+        link: '/programming/java-kafka/README.md',
         icon: 'iconfont icon-apachekafka',
       }, {
         text: 'Swift',
-        link: '/g4e/lang-swift/README.md',
+        link: '/programming/swift/README.md',
         icon: 'fa-brands fa-swift',
       }, {
         text: 'Node.js',
-        link: '/g4e/lang-js-node/README.md',
+        link: '/programming/js-node/README.md',
         icon: 'fa-brands fa-node',
       }, {
         text: 'React.js',
-        link: '/g4e/lang-js-react/README.md',
+        link: '/programming/js-react/README.md',
         icon: 'fa-brands fa-react',
       }, {
         text: 'Vue.js',
-        link: '/g4e/lang-js-vue/README.md',
+        link: '/programming/js-vue/README.md',
         icon: 'fa-brands fa-vuejs',
       }, {
         text: 'Svelte.js',
-        link: '/g4e/lang-js-svelte/README.md',
+        link: '/programming/js-svelte/README.md',
         icon: 'iconfont icon-svelte',
       }, {
         text: 'Mermaid.js',
-        link: '/g4e/lang-js-mermaid/README.md',
+        link: '/programming/js-mermaid/README.md',
         icon: 'iconfont icon-mermaid',
       }, {
         text: 'Python',
-        link: '/g4e/lang-python/README.md',
+        link: '/programming/python/README.md',
         icon: 'fa-brands fa-python',
       }, {
         text: 'CSS',
-        link: '/g4e/lang-css/README.md',
+        link: '/programming/css/README.md',
         icon: 'fa-brands fa-css3-alt'
       }, {
         text: 'Rust',
-        link: '/g4e/lang-rust/README.md',
+        link: '/programming/rust/README.md',
         icon: 'fa-brands fa-rust'
       }, {
         text: 'Lua',
-        link: '/g4e/lang-lua/README.md',
+        link: '/programming/lua/README.md',
         icon: 'iconfont icon-lua',
       }, {
         text: 'CSharp',
-        link: '/g4e/lang-csharp/README.md',
+        link: '/programming/csharp/README.md',
         icon: 'iconfont icon-csharp',
       }, {
         text: 'Go',
-        link: '/g4e/lang-go/README.md',
+        link: '/programming/go/README.md',
         icon: 'fa-brands fa-golang'
       }, {
         text: 'Dart',
-        link: '/g4e/lang-dart/README.md',
+        link: '/programming/dart/README.md',
         icon: 'iconfont icon-dart'
       }, {
         text: 'php',
-        link: '/g4e/lang-php/README.md',
+        link: '/programming/php/README.md',
         icon: 'fa-brands fa-php'
       }, {
         text: 'Ruby',
-        link: '/g4e/lang-ruby/README.md',
+        link: '/programming/ruby/README.md',
         icon: 'iconfont icon-ruby',
       }, {
         text: 'Elixir',
-        link: '/g4e/lang-elixir/README.md',
+        link: '/programming/elixir/README.md',
         icon: 'iconfont icon-elixir',
       }, {
         text: 'Haskell',
-        link: '/g4e/lang-haskell/README.md',
+        link: '/programming/haskell/README.md',
         icon: 'iconfont icon-haskell',
       }, {
         text: 'C',
-        link: '/g4e/lang-c/README.md',
+        link: '/programming/c/README.md',
         icon: 'iconfont icon-c',
       }, {
         text: 'Cpp',
-        link: '/g4e/lang-cpp/README.md',
+        link: '/programming/cpp/README.md',
         icon: 'iconfont icon-cpp',
       }, {
         text: 'Zig',
-        link: '/g4e/lang-zig/README.md',
+        link: '/programming/zig/README.md',
         icon: 'iconfont icon-zig',
       }, {
         text: 'LaTeX',
-        link: '/g4e/lang-latex/README.md',
+        link: '/programming/latex/README.md',
         icon: 'iconfont icon-tex',
       }
     ]
   }, {
     text: '',
-    icon: 'fas fa-cubes-stacked',
+    icon: 'fas fa-network-wired',
     children: [ 
       {
         text: 'DevOps',
-        icon: 'fas fa-cubes-stacked',
+        icon: 'fas fa-network-wired',
         link: '/devops/README.md',
       }, {
         text: 'Github',
@@ -475,7 +475,7 @@ export const navbarEn = navbar([
         link: 'https://chanhi2000.github.io/crashcourse/kubernetes/'
       },{
         text: 'DevOps',
-        icon: 'fas fa-cubes-stacked',
+        icon: 'fas fa-network-wired',
         link: 'https://chanhi2000.github.io/crashcourse/devops/'
       }, {
         text: 'Misc',

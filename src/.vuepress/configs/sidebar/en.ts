@@ -1,11 +1,11 @@
 import { sidebar } from 'vuepress-theme-hope'
 
 export const sidebarEn = sidebar({
-  '/g4e/': [
+  '/programming/': [
     {
-      text: 'G4E',
-      icon: 'fas fa-book',
-      children: [ '/g4e/README.md' ],
+      text: 'Programming',
+      icon: 'fas fa-keyboard',
+      children: [ '/programming/README.md' ],
     },
     //region: api
     {
@@ -13,38 +13,38 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-kakao',
       children: [
-        '/g4e/api-kakao/README.md',
-        '/g4e/api-kakao/local.md',
-        '/g4e/api-kakao/push.md',
-        '/g4e/api-kakao/references.md'
+        '/programming/api-kakao/README.md',
+        '/programming/api-kakao/local.md',
+        '/programming/api-kakao/push.md',
+        '/programming/api-kakao/references.md'
       ]
     },  {
       text: 'API - NCloud',
       collapsible: true,
       icon: 'iconfont icon-naver',
       children: [
-         '/g4e/api-ncloud/README.md',
-         '/g4e/api-ncloud/geolocation.md',
-         '/g4e/api-ncloud/references.md',
+         '/programming/api-ncloud/README.md',
+         '/programming/api-ncloud/geolocation.md',
+         '/programming/api-ncloud/references.md',
         ]
     }, {
       text: 'Shell',
       collapsible: true,
       icon: 'iconfont icon-shell',
       children: [
-        '/g4e/cli-shell/README.md',
-        '/g4e/cli-shell/basics.md',
-        '/g4e/cli-shell/tips.md',
-        '/g4e/cli-shell/troubleshooting.md',
-        '/g4e/cli-shell/references.md',
-        '/g4e/cli-shell/github.md',
-        '/g4e/cli-shell/youtube.md',
+        '/programming/sh/README.md',
+        '/programming/sh/basics.md',
+        '/programming/sh/tips.md',
+        '/programming/sh/troubleshooting.md',
+        '/programming/sh/references.md',
+        '/programming/sh/github.md',
+        '/programming/sh/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/g4e/cli-shell/articles/README.md',
+            '/programming/sh/articles/README.md',
             {
               text: 'devkuma.com',
               collapsible: true,
@@ -61,53 +61,53 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fas fa-gears',
       children: [
-        '/g4e/cli-batchfile/README.md',
-        '/g4e/cli-batchfile/basics.md',
-        '/g4e/cli-batchfile/tips.md',
-        '/g4e/cli-batchfile/snippets.md',
-        '/g4e/cli-batchfile/references.md',
-        '/g4e/cli-batchfile/github.md',
+        '/programming/batchfile/README.md',
+        '/programming/batchfile/basics.md',
+        '/programming/batchfile/tips.md',
+        '/programming/batchfile/snippets.md',
+        '/programming/batchfile/references.md',
+        '/programming/batchfile/github.md',
       ]
     }, {
       text: 'Powershell',
       collapsible: true,
       icon: 'iconfont icon-powershell',
       children: [
-        '/g4e/cli-pwsh/README.md',
-        '/g4e/cli-pwsh/basics.md',
+        '/programming/pwsh/README.md',
+        '/programming/pwsh/basics.md',
         {
           text: 'Scripts',
           collapsible: true,
           children: [
-            '/g4e/cli-pwsh/scripts-manage-computer.md',
-            '/g4e/cli-pwsh/scripts-for-desktop.md',
-            '/g4e/cli-pwsh/scripts-for-files-folders.md',
-            '/g4e/cli-pwsh/scripts-convert-files.md',
-            '/g4e/cli-pwsh/scripts-for-git.md',
-            '/g4e/cli-pwsh/scripts-for-pwsh.md',
-            '/g4e/cli-pwsh/various-pwsh-scripts.md',
+            '/programming/pwsh/scripts-manage-computer.md',
+            '/programming/pwsh/scripts-for-desktop.md',
+            '/programming/pwsh/scripts-for-files-folders.md',
+            '/programming/pwsh/scripts-convert-files.md',
+            '/programming/pwsh/scripts-for-git.md',
+            '/programming/pwsh/scripts-for-pwsh.md',
+            '/programming/pwsh/various-pwsh-scripts.md',
           ]
         },
-        '/g4e/cli-pwsh/tips.md',
-        '/g4e/cli-pwsh/references.md',
-        '/g4e/cli-pwsh/github.md',
-        '/g4e/cli-pwsh/youtube.md',
+        '/programming/pwsh/tips.md',
+        '/programming/pwsh/references.md',
+        '/programming/pwsh/github.md',
+        '/programming/pwsh/youtube.md',
       ]
     }, {
       text: 'Git',
       collapsible: true,
       icon: 'iconfont icon-git',
       children: [
-        '/g4e/git/README.md',
-        '/g4e/git/basics.md',
-        '/g4e/git/references.md',
-        '/g4e/git/youtube.md',
+        '/programming/git/README.md',
+        '/programming/git/basics.md',
+        '/programming/git/references.md',
+        '/programming/git/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/g4e/git/articles/README.md',
+            '/programming/git/articles/README.md',
             {
               text: 'yozm.wishket.com',
               collapsible: true,
@@ -124,56 +124,72 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-vim',
       children: [
-        '/g4e/cli-vim/README.md',
-        '/g4e/cli-vim/tips.md',
-        '/g4e/cli-vim/neovim.md',
-        '/g4e/cli-vim/github.md',
-        '/g4e/cli-vim/references.md',
-        '/g4e/cli-vim/youtube.md',
+        '/programming/vim/README.md',
+        '/programming/vim/tips.md',
+        '/programming/vim/neovim.md',
+        '/programming/vim/github.md',
+        '/programming/vim/references.md',
+        '/programming/vim/youtube.md',
       ]
     }, {
       text: 'Gradle',
       collapsible: true,
       icon: 'iconfont icon-gradle',
       children: [
-        '/g4e/lang-gradle/README.md',
-        '/g4e/lang-gradle/snippets.md',
-        '/g4e/lang-gradle/troubleshooting.md',
-        '/g4e/lang-gradle/references.md'
+        '/programming/gradle/README.md',
+        '/programming/gradle/snippets.md',
+        '/programming/gradle/troubleshooting.md',
+        '/programming/gradle/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/gradle/articles/README.md',
+            {
+              text: 'shopify.engineering',
+              collapsible: true,
+              icon: 'https://cdn.shopify.com/static/shopify-favicon.png',
+              children: [
+                '/explore/articles/shopify.engineering/managing-native-code-react-native.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Maven',
       collapsible: true,
       icon: 'iconfont icon-maven',
       children: [
-        '/g4e/lang-maven/README.md',
-        '/g4e/lang-maven/snippets.md',
-        '/g4e/lang-maven/references.md',
-        '/g4e/lang-maven/youtube.md',
+        '/programming/maven/README.md',
+        '/programming/maven/snippets.md',
+        '/programming/maven/references.md',
+        '/programming/maven/youtube.md',
       ]
     }, {
       text: 'Java',
       collapsible: true,
       icon: 'fa-brands fa-java',
       children: [
-        '/g4e/lang-java/README.md',
-        '/g4e/lang-java/basics.md',
-        '/g4e/lang-java/singleton.md',
-        '/g4e/lang-java/log4j.md',
-        '/g4e/lang-java/webservice.md',
-        '/g4e/lang-java/tips.md',
-        '/g4e/lang-java/snippets.md',
-        '/g4e/lang-java/crashcourse.md',
-        '/g4e/lang-java/news.md',
-        '/g4e/lang-java/references.md',
-        '/g4e/lang-java/github.md',
-        '/g4e/lang-java/youtube.md',
+        '/programming/java/README.md',
+        '/programming/java/basics.md',
+        '/programming/java/singleton.md',
+        '/programming/java/log4j.md',
+        '/programming/java/webservice.md',
+        '/programming/java/tips.md',
+        '/programming/java/snippets.md',
+        '/programming/java/crashcourse.md',
+        '/programming/java/news.md',
+        '/programming/java/references.md',
+        '/programming/java/github.md',
+        '/programming/java/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/g4e/lang-java/articles/README.md',
+            '/programming/java/articles/README.md',
             {
               text: 'yozm.wishket.com',
               collapsible: true,
@@ -181,7 +197,14 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/yozm.wishket.com/2478.md',
               ]
-            }
+            }, {
+              text: 'kt.academy',
+              collapsible: true,
+              icon: 'https://kt.academy/logo.png',
+              children: [
+                '/explore/articles/kt.academy/pattern-for-composing-flows.md'
+              ]
+            }, 
           ]
         }
       ]
@@ -190,44 +213,51 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-spring',
       children: [
-        '/g4e/lang-java-spring/README.md',
-        '/g4e/lang-java-spring/snippets-gradle.md',
-        '/g4e/lang-java-spring/was.md',
-        '/g4e/lang-java-spring/crashcourse.md',
-        '/g4e/lang-java-spring/references.md',
-        '/g4e/lang-java-spring/github.md',
-        '/g4e/lang-java-spring/youtube.md',
+        '/programming/java-spring/README.md',
+        '/programming/java-spring/snippets-gradle.md',
+        '/programming/java-spring/was.md',
+        '/programming/java-spring/crashcourse.md',
+        '/programming/java-spring/references.md',
+        '/programming/java-spring/github.md',
+        '/programming/java-spring/youtube.md',
       ]
     }, {
       text: 'Android',
       collapsible: true,
       icon: 'fa-brands fa-android',
       children: [
-        '/g4e/lang-java-android/README.md',
-        '/g4e/lang-java-android/adb.md',
-        '/g4e/lang-java-android/proguard.md',
-        '/g4e/lang-java-android/tips.md',
-        '/g4e/lang-java-android/troubleshooting.md',
-        '/g4e/lang-java-android/snippets-kotlin.md',
-        '/g4e/lang-java-android/snippets-jetpack-compose.md',
-        '/g4e/lang-java-android/snippets-gradle.md',
-        '/g4e/lang-java-android/crashcourse.md',
-        '/g4e/lang-java-android/news.md',
-        '/g4e/lang-java-android/references.md',
-        '/g4e/lang-java-android/github.md',
-        '/g4e/lang-java-android/youtube.md',
+        '/programming/java-android/README.md',
+        '/programming/java-android/adb.md',
+        '/programming/java-android/proguard.md',
+        '/programming/java-android/tips.md',
+        '/programming/java-android/troubleshooting.md',
+        '/programming/java-android/snippets-kotlin.md',
+        '/programming/java-android/snippets-jetpack-compose.md',
+        '/programming/java-android/snippets-gradle.md',
+        '/programming/java-android/crashcourse.md',
+        '/programming/java-android/news.md',
+        '/programming/java-android/references.md',
+        '/programming/java-android/github.md',
+        '/programming/java-android/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/g4e/lang-java-android/articles/README.md',
+            '/programming/java-android/articles/README.md',
             {
               text: 'yozm.wishket.com',
               collapsible: true,
               icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
               children: [
                 '/explore/articles/yozm.wishket.com/2457.md',
+              ]
+            }, {
+              text: "droidcon.com",
+              collapsible: true,
+              icon: 'https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png',
+              children: [
+                '/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md'
               ]
             }
           ]
@@ -238,32 +268,32 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-apachekafka',
       children: [
-        '/g4e/lang-java-kafka/README.md',
-        '/g4e/lang-java-kafka/references.md',
-        '/g4e/lang-java-kafka/github.md',
-        '/g4e/lang-java-kafka/youtube.md',
+        '/programming/java-kafka/README.md',
+        '/programming/java-kafka/references.md',
+        '/programming/java-kafka/github.md',
+        '/programming/java-kafka/youtube.md',
       ]
     }, {
       text: 'Swift',
       collapsible: true,
       icon: 'fa-brands fa-swift',
       children: [
-        '/g4e/lang-swift/README.md',
-        '/g4e/lang-swift/tips.md',
-        '/g4e/lang-swift/snippets.md',
-        '/g4e/lang-swift/crashcourse.md',
-        '/g4e/lang-swift/news.md',
+        '/programming/swift/README.md',
+        '/programming/swift/tips.md',
+        '/programming/swift/snippets.md',
+        '/programming/swift/crashcourse.md',
+        '/programming/swift/news.md',
         {
           text: 'Interview Prep',
           collapsible: true,
           icon: 'fas fa-clipboard-question',
           children: [
-            '/g4e/lang-swift/interview-prep.md',
+            '/programming/swift/interview-prep.md',
           ]
         },
-        '/g4e/lang-swift/references.md',
-        '/g4e/lang-swift/github.md',
-        '/g4e/lang-swift/youtube.md',
+        '/programming/swift/references.md',
+        '/programming/swift/github.md',
+        '/programming/swift/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
@@ -288,6 +318,13 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
               ]
+            }, {
+              text: 'donnywals.com',
+              collapsible: true,
+              icon: 'https://www.donnywals.com/wp-content/uploads/cropped-site-icon-192x192.png',
+              children: [
+                '/explore/articles/donnywals.com/how-to-use-experimental-swift-versions-and-features-in-xcode.md'
+              ]
             }
           ]
         }
@@ -297,21 +334,21 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-node',
       children: [
-        '/g4e/lang-js-node/README.md',
-        '/g4e/lang-js-node/troubleshooting.md',
-        '/g4e/lang-js-node/sandbox.md',
-        '/g4e/lang-js-node/cordova.md',
-        '/g4e/lang-js-node/tips.md',
-        '/g4e/lang-js-node/snippets.md',
-        '/g4e/lang-js-node/references.md',
-        '/g4e/lang-js-node/github.md',
-        '/g4e/lang-js-node/youtube.md',
+        '/programming/js-node/README.md',
+        '/programming/js-node/troubleshooting.md',
+        '/programming/js-node/sandbox.md',
+        '/programming/js-node/cordova.md',
+        '/programming/js-node/tips.md',
+        '/programming/js-node/snippets.md',
+        '/programming/js-node/references.md',
+        '/programming/js-node/github.md',
+        '/programming/js-node/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/g4e/lang-js-node/articles/README.md',
+            '/programming/js-node/articles/README.md',
             {
               text: 'yozm.wishket.com',
               collapsible: true,
@@ -320,6 +357,13 @@ export const sidebarEn = sidebar({
                 '/explore/articles/yozm.wishket.com/2483.md',
                 '/explore/articles/yozm.wishket.com/2504.md',
                 '/explore/articles/yozm.wishket.com/2505.md',
+              ]
+            }, {
+              text: 'freecodecamp.org',
+              icon: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
+              collapsible: true,
+              children: [
+                '/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.md'
               ]
             }, {
               text: 'devtoolstips.org',
@@ -345,6 +389,13 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md',
               ]
+            }, {
+              text: 'johnnyreilly.com',
+              collapsible: true,
+              icon: 'https://johnnyreilly.com/favicon.ico',
+              children: [
+                '/explore/articles/johnnyreilly.com/webpack-overview.md',
+              ]
             }
           ]
         }
@@ -354,18 +405,18 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-react',
       children: [
-        '/g4e/lang-js-react/README.md',
-        '/g4e/lang-js-react/snippets.md',
-        '/g4e/lang-js-react/snippets-serpiko.md',
-        '/g4e/lang-js-react/references.md',
-        '/g4e/lang-js-react/github.md',
-        '/g4e/lang-js-react/youtube.md',
+        '/programming/js-react/README.md',
+        '/programming/js-react/snippets.md',
+        '/programming/js-react/snippets-serpiko.md',
+        '/programming/js-react/references.md',
+        '/programming/js-react/github.md',
+        '/programming/js-react/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/g4e/lang-js-react/articles/README.md',
+            '/programming/js-react/articles/README.md',
             {
               text: 'yozm.wishket.com',
               collapsible: true,
@@ -385,17 +436,17 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-vuejs',
       children: [
-        '/g4e/lang-js-vue/README.md',
-        '/g4e/lang-js-vue/snippets.md',
-        '/g4e/lang-js-vue/references.md',
-        '/g4e/lang-js-vue/github.md',
-        '/g4e/lang-js-vue/youtube.md',
+        '/programming/js-vue/README.md',
+        '/programming/js-vue/snippets.md',
+        '/programming/js-vue/references.md',
+        '/programming/js-vue/github.md',
+        '/programming/js-vue/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/g4e/lang-js-vue/articles/README.md',
+            '/programming/js-vue/articles/README.md',
             {
               text: 'yozm.wishket.com',
               collapsible: true,
@@ -412,10 +463,10 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-svelte',
       children: [
-        '/g4e/lang-js-svelte/README.md',
-        '/g4e/lang-js-svelte/references.md',
-        '/g4e/lang-js-svelte/github.md',
-        '/g4e/lang-js-svelte/youtube.md',
+        '/programming/js-svelte/README.md',
+        '/programming/js-svelte/references.md',
+        '/programming/js-svelte/github.md',
+        '/programming/js-svelte/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
@@ -429,24 +480,24 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-mermaid',
       children: [
-        '/g4e/lang-js-mermaid/README.md',
-        '/g4e/lang-js-mermaid/examples.md',
+        '/programming/js-mermaid/README.md',
+        '/programming/js-mermaid/examples.md',
       ]
     }, {
       text: 'Python',
       collapsible: true,
       icon: 'fa-brands fa-python',
       children: [
-        '/g4e/lang-python/README.md',
-        '/g4e/lang-python/references.md',
-        '/g4e/lang-python/github.md',
-        '/g4e/lang-python/youtube.md',
+        '/programming/python/README.md',
+        '/programming/python/references.md',
+        '/programming/python/github.md',
+        '/programming/python/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/g4e/lang-python/articles/README.md',
+            '/programming/python/articles/README.md',
             {
               text: 'yozm.wishket.com',
               collapsible: true,
@@ -465,21 +516,21 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-css3-alt',
       children: [
-        '/g4e/lang-css/README.md',
-        '/g4e/lang-css/tips.md',
-        '/g4e/lang-css/snippets.md',
-        '/g4e/lang-css/references.md',
-        '/g4e/lang-css/youtube.md',
+        '/programming/css/README.md',
+        '/programming/css/tips.md',
+        '/programming/css/snippets.md',
+        '/programming/css/references.md',
+        '/programming/css/youtube.md',
       ]
     }, {
       text: 'Rust',
       collapsible: true,
       icon: 'fa-brands fa-rust',
       children: [
-        '/g4e/lang-rust/README.md',
-        '/g4e/lang-rust/references.md',
-        '/g4e/lang-rust/github.md',
-        '/g4e/lang-rust/youtube.md',
+        '/programming/rust/README.md',
+        '/programming/rust/references.md',
+        '/programming/rust/github.md',
+        '/programming/rust/youtube.md',
       ]
     }, 
     {
@@ -487,151 +538,174 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-lua',
       children: [
-        '/g4e/lang-lua/README.md',
-        '/g4e/lang-lua/references.md',
-        '/g4e/lang-lua/github.md',
-        '/g4e/lang-lua/youtube.md',
+        '/programming/lua/README.md',
+        '/programming/lua/references.md',
+        '/programming/lua/github.md',
+        '/programming/lua/youtube.md',
       ]
     }, {
       text: 'CSharp',
       collapsible: true,
       icon: 'iconfont icon-csharp',
       children: [
-        '/g4e/lang-csharp/README.md',
-        '/g4e/lang-csharp/references.md',
-        '/g4e/lang-csharp/github.md',
-        '/g4e/lang-csharp/youtube.md',
+        '/programming/csharp/README.md',
+        '/programming/csharp/references.md',
+        '/programming/csharp/github.md',
+        '/programming/csharp/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/csharp/articles/README.md',
+            {
+              text: 'johnnyreilly.com',
+              collapsible: true,
+              icon: 'https://johnnyreilly.com/favicon.ico',
+              children: [
+                '/explore/articles/johnnyreilly.com/using-kernel-memory-to-chunk-documents-into-azure-ai-search.md'
+              ]
+            }, {
+              text: 'code-maze.com',
+              collapsible: true,
+              icon: 'https://code-maze.com/favicon.ico',
+              children: [
+                '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Go',
       collapsible: true,
       icon: 'fa-brands fa-golang',
       children: [
-        '/g4e/lang-go/README.md',
-        '/g4e/lang-go/references.md',
-        '/g4e/lang-go/github.md',
-        '/g4e/lang-go/youtube.md',
+        '/programming/go/README.md',
+        '/programming/go/references.md',
+        '/programming/go/github.md',
+        '/programming/go/youtube.md',
       ]
     }, {
       text: 'Dart',
       collapsible: true,
       icon: 'iconfont icon-dart',
       children: [
-        '/g4e/lang-dart/README.md',
-        '/g4e/lang-dart/snippets.md',
-        '/g4e/lang-dart/references.md',
-        '/g4e/lang-dart/github.md',
-        '/g4e/lang-dart/youtube.md',
+        '/programming/dart/README.md',
+        '/programming/dart/snippets.md',
+        '/programming/dart/references.md',
+        '/programming/dart/github.md',
+        '/programming/dart/youtube.md',
       ]
     }, {
       text: 'php',
       collapsible: true,
       icon: 'fa-brands fa-php',
       children: [
-        '/g4e/lang-php/README.md',
-        '/g4e/lang-php/references.md',
-        '/g4e/lang-php/github.md',
-        '/g4e/lang-php/youtube.md',
+        '/programming/php/README.md',
+        '/programming/php/references.md',
+        '/programming/php/github.md',
+        '/programming/php/youtube.md',
       ]
     }, {
       text: 'Ruby',
       collapsible: true,
       icon: 'iconfont icon-ruby',
       children: [
-        '/g4e/lang-ruby/README.md',
-        '/g4e/lang-ruby/references.md',
-        '/g4e/lang-ruby/github.md',
-        '/g4e/lang-ruby/youtube.md',
+        '/programming/ruby/README.md',
+        '/programming/ruby/references.md',
+        '/programming/ruby/github.md',
+        '/programming/ruby/youtube.md',
       ]
     }, {
       text: 'Elixir',
       collapsible: true,
       icon: 'iconfont icon-elixir',
       children: [
-        '/g4e/lang-elixir/README.md',
-        '/g4e/lang-elixir/tips.md',
-        '/g4e/lang-elixir/references.md',
-        '/g4e/lang-elixir/github.md',
-        '/g4e/lang-elixir/youtube.md',
+        '/programming/elixir/README.md',
+        '/programming/elixir/tips.md',
+        '/programming/elixir/references.md',
+        '/programming/elixir/github.md',
+        '/programming/elixir/youtube.md',
       ]
     }, {
       text: 'Haskell',
       collapsible: true,
       icon: 'iconfont icon-haskell',
       children: [
-        '/g4e/lang-haskell/README.md',
-        '/g4e/lang-haskell/references.md',
-        '/g4e/lang-haskell/github.md',
-        '/g4e/lang-haskell/youtube.md',
+        '/programming/haskell/README.md',
+        '/programming/haskell/references.md',
+        '/programming/haskell/github.md',
+        '/programming/haskell/youtube.md',
       ]
     }, {
       text: 'C',
       collapsible: true,
       icon: 'iconfont icon-c',
       children: [
-        '/g4e/lang-c/README.md',
-        '/g4e/lang-c/tips.md',
-        '/g4e/lang-c/references.md',
-        '/g4e/lang-c/github.md',
-        '/g4e/lang-c/youtube.md',
+        '/programming/c/README.md',
+        '/programming/c/tips.md',
+        '/programming/c/references.md',
+        '/programming/c/github.md',
+        '/programming/c/youtube.md',
       ]
     }, {
       text: 'Cpp',
       collapsible: true,
       icon: 'iconfont icon-cpp',
       children: [
-        '/g4e/lang-cpp/README.md',
-        '/g4e/lang-cpp/tips.md',
-        '/g4e/lang-cpp/references.md',
-        '/g4e/lang-cpp/github.md',
-        '/g4e/lang-cpp/youtube.md',
+        '/programming/cpp/README.md',
+        '/programming/cpp/tips.md',
+        '/programming/cpp/references.md',
+        '/programming/cpp/github.md',
+        '/programming/cpp/youtube.md',
       ]
     }, {
       text: 'Zig',
       icon: 'iconfont icon-zig',
       collapsible: true,
       children: [
-        '/g4e/lang-zig/README.md',
-        '/g4e/lang-zig/tips.md',
-        '/g4e/lang-zig/references.md',
-        '/g4e/lang-zig/github.md',
-        '/g4e/lang-zig/youtube.md',
+        '/programming/zig/README.md',
+        '/programming/zig/tips.md',
+        '/programming/zig/references.md',
+        '/programming/zig/github.md',
+        '/programming/zig/youtube.md',
       ]
     }, {
       text: 'LaTeX',
       collapsible: true,
       icon: 'iconfont icon-tex',
       children: [
-        '/g4e/lang-latex/README.md',
-        '/g4e/lang-latex/references.md',
-        '/g4e/lang-latex/github.md', 
+        '/programming/latex/README.md',
+        '/programming/latex/references.md',
+        '/programming/latex/github.md', 
       ]
     }, {
       text: 'Regex',
       collapsible: true,
       icon: 'iconfont icon-regexp',
       children: [
-        '/g4e/regex/README.md',
-        '/g4e/regex/tips.md',
-        '/g4e/regex/references.md',
+        '/programming/regex/README.md',
+        '/programming/regex/tips.md',
+        '/programming/regex/references.md',
       ],
     }, {
       text: 'Hardware',
       collapsible: true,
       icon: 'fas fa-microchip',
       children: [
-        '/g4e/hardware/README.md',
-        '/g4e/hardware/references.md',
-        '/g4e/hardware/youtube.md',
+        '/programming/hardware/README.md',
+        '/programming/hardware/references.md',
+        '/programming/hardware/youtube.md',
       ]
     }, {
       text: 'Markdown',
       collapsible: true,
       icon: 'fa-brands fa-markdown',
       children: [
-        '/g4e/lang-markdown/README.md',
-        '/g4e/lang-markdown/template.md',
-        '/g4e/lang-markdown/references.md',
+        '/programming/markdown/README.md',
+        '/programming/markdown/template.md',
+        '/programming/markdown/references.md',
       ]
     },
   ],
@@ -765,7 +839,7 @@ export const sidebarEn = sidebar({
   '/devops/': [
     {
       text: 'DevOps',
-      icon: 'fas fa-cubes-stacked',
+      icon: 'fas fa-network-wired',
       children: [ '/devops/README.md' ],
     }, 
     //region: devops
@@ -1297,6 +1371,13 @@ export const sidebarEn = sidebar({
             '/explore/articles/yozm.wishket.com/2545.md',
           ]
         }, {
+          text: 'freecodecamp.org',
+          icon: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
+          collapsible: true,
+          children: [
+            '/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.md'
+          ]
+        }, {
           text: 'devkuma.com',
           icon: 'https://devkuma.com/favicons/favicon.ico',
           collapsible: true,
@@ -1352,6 +1433,49 @@ export const sidebarEn = sidebar({
           icon: 'https://hackingwithswift.com/favicon.svg',
           children: [
             '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
+          ]
+        }, {
+          text: 'donnywals.com',
+          collapsible: true,
+          icon: 'https://www.donnywals.com/wp-content/uploads/cropped-site-icon-192x192.png',
+          children: [
+            '/explore/articles/donnywals.com/how-to-use-experimental-swift-versions-and-features-in-xcode.md'
+          ]
+        }, {
+          text: 'kt.academy',
+          collapsible: true,
+          icon: 'https://kt.academy/logo.png',
+          children: [
+            '/explore/articles/kt.academy/pattern-for-composing-flows.md'
+          ]
+        }, {
+          text: 'johnnyreilly.com',
+          collapsible: true,
+          icon: 'https://johnnyreilly.com/favicon.ico',
+          children: [
+            '/explore/articles/johnnyreilly.com/using-kernel-memory-to-chunk-documents-into-azure-ai-search.md',
+            '/explore/articles/johnnyreilly.com/webpack-overview.md',
+          ]
+        }, {
+          text: 'code-maze.com',
+          collapsible: true,
+          icon: 'https://code-maze.com/favicon.ico',
+          children: [
+            '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
+          ]
+        }, {
+          text: "droidcon.com",
+          collapsible: true,
+          icon: 'https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png',
+          children: [
+            '/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md'
+          ]
+        }, {
+          text: 'shopify.engineering',
+          collapsible: true,
+          icon: 'https://cdn.shopify.com/static/shopify-favicon.png',
+          children: [
+            '/explore/articles/shopify.engineering/managing-native-code-react-native.md',
           ]
         }
       ]

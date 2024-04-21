@@ -4874,5 +4874,40 @@
     "desc": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
     "officialSite": "https://sadtalker.github.io/",
     "topics": ["audio-driven-talking-face", "cvpr2023", "deep-fake", "deep-fakes", "image-animation", "talking-face", "talking-face-generation", "talking-head", "talking-heads"]
+  }, {
+    "repo": "meta-llama/llama3",
+    "desc": "The official Meta Llama 3 GitHub site",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "meta-llama/PurpleLlama",
+    "desc": "Set of tools to assess and improve LLM security.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "meta-llama/codellama",
+    "desc": "Inference code for CodeLlama models",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "moest-np/center-randomize",
+    "desc": "Script is to assign exam centers to students",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "phidatahq/phidata",
+    "desc": "Build AI Assistants with memory, knowledge and tools.",
+    "officialSite": "https://docs.phidata.com",
+    "topics": ["ai", "aws", "developer-tools", "gpt-4", "llm", "llmops", "python"]
+  }, {
+    "repo": "langchain-ai/langgraph",
+    "desc": "",
+    "officialSite": "https://langchain-ai.github.io/langgraph/",
+    "topics": []
+  }, {
+    "repo": "LlamaFamily/Llama-Chinese",
+    "desc": "Llama中文社区，最好的中文Llama大模型，完全开源可商用",
+    "officialSite": "",
+    "topics": ["finetune", "llama", "llama2", "llama3", "llm", "pretrain"]
   }
 ]

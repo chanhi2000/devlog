@@ -541,6 +541,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "CSS Code Generators",
+  "desc": "Pick from the available CSS generators. Set the desired options quickly with sliders, color pickers and test the codes with the interactive HTML-CSS editor",
+  "link": "https://html-css-js.com/css/generator/",
+  "logo": "https://html-css-js.com/favicon.ico",
+  "background": "rgba(45,99,139,0.2)"
+}
+```
+
 @tab Geospatial
 
 ```component VPCard

@@ -235,5 +235,25 @@
     "desc": "🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.",
     "officialSite": "",
     "topics": ["android", "coroutines", "hilt", "jetpack-android", "jetpack-compose", "kotlin", "motion", "mvvm", "mvvm-architecture", "pokedex", "pokemon", "skydoves"]
+  }, {
+    "repo": "rjaros/kilua",
+    "desc": "Composable web framework for Kotlin/Wasm and Kotlin/JS",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "deusaquilus/Terpal",
+    "desc": "Typed String Interpolation for Kotlin",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "dzmpr/trckr",
+    "desc": "Kotlin Symbol Processor to simplify analytics tracking.",
+    "officialSite": "https://dzmpr.github.io/trckr/",
+    "topics": ["android", "kotlin", "analytics", "ksp"]
+  }, {
+    "repo": "theolm/rinku",
+    "desc": "Deep Link Handling for Kotlin Multiplatform",
+    "officialSite": "",
+    "topics": ["android", "ios", "deeplink", "deeplinks", "kmp", "kotlin-multiplatform", "kmm", "kmm-library", "deeplink-navigation", "compose-multiplatform"]
   }
 ]

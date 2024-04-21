@@ -64,6 +64,7 @@ tag:
 ## Ollama
 
 - [Run Llama 2 Uncensored Locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
+- [Llama 3 is not very censored](https://ollama.com/blog/llama-3-is-not-very-censored)
 
 ---
 

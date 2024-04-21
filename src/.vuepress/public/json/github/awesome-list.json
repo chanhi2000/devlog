@@ -1134,5 +1134,10 @@
     "desc": "This repository contains low level design resources to improve coding skills and prepare for interviews.",
     "officialSite": "https://twitter.com/ashishps_1",
     "topics": ["awesome", "design-patterns", "interview", "interview-practice", "interview-questions", "low-level-design", "machine-coding", "object-oriented-programming", "oops", "solid-principles", "uml"]
+  }, {
+    "repo": "Aikoyori/ProgrammingVTuberLogos",
+    "desc": "High-quality PNGs for logos I made for fun",
+    "officialSite": "",
+    "topics": []
   }
 ]

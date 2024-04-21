@@ -57,8 +57,8 @@
             repoUrl: `${GITHUB_BASE_URL}/${e.repo}`,
             repo: e.repo,
             desc: e.desc,
-            hasTopics: e.topics.length > 0,
-            topics: e.topics.join(";"),
+            hasTopics: e.topics?.length > 0,
+            topics: e.topics?.join(";") ?? [],
             hasOfficialSite: !(e.officialSite == null || e.officialSite == ""),
             officialSite: e.officialSite,
           }

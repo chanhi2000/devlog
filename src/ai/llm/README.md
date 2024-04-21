@@ -20,7 +20,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/g4e/ai-llama/" />
+<ToCLocal basePath="/programming/ai-llama/" />
 
 ---
 

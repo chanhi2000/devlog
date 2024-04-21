@@ -2,7 +2,7 @@
 lang: ko-KR
 title: DevOps
 description: DevOps
-icon: fas fa-cubes-stacked
+icon: fas fa-network-wired
 category:
   - DevOps
 ---

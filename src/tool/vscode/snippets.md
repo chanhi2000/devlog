@@ -44,28 +44,28 @@ Placeholders with the same ids are connected.
   "UrlGithubRepo": {
     "prefix": "urlghr",
     "body": [
-      "https://github.com/${1:repo}",
+    "https://github.com/${1:repo}",
     ],
     "description": "Create URL form for Github Repoistory"
   },
   "VuepressMarkdownYoutube": {
     "prefix": "vpy",
     "body": [
-      "<VidStack src=\"youtube/${1:id}\" />",
+    "<VidStack src=\"youtube/${1:id}\" />",
     ],
     "description": "Create VidStack Youtube Vue Component"
   },
   "VuepressMarkdownYoutubeItem": {
     "prefix": "vpyi",
     "body": [
-      "<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />",
+    "<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />",
     ],
     "description": "Create YoutubeItem Vue Component"
   },
   "VuepressMarkdownGithubTags": {
     "prefix": "vpgt",
     "body": [
-      "<GithubTags tagItems=\"${1:tagItems}\" />",
+    "<GithubTags tagItems=\"${1:tagItems}\" />",
     ],
     "description": "Create 'GithubTags' Vue Component"
   },
@@ -73,14 +73,14 @@ Placeholders with the same ids are connected.
      "prefix": "vpyg",
      "body": [
      "## ${1:title}",
-         "",
+       "",
      "[${1:title}][${2:channel}]",
      "",
      "::: details ${3:목록}",
      "",
-         ":::",
+       ":::",
      "",
-         "<!-- ${1:title} -->",
+       "<!-- ${1:title} -->",
      "",
      "---"
      ],
@@ -89,65 +89,93 @@ Placeholders with the same ids are connected.
   "VuepressMyYouTubeItems" : {
     "prefix": "vmyti",
     "body": [
-      "<MyYouTubeItems jsonName=\"yu-${1:channelId}\" />${0}"
+    "<MyYouTubeItems jsonName=\"yu-${1:channelId}\" />${0}"
     ],
     "description": "Create MyYouTubeItems Vue Component"
   },
   "VuepressHorizImgCollection" : {
     "prefix": "vhic",
     "body": [
-      "<HorizImgCollections jsonFullPath=\"${1:path}\" />${0}"
+    "<HorizImgCollections jsonFullPath=\"${1:path}\" />${0}"
     ],
     "description": "Create HorizImgCollections Vue Component"
   },
   "VuepressTestStepsTable" : {
     "prefix": "vtst",
     "body": [
-      "<TestStepsTable ",
-      "  jsonFullPath=\"${1:path}\"",
-      "  targetVersion=\"${2:version}\"/>${0}"
+    "<TestStepsTable ",
+    "  jsonFullPath=\"${1:path}\"",
+    "  targetVersion=\"${2:version}\"/>${0}"
     ],
     "description": "Create TestStepsTable Vue Component"
   },
   "VuepressShield": {
     "prefix": "vshield",
     "body": [
-      "<Shield logo=\"${1:path}\"/>${0}"
+    "<Shield logo=\"${1:path}\"/>${0}"
     ],
     "description": "Create Shield Vue Component"
   },
   "VuepressShieldsGroup": {
     "prefix": "vsg",
     "body": [
-      "<ShieldsGroup logos=\"${1:path}\"/>${0}"
+    "<ShieldsGroup logos=\"${1:path}\"/>${0}"
     ],
     "description": "Create ShieldsGroup Vue Component"
   },
   "VuepressFontIcon": {
     "prefix": "vfi",
     "body": [
-      "<FontIcon icon=\"iconfont icon-${1:name}\"/>${0}"
+    "<FontIcon icon=\"iconfont icon-${1:name}\"/>${0}"
     ],
     "description": "Create FontIcon Vue Componenet"
   },
   "VuepressFontIconAwesome": {
     "prefix": "vfia",
     "body": [
-      "<FontIcon icon=\"fas fa-${1:name}\"/>${0}"
+    "<FontIcon icon=\"fas fa-${1:name}\"/>${0}"
     ],
     "description": "Create FontIcon Vue Componenet (FontAwesome)"
   },
   "VuepressFontIconAwesomeBrand": {
     "prefix": "vfiab",
     "body": [
-      "<FontIcon icon=\"fa-brands fa-${1:name}\"/>${0}"
+    "<FontIcon icon=\"fa-brands fa-${1:name}\"/>${0}"
     ],
     "description": "Create FontIcon Vue Componenet (FontAwesome Brand)"
+  },
+  "VuepressVPCard": {
+    "prefix": "vvpc",
+    "body": [
+    "```component VPCard",
+    "{",
+    "  \"title\": \"${2:title}\",",
+    "  \"desc\": \"${3:desc}\",",
+    "  \"link\": \"${1:link}\",",
+    "  \"logo\": \"${4:logo}\",",
+    "  \"backgground\": \"rgba(${5:r},${6:g},${7:b},0.2)\"",
+    "}",
+    "```${0}"
+    ],
+    "description": "Create VPCard Vue Componenet"
+  },
+  "VuepressSiteInfo": {
+    "prefix": "vsi",
+    "body": [
+      "<SiteInfo",
+      "  name=\"${2:title}\"",
+      "  desc=\"${3:desc}\"",
+      "  url=\"${1:link}\"",
+      "  logo=\"${4:logo}\"",
+      "  preview=\"${5:preview}\"/>",
+      "${0}"
+    ],
+    "description": "Create SiteInfo Vue Componenet"
   },
   "TgKbd": {
      "prefix": "tgkbd",
      "body": [
-       "<kbd>${1:v}</kbd>${0}"
+     "<kbd>${1:v}</kbd>${0}"
      ],
      "description": "Create Keyboard tag"
   }

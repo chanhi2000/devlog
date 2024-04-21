@@ -1,0 +1,48 @@
+[
+  {
+    "repo": "xyflow/xyflow",
+    "desc": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+    "officialSite": "https://xyflow.com",
+    "topics": ["flowchart", "graph", "javascript", "node-based-ui", "react", "react-flow", "svelte", "svelte-flow", "typescript", "typescript-library", "workflow"]
+  }, {
+    "repo": "colinhacks/zod",
+    "desc": "TypeScript-first schema validation with static type inference",
+    "officialSite": "https://zod.dev",
+    "topics": ["runtime-validation", "schema-validation", "static-types", "type-inference", "typescript"]
+  }, {
+    "repo": "react-dnd/react-dnd",
+    "desc": "Drag and Drop for React",
+    "officialSite": "http://react-dnd.github.io/react-dnd",
+    "topics": ["drag-and-drop", "not-the-game", "react"]
+  }, {
+    "repo": "refinedev/refine",
+    "desc": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+    "officialSite": "https://refine.dev",
+    "topics": ["admin", "admin-ui", "ant-design", "crud", "developer-tools", "frontend-framework", "good-first-issue", "graphql", "hacktoberfest", "headless", "internal-tools", "javascript", "low-code", "nestjs", "nextjs", "open-source-project", "react", "react-framework", "react-hooks", "typescript"]
+  }, {
+    "repo": "tremorlabs/tremor",
+    "desc": "React components to build charts and dashboards",
+    "officialSite": "https://tremor.so",
+    "topics": ["react-components", "reactjs", "tailwindcss", "typescript", "ui-system"]
+  }, {
+    "repo": "vercel/react-tweet",
+    "desc": "Embed tweets in your React application.",
+    "officialSite": "https://react-tweet.vercel.app",
+    "topics": []
+  }, {
+    "repo": "advanced-cropper/react-advanced-cropper",
+    "desc": "The react cropper library that embraces power of the advanced cropper core to give the possibility to create croppers that exactly suited for your website design",
+    "officialSite": "https://advanced-cropper.github.io/react-advanced-cropper/",
+    "topics": ["advanced", "cropper", "flexible", "image", "image-cropper", "image-cropping", "image-manipulation", "library", "react", "react-component", "react-cropper"]
+  }, {
+    "repo": "mobxjs/mobx",
+    "desc": "Simple, scalable state management.",
+    "officialSite": "http://mobx.js.org",
+    "topics": ["javascript", "mobx", "react", "reactive-programming", "typescript"]
+  }, {
+    "repo": "i18next/react-i18next",
+    "desc": "Internationalization for react done right. Using the i18next i18n ecosystem.",
+    "officialSite": "https://react.i18next.com",
+    "topics": ["i18n", "i18next", "internationalization", "react", "react-native", "ssr", "translation"]
+  }
+]

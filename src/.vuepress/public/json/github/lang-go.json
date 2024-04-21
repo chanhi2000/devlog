@@ -1236,7 +1236,7 @@
     "topics": ["hacktoberfest", "identity", "identity-management", "login", "profile-management", "registration", "user", "user-management", "user-profile", "user-profiles", "users"]
   }, {
     "repo": "ollama/ollama",
-    "desc": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+    "desc": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
     "officialSite": "https://ollama.com",
     "topics": ["go", "golang", "llama", "llama2", "llm", "llms", "mistral", "ollama"]
   }, {

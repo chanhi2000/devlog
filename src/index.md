@@ -12,12 +12,12 @@ projects:
   - name: Projects
     link: /projects/
     icon: fas fa-industry
-  - name: G4E
-    link: /g4e/
-    icon: fas fa-book
+  - name: Programming
+    link: /programming/
+    icon: fas fa-keyboard
   - name: DevOps
     link: /devops/
-    icon: fas fa-cubes-stacked
+    icon: fas fa-network-wired
   - name: Tool
     link: /tool/
     icon: fas fa-screwdriver-wrench

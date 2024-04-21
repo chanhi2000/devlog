@@ -70,7 +70,7 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
   - <FontIcon icon="iconfont icon-shell"/>`/crashcourse/cli/text-processing-w-gnu-awk`
   - <FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swift`
   - <FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swiftui`
-  - <FontIcon icon="iconfont icon-powershell"/>`/g4e/lang-pwsh/scripts-*`
+  - <FontIcon icon="iconfont icon-powershell"/>`/programming/lang-pwsh/scripts-*`
 
 :::
 
@@ -116,9 +116,9 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 - [Connect your tools to Notion with the API](https://www.notion.so/help/guides/connect-tools-to-notion-api)
 - [Working with databases](https://developers.notion.com/docs/working-with-databases)
 
-#### C10. oVirt (`/g4e/devops-ovirt`) 관련 내용 정리
+#### C10. oVirt (`/programming/devops-ovirt`) 관련 내용 정리
 
-> [See README](/g4e/devops-ovirt/README.md)
+> [See README](/programming/devops-ovirt/README.md)
 
 ### Z. 기타
 

@@ -444,5 +444,30 @@
     "desc": "[WIP] Open source implementation of Apple's SwiftUI.",
     "officialSite": "https://swiftpackageindex.com/OpenSwiftUIProject/OpenSwiftUI/main/documentation/openswiftui",
     "topics": []
+  }, {
+    "repo": "ProxymanApp/atlantis",
+    "desc": "Capture HTTP/HTTPS, and Websocket from iOS app without proxy.",
+    "officialSite": "https://proxyman.io/",
+    "topics": ["ios", "urlsession", "https-traffic", "maninthemiddle", "swizzle", "proxyman"]
+  }, {
+    "repo": "home-assistant/iOS",
+    "desc": "📱 Home Assistant for Apple platforms",
+    "officialSite": "https://companion.home-assistant.io/",
+    "topics": ["macos", "swift", "home-automation", "ios", "home-assistant", "hacktoberfest", "open-source-app"]
+  }, {
+    "repo": "KeyboardKit/KeyboardKit",
+    "desc": "KeyboardKit is a Swift SDK that lets you create fully customizable keyboards with a few lines of code, using SwiftUI.",
+    "officialSite": "https://keyboardkit.com/",
+    "topics": ["emoji", "macos", "swift", "keyboard", "ios", "apple", "tvos", "watchos", "keyboard-extension", "swiftui", "visionos"]
+  }, {
+    "repo": "jellyfin/Swiftfin",
+    "desc": "Native Jellyfin Client for iOS and tvOS",
+    "officialSite": "",
+    "topics": ["swift", "ios", "tvos", "swiftui", "jellyfin"]
+  }, {
+    "repo": "exyte/Chat",
+    "desc": "A SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker",
+    "officialSite": "",
+    "topics": ["chat", "swift", "swift-library", "ios", "swiftui", "swiftui-components"]
   }
 ]

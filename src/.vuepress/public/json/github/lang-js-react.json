@@ -1,0 +1,23 @@
+[
+  {
+    "repo": "CopilotKit/CopilotKit",
+    "desc": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+    "officialSite": "https://copilotkit.ai",
+    "topics": ["ai", "langchain", "llm", "nextjs", "open-source", "react", "reactjs", "ts", "typescript"]
+  }, {
+    "repo": "cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "officialSite": "https://cypress.io",
+    "topics": ["testing", "test", "test-suite", "test-runner", "test-automation", "tests", "e2e-tests", "testing-tools", "javascript-tests", "end-to-end-testing", "cypress", "e2e-testing"]
+  }, {
+    "repo": "Nozbe/WatermelonDB",
+    "desc": "🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️",
+    "officialSite": "https://watermelondb.dev",
+    "topics": ["database", "hacktoberfest", "persistence", "react", "react-native", "reactive", "rxjs"]
+  }, {
+    "repo": "segmentio/evergreen",
+    "desc": "🌲 Evergreen React UI Framework by Segment",
+    "officialSite": "https://evergreen.segment.com",
+    "topics": ["component-library", "design-systems", "evergreen", "react", "segment", "ui", "ui-components"]
+  }
+]

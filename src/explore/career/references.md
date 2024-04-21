@@ -79,6 +79,10 @@ tag:
 
 ---
 
+## Dev.to
+
+- [`@devlawrence` - How to build a Good Portfolio Website - My Approach.](https://dev.to/devlawrence/how-to-build-a-good-portfolio-website-my-approach-14dj)
+
 ## Brunch 
 
 - [`@jamess` - 프리랜서가 값싼 프로젝트에서 벗어나지 못하는 이유](https://brunch.co.kr/@jamess/107)
@@ -449,5 +453,9 @@ tag:
 - [CIO로서 2가지 주요 영역에만 집중하기로 결정했다면, 그 영역은 무엇일까?](https://i-bada.blogspot.com/2024/04/cio-2.html)
 
 ---
+
+## Atomic Object
+
+- [Two Symptoms Your Team Isn’t Agile](https://spin.atomicobject.com/agile-practices/)
 
 <TagLinks />

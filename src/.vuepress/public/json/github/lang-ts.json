@@ -1020,11 +1020,6 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "immich-app/immich",
-    "desc": "High performance self-hosted photo and video management solution.",
-    "officialSite": "https://immich.app",
-    "topics": ["backup-tool", "flutter", "google-photos", "google-photos-alternative", "javascript", "mobile-app", "nestjs", "nodejs", "photo-gallery", "photos", "photos-management", "self-hosted", "svelte", "sveltekit", "typescript", "videos"]
-  }, {
     "repo": "Shelf-nu/shelf.nu",
     "desc": "shelf is open source Asset Management Infrastructure for absolutely everyone.",
     "officialSite": "https://shelf.nu",
@@ -2044,11 +2039,6 @@
     "officialSite": "https://github.com/react-native-community/discussions-and-proposals/pull/3",
     "topics": []
   }, {
-    "repo": "refinedev/refine",
-    "desc": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
-    "officialSite": "https://refine.dev",
-    "topics": ["admin", "admin-ui", "ant-design", "crud", "developer-tools", "frontend-framework", "good-first-issue", "graphql", "hacktoberfest", "headless", "internal-tools", "javascript", "low-code", "nestjs", "nextjs", "open-source-project", "react", "react-framework", "react-hooks", "typescript"]
-  }, {
     "repo": "sst/demo-ai-app",
     "desc": "Sample AI movies app built with ❍ Ion",
     "officialSite": "https://movies.sst.dev",
@@ -2424,11 +2414,6 @@
     "officialSite": "https://discord.com/developers/docs/activities/overview",
     "topics": []
   }, {
-    "repo": "xyflow/xyflow",
-    "desc": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
-    "officialSite": "https://xyflow.com",
-    "topics": ["flowchart", "graph", "javascript", "node-based-ui", "react", "react-flow", "svelte", "svelte-flow", "typescript", "typescript-library", "workflow"]
-  }, {
     "repo": "yesmore/vmail",
     "desc": "Open source temporary email tool. 开源临时邮箱工具 👉 vmail.dev",
     "officialSite": "https://vmail.dev",
@@ -2623,5 +2608,15 @@
     "desc": "A tool for connecting your design system components in code with your design system in Figma",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "code100x/chess",
+    "desc": "A multiplayer chess platform",
+    "officialSite": "https://chess.100xdevs.com/",
+    "topics": []
+  }, {
+    "repo": "sadmann7/shadcn-table",
+    "desc": "A shadcn table component with server-side sorting, filtering, and pagination.",
+    "officialSite": "https://table.sadmn.com",
+    "topics": ["drizzle-orm", "millionjs", "nextjs", "open-source", "shadcn-ui", "tanstack-table"]
   }
 ]

@@ -534,5 +534,10 @@
     "desc": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
     "officialSite": "",
     "topics": ["llm"]
+  }, {
+    "repo": "meta-llama/llama-recipes",
+    "desc": "Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger",
+    "officialSite": "",
+    "topics": ["ai", "finetuning", "langchain", "llama", "llama2", "llm", "machine-learning", "python", "pytorch", "vllm"]
   }
 ]

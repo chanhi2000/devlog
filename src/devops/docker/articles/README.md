@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Article(s)
 description: Docker > Article(s)
-icon: fas fa-cubes-stacked
+icon: fas fa-network-wired
 category:
   - DevOps
   - Docker

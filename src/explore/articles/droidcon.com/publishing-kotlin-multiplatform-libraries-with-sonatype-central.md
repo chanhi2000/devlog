@@ -1,0 +1,40 @@
+---
+lang: ko-KR
+title: Publishing Kotlin Multiplatform Libraries With Sonatype Central
+description: Article(s) > Publishing Kotlin Multiplatform Libraries With Sonatype Central
+icon: iconfont icon-kotlin
+category: 
+  - Android
+  - Kotlin
+  - Kotlin Multiplatform
+  - Article(s)
+tag: 
+  - blog
+  - droidcon.com
+  - kotlin
+  - android
+  - kotlin-multiplatform
+  - kmp
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+```component VPCard
+{
+  "title": "Publishing Kotlin Multiplatform Libraries With Sonatype Central - droidcon",
+  "desc": "With JCenter sunsetted, distributing public Kotlin Multiplatform libraries now often relies on Maven Central via Sonatype. However, the transition from issues.sonatype.org to central.sonatype.com in March 2024 has left many developers grappling with outdated resources and scarce guidance.",
+  "link": "https://www.droidcon.com/2024/04/18/publishing-kotlin-multiplatform-libraries-with-sonatype-central",
+  "logo": "https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
+  "backgground": "rgba(4,20,221,0.2)"
+}
+```
+
+> 2024.04.18
+
+---
+
+<TagLinks />
