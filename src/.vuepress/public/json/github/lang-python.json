@@ -4914,5 +4914,20 @@
     "desc": "A JAX research toolkit for building, editing, and visualizing neural networks.",
     "officialSite": "https://penzai.readthedocs.io/",
     "topics": ["fine-tuning", "interpretability", "jax", "neural-networks", "visualization"]
+  }, {
+    "repo": "ppenenko/metashade",
+    "desc": "An experimental GPU shading DSL embedded in Python.",
+    "officialSite": "",
+    "topics": ["computer-graphics", "dsl", "edsl", "metaprogramming", "python", "shaders", "shading-language"]
+  }, {
+    "repo": "unslothai/unsloth",
+    "desc": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+    "officialSite": "https://unsloth.ai",
+    "topics": ["ai", "fine-tuning", "finetuning", "gemma", "llama", "llama2", "llms", "lora", "mistral", "qlora"]
+  }, {
+    "repo": "hiyouga/LLaMA-Factory",
+    "desc": "Unify Efficient Fine-Tuning of 100+ LLMs",
+    "officialSite": "",
+    "topics": ["agent", "ai", "chatglm", "fine-tuning", "gpt", "instruction-tuning", "language-model", "large-language-models", "llama", "llama3", "llm", "lora", "mistral", "moe", "peft", "qlora", "quantization", "qwen", "rlhf", "transformers"]
   }
 ]

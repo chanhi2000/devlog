@@ -64,6 +64,9 @@ tag:
 
 ## BLEX
 
+- [`@baealex` - Heroku에서 Docker 배포](https://blex.me/@baealex/heroku%EB%A1%9C-docker-%EB%B0%B0%ED%8F%AC-1)
+- [`@baealex` - Docker Registry 만들기](https://blex.me/@baealex/docker-registry-%EA%B0%9C%EC%9D%B8%EC%9A%A9-%EB%8F%84%EC%BB%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [`@Su-per` - Docker 네트워크 정리](https://blex.me/@Su-per/docker-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A0%95%EB%A6%AC)
 - [`@baealex` - Docker 이미지 사이즈 최적화](https://blex.me/@baealex/docker-image-size-optimize)
 
 ---

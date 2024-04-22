@@ -80,6 +80,13 @@ tag:
 
 ---
 
+## BLEX
+
+- [`@baealex` - 안드로이드 폰을 개발 서버로 만들기](https://blex.me/@baealex/development-environment-within-android)
+- [`@baealex` - termux 'process completed signal 9 press enter' 해결](https://blex.me/@baealex/how-to-fix-termux-process-completed-signal-9)
+
+---
+
 ## Kt.academy
 
 - [Coroutine scope functions](https://kt.academy/article/cc-scoping-functions)
@@ -129,6 +136,7 @@ tag:
 
 - [UI Code Snippet용 Plugin 제작기 ~ 3부 : Import](https://pluu.github.io/blog/android/2024/03/09/designsystem-plugin-03/)
 - [[메모] AndroidX Lifecycle 2.7.0-alpha02부터 변경된 동작](https://pluu.github.io/blog/android/2024/04/10/livedata/)
+- [[메모] Compose LazyVerticalGrid 렌더링 프로파일 체크](https://pluu.github.io/blog/android/2024/04/21/compose-performance/)
 
 ---
 

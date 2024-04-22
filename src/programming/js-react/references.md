@@ -303,6 +303,13 @@ head:
 
 ---
 
+## BLEX
+
+- [`@baealex` - React - Server Component](https://blex.me/@baealex/react-server-component)
+- [`@devkonis` - [REACT] 애니메이션 활용시 비동기 데이터 문제점](https://blex.me/@devkonis/react-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%ED%99%9C%EC%9A%A9%EC%8B%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%A0%9C%EC%A0%90)
+
+---
+
 ## Arindam Majumder
 
 - [Getting started with Tailwind: An introduction to the popular CSS framework.](https://arindam1729.hashnode.dev/getting-started-with-tailwind)

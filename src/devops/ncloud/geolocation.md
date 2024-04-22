@@ -1,20 +1,17 @@
 ---
 lang: ko-KR
 title: GeoLocation
-description: API - NCloud > GeoLocation
+description: NCloud > GeoLocation
 icon: fas fa-earth-americas
 category:
-  - API 
   - NCloud
   - GeoLocation
 tag: 
   - ncloud
-  - api
   - geolocation
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

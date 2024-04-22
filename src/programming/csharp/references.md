@@ -43,6 +43,12 @@ tag:
 
 ---
 
+## BLEX
+
+- [`@DevMinGeonPark` - Xamarin Form에서 SNS 인증하기](https://blex.me/@DevMinGeonPark/xamarin-form%EC%97%90%EC%84%9C-sns-%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0)
+
+---
+
 ## TheCodeBuzz
 
 - [NSwag JWT Token Authorization OpenAPI Documentation in ASP.NET Core](https://www.thecodebuzz.com/nswag-jwt-token-authorization-openapi-documentation-asp-net-core/)
@@ -190,5 +196,7 @@ tag:
 ## 재우니의 블로그
 
 - [Dapper (ORM) 과 EF 비교하여 WHERE 조건 검색 비교하기](https://aspdotnet.tistory.com/3189)
+
+---
 
 <TagLinks />

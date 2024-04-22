@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/P-awJyTRhvagO7ehYEoFFazDGsmxeiw1DoVkgDKVP5itd3PMv85aDpjaTA86y86rrDTZNiHg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_XnkMnDtsGs", "title": "Add a Rate Limiter to your Next.js Application in 5 Lines of Code" },
+    { "id": "NHvCbd_FUHA", "title": "Pub/Sub with Redis" },
     { "id": "k00jVJeZxrs", "title": "Introducing The GoTTH Stack - Go, Tailwind CSS, Templ & HTMX" },
     { "id": "PR4BwsZaJY0", "title": "A Practical Guide to Pointers in Go" },
     { "id": "bThYax8lZ2Y", "title": "Be carful of nil *pointers in Go" },

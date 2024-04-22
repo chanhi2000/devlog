@@ -33,6 +33,12 @@ tag:
 
 ---
 
+## BLEX
+
+- [`@danjr` - ](https://velog.io/@danjr/DB-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%85%8C%EC%9D%B4%EB%B8%94)
+
+---
+
 ## Dev.to
 
 - [Awesome SQL Code Review Tools for Developers](https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4)

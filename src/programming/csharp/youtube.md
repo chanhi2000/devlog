@@ -82,5 +82,6 @@ tag:
 <MyYouTubeItems jsonName="yu-nickproudprogrammer" /><!-- Nick Proud -->
 <MyYouTubeItems jsonName="yu-rameshkudikala83" /><!-- RKTestingTools -->
 <MyYouTubeItems jsonName="yu-LearnWithHuw" /><!-- Learn With Huw -->
+<MyYouTubeItems jsonName="yu-CodeBeauty" /><!-- CodeBeauty -->
 
 <TagLinks />

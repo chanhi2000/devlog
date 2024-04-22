@@ -29,4 +29,10 @@ head:
 
 ---
 
+## BLEX
+
+- [`@baealex` - Svelte의 상태 관리](https://blex.me/@baealex/svelte-state)
+
+---
+
 <TagLinks />

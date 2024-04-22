@@ -31,8 +31,7 @@ head:
 ```component VPCard
 {
   "title": "Enthusiastically, Steady, Slowly", 
-  "desc": "개발, PO, PM, 기획과 관련된 서비스 관련 업무에 관심이 있습니다. 또한 성장,교육과 관련된 주제에 대해서도 관심이 많습니다.
-티타임을 좋아하는 사람으로써, 혹시 티타임에 관심이 있으신 분은 ksy90101@gmail.com로 메일 보내주시면 감사하겠습니다 :)", 
+  "desc": "개발, PO, PM, 기획과 관련된 서비스 관련 업무에 관심이 있습니다. 또한 성장,교육과 관련된 주제에 대해서도 관심이 많습니다. 티타임을 좋아하는 사람으로써, 혹시 티타임에 관심이 있으신 분은 ksy90101@gmail.com로 메일 보내주시면 감사하겠습니다 :)",
   "link": "https://rutgo-letsgo.tistory.com/", 
   "logo": "https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg", 
   "background": "rgba(254,89,73,0.2)"

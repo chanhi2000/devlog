@@ -132,5 +132,7 @@ tag:
 <MyYouTubeItems jsonName="yu-MichaelMJD" /><!-- Michael MJD -->
 <MyYouTubeItems jsonName="yu-decrazyo" /><!-- decrazyo -->
 <MyYouTubeItems jsonName="yu-NoBoilerplate" /><!-- No Boilerplate -->
+<MyYouTubeItems jsonName="yu-renerebe" /><!-- Bits inside by René Rebe -->
+<MyYouTubeItems jsonName="yu-MoreReneRebe" /><!-- Code Therapy w/ René Rebe -->
 
 <TagLinks />

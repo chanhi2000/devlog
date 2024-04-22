@@ -260,5 +260,15 @@
     "desc": "Gradle Plugin to investigate KMP project's hierarchy",
     "officialSite": "",
     "topics": ["gradle-plugin", "hmpp", "kmp", "kotlin", "multiplatform"]
+  }, {
+    "repo": "serpro69/kotlin-faker",
+    "desc": "Port of a popular ruby faker gem written in kotlin. Generate realistically looking fake data such as names, addresses, banking details, and many more, that can be used for testing and data anonymization purposes.",
+    "officialSite": "https://serpro69.github.io/kotlin-faker/",
+    "topics": ["android", "android-development", "android-testing", "anonymisation", "anonymization", "anonymizer", "data", "faker", "faker-gem", "faker-generator", "faker-library", "faker-libs", "java", "jvm", "kotlin", "kotlin-faker", "kotlin-library", "test-automation", "testing", "testing-tools"]
+  }, {
+    "repo": "JustinGeorgeJoseph/ClippedCircleShape",
+    "desc": "Clipped circle shape in jetpack compose",
+    "officialSite": "",
+    "topics": []
   }
 ]

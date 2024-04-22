@@ -210,6 +210,20 @@ tag:
 
 ---
 
+## BLEX
+- [`@baealex` - [JavaScript] badland의 상태 관리](https://blex.me/@baealex/javascript-badland%EC%9D%98-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC)
+- [`@laetipark` - Node.js 교과서 : 1. 노드 시작하기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-1-%EB%85%B8%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+- [Node.js 교과서 : 2. 알아두어야 할 자바스크립트](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-2-%EC%95%8C%EC%95%84%EB%91%90%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
+- [`@laetipark` - Node.js 교과서 : 3. 노드 기능 (1)](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-3-%EB%85%B8%EB%93%9C-%EA%B8%B0%EB%8A%A5-1)
+- [`@laetipark` - Node.js 교과서 : 3. 노드 기능 (2)](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-3-%EB%85%B8%EB%93%9C-%EA%B8%B0%EB%8A%A5-2)
+- [`@laetipark` - Node.js 교과서 : 4. HTTP 모듈로 서버 만들기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-4-http-%EB%AA%A8%EB%93%88%EB%A1%9C-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [`@laetipark` - Node.js 교과서 : 5. 패키지 매니저](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-5-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80)
+- [`@laetipark` - Node.js 교과서 : 6. 익스프레스 웹 서버 만들기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-6-%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4-%EC%9B%B9-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [`@laetipark` - NestJS/Typescript : 캐시 메모리와 레디스(Redis)](https://blex.me/@laetipark/nestjstypescript-%EC%BA%90%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80-%EB%A0%88%EB%94%94%EC%8A%A4redis)
+- [`@laetipark` - NestJS/Typescript : Bcrypt 모듈을 통한 비밀번호 암호화](https://blex.me/@laetipark/nestjstypescript-bcrypt-%EB%AA%A8%EB%93%88%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%95%94%ED%98%B8%ED%99%94)
+
+---
+
 ## Webkit
 
 - [The web just gets better with Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
@@ -888,11 +902,16 @@ tag:
 
 ---
 
-## 푸르고 개발 블로그
+## 개발하는 기획자 기획하는 개발자
 
-- [[DDD] 값 객체, Value Object](https://puleugo.tistory.com/186)
+- [Nest.js - 트랜잭션 (Transaction)](https://blog.naver.com/gi_balja/223422569009)
 
 ---
 
+## 신현석(Hyeonseok Shin)
+
+- [노드 간의 포함관계를 확인하는 contains](https://hyeonseok.com/blog/912)
+
+---
 
 <TagLinks />

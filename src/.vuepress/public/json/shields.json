@@ -1,4 +1,5 @@
 [
+  { "logo": "angular", "name": "Angular", "colorHex": "0F0F11" },
   { "logo": "amazon", "name": "Amazon", "colorHex": "FF9900" },
   { "logo": "amazonaws", "name": "AWS", "colorHex": "FF9900" },
   { "logo": "amazonec2", "name": "AWS%20EC2", "colorHex": "FF9900" },
@@ -92,6 +93,7 @@
   { "logo": "openjdk", "name": "Java", "colorHex": "007396" },
   { "logo": "oracle", "name": "Oracle%20SQL", "colorHex": "F80000" },
   { "logo": "php", "name": "PHP", "colorHex": "777BB4" },
+  { "logo": "phpmyadmin", "name": "phpMyAdmin", "colorHex": "6C78AF" },
   { "logo": "podman", "name": "Podman", "colorHex": "892CA0" },
   { "logo": "postgresql", "name": "PostgreSQL", "colorHex": "4169E1" },
   { "logo": "postman", "name": "Postman", "colorHex": "FF6C37" },
@@ -135,5 +137,3 @@
   { "logo": "youtube", "name": "YouTube", "colorHex": "FF0000" },
   { "logo": "zig", "name": "Zig", "colorHex": "F7A41D" }
 ]
-
-

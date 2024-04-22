@@ -683,6 +683,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Interactive HTML5 and JavaScript Maps for Websites | Simplemaps.com",
+  "desc": "HTML5, JavaScript and Flash interactive maps of  the USA and World. Easy to customize and install. Mobile-compatible.  Free trial software!",
+  "link": "https://simplemaps.com/",
+  "logo": "https://simplemaps.com/static/img/favicon.ico",
+  "backgground": "rgba(136,164,188,0.2)"
+}
+```
+
 - [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
 
 @tab Network & Security
@@ -929,6 +939,8 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 - https://puter.com/
 - https://byronicalpatrick.github.io/qwanji/
 - https://sonauto.ai/Home
+- https://equinox.space/
+- https://www.krazam.tv/
 
 ```component VPCard
 {

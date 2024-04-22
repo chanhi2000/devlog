@@ -119,4 +119,10 @@ head:
 
 ---
 
+## 강준현
+
+- [Chain of Responsibility Pattern](https://junhyunny.github.io/design-pattern/chain-of-responsibility-pattern/)
+
+---
+
 <TagLinks />

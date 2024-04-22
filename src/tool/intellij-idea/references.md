@@ -24,6 +24,12 @@ tag:
 
 ---
 
+## BLEX
+
+- [`@DevMinGeonPark` - Jetbrains IDE 학생 라이센스 받기](https://blex.me/@DevMinGeonPark/jetbrains-ide-%ED%95%99%EC%83%9D-%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4-%EB%B0%9B%EA%B8%B0)
+
+---
+
 ## 기계인간 John Grib 
 
 - [IntelliJ 이것저것](https://johngrib.github.io/wiki/intellij/tips/)
@@ -33,5 +39,7 @@ tag:
 ## 주먹불끈
 
 - [TIL: IntelliJ 에서 구조체 자동완성하기](https://jusths.tistory.com/397)
+
+---
 
 <TagLinks />

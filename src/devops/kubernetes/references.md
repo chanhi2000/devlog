@@ -64,7 +64,13 @@ tag:
 - [Securing Kubernetes Applications with CrowdSec Intrusion Detection System](https://itnext.io/securing-kubernetes-applications-with-crowdsec-intrusion-detection-system-8eb2f93d3c9f)
 - [Running GPU-Accelerated LLM Workloads on EKS](https://medium.com/prodigy-engineering/running-gpu-accelerated-llm-workloads-on-eks-9928c07d30ea)
 - [`chrisjune-13837` - [cheat sheet] Kubernetes, Kubeflow 자주 쓰는 명령어 모음](https://chrisjune-13837.medium.com/cheat-sheet-kubernetes-kubeflow-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C-b65197dfcae7)
-- 
+
+---
+
+## BLEX
+
+- [`@Su-per` - [Kubernetes] kubectl 기본 명령어 정리](https://blex.me/@Su-per/kubernetes-kubectl-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+
 ---
 
 ## DZone

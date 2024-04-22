@@ -93,6 +93,20 @@ tag:
 - [`@danjr` - 이스케이프 문자열](https://velog.io/@danjr/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
 - [`@danjr` - JAVA - 반복문](https://velog.io/@danjr/JAVA-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 
+### BLEX
+
+- [`@happyhw0589` - [백준 자바] 01-01 Hello World](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80%EC%BD%94%EB%94%A91-1-1-2-println)
+- [`@happyhw0589` - [백준 자바] 01-02 We love kriii](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80-01-02-we-love-kriii)
+- [`@happyhw0589` - [백준 자바] 01-03 고양이](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80-01-04-%EA%B3%A0%EC%96%91%EC%9D%B4)
+- [`@happyhw0589` - [백준 자바] 01-04 개](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80-%EC%9E%90%EB%B0%94-01-05-%EA%B0%9C)
+- [`@happyhw0589` - [백준 자바] 01-05 A+B](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80-%EC%9E%90%EB%B0%94-01-05-ab)
+- [`@happyhw0589` - [백준 자바] 01-06 A-B](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80-%EC%9E%90%EB%B0%94-01-06-a-b)
+- [`@happyhw0589` - [백준 자바] 01-07 AxB](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80-%EC%9E%90%EB%B0%94-01-07-axb)
+- [`@happyhw0589` - [백준 자바] 01-08 A/B](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80-%EC%9E%90%EB%B0%94-01-08-ab)
+- [`@msa4080` - PART1. 자바 입문](https://blex.me/@msa4080/part1-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8-1)
+- [`@msa4080` - PART2. 자바 언어 기본(1)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8)
+- [`@msa4080` - PART2. 자바 언어 기본(2)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B82)
+
 ### Douglas Schmidt
 
 - [CS *254: Concurrent Object-Oriented Programming in Java and Android](http://www.dre.vanderbilt.edu/~schmidt/cs891s/)
@@ -204,6 +218,7 @@ tag:
 - [[ 99클럽 코테 스터디 19일차 TIL ] 시간 초과 및 프로그래머스(연속된 부분 수열의 합)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-19%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%9C%EA%B0%84-%EC%B4%88%EA%B3%BC-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%97%B0%EC%86%8D%EB%90%9C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
 - [[ 99클럽 코테 스터디 20일차 TIL ] 프로그래머스(내적)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-20%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%B4%EC%A0%81)
 - [[ 99클럽 코테 스터디 22일차 TIL ] 프로그래머스(나머지가 1이 되는 수 찾기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-22%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80-1%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%88%98-%EC%B0%BE%EA%B8%B0)
+- [[ 99클럽 코테 스터디 24일차 TIL ] 백준(17504번 - 제리와 톰 2)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-24%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%8017504%EB%B2%88-%EC%A0%9C%EB%A6%AC%EC%99%80-%ED%86%B0-2)
 
 ### 류광의 번역 이야기
 
@@ -229,12 +244,14 @@ tag:
 
 - [Java HashMap의 내부 동작 - 이론편](https://potwings.tistory.com/59)
 - [Java HashMap의 내부 동작 - 실전편](https://potwings.tistory.com/60)
+- [Java HashMap의 내부 동작 - 해시 버킷 개수 조정](https://potwings.tistory.com/61)
+
 
 ### integer
 
 - [Netflix의 Java 사용 변천사 (번역)](https://www.integer.blog/evolution-of-java-usage-at-netflix/)
 
-## 푸르고 개발 블로그
+## 푸르고
 
 - [[DDD] 도메인 엔티티, Domain Entity](https://puleugo.tistory.com/187)
 
@@ -278,6 +295,7 @@ tag:
 - [`@andrejkingsley` - Plotting Financial Data in Kotlin with Kandy](https://medium.com/@andrejkingsley/plotting-financial-data-in-kotlin-with-kandy-66757aef05ef)
 - [`proandroiddev` - Leveraging Key-Value Observing (KVO) in Kotlin Multiplatform (KMP) for iOS](https://proandroiddev.com/leveraging-key-value-observing-kvo-in-kotlin-multiplatform-kmp-for-ios-231519e5c1ff)
 - [`hinchman-amanda` - Kotlin Coroutine mechanisms: runBlocking v. launch](https://hinchman-amanda.medium.com/kotlin-coroutine-mechanisms-runblocking-v-launch-386e1ae8e3c2)
+- [`roandroiddev` - How to safely update state in your Kotlin apps](https://proandroiddev.com/how-to-safely-update-state-in-your-kotlin-apps-bf51ccebe2ef)
 
 ### velog
 
@@ -341,7 +359,16 @@ tag:
 
 - [Kotlin Flows - The Ultimate Guide](https://blog.rockthejvm.com/kotlin-flows/)
 
+### The house sometimes wins
+
+- [OpenTelemetry Traces with http4k APIs](https://www.cfnine.com/blog/opentelemetry-http4k/)
+
 ---
 
+### kotzilla
+
+- [The Culprit :Technical Debt Undermines Kotlin Application Development](https://blog.cloud-inject.io/technical-debt-and-kotlin-app-development)
+
+---
 
 <TagLinks />

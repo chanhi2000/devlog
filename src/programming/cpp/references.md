@@ -35,6 +35,12 @@ tag:
 
 ---
 
+## BLEX
+
+- [`@wolfsil` - c++ 요약](https://blex.me/@wolfsil/c-%EC%96%B8%EC%96%B4-%EC%9A%94%EC%95%BD)
+
+---
+
 ## divy.work
 
 - [Turbocall: the Just-in-time compiler for Deno FFI](https://divy.work/turbocall.html)
@@ -60,6 +66,7 @@ tag:
 - [Here 0.03 - 마우스 위치 강조하기](https://blog.naver.com/tipsware/223419021061)
 - [EasyWin32 라이브러리 업데이트](https://blog.naver.com/tipsware/223421882880)
 - [대화 상자 리소스를 프로젝트에서 분리하기](https://blog.naver.com/tipsware/223420801636)
+- [[EasyWin32] 구구단 실습](https://blog.naver.com/tipsware/223422630311)
 
 ---
 
@@ -99,6 +106,18 @@ tag:
 ## jacking75
 
 - [C++ - C++23 `std::print` 소개](https://jacking75.github.io/Cpp_20240413/)
+
+---
+
+## hanshq.net
+
+- [Finding the First 10-digit Prime in (a Billion) Digits of e](https://www.hanshq.net/eprime.html)
+
+---
+
+## 16BPP.net
+
+- [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 
 ---
 

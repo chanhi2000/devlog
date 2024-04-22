@@ -55,10 +55,6 @@ export const navbarEn = navbar([
         link: '/programming/api-kakao/README.md',
         icon: 'iconfont icon-kakao'
       }, {
-        text: 'API - NCloud',
-        link: '/programming/api-ncloud/README.md',
-        icon: 'iconfont icon-naver'
-      }, {
         text: 'Shell',
         link: '/programming/sh/README.md',
         icon: 'iconfont icon-shell'
@@ -107,6 +103,14 @@ export const navbarEn = navbar([
         link: '/programming/swift/README.md',
         icon: 'fa-brands fa-swift',
       }, {
+        text: 'JavaScript',
+        icon: 'fa-brands fa-js',
+        link: '/programming/js/README.md',
+      }, {
+        text: 'NPM',
+        icon: 'fa-brands fa-npm',
+        link: '/programming/npm/README.md',
+      }, {
         text: 'Node.js',
         link: '/programming/js-node/README.md',
         icon: 'fa-brands fa-node',
@@ -123,13 +127,25 @@ export const navbarEn = navbar([
         link: '/programming/js-svelte/README.md',
         icon: 'iconfont icon-svelte',
       }, {
+        text: 'Angular.js',
+        icon: 'fa-brands fa-angular',
+        link: '/programming/js-angular/README.md',
+      }, {  
         text: 'Mermaid.js',
         link: '/programming/js-mermaid/README.md',
         icon: 'iconfont icon-mermaid',
       }, {
         text: 'Python',
-        link: '/programming/python/README.md',
+        link: '/programming/py/README.md',
         icon: 'fa-brands fa-python',
+      }, {
+        text: 'Django',
+        link: '/programming/py-django/README.md',
+        icon: 'iconfont icon-django',
+      }, {
+        text: 'Airflow',
+        link: '/programming/py-airflow/README.md',
+        icon: 'iconfont icon-apacheairflow',
       }, {
         text: 'CSS',
         link: '/programming/css/README.md',
@@ -215,7 +231,11 @@ export const navbarEn = navbar([
       }, {
         text: 'Linux - Debian',
         icon: 'fa-brands fa-debian',
-        link: '/devops/debian/README.md',
+        link: '/devops/linux-debian/README.md',
+      }, {
+        text: 'Linux - Fedora',
+        icon: 'fa-brands fa-fedora',
+        link: '/devops/linux-fedora/README.md',
       }, {
         text: 'Proxmox',
         icon: 'iconfont icon-proxmox',
@@ -252,6 +272,10 @@ export const navbarEn = navbar([
         text: 'Azure',
         icon: 'iconfont icon-microsoftazure',
         link: '/devops/azure/README.md',
+      }, {
+        text: 'NCloud',
+        link: '/devops/ncloud/README.md',
+        icon: 'iconfont icon-naver'
       }, {
         text: 'Security',
         icon: 'fas fa-shield-halved',
@@ -311,10 +335,6 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-postgresql',
         link: '/devops/postgres/README.md',
       }, {
-        text: 'Django',
-        icon: 'iconfont icon-django',
-        link: '/devops/django/README.md',
-      }, {
         text: '🪳Cockroach',
         link: 'devops/django/README.md',
       }, {
@@ -340,6 +360,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-vampire-dracula',
         link: '/tool/dracula/README.md',
       }, {
+        text: 'Xcode',
+        icon: 'iconfont icon-xcode',
+        link: '/tool/xcode/README.md',
+      }, {
         text: 'Intellij Idea',
         icon: 'iconfont icon-intellijidea',
         link: '/tool/intellij-idea/README.md',
@@ -360,9 +384,17 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-microsoftexcel',
         link: '/tool/excel/README.md',
       }, {
+        text: 'PowerPoint',
+        icon: 'iconfont icon-microsoftpowerpoint',
+        link: '/tool/powerpoint/README.md',
+      }, {
         text: 'Chrome Browser',
         icon: 'fa-brands fa-chrome',
         link: '/tool/googlechrome/README.md',
+      }, {
+        text: 'Safari',
+        icon: 'fa-brands fa-safari',
+        link: '/tool/safari/README.md',
       }, {
         text: 'Notion',
         icon: 'iconfont icon-notion',

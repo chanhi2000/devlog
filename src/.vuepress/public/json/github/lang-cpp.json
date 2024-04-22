@@ -1248,5 +1248,10 @@
     "desc": ":robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.",
     "officialSite": "https://localai.io",
     "topics": ["ai", "alpaca", "api", "api-rest", "audio-generation", "coqui", "falcon", "gemma", "gpt4all", "image-generation", "kubernetes", "llama", "llm", "mamba", "mistral", "musicgen", "rwkv", "stable-diffusion", "text-generation", "tts"]
+  }, {
+    "repo": "alexbatalov/fallout1-ce",
+    "desc": "Fallout for modern operating systems",
+    "officialSite": "",
+    "topics": ["c-plus-plus", "fallout", "game", "isometric"]
   }
 ]

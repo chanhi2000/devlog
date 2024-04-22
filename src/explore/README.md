@@ -415,7 +415,17 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+@tab Portfolio / Cool Project
 
+```component VPCard
+{
+  "title": "BaeJino Design",
+  "desc": "",
+  "link": "https://design.baejino.com/",
+  "logo": "https://design.baejino.com/favicon.ico",
+  "backgground": "rgba(94,73,217,0.2)"
+}
+```
 
 :::
 

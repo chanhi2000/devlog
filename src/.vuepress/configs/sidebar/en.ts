@@ -18,15 +18,6 @@ export const sidebarEn = sidebar({
         '/programming/api-kakao/push.md',
         '/programming/api-kakao/references.md'
       ]
-    },  {
-      text: 'API - NCloud',
-      collapsible: true,
-      icon: 'iconfont icon-naver',
-      children: [
-         '/programming/api-ncloud/README.md',
-         '/programming/api-ncloud/geolocation.md',
-         '/programming/api-ncloud/references.md',
-        ]
     }, {
       text: 'Shell',
       collapsible: true,
@@ -346,6 +337,34 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'JavaScript',
+      collapsible: true,
+      icon: 'fa-brands fa-js',
+      children: [
+        '/programming/js/README.md',
+        '/programming/js/jquery.md',
+        '/programming/js/snippets.md',
+        '/programming/js/references.md',
+        '/programming/js/github.md',
+        '/programming/js/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'NPM',
+      collapsible: true,
+      icon: 'fa-brands fa-npm',
+      children: [
+        '/programming/npm/README.md',
+        '/programming/npm/references.md',
+      ],
+    }, {
       text: 'Node.js',
       collapsible: true,
       icon: 'fa-brands fa-node',
@@ -355,7 +374,6 @@ export const sidebarEn = sidebar({
         '/programming/js-node/sandbox.md',
         '/programming/js-node/cordova.md',
         '/programming/js-node/tips.md',
-        '/programming/js-node/snippets.md',
         '/programming/js-node/references.md',
         '/programming/js-node/github.md',
         '/programming/js-node/youtube.md',
@@ -495,6 +513,15 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Angular.js',
+      collapsible: true,
+      icon: 'fa-brands fa-angular',
+      children: [
+        '/programming/js-angular/README.md',
+        '/programming/js-angular/references.md',
+        '/programming/js-angular/youtube.md',
+      ]
+    }, {
       text: 'Mermaid.js',
       collapsible: true,
       icon: 'iconfont icon-mermaid',
@@ -507,16 +534,16 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-python',
       children: [
-        '/programming/python/README.md',
-        '/programming/python/references.md',
-        '/programming/python/github.md',
-        '/programming/python/youtube.md',
+        '/programming/py/README.md',
+        '/programming/py/references.md',
+        '/programming/py/github.md',
+        '/programming/py/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/programming/python/articles/README.md',
+            '/programming/py/articles/README.md',
             {
               text: 'yozm.wishket.com',
               collapsible: true,
@@ -529,6 +556,25 @@ export const sidebarEn = sidebar({
             }
           ]
         }
+      ]
+    }, {
+      text: 'Django',
+      collapsible: true,
+      icon: 'iconfont icon-django',
+      children: [
+        '/programming/py-django/README.md',
+        '/programming/py-django/query.md',
+        '/programming/py-django/github.md',
+        '/programming/py-django/references.md',
+        '/programming/py-django/youtube.md',      
+      ]
+    }, {
+      text: 'Airflow',
+      collapsible: true,
+      icon: 'iconfont icon-apacheairflow',
+      children: [
+        '/programming/py-airflow/README.md',
+        '/programming/py-airflow/references.md',
       ]
     }, {
       text: 'CSS',
@@ -716,6 +762,7 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-tex',
       children: [
         '/programming/latex/README.md',
+        '/programming/latex/snippets.md',
         '/programming/latex/references.md',
         '/programming/latex/github.md', 
       ]
@@ -769,7 +816,7 @@ export const sidebarEn = sidebar({
         '/tool/xcode/README.md',
         '/tool/xcode/references.md',
       ]
-    },{
+    }, {
       text: 'Intellij Idea',
       collapsible: true,
       icon: 'iconfont icon-intellijidea',
@@ -853,6 +900,31 @@ export const sidebarEn = sidebar({
         '/tool/excel/README.md',
         '/tool/excel/references.md',
         '/tool/excel/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/excel/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Powerpoint',
+      collapsible: true,
+      icon: 'iconfont icon-microsoftpowerpoint',
+      children: [
+        '/tool/powerpoint/README.md',
+        '/tool/powerpoint/references.md',
+        '/tool/powerpoint/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/powerpoint/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'Chrome Browser',
@@ -971,10 +1043,20 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-debian',
       children: [
-        '/devops/debian/README.md',
-        '/devops/debian/env-setup.md',
-        '/devops/debian/references.md',
-        '/devops/debian/youtube.md',
+        '/devops/linux-debian/README.md',
+        '/devops/linux-debian/env-setup.md',
+        '/devops/linux-debian/references.md',
+        '/devops/linux-debian/youtube.md',
+      ]
+    }, {
+      text: 'Linux - Fedora',
+      collapsible: true,
+      icon: 'fa-brands fa-fedora',
+      children: [
+        '/devops/linux-fedora/README.md',
+        '/devops/linux-fedora/env-setup.md',
+        '/devops/linux-fedora/references.md',
+        '/devops/linux-fedora/youtube.md',
       ]
     }, {
       text: 'Proxmox',
@@ -1135,6 +1217,15 @@ export const sidebarEn = sidebar({
         '/devops/azure/youtube.md',
       ]
     }, {
+      text: 'NCloud',
+      collapsible: true,
+      icon: 'iconfont icon-naver',
+      children: [
+         '/devops/ncloud/README.md',
+         '/devops/ncloud/geolocation.md',
+         '/devops/ncloud/references.md',
+        ]
+    }, {
       text: 'Security',
       collapsible: true,
       icon: 'fas fa-shield-halved',
@@ -1281,17 +1372,6 @@ export const sidebarEn = sidebar({
         '/devops/postgres/query.md',
         '/devops/postgres/references.md',
         '/devops/postgres/youtube.md',
-      ]
-    }, {
-      text: 'Django',
-      collapsible: true,
-      icon: 'iconfont icon-django',
-      children: [
-        '/devops/django/README.md',
-        '/devops/django/query.md',
-        '/devops/django/github.md',
-        '/devops/django/references.md',
-        '/devops/django/youtube.md',      
       ]
     }, {
       text: '🪳Cockroach',

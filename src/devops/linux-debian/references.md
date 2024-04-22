@@ -60,11 +60,6 @@ tag:
 - [Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 
 ---
-## Medium
-
-- [How To Join a Linux Box To An Active Directory Domain and Control access](https://rakeshjain-devops.medium.com/how-to-join-a-linux-box-to-an-active-directory-domain-and-control-access-2c5151bad03d)
-
----
 
 ## borretti
 
@@ -80,8 +75,15 @@ tag:
 
 ## Medium
 
-- [Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
-- [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
+- [`mrs-t` - Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
+- [`mhatta` - GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
+- [`rakeshjain-devops` - How To Join a Linux Box To An Active Directory Domain and Control access](https://rakeshjain-devops.medium.com/how-to-join-a-linux-box-to-an-active-directory-domain-and-control-access-2c5151bad03d)
+
+---
+
+## BLEX
+
+- [`@baealex` - 우분투 방화벽 설정 (`ufw`)](https://blex.me/@baealex/ubuntu-ufw)
 
 ---
 
@@ -102,8 +104,6 @@ tag:
 - [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
 
 ---
-
-## Sebastien Marie
 
 ## TuM'Fatig
 
@@ -157,6 +157,7 @@ tag:
 
 - [Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 
+---
 
 ## Pádraig Brady
 
@@ -217,6 +218,12 @@ tag:
 ## SPICE
 
 - [`usbredir`](https://www.spice-space.org/usbredir.html)
+
+---
+
+## 운동하는 개발자
+
+- [Linux 서비스 로그 확인 (`journalctl`)](https://singo112ok.tistory.com/271)
 
 ---
 

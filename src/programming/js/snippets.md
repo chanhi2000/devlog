@@ -1,20 +1,26 @@
 ---
 lang: ko-KR
 title: Snippets
-description: Node.js > Snippets
+description: JavaScript > Snippets
 icon: fas fa-eye-dropper
 category:
-  - Node.js
+  - JavaScript
   - Snippets
 tag: 
   - js
-  - node
-  - nodejs
+  - javascript
   - snippets
+head:
+  - - meta:
+    - property: og:title
+      content: Node.js > Snippets
+    - property: og:description
+      content: Snippets
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js/snippets.html
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 
@@ -151,6 +157,6 @@ console.log(JSON.stringify(videos[0]))
 copy(JSON.stringify(videos))
 ```
 
-
+---
 
 <TagLinks />

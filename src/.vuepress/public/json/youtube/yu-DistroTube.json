@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/oMrToBgvTsKkj_uZ1F1qYT2XuGY5gN9mkuVun9L0x2lUlfV-gnntzK3jX-VpoQDLBaTfJCIZebA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mpTeUGgpUIw", "title": "What I Learned From Linux and Free Software" },
+    { "id": "9wyIECjwAio", "title": "The Absolute Basics of Vim (It's Not THAT Hard!)" },
+    { "id": "koPNR_6MOKs", "title": "Void Linux - An Independent Distro Doing Its Own Thing" },
+    { "id": "chBcA1zzRNg", "title": "XZ Exploits Prove Open Source Software Is Superior (And Also Vulnerable)" },
+    { "id": "DurDLylo0_I", "title": "Blanket Is A Slick Little Ambient Sound Player" },
     { "id": "ASkf0EBLZGc", "title": "Reinstalling An Operating System Kinda Sucks" },
     { "id": "B0MCR7_103w", "title": "Qtile Is Love, Qtile Is Life" },
     { "id": "Sf8qJeQ1Tt0", "title": "Do You Have To \"Learn\" Linux To Use Linux?" },

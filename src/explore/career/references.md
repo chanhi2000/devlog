@@ -44,9 +44,15 @@ tag:
 
 ---
 
-## blex.me
-
-- [`@mildsalmon`: 회식과 저녁에 대한 시간 기준](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-13%EC%A3%BC%EC%B0%A8-3%EC%9B%94)
+## BLEX
+- [`@mildsalmon` - 자격증 취득기](https://blex.me/@mildsalmon/%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D%EA%B8%B0)
+- [`@mildsalmon` - SQLD를 취득해보자.](https://blex.me/@mildsalmon/sqld%EB%A5%BC-%EC%B7%A8%EB%93%9D%ED%95%B4%EB%B3%B4%EC%9E%90)
+- [`@whdgus928` - 정보처리기사 실기](https://blex.me/@whdgus928/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0)
+- [`@whdgus928` - si 방법론](https://blex.me/@whdgus928/si-%EB%B0%A9%EB%B2%95%EB%A1%A0)
+- [`@baealex` - 신입 개발자 이직 준비하기](https://blex.me/@baealex/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
+- [`@2170004487z` - '애자일은 뭐고 폭포수는 뭐야?' 애자일 방법론 역사 이해하기](https://blex.me/@2170004487z/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%AD%90%EA%B3%A0-%ED%8F%AD%ED%8F%AC%EC%88%98%EB%8A%94-%EB%AD%90%EC%95%BC-%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EC%97%AD%EC%82%AC-%EC%9D%B4%ED%95%B4%ED%95%98)
+- [`@mildsalmon` - 회식과 저녁에 대한 시간 기준](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-13%EC%A3%BC%EC%B0%A8-3%EC%9B%94)
+- [`@devkonis` - [스타트업] 업계에서 통용되는 스타트업 관련 주요 용어](https://blex.me/@devkonis/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%97%85%EA%B3%84%EC%97%90%EC%84%9C-%ED%86%B5%EC%9A%A9%EB%90%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EC%9A%A9%EC%96%B4)
 
 ---
 
@@ -221,6 +227,8 @@ tag:
 - [[정보처리기사 실기] 개념요약 - 02. 데이터 입출력 구현](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-02-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B5%AC%ED%98%84)
 - [[ 99클럽 코테 스터디 23일차 TIL ] Call by Value, Call by Reference 및 프로그래머스(행렬 테두리 회전하기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-Call-by-Value-Call-by-Reference-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
 - [[내일배움캠프 5일차 TIL] 미니 프로젝트 발표](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C)
+- [[정보처리기사 실기] 개념요약 - 04. 서버 프로그램 구현](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-04-%EC%84%9C%EB%B2%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B5%AC%ED%98%84)
+- [[내일배움캠프 1주차 WIL] 미니 프로젝트 및 코딩 테스트](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%A3%BC%EC%B0%A8-WIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B)
 
 ---
 
@@ -251,6 +259,7 @@ tag:
 - [`@engineerscodex` - 7 simple habits of the top 1% of engineers](https://read.engineerscodex.com/p/7-simple-habits-of-the-top-1-of-engineers)
 - [`@engineerscodex` - How Pinterest scaled to 11 million users with only 6 engineers](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 - [`@engineerscodex` - How Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
+- [`@pinpointresearch` - Brex vs Ramp](https://pinpointresearch.substack.com/p/brex-vs-ramp)
 
 ---
 
@@ -280,6 +289,7 @@ tag:
 - [피드백에 대해](https://www.thestartupbible.com/2024/04/is-your-vc-giving-you-feedback-on-rejection.html)
 - [거절은 새로운 시작](https://www.thestartupbible.com/2024/04/selling-starts-when-the-buyer-says-no.html)
 - [스케일은 우리의 적](https://www.thestartupbible.com/2024/04/scale-is-your-enemy.html)
+- [해답은 등잔 밑에](https://www.thestartupbible.com/2024/04/do-not-look-too-far-for-answers.html)
 
 ---
 
@@ -472,12 +482,43 @@ tag:
 ## 💻 준성 개발 일지
 
 - [[자격증] [정보처리기사] 정보처리기사 필기](https://dev-wnstjd.tistory.com/525)
+- [[자격증] [정보처리기사] 정보처리기사 필기](https://dev-wnstjd.tistory.com/526)
 
 ---
 
 ## 세상을 널리 이롭게 하는 돌 큰돌
 
 - [바야흐로 1인개발자시대에 따른 아키텍처 분석](https://blog.naver.com/jhc9639/223421615148)
+
+---
+
+## Breakneck
+
+- [Why you won't find a technical co-founder](https://www.breakneck.dev/blog/no-tech-cofounder)
+
+---
+
+## The Story's Story
+
+- [The emotional trial of clinical trials, part 1: It’s like online dating except if you choose wrong you die](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
+
+---
+
+## Enthusiastically, Steady, Slowly
+
+- [쉽게 설명하는 29CM Architecture Manifesto](https://rutgo-letsgo.tistory.com/entry/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-29CM-Architecture-Manifesto)
+
+---
+
+## 복세편살
+
+- [<타냐 라일리> 개발자를 넘어 기술 리더로 가는 길: 성공적인 프로젝트 실행력](https://americanopeople.tistory.com/454)
+
+---
+
+## 쉽게 살 수 있을까 ?
+
+- [자기소개서 이해와 잘 쓰는 법](https://hl1itj.tistory.com/261)
 
 ---
 

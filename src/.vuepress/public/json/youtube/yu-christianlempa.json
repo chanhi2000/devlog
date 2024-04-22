@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/a4dSkp9F7UvxRWb0Dc81cSfsTuXGlCv59O9ljd5AE-RLzHGZJ5Np_0V9Ign0S_1PbjnD5jW5oA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9YmaDxdAeMI", "title": "Self-Hosted vs Cloud Services, let’s do Real Talk!" },
+    { "id": "_Fgwap-sl3A", "title": "Install a self-hosted VPN platform // Netbird" },
+    { "id": "AK2JE2YsKto", "title": "Make Windows Terminal look amazing!" },
+    { "id": "N5unsATNpJk", "title": "Secure authentication for EVERYTHING! // Authentik" },
+    { "id": "D4cixQ_Ek4Y", "title": "My NEW HomeLab automation platform // Kestra" },
+    { "id": "FXLEyfc4wkA", "title": "How secure your HomeLab has to be?" },
+    { "id": "j9kbQucNwlc", "title": "It’s time for a new HomeLab Dashboard // Homepage" },
+    { "id": "SDXfkmJ9Y00", "title": "This mainboard is PERFECT for Home Servers // Minisforum BD770i" },
+    { "id": "vJbgso_CdrQ", "title": "How to plan your HomeLab the right way?" },
+    { "id": "IhEE_QlI1MU", "title": "More POWER for my HomeLab! // Proxmox Cluster" },
     { "id": "BXYDQfnAMiA", "title": "Powerful protection for your network! // Unifi Express" },
     { "id": "Yg3QL8To6uQ", "title": "SPF, DKIM, DMARC was never so simple! // EasyDMARC" },
     { "id": "qFQTSWVJE90", "title": "HomeLab Talk, Community Q&A //part 3" },

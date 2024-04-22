@@ -58,4 +58,10 @@ tag:
 
 ---
 
+## sunyzero
+
+- [크롬에서 탭 닫은 후 우측 상단에 "닫기" 버튼이 보이는 문제 (버그?)](https://sunyzero.tistory.com/296)
+
+---
+
 <TagLinks />

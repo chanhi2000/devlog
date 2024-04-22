@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/3AfskTu89xkDj02bZK3Sp5aNcG9WMu4eiQ-pXKPni3o2lLmtaf4tRHyHeqEij0zhuFxYuvxVJA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Tw-n4o5LErw", "title": "Dive into Microsoft Fabric's Power BI Direct Lake" },
+    { "id": "-_jY87oo9Sw", "title": "Include in Refresh can trip you up within Power Query" },
+    { "id": "twT9BERneMI", "title": "Decoding Direct Lake: The Truth Behind DirectQuery Fallback" },
+    { "id": "x4afF_Ou58Y", "title": "How to connect to Microsoft Fabric Items from Power BI Desktop?" },
+    { "id": "J0CAiFQh7oo", "title": "Exploring Dynamic Subscriptions for Power BI reports" },
+    { "id": "0kE3TE34oLM", "title": "Copilot for Power BI: Your Ultimate Copilot Guide" },
+    { "id": "MJqMqbyUAgI", "title": "Wait!?! It's the same data source! What's going on???" },
+    { "id": "TgAXt1ifdhs", "title": "Boost DAX Performance in Power BI with Dual Mode" },
     { "id": "lLfDJvvTDZs", "title": "Where in the world are Adam and Patrick?" },
     { "id": "zvyr2qYCQNo", "title": "Use Source Control with your Power BI Report in Microsoft Fabric!" },
     { "id": "2RuoHpNZbc4", "title": "Adding a column to your Lakehouse? Where is it in the Semantic Model???" },

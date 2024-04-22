@@ -29,4 +29,16 @@ tag:
 
 ---
 
+## BLEX
+
+- [`@baealex` - 우분투 NginX + Let's Encrypt](https://blex.me/@baealex/ubuntu-nginx-letsencrypt)
+
+---
+
+## Charsyam's Blog
+
+- [AWS 에서 Amazon Linux Nginx TCP Stream Proxy 설정](https://charsyam.wordpress.com/2024/04/21/aws-%ec%97%90%ec%84%9c-amazon-linux-nginx-tcp-stream-proxy-%ec%84%a4%ec%a0%95/)
+
+---
+
 <TagLinks />

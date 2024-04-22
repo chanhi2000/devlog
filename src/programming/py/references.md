@@ -4,8 +4,7 @@ title: References
 description: Python > References
 icon: iconfont icon-share
 category: 
-  - python
-  - py
+  - Python
   - References
 tag: 
   - blog
@@ -15,7 +14,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 
@@ -65,6 +63,103 @@ tag:
 - [Guide to managing environment variables with Infisical + Python](https://medium.com/@tony.infisical/guide-to-managing-environment-variables-with-infisical-python-9d26ab07b387)
 - [Python: Uncovering the Overlooked Core Functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 - [[python] 버전 변경](https://medium.com/%EB%8F%84%EA%B9%A8%EB%B9%84-%EC%9D%B4%EC%95%BC%EA%B8%B0/python-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-03cece908cac)
+
+---
+
+## BLEX
+
+- [`@mildsalmon` - Chap 16. DP - Q32. 정수 삼각형](https://blex.me/@mildsalmon/chap-16-dp-q32-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95)
+- [`@mildsalmon` - Chap 16. DP - Q33. 퇴사](https://blex.me/@mildsalmon/chap-16-dp-q33-%ED%87%B4%EC%82%AC)
+- [`@mildsalmon` - 문자열에 비교연산자를 사용했을 때 만난 오류](https://blex.me/@mildsalmon/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90-%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%96%88%EC%9D%84-%EB%95%8C-%EB%A7%8C%EB%82%9C-%EC%98%A4%EB%A5%98)
+- [`@mildsalmon` - Chap 16. DP - Q34. 병사 배치하기](https://blex.me/@mildsalmon/chap-16-dp-q34-%EB%B3%91%EC%82%AC-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
+- [`@mildsalmon` - Chap 16. DP - Q36. 편집 거리](https://blex.me/@mildsalmon/chap-16-dp-q36-%ED%8E%B8%EC%A7%91-%EA%B1%B0%EB%A6%AC)
+- [`@mildsalmon` - Chap 17. 최단경로 - Q37. 플로이드](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q37-%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C)
+- [`@mildsalmon` - Chap 17. 최단경로 - Q38. 정확한 순위](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q38-%EC%A0%95%ED%99%95%ED%95%9C-%EC%88%9C%EC%9C%84)
+- [`@mildsalmon` - Chap 17. 최단경로 - Q39. 화성 탐사](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q39-%ED%99%94%EC%84%B1-%ED%83%90%EC%82%AC)
+- [`@mildsalmon` - Chap 17. 최단경로 - Q40. 숨바꼭질](https://blex.me/@mildsalmon/chap-17-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-q40-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
+- [`@mildsalmon` - 11399번 - ATM](https://blex.me/@mildsalmon/11399%EB%B2%88-atm)
+- [`@mildsalmon` - 1946번 - 신입 사원](https://blex.me/@mildsalmon/1946%EB%B2%88-%EC%8B%A0%EC%9E%85-%EC%82%AC%EC%9B%90)
+- [`@mildsalmon` - Chap 18. 그래프이론 - Q41. 여행 계획](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q41-%EC%97%AC%ED%96%89-%EA%B3%84%ED%9A%8D)
+- [`@mildsalmon` - Chap 18. 그래프이론 - Q42. 탑승구](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q42-%ED%83%91%EC%8A%B9%EA%B5%AC)
+- [`@mildsalmon` - Chap 18. 그래프이론 - Q43. 어두운 길](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q43-%EC%96%B4%EB%91%90%EC%9A%B4-%EA%B8%B8)
+- [`@mildsalmon` - Chap 18. 그래프이론 - Q44. 행성 터널](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q44-%ED%96%89%EC%84%B1-%ED%84%B0%EB%84%90)
+- [`@mildsalmon` - 1283번 - 단축키 지정](https://blex.me/@mildsalmon/1283%EB%B2%88-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A7%80%EC%A0%95)
+- [`@mildsalmon` - Chap 18. 그래프이론 - Q45. 최종 순위](https://blex.me/@mildsalmon/chap-18-%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%B4%EB%A1%A0-q45-%EC%B5%9C%EC%A2%85-%EC%88%9C%EC%9C%84)
+- [`@mildsalmon` - 1182번 - 부분수열의 합](https://blex.me/@mildsalmon/1182%EB%B2%88-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
+- [`@mildsalmon` - Chap 19. 삼성전자 기출문제 - Q46. 아기 상어](https://blex.me/@mildsalmon/chap-19-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-q46-%EC%95%84%EA%B8%B0-%EC%83%81%EC%96%B4)
+- [`@mildsalmon` - 16943번 - 숫자 재배치](https://blex.me/@mildsalmon/16943%EB%B2%88-%EC%88%AB%EC%9E%90-%EC%9E%AC%EB%B0%B0%EC%B9%98)
+- [`@mildsalmon` - 14225번 - 부분수열의 합](https://blex.me/@mildsalmon/14225%EB%B2%88-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
+- [`@mildsalmon` - Chap 19. 삼성전자 기출문제 - Q47. 청소년 상어](https://blex.me/@mildsalmon/chap-19-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-q47-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%83%81%EC%96%B4)
+- [`@mildsalmon` - 2012번 - 등수 매기기](https://blex.me/@mildsalmon/2012%EB%B2%88-%EB%93%B1%EC%88%98-%EB%A7%A4%EA%B8%B0%EA%B8%B0)
+- [`@mildsalmon` - 1339번 - 단어 수학](https://blex.me/@mildsalmon/1339%EB%B2%88-%EB%8B%A8%EC%96%B4-%EC%88%98%ED%95%99)
+- [`@mildsalmon` - 6603번 - 로또](https://blex.me/@mildsalmon/6603%EB%B2%88-%EB%A1%9C%EB%98%90)
+- [`@mildsalmon` - 해시 - 전화번호 목록](https://blex.me/@mildsalmon/%ED%95%B4%EC%8B%9C-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)
+- [`@mildsalmon` - 해시 - 위장](https://blex.me/@mildsalmon/%ED%95%B4%EC%8B%9C-%EC%9C%84%EC%9E%A5)
+- [`@mildsalmon` - 5567번 - 결혼식](https://blex.me/@mildsalmon/5567%EB%B2%88-%EA%B2%B0%ED%98%BC%EC%8B%9D)
+- [`@mildsalmon` - 21922번 - 학부 연구생 민상](https://blex.me/@mildsalmon/21922%EB%B2%88-%ED%95%99%EB%B6%80-%EC%97%B0%EA%B5%AC%EC%83%9D-%EB%AF%BC%EC%83%81)
+- [`@baealex` - Python으로 웹 프론트엔드 개발하기](https://blex.me/@baealex/brython)
+- [`@mildsalmon` - 10546번 - 배부른 마라토너](https://blex.me/@mildsalmon/10546%EB%B2%88-%EB%B0%B0%EB%B6%80%EB%A5%B8-%EB%A7%88%EB%9D%BC%ED%86%A0%EB%84%88)
+- [`@mildsalmon` - 파이썬의 itertools](https://blex.me/@mildsalmon/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-itertools)
+- [`@mildsalmon` - Heap - 디스크 컨트롤러](https://blex.me/@mildsalmon/heap-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
+- [`@mildsalmon` - 2252번 - 줄 세우기](https://blex.me/@mildsalmon/2252%EB%B2%88-%EC%A4%84-%EC%84%B8%EC%9A%B0%EA%B8%B0)
+- [`@mildsalmon` - 22859번 - HTML 파싱](https://blex.me/@mildsalmon/22859%EB%B2%88-html-%ED%8C%8C%EC%8B%B1)
+- [`@mildsalmon` - 2022 KAKAO BLIND RECRUITMENT - 파괴되지 않은 건물](https://blex.me/@mildsalmon/2022-kakao-blind-recruitment-%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B1%B4%EB%AC%BC)
+- [`@mildsalmon` - 14499번 - 주사위 굴리기](https://blex.me/@mildsalmon/14499%EB%B2%88-%EC%A3%BC%EC%82%AC%EC%9C%84-%EA%B5%B4%EB%A6%AC%EA%B8%B0)
+- [`@laetipark` - 데이터 과학을 위한 파이썬 머신러닝 : 1. 머신러닝의 기초](https://blex.me/@laetipark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-1-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98-%EA%B8%B0%EC%B4%88)
+- [`@mildsalmon` - 파이썬 함수의 디폴트 매개변수는 호출 시점을 따르지 않는다.](https://blex.me/@mildsalmon/16-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%95%A8%EC%88%98%EC%9D%98-%EB%94%94%ED%8F%B4%ED%8A%B8-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EB%8A%94-%ED%98%B8%EC%B6%9C-%EC%8B%9C%EC%A0%90%EC%9D%84-%EB%94%B0%EB%A5%B4%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4)
+- [`@laetipark` - 데이터 과학을 위한 파이썬 머신러닝 : 2. 데이터의 이해](https://blex.me/@laetipark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-2-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%9D%B4%ED%95%B4)
+- [`@laetipark` - 데이터 과학을 위한 파이썬 머신러닝 : 3. 넘파이](https://blex.me/@laetipark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3-%EB%84%98%ED%8C%8C%EC%9D%B4)
+- [`@laetipark` - 데이터 과학을 위한 파이썬 머신러닝 : 4. 판다스](https://blex.me/@laetipark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-4-%ED%8C%90%EB%8B%A4%EC%8A%A4)
+- [`@laetipark` - 데이터 과학을 위한 파이썬 머신러닝 : 6. 데이터 전처리(1)](https://blex.me/@laetipark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94)
+- [`@mildsalmon` - python logger의 동작](https://blex.me/@mildsalmon/python-logger%EC%9D%98-%EB%8F%99%EC%9E%91)
+- [`@laetipark` - 백준BOJ/JAVA : 2338번 긴자리 계산](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80baekjoonjava-2338%EB%B2%88-%EA%B8%B4%EC%9E%90%EB%A6%AC-%EA%B3%84%EC%82%B0)
+- [`@laetipark` - 백준BOJ/JAVA : 14928번 큰 수 (BIG)](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojjava-14928%EB%B2%88-%ED%81%B0-%EC%88%98-big)
+- [`@laetipark` - 데이터 과학을 위한 파이썬 머신러닝 1장 연습문제 풀이](https://blex.me/@laetipark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-1%EC%9E%A5-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
+- [`@laetipark` - 데이터 과학을 위한 파이썬 머신러닝 2장 연습문제 풀이](https://blex.me/@laetipark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-2%EC%9E%A5-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
+- [`@laetipark` - 데이터 과학을 위한 파이썬 머신러닝 3장 연습문제 풀이](https://blex.me/@laetipark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3%EC%9E%A5-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
+- [`@laetipark` - 데이터 과학을 위한 파이썬 머신러닝 4장 연습문제 풀이](https://blex.me/@laetipark/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-4%EC%9E%A5-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
+- [`@laetipark` - 백준BOJ/Java/Python : 2161번 카드1](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojjavapython-2161%EB%B2%88-%EC%B9%B4%EB%93%9C1)
+- [`@whdgus928` - Pandas에서 csv 데이터 빠르게 읽기](https://blex.me/@whdgus928/pandas%EC%97%90%EC%84%9C-csv-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%9D%BD%EA%B8%B0)
+- [`@laetipark` - 백준BOJ/Java/Python : 2750번 수 정렬하기](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojjavapython-2750%EB%B2%88-%EC%88%98-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+- [`@laetipark` - 백준BOJ/Java/Python : 2751번 수 정렬하기 2](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojjavapython-2751%EB%B2%88-%EC%88%98-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-2)
+- [`@laetipark` - 백준BOJ/Java/Python : 2292번 벌집](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojjavapython-2292%EB%B2%88-%EB%B2%8C%EC%A7%91)
+- [`@laetipark` - 백준BOJ/Python : 1009번 분산처리](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1009%EB%B2%88-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC)
+- [`@laetipark` - 백준BOJ/Python : 1929번 소수 구하기](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1929%EB%B2%88-%EC%86%8C%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0)
+- [`@laetipark` - 백준BOJ/Python : 1541번 잃어버린 괄호](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1541%EB%B2%88-%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0-%EA%B4%84%ED%98%B8)
+- [`@laetipark` - 백준BOJ/Python : 1331번 나이트 투어](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1331%EB%B2%88-%EB%82%98%EC%9D%B4%ED%8A%B8-%ED%88%AC%EC%96%B4)
+- [`@laetipark` - 백준BOJ/Python : 1996번 지뢰 찾기](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1996%EB%B2%88-%EC%A7%80%EB%A2%B0-%EC%B0%BE%EA%B8%B0)
+- [`@laetipark` - 이것이 코딩 테스트다/Python : Chapter 3. 1이 될 때까지](https://blex.me/@laetipark/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4python-chapter-3-1%EC%9D%B4-%EB%90%A0-%EB%95%8C%EA%B9%8C%EC%A7%80)
+- [`@laetipark` - 이것이 코딩 테스트다/Python : Chapter 3. 숫자 카드 게임](https://blex.me/@laetipark/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4python-chapter-3-%EC%88%AB%EC%9E%90-%EC%B9%B4%EB%93%9C-%EA%B2%8C%EC%9E%84)
+- [`@laetipark` - 이것이 코딩 테스트다/Python : Chapter 3. 큰 수의 법칙](https://blex.me/@laetipark/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4python-chapter-3-%ED%81%B0-%EC%88%98%EC%9D%98-%EB%B2%95%EC%B9%99)
+- [`@laetipark` - 이것이 코딩 테스트다/Python : Chapter 3. 거스름돈](https://blex.me/@laetipark/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4python-chapter-3-%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)
+- [`@laetipark` - 이것이 코딩 테스트다/Python : Chapter 4. 상하좌우](https://blex.me/@laetipark/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4python-chapter-4-%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0)
+- [`@laetipark` - 이것이 코딩 테스트다/Python : Chapter 4. 시각](https://blex.me/@laetipark/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4python-chapter-4-%EC%8B%9C%EA%B0%81)
+- [`@laetipark` - 이것이 코딩 테스트다/Python : Chapter 4. 왕실의 나이트](https://blex.me/@laetipark/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4python-chapter-4-%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8)
+- [`@laetipark` - 이것이 코딩 테스트다/Python : Chapter 4. 게임 개발](https://blex.me/@laetipark/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4python-chapter-4-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C)
+- [`@laetipark` - 백준BOJ/Python : 9012번 괄호](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-9012%EB%B2%88-%EA%B4%84%ED%98%B8)
+- [`@laetipark` - 백준BOJ/Python : 10828번 스택](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-10828%EB%B2%88-%EC%8A%A4%ED%83%9D)
+- [`@laetipark` - 백준BOJ/Python : 1874번 스택 수열](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1874%EB%B2%88-%EC%8A%A4%ED%83%9D-%EC%88%98%EC%97%B4)
+- [`@laetipark` - 백준BOJ/Python : 1018번 체스판 다시 칠하기](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1018%EB%B2%88-%EC%B2%B4%EC%8A%A4%ED%8C%90-%EB%8B%A4%EC%8B%9C-%EC%B9%A0%ED%95%98%EA%B8%B0)
+- [`@laetipark` - 백준BOJ/Python : 4344번 평균은 넘겠지](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-4344%EB%B2%88-%ED%8F%89%EA%B7%A0%EC%9D%80-%EB%84%98%EA%B2%A0%EC%A7%80)
+- [`@laetipark` - 백준BOJ/Python : 1259번 팰린드롬수](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1259%EB%B2%88-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98)
+- [`@laetipark` - 백준BOJ/Python : 1920번 수 찾기](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1920%EB%B2%88-%EC%88%98-%EC%B0%BE%EA%B8%B0)
+- [`@laetipark` - 백준BOJ/Python : 2164번 카드2](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-2164%EB%B2%88-%EC%B9%B4%EB%93%9C2)
+- [`@mildsalmon` - [Airflow 개선 - DAG Factory] 1. 왜 하는가?](https://blex.me/@mildsalmon/airflow-%EA%B0%9C%EC%84%A0-dag-factory-1-%EC%99%9C-%ED%95%98%EB%8A%94%EA%B0%80-URWwNfWE)
+- [`@laetipark` - 백준BOJ/Python : 1654번 랜선 자르기](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1654%EB%B2%88-%EB%9E%9C%EC%84%A0-%EC%9E%90%EB%A5%B4%EA%B8%B0)
+- [`@laetipark` - 백준BOJ/Python : 11650번 좌표 정렬하기](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-11650%EB%B2%88-%EC%A2%8C%ED%91%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+- [`@laetipark` - 백준BOJ/Python : 2609번 최대 공약수와 최소 공배수](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-2609%EB%B2%88-%EC%B5%9C%EB%8C%80-%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C-%EA%B3%B5%EB%B0%B0%EC%88%98)
+- [`@mildsalmon` - [Airflow 개선 - DAG Factory] 2. DAG Factory](https://blex.me/@mildsalmon/airflow-%EA%B0%9C%EC%84%A0-dag-factory-2-dag-factory)
+- [`@laetipark` - 백준BOJ/Python : 2798번 블랙잭](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-2798%EB%B2%88-%EB%B8%94%EB%9E%99%EC%9E%AD) 
+- [`@laetipark` - 백준BOJ/Python : 10814번 나이순 정렬](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-10814%EB%B2%88-%EB%82%98%EC%9D%B4%EC%88%9C-%EC%A0%95%EB%A0%AC)
+- [`@laetipark` - 백준BOJ/Python : 10845번 큐](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-10845%EB%B2%88-%ED%81%90)
+- [`@laetipark` - 백준BOJ/Python : 10866번 덱](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-10866%EB%B2%88-%EB%8D%B1)
+- [`@mildsalmon` - [requests 라이브러리] 내가 아는 timeout은 너무 추상적이였어..](https://blex.me/@mildsalmon/requests-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%82%B4%EA%B0%80-%EC%95%84%EB%8A%94-timeout%EC%9D%80-%EB%84%88%EB%AC%B4-%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B4%EC%98%80%EC%96%B4)
+- [`@wolfsil` - 파이썬 요약](https://blex.me/@wolfsil/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9A%94%EC%95%BD)
+- [`@wolfsil` - 파이썬 파일 다루기](https://blex.me/@wolfsil/2023-10-6-%EC%98%A4%ED%9B%84-31725)
+- [`@wolfsil` - 파이썬 `pillow` 라이브러리 사용법](https://blex.me/@wolfsil/%ED%8C%8C%EC%9D%B4%EC%8D%AC-pillow-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [`@wolfsil` - 파이썬 디렉토리 다루기](https://blex.me/@wolfsil/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
+- [`@laetipark` - 백준BOJ/Python : 1764번 : 듣보잡](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1764%EB%B2%88-%EB%93%A3%EB%B3%B4%EC%9E%A1)
+- [`@laetipark` - 백준BOJ/Python : 18110번 : solved.ac](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-18110%EB%B2%88-solvedac)
 
 ---
 
@@ -438,6 +533,7 @@ tag:
 - [OpenCV - 이미지 파일을 mp4 동영상 파일로 변환하는 파이썬 코드](https://webnautes.tistory.com/2041)
 - [OpenCV Python - 동영상 파일을 일련번호 붙은 이미지 파일로 저장하기](https://webnautes.tistory.com/2323)
 - [OpenCV Python 검은색 빈 공간 채우기](https://webnautes.tistory.com/2322)
+- [Keras 예제 – `flow_from_directory`와 `flow_from_dataframe`](https://webnautes.tistory.com/2077)
 
 ---
 

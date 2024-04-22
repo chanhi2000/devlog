@@ -254,5 +254,10 @@
     "desc": "Android 1.0+ mini file explorer and manager",
     "officialSite": "https://martinmimigames.github.io/projects/little-file-explorer/",
     "topics": ["android", "compatibility", "f-droid", "fdroid", "file", "file-explorer", "file-manager", "gplv3", "java", "martinmimigames", "minimal", "small"]
+  }, {
+    "repo": "Oleur/mistral-ai-kmp",
+    "desc": "Mistral AI SDK for Kotlin Multiplatform (KMP) with support for Android, iOS, Desktop and Wasm. Sample projects to show the Mistral AI capabilities.",
+    "officialSite": "https://oleur.github.io/mistral-ai-kmp/",
+    "topics": []
   }
 ]

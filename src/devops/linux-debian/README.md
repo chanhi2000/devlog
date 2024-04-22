@@ -13,7 +13,7 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="apple,appstore,windows,windowsterminal,ubuntu"/>
+<ShieldsGroup logos="ubuntu"/>
 
 ---
 

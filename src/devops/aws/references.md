@@ -51,6 +51,16 @@ tag:
 
 ---
 
+## BLEX
+
+- [`@Su-per` - AWS CodeDeploy 찍먹해보기](https://blex.me/@Su-per/aws-codedeploy-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0)
+- [`@Su-per` - AWS CloudFormation으로 IaC 시작하기 - 01](https://blex.me/@Su-per/aws-cloudformation%EC%9C%BC%EB%A1%9C-iac-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-01)
+- [`@Su-per` - AWS CodePipeline으로 Blue/Green 배포하기](https://blex.me/@Su-per/aws-codepipeline%EC%9C%BC%EB%A1%9C-bluegreen-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+- [`@laetipark` - AWSome DAY 온라인 컨퍼런스 : AWS 클라우드 소개](https://blex.me/@laetipark/awsome-day-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-aws-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%86%8C%EA%B0%9C)
+- [`@2170004487z` - 라우팅을 편하게!, CIDR로 더 효율적인 네트워크 환경을 경험해보세요!](https://blex.me/@2170004487z/%EB%9D%BC%EC%9A%B0%ED%8C%85%EC%9D%84-%ED%8E%B8%ED%95%98%EA%B2%8C-cidr%EB%A1%9C-%EB%8D%94-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B2%BD%ED%97%98%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
+
+---
+
 ## Dev.to
 
 - [A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
@@ -113,7 +123,7 @@ tag:
 - [AWS SES와 Nodemailer](https://blog.naver.com/gi_balja/223414001298)
 - [AWS API Gateway와 Lambda 연동하기](https://blog.naver.com/gi_balja/223417844588)
 - [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
-- [AWS 서버리스 기초](https://blog.naver.com/gi_balja/223421350581)
+- [AWS 서버리스 기초](https://blog.naver.com/gi_balja/223421350581) 
 
 ---
 
@@ -134,5 +144,9 @@ tag:
 - [AWS API gateway를 통해서 AWS IOT 에 메세지 PUBLISH 하기](https://blog.naver.com/nanotoly/223408850676)
 
 ---
+
+## Haandol
+
+- [Open WebUI 와 Amazon Bedrock 으로 이용해서 로컬에서 RAG UI 돌려보기](https://haandol.github.io/2024/04/21/run-open-webui-using-bedrock-for-local-rag.html)
 
 <TagLinks />

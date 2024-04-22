@@ -16,7 +16,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -33,6 +32,12 @@ tag:
 - [mathjax tutorial](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 - [circuitikz](https://www.sharelatex.com/learn/CircuiTikz_package)
 - [numberset](http://texblog.org/2007/08/27/number-sets-prime-natural-integer-rational-real-and-complex-in-latex/)
+
+---
+
+## BLEX
+
+- [`@baealex` - BLEX 2023 1월 개발노트](https://blex.me/@baealex/blex-2023-1%EC%9B%94-%EA%B0%9C%EB%B0%9C%EB%85%B8%ED%8A%B8)
 
 ---
 

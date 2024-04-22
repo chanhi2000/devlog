@@ -39,6 +39,7 @@ tag:
 - [STM32G4-2Relay 보드 검증 완료](https://blog.naver.com/chandong83/223404390101?)
 - [와... 조...졸았나....](https://blog.naver.com/chandong83/223406717717?)
 - [USB to CAN 동글 우분투에서 테스트하기](https://blog.naver.com/chandong83/223407505153?) 
+- [ESP32S3_ETH-CAN485 개발 보드 자료 링크(예제,회로도 등)](https://blog.naver.com/chandong83/223422514638)
 
 ---
 
@@ -109,6 +110,12 @@ tag:
 ## 왕꿀꿀
 
 - [ASRock B650M PG Lightning 구매 후기](https://kingpiggylab.tistory.com/416)
+
+---
+
+## FABIEN SANGLARD
+
+- [INSIDE THE SUPER NINTENDO CARTRIDGES](https://fabiensanglard.net/snes_carts/index.html)
 
 ---
 

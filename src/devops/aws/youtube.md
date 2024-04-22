@@ -60,5 +60,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Thetips4you" /><!-- Thetips4you -->
 <MyYouTubeItems jsonName="yu-itrun" /><!-- 형님IT -->
 <MyYouTubeItems jsonName="yu-Akbun" /><!-- 악분 일상 -->
+<MyYouTubeItems jsonName="yu-SiliconBrighton" /><!-- Silicon Brighton -->
 
 <TagLinks />

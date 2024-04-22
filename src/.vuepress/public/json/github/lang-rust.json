@@ -1329,5 +1329,10 @@
     "desc": "A simple API client (postman like) in your terminal",
     "officialSite": "https://github.com/Julien-cpsn/ATAC/wiki",
     "topics": ["api", "insomnia", "postman", "rust", "tui"]
+  }, {
+    "repo": "kylebarron/parquet-wasm",
+    "desc": "Rust-based WebAssembly bindings to read and write Apache Parquet data",
+    "officialSite": "https://kylebarron.dev/parquet-wasm/",
+    "topics": ["apache-arrow", "apache-parquet", "arrow", "javascript", "parquet", "rust", "wasm", "webassembly"]
   }
 ]

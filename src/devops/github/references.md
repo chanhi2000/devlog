@@ -43,6 +43,12 @@ tag:
 
 ---
 
+## BLEX
+
+- [`@baealex` - GitHub Action으로 Yew.rs 배포하는 방법](https://blex.me/@baealex/github-action%EC%9C%BC%EB%A1%9C-yew-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+
+---
+
 ## 인포그랩
 
 - [인포그랩의 소중한 자산입니다. 콘텐츠를 복사할 수 없는 점 너른 양해 부탁드립니다.](https://insight.infograb.net/blog/2023/08/29/gitlab-vs-github)

@@ -929,5 +929,10 @@
     "desc": "Lunatik is a framework for scripting the Linux kernel with Lua.",
     "officialSite": "",
     "topics": ["c", "kernel", "linux-kernel", "lua"]
+  }, {
+    "repo": "mscheong01/speculative_decoding.c",
+    "desc": "minimal C implementation of speculative decoding based on llama2.c",
+    "officialSite": "",
+    "topics": ["artificial-intelligence", "c", "llama2", "llm", "speculative-decoding"]
   }
 ]

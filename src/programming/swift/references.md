@@ -21,6 +21,8 @@ tag:
 ## Swift 
 
 - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
+- [Introducing the Benchmark Package: Complementing Unit Tests with Performance Checks](https://www.swift.org/blog/benchmarks/)
+- [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://www.swift.org/blog/embedded-swift-examples/)
 - [Writing GNOME Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 - [Swift Server Workgroup (SSWG)](https://www.swift.org/sswg/)
 
@@ -42,6 +44,12 @@ tag:
 ## Tool(s)
 
 - [NSDateFormatter](https://nsdateformatter.com)
+
+---
+
+## Substack
+
+- [`speakinginswift` - Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
 
 ---
 
@@ -97,6 +105,7 @@ tag:
 - [Simplifying SwiftUI Navigation](https://medium.com/@mahmoudabdelshafi4/simplifying-swiftui-navigation-f510cb58f46f)
 - [`hinaabbaskhan` - Image Processing Using Swift](https://code.likeagirl.io/image-processing-using-swift-fa5cd5ffab98)
 - [`@prashantdixit_87612` - Creating and publishing your own iOS library in Swift(2024) | Part 1](https://medium.com/@prashantdixit_87612/creating-and-publishing-your-own-ios-library-in-swift-2024-part-1-4dd8b211802a)
+- [`jamf-engineering` - Swift 6 upgrade Preparation](https://medium.com/jamf-engineering/swift-6-upgrade-preparation-0941fbea2db6)
 
 ---
 
@@ -197,6 +206,7 @@ tag:
 
 ## Donny Wals
 
+- [Everything you need to know about Swift 5.10](https://www.donnywals.com/everything-you-need-to-know-about-swift-5-10)
 - [Making your SwiftData models Codable](https://www.donnywals.com/making-your-swiftdata-models-codable)
 - [Actor reentrancy in Swift explained](https://www.donnywals.com/actor-reentrancy-in-swift-explained)
 
@@ -230,6 +240,8 @@ tag:
 ## Use Your Loaf
 
 - [SwiftUI Sensory Feedback](https://useyourloaf.com/blog/swiftui-sensory-feedback)
+- [SwiftUI Tasks Blocking the MainActor](https://useyourloaf.com/blog/swiftui-tasks-blocking-the-mainactor/)
+- [Fetching `OSLog` Messages in Swift](https://useyourloaf.com/blog/fetching-oslog-messages-in-swift)
 
 ---
 
@@ -248,6 +260,7 @@ tag:
 ## swiftjectivec
 
 - [Generated Asset Catalog Symbols in Objective-C](https://www.swiftjectivec.com/generated-asset-symbols-objective-c)
+- [Quick and Painless Persistency on iOS](https://www.swiftjectivec.com/stupid-and-quick-persistency-on-ios-with-swift/)
 
 ---
 
@@ -380,11 +393,102 @@ tag:
 
 ---
 
-
 ## Junhyunny's Devlogs
 
 - [`@ObservedObject` and `@StateObject` in SwiftUI](https://junhyunny.github.io/ios/swift-ui/state-object-vs-observed-object/)
 - [MVVM Pattern in SwiftUI](https://junhyunny.github.io/ios/swift-ui/design-pattern/mvvm-pattern-in-ios/)
+
+---
+
+## Ben Dodson
+
+- [Using your Personal Voice (along with system and novelty voices) in an iOS app](https://bendodson.com/weblog/2024/04/03/using-your-personal-voice-in-an-ios-app)
+
+---
+
+## Ryan Ashcraft
+
+- [Splitting Up a Monolith: From 1 to 25 Swift Packages](https://ryanashcraft.com/splitting-up-a-monolithic-swift-package/)
+
+---
+
+## furbo.org
+
+- [App Store Subscriptions and Family Sharing](https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/)
+
+---
+
+## Natascha Fadeeva
+
+- [How to use TipKit to create tool tips in SwiftUI](https://tanaschita.com/20240304-tipkit-feature-hints/)
+- [How to avoid using `AnyView` in SwiftUI](https://tanaschita.com/swiftui-how-to-avoid-using-anyview/)
+
+---
+
+## Swift Package Index
+
+- [Customising the DocC documentation theme](https://swiftpackageindex.com/blog/customising-the-docc-documentation-theme)
+
+---
+
+## Christian Selig
+
+- [Recreating Apple's beautiful visionOS search bar](https://christianselig.com/2024/03/recreating-visionos-search-bar/)
+
+---
+
+## Emerge Tools
+
+- [Make Your iOS App Smaller with Dynamic Frameworks](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
+
+---
+
+## massicotte.org
+
+- [An Introduction to Isolation in Swift](https://www.massicotte.org/intro-to-isolation)
+- [Swift Isolation Intuition](https://www.massicotte.org/isolation-intuition)
+
+---
+
+## Inner Machinations of a Starfish
+
+- [Guide to Naming SwiftUI Components](https://blog.ptrkstr.com/swiftui-component-naming)
+
+---
+
+## Nil Coalescing
+
+- [Sending trial notifications with provisional authorization on iOS](https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS/)
+
+---
+
+## Paper
+
+- [Nerdy internals of an Apple text editor 👨🏻‍🔧](https://papereditor.app/internals) <!-- TODO: objective-c로 이동 -->
+
+---
+
+## Lunar Skydiving
+
+- [If you’ve created a visionOS app with a volume, you probably did it wrong](https://www.lunarskydiving.com/blog/volume-window-zoom/)
+
+---
+
+## thatvirtualboy
+
+- [You can put your app's paywall in an Alert. But you probably shouldn’t](https://thatvirtualboy.com/paywall-on-alert/)
+
+---
+
+## Tiago Lopes
+
+- [Picture in Picture Cheat Sheet (iOS)](https://tiagolopes.blog/2024/02/24/picture-in-picture-cheatsheet-ios/)
+
+---
+
+## overdesigned blog
+
+- [Shattered Glass: Customizing Windows in visionOS](https://blog.overdesigned.net/posts/2024-02-29-visionos-window-basics)
 
 ---
 

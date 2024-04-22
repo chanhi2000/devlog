@@ -2618,5 +2618,35 @@
     "desc": "A shadcn table component with server-side sorting, filtering, and pagination.",
     "officialSite": "https://table.sadmn.com",
     "topics": ["drizzle-orm", "millionjs", "nextjs", "open-source", "shadcn-ui", "tanstack-table"]
+  }, {
+    "repo": "mendableai/firecrawl",
+    "desc": "🔥 Turn entire websites into LLM-ready markdown",
+    "officialSite": "https://firecrawl.dev",
+    "topics": ["ai", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"]
+  }, {
+    "repo": "immich-app/immich",
+    "desc": "High performance self-hosted photo and video management solution.",
+    "officialSite": "https://immich.app",
+    "topics": ["backup-tool", "flutter", "google-photos", "google-photos-alternative", "javascript", "mobile-app", "nestjs", "nodejs", "photo-gallery", "photos", "photos-management", "self-hosted", "svelte", "sveltekit", "typescript", "videos"]
+  }, {
+    "repo": "janhq/jan",
+    "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+    "officialSite": "https://jan.ai/",
+    "topics": ["electron", "gpt", "llama2", "llamacpp", "localai", "self-hosted"]
+  }, {
+    "repo": "joschan21/profanity.dev",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "pretzelai/pretzelai",
+    "desc": "Open-source, browser-local data exploration using DuckDB-Wasm and PRQL",
+    "officialSite": "https://pretzelai.github.io",
+    "topics": ["analytics", "artificial-intelligence", "business-intelligence", "businessintelligence", "dashboard", "data", "data-analysis", "data-analytics", "data-science", "data-visualization", "duckdb", "notebooks", "open-source", "prql", "reporting", "sql", "sql-editor", "sql-editor-online", "visualization", "wasm"]
+  }, {
+    "repo": "sveltecult/franken-ui",
+    "desc": "Franken UI is a UI library of common web components. It is a based on UIkit 3 exposed as a Tailwind CSS plugin.",
+    "officialSite": "https://franken-ui.dev",
+    "topics": ["component", "css", "design-system", "framework", "shadcn", "shadcn-ui", "tailwind", "tailwindcss", "ui", "uikit"]
   }
 ]

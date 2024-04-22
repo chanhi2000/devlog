@@ -73,6 +73,12 @@ tag:
 
 ---
 
+## BLEX
+
+- [`@2170004487z` - 왜 ChatGPT로 영어를 배워야 하는가?](https://blex.me/@2170004487z/%EC%99%9C-chatgpt%EB%A1%9C-%EC%98%81%EC%96%B4%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)
+
+---
+
 ## WeAreDevelopers
 
 - [10 Best AI Chrome Extensions for Developers](https://www.wearedevelopers.com/magazine/best-ai-chrome-extensions-for-developers)
@@ -322,6 +328,12 @@ tag:
 - [소스코드 생성 전용 - CodeGemma 시작하기](https://tykimos.github.io/2024/04/10/getting_started_with_codegemma/)
 - [구글폼, 깃허브 액션 그리고 랭체인으로 AI 인플루언서 블로그 작성 간소화](https://tykimos.github.io/2024/04/13/simplifying_virtual_influencer_blog_creation_with_google_forms,_github_actions,_and_langchain/)
 - [개발자 부럽지 않은 챗GPT 프롬프트 엔지니어링 구글시트 기반으로 관리 시작하기](https://tykimos.github.io/2024/04/20/start_prompt_engineering_management_based_on_google_sheets_that_developers_will_envy/)
+
+---
+
+## 푸르고
+
+- [머신러닝과 딥러닝의 차이](https://puleugo.tistory.com/189)
 
 ---
 

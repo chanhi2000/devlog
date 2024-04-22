@@ -201,7 +201,7 @@ tag:
 
 ---
 
-## 푸르고 개발 블로그
+## 푸르고
 
 - [[PostgreSQL] 내가 enum을 쓰지 않는 이유](https://puleugo.tistory.com/185)
 

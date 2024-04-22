@@ -6,7 +6,6 @@ icon: fa-brands fa-youtube
 category:
   - KVM
   - VM
-  - 
 tag:
   - kvm
   - vm

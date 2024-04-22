@@ -16,7 +16,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -42,6 +41,14 @@ tag:
 - [`@qkrtkdwns3410` - [MySQL] InnoDB 스토리지 엔진 아키텍처 특징 (1)](https://velog.io/@qkrtkdwns3410/MySQL-InnoDB-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%97%94%EC%A7%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8A%B9%EC%A7%95-1)
 - [`@eunbibi` - Tableau tutorial](https://velog.io/@eunbibi/Tableau-tutorial)
 - [`@eunbibi` - Tableau charts](https://velog.io/@eunbibi/Tableau-charts)
+
+---
+
+## BLEX
+- [`@mildsalmon` - Occupations](https://blex.me/@mildsalmon/occupations)
+- [`@mildsalmon` - Top Competitors](https://blex.me/@mildsalmon/top-competitors)
+- [`@gauryan` - MySQL 테이블명 대문자로 사용하기](https://blex.me/@gauryan/mysql-%ED%85%8C%EC%9D%B4%EB%B8%94%EB%AA%85-%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`@Su-per` - [MySQL] 네이밍 컨벤션 정리](https://blex.me/@Su-per/mysql-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC)
 
 ---
 
@@ -110,6 +117,7 @@ tag:
 ## 생계형 개발자 연서은
 
 - [4.01. MySQL 데이터베이스 생성하기](https://ysedeveloper.tistory.com/entry/401-MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+- [4.02. MySQL 테이블 생성하기](https://ysedeveloper.tistory.com/entry/402-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 
 ---
 
