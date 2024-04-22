@@ -255,5 +255,10 @@
     "desc": "Deep Link Handling for Kotlin Multiplatform",
     "officialSite": "",
     "topics": ["android", "ios", "deeplink", "deeplinks", "kmp", "kotlin-multiplatform", "kmm", "kmm-library", "deeplink-navigation", "compose-multiplatform"]
+  }, {
+    "repo": "terrakok/kmp-hierarchy",
+    "desc": "Gradle Plugin to investigate KMP project's hierarchy",
+    "officialSite": "",
+    "topics": ["gradle-plugin", "hmpp", "kmp", "kotlin", "multiplatform"]
   }
 ]

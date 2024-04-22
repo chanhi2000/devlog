@@ -1,4 +1,4 @@
----
+  ---
 lang: ko-KR
 title: References
 description: Hardware > References
@@ -103,5 +103,13 @@ tag:
 ## 멈춤보단 천천히라도
 
 - [Raspberry Pi 400에 RetroPie 설치하기](https://webnautes.tistory.com/2314)
+
+---
+
+## 왕꿀꿀
+
+- [ASRock B650M PG Lightning 구매 후기](https://kingpiggylab.tistory.com/416)
+
+---
 
 <TagLinks />

@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/ZLv8NFRl9HmbN83EHoxpDViPz3c9CKgUUrPAdR6ysVI_dTyq-HUG2U63LM_nPEFMfKjK028D=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "o98frpNl6cs", "title": "AWS Tutorials - 132 - Amazon RDS - Amazon Relational Database Service - (In Hindi)" },
+    { "id": "syddeX5h1NM", "title": "AWS Tutorials - 133 - Amazon RDS - Create First Database - (In Hindi)" },
+    { "id": "AcM8KQWR3S4", "title": "AWS Tutorials - 134 - Amazon RDS - Connect to RDS Instance - (In Hindi)" },
+    { "id": "G8bGuQ2vPZ0", "title": "AWS Tutorials - 135 - Amazon RDS - What is Read Replica - How to Create Read Replica - (In Hindi)" },
+    { "id": "MPglvFh-l7M", "title": "AWS Tutorials - 136 - Amazon RDS - What is Multi AZ in RDS - (In Hindi)" },
+    { "id": "LETUsRKEgNA", "title": "AWS Tutorials - 137 - Amazon RDS - What is Proxy in RDS - (In Hindi)" },
+    { "id": "C27KFj051z4", "title": "AWS Tutorials - 139 - Amazon RDS - AWS Aurora Database - Create First Aurora Instance (In Hindi)" },
+    { "id": "xcOwOQgFvwQ", "title": "AWS Tutorials - 138 - Amazon RDS - Delete RDS, ReadReplica and Proxy in RDS - (In Hindi)" },
+    { "id": "DW78xSYuFKk", "title": "AWS Tutorials - 141 - Amazon RDS - Aurora Endpoints - Read Replica" },
+    { "id": "ir319vFNWqU", "title": "AWS Tutorials - 142 - Amazon RDS - Delete Aurora Database  - Delete Aurora Read Replica" },
+    { "id": "nF4KDYLRojw", "title": "AWS Tutorials - 143 - Amazon RDS - Cross Region Read Replica - Promote Read Replica ( In Hindi )" },
     { "id": "DO9Uv9eyVG4", "title": "AWS Tutorials - 126 -  Route53 - Logging - AWS  (in Hindi)" },
     { "id": "lcj_GOE16U4", "title": "AWS Tutorials - 127 -  Route53 - DNS Firewall - Block Websites/ Allow Websites - AWS  (in Hindi)" },
     { "id": "8T5B-VszRbQ", "title": "AWS Tutorials - 128 - Route53 - Private Hosted Zone - AWS (in Hindi)" },

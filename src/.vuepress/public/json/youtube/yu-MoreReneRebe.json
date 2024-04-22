@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "MoreReneRebe",
+    "name": "Code Therapy w/ René Rebe",
+    "profile": "https://yt3.googleusercontent.com/TQWvInIQRiRQE3wsh_1aa2omKPgGaHSy5Rdwt3RmPWFCU5lIzKJnveUUYU99a2NdU7UNGsWDNk0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kTXCF59hk_82e1O_drwEpx1fqIROExollRG7TTOo2kVFRT5tzQR6EkszfAHn3eINM20Hl_L_QnI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ybcu_IywK9o", "title": "Watch X.org developer bisect X and FIX multiple regressions for MOST drivers to ACTUALLY WORK AGAIN!" },
+    { "id": "QtIbtH1nFRY", "title": "Linux 6.8 is out! Watch kernel developer rebase IA-64, PowerPC64, RISCV-V and x86-64 patches!" },
+    { "id": "VpLxiiEf_ZA", "title": "Building POPULAR Linux From Scratch! What could possibly REGRESS this time?" },
+    { "id": "U8ZTRO6Hizw", "title": "Clever: YouTuber make Linux hobby a business by fixing LLVM Clang LIVE for Ad $$$!" },
+    { "id": "9cN-ra3oJwg", "title": "The LAST Linux Distribution You will EVER need: 30+ CPU architectures even PASSING it's TESTSUITE!" },
+    { "id": "4sn_E2XW7oY", "title": "I CAN'T BELIEVE how GOOD this Linux Distribution RELEASE is DEVELOPING! After work CODE PERFECTION!" },
+    { "id": "Kw8MCN5uJPg", "title": "OpenSSH backdoor'ed via XZ & Systemd on RedHat & Debian systemd: multi-year effort by state actor?" },
+    { "id": "-AG42yobl2c", "title": "INSANE effort to get all vintage & retro computers T2/Linux TESTED & SUPPORTED! ;-)" }
+  ]
+}

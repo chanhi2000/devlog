@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/joxgzot2UdPx2_10RWO4rLGmtJRjyrUt1DwZ0-H2YUbfABzmwuUCjrpt__9ito8DWKfRYb2J=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QXescYDdsUs", "title": "JavaScript ES Modules Demystified // Modern EcmaScript MasterClass" },
+    { "id": "ljvEj2ntHew", "title": "Richard Davidson // The Creator of AWS Labs LLRT Low Latency Runtime" },
+    { "id": "tIv_OxvLP-U", "title": "Microsoft Playwright Init // Comprehensive Template Walkthrough" },
+    { "id": "yZqnV7RNnOI", "title": "Development Setup for Microsoft Playwright Testing" },
+    { "id": "llXe-56gkaI", "title": "Introduction to Microsoft Playwright // New Course on YouTube" },
+    { "id": "Bs7w5Qi0LRg", "title": "Playwright Test API Basics" },
+    { "id": "RYEDFP9imM8", "title": "Playwright Test Command Line Tooling" },
+    { "id": "HsAVcJKHLH4", "title": "Test your Web Applications with Playwright" },
+    { "id": "EZMjeiDZoBg", "title": "Testing HTTP API and servers with Playwright" },
     { "id": "1_M-btTiaVI", "title": "JavaScript bigint // The missing guide" },
     { "id": "I5DLfGxcCPc", "title": "JavaScript WeakSet // Simplified MasterClass" },
     { "id": "WQVBrBVG13w", "title": "RegExp - regex // JavaScript Regular Expressions Ultimate MasterClass" },

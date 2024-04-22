@@ -25,5 +25,6 @@ tag:
 <MyYouTubeItems jsonName="yu-devseop" /><!-- 개발알려주는 남자, 데브남 -->
 <MyYouTubeItems jsonName="yu-yangdongjun" /><!-- 양동준 Yang DongJun -->
 <MyYouTubeItems jsonName="yu-MickeyPedia" /><!-- 미키피디아 -->
+<MyYouTubeItems jsonName="yu-eo_studio" /><!-- EO 이오 -->
 
 <TagLinks />

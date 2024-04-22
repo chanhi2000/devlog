@@ -107,4 +107,10 @@ tag:
 
 ---
 
+## 생계형 개발자 연서은
+
+- [4.01. MySQL 데이터베이스 생성하기](https://ysedeveloper.tistory.com/entry/401-MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+
+---
+
 <TagLinks />

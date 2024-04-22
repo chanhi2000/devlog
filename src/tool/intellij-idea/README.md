@@ -19,8 +19,6 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-
-
 <ShieldsGroup logos="jetbrains,intellijidea,openjdk,androidstudio,android,apachemaven,gradle"/>
 
 ---

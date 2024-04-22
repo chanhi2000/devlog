@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/AkFbWpidry0bFjIop0oa6Ct65P6xWu9o93GamfbYSVSF-I_xUuoUTOnpKez77NLKhqNJ6kkzqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Ob7zT70laDw", "title": "Blazor Render Modes - Understand Component Feature Compatibility" },
+    { "id": "JhfNHnAahZ8", "title": "Use AI to chat with a NoSQL database! A simple intro." },
+    { "id": "O1QmK_q2Xfw", "title": "Add authenticated user login to any Azure App Service app in 10 minutes!" },
     { "id": "bCDiMBfU7UE", "title": "Use the Azure Cosmos DB emulator to develop locally" },
     { "id": "zqNr0wiKaMM", "title": "Use a SQL Server Database container for local .NET development (and other frameworks)" },
     { "id": "HUNQnchaxMA", "title": "Use a Redis Container for local .NET Development (and other frameworks)" },

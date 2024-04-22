@@ -4,7 +4,7 @@ title: See the viewport size
 description: Article(s) > See the viewport size
 icon: iconfont icon-template
 category: 
-  - JavaScript
+  - Browser
   - Article(s)
 tag: 
   - blog

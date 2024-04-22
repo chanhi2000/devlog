@@ -68,6 +68,7 @@ tag:
 - [`@seochan99` - 컴퓨터 네트워크 1장 : introduction(인터넷, 프로토콜, 네트워크 엣지)](https://velog.io/@seochan99/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-1%EC%9E%A5-introduction)
 - [`@qkrtkdwns3410` - 스토리지 아키텍처](https://velog.io/@qkrtkdwns3410/%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 - [`@dus532` - 이스포츠 뷰어십을 볼수 없을까? 소프트콘 이스포츠 제작기(1)](https://velog.io/@dus532/softconeesports1)
+- [`@juhee067` - 프로젝트 리팩토링 계획 (feat.리쿠르탐)](https://velog.io/@juhee067/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B3%84%ED%9A%8D)
 
 ---
 
@@ -76,6 +77,8 @@ tag:
 - [`delightroom` - 1년 만에 성공한 온보딩 실험 작업기](https://medium.com/delightroom/1%EB%85%84-%EB%A7%8C%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%9C-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8B%A4%ED%97%98-%EC%9E%91%EC%97%85%EA%B8%B0-5b96330a3bb3)
 - [`namunamu1105` - 내가 개발자로서 회사에서 한 실수들](https://namunamu1105.medium.com/%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%ED%95%9C-%EC%8B%A4%EC%88%98%EB%93%A4-ffca7bb947a2)
 - [`Netflix Technology Blog` - Predictive CPU isolation of containers at Netflix](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+- [`mjspring` - 셀프 온보딩, 스스로 적응하기](https://mjspring.medium.com/%EC%85%80%ED%94%84-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%A0%81%EC%9D%91%ED%95%98%EA%B8%B0-8d9010b0effb)
+- [`giljae` - 레딧(Reddit)의 아키텍처 진화의 여정](https://giljae.medium.com/%EB%A0%88%EB%94%A7-reddit-%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A7%84%ED%99%94%EC%9D%98-%EC%97%AC%EC%A0%95-4f312ba7cef0)
 
 ---
 
@@ -214,6 +217,10 @@ tag:
 - [[내일배움캠프 2일차 TIL] 미니 프로젝트 개발 진척 상황](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-2%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A9)
 - [[내일배움캠프 3일차 TIL] 미니 프로젝트 개발 진척 상황2](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A92)
 - [[정보처리기사 실기] 개념요약 - 01. 요구사항 확인](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-01-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%99%95%EC%9D%B8)
+- [[정보처리기사 실기] 개념요약 - 03. 통합 구현](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-03-%ED%86%B5%ED%95%A9-%EA%B5%AC%ED%98%84)
+- [[정보처리기사 실기] 개념요약 - 02. 데이터 입출력 구현](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-02-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B5%AC%ED%98%84)
+- [[ 99클럽 코테 스터디 23일차 TIL ] Call by Value, Call by Reference 및 프로그래머스(행렬 테두리 회전하기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-Call-by-Value-Call-by-Reference-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
+- [[내일배움캠프 5일차 TIL] 미니 프로젝트 발표](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C)
 
 ---
 
@@ -294,6 +301,7 @@ tag:
 ## 사진찍는 웹 개발자의 블로그
 
 - [생산성 향상을 위한 실무에서의 비동기 커뮤니케이션](https://donghoon-song.github.io/%EC%83%9D%EC%82%B0%EC%84%B1/%EC%83%9D%EC%82%B0%EC%84%B1-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98/)
+- [AI 프로필을 팔기 시작한 개발자 이야기](https://donghoon-song.github.io/mystory/ai-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-%ED%8C%94%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 
 ---
 
@@ -324,7 +332,7 @@ tag:
 
 ## 오세용닷컴
 
-- [[유자랩스 창업기 #36] 판단하지 마세요. 제안하세요.](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-36-%ed%8c%90%eb%8b%a8%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-%ec%a0%9c%ec%95%88%ed%95%98%ec%84%b8%ec%9a%94/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%25a0%25ec%259e%2590%25eb%259e%25a9%25ec%258a%25a4-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b8%25b0-36-%25ed%258c%2590%25eb%258b%25a8%25ed%2595%2598%25ec%25a7%2580-%25eb%25a7%2588%25ec%2584%25b8%25ec%259a%2594-%25ec%25a0%259c%25ec%2595%2588%25ed%2595%2598%25ec%2584%25b8%25ec%259a%2594)
+- [[유자랩스 창업기 #36] 판단하지 마세요. 제안하세요.](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-36-%ed%8c%90%eb%8b%a8%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-%ec%a0%9c%ec%95%88%ed%95%98%ec%84%b8%ec%9a%94)
 
 ---
 
@@ -457,5 +465,20 @@ tag:
 ## Atomic Object
 
 - [Two Symptoms Your Team Isn’t Agile](https://spin.atomicobject.com/agile-practices/)
+
+---
+
+
+## 💻 준성 개발 일지
+
+- [[자격증] [정보처리기사] 정보처리기사 필기](https://dev-wnstjd.tistory.com/525)
+
+---
+
+## 세상을 널리 이롭게 하는 돌 큰돌
+
+- [바야흐로 1인개발자시대에 따른 아키텍처 분석](https://blog.naver.com/jhc9639/223421615148)
+
+---
 
 <TagLinks />

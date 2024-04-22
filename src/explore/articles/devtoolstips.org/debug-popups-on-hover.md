@@ -15,7 +15,7 @@ tag:
 head:  
   - - meta:
     - property: og:title
-      content: "Node.js > Debug popups that appear on hover"
+      content: Article(s) > Debug popups that appear on hover
     - property: og:description
       content: "Debug popups that appear on hover"
     - property: og:url
@@ -70,11 +70,9 @@ Polypane provides a way to retain the focus state inside each pane. To retain th
 
 ::: details See also
 
-[Debug popups that appear on hover using the debugger statement](https://devtoolstips.org/tips/en/debug-js-hover-2) <!-- TODO: add VPCard -->
-
-[Debug popups that appear on hover using JS](https://devtoolstips.org/tips/en/debug-js-hover) <!-- TODO: add VPCard -->
-
-[Hide or pin the information tooltip while inspecting page elements](https://devtoolstips.org/tips/en/hide-or-pin-inspect-info-tooltip) <!-- TODO: add VPCard -->
+- [Debug popups that appear on hover using the debugger statement](https://devtoolstips.org/tips/en/debug-js-hover-2) <!-- TODO: add VPCard -->
+- [Debug popups that appear on hover using JS](https://devtoolstips.org/tips/en/debug-js-hover) <!-- TODO: add VPCard -->
+- [Hide or pin the information tooltip while inspecting page elements](https://devtoolstips.org/tips/en/hide-or-pin-inspect-info-tooltip) <!-- TODO: add VPCard -->
 
 ```component VPCard
 {

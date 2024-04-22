@@ -62,5 +62,6 @@ tag:
 <MyYouTubeItems jsonName="yu-NathanStocks" /><!-- Nathan Stocks -->
 <MyYouTubeItems jsonName="yu-residual-entropy" /><!-- Residual Entropy -->
 <MyYouTubeItems jsonName="yu-oliverjumpertzme" /><!-- Oliver Jumpertz -->
+<MyYouTubeItems jsonName="yu-mithradates" /><!-- mithradates -->
 
 <TagLinks />

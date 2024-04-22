@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_g6kqj504fg.woff2?t=1713507439171') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_g6kqj504fg.woff?t=1713507439171') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_g6kqj504fg.ttf?t=1713507439171') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_g6kqj504fg.svg?t=1713507439171#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_530vkyjisit.woff2?t=1713756128528') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_530vkyjisit.woff?t=1713756128528') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_530vkyjisit.ttf?t=1713756128528') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_530vkyjisit.svg?t=1713756128528#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-xcode:before { content: "\ed18"; }
 .icon-svelte:before { content: "\e6bb"; }
 .icon-redis:before { content: "\ec7c"; }
 .icon-ovirt:before { content: "\e612"; }

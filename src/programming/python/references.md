@@ -434,6 +434,10 @@ tag:
 - [pyQt5 - process에서 메시지 박스를 보여주는 예제](https://webnautes.tistory.com/2318)
 - [PyQt5 예제 - 단축키로 버튼 누르기](https://webnautes.tistory.com/2316)
 - [PyQT5 - 랜덤 컬러 그리드 생성하기](https://webnautes.tistory.com/2320)
+- [fps 계산하는 Python 예제](https://webnautes.tistory.com/2325)
+- [OpenCV - 이미지 파일을 mp4 동영상 파일로 변환하는 파이썬 코드](https://webnautes.tistory.com/2041)
+- [OpenCV Python - 동영상 파일을 일련번호 붙은 이미지 파일로 저장하기](https://webnautes.tistory.com/2323)
+- [OpenCV Python 검은색 빈 공간 채우기](https://webnautes.tistory.com/2322)
 
 ---
 
@@ -471,6 +475,7 @@ tag:
 ## Kani Kim Dev
 
 - [Domain Driven Design for FastAPI(파이썬 FastAPI를 위한 도메인 주도 디자인) - Layered Architecture(계층적 구조)](https://kimkani.tistory.com/59)
+- [Clean Architecture(클린 아키텍처) 공부 - 육각형 아키텍처, 엔티티, 유스케이스, 프레임워크, 드라이버, 관심사 분리(SoC), 험블 객체 패턴, 프레젠터, 뷰, 뷰모델, 아키텍처]([kimkani](https://kimkani.tistory.com/63))
 
 ---
 
@@ -607,6 +612,12 @@ tag:
 ## kciter.so
 
 - [비밀 관리를 위한 금고 시스템 만들기](https://kciter.so/posts/encrypted-vault-system)
+
+---
+
+## passion is like genius; a miracle.
+
+- [Joblib Memory that expires after timelimit](https://mkseo.pe.kr/blog/?p=4950)
 
 ---
 

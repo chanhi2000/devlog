@@ -4908,6 +4908,11 @@
     "repo": "LlamaFamily/Llama-Chinese",
     "desc": "Llama中文社区，最好的中文Llama大模型，完全开源可商用",
     "officialSite": "",
-    "topics": ["finetune", "llama", "llama2", "llama3", "llm", "pretrain"]
+    "topics": ["finetune", " llama", "llama2", "llama3", "llm", "pretrain"]
+  }, {
+    "repo": "google-deepmind/penzai",
+    "desc": "A JAX research toolkit for building, editing, and visualizing neural networks.",
+    "officialSite": "https://penzai.readthedocs.io/",
+    "topics": ["fine-tuning", "interpretability", "jax", "neural-networks", "visualization"]
   }
 ]

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "user-cd7cc6hf7j",
+    "name": "김경호",
+    "profile": "https://yt3.googleusercontent.com/dpKJQcQCVw5VF0m08Hq0JuTxToIihimmQuApOW4-xvdA7ttnMDX3VAQomMnbg2MBDgzqHPM--Vw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "1blH5OLcp1w", "title": "Stock Swift Service 최종 프로젝트 발표" },
+    { "id": "fYc70Ow_kVo", "title": "Techno Market 중급 프로젝트 발표" }
+  ]
+}

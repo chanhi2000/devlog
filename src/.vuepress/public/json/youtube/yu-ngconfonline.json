@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/Oc4PMpaPSVaZO4TQb2Wzdf3cV5VOxaWTJpbFrQ9yeUdgp6PQDzr78bVKvR0B8c69ZvSy_IS1xj0=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0UAf3Q8KcUE", "title": "Angular 17: Deep Sea Discoveries" },
+    { "id": "OJarDJOPw5s", "title": "NG Conf 2024 Thursday Community Keynote" },
+    { "id": "nIBseTi6RVk", "title": "NG Conf 2024 Wednesday Morning Keynote w Jeremy Elbourn &  Minko Gechev" },
+    { "id": "Yh8Wf2J6e0k", "title": "Accelerate App Delivery with Low-Code App Builder&nbsp; | Infragistics  & ng-conf webinar 2024 |" },
+    { "id": "Z5kQDbu6DLI", "title": "Kendo UI + Angular v17 = 🔥 ng-conf sponsored webinar" },
+    { "id": "bBpHGUn-O5U", "title": "ng-conf 2024 | Get the Most Out of GitHub Copilot | John Papa" },
     { "id": "ANgGbeAbvP0", "title": "Auxiliary Routes - the Ant-Man of Angular | Ankita Sood | ng-conf 2023" },
     { "id": "yGCSPtwTFdc", "title": "Fun with Feature Flags | Brooke Avery & Preston Lamb | ng-conf 2023" },
     { "id": "fC9ZKSK8agM", "title": "Angular Community Meetup en Español | Enero 9 2024 | Carlos Caballero" },

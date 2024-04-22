@@ -204,7 +204,7 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/kt.academy/pattern-for-composing-flows.md'
               ]
-            }, 
+            },
           ]
         }
       ]
@@ -220,6 +220,22 @@ export const sidebarEn = sidebar({
         '/programming/java-spring/references.md',
         '/programming/java-spring/github.md',
         '/programming/java-spring/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/java-spring/articles/README.md',
+            {
+              text: 'tistory.com/rutgo-letsgo',
+              collapsible: true,
+              icon: 'https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg',
+              children: [
+                '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Android',
@@ -377,10 +393,13 @@ export const sidebarEn = sidebar({
                 '/explore/articles/devtoolstips.org/explain-errors-with-ai.md',
                 '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
                 '/explore/articles/devtoolstips.org/block-devtools.md',
-                "/explore/articles/devtoolstips.org/list-all-event-listeners.md",
-                "/explore/articles/devtoolstips.org/debug-popups-on-hover.md",
-                "/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md",
-                "/explore/articles/devtoolstips.org/see-viewport-size.md",
+                '/explore/articles/devtoolstips.org/list-all-event-listeners.md',
+                '/explore/articles/devtoolstips.org/debug-popups-on-hover.md',
+                '/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md',
+                '/explore/articles/devtoolstips.org/see-viewport-size.md',
+                '/explore/articles/devtoolstips.org/custom-object-formatters.md',
+                '/explore/articles/devtoolstips.org/inspect-devtools-with-devtools.md',
+                '/explore/articles/devtoolstips.org/create-your-own-devtools-theme.md',
               ]
             }, {
               text: 'sitepoint.com',
@@ -521,6 +540,26 @@ export const sidebarEn = sidebar({
         '/programming/css/snippets.md',
         '/programming/css/references.md',
         '/programming/css/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/css/articles/README.md',
+            {
+              text: 'devtoolstips.org',
+              collapsible: true,
+              icon: 'https://devtoolstips.org/assets/favicon.ico',
+              children: [
+                '/explore/articles/devtoolstips.org/disable-all-css.md',
+                '/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.md',
+                '/explore/articles/devtoolstips.org/find-the-offset-parent-of-an-element.md',
+                '/explore/articles/devtoolstips.org/highlight-elements-from-selector.md',
+                '/explore/articles/devtoolstips.org/find-rule-that-causes-style.md',
+              ]
+            },
+          ]
+        }
       ]
     }, {
       text: 'Rust',
@@ -568,7 +607,7 @@ export const sidebarEn = sidebar({
             }, {
               text: 'code-maze.com',
               collapsible: true,
-              icon: 'https://code-maze.com/favicon.ico',
+              icon: 'fas fa-globe',
               children: [
                 '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
               ]
@@ -723,6 +762,14 @@ export const sidebarEn = sidebar({
         '/tool/dracula/env-setup.md',
       ],
     }, {
+      text: 'Xcode',
+      collapsible: true,
+      icon: 'iconfont icon-xcode',
+      children: [
+        '/tool/xcode/README.md',
+        '/tool/xcode/references.md',
+      ]
+    },{
       text: 'Intellij Idea',
       collapsible: true,
       icon: 'iconfont icon-intellijidea',
@@ -815,6 +862,31 @@ export const sidebarEn = sidebar({
         '/tool/googlechrome/README.md',
         '/tool/googlechrome/plugins.md',
         '/tool/googlechrome/references.md'
+      ]
+    }, {
+      text: 'Safari',
+      collapsible: true,
+      icon: 'fa-brands fa-safari',
+      children: [
+        '/tool/safari/README.md',
+        '/tool/safari/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/safari/articles/README.md',
+            {
+              text: 'devtoolstips.org',
+              collapsible: true,
+              icon: 'https://devtoolstips.org/assets/favicon.ico',
+              children: [
+                '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
+                '/explore/articles/devtoolstips.org/debug-safari-mac-webapps.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Notion',
@@ -1389,6 +1461,8 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'https://devtoolstips.org/assets/favicon.ico',
           children: [
+            '/explore/articles/devtoolstips.org/disable-all-css.md',
+            '/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.md',
             '/explore/articles/devtoolstips.org/see-accessibility-tree.md',
             '/explore/articles/devtoolstips.org/name-evaluated-files.md',
             '/explore/articles/devtoolstips.org/simulate-pwa-wco.md',
@@ -1396,10 +1470,22 @@ export const sidebarEn = sidebar({
             '/explore/articles/devtoolstips.org/explain-errors-with-ai.md',
             '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
             '/explore/articles/devtoolstips.org/block-devtools.md',
-            "/explore/articles/devtoolstips.org/list-all-event-listeners.md",
-            "/explore/articles/devtoolstips.org/debug-popups-on-hover.md",
-            "/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md",
-            "/explore/articles/devtoolstips.org/see-viewport-size.md",
+            '/explore/articles/devtoolstips.org/list-all-event-listeners.md',
+            '/explore/articles/devtoolstips.org/debug-popups-on-hover.md',
+            '/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md',
+            '/explore/articles/devtoolstips.org/see-viewport-size.md',
+            '/explore/articles/devtoolstips.org/convert-image-to-data-url.md',
+            '/explore/articles/devtoolstips.org/emulate-user-gesture-in-console.md',
+            '/explore/articles/devtoolstips.org/find-the-offset-parent-of-an-element.md',
+            '/explore/articles/devtoolstips.org/highlight-elements-from-selector.md',
+            '/explore/articles/devtoolstips.org/detect-3p-cookies.md',
+            '/explore/articles/devtoolstips.org/custom-object-formatters.md',
+            '/explore/articles/devtoolstips.org/inspect-devtools-with-devtools.md',
+            '/explore/articles/devtoolstips.org/create-your-own-devtools-theme.md',
+            '/explore/articles/devtoolstips.org/find-memory-leaks.md',
+            '/explore/articles/devtoolstips.org/custom-headers-in-network-table.md',
+            '/explore/articles/devtoolstips.org/find-rule-that-causes-style.md',
+            '/explore/articles/devtoolstips.org/debug-safari-mac-webapps.md',
           ]
         }, {
           text: 'sitepoint.com',
@@ -1459,7 +1545,7 @@ export const sidebarEn = sidebar({
         }, {
           text: 'code-maze.com',
           collapsible: true,
-          icon: 'https://code-maze.com/favicon.ico',
+          icon: 'fas fa-globe', // https://code-maze.com/favicon.ico
           children: [
             '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
           ]
@@ -1476,6 +1562,13 @@ export const sidebarEn = sidebar({
           icon: 'https://cdn.shopify.com/static/shopify-favicon.png',
           children: [
             '/explore/articles/shopify.engineering/managing-native-code-react-native.md',
+          ]
+        }, {
+          text: 'tistory.com/rutgo-letsgo',
+          collapsible: true,
+          icon: 'https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg',
+          children: [
+            '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
           ]
         }
       ]

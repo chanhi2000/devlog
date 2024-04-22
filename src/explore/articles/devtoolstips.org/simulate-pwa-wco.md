@@ -57,7 +57,7 @@ To simulate WCO:
 
 The OS-specific window controls will appear in the webpage, and your CSS code will work as if the `env(titlebar-area-*)` environment variables were set. To learn more about the CSS environment variables you can use with WCO, see [<FontIcon icon="fa-brands fa-firefox"/>Using `env()` to ensure content is not obscured by window control buttons in desktop PWAs](https://developer.mozilla.org/docs/Web/CSS/env#using_env_to_ensure_content_is_not_obscured_by_window_control_buttons_in_desktop_pwas) on MDN.
 
-![Edge, DevTools is opened, the Application tool shows the WCO section, and the WCO overlay is simulated in the page](https://devtoolstips.org/assets/img/simulate-pwa-wco.png)
+![<FontIcon icon="fa-brands fa-edge"/>Edge, DevTools is opened, the Application tool shows the WCO section, and the WCO overlay is simulated in the page](https://devtoolstips.org/assets/img/simulate-pwa-wco.png)
 
 ---
 

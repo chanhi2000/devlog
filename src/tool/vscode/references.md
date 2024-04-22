@@ -77,6 +77,13 @@ tag:
 ## 드프 DrawingProcess
 
 - [[IDE] VSCode 파일 확장자 인식 설정 방법](https://csj000714.tistory.com/1071)
+- [[Vision] EXR Extended Dynamic Range Image File Format (feat. OpenEXR, 무손실 고해상도 데이터 저장)](https://csj000714.tistory.com/1092)
+
+---
+
+## Developer's Delight
+
+- [[Numpy] Serise `clip()` 함수 - 값 범위 제한하기](https://sonseungha.tistory.com/716)
 
 ---
 

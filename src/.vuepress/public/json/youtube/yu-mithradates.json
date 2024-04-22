@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "mithradates",
+    "name": "mithradates",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kjPwjpNpxeyU1Mqa5AEoxzSjKDmxf865nERMqv708SZA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/a0P9Lj-X1AxCi7zEX9NVozQ3UEAQ3zlPm5AGiPC08v3HDsZSV6JSQZgj7fPtPNfSQqRUDZpGYIs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vRatMPLA5a8", "title": "SurrealDB Rust code discoveries: Feature flags" },
+    { "id": "zbyobNAi8TY", "title": "SurrealDB Rust code discoveries: Cow!" },
+    { "id": "MyxXwo3TSuo", "title": "SurrealDB의 재미 있는 러스트 코드: Cow!" }
+  ]
+}

@@ -97,6 +97,7 @@ tag:
 - [Simplifying SwiftUI Navigation](https://medium.com/@mahmoudabdelshafi4/simplifying-swiftui-navigation-f510cb58f46f)
 - [`hinaabbaskhan` - Image Processing Using Swift](https://code.likeagirl.io/image-processing-using-swift-fa5cd5ffab98)
 - [`@prashantdixit_87612` - Creating and publishing your own iOS library in Swift(2024) | Part 1](https://medium.com/@prashantdixit_87612/creating-and-publishing-your-own-ios-library-in-swift-2024-part-1-4dd8b211802a)
+
 ---
 
 ## Dev.to
@@ -259,6 +260,7 @@ tag:
 ## Swift with Majid
 
 - [Mastering Preview macro in Swift](https://swiftwithmajid.com/2023/10/17/mastering-preview-macro-in-swift)
+- [Trigger value pattern in SwiftUI](https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/)
 
 ---
 
@@ -311,6 +313,7 @@ tag:
 ## Hohyeon Moon
 
 - [SwiftUI로 이모지 키보드 만들기](https://www.hohyeonmoon.com/blog/swiftui-emoji-keyboard)
+- [iOS TDD의 시작](https://www.hohyeonmoon.com/blog/ios-starting-tdd)
 
 ---
 
@@ -356,6 +359,32 @@ tag:
 ## sim.coffee
 
 - [Textual Healing](https://sim.coffee/textual-healing/)
+
+---
+
+## christian tietze
+
+- [Enable SwiftUI Button Click-Through for Inactive Windows on macOS](https://christiantietze.de/posts/2024/04/enable-swiftui-button-click-through-inactive-windows)
+
+---
+
+## Coding With Vera
+
+- [Deep Dive Into Macros](https://codingwithvera.com/deep-dive-into-macros)
+
+---
+
+## Furnace Creek
+
+- [How to Prevent Mac App Store Rating Windows From Appearing Inactive and in the Background](https://furnacecreek.org/blog/2024-04-14-how-to-prevent-background-mac-app-store-rating-windows)
+
+---
+
+
+## Junhyunny's Devlogs
+
+- [`@ObservedObject` and `@StateObject` in SwiftUI](https://junhyunny.github.io/ios/swift-ui/state-object-vs-observed-object/)
+- [MVVM Pattern in SwiftUI](https://junhyunny.github.io/ios/swift-ui/design-pattern/mvvm-pattern-in-ios/)
 
 ---
 

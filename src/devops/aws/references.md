@@ -105,13 +105,15 @@ tag:
 - [Route53과 도메인 연결](https://blog.naver.com/gi_balja/223398889777)
 - [AWS 로드 밸런서 적용하기](https://blog.naver.com/gi_balja/223401436302)
 - [AWS RDS 연결하기](https://blog.naver.com/gi_balja/223402753221)
-- [AWS S3](https://blog.naver.com/gi_balja/223407211913?)
-- [AWS S3와 CloudFront](https://blog.naver.com/gi_balja/223408217352?)
+- [AWS S3](https://blog.naver.com/gi_balja/223407211913)
+- [AWS S3와 CloudFront](https://blog.naver.com/gi_balja/223408217352)
 - [S3 리액트 자동 배포 (Github Action 사용)](https://blog.naver.com/gi_balja/223410998889)
-- [AWS Lambda](https://blog.naver.com/gi_balja/223415212877?)
-- [AWS API Gateway](https://blog.naver.com/gi_balja/223414349399?)
-- [AWS SES와 Nodemailer](https://blog.naver.com/gi_balja/223414001298?)
-- [AWS API Gateway와 Lambda 연동하기](https://blog.naver.com/gi_balja/223417844588?)
+- [AWS Lambda](https://blog.naver.com/gi_balja/223415212877)
+- [AWS API Gateway](https://blog.naver.com/gi_balja/223414349399)
+- [AWS SES와 Nodemailer](https://blog.naver.com/gi_balja/223414001298)
+- [AWS API Gateway와 Lambda 연동하기](https://blog.naver.com/gi_balja/223417844588)
+- [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
+- [AWS 서버리스 기초](https://blog.naver.com/gi_balja/223421350581)
 
 ---
 
@@ -129,7 +131,7 @@ tag:
 
 ## nanotoly
 
-- [AWS API gateway를 통해서 AWS IOT 에 메세지 PUBLISH 하기](https://blog.naver.com/nanotoly/223408850676?)
+- [AWS API gateway를 통해서 AWS IOT 에 메세지 PUBLISH 하기](https://blog.naver.com/nanotoly/223408850676)
 
 ---
 

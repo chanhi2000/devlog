@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/gsK0EALjlZGWmWu9Uf-KrVdjUAmK3X9dfVX40UZ0tJ54SzBEh_lVWsSzENyAtmCZDaPOItJE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sGWtz_kkKX8", "title": "Azure Managed Prometheus and Grafana for AKS monitoring" },
+    { "id": "DNd3QTkm5Dw", "title": "Azure AMPLS demystified" },
+    { "id": "h8zCym-OeYg", "title": "Secure AKS with HTTP Proxy" },
+    { "id": "xWzHQIdQ8so", "title": "How Azure Monitor Agent authentication works ?" },
     { "id": "LuP1X6awyWs", "title": "Secure network access to Container Apps" },
     { "id": "Fr4Wv0KQaXk", "title": "Introduction to Azure API Management" },
     { "id": "pANC3uA4OvY", "title": "Custom Azure RBAC role for AKS" },

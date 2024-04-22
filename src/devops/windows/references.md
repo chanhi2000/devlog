@@ -106,6 +106,9 @@ tag:
 
 - [[복붙하세요] 로마 숫자 특수기호 모음집 (Ⅰ, Ⅱ, Ⅲ, Ⅳ, Ⅴ, Ⅵ, Ⅶ...)](https://coding-factory.tistory.com/1046)
 - [[복붙하세요] 말 줄임표 특수기호(···. ······.) 모음집](https://coding-factory.tistory.com/1047)
+- [[복붙하세요] 세모 모양 특수 문자 모음집(▲△▶▷◢◣◤◥◬)](https://coding-factory.tistory.com/1051)
+- [[복붙하세요] 네모 모양 특수 문자 모음집(□■▣▤▥▨▧▦▩)](https://coding-factory.tistory.com/1050)
+- [[복붙하세요] 별 모양 특수문자 모음집(★☆✪✫✦✧✬✭)](https://coding-factory.tistory.com/1049)
 
 ---
 

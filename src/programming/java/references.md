@@ -203,7 +203,7 @@ tag:
 - [[ 99클럽 코테 스터디 18일차 TIL ] 프로그래머스(개인정보 수집 유효기간](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-18%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
 - [[ 99클럽 코테 스터디 19일차 TIL ] 시간 초과 및 프로그래머스(연속된 부분 수열의 합)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-19%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%9C%EA%B0%84-%EC%B4%88%EA%B3%BC-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%97%B0%EC%86%8D%EB%90%9C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
 - [[ 99클럽 코테 스터디 20일차 TIL ] 프로그래머스(내적)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-20%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%B4%EC%A0%81)
-
+- [[ 99클럽 코테 스터디 22일차 TIL ] 프로그래머스(나머지가 1이 되는 수 찾기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-22%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80-1%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%88%98-%EC%B0%BE%EA%B8%B0)
 
 ### 류광의 번역 이야기
 
@@ -238,6 +238,10 @@ tag:
 
 - [[DDD] 도메인 엔티티, Domain Entity](https://puleugo.tistory.com/187)
 
+### jako's IT log
+
+- [[Programmers] 코딩 테스트 입문 - 배열관련 문제들 (with Java)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%B0%B0%EC%97%B4%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C%EB%93%A4-with-Java)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -271,6 +275,9 @@ tag:
 - [`The Airbnb Tech Blog` - Introducing Trio | Part III](https://medium.com/airbnb-engineering/introducing-trio-part-iii-033fbfe2171b)
 - [`Programming Geeks` - Kotlin DSL: Gradle scripts in Android made easy](https://medium.com/android-dev-hacks/kotlin-dsl-gradle-scripts-in-android-made-easy-b8e2991e2ba)
 - [`Level Up Coding` - Introducing KoVibes a Kotlin Multiplatform library](https://levelup.gitconnected.com/introducing-kovibes-a-kotlin-multiplatform-library-7a4cc3048c05)
+- [`@andrejkingsley` - Plotting Financial Data in Kotlin with Kandy](https://medium.com/@andrejkingsley/plotting-financial-data-in-kotlin-with-kandy-66757aef05ef)
+- [`proandroiddev` - Leveraging Key-Value Observing (KVO) in Kotlin Multiplatform (KMP) for iOS](https://proandroiddev.com/leveraging-key-value-observing-kvo-in-kotlin-multiplatform-kmp-for-ios-231519e5c1ff)
+- [`hinchman-amanda` - Kotlin Coroutine mechanisms: runBlocking v. launch](https://hinchman-amanda.medium.com/kotlin-coroutine-mechanisms-runblocking-v-launch-386e1ae8e3c2)
 
 ### velog
 
@@ -319,6 +326,7 @@ tag:
 - [Leetcode 930.`BinarySubarraysWithSum`](https://insanelysimple.tistory.com/483)
 - [Leetcode1669.`MergeInBetweenLinkedLists`](https://insanelysimple.tistory.com/484)
 - [Leetcode61.RotateList (kotlin)](https://insanelysimple.tistory.com/486)
+- [Leetcode713.SubarrayProductLessThanK](https://insanelysimple.tistory.com/487)
 
 ### 개발하는 곰돌이
 
@@ -328,6 +336,10 @@ tag:
 ### Square Lab
 
 - [죽임 당한 컨테이너 (exit status 143)](https://squarelab.co/blog/argo-exit-status-143/)
+
+### Rock the JVM Blog
+
+- [Kotlin Flows - The Ultimate Guide](https://blog.rockthejvm.com/kotlin-flows/)
 
 ---
 

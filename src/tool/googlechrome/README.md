@@ -9,8 +9,6 @@ category:
 
 # {{ $frontmatter.description }} 관련
 
-
-
 <ShieldsGroup logos="google,googlechrome"/>
 
 ---

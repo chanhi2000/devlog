@@ -28,6 +28,7 @@ tag:
 ## velog
 
 - [`@geoffyoon-dev` - 데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy)
+- [`@devstone` - NLP 메트릭 톺아보기](https://velog.io/@devstone/NLP-%EB%A9%94%ED%8A%B8%EB%A6%AD-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
 
 ---
 

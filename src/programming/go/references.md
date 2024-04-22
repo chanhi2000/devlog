@@ -26,6 +26,12 @@ tag:
 
 ---
 
+## velog
+
+- [`@kandy1002` - [Go Fiber Contribution] 백엔드 스토리지 드라이버 추가하기](https://velog.io/@kandy1002/Go-Fiber-Contribution-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+
+---
+
 ## Medium
 
 - [How Go fixed everything that was wrong with programming](https://medium.com/@jankammerath/how-go-fixed-everything-that-was-wrong-with-programming-1b599a1055a8)
@@ -177,6 +183,12 @@ tag:
 ## ByteSizeGo
 
 - [Learning Go in 2024; From Beginner to Senior](https://www.bytesizego.com/blog/learning-golang-2024)
+
+---
+
+## 기계인간 John Grib
+
+- [fan in, fan out](https://johngrib.github.io/wiki/pattern/fan-out/)
 
 ---
 

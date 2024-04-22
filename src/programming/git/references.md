@@ -150,9 +150,10 @@ tag:
 
 ---
 
-## Devlogs
+## Outsider's Dev Story
 
 - [새 버전에 맞게 `git checkout` 대신 switch/restore 사용하기](https://blog.outsider.ne.kr/1505)
+- [GitHub Copilot을 CLI 명령어에서 도움받을 수 있는 GitHub Copilot in the CLI](https://blog.outsider.ne.kr/1717)
 
 ---
 

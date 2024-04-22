@@ -17,7 +17,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s)  Explain console errors by using artificial intelligence
+      content: Article(s) > Explain console errors by using artificial intelligence
     - property: og:description
       content: Explain console errors by using artificial intelligence
     - property: og:url

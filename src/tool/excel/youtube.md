@@ -94,5 +94,6 @@ tag:
 <MyYouTubeItems jsonName="yu-LearnitTraining" /><!-- Learnit Training -->
 <MyYouTubeItems jsonName="yu-FMWC" /><!-- Financial Modeling World Cup -->
 <MyYouTubeItems jsonName="yu-deepsam77" /><!-- 딥쌤 -->
+<MyYouTubeItems jsonName="yu-SeleTraining" /><!-- Sele Training -->
 
 <TagLinks />

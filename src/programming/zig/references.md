@@ -39,5 +39,8 @@ tag:
 ## 멈춤보단 천천히라도
 
 - [zig 강좌 07 - Defer](https://webnautes.tistory.com/2317)
+- [zig 강좌 08 - Switch](https://webnautes.tistory.com/2324)
+
+---
 
 <TagLinks/>

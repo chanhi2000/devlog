@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/N9rXZqrdzVF9FU8-FCMfHpLeY4NhLtaz8SV8kyRjYgurURjkKngnAKk2t2mDHUq7EUAA9uboRg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AptYLMzTrns", "title": "Easy Interfaces with Vuetify 3" },
+    { "id": "bbtt04u71Vs", "title": "Real World Nuxt 3" },
+    { "id": "M2f-66jP8VQ", "title": "Evan You: What you're doing wrong with Vue.js 🙅‍♂️" },
+    { "id": "XlvC5nwUZM8", "title": "What Vue experts want you to know 🧠" },
+    { "id": "YSBBH65a-r8", "title": "What you're doing wrong with Vue.js 🙅‍♂️" },
     { "id": "NJ3zDy4-UE4", "title": "Build a Trello Clone with Nuxt 3 (part 1)" },
     { "id": "YD4bw88pKQg", "title": "Vue.js: Building Secure Applications - VueConf US 2023" },
     { "id": "tzPuxmjZQmk", "title": "Session Replay - VueConf US 2023" },

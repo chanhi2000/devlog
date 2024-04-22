@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/mFPYqHfl6oST1OPNhXYQwRP9TMTABrfvu11NfdT6TfW1d0P7bdbl30977cL6p-WzjD1-f2RHYrg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CyFBGPw0l-o", "title": "Benchmark: Wie gut ist GOOGLEs Gemini Ultra WIRKLICH für ITler?" },
+    { "id": "4PoIlrMBBpc", "title": "Claude 3: der PERFEKTE Copilot?" },
+    { "id": "SUYXdI1kC08", "title": "Mistral, LLaMa & Co. - Use free AI giants locally" },
     { "id": "HWO-i7RCLPQ", "title": "APIs 2023: Diese Schnittstellen-Technologien müsst ihr kennen" },
     { "id": "FHeSnSFRzSs", "title": "MOJO: Die Python++ Sprache vom Swift-Erschaffer" },
     { "id": "9i_1T-I8Guo", "title": "Assembler Tutorial #6 - Der Stack" }, 

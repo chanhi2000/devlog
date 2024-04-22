@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Odtp_sCDNHg", "title": "🔴 Let's Build Tinder with SwiftUI | iOS 17 | Dating App" },
+    { "id": "gX_Z0sZOYGo", "title": "🔴 Introducing Instagram Pro Plus - More Features | Better Performance" },
+    { "id": "XmqvbB_em8Y", "title": "🔴 Bet you didn't know about *THIS* Swift Feature | Writing Cleaner Code" },
+    { "id": "OAHn_ed4Wus", "title": "🔴 6 GAME CHANGING Xcode Tips, Tricks & Shortcuts" },
+    { "id": "t7AA8Ma8C5k", "title": "🔴  Improving App Performance | LazyVStack vs. VStack vs Lists in SwiftUI" },
     { "id": "v8pgexLeEEA", "title": "🔴 Enums in Swift| Intermediate & Advanced Fundamentals" },
     { "id": "1GN7Yayqk_8", "title": "🔴 NEW COURSE | Intermediate & Advanced Fundamentals with Swift" },
     { "id": "rqNOO77Um2M", "title": "🔴 Protocols in Swift | Intermediate & Advanced Fundamentals" },
