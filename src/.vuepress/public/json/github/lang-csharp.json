@@ -359,5 +359,10 @@
     "desc": "World's Smallest CSV Parser (C#)",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "dafny-lang/dafny",
+    "desc": "Dafny is a verification-aware programming language",
+    "officialSite": "https://dafny.org",
+    "topics": ["programming-language", "verification"]
   }
 ]

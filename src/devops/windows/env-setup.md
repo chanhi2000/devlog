@@ -70,9 +70,9 @@ Copy and Paste the following to the Powershell Prompt
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode `
     dbeaver googlechrome fiddler windirstat 7zip `
-    procexp scrcpy nvm docker-desktop temurin11 temurin11 `
+    procexp scrcpy nvm rancher-desktop temurin11 temurin11 `
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal `
-    twinkle-tray wiztree rust
+    twinkle-tray wingetui wiztree rust
 ```
 
 @tab Cmd
@@ -81,9 +81,9 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir ^
     sharex speccy sublimemerge sublimetext4 vlc vscode ^
     dbeaver googlechrome fiddler windirstat 7zip ^
-    procexp scrcpy nvm docker-desktop temurin11 temurin11 ^
+    procexp scrcpy nvm rancher-desktop temurin11 temurin11 ^
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal ^
-    twinkle-tray wiztree rust
+    twinkle-tray wingetui wiztree rust
 ```
 
 :::

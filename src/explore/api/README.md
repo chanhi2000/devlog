@@ -210,6 +210,8 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+- https://icons.getbootstrap.com
+
 ```component VPCard
 {
   "title": "Heroicons",
@@ -217,6 +219,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://heroicons.com",
   "logo": "https://heroicons.com/_next/static/media/apple-touch-icon.822687be.png",
   "background": "rgb(242,236,250,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Codeimg.io",
+  "desc": "Create and share beautiful images of your source code.",
+  "link": "https://codeimg.io/",
+  "logo": "https://codeimg.io/img/favicon/favicon.ico",
+  "background": "rgba(26,104,209,0.2)"
 }
 ```
 
@@ -272,11 +284,31 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
+  "title": "무료 벡터 아이콘 — 1,346,800개의 아이콘 다운로드 (SVG, PNG)",
+  "desc": "그래픽 디자인, UX, 소셜 미디어 및 모바일 용 무료 아이콘을 다운로드하세요. 일관된 디자인과 품질로 제공되는 정적 또는 애니메이션 아이콘을 검색해 사용해 보세요. PNG, SVG, GIF, AE 형식으로 지원됩니다.",
+  "link": "https://icons8.kr/icons",
+  "logo": "https://maxst.icons8.com/vue-static/icon/favicon/icons8_fav_32×32.png",
+  "background": "rgba(31,177,65,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "네이버 - QR코드",
   "desc": "나만의 QR코드로 간편하게 정보를 담아보세요",
   "link": "https://qr.naver.com",
   "logo": "https://naver.com/favicon.ico",
   "background": "rgba(3,199,90,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "PDF to SVG | CloudConvert",
+  "desc": "PDF to SVG Converter - CloudConvert is a free & fast online file conversion service.",
+  "link": "https://cloudconvert.com/pdf-to-svg",
+  "logo": "https://cloudconvert.com/images/logo_flat_32.png",
+  "background": "rgba(152,47,45,0.2)"
 }
 ```
 
@@ -317,6 +349,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://cssbuttons.app/",
   "logo": "https://cssbuttons.app/favicon.ico",
   "background": "rgba(16,16,16,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "BGJar | Free svg background image generator for your websites",
+  "desc": "Free svg background generator for your websites, blogs and app.",
+  "link": "https://bgjar.com",
+  "logo": "https://bgjar.com/bgjar.svg",
+  "background": "rgba(14,42,71,0.2)"
 }
 ```
 
@@ -551,6 +593,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Popular Color Palettes",
+  "desc": "Popular Color palettes created by color-hex users, every palette has 5 color and rgb values listed.",
+  "link": "https://www.color-hex.com/color-palettes/popular.php",
+  "logo": "https://www.color-hex.com/favicon.ico",
+  "background": "rgba(248,248,248,0.2)"
+}
+```
+
 @tab Geospatial
 
 ```component VPCard
@@ -689,7 +741,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "desc": "HTML5, JavaScript and Flash interactive maps of  the USA and World. Easy to customize and install. Mobile-compatible.  Free trial software!",
   "link": "https://simplemaps.com/",
   "logo": "https://simplemaps.com/static/img/favicon.ico",
-  "backgground": "rgba(136,164,188,0.2)"
+  "background": "rgba(136,164,188,0.2)"
 }
 ```
 
@@ -747,9 +799,19 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
-- [htaccess tester](https://htaccess.madewithlove.com)
+- https://htaccess.madewithlove.com
 
 @tab Documentation
+
+```component VPCard
+{
+  "title": "Awesome Cheatsheets",
+  "desc": "Designed for the ones who enjoy dark interfaces as much as we do. Using the best UX practices for great conversion rates.",
+  "link": "https://lecoupa.github.io/awesome-cheatsheets/",
+  "logo": "https://lecoupa.github.io/awesome-cheatsheets/images/common/logo@2x.png",
+  "background": "rgba(27,36,49,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -782,8 +844,15 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 ```
 
 - [github-opensource-guide](https://opensource.guide): Open source software is made by people just like you. Learn how to launch and grow your project.
-- [youtube-documentation](https://developers.google.com/youtube/documentation): 
-- [jshint](https://jshint.com): JSHint
+- https://developers.google.com/youtube/documentation
+- https://jshint.com
+- https://www.emailjs.com/docs
+
+@tab Regex
+
+- https://regexper.com
+- https://regexr.com
+
 
 @tab Misc.
 
@@ -941,6 +1010,10 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 - https://sonauto.ai/Home
 - https://equinox.space/
 - https://www.krazam.tv/
+- https://www.balanc3dgame.com/
+- https://graph.henryn.ca/
+- https://sfxr.me/
+- https://dustinbrett.com/
 
 ```component VPCard
 {

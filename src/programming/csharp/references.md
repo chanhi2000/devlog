@@ -190,12 +190,19 @@ tag:
 - [[WPF] `MaterialDesignTheme` 적용](https://hj0216.tistory.com/911)
 - [[WPF] `WebView2`와 동영상](https://hj0216.tistory.com/910)
 - [[WPF] Static Resource와 Dynamic Resource](https://hj0216.tistory.com/912)
+- [[WPF] 한글 Encoding ANSI / UTF8](https://hj0216.tistory.com/913)
 
 ---
 
 ## 재우니의 블로그
 
 - [Dapper (ORM) 과 EF 비교하여 WHERE 조건 검색 비교하기](https://aspdotnet.tistory.com/3189)
+
+---
+
+## 행뽁🐥
+
+- [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/153)
 
 ---
 

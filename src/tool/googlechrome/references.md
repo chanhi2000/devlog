@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
 title: References
-description: Chrome Browser > References
+description: Google Chrome > References
 icon: iconfont icon-share
 category: 
-  - Chrome Browser
+  - Browser
+  - Google Chrome
   - References
 tag: 
   - devlog

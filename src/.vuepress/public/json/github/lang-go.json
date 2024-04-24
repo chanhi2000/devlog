@@ -1399,5 +1399,10 @@
     "desc": "A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more",
     "officialSite": "https://vfox.lhan.me",
     "topics": ["asdf", "bash", "cli", "cmd", "cross-platform", "development-tools", "golang", "linux", "lua", "macos", "nodejs", "plugin-manager", "powershell", "sdk", "tools", "version-manager", "windows", "zsh"]
+  }, {
+    "repo": "thomiceli/opengist",
+    "desc": "Self-hosted pastebin powered by Git, open-source alternative to Github Gist.",
+    "officialSite": "https://demo.opengist.io",
+    "topics": ["docker", "gist", "git", "go", "golang", "pastebin", "pastebin-service", "self-hosted", "tailwindcss", "typescript"]
   }
 ]

@@ -26,7 +26,7 @@ tag:
   "desc": "If you’re keen on reading about what’s new in Swift or learn about all the cool things that are coming up, you’re probably following several folks in the iOS…",
   "link": "https://www.donnywals.com/how-to-use-experimental-swift-versions-and-features-in-xcode",
   "logo": "https://www.donnywals.com/wp-content/uploads/cropped-site-icon-192x192.png",
-  "backgground": "rgba(109,73,176,0.2)"
+  "background": "rgba(109,73,176,0.2)"
 }
 ```
 

@@ -118,6 +118,8 @@ tag:
 
 - [4.01. MySQL 데이터베이스 생성하기](https://ysedeveloper.tistory.com/entry/401-MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 - [4.02. MySQL 테이블 생성하기](https://ysedeveloper.tistory.com/entry/402-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+- [4.03. MySQL 테이블에 값 가져오기](https://ysedeveloper.tistory.com/entry/403-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+- [4.04. MySQL 테이블에 값 입력하기](https://ysedeveloper.tistory.com/entry/404-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
 
 ---
 

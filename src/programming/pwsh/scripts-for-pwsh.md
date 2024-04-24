@@ -19,7 +19,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`introduce-powershell.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`introduce-powershell.ps1`
 
 ```component VPCard
 {
@@ -122,7 +122,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-aliases.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-aliases.ps1`
 
 ```component VPCard
 {
@@ -196,7 +196,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-automatic-variables.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-automatic-variables.ps1`
 
 ```component VPCard
 {
@@ -310,7 +310,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-cheat-sheet.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-cheat-sheet.ps1`
 
 ```component VPCard
 {
@@ -394,7 +394,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-cmdlets.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-cmdlets.ps1`
 
 ```component VPCard
 {
@@ -470,7 +470,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-console-colors.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-console-colors.ps1`
 
 ```component VPCard
 {
@@ -553,7 +553,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-modules.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-modules.ps1`
 
 ```component VPCard
 {
@@ -627,7 +627,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-profiles.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-profiles.ps1`
 
 ```component VPCard
 {
@@ -699,7 +699,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-scripts.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-scripts.ps1`
 
 ```component VPCard
 {
@@ -772,7 +772,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`new-script.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`new-script.ps1`
 
 ```component VPCard
 {
@@ -784,7 +784,7 @@ try {
 }
 ```
 
-This PowerShell script creates a new PowerShell script file (by using template file <FontIcon icon="iconfont icon-file"/> `../Data/template.ps1`).
+This PowerShell script creates a new powershell script file (by using template file <FontIcon icon="iconfont icon-powershell"/> `../Data/template.ps1`).
 
 ::: tabs
 
@@ -853,7 +853,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`set-profile.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`set-profile.ps1`
 
 ```component VPCard
 {

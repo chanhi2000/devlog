@@ -153,7 +153,7 @@ Placeholders with the same ids are connected.
     "  \"desc\": \"${3:desc}\",",
     "  \"link\": \"${1:link}\",",
     "  \"logo\": \"${4:logo}\",",
-    "  \"backgground\": \"rgba(${5:r},${6:g},${7:b},0.2)\"",
+    "  \"background\": \"rgba(${5:r},${6:g},${7:b},0.2)\"",
     "}",
     "```${0}"
     ],

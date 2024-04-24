@@ -20,7 +20,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-calculator.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-calculator.ps1`
 
 ```component VPCard
 {
@@ -76,7 +76,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-cortana.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-cortana.ps1`
 
 ```component VPCard
 {
@@ -132,7 +132,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-chrome.ps1`	
+## <FontIcon icon="iconfont icon-powershell"/>`close-chrome.ps1`	
 
 ```component VPCard
 {
@@ -188,7 +188,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-program.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-program.ps1`
 
 ```component VPCard
 {
@@ -315,7 +315,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-edge.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-edge.ps1`
 
 ```component VPCard
 {
@@ -376,7 +376,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-file-explorer.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-file-explorer.ps1`
 
 ```component VPCard
 {
@@ -434,7 +434,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-firefox.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-firefox.ps1`
 
 ```component VPCard
 {
@@ -491,7 +491,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-microsoft-store.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-microsoft-store.ps1`
 
 ```component VPCard
 {
@@ -552,7 +552,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-netflix.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-netflix.ps1`
 
 ```component VPCard
 {
@@ -609,7 +609,7 @@ exit 0 # success
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`close-onedrive.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`close-onedrive.ps1`
 
 ```component VPCard
 {
@@ -652,7 +652,7 @@ PS> ./close-onedrive
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-serenade.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-serenade.ps1`
 
 ```component VPCard
 {
@@ -709,7 +709,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-snipping-tool.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-snipping-tool.ps1`
 
 ```component VPCard
 {
@@ -766,7 +766,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-spotify.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-spotify.ps1`
 
 ```component VPCard
 {
@@ -823,7 +823,7 @@ exit 0 # success
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`close-system-settings.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`close-system-settings.ps1`
 
 ```component VPCard
 {
@@ -866,7 +866,7 @@ PS> ./close-system-settings
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-task-manager.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-task-manager.ps1`
 
 ```component VPCard
 {
@@ -923,7 +923,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-thunderbird.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-thunderbird.ps1`
 
 ```component VPCard
 {
@@ -984,7 +984,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-vlc.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-vlc.ps1`
 
 ```component VPCard
 {
@@ -1042,7 +1042,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`close-windows-terminal.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`close-windows-terminal.ps1`
 
 ```component VPCard
 {
@@ -1100,7 +1100,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`enable-god-mode.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`enable-god-mode.ps1`
 
 ```component VPCard
 {
@@ -1170,7 +1170,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-clipboard.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-clipboard.ps1`
 
 ```component VPCard
 {
@@ -1234,7 +1234,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`new-email.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`new-email.ps1`
 
 ```component VPCard
 {
@@ -1310,7 +1310,7 @@ try {
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-amazon-website.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-amazon-website.ps1`
 
 ```component VPCard
 {
@@ -1353,7 +1353,7 @@ PS> ./open-amazon-website
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-default-browser.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-default-browser.ps1`
 
 ```component VPCard
 {
@@ -1428,7 +1428,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-calculator.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-calculator.ps1`
 
 ```component VPCard
 {
@@ -1490,7 +1490,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-c-drive.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-c-drive.ps1`
 
 ```component VPCard
 {
@@ -1548,7 +1548,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-downloads-folders.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-downloads-folders.ps1`
 
 ```component VPCard
 {
@@ -1618,7 +1618,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-dropbox-folder.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-dropbox-folder.ps1`
 
 ```component VPCard
 {
@@ -1685,7 +1685,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-edge.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-edge.ps1`
 
 ```component VPCard
 {
@@ -1743,7 +1743,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-email-client.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-email-client.ps1`
 
 ```component VPCard
 {
@@ -1806,7 +1806,7 @@ try {
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-facebook-website.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-facebook-website.ps1`
 
 ```component VPCard
 {
@@ -1851,7 +1851,7 @@ PS> ./open-facebook-website
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-file-explorer.ps1`	
+## <FontIcon icon="iconfont icon-powershell"/>`open-file-explorer.ps1`	
 
 ```component VPCard
 {
@@ -1931,7 +1931,7 @@ try {
 
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-firefox.ps1`	
+## <FontIcon icon="iconfont icon-powershell"/>`open-firefox.ps1`	
 
 ```component VPCard
 {
@@ -2014,7 +2014,7 @@ try {
 ---
 
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-fritz-box.ps1`	
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-fritz-box.ps1`	
 
 ```component VPCard
 {
@@ -2057,7 +2057,7 @@ PS> ./open-fritz-box
 ---
 
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-github.ps1`	
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-github.ps1`	
 
 ```component VPCard
 {
@@ -2100,7 +2100,7 @@ PS> ./open-github
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-contacts.ps1`	
+## <FontIcon icon="iconfont icon-powershell"/>`open-google-contacts.ps1`	
 
 ```component VPCard
 {
@@ -2158,7 +2158,7 @@ exit 0 # success
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-earth.ps1`	
+## <FontIcon icon="iconfont icon-powershell"/>`open-google-earth.ps1`	
 
 ```component VPCard
 {
@@ -2217,7 +2217,7 @@ exit 0 # success
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-mail.ps1`	
+## <FontIcon icon="iconfont icon-powershell"/>`open-google-mail.ps1`	
 
 ```component VPCard
 {
@@ -2275,7 +2275,7 @@ exit 0 # success
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-maps.ps1`	
+## <FontIcon icon="iconfont icon-powershell"/>`open-google-maps.ps1`	
 
 ```component VPCard
 {
@@ -2333,7 +2333,7 @@ exit 0 # success
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-news.ps1`	
+## <FontIcon icon="iconfont icon-powershell"/>`open-google-news.ps1`	
 
 ```component VPCard
 {
@@ -2391,7 +2391,7 @@ exit 0 # success
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-play.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-google-play.ps1`
 
 ```component VPCard
 {
@@ -2448,7 +2448,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-search.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-google-search.ps1`
 
 ```component VPCard
 {
@@ -2505,7 +2505,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-google-translate.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-google-translate.ps1`
 
 ```component VPCard
 {
@@ -2562,7 +2562,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-home-folder.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-home-folder.ps1`
 
 ```component VPCard
 {
@@ -2629,7 +2629,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-music-folder.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-music-folder.ps1`
 
 ```component VPCard
 {
@@ -2696,7 +2696,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-netflix.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-netflix.ps1`
 
 ```component VPCard
 {
@@ -2753,7 +2753,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-microsoft-store.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-microsoft-store.ps1`
 
 ```component VPCard
 {
@@ -2811,7 +2811,7 @@ exit 0 # success
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-notepad.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-notepad.ps1`
 
 ```component VPCard
 {
@@ -2854,7 +2854,7 @@ PS> ./open-notepad
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-onedrive-folder.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-onedrive-folder.ps1`
 
 ```component VPCard
 {
@@ -2896,7 +2896,7 @@ PS> ./open-onedrive
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-pictures-folder.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-pictures-folder.ps1`
 
 ```component VPCard
 {
@@ -2963,7 +2963,7 @@ try {
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-recycle-bin.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-recycle-bin.ps1`
 
 ```component VPCard
 {
@@ -3005,7 +3005,7 @@ PS> ./open-recycle-bin
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-repos-folder.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-repos-folder.ps1`
 
 ```component VPCard
 {
@@ -3072,7 +3072,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-snipping-tool.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-snipping-tool.ps1`
 
 ```component VPCard
 {
@@ -3130,7 +3130,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-speed-test.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-speed-test.ps1`
 
 ```component VPCard
 {
@@ -3188,7 +3188,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-spotify.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-spotify.ps1`
 
 ```component VPCard
 {
@@ -3244,7 +3244,7 @@ exit 0 # success
 :::
 
 ---
-## ❌<FontIcon icon="iconfont icon-file"/> `open-system-settings.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/> `open-system-settings.ps1`
 
 ```component VPCard
 {
@@ -3288,7 +3288,7 @@ PS> ./open-system-settings
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`open-task-manager.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-task-manager.ps1`
 
 ```component VPCard
 {
@@ -3350,7 +3350,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`open-videos-folder.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`open-videos-folder.ps1`
 
 ```component VPCard
 {
@@ -3407,7 +3407,7 @@ exit 0 # success
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-windows-terminal.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-windows-terminal.ps1`
 
 ```component VPCard
 {
@@ -3451,7 +3451,7 @@ PS> ./open-wikipedia-website.ps1
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-wikipedia-website.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-wikipedia-website.ps1`
 
 ```component VPCard
 {
@@ -3493,7 +3493,7 @@ PS> ./open-youtube-website
 
 ---
 
-## ❌<FontIcon icon="iconfont icon-file"/>`open-youtube-website.ps1`
+## ❌<FontIcon icon="iconfont powershell-file"/>`open-youtube-website.ps1`
 
 ```component VPCard
 {
@@ -3516,7 +3516,7 @@ PS> ./open-youtube-website
 
 ## `remind-me.ps1`
 
-```component VPCard
+powershellcomponent VPCard
 {
   "title": "remind-me.ps1",
   "desc": "Creates a scheduled task that will display a popup message.",
@@ -3606,7 +3606,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`save-screenshot.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`save-screenshot.ps1`
 
 ```component VPCard
 {
@@ -3713,7 +3713,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`set-wallpaper.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`set-wallpaper.ps1`
 
 ```component VPCard
 {

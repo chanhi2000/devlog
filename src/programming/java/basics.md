@@ -311,7 +311,7 @@ fun <T> sellWeapon(weapon: T): String where T : Weapon, T : Usable {
 
 ### Properties 파일객체 구성
 
-> 파일: <FontIcon icon="fas fa-folder-open"/>`src/main/resources/props/`<FontIcon icon="iconfont icon-file"/>`globals.properties`
+> 파일: <FontIcon icon="fas fa-folder-open"/>`src/main/resources/props/`<FontIcon icon="fas fa-file-code"/>`globals.properties`
 
 ```java
 package com.example.markiiimark;

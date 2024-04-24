@@ -305,6 +305,7 @@ tag:
 - [1. 페이징 성능 개선하기](https://jojoldu.tistory.com/528)
 - [Public API의 CDN 캐시](https://jojoldu.tistory.com/779)
 - [언제 이직할 회사를 고르면 좋을까?](https://jojoldu.tistory.com/778)
+- [의미에 매몰되지 않기](https://jojoldu.tistory.com/780)
 
 ---
 
@@ -507,6 +508,8 @@ tag:
 ## Enthusiastically, Steady, Slowly
 
 - [쉽게 설명하는 29CM Architecture Manifesto](https://rutgo-letsgo.tistory.com/entry/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-29CM-Architecture-Manifesto)
+- [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 2장. 개략적인 규모 측정](https://rutgo-letsgo.tistory.com/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-2%EC%9E%A5-%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8-%EA%B7%9C%EB%AA%A8-%EC%B8%A1%EC%A0%95)
+- [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 1장. 사용자 수에 따른 규모 확장성](https://rutgo-letsgo.tistory.com/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-1)
 
 ---
 
@@ -521,5 +524,18 @@ tag:
 - [자기소개서 이해와 잘 쓰는 법](https://hl1itj.tistory.com/261)
 
 ---
+
+## Real Insight Comes From Fixing Error
+
+- [사람에 집중한 개발자 생산성 측정](https://www.getoutsidedoor.com/2024/04/23/%ec%82%ac%eb%9e%8c%ec%97%90-%ec%a7%91%ec%a4%91%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%83%9d%ec%82%b0%ec%84%b1-%ec%b8%a1%ec%a0%95/)
+
+---
+
+## JayTech의 기술 블로그
+
+- [우아한형제들을 퇴사하며](https://pjh3749.tistory.com/289)
+
+---
+
 
 <TagLinks />

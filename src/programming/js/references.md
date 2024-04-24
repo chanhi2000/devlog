@@ -59,4 +59,16 @@ tag:
 
 ---
 
+## 작심삼일 개발이야기
+
+- [상수를 지금까지 잘못 사용하고 있었습니다.](https://choisuhyeok.tistory.com/141)
+
+---
+
+## IT grow. 
+
+- [ES5 vs ES6 차이](https://dlsdn73.tistory.com/entry/ES5-vs-ES6-%EC%B0%A8%EC%9D%B4)
+
+---
+
 <TagLinks />

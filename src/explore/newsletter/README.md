@@ -105,6 +105,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Kotlin Weekly",
+  "desc": "Kotlin Weekly Email Forms",
+  "link": "https://us12.campaign-archive.com/home/?u=f39692e245b94f7fb693b6d82&id=93b2272cb6",
+  "logo": "https://gallery.mailchimp.com/f39692e245b94f7fb693b6d82/images/b61142be-473c-436a-84ad-8338e13e31da.png",
+  "background": "rgba(139,117,232,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
   "desc": "Everyday Engineering Challenges",
   "link": "https://blog.ideaharbour.site/engineering/",
@@ -245,16 +255,6 @@ tag:
 }
 ```
 
-```component VPCard
-{
-  "title": "Kotlin Weekly",
-  "desc": "Kotlin Weekly Email Forms",
-  "link": "https://us12.campaign-archive.com/home/?u=f39692e245b94f7fb693b6d82&id=93b2272cb6",
-  "logo": "https://gallery.mailchimp.com/f39692e245b94f7fb693b6d82/images/b61142be-473c-436a-84ad-8338e13e31da.png",
-  "background": "rgba(139,117,232,0.2)"
-}
-```
-
 @tab community
 
 ```component VPCard
@@ -264,6 +264,16 @@ tag:
   "link": "http://wiki.hash.kr",
   "logo": "http://www.hash.kr/images/main/logo_big.png",
   "background": "rbga(20,20,20,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "리눅스 커뮤니티 하모니카(HamoniKR)",
+  "desc": "",
+  "link": "https://hamonikr.org/",
+  "logo": "https://hamonikr.org/files/attach/xeicon/favicon.ico",
+  "background": "rgba(67,94,155,0.2)"
 }
 ```
 
@@ -279,11 +289,31 @@ tag:
 
 ```component VPCard
 {
+  "title": "제타위키",
+  "desc": "'세상의 각주' 제타위키에 오신 것을 환영합니다! 누구나 편집할 수 있는 위키입니다. 서브컬처 환영합니다.",
+  "link": "https://zetawiki.com/",
+  "logo": "https://zetawiki.com/favicon.ico",
+  "background": "rgba(44,62,80,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "SoEn:소프트웨어 공학 연구소",
   "desc": "프로그래머와 예비 개발자의 학습 및 놀이 동아리",
   "link": "http://www.soen.kr",
   "logo": "http://www.soen.kr/data/soen.png",
   "background": "rgba(255,255,241,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Qt 개발자 커뮤니티",
+  "desc": "Qt Korea Developer Community",
+  "link": "https://qt-dev.com",
+  "logo": "https://www.qt-dev.com/img/home/ci_only_logo.png",
+  "background": "rgba(118,148,208,0.2)"
 }
 ```
 

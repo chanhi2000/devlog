@@ -22,7 +22,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`add-memo.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`add-memo.ps1`
 
 ```component VPCard
 {
@@ -110,7 +110,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`check-ipv4-address.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`check-ipv4-address.ps1`
 
 ```component VPCard
 {
@@ -203,7 +203,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`check-ipv6-address.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`check-ipv6-address.ps1`
 
 ```component VPCard
 {
@@ -310,7 +310,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`check-mac-address.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`check-mac-address.ps1`
 
 ```component VPCard
 {
@@ -411,7 +411,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`check-subnet-mask.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`check-subnet-mask.ps1`
 
 ```component VPCard
 {
@@ -504,7 +504,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`display-time.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`display-time.ps1`
 
 ```component VPCard
 {
@@ -586,7 +586,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-environment-variables.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-environment-variables.ps1`
 
 ```component VPCard
 {
@@ -659,7 +659,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-emojis.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-emojis.ps1`
 
 ```component VPCard
 {
@@ -740,7 +740,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-exchange-rates.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-exchange-rates.ps1`
 
 ```component VPCard
 {
@@ -844,7 +844,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-memos.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-memos.ps1`
 
 ```component VPCard
 {
@@ -924,7 +924,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-mysql-tables.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-mysql-tables.ps1`
 
 ```component VPCard
 {
@@ -1023,7 +1023,7 @@ $result | Export-Csv $csvfilepath -NoTypeInformation
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-news.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-news.ps1`
 
 ```component VPCard
 {
@@ -1132,7 +1132,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-os-releases.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-os-releases.ps1`
 
 ```component VPCard
 {
@@ -1207,7 +1207,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-os-updates.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-os-updates.ps1`
 
 ```component VPCard
 {
@@ -1305,7 +1305,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-passwords.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-passwords.ps1`
 
 ```component VPCard
 {
@@ -1425,7 +1425,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-pins.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-pins.ps1`
 
 ```component VPCard
 {
@@ -1534,7 +1534,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-sql-tables.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-sql-tables.ps1`
 
 ```component VPCard
 {
@@ -1640,7 +1640,7 @@ $result | Export-Csv $csvfilepath -NoTypeInformation
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-weather.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-weather.ps1`
 
 ```component VPCard
 {
@@ -1817,7 +1817,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`locate-city.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`locate-city.ps1`
 
 ```component VPCard
 {
@@ -1913,7 +1913,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`locate-ipaddress.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`locate-ipaddress.ps1`
 
 ```component VPCard
 {
@@ -1973,7 +1973,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`moon.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`moon.ps1`
 
 ```component VPCard
 {
@@ -2035,7 +2035,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`scan-ports.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`scan-ports.ps1`
 
 ```component VPCard
 {
@@ -2109,7 +2109,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`send-tcp.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`send-tcp.ps1`
 
 ```component VPCard
 {
@@ -2222,7 +2222,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`send-udp.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`send-udp.ps1`
 
 ```component VPCard
 {
@@ -2333,7 +2333,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`set-timer.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`set-timer.ps1`
 
 ```component VPCard
 {
@@ -2416,7 +2416,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`simulate-presence.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`simulate-presence.ps1`
 
 ```component VPCard
 {
@@ -2499,7 +2499,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`start-ipfs-server.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`start-ipfs-server.ps1`
 
 ```component VPCard
 {
@@ -2598,7 +2598,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`translate-file.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`translate-file.ps1`
 
 ```component VPCard
 {
@@ -2715,7 +2715,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`translate-files.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`translate-files.ps1`
 
 ```component VPCard
 {
@@ -2829,7 +2829,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`translate-text.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`translate-text.ps1`
 
 ```component VPCard
 {
@@ -2942,7 +2942,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`weather.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`weather.ps1`
 
 ```component VPCard
 {
@@ -3017,7 +3017,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`weather-report.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`weather-report.ps1`
 
 ```component VPCard
 {

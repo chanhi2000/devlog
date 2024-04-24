@@ -202,16 +202,6 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 
 ```component VPCard
 {
-  "title": "Awesome Cheatsheets",
-  "desc": "Designed for the ones who enjoy dark interfaces as much as we do. Using the best UX practices for great conversion rates.",
-  "link": "https://lecoupa.github.io/awesome-cheatsheets/",
-  "logo": "https://lecoupa.github.io/awesome-cheatsheets//images/common/logo.png",
-  "background": "rgba(29,36,48,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "DevTools Tips", 
   "desc": "The collection of tips useful for web development.", 
   "link": "https://devtoolstips.org", 
@@ -423,7 +413,7 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "desc": "",
   "link": "https://design.baejino.com/",
   "logo": "https://design.baejino.com/favicon.ico",
-  "backgground": "rgba(94,73,217,0.2)"
+  "background": "rgba(94,73,217,0.2)"
 }
 ```
 

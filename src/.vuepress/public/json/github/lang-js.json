@@ -2204,5 +2204,20 @@
     "desc": "",
     "officialSite": "http://noname.pub",
     "topics": []
+  }, {
+    "repo": "FlowTestAI/FlowTest",
+    "desc": "GenAI powered OpenSource IDE for API first workflows",
+    "officialSite": "",
+    "topics": ["api", "api-client", "api-testing-framework", "automation", "electron", "git", "javascript", "llm", "openai", "privacy", "workflow"]
+  }, {
+    "repo": "bia-pain-bache/BPB-Worker-Panel",
+    "desc": "A GUI Panel providing Worker subscriptions and Fragment settings and configs, providing configs for cross-platform clients using (singbox-core and xray-core)",
+    "officialSite": "",
+    "topics": ["android", "chain", "fragment", "ios", "linux", "proxy-chain", "singbox-core", "vless", "windows", "xray-core"]
+  }, {
+    "repo": "ArtifexSoftware/mupdf.js",
+    "desc": "JavaScript bindings for MuPDF",
+    "officialSite": "https://mupdfjs.readthedocs.io",
+    "topics": ["javascript", "mupdf", "pdf", "pdf-extraction", "pdf-viewer", "typescript", "wasm"]
   }
 ]

@@ -1139,5 +1139,10 @@
     "desc": "High-quality PNGs for logos I made for fun",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ohenley/awesome-ada",
+    "desc": "A curated list of awesome resources related to the Ada and SPARK programming language",
+    "officialSite": "",
+    "topics": ["ada", "ada-binding", "ada-framework", "ada-language", "ada-library", "ada-programs", "awesome", "awesome-list", "gnat", "spark", "spark-ada"]
   }
 ]

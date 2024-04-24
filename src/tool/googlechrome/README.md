@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: Chrome Browser
-description: Chrome Browser
+title: Google Chrome
+description: Google Chrome
 icon: fa-brands fa-chrome
 category:
-  - Chrome Browser
+  - Browser
+  - Google Chrome
 ---
 
 # {{ $frontmatter.description }} 관련

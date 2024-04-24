@@ -2648,5 +2648,20 @@
     "desc": "Franken UI is a UI library of common web components. It is a based on UIkit 3 exposed as a Tailwind CSS plugin.",
     "officialSite": "https://franken-ui.dev",
     "topics": ["component", "css", "design-system", "framework", "shadcn", "shadcn-ui", "tailwind", "tailwindcss", "ui", "uikit"]
+  }, {
+    "repo": "LLM-Red-Team/kimi-free-api",
+    "desc": "🚀 KIMI AI 长文本大模型逆向API白嫖服务【特长：长文本解读整理】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。",
+    "officialSite": "https://udify.app/chat/Po0F6BMJ15q5vu2P",
+    "topics": ["chat-api", "chatbot", "chatgpt-api", "kimi-ai", "kimi-api", "llm", "moonshot"]
+  }, {
+    "repo": "mishushakov/llm-scraper",
+    "desc": "Turn any webpage into structured data using LLMs",
+    "officialSite": "",
+    "topics": ["ai", "artificial-intelligence", "browser", "browser-automation", "gpt", "gpt-4", "langchain", "llama", "llm", "openai", "playwright", "puppeteer", "scraper"]
+  }, {
+    "repo": "Twinklebear/webgpu-marching-cubes",
+    "desc": "A GPU-parallel Marching Cubes implementation using WebGPU",
+    "officialSite": "",
+    "topics": []
   }
 ]

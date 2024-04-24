@@ -43,6 +43,15 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/devkuma.com/makefile.md',
               ]
+            }, {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/53.md',
+                '/explore/articles/meetup.nhncloud.com/54.md',
+                '/explore/articles/meetup.nhncloud.com/55.md',
+              ]
             }
           ]
         }
@@ -1169,6 +1178,7 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/yozm.wishket.com/1990.md',
                 '/explore/articles/yozm.wishket.com/2515.md',
+                '/explore/articles/yozm.wishket.com/2556.md',
               ]
             }
           ]
@@ -1521,6 +1531,7 @@ export const sidebarEn = sidebar({
             '/explore/articles/yozm.wishket.com/2541.md',
             '/explore/articles/yozm.wishket.com/2543.md',
             '/explore/articles/yozm.wishket.com/2545.md',
+            '/explore/articles/yozm.wishket.com/2556.md',
           ]
         }, {
           text: 'freecodecamp.org',
@@ -1649,6 +1660,15 @@ export const sidebarEn = sidebar({
           icon: 'https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg',
           children: [
             '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
+          ]
+        }, {
+          text: 'meetup.nhncloud.com',
+          collapsible: true,
+          icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+          children: [
+            '/explore/articles/meetup.nhncloud.com/53.md',
+            '/explore/articles/meetup.nhncloud.com/54.md',
+            '/explore/articles/meetup.nhncloud.com/55.md',
           ]
         }
       ]

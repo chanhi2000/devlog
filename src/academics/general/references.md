@@ -282,6 +282,8 @@ tag:
 - [2022년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/148)
 - [2021년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/147)
 - [2022년 정보올림피아드 필기 중등부(11 ~ 15)](https://davincicoding.tistory.com/150)
+- [2022년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/151)
+- [2023년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/152)
 
 ---
 
@@ -312,6 +314,7 @@ tag:
 ## 자바실험실
 
 - [이온의 이동](https://javalab.org/ion_movement/)
+- [비디오 운동 분석 (Motion Shot) – 베타 버전](https://javalab.org/motion_shot/)
 
 ---
 

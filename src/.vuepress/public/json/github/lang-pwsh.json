@@ -64,5 +64,10 @@
     "desc": "GitHub Actions runner images",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ntdevlabs/tiny11builder",
+    "desc": "Scripts to build a trimmed-down Windows 11 image.",
+    "officialSite": "",
+    "topics": []
   }
 ]

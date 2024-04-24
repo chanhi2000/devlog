@@ -45,6 +45,16 @@ head:
 
 ```component VPCard
 {
+  "title": "쿠버네티스 관리자를 위한 ‘CKA’ 자격증 준비하기 | 요즘IT",
+  "desc": "쿠버네티스 관리자를 위한 ‘CKA’ 자격증 준비하기",
+  "link": "/explore/articles/yozm.wishket.com/2556.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (1,2) | 요즘IT",
   "desc": "로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (1) | 요즘IT",
   "link": "/explore/articles/yozm.wishket.com/2515.md",

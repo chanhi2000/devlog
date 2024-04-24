@@ -222,6 +222,7 @@ tag:
 ## 코딩으로 자아실현
 
 - [web security 메모 (port swagger 일부)](https://kminito.tistory.com/112)
+- [노트필기) OWASP Top 10 - 2021](https://kminito.tistory.com/114)
 
 ---
 

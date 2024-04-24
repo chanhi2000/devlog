@@ -4906,9 +4906,9 @@
     "topics": []
   }, {
     "repo": "LlamaFamily/Llama-Chinese",
-    "desc": "Llama中文社区，最好的中文Llama大模型，完全开源可商用",
-    "officialSite": "",
-    "topics": ["finetune", " llama", "llama2", "llama3", "llm", "pretrain"]
+    "desc": "Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用",
+    "officialSite": "https://llama.family",
+    "topics": ["finetune-llm", "llama", "llama3", "llm", "pretraining"]
   }, {
     "repo": "google-deepmind/penzai",
     "desc": "A JAX research toolkit for building, editing, and visualizing neural networks.",
@@ -4929,5 +4929,20 @@
     "desc": "Unify Efficient Fine-Tuning of 100+ LLMs",
     "officialSite": "",
     "topics": ["agent", "ai", "chatglm", "fine-tuning", "gpt", "instruction-tuning", "language-model", "large-language-models", "llama", "llama3", "llm", "lora", "mistral", "moe", "peft", "qlora", "quantization", "qwen", "rlhf", "transformers"]
+  }, {
+    "repo": "CrazyBoyM/llama3-Chinese-chat",
+    "desc": "Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）",
+    "officialSite": "https://huggingface.co/shareAI",
+    "topics": ["llama", "llama2", "llama3", "llama3-chinese", "llama3-finetune"]
+  }, {
+    "repo": "InternLM/xtuner",
+    "desc": "An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM, Llama, Baichuan, Qwen, ChatGLM)",
+    "officialSite": "",
+    "topics": ["agent", "baichuan", "chatbot", "chatglm", "chatglm2", "chatglm3", "conversational-ai", "internlm", "large-language-models", "llama", "llama2", "llava", "llm", "llm-training", "mixtral", "msagent", "peft", "qwen", "supervised-finetuning"]
+  }, {
+    "repo": "jxnl/instructor",
+    "desc": "structured outputs for llms ",
+    "officialSite": "https://python.useinstructor.com/",
+    "topics": ["openai", "openai-function-calli", "openai-functions", "pydantic-v2", "python", "validation"]
   }
 ]

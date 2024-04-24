@@ -31,7 +31,7 @@ head:
 
 ---
 
-## 예제: <FontIcon icon="iconfont icon-file"/>`log4j2.properties` 
+## 예제: <FontIcon icon="fas fa-file-code"/>`log4j2.properties` 
 
 ::: details 예제
 

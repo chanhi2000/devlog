@@ -21,7 +21,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`build-repo.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`build-repo.ps1`
 
 ```component VPCard
 {
@@ -208,7 +208,7 @@ try {
 ---
 
 
-## <FontIcon icon="iconfont icon-file"/>`build-repos.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`build-repos.ps1`
 
 ```component VPCard
 {
@@ -300,7 +300,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`check-repo.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`check-repo.ps1`
 
 ```component VPCard
 {
@@ -437,7 +437,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`clean-repo.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`clean-repo.ps1`
 
 ```component VPCard
 {
@@ -553,7 +553,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`clean-repos.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`clean-repos.ps1`
 
 ```component VPCard
 {
@@ -655,7 +655,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`clone-repos.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`clone-repos.ps1`
 
 ```component VPCard
 {
@@ -784,7 +784,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`configure-git.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`configure-git.ps1`
 
 ```component VPCard
 {
@@ -927,7 +927,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`fetch-repo.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`fetch-repo.ps1`
 
 ```component VPCard
 {
@@ -1026,7 +1026,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`fetch-repos.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`fetch-repos.ps1`
 
 ```component VPCard
 {
@@ -1133,7 +1133,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-branches.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-branches.ps1`
 
 ```component VPCard
 {
@@ -1250,7 +1250,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-commits.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-commits.ps1`
 
 ```component VPCard
 {
@@ -1382,7 +1382,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-latest-tag.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-latest-tag.ps1`
 
 ```component VPCard
 {
@@ -1467,7 +1467,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-latest-tags.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-latest-tags.ps1`
 
 ```component VPCard
 {
@@ -1562,7 +1562,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-repos.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-repos.ps1`
 
 ```component VPCard
 {
@@ -1675,7 +1675,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-submodules.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-submodules.ps1`
 
 ```component VPCard
 {
@@ -1766,7 +1766,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`list-tags.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`list-tags.ps1`
 
 ```component VPCard
 {
@@ -1883,7 +1883,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`new-branch.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`new-branch.ps1`
 
 ```component VPCard
 {
@@ -2015,7 +2015,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`new-tag.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`new-tag.ps1`
 
 ```component VPCard
 {
@@ -2125,7 +2125,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`pick-commit.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`pick-commit.ps1`
 
 ```component VPCard
 {
@@ -2290,7 +2290,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`pull-repo.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`pull-repo.ps1`
 
 ```component VPCard
 {
@@ -2396,7 +2396,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`pull-repos.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`pull-repos.ps1`
 
 ```component VPCard
 {
@@ -2506,7 +2506,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`remove-tag.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`remove-tag.ps1`
 
 ```component VPCard
 {
@@ -2626,7 +2626,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`switch-branch.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`switch-branch.ps1`
 
 ```component VPCard
 {
@@ -2760,7 +2760,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-file"/>`sync-repo.ps1`
+## <FontIcon icon="iconfont icon-powershell"/>`sync-repo.ps1`
 
 ```component VPCard
 {

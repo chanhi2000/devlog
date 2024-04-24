@@ -46,7 +46,7 @@ head:
   "desc": "droidcon Community on a Global Scaledroidcon is your source for daily tech blogs, videos, events, jobs and more all around Android development.",
   "link": "https://www.droidcon.com/",
   "logo": "https://www.droidcon.com/",
-  "backgground": "rgba(4,20,221,0.2)"
+  "background": "rgba(4,20,221,0.2)"
 }
 ```
 
@@ -74,7 +74,7 @@ head:
   "desc": "With JCenter sunsetted, distributing public Kotlin Multiplatform libraries now often relies on Maven Central via Sonatype. However, the transition from issues.sonatype.org to central.sonatype.com in March 2024 has left many developers grappling with outdated resources and scarce guidance.",
   "link": "/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md",
   "logo": "https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
-  "backgground": "rgba(4,20,221,0.2)"
+  "background": "rgba(4,20,221,0.2)"
 }
 ```
 

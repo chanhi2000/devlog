@@ -26,7 +26,6 @@ tag:
 - [Sandboxing Python with Win32 App Isolation](https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/)
 
 ---
-
 ## Gitlab
 
 - [`cpaperma/nondet`: Non deterministic python](https://gitlab.inria.fr/cpaperma/nondet)
@@ -517,6 +516,7 @@ tag:
 
 - [Google API 없이 Youtube 데이터 수집하기](https://jakpentest.tistory.com/entry/Google-API-%EC%97%86%EB%8A%94-Youtube-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
 - [[Programmers] 코딩테스트입문 - 로그인 성공?](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9E%85%EB%AC%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%84%B1%EA%B3%B5)
+- [[Programmers] 코딩테스트 입문 #1 (with Python)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-1)
 
 ---
 
@@ -534,6 +534,7 @@ tag:
 - [OpenCV Python - 동영상 파일을 일련번호 붙은 이미지 파일로 저장하기](https://webnautes.tistory.com/2323)
 - [OpenCV Python 검은색 빈 공간 채우기](https://webnautes.tistory.com/2322)
 - [Keras 예제 – `flow_from_directory`와 `flow_from_dataframe`](https://webnautes.tistory.com/2077)
+- [디렉토리 존재 여부 확인 후, 새로 디렉토리 생성하는 Python 예제](https://webnautes.tistory.com/2326)
 
 ---
 
@@ -714,6 +715,12 @@ tag:
 ## passion is like genius; a miracle.
 
 - [Joblib Memory that expires after timelimit](https://mkseo.pe.kr/blog/?p=4950)
+
+---
+
+## YA-Hwang 기술 블로그
+
+- [optional label과 비용효과적인 Protobuf 처리](https://yahwang.github.io/posts/110)
 
 ---
 

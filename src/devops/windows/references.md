@@ -109,6 +109,7 @@ tag:
 - [[복붙하세요] 세모 모양 특수 문자 모음집(▲△▶▷◢◣◤◥◬)](https://coding-factory.tistory.com/1051)
 - [[복붙하세요] 네모 모양 특수 문자 모음집(□■▣▤▥▨▧▦▩)](https://coding-factory.tistory.com/1050)
 - [[복붙하세요] 별 모양 특수문자 모음집(★☆✪✫✦✧✬✭)](https://coding-factory.tistory.com/1049)
+- [[복붙하세요] 체크 표시 특수 문자 모음집(✓ ✔ ☑ √ ▣)](https://coding-factory.tistory.com/1052)
 
 ---
 

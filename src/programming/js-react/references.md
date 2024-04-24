@@ -165,6 +165,7 @@ head:
 - [`@kyj2471` - 코드 스플리팅](https://velog.io/@kyj2471/%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%94%8C%EB%A6%AC%ED%8C%85)
 - [`@hakokim` - React Native 앱 접근성 지원 시작하기](https://velog.io/@hakokim/React-Native-%EC%95%B1-%EC%A0%91%EA%B7%BC%EC%84%B1-%EC%A7%80%EC%9B%90-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [`@eunbinn` - [번역] 리액트 컴파일러와 리액트 19 - 이제 메모이제이션을 신경쓰지 않아도 되나요?](https://velog.io/@eunbinn/react-compiler-soon)
+- [`@eunbinn` - [번역] DALL-E와 Next.js로 이미지 편집기 만들기](https://velog.io/@eunbinn/image-editor-dall-e-next)
 
 ---
 
@@ -637,6 +638,12 @@ https://o-yeon.tistory.com/227
 
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
 - [Create Next Stack: The ultimate starter kit for Next.js](https://www.create-next-stack.com)
+
+---
+
+## Hello Jay's Programming World!
+
+- [React 환경에서 Markdown 출력하기 (`react-markdown`)](https://jayprogram.tistory.com/99)
 
 ---
 

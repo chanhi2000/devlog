@@ -28,11 +28,6 @@ tag:
 
 ## APIs
 
-- [Bootstrap Icons][Bootstrap-Icons]: Official open source SVG icon library for Bootstrap.
-- [regexper][regexper]: You thought you only had two problems…
-- [regexr][regexr]: RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-- [emailjs][emailjs]: EmailJS Documentation
-- [htaccess][htaccess]: Test your htaccess rewrite rules
 - [testing-library][testing-library]: The home for all testing-library projects
 - [kickbox][kickbox]: Free, Open API for Detecting Disposable Email Addresses
 - [course-api][course-api]: Course API's
@@ -79,15 +74,9 @@ tag:
 
 ## Resources
 
-- [Awesome Cheatsheets][awesome-cheatsheets]: Awesome cheatsheets for popular programming languages, frameworks and development tools.
- They include everything you should know in one single file. 👩‍💻👨‍💻
-- [Popular Color Palettes][Popular-Color-Palettes]: Most popular color palettes.
-- [Codeimg][codeimg]
-- [PDF to SVG][pdf-to-svg]: CloudConvert is an online document converter. Amongst many others, we support PDF, DOCX, PPTX, XLSX. Thanks to our advanced conversion technology the quality of the output will be as good as if the file was saved through the latest Microsoft Office 2019 suite.
 - [Autodraw][autodraw]: Fast drawing for everyone
 - [MathAPI][math-api]: Place LaTeX Math equation on anywhere as `<img>` tag.
 - [MariaLetta/free-gophers-pack][MariaLetta/free-gophers-pack]: ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
-- [icons8][icons8]: 서로 어울리는 1,210,800개의 무료 아이콘
 - [Cracking Vue.js][cracking-vuejs]: 이 사이트는 Vue.js로 웹 서비스를 개발할 때 필요한 지식을 모아놓은 사이트입니다.
 - [git - 간편 안내서][git-guide-ko]: git을 시작하기 위한 간편 안내서.
 - [tldraw][tldraw]: A tiny little drawing app.
@@ -104,37 +93,25 @@ tag:
 - [design/fluent][design/fluent]: Fluent Design System. Fluent is an open-source, cross-platform design system that gives designers and developers the frameworks they need to create engaging product experiences—accessibility, internationalization, and performance included.
 - [VisuAlgo](https://visualgo.net/en)
 - [Hero Patterns](https://heropatterns.com): A collection of repeatable SVG background patterns for you to use on your web projects.
-- [BGJar](https://bgjar.com): Free svg background generator for your websites, blogs and app.
 - [Pattern Monster](https://pattern.monster): Customizable SVG patterns for your projects
-- [VisuAlgo](https://visualgo.net/en): visualising data structures and algorithms through animation
 - [unDraw](https://undraw.co)
 
 ---
 
 ## Community
 
-- [hamonikr][hamonikr]: 리눅스 커뮤니티 하모니카
 - [클리앙](https://www.clien.net/service/)
   - [DuckDuckGo를 조금 더 활용하는 방법](https://www.clien.net/service/board/lecture/15302686)
-- [Qt 한국 개발자 커뮤니티](https://qt-dev.com)
 - [기백이의 맥가이버](http://www.macguyver.co.kr)
 
 
 ---
 
-## Cool Project(s)
-
-- [dustinbrett][dustinbrett]: daedalOS
-
 <TagLinks />
 
 
 <!-- APIs -->
-[Bootstrap-Icons]: https://icons.getbootstrap.com
-[regexper]: https://regexper.com
-[regexr]: https://regexr.com
-[emailjs]: https://www.emailjs.com/docs
-[htaccess]: https://htaccess.madewithlove.com
+
 [testing-library]: https://github.com/testing-library
 [kickbox]: https://open.kickbox.com
 [course-api]: https://course-api.com
@@ -166,14 +143,10 @@ tag:
 [coupang]: https://developers.coupangcorp.com/hc/ko
 [kakao]: https://developers.kakao.com/docs/latest/ko/index
 <!-- Resources -->
-[awesome-cheatsheets]: https://lecoupa.github.io/awesome-cheatsheets/
-[Popular-Color-Palettes]: https://www.color-hex.com/color-palettes/popular.php
-[codeimg]: https://codeimg.io
-[pdf-to-svg]: https://cloudconvert.com/pdf-to-svg
+
 [autodraw]: https://www.autodraw.com
 [math-api]: https://math.vercel.app/home
 [MariaLetta/free-gophers-pack]: https://github.com/MariaLetta/free-gophers-pack
-[icons8]: https://icons8.kr/icons
 [cracking-vuejs]: https://joshua1988.github.io/vue-camp/textbook.html
 [git-guide-ko]: https://rogerdudler.github.io/git-guide/index.ko.html
 [tldraw]: https://www.tldraw.com
@@ -187,7 +160,3 @@ tag:
 [fonts-material-icons]: https://fonts.google.com/icons?selected=Material+Icons
 [thenounproject]: https://thenounproject.com
 [design/fluent]: https://www.microsoft.com/design/fluent
-<!-- Community -->
-[hamonikr]: https://hamonikr.org
-<!-- Cool Project(s) -->
-[dustinbrett]: https://dustinbrett.com/

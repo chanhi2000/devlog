@@ -219,6 +219,11 @@ tag:
 - [[ 99클럽 코테 스터디 20일차 TIL ] 프로그래머스(내적)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-20%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%B4%EC%A0%81)
 - [[ 99클럽 코테 스터디 22일차 TIL ] 프로그래머스(나머지가 1이 되는 수 찾기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-22%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80-1%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%88%98-%EC%B0%BE%EA%B8%B0)
 - [[ 99클럽 코테 스터디 24일차 TIL ] 백준(17504번 - 제리와 톰 2)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-24%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%8017504%EB%B2%88-%EC%A0%9C%EB%A6%AC%EC%99%80-%ED%86%B0-2)
+- [[ 99클럽 코테 스터디 25일차 TIL ] 백준 (23812번 - 골뱅이 찍기 - 돌아간 ㅍ)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-23812%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%EB%8F%8C%EC%95%84%EA%B0%84-%E3%85%8D)
+- [[내일배움캠프 7일차 TIL] 배열부터 생성자 `this`까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-7%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B0%EC%97%B4%EB%B6%80%ED%84%B0-%EC%83%9D%EC%84%B1%EC%9E%90-this%EA%B9%8C%EC%A7%80)
+- [[ 99클럽 코테 스터디 25일차 TIL ] 프로그래머스 (가장 가까운 같은 글자 및 H-Index)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90-%EB%B0%8F-H-Index)
+- [[내일배움캠프 6일차 TIL] Java 문법 기초부터 반복문까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-6%EC%9D%BC%EC%B0%A8-TIL-Java-%EB%AC%B8%EB%B2%95-1-25)
+
 
 ### 류광의 번역 이야기
 
@@ -258,6 +263,10 @@ tag:
 ### jako's IT log
 
 - [[Programmers] 코딩 테스트 입문 - 배열관련 문제들 (with Java)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%B0%B0%EC%97%B4%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C%EB%93%A4-with-Java)
+
+## Enthusiastically, Steady, Slowly
+
+- [[숫자야구게임 Step2] 도메인 구현](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B5%AC%ED%98%84)
 
 ---
 
@@ -363,12 +372,16 @@ tag:
 
 - [OpenTelemetry Traces with http4k APIs](https://www.cfnine.com/blog/opentelemetry-http4k/)
 
----
-
 ### kotzilla
 
 - [The Culprit :Technical Debt Undermines Kotlin Application Development](https://blog.cloud-inject.io/technical-debt-and-kotlin-app-development)
 
+### Coding Log
+
+- [053. (Getting Started with Test-Driven Development) 3. 테스트 코드 작성 순서](https://namhoon.kim/2024/04/22/method-test/053/)
+
 ---
+
+
 
 <TagLinks />

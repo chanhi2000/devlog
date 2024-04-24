@@ -95,4 +95,12 @@ tag:
 
 - [GitHub Autolink 를 알아보자](https://jusths.tistory.com/396)
 
+---
+
+## Outsider's Dev Story
+
+- [GitHub 저장소의 메타데이터를 관리할 수 있는 Custom Properties](https://blog.outsider.ne.kr/1718)
+
+---
+
 <TagLinks />

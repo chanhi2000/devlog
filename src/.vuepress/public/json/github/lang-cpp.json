@@ -306,9 +306,9 @@
     "topics": ["linux", "performance", "qt", "cpp", "profiler", "perf", "performance-analysis", "profiling", "cpu-profiling"]
   }, {
     "repo": "nomic-ai/gpt4all",
-    "desc": "gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue",
+    "desc": "gpt4all: run open-source LLMs anywhere",
     "officialSite": "https://gpt4all.io",
-    "topics": []
+    "topics": ["llm-inference"]
   }, {
     "repo": "flameshot-org/flameshot",
     "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",

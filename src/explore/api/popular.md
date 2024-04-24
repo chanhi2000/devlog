@@ -23,8 +23,6 @@ tag:
 
 ## List
 
-- [ㅇㅁ](https://blog.weirdx.io)
-- [제타위키](https://zetawiki.com)
 - [PSChess – A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 
 ---
