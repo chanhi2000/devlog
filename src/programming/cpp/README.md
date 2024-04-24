@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Cpp
-description: Cpp
+title: C++
+description: C++
 icon: iconfont icon-cpp
 category: 
   - Cpp

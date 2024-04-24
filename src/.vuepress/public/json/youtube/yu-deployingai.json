@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "deployingai",
+    "name": "Deploying AI",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mrjO9OGCV3s4KL5FAO-JkZCuMMdHk-I8doHCLmp6C9osfz_JqGDDAT1lwVBwdRzZ35_w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    {
+      "title": "Open LLMs",
+      "videos": [
+        { "id": "qvkXPt8lcEE", "title": "Run Code Llama 70B in the cloud" },
+        { "id": "37nf3VgjFCk", "title": "Use the OpenAI API to call Mistral, Llama, and other LLMs (works with local AND serverless models)" },
+        { "id": "cVkmLuYM-lY", "title": "Developing with local LLMs – comparing Mistral and Llama to OpenAI and Anthropic" }
+      ]
+    }
+  ]
+}

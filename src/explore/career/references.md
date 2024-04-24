@@ -45,6 +45,8 @@ tag:
 ---
 
 ## BLEX
+
+- [`@mildsalmon` - 정보처리기사를 준비해보자.](https://blex.me/@mildsalmon/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [`@mildsalmon` - 자격증 취득기](https://blex.me/@mildsalmon/%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D%EA%B8%B0)
 - [`@mildsalmon` - SQLD를 취득해보자.](https://blex.me/@mildsalmon/sqld%EB%A5%BC-%EC%B7%A8%EB%93%9D%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [`@whdgus928` - 정보처리기사 실기](https://blex.me/@whdgus928/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0)
@@ -85,6 +87,7 @@ tag:
 - [`Netflix Technology Blog` - Predictive CPU isolation of containers at Netflix](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
 - [`mjspring` - 셀프 온보딩, 스스로 적응하기](https://mjspring.medium.com/%EC%85%80%ED%94%84-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%A0%81%EC%9D%91%ED%95%98%EA%B8%B0-8d9010b0effb)
 - [`giljae` - 레딧(Reddit)의 아키텍처 진화의 여정](https://giljae.medium.com/%EB%A0%88%EB%94%A7-reddit-%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A7%84%ED%99%94%EC%9D%98-%EC%97%AC%EC%A0%95-4f312ba7cef0)
+- [`@devendunegi06` - I Solved 300+ Leetcode problems here is what I learnt.](https://medium.com/@devendunegi06/my-journey-of-solving-300-leetcode-problems-some-takeaways-which-can-help-you-in-yours-2fee80c7086a)
 
 ---
 
@@ -536,6 +539,5 @@ tag:
 - [우아한형제들을 퇴사하며](https://pjh3749.tistory.com/289)
 
 ---
-
 
 <TagLinks />

@@ -1404,5 +1404,10 @@
     "desc": "Self-hosted pastebin powered by Git, open-source alternative to Github Gist.",
     "officialSite": "https://demo.opengist.io",
     "topics": ["docker", "gist", "git", "go", "golang", "pastebin", "pastebin-service", "self-hosted", "tailwindcss", "typescript"]
+  }, {
+    "repo": "open-telemetry/opentelemetry-collector-releases",
+    "desc": "OpenTelemetry Collector Official Releases",
+    "officialSite": "https://opentelemetry.io",
+    "topics": ["hacktoberfest", "opentelemetry"]
   }
 ]

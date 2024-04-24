@@ -26,6 +26,7 @@ tag:
 
 ## BLEX
 
+- [`@mildsalmon` - [Bug] Django migrate ->ModuleNotFoundError 에러 대처방법](https://blex.me/@mildsalmon/django-migrate-modulenotfounderror-%EC%97%90%EB%9F%AC-%EB%8C%80%EC%B2%98%EB%B0%A9%EB%B2%95)
 - [`@baealex` - Django migrate 잘 사용하기](https://blex.me/@baealex/django-migrate-%EC%9E%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ---

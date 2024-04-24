@@ -20,6 +20,7 @@ tag:
 
 ## Swift 
 
+- [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift)
 - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 - [Introducing the Benchmark Package: Complementing Unit Tests with Performance Checks](https://www.swift.org/blog/benchmarks/)
 - [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://www.swift.org/blog/embedded-swift-examples/)
@@ -206,6 +207,7 @@ tag:
 
 ## Donny Wals
 
+- [Designing APIs with typed throws in Swift](https://www.donnywals.com/designing-apis-with-typed-throws-in-swift/)
 - [Everything you need to know about Swift 5.10](https://www.donnywals.com/everything-you-need-to-know-about-swift-5-10)
 - [Making your SwiftData models Codable](https://www.donnywals.com/making-your-swiftdata-models-codable)
 - [Actor reentrancy in Swift explained](https://www.donnywals.com/actor-reentrancy-in-swift-explained)
@@ -239,6 +241,8 @@ tag:
 
 ## Use Your Loaf
 
+- [Disabling Core Data CloudKit Logging](https://useyourloaf.com/blog/disabling-core-data-cloudkit-logging)
+- [Xcode Console and Unified Logging](https://useyourloaf.com/blog/xcode-console-and-unified-logging)
 - [SwiftUI Sensory Feedback](https://useyourloaf.com/blog/swiftui-sensory-feedback)
 - [SwiftUI Tasks Blocking the MainActor](https://useyourloaf.com/blog/swiftui-tasks-blocking-the-mainactor/)
 - [Fetching `OSLog` Messages in Swift](https://useyourloaf.com/blog/fetching-oslog-messages-in-swift)
@@ -272,7 +276,8 @@ tag:
 
 ## Swift with Majid
 
-- [Mastering Preview macro in Swift](https://swiftwithmajid.com/2023/10/17/mastering-preview-macro-in-swift)
+- [Discovering Swift Algorithms package](https://swiftwithmajid.com/2024/02/13/discovering-swift-algorithms-package/)
+- [Mastering Preview macro in Swift](https://swiftwithmajid.com/2023/10/17/mastering-preview-macro-in-swift/)
 - [Trigger value pattern in SwiftUI](https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/)
 
 ---
@@ -445,6 +450,7 @@ tag:
 
 ## massicotte.org
 
+- [Should You Enable Swift's Complete Concurrency Checking?](https://www.massicotte.org/complete-checking)
 - [An Introduction to Isolation in Swift](https://www.massicotte.org/intro-to-isolation)
 - [Swift Isolation Intuition](https://www.massicotte.org/isolation-intuition)
 
@@ -489,6 +495,12 @@ tag:
 ## overdesigned blog
 
 - [Shattered Glass: Customizing Windows in visionOS](https://blog.overdesigned.net/posts/2024-02-29-visionos-window-basics)
+
+---
+
+## Scott Smith Dev
+
+- [Screen vs View in SwiftUI](https://scottsmithdev.com/screen-vs-view-in-swiftui)
 
 ---
 

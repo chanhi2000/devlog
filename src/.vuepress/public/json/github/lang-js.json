@@ -2219,5 +2219,10 @@
     "desc": "JavaScript bindings for MuPDF",
     "officialSite": "https://mupdfjs.readthedocs.io",
     "topics": ["javascript", "mupdf", "pdf", "pdf-extraction", "pdf-viewer", "typescript", "wasm"]
+  }, {
+    "repo": "max32002/tixcraft_bot",
+    "desc": "MaxBot open source code bot",
+    "officialSite": "https://max-everyday.com/2018/03/tixcraft-bot/",
+    "topics": ["maxbot", "python", "selenium"]
   }
 ]

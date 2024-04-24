@@ -647,4 +647,10 @@ https://o-yeon.tistory.com/227
 
 ---
 
+## Dev Community - DevDojo
+
+- [A simple React app: fetch GitHub users information via API](https://devdojo.com/baransel/a-simple-react-app-fetch-github-users-information-via-api)
+
+---
+
 <TagLinks />

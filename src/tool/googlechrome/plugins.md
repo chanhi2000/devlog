@@ -64,6 +64,36 @@ tag:
 
 ```component VPCard
 {
+  "title": "TrafficLight",
+  "desc": "Bitdefender TrafficLight adds a strong and non-intrusive layer of security to your browsing experience.",
+  "link": "https://chromewebstore.google.com/detail/trafficlight/cfnpidifppmenkapgihekkeednfoenal",
+  "logo": "https://lh3.googleusercontent.com/9-ZUsd8y5n-QQ7GfasHEo5VkEERsMjLYuK7gtEFeV-dI4qoxFs16qgVracy5Ao41lMqNkpayQN5O3jm45MKeEZy0sQ=s60",
+  "background": "rgba(221,0,0,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Render AsciiDoc (.ad, .adoc, .asc, .asciidoc) as HTML inside your browser!",
+  "desc": "Asciidoctor.js Live Preview",
+  "link": "https://chromewebstore.google.com/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia",
+  "logo": "https://lh3.googleusercontent.com/GWG0yulqobqhTaRllJAKjQqo5og7cBWYAGQ_QiYoluP3F449wBcFlUl_QvNogsBhY2gydso--z2sVKtIYh54x6V4eg=s60",
+  "background": "rgba(228,0,70,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "daily.dev | The homepage developers deserve",
+  "desc": "Get one personalized feed for all the knowledge you need as a developer.",
+  "link": "https://chromewebstore.google.com/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied",
+  "logo": "https://lh3.googleusercontent.com/o4QKfmoXLX0xMRqrv9QXB8G6QezEFVf1jaN4-ILrHzdn7t27epulP_q3N-3TOIYH2YQdnfLcIgRKP2DYaT_O3xXDmoU=s60",
+  "background": "rgba(21,22,24,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Stylus",
   "desc": "Stylus로 웹페이지를 새롭게 디자인해보세요. 유명한 사이트의 테마, 스킨도 간단하게 설치할 수 있는 사용자 스타일 관리자입니다.",
   "link": "https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne",
@@ -84,6 +114,46 @@ tag:
 
 ```component VPCard
 {
+  "title": "Tab Suspender by Workona",
+  "desc": "Suspend your browser tabs to save memory.",
+  "link": "https://chromewebstore.google.com/detail/tab-suspender-by-workona/kkahjkjjcepelnnikconblkonolboiok",
+  "logo": "https://lh3.googleusercontent.com/3xqpkLamS4B6A4LXyfd0uYgLEyfSibyj5aIfBMj7VzSX52GRAzrId_-TGsqDGB3zN9L_ay-6ai3rbOKW5Avm4ADW-Q=s60",
+  "background": "rgba(51,112,255,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "OneTab",
+  "desc": "Save up to 95% memory and reduce tab clutter",
+  "link": "https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall",
+  "logo": "https://lh3.googleusercontent.com/r9pG6yBSmqm_GGM9c2Q2JJvHQ6WXr9FTphOwvxS1PwrPpjfKeu1b9ha6OXqx8ALeGqtnRElPtZzdiCWD-4yUwA_LBVM=s60",
+  "background": "rgba(0,101,178,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Omni - Bookmark, History, & Tab Manager",
+  "desc": "Supercharge Chrome with commands, shortcuts, and more",
+  "link": "https://chrome.google.com/webstore/detail/mapjgeachilmcbbokkgcbgpbakaaeehi",
+  "logo": "https://lh3.googleusercontent.com/J7n7qDIrekKpjDDP-oLo03rvP2drIRqOqTDdSK5MyUBhE2UCkYx1LXurAVNA_4lgHCkdZUtnVaEt0SvGed9gaSKhAA=s60",
+  "background": "rgba(96,104,210,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The Marvellous Suspender",
+  "desc": "Make your computer run smoothly by suspending the tabs you aren't using",
+  "link": "https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa",
+  "logo": "https://lh3.googleusercontent.com/9I3TNH26BnqH6Dprc4iq_Z7YzsJCOz_iP13QEt6mVY53SJCK_4P1NjUVgYyjlncuuWlABSKZ3le6EJ11fyQxX3QelQ=s60",
+  "background": "rgba(236,196,158,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "GoFullPage - Full Page Screen Capture",
   "desc": "추가 권한을 요청하지 않고 현재 페이지의 스크린샷을 전체적으로 캡처하고 신뢰할 수 있습니다!",
   "link": "https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl",
@@ -99,6 +169,16 @@ tag:
   "link": "https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce",
   "logo": "https://lh3.googleusercontent.com/pbKrxHFkRZ1A_cPo-c8V0SVJ3snNEKf4-UvW-jAiv4q8pP0UHXE2NltPuC8nkazexSjdBXZrC1xLnoO6lqbKmDXO=w128-h128-e365-rj-sc0x00ffffff",
   "background": "rgba(252,121,121,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CSS Peeper",
+  "desc": "Extract CSS and build beautiful styleguides.",
+  "link": "https://chromewebstore.google.com/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk",
+  "logo": "https://lh3.googleusercontent.com/0JNrZ9H--GDqNJFCtbsufPB6gSnwBKofKMTQbkdFA9_OHIQ_vDcNoaY-z0mhcPVEoAciwF9s7iBXmBuiIBcyy3cAHCc=s60",
+  "background": "rgba(144,116,245,0.2)"
 }
 ```
 
@@ -129,6 +209,46 @@ tag:
   "link": "https://chromewebstore.google.com/detail/corely-ai-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%95%B5%EC%8B%AC-%EC%9A%94%EC%95%BD-with/gaaicdedebppdnadcdddckdmccfejjli",
   "logo": "https://lh3.googleusercontent.com/3afWHtAj7oaUBeIU5dcVUkmLXrNOo6ksgLtqdK6sI9Ga9ZuZBfzYKYHxSbdCe-F5x1UAfSEGmDUK7cmDPtOAN4Fggg=s60",
   "background": "rgba(13,15,21,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Return YouTube Dislike",
+  "desc": "Returns ability to see dislikes",
+  "link": "https://chrome.google.com/webstore/detail/gebbhagfogifgggkldgodflihgfeippi",
+  "logo": "https://lh3.googleusercontent.com/X0-M21C_VbWyXYuUjN55oyMDvOukjbzAxbs_WrUjwzsebWbyjFCIEchOtczI0DBvbyL9MUpuEWnghm19gF6dp8Vriw=s60",
+  "background": "rgba(78,0,0,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Vue.js devtools",
+  "desc": "Browser DevTools extension for debugging Vue.js applications.",
+  "link": "https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd",
+  "logo": "https://lh3.googleusercontent.com/Lu_6rc-5upC8g1v-SIBrYwQ8a-1blC81ZLSQss66IpTZ2_sinL7fP2ielWj3znVoIEtobNo-jlI39IV-7qnEvJWZb9A=s60",
+  "background": "rgba(65,184,131,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "React Developer Tools",
+  "desc": "Adds React debugging tools to the Chrome Developer Tools.",
+  "link": "https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi",
+  "logo": "https://lh3.googleusercontent.com/TNijZW_Gp9MZ3eqXkve0YWDEiHV-a2IpSpD6IJzrV3Y76GJcLEyzX2regTLemXzBHbHVqkKuxnnWDT34Cp4sNh-Y=s60",
+  "background": "rgba(97,218,251,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Sitemod.io",
+  "desc": "Sitemod lets anybody modify a website without having access to the source code and get a shareable link to the modified website.",
+  "link": "https://chromewebstore.google.com/detail/sitemodio/efjbaneaebkanjmhengnedpllfdiocin",
+  "logo": "https://lh3.googleusercontent.com/HF-Gq6fYn1glPRFwjVW8MdgdhColFBtDSagYmqateuswH3t4qlqDm1hG74KCpiS_5_lujoG6-7eZttDhYuRaXvzgmQ=s60",
+  "background": "rgba(31,31,31,0.2)"
 }
 ```
 

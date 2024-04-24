@@ -2195,7 +2195,7 @@
     "topics": []
   }, {
     "repo": "continuedev/continue",
-    "desc": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
+    "desc": "⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system",
     "officialSite": "https://continue.dev/docs",
     "topics": ["ai", "chatgpt", "copilot", "developer-tools", "intellij", "jetbrains", "llm", "open-source", "openai", "pycharm", "software-development", "visual-studio-code", "vscode"]
   }, {

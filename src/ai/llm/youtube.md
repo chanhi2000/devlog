@@ -40,5 +40,7 @@ tag:
 <MyYouTubeItems jsonName="yu-aipapersacademy" /><!-- AI Papers Academy -->
 <MyYouTubeItems jsonName="yu-SupportVectors" /><!-- SupportVectors -->
 <MyYouTubeItems jsonName="yu-MahlerLab" /><!-- 말러랩 -->
+<MyYouTubeItems jsonName="yu-deployingai" /><!-- Deploying AI -->
+<MyYouTubeItems jsonName="yu-TimCarambat" /><!-- Tim Carambat -->
 
 <TagLinks/>

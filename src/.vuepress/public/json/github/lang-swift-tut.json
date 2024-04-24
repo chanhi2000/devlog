@@ -44,5 +44,10 @@
     "desc": "Practical solutions to problems with Swift Concurrency",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "kotlin-hands-on/kotlin-swift-interopedia",
+    "desc": "Kotlin Swift Interopedia",
+    "officialSite": "",
+    "topics": ["interoperability", "kotlin", "swift"]
   }
 ]

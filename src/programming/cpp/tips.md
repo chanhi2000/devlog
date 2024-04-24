@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Tips
-description: Cpp > Tips
+description: C++ > Tips
 icon: fas fa-lightbulb
 category: 
-  - Cpp
+  - C++
   - Tips
 tag: 
   - cpp

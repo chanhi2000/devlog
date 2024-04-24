@@ -1,14 +1,16 @@
 ---
 lang: ko-KR
-title: 🦄Solidity
-description: 🦄Solidity
+title: Solidity
+description: Solidity
+icon: iconfont icon-solidity
 category:
-  - 🦄Solidity
+  - Solidity
+tag:
+  - solidity
+  - sol
 ---
 
 # {{ $frontmatter.description }} 관련
-
-
 
 <ShieldsGroup logos="solidity"/>
 

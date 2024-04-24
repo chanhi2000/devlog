@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Cpp > Youtube
+description: C++ > Youtube
 icon: fa-brands fa-youtube
 category:
-  - Cpp 
+  - C++ 
   - Youtube
 tag: 
   - cpp

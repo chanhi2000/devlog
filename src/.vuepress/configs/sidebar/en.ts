@@ -9,16 +9,6 @@ export const sidebarEn = sidebar({
     },
     //region: api
     {
-      text: 'API - Kakao',
-      collapsible: true,
-      icon: 'iconfont icon-kakao',
-      children: [
-        '/programming/api-kakao/README.md',
-        '/programming/api-kakao/local.md',
-        '/programming/api-kakao/push.md',
-        '/programming/api-kakao/references.md'
-      ]
-    }, {
       text: 'Shell',
       collapsible: true,
       icon: 'iconfont icon-shell',
@@ -612,7 +602,14 @@ export const sidebarEn = sidebar({
                 '/explore/articles/devtoolstips.org/highlight-elements-from-selector.md',
                 '/explore/articles/devtoolstips.org/find-rule-that-causes-style.md',
               ]
-            },
+            }, {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/311.md',
+              ]
+            }
           ]
         }
       ]
@@ -744,7 +741,7 @@ export const sidebarEn = sidebar({
         '/programming/c/youtube.md',
       ]
     }, {
-      text: 'Cpp',
+      text: 'C++',
       collapsible: true,
       icon: 'iconfont icon-cpp',
       children: [
@@ -764,6 +761,16 @@ export const sidebarEn = sidebar({
         '/programming/zig/references.md',
         '/programming/zig/github.md',
         '/programming/zig/youtube.md',
+      ]
+    }, {
+      text: 'Solidity',
+      collapsible: true,
+      icon: 'iconfont icon-solidity',
+      children: [
+        '/programming/solidity/README.md',
+        '/programming/solidity/references.md',
+        '/programming/solidity/github.md',
+        '/programming/solidity/youtube.md',
       ]
     }, {
       text: 'LaTeX',
@@ -987,6 +994,24 @@ export const sidebarEn = sidebar({
         '/tool/wireshark/references.md',
         '/tool/wireshark/youtube.md',
       ]
+    }, {
+      text: 'Tableau',
+      collapsible: true,
+      icon: 'iconfont icon-tableau',
+      children: [
+        '/tool/tableau/README.md',
+        '/tool/tableau/references.md',
+        '/tool/tableau/youtube.md',
+      ]
+    }, {
+      text: 'Airtable',
+      collapsible: true,
+      icon: 'iconfont icon-airtable',
+      children: [
+        '/tool/airtable/README.md',
+        '/tool/airtable/references.md',
+        '/tool/airtable/youtube.md',
+      ]
     }
   ],
   '/devops/': [
@@ -1066,6 +1091,16 @@ export const sidebarEn = sidebar({
         '/devops/linux-fedora/env-setup.md',
         '/devops/linux-fedora/references.md',
         '/devops/linux-fedora/youtube.md',
+      ]
+    }, {
+      text: 'Linux - NixOS',
+      collapsible: true,
+      icon: 'iconfont icon-nixos',
+      children: [
+        '/devops/linux-nixos/README.md',
+        '/devops/linux-nixos/env-setup.md',
+        '/devops/linux-nixos/references.md',
+        '/devops/linux-nixos/youtube.md',
       ]
     }, {
       text: 'Proxmox',
@@ -1227,6 +1262,15 @@ export const sidebarEn = sidebar({
         '/devops/azure/youtube.md',
       ]
     }, {
+      text: 'OCI',
+      collapsible: true,
+      icon: 'iconfont icon-oci',
+      children: [
+        '/devops/oci/README.md',
+        '/devops/oci/references.md',
+        '/devops/oci/youtube.md',
+      ]
+    }, {
       text: 'NCloud',
       collapsible: true,
       icon: 'iconfont icon-naver',
@@ -1331,85 +1375,98 @@ export const sidebarEn = sidebar({
       ]
     }, 
     //endregion
-    //region: DB
+  ], '/data-science/': [
     {
+      text: 'Data Science',
+      icon: 'fas fa-database',
+      children: [ '/data-science/README.md' ],
+    }, {
       text: 'MySQL',
       collapsible: true,
       icon: 'iconfont icon-mysql',
       children: [
-        '/devops/mysql/README.md',
-        '/devops/mysql/query.md',
-        '/devops/mysql/references.md',
-        '/devops/mysql/youtube.md',
+        '/data-science/mysql/README.md',
+        '/data-science/mysql/query.md',
+        '/data-science/mysql/references.md',
+        '/data-science/mysql/youtube.md',
       ]
     }, {
       text: 'Oracle SQL',
       collapsible: true,
       icon: 'iconfont icon-oracle',
       children: [
-        '/devops/oracle/README.md',
-        '/devops/oracle/query.md',
-        '/devops/oracle/references.md',
-        '/devops/oracle/youtube.md',
+        '/data-science/oracle/README.md',
+        '/data-science/oracle/query.md',
+        '/data-science/oracle/references.md',
+        '/data-science/oracle/youtube.md',
       ]
     }, {
       text: 'Microsoft SQL Server',
       collapsible: true,
       icon: 'iconfont icon-sqlserver',
       children: [
-        '/devops/mssql/README.md',
-        '/devops/mssql/query.md',
-        '/devops/mssql/references.md',
-        '/devops/mssql/youtube.md',
+        '/data-science/mssql/README.md',
+        '/data-science/mssql/query.md',
+        '/data-science/mssql/references.md',
+        '/data-science/mssql/youtube.md',
       ]
     }, {
       text: 'Cubrid',
       collapsible: true,
       icon: 'iconfont icon-cubrid',
       children: [
-        '/devops/cubrid/README.md',
-        '/devops/cubrid/cli.md',
-        '/devops/cubrid/query.md',
-        '/devops/cubrid/docker.md',
-        '/devops/cubrid/references.md',
+        '/data-science/cubrid/README.md',
+        '/data-science/cubrid/cli.md',
+        '/data-science/cubrid/query.md',
+        '/data-science/cubrid/docker.md',
+        '/data-science/cubrid/references.md',
       ]
     }, {
       text: 'PostgreSQL',
       collapsible: true,
       icon: 'iconfont icon-postgresql',
       children: [
-        '/devops/postgres/README.md',
-        '/devops/postgres/query.md',
-        '/devops/postgres/references.md',
-        '/devops/postgres/youtube.md',
+        '/data-science/postgres/README.md',
+        '/data-science/postgres/query.md',
+        '/data-science/postgres/references.md',
+        '/data-science/postgres/youtube.md',
+      ]
+    }, {
+      text: 'MongoDB',
+      collapsible: true,
+      icon: 'iconfont icon-mongodb',
+      children: [
+        '/data-science/mongodb/README.md',
+        // '/data-science/mongodb/query.md',
+        '/data-science/mongodb/references.md',
+        '/data-science/mongodb/youtube.md',
       ]
     }, {
       text: '🪳Cockroach',
       collapsible: true,
       children: [
-        '/devops/cockroach/README.md',
-        '/devops/cockroach/query.md',
-        '/devops/cockroach/references.md',
+        '/data-science/cockroach/README.md',
+        '/data-science/cockroach/query.md',
+        '/data-science/cockroach/references.md',
       ]
     }, {
       text: 'Altibase',
       collapsible: true,
       icon: 'iconfont icon-altibase',
     children: [
-        '/devops/altibase/README.md',
-        '/devops/altibase/query.md',
-        '/devops/altibase/references.md',
+        '/data-science/altibase/README.md',
+        '/data-science/altibase/query.md',
+        '/data-science/altibase/references.md',
       ]
     }, {
       text: 'Tibero',
       collapsible: true,
-      icon: 'fas fa-magnifying-glass',
+      icon: 'fas fa-t',
       children: [
-        '/devops/tibero/README.md',
-        '/devops/tibero/tibero.md',
+        '/data-science/tibero/README.md',
+        '/data-science/tibero/query.md',
       ]
     },
-    //endregion
   ], '/ai/': [
     {
       text: 'AI',
@@ -1491,14 +1548,48 @@ export const sidebarEn = sidebar({
     {
       text: 'Explore',
       icon: 'fas fa-globe',
-      children: [ '/explore/README.md' ],
+      children: [ 
+        '/explore/README.md',
+        '/explore/newsletter.md',
+        '/explore/apis.md',
+      ],
     }, {
-      text: 'Newsletter',
+      text: 'Public API',
       collapsible: true,
-      icon: 'fas fa-rss',
+      icon: 'iconfont icon-api',
       children: [
-        '/explore/newsletter/README.md',
-        '/explore/newsletter/data-science.md',
+        {
+          text: 'Kakao',
+          collapsible: true,
+          icon: 'iconfont icon-kakao',
+          children: [
+            '/explore/api/kakao/README.md',
+            '/explore/api/kakao/local.md',
+            '/explore/api/kakao/push.md',
+            '/explore/api/kakao/references.md'
+          ]
+        },
+        '/explore/api/list.md',
+        '/explore/api/popular.md',
+      ],
+    }, {
+      text: 'Youtube',
+      collapsible: true,
+      icon: 'fa-brands fa-youtube',
+      children: [
+        '/explore/youtube/README.md',
+        '/explore/youtube/watch-later.md',
+        '/explore/youtube/watch-later-tutorial.md',
+        '/explore/youtube/watch-later-keynote.md',
+        '/explore/youtube/edu-compsci.md',
+      ]
+    }, {
+      text: 'Devlog',
+      collapsible: true,
+      icon: 'fas fa-timeline',
+      children: [
+        '/explore/devlog/README.md',
+        '/explore/devlog/list.md',
       ]
     }, {
       text: 'Article(s)',
@@ -1669,36 +1760,9 @@ export const sidebarEn = sidebar({
             '/explore/articles/meetup.nhncloud.com/53.md',
             '/explore/articles/meetup.nhncloud.com/54.md',
             '/explore/articles/meetup.nhncloud.com/55.md',
+            '/explore/articles/meetup.nhncloud.com/311.md',
           ]
         }
-      ]
-    }, {
-      text: 'Youtube',
-      collapsible: true,
-      icon: 'fa-brands fa-youtube',
-      children: [
-        '/explore/youtube/README.md',
-        '/explore/youtube/watch-later.md',
-        '/explore/youtube/watch-later-tutorial.md',
-        '/explore/youtube/watch-later-keynote.md',
-        '/explore/youtube/edu-compsci.md',
-      ]
-    }, {
-      text: 'Public API',
-      collapsible: true,
-      icon: 'iconfont icon-api',
-      children: [
-        '/explore/api/README.md',
-        '/explore/api/list.md',
-        '/explore/api/popular.md',
-      ],
-    }, {
-      text: 'Devlog',
-      collapsible: true,
-      icon: 'fas fa-timeline',
-      children: [
-        '/explore/devlog/README.md',
-        '/explore/devlog/list.md',
       ]
     }, {
       text: 'Career',

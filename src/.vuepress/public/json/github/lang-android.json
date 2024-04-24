@@ -259,5 +259,80 @@
     "desc": "Mistral AI SDK for Kotlin Multiplatform (KMP) with support for Android, iOS, Desktop and Wasm. Sample projects to show the Mistral AI capabilities.",
     "officialSite": "https://oleur.github.io/mistral-ai-kmp/",
     "topics": []
+  }, {
+    "repo": "PatilShreyas/generative-ai-kmp",
+    "desc": "✨Generative AI SDK for Kotlin Multiplatform (Supports: JVM, Android, iOS, Desktop, Web JS, Wasm)",
+    "officialSite": "",
+    "topics": ["android", "desktop", "gemini", "generative-ai", "ios", "javascript", "js", "kmp", "kotlin", "kotlin-library", "kotlin-multiplatform", "web"]
+  }, {
+    "repo": "PatilShreyas/ChaKt-KMP",
+    "desc": "✨ChaKt - A multiplatform chat-prompt based app for Android, iOS, Desktop, Web. Powered by Google's Gemini API  (with Generative AI Multiplatform SDK)",
+    "officialSite": "https://patilshreyas.github.io/ChaKt-KMP",
+    "topics": ["ai", "android", "artificial-intelligence", "chat", "desktop", "gemini", "generative-ai", "ios", "jvm", "kotlin", "kotlin-multiplatform", "linux", "macos", "sample", "windows"]
+  }, {
+    "repo": "ibenabdallah/the-movie-db",
+    "desc": "The Movie BD : Android 📱, iOS 📱 and wearOS ⌚ application built with Kotlin Multiplatform, Compose Multiplatform with MVVM, Clean Architecture recommended by Google",
+    "officialSite": "https://ibenabdallah.github.io/",
+    "topics": ["android", "clean-architecture", "coil3", "compose-multiplatform", "courotines", "flow", "ios", "jetpack-compose", "koin", "koin-kotlin", "kotlin-multiplatform", "ktor", "wearos"]
+  }, {
+    "repo": "SergeiMikhailovskii/kmp-app-review",
+    "desc": "KMP implementation of in-app review",
+    "officialSite": "",
+    "topics": ["in-app-review", "kmp-library", "kotlin"]
+  }, {
+    "repo": "saket/squiggly-slider",
+    "desc": "Squiggly slider, inspired by Android 13's media player notification.",
+    "officialSite": "",
+    "topics": ["compose", "slider", "squiggles", "wave", "wavy"]
+  }, {
+    "repo": "Wavesonics/SymSpellKt",
+    "desc": "A Kotlin Multiplatform implementation of the SymSpell algorithm.",
+    "officialSite": "",
+    "topics": ["kotlin", "kotlin-multiplatform", "spellcheck", "spelling", "spelling-correction"]
+  }, {
+    "repo": "Kashif-E/SolarEclipse",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "swapnil-musale/KDeviceInfo",
+    "desc": "Multiplatform Library for accessing DeviceInfo",
+    "officialSite": "",
+    "topics": ["android", "compose-multiplatform-library", "device-info", "ios", "kdeviceinfo", "kmp", "kotlin-multiplatform"]
+  }, {
+    "repo": "alejandro-rios/Boggle-Multiplatform",
+    "desc": "A simple Boggle game App using Kotlin and Compose Multiplatform for Android, iOS, Desktop and Web",
+    "officialSite": "https://alejandro-rios.github.io/Boggle-Multiplatform",
+    "topics": ["android", "compose-multiplatform", "desktop", "ios", "js", "kotlin", "kotlin-multiplatform"]
+  }, {
+    "repo": "kevincianfarini/monarch",
+    "desc": "Multiplatform, multi module, type safe feature flagging. ",
+    "officialSite": "https://kevincianfarini.github.io/monarch/docs/0.x/",
+    "topics": []
+  }, {
+    "repo": "ismai117/DroidJobsKMP",
+    "desc": "DroidJobsKMP: Your Android job finder built using Kotlin Multiplatform, Compose, Ktor, Koin, Androidx ViewModel, Androidx Navigation, and Material 3",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "wizbii/CinematicJourney",
+    "desc": "Track your cinematic journey through interconnected movies",
+    "officialSite": "",
+    "topics": ["compose-multiplatform", "decompose", "kotlin", "kotlin-multiplatform"]
+  }, {
+    "repo": "arkivanov/Minesweeper",
+    "desc": "Minesweeper game implemented in Kotlin and Compose Multiplatform",
+    "officialSite": "https://arkivanov.github.io/Minesweeper/",
+    "topics": []
+  }, {
+    "repo": "mr3y-the-programmer/Podcaster",
+    "desc": "🎧 Podcast listening app. Showcase of using Jetpack Media 3 in a real, offline-first app",
+    "officialSite": "https://play.google.com/store/apps/details?id=com.mr3y.podcaster",
+    "topics": ["jetpack-compose", "kotlin", "material-design-3", "media3-exoplayer", "podcastindex", "sqldelight"]
+  }, {
+    "repo": "mahozad/wavy-slider",
+    "desc": "Multiplatform wavy slider/progress bar similar to the one in Android 13",
+    "officialSite": "https://mahozad.ir/wavy-slider",
+    "topics": ["android", "compose-multiplatform", "jetpack", "jetpack-compose", "kotlin", "kotlin-multiplatform", "kotlin-multiplatform-sample", "material", "material-design", "material-you", "material3", "progress-bar", "sine-wave", "slider", "wavy-slider"]
   }
 ]

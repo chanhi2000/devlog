@@ -12,12 +12,18 @@ projects:
   - name: Projects
     link: /projects/
     icon: fas fa-industry
+  - name: Academics
+    link: /academics/
+    icon: fas fa-graduation-cap
   - name: Programming
     link: /programming/
     icon: fas fa-keyboard
   - name: DevOps
     link: /devops/
     icon: fas fa-network-wired
+  - name: Data Science
+    link: /data-science/
+    icon: fas fa-database
   - name: Tool
     link: /tool/
     icon: fas fa-screwdriver-wrench

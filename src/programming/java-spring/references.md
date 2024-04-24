@@ -30,13 +30,13 @@ head:
 
 ---
 
-## 인프런
+## <FontIcon icon="fa-brands fa-java"/>Java
+
+### 인프런
 
 - [테스트 도중 에러 발생](https://www.inflearn.com/questions/15495/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%A4%91-%EC%97%90%EB%9F%AC-%EB%B0%9C%EC%83%9D)
 
----
-
-## velog
+### velog
 
 - [`@u-nij`: Spring Boot + React.js 개발환경 연동하기](https://velog.io/@u-nij/Spring-Boot-React.js-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85)
 - [`@Ramos.log`: Spring Boot에서의 Test 어노테이션](https://velog.io/@songs4805/Spring-Boot%EC%97%90%EC%84%9C%EC%9D%98-Test-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98)
@@ -49,36 +49,26 @@ head:
 - [`@qkrtkdwns3410` - [Websocket] @MessageMapping 이란](https://velog.io/@qkrtkdwns3410/Websocket-MessageMapping-%EC%9D%B4%EB%9E%80)
 - [`@qkrtkdwns3410` - Spring-open-in-view 속성](https://velog.io/@qkrtkdwns3410/Spring-open-in-view-%EC%86%8D%EC%84%B1)
 
----
-
-## Heee's Development Blog
+### Heee's Development Blog
 
 - [[Annotation] `@WebServlet`](https://gmlwjd9405.github.io/2018/12/22/webservlet-annotation.html)
 
----
-
-## DEVLOG
+### DEVLOG
 
 - [서블릿 구현 및 실행 (`web.xml`, `@WebServlet` 설정)](https://kgvovc.tistory.com/29)
 
----
-
-## 비탐인
+### 비탐인
 
 - [Spring Test 수행 중 나는 XML parsing 오류 하나.  소프트웨어 개발](https://blog.naver.com/anabaral/130041099653)
 >
 > Spring 에서 설정 파일 읽어들일 때 이런 에러를 만날 때가 있다.
 > `javax.xml.parsers.ParserConfigurationException`: Unable to validate using XSD: Your JAXP provider [org.apache.crimson.jaxp.DocumentBuilderFactoryImpl@131f71a] does not support XML Schema. Are you running on Java 1.4 or below with Apache Crimson? Upgrade to Apache Xerces (or Java 1.5) for full XSD support.
 
----
-
-## Catsbi's DLog
+### Catsbi's DLog
 
 - [Spring Boot 테스트 애노테이션](https://catsbi.oopy.io/e2fa9884-eb59-4f79-8732-6e3e14e456fd)
 
----
-
-## Seungdols Company
+### Seungdols Company
 
 - [스프링 핵심 원리 기본편 강의 - 싱글톤](https://seungdols.tistory.com/1012)
 - [스프링 핵심 원리 기본편 강의 - 스프링](https://seungdols.tistory.com/1013)
@@ -86,42 +76,38 @@ head:
 - [스프링 핵심 원리 기본편 강의 - Bean Definition](https://seungdols.tistory.com/1015)
 - [스프링 핵심 원리 기본편 강의 - `ComponentScan`과 의존 관계 자동 주입](https://seungdols.tistory.com/1016)
 
----
-
-## 기계인간 John Grib 
+### 기계인간 John Grib 
 
 - [릴리즈 트레인 (Release Train)](https://johngrib.github.io/wiki/spring/cloud/release-train/)
 
----
-
-## Toby's Epril
+### Toby's Epril
 
 - [테스트가 관리하는 트랜잭션 - 향로 님의 `@Transactional` 글을 읽고](https://toby.epril.com/8)
 
----
-
-## 데엔잘하고싶은데엔🔥💎
+### 데엔잘하고싶은데엔🔥💎
 
 - [Spring Boot Actuator로 메모리 이슈 모니터링하기](http://checkout.secomps.co.kr/block?Culture=1042)
 
----
-
-## Enthusiastically, Steady, Slowly
+### Enthusiastically, Steady, Slowly
 
 - [[숫자야구게임 Step 1] 비지니스 로직을 작성하자.](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step-1-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90)
 - [[숫자야구게임 Step1] 실제 애플리케이션이 동작할 코드를 작성하자 & 마무리](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step1-%EC%8B%A4%EC%A0%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%A0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%A7%88%EB%AC%B4%EB%A6%AC)
 
----
-
-## Octoping
+### Octoping
 
 - [[번역] Spring Topical Guides - Spring Boot Docker](https://octoping.tistory.com/58)
 
----
-
-## 강준현
+### 강준현
 
 - [Chain of Responsibility Pattern](https://junhyunny.github.io/design-pattern/chain-of-responsibility-pattern/)
+
+---
+
+## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+
+### Kt.academy
+
+- [Why Non-Blocking](https://kt.academy/article/nonblocking_spring_mvc)
 
 ---
 

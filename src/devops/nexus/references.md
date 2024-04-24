@@ -1,0 +1,27 @@
+---
+lang: ko-KR
+title: References
+description: Nexus Repository > References
+icon: iconfont icon-share
+category:
+  - Nexus Repository
+  - References 
+tag: 
+  - nexus
+  - sonatype-nexus
+  - kotlin
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+## Medium
+
+- [`vivienmahe` - How to publish your Kotlin Multiplatform library on Maven Central](https://vivienmahe.medium.com/how-to-publish-your-kotlin-multiplatform-library-on-maven-central-5340deff7ee5)
+
+---
+
+<TagLinks />

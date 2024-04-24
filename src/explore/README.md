@@ -11,8 +11,6 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
----
-
 ::: tabs
 
 @tab Curated
@@ -404,6 +402,8 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "background": "rgba(255,255,255,0.2)"
 }
 ```
+
+https://exercism.org/
 
 @tab Portfolio / Cool Project
 

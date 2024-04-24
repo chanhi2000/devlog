@@ -141,5 +141,33 @@
     { "id": "V5EDE5CNKvc", "title": "Weather App Using SwiftUI - Part 2 (Decoding JSON)" }, 
     { "id": "R9Bk8u4SesY", "title": "NEW COURSE - Server Side Swift Using Vapor 4" }, 
     { "id": "ZEmsgQj5OWI", "title": "NEW COURSE:  Build Real-Time Chat App with SwiftUI & Firebase" }
+  ],
+  "playlists": [
+    {
+      "title": "Building Reminders App Clone in Core Data & SwiftUI",
+      "videos": [
+        { "id": "dJPUIW9Shyc", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 1" },
+        { "id": "beYyj2OgW0A", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 2" },
+        { "id": "6Yh-8nLTs8Q", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 3" },
+        { "id": "844IYX3elL8", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 4" },
+        { "id": "GBiJWqxNtLU", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 5" },
+        { "id": "4qPMH--Rros", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 6" },
+        { "id": "-28abKLQE1s", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 7" },
+        { "id": "hFmnpEEN73Y", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 8" },
+        { "id": "YwRC8ZOnL0I", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 9" },
+        { "id": "c19e6Pd4UeU", "title": "Changing Reminder List (Implementing SelectListView) - Part 10" },
+        { "id": "_Sg5pysE9zY", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 11" },
+        { "id": "WFKKWsodAfg", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 12" },
+        { "id": "6sConVhtbnQ", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 13" },
+        { "id": "YP0gmEXSmSU", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 14" },
+        { "id": "-qGTnOgRuJc", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 15" },
+        { "id": "tq0BvLTMoUw", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 16" },
+        { "id": "VkGcLIVvY94", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 17" },
+        { "id": "YkPA0xoBuv4", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 18" },
+        { "id": "B_YMg-qM3wM", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 19" },
+        { "id": "zWNPKJh2Gso", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 20" },
+        { "id": "Vg_GcPfh6YY", "title": "Building Reminders App Clone in Core Data and SwiftUI - Part 21"  }
+      ]
+    }
   ]
 }

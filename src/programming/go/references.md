@@ -192,4 +192,8 @@ tag:
 
 ---
 
+## Turing
+
+- [Golang interview questions and answers in 2024](https://www.turing.com/interview-questions/golang)
+
 <TagLinks />

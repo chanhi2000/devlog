@@ -45,4 +45,16 @@ tag:
 
 ---
 
+## Rhonabwy
+
+- [Embedding a privacy manifest into an XCFramework](https://rhonabwy.com/2024/02/18/embedding-a-privacy-manifest-into-an-xcframework/)
+
+---
+
+## Bryce Pauken
+
+- [Modding Plugins back into Xcode](https://bryce.co/xcode-plugin-loader/)
+
+---
+
 <TagLinks />

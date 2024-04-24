@@ -7,7 +7,11 @@ category:
   - Linux 
   - Fedora
   - Environment Setup
-tag: 
+tag:
+  - linux
+  - redhat
+  - centos
+  - yum
   - sh
   - bash
   - zsh

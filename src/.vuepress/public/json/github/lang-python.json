@@ -4071,9 +4071,9 @@
     "topics": []
   }, {
     "repo": "phidatahq/phidata",
-    "desc": "Build AI Assistants using function calling",
+    "desc": "Add memory, knowledge and tools to LLMs",
     "officialSite": "https://docs.phidata.com",
-    "topics": ["ai", "aws", "data-engineering", "developer-tools", "docker", "gpt-4", "llm", "llmops", "python"]
+    "topics": ["ai", "aws", "developer-tools", "gpt-4", "llm", "llmops", "python"]
   }, {
     "repo": "ncbi/GeneGPT",
     "desc": "Code and data for GeneGPT.",
@@ -4944,5 +4944,15 @@
     "desc": "structured outputs for llms ",
     "officialSite": "https://python.useinstructor.com/",
     "topics": ["openai", "openai-function-calli", "openai-functions", "pydantic-v2", "python", "validation"]
+  }, {
+    "repo": "apple/corenet",
+    "desc": "CoreNet: A library for training deep neural networks",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Snowflake-Labs/snowflake-arctic",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

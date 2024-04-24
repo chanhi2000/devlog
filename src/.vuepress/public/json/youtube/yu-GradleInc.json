@@ -112,6 +112,51 @@
     { "id": "0hQ-6cJv1R8", "title": "DevProdEng Showdown! S2E5: Developer Experience at Scale" }, 
     { "id": "KN-_q3ss4l0", "title": "Getting Started with the Gradle Kotlin DSL" }, 
     { "id": "HrBKDmmKkaU", "title": "Converting Gradle build files to Kotlin with IntelliJ IDEA" } 
+  ],
+  "playlists": [
+    {
+      "title": "Developer Productivity Engineering Summit 2023",
+      "videos": [
+        { "id": "jO2kh3fnTv0", "title": "Developer Productivity Engineering: Your Unfair Competitive Advantage" },
+        { "id": "iQJsazMiOVg", "title": "Laziness at Scale" },
+        { "id": "7yHPZWfDhfQ", "title": "Don’t Let Ephemeral CI Kill Your Developer Productivity" },
+        { "id": "oMIzKVxUNAE", "title": "Accelerating Builds with Buck2" },
+        { "id": "a9GgBC8JZUo", "title": "Developer Productivity Teams: Unleashing Potential for Better, Faster, Stronger Results" },
+        { "id": "FZrhHgor4NE", "title": "Developer Productivity Engineering in the Complex Low-Level Systems World" },
+        { "id": "jZTJzKozims", "title": "Optimizing Mobile Release Train Schedule and Speed for Faster Feature Arrival" },
+        { "id": "bFD1vTwoDow", "title": "Shaping the Future of Developer Productivity with Backstage" },
+        { "id": "zQ5e3B5I-U0", "title": "From Myth to Legend: How Generative AI can Supercharge Productivity to Create 10x Developers" },
+        { "id": "WKaSfnUl2Vo", "title": "Achieving the Promised 3x-10x Bazel Speedup" },
+        { "id": "8wiDCne8La0", "title": "Behind the Scenes of Productivity Metrics at LinkedIn" },
+        { "id": "-rsw67d_sAo", "title": "Keynote: How to Make Your Developers Unproductive and Unhappy" },
+        { "id": "0vCCDbuqct4", "title": "CI Acceleration at Scale: A JPMC Success Story" },
+        { "id": "aJE6O5r0j7Y", "title": "Unlocking High-Velocity Development Strategies, Tactics, and Metrics" },
+        { "id": "27x1gRAPjws", "title": "Transforming Developer Productivity: Airbnb's Triumphs and Trials with a Dose of AI Disruption" },
+        { "id": "p5IiHLZtzBs", "title": "Embracing DORA Metrics: The Airbnb Journey Towards Enhanced Developer Productivity" },
+        { "id": "61KOVqO1bDA", "title": "Lessons in Tackling the IDE Performance" },
+        { "id": "aSvidgk4vgc", "title": "Releasing Faster with Kotlin Multiplatform" },
+        { "id": "j20SKXiPsnM", "title": "Building a Gradle-based Monorepo for Kotlin Backends" },
+        { "id": "f97ekWmEQyk", "title": "Conversational and Contextual Observability" },
+        { "id": "3zDXp9xLu3w", "title": "Unleashing Team Engagement for Enhanced Developer Productivity" },
+        { "id": "Fy-9ndp2nfg", "title": "Customer Success for Tooling" },
+        { "id": "eQPEPdvs_zg", "title": "Balancing Speed and Reliability: The Double-Edged Sword of Third-Party Libraries" },
+        { "id": "kmjen_Rb_LM", "title": "DevProd for CI Maintainers" },
+        { "id": "1GzBg4iGK6w", "title": "Automated Detection and Reporting of Build Cache Misses" },
+        { "id": "AtsXuz2qcI4", "title": "Unlocking Build Analytics: iFood’s Journey with the Gradle Enterprise API" },
+        { "id": "vdbPcl6RxAI", "title": "Codebase Growth and the Developer Productivity Impact" },
+        { "id": "_kV7fUVGz9E", "title": "AI + Engineering = Magic at Airbnb" },
+        { "id": "ZwqvKS7U4y4", "title": "Build Health and Velocity Score: How Pinterest Tracks the State of Builds" },
+        { "id": "oy6wht5izuA", "title": "DevProdEng Showdown! S3E2: Live at DPE Summit 2023" },
+        { "id": "MXEAHdd372s", "title": "We're Measuring Productivity Wrong" },
+        { "id": "YuQVld4ppGY", "title": "More Effective Testing on Android Devices" },
+        { "id": "xCBlaTSB5lI", "title": "Developing at Uber Scale" },
+        { "id": "JJOtvw1HJag", "title": "Moving Fast While Delivering High Quality Code" },
+        { "id": "EwFicsmbl_A", "title": "How Improving the Testing Experience Goes Beyond Quality: A Developer Productivity Point of View" },
+        { "id": "lwX7bzhVBBQ", "title": "An Opinionated View on Metrics Informed Development" },
+        { "id": "rpf-V7eSdoE", "title": "Android CI at Scale" },
+        { "id": "glf4T9G1LXM", "title": "The Dependency Graph" }
+      ]
+    }
   ]
 }
 

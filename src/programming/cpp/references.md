@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: References
-description: Cpp > References
+description: C++ > References
 icon: iconfont icon-share
 category:
-  - Cpp 
+  - C++ 
   - References
 tag: 
   - cpp

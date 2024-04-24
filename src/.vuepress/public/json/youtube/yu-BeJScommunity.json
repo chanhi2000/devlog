@@ -16,6 +16,24 @@
   ],
   "playlists": [
     {
+      "title": "React Paris 24",
+      "videos": [
+        { "id": "EB6dJTx9t54", "title": "Una kravets -  Better, Faster, Stronger Web UI" },
+        { "id": "AjOd90mXwLo", "title": "Yu Ling Cheng - Travel Story: Building a Design System Without a Dedicated Team" },
+        { "id": "5MZbkow5U8o", "title": "Tejas Kumar - I Wrote a Book on React—Things You Should Know" },
+        { "id": "EpXSc31CUUw", "title": "Steven Fabre - React Components as a Service" },
+        { "id": "7xiogNj9_3s", "title": "Nico Martin - From useML To useLLM: On Device AI In The Browser" },
+        { "id": "1Xplez2KRaI", "title": "Kawtar Choubari - Partial Prerendering Hype or Innovation?" },
+        { "id": "-Bff89trNnE", "title": "Josh W. Comeau - CSS in React Server Components" },
+        { "id": "UdDoLty4Ho0", "title": "Atila Fassina - Fine Solid Patterns" },
+        { "id": "7JRa9S4aEEI", "title": "Anthony Fu - Anthony's Roads to Open Source - The Set Theory" },
+        { "id": "Slj900oLNAU", "title": "Aleksandra sikora - Typescript powered backend essentials for Frontend developers" },
+        { "id": "V0rRu7cevR0", "title": "Aurora Walberg Scharff - Enhancing Forms with React Server Components" },
+        { "id": "T-TRYLNCRYQ", "title": "Nicolas Beaussart-Hatchuel - Codebase Conquest: How Nx Turbocharged Our React Workflow" },
+        { "id": "E_0f6GE146k", "title": "Shaundai Person - Lag? What Lag? How Remix Makes Your App Feel Faster than the Internet" },
+        { "id": "NN3b01vFXJ4", "title": "React Paris Aftermovie" }
+      ]
+    }, {
       "title": "React Brussels 2023",
       "videos": [
         { "id": "a1FXE7-UD7k", "title": "The Mystery of React Renders - Aashima Ahuja" },

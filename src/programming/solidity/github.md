@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Github
-description: 🦄Solidity > Github
+description: Solidity > Github
 icon: fa-brands fa-github
 category: 
-  - 🦄Solidity
+  - Solidity
   - Github
 tag: 
   - git

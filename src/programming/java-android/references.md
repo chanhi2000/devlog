@@ -61,7 +61,7 @@ tag:
 - [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
 - [New Way Handle State, Event With Sealed Classes in Android](https://medium.com/swlh/new-way-handle-state-event-in-android-with-sealed-classes-75ad63560574)
 - [Decorator pattern in Android Development](https://medium.com/@denisrebrof/decorator-pattern-in-android-development-5dd1637710fa)
-- [Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
+- [`proandroiddev` - Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
 - [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
 - [Android: CircleImageView Simplified](https://medium.com/swlh/android-circleimageview-simplified-dac935364393)
 - [Android PDF Viewer, Created Library](https://medium.com/@ruddns8213/android-pdf-viewer-created-library-66f169aeb312)
@@ -69,6 +69,22 @@ tag:
 - [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
 - [Run your Appium tests using Docker Android & Genymotion Cloud](https://medium.com/genymobile/run-your-appium-tests-using-docker-android-genymotion-cloud-e4817132ccd8)
 - [How Enums Can Impact the Performance of Android Apps](https://betterprogramming.pub/android-how-enums-can-impact-the-performance-f787ef5903dd)
+- [`proandroiddev` - Seven recipes to understand flows and asynchrony in Kotlin](https://proandroiddev.com/seven-recipes-to-understand-flows-and-asynchrony-in-kotlin-1bd7fe041480)
+- [`proandroiddev` - Tracking Lifecycle changes in Compose Multiplatform: IOS and Android](https://proandroiddev.com/tracking-lifecycle-changes-in-compose-multiplatform-ios-and-android-486005919ec8)
+- [`@mega-blog` - Improving unit test performance in MEGA Android](https://medium.com/@mega-blog/improving-unit-test-performance-in-mega-android-bc9bb650d907)
+- [`proandroiddev` - Leveraging Key-Value Observing (KVO) in Kotlin Multiplatform (KMP) for iOS](https://proandroiddev.com/leveraging-key-value-observing-kvo-in-kotlin-multiplatform-kmp-for-ios-231519e5c1ff)
+- [`proandroiddev` - How to safely update state in your Kotlin apps](https://proandroiddev.com/how-to-safely-update-state-in-your-kotlin-apps-bf51ccebe2ef)
+- [`proandroiddev` - Kotlin / Native —How to use C in Kotlin [Part 1]](https://proandroiddev.com/kotlin-native-how-to-use-c-in-kotlin-part-1-495e3264814a)
+- [`proandroiddev` - How to use Resources in Compose Multiplatform](https://proandroiddev.com/how-to-use-resources-in-compose-multiplatform-77a6552b505d)
+- [`google-developer-experts` - How to add text similarity to your Android applications easily using MediaPipe and Kotlin](https://medium.com/google-developer-experts/how-to-add-text-similarity-to-your-android-applications-easily-using-mediapipe-and-kotlin-571eeab4003c)
+- [`turo-engineering` - Boosting Bazel Adoption on Android With Automation](https://medium.com/turo-engineering/boosting-bazel-adoption-on-android-with-automation-6dc79d298628)
+- [`google-exoplayer` - Trim, Transcode, Concatenate: Your Guide to Media3 Editing Libraries](https://medium.com/google-exoplayer/trim-transcode-concatenate-your-guide-to-media3-editing-libraries-668b4e4c2f97)
+- [`proandroiddev` - State of Dependency Management in Android Studio](https://proandroiddev.com/state-of-dependency-management-in-android-studio-a6ce647315f2)
+- [`proandroiddev` - How to publish your own BoM (Bill of Materials) for Kotlin Multiplatform libraries on Maven Central](https://proandroiddev.com/how-to-publish-your-own-bom-billing-of-materials-for-kotlin-multiplatform-libraries-on-maven-b8dd815aa018)
+- [`proandroiddev` - Migrating to Koin Annotations in a multiplatform project](https://proandroiddev.com/migrating-to-koin-annotations-in-a-multiplatform-project-1e83ba3b5988)
+- [`proandroiddev` - Efficiency Redefined: Making Multimodule Configuration a Breeze in Kotlin Multiplatform Projects with Gradle Convention Plugins](https://vaibhav3011.medium.com/effortless-multimodule-configuration-for-kotlin-multiplatform-projects-with-gradle-convention-8e6593dff1d9)
+- [`@jacobras` - Getting the native iOS look & feel in your Compose Multiplatform app](https://medium.com/@jacobras/getting-the-native-ios-look-feel-in-your-compose-multiplatform-app-33371e6ad362)
+- [`bumble-tech` - Refining Compose API for design systems](https://medium.com/bumble-tech/refining-compose-api-for-design-systems-d652e2c2eac3)
 
 ---
 
@@ -194,6 +210,50 @@ tag:
 ## Pragmatic Pineapple
 
 - [Stress-Free Website Testing for Instagram and Facebook In-App Browsers](https://pragmaticpineapple.com/stress-free-website-testing-for-instagram-and-facebook-in-app-browsers)
+
+---
+
+## stream
+
+- [Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)
+- [Build a Real-Time Zoom Clone with Jetpack Compose](https://getstream.io/blog/zoom-clone-compose/)
+
+---
+
+## appmilla
+
+- [Experimenting with Composable Presenters in Kotlin Multiplatform](https://appmilla.com/latest/experimenting-with-composable-presenters-in-kotlin-multiplatform/)
+
+---
+
+## Shreyas Patil's Blog
+
+- [Capturing composable to a bitmap without losing a state](https://blog.shreyaspatil.dev/capturing-composable-to-a-bitmap-without-losing-a-state)
+
+---
+
+## Darryl Bayliss
+
+- [Playing Simon Says with Gemma-2b and MediaPipe](https://www.darrylbayliss.net/playing-simon-says-with-gemma-and-mediapipe/)
+
+---
+
+## Thought Box
+
+- [From idea to code](https://iurysouza.dev/prototyping-an-ai-app-part-1/)
+- [Sketch, refine, rinse and repeat](https://iurysouza.dev/prototyping-an-ai-app-part-3/)
+
+---
+
+## John O'Reilly
+
+- [Using Amper with Fleet in a Kotlin/Compose Multiplatform project](https://johnoreilly.dev/posts/amper-kmp-climatetrace/)
+
+---
+
+## Funky Muse
+
+- [SQLDelight in Kotlin Multiplatform (KMP)](https://funkymuse.dev/posts/sql-delight-kmp/)
 
 ---
 

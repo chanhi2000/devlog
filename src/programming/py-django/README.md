@@ -15,7 +15,7 @@ category:
 
 ## Table of Contents
 
-<ToCLocal basePath="/devops/cubrid/" />
+<ToCLocal basePath="/data-science/cubrid/" />
 
 ---
 

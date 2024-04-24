@@ -7,8 +7,8 @@ category:
   - Nexus Repository
   - Tips
 tag: 
-  - "nexus"
-  - "sonatype-nexus"
+  - nexus
+  - sonatype-nexus
   - "docker"
   - "http"
   - "maven"

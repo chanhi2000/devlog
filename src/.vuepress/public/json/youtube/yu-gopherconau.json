@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "gopherconau",
+    "name": "GopherConAU",
+    "profile": "https://yt3.googleusercontent.com/2Puxm6HDxfbdGLS952YVC086v1nNaFWCI_hGBiBVSWqWyadPxIiRGUyv29_fUTs9bKFOq9Zwuw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "GopherConAU 2023",
+      "videos": [
+        { "id": "1-o-iJlL4ak", "title": "01. Russ Cox - Go Testing By Example | GopherConAU 2023" },
+        { "id": "kbzfL3vzlR0", "title": "02 - Aysa Matueva - How Go Made a Better Engineer Out of an ex-Barista   | GopherConAU 2023" },
+        { "id": "0w4Px-yR8D8", "title": "03. Axel Wagner - Constraining Complexity in the Generics Design | GopherConAU 2023" },
+        { "id": "zPdpDy3gBfY", "title": "04. Jyotsna Gupta - WebAssembly with Go: Powering the Web with Speed and Efficiency | GopherConAU 23" },
+        { "id": "nks_UMH8EgY", "title": "05. Vladimir Chalupecky - Elements of Gonum for Scientific Computing | GopherConAU 2023" },
+        { "id": "PLlEym5JVvM", "title": "06. Matteo Grella - The Go-to Language for AI: Opportunities and Challenges | GopherConAU 2023" },
+        { "id": "SHAhYTMInqM", "title": "07. Patrycja Wegrzynowicz - The Hacker's Guide to JWT Security | GopherConAU 2023" },
+        { "id": "xIxzCXMDnfM", "title": "08. Victoria Polishchuk - Implementing Event-driven Systems with Go | GopherConAU 2023" },
+        { "id": "XyTZ6Q-uOn4", "title": "09. Mirjam Uher - What's The Point? A Guide To Using Pointers Without Panicking | GopherConAU 2023" },
+        { "id": "hOGqz0g_2hw", "title": "10. Ben Boyter - Building a Cutting Edge Search Engine in Go | GopherConAU 2023" },
+        { "id": "QFpneG6SVxw", "title": "11. Julia Ogris - Building a Beginner's Programming Language with Go | GopherConAU 2023" },
+        { "id": "Xz_VQs6XN4w", "title": "12. Egon Elbre - Infinite Possibilities | GopherConAU 2023" },
+        { "id": "sDTJMm__DXE", "title": "13. Raghav Roy - Coroutines and Go | GopherConAU 2023" },
+        { "id": "uv1Ov6mjhUo", "title": "14. Sadie Freeman & Quinn Hou - Code Reviews in Go: Top 5 Misses | GopherConAU 2023" },
+        { "id": "MG3wfxIGhBQ", "title": "15. Jeff Levin - Dog Food Can Be Delicious | GopherConAU 2023" },
+        { "id": "osTDF1ny1nQ", "title": "16. Yarden Laifenfeld  - Go Stack: Should It Be Moving Like That? | GopherConAU 2023" },
+        { "id": "vI-ycJvFnZY", "title": "17. Marian Montagnino - Back to the Future: Modernizing CLIs Using Go | GopherConAU 2023" },
+        { "id": "YY90HRtuyM4", "title": "18. Lightning Talks | GopherConAU 2023" },
+        { "id": "yE5Tpp2BSGw", "title": "19. Rob Pike - What We Got Right, What We Got Wrong | GopherConAU 2023"
+       }
+      ]
+    }
+  ]
+}

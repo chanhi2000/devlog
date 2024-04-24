@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Github
-description: Cpp > Github
+description: C++ > Github
 icon: fa-brands fa-github
 category:
-  - Cpp
+  - C++
   - Github
 tag: 
   - cpp

@@ -1,4 +1,4 @@
-  ---
+---
 lang: ko-KR
 title: References
 description: Hardware > References
@@ -17,6 +17,16 @@ tag:
 [[toc]]
 
 ---
+
+```component VPCard
+{
+  "title": "ESPHome",
+  "desc": "ESPHome Homepage - Reimagining DIY Home Automation. ESPHome is a framework that tries to provide the best possible use experience for using IoT microcontrollers for Home Automation. Just write a simple YAML configuration file and get your own customized firmware.",
+  "link": "https://esphome.io/index.html",
+  "logo": "https://esphome.io/_static/safari-pinned-tab.svg",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
 
 ## Linux Programmer
 
@@ -119,4 +129,11 @@ tag:
 
 ---
 
+## Benjojo's Blog
+
+- [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
+
+---
+
 <TagLinks />
+

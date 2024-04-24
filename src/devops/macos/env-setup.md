@@ -23,6 +23,7 @@ tag:
   - temurin
   - temurin11
   - docker
+  - containerd
   - neofetch
 ---
 
@@ -66,7 +67,7 @@ brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
 
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner cheatsheet  \
-  dbeaver-community docker eul flipper font-jetbrains-mono \
+  dbeaver-community rancher eul flipper font-jetbrains-mono \
   google-chrome grandperspective iina intellij-idea-ce notion \
   opencore-patcher oversight pennywise raycast resilio-sync \
   sf-symbols shottr spectacle sublime-merge sublime-text \

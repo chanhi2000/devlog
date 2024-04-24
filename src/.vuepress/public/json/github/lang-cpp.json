@@ -1253,5 +1253,15 @@
     "desc": "Fallout for modern operating systems",
     "officialSite": "",
     "topics": ["c-plus-plus", "fallout", "game", "isometric"]
+  }, {
+    "repo": "pytorch/executorch",
+    "desc": "On-device AI across mobile, embedded and edge for PyTorch",
+    "officialSite": "https://pytorch.org/executorch/",
+    "topics": ["deep-learning", "embedded", "gpu", "machine-learning", "mobile", "neural-network", "tensor"]
+  }, {
+    "repo": "Open-Shell/Open-Shell-Menu",
+    "desc": "Classic Shell Reborn.",
+    "officialSite": "",
+    "topics": ["classic-menu", "classic-shell", "classic-start", "microsoft-windows", "open-shell", "open-shell-menu", "start-menu", "startme", "windows", "windows-10", "windows10"]
   }
 ]

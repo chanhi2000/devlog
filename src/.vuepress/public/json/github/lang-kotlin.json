@@ -270,5 +270,70 @@
     "desc": "Clipped circle shape in jetpack compose",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "vinceglb/AutoLaunch",
+    "desc": "Launch your Kotlin / KMP app automatically on system startup ✨",
+    "officialSite": "",
+    "topics": ["kmp", "kotlin", "kotlin-desktop", "kotlin-jvm", "kotlin-multiplatform"]
+  }, {
+    "repo": "Hinge/project-accessors",
+    "desc": "A Gradle plugin that can generate type safe project accessors for included builds.",
+    "officialSite": "https://plugins.gradle.org/plugin/co.hinge.gradle.project-accessors",
+    "topics": []
+  }, {  
+    "repo": "Bizyback/rhyme",
+    "desc": "A simple kotlin multiplatform poetry app. ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "welniak/YAIoGoL",
+    "desc": "Yet Another Implementation of Game of Life",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "littlerobots/version-catalog-update-plugin",
+    "desc": "Gradle plugin for updating a project version catalog",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "saket/file-size",
+    "desc": "Unit for representing and converting between file sizes, inspired by kotlin.time.Duration",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "autonomousapps/dependency-analysis-gradle-plugin",
+    "desc": "Gradle plugin for JVM projects written in Java, Kotlin, Groovy, or Scala; and Android projects written in Java or Kotlin. Provides advice for managing dependencies and other applied plugins",
+    "officialSite": "",
+    "topics": ["android", "gradle-plugin", "groovy", "java", "jvm", "kotlin", "scala"]
+  }, {
+    "repo": "nesk/akkurate",
+    "desc": "The expressive validation library for Kotlin",
+    "officialSite": "https://akkurate.dev",
+    "topics": ["constraints", "dsl", "kotlin", "kotlin-library", "multiplatform", "validation", "validation-library"]
+  }, {
+    "repo": "mscheong01/krotoDC",
+    "desc": "Protobuf Kotlin Dataclass, Converter & Custom Kotlin Coroutine gRPC Generator",
+    "officialSite": "",
+    "topics": ["grpc-java", "grpc-kotlin", "kotlin", "kotlinpoet", "protobuf", "protobuf-java"]
+  }, {
+    "repo": "zsmb13/KotlinLogo-ScreenSaver",
+    "desc": "A macOS screensaver featuring Kotlin logos",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "seljabali/java-time-fun",
+    "desc": "java.time Kotlin extension functions library.",
+    "officialSite": "https://seljabali.github.io/java-time-fun",
+    "topics": ["calendar", "date", "date-formatting", "date-library", "date-time", "java", "javatime", "joda-time", "kotlin", "kotlin-extensions"]
+  }, {
+    "repo": "bazelbuild/rules_kotlin",
+    "desc": "Bazel rules for Kotlin",
+    "officialSite": "",
+    "topics": ["bazel", "bazel-rules", "kotlin"]
+  }, {
+    "repo": "jillesvangurp/json-dsl",
+    "desc": "Create Kotlin DSLs for any JSON/YAML. JsonDsl is a library that helps you build Kotlin DSLs for JSON and YAML dialects. The DSLs are easy to extend with custom fields by users via a MutableMap. This allows your DSL users to work around any features you don't have in your DSL.",
+    "officialSite": "",
+    "topics": ["domain-specific-language", "json", "kotlin-multiplatform", "library", "yaml"]
   }
 ]

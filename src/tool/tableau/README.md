@@ -11,7 +11,13 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="sublimetext"/>
+<ShieldsGroup logos="tableau"/>
+
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/tool/tableau/" />
 
 ---
 

@@ -18,7 +18,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -63,5 +62,6 @@ tag:
 <MyYouTubeItems jsonName="yu-residual-entropy" /><!-- Residual Entropy -->
 <MyYouTubeItems jsonName="yu-oliverjumpertzme" /><!-- Oliver Jumpertz -->
 <MyYouTubeItems jsonName="yu-mithradates" /><!-- mithradates -->
+<MyYouTubeItems jsonName="yu-NullLabs" /><!-- The Null Channel -->
 
 <TagLinks />

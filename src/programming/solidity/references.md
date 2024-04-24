@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: References
-description: 🦄Solidity > References
+description: Solidity > References
 icon: iconfont icon-share
 category: 
-  - 🦄Solidity
+  - Solidity
   - References
 tag:
   - solidity

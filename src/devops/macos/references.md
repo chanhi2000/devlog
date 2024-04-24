@@ -13,8 +13,13 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
+
+---
+
+## Apple Developer
+
+- [TN3161: Inside Code Signing: Certificates](https://developer.apple.com/documentation/technotes/tn3161-inside-code-signing-certificates)
 
 ---
 
@@ -211,5 +216,8 @@ tag:
 ## Pozafly's Blog
 
 - [`rm -rf`로 날린 컴퓨터, `chezmoi`로 관리하기](https://pozafly.github.io/tools/manage-with-rm-rf-erased-setting-file-chezmoi/)
+
+---
+
 
 <TagLinks />

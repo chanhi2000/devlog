@@ -1334,5 +1334,10 @@
     "desc": "Rust-based WebAssembly bindings to read and write Apache Parquet data",
     "officialSite": "https://kylebarron.dev/parquet-wasm/",
     "topics": ["apache-arrow", "apache-parquet", "arrow", "javascript", "parquet", "rust", "wasm", "webassembly"]
+  }, {
+    "repo": "sarah-ek/faer-rs",
+    "desc": "Linear algebra foundation for the Rust programming language",
+    "officialSite": "https://faer-rs.github.io",
+    "topics": ["linear-algebra", "matrix", "rust"]
   }
 ]

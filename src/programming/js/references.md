@@ -18,6 +18,10 @@ tag:
 
 ---
 
+## dev.to
+
+- [`yanhaijing` - Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg?ref=dailydev)
+
 ## BLEX
 
 - [`@baealex` - 자바스크립트의 복사](https://blex.me/@baealex/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EB%B3%B5%EC%82%AC)
@@ -68,6 +72,12 @@ tag:
 ## IT grow. 
 
 - [ES5 vs ES6 차이](https://dlsdn73.tistory.com/entry/ES5-vs-ES6-%EC%B0%A8%EC%9D%B4)
+
+---
+
+## Prosopo
+
+- [TypeScript: Branded Types 🔧](https://prosopo.io/articles/typescript-branding/) <!-- TODO: /programming/ts -->
 
 ---
 

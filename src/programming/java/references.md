@@ -296,15 +296,18 @@ tag:
 
 ### Medium
 
+- [`@khush.panchal123` - `PriorityDispatcher` — Priority based Dispatcher in Kotlin Coroutines](https://medium.com/@khush.panchal123/prioritydispatcher-dispatcher-based-on-priority-queue-035cebd6f96a)
+- [`vivienmahe` - How to publish your Kotlin Multiplatform library on Maven Central](https://vivienmahe.medium.com/how-to-publish-your-kotlin-multiplatform-library-on-maven-central-5340deff7ee5)
+- [`towardsdev` - Ktor — First Steps With the Creation of Native Images](https://towardsdev.com/ktor-first-steps-with-the-creation-of-native-images-5e552c649f37)
 - [`The Airbnb Tech Blog` - Introducing Trio | Part I](https://medium.com/airbnb-engineering/introducing-trio-part-i-7f5017a1a903)
 - [`The Airbnb Tech Blog` - Introducing Trio | Part II](https://medium.com/airbnb-engineering/introducing-trio-part-ii-fe836013a798)
 - [`The Airbnb Tech Blog` - Introducing Trio | Part III](https://medium.com/airbnb-engineering/introducing-trio-part-iii-033fbfe2171b)
 - [`Programming Geeks` - Kotlin DSL: Gradle scripts in Android made easy](https://medium.com/android-dev-hacks/kotlin-dsl-gradle-scripts-in-android-made-easy-b8e2991e2ba)
 - [`Level Up Coding` - Introducing KoVibes a Kotlin Multiplatform library](https://levelup.gitconnected.com/introducing-kovibes-a-kotlin-multiplatform-library-7a4cc3048c05)
 - [`@andrejkingsley` - Plotting Financial Data in Kotlin with Kandy](https://medium.com/@andrejkingsley/plotting-financial-data-in-kotlin-with-kandy-66757aef05ef)
-- [`proandroiddev` - Leveraging Key-Value Observing (KVO) in Kotlin Multiplatform (KMP) for iOS](https://proandroiddev.com/leveraging-key-value-observing-kvo-in-kotlin-multiplatform-kmp-for-ios-231519e5c1ff)
 - [`hinchman-amanda` - Kotlin Coroutine mechanisms: runBlocking v. launch](https://hinchman-amanda.medium.com/kotlin-coroutine-mechanisms-runblocking-v-launch-386e1ae8e3c2)
-- [`roandroiddev` - How to safely update state in your Kotlin apps](https://proandroiddev.com/how-to-safely-update-state-in-your-kotlin-apps-bf51ccebe2ef)
+- [`@krishusharma292` - Kotlin Coroutines: From Basics to Advanced Techniques 🛠️](https://medium.com/@krishusharma292/kotlin-coroutines-from-basics-to-advanced-techniques-%EF%B8%8F-b76757796aca)
+- [`@robert.baricevicpetrus` - Kotlin Flows Animated](https://medium.com/@robert.baricevicpetrus/kotlin-flows-animated-55640aa48ac9)
 
 ### velog
 
@@ -380,8 +383,39 @@ tag:
 
 - [053. (Getting Started with Test-Driven Development) 3. 테스트 코드 작성 순서](https://namhoon.kim/2024/04/22/method-test/053/)
 
+### Dave Leeds on Kotlin
+
+- [Kotlin: An Illustrated Guide • Chapter 16 Sealed Types](https://typealias.com/start/kotlin-sealed-types/)
+- [Kotlin: An Illustrated Guide • Chapter 17 Handling Runtime Exceptions](https://typealias.com/start/kotlin-exceptions/)
+- [Kotlin: An Illustrated Guide • Chapter 18 Generics](https://typealias.com/start/kotlin-generics/)
+
+### TOUCHLAB
+
+- [Calling Kotlin/Wasm methods from Javascript](https://touchlab.co/kotlin-wasm-js-interop)
+
+### Codersee
+
+- [Integration Tests for WebClient with WireMock](https://codersee.com/integration-tests-webclient-wiremock/)
+- [How To Create a Ktor Client To Connect To OpenWeatherMap API](https://codersee.com/how-to-create-a-ktor-client-to-connect-to-openweathermap-api/)
+
+### ROMAIN GUY
+
+- [Speeding up `isBlank()`](https://www.romainguy.dev/posts/2024/speeding-up-isblank/)
+- [Micro-optimizations in Kotlin — 1](https://www.romainguy.dev/posts/2024/micro-optimizations-in-kotlin-1/)
+
+### Kt.academy
+
+- [Static Code Analysers](https://kt.academy/article/ak-static-analysis)
+- [Exercise: Implement shop functions](https://kt.academy/article/e_shop_functions)
+
+### zsmb.co
+
+- [Building a macOS screen saver in Kotlin](https://zsmb.co/building-a-macos-screen-saver-in-kotlin/)
+
+### Jake Wharton
+
+- [Perils of duplicate finding](https://jakewharton.com/perils-of-duplicate-finding/)
+
 ---
-
-
 
 <TagLinks />

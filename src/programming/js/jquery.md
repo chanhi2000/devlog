@@ -2,7 +2,7 @@
 lang: ko-KR
 title: jQuery
 description: JavaScript > jQuery
-icon: iconfont icon-jquery
+icon: iconfont icon-jQuery
 category:
   - JavaScript
   - jQuery

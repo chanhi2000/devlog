@@ -24,7 +24,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -42,5 +41,6 @@ head:
 <MyYouTubeItems jsonName="yu-backend_blueprints" /><!-- Backend Blueprints -->
 <MyYouTubeItems jsonName="yu-x.kernel" /><!-- xKernel -->
 <MyYouTubeItems jsonName="yu-JsKIM_0_0" /><!-- 김종상 -->
+<MyYouTubeItems jsonName="yu-gopherconau" /><!-- GopherConAU -->
 
 <TagLinks/>
