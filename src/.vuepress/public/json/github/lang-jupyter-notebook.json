@@ -529,7 +529,7 @@
     "desc": "Open-source AI cookbook",
     "officialSite": "https://huggingface.co/learn/cookbook",
     "topics": []
-  },{
+  }, {
     "repo": "datawhalechina/self-llm",
     "desc": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
     "officialSite": "",
@@ -544,5 +544,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "digitalinnovationone/dio-lab-open-source",
+    "desc": "⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
+    "officialSite": "https://digitalinnovationone.github.io/dio-lab-open-source/",
+    "topics": ["git", "github", "open-source"]
   }
 ]

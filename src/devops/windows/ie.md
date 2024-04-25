@@ -45,4 +45,9 @@ The webpage you are viewing is trying to close the tab. Do you wish to close the
 
 ---
 
+
+- [인터넷 익스플로러에서 자동으로 엣지로 전환하는 방법(Redirect from IE to Edge)](https://webruden.tistory.com/794)
+
+---
+
 <TagLinks />

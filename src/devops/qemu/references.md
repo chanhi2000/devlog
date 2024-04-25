@@ -21,4 +21,11 @@ tag:
 
 ---
 
+
+## SUSE
+
+- [30 Virtual Machine Administration Using QEMU Monitor](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-qemu-monitor.html)
+
+---
+
 <TagLinks />

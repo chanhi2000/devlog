@@ -150,4 +150,18 @@ tag:
 
 - [Open WebUI 와 Amazon Bedrock 으로 이용해서 로컬에서 RAG UI 돌려보기](https://haandol.github.io/2024/04/21/run-open-webui-using-bedrock-for-local-rag.html)
 
+---
+
+## Atlassian
+
+- [Deploy on AWS using Bitbucket Pipelines OpenID Connect](https://support.atlassian.com/bitbucket-cloud/docs/deploy-on-aws-using-bitbucket-pipelines-openid-connect)
+
+---
+
+## JuHyeong.dev
+
+- [AWS VPC를 사용한다면 알아야 할 네트워크 기초 지식](https://dkswnkk.tistory.com/750)
+
+---
+
 <TagLinks />

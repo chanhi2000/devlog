@@ -352,6 +352,14 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js/articles/README.md',
+            {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/251.md',
+              ]
+            }
           ]
         }
       ]
@@ -417,6 +425,13 @@ export const sidebarEn = sidebar({
                 '/explore/articles/devtoolstips.org/custom-object-formatters.md',
                 '/explore/articles/devtoolstips.org/inspect-devtools-with-devtools.md',
                 '/explore/articles/devtoolstips.org/create-your-own-devtools-theme.md',
+              ]
+            }, {
+              text: 'd2.naver.com',
+              collapsible: true,
+              icon: '/favicons/d2-naver-com.ico',
+              children: [
+                '/explore/articles/d2.naver.com/6532276.md',
               ]
             }, {
               text: 'sitepoint.com',
@@ -659,7 +674,7 @@ export const sidebarEn = sidebar({
             }, {
               text: 'code-maze.com',
               collapsible: true,
-              icon: 'fas fa-globe',
+              icon: '/favicons/code-maze-com.png',
               children: [
                 '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
               ]
@@ -1571,6 +1586,7 @@ export const sidebarEn = sidebar({
         },
         '/explore/api/list.md',
         '/explore/api/popular.md',
+        '/explore/api/references.md',
       ],
     }, {
       text: 'Youtube',
@@ -1605,6 +1621,7 @@ export const sidebarEn = sidebar({
             '/explore/articles/yozm.wishket.com/2057.md',
             '/explore/articles/yozm.wishket.com/2425.md',
             '/explore/articles/yozm.wishket.com/2457.md',
+            '/explore/articles/yozm.wishket.com/2464.md', // career?
             '/explore/articles/yozm.wishket.com/2478.md',
             '/explore/articles/yozm.wishket.com/2479.md',
             '/explore/articles/yozm.wishket.com/2483.md',
@@ -1615,6 +1632,7 @@ export const sidebarEn = sidebar({
             '/explore/articles/yozm.wishket.com/2505.md',
             '/explore/articles/yozm.wishket.com/2511.md',
             '/explore/articles/yozm.wishket.com/2515.md',
+            '/explore/articles/yozm.wishket.com/2519.md', // career?
             '/explore/articles/yozm.wishket.com/2527.md',
             '/explore/articles/yozm.wishket.com/2528.md',
             '/explore/articles/yozm.wishket.com/2536.md',
@@ -1727,7 +1745,7 @@ export const sidebarEn = sidebar({
         }, {
           text: 'code-maze.com',
           collapsible: true,
-          icon: 'fas fa-globe', // https://code-maze.com/favicon.ico
+          icon: '/favicons/code-maze-com.png',
           children: [
             '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
           ]
@@ -1753,6 +1771,13 @@ export const sidebarEn = sidebar({
             '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
           ]
         }, {
+          text: 'd2.naver.com',
+          collapsible: true,
+          icon: '/favicons/d2-naver-com.ico',
+          children: [
+            '/explore/articles/d2.naver.com/6532276.md',
+          ]
+        }, {
           text: 'meetup.nhncloud.com',
           collapsible: true,
           icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
@@ -1760,7 +1785,15 @@ export const sidebarEn = sidebar({
             '/explore/articles/meetup.nhncloud.com/53.md',
             '/explore/articles/meetup.nhncloud.com/54.md',
             '/explore/articles/meetup.nhncloud.com/55.md',
+            '/explore/articles/meetup.nhncloud.com/251.md',
             '/explore/articles/meetup.nhncloud.com/311.md',
+          ]
+        }, {
+          text: 'engineering.linecorp.com',
+          collapsible: true,
+          icon: 'https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a',
+          children: [
+            '/explore/articles/engineering.linecorp.com/atomic-cache-stampede-redis-lua-script.md',
           ]
         }
       ]
@@ -1774,6 +1807,23 @@ export const sidebarEn = sidebar({
         '/explore/career/exam.md',
         '/explore/career/youtube.md',
         '/explore/career/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-squre-share-nodes',
+          children: [
+            '/explore/career/articles/README.md',
+            {
+              text: 'yozm.wishket.com',
+              collapsible: true,
+              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
+              children: [
+                '/explore/articles/yozm.wishket.com/2464.md', // career?
+                '/explore/articles/yozm.wishket.com/2519.md', // career?
+              ]
+            },
+          ]
+        }
       ]
     }
   ],

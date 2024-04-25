@@ -10,8 +10,6 @@ tag:
   - devlog
   - notion
   - nhn
-  - naver
-  - naver-d2
   - woowahan
   - toast
   - medium
@@ -33,37 +31,12 @@ tag:
 
 - [React Native 2020](https://www.notion.so/React-Native-2020-444084ec7aa44a509df33f8a3ae2edb3)
 
-
----
-
-## NHN
-
-- [가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX](https://meetup.toast.com/posts/311)
-- [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
-
----
-
-## Naver D2
-
-- [User-Agent Client Hints의 도입, UA 프리징을 대비하라](https://d2.naver.com/helloworld/6532276)
-
----
-
-## Banksalad
-
-### 2021
-
-- [팀과 함께 성장하는 Engineering Manager의 역할](https://blog.banksalad.com/tech/engineering-manager-role-growth)
-
 ---
 
 ## Medium
 
 - [네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
-- [Xcode 프로젝트 관리를 위한 Tuist 알아보기](https://okanghoon.medium.com/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-tuist-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6a92950780be)
-- [Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
 - [3항 연산자의 재발견](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
-- [Introduction to `oc` — the OpenShift Command Line Power Tool](https://freedomben.medium.com/introduction-to-oc-the-openshift-command-line-power-tool-cdcd399b4048)
 
 ---
 
@@ -71,7 +44,6 @@ tag:
 
 - [Creating a multi architecture CI/CD solution with Amazon ECS and ECS Anywhere](https://dev.to/aws/creating-a-multi-architecture-ci-cd-deployment-for-amazon-ecs-and-ecs-anywhere-15o3)
 - [4 ways to deploy web apps in 2020](https://dev.to/alex_boykov/4-ways-to-deploy-web-apps-in-2020-4ch3)
-- [How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
 - [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
 
 ---
@@ -79,11 +51,7 @@ tag:
 ## velog
 
 - [🕹 Canvas StarCraft](https://velog.io/@kimbyungchan/canvas-starcraft)
-- [Noticon 프로젝트 리뷰](https://velog.io/@tmmoond8/Noticon-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
-- [Gradle 사용 시 인코딩 오류 처리](https://velog.io/@sc_shin/Gradle-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC)
-- [\[Kotlin\] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [패키지를 막 가져다 쓰는 것의 해로움 :: lol.ps](https://velog.io/@phyyou/%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EB%A7%89-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%93%B0%EB%8A%94-%EA%B2%83%EC%9D%98-%EB%B3%B4%EC%95%88%EB%AC%B8%EC%A0%9C%EC%A0%90-lol.ps)
-- [Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
 - [🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [Spring MVC on VSCode - Maven Project](https://dev.to/spaceofmiah/spring-mvc-on-vscode-maven-project-50g8#needful-vscode-extension)
 - [The Importance of Financial Independence For Software Developers](https://dev.to/ilonacodes/the-importance-of-financial-independence-for-software-developers-98m)
@@ -111,14 +79,6 @@ tag:
 - [\[Android\]\[WebView\] 안드로이드 웹뷰 사용한 앱 디버깅 하는 방법! (Feat. 크롬 버전 - Chromium)](https://maivve.tistory.com/159)
 - [\[안드로이드/Android\]6.0 마시멜로우 권한체크하고 최적화하기](http://gun0912.tistory.com/55)
 
-
----
-
-## morioh
-
-- [VueJS audio visualization Components](https://morioh.com/p/32b4e58d0c27)
-- [A UI components library which is based on Carbon-Design and VueJS](https://morioh.com/p/bec715bd9fa8)
-- [A vue2 component to display tree chart](https://morioh.com/p/819531f4c7f3)
 
 ---
 
@@ -152,22 +112,6 @@ tag:
 
 ---
 
-## thdev.tech
-
-### [thdev.tech] 2023
-
-- [이력서를 위한 이력 관리는 어떻게 하는 것이 좋을까?](https://thdev.tech/resume/2023/02/12/Android-Resume)
-- [안드로이드 MVVM 따라 하기 - MVVM에서의 안티 패턴](https://thdev.tech/android/2023/01/27/Android-Follow-MVVM-03)
-- [안드로이드 Compose Scaffold, TopAppBar 활용한 개발](https://thdev.tech/android/2023/01/25/Android-Compose-Scaffold)
-
-### [thdev.tech] 2020
-
-- [Kotlin Delegation을 알아보고, Delegated Properties와 class에서의 Delegation을 알아본다.](https://thdev.tech/kotlin/2020/11/27/kotlin_delegation)
-- [상속! 악마의 속삭임, 그 속에 숨겨진 문제점, Kotlin에서는 Delegation을 활용해 보자.](https://thdev.tech/kotlin/2020/12/01/kotlin_effective_13)
-- [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15)
-
----
-
 ## Github
 
 - [open-suite-webapp/build.gradle](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
@@ -175,11 +119,8 @@ tag:
 - [\[iOS\]\[SwiftPM\]\[Xcode 13.0\] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
 - [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
 - [okta developer - Build a Secure Spring Data JPA Resource Server](https://developer.okta.com/blog/2020/11/20/spring-data-jpa)
-- [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html)
 - [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
-- [Handle Cookies with Retrofit/OkHttp](https://jiafei427.wordpress.com/2016/04/29/handle-cookies-with-retrofitokhttp)
 - [아마도 Effective 한 Kotlin](https://speakerdeck.com/taehwandev/amado-effective-han-kotlin)
-- [tuhrig - Testing `@ConfigurationProperties` in Spring Boot](https://tuhrig.de/testing-configurationproperties-in-spring-boot)
 
 ---
 
@@ -191,12 +132,10 @@ tag:
 
 ## Other
 
-- [인터넷 익스플로러에서 자동으로 엣지로 전환하는 방법(Redirect from IE to Edge)](https://webruden.tistory.com/794)
 - [JavaScript Tips](https://markodenic.com/javascript-tips)
 - [안드로이드의 다양한 Notification 종류와 구현 방법](https://codechacha.com/ko/notifications-in-android)
 - [안드로이드에서 카카오 우편번호 검색 구현하기](https://jungwoon.github.io/android/2021/02/17/Implemente-DaumPostSearch.html)
 - [android kotlin - Get screen size from context](https://www.android--code.com/2020/08/android-kotlin-get-screen-size-from.html)
-- [Vue 2 Query Builder with Cube](https://cube.dev/blog/vue-query-builder-with-cubejs)
 - [Authentication in Nuxt.js using Laravel Sanctum](https://swapnil.dev/blog/authentication-in-nuxtjs-using-laravel-sanctum)
 - [Creating Mock API using Mirage in a React application](https://soshace.com/creating-mock-api-using-mirage-in-a-react-application)
 - [Nuxt Static Improvements](https://nuxtjs.org/announcements/nuxt-static-improvements)
@@ -207,7 +146,6 @@ tag:
 - [JavaScript Tips](https://markodenic.com/javascript-tips)
 - [You don't know polyfill](https://so-so.dev/web/you-dont-know-polyfill)
 - [Vanilla Javascript로 웹 컴포넌트 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Component/#_1-%E1%84%89%E1%85%A1%E1%86%BC%E1%84%90%E1%85%A2%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4-%E1%84%90%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A2%E1%86%BC)
-- [Vue와 Firebase로 나만의 사이트 만들기](https://www.clien.net/service/board/lecture/15244603)
 - [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs)
 - [Feature: Vue 3 script setup](https://ghalex.com/feature-vue-3-script-setup)
 - [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js)
@@ -240,7 +178,6 @@ tag:
 - [Detecting memory leaks in Android applications](https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications)
 - [5 New Kubeflow 1.3 Features that Machine Learning Engineers Will Love](https://thenewstack.io/5-new-kubeflow-1-3-features-that-machine-learning-engineers-will-love)
 - [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)
-- [Deploy on AWS using Bitbucket Pipelines OpenID Connect](https://support.atlassian.com/bitbucket-cloud/docs/deploy-on-aws-using-bitbucket-pipelines-openid-connect)
 - [Migrate from SQLite to Room](https://developer.android.com/training/data-storage/room/sqlite-room-migration)
 - [Marrying KMM and Swift with Sourcery](https://luisramos.dev/marrying-kmm-and-swift-with-sourcery)
 - [Kotlin Adventures With XTDB](https://www.juxt.pro/blog/crux-kotlin)
@@ -276,8 +213,7 @@ tag:
 - [Junior to senior: An action plan for engineering career success](https://github.com/readme/guides/engineering-career-success)
 - [How To Build Recommendation Algorithms And System Designs](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
 - [Johnny•Decimal - A system to organise projects](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction)
+
 ---
-
-
 
 <TagLinks />

@@ -183,6 +183,7 @@ tag:
 - [Kubernetes Scheduler, 제대로 이해하기](https://gngsn.tistory.com/284)
 - [Kubernetes ConfigMap & Secret, 제대로 이해하기](https://gngsn.tistory.com/288)
 - [Kubernetes, 제대로 이해하기](https://gngsn.tistory.com/289)
+- [Kubernetes Cluster Upgrade, 제대로 이해하기](https://gngsn.tistory.com/290)
 
 ---
 

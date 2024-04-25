@@ -4954,5 +4954,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Tribler/tribler",
+    "desc": "Privacy enhanced BitTorrent client with P2P content discovery",
+    "officialSite": "https://www.tribler.org",
+    "topics": ["bittorrent", "decentralized", "p2p", "privacy", "python", "search", "streaming", "tor", "torrent-client"]
+  }, {
+    "repo": "CyanVoxel/TagStudio",
+    "desc": "A file and photo management application and system.",
+    "officialSite": "",
+    "topics": ["file-manager", "organizer", "photo-gallery", "photo-organizer"]
   }
 ]

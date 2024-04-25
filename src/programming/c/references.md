@@ -266,6 +266,11 @@ tag:
 
 ---
 
+## Thomas Uhrig's Blog
+
+- [Testing `@ConfigurationProperties` in Spring Boot](https://tuhrig.de/testing-configurationproperties-in-spring-boot/)
+
+---
 
 ## Misc.
 

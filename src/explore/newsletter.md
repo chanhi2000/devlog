@@ -124,6 +124,13 @@ tag:
 }
 ```
 
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/favicons/d2-naver-com.ico"
+  preview="https://d2.naver.com/image/20180416/470263027842.png"/>
+
 ```component VPCard
 {
   "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",

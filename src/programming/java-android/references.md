@@ -257,4 +257,20 @@ tag:
 
 ---
 
+## Thdev
+
+### 2023
+
+- [이력서를 위한 이력 관리는 어떻게 하는 것이 좋을까?](https://thdev.tech/resume/2023/02/12/Android-Resume)
+- [안드로이드 MVVM 따라 하기 - MVVM에서의 안티 패턴](https://thdev.tech/android/2023/01/27/Android-Follow-MVVM-03)
+- [안드로이드 Compose Scaffold, TopAppBar 활용한 개발](https://thdev.tech/android/2023/01/25/Android-Compose-Scaffold)
+
+### 2020
+
+- [Kotlin Delegation을 알아보고, Delegated Properties와 class에서의 Delegation을 알아본다.](https://thdev.tech/kotlin/2020/11/27/kotlin_delegation)
+- [상속! 악마의 속삭임, 그 속에 숨겨진 문제점, Kotlin에서는 Delegation을 활용해 보자.](https://thdev.tech/kotlin/2020/12/01/kotlin_effective_13)
+- [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15)
+
+---
+
 <TagLinks />

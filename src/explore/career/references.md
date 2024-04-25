@@ -66,6 +66,7 @@ tag:
 
 ## velog
 
+- [`@tmmoond8/` - Noticon 프로젝트 리뷰](https://velog.io/@tmmoond8/Noticon-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
 - [`@endmoseung` - 꾸준함과 당연하다는것](https://velog.io/@endmoseung/%EA%BE%B8%EC%A4%80%ED%95%A8%EA%B3%BC-%EB%8B%B9%EC%97%B0%ED%95%98%EB%8B%A4%EB%8A%94%EA%B2%83)
 - [`@hygoogi` - 기술 면접 질문 모음](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C)
 - [`@qkrtkdwns3410` - 인프라 아키텍처의 이해](https://velog.io/@qkrtkdwns3410/%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%9D%B4%ED%95%B4)
@@ -104,6 +105,12 @@ tag:
 ## 당근
 
 - [웹사이트의 첫 삽부터 나무를 기르기까지: 당근닷컴 디벨롭의 여정](https://medium.com/daangn/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%B2%AB-%EC%82%BD%EB%B6%80%ED%84%B0-%EB%82%98%EB%AC%B4%EB%A5%BC-%EA%B8%B0%EB%A5%B4%EA%B8%B0%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC%EB%8B%B7%EC%BB%B4-%EB%94%94%EB%B2%A8%EB%A1%AD%EC%9D%98-%EC%97%AC%EC%A0%95-830cc1a27bf0)
+
+---
+
+## Banksalad
+
+- [팀과 함께 성장하는 Engineering Manager의 역할](https://blog.banksalad.com/tech/engineering-manager-role-growth)
 
 ---
 
@@ -293,6 +300,7 @@ tag:
 - [거절은 새로운 시작](https://www.thestartupbible.com/2024/04/selling-starts-when-the-buyer-says-no.html)
 - [스케일은 우리의 적](https://www.thestartupbible.com/2024/04/scale-is-your-enemy.html)
 - [해답은 등잔 밑에](https://www.thestartupbible.com/2024/04/do-not-look-too-far-for-answers.html)
+- [숨은 공동 창업자](https://www.thestartupbible.com/2024/04/the-hidden-co-founder.html)
 
 ---
 
@@ -493,6 +501,8 @@ tag:
 ## 세상을 널리 이롭게 하는 돌 큰돌
 
 - [바야흐로 1인개발자시대에 따른 아키텍처 분석](https://blog.naver.com/jhc9639/223421615148)
+- [도전! K 스타트업 2024 혁신 창업리그 대회 요약 및 정리](https://blog.naver.com/jhc9639/223426056751)
+- [예창패, 청창사, 초창패 합격한 썰 및 정부지원사업 팁](https://blog.naver.com/jhc9639/223426111370)
 
 ---
 

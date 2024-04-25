@@ -13,6 +13,14 @@ tag:
   - js
   - javascript
   - node.js
+head:
+  - - meta:
+    - property: og:title
+      content: Article(s) > Overview of webpack, a JavaScript bundler
+    - property: og:description
+      content: Overview of webpack, a JavaScript bundler
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.html
 ---
 
 # {{ $frontmatter.title }} 관련

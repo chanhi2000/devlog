@@ -56,6 +56,12 @@ tag:
 
 ---
 
+## Medium
+
+- [`nmc-techblog` - Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
+
+---
+
 ## 푸르고
 
 - [[DDD] 값 객체, Value Object](https://puleugo.tistory.com/186)

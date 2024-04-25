@@ -1263,5 +1263,10 @@
     "desc": "Classic Shell Reborn.",
     "officialSite": "",
     "topics": ["classic-menu", "classic-shell", "classic-start", "microsoft-windows", "open-shell", "open-shell-menu", "start-menu", "startme", "windows", "windows-10", "windows10"]
+  }, {
+    "repo": "turingmotors/swan",
+    "desc": "This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.",
+    "officialSite": "",
+    "topics": []
   }
 ]

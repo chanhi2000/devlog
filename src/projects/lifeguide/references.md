@@ -65,6 +65,7 @@ tag:
 ## 그대안의작은호수
 
 - [DMA와 시세 레이턴시 측정](https://smallake.kr/?p=34011)
+- [DMA 조사에 나선 금감원, 검찰 그리고 현재](https://smallake.kr/?p=34055)
 
 ---
 

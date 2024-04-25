@@ -1144,5 +1144,20 @@
     "desc": "A curated list of awesome resources related to the Ada and SPARK programming language",
     "officialSite": "",
     "topics": ["ada", "ada-binding", "ada-framework", "ada-language", "ada-library", "ada-programs", "awesome", "awesome-list", "gnat", "spark", "spark-ada"]
+  }, {
+    "repo": "mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9",
+    "desc": "Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9",
+    "desc": "Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "academic/awesome-datascience",
+    "desc": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+    "officialSite": "",
+    "topics": ["analytics", "awesome-list", "data-mining", "data-science", "data-scientists", "data-visualization", "deep-learning", "hacktoberfest", "machine-learning", "science"]
   }
 ]

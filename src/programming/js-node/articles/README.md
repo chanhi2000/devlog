@@ -49,6 +49,13 @@ head:
 }
 ```
 
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/favicons/d2-naver-com.ico"
+  preview="https://d2.naver.com/image/20180416/470263027842.png"/>
+
 ```component VPCard
 {
   "title": "SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design", 
@@ -216,6 +223,20 @@ head:
   "link": "/explore/articles/devtoolstips.org/see-viewport-size.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
+}
+```
+
+---
+
+## Naver D2
+
+```component VPCard
+{
+  "title": "User-Agent Client Hints의 도입, UA 프리징을 대비하라",
+  "desc": "Devtools Tips > User-Agent Client Hints의 도입, UA 프리징을 대비하라",
+  "link": "https://d2.naver.com/helloworld/6532276",
+  "logo": "/favicons/d2-naver-com.ico",
+  "background": "rgba(54,235,127,0.2)"
 }
 ```
 

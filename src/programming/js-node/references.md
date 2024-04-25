@@ -887,6 +887,7 @@ tag:
 ## moregorenine
 
 - [Electron reload](https://moregorenine.github.io/electron/electron/)
+- [JHipster](https://moregorenine.github.io/springboot/jhipster/)
 
 ---
 
@@ -911,6 +912,12 @@ tag:
 ## 신현석(Hyeonseok Shin)
 
 - [노드 간의 포함관계를 확인하는 contains](https://hyeonseok.com/blog/912)
+
+---
+
+## hELLO
+
+- [hELLO 티스토리 스킨을 소개합니다.](https://pronist.tistory.com/5)
 
 ---
 

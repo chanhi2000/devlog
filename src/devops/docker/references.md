@@ -40,6 +40,7 @@ tag:
 - [`@qkrtkdwns3410` - [도커] 볼륨과 마운트](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4-%EB%B3%BC%EB%A5%A8%EA%B3%BC-%EB%A7%88%EC%9A%B4%ED%8A%B8)
 - [`@qkrtkdwns3410` - [도커&쿠버] 도커 컨테이너에서 호스트 파일 복사 등](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4%EC%BF%A0%EB%B2%84-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%ED%98%B8%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EB%B3%B5%EC%82%AC-%EB%93%B1)
 - [`@dongha1992` - 도커 & CI (1)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-1)
+- [`@dongha1992` - 도커 & CI (2)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-2)
 ---
 
 ## Medium

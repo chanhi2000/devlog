@@ -131,6 +131,7 @@ tag:
 ## PeerDB
 
 - [Moving a Billion Postgres Rows on a $100 Budget](https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget)
+- [How can we make `pg_dump` and `pg_restore` 5 times faster?](https://blog.peerdb.io/how-can-we-make-pgdump-and-pgrestore-5-times-faster)
 
 ---
 
@@ -210,6 +211,12 @@ tag:
 ## Ali Ramadhan
 
 - [Building a weather data warehouse part I: Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
+
+---
+
+## oso
+
+- [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
 
 ---
 

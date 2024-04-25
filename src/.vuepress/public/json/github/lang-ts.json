@@ -2663,5 +2663,15 @@
     "desc": "A GPU-parallel Marching Cubes implementation using WebGPU",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Tribler/tribler",
+    "desc": "Privacy enhanced BitTorrent client with P2P content discovery",
+    "officialSite": "https://www.tribler.org",
+    "topics": ["bittorrent", "decentralized", "p2p", "privacy", "python", "search", "streaming", "tor", "torrent-client"]
+  }, {
+    "repo": "NangoHQ/nango",
+    "desc": "A single API for all your integrations.",
+    "officialSite": "https://www.nango.dev",
+    "topics": ["access-token", "api", "api-client", "api-integration", "api-integrations", "integrations", "oauth", "oauth1", "oauth2", "product-integration", "refresh-token", "unified-api"]
   }
 ]

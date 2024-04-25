@@ -39,6 +39,12 @@ tag:
 
 ---
 
+## velog
+
+- [`@ethanchaee` - Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
+
+---
+
 ## freecodecamp.org
 
 - [Learn Networking in Flutter By Building a Simple App](https://www.freecodecamp.org/news/learn-networking-in-flutter)[text](https://theonetechnologies.com/blog/post/building-responsive-ui-in-flutter-tips-and-best-practices)
@@ -54,5 +60,7 @@ tag:
 ## 기록을 남기는 Teveloper 블로그 입니다
 
 - [[Flutter] Flutter를 위한 Code Push Shorebird 1.0 릴리즈](https://teveloper.tistory.com/75)
+
+---
 
 <TagLinks />

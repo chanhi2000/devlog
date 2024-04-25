@@ -22,6 +22,12 @@ tag:
 
 ---
 
+## velog
+
+- [`@sc_shin` - Gradle 사용 시 인코딩 오류 처리](https://velog.io/@sc_shin/Gradle-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC)
+
+---
+
 ## BLEX
 
 - [`@2170004487z` - 빌드와 배포](https://blex.me/@2170004487z/%EB%B9%8C%EB%93%9C%EC%99%80-%EB%B0%B0%ED%8F%AC)

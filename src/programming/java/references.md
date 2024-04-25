@@ -86,12 +86,14 @@ tag:
 
 ### velog
 
+- [`@dudgns0507` - [Kotlin] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [`@qkrtkdwns3410` - [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
 - [`@qkrtkdwns3410` - FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
 - [`@qkrtkdwns3410` - [알고리즘] 주차요금 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0)
 - [`@dradnats1012` - DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
 - [`@danjr` - 이스케이프 문자열](https://velog.io/@danjr/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
 - [`@danjr` - JAVA - 반복문](https://velog.io/@danjr/JAVA-%EB%B0%98%EB%B3%B5%EB%AC%B8)
+- [`@hyemin916` - 자바와 함수형 프로그래밍](https://velog.io/@hyemin916/%EC%9E%90%EB%B0%94%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 
 ### BLEX
 
@@ -223,6 +225,8 @@ tag:
 - [[내일배움캠프 7일차 TIL] 배열부터 생성자 `this`까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-7%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B0%EC%97%B4%EB%B6%80%ED%84%B0-%EC%83%9D%EC%84%B1%EC%9E%90-this%EA%B9%8C%EC%A7%80)
 - [[ 99클럽 코테 스터디 25일차 TIL ] 프로그래머스 (가장 가까운 같은 글자 및 H-Index)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90-%EB%B0%8F-H-Index)
 - [[내일배움캠프 6일차 TIL] Java 문법 기초부터 반복문까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-6%EC%9D%BC%EC%B0%A8-TIL-Java-%EB%AC%B8%EB%B2%95-1-25)
+- [[내일배움캠프 8일차 TIL] 접근 제어자부터 다형성까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-8%EC%9D%BC%EC%B0%A8-TIL-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4%EC%9E%90%EB%B6%80%ED%84%B0-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B9%8C%EC%A7%80)
+- [[ 99클럽 코테 스터디 26일차 TIL ] 백준 (25311번 - UCPC에서 가장 쉬운 문제 번호는?)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-26%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-25311%EB%B2%88-UCPC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%AC%B8%EC%A0%9C-%EB%B2%88%ED%98%B8%EB%8A%94)
 
 
 ### 류광의 번역 이야기
@@ -267,6 +271,12 @@ tag:
 ## Enthusiastically, Steady, Slowly
 
 - [[숫자야구게임 Step2] 도메인 구현](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B5%AC%ED%98%84)
+- [[숫자야구게임 Step2] 비지니스 로직을 작성하자.](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90)
+- [[숫자야구게임 Step1] 실제 애플리케이션이 동작할 코드를 작성하자 & 마무리](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step1-%EC%8B%A4%EC%A0%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%A0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%A7%88%EB%AC%B4%EB%A6%AC)
+
+### CK.D. Lee
+
+- [Handle Cookies with Retrofit/OkHttp](https://jiafei427.wordpress.com/2016/04/29/handle-cookies-with-retrofitokhttp/)
 
 ---
 
@@ -415,6 +425,10 @@ tag:
 ### Jake Wharton
 
 - [Perils of duplicate finding](https://jakewharton.com/perils-of-duplicate-finding/)
+
+### Gun's Dev Log
+
+- [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html)
 
 ---
 

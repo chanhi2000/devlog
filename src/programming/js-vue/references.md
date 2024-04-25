@@ -29,7 +29,7 @@ head:
 ---
 
 ## Clien
-
+- [Vue와 Firebase로 나만의 사이트 만들기](https://www.clien.net/service/board/lecture/15244603)
 - [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(1) 세팅편](https://www.clien.net/service/board/lecture/17960697)
 - [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(2) Vue.js적용](https://www.clien.net/service/board/lecture/17962453)
 - [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(3)프론트 작업1](https://www.clien.net/service/board/lecture/17964735)
@@ -63,5 +63,23 @@ head:
 - [VuePress 博客如何开启本地 HTTPS 访问](https://segmentfault.com/a/1190000041416203/en)
 
 ---
+
+## morioh
+
+- [VueJS audio visualization Components](https://morioh.com/p/32b4e58d0c27)
+- [A UI components library which is based on Carbon-Design and VueJS](https://morioh.com/p/bec715bd9fa8)
+- [A vue2 component to display tree chart](https://morioh.com/p/819531f4c7f3)
+
+---
+
+## cube blog
+
+- [Vue 2 Query Builder with Cube](https://cube.dev/blog/vue-query-builder-with-cubejs)
+
+---
+
+## 우니의 블로그
+
+- [[vue.js] LIST 와 페이징 PAGING 이전, 다음 버튼](https://aspdotnet.tistory.com/3137)
 
 <TagLinks />

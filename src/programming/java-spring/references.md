@@ -90,8 +90,7 @@ head:
 
 ### Enthusiastically, Steady, Slowly
 
-- [[숫자야구게임 Step 1] 비지니스 로직을 작성하자.](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step-1-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90)
-- [[숫자야구게임 Step1] 실제 애플리케이션이 동작할 코드를 작성하자 & 마무리](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step1-%EC%8B%A4%EC%A0%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%A0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%A7%88%EB%AC%B4%EB%A6%AC)
+- [Top 10 REST Interview Questions for Java and Spring Developers(Java와 Spring 개발자를 위한 10개의 REST 면접 질문)](https://rutgo-letsgo.tistory.com/entry/Top-10-REST-Interview-Questions-for-Java-and-Spring-DevelopersJava%EC%99%80-Spring-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%9C%EC%9D%98-REST-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8)
 
 ### Octoping
 

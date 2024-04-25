@@ -68,7 +68,10 @@ tag:
 - [대화 상자 리소스를 프로젝트에서 분리하기](https://blog.naver.com/tipsware/223420801636)
 - [[EasyWin32] 구구단 실습](https://blog.naver.com/tipsware/223422630311)
 - [[EasyWin32] 오각형 그리기 - Step 1](https://blog.naver.com/tipsware/223424497418)
+- [[EasyWin32] 오각형 그리기 - Step 2](https://blog.naver.com/tipsware/223425632941?)
 - [[EasyWin32] 아날로그시계 만들기 - Step 1](https://blog.naver.com/tipsware/223423898917)
+- [[EasyWin32] 별 그리기 - Step 1](https://blog.naver.com/tipsware/223424677976)
+- [[EasyWin32] 별 그리기 - Step 2](https://blog.naver.com/tipsware/223425739427)
 
 ---
 

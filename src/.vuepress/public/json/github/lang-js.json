@@ -2224,5 +2224,10 @@
     "desc": "MaxBot open source code bot",
     "officialSite": "https://max-everyday.com/2018/03/tixcraft-bot/",
     "topics": ["maxbot", "python", "selenium"]
+  }, {
+    "repo": "catdad/canvas-confetti",
+    "desc": "🎉 performant confetti animation in the browser",
+    "officialSite": "https://catdad.github.io/canvas-confetti/",
+    "topics": ["animation", "burst", "canvas", "canvas-confetti", "confetti", "fireworks", "hacktoberfest", "jsdelivr", "particles", "snow"]
   }
 ]

@@ -469,5 +469,10 @@
     "desc": "A SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker",
     "officialSite": "",
     "topics": ["chat", "swift", "swift-library", "ios", "swiftui", "swiftui-components"]
+  }, {
+    "repo": "whoeevee/EeveeSpotify",
+    "desc": "A tweak to get Spotify Premium for free, just like Spotilife",
+    "officialSite": "",
+    "topics": []
   }
 ]
