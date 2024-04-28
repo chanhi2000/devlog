@@ -79,6 +79,12 @@ tag:
 
 ---
 
+## Substack
+
+- [`pragmaticengineer` - Scaling ChatGPT: Five Real-World Engineering Challenges](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt)
+
+---
+
 ## WeAreDevelopers
 
 - [10 Best AI Chrome Extensions for Developers](https://www.wearedevelopers.com/magazine/best-ai-chrome-extensions-for-developers)

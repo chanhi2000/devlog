@@ -843,16 +843,25 @@ https://anchor-tool.com/
 }
 ```
 
-- [github-opensource-guide](https://opensource.guide): Open source software is made by people just like you. Learn how to launch and grow your project.
+```component VPCard
+{
+  "title": "Open Source Guides | Learn how to launch and grow your project.",
+  "desc": "Learn how to launch and grow your project.",
+  "link": "https://opensource.guide/",
+  "logo": "https://opensource.guide/favicon.ico",
+  "background": "rgba(16,10,10,0.2)"
+}
+```
+
 - https://developers.google.com/youtube/documentation
 - https://jshint.com
 - https://www.emailjs.com/docs
+- https://developers.naver.com/main/
 
 @tab Regex
 
 - https://regexper.com
 - https://regexr.com
-
 
 @tab Misc.
 

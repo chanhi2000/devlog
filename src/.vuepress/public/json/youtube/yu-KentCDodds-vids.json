@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/3eTgCpcxxbtLDyfJfCselmzJczBsPIOXBTiKIhBWEMtd8EMk37PG8q5GDShRkCMKXc3QyN8etw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PLhcJkmrs-E", "title": "User Experience and Web Development with Ryan Florence" },
+    { "id": "liHmU3iII0Q", "title": "The Web and Design Systems with Michael Chan" },
+    { "id": "MSsoDojblfE", "title": "Deep in Databases and Full Stack Dev with Tyler Benfield" },
+    { "id": "unxBQtjUKNA", "title": "Design the React component library" },
     { "id": "lYNa6Ct4RkY", "title": "James Henry shows Kent how to use nx release" },
     { "id": "b4TqL_Yar90", "title": "EpicWeb.dev Live stream: Organizing the Workshop App" },
     { "id": "YfOBfLsjWX0", "title": "Mocking in the full stack metaframework Era" },

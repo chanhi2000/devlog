@@ -299,6 +299,16 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+```component VPCard
+{
+  "title": "NAVER Open Source",
+  "desc": "Open, Share and Enjoy - NAVER Open Source",
+  "link": "https://naver.github.io/",
+  "logo": "https://naver.github.io/assets/images/favicon.ico",
+  "background": "rgba(75,136,209,0.2)"
+}
+```
+
 @tab Package Manager
 
 ```component VPCard
@@ -403,6 +413,7 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+https://dx.addy.ie/
 https://exercism.org/
 https://startyourownisp.com/
 

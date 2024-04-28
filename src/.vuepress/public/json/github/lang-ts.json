@@ -1285,9 +1285,9 @@
     "topics": []
   }, {
     "repo": "langfuse/langfuse",
-    "desc": "Open source observability and analytics for LLM applications",
-    "officialSite": "https://langfuse.com",
-    "topics": []
+    "desc": "🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. 🍊YC W23 ",
+    "officialSite": "https://langfuse.com/docs",
+    "topics": ["analytics", "evals", "evaluation", "gpt", "langchain", "large-language-models", "llama-index", "llm", "llm-evaluation", "llmops", "monitoring", "observability", "open-source", "openai", "playground", "prompt-engineering", "prompt-management", "self-hosted", "ycombinator"]
   }, {
     "repo": "withfig/autocomplete",
     "desc": "IDE-style autocomplete for your existing terminal & shell",
@@ -2673,5 +2673,25 @@
     "desc": "A single API for all your integrations.",
     "officialSite": "https://www.nango.dev",
     "topics": ["access-token", "api", "api-client", "api-integration", "api-integrations", "integrations", "oauth", "oauth1", "oauth2", "product-integration", "refresh-token", "unified-api"]
+  }, {
+    "repo": "cohere-ai/cohere-toolkit",
+    "desc": "Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tscircuit/tscircuit",
+    "desc": "⏣ React for Circuits",
+    "officialSite": "https://tscircuit.com",
+    "topics": []
+  }, {
+    "repo": "remorses/docker-phobia",
+    "desc": "Analyze Docker images size",
+    "officialSite": "https://docker-phobia.vercel.app",
+    "topics": []
+  }, {
+    "repo": "hydralauncher/hydra",
+    "desc": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+    "officialSite": "https://hydralauncher.site",
+    "topics": []
   }
 ]

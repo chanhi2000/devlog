@@ -62,37 +62,26 @@ head:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-```component VPCard
-{
-  "title": "리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 1편 : NHN Cloud Meetup", 
-  "desc": "리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 1편", 
-  "link": "/explore/articles/meetup.nhncloud.com/53.md",
-  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
-  "background": "rgba(76,156,227,0.2)"
-}
-```
+<SiteInfo
+  name="리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 1편 | NHN Cloud Meetup"
+  desc="리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 1편"
+  url="/explore/articles/meetup.nhncloud.com/53.md"
+  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
+  preview="/images/content/meetup.nhncloud.com/53/banner.png"/>
 
-```component VPCard
-{
-  "title": "리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 2편 : NHN Cloud Meetup", 
-  "desc": "리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 2편", 
-  "link": "/explore/articles/meetup.nhncloud.com/54.md",
-  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
-  "background": "rgba(76,156,227,0.2)"
-}
-```
+<SiteInfo
+  name="리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 2편 | NHN Cloud Meetup"
+  desc="리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 2편"
+  url="/explore/articles/meetup.nhncloud.com/54.md"
+  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
+  preview="/images/content/meetup.nhncloud.com/53/banner.png"/>
 
-```component VPCard
-{
-  "title": "리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 3편 : NHN Cloud Meetup", 
-  "desc": "리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 3편", 
-  "link": "/explore/articles/meetup.nhncloud.com/55.md",
-  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
-  "background": "rgba(76,156,227,0.2)"
-}
-```
-
-
+<SiteInfo
+  name="리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 3편 | NHN Cloud Meetup"
+  desc="리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기 - 3편"
+  url="/explore/articles/meetup.nhncloud.com/55.md"
+  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
+  preview="/images/content/meetup.nhncloud.com/53/banner.png"/>
 
 ---
 

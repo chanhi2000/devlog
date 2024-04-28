@@ -6,6 +6,16 @@
     "banner": ""
   },
   "videos": [
+    { "id": "fexU2F7mumw", "title": "Memory Safe C++" },
+    { "id": "ciddoi_Wc4Y", "title": "The Best Binutil for Programming #lowcode #coding" },
+    { "id": "-D1gf3omRnw", "title": "researchers find unfixable bug in apple computers" },
+    { "id": "QVPMjbYbiQQ", "title": "AWAVAUATUSH" },
+    { "id": "ixn5OygxBY4", "title": "new linux exploit is absolutely insane" },
+    { "id": "jqjtNDtbDNI", "title": "secret backdoor found in open source software (xz situation breakdown)" },
+    { "id": "vV_WdTBbww4", "title": "revealing the features of the XZ backdoor" },
+    { "id": "wLpBJKZckl0", "title": "major security vulnerability found in rust (over hyped?)" },
+    { "id": "iZ2tUmAkFV0", "title": "researchers find zero day vulnerability in widely used firewalls" },
+    { "id": "kQdRT2odUIk", "title": "this is a warning to everyone using php" },
     { "id": "97i2BAUw5Xc", "title": "3 concepts to master the lowest level (try it right now)" },
     { "id": "jtRHYQxbRxw", "title": "they put WHAT on the internet???" },
     { "id": "frFZxdYLqVQ", "title": "LLVM == BASEDLANG" },

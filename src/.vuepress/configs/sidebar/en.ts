@@ -105,6 +105,13 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/yozm.wishket.com/2545.md',
               ]
+            }, {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/377.md',
+              ]
             }
           ]
         }
@@ -186,6 +193,14 @@ export const sidebarEn = sidebar({
               icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
               children: [
                 '/explore/articles/yozm.wishket.com/2478.md',
+                '/explore/articles/yozm.wishket.com/2561.md',
+              ]
+            }, {
+              text: 'd2.naver.com',
+              collapsible: true,
+              icon: '/images/content/d2.naver.com/favicon.ico',
+              children: [
+                '/explore/articles/d2.naver.com/6445508.md',
               ]
             }, {
               text: 'kt.academy',
@@ -222,6 +237,21 @@ export const sidebarEn = sidebar({
               icon: 'https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg',
               children: [
                 '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
+              ]
+            }, {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/374.md',
+                '/explore/articles/meetup.nhncloud.com/379.md',
+              ]
+            }, {
+              text: 'd2.naver.com',
+              collapsible: true,
+              icon: '/images/content/d2.naver.com/favicon.ico',
+              children: [
+                '/explore/articles/d2.naver.com/1203723.md',
               ]
             }
           ]
@@ -265,6 +295,13 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md'
               ]
+            },  {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/371.md',
+              ]
             }
           ]
         }
@@ -278,6 +315,21 @@ export const sidebarEn = sidebar({
         '/programming/java-kafka/references.md',
         '/programming/java-kafka/github.md',
         '/programming/java-kafka/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            {
+              text: 'd2.naver.com',
+              collapsible: true,
+              icon: '/images/content/d2.naver.com/favicon.ico',
+              children: [
+                '/explore/articles/d2.naver.com/6445508.md',
+              ]
+            }, 
+          ]
+        }
       ]
     }, {
       text: 'Swift',
@@ -358,6 +410,7 @@ export const sidebarEn = sidebar({
               icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
               children: [
                 '/explore/articles/meetup.nhncloud.com/251.md',
+                '/explore/articles/meetup.nhncloud.com/371.md',
               ]
             }
           ]
@@ -429,7 +482,7 @@ export const sidebarEn = sidebar({
             }, {
               text: 'd2.naver.com',
               collapsible: true,
-              icon: '/favicons/d2-naver-com.ico',
+              icon: '/images/content/d2.naver.com/favicon.ico',
               children: [
                 '/explore/articles/d2.naver.com/6532276.md',
               ]
@@ -536,6 +589,15 @@ export const sidebarEn = sidebar({
         '/programming/js-angular/youtube.md',
       ]
     }, {
+      text: 'GraphQL',
+      collapsible: true,
+      icon: 'iconfont icon-graphql',
+      children: [
+        '/programming/js-graphql/README.md',
+        '/programming/js-graphql/references.md',
+        '/programming/js-graphql/youtube.md',
+      ],
+    }, {
       text: 'Mermaid.js',
       collapsible: true,
       icon: 'iconfont icon-mermaid',
@@ -566,6 +628,13 @@ export const sidebarEn = sidebar({
                 '/explore/articles/yozm.wishket.com/2543.md',
                 '/explore/articles/yozm.wishket.com/2536.md',
                 '/explore/articles/yozm.wishket.com/2057.md',
+              ]
+            }, {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/378.md',
               ]
             }
           ]
@@ -674,7 +743,7 @@ export const sidebarEn = sidebar({
             }, {
               text: 'code-maze.com',
               collapsible: true,
-              icon: '/favicons/code-maze-com.png',
+              icon: '/images/code-maze.com/favicon.png',
               children: [
                 '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
               ]
@@ -691,6 +760,25 @@ export const sidebarEn = sidebar({
         '/programming/go/references.md',
         '/programming/go/github.md',
         '/programming/go/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            {
+              text: 'd2.naver.com',
+              collapsible: true,
+              icon: '/images/content/d2.naver.com/favicon.ico',
+              children: [
+                '/explore/articles/d2.naver.com/8588537.md',
+                '/explore/articles/d2.naver.com/6178029.md',
+                '/explore/articles/d2.naver.com/2690202.md',
+                '/explore/articles/d2.naver.com/6507662.md',
+                '/explore/articles/d2.naver.com/8404108.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Dart',
@@ -754,6 +842,22 @@ export const sidebarEn = sidebar({
         '/programming/c/references.md',
         '/programming/c/github.md',
         '/programming/c/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            'programming/c/articles/README.md',
+            {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/376.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'C++',
@@ -765,6 +869,29 @@ export const sidebarEn = sidebar({
         '/programming/cpp/references.md',
         '/programming/cpp/github.md',
         '/programming/cpp/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            'programming/cpp/articles/README.md',
+            {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/378.md',
+              ]
+            }, {
+              text: 'd2.naver.com',
+              collapsible: true,
+              icon: '/images/content/d2.naver.com/favicon.ico',
+              children: [
+                '/explore/articles/d2.naver.com/1203723.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Zig',
@@ -1135,7 +1262,7 @@ export const sidebarEn = sidebar({
         '/devops/qemu/references.md',
         '/devops/qemu/youtube.md',
       ]
-    },{
+    }, {
       text: 'KVM',
       collapsible: true,
       icon: 'fa-brands fa-linux',
@@ -1143,6 +1270,15 @@ export const sidebarEn = sidebar({
         '/devops/kvm/README.md',
         '/devops/kvm/references.md',
         '/devops/kvm/youtube.md',
+      ]
+    }, {
+      text: 'Virtualbox',
+      collapsible: true,
+      icon: 'iconfont icon-virtualbox',
+      children: [
+        '/devops/virtualbox/README.md',
+        '/devops/virtualbox/references.md',
+        '/devops/virtualbox/youtube.md',
       ]
     }, {
       text: 'oVirt',
@@ -1241,6 +1377,15 @@ export const sidebarEn = sidebar({
       children: [
         '/devops/openshift/README.md',
         '/devops/openshift/references.md',
+      ]
+    }, {
+      text: 'Vagrant',
+      collapsible: true,
+      icon: 'iconfont icon-vagrant',
+      children: [
+        '/devops/vagrant/README.md',
+        '/devops/vagrant/references.md',
+        '/devops/vagrant/youtube.md',
       ]
     }, {
       text: 'AWS',
@@ -1641,6 +1786,8 @@ export const sidebarEn = sidebar({
             '/explore/articles/yozm.wishket.com/2543.md',
             '/explore/articles/yozm.wishket.com/2545.md',
             '/explore/articles/yozm.wishket.com/2556.md',
+            '/explore/articles/yozm.wishket.com/2561.md',
+            '/explore/articles/yozm.wishket.com/2563.md',
           ]
         }, {
           text: 'freecodecamp.org',
@@ -1745,7 +1892,7 @@ export const sidebarEn = sidebar({
         }, {
           text: 'code-maze.com',
           collapsible: true,
-          icon: '/favicons/code-maze-com.png',
+          icon: '/images/code-maze.com/favicon.png',
           children: [
             '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
           ]
@@ -1773,9 +1920,17 @@ export const sidebarEn = sidebar({
         }, {
           text: 'd2.naver.com',
           collapsible: true,
-          icon: '/favicons/d2-naver-com.ico',
+          icon: '/images/content/d2.naver.com/favicon.ico',
           children: [
+            '/explore/articles/d2.naver.com/1203723.md',
+            '/explore/articles/d2.naver.com/2690202.md',
+            '/explore/articles/d2.naver.com/6178029.md',
+            '/explore/articles/d2.naver.com/6445508.md',
+            '/explore/articles/d2.naver.com/6507662.md',
             '/explore/articles/d2.naver.com/6532276.md',
+            '/explore/articles/d2.naver.com/8588537.md',
+            '/explore/articles/d2.naver.com/8404108.md',
+            '/explore/articles/d2.naver.com/9581727.md'
           ]
         }, {
           text: 'meetup.nhncloud.com',
@@ -1787,6 +1942,12 @@ export const sidebarEn = sidebar({
             '/explore/articles/meetup.nhncloud.com/55.md',
             '/explore/articles/meetup.nhncloud.com/251.md',
             '/explore/articles/meetup.nhncloud.com/311.md',
+            '/explore/articles/meetup.nhncloud.com/374.md',
+            '/explore/articles/meetup.nhncloud.com/375.md', // TODO: deep-learning
+            '/explore/articles/meetup.nhncloud.com/376.md',
+            '/explore/articles/meetup.nhncloud.com/377.md',
+            '/explore/articles/meetup.nhncloud.com/378.md',
+            '/explore/articles/meetup.nhncloud.com/379.md',
           ]
         }, {
           text: 'engineering.linecorp.com',
@@ -1820,6 +1981,7 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/yozm.wishket.com/2464.md', // career?
                 '/explore/articles/yozm.wishket.com/2519.md', // career?
+                '/explore/articles/yozm.wishket.com/2563.md',
               ]
             },
           ]

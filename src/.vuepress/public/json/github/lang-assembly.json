@@ -49,5 +49,10 @@
     "desc": "Retro-tech HP-25 calculator clone using Z80",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
+    "officialSite": "https://en.wikipedia.org/wiki/MS-DOS",
+    "topics": ["ms-dos"]
   }
 ]

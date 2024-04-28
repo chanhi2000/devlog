@@ -46,12 +46,19 @@ tag:
 - [Deno by example](https://examples.deno.land)
 - [ControlChallenges](http://janismac.github.io/ControlChallenges)
 - [JS CheatSheet](https://htmlcheatsheet.com/js)
+- [The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
 
 ---
 
 ## Tool
 
 - [Symphony: Use GPT-4 to call functions in sequence.](https://www.symphony.run)
+
+---
+
+## Github
+
+- [<FontIcon icon="fa-brands fa-markdown"/>`guest271314/javascript_engines_and_runtimes.md`](https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a)
 
 ---
 
@@ -918,6 +925,12 @@ tag:
 ## hELLO
 
 - [hELLO 티스토리 스킨을 소개합니다.](https://pronist.tistory.com/5)
+
+---
+
+## @rafaelgss tech blog
+
+- [State of Node.js Performance 2023](https://blog.rafaelgss.dev/state-of-nodejs-performance-2023)
 
 ---
 

@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/KlBXEQGrx99lGpfyBnu2eKtSm2TkO0tyh7VpXciE9kWl6Gvdeq2UxdzqYPRZo-AkUvkLvulm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "T6AU0MHiJpM", "title": "105- Green Theorem 17, Centroid, Moments of Inertia of a Rotated Ellipse, rplc 사용법" },
+    { "id": "sc4Ff1749z8", "title": "106- Green Theorem 18, Torus and Pappus's Theorems, OpenGL 컴파일 스위치" },
+    { "id": "YA-OH4BXrus", "title": "001- (SETUP) Hello CUDA Functional Programming 및 OpenGL 3D Graphics" },
+    { "id": "7XMYPU9G3IU", "title": "002- CUDA, cudavars, evaluate, argument_count, parameter_count_v, call_redirect" },
+    { "id": "TdEGGUo2978", "title": "003- CUDA Functional Programming, call_redirect()" },
+    { "id": "QZMPqee0I8s", "title": "004- Cuda Debugging, aout, dim, Cuda_TypeName, Cuda_TypeCategory, Cuda_PackName" },
+    { "id": "lTQfqVRlpp4", "title": "005- CUDA, 복소수 함수 미분법, Cauchy-Riemann Equations, random complex, cplx, Holomorphic function" },
+    { "id": "getcTmw9KDU", "title": "006- CUDA, Complex Derivative CPU (Host) Implementation, Fundamental Theorem of Algebra" },
+    { "id": "uEoHBb6BcV0", "title": "언어가 말하는 사람의 태도와 성격을 바꾼다, 쥔짜로?" },
+    { "id": "L9jFIRLGVXo", "title": "013- FFT 1/2, Derivatives using FFT (Fast Fourier Transformation)" },
+    { "id": "DrzdLVUDjZ0", "title": "015- Multivariate FFT, 다변수 FFT 편미분 알고리즘" },
+    { "id": "fdD0nX53sY4", "title": "016- Integration on Polar Coordinates, Taylor Series with FFT Algorithm" },
     { "id": "RY6qwaTPbcs", "title": "080- Surface Integral 1, Scalar Integrand, drv5, oprvar, dior, pras, Vector Calculus" },
     { "id": "Nmrke53KYqQ", "title": "082- Surface Integral 3, Cylindrical Coordinates, Scalar Integrand, oprvar, Vector Calculus" },
     { "id": "61dZL8XSEBw", "title": "083- Surface Integral 4, Cylindrical Coordinates along X-axis, Scalar Integrand, Vector Calculus" },

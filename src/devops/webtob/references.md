@@ -3,6 +3,10 @@ lang: ko-KR
 title: References
 description: WebtoB > References
 icon: iconfont icon-share
+category:
+  - Web Server
+  - WebtoB
+  - References
 tags:
   - http.m
   - webtob
@@ -11,7 +15,6 @@ tags:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

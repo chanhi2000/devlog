@@ -13,7 +13,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Vue.js > Article(s)
+      content: Git > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url
@@ -32,6 +32,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "NHN Cloud Meetup - NHN 기술 블로그",
+  "desc": "기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.",
+  "link": "https://meetup.nhncloud.com/",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -47,6 +57,17 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+<SiteInfo
+  name="메시징플랫폼개발팀의 브랜칭 전략은? Release Flow! | NHN Cloud Meetup"
+  desc="메시징플랫폼개발팀의 브랜칭 전략은? Release Flow!"
+  url="/explore/articles/meetup.nhncloud.com/377.md"
+  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
+  preview="https://image.toast.com/aaaadh/real/2024/techblog/uC12CuB124uC77C4.png"/>
 
 ---
 

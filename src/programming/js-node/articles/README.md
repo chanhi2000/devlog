@@ -53,8 +53,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/favicons/d2-naver-com.ico"
-  preview="https://d2.naver.com/image/20180416/470263027842.png"/>
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 ```component VPCard
 {
@@ -235,7 +235,7 @@ head:
   "title": "User-Agent Client Hints의 도입, UA 프리징을 대비하라",
   "desc": "Devtools Tips > User-Agent Client Hints의 도입, UA 프리징을 대비하라",
   "link": "https://d2.naver.com/helloworld/6532276",
-  "logo": "/favicons/d2-naver-com.ico",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```

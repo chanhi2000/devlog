@@ -2105,11 +2105,6 @@
     "officialSite": "https://trix-editor.org/",
     "topics": ["custom-elements", "editor", "javascript", "rich-text-editor", "text-editor", "wysiwyg", "wysiwyg-editor"]
   }, {
-    "repo": "zyronon/douyin",
-    "desc": "TikTok 抖音 Vue.js",
-    "officialSite": "http://dy.ttentau.top/",
-    "topics": ["douyin", "js", "tiktok", "vue", "vue3"]
-  }, {
     "repo": "mcollina/borp",
     "desc": "node:test runner wrapper with TypeScript support",
     "officialSite": "",
@@ -2229,5 +2224,10 @@
     "desc": "🎉 performant confetti animation in the browser",
     "officialSite": "https://catdad.github.io/canvas-confetti/",
     "topics": ["animation", "burst", "canvas", "canvas-confetti", "confetti", "fireworks", "hacktoberfest", "jsdelivr", "particles", "snow"]
+  }, {
+    "repo": "zk-Call/zkp-hmac-communication-js",
+    "desc": "\"Zero-Knowledge\" Proof Implementation with HMAC Communication in JavaScript",
+    "officialSite": "https://zkcall.net",
+    "topics": ["hmac", "javascript", "zero-knowledge", "zk-call", "zkproof"]
   }
 ]

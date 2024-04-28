@@ -205,7 +205,7 @@ image: node:12
 
 The first step in resolving this issue is understanding which Docker image is being used by the job.
 
-![Job failing with the error: npm: command not found.](/images/troubleshooting-gitlab-ci/job-failing-w-the-rorror-npm-command-not-found.png)
+![Job failing with the error: npm: command not found.](/images/gitlab/troubleshooting/job-failing-w-the-rorror-npm-command-not-found.png)
 
 If you don’t specify a Docker image for your job, the GitLab runner executing your job will use the default image, in this case: `ruby:2.5` . The problem with this is that this Docker container does not have `node` and `npm` installed, and this is why the job is failing.
 
@@ -236,7 +236,7 @@ Quite often we set environment variables in GitLab to avoid storing them inside 
 
 Try to see if this works both within the main branch, was well as in the merge requests. If it only works on the main branch, re-check your configuration.
 
-![Gitlab Variables](/images/troubleshooting-gitlab-ci/gitlab-variables.png)
+![Gitlab Variables](/images/gitlab/troubleshooting/gitlab-variables.png)
 
 Make sure you understand the difference between a protected variable and a masked variable. If you have a variable which you need in Merge Requests / branches, this variable needs to be unprotected, as most likely the branch itself is unprotected.
 

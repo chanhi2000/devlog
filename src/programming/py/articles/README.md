@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - yozm.wishket.com
+  - meetup.nhncloud.com
   - python
   - py
   - pip
@@ -37,6 +38,18 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "NHN Cloud Meetup - NHN 기술 블로그",
+  "desc": "기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.",
+  "link": "https://meetup.nhncloud.com/",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
+
+---
 
 ## Table of Contents
 
@@ -69,6 +82,17 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+<SiteInfo
+  name="디스어셈블 프레임워크 Capstone-engine 활용하기 | NHN Cloud Meetup"
+  desc="디스어셈블 프레임워크 Capstone-engine 활용하기"
+  url="/explore/articles/meetup.nhncloud.com/378.md"
+  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
+  preview="https://image.toast.com/aaaadh/real/2024/techblog/NHN%20Cloudmeetup%20bannercapstone202403.png"/>
 
 ---
 

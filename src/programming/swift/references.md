@@ -13,7 +13,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -51,6 +50,7 @@ tag:
 ## Substack
 
 - [`speakinginswift` - Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
+- [`jacobbartlett` - How to use SwiftData outside SwiftUI](https://jacobbartlett.substack.com/p/swiftdata-outside-swiftui/)
 
 ---
 
@@ -74,11 +74,9 @@ tag:
 - [SwiftUI: MVVM 이해하기](https://xho95.github.io/swiftui/architecture/mvvm/logic/2020/08/05/SwiftUI-MVVM.html)
 - [The Swift Programming Language (Swift 5.7)1 책 번역](https://xho95.github.io/swift/programming/language/grammar/2017/02/28/The-Swift-Programming-Language.html)
 - [Understanding Objective-C to Swift Interoperability Using Xcode-Generated Interfaces](https://blog.swiftify.com/understanding-objective-c-swift-interoperability-xcode-generated-interfaces-5e73a5e3a4ec)
-- [[iOS][Swift] 모듈간의 관계를 Dependency Injection Container으로 풀어보자](https://minsone.github.io/programming/swift-solved-circular-dependency-from-dependency-injection-container)
 - [How to send push notifications on the iOS simulator?](https://swiftbyrahul.com/2020/04/how-to-send-push-notifications-on-the-ios-simulator)
 - [How to create custom redacted effects](https://www.fivestars.blog/articles/redacted-custom-effects)
 - [iOS Setting Bundle을 이용한 앱 테스트 환경 구성하기](https://fernando.kr/ios/2020-07-29-ios-setting-bundle)
-- [[Swift5.1+][RIBs] dynamicMemberLookup의 KeyPath를 이용하여 Component의 Dependency 속성을 접근하기](https://minsone.github.io/programming/swift-ribs-access-dependency-property-using-dynamic-member-lookup)
 
 ---
 
@@ -107,6 +105,7 @@ tag:
 - [`hinaabbaskhan` - Image Processing Using Swift](https://code.likeagirl.io/image-processing-using-swift-fa5cd5ffab98)
 - [`@prashantdixit_87612` - Creating and publishing your own iOS library in Swift(2024) | Part 1](https://medium.com/@prashantdixit_87612/creating-and-publishing-your-own-ios-library-in-swift-2024-part-1-4dd8b211802a)
 - [`jamf-engineering` - Swift 6 upgrade Preparation](https://medium.com/jamf-engineering/swift-6-upgrade-preparation-0941fbea2db6)
+- [`@domen.lanisnik` - Swift Cheatsheet for Android/Kotlin Developers](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6)
 
 ---
 
@@ -337,7 +336,10 @@ tag:
 
 ## 민소네
 
+- [[iOS][Swift] 모듈간의 관계를 Dependency Injection Container으로 풀어보자](https://minsone.github.io/programming/swift-solved-circular-dependency-from-dependency-injection-container)
+- [[Swift5.1+][RIBs] dynamicMemberLookup의 KeyPath를 이용하여 Component의 Dependency 속성을 접근하기](https://minsone.github.io/programming/swift-ribs-access-dependency-property-using-dynamic-member-lookup)
 - [Realistic Motion Blur](https://minsone.github.io/swiftui-code/Realistic-Motion-Blur/)
+- [[Swift] Defer를 이용하여 Closure 실행 보장하기](https://minsone.github.io/swift-ensuring-closure-execution-with-defer)
 
 ---
 

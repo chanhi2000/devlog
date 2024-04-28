@@ -15,6 +15,7 @@
   { "logo": "apachemaven", "name": "Apache%20Maven", "colorHex": "C71A36" },
   { "logo": "apachetomcat", "name": "Apache%20Tomcat", "colorHex": "F8DC75" },
   { "logo": "apple", "name": "macOS", "colorHex": "000000" },
+  { "logo": "apollographql", "name": "Apollo GraphQL", "colorHex": "E10098" },
   { "logo": "appstore", "name": "App%20Store", "colorHex": "0D96F6" },
   { "logo": "awesomelists", "name": "Awesome%20Lists", "colorHex": "FC60A8" },
   { "logo": "azureartifacts", "name": "Azure%20Artifacts", "colorHex": "CB2E6D" },

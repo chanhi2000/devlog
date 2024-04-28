@@ -31,7 +31,8 @@ tag:
 
 ## velog
 
-- [`@jooss287`: 코드의 수행시간 체크하기](https://velog.io/@jooss287/%EC%BD%94%EB%93%9C%EC%9D%98-%EC%88%98%ED%96%89%EC%8B%9C%EA%B0%84-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0)
+- [`@jooss287` - 코드의 수행시간 체크하기](https://velog.io/@jooss287/%EC%BD%94%EB%93%9C%EC%9D%98-%EC%88%98%ED%96%89%EC%8B%9C%EA%B0%84-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0)
+- [`@1106laura` - 백준 2890 카약 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-2890-%EC%B9%B4%EC%95%BD-C)
 
 ---
 

@@ -126,6 +126,10 @@ export const navbarEn = navbar([
         text: 'Angular.js',
         icon: 'fa-brands fa-angular',
         link: '/programming/js-angular/README.md',
+      }, {
+        text: 'GraphQL',
+        icon: 'iconfont icon-graphql',
+        link: '/programming/js-graphql/README.md',
       }, {  
         text: 'Mermaid.js',
         link: '/programming/js-mermaid/README.md',
@@ -249,6 +253,10 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-linux',
         link: '/devops/kvm/README.md',
       }, {
+        text: 'Virtualbox',
+        icon: 'iconfont icon-virtualbox',
+        link: '/devops/virtualbox/README.md',
+      }, {
         text: 'oVirt',
         icon: 'iconfont icon-ovirt',
         link: '/devops/ovirt/README.md',
@@ -268,6 +276,10 @@ export const navbarEn = navbar([
         text: 'Openshift',
         icon: 'fa-brands fa-redhat',
         link: '/devops/openshift/README.md',
+      }, {
+        text: 'Vagrant',
+        icon: 'iconfont icon-vagrant',
+        link: '/devops/vagrant/README.md',
       }, {
         text: 'AWS',
         icon: 'fa-brands fa-aws',

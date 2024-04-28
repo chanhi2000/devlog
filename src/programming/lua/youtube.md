@@ -43,5 +43,6 @@ head:
 <MyYouTubeItems jsonName="yu-awskrug" /><!-- AWS 한국사용자모임 - AWSKRUG -->
 <MyYouTubeItems jsonName="yu-10xaiclub" /><!-- 10X AI Club -->
 <MyYouTubeItems jsonName="yu-Axlefublr" /><!-- Axlefublr (she\\they) -->
+<MyYouTubeItems jsonName="yu-SebastianDaschnerIT" /><!-- Sebastian Daschner -->
 
 <TagLinks />

@@ -85,6 +85,8 @@ tag:
 - [`proandroiddev` - Efficiency Redefined: Making Multimodule Configuration a Breeze in Kotlin Multiplatform Projects with Gradle Convention Plugins](https://vaibhav3011.medium.com/effortless-multimodule-configuration-for-kotlin-multiplatform-projects-with-gradle-convention-8e6593dff1d9)
 - [`@jacobras` - Getting the native iOS look & feel in your Compose Multiplatform app](https://medium.com/@jacobras/getting-the-native-ios-look-feel-in-your-compose-multiplatform-app-33371e6ad362)
 - [`bumble-tech` - Refining Compose API for design systems](https://medium.com/bumble-tech/refining-compose-api-for-design-systems-d652e2c2eac3)
+- [`proandroiddev` - Navigating the Waters of Kotlin Multiplatform: Exploring Navigation Solutions](https://proandroiddev.com/navigating-the-waters-of-kotlin-multiplatform-exploring-navigation-solutions-eef81aaa1a61)
+
 
 ---
 
@@ -270,6 +272,13 @@ tag:
 - [Kotlin Delegation을 알아보고, Delegated Properties와 class에서의 Delegation을 알아본다.](https://thdev.tech/kotlin/2020/11/27/kotlin_delegation)
 - [상속! 악마의 속삭임, 그 속에 숨겨진 문제점, Kotlin에서는 Delegation을 활용해 보자.](https://thdev.tech/kotlin/2020/12/01/kotlin_effective_13)
 - [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15)
+
+---
+
+## Touchlab
+
+- [Jetpack Compose for iOS: Interoping with native Components](https://touchlab.co/jetpack-compose-ios-interop)
+- [Jetpack Compose to Compose Multiplatform: Transition Guide](https://touchlab.co/compose-multiplatform-transition-guide)
 
 ---
 

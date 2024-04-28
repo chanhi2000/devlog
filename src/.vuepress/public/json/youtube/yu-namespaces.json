@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/pyzOIA2GhtJ4hE-z5K9whw5IKtPCD06quvhlu021c7Iy-WzkvzAp3P4nwMCqWBXnATa1MqQPyQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AfiUP-uKDJM", "title": "앤트로픽의 새로운 AI 모델 '클로드 3', GPT-4와 제미나이 울트라를 넘어서다!" },
+    { "id": "gC6MpwFLX-k", "title": "AI 개발자 Devin의 등장과 개발자의 미래" },
     { "id": "1XV6voHjFB0", "title": "GPT Pilot을 사용해 웹서비스를 만들어 봤습니다. 비용과 소감에 대한 영상입니다." },
     { "id": "GFyUHBfMAT8", "title": "[chatGPT]쇼츠 영상 자동 생성 오픈소스 튜토리얼" },
     { "id": "PCyw_JO5zQ4", "title": "앤스로픽의 게임체인저, 클로드 2.1: 어떻게 GPT-4를 능가하나?" },

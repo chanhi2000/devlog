@@ -98,7 +98,7 @@ docker logs -f gitlab
 
 ### Gitlab Admin 계정
 
-![처음에 접근 시 이와 같은 현상이 나타남][gitlab-pending-approval-1]
+![처음에 접근 시 이와 같은 현상이 나타남](/images/gitlab/docker/pending-approval-1.png)
 
 컨테이너로 sh접근
 
@@ -122,9 +122,9 @@ Password: +Q1PpDEfw2NvY5u+HAsMgzbWg6WZozON4tAnOldG1/c=
 
 ### 타 사용자 Approve
 
-![Pending Approval 1/2][gitlab-pending-approval-2]
+![Pending Approval 1/2](/images/gitlab/docker/pending-approval-2.png)
 
-![Pending Approval 2/2][gitlab-pending-approval-3]
+![Pending Approval 2/2](/images/gitlab/docker/pending-approval-3.png)
 
 ---
 
@@ -136,7 +136,3 @@ http://localhost:1980
 ---
 
 <TagLinks />
-
-[gitlab-pending-approval-1]: /images/gitlab-pending-approval-1.png
-[gitlab-pending-approval-2]: /images/gitlab-pending-approval-2.png
-[gitlab-pending-approval-3]: /images/gitlab-pending-approval-3.png

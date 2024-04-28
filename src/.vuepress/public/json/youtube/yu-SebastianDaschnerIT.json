@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/ZQcq71wilh6QLITxyGFB7fOuKVKi2ELVj6Pz_mHiGbsUn-Yw8eRAV8ie-RzHEpDCoZ47vKRx=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8CZIv3MJvic", "title": "Tour of My Dotfiles" },
+    { "id": "5BU2gBOe9RU", "title": "Vim Tips I Wish I Knew Earlier" },
+    { "id": "mU74XKmUMbw", "title": "Uploading Files With Quarkus (Update)" },
     { "id": "Ewpk5kGfbko", "title": "Effective Developer Workflows With Quarkus" },
     { "id": "kp0kfcgMT_U", "title": "Why I'm Using a Tiling Window Manager" },
     { "id": "ktGq4ks1f74", "title": "How To Become Better At The Keyboard" },

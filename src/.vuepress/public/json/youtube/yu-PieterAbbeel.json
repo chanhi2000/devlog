@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "8ibaG_DPly8", "title": "L9 Generative Video -- UC Berkeley, Spring 2024 -- Wilson Yan" },
+    { "id": "Hr2FWHBuNXs", "title": "L12b Parallelization -- Instructor: Wilson Yan" },
+    { "id": "A36T-MPihTo", "title": "L12a Multimodal Models  -- Instructor: Wilson Yan" },
     { "id": "NlIqjtbjjRE", "title": "L4 Latent Variable Models and Variational AutoEncoders -- CS294-158 SP24 Deep Unsupervised Learning" },
     { "id": "lFAHPJS2HHc", "title": "L5 GANs -- CS294-158 SP24 Deep Unsupervised Learning -- UC Berkeley" },
     { "id": "DsEDMjdxOv4", "title": "L6 Diffusion Models (SP24)" },

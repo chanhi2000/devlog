@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/pfx3FySE0cNcMV841FU9J1B8H9y1iO3vv1tEf7egC0eShTjmD3F6n39dKLFE-G8fcnRkJn8ZtA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HVub2u8DpDQ", "title": "Bottom Navigation in Jetpack Compose  - #8" },
+    { "id": "NfRu5T6-0ro", "title": "Why Do We Convert Objects with Mappers?" },
+    { "id": "f-gKZjjSHPc", "title": "Preview in Jetpack Compose #9" },
+    { "id": "FCq-eLitUs8", "title": "MVVM Full Extensive Tutorial (Android)" },
+    { "id": "F1yKQ6EOTXc", "title": "Build an MVVM Camera App with CameraX - (Android)" },
+    { "id": "xye4tPZwefk", "title": "Animations in Jetpack Compose - #11" },
+    { "id": "qosC1rENeDI", "title": "Canvas Tutorial in Jetpack Compose - #12" },
+    { "id": "RZelz5A0j3A", "title": "Gradle Explained (Android Tutorial)" },
+    { "id": "-dwsGrGDipY", "title": "Save Files with Media Store (Android Tutorial)" },
+    { "id": "9nV9QkSCGfg", "title": "Foreground Services in Android Explained" },
+    { "id": "VzjNlvnkzIw", "title": "Work Manager tutorial in Android ✅" },
     { "id": "HdXpTXHUTu0", "title": "Navigation with Voyager In Jetpack Compose" },
     { "id": "mBpeqKJupic", "title": "Jetpack Compose - Compose States & remember #4" },
     { "id": "sEFt73rBkVQ", "title": "Multiple Backstacks Tutorial in Jetpack Compose" },

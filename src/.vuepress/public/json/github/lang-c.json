@@ -934,5 +934,10 @@
     "desc": "minimal C implementation of speculative decoding based on llama2.c",
     "officialSite": "",
     "topics": ["artificial-intelligence", "c", "llama2", "llm", "speculative-decoding"]
+  }, {
+    "repo": "gyf304/dotenv",
+    "desc": "Standalone, language agnostic dotenv",
+    "officialSite": "",
+    "topics": []
   }
 ]

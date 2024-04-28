@@ -306,9 +306,9 @@
     "topics": []
   }, {
     "repo": "chat2db/Chat2DB",
-    "desc": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.",
+    "desc": "🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB",
     "officialSite": "http://chat2db.ai",
-    "topics": ["ai", "bi", "chatgpt", "database", "datagrip", "dbeaver", "gpt", "mysql", "navicat", "oracle", "postgresql", "redis", "sqlserver"]
+    "topics": ["ai", "bi", "chatgpt", "clickhouse", "database", "datagrip", "db2", "dbeaver", "gpt", "hive", "mysql", "navicat", "oracle", "postgresql", "redis", "redis-client", "sqlserver", "text2sql"]
   }, {
     "repo": "nayuki/QR-Code-generator",
     "desc": "High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.",

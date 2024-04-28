@@ -78,6 +78,7 @@ tag:
 - [`@qkrtkdwns3410` - 스토리지 아키텍처](https://velog.io/@qkrtkdwns3410/%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 - [`@dus532` - 이스포츠 뷰어십을 볼수 없을까? 소프트콘 이스포츠 제작기(1)](https://velog.io/@dus532/softconeesports1)
 - [`@juhee067` - 프로젝트 리팩토링 계획 (feat.리쿠르탐)](https://velog.io/@juhee067/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B3%84%ED%9A%8D)
+- [`@endmoseung` - 저는 개발자입니다.](https://velog.io/@endmoseung/%EC%A0%80%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4)
 
 ---
 

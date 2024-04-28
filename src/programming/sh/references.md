@@ -268,6 +268,12 @@ tag:
 
 ---
 
+## tontinton
+
+- [Database Fundamentals.](https://tontinton.com/posts/database-fundementals/)
+
+---
+
 ## Misc
 
 - [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)
@@ -277,5 +283,7 @@ tag:
 - [오라클 클라우드 인스턴스 생성 및 SSH 접속하기](https://www.wsgvet.com/cloud/5)
 
 ---
+
+
 
 <TagLinks />

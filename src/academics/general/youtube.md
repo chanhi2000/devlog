@@ -46,5 +46,6 @@ tag:
 <MyYouTubeItems jsonName="yu-electric_revolution" /><!-- 전기혁명 -->
 <MyYouTubeItems jsonName="yu-chemophilia" /><!-- 화학하악 -->
 <MyYouTubeItems jsonName="yu-stanfordonline" /><!-- Stanford Online -->
+<MyYouTubeItems jsonName="yu-Minoschanel" /><!-- Minos -->
 
 <TagLinks />

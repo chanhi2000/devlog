@@ -1,10 +1,11 @@
 ---
 lang: ko-KR
-title: ⚙️Scripts to Manage Computers
-description: Powershell > ⚙️Scripts to Manage Computers
+title: Scripts to Manage Computers
+description: Powershell > Scripts to Manage Computers
+icon: fas fa-gear
 category:
   - Powershell
-  - ⚙️Scripts to Manage Computers
+  - Scripts to Manage Computers
 tag: 
   - powershell
   - pwsh
@@ -14,7 +15,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

@@ -335,5 +335,10 @@
     "desc": "Create Kotlin DSLs for any JSON/YAML. JsonDsl is a library that helps you build Kotlin DSLs for JSON and YAML dialects. The DSLs are easy to extend with custom fields by users via a MutableMap. This allows your DSL users to work around any features you don't have in your DSL.",
     "officialSite": "",
     "topics": ["domain-specific-language", "json", "kotlin-multiplatform", "library", "yaml"]
+  }, {
+    "repo": "dave08/kacheable",
+    "desc": "Kacheable is a small library that can cache results of computations to various backends.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -1,0 +1,13 @@
+[
+  {
+    "repo": "zyronon/douyin",
+    "desc": " Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践. Imitate TikTok ，Vue Best practices on Mobile",
+    "officialSite": "https://dy.ttentau.top/",
+    "topics": ["douyin", "js", "tiktok", "vue", "vue3"]
+  }, {
+    "repo": "github-copilot-resources/copilot-metrics-viewer",
+    "desc": "Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)",
+    "officialSite": "https://ashy-sky-02a7d0403.5.azurestaticapps.net/",
+    "topics": []
+  }
+]

@@ -50,7 +50,7 @@ tag:
 
 ---
 
-## StackExchange
+## <FontIcon icon="fa-brands fa-stack-exchange"/>StackExchange
 
 ### UX
 
@@ -87,7 +87,7 @@ tag:
 
 ---
 
-## DZone 
+## DZone
 
 - [Best 15 CSS Trends To Watch For](https://dzone.com/articles/best-15-css-trends-to-watch-for)
 
@@ -97,6 +97,7 @@ tag:
 
 - [Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
 - [CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023)
+
 
 ---
 

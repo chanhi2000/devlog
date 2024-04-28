@@ -8,7 +8,8 @@ category:
   - Article(s)
 tag: 
   - blog
-  - devtooltips.org
+  - devtoolstips.org
+  - meetup.nhncloud.com
   - css
 head:
   - - meta:
@@ -78,7 +79,7 @@ head:
 {
   "title": "가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX | NHN Cloud Meetup",
   "desc": "가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX",
-  "link": "https://meetup.nhncloud.com/posts/311",
+  "link": "/explore/articles/meetup.nhncloud.com/311.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }

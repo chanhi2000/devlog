@@ -1409,5 +1409,10 @@
     "desc": "OpenTelemetry Collector Official Releases",
     "officialSite": "https://opentelemetry.io",
     "topics": ["hacktoberfest", "opentelemetry"]
+  }, {
+    "repo": "picosh/pico",
+    "desc": "hacker labs - open source and managed web services leveraging SSH",
+    "officialSite": "https://pico.sh",
+    "topics": []
   }
 ]

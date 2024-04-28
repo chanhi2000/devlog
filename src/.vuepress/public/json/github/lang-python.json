@@ -4960,9 +4960,49 @@
     "officialSite": "https://www.tribler.org",
     "topics": ["bittorrent", "decentralized", "p2p", "privacy", "python", "search", "streaming", "tor", "torrent-client"]
   }, {
-    "repo": "CyanVoxel/TagStudio",
+    "repo": "TagStudioDev/TagStudio",
     "desc": "A file and photo management application and system.",
     "officialSite": "",
     "topics": ["file-manager", "organizer", "photo-gallery", "photo-organizer"]
+  }, {
+    "repo": "Doriandarko/maestro",
+    "desc": "A framework for Claude Opus to intelligently orchestrate subagents.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "McGill-NLP/webllama",
+    "desc": "Llama-3 agents that can browse the web by following instructions and talking to you",
+    "officialSite": "https://webllama.github.io",
+    "topics": []
+  }, {
+    "repo": "yisol/IDM-VTON",
+    "desc": "IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild",
+    "officialSite": "https://idm-vton.github.io/",
+    "topics": []
+  }, {
+    "repo": "plaintextpackets/netprobe_lite",
+    "desc": "Simple internet performance tester written in Python",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "openlit/openlit",
+    "desc": "OpenLIT is an open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics in a single application 🔥 🖥 . 👉 Open source GenAI and LLM Application Performance Monitoring (APM) & Observability tool",
+    "officialSite": "https://docs.openlit.io",
+    "topics": ["ai-observability", "anthropic", "clickhouse", "distributed-tracing", "genai", "grafana", "langchain", "llmops", "llms", "metrics", "monitoring-tool", "observability", "open-source", "openai", "opentelemetry", "otel", "otlp", "python", "tracing", "typescipt"]
+  }, {
+    "repo": "pytorch/torchtitan",
+    "desc": "A native PyTorch Library for large model training",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "dcharatan/flowmap",
+    "desc": "Code for \"FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent\" by Cameron Smith*, David Charatan*, Ayush Tewari, and Vincent Sitzmann",
+    "officialSite": "https://cameronosmith.github.io/flowmap/",
+  "topics": []
+  }, {
+    "repo": "rayking99/BlockStar",
+    "desc": "A star for organising blocks and playing with transformers.",
+    "officialSite": "",
+    "topics": []
   }
 ]

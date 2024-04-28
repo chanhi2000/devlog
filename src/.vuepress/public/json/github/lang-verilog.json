@@ -14,5 +14,15 @@
     "desc": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
     "officialSite": "https://theopenroadproject.org/",
     "topics": ["cpp", "def", "eda", "gdsii", "lef", "opendb-database", "openroad", "rtl", "tcl", "timing-analysis", "verilog"]
+  }, {
+    "repo": "adam-maj/tiny-gpu",
+    "desc": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "rejunity/z80-open-silicon",
+    "desc": "Z80 open-source silicon. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.",
+    "officialSite": "https://rejunity.github.io/z80-open-silicon/",
+    "topics": ["chip", "foss", "tinytapeout", "z80"]
   }
 ]

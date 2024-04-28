@@ -1159,5 +1159,10 @@
     "desc": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
     "officialSite": "",
     "topics": ["analytics", "awesome-list", "data-mining", "data-science", "data-scientists", "data-visualization", "deep-learning", "hacktoberfest", "machine-learning", "science"]
+  }, {
+    "repo": "SAWARATSUKI/ServiceLogos",
+    "desc": "ロゴを可愛く作ろう　節度を持って利用してくださいね🫠",
+    "officialSite": "",
+    "topics": ["languages", "logos", "services"]
   }
 ]

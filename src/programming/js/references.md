@@ -18,6 +18,12 @@ tag:
 
 ---
 
+## Mozilla
+
+- [Developer essentials: JavaScript `console` methods](https://developer.mozilla.org/en-US/blog/learn-javascript-console-methods/)
+
+---
+
 ## dev.to
 
 - [`yanhaijing` - Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg?ref=dailydev)

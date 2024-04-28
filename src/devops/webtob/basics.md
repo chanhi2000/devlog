@@ -4,7 +4,8 @@ title: Basics
 description: 🏹WebtoB > Basics
 icon: fas fa-egg
 category:
-  - 🏹WebtoB
+  - Web Server
+  - WebtoB
   - Basics
 tag: 
   - http.m

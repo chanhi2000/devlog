@@ -546,8 +546,13 @@
     "topics": []
   }, {
     "repo": "digitalinnovationone/dio-lab-open-source",
-    "desc": "⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
+    "desc": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
     "officialSite": "https://digitalinnovationone.github.io/dio-lab-open-source/",
     "topics": ["git", "github", "open-source"]
+  }, {
+    "repo": "facebookresearch/searchformer",
+    "desc": "Official codebase for the paper \"Beyond A* Better Planning with Transformers via Search Dynamics Bootstrapping\".",
+    "officialSite": "",
+    "topics": []
   }
 ]

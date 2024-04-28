@@ -28,7 +28,7 @@ tag:
 
 ---
 
-## StackExchange
+## <FontIcon icon="fa-brands fa-stack-exchange"/>StackExchange
 
 ### Retrocomputing
 

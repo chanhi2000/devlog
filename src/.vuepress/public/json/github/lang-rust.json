@@ -1339,5 +1339,20 @@
     "desc": "Linear algebra foundation for the Rust programming language",
     "officialSite": "https://faer-rs.github.io",
     "topics": ["linear-algebra", "matrix", "rust"]
+  }, {
+    "repo": "xelis-project/xelis-blockchain",
+    "desc": "A private blockDAG using Homomorphic Encryption with Smart Contract support",
+    "officialSite": "",
+    "topics": ["blockchain", "blockdag", "cryptocurrency", "elgamal", "homomorphic-encryption", "privacy", "ristretto255", "rust", "smart-contracts", "xelis"]
+  }, {
+    "repo": "EricLBuehler/mistral.rs",
+    "desc": "Blazingly fast LLM inference.",
+    "officialSite": "",
+    "topics": ["llm", "rust"]
+  }, {
+    "repo": "jasonjmcghee/xrem",
+    "desc": "(Cross-Platform) An open source approach to locally record and enable searching everything you view on any computer.",
+    "officialSite": "",
+    "topics": ["cross-platform", "local", "memory", "productivity", "rust", "search", "tool", "utilities"]
   }
 ]

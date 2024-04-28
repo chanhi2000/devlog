@@ -12,8 +12,6 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-
-
 ---
 
 ## The New Stack
@@ -39,6 +37,12 @@ tag:
 ## Charsyam's Blog
 
 - [AWS 에서 Amazon Linux Nginx TCP Stream Proxy 설정](https://charsyam.wordpress.com/2024/04/21/aws-%ec%97%90%ec%84%9c-amazon-linux-nginx-tcp-stream-proxy-%ec%84%a4%ec%a0%95/)
+
+---
+
+## SAMWHO
+
+- [Load Balancing](https://samwho.dev/load-balancing/)
 
 ---
 

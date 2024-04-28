@@ -128,8 +128,18 @@ tag:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/favicons/d2-naver-com.ico"
-  preview="https://d2.naver.com/image/20180416/470263027842.png"/>
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
+
+```component VPCard
+{
+  "title": "fe-news/issues/ at master · naver/fe-news · GitHub",
+  "desc": "📚 링크 & 읽을 거리",
+  "link": "https://github.com/naver/fe-news/blob/master/issues/",
+  "logo": "https://github.com/naver/fe-news/raw/master/assets/logo.svg",
+  "background": "rgba(247,223,30,0.2)"
+}
+```
 
 ```component VPCard
 {

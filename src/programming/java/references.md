@@ -289,6 +289,10 @@ tag:
 
 <PDF url="https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf"/>
 
+### Jetbrains
+
+- [A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
+
 ### Thdev
 
 - [Kotlin extensions use를 알아보고, 사용법을 알아보자.](https://thdev.tech/kotlin/2020/11/03/kotlin_effective_09)
@@ -318,6 +322,9 @@ tag:
 - [`hinchman-amanda` - Kotlin Coroutine mechanisms: runBlocking v. launch](https://hinchman-amanda.medium.com/kotlin-coroutine-mechanisms-runblocking-v-launch-386e1ae8e3c2)
 - [`@krishusharma292` - Kotlin Coroutines: From Basics to Advanced Techniques 🛠️](https://medium.com/@krishusharma292/kotlin-coroutines-from-basics-to-advanced-techniques-%EF%B8%8F-b76757796aca)
 - [`@robert.baricevicpetrus` - Kotlin Flows Animated](https://medium.com/@robert.baricevicpetrus/kotlin-flows-animated-55640aa48ac9)
+- [`@giuliopime` - Managing environment variables in Kotlin with ease and type safety — DoToo [backend]](https://medium.com/@giuliopime/managing-environment-variables-in-kotlin-with-ease-and-type-safety-dotoo-backend-42882a1371ff)
+- [`serpro69` - “Dynamic Integration Testing” in Kotlin](https://serpro69.medium.com/dynamic-integration-testing-in-kotlin-2601ce0be271)
+- [`@domen.lanisnik` - Swift Cheatsheet for Android/Kotlin Developers](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6)
 
 ### velog
 
@@ -398,6 +405,7 @@ tag:
 - [Kotlin: An Illustrated Guide • Chapter 16 Sealed Types](https://typealias.com/start/kotlin-sealed-types/)
 - [Kotlin: An Illustrated Guide • Chapter 17 Handling Runtime Exceptions](https://typealias.com/start/kotlin-exceptions/)
 - [Kotlin: An Illustrated Guide • Chapter 18 Generics](https://typealias.com/start/kotlin-generics/)
+- [Kotlin: An Illustrated Guide • Chapter 19 Generic Variance](https://typealias.com/start/kotlin-variance/)
 
 ### TOUCHLAB
 

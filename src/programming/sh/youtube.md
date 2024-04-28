@@ -64,5 +64,6 @@ tag:
 <MyYouTubeItems jsonName="yu-2kabhishek" /><!-- Abhishek Keshri -->
 <MyYouTubeItems jsonName="yu-navekeng" /><!-- Navek -->
 <MyYouTubeItems jsonName="yu-CODE_IS_EVERYTHING" /><!-- CODE IS EVERYTHING -->
+<MyYouTubeItems jsonName="yu-SebastianDaschnerIT" /><!-- Sebastian Daschner -->
 
 <TagLinks />

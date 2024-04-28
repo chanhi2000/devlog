@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Scripts for the Desktop
 description: Powershell > Scripts for the Desktop
-font: fas fa-computer
+font: fas fa-desktop
 category:
   - Powershell
 tag: 
