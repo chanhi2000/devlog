@@ -1,11 +1,21 @@
 {
   "channel": {
     "id": "intellijidea",
-    "name": "IntelliJ IDEA by JetBrains",
+    "name": "IntelliJ IDEA, a JetBrains IDE",
     "profile": "https://yt3.googleusercontent.com/L2bv2fZJena3bTn8ermGJI5jkb7EKUiIvoxIDxxGxjO0YpkH5jLjTSN0tzZQ1U54iyw2NmY9TA=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/pHjYuLW50LwvxB73LiNQixFgYDgwUIN2g_XnzXY7BHFPxNasrefQ2g1uiG19as8OHYWuzCwhPg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jDHQvfAVfKc", "title": "Developer Productivity With IntelliJ IDEA" },
+    { "id": "nv8euZ2gOys", "title": "Working With Databases in IntelliJ IDEA" },
+    { "id": "tAGv4QH29QU", "title": "The Current State of Apache Maven 4" },
+    { "id": "jS_bIWWW6hA", "title": "Bootiful Spring Boot 3.x" },
+    { "id": "r6q6cBnz8Zk", "title": "Building Your Own Private GenAI Chatbot With Java Tools – A Step-by-Step Adventure" },
+    { "id": "yAxLR1YPwyQ", "title": "Build a Spring Boot app with AI Assistant" },
+    { "id": "x6KmUyPWy2Q", "title": "Building Intelligent Applications With Spring AI" },
+    { "id": "2EL9lUfd9tI", "title": "Let’s Set the Records Straight" },
+    { "id": "UH-Csh0FaoI", "title": "AI Assistant: Don’t Code Alone" },
+    { "id": "FuvoOm4TIxE", "title": "What's New in IntelliJ IDEA 2024.1" },
     { "id": "dZWDRxN-Ng4", "title": "Virtual threads in action!" },
     { "id": "hjGVJHOLSjA", "title": "Tips For Reading Code" },
     { "id": "p6pUdHN3eT4", "title": "Building and Testing Apps With Micronaut & Testcontainers in IntelliJ IDEA" },

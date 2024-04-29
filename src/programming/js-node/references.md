@@ -839,6 +839,7 @@ tag:
 ## GIS Developer
 
 - [TypeScript의 배열로 Union Type 정의하기](http://www.gisdeveloper.co.kr/?p=14606)
+- [바닐라 JS의 동적 스크립트 임포팅](http://www.gisdeveloper.co.kr/?p=14820)
 
 ---
 
@@ -931,6 +932,19 @@ tag:
 ## @rafaelgss tech blog
 
 - [State of Node.js Performance 2023](https://blog.rafaelgss.dev/state-of-nodejs-performance-2023)
+
+---
+
+## Univdev
+
+- [나의 첫 npm 패키지, ww-timer 회고](https://univdev.page/posts/my-first-npm-library/)
+- [Swagger를 이용한 세상 간단한 API Mocking](https://univdev.page/posts/automatic-api/)
+
+---
+
+## 영찬 블로그
+
+- [Building A Clone Of <FontIcon icon="fa-brands fa-reddit"/>`r/place`](https://blog.0chan.dev/2024-04-28-Building-A-Clone-Of-RPlace/)
 
 ---
 

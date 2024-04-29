@@ -121,6 +121,7 @@
   { "logo": "sqlite", "name": "SQLite", "colorHex": "003B57" },
   { "logo": "sublimetext", "name": "Sublime%20Text", "colorHex": "FF9800" },
   { "logo": "subversion", "name": "Subversion", "colorHex": "809CC9" },
+  { "logo": "supabase", "name": "Supabase", "colorHex": "3FCF8E" },
   { "logo": "sympy", "name": "SymPy", "colorHex": "3B5526" },
   { "logo": "synology", "name": "Synology%20NAS", "colorHex": "B6B5B6" },
   { "logo": "svelte", "name": "Svelte", "colorHex": "FF3E00" },

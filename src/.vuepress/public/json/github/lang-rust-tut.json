@@ -44,5 +44,10 @@
     "desc": "Magical Rust patterns laid out and simplified",
     "officialSite": "",
     "topics": ["blog", "rust"]
+  }, {
+    "repo": "LukeMathWalker/zero-to-production",
+    "desc": "Code for \"Zero To Production In Rust\", a book on API development using Rust.",
+    "officialSite": "https://www.zero2prod.com",
+    "topics": ["book", "rust"]
   }
 ]

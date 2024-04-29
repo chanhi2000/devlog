@@ -79,6 +79,8 @@ tag:
 - [`@dus532` - 이스포츠 뷰어십을 볼수 없을까? 소프트콘 이스포츠 제작기(1)](https://velog.io/@dus532/softconeesports1)
 - [`@juhee067` - 프로젝트 리팩토링 계획 (feat.리쿠르탐)](https://velog.io/@juhee067/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B3%84%ED%9A%8D)
 - [`@endmoseung` - 저는 개발자입니다.](https://velog.io/@endmoseung/%EC%A0%80%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4)
+- [`@dochis` - 아프리카TV API 프로젝트 개발 회고](https://velog.io/@dochis/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4TV-API-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0)
+- [`@haryan248` - 나의 두 번째 회사](https://velog.io/@haryan248/%EB%82%98%EC%9D%98-%EB%91%90-%EB%B2%88%EC%A7%B8-%ED%9A%8C%EC%82%AC)
 
 ---
 
@@ -245,7 +247,7 @@ tag:
 
 ## 힘차게, 열심히 공대생
 
-- [육각형 개발자 - 시니어 개발자로 성장하기 위한 10가지 핵심 역량 | 최범균](https://thalals.tistory.com/474)
+- [육각형 개발자 - 시니어 개발자로 성장하기 위한 10가지 핵심 역량 | 최범균](https://th.tistory.com/474)
 
 ---
 
@@ -302,10 +304,11 @@ tag:
 - [스케일은 우리의 적](https://www.thestartupbible.com/2024/04/scale-is-your-enemy.html)
 - [해답은 등잔 밑에](https://www.thestartupbible.com/2024/04/do-not-look-too-far-for-answers.html)
 - [숨은 공동 창업자](https://www.thestartupbible.com/2024/04/the-hidden-co-founder.html)
+- [큰 팔로잉, 큰 책임](https://www.thestartupbible.com/2024/04/with-great-following-comes-great-responsibility.html)
 
 ---
 
-## jako's IT log  
+## 뭐라도 해야 한다면 기록을 하자
 
 - [[24년 3월] 하기 싫으면 관둬라](https://jakpentest.tistory.com/entry/24%EB%85%84-3%EC%9B%94-%ED%95%98%EA%B8%B0-%EC%8B%AB%EC%9C%BC%EB%A9%B4-%EA%B4%80%EB%91%AC%EB%9D%BC)
 
@@ -476,6 +479,7 @@ tag:
 ## Miles UX/UI Insight
 
 - [블록체인 프로젝트 기획 경험기 (1) - Experience planning a blockchain project](https://vurias0203.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EA%B2%BD%ED%97%98%EA%B8%B0-1-Experience-planning-a-blockchain-project)
+- [이직의 시기: 당신의 커리어 성장을 위한 신호를 알아차리는 법](https://vurias0203.tistory.com/entry/%EC%9D%B4%EC%A7%81%EC%9D%98-%EC%8B%9C%EA%B8%B0-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A0%ED%98%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EC%B0%A8%EB%A6%AC%EB%8A%94-%EB%B2%95)
 
 ---
 
@@ -550,5 +554,33 @@ tag:
 - [우아한형제들을 퇴사하며](https://pjh3749.tistory.com/289)
 
 ---
+
+## Log On Me.net
+
+- [나는 이런 스터디를 하고싶다. 스터디 방법론에 대한 생각](https://www.logonme.net/activities/study/how-to-study/)
+
+---
+
+## 기계인간 John Grib 
+
+- [(책) 컨설팅의 비밀](https://johngrib.github.io/wiki/book/secret-of-consulting/)
+
+---
+
+## saengmotmi's blog
+
+- [2024-04-28 자기 이해를 기반으로 생존을 엔지니어링 하기](https://saengmotmi.netlify.app/article/effort-engineering/)
+
+---
+
+## min-0's  Growth Diary
+
+- [2024년 정기 1회 정보처리기사 필기 합격 + 실기 접수, 시험 후기(+개꿀팁 모음)](https://min-0.tistory.com/entry/2024%EB%85%84-%EC%A0%95%EA%B8%B0-1%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%ED%95%84%EA%B8%B0-%ED%95%A9%EA%B2%A9-%EC%8B%A4%EA%B8%B0-%EC%A0%91%EC%88%98-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0)
+
+---
+
+## 김동호의 스타트업 이야기
+
+- [한국신용데이터 창립 8주년에 부쳐](https://kelvinkim.net/2024/04/27/kcd-8th-anniversary/)
 
 <TagLinks />

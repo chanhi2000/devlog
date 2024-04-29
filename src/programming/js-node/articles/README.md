@@ -31,6 +31,16 @@ head:
 
 ```component VPCard
 {
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://www.freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "요즘IT", 
   "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
@@ -80,6 +90,17 @@ head:
 
 ---
 
+## Freecodecamp.org
+
+<SiteInfo
+  name="What is Dead Zone in JavaScript?"
+  desc="In JavaScript, you may encounter the term &quot;dead zone.&quot; While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively."
+  url="/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.md"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"/>
+
+---
+
 ## 요즘IT
 
 ```component VPCard
@@ -107,6 +128,16 @@ head:
   "title": "SSR 환경(Node.js) 메모리 누수 디버깅 가이드 (2) | 요즘IT",
   "desc": "SSR 환경(Node.js) 메모리 누수 디버깅 가이드 (2)",
   "link": "/explore/articles/yozm.wishket.com/2505.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy) | 요즘IT",
+  "desc": "HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy)",
+  "link": "/explore/articles/yozm.wishket.com/2565.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

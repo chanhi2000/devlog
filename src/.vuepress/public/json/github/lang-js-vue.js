@@ -1,7 +1,7 @@
 [
   {
     "repo": "zyronon/douyin",
-    "desc": " Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践. Imitate TikTok ，Vue Best practices on Mobile",
+    "desc": "Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践. Imitate TikTok ， Vue Best practices on Mobile",
     "officialSite": "https://dy.ttentau.top/",
     "topics": ["douyin", "js", "tiktok", "vue", "vue3"]
   }, {

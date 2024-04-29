@@ -1414,5 +1414,10 @@
     "desc": "hacker labs - open source and managed web services leveraging SSH",
     "officialSite": "https://pico.sh",
     "topics": []
+  }, {
+    "repo": "kaytu-io/kaytu",
+    "desc": "The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.",
+    "officialSite": "https://kaytu.io",
+    "topics": ["cloud-spend", "cloud-spend-control", "finops", "rightsizing", "spend-mgmt", "workload-optimization"]
   }
 ]

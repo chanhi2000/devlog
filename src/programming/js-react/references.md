@@ -625,6 +625,7 @@ https://o-yeon.tistory.com/227
 
 - [10만건 이상의 데이터 in front (테이블 개선)](https://ravenkim97.tistory.com/400)
 - [Warning: Maximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.](https://ravenkim97.tistory.com/407)
+- [React 19 Beta 번역](https://ravenkim97.tistory.com/410)
 
 ---
 
@@ -650,6 +651,12 @@ https://o-yeon.tistory.com/227
 ## Dev Community - DevDojo
 
 - [A simple React app: fetch GitHub users information via API](https://devdojo.com/baransel/a-simple-react-app-fetch-github-users-information-via-api)
+
+---
+
+## 사진찍는 웹 개발자의 블로그
+
+- [Clerk를 사용해서 유저 정보 관리하기](https://donghoon-song.github.io/clerk/clerk%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%9C%A0%EC%A0%80-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/)
 
 ---
 

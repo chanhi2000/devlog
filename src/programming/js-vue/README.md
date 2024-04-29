@@ -16,8 +16,6 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-
-
 <ShieldsGroup logos="visualstudiocode,npm,pnpm,bun,yarn,nodedotjs,javascript,typescript,vuedotjs,vuetify"/>
 
 ---

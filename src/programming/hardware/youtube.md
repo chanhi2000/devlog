@@ -43,6 +43,7 @@ tag:
 <MyYouTubeItems jsonName="yu-supplyframe4973" /><!-- Supplyframe -->
 <MyYouTubeItems jsonName="yu-greatscottlab" /><!-- GreatScott! -->
 <MyYouTubeItems jsonName="yu-Chyrosran22" /><!-- Chyrosran22 -->
+<MyYouTubeItems jsonName="yu-EEVblog2" /><!-- EEVblog2 -->
 
 <TagLinks />
 

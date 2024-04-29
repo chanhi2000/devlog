@@ -82,6 +82,7 @@ tag:
 ## Substack
 
 - [`pragmaticengineer` - Scaling ChatGPT: Five Real-World Engineering Challenges](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt)
+- [`airstreet` - Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai)
 
 ---
 

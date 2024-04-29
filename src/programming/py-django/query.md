@@ -7,11 +7,12 @@ category:
   - Django
   - Query
 tag:
+  - python
+  - py
   - django
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

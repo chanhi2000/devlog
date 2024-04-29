@@ -45,6 +45,7 @@ tag:
 ---
 
 ## BLEX
+
 - [`@mildsalmon` - Occupations](https://blex.me/@mildsalmon/occupations)
 - [`@mildsalmon` - Top Competitors](https://blex.me/@mildsalmon/top-competitors)
 - [`@gauryan` - MySQL 테이블명 대문자로 사용하기](https://blex.me/@gauryan/mysql-%ED%85%8C%EC%9D%B4%EB%B8%94%EB%AA%85-%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
@@ -121,6 +122,14 @@ tag:
 - [4.03. MySQL 테이블에 값 가져오기](https://ysedeveloper.tistory.com/entry/403-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 - [4.04. MySQL 테이블에 값 입력하기](https://ysedeveloper.tistory.com/entry/404-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
 - [4.05. MySQL 테이블에 값 수정하기](https://ysedeveloper.tistory.com/entry/405-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
+- [4.08. PHP에서 MySQL 값 가져오기](https://ysedeveloper.tistory.com/entry/408-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+- [4.09. PHP에서 MySQL 값 입력하기](https://ysedeveloper.tistory.com/entry/409-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
+
+---
+
+## 🛵꾸준한 꿈틀꿈틀
+
+- [MySQL 실행 계획 톺아보기](https://rnokhs.tistory.com/entry/MySQL-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
 
 ---
 

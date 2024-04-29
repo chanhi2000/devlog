@@ -4,14 +4,17 @@ title: Github
 description: Django > Github
 icon: fa-brands fa-github
 category:
-  - Django 
-  - Github
-tag: 
+  - Django
+  - Query
+tag:
+  - python
+  - py
   - django
+  - git
+  - github
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

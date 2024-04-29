@@ -219,5 +219,10 @@ tag:
 
 ---
 
+## 멈춤보단 천천히라도
+
+- [Apple Silicon Macbook에 Ubuntu ARM64 설치하는 방법 ( UTM )](http://webnautes.tistory.com/2103)
+
+---
 
 <TagLinks />

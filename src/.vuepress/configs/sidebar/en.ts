@@ -110,6 +110,8 @@ export const sidebarEn = sidebar({
               collapsible: true,
               icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
               children: [
+                '/explore/articles/meetup.nhncloud.com/39.md',
+                '/explore/articles/meetup.nhncloud.com/45.md',
                 '/explore/articles/meetup.nhncloud.com/377.md',
               ]
             }
@@ -196,6 +198,13 @@ export const sidebarEn = sidebar({
                 '/explore/articles/yozm.wishket.com/2561.md',
               ]
             }, {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/47.md',
+              ]
+            }, {
               text: 'd2.naver.com',
               collapsible: true,
               icon: '/images/content/d2.naver.com/favicon.ico',
@@ -243,6 +252,8 @@ export const sidebarEn = sidebar({
               collapsible: true,
               icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
               children: [
+                '/explore/articles/meetup.nhncloud.com/44.md',
+                '/explore/articles/meetup.nhncloud.com/46.md',
                 '/explore/articles/meetup.nhncloud.com/374.md',
                 '/explore/articles/meetup.nhncloud.com/379.md',
               ]
@@ -252,6 +263,20 @@ export const sidebarEn = sidebar({
               icon: '/images/content/d2.naver.com/favicon.ico',
               children: [
                 '/explore/articles/d2.naver.com/1203723.md',
+              ]
+            }, {
+              text: 'blog.gangnamunni.com',
+              collapsible: true,
+              icon: 'https://blog.gangnamunni.com/favicon.ico',
+              children: [
+                '/explore/articles/blog.gangnamunni.com/saas-event-sourcing.md',
+              ]
+            }, {
+              text: 'dev.gmarket.com',
+              collapsible: true,
+              icon: 'https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515',
+              children: [
+                '/explore/articles/dev.gmarket.com/103.md'
               ]
             }
           ]
@@ -375,6 +400,46 @@ export const sidebarEn = sidebar({
               icon: 'https://hackingwithswift.com/favicon.svg',
               children: [
                 '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
+                {
+                  text: 'SwiftUI by Example',
+                  collapsible: true,
+                  icon: 'fa-brands fa-swift',
+                  children: [
+                    {
+                      text: 'Introduction',
+                      collapsible: true,
+                      children: [
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-swiftui.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-vs-interface-builder-and-storyboards.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/frequently-asked-questions-about-swiftui.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-follow-this-quick-start-guide.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/migrating-from-uikit-to-swiftui.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/whats-in-the-basic-template.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/dedication.md',
+                      ]
+                    }, {
+                      text: 'Building a complete project',
+                      collapsible: true,
+                      children: [
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tutorial-building-a-complete-project.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/polishing-designs-with-fonts-and-colors.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/displaying-a-detail-screen-with-navigationlink.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/observable-objects-environment-objects-and-published.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/adding-items-to-an-order-with-environmentobject.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/adding-tabview-and-tabitem.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/bindings-and-forms.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/formatting-interpolated-strings-in-swiftui.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/presenting-an-alert.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/adding-swipe-to-delete-and-editbutton.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/wrap-up-our-swiftui-project-is-complete.md'
+                      ]
+                    },
+                  ]
+                }
               ]
             }, {
               text: 'donnywals.com',
@@ -423,6 +488,22 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/npm/README.md',
         '/programming/npm/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/npm/articles/README.md',
+            {
+              text: 'techblog.woowahan.com',
+              collapsible: true,
+              icon: 'https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico',
+              children: [
+                '/explore/articles/techblog.woowahan.com/15903.md',
+              ]
+            }
+          ]
+        }
       ],
     }, {
       text: 'Node.js',
@@ -451,6 +532,7 @@ export const sidebarEn = sidebar({
                 '/explore/articles/yozm.wishket.com/2483.md',
                 '/explore/articles/yozm.wishket.com/2504.md',
                 '/explore/articles/yozm.wishket.com/2505.md',
+                '/explore/articles/yozm.wishket.com/2565.md',
               ]
             }, {
               text: 'freecodecamp.org',
@@ -598,6 +680,22 @@ export const sidebarEn = sidebar({
         '/programming/js-graphql/youtube.md',
       ],
     }, {
+      text: 'Supabase',
+      collapsible: true,
+      icon: 'iconfont icon-supabase',
+      children: [
+        '/programming/js-supabase/README.md',
+        '/programming/js-supabase/references.md',
+        '/programming/js-supabase/youtube.md', {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-supabase/articles/README.md',
+          ]
+        }
+      ],
+    }, {
       text: 'Mermaid.js',
       collapsible: true,
       icon: 'iconfont icon-mermaid',
@@ -649,7 +747,23 @@ export const sidebarEn = sidebar({
         '/programming/py-django/query.md',
         '/programming/py-django/github.md',
         '/programming/py-django/references.md',
-        '/programming/py-django/youtube.md',      
+        '/programming/py-django/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-django/articles/README.md',
+            {
+              text: 'freecodecamp.org',
+              icon: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
+              collapsible: true,
+              children: [
+                '/explore/articles/freecodecamp.org/how-to-create-an-analytics-dashboard-in-django-app.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Airflow',
@@ -743,7 +857,7 @@ export const sidebarEn = sidebar({
             }, {
               text: 'code-maze.com',
               collapsible: true,
-              icon: '/images/code-maze.com/favicon.png',
+              icon: '/images/content/code-maze.com/favicon.png',
               children: [
                 '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
               ]
@@ -1223,6 +1337,22 @@ export const sidebarEn = sidebar({
         '/devops/linux-debian/env-setup.md',
         '/devops/linux-debian/references.md',
         '/devops/linux-debian/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/linux-debian/articles/README.md',
+            {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/38.md',
+              ]
+            }
+          ]
+        }
       ]
     }, {
       text: 'Linux - Fedora',
@@ -1788,12 +1918,14 @@ export const sidebarEn = sidebar({
             '/explore/articles/yozm.wishket.com/2556.md',
             '/explore/articles/yozm.wishket.com/2561.md',
             '/explore/articles/yozm.wishket.com/2563.md',
+            '/explore/articles/yozm.wishket.com/2565.md',
           ]
         }, {
           text: 'freecodecamp.org',
           icon: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
           collapsible: true,
           children: [
+            '/explore/articles/freecodecamp.org/how-to-create-an-analytics-dashboard-in-django-app.md',
             '/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.md'
           ]
         }, {
@@ -1842,6 +1974,13 @@ export const sidebarEn = sidebar({
             '/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md',
           ]
         }, {
+          text: 'blog.gangnamunni.com',
+          collapsible: true,
+          icon: 'https://blog.gangnamunni.com/favicon.ico',
+          children: [
+            '/explore/articles/blog.gangnamunni.com/saas-event-sourcing.md',
+          ]
+        }, {
           text: 'towardsdatascience.com',
           collapsible: true,
           icon: 'https://cdn-images-1.medium.com/v2/resize:fill:128:128/1*VzTUkfeGymHP4Bvav-T-lA.png',
@@ -1866,6 +2005,47 @@ export const sidebarEn = sidebar({
           icon: 'https://hackingwithswift.com/favicon.svg',
           children: [
             '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
+            {
+              text: 'SwiftUI by Example',
+              collapsible: true,
+              icon: 'fa-brands fa-swift',
+              children: [
+                '/explore/articles/hackingwithswift.com/swiftui-by-example/README.md',
+                {
+                  text: 'Introduction',
+                  collapsible: true,
+                  children: [
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-swiftui.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-vs-interface-builder-and-storyboards.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/frequently-asked-questions-about-swiftui.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-follow-this-quick-start-guide.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/migrating-from-uikit-to-swiftui.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/whats-in-the-basic-template.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/dedication.md',
+                  ]
+                }, {
+                  text: 'Building a complete project',
+                  collapsible: true,
+                  children: [
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tutorial-building-a-complete-project.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/polishing-designs-with-fonts-and-colors.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/displaying-a-detail-screen-with-navigationlink.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/observable-objects-environment-objects-and-published.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/adding-items-to-an-order-with-environmentobject.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/adding-tabview-and-tabitem.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/bindings-and-forms.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/formatting-interpolated-strings-in-swiftui.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/presenting-an-alert.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/adding-swipe-to-delete-and-editbutton.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/wrap-up-our-swiftui-project-is-complete.md'
+                  ]
+                },
+              ]
+            }
           ]
         }, {
           text: 'donnywals.com',
@@ -1892,7 +2072,7 @@ export const sidebarEn = sidebar({
         }, {
           text: 'code-maze.com',
           collapsible: true,
-          icon: '/images/code-maze.com/favicon.png',
+          icon: '/images/content/code-maze.com/favicon.png',
           children: [
             '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
           ]
@@ -1918,6 +2098,14 @@ export const sidebarEn = sidebar({
             '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
           ]
         }, {
+          text: 'techblog.woowahan.com',
+          collapsible: true,
+          icon: 'https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico',
+          children: [
+            '/explore/articles/techblog.woowahan.com/15903.md',
+            '/explore/articles/techblog.woowahan.com/17081.md',
+          ]
+        }, {
           text: 'd2.naver.com',
           collapsible: true,
           icon: '/images/content/d2.naver.com/favicon.ico',
@@ -1937,6 +2125,12 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
           children: [
+            '/explore/articles/meetup.nhncloud.com/38.md',
+            '/explore/articles/meetup.nhncloud.com/39.md',
+            '/explore/articles/meetup.nhncloud.com/44.md',
+            '/explore/articles/meetup.nhncloud.com/45.md', // TODO: objc
+            '/explore/articles/meetup.nhncloud.com/46.md', 
+            '/explore/articles/meetup.nhncloud.com/47.md', 
             '/explore/articles/meetup.nhncloud.com/53.md',
             '/explore/articles/meetup.nhncloud.com/54.md',
             '/explore/articles/meetup.nhncloud.com/55.md',
@@ -1955,6 +2149,13 @@ export const sidebarEn = sidebar({
           icon: 'https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a',
           children: [
             '/explore/articles/engineering.linecorp.com/atomic-cache-stampede-redis-lua-script.md',
+          ]
+        }, {
+          text: 'dev.gmarket.com',
+          collapsible: true,
+          icon: 'https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515',
+          children: [
+            '/explore/articles/dev.gmarket.com/103.md'
           ]
         }
       ]

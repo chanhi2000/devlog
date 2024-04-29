@@ -32,6 +32,7 @@ tag:
 ## velog
 
 - [`@jooss287` - 코드의 수행시간 체크하기](https://velog.io/@jooss287/%EC%BD%94%EB%93%9C%EC%9D%98-%EC%88%98%ED%96%89%EC%8B%9C%EA%B0%84-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0)
+- [`@1106laura` - 백준 30678 별 안에 별 안에 별 찍기 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-30678-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%B0%8D%EA%B8%B0-C)
 - [`@1106laura` - 백준 2890 카약 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-2890-%EC%B9%B4%EC%95%BD-C)
 
 ---
@@ -73,6 +74,8 @@ tag:
 - [[EasyWin32] 아날로그시계 만들기 - Step 1](https://blog.naver.com/tipsware/223423898917)
 - [[EasyWin32] 별 그리기 - Step 1](https://blog.naver.com/tipsware/223424677976)
 - [[EasyWin32] 별 그리기 - Step 2](https://blog.naver.com/tipsware/223425739427)
+- [[EasyWin32] 아날로그시계 만들기 - Step 2](https://blog.naver.com/tipsware/223429118146)
+- [`CTreeCtrl::GetFirstVisibleItem` 함수와 `CTreeCtrl::GetNextVisibleItem` 함수](https://blog.naver.com/tipsware/223429307908)
 
 ---
 

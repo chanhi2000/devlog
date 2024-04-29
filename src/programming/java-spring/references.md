@@ -100,6 +100,10 @@ head:
 
 - [Chain of Responsibility Pattern](https://junhyunny.github.io/design-pattern/chain-of-responsibility-pattern/)
 
+### 연로그
+
+- [[Spring] `ReactiveCrudRepository`를 이용한 삭제 시 주의점](https://yeonyeon.tistory.com/329)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin

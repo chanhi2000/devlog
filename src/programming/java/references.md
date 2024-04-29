@@ -86,7 +86,6 @@ tag:
 
 ### velog
 
-- [`@dudgns0507` - [Kotlin] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [`@qkrtkdwns3410` - [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
 - [`@qkrtkdwns3410` - FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
 - [`@qkrtkdwns3410` - [알고리즘] 주차요금 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0)
@@ -176,7 +175,7 @@ tag:
 
 - [JPA 에서 UUID 삽질기록](https://jehuipark.github.io/java/my-sql-binary-reference)
 
-### mokhs
+### 🛵꾸준한 꿈틀꿈틀
 
 - [JPA UUID varchar로 저장하기](https://rnokhs.tistory.com/entry/JPA-UUID-varchar%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
 
@@ -227,7 +226,8 @@ tag:
 - [[내일배움캠프 6일차 TIL] Java 문법 기초부터 반복문까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-6%EC%9D%BC%EC%B0%A8-TIL-Java-%EB%AC%B8%EB%B2%95-1-25)
 - [[내일배움캠프 8일차 TIL] 접근 제어자부터 다형성까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-8%EC%9D%BC%EC%B0%A8-TIL-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4%EC%9E%90%EB%B6%80%ED%84%B0-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B9%8C%EC%A7%80)
 - [[ 99클럽 코테 스터디 26일차 TIL ] 백준 (25311번 - UCPC에서 가장 쉬운 문제 번호는?)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-26%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-25311%EB%B2%88-UCPC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%AC%B8%EC%A0%9C-%EB%B2%88%ED%98%B8%EB%8A%94)
-
+- [[ 99클럽 코테 스터디 30일차 TIL ] 백준 (10811번 - 바구니 뒤집기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-28%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-10811%EB%B2%88-%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%92%A4%EC%A7%91%EA%B8%B0)
+- [[ 99클럽 코테 스터디 29일차 TIL ] 백준 (30455번 - 이제는 더 이상 물러날 곳이 없다)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-30455%EB%B2%88-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EB%8D%94-%EC%9D%B4%EC%83%81-%EB%AC%BC%EB%9F%AC%EB%82%A0-%EA%B3%B3%EC%9D%B4-%EC%97%86%EB%8B%A4)
 
 ### 류광의 번역 이야기
 
@@ -264,7 +264,7 @@ tag:
 
 - [[DDD] 도메인 엔티티, Domain Entity](https://puleugo.tistory.com/187)
 
-### jako's IT log
+### 뭐라도 해야 한다면 기록을 하자
 
 - [[Programmers] 코딩 테스트 입문 - 배열관련 문제들 (with Java)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%B0%B0%EC%97%B4%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C%EB%93%A4-with-Java)
 
@@ -277,6 +277,14 @@ tag:
 ### CK.D. Lee
 
 - [Handle Cookies with Retrofit/OkHttp](https://jiafei427.wordpress.com/2016/04/29/handle-cookies-with-retrofitokhttp/)
+
+### 두레박 캠퍼스
+
+- [[도서리뷰] 함수형 프로그래밍 with 자바 ](https://duriepark.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-with-%EC%9E%90%EB%B0%94)
+
+### 강준현
+
+- [Direct Memory in Java](https://junhyunny.github.io/java/jvm/direct-memory-in-java/)
 
 ---
 
@@ -328,6 +336,7 @@ tag:
 
 ### velog
 
+- [`@dudgns0507` - [Kotlin] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ### Dev.to
@@ -379,6 +388,7 @@ tag:
 
 - [[Kotlin] 백준 13199 : 치킨 먹고 싶다](https://colabear754.tistory.com/208)
 - [[OOP] 일급 컬렉션(First Class Collection)으로 컬렉션을 다뤄보자](https://colabear754.tistory.com/209)
+- [[Kotlin] 백준 25418 : 정수 a를 k로 만들기](https://colabear754.tistory.com/210)
 
 ### Square Lab
 
@@ -399,6 +409,7 @@ tag:
 ### Coding Log
 
 - [053. (Getting Started with Test-Driven Development) 3. 테스트 코드 작성 순서](https://namhoon.kim/2024/04/22/method-test/053/)
+- [056. (Getting Started with Test-Driven Development) 6. 테스트 코드의 구성](https://namhoon.kim/2024/04/29/method-test/056/)
 
 ### Dave Leeds on Kotlin
 

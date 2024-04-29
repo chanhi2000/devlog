@@ -48,6 +48,8 @@ tag:
 ## velog
 
 - [`@qlgks1` - Django - sqlite 는 Json이 text 래요!, sqlite lookup (contains) 오버라이딩 하기](https://velog.io/@qlgks1/Django-sqlite-lookup-contain-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-%ED%95%98%EA%B8%B0)
+- [`@euisuk-chung` - `pipenv`로 `pyenv` 뽕 뽑기](https://velog.io/@euisuk-chung/pipenv-%EB%84%88%EB%8F%84-%EA%B0%99%EC%9D%B4-%EC%98%A4%EA%B3%A0-pyenv-pipenv)
+- [`@eunbibi` - Iris Dataset](https://velog.io/@eunbibi/Iris-Dataset)
 
 ---
 
@@ -239,6 +241,7 @@ tag:
 - [대규모 언어 모델을 위한 검색-증강 생성(RAG) 기술 현황 - 1/2편](https://discuss.pytorch.kr/t/rag-1-2/3135)
 - [[2024/01/22 ~ 01/28] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-01-22-01-28-ml-top-ml-papers-of-the-week/3372)
 - [Road to Sora: OpenAI의 Sora를 이해하기 위한 선행 연구 소개 (feat. Oxen.AI)](https://discuss.pytorch.kr/t/road-to-sora-openai-sora-feat-oxen-ai/3846)
+- [[2024/04/22 ~ 04/28] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-04-22-04-28-ml-top-ml-papers-of-the-week/4237)
 
 ---
 
@@ -536,12 +539,14 @@ tag:
 
 ---
 
-## jako's IT log
+## 뭐라도 해야 한다면 기록을 하자
 
 - [Google API 없이 Youtube 데이터 수집하기](https://jakpentest.tistory.com/entry/Google-API-%EC%97%86%EB%8A%94-Youtube-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
 - [[Programmers] 코딩테스트입문 - 로그인 성공?](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9E%85%EB%AC%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%84%B1%EA%B3%B5)
 - [[Programmers] 코딩테스트 입문 #1 (with Python)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-1)
 - [[Programmers] 코딩테스트 입문 #2 (with Python)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-2-with-Python)
+- [[LocalStack] LocalStack에서 Simple Email Service를 사용해보자.](https://jakpentest.tistory.com/entry/LocalStack-LocalStack%EC%97%90%EC%84%9C-Simple-Email-Service%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
+
 ---
 
 ## 멈춤보단 천천히라도
@@ -751,5 +756,22 @@ tag:
 ## 뽀글뽀글 개발 일지
 
 - [MyBatis INSERT 시 Auto Increment 값 리턴 받기](https://bbogle2.tistory.com/entry/MyBatis-INSERT-%EC%8B%9C-Auto-Increment-%EA%B0%92-%EB%A6%AC%ED%84%B4-%EB%B0%9B%EA%B8%B0)
+
+---
+
+## 다빈치코딩
+
+- [[백준 13023] ABCDE](https://davincicoding.tistory.com/156)
+- [[백준 18185] 라면 사기 (Small)](https://davincicoding.tistory.com/157)
+
+---
+
+## Developer's Delight
+
+- [[PyTorch] DataLoader 멀티프로세싱하기](https://sonseungha.tistory.com/717)
+- [[Tensorflow/keras] Tensorflow용 DataLoader 만들기](https://sonseungha.tistory.com/718)
+
+
+---
 
 <TagLinks />

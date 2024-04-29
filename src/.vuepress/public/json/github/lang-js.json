@@ -2229,5 +2229,10 @@
     "desc": "\"Zero-Knowledge\" Proof Implementation with HMAC Communication in JavaScript",
     "officialSite": "https://zkcall.net",
     "topics": ["hmac", "javascript", "zero-knowledge", "zk-call", "zkproof"]
+  }, {
+    "repo": "WhiskeySockets/Baileys",
+    "desc": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+    "officialSite": "https://whiskeysockets.github.io/Baileys/",
+    "topics": []
   }
 ]

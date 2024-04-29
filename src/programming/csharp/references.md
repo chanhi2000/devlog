@@ -15,7 +15,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -191,6 +190,7 @@ tag:
 - [[WPF] `WebView2`와 동영상](https://hj0216.tistory.com/910)
 - [[WPF] Static Resource와 Dynamic Resource](https://hj0216.tistory.com/912)
 - [[WPF] 한글 Encoding ANSI / UTF8](https://hj0216.tistory.com/913)
+- [[WPF] 생성자 Override](https://hj0216.tistory.com/914)
 
 ---
 

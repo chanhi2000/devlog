@@ -42,7 +42,7 @@ head:
   "title": "Code Maze - C#, .NET and Web Development Tutorials",
   "desc": "Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world.",
   "link": "https://code-maze.com/",
-  "logo": "/images/code-maze.com/favicon.png",
+  "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```
@@ -67,7 +67,7 @@ head:
   "title": "Using Property Mappings in AutoMapper To Define Mapping Rules",
   "desc": "AutoMapper allows us to map two objects. Let's take a look at how to get the property mappings that have been defined using AutoMapper.",
   "link": "/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md",
-  "logo": "/images/code-maze.com/favicon.png",
+  "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```

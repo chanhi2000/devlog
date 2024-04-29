@@ -4,15 +4,16 @@ title: References
 description: Django > References
 icon: iconfont icon-share
 category:
+  - Python
   - Django
   - References
 tag:
+  - python
+  - py
   - django
----
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

@@ -46,7 +46,7 @@ In this article I’m going to introduce you to the fundamentals of the Swift pr
 
 This article is aimed at two kinds of people: folks who have completed the introduction to my 100 Days of SwiftUI course and are looking for a quick review, and folks who are experienced with other languages and want to transfer their skills over to Swift.
 
-We’re going to move fast because this is designed to be a primer – if you find yourself struggling to understand something, visit the [100 Days of SwiftUI][100] to complete the longer, more detailed introduction there.
+We’re going to move fast because this is designed to be a primer – if you find yourself struggling to understand something, visit the [100 Days of SwiftUI](https://chanhi2000.github.io/crashcourse/swift/100-days-of-swiftui) to complete the longer, more detailed introduction there.
 
 Let’s get to it!
 

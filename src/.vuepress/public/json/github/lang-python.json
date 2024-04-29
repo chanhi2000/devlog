@@ -4998,11 +4998,16 @@
     "repo": "dcharatan/flowmap",
     "desc": "Code for \"FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent\" by Cameron Smith*, David Charatan*, Ayush Tewari, and Vincent Sitzmann",
     "officialSite": "https://cameronosmith.github.io/flowmap/",
-  "topics": []
+    "topics": []
   }, {
     "repo": "rayking99/BlockStar",
     "desc": "A star for organising blocks and playing with transformers.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "truefoundry/cognita",
+    "desc": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+    "officialSite": "https://cognita.truefoundry.com",
+    "topics": ["ai", "deep-learning", "generative-ai", "llmops", "machine-learning", "mlops", "model-deployment", "python", "rag", "retrieval-augmented-generation", "typescript"]
   }
 ]

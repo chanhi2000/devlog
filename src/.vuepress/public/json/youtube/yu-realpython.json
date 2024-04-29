@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/8PIT7olkpQgEJFD10EkVlpvn_DRXtLsce_PSV70v7Gz2CxzLihyoM1J1Qd6nQg4_Gg1lRbat0A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Vue7zqMrHyE", "title": "Dictionaries Practice: Python Basics Exercises" },
+    { "id": "cgaezNwrKUs", "title": "Exploring Duck Typing in Python & Dynamics of Monkey Patching | Real Python Podcast #196" },
+    { "id": "_H5QcCu9saU", "title": "Moving from Flat Files to SQLite in Python" },
+    { "id": "zAdDxibgiqM", "title": "Using Python in Bioinformatics and the Laboratory | Real Python Podcast #197" },
+    { "id": "gQ1s5bHpBkg", "title": "Hunting for Python Easter Eggs - Code Conversation" },
+    { "id": "h6jrN-thCD0", "title": "Build a Video Game With Python Turtle & Visualize Data in Seaborn | Real Python Podcast #198" },
+    { "id": "Rw_gr1y1HS0", "title": "Working with Tensors and TensorFlow" },
+    { "id": "Z82KTydi7Eo", "title": "Creating QR Codes with Python" },
+    { "id": "BR2uj5Jhv-A", "title": "Understanding Python's raise for Crafting Exceptions" },
+    { "id": "j6e-_Z90SNE", "title": "Working With Scopes Practice: Python Basics Exercises" },
     { "id": "vGkunLdVDqk", "title": "Great Starting Points for Contributing to Open Source | Real Python Podcast #190" },
     { "id": "l8BKMovPJQY", "title": "Python's enum - Start Building Enumerations" },
     { "id": "EQNbSLHlEk4", "title": "Tuples and Lists Practice: Python Basics Exercises" },

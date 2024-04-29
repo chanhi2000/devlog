@@ -42,4 +42,10 @@ tag:
 
 ---
 
+## Pluu Dev
+
+- [[메모] Actions on Save](https://pluu.github.io/blog/android/2024/04/28/actions_on_save/)
+
+---
+
 <TagLinks />

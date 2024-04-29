@@ -554,5 +554,10 @@
     "desc": "Official codebase for the paper \"Beyond A* Better Planning with Transformers via Search Dynamics Bootstrapping\".",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "kingjulio8238/memary",
+    "desc": "Longterm Memory for Autonomous Agents. ",
+    "officialSite": "",
+    "topics": ["agents", "knowledge-graph", "memory", "retrieval-augmented-generation"]
   }
 ]

@@ -105,4 +105,10 @@ tag:
 
 ---
 
+## LY Corporation Tech Blog
+
+- [모두가 행복해지는 API 문서 통합과 자동화](https://techblog.lycorp.co.jp/ko/api-document-integration-and-documentation-automation)
+
+---
+
 <TagLinks />

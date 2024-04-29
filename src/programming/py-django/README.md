@@ -4,6 +4,7 @@ title: Django
 description: Django
 icon: iconfont icon-django
 category:
+  - Python
   - Django
 ---
 

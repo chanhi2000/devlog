@@ -36,6 +36,13 @@ head:
 }
 ```
 
+<SiteInfo
+  name="강남언니 공식 블로그"
+  desc="강남언니의 조직문화와 일하는 방식을 이야기합니다."
+  url="https://blog.gangnamunni.com/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
@@ -46,6 +53,20 @@ head:
   url="/explore/articles/meetup.nhncloud.com/376.md"
   logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
   preview="https://image.toast.com/aaaadh/real/2023/techblog/NHNuD074uB77CuC6B0uB4DC%20MeetupFirmware%20Command%20InjectionuC744%20uC54CuC544uBCF4uC790uC12CuB124uC77C231128.jpg"/>
+
+---
+
+## 강남언니 공식 블로그
+
+```component VPCard
+{
+  "title": "[SaaS] 시간여행이 가능한 시스템 아키텍처",
+  "desc": "복잡한 의료 도메인에 Event Sourcing 적용 by 강남언니 블로그",
+  "link": "/explore/articles/blog.gangnamunni.com/saas-event-sourcing.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
+}
+```
 
 ---
 

@@ -285,7 +285,7 @@ tag:
 - [2022년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/151)
 - [2023년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/152)
 - [2023년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/153)
-
+- [2023년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/155)
 ---
 
 ## Max Slater

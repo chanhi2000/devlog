@@ -56,6 +56,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Dev Ranking",
+  "desc": "dev ranking",
+  "link": "https://dev-ranking.vercel.app/",
+  "logo": "https://dev-ranking.vercel.app/favicon.ico",
+  "background": "rgba(214,219,220,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "요즘IT", 
   "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
@@ -116,6 +126,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://www.freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "NHN Cloud Meetup - NHN 기술 블로그",
   "desc": "기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.",
   "link": "https://meetup.nhncloud.com/",
@@ -130,6 +150,33 @@ tag:
   url="https://d2.naver.com"
   logo="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/sitebanner.png"/>
+
+<SiteInfo
+  name="강남언니 공식 블로그"
+  desc="강남언니의 조직문화와 일하는 방식을 이야기합니다."
+  url="https://blog.gangnamunni.com/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
+
+```component VPCard
+{
+  "title": "우아한형제들 기술블로그",
+  "desc": "우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.",
+  "link": "https://techblog.woowahan.com/",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "지마켓 기술블로그",
+  "desc": "지마켓의 기술과 경험을 공유합니다.",
+  "link": "https://dev.gmarket.com/",
+  "logo": "https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515",
+  "background": "rgba(0,192,30,0.2)"
+}
+```
 
 ```component VPCard
 {

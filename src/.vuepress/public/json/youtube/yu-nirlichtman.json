@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/12NqD7utK2pTos8vt_b6aITBE7gtnE_U5z3VsjiznrsfUXNWHoXqOIfy_CqCxzAAJbkCA-Bv4Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Vpv1nWoxdNw", "title": "Making Simple Man Page from Scratch" },
+    { "id": "cabuolISweY", "title": "Reverse Engineering Simple Windows Driver" },
+    { "id": "utHei1hq0Y4", "title": "FreeBSD Explained in 3 Minutes" },
+    { "id": "qlymbA0tDMQ", "title": "Making Your Own Win32 Web Server in C" },
+    { "id": "EwpurYypCtI", "title": "30 Beginner Vim Commands in 7 Minutes" },
+    { "id": "Cm3-6cOwICU", "title": "What Happens When Linux Runs Out of Memory?" },
+    { "id": "nqJy3yCTqes", "title": "How Windows API Works Under the Hood" },
+    { "id": "obRacKML3vA", "title": "What Happens When Booting Linux with Low Memory" },
+    { "id": "Rqsxb8rzD6c", "title": "Screwing Up Linux Kernel Keyboard Driver" },
+    { "id": "6e9IgKQE2tk", "title": "Making a Very Minimal Windows Executable in C" },
     { "id": "guSDz5Iwgw0", "title": "Making Simple Graphical Linux Distro from Scratch" },
     { "id": "bNhrOmoa1MI", "title": "Windows Kernel Debugging Introduction" },
     { "id": "ITevJ8s6BQM", "title": "3 Cool Bash Tricks (Jobs, Debugging Scripts, Math)" },

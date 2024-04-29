@@ -55,6 +55,16 @@ head:
   lokafka="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/sitebanner.png"/>
 
+```component VPCard
+{
+  "title": "지마켓 기술블로그",
+  "desc": "지마켓의 기술과 경험을 공유합니다.",
+  "link": "https://dev.gmarket.com/",
+  "logo": "https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515",
+  "background": "rgba(0,192,30,0.2)"
+}
+```
+
 ---
 
 ## Enthusiastically, Steady, Slowly
@@ -85,9 +95,33 @@ head:
 <SiteInfo
   name="Virtual Thread의 기본 개념 이해하기 | NAVER D2"
   desc="Virtual Thread의 기본 개념 이해하기"
-  url="https://d2.naver.com/helloworld/1203723"
+  url="/explore/articles/d2.naver.com/1203723.md"
   logo="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/1203723/banner.png"/>
+
+---
+
+## 지마켓 기술블로그
+
+```component VPCard
+{
+  "title": "개발자를 잠 못 들게 만드는 코드",
+  "desc": "안녕하세요 VI Engineering 팀 김윤제입니다. Gmarket Mobile Web Vip(View Item Page = 상품 상세)를 담당하고 있는 Backend Engineer 입니다. 이번 블로그는 개발자를 잠 못 들게 만드는 코드 (잠 못 드는 밤 Feat: 내 전화를 받아 by Noc) 편입니다. Noc란 지마켓에서 관제 시스템 쪽에 근무하시는 분들입니다. (항상 감사합니다.) 저는 지마켓에서 실시간 트래픽을 맞으며 결제 지표에 영향을 주는 도메인을 맡고 있어서 장애와 아주 가까이에 있습니다. 그렇기 때문에 관제 시스템 측으로부터 연락을 많이 받습니다. 심지어 장난으로 저의 별명은 인간 SWAT이며 개인 프로필 사진입니다. 과연 어떤 코드가 개발자를 잠 못 들게 만드는지 알아보도록 하겠습니..",
+  "link": "/explore/articles/dev.gmarket.com/103.md",
+  "logo": "https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515",
+  "background": "rgba(0,192,30,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "설계란 고민의 연속이다 1편",
+  "desc": "안녕하세요 VI Engineering 팀 김윤제입니다 Gmarket Mobile Web Vip(View Item Page = 상품 상세)를 담당하고 있는 Backend Engineer 입니다. 저는 현재 기존의 Gmarket Mobile App VIP API 시스템과 Mobile Web VIP API 시스템을 통합 & 개편하는 VIP 모듈화 프로젝트를 진행하고 있으며, 그중 모듈 비즈니스를 담당하고 있습니다. 이번 편에서는 제가 셀 수 없이 많은 시간 동안 고민한 비즈니스 설계를 소개하려고 합니다. (하도 고민을 많이 해서 탈모가 생겼다는 썰이..) 자세한 내용은 아래에서 설명하도록 하겠습니다. Hexagonal Architecture 우선 프로젝트 구조를 먼저 설명드리려고 합니다. 모듈 비즈니스는 Mu..",
+  "link": "/explore/articles/dev.gmarket.com/104.md",
+  "logo": "https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515",
+  "background": "rgba(0,192,30,0.2)"
+}
+```
 
 ---
 

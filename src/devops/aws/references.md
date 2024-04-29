@@ -164,4 +164,10 @@ tag:
 
 ---
 
+## 뭐라도 해야 한다면 기록을 하자
+
+- [[LocalStack] 24년에 다시보는 LocalStack 설치하기](https://jakpentest.tistory.com/entry/LocalStack-24%EB%85%84%EC%97%90-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94-LocalStack-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+
+---
+
 <TagLinks />

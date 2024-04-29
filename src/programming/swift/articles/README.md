@@ -30,10 +30,34 @@ head:
 
 ```component VPCard
 {
+  "title": "Hacking with Swift – learn to code iPhone and iPad apps with free Swift tutorials",
+  "desc": "Learn Swift coding for iOS with these free Swift tutorials",
+  "link": "https://www.hackingwithswift.com/",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Doug's Compiler Corner", 
   "desc": "Musings on programming languages and compilers.", 
   "link": "https://www.douggregor.net/", 
   "background": "rgba(22,22,22,0.2)"
+}
+```
+
+---
+
+## Hacking with Swift
+
+```component VPCard
+{
+  "title": "SwiftUI by Example",
+  "desc": "Article(s) > SwiftUI by Example",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
 }
 ```
 

@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "gu35dVdWpR0", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 17 - Markov Decision Process (MDP)" },
+    { "id": "tvdX4WczNzA", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 21 - Intro to Deep Neural Networks" },
     { "id": "5aZGbmbVcVQ", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 08 - Game Theory (1/2) Matrix Games" },
     { "id": "Sk4XfhC5Awk", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 09 - Game Theory (2/2) Nash Equilibrium" },
     { "id": "YBEWToJUB1w", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 14 - Assignment 4" },
