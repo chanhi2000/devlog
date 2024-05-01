@@ -76,6 +76,7 @@ tag:
 - [[EasyWin32] 별 그리기 - Step 2](https://blog.naver.com/tipsware/223425739427)
 - [[EasyWin32] 아날로그시계 만들기 - Step 2](https://blog.naver.com/tipsware/223429118146)
 - [`CTreeCtrl::GetFirstVisibleItem` 함수와 `CTreeCtrl::GetNextVisibleItem` 함수](https://blog.naver.com/tipsware/223429307908)
+- [[Q&A] CTreeCtrl 클래스의 GetItemText 함수에 대하여](https://blog.naver.com/tipsware/223430735541)
 
 ---
 

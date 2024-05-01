@@ -19,5 +19,10 @@
     "desc": "🌲 Evergreen React UI Framework by Segment",
     "officialSite": "https://evergreen.segment.com",
     "topics": ["component-library", "design-systems", "evergreen", "react", "segment", "ui", "ui-components"]
+  }, {
+    "repo": "wooorm/refractor",
+    "desc": "Lightweight, robust, elegant virtual syntax highlighting using Prism",
+    "officialSite": "",
+    "topics": ["hast", "highlight", "html", "react", "syntax", "syntax-highlighting", "vdom", "virtual", "virtual-dom"]
   }
 ]

@@ -281,6 +281,16 @@ neofetch
 }
 ```
 
+```component VPCard
+{
+  "title": "시크릿DNS",
+  "desc": "DNS 암호화 및 SNI 파편화를 합니다.",
+  "link": "https://secretdns.kilho.net/",
+  "logo": "https://kilho.net/favicon.png",
+  "background": "rgba(0,136,204,0.2)"
+}
+```
+
 
 ---
 

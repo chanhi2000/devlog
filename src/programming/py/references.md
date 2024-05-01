@@ -546,6 +546,7 @@ tag:
 - [[Programmers] 코딩테스트 입문 #1 (with Python)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-1)
 - [[Programmers] 코딩테스트 입문 #2 (with Python)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-2-with-Python)
 - [[LocalStack] LocalStack에서 Simple Email Service를 사용해보자.](https://jakpentest.tistory.com/entry/LocalStack-LocalStack%EC%97%90%EC%84%9C-Simple-Email-Service%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
+- [[Programmers] 코딩테스트 입문 #4 (with Python)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-4-with-Python)
 
 ---
 
@@ -770,6 +771,13 @@ tag:
 
 - [[PyTorch] DataLoader 멀티프로세싱하기](https://sonseungha.tistory.com/717)
 - [[Tensorflow/keras] Tensorflow용 DataLoader 만들기](https://sonseungha.tistory.com/718)
+
+---
+
+
+## 드프 DrawingProcess
+
+- [[Data] Python 이미지 여백 지우기 (`numpy`, `mask`, ...)](https://csj000714.tistory.com/1094)
 
 
 ---

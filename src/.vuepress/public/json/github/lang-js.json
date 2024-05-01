@@ -2234,5 +2234,10 @@
     "desc": "Lightweight full-featured typescript/javascript WhatsApp Web API",
     "officialSite": "https://whiskeysockets.github.io/Baileys/",
     "topics": []
+  }, {
+    "repo": "jest-community/snapshot-diff",
+    "desc": "Diffing snapshot utility for Jest",
+    "officialSite": "",
+    "topics": ["jest", "react", "snapshot", "snapshot-testing"]
   }
 ]

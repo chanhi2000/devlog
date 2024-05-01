@@ -44,4 +44,10 @@ tag:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [MS Windows – `robocopy`](https://www.skyer9.pe.kr/wordpress/?p=9012)
+
+---
+
 <TagLinks />

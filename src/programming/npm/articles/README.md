@@ -24,10 +24,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
-
 ```component VPCard
 {
   "title": "우아한형제들 기술블로그",
@@ -38,9 +34,13 @@ head:
 }
 ```
 
+[[toc]]
+
 ---
 
 ## 우아한형제들 기술블로그
+
+> techblog.woowahan.com
 
 ```component VPCard
 {

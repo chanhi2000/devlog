@@ -39,5 +39,10 @@
     "desc": "A code editor made with Godot. Code has never been more lit!",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Brackeys/first-game-in-godot",
+    "desc": "Project files for our video on making your first game in Godot.",
+    "officialSite": "",
+    "topics": []
   }
 ]

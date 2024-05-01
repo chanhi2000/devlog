@@ -320,4 +320,10 @@ tag:
 
 ---
 
+## Dan Wilson
+
+- [The New CSS Math: `pow()`, `sqrt()`, and exponential friends](https://danielcwilson.com/posts/mathematicss-powers/)
+
+---
+
 <TagLinks />

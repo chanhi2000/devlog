@@ -6,7 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/xP9cc3VVe98IznZ6iqg6f2RarYBdqh1VxoEplmYjU6idVF7Y-trhrRL1tmP9wZPCBz7lwzFd8F4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "Uc0y8E4sWJ4", "title": "Building Sailhouse, a pub/sub SaaS with Ed Stephinson • fullstack.chat Ep 2" },
+    { "id": "6kqgtHTTZj0", "title": "Deploy a Next.js app to fly.io using GitHub Actions • #githubactions #devops #next" },
+    { "id": "BYXSR-xIRAM", "title": "Create Toast Notifications in Next.js | Next.js Tutorial • #next #react #javascript #typescript" },
+    { "id": "1iVQEFi_bhc", "title": "Test Webhooks in Next.js w/Ngrok • #next  #development #javascript #clerk" },
+     { "id": "Uc0y8E4sWJ4", "title": "Building Sailhouse, a pub/sub SaaS with Ed Stephinson • fullstack.chat Ep 2" },
     { "id": "RgZyX-e6W9E", "title": "Push Docker Images to GitHub Container Registry • #docker  #containers #github  #githubactions" }, 
     { "id": "YJM07DsSL9U", "title": "🔴 Building my CLI w/Go for Content Automation #wordpress #golang #notion" }, 
     { "id": "13rnse0zYK8", "title": "Your First AWS Lambda Function with Go" }, 

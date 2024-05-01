@@ -9,6 +9,7 @@
   { "logo": "amazons3", "name": "AWS%20S3", "colorHex": "569A31" },
   { "logo": "android", "name": "Android", "colorHex": "3DDC84" },
   { "logo": "androidstudio", "name": "Android%20Studio", "colorHex": "3DDC84" },
+  { "logo": "apachecassandra", "name": "Apache%Cassandra", "colorHex": "E8E8E8" },
   { "logo": "apachecordova", "name": "Apache%20Cordova", "colorHex": "E8E8E8" },
   { "logo": "apachegroovy", "name": "Apache%20Groovy", "colorHex": "4298B8" },
   { "logo": "apachekafka", "name": "Apache%20Kafka", "colorHex": "231F20" },

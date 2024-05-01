@@ -11,6 +11,14 @@ tag:
   - amazon-web-services
   - blog
   - yozm.wishket.com
+head:
+  - - meta:
+    - property: og:title
+      content: AWS > Article(s)
+    - property: og:description
+      content: Article(s)
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/aws/articles/
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -31,6 +39,8 @@ tag:
 
 ## 요즘IT
 
+> yozm.wishket.com
+
 ```component VPCard
 {
   "title": "‘오브젝트 스토리지’는 어떻게 활용할까? | 요즘IT",
@@ -40,8 +50,6 @@ tag:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
-
-:::
 
 ---
 

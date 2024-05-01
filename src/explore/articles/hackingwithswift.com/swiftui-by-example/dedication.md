@@ -23,7 +23,7 @@ head:
       content: Dedication
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/dedication.html
-next: '/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tutorial-building-a-complete-project.md'
+next: /explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tutorial-building-a-complete-project.md
 ---
 
 # {{ $frontmatter.title }} 관련

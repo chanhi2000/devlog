@@ -44,6 +44,8 @@ tag:
 <MyYouTubeItems jsonName="yu-greatscottlab" /><!-- GreatScott! -->
 <MyYouTubeItems jsonName="yu-Chyrosran22" /><!-- Chyrosran22 -->
 <MyYouTubeItems jsonName="yu-EEVblog2" /><!-- EEVblog2 -->
+<MyYouTubeItems jsonName="yu-IMSAIGuy" /><!-- IMSAI Guy -->
+<MyYouTubeItems jsonName="yu-masterliu1892" /><!-- Master Liu -->
 
 <TagLinks />
 

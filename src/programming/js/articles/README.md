@@ -25,10 +25,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
-
 ```component VPCard
 {
   "title": "NHN Cloud Meetup - NHN 기술 블로그",
@@ -39,16 +35,45 @@ head:
 }
 ```
 
+[[toc]]
+
+---
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-<SiteInfo
-  name="PLT Hook 체크를 위한 Android so 파일 파싱 | NHN Cloud Meetup"
-  desc="PLT Hook 체크를 위한 Android so 파일 파싱"
-  url="https://meetup.nhncloud.com/posts/371"
-  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
-  preview="https://image.toast.com/aaaadh/real/2023/techblog/NHNuD074uB77CuC6B0uB4DC%20MeetupPLT%20Hook%20uCCB4uD06CuB97C%20uC704uD55C%20Android%20so%20uD30CuC77C%20uD30CuC2F1uC12CuB124uC77C230829.jpg"/>
+> meetup.nhncloud.com
+
+```component VPCard
+{
+  "title": "CodeSnippet과 함께하는 JavaScript 프로그래밍 | NHN Cloud Meetup",
+  "desc": "CodeSnippet과 함께하는 JavaScript 프로그래밍",
+  "link": "/explore/articles/meetup.nhncloud.com/80.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "캐시 성능 향상기 (Improving Cache Speed at Scale) | NHN Cloud Meetup",
+  "desc": "캐시 성능 향상기 (Improving Cache Speed at Scale)",
+  "link": "https://meetup.nhncloud.com/posts/251",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "PLT Hook 체크를 위한 Android so 파일 파싱 | NHN Cloud Meetup",
+  "desc": "PLT Hook 체크를 위한 Android so 파일 파싱",
+  "link": "/explore/articles/meetup.nhncloud.com/371.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
 ---
 

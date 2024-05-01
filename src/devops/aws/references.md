@@ -125,6 +125,7 @@ tag:
 - [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
 - [AWS 서버리스 기초](https://blog.naver.com/gi_balja/223421350581) 
 - [AWS VPC를 위한 네트워크 지식 - IP 기초편](https://blog.naver.com/gi_balja/223425136822)
+- [AWS VPC를 위한 네트워크 지식 - 서브넷](https://blog.naver.com/gi_balja/223431369381)
 
 ---
 

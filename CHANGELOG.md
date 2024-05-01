@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.10.8  2024-05-02][v0.10.8]
+
+- 내용채워넣기
+
+---
+
 ## [v0.10.7  2024-04-30][v0.10.7]
 
 - 내용채워넣기
@@ -1435,26 +1441,29 @@ and this project adheres to [Semantic Versioning](http://semver.org).
     - `regex/useful-snippets`
     - `sql/cubrid`
 
-
 ---
+
 ## [v0.0.11: 2022-12-19][v0.0.11]
 
 내용채워넣기
 
 ### Added
+
 - `github/*`
 - `lang-java/basic` 항목 추가
 
 ### Modified
+
 - `batch` 스크립트 syntax highlighting 정상화
 
-
 ---
+
 ## [v0.0.10: 2022-12-13][v0.0.10]
 
 내용채워넣기
 
 ### Added
+
 - `site-github`, `site-others`
 - `markdown` 항목 추가
 
@@ -1463,6 +1472,7 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 - `cli`로 그룹지어 정리
 
 ---
+
 ## [v0.0.9: 2022-12-13][v0.0.9]
 
 내용채워넣기
@@ -1478,6 +1488,7 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 
 ---
+
 ## [v0.0.8: 2022-12-12][v0.0.8]
 
 내용채워넣기
@@ -1492,6 +1503,7 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 - devops-os로 병합
 
 ---
+
 ## [v0.0.7: 2022-12-11][v0.0.7]
 
 내용채워넣기
@@ -1502,16 +1514,19 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 - badge로 intro 페이지 표현
 
 ---
+
 ## [v0.0.6: 2022-12-09][v0.0.6]
 
 내용채워넣기
 
 ### Added
+
 - site-github, site-others
 - 플러그인 추가: `markdown-it-task-lists`
 - devops-docker, devops-jenkins, devops-macos 구성
 
 ---
+
 ## [v0.0.5: 2022-12-08][v0.0.5]
 
 내용 채워넣기
@@ -1802,3 +1817,5 @@ Tips 트리구조 구성
 [v0.10.4]: https://github.com/chanhi2000/devlog/compare/v0.10.3...v0.10.4
 [v0.10.5]: https://github.com/chanhi2000/devlog/compare/v0.10.4...v0.10.5
 [v0.10.6]: https://github.com/chanhi2000/devlog/compare/v0.10.5...v0.10.6
+[v0.10.7]: https://github.com/chanhi2000/devlog/compare/v0.10.6...v0.10.7
+[v0.10.8]: https://github.com/chanhi2000/devlog/compare/v0.10.7...v0.10.8

@@ -29,7 +29,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-
 ```component VPCard
 {
   "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
@@ -44,14 +43,19 @@ head:
 
 ---
 
-## Freecodecamp.org
+## freeCodeCamp
 
-<SiteInfo
-  name="How to create an analytics dashboard in a Django app"
-  desc="Hi folks! Python, data visualization, and programming are the topics I'm profoundly devoted to. That’s why I’d like to share with you my ideas as well as my enthusiasm for discovering new ways to present data in a meaningful way. The case I'm going to cover is quite common: you"
-  url="/explore/articles/freecodecamp.org/how-to-create-an-analytics-dashboard-in-django-app.md"
-  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://cdn-media-2.freecodecamp.org/w1280/5f9c9c9e740569d1a4ca3336.jpg"/>
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to create an analytics dashboard in a Django app",
+  "desc": "Hi folks! Python, data visualization, and programming are the topics I'm profoundly devoted to. That’s why I’d like to share with you my ideas as well as my enthusiasm for discovering new ways to present data in a meaningful way. The case I'm going to cover is quite common: you",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-an-analytics-dashboard-in-django-app.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 

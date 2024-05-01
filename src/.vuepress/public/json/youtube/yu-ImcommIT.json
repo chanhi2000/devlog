@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "WLCDkfFXbj0", "title": "\" 인코더의 본질 \"" },
+    { "id": "Byo7yew9-OQ", "title": "\" 생성 모델 공부의 핵심 \"" },
+    { "id": "q-n2HNan9jo", "title": "AE한테 시련을 줘야돼요 → VAE" },
+    { "id": "hjTuHpDSH8U", "title": "솔직히 1번 못 참긴 함" },
+    { "id": "6_hSa6EvNIE", "title": "VAE 시각화로 설명" },
     { "id": "fGylablqiE4", "title": "9. 자료형 확장 【내일은 파이썬】" },
     { "id": "y0b3TmyNAF8", "title": "개발자 특: 쓸 데 없는 거 만듦" },
     { "id": "a4ru_x-jiNc", "title": "1명만 주문 vs 100명이 동시에 주문" },

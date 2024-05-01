@@ -61,5 +61,7 @@ tag:
 <MyYouTubeItems jsonName="yu-itrun" /><!-- 형님IT -->
 <MyYouTubeItems jsonName="yu-Akbun" /><!-- 악분 일상 -->
 <MyYouTubeItems jsonName="yu-SiliconBrighton" /><!-- Silicon Brighton -->
+<MyYouTubeItems jsonName="yu-with2511" /><!-- 기술노트with 알렉 -->
+<MyYouTubeItems jsonName="yu-RahulWagh" /><!-- Rahul Wagh -->
 
 <TagLinks />

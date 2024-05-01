@@ -130,7 +130,11 @@ export const navbarEn = navbar([
         text: 'GraphQL',
         icon: 'iconfont icon-graphql',
         link: '/programming/js-graphql/README.md',
-      }, {  
+      }, {
+        text: 'Supabase',
+        icon: 'iconfont icon-supabase',
+        link: '/programming/js-supabase/README.md',
+      }, {
         text: 'Mermaid.js',
         link: '/programming/js-mermaid/README.md',
         icon: 'iconfont icon-mermaid',
@@ -297,6 +301,14 @@ export const navbarEn = navbar([
         link: '/devops/ncloud/README.md',
         icon: 'iconfont icon-naver'
       }, {
+        text: 'Ansible',
+        icon: 'iconfont icon-ansible',
+        link: '/devops/ansible/README.md'
+      }, {
+        text: 'NAS',
+        icon: 'iconfont icon-nas',      
+        link: '/devops/nas/README.md',
+      }, {
         text: 'Security',
         icon: 'fas fa-shield-halved',
         link: '/devops/security/README.md',
@@ -367,9 +379,6 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-mongodb',
         link: '/data-science/mongodb/README.md',
       }, {
-        text: '🪳Cockroach',
-        link: 'devops/django/README.md',
-      }, {
         text: 'Altibase',
         icon: 'iconfont icon-altibase',
         link: '/data-science/altibase/README.md',
@@ -377,7 +386,14 @@ export const navbarEn = navbar([
         text: 'Tibero',
         icon: 'fas fa-magnifying-glass',
         link: '/data-science/tibero/README.md',
-      },
+      }, {
+        text: '🪳Cockroach',
+        link: 'devops/django/README.md',
+      }, {
+        text: 'Cassandra',
+        icon: 'iconfont icon-apachecassandra',
+        link: '/data-science/cassandra/README.md',
+      }
     ]
   }, {
     text: '',

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Article(s)
-description: Python > Article(s
+description: Python > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - Python
@@ -16,18 +16,14 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 요즘 IT 블로그 - Python 관련
+      content: Python > Article(s)
     - property: og:description
-      content: 요즘 IT 블로그 - Python 관련
+      content: Article(s)
     - property: og:url
       content: https://chanhi2000.github.io/programming/python/articles/
 ---
 
 # {{ $frontmatter.title }} 관련
-
-[[toc]]
-
----
 
 ```component VPCard
 {
@@ -49,9 +45,13 @@ head:
 }
 ```
 
+[[toc]]
+
 ---
 
-## Table of Contents
+## 요즘IT
+
+> yozm.wishket.com
 
 ```component VPCard
 {
@@ -87,12 +87,17 @@ head:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-<SiteInfo
-  name="디스어셈블 프레임워크 Capstone-engine 활용하기 | NHN Cloud Meetup"
-  desc="디스어셈블 프레임워크 Capstone-engine 활용하기"
-  url="/explore/articles/meetup.nhncloud.com/378.md"
-  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
-  preview="https://image.toast.com/aaaadh/real/2024/techblog/NHN%20Cloudmeetup%20bannercapstone202403.png"/>
+> meetup.nhncloud.com
+
+```component VPCard
+{
+  "title": "디스어셈블 프레임워크 Capstone-engine 활용하기 | NHN Cloud Meetup",
+  "desc": "디스어셈블 프레임워크 Capstone-engine 활용하기",
+  "link": "/explore/articles/meetup.nhncloud.com/378.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
 ---
 

@@ -24,10 +24,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
-
 ```component VPCard
 {
   "title": "Hacking with Swift – learn to code iPhone and iPad apps with free Swift tutorials",
@@ -47,9 +43,13 @@ head:
 }
 ```
 
+[[toc]]
+
 ---
 
 ## Hacking with Swift
+
+> hackingwithswift.com
 
 ```component VPCard
 {
@@ -64,6 +64,8 @@ head:
 ---
 
 ## Doug's Compiler Corner
+
+> douggregor.net
 
 ```component VPCard
 {

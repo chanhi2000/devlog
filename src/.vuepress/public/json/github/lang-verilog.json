@@ -24,5 +24,10 @@
     "desc": "Z80 open-source silicon. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.",
     "officialSite": "https://rejunity.github.io/z80-open-silicon/",
     "topics": ["chip", "foss", "tinytapeout", "z80"]
+  }, {
+    "repo": "adam-maj/tiny-gpu",
+    "desc": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+    "officialSite": "",
+    "topics": []
   }
 ]

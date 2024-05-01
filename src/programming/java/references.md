@@ -228,6 +228,7 @@ tag:
 - [[ 99클럽 코테 스터디 26일차 TIL ] 백준 (25311번 - UCPC에서 가장 쉬운 문제 번호는?)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-26%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-25311%EB%B2%88-UCPC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%AC%B8%EC%A0%9C-%EB%B2%88%ED%98%B8%EB%8A%94)
 - [[ 99클럽 코테 스터디 30일차 TIL ] 백준 (10811번 - 바구니 뒤집기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-28%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-10811%EB%B2%88-%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%92%A4%EC%A7%91%EA%B8%B0)
 - [[ 99클럽 코테 스터디 29일차 TIL ] 백준 (30455번 - 이제는 더 이상 물러날 곳이 없다)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-30455%EB%B2%88-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EB%8D%94-%EC%9D%B4%EC%83%81-%EB%AC%BC%EB%9F%AC%EB%82%A0-%EA%B3%B3%EC%9D%B4-%EC%97%86%EB%8B%A4)
+- [[내일배움캠프 11일차 TIL] 개인과제1 : 계산기 만들기(level 1)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-11%EC%9D%BC%EC%B0%A8-TIL-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C1-%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0level-1)
 
 ### 류광의 번역 이야기
 

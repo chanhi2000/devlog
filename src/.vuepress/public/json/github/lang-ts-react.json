@@ -44,5 +44,25 @@
     "desc": "Internationalization for react done right. Using the i18next i18n ecosystem.",
     "officialSite": "https://react.i18next.com",
     "topics": ["i18n", "i18next", "internationalization", "react", "react-native", "ssr", "translation"]
+  }, {
+    "repo": "jsxstyle/jsxstyle",
+    "desc": "Inline style system for JSX",
+    "officialSite": "https://jsx.style/",
+    "topics": ["css", "css-in-js", "inline-styles", "jsxstyle", "react"]
+  }, {
+    "repo": "alangpierce/sucrase",
+    "desc": "Super-fast alternative to Babel for when you can target modern JS runtimes",
+    "officialSite": "https://sucrase.io",
+    "topics": ["compiler", "es-modules", "javascript", "jsx", "typescript"]
+  }, {
+    "repo": "transitive-bullshit/react-static-tweets",
+    "desc": "Extremely fast static renderer for tweets.",
+    "officialSite": "https://react-tweet.vercel.app",
+    "topics": ["nextjs", "react", "ssr", "tweet", "tweets", "twitter"]
+  }, {
+    "repo": "preactjs/preact-render-to-string",
+    "desc": ":page_facing_up: Universal rendering for Preact: render JSX and Preact components to HTML.",
+    "officialSite": "http://npm.im/preact-render-to-string",
+    "topics": ["html", "preact", "preact-components", "universal"]
   }
 ]

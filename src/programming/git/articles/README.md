@@ -52,11 +52,20 @@ head:
 }
 ```
 
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
+
 [[toc]]
 
 ---
 
 ## 요즘IT
+
+> yozm.wishket.com
 
 ```component VPCard
 {
@@ -72,30 +81,43 @@ head:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-<SiteInfo
-  name="git squash - 여러개의 커밋로그를 하나로 묶기| NHN Cloud Meetup"
-  desc="git squash - 여러개의 커밋로그를 하나로 묶기"
-  url="/explore/articles/meetup.nhncloud.com/39.md"
-  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
-  preview="/images/content/meetup.nhncloud.com/gitlogo.png"/>
-  
-<SiteInfo
-  name="git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때 | NHN Cloud Meetup"
-  desc="git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때"
-  url="/explore/articles/meetup.nhncloud.com/45.md"
-  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
-  preview="/images/content/meetup.nhncloud.com/gitlogo.png"/>
+> meetup.nhncloud.com
 
-<SiteInfo
-  name="메시징플랫폼개발팀의 브랜칭 전략은? Release Flow! | NHN Cloud Meetup"
-  desc="메시징플랫폼개발팀의 브랜칭 전략은? Release Flow!"
-  url="/explore/articles/meetup.nhncloud.com/377.md"
-  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
-  preview="https://image.toast.com/aaaadh/real/2024/techblog/uC12CuB124uC77C4.png"/>
+```component VPCard
+{
+  "title": "git squash - 여러개의 커밋로그를 하나로 묶기| NHN Cloud Meetup",
+  "desc": "git squash - 여러개의 커밋로그를 하나로 묶기",
+  "link": "/explore/articles/meetup.nhncloud.com/39.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때 | NHN Cloud Meetup",
+  "desc": "git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때",
+  "link": "/explore/articles/meetup.nhncloud.com/45.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "메시징플랫폼개발팀의 브랜칭 전략은? Release Flow! | NHN Cloud Meetup",
+  "desc": "메시징플랫폼개발팀의 브랜칭 전략은? Release Flow!",
+  "link": "/explore/articles/meetup.nhncloud.com/377.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
 ---
 
 ## 우아한형제들 기술블로그
+
+> techblog.woowahan.com
 
 ```component VPCard
 {
@@ -104,6 +126,22 @@ head:
   "link": "/explore/artiles/techblog.woowahan.com/16044.md",
   "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
   "background": "rgba(43,193,188,0.2)"
+}
+```
+
+---
+
+## Naver D2
+
+> d2.naver.com
+
+```component VPCard
+{
+  "title": "Git vs. Mercurial | NAVER D2",
+  "desc": "Git vs. Mercurial",
+  "link": "/explore/articles/d2.naver.com/1011.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
 }
 ```
 

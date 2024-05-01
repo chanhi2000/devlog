@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/MFHFeloW3xAxIUKf0_aDKFFXxWwI_arzKqk_2hXO4R2GmjRR0pc_CkhH6T5z3mmuJ2OiPgR2Z4E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oHPNpgy21Rk", "title": "Spring Boot Apache Pulsar | Producer & Consumer Hands-On Example | Javatechie" },
+    { "id": "50mhP1SBTis", "title": "Automate Spring Boot 2.x to 3.x Migration With OpenRewrite  | @Javatechie" },
+    { "id": "c7LPlWvxZcQ", "title": "🚀 Apache Kafka Crash Course With Spring Boot 3.0.x | @Javatechie" },
+    { "id": "LimCWMFduC8", "title": "Mastering Docker | Essential Commands & Cheatsheet for Developers | @Javatechie" },
+    { "id": "xHCWU9Q88rQ", "title": "Java Streams features | Exploring Hidden methods for Developers | @Javatechie" },
+    { "id": "RKLjZ0jfQIQ", "title": "Spring Boot Interview Mastery 🔥 | Question & Answer Guide for Developers | Part-6 | @Javatechie" },
     { "id": "mVSFHgItaa4", "title": "Deploying Spring Boot on AWS EKS (Elastic Kubernetes Service ) Tutorial | JavaTechie" },
     { "id": "nNINuF5s32k", "title": "Automate Task Scheduling | Spring Boot Tasks on Kubernetes with Cron Jobs | @Javatechie" },
     { "id": "lUQ4y74LWgw", "title": "Docker Init | Streamlining Dockerization for Any Application in Minutes 🚀 | JavaTechie" },

@@ -194,5 +194,20 @@
     "desc": "LLM Prompting Engineering Simplified Book",
     "officialSite": "https://llmnanban.akmmusai.pro/Book/LLM-Prompt-Engineering-Simplified-Book/",
     "topics": []
+  }, {
+    "repo": "Kludex/fastapi-tips",
+    "desc": "FastAPI Tips by The FastAPI Expert!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jordan-cutler/path-to-senior-engineer-handbook",
+    "desc": "All the resources you need to get to Senior Engineer and beyond",
+    "officialSite": "",
+    "topics": ["awesome", "career", "career-growth", "path-to-senior", "senior-engineer", "software-developer"]
+  }, {
+    "repo": "trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "officialSite": "",
+    "topics": ["awesome", "awesome-list", "bsd", "cheatsheets", "devops", "guidelines", "hacking", "hacks", "howtos", "linux", "lists", "manuals", "one-liners", "pentesters", "resources", "search-engines", "security", "security-researchers", "sysops"]
   }
 ]

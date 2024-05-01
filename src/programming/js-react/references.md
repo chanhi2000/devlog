@@ -301,6 +301,7 @@ head:
 - [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
 - [A Modern Approach to React Development](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)
 - [`junghan92` - (번역) 리액트 컴파일러의 타입 시스템](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EC%9D%98-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-177486489096)
+- [`netflixtechblog` - Introducing SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 
 ---
 
@@ -657,6 +658,12 @@ https://o-yeon.tistory.com/227
 ## 사진찍는 웹 개발자의 블로그
 
 - [Clerk를 사용해서 유저 정보 관리하기](https://donghoon-song.github.io/clerk/clerk%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%9C%A0%EC%A0%80-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/)
+
+---
+
+## React Training
+
+- [React Will Be Compiled](https://reacttraining.com/blog/react-19-will-be-compiled)
 
 ---
 

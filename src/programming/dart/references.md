@@ -63,4 +63,11 @@ tag:
 
 ---
 
+## DevStory
+
+- [1부. Flutter 다국어 지원 - 언어 선정](https://blog.devstory.co.kr/post/flutter-i18n-01/)
+- [2부. Flutter 다국어 지원 - 도구 소개](https://blog.devstory.co.kr/post/flutter-i18n-02/)
+
+---
+
 <TagLinks />

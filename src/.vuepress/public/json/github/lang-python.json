@@ -496,9 +496,9 @@
     "officialSite": "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm"
   }, {
     "repo": "lm-sys/FastChat",
-    "desc": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.",
-    "topics": [],
-    "officialSite": ""
+    "desc": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+    "officialSite": "",
+    "topics": []
   }, {
     "repo": "twitter/opensource-website",
     "desc": "Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.",
@@ -5009,5 +5009,40 @@
     "desc": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
     "officialSite": "https://cognita.truefoundry.com",
     "topics": ["ai", "deep-learning", "generative-ai", "llmops", "machine-learning", "mlops", "model-deployment", "python", "rag", "retrieval-augmented-generation", "typescript"]
+  }, {
+    "repo": "zk-Call/zkp-hmac-communication-python",
+    "desc": "\"Zero-Knowledge\" Proof Implementation with HMAC Communication in Python",
+    "officialSite": "https://zkcall.net",
+    "topics": ["hmac", "python", "zero-knowledge", "zk-call", "zkproof"]
+  }, {
+    "repo": "xlang-ai/OSWorld",
+    "desc": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+    "officialSite": "https://os-world.github.io",
+    "topics": ["agent", "artificial-intelligence", "benchmark", "cli", "code-generation", "gui", "language-model", "large-action-model", "llm", "multimodal", "natural-language-processing", "reinforcement-learning", "rpa", "vlm"]
+  }, {
+    "repo": "JackAILab/ConsistentID",
+    "desc": "Customized ID Consistent for human",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "JackAILab/ConsistentID",
+    "desc": "Customized ID Consistent for human",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ymcui/Chinese-LLaMA-Alpaca-3",
+    "desc": "中文羊驼大模型三期项目 (Chinese Llama-3 LLMs) developed from Meta Llama 3",
+    "officialSite": "",
+    "topics": ["alpaca", "large-language-models", "llama", "llama-2", "llama-3", "llama3", "llm", "nlp"]
+  }, {
+    "repo": "banagale/FileKitty",
+    "desc": "GUI for selecting text files for concatenation and submission to LLMs",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "pyinfra-dev/pyinfra",
+    "desc": "pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.",
+    "officialSite": "https://pyinfra.com",
+    "topics": ["cloud-management", "configuration-management", "high-performance", "infrastructure", "pyinfra", "python", "remote-execution"]
   }
 ]

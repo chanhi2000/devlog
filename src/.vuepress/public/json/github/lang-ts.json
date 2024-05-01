@@ -2693,5 +2693,35 @@
     "desc": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
     "officialSite": "https://hydralauncher.site",
     "topics": []
+  }, {
+    "repo": "ItzCrazyKns/Perplexica",
+    "desc": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+    "officialSite": "",
+    "topics": ["ai-search-engine", "artificial-intelligence", "machine-learning", "open-source-ai-search-engine", "open-source-perplexity-ai", "perplexica", "perplexity-ai", "search-engine", "searxng", "searxng-copilot"]
+  }, {
+    "repo": "module-federation/core",
+    "desc": "Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications",
+    "officialSite": "https://module-federation.io/",
+    "topics": ["module-federation", "nextjs", "node", "react", "typescript", "webpack"]
+  }, {
+    "repo": "cezaraugusto/extension.js",
+    "desc": "🧩 Plug-and-play, zero-config, cross-browser extension development tool. ",
+    "officialSite": "https://extension.js.org",
+    "topics": ["boilerplate", "browser", "browser-extension", "browser-extensions", "chrome", "chromium", "cli", "edge", "extension", "extensions", "firefox", "generator", "kit", "runner", "safari", "starter-kit", "template", "webextension", "webextensions"]
+  }, {
+    "repo": "bikeshaving/crank",
+    "desc": "The Just JavaScript Framework",
+    "officialSite": "https://crank.js.org",
+    "topics": ["components", "crank", "framework", "generators", "javascript", "jsx", "promises"]
+  }, {
+    "repo": "evoluhq/evolu",
+    "desc": "Local-first platform designed for privacy, ease of use, and no vendor lock-in",
+    "officialSite": "https://evolu.dev",
+    "topics": ["crdt", "e2ee", "local-first", "offline-first", "react", "react-hooks", "react-native", "sqlite"]
+  }, {
+    "repo": "felipemotarocha/fullstackweek-foods",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

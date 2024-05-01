@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Query
-description: 🎡Microsoft SQL Server > Query
+description: Microsoft SQL Server > Query
 icon: fas fa-magnifying-glass
 category:
-  - 🎡Microsoft SQL Server
+  - Microsoft SQL Server
   - Query
 tag: 
   - sql

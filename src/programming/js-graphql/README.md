@@ -16,7 +16,7 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="visualstudiocode,apollographql"/>
+<ShieldsGroup logos="visualstudiocode,apollographql,graphql"/>
 
 ---
 

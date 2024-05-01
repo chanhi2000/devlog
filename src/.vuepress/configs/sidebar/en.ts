@@ -114,7 +114,14 @@ export const sidebarEn = sidebar({
                 '/explore/articles/meetup.nhncloud.com/45.md',
                 '/explore/articles/meetup.nhncloud.com/377.md',
               ]
-            }
+            }, {
+              text: 'd2.naver.com',
+              collapsible: true,
+              icon: '/images/content/d2.naver.com/favicon.ico',
+              children: [
+                '/explore/articles/d2.naver.com/1011.md',
+              ]
+            }, 
           ]
         }
       ]
@@ -405,6 +412,7 @@ export const sidebarEn = sidebar({
                   collapsible: true,
                   icon: 'fa-brands fa-swift',
                   children: [
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/README.md',
                     {
                       text: 'Introduction',
                       collapsible: true,
@@ -437,7 +445,52 @@ export const sidebarEn = sidebar({
                         '/explore/articles/hackingwithswift.com/swiftui-by-example/adding-swipe-to-delete-and-editbutton.md',
                         '/explore/articles/hackingwithswift.com/swiftui-by-example/wrap-up-our-swiftui-project-is-complete.md'
                       ]
-                    },
+                    }, {
+                      text: 'Working with static text',
+                      collapsible: true,
+                      children: [
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-static-labels-with-a-text-view.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-advanced-text-styling-using-attributedstring.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-text-alignment-using-multilinetextalignment.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-spacing-between-letters-in-text.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-dates-inside-text-views.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-textfield-uppercase-or-lowercase-using-textcase.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-text-and-an-icon-side-by-side-using-label.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-a-placeholder-using-redacted.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-private-using-privacysensitive.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-way-links-are-opened.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-text.md',
+                      ]
+                    }, {
+                      text: 'Images, shapes, and media',
+                      collapsible: true,
+                      children: [
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-images-using-image-views.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-tile-an-image.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-gradient.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-images-and-other-views-as-a-backgrounds.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fill-and-stroke-shapes-at-the-same-time.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-part-of-a-solid-shape-using-trim.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/when-should-you-use-containerrelativeshape.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-play-movies-with-videoplayer.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-integrate-spritekit-using-spriteview.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-a-remote-image-from-a-url.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dynamically-adjust-the-color-of-an-sf-symbol.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-pictures-using-photospicker.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-sf-symbols.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-read-the-red-green-and-blue-values-from-a-color.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-shapes-to-create-new-shapes.md',
+                        '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md',
+                      ]
+                    }
                   ]
                 }
               ]
@@ -474,10 +527,11 @@ export const sidebarEn = sidebar({
               collapsible: true,
               icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
               children: [
+                '/explore/articles/meetup.nhncloud.com/80.md',
                 '/explore/articles/meetup.nhncloud.com/251.md',
                 '/explore/articles/meetup.nhncloud.com/371.md',
               ]
-            }
+            },
           ]
         }
       ]
@@ -581,6 +635,14 @@ export const sidebarEn = sidebar({
               icon: 'https://johnnyreilly.com/favicon.ico',
               children: [
                 '/explore/articles/johnnyreilly.com/webpack-overview.md',
+              ]
+            }, {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/73.md',
+                '/explore/articles/meetup.nhncloud.com/85.md',
               ]
             }
           ]
@@ -1570,6 +1632,40 @@ export const sidebarEn = sidebar({
          '/devops/ncloud/references.md',
         ]
     }, {
+      text: 'Ansible',
+      collapsible: true,
+      icon: 'iconfont icon-ansible',
+      children: [
+        '/devops/ansible/README.md',
+        '/devops/ansible/references.md',
+        '/devops/ansible/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/ansible/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'NAS',
+      collapsible: true,
+      icon: 'iconfont icon-nas',
+      children: [
+        '/devops/nas/README.md',
+        '/devops/nas/references.md',
+        '/devops/nas/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/nas/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Security',
       collapsible: true,
       icon: 'fas fa-shield-halved',
@@ -1732,14 +1828,6 @@ export const sidebarEn = sidebar({
         '/data-science/mongodb/youtube.md',
       ]
     }, {
-      text: '🪳Cockroach',
-      collapsible: true,
-      children: [
-        '/data-science/cockroach/README.md',
-        '/data-science/cockroach/query.md',
-        '/data-science/cockroach/references.md',
-      ]
-    }, {
       text: 'Altibase',
       collapsible: true,
       icon: 'iconfont icon-altibase',
@@ -1756,7 +1844,42 @@ export const sidebarEn = sidebar({
         '/data-science/tibero/README.md',
         '/data-science/tibero/query.md',
       ]
-    },
+    }, {
+      text: '🪳Cockroach',
+      collapsible: true,
+      children: [
+        '/data-science/cockroach/README.md',
+        '/data-science/cockroach/query.md',
+        '/data-science/cockroach/references.md',
+      ]
+    }, {
+      text: 'Cassandra',
+      collapsible: true,
+      icon: 'iconfont icon-apachecassandra',
+      children: [
+        '/data-science/cassandra/README.md',
+        '/data-science/cassandra/references.md',
+        '/data-science/cassandra/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/cassandra/articles/README.md',
+            {
+              text: 'meetup.nhncloud.com',
+              collapsible: true,
+              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
+              children: [
+                '/explore/articles/meetup.nhncloud.com/58.md',
+                '/explore/articles/meetup.nhncloud.com/60.md',
+                '/explore/articles/meetup.nhncloud.com/65.md',
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
   ], '/ai/': [
     {
       text: 'AI',
@@ -2043,7 +2166,52 @@ export const sidebarEn = sidebar({
                     '/explore/articles/hackingwithswift.com/swiftui-by-example/adding-swipe-to-delete-and-editbutton.md',
                     '/explore/articles/hackingwithswift.com/swiftui-by-example/wrap-up-our-swiftui-project-is-complete.md'
                   ]
-                },
+                }, {
+                  text: 'Working with static text',
+                  collapsible: true,
+                  children: [
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-static-labels-with-a-text-view.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-advanced-text-styling-using-attributedstring.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-text-alignment-using-multilinetextalignment.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-spacing-between-letters-in-text.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-dates-inside-text-views.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-textfield-uppercase-or-lowercase-using-textcase.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-text-and-an-icon-side-by-side-using-label.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-a-placeholder-using-redacted.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-private-using-privacysensitive.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-way-links-are-opened.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-text.md',
+                  ]
+                }, {
+                  text: 'Images, shapes, and media',
+                  collapsible: true,
+                  children: [
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-images-using-image-views.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-tile-an-image.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-gradient.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-images-and-other-views-as-a-backgrounds.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fill-and-stroke-shapes-at-the-same-time.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-part-of-a-solid-shape-using-trim.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/when-should-you-use-containerrelativeshape.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-play-movies-with-videoplayer.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-integrate-spritekit-using-spriteview.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-a-remote-image-from-a-url.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dynamically-adjust-the-color-of-an-sf-symbol.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-pictures-using-photospicker.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-sf-symbols.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-read-the-red-green-and-blue-values-from-a-color.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-shapes-to-create-new-shapes.md',
+                    '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md',
+                  ]
+                }
               ]
             }
           ]
@@ -2134,6 +2302,12 @@ export const sidebarEn = sidebar({
             '/explore/articles/meetup.nhncloud.com/53.md',
             '/explore/articles/meetup.nhncloud.com/54.md',
             '/explore/articles/meetup.nhncloud.com/55.md',
+            '/explore/articles/meetup.nhncloud.com/58.md',
+            '/explore/articles/meetup.nhncloud.com/60.md',
+            '/explore/articles/meetup.nhncloud.com/65.md',
+            '/explore/articles/meetup.nhncloud.com/73.md',
+            '/explore/articles/meetup.nhncloud.com/80.md',
+            '/explore/articles/meetup.nhncloud.com/85.md',
             '/explore/articles/meetup.nhncloud.com/251.md',
             '/explore/articles/meetup.nhncloud.com/311.md',
             '/explore/articles/meetup.nhncloud.com/374.md',

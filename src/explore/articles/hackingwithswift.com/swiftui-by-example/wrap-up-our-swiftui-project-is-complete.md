@@ -32,7 +32,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-st
 {
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
-  "link": "/swift/swiftui-by-example/README.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

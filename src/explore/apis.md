@@ -507,7 +507,6 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://typ.io/",
   "logo": "https://typ.io/typio.svg",
   "background": "rgba(255,255,255,0.2)"
-  
 }
 ```
 
@@ -602,6 +601,15 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 ```
 
 https://anchor-tool.com/
+
+```component VPCard
+{
+  "title": "HEIC/HEIF to JPG Converter",
+  "desc": "Convert multiple HEIC/HEIF images to JPG at once, in your browser.",
+  "link": "https://heif.pages.dev/jpg/",
+  "backgground": "rgba(110,67,184,0.2)"
+}
+```
 
 @tab Geospatial
 

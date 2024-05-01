@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "virnect",
+    "name": "VIRNECT",
+    "profile": "https://yt3.googleusercontent.com/vQp3tCOkItNmX_2C3Eh4Gb50Zh1HQulDXKYUv1z3HV1jhu1K_2Pto9eKn1_QMtAKnlSdNrxq=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/D8YCPOvkpjPhlTWFK6zNjwmMWm_FISmsdfdueNOIWT2QfrFkd27EkpAlI4_MAFwA_ByJXOIB=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bU0xZ_ptkGw", "title": "버넥트(VIRNECT) 우수 프로젝트 적용 사례 X-Servo Motor 교체  AR Content" },
+    { "id": "34BWNzCViM4", "title": "버넥트(VIRNECT) 우수 프로젝트 적용 사례 Virtual Museum AR Content" },
+    { "id": "dts8FHHocgc", "title": "버넥트(VIRNECT) 우수 프로젝트 적용 사례 Smart Healthcare AR Content" },
+    { "id": "gVk2f70Nvn0", "title": "버넥트(VIRNECT) 우수 프로젝트 적용 사례 Pocket Bike AR Content" },
+    { "id": "IUJZ6ebypwo", "title": "버넥트(VIRNECT) 우수 프로젝트 적용 사례 Dobot Installation AR Content" },
+    { "id": "N171S_rJirg", "title": "버넥트 (VIRNECT) 반도체 핸들러 트러블슈팅 XR Content" }
+  ],
+  "playlists": [
+
+  ]
+}

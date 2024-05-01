@@ -82,7 +82,7 @@ export default defineUserConfig({
       blog: true,
       components: {
         components: [
-          "VidStack", "FontIcon", "Badge", "Notice", "Share", "PDF", "SiteInfo", "VPCard", "VPBanner"
+          "VidStack", "FontIcon", "Badge", "Share", "PDF", "SiteInfo", "VPCard", "VPBanner"
         ],
         componentOptions: {
           fontIcon: {

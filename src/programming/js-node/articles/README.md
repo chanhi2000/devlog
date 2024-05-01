@@ -86,22 +86,39 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "NHN Cloud Meetup - NHN 기술 블로그",
+  "desc": "기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.",
+  "link": "https://meetup.nhncloud.com/",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
+
 [[toc]]
 
 ---
 
-## Freecodecamp.org
+## freeCodeCamp
 
-<SiteInfo
-  name="What is Dead Zone in JavaScript?"
-  desc="In JavaScript, you may encounter the term &quot;dead zone.&quot; While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively."
-  url="/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.md"
-  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"/>
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "What is Dead Zone in JavaScript?",
+  "desc": "In JavaScript, you may encounter the term 'dead zone' While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively.",
+  "link": "/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 
 ## 요즘IT
+
+> yozm.wishket.com
 
 ```component VPCard
 {
@@ -146,6 +163,8 @@ head:
 ---
 
 ## Devtool Tips
+
+> devtoolstips.org
 
 ```component VPCard
 {
@@ -261,11 +280,13 @@ head:
 
 ## Naver D2
 
+> d2.naver.com
+
 ```component VPCard
 {
-  "title": "User-Agent Client Hints의 도입, UA 프리징을 대비하라",
-  "desc": "Devtools Tips > User-Agent Client Hints의 도입, UA 프리징을 대비하라",
-  "link": "https://d2.naver.com/helloworld/6532276",
+  "title": "User-Agent Client Hints의 도입, UA 프리징을 대비하라 | NAVER D2",
+  "desc": "User-Agent Client Hints의 도입, UA 프리징을 대비하라",
+  "link": "/explore/articles/d2.naver.com/6532276.md",
   "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
@@ -273,25 +294,61 @@ head:
 
 ---
 
-## sitepoint
+## Sitepoint
 
-<SiteInfo
-  name="5 Exciting New JavaScript Features in 2024 — SitePoint"
-  desc="Explore some hotly anticipated new additions to JavaScript, including better date management with the Temporal API and pipe operators."
-  url="/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md"
-  logo="https://www.sitepoint.com/favicons/512x512.png"
-  preview="https://uploads.sitepoint.com/wp-content/uploads/2024/03/1710139726ecmascript2024-new-features.jpg"/>
+> sitepoint.com
+
+```component VPCard
+{
+  "title": "5 Exciting New JavaScript Features in 2024 — SitePoint",
+  "desc": "Explore some hotly anticipated new additions to JavaScript, including better date management with the Temporal API and pipe operators.",
+  "link": "/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md",
+  "logo": "https://www.sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
+}
+```
 
 ---
 
 ## John Reilly
 
-<SiteInfo
-  name="Overview of webpack, a JavaScript bundler | johnnyreilly"
-  desc="webpack is a JavaScript bundler that helps you bundle your code into a single file. It's a great tool for optimizing your code and improving performance."
-  url="/explore/articles/johnnyreilly.com/webpack-overview.md"
-  logo="https://johnnyreilly.com/favicon.ico"
-  preview="https://res.cloudinary.com/priou/image/fetch/f_auto,q_auto,w_auto,dpr_auto/https://johnnyreilly.com/assets/images/title-image-510ccb17fb0abf91a6a1fca2ba757f19.png"/>
+> johnnyreilly.com
+
+```component VPCard
+{
+  "title": "Overview of webpack, a JavaScript bundler | johnnyreilly",
+  "desc": "webpack is a JavaScript bundler that helps you bundle your code into a single file. It's a great tool for optimizing your code and improving performance.",
+  "link": "/explore/articles/johnnyreilly.com/webpack-overview.md",
+  "logo": "https://johnnyreilly.com/favicon.ico",
+  "background": "rgba(71,118,222,0.2)"
+}
+```
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+> meetup.nhncloud.com
+
+```component VPCard
+{
+  "title": "ES6의 제너레이터를 사용한 비동기 프로그래밍 | NHN Cloud Meetup",
+  "desc": "ES6의 제너레이터를 사용한 비동기 프로그래밍",
+  "link": "/explore/articles/meetup.nhncloud.com/73.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "지금 바로 시작하는 ES6 | NHN Cloud Meetup",
+  "desc": "지금 바로 시작하는 ES6",
+  "link": "/explore/articles/meetup.nhncloud.com/85.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
 ---
 

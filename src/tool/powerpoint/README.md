@@ -14,7 +14,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: PowerPoint > Article(s)
+      content: PowerPoint
     - property: og:description
       content: Article(s)
     - property: og:url

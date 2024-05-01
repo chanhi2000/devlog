@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/6dh8qqBb49hXwywSifRQxkyxrk7stHODDkHIuBQyYbYGEvEv0lwCZovrjCRjmeoF1sReAP-kBQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YzUkuDGv11U", "title": "Demo: Deploying open source software from Tanzu Application Catalog in Air-gapped Environments" },
+    { "id": "vDvWDyd98hA", "title": "VMware Tanzu Defined: Strategy Update" },
     { "id": "yTgtAzhvC28", "title": "⚡️ Enlightning - Flexible Authorization with OpenFGA" },
     { "id": "Gw04hqdqQ9A", "title": "What is Spring? – Tanzu Fundamentals" },
     { "id": "IAnIg-F2QU0", "title": "Demo: Tanzu Application Catalog" },

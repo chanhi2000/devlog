@@ -30,7 +30,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -56,6 +55,6 @@ tag:
 <MyYouTubeItems jsonName="yu-MentalOutlaw" /><!-- Mental Outlaw -->
 <MyYouTubeItems jsonName="yu-sagaratytube" /><!-- Dispatch -->
 <MyYouTubeItems jsonName="yu-mischavandenburg" /><!-- Mischa van den Burg -->
-
+<MyYouTubeItems jsonName="yu-typecraft_dev" /><!-- typecraft -->
 
 <TagLinks />

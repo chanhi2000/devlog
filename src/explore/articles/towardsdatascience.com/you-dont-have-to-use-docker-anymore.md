@@ -27,8 +27,8 @@ tag:
   "title": "You Don’t Have to Use Docker Anymore",
   "desc": "Docker is not the only containerization tool out there and there might just be better alternatives…",
   "link": "https://towardsdatascience.com/its-time-to-say-goodbye-to-docker-5cfec8eff833",
-  "logo": "https://miro.medium.com/v2/resize:fill:96:96/2*p3sIQ1Ga2bfAbZYzoCcACw.jpeg",
-  "background": "rgba(10, 10, 10, 0.2)"
+  "logo": "https://cdn-images-1.medium.com/fit/c/128/128/1*VzTUkfeGymHP4Bvav-T-lA.png",
+  "background": "rgba(53,88,118,0.2)"
 }
 ```
 

@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "VdmyueDr6Gw", "title": "Introduction to Cloud Migration #aws #cloudmigration #virtualmachine #ec2" },
+    { "id": "tdck3TReQcM", "title": "How to migrate a VM from Onprem to AWS  - Lab demo #aws #cloudmigration #virtualmachine #ec2" },
+    { "id": "O3KtaGcq98A", "title": "How to setup Prometheus on AWS EC2 instance #prometheus #grafana #monitoring #aws #ec2" },
     { "id": "r21h-PQx5IQ", "title": "How to host a website in AWS ECS using Fargate Launch type" },
     { "id": "7Tha26xqxOA", "title": "How to create a Pipeline job in Jenkins  #aws #ec2 #jenkins #cicd  #devops" },
     { "id": "oORS4vf_8pw", "title": "How to build a maven project using Jenkins pipeline #aws #ec2 #jenkins #cicd  #devops" },

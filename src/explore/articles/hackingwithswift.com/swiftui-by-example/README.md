@@ -50,7 +50,7 @@ A brief explanation of the basics of SwiftUI
 
 ```component VPCard
 {
-  "title": "Article(s) > What is SwiftUI?",
+  "title": "What is SwiftUI? | SwiftUI by Example",
   "desc": "What is SwiftUI?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-swiftui.md", 
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -60,7 +60,7 @@ A brief explanation of the basics of SwiftUI
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI vs Interface Builder and storyboards",
+  "title": "SwiftUI vs Interface Builder and storyboards | SwiftUI by Example",
   "desc": "SwiftUI vs Interface Builder and storyboards",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-vs-interface-builder-and-storyboards.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -70,7 +70,7 @@ A brief explanation of the basics of SwiftUI
 
 ```component VPCard
 {
-  "title": "Article(s) > Frequently asked questions about SwiftUI",
+  "title": "Frequently asked questions about SwiftUI | SwiftUI by Example",
   "desc": "Frequently asked questions about SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/frequently-asked-questions-about-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -80,7 +80,7 @@ A brief explanation of the basics of SwiftUI
 
 ```component VPCard
 {
-  "title": "Article(s) > Answering the big question: should you learn SwiftUI, UIKit, or both?",
+  "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
   "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -90,7 +90,7 @@ A brief explanation of the basics of SwiftUI
 
 ```component VPCard
 {
-  "title": "Article(s) > How to follow this quick start guide",
+  "title": "How to follow this quick start guide | SwiftUI by Example",
   "desc": "How to follow this quick start guide",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-follow-this-quick-start-guide.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -100,7 +100,7 @@ A brief explanation of the basics of SwiftUI
 
 ```component VPCard
 {
-  "title": "Article(s) > Migrating from UIKit to SwiftUI",
+  "title": "Migrating from UIKit to SwiftUI | SwiftUI by Example",
   "desc": "Migrating from UIKit to SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/migrating-from-uikit-to-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -110,7 +110,7 @@ A brief explanation of the basics of SwiftUI
 
 ```component VPCard
 {
-  "title": "Article(s) > What’s in the basic template?",
+  "title": "What’s in the basic template? | SwiftUI by Example",
   "desc": "What’s in the basic template?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-in-the-basic-template.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -120,7 +120,7 @@ A brief explanation of the basics of SwiftUI
 
 ```component VPCard
 {
-  "title": "Article(s) > Dedication",
+  "title": "Dedication | SwiftUI by Example",
   "desc": "Dedication",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/dedication.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -136,7 +136,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Building a complete project",
+  "title": "Building a complete project | SwiftUI by Example",
   "desc": "Building a complete project",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tutorial-building-a-complete-project.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -146,7 +146,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Building a menu using List",
+  "title": "Building a menu using List | SwiftUI by Example",
   "desc": "Building a menu using List",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -156,7 +156,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Composing views to create a list row",
+  "title": "Composing views to create a list row | SwiftUI by Example",
   "desc": "Composing views to create a list row",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -166,7 +166,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Polishing designs with fonts and colors",
+  "title": "Polishing designs with fonts and colors | SwiftUI by Example",
   "desc": "Polishing designs with fonts and colors",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/polishing-designs-with-fonts-and-colors.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -176,7 +176,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Displaying a detail screen with NavigationLink",
+  "title": "Displaying a detail screen with NavigationLink | SwiftUI by Example",
   "desc": "Displaying a detail screen with NavigationLink",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/displaying-a-detail-screen-with-navigationlink.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -186,7 +186,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Observable objects, environment objects, and @Published",
+  "title": "Observable objects, environment objects, and @Published | SwiftUI by Example",
   "desc": "Observable objects, environment objects, and @Published",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/observable-objects-environment-objects-and-published.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -196,7 +196,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Adding items to an order with @EnvironmentObject",
+  "title": "Adding items to an order with @EnvironmentObject | SwiftUI by Example",
   "desc": "Adding items to an order with @EnvironmentObject",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-items-to-an-order-with-environmentobject.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -206,7 +206,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Adding TabView and tabItem()",
+  "title": "Adding TabView and tabItem() | SwiftUI by Example",
   "desc": "Adding TabView and tabItem()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-tabview-and-tabitem.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -216,7 +216,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Bindings and forms",
+  "title": "Bindings and forms | SwiftUI by Example",
   "desc": "Bindings and forms",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/bindings-and-forms.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -226,7 +226,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Two-way bindings in SwiftUI",
+  "title": "Two-way bindings in SwiftUI | SwiftUI by Example",
   "desc": "Two-way bindings in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -236,7 +236,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Formatting interpolated strings in SwiftUI",
+  "title": "Formatting interpolated strings in SwiftUI | SwiftUI by Example",
   "desc": "Formatting interpolated strings in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/formatting-interpolated-strings-in-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -246,7 +246,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Presenting an alert",
+  "title": "Presenting an alert | SwiftUI by Example",
   "desc": "Presenting an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/presenting-an-alert.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -256,7 +256,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Adding swipe to delete and EditButton",
+  "title": "Adding swipe to delete and EditButton | SwiftUI by Example",
   "desc": "Adding swipe to delete and EditButton",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-swipe-to-delete-and-editbutton.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -266,7 +266,7 @@ Learn SwiftUI hands-on with a real app project
 
 ```component VPCard
 {
-  "title": "Article(s) > Wrap up: our SwiftUI project is complete",
+  "title": "Wrap up: our SwiftUI project is complete | SwiftUI by Example",
   "desc": "Wrap up: our SwiftUI project is complete",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/wrap-up-our-swiftui-project-is-complete.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -282,9 +282,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to create static labels with a Text view",
+  "title": "How to create static labels with a Text view | SwiftUI by Example",
   "desc": "How to create static labels with a Text view",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-create-static-labels-with-a-text-view.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-static-labels-with-a-text-view.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -292,9 +292,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to style text views with fonts, colors, line spacing, and more",
+  "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -302,9 +302,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to add advanced text styling using AttributedString",
+  "title": "How to add advanced text styling using AttributedString | SwiftUI by Example",
   "desc": "How to add advanced text styling using AttributedString",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-add-advanced-text-styling-using-attributedstring.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-advanced-text-styling-using-attributedstring.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -312,9 +312,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to adjust text alignment using multilineTextAlignment()",
+  "title": "How to adjust text alignment using multilineTextAlignment() | SwiftUI by Example",
   "desc": "How to adjust text alignment using multilineTextAlignment()",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-adjust-text-alignment-using-multilinetextalignment.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-text-alignment-using-multilinetextalignment.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -322,9 +322,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to format text inside text views",
+  "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-format-text-inside-text-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -332,9 +332,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to add spacing between letters in text",
+  "title": "How to add spacing between letters in text | SwiftUI by Example",
   "desc": "How to add spacing between letters in text",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-add-spacing-between-letters-in-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-spacing-between-letters-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -342,9 +342,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to format dates inside text views",
+  "title": "How to format dates inside text views | SwiftUI by Example",
   "desc": "How to format dates inside text views",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-format-dates-inside-text-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-dates-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -352,9 +352,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to make TextField uppercase or lowercase using textCase()",
+  "title": "How to make TextField uppercase or lowercase using textCase() | SwiftUI by Example",
   "desc": "How to make TextField uppercase or lowercase using textCase()",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-make-textfield-uppercase-or-lowercase-using-textcase.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-textfield-uppercase-or-lowercase-using-textcase.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -362,9 +362,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to show text and an icon side by side using Label",
+  "title": "How to show text and an icon side by side using Label | SwiftUI by Example",
   "desc": "How to show text and an icon side by side using Label",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-show-text-and-an-icon-side-by-side-using-label.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-text-and-an-icon-side-by-side-using-label.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -372,9 +372,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to mark content as a placeholder using redacted()",
+  "title": "How to mark content as a placeholder using redacted() | SwiftUI by Example",
   "desc": "How to mark content as a placeholder using redacted()",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-mark-content-as-a-placeholder-using-redacted.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-a-placeholder-using-redacted.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -382,9 +382,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to mark content as private using privacySensitive()",
+  "title": "How to mark content as private using privacySensitive() | SwiftUI by Example",
   "desc": "How to mark content as private using privacySensitive()",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-mark-content-as-private-using-privacysensitive.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-private-using-privacysensitive.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -392,9 +392,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to render Markdown content in text",
+  "title": "How to render Markdown content in text | SwiftUI by Example",
   "desc": "How to render Markdown content in text",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-render-markdown-content-in-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -402,9 +402,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to customize the way links are opened",
+  "title": "How to customize the way links are opened | SwiftUI by Example",
   "desc": "How to customize the way links are opened",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-customize-the-way-links-are-opened.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-way-links-are-opened.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -412,9 +412,9 @@ Laying out text neatly
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to let users select text",
+  "title": "How to let users select text | SwiftUI by Example",
   "desc": "How to let users select text",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-let-users-select-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -428,9 +428,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to draw images using Image views",
+  "title": "How to draw images using Image views | SwiftUI by Example",
   "desc": "How to draw images using Image views",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-draw-images-using-image-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-images-using-image-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -438,9 +438,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to adjust the way an image is fitted to its space",
+  "title": "How to adjust the way an image is fitted to its space | SwiftUI by Example",
   "desc": "How to adjust the way an image is fitted to its space",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -448,9 +448,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to tile an image",
+  "title": "How to tile an image | SwiftUI by Example",
   "desc": "How to tile an image",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-tile-an-image.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-tile-an-image.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -458,9 +458,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to render images using SF Symbols",
+  "title": "How to render images using SF Symbols | SwiftUI by Example",
   "desc": "How to render images using SF Symbols",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-render-images-using-sf-symbols.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -468,9 +468,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to render a gradient",
+  "title": "How to render a gradient | SwiftUI by Example",
   "desc": "How to render a gradient",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-render-a-gradient.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-gradient.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -478,9 +478,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to use images and other views as a backgrounds",
+  "title": "How to use images and other views as a backgrounds | SwiftUI by Example",
   "desc": "How to use images and other views as a backgrounds",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-use-images-and-other-views-as-a-backgrounds.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-images-and-other-views-as-a-backgrounds.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -488,9 +488,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to display solid shapes",
+  "title": "How to display solid shapes | SwiftUI by Example",
   "desc": "How to display solid shapes",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-display-solid-shapes.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -498,9 +498,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to fill and stroke shapes at the same time",
+  "title": "How to fill and stroke shapes at the same time | SwiftUI by Example",
   "desc": "How to fill and stroke shapes at the same time",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-fill-and-stroke-shapes-at-the-same-time.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fill-and-stroke-shapes-at-the-same-time.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -508,9 +508,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to draw part of a solid shape using trim()",
+  "title": "How to draw part of a solid shape using trim() | SwiftUI by Example",
   "desc": "How to draw part of a solid shape using trim()",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-draw-part-of-a-solid-shape-using-trim.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-part-of-a-solid-shape-using-trim.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -518,9 +518,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > When should you use ContainerRelativeShape?",
+  "title": "When should you use ContainerRelativeShape? | SwiftUI by Example",
   "desc": "When should you use ContainerRelativeShape?",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/when-should-you-use-containerrelativeshape.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/when-should-you-use-containerrelativeshape.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -528,9 +528,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to play movies with VideoPlayer",
+  "title": "How to play movies with VideoPlayer | SwiftUI by Example",
   "desc": "How to play movies with VideoPlayer",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-play-movies-with-videoplayer.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-play-movies-with-videoplayer.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -538,9 +538,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to integrate SpriteKit using SpriteView",
+  "title": "How to integrate SpriteKit using SpriteView | SwiftUI by Example",
   "desc": "How to integrate SpriteKit using SpriteView",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-integrate-spritekit-using-spriteview.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-integrate-spritekit-using-spriteview.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -548,9 +548,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to load a remote image from a URL",
+  "title": "How to load a remote image from a URL | SwiftUI by Example",
   "desc": "How to load a remote image from a URL",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-load-a-remote-image-from-a-url.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-a-remote-image-from-a-url.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -558,9 +558,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to get custom colors and transparency with SF Symbols",
+  "title": "How to get custom colors and transparency with SF Symbols | SwiftUI by Example",
   "desc": "How to get custom colors and transparency with SF Symbols",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -568,9 +568,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to dynamically adjust the color of an SF Symbol",
+  "title": "How to dynamically adjust the color of an SF Symbol | SwiftUI by Example",
   "desc": "How to dynamically adjust the color of an SF Symbol",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-dynamically-adjust-the-color-of-an-sf-symbol.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dynamically-adjust-the-color-of-an-sf-symbol.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -578,9 +578,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to let users select pictures using PhotosPicker",
+  "title": "How to let users select pictures using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users select pictures using PhotosPicker",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-let-users-select-pictures-using-photospicker.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-pictures-using-photospicker.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -588,9 +588,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to let users import videos using PhotosPicker",
+  "title": "How to let users import videos using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users import videos using PhotosPicker",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-let-users-import-videos-using-photospicker.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -598,9 +598,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to animate SF Symbols",
+  "title": "How to animate SF Symbols | SwiftUI by Example",
   "desc": "How to animate SF Symbols",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-animate-sf-symbols.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -608,9 +608,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to read the red, green, and blue values from a Color",
+  "title": "How to read the red, green, and blue values from a Color | SwiftUI by Example",
   "desc": "How to read the red, green, and blue values from a Color",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-read-the-red-green-and-blue-values-from-a-color.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-read-the-red-green-and-blue-values-from-a-color.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -618,9 +618,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to combine shapes to create new shapes",
+  "title": "How to combine shapes to create new shapes | SwiftUI by Example",
   "desc": "How to combine shapes to create new shapes",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-combine-shapes-to-create-new-shapes.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-shapes-to-create-new-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -628,9 +628,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to load custom colors from an asset catalog",
+  "title": "How to load custom colors from an asset catalog | SwiftUI by Example",
   "desc": "How to load custom colors from an asset catalog",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-load-custom-colors-from-an-asset-catalog.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

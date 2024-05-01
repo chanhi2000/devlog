@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "RiceKenKennedyInstitute",
+    "name": "Rice Ken Kennedy Institute",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mgBM8el-5MSSEDzMkqz7ybxOiRiuBFgXWrE0m9a0yO7Bw=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FqP0i51aqw8YpD5Gdq0_uoTT9uBgpq1rM67FWv1v7Kw4drEt3fSRRoHYcARklmY3MrnAd3BUJQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iCxEMV2Q_MQ", "title": "Technical Talk: Evaluating Memory Bandwidth and Price Performance of CPUs Using SeisWave RTM: A Comp" },
+    { "id": "RMwN-_Xs1-Q", "title": "Technical Talk: High Throughput Pseudo-Acoustic TTI Wave Equations on the GPU" },
+    { "id": "u26wt_Adl9M", "title": "Technical Talk: Unlocking Supercomputing Power with GKE" },
+    { "id": "IgMCmxpc3yc", "title": "Technical Talk: Software Development Case Study: The Acceleration of a Computational Stratigraphy Ap" },
+    { "id": "1Cyley61_JU", "title": "Technical Talk: National Renewable Energy Laboratory: Campaign Storage Utilized to Advance Renewable" },
+    { "id": "223WnkgPa7c", "title": "Technical Talk: OpenCHAMI: Bridging Traditional HPC and Cloud Ecosystems Through Open Source Collab" },
+    { "id": "WB85EBOlL2Q", "title": "Technical Talk: Developing Seismic Imaging Software to Stand the Test of Time" },
+    { "id": "mwH2hdZyQmY", "title": "Technical Talk: GPUs Architectural Benchmarking for ML-based Algae Segmentation and Classification" },
+    { "id": "RMy3bDB07BQ", "title": "Technical Talk: HPC/ML Weather Models Coupled to Wind Farm Simulations for Energy Production Forec" },
+    { "id": "mOOpYcs_qU0", "title": "Technical Talk: Developing a Python Interface for Fortran RTM and FWI framework" },
+    { "id": "2n51h5B6fa8", "title": "Technical Talk: Half Precision Wave Simulation" },
+    { "id": "-EPj2XxsWmc", "title": "Technical Talk: A Novel Technique to Differentiate Bugs from Precision-Induced Round-Off Errors in" },
+    { "id": "s4FwzAYSvqM", "title": "Technical Talk: Automatic Workload Scheduling for Full Waveform Inversion in Shared-Memory Systems" },
+    { "id": "KSe2Z6k4Bv0", "title": "Technical Talk: Optimization Strategy for SRME on Highly Parallel Hardware" },
+    { "id": "pz7NQwe8PCE", "title": "Technical Talk: Evolution of Energy-Efficient Oil & Gas Simulations with Unified Memory in GPU-Acc" },
+    { "id": "OiWA6Q1Alxk", "title": "Keshav Pingali: Parallel Programming and the Legacy of Ken Kennedy" },
+    { "id": "tsGE6Q_GHZ8", "title": "Anastasios (Tasos) Kyrillidis: Algorithmic Efficiency in AI and Distributed Learning: Overview and" },
+    { "id": "8LZ2JrM44aw", "title": "Tao Sun: Closing the Gap in Subsurface Characterization and Modeling Through Computational Stratigra" },
+    { "id": "uFkDEXHcsqY", "title": "Mike Heroux: Better Together: Working Toward an Open Software Ecosystem for HPC and AI" },
+    { "id": "OGLAFc_nSHk", "title": "Kirk Bresniker: Megatrends and Micro-Architectures: HPC, AI and the Future of Everything" },
+    { "id": "AxZO034irIs", "title": "Dan Stanzione: The New Systems at TACC, and the Future(?) of High End Computing" },
+    { "id": "w3Khg0_yXt0", "title": "AI in Energy Workshop - Generative AI for Enhanced Creativity" },
+    { "id": "iuFQx6Gu3A4", "title": "AI in Energy Workshop - Seismic Data to Subsurface Models with OpenFWI" },
+    { "id": "sgEyIPI46ns", "title": "AI in Energy Workshop - AI for Energy Use Cases with Google Cloud" },
+    { "id": "NrlFPvkjkwg", "title": "AI in Energy Workshop - Optimization in Energy" },
+    { "id": "L-WMZ_94X-c", "title": "Alex Lubotzky - New Directions in Error Correcting Codes" }
+  ],
+  "playlists": []
+}

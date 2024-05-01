@@ -81,6 +81,7 @@ tag:
 - [`@endmoseung` - 저는 개발자입니다.](https://velog.io/@endmoseung/%EC%A0%80%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4)
 - [`@dochis` - 아프리카TV API 프로젝트 개발 회고](https://velog.io/@dochis/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4TV-API-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0)
 - [`@haryan248` - 나의 두 번째 회사](https://velog.io/@haryan248/%EB%82%98%EC%9D%98-%EB%91%90-%EB%B2%88%EC%A7%B8-%ED%9A%8C%EC%82%AC)
+- [`@surim014` - [번역] 소프트웨어 개발의 미래에 대한 생각](https://velog.io/@surim014/thoughts-on-the-future-of-software-development)
 
 ---
 
@@ -359,6 +360,7 @@ tag:
 ## 오세용닷컴
 
 - [[유자랩스 창업기 #36] 판단하지 마세요. 제안하세요.](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-36-%ed%8c%90%eb%8b%a8%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-%ec%a0%9c%ec%95%88%ed%95%98%ec%84%b8%ec%9a%94)
+- [[유자랩스 창업기 #37] 창업 1주년 회고](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-37-%ec%b0%bd%ec%97%85-1%ec%a3%bc%eb%85%84-%ed%9a%8c%ea%b3%a0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%25a0%25ec%259e%2590%25eb%259e%25a9%25ec%258a%25a4-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b8%25b0-37-%25ec%25b0%25bd%25ec%2597%2585-1%25ec%25a3%25bc%25eb%2585%2584-%25ed%259a%258c%25ea%25b3%25a0)
 
 ---
 
@@ -582,5 +584,14 @@ tag:
 ## 김동호의 스타트업 이야기
 
 - [한국신용데이터 창립 8주년에 부쳐](https://kelvinkim.net/2024/04/27/kcd-8th-anniversary/)
+
+---
+
+## 두레박 캠퍼스
+
+- [[상담] 01.내가 하고싶은 걸 어떻게 찾을 수 있을까?](https://duriepark.tistory.com/entry/%EC%83%81%EB%8B%B4-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80-%EA%B1%B8-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
+- [[개인] 영어 회화 공부방법 찾는 분들에게 ](https://duriepark.tistory.com/entry/%EA%B0%9C%EC%9D%B8-%EC%98%81%EC%96%B4-%ED%9A%8C%ED%99%94-%EA%B3%B5%EB%B6%80%EB%B0%A9%EB%B2%95-%EC%B0%BE%EB%8A%94-%EB%B6%84%EB%93%A4%EC%97%90%EA%B2%8C)
+
+---
 
 <TagLinks />

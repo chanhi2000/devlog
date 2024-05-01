@@ -1359,5 +1359,15 @@
     "desc": "dev tools, env vars, task runner",
     "officialSite": "https://mise.jdx.dev",
     "topics": []
+  }, {
+    "repo": "obhq/jailbreak-11",
+    "desc": "Experimental PS4 jailbreak for 11.00 and lower",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "borgo-lang/borgo",
+    "desc": "Borgo is a statically typed language that compiles to Go.",
+    "officialSite": "https://borgo-lang.github.io",
+    "topics": ["compiler", "golang", "programming-language", "rust-lang"]
   }
 ]

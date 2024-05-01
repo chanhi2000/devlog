@@ -69,35 +69,43 @@ head:
 
 ## Enthusiastically, Steady, Slowly
 
-<SiteInfo
-  name="모든 자바 개발자가 알아야 할 다섯 가지 API 성능 최적화 팁 — Enthusiastically, Steady, Slowly"
-  desc="💡 원본글 Five API Performance Optimization Tricks that Every Java Developer Must Know Five API Performance Optimization Tricks that Every Java Developer Must Know Why is your API response so slow? Maybe you need to solve these problems. medium.com"
-  url="/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md"
-  logo="https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg"
-  preview="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcJ7gPt%2FbtsGMRuOgYi%2FzvGyUbXhLETiNxKcSYR7mK%2Fimg.jpg"/>
-
+```component VPCard
+{
+  "title": "모든 자바 개발자가 알아야 할 다섯 가지 API 성능 최적화 팁 — Enthusiastically, Steady, Slowly",
+  "desc": "💡 원본글 Five API Performance Optimization Tricks that Every Java Developer Must Know Five API Performance Optimization Tricks that Every Java Developer Must Know Why is your API response so slow? Maybe you need to solve these problems. medium.com",
+  "link": "/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md",
+  "logo": "https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg",
+  "background": "rgba(254,89,73,0.2)"
+}
+```
 
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-<SiteInfo
-  name="Java Reactor onErrorContinue 이모저모 | NHN Cloud Meetup"
-  desc="Java Reactor onErrorContinue 이모저모"
-  url="/explore/articles/meetup.nhncloud.com/374.md"
-  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
-  preview="https://image.toast.com/aaaadh/real/2023/techblog/javareactormain.png"/>
+```component VPCard
+{
+  "title": "Java Reactor onErrorContinue 이모저모 | NHN Cloud Meetup",
+  "desc": "Java Reactor onErrorContinue 이모저모",
+  "link": "/explore/articles/meetup.nhncloud.com/374.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
 ---
 
 ## NAVER D2
 
-<SiteInfo
-  name="Virtual Thread의 기본 개념 이해하기 | NAVER D2"
-  desc="Virtual Thread의 기본 개념 이해하기"
-  url="/explore/articles/d2.naver.com/1203723.md"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/1203723/banner.png"/>
+```component VPCard
+{
+  "title": "Virtual Thread의 기본 개념 이해하기 | NAVER D2",
+  "desc": "Virtual Thread의 기본 개념 이해하기",
+  "link": "/explore/articles/d2.naver.com/1203723.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(17,168,89,0.2)"
+}
+```
 
 ---
 

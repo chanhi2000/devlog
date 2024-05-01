@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🎡Microsoft SQL Server > Youtube
+description: Microsoft SQL Server > Youtube
 icon: fa-brands fa-youtube
 category: 
-  - 🎡Microsoft SQL Server
+  - Microsoft SQL Server
   - Youtube
 tag:
   - youtube
@@ -15,7 +15,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

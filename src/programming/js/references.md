@@ -65,6 +65,7 @@ tag:
 ## Medium
 
 - [`nmc-techblog` - Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
+- [`bitsrc` - Frontend Application Security: Tips and Tricks](https://blog.bitsrc.io/frontend-application-security-tips-practices-f9be12169e66)
 
 ---
 
@@ -90,6 +91,18 @@ tag:
 ## Prosopo
 
 - [TypeScript: Branded Types 🔧](https://prosopo.io/articles/typescript-branding/) <!-- TODO: /programming/ts -->
+
+---
+
+## Ahmad Shadeed
+
+- [Designing better target sizes](https://ishadeed.com/article/target-size/)
+
+---
+
+## Bram.us
+
+- [Syntax Highlighting code snippets with Prism and the Custom Highlight API](https://www.bram.us/2024/02/18/custom-highlight-api-for-syntax-highlighting/)
 
 ---
 
