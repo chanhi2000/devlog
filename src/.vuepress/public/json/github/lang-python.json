@@ -5044,5 +5044,15 @@
     "desc": "pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.",
     "officialSite": "https://pyinfra.com",
     "topics": ["cloud-management", "configuration-management", "high-performance", "infrastructure", "pyinfra", "python", "remote-execution"]
+  }, {
+    "repo": "dnhkng/GlaDOS",
+    "desc": "Personality Core",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "TheOfficialFloW/PPPwn",
+    "desc": "PPPwn - PlayStation 4 PPPoE RCE",
+    "officialSite": "",
+    "topics": []
   }
 ]

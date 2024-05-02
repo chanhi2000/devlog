@@ -42,13 +42,13 @@ head:
 
 ---
 
-In this article I’m going to introduce you to the fundamentals of the Swift programming language in about one hour.
+In this article I'm going to introduce you to the fundamentals of the Swift programming language in about one hour.
 
 This article is aimed at two kinds of people: folks who have completed the introduction to my 100 Days of SwiftUI course and are looking for a quick review, and folks who are experienced with other languages and want to transfer their skills over to Swift.
 
-We’re going to move fast because this is designed to be a primer – if you find yourself struggling to understand something, visit the [100 Days of SwiftUI](https://chanhi2000.github.io/crashcourse/swift/100-days-of-swiftui) to complete the longer, more detailed introduction there.
+We're going to move fast because this is designed to be a primer – if you find yourself struggling to understand something, visit the [100 Days of SwiftUI](https://chanhi2000.github.io/crashcourse/swift/100-days-of-swiftui) to complete the longer, more detailed introduction there.
 
-Let’s get to it!
+Let's get to it!
 
 <VidStack src="youtube/n5X_V81OYnQ"/>
 
@@ -67,7 +67,7 @@ var name = "Ted"
 name = "Rebecca"
 ```
 
-If you don’t want to change a value, use a _constant_ instead:
+If you don't want to change a value, use a _constant_ instead:
 
 ```swift
 let user = "Daphne"
@@ -87,7 +87,7 @@ print(user)
 
 ::: details Strings
 
-Swift’s strings start and end with double quotes:
+Swift's strings start and end with double quotes:
 
 ```swift
 let actor = "Tom Cruise"
@@ -180,7 +180,7 @@ If you create a number with a decimal point, Swift will consider it a `Double`:
 let score = 3.0
 ```
 
-Swift considers `Double` to be a wholly different type of data to `Int`, and won’t let you mix them together.
+Swift considers `Double` to be a wholly different type of data to `Int`, and won't let you mix them together.
 
 :::
 
@@ -221,7 +221,7 @@ let message = "I'm \(name) and I'm \(age) years old."
 print(message)
 ```
 
-When that code runs, it will print “I’m Taylor and I’m 26 years old.”
+When that code runs, it will print “I'm Taylor and I'm 26 years old.”
 
 :::
 
@@ -246,7 +246,7 @@ print(colors[0])
 print(readings[2])
 ```
 
-Tip: Make sure an item exists at the index you’re asking for, otherwise your code will crash – your app will just stop working.
+Tip: Make sure an item exists at the index you're asking for, otherwise your code will crash – your app will just stop working.
 
 If your array is variable, you can use `append()` to add new items:
 
@@ -293,7 +293,7 @@ print(employee["name", default: "Unknown"])
 print(employee["job", default: "Unknown"])
 ```
 
-The `default` value will be used if the key we’ve asked for doesn’t exist.
+The `default` value will be used if the key we've asked for doesn't exist.
 
 :::
 
@@ -303,7 +303,7 @@ The `default` value will be used if the key we’ve asked for doesn’t exist.
 
 ::: details Sets
 
-Sets are similar to arrays, except you can’t add duplicate items, and they don’t store items in a particular order.
+Sets are similar to arrays, except you can't add duplicate items, and they don't store items in a particular order.
 
 This makes a set of numbers:
 
@@ -312,7 +312,7 @@ var numbers = Set([1, 1, 3, 5, 7])
 print(numbers)
 ```
 
-Remember, the set will ignore duplicate values, and it won’t remember the order used in the array.
+Remember, the set will ignore duplicate values, and it won't remember the order used in the array.
 
 Adding items to a set is done by calling its `insert()` method, like this:
 
@@ -362,7 +362,7 @@ You can try to force a specific type for a new variable or constant by using _ty
 var score: Double = 0
 ```
 
-Without the `: Double` part Swift would infer that to be an `Int`, but we’re overriding that and saying it’s a `Double`.
+Without the `: Double` part Swift would infer that to be an `Int`, but we're overriding that and saying it's a `Double`.
 
 Here are some type annotations based on the types covered so far:
 
@@ -461,7 +461,7 @@ default:
 }
 ```
 
-`switch` statements _must_ be exhaustive: all possible values must be handled so you can’t miss one by accident.
+`switch` statements _must_ be exhaustive: all possible values must be handled so you can't miss one by accident.
 
 :::
 
@@ -471,7 +471,7 @@ default:
 
 ::: details The ternary conditional operator
 
-The ternary operator lets us check a condition and return one of two values: something if the condition is true, and something if it’s false:
+The ternary operator lets us check a condition and return one of two values: something if the condition is true, and something if it's false:
 
 ```swift
 let age = 18
@@ -488,7 +488,7 @@ When that code runs, canVote will be set to “Yes” because age is set to 18.
 
 ::: details Loops
 
-Swift’s `for` loops run some code for every item in a collection, or in a custom range. For example:
+Swift's `for` loops run some code for every item in a collection, or in a custom range. For example:
 
 ```swift
 let platforms = ["iOS", "macOS", "tvOS", "watchOS"]
@@ -514,7 +514,7 @@ for i in 1..<13 {
 }
 ```
 
-__Tip__: If you don’t need the loop variable, use `_`:
+__Tip__: If you don't need the loop variable, use `_`:
 
 ```swift
 var lyric = "Haters gonna"
@@ -563,7 +563,7 @@ Alternatively, use `break` to exit a loop and skip all remaining iterations.
 
 ::: details Functions
 
-To create a new function, write `func` followed by your function’s name, then add parameters inside parentheses:
+To create a new function, write `func` followed by your function's name, then add parameters inside parentheses:
 
 ```swift
 func printTimesTables(number: Int) {
@@ -614,7 +614,7 @@ let user = getUser()
 print("Name: \(user.firstName) \(user.lastName)")
 ```
 
-If you don’t need all the values from the tuple you can destructure the tuple to pull it apart into individual values, then `_` to tell Swift to ignore some:
+If you don't need all the values from the tuple you can destructure the tuple to pull it apart into individual values, then `_` to tell Swift to ignore some:
 
 ```swift
 let (firstName, _) = getUser()
@@ -630,7 +630,7 @@ print("Name: \(firstName)")
 
 ::: details Customizing parameter labels
 
-If you don’t want to pass a parameter’s name when calling a function, place an underscore before it:
+If you don't want to pass a parameter's name when calling a function, place an underscore before it:
 
 ```swift
 func isUppercase(_ string: String) -> Bool {
@@ -701,7 +701,7 @@ enum PasswordError: Error {
 }
 ```
 
-Next, write a function that can throw errors. This is done by placing `throws` into the function’s type, then by using `throw` to trigger specific errors:
+Next, write a function that can throw errors. This is done by placing `throws` into the function's type, then by using `throw` to trigger specific errors:
 
 ```swift
 func checkPassword(_ password: String) throws -> String {
@@ -766,7 +766,7 @@ let sayHello = { (name: String) -> String in
 
 The `in` is used to mark the end of the parameters and return type – everything after that is the body of the closure itself.
 
-Closures are used extensively in Swift. For example, there’s an array method called `filter()` that runs all elements of the array through a test, and any that return true for the test get returned in a new array.
+Closures are used extensively in Swift. For example, there's an array method called `filter()` that runs all elements of the array through a test, and any that return true for the test get returned in a new array.
 
 We can provide that test using a closure, so we could filter an array to include only names that begin with T:
 
@@ -778,7 +778,7 @@ let onlyT = team.filter({ (name: String) -> Bool in
 })
 ```
 
-Inside the closure we list the parameter `filter()` passes us, which is a string from the array. We also say that our closure returns a Boolean, then mark the start of the closure’s code by using `in` – after that, everything else is normal function code.
+Inside the closure we list the parameter `filter()` passes us, which is a string from the array. We also say that our closure returns a Boolean, then mark the start of the closure's code by using `in` – after that, everything else is normal function code.
 
 :::
 
@@ -788,7 +788,7 @@ Inside the closure we list the parameter `filter()` passes us, which is a string
 
 ::: details Trailing closures and shorthand syntax
 
-Swift has a few tricks up its sleeve to make closures easier to read. Here’s some code that filters an array to include only names beginning with “T”:
+Swift has a few tricks up its sleeve to make closures easier to read. Here's some code that filters an array to include only names beginning with “T”:
 
 ```swift
 let team = ["Gloria", "Suzanne", "Tiffany", "Tasha"]
@@ -810,7 +810,7 @@ let onlyT = team.filter({ (name: String) -> Bool in
 
 `filter()` must be given a function that accepts one item from its array, and returns true if it should be in the returned array.
 
-Because the function we pass in _must_ behave like that, we don’t need to specify the types in our closure. So, we can rewrite the code to this:
+Because the function we pass in _must_ behave like that, we don't need to specify the types in our closure. So, we can rewrite the code to this:
 
 ```swift
 let onlyT = team.filter({ name in
@@ -826,7 +826,7 @@ let onlyT = team.filter { name in
 }
 ```
 
-Finally, Swift can provide short parameter names for us so we don’t even write `name in` any more, and instead rely on a specially named value provided for us: `$0`:
+Finally, Swift can provide short parameter names for us so we don't even write `name in` any more, and instead rely on a specially named value provided for us: `$0`:
 
 ```swift
 let onlyT = team.filter {
@@ -861,9 +861,9 @@ print(red.title)
 red.printSummary()
 ```
 
-When we create instances of structs we do so using an _initializer_ – Swift lets us treat our struct like a function, passing in parameters for each of its properties. It silently generates this _memberwise initializer_ based on the struct’s properties.
+When we create instances of structs we do so using an _initializer_ – Swift lets us treat our struct like a function, passing in parameters for each of its properties. It silently generates this _memberwise initializer_ based on the struct's properties.
 
-If you want to have a struct’s method change one of its properties, mark it as _mutating_:
+If you want to have a struct's method change one of its properties, mark it as _mutating_:
 
 ```swift
 mutating func removeFromSale() {
@@ -877,7 +877,7 @@ mutating func removeFromSale() {
 
 ::: details Computed properties
 
-A computed property calculates its value every time it’s accessed. For example, we could write an `Employee` struct that tracks how many days of vacation remained for that employee:
+A computed property calculates its value every time it's accessed. For example, we could write an `Employee` struct that tracks how many days of vacation remained for that employee:
 
 ```swift
 struct Employee {
@@ -943,7 +943,7 @@ game.score -= 3
 
 Initializers are special functions that prepare a new struct instance to be used, ensuring all properties have an initial value.
 
-Swift generates one based on the struct’s properties, but you can create your own:
+Swift generates one based on the struct's properties, but you can create your own:
 
 ```swift
 struct Player {
@@ -957,7 +957,7 @@ struct Player {
 }
 ```
 
-__Important__: Initializers don’t have `func` before them, and don’t explicitly return a value.
+__Important__: Initializers don't have `func` before them, and don't explicitly return a value.
 
 :::
 
@@ -969,9 +969,9 @@ __Important__: Initializers don’t have `func` before them, and don’t explici
 
 Swift has several options for access control inside structs, but four are the most common:
 
-- Use `private` for “don’t let anything outside the struct use this.”
-- Use `private(set)` for “anything outside the struct can read this, but don’t let them change it.”
-- Use `fileprivate` for “don’t let anything outside the current file use this.”
+- Use `private` for “don't let anything outside the struct use this.”
+- Use `private(set)` for “anything outside the struct can read this, but don't let them change it.”
+- Use `fileprivate` for “don't let anything outside the current file use this.”
 - Use `public` for “let anyone, anywhere use this.”
 
 For example:
@@ -995,7 +995,7 @@ struct BankAccount {
 }
 ```
 
-Because we used `private(set)`, reading `funds` from outside the struct is fine but writing isn’t possible.
+Because we used `private(set)`, reading `funds` from outside the struct is fine but writing isn't possible.
 
 :::
 
@@ -1014,7 +1014,7 @@ struct AppData {
 }
 ```
 
-Using this approach, everywhere we need to check or display something like the app’s version number we can read `AppData.version`.
+Using this approach, everywhere we need to check or display something like the app's version number we can read `AppData.version`.
 
 :::
 
@@ -1060,11 +1060,11 @@ override func printSummary() {
 }
 ```
 
-The second difference is that initializers are more tricky with classes. There’s a lot of complexity here, but there are three key points:
+The second difference is that initializers are more tricky with classes. There's a lot of complexity here, but there are three key points:
 
-1. ==Swift won’t generate a memberwise initializer for classes.==
-2. If a child class has custom initializers, it must always call the _parent’s_ initializer after it has finished setting up its own properties.
-3. If a subclass _doesn’t_ have any initializers, it automatically inherits the initializers of its parent class.
+1. ==Swift won't generate a memberwise initializer for classes.==
+2. If a child class has custom initializers, it must always call the _parent's_ initializer after it has finished setting up its own properties.
+3. If a subclass _doesn't_ have any initializers, it automatically inherits the initializers of its parent class.
 
 For example:
 
@@ -1105,11 +1105,11 @@ print(singer1.name)
 print(singer2.name)
 ```
 
-That will print “Justin” for both – even though we only changed one of them, the other also changed. In comparison, struct copies _don’t_ share their data.
+That will print “Justin” for both – even though we only changed one of them, the other also changed. In comparison, struct copies _don't_ share their data.
 
 The fourth difference is that classes can have a _deinitializer_ that gets called when the last reference to an object is destroyed.
 
-So, we could create a class that prints a message when it’s created and destroyed:
+So, we could create a class that prints a message when it's created and destroyed:
 
 ```swift
 class User {
@@ -1143,7 +1143,7 @@ user.name = "Taylor"
 print(user.name)
 ```
 
-As a result of this, classes don’t need the `mutating` keyword with methods that change their data.
+As a result of this, classes don't need the `mutating` keyword with methods that change their data.
 
 :::
 
@@ -1164,7 +1164,7 @@ protocol Vehicle {
 }
 ```
 
-That lists the required methods for this protocol to work, but doesn’t contain any code – we’re specifying only method names, parameters, and return types.
+That lists the required methods for this protocol to work, but doesn't contain any code – we're specifying only method names, parameters, and return types.
 
 Once you have a protocol you can make data types conform to it by implementing the required functionality. For example, we could make a `Car` struct that conforms to `Vehicle`:
 
@@ -1227,7 +1227,7 @@ __Tip__: You can conform to as many protocols as you need, just by listing them 
 
 ::: details Extensions
 
-Extensions let us add functionality to any type. For example, Swift’s strings have a method for trimming whitespace and new lines, but it’s quite long so we could turn it into an extension:
+Extensions let us add functionality to any type. For example, Swift's strings have a method for trimming whitespace and new lines, but it's quite long so we could turn it into an extension:
 
 ```swift
 extension String {
@@ -1328,13 +1328,13 @@ let opposites = [
 let peachOpposite = opposites["Peach"]
 ```
 
-That attempts to read the value attached to the key “Peach”, which doesn’t exist, so this can’t be a regular string. Swift’s solution is called _optionals_, which means data that might be present or might not.
+That attempts to read the value attached to the key “Peach”, which doesn't exist, so this can't be a regular string. Swift's solution is called _optionals_, which means data that might be present or might not.
 
 An optional string might have a string waiting inside for us, or there might be nothing at all – a special value called `nil`, that means “no value”. Any kind of data can be optional, including `Int`, `Double`, and `Bool`, as well as instances of enums, structs, and classes.
 
-Swift won’t let us use optional data directly, because it might be empty. That means we need to _unwrap_ the optional to use it – we need to look inside to see if there’s a value, and, if there is, take it out and use it.
+Swift won't let us use optional data directly, because it might be empty. That means we need to _unwrap_ the optional to use it – we need to look inside to see if there's a value, and, if there is, take it out and use it.
 
-Swift gives us several ways of unwrapping optionals, but the one you’ll see most looks like this:
+Swift gives us several ways of unwrapping optionals, but the one you'll see most looks like this:
 
 ```swift
 if let marioOpposite = opposites["Mario"] {
@@ -1342,7 +1342,7 @@ if let marioOpposite = opposites["Mario"] {
 }
 ```
 
-That reads the optional value from the dictionary, and if it has a string inside it gets _unwrapped_ – the string inside gets placed into the `marioOpposite` constant, and isn’t optional any more. Because we were able to unwrap the optional, the condition is a success so the `print()` code is run.
+That reads the optional value from the dictionary, and if it has a string inside it gets _unwrapped_ – the string inside gets placed into the `marioOpposite` constant, and isn't optional any more. Because we were able to unwrap the optional, the condition is a success so the `print()` code is run.
 
 :::
 
@@ -1352,7 +1352,7 @@ That reads the optional value from the dictionary, and if it has a string inside
 
 ::: details Unwrapping optionals with guard
 
-Swift has a second way of unwrapping optionals, called `guard let`, which is very similar to `if let` except it flips things around: `if let` runs the code inside its braces if the optional had a value, and `guard let` runs the code if the optional _didn’t_ have a value.
+Swift has a second way of unwrapping optionals, called `guard let`, which is very similar to `if let` except it flips things around: `if let` runs the code inside its braces if the optional had a value, and `guard let` runs the code if the optional _didn't_ have a value.
 
 It looks like this:
 
@@ -1367,9 +1367,9 @@ func printSquare(of number: Int?) {
 }
 ```
 
-If you use `guard` to check a function’s inputs are valid, Swift requires you to use `return` if the check fails. However, if the optional you’re unwrapping has a value inside, you can use it _after_ the `guard` code finishes.
+If you use `guard` to check a function's inputs are valid, Swift requires you to use `return` if the check fails. However, if the optional you're unwrapping has a value inside, you can use it _after_ the `guard` code finishes.
 
-__Tip__: You can use guard with any condition, including ones that don’t unwrap optionals.
+__Tip__: You can use guard with any condition, including ones that don't unwrap optionals.
 
 ::
 
@@ -1410,7 +1410,7 @@ let chosen = names.randomElement()?.uppercased()
 print("Next in line: \(chosen ?? "No one")")
 ```
 
-Optional chaining is there on line 2: a question mark followed by more code. It allows us to say “if the optional has a value inside, unwrap it then…” and add more code. In our case we’re saying “if we got a random element from the array, uppercase it.”
+Optional chaining is there on line 2: a question mark followed by more code. It allows us to say “if the optional has a value inside, unwrap it then…” and add more code. In our case we're saying “if we got a random element from the array, uppercase it.”
 
 :::
 
@@ -1422,7 +1422,7 @@ Optional chaining is there on line 2: a question mark followed by more code. It 
 
 When calling a function that might throw errors, we can use `try?` to convert its result into an optional containing a value on success, or `nil` otherwise.
 
-Here’s how it looks:
+Here's how it looks:
 
 ```swift
 enum UserError: Error {
@@ -1438,7 +1438,7 @@ if let user = try? getUser(id: 23) {
 }
 ```
 
-The `getUser()` function will always throw `networkFailed`, but we don’t care _what_ was thrown – all we care about is whether the call sent back a user or not.
+The `getUser()` function will always throw `networkFailed`, but we don't care _what_ was thrown – all we care about is whether the call sent back a user or not.
 
 :::
 
@@ -1446,8 +1446,8 @@ The `getUser()` function will always throw `networkFailed`, but we don’t care 
 
 ## Wrap up
 
-We’ve covered the majority of Swift language fundamentals here, but really we’ve only scratched the surface of what the language does. Fortunately, with what you’ve learned you already know enough to build some fantastic software with Swift and SwiftUI.
+We've covered the majority of Swift language fundamentals here, but really we've only scratched the surface of what the language does. Fortunately, with what you've learned you already know enough to build some fantastic software with Swift and SwiftUI.
 
-If you’re keen to continue your learning, I suggest you visit my [100 Days of SwiftUI][100] course, which teaches you how to build fantastic apps for iOS using Swift – it’s all free, and has hundreds of videos too.
+If you're keen to continue your learning, I suggest you visit my [100 Days of SwiftUI][100] course, which teaches you how to build fantastic apps for iOS using Swift – it's all free, and has hundreds of videos too.
 
 [100]: https://chanhi2000.github.io/crashcourse/swift/100-days-of-swiftui/README.md

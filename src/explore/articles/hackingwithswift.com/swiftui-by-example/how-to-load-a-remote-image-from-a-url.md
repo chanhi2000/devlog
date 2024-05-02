@@ -65,15 +65,15 @@ AsyncImage(url: URL(string: "https://hws.dev/paul.jpg"))
 
 ![A phone showing an image of Paul Hudson.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-1~dark.png)
 
-Note how the URL is optional – the `AsyncImage` will simply show a default gray placeholder if the URL string is invalid. And if the image can’t be loaded for some reason – if the user is offline, or if the image doesn’t exist – then the system will continue showing the same placeholder image.
+Note how the URL is optional – the `AsyncImage` will simply show a default gray placeholder if the URL string is invalid. And if the image can't be loaded for some reason – if the user is offline, or if the image doesn't exist – then the system will continue showing the same placeholder image.
 
 ![A phone showing a large gray placeholder rectangle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-2~dark.png)
 
-Because SwiftUI has no idea how big the downloaded image is going to be, by default `AsyncImage` has a flexible width and height while it’s loading. As a result, unless you specify otherwise it will take up a lot of space in your UI while the image loads, then jump to the correct size as soon as the image is loaded.
+Because SwiftUI has no idea how big the downloaded image is going to be, by default `AsyncImage` has a flexible width and height while it's loading. As a result, unless you specify otherwise it will take up a lot of space in your UI while the image loads, then jump to the correct size as soon as the image is loaded.
 
 Although you _can_ attach a frame to your image, it will only affect the placeholder by default – if your finished image arrives at a different size, your UI will have to adapt to fit it.
 
-A better solution is to add functions to control how the resulting image is shown and what kind of placeholder you want. For example, this fetches our image and makes it resizable, but while it’s loading uses a red placeholder color:
+A better solution is to add functions to control how the resulting image is shown and what kind of placeholder you want. For example, this fetches our image and makes it resizable, but while it's loading uses a red placeholder color:
 
 ```swift
 AsyncImage(url: URL(string: "https://hws.dev/paul.jpg")) { image in 
@@ -108,7 +108,7 @@ AsyncImage(url: URL(string: "https://hws.dev/paul.jpg"), scale: 2)
 
 For full control over your `AsyncImage`, you should use a single-closure variant of `AsyncImage` that handles the loading phase. This approach gives you complete control over the image loading process, allowing you to show one thing when the image is loaded, another thing if the load failed, and of course the image itself when it succeeded.
 
-This can be `.empty` because loading hasn’t completed yet, `.failure` if the image load failed, `success` with the image ready if it worked, and an unknown default case in case Apple add more options in the future.
+This can be `.empty` because loading hasn't completed yet, `.failure` if the image load failed, `success` with the image ready if it worked, and an unknown default case in case Apple add more options in the future.
 
 For example, this shows a spinner, a placeholder error picture, or the actually loaded picture depending on how things went:
 
@@ -139,7 +139,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to save and load NavigationStack paths using Codable",
   "desc": "How to save and load NavigationStack paths using Codable",
-  "link": "/swift/swiftui-by-example/13-navigation/how-to-save-and-load-navigationstack-paths-using-codable.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-save-and-load-navigationstack-paths-using-codable.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -149,7 +149,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to lazy load views using LazyVStack and LazyHStack",
   "desc": "How to lazy load views using LazyVStack and LazyHStack",
-  "link": "/swift/swiftui-by-example/05-stacks-grids-scrollviews/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -159,7 +159,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to load custom colors from an asset catalog",
   "desc": "How to load custom colors from an asset catalog",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-load-custom-colors-from-an-asset-catalog.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -169,7 +169,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to draw images using Image views",
   "desc": "How to draw images using Image views",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-draw-images-using-image-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-images-using-image-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -179,7 +179,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to convert a SwiftUI view to an image",
   "desc": "How to convert a SwiftUI view to an image",
-  "link": "/swift/swiftui-by-example/17-drawing/how-to-convert-a-swiftui-view-to-an-image.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-convert-a-swiftui-view-to-an-image.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

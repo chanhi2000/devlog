@@ -84,7 +84,7 @@ Circle()
 
 ![A circle with a rainbow of stroke colors.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time-4~dark.png)
 
-In iOS 16 and below, SwiftUI provides the `fill()`, `stroke()`, and `strokeBorder()` modifiers for adjusting the way we draw shapes, but it does not provide a built-in way to fill and stroke at the same time. However, we can get the same effect in two different ways, and I’m going to show you both here.
+In iOS 16 and below, SwiftUI provides the `fill()`, `stroke()`, and `strokeBorder()` modifiers for adjusting the way we draw shapes, but it does not provide a built-in way to fill and stroke at the same time. However, we can get the same effect in two different ways, and I'm going to show you both here.
 
 The first option is to use `strokeBorder()` to add a border around your shape, then place a filled shape in the background using `background()`. For example, this creates a circle with a black stroke and blue fill:
 
@@ -118,7 +118,7 @@ ZStack {
 
 If you want to fill and stroke lots of shapes, you should consider wrapping up this functionality in an extension. Only `InsettableShapes` get the `strokeBorder()` method, so you should probably write two extension methods – one to handle regular shapes using `stroke()`, and one to handle insettable shapes using `strokeBorder()`.
 
-Here’s how that looks in code:
+Here's how that looks in code:
 
 ```swift
 extension Shape {
@@ -144,7 +144,7 @@ extension InsettableShape {
 {
   "title": "Article(s) > How to make two gestures recognize at the same time using simultaneousGesture()",
   "desc": "How to make two gestures recognize at the same time using simultaneousGesture()",
-  "link": "/swift/swiftui-by-example/08-taps-and-gestures/how-to-make-two-gestures-recognize-at-the-same-time-using-simultaneousgesture.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-two-gestures-recognize-at-the-same-time-using-simultaneousgesture.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -156,7 +156,7 @@ How to combine shapes to create new shapes
 {
   "title": "Article(s) > How to make two views the same width or height",
   "desc": "How to make two views the same width or height",
-  "link": "/swift/swiftui-by-example/04-view-layout/how-to-make-two-views-the-same-width-or-height.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-two-views-the-same-width-or-height.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -164,9 +164,9 @@ How to combine shapes to create new shapes
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI’s built-in shapes",
-  "desc": "SwiftUI’s built-in shapes",
-  "link": "/swift/swiftui-by-example/17-drawing/swiftuis-built-in-shapes.md",
+  "title": "Article(s) > SwiftUI's built-in shapes",
+  "desc": "SwiftUI's built-in shapes",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-in-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -176,7 +176,7 @@ How to combine shapes to create new shapes
 {
   "title": "Article(s) > How to display solid shapes",
   "desc": "How to display solid shapes",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-display-solid-shapes.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

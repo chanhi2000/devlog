@@ -44,7 +44,7 @@ head:
 
 ```component VPCard
 {
-  "title": "You Don’t Have to Use Docker Anymore",
+  "title": "You Don't Have to Use Docker Anymore",
   "desc": "Docker is not the only containerization tool out there and there might just be better alternatives…",
   "link": "/explore/articles/towardsdatascience.com/you-dont-have-to-use-docker-anymore.md",
   "logo": "https://cdn-images-1.medium.com/fit/c/128/128/1*VzTUkfeGymHP4Bvav-T-lA.png",

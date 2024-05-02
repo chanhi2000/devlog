@@ -87,7 +87,7 @@ Text("The best laid plans")
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-3.zip)
 
-You can also set the background color, but that uses `.background()` because it’s possible to use more advanced backgrounds than just a flat color. Anyway, to give our layout a yellow background color we would add this:
+You can also set the background color, but that uses `.background()` because it's possible to use more advanced backgrounds than just a flat color. Anyway, to give our layout a yellow background color we would add this:
 
 ```swift
 Text("The best laid plans")
@@ -134,7 +134,7 @@ Text("Hello, world!")
 
 ::: note
 
-You will find that `fontWidth()` only works with fonts that have been designed to support it. If your font hasn’t been designed with font width in mind, you’ll just get the default width.
+You will find that `fontWidth()` only works with fonts that have been designed to support it. If your font hasn't been designed with font width in mind, you'll just get the default width.
 
 :::
 
@@ -144,7 +144,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 {
   "title": "Article(s) > Polishing designs with fonts and colors",
   "desc": "Polishing designs with fonts and colors",
-  "link": "/swift/swiftui-by-example/01-building-a-complete-project/polishing-designs-with-fonts-and-colors.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/polishing-designs-with-fonts-and-colors.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -154,7 +154,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 {
   "title": "Article(s) > How to add spacing between letters in text",
   "desc": "How to add spacing between letters in text",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-add-spacing-between-letters-in-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-spacing-between-letters-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -164,7 +164,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 {
   "title": "Article(s) > How to control spacing around individual views using padding",
   "desc": "How to control spacing around individual views using padding",
-  "link": "/swift/swiftui-by-example/04-view-layout/how-to-control-spacing-around-individual-views-using-padding.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-spacing-around-individual-views-using-padding.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -174,7 +174,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 {
   "title": "Article(s) > How to customize stack layouts with alignment and spacing",
   "desc": "How to customize stack layouts with alignment and spacing",
-  "link": "/swift/swiftui-by-example/05-stacks-grids-scrollviews/how-to-customize-stack-layouts-with-alignment-and-spacing.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-stack-layouts-with-alignment-and-spacing.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -184,7 +184,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 {
   "title": "Article(s) > SwiftUI tips and tricks",
   "desc": "SwiftUI tips and tricks",
-  "link": "/swift/swiftui-by-example/24-what-now/swiftui-tips-and-tricks.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

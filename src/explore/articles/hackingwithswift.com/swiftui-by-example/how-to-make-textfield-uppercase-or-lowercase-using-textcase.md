@@ -53,7 +53,7 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI’s `TextField` view normally lets users write their text in whatever case they want, but if you want to control that you can force either uppercase or lowercase text using the `textCase()` modifier.
+SwiftUI's `TextField` view normally lets users write their text in whatever case they want, but if you want to control that you can force either uppercase or lowercase text using the `textCase()` modifier.
 
 For example, this asks users to enter their name and uppercases every letter:
 
@@ -76,7 +76,7 @@ struct ContentView: View {
 
 ::: important
 
-If you’re using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather than `.roundedBorder`.
+If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather than `.roundedBorder`.
 
 :::
 
@@ -86,7 +86,7 @@ If you’re using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rathe
 {
   "title": "Article(s) > How to make a TextField expand vertically as the user types",
   "desc": "How to make a TextField expand vertically as the user types",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-make-a-textfield-expand-vertically-as-the-user-types.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-expand-vertically-as-the-user-types.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -96,7 +96,7 @@ If you’re using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rathe
 {
   "title": "Article(s) > How to make a TextField or TextEditor have default focus",
   "desc": "How to make a TextField or TextEditor have default focus",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-make-a-textfield-or-texteditor-have-default-focus.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-or-texteditor-have-default-focus.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -106,7 +106,7 @@ If you’re using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rathe
 {
   "title": "Article(s) > How to dismiss the keyboard for a TextField",
   "desc": "How to dismiss the keyboard for a TextField",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-dismiss-the-keyboard-for-a-textfield.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dismiss-the-keyboard-for-a-textfield.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -116,7 +116,7 @@ If you’re using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rathe
 {
   "title": "Article(s) > How to add a TextField to an alert",
   "desc": "How to add a TextField to an alert",
-  "link": "/swift/swiftui-by-example/14-alerts-and-menus/how-to-add-a-textfield-to-an-alert.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-textfield-to-an-alert.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -126,7 +126,7 @@ If you’re using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rathe
 {
   "title": "Article(s) > How to format a TextField for numbers",
   "desc": "How to format a TextField for numbers",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-format-a-textfield-for-numbers.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-a-textfield-for-numbers.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

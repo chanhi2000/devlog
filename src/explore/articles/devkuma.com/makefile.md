@@ -47,7 +47,7 @@ head:
 
 ## 개요
 
-`make`는 개발자가 작성한 소스 코드에서 최종 실행파일을 얻기 위해 컴파일, 링크 등 일련의 단계를 연속적으로 자동으로 수행해주는 ‘빌드 도구’의 하나로, 오래전부터 리눅스 등 유닉스 계열 OS에서 표준으로 사용되고 있다.
+`make`는 개발자가 작성한 소스 코드에서 최종 실행파일을 얻기 위해 컴파일, 링크 등 일련의 단계를 연속적으로 자동으로 수행해주는 '빌드 도구'의 하나로, 오래전부터 리눅스 등 유닉스 계열 OS에서 표준으로 사용되고 있다.
 
 `make`에서는 개발자가 수행하고자 하는 일련의 절차를 Makefile에 기술하고, make 명령어에 이를 주면 내용을 해석하여 명령어 실행 등을 연속적으로 자동으로 수행하며, make 명령어 한 번 실행으로 실행파일 생성이 완료된다.
 
@@ -59,7 +59,7 @@ head:
 
 유명한 GNU에서 제공하는 GNU Make의 Home Page에 따르면 Make는 다음과 같은 Tool이라고 한다.
 
-> GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program’s source files.
+> GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files.
 
 이에 따르면 다음과 같은 장점이 있는 것 같다.
 
@@ -83,7 +83,7 @@ head:
 
 많은 라이브러리를 사용하는 C/ C++을 빌드할 때 `make`를 사용하면 유용하다. `make`를 사용하려면 대상 `Makefile`이 필요한데, 이번에는 그 작성법을 소개한다.
 
-`Makefile`의 기본 구문은 두 줄로 한 단위이며, 윗줄에 `Target: SourceFile`, 아랫줄에 ‘실행할 명령어(맨 앞에 탭 문자)‘를 각각 기술한다. 줄 바꿈을 `;`(세미콜론)으로 대체하여 한 줄로 묶을 수도 있다. `변수명=값` 형태로 변수를 정의할 수도 있으며, 파일명 등의 지정에 변수를 사용할 수 있다.
+`Makefile`의 기본 구문은 두 줄로 한 단위이며, 윗줄에 `Target: SourceFile`, 아랫줄에 '실행할 명령어(맨 앞에 탭 문자)'를 각각 기술한다. 줄 바꿈을 `;`(세미콜론)으로 대체하여 한 줄로 묶을 수도 있다. `변수명=값` 형태로 변수를 정의할 수도 있으며, 파일명 등의 지정에 변수를 사용할 수 있다.
 
 의존 관계를 기록하는 부분이다.
 

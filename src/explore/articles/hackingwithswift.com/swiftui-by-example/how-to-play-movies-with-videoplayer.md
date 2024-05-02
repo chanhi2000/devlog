@@ -53,9 +53,9 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI’s `VideoPlayer` view lets us playback movies from any URL, local or remote. It comes from the AVKit framework, so you should make sure and add `import AVKit` before trying it out.
+SwiftUI's `VideoPlayer` view lets us playback movies from any URL, local or remote. It comes from the AVKit framework, so you should make sure and add `import AVKit` before trying it out.
 
-As an example, if you had video.mp4 in your app bundle and wanted to play it back, you’d use this:
+As an example, if you had video.mp4 in your app bundle and wanted to play it back, you'd use this:
 
 ```swift
 VideoPlayer(player: AVPlayer(url:  Bundle.main.url(forResource: "video", withExtension: "mp4")!))
@@ -83,7 +83,7 @@ VideoPlayer(player: AVPlayer(url:  URL(string: "https://bit.ly/swswift")!))
 
 ![A video with a play button overlaid, inside an iPhone.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-play-movies-with-videoplayer-2~dark.png)
 
-If you want, you can provide a second parameter to the `VideoPlayer` initializer that adds content to be drawn over the video. This will be drawn below the system video controls, but can respond to any events that aren’t caught by those controls.
+If you want, you can provide a second parameter to the `VideoPlayer` initializer that adds content to be drawn over the video. This will be drawn below the system video controls, but can respond to any events that aren't caught by those controls.
 
 For example, this places the text “Watermark” at the very top of the video area:
 
@@ -109,7 +109,7 @@ A video with a play button overlaid, along with the word Watermark place at the 
 {
   "title": "Article(s) > How to add search tokens to a search field",
   "desc": "How to add search tokens to a search field",
-  "link": "/swift/swiftui-by-example/10-lists/how-to-add-search-tokens-to-a-search-field.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-search-tokens-to-a-search-field.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -119,7 +119,7 @@ A video with a play button overlaid, along with the word Watermark place at the 
 {
   "title": "Article(s) > How to let users import videos using PhotosPicker",
   "desc": "How to let users import videos using PhotosPicker",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-let-users-import-videos-using-photospicker.md",
+"link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -129,7 +129,7 @@ A video with a play button overlaid, along with the word Watermark place at the 
 {
   "title": "Article(s) > SwiftUI tips and tricks",
   "desc": "SwiftUI tips and tricks",
-  "link": "/swift/swiftui-by-example/24-what-now/swiftui-tips-and-tricks.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

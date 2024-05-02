@@ -35,7 +35,7 @@ head:
 
 > 2024.03.12
 
-The following proposals stand a good chance of making it into this year’s version of ECMAScript:
+The following proposals stand a good chance of making it into this year's version of ECMAScript:
 
 [[toc]]
 
@@ -43,15 +43,15 @@ The following proposals stand a good chance of making it into this year’s vers
 
 ## ECMAScript Updates
 
-A new version of JS always causes a stir. Since the ES6 update there has been a new version every year, and we’re expecting this year’s (ES2024) to land around June.
+A new version of JS always causes a stir. Since the ES6 update there has been a new version every year, and we're expecting this year's (ES2024) to land around June.
 
-ES6 was a massive release that came *six years* after its predecessor, ES5. Browser vendors and JavaScript developers were overwhelmed with the sheer number of new features to adopt and learn. Since then, to prevent such a big drop of new features happening at once, there’s been a yearly release cycle.
+ES6 was a massive release that came *six years* after its predecessor, ES5. Browser vendors and JavaScript developers were overwhelmed with the sheer number of new features to adopt and learn. Since then, to prevent such a big drop of new features happening at once, there's been a yearly release cycle.
 
-This yearly release cycle involves *proposing* any new features, which are then discussed, evaluated, then voted on by a committee before they’re added to the language. This process also allows browsers to try to implement the proposals before they’re officially added to the language, which may help iron out any implementation problems.
+This yearly release cycle involves *proposing* any new features, which are then discussed, evaluated, then voted on by a committee before they're added to the language. This process also allows browsers to try to implement the proposals before they're officially added to the language, which may help iron out any implementation problems.
 
-As mentioned, new features for JavaScript (or ECMAScript) are decided by [<FontIcon icon="fas fa-globe"/>Technical Committee 39 (TC39)](https://tc39.es/). TC39 is made up of representatives from all the major browser vendors as well as JavaScript experts. They meet regularly to discuss new features for the language and how they can be implemented. The new features are put forward as proposals (made by anyone) and the committee members then vote on whether each proposal can move forward to the next stage. There are 4 Stages for each proposal; once a proposal reaches Stage 4, it’s expected to be included in the next version of ES.
+As mentioned, new features for JavaScript (or ECMAScript) are decided by [<FontIcon icon="fas fa-globe"/>Technical Committee 39 (TC39)](https://tc39.es/). TC39 is made up of representatives from all the major browser vendors as well as JavaScript experts. They meet regularly to discuss new features for the language and how they can be implemented. The new features are put forward as proposals (made by anyone) and the committee members then vote on whether each proposal can move forward to the next stage. There are 4 Stages for each proposal; once a proposal reaches Stage 4, it's expected to be included in the next version of ES.
 
-An important part of the ES specification is that it has to be *backwards compatible*. This means that any new features can’t *break the Internet* by changing how previous versions of ES worked. So they can’t change how existing methods work, they can only add new methods, as any website running with a potentially pre-existent method would be at risk of breaking.
+An important part of the ES specification is that it has to be *backwards compatible*. This means that any new features can't *break the Internet* by changing how previous versions of ES worked. So they can't change how existing methods work, they can only add new methods, as any website running with a potentially pre-existent method would be at risk of breaking.
 
 The full list of all the current proposals can be seen [<FontIcon icon="iconfont icon-terminal"/>`tc39/proposals`](https://github.com/tc39/proposals).
 
@@ -69,7 +69,7 @@ The difficulty of dates has resulted in popular libraries such as [<FontIcon ico
 
 `Temporal` will support multiple time-zones and non-Gregorian calendars out of the box, and will provide a simple-to-use API that will make it much easier to parse dates from strings. Furthermore, all `Temporal` objects will be immutable, which will help avoid any accidental date change bugs.
 
-Let’s look at some examples of the most useful methods offered by the `Temporal` API.
+Let's look at some examples of the most useful methods offered by the `Temporal` API.
 
 ### `Temporal.Now.Instant()`
 
@@ -107,7 +107,7 @@ Temporal.PlainTime.from('20:24:00');
 
 ### `PlainMonthDay()`
 
-`PlainMonthDay()` is similar to `PlainDate`, but it only returns the month and day with no year information (useful for dates that recur on the same day every year, such as Christmas Day and Valentine’s Day):
+`PlainMonthDay()` is similar to `PlainDate`, but it only returns the month and day with no year information (useful for dates that recur on the same day every year, such as Christmas Day and Valentine's Day):
 
 ```js
 const valentinesDay = Temporal.PlainMonthDay.from({ month: 2, day: 14 });
@@ -115,7 +115,7 @@ const valentinesDay = Temporal.PlainMonthDay.from({ month: 2, day: 14 });
 
 ### `PlainYearMonth()`
 
-Similarly, there’s also `PlainYearMonth` that will return just the year and month (useful for representing a whole month of a year):
+Similarly, there's also `PlainYearMonth` that will return just the year and month (useful for representing a whole month of a year):
 
 ```js
 const march = Temporal.PlainYearMonth.from({ month: 3, year: 2024 });
@@ -156,7 +156,7 @@ There are also other properties such as `dayOfWeek` (returns `1` for Monday and 
 
 `Temporal` date objects will also have a `compare` method that can be used to order dates using various sorting algorithms.
 
-Temporal is currently a Stage 3 proposal that’s in the process of being implemented by browser vendors, so it seems as if its time has come (pun intended). You can see the full documentation [<FontIcon icon="fas fa-globe"/>here](https://tc39.es/proposal-temporal/docs/). There’s also a useful cookbook of use cases [<FontIcon icon="fas fa-globe"/>here](https://tc39.es/proposal-temporal/docs/cookbook.html). When paired with the [<FontIcon icon="fas fa-globe"/>Intl.DateTimeFormat API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat) you’ll be able to do some very nifty date manipulation.
+Temporal is currently a Stage 3 proposal that's in the process of being implemented by browser vendors, so it seems as if its time has come (pun intended). You can see the full documentation [<FontIcon icon="fas fa-globe"/>here](https://tc39.es/proposal-temporal/docs/). There's also a useful cookbook of use cases [<FontIcon icon="fas fa-globe"/>here](https://tc39.es/proposal-temporal/docs/cookbook.html). When paired with the [<FontIcon icon="fas fa-globe"/>Intl.DateTimeFormat API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat) you'll be able to do some very nifty date manipulation.
 
 ---
 
@@ -203,9 +203,9 @@ const text = "Hello World"
 text.listen().exclaim().uppercase()
 ```
 
-This solves a lot of problems from nested functions. The argument being passed is at the beginning, and each function appears in the order it’s applied in, so `listen()` is applied first, then `exclaim()` then `uppercase()`.
+This solves a lot of problems from nested functions. The argument being passed is at the beginning, and each function appears in the order it's applied in, so `listen()` is applied first, then `exclaim()` then `uppercase()`.
 
-Unfortunately, this example won’t work, because the `listen`, `exclaim` and `uppercase` functions aren’t methods of the `String` class. They could be added by [<FontIcon icon="fa-brands fa-wikipedia-w"/>monkey patching](https://en.wikipedia.org/wiki/Monkey_patch) the `String` class, but this is generally frowned on as a technique.
+Unfortunately, this example won't work, because the `listen`, `exclaim` and `uppercase` functions aren't methods of the `String` class. They could be added by [<FontIcon icon="fa-brands fa-wikipedia-w"/>monkey patching](https://en.wikipedia.org/wiki/Monkey_patch) the `String` class, but this is generally frowned on as a technique.
 
 This means that, although chaining looks a lot better than function nesting, it can only really be used with built-in functions (as is frequently done with Array methods).
 
@@ -215,11 +215,11 @@ This means that, although chaining looks a lot better than function nesting, it 
 text |> listen(%) |> exclaim(%) |> uppercase(%)
 ```
 
-The `%` token is a placeholder used to represent the value of the output of the previous function, although it’s highly likely that the `%` character will be replaced by some other character in the official release. This allows for functions that accept more than one argument to be used along the pipeline.
+The `%` token is a placeholder used to represent the value of the output of the previous function, although it's highly likely that the `%` character will be replaced by some other character in the official release. This allows for functions that accept more than one argument to be used along the pipeline.
 
-Piping combines the ease of chaining but can be used with any custom functions that you’ve written. The only condition is that you need to ensure that the output type of one function matches the input type of the next function in the chain.
+Piping combines the ease of chaining but can be used with any custom functions that you've written. The only condition is that you need to ensure that the output type of one function matches the input type of the next function in the chain.
 
-Piping works best with [curried functions](https://www.sitepoint.com/currying-in-functional-javascript/) that only accept a single argument that’s piped from the return value of any previous function. It makes functional programming much easier, as small, building-block functions can be chained together to make more complex composite functions. It also makes [<FontIcon icon="fa-brands fa-free-code-camp"/>partial application](https://www.freecodecamp.org/news/how-to-use-partial-application-to-improve-your-javascript-code-5af9ad877833/) easier to implement.
+Piping works best with [curried functions](https://www.sitepoint.com/currying-in-functional-javascript/) that only accept a single argument that's piped from the return value of any previous function. It makes functional programming much easier, as small, building-block functions can be chained together to make more complex composite functions. It also makes [<FontIcon icon="fa-brands fa-free-code-camp"/>partial application](https://www.freecodecamp.org/news/how-to-use-partial-application-to-improve-your-javascript-code-5af9ad877833/) easier to implement.
 
 Despite its popularity, the pipe operator has struggled to move forward beyond Stage 2 of the process. This is due to disagreements over how the notation should be expressed and concerns over memory performance and how it might work with `await`. It seems that the committee is slowly reaching some sort of agreement, though, so hopefully the pipe operator might move quickly through the stages and make an appearance this year.
 
@@ -249,7 +249,7 @@ Personally, we would love the pipe operator to be implemented and rolled out thi
 
 ## Conclusion
 
-So what do you think? What would you like to see added to the spec this year? All these features will make great additions to JavaScript, so fingers crossed they’ll make it in this year!
+So what do you think? What would you like to see added to the spec this year? All these features will make great additions to JavaScript, so fingers crossed they'll make it in this year!
 
 ---
 

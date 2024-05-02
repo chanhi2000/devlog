@@ -122,8 +122,8 @@ head:
 
 ```component VPCard
 {
-  "title": "프론트엔드 개발자가 알아야 할 ‘유닛 테스트’ 작성법 | 요즘IT",
-  "desc": "프론트엔드 개발자가 알아야 할 ‘유닛 테스트’ 작성법",
+  "title": "프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법 | 요즘IT",
+  "desc": "프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법",
   "link": "/explore/articles/yozm.wishket.com/2483.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"

@@ -217,7 +217,7 @@ tag:
 ## 스파르타 코딩클럽
 
 - [변화를 꿈꾸는 이들을 위한 안내서](https://blog.naver.com/spartacoding/223397157872)
-- [‘가치의 가치있음’을 믿으며, 계속 살아내기](https://blog.naver.com/spartacoding/223397154746?)
+- ['가치의 가치있음'을 믿으며, 계속 살아내기](https://blog.naver.com/spartacoding/223397154746?)
 - [비전공자도 개발자 취업할 수 있을까? | 팀스파르타 이범규 대표 인터뷰](https://blog.naver.com/spartacoding/223399417138?)
 
 ---
@@ -493,7 +493,7 @@ tag:
 
 ## Atomic Object
 
-- [Two Symptoms Your Team Isn’t Agile](https://spin.atomicobject.com/agile-practices/)
+- [Two Symptoms Your Team Isn't Agile](https://spin.atomicobject.com/agile-practices/)
 
 ---
 
@@ -521,7 +521,7 @@ tag:
 
 ## The Story's Story
 
-- [The emotional trial of clinical trials, part 1: It’s like online dating except if you choose wrong you die](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
+- [The emotional trial of clinical trials, part 1: It's like online dating except if you choose wrong you die](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
 
 ---
 

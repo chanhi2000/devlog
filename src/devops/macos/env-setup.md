@@ -344,7 +344,7 @@ sudo mdutil -a -i off;
 ### Finder ###
 ## Show hidden files ALWAYS
 defaults write com.apple.finder AppleShowAllFiles TRUE;
-## Display Files’ directory in the title bar
+## Display Files' directory in the title bar
 defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES;
 killall Finder;
 

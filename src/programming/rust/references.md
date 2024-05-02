@@ -168,7 +168,7 @@ tag:
 
 ## Ben Visness
 
-- [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
+- [“You can't do that because I hate you.”](https://bvisness.me/you-cant/)
 
 ---
 

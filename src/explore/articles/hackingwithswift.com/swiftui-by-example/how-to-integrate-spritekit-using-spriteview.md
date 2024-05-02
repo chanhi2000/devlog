@@ -53,7 +53,7 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI’s `SpriteView` lets us render any `SKScene` subclass right inside SwiftUI, and it will even resize the scene if you request it.
+SwiftUI's `SpriteView` lets us render any `SKScene` subclass right inside SwiftUI, and it will even resize the scene if you request it.
 
 To try it out, first add `import SpriteKit` to your Swift file. Second, create some sort of game scene you want to render. For example, this will create falling boxes wherever you tap, adding a physics effect so they interact neatly:
 

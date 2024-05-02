@@ -66,7 +66,7 @@ Text("Hello World")
 
 ![The words Hello World displayed on a plain background](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-static-labels-with-a-text-view-1~dark.png)
 
-Inside the preview window for your content view you’re likely to see “Automatic preview updating paused” – go ahead and press <FontIcon icon="iconfont icon-select"/>`[Resume]` to have Swift start building your code and show you a live preview of how it looks.
+Inside the preview window for your content view you're likely to see “Automatic preview updating paused” – go ahead and press <FontIcon icon="iconfont icon-select"/>`[Resume]` to have Swift start building your code and show you a live preview of how it looks.
 
 ::: tip
 
@@ -74,7 +74,7 @@ You can press <kbd>Opt</kbd>+<kbd>Cmd</kbd>+<kbd>P</kbd> to resume these preview
 
 :::
 
-By default text views wrap across as many lines as they need, but if you’d rather limit the number of lines they can use you should add the lineLimit modifier, like this:
+By default text views wrap across as many lines as they need, but if you'd rather limit the number of lines they can use you should add the lineLimit modifier, like this:
 
 ```swift
 Text("This is some longer text that is limited to three lines maximum, so anything more than that will cause the text to clip.")
@@ -105,9 +105,9 @@ Text("This is always two lines")
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-static-labels-with-a-text-view-3.zip)
 
-That doesn’t mean the text will somehow be stretched across two lines, only that the text view will be sized to be two lines in height no matter what its contents. This approach is particularly helpful when you need an exact number of lines – in grids and other layouts where you want nice and even spacing, for example.
+That doesn't mean the text will somehow be stretched across two lines, only that the text view will be sized to be two lines in height no matter what its contents. This approach is particularly helpful when you need an exact number of lines – in grids and other layouts where you want nice and even spacing, for example.
 
-If you place a line limit on some text then provide it with a string that’s too long to fit in the available space, SwiftUI will truncate the text so that it ends with “...”.
+If you place a line limit on some text then provide it with a string that's too long to fit in the available space, SwiftUI will truncate the text so that it ends with “...”.
 
 You can adjust the way SwiftUI truncates your text: the default is to remove text from the end and show an ellipsis there instead, but you can also place the ellipsis in the middle or beginning depending on how important the various parts of your string are.
 
@@ -123,7 +123,7 @@ Text("This is an extremely long string of text that will never fit even the wide
 
 ![A single line of text truncated in the middle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-static-labels-with-a-text-view-3~dark.png)
 
-Regardless of how you truncate the text, what you’ll see is that your text view sits neatly centered in the main view. This is the default behavior of SwiftUI: unless it’s told to position views somewhere else, it positions them relative to the center of the screen.
+Regardless of how you truncate the text, what you'll see is that your text view sits neatly centered in the main view. This is the default behavior of SwiftUI: unless it's told to position views somewhere else, it positions them relative to the center of the screen.
 
 ::: details Similar solutions…
 
@@ -131,7 +131,7 @@ Regardless of how you truncate the text, what you’ll see is that your text vie
 {
   "title": "Article(s) > How to create a list of static items",
   "desc": "How to create a list of static items",
-  "link": "/swift/swiftui-by-example/10-lists/how-to-create-a-list-of-static-items.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-list-of-static-items.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -141,7 +141,7 @@ Regardless of how you truncate the text, what you’ll see is that your text vie
 {
   "title": "Article(s) > How to format text inside text views",
   "desc": "How to format text inside text views",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-format-text-inside-text-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -151,7 +151,7 @@ Regardless of how you truncate the text, what you’ll see is that your text vie
 {
   "title": "Article(s) > SwiftUI tips and tricks",
   "desc": "SwiftUI tips and tricks",
-  "link": "/swift/swiftui-by-example/24-what-now/swiftui-tips-and-tricks.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -161,7 +161,7 @@ Regardless of how you truncate the text, what you’ll see is that your text vie
 {
   "title": "Article(s) > How to add advanced text styling using AttributedString",
   "desc": "How to add advanced text styling using AttributedString",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-add-advanced-text-styling-using-attributedstring.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-advanced-text-styling-using-attributedstring.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -171,7 +171,7 @@ Regardless of how you truncate the text, what you’ll see is that your text vie
 {
   "title": "Article(s) > How to create multi-line editable text with TextEditor",
   "desc": "How to create multi-line editable text with TextEditor",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-create-multi-line-editable-text-with-texteditor.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-line-editable-text-with-texteditor.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

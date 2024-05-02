@@ -43,7 +43,7 @@ head:
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example – Migrating from UIKit to SwiftUI",
+  "title": "Migrating from UIKit to SwiftUI | SwiftUI by Example",
   "desc": "Migrating from UIKit to SwiftUI",
   "link": "https://www.hackingwithswift.com/quick-start/swiftui/migrating-from-uikit-to-swiftui", 
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -53,9 +53,9 @@ head:
 
 > Updated for Xcode 15
 
-If you’ve used UIKit before, many of the classes you know and love map pretty much directly to their SwiftUI equivalents just by dropping the `UI` prefix. That doesn’t mean they are the same thing underneath, just that they have the same or similar functionality.
+If you've used UIKit before, many of the classes you know and love map pretty much directly to their SwiftUI equivalents just by dropping the `UI` prefix. That doesn't mean they are the same thing underneath, just that they have the same or similar functionality.
 
-Here’s a list to get you started, with UIKit class names followed by SwiftUI names:
+Here's a list to get you started, with UIKit class names followed by SwiftUI names:
 
 - `UITableView`: `List`
 - `UICollectionView`: `LazyVGrid` and `LazyHGrid`

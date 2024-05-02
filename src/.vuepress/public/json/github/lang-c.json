@@ -939,5 +939,15 @@
     "desc": "Standalone, language agnostic dotenv",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "FRRouting/frr",
+    "desc": "The FRRouting Protocol Suite",
+    "officialSite": "https://frrouting.org/",
+    "topics": ["babel", "bgp", "eigrp", "evpn", "is-is", "ldp", "mpls", "msdp", "networking", "nhrp", "ospf", "pbr", "pim", "rip", "ripng", "routing", "vrrp"]
+  }, {
+    "repo": "fastfetch-cli/fastfetch",
+    "desc": "Like neofetch, but much faster because written mostly in C.",
+    "officialSite": "",
+    "topics": ["command-line", "fastfetch", "fetch", "flashfetch", "hacktoberfest", "terminal"]
   }
 ]

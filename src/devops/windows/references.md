@@ -96,7 +96,7 @@ tag:
 
 ---
 
-## Henri Sivonen’s pages
+## Henri Sivonen's pages
 
 - [Activating Browser Modes with Doctype](https://hsivonen.fi/doctype/)
 

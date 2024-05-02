@@ -209,5 +209,15 @@
     "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "officialSite": "",
     "topics": ["awesome", "awesome-list", "bsd", "cheatsheets", "devops", "guidelines", "hacking", "hacks", "howtos", "linux", "lists", "manuals", "one-liners", "pentesters", "resources", "search-engines", "security", "security-researchers", "sysops"]
+  }, {
+    "repo": "mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "officialSite": "https://developer.mozilla.org",
+    "topics": ["css", "documentation", "html", "http", "javascript", "learning", "mdn", "reference", "web-development", "web-standards"]
+  }, {
+    "repo": "kelseyhightower/kubernetes-the-hard-way",
+    "desc": "Bootstrap Kubernetes the hard way. No scripts.",
+    "officialSite": "",
+    "topics": []
   }
 ]

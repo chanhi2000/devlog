@@ -57,7 +57,7 @@ head:
 
 SwiftUI lets us mark some parts of our view as containing sensitive information, which in practice allows us to hide or show it more easily using redaction. To use this feature in your code, first add the `privacySensitive()` modifier to any views that should be hidden, then apply the `.redacted(reason: .privacy)` modifier at a higher place in your view hierarchy.
 
-For example, this hides the user’s credit card number if the view is being displayed in a non-private context:
+For example, this hides the user's credit card number if the view is being displayed in a non-private context:
 
 ```swift
 struct ContentView: View {
@@ -112,7 +112,7 @@ Sometimes the system will apply privacy redaction automatically, such as if your
 {
   "title": "Article(s) > How to mark content as a placeholder using redacted()",
   "desc": "How to mark content as a placeholder using redacted()",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-mark-content-as-a-placeholder-using-redacted.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-a-placeholder-using-redacted.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -122,7 +122,7 @@ Sometimes the system will apply privacy redaction automatically, such as if your
 {
   "title": "Article(s) > How to render Markdown content in text",
   "desc": "How to render Markdown content in text",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-render-markdown-content-in-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -132,7 +132,7 @@ Sometimes the system will apply privacy redaction automatically, such as if your
 {
   "title": "Article(s) > How to create scrolling pages of content using tabViewStyle()",
   "desc": "How to create scrolling pages of content using tabViewStyle()",
-  "link": "/swift/swiftui-by-example/12-containers/how-to-create-scrolling-pages-of-content-using-tabviewstyle.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-scrolling-pages-of-content-using-tabviewstyle.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -142,7 +142,7 @@ Sometimes the system will apply privacy redaction automatically, such as if your
 {
   "title": "Article(s) > How to fix “Missing argument for parameter 'content' in call”",
   "desc": "How to fix “Missing argument for parameter 'content' in call”",
-  "link": "/swift/swiftui-by-example/26-appendix-b/how-to-fix-missing-argument-for-parameter-content-in-call.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-missing-argument-for-parameter-content-in-call.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

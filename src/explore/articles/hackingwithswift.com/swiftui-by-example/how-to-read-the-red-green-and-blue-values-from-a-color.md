@@ -55,7 +55,7 @@ head:
 
 **New in iOS 17**
 
-SwiftUI’s `Color` view doesn’t always hold one specific color, and instead is only resolved to a specific value when it’s being drawn on the screen. This allows the system to use slight variations between light and dark mode to ensure the optimal experience, but it also means the only way to get actual red, green, and blue (RGB) components out is to ask for the resolved color – ask the system “given this environment, what actual color values are being used?”
+SwiftUI's `Color` view doesn't always hold one specific color, and instead is only resolved to a specific value when it's being drawn on the screen. This allows the system to use slight variations between light and dark mode to ensure the optimal experience, but it also means the only way to get actual red, green, and blue (RGB) components out is to ask for the resolved color – ask the system “given this environment, what actual color values are being used?”
 
 Resolving takes two steps: gaining access to the current environment, and pass that into a call to `resolve(in:)` on your color. You can then save the resulting data using `Codable` or whatever other data form you want.
 
@@ -143,11 +143,11 @@ struct ContentView: View {
 
 ::: note
 
-We’re dealing with floating-point numbers, so you can expect some microscopic variations.
+We're dealing with floating-point numbers, so you can expect some microscopic variations.
 
 :::
 
-If you’ve loaded a resolved color and want to convert it back to a Color instance, just pass it into the initializer like this:
+If you've loaded a resolved color and want to convert it back to a Color instance, just pass it into the initializer like this:
 
 ```swift
 let resolvedColor = Color.Resolved(red: 0, green: 0.6, blue: 0.9, opacity: 1)
@@ -167,7 +167,7 @@ A gentle blue gradient created from a resolved color.
 {
   "title": "Article(s) > How to create a date picker and read values from it",
   "desc": "How to create a date picker and read values from it",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-create-a-date-picker-and-read-values-from-it.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-date-picker-and-read-values-from-it.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -177,7 +177,7 @@ A gentle blue gradient created from a resolved color.
 {
   "title": "Article(s) > How to create a picker and read values from it",
   "desc": "How to create a picker and read values from it",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-create-a-picker-and-read-values-from-it.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-picker-and-read-values-from-it.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -187,7 +187,7 @@ A gentle blue gradient created from a resolved color.
 {
   "title": "Article(s) > How to create a segmented control and read values from it",
   "desc": "How to create a segmented control and read values from it",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-create-a-segmented-control-and-read-values-from-it.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-segmented-control-and-read-values-from-it.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -197,7 +197,7 @@ A gentle blue gradient created from a resolved color.
 {
   "title": "Article(s) > SwiftUI tips and tricks",
   "desc": "SwiftUI tips and tricks",
-  "link": "/swift/swiftui-by-example/24-what-now/swiftui-tips-and-tricks.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -207,7 +207,7 @@ A gentle blue gradient created from a resolved color.
 {
   "title": "Article(s) > All SwiftUI property wrappers explained and compared",
   "desc": "All SwiftUI property wrappers explained and compared",
-  "link": "/swift/swiftui-by-example/25-appendix-a/all-swiftui-property-wrappers-explained-and-compared.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

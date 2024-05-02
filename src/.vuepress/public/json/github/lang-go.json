@@ -1419,5 +1419,10 @@
     "desc": "The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.",
     "officialSite": "https://kaytu.io",
     "topics": ["cloud-spend", "cloud-spend-control", "finops", "rightsizing", "spend-mgmt", "workload-optimization"]
+  }, {
+    "repo": "coroot/coroot",
+    "desc": "Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",
+    "officialSite": "https://coroot.com",
+    "topics": ["alerting", "apm", "dashboard", "database-monitoring", "devops", "distributed-tracing", "ebpf", "k8s", "kubernetes", "log-analysis", "metrics", "microservice", "monitoring", "network-monitoring", "observability", "postgresql-monitoring", "prometheus", "service-map", "slo", "tracing"]
   }
 ]

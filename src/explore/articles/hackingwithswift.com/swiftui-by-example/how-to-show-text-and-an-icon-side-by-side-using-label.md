@@ -112,7 +112,7 @@ VStack {
 
 ::: important
 
-If you’re using Xcode 12, you need to use `TitleOnlyLabelStyle()`, `IconOnlyLabelStyle()`, and `TitleAndIconLabelStyle()` instead. `TitleAndIconLabelStyle()` is only available from iOS 14.5.
+If you're using Xcode 12, you need to use `TitleOnlyLabelStyle()`, `IconOnlyLabelStyle()`, and `TitleAndIconLabelStyle()` instead. `TitleAndIconLabelStyle()` is only available from iOS 14.5.
 
 :::
 
@@ -143,7 +143,7 @@ Label {
 {
   "title": "Article(s) > How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden()",
   "desc": "How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden()",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -153,7 +153,7 @@ Label {
 {
   "title": "Article(s) > SwiftUI tips and tricks",
   "desc": "SwiftUI tips and tricks",
-  "link": "/swift/swiftui-by-example/24-what-now/swiftui-tips-and-tricks.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -163,7 +163,7 @@ Label {
 {
   "title": "Article(s) > How to force views to one side inside a stack using Spacer",
   "desc": "How to force views to one side inside a stack using Spacer",
-  "link": "/swift/swiftui-by-example/05-stacks-grids-scrollviews/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -173,7 +173,7 @@ Label {
 {
   "title": "Article(s) > All SwiftUI property wrappers explained and compared",
   "desc": "All SwiftUI property wrappers explained and compared",
-  "link": "/swift/swiftui-by-example/25-appendix-a/all-swiftui-property-wrappers-explained-and-compared.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -183,7 +183,7 @@ Label {
 {
   "title": "Article(s) > How to format text inside text views",
   "desc": "How to format text inside text views",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-format-text-inside-text-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

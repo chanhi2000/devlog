@@ -240,7 +240,7 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 ```component VPCard
 {
   "title": "Easing Functions Cheat Sheet",
-  "desc": "Easing functions specify the speed of animation to make the movement more natural. Real objects don’t just move at a constant speed, and do not start and stop in an instant. This page helps you choose the right easing function.",
+  "desc": "Easing functions specify the speed of animation to make the movement more natural. Real objects don't just move at a constant speed, and do not start and stop in an instant. This page helps you choose the right easing function.",
   "link": "https://easings.net/",
   "logo": "https://easings.net/96.8aa68ac4.png",
   "background": "rgba(51,108,214,0.2)"

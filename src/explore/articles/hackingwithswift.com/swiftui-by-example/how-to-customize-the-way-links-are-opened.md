@@ -78,11 +78,11 @@ struct ContentView: View {
 
 As you can see, `handleURL()` returns a `OpenURLAction.Result` value of `.handled`, which means the method accepted the link and acted on it. There are alternatives:
 
-- Use `.discarded` if you mean you weren’t able to handle the link.
+- Use `.discarded` if you mean you weren't able to handle the link.
 - Use `.systemAction` if you want to trigger the default behavior, perhaps in addition to your own logic.
 - Use `.systemAction(someOtherURL)` if you want to open a different URL using the default behavior, perhaps a modified version of the URL that was originally triggered.
 
-Remember, links will use your app’s accent color by default, but you can change that using the `tint()` modifier:
+Remember, links will use your app's accent color by default, but you can change that using the `tint()` modifier:
 
 ```swift
 Text("[Visit Apple](https://apple.com)")
@@ -97,7 +97,7 @@ Text("[Visit Apple](https://apple.com)")
 {
   "title": "Article(s) > How to open web links in Safari",
   "desc": "How to open web links in Safari",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-open-web-links-in-safari.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-open-web-links-in-safari.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -107,7 +107,7 @@ Text("[Visit Apple](https://apple.com)")
 {
   "title": "Article(s) > Two-way bindings in SwiftUI",
   "desc": "Two-way bindings in SwiftUI",
-  "link": "/swift/swiftui-by-example/01-building-a-complete-project/two-way-bindings-in-swiftui.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -117,7 +117,7 @@ Text("[Visit Apple](https://apple.com)")
 {
   "title": "Article(s) > How to adjust the way an image is fitted to its space",
   "desc": "How to adjust the way an image is fitted to its space",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -127,7 +127,7 @@ Text("[Visit Apple](https://apple.com)")
 {
   "title": "Article(s) > How to let users customize toolbar buttons",
   "desc": "How to let users customize toolbar buttons",
-  "link": "/swift/swiftui-by-example/12-containers/how-to-let-users-customize-toolbar-buttons.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-customize-toolbar-buttons.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -137,7 +137,7 @@ Text("[Visit Apple](https://apple.com)")
 {
   "title": "Article(s) > How to customize the background color of navigation bars, tab bars, and toolbars",
   "desc": "How to customize the background color of navigation bars, tab bars, and toolbars",
-  "link": "/swift/swiftui-by-example/12-containers/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

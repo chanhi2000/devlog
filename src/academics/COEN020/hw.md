@@ -33,7 +33,7 @@ What is the decimal value represented by the 8-bit binary number $11001001.0101_
 
 **(a)** an unsigned number?
 
-**(b)** A 2’s-complement number?
+**(b)** A 2's-complement number?
 
 ### 2.3
 
@@ -41,7 +41,7 @@ What is the decimal value represented by the binary number $10001101_2$ when int
 
 **(a)** an sign + magnitude number?
 
-**(b)** A 2’s-complement number?
+**(b)** A 2's-complement number?
 
 ### 2.4
 
@@ -103,19 +103,19 @@ Perform the indicated conversions:
 
 ### 2.9
 
-Convert the decimal number $$-37.1_{10}$$ to 16-bit 2’s-complement binary, with 8 bits of integer part and 8 bits of fractional part.
+Convert the decimal number $$-37.1_{10}$$ to 16-bit 2's-complement binary, with 8 bits of integer part and 8 bits of fractional part.
 
 
 ## 2.10
-What is the 2’s-complement 8-bit representation of $$-100_{10}$$?
+What is the 2's-complement 8-bit representation of $$-100_{10}$$?
 
 
 ## 2.11
-Give the 2’s-complement 8-bit representation of $$-7.7_{10}$$, with the binary point in the middle (*e.g.* $$bbbb.bbbb$$).
+Give the 2's-complement 8-bit representation of $$-7.7_{10}$$, with the binary point in the middle (*e.g.* $$bbbb.bbbb$$).
 
 
 ## 2.12
-For each of the following 2’s-complement numbers, give the corresponding 8-bit representation of the negative of its value:
+For each of the following 2's-complement numbers, give the corresponding 8-bit representation of the negative of its value:
 
 **(a)** $$01010101.$$
 
@@ -127,7 +127,7 @@ For each of the following 2’s-complement numbers, give the corresponding 8-bit
 
 
 ## 2.13
-Consider a 2’s complement number represented by $$n$$ bits, with the binary point placed between the two most significant bits (*e.g.*, $$b.bb\cdots{b}$$).
+Consider a 2's complement number represented by $$n$$ bits, with the binary point placed between the two most significant bits (*e.g.*, $$b.bb\cdots{b}$$).
 
 **(a)** Give an algebraic expression in terms of $$n$$ for the positive value that has the smallest nonzero magnitude.
 
@@ -171,7 +171,7 @@ If the operands are signed, then does an overflow occur:
 
 
 ## 2.20
-Find the indicated *sum* of the following signed 8-bit 2’s-complement numbers and the indicate which cause an arithmetic overflow to occur:
+Find the indicated *sum* of the following signed 8-bit 2's-complement numbers and the indicate which cause an arithmetic overflow to occur:
 
 **(a)**
 $$
@@ -199,7 +199,7 @@ $$
 
 
 ## 2.21
-Find the indicated *difference* of the following signed 8-bit 2’s-complement numbers and the indicate which cause an arithmetic overflow to occur:
+Find the indicated *difference* of the following signed 8-bit 2's-complement numbers and the indicate which cause an arithmetic overflow to occur:
 
 **(a)**
 $$
@@ -234,11 +234,11 @@ Assume that the C assignment statement “`s=a+b`” has just been executed, whe
 Repeat problem 22 for the C assignment statement “`s=a-b`”.
 
 ## 2.24
-What is the most positive decimal value of a 6-bit 2’s-complement number?
+What is the most positive decimal value of a 6-bit 2's-complement number?
 
 
 ## 2.25
-What is the most negative decimal value of a 6-bit 2’s-complement number?
+What is the most negative decimal value of a 6-bit 2's-complement number?
 
 
 ## 2.26
@@ -262,7 +262,7 @@ Overflow is impossible when subtracting two signed operands of the same sign. [T
 
 
 ## 2.31
-There are two representations of zero in 2’s complement. [T/F]
+There are two representations of zero in 2's complement. [T/F]
 
 
 ## 2.32
@@ -270,6 +270,6 @@ If rollover occurs when incrementing an integer, there is an overflow. [T/F]
 
 
 ## 2.33
-In 2’s complement, the absolute values of full-scale negative and full-scale positive are identical. [T/F]
+In 2's complement, the absolute values of full-scale negative and full-scale positive are identical. [T/F]
 
 <TagLinks />

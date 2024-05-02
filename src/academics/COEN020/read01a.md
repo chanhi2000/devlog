@@ -461,7 +461,7 @@ One inventor even dreamed up an idea, patented in 1992, for a condom with a chip
 
 The upper-middle-class house of Scott Smyers, a vice president at the U.S. Research Laboratories of Sony Electronics in San Jose, Calif., who focuses heavily on embedded microprocessors for consumer electronics, is a good example of a house that has chips the way cats have fleas.
 
-The laundry room in Smyers’ house has a $1,000 Maytag washing machine called the Neptune, which eliminates the exorcist effect that takes hold of most washers when they go out of balance. Before the machine has a chance to spin out of control, its processor senses the abnormal vibration and slows the drum down enough to rearrange the laundry.
+The laundry room in Smyers' house has a $1,000 Maytag washing machine called the Neptune, which eliminates the exorcist effect that takes hold of most washers when they go out of balance. Before the machine has a chance to spin out of control, its processor senses the abnormal vibration and slows the drum down enough to rearrange the laundry.
 
 In Smyers' kitchen, the Thermidor range produces a perfect simmer by turning the flame on and off. If a gust from an open window extinguishes the flame, the stove relights itself.
 

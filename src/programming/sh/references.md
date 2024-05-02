@@ -42,7 +42,7 @@ tag:
 
 ## nixCraft
 
-- [Route 53 Let’s Encrypt wildcard certificate with `acme.sh`](https://www.cyberciti.biz/faq/route-53-lets-encrypt-wildcard-certificate-with-acme-sh/)
+- [Route 53 Let's Encrypt wildcard certificate with `acme.sh`](https://www.cyberciti.biz/faq/route-53-lets-encrypt-wildcard-certificate-with-acme-sh/)
 - [Bash Find Out IF a Variable Contains a Substring](https://www.cyberciti.biz/faq/bash-find-out-if-variable-contains-substring)
 - [How To Use apt-get with IPv4 or IPv6 Transport (address) on a Ubuntu or Debian or Mint Linux](https://www.cyberciti.biz/faq/howto-use-apt-get-with-ipv6-or-ipv4-transport-on-ubuntu-debian)
 
@@ -220,7 +220,7 @@ tag:
 
 ## Arthur O'Dwyer
 
-- [The best engineering interview question I’ve ever gotten, Part 1](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
+- [The best engineering interview question I've ever gotten, Part 1](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
 
 ---
 

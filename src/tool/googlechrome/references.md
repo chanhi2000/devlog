@@ -43,7 +43,7 @@ tag:
 
 ## EFF
 
-- [How To Turn Off Google’s “Privacy Sandbox” Ad Tracking—and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
+- [How To Turn Off Google's “Privacy Sandbox” Ad Tracking—and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
 
 ---
 
@@ -53,7 +53,7 @@ tag:
 
 ---
 
-## Simon Willison’s TILs
+## Simon Willison's TILs
 
 - [Google Chrome `--headless` mode](https://til.simonwillison.net/chrome/headless)
 

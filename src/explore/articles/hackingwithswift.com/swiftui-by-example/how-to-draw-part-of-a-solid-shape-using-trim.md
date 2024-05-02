@@ -69,7 +69,7 @@ Circle()
 
 SwiftUI draws its shapes so that 0 degrees is directly to the right, so if you want to change that so 0 degrees is directly up you should apply a `rotationEffect()` modifier.
 
-For example, this uses a timer to adjust the values being passed into `trim()` so that a rectangle’s stroke grows over time, like a progress indicator:
+For example, this uses a timer to adjust the values being passed into `trim()` so that a rectangle's stroke grows over time, like a progress indicator:
 
 ```swift
 struct ContentView: View {
@@ -107,7 +107,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 {
   "title": "Article(s) > How to display solid shapes",
   "desc": "How to display solid shapes",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-display-solid-shapes.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -117,7 +117,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 {
   "title": "Article(s) > How to clip a view so only part is visible",
   "desc": "How to clip a view so only part is visible",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-clip-a-view-so-only-part-is-visible.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-clip-a-view-so-only-part-is-visible.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -127,7 +127,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 {
   "title": "Article(s) > How to draw a custom path",
   "desc": "How to draw a custom path",
-  "link": "/swift/swiftui-by-example/17-drawing/how-to-draw-a-custom-path.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-custom-path.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -137,7 +137,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 {
   "title": "Article(s) > How to draw a shadow around a view",
   "desc": "How to draw a shadow around a view",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-draw-a-shadow-around-a-view.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-shadow-around-a-view.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -147,7 +147,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 {
   "title": "Article(s) > How to draw images using Image views",
   "desc": "How to draw images using Image views",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-draw-images-using-image-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-images-using-image-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

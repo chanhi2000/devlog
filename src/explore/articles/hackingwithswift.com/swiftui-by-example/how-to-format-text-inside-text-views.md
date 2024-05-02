@@ -55,7 +55,7 @@ head:
 
 **Updated in iOS 15**
 
-SwiftUI’s text views are capable of showing dates, arrays, measurements and more, all through their `format` parameter. However, this is available only in iOS 15, so for iOS 14 and 13 support please see the `formatter` parameter below.
+SwiftUI's text views are capable of showing dates, arrays, measurements and more, all through their `format` parameter. However, this is available only in iOS 15, so for iOS 14 and 13 support please see the `formatter` parameter below.
 
 If you use the `.list()` format type with an array of strings, you can get neatly formatted lists such as “Howard, Josie, and Kingsley”. For example, this will print ingredients lists correctly no matter how many items are added:
 
@@ -106,7 +106,7 @@ struct ContentView: View {
 
 ![The line “4, 3, 2, and 6” above a “Roll Dice” button.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-2~dark.png)
 
-Or if you’re working with measurements such as distance or weight, the `.measurement()` format type will automatically adjust your value for display in the user’s locale. For example, if you were storing values in centimeters internally but the user had a US locale on their device, iOS will automatically display a value in feet or inches depending on the size of the value.
+Or if you're working with measurements such as distance or weight, the `.measurement()` format type will automatically adjust your value for display in the user's locale. For example, if you were storing values in centimeters internally but the user had a US locale on their device, iOS will automatically display a value in feet or inches depending on the size of the value.
 
 ```swift
 struct ContentView: View {
@@ -122,7 +122,7 @@ struct ContentView: View {
 
 ![The text “7.4 feet”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-3~dark.png)
 
-There’s even a formatter for handling currencies correctly, ensuring that two decimal places are shown and also adding the currency symbol as appropriate:
+There's even a formatter for handling currencies correctly, ensuring that two decimal places are shown and also adding the currency symbol as appropriate:
 
 ```swift
 Text(72.3, format: .currency(code: "CAD"))
@@ -132,7 +132,7 @@ Text(72.3, format: .currency(code: "CAD"))
 
 ![The text “CA$72.30”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-4~dark.png)
 
-If you need to support iOS 14 and 13, you can use the `formatter` parameter instead – it still lets us customize the way data is presented inside the text, but it’s not quite as easy to use.
+If you need to support iOS 14 and 13, you can use the `formatter` parameter instead – it still lets us customize the way data is presented inside the text, but it's not quite as easy to use.
 
 For example, this defines a date formatter and uses it to make sure a task date is presented in human-readable form:
 
@@ -164,7 +164,7 @@ The text “Task due date: June 28, 2021”.
 {
   "title": "Article(s) > How to format dates inside text views",
   "desc": "How to format dates inside text views",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-format-dates-inside-text-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-dates-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -174,7 +174,7 @@ The text “Task due date: June 28, 2021”.
 {
   "title": "Article(s) > How to format a TextField for numbers",
   "desc": "How to format a TextField for numbers",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-format-a-textfield-for-numbers.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-a-textfield-for-numbers.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -184,7 +184,7 @@ The text “Task due date: June 28, 2021”.
 {
   "title": "Article(s) > How to force views to one side inside a stack using Spacer",
   "desc": "How to force views to one side inside a stack using Spacer",
-  "link": "/swift/swiftui-by-example/05-stacks-grids-scrollviews/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -194,7 +194,7 @@ The text “Task due date: June 28, 2021”.
 {
   "title": "Article(s) > How to disable the overlay color for images inside Button and NavigationLink",
   "desc": "How to disable the overlay color for images inside Button and NavigationLink",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -204,7 +204,7 @@ The text “Task due date: June 28, 2021”.
 {
   "title": "Article(s) > How to draw a border inside a view",
   "desc": "How to draw a border inside a view",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-draw-a-border-inside-a-view.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-border-inside-a-view.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

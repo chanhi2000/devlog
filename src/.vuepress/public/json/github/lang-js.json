@@ -2239,5 +2239,10 @@
     "desc": "Diffing snapshot utility for Jest",
     "officialSite": "",
     "topics": ["jest", "react", "snapshot", "snapshot-testing"]
+  }, {
+    "repo": "MagicMirrorOrg/MagicMirror",
+    "desc": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+    "officialSite": "http://magicmirror.builders",
+    "topics": ["domotics", "javascript", "magicmirror", "mirror", "raspberry-pi", "smarthome"]
   }
 ]

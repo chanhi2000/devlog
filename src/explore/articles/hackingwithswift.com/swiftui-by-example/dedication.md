@@ -44,7 +44,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tutorial
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example – Dedication",
+  "title": "Dedication | SwiftUI by Example",
   "desc": "Dedication",
   "link": "https://www.hackingwithswift.com/quick-start/swiftui/dedication", 
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -60,15 +60,15 @@ But SwiftUI started _long_ before that as a project from inside the watchOS team
 
 _Four years._
 
-That’s about 1500 days when Apple’s engineers were working hard to build something they knew would revolutionize the way we worked, and would be the fullest expression of what Swift is capable of for UI development. If you think how much work it took to build SwiftUI as we know it today, imagine how much change it’s seen as Swift itself went from 1.0 through to 5.1!
+That's about 1500 days when Apple's engineers were working hard to build something they knew would revolutionize the way we worked, and would be the fullest expression of what Swift is capable of for UI development. If you think how much work it took to build SwiftUI as we know it today, imagine how much change it's seen as Swift itself went from 1.0 through to 5.1!
 
-These engineers weren’t allowed to talk to the public about their work, and even inside Apple only a certain number of people were disclosed on SwiftUI’s existence. In order to make SwiftUI a reality folks from the UIKit team, the Swift team, the Xcode team, the developer publications team, and more, all had to come together in secret to work on our behalf, and even today you won’t find them taking credit for their incredible work.
+These engineers weren't allowed to talk to the public about their work, and even inside Apple only a certain number of people were disclosed on SwiftUI's existence. In order to make SwiftUI a reality folks from the UIKit team, the Swift team, the Xcode team, the developer publications team, and more, all had to come together in secret to work on our behalf, and even today you won't find them taking credit for their incredible work.
 
-The simple truth is that SwiftUI wouldn’t have been possible without the extraordinary efforts of many, many people. I wish I could list them here and thank them personally, but the only ones I can be sure of are the people who had “SwiftUI engineer” as their job title during a WWDC session or were people I spoke to in the labs.
+The simple truth is that SwiftUI wouldn't have been possible without the extraordinary efforts of many, many people. I wish I could list them here and thank them personally, but the only ones I can be sure of are the people who had “SwiftUI engineer” as their job title during a WWDC session or were people I spoke to in the labs.
 
 So, this book is dedicated to Dave Abrahams, Luca Bernardi, Kevin Cathey, Curt Clifton, Nate Cook, Michael Gorbach, John Harper, Taylor Kelly, Kyle Macomber, Natalia Panferova, Raj Ramamurthy, Matt Ricketson, Jacob Xiao, and all the dozens of other folks who worked so hard to make SwiftUI what it is today. We may never know how many more folks from AppKit, UIKit, WatchKit, Xcode, Swift, developer publications, and beyond helped bring SwiftUI to life, but I hope every one of them feels just blown away by the incredibly positive reactions from our community.
 
-I know WWDC can often be quite the “photo finish” where features land only a day or two before the keynote, but you folks pulled it off and we’re very, very grateful.
+I know WWDC can often be quite the “photo finish” where features land only a day or two before the keynote, but you folks pulled it off and we're very, very grateful.
 
 ---
 

@@ -55,9 +55,9 @@ head:
 
 **New in iOS 16**
 
-SwiftUI’s `PhotosPicker` allows users to select videos and bring them into our app, but in my experience it needs to be used in a fairly precise way to avoid problems.
+SwiftUI's `PhotosPicker` allows users to select videos and bring them into our app, but in my experience it needs to be used in a fairly precise way to avoid problems.
 
-I’ll show you the code first, then explain why it takes as much work as it does:
+I'll show you the code first, then explain why it takes as much work as it does:
 
 ```swift
 import AVKit
@@ -129,7 +129,7 @@ struct ContentView: View {
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-import-videos-using-photospicker-1.zip)
 
-Yes, that’s a lot, so let me break it down.
+Yes, that's a lot, so let me break it down.
 
 First, we need to import `AVKit` in order to have access to the `VideoPlayer` view, and we need `PhotosUI` to have access to the `PhotosPicker` view.
 
@@ -139,7 +139,7 @@ Third, importing a movie can take some time, so we need to make sure the user ha
 
 Finally, in the `onChange()` modifier we ask the system to give us a `Movie` instance so we accept the URL and move it into the correct location for our app to use. This also takes care of setting the `loadState` property so our UI stays in sync.
 
-Hopefully Apple can find a way to simplify this API in the future, but until then I’d certainly be keen to hear suggestions to make this code simpler!
+Hopefully Apple can find a way to simplify this API in the future, but until then I'd certainly be keen to hear suggestions to make this code simpler!
 
 ::: details Similar solutions…
 
@@ -147,7 +147,7 @@ Hopefully Apple can find a way to simplify this API in the future, but until the
 {
   "title": "Article(s) > How to let users select pictures using PhotosPicker",
   "desc": "How to let users select pictures using PhotosPicker",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-let-users-select-pictures-using-photospicker.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-pictures-using-photospicker.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -157,7 +157,7 @@ Hopefully Apple can find a way to simplify this API in the future, but until the
 {
   "title": "Article(s) > How to let users share content using the system share sheet",
   "desc": "How to let users share content using the system share sheet",
-  "link": "/swift/swiftui-by-example/07-responding-to-events/how-to-let-users-share-content-using-the-system-share-sheet.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-share-content-using-the-system-share-sheet.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -167,7 +167,7 @@ Hopefully Apple can find a way to simplify this API in the future, but until the
 {
   "title": "Article(s) > How to let users delete rows from a list",
   "desc": "How to let users delete rows from a list",
-  "link": "/swift/swiftui-by-example/10-lists/how-to-let-users-delete-rows-from-a-list.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-delete-rows-from-a-list.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -177,7 +177,7 @@ Hopefully Apple can find a way to simplify this API in the future, but until the
 {
   "title": "Article(s) > How to let users pick options from a menu",
   "desc": "How to let users pick options from a menu",
-  "link": "/swift/swiftui-by-example/14-alerts-and-menus/how-to-let-users-pick-options-from-a-menu.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-pick-options-from-a-menu.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -187,7 +187,7 @@ Hopefully Apple can find a way to simplify this API in the future, but until the
 {
   "title": "Article(s) > How to let users find and replace text",
   "desc": "How to let users find and replace text",
-  "link": "/swift/swiftui-by-example/07-responding-to-events/how-to-let-users-find-and-replace-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-find-and-replace-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

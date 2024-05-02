@@ -33,7 +33,7 @@ tag:
 
 ## Medium
 
-- [`mcdonalds-technical-blog`: Reduce, reuse, recycle: McDonald’s reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
+- [`mcdonalds-technical-blog`: Reduce, reuse, recycle: McDonald's reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
 
 ---
 
@@ -63,7 +63,7 @@ tag:
 
 ---
 
-## Simon Willison’s TILs
+## Simon Willison's TILs
 
 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping)
 

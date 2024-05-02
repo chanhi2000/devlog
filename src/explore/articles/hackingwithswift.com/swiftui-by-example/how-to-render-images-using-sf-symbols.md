@@ -27,6 +27,16 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+```component VPCard
+{
+  "title": "SwiftUI by Example",
+  "desc": "Back to Home",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -43,9 +53,9 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI’s `Image` view lets us load any of the 2400+ icons from SF Symbols, with many of them working in multi-color too.
+SwiftUI's `Image` view lets us load any of the 2400+ icons from SF Symbols, with many of them working in multi-color too.
 
-To load icons from Apple’s SF Symbols set, use the `Image(systemName:)` initializer, passing in the icon string to load, like this:
+To load icons from Apple's SF Symbols set, use the `Image(systemName:)` initializer, passing in the icon string to load, like this:
 
 ```swift
 Image(systemName: "moon.stars.fill")
@@ -66,7 +76,7 @@ Image(systemName: "wind.snow")
 
 ![A large symbol showing a gust of wind blowing snowflakes along.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-2~dark.png)
 
-And it also means you can tint the image using the same `foregroundStyle()` modifier you’ve already seen:
+And it also means you can tint the image using the same `foregroundStyle()` modifier you've already seen:
 
 ```swift
 Image(systemName: "cloud.heavyrain.fill")
@@ -78,7 +88,7 @@ Image(systemName: "cloud.heavyrain.fill")
 
 ![A red symbol showing a cloud dispensing heavy rain.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-3~dark.png)
 
-If you’re using an image that has color elements, you can activate multi-color mode using `.renderingMode(.original)`, like this:
+If you're using an image that has color elements, you can activate multi-color mode using `.renderingMode(.original)`, like this:
 
 ```swift
 Image(systemName: "cloud.sun.rain.fill")
@@ -112,7 +122,7 @@ Image(systemName: "person.crop.circle.fill.badge.plus")
 {
   "title": "Article(s) > How to get custom colors and transparency with SF Symbols",
   "desc": "How to get custom colors and transparency with SF Symbols",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -124,7 +134,7 @@ How to animate SF Symbols
 {
   "title": "Article(s) > How to render a SwiftUI view to a PDF",
   "desc": "How to render a SwiftUI view to a PDF",
-  "link": "/swift/swiftui-by-example/17-drawing/how-to-render-a-swiftui-view-to-a-pdf.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-swiftui-view-to-a-pdf.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -134,7 +144,7 @@ How to animate SF Symbols
 {
   "title": "Article(s) > How to render Markdown content in text",
   "desc": "How to render Markdown content in text",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-render-markdown-content-in-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -144,7 +154,7 @@ How to animate SF Symbols
 {
   "title": "Article(s) > How to render a gradient",
   "desc": "How to render a gradient",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-render-a-gradient.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-gradient.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

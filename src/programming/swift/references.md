@@ -478,13 +478,13 @@ tag:
 
 ## Lunar Skydiving
 
-- [If you’ve created a visionOS app with a volume, you probably did it wrong](https://www.lunarskydiving.com/blog/volume-window-zoom/)
+- [If you've created a visionOS app with a volume, you probably did it wrong](https://www.lunarskydiving.com/blog/volume-window-zoom/)
 
 ---
 
 ## thatvirtualboy
 
-- [You can put your app's paywall in an Alert. But you probably shouldn’t](https://thatvirtualboy.com/paywall-on-alert/)
+- [You can put your app's paywall in an Alert. But you probably shouldn't](https://thatvirtualboy.com/paywall-on-alert/)
 
 ---
 

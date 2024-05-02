@@ -81,7 +81,7 @@ tag:
 
 ## DZone
 
-- [Docker Manifest – A Peek Into Image’s Manifest.json Files](https://dzone.com/articles/docker-manifest-a-peek-into-images-manifestjson-fi)
+- [Docker Manifest – A Peek Into Image's Manifest.json Files](https://dzone.com/articles/docker-manifest-a-peek-into-images-manifestjson-fi)
 
 ---
 

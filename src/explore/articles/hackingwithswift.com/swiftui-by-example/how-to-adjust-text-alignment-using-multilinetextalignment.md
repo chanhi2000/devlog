@@ -53,7 +53,7 @@ head:
 
 > Updated for Xcode 15
 
-When SwiftUI’s `Text` views wrap across multiple lines, they align to their leading edge by default. If you want to change that, use the `multilineTextAlignment()` modifier to specify an alternative, such as `.center`, or `.trailing`.
+When SwiftUI's `Text` views wrap across multiple lines, they align to their leading edge by default. If you want to change that, use the `multilineTextAlignment()` modifier to specify an alternative, such as `.center`, or `.trailing`.
 
 For example, this will center several lines of text as they wrap across lines:
 
@@ -102,7 +102,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to customize stack layouts with alignment and spacing",
   "desc": "How to customize stack layouts with alignment and spacing",
-  "link": "/swift/swiftui-by-example/05-stacks-grids-scrollviews/how-to-customize-stack-layouts-with-alignment-and-spacing.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-stack-layouts-with-alignment-and-spacing.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -112,7 +112,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to adjust the position of a view using its offset",
   "desc": "How to adjust the position of a view using its offset",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-adjust-the-position-of-a-view-using-its-offset.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-position-of-a-view-using-its-offset.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -122,7 +122,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to adjust the opacity of a view",
   "desc": "How to adjust the opacity of a view",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-adjust-the-opacity-of-a-view.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-opacity-of-a-view.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -132,7 +132,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to adjust views by tinting, and desaturating, and more",
   "desc": "How to adjust views by tinting, and desaturating, and more",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-adjust-views-by-tinting-and-desaturating-and-more.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-views-by-tinting-and-desaturating-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -142,7 +142,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to adjust List row separator insets",
   "desc": "How to adjust List row separator insets",
-  "link": "/swift/swiftui-by-example/10-lists/how-to-adjust-list-row-separator-insets.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-list-row-separator-insets.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

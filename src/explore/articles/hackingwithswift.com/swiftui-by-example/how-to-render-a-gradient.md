@@ -57,7 +57,7 @@ head:
 
 SwiftUI gives us a variety of gradient options, all of which can be used in a variety of ways.
 
-If you’re targeting iOS 16 or later, you can get a beautifully simple linear gradient by appending `.gradient` to whatever color you’re using:
+If you're targeting iOS 16 or later, you can get a beautifully simple linear gradient by appending `.gradient` to whatever color you're using:
 
 ```swift
 Rectangle().fill(.blue.gradient)
@@ -65,7 +65,7 @@ Rectangle().fill(.blue.gradient)
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-render-a-gradient-1.zip)
 
-For more advanced gradients, or to support iOS versions prior to 16, you can use one of SwiftUI’s built in gradient types to get exact control. For example, you could render a text view using a white to black linear gradient like this:
+For more advanced gradients, or to support iOS versions prior to 16, you can use one of SwiftUI's built in gradient types to get exact control. For example, you could render a text view using a white to black linear gradient like this:
 
 ```swift
 Text("Hello World")
@@ -162,7 +162,7 @@ Circle()
 {
   "title": "Article(s) > How to render a SwiftUI view to a PDF",
   "desc": "How to render a SwiftUI view to a PDF",
-  "link": "/swift/swiftui-by-example/17-drawing/how-to-render-a-swiftui-view-to-a-pdf.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-swiftui-view-to-a-pdf.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -172,7 +172,7 @@ Circle()
 {
   "title": "Article(s) > How to render images using SF Symbols",
   "desc": "How to render images using SF Symbols",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-render-images-using-sf-symbols.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -182,7 +182,7 @@ Circle()
 {
   "title": "Article(s) > How to render Markdown content in text",
   "desc": "How to render Markdown content in text",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-render-markdown-content-in-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -192,7 +192,7 @@ Circle()
 {
   "title": "Article(s) > How to convert a SwiftUI view to an image",
   "desc": "How to convert a SwiftUI view to an image",
-  "link": "/swift/swiftui-by-example/17-drawing/how-to-convert-a-swiftui-view-to-an-image.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-convert-a-swiftui-view-to-an-image.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -202,7 +202,7 @@ Circle()
 {
   "title": "Article(s) > How to add in-app purchases in SwiftUI",
   "desc": "How to add in-app purchases in SwiftUI",
-  "link": "/swift/swiftui-by-example/14-alerts-and-menus/how-to-add-in-app-purchases-in-swiftui.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-in-app-purchases-in-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

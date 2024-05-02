@@ -19,7 +19,7 @@ tag:
 
 ---
 
-<MyYouTubeItems jsonName="yu-HarveysVE" /><!-- Harvey’s Virtual Environment -->
+<MyYouTubeItems jsonName="yu-HarveysVE" /><!-- Harvey's Virtual Environment -->
 
 ---
 

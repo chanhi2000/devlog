@@ -55,7 +55,7 @@ head:
 
 **New in iOS 15**
 
-If you use SF Symbols in SwiftUI’s `Image` view, you can get simple colors using the `foregroundStyle()` modifier, or enable their multicolor variants by using `.renderingMode(.original)`. However, for extra flexibility over individual parts of the image, you can use the _hierarchical_ variant or provide a completely custom palette.
+If you use SF Symbols in SwiftUI's `Image` view, you can get simple colors using the `foregroundStyle()` modifier, or enable their multicolor variants by using `.renderingMode(.original)`. However, for extra flexibility over individual parts of the image, you can use the _hierarchical_ variant or provide a completely custom palette.
 
 Hierarchical rendering uses opacity to create variations in shade on-screen. For example, this will draw the image in transparency to provide extra depth and clarity:
 
@@ -95,7 +95,7 @@ Image(systemName: "shareplay")
 
 ![The Apple Shareplay symbol showing a blue person icon in front of two black arcs.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-3~dark.png)
 
-How those colors are applied depends on each individual symbol – sometimes symbols are defined with two layers and sometimes three, and you’ll need to explore them individually to see how they break down.
+How those colors are applied depends on each individual symbol – sometimes symbols are defined with two layers and sometimes three, and you'll need to explore them individually to see how they break down.
 
 For symbols that contain three variants, just add an extra color:
 
@@ -135,7 +135,7 @@ How to animate SF Symbols
 {
   "title": "Article(s) > How to render images using SF Symbols",
   "desc": "How to render images using SF Symbols",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-render-images-using-sf-symbols.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -145,7 +145,7 @@ How to animate SF Symbols
 {
   "title": "Article(s) > Polishing designs with fonts and colors",
   "desc": "Polishing designs with fonts and colors",
-  "link": "/swift/swiftui-by-example/01-building-a-complete-project/polishing-designs-with-fonts-and-colors.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/polishing-designs-with-fonts-and-colors.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -155,7 +155,7 @@ How to animate SF Symbols
 {
   "title": "Article(s) > How to load custom colors from an asset catalog",
   "desc": "How to load custom colors from an asset catalog",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-load-custom-colors-from-an-asset-catalog.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -165,7 +165,7 @@ How to animate SF Symbols
 {
   "title": "Article(s) > How to style text views with fonts, colors, line spacing, and more",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

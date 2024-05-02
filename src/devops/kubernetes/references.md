@@ -161,7 +161,7 @@ tag:
 
 ## Paul Butler
 
-- [The hater’s guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
+- [The hater's guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
 
 ---
 

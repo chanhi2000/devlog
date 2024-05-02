@@ -43,7 +43,7 @@ head:
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example – Displaying a detail screen with NavigationLink",
+  "title": "Displaying a detail screen with NavigationLink | SwiftUI by Example",
   "desc": "Displaying a detail screen with NavigationLink",
   "link": "https://hackingwithswift.com/quick-start/swiftui/displaying-a-detail-screen-with-navigationlink",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -57,7 +57,7 @@ head:
 
 When a menu item is tapped, we want to bring in a detail view that shows more information. We already placed `ContentView` inside a navigation stack, so now we can use a new view type called `NavigationLink`. We need to give this a _destination_ – what kind of thing it should show – as well as what to show on-screen for the link.
 
-In practice, this looks like all the other containers we’ve used so far, so let’s try it out with a neat shortcut: although we’re going to be showing a detail view in just a minute, we can use a regular text view as a placeholder.
+In practice, this looks like all the other containers we've used so far, so let's try it out with a neat shortcut: although we're going to be showing a detail view in just a minute, we can use a regular text view as a placeholder.
 
 So, put this directly around the `ItemRow` code in <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift`:
 
@@ -69,9 +69,9 @@ NavigationLink {
 }
 ```
 
-That means the whole row is a navigation link with a destination of the item’s name.
+That means the whole row is a navigation link with a destination of the item's name.
 
-If you run the app now you’ll see two important differences:
+If you run the app now you'll see two important differences:
 
 1. All our rows now have a gray disclosure indicator on their right edge, because SwiftUI gives us the correct behavior by default.
 2. When you tap on any item a new screen will slide in saying the name of whatever item you chose.
@@ -85,7 +85,7 @@ As with `ItemRow`, this needs to have a menu item passed in and stored as a prop
 let item: MenuItem
 ```
 
-We also need to update its preview code to use our example item, so we can see what we’re doing:
+We also need to update its preview code to use our example item, so we can see what we're doing:
 
 ```swift
 static var previews: some View {
@@ -93,9 +93,9 @@ static var previews: some View {
 }
 ```
 
-As with our list rows, we’re going to start off simple and iterate until we get something that works well.
+As with our list rows, we're going to start off simple and iterate until we get something that works well.
 
-First, a simple version of our `ItemDetail` view that has an item’s image and description, plus a title at the top:
+First, a simple version of our `ItemDetail` view that has an item's image and description, plus a title at the top:
 
 ```swift
 struct ItemDetail : View {
@@ -111,7 +111,7 @@ struct ItemDetail : View {
 }
 ```
 
-So that you can start seeing things in action immediately, let’s update our `NavigationLink` in <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift` so that it shows an `ItemDetail` view with the selected item. There are two ways of doing this, with the simplest one just being to place the `ItemDetail` code right where we had `Text(item.name)`, like this:
+So that you can start seeing things in action immediately, let's update our `NavigationLink` in <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift` so that it shows an `ItemDetail` view with the selected item. There are two ways of doing this, with the simplest one just being to place the `ItemDetail` code right where we had `Text(item.name)`, like this:
 
 ```swift
 NavigationLink {
@@ -121,7 +121,7 @@ NavigationLink {
 
 That works, but behind the scenes it causes SwiftUI to do more work than you might think – every time it creates a row in our `List` it will also create the `NavigationLink`, and as part of that it will _also_ create the `ItemDetail` for every visible row.
 
-That’s far from ideal, so SwiftUI gives us a faster, simpler alternative: we can attach any `Hashable` object directly to the `NavigationLink` as its value, then use a `navigationDestination()` modifier to tell SwiftUI “when you’re asked to navigate to a `MenuItem`, load an `ItemDetail` view with that value.
+That's far from ideal, so SwiftUI gives us a faster, simpler alternative: we can attach any `Hashable` object directly to the `NavigationLink` as its value, then use a `navigationDestination()` modifier to tell SwiftUI “when you're asked to navigate to a `MenuItem`, load an `ItemDetail` view with that value.
 
 This takes two steps. First, we need to change the `NavigationLink` code to this:
 
@@ -131,7 +131,7 @@ NavigationLink(value: item) {
 }
 ```
 
-And now we meed to add this modifier to the `List` – before `navigationTitle()` is fine, but it doesn’t really matter:
+And now we meed to add this modifier to the `List` – before `navigationTitle()` is fine, but it doesn't really matter:
 
 ```swift
 .navigationDestination(for: MenuItem.self) { item in
@@ -141,7 +141,7 @@ And now we meed to add this modifier to the `List` – before `navigationTitle()
 
 Now you can run the code as we progress, seeing the detail screen in action.
 
-You won’t see the title at the top because the preview doesn’t know it’s in a navigation stack. To fix that, we can just change the preview like so:
+You won't see the title at the top because the preview doesn't know it's in a navigation stack. To fix that, we can just change the preview like so:
 
 ```swift
 struct ItemDetail_Previews: PreviewProvider {
@@ -153,11 +153,11 @@ struct ItemDetail_Previews: PreviewProvider {
 }
 ```
 
-That doesn’t actually change what our code does at runtime – it’s just the preview that has changed.
+That doesn't actually change what our code does at runtime – it's just the preview that has changed.
 
-You can see that our detail view has some layout issues, so let’s correct them.
+You can see that our detail view has some layout issues, so let's correct them.
 
-First, that navigation bar title shouldn’t be big, because Apple recommends using that style only for top-level screens in a user interface. We can fix that by adding another modifier below `navigationTitle()`, like this:
+First, that navigation bar title shouldn't be big, because Apple recommends using that style only for top-level screens in a user interface. We can fix that by adding another modifier below `navigationTitle()`, like this:
 
 ```swift
 .navigationBarTitleDisplayMode(.inline)
@@ -185,7 +185,7 @@ Spacer()
 
 This is starting to look good, but we also need to find a way to show the name of the person who took the photo of our food. We could put that below the picture or inside an alert, but a better idea is to put _over_ the image, in the bottom-right corner.
 
-You’ve already met horizontal and vertical stacks (`HStack` and `VStack`), but SwiftUI gives us a third option called `ZStack` to handle overlapping views. To use one here, replace our existing image with this:
+You've already met horizontal and vertical stacks (`HStack` and `VStack`), but SwiftUI gives us a third option called `ZStack` to handle overlapping views. To use one here, replace our existing image with this:
 
 ```swift
 ZStack {
@@ -194,7 +194,7 @@ ZStack {
 }
 ```
 
-That creates the image then layers some text on top. Chances are you’ll struggle to see that text, so let’s apply some modifiers to make it clearer:
+That creates the image then layers some text on top. Chances are you'll struggle to see that text, so let's apply some modifiers to make it clearer:
 
 ```swift
 Text("Photo: \(item.photoCredit)")
@@ -206,7 +206,7 @@ Text("Photo: \(item.photoCredit)")
 
 Tip: If you swap the order of the `padding()` and `background()` modifiers the result is different. The order matters!
 
-It’s more visible now, but that just means we can see it doesn’t look great – it shouldn’t really be right over our food!
+It's more visible now, but that just means we can see it doesn't look great – it shouldn't really be right over our food!
 
 To fix that we can add some alignment to our `ZStack` so that the label is in the bottom-right corner:
 
@@ -231,7 +231,7 @@ Nice!
 
 There is one other layout issue, but you might not have noticed it yet depending on your Xcode configuration: some parts of our user interface hang off the screen!
 
-I’ve been using the iPhone 14 Pro Max device for my canvas so far, which works great because it has a huge screen. However, if I change to a small device – e.g. the iPhone SE (go to Product > Destination > iPhone SE (3rd Generation)) – that has a much smaller screen, and now you should see the photo credit area is now running off the right edge of the screen.
+I've been using the iPhone 14 Pro Max device for my canvas so far, which works great because it has a huge screen. However, if I change to a small device – e.g. the iPhone SE (go to Product > Destination > iPhone SE (3rd Generation)) – that has a much smaller screen, and now you should see the photo credit area is now running off the right edge of the screen.
 
 This is happening because SwiftUI displays images at their natural size by default, meaning that they take up the same amount of width and height on screen as they have in pixels. Our main image is too big for the iPhone SE screen, and so rather than squishing it SwiftUI just lets it overflow outside of the screen – the image hangs out, and in doing so allows everything else to grow too.
 
@@ -253,7 +253,7 @@ With that small change, our image will run edge to edge on all iPhone screen siz
 {
   "title": "Article(s) > How to layer views on top of each other using ZStack",
   "desc": "How to layer views on top of each other using ZStack",
-  "link": "/swift/swiftui-by-example/05-stacks-grids-scrollviews/how-to-layer-views-on-top-of-each-other-using-zstack.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-layer-views-on-top-of-each-other-using-zstack.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -263,7 +263,7 @@ With that small change, our image will run edge to edge on all iPhone screen siz
 {
   "title": "Article(s) > How to adjust the position of a view using its offset",
   "desc": "How to adjust the position of a view using its offset",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-adjust-the-position-of-a-view-using-its-offset.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-position-of-a-view-using-its-offset.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -274,7 +274,7 @@ With that small change, our image will run edge to edge on all iPhone screen siz
 ::: details Similar solutions…
 
 How to disable the overlay color for images inside Button and NavigationLink
-How to fix a Form Picker or a NavigationLink that isn’t tappable
+How to fix a Form Picker or a NavigationLink that isn't tappable
 How to use decorative images to reduce screen reader clutter
 How to present a full screen modal view using fullScreenCover()
 How to push a new view when a list row is tapped

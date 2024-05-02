@@ -105,7 +105,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 ```component VPCard
 {
   "title": "Freehand",
-  "desc": "Freehand – The all-in-one collaborative workspace<br/>Unlock your team’s full potential – ideate, plan, execute, and track projects with Freehand",
+  "desc": "Freehand – The all-in-one collaborative workspace<br/>Unlock your team's full potential – ideate, plan, execute, and track projects with Freehand",
   "link": "https://www.invisionapp.com",
   "logo": "https://marketing.invisionapp-cdn.com/www.invisionapp.com/global-assets/search/invision-search-logo.png",
   "background": "rgba(73,10,164,0.2) "

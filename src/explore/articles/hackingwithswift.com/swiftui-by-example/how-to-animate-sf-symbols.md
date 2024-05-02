@@ -129,7 +129,7 @@ struct ContentView: View {
 
 The variable color animation is particularly powerful, because SF Symbols lets you control how the animation displays each layer – `.variableColor.iterative` colors one layer at a time, `.variableColor.cumulative` adds each new layer to the previously colored layers, and you can add `reversing` to either of those to make the animation play forward then backward.
 
-Here’s one larger example that shows off a range of possibilities:
+Here's one larger example that shows off a range of possibilities:
 
 ```swift
 struct ContentView: View {
@@ -181,7 +181,7 @@ struct ContentView: View {
 
 ![A grid of icons that animate in various ways when activated. Some animate their layers individually, some animate their layers cumulatively, and some repeat.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-4~dark.gif)
 
-And finally, if you’re keeping your views the same and are merely changing their content – if you’re switching the icon for a fixed label based on user interaction, for example – then you should use the `contentTransition()` modifier along with one of the options for switching icons.
+And finally, if you're keeping your views the same and are merely changing their content – if you're switching the icon for a fixed label based on user interaction, for example – then you should use the `contentTransition()` modifier along with one of the options for switching icons.
 
 For example, this uses the `.replace` transition to make one icon fade out and another arrive:
 
@@ -215,7 +215,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to get custom colors and transparency with SF Symbols",
   "desc": "How to get custom colors and transparency with SF Symbols",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -225,7 +225,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to render images using SF Symbols",
   "desc": "How to render images using SF Symbols",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-render-images-using-sf-symbols.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -235,7 +235,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to animate the size of text",
   "desc": "How to animate the size of text",
-  "link": "/swift/swiftui-by-example/18-animation/how-to-animate-the-size-of-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-the-size-of-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -245,7 +245,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > How to animate changes in binding values",
   "desc": "How to animate changes in binding values",
-  "link": "/swift/swiftui-by-example/18-animation/how-to-animate-changes-in-binding-values.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-changes-in-binding-values.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -255,7 +255,7 @@ struct ContentView: View {
 {
   "title": "Article(s) > SwiftUI tips and tricks",
   "desc": "SwiftUI tips and tricks",
-  "link": "/swift/swiftui-by-example/24-what-now/swiftui-tips-and-tricks.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

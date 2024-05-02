@@ -43,7 +43,7 @@ head:
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example – Polishing designs with fonts and colors",
+  "title": "Polishing designs with fonts and colors | SwiftUI by Example",
   "desc": "Polishing designs with fonts and colors",
   "link": "https://hackingwithswift.com/quick-start/swiftui/polishing-designs-with-fonts-and-colors",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -55,9 +55,9 @@ head:
 
 <VidStack src="youtube/VlpqnHOur9o" />
 
-We’ll add some more to our design in just a moment, but first let’s pause and make what we have look better.
+We'll add some more to our design in just a moment, but first let's pause and make what we have look better.
 
-In <FontIcon icon="fa-brands fa-swift"/>`ItemRow.swift`, our menu item’s name is clearly the most important thing in each row, but it has the same font size as the price below. We can bring it up in size and weight by using the `font()` modifier, which accepts any of Apple’s Dynamic Type sizes.
+In <FontIcon icon="fa-brands fa-swift"/>`ItemRow.swift`, our menu item's name is clearly the most important thing in each row, but it has the same font size as the price below. We can bring it up in size and weight by using the `font()` modifier, which accepts any of Apple's Dynamic Type sizes.
 
 So, something like this will make it stand out:
 
@@ -81,11 +81,11 @@ Image(item.thumbnailImage)
     .overlay(Circle().stroke(.gray, lineWidth: 2))
 ```
 
-OK, that’s enough styling – let’s look at something more _complex_.
+OK, that's enough styling – let's look at something more _complex_.
 
-If you look in menu.json you’ll see that each menu item has a string array of restrictions: “G” for containing gluten, “N” for containing nuts, “V” for being vegetarian friendly, and so on. We can use that to create colored icons representing what’s in the food at a glance, showing zero or more of them in each row as appropriate.
+If you look in menu.json you'll see that each menu item has a string array of restrictions: “G” for containing gluten, “N” for containing nuts, “V” for being vegetarian friendly, and so on. We can use that to create colored icons representing what's in the food at a glance, showing zero or more of them in each row as appropriate.
 
-First, we need a dictionary of colors that we’ll use for each restriction type. Add this property to `ItemRow`:
+First, we need a dictionary of colors that we'll use for each restriction type. Add this property to `ItemRow`:
 
 ```swift
 let colors: [String: Color] = ["D": .purple, "G": .black, "N": .red, "S": .blue, "V": .green]
@@ -99,9 +99,9 @@ ForEach(item.restrictions) { restriction in
 }
 ```
 
-Now we have a problem: that code won’t compile. As I mentioned earlier, we can put arrays into a `ForEach` as long as SwiftUI knows how to identify each item in the array uniquely. We solved that by making our sections and items conform to the `Identifiable` protocol, which uses the `id` property to identify items.
+Now we have a problem: that code won't compile. As I mentioned earlier, we can put arrays into a `ForEach` as long as SwiftUI knows how to identify each item in the array uniquely. We solved that by making our sections and items conform to the `Identifiable` protocol, which uses the `id` property to identify items.
 
-Here, though, we have an array of strings, so we can’t make them conform to `Identifiable`. Instead, we need something else: we need to tell Swift that the string _itself_ is the identifier for each item. This can be done using the `id` parameter for `ForEach`, passing in `\.self` as its only parameter, like this:
+Here, though, we have an array of strings, so we can't make them conform to `Identifiable`. Instead, we need something else: we need to tell Swift that the string _itself_ is the identifier for each item. This can be done using the `id` parameter for `ForEach`, passing in `\.self` as its only parameter, like this:
 
 ```swift
 ForEach(item.restrictions, id: \.self) { restriction in
@@ -111,7 +111,7 @@ ForEach(item.restrictions, id: \.self) { restriction in
 
 And now you should see the text “G” and “V” next to our example item in the Xcode preview.
 
-That’s pretty dull, though, so let’s spice it up with some modifiers:
+That's pretty dull, though, so let's spice it up with some modifiers:
 
 ```swift
 Text(restriction)
@@ -123,11 +123,11 @@ Text(restriction)
     .foregroundStyle(.white)
 ```
 
-That will use a small, bold font with white text and a colored background, add a circular clipping shape, and add a little space around it so the text circles aren’t so near.
+That will use a small, bold font with white text and a colored background, add a circular clipping shape, and add a little space around it so the text circles aren't so near.
 
 ![A SwiftUI list row, showing a food photo, its name, and price, along with circles showing what food restrictions it has.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-8~dark.png)
 
-We’re going to do one more thing before we’re done with the design of this item row: we’re going to force the restriction text to be spaced apart from the rest of the row. SwiftUI has a dedicated view for this called `Spacer`, and I’d like you to place it just before the `ForEach` for our restrictions, like this:
+We're going to do one more thing before we're done with the design of this item row: we're going to force the restriction text to be spaced apart from the rest of the row. SwiftUI has a dedicated view for this called `Spacer`, and I'd like you to place it just before the `ForEach` for our restrictions, like this:
 
 ```swift
 Spacer()
@@ -137,7 +137,7 @@ ForEach(item.restrictions, id: \.self) {
 
 That will automatically take up all available free space, meaning that our picture will now be on the far left and the restrictions on the far right.
 
-Go ahead and run the project now and I think you’ll agree it looks great! Now think about how you might have accomplished all that using a `UITableViewCell` – it would take more code than you expect!
+Go ahead and run the project now and I think you'll agree it looks great! Now think about how you might have accomplished all that using a `UITableViewCell` – it would take more code than you expect!
 
 ::: details Further reading
 
@@ -145,7 +145,7 @@ Go ahead and run the project now and I think you’ll agree it looks great! Now 
 {
   "title": "Article(s) > How to style text views with fonts, colors, line spacing, and more",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -155,7 +155,7 @@ Go ahead and run the project now and I think you’ll agree it looks great! Now 
 {
   "title": "Article(s) > How to clip a view so only part is visible",
   "desc": "How to clip a view so only part is visible",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-clip-a-view-so-only-part-is-visible.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-clip-a-view-so-only-part-is-visible.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -165,7 +165,7 @@ Go ahead and run the project now and I think you’ll agree it looks great! Now 
 {
   "title": "Article(s) > How to force views to one side inside a stack using Spacer",
   "desc": "How to force views to one side inside a stack using Spacer",
-  "link": "/swift/swiftui-by-example/05-stacks-grids-srollviews/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

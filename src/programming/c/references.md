@@ -82,7 +82,7 @@ tag:
 
 ---
 
-## Arthur O’Dwyer
+## Arthur O'Dwyer
 
 - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr)
 - [Default function arguments are the devil](https://quuxplusone.github.io/blog/2020/04/18/default-function-arguments-are-the-devil)
@@ -104,7 +104,7 @@ tag:
 
 ## Digital Mars
 
-- [C’s Biggest Mistake](https://www.digitalmars.com/articles/C-biggest-mistake.html)
+- [C's Biggest Mistake](https://www.digitalmars.com/articles/C-biggest-mistake.html)
 
 ---
 

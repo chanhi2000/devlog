@@ -73,7 +73,7 @@ tag:
 - [Front-end challenges](https://piccalil.li/category/front-end-challenges-club)
 - [Mastering CSS Blend Modes](https://www.kodingkitty.com/blog/blend-modes)
 - [CSS Selectors: A Visual Guide](https://fffuel.co/css-selectors)
-- [THE IDEAL VIEWPORT DOESN’T EXIST](https://viewports.fyi)
+- [THE IDEAL VIEWPORT DOESN'T EXIST](https://viewports.fyi)
 
 ---
 
@@ -188,7 +188,7 @@ tag:
 
 ## Eric Bailey
 
-- [Don’t use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars)
+- [Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars)
 
 ---
 

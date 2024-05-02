@@ -2435,9 +2435,9 @@
     "topics": []
   }, {
     "repo": "TracecatHQ/tracecat",
-    "desc": "😼 The AI-native, open source alternative to Tines / Splunk SOAR.",
+    "desc": "😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.",
     "officialSite": "https://tracecat.com",
-    "topics": ["automation", "genai", "llm-security", "openapi", "security"]
+    "topics": ["automation", "cybersecurity", "event-driven", "fastapi", "monitoring", "nextjs", "openapi", "pydantic", "security", "workflow-engine", "zod"]
   }, {
     "repo": "divriots/jampack",
     "desc": "Optimizes static websites for best user experience and best Core Web Vitals scores.",
@@ -2723,5 +2723,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Dokploy/dokploy",
+    "desc": "Open Source Alternative to Vercel, Netlify and Heroku.",
+    "officialSite": "https://dokploy.com/",
+    "topics": ["backend", "backups", "databases", "deployment", "devops", "docker", "frontend", "mariadb", "mongodb", "mysql", "nextjs", "postgresql", "self-hosted", "vps"]
   }
 ]

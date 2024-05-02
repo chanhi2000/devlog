@@ -53,9 +53,9 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI lets us mark text as a placeholder in our view, meaning that it gets rendered but masked out with gray to show it isn’t final content. This is provided through the `redacted(reason:)` modifier, along with an `unredacted()` modifier you can use to override redaction as needed.
+SwiftUI lets us mark text as a placeholder in our view, meaning that it gets rendered but masked out with gray to show it isn't final content. This is provided through the `redacted(reason:)` modifier, along with an `unredacted()` modifier you can use to override redaction as needed.
 
-Here’s how it looks in code:
+Here's how it looks in code:
 
 ```swift
 Text("This is placeholder text")
@@ -84,7 +84,7 @@ VStack {
 
 Two gray rectangles representing two lines of redacted text.
 
-Apple has said that redaction is an additive process, meaning that if you add redaction reasons to both a parent and a child then they will combine. Right now there’s only `.placeholder`, but perhaps we’ll see pixellation or similar in the future?
+Apple has said that redaction is an additive process, meaning that if you add redaction reasons to both a parent and a child then they will combine. Right now there's only `.placeholder`, but perhaps we'll see pixellation or similar in the future?
 
 You can also query any redaction reasons passed in from the environment like this:
 
@@ -123,7 +123,7 @@ Redaction also works on images using the same code as shown above.
 {
   "title": "Article(s) > How to mark content as private using privacySensitive()",
   "desc": "How to mark content as private using privacySensitive()",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-mark-content-as-private-using-privacysensitive.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-private-using-privacysensitive.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -133,7 +133,7 @@ Redaction also works on images using the same code as shown above.
 {
   "title": "Article(s) > How to add a placeholder to a TextField",
   "desc": "How to add a placeholder to a TextField",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-add-a-placeholder-to-a-textfield.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-placeholder-to-a-textfield.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -143,7 +143,7 @@ Redaction also works on images using the same code as shown above.
 {
   "title": "Article(s) > How to create modifiers for a UIViewRepresentable struct",
   "desc": "How to create modifiers for a UIViewRepresentable struct",
-  "link": "/swift/swiftui-by-example/19-composing-view/how-to-create-modifiers-for-a-uiviewrepresentable-struct.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-modifiers-for-a-uiviewrepresentable-struct.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -153,7 +153,7 @@ Redaction also works on images using the same code as shown above.
 {
   "title": "Article(s) > How to render Markdown content in text",
   "desc": "How to render Markdown content in text",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-render-markdown-content-in-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -163,7 +163,7 @@ Redaction also works on images using the same code as shown above.
 {
   "title": "Article(s) > How to create scrolling pages of content using tabViewStyle()",
   "desc": "How to create scrolling pages of content using tabViewStyle()",
-  "link": "/swift/swiftui-by-example/12-containers/how-to-create-scrolling-pages-of-content-using-tabviewstyle.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-scrolling-pages-of-content-using-tabviewstyle.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

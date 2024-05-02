@@ -179,7 +179,7 @@ test the car:
 
 ---
 
-## This job is stuck because you don’t have any active runners that can run this job. Go to Runners page.
+## This job is stuck because you don't have any active runners that can run this job. Go to Runners page.
 
 If you use the shared runners from GitLab.com, this will get fixed automatically after a while. Depending on the load, the job might wait a bit.
 
@@ -207,7 +207,7 @@ The first step in resolving this issue is understanding which Docker image is be
 
 ![Job failing with the error: npm: command not found.](/images/gitlab/troubleshooting/job-failing-w-the-rorror-npm-command-not-found.png)
 
-If you don’t specify a Docker image for your job, the GitLab runner executing your job will use the default image, in this case: `ruby:2.5` . The problem with this is that this Docker container does not have `node` and `npm` installed, and this is why the job is failing.
+If you don't specify a Docker image for your job, the GitLab runner executing your job will use the default image, in this case: `ruby:2.5` . The problem with this is that this Docker container does not have `node` and `npm` installed, and this is why the job is failing.
 
 The easiest solution is to use a Docker image that already has the tools you need, like `node`.
 

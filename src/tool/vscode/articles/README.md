@@ -46,8 +46,8 @@ head:
 
 ```component VPCard
 {
-  "title": "개발자에게 ‘코드 스타일’ 왜 중요할까? | 요즘IT",
-  "desc": "개발자에게 ‘코드 스타일’ 왜 중요할까?",
+  "title": "개발자에게 '코드 스타일' 왜 중요할까? | 요즘IT",
+  "desc": "개발자에게 '코드 스타일' 왜 중요할까?",
   "link": "/explore/articles/yozm.wishket.com/2499.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"

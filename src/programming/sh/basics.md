@@ -512,7 +512,7 @@ fg 1
 ## Quickly jump to frequently-used directories
 
 ```sh
-CDPATH=’.:~:/usr/local/apache/htdocs:/disk1/backups’
+CDPATH='.:~:/usr/local/apache/htdocs:/disk1/backups'
 export CDPATH
 ```
 

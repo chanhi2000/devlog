@@ -79,7 +79,7 @@ Circle()
 
 ![A blue circle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-display-solid-shapes-2~dark.png)
 
-There’s a dedicated shape for rounded rectangles, allowing you to customize how much rounding should be applied, as well as having complete control over the type of rounding. For example, this creates a rounded rectangle with 25 points of rounding on each corner:
+There's a dedicated shape for rounded rectangles, allowing you to customize how much rounding should be applied, as well as having complete control over the type of rounding. For example, this creates a rounded rectangle with 25 points of rounding on each corner:
 
 ```swift
 RoundedRectangle(cornerRadius: 25)
@@ -109,7 +109,7 @@ Capsule()
 {
   "title": "Article(s) > How to draw part of a solid shape using trim()",
   "desc": "How to draw part of a solid shape using trim()",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-draw-part-of-a-solid-shape-using-trim.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-part-of-a-solid-shape-using-trim.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -121,7 +121,7 @@ How to combine shapes to create new shapes
 {
   "title": "Article(s) > How to display a bottom sheet",
   "desc": "How to display a bottom sheet",
-  "link": "/swift/swiftui-by-example/15-presenting-views/how-to-display-a-bottom-sheet.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-a-bottom-sheet.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -131,7 +131,7 @@ How to combine shapes to create new shapes
 {
   "title": "Article(s) > How to customize the display mode of NavigationSplitView",
   "desc": "How to customize the display mode of NavigationSplitView",
-  "link": "/swift/swiftui-by-example/13-navigation/how-to-customize-the-display-mode-of-navigationsplitview.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-display-mode-of-navigationsplitview.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -139,9 +139,9 @@ How to combine shapes to create new shapes
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI’s built-in shapes",
-  "desc": "SwiftUI’s built-in shapes",
-  "link": "/swift/swiftui-by-example/17-drawing/swiftuis-built-in-shapes.md",
+  "title": "Article(s) > SwiftUI's built-in shapes",
+  "desc": "SwiftUI's built-in shapes",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-in-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

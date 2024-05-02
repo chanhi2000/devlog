@@ -53,7 +53,7 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI’s `Text` view is able to render more advanced strings created using Foundation’s `AttributedString` struct, including adding underlines, strikethrough, web links, background colors, and more. Sadly, it has a rather bafflingly opaque API so I want to show you a whole bunch of examples to help get you started.
+SwiftUI's `Text` view is able to render more advanced strings created using Foundation's `AttributedString` struct, including adding underlines, strikethrough, web links, background colors, and more. Sadly, it has a rather bafflingly opaque API so I want to show you a whole bunch of examples to help get you started.
 
 We can create an `AttributedString` with common properties such as font, background color, and foreground color:
 
@@ -105,7 +105,7 @@ struct ContentView: View {
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-2.zip)
 
-If you try that using `Text` and `background()` modifiers, you’ll see that it just doesn’t work.
+If you try that using `Text` and `background()` modifiers, you'll see that it just doesn't work.
 
 There are a handful attributes we can customize, including underline pattern and color:
 
@@ -173,7 +173,7 @@ struct ContentView: View {
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-5.zip)
 
-However, the _really_ powerful feature of `AttributedString` is that it doesn’t throw away all the metadata we provide it about our strings, which unlocks a huge amount of extra functionality.
+However, the _really_ powerful feature of `AttributedString` is that it doesn't throw away all the metadata we provide it about our strings, which unlocks a huge amount of extra functionality.
 
 For example, we can mark part of the string as needing to be spelled out for accessibility reasons, so that things like passwords are read out correctly when using VoiceOver:
 
@@ -220,7 +220,7 @@ struct ContentView: View {
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-7.zip)
 
-Notice how that code has no idea where the weekday actually appears in the text – it’s language and locale independent, so it will be styled correctly for everyone.
+Notice how that code has no idea where the weekday actually appears in the text – it's language and locale independent, so it will be styled correctly for everyone.
 
 The same is true of working with the names of people using `PersonNameComponents` – this makes an `AttributedString` instance where the family name of someone is bold:
 
@@ -271,11 +271,11 @@ struct ContentView: View {
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-9.zip)
 
-As a bonus, that will automatically honor the user’s locale preference for distance, meaning that many users will see “124 miles” rather than “200 kilometers”.
+As a bonus, that will automatically honor the user's locale preference for distance, meaning that many users will see “124 miles” rather than “200 kilometers”.
 
 ::: warning
 
-If you explore the API using Xcode’s autocomplete, you’ll see all sorts of options that look like they ought to work but in fact do nothing at all.
+If you explore the API using Xcode's autocomplete, you'll see all sorts of options that look like they ought to work but in fact do nothing at all.
 
 :::
 
@@ -285,7 +285,7 @@ If you explore the API using Xcode’s autocomplete, you’ll see all sorts of o
 {
   "title": "Article(s) > How to stack modifiers to create more advanced effects",
   "desc": "How to stack modifiers to create more advanced effects",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-stack-modifiers-to-create-more-advanced-effects.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-stack-modifiers-to-create-more-advanced-effects.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -295,7 +295,7 @@ If you explore the API using Xcode’s autocomplete, you’ll see all sorts of o
 {
   "title": "Article(s) > How to format text inside text views",
   "desc": "How to format text inside text views",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-format-text-inside-text-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -305,7 +305,7 @@ If you explore the API using Xcode’s autocomplete, you’ll see all sorts of o
 {
   "title": "Article(s) > How to add spacing between letters in text",
   "desc": "How to add spacing between letters in text",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-add-spacing-between-letters-in-text.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-spacing-between-letters-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -315,7 +315,7 @@ If you explore the API using Xcode’s autocomplete, you’ll see all sorts of o
 {
   "title": "Article(s) > How to align form text and controls neatly with LabeledContent",
   "desc": "How to align form text and controls neatly with LabeledContent",
-  "link": "/swift/swiftui-by-example/11-forms/how-to-align-form-text-and-controls-neatly-with-labeledcontent.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-align-form-text-and-controls-neatly-with-labeledcontent.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -325,7 +325,7 @@ If you explore the API using Xcode’s autocomplete, you’ll see all sorts of o
 {
   "title": "Article(s) > How to style text views with fonts, colors, line spacing, and more",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

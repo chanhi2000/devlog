@@ -53,9 +53,9 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI’s text views come with two specific date formatters to make dates look better on screen: one to handle single dates, and one to handle date ranges.
+SwiftUI's text views come with two specific date formatters to make dates look better on screen: one to handle single dates, and one to handle date ranges.
 
-The date range version is actually simpler, because you just provide a closed date range and it will make sure it’s formatted appropriately according to the user’s locale:
+The date range version is actually simpler, because you just provide a closed date range and it will make sure it's formatted appropriately according to the user's locale:
 
 ```swift
 Text(Date.now...Date.now.addingTimeInterval(600))
@@ -95,7 +95,7 @@ VStack {
 {
   "title": "Article(s) > How to format text inside text views",
   "desc": "How to format text inside text views",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-format-text-inside-text-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -105,7 +105,7 @@ VStack {
 {
   "title": "Article(s) > How to let the user select multiple dates",
   "desc": "How to let the user select multiple dates",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-let-the-user-select-multiple-dates.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-the-user-select-multiple-dates.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -115,7 +115,7 @@ VStack {
 {
   "title": "Article(s) > How to format a TextField for numbers",
   "desc": "How to format a TextField for numbers",
-  "link": "/swift/swiftui-by-example/06-user-interface-controls/how-to-format-a-textfield-for-numbers.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-a-textfield-for-numbers.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -125,7 +125,7 @@ VStack {
 {
   "title": "Article(s) > How to force views to one side inside a stack using Spacer",
   "desc": "How to force views to one side inside a stack using Spacer",
-  "link": "/swift/swiftui-by-example/05-stacks-grids-scrollviews/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -135,7 +135,7 @@ VStack {
 {
   "title": "Article(s) > How to draw a border inside a view",
   "desc": "How to draw a border inside a view",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-draw-a-border-inside-a-view.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-border-inside-a-view.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

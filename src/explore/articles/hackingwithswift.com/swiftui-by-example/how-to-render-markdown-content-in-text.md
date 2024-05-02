@@ -55,7 +55,7 @@ head:
 
 **New in iOS 15**
 
-SwiftUI has built-in support for rendering Markdown, including bold, italic, links, and more. It’s literally built right into SwiftUI’s `Text` view, so you can write code like this:
+SwiftUI has built-in support for rendering Markdown, including bold, italic, links, and more. It's literally built right into SwiftUI's `Text` view, so you can write code like this:
 
 ```swift
 VStack {
@@ -71,7 +71,7 @@ VStack {
 
 Several lines of text appropriately formatted with Markdown styling.
 
-And yes, that link is automatically tappable. Markdown links will use your app’s accent color by default, but you can change that using the `tint()` modifier:
+And yes, that link is automatically tappable. Markdown links will use your app's accent color by default, but you can change that using the `tint()` modifier:
 
 ```swift
 Text("Visit Apple: [click here](https://apple.com)")
@@ -82,7 +82,7 @@ Text("Visit Apple: [click here](https://apple.com)")
 
 ::: note
 
-Images aren’t supported.
+Images aren't supported.
 
 :::
 
@@ -108,7 +108,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 {
   "title": "Article(s) > How to render a SwiftUI view to a PDF",
   "desc": "How to render a SwiftUI view to a PDF",
-  "link": "/swift/swiftui-by-example/17-drawing/how-to-render-a-swiftui-view-to-a-pdf.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-swiftui-view-to-a-pdf.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -118,7 +118,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 {
   "title": "Article(s) > How to render a gradient",
   "desc": "How to render a gradient",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-render-a-gradient.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-gradient.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -128,7 +128,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 {
   "title": "Article(s) > How to render images using SF Symbols",
   "desc": "How to render images using SF Symbols",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-render-images-using-sf-symbols.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -138,7 +138,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 {
   "title": "Article(s) > How to format text inside text views",
   "desc": "How to format text inside text views",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-format-text-inside-text-views.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -148,7 +148,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 {
   "title": "Article(s) > How to create scrolling pages of content using tabViewStyle()",
   "desc": "How to create scrolling pages of content using tabViewStyle()",
-  "link": "/swift/swiftui-by-example/12-containers/how-to-create-scrolling-pages-of-content-using-tabviewstyle.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-scrolling-pages-of-content-using-tabviewstyle.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

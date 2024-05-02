@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: How to adjust the way an image is fitted to its space
-description: SwiftUI by Example > How to adjust the way an image is fitted to its space
+description: Article(s) > How to adjust the way an image is fitted to its space
 category:
   - Swift
   - SwiftUI
@@ -18,7 +18,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: SwiftUI by Example > How to adjust the way an image is fitted to its space
+      content: Article(s) > How to adjust the way an image is fitted to its space
     - property: og:description
       content: How to adjust the way an image is fitted to its space
     - property: og:url
@@ -43,7 +43,7 @@ head:
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to adjust the way an image is fitted to its space",
+  "title": "How to adjust the way an image is fitted to its space | SwiftUI by Example",
   "desc": "How to adjust the way an image is fitted to its space",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -53,7 +53,7 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI’s `Image` view has the ability to be scaled in different ways, just like the content mode of a `UIImageView`.
+SwiftUI's `Image` view has the ability to be scaled in different ways, just like the content mode of a `UIImageView`.
 
 By default, image views automatically size themselves to their contents, which might make them go beyond the screen. If you add the `resizable()` modifier then the image will instead automatically be sized so that it fills all the available space, either in a frame you specify or whatever is available on the screen:
 
@@ -86,9 +86,9 @@ Image("rome")
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to dynamically adjust the appearance of a view based on its size and location",
+  "title": "How to dynamically adjust the appearance of a view based on its size and location | SwiftUI by Example",
   "desc": "How to dynamically adjust the appearance of a view based on its size and location",
-  "link": "/swift/swiftui-by-example/04-view-layout/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -96,9 +96,9 @@ Image("rome")
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to adjust the position of a view using its offset",
+  "title": "How to adjust the position of a view using its offset | SwiftUI by Example",
   "desc": "How to adjust the position of a view using its offset",
-  "link": "/swift/swiftui-by-example/16-transforming-views/how-to-adjust-the-position-of-a-view-using-its-offset.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-position-of-a-view-using-its-offset.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -106,9 +106,9 @@ Image("rome")
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to adjust the size of a view relative to its container",
+  "title": "How to adjust the size of a view relative to its container | SwiftUI by Example",
   "desc": "How to adjust the size of a view relative to its container",
-  "link": "/swift/swiftui-by-example/04-view-layout/how-to-adjust-the-size-of-a-view-relative-to-its-containe",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-size-of-a-view-relative-to-its-containe",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -116,9 +116,9 @@ Image("rome")
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > Two-way bindings in SwiftUI",
+  "title": "Two-way bindings in SwiftUI | SwiftUI by Example",
   "desc": "Two-way bindings in SwiftUI",
-  "link": "/swift/swiftui-by-example/01-building-a-complete-project/two-way-bindings-in-swiftui.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -126,9 +126,9 @@ Image("rome")
 
 ```component VPCard
 {
-  "title": "SwiftUI by Example > How to customize the way links are opened",
+  "title": "How to customize the way links are opened | SwiftUI by Example",
   "desc": "How to customize the way links are opened",
-  "link": "/swift/swiftui-by-example/02-working-with-static-text/how-to-customize-the-way-links-are-opened.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-way-links-are-opened.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

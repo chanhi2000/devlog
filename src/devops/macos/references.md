@@ -107,7 +107,7 @@ tag:
 
 ## Fingerprint
 
-- [Demo: Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force)
+- [Demo: Brute-forcing a macOS user's real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force)
 
 ---
 
@@ -167,7 +167,7 @@ tag:
 
 ## Texts.blog
 
-- [Cracking Meta’s Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
+- [Cracking Meta's Messenger Certificate Pinning on macOS](https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/)
 
 ---
 

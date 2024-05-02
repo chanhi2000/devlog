@@ -30,7 +30,7 @@ tag:
 
 ## Pdf
 
-- [Sampling: What Nyquist Didn’t Say, and What to Do About It](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
+- [Sampling: What Nyquist Didn't Say, and What to Do About It](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
 - [Projective Geometric Algebra](https://projectivegeometricalgebra.org/projgeomalg.pdf)
 - [Conformal Geometric Algebra](https://projectivegeometricalgebra.org/confgeomalg.pdf)
 - [The Quintic, the Icosahedron, and Elliptic Curves](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
@@ -187,8 +187,8 @@ tag:
 
 ## Quanta Magazine
 
-- [Inside the Proton, the ‘Most Complicated Thing You Could Possibly Imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-- [Elliptic Curve ‘Murmurations’ Found With AI Take Flight](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)
+- [Inside the Proton, the 'Most Complicated Thing You Could Possibly Imagine'](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- [Elliptic Curve 'Murmurations' Found With AI Take Flight](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)
 
 ---
 

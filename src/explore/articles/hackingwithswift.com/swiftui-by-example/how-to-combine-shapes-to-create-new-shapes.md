@@ -55,7 +55,7 @@ head:
 
 **New in iOS 17**
 
-All of SwiftUI’s shapes can be combined in various ways to create new shapes, including union (a filled region merging both shapes), intersection (a filled region containing regions common in both shapes), line intersection (returns the line of one shape overlaps the fill of another), and more.
+All of SwiftUI's shapes can be combined in various ways to create new shapes, including union (a filled region merging both shapes), intersection (a filled region containing regions common in both shapes), line intersection (returns the line of one shape overlaps the fill of another), and more.
 
 For example, this combines a circle with a capsule inset by 100 points, then fills the result blue:
 
@@ -69,9 +69,9 @@ Circle()
 
 ![A circle and capsule shape combined together, then filled as one.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes-1~dark.png)
 
-The advantage to having a single shape is that the result blends well when you add opacity – you’re not rendering two overlapping shapes individually, but combining them both into a single shape and rendering that.
+The advantage to having a single shape is that the result blends well when you add opacity – you're not rendering two overlapping shapes individually, but combining them both into a single shape and rendering that.
 
-Similarly, we could use `lineSubtraction()` to cut a rectangle’s shape away from a circle, then stroke the remainder with a rounded cap:
+Similarly, we could use `lineSubtraction()` to cut a rectangle's shape away from a circle, then stroke the remainder with a rounded cap:
 
 ```swift
 Circle()
@@ -104,7 +104,7 @@ Circle()
 {
   "title": "Article(s) > How to combine text views together",
   "desc": "How to combine text views together",
-  "link": "/swift/swiftui-by-example/19-composing-view/how-to-combine-text-views-together.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-text-views-together.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -114,7 +114,7 @@ Circle()
 {
   "title": "Article(s) > How to combine transitions",
   "desc": "How to combine transitions",
-  "link": "/swift/swiftui-by-example/18-animation/how-to-combine-transitions.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-transitions.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -122,9 +122,9 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI’s built-in shapes",
-  "desc": "SwiftUI’s built-in shapes",
-  "link": "/swift/swiftui-by-example/17-drawing/swiftuis-built-in-shapes.md",
+  "title": "Article(s) > SwiftUI's built-in shapes",
+  "desc": "SwiftUI's built-in shapes",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-in-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -134,7 +134,7 @@ Circle()
 {
   "title": "Article(s) > How to fill and stroke shapes at the same time",
   "desc": "How to fill and stroke shapes at the same time",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-fill-and-stroke-shapes-at-the-same-time.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fill-and-stroke-shapes-at-the-same-time.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -144,7 +144,7 @@ Circle()
 {
   "title": "Article(s) > How to display solid shapes",
   "desc": "How to display solid shapes",
-  "link": "/swift/swiftui-by-example/03-images-shapes-and-media/how-to-display-solid-shapes.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

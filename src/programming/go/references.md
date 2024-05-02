@@ -35,7 +35,7 @@ tag:
 ## Medium
 
 - [How Go fixed everything that was wrong with programming](https://medium.com/@jankammerath/how-go-fixed-everything-that-was-wrong-with-programming-1b599a1055a8)
-- [Stop Using DTOs in Go, It’s Not Java](https://dsysd-dev.medium.com/stop-using-dtos-in-go-its-not-java-96ef4794481a)
+- [Stop Using DTOs in Go, It's Not Java](https://dsysd-dev.medium.com/stop-using-dtos-in-go-its-not-java-96ef4794481a)
 - [Machine Coding Interview: Efficient Cache Implementation using time-based expiry and eviction](https://dsysd-dev.medium.com/machine-coding-interview-efficient-cache-implementation-using-time-based-expiry-and-eviction-925165a92831)
 - [Message Queue for Publisher/Subscriber (pub/sub) Scenarios with Go Practice](https://medium.com/@lordmoma/message-queue-for-publisher-subscriber-pub-sub-scenarios-with-go-practice-3ecc61b1b12)
 - [Parallelism and Concurrency in Go: How It Works in Real Computing Systems. Part 1.](https://medium.com/@ninucium/parallelism-and-concurrency-in-go-how-it-works-in-real-computing-systems-part-1-a680443ad8bd)

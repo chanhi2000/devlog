@@ -40,7 +40,7 @@ tag:
 
 - [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579)
 - [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440)
-- [‘Gradle Kotlin DSL’ 이야기](https://techblog.woowahan.com/2625)
+- ['Gradle Kotlin DSL' 이야기](https://techblog.woowahan.com/2625)
 - [Cucumber + Appium을 통해 Android 앱 테스트](https://techblog.woowahan.com/2658)
 
 ---
@@ -115,7 +115,7 @@ tag:
 
 ### Android Developers Blog
 
-- [How to effectively A/B test power consumption for your Android app’s features](https://android-developers.googleblog.com/2024/04/how-to-effectively-ab-test-power-consumption-for-your-android-app-features.html)
+- [How to effectively A/B test power consumption for your Android app's features](https://android-developers.googleblog.com/2024/04/how-to-effectively-ab-test-power-consumption-for-your-android-app-features.html)
 
 - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
 - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)

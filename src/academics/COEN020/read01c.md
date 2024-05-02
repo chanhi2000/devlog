@@ -25,20 +25,20 @@ tag:
 
 ::: details 2's Complement Multiplication by Hand
 
-There are a couple of ways of doing 2’s complement multiplication by hand. Neither is actually used by the circuitry of a computer because there are more efficient (and more complex) algorithms for hardware implementation.
+There are a couple of ways of doing 2's complement multiplication by hand. Neither is actually used by the circuitry of a computer because there are more efficient (and more complex) algorithms for hardware implementation.
 
 First, recall that multiplying one N-bit number by another N-bit number will create a product of $2N$ bits.
 
 __Method #1__: First, *sign-extend both operands from $N$ to $2N$ bits* and then perform normal binary multiplication. Use the least-significant $2N$ bits of the result and discard the rest.
 
-![__Example__: Multiplying two 4-bit 2’s complement numbers](/images/COEN020/read03a-fig01.png)
+![__Example__: Multiplying two 4-bit 2's complement numbers](/images/COEN020/read03a-fig01.png)
 
 __Method #2__: Never multiply by a negative value, and *always sign-extend the partial products*:
 - If both operands are positive: no problem
 - If operands are of different sign: put positive operand on the bottom and proceed
 - If both operands are negative: convert both to their positive equivalent and proceed
 
-![__Example__: Multiplying two 4-bit 2’s complement numbers](/images/COEN020/read03a-fig02.png)
+![__Example__: Multiplying two 4-bit 2's complement numbers](/images/COEN020/read03a-fig02.png)
 
 Now apply this to the problem we had in class 
 
@@ -62,7 +62,7 @@ Actually, if you didn't notice, there's a problem here! The first partial produc
 
 Converting an Unsigned Integer Product to a Signed Integer Product
 
-Consider the problem of finding the product of two signed 2’s complement integers. We’ll do this using the same approach we used for fixed-point multiplication, _i.e._, compute the unsigned product and then modify it — except that we need to keep the full double-length result rather than just the middle half. We’ll do it here using four-bit operands, but the principle is the same regardless of operand size.
+Consider the problem of finding the product of two signed 2's complement integers. We'll do this using the same approach we used for fixed-point multiplication, _i.e._, compute the unsigned product and then modify it — except that we need to keep the full double-length result rather than just the middle half. We'll do it here using four-bit operands, but the principle is the same regardless of operand size.
 
 First the math:
 
@@ -86,7 +86,7 @@ $$
 
 **Case 2**: Operands of different signs: We subtract the positive operand from the most-significant half of the unsigned product. The fourth bit of the positive operand is zero, and thus has no effect on the result.
 
-**Case 3**: Both operands are negative: The most-significant bits of both 4-bit operands are 1’s. The first subtraction thus changes the sign of the result; the second subtraction changes it back ─ the same final result you would get if the subtraction used only the least-significant three bits (_i.e._, $A_{2..0}$ and $B_{2..0}$).
+**Case 3**: Both operands are negative: The most-significant bits of both 4-bit operands are 1's. The first subtraction thus changes the sign of the result; the second subtraction changes it back ─ the same final result you would get if the subtraction used only the least-significant three bits (_i.e._, $A_{2..0}$ and $B_{2..0}$).
 
 :::
 

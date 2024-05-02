@@ -102,7 +102,7 @@ tag:
 
 ## 요즘IT
 
-- [프론트엔드 개발자가 알아야 할 ‘유닛 테스트’ 작성법](https://yozm.wishket.com/magazine/detail/2483/)
+- [프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법](https://yozm.wishket.com/magazine/detail/2483/)
 
 ---
 
@@ -370,7 +370,7 @@ tag:
 - [Performant Reactivity with Svelte-Kit](https://itnext.io/performant-reactivity-with-svelte-kit-47d11769c5f)
 - [Callback Refs in React](https://designtechworld.medium.com/callback-refs-in-react-dd2acbed3d7c)
 - [ES6 imports vs CommonJS imports](https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd)
-- [Angular Tree Shaking: Optimize Your Application’s Size 🌳](https://designtechworld.medium.com/angular-tree-shaking-optimize-your-applications-size-ea7494a568f)
+- [Angular Tree Shaking: Optimize Your Application's Size 🌳](https://designtechworld.medium.com/angular-tree-shaking-optimize-your-applications-size-ea7494a568f)
 - [The Art of Micro Frontends](https://medium.com/sysco-labs/the-art-of-micro-frontends-5184065ab74b)
 - [Building a Web Scraper with Spidey: Part 5 — Proxy Integration](https://towardsdev.com/building-a-web-scraper-with-spidey-part-5-proxy-integration-4da0ebccc170)
 - [IndexedDB 간단 정리하기](https://pks2974.medium.com/indexeddb-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-ca9be4add614)
@@ -380,7 +380,7 @@ tag:
 - [Create a dynamic load side page with animation in React.js](https://mukeshprajapati0251.medium.com/create-a-dynamic-load-side-page-with-animation-in-react-js-3658f064f401)
 - [JavaScript Ideas Every Web Developer Should Understand](https://coinsbench.com/javascript-ideas-every-web-developer-should-understand-34e633a35d7d)
 - [NGRX complete guide with Angular. Learn by doing simple CRUD operations](https://itnext.io/ngrx-complete-guide-with-angular-learn-by-doing-simple-crud-operations-95d1414e765d)
-- [I Bet You Don’t Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8)
+- [I Bet You Don't Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8)
 - [Some Simple and Amazing JavaScript Tricks](https://javascript.plainenglish.io/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
 - [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
 - [Why did Machbase Neo switch its front-end framework from Vue.js to React?](https://medium.com/machbase/why-did-machbase-neo-switch-its-front-end-framework-from-vue-js-to-react-b06ffe680785)
@@ -728,7 +728,7 @@ tag:
 
 ## Read the Tea Leaves
 
-- [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+- [Let's learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 
 ---
 
@@ -798,7 +798,7 @@ tag:
 
 ---
 
-## Simon Willison’s TILs
+## Simon Willison's TILs
 
 - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 - [Running OCR against PDFs and images directly in your browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
