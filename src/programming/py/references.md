@@ -564,7 +564,13 @@ tag:
 - [OpenCV Python - 동영상 파일을 일련번호 붙은 이미지 파일로 저장하기](https://webnautes.tistory.com/2323)
 - [OpenCV Python 검은색 빈 공간 채우기](https://webnautes.tistory.com/2322)
 - [Keras 예제 – `flow_from_directory`와 `flow_from_dataframe`](https://webnautes.tistory.com/2077)
+- [requirements.txt 사용방법](https://webnautes.tistory.com/2278)
 - [디렉토리 존재 여부 확인 후, 새로 디렉토리 생성하는 Python 예제](https://webnautes.tistory.com/2326)
+- [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/2109)
+- [lap/_lapjv.cpp:181:12: fatal error: longintrepr.h 해결방법](https://webnautes.tistory.com/2330)
+- [CoreNet으로 OpenELM 모델을 사용해보기](https://webnautes.tistory.com/2329)
+- [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/1842)
+- [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/2328)
 
 ---
 
@@ -764,6 +770,8 @@ tag:
 
 - [[백준 13023] ABCDE](https://davincicoding.tistory.com/156)
 - [[백준 18185] 라면 사기 (Small)](https://davincicoding.tistory.com/157)
+- [[백준 25381] ABBC](https://davincicoding.tistory.com/161)
+- [[백준 2776] 암기왕](https://davincicoding.tistory.com/160)
 
 ---
 
@@ -774,11 +782,21 @@ tag:
 
 ---
 
-
 ## 드프 DrawingProcess
 
 - [[Data] Python 이미지 여백 지우기 (`numpy`, `mask`, ...)](https://csj000714.tistory.com/1094)
 
+---
+
+## SuperFastPython
+
+- [Asyncio Coroutine Object Methods in Python](https://superfastpython.com/asyncio-coroutine-methods/)
+
+---
+
+## point of view.
+
+- [백준 1036 - 36진수 Python 풀이](https://jaewook.me/baekjoon-1036-review)
 
 ---
 

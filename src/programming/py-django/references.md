@@ -32,6 +32,12 @@ tag:
 
 ---
 
+## Gonçalo Valério
+
+- [Filter sensitive contents from Django’s error reports](https://blog.ovalerio.net/archives/2756)
+
+---
+
 ## Photon Designer
 
 - [Create a quiz app with HTMX and Django in 8 mins ☑️](https://www.photondesigner.com/articles/quiz-htmx)

@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -23,6 +22,7 @@ head:
       content: Introduction to navigation
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/introduction-to-navigation.html
+prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars.md
 ---
 
 # {{ $frontmatter.title }} 관련

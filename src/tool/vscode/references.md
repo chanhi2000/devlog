@@ -105,4 +105,13 @@ tag:
 
 ---
 
+## 멈춤보단 천천히라도
+
+- [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/2109)
+- [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/1842)
+- [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/2328)
+- [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/2101)
+
+---
+
 <TagLinks />

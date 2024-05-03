@@ -239,7 +239,12 @@ export const navbarEn = navbar([
       }, {
         text: 'Linux - Debian',
         icon: 'fa-brands fa-debian',
-        link: '/devops/linux-debian/README.md',
+        children: [
+          '/devops/linux-debian/README.md',
+          '/devops/linux-debian/ubuntu/README.md',
+          '/devops/linux-debian/kali-linux/README.md',
+          '/devops/linux-debian/raspberry-pi/README.md',
+        ]
       }, {
         text: 'Linux - Fedora',
         icon: 'fa-brands fa-fedora',
@@ -261,6 +266,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-virtualbox',
         link: '/devops/virtualbox/README.md',
       }, {
+        text: 'Vagrant',
+        icon: 'iconfont icon-vagrant',
+        link: '/devops/vagrant/README.md',
+      }, {
         text: 'oVirt',
         icon: 'iconfont icon-ovirt',
         link: '/devops/ovirt/README.md',
@@ -280,10 +289,6 @@ export const navbarEn = navbar([
         text: 'Openshift',
         icon: 'fa-brands fa-redhat',
         link: '/devops/openshift/README.md',
-      }, {
-        text: 'Vagrant',
-        icon: 'iconfont icon-vagrant',
-        link: '/devops/vagrant/README.md',
       }, {
         text: 'AWS',
         icon: 'fa-brands fa-aws',

@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -103,7 +102,7 @@ VStack {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let the user select multiple dates",
+  "title": "How to let the user select multiple dates | SwiftUI by Example",
   "desc": "How to let the user select multiple dates",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-the-user-select-multiple-dates.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

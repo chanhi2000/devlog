@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_eorr2tnzk3j.woff2?t=1714550313754') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_eorr2tnzk3j.woff?t=1714550313754') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_eorr2tnzk3j.ttf?t=1714550313754') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_eorr2tnzk3j.svg?t=1714550313754#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_c084gjbb18.woff2?t=1715002945816') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_c084gjbb18.woff?t=1715002945816') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_c084gjbb18.ttf?t=1715002945816') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_c084gjbb18.svg?t=1715002945816#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-kali-linux:before { content: "\e90b"; }
 .icon-ansible:before { content: "\e90a"; }
 .icon-figma:before { content: "\e909"; }
 .icon-apachecassandra:before { content: "\e908"; }

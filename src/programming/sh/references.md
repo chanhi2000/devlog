@@ -48,6 +48,18 @@ tag:
 
 ---
 
+## Dev.to
+
+- [`tasinishmam` - Awesome Command-Line tools to boost your productivity](https://dev.to/tasinishmam/awesome-command-line-tools-to-boost-your-productivity-22n8)
+
+---
+
+## Substack
+
+- [`highgrowthengineer` - How I setup my terminal for max productivity](https://read.highgrowthengineer.com/p/how-i-setup-my-terminal-for-max-productivity)
+
+---
+
 ## BLEX
 
 - [`@mildsalmon` - `crontab`](https://blex.me/@mildsalmon/crontab)
@@ -275,16 +287,19 @@ tag:
 
 ---
 
+## Bump.sh
+
+- [How to use JSON Path](https://bump.sh/blog/how-to-use-json-path)
+
+---
+
 ## Misc
 
-- [[DevOps] Windows 10에 ansible 이용하기](http://mcchae.egloos.com/11315161)
 - [Investigating Linux Phantom Disk Reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads)
-- [Awesome Command-Line tools to boost your productivity](https://dev.to/tasinishmam/awesome-command-line-tools-to-boost-your-productivity-22n8)
 - [오라클 클라우드 Ubuntu 20.04 인스턴스 기본 설정하기](https://www.wsgvet.com/cloud/6)
 - [오라클 클라우드 인스턴스 생성 및 SSH 접속하기](https://www.wsgvet.com/cloud/5)
 
 ---
-
 
 
 <TagLinks />

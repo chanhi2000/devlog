@@ -13,13 +13,13 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="ubuntu"/>
+<ShieldsGroup logos="ubuntu,raspberrypi,kalilinux"/>
 
 ---
 
 ## Table of Contents
 
-<ToCLocal basePath="/devops/debian/" />
+<ToCLocal basePath="/devops/linux-debian/" />
 
 ---
 

@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -137,7 +136,7 @@ Of course, the _real_ question is: why `$paymentType` and not `paymentType`?
 
 ```component VPCard
 {
-  "title": "Article(s) > Working with state",
+  "title": "Working with state | SwiftUI by Example",
   "desc": "Working with state",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-state.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -147,7 +146,7 @@ Of course, the _real_ question is: why `$paymentType` and not `paymentType`?
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create a picker and read values from it",
+  "title": "How to create a picker and read values from it | SwiftUI by Example",
   "desc": "How to create a picker and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-picker-and-read-values-from-it.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

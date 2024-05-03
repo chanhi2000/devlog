@@ -10,7 +10,6 @@ tag:
   - blog
   - hackingwithswift.com
   - crashcourse
-  - kodeco
   - swift
   - ios
   - xcode

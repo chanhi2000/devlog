@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -192,7 +191,7 @@ The text “Task due date: June 28, 2021”.
 
 ```component VPCard
 {
-  "title": "Article(s) > How to disable the overlay color for images inside Button and NavigationLink",
+  "title": "How to disable the overlay color for images inside Button and NavigationLink | SwiftUI by Example",
   "desc": "How to disable the overlay color for images inside Button and NavigationLink",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

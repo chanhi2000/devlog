@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -119,7 +118,7 @@ How to combine shapes to create new shapes
 
 ```component VPCard
 {
-  "title": "Article(s) > How to display a bottom sheet",
+  "title": "How to display a bottom sheet | SwiftUI by Example",
   "desc": "How to display a bottom sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-a-bottom-sheet.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

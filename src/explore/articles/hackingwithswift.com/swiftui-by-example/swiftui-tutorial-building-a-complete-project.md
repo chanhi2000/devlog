@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -109,9 +108,9 @@ At the end of each chapter I've added a “Further reading” section that sugge
 
 ```component VPCard
 {
-  "title": "Article(s) > Building a menu using List",
+  "title": "Building a menu using List | SwiftUI by Example",
   "desc": "Building a menu using List",
-  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
+  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.html",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -119,7 +118,7 @@ At the end of each chapter I've added a “Further reading” section that sugge
 
 ```component VPCard
 {
-  "title": "Article(s) > Answering the big question: should you learn SwiftUI, UIKit, or both?",
+  "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
   "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -129,7 +128,7 @@ At the end of each chapter I've added a “Further reading” section that sugge
 
 ```component VPCard
 {
-  "title": "Article(s) > Frequently asked questions about SwiftUI",
+  "title": "Frequently asked questions about SwiftUI | SwiftUI by Example",
   "desc": "Frequently asked questions about SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/frequently-asked-questions-about-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -139,7 +138,7 @@ At the end of each chapter I've added a “Further reading” section that sugge
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI tips and tricks",
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -123,13 +122,55 @@ Much better!
 
 ::: details Similar solutions…
 
-How to enable editing on a list using EditButton
-All SwiftUI property wrappers explained and compared
-SwiftUI tips and tricks
-How to let users delete rows from a list
-How to delete Core Data objects from SwiftUI views
+```component VPCard
+{
+  "title": "How to enable editing on a list using EditButton | SwiftUI by Example",
+  "desc": "How to enable editing on a list using EditButton",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-enable-editing-on-a-list-using-editbutton.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
-<!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
+  "desc": "All SwiftUI property wrappers explained and compared",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
+  "desc": "SwiftUI tips and tricks",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to let users delete rows from a list | SwiftUI by Example",
+  "desc": "How to let users delete rows from a list",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-delete-rows-from-a-list.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to delete Core Data objects from SwiftUI views | SwiftUI by Example",
+  "desc": "How to delete Core Data objects from SwiftUI views",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-delete-core-data-objects-from-swiftui-views.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

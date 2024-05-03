@@ -1268,5 +1268,10 @@
     "desc": "This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "theCheeseboard/thedesk",
+    "desc": "Desktop Environment",
+    "officialSite": "",
+    "topics": []
   }
 ]

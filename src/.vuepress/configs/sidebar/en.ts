@@ -919,7 +919,7 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            'programming/c/articles/README.md',
+            '/programming/c/articles/README.md',
             {
               text: 'meetup.nhncloud.com',
               collapsible: true,
@@ -1293,6 +1293,34 @@ export const sidebarEn = sidebar({
       children: [
         '/devops/linux-debian/README.md',
         '/devops/linux-debian/env-setup.md',
+        {
+          text: 'Ubuntu',
+          collapsible: true,
+          icon: 'fa-brands fa-ubuntu',
+          children: [
+            '/devops/linux-debian/ubuntu/README.md',
+            '/devops/linux-debian/ubuntu/references.md',
+            '/devops/linux-debian/ubuntu/youtube.md',
+          ]
+        }, {
+          text: 'Kali Linux',
+          collapsible: true,
+          icon: 'iconfont icon-kali-linux',
+          children: [
+            '/devops/linux-debian/kali-linux/README.md',
+            '/devops/linux-debian/kali-linux/references.md',
+            '/devops/linux-debian/kali-linux/youtube.md',
+          ]
+        }, {
+          text: 'Raspberry Pi',
+          collapsible: true,
+          icon: 'fa-brands fa-raspberry-pi',
+          children: [
+            '/devops/linux-debian/raspberry-pi/README.md',
+            '/devops/linux-debian/raspberry-pi/references.md',
+            '/devops/linux-debian/raspberry-pi/youtube.md',
+          ]
+        },
         '/devops/linux-debian/references.md',
         '/devops/linux-debian/youtube.md',
         {
@@ -1367,6 +1395,15 @@ export const sidebarEn = sidebar({
         '/devops/virtualbox/README.md',
         '/devops/virtualbox/references.md',
         '/devops/virtualbox/youtube.md',
+      ]
+    }, {
+      text: 'Vagrant',
+      collapsible: true,
+      icon: 'iconfont icon-vagrant',
+      children: [
+        '/devops/vagrant/README.md',
+        '/devops/vagrant/references.md',
+        '/devops/vagrant/youtube.md',
       ]
     }, {
       text: 'oVirt',
@@ -1465,15 +1502,6 @@ export const sidebarEn = sidebar({
       children: [
         '/devops/openshift/README.md',
         '/devops/openshift/references.md',
-      ]
-    }, {
-      text: 'Vagrant',
-      collapsible: true,
-      icon: 'iconfont icon-vagrant',
-      children: [
-        '/devops/vagrant/README.md',
-        '/devops/vagrant/references.md',
-        '/devops/vagrant/youtube.md',
       ]
     }, {
       text: 'AWS',

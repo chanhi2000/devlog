@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -114,7 +113,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to add a TextField to an alert",
+  "title": "How to add a TextField to an alert | SwiftUI by Example",
   "desc": "How to add a TextField to an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-textfield-to-an-alert.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -183,7 +182,7 @@ If you head back to <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift`, yo
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create and compose custom views",
+  "title": "How to create and compose custom views | SwiftUI by Example",
   "desc": "How to create and compose custom views",
   "link": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-and-compose-custom-views",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -193,7 +192,7 @@ If you head back to <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift`, yo
 
 ```component VPCard
 {
-  "title": "Article(s) > How to draw images using Image views",
+  "title": "How to draw images using Image views | SwiftUI by Example",
   "desc": "How to draw images using Image views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-images-using-image-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -203,7 +202,7 @@ If you head back to <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift`, yo
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create stacks using VStack and HStack",
+  "title": "How to create stacks using VStack and HStack | SwiftUI by Example",
   "desc": "How to create stacks using VStack and HStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-stacks-using-vstack-and-hstack.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -215,13 +214,55 @@ If you head back to <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift`, yo
 
 ::: details Similar solutions…
 
-How to push a new view when a list row is tapped
-How to allow row selection in a list
-How to adjust List row separator insets
-How to add custom swipe action buttons to a List row
-How to scroll to a specific row in a list
+```component VPCard
+{
+  "title": "How to push a new view when a list row is tapped | SwiftUI by Example",
+  "desc": "How to push a new view when a list row is tapped",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-push-a-new-view-when-a-list-row-is-tapped.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
-<!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "How to allow row selection in a list | SwiftUI by Example",
+  "desc": "How to allow row selection in a list",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-allow-row-selection-in-a-list.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to adjust List row separator insets | SwiftUI by Example",
+  "desc": "How to adjust List row separator insets",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-list-row-separator-insets.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to add custom swipe action buttons to a List row | SwiftUI by Example",
+  "desc": "How to add custom swipe action buttons to a List row",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-custom-swipe-action-buttons-to-a-list-row.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to scroll to a specific row in a list | SwiftUI by Example",
+  "desc": "How to scroll to a specific row in a list",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-scroll-to-a-specific-row-in-a-list.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

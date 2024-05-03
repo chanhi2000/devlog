@@ -19,6 +19,7 @@ tag:
 
 ## Swift 
 
+- [Swift Summer of Code 2023 Summary](https://www.swift.org/blog/summer-of-code-2023-summary/)
 - [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift)
 - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 - [Introducing the Benchmark Package: Complementing Unit Tests with Performance Checks](https://www.swift.org/blog/benchmarks/)
@@ -129,6 +130,7 @@ tag:
 ## Holy Swift
 
 - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui)
+- [How to Mirror Any View in SwiftUI?](https://holyswift.app/how-to-invert-any-view-in-swiftui/)
 
 ---
 
@@ -340,6 +342,7 @@ tag:
 - [[Swift5.1+][RIBs] dynamicMemberLookup의 KeyPath를 이용하여 Component의 Dependency 속성을 접근하기](https://minsone.github.io/programming/swift-ribs-access-dependency-property-using-dynamic-member-lookup)
 - [Realistic Motion Blur](https://minsone.github.io/swiftui-code/Realistic-Motion-Blur/)
 - [[Swift] Defer를 이용하여 Closure 실행 보장하기](https://minsone.github.io/swift-ensuring-closure-execution-with-defer)
+- [[Swift] 타입 시스템을 활용하여 보다 안전하게 데이터 유효성 검증하기](https://minsone.github.io/swift-type-safe-validation)
 
 ---
 
@@ -396,6 +399,7 @@ tag:
 
 ## Furnace Creek
 
+- [From QuickTime Pro to macOS Sonoma: Badging Premium Features with Menu Badges in AppKit and SwiftUI](https://furnacecreek.org/blog/2024-01-21-badging-premium-features-with-menu-badges)
 - [How to Prevent Mac App Store Rating Windows From Appearing Inactive and in the Background](https://furnacecreek.org/blog/2024-04-14-how-to-prevent-background-mac-app-store-rating-windows)
 
 ---
@@ -466,6 +470,7 @@ tag:
 
 ## Nil Coalescing
 
+- [Case insensitive string comparison in Swift](https://nilcoalescing.com/blog/CaseInsensitiveStringComparisonInSwift/)
 - [Sending trial notifications with provisional authorization on iOS](https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS/)
 
 ---
@@ -503,6 +508,37 @@ tag:
 ## Scott Smith Dev
 
 - [Screen vs View in SwiftUI](https://scottsmithdev.com/screen-vs-view-in-swiftui)
+
+---
+
+## polpielladev 📱 | A blog about iOS mobile app development and Swift
+
+- [Swift 6: Access level on import statements](https://www.polpiella.dev/swift-6-import-access-level/)
+
+---
+
+## finn voorhees
+
+- [Subscribing to SwiftData changes outside SwiftUI](https://www.finnvoorhees.com/words/subscribing-to-swiftdata-changes-outside-swiftui/)
+
+---
+
+## Danijela's blog
+
+- [Configurable button with different states in SwiftUI](https://www.danijelavrzan.com/posts/2024/05/configurable-button-swiftui/)
+
+---
+
+## !Boring Software
+
+- [The Sound of Software](https://www.notboring.software/words/the-sound-of-software)
+
+---
+
+## Doordash Engineering
+
+- [How to Speed Up SwiftUI Development and Testing Using PreviewSnapshots](https://doordash.engineering/2023/01/18/how-to-speed-up-swiftui-development-and-testing-using-previewsnapshots/)
+- [Adopting SwiftUI with a Bottom-Up Approach to Minimize Risk](https://doordash.engineering/2022/09/13/adopting-swiftui-with-a-bottom-up-approach-to-minimize-risk/)
 
 ---
 

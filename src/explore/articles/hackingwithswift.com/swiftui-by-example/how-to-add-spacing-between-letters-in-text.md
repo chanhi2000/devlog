@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -101,7 +100,7 @@ That uses the text string “ffi” in American Typewriter, which has a ligature
 
 ```component VPCard
 {
-  "title": "Article(s) > How to style text views with fonts, colors, line spacing, and more",
+  "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

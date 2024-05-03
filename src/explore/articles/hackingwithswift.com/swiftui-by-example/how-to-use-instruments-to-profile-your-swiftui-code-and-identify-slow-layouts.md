@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -53,4 +52,4 @@ head:
 
 ---
 
-<TagLinks />How to use Instruments to profile your SwiftUI code and identify slow layouts
+<TagLinks />

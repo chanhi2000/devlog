@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -145,9 +144,9 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users import videos using PhotosPicker",
+  "title": "How to let users import videos using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users import videos using PhotosPicker",
-"link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -175,7 +174,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let the user select multiple dates",
+  "title": "How to let the user select multiple dates | SwiftUI by Example",
   "desc": "How to let the user select multiple dates",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-the-user-select-multiple-dates.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -185,7 +184,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users pick options from a menu",
+  "title": "How to let users pick options from a menu | SwiftUI by Example",
   "desc": "How to let users pick options from a menu",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-pick-options-from-a-menu.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

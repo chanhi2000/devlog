@@ -48,6 +48,7 @@ head:
 - [`@stella6767`: 니들은 MSA 하지마라](https://velog.io/@stella6767/%EB%8B%88%EB%93%A4%EC%9D%80-MSA-%ED%95%98%EC%A7%80%EB%A7%88%EB%9D%BC)
 - [`@qkrtkdwns3410` - [Websocket] @MessageMapping 이란](https://velog.io/@qkrtkdwns3410/Websocket-MessageMapping-%EC%9D%B4%EB%9E%80)
 - [`@qkrtkdwns3410` - Spring-open-in-view 속성](https://velog.io/@qkrtkdwns3410/Spring-open-in-view-%EC%86%8D%EC%84%B1)
+- [`@qkrtkdwns3410` - Vue3 + Spring Data Elasticsearch 를 통한 한글 자동완성 API](https://velog.io/@qkrtkdwns3410/Vue3-Spring-Data-Elasticsearch-%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%9C%EA%B8%80-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-API)
 
 ### Heee's Development Blog
 
@@ -103,6 +104,14 @@ head:
 ### 연로그
 
 - [[Spring] `ReactiveCrudRepository`를 이용한 삭제 시 주의점](https://yeonyeon.tistory.com/329)
+
+### 몽상실현개발주의
+
+- [SpringBoot VO 와 DTO](https://leeiopd.tistory.com/entry/SpringBoot-VO-%EC%99%80-DTO)
+
+### 데엔잘하고싶은데엔🔥💎
+
+- [[강의] 유데미 Spring Boot 강의추천 (Spring 개념, Ioc/DI/Beans/Component/Autowired)](https://pearlluck.tistory.com/802)
 
 ---
 

@@ -22,6 +22,12 @@ tag:
 
 ---
 
+## Microsoft
+
+### Tech Community
+
+- [How to disable popup "The webpage you are viewing is trying to close the tab"?](https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217)
+
 ## WSL
 
 - [Win-KeX](https://www.kali.org/docs/wsl/win-kex/#install-win-kex)
@@ -144,9 +150,14 @@ tag:
 
 ---
 
+## 멈춤보단 천천히라도
+
+- [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/1842)
+
+---
+
 ## Misc
 
-- https://techcommunity.microsoft.com/t5/enterprise/how-to-disable-popup-quot-the-webpage-you-are-viewing-is-trying/m-p/3489217
 - [DiskClick](https://deervo.itch.io/diskclick)
 
 ---

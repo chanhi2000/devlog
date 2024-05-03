@@ -241,8 +241,7 @@ export const hackingwithswift = (): SidebarGroupItem => ({
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-some-code-when-state-changes-using-onchange.md',
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-different-images-and-other-views-in-light-or-dark-mode.md',
           ]
-        }, 
-        /* {
+        }, {
           text: 'Lists',
           collapsible: true,
           children: [
@@ -268,8 +267,7 @@ export const hackingwithswift = (): SidebarGroupItem => ({
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-list-row-separator-insets.md',
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-the-tint-color-for-individual-list-rows.md',
           ]
-        } */
-        {
+        }, {
           text: 'Forms',
           collapsible: true,
           children: [

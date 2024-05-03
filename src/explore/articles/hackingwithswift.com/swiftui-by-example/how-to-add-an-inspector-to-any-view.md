@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -23,6 +22,7 @@ head:
       content: How to add an inspector to any view
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-an-inspector-to-any-view.html
+next: /explore/articles/hackingwithswift.com/swiftui-by-example/working-with-presentations.md
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -2728,5 +2728,15 @@
     "desc": "Open Source Alternative to Vercel, Netlify and Heroku.",
     "officialSite": "https://dokploy.com/",
     "topics": ["backend", "backups", "databases", "deployment", "devops", "docker", "frontend", "mariadb", "mongodb", "mysql", "nextjs", "postgresql", "self-hosted", "vps"]
+  }, {
+    "repo": "lmstudio-ai/lms",
+    "desc": "LM Studio in your terminal",
+    "officialSite": "https://lms.dev",
+    "topics": ["llm", "lmstudio", "nodejs", "typescript"]
+  }, {
+    "repo": "reorproject/reor",
+    "desc": "Private & offline AI personal knowledge management app.",
+    "officialSite": "https://reorproject.org",
+    "topics": ["ai", "lancedb", "llama", "llamacpp", "local-first", "markdown", "note-taking", "ollama", "pkm", "rag", "second-brain", "vector-database"]
   }
 ]

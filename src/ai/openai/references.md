@@ -226,6 +226,7 @@ tag:
 ## PlugBear
 
 - [기사를 요약하는 슬랙 봇 만들기 (노코드, 5분 소요)](https://plugbear.io/posts/ko/how-to-build-article-summary-bot)
+- [11 Practical AI Use Cases you can build in a day](https://plugbear.io/posts/11-practical-use-cases)
 
 ---
 
@@ -323,12 +324,6 @@ tag:
 
 ---
 
-## PlugBear
-
-- [11 Practical AI Use Cases you can build in a day](https://plugbear.io/posts/11-practical-use-cases)
-
----
-
 ## 김태영의 케라스 블로그
 
 - [Gemma 온디바이스 탑재 - 웹브라우저편](https://tykimos.github.io/2024/04/02/gemma_ondevice_webbrowser_fast_execute/)
@@ -343,6 +338,15 @@ tag:
 - [머신러닝과 딥러닝의 차이](https://puleugo.tistory.com/189)
 
 ---
+
+## Miles UX/UI Insight
+
+- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (1)](https://vurias0203.tistory.com/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-1)
+- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (2)](https://vurias0203.tistory.com/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-2)
+- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (3)](https://vurias0203.tistory.com/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-3)
+
+---
+
 
 <TagLinks />
 

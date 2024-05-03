@@ -82,6 +82,7 @@ tag:
 - [`@dochis` - 아프리카TV API 프로젝트 개발 회고](https://velog.io/@dochis/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4TV-API-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0)
 - [`@haryan248` - 나의 두 번째 회사](https://velog.io/@haryan248/%EB%82%98%EC%9D%98-%EB%91%90-%EB%B2%88%EC%A7%B8-%ED%9A%8C%EC%82%AC)
 - [`@surim014` - [번역] 소프트웨어 개발의 미래에 대한 생각](https://velog.io/@surim014/thoughts-on-the-future-of-software-development)
+- [`@broccolism` - 계획대로 된게 거의 없어서 오히려 좋은 개발자 모임 참여 후기 - 글또 9기](https://velog.io/@broccolism/%EA%B3%84%ED%9A%8D%EB%8C%80%EB%A1%9C-%EB%90%9C%EA%B2%8C-%EA%B1%B0%EC%9D%98-%EC%97%86%EC%96%B4%EC%84%9C-%EC%98%A4%ED%9E%88%EB%A0%A4-%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0)
 
 ---
 
@@ -103,6 +104,11 @@ tag:
 ## Brunch 
 
 - [`@jamess` - 프리랜서가 값싼 프로젝트에서 벗어나지 못하는 이유](https://brunch.co.kr/@jamess/107)
+- [`@mystoryg` - AI와 개발자: 협업의 새로운 패러다임](https://brunch.co.kr/@mystoryg/212)
+- [`@delight412` - 트위터 보단 스냅이 제품 혁신에서 앞섰다...왜?](https://brunch.co.kr/@delight412/683)
+- [`@delight412` - 토큰 출시 규제 리스크, 어떻게 대응해야 할까](https://brunch.co.kr/@delight412/682)
+- [`@yongjinjinipln` - Pre-mortem으로 비즈니스 가설을 사전에 검증한다](https://brunch.co.kr/@yongjinjinipln/126)
+- [`@yahao2512` - 의미와 재미를 잡기 위한 이번 이직은 성공적이었을까?](https://brunch.co.kr/@yahao2512/30)
 
 ---
 
@@ -293,6 +299,7 @@ tag:
 
 - [책: 그들의 생각을 바꾸는 방법 - 딥 캔버싱](https://jusths.tistory.com/392)
 - [책: 그들의 생각을 바꾸는 방법 - 자신만의 현실](https://jusths.tistory.com/393)
+- [피드백하는 12가지 방법](https://jusths.tistory.com/403)
 
 ---
 
@@ -322,6 +329,7 @@ tag:
 - [Public API의 CDN 캐시](https://jojoldu.tistory.com/779)
 - [언제 이직할 회사를 고르면 좋을까?](https://jojoldu.tistory.com/778)
 - [의미에 매몰되지 않기](https://jojoldu.tistory.com/780)
+- [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/781)
 
 ---
 
@@ -457,6 +465,7 @@ tag:
 ## 네트워크 엔지니어 환영의 기술블로그
 
 - [엔지니어를 위한, 연금 제도 쉽게 이해하기](https://aws-hyoh.tistory.com/287)
+- [퇴직연금 쉽게 이해하기 #2](https://aws-hyoh.tistory.com/291)
 
 ---
 
@@ -530,6 +539,7 @@ tag:
 - [쉽게 설명하는 29CM Architecture Manifesto](https://rutgo-letsgo.tistory.com/entry/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-29CM-Architecture-Manifesto)
 - [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 2장. 개략적인 규모 측정](https://rutgo-letsgo.tistory.com/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-2%EC%9E%A5-%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8-%EA%B7%9C%EB%AA%A8-%EC%B8%A1%EC%A0%95)
 - [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 1장. 사용자 수에 따른 규모 확장성](https://rutgo-letsgo.tistory.com/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-1)
+- [3장. 시스템 설계 면접 공략법](https://rutgo-letsgo.tistory.com/entry/3%EC%9E%A5-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EB%A9%B4%EC%A0%91-%EA%B3%B5%EB%9E%B5%EB%B2%95)
 
 ---
 
@@ -591,6 +601,46 @@ tag:
 
 - [[상담] 01.내가 하고싶은 걸 어떻게 찾을 수 있을까?](https://duriepark.tistory.com/entry/%EC%83%81%EB%8B%B4-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80-%EA%B1%B8-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
 - [[개인] 영어 회화 공부방법 찾는 분들에게 ](https://duriepark.tistory.com/entry/%EA%B0%9C%EC%9D%B8-%EC%98%81%EC%96%B4-%ED%9A%8C%ED%99%94-%EA%B3%B5%EB%B6%80%EB%B0%A9%EB%B2%95-%EC%B0%BE%EB%8A%94-%EB%B6%84%EB%93%A4%EC%97%90%EA%B2%8C)
+- [05. 내 주변에 사람을 남기고 싶은데 어떻게 해야할까요? ](https://duriepark.tistory.com/entry/05-%EB%82%B4-%EC%A3%BC%EB%B3%80%EC%97%90-%EC%82%AC%EB%9E%8C%EC%9D%84-%EB%82%A8%EA%B8%B0%EA%B3%A0-%EC%8B%B6%EC%9D%80%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94)
+- [[상담 내용 접수] 상담을 할만한 내용이 있으면 비밀 방명록으로 작성해 주세요!](https://duriepark.tistory.com/notice/714)
+- [04.다른 사람들 보면 쉽고 빠르게 성공하는 것 같은데 그런 방법이 없을까요? ](https://duriepark.tistory.com/entry/04%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EB%93%A4-%EB%B3%B4%EB%A9%B4-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-%EA%B7%B8%EB%9F%B0-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%97%86%EC%9D%84%EA%B9%8C%EC%9A%94)
+
+---
+
+## Outsider's Dev Story
+
+- [[Book] 규칙 없음 - 넷플릭스, 지구상 가장 빠르고 유연한 기업의 비밀](https://blog.outsider.ne.kr/1720)
+
+---
+
+## Minty Box
+
+- [[취준] 3-4월 KPT 회고](https://shout-to-my-mae.tistory.com/428)
+
+---
+
+## K리그 프로그래머
+
+- [커피한잔 서버 장애 썰](https://jeho.page/essay/2024/05/03/coffee-server.html)
+
+---
+
+## PlugBear
+
+- [기사를 요약하는 슬랙 봇 만들기 (노코드, 5분 소요)](https://plugbear.io/posts/ko/how-to-build-article-summary-bot)
+- [Y Combinator 없이 미국 진출하기](https://plugbear.io/posts/ko/entering-us-market-without-yc)
+
+---
+
+## Every
+
+- [You Are the Technical Cofounder You Need](https://every.to/p/you-are-the-technical-cofounder-you-need)
+
+---
+
+## Design Gurus
+
+- [A Comprehensive Breakdown of Systems Design Interviews](https://www.designgurus.io/blog/a-comprehensive-breakdown-of-systems-design-interviews)
 
 ---
 

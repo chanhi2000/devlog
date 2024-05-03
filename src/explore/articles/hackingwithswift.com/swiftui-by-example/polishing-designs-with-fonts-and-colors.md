@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -143,7 +142,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
 
 ```component VPCard
 {
-  "title": "Article(s) > How to style text views with fonts, colors, line spacing, and more",
+  "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -153,7 +152,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
 
 ```component VPCard
 {
-  "title": "Article(s) > How to clip a view so only part is visible",
+  "title": "How to clip a view so only part is visible | SwiftUI by Example",
   "desc": "How to clip a view so only part is visible",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-clip-a-view-so-only-part-is-visible.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -163,7 +162,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
 
 ```component VPCard
 {
-  "title": "Article(s) > How to force views to one side inside a stack using Spacer",
+  "title": "How to force views to one side inside a stack using Spacer | SwiftUI by Example",
   "desc": "How to force views to one side inside a stack using Spacer",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -175,13 +174,55 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
 
 ::: details Similar solutions…
 
-How to style text views with fonts, colors, line spacing, and more
-SwiftUI tips and tricks
-All SwiftUI property wrappers explained and compared
-How to get custom colors and transparency with SF Symbols
-How to load custom colors from an asset catalog
+```component VPCard
+{
+  "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
+  "desc": "How to style text views with fonts, colors, line spacing, and more",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
-<!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
+  "desc": "SwiftUI tips and tricks",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
+  "desc": "All SwiftUI property wrappers explained and compared",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to get custom colors and transparency with SF Symbols | SwiftUI by Example",
+  "desc": "How to get custom colors and transparency with SF Symbols",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to load custom colors from an asset catalog | SwiftUI by Example",
+  "desc": "How to load custom colors from an asset catalog",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

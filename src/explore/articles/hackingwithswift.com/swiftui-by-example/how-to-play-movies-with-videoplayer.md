@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -117,9 +116,9 @@ A video with a play button overlaid, along with the word Watermark place at the 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users import videos using PhotosPicker",
+  "title": "How to let users import videos using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users import videos using PhotosPicker",
-"link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -127,7 +126,7 @@ A video with a play button overlaid, along with the word Watermark place at the 
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI tips and tricks",
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -135,8 +134,25 @@ A video with a play button overlaid, along with the word Watermark place at the 
 }
 ```
 
-How to add haptic effects using sensory feedback
-How to animate SF Symbols
+```component VPCard
+{
+  "title": "How to add haptic effects using sensory feedback | SwiftUI by Example",
+  "desc": "How to add haptic effects using sensory feedback",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-haptic-effects-using-sensory-feedback.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to animate SF Symbols | SwiftUI by Example",
+  "desc": "How to animate SF Symbols",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-sf-symbols.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

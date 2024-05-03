@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -23,6 +22,7 @@ head:
       content: How to present a new view using sheets
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-present-a-new-view-using-sheets.html
+prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-pick-options-from-a-menu.md
 ---
 
 # {{ $frontmatter.title }} 관련

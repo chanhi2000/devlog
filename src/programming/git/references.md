@@ -69,12 +69,16 @@ tag:
 - [`@eunbibi` - Git tutorial](https://velog.io/@eunbibi/Git-tutorial)
 - [`@eunbibi` - Tag](https://velog.io/@eunbibi/Tag)
 - [`@eunbibi` - Merge and Conflict](https://velog.io/@eunbibi/Merge-and-Conflict)
+- [`@endmoseung` - Submodule CI/CD 통합하기](https://velog.io/@endmoseung/Submodule-CICD-%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0)
 
 ---
 
 ## Dev.to
 
 - [`@phukon` - How I write Commits like a pro](https://dev.to/phukon/how-i-write-commits-like-a-pro-340l)
+- [`samuelfaure` - How atomic Git commits dramatically increased my productivity - and will increase yours too](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)
+
+---
 
 ## appsmith
 
@@ -230,6 +234,12 @@ tag:
 
 - [Git by example: Interactive guide](https://antonz.org/git-by-example)
 <!-- TODO: crashcourse 로 이동 -->
+
+---
+
+## dev diary, TIL
+
+- [#TIL `git patch`를 적용하는 `apply` 명령과 `am` 명령](http://ohyecloudy.com/ddiary/2024/05/04/git-am/)
 
 ---
 

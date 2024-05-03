@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -105,7 +104,7 @@ Run the program and see what you think – it's really coming together now!
 
 ```component VPCard
 {
-  "title": "Article(s) > How to show an alert",
+  "title": "How to show an alert | SwiftUI by Example",
   "desc": "How to show an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-an-alert.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -117,13 +116,46 @@ Run the program and see what you think – it's really coming together now!
 
 ::: details Similar solutions…
 
-How to show an alert
-How to add actions to alert buttons
-How to add a TextField to an alert
-How to show multiple alerts in a single view
-SwiftUI tips and tricks
+```component VPCard
+{
+  "title": "How to show an alert | SwiftUI by Example",
+  "desc": "How to show an alert",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-an-alert.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
-<!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "How to add actions to alert buttons | SwiftUI by Example",
+  "desc": "How to add actions to alert buttons",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-actions-to-alert-buttons.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to add a TextField to an alert | SwiftUI by Example",
+  "desc": "How to add a TextField to an alert",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-textfield-to-an-alert.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+How to show multiple alerts in a single view
+
+```component VPCard
+{
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
+  "desc": "SwiftUI tips and tricks",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

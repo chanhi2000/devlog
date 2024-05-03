@@ -29,6 +29,7 @@ head:
 ---
 
 ## Clien
+
 - [Vue와 Firebase로 나만의 사이트 만들기](https://www.clien.net/service/board/lecture/15244603)
 - [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(1) 세팅편](https://www.clien.net/service/board/lecture/17960697)
 - [그누보드에 vue.js 를 집어넣어서 웹앱을 만들어 보자!-(2) Vue.js적용](https://www.clien.net/service/board/lecture/17962453)
@@ -37,6 +38,12 @@ head:
 - [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(5)테이블 작업](https://www.clien.net/service/board/lecture/17969157)
 - [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(6)로또정보 얻어오기](https://www.clien.net/service/board/lecture/17970633)
 - [그누보드에 vue.js 집어넣어서 웹앱 만들어 보자!-(7)RestAPI 및 마무리](https://www.clien.net/service/board/lecture/17972239)
+
+---
+
+## velog
+
+- [`@qkrtkdwns3410` - Vue3 + Spring Data Elasticsearch 를 통한 한글 자동완성 API](https://velog.io/@qkrtkdwns3410/Vue3-Spring-Data-Elasticsearch-%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%9C%EA%B8%80-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-API)
 
 ---
 

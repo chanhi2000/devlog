@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -69,11 +68,11 @@ We want to add items to our order from the detail screen, so head back to <FontI
 @EnvironmentObject var order: Order
 ```
 
-We haven't given that a default value, so you _might_ think it will cause problems thanks to Swift's strict initialization rules. However, the `@EnvironmentObject` property wrapper does some magic: it allows this variable _not_ to have a value in code, because we're saying it will already be set in the environment.
+We haven't given that a default value, so you *might* think it will cause problems thanks to Swift's strict initialization rules. However, the `@EnvironmentObject` property wrapper does some magic: it allows this variable *not* to have a value in code, because we're saying it will already be set in the environment.
 
 When this view is shown, SwiftUI will automatically look in its list of environment objects for something that is of type `Order`, and attach it to that property. If no `Order` object can be found then we have a problem: something we said would be there isn't, and our code will crash. This is just like an implicitly unwrapped optional, so be careful with it.
 
-`@EnvironmentObject` is another _property wrapper_ in Swift, just like `@Published` and `@StateObject`. This one means we get that automatic attachment ability I just mentioned, but also tells SwiftUI to watch the object for any changes and refresh its UI when a change announcement comes through.
+`@EnvironmentObject` is another *property wrapper* in Swift, just like `@Published` and `@StateObject`. This one means we get that automatic attachment ability I just mentioned, but also tells SwiftUI to watch the object for any changes and refresh its UI when a change announcement comes through.
 
 Before we add some code to manipulate that order in `ItemDetail`, we need to fix another previewing problem. You see, we're now promising the an object of type `Order` will be in the environment by the time our `ItemDetail` is shown, and we create and pass that in from <FontIcon icon="fa-brands fa-swift"/>`iDineApp.swift`. That works great when our app is running for real, but in the Xcode preview we aren't launched from the app – we're created by that `PreviewProvider` code at the end of our view files.
 
@@ -91,7 +90,7 @@ struct ItemDetail_Previews: PreviewProvider {
 
 That replicates the same setup we have with the app launch, which means our preview should work again.
 
-Now _that_ works we can get on with the real deal: adding a button that adds our current menu item to the order. Buttons in SwiftUI have two parts: a title string, and an action closure that contains code to run when the button is tapped.
+Now *that* works we can get on with the real deal: adding a button that adds our current menu item to the order. Buttons in SwiftUI have two parts: a title string, and an action closure that contains code to run when the button is tapped.
 
 The `Order` class already has an `add()` method that takes a menu item, so we'll use that for the action. As for the title, we'll just add some text saying “Order This” – you're welcome to add more styling if you want!
 
@@ -104,9 +103,9 @@ Button("Order This") {
 .buttonStyle(.borderedProminent)
 ```
 
-That's all it takes to add things to the shared order, but we can't actually _see_ anything yet.
+That's all it takes to add things to the shared order, but we can't actually *see* anything yet.
 
-To make _that_ happen we need to create a new screen that shows the user's order so far, then put that into a tab bar with our existing content view.
+To make *that* happen we need to create a new screen that shows the user's order so far, then put that into a tab bar with our existing content view.
 
 So, press <kbd>Cmd</kbd>+<kbd>N</kbd> to make a new SwiftUI View, calling this one “OrderView”. Because this needs to have the same `Order` instance as the rest of our app, you'll need to give it the same property we gave `ItemDetail`:
 
@@ -173,13 +172,55 @@ We'll come back to that shortly, but first we need to make sure it's working by 
 
 ::: details Similar solutions…
 
-What is the @EnvironmentObject property wrapper?
-How to use @EnvironmentObject to share data between views
-What's the difference between @ObservedObject, @State, and @EnvironmentObject?
-How to change the order of view layering using Z index
-Adding TabView and tabItem()
+```component VPCard
+{
+  "title": "What is the @EnvironmentObject property wrapper? | SwiftUI by Example",
+  "desc": "What is the @EnvironmentObject property wrapper?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-the-environmentobject-property-wrapper.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
-<!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "How to use @EnvironmentObject to share data between views | SwiftUI by Example",
+  "desc": "How to use @EnvironmentObject to share data between views",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-environmentobject-to-share-data-between-views.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
+  "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to change the order of view layering using Z index | SwiftUI by Example",
+  "desc": "How to change the order of view layering using Z index",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-the-order-of-view-layering-using-z-index.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding TabView and tabItem() | SwiftUI by Example",
+  "desc": "Adding TabView and tabItem()",
+  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/adding-tabview-and-tabitem.html",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

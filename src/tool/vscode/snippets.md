@@ -48,6 +48,13 @@ Placeholders with the same ids are connected.
     ],
     "description": "Create URL form for Github Repoistory"
   },
+  "VuepressMarkdownVidStack": {
+    "prefix": "vpvs",
+    "body": [
+    "<VidStack src=\"${1:url}\" />",
+    ],
+    "description": "Create VidStack Vue Component"
+  },
   "VuepressMarkdownYoutube": {
     "prefix": "vpy",
     "body": [
@@ -181,7 +188,6 @@ Placeholders with the same ids are connected.
   }
 }
 ```
-
 
 ### <FontIcon icon="iconfont icon-json"/>`json.json`
 

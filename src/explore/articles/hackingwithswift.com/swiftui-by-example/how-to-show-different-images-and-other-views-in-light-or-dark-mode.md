@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -23,7 +22,7 @@ head:
       content: How to show different images and other views in light or dark mode
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-different-images-and-other-views-in-light-or-dark-mode.html
-next: /swift/swiftui-by-example/10-lists/working-with-lists.md
+next: /explore/articles/hackingwithswift.com/swiftui-by-example/working-with-lists.md
 ---
 
 # {{ $frontmatter.title }} 관련

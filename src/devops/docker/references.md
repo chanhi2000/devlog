@@ -60,6 +60,7 @@ tag:
 
 - [Full Docker Course \[FREE\] 🎉 🐳](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
 - [`tungbq`: Introducing DevOps Toolkit](https://dev.to/tungbq/introducing-devops-toolkit-32fa)
+- [`sukkergris` - Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
 
 ---
 
@@ -222,6 +223,12 @@ tag:
 ## DevLog
 
 - [Docker 공부 2 - 엔진과 네트워크](https://devlog.juntae.kim/post/docker-study-2)
+
+---
+
+## 뭐라도 해야 한다면 기록을 하자
+
+- [ProxySQL을 사용하면 Connection을 줄일 수 있다고 ?](https://jakpentest.tistory.com/entry/ProxySQL%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-Connection%EC%9D%84-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0)
 
 ---
 

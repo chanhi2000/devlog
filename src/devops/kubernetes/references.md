@@ -18,7 +18,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -190,6 +189,12 @@ tag:
 ## Log On Me.net
 
 - [[Udemy 강의후기] DevOps (데브옵스) : Kubernetes 완전 정복](https://www.logonme.net/activities/etc/udemy-devops-k8s-master/)
+
+---
+
+## Zerohertz
+
+- [CKA (Certified Kubernetes Administrator)](https://zerohertz.github.io/cka/)
 
 ---
 

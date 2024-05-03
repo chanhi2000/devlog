@@ -1164,5 +1164,10 @@
     "desc": "ロゴを可愛く作ろう　節度を持って利用してくださいね🫠",
     "officialSite": "",
     "topics": ["languages", "logos", "services"]
+  }, {
+    "repo": "systemdesign42/system-design",
+    "desc": "A resource to help you learn system design.",
+    "officialSite": "https://newsletter.systemdesign.one",
+    "topics": ["computer-science", "development", "distributed-systems", "high-level-design", "interview-questions", "programming", "scalability", "software-engineering", "system-design", "system-design-interview"]
   }
 ]

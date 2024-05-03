@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -23,7 +22,7 @@ head:
       content: Working with forms
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-forms.html
-prev: /swift/swiftui-by-example/10-lists/how-to-change-the-tint-color-for-individual-list-rows.md
+prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-the-tint-color-for-individual-list-rows.md
 ---
 
 # {{ $frontmatter.title }} 관련

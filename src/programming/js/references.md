@@ -106,4 +106,8 @@ tag:
 
 ---
 
+## 김정환블로그
+
+- [컨텐츠 협상](https://jeonghwan-kim.github.io/2024/05/04/content-negotiation)
+
 <TagLinks />

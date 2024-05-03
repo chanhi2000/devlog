@@ -64,5 +64,10 @@
     "desc": ":page_facing_up: Universal rendering for Preact: render JSX and Preact components to HTML.",
     "officialSite": "http://npm.im/preact-render-to-string",
     "topics": ["html", "preact", "preact-components", "universal"]
+  }, {
+    "repo": "lewhunt/divz",
+    "desc": "A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos: https://lewhunt.github.io/divz/",
+    "officialSite": "https://lewhunt.github.io/divz/",
+    "topics": ["3d", "carousel", "component", "css3", "deck", "experimental", "gallery", "presentations", "react", "scroll", "showcase", "slider", "slides", "slideshow", "swipe", "time-machine", "typescript", "ui-design", "ux-ui", "zoom"]
   }
 ]

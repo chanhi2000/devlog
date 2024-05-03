@@ -949,5 +949,10 @@
     "desc": "Like neofetch, but much faster because written mostly in C.",
     "officialSite": "",
     "topics": ["command-line", "fastfetch", "fetch", "flashfetch", "hacktoberfest", "terminal"]
+  }, {
+    "repo": "ExistentialAudio/BlackHole",
+    "desc": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
+    "officialSite": "",
+    "topics": ["audio", "driver", "loopback", "macos", "virtual-audio-cable"]
   }
 ]

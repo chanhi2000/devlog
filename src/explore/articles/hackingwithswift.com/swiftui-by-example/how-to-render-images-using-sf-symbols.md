@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -120,7 +119,7 @@ Image(systemName: "person.crop.circle.fill.badge.plus")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to get custom colors and transparency with SF Symbols",
+  "title": "How to get custom colors and transparency with SF Symbols | SwiftUI by Example",
   "desc": "How to get custom colors and transparency with SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -128,7 +127,15 @@ Image(systemName: "person.crop.circle.fill.badge.plus")
 }
 ```
 
-How to animate SF Symbols
+```component VPCard
+{
+  "title": "How to animate SF Symbols | SwiftUI by Example",
+  "desc": "How to animate SF Symbols",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-sf-symbols.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 ```component VPCard
 {

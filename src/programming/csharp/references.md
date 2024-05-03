@@ -48,6 +48,12 @@ tag:
 
 ---
 
+## Dev.to
+
+- [`sukkergris` - Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
+
+---
+
 ## TheCodeBuzz
 
 - [NSwag JWT Token Authorization OpenAPI Documentation in ASP.NET Core](https://www.thecodebuzz.com/nswag-jwt-token-authorization-openapi-documentation-asp-net-core/)
@@ -205,5 +211,11 @@ tag:
 - [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/153)
 
 ---
+
+## jacking75
+
+- [ASP.NET Core 기본 실습](https://jacking75.github.io/server/)
+
+----
 
 <TagLinks />

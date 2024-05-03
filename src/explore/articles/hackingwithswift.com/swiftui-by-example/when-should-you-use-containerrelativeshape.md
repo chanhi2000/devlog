@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -89,7 +88,7 @@ SwiftUI is smart here: as you inset the container shape further and further, it 
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI tips and tricks",
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -99,7 +98,7 @@ SwiftUI is smart here: as you inset the container shape further and further, it 
 
 ```component VPCard
 {
-  "title": "Article(s) > – Answering the big question: should you learn SwiftUI, UIKit, or both?",
+  "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
   "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -109,7 +108,7 @@ SwiftUI is smart here: as you inset the container shape further and further, it 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to use Instruments to profile your SwiftUI code and identify slow layouts",
+  "title": "How to use Instruments to profile your SwiftUI code and identify slow layouts | SwiftUI by Example",
   "desc": "How to use Instruments to profile your SwiftUI code and identify slow layouts",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -119,7 +118,7 @@ SwiftUI is smart here: as you inset the container shape further and further, it 
 
 ```component VPCard
 {
-  "title": "Article(s) > All SwiftUI property wrappers explained and compared",
+  "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -129,7 +128,7 @@ SwiftUI is smart here: as you inset the container shape further and further, it 
 
 ```component VPCard
 {
-  "title": "Article(s) > What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
+  "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
   "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

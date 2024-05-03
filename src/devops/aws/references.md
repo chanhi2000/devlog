@@ -171,4 +171,10 @@ tag:
 
 ---
 
+## 병훈's blog
+
+- [일 시작 전까지 이것만큼은 끝내자](https://blog.naver.com/thdqudgns96/223436562768?)
+
+---
+
 <TagLinks />

@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -155,7 +154,7 @@ Hopefully Apple can find a way to simplify this API in the future, but until the
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users share content using the system share sheet",
+  "title": "How to let users share content using the system share sheet | SwiftUI by Example",
   "desc": "How to let users share content using the system share sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-share-content-using-the-system-share-sheet.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -165,7 +164,7 @@ Hopefully Apple can find a way to simplify this API in the future, but until the
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users delete rows from a list",
+  "title": "How to let users delete rows from a list | SwiftUI by Example",
   "desc": "How to let users delete rows from a list",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-delete-rows-from-a-list.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -175,7 +174,7 @@ Hopefully Apple can find a way to simplify this API in the future, but until the
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users pick options from a menu",
+  "title": "How to let users pick options from a menu | SwiftUI by Example",
   "desc": "How to let users pick options from a menu",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-pick-options-from-a-menu.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -323,7 +322,7 @@ If you explore the API using Xcode's autocomplete, you'll see all sorts of optio
 
 ```component VPCard
 {
-  "title": "Article(s) > How to style text views with fonts, colors, line spacing, and more",
+  "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

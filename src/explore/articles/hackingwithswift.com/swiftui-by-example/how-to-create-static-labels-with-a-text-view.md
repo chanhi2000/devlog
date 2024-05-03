@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -149,7 +148,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI tips and tricks",
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

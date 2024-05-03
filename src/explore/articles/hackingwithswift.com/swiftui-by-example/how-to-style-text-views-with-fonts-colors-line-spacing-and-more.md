@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -182,7 +181,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI tips and tricks",
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

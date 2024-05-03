@@ -39,12 +39,14 @@ tag:
 
 ---
 
-## 제이
+## 제이의 IT 스토리
 
 - [php 로또645 등수 계산](https://blog.naver.com/oralol/223401340442?)
 - [API 이해하기 (feat. PHP)](https://blog.naver.com/oralol/223415862478?)
 - [QR코드 생성기 내 서버에 탑재하기](https://blog.naver.com/oralol/223414704529)
 - [PHP API 코딩 실습 (서버용)](https://blog.naver.com/oralol/223417581963)
+- [서버 이전 시 트래픽 리다이렉션 방법](https://blog.naver.com/oralol/223435443197)
+- [체크박스 선택 방법 - 범위 입력 선택](https://blog.naver.com/oralol/223435360550?)
 
 ---
 
@@ -58,6 +60,8 @@ tag:
 - [4.08. PHP에서 MySQL 값 가져오기](https://ysedeveloper.tistory.com/entry/408-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 - [4.09. PHP에서 MySQL 값 입력하기](https://ysedeveloper.tistory.com/entry/409-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
 - [4.10. PHP에서 MySQL 값 수정 / 삭제하기](https://ysedeveloper.tistory.com/entry/410-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+- [5.03. 문자열이 특정 문자열을 포함하는지 검사하기](https://ysedeveloper.tistory.com/entry/503-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%ED%8F%AC%ED%95%A8%ED%95%98%EB%8A%94%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
+- [5.04. 문자열 자르기](https://ysedeveloper.tistory.com/entry/504-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0)
 
 ---
 

@@ -21,7 +21,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/devops/fedora/" />
+<ToCLocal basePath="/devops/linux-fedora/" />
 
 ---
 

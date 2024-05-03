@@ -23,12 +23,14 @@ tag:
 
 ## Use Your Loaf
 
+- [Xcode Console and Unified Logging](https://useyourloaf.com/blog/xcode-console-and-unified-logging/)
 - [Xcode Bookmarks](https://useyourloaf.com/blog/xcode-bookmarks/)
 
 ---
 
 ## Medium
 
+- [`soumyamahunt` - Support Swift macros with CocoaPods](https://soumyamahunt.medium.com/support-swift-macros-with-cocoapods-3911f9317042)
 - [`okanghoon` - Xcode 프로젝트 관리를 위한 Tuist 알아보기](https://okanghoon.medium.com/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-tuist-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6a92950780be)
 - [`wemakeapps` - How to quickly get a `PrivacyInfo.xcprivacy` file for your iOS app](https://wemakeapps.medium.com/how-to-quickly-get-a-privacyinfo-xcprivacy-file-for-your-ios-app-9b43e7b938fe)
 
@@ -55,6 +57,18 @@ tag:
 ## Bryce Pauken
 
 - [Modding Plugins back into Xcode](https://bryce.co/xcode-plugin-loader/)
+
+---
+
+## Create with Swift - Anything is possible.
+
+- [Debug for visionOS using Xcode simulator visualizations](https://www.createwithswift.com/debug-visionos-using-xcode-simulator-visualizations/)
+
+---
+
+## Doordash Engineering
+
+- [How to detect iOS memory leaks and retain cycles using Xcode’s memory graph debugger](https://doordash.engineering/2019/05/22/ios-memory-leaks-and-retain-cycle-detection-using-xcodes-memory-graph-debugger/)
 
 ---
 

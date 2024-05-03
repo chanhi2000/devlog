@@ -339,5 +339,15 @@
     "desc": "SmartTube - an advanced player for set-top boxes and tvs running Android OS",
     "officialSite": "https://www.patreon.com/smarttube",
     "topics": ["android", "android-tv", "android-tv-box", "java", "kotlin", "retrofit2", "rxjava-android"]
+  }, {
+    "repo": "yoxjames/Kastro",
+    "desc": "A Kotlin Multiplatform library for calculating information about the sun and moon",
+    "officialSite": "https://yoxjames.github.io/Kastro/",
+    "topics": ["kotlin", "kotlin-library", "kotlin-multiplatform", "kotlin-multiplatform-library", "moon", "moon-phase", "sun-position", "sunrise", "sunrise-times", "sunset", "sunset-times"]
+  }, {
+    "repo": "rock3r/sandbox-demo",
+    "desc": "Compose for Desktop falling sand simulator",
+    "officialSite": "",
+    "topics": []
   }
 ]

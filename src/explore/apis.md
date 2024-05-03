@@ -208,6 +208,36 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Boxicons : Premium web friendly icons for free",
+  "desc": "Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines",
+  "link": "https://boxicons.com/",
+  "logo": "https://boxicons.com/static/favicon.ico?v=13",
+  "background": "rgba(17,17,17,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Tabler Icons: 5250+ free vector icons for web design - Tabler: Free and Open-Source HTML Dashboard Template",
+  "desc": "Tabler Icons: 5253 free and open source SVG icons. Customizable size, color and stroke width. Packages for React, SolidJS, Vue, Figma, Svelte and others are available. Icons can be downloaded as PNG, Webfont, PDF or EPS files. All for free!",
+  "link": "https://tabler.io/icons",
+  "logo": "https://tabler.io/favicon.ico",
+  "background": "rgba(34,83,160,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Phosphor Icons",
+  "desc": "A flexible icon family for interfaces, diagrams, presentations — whatever, really.",
+  "link": "https://phosphoricons.com/",
+  "logo": "https://phosphoricons.com/favicon.ico",
+  "background": "rgba(202,227,108,0.2)"
+}
+```
+
 - https://icons.getbootstrap.com
 
 ```component VPCard
@@ -607,7 +637,7 @@ https://anchor-tool.com/
   "title": "HEIC/HEIF to JPG Converter",
   "desc": "Convert multiple HEIC/HEIF images to JPG at once, in your browser.",
   "link": "https://heif.pages.dev/jpg/",
-  "backgground": "rgba(110,67,184,0.2)"
+  "background": "rgba(110,67,184,0.2)"
 }
 ```
 

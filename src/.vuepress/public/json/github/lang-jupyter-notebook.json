@@ -574,5 +574,20 @@
     "desc": "Kubernetes community content",
     "officialSite": "",
     "topics": ["kubernetes"]
+  }, {
+    "repo": "HVision-NKU/StoryDiffusion",
+    "desc": "Create Magic Story!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "alessiodm/drl-zh",
+    "desc": "Deep Reinforcement Learning: Zero to Hero!",
+    "officialSite": "",
+    "topics": ["deep-learning", "deep-reinforcement-learning", "machine-learning", "reinforcement-learning"]
+  }, {
+    "repo": "Kotlin/k2-performance-metrics",
+    "desc": "Measure Kotlin K2 compiler performance in your repository",
+    "officialSite": "",
+    "topics": []
   }
 ]

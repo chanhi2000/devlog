@@ -13,7 +13,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -590,7 +589,7 @@ Draw icons, circles, gradients, and more
 {
   "title": "How to let users import videos using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users import videos using PhotosPicker",
-"link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -2940,8 +2939,8 @@ Bring your views to life with movement
 
 ```component VPCard
 {
-  "title": "How to synchronize animations from one view to another with `matchedGeometryEffect()` | SwiftUI by Example",
-  "desc": "How to synchronize animations from one view to another with `matchedGeometryEffect()`",
+  "title": "How to synchronize animations from one view to another with matchedGeometryEffect() | SwiftUI by Example",
+  "desc": "How to synchronize animations from one view to another with matchedGeometryEffect()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-synchronize-animations-from-one-view-to-another-with-matchedgeometryeffect.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"

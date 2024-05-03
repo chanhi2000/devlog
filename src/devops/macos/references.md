@@ -222,6 +222,7 @@ tag:
 ## 멈춤보단 천천히라도
 
 - [Apple Silicon Macbook에 Ubuntu ARM64 설치하는 방법 ( UTM )](http://webnautes.tistory.com/2103)
+- [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/2101)
 
 ---
 

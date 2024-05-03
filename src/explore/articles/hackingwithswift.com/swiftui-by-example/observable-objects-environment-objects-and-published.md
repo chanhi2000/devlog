@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -118,7 +117,7 @@ class Order: ObservableObject {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to use @EnvironmentObject to share data between views",
+  "title": "How to use @EnvironmentObject to share data between views | SwiftUI by Example",
   "desc": "How to use @EnvironmentObject to share data between views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-environmentobject-to-share-data-between-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -128,7 +127,7 @@ class Order: ObservableObject {
 
 ```component VPCard
 {
-  "title": "Article(s) > What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
+  "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
   "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -140,13 +139,55 @@ class Order: ObservableObject {
 
 ::: details Similar solutions…
 
-What is the @Published property wrapper?
-All SwiftUI property wrappers explained and compared
-SwiftUI tips and tricks
-What is the @Environment property wrapper?
-How to use Instruments to profile your SwiftUI code and identify slow layouts
+```component VPCard
+{
+  "title": "What is the @Published property wrapper? | SwiftUI by Example",
+  "desc": "What is the @Published property wrapper?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-the-published-property-wrapper.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
-<!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
+  "desc": "All SwiftUI property wrappers explained and compared",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
+  "desc": "SwiftUI tips and tricks",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What is the @Environment property wrapper? | SwiftUI by Example",
+  "desc": "What is the @Environment property wrapper?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-the-environment-property-wrapper.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to use Instruments to profile your SwiftUI code and identify slow layouts | SwiftUI by Example",
+  "desc": "How to use Instruments to profile your SwiftUI code and identify slow layouts",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

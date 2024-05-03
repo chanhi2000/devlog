@@ -77,6 +77,9 @@ tag:
 - [[EasyWin32] 아날로그시계 만들기 - Step 2](https://blog.naver.com/tipsware/223429118146)
 - [`CTreeCtrl::GetFirstVisibleItem` 함수와 `CTreeCtrl::GetNextVisibleItem` 함수](https://blog.naver.com/tipsware/223429307908)
 - [[Q&A] CTreeCtrl 클래스의 GetItemText 함수에 대하여](https://blog.naver.com/tipsware/223430735541)
+- [블로그에서 소스 코드를 복사해서 사용할 때 생기는 사소한 문제에 대하여...](https://blog.naver.com/tipsware/223436644231?)
+- [[Q&A] 32비트 비트맵에서 알파(alpha) 속성을 출력하지 않으려면 어떻게 해야 하나요?](https://blog.naver.com/tipsware/223436563391?)
+- [MFC 프로그래밍 테스트 과제](https://blog.naver.com/tipsware/223435744748?)
 
 ---
 

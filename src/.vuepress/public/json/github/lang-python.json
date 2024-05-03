@@ -2976,8 +2976,8 @@
     "topics": ["3d", "computer-vision", "dynamic-scene", "gaussian-splatting", "graphics", "neural-network", "neural-rendering", "novel-view-synthesis", "radiance-field"]
   }, {
     "repo": "cpacker/MemGPT",
-    "desc": "Teaching LLMs memory management for unbounded context 📚🦙",
-    "officialSite": "https://memgpt.ai",
+    "desc": "Create LLM agents with long-term memory and custom tools 📚🦙",
+    "officialSite": "https://memgpt.readme.io",
     "topics": ["chat", "chatbot", "gpt", "gpt-4", "llm", "llm-agent"]
   }, {
     "repo": "NomaDamas/RAGchain",
@@ -5054,5 +5054,25 @@
     "desc": "PPPwn - PlayStation 4 PPPoE RCE",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "enzet/map-machine",
+    "desc": "Python renderer for OpenStreetMap with custom icons intended to display as many map features as possible",
+    "officialSite": "",
+    "topics": ["icons", "map", "maps", "openstreetmap", "openstreetmap-renderer", "osm", "python", "svg", "svg-icons", "svg-map"]
+  }, {
+    "repo": "Blealtan/efficient-kan",
+    "desc": "An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "pydantic/logfire",
+    "desc": "Uncomplicated Observability for Python and beyond! 🪵🔥",
+    "officialSite": "https://docs.pydantic.dev/logfire/",
+    "topics": ["fastapi", "logging", "metri", "observability", "openai", "opentelemetry", "pydantic", "python", "trace"]
+  }, {
+    "repo": "leftmove/cria",
+    "desc": "Run LLMs locally with as little friction as possible.",
+    "officialSite": "https://pypi.org/project/cria/",
+    "topics": ["collaborate", "github", "github-codespaces", "github-copilot", "llama", "llm", "ollama", "python"]
   }
 ]

@@ -229,6 +229,10 @@ tag:
 - [[ 99클럽 코테 스터디 30일차 TIL ] 백준 (10811번 - 바구니 뒤집기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-28%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-10811%EB%B2%88-%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%92%A4%EC%A7%91%EA%B8%B0)
 - [[ 99클럽 코테 스터디 29일차 TIL ] 백준 (30455번 - 이제는 더 이상 물러날 곳이 없다)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-30455%EB%B2%88-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EB%8D%94-%EC%9D%B4%EC%83%81-%EB%AC%BC%EB%9F%AC%EB%82%A0-%EA%B3%B3%EC%9D%B4-%EC%97%86%EB%8B%A4)
 - [[내일배움캠프 11일차 TIL] 개인과제1 : 계산기 만들기(level 1)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-11%EC%9D%BC%EC%B0%A8-TIL-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C1-%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0level-1)
+- [[ 99클럽 코테 스터디 33일차 TIL] 백준(15969번 - 행복)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-33%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%8015969%EB%B2%88-%ED%96%89%EB%B3%B5)
+- [[내일배움캠프 15일차 TIL] 형변환 및 팀 프로젝트 역할분담](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-15%EC%9D%BC%EC%B0%A8-TIL-%ED%98%95%EB%B3%80%ED%99%98-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%AD%ED%95%A0%EB%B6%84%EB%8B%B4)
+- [[JAVA] 형변환 정리](https://moonnight0.tistory.com/entry/JAVA-%ED%98%95%EB%B3%80%ED%99%98-%EC%A0%95%EB%A6%AC)
+- [[ 99클럽 코테 스터디 32일차 TIL ] Collections 및 프로그래머스 (명예의 전당(1))](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-32%EC%9D%BC%EC%B0%A8-TIL-Collections-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91)
 
 ### 류광의 번역 이야기
 
@@ -384,6 +388,7 @@ tag:
 - [Leetcode1669.`MergeInBetweenLinkedLists`](https://insanelysimple.tistory.com/484)
 - [Leetcode61.RotateList (kotlin)](https://insanelysimple.tistory.com/486)
 - [Leetcode713.SubarrayProductLessThanK](https://insanelysimple.tistory.com/487)
+- [Leetcode167.Two Sum II - Input Array Is Sorted](https://insanelysimple.tistory.com/489)
 
 ### 개발하는 곰돌이
 
@@ -422,6 +427,7 @@ tag:
 ### TOUCHLAB
 
 - [Calling Kotlin/Wasm methods from Javascript](https://touchlab.co/kotlin-wasm-js-interop)
+- [Beware of Build Time Bloat](https://touchlab.co/touchlab-build-only-what-you-need)
 
 ### Codersee
 
@@ -437,6 +443,7 @@ tag:
 
 - [Static Code Analysers](https://kt.academy/article/ak-static-analysis)
 - [Exercise: Implement shop functions](https://kt.academy/article/e_shop_functions)
+- [Item 28: Consider wrapping external APIs](https://kt.academy/article/ek-wrapping-api)
 
 ### zsmb.co
 
@@ -449,6 +456,14 @@ tag:
 ### Gun's Dev Log
 
 - [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html)
+
+### hudi.blog
+
+- [그 이모지는 사실 한 글자가 아닐수도 있다](https://hudi.blog/that-emoji-might-actually-not-be-a-single-character/)
+
+### 남경호
+
+- [Querydsl에서 Kotlin JDSL 으로](https://veluxer62.github.io/explanation/transfer-jdsl/)
 
 ---
 

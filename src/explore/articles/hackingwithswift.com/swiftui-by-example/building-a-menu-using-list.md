@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -243,13 +242,55 @@ By default SwiftUI's lists use the “inset grouped” style of `UITableView`, b
 
 ::: details Similar solutions…
 
-How to show a menu when a button is pressed
-How to let users pick options from a menu
-How to show a context menu
-SwiftUI tutorial: Building a complete project
-How to allow row selection in a list
+```component VPCard
+{
+  "title": "How to show a menu when a button is pressed | SwiftUI by Example",
+  "desc": "How to show a menu when a button is pressed",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-menu-when-a-button-is-pressed.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
-<!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "How to let users pick options from a menu | SwiftUI by Example",
+  "desc": "How to let users pick options from a menu",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-pick-options-from-a-menu.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to show a context menu | SwiftUI by Example",
+  "desc": "How to show a context menu",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-context-menu.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SwiftUI tutorial: Building a complete project | SwiftUI by Example",
+  "desc": "SwiftUI tutorial: Building a complete project",
+  "link": "https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to allow row selection in a list | SwiftUI by Example",
+  "desc": "How to allow row selection in a list",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-allow-row-selection-in-a-list.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

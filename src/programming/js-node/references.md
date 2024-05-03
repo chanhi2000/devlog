@@ -914,6 +914,8 @@ tag:
 ## 개발하는 기획자 기획하는 개발자
 
 - [Nest.js - 트랜잭션 (Transaction)](https://blog.naver.com/gi_balja/223422569009)
+- [Nest.js - 보고서 프로젝트 기본 세팅 (1)](https://blog.naver.com/gi_balja/223436913212)
+- [Nest.js - 보고서 프로젝트 기본 세팅 (2)](https://blog.naver.com/gi_balja/223437238342)
 
 ---
 

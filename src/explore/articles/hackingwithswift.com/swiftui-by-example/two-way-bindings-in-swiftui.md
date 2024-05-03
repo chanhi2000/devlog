@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -258,13 +257,55 @@ We added a button inside `ItemDetail` and it was blue text on a clear background
 
 ::: details Similar solutions…
 
-How to create constant bindings
-How to create custom bindings
-Bindings and forms
-SwiftUI tips and tricks
-Answering the big question: should you learn SwiftUI, UIKit, or both?
+```component VPCard
+{
+  "title": "How to create constant bindings | SwiftUI by Example",
+  "desc": "How to create constant bindings",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-constant-bindings.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
-<!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "How to create custom bindings | SwiftUI by Example",
+  "desc": "How to create custom bindings",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-custom-bindings.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Bindings and forms | SwiftUI by Example",
+  "desc": "Bindings and forms",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/bindings-and-forms.html",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
+  "desc": "SwiftUI tips and tricks",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
+  "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

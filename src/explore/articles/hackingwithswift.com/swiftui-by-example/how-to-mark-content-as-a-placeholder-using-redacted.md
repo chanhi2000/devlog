@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -131,7 +130,7 @@ Redaction also works on images using the same code as shown above.
 
 ```component VPCard
 {
-  "title": "Article(s) > How to add a placeholder to a TextField",
+  "title": "How to add a placeholder to a TextField | SwiftUI by Example",
   "desc": "How to add a placeholder to a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-placeholder-to-a-textfield.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

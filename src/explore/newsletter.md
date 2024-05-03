@@ -126,6 +126,26 @@ tag:
 
 ```component VPCard
 {
+  "title": "FreeFrontend",
+  "desc": "Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles.",
+  "link": "https://freefrontend.com/",
+  "logo": "https://freefrontend.com/favicon.ico",
+  "background": "rgba(17,17,17,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "주간 뉴스 - Sangkon Han(SigmaDream, sd or SD)",
+  "desc": "내가 한 주간 읽고/실행한 외국의 기사를 모아서 소개하는 Weekly 뉴스!",
+  "link": "https://www.sangkon.com/tag/weekly/",
+  "logo": "https://www.sangkon.com/favicon.ico",
+  "background": "rgba(21,23,26,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
   "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
   "link": "https://www.freecodecamp.org/news/",
@@ -283,7 +303,7 @@ tag:
   "title": "FONT CLUB",
   "desc": "뉴스 / 트렌드",
   "link": "http://www.fontclub.co.kr/?cat=1",
-  "logo": "http://www.fontclub.co.kr/wp-content/uploads/2018/02/xfc_apple.png.pagespeed.ic.MLXkUuhNER.webp",
+  "logo": "http://www.fontclub.co.kr/wp-content/uploads/2018/02/favicon.ico",
   "background": "rgba(93,203,200,0.2)"
 }
 ```

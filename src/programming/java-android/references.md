@@ -13,7 +13,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -86,7 +85,8 @@ tag:
 - [`@jacobras` - Getting the native iOS look & feel in your Compose Multiplatform app](https://medium.com/@jacobras/getting-the-native-ios-look-feel-in-your-compose-multiplatform-app-33371e6ad362)
 - [`bumble-tech` - Refining Compose API for design systems](https://medium.com/bumble-tech/refining-compose-api-for-design-systems-d652e2c2eac3)
 - [`proandroiddev` - Navigating the Waters of Kotlin Multiplatform: Exploring Navigation Solutions](https://proandroiddev.com/navigating-the-waters-of-kotlin-multiplatform-exploring-navigation-solutions-eef81aaa1a61)
-
+- [`proandroiddev` - Kotlin Design Patterns: Mediator](https://proandroiddev.com/kotlin-design-patterns-mediator-543f75bebe69)
+- [`androiddevelopers` - Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8)
 
 ---
 
@@ -141,6 +141,7 @@ tag:
 
 - [WRITING SWIFT-FRIENDLY KOTLIN MULTIPLATFORM APIS — PART IX: FLOW](https://www.droidcon.com/2023/09/14/writing-swift-friendly-kotlin-multiplatform-apis-part-ix-flow/)
 - [INTRODUCING IRIS MOCK: AN EASIER WAY TO MOCK NETWORK CALLS ON ANDROID](https://www.droidcon.com/2023/10/22/introducing-iris-mock-an-easier-way-to-mock-network-calls-on-android)
+- [HOW SUSPEND FUNCTIONS WORK IN KOTLIN: UNDER THE HOOD](https://www.droidcon.com/2024/04/25/how-suspend-functions-work-in-kotlin-under-the-hood/)
 
 ---
 
@@ -250,6 +251,7 @@ tag:
 ## John O'Reilly
 
 - [Using Amper with Fleet in a Kotlin/Compose Multiplatform project](https://johnoreilly.dev/posts/amper-kmp-climatetrace/)
+- [Using Jetpack Room in Kotlin Multiplatform shared code](https://johnoreilly.dev/posts/jetpack_room_kmp/)
 
 ---
 
@@ -279,6 +281,18 @@ tag:
 
 - [Jetpack Compose for iOS: Interoping with native Components](https://touchlab.co/jetpack-compose-ios-interop)
 - [Jetpack Compose to Compose Multiplatform: Transition Guide](https://touchlab.co/compose-multiplatform-transition-guide)
+
+---
+
+## sinasamaki
+
+- [5 Haptic Feedback Implementations To Enhance Your App](https://www.sinasamaki.com/haptic-feedback-in-jetpack-compose/)
+
+---
+
+## 찰스의 안드로이드
+
+- [멀티 모듈 프로젝트에서 BuildConfig를 단일로 관리하기](https://charlezz.com/?p=46662)
 
 ---
 

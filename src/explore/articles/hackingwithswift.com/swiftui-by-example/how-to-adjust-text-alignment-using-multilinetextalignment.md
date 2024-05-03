@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -140,7 +139,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust List row separator insets",
+  "title": "How to adjust List row separator insets | SwiftUI by Example",
   "desc": "How to adjust List row separator insets",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-list-row-separator-insets.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

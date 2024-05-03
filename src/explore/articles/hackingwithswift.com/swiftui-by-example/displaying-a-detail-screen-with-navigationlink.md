@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -251,7 +250,7 @@ With that small change, our image will run edge to edge on all iPhone screen siz
 
 ```component VPCard
 {
-  "title": "Article(s) > How to layer views on top of each other using ZStack",
+  "title": "How to layer views on top of each other using ZStack | SwiftUI by Example",
   "desc": "How to layer views on top of each other using ZStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-layer-views-on-top-of-each-other-using-zstack.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -261,7 +260,7 @@ With that small change, our image will run edge to edge on all iPhone screen siz
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust the position of a view using its offset",
+  "title": "How to adjust the position of a view using its offset | SwiftUI by Example",
   "desc": "How to adjust the position of a view using its offset",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-position-of-a-view-using-its-offset.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -273,13 +272,55 @@ With that small change, our image will run edge to edge on all iPhone screen siz
 
 ::: details Similar solutions…
 
-How to disable the overlay color for images inside Button and NavigationLink
-How to fix a Form Picker or a NavigationLink that isn't tappable
-How to use decorative images to reduce screen reader clutter
-How to present a full screen modal view using fullScreenCover()
-How to push a new view when a list row is tapped
+```component VPCard
+{
+  "title": "How to disable the overlay color for images inside Button and NavigationLink | SwiftUI by Example",
+  "desc": "How to disable the overlay color for images inside Button and NavigationLink",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
-<!-- TODO: add VPCard -->
+```component VPCard  
+{
+  "title": "How to fix a Form Picker or a NavigationLink that isn't tappable | SwiftUI by Example",
+  "desc": "How to fix a Form Picker or a NavigationLink that isn't tappable",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-a-form-picker-or-a-navigationlink-that-isnt-tappable.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{ 
+  "title": "How to use decorative images to reduce screen reader clutter | SwiftUI by Example",
+  "desc": "How to use decorative images to reduce screen reader clutter",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-decorative-images-to-reduce-screen-reader-clutter.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to present a full screen modal view using fullScreenCover() | SwiftUI by Example",
+  "desc": "How to present a full screen modal view using fullScreenCover()",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-present-a-full-screen-modal-view-using-fullscreencover.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to push a new view when a list row is tapped | SwiftUI by Example",
+  "desc": "How to push a new view when a list row is tapped",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-push-a-new-view-when-a-list-row-is-tapped.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

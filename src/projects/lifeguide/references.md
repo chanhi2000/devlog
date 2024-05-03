@@ -13,7 +13,7 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-
+[[toc]]
 
 ---
 
@@ -23,6 +23,12 @@ tag:
 - [건강보험 피부양자 자격 취득·상실 신고](https://www.gov.kr/mw/AA020InfoCappView.do?HighCtgCD=A05007&CappBizCD=14600000233)
 - [건강보험 피부양자 등록 조건 및 신청절차](https://sprime.kr/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98-%ED%94%BC%EB%B6%80%EC%96%91%EC%9E%90-%EB%93%B1%EB%A1%9D)
 - [피부양자 취득안내](https://www.nhis.or.kr/static/html/wbma/a/wbmaa0801.html)
+
+---
+
+## Medium
+
+- [개발자 삶의 질이 향상되는 장비 꿀템 추천 best 3 (2024년 버전)](https://baekkyoungjung.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%82%B6%EC%9D%98-%EC%A7%88%EC%9D%B4-%ED%96%A5%EC%83%81%EB%90%98%EB%8A%94-%EC%9E%A5%EB%B9%84-%EA%BF%80%ED%85%9C-%EC%B6%94%EC%B2%9C-best-3-2024%EB%85%84-%EB%B2%84%EC%A0%84-b8da414da09a)
 
 ---
 

@@ -41,6 +41,7 @@ tag:
 - [`@qkrtkdwns3410` - [MySQL] InnoDB 스토리지 엔진 아키텍처 특징 (1)](https://velog.io/@qkrtkdwns3410/MySQL-InnoDB-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%97%94%EC%A7%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8A%B9%EC%A7%95-1)
 - [`@eunbibi` - Tableau tutorial](https://velog.io/@eunbibi/Tableau-tutorial)
 - [`@eunbibi` - Tableau charts](https://velog.io/@eunbibi/Tableau-charts)
+- [`@beberiche` - 프로젝트 DB를 해킹 당했다.](https://velog.io/@beberiche/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-DB%EB%A5%BC-%ED%95%B4%ED%82%B9-%EB%8B%B9%ED%96%88%EB%8B%A4)
 
 ---
 
@@ -131,6 +132,12 @@ tag:
 ## 🛵꾸준한 꿈틀꿈틀
 
 - [MySQL 실행 계획 톺아보기](https://rnokhs.tistory.com/entry/MySQL-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
+
+---
+
+## 뭐라도 해야 한다면 기록을 하자
+
+- [ProxySQL을 사용하면 Connection을 줄일 수 있다고 ?](https://jakpentest.tistory.com/entry/ProxySQL%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-Connection%EC%9D%84-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0)
 
 ---
 

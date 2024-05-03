@@ -12,7 +12,6 @@ tag:
   - crashcourse
   - swift
   - swiftui
-  - hacking-with-swift
   - xcode
   - appstore
 head:
@@ -129,7 +128,15 @@ Image(systemName: "person.3.sequence.fill")
 
 ::: details Similar solutions…
 
-How to animate SF Symbols
+```component VPCard
+{
+  "title": "How to animate SF Symbols | SwiftUI by Example",
+  "desc": "How to animate SF Symbols",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-sf-symbols.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -153,7 +160,7 @@ How to animate SF Symbols
 
 ```component VPCard
 {
-  "title": "Article(s) > How to load custom colors from an asset catalog",
+  "title": "How to load custom colors from an asset catalog | SwiftUI by Example",
   "desc": "How to load custom colors from an asset catalog",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -163,7 +170,7 @@ How to animate SF Symbols
 
 ```component VPCard
 {
-  "title": "Article(s) > How to style text views with fonts, colors, line spacing, and more",
+  "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
