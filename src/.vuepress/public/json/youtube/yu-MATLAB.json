@@ -6,6 +6,27 @@
     "banner": "https://yt3.googleusercontent.com/DlyyIE4rxZjE6FKw535gUoxBceepVskadZtHylNRWoaaAX8EuQ7xkYAUUa8cjEfpahn0AV2PjA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "l1Nv2puO1xs", "title": "Teaching Digital Modulations Interactively with MATLAB" },
+    { "id": "OKXTch21MCY", "title": "Reduced Order Modeling for Jet Engine Turbine Blade" },
+    { "id": "5fXT7-8Rw84", "title": "How to Design PID Controllers for Power Converters" },
+    { "id": "2ykRNnmkpMo", "title": "How to Connect and Set Up a USRP N310 with MATLAB" },
+    { "id": "5-EwLK0ZrDw", "title": "Working Outside the App | Mixed-Signal Analyzer, Part 4" },
+    { "id": "FurgUbg_0zQ", "title": "Longitudinal Vehicle Motion | Simscape Essentials for Automotive Student Teams" },
+    { "id": "nP5bskekDnw", "title": "How to Use Conditional Logic in Simulink: From Switches and If-Else to Stateflow" },
+    { "id": "OesMMqSFxTE", "title": "Power Electronics Control Design | Instructor-Led Training - Course Overview" },
+    { "id": "Apd85ZlPfWk", "title": "Coursera Course Overview: Deep Learning for Computer Vision" },
+    { "id": "GtxbWL_Z2Bc", "title": "Electric Powertrain | Simscape Essentials for Automotive Student Teams" },
+    { "id": "F_WeQclNiR4", "title": "Getting Started with App Testing in MATLAB" },
+    { "id": "WmuHw7qrcyg", "title": "Teaching Introduction to Controls with MATLAB and Control 101 Toolbox" },
+    { "id": "vsIBuODnkzw", "title": "AI with Model-Based Design" },
+    { "id": "ZaQxNmG-WHU", "title": "How to Animate Plots in MATLAB: getframe() and movie() Explained" },
+    { "id": "XQsAFpyiG8o", "title": "What is the Reduced Order Modeler App?" },
+    { "id": "7LZD6LeCkhY", "title": "Building Machine Learning Models for Health Equity" },
+    { "id": "WXqsNNrFMY8", "title": "What Is Failure Mode and Effects Analysis (FMEA)?" },
+    { "id": "WizuZhN8B60", "title": "What Is Curve Fitting? Fitting Models to Data Made Easy with MATLAB" },
+    { "id": "O7p5B3EV-hc", "title": "What Is Curve Fitting Toolbox?" },
+    { "id": "MU_KYl8POvY", "title": "How to Perform an FMEA in MATLAB" },
+    { "id": "sro-BtpwKyE", "title": "Data Preprocessing with MATLAB" },
     { "id": "XOkn-zxhwc4", "title": "Object-Oriented Programming in MATLAB | Master Class with Loren Shure" }
   ]
 }

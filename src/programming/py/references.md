@@ -800,4 +800,10 @@ tag:
 
 ---
 
+## Yossi Kreinin - blog archive
+
+- [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
+
+---
+
 <TagLinks />

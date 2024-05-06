@@ -114,5 +114,10 @@
     "desc": "Business intelligence made simple",
     "officialSite": "",
     "topics": ["business-intelligence", "charts", "sql"]
+  }, {
+    "repo": "baweaver/refactor",
+    "desc": "Utilities for refactoring and upgrading Ruby code based on ASTs.",
+    "officialSite": "",
+    "topics": []
   }
 ]

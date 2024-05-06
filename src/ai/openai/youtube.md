@@ -140,5 +140,12 @@ tag:
 <MyYouTubeItems jsonName="yu-alejandro_ao" /><!-- Alejandro AO - Software & Ai -->
 <MyYouTubeItems jsonName="yu-encord" /><!-- Encord -->
 <MyYouTubeItems jsonName="yu-DigitalMirrorComputing" /><!-- Digital Mirror -->
+<MyYouTubeItems jsonName="yu-wkforum" /><!-- World Knowledge Forum -->
+<MyYouTubeItems jsonName="yu-GISCoordinated" /><!-- GIS Coordinated -->
+<MyYouTubeItems jsonName="yu-devlearn_creator" /><!-- DEV-LEARN 데브런 -AI 게임제작 강의 -->
+<MyYouTubeItems jsonName="yu-edwardjhu" /><!-- Edward Hu -->
+<MyYouTubeItems jsonName="yu-weirdeveloper" /><!-- 괴발자 -->
+<MyYouTubeItems jsonName="yu-n8n-io" /><!-- n8n -->
+<MyYouTubeItems jsonName="yu-JeffSu" /><!-- Jeff Su -->
 
 <TagLinks />

@@ -21,10 +21,23 @@ head:
     - property: og:description
       content: 5 Exciting New JavaScript Features in 2024
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.html
+      content: https://chanhi2000.github.io/explore/articles/sitepoint.com/new-javascript-ecmascript.html
+prev: /programming/js/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "JavaScript > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/js/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+[[toc]]
 
 <SiteInfo
   name="5 Exciting New JavaScript Features in 2024 — SitePoint"
@@ -36,8 +49,6 @@ head:
 > 2024.03.12
 
 The following proposals stand a good chance of making it into this year's version of ECMAScript:
-
-[[toc]]
 
 ---
 

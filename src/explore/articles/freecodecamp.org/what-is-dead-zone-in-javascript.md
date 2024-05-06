@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Overview of webpack, a JavaScript bundler
-description: Article(s) > Overview of webpack, a JavaScript bundler
+title: What is Dead Zone in JavaScript?
+description: Article(s) > What is Dead Zone in JavaScript?
 icon: fa-brands fa-node
 category: 
   - Node.js
@@ -16,9 +16,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > Overview of webpack, a JavaScript bundler
+      content: Article(s) > What is Dead Zone in JavaScript?
     - property: og:description
-      content: Overview of webpack, a JavaScript bundler
+      content: What is Dead Zone in JavaScript?
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.html
 ---

@@ -18,7 +18,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/devops/kubernetes/" />
+<ToCLocal basePath="/devops/k8s/" />
 
 ---
 

@@ -43,6 +43,12 @@ tag:
 
 ---
 
+## Tumblr
+
+- [`tgceec` - The Grand C++ Error Explosion Competition](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
+
+---
+
 ## divy.work
 
 - [Turbocall: the Just-in-time compiler for Deno FFI](https://divy.work/turbocall.html)

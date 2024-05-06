@@ -272,6 +272,12 @@ tag:
 
 ---
 
+## Farid Zakaria's Blog
+
+- [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
+
+---
+
 ## Misc.
 
 - [cppreference](https://en.cppreference.com/w/cpp/links/libs)

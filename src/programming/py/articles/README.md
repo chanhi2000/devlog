@@ -27,6 +27,16 @@ head:
 
 ```component VPCard
 {
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "요즘IT", 
   "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
@@ -46,6 +56,22 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Use DefaultDict in Python",
+  "desc": "Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-defaultdict-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 

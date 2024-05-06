@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/d-ZfrUaGIkvRxy-aPwAAFLkyYGFtTFWgeVqOfrj7d95mtvBuUo0IgyEKdkOEstng2-cREMxa=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Evg4HXvsYVY", "title": "Anthropic's Meta Prompt: A Must-try!" },
+    { "id": "s-jYxgKMqRc", "title": "Master CrewAI: Your Ultimate Beginner's Guide!" },
+    { "id": "GPfbPEYSckM", "title": "Master Claude 3 Haiku - The Crash Course!" },
+    { "id": "2Uar1fDKYpQ", "title": "CrewAI - Building a Custom Crew" },
+    { "id": "K0mb-pXdqsI", "title": "CrewAI + Claude 3 Haiku" },
+    { "id": "Ii6gs9zADEA", "title": "Colab 101: Your Ultimate Beginner's Guide!" },
+    { "id": "yiGvGahhTEs", "title": "Unlock The Gemini 1.5 Pro API  (+ File API )" },
+    { "id": "8Ul_0jddTU4", "title": "Llama 3 - 8B & 70B Deep Dive" },
+    { "id": "1D4YoAUpjlg", "title": "Llama3 + CrewAI + Groq = Email AI Agent" },
     { "id": "Y_k3bHPcPTo", "title": "MetaVoice 1B - TTS & Voice Cloning" },
     { "id": "PqS1kib7RTw", "title": "LangGraph Crash Course with code examples" },
     { "id": "9NJ196KlAE0", "title": "Ollama - Libraries, Vision and Updates" },

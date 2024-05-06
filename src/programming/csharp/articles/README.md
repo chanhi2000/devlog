@@ -23,9 +23,15 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
+```component VPCard
+{
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -44,6 +50,25 @@ head:
   "link": "https://code-maze.com/",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
+}
+```
+
+[[toc]]
+
+---
+
+## freeCodeCamp
+
+> freecodecamp.org
+
+
+```component VPCard
+{
+  "title": "How to Use Object-Oriented Programming in C# – Explained With Examples",
+  "desc": "Welcome to this comprehensive guide on object-oriented programming (OOP) using C#. This article will delve into the four fundamental pillars of OOP:  * Inheritance  * Encapsulation  * Polymorphism  * Abstraction Whether you're a seasoned programmer or a beginner stepping into the world of C#, this article",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-oop-in-c-sharp.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
 }
 ```
 

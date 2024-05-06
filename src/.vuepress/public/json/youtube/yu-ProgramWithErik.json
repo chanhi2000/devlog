@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/qwaYLUAbBeIcDmBR0G-k6p2v-fFgTPLxFJFPHAH--LQ16HaXI_GstOzSYcKMGGmDviHcsOEB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IxnyEHKxJ8A", "title": "How I Make Videos For Vue Developers 🤯🤯🤯" },
+    { "id": "PwwYqEy9A3M", "title": "What Is Vue 3 Vapor Mode?!" },
+    { "id": "-4OWElQ-8TQ", "title": "Can I Add Vitest To This Vue App? (Nuxt)" },
+    { "id": "NjaJfQN_zZo", "title": "Vue Just Announced Vitepress 1.0! The Best Static Site Generator Ever?" },
+    { "id": "1D1Y3h98SAM", "title": "New! Hosting Made Easy With AWS Amplify Gen 2" },
+    { "id": "lC6e-VXJcE4", "title": "Is this Vue's Static Site Project Dead?" },
     { "id": "SiOBwa2qNEw", "title": "TypeScript From End-To-End Changes Everything!" },
     { "id": "v6n-Q0CNq0Q", "title": "This Vue Mistake Was A Real Problem" },
     { "id": "M-oYhJlILbY", "title": "You're Using Tailwind CSS The Wrong Way! A look at reuse." },

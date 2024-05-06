@@ -68,7 +68,7 @@ Similarly, when we create view controllers from a storyboard or dequeue table vi
 
 These problems exist because IB and Swift are very separate things. This isn't a huge surprise – not only does Interface Builder date from way before the original Mac OS X was a thing, but it's also very much designed around the way Objective-C works.
 
-SwiftUI makes a hard break from that past. It's a Swift-only framework, not because Apple has decided that it's time for <FontIcon icon="iconfont icon-objectivec"/>Objective-C to die, but because it lets SwiftUI leverage the full range of Swift's functionality – value types, opaque return types, protocol extensions, and more.
+SwiftUI makes a hard break from that past. It's a Swift-only framework, not because Apple has decided that it's time for <FontIcon icon="iconfont icon-objective-c"/>Objective-C to die, but because it lets SwiftUI leverage the full range of Swift's functionality – value types, opaque return types, protocol extensions, and more.
 
 Anyway, we'll get onto exactly how SwiftUI works soon. For now, the least you need to know is that SwiftUI fixes many problems people had with the old Swift + Interface Builder approach:
 

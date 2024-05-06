@@ -29,6 +29,16 @@ head:
 
 ```component VPCard
 {
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "NHN Cloud Meetup - NHN 기술 블로그",
   "desc": "기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.",
   "link": "https://meetup.nhncloud.com/",
@@ -46,6 +56,22 @@ head:
 
 ---
 
+## freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Run SQL-Like Queries on C/C++ Files",
+  "desc": "Hello everyone! I'm a Software engineer who's interested in low-level programming, compilers, and tool development. At the end of 2023, I published my first article on freeCodeCamp about how I created a SQL-like Language to run queries on local Git repositories [/news/gql-design-and-implementation/]. If you want a bit more context, give",
+  "link": "/explore/articles/freecodecamp.org/run-sql-like-queries-on-cplusplus-files.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
 ## NHN Cloud Meetup - NHN 기술 블로그
 
 <SiteInfo
@@ -59,12 +85,15 @@ head:
 
 ## NAVER D2
 
-<SiteInfo
-  name="Virtual Thread의 기본 개념 이해하기 | NAVER D2"
-  desc="Virtual Thread의 기본 개념 이해하기"
-  url="https://d2.naver.com/helloworld/1203723"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/1203723/banner.png"/>
+```component VPCard
+{
+  "title": "Virtual Thread의 기본 개념 이해하기 | NAVER D2",
+  "desc": "Virtual Thread의 기본 개념 이해하기",
+  "link": "https://d2.naver.com/helloworld/1203723",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
 
 ---
 

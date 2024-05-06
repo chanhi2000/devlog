@@ -30,7 +30,6 @@ head:
 <MyYouTubeItems jsonName="yu-node.js" /><!-- nodejs-foundation -->
 <MyYouTubeItems jsonName="yu-AlgoJS" /><!-- AlgoJS -->
 <MyYouTubeItems jsonName="yu-bawad" /><!-- Ben Awad -->
-<MyYouTubeItems jsonName="yu-SonnySangha" /><!-- Sonny Sangha -->
 <MyYouTubeItems jsonName="yu-CodingNepal" /><!-- CodingNepal -->
 <MyYouTubeItems jsonName="yu-LamaDev" /><!-- Lama Dev -->
 <MyYouTubeItems jsonName="yu-JamesQQuick" /><!-- James Q Quick -->
@@ -39,7 +38,6 @@ head:
 <MyYouTubeItems jsonName="yu-codingapple" /><!-- 코딩애플 -->
 <MyYouTubeItems jsonName="yu-laithacademy" /><!-- Laith Academy -->
 <MyYouTubeItems jsonName="yu-javascriptmastery" /><!-- JavaScript Mastery -->
-<MyYouTubeItems jsonName="yu-ProgramWithErik" /><!-- Program With Erik -->
 <MyYouTubeItems jsonName="yu-Fireship" /><!-- Fireship -->
 <MyYouTubeItems jsonName="yu-beyondfireship" /><!-- Beyond Fireship -->
 <MyYouTubeItems jsonName="yu-DaveGrayTeachesCode" /><!-- Dave Gray -->
@@ -65,7 +63,6 @@ head:
 <MyYouTubeItems jsonName="yu-CodingAddict" /><!-- Coding Addict -->
 <MyYouTubeItems jsonName="yu-basarat" /><!-- basarat -->
 <MyYouTubeItems jsonName="yu-MichiganTypeScript" /><!-- Michigan TypeScript -->
-<MyYouTubeItems jsonName="yu-codewithantonio" /><!-- Code With Antonio -->
 <MyYouTubeItems jsonName="yu-CodingGarden" /><!-- Coding Garden -->
 <MyYouTubeItems jsonName="yu-HiteshChoudharydotcom" /><!-- Hitesh Choudhary -->
 <MyYouTubeItems jsonName="yu-pnk" /><!-- Paris Nakita Kejser -->

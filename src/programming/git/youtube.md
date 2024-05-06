@@ -42,5 +42,6 @@ tag:
 <MyYouTubeItems jsonName="yu-IogaMaster" /><!-- IogaMaster -->
 <MyYouTubeItems jsonName="yu-kingchobo" /><!-- 왕초보 홈페이지만들기 -->
 <MyYouTubeItems jsonName="yu-ComputersAndTechAndAndrew" /><!-- Cat and Andrew -->
+<MyYouTubeItems jsonName="yu-HiteshChoudharydotcom" /><!-- Hitesh Choudhary -->
 
 <TagLinks />

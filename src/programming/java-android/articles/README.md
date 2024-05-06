@@ -29,10 +29,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
-
 ```component VPCard
 {
   "title": "요즘IT", 
@@ -63,9 +59,13 @@ head:
 }
 ```
 
+[[toc]]
+
 ---
 
 ## 요즘IT
+
+> yozm.wishket.com
 
 ```component VPCard
 {
@@ -95,6 +95,8 @@ head:
 
 ## kt.Academy
 
+> kt.academy
+
 <SiteInfo
   name="A Pattern for Composing Flow Operations"
   desc="Extending and operating on top of your existing flows"
@@ -105,6 +107,8 @@ head:
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
+
+> meetup.nhncloud.com
 
 <SiteInfo
   name="PLT Hook 체크를 위한 Android so 파일 파싱 | NHN Cloud Meetup"

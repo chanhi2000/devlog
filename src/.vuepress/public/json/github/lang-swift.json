@@ -474,5 +474,10 @@
     "desc": "A tweak to get Spotify Premium for free, just like Spotilife",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "p0deje/Maccy",
+    "desc": "Lightweight clipboard manager for macOS",
+    "officialSite": "https://maccy.app",
+    "topics": ["clipboard-manager", "maccy", "macos"]
   }
 ]

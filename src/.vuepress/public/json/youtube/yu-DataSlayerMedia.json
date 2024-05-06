@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/LccQILUto2n-zFouViMD976gaRtb_IS1H7J05iZJ7sxPtwndFxq4WE9R6Hb-tFTkOp2hDjDXJg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "W-LlUe_EXjg", "title": "Dual Edge TPU: Double Power, Same Slot" },
+    { "id": "40llxjrIG3w", "title": "It's Been a Good Run, Phone Providers." },
+    { "id": "9azEfCQNhSA", "title": "You’ve Never Seen WiFi Like This" },
     { "id": "aLuBstep1Xw", "title": "I Found the Best NVMe Hat for the Raspberry Pi 5" }
   ]
 }

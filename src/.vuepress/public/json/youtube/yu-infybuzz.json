@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/ettAyMbwlAgTXtBsf9mInZs1cPZfCz92jgJQcxWxX6fwISG6YjAeHQg3iqvMeo3yhe84Qh7FL0k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "usk9mjRzJ-Y", "title": "Create Spring Boot Custom Banner | Custom Banner In Spring Boot" },
+    { "id": "QyOVIfgtPPc", "title": "Spring Boot Graceful Shutdown" },
     { "id": "_-p69BckrVg", "title": "Batch Processing with Spring Batch & Spring Boot - Udemy Course Overview" }, 
     { "id": "OROTCvW1lZE", "title": "PathVariable Vs RequestParam. Difference between PathVariable and RequestParam In Spring Boot" }, 
     { "id": "cXa5rxOE6tk", "title": "Read application.properties File In Spring Boot Using @Value Annotation" }, 

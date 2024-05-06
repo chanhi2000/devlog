@@ -18,7 +18,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/devops/kubernetes/articles/
+      content: https://chanhi2000.github.io/devops/k8s/articles/
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -33,10 +33,8 @@ head:
 }
 ```
 
-
 [[toc]]
 
----
 ---
 
 ## 요즘IT
@@ -45,9 +43,19 @@ head:
 
 ```component VPCard
 {
-  "title": "쿠버네티스 관리자를 위한 'CKA' 자격증 준비하기 | 요즘IT",
-  "desc": "쿠버네티스 관리자를 위한 'CKA' 자격증 준비하기",
-  "link": "/explore/articles/yozm.wishket.com/2556.md",
+  "title": "ChatGPT로 쿠버네티스 관리하는 방법 | 요즘IT",
+  "desc": "ChatGPT로 쿠버네티스 관리하는 방법",
+  "link": "/explore/articles/yozm.wishket.com/1990.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "키클락을 활용한 통합 인증 실습하기 | 요즘IT",
+  "desc": "키클락을 활용한 통합 인증 실습하기",
+  "link": "/explore/articles/yozm.wishket.com/2429.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -56,7 +64,7 @@ head:
 ```component VPCard
 {
   "title": "로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (1,2) | 요즘IT",
-  "desc": "로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (1) | 요즘IT",
+  "desc": "로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기",
   "link": "/explore/articles/yozm.wishket.com/2515.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
@@ -65,9 +73,9 @@ head:
 
 ```component VPCard
 {
-  "title": "ChatGPT로 쿠버네티스 관리하는 방법 | 요즘IT",
-  "desc": "ChatGPT로 쿠버네티스 관리하는 방법",
-  "link": "/explore/articles/yozm.wishket.com/1990.md",
+  "title": "쿠버네티스 관리자를 위한 'CKA' 자격증 준비하기 | 요즘IT",
+  "desc": "쿠버네티스 관리자를 위한 'CKA' 자격증 준비하기",
+  "link": "/explore/articles/yozm.wishket.com/2556.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

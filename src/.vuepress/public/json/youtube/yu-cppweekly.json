@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/hGuK35xxMUot29sl0pBB6v-59COh6a5L518qI2G74tzqtq13OYO5s4uMkgEANqQQ6zVz0A6R=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "s2XWAxbxk9M", "title": "C++ Weekly - Ep 420 - Moving From C++17 to C++20 (More constexpr!)" },
+    { "id": "0yJk5yfdih0", "title": "C++ Weekly - Ep 421 - You're Using optional, variant, pair, tuple, any, and expected Wrong!" },
+    { "id": "dvxj39gZ22I", "title": "C++ Weekly - Ep 422 - Moving from C++20 to C++23" },
+    { "id": "BpulWncdn9Y", "title": "C++ Weekly - Ep 423 - Complete Guide to Attributes Through C++23" },
+    { "id": "HgPfbYfV9eE", "title": "C++ Weekly - Ep 424 - .reset vs →reset()" },
+    { "id": "cUvdtLTJeec", "title": "C++ Weekly - Ep 425 - Using string_view, span, and Pointers Safely!" },
     { "id": "y8Aw6AnQMws", "title": "CS101++ - What Are Nibbles, Bits, Bytes and Words" },
     { "id": "KhF0INTcs5o", "title": "CS101++ - Exploring Circuit Simulation Tools: Online & Offline" },
     { "id": "84Zy1D8MWaI", "title": "C++ Weekly - Ep 415 - Moving From C++98 to C++11" },

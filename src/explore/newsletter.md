@@ -148,9 +148,19 @@ tag:
 {
   "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
   "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://www.freecodecamp.org/news/",
+  "link": "https://freecodecamp.org/news/",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Frontend Masters Boost – Helping Your Journey to Senior Developer",
+  "desc": "Helping Your Journey to Senior Developer",
+  "link": "https://frontendmasters.com/blog/",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
 }
 ```
 

@@ -106,5 +106,10 @@ tag:
 <MyYouTubeItems jsonName="yu-easyspub" /><!-- 이지스퍼블리싱 출판사 -->
 <MyYouTubeItems jsonName="yu-robotichead" /><!-- robotichead -->
 <MyYouTubeItems jsonName="yu-kimfl" /><!-- 프로그래머 김플 스튜디오 -->
+<MyYouTubeItems jsonName="yu-Khanradcoder" /><!-- Khanrad -->
+<MyYouTubeItems jsonName="yu-DataProfessor" /><!-- Data Professor -->
+<MyYouTubeItems jsonName="yu-Dataquestio" /><!-- Dataquest -->
+<MyYouTubeItems jsonName="yu-MUQ_UNKNOWN" /><!-- MUQ_UNKNOWN -->
+<MyYouTubeItems jsonName="yu-codingnoodle" /><!-- 코딩국수 -->
 
 <TagLinks />

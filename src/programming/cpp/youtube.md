@@ -17,6 +17,7 @@ tag:
 
 ---
 
+<MyYouTubeItems jsonName="yu-cppweekly" /><!-- C++ Weekly With Jason Turner -->
 <MyYouTubeItems jsonName="yu-Goodgis" /><!-- Goodgis -->
 <MyYouTubeItems jsonName="yu-code_report" /><!-- code_report -->
 <MyYouTubeItems jsonName="yu-DavesGarage" /><!-- Dave's Garage -->

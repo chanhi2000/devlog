@@ -783,6 +783,16 @@ https://anchor-tool.com/
 }
 ```
 
+```component VPCard
+{
+  "title": "World Food Atlas: Discover 17187 Local Dishes & Ingredients",
+  "desc": "World food atlas",
+  "link": "https://www.tasteatlas.com/map",
+  "logo": "https://www.tasteatlas.com/favicon.ico",
+  "background": "rgba(155,32,30,0.2)"
+}
+```
+
 - [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
 
 @tab Network & Security

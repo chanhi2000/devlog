@@ -5074,5 +5074,10 @@
     "desc": "Run LLMs locally with as little friction as possible.",
     "officialSite": "https://pypi.org/project/cria/",
     "topics": ["collaborate", "github", "github-codespaces", "github-copilot", "llama", "llm", "ollama", "python"]
+  }, {
+    "repo": "VinciGit00/Scrapegraph-ai",
+    "desc": "Python scraper based on AI",
+    "officialSite": "https://scrapegraph-doc.onrender.com/",
+    "topics": ["automated-scraper", "gpt-3", "gpt-4", "llama3", "llm", "machine-learning", "sc", "scraping", "scraping-python", "scrapingweb"]
   }
 ]

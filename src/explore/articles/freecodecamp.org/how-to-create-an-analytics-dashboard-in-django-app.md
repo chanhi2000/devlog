@@ -47,6 +47,8 @@ head:
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn-media-2.freecodecamp.org/w1280/5f9c9c9e740569d1a4ca3336.jpg"/>
 
+> 2020.02.12
+
 <!-- TODO: 내용기입 -->
 
 ---

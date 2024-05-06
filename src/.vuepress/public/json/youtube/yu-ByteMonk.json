@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/yDFX_JcOIer1Nvwt5KZN-miR0mJ0PhKk2Lz-er7bJwcLeYO1PA7JASbmgYpvMi3IabBHNiYYTA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5RzhSN1u8DY", "title": "How PayPal Scaled with just 8VM | Akka | System Design" },
+    { "id": "KOwxqhFUgts", "title": "Docker Explained Step by Step | System Design" },
+    { "id": "G0_e02DdH7I", "title": "How Web Sockets work | Deep Dive" },
+    { "id": "ExJxPANMreM", "title": "Apache Kafka Crash Course - Part 1" },
+    { "id": "2LCyDvx7iIE", "title": "Heartbeat | HTTP Keep-Alive | System Design" },
     { "id": "1VpqNYbdB6k", "title": "Unlock the Power of GraphQL in 10 minutes Vs REST" },
     { "id": "mG3xQb_-rV4", "title": "Stream Processing System Design Architecture" },
     { "id": "_acvJC3Smx4", "title": "Batch Processing System Design Architecture" },

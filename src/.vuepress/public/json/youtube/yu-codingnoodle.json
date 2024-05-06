@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "codingnoodle",
+    "name": "코딩국수",
+    "profile": "https://yt3.googleusercontent.com/RpcTGn418CVzcC_omD_VKY2i1Sh2-C6bgh6rGy8vmLxfv4bAFsX-3YiJ2f9SkYXBuTyKGNZd=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Bp-DmwIB5iHzbTgph3FKdGzmikrtsoCTl8A3xsO1R6daZeFPQOn8ohdGiieLw9-JQuMXV5wUel0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ppZq6A_Y5Vw", "title": "파이썬인데 p를 입력하면" },
+    { "id": "pa4UJyTF_zA", "title": "충격적인 ChatGPT 게임 개발 실력. 코딩 1도 없이 써보고 깨달은 것" },
+    { "id": "gQMiw_QiGKc", "title": "코딩 근육이 성장하기 전 느껴지는 신호 4가지" },
+    { "id": "YgIYiu7g5KU", "title": "프로그래밍 말고 \"이거\" 하세요" },
+    { "id": "vRKLeCQI4ig", "title": "알파고가 시작이었어요.." }
+  ],
+  "playlists": []
+}

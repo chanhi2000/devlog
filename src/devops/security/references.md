@@ -226,4 +226,10 @@ tag:
 
 ---
 
+## Leviathan Security Group
+
+- [TunnelVision (CVE-2024-3661): How Attackers Can Decloak Routing-Based VPNs For a Total VPN Leak](https://www.leviathansecurity.com/blog/tunnelvision)
+
+---
+
 <TagLinks />

@@ -23,7 +23,6 @@ tag:
   - "@ChiliTomatoNoodle"
   - "@ThinMatrix"
   - "@HongLab"
-  - "@cppweekly"
   - "@PaulProgramming"
   - "@ICBANQ"
   - "@cpponsea2834"
@@ -44,7 +43,6 @@ tag:
 <MyYouTubeItems jsonName="yu-ChiliTomatoNoodle" /><!-- ChiliTomatoNoodle -->
 <MyYouTubeItems jsonName="yu-ThinMatrix" /><!-- ThinMatrix -->
 <MyYouTubeItems jsonName="yu-HongLab" /><!-- 홍정모 -->
-<MyYouTubeItems jsonName="yu-cppweekly" /><!-- C++ Weekly With Jason Turner -->
 <MyYouTubeItems jsonName="yu-PaulProgramming"/><!-- Paul Programming -->
 <MyYouTubeItems jsonName="yu-ICBANQ" /><!-- NadoMaker -->
 <MyYouTubeItems jsonName="yu-angethegreat" /><!-- AngeTheGreat -->
@@ -78,5 +76,6 @@ tag:
 <MyYouTubeItems jsonName="yu-devopstoolbox" /><!-- DevOps Toolbox -->
 <MyYouTubeItems jsonName="yu-1BestCsharpblog" /><!-- 1BestCsharp blog -->
 <MyYouTubeItems jsonName="yu-quickandeasytools" /><!-- Quick and Easy Tools -->
+<MyYouTubeItems jsonName="yu-infybuzz" /><!-- Infybuzz -->
 
 <TagLinks />

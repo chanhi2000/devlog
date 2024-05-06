@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/8zU5yuENMaX22fyEm2826c4hjuUWVi_rwLYcIN5MbHkKX9yfOmuRO5W90AM7lHPFLLxuNe9wcQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "54r_XhU0sLI", "title": "How to Connect to Amazon EC2 Instance from Local Machine | Transfer file from local to EC2 using SCP" },
+    { "id": "uN05DrdZRSY", "title": "1.Terraform Introduction (IaC) | Terraform with AWS Course" },
+    { "id": "hOr38M6pVYw", "title": "2.Create Resource in AWS | Terraform with AWS Course" },
+    { "id": "VLcvkpUFUMo", "title": "4. AWS VPC using Terraform | Terraform with AWS tutorial" },
     { "id": "wnUOJ3B6piY", "title": "Deploy SpringBoot app using AWS Elastic Beanstalk in AWS | Amazon RDS" },
     { "id": "aXOB4tR0ONU", "title": "Deploy SpringBoot app with MySQL on Amazon EKS | Elastic Kubernetes Service | Step by step tutorial" },
     { "id": "bgeOIOctYSY", "title": "Securely connect to Private AWS RDS Database from Local System | SSH Tunnel" },

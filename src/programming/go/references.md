@@ -196,4 +196,12 @@ tag:
 
 - [Golang interview questions and answers in 2024](https://www.turing.com/interview-questions/golang)
 
+---
+
+## Eli Bendersky's website
+
+- [Faster XML stream processing in Go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
+
+---
+
 <TagLinks />

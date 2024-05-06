@@ -68,7 +68,7 @@ brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner cheatsheet  \
   dbeaver-community rancher eul flipper font-jetbrains-mono \
-  google-chrome grandperspective iina intellij-idea-ce notion \
+  google-chrome grandperspective iina intellij-idea-ce maccy notion \
   opencore-patcher oversight pennywise raycast resilio-sync \
   sf-symbols shottr spectacle sublime-merge sublime-text \
   the-unarchiver taskexplorer temurin11 transmission visual-studio-code \
@@ -88,12 +88,70 @@ brew install --cask airflow alt-tab appcleaner cheatsheet  \
 
 Install the following(s)
 
-- [XCode](https://apps.apple.com/us/app/xcode/id497799835)
-- [One Thing](https://apps.apple.com/us/app/one-thing/id1604176982)
-- [Particulars](https://apps.apple.com/us/app/particulars/id885120167)
-- [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066)
-- [Copy Clip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960)
-- [Cheetah - Virtual Machines](https://apps.apple.com/us/app/cheetah-vmm/id1612199418)
+<SiteInfo
+  name="Xcode on the Mac App Store"
+  desc="Developer Tools"
+  url="https://apps.apple.com/us/app/xcode/id497799835"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/47/47/8c/47478c1e-50ec-ef6a-6807-96abb72045a0/Xcode-85-220-0-4-2x-sRGB.png/492x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/6e/fb/c26efb5d-797d-0524-b674-61244898bb51/82b353b3-9ce0-4320-b3cd-9bda6c896a99_Xcode15-01-Preview-Macro.png/1286x0w.webp"/>
+
+<SiteInfo
+  name="One Thing on the Mac App Store"
+  desc="Put one task in your menu bar"
+  url="https://apps.apple.com/us/app/one-thing/id1604176982"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/e0/43/dfe043d3-ff4d-6edf-9912-f7859dc1db65/AppIcon-0-0-85-220-0-4-0-2x.png/492x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f5/47/c8/f547c84e-4ea9-d757-a63f-0feae9e9f2fe/fec70b04-3937-4bea-91ef-ff6fabd0238c_screenshot1.png/1286x0w.webp"/>
+
+
+<SiteInfo
+  name="Particulars on the Mac App Store"
+  desc="..."
+  url="https://apps.apple.com/us/app/particulars/id885120167"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/4e/f3/a24ef382-4865-2fc7-0d26-62a67d781023/AppIcon-0-85-220-4-0-0-2x-0-0.png/492x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/92/8b/ab/928babea-3471-56af-f6b1-76b622879c59/1f58e09c-b08b-4709-8c75-15efe573e782_Screenshot_2023-09-15_at_8.35.13_PM.png/1286x0w.webp"/>
+
+<SiteInfo
+  name="Hidden Bar on the Mac App Store"
+  desc="Hide menubar items"
+  url="https://apps.apple.com/us/app/hidden-bar/id1452453066"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/01/1d/27/011d2738-c5ab-6827-3059-3d64dbcfb4cd/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/492x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/87/ef/ee/87efee47-0191-bf71-9710-0474d7671f03/pr_source.png/1286x0w.webp"/>
+
+<SiteInfo
+  name="CopyClip - Clipboard History on the Mac App Store"
+  desc="Manage Your Clipboard"
+  url="https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/69/a4/7e69a465-b76c-cb88-c980-f8ac5bd69904/APPL.png/492x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/87/ef/ee/87efee47-0191-bf71-9710-0474d7671f03/pr_source.png/1286x0w.webp"/>
+
+<SiteInfo
+  name="Cheetah - Virtual Machines on the Mac App Store"
+  desc="A Lightweight VM Manager"
+  url="https://apps.apple.com/us/app/cheetah-virtual-machines/id1612199418"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/5d/98/fe5d9890-f0d2-d1a9-651b-2c56dec82c34/AppIcon-85-220-4-0-0-2x-0-0.png/492x0w.webp "
+  preview="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/d8/38/20d8380b-2f5c-fff1-264e-c7cfb4fd3137/6b30a779-3113-4d87-9946-b33754201fc7_Screenshot_2023-08-21_at_19.27.24.png/1286x0w.webp"/>
+
+<SiteInfo
+  name="RunCat on the Mac App Store"
+  desc="Cat living in the menubar"
+  url="https://apps.apple.com/us/app/runcat/id1429033973"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/93/41/90934174-69f0-7621-e810-01cdeb17d62e/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/460x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/6a/f0/646af098-2d40-5833-d318-1d71d3ef0f72/28c44356-7287-4db3-b672-dc3c921674ca_1.png/1286x0w.webp"/>
+
+<SiteInfo
+  name="GIPHY Capture. The GIF Maker on the Mac App Store"
+  desc="..."
+  url="https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/98/b7/63/98b76370-8dd8-e7ff-9832-87a404cc524c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/460x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/b9/50/0f/b9500fe9-0107-a750-49be-caa47faf7a4a/pr_source.png/626x0w.webp"/>
+
+<SiteInfo
+  name="ScanTexter - AI translation on the App Store"
+  desc="Text extraction & translation"
+  url="https://apps.apple.com/us/app/scantexter-ai-translation/id1635954549"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/45/0b/5c450ba9-9f82-9e9d-8c30-a6ba950adf91/AppIcon-0-0-85-220-0-0-4-0-2x.png/492x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/63/d7/7e/63d77eba-8664-a173-6b45-33ee72128440/3db67eb9-a5de-4fa6-a90c-ae4754e8dbf8_previews1.png/1286x0w.webp"/>
+
 
 ### B3. Use `mas` to install
 
@@ -104,12 +162,16 @@ Install the following(s)
 # 1452453066: Hidden Bar
 # 595191960: Copy Clip
 # 1612199418: Cheetah - Virtual Machines
+# 1429033973: RunCat
+# 1635954549: ScanTexter - AI translation 
 mas install 497799835 \
     1604176982 \
     885120167 \
     1452453066 \
-    595191960 \
-    1612199418
+    # 595191960 \
+    1612199418 \
+    1429033973 \
+    1635954549
 ```
 
 ---

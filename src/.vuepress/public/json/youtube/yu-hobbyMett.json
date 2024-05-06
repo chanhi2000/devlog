@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/knZWtmFBCHXLGNhlaXU7NgZLLKWLE_8BBn-oATMTR0LuBnayGCAp9-zcuDPO3QT8S15ch54DEN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ogV4d6q-ykQ", "title": "NextJS 14 : quick start" },
+    { "id": "XzPT6jXzBF0", "title": "spring cloud : config" },
+    { "id": "rQwJMmgx_bg", "title": "React Query : quick start" },
+    { "id": "bSdW8_68jcU", "title": "[오후의 Backlog] 4회 오후생각, 3월의 설문결과, 프론트와 React, Spring, 못다한 이야기" },
+    { "id": "iCwN4csEA8A", "title": "리펙터링 - 메서드 정리" },
+    { "id": "9egl5-3dxhg", "title": "Lighthouse로 성능측정하고 pre-Fetching으로 개선하기" },
+    { "id": "JgOI-PstGDs", "title": "JDK 22 부터는 외부 리소스의 메모리 관리가 잘 될까" },
+    { "id": "zEUsNBSq9C8", "title": "graphql spec편" },
+    { "id": "AeCoJnpfTRI", "title": "[오후의 Backlog] 5회 오후생각, 이달의설문, 이벤트스토밍과UML, 리팩토링과애플리케이션통합, 상품Goods에대하여, 반복공정,키보드리뷰,쉬어가기" },
+    { "id": "rYN9EhT3Mxc", "title": "Java 데이터 다루기 입문(풀코스, 2시간)" },
     { "id": "WTvJVV91lts", "title": "스프링부트 : 코드 커버리지" },
     { "id": "q0BpiA6HVGE", "title": "React Redux toolkit : quick start" },
     { "id": "L5ID-3r-U4w", "title": "Zustand는 작고, 빠르고, 확장가능한 상태관리 솔루션입니다." },

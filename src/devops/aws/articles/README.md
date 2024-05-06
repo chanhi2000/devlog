@@ -33,13 +33,21 @@ head:
 }
 ```
 
-<ShieldsGroup logos="amazon,amazonaws,amazonec2,amazonecs,amazoneks,amazons3"/>
-
 ---
 
 ## 요즘IT
 
 > yozm.wishket.com
+
+```component VPCard
+{
+  "title": "AWS Personalize 활용한 개인화 추천 서비스 론칭기 | 요즘IT",
+  "desc": "AWS Personalize 활용한 개인화 추천 서비스 론칭기",
+  "link": "/explore/articles/yozm.wishket.com/2443.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

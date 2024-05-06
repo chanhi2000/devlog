@@ -1351,9 +1351,9 @@
     "topics": ["llm", "search-engine"]
   }, {
     "repo": "plandex-ai/plandex",
-    "desc": "An AI coding engine for complex tasks",
+    "desc": "An AI coding engine for building complex, real-world software with LLMs",
     "officialSite": "https://plandex.ai",
-    "topics": ["ai", "ai-agents", "ai-developer-tools", "ai-tools", "cli", "developer-tools", "golang", "gpt-4", "llm", "openai", "polyglot-programming", "terminal-based"]
+    "topics": ["ai", "ai-agents", "ai-developer-tools", "ai-tools", "cli", "command-line", "developer-tools", "git", "golang", "gpt-4", "llm", "openai", "polyglot-programming", "terminal", "terminal-based", "terminal-ui"]
   }, {
     "repo": "aurora-develop/aurora",
     "desc": "free",

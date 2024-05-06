@@ -21,5 +21,6 @@ tag:
 
 <MyYouTubeItems jsonName="yu-HasGeekTV" /><!-- Hasgeek TV -->
 <MyYouTubeItems jsonName="yu-ElixirConf" /><!-- ElixirConf -->
+<MyYouTubeItems jsonName="yu-teej_dv" /><!-- TJ DeVries -->
 
 <TagLinks />

@@ -25,7 +25,6 @@ tag:
   - "@javajigi"
   - "@rabisankarpodder7839"
   - "@GainJavaKnowledge"
-  - "@infybuzz"
   - "@java"
   - "@namoosori"
   - "@metacoding"
@@ -134,7 +133,6 @@ head:
 <MyYouTubeItems jsonName="yu-ntigo" /><!-- 김대협 -->
 <MyYouTubeItems jsonName="yu-javajigi" /><!-- 박재성 -->
 <MyYouTubeItems jsonName="yu-rabisankarpodder7839" /><!-- Rabi Sankar Podder -->
-<MyYouTubeItems jsonName="yu-infybuzz" /><!-- Infybuzz -->
 <MyYouTubeItems jsonName="yu-java" /><!-- Java -->
 <MyYouTubeItems jsonName="yu-namoosori" /><!-- 나무소리 -->
 <MyYouTubeItems jsonName="yu-metacoding" /><!-- 메타코딩 -->

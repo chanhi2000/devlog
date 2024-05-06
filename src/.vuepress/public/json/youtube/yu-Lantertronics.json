@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/ZePsd0ctNjbAyIutChwfAfkpuakvLkt6k6JsOARR1ZJnB4Bsll3vCzPDmJMWIddeyzv7MB8eTA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h0odRXbh5YU", "title": "Thursday Passive Tone Control Breadboarding (Guitar Amplification and Effects)" },
+    { "id": "C1l9Nv2pik4", "title": "Harmonic Jerkulator Measurements on the Breadboard (Inspired by Harmonic Percolator Guitar Pedal)" },
+    { "id": "1GnpffRgCcE", "title": "Osborne 1 \"Portable\" Teardown and Oscilloscope Tests (and Why You Should Read the Manual First)" },
+    { "id": "UiBNPq-1Nmw", "title": "Bit Crusher Plugin Made using JUCE (Retrofuturistic Hardware Vertically Integrated Project)" },
+    { "id": "EOo-nQFZKQ8", "title": "iOS Ear Training App for Mix Engineers Written in Swift (Retrofuturistic Hardware VIP)" },
     { "id": "tf2xC-sdaaU", "title": "Plop Boot Manager Helps Install Windows XP on a Devious Dell Dimension 8300 that Won't Boot from CD" },
     { "id": "KaBgQo3rFx4", "title": "Emitter Followers with Active Loads Analyzed via Ebers-Moll Model (no small-signal analysis needed!)" },
     { "id": "3fwr9-AnCNI", "title": "Falstad Fun: Common Emitter & Base Amps with Active Loads (Analog Electronics)" },

@@ -151,6 +151,10 @@ export const navbarEn = navbar([
         link: '/programming/py-airflow/README.md',
         icon: 'iconfont icon-apacheairflow',
       }, {
+        text: 'Objective-C',
+        icon: 'iconfont icon-objective-c',
+        link: '/programming/objc/README.md',
+      }, {
         text: 'CSS',
         link: '/programming/css/README.md',
         icon: 'fa-brands fa-css3-alt'
@@ -284,7 +288,7 @@ export const navbarEn = navbar([
       }, {
         text: 'Kubernetes',
         icon: 'fas fa-dharmachakra',
-        link: '/devops/kubernetes/README.md',
+        link: '/devops/k8s/README.md',
       }, {
         text: 'Openshift',
         icon: 'fa-brands fa-redhat',
@@ -337,6 +341,10 @@ export const navbarEn = navbar([
         text: 'Selenium',
         icon: 'iconfont icon-selenium',
         link: '/devops/selenium/README.md',
+      }, {
+        text: 'Playwright',
+        icon: 'iconfont icon-playwright',
+        link: '/devops/playwright/README.md',
       }, {
         text: '🦖JEUS',
         link: '/devops/jeus/README.md',
@@ -491,7 +499,11 @@ export const navbarEn = navbar([
       { 
         text: 'Explore',
         icon: 'fas fa-globe',
-        link: '/explore/README.md',
+        children: [
+          '/explore/README.md',
+          '/explore/newsletter.md',
+          '/explore/apis.md',
+        ]
       }, {
         text: 'Public API',
         icon: 'iconfont icon-api  ',

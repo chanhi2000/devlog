@@ -1,19 +1,19 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 📊Power BI > Youtube
+description: Power BI > Youtube
 icon: fa-brands fa-youtube
 category: 
-  - 📊Power BI
+  - Microsoft
+  - Power BI
   - Youtube
 tag: 
   - youtube
   - powerbi
-  - bi
+  - power-bi
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 
@@ -21,5 +21,6 @@ tag:
 
 <MyYouTubeItems jsonName="yu-yourownkpi" /><!-- Your Own KPI -->
 <MyYouTubeItems jsonName="yu-GuyInACube" /><!-- Guy in a Cube -->
+<MyYouTubeItems jsonName="yu-PowerBIPark" /><!-- Power BI Park -->
 
 <TagLinks />

@@ -408,7 +408,7 @@
     "repo": "codecrafters-io/build-your-own-x",
     "desc": "Master programming by recreating your favorite technologies from scratch.",
     "officialSite": "https://codecrafters.io",
-    "topics": ["programming", "tutorials", "free", "awesome-list", "tutorial-code", "tutorial-exercises"]
+    "topics": ["awesome-list", "free", "programming", "tutorial-code", "tutorial-exercises", "tutorials"]
   }, {
     "repo": "dariubs/GoBooks",
     "desc": "List of Golang books",

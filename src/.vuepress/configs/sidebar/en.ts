@@ -1,5 +1,5 @@
 import { sidebar } from 'vuepress-theme-hope'
-import { douggregor, hackingwithswift } from './articles'
+import { articleSidebars, hackingwithswift } from './articles'
 
 export const sidebarEn = sidebar({
   '/programming/': [
@@ -34,16 +34,8 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/devkuma.com/makefile.md',
               ]
-            }, {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/53.md',
-                '/explore/articles/meetup.nhncloud.com/54.md',
-                '/explore/articles/meetup.nhncloud.com/55.md',
-              ]
-            }
+            },
+            articleSidebars.nhn("sh")
           ]
         }
       ]
@@ -99,30 +91,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/git/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2545.md',
-              ]
-            }, {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/39.md',
-                '/explore/articles/meetup.nhncloud.com/45.md',
-                '/explore/articles/meetup.nhncloud.com/377.md',
-              ]
-            }, {
-              text: 'd2.naver.com',
-              collapsible: true,
-              icon: '/images/content/d2.naver.com/favicon.ico',
-              children: [
-                '/explore/articles/d2.naver.com/1011.md',
-              ]
-            }, 
+            articleSidebars.yozm("git"),
+            articleSidebars.d2("git"),
+            articleSidebars.nhn("git"),
           ]
         }
       ]
@@ -197,29 +168,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2478.md',
-                '/explore/articles/yozm.wishket.com/2561.md',
-              ]
-            }, {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/47.md',
-              ]
-            }, {
-              text: 'd2.naver.com',
-              collapsible: true,
-              icon: '/images/content/d2.naver.com/favicon.ico',
-              children: [
-                '/explore/articles/d2.naver.com/6445508.md',
-              ]
-            }, {
+            articleSidebars.yozm("java"),
+            articleSidebars.nhn("java"),
+            articleSidebars.d2("java"), {
               text: 'kt.academy',
               collapsible: true,
               icon: 'https://kt.academy/logo.png',
@@ -255,24 +206,9 @@ export const sidebarEn = sidebar({
               children: [
                 '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
               ]
-            }, {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/44.md',
-                '/explore/articles/meetup.nhncloud.com/46.md',
-                '/explore/articles/meetup.nhncloud.com/374.md',
-                '/explore/articles/meetup.nhncloud.com/379.md',
-              ]
-            }, {
-              text: 'd2.naver.com',
-              collapsible: true,
-              icon: '/images/content/d2.naver.com/favicon.ico',
-              children: [
-                '/explore/articles/d2.naver.com/1203723.md',
-              ]
-            }, {
+            },
+            articleSidebars.nhn("java-spring"),
+            articleSidebars.d2("java-spring"), {
               text: 'blog.gangnamunni.com',
               collapsible: true,
               icon: 'https://blog.gangnamunni.com/favicon.ico',
@@ -314,28 +250,16 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-android/articles/README.md',
+            articleSidebars.yozm("java-android"),
+            articleSidebars.nhn("java-android"),
             {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2457.md',
-              ]
-            }, {
               text: "droidcon.com",
               collapsible: true,
               icon: 'https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png',
               children: [
                 '/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md'
               ]
-            },  {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/371.md',
-              ]
-            }
+            },
           ]
         }
       ]
@@ -353,14 +277,7 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            {
-              text: 'd2.naver.com',
-              collapsible: true,
-              icon: '/images/content/d2.naver.com/favicon.ico',
-              children: [
-                '/explore/articles/d2.naver.com/6445508.md',
-              ]
-            }, 
+            articleSidebars.d2("java-kafka")
           ]
         }
       ]
@@ -390,14 +307,7 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            douggregor(), hackingwithswift(), {
-              text: 'donnywals.com',
-              collapsible: true,
-              icon: 'https://www.donnywals.com/wp-content/uploads/cropped-site-icon-192x192.png',
-              children: [
-                '/explore/articles/donnywals.com/how-to-use-experimental-swift-versions-and-features-in-xcode.md'
-              ]
-            }
+            articleSidebars.douggregor("swift"), articleSidebars.donnywals("swift"), hackingwithswift(),
           ]
         }
       ]
@@ -418,16 +328,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js/articles/README.md',
-            {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/80.md',
-                '/explore/articles/meetup.nhncloud.com/251.md',
-                '/explore/articles/meetup.nhncloud.com/371.md',
-              ]
-            },
+            articleSidebars.sitepoint("js"),
+            articleSidebars.nhn("js"),
           ]
         }
       ]
@@ -444,14 +346,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/npm/articles/README.md',
-            {
-              text: 'techblog.woowahan.com',
-              collapsible: true,
-              icon: 'https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico',
-              children: [
-                '/explore/articles/techblog.woowahan.com/15903.md',
-              ]
-            }
+            articleSidebars.woowahan("npm"),
           ]
         }
       ],
@@ -474,24 +369,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-node/articles/README.md',
+            articleSidebars.yozm("js-node"),
+            articleSidebars.freecodecamp('js-node'), 
             {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2483.md',
-                '/explore/articles/yozm.wishket.com/2504.md',
-                '/explore/articles/yozm.wishket.com/2505.md',
-                '/explore/articles/yozm.wishket.com/2565.md',
-              ]
-            }, {
-              text: 'freecodecamp.org',
-              icon: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
-              collapsible: true,
-              children: [
-                '/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.md'
-              ]
-            }, {
               text: 'devtoolstips.org',
               collapsible: true,
               icon: 'https://devtoolstips.org/assets/favicon.ico',
@@ -511,36 +391,17 @@ export const sidebarEn = sidebar({
                 '/explore/articles/devtoolstips.org/inspect-devtools-with-devtools.md',
                 '/explore/articles/devtoolstips.org/create-your-own-devtools-theme.md',
               ]
-            }, {
-              text: 'd2.naver.com',
-              collapsible: true,
-              icon: '/images/content/d2.naver.com/favicon.ico',
-              children: [
-                '/explore/articles/d2.naver.com/6532276.md',
-              ]
-            }, {
-              text: 'sitepoint.com',
-              collapsible: true,
-              icon: 'https://www.sitepoint.com/favicons/512x512.png',
-              children: [
-                '/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md',
-              ]
-            }, {
+            }, 
+            articleSidebars.d2("js-node"), 
+            articleSidebars.nhn("js-node"),
+            {
               text: 'johnnyreilly.com',
               collapsible: true,
               icon: 'https://johnnyreilly.com/favicon.ico',
               children: [
                 '/explore/articles/johnnyreilly.com/webpack-overview.md',
               ]
-            }, {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/73.md',
-                '/explore/articles/meetup.nhncloud.com/85.md',
-              ]
-            }
+            }, 
           ]
         }
       ]
@@ -561,17 +422,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-react/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2479.md',
-                '/explore/articles/yozm.wishket.com/2493.md',
-                '/explore/articles/yozm.wishket.com/2528.md',
-                '/explore/articles/yozm.wishket.com/2537.md',
-              ]
-            }
+            articleSidebars.yozm("js-react"),
+            articleSidebars.freecodecamp("js-react"),
           ]
         }
       ]
@@ -591,14 +443,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-vue/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2511.md',
-              ]
-            }
+            articleSidebars.yozm("js-vue"),
           ]
         }
       ]
@@ -676,23 +521,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2543.md',
-                '/explore/articles/yozm.wishket.com/2536.md',
-                '/explore/articles/yozm.wishket.com/2057.md',
-              ]
-            }, {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/378.md',
-              ]
-            }
+            articleSidebars.freecodecamp("py"),
+            articleSidebars.yozm("py"),
+            articleSidebars.nhn("py"),
           ]
         }
       ]
@@ -712,14 +543,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py-django/articles/README.md',
-            {
-              text: 'freecodecamp.org',
-              icon: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
-              collapsible: true,
-              children: [
-                '/explore/articles/freecodecamp.org/how-to-create-an-analytics-dashboard-in-django-app.md',
-              ]
-            }
+            articleSidebars.freecodecamp('py-django'),
           ]
         }
       ]
@@ -732,6 +556,24 @@ export const sidebarEn = sidebar({
         '/programming/py-airflow/references.md',
       ]
     }, {
+      text: 'Objective-C',
+      collapsible: true,
+      icon: 'iconfont icon-objective-c',
+      children: [
+        '/programming/objc/README.md',
+        '/programming/objc/references.md',
+        '/programming/objc/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/objc/articles/README.md',
+            articleSidebars.nhn("objc"),
+          ]
+        }
+      ]
+    },{
       text: 'CSS',
       collapsible: true,
       icon: 'fa-brands fa-css3-alt',
@@ -747,6 +589,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/css/articles/README.md',
+            articleSidebars.yozm("css"),
             {
               text: 'devtoolstips.org',
               collapsible: true,
@@ -758,14 +601,11 @@ export const sidebarEn = sidebar({
                 '/explore/articles/devtoolstips.org/highlight-elements-from-selector.md',
                 '/explore/articles/devtoolstips.org/find-rule-that-causes-style.md',
               ]
-            }, {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/311.md',
-              ]
-            }
+            },
+            articleSidebars.frontendmaster("css"),
+            articleSidebars.piccalilli("css"),
+            articleSidebars.sitepoint("css"),
+            articleSidebars.nhn("css"),
           ]
         }
       ]
@@ -805,7 +645,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/csharp/articles/README.md',
-            {
+            articleSidebars.freecodecamp('py-django'), {
               text: 'johnnyreilly.com',
               collapsible: true,
               icon: 'https://johnnyreilly.com/favicon.ico',
@@ -837,18 +677,7 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            {
-              text: 'd2.naver.com',
-              collapsible: true,
-              icon: '/images/content/d2.naver.com/favicon.ico',
-              children: [
-                '/explore/articles/d2.naver.com/8588537.md',
-                '/explore/articles/d2.naver.com/6178029.md',
-                '/explore/articles/d2.naver.com/2690202.md',
-                '/explore/articles/d2.naver.com/6507662.md',
-                '/explore/articles/d2.naver.com/8404108.md',
-              ]
-            }
+            articleSidebars.d2("go")
           ]
         }
       ]
@@ -920,14 +749,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/c/articles/README.md',
-            {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/376.md',
-              ]
-            }
+            articleSidebars.nhn("c"),
           ]
         }
       ]
@@ -947,21 +769,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             'programming/cpp/articles/README.md',
-            {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/378.md',
-              ]
-            }, {
-              text: 'd2.naver.com',
-              collapsible: true,
-              icon: '/images/content/d2.naver.com/favicon.ico',
-              children: [
-                '/explore/articles/d2.naver.com/1203723.md',
-              ]
-            }
+            articleSidebars.freecodecamp("cpp"), 
+            articleSidebars.nhn("cpp"), 
+            articleSidebars.d2("cpp"),
           ]
         }
       ]
@@ -1062,14 +872,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/intellij-idea/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2478.md',
-              ]
-            }
+            articleSidebars.yozm("intellij-idea")
           ]
         }
       ]
@@ -1091,14 +894,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/vscode/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2478.md',
-              ]
-            }
+            articleSidebars.yozm("vscode"),
           ]
         }
       ],
@@ -1250,6 +1046,15 @@ export const sidebarEn = sidebar({
         '/devops/github/troubleshooting.md',
         '/devops/github/references.md',
         '/devops/github/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/github/articles/README.md',
+            articleSidebars.freecodecamp('github')
+          ]
+        }
       ]
     }, {
       text: 'Gitlab',
@@ -1285,6 +1090,15 @@ export const sidebarEn = sidebar({
         '/devops/windows/tips.md',
         '/devops/windows/wsl.md',
         '/devops/windows/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/windows/articles/README.md',
+            articleSidebars.yozm("windows"),
+          ]
+        }
       ]
     }, {
       text: 'Linux - Debian',
@@ -1329,14 +1143,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/linux-debian/articles/README.md',
-            {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/38.md',
-              ]
-            }
+            articleSidebars.nhn("linux-debian"),
           ]
         }
       ]
@@ -1432,14 +1239,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/docker/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2527.md',
-              ]
-            }
+            articleSidebars.yozm("docker"),
           ]
         }
       ]
@@ -1473,25 +1273,16 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fas fa-dharmachakra',
       children: [
-        '/devops/kubernetes/README.md',
-        '/devops/kubernetes/references.md',
-        '/devops/kubernetes/youtube.md',
+        '/devops/k8s/README.md',
+        '/devops/k8s/references.md',
+        '/devops/k8s/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/devops/kubernetes/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/1990.md',
-                '/explore/articles/yozm.wishket.com/2515.md',
-                '/explore/articles/yozm.wishket.com/2556.md',
-              ]
-            }
+            '/devops/k8s/articles/README.md',
+            articleSidebars.yozm("k8s")
           ]
         }
       ]
@@ -1517,14 +1308,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/aws/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2541.md',
-              ]
-            }
+            articleSidebars.yozm("aws")
           ]
         }
       ]
@@ -1603,14 +1387,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/security/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2503.md',                
-              ]
-            }
+            articleSidebars.yozm("security")
           ]
         },
       ]
@@ -1656,6 +1433,24 @@ export const sidebarEn = sidebar({
       children: [
         '/devops/selenium/README.md',
         '/devops/selenium/youtube.md',
+      ],
+    }, {
+      text: 'Playwright',
+      collapsible: true,
+      icon: 'iconfont icon-playwright',
+      children: [
+        '/devops/playwright/README.md',
+        '/devops/playwright/references.md',
+        '/devops/playwright/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/playwright/articles/README.md',
+            articleSidebars.woowahan("playwright")
+          ]
+        },
       ],
     }, {
       text: '🦖JEUS',
@@ -1790,16 +1585,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/cassandra/articles/README.md',
-            {
-              text: 'meetup.nhncloud.com',
-              collapsible: true,
-              icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-              children: [
-                '/explore/articles/meetup.nhncloud.com/58.md',
-                '/explore/articles/meetup.nhncloud.com/60.md',
-                '/explore/articles/meetup.nhncloud.com/65.md',
-              ]
-            }
+            articleSidebars.nhn("cassandra"),
           ]
         }
       ]
@@ -1934,48 +1720,10 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fas fa-square-share-nodes',
       children: [
+        articleSidebars.yozm(), 
+        articleSidebars.freecodecamp(), 
+        articleSidebars.frontendmaster(),
         {
-          text: 'yozm.wishket.com',
-          collapsible: true,
-          icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-          children: [
-            '/explore/articles/yozm.wishket.com/1990.md',
-            '/explore/articles/yozm.wishket.com/2057.md',
-            '/explore/articles/yozm.wishket.com/2425.md',
-            '/explore/articles/yozm.wishket.com/2457.md',
-            '/explore/articles/yozm.wishket.com/2464.md', // career?
-            '/explore/articles/yozm.wishket.com/2478.md',
-            '/explore/articles/yozm.wishket.com/2479.md',
-            '/explore/articles/yozm.wishket.com/2483.md',
-            '/explore/articles/yozm.wishket.com/2493.md',
-            '/explore/articles/yozm.wishket.com/2499.md',
-            '/explore/articles/yozm.wishket.com/2503.md',
-            '/explore/articles/yozm.wishket.com/2504.md',
-            '/explore/articles/yozm.wishket.com/2505.md',
-            '/explore/articles/yozm.wishket.com/2511.md',
-            '/explore/articles/yozm.wishket.com/2515.md',
-            '/explore/articles/yozm.wishket.com/2519.md', // career?
-            '/explore/articles/yozm.wishket.com/2527.md',
-            '/explore/articles/yozm.wishket.com/2528.md',
-            '/explore/articles/yozm.wishket.com/2536.md',
-            '/explore/articles/yozm.wishket.com/2537.md',
-            '/explore/articles/yozm.wishket.com/2541.md',
-            '/explore/articles/yozm.wishket.com/2543.md',
-            '/explore/articles/yozm.wishket.com/2545.md',
-            '/explore/articles/yozm.wishket.com/2556.md',
-            '/explore/articles/yozm.wishket.com/2561.md',
-            '/explore/articles/yozm.wishket.com/2563.md',
-            '/explore/articles/yozm.wishket.com/2565.md',
-          ]
-        }, {
-          text: 'freecodecamp.org',
-          icon: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
-          collapsible: true,
-          children: [
-            '/explore/articles/freecodecamp.org/how-to-create-an-analytics-dashboard-in-django-app.md',
-            '/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.md'
-          ]
-        }, {
           text: 'devkuma.com',
           icon: 'https://devkuma.com/favicons/favicon.ico',
           collapsible: true,
@@ -2013,14 +1761,10 @@ export const sidebarEn = sidebar({
             '/explore/articles/devtoolstips.org/find-rule-that-causes-style.md',
             '/explore/articles/devtoolstips.org/debug-safari-mac-webapps.md',
           ]
-        }, {
-          text: 'sitepoint.com',
-          collapsible: true,
-          icon: 'https://www.sitepoint.com/favicons/512x512.png',
-          children: [
-            '/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md',
-          ]
-        }, {
+        }, 
+        articleSidebars.piccalilli(),
+        articleSidebars.sitepoint(), 
+        {
           text: 'blog.gangnamunni.com',
           collapsible: true,
           icon: 'https://blog.gangnamunni.com/favicon.ico',
@@ -2034,14 +1778,10 @@ export const sidebarEn = sidebar({
           children: [
             '/explore/articles/towardsdatascience.com/you-dont-have-to-use-docker-anymore.md',
           ]
-        }, douggregor(), hackingwithswift(), {
-          text: 'donnywals.com',
-          collapsible: true,
-          icon: 'https://www.donnywals.com/wp-content/uploads/cropped-site-icon-192x192.png',
-          children: [
-            '/explore/articles/donnywals.com/how-to-use-experimental-swift-versions-and-features-in-xcode.md'
-          ]
-        }, {
+        }, 
+        articleSidebars.douggregor(), 
+        articleSidebars.donnywals(), 
+        hackingwithswift(), {
           text: 'kt.academy',
           collapsible: true,
           icon: 'https://kt.academy/logo.png',
@@ -2084,59 +1824,11 @@ export const sidebarEn = sidebar({
           children: [
             '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
           ]
-        }, {
-          text: 'techblog.woowahan.com',
-          collapsible: true,
-          icon: 'https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico',
-          children: [
-            '/explore/articles/techblog.woowahan.com/15903.md',
-            '/explore/articles/techblog.woowahan.com/17081.md',
-          ]
-        }, {
-          text: 'd2.naver.com',
-          collapsible: true,
-          icon: '/images/content/d2.naver.com/favicon.ico',
-          children: [
-            '/explore/articles/d2.naver.com/1203723.md',
-            '/explore/articles/d2.naver.com/2690202.md',
-            '/explore/articles/d2.naver.com/6178029.md',
-            '/explore/articles/d2.naver.com/6445508.md',
-            '/explore/articles/d2.naver.com/6507662.md',
-            '/explore/articles/d2.naver.com/6532276.md',
-            '/explore/articles/d2.naver.com/8588537.md',
-            '/explore/articles/d2.naver.com/8404108.md',
-            '/explore/articles/d2.naver.com/9581727.md'
-          ]
-        }, {
-          text: 'meetup.nhncloud.com',
-          collapsible: true,
-          icon: 'https://meetup.nhncloud.com/resources/img/favicon.ico',
-          children: [
-            '/explore/articles/meetup.nhncloud.com/38.md',
-            '/explore/articles/meetup.nhncloud.com/39.md',
-            '/explore/articles/meetup.nhncloud.com/44.md',
-            '/explore/articles/meetup.nhncloud.com/45.md', // TODO: objc
-            '/explore/articles/meetup.nhncloud.com/46.md', 
-            '/explore/articles/meetup.nhncloud.com/47.md', 
-            '/explore/articles/meetup.nhncloud.com/53.md',
-            '/explore/articles/meetup.nhncloud.com/54.md',
-            '/explore/articles/meetup.nhncloud.com/55.md',
-            '/explore/articles/meetup.nhncloud.com/58.md',
-            '/explore/articles/meetup.nhncloud.com/60.md',
-            '/explore/articles/meetup.nhncloud.com/65.md',
-            '/explore/articles/meetup.nhncloud.com/73.md',
-            '/explore/articles/meetup.nhncloud.com/80.md',
-            '/explore/articles/meetup.nhncloud.com/85.md',
-            '/explore/articles/meetup.nhncloud.com/251.md',
-            '/explore/articles/meetup.nhncloud.com/311.md',
-            '/explore/articles/meetup.nhncloud.com/374.md',
-            '/explore/articles/meetup.nhncloud.com/375.md', // TODO: deep-learning
-            '/explore/articles/meetup.nhncloud.com/376.md',
-            '/explore/articles/meetup.nhncloud.com/377.md',
-            '/explore/articles/meetup.nhncloud.com/378.md',
-            '/explore/articles/meetup.nhncloud.com/379.md',
-          ]
-        }, {
+        }, 
+        articleSidebars.woowahan(), 
+        articleSidebars.d2(), 
+        articleSidebars.nhn(),
+        {
           text: 'engineering.linecorp.com',
           collapsible: true,
           icon: 'https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a',
@@ -2168,16 +1860,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-squre-share-nodes',
           children: [
             '/explore/career/articles/README.md',
-            {
-              text: 'yozm.wishket.com',
-              collapsible: true,
-              icon: 'https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg',
-              children: [
-                '/explore/articles/yozm.wishket.com/2464.md', // career?
-                '/explore/articles/yozm.wishket.com/2519.md', // career?
-                '/explore/articles/yozm.wishket.com/2563.md',
-              ]
-            },
+            articleSidebars.yozm("career"),
           ]
         }
       ]

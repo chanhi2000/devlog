@@ -15,9 +15,7 @@ tags:
   - "@44BITSTV"
   - "@neonchang"
   - "@KevinStratvert"
-  - "@seoulian"
   - "@AleksPopovic"
-  - "@JeffSu"
   - "@SeoulWorkshop"
   - "@ExecuteAutomation"
   - "@Mukeshotwani"
@@ -50,7 +48,6 @@ tags:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -61,9 +58,7 @@ tags:
 <MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
 <MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
 <MyYouTubeItems jsonName="yu-KevinStratvert" /><!-- Kevin Stratvert -->
-<MyYouTubeItems jsonName="yu-seoulian" /><!-- 서울리안 SEOULiAN -->
 <MyYouTubeItems jsonName="yu-AleksPopovic" /><!-- Aleks Popovic -->
-<MyYouTubeItems jsonName="yu-JeffSu" /><!-- Jeff Su -->
 <MyYouTubeItems jsonName="yu-SeoulWorkshop" /><!-- Seoul Workshop -->
 <MyYouTubeItems jsonName="yu-ExecuteAutomation" /><!-- Execute Automation -->
 <MyYouTubeItems jsonName="yu-Mukeshotwani" /><!-- Mukesh otwani -->

@@ -6,7 +6,36 @@
     "banner": "https://yt3.googleusercontent.com/X77D3BMJrS1obJFgDN6xSfJ_dOnbl-jOnP1p0Gg-moKkJS2lEjCsm1OhaMkdqAlwFxIiPa3ohQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "wSJB5oT5ERk", "title": "[2강, 템플릿,브랜드키트,mockups 등 카테고리 살펴보기] ppt,사업계획서 등, 전문가처럼 디자인한다. 캔바 사용법" },
+    { "id": "ILKTLs5_KiM", "title": "[1강, 캔바를 사용하는 이유] ppt,사업계획서 등, 전문가처럼 디자인한다. 캔바 사용법" },
+    { "id": "7VIl-DIA3xs", "title": "[3강, 캔바에서 제공하는 편집툴 살펴보기 1편] ppt,사업계획서 등, 전문가처럼 디자인한다. 캔바 사용법" },
+    { "id": "NfHC1OtmC60", "title": "[4강, 캔바에서 제공하는 편집툴 살펴보기 2편] ppt,사업계획서 등, 전문가처럼 디자인한다. 캔바 사용법" },
+    { "id": "k3Y7dsNmJPk", "title": "[5강(마지막) 제공하는 편집툴 살펴보기 3편] ppt,사업계획서 등, 전문가처럼 디자인한다. 캔바 사용법" },
+    { "id": "ouInipdQZVk", "title": "[11강 ui/ux, 종목들 나열하기, listView] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "7wuT-9ajnl4", "title": "[1강] AI를 활용하는 캔바 디자인" },
+    { "id": "aTCxI6lBvos", "title": "[2강(마지막)] AI를 활용하는 캔바 디자인" },
+    { "id": "HJcl4Oylz-c", "title": "[12강 ui/ux, 행렬로 나열, gridView] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "-9uXQ_9vS50", "title": "[3강, AI를 위한 타입스크립트(ts) 핵심만 배우기] 문과생도 배우는 증권 투자용 AI 코딩 만들기" },
+    { "id": "k3hCCFE3YLU", "title": "[13-1강 ui/ux, 메뉴만들기, dropmenu 원리] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "QZnmKuz0tVA", "title": "[13-2강 ui/ux, 메뉴만들기, dropmenu와 setState] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "Vi0vUYfL6Nw", "title": "[AI 디자인] 사파리 디자인 1분컷" },
+    { "id": "WpdjVF0_8XI", "title": "[14-1강 ui/ux, 종목 수량 입력하기] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "3lMAoAVR9EE", "title": "[14-2강 ui/ux, 팝업창 띄우기] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "h6YH8nk1yBs", "title": "[AI 디자인] 벚꽃놀이 디자인 1분컷" },
+    { "id": "KiyqpgxnLqo", "title": "[15강 ui/ux, 모바일 터치 반응 구현] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "bjUQ_iyOzTk", "title": "[16강, 앱 화면이동] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "ThxwOPFVt8M", "title": "[17-1강, 종목 가격 차트 구성] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "WdyImS8ZqZ0", "title": "[17-2강, 가격 차트 만들기, fl_chart라이브러리 이용] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "MGSukM7qVYg", "title": "[6강, AI에서 가장 많이 사용되는 langchain] 문과생도 배우는 증권 투자용 AI 코딩 만들기" },
+    { "id": "Hj5unGXTg_I", "title": "[AI 디자인] AI로 초보자도 상품 판매 디자인 하기, 목업(Mock-up) 방법" },
+    { "id": "U7J-Bay8xTg", "title": "[18-1강, 종목 리스트 만들기 ] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "gUz_nPOP-c8", "title": "[18-2 강의(마지막), asset개념, 이미지 넣기 ] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "oScxyCHJMZY", "title": "[AI 디자인]  AI로 전문가처럼 디자인하기" },
+    { "id": "9RXcq4_ujYM", "title": "[7-1강 ui/ux, Container란] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "SUSYrkxKEDc", "title": "[0강 소개] 문과생도 배우는 증권 투자용 AI 코딩 만들기" },
+    { "id": "S1VAk2fsv2E", "title": "[1강, AI 기본 세팅] 문과생도 배우는 증권 투자용 AI 코딩 만들기" },
+    { "id": "0mAfIRDQRVQ", "title": "[9강 ui/ux, Column과 Row] 증권앱 코딩의 시작, flutter 왕기초" },
+    { "id": "SJnx7MEpgZg", "title": "[10강 ui/ux, scrollView로 화면 움직임] 증권앱 코딩의 시작, flutter 왕기초" }  
   ],
   "playlists": [
     {

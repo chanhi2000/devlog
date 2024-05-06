@@ -23,5 +23,6 @@ tag:
 <MyYouTubeItems jsonName="yu-user-ss5no9xw6e" /><!-- 이수안컴퓨터연구소 -->
 <MyYouTubeItems jsonName="yu-HanbitMedia93" /><!-- 한빛미디어 -->
 <MyYouTubeItems jsonName="yu-SQLBANK" /><!-- SQL뱅크 -->
+<MyYouTubeItems jsonName="yu-techTFQ" /><!-- techTFQ -->
 
 <TagLinks />

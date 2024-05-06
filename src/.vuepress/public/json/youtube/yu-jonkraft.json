@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "jonkraft",
+    "name": "Jon Kraft",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k1PvUSBdaj4jkU4eW6EI3-6jz2Mc-t7Hk1Teag-XmAkI0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E06xggS8RHGcq1xqY4_54kHEdeLG6_jA3RhXBLyBS0KObCuI9HIoyTAFvPINIB9GEzkPGtDNAAY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "W09f0kLL5WI", "title": "Hands On Phased Array Workshops this May" },
+    { "id": "wzrfgTOhXLA", "title": "Drone Tracking Radar:  Part 5 CFAR Targeting" }
+  ],
+  "playlists": []
+}

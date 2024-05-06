@@ -1,15 +1,16 @@
 ---
 lang: ko-KR
 title: References
-description: 📊Power BI > References
+description: Power BI > References
 icon: iconfont icon-share
 category: 
-  - 📊Power BI
+  - Microsoft
+  - Power BI
   - References
 tag: 
   - education
   - powerbi
-  - bi
+  - power-bi
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -42,5 +42,7 @@ tag:
 <MyYouTubeItems jsonName="yu-MahlerLab" /><!-- 말러랩 -->
 <MyYouTubeItems jsonName="yu-deployingai" /><!-- Deploying AI -->
 <MyYouTubeItems jsonName="yu-TimCarambat" /><!-- Tim Carambat -->
+<MyYouTubeItems jsonName="yu-bhancock_ai" /><!-- codewithbrandon -->
+<MyYouTubeItems jsonName="yu-harvarddatascienceinitiati3320" /><!-- Harvard Data Science Initiative -->
 
 <TagLinks/>

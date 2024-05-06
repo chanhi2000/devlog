@@ -64,5 +64,6 @@ tag:
 <MyYouTubeItems jsonName="yu-ringring_creator" /><!-- RingRing -->
 <MyYouTubeItems jsonName="yu-quickandeasytools" /><!-- Quick and Easy Tools -->
 <MyYouTubeItems jsonName="yu-tongguni" /><!-- 통구니TV -->
+<MyYouTubeItems jsonName="yu-TechEnthusiastOfficial" /><!-- Tech Enthusiast -->
 
 <TagLinks />

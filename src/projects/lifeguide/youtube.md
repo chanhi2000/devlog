@@ -118,5 +118,11 @@ head:
 <MyYouTubeItems jsonName="yu-outstandcrew" /><!-- 아웃스탠딩TV -->
 <MyYouTubeItems jsonName="yu-goldenmanual" /><!-- 황금설명서 -->
 <MyYouTubeItems jsonName="yu-DanBecker" /><!-- Dan Becker -->
+<MyYouTubeItems jsonName="yu-oneroommake" /><!-- 원룸만들기 -->
+<MyYouTubeItems jsonName="yu-bijou_living" /><!-- 친절한_비주언니 -->
+<MyYouTubeItems jsonName="yu-talentinvestment" /><!-- 달란트투자 -->
+<MyYouTubeItems jsonName="yu-seoulian" /><!-- 서울리안 SEOULiAN -->
+<MyYouTubeItems jsonName="yu-somifit" /><!-- 소미핏 SOMIFIT -->
+<MyYouTubeItems jsonName="yu-SLJD30" /><!-- 살림중독 -->
 
 <TagLinks />

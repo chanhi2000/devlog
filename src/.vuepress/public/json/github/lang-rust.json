@@ -71,9 +71,9 @@
     "officialSite":"https://onefetch.dev"
   }, {
     "repo": "lencx/ChatGPT",
-    "desc": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
-    "topics": [],
-    "officialSite":""
+    "desc": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "officialSite": "https://nofwl.com",
+    "topics": ["ai", "app", "application", "chatgpt", "desktop-app", "gpt", "gpt-3", "linux", "macos", "notes-app", "openai", "rust", "tauri", "webview", "windows"]
   }, {
     "repo": "lapce/lapce",
     "desc": "Lightning-fast and Powerful Code Editor written in Rust",
@@ -1374,5 +1374,10 @@
     "desc": "Open source single-machine version of the Convex backend",
     "officialSite": "https://docs.convex.dev",
     "topics": ["backend", "convex", "database", "rust", "typescript"]
+  }, {
+    "repo": "solana-labs/solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "officialSite": "https://solanalabs.com",
+    "topics": ["bitcoin", "blockchain", "ledger", "performance-blockchain", "rust", "rustc", "solana"]
   }
 ]

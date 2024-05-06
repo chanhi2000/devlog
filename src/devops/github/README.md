@@ -4,8 +4,10 @@ title: Github
 description: Github
 icon: fa-brands fa-github
 category:
+  - Git
   - Github
 tag:
+  - git
   - github
 ---
 

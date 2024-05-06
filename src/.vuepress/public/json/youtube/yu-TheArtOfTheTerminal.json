@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "TheArtOfTheTerminal",
+    "name": "The Art Of The Terminal",
+    "profile": "https://yt3.googleusercontent.com/1LO62DtpqXku2vtoBfhNjakbIUlaC2aw1ZCbsOOpMfR_-oliBDadZwRe4Uq2I0_NUKEUCz-n=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qnYPlV8BZh_xYHtKovlKLAWW2wLX3GVWnsQ-7zbIS5jGKPz55NILZlHjwnddLstngFO_IB2yHJ0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VEWXmdjzIpQ", "title": "Wait... PostgreSQL can do WHAT?" },
+    { "id": "OYl-wrsMGZo", "title": "4 commandline tools to organize projects" }
+  ],
+  "playlists": []
+}

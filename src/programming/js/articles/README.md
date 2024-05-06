@@ -27,6 +27,16 @@ head:
 
 ```component VPCard
 {
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "NHN Cloud Meetup - NHN 기술 블로그",
   "desc": "기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.",
   "link": "https://meetup.nhncloud.com/",
@@ -37,7 +47,35 @@ head:
 
 [[toc]]
 
+
 ---
+
+## freeCodeCamp
+
+> freecodecamp.org
+
+
+
+
+```component VPCard
+{
+  "title": "How to Create an Interactive Terminal-Based Portfolio Website",
+  "desc": "In this article, you will learn how to create an interactive terminal-based portfolio and résumé in JavaScript. We'll use the jQuery Terminal library (and a few other tools) to create a website that looks like a real terminal. This article will show more advanced usage of the jQuery Terminal",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-interactive-terminal-based-portfolio.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What are Higher Order Functions in JavaScript? Explained With Examples",
+  "desc": "JavaScript offers a powerful feature known as higher order functions (HOFs). These functions elevate your code by treating other functions as citizens of the language itself.  In simpler terms, HOFs can accept functions as arguments and even return functions as results. This ability allows developers to write clean, reusable, and",
+  "link": "/explore/articles/freecodecamp.org/higher-order-functions-explained.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 

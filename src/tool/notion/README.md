@@ -17,4 +17,10 @@ tag:
 
 ---
 
+## Table of Contents
+
+<ToCLocal basePath="/tool/notion/" />
+
+---
+
 <TagLinks />

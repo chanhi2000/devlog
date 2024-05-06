@@ -1,18 +1,58 @@
 import { SidebarGroupItem } from 'vuepress-theme-hope'
+import { template as TEMPLATE_DONNYWALS } from './donnywals.com';
+import { template as TEMPLATE_DOUGGREGOR } from './douggregor.net';
+import { template as TEMPLATE_D2 } from './d2.naver.com';
+import { template as TEMPLATE_FREECODECAMP } from './freecodecamp.org';
+import { template as TEMPLATE_FRONTENDMASTER } from './frontendmasters.com';
+import { template as TEMPLATE_NHN } from './meetup.nhncloud.com';
+import { template as TEMPLATE_WOOWAHAN } from './techblog.woowahan.com';
+import { template as TEMPLATE_SITEPOINT } from './sitepoint.com';
+import { template as TEMPLATE_YOZM } from './yozm.wishket.com';
+import { template as TEMPLATE_PICCALILLI } from './piccalil.li';
 
-export const douggregor = (): SidebarGroupItem => ({
-  text: 'douggregor.net',
-  collapsible: true,
-  icon: 'fas fa-globe',
-  children: [
-    '/explore/articles/douggregor.net/swift-for-cpp-practitioners-1.md',
-    '/explore/articles/douggregor.net/swift-for-cpp-practitioners-2.md',
-    '/explore/articles/douggregor.net/swift-for-cpp-practitioners-3.md',
-    '/explore/articles/douggregor.net/swift-for-cpp-practitioners-4.md',
-    '/explore/articles/douggregor.net/swift-for-cpp-practitioners-5.md',
-    '/explore/articles/douggregor.net/swift-for-cpp-practitioners-6.md',
-  ]
-});
+const EXT_MD = "md";
+const DEFAULT_KEY_ALL = "all";
+const PATH_BASE_ARTICLES = "/explore/articles"
+
+export type SidebarInfoTemplate = {
+  name: string,
+  faviconPath: string,
+  linksMap: Map<string, string[]>,
+}
+
+export const sidebarByTemplate = (itemTemplate: SidebarInfoTemplate, type: string = DEFAULT_KEY_ALL): SidebarGroupItem => {
+  let _all: string[] = [];
+  for (const [_, values] of itemTemplate.linksMap) {
+    _all.push(...values);
+  }
+  
+  const _children: string[] = (
+    // (type === "all") 
+    // ?  _all 
+    // : 
+    itemTemplate.linksMap.get(type)
+  )?.map((e: string) => `${PATH_BASE_ARTICLES}/${itemTemplate.name}/${e}.${EXT_MD}`) ?? []
+
+  return {
+    text: itemTemplate.name,
+    collapsible: true,
+    icon: itemTemplate.faviconPath,
+    children: _children
+  }
+}
+
+export const articleSidebars = {
+  freecodecamp:    (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FREECODECAMP, type),
+  frontendmaster:  (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FRONTENDMASTER, type),
+  d2:              (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_D2, type),
+  nhn:             (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_NHN, type),
+  yozm:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_YOZM, type),
+  woowahan:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_WOOWAHAN, type),
+  sitepoint:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SITEPOINT, type),
+  douggregor:      (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DOUGGREGOR, type),
+  donnywals:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DONNYWALS, type),
+  piccalilli:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_PICCALILLI, type),
+}
 
 export const hackingwithswift = (): SidebarGroupItem => ({
   text: 'hackingwithswift.com',

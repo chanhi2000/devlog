@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "quantprogram",
+    "name": "QuantProgram",
+    "profile": "https://yt3.googleusercontent.com/Bf1G4CWOV9ihExGOFbXnW1432I9oz95izca7Fryv2ibdmwQXn_WzjTVZZ43XYfJfMq0iMnd3=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KJHagx7gxGxz6aue8YVezNKqKKp1joUde1rggfZpl-9LFTyqqnaiQ4sI6TQ6hiAvnvDVD6pQDkY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ets0xGCjQ14", "title": "QuantConnect Full Tutorial 2023 - Worlds Best AlgoTrading Engine" },
+    { "id": "qHISgnYkB7Y", "title": "The Hidden Edge: Trading using Linear Regression" },
+    { "id": "O_iyoxeF-nE", "title": "Portfolio Backtest of Stan Weinstein's Trading Strategy" },
+    { "id": "DnJDVc7loA0", "title": "How Machine Learning/AI Traders Beats Retail Traders with Example Strategy for Beginners" }
+  ],
+  "playlists": []
+}

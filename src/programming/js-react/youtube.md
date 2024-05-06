@@ -33,6 +33,7 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-SonnySangha" /><!-- Sonny Sangha -->
 <MyYouTubeItems jsonName="yu-CleverProgrammer" /><!-- Clever Programmer -->
 <MyYouTubeItems jsonName="yu-CodeBoost" /><!-- Code Boost -->
 <MyYouTubeItems jsonName="yu-Codevolution" /><!-- Codevolution -->
@@ -95,5 +96,6 @@ head:
 <MyYouTubeItems jsonName="yu-9diin" /><!-- 구디사는 개발자 9Diin -->
 <MyYouTubeItems jsonName="yu-ZeroToMastery" /><!-- Zero To Mastery -->
 <MyYouTubeItems jsonName="yu-cybersuperior" /><!-- Cyber Superior -->
+<MyYouTubeItems jsonName="yu-codewithantonio" /><!-- Code With Antonio -->
 
 <TagLinks />

@@ -44,6 +44,15 @@ tag:
   "background": "rgba(131,53,2,0.2)"
 }
 ```
+```component VPCard
+{
+  "title": "Can I email… Support tables for HTML and CSS in emails",
+  "desc": "Support tables for HTML and CSS in emails",
+  "link": "https://www.caniemail.com/",
+  "logo": "https://www.caniemail.com/assets/images/favicon.png",
+  "background": "rgba(48,112,222,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -429,6 +438,29 @@ https://www.docdroid.com/NOEBGF5/sdn-pdf
   "background": "rgba(94,73,217,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "Palm apps",
+  "desc": "These apps run on Palm OS devices, and emulators such as Cloudpilot.",
+  "link": "https://www.nkorth.com/palm/apps/",
+  "logo": "https://www.nkorth.com/palm/apps/totp_icon.png",
+  "background": "rgba(43,8,148,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Territory",
+  "desc": "Humankind produces more and more code everyday, meanwhile a single person’s ability to comprehend it stays constant. We want to make everyone better at understanding these vast territories. We built a tool to help you chart codebases of any size and get the answers you need.",
+  "link": "https://territory.dev/",
+  "logo": "https://territory.dev/assets/img/favicon.ico",
+  "background": "rgba(236,101,95,0.2)"
+}
+```
+
+https://www.getanyplant.com/plants
+
 
 :::
 

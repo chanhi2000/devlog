@@ -644,4 +644,10 @@ tag:
 
 ---
 
+## James Shore: The Art of Agile
+
+- [A Useful Productivity Measure?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
+
+---
+
 <TagLinks />

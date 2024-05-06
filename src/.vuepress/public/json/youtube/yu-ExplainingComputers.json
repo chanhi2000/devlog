@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/65Zgv0-30SJE77xLnCtuMCv9rmNaIw6Zsp0eJ4RK6Xg8QLehtfDjpmLYGC9sQGN7OaMGSz5X=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GCUzdz00jDc", "title": "Why I Love Google Docs" },
+    { "id": "iIxRm8IhFJs", "title": "KDE Plasma 6 Linux Desktop" },
+    { "id": "0abvchv96b8", "title": "Radxa X2L: Low-cost x86 SBC with RP2040" },
     { "id": "VPj_dILDK6I", "title": "Explaining File Compression Formats" },
     { "id": "f2hV-kpG-8g", "title": "Free AI Image Generation: Demos & Dangers" },
     { "id": "xA9Xq7hb6Q0", "title": "Storage Media Life Expectancy: SSDs, HDDs & More!" },

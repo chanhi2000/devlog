@@ -23,4 +23,10 @@ tag:
 
 ---
 
+## Table of Contents
+
+<ToCLocal basePath="/tool/intellij-idea/" />
+
+---
+
 <TagLinks />

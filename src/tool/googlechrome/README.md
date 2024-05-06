@@ -14,4 +14,10 @@ category:
 
 ---
 
+## Table of Contents
+
+<ToCLocal basePath="/tool/googlechrome/" />
+
+---
+
 <TagLinks />

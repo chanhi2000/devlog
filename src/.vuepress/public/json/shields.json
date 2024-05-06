@@ -99,6 +99,7 @@
   { "logo": "openai", "name": "OpenAI", "colorHex": "412991" },
   { "logo": "openjdk", "name": "Java", "colorHex": "007396" },
   { "logo": "oracle", "name": "Oracle%20SQL", "colorHex": "F80000" },
+  { "logo": "playwright", "name": "Playwright", "colorHex": "2EAD33" },
   { "logo": "php", "name": "PHP", "colorHex": "777BB4" },
   { "logo": "phpmyadmin", "name": "phpMyAdmin", "colorHex": "6C78AF" },
   { "logo": "podman", "name": "Podman", "colorHex": "892CA0" },

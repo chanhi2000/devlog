@@ -25,11 +25,11 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
 
+<MyYouTubeItems jsonName="yu-ProgramWithErik" /><!-- Program With Erik -->
 <MyYouTubeItems jsonName="yu-Bitfumes" /><!-- Bitfumes -->
 <MyYouTubeItems jsonName="yu-9diin" /><!-- 구디사는 개발자 9Diin -->
 <MyYouTubeItems jsonName="yu-MultiValue1" /><!-- MultiValue -->

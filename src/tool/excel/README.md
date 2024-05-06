@@ -19,4 +19,10 @@ tag:
 
 ---
 
+## Table of Contents
+
+<ToCLocal basePath="/tool/excel/" />
+
+---
+
 <TagLinks />

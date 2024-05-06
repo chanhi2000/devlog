@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/PgUMEJ75CM2Jq-UNWbXTgzRUe5SRfaG_pDCblHJBBwr81f7r6RglMS-bSffdkdwK-Ba5GrUuFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qN_2fnOPY-M", "title": "Local Retrieval Augmented Generation (RAG) from Scratch (step by step tutorial)" },
+    { "id": "rOa1ZCBwpmo", "title": "Your NVIDIA GPU can power a free ChatGPT (Chat with RTX)" },
+    { "id": "pZXt-flSAZo", "title": "4 MLOps Lessons Learned from Bootstrapping an AI Startup (talk)" },
     { "id": "-jpLqtAWKfo", "title": "Introducing Nutrify | A Pokédex for Food" },
     { "id": "Z_ikDlimN6A", "title": "Learn PyTorch for deep learning in a day. Literally." }
   ]

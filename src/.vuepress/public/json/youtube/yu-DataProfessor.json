@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "DataProfessor",
+    "name": "Data Professor",
+    "profile": "https://yt3.googleusercontent.com/EmRXtmekiAtfdfr1INwbV02X1EzYkuLv9kcoGTnMX5FeHbcqegH2swqJtZOX4kOWIt4U-a8CuA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4JVV8aRfLubhGjWstVFTwgtQxE60oKAGrpz7UvsHFXDegz-6WAK3gI_ys8KgcTNbVTKsebFpUsg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "29ZQ3TDGgRQ", "title": "Build your first machine learning model in Python" }
+  ],
+  "playlists": []
+}

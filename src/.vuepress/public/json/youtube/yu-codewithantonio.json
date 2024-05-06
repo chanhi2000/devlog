@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/-dPNqla6h46kSjkP27Z0PNAaGK45dntaALVzjBDDBm12gLIMO2JQ6Oam1E4qgcZAOpqmzp_BZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dP75Khfy4s4", "title": "Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)" },
     { "id": "1MTyCvS05V4", "title": "Next Auth V5 - Advanced Guide (2024)" },
     { "id": "a02JAryRPVU", "title": "Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL | Full Course 2023 | Part 1/2" },
     { "id": "nav55-4ISg4", "title": "Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL | Full Course 2023 | Part 2/2" },

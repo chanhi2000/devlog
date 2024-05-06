@@ -2229,11 +2229,6 @@
     "officialSite": "https://saurabhnemade.github.io/will-you-be-my-valentine/",
     "topics": ["ask", "funny", "girlfriend", "love", "valentine", "valentine-day", "valentines-day"]
   }, {
-    "repo": "reorproject/reor",
-  "desc": "AI note-taking app that runs models locally.",
-    "officialSite": "https://reorproject.org",
-    "topics": ["ai", "evernote", "lancedb", "llama", "llamacpp", "local-first", "markdown", "note-taking", "obsidian", "pkm", "rag", "second-brain", "vector-database"]
-  }, {
     "repo": "traceloop/openllmetry-js",
     "desc": "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry",
     "officialSite": "https://www.traceloop.com/openllmetry",
@@ -2735,8 +2730,23 @@
     "topics": ["llm", "lmstudio", "nodejs", "typescript"]
   }, {
     "repo": "reorproject/reor",
-    "desc": "Private & offline AI personal knowledge management app.",
+    "desc": "Private & local AI personal knowledge management app.",
     "officialSite": "https://reorproject.org",
     "topics": ["ai", "lancedb", "llama", "llamacpp", "local-first", "markdown", "note-taking", "ollama", "pkm", "rag", "second-brain", "vector-database"]
+  }, {
+    "repo": "dev-xo/remix-saas",
+    "desc": "A Lightweight, Production-Ready Remix Stack for your next SaaS Application.",
+    "officialSite": "https://remix-saas.fly.dev",
+    "topics": ["flydotio", "prisma", "remix-stack", "sqlite", "stripe", "tailwindcss", "typescript"]
+  }, {
+    "repo": "abi/secret-llama",
+    "desc": "Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.",
+    "officialSite": "https://secretllama.com",
+    "topics": []
+  }, {
+    "repo": "bepass-org/oblivion-desktop",
+    "desc": "unofficial desktop version of oblivion",
+    "officialSite": "https://github.com/bepass-org/oblivion-desktop/releases/latest",
+    "topics": ["anticensorship", "antifilter", "cloudflare", "desktop", "gool", "linux", "mac", "oblivion", "proxy", "psiphon", "vpn", "warp", "warp-plus", "warpinwarp", "warponwarp", "windows", "zerotrust"]
   }
 ]

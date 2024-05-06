@@ -16,7 +16,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -31,5 +30,6 @@ tag:
 <MyYouTubeItems jsonName="yu-glide_ilab" /><!-- 라이프사이클 재무에 대한 모든 것_글라이드 -->
 <MyYouTubeItems jsonName="yu-Coding4Change" /><!-- Coding4Change-NPO코딩캠프 -->
 <MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
+<MyYouTubeItems jsonName="yu-techTFQ" /><!-- techTFQ -->
 
 <TagLinks />

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/niWp9bo485G9J1j5R7UPGkdYoaCqRomRdj-Q4oIzvbBjVxZZXCAky8bAMTQXakFksfnqkMtTMeI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8yAdCSZrxBI", "title": "프론트엔드 아키텍쳐 FSD로 구성해보기" },
     { "id": "qTAt7uGj0pg", "title": "vue3.4 슬램덩크!! 변경점 알아보기" },
     { "id": "yUPRXVCb5Zo", "title": "JSON, yaml 대체자 pkl, 5분만에 알아보기" },
     { "id": "RFjaDcVb9a8", "title": "EcmaScript 2023 5분만에 알아보기" },

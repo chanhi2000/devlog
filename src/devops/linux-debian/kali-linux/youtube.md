@@ -19,4 +19,7 @@ tag:
 
 ---
 
+<MyYouTubeItems jsonName="yu-DevWonYoung" /><!-- 데브원영 DVWY -->
+<MyYouTubeItems jsonName="yu-jamescutajar" /><!-- James Cutajar -->
+
 <TagLinks />

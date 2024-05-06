@@ -17,7 +17,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -87,6 +86,13 @@ tag:
 
 ---
 
+## Substack
+
+- [`cssisntmagic` - `position: absolute` frees us from using `display: block`](https://cssisntmagic.substack.com/p/position-absolute-frees-us-from-using-cf4)
+- [`cssisntmagic` - CSS without order dependencies](https://cssisntmagic.substack.com/p/css-without-order-dependence)
+
+---
+
 ## DZone
 
 - [Best 15 CSS Trends To Watch For](https://dzone.com/articles/best-15-css-trends-to-watch-for)
@@ -111,6 +117,7 @@ tag:
 ## Smashing Magazine
 
 - [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://www.smashingmagazine.com/2023/07/writing-css-2023)
+- [Sliding 3D Image Frames In CSS](https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/)
 
 ---
 
@@ -148,6 +155,8 @@ tag:
 - [Oruga - UI components library without CSS framework dependency](https://dev.to/jtommy/oruga-ui-components-library-without-css-framework-dependency-4m3m)
 - [The Best Way To Dark Mode Your Website In My Opinion.](https://dev.to/zxcodes/the-best-way-to-dark-mode-your-website-1g7f)
 - [8 SCSS Best Practices to Keep in Mind](https://dev.to/liaowow/8-css-best-practices-to-keep-in-mind-4n5h)
+- [`jaredcodes` - Finally Understand Responsive Design!](https://dev.to/jaredcodes/finally-understand-responsive-design-3con)
+- [`madhusaini22` - How to remove background of an image with CSS](https://dev.to/madhusaini22/how-to-remove-background-of-image-with-css-1e6e)
 
 ---
 
@@ -324,6 +333,79 @@ tag:
 ## Dan Wilson
 
 - [The New CSS Math: `pow()`, `sqrt()`, and exponential friends](https://danielcwilson.com/posts/mathematicss-powers/)
+
+---
+
+## adactio
+
+- [Hanging punctuation in CSS](https://adactio.com/journal/21027)
+
+---
+
+## Dan Cătălin Burzo
+
+- [How to think about HTML responsive images](https://danburzo.ro/responsive-images-html/)
+
+---
+
+## You have arrived at a website named heydonworks.com: HeydonWorks
+
+- [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
+
+---
+
+## Articles & Experiments by Roman Komarov
+
+- [Alternating Style Queries](https://kizu.dev/alternating-style-queries/)
+- [Layered Toggles: Optional CSS Mixins](https://kizu.dev/layered-toggles/)
+
+---
+
+## Go Make Things
+
+- [An intro to Flexbox](https://gomakethings.com/an-intro-to-flexbox/)
+- [Practical uses for Flexbox](https://gomakethings.com/practical-uses-for-flexbox/)
+- [How to build a reusable grid system with CSS grid](https://gomakethings.com/how-to-build-a-reusable-grid-system-with-css-grid/)
+- [An intro to CSS Grid](https://gomakethings.com/an-intro-to-css-grid/)
+
+---
+
+## CSS Tip: Learn CSS the easy one
+
+- [A Fancy Frame With Zig-Zag Borders](https://css-tip.com/zig-zag-box/)
+- [A Modern Way To Create A Star Shape](https://css-tip.com/star-shape/)
+- [CSS-Only Pixelated Cut Corners](https://css-tip.com/pixelated-corner/)
+
+---
+
+## David Walsh Blog - JavaScript Consultant
+
+- [HTML popover Attribute](https://davidwalsh.name/html-popover-attribute)
+
+---
+
+## Blog @ tonsky.me
+
+- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
+
+---
+
+## remy sharp's b:log
+
+- [CSS text fragment selector (please)](https://remysharp.com/2024/04/17/css-text-fragment-selector)
+
+---
+
+## Piccalilli - level up your front-end development skills
+
+- [A primer on the cascade and specificity](https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity/)
+
+---
+
+## Next-Generation Mobile Apps and Cross Browser Testing Cloud | LambdaTest
+
+- [How to Add a Smooth Scroll in CSS](https://www.lambdatest.com/blog/smooth-scroll-in-css/)
+- [How to Set CSS Media Query For Portrait Orientation](https://www.lambdatest.com/blog/css-media-query-for-portrait/)
 
 ---
 
