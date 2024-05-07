@@ -106,6 +106,16 @@ head:
 
 ```component VPCard
 {
+  "title": "What is Throttling in JavaScript? Explained with a Simple React Use Case",
+  "desc": "Welcome back, fellow developers! Today, we are once again delving into JavaScript and Web Development and learning about throttling.  As a developer, making your website user-friendly is important. This goes a long way toward the product's success, and a key part of the user experience is the website's performance.",
+  "link": "/explore/articles/freecodecamp.org/throttling-in-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "How to Build a Realtime Chart with React, HighCharts, and Pusher",
   "desc": "In today's tutorial, you are going to learn about WebSockets and how you can use them to create interactive realtime data applications.  To illustrate just how innovative real time technologies are, we will build a chart application which automatically updates with new dynamic online data. This is going to",
   "link": "/explore/articles/freecodecamp.org/how-to-build-a-realtime-chart-with-react-and-pusher.md",
@@ -126,9 +136,9 @@ head:
 
 ```component VPCard
 {
-  "title": "What is Throttling in JavaScript? Explained with a Simple React Use Case",
-  "desc": "Welcome back, fellow developers! Today, we are once again delving into JavaScript and Web Development and learning about throttling.  As a developer, making your website user-friendly is important. This goes a long way toward the product's success, and a key part of the user experience is the website's performance.",
-  "link": "/explore/articles/freecodecamp.org/throttling-in-javascript.md",
+  "title": "How to Use React Developer Tools – Explained With Examples",
+  "desc": "Traditional browser developer tools are designed to inspect and debug web pages by interacting with your HTML, CSS, and JavaScript code. However, you can't use them to inspect and debug React applications efficiently due to the nature of React. This is where the React Developer Tools, AKA React DevTools comes",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-react-devtools.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -14,6 +14,7 @@ export const template: SidebarInfoTemplate = {
       "throttling-in-javascript", // 2024.05.01
       "how-to-build-a-realtime-chart-with-react-and-pusher", // 2024.05.02
       "react-usereducer-hook", // 2024.05.03
+      "how-to-use-react-devtools", // 2024.05.06
     ]],[
     "py", [
       "how-to-use-defaultdict-python", // 2024.05.01

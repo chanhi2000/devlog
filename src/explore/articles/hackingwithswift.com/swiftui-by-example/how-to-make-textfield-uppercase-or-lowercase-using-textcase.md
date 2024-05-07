@@ -83,7 +83,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to make a TextField expand vertically as the user types",
+  "title": "How to make a TextField expand vertically as the user types | SwiftUI by Example",
   "desc": "How to make a TextField expand vertically as the user types",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-expand-vertically-as-the-user-types.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -93,7 +93,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to make a TextField or TextEditor have default focus",
+  "title": "How to make a TextField or TextEditor have default focus | SwiftUI by Example",
   "desc": "How to make a TextField or TextEditor have default focus",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-or-texteditor-have-default-focus.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -103,7 +103,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to dismiss the keyboard for a TextField",
+  "title": "How to dismiss the keyboard for a TextField | SwiftUI by Example",
   "desc": "How to dismiss the keyboard for a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dismiss-the-keyboard-for-a-textfield.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -123,7 +123,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to format a TextField for numbers",
+  "title": "How to format a TextField for numbers | SwiftUI by Example",
   "desc": "How to format a TextField for numbers",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-a-textfield-for-numbers.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

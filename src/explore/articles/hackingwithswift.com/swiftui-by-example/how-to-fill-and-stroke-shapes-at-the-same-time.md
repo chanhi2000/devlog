@@ -141,7 +141,7 @@ extension InsettableShape {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to make two gestures recognize at the same time using simultaneousGesture()",
+  "title": "How to make two gestures recognize at the same time using simultaneousGesture() | SwiftUI by Example",
   "desc": "How to make two gestures recognize at the same time using simultaneousGesture()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-two-gestures-recognize-at-the-same-time-using-simultaneousgesture.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -149,11 +149,19 @@ extension InsettableShape {
 }
 ```
 
-How to combine shapes to create new shapes
+```component VPCard
+{
+  "title": "How to combine shapes to create new shapes | SwiftUI by Example",
+  "desc": "How to combine shapes to create new shapes",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-shapes-to-create-new-shapes.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 ```component VPCard
 {
-  "title": "Article(s) > How to make two views the same width or height",
+  "title": "How to make two views the same width or height | SwiftUI by Example",
   "desc": "How to make two views the same width or height",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-two-views-the-same-width-or-height.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -163,7 +171,7 @@ How to combine shapes to create new shapes
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI's built-in shapes",
+  "title": "SwiftUI's built-in shapes | SwiftUI by Example",
   "desc": "SwiftUI's built-in shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-in-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -173,7 +181,7 @@ How to combine shapes to create new shapes
 
 ```component VPCard
 {
-  "title": "Article(s) > How to display solid shapes",
+  "title": "How to display solid shapes | SwiftUI by Example",
   "desc": "How to display solid shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

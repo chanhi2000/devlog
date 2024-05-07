@@ -101,6 +101,16 @@ head:
 
 ```component VPCard
 {
+  "title": "지속가능한 코드리뷰 문화를 만드는 여정 | 요즘IT",
+  "desc": "지속가능한 코드리뷰 문화를 만드는 여정",
+  "link": "/explore/articles/yozm.wishket.com/2420.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "개발 런타임 환경 구축하기 - 파이썬 pyenv편 | 요즘IT",
   "desc": "개발 런타임 환경 구축하기 - 파이썬 pyenv편",
   "link": "/explore/articles/yozm.wishket.com/2057.md",

@@ -167,8 +167,6 @@ struct ContentView: View {
 }
 ```
 
-How to push a new view onto a NavigationView <!-- add  -->
-
 ```component VPCard
 {
   "title": "Composing views to create a list row | SwiftUI by Example",

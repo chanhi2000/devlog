@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "MechDesignTV",
+    "name": "MechDesignTV",
+    "profile": "https://yt3.googleusercontent.com/b-B7ZyPz-pXGhP-Xu79iHUNR3V_o42EXga4j667pXY50ZXrXDthg0LKWli7ZMcHmAvZzvwv80g=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NnNC28YIy3yyW7eN4YRA-xlmbhvYO1niZonsJejDlMg8CfBhp0650b3AnAQWC3pw-S4N8PWdYg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tiidPQwU3vg", "title": "Audi steering technology – Dynamic all-wheel steering - technical animation - A7 , A8 , A6 , Q7" },
+    { "id": "pI8NS6LBb0E", "title": "Audi Dynamic steering - technical animation" },
+    { "id": "HZPLIXs3mkY", "title": "NASA Commerical Lunar Paylod Services (CLPS) - return to the moon - overview trailer" },
+    { "id": "CAImeFWM-sg", "title": "Testing of the solar array wings for the Artemis II European Service Module" },
+    { "id": "6wgiiVO9aOg", "title": "SAAB Gripen C - in flight slow motion - 4K/50fps high definition, unedited b-roll footage" }    
+  ],
+  "playlists": []
+}

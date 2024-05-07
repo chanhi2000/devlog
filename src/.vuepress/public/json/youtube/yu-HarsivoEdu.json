@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/U7IJATRdKsP0GNpofCDm_jhcZv4GyK-qXR9Xh8Ufiz1E1JgDyhdj_hlgO_97_PnQSK2QT9rmDw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ct9mzR_EWl0", "title": "SwiftUI User Interface | SwiftUI for Beginner part 2" },
+    { "id": "Xg_p6ehRLjw", "title": "SwiftUI Views & Containers | SwiftUI for beginners" },
+    { "id": "8ezSW2wkm3A", "title": "Mastering SwiftUI Text: From Zero To Hero" },
+    { "id": "TUGaIbuJyOA", "title": "SwiftUI Image, System Icon & AsyncImage" },
     { "id": "mymwPHQHl6s", "title": "GIT Basic Commands!  #coders #git #coding #developer #gitcommands #gittutorial #programming" },
     { "id": "LOdjucDY7ZM", "title": "App Structure for Swiftui #coders #iosdeveloper #iosdevelopment #swiftui #swiftuitutorial" },
     { "id": "ogVQgTHYX7I", "title": "SwiftUI for beginners part 1- introduction to xcode" },

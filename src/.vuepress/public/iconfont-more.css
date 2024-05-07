@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_x65gkindkk.woff2?t=1715048033242') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_x65gkindkk.woff?t=1715048033242') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_x65gkindkk.ttf?t=1715048033242') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_x65gkindkk.svg?t=1715048033242#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_jm033yvvp3c.woff2?t=1715156308068') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_jm033yvvp3c.woff?t=1715156308068') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_jm033yvvp3c.ttf?t=1715156308068') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_jm033yvvp3c.svg?t=1715156308068#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-claude:before { content: "\e90e"; }
+.icon-hadoop:before { content: "\e90d"; }
 .icon-power-bi:before { content: "\e90c"; }
 .icon-kali-linux:before { content: "\e90b"; }
 .icon-ansible:before { content: "\e90a"; }

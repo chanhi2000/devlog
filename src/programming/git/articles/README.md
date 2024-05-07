@@ -145,7 +145,7 @@ head:
 
 ```component VPCard
 {
-  "title": "셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기 | 우아한형제들 기술블로그 ",
+  "title": "셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기 | 우아한형제들 기술블로그",
   "desc": "셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기",
   "link": "/explore/artiles/techblog.woowahan.com/16044.md",
   "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",

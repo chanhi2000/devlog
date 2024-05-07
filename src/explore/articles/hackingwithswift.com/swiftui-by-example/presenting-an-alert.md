@@ -145,7 +145,16 @@ Run the program and see what you think – it's really coming together now!
   "background": "rgba(54,94,226,0.2)"
 }
 ```
-How to show multiple alerts in a single view
+
+```component VPCard
+{
+  "title": "How to show multiple alerts in a single view | SwiftUI by Example",
+  "desc": "How to show multiple alerts in a single view",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-multiple-alerts-in-a-single-view.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 ```component VPCard
 {

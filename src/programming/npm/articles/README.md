@@ -44,7 +44,7 @@ head:
 
 ```component VPCard
 {
-  "title": "우리 팀을 위한 ESLint, Prettier 공유 컨피그 만들어보기 | 우아한형제들 기술블로그 ",
+  "title": "우리 팀을 위한 ESLint, Prettier 공유 컨피그 만들어보기 | 우아한형제들 기술블로그",
   "desc": "우리 팀을 위한 ESLint, Prettier 공유 컨피그 만들어보기",
   "link": "/explore/articles/techblog.woowahan.com/15903.md",
   "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",

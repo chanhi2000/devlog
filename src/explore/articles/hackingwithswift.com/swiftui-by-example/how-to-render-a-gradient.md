@@ -159,7 +159,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render a SwiftUI view to a PDF",
+  "title": "How to render a SwiftUI view to a PDF | SwiftUI by Example",
   "desc": "How to render a SwiftUI view to a PDF",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-swiftui-view-to-a-pdf.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -169,7 +169,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render images using SF Symbols",
+  "title": "How to render images using SF Symbols | SwiftUI by Example",
   "desc": "How to render images using SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -179,7 +179,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render Markdown content in text",
+  "title": "How to render Markdown content in text | SwiftUI by Example",
   "desc": "How to render Markdown content in text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -189,7 +189,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to convert a SwiftUI view to an image",
+  "title": "How to convert a SwiftUI view to an image | SwiftUI by Example",
   "desc": "How to convert a SwiftUI view to an image",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-convert-a-swiftui-view-to-an-image.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -199,7 +199,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to add in-app purchases in SwiftUI",
+  "title": "How to add in-app purchases in SwiftUI | SwiftUI by Example",
   "desc": "How to add in-app purchases in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-in-app-purchases-in-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

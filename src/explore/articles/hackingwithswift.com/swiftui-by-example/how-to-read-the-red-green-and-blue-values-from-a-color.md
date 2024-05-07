@@ -164,7 +164,7 @@ A gentle blue gradient created from a resolved color.
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create a date picker and read values from it",
+  "title": "How to create a date picker and read values from it | SwiftUI by Example",
   "desc": "How to create a date picker and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-date-picker-and-read-values-from-it.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -174,7 +174,7 @@ A gentle blue gradient created from a resolved color.
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create a picker and read values from it",
+  "title": "How to create a picker and read values from it | SwiftUI by Example",
   "desc": "How to create a picker and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-picker-and-read-values-from-it.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -184,7 +184,7 @@ A gentle blue gradient created from a resolved color.
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create a segmented control and read values from it",
+  "title": "How to create a segmented control and read values from it | SwiftUI by Example",
   "desc": "How to create a segmented control and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-segmented-control-and-read-values-from-it.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -204,7 +204,7 @@ A gentle blue gradient created from a resolved color.
 
 ```component VPCard
 {
-  "title": "Article(s) > All SwiftUI property wrappers explained and compared",
+  "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

@@ -101,7 +101,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to combine text views together",
+  "title": "How to combine text views together | SwiftUI by Example",
   "desc": "How to combine text views together",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-text-views-together.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -111,7 +111,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to combine transitions",
+  "title": "How to combine transitions | SwiftUI by Example",
   "desc": "How to combine transitions",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-transitions.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -121,7 +121,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI's built-in shapes",
+  "title": "SwiftUI's built-in shapes | SwiftUI by Example",
   "desc": "SwiftUI's built-in shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-in-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -131,7 +131,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to fill and stroke shapes at the same time",
+  "title": "How to fill and stroke shapes at the same time | SwiftUI by Example",
   "desc": "How to fill and stroke shapes at the same time",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fill-and-stroke-shapes-at-the-same-time.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -141,7 +141,7 @@ Circle()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to display solid shapes",
+  "title": "How to display solid shapes | SwiftUI by Example",
   "desc": "How to display solid shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

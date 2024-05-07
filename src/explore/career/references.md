@@ -280,6 +280,7 @@ tag:
 - [`@engineerscodex` - How Pinterest scaled to 11 million users with only 6 engineers](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 - [`@engineerscodex` - How Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
 - [`@pinpointresearch` - Brex vs Ramp](https://pinpointresearch.substack.com/p/brex-vs-ramp)
+- [`systemdesign` - How McDonald’s Food Delivery Platform Handles 20,000 Orders per Second](https://newsletter.systemdesign.one/p/mcdonalds-architecture)
 
 ---
 
@@ -647,6 +648,12 @@ tag:
 ## James Shore: The Art of Agile
 
 - [A Useful Productivity Measure?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
+
+---
+
+## Chip Huyen
+
+- [Measuring personal growth](https://huyenchip.com/2024/04/17/personal-growth.html)
 
 ---
 

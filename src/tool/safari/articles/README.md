@@ -31,6 +31,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "DevTools Tips", 
+  "desc": "The collection of tips useful for web development.", 
+  "link": "https://devtoolstips.org", 
+  "logo": "https://devtoolstips.org/assets/logo-small.png", 
+  "background": "rgba(27,44,43,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -38,6 +48,22 @@ head:
 ## 요즘IT
 
 > yozm.wishket.com
+
+---
+
+## DevTools Tips
+
+> devtoolstips.org
+
+```component VPCard
+{
+  "title": "Debug your Safari Web Apps on macOS",
+  "desc": "Devtools Tips > Debug your Safari Web Apps on macOS",
+  "link": "/explore/articles/devtoolstips.org/debug-safari-mac-webapps/",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
 
 ---
 

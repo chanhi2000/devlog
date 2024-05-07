@@ -475,12 +475,6 @@ tag:
 
 ---
 
-## Paper
-
-- [Nerdy internals of an Apple text editor 👨🏻‍🔧](https://papereditor.app/internals) <!-- TODO: objective-c로 이동 -->
-
----
-
 ## Lunar Skydiving
 
 - [If you've created a visionOS app with a volume, you probably did it wrong](https://www.lunarskydiving.com/blog/volume-window-zoom/)

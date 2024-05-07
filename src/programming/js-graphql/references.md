@@ -28,6 +28,12 @@ head:
 
 ---
 
+## Gebna blog
+
+- [A brief history of web development. And why your framework doesn't matter.](https://gebna.gg/blog/brief-history-of-web-development)
+
+---
+
 ## BLEX
 
 - [`@baealex` - 웹 앱 API 개발을 위한 GraphQL 1~4장 정리](https://blex.me/@baealex/graphql-for-web-api-development)

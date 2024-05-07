@@ -66,7 +66,7 @@ You can disable DevTools for your organization by using the [<FontIcon icon="fa-
 
 @tab <FontIcon icon="fa-brands fa-safari"/>Safari
 
-In Safari, DevTools (or *Web Inspector* as it's called there) is disabled by default. You can enable it in the Advanced tab of the Preferences. 
+In Safari, DevTools (or *Web Inspector* as it's called there) is disabled by default. You can enable it in the Advanced tab of the Preferences.
 
 ```component VPCard
 {

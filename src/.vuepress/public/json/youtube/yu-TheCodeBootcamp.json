@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "TheCodeBootcamp",
+    "name": "Code Bootcamp",
+    "profile": "https://yt3.googleusercontent.com/6eMjx15aQXJ_tF59ICQwE9Ygj9rvtbyLeHPk1NQaHG6s9WiOyymCfbl72U0g9aHobhqL4MwnV94=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "wIyHSOugGGw", "title": "Every React Concept Explained in 12 Minutes" },
+    { "id": "p_q8gy_jmP8", "title": "Full Stack Online Store with React, Next 13, TailwindCSS, & Stripe" },
+    { "id": "7ORL21ZVSI0", "title": "Full Stack SaaS App with Next 13, React, Supabase, Stripe, TailwindCSS" },
+    { "id": "g2sE034SGjw", "title": "Full Stack E-Commerce App with Next 13, React, Sanity, Stripe, & TailwindCSS" },
+    { "id": "2NPIYnY3ilo", "title": "Every React 19 Feature Explained in 8 Minutes" },
+    { "id": "LOH1l-MP_9k", "title": "Every React Hook Explained in 12 Minutes" },
+    { "id": "4AXQgOcL1mo", "title": "7 React Lessons I Wish I Knew Earlier" }
+  ],
+  "playlists": []
+}

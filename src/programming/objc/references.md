@@ -20,4 +20,10 @@ tag:
 
 ---
 
+## Paper
+
+- [Nerdy internals of an Apple text editor 👨🏻‍🔧](https://papereditor.app/internals)
+
+---
+
 <TagLinks />

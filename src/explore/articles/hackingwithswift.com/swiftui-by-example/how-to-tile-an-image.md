@@ -82,7 +82,7 @@ Image("logo")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to load a remote image from a URL",
+  "title": "How to load a remote image from a URL | SwiftUI by Example",
   "desc": "How to load a remote image from a URL",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-a-remote-image-from-a-url.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -92,7 +92,7 @@ Image("logo")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to convert a SwiftUI view to an image",
+  "title": "How to convert a SwiftUI view to an image | SwiftUI by Example",
   "desc": "How to convert a SwiftUI view to an image",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-convert-a-swiftui-view-to-an-image.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -102,7 +102,7 @@ Image("logo")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to draw images using Image views",
+  "title": "How to draw images using Image views | SwiftUI by Example",
   "desc": "How to draw images using Image views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-images-using-image-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -112,7 +112,7 @@ Image("logo")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust the way an image is fitted to its space",
+  "title": "How to adjust the way an image is fitted to its space | SwiftUI by Example",
   "desc": "How to adjust the way an image is fitted to its space",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -122,7 +122,7 @@ Image("logo")
 
 ```component VPCard
 {
-  "title": "Article(s) > Displaying a detail screen with NavigationLink",
+  "title": "Displaying a detail screen with NavigationLink | SwiftUI by Example",
   "desc": "Displaying a detail screen with NavigationLink",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/displaying-a-detail-screen-with-navigationlink.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

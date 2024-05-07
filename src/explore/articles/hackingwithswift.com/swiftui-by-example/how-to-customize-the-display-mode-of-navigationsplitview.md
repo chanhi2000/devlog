@@ -146,7 +146,6 @@ The default is `.automatic`, which will vary according to the platform – at th
 }
 ```
 
-
 :::
 
 ---

@@ -87,7 +87,7 @@ tag:
 - [`proandroiddev` - Navigating the Waters of Kotlin Multiplatform: Exploring Navigation Solutions](https://proandroiddev.com/navigating-the-waters-of-kotlin-multiplatform-exploring-navigation-solutions-eef81aaa1a61)
 - [`proandroiddev` - Kotlin Design Patterns: Mediator](https://proandroiddev.com/kotlin-design-patterns-mediator-543f75bebe69)
 - [`androiddevelopers` - Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8)
-
+- [`androiddevelopers` - Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26)
 ---
 
 ## velog

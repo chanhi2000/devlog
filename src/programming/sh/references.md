@@ -48,6 +48,12 @@ tag:
 
 ---
 
+## Medium
+
+- [`vinodhakumara2681997` - CheatSheet: Linux Commands for DevOps](https://vinodhakumara2681997.medium.com/cheatsheet-linux-commands-for-devops-80be32b88656)
+
+---
+
 ## Dev.to
 
 - [`tasinishmam` - Awesome Command-Line tools to boost your productivity](https://dev.to/tasinishmam/awesome-command-line-tools-to-boost-your-productivity-22n8)

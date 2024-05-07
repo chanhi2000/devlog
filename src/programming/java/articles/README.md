@@ -61,12 +61,17 @@ head:
 
 ## 요즘IT
 
-<SiteInfo
-  name="개발 런타임 환경 구축하기: Java편 | 요즘IT"
-  desc="오늘날 자바는 프로그래밍을 배우고자 하는 사람부터 엔터프라이즈에 이르기까지 매우 다양한 환경에서 사용되고 있습니다. 그러나 자바 개발 생태계는 발전 과정에서 프로그램의 종속성 관리 문제에 부딪히게 되었습니다. SDKMAN은 이런 문제를 해결하기 위해 2012년에 처음 시작된 프로젝트입니다. 이 도구는 Java JDK와 자바 개발 생태계를 이루는 SDK(e.g. Tomcat, Maven, Gradle)들을 설치하고 사용하는데 도움을 줍니다."
-  url="/explore/articles/yozm.wishket.com/2561.md"
-  logo="https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg"
-  preview="https://yozm.wishket.com/media/news/2561/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-24_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4_46_06.png"/>
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "개발 런타임 환경 구축하기: Java편 | 요즘IT",
+  "desc": "개발 런타임 환경 구축하기: Java편",
+  "link": "/explore/articles/yozm.wishket.com/2561.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -78,21 +83,37 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "클린 코드는 왜 중요하고 어떻게 실천해야 할까? | 요즘IT",
+  "desc": "클린 코드는 왜 중요하고 어떻게 실천해야 할까?",
+  "link": "/explore/articles/yozm.wishket.com/2415.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-<SiteInfo
-  name="Redis Cluster를 사용할 때 Spring Boot와 Lettuce client를 설정해 드립니다 | NHN Cloud Meetup"
-  desc="Redis Cluster를 사용할 때 Spring Boot와 Lettuce client를 설정해 드립니다"
-  url="/explore/articles/meetup.nhncloud.com/379.md"
-  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
-  preview="https://image.toast.com/aaaadh/real/2024/techblog/redislettuce.png"/>
+> meetup.nhncloud.com
 
+```component VPCard
+{
+  "title": "Redis Cluster를 사용할 때 Spring Boot와 Lettuce client를 설정해 드립니다 | NHN Cloud Meetup",
+  "desc": "Redis Cluster를 사용할 때 Spring Boot와 Lettuce client를 설정해 드립니다",
+  "link": "/explore/articles/meetup.nhncloud.com/379.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"  
+}
+```
 
 ---
 
 ## NAVER D2
+
+> d2.naver.com
 
 ```component VPCard
 {

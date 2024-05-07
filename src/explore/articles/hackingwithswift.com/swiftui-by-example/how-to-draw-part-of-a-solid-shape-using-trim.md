@@ -104,7 +104,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 
 ```component VPCard
 {
-  "title": "Article(s) > How to display solid shapes",
+  "title": "How to display solid shapes | SwiftUI by Example",
   "desc": "How to display solid shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -114,7 +114,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 
 ```component VPCard
 {
-  "title": "Article(s) > How to clip a view so only part is visible",
+  "title": "How to clip a view so only part is visible | SwiftUI by Example",
   "desc": "How to clip a view so only part is visible",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-clip-a-view-so-only-part-is-visible.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -124,7 +124,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 
 ```component VPCard
 {
-  "title": "Article(s) > How to draw a custom path",
+  "title": "How to draw a custom path | SwiftUI by Example",
   "desc": "How to draw a custom path",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-custom-path.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -134,7 +134,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 
 ```component VPCard
 {
-  "title": "Article(s) > How to draw a shadow around a view",
+  "title": "How to draw a shadow around a view | SwiftUI by Example",
   "desc": "How to draw a shadow around a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-shadow-around-a-view.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -144,7 +144,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 
 ```component VPCard
 {
-  "title": "Article(s) > How to draw images using Image views",
+  "title": "How to draw images using Image views | SwiftUI by Example",
   "desc": "How to draw images using Image views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-images-using-image-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

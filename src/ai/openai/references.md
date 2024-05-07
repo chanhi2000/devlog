@@ -324,6 +324,12 @@ tag:
 
 ---
 
+## Unsupervised Learning
+
+- [AI's Predictable Path](https://danielmiessler.com/p/ai-predictable-path-7-components-2024)
+
+---
+
 ## 김태영의 케라스 블로그
 
 - [Gemma 온디바이스 탑재 - 웹브라우저편](https://tykimos.github.io/2024/04/02/gemma_ondevice_webbrowser_fast_execute/)

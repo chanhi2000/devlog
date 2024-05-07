@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "qCBc6Ie1m7A", "title": "CH15 3 검색조건화면유지" },
+    { "id": "hDaMNrEyxa4", "title": "CH15 4 조회수정시 검색조건유지" },
+    { "id": "UZxlgqvBAEU", "title": "CH16 1 REST방식소개" },
     { "id": "kXkQ3QKgRQ8", "title": "CH01 2 라이브러리추가" },
     { "id": "lK1IJybouEA", "title": "CH01 _1_스프링개발환경" },
     { "id": "NOawHBHqxQA", "title": "CH02 1 스프링설정파일만들기" },

@@ -140,7 +140,7 @@ Label {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden()",
+  "title": "How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden() | SwiftUI by Example",
   "desc": "How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -160,7 +160,7 @@ Label {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to force views to one side inside a stack using Spacer",
+  "title": "How to force views to one side inside a stack using Spacer | SwiftUI by Example",
   "desc": "How to force views to one side inside a stack using Spacer",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -170,7 +170,7 @@ Label {
 
 ```component VPCard
 {
-  "title": "Article(s) > All SwiftUI property wrappers explained and compared",
+  "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -180,7 +180,7 @@ Label {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to format text inside text views",
+  "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

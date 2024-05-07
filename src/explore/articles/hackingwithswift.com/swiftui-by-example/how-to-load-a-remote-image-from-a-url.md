@@ -176,7 +176,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to convert a SwiftUI view to an image",
+  "title": "How to convert a SwiftUI view to an image | SwiftUI by Example",
   "desc": "How to convert a SwiftUI view to an image",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-convert-a-swiftui-view-to-an-image.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

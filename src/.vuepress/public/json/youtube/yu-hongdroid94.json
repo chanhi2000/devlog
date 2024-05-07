@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "hongdroid94",
+    "name": "hongdroid홍드로이드",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mIHRLivEzd9N-qTDzF6REgx2oFT1ALkkQbnlIr2uZ6eg=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qGR_1HPkWWErJf5OSbCLictsOKoeUmhBvQ3_wGiwMIP5bIAB241KLAxV9exwBtwelgSuY9cAaxk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YtWFgUn1gjg", "title": "어마무시한 개발툴을 소개합니다 (web ide) Project IDX" },
+    { "id": "ySYVMezgN70", "title": "제목은 특이점이 온 개발 프로그램으로 하겠습니다 근데 AI를 곁들인.." },
+    { "id": "tV91KOVZAmE", "title": "안드로이드 코틀린 문법 #6 if문 (제어문) - 쉽게 앱 만드는 방법 (현직 개발자 설명) , android kotlin syntax tutorial" },
+    { "id": "ao4uG8aaeKU", "title": "안드로이드 코틀린 문법 #7 for문 (반복문) - 쉽게 앱 만드는 방법 (현직 개발자 설명) , android kotlin syntax tutorial" }
+  ],
+  "playlists": []
+}

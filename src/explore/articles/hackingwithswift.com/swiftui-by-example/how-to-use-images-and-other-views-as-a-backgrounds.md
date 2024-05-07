@@ -109,7 +109,7 @@ To be clear, you can use _any_ view as your background – another text view if 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to show different images and other views in light or dark mode",
+  "title": "How to show different images and other views in light or dark mode | SwiftUI by Example",
   "desc": "How to show different images and other views in light or dark mode",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-different-images-and-other-views-in-light-or-dark-mode.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -119,7 +119,7 @@ To be clear, you can use _any_ view as your background – another text view if 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to layer views on top of each other using ZStack",
+  "title": "How to layer views on top of each other using ZStack | SwiftUI by Example",
   "desc": "How to layer views on top of each other using ZStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-layer-views-on-top-of-each-other-using-zstack.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -139,7 +139,7 @@ To be clear, you can use _any_ view as your background – another text view if 
 
 ```component VPCard
 {
-  "title": "Article(s) > All SwiftUI property wrappers explained and compared",
+  "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -149,7 +149,7 @@ To be clear, you can use _any_ view as your background – another text view if 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to hide the home indicator and other system UI",
+  "title": "How to hide the home indicator and other system UI | SwiftUI by Example",
   "desc": "How to hide the home indicator and other system UI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-home-indicator-and-other-system-ui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

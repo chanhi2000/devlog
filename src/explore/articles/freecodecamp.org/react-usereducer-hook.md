@@ -26,6 +26,7 @@ head:
       content: How to Use the useReducer Hook in React
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/react-usereducer-hook.html
+prev: /programming/js-react/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
