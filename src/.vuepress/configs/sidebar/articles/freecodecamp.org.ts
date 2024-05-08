@@ -4,23 +4,57 @@ export const template: SidebarInfoTemplate = {
   name: 'freecodecamp.org',
   faviconPath: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
   linksMap: new Map([
-    ["js", [
+    [
+    "java-spring",[
+      "oauth2-resourceserver-with-spring-security", // 2024.05.08
+    ]],[
+    "java-android",[
+      "working-on-a-multiple-library-project-in-android", // 2024.04.27
+    ]],[
+    "gradle", [
+      "working-on-a-multiple-library-project-in-android", // 2024.04.27
+    ]],[
+    "js", [
       "how-to-create-interactive-terminal-based-portfolio", // 2024.04.29
+      "higher-order-functions-explained", // 2024.05.02
+      "understand-javascript-closures", // 2024.05.07
+      "how-js-string-concatenation-works", // 2024.05.07
+      "javascript-remove-char-from-string", // 2024.05.09
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024.03.28
+      "how-to-run-postgres-in-kubernetes",  // 2024.05.08
     ]],[
     "js-react", [
       "throttling-in-javascript", // 2024.05.01
       "how-to-build-a-realtime-chart-with-react-and-pusher", // 2024.05.02
       "react-usereducer-hook", // 2024.05.03
       "how-to-use-react-devtools", // 2024.05.06
+      "react-native-splash-screen", // 2024.05.08
+    ]],[
+    "js-nest", [
+      "how-to-setup-typeorm-datasource-nestjs-app", // 2024.04.25
+    ]],[
+    "css-tailwind", [
+      "how-to-build-a-login-page-with-material-tailwind-framework", // 2024.04.29
+    ]],[
+    "npm", [
+      "how-to-build-a-login-page-with-material-tailwind-framework", // 2024.04.29
     ]],[
     "py", [
+      "how-to-use-oop-in-python", // 2024.04.24
       "how-to-use-defaultdict-python", // 2024.05.01
+      "empire-state-building-run-up-analysis-with-python", // 2024.05.08
+      "how-to-install-python-on-a-mac", // 2024.05.09
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
+    ]],[
+    "dart", [
+      "how-to-develop-a-flutter-app-from-scratch", // 2024.04.26
+    ]],[
+    "rust", [
+      "procedural-macros-in-rust", // 2024.04.24
     ]],[
     "csharp", [
       "how-to-use-oop-in-c-sharp", // 2024.05.01
@@ -28,25 +62,73 @@ export const template: SidebarInfoTemplate = {
     "cpp", [
       "run-sql-like-queries-on-cplusplus-files", // 2024.05.0
     ]],[
+    "php", [
+      "php-jwt-authentication-implementation", // 2024.04.24
+      "php-array-handbook", // 2024.05.08    
+    ]],[
+    "sh", [
+      "linux-terminal-piping-and-redirection-guide", //2024.04.26
+    ]],[
     "git", [
       "git-checkout-remote-branch-how-to-fetch-and-list-remote-branches", // 2024.04.30
+      "how-to-use-git-submodules", // 2024.05.07
     ]],[
     "github", [
       "create-personalized-github-profile-page", // 2024.05.01
     ]],[
+    "macos", [
+      "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024.04.25
+      "how-to-install-python-on-a-mac", // 2024.05.09
+    ]],[
+    "aws", [
+      "what-is-amazon-ec2-auto-scaling", // 2024.05.06
+    ]],[
+    "azure", [
+     "how-to-run-postgres-in-kubernetes",  // 2024.05.08
+    ]],[
+    "k8s", [
+      "how-to-run-postgres-in-kubernetes",  // 2024.05.08
+    ]],[
+    "selenium", [
+      "empire-state-building-run-up-analysis-with-python", // 2024.05.08
+    ]],[
+    "postgres", [
+      "how-to-run-postgres-in-kubernetes",  // 2024.05.08
+    ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
       "what-is-dead-zone-in-javascript", // 2024.03.28
+      "how-to-use-oop-in-python", // 2024.04.24
+      "procedural-macros-in-rust", // 2024.04.24
+      "php-jwt-authentication-implementation", // 2024.04.24
+      "how-to-setup-typeorm-datasource-nestjs-app", // 2024.04.25
+      "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024.04.25
+      "how-to-develop-a-flutter-app-from-scratch", // 2024.04.26
+      "linux-terminal-piping-and-redirection-guide", //2024.04.26
+      "working-on-a-multiple-library-project-in-android", // 2024.04.27
+      "how-to-build-a-login-page-with-material-tailwind-framework", // 2024.04.29
       "how-to-create-interactive-terminal-based-portfolio", // 2024.04.29
       "git-checkout-remote-branch-how-to-fetch-and-list-remote-branches", // 2024.04.30
       "how-to-use-oop-in-c-sharp", // 2024.05.01
       "throttling-in-javascript", // 2024.05.01
       "create-personalized-github-profile-page", // 2024.05.01
       "how-to-use-defaultdict-python", // 2024.05.01
-      'higher-order-functions-explained', // 2024.05.02
+      "higher-order-functions-explained", // 2024.05.02
       "how-to-build-a-realtime-chart-with-react-and-pusher", // 2024.05.02
-      "run-sql-like-queries-on-cplusplus-files", // 2024.05.0
+      "run-sql-like-queries-on-cplusplus-files", // 2024.05.02
       "react-usereducer-hook", // 2024.05.03
+      "what-is-amazon-ec2-auto-scaling", // 2024.05.06
+      "how-to-use-react-devtools", // 2024.05.06
+      "understand-javascript-closures", // 2024.05.07
+      "how-js-string-concatenation-works", // 2024.05.07
+      "how-to-use-git-submodules", // 2024.05.07
+      "empire-state-building-run-up-analysis-with-python", // 2024.05.08
+      "oauth2-resourceserver-with-spring-security", // 2024.05.08
+      "react-native-splash-screen", // 2024.05.08
+      "how-to-run-postgres-in-kubernetes",  // 2024.05.08
+      "php-array-handbook", // 2024.05.08
+      "how-to-install-python-on-a-mac", // 2024.05.09
+      "javascript-remove-char-from-string", // 2024.05.09
     ]],
   ]),
 }

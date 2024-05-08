@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_jm033yvvp3c.woff2?t=1715156308068') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_jm033yvvp3c.woff?t=1715156308068') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_jm033yvvp3c.ttf?t=1715156308068') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_jm033yvvp3c.svg?t=1715156308068#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_thsepheul2.woff2?t=1715319373256') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_thsepheul2.woff?t=1715319373256') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_thsepheul2.ttf?t=1715319373256') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_thsepheul2.svg?t=1715319373256#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-gcp:before { content: "\e913"; }
+.icon-flutter:before { content: "\e912"; }
+.icon-visualstudio:before { content: "\e911"; }
+.icon-terraform:before { content: "\e910"; }
+.icon-nestjs:before { content: "\e90f"; }
 .icon-claude:before { content: "\e90e"; }
 .icon-hadoop:before { content: "\e90d"; }
 .icon-power-bi:before { content: "\e90c"; }
@@ -58,7 +63,6 @@
 .icon-microsoftpowerpoint:before { content: "\e873"; }
 .icon-microsoftword:before { content: "\e675"; }
 .icon-microsoftazure:before { content: "\ec16"; }
-.icon-powerbi:before { content: "\e7de"; }
 .icon-openai:before { content: "\e6c4"; }
 .icon-quarkus:before { content: "\ec70"; }
 .icon-spring-boot:before { content: "\e602"; }

@@ -7,10 +7,11 @@ category:
   - AWS
   - Article(s)
 tag:
-  - aws 
-  - amazon-web-services
   - blog
+  - freecodecamp.org
   - yozm.wishket.com
+  - aws
+  - amazon-web-services
 head:
   - - meta:
     - property: og:title
@@ -25,11 +26,37 @@ head:
 
 ```component VPCard
 {
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "요즘IT", 
   "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+---
+
+## freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "What is Amazon EC2 Auto Scaling?",
+  "desc": "Auto scaling is like having a smart system that keeps an eye on how many people are visiting your website. When you have a lot of people, it quickly adds more servers to handle the extra traffic. And when things quiet down, it scales back to save you money. In…",
+  "link": "/explore/articles/freecodecamp.org/what-is-amazon-ec2-auto-scaling.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
 }
 ```
 

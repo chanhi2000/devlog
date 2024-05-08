@@ -54,7 +54,6 @@ tags:
 
 <MyYouTubeItems jsonName="yu-ChrisTitusTech" /><!-- Chris Titus Tech -->
 <MyYouTubeItems jsonName="yu-snazzy"/><!-- Snazzy Labs -->
-<MyYouTubeItems jsonName="yu-lukemiani" /><!-- Luke Miani -->
 <MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
 <MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
 <MyYouTubeItems jsonName="yu-KevinStratvert" /><!-- Kevin Stratvert -->
@@ -130,8 +129,6 @@ tags:
 [yu-edvin-syse]: https://www.youtube.com/@MrEdvinsyse
 [yu-antoniolg28]: https://www.youtube.com/@antoniolg28
 [yu-user-fm4nl5vr1v]: https://www.youtube.com/@user-fm4nl5vr1v
-[yu-riggaroo]: https://www.youtube.com/@riggaroo
-[yu-varuncbv]: https://www.youtube.com/@varuncbv
 [yu-user-jb1yn4ve5p]: https://www.youtube.com/@user-jb1yn4ve5p
 [yu-cat-technology]: https://www.youtube.com/@Renewedcart
 [yu-gis-donwell]: https://www.youtube.com/@GISdonwell
@@ -141,6 +138,4 @@ tags:
 [yu-user-ls2vk8ic9v]: https://www.youtube.com/@user-ls2vk8ic9v
 [yu-nathaniel-jordon]: https://www.youtube.com/@NathanielJordon
 [yu-sonulodha9215]: https://www.youtube.com/@sonulodha9215
-[yu-techmong]: https://www.youtube.com/@techmong
 [yu-codewiththilaks]: https://www.youtube.com/@codewiththilaks
-[yu-peter-akkies]: https://www.youtube.com/@PeterAkkies

@@ -4,12 +4,13 @@ title: Plugins
 description: Intellij Idea > Plugins
 icon: fas fa-plug
 category:
+  - IDE
   - Intellij Idea
   - Plugins
-tag: 
+tag:
+  - ide
   - java
   - jdk
-  - ide
   - jetbrains
   - intellij
   - intellij-idea

@@ -12,8 +12,6 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-
-
 <ShieldsGroup logos="git,gitlfs,gitignoredotio,github,awesomelists"/>
 
 ---
@@ -66,16 +64,6 @@ tag:
 
 ```component VPCard
 {
-  "title": "요즘IT", 
-  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
-  "link": "https://yozm.wishket.com/magazine/list/develop/", 
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "Outsider's Dev Story",
   "desc": "Stay Hungry. Stay Foolish. Don't Be Satisfied.",
   "link": "https://blog.outsider.ne.kr/category/Newsletter",
@@ -91,6 +79,66 @@ tag:
   "link": "https://awesome-blogs.petabytes.org/feeds?group=dev",
   "logo": "https://awesome-blogs.petabytes.org/favicon.ico",
   "background": "rgba(20,20,20,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "주간 뉴스 - Sangkon Han(SigmaDream, sd or SD)",
+  "desc": "내가 한 주간 읽고/실행한 외국의 기사를 모아서 소개하는 Weekly 뉴스!",
+  "link": "https://www.sangkon.com/tag/weekly/",
+  "logo": "https://www.sangkon.com/favicon.ico",
+  "background": "rgba(21,23,26,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Dev Event - 개발자 행사는 모두 데브이벤트 웹에서!",
+  "desc": "데브이벤트 웹에서 개발자 행사를 놓치지 마세요! 개발자를 위한 {웨비나, 컨퍼런스, 해커톤, 네트워킹} 소식을 알려드립니다.",
+  "link": "https://dev-event.vercel.app/events",
+  "logo": "https://raw.githubusercontent.com/brave-people/Dev-Event-Web-Deploy/main/public/favicon.ico",
+  "background": "rgba(0,32,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Festa! 모임과 이벤트를 주최하는 가장 쉬운 방법",
+  "desc": "Festa에서 이벤트를 주최하고 당신이 찾는 이벤트를 만나보세요.",
+  "link": "https://festa.io/",
+  "logo": "https://festa.io/public/ny/favicon/favicon.ico",
+  "background": "rgba(52,58,64,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "제10회 대한민국 SW융합 해커톤 대회",
+  "desc": "미래 창업 꾸나무들이 SW융합 발전을 위해 펼치는 무박 3일의 여정, 제9회 SW융합 해커톤 대회",
+  "link": "http://www.swhackathon.kr/ko/index.html",
+  "logo": "http://www.swhackathon.kr/favicon.ico",
+  "background": "rgba(0,1,32,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "이벤터스 :: 행사와 함께하는 모든 순간",
+  "desc": "내가 원하는 행사를 개최하거나, 참여할 수 있는 플랫폼 - 이벤터스",
+  "link": "https://event-us.kr/search/calendar",
+  "logo": "https://event-us.kr/favicon.ico",
+  "background": "rgba(93,63,191,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "공모전 대외활동 올콘",
+  "desc": "일반인 대학생 청소년 공모전 대외활동 서포터즈 마케터 홍보대사 모집 정보를 전해드립니다. 공모전 대외활동 소식은 올콘 ALLCON 에서",
+  "link": "https://www.all-con.co.kr/",
+  "logo": "https://www.all-con.co.kr/favicon.ico",
+  "background": "rgba(250,140,50,0.2)"
 }
 ```
 
@@ -136,16 +184,6 @@ tag:
 
 ```component VPCard
 {
-  "title": "주간 뉴스 - Sangkon Han(SigmaDream, sd or SD)",
-  "desc": "내가 한 주간 읽고/실행한 외국의 기사를 모아서 소개하는 Weekly 뉴스!",
-  "link": "https://www.sangkon.com/tag/weekly/",
-  "logo": "https://www.sangkon.com/favicon.ico",
-  "background": "rgba(21,23,26,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
   "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
   "link": "https://freecodecamp.org/news/",
@@ -161,6 +199,26 @@ tag:
   "link": "https://frontendmasters.com/blog/",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Kt. Academy",
+  "desc": "Teaching programming, with focus on the best practices.",
+  "link": "https://kt.academy/article",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -215,6 +273,16 @@ tag:
   "link": "https://github.com/naver/fe-news/blob/master/issues/",
   "logo": "https://github.com/naver/fe-news/raw/master/assets/logo.svg",
   "background": "rgba(247,223,30,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ZUM 기술 블로그",
+  "desc": "생각을 읽다, ZUM, 고객의 생각을 읽고 담는 줌 인터넷 개발자들의 '좀 다른 개발 이야기'를 소개 합니다.",
+  "link": "https://zuminternet.github.io/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
 }
 ```
 
@@ -477,6 +545,16 @@ tag:
   "link": "https://www.kreportanalytics.com",
   "logo": "https://www.kreportanalytics.com/static/favicon.png",
   "background": "rgba(80,198,158,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "공개SW 포털 - 공개SW 포털",
+  "desc": "공개SW 포털 - 공개SW 포털",
+  "link": "https://www.oss.kr/",
+  "logo": "https://www.oss.kr/storage/app/public/favicon/default/24/06/local",
+  "background": "rgba(10,85,135,0.2)"
 }
 ```
 

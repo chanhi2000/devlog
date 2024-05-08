@@ -9,10 +9,10 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - meetup.nhncloud.com
   - js
   - javascript
-  - blog
 head:
   - - meta:
     - property: og:title
@@ -47,15 +47,11 @@ head:
 
 [[toc]]
 
-
 ---
 
 ## freeCodeCamp
 
 > freecodecamp.org
-
-
-
 
 ```component VPCard
 {
@@ -72,6 +68,36 @@ head:
   "title": "What are Higher Order Functions in JavaScript? Explained With Examples",
   "desc": "JavaScript offers a powerful feature known as higher order functions (HOFs). These functions elevate your code by treating other functions as citizens of the language itself.  In simpler terms, HOFs can accept functions as arguments and even return functions as results. This ability allows developers to write clean, reusable, and",
   "link": "/explore/articles/freecodecamp.org/higher-order-functions-explained.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How Do Closures Work in JavaScript? Explained with Code Examples",
+  "desc": "Sally and Joe are two love birds. They shared everything with each other and soon enough it was almost impossible to think that anything could come between them. One day, they had a quarrel which built up to a break up.  It was hard for Joe and he wanted...",
+  "link": "/explore/articles/freecodecamp.org/understand-javascript-closures.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "JavaScript Concatenate Strings – How JS String Concatenation Works",
+  "desc": "When coding in JavaScript, you may need to combine multiple strings to create a new, longer string. This operation is known as concatenation. In this article, you will learn five ways to concatenate strings in JavaScript. How to Concatenate Strings i...",
+  "link": "/explore/articles/freecodecamp.org/how-js-string-concatenation-works.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "JS Remove Char from String – How to Trim a Character from a String in JavaScript",
+  "desc": "Manipulating strings is a fundamental skill in programming. A common task you might encounter when coding in JavaScript is trimming characters from a string. Trimming involves removing specific characters from the beginning and/or end of a string. Th...",
+  "link": "/explore/articles/freecodecamp.org/javascript-remove-char-from-string.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

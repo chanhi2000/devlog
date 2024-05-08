@@ -26,7 +26,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [The Best VS Code Extensions For Remote Working](https://dev.to/morrone_carlo/the-best-vs-code-extensions-for-remote-working-e8e)
 

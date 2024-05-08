@@ -4,16 +4,21 @@ title: Article(s)
 description: Intellij Idea > Article(s)
 icon: fas fa-square-share-nodes
 category:
+  - IDE
   - Intellij Idea
   - Article(s)
-tag: 
+tag:
   - blog
-  - intellij-idea
-  - idea
+  - yozm.wishket.com
   - ide
   - java
   - jdk
-  - jdk8
+  - jetbrains
+  - intellij
+  - intellij-idea
+  - android-studio
+  - productivity
+  - programming
 head:
   - - meta:
     - property: og:title

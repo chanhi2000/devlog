@@ -38,12 +38,23 @@ tag:
 ```component VPCard
 {
   "title": "Can I Use?",
-  "desc": "Can I use... Support tables for HTML5, CSS3, etc",
+  "desc": "Can I use… Support tables for HTML5, CSS3, etc",
   "link": "https://caniuse.com/",
   "logo": "https://caniuse.com/img/favicon-128.png",
   "background": "rgba(131,53,2,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "Can I WebView… Documentation for WebView capatibilities, limitations and features",
+  "desc": "Documentation for WebView capatibilities, limitations and features",
+  "link": "https://caniwebview.com/",
+  "logo": "https://caniwebview.com/assets/images/favicon.ico",
+  "background": "rgba(0,90,156,0.2)"
+}
+```
+
 ```component VPCard
 {
   "title": "Can I email… Support tables for HTML and CSS in emails",
@@ -117,7 +128,7 @@ tag:
 ```component VPCard
 {
   "title": "Globe Explorer",
-  "desc": "Finding everything humans know about ...",
+  "desc": "Finding everything humans know about …",
   "link": "https://explorer.globe.engineer",
   "logo": "https://explorer.globe.engineer/favicon.png",
   "background": "rgba(3,105,161,0.2)"

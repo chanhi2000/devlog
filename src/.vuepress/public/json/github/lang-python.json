@@ -5079,5 +5079,25 @@
     "desc": "Python scraper based on AI",
     "officialSite": "https://scrapegraph-doc.onrender.com/",
     "topics": ["automated-scraper", "gpt-3", "gpt-4", "llama3", "llm", "machine-learning", "sc", "scraping", "scraping-python", "scrapingweb"]
+  }, {
+    "repo": "huggingface/lerobot",
+    "desc": "🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hbb1/2d-gaussian-splatting",
+    "desc": "[SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+    "officialSite": "https://github.com/hbb1/2d-gaussian-splatting",
+    "topics": []
+  }, {
+    "repo": "google-research/timesfm",
+    "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "officialSite": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+    "topics": []
+  }, {
+    "repo": "AdityaNG/kan-gpt",
+    "desc": "The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling",
+    "officialSite": "https://adityang.github.io/kan-gpt/",
+    "topics": ["gpt", "kanformers", "kolmogorov-arnold-networks", "kolmogorov-arnold-representation", "llm", "text-generation", "transformers"]
   }
 ]

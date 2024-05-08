@@ -4,11 +4,13 @@ title: Article(s)
 description: Ansible > Article(s)
 icon: fas fa-square-share-nodes
 category:
+  - IaC
   - Ansible
   - Article(s)
 tag:
   - blog
   - ansible
+  - iac
 head:
   - - meta:
     - property: og:title

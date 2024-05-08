@@ -31,7 +31,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Building a Dashboard with ASP.NET Core and DotVVM](https://medium.com/dotvvm/building-a-dashboard-with-asp-net-core-and-dotvvm-b0439a489a9c)
 - [Unit Testing with xUnit in ASP.NET Core](https://malshikay.medium.com/unit-testing-with-xunit-in-asp-net-core-86dbbda6f651)
@@ -48,7 +48,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`sukkergris` - Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
 

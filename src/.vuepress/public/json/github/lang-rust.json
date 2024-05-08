@@ -1379,5 +1379,15 @@
     "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
     "officialSite": "https://solanalabs.com",
     "topics": ["bitcoin", "blockchain", "ledger", "performance-blockchain", "rust", "rustc", "solana"]
+  }, {
+    "repo": "irrustible/ointers",
+    "desc": "What do you call a pointer we stole the high bits off? An ointer.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tembo-io/pgmq",
+    "desc": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: References
-description: php > References
+description: PHP > References
 icon: iconfont icon-share
 category: 
-  - php
+  - PHP
   - References
 tag: 
   - education
@@ -20,7 +20,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [$this vs parent vs self vs static](https://medium.com/@erlandmuchasaj/this-vs-parent-vs-self-vs-static-2e1e89a42dca)
 - [PHPMD: A PHP Code Smells Detector](https://mprtmma.medium.com/phpmd-a-php-code-smells-detector-d9c014d212a6)
@@ -62,12 +62,20 @@ tag:
 - [4.10. PHP에서 MySQL 값 수정 / 삭제하기](https://ysedeveloper.tistory.com/entry/410-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
 - [5.03. 문자열이 특정 문자열을 포함하는지 검사하기](https://ysedeveloper.tistory.com/entry/503-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%ED%8F%AC%ED%95%A8%ED%95%98%EB%8A%94%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
 - [5.04. 문자열 자르기](https://ysedeveloper.tistory.com/entry/504-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0)
+- [5.05. 문자열 줄 단위로 자르기](https://ysedeveloper.tistory.com/entry/505-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%A4%84-%EB%8B%A8%EC%9C%84%EB%A1%9C-%EC%9E%90%EB%A5%B4%EA%B8%B0)
+- [5.06. 문자열 바꾸기](https://ysedeveloper.tistory.com/entry/506-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 ---
 
 ## 멈춤보단 천천히라도
 
 - [PHP로 간단한 웹사이트 만들기(회원가입, 로그인)](https://webnautes.tistory.com/1989)
+
+---
+
+## DeveloperJoy
+
+- [PHP Doesn't Suck Anymore](https://developerjoy.co/blog/php-doesnt-suck-anymore)
 
 ---
 

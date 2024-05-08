@@ -7,9 +7,13 @@ category:
   - Git
   - Article(s)
 tag: 
-  - git
   - blog
-  - yozm
+  - freecodecamp.org
+  - yozm.wishket.com
+  - d2.naver.com
+  - meetup.nhncloud.com
+  - techblog.woowahan.com
+  - git
 head:
   - - meta:
     - property: og:title
@@ -86,6 +90,18 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "How to Use Git Submodules – Explained With Examples",
+  "desc": "Git is undeniably a very important tool for developers. It helps us collaborate seamlessly, track changes efficiently, and maintain project integrity across distributed environments. But as projects grow in complexity and scope, so do their dependencies. So we need a mechanism to properly manage these dependencies as they grow. This...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-git-submodules.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
 
 ## 요즘IT
 

@@ -31,7 +31,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [`mcdonalds-technical-blog`: Reduce, reuse, recycle: McDonald's reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
 
@@ -49,7 +49,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`m0nica` - How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
 - [`jacktt` - Creating Dynamic `README.md` File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)

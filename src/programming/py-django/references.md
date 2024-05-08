@@ -19,9 +19,15 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Django Model Relations(Tracking the models)](https://awstip.com/django-model-relations-tracking-the-models-c03a65e8d76e)
+
+---
+
+## velog
+
+- [`@qlgks1` / Django - sqlite 는 Json이 text 래요!, sqlite lookup (contains) 오버라이딩 하기](https://velog.io/@qlgks1/Django-sqlite-lookup-contain-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-%ED%95%98%EA%B8%B0)
 
 ---
 

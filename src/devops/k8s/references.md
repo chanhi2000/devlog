@@ -53,7 +53,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Kubernetes commands that every developer must know ☸](https://medium.com/@InzamamAhmad/kubernetes-commands-that-every-developer-must-know-192d2bc40608)
 - [How to deploy your Golang project on Kubernetes](https://medium.com/@kasthedeveloper/how-to-deploy-your-golang-project-on-kubernetes-d22d2b4c70c7)

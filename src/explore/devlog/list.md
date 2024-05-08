@@ -33,14 +33,14 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
 - [3항 연산자의 재발견](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Creating a multi architecture CI/CD solution with Amazon ECS and ECS Anywhere](https://dev.to/aws/creating-a-multi-architecture-ci-cd-deployment-for-amazon-ecs-and-ecs-anywhere-15o3)
 - [4 ways to deploy web apps in 2020](https://dev.to/alex_boykov/4-ways-to-deploy-web-apps-in-2020-4ch3)
@@ -93,7 +93,7 @@ tag:
 
 ---
 
-## Stackoverflow
+## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [I want to get application crash info in Android programmatically without using 3rd party apps or jars like bugsense etc](https://stackoverflow.com/questions/27779289/i-want-to-get-application-crash-info-in-android-programmatically-without-using-3)
 - [print directory tree](https://stackoverflow.com/questions/10655085/print-directory-tree)

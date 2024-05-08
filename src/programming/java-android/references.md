@@ -29,7 +29,7 @@ tag:
 
 ---
 
-## Stackoverflow
+## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [How do I get an apk file from an Android device?](https://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
 
@@ -52,7 +52,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
 - [How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
@@ -105,12 +105,6 @@ tag:
 
 ---
 
-## Kt.academy
-
-- [Coroutine scope functions](https://kt.academy/article/cc-scoping-functions)
-
----
-
 ## Google
 
 ### Android Developers Blog
@@ -156,6 +150,7 @@ tag:
 - [UI Code Snippet용 Plugin 제작기 ~ 3부 : Import](https://pluu.github.io/blog/android/2024/03/09/designsystem-plugin-03/)
 - [[메모] AndroidX Lifecycle 2.7.0-alpha02부터 변경된 동작](https://pluu.github.io/blog/android/2024/04/10/livedata/)
 - [[메모] Compose LazyVerticalGrid 렌더링 프로파일 체크](https://pluu.github.io/blog/android/2024/04/21/compose-performance/)
+- [[정리] Compose 가이드 문서 ~ UI Architecture](https://pluu.github.io/blog/android/2024/05/06/compose/)
 
 ---
 

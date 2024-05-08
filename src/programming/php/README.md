@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
-title: php
-description: php
+title: PHP
+description: PHP
 icon: fa-brands fa-php
 category: 
-  - php
+  - PHP
 tag:
   - php
 ---

@@ -127,6 +127,10 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-angular',
         link: '/programming/js-angular/README.md',
       }, {
+        text: 'Nest.js',
+        icon: 'iconfont icon-nestjs',
+        link: '/programming/js-nest/README.md',
+      }, {
         text: 'GraphQL',
         icon: 'iconfont icon-graphql',
         link: '/programming/js-graphql/README.md',
@@ -139,6 +143,14 @@ export const navbarEn = navbar([
         link: '/programming/js-mermaid/README.md',
         icon: 'iconfont icon-mermaid',
       }, {
+        text: 'CSS',
+        link: '/programming/css/README.md',
+        icon: 'fa-brands fa-css3-alt'
+      }, {
+        text: 'Tailwind CSS',
+        link: '/programming/css-tailwind/README.md',
+        icon: 'iconfont icon-tailwindcss',
+      }, {
         text: 'Python',
         link: '/programming/py/README.md',
         icon: 'fa-brands fa-python',
@@ -147,6 +159,10 @@ export const navbarEn = navbar([
         link: '/programming/py-django/README.md',
         icon: 'iconfont icon-django',
       }, {
+        text: 'Jupyter',
+        icon: 'iconfont icon-django',
+        link: '/programming/py-jupyter/README.md',
+      }, {
         text: 'Airflow',
         link: '/programming/py-airflow/README.md',
         icon: 'iconfont icon-apacheairflow',
@@ -154,10 +170,6 @@ export const navbarEn = navbar([
         text: 'Objective-C',
         icon: 'iconfont icon-objective-c',
         link: '/programming/objc/README.md',
-      }, {
-        text: 'CSS',
-        link: '/programming/css/README.md',
-        icon: 'fa-brands fa-css3-alt'
       }, {
         text: 'Rust',
         link: '/programming/rust/README.md',
@@ -294,6 +306,10 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-redhat',
         link: '/devops/openshift/README.md',
       }, {
+        text: 'Terraform',
+        icon: 'iconfont icon-terraform',
+        link: '/devops/terraform/README.md',
+      },{
         text: 'AWS',
         icon: 'fa-brands fa-aws',
         link: '/devops/aws/README.md',
@@ -301,6 +317,10 @@ export const navbarEn = navbar([
         text: 'Azure',
         icon: 'iconfont icon-microsoftazure',
         link: '/devops/azure/README.md',
+      }, {
+        text: 'Google Cloud',
+        icon: 'iconfont icon-gcp',
+        link: '/devops/gcp/README.md',
       }, {
         text: 'OCI',
         icon: 'iconfont icon-oci',
@@ -345,6 +365,10 @@ export const navbarEn = navbar([
         text: 'Playwright',
         icon: 'iconfont icon-playwright',
         link: '/devops/playwright/README.md',
+      },  {
+        text: 'Tomcat',
+        icon: 'iconfont icon-tomcat',
+        link: '/devops/tomcat/README.md',
       }, {
         text: '🦖JEUS',
         link: '/devops/jeus/README.md',
@@ -406,7 +430,11 @@ export const navbarEn = navbar([
         text: 'Cassandra',
         icon: 'iconfont icon-apachecassandra',
         link: '/data-science/cassandra/README.md',
-      }
+      }, {
+        text: 'Hadoop',
+        icon: 'iconfont icon-hadoop',
+        link: '/data-science/hadoop/README.md',
+      }, 
     ]
   }, {
     text: '',
@@ -428,7 +456,11 @@ export const navbarEn = navbar([
         text: 'Intellij Idea',
         icon: 'iconfont icon-intellijidea',
         link: '/tool/intellij-idea/README.md',
-      },{
+      }, {
+        text: 'Visual Studio',
+        icon: 'iconfont icon-visualstudio',
+        link: '/tool/visualstudio/README.md',
+      }, {
         text: 'VSCode',
         icon: 'iconfont icon-vscode',
         link: '/tool/vscode/README.md',
@@ -448,6 +480,10 @@ export const navbarEn = navbar([
         text: 'PowerPoint',
         icon: 'iconfont icon-microsoftpowerpoint',
         link: '/tool/powerpoint/README.md',
+      }, {
+        text: 'Power Bi',
+        icon: 'iconfont icon-power-bi',
+        link: '/tool/powerbi/README.md',
       }, {
         text: 'Chrome Browser',
         icon: 'fa-brands fa-chrome',
@@ -472,7 +508,7 @@ export const navbarEn = navbar([
         text: 'Airtable',
         icon: 'iconfont icon-airtable',
         link: '/tool/airtable/README.md',
-      }
+      },
     ]
   }, {
     text: '', // ai
@@ -490,6 +526,10 @@ export const navbarEn = navbar([
         text: 'Gemini',
         icon: 'fas fa-wand-magic-sparkles',
         link: '/ai/gemini/README.md',
+      },  {
+        text: 'Claude',
+        icon: 'iconfont icon-claude',
+        link: '/ai/claude/README.md',
       }, 
     ]
   }, {

@@ -11,6 +11,8 @@ tag:
   - blog
   - yozm.wishket.com
   - meetup.nhncloud.com
+  - d2.naver.com
+  - kt.academy
   - java
   - jdk
   - jdk8
@@ -25,10 +27,6 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
-
-[[toc]]
-
----
 
 ```component VPCard
 {
@@ -56,6 +54,18 @@ head:
   url="https://d2.naver.com"
   logo="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/sitebanner.png"/>
+
+```component VPCard
+{
+  "title": "Kt. Academy",
+  "desc": "Teaching programming, with focus on the best practices.",
+  "link": "https://kt.academy/article",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+[[toc]]
 
 ---
 
@@ -122,6 +132,22 @@ head:
   "link": "/explore/articles/d2.naver.com/6445508.md",
   "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
+}
+```
+
+---
+
+## Kt. Academy
+
+> kt.academy
+
+```component VPCard
+{
+  "title": "A Pattern for Composing Flow Operations",
+  "desc": "Extending and operating on top of your existing flows",
+  "link": "/explore/articles/kt.academy/pattern-for-composing-flows.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
 }
 ```
 

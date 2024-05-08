@@ -139,5 +139,15 @@
     "desc": "A little playground for testing pixel logic patterns.",
     "officialSite": "",
     "topics": ["logic", "mandala", "mandala-art", "pixels"]
+  }, {
+    "repo": "ejoy/ant",
+    "desc": "Ant game engine",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "xmake-io/xmake",
+    "desc": "🔥 A cross-platform build utility based on Lua",
+    "officialSite": "https://xmake.io",
+    "topics": ["build", "build-tool", "c", "c-plus-plus", "cmake", "cross-toolchains", "linux", "lua", "makefile", "objective-c", "package-manager", "tbox", "visual-studio", "wdk", "xmake"]
   }
 ]

@@ -4,12 +4,13 @@ title: Troubleshooting
 description: Intellij Idea > Troubleshooting
 icon: fas fa-bug-slash
 category:
+  - IDE
   - Intellij Idea
   - Troubleshooting
-tag: 
+tag:
+  - ide
   - java
   - jdk
-  - ide
   - jetbrains
   - intellij
   - intellij-idea

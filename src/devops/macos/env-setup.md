@@ -105,7 +105,7 @@ Install the following(s)
 
 <SiteInfo
   name="Particulars on the Mac App Store"
-  desc="..."
+  desc="…"
   url="https://apps.apple.com/us/app/particulars/id885120167"
   logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/4e/f3/a24ef382-4865-2fc7-0d26-62a67d781023/AppIcon-0-85-220-4-0-0-2x-0-0.png/492x0w.webp"
   preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/92/8b/ab/928babea-3471-56af-f6b1-76b622879c59/1f58e09c-b08b-4709-8c75-15efe573e782_Screenshot_2023-09-15_at_8.35.13_PM.png/1286x0w.webp"/>
@@ -140,7 +140,7 @@ Install the following(s)
 
 <SiteInfo
   name="GIPHY Capture. The GIF Maker on the Mac App Store"
-  desc="..."
+  desc="…"
   url="https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984"
   logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/98/b7/63/98b76370-8dd8-e7ff-9832-87a404cc524c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/460x0w.webp"
   preview="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/b9/50/0f/b9500fe9-0107-a750-49be-caa47faf7a4a/pr_source.png/626x0w.webp"/>
@@ -252,7 +252,7 @@ ZSH_THEME="agnoster"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
 # You can also set it to another string to have that shown instead of the default red dots.
-# e.g. COMPLETION_WAITING_DOTS="%F{yellow}waiting...%f"
+# e.g. COMPLETION_WAITING_DOTS="%F{yellow}waiting…%f"
 # Caution: this setting can cause issues with multiline prompts in zsh < 5.7.1 (see #5765)
 # COMPLETION_WAITING_DOTS="true"
 

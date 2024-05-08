@@ -21,7 +21,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/ai-gemini/" />
+<ToCLocal basePath="/ai/gemini/" />
 
 ---
 

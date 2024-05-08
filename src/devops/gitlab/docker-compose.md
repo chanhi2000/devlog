@@ -96,7 +96,7 @@ mount된 volume이 있으나, runner는 찾지 못하기 때문에 발생하는 
 
 :::
 
---- 
+---
 
 ## Gitlab Runner 구성
 

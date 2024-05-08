@@ -37,7 +37,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [C pointers guide in 2023](https://levelup.gitconnected.com/c-pointers-guide-in-2023-82d5ef8afb98)
 - [Behavior Trees for ROS2 — Part 1: Unlocking Advanced Robotic Decision-Making and Control](https://medium.com/@nullbyte.in/behavior-trees-for-ros2-part-1-unlocking-advanced-robotic-decision-making-and-control-7856582fb812)
@@ -278,10 +278,16 @@ tag:
 
 ---
 
-## Misc.
+## cppreference.com
 
-- [cppreference](https://en.cppreference.com/w/cpp/links/libs)
+- [A list of open-source C++ libraries](https://en.cppreference.com/w/cpp/links/libs)
 
+---
+
+## Enthusiastically, Steady, Slowly
+
+- [박정국 CTO가 알려주는 ‘서버 성능 측정 방법’ (포브스 선정, 신입 개발자, API, 백엔드)](https://rutgo-letsgo.tistory.com/entry/%EB%B0%95%EC%A0%95%EA%B5%AD-CTO%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%E2%80%98%EC%84%9C%EB%B2%84-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-%EB%B0%A9%EB%B2%95%E2%80%99-%ED%8F%AC%EB%B8%8C%EC%8A%A4-%EC%84%A0%EC%A0%95-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-API-%EB%B0%B1%EC%97%94%EB%93%9C)
+  
 ---
 
 <TagLinks />

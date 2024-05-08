@@ -32,7 +32,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
 - [`berom0227` - Running Ollama in Smart Connections](https://berom0227.medium.com/running-ollama-in-smart-connections-db2242aee3ba)
@@ -200,6 +200,12 @@ tag:
 ## 정우일 블로그
 
 - [GGUF 파일로 로컬에서 LLM 실행하기](https://wooiljeong.github.io/ml/gguf-llm/)
+
+---
+
+## 꿈 많은 사람의 이야기
+
+- [vLLM 사용법 - LLM을 쉽고 빠르게 추론(inference) 및 API 서빙(serving)하기](https://lsjsj92.tistory.com/668)
 
 ---
 

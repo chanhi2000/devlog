@@ -19,7 +19,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [`freedomben` - Introduction to `oc` — the OpenShift Command Line Power Tool](https://freedomben.medium.com/introduction-to-oc-the-openshift-command-line-power-tool-cdcd399b4048)
 

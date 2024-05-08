@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Github
-description: php > Github
+description: PHP > Github
 icon: fa-brands fa-github
 category:
-  - php
+  - PHP
   - Github
 tag: 
   - git 
@@ -14,9 +14,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ⛵php > Github
+      content: PHP > Github
     - property: og:description
-      content: ⛵php > Github
+      content: PHP > Github
     - property: og:url
       content: https://chanhi2000.github.io/programming/php/github.html
 ---

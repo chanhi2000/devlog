@@ -68,7 +68,6 @@ docker run -d -it ^
 
 :::
 
-
 ### GitLab 정보 등록
 
 컨테이너로 sh접근 후 실행

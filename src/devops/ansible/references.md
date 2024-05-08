@@ -4,9 +4,11 @@ title: References
 description: Ansible > References
 icon: iconfont icon-share
 category:
+  - IaC
   - Ansible
   - References
 tag:
+  - iac
   - ansible
 ---
 

@@ -24,7 +24,7 @@ tag:
 
 ---
 
-## dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`yanhaijing` - Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg?ref=dailydev)
 
@@ -62,7 +62,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [`nmc-techblog` - Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
 - [`bitsrc` - Frontend Application Security: Tips and Tricks](https://blog.bitsrc.io/frontend-application-security-tips-practices-f9be12169e66)
@@ -115,6 +115,18 @@ tag:
 ## The New Stack
 
 - [Top 5 Underutilized JavaScript Features](https://thenewstack.io/top-5-underutilized-javascript-features/)
+
+---
+
+## 편리함을 추구하는 핸디의 지식 블로그
+
+- [[타입스크립트] enum과 enum의 리버스 맵핑에 대하여](https://all-dev-kang.tistory.com/entry/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-enum%EA%B3%BC-enum%EC%9D%98-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EB%A7%B5%ED%95%91%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+
+---
+
+## 코딩팩토리
+
+- [[JavaScript] 자바스크립트 문자열 길이(length) 구하는 방법](https://coding-factory.tistory.com/1054)
 
 ---
 

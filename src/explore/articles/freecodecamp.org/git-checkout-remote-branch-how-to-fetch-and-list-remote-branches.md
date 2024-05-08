@@ -18,6 +18,7 @@ head:
       content: Git Checkout Remote Branch – How to Fetch and List Remote Branches
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches.html
+prev: /programming/git/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련

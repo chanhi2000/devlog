@@ -47,13 +47,13 @@ tag:
 
 ## velog
 
-- [`@qlgks1` - Django - sqlite 는 Json이 text 래요!, sqlite lookup (contains) 오버라이딩 하기](https://velog.io/@qlgks1/Django-sqlite-lookup-contain-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-%ED%95%98%EA%B8%B0)
-- [`@euisuk-chung` - `pipenv`로 `pyenv` 뽕 뽑기](https://velog.io/@euisuk-chung/pipenv-%EB%84%88%EB%8F%84-%EA%B0%99%EC%9D%B4-%EC%98%A4%EA%B3%A0-pyenv-pipenv)
-- [`@eunbibi` - Iris Dataset](https://velog.io/@eunbibi/Iris-Dataset)
+- [`@euisuk-chung` / `pipenv`로 `pyenv` 뽕 뽑기](https://velog.io/@euisuk-chung/pipenv-%EB%84%88%EB%8F%84-%EA%B0%99%EC%9D%B4-%EC%98%A4%EA%B3%A0-pyenv-pipenv)
+- [`@eunbibi` / Iris Dataset](https://velog.io/@eunbibi/Iris-Dataset)
+- [`@1996yyk` / [Full-Stack] 풀스택 프로젝트 개발 일지(1)](https://velog.io/@1996yyk/Full-Stack-%ED%92%80%EC%8A%A4%ED%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%801)
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Computational Linear Algebra: Scalars, Vectors, Matrices and Tensors](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc)
 - [Apache Log Parser With Python](https://medium.com/@nithinjohn97/apache-log-parser-with-python-5007a91a04ce)
@@ -590,6 +590,14 @@ tag:
 - [[백준] 1541번: 잃어버린 괄호 - python](https://findsilverlining.tistory.com/29)
 - [[백준] 1929번: 소수 구하기 - python](https://findsilverlining.tistory.com/36)
 - [[백준] 11653번: 소인수분해 - python](https://findsilverlining.tistory.com/37)
+- [[백준] 14501번: 퇴사 - python](https://findsilverlining.tistory.com/84)
+- [[백준] 13913번: 숨바꼭질 4 - python](https://findsilverlining.tistory.com/85)
+- [[백준] 15486번: 퇴사 2 - python](https://findsilverlining.tistory.com/86)
+- [[백준] 1182번: 부분수열의 합 - python](https://findsilverlining.tistory.com/87)
+- [[백준] 2252번: 줄 세우기 - python](https://findsilverlining.tistory.com/88)
+- [[백준] 10026번: 적록색약 - python](https://findsilverlining.tistory.com/89)
+- [[백준] 15988번: 1, 2, 3 더하기 3 - python](https://findsilverlining.tistory.com/90)
+
 ---
 
 ## [ 프로페셔널 프로그래머 ]
@@ -772,6 +780,7 @@ tag:
 - [[백준 18185] 라면 사기 (Small)](https://davincicoding.tistory.com/157)
 - [[백준 25381] ABBC](https://davincicoding.tistory.com/161)
 - [[백준 2776] 암기왕](https://davincicoding.tistory.com/160)
+- [[백준 30106] 현이의 로봇 청소기](https://davincicoding.tistory.com/162)
 
 ---
 
@@ -779,6 +788,7 @@ tag:
 
 - [[PyTorch] DataLoader 멀티프로세싱하기](https://sonseungha.tistory.com/717)
 - [[Tensorflow/keras] Tensorflow용 DataLoader 만들기](https://sonseungha.tistory.com/718)
+- [학습률 웜업(Learning Rate WarmUp)에 대한 이해](https://sonseungha.tistory.com/720)
 
 ---
 

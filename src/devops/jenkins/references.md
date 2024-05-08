@@ -20,7 +20,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Automated CI/CD with Jenkins](https://medium.com/avmconsulting-blog/automated-ci-cd-with-jenkins-39b21c7c8035)
 - [CI/CD with Dockers and Jenkins](https://medium.com/avmconsulting-blog/ci-cd-with-dockers-and-jenkins-70b6f801f9f7)

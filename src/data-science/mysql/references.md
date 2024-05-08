@@ -141,4 +141,16 @@ tag:
 
 ---
 
+## Running Out Of Coins
+
+- [CannotAcquireLockException과 Deadlock](https://bgrooot.github.io/cannot-acquire-lock-exception-research/)
+
+---
+
+## 일단 써보기
+
+- [병렬 트랜잭션 환경에서 만난 데드락 (with. Coroutine, MySQL)](https://waterfogsw.tistory.com/60)
+
+---
+
 <TagLinks />

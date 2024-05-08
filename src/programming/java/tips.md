@@ -5,6 +5,7 @@ description: Java > Tips
 icon: fas fa-lightbulb
 category:
   - Java
+  - Kotlin
   - Tips
 tag: 
   - kt
@@ -24,7 +25,7 @@ tag:
 
 ---
 
-## 🅺Kotlin
+## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ### Slf4j loggers in 3 ways
 

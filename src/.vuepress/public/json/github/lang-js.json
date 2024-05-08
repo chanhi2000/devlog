@@ -2249,5 +2249,20 @@
     "desc": "Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "IcarusRyy/NewJob",
+    "desc": "一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "neondatabase/psql-describe",
+    "desc": "psql's \\d (describe) family of commands ported to JavaScript",
+    "officialSite": "https://neon.tech/blog/bringing-psqls-d-to-your-web-browser",
+    "topics": ["describe", "postgresql", "psql"]
+  }, {
+    "repo": "alefore/knit",
+    "desc": "Software for knitting",
+    "officialSite": "",
+    "topics": []
   }
 ]

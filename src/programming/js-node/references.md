@@ -162,7 +162,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about React](https://dev.to/t/react)
 - [`useRef()`가 순수 자바스크립트 객체라는 의미를 곱씹어보기](https://dev.to/dylanju/useref-3j37)
@@ -357,7 +357,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
 - [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
@@ -588,9 +588,10 @@ tag:
 
 ---
 
-## kciter
+## kciter.so
 
 - [함수형 자료구조](https://kciter.so/posts/functional-data-structure)
+- [ASCII 3D 렌더러 만들기](https://kciter.so/posts/ascii-3d-renderer/)
 
 ---
 
@@ -908,14 +909,6 @@ tag:
 ## Raphael
 
 - [Trying To Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
-
----
-
-## 개발하는 기획자 기획하는 개발자
-
-- [Nest.js - 트랜잭션 (Transaction)](https://blog.naver.com/gi_balja/223422569009)
-- [Nest.js - 보고서 프로젝트 기본 세팅 (1)](https://blog.naver.com/gi_balja/223436913212)
-- [Nest.js - 보고서 프로젝트 기본 세팅 (2)](https://blog.naver.com/gi_balja/223437238342)
 
 ---
 

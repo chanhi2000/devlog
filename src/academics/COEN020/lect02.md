@@ -352,7 +352,7 @@ Do you trust the used car salesman that tells you that the 1966 Mustang he wants
 - Computers use fixed precision!
 - Digits are lost on the left-hand end.
 - Remaining digits are still correct.
-- Rollover while counting ...
+- Rollover while counting …
   - Up: $999999\to000000\:\:(R^{n}-1\to0)$
   - Down: $000000\to999999\:\:(0\to{R}^{n}-1)$
 

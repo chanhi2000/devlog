@@ -29,9 +29,9 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [Chrome Extensions That Make My Work a Bit Easier](https://dev.to/cglikpo/chrome-extensions-that-make-my-work-a-bit-easier-4jop)
+- [`cglikpo` - Chrome Extensions That Make My Work a Bit Easier](https://dev.to/cglikpo/chrome-extensions-that-make-my-work-a-bit-easier-4jop)
 
 ---
 
@@ -62,6 +62,12 @@ tag:
 ## sunyzero
 
 - [크롬에서 탭 닫은 후 우측 상단에 "닫기" 버튼이 보이는 문제 (버그?)](https://sunyzero.tistory.com/296)
+
+---
+
+## 코딩팩토리
+
+- [[Web] 크롬 베타, 개발자 버전(Chrome Beta, Chrome Dev) 설치 & 다운로드 방법](https://coding-factory.tistory.com/1053)
 
 ---
 

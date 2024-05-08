@@ -95,7 +95,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 ```component VPCard
 {
   "title": "Timelock Encryption",
-  "desc": "Send secrets into the future...",
+  "desc": "Send secrets into the future…",
   "link": "https://timelock.dev/",
   "logo": "🔒",
   "background": "rgba(33,37,41,0.2)"
@@ -182,9 +182,8 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
-- [Operator Lookup](https://www.joshwcomeau.com/operator-lookup)
-- [Sha256 Decrypt & Encrypt](https://md5decrypt.net/en/Sha256/#answer)
-
+- [Operator Lookup](https://www.joshwcomeau.com/operator-lookup) <!-- TODO: add VPCard -->
+- [Sha256 Decrypt & Encrypt](https://md5decrypt.net/en/Sha256/#answer) <!-- TODO: add VPCard -->
 
 @tab Design & Image
 
@@ -583,7 +582,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 ```component VPCard
 {
   "title": "PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney",
-  "desc": "The #1 website for Artificial Intelligence and Prompt Engineering. Search the world's best AI prompts for models like Stable Diffusion, ChatGPT, Midjourney...",
+  "desc": "The #1 website for Artificial Intelligence and Prompt Engineering. Search the world's best AI prompts for models like Stable Diffusion, ChatGPT, Midjourney…",
   "link": "https://prompthero.com/",
   "logo": "https://prompthero.com/favicon/apple-touch-icon.png",
   "background": "rgba(115,67,89.0.2)"
@@ -630,14 +629,31 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
-https://anchor-tool.com/
-
 ```component VPCard
 {
   "title": "HEIC/HEIF to JPG Converter",
   "desc": "Convert multiple HEIC/HEIF images to JPG at once, in your browser.",
   "link": "https://heif.pages.dev/jpg/",
   "background": "rgba(110,67,184,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "디자인 플랫폼 미리캔버스",
+  "desc": "디자인 작업이 필요한가요? 5만개 이상의 무료 템플릿으로 간편하고 편하게 원하는 디자인을 만들 수 있어요.",
+  "link": "https://www.miricanvas.com/ko",
+  "logo": "https://resource.miricanvas.com/2_0/image/favicon/android-chrome-192x192.png",
+  "background": "rgba(66,187,201,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Anchor position tool",
+  "desc": "…",
+  "link": "https://anchor-tool.com/",
+  "background": "rgba(26,108,0,0.2)"
 }
 ```
 
@@ -847,7 +863,25 @@ https://anchor-tool.com/
 }
 ```
 
-- https://htaccess.madewithlove.com
+```component VPCard
+{
+  "title": "pkitools.net - Free cryptographic and PKI tools",
+  "desc": "pkitools.net - Free cryptographic and PKI tools",
+  "link": "https://pkitools.net/index.html",
+  "logo": "https://pkitools.net/assets/favicon/Image Pasted at 2022-10-4 23-02.png",
+  "background": "rgba(48,60,84,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "htaccess tester - madewithlove",
+  "desc": "Htacces rewrite engine testing tool to test your apache htaccess apache. A free product built by madewithlove.",
+  "link": "https://htaccess.madewithlove.com/",
+  "logo": "https://htaccess.madewithlove.com/favicon-32x32.png",
+  "background": "rgba(237,35,36,0.2)"
+}
+```
 
 @tab Documentation
 
@@ -944,7 +978,7 @@ https://anchor-tool.com/
 ```component VPCard
 {
   "title": "사람인 - 연봉계산기",
-  "desc": "...",
+  "desc": "…",
   "link": "https://www.saramin.co.kr/zf_user/tools/salary-calculator",
   "background": "rgba(255,255,255,0.2)"
 }
@@ -1032,7 +1066,7 @@ https://anchor-tool.com/
 ```component VPCard
 {
   "title": "The Grid",
-  "desc": "With the Grid's founding nearly 10 years ago we embarked on an expedition to the unknown that clearly wasn't your typical valley-safe niche but none of us expected this... Trust we are heads-down, all-in, no plan-b devoted to returning and sharing the bounty.",
+  "desc": "With the Grid's founding nearly 10 years ago we embarked on an expedition to the unknown that clearly wasn't your typical valley-safe niche but none of us expected this… Trust we are heads-down, all-in, no plan-b devoted to returning and sharing the bounty.",
   "link": "https://thegrid.io/",
   "logo": "https://thegrid.io/favicon.ico",
   "background": "rgba(229,52,840.2)"
@@ -1046,6 +1080,16 @@ https://anchor-tool.com/
   "link": "https://www.productchart.com/",
   "logo": "https://www.productchart.com/favicon.ico",
   "background": "rgba(242,101,34,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "키워드마스터",
+  "desc": "블로그 검색 노출 누락 확인 사이트",
+  "link": "https://whereispost.com/keyword/",
+  "logo": "https://whereispost.com/keyword/favicon.ico",
+  "background": "rgba(45,53,57,0.2)"
 }
 ```
 

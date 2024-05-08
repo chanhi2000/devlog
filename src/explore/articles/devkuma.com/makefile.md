@@ -41,6 +41,8 @@ head:
 }
 ```
 
+> 2024.04.21
+
 .<FontIcon icon="fas fa-file-lines"/>`Makefile`은 UNIX 계열 OS에서 일반적인 빌드 도구인 `make`에 실행할 절차를 기술한 텍스트 파일이다.
 
 ---

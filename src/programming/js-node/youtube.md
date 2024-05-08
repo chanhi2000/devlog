@@ -16,7 +16,7 @@ head:
     - property: og:title
       content: Node.js > Youtube
     - property: og:description
-      content: Node.js > Youtube
+      content: Youtube
     - property: og:url
       content: https://chanhi2000.github.io/programming/js-node/youtube.html
 ---

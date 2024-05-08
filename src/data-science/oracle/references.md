@@ -64,7 +64,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Awesome SQL Code Review Tools for Developers](https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4)
 
@@ -84,7 +84,7 @@ tag:
 
 ---
 
-## stackoverflow
+## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [How to export users from oracle database. (Oracle 10g express edition)](https://stackoverflow.com/questions/11221353/how-to-export-users-from-oracle-database-oracle-10g-express-edition)
 - [How to import an Oracle database from dmp file and log file?](https://stackoverflow.com/questions/6463614/how-to-import-an-oracle-database-from-dmp-file-and-log-file)

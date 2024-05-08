@@ -27,14 +27,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/sh/articles/README.md',
-            {
-              text: 'devkuma.com',
-              collapsible: true,
-              icon: 'https://www.devkuma.com/favicons/favicon.ico',
-              children: [
-                '/explore/articles/devkuma.com/makefile.md',
-              ]
-            },
+            articleSidebars.freecodecamp("sh"),
+            articleSidebars.devkuma("sh"),
             articleSidebars.nhn("sh")
           ]
         }
@@ -124,6 +118,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/gradle/articles/README.md',
+            articleSidebars.freecodecamp("gradle"),
             {
               text: 'shopify.engineering',
               collapsible: true,
@@ -170,14 +165,8 @@ export const sidebarEn = sidebar({
             '/programming/java/articles/README.md',
             articleSidebars.yozm("java"),
             articleSidebars.nhn("java"),
-            articleSidebars.d2("java"), {
-              text: 'kt.academy',
-              collapsible: true,
-              icon: 'https://kt.academy/logo.png',
-              children: [
-                '/explore/articles/kt.academy/pattern-for-composing-flows.md'
-              ]
-            },
+            articleSidebars.d2("java"),
+            articleSidebars.ktAcademy("kotlin"),
           ]
         }
       ]
@@ -188,7 +177,6 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/java-spring/README.md',
         '/programming/java-spring/snippets-gradle.md',
-        '/programming/java-spring/was.md',
         '/programming/java-spring/crashcourse.md',
         '/programming/java-spring/references.md',
         '/programming/java-spring/github.md',
@@ -199,6 +187,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-spring/articles/README.md',
+            articleSidebars.freecodecamp("java-spring"),
             {
               text: 'tistory.com/rutgo-letsgo',
               collapsible: true,
@@ -208,14 +197,10 @@ export const sidebarEn = sidebar({
               ]
             },
             articleSidebars.nhn("java-spring"),
-            articleSidebars.d2("java-spring"), {
-              text: 'blog.gangnamunni.com',
-              collapsible: true,
-              icon: 'https://blog.gangnamunni.com/favicon.ico',
-              children: [
-                '/explore/articles/blog.gangnamunni.com/saas-event-sourcing.md',
-              ]
-            }, {
+            articleSidebars.d2("java-spring"), 
+            articleSidebars.woowahan("java-spring"),
+            articleSidebars.gangnamunni("java-spring"),
+            {
               text: 'dev.gmarket.com',
               collapsible: true,
               icon: 'https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515',
@@ -250,16 +235,10 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-android/articles/README.md',
+            articleSidebars.freecodecamp("java-android"),
             articleSidebars.yozm("java-android"),
             articleSidebars.nhn("java-android"),
-            {
-              text: "droidcon.com",
-              collapsible: true,
-              icon: 'https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png',
-              children: [
-                '/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md'
-              ]
-            },
+            articleSidebars.droidcon("java-android"),
           ]
         }
       ]
@@ -307,7 +286,9 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            articleSidebars.douggregor("swift"), articleSidebars.donnywals("swift"), hackingwithswift(),
+            articleSidebars.douggregor("swift"), 
+            articleSidebars.donnywals("swift"), 
+            hackingwithswift(),
           ]
         }
       ]
@@ -369,8 +350,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-node/articles/README.md',
-            articleSidebars.yozm("js-node"),
             articleSidebars.freecodecamp('js-node'), 
+            articleSidebars.yozm("js-node"),
             {
               text: 'devtoolstips.org',
               collapsible: true,
@@ -394,14 +375,7 @@ export const sidebarEn = sidebar({
             }, 
             articleSidebars.d2("js-node"), 
             articleSidebars.nhn("js-node"),
-            {
-              text: 'johnnyreilly.com',
-              collapsible: true,
-              icon: 'https://johnnyreilly.com/favicon.ico',
-              children: [
-                '/explore/articles/johnnyreilly.com/webpack-overview.md',
-              ]
-            }, 
+            articleSidebars.johnnyreilly("js-node"),
           ]
         }
       ]
@@ -474,6 +448,24 @@ export const sidebarEn = sidebar({
         '/programming/js-angular/youtube.md',
       ]
     }, {
+      text: 'Nest.js',
+      collapsible: true,
+      icon: 'iconfont icon-nestjs',
+      children: [
+        '/programming/js-nest/README.md',
+        '/programming/js-nest/references.md',
+        '/programming/js-nest/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-nest/articles/README.md',
+            articleSidebars.freecodecamp("js-nest"),
+          ]
+        }
+      ]
+    }, {
       text: 'GraphQL',
       collapsible: true,
       icon: 'iconfont icon-graphql',
@@ -505,6 +497,60 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/js-mermaid/README.md',
         '/programming/js-mermaid/examples.md',
+      ]
+    }, {
+      text: 'CSS',
+      collapsible: true,
+      icon: 'fa-brands fa-css3-alt',
+      children: [
+        '/programming/css/README.md',
+        '/programming/css/tips.md',
+        '/programming/css/snippets.md',
+        '/programming/css/references.md',
+        '/programming/css/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/css/articles/README.md',
+            articleSidebars.yozm("css"),
+            {
+              text: 'devtoolstips.org',
+              collapsible: true,
+              icon: 'https://devtoolstips.org/assets/favicon.ico',
+              children: [
+                '/explore/articles/devtoolstips.org/disable-all-css.md',
+                '/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.md',
+                '/explore/articles/devtoolstips.org/find-the-offset-parent-of-an-element.md',
+                '/explore/articles/devtoolstips.org/highlight-elements-from-selector.md',
+                '/explore/articles/devtoolstips.org/find-rule-that-causes-style.md',
+              ]
+            },
+            articleSidebars.frontendmaster("css"),
+            articleSidebars.piccalilli("css"),
+            articleSidebars.sitepoint("css"),
+            articleSidebars.nhn("css"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Tailwind CSS',
+      collapsible: true,
+      icon: 'iconfont icon-tailwindcss',
+      children: [
+        '/programming/css-tailwind/README.md',
+        '/programming/css-tailwind/references.md',
+        '/programming/css-tailwind/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/css-tailwind/articles/README.md',
+            articleSidebars.freecodecamp("css-tailwind"),
+          ]
+        }
       ]
     }, {
       text: 'Python',
@@ -548,6 +594,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Jupyter',
+      collapsible: true,
+      icon: 'iconfont icon-django',
+      children: [
+        '/programming/py-jupyter/README.md',
+        '/programming/py-jupyter/github.md',
+        '/programming/py-jupyter/references.md',
+        '/programming/py-jupyter/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-jupyter/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Airflow',
       collapsible: true,
       icon: 'iconfont icon-apacheairflow',
@@ -573,42 +637,6 @@ export const sidebarEn = sidebar({
           ]
         }
       ]
-    },{
-      text: 'CSS',
-      collapsible: true,
-      icon: 'fa-brands fa-css3-alt',
-      children: [
-        '/programming/css/README.md',
-        '/programming/css/tips.md',
-        '/programming/css/snippets.md',
-        '/programming/css/references.md',
-        '/programming/css/youtube.md',
-        {
-          text: 'Article(s)',
-          collapsible: true,
-          icon: 'fas fa-square-share-nodes',
-          children: [
-            '/programming/css/articles/README.md',
-            articleSidebars.yozm("css"),
-            {
-              text: 'devtoolstips.org',
-              collapsible: true,
-              icon: 'https://devtoolstips.org/assets/favicon.ico',
-              children: [
-                '/explore/articles/devtoolstips.org/disable-all-css.md',
-                '/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.md',
-                '/explore/articles/devtoolstips.org/find-the-offset-parent-of-an-element.md',
-                '/explore/articles/devtoolstips.org/highlight-elements-from-selector.md',
-                '/explore/articles/devtoolstips.org/find-rule-that-causes-style.md',
-              ]
-            },
-            articleSidebars.frontendmaster("css"),
-            articleSidebars.piccalilli("css"),
-            articleSidebars.sitepoint("css"),
-            articleSidebars.nhn("css"),
-          ]
-        }
-      ]
     }, {
       text: 'Rust',
       collapsible: true,
@@ -618,6 +646,15 @@ export const sidebarEn = sidebar({
         '/programming/rust/references.md',
         '/programming/rust/github.md',
         '/programming/rust/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/rust/articles/README.md',
+            articleSidebars.freecodecamp("rust"),
+          ]
+        },
       ]
     }, 
     {
@@ -645,14 +682,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/csharp/articles/README.md',
-            articleSidebars.freecodecamp('py-django'), {
-              text: 'johnnyreilly.com',
-              collapsible: true,
-              icon: 'https://johnnyreilly.com/favicon.ico',
-              children: [
-                '/explore/articles/johnnyreilly.com/using-kernel-memory-to-chunk-documents-into-azure-ai-search.md'
-              ]
-            }, {
+            articleSidebars.freecodecamp("csharp"), 
+            articleSidebars.johnnyreilly("csharp"),
+            {
               text: 'code-maze.com',
               collapsible: true,
               icon: '/images/content/code-maze.com/favicon.png',
@@ -677,7 +709,8 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            articleSidebars.d2("go")
+            '/programming/go/articles/README.md',
+            articleSidebars.d2("go"),
           ]
         }
       ]
@@ -691,6 +724,15 @@ export const sidebarEn = sidebar({
         '/programming/dart/references.md',
         '/programming/dart/github.md',
         '/programming/dart/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/dart/articles/README.md',
+            articleSidebars.freecodecamp("dart"),
+          ]
+        }
       ]
     }, {
       text: 'php',
@@ -701,6 +743,15 @@ export const sidebarEn = sidebar({
         '/programming/php/references.md',
         '/programming/php/github.md',
         '/programming/php/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/php/articles/README.md',
+            articleSidebars.freecodecamp("php"),
+          ]
+        }
       ]
     }, {
       text: 'Ruby',
@@ -876,7 +927,27 @@ export const sidebarEn = sidebar({
           ]
         }
       ]
-    },{
+    }, {
+      text: 'Visual Studio',
+      collapsible: true,
+      icon: 'iconfont icon-visualstudio',
+      children: [
+        '/tool/visualstudio/README.md',
+        '/tool/visualstudio/plugins.md',
+        '/tool/visualstudio/troubleshooting.md',
+        '/tool/visualstudio/references.md',
+        '/tool/visualstudio/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/visualstudio/articles/README.md',
+            // articleSidebars.yozm("intellij-idea")
+          ]
+        }
+      ]
+    }, {
       text: 'VSCode',
       collapsible: true,
       icon: 'iconfont icon-vscode',
@@ -951,6 +1022,15 @@ export const sidebarEn = sidebar({
             '/tool/powerpoint/articles/README.md',
           ]
         }
+      ]
+    }, {
+      text: 'Power Bi',
+      icon: 'iconfont icon-power-bi',
+      collapsible: true,
+      children: [
+        '/tool/power-bi/README.md',
+        '/tool/power-bi/references.md',
+        '/tool/power-bi/youtube.md',
       ]
     }, {
       text: 'Chrome Browser',
@@ -1078,6 +1158,15 @@ export const sidebarEn = sidebar({
         '/devops/macos/env-setup.md',
         '/devops/macos/tips.md',
         '/devops/macos/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/macos/articles/README.md',
+            articleSidebars.freecodecamp("macos"),
+          ]
+        }
       ],
     }, {
       text: 'Windows',
@@ -1240,6 +1329,7 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/docker/articles/README.md',
             articleSidebars.yozm("docker"),
+            articleSidebars.towardsdatascience("docker"),
           ]
         }
       ]
@@ -1257,14 +1347,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/podman/articles/README.md',
-            {
-              text: 'towardsdatascience.com',
-              collapsible: true,
-              icon: 'https://cdn-images-1.medium.com/v2/resize:fill:128:128/1*VzTUkfeGymHP4Bvav-T-lA.png',
-              children: [
-                '/explore/articles/towardsdatascience.com/you-dont-have-to-use-docker-anymore.md',
-              ]
-            }
+            articleSidebars.towardsdatascience("podman"),
           ]
         }
       ]
@@ -1282,7 +1365,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/k8s/articles/README.md',
-            articleSidebars.yozm("k8s")
+            articleSidebars.freecodecamp("k8s"),
+            articleSidebars.yozm("k8s"),
           ]
         }
       ]
@@ -1293,6 +1377,24 @@ export const sidebarEn = sidebar({
       children: [
         '/devops/openshift/README.md',
         '/devops/openshift/references.md',
+      ]
+    }, {
+      text: 'Terraform',
+      collapsible: true,
+      icon: 'iconfont icon-terraform',
+      children: [
+        '/devops/terraform/README.md',
+        '/devops/terraform/references.md',
+        '/devops/terraform/github.md',
+        '/devops/terraform/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/terraform/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'AWS',
@@ -1308,7 +1410,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/aws/articles/README.md',
-            articleSidebars.yozm("aws")
+            articleSidebars.freecodecamp("aws"),
+            articleSidebars.yozm("aws"),
           ]
         }
       ]
@@ -1320,6 +1423,32 @@ export const sidebarEn = sidebar({
         '/devops/azure/README.md',
         '/devops/azure/references.md',
         '/devops/azure/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/azure/articles/README.md',
+            articleSidebars.freecodecamp("azure"), 
+          ]
+        }
+      ]
+    }, {
+      text: 'Google Cloud',
+      collapsible: true,
+      icon: 'iconfont icon-gcp',
+      children: [
+        '/devops/gcp/README.md',
+        '/devops/gcp/references.md',
+        '/devops/gcp/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/gcp/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'OCI',
@@ -1425,6 +1554,15 @@ export const sidebarEn = sidebar({
       children: [
         '/devops/nexus/README.md',
         '/devops/nexus/tips.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+           '/devops/nexus/articles/README.md',
+            articleSidebars.droidcon("nexus"),
+          ]
+        }
       ]
     }, {
       text: 'Selenium',
@@ -1433,6 +1571,15 @@ export const sidebarEn = sidebar({
       children: [
         '/devops/selenium/README.md',
         '/devops/selenium/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/selenium/articles/README.md',
+            articleSidebars.freecodecamp("selenium"),
+          ]
+        },
       ],
     }, {
       text: 'Playwright',
@@ -1452,6 +1599,24 @@ export const sidebarEn = sidebar({
           ]
         },
       ],
+    }, {
+      text: 'Tomcat',
+      collapsible: true,
+      icon: 'iconfont icon-tomcat',
+      children: [
+        '/devops/tomcat/README.md',
+        '/devops/tomcat/basics.md',
+        '/devops/tomcat/references.md',
+        '/devops/tomcat/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/tomcat/articles/README.md',
+          ]
+        },
+      ] 
     }, {
       text: '🦖JEUS',
       collapsible: true,
@@ -1535,6 +1700,15 @@ export const sidebarEn = sidebar({
         '/data-science/postgres/query.md',
         '/data-science/postgres/references.md',
         '/data-science/postgres/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/postgres/articles/README.md',
+            articleSidebars.freecodecamp("postgres"), 
+          ]
+        },
       ]
     }, {
       text: 'MongoDB',
@@ -1589,7 +1763,25 @@ export const sidebarEn = sidebar({
           ]
         }
       ]
-    }, 
+    },  {
+      text: 'Hadoop',
+      collapsible: true,
+      icon: 'iconfont icon-hadoop',
+      children: [
+        '/data-science/hadoop/README.md',
+        '/data-science/hadoop/references.md',
+        '/data-science/hadoop/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/hadoop/articles/README.md',
+            articleSidebars.d2("hadoop"),
+          ]
+        }
+      ]
+    }
   ], '/ai/': [
     {
       text: 'AI',
@@ -1620,6 +1812,14 @@ export const sidebarEn = sidebar({
       children: [
         '/ai/gemini/README.md',
         '/ai/gemini/references.md',
+      ]
+    },  {
+      text: 'Claude',
+      collapsible: true,
+      icon: 'iconfont icon-claude',
+      children: [
+        '/ai/claude/README.md',
+        '/ai/claude/references.md',
       ]
     }, 
   ], '/projects/': [
@@ -1723,14 +1923,8 @@ export const sidebarEn = sidebar({
         articleSidebars.yozm(), 
         articleSidebars.freecodecamp(), 
         articleSidebars.frontendmaster(),
+        articleSidebars.devkuma(),
         {
-          text: 'devkuma.com',
-          icon: 'https://devkuma.com/favicons/favicon.ico',
-          collapsible: true,
-          children: [
-            '/explore/articles/devkuma.com/makefile.md',
-          ]
-        }, {
           text: 'devtoolstips.org',
           collapsible: true,
           icon: 'https://devtoolstips.org/assets/favicon.ico',
@@ -1763,54 +1957,24 @@ export const sidebarEn = sidebar({
           ]
         }, 
         articleSidebars.piccalilli(),
-        articleSidebars.sitepoint(), 
-        {
-          text: 'blog.gangnamunni.com',
-          collapsible: true,
-          icon: 'https://blog.gangnamunni.com/favicon.ico',
-          children: [
-            '/explore/articles/blog.gangnamunni.com/saas-event-sourcing.md',
-          ]
-        }, {
-          text: 'towardsdatascience.com',
-          collapsible: true,
-          icon: 'https://cdn-images-1.medium.com/v2/resize:fill:128:128/1*VzTUkfeGymHP4Bvav-T-lA.png',
-          children: [
-            '/explore/articles/towardsdatascience.com/you-dont-have-to-use-docker-anymore.md',
-          ]
-        }, 
+        articleSidebars.sitepoint(),
+        articleSidebars.gangnamunni(),
+        articleSidebars.towardsdatascience(),
         articleSidebars.douggregor(), 
         articleSidebars.donnywals(), 
-        hackingwithswift(), {
-          text: 'kt.academy',
-          collapsible: true,
-          icon: 'https://kt.academy/logo.png',
-          children: [
-            '/explore/articles/kt.academy/pattern-for-composing-flows.md'
-          ]
-        }, {
-          text: 'johnnyreilly.com',
-          collapsible: true,
-          icon: 'https://johnnyreilly.com/favicon.ico',
-          children: [
-            '/explore/articles/johnnyreilly.com/using-kernel-memory-to-chunk-documents-into-azure-ai-search.md',
-            '/explore/articles/johnnyreilly.com/webpack-overview.md',
-          ]
-        }, {
+        hackingwithswift(), 
+        articleSidebars.ktAcademy(),
+        articleSidebars.johnnyreilly(),
+        {
           text: 'code-maze.com',
           collapsible: true,
           icon: '/images/content/code-maze.com/favicon.png',
           children: [
             '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
           ]
-        }, {
-          text: "droidcon.com",
-          collapsible: true,
-          icon: 'https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png',
-          children: [
-            '/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md'
-          ]
-        }, {
+        },
+        articleSidebars.droidcon(),
+        {
           text: 'shopify.engineering',
           collapsible: true,
           icon: 'https://cdn.shopify.com/static/shopify-favicon.png',

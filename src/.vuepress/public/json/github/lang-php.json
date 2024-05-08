@@ -209,5 +209,10 @@
     "desc": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
     "officialSite": "https://coolify.io",
     "topics": ["analytics", "couchdb", "databases", "docker", "minio", "mongodb", "mysql", "mysql-database", "nextjs", "nodejs", "php", "postgresql", "reactjs", "redis", "self-hosting", "static", "svelte", "vscode", "vuejs"]
+  }, {
+    "repo": "phenaproxima/starshot-prototype",
+    "desc": "Prototype of a new kind of Drupal, based on recipes and loaded up with contrib's best modules and themes. Not a fork or a distribution.",
+    "officialSite": "https://drupal.org/starshot",
+    "topics": []
   }
 ]

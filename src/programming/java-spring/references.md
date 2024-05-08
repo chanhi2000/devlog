@@ -36,6 +36,15 @@ head:
 
 - [테스트 도중 에러 발생](https://www.inflearn.com/questions/15495/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%A4%91-%EC%97%90%EB%9F%AC-%EB%B0%9C%EC%83%9D)
 
+### ZUM
+
+- [Redirect 서버 리팩토링 - 파일럿 프로젝트](https://zuminternet.github.io/redirect-refactoring/)
+
+### <FontIcon icon="fa-brands fa-medium"/>
+
+- [`finda-tech` / 금융서비스 MSA 전환기 - DB 분리(1편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-db-%EB%B6%80-1%ED%8E%B8-63d09e7ebe0e)
+- [`finda-tech` / 금융서비스 MSA 전환기- 서버 간 비동기 메시지 기반 통신 처리(3편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-%EC%84%9C%EB%B2%84-%EA%B0%84-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B8%B0%EB%B0%98-%ED%86%B5%EC%8B%A0-%EC%B2%98%EB%A6%AC-3%ED%8E%B8-c0785860a3d5)
+
 ### velog
 
 - [`@u-nij`: Spring Boot + React.js 개발환경 연동하기](https://velog.io/@u-nij/Spring-Boot-React.js-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85)
@@ -77,13 +86,9 @@ head:
 - [스프링 핵심 원리 기본편 강의 - Bean Definition](https://seungdols.tistory.com/1015)
 - [스프링 핵심 원리 기본편 강의 - `ComponentScan`과 의존 관계 자동 주입](https://seungdols.tistory.com/1016)
 
-### 기계인간 John Grib 
+### 기계인간 John Grib
 
 - [릴리즈 트레인 (Release Train)](https://johngrib.github.io/wiki/spring/cloud/release-train/)
-
-### Toby's Epril
-
-- [테스트가 관리하는 트랜잭션 - 향로 님의 `@Transactional` 글을 읽고](https://toby.epril.com/8)
 
 ### 데엔잘하고싶은데엔🔥💎
 
@@ -108,10 +113,44 @@ head:
 ### 몽상실현개발주의
 
 - [SpringBoot VO 와 DTO](https://leeiopd.tistory.com/entry/SpringBoot-VO-%EC%99%80-DTO)
+- [Spring Boot에서 의존성 주입: `@Bean`과 `@Autowired`의 이해](https://leeiopd.tistory.com/entry/Spring-Boot%EC%97%90%EC%84%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-Bean%EA%B3%BC-Autowired%EC%9D%98-%EC%9D%B4%ED%95%B4)
+- [Lombok in Spring Framework](https://leeiopd.tistory.com/entry/Lombok-in-Spring-Framework)
 
 ### 데엔잘하고싶은데엔🔥💎
 
 - [[강의] 유데미 Spring Boot 강의추천 (Spring 개념, Ioc/DI/Beans/Component/Autowired)](https://pearlluck.tistory.com/802)
+
+### JuHyeong.dev
+
+- [`ThreadPoolExecutor` 동작에 관한 오해](https://dkswnkk.tistory.com/745)
+
+### 알아두면 쓸만한 개발 잡학사전
+
+- [spring scheduler task에 shedlock + redis 적용방법](https://devel-repository.tistory.com/66)
+
+### 북극 펭귄
+
+- [Spring Boot Excel 업로드 라이브러리 개발기](https://cla9.tistory.com/118)
+
+### 기록은 기억을 지배한다
+
+- [쿠폰 재고의 설계 및 개발](https://pkgonan.github.io/2020/04/stock)
+
+### 개발노트
+
+- [[Spring redis] value 에 큰 따옴표 (double quote) 한번 더 들어가는 문제](https://sunghs.tistory.com/159)
+
+### Toby's Epril
+
+- [테스트가 관리하는 트랜잭션 - 향로 님의 `@Transactional` 글을 읽고](https://tobyepril.tistory.com/8)
+
+### DEVOCEAN
+
+- [Spring Boot 나만의 의존성 설정하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165727)
+
+### Hong's Store House
+
+- [[JAVA] `SynchronizedList` vs `CopyOnWriteArrayList`](https://asuraiv.blogspot.com/2020/02/java-synchronizedlist-vs.html)
 
 ---
 
@@ -120,6 +159,10 @@ head:
 ### Kt.academy
 
 - [Why Non-Blocking](https://kt.academy/article/nonblocking_spring_mvc)
+
+### 현구막 기술 블로그
+
+- [spring retry 이해 및 예제 정리](https://hyeon9mak.github.io/spring-retry/)
 
 ---
 

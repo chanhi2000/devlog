@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - shopify.engineering
   - gradle
   - jdk
@@ -24,9 +25,15 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
+```component VPCard
+{
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -38,16 +45,39 @@ head:
 }
 ```
 
+[[toc]]
+
+---
+
+## freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Work on a Multi-Library Project in Android – Locally and Remotely",
+  "desc": "In this article, we're going to talk about multi-library projects in Android. It's not something ordinary, but not something out of the ordinary either.  You may have come across multi-library projects in your line of work, or you may be looking into converting your library into sub-modules for better...",
+  "link": "/explore/articles/freecodecamp.org/working-on-a-multiple-library-project-in-android.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Shopify Engineering
 
-<SiteInfo
-  name="Management of Native Code and React Native at Shopify"
-  desc="We had to determine how to leverage React Native while still using iOS and Android native features, and when and how we write native code."
-  url="/explore/articles/shopify.engineering/managing-native-code-react-native.md"
-  logo="https://cdn.shopify.com/static/shopify-favicon.png"
-  preview="https://cdn.shopify.com/s/files/1/0779/4361/articles/Shop_Eng_Blog_Header_3.png?format=webp&v=1618518074&width=1024"/>
+> shopify.engineering
+
+```component VPCard
+{
+  "title": "Management of Native Code and React Native at Shopify",
+  "desc": "We had to determine how to leverage React Native while still using iOS and Android native features, and when and how we write native code.",
+  "link": "/explore/articles/shopify.engineering/managing-native-code-react-native.md",
+  "logo": "https://cdn.shopify.com/static/shopify-favicon.png",
+  "background": "rgba(15,45,37,0.2)"
+}
+```
 
 ---
 

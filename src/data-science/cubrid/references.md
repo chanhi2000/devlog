@@ -1,10 +1,12 @@
 ---
 lang: ko-KR
 title: References
-description: 🧊Cubrid > References
+description: Cubrid > References
 icon: iconfont icon-share
 category:
-  - 🧊Cubrid
+  - Relational Database
+  - DB
+  - Cubrid
   - References
 tag: 
   - sh
@@ -20,7 +22,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

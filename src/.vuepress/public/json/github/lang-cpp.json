@@ -1273,5 +1273,10 @@
     "desc": "Desktop Environment",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "zircothc/DRUM_2004_V1",
+    "desc": "ESP32 DRUM SYNTH MACHINE",
+    "officialSite": "",
+    "topics": []
   }
 ]

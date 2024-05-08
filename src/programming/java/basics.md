@@ -33,9 +33,9 @@ tag:
 
 ### 자주쓰는 Singleton Pattern
 
-::: tabs 
+::: tabs
 
-@tab:active ☕️Java
+@tab:active <FontIcon icon="fa-brands fa-java"/>Java
 
 ```java
 public final class FooBar {
@@ -50,7 +50,7 @@ public final class FooBar {
 }
 ```
 
-@tab 🅺Kotlin
+@tab <FontIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ```kotlin
 class FooBar {
@@ -70,9 +70,9 @@ class FooBar {
 
 ### 자주쓰는 Enum Pattern
 
-::: tabs 
+::: tabs
 
-@tab:active ☕️Java
+@tab:active <FontIcon icon="fa-brands fa-java"/>Java
 
 > Lombok을 사용하여 코드를 간결하게 작성
 
@@ -107,7 +107,7 @@ public enum FooBar {
 }
 ```
 
-@tab 🅺Kotlin
+@tab <FontIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ```kotlin
 enum class FooBar(
@@ -137,7 +137,7 @@ enum class FooBar(
 
 ::: tabs
 
-@tab:active ☕️Java
+@tab:active <FontIcon icon="fa-brands fa-java"/>Java
 
 > for Javadoc
 
@@ -168,7 +168,7 @@ public class FooGaze {
 }
 ```
 
-@tab 🅺Kotlin
+@tab <FontIcon icon="iconfont icon-kotlin"/>Kotlin
 
 > for KDoc
 
@@ -202,7 +202,7 @@ class FooGaze {
 
 ---
 
-## 🅺Kotlin
+## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ### 자주쓰는 Builder Pattern
 
@@ -307,7 +307,7 @@ fun <T> sellWeapon(weapon: T): String where T : Weapon, T : Usable {
 
 ---
 
-## ☕️Java 관련
+## <FontIcon icon="fa-brands fa-java"/>Java 관련
 
 ### Properties 파일객체 구성
 

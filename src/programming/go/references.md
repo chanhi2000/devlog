@@ -32,7 +32,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [How Go fixed everything that was wrong with programming](https://medium.com/@jankammerath/how-go-fixed-everything-that-was-wrong-with-programming-1b599a1055a8)
 - [Stop Using DTOs in Go, It's Not Java](https://dsysd-dev.medium.com/stop-using-dtos-in-go-its-not-java-96ef4794481a)
@@ -42,7 +42,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Learn How to Setup a CI/CD Pipeline from Scratch](https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69)
 

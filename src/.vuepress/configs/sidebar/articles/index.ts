@@ -5,10 +5,16 @@ import { template as TEMPLATE_D2 } from './d2.naver.com';
 import { template as TEMPLATE_FREECODECAMP } from './freecodecamp.org';
 import { template as TEMPLATE_FRONTENDMASTER } from './frontendmasters.com';
 import { template as TEMPLATE_NHN } from './meetup.nhncloud.com';
+import { template as TEMPLATE_GANGNAMUNNI } from './blog.gangnamunni.com';
 import { template as TEMPLATE_WOOWAHAN } from './techblog.woowahan.com';
+import { template as TEMPLATE_KT_ACADEMY } from './kt.academy';
+import { template as TEMPLATE_DROIDCON } from './droidcon.com';
 import { template as TEMPLATE_SITEPOINT } from './sitepoint.com';
 import { template as TEMPLATE_YOZM } from './yozm.wishket.com';
+import { template as TEMPLATE_DEVKUMA } from './devkuma.com';
 import { template as TEMPLATE_PICCALILLI } from './piccalil.li';
+import { template as TEMPLATE_JOHNNYREILLY } from'./johnnyreilly.com';
+import { template as TEMPLATE_TOWARDSDATASCIENCE } from './towardsdatascience.com';
 
 const EXT_MD = "md";
 const DEFAULT_KEY_ALL = "all";
@@ -42,16 +48,22 @@ export const sidebarByTemplate = (itemTemplate: SidebarInfoTemplate, type: strin
 }
 
 export const articleSidebars = {
-  freecodecamp:    (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FREECODECAMP, type),
-  frontendmaster:  (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FRONTENDMASTER, type),
-  d2:              (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_D2, type),
-  nhn:             (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_NHN, type),
-  yozm:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_YOZM, type),
-  woowahan:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_WOOWAHAN, type),
-  sitepoint:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SITEPOINT, type),
-  douggregor:      (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DOUGGREGOR, type),
-  donnywals:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DONNYWALS, type),
-  piccalilli:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_PICCALILLI, type),
+  freecodecamp:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FREECODECAMP, type),
+  frontendmaster:     (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FRONTENDMASTER, type),
+  d2:                 (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_D2, type),
+  nhn:                (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_NHN, type),
+  gangnamunni:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GANGNAMUNNI, type),
+  yozm:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_YOZM, type),
+  woowahan:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_WOOWAHAN, type),
+  ktAcademy:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KT_ACADEMY, type),
+  droidcon:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DROIDCON, type),
+  sitepoint:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SITEPOINT, type),
+  douggregor:         (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DOUGGREGOR, type),
+  donnywals:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DONNYWALS, type),
+  piccalilli:         (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_PICCALILLI, type),
+  johnnyreilly:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_JOHNNYREILLY, type),
+  devkuma:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DEVKUMA, type),
+  towardsdatascience: (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_TOWARDSDATASCIENCE, type),
 }
 
 export const hackingwithswift = (): SidebarGroupItem => ({

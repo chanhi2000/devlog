@@ -95,7 +95,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Ask Apple 2022 Q&A Related on Core Data (Part 1)](https://itnext.io/ask-apple-2022-q-a-related-on-core-data-part-1-59b9a9040322)
 - [SwiftDataKit: Unleashing Advanced Core Data Features in SwiftData](https://itnext.io/swiftdatakit-unleashing-advanced-core-data-features-in-swiftdata-3fcd5f443c99)
@@ -110,7 +110,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Swift: Evolution and backward compatibility. Exploring `@available` and `#available` attributes.](https://dev.to/bsorrentino/swift-evolution-and-backward-compatibility-exploring-available-and-available-attributes-51il)
 
@@ -343,6 +343,8 @@ tag:
 - [Realistic Motion Blur](https://minsone.github.io/swiftui-code/Realistic-Motion-Blur/)
 - [[Swift] Defer를 이용하여 Closure 실행 보장하기](https://minsone.github.io/swift-ensuring-closure-execution-with-defer)
 - [[Swift] 타입 시스템을 활용하여 보다 안전하게 데이터 유효성 검증하기](https://minsone.github.io/swift-type-safe-validation)
+- [[iOS] `WKWebView`을 이용한 iOS 앱과 웹페이지 간의 통신 (1) - `WKWebView`과 Javasciprt Bridge](https://minsone.github.io/ios-wkwebview-webpage-communication-1-javascript-bridge)
+- [[iOS] `WKWebView`을 이용한 iOS 앱과 웹페이지 간의 통신 (2) - Control Flow](https://minsone.github.io/ios-wkwebview-webpage-communication-2-control-flow)
 
 ---
 
@@ -533,6 +535,12 @@ tag:
 
 - [How to Speed Up SwiftUI Development and Testing Using PreviewSnapshots](https://doordash.engineering/2023/01/18/how-to-speed-up-swiftui-development-and-testing-using-previewsnapshots/)
 - [Adopting SwiftUI with a Bottom-Up Approach to Minimize Risk](https://doordash.engineering/2022/09/13/adopting-swiftui-with-a-bottom-up-approach-to-minimize-risk/)
+
+---
+
+## iOYES
+
+- [쿠키로 안전하게 HLS m3u8 영상 접근하기](https://green1229.tistory.com/344)
 
 ---
 

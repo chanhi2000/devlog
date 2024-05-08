@@ -42,14 +42,4 @@ head:
 
 ---
 
-## Jupyter Notebook
-
-<MyGithubItems jsonName="lang-jupyter-noteook" />
-
-### Tutorial
-
-<MyGithubItems jsonName="lang-jupyter-noteook-tut" />
-
----
-
 <TagLinks />

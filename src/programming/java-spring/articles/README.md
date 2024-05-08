@@ -19,14 +19,20 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/programm  ing/java/articles/
+      content: https://chanhi2000.github.io/programming/java-spring/articles/
 ---
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
+```component VPCard
+{
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -57,6 +63,16 @@ head:
 
 ```component VPCard
 {
+  "title": "우아한형제들 기술블로그",
+  "desc": "우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.",
+  "link": "https://techblog.woowahan.com/",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "지마켓 기술블로그",
   "desc": "지마켓의 기술과 경험을 공유합니다.",
   "link": "https://dev.gmarket.com/",
@@ -65,9 +81,29 @@ head:
 }
 ```
 
+[[toc]]
+
+---
+
+## freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Implement an OAuth2 Resource Server with Spring Security",
+  "desc": "Hey everyone! Imagine you are building an awesome application, with lots of cool features. Picture a backend server at its core that hosts a majority of the business logic and exposes functionality through APIs. Once you have planned out your APIs, there's one crucial step you need to take care",
+  "link": "/explore/articles/freecodecamp.org/uth2-resourceserver-with-spring-security.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Enthusiastically, Steady, Slowly
+
+> tistory.com/rutgo-letsgo
 
 ```component VPCard
 {
@@ -83,6 +119,8 @@ head:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
+> meetup.nhncloud.com
+
 ```component VPCard
 {
   "title": "Java Reactor onErrorContinue 이모저모 | NHN Cloud Meetup",
@@ -97,6 +135,8 @@ head:
 
 ## NAVER D2
 
+> d2.naver.com
+
 ```component VPCard
 {
   "title": "Virtual Thread의 기본 개념 이해하기 | NAVER D2",
@@ -104,6 +144,22 @@ head:
   "link": "/explore/articles/d2.naver.com/1203723.md",
   "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(17,168,89,0.2)"
+}
+```
+
+---
+
+## 우아한형제들 기술블로그
+
+> techblog.woowahan.com
+
+```component VPCard
+{
+  "title": "HikariCP Dead lock에서 벗어나기 (실전편) | 우아한형제들 기술블로그",
+  "desc": "HikariCP Dead lock에서 벗어나기 (실전편)",
+  "link": "/explore/articles/techblog.woowahan.com/2663.md",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
 }
 ```
 

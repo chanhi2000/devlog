@@ -4,7 +4,8 @@ title: Query
 description: Cubrid > Query
 icon: fas fa-magnifying-glass
 category:
-
+  - Relational Database
+  - DB
   - Cubrid
   - Query
 tag:

@@ -4,17 +4,20 @@ title: Youtube
 description: Intellij Idea > Youtube
 icon: fa-brands fa-youtube
 category:
+  - IDE
   - Intellij Idea
   - Youtube
 tag: 
+  - ide
   - java
   - jdk
-  - ide
+  - jetbrains
   - intellij
   - intellij-idea
   - android-studio
   - productivity
   - programming
+  - youtube
 ---
 
 # {{ $frontmatter.title }} 관련

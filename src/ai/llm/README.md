@@ -20,7 +20,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/ai-llama/" />
+<ToCLocal basePath="/ai/llm/" />
 
 ---
 

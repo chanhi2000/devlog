@@ -4,11 +4,12 @@ title: Intellij Idea
 description: Intellij Idea
 icon: iconfont icon-intellijidea
 category:
+  - IDE
   - Intellij Idea
 tag:
+  - ide
   - java
   - jdk
-  - ide
   - jetbrains
   - intellij
   - intellij-idea

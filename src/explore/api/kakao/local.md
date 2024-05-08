@@ -53,7 +53,7 @@ tag:
 
 ### 요청
 
-::: tabs 
+::: tabs
 
 @tab:active curl
 
@@ -62,6 +62,7 @@ curl -v -X GET "https://dapi.kakao.com/v2/local/search/address.json" \
   -H "Authorization: KakaoAK ${REST_API_KEY}" \
   --data-urlencode "query=전북 삼성동 100" 
 ```
+
 @tab 설명
 
 ### 헤더 
@@ -70,15 +71,13 @@ curl -v -X GET "https://dapi.kakao.com/v2/local/search/address.json" \
 | :--- | :--- | :---: |
 | Authorization | `Authorization: KakaoAK ${REST_API_KEY}`<br/>인증 방식, REST API 키로 인증 요청 | ✅ |
 
-
 ### 경로 변수
 
 | 이름 | 타입 | 설명 | 필수 |
 | :--- | :--- | :--- | :---: |
 | `FORMAT` | String	| 응답 형식(기본값: `JSON`) | ❌ |
 
-
-### 쿼리 파라미터 
+### 쿼리 파라미터
 
 | 이름 | 타입 | 설명 | 필수 |
 | :--- | :--- | :--- | :---: |

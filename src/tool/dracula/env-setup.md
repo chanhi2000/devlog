@@ -283,7 +283,7 @@ Once installed, it will replace the default theme for Dracula!
 
 ---
 
-## StackOverflow
+## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 ::: info StackOverflow
 

@@ -76,16 +76,18 @@ tag:
 - [대화 상자 리소스를 프로젝트에서 분리하기](https://blog.naver.com/tipsware/223420801636)
 - [[EasyWin32] 구구단 실습](https://blog.naver.com/tipsware/223422630311)
 - [[EasyWin32] 오각형 그리기 - Step 1](https://blog.naver.com/tipsware/223424497418)
-- [[EasyWin32] 오각형 그리기 - Step 2](https://blog.naver.com/tipsware/223425632941?)
+- [[EasyWin32] 오각형 그리기 - Step 2](https://blog.naver.com/tipsware/223425632941)
 - [[EasyWin32] 아날로그시계 만들기 - Step 1](https://blog.naver.com/tipsware/223423898917)
 - [[EasyWin32] 별 그리기 - Step 1](https://blog.naver.com/tipsware/223424677976)
 - [[EasyWin32] 별 그리기 - Step 2](https://blog.naver.com/tipsware/223425739427)
 - [[EasyWin32] 아날로그시계 만들기 - Step 2](https://blog.naver.com/tipsware/223429118146)
 - [`CTreeCtrl::GetFirstVisibleItem` 함수와 `CTreeCtrl::GetNextVisibleItem` 함수](https://blog.naver.com/tipsware/223429307908)
 - [[Q&A] CTreeCtrl 클래스의 GetItemText 함수에 대하여](https://blog.naver.com/tipsware/223430735541)
-- [블로그에서 소스 코드를 복사해서 사용할 때 생기는 사소한 문제에 대하여...](https://blog.naver.com/tipsware/223436644231?)
-- [[Q&A] 32비트 비트맵에서 알파(alpha) 속성을 출력하지 않으려면 어떻게 해야 하나요?](https://blog.naver.com/tipsware/223436563391?)
-- [MFC 프로그래밍 테스트 과제](https://blog.naver.com/tipsware/223435744748?)
+- [블로그에서 소스 코드를 복사해서 사용할 때 생기는 사소한 문제에 대하여...](https://blog.naver.com/tipsware/223436644231)
+- [[Q&A] 32비트 비트맵에서 알파(alpha) 속성을 출력하지 않으려면 어떻게 해야 하나요?](https://blog.naver.com/tipsware/223436563391)
+- [MFC 프로그래밍 테스트 과제](https://blog.naver.com/tipsware/223435744748)
+- [`CWnd::FromHandle` 함수](https://blog.naver.com/tipsware/223439441143)
+- [[Q&A] `CMFCToolBarImages` 객체로 이미지가 로드 되지 않습니다.](https://blog.naver.com/tipsware/223438148641)
 
 ---
 
@@ -125,6 +127,7 @@ tag:
 ## jacking75
 
 - [C++ - C++23 `std::print` 소개](https://jacking75.github.io/Cpp_20240413/)
+- [Visual Studio에서 C++로 코파일럿 채팅을 사용하기 위한 빠른 팁](https://jacking75.github.io/tech-ai_0507/)
 
 ---
 

@@ -4,7 +4,7 @@ title: Youtube
 description: Java > Youtube
 icon: fa-brands fa-youtube
 category:
-  - Java 
+  - Java
   - Youtube
 tag: 
   - "java"
@@ -106,9 +106,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: ☕️Java > Youtube
+      content: Java > Youtube
     - property: og:description
-      content: ☕️Java > Youtube
+      content: Youtube
     - property: og:url
       content: https://chanhi2000.github.io/programming/java/youtube.html
 ---

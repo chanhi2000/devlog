@@ -22,6 +22,7 @@ head:
       content: "[SaaS] 시간여행이 가능한 시스템 아키텍처"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/blog.gangnamunni.com/saas-event-sourcing.html
+prev: /programming/java-spring/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -269,21 +270,21 @@ public class ReservedEventHandler implements EventHandler<Schedule, Reserved> {
 
 ```java
 public class ScheduleEventStore implements EventStore {
-    ...
+    /* ... 생략 ... */
     private final ScheduleEventRepository scheduleEventRepository;
     private final MessageBus messageBus;
-    ...
+    /* ... 생략 ... */
 
     public ScheduleEventStore(
-        ...
+        /* ... 생략 ... */
         ScheduleEventRepository scheduleEventRepository,
         MessageBus messageBus
-        ...
+        /* ... 생략 ... */
     ) {
-        ...
+        /* ... 생략 ... */
         this.scheduleEventRepository = scheduleEventRepository;
         this.messageBus = messageBus;
-        ...
+        /* ... 생략 ... */
     }
 
     @Override
@@ -296,7 +297,7 @@ public class ScheduleEventStore implements EventStore {
         long startVersion,
         Iterable<Object> events
     ) {
-        ...
+        /* ... 생략 ... */
         scheduleEventRepository.saveAll(
             tenantId,
             processId,
@@ -314,7 +315,7 @@ public class ScheduleEventStore implements EventStore {
         sendMessages(tenantId, streamId, pendingEvents);
         scheduleEventRepository.makeEventsPublished(tenantId, pendingEvents);
     }
-		...
+    /* ... 생략 ... */
 }
 ```
 
@@ -373,12 +374,12 @@ public class ScheduleHeadspring extends Headspring<Schedule> {
             List.of(
                 new ReserveCommandExecutor(),
                 new CancelReservationCommandExecutor(),
-                ...
+                /* ... 생략 ... */
             ),
             List.of(
                 new ReservedEventHandler(),
                 new ReservationCanceledEventHandler(),
-                ...
+                /* ... 생략 ... */
             )
         );
     }

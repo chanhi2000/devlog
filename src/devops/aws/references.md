@@ -26,7 +26,7 @@ tag:
 
 ## 요즘IT
 
-- [AWS Personalize 활용한 개인화 추천 서비스 론칭기](https://yozm.wishket.com/magazine/detail/2443/)
+- [AWS Personalize 활용한 개인화 추천 서비스 론칭기](/explore/articles/yozm.wishket.com/2443.md)
 
 ---
 
@@ -36,7 +36,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Automate CloudWatch Logs Export to S3 using Lambda and Event Bridge](https://awstip.com/automate-cloudwatch-logs-export-to-s3-using-lambda-and-event-bridge-8748fedadeb9)
 - [Apache Web Server utilizing AWS CentOS Server](https://aws.plainenglish.io/apache-web-server-utilizing-aws-centos-server-bd5538afabd8)
@@ -48,6 +48,7 @@ tag:
 
 - [`@ksh4704` - 코드스테이츠-부트캠프 [Deploy]-AWS](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Deploy-AWS)
 - [`@eunbibi` - AWS RDS](https://velog.io/@eunbibi/AWS-RDS)
+- [`@kandy1002` / [Terraform] Key encryption with Sops & AWS KMS](https://velog.io/@kandy1002/Terraform-Key-encryption-with-Sops-AWS-KMS)
 
 ---
 
@@ -61,7 +62,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
 
@@ -162,12 +163,14 @@ tag:
 ## JuHyeong.dev
 
 - [AWS VPC를 사용한다면 알아야 할 네트워크 기초 지식](https://dkswnkk.tistory.com/750)
+- [AWS Solution Architect Associate(SAA-C03) 취득 후기](https://dkswnkk.tistory.com/751)
 
 ---
 
 ## 뭐라도 해야 한다면 기록을 하자
 
 - [[LocalStack] 24년에 다시보는 LocalStack 설치하기](https://jakpentest.tistory.com/entry/LocalStack-24%EB%85%84%EC%97%90-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94-LocalStack-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+- [[LocalStack] LocalStack에서 EC2를 다뤄보자.](https://jakpentest.tistory.com/entry/LocalStack-EC2%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-ssh-%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80)
 
 ---
 

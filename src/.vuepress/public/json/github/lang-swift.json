@@ -479,5 +479,10 @@
     "desc": "Lightweight clipboard manager for macOS",
     "officialSite": "https://maccy.app",
     "topics": ["clipboard-manager", "maccy", "macos"]
+  }, {
+    "repo": "kkebo/DNSecure",
+    "desc": "DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.",
+    "officialSite": "",
+    "topics": ["dns", "dns-over-https", "dns-over-tls", "doh", "dot", "ios", "ipados", "swift"]
   }
 ]

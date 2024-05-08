@@ -27,4 +27,24 @@ head:
 
 ---
 
+## Javascript
+
+<MyGithubItems jsonName="lang-js" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-js-tut" />
+
+---
+
+## Typescript
+
+<MyGithubItems jsonName="lang-ts" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-ts-tut" />
+
+---
+
 <TagLinks />

@@ -73,7 +73,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`@phukon` - How I write Commits like a pro](https://dev.to/phukon/how-i-write-commits-like-a-pro-340l)
 - [`samuelfaure` - How atomic Git commits dramatically increased my productivity - and will increase yours too](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)
@@ -110,7 +110,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Writing Better Commits](https://itnext.io/writing-better-commits-6a1691c12772)
 - [4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
@@ -240,6 +240,18 @@ tag:
 ## dev diary, TIL
 
 - [#TIL `git patch`를 적용하는 `apply` 명령과 `am` 명령](http://ohyecloudy.com/ddiary/2024/05/04/git-am/)
+
+---
+
+## 백엔드 개발자 웨지 블로그
+
+- [git-flow와 github-flow 비교체험기](https://sihyung92.oopy.io/architecture/gitflow-vs-githubflow)
+
+---
+
+## haon.blog
+
+- [협업을 위한 Git Commit Convension (커밋 컨벤션)](https://haon.blog/github/convention/)
 
 ---
 

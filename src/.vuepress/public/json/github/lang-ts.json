@@ -2748,5 +2748,20 @@
     "desc": "unofficial desktop version of oblivion",
     "officialSite": "https://github.com/bepass-org/oblivion-desktop/releases/latest",
     "topics": ["anticensorship", "antifilter", "cloudflare", "desktop", "gool", "linux", "mac", "oblivion", "proxy", "psiphon", "vpn", "warp", "warp-plus", "warpinwarp", "warponwarp", "windows", "zerotrust"]
+  }, {
+    "repo": "AtotheY/saas-landingpage",
+    "desc": "https://map.sistilli.dev/public/coding/SaaS+Boilerplate",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Sh4yy/personal-ai",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tegonhq/tegon",
+    "desc": "Tegon is an open-source, AI-first alternative to Jira, Linear",
+    "officialSite": "https://tegon.ai",
+    "topics": ["ai", "issue-management", "issue-tracker", "issue-tracking-system", "jira", "jira-alternative", "kanban", "linear-alternative", "open-source", "product-management", "productivity", "project-management", "react", "typescript"]
   }
 ]

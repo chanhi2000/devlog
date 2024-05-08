@@ -392,4 +392,18 @@ tag:
 
 - [타원, 케플러, 궤도운동](https://lazymatlab.tistory.com/228)
 
+---
+
+## MachBase
+
+- [마크베이스 네오를 활용한 실시간 고속 푸리에 변환 (FFT : Fast Fourier Transformation)](https://www.machbase.com/post/machbase-neo-tsdb-fft-analytics)
+
+---
+
+## Be an Overachiever
+
+- [L1, L2 Regularization](https://devs0n.tistory.com/164)
+
+---
+
 <TagLinks />

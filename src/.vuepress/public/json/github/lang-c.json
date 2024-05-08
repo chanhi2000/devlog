@@ -954,5 +954,20 @@
     "desc": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
     "officialSite": "",
     "topics": ["audio", "driver", "loopback", "macos", "virtual-audio-cable"]
+  }, {
+    "repo": "cloudwu/skynet",
+    "desc": "A lightweight online game framework",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ahrm/sioyek",
+    "desc": "Sioyek is a PDF viewer with a focus on textbooks and research papers",
+    "officialSite": "https://sioyek.info/",
+    "topics": ["pdf", "pdf-viewer", "research-paper"]
+  }, {
+    "repo": "Hirrolot/datatype99",
+    "desc": "Algebraic data types for C99",
+    "officialSite": "",
+    "topics": ["adt", "algebraic", "algebraic-data-types", "c99", "derive", "introspection", "metalang99", "metaprogramming", "pattern-matching", "reflection-library", "sum-types", "tagged-unions", "type-system", "variant"]
   }
 ]

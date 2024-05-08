@@ -24,10 +24,11 @@ tag:
 
 ---
 
-## Stackoverflow
+## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [How can I change the location of docker images when using Docker Desktop on WSL2 with Windows 10 Home?](https://stackoverflow.com/questions/62441307/how-can-i-change-the-location-of-docker-images-when-using-docker-desktop-on-wsl2)
 - [entrypoint file not found](https://stackoverflow.com/questions/44460825/entrypoint-file-not-found)
+- [How to run shell script on host from docker container?](https://stackoverflow.com/questions/32163955/how-to-run-shell-script-on-host-from-docker-container)
 
 ## Github
 
@@ -43,7 +44,7 @@ tag:
 - [`@dongha1992` - 도커 & CI (2)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-2)
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [AWS Best practice for Amazon Elastic Kubernetes Service (EKS)](https://medium.com/avmconsulting-blog/aws-best-practice-for-amazon-elastic-kubernetes-service-eks-7ae468869724)
 - [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b)
@@ -56,7 +57,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Full Docker Course \[FREE\] 🎉 🐳](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
 - [`tungbq`: Introducing DevOps Toolkit](https://dev.to/tungbq/introducing-devops-toolkit-32fa)

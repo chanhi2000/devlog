@@ -46,7 +46,7 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Binex — TryHackMe Room Simple Writeup | Karthikeyan Nagaraj](https://infosecwriteups.com/binex-970-points-tryhackme-room-simple-writeup-karthikeyan-nagaraj-33a5e71a31bd)
 - [TryHackMe.com: WebOSINT — WriteUp](https://blog.nocturno.dev/tryhackme-com-webosint-writeup-174e8806bf1a)
@@ -105,7 +105,7 @@ tag:
 
 ---
 
-## kciter
+## kciter.so
 
 - [웹 개발을 위해 꼭 알아야하는 보안 공격](https://kciter.so/posts/basic-web-hacking)
 
@@ -229,6 +229,12 @@ tag:
 ## Leviathan Security Group
 
 - [TunnelVision (CVE-2024-3661): How Attackers Can Decloak Routing-Based VPNs For a Total VPN Leak](https://www.leviathansecurity.com/blog/tunnelvision)
+
+---
+
+## PortSwagger
+
+- [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 
 ---
 

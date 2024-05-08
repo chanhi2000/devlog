@@ -11,8 +11,6 @@ category:
 
 # {{ $frontmatter.description }} 관련
 
-
-
 <ShieldsGroup logos="openjdk,kotlin,spring,springboot,springsecurity,intellijidea,androidstudio,eclipseide,eclipseadoptium"/>
 
 ---

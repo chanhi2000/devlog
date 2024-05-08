@@ -4,8 +4,10 @@ title: Ansible
 description: Ansible
 icon: iconfont icon-ansible
 category:
+  - IaC
   - Ansible
 tag:
+  - iac
   - ansible
 ---
 

@@ -9,15 +9,13 @@ category:
 
 # {{ $frontmatter.description }} 관련
 
-
-
-<ShieldsGroup logos="python,pytorch,sympy,numpy,jupyter"/>
+<ShieldsGroup logos="python,pytorch,sympy,numpy"/>
 
 ---
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/python/" />
+<ToCLocal basePath="/programming/py/" />
 
 ---
 

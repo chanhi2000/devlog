@@ -32,7 +32,7 @@ head:
 
 ---
 
-## ☕️Java
+## <FontIcon icon="fa-brands fa-java"/>Java
 
 <MyGithubItems jsonName="lang-java" />
 
@@ -42,7 +42,7 @@ head:
 
 ---
 
-## 🅺Kotlin
+## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
 
 <MyGithubItems jsonName="lang-kotiln" />
 

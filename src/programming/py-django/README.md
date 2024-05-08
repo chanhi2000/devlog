@@ -10,13 +10,13 @@ category:
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="django"/>
+<ShieldsGroup logos="python,django"/>
 
 ---
 
 ## Table of Contents
 
-<ToCLocal basePath="/data-science/cubrid/" />
+<ToCLocal basePath="/programming/py-django/" />
 
 ---
 

@@ -126,7 +126,7 @@ head:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about React](https://dev.to/t/react)
 - [`useRef()`가 순수 자바스크립트 객체라는 의미를 곱씹어보기](https://dev.to/dylanju/useref-3j37)
@@ -269,7 +269,7 @@ head:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
 - [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
@@ -504,7 +504,7 @@ head:
 
 ---
 
-## kciter
+## kciter.so
 
 - [함수형 자료구조](https://kciter.so/posts/functional-data-structure)
 

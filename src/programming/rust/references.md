@@ -37,7 +37,7 @@ tag:
 
 --- 
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [Go Fiber vs Rust: Performance comparison for JWT verify and MySQL query](https://medium.com/deno-the-complete-reference/go-fiber-vs-rust-performance-comparison-for-jwt-verify-and-mysql-query-9f5b7129a20)
 
@@ -51,7 +51,7 @@ tag:
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`francescoxx` - Rust 🦀 CRUD Rest API with Docker 🐳](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
 - [`emmanuelantony2000` - Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)

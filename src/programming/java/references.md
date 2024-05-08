@@ -20,7 +20,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-java"/>Java
 
-### Stackoverflow
+### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [Can JPA be persuaded to convert between eg UUIDs and Strings?](https://stackoverflow.com/questions/8446378/can-jpa-be-persuaded-to-convert-between-eg-uuids-and-strings)
 - [Spring JPA repoistory findBy IN List - allow null](https://stackoverflow.com/questions/28898132/spring-jpa-repoistory-findby-in-list-allow-null)
@@ -53,16 +53,12 @@ tag:
 - [HowToDoInJava - Log4j2 Properties File Example](https://howtodoinjava.com/log4j2/log4j2-properties-example)
 - [HowToDoInJava - Log4j2 RollingFileAppender Example](https://howtodoinjava.com/log4j2/log4j2-rollingfileappender-example/)
 
-### 강남언니
+### <FontIcon icon="fa-brands fa-medium"/>Medium
 
-- [Flyway 로 Java 에서 DB schema, seed 관리하기](https://blog.gangnamunni.com/post/introducing-flyway)
-
-### Medium
-
-- [`YDB — Open Source` - How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
-- [`박상권의-삽질블로그` - 알아두면 쓸모있는 신비한 안드로이드 지식 9가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)
-- [`Javarevisited` - 10 Best Free Courses to Learn Spring and Microservices for Java Programmers in 2023](https://medium.com/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e)
-
+- [`YDB — Open Source` / How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
+- [`박상권의-삽질블로그` / 알아두면 쓸모있는 신비한 안드로이드 지식 9가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)
+- [`Javarevisited` / 10 Best Free Courses to Learn Spring and Microservices for Java Programmers in 2023](https://medium.com/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e)
+- [`geekculture` / Java TS Video Downloader](https://medium.com/geekculture/java-ts-video-downloader-a0fcf23ab84a)
 
 ### 동팡
 
@@ -86,13 +82,14 @@ tag:
 
 ### velog
 
-- [`@qkrtkdwns3410` - [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
-- [`@qkrtkdwns3410` - FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
-- [`@qkrtkdwns3410` - [알고리즘] 주차요금 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0)
-- [`@dradnats1012` - DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
-- [`@danjr` - 이스케이프 문자열](https://velog.io/@danjr/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
-- [`@danjr` - JAVA - 반복문](https://velog.io/@danjr/JAVA-%EB%B0%98%EB%B3%B5%EB%AC%B8)
-- [`@hyemin916` - 자바와 함수형 프로그래밍](https://velog.io/@hyemin916/%EC%9E%90%EB%B0%94%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+- [`@qkrtkdwns3410` / [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
+- [`@qkrtkdwns3410` / FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
+- [`@qkrtkdwns3410` / [알고리즘] 주차요금 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0)
+- [`@dradnats1012` / DBInitializer](https://velog.io/@dradnats1012/DBInitializer)
+- [`@danjr` / 이스케이프 문자열](https://velog.io/@danjr/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
+- [`@danjr` / JAVA - 반복문](https://velog.io/@danjr/JAVA-%EB%B0%98%EB%B3%B5%EB%AC%B8)
+- [`@hyemin916` / 자바와 함수형 프로그래밍](https://velog.io/@hyemin916/%EC%9E%90%EB%B0%94%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+- [`@qkrtkdwns3410` / 프로세스(Process) vs 스레드(Thread)](https://velog.io/@qkrtkdwns3410/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4Process-vs-%EC%8A%A4%EB%A0%88%EB%93%9CThread)
 
 ### BLEX
 
@@ -233,6 +230,7 @@ tag:
 - [[내일배움캠프 15일차 TIL] 형변환 및 팀 프로젝트 역할분담](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-15%EC%9D%BC%EC%B0%A8-TIL-%ED%98%95%EB%B3%80%ED%99%98-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%AD%ED%95%A0%EB%B6%84%EB%8B%B4)
 - [[JAVA] 형변환 정리](https://moonnight0.tistory.com/entry/JAVA-%ED%98%95%EB%B3%80%ED%99%98-%EC%A0%95%EB%A6%AC)
 - [[ 99클럽 코테 스터디 32일차 TIL ] Collections 및 프로그래머스 (명예의 전당(1))](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-32%EC%9D%BC%EC%B0%A8-TIL-Collections-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91)
+- [[ 99클럽 코테 스터디 33일차 TIL] 백준 - (14681번 - 사분면 고르기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-33%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-14681%EB%B2%88-%EC%82%AC%EB%B6%84%EB%A9%B4-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 
 ### 류광의 번역 이야기
 
@@ -259,7 +257,7 @@ tag:
 - [Java HashMap의 내부 동작 - 이론편](https://potwings.tistory.com/59)
 - [Java HashMap의 내부 동작 - 실전편](https://potwings.tistory.com/60)
 - [Java HashMap의 내부 동작 - 해시 버킷 개수 조정](https://potwings.tistory.com/61)
-
+- [X바(자바) finalize 메소드 쓰지마세요](https://potwings.tistory.com/63)
 
 ### integer
 
@@ -290,6 +288,23 @@ tag:
 ### 강준현
 
 - [Direct Memory in Java](https://junhyunny.github.io/java/jvm/direct-memory-in-java/)
+- [Tracking Direct Memory Usage in JVM](https://junhyunny.github.io/java/jvm/tracking-direct-memory-usage-in-jvm/)
+
+### 기본기를 쌓는 정아마추어 코딩블로그
+
+- [Tidy First?를 읽고 내 식대로 요약하고 생각 공유하기](https://jeong-pro.tistory.com/254)
+
+### 몽상실현개발주의
+
+- [빌더 패턴의 이해와 Java에서의 적용](https://leeiopd.tistory.com/entry/%EB%B9%8C%EB%8D%94-%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-Java%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%81%EC%9A%A9)
+
+### 백엔드 개발자 웨지 블로그
+
+- [서비스 제공자 프레임워크 service provider framework 이해하기](https://sihyung92.oopy.io/java/service-provider-framework)
+
+### Rangken programming blog
+
+- [`Java sun.misc.Unsafe`](https://rangken.github.io/blog/2015/sun.misc.unSafe/)
 
 ---
 
@@ -302,7 +317,7 @@ tag:
 
 <PDF url="https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf"/>
 
-### Jetbrains
+### <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
 - [A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
 
@@ -313,7 +328,7 @@ tag:
 - [Kotlin typealias와 inline class를 알아보고 적절한 사용법을 알아보자.](https://thdev.tech/kotlin/2020/10/13/kotlin_effective_06)
 - [Kotlin Collections에서 지연 계산(lazy)의 이점을 알아보자.](https://thdev.tech/kotlin/2020/10/06/kotlin_effective_05)
 
-### Stackoverflow
+### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [How to get String UUID in JPA and store as VARCHAR in Postgresql database?](https://stackoverflow.com/questions/76346452/how-to-get-string-uuid-in-jpa-and-store-as-varchar-in-postgresql-database)
 
@@ -321,7 +336,7 @@ tag:
 
 - [EveDrop 개발기1](https://holykisa.tistory.com/128)
 
-### Medium
+### <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`@khush.panchal123` - `PriorityDispatcher` — Priority based Dispatcher in Kotlin Coroutines](https://medium.com/@khush.panchal123/prioritydispatcher-dispatcher-based-on-priority-queue-035cebd6f96a)
 - [`vivienmahe` - How to publish your Kotlin Multiplatform library on Maven Central](https://vivienmahe.medium.com/how-to-publish-your-kotlin-multiplatform-library-on-maven-central-5340deff7ee5)
@@ -338,13 +353,16 @@ tag:
 - [`@giuliopime` - Managing environment variables in Kotlin with ease and type safety — DoToo [backend]](https://medium.com/@giuliopime/managing-environment-variables-in-kotlin-with-ease-and-type-safety-dotoo-backend-42882a1371ff)
 - [`serpro69` - “Dynamic Integration Testing” in Kotlin](https://serpro69.medium.com/dynamic-integration-testing-in-kotlin-2601ce0be271)
 - [`@domen.lanisnik` - Swift Cheatsheet for Android/Kotlin Developers](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6)
+- [`jaeyeong951` / Structured Concurrency 이해하기](https://jaeyeong951.medium.com/structured-concurrency-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-392cc45d01df)
+- [`jaeyeong951` / virtual thread 동기화: `synchronized`의 한계](https://jaeyeong951.medium.com/virtual-thread-synchronized-x-6b19aaa09af1)
+- [`jaeyeong951` / Project Valhalla : value class](https://jaeyeong951.medium.com/project-valhalla-value-class-092a25aec7a6)
 
 ### velog
 
 - [`@dudgns0507` - [Kotlin] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 
-### Dev.to
+### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`@daredev` - Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
 
@@ -358,7 +376,7 @@ tag:
 - [Gradle Kotlin DSL을 무작정 적용해보자! - 개발새발 블로그](https://seansation-blog.tistory.com/7)
 - [gist : Android Livedata Observe Once Only (Kotlin)](https://gist.github.com/kobeumut/edb3edd9a2ae9abf6984a42bb2de0441)
 
-### kciter
+### kciter.so
 
 - [Railway-Oriented Programming](https://kciter.so/posts/railway-oriented-programming)
 
@@ -383,7 +401,7 @@ tag:
 - [Kotest 자원 (Resources)](https://www.devkuma.com/docs/kotest/framework/resources/)
 
 ### simple is best
-          
+
 - [Leetcode 930.`BinarySubarraysWithSum`](https://insanelysimple.tistory.com/483)
 - [Leetcode1669.`MergeInBetweenLinkedLists`](https://insanelysimple.tistory.com/484)
 - [Leetcode61.RotateList (kotlin)](https://insanelysimple.tistory.com/486)
@@ -441,9 +459,9 @@ tag:
 
 ### Kt.academy
 
-- [Static Code Analysers](https://kt.academy/article/ak-static-analysis)
+- [Static Code Analysers](/explore/articles/kt.academy/ak-static-analysis.md)
 - [Exercise: Implement shop functions](https://kt.academy/article/e_shop_functions)
-- [Item 28: Consider wrapping external APIs](https://kt.academy/article/ek-wrapping-api)
+- [Item 28: Consider wrapping external APIs](/explore/articles/kt.academy/ek-wrapping-api.md)
 
 ### zsmb.co
 
@@ -464,6 +482,27 @@ tag:
 ### 남경호
 
 - [Querydsl에서 Kotlin JDSL 으로](https://veluxer62.github.io/explanation/transfer-jdsl/)
+
+### 연로그
+
+- [[Reactor] 서버 느리게 만드는 API 개발하기 (feat: `block`)](https://yeonyeon.tistory.com/330)
+
+### Yun Blog
+
+- [Kotlin 자주 사용하는 패턴 정리](https://cheese10yun.github.io/kotlin-pattern/)
+
+### 오늘도 끄적끄적
+
+- [(Tomcat) ClientAbortException은 왜 발생할까? (Part 1)](https://perfectacle.github.io/2022/03/20/client-abort-exception-deep-dive-part-01/#more)
+- [자바의 Virtual Thread가 나와도 코틀린의 코루틴은 여전히 살아남을까?](https://perfectacle.github.io/2023/07/10/java-virtual-thread-vs-kotlin-coroutine/#more)
+
+### 일단 써보기
+
+- [병렬 트랜잭션 환경에서 만난 데드락 (with. Coroutine, MySQL)](https://waterfogsw.tistory.com/60)
+
+### Jungwoon Blog
+
+- [이펙티브 코틀린 내용 정리](https://jungwoon.github.io/kotlin/2022/07/07/Effective-Kotlin_Summary.html)
 
 ---
 

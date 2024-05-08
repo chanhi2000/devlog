@@ -32,16 +32,6 @@ head:
 
 ```component VPCard
 {
-  "title": "요즘IT", 
-  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
-  "link": "https://yozm.wishket.com/magazine/list/develop/", 
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
   "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
   "link": "https://freecodecamp.org/news/",
@@ -50,53 +40,17 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 [[toc]]
-
----
-
-## 요즘IT
-
-> yozm.wishket.com
-
-```component VPCard
-{
-  "title": "프론트엔드와 SOLID 원칙 살펴보기 | 요즘IT",
-  "desc": "프론트엔드와 SOLID 원칙 살펴보기",
-  "link": "/explore/articles/yozm.wishket.com/2479.md",
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "리액트 배칭(Batching)의 모든 것 | 요즘IT",
-  "desc": "리액트 배칭(Batching)의 모든 것",
-  "link": "/explore/articles/yozm.wishket.com/2493.md",
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "React Native, Metro를 넘어서 (1,2) | 요즘IT",
-  "desc": "React Native, Metro를 넘어서 (1,2)",
-  "link": "/explore/articles/yozm.wishket.com/2528.md",
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "크로스 플랫폼 디자인 시스템, 1.5년의 기록 (1,2) | 요즘IT",
-  "desc": "크로스 플랫폼 디자인 시스템, 1.5년의 기록 (1,2)",
-  "link": "/explore/articles/yozm.wishket.com/2537.md",
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
 
 ---
 
@@ -144,6 +98,71 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Create a React Native Splash Screen",
+  "desc": "In this article, you'll get a hands-on practical guide for creating a native splash screen for React Native CLI applications.  Note that this tutorial is not applicable for apps created with Expo. SVG Icon Image and Background The first thing you need is an image. It can be in",
+  "link": "/explore/articles/freecodecamp.org/react-native-splash-screen.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "웹 기반 그래픽 편집기의 구조와 7가지 디자인 패턴 | 요즘IT",
+  "desc": "웹 기반 그래픽 편집기의 구조와 7가지 디자인 패턴",
+  "link": "/explore/articles/yozm.wishket.com/2466.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "프론트엔드와 SOLID 원칙 살펴보기 | 요즘IT",
+  "desc": "프론트엔드와 SOLID 원칙 살펴보기",
+  "link": "/explore/articles/yozm.wishket.com/2479.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "리액트 배칭(Batching)의 모든 것 | 요즘IT",
+  "desc": "리액트 배칭(Batching)의 모든 것",
+  "link": "/explore/articles/yozm.wishket.com/2493.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "React Native, Metro를 넘어서 (1,2) | 요즘IT",
+  "desc": "React Native, Metro를 넘어서 (1,2)",
+  "link": "/explore/articles/yozm.wishket.com/2528.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "크로스 플랫폼 디자인 시스템, 1.5년의 기록 (1,2) | 요즘IT",
+  "desc": "크로스 플랫폼 디자인 시스템, 1.5년의 기록 (1,2)",
+  "link": "/explore/articles/yozm.wishket.com/2537.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ---
 

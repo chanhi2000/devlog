@@ -32,7 +32,7 @@
     { "id": "YlBSPIfJQAI", "title": "K3S Deployment - Proxmox, Rancher, Longhorn, Traefik, PiHole, and Authentik" },
     { "id": "gFHE1QEm8qQ", "title": "Portainer - Past, Present, and Future! An Insight Into The Container Management Tool We All Love!" },
     { "id": "OT9bZnwzUog", "title": "Deploy CrowdSec to Protect Your Services From Bad Actors & Common Attacks - Kubernetes" },
-    { "id": "cm51M5uTBhE", "title": "How To Migrate Docker Apps to Kubernetes Using Helm &amp; Manifest Files. Portainer &amp; WireGuard" }, 
+    { "id": "cm51M5uTBhE", "title": "How To Migrate Docker Apps to Kubernetes Using Helm & Manifest Files. Portainer & WireGuard" }, 
     { "id": "9VV7cKeH3Ro", "title": "Docker to Kubernetes Data Migration Made Easy!" }, 
     { "id": "84QZc5cnKZc", "title": "Proxmox Backup Server Saves You Money And Time!" }, 
     { "id": "tRBe1EbKyoU", "title": "How To Create vLANs, Firewall Rules, Port Forwards, Dynamic DNS, Traffic Inspection And More!" },

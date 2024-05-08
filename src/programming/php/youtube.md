@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: php > Youtube
+description: PHP > Youtube
 icon: fa-brands fa-youtube
 category:
-  - php
+  - PHP
   - Youtube
 tag:
   - education

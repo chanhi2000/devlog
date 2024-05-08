@@ -99,7 +99,7 @@ tag:
 
 ---
 
-## Electronics etc...
+## Electronics etc…
 
 - [ThinMachine - a $25 Thin Client MacOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
 

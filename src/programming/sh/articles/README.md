@@ -7,9 +7,12 @@ category:
   - Shell
   - Article(s)
 tag: 
+  - blog
+  - freecodecamp.org
+  - devkuma.com
+  - meetup.nhncloud.com
   - sh
   - bash
-  - blog
 head:
   - - meta:
     - property: og:title
@@ -21,6 +24,16 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -43,6 +56,22 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Use Piping and Redirection in the Linux Terminal",
+  "desc": "The command line interface in Linux provides a powerful way of perfoming a range of tasks on your system. Because of its roots, Linux has many features baked into the terminal. Two of these powerful features are piping and redirection. These features enable you to redirect the output and input...",
+  "link": "/explore/articles/freecodecamp.org/linux-terminal-piping-and-redirection-guide.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 

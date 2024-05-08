@@ -41,7 +41,7 @@ tag:
 
 ---
 
-## StackOverflow
+## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [Job ends with error "WARNING: Uploading artifacts as "archive" to coordinator... failed"](https://stackoverflow.com/questions/65324410/job-ends-with-error-warning-uploading-artifacts-as-archive-to-coordinator)
 

@@ -28,7 +28,7 @@ tag:
 
 ---
 
-## Stackoverflow
+## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [How are zlib, gzip and zip related? What do they have in common and how are they different?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 
@@ -48,13 +48,13 @@ tag:
 
 ---
 
-## Medium
+## <FontIcon icon="fa-brands fa-medium"/>
 
 - [`vinodhakumara2681997` - CheatSheet: Linux Commands for DevOps](https://vinodhakumara2681997.medium.com/cheatsheet-linux-commands-for-devops-80be32b88656)
 
 ---
 
-## Dev.to
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`tasinishmam` - Awesome Command-Line tools to boost your productivity](https://dev.to/tasinishmam/awesome-command-line-tools-to-boost-your-productivity-22n8)
 

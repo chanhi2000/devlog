@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - sitepoint.com
   - devtoolstips.org
   - yozm.wishket.com
@@ -109,6 +110,16 @@ head:
   "title": "What is Dead Zone in JavaScript?",
   "desc": "In JavaScript, you may encounter the term 'dead zone' While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively.",
   "link": "/explore/articles/freecodecamp.org/what-is-dead-zone-in-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Run a Postgres Database in Azure Kubernetes Service and Integrate it with a Node.js Express Application",
+  "desc": "Hey everyone! Today, you're going to learn about deploying a Postgres container in Azure Kubernetes Service (AKS) and connecting it to a Node.js application. In this fast-paced development landscape, deploying via containers, particularly with Kubernetes, is becoming increasingly popular. Some companies perform numerous deployments daily, so it's crucial for you",
+  "link": "/explore/articles/freecodecamp.org/how-to-run-postgres-in-kubernetes.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

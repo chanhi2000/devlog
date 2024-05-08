@@ -11,8 +11,10 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - yozm.wishket.com
-  - www.droidcon.com
+  - droidcon.com
+  - kt.academy
   - meetup.nhncloud.com
   - java
   - jdk
@@ -31,6 +33,16 @@ head:
 
 ```component VPCard
 {
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "요즘IT", 
   "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
@@ -44,8 +56,18 @@ head:
   "title": "Android Community on a Global Scale - droidcon",
   "desc": "droidcon Community on a Global Scaledroidcon is your source for daily tech blogs, videos, events, jobs and more all around Android development.",
   "link": "https://www.droidcon.com/",
-  "logo": "https://www.droidcon.com/",
+  "logo": "https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
   "background": "rgba(4,20,221,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Kt. Academy",
+  "desc": "Teaching programming, with focus on the best practices.",
+  "link": "https://kt.academy",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
 }
 ```
 
@@ -60,6 +82,22 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Work on a Multi-Library Project in Android – Locally and Remotely",
+  "desc": "In this article, we're going to talk about multi-library projects in Android. It's not something ordinary, but not something out of the ordinary either.  You may have come across multi-library projects in your line of work, or you may be looking into converting your library into sub-modules for better...",
+  "link": "/explore/articles/freecodecamp.org/working-on-a-multiple-library-project-in-android.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 
@@ -79,7 +117,9 @@ head:
 
 ---
 
-## droidcon
+## Android Community on a Global Scale - droidcon
+
+> droidcon.com
 
 ```component VPCard
 {
@@ -97,12 +137,15 @@ head:
 
 > kt.academy
 
-<SiteInfo
-  name="A Pattern for Composing Flow Operations"
-  desc="Extending and operating on top of your existing flows"
-  url="/explore/articles/kt.academy/pattern-for-composing-flows.md"
-  logo="https://kt.academy/logo.png"
-  preview="https://kt.academy/_next/image?url=https%3A%2F%2Fmarcinmoskala.com%2Fkt-academy-articles%2Frenatocosta%2Fpromotion%2Fpattern_for_composing_flows.jpg&w=1920&q=75"/>
+```component VPCard
+{
+  "title": "Item 28: Consider wrapping external APIs",
+  "desc": "Why we should wrap external APIs and how to do it.",
+  "link": "/explore/articles/kt.academy/ek-wrapping-api.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
 
 ---
 
@@ -110,12 +153,15 @@ head:
 
 > meetup.nhncloud.com
 
-<SiteInfo
-  name="PLT Hook 체크를 위한 Android so 파일 파싱 | NHN Cloud Meetup"
-  desc="PLT Hook 체크를 위한 Android so 파일 파싱"
-  url="/explore/articles/meetup.nhncloud.com/371.md"
-  logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
-  preview="https://image.toast.com/aaaadh/real/2023/techblog/NHNuD074uB77CuC6B0uB4DC%20MeetupPLT%20Hook%20uCCB4uD06CuB97C%20uC704uD55C%20Android%20so%20uD30CuC77C%20uD30CuC2F1uC12CuB124uC77C230829.jpg"/>
+```component VPCard
+{
+  "title": "PLT Hook 체크를 위한 Android so 파일 파싱 | NHN Cloud Meetup",
+  "desc": "PLT Hook 체크를 위한 Android so 파일 파싱",
+  "link": "/explore/articles/meetup.nhncloud.com/371.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
 ---
 

@@ -7,9 +7,9 @@ category:
   - Intellij Idea
   - References
 tag: 
+  - ide
   - java
   - jdk
-  - ide
   - jetbrains
   - intellij
   - intellij-idea
@@ -45,6 +45,13 @@ tag:
 ## Pluu Dev
 
 - [[메모] Actions on Save](https://pluu.github.io/blog/android/2024/04/28/actions_on_save/)
+
+---
+
+## 백엔드 개발자 웨지 블로그
+
+- [아직도 postman 쓰세요? Intellij http를 통해 api를 테스트해보자!](https://sihyung92.oopy.io/etc/intellij/2)
+- [코딩 할 때 ‘부대 지정’을 할 수 있다면?? 인텔리제이 bookmark 기능 알아보기](https://sihyung92.oopy.io/etc/intellij/4)
 
 ---
 

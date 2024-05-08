@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - yozm.wishket.com
   - meetup.nhncloud.com
   - python
@@ -65,9 +66,39 @@ head:
 
 ```component VPCard
 {
+  "title": "How to Use Object-Oriented Programming in Python – Explained With Examples",
+  "desc": "Object-oriented programming (OOP) is a style of programming that heavily relies on objects. These objects can have attributes and methods. While attributes store data, methods define behavior. Like many other programming languages, Python supports both OOP and functional programming. However, OOP becomes valuable when writing large-sized and complex programs. In...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-oop-in-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "How to Use DefaultDict in Python",
-  "desc": "Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In",
+  "desc": "Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In...",
   "link": "/explore/articles/freecodecamp.org/how-to-use-defaultdict-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Data Analysis with Python – How I Analyzed My Empire State Building Run-Up Performance",
+  "desc": "A tower running race is a race that you run up the stairs of a building. These happen around the world. I got the chance to participate in the Empire State Run Up in NYC, 2023 edition. > The Empire State Building Run-Up (ESBRU)—the world’s first and most",
+  "link": "/explore/articles/freecodecamp.org/empire-state-building-run-up-analysis-with-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Install Python on a Mac",
+  "desc": "Python is the most popular first language for programmers on a Mac. Until recently, the language's lack of standard development tooling, plus competing optional-but-essential development tools, meant a rocky start for Python beginners.  To cut through the confusion, I'll show you an up-to-date approach to install Python and set",
+  "link": "/explore/articles/freecodecamp.org/how-to-install-python-on-a-mac.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -14,9 +14,38 @@ tag:
   - docker
   - devops
   - podman
+head:
+  - - meta:
+    - property: og:title
+      content: Article(s) > You Don't Have to Use Docker Anymore
+    - property: og:description
+      content: You Don't Have to Use Docker Anymore
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/articles/towardsdatascience.com/you-dont-have-to-use-docker-anymore.html
+prev: /devops/podman/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Podman > Article(s)",
+  "desc": "Article(s)",
+  "link": "/devops/podman/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Docker > Article(s)",
+  "desc": "Article(s)",
+  "link": "/devops/docker/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -31,6 +60,8 @@ tag:
   "background": "rgba(53,88,118,0.2)"
 }
 ```
+
+> 2020.10.15
 
 In the ancient times of containers (really more like 4 years ago) _Docker_ was the only player in the container game. That's not the case anymore though and Docker is not _the only_, but rather _just another_ container engine on the landscape. Docker allows us to build, run, pull, push or inspect container images, but for each of these tasks there are other alternative tools, which might just do better job at it than Docker. So, let's explore the landscape and (just _maybe_) uninstall and forget about Docker altogether…
 

@@ -38,7 +38,7 @@ head:
 
 ---
 
-## towards data science
+## Towards Data Science
 
 > towardsdatascience.com
 
