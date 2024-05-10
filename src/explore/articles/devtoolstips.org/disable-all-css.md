@@ -18,9 +18,20 @@ head:
       content: Disable all CSS styles on the page
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/disable-all-css.html
+prev: /programming/css/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "CSS > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/css/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -35,6 +46,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2024.04.09
 
 To remove all CSS styles on a webpage, for example to test the accessibility of a page when styles are disabled, or to verify the order in which content is displayed, you can use the techniques below. Don't worry, the styles will be re-enabled when you refresh the page.
 

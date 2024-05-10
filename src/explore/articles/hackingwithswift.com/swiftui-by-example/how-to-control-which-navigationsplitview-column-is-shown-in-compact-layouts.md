@@ -143,7 +143,7 @@ You can add multiple inspectors if you want, although I'm not sure it's a good i
 {
   "title": "How to add advanced text styling using AttributedString | SwiftUI by Example",
   "desc": "How to add advanced text styling using AttributedString",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-advanced-text-styling-using-attributedstring.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-advanced-text-styling-using-attributedstring.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

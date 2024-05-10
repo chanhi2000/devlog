@@ -92,7 +92,7 @@ VStack {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to format text inside text views",
+  "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -112,7 +112,7 @@ VStack {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to format a TextField for numbers",
+  "title": "How to format a TextField for numbers | SwiftUI by Example",
   "desc": "How to format a TextField for numbers",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-a-textfield-for-numbers.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -122,7 +122,7 @@ VStack {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to force views to one side inside a stack using Spacer",
+  "title": "How to force views to one side inside a stack using Spacer | SwiftUI by Example",
   "desc": "How to force views to one side inside a stack using Spacer",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -132,7 +132,7 @@ VStack {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to draw a border inside a view",
+  "title": "How to draw a border inside a view | SwiftUI by Example",
   "desc": "How to draw a border inside a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-border-inside-a-view.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

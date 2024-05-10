@@ -40,7 +40,11 @@ head:
 
 - [Redirect 서버 리팩토링 - 파일럿 프로젝트](https://zuminternet.github.io/redirect-refactoring/)
 
-### <FontIcon icon="fa-brands fa-medium"/>
+### DZone
+
+- [Json Web Token: How to Secure a Spring Boot REST API](https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api)
+
+### <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`finda-tech` / 금융서비스 MSA 전환기 - DB 분리(1편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-db-%EB%B6%80-1%ED%8E%B8-63d09e7ebe0e)
 - [`finda-tech` / 금융서비스 MSA 전환기- 서버 간 비동기 메시지 기반 통신 처리(3편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-%EC%84%9C%EB%B2%84-%EA%B0%84-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B8%B0%EB%B0%98-%ED%86%B5%EC%8B%A0-%EC%B2%98%EB%A6%AC-3%ED%8E%B8-c0785860a3d5)
@@ -151,6 +155,10 @@ head:
 ### Hong's Store House
 
 - [[JAVA] `SynchronizedList` vs `CopyOnWriteArrayList`](https://asuraiv.blogspot.com/2020/02/java-synchronizedlist-vs.html)
+
+### Just try it!
+
+[Spring MVC의 PathPattern (`AntPathMatcher`, `PathPatternParser`)](https://moonsiri.tistory.com/203)
 
 ---
 

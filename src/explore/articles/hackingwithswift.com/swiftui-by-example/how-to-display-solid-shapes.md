@@ -106,7 +106,7 @@ Capsule()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to draw part of a solid shape using trim()",
+  "title": "How to draw part of a solid shape using trim() | SwiftUI by Example",
   "desc": "How to draw part of a solid shape using trim()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-part-of-a-solid-shape-using-trim.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -136,7 +136,7 @@ Capsule()
 
 ```component VPCard
 {
-  "title": "Article(s) > How to customize the display mode of NavigationSplitView",
+  "title": "How to customize the display mode of NavigationSplitView | SwiftUI by Example",
   "desc": "How to customize the display mode of NavigationSplitView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-display-mode-of-navigationsplitview.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -146,7 +146,7 @@ Capsule()
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI's built-in shapes",
+  "title": "SwiftUI's built-in shapes | SwiftUI by Example",
   "desc": "SwiftUI's built-in shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-in-shapes.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

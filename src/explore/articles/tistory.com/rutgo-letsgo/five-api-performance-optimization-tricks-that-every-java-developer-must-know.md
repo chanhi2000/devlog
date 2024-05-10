@@ -19,10 +19,25 @@ head:
     - property: og:description
       content: 모든 자바 개발자가 알아야 할 다섯 가지 API 성능 최적화 팁
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.html
+      content: https://chanhi2000.github.io/explore/articles/rutgo-letsgo.tistory.com/five-api-performance-optimization-tricks-that-every-java-developer-must-know.html
+prev: /programming/java-spring/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Spring > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/java-spring/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+[[toc]]
+
+---
 
 <SiteInfo
   name="모든 자바 개발자가 알아야 할 다섯 가지 API 성능 최적화 팁 — Enthusiastically, Steady, Slowly"
@@ -33,10 +48,8 @@ head:
 
 > 2024.04.20
 
-[[toc]]
+<!-- TODO: 내용 채우기 -->
 
 ---
-
-<!-- TODO: 내용 채우기 -->
 
 <TagLinks />

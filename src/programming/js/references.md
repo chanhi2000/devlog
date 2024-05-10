@@ -18,6 +18,12 @@ tag:
 
 ---
 
+## jQuery
+
+- [Upgrading jQuery: Working Towards a Healthy Web](https://blog.jquery.com/2024/04/17/upgrading-jquery-working-towards-a-healthy-web/)
+
+---
+
 ## Mozilla
 
 - [Developer essentials: JavaScript `console` methods](https://developer.mozilla.org/en-US/blog/learn-javascript-console-methods/)
@@ -26,7 +32,10 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [`yanhaijing` - Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg?ref=dailydev)
+- [`yanhaijing` / Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg?ref=dailydev)
+- [`documatic` / 5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
+
+---
 
 ## BLEX
 
@@ -59,13 +68,16 @@ tag:
 - [`@laetipark` - 프로그래머스/Javascript : 기초 문제 19일차](https://blex.me/@laetipark/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4javascript-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EC%A0%9C-19%EC%9D%BC%EC%B0%A8)
 - [`@laetipark` - 프로그래머스/Javascript : 기초 문제 20일차](https://blex.me/@laetipark/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4javascript-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EC%A0%9C-20%EC%9D%BC%EC%B0%A8)
 - [`@laetipark` - 프로그래머스/Javascript : 기초 문제 21일차](https://blex.me/@laetipark/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4javascript-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EC%A0%9C-21%EC%9D%BC%EC%B0%A8)
+- [`@laetipark` / Javascript : `var`, `let`, `const`, 스코프](https://blex.me/@laetipark/javascript-var-let-const-%EC%8A%A4%EC%BD%94%ED%94%84)
+- [`@laetipark` / Javascript : 프로토타입과 `this`, `call`, `apply`, `bind`](https://blex.me/@laetipark/javascript-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EA%B3%BC-this-call-apply-bind)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
-- [`nmc-techblog` - Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
-- [`bitsrc` - Frontend Application Security: Tips and Tricks](https://blog.bitsrc.io/frontend-application-security-tips-practices-f9be12169e66)
+- [`nmc-techblog` / Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
+- [`bitsrc` / Frontend Application Security: Tips and Tricks](https://blog.bitsrc.io/frontend-application-security-tips-practices-f9be12169e66)
+- [`jeongwoo` / 모던자바스크립트 스터디 3장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9E%A5-1174b71cdb3d)
 
 ---
 
@@ -85,6 +97,7 @@ tag:
 ## IT grow. 
 
 - [ES5 vs ES6 차이](https://dlsdn73.tistory.com/entry/ES5-vs-ES6-%EC%B0%A8%EC%9D%B4)
+- [[ js ] Immutability(변경불가성)](https://dlsdn73.tistory.com/entry/Immutability%EB%B3%80%EA%B2%BD%EB%B6%88%EA%B0%80%EC%84%B1)
 
 ---
 
@@ -126,7 +139,34 @@ tag:
 
 ## 코딩팩토리
 
-- [[JavaScript] 자바스크립트 문자열 길이(length) 구하는 방법](https://coding-factory.tistory.com/1054)
+- [[JavaScript] 자바스크립트 문자열 길이(`length`) 구하는 방법](https://coding-factory.tistory.com/1054)
+- [[JavaScript] 자바스크립트 문자열 특정 문자 위치 찾기(`indexOf`, `search`)](https://coding-factory.tistory.com/1055)
+- [[JavaScript] 자바스크립트 문자열 자르기(`substring`, `substr`, `slice`)](https://coding-factory.tistory.com/1056)
+- [[JavaScript] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/1057)
+
+---
+
+## 호기심 많은 오리의 지식 저장소
+
+- [[javascript] `Selection`과 `Range`를 통해 내맘대로 커서 조작하기 - Selection편](https://gdtbgl93.tistory.com/175)
+
+---
+
+## Marko
+
+- [JavaScript Tips](https://markodenic.com/javascript-tips)
+
+---
+
+## 용균
+
+- [마트가서 우유 하나 사고 아보카도 있으면 6개 사와](https://edykim.com/ko/post/milk-and-avocado/)
+
+---
+
+## 개발일지
+
+- [[이펙티브 타입스크립트] 1장 타입스크립트 알아보기](https://paran21.tistory.com/235)
 
 ---
 

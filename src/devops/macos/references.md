@@ -180,6 +180,7 @@ tag:
 ## 기계인간 John Grib
 
 - [`say` 명령어: macOS에서 음성으로 문자열을 읽게 한다](https://johngrib.github.io/wiki/cmd/say/)
+- [거실의 낡은 맥북에서 서재의 맥미니로 `ssh`로 접속하기](https://johngrib.github.io/wiki/article/ssh-macmini-macbook/)
 
 ---
 
@@ -223,6 +224,13 @@ tag:
 
 - [Apple Silicon Macbook에 Ubuntu ARM64 설치하는 방법 ( UTM )](http://webnautes.tistory.com/2103)
 - [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/2101)
+
+
+---
+
+## Smashing Magazine — For Web Designers And Developers
+
+- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)
 
 ---
 

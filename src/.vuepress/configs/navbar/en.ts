@@ -131,6 +131,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-nestjs',
         link: '/programming/js-nest/README.md',
       }, {
+        text: 'Next.js',
+        icon: 'iconfont icon-nextjs',
+        link: '/programming/js-next/README.md',
+      }, {
         text: 'GraphQL',
         icon: 'iconfont icon-graphql',
         link: '/programming/js-graphql/README.md',
@@ -264,7 +268,10 @@ export const navbarEn = navbar([
       }, {
         text: 'Linux - Fedora',
         icon: 'fa-brands fa-fedora',
-        link: '/devops/linux-fedora/README.md',
+        children: [
+          '/devops/linux-fedora/README.md',
+          '/devops/linux-fedora/centos/README.md',
+        ]
       }, {
         text: 'Linux - NixOS',
         icon: 'iconfont icon-nixos',
@@ -421,11 +428,20 @@ export const navbarEn = navbar([
         link: '/data-science/altibase/README.md',
       }, {
         text: 'Tibero',
-        icon: 'fas fa-magnifying-glass',
+        icon: 'fas fa-t',
         link: '/data-science/tibero/README.md',
+      },  {
+        text: 'Redis',
+        icon: 'iconfont icon-redis',
+        link: '/data-science/redis/README.md',
       }, {
-        text: '🪳Cockroach',
+        text: 'Cockroach',
+        icon: 'iconfont icon-cockroach-db',
         link: 'devops/django/README.md',
+      }, {
+        text: 'R',
+        icon: 'iconfont icon-r',
+        link: '/data-science/r/README.md',
       }, {
         text: 'Cassandra',
         icon: 'iconfont icon-apachecassandra',
@@ -546,8 +562,11 @@ export const navbarEn = navbar([
         ]
       }, {
         text: 'Public API',
-        icon: 'iconfont icon-api  ',
-        link: '/explore/api/README.md',
+        icon: 'iconfont icon-api',
+        children: [
+          '/explore/api/kakao/README.md',
+          '/explore/api/sk/README.md',
+        ]
       }, {
         text: 'YouTube',
         icon: 'fa-brands fa-youtube',

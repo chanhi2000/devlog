@@ -51,6 +51,7 @@ tag:
 - [USB to CAN 동글 우분투에서 테스트하기](https://blog.naver.com/chandong83/223407505153) 
 - [ESP32S3_ETH-CAN485 개발 보드 자료 링크(예제,회로도 등)](https://blog.naver.com/chandong83/223422514638)
 - [APM32E103-KIT 개발보드 스토어 판매!!!](https://blog.naver.com/chandong83/223435538204)
+- [인바디 체중계 - 다이얼 H30NWi 개봉기](https://blog.naver.com/chandong83/223441854445)
 
 ---
 

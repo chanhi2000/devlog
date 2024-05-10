@@ -1111,9 +1111,9 @@
     "topics": []
   }, {
     "repo": "Mintplex-Labs/anything-llm",
-    "desc": "The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.",
+    "desc": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
     "officialSite": "https://useanything.com",
-    "topics": ["agents", "ai-agents-framework", "chroma", "desktop-application", "document-chat", "langchain-app", "llama", "lmstudio", "local-llm", "localai", "ollama", "openai-chatgpt", "pinecone", "rag", "retrieval-augmented-generation", "vector-database"]
+    "topics": ["ai-agents", "chromadb", "crewai", "crewaiui", "desktop-app", "llama3", "llamacpp", "llm", "llm-application", "llm-webui", "lmstudio", "local-llm", "localai", "ollama", "rag", "vector-database", "webui"]
   }, {
     "repo": "SillyTavern/SillyTavern",
     "desc": "LLM Frontend for Power Users.",

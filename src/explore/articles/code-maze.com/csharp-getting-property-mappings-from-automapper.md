@@ -10,9 +10,28 @@ tag:
   - blog
   - code-maze.com
   - csharp
+head:  
+  - - meta:
+    - property: og:title
+      content: Article(s) > Represent the Relationship of Properties Using Property Mappings From AutoMapper
+    - property: og:description
+      content: Represent the Relationship of Properties Using Property Mappings From AutoMapper
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.html
+prev: /programming/csharp/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "CSharp > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/csharp/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -27,6 +46,10 @@ tag:
   "background": "rgba(22,22,22,0.2)"
 }
 ```
+
+> 2024.04.21
+
+<!-- TODO: 작성 -->
 
 ---
 

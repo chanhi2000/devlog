@@ -94,6 +94,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "컴퓨터 vs 책: B급 프로그래머",
+  "desc": "컴퓨터와 책에 대한 블로그입니다.",
+  "link": "https://jhrogue.blogspot.com/search/label/B%EA%B8%89%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8",
+  "logo": "https://jhrogue.blogspot.com/favicon.ico",
+  "background": "rgba(82.151.183,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Dev Event - 개발자 행사는 모두 데브이벤트 웹에서!",
   "desc": "데브이벤트 웹에서 개발자 행사를 놓치지 마세요! 개발자를 위한 {웨비나, 컨퍼런스, 해커톤, 네트워킹} 소식을 알려드립니다.",
   "link": "https://dev-event.vercel.app/events",
@@ -288,11 +298,41 @@ tag:
 
 ```component VPCard
 {
+  "title": "Blog - LINE ENGINEERING",
+  "desc": "2022-LINE-engineering-site",
+  "link": "https://engineering.linecorp.com/ko/blog/",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "뱅크샐러드 공식 블로그 | 메인",
+  "desc": "뱅크샐러드의 공식 블로그입니다. 뱅크샐러드의 기술, 문화, 뉴스, 행사 등 최신 소식 및 뱅크샐러드가 겪은 다양한 경험을 공유합니다.",
+  "link": "https://blog.banksalad.com",
+  "logo": "https://blog.banksalad.com/favicon-32x32.png",
+  "background": "rgba(98,198,152,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
   "desc": "Everyday Engineering Challenges",
   "link": "https://blog.ideaharbour.site/engineering/",
   "logo": "https://blog.ideaharbour.site/engineering/wp-content/uploads/sites/3/2024/03/cropped-android-chrome-512x512-1-192x192.png",
   "background": "rgba(27,132,21,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스",
+  "desc": "44BITS는 IT 뉴스, 프로그래밍, 클라우드, 컨테이너, 리눅스 등을 주로 다루는 기술 블로그입니다.",
+  "link": "https://www.44bits.io/ko",
+  "logo": "https://d2uleea4buiacg.cloudfront.net/assets/favicon.png",
+  "background": "rgba(74,80,86,0.2)"
 }
 ```
 

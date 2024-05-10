@@ -126,6 +126,12 @@ head:
 
 ---
 
+## Notion
+
+- [React Native 2020](https://www.notion.so/React-Native-2020-444084ec7aa44a509df33f8a3ae2edb3)
+
+---
+
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about React](https://dev.to/t/react)
@@ -137,7 +143,6 @@ head:
 - [Build your React App Faster!](https://dev.to/amanjagdev/build-your-react-app-faster-2bec)
 - [JavaScript: How to Remove Duplicate Values from Arrays](https://dev.to/will_devs/javascript-how-to-remove-duplicate-values-from-arrays-lf0)
 - [My notes about conducting a massive refactor in a Vue.js website](https://dev.to/marianapicolo/my-notes-about-conducting-a-massive-refactor-in-a-vue-js-website-bo7)
-- [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
 - [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
 - [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
 - [WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
@@ -227,7 +232,6 @@ head:
 - [ChatGPT React Course – Code Your Own ChatGPT Clone](https://www.freecodecamp.org/news/chatgpt-react-course)
 - [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
 - [How to Use React Server Components – A Beginner's Guide](https://www.freecodecamp.org/news/react-server-components-for-beginners/)
-- [JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
 - [TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers)
 - [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://www.freecodecamp.org/news/improve-reactjs-code)
 - [How to Use GraphQL](https://www.freecodecamp.org/news/graphql-database-tutorial)
@@ -269,7 +273,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
 - [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
@@ -300,8 +304,11 @@ head:
 - [Microtask Queue + RxJS + Angular](https://itnext.io/microtask-queue-rxjs-angular-ac3d8612d3f6)
 - [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
 - [A Modern Approach to React Development](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)
-- [`junghan92` - (번역) 리액트 컴파일러의 타입 시스템](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EC%9D%98-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-177486489096)
-- [`netflixtechblog` - Introducing SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
+- [`junghan92` / (번역) 리액트 컴파일러의 타입 시스템](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EC%9D%98-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-177486489096)
+- [`netflixtechblog` / Introducing SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
+- [`hayanmind-tech-blog-kr` / 3항 연산자의 재발견](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
+- [`lokesh-prajapati` / JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
+- [`javascript.plainenglish` / 4 React Tips to Instantly Improve Your Code](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)
 
 ---
 
@@ -327,6 +334,7 @@ head:
 ## Vercel
 
 - [Containing multi-site management within a single codebase](https://vercel.com/blog/wunderman-thompson-composable-workflow)
+- [Building an interactive 3D event badge with React Three Fiber](https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber)
 
 ---
 
@@ -670,6 +678,36 @@ https://o-yeon.tistory.com/227
 ## 개발의 올바르지 않은 용례
 
 - [React 19? 18.3 먼저 살펴보기](https://usage.tistory.com/218)
+
+---
+
+## Hire Top 1% of Web Developers or Get a Job
+
+- [Creating Mock API using Mirage in a React application](https://soshace.com/creating-mock-api-using-mirage-in-a-react-application)
+
+---
+
+## 김정환블로그
+
+- [리액트19 베타](https://jeonghwan-kim.github.io/2024/05/11/react19-beta)
+
+---
+
+## Unidev
+
+- [HOC와 UI 컴포넌트를 결합한 선언적인 비즈니스 컴포넌트](https://univdev.page/posts/declarative-programming-with-hoc/)
+
+---
+
+## takeU
+
+- [Create React App / Vite 프록시 설정](https://takeu.tistory.com/391)
+
+---
+
+## Josh W Comeau
+
+- [CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)
 
 ---
 

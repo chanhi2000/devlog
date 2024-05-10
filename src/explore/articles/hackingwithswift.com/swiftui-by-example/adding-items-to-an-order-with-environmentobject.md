@@ -216,7 +216,7 @@ We'll come back to that shortly, but first we need to make sure it's working by 
 {
   "title": "Adding TabView and tabItem() | SwiftUI by Example",
   "desc": "Adding TabView and tabItem()",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/adding-tabview-and-tabitem.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-tabview-and-tabitem.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

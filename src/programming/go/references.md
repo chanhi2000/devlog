@@ -32,7 +32,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [How Go fixed everything that was wrong with programming](https://medium.com/@jankammerath/how-go-fixed-everything-that-was-wrong-with-programming-1b599a1055a8)
 - [Stop Using DTOs in Go, It's Not Java](https://dsysd-dev.medium.com/stop-using-dtos-in-go-its-not-java-96ef4794481a)

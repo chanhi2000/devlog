@@ -22,4 +22,10 @@ tag:
 
 ---
 
+## 재즐보프
+
+- [ubuntu에서 도메인 변경하는 방법](https://blog.naver.com/isc0304/223443494838)
+
+---
+
 <TagLinks />

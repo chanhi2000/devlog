@@ -45,6 +45,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "DevTools Tips", 
+  "desc": "The collection of tips useful for web development.", 
+  "link": "https://devtoolstips.org", 
+  "logo": "https://devtoolstips.org/assets/logo-small.png", 
+  "background": "rgba(27,44,43,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -136,6 +146,122 @@ head:
   "link": "/explore/articles/meetup.nhncloud.com/371.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+---
+
+## Devtool Tips
+
+> devtoolstips.org
+
+```component VPCard
+{
+  "title": "See the accessibility tree",
+  "desc": "Devtools Tips > See the accessibility tree",
+  "link": "/explore/articles/devtoolstips.org/see-accessibility-tree.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Name evaluated files with the sourceURL pragma",
+  "desc": "Devtools Tips > Name evaluated files with the sourceURL pragma",
+  "link": "/explore/articles/devtoolstips.org/name-evaluated-files.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Simulate the Window Controls Overlay feature for PWA",
+  "desc": "Devtools Tips > Simulate the Window Controls Overlay feature for PWA",
+  "link": "/explore/articles/devtoolstips.org/simulate-pwa-wco.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Inspect the user-agent DOM",
+  "desc": "Devtools Tips > Inspect the user-agent DOM",
+  "link": "/explore/articles/devtoolstips.org/inspect-user-agent-dom.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Explain console errors by using artificial intelligence",
+  "desc": "Devtools Tips > Explain console errors by using artificial intelligence",
+  "link": "/explore/articles/devtoolstips.org/explain-errors-with-ai.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Enable DevTools in Safari",
+  "desc": "Devtools Tips > Enable DevTools in Safari",
+  "link": "/explore/articles/devtoolstips.org/enable-safari-devtools.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Block DevTools",
+  "desc": "Devtools Tips > Block DevTools",
+  "link": "/explore/articles/devtoolstips.org/block-devtools.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "List all event listeners on the entire page",
+  "desc": "Devtools Tips > List all event listeners on the entire page",
+  "link": "/explore/articles/devtoolstips.org/list-all-event-listeners.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Debug popups that appear on hover",
+  "desc": "Devtools Tips > Debug popups that appear on hover",
+  "link": "/explore/articles/devtoolstips.org/debug-popups-on-hover.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Force execution, skipping breakpoints, when paused",
+  "desc": "Devtools Tips > Force execution, skipping breakpoints, when paused",
+  "link": "/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "See the viewport size",
+  "desc": "Devtools Tips > See the viewport size",
+  "link": "/explore/articles/devtoolstips.org/see-viewport-size.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
 }
 ```
 

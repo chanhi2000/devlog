@@ -4,15 +4,19 @@ title: Xcode
 description: Xcode
 icon: iconfont icon-xcode
 category:
+  - IDE
   - Xcode
-  - Tool
 tag:
+  - ide
+  - xcode
+  - apple
   - swift
   - objc
   - objective-c
-  - xcode
   - ios
   - macos
+  - productivity
+  - programming
 ---
 
 # {{ $frontmatter.description }} 관련

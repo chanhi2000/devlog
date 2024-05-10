@@ -37,7 +37,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [C pointers guide in 2023](https://levelup.gitconnected.com/c-pointers-guide-in-2023-82d5ef8afb98)
 - [Behavior Trees for ROS2 — Part 1: Unlocking Advanced Robotic Decision-Making and Control](https://medium.com/@nullbyte.in/behavior-trees-for-ros2-part-1-unlocking-advanced-robotic-decision-making-and-control-7856582fb812)

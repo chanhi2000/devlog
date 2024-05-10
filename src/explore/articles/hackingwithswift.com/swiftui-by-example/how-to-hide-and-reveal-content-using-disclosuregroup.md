@@ -122,7 +122,7 @@ You can of course modify the Boolean's state programmatically to control whether
 {
   "title": "Building a menu using List | SwiftUI by Example",
   "desc": "Building a menu using List",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

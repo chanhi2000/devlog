@@ -20,7 +20,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [$this vs parent vs self vs static](https://medium.com/@erlandmuchasaj/this-vs-parent-vs-self-vs-static-2e1e89a42dca)
 - [PHPMD: A PHP Code Smells Detector](https://mprtmma.medium.com/phpmd-a-php-code-smells-detector-d9c014d212a6)
@@ -64,6 +64,10 @@ tag:
 - [5.04. 문자열 자르기](https://ysedeveloper.tistory.com/entry/504-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0)
 - [5.05. 문자열 줄 단위로 자르기](https://ysedeveloper.tistory.com/entry/505-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%A4%84-%EB%8B%A8%EC%9C%84%EB%A1%9C-%EC%9E%90%EB%A5%B4%EA%B8%B0)
 - [5.06. 문자열 바꾸기](https://ysedeveloper.tistory.com/entry/506-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+- [6장. 유효성 검사와 데이터 정제](https://ysedeveloper.tistory.com/entry/6%EC%9E%A5-%EC%9C%A0%ED%9A%A8%EC%84%B1-%EA%B2%80%EC%82%AC%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EC%A0%9C)
+- [6.01. 값이 비어있는지 검사하기](https://ysedeveloper.tistory.com/entry/601-%EA%B0%92%EC%9D%B4-%EB%B9%84%EC%96%B4%EC%9E%88%EB%8A%94%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
+- [6.02. 값이 숫자인지 검사하기](https://ysedeveloper.tistory.com/entry/602-%EA%B0%92%EC%9D%B4-%EC%88%AB%EC%9E%90%EC%9D%B8%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
+- [6.03. 값이 알파벳과 숫자로만 이루어져 있는지 검사하기](https://ysedeveloper.tistory.com/entry/603-%EA%B0%92%EC%9D%B4-%EC%95%8C%ED%8C%8C%EB%B2%B3%EA%B3%BC-%EC%88%AB%EC%9E%90%EB%A1%9C%EB%A7%8C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A0%B8-%EC%9E%88%EB%8A%94%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
 
 ---
 

@@ -119,14 +119,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/gradle/articles/README.md',
             articleSidebars.freecodecamp("gradle"),
-            {
-              text: 'shopify.engineering',
-              collapsible: true,
-              icon: 'https://cdn.shopify.com/static/shopify-favicon.png',
-              children: [
-                '/explore/articles/shopify.engineering/managing-native-code-react-native.md',
-              ]
-            }
+            articleSidebars.shopify("gradle"),
           ]
         }
       ]
@@ -167,6 +160,7 @@ export const sidebarEn = sidebar({
             articleSidebars.nhn("java"),
             articleSidebars.d2("java"),
             articleSidebars.ktAcademy("kotlin"),
+            articleSidebars.linecorp("kotlin"),
           ]
         }
       ]
@@ -188,26 +182,13 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/java-spring/articles/README.md',
             articleSidebars.freecodecamp("java-spring"),
-            {
-              text: 'tistory.com/rutgo-letsgo',
-              collapsible: true,
-              icon: 'https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg',
-              children: [
-                '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
-              ]
-            },
+            articleSidebars.rutgoLetsgo("java-spring"),
             articleSidebars.nhn("java-spring"),
             articleSidebars.d2("java-spring"), 
             articleSidebars.woowahan("java-spring"),
             articleSidebars.gangnamunni("java-spring"),
-            {
-              text: 'dev.gmarket.com',
-              collapsible: true,
-              icon: 'https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515',
-              children: [
-                '/explore/articles/dev.gmarket.com/103.md'
-              ]
-            }
+            articleSidebars.gmarket("java-spring"),
+            articleSidebars.zuminternet("java-spring"),
           ]
         }
       ]
@@ -239,6 +220,7 @@ export const sidebarEn = sidebar({
             articleSidebars.yozm("java-android"),
             articleSidebars.nhn("java-android"),
             articleSidebars.droidcon("java-android"),
+            articleSidebars.antonioleiva("kotlin-android"),
           ]
         }
       ]
@@ -286,9 +268,10 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
+            hackingwithswift(),
             articleSidebars.douggregor("swift"), 
             articleSidebars.donnywals("swift"), 
-            hackingwithswift(),
+            articleSidebars.zuminternet("swift"),
           ]
         }
       ]
@@ -311,6 +294,27 @@ export const sidebarEn = sidebar({
             '/programming/js/articles/README.md',
             articleSidebars.sitepoint("js"),
             articleSidebars.nhn("js"),
+            {
+              text: 'devtoolstips.org',
+              collapsible: true,
+              icon: 'https://devtoolstips.org/assets/favicon.ico',
+              children: [
+                '/explore/articles/devtoolstips.org/see-accessibility-tree.md',
+                '/explore/articles/devtoolstips.org/name-evaluated-files.md',
+                '/explore/articles/devtoolstips.org/simulate-pwa-wco.md',
+                '/explore/articles/devtoolstips.org/inspect-user-agent-dom.md',
+                '/explore/articles/devtoolstips.org/explain-errors-with-ai.md',
+                '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
+                '/explore/articles/devtoolstips.org/block-devtools.md',
+                '/explore/articles/devtoolstips.org/list-all-event-listeners.md',
+                '/explore/articles/devtoolstips.org/debug-popups-on-hover.md',
+                '/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md',
+                '/explore/articles/devtoolstips.org/see-viewport-size.md',
+                '/explore/articles/devtoolstips.org/custom-object-formatters.md',
+                '/explore/articles/devtoolstips.org/inspect-devtools-with-devtools.md',
+                '/explore/articles/devtoolstips.org/create-your-own-devtools-theme.md',
+              ]
+            }, 
           ]
         }
       ]
@@ -352,27 +356,6 @@ export const sidebarEn = sidebar({
             '/programming/js-node/articles/README.md',
             articleSidebars.freecodecamp('js-node'), 
             articleSidebars.yozm("js-node"),
-            {
-              text: 'devtoolstips.org',
-              collapsible: true,
-              icon: 'https://devtoolstips.org/assets/favicon.ico',
-              children: [
-                '/explore/articles/devtoolstips.org/see-accessibility-tree.md',
-                '/explore/articles/devtoolstips.org/name-evaluated-files.md',
-                '/explore/articles/devtoolstips.org/simulate-pwa-wco.md',
-                '/explore/articles/devtoolstips.org/inspect-user-agent-dom.md',
-                '/explore/articles/devtoolstips.org/explain-errors-with-ai.md',
-                '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
-                '/explore/articles/devtoolstips.org/block-devtools.md',
-                '/explore/articles/devtoolstips.org/list-all-event-listeners.md',
-                '/explore/articles/devtoolstips.org/debug-popups-on-hover.md',
-                '/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md',
-                '/explore/articles/devtoolstips.org/see-viewport-size.md',
-                '/explore/articles/devtoolstips.org/custom-object-formatters.md',
-                '/explore/articles/devtoolstips.org/inspect-devtools-with-devtools.md',
-                '/explore/articles/devtoolstips.org/create-your-own-devtools-theme.md',
-              ]
-            }, 
             articleSidebars.d2("js-node"), 
             articleSidebars.nhn("js-node"),
             articleSidebars.johnnyreilly("js-node"),
@@ -396,8 +379,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-react/articles/README.md',
-            articleSidebars.yozm("js-react"),
             articleSidebars.freecodecamp("js-react"),
+            articleSidebars.yozm("js-react"),
+            articleSidebars.zuminternet("js-react"),
           ]
         }
       ]
@@ -466,6 +450,23 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Next.js',
+      collapsible: true,
+      icon: 'iconfont icon-nextjs',
+      children: [
+        '/programming/js-next/README.md',
+        '/programming/js-next/references.md',
+        '/programming/js-next/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-next/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'GraphQL',
       collapsible: true,
       icon: 'iconfont icon-graphql',
@@ -487,6 +488,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-supabase/articles/README.md',
+            articleSidebars.zuminternet("js-supabase"),
           ]
         }
       ],
@@ -666,6 +668,15 @@ export const sidebarEn = sidebar({
         '/programming/lua/references.md',
         '/programming/lua/github.md',
         '/programming/lua/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/lua/articles/README.md',
+            articleSidebars.linecorp("lua"),
+          ]
+        },
       ]
     }, {
       text: 'CSharp',
@@ -684,14 +695,7 @@ export const sidebarEn = sidebar({
             '/programming/csharp/articles/README.md',
             articleSidebars.freecodecamp("csharp"), 
             articleSidebars.johnnyreilly("csharp"),
-            {
-              text: 'code-maze.com',
-              collapsible: true,
-              icon: '/images/content/code-maze.com/favicon.png',
-              children: [
-                '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
-              ]
-            }
+            articleSidebars.codemaze("csharp"),
           ]
         }
       ]
@@ -906,6 +910,14 @@ export const sidebarEn = sidebar({
       children: [
         '/tool/xcode/README.md',
         '/tool/xcode/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/xcode/articles/README.md',            
+          ]
+        }
       ]
     }, {
       text: 'Intellij Idea',
@@ -1243,8 +1255,19 @@ export const sidebarEn = sidebar({
       children: [
         '/devops/linux-fedora/README.md',
         '/devops/linux-fedora/env-setup.md',
+        {
+          text: 'CentOS',
+          collapsible: true,
+          icon: 'fa-brands fa-ubuntu',
+          children: [
+            '/devops/linux-fedora/centos/README.md',
+            '/devops/linux-fedora/centos/references.md',
+            '/devops/linux-fedora/centos/youtube.md',
+          ]
+        }, 
         '/devops/linux-fedora/references.md',
         '/devops/linux-fedora/youtube.md',
+        
       ]
     }, {
       text: 'Linux - NixOS',
@@ -1738,12 +1761,48 @@ export const sidebarEn = sidebar({
         '/data-science/tibero/query.md',
       ]
     }, {
-      text: '🪳Cockroach',
+      text: 'Redis',
       collapsible: true,
+      icon: 'iconfont icon-redis',
+      children: [
+        '/data-science/redis/README.md',
+        '/data-science/redis/references.md',
+        '/data-science/redis/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/redis/articles/README.md',
+            articleSidebars.zuminternet("redis"),
+          ]
+        },
+      ]
+    }, {
+      text: 'Cockroach',
+      collapsible: true,
+      icon: 'iconfont icon-cockroach-db',
       children: [
         '/data-science/cockroach/README.md',
         '/data-science/cockroach/query.md',
         '/data-science/cockroach/references.md',
+      ]
+    }, {
+      text: 'R',
+      collapsible: true,
+      icon: 'iconfont icon-r',
+      children: [
+        '/data-science/r/README.md',
+        '/data-science/r/references.md',
+        '/data-science/r/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/r/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'Cassandra',
@@ -1763,7 +1822,7 @@ export const sidebarEn = sidebar({
           ]
         }
       ]
-    },  {
+    }, {
       text: 'Hadoop',
       collapsible: true,
       icon: 'iconfont icon-hadoop',
@@ -1891,6 +1950,14 @@ export const sidebarEn = sidebar({
             '/explore/api/kakao/push.md',
             '/explore/api/kakao/references.md'
           ]
+        }, {
+          text: 'SK open API',
+          collapsible: true,
+          icon: 'iconfont icon-sk',
+          children: [
+            '/explore/api/sk/README.md',
+            '/explore/api/sk/local.md',
+          ]
         },
         '/explore/api/list.md',
         '/explore/api/popular.md',
@@ -1924,89 +1991,26 @@ export const sidebarEn = sidebar({
         articleSidebars.freecodecamp(), 
         articleSidebars.frontendmaster(),
         articleSidebars.devkuma(),
-        {
-          text: 'devtoolstips.org',
-          collapsible: true,
-          icon: 'https://devtoolstips.org/assets/favicon.ico',
-          children: [
-            '/explore/articles/devtoolstips.org/disable-all-css.md',
-            '/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.md',
-            '/explore/articles/devtoolstips.org/see-accessibility-tree.md',
-            '/explore/articles/devtoolstips.org/name-evaluated-files.md',
-            '/explore/articles/devtoolstips.org/simulate-pwa-wco.md',
-            '/explore/articles/devtoolstips.org/inspect-user-agent-dom.md',
-            '/explore/articles/devtoolstips.org/explain-errors-with-ai.md',
-            '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
-            '/explore/articles/devtoolstips.org/block-devtools.md',
-            '/explore/articles/devtoolstips.org/list-all-event-listeners.md',
-            '/explore/articles/devtoolstips.org/debug-popups-on-hover.md',
-            '/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md',
-            '/explore/articles/devtoolstips.org/see-viewport-size.md',
-            '/explore/articles/devtoolstips.org/convert-image-to-data-url.md',
-            '/explore/articles/devtoolstips.org/emulate-user-gesture-in-console.md',
-            '/explore/articles/devtoolstips.org/find-the-offset-parent-of-an-element.md',
-            '/explore/articles/devtoolstips.org/highlight-elements-from-selector.md',
-            '/explore/articles/devtoolstips.org/detect-3p-cookies.md',
-            '/explore/articles/devtoolstips.org/custom-object-formatters.md',
-            '/explore/articles/devtoolstips.org/inspect-devtools-with-devtools.md',
-            '/explore/articles/devtoolstips.org/create-your-own-devtools-theme.md',
-            '/explore/articles/devtoolstips.org/find-memory-leaks.md',
-            '/explore/articles/devtoolstips.org/custom-headers-in-network-table.md',
-            '/explore/articles/devtoolstips.org/find-rule-that-causes-style.md',
-            '/explore/articles/devtoolstips.org/debug-safari-mac-webapps.md',
-          ]
-        }, 
+        articleSidebars.devtoolstips(),
         articleSidebars.piccalilli(),
         articleSidebars.sitepoint(),
         articleSidebars.gangnamunni(),
         articleSidebars.towardsdatascience(),
         articleSidebars.douggregor(), 
         articleSidebars.donnywals(), 
-        hackingwithswift(), 
+        hackingwithswift(),
         articleSidebars.ktAcademy(),
         articleSidebars.johnnyreilly(),
-        {
-          text: 'code-maze.com',
-          collapsible: true,
-          icon: '/images/content/code-maze.com/favicon.png',
-          children: [
-            '/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md'
-          ]
-        },
+        articleSidebars.codemaze(),
         articleSidebars.droidcon(),
-        {
-          text: 'shopify.engineering',
-          collapsible: true,
-          icon: 'https://cdn.shopify.com/static/shopify-favicon.png',
-          children: [
-            '/explore/articles/shopify.engineering/managing-native-code-react-native.md',
-          ]
-        }, {
-          text: 'tistory.com/rutgo-letsgo',
-          collapsible: true,
-          icon: 'https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg',
-          children: [
-            '/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md',
-          ]
-        }, 
+        articleSidebars.shopify(),
+        articleSidebars.rutgoLetsgo(),
         articleSidebars.woowahan(), 
         articleSidebars.d2(), 
         articleSidebars.nhn(),
-        {
-          text: 'engineering.linecorp.com',
-          collapsible: true,
-          icon: 'https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a',
-          children: [
-            '/explore/articles/engineering.linecorp.com/atomic-cache-stampede-redis-lua-script.md',
-          ]
-        }, {
-          text: 'dev.gmarket.com',
-          collapsible: true,
-          icon: 'https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515',
-          children: [
-            '/explore/articles/dev.gmarket.com/103.md'
-          ]
-        }
+        articleSidebars.linecorp(),
+        articleSidebars.gmarket(),
+        articleSidebars.zuminternet(),
       ]
     }, {
       text: 'Career',

@@ -124,7 +124,7 @@ Again, you can attach that to individual list rows if you want more control.
 {
   "title": "Composing views to create a list row | SwiftUI by Example",
   "desc": "Composing views to create a list row",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -134,7 +134,7 @@ Again, you can attach that to individual list rows if you want more control.
 {
   "title": "Building a menu using List | SwiftUI by Example",
   "desc": "Building a menu using List",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

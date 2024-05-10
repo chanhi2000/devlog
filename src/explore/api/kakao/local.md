@@ -2,11 +2,11 @@
 lang: ko-KR
 title: 로컬
 description: Kakao > 로컬
-icon: fas fa-earth-americas
+icon: fas fa-map-location-dot
 category:
   - API 
   - Kakao
-  - 로컬
+  - Geolocation
 tag: 
   - kakao
   - api
@@ -15,7 +15,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

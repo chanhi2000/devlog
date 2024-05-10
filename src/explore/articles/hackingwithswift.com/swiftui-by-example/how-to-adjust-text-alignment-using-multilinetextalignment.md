@@ -99,7 +99,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to customize stack layouts with alignment and spacing",
+  "title": "How to customize stack layouts with alignment and spacing | SwiftUI by Example",
   "desc": "How to customize stack layouts with alignment and spacing",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-stack-layouts-with-alignment-and-spacing.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -109,7 +109,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust the position of a view using its offset",
+  "title": "How to adjust the position of a view using its offset | SwiftUI by Example",
   "desc": "How to adjust the position of a view using its offset",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-position-of-a-view-using-its-offset.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -119,7 +119,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust the opacity of a view",
+  "title": "How to adjust the opacity of a view | SwiftUI by Example",
   "desc": "How to adjust the opacity of a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-opacity-of-a-view.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -129,9 +129,9 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust views by tinting, and desaturating, and more",
-  "desc": "How to adjust views by tinting, and desaturating, and more",
-  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-views-by-tinting-and-desaturating-and-more.md",
+  "title": "How to adjust views by tinting, desaturating, and more | SwiftUI by Example",
+  "desc": "How to adjust views by tinting, desaturating, and more",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-views-by-tinting-desaturating-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

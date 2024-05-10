@@ -108,7 +108,7 @@ NavigationSplitView {
 {
   "title": "How to make two views the same width or height | SwiftUI by Example",
   "desc": "How to make two views the same width or height",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-two-views-the-same-width-or-height.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-two-views-the-same-width-or-height.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

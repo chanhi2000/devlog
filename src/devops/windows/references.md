@@ -156,12 +156,16 @@ tag:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [2024년 1월 윈도우10 KB5034441 업데이트 에러 (`0x80070643`)](https://www.skyer9.pe.kr/wordpress/?p=9017)
+
+---
+
 ## Misc
 
 - [DiskClick](https://deervo.itch.io/diskclick)
 
 ---
-
-
 
 <TagLinks />

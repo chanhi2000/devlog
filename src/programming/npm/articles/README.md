@@ -78,6 +78,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "웹 애플리케이션 페이지를 패키지로 개발해 본 경험 공유 | 우아한형제들 기술블로그",
+  "desc": "웹 애플리케이션 페이지를 패키지로 개발해 본 경험 공유",
+  "link": "/explore/articles/techblog.woowahan.com/16910.md",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
+}
+```
+
 ---
 
 <TagLinks />

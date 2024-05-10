@@ -46,4 +46,10 @@ tag:
 
 ---
 
+## LinuxTechi: Linux Howtos, Commands and Tutorials
+
+- [How to Configure NGINX as TCP/UDP Load Balancer in Linux](https://www.linuxtechi.com/configure-nginx-tcp-udp-loadbalancer-linux)
+
+---
+
 <TagLinks />

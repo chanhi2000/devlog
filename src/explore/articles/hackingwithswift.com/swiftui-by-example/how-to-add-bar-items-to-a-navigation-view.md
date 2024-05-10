@@ -208,7 +208,7 @@ NavigationStack {
 {
   "title": "Adding items to an order with @EnvironmentObject | SwiftUI by Example",
   "desc": "Adding items to an order with @EnvironmentObject",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/adding-items-to-an-order-with-environmentobject.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-items-to-an-order-with-environmentobject.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

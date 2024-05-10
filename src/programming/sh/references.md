@@ -48,7 +48,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`vinodhakumara2681997` - CheatSheet: Linux Commands for DevOps](https://vinodhakumara2681997.medium.com/cheatsheet-linux-commands-for-devops-80be32b88656)
 
@@ -266,6 +266,7 @@ tag:
 - [`touch`: change file access and modification times](https://johngrib.github.io/wiki/cmd/touch/)
 - [`iconv` 명령어](https://johngrib.github.io/wiki/cmd/iconv/)
 - [`ln` 명령어](https://johngrib.github.io/wiki/cmd/ln/)
+- [`split` 명령어](https://johngrib.github.io/wiki/cmd/split/)
 
 ---
 

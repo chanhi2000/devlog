@@ -141,7 +141,7 @@ The modifier's name, `visualEffect()`, should make it clear that any adjustments
 {
   "title": "How to adjust the size of a view relative to its container | SwiftUI by Example",
   "desc": "How to adjust the size of a view relative to its container",
-  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-size-of-a-view-relative-to-its-containe",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-size-of-a-view-relative-to-its-container.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

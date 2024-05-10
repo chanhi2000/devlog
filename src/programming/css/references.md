@@ -145,7 +145,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [30 Practical Tips for Effective User Interface Design](https://uxplanet.org/30-practical-tips-for-effective-user-interface-design-59e1e46ac370)
 
@@ -407,6 +407,10 @@ tag:
 
 - [How to Add a Smooth Scroll in CSS](https://www.lambdatest.com/blog/smooth-scroll-in-css/)
 - [How to Set CSS Media Query For Portrait Orientation](https://www.lambdatest.com/blog/css-media-query-for-portrait/)
+
+## Cruncher
+
+- [Printing music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 
 ---
 

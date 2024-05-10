@@ -19,7 +19,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Django Model Relations(Tracking the models)](https://awstip.com/django-model-relations-tracking-the-models-c03a65e8d76e)
 
@@ -47,6 +47,30 @@ tag:
 ## Photon Designer
 
 - [Create a quiz app with HTMX and Django in 8 mins ☑️](https://www.photondesigner.com/articles/quiz-htmx)
+
+---
+
+## Kani Kim Dev
+
+- [[번역] Django REST Framework(장고 레스트 프레임워크): 장점과 단점 그리고 이의 대체제](https://kimkani.tistory.com/64)
+
+---
+
+## TestDriven.io
+
+- [Building Reusable Components in Django](https://testdriven.io/blog/django-reusable-components/)
+
+---
+
+## Real Python
+
+- [Asynchronous Tasks With Django and Celery](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [파이썬 대표 프레임워크 ‘장고’의 개발 트랜드는?··· 장고 개발자 설문조사 2024 핵심 내용](https://www.ciokorea.com/news/336466)
 
 ---
 

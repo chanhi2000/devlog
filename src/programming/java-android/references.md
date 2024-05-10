@@ -4,6 +4,7 @@ title: References
 description: Android > References
 icon: iconfont icon-share
 category:
+  - Java
   - Android 
   - References
 tag: 
@@ -52,7 +53,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
 - [How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
@@ -178,6 +179,13 @@ tag:
 ## 허접샴푸로그래밍
 
 - [[배달의 민족] 따라만들기 8-2편 (Repository, ViewModel, MVVM)](https://programmar.tistory.com/m/40)
+- [[Jetpack Compose] 카운트 다운 타이머](https://programmar.tistory.com/50)
+
+---
+
+## 개발자 키우기
+
+- [[안드로이드/Android] WebView 세팅 속성](https://superwony.tistory.com/17)
 
 ---
 
@@ -288,6 +296,63 @@ tag:
 ## 찰스의 안드로이드
 
 - [멀티 모듈 프로젝트에서 BuildConfig를 단일로 관리하기](https://charlezz.com/?p=46662)
+
+---
+
+## XMobile
+
+- [[Android] SSL 인증서 적용해보기](https://xmobile.tistory.com/entry/Android-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
+
+---
+
+## 메이쁘
+
+- [[Android][WebView] 안드로이드 웹뷰 사용한 앱 디버깅 하는 방법! (Feat. 크롬 버전 - Chromium)](https://maivve.tistory.com/159)
+
+---
+
+## 박상권의 삽질블로그
+
+- [[안드로이드/Android]6.0 마시멜로우 권한체크하고 최적화하기](http://gun0912.tistory.com/55)
+
+---
+
+## Jungwoon Blog
+
+- [ExoPlayer 정리](https://jungwoon.github.io/android/library/2020/11/06/ExoPlayer.html)
+- [`SingleLiveEvent`와 Event 정리](https://jungwoon.github.io/android/livedata/2020/11/25/SingleLiveEvent.html)
+- [안드로이드에서 카카오 우편번호 검색 구현하기](https://jungwoon.github.io/android/2021/02/17/Implemente-DaumPostSearch.html)
+- [안드로이드 커스텀뷰, 커스텀 뷰그룹 만들기](https://jungwoon.github.io/android/2021/08/31/Custom-View.html)
+
+---
+
+## Simple is best
+
+- [[Android] Webview에서 새로운 창을 열때](https://mikelim.mintocean.com/entry/Android-Webview%EC%97%90%EC%84%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%B0%BD%EC%9D%84-%EC%97%B4%EB%95%8C)
+
+---
+
+## CommonsWare
+
+- [Scoped Storage Stories: SAF Basics](https://commonsware.com/blog/2019/10/19/scoped-storage-stories-saf-basics.html)
+
+---
+
+## Antonio Leiva - Android & Kotlin GDE | JetBrains Training Partner
+
+- [Kotlin recipes for Android (I): `OnGlobalLayoutListener`](/explore/articles/antonioleiva.com/kotlin-ongloballayoutlistener.md)
+
+---
+
+## codechacha
+
+- [안드로이드의 다양한 Notification 종류와 구현 방법](https://codechacha.com/ko/notifications-in-android)
+
+---
+
+## 독학하는 1인 개발자
+
+- [[안드로이드] 오류: Lint found fatal errors while assembling](https://jhshjs.tistory.com/13)
 
 ---
 

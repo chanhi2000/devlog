@@ -54,5 +54,10 @@
     "desc": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
     "officialSite": "https://en.wikipedia.org/wiki/MS-DOS",
     "topics": ["ms-dos"]
+  }, {
+    "repo": "ilmenit/sizecoding",
+    "desc": "repo of my sizecoding entries",
+    "officialSite": "",
+    "topics": []
   }
 ]

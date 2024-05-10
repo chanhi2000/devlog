@@ -5,7 +5,7 @@ description: Article(s) > Management of Native Code and React Native at Shopify
 icon: iconfont icon-gradle
 category: 
   - Gradle
-  - Android
+  - Shell
   - React Native
 tag: 
   - blog
@@ -14,9 +14,28 @@ tag:
   - sh
   - react
   - react-native
+head:
+  - - meta:
+    - property: og:title
+      content: Article(s) > Management of Native Code and React Native at Shopify
+    - property: og:description
+      content: Management of Native Code and React Native at Shopify
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/articles/shopify.engineering/managing-native-code-react-native.html
+prev: /programming/gradle/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Gradle > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/gradle/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -30,6 +49,8 @@ tag:
   preview="https://cdn.shopify.com/s/files/1/0779/4361/articles/Shop_Eng_Blog_Header_3.png?format=webp&v=1618518074&width=1024"/>
 
 > 2024.04.16
+
+<!-- TODO: 작성 -->
 
 ---
 

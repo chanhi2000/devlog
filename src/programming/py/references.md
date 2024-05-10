@@ -19,6 +19,12 @@ tag:
 
 ---
 
+## LearnDjango
+
+- [Django Login, Logout, Signup, Password Change, and Password Reset](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
+
+---
+
 ## Microsoft
 
 ### Windows Blogs
@@ -47,13 +53,15 @@ tag:
 
 ## velog
 
+- [`@kho5420` / 🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [`@phyyou` / 패키지를 막 가져다 쓰는 것의 해로움 :: lol.ps](https://velog.io/@phyyou/%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EB%A7%89-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%93%B0%EB%8A%94-%EA%B2%83%EC%9D%98-%EB%B3%B4%EC%95%88%EB%AC%B8%EC%A0%9C%EC%A0%90-lol.ps)
 - [`@euisuk-chung` / `pipenv`로 `pyenv` 뽕 뽑기](https://velog.io/@euisuk-chung/pipenv-%EB%84%88%EB%8F%84-%EA%B0%99%EC%9D%B4-%EC%98%A4%EA%B3%A0-pyenv-pipenv)
 - [`@eunbibi` / Iris Dataset](https://velog.io/@eunbibi/Iris-Dataset)
 - [`@1996yyk` / [Full-Stack] 풀스택 프로젝트 개발 일지(1)](https://velog.io/@1996yyk/Full-Stack-%ED%92%80%EC%8A%A4%ED%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%801)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Computational Linear Algebra: Scalars, Vectors, Matrices and Tensors](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc)
 - [Apache Log Parser With Python](https://medium.com/@nithinjohn97/apache-log-parser-with-python-5007a91a04ce)
@@ -64,6 +72,12 @@ tag:
 - [Guide to managing environment variables with Infisical + Python](https://medium.com/@tony.infisical/guide-to-managing-environment-variables-with-infisical-python-9d26ab07b387)
 - [Python: Uncovering the Overlooked Core Functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 - [[python] 버전 변경](https://medium.com/%EB%8F%84%EA%B9%A8%EB%B9%84-%EC%9D%B4%EC%95%BC%EA%B8%B0/python-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-03cece908cac)
+
+---
+
+## Substack
+
+- [The Magician's Sleight of Hand](https://www.thepythoncodingstack.com/p/the-magicians-sleight-of-hand-python)
 
 ---
 
@@ -680,6 +694,7 @@ tag:
 - [Building a Single Page Application with Python and Pyodide - Part 2](https://testdriven.io/blog/build-spa-with-python-part-2/)
 - [How Are Requests Processed in Flask?](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
 - [Parallelism, Concurrency, and AsyncIO in Python - by example](https://testdriven.io/blog/python-concurrency-parallelism/)
+- [Building Reusable Components in Django](https://testdriven.io/blog/django-reusable-components/)
 
 ---
 
@@ -795,6 +810,7 @@ tag:
 ## 드프 DrawingProcess
 
 - [[Data] Python 이미지 여백 지우기 (`numpy`, `mask`, ...)](https://csj000714.tistory.com/1094)
+- [[Dataset] Object Detection/Segmentation Open Dataset: COCO Dataset](https://csj000714.tistory.com/1099)
 
 ---
 
@@ -813,6 +829,54 @@ tag:
 ## Yossi Kreinin - blog archive
 
 - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
+
+---
+
+## 서울시립대학교
+
+- [코딩 수학 - `sympy` 다항식](http://campus.uos.ac.kr/chemc/coding_math/coding_math__2.html)
+
+---
+
+## Be an Overachiever
+
+- [[Keras] model.predict(x) vs model(x)](https://devs0n.tistory.com/165)
+
+---
+
+## Jacob Padilla
+
+- [How Python Asyncio Works: Recreating it from Scratch](https://jacobpadilla.com/articles/recreating-asyncio)
+
+---
+
+## Real Python
+
+- [Python Constants: Improve Your Code's Maintainability](https://realpython.com/python-constants/)
+- [What's Lazy Evaluation in Python?](https://realpython.com/python-lazy-evaluation/)
+- [How to Get Normally Distributed Random Numbers With NumPy](https://realpython.com/numpy-random-normal/)
+- [Pydantic: Simplifying Data Validation in Python](https://realpython.com/python-pydantic/)
+- [Python Sequences: A Comprehensive Guide](https://realpython.com/python-sequences/)
+- [Python's `.__call__()` Method: Creating Callable Instances](https://realpython.com/python-callable-instances/)
+- [BNF Notation: Dive Deeper Into Python's Grammar](https://realpython.com/python-bnf-notation/)
+
+---
+
+## BugFactory
+
+- [How to Avoid Conflicts and Let Your OS Select a Random Port](https://bugfactory.io/articles/how-to-avoid-conflicts-and-let-your-os-select-a-random-port/)
+
+---
+
+## Redowan's Reflections
+
+- [TypeIs does what I thought TypeGuard would do in Python](https://rednafi.com/python/typeguard_vs_typeis/)
+
+---
+
+## Matt Stuchlik
+
+- [Counting CPU Instructions in Python](https://blog.mattstuchlik.com/2024/02/08/counting-cpu-instructions-in-python.html)
 
 ---
 

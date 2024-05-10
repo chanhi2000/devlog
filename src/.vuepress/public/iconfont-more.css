@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_thsepheul2.woff2?t=1715319373256') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_thsepheul2.woff?t=1715319373256') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_thsepheul2.ttf?t=1715319373256') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_thsepheul2.svg?t=1715319373256#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_ydo7lu8nv37.woff2?t=1715489316848') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_ydo7lu8nv37.woff?t=1715489316848') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_ydo7lu8nv37.ttf?t=1715489316848') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_ydo7lu8nv37.svg?t=1715489316848#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-cockroach-db:before { content: "\e917"; }
+.icon-r:before { content: "\e916"; }
+.icon-nextjs:before { content: "\e915"; }
+.icon-sk:before { content: "\e914"; }
 .icon-gcp:before { content: "\e913"; }
 .icon-flutter:before { content: "\e912"; }
 .icon-visualstudio:before { content: "\e911"; }

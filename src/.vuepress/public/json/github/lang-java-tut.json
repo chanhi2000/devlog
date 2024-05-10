@@ -69,6 +69,10 @@
     "desc": "Resources for Learning Spring",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "hotire/spring-boot-full-text",
+    "desc": "전문통신",
+    "officialSite": "",
+    "topics": ["annotation", "enum", "factory", "fulltext", "spring", "spring-boot"]
   }
 ]
-

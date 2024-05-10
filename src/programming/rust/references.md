@@ -37,7 +37,7 @@ tag:
 
 --- 
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Go Fiber vs Rust: Performance comparison for JWT verify and MySQL query](https://medium.com/deno-the-complete-reference/go-fiber-vs-rust-performance-comparison-for-jwt-verify-and-mysql-query-9f5b7129a20)
 

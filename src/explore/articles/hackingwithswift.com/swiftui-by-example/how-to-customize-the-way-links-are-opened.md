@@ -94,7 +94,7 @@ Text("[Visit Apple](https://apple.com)")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to open web links in Safari",
+  "title": "How to open web links in Safari | SwiftUI by Example",
   "desc": "How to open web links in Safari",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-open-web-links-in-safari.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -104,7 +104,7 @@ Text("[Visit Apple](https://apple.com)")
 
 ```component VPCard
 {
-  "title": "Article(s) > Two-way bindings in SwiftUI",
+  "title": "Two-way bindings in SwiftUI | SwiftUI by Example",
   "desc": "Two-way bindings in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -114,7 +114,7 @@ Text("[Visit Apple](https://apple.com)")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust the way an image is fitted to its space",
+  "title": "How to adjust the way an image is fitted to its space | SwiftUI by Example",
   "desc": "How to adjust the way an image is fitted to its space",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -124,7 +124,7 @@ Text("[Visit Apple](https://apple.com)")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users customize toolbar buttons",
+  "title": "How to let users customize toolbar buttons | SwiftUI by Example",
   "desc": "How to let users customize toolbar buttons",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-customize-toolbar-buttons.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -134,7 +134,7 @@ Text("[Visit Apple](https://apple.com)")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to customize the background color of navigation bars, tab bars, and toolbars",
+  "title": "How to customize the background color of navigation bars, tab bars, and toolbars | SwiftUI by Example",
   "desc": "How to customize the background color of navigation bars, tab bars, and toolbars",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

@@ -110,7 +110,7 @@ That uses the text string “ffi” in American Typewriter, which has a ligature
 
 ```component VPCard
 {
-  "title": "Article(s) > How to customize stack layouts with alignment and spacing",
+  "title": "How to customize stack layouts with alignment and spacing | SwiftUI by Example",
   "desc": "How to customize stack layouts with alignment and spacing",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-stack-layouts-with-alignment-and-spacing.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -120,7 +120,7 @@ That uses the text string “ffi” in American Typewriter, which has a ligature
 
 ```component VPCard
 {
-  "title": "Article(s) > How to control spacing around individual views using padding",
+  "title": "How to control spacing around individual views using padding | SwiftUI by Example",
   "desc": "How to control spacing around individual views using padding",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-spacing-around-individual-views-using-padding.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -130,7 +130,7 @@ That uses the text string “ffi” in American Typewriter, which has a ligature
 
 ```component VPCard
 {
-  "title": "Article(s) > How to format text inside text views",
+  "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -140,7 +140,7 @@ That uses the text string “ffi” in American Typewriter, which has a ligature
 
 ```component VPCard
 {
-  "title": "Article(s) > How to automatically switch between HStack and VStack based on size class",
+  "title": "How to automatically switch between HStack and VStack based on size class | SwiftUI by Example",
   "desc": "How to automatically switch between HStack and VStack based on size class",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-automatically-switch-between-hstack-and-vstack-based-on-size-class.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

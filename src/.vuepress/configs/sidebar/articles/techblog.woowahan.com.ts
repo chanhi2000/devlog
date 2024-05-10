@@ -10,6 +10,7 @@ export const template: SidebarInfoTemplate = {
       "2663", // 2020.02.06
     ]],[
     "npm", [
+      "16910", // 2024.03.09
       "15903", // 2024.04.24
     ]],[
     "playwright", [
@@ -17,6 +18,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "all", [
       "2663", // 2020.02.06
+      "16910", // 2024.03.09
       "17081", // 2024.04.16
       "15903", // 2024.04.24
     ]],

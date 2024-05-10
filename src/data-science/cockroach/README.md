@@ -1,14 +1,16 @@
 ---
 lang: ko-KR
-title: 🪳Cockroach
-description: 🪳Cockroach
+title: CockroachDB
+description: CockroachDB
+icon: iconfont icon-cockroach-db
 category:
-  - 🪳Cockroach
+  - CockroachDB
+tab:
+  - cockroach
+  - cockroachdb
 ---
 
 # {{ $frontmatter.description }} 관련
-
-
 
 <ShieldsGroup logos="cockroachlabs"/>
 

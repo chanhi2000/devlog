@@ -1278,5 +1278,15 @@
     "desc": "ESP32 DRUM SYNTH MACHINE",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "simdjson/simdjson",
+    "desc": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+    "officialSite": "https://simdjson.org",
+    "topics": ["aarch64", "arm", "arm64", "avx2", "avx512", "c-plus-plus", "clang", "clang-cl", "cpp11", "gcc-compiler", "json", "json-parser", "json-pointer", "loongarch", "neon", "simd", "sse42", "vs2019", "x64"]
+  }, {
+    "repo": "metab0t/PyOptInterface",
+    "desc": "Efficient modeling interface for mathematical optimization in Python",
+    "officialSite": "https://metab0t.github.io/PyOptInterface/",
+    "topics": ["conic-programs", "linear-programming", "mathematical-modelling", "mathematical-programming", "mixed-integer-programming", "modeling-language", "optimization", "python", "quadratic-programming"]
   }
 ]

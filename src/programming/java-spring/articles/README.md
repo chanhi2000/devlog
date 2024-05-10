@@ -1,21 +1,28 @@
 ---
 lang: ko-KR
 title: Article(s)
-description: Java > Article(s)
+description: Spring > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - Java
-  - JDK
+  - Spring
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
+  - rutgo-letsgo.tistory.com
+  - meetup.nhncloud.com
+  - d2.naver.com
+  - techblog.woowahan.com
+  - dev.gmarket.com
+  - zuminternet.github.io
   - java
   - jdk
   - jdk8
 head:
   - - meta:
     - property: og:title
-      content: Java > Article(s)
+      content: Spring > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url
@@ -81,6 +88,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "ZUM 기술 블로그",
+  "desc": "생각을 읽다, ZUM, 고객의 생각을 읽고 담는 줌 인터넷 개발자들의 '좀 다른 개발 이야기'를 소개 합니다.",
+  "link": "https://zuminternet.github.io/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -103,13 +120,13 @@ head:
 
 ## Enthusiastically, Steady, Slowly
 
-> tistory.com/rutgo-letsgo
+> rutgo-letsgo.tistory.com
 
 ```component VPCard
 {
   "title": "모든 자바 개발자가 알아야 할 다섯 가지 API 성능 최적화 팁 — Enthusiastically, Steady, Slowly",
   "desc": "💡 원본글 Five API Performance Optimization Tricks that Every Java Developer Must Know Five API Performance Optimization Tricks that Every Java Developer Must Know Why is your API response so slow? Maybe you need to solve these problems. medium.com",
-  "link": "/explore/articles/tistory.com/rutgo-letsgo/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md",
+  "link": "/explore/articles/rutgo-letsgo.tistory.com/five-api-performance-optimization-tricks-that-every-java-developer-must-know.md",
   "logo": "https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg",
   "background": "rgba(254,89,73,0.2)"
 }
@@ -167,6 +184,8 @@ head:
 
 ## 지마켓 기술블로그
 
+> dev.gmarket.com
+
 ```component VPCard
 {
   "title": "개발자를 잠 못 들게 만드는 코드",
@@ -187,6 +206,43 @@ head:
 }
 ```
 
+---
+
+## ZUM 기술 블로그
+
+> zuminternet.github.io
+
+```component VPCard
+{
+  "title": "FCM 푸시 파헤치기",
+  "desc": "파일럿부터 적용까지 진행했던 FCM 푸시를 파헤치며 기초 가이드북처럼 정리해보았습니다.",
+  "link": "https://zuminternet.github.io/FCM-PUSH/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "제목은 Spring Session 도입기로 하겠습니다. 근데 이제 Redis를 곁들인",
+  "desc": "지속 가능한 서비스를 만들기 위해 기존 아키텍처를 유지하면서 서비스를 개선하는 과정을 소개합니다.",
+  "link": "https://zuminternet.github.io/spring-session/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
+}
+```
+
+
+```component VPCard
+{
+  "title": "리다이렉트 서버와 FCM 푸시 연동",
+  "desc": "리다이렉트 서버와 FCM 푸시 연동과정을 정리해보았습니다.",
+  "link": "https://zuminternet.github.io/redirect-FCM-push/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
+}
+```
+  
 ---
 
 <TagLinks />

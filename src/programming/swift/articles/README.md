@@ -9,7 +9,9 @@ category:
   - Article(s)
 tag: 
   - blog
+  - hackingwithswift.com
   - douggregor.net
+  - zuminternet.github.io
   - swift
   - ios
 head:
@@ -28,8 +30,8 @@ head:
 {
   "title": "Hacking with Swift – learn to code iPhone and iPad apps with free Swift tutorials",
   "desc": "Learn Swift coding for iOS with these free Swift tutorials",
-  "link": "https://www.hackingwithswift.com/",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "link": "https://hackingwithswift.com/",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -38,8 +40,18 @@ head:
 {
   "title": "Doug's Compiler Corner", 
   "desc": "Musings on programming languages and compilers.", 
-  "link": "https://www.douggregor.net/", 
+  "link": "https://douggregor.net/", 
   "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ZUM 기술 블로그",
+  "desc": "생각을 읽다, ZUM, 고객의 생각을 읽고 담는 줌 인터넷 개발자들의 '좀 다른 개발 이야기'를 소개 합니다.",
+  "link": "https://zuminternet.github.io/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
 }
 ```
 
@@ -118,6 +130,22 @@ head:
   "desc": "Swift for C++ Practitioners, Part 6: Error Handling",
   "link": "/explore/articles/douggregor.net/swift-for-cpp-practitioners-6.md",
   "background": "rgba(22,22,22,0.2)"
+}
+```
+
+---
+
+## ZUM 기술 블로그
+
+> zuminternet.github.io
+
+```component VPCard
+{
+  "title": "Tuist 도입부터 적용까지 알려ZUM요! (feat. 모듈화)",
+  "desc": "지속 가능한 서비스를 만들기 위해 기존 아키텍처를 유지하면서 서비스를 개선하는 과정을 소개합니다.",
+  "link": "https://zuminternet.github.io/iOS-tuist-module/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
 }
 ```
 

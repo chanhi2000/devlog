@@ -20,10 +20,16 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Automated CI/CD with Jenkins](https://medium.com/avmconsulting-blog/automated-ci-cd-with-jenkins-39b21c7c8035)
 - [CI/CD with Dockers and Jenkins](https://medium.com/avmconsulting-blog/ci-cd-with-dockers-and-jenkins-70b6f801f9f7)
+
+---
+
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [4 ways to deploy web apps in 2020](https://dev.to/alex_boykov/4-ways-to-deploy-web-apps-in-2020-4ch3)
 
 ---
 
@@ -44,6 +50,18 @@ tag:
 - [Clear Jenkins build history ( clear build yesterday )](https://superuser.com/questions/1418885/clear-jenkins-build-history-clear-build-yesterday)
 - [How To Build Android Apps with Jenkins](https://www.digitalocean.com/community/tutorials/how-to-build-android-apps-with-jenkins)
 - [Jenkins and GIT Integration using SSH Key](https://www.geeksforgeeks.org/jenkins-and-git-integration-using-ssh-key)
+
+---
+
+## AreYou준비
+
+- [[Jenkins] 젠킨스 설치 및 설정](https://roxxy.tistory.com/entry/Jenkins-%EC%A0%A0%ED%82%A8%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95)
+
+---
+
+## Just try it!
+
+- [Jenkins에서 여러 Maven, JDK 버전 사용하는 방법](https://moonsiri.tistory.com/205)
 
 ---
 

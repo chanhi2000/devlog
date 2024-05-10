@@ -184,7 +184,7 @@ struct ContentView: View {
 {
   "title": "Composing views to create a list row | SwiftUI by Example",
   "desc": "Composing views to create a list row",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

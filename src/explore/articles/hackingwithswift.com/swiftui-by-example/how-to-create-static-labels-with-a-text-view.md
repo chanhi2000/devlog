@@ -128,7 +128,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create a list of static items",
+  "title": "How to create a list of static items | SwiftUI by Example",
   "desc": "How to create a list of static items",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-list-of-static-items.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -138,7 +138,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to format text inside text views",
+  "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -158,7 +158,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to add advanced text styling using AttributedString",
+  "title": "How to add advanced text styling using AttributedString | SwiftUI by Example",
   "desc": "How to add advanced text styling using AttributedString",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-advanced-text-styling-using-attributedstring.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -168,7 +168,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create multi-line editable text with TextEditor",
+  "title": "How to create multi-line editable text with TextEditor | SwiftUI by Example",
   "desc": "How to create multi-line editable text with TextEditor",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-line-editable-text-with-texteditor.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

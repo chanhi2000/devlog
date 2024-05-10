@@ -1424,5 +1424,25 @@
     "desc": "Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",
     "officialSite": "https://coroot.com",
     "topics": ["alerting", "apm", "dashboard", "database-monitoring", "devops", "distributed-tracing", "ebpf", "k8s", "kubernetes", "log-analysis", "metrics", "microservice", "monitoring", "network-monitoring", "observability", "postgresql-monitoring", "prometheus", "service-map", "slo", "tracing"]
+  }, {
+    "repo": "NHAS/wag",
+    "desc": "Simple Wireguard 2FA",
+    "officialSite": "",
+    "topics": ["2fa", "firewall", "linux", "management-portal", "mfa", "network", "networking", "privacy", "security", "self-hosted", "ui", "virtual-network", "vpn", "vpn-server", "wireguard", "wireguard-admin", "wireguard-vpn"]
+  }, {
+    "repo": "glanceapp/glance",
+    "desc": "A self-hosted dashboard that puts all your feeds in one place",
+    "officialSite": "",
+    "topics": ["aggregator", "dashboard", "docker", "feed-reader", "golang", "homepage", "rss", "self-hosted", "startpage"]
+  }, {
+    "repo": "MHNightCat/superfile",
+    "desc": "Pretty fancy and modern terminal file manager",
+    "officialSite": "https://github.com/MHNightCat/superfile",
+    "topics": ["bubbletea", "cli", "file-manager", "filemanager", "filesystem", "golang", "linux-app", "terminal-app", "terminal-based", "terminal-file-manager", "tui"]
+  }, {
+    "repo": "c4pt0r/kvql",
+    "desc": "A SQL-like query language on general Key-Value DB",
+    "officialSite": "",
+    "topics": []
   }
 ]

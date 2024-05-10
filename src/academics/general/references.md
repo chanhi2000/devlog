@@ -391,6 +391,7 @@ tag:
 ## 게으른맽랩 lazy matlab
 
 - [타원, 케플러, 궤도운동](https://lazymatlab.tistory.com/228)
+- [힘이 축에 대해 가하는 모멘트 계산하기](https://lazymatlab.tistory.com/229)
 
 ---
 
@@ -403,6 +404,12 @@ tag:
 ## Be an Overachiever
 
 - [L1, L2 Regularization](https://devs0n.tistory.com/164)
+
+---
+
+## Some Random Posts
+
+- [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
 
 ---
 

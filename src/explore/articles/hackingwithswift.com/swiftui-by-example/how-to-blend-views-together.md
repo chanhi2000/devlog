@@ -50,6 +50,83 @@ head:
 }
 ```
 
+> Updated for Xcode 15
+
+When placing one view over another, you can control the way they overlap by using the `blendMode()` modifier. This contains a variety of ways you can mix colors together, such as using their difference or using a color burn – these will be familiar if you’ve used Core Graphics or something like Photoshop before.
+
+To demonstrate this we could create a `ZStack` with two overlapping circles inside, where the second has a `.multiply` blend mode so that it darkens the colors behind it:
+
+```swift
+ZStack {
+    Circle()
+        .fill(.red)
+        .frame(width: 200, height: 200)
+        .offset(x: -50)
+        .blendMode(.screen)
+
+    Circle()
+        .fill(.blue)
+        .frame(width: 200, height: 200)
+        .offset(x: 50)
+        .blendMode(.screen)
+}
+.frame(width: 400)
+```
+
+::: details Similar solutions…
+
+```component VPCard
+{
+  "title": "How to combine text views together | SwiftUI by Example",
+  "desc": "How to combine text views together",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-text-views-together.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to group views together | SwiftUI by Example",
+  "desc": "How to group views together",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-group-views-together.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to group views together with ControlGroup | SwiftUI by Example",
+  "desc": "How to group views together with ControlGroup",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-group-views-together-with-controlgroup.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Composing views to create a list row | SwiftUI by Example",
+  "desc": "Composing views to create a list row",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to use @EnvironmentObject to share data between views | SwiftUI by Example",
+  "desc": "How to use @EnvironmentObject to share data between views",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-environmentobject-to-share-data-between-views.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
+
 ---
 
 <TagLinks />

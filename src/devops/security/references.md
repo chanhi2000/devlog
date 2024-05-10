@@ -46,7 +46,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Binex — TryHackMe Room Simple Writeup | Karthikeyan Nagaraj](https://infosecwriteups.com/binex-970-points-tryhackme-room-simple-writeup-karthikeyan-nagaraj-33a5e71a31bd)
 - [TryHackMe.com: WebOSINT — WriteUp](https://blog.nocturno.dev/tryhackme-com-webosint-writeup-174e8806bf1a)

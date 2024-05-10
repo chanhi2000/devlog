@@ -42,9 +42,11 @@ tag:
 - [`@qkrtkdwns3410` - [도커&쿠버] 도커 컨테이너에서 호스트 파일 복사 등](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4%EC%BF%A0%EB%B2%84-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%ED%98%B8%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EB%B3%B5%EC%82%AC-%EB%93%B1)
 - [`@dongha1992` - 도커 & CI (1)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-1)
 - [`@dongha1992` - 도커 & CI (2)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-2)
+- [`@dongha1992` - 도커 & CI (4)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-4)
+
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [AWS Best practice for Amazon Elastic Kubernetes Service (EKS)](https://medium.com/avmconsulting-blog/aws-best-practice-for-amazon-elastic-kubernetes-service-eks-7ae468869724)
 - [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b)
@@ -230,6 +232,12 @@ tag:
 ## 뭐라도 해야 한다면 기록을 하자
 
 - [ProxySQL을 사용하면 Connection을 줄일 수 있다고 ?](https://jakpentest.tistory.com/entry/ProxySQL%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-Connection%EC%9D%84-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0)
+
+---
+
+## 정우일
+
+- [Spark Kafka 설치 방법(Docker Compose)](https://wooiljeong.github.io/spark/install-spark/)
 
 ---
 

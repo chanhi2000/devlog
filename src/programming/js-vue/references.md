@@ -41,6 +41,15 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [about Vue](https://dev.to/t/vue)
+- [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
+
+
+
+---
+
 ## velog
 
 - [`@qkrtkdwns3410` - Vue3 + Spring Data Elasticsearch 를 통한 한글 자동완성 API](https://velog.io/@qkrtkdwns3410/Vue3-Spring-Data-Elasticsearch-%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%9C%EA%B8%80-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-API)
@@ -88,5 +97,25 @@ head:
 ## 우니의 블로그
 
 - [[vue.js] LIST 와 페이징 PAGING 이전, 다음 버튼](https://aspdotnet.tistory.com/3137)
+
+---
+
+## TestDriven.io
+
+- [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs)
+
+---
+
+## Ghiura Alexandru
+
+- [Feature: Vue 3 script setup](https://ghalex.com/feature-vue-3-script-setup)
+
+---
+
+## CodeSource.io - Quality Web development Tutorials
+
+- [Creating Custom Hooks with Vue 3 & Typescript](https://codesource.io/creating-custom-hooks-with-vue-3-typescript)
+
+---
 
 <TagLinks />

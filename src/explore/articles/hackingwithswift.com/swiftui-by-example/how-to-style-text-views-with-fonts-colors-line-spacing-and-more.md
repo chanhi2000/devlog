@@ -141,7 +141,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 
 ```component VPCard
 {
-  "title": "Article(s) > Polishing designs with fonts and colors",
+  "title": "Polishing designs with fonts and colors | SwiftUI by Example",
   "desc": "Polishing designs with fonts and colors",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/polishing-designs-with-fonts-and-colors.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -151,7 +151,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 
 ```component VPCard
 {
-  "title": "Article(s) > How to add spacing between letters in text",
+  "title": "How to add spacing between letters in text | SwiftUI by Example",
   "desc": "How to add spacing between letters in text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-spacing-between-letters-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -161,7 +161,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 
 ```component VPCard
 {
-  "title": "Article(s) > How to control spacing around individual views using padding",
+  "title": "How to control spacing around individual views using padding | SwiftUI by Example",
   "desc": "How to control spacing around individual views using padding",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-spacing-around-individual-views-using-padding.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -171,7 +171,7 @@ You will find that `fontWidth()` only works with fonts that have been designed t
 
 ```component VPCard
 {
-  "title": "Article(s) > How to customize stack layouts with alignment and spacing",
+  "title": "How to customize stack layouts with alignment and spacing | SwiftUI by Example",
   "desc": "How to customize stack layouts with alignment and spacing",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-stack-layouts-with-alignment-and-spacing.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

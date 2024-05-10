@@ -79,7 +79,7 @@ One of the best ways to learn is to write your own code as often as possible, so
 
 ```component VPCard
 {
-  "title": "Article(s) > SwiftUI tutorial: Building a complete project",
+  "title": "SwiftUI tutorial: Building a complete project | SwiftUI by Example",
   "desc": "SwiftUI tutorial: Building a complete project",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tutorial-building-a-complete-project.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -89,7 +89,7 @@ One of the best ways to learn is to write your own code as often as possible, so
 
 ```component VPCard
 {
-  "title": "Article(s) > How to wrap a custom UIView for SwiftUI",
+  "title": "How to wrap a custom UIView for SwiftUI | SwiftUI by Example",
   "desc": "How to wrap a custom UIView for SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-wrap-a-custom-uiview-for-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -99,7 +99,7 @@ One of the best ways to learn is to write your own code as often as possible, so
 
 ```component VPCard
 {
-  "title": "Article(s) > Two-way bindings in SwiftUI",
+  "title": "Two-way bindings in SwiftUI | SwiftUI by Example",
   "desc": "Two-way bindings in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

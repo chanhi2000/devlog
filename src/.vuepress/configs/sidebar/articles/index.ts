@@ -7,14 +7,22 @@ import { template as TEMPLATE_FRONTENDMASTER } from './frontendmasters.com';
 import { template as TEMPLATE_NHN } from './meetup.nhncloud.com';
 import { template as TEMPLATE_GANGNAMUNNI } from './blog.gangnamunni.com';
 import { template as TEMPLATE_WOOWAHAN } from './techblog.woowahan.com';
+import { template as TEMPLATE_GMARKET } from './dev.gmarket.com'; 
+import { template as TEMPLATE_LINECORP } from './engineering.linecorp.com';
 import { template as TEMPLATE_KT_ACADEMY } from './kt.academy';
 import { template as TEMPLATE_DROIDCON } from './droidcon.com';
 import { template as TEMPLATE_SITEPOINT } from './sitepoint.com';
 import { template as TEMPLATE_YOZM } from './yozm.wishket.com';
 import { template as TEMPLATE_DEVKUMA } from './devkuma.com';
+import { template as TEMPLATE_DEVTOOLSTIPS } from './devtoolstips.org';
 import { template as TEMPLATE_PICCALILLI } from './piccalil.li';
 import { template as TEMPLATE_JOHNNYREILLY } from'./johnnyreilly.com';
+import { template as TEMPLATE_CODEMAZE } from './code-maze.com';
 import { template as TEMPLATE_TOWARDSDATASCIENCE } from './towardsdatascience.com';
+import { template as TEMPLATE_SHOPIFY } from './shopify.engineering';
+import { template as TEMPLATE_RUTGO_LETSGO } from './tistory.com/rutgo-letsgo';
+import { template as TEMPLATE_ANTONIOLEIVA } from './antonioleiva.com';
+import { template as TEMPLATE_ZUMINTERNET } from './zuminternet.github.io';
 
 const EXT_MD = "md";
 const DEFAULT_KEY_ALL = "all";
@@ -55,6 +63,8 @@ export const articleSidebars = {
   gangnamunni:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GANGNAMUNNI, type),
   yozm:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_YOZM, type),
   woowahan:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_WOOWAHAN, type),
+  gmarket:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GMARKET, type),
+  linecorp:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LINECORP, type),
   ktAcademy:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KT_ACADEMY, type),
   droidcon:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DROIDCON, type),
   sitepoint:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SITEPOINT, type),
@@ -62,8 +72,14 @@ export const articleSidebars = {
   donnywals:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DONNYWALS, type),
   piccalilli:         (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_PICCALILLI, type),
   johnnyreilly:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_JOHNNYREILLY, type),
+  codemaze:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_CODEMAZE, type),
   devkuma:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DEVKUMA, type),
+  devtoolstips:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DEVTOOLSTIPS, type), 
   towardsdatascience: (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_TOWARDSDATASCIENCE, type),
+  shopify:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SHOPIFY, type),
+  rutgoLetsgo:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_RUTGO_LETSGO, type),
+  antonioleiva:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_ANTONIOLEIVA, type),
+  zuminternet:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_ZUMINTERNET, type),
 }
 
 export const hackingwithswift = (): SidebarGroupItem => ({
@@ -416,7 +432,7 @@ export const hackingwithswift = (): SidebarGroupItem => ({
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mask-one-view-with-another.md',
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-blur-a-view.md',
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-blend-views-together.md',
-            '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-views-by-tinting-and-desaturating-and-more.md',
+            '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-views-by-tinting-desaturating-and-more.md',
             '/explore/articles/hackingwithswift.com/swiftui-by-example/customizing-button-with-buttonstyle.md',
             '/explore/articles/hackingwithswift.com/swiftui-by-example/customizing-progressview-with-progressviewstyle.md',
             '/explore/articles/hackingwithswift.com/swiftui-by-example/customizing-toggle-with-togglestyle.md',

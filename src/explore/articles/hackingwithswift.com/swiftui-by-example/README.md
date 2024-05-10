@@ -2707,9 +2707,9 @@ Clip, size, scale, spin, and more
 
 ```component VPCard
 {
-  "title": "How to adjust views by tinting, and desaturating, and more | SwiftUI by Example",
-  "desc": "How to adjust views by tinting, and desaturating, and more",
-  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-views-by-tinting-and-desaturating-and-more.md",
+  "title": "How to adjust views by tinting, desaturating, and more | SwiftUI by Example",
+  "desc": "How to adjust views by tinting, desaturating, and more",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-views-by-tinting-desaturating-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

@@ -231,6 +231,10 @@ tag:
 - [[JAVA] 형변환 정리](https://moonnight0.tistory.com/entry/JAVA-%ED%98%95%EB%B3%80%ED%99%98-%EC%A0%95%EB%A6%AC)
 - [[ 99클럽 코테 스터디 32일차 TIL ] Collections 및 프로그래머스 (명예의 전당(1))](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-32%EC%9D%BC%EC%B0%A8-TIL-Collections-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91)
 - [[ 99클럽 코테 스터디 33일차 TIL] 백준 - (14681번 - 사분면 고르기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-33%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-14681%EB%B2%88-%EC%82%AC%EB%B6%84%EB%A9%B4-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
+- [[내일배움캠프 18일차 TIL] 자바 관련 및 마크다운과 팀 프로젝트 마무리](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-18%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%90%EB%B0%94-%EA%B4%80%EB%A0%A8-%EB%B0%8F-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EA%B3%BC-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC)
+- [[ 99클럽 코테 스터디 35일차 TIL] 백준 - (1085번 - 직사각형에서 탈출)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-34%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-1085%EB%B2%88-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C-%ED%83%88%EC%B6%9C)
+- [[내일배움캠프 17일차 TIL] `enum` & `final` 및 팀 프로젝트(필수 기능)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-17%EC%9D%BC%EC%B0%A8-TIL-enum-final-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%84%EC%88%98-%EA%B8%B0%EB%8A%A5)
+
 
 ### 류광의 번역 이야기
 
@@ -305,6 +309,14 @@ tag:
 ### Rangken programming blog
 
 - [`Java sun.misc.Unsafe`](https://rangken.github.io/blog/2015/sun.misc.unSafe/)
+
+### EunYeong's Note
+
+- [[자바스터디]Java 초심 프로젝트 1일차(About Java)](https://blog.naver.com/koreannick/220587772504)
+
+### Just try it!
+
+- [[JAVA] JDK 11에서 JDK 21로 변경하기 (LTS버전)](https://moonsiri.tistory.com/204)
 
 ---
 
@@ -503,6 +515,10 @@ tag:
 ### Jungwoon Blog
 
 - [이펙티브 코틀린 내용 정리](https://jungwoon.github.io/kotlin/2022/07/07/Effective-Kotlin_Summary.html)
+
+### JUXT
+
+- [Kotlin Adventures With XTDB](https://www.juxt.pro/blog/crux-kotlin)
 
 ---
 

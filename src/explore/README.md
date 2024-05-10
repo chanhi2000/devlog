@@ -433,8 +433,36 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
-https://dx.addy.ie/
-https://exercism.org/
+```component VPCard
+{
+  "title": "Learn JavaScript  |  web.dev",
+  "desc": "An in-depth course on the basics of JavaScript.",
+  "link": "https://web.dev/learn/javascript",
+  "logo": "https://www.gstatic.com/devrel-devsite/prod/ve5ef9ac7b497e19ece9427facc78d0c59aaab7a2bc6a0f75fdae93f4ee589f67/web/images/favicon.png",
+  "background": "rgba(48.96.190,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Developer Experience Book",
+  "desc": "Developer Experience (DX) is all about how easily and effectively developers can get things done. Learn how to improve your DX and why it matters in this book.",
+  "link": "https://dx.addy.ie/",
+  "logo": "https://dx.addy.ie/images/favicon.ico",
+  "background": "rgba(85,170,76,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Exercism",
+  "desc": "Learn, practice and get world-class mentoring in over 50 languages. 100% free.",
+  "link": "https://exercism.org/",
+  "logo": "https://assets.exercism.org/meta/favicon-32x32.png",
+  "background": "rgba(93,80,198,0.2)"
+}
+```
+
 https://startyourownisp.com/
 https://www.docdroid.com/NOEBGF5/sdn-pdf
 
@@ -471,7 +499,7 @@ https://www.docdroid.com/NOEBGF5/sdn-pdf
 ```
 
 https://www.getanyplant.com/plants
-
+https://demos.littleworkshop.fr/infinitown
 
 :::
 

@@ -14,18 +14,14 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
 
 ## 목록
 
-- [Antonio Leiva](https://antonioleiva.com)
 - [💾 Knowledge Repository](https://atoz-develop.tistory.com)
-- [Jungwoon Blog](https://jungwoon.github.io)
 - [Luis Ramos](https://luisramos.dev)
-- [뱅크셀러드](https://blog.banksalad.com)
 - [Meta OpenSource](https://opensource.fb.com)
 - [Coursera Engineering](https://medium.com/coursera-engineering)
 - [Dave Ceddia](https://daveceddia.com)
@@ -33,7 +29,6 @@ tag:
 - [개발자스럽다](https://blog.gaerae.com)
 - [GARIMOO](https://garimoo.medium.com)
 - [Gracefullight](https://gracefullight.dev/archives)
-- [44bits Know-how, Discover and Share](https://www.44bits.io/ko)
 - [Smashing Magazine](https://www.smashingmagazine.com)
 - [React All Posts](https://reactjs.org/blog/all.html)
 - [LogRocket](https://blog.logrocket.com)

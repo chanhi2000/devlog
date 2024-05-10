@@ -188,36 +188,39 @@ tag:
 
 ## velog
 
-- [`@eunjin` - [Javascript Toy Project] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [`@wooder2050` - JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
-- [`@edie_ko` - JavaScript | Class 클래스](https://velog.io/@edie_ko/JavaScript-Class-%ED%81%B4%EB%9E%98%EC%8A%A4)
-- [`@bbumjun` - [TIL] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
-- [`@superlipbalm` - (번역) 자바스크립트 Import Map에 대해 알아야 할 모든 것](https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps)
-- [`@eunbinn` - [번역] 웹 푸시는 이제 iOS 17에서 사용할만합니다](https://velog.io/@eunbinn/web-push-ios17)
-- [`@juhee067` - Node.js: JavaScript를 브라우저 이상에서 실행할 수 있는 런타임](https://velog.io/@juhee067/Node.js)
-- [`@ksh4704` - 코드스테이츠-부트캠프 [Backend] 인증/보안(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Backend-%EC%9D%B8%EC%A6%9D%EB%B3%B4%EC%95%881)
-- [`@ansrjsdn` - JS Tagged Template literal Function](https://velog.io/@ansrjsdn/JS-Tagged-Template-literal-Function)
-- [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%881)
-- [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(2)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%882)
-- [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(3)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%883)
-- [`@ksh4704` - 코드스테이츠-부트캠프 [TypeScript] 기초(4)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-TypeScript-%EA%B8%B0%EC%B4%884-c1mu78n2)
-- [`@kyj2471` - 프로토 타입](https://velog.io/@kyj2471/%ED%94%84%EB%A1%9C%ED%86%A0-%ED%83%80%EC%9E%85)
-- [`@kyj2471` - 클로저](https://velog.io/@kyj2471/%ED%81%B4%EB%A1%9C%EC%A0%80)
-- [`@kyj2471` - 콜백함수](https://velog.io/@kyj2471/%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98)
-- [`@kyj2471` - This](https://velog.io/@kyj2471/This)
-- [`@kyj2471` - 에어브릿지 적용기](https://velog.io/@kyj2471/%EC%97%90%EC%96%B4%EB%B8%8C%EB%A6%BF%EC%A7%80-%EC%A0%81%EC%9A%A9%EA%B8%B0)
-- [`@kyj2471` - 트레져데이터](https://velog.io/@kyj2471/%ED%8A%B8%EB%A0%88%EC%A0%B8%EB%8D%B0%EC%9D%B4%ED%84%B0)
-- [`@sehyunny` - (번역) 자바스크립트 시각화하기 : 프로미스 실행](https://velog.io/@sehyunny/js-visualized-promise-execution)
-- [`@juhee067` - `/channels`와 `/channels/:id`에서 생긴 문제](https://velog.io/@juhee067/GET%EC%9A%94%EC%B2%AD%EC%97%90-Body-%EA%B0%92-%EC%A0%84%EB%8B%AC)
-- [`@surim014` - [번역] 재미와 이익을 위한 자바스크립트 최적화](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit)
-- [`@juhee067` - [오류해결] CJS 특징으로 인한 모듈 오류](https://velog.io/@juhee067/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0-CJS-%ED%8A%B9%EC%A7%95%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EB%AA%A8%EB%93%88-%EC%98%A4%EB%A5%98)
-- [`@9rganizedchaos` - Tanstack-Query 서버데이터 로컬스토리지에 캐싱하기 💽](https://velog.io/@9rganizedchaos/Tanstack-Query-%EC%84%9C%EB%B2%84%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80%EC%97%90-%EC%BA%90%EC%8B%B1%ED%95%98%EA%B8%B0)
-- [`@superlipbalm` - (번역) BFCache 알아보기](https://velog.io/@superlipbalm/bfcache)
-- [`@devstone` - 웹워커. 그게 뭔데 .](https://velog.io/@devstone/%EC%9B%B9%EC%9B%8C%EC%BB%A4-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
+- [`@eunjin` / [Javascript Toy Project] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [`@wooder2050` / JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
+- [`@edie_ko` / JavaScript | Class 클래스](https://velog.io/@edie_ko/JavaScript-Class-%ED%81%B4%EB%9E%98%EC%8A%A4)
+- [`@bbumjun` / [TIL] 자바스크립트 동작 원리](https://velog.io/@bbumjun/TIL-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
+- [`@superlipbalm` / (번역) 자바스크립트 Import Map에 대해 알아야 할 모든 것](https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps)
+- [`@eunbinn` / [번역] 웹 푸시는 이제 iOS 17에서 사용할만합니다](https://velog.io/@eunbinn/web-push-ios17)
+- [`@juhee067` / Node.js: JavaScript를 브라우저 이상에서 실행할 수 있는 런타임](https://velog.io/@juhee067/Node.js)
+- [`@ksh4704` / 코드스테이츠-부트캠프 [Backend] 인증/보안(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Backend-%EC%9D%B8%EC%A6%9D%EB%B3%B4%EC%95%881)
+- [`@ansrjsdn` / JS Tagged Template literal Function](https://velog.io/@ansrjsdn/JS-Tagged-Template-literal-Function)
+- [`@ksh4704` / 코드스테이츠-부트캠프 [TypeScript] 기초(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%881)
+- [`@ksh4704` / 코드스테이츠-부트캠프 [TypeScript] 기초(2)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%882)
+- [`@ksh4704` / 코드스테이츠-부트캠프 [TypeScript] 기초(3)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84TypeScript-%EA%B8%B0%EC%B4%883)
+- [`@ksh4704` / 코드스테이츠-부트캠프 [TypeScript] 기초(4)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-TypeScript-%EA%B8%B0%EC%B4%884-c1mu78n2)
+- [`@kyj2471` / 프로토 타입](https://velog.io/@kyj2471/%ED%94%84%EB%A1%9C%ED%86%A0-%ED%83%80%EC%9E%85)
+- [`@kyj2471` / 클로저](https://velog.io/@kyj2471/%ED%81%B4%EB%A1%9C%EC%A0%80)
+- [`@kyj2471` / 콜백함수](https://velog.io/@kyj2471/%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98)
+- [`@kyj2471` / This](https://velog.io/@kyj2471/This)
+- [`@kyj2471` / 에어브릿지 적용기](https://velog.io/@kyj2471/%EC%97%90%EC%96%B4%EB%B8%8C%EB%A6%BF%EC%A7%80-%EC%A0%81%EC%9A%A9%EA%B8%B0)
+- [`@kyj2471` / 트레져데이터](https://velog.io/@kyj2471/%ED%8A%B8%EB%A0%88%EC%A0%B8%EB%8D%B0%EC%9D%B4%ED%84%B0)
+- [`@sehyunny` / (번역) 자바스크립트 시각화하기 : 프로미스 실행](https://velog.io/@sehyunny/js-visualized-promise-execution)
+- [`@juhee067` / `/channels`와 `/channels/:id`에서 생긴 문제](https://velog.io/@juhee067/GET%EC%9A%94%EC%B2%AD%EC%97%90-Body-%EA%B0%92-%EC%A0%84%EB%8B%AC)
+- [`@surim014` / [번역] 재미와 이익을 위한 자바스크립트 최적화](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit)
+- [`@juhee067` / [오류해결] CJS 특징으로 인한 모듈 오류](https://velog.io/@juhee067/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0-CJS-%ED%8A%B9%EC%A7%95%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EB%AA%A8%EB%93%88-%EC%98%A4%EB%A5%98)
+- [`@9rganizedchaos` / Tanstack-Query 서버데이터 로컬스토리지에 캐싱하기 💽](https://velog.io/@9rganizedchaos/Tanstack-Query-%EC%84%9C%EB%B2%84%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80%EC%97%90-%EC%BA%90%EC%8B%B1%ED%95%98%EA%B8%B0)
+- [`@superlipbalm` / (번역) BFCache 알아보기](https://velog.io/@superlipbalm/bfcache)
+- [`@devstone` / 웹워커. 그게 뭔데 .](https://velog.io/@devstone/%EC%9B%B9%EC%9B%8C%EC%BB%A4-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
+- [`@kimbyungchan` / 🕹 Canvas StarCraft](https://velog.io/@kimbyungchan/canvas-starcraft)
+- [`@yerini` / 매개변수 쿼리](https://velog.io/@yerini/%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EC%BF%BC%EB%A6%AC)
 
 ---
 
 ## BLEX
+
 - [`@baealex` - [JavaScript] badland의 상태 관리](https://blex.me/@baealex/javascript-badland%EC%9D%98-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC)
 - [`@laetipark` - Node.js 교과서 : 1. 노드 시작하기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-1-%EB%85%B8%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [Node.js 교과서 : 2. 알아두어야 할 자바스크립트](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-2-%EC%95%8C%EC%95%84%EB%91%90%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
@@ -357,7 +360,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
 - [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
@@ -393,6 +396,8 @@ tag:
 - [`@hong009319` - Webpack → Vite: 스토리북의 번들러 마이그레이션](https://medium.com/@hong009319/webpack-vite-%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B6%81%EC%9D%98-%EB%B2%88%EB%93%A4%EB%9F%AC-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-0100b3ab0725)
 - [`Catenoid Techblog` - ffmpeg.wasm](https://techblog.catenoid.net/ffmepg-wasm-7160cc29e97d)
 - [`Coins Bench` - Mocking Addresses Without Private Keys in Hardhat Tests](https://coinsbench.com/mocking-addresses-without-private-keys-in-hardhat-tests-de35f960090a)
+- [`naver-place-dev` - 네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
+- [`mathpresso` / 웹에서 프리 드로잉 밑바닥부터 구현하기](https://blog.mathpresso.com/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC-%EB%93%9C%EB%A1%9C%EC%9E%89-%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-965a0d2253c1)
 
 ---
 
@@ -940,6 +945,12 @@ tag:
 ## 영찬 블로그
 
 - [Building A Clone Of <FontIcon icon="fa-brands fa-reddit"/>`r/place`](https://blog.0chan.dev/2024-04-28-Building-A-Clone-Of-RPlace/)
+
+---
+
+## Smashing Magazine — For Web Designers And Developers
+
+- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)
 
 ---
 

@@ -95,7 +95,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Ask Apple 2022 Q&A Related on Core Data (Part 1)](https://itnext.io/ask-apple-2022-q-a-related-on-core-data-part-1-59b9a9040322)
 - [SwiftDataKit: Unleashing Advanced Core Data Features in SwiftData](https://itnext.io/swiftdatakit-unleashing-advanced-core-data-features-in-swiftdata-3fcd5f443c99)
@@ -345,6 +345,7 @@ tag:
 - [[Swift] 타입 시스템을 활용하여 보다 안전하게 데이터 유효성 검증하기](https://minsone.github.io/swift-type-safe-validation)
 - [[iOS] `WKWebView`을 이용한 iOS 앱과 웹페이지 간의 통신 (1) - `WKWebView`과 Javasciprt Bridge](https://minsone.github.io/ios-wkwebview-webpage-communication-1-javascript-bridge)
 - [[iOS] `WKWebView`을 이용한 iOS 앱과 웹페이지 간의 통신 (2) - Control Flow](https://minsone.github.io/ios-wkwebview-webpage-communication-2-control-flow)
+- [[iOS] WKWebView을 이용한 iOS 앱과 웹페이지 간의 통신 (3) - Plugin을 이용하여 기능 확장하기](https://minsone.github.io/ios-wkwebview-webpage-communication-3-plugin)
 
 ---
 

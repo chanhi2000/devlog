@@ -11,6 +11,7 @@ tag:
   - python
   - py
   - juypter
+  - spark
 head:
   - - meta:
     - property: og:title
@@ -30,6 +31,12 @@ head:
 ## 멈춤보단 천천히라도
 
 - [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/2109)
+
+---
+
+## 정우일
+
+- [Spark Kafka 설치 방법(Docker Compose)](https://wooiljeong.github.io/spark/install-spark/)
 
 ---
 

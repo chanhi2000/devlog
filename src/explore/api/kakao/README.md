@@ -27,7 +27,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/api-kakao/" />
+<ToCLocal basePath="/explore/api/kakao/" />
 
 ---
 

@@ -28,7 +28,8 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [The Best VS Code Extensions For Remote Working](https://dev.to/morrone_carlo/the-best-vs-code-extensions-for-remote-working-e8e)
+- [`spaceofmiah` / Spring MVC on VSCode - Maven Project](https://dev.to/spaceofmiah/spring-mvc-on-vscode-maven-project-50g8#needful-vscode-extension)
+- [`morrone_carlo` / The Best VS Code Extensions For Remote Working](https://dev.to/morrone_carlo/the-best-vs-code-extensions-for-remote-working-e8e)
 
 ---
 
@@ -111,6 +112,18 @@ tag:
 - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/1842)
 - [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/2328)
 - [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/2101)
+
+---
+
+## 상구리의 기술 블로그
+
+- [VS Code – 컬럼 복사](https://www.skyer9.pe.kr/wordpress/?p=9019)
+
+---
+
+## 정우일
+
+- [Spark Kafka 설치 방법(Docker Compose)](https://wooiljeong.github.io/spark/install-spark/)
 
 ---
 

@@ -96,7 +96,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to dynamically adjust the appearance of a view based on its size and location",
+  "title": "How to dynamically adjust the appearance of a view based on its size and location | SwiftUI by Example",
   "desc": "How to dynamically adjust the appearance of a view based on its size and location",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -106,7 +106,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust the accent color of a view",
+  "title": "How to adjust the accent color of a view | SwiftUI by Example",
   "desc": "How to adjust the accent color of a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-accent-color-of-a-view.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -116,7 +116,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust List row separator visibility and color",
+  "title": "How to adjust List row separator visibility and color | SwiftUI by Example",
   "desc": "How to adjust List row separator visibility and color",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-list-row-separator-visibility-and-color.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -126,7 +126,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to dynamically change between VStack and HStack",
+  "title": "How to dynamically change between VStack and HStack | SwiftUI by Example",
   "desc": "How to dynamically change between VStack and HStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dynamically-change-between-vstack-and-hstack.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -136,9 +136,9 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to adjust views by tinting, and desaturating, and more",
-  "desc": "How to adjust views by tinting, and desaturating, and more",
-  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-views-by-tinting-and-desaturating-and-more.md",
+  "title": "How to adjust views by tinting, desaturating, and more | SwiftUI by Example",
+  "desc": "How to adjust views by tinting, desaturating, and more",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-views-by-tinting-desaturating-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

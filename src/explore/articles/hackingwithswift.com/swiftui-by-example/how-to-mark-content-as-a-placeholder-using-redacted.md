@@ -120,7 +120,7 @@ Redaction also works on images using the same code as shown above.
 
 ```component VPCard
 {
-  "title": "Article(s) > How to mark content as private using privacySensitive()",
+  "title": "How to mark content as private using privacySensitive() | SwiftUI by Example",
   "desc": "How to mark content as private using privacySensitive()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-private-using-privacysensitive.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -140,7 +140,7 @@ Redaction also works on images using the same code as shown above.
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create modifiers for a UIViewRepresentable struct",
+  "title": "How to create modifiers for a UIViewRepresentable struct | SwiftUI by Example",
   "desc": "How to create modifiers for a UIViewRepresentable struct",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-modifiers-for-a-uiviewrepresentable-struct.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -150,7 +150,7 @@ Redaction also works on images using the same code as shown above.
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render Markdown content in text",
+  "title": "How to render Markdown content in text | SwiftUI by Example",
   "desc": "How to render Markdown content in text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -160,7 +160,7 @@ Redaction also works on images using the same code as shown above.
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create scrolling pages of content using tabViewStyle()",
+  "title": "How to create scrolling pages of content using tabViewStyle() | SwiftUI by Example",
   "desc": "How to create scrolling pages of content using tabViewStyle()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-scrolling-pages-of-content-using-tabviewstyle.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

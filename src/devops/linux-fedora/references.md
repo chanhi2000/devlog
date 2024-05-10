@@ -21,4 +21,10 @@ tag:
 
 ---
 
+## 위지원의 개발 일기 🐈 
+
+- [libnsl.so.1()(64bit) is needed by oracle-instantclient](https://weejw.tistory.com/617)
+
+---
+
 <TagLinks />

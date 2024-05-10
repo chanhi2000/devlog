@@ -156,7 +156,7 @@ TabView {
 {
   "title": "How to render Markdown content in text | SwiftUI by Example",
   "desc": "How to render Markdown content in text",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -166,7 +166,7 @@ TabView {
 {
   "title": "How to mark content as a placeholder using redacted() | SwiftUI by Example",
   "desc": "How to mark content as a placeholder using redacted()",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-a-placeholder-using-redacted.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-a-placeholder-using-redacted.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -176,7 +176,7 @@ TabView {
 {
   "title": "How to mark content as private using privacySensitive() | SwiftUI by Example",
   "desc": "How to mark content as private using privacySensitive()",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-private-using-privacysensitive.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-mark-content-as-private-using-privacysensitive.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

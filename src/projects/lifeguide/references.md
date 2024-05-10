@@ -26,7 +26,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`baekkyoungjung` / 개발자 삶의 질이 향상되는 장비 꿀템 추천 best 3 (2024년 버전)](https://baekkyoungjung.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%82%B6%EC%9D%98-%EC%A7%88%EC%9D%B4-%ED%96%A5%EC%83%81%EB%90%98%EB%8A%94-%EC%9E%A5%EB%B9%84-%EA%BF%80%ED%85%9C-%EC%B6%94%EC%B2%9C-best-3-2024%EB%85%84-%EB%B2%84%EC%A0%84-b8da414da09a)
 

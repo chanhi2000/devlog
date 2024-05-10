@@ -31,7 +31,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Building a Dashboard with ASP.NET Core and DotVVM](https://medium.com/dotvvm/building-a-dashboard-with-asp-net-core-and-dotvvm-b0439a489a9c)
 - [Unit Testing with xUnit in ASP.NET Core](https://malshikay.medium.com/unit-testing-with-xunit-in-asp-net-core-86dbbda6f651)
@@ -50,7 +50,9 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [`sukkergris` - Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
+- [`sukkergris` / Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
+- [`adrianbailador` / Design Patterns in C#](https://dev.to/adrianbailador/design-patterns-in-c-n9)
+- [`turalsuleymani` / C# Delegates In Practice — Implementing Observer Pattern With Delegates](https://dev.to/turalsuleymani/c-delegates-in-practice-implementing-observer-pattern-with-delegates-54dh)
 
 ---
 
@@ -197,12 +199,15 @@ tag:
 - [[WPF] Static Resource와 Dynamic Resource](https://hj0216.tistory.com/912)
 - [[WPF] 한글 Encoding ANSI / UTF8](https://hj0216.tistory.com/913)
 - [[WPF] 생성자 Override](https://hj0216.tistory.com/914)
+- [[WPF] 생성자 Overloading (2)](https://hj0216.tistory.com/916)
 
 ---
 
 ## 재우니의 블로그
 
 - [Dapper (ORM) 과 EF 비교하여 WHERE 조건 검색 비교하기](https://aspdotnet.tistory.com/3189)
+- [C# : LINQ 를 활용한 차집합과 교집합 구하기 (Except, Intersect)](https://aspdotnet.tistory.com/3202)
+- [ASP.NET CORE 8 : FLY.IO 설치 및 배포하기](https://aspdotnet.tistory.com/3203)
 
 ---
 

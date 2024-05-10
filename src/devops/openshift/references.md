@@ -19,9 +19,15 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`freedomben` - Introduction to `oc` — the OpenShift Command Line Power Tool](https://freedomben.medium.com/introduction-to-oc-the-openshift-command-line-power-tool-cdcd399b4048)
+
+---
+
+## Mastertheboss
+
+- [Openshift Cheatsheet for DevOps](http://www.mastertheboss.com/soa-cloud/openshift/openshift-cheatsheet)
 
 ---
 

@@ -8,11 +8,14 @@ category:
   - Supabase
   - Article(s)
 tag: 
+  - blog
+  - zuminternet.github.io
   - js
   - node
   - nodejs
+  - firebase
+  - fcm
   - supabase
-  - blog
 head:
   - - meta:
     - property: og:title
@@ -25,8 +28,55 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+```component VPCard
+{
+  "title": "ZUM 기술 블로그",
+  "desc": "생각을 읽다, ZUM, 고객의 생각을 읽고 담는 줌 인터넷 개발자들의 '좀 다른 개발 이야기'를 소개 합니다.",
+  "link": "https://zuminternet.github.io/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
+}
+```
+
 [[toc]]
 
+---
+
+## ZUM 기술 블로그
+
+> zuminternet.github.io
+
+```component VPCard
+{
+  "title": "FCM 푸시 파헤치기",
+  "desc": "파일럿부터 적용까지 진행했던 FCM 푸시를 파헤치며 기초 가이드북처럼 정리해보았습니다.",
+  "link": "https://zuminternet.github.io/FCM-PUSH/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "제목은 Spring Session 도입기로 하겠습니다. 근데 이제 Redis를 곁들인",
+  "desc": "지속 가능한 서비스를 만들기 위해 기존 아키텍처를 유지하면서 서비스를 개선하는 과정을 소개합니다.",
+  "link": "https://zuminternet.github.io/spring-session/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
+}
+```
+
+
+```component VPCard
+{
+  "title": "리다이렉트 서버와 FCM 푸시 연동",
+  "desc": "리다이렉트 서버와 FCM 푸시 연동과정을 정리해보았습니다.",
+  "link": "https://zuminternet.github.io/redirect-FCM-push/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
+}
+```
+  
 ---
 
 <TagLinks />

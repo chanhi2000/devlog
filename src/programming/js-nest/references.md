@@ -40,6 +40,11 @@ tag:
 - [Nest.js - 보고서 프로젝트 기본 세팅 (2)](https://blog.naver.com/gi_balja/223437238342)
 - [Nest.js - 보고서 프로젝트 CRUD](https://blog.naver.com/gi_balja/223438421755)
   
+---
+
+## 발자취
+
+- [NestJS 디버깅 설정 하기](https://tre2man.tistory.com/368)
 
 ---
 

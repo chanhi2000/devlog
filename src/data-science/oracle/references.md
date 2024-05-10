@@ -116,4 +116,10 @@ tag:
 
 ---
 
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [오라클, SQL·자바 특화 AI 코딩 도구 ‘코드 어시스트’ 출시](https://www.ciokorea.com/news/336095)
+
+---
+
 <TagLinks />

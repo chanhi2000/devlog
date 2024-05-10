@@ -110,7 +110,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Writing Better Commits](https://itnext.io/writing-better-commits-6a1691c12772)
 - [4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
@@ -252,6 +252,18 @@ tag:
 ## haon.blog
 
 - [협업을 위한 Git Commit Convension (커밋 컨벤션)](https://haon.blog/github/convention/)
+
+---
+
+## SH's Devlog
+
+- [[Git] Git Rebase란? (feat. git-flow 히스토리를 더 이쁘게 만들기)](https://seosh817.tistory.com/240)
+
+---
+
+## @opendoor_life
+
+- [개발 :: Git 초보를 위한 깃 명령어 & 용어 정리 (+커밋 히스토리 브랜치 그래프 보는법, Git Log 옵션 종류, 단축 명령어 Alias(별칭) 설정, 터미널 커맨드라인)](https://blog.naver.com/jdusans/222043705693)
 
 ---
 

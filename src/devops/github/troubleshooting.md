@@ -45,7 +45,7 @@ Git push: Missing or invalid credentials. fatal: Authentication failed for 'http
 To solve the problem:
 
 - Open vscode `File` > `Preferences` > `Settings`
-- Search for <em>git.terminalAuthentication</em>
+- Search for `git.terminalAuthentication`
 - Uncheck the option
 
 ::: warning 주의

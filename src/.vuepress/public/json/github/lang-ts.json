@@ -2763,5 +2763,30 @@
     "desc": "Tegon is an open-source, AI-first alternative to Jira, Linear",
     "officialSite": "https://tegon.ai",
     "topics": ["ai", "issue-management", "issue-tracker", "issue-tracking-system", "jira", "jira-alternative", "kanban", "linear-alternative", "open-source", "product-management", "productivity", "project-management", "react", "typescript"]
+  }, {
+    "repo": "SOS-RS/backend",
+    "desc": "Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos",
+    "officialSite": "https://sos-rs.com",
+    "topics": []
+  }, {
+    "repo": "SOS-RS/frontend",
+    "desc": "",
+    "officialSite": "https://sos-rs.com",
+    "topics": []
+  }, {
+    "repo": "francisrstokes/githublog",
+    "desc": "I'm sick of complex blogging solutions, so markdown files in a git repo it is",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "frost-beta/node-mlx",
+    "desc": "Machine learning framework for Node.js.",
+    "officialSite": "",
+    "topics": ["machine-learning", "nodejs"]
+  }, {
+    "repo": "facebook/memlab",
+    "desc": "A framework for finding JavaScript memory leaks and analyzing heap snapshots",
+    "officialSite": "https://facebook.github.io/memlab/",
+    "topics": ["detector", "e2e", "facebook", "heap", "hermes", "javascript", "leak", "memory", "nodejs", "perf-tools", "performance", "snapshot", "v8"]
   }
 ]

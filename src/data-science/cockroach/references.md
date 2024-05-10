@@ -1,14 +1,15 @@
 ---
 lang: ko-KR
 title: References
-description: 🪳Cockroach > References
+description: Cockroach > References
 icon: iconfont icon-share
 category:
-  - 🪳Cockroach
+  - CockroachDB
   - References
 tag: 
   - sql
   - db
+  - cockroach
   - cockroachdb
   - duckdb
 ---

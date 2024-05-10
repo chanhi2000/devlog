@@ -2,11 +2,13 @@
 lang: ko-KR
 title: GeoLocation
 description: NCloud > GeoLocation
-icon: fas fa-earth-americas
+icon: fas fa-map-location-dot
 category:
+  - API
   - NCloud
   - GeoLocation
 tag: 
+  - api
   - ncloud
   - geolocation
 ---

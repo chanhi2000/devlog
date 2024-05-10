@@ -181,7 +181,7 @@ struct ContentView: View {
 {
   "title": "How to create a custom layout using the Layout protocol | SwiftUI by Example",
   "desc": "How to create a custom layout using the Layout protocol",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-layout-using-the-layout-protocol.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-layout-using-the-layout-protocol.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -191,7 +191,7 @@ struct ContentView: View {
 {
   "title": "How to create an adaptive layout with ViewThatFits | SwiftUI by Example",
   "desc": "How to create an adaptive layout with ViewThatFits",
-  "link": "https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-an-adaptive-layout-with-viewthatfits.html",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-an-adaptive-layout-with-viewthatfits.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

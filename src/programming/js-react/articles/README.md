@@ -9,6 +9,10 @@ category:
   - React.js
   - Article(s)
 tag: 
+  - blog
+  - freecodecamp.org
+  - yozm.wishket.com
+  - zuminternet.github.io
   - js
   - javascript
   - ts
@@ -17,7 +21,6 @@ tag:
   - reactjs
   - react-js
   - react-native
-  - blog
 head:
   - - meta:
     - property: og:title
@@ -47,6 +50,16 @@ head:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ZUM 기술 블로그",
+  "desc": "생각을 읽다, ZUM, 고객의 생각을 읽고 담는 줌 인터넷 개발자들의 '좀 다른 개발 이야기'를 소개 합니다.",
+  "link": "https://zuminternet.github.io/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
 }
 ```
 
@@ -161,6 +174,22 @@ head:
   "link": "/explore/articles/yozm.wishket.com/2537.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+---
+
+## ZUM 기술 블로그
+
+> zuminternet.github.io
+
+```component VPCard
+{
+  "title": "Next, d3로 서버 사이드 지도 렌더링하기",
+  "desc": "지속 가능한 서비스를 만들기 위해 기존 아키텍처를 유지하면서 서비스를 개선하는 과정을 소개합니다.",
+  "link": "https://zuminternet.github.io/real-estate-data-visualization/",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
 }
 ```
 

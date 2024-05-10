@@ -53,7 +53,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Kubernetes commands that every developer must know ☸](https://medium.com/@InzamamAhmad/kubernetes-commands-that-every-developer-must-know-192d2bc40608)
 - [How to deploy your Golang project on Kubernetes](https://medium.com/@kasthedeveloper/how-to-deploy-your-golang-project-on-kubernetes-d22d2b4c70c7)
@@ -195,6 +195,24 @@ tag:
 ## Zerohertz
 
 - [CKA (Certified Kubernetes Administrator)](https://zerohertz.github.io/cka/)
+
+---
+
+## The New Stack
+
+- [5 New Kubeflow 1.3 Features that Machine Learning Engineers Will Love](https://thenewstack.io/5-new-kubeflow-1-3-features-that-machine-learning-engineers-will-love)
+
+---
+
+## CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
+
+- [Kubernetes Explained Simply: Containers, Pods and Images](https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images)
+
+---
+
+## LinuxTechi: Linux Howtos, Commands and Tutorials
+
+- [How to Configure NGINX as TCP/UDP Load Balancer in Linux](https://www.linuxtechi.com/configure-nginx-tcp-udp-loadbalancer-linux)
 
 ---
 

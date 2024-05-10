@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Two-way bindings in SwiftUI
-description: Article(s) > Two-way bindings in SwiftUI
+description: Article(s) > Two-way bindings in Swift
 category:
   - Swift
   - SwiftUI
@@ -17,7 +17,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > Two-way bindings in SwiftUI
+      content: Article(s) > Two-way bindings in Swift
     - property: og:description
       content: Two-way bindings in SwiftUI
     - property: og:url
@@ -195,7 +195,7 @@ We added a button inside `ItemDetail` and it was blue text on a clear background
 
 ```component VPCard
 {
-  "title": "Article(s) > Working with forms",
+  "title": "Working with forms | SwiftUI by Example",
   "desc": "Working with forms",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-forms.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -205,7 +205,7 @@ We added a button inside `ItemDetail` and it was blue text on a clear background
 
 ```component VPCard
 {
-  "title": "Article(s) > Basic form design",
+  "title": "Basic form design | SwiftUI by Example",
   "desc": "Basic form design",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/basic-form-design.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -215,7 +215,7 @@ We added a button inside `ItemDetail` and it was blue text on a clear background
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create a toggle switch",
+  "title": "How to create a toggle switch | SwiftUI by Example",
   "desc": "How to create a toggle switch",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-toggle-switch.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -225,7 +225,7 @@ We added a button inside `ItemDetail` and it was blue text on a clear background
 
 ```component VPCard
 {
-  "title": "Article(s) > How to read text from a TextField",
+  "title": "How to read text from a TextField | SwiftUI by Example",
   "desc": "How to read text from a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-read-text-from-a-textfield.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -235,7 +235,7 @@ We added a button inside `ItemDetail` and it was blue text on a clear background
 
 ```component VPCard
 {
-  "title": "Article(s) > How to animate changes in binding values",
+  "title": "How to animate changes in binding values | SwiftUI by Example",
   "desc": "How to animate changes in binding values",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-changes-in-binding-values.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -245,7 +245,7 @@ We added a button inside `ItemDetail` and it was blue text on a clear background
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create a segmented control and read values from it",
+  "title": "How to create a segmented control and read values from it | SwiftUI by Example",
   "desc": "How to create a segmented control and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-segmented-control-and-read-values-from-it.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

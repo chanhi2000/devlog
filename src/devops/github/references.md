@@ -31,7 +31,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`mcdonalds-technical-blog`: Reduce, reuse, recycle: McDonald's reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
 

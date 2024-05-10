@@ -1389,5 +1389,10 @@
     "desc": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "sophiajt/june",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -27,7 +27,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Easy CSRF bypass](https://infosecwriteups.com/easy-csrf-bypass-7226b4e3593e)
 

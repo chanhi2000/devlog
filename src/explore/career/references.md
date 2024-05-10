@@ -1,4 +1,4 @@
-
+---
 lang: ko-KR
 title: References
 description: Career > References
@@ -84,10 +84,11 @@ tag:
 - [`@surim014` / [번역] 소프트웨어 개발의 미래에 대한 생각](https://velog.io/@surim014/thoughts-on-the-future-of-software-development)
 - [`@broccolism` / 계획대로 된게 거의 없어서 오히려 좋은 개발자 모임 참여 후기 - 글또 9기](https://velog.io/@broccolism/%EA%B3%84%ED%9A%8D%EB%8C%80%EB%A1%9C-%EB%90%9C%EA%B2%8C-%EA%B1%B0%EC%9D%98-%EC%97%86%EC%96%B4%EC%84%9C-%EC%98%A4%ED%9E%88%EB%A0%A4-%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0)
 - [`@endmoseung` / 주도적인 사람](https://velog.io/@endmoseung/%EC%A3%BC%EB%8F%84%EC%A0%81%EC%9D%B8-%EC%82%AC%EB%9E%8C)
+- [`@greencloud` / 질문 '잘' 하는 법](https://velog.io/@greencloud/%EC%A7%88%EB%AC%B8-%EC%9E%98-%ED%95%98%EB%8A%94-%EB%B2%95)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>
+## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`delightroom` - 1년 만에 성공한 온보딩 실험 작업기](https://medium.com/delightroom/1%EB%85%84-%EB%A7%8C%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%9C-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8B%A4%ED%97%98-%EC%9E%91%EC%97%85%EA%B8%B0-5b96330a3bb3)
 - [`namunamu1105` - 내가 개발자로서 회사에서 한 실수들](https://namunamu1105.medium.com/%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%ED%95%9C-%EC%8B%A4%EC%88%98%EB%93%A4-ffca7bb947a2)
@@ -100,16 +101,21 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [`@devlawrence` - How to build a Good Portfolio Website - My Approach.](https://dev.to/devlawrence/how-to-build-a-good-portfolio-website-my-approach-14dj)
+- [`@devlawrence` / How to build a Good Portfolio Website - My Approach.](https://dev.to/devlawrence/how-to-build-a-good-portfolio-website-my-approach-14dj)
+- [`ilonacodes` / The Importance of Financial Independence For Software Developers](https://dev.to/ilonacodes/the-importance-of-financial-independence-for-software-developers-98m)
 
 ## Brunch 
 
-- [`@jamess` - 프리랜서가 값싼 프로젝트에서 벗어나지 못하는 이유](https://brunch.co.kr/@jamess/107)
-- [`@mystoryg` - AI와 개발자: 협업의 새로운 패러다임](https://brunch.co.kr/@mystoryg/212)
+- [`@jamess` / 내가 만든 서비스에 사용자가 급증하면 어떻게 해요?](https://brunch.co.kr/@jamess/45)
+- [`@jamess` / 프리랜서가 값싼 프로젝트에서 벗어나지 못하는 이유](https://brunch.co.kr/@jamess/107)
+- [`@mystoryg` / AI와 개발자: 협업의 새로운 패러다임](https://brunch.co.kr/@mystoryg/212)
 - [`@delight412` - 트위터 보단 스냅이 제품 혁신에서 앞섰다...왜?](https://brunch.co.kr/@delight412/683)
 - [`@delight412` - 토큰 출시 규제 리스크, 어떻게 대응해야 할까](https://brunch.co.kr/@delight412/682)
 - [`@yongjinjinipln` - Pre-mortem으로 비즈니스 가설을 사전에 검증한다](https://brunch.co.kr/@yongjinjinipln/126)
 - [`@yahao2512` - 의미와 재미를 잡기 위한 이번 이직은 성공적이었을까?](https://brunch.co.kr/@yahao2512/30)
+- [`@gauss92tgrd` / 한국금융공학회 금융공학연구 23권 1호(2024.3)](https://brunch.co.kr/@gauss92tgrd/116)
+- [`@reinlainer` / [자기 계발] 결정의 심리학](https://brunch.co.kr/@reinlainer/83)
+- [`@cleancode` / 경험주의](https://brunch.co.kr/@cleancode/75)
 
 ---
 
@@ -250,6 +256,8 @@ tag:
 - [[내일배움캠프 5일차 TIL] 미니 프로젝트 발표](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C)
 - [[정보처리기사 실기] 개념요약 - 04. 서버 프로그램 구현](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-04-%EC%84%9C%EB%B2%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B5%AC%ED%98%84)
 - [[내일배움캠프 1주차 WIL] 미니 프로젝트 및 코딩 테스트](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%A3%BC%EC%B0%A8-WIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B)
+- [[내일배움캠프 4주차 WIL] 프로그래밍 기초 팀 프로젝트 마무리 및 독서토론](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-4%EC%A3%BC%EC%B0%A8-WIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
+- [[내일배움캠프 19일차 TIL] 팀 프로젝트 발표 및 KPT 회고](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-19%EC%9D%BC%EC%B0%A8-TIL-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C-%EB%B0%8F-KPT-%ED%9A%8C%EA%B3%A0)
 
 ---
 
@@ -315,6 +323,7 @@ tag:
 - [해답은 등잔 밑에](https://www.thestartupbible.com/2024/04/do-not-look-too-far-for-answers.html)
 - [숨은 공동 창업자](https://www.thestartupbible.com/2024/04/the-hidden-co-founder.html)
 - [큰 팔로잉, 큰 책임](https://www.thestartupbible.com/2024/04/with-great-following-comes-great-responsibility.html)
+- [확장에 대한 상반된 견해](https://www.thestartupbible.com/2024/05/some-opposing-views-on-scalability.html)
 
 ---
 
@@ -370,8 +379,8 @@ tag:
 ## 오세용닷컴
 
 - [[유자랩스 창업기 #36] 판단하지 마세요. 제안하세요.](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-36-%ed%8c%90%eb%8b%a8%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-%ec%a0%9c%ec%95%88%ed%95%98%ec%84%b8%ec%9a%94)
-- [[유자랩스 창업기 #37] 창업 1주년 회고](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-37-%ec%b0%bd%ec%97%85-1%ec%a3%bc%eb%85%84-%ed%9a%8c%ea%b3%a0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%25a0%25ec%259e%2590%25eb%259e%25a9%25ec%258a%25a4-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b8%25b0-37-%25ec%25b0%25bd%25ec%2597%2585-1%25ec%25a3%25bc%25eb%2585%2584-%25ed%259a%258c%25ea%25b3%25a0)
-- [[서평] 코딩도 하고, 사장도 합니다](https://ohseyong.com/%ec%84%9c%ed%8f%89-%ec%bd%94%eb%94%a9%eb%8f%84-%ed%95%98%ea%b3%a0-%ec%82%ac%ec%9e%a5%eb%8f%84-%ed%95%a9%eb%8b%88%eb%8b%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%259c%25ed%258f%2589-%25ec%25bd%2594%25eb%2594%25a9%25eb%258f%2584-%25ed%2595%2598%25ea%25b3%25a0-%25ec%2582%25ac%25ec%259e%25a5%25eb%258f%2584-%25ed%2595%25a9%25eb%258b%2588%25eb%258b%25a4)
+- [[유자랩스 창업기 #37] 창업 1주년 회고](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-37-%ec%b0%bd%ec%97%85-1%ec%a3%bc%eb%85%84-%ed%9a%8c%ea%b3%a0/)
+- [[서평] 코딩도 하고, 사장도 합니다](https://ohseyong.com/%ec%84%9c%ed%8f%89-%ec%bd%94%eb%94%a9%eb%8f%84-%ed%95%98%ea%b3%a0-%ec%82%ac%ec%9e%a5%eb%8f%84-%ed%95%a9%eb%8b%88%eb%8b%a4/)
 
 ---
 
@@ -544,6 +553,7 @@ tag:
 - [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 2장. 개략적인 규모 측정](https://rutgo-letsgo.tistory.com/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-2%EC%9E%A5-%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8-%EA%B7%9C%EB%AA%A8-%EC%B8%A1%EC%A0%95)
 - [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 1장. 사용자 수에 따른 규모 확장성](https://rutgo-letsgo.tistory.com/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-1)
 - [3장. 시스템 설계 면접 공략법](https://rutgo-letsgo.tistory.com/entry/3%EC%9E%A5-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EB%A9%B4%EC%A0%91-%EA%B3%B5%EB%9E%B5%EB%B2%95)
+- [[DDD 세레나데 6기] 1주차 강의](https://rutgo-letsgo.tistory.com/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-%EA%B0%95%EC%9D%98)
 
 ---
 
@@ -610,6 +620,8 @@ tag:
 - [04.다른 사람들 보면 쉽고 빠르게 성공하는 것 같은데 그런 방법이 없을까요? ](https://duriepark.tistory.com/entry/04%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EB%93%A4-%EB%B3%B4%EB%A9%B4-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-%EA%B7%B8%EB%9F%B0-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%97%86%EC%9D%84%EA%B9%8C%EC%9A%94)
 - [08.다른 사람이 내 맘을 몰라줍니다. 어떻게 해야 할까요?](https://duriepark.tistory.com/entry/08%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%82%B4-%EB%A7%98%EC%9D%84-%EB%AA%B0%EB%9D%BC%EC%A4%8D%EB%8B%88%EB%8B%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
 - [09.소통을 잘하고 싶습니다. 방법이 있을까요?](https://duriepark.tistory.com/entry/09%EC%86%8C%ED%86%B5%EC%9D%84-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
+- [10.성공하는 배우자를 선택하는 방법이 있을까요?](https://duriepark.tistory.com/722)
+- [11.나와 맞는 사람을 찾는 좋은 방법이 있을까요?](https://duriepark.tistory.com/726)
 
 ---
 
@@ -622,6 +634,7 @@ tag:
 ## Minty Box
 
 - [[취준] 3-4월 KPT 회고](https://shout-to-my-mae.tistory.com/428)
+- [스타트업 평가단이 되어 배운 발표의 기술](https://shout-to-my-mae.tistory.com/429)
 
 ---
 
@@ -672,6 +685,19 @@ tag:
 ## DREAMING FOR THE FUTURE
 
 - [리더십으로의 정원사](http://www.chidoo.me/index.php/2024/05/06/gardener-as-a-leadership/)
+
+---
+
+## 데엔잘하고싶은데엔🔥💎
+
+- [결정을 도와주는 '힉의 법칙'이 적용된 UX사례](https://pearlluck.tistory.com/804)
+
+---
+
+## 그대안의작은호수
+
+- [넥스트레이드의 매칭기술이 궁금..](https://smallake.kr/?p=34140)
+- [금융위와 금감원이 내놓은 ATS 운영방안](https://smallake.kr/?p=34104)
 
 ---
 
