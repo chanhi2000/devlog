@@ -60,9 +60,29 @@ head:
 
 ---
 
-## freeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 > freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Parse a String in Python – Parsing Strings Explained",
+  "desc": "Parsing a string can mean different things in Python. You can parse a string by splitting or extracting the substrings.  You can also parse a string by converting it to an integer or float variable. Although this should be categorized as a type conversion operation, you'll come across resources...",
+  "link": "/explore/articles/freecodecamp.org/how-to-parse-a-string-in-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Check Python Version – How to Check Py in Mac, Windows, and Linux",
+  "desc": "Python is a versatile and widely used programming language known for its simplicity and readability.  With its ever-evolving nature, different versions of Python are often released, each offering new features, enhancements, and bug fixes.  As a Python developer, it is crucial to be aware of the Python version...",
+  "link": "/explore/articles/freecodecamp.org/check-python-version-how-to-check-py-in-mac-windows-and-linux.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ```component VPCard
 {

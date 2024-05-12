@@ -74,5 +74,10 @@
     "desc": "전문통신",
     "officialSite": "",
     "topics": ["annotation", "enum", "factory", "fulltext", "spring", "spring-boot"]
+  }, {
+    "repo": "ddd-by-examples/library",
+    "desc": "A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.",
+    "officialSite": "",
+    "topics": ["aggregate", "aggregate-root", "archunit", "c4", "crud", "ddd", "ddd-architecture", "domain-driven-design", "event-storming", "events", "functions", "hexagonal-architecture", "ports-and-adapters", "spring", "vavr"]
   }
 ]

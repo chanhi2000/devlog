@@ -282,7 +282,7 @@ If you explore the API using Xcode's autocomplete, you'll see all sorts of optio
 
 ```component VPCard
 {
-  "title": "Article(s) > How to stack modifiers to create more advanced effects",
+  "title": "How to stack modifiers to create more advanced effects | SwiftUI by Example",
   "desc": "How to stack modifiers to create more advanced effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-stack-modifiers-to-create-more-advanced-effects.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -292,7 +292,7 @@ If you explore the API using Xcode's autocomplete, you'll see all sorts of optio
 
 ```component VPCard
 {
-  "title": "Article(s) > How to format text inside text views",
+  "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -302,7 +302,7 @@ If you explore the API using Xcode's autocomplete, you'll see all sorts of optio
 
 ```component VPCard
 {
-  "title": "Article(s) > How to add spacing between letters in text",
+  "title": "How to add spacing between letters in text | SwiftUI by Example",
   "desc": "How to add spacing between letters in text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-spacing-between-letters-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -312,7 +312,7 @@ If you explore the API using Xcode's autocomplete, you'll see all sorts of optio
 
 ```component VPCard
 {
-  "title": "Article(s) > How to align form text and controls neatly with LabeledContent",
+  "title": "How to align form text and controls neatly with LabeledContent | SwiftUI by Example",
   "desc": "How to align form text and controls neatly with LabeledContent",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-align-form-text-and-controls-neatly-with-labeledcontent.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

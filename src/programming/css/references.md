@@ -88,8 +88,9 @@ tag:
 
 ## Substack
 
-- [`cssisntmagic` - `position: absolute` frees us from using `display: block`](https://cssisntmagic.substack.com/p/position-absolute-frees-us-from-using-cf4)
-- [`cssisntmagic` - CSS without order dependencies](https://cssisntmagic.substack.com/p/css-without-order-dependence)
+- [`cssisntmagic` / `position: absolute` frees us from using `display: block`](https://cssisntmagic.substack.com/p/position-absolute-frees-us-from-using-cf4)
+- [`cssisntmagic` / CSS without order dependencies](https://cssisntmagic.substack.com/p/css-without-order-dependence)
+- [`cssisntmagic` / We don't need to use 0 anymore to define margins and paddings](https://cssisntmagic.substack.com/p/we-dont-need-to-use-0-anymore-to-3e0)
 
 ---
 
@@ -104,13 +105,18 @@ tag:
 - [Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
 - [CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023)
 
-
 ---
 
 ## WebKit
 
 - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
 - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
+
+---
+
+## Web.dev
+
+- [Popover API가 Baseline에 도입](https://web.dev/blog/popover-api)
 
 ---
 
@@ -148,6 +154,7 @@ tag:
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [30 Practical Tips for Effective User Interface Design](https://uxplanet.org/30-practical-tips-for-effective-user-interface-design-59e1e46ac370)
+- [`front-end-weekly` / CSS Container Queries: Revolutionising Responsive Web Design](https://medium.com/front-end-weekly/css-container-queries-revolutionising-responsive-web-design-bd65b4b23b29)
 
 ---
 
@@ -164,6 +171,7 @@ tag:
 ## LogRocket
 
 - [Creating a typewriter animation effect with only CSS](https://blog.logrocket.com/creating-typewriter-animation-css)
+- [Understanding the CSS revert-layer keyword](https://blog.logrocket.com/understanding-css-revert-layer/)
 
 ---
 
@@ -359,6 +367,7 @@ tag:
 
 - [Alternating Style Queries](https://kizu.dev/alternating-style-queries/)
 - [Layered Toggles: Optional CSS Mixins](https://kizu.dev/layered-toggles/)
+- [Self-Modifying Variables: the `inherit()` Workaround](https://kizu.dev/self-modifying-variables/)
 
 ---
 
@@ -376,6 +385,8 @@ tag:
 - [A Fancy Frame With Zig-Zag Borders](https://css-tip.com/zig-zag-box/)
 - [A Modern Way To Create A Star Shape](https://css-tip.com/star-shape/)
 - [CSS-Only Pixelated Cut Corners](https://css-tip.com/pixelated-corner/)
+- [Avatar With Status Indicator](https://css-tip.com/status-indicator/)
+- [Write Better CSS With Modern CSS](https://css-tip.com/better-modern-css/)
 
 ---
 
@@ -407,10 +418,75 @@ tag:
 
 - [How to Add a Smooth Scroll in CSS](https://www.lambdatest.com/blog/smooth-scroll-in-css/)
 - [How to Set CSS Media Query For Portrait Orientation](https://www.lambdatest.com/blog/css-media-query-for-portrait/)
+- [The Ultimate Guide to CSS Keyframes Animation](https://www.lambdatest.com/blog/css-keyframes-animation/)
+- [CSS Margins: All You Need to Know](https://www.lambdatest.com/blog/css-margins/)
+
+---
 
 ## Cruncher
 
 - [Printing music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+
+---
+
+## Terence Eden’s Blog
+
+- [Use CSS to boost the font size of emoji with no extra markup](https://shkspr.mobi/blog/2024/04/use-css-to-boost-the-font-size-of-emoji-with-no-extra-markup/)
+
+---
+
+## The Cascade
+
+- [Popover API](https://www.csscade.com/popover-api)
+- [Cool queries](https://www.csscade.com/cool-queries)
+
+---
+
+## Fully Stacked
+
+- [The slow death of CSS vendor prefixes](https://fullystacked.net/prefix/)
+
+---
+
+## Envato Tuts+
+
+- [2 Ways to Make Half-Colored Background Page Sections](https://webdesign.tutsplus.com/2-ways-to-make-half-colored-background-page-sections--cms-108648t)
+
+---
+
+## Ryan Mulligan
+
+- [Detect JavaScript Support in CSS](https://ryanmulligan.dev/blog/detect-js-support-in-css/)
+
+---
+
+## Dharmen Shah's Blog
+
+- [Animation can make bell🔔 much more than emoji!](https://blog.shhdharmen.me/animation-can-make-bell-much-more-than-emoji)
+
+---
+
+## Bram.us – A rather geeky/technical weblog, est. 2001, by Bramus
+
+- [If View Transitions and Scroll-Driven Animations had a baby](https://www.bram.us/2024/04/29/if-view-transitions-and-scroll-driven-animations-had-a-baby-css-cafe/)
+
+---
+
+## Noah Liebman
+
+- [Recursion! In the stylesheet](https://noahliebman.net/2024/04/recursion-in-the-stylesheet/)
+
+---
+
+## Lullabot
+
+- [Do You Still Need Sass?](https://www.lullabot.com/articles/do-you-still-need-sass-2024)
+
+---
+
+## Geoff Graham
+
+- [The New `!important`](https://geoffgraham.me/the-new-css-important/)
 
 ---
 

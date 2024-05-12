@@ -9,8 +9,10 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - devkuma.com
   - meetup.nhncloud.com
+  - engineering.linecorp.com
   - sh
   - bash
 head:
@@ -37,6 +39,16 @@ head:
 
 ```component VPCard
 {
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "devkuma", 
   "desc": "데브쿠마는 프로그래밍 개발에 대한 지식을 공유합니다.", 
   "link": "https://www.devkuma.com/", 
@@ -55,11 +67,21 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Blog - LINE ENGINEERING",
+  "desc": "2022-LINE-engineering-site",
+  "link": "https://engineering.linecorp.com/ko/blog/",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
+}
+```
+
 [[toc]]
 
 ---
 
-## freeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 > freecodecamp.org
 
@@ -70,6 +92,22 @@ head:
   "link": "/explore/articles/freecodecamp.org/linux-terminal-piping-and-redirection-guide.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "백엔드 개발자라면 알아야 할 리눅스 필수 명령어 21개 | 요즘IT",
+  "desc": "백엔드 개발자라면 알아야 할 리눅스 필수 명령어 21개",
+  "link": "/explore/articles/yozm.wishket.com/2103.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -122,6 +160,22 @@ head:
   "link": "/explore/articles/meetup.nhncloud.com/55.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+---
+
+## Blog - LINE ENGINEERING
+
+> engineering.linecorp.com
+
+```component VPCard
+{
+  "title": "모두가 행복해지는 API 문서 통합과 자동화",
+  "desc": "안녕하세요. LINE Plus에서 LINE Monary와 MyDashboard 서비스의 백엔드를 맡고 있는 조성빈입니다. 이번 글에서는 백엔드 서비스 개발 및 운영 업무를...",
+  "link": "/explore/articles/engineering.linecorp.com/api-document-integration-and-documentation-automation.md",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
 }
 ```
 

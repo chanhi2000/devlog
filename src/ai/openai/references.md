@@ -58,7 +58,7 @@ tag:
 
 ---
 
-## FreeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [The Brain-Inspired Approach to AI – Explained for Developers](https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai)
 

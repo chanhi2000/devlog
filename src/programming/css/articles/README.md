@@ -8,8 +8,13 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
+  - yozm.wishket.com
   - devtoolstips.org
+  - frontendmasters.com
+  - piccalil.li
   - meetup.nhncloud.com
+  - sitepoint.com
   - css
 head:
   - - meta:
@@ -22,6 +27,16 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -70,6 +85,32 @@ head:
   "link": "https://meetup.nhncloud.com/",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design", 
+  "desc": "Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design", 
+  "link": "https://sitepoint.com/", 
+  "logo": "https://sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
+}
+```
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Add Media to Your HTML Email Template",
+  "desc": "In my previous article, we explored the fundamentals of designing and coding a simple HTML email template that adapts beautifully across different devices and email clients. I got a couple of questions about adding media to the HTML email template...",
+  "link": "/explore/articles/freecodecamp.org/how-to-add-media-to-your-html-email-template.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
 }
 ```
 
@@ -123,8 +164,8 @@ head:
 
 ```component VPCard
 {
-  "title": "A CSS-Powered Add/Remove Tags UI | Frontend Masters Boost",
-  "desc": "A CSS-Powered Add/Remove Tags UI",
+  "title": "A CSS-Powered Add/Remove Tags UI",
+  "desc": "Checkboxes and labels used to have to be right next to each other to be a potent UI duo. You could do trickery like this:",
   "link": "/explore/articles/frontendmasters.com/a-css-powered-add-remove-tags-ui.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
@@ -133,9 +174,69 @@ head:
 
 ```component VPCard
 {
-  "title": "Things That Can Break aspect-ratio in CSS | Frontend Masters Boost",
-  "desc": "Things That Can Break aspect-ratio in CSS",
+  "title": "Things That Can Break aspect-ratio in CSS",
+  "desc": "CSS has an aspect-ratio property, which has had full support since around 2021. It can be a very satisfying property to use, because it can help match how your brain 🧠 works or what the desired des…",
   "link": "/explore/articles/frontendmasters.com/things-that-can-break-aspect-ratio-in-css.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What’s Going On in Dark Theme / Light Theme Land",
+  "desc": "There has been a fresh round of enthusiasm and writing around light mode / dark mode support for the web lately. I think it’s driven partially by the new light-dark() function in CSS (CSS Color Module Level 5 spec) that makes it easier to declare values that change depending on the mode. Here’s the basic […]",
+  "link": "/explore/articles/frontendmasters.com/dark-and-light.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Feedback on Masonry Layout",
+  "desc": "Jen Simmons posted Help us invent CSS Grid Level 3, aka “Masonry” layout over on the WebKit blog the other day and is actively soliciting feedback. Our hope is that web designers and developers chime in (post to social media, write blog posts) with your thoughts about which direction CSS should take. Don’t mind if I do. Do […]",
+  "link": "/explore/articles/frontendmasters.com/feedback-on-masonry-layout.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Popover API is Here",
+  "desc": "Checkboxes and labels used to have to be right next to each other to be a potent UI duo. You could do trickery like this:",
+  "link": "/explore/articles/frontendmasters.com/popover-api-is-here.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "“Multiplexed” Fonts Have a Cool Superpower",
+  "desc": "Just to cut to the chase, the superpower is being able to adjust their weight (or at least one of their attributes, or as variable fonts call them, an “axis”) without changing the space they occupy. This means that interactive effect and animations can be done without worry for awkward reflow situations and performance problems. […]",
+  "link": "/explore/articles/frontendmasters.com/multiplexed-fonts-have-a-cool-superpower.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Using the Popover API for HTML Tooltips",
+  "desc": "We can *mostly* use HTML alone for this API. But here, we'll use CSS to style the “links” within paragraphs and a js library to position them, in lieu of css anchoring.",
+  "link": "/explore/articles/frontendmasters.com/using-the-popover-api-for-html-tooltips.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Using CSS Scroll-Driven Animations for Section-Based Scroll Progress Indicators",
+  "desc": "A scroll progress indicator is a pretty straightforward thing to build with a scroll()-style scroll-driven animation. But here, we'll build indicators for each section of a page using the view() style.",
+  "link": "/explore/articles/frontendmasters.com/using-css-scroll-driven-animations-for-section-based-scroll-progress-indicators.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -157,6 +258,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "CSS inheritance | Piccalilli",
+  "desc": "CSS inheritance",
+  "link": "https://piccalil.li/news/css-inheritance/",
+  "logo": "https://piccalil.li/favicon.ico",
+  "background": "rgba(172,42,81,0.2)"
+}
+```
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
@@ -170,6 +281,32 @@ head:
   "link": "/explore/articles/meetup.nhncloud.com/311.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+---
+
+## Sitepoint
+
+> sitepoint.com
+
+```component VPCard
+{
+  "title": "Quick Tip: How to Animate Text Gradients and Patterns in CSS - SitePoint",
+  "desc": "In this quick tip, we show how easy it is to add animated background gradients and images to text on the Web, with handy demos.",
+  "link": "/explore/articles/sitepoint.com/css-animate-text-gradients-pattern.md",
+  "logo": "https://www.sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating Fluid Typography with the CSS clamp() Function - SitePoint",
+  "desc": "We dive into the intricacies of how to use the CSS clamp() function to scale the size of text across a range of device sizes.",
+  "link": "/explore/articles/sitepoint.com/fluid-typography-css-clamp-function.md",
+  "logo": "https://www.sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
 }
 ```
 

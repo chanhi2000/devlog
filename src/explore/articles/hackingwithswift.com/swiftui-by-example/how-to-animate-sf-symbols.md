@@ -222,7 +222,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render images using SF Symbols",
+  "title": "How to render images using SF Symbols | SwiftUI by Example",
   "desc": "How to render images using SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -232,7 +232,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to animate the size of text",
+  "title": "How to animate the size of text | SwiftUI by Example",
   "desc": "How to animate the size of text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-the-size-of-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -242,7 +242,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to animate changes in binding values",
+  "title": "How to animate changes in binding values | SwiftUI by Example",
   "desc": "How to animate changes in binding values",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-changes-in-binding-values.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

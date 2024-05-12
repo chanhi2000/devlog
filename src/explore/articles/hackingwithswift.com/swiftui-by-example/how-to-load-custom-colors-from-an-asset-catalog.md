@@ -81,7 +81,7 @@ With the newer Xcode 15 variant, the first letter of your color name is lowercas
 
 ```component VPCard
 {
-  "title": "Article(s) > How to get custom colors and transparency with SF Symbols",
+  "title": "How to get custom colors and transparency with SF Symbols | SwiftUI by Example",
   "desc": "How to get custom colors and transparency with SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -91,7 +91,7 @@ With the newer Xcode 15 variant, the first letter of your color name is lowercas
 
 ```component VPCard
 {
-  "title": "Article(s) > Polishing designs with fonts and colors",
+  "title": "Polishing designs with fonts and colors | SwiftUI by Example",
   "desc": "Polishing designs with fonts and colors",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/polishing-designs-with-fonts-and-colors.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -101,7 +101,7 @@ With the newer Xcode 15 variant, the first letter of your color name is lowercas
 
 ```component VPCard
 {
-  "title": "Article(s) > How to style text views with fonts, colors, line spacing, and more",
+  "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -111,7 +111,7 @@ With the newer Xcode 15 variant, the first letter of your color name is lowercas
 
 ```component VPCard
 {
-  "title": "Article(s) > How to lazy load views using LazyVStack and LazyHStack",
+  "title": "How to lazy load views using LazyVStack and LazyHStack | SwiftUI by Example",
   "desc": "How to lazy load views using LazyVStack and LazyHStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -121,7 +121,7 @@ With the newer Xcode 15 variant, the first letter of your color name is lowercas
 
 ```component VPCard
 {
-  "title": "Article(s) > How to load a remote image from a URL",
+  "title": "How to load a remote image from a URL | SwiftUI by Example",
   "desc": "How to load a remote image from a URL",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-a-remote-image-from-a-url.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

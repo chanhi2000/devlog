@@ -25,27 +25,59 @@ tag:
 
 ---
 
-## Microsoft
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 ### Windows Blogs
 
 - [Sandboxing Python with Win32 App Isolation](https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/)
 
 ---
-## Gitlab
+
+## <FontIcon icon="iconfont icon-github"/>Github
+
+```component VPCard
+{
+  "title": "kludex/fastapi-tips",
+  "desc": "FastAPI Tips by The FastAPI Expert!",
+  "link": "https://github.com/kludex/fastapi-tips",
+  "logo": "https://avatars.githubusercontent.com/u/7353520?v=4",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+---
+
+## <FontIcon icon="fa-brands fa-gitlab"/>Gitlab
 
 - [`cpaperma/nondet`: Non deterministic python](https://gitlab.inria.fr/cpaperma/nondet)
 
 ---
 
-## FreeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
-- [How to Parse a String in Python – Parsing Strings Explained](https://www.freecodecamp.org/news/how-to-parse-a-string-in-python)
-- [Check Python Version – How to Check Py in Mac, Windows, and Linux](https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux)
+```component VPCard
+{
+  "title": "How to Parse a String in Python – Parsing Strings Explained",
+  "desc": "Parsing a string can mean different things in Python. You can parse a string by splitting or extracting the substrings.  You can also parse a string by converting it to an integer or float variable. Although this should be categorized as a type conversion operation, you'll come across resources...",
+  "link": "/explore/articles/freecodecamp.org/how-to-parse-a-string-in-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use DefaultDict in Python",
+  "desc": "Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-defaultdict-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 
-## Devlog
+## Tecmint: Linux Howtos, Tutorials & Guides
 
 - [Marcel – A More Modern Shell for Linux](https://www.tecmint.com/marcel-modern-shell-for-linux)
 
@@ -77,7 +109,8 @@ tag:
 
 ## Substack
 
-- [The Magician's Sleight of Hand](https://www.thepythoncodingstack.com/p/the-magicians-sleight-of-hand-python)
+- [`thepythoncodingstack` / The Magician's Sleight of Hand](https://www.thepythoncodingstack.com/p/the-magicians-sleight-of-hand-python)
+- [`aljamal` / Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 
 ---
 
@@ -694,7 +727,7 @@ tag:
 - [Building a Single Page Application with Python and Pyodide - Part 2](https://testdriven.io/blog/build-spa-with-python-part-2/)
 - [How Are Requests Processed in Flask?](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
 - [Parallelism, Concurrency, and AsyncIO in Python - by example](https://testdriven.io/blog/python-concurrency-parallelism/)
-- [Building Reusable Components in Django](https://testdriven.io/blog/django-reusable-components/)
+- [Modern Test-Driven Development in Python](https://testdriven.io/blog/modern-tdd/)
 
 ---
 
@@ -817,6 +850,7 @@ tag:
 ## SuperFastPython
 
 - [Asyncio Coroutine Object Methods in Python](https://superfastpython.com/asyncio-coroutine-methods/)
+- [Develop an Asyncio Echo Client and Server](https://superfastpython.com/asyncio-echo-client-server/)
 
 ---
 
@@ -859,6 +893,9 @@ tag:
 - [Python Sequences: A Comprehensive Guide](https://realpython.com/python-sequences/)
 - [Python's `.__call__()` Method: Creating Callable Instances](https://realpython.com/python-callable-instances/)
 - [BNF Notation: Dive Deeper Into Python's Grammar](https://realpython.com/python-bnf-notation/)
+- [Python's Self Type: How to Annotate Methods That Return self](https://realpython.com/python-type-self/)
+- [Python's raise: Effectively Raising Exceptions in Your Code](https://realpython.com/python-raise-exception/)
+- [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
 
 ---
 
@@ -877,6 +914,36 @@ tag:
 ## Matt Stuchlik
 
 - [Counting CPU Instructions in Python](https://blog.mattstuchlik.com/2024/02/08/counting-cpu-instructions-in-python.html)
+
+---
+
+## The Hub of Heliopolis
+
+- [Running C unit tests with pytest](https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html)
+
+---
+
+## Anna-Lena Popkes
+
+- [An unbiased evaluation of environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/)
+
+---
+
+## Seth Michael Larson
+
+- [Isolating risk in the CPython release process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-35)
+
+---
+
+## Needlessly complex
+
+- [Page dewarping](https://mzucker.github.io/2016/08/15/page-dewarping.html)
+
+---
+
+## Win Vector LLC - Data science advising, consulting, and training
+
+- [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
 
 ---
 

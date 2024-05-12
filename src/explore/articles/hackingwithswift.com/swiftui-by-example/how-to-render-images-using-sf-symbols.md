@@ -139,7 +139,7 @@ Image(systemName: "person.crop.circle.fill.badge.plus")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render a SwiftUI view to a PDF",
+  "title": "How to render a SwiftUI view to a PDF | SwiftUI by Example",
   "desc": "How to render a SwiftUI view to a PDF",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-swiftui-view-to-a-pdf.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -149,7 +149,7 @@ Image(systemName: "person.crop.circle.fill.badge.plus")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render Markdown content in text",
+  "title": "How to render Markdown content in text | SwiftUI by Example",
   "desc": "How to render Markdown content in text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -159,7 +159,7 @@ Image(systemName: "person.crop.circle.fill.badge.plus")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render a gradient",
+  "title": "How to render a gradient | SwiftUI by Example",
   "desc": "How to render a gradient",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-gradient.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

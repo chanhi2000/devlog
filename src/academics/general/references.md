@@ -1,4 +1,4 @@
----
+
 lang: ko-KR
 title: References
 description: General > References
@@ -410,6 +410,12 @@ tag:
 ## Some Random Posts
 
 - [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
+
+---
+
+## The Universes of Max Tegmark
+
+- [Welcome to the Feynman Symbolic Regression Database!](https://space.mit.edu/home/tegmark/aifeynman.html)
 
 ---
 

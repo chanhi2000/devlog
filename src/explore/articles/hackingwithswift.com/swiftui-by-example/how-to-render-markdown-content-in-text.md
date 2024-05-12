@@ -105,7 +105,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render a SwiftUI view to a PDF",
+  "title": "How to render a SwiftUI view to a PDF | SwiftUI by Example",
   "desc": "How to render a SwiftUI view to a PDF",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-swiftui-view-to-a-pdf.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -115,7 +115,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render a gradient",
+  "title": "How to render a gradient | SwiftUI by Example",
   "desc": "How to render a gradient",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-a-gradient.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -125,7 +125,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render images using SF Symbols",
+  "title": "How to render images using SF Symbols | SwiftUI by Example",
   "desc": "How to render images using SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -135,7 +135,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 
 ```component VPCard
 {
-  "title": "Article(s) > How to format text inside text views",
+  "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -145,7 +145,7 @@ If you wanted the original text unchanged – i.e., you wanted the raw, unformat
 
 ```component VPCard
 {
-  "title": "Article(s) > How to create scrolling pages of content using tabViewStyle()",
+  "title": "How to create scrolling pages of content using tabViewStyle() | SwiftUI by Example",
   "desc": "How to create scrolling pages of content using tabViewStyle()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-scrolling-pages-of-content-using-tabviewstyle.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

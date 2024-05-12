@@ -263,4 +263,10 @@ tag:
 
 ---
 
+## Shuttle
+
+- [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
+
+---
+
 <TagLinks />

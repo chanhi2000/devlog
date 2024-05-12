@@ -5,6 +5,8 @@ description: AWS > Youtube
 icon: fa-brands fa-youtube
 category:
   - AWS
+  - Amazon
+  - DevOps
   - Youtube
 tag: 
   - "youtube"
@@ -20,6 +22,14 @@ tag:
   - "@seefromfar143"
   - "@TechwithLucy"
   - "@AWSClassroom"
+head:
+  - - meta:
+    - property: og:title
+      content: AWS > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/aws/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

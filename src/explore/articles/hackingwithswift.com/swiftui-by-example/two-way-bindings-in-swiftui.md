@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Two-way bindings in SwiftUI
-description: Article(s) > Two-way bindings in Swift
+description: Article(s) > Two-way bindings in SwiftUI
 category:
   - Swift
   - SwiftUI
@@ -17,7 +17,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > Two-way bindings in Swift
+      content: Article(s) > Two-way bindings in SwiftUI
     - property: og:description
       content: Two-way bindings in SwiftUI
     - property: og:url

@@ -162,6 +162,18 @@ tag:
 
 ---
 
+## 그라토
+
+- [`CompatTelRunner.exe` cpu사용량 높을때](https://www.gratolabv2.com/archive/23800)
+
+---
+
+## YJG's Think Tank
+
+- [CPU 잡아먹는 `CompatTelRunner.exe`이 하는 일과 비활성화하는 방법](https://yjg30737.github.io/posts/what-is-compattelrunners/)
+
+---
+
 ## Misc
 
 - [DiskClick](https://deervo.itch.io/diskclick)

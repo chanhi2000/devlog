@@ -49,7 +49,7 @@ head:
 
 ---
 
-## freeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 > freecodecamp.org
 
@@ -74,6 +74,26 @@ head:
   "title": "ChatGPT로 쿠버네티스 관리하는 방법 | 요즘IT",
   "desc": "ChatGPT로 쿠버네티스 관리하는 방법",
   "link": "/explore/articles/yozm.wishket.com/1990.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "2024년 쿠버네티스 표준 아키텍처 | 요즘IT",
+  "desc": "2024년 쿠버네티스 표준 아키텍처",
+  "link": "/explore/articles/yozm.wishket.com/2371.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "신원확인, 통합인증관리 오픈소스 '키클락'을 알아보자 | 요즘IT",
+  "desc": "신원확인, 통합인증관리 오픈소스 '키클락'을 알아보자",
+  "link": "/explore/articles/yozm.wishket.com/2425.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

@@ -37,6 +37,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Frontend Masters Boost – Helping Your Journey to Senior Developer",
+  "desc": "Helping Your Journey to Senior Developer",
+  "link": "https://frontendmasters.com/blog/",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "NHN Cloud Meetup - NHN 기술 블로그",
   "desc": "기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.",
   "link": "https://meetup.nhncloud.com/",
@@ -59,7 +69,7 @@ head:
 
 ---
 
-## freeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 > freecodecamp.org
 
@@ -110,6 +120,32 @@ head:
   "link": "/explore/articles/freecodecamp.org/javascript-remove-char-from-string.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Create Objects in JavaScript",
+  "desc": "In programming, objects are fundamental building blocks used to represent real-world entities or concepts. JavaScript, a versatile and popular language, offers various ways to create these objects.  This article dives deep into these methods, equipping you with the knowledge to craft objects tailored to your programming needs. We'll begin...",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-objects-in-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## Frontend Masters Boost – Helping Your Journey to Senior Developer
+
+> frontendmasters.com
+
+```component VPCard
+{
+  "title": "Five Basic Things About JavaScript That Will Help Non JavaScript-Focused Web Designers",
+  "desc": "Let's say you don't know JavaScript. You're a web designer and you're focused largely on UI and UX. Let's look at some things you could learn in a day that will give you that bang for the buck.",
+  "link": "/explore/articles/frontendmasters.com/5-things-designers-can-do-with-javascript.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
 }
 ```
 

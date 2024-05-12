@@ -33,11 +33,21 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "johnnyreilly | johnnyreilly", 
+  "desc": "The blog of John Reilly ❤️🌻", 
+  "link": "https://johnnyreilly.com/", 
+  "logo": "https://johnnyreilly.com/favicon.ico", 
+  "background": "rgba(71,118,222,0.2)"
+}
+```
+
 [[toc]]
 
 ---
 
-## freeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 > freecodecamp.org
 
@@ -53,11 +63,11 @@ head:
 
 ```component VPCard
 {
-  "title": "johnnyreilly | johnnyreilly", 
-  "desc": "The blog of John Reilly ❤️🌻", 
-  "link": "https://johnnyreilly.com/", 
-  "logo": "https://johnnyreilly.com/favicon.ico", 
-  "background": "rgba(71,118,222,0.2)"
+  "title": "How to Build a QR Code Generator for URLs with Node.js, Next.js, and Azure Blob Storage",
+  "desc": "A while ago, a client asked me to help them create a special app for generating QR codes so users could receive payments.  What set this app apart was that instead of users entering a URL to generate a QR code, they would initiate a request through the app...",
+  "link": "/explore/articles/freecodecamp.org/build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
 }
 ```
 

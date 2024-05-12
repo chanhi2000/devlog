@@ -368,6 +368,7 @@ tag:
 - [`jaeyeong951` / Structured Concurrency 이해하기](https://jaeyeong951.medium.com/structured-concurrency-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-392cc45d01df)
 - [`jaeyeong951` / virtual thread 동기화: `synchronized`의 한계](https://jaeyeong951.medium.com/virtual-thread-synchronized-x-6b19aaa09af1)
 - [`jaeyeong951` / Project Valhalla : value class](https://jaeyeong951.medium.com/project-valhalla-value-class-092a25aec7a6)
+- [`@maya.mohite` / Type Erasure in Kotlin: Simplifying the Complex](https://medium.com/@maya.mohite/type-erasure-in-kotlin-simplifying-the-complex-e60de7ae3db1)
 
 ### velog
 
@@ -468,6 +469,7 @@ tag:
 
 - [Speeding up `isBlank()`](https://www.romainguy.dev/posts/2024/speeding-up-isblank/)
 - [Micro-optimizations in Kotlin — 1](https://www.romainguy.dev/posts/2024/micro-optimizations-in-kotlin-1/)
+- [Readability of Optimized Kotlin Code](https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
 
 ### Kt.academy
 
@@ -519,6 +521,10 @@ tag:
 ### JUXT
 
 - [Kotlin Adventures With XTDB](https://www.juxt.pro/blog/crux-kotlin)
+
+### Zac Sweers
+
+- [Preparing for K2](https://www.zacsweers.dev/preparing-for-k2/)
 
 ---
 

@@ -21,9 +21,20 @@ head:
       content: Learn essential Swift in one hour
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/learn-essential-swift-in-one-hour.html
+prev: /programming/swift/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Swift > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/swift/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -38,8 +49,6 @@ head:
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
----
 
 In this article I'm going to introduce you to the fundamentals of the Swift programming language in about one hour.
 

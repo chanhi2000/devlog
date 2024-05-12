@@ -4,6 +4,7 @@ title: References
 description: MySQL > References
 icon: iconfont icon-share
 category:
+  - SQL
   - MySQL
   - References
 tag: 
@@ -12,6 +13,14 @@ tag:
   - mysql
   - shell
   - stricky
+head:
+  - - meta:
+    - property: og:title
+      content: MySQL > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/mysql/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -23,6 +32,12 @@ tag:
 ## Github Blog
 
 - [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
+
+---
+
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`zendesk` / Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
 
 ---
 
@@ -150,6 +165,24 @@ tag:
 ## 일단 써보기
 
 - [병렬 트랜잭션 환경에서 만난 데드락 (with. Coroutine, MySQL)](https://waterfogsw.tistory.com/60)
+
+---
+
+## Canva Engineering Blog
+
+- [Scaling to Count Billions](https://www.canva.dev/blog/engineering/scaling-to-count-billions/)
+
+---
+
+## Another Boring Tech Blog
+
+- [Releem: MySQL Performance Tool](https://anotherboringtechblog.com/2024/04/releem-mysql-performance-tool/)
+
+---
+
+## Die wunderbare Welt von Isotopp
+
+- [MySQL: Latency and IOPS](https://blog.koehntopp.info/2024/04/21/mysql-latency-and-iops.html)
 
 ---
 

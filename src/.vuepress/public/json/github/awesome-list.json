@@ -1131,9 +1131,9 @@
     "topics": ["ai", "artificial-intelligence", "deep-learning", "intelligent-machines", "intelligent-systems", "machine-intelligence", "machine-learning", "neural-network", "reinforcement-learning", "statistical-learning", "unsupervised-learning"]
   }, {
     "repo": "ashishps1/awesome-low-level-design",
-    "desc": "This repository contains low level design resources to improve coding skills and prepare for interviews.",
-    "officialSite": "https://twitter.com/ashishps_1",
-    "topics": ["awesome", "design-patterns", "interview", "interview-practice", "interview-questions", "low-level-design", "machine-coding", "object-oriented-programming", "oops", "solid-principles", "uml"]
+    "desc": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+    "officialSite": "https://newsletter.ashishps.com",
+    "topics": ["awesome", "design-patterns", "interview", "interview-practice", "interview-questions", "lld", "low-level-design", "machine-coding", "object-oriented-programming", "oops", "solid-principles", "uml"]
   }, {
     "repo": "Aikoyori/ProgrammingVTuberLogos",
     "desc": "High-quality PNGs for logos I made for fun",

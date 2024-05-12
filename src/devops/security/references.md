@@ -40,7 +40,7 @@ tag:
 
 ---
 
-## FreeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [13 Types of Cyber Attacks You Should Know in 2023](https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know)
 
@@ -235,6 +235,12 @@ tag:
 ## PortSwagger
 
 - [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+
+---
+
+## Firstyear's blog-a-log
+
+- [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 
 ---
 

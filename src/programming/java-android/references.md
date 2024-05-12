@@ -89,6 +89,11 @@ tag:
 - [`proandroiddev` - Kotlin Design Patterns: Mediator](https://proandroiddev.com/kotlin-design-patterns-mediator-543f75bebe69)
 - [`androiddevelopers` - Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8)
 - [`androiddevelopers` - Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26)
+- [`proandroiddev` / Publishing Kotlin Multiplatform Libraries With Sonatype Central](https://proandroiddev.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central-b40f7cc6866e)
+- [`proandroiddev` / Let Kotlin do the code for you — Part III: Mockito, Mockk, and Code Generation](https://proandroiddev.com/let-kotlin-do-the-code-for-you-part-iii-mockito-mockk-and-code-generation-3da26e1f71e9)
+- [`stackademic` / Putting Koin To Work in Android](https://blog.stackademic.com/putting-koin-to-work-in-android-fa9a30cb8ddc)
+- [`daangn` / (🔔당근!) 반가운 중고거래 키워드 알림 만들기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%B0%98%EA%B0%80%EC%9A%B4-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%95%8C%EB%A6%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-3ed969f07692)
+
 ---
 
 ## velog

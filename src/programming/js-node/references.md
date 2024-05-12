@@ -295,7 +295,7 @@ tag:
 
 ---
 
-## FreeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [about React](https://www.freecodecamp.org/news/tag/react)
 - [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3)

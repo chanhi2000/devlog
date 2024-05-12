@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - hackingwithswift.com
+  - yozm.wishket.com
   - douggregor.net
   - zuminternet.github.io
   - swift
@@ -33,6 +34,16 @@ head:
   "link": "https://hackingwithswift.com/",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -70,6 +81,22 @@ head:
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
+}
+```
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "6년 묵은 레거시 청산하기(RootController 리팩토링) | 요즘IT",
+  "desc": "6년 묵은 레거시 청산하기(RootController 리팩토링)",
+  "link": "/explore/articles/yozm.wishket.com/2344.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 

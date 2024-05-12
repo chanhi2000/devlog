@@ -4,6 +4,7 @@ title: Youtube
 description: MySQL > Youtube
 icon: fa-brands fa-youtube
 category:
+  - SQL
   - MySQL
   - Youtube
 tag: 
@@ -12,6 +13,14 @@ tag:
   - mysql
   - shell
   - youtube
+head:
+  - - meta:
+    - property: og:title
+      content: MySQL > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/mysql/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

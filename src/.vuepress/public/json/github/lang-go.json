@@ -1444,5 +1444,21 @@
     "desc": "A SQL-like query language on general Key-Value DB",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "noisysockets/nsh",
+    "desc": "The Noisy Sockets CLI",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "orgrim/pg_back",
+    "desc": "Simple backup tool for PostgreSQL",
+    "officialSite": "",
+    "topics": []
+  }, 
+  {
+    "repo": "nixys/nxs-data-anonymizer",
+    "desc": "A tool for anonymizing PostgreSQL and MySQL databases' dump",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -10,10 +10,12 @@ export const template: SidebarInfoTemplate = {
     ]], [
     "css", [
       "css-animate-text-gradients-patterns", // 2024.04.11
+      "fluid-typography-css-clamp-function", // 2024.04.23
     ]], [
     "all", [
       "new-javascript-ecmascript", // 2024.03.12
       "css-animate-text-gradients-patterns", // 2024.04.11
+      "fluid-typography-css-clamp-function", // 2024.04.23
     ]]
   ])
 }

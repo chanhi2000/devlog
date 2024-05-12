@@ -3,13 +3,23 @@ lang: ko-KR
 title: References
 description: AWS > References
 icon: iconfont icon-share
-category: 
+category:
   - AWS
+  - Amazon
+  - DevOps
   - References
 tag: 
   - aws
   - amazon
   - amazon-web-service
+head:
+  - - meta:
+    - property: og:title
+      content: AWS > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/aws/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,6 +51,8 @@ tag:
 - [Automate CloudWatch Logs Export to S3 using Lambda and Event Bridge](https://awstip.com/automate-cloudwatch-logs-export-to-s3-using-lambda-and-event-bridge-8748fedadeb9)
 - [Apache Web Server utilizing AWS CentOS Server](https://aws.plainenglish.io/apache-web-server-utilizing-aws-centos-server-bd5538afabd8)
 - [`도깨비-이야기` - [AWS] ECS 테스크 생성이 지연될때](https://medium.com/%EB%8F%84%EA%B9%A8%EB%B9%84-%EC%9D%B4%EC%95%BC%EA%B8%B0/aws-ecs-%ED%85%8C%EC%8A%A4%ED%81%AC-%EC%83%9D%EC%84%B1%EC%9D%B4-%EC%A7%80%EC%97%B0%EB%90%A0%EB%95%8C-f97b10267ba1)
+- [`@maciej.pocwierz` / How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
+- [`zendesk` / Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
 
 ---
 

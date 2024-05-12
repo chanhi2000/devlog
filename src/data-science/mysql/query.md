@@ -4,6 +4,7 @@ title: Query
 description: MySQL > Query
 icon: fas fa-magnifying-glass
 category:
+  - SQL
   - MySQL
   - Query
 tag:
@@ -13,6 +14,14 @@ tag:
   - ddl
   - dml
   - sql-privilege
+head:
+  - - meta:
+    - property: og:title
+      content: MySQL > Query
+    - property: og:description
+      content: Query
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/mysql/query.html
 ---
 
 # {{ $frontmatter.title }} 관련

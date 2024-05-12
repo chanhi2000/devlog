@@ -158,7 +158,11 @@ head:
 
 ### Just try it!
 
-[Spring MVC의 PathPattern (`AntPathMatcher`, `PathPatternParser`)](https://moonsiri.tistory.com/203)
+- [Spring MVC의 PathPattern (`AntPathMatcher`, `PathPatternParser`)](https://moonsiri.tistory.com/203)
+
+### 한정수 Jeongsu Han
+
+- [실용적인 테스트 피라미드 (번역)](https://www.integer.blog/practical-test-pyramid/)
 
 ---
 

@@ -32,6 +32,8 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   ]'
 />
 
+<<< https://raw.githubusercontent.com/simple-icons/simple-icons/develop/slugs.md
+
 <VPBanner
   title="Awesome VuePress V2"
   content="A curated list of awesome things related to VuePress V2"
@@ -47,6 +49,18 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
     }
   ]'
 />
+
+<VPBanner
+  title="Icon support | vuepress-theme-hope"
+  content="The entire theme adds FontClass format icon support in mutiple places."
+  :action='[
+    {
+      text: "Icon Support",
+      link: "https://vuepress-theme-hope.gitee.io/v1/guide/interface/icon.html#featured-icons"
+    }
+  ]'
+/>
+
 
 ::: tabs
 
@@ -326,6 +340,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://qr.naver.com",
   "logo": "https://naver.com/favicon.ico",
   "background": "rgba(3,199,90,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "PDFEquips | Free Online PDF Tools",
+  "desc": "Powerful PDF tools to easily manage documents. You can merge, split, compress, transform, rotate, open and add watermarks to your files with just a few clicks.",
+  "link": "https://www.pdfequips.com/",
+  "logo": "https://www.pdfequips.com/images/icons/android-icon-192x192.png",
+  "background": "rgba(252,39,28,0.2)"
 }
 ```
 
@@ -806,6 +830,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://www.tasteatlas.com/map",
   "logo": "https://www.tasteatlas.com/favicon.ico",
   "background": "rgba(155,32,30,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Cost of Living Index by Country 2024",
+  "desc": "By Country : Cost of Living Index, Rent Index, Restaurant Prices Index, Transportation Price Index, Grocery Price Index, Local Purchasing Power Index, ...  ",
+  "link": "https://www.numbeo.com/cost-of-living/rankings_by_country.jsp",
+  "logo": "https://www.numbeo.com/favicon.ico",
+  "background": "rgba(46,110,158,0.2)"
 }
 ```
 

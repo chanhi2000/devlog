@@ -69,5 +69,10 @@
     "desc": "A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos: https://lewhunt.github.io/divz/",
     "officialSite": "https://lewhunt.github.io/divz/",
     "topics": ["3d", "carousel", "component", "css3", "deck", "experimental", "gallery", "presentations", "react", "scroll", "showcase", "slider", "slides", "slideshow", "swipe", "time-machine", "typescript", "ui-design", "ux-ui", "zoom"]
+  }, {
+    "repo": "daangn/stackflow",
+    "desc": "🧱 Mobile-first stack navigator framework with composable plugin system",
+    "officialSite": "https://stackflow.so",
+    "topics": ["framework", "mobile", "navigator", "plugin", "react", "stack", "system", "typescript", "webview"]
   }
 ]

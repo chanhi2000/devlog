@@ -5,6 +5,8 @@ description: AWS > Article(s)
 icon: fas fa-square-share-nodes
 category:
   - AWS
+  - Amazon
+  - DevOps
   - Article(s)
 tag:
   - blog
@@ -46,7 +48,7 @@ head:
 
 ---
 
-## freeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 > freecodecamp.org
 
@@ -65,6 +67,16 @@ head:
 ## 요즘IT
 
 > yozm.wishket.com
+
+```component VPCard
+{
+  "title": "오토스케일링 위한 '카펜터' 설치부터 설정까지 | 요즘IT",
+  "desc": "오토스케일링 위한 '카펜터' 설치부터 설정까지",
+  "link": "/explore/articles/yozm.wishket.com/2346.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

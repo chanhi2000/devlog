@@ -67,7 +67,7 @@ head:
 
 ---
 
-## freeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 > freecodecamp.org
 
@@ -121,11 +121,81 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build a QR Code Generator for URLs with Node.js, Next.js, and Azure Blob Storage",
+  "desc": "A while ago, a client asked me to help them create a special app for generating QR codes so users could receive payments.  What set this app apart was that instead of users entering a URL to generate a QR code, they would initiate a request through the app...",
+  "link": "/explore/articles/freecodecamp.org/build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Create a React Chatbot – a Step by Step Guide",
+  "desc": "In the ever-evolving realm of web technologies, the integration of AI-powered chatbots has become a defining trend in 2024.  With rapid advancements in Large Language Models (LLMs), chatbots have grown to become pivotal tools adopted across many websites and services. From FAQ bots to live chat support, they can...",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-a-react-chatbot.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## 요즘IT
 
 > yozm.wishket.com
+
+```component VPCard
+{
+  "title": "리액트 바깥의 프론트엔드 : 리액트 등장부터 애플리케이션 구성 | 요즘IT",
+  "desc": "리액트 바깥의 프론트엔드 : 리액트 등장부터 애플리케이션 구성",
+  "link": "/explore/articles/yozm.wishket.com/2357.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "딥링크 실전에서 잘 사용하는 방법 | 요즘IT",
+  "desc": "딥링크 실전에서 잘 사용하는 방법",
+  "link": "/explore/articles/yozm.wishket.com/2363.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "use 훅이 바꿀 리액트 비동기 처리의 미래 맛보기 | 요즘IT",
+  "desc": "use 훅이 바꿀 리액트 비동기 처리의 미래 맛보기",
+  "link": "/explore/articles/yozm.wishket.com/2373.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "몇 천 페이지의 유저 가이드를 새로 만들며 | 요즘IT",
+  "desc": "몇 천 페이지의 유저 가이드를 새로 만들며",
+  "link": "/explore/articles/yozm.wishket.com/2384.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "대형 웹 애플리케이션 Micro Frontends 전환기 | 요즘IT",
+  "desc": "대형 웹 애플리케이션 Micro Frontends 전환기",
+  "link": "/explore/articles/yozm.wishket.com/2408.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

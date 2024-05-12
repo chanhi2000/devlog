@@ -28,8 +28,10 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/sh/articles/README.md',
             articleSidebars.freecodecamp("sh"),
+            articleSidebars.yozm("sh"),
             articleSidebars.devkuma("sh"),
-            articleSidebars.nhn("sh")
+            articleSidebars.nhn("sh"),
+            articleSidebars.linecorp("sh"),
           ]
         }
       ]
@@ -120,8 +122,9 @@ export const sidebarEn = sidebar({
             '/programming/gradle/articles/README.md',
             articleSidebars.freecodecamp("gradle"),
             articleSidebars.shopify("gradle"),
+            articleSidebars.linecorp("gradle"),
           ]
-        }
+        },
       ]
     }, {
       text: 'Maven',
@@ -132,6 +135,15 @@ export const sidebarEn = sidebar({
         '/programming/maven/snippets.md',
         '/programming/maven/references.md',
         '/programming/maven/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/maven/articles/README.md',
+            articleSidebars.yozm("maven"),
+          ]
+        }
       ]
     }, {
       text: 'Java',
@@ -182,12 +194,14 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/java-spring/articles/README.md',
             articleSidebars.freecodecamp("java-spring"),
+            articleSidebars.yozm("java-spring"),
             articleSidebars.rutgoLetsgo("java-spring"),
             articleSidebars.nhn("java-spring"),
             articleSidebars.d2("java-spring"), 
             articleSidebars.woowahan("java-spring"),
             articleSidebars.gangnamunni("java-spring"),
             articleSidebars.gmarket("java-spring"),
+            articleSidebars.linecorp("java-spring"),
             articleSidebars.zuminternet("java-spring"),
           ]
         }
@@ -269,6 +283,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             hackingwithswift(),
+            articleSidebars.yozm("swift"),
             articleSidebars.douggregor("swift"), 
             articleSidebars.donnywals("swift"), 
             articleSidebars.zuminternet("swift"),
@@ -292,6 +307,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js/articles/README.md',
+            articleSidebars.freecodecamp("js"),
+            articleSidebars.frontendmaster("js"),
             articleSidebars.sitepoint("js"),
             articleSidebars.nhn("js"),
             {
@@ -516,6 +533,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/css/articles/README.md',
+            articleSidebars.freecodecamp("css"),
             articleSidebars.yozm("css"),
             {
               text: 'devtoolstips.org',
@@ -714,6 +732,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/go/articles/README.md',
+            articleSidebars.freecodecamp("go"),
             articleSidebars.d2("go"),
           ]
         }
@@ -1144,7 +1163,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/github/articles/README.md',
-            articleSidebars.freecodecamp('github')
+            articleSidebars.freecodecamp('github'),
+            articleSidebars.linecorp("github"),
           ]
         }
       ]
@@ -1539,7 +1559,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/security/articles/README.md',
-            articleSidebars.yozm("security")
+            articleSidebars.yozm("security"),
+            articleSidebars.nhn("security"),
           ]
         },
       ]
@@ -1682,6 +1703,15 @@ export const sidebarEn = sidebar({
         '/data-science/mysql/query.md',
         '/data-science/mysql/references.md',
         '/data-science/mysql/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/mysql/articles/README.md',
+            articleSidebars.linecorp("mysql"),
+          ]
+        },
       ]
     }, {
       text: 'Oracle SQL',
@@ -1730,6 +1760,7 @@ export const sidebarEn = sidebar({
           children: [
             '/data-science/postgres/articles/README.md',
             articleSidebars.freecodecamp("postgres"), 
+            articleSidebars.linecorp("postgres"),
           ]
         },
       ]
@@ -1759,6 +1790,23 @@ export const sidebarEn = sidebar({
       children: [
         '/data-science/tibero/README.md',
         '/data-science/tibero/query.md',
+      ]
+    }, {
+      text: 'SQLite',
+    collapsible: true,
+      icon: 'iconfont icon-sqlite',
+      children: [
+        '/data-science/sqlite/README.md',
+        '/data-science/sqlite/references.md',
+        '/data-science/sqlite/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/sqlite/articles/README.md',
+          ]
+        },
       ]
     }, {
       text: 'Redis',
@@ -1854,6 +1902,24 @@ export const sidebarEn = sidebar({
         '/ai/openai/README.md',
         '/ai/openai/references.md',
         '/ai/openai/youtube.md',
+      ]
+    }, {
+      text: 'Github Copilot',
+      collapsible: true,
+      icon: 'iconfont icon-copilot',
+      children: [
+        '/ai/github-copilot/README.md',
+        '/ai/github-copilot/references.md',
+        '/ai/github-copilot/youtube.md',
+        '/ai/github-copilot/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/github-copilot/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'LLM',

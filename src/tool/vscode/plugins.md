@@ -138,6 +138,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Java (`Oracle.oracle-java`)",
+  "desc": "Oracle Java Platform Extension for Visual Studio Code",
+  "link": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java",
+  "logo": "https://oracle.gallerycdn.vsassets.io/extensions/oracle/oracle-java/22.0.0/1714047685386/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(239,241,243,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Extension Pack for Java (`vscjava.vscode-java-pack`)",
   "desc": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
   "link": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack",
@@ -571,9 +581,9 @@ tag:
 
 ### ⚙️To Install
 
-::: tabs 
+::: code-tabs#sh
 
-@tab:active sh
+@tab:active <FontIcon icon="iconfont icon-shell"/>sh
 
 ```sh
 code --install-extension formulahendry.auto-rename-tag; #Auto Rename Tag
@@ -599,6 +609,7 @@ code --install-extension ms-toolsai.jupyter; #Jupyter
 code --install-extension ms-toolsai.jupyter-keymap; #Jupyter KeyMap
 code --install-extension ms-toolsai.jupyter-renderers; #Jupyter Notebook Renderers
 code --install-extension fwcd.kotlin; #Kotlin Language
+code --install-extension Oracle.oracle-java;  #Java
 code --install-extension redhat.java; #Language Support for Java(TM) by Red Hat
 code --install-extension ritwickdey.liveserver; #Live Server
 code --install-extension yzane.markdown-pdf; #Markdown PDF
@@ -631,7 +642,7 @@ code --install-extension octref.vetur # Vuter
 code --isntall-extension sswg.swift-lang # Swift
 ```
 
-@tab cmd
+@tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
 code --install-extension formulahendry.auto-rename-tag && REM Auto Rename Tag
@@ -658,6 +669,7 @@ code --install-extension ms-toolsai.jupyter-keymap && REM Jupyter KeyMap
 code --install-extension ms-toolsai.jupyter-renderers && REM Jupyter Notebook Renderers
 code --install-extension fwcd.kotlin && REM Kotlin Language
 code --install-extension redhat.java && REM Language Support for Java(TM) by Red Hat
+code --install-extension Oracle.oracle-java && REM Java
 code --install-extension ritwickdey.liveserver && REM Live Server
 code --install-extension yzane.markdown-pdf && REM Markdown PDF
 code --install-extension shd101wyy.markdown-preview-enhanced && REM Markdown Preview Enhanced

@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - d2.naver.com
   - go
   - golang
@@ -23,6 +24,16 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+```component VPCard
+{
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <SiteInfo
   name="NAVER D2"
   desc=""
@@ -31,6 +42,22 @@ head:
   preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Handle Concurrency with Goroutines and Channels in Go",
+  "desc": "Concurrency is the ability of a program to perform multiple tasks simultaneously. It is a crucial aspect of building scalable and responsive systems.  Go's concurrency model is based on the concept of goroutines, lightweight threads that can run multiple functions concurrently, and channels, a built-in communication mechanism for safe...",
+  "link": "/explore/articles/freecodecamp.org/how-to-handle-concurrency-in-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 

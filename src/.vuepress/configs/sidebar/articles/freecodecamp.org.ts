@@ -20,6 +20,7 @@ export const template: SidebarInfoTemplate = {
       "understand-javascript-closures", // 2024.05.07
       "how-js-string-concatenation-works", // 2024.05.07
       "javascript-remove-char-from-string", // 2024.05.09
+      "how-to-create-objects-in-javascript",  // 2024.05.10
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024.03.28
@@ -31,9 +32,14 @@ export const template: SidebarInfoTemplate = {
       "react-usereducer-hook", // 2024.05.03
       "how-to-use-react-devtools", // 2024.05.06
       "react-native-splash-screen", // 2024.05.08
+      "build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage",  // 2024.05.10
+      "how-to-create-a-react-chatbot", // 2024.05.10
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024.04.25
+    ]],[
+    "css", [  
+      "how-to-add-media-to-your-html-email-template", // 2024.04.23
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024.04.29
@@ -42,6 +48,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024.04.29
     ]],[
     "py", [
+      "how-to-parse-a-string-in-python", // 2023.05.04
+      "check-python-version-how-to-check-py-in-mac-windows-and-linux", // 2023.07.07
       "how-to-use-oop-in-python", // 2024.04.24
       "how-to-use-defaultdict-python", // 2024.05.01
       "empire-state-building-run-up-analysis-with-python", // 2024.05.08
@@ -55,6 +63,9 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "rust", [
       "procedural-macros-in-rust", // 2024.04.24
+    ]],[
+    "go", [
+      "how-to-handle-concurrency-in-go", // 2024.05.10
     ]],[
     "csharp", [
       "how-to-use-oop-in-c-sharp", // 2024.05.01
@@ -93,11 +104,16 @@ export const template: SidebarInfoTemplate = {
       "empire-state-building-run-up-analysis-with-python", // 2024.05.08
     ]],[
     "postgres", [
+      "postgresql-indexing-strategies", // 2023.05.12
       "how-to-run-postgres-in-kubernetes",  // 2024.05.08
     ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
+      "how-to-parse-a-string-in-python", // 2023.05.04
+      "postgresql-indexing-strategies", // 2023.05.12
+      "check-python-version-how-to-check-py-in-mac-windows-and-linux", // 2023.07.07
       "what-is-dead-zone-in-javascript", // 2024.03.28
+      "how-to-add-media-to-your-html-email-template", // 2024.04.23
       "how-to-use-oop-in-python", // 2024.04.24
       "procedural-macros-in-rust", // 2024.04.24
       "php-jwt-authentication-implementation", // 2024.04.24
@@ -129,6 +145,10 @@ export const template: SidebarInfoTemplate = {
       "php-array-handbook", // 2024.05.08
       "how-to-install-python-on-a-mac", // 2024.05.09
       "javascript-remove-char-from-string", // 2024.05.09
+      "how-to-create-objects-in-javascript",  // 2024.05.10
+      "how-to-handle-concurrency-in-go", // 2024.05.10
+      "build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage", // 2024.05.10
+      "how-to-create-a-react-chatbot", // 2024.05.10
     ]],
   ]),
 }

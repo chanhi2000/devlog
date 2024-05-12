@@ -164,7 +164,7 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-django',
       }, {
         text: 'Jupyter',
-        icon: 'iconfont icon-django',
+        icon: 'iconfont icon-jupyter',
         link: '/programming/py-jupyter/README.md',
       }, {
         text: 'Airflow',
@@ -431,6 +431,10 @@ export const navbarEn = navbar([
         icon: 'fas fa-t',
         link: '/data-science/tibero/README.md',
       },  {
+        text: 'SQLite',
+        icon: 'iconfont icon-sqlite',
+        link: '/data-science/sqlite/README.md',
+      }, {
         text: 'Redis',
         icon: 'iconfont icon-redis',
         link: '/data-science/redis/README.md',
@@ -534,6 +538,10 @@ export const navbarEn = navbar([
         text: 'OpenAI',
         icon: 'iconfont icon-openai',
         link: '/ai/openai/README.md',
+      }, {
+        text: 'Github Copilot',
+        icon: 'iconfont icon-copilot',
+        link: '/ai/github-copilot/README.md',
       }, {
         text: 'LLM',
         icon: 'fas fa-language',

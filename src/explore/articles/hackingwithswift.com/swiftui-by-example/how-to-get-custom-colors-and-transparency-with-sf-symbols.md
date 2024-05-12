@@ -140,7 +140,7 @@ Image(systemName: "person.3.sequence.fill")
 
 ```component VPCard
 {
-  "title": "Article(s) > How to render images using SF Symbols",
+  "title": "How to render images using SF Symbols | SwiftUI by Example",
   "desc": "How to render images using SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -150,7 +150,7 @@ Image(systemName: "person.3.sequence.fill")
 
 ```component VPCard
 {
-  "title": "Article(s) > Polishing designs with fonts and colors",
+  "title": "Polishing designs with fonts and colors | SwiftUI by Example",
   "desc": "Polishing designs with fonts and colors",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/polishing-designs-with-fonts-and-colors.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

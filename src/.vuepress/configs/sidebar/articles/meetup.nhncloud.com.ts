@@ -55,6 +55,9 @@ export const template: SidebarInfoTemplate = {
     "linux-debian", [
       "38", // 2015.11.30 
     ]], [
+    "security", [
+      "381", // 2024.05.08
+    ]], [
     "cassandra", [
       "58", // 2016.01.18
       "60", // 2015.12.25 
@@ -89,6 +92,7 @@ export const template: SidebarInfoTemplate = {
       "377", // 2024.03.06
       "378", // 2024.03.18
       "379", // 2024.04.02
+      "381", // 2024.05.08
     ]] 
   ])
 };

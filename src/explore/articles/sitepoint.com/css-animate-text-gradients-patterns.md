@@ -2,18 +2,14 @@
 lang: ko-KR
 title: "Quick Tip: How to Animate Text Gradients and Patterns in CSS"
 description: "Article(s) > Quick Tip: How to Animate Text Gradients and Patterns in CSS"
-icon: fa-brands fa-js
+icon: fa-brands fa-css3-alt
 category: 
-  - JavaScript
-  - TypeScript
+  - CSS
   - Article(s)
 tag: 
   - blog
   - sitepoint.com
-  - js
-  - javascript
-  - ts
-  - typescript
+  - css
 head:
   - - meta:
     - property: og:title
@@ -22,16 +18,16 @@ head:
       content: "Quick Tip: How to Animate Text Gradients and Patterns in CSS"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/sitepoint.com/css-animate-text-gradients-patterns.html
-prev: /programming/js/articles/README.md
+prev: /programming/css/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
 
 ```component VPCard
 {
-  "title": "JavaScript > Article(s)",
+  "title": "CSS > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/js/articles/README.md",
+  "link": "/programming/css/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }
@@ -47,6 +43,8 @@ prev: /programming/js/articles/README.md
   preview="https://uploads.sitepoint.com/wp-content/uploads/2024/04/1712816807animated-text-gradient-768x435.jpg"/>
 
 > 2024.04.11
+
+<!-- TODO: 작성 -->
 
 ---
 

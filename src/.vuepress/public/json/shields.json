@@ -55,6 +55,7 @@
   { "logo": "gitignoredotio", "name": "gitignore", "colorHex": "204ECF" },
   { "logo": "gitlab", "name": "Gitlab", "colorHex": "FC6D26" },
   { "logo": "github", "name": "Github", "colorHex": "181717" },
+  { "logo": "githubcopilot", "name": "Github%20Copilot", "colorHex": "000000" },
   { "logo": "gnometerminal", "name": "Terminal", "colorHex": "241F31" },
   { "logo": "gnubash", "name": "Bash", "colorHex": "4EAA25" },
   { "logo": "google", "name": "Google", "colorHex": "4285F4" },

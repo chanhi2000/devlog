@@ -33,38 +33,70 @@ tag:
 
 ---
 
-## A. 설정
+## A. 기본설정
 
+### A1. `regedit` 설정
+
+> 윈도우 작업표시줄 검색창이나 <kbd>win</kbd>+<kbd>R</kbd>(실행) 열어서 `cmd`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+
+::: warning Prerequesite(s)
+
+First, ensure that you open prompt in **ADMINISTRATIVE** mode
+
+:::
+
+```batch
+:: '이 앱 때문에 종료할 수 없습니다' 비활성화
+REG add "HKEY_CURRENT_USER\Control Panel\Desktop" /v "AutoEndTasks" /d "1" /f 
+:: IE에서 개발자 도구 메뉴가 활성화
+REG add "HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IEDevTools" /v "Disabled" /d "0" /f 
+:: SmartScreen 비활성화
+REG add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System" /v "EnableSmartScreen" /d "0"
+:: Telemetry 비활성화
+REG add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection" /v "AllowTelemetry" /d "0"
+```
+
+| location | `key`=`value` | description |
+| :--- | :---: | :--- |
+| `\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` | `949=*굴림체` | `cmd.exe` 창에서 사용할 폰트를 추가하는 방법 |
+| `\HKEY_USERS\.DEFAULT\Control Panel\Keyboard` | `InitialKeyboardIndicators=2147483650` | 넘버락 켜기 |
+| `\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters` | <ul><li>`BasicAuthLevel=2`</li><li>`FileSizeLimitInBytes=ffffffff`</li></ul> | 
+
+### A2. `gedit.msc` 설정
+
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd>win</kbd>+<kbd>R</kbd>) 열어서 `gpedit.msc`를 실행합니다.
+
+- .<FontIcon icon="iconfont icon-select"/>`[컴퓨터 구성]` -> `[관리 템플릿]` -> `[윈도 구성요소]` -> `[데이터 수집 및 preview 빌드]` -> `[원격 분석 허용 클릭]` -> `[사용 안함]` 설정
+
+### A3. `services.msc` 설정
+
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd>win</kbd>+<kbd>R</kbd>) 열어서 `services.msc`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+
+- .<FontIcon icon="iconfont icon-select"/>`[Connected User Experiences and Telemetry]` 시작유형 사용안함
 
 ---
 
 ## B. Chocolatey
 
-### B1. Prerequesite(s)
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd>win</kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
-::: warning 📝WARNING
+::: warning Prerequesite(s)
 
-First, ensure that you are using an __administrative__ shell
+First, ensure that you open prompt in **ADMINISTRATIVE** mode
 
 :::
-
-### B2. Guide
-
-- <kbd>win</kbd> + <kbd>r</kbd> 입력
-- 창에 `powershell`입력 후 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행
-- Copy and Paste the following to the Powershell Prompt
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
-### B3. Configure
+### B1. Configure
 
 Copy and Paste the following to the Powershell Prompt
 
 ::: code-tabs#powershell
 
-@tab:active powershell
+@tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
 
 ```powershell
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir `
@@ -75,7 +107,7 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
     twinkle-tray wingetui wiztree rust
 ```
 
-@tab Cmd
+@tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir ^
@@ -92,39 +124,33 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
 
 ## C. Scoop.sh
 
-### C1. Prerequesite(s)
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd>win</kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
-::: warning 📝WARNING
+::: warning Prerequesite(s)
 
-First, ensure that you are using an __administrative__ shell
+First, ensure that you open prompt in **ADMINISTRATIVE** mode
 
 :::
-
-### C2. 👨‍🏫Guide
-
-- <kbd>win</kbd> + <kbd>r</kbd> 입력
-- 창에 `powershell`입력 후 <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>enter</kbd> 눌러 실행
-- Copy and Paste the following to the Powershell Prompt
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 ```
 
-### C3. Configure
+### C1. Configure
 
 Copy and Paste the following to the Powershell Prompt
 
 ::: code-tabs#powershell
 
-@tab:active powershell
+@tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
 
 ```powershell
 scoop install 7zip cheat hyperfine neofetch oh-my-posh terminal-icons tokei watchman `
     git
 ```
 
-@tab Cmd
+@tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
 scoop install 7zip cheat hyperfine neofetch oh-my-posh terminal-icons tokei watchman ^
@@ -154,8 +180,6 @@ scoop install 7zip cheat hyperfine neofetch oh-my-posh terminal-icons tokei watc
 - 창에 마우스 우클릭 후, 메뉴에서 `새로만들기` > `문자열 값` 선택 후 아래 값 입력
   - Key: `AutoRun`
   - Value: `%USERPROFILE%\alias.cmd`
-- 시스템 재시작
-
 
 ### D2-i. <FontIcon icon="iconfont icon-json"/>`schema.json`
 
@@ -269,7 +293,7 @@ neofetch
 
 ---
 
-## 기타 툴 
+## 기타 툴
 
 ```component VPCard
 {
@@ -290,7 +314,6 @@ neofetch
   "background": "rgba(0,136,204,0.2)"
 }
 ```
-
 
 ---
 

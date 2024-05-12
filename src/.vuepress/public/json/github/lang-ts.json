@@ -440,11 +440,6 @@
     "officialSite": "https://colourcontrast.cc",
     "topics": ["pwa", "color-contrast", "wcag-contrast"]
   }, {
-    "repo": "CorentinTh/it-tools",
-    "desc": "Collection of handy online tools for developers, with great UX.",
-    "officialSite": "https://it-tools.tech",
-    "topics": ["javascript", "productivity", "converter", "website", "vuejs", "typescript", "tools", "frontend", "tool", "developer-tools", "developer-productivity"]
-  }, {
     "repo": "Everduin94/better-commits",
     "desc": "A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack",
     "officialSite": "",
@@ -2788,5 +2783,10 @@
     "desc": "A framework for finding JavaScript memory leaks and analyzing heap snapshots",
     "officialSite": "https://facebook.github.io/memlab/",
     "topics": ["detector", "e2e", "facebook", "heap", "hermes", "javascript", "leak", "memory", "nodejs", "perf-tools", "performance", "snapshot", "v8"]
+  }, {
+    "repo": "CapSoftware/Cap",
+    "desc": "Effortless, instant screen sharing. Open-source and cross-platform.",
+    "officialSite": "https://cap.so",
+    "topics": ["app", "cap", "coss", "mac", "open-source", "oss", "react", "record", "screen-capture", "screen-recorder", "screenshot", "tauri", "tauri-app", "typescript", "vite"]
   }
 ]

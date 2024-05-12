@@ -340,5 +340,15 @@
     "desc": "Kacheable is a small library that can cache results of computations to various backends.",
     "officialSite": "",
     "topics": []
-  }
+  }, {
+    "repo": "voize-gmbh/pytorch-lite-multiplatform",
+    "desc": "A Kotlin multi-platform wrapper around the PyTorch Lite libraries on Android and iOS.",
+    "officialSite": "",
+    "topics": ["kotlin", "kotlin-multiplatform-mobile", "pytorch", "pytorch-lite", "pytorch-mobile"]
+  }, {
+    "repo": "kotest/kotest",
+    "desc": "Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing",
+    "officialSite": "https://kotest.io",
+    "topics": ["assertions", "hacktoberfest", "kotlin", "matchers", "property-testing", "test", "testing", "testing-tools"]
+  }  
 ]

@@ -6,7 +6,7 @@ icon: iconfont icon-microsoftazure
 category: 
   - Azure
   - Kubernetes
-  - Postgres
+  - PostgreSQL
   - Node.js
   - Article(s)
 tag: 
@@ -17,6 +17,8 @@ tag:
   - mac
   - macos
   - sh
+  - postgres
+  - postgresql
 head:
   - - meta:
     - property: og:title

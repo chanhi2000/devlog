@@ -13,6 +13,7 @@ tag:
   - meetup.nhncloud.com
   - d2.naver.com
   - kt.academy
+  - engineering.linecorp.com
   - java
   - jdk
   - jdk8
@@ -65,6 +66,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Blog - LINE ENGINEERING",
+  "desc": "2022-LINE-engineering-site",
+  "link": "https://engineering.linecorp.com/ko/blog/",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -75,9 +86,29 @@ head:
 
 ```component VPCard
 {
-  "title": "개발 런타임 환경 구축하기: Java편 | 요즘IT",
-  "desc": "개발 런타임 환경 구축하기: Java편",
-  "link": "/explore/articles/yozm.wishket.com/2561.md",
+  "title": "이벤트 기반 웹뷰 프레임워크 설계와 플러그인 생태계 만들기 | 요즘IT",
+  "desc": "이벤트 기반 웹뷰 프레임워크 설계와 플러그인 생태계 만들기",
+  "link": "/explore/articles/yozm.wishket.com/2395.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "그래프 알고리즘 종류와 활용 방법 | 요즘IT",
+  "desc": "그래프 알고리즘 종류와 활용 방법",
+  "link": "/explore/articles/yozm.wishket.com/2411.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "클린 코드는 왜 중요하고 어떻게 실천해야 할까? | 요즘IT",
+  "desc": "클린 코드는 왜 중요하고 어떻게 실천해야 할까?",
+  "link": "/explore/articles/yozm.wishket.com/2415.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -95,9 +126,9 @@ head:
 
 ```component VPCard
 {
-  "title": "클린 코드는 왜 중요하고 어떻게 실천해야 할까? | 요즘IT",
-  "desc": "클린 코드는 왜 중요하고 어떻게 실천해야 할까?",
-  "link": "/explore/articles/yozm.wishket.com/2415.md",
+  "title": "개발 런타임 환경 구축하기: Java편 | 요즘IT",
+  "desc": "개발 런타임 환경 구축하기: Java편",
+  "link": "/explore/articles/yozm.wishket.com/2561.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -143,11 +174,47 @@ head:
 
 ```component VPCard
 {
+  "title": "Static Code Analysers",
+  "desc": "All you need to know about Static Code Analysers and Detekt.",
+  "link": "/explore/articles/kt.academy/ak-static-analysis.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "A Pattern for Composing Flow Operations",
   "desc": "Extending and operating on top of your existing flows",
   "link": "/explore/articles/kt.academy/pattern-for-composing-flows.md",
   "logo": "https://kt.academy/logo.png",
   "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How many threads your network client uses?",
+  "desc": "Many popular network clients consume way more threads than you might expect. Let's overview the problem and find a solution.",
+  "link": "/explore/articles/kt.academy/network-client-threads.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+---
+
+## Blog - LINE ENGINEERING
+
+> engineering.linecorp.com
+
+```component VPCard
+{
+  "title": "Jira의 이슈 정렬 방식이 Integer 방식이 아니라고?!",
+  "desc": "안녕하세요. LINE+ Contents Service Engineering 조직에서 백엔드 개발을 하고 있는 김한솔, 문다정, 이현동, 조강훈입니다. 저희 조직에서는 그룹...",
+  "link": "/explore/articles/engineering.linecorp.com/about-atlassian-jira-ranking-algorithm-lexorank.md",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
 }
 ```
 

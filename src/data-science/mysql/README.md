@@ -4,6 +4,7 @@ title: MySQL
 description: MySQL
 icon: iconfont icon-mysql
 category:
+  - SQL
   - MySQL
 tag:
   - mysql

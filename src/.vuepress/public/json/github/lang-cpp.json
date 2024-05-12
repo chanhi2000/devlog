@@ -1288,5 +1288,15 @@
     "desc": "Efficient modeling interface for mathematical optimization in Python",
     "officialSite": "https://metab0t.github.io/PyOptInterface/",
     "topics": ["conic-programs", "linear-programming", "mathematical-modelling", "mathematical-programming", "mixed-integer-programming", "modeling-language", "optimization", "python", "quadratic-programming"]
+  }, {
+    "repo": "xfangfang/PPPwn_cpp",
+    "desc": "C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE)",
+    "officialSite": "",
+    "topics": ["pppwn", "ps4", "ps4-jailbreak", "ps4exploit"]
+  }, {
+    "repo": "jjuran/metamage_1",
+    "desc": "Metamage open source, general repository, iteration 1",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -6,7 +6,7 @@ icon: iconfont icon-microsoftazure
 category:
   - Azure
   - Microsoft
-  - Devops
+  - DevOps
 tag:
   - microsoft
   - azure
@@ -16,7 +16,11 @@ tag:
 
 <ShieldsGroup logos="microsoft,microsoftazure,azureartifacts,azuredataexplorer,azuredevops,azurefunctions,azurepipelines"/>
 
-https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-engineer
+---
+
+## Table of Contents
+
+<ToCLocal basePath="/devops/azure/" />
 
 ---
 

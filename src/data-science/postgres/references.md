@@ -18,9 +18,17 @@ tag:
 
 ---
 
-## FreeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
-- [Advanced Indexing Strategies in PostgreSQL](https://www.freecodecamp.org/news/postgresql-indexing-strategies)
+```component VPCard
+{
+  "title": "Advanced Indexing Strategies in PostgreSQL",
+  "desc": "Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a...",
+  "link": "/explore/articles/freecodecamp.org/postgresql-indexing-strategies.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 
@@ -40,6 +48,12 @@ tag:
 ## Substack
 
 - [`@bawolf` - Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)
+
+---
+
+## Supabase
+
+- [What's new in pgvector v0.7.0](https://supabase.com/blog/pgvector-0-7-0)
 
 ---
 
@@ -217,6 +231,18 @@ tag:
 ## oso
 
 - [A Logic Language for Distributed SQL Queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
+
+---
+
+## Timescale Blog
+
+- [How We Scaled PostgreSQL to 350 TB+ (With 10B New Records/Day)](https://www.timescale.com/blog/how-we-scaled-postgresql-to-350-tb-with-10b-new-records-day/)
+
+---
+
+## Postgres.AI
+
+- [Common DB schema change mistakes](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 
 ---
 

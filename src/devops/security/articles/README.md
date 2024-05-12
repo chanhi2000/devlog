@@ -5,18 +5,14 @@ description: Security > Article(s)
 icon: fas fa-network-wired
 category:
   - DevOps
-  - Linux
-  - OS
-  - Git
-  - Ansible
+  - Security
   - Article(s)
 tag: 
   - blog
   - yozm.wishket.com
-  - git
-  - github
-  - gitlab
-  - ansible
+  - meetup.nhncloud.com
+  - security
+  - mobile
   - linux
 head:
   - - meta:
@@ -40,9 +36,17 @@ head:
 }
 ```
 
-[[toc]]
+```component VPCard
+{
+  "title": "NHN Cloud Meetup - NHN 기술 블로그",
+  "desc": "기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.",
+  "link": "https://meetup.nhncloud.com/",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
----
+[[toc]]
 
 ---
 
@@ -87,6 +91,22 @@ head:
   "link": "2519.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+> meetup.nhncloud.com
+
+```component VPCard
+{
+  "title": "보이스피싱 애플리케이션 분석 1부 | NHN Cloud Meetup",
+  "desc": "보이스피싱 애플리케이션 분석 1부",
+  "link": "/explore/articles/meetup.nhncloud.com/381.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
 }
 ```
 

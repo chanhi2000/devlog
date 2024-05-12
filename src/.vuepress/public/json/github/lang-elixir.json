@@ -39,5 +39,10 @@
     "desc": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
     "officialSite": "https://elixir-lang.org/",
     "topics": []
+  }, {
+    "repo": "kzemek/es6_maps",
+    "desc": "ES6-like shorthand syntax for Elixir maps: `%{foo, bar} = map; IO.puts(foo)`",
+    "officialSite": "",
+    "topics": ["elixir", "es6", "map", "shorthand", "syntax"]
   }
 ]

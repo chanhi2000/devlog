@@ -57,13 +57,14 @@ Copy and Paste the following to the Terminal Prompt
 brew tap homebrew/cask-versions;
 brew tap homebrew/cask-fonts;
 brew tap oven-sh/bun; # for macOS and Linux
+brew tap mac-cleanup/mac-cleanup-py; # mac-cleanup-py
 
 # Install formula
 brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   cheat cocoapods exiftool ffmpeg fizz flac git \
   hyperfine mas neofetch nvm openssl pixman \
   python rust scrcpy starship tmux tokei watchman \
-  wget xz zsh;
+  wget xz zsh mac-cleanup-py;
 
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner cheatsheet  \
@@ -151,7 +152,6 @@ Install the following(s)
   url="https://apps.apple.com/us/app/scantexter-ai-translation/id1635954549"
   logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/45/0b/5c450ba9-9f82-9e9d-8c30-a6ba950adf91/AppIcon-0-0-85-220-0-0-4-0-2x.png/492x0w.webp"
   preview="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/63/d7/7e/63d77eba-8664-a173-6b45-33ee72128440/3db67eb9-a5de-4fa6-a90c-ae4754e8dbf8_previews1.png/1286x0w.webp"/>
-
 
 ### B3. Use `mas` to install
 

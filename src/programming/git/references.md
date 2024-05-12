@@ -38,8 +38,8 @@ tag:
 ---
 
 ## 우아한 기술블로그
- 
-- [셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기](https://techblog.woowahan.com/16044/)
+
+- [셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기](/explore/articles/techblog.woowahan.com/16044.md)
 
 ---
 

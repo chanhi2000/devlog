@@ -259,7 +259,7 @@ try {
   "desc": "Checks the CPU temperature",
   "link": "https://github.com/fleschutz/PowerShell/blob/master/Docs/check-cpu.md",
   "logo": "https://avatars.githubusercontent.com/u/16557787?v=4",
-  "background": "rgba(10, 10, 10, 0.2)"
+  "background": "rgba(10,10,10,0.2)"
 }
 ```
 

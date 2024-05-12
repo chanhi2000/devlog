@@ -318,6 +318,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "블로그 | 토스페이먼츠 개발자센터",
+  "desc": "토스페이먼츠 결제 연동 과정에 도움이 되는 다양한 기술 아티클입니다. 더 쉽고 재밌는 콘텐츠로 결제 연동을 학습해보세요.",
+  "link": "https://docs.tosspayments.com/blog",
+  "logo": "https://static.toss.im/tds/favicon/favicon-196x196.png",
+  "background": "rgba(202,221,249,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
   "desc": "Everyday Engineering Challenges",
   "link": "https://blog.ideaharbour.site/engineering/",
@@ -328,11 +338,31 @@ tag:
 
 ```component VPCard
 {
+  "title": "Knowledge Base",
+  "desc": "Knowledge Base",
+  "link": "https://iq.thc.org/",
+  "logo": "https://cdn.hashnode.com/res/hashnode/image/upload/v1611242155728/W3_BYVVVh.png",
+  "background": "rgba(144,238,144,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스",
   "desc": "44BITS는 IT 뉴스, 프로그래밍, 클라우드, 컨테이너, 리눅스 등을 주로 다루는 기술 블로그입니다.",
   "link": "https://www.44bits.io/ko",
   "logo": "https://d2uleea4buiacg.cloudfront.net/assets/favicon.png",
   "background": "rgba(74,80,86,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "🦊인포그랩",
+  "desc": "GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공",
+  "link": "https://insight.infograb.net/blog",
+  "logo": "https://insight.infograb.net/img/logo-color.svg",
+  "background": "rgba(23, 149, 106, 0.2)"
 }
 ```
 
@@ -393,16 +423,6 @@ tag:
   "link": "https://blog.bytebytego.com",
   "logo": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
   "background": "rgba(140, 234, 216, 0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "🦊인포그랩",
-  "desc": "GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공",
-  "link": "https://insight.infograb.net/blog",
-  "logo": "https://insight.infograb.net/img/logo-color.svg",
-  "background": "rgba(23, 149, 106, 0.2)"
 }
 ```
 

@@ -4,20 +4,16 @@ title: Article(s)
 description: Node.js > Article(s)
 icon: fas fa-square-share-nodes
 category: 
-  - JavaScript
-  - TypeScript
+  - Node.js
   - Article(s)
 tag: 
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - sitepoint.com
   - devtoolstips.org
-  - yozm.wishket.com
-  - js
-  - javascript
-  - ts
-  - typescript
-  - blog
+  - node
+  - nodejs
 head:
   - - meta:
     - property: og:title
@@ -101,7 +97,7 @@ head:
 
 ---
 
-## freeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 > freecodecamp.org
 
@@ -130,6 +126,16 @@ head:
 ## 요즘IT
 
 > yozm.wishket.com
+
+```component VPCard
+{
+  "title": "편리한 API 제너레이터 ‘swagger-typescript-api’ | 요즘IT",
+  "desc": "편리한 API 제너레이터 ‘swagger-typescript-api’",
+  "link": "https://yozm.wishket.com/magazine/detail/2387/",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -207,7 +213,7 @@ head:
 {
   "title": "5 Exciting New JavaScript Features in 2024 — SitePoint",
   "desc": "Explore some hotly anticipated new additions to JavaScript, including better date management with the Temporal API and pipe operators.",
-  "link": "/explore/articles/sitepoint.com/20240312-new-javascript-ecmascript.md",
+  "link": "/explore/articles/sitepoint.com/new-javascript-ecmascript.md",
   "logo": "https://www.sitepoint.com/favicons/512x512.png",
   "background": "rgba(29,32,36,0.2)"
 }

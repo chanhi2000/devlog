@@ -111,4 +111,10 @@ tag:
 
 ---
 
+## Marco Gomiero
+
+- [How to publish a Kotlin Multiplatform iOS app on App Store with GitHub Actions](https://www.marcogomiero.com/posts/2024/kmp-ci-ios/)
+
+---
+
 <TagLinks />

@@ -136,7 +136,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to save and load NavigationStack paths using Codable",
+  "title": "How to save and load NavigationStack paths using Codable | SwiftUI by Example",
   "desc": "How to save and load NavigationStack paths using Codable",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-save-and-load-navigationstack-paths-using-codable.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -146,7 +146,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to lazy load views using LazyVStack and LazyHStack",
+  "title": "How to lazy load views using LazyVStack and LazyHStack | SwiftUI by Example",
   "desc": "How to lazy load views using LazyVStack and LazyHStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -156,7 +156,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to load custom colors from an asset catalog",
+  "title": "How to load custom colors from an asset catalog | SwiftUI by Example",
   "desc": "How to load custom colors from an asset catalog",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -166,7 +166,7 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "Article(s) > How to draw images using Image views",
+  "title": "How to draw images using Image views | SwiftUI by Example",
   "desc": "How to draw images using Image views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-images-using-image-views.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

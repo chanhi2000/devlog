@@ -27,9 +27,9 @@ tag:
 
 From Maven Central
 
-::: tabs
+::: code-tabs#sh
 
-@tab:active sh
+@tab:active <FontIcon icon="iconfont icon-shell"/>sh
 
 ```sh
 curl -H "Accept: application/zip" \
@@ -37,7 +37,7 @@ curl -H "Accept: application/zip" \
     -o kotlin-test-1.2.0.jar
 ```
 
-@tab cmd
+@tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
 curl -H "Accept: application/zip" ^
@@ -51,9 +51,9 @@ curl -H "Accept: application/zip" ^
 
 to Local Nexus Repository
 
-::: tabs
+::: code-tabs#sh
 
-@tab:active sh
+@tab:active <FontIcon icon="iconfont icon-shell"/>sh
 
 ```sh
 curl -v -u admin:admin123 --upload-file "http://10.60.175.90:9880/nexus/service/local/artifact/maven/content" \
@@ -62,7 +62,7 @@ curl -v -u admin:admin123 --upload-file "http://10.60.175.90:9880/nexus/service/
     -F file=@kotlin-util-klib-metadata-1.7.20.jar
 ```
 
-@tab cmd
+@tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
 curl -v -u admin:admin123 --upload-file "http://10.60.175.90:9880/nexus/service/local/artifact/maven/content" ^
@@ -79,9 +79,9 @@ curl -v -u admin:admin123 --upload-file "http://10.60.175.90:9880/nexus/service/
 
 in Local Nexus Repository
 
-::: tabs
+::: code-tabs#sh
 
-@tab:active sh
+@tab:active <FontIcon icon="iconfont icon-shell"/>sh
 
 ```sh
 # Delete all pom related files
@@ -100,7 +100,7 @@ curl -v -u admin:admin123 \
     "http://10.60.175.90:9880/nexus/content/repositories/thirdparty/org/jetbrains/kotlin/kotlin-stdlib/1.3.11/kotlin-stdlib-1.3.11.pom"
 ```
 
-@tab cmd
+@tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
 REM Delete all pom related files

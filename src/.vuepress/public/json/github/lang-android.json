@@ -349,5 +349,20 @@
     "desc": "Compose for Desktop falling sand simulator",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "composablehorizons/compose-menu",
+    "desc": "An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.",
+    "officialSite": "https://composablehorizons.github.io/compose-menu",
+    "topics": ["android", "compose-desktop", "compose-multiplatform", "compose-web", "ios", "jetpack-compose", "kotlinmultiplatform"]
+  }, {
+    "repo": "JustinGeorgeJoseph/SparkButtonCompose",
+    "desc": "Spark effect on a button click",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jordond/compass",
+    "desc": "🧭 Kotlin Multiplatform library location toolkit for geocoding and geolocation",
+    "officialSite": "https://compass.jordond.dev",
+    "topics": ["compose", "compose-multiplatform", "geocoder", "geolocation", "kotlin", "kotlin-multiplatform", "location"]
   }
 ]

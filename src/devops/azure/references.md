@@ -11,6 +11,14 @@ category:
 tag:
   - microsoft
   - azure
+head:
+  - - meta:
+    - property: og:title
+      content: Azure > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/azure/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

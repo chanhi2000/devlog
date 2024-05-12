@@ -4776,7 +4776,7 @@
     "topics": []
   }, {
     "repo": "nashsu/FreeAskInternet",
-    "desc": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
+    "desc": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. ",
     "officialSite": "",
     "topics": []
   }, {
@@ -5139,5 +5139,25 @@
     "desc": "Modern, extensible Python project management",
     "officialSite": "https://hatch.pypa.io/latest/",
     "topics": ["build", "cli", "packaging", "plugin", "python", "versioning", "virtualenv"]
+  }, {
+    "repo": "jgravelle/AutoGroq",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mustafaaljadery/gemma-2B-10M",
+    "desc": "Gemma 2B with 10M context length using Infini-attention.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mac-cleanup/mac-cleanup-py",
+    "desc": "👨‍💻 Python cleanup script for macOS",
+    "officialSite": "",
+    "topics": ["cleaner", "cleanup", "macos", "script"]
+  }, {
+    "repo": "hyunwoongko/kss",
+    "desc": "KSS: Korean String processing Suite",
+    "officialSite": "",
+    "topics": ["korean", "korean-nlp", "kss", "nlp", "sentences", "split-sentences"]
   }
 ]

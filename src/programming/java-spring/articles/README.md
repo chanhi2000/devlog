@@ -10,11 +10,13 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - rutgo-letsgo.tistory.com
   - meetup.nhncloud.com
   - d2.naver.com
   - techblog.woowahan.com
   - dev.gmarket.com
+  - engineering.linecorp.com
   - zuminternet.github.io
   - java
   - jdk
@@ -38,6 +40,16 @@ head:
   "link": "https://freecodecamp.org/news/",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -90,6 +102,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Blog - LINE ENGINEERING",
+  "desc": "2022-LINE-engineering-site",
+  "link": "https://engineering.linecorp.com/ko/blog/",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "ZUM 기술 블로그",
   "desc": "생각을 읽다, ZUM, 고객의 생각을 읽고 담는 줌 인터넷 개발자들의 '좀 다른 개발 이야기'를 소개 합니다.",
   "link": "https://zuminternet.github.io/",
@@ -102,7 +124,7 @@ head:
 
 ---
 
-## freeCodeCamp
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 > freecodecamp.org
 
@@ -113,6 +135,22 @@ head:
   "link": "/explore/articles/freecodecamp.org/uth2-resourceserver-with-spring-security.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "값 객체(Value Object)로 변경 용이성 개선하기 | 요즘IT",
+  "desc": "값 객체(Value Object)로 변경 용이성 개선하기",
+  "link": "/explore/articles/yozm.wishket.com/2382.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -203,6 +241,22 @@ head:
   "link": "/explore/articles/dev.gmarket.com/104.md",
   "logo": "https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515",
   "background": "rgba(0,192,30,0.2)"
+}
+```
+
+---
+
+## Blog - LINE ENGINEERING
+
+> engineering.linecorp.com
+
+```component VPCard
+{
+  "title": "가상 머신의 성능을 높이는 것도 지구 온난화에 도움이 될까요?",
+  "desc": "안녕하세요. VOOM Server Unit에서 LINE VOOM 서비스를 개발하고 있는 서용준입니다. LINE VOOM 서비스는 메인 콘텐츠인 포스트를 저장하기 위해 My...",
+  "link": "/explore/articles/engineering.linecorp.com/migrate-mysql-with-read-only-mode.md",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
 }
 ```
 

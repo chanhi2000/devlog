@@ -147,6 +147,7 @@ Notice how you can use the `font()` modifier to adjust SF Symbols as if they wer
 ```
 
 :::
+
 ---
 
 <TagLinks />

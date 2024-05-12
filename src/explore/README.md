@@ -463,8 +463,20 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+```component VPCard
+{
+  "title": "Lectures on Operating Systems",
+  "desc": "This page serves as a reference for teaching/learning operating systems (OS). The material consists of video lectures, annotated slides used in the videos, practice problems with solutions, programming lab assignments, and additional reading material for reference.",
+  "link": "https://www.cse.iitb.ac.in/~mythili/os/",
+  "logo": "https://www.cse.iitb.ac.in/favicon.ico",
+  "background": "rgba(0,79,159,0.2)"
+}
+```
+
 https://startyourownisp.com/
 https://www.docdroid.com/NOEBGF5/sdn-pdf
+https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-engineer
+
 
 @tab Portfolio / Cool Project
 
@@ -495,6 +507,16 @@ https://www.docdroid.com/NOEBGF5/sdn-pdf
   "link": "https://territory.dev/",
   "logo": "https://territory.dev/assets/img/favicon.ico",
   "background": "rgba(236,101,95,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASSEMBLY",
+  "desc": "Write a delegate and send it to wander in the central assembly!",
+  "link": "https://assembly.louve.systems/",
+  "logo": "https://assembly.louve.systems/lres/favicon/favicon.pngogo",
+  "background": "rgba(255,165,0,0.2)"
 }
 ```
 

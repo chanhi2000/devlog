@@ -17,7 +17,8 @@ tag:
 
 ---
 
-## Swift 
+
+## <FontIcon icon="fa-brands fa-swift"/>Swift
 
 - [Swift Summer of Code 2023 Summary](https://www.swift.org/blog/summer-of-code-2023-summary/)
 - [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift)
@@ -29,9 +30,15 @@ tag:
 
 ---
 
-## Official Docs
+## <FontIcon icon="fa-brands fa-apple"/>fficial Docs
 
 - [WebObjectsOverview](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
+
+---
+
+## Nonstrict
+
+- [WWDC Index](https://nonstrict.eu/wwdcindex/)
 
 ---
 
@@ -107,6 +114,8 @@ tag:
 - [`@prashantdixit_87612` - Creating and publishing your own iOS library in Swift(2024) | Part 1](https://medium.com/@prashantdixit_87612/creating-and-publishing-your-own-ios-library-in-swift-2024-part-1-4dd8b211802a)
 - [`jamf-engineering` - Swift 6 upgrade Preparation](https://medium.com/jamf-engineering/swift-6-upgrade-preparation-0941fbea2db6)
 - [`@domen.lanisnik` - Swift Cheatsheet for Android/Kotlin Developers](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6)
+- [`@jpmtech` / Dice Challenge in SwiftUI](https://medium.com/@jpmtech/dice-challenge-in-swiftui-a26c82ac1367)
+
 
 ---
 
@@ -142,6 +151,8 @@ tag:
 
 ## Nil Coalescing
 
+- [Case insensitive string comparison in Swift](https://nilcoalescing.com/blog/CaseInsensitiveStringComparisonInSwift/)
+- [Sending trial notifications with provisional authorization on iOS](https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS/)
 - [iOS app setup for remote push notifications](https://nilcoalescing.com/blog/RemotePushSetup)
 - [Testing remote push notifications on iOS simulator in Xcode 14](https://nilcoalescing.com/blog/TestingRemotePushOniOSSimulator)
 
@@ -391,6 +402,7 @@ tag:
 ## christian tietze
 
 - [Enable SwiftUI Button Click-Through for Inactive Windows on macOS](https://christiantietze.de/posts/2024/04/enable-swiftui-button-click-through-inactive-windows)
+- [Use and Then Reduce Open Source Dependencies](https://christiantietze.de/posts/2024/05/use-and-reduce-dependencies/)
 
 ---
 
@@ -471,13 +483,6 @@ tag:
 
 ---
 
-## Nil Coalescing
-
-- [Case insensitive string comparison in Swift](https://nilcoalescing.com/blog/CaseInsensitiveStringComparisonInSwift/)
-- [Sending trial notifications with provisional authorization on iOS](https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS/)
-
----
-
 ## Lunar Skydiving
 
 - [If you've created a visionOS app with a volume, you probably did it wrong](https://www.lunarskydiving.com/blog/volume-window-zoom/)
@@ -542,6 +547,18 @@ tag:
 ## iOYES
 
 - [쿠키로 안전하게 HLS m3u8 영상 접근하기](https://green1229.tistory.com/344)
+
+---
+
+## Richard Das - Product Coach for Leaders, Founders & Teams
+
+- [Turning AirPods into a Fitness Tracker to Fight Cancer](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
+
+---
+
+## Paul Peelen
+
+- [OS Style settings view](https://paulpeelen.com/SettingsView)
 
 ---
 

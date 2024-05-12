@@ -24,6 +24,8 @@ tag:
 
 - [GitLab 16.0 릴리즈 노트](https://insight.infograb.net/blog/2023/05/24/gitlab-16-0-release-note/)
 - [GitLab 밋업으로 알아보는 Observability 이야기](https://insight.infograb.net/blog/2023/05/25/gitlab-korea-observability)
+- [GitLab Geo는 뭐지오?](https://insight.infograb.net/blog/2024/04/30/gitlab-geo/)
+- [GitLab 차세대 ‘CI/CD 컴포넌트’ 알아보기](https://insight.infograb.net/blog/2024/05/08/cicd-component/)
 
 ---
 
