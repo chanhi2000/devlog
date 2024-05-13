@@ -318,6 +318,10 @@ tag:
 
 - [[JAVA] JDK 11에서 JDK 21로 변경하기 (LTS버전)](https://moonsiri.tistory.com/204)
 
+### 얇고 넓은 개발 블로그
+
+- [Slack App Directory를 활용하여 Webhook보다 퀄 좋은 메세지 발송하기](https://sundries-in-myidea.tistory.com/166)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin

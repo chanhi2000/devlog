@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/tbGd2GglIheDdACs4qzHXp1EYhupDf1M8wYq1AGmy4fDsAxo8l-igds9atXHS-VOYt7UquZ4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kaB7Vfj0DKs", "title": "Cryptography and Digital Signature" },
+    { "id": "ESfdfJWegjk", "title": "Tech Fun Quiz" },
+    { "id": "6QDHM-XNUMg", "title": "Why Spring? | Loose coupling" },
+    { "id": "d0ii53cBzf8", "title": "Spring and Microservices First Session" },
+    { "id": "VjlV1g8DI-4", "title": "Rubber Duck vs AI" },
+    { "id": "Zxwq3aW9ctU", "title": "What is Spring Framework?" },
+    { "id": "6C6L3Q7nDJU", "title": "#3  Prerequisite and Tools required for Spring" },
+    { "id": "L0v_3MzC1io", "title": "#5 What is Spring Boot?" },
+    { "id": "9EoAXpjnsxM", "title": "#6  Dependency Injection using Spring Boot" },
+    { "id": "5cRaQqQb14Q", "title": "#4  IoC and DI in Spring" },
+    { "id": "42X_fDrP-Vg", "title": "#8 Spring without Boot" },
+    { "id": "fKwAU1_bn24", "title": "#9 Spring XML Config" },
     { "id": "ImBqsE2exGo", "title": "Spring Data JPA" },
     { "id": "mZpm-U9NCfg", "title": "Lets build Project in Java/Spring for Non-Java Dev | Live Workshop | Session 1" },
     { "id": "KYsbEs3Yp8Q", "title": "Lets build Project in Java/Spring for Non-Java Dev | Live Workshop | Session 2" },

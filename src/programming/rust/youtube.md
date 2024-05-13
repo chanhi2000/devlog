@@ -63,5 +63,6 @@ tag:
 <MyYouTubeItems jsonName="yu-oliverjumpertzme" /><!-- Oliver Jumpertz -->
 <MyYouTubeItems jsonName="yu-mithradates" /><!-- mithradates -->
 <MyYouTubeItems jsonName="yu-NullLabs" /><!-- The Null Channel -->
+<MyYouTubeItems jsonName="yu-BryanLunduke" /><!-- Bryan Lunduke -->
 
 <TagLinks />

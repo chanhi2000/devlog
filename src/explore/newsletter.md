@@ -328,6 +328,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "블로그 | 올리브영 테크블로그",
+  "desc": "올리브영 Tech의 다양한 기술 고민과 일상 이야기를 소개합니다",
+  "link": "https://oliveyoung.tech/blog/",
+  "logo": "https://oliveyoung.tech/favicon-32x32.png?v=a4b11f19c0d38aff2ebd465d8801cd2d",
+  "background": "rgba(173,209,81,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
   "desc": "Everyday Engineering Challenges",
   "link": "https://blog.ideaharbour.site/engineering/",

@@ -147,5 +147,7 @@ tag:
 <MyYouTubeItems jsonName="yu-weirdeveloper" /><!-- 괴발자 -->
 <MyYouTubeItems jsonName="yu-n8n-io" /><!-- n8n -->
 <MyYouTubeItems jsonName="yu-JeffSu" /><!-- Jeff Su -->
+<MyYouTubeItems jsonName="yu-realchrishawkes" /><!-- Chris Hawkes -->
+<MyYouTubeItems jsonName="yu-EnjoyCreativeLife" /><!-- 런타임 -->
 
 <TagLinks />

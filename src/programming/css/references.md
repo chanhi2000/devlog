@@ -88,6 +88,8 @@ tag:
 
 ## Substack
 
+- [`cssisntmagic` / Let's reduce the combination of the `width` and `max-width` properties to one](https://cssisntmagic.substack.com/p/lets-reduce-the-combination-of-the-b0d)
+- [`cssisntmagic` / Reduce `top: 0; right: 0; bottom: 0; left: 0` to one line!](https://cssisntmagic.substack.com/p/reduce-top-0-right-0-bottom-0-left-a21)
 - [`cssisntmagic` / `position: absolute` frees us from using `display: block`](https://cssisntmagic.substack.com/p/position-absolute-frees-us-from-using-cf4)
 - [`cssisntmagic` / CSS without order dependencies](https://cssisntmagic.substack.com/p/css-without-order-dependence)
 - [`cssisntmagic` / We don't need to use 0 anymore to define margins and paddings](https://cssisntmagic.substack.com/p/we-dont-need-to-use-0-anymore-to-3e0)
@@ -116,12 +118,14 @@ tag:
 
 ## Web.dev
 
+- [Light-dark()를 사용한 CSS 색상 스키마에 종속된 색상](https://web.dev/articles/light-dark)
 - [Popover API가 Baseline에 도입](https://web.dev/blog/popover-api)
 
 ---
 
 ## Smashing Magazine
 
+- [InfiInfinite-Scrolling Logos In Flat HTML And Pure CSS](https://www.smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/)
 - [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://www.smashingmagazine.com/2023/07/writing-css-2023)
 - [Sliding 3D Image Frames In CSS](https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/)
 
@@ -145,7 +149,7 @@ tag:
 
 ---
 
-## Devlog
+## WIT블로그
 
 - [CSS 애니메이션의 성능 아는 만큼 좋아져요!](https://wit.nts-corp.com/2020/06/05/6134)
 
@@ -154,6 +158,8 @@ tag:
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [30 Practical Tips for Effective User Interface Design](https://uxplanet.org/30-practical-tips-for-effective-user-interface-design-59e1e46ac370)
+- [`uxdesign` / Why UI designers should understand Flexbox and CSS Grid](https://uxdesign.cc/why-ui-designers-should-understand-flexbox-and-css-grid-e236a9dec37a)
+- [`w3cplus` / Illustrated CSS: CSS Custom Properties](https://w3cplus.medium.com/illustrated-css-css-custom-properties-c5eb7da8423d)
 - [`front-end-weekly` / CSS Container Queries: Revolutionising Responsive Web Design](https://medium.com/front-end-weekly/css-container-queries-revolutionising-responsive-web-design-bd65b4b23b29)
 
 ---
@@ -165,6 +171,13 @@ tag:
 - [8 SCSS Best Practices to Keep in Mind](https://dev.to/liaowow/8-css-best-practices-to-keep-in-mind-4n5h)
 - [`jaredcodes` - Finally Understand Responsive Design!](https://dev.to/jaredcodes/finally-understand-responsive-design-3con)
 - [`madhusaini22` - How to remove background of an image with CSS](https://dev.to/madhusaini22/how-to-remove-background-of-image-with-css-1e6e)
+
+---
+
+## CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
+
+- [Managing User Focus with `:focus-visible`](https://css-tricks.com/managing-user-focus-with-focus-visible/)
+- [The Power of `:has()` in CSS](https://css-tricks.com/the-power-of-has-in-css/)
 
 ---
 
@@ -225,6 +238,7 @@ tag:
 
 ## CSS in Real Life
 
+- [Cool Tools](https://css-irl.info/cool-tools)
 - [Reducing Complexity in Front End Development](https://css-irl.info/reducing-complexity-in-front-end-development)
 
 ---
@@ -247,7 +261,7 @@ tag:
 
 ---
 
-## Tobias Ahlin 
+## Tobias Ahlin
 
 - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales)
 
@@ -255,6 +269,7 @@ tag:
 
 ## Ahmad Shadeed
 
+- [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [CSS Variables 101](https://ishadeed.com/article/css-vars-101)
 - [CSS `:has()` Interactive Guide](https://ishadeed.com/article/css-has-guide/)
 
@@ -263,12 +278,6 @@ tag:
 ## Bram.us
 
 - [The Future of CSS: Easy Light-Dark Mode Color Switching with `light-dark()`](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark)
-
----
-
-## CSS in Real Life
-
-- [Cool Tools](https://css-irl.info/cool-tools)
 
 ---
 
@@ -373,6 +382,8 @@ tag:
 
 ## Go Make Things
 
+- [An advanced way to use CSS variables](https://gomakethings.com/an-advanced-way-to-use-css-variables/)
+- [CSS variables](https://gomakethings.com/css-variables/)
 - [An intro to Flexbox](https://gomakethings.com/an-intro-to-flexbox/)
 - [Practical uses for Flexbox](https://gomakethings.com/practical-uses-for-flexbox/)
 - [How to build a reusable grid system with CSS grid](https://gomakethings.com/how-to-build-a-reusable-grid-system-with-css-grid/)
@@ -382,6 +393,8 @@ tag:
 
 ## CSS Tip: Learn CSS the easy one
 
+- [Fluid Typography With Discrete Steps](https://css-tip.com/fluid-typography/)
+- [Rounded Tabs With Inner Curves](https://css-tip.com/rounded-tab/)
 - [A Fancy Frame With Zig-Zag Borders](https://css-tip.com/zig-zag-box/)
 - [A Modern Way To Create A Star Shape](https://css-tip.com/star-shape/)
 - [CSS-Only Pixelated Cut Corners](https://css-tip.com/pixelated-corner/)
@@ -487,6 +500,43 @@ tag:
 ## Geoff Graham
 
 - [The New `!important`](https://geoffgraham.me/the-new-css-important/)
+
+---
+
+## phloe
+
+- [The Chaotic Neutral Nature of Font-size](https://phloe.co/dev/font-size)
+
+---
+
+## Robin Rendle — Designer and writer.
+
+- [How to Kill the Cascade](https://robinrendle.com/the-cascade/017-how-to-kill-the-cascade/)
+
+---
+
+## Text Effects
+
+- [ICE TEXT EFFECT WITH CSS](https://texteffects.dev/posts/ice-text-effect)
+- [FLICKERING GLOWING TEXT EFFECT WITH CSS](https://texteffects.dev/posts/flickering-text-effect)
+
+---
+
+## utilitybend
+
+- [Animating clip paths on scroll with @property in CSS](https://utilitybend.com/blog/animating-clip-paths-on-scroll-with-at-property-in-css/)
+
+---
+
+## Jason Zimdars
+
+- [Modern CSS patterns and techniques in Campfire](https://world.hey.com/jz/modern-css-patterns-and-techniques-in-campfire-30b94808)
+
+---
+
+## Scott Jehl, Web Designer/Developer
+
+- [How would you build Wordle with just HTML & CSS?](https://scottjehl.com/posts/wordleish/)
 
 ---
 

@@ -98,6 +98,8 @@ head:
 }
 ```
 
+[[toc]]
+
 ---
 
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
@@ -164,6 +166,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Drawing a Line to Connect Elements with CSS Anchor Positioning",
+  "desc": "The World Wide Web Consortium (W3C) published a First Public Working Draft of CSS Anchor Positioning last year, so I thought I would give it a try. I already had a perfect candidate to try it on: a component on my other site, adedicated.dev, which showcase my services by linking different words together. To link […]",
+  "link": "/explore/articles/frontendmasters.com/drawing-a-line-to-connect-elements-with-css-anchor-positioning.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "A CSS-Powered Add/Remove Tags UI",
   "desc": "Checkboxes and labels used to have to be right next to each other to be a potent UI duo. You could do trickery like this:",
   "link": "/explore/articles/frontendmasters.com/a-css-powered-add-remove-tags-ui.md",
@@ -197,6 +209,16 @@ head:
   "title": "Feedback on Masonry Layout",
   "desc": "Jen Simmons posted Help us invent CSS Grid Level 3, aka “Masonry” layout over on the WebKit blog the other day and is actively soliciting feedback. Our hope is that web designers and developers chime in (post to social media, write blog posts) with your thoughts about which direction CSS should take. Don’t mind if I do. Do […]",
   "link": "/explore/articles/frontendmasters.com/feedback-on-masonry-layout.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The HTML, CSS, and SVG for a Classic Search Form",
+  "desc": "Let’s build a search form that looks like this: That feels like the absolute bowl-it-down-the-middle search form right now. Looks good but nothing fancy. And yet, coding it in HTML and CSS I don’t think is perfectly intuitive and makes use of a handful of decently modern and slightly lesser used features. The Label-Wrapping HTML […]",
+  "link": "/explore/articles/frontendmasters.com/the-html-css-and-svg-for-a-classic-search-form.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -242,11 +264,31 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "The Classic Border Radius Advice, Plus an Unusual Trick",
+  "desc": "When you nest elements with border-radius, the inner element needs less radius than the outer element. This is some classic advice on this, and a future-looking fix.",
+  "link": "/explore/articles/frontendmasters.com/the-classic-border-radius-advice-plus-an-unusual-trick.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
 ---
 
 ## Piccalilli - level up your front-end development skills
 
 > piccalil.li
+
+```component VPCard
+{
+  "title": "How we’re approaching theming with modern CSS | Piccalilli",
+  "desc": "How we’re approaching theming with modern CSS",
+  "link": "https://piccalil.li/news/how-were-approaching-theming-with-modern-css/",
+  "logo": "https://piccalil.li/favicon.ico",
+  "background": "rgba(172,42,81,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -289,6 +331,26 @@ head:
 ## Sitepoint
 
 > sitepoint.com
+
+```component VPCard
+{
+  "title": "Quick Tip: How to Align Column Rows with CSS Subgrid — SitePoint",
+  "desc": "In this quick tip, we'll look at how to use the subgrid feature of CSS Grid to align the content of boxes that sit side by side.",
+  "link": "/explore/articles/sitepoint.com/css-subgrid-align-column-rows.md",
+  "logo": "https://www.sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "A Complete Guide to CSS Logical Properties, with Cheat Sheet — SitePoint",
+  "desc": "In this quick tip, we'll look at how to use the subgrid feature of CSS Grid to align the content of boxes that sit side by side.",
+  "link": "/explore/articles/sitepoint.com/css-logical-properties-guide.md",
+  "logo": "https://www.sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
+}
+```
 
 ```component VPCard
 {

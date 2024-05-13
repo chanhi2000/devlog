@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/2A3Qqy8ezQrLgyGOdwAlQMedrqV12aqV8o_4UfJtg42hvPu6Uw0Tk5MSvodE2oaecTEItVS7=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "m3klkLTN6fI", "title": "What's new in DevTools: Chrome 121-123" },
+    { "id": "tL-R9KzZA0s", "title": "4 ways to capture screenshots in Chrome DevTools #DevToolsTips" },
+    { "id": "faEgROVt8kI", "title": "How should publishers prepare for the Privacy Sandbox?" },
+    { "id": "Wy0HwUaEnnk", "title": "Deep dive into the Privacy Sandbox APIs for Publishers" },
+    { "id": "vwgihljM2e4", "title": "The Looper Mini Web Machine" },
+    { "id": "cv5uQ_hQVE0", "title": "From asm.js to Wasm with Emscripten creator Alon Zakai" },
+    { "id": "KxjGYcHZ_uI", "title": "Override and mock network responses #DevToolsTips" },
+    { "id": "cmtfM4emG5k", "title": "Optimizing INP: A deep dive" },
+    { "id": "5noL_qFobm0", "title": "Introduction | Unleash the power of Scroll-Driven Animations (1/10)" },
+    { "id": "6qpEOBkDr88", "title": "The Pile Mini Web Machine" },
     { "id": "BIpz9Hdjm_A", "title": "Debugging speculative navigations for faster page loads #DevToolsTips" },
     { "id": "t1c5tNPpXjs", "title": "Fun & powerful: Intro to Chrome DevTools #DevToolsTips" },
     { "id": "ZFM4zpIC74o", "title": "Storage Buckets API #shorts" },

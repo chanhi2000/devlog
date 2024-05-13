@@ -19,7 +19,7 @@ head:
     - property: og:description
       content: Using CSS Scroll-Driven Animations for Section-Based Scroll Progress Indicators
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/popover-api-is-here.html
+      content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/using-css-scroll-driven-animations-for-section-based-scroll-progress-indicators.html
 prev: /programming/css/articles/README.md
 ---
 

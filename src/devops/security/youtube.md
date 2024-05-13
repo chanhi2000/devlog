@@ -88,5 +88,6 @@ tag:
 <MyYouTubeItems jsonName="yu-TCMSecurityAcademy" /><!-- The Cyber Mentor -->
 <MyYouTubeItems jsonName="yu-BenminTV" /><!-- 민병욱 Benmin TV -->
 <MyYouTubeItems jsonName="yu-SIKANDARshaik" /><!-- Sikandar Shaik -->
+<MyYouTubeItems jsonName="yu-TheoriTV" /><!-- 티오리티비 TheoriTV -->
 
 <TagLinks />

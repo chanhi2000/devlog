@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Tips
-description: 🎨CSS > Tips
+description: CSS > Tips
 icon: fas fa-lightbulb
 category:
-  - 🎨CSS
+  - CSS
   - Tips
 tag: 
   - css
@@ -16,7 +16,6 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

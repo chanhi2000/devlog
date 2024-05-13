@@ -1298,5 +1298,25 @@
     "desc": "Metamage open source, general repository, iteration 1",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Mr-Wiseguy/N64Recomp",
+    "desc": "Tool to statically recompile N64 games into native executables",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Mr-Wiseguy/Zelda64Recomp",
+    "desc": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "rt64/rt64",
+    "desc": "RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "uysalibov/gezgin",
+    "desc": "Modern Pathfinding Using OpenStreetMap Data with Raylib",
+    "officialSite": "",
+    "topics": []
   }
 ]

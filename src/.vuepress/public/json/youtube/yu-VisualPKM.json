@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "VisualPKM",
+    "name": "Zsolt's Visual Personal Knowledge Management",
+    "profile": "https://yt3.googleusercontent.com/lskaEqidjunnCIooeN2VQFByN9FMSqS5kMkY4V-IOcM4WQmsHNf6ZSXFJOmlHexzbmphiAe7=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/V-Npp2_1KN9G-kARfTd8wexNxJ785155P1xuSjs0I6AIb3ubht06pMH6G2JYcdVKrRmXzNvq=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gTHYdABfpQs", "title": "Solo-RPG Adventures with Obsidian-Excalidraw" },
+    { "id": "tHUcD4rWIuY", "title": "Start using the flipside of your markdown notes: Powerful new Excalidraw-Obsidian features - v2.0.26" },
+    { "id": "6rKjWJKTZak", "title": "Beyond Words: The Future of PKM - Exploring 5 Cards from The MindSET Visual Thinking Framework" },
+    { "id": "Y5u7ggrxM1k", "title": "Diagramming for PKM: The Futures Wheel of Quitting my Job" },
+    { "id": "Y-cZrWlRAWc", "title": "Diagramming for PKM: The Sun Ray Transformation Map for preparing to quit your 9-to-5 job" }
+  ],
+  "playlists": []
+}

@@ -34,6 +34,8 @@ export const template: SidebarInfoTemplate = {
       "react-native-splash-screen", // 2024.05.08
       "build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage",  // 2024.05.10
       "how-to-create-a-react-chatbot", // 2024.05.10
+      "how-to-handle-events-in-react-19", // 2024.05.13
+      "how-to-store-data-locally-in-react-native-expo",  // 2024.05.13
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024.04.25
@@ -149,6 +151,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-handle-concurrency-in-go", // 2024.05.10
       "build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage", // 2024.05.10
       "how-to-create-a-react-chatbot", // 2024.05.10
+      "how-to-handle-events-in-react-19", // 2024.05.13
+      "how-to-store-data-locally-in-react-native-expo",  // 2024.05.13
     ]],
   ]),
 }

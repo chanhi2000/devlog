@@ -29,6 +29,10 @@ head:
 
 ---
 
+## 개발 공부 블로그
+
+- [[FE] local TLS인증서가 포함된 Next.js 커스텀 서버 구축하기](https://blog.naver.com/dlaxodud2388/223444514671)
+
 ---
 
 <TagLinks />

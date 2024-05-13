@@ -53,10 +53,15 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 <VPBanner
   title="Icon support | vuepress-theme-hope"
   content="The entire theme adds FontClass format icon support in mutiple places."
-  :action='[
+  logo="https://camo.githubusercontent.com/90bf37fe9d5d8c1367ef1530868ef8998230bfbdbf831d2f82602d5fc8830c48/68747470733a2f2f7468656d652d686f70652d6173736574732e7675656a732e70726573732f6c6f676f2e737667"
+  :actions='[
     {
-      text: "Icon Support",
+      text: "Visit Now",
       link: "https://vuepress-theme-hope.gitee.io/v1/guide/interface/icon.html#featured-icons"
+    }, {
+      text: "Github",
+      link: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
+      type: "default"
     }
   ]'
 />

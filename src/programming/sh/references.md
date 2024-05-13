@@ -268,6 +268,7 @@ tag:
 - [`iconv` 명령어](https://johngrib.github.io/wiki/cmd/iconv/)
 - [`ln` 명령어](https://johngrib.github.io/wiki/cmd/ln/)
 - [`split` 명령어](https://johngrib.github.io/wiki/cmd/split/)
+- [`diff`](https://johngrib.github.io/wiki/cmd/diff/)
 
 ---
 

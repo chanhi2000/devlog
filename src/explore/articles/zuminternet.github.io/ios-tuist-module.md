@@ -19,7 +19,7 @@ head:
     - property: og:description
       content: Tuist 도입부터 적용까지 알려ZUM요! (feat. 모듈화)
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/zuminternet.github.io/spring-session.html
+      content: https://chanhi2000.github.io/explore/articles/zuminternet.github.io/ios-tuist-module.html
 prev: /programming/swift/articles/README.md
 ---
 

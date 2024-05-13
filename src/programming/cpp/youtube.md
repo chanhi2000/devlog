@@ -22,7 +22,6 @@ tag:
 <MyYouTubeItems jsonName="yu-code_report" /><!-- code_report -->
 <MyYouTubeItems jsonName="yu-DavesGarage" /><!-- Dave's Garage -->
 <MyYouTubeItems jsonName="yu-LowLevelLearning" /><!-- Low Level Learning -->
-
----
+<MyYouTubeItems jsonName="yu-nathanbaggs" /><!-- Nathan Baggs -->
 
 <TagLinks />

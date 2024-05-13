@@ -22,7 +22,7 @@ head:
     - property: og:description
       content: 리다이렉트 서버와 FCM 푸시 연동
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/zuminternet.github.io/redirect-FCM-push.html
+      content: https://chanhi2000.github.io/explore/articles/zuminternet.github.io/redirect-fcm-push.html
 prev: /programming/java-spring/articles/README.md
 ---
 

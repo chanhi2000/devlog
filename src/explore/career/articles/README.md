@@ -46,9 +46,29 @@ head:
 
 ```component VPCard
 {
+  "title": "성장하고 싶은 당신이 꼭 해야 하는 인지적 활동 | 요즘IT",
+  "desc": "성장하고 싶은 당신이 꼭 해야 하는 인지적 활동",
+  "link": "/explore/articles/yozm.wishket.com/2394.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "생산성 200% 올리는 업무 관리 방법(실전편) | 요즘IT",
   "desc": "생산성 200% 올리는 업무 관리 방법(실전편)",
   "link": "/explore/articles/yozm.wishket.com/2437.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "지속가능한 코드리뷰 문화를 만드는 여정 | 요즘IT",
+  "desc": "지속가능한 코드리뷰 문화를 만드는 여정",
+  "link": "/explore/articles/yozm.wishket.com/2420.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

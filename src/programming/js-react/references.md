@@ -309,6 +309,7 @@ head:
 - [`hayanmind-tech-blog-kr` / 3항 연산자의 재발견](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
 - [`lokesh-prajapati` / JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
 - [`javascript.plainenglish` / 4 React Tips to Instantly Improve Your Code](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)
+- [`junghan92` / 리액트 네이티브 0.74 — Yoga 3.0, 브릿지 없는 새로운 아키텍처 등](https://junghan92.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-0-74-yoga-3-0-%EB%B8%8C%EB%A6%BF%EC%A7%80-%EC%97%86%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%93%B1-5d4a29ef4542)
 
 ---
 

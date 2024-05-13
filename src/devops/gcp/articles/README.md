@@ -9,7 +9,7 @@ category:
   - Article(s)
 tag:
   - blog
-  - freecodecamp.org
+  - yozm.wishket.com
   - google
   - google-cloud
   - gcp
@@ -25,9 +25,33 @@ head:
 
 # {{ $frontmatter.description }} 관련
 
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 [[toc]]
 
 ---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "정적 파일만 있는 사이트를 어떻게 구동시킬까? | 요즘IT",
+  "desc": "정적 파일만 있는 사이트를 어떻게 구동시킬까?",
+  "link": "/explore/articles/yozm.wishket.com/2584.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ---
 

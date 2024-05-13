@@ -5159,5 +5159,35 @@
     "desc": "KSS: Korean String processing Suite",
     "officialSite": "",
     "topics": ["korean", "korean-nlp", "kss", "nlp", "sentences", "split-sentences"]
+  }, {
+    "repo": "Alpha-VLLM/Lumina-T2X",
+    "desc": "Lumina-T2X is a unified framework for Text to Any Modality Generation",
+    "officialSite": "",
+    "topics": ["aigc", "diffusion", "diffusion-model", "diffusion-models", "diffusion-transformer", "generation-models", "transformer", "transformers"]
+  }, {
+    "repo": "linyiLYi/bilibot",
+    "desc": "A local chatbot fine-tuned by bilibili user comments.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Mega-Gorilla/Index_PDF_Translation",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "modelscope/agentscope",
+    "desc": "Start building LLM-empowered multi-agent applications in an easier way.",
+    "officialSite": "https://modelscope.github.io/agentscope/",
+    "topics": ["agent", "chatbot", "distributed-agents", "gpt-4", "large-language-models", "llama3", "llm", "llm-agent", "multi-agent", "multi-modal"]
+  }, {
+    "repo": "nkasmanoff/pi-card",
+    "desc": "Raspberry Pi Voice Assistant",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "pipecat-ai/pipecat",
+    "desc": "Open Source framework for voice and multimodal conversational AI",
+    "officialSite": "https://pipecat.ai",
+    "topics": ["ai", "chatbot-framework", "chatbots", "real-time", "voice", "voice-assistant"]
   }
 ]

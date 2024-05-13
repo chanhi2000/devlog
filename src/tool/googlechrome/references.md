@@ -3,8 +3,9 @@ lang: ko-KR
 title: References
 description: Google Chrome > References
 icon: iconfont icon-share
-category: 
+category:
   - Browser
+  - Google
   - Google Chrome
   - References
 tag: 
@@ -29,9 +30,17 @@ tag:
 
 ---
 
-## Zum 
+## ZUM 기술 블로그
 
-- [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
+```component VPCard
+{
+  "title": "크롬 확장프로그램 개발⛏️ 회고",
+  "desc": "Vue.js를 이용하여 줌 확장프로그램을 개발하는 과정에 대한 회고입니다.",
+  "link": "/explore/articles/zuminternet.github.io/zum-chrome-extension.md",
+  "logo": "https://zuminternet.github.io/favicon.ico",
+  "background": "rgba(30,45,56,0.2)"
+}
+```
 
 ---
 

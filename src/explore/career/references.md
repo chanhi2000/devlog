@@ -96,6 +96,7 @@ tag:
 - [`mjspring` - 셀프 온보딩, 스스로 적응하기](https://mjspring.medium.com/%EC%85%80%ED%94%84-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%A0%81%EC%9D%91%ED%95%98%EA%B8%B0-8d9010b0effb)
 - [`giljae` - 레딧(Reddit)의 아키텍처 진화의 여정](https://giljae.medium.com/%EB%A0%88%EB%94%A7-reddit-%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A7%84%ED%99%94%EC%9D%98-%EC%97%AC%EC%A0%95-4f312ba7cef0)
 - [`@devendunegi06` - I Solved 300+ Leetcode problems here is what I learnt.](https://medium.com/@devendunegi06/my-journey-of-solving-300-leetcode-problems-some-takeaways-which-can-help-you-in-yours-2fee80c7086a)
+- [`jaeyeong951` / 어떤 개발자의 3년 치 회고록](https://jaeyeong951.medium.com/%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-3%EB%85%84%EC%B9%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D-d2701ac2938c)
 
 ---
 
@@ -103,6 +104,8 @@ tag:
 
 - [`@devlawrence` / How to build a Good Portfolio Website - My Approach.](https://dev.to/devlawrence/how-to-build-a-good-portfolio-website-my-approach-14dj)
 - [`ilonacodes` / The Importance of Financial Independence For Software Developers](https://dev.to/ilonacodes/the-importance-of-financial-independence-for-software-developers-98m)
+
+---
 
 ## Brunch 
 
@@ -116,6 +119,9 @@ tag:
 - [`@gauss92tgrd` / 한국금융공학회 금융공학연구 23권 1호(2024.3)](https://brunch.co.kr/@gauss92tgrd/116)
 - [`@reinlainer` / [자기 계발] 결정의 심리학](https://brunch.co.kr/@reinlainer/83)
 - [`@cleancode` / 경험주의](https://brunch.co.kr/@cleancode/75)
+- [`@duk-hyun` / 디지털 혁신 전술: 의미와 특성](https://brunch.co.kr/@duk-hyun/113)
+- [`@delight412` / 스타벅스의 딜레마, 제품과 경험 중 무엇에 집중할 건가](https://brunch.co.kr/@delight412/686)
+- [`@reinlainer` / [특집] AI 글쓰기](https://brunch.co.kr/@reinlainer/85)
 
 ---
 
@@ -324,6 +330,7 @@ tag:
 - [숨은 공동 창업자](https://www.thestartupbible.com/2024/04/the-hidden-co-founder.html)
 - [큰 팔로잉, 큰 책임](https://www.thestartupbible.com/2024/04/with-great-following-comes-great-responsibility.html)
 - [확장에 대한 상반된 견해](https://www.thestartupbible.com/2024/05/some-opposing-views-on-scalability.html)
+- [선과 악](https://www.thestartupbible.com/2024/05/bringing-out-the-best-and-the-worst-of-human-beings.html)
 
 ---
 
@@ -691,6 +698,7 @@ tag:
 ## 데엔잘하고싶은데엔🔥💎
 
 - [결정을 도와주는 '힉의 법칙'이 적용된 UX사례](https://pearlluck.tistory.com/804)
+- [[책] 더 나은 프로그래머 되는법 Part1. you.write(code);](https://pearlluck.tistory.com/808)
 
 ---
 

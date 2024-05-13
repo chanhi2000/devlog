@@ -186,4 +186,8 @@ head:
 
 ---
 
+## John Grib 기계인간
+
+- [MySQL에서 'a' = 'a '가 true로 평가된다?](https://johngrib.github.io/wiki/article/sql-char-comparison/)
+
 <TagLinks />

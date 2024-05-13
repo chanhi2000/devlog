@@ -520,6 +520,16 @@ https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-eng
 }
 ```
 
+```component VPCard
+{
+  "title": "maxm/staticChess | Val Town",
+  "desc": "Static Chess  Check it out here: https://chess.maxmcd.com Plain, brutalist, no bloat chess. Every page is only html and css. Every chess move is made by clicking a link.  Send a link to your friend and they'll send you one back to make your move. No silly animations or slick interactivity to trip up your gameplay. When Google indexes this site will we successfully compute all possible chess moves? Functionality is quite limited, and things might be broken. Please let me know if you find bugs! Inspired by  this HN discussion  about sites that have all possible game states of tic-tac-toe. I plan on extending this to support real gameplay. I think it could be a nice simple interface for long form games with friends. Might also be fun to add a static AI to play against. Feel free to PR any changes if you'd like to see something added.",
+  "link": "https://www.val.town/v/maxm/staticChess",
+  "logo": "https://www.val.town/favicon.svg?dot=false&dark=true",
+  "background": "rgba(37,99,235,0.2)"
+}
+```
+
 https://www.getanyplant.com/plants
 https://demos.littleworkshop.fr/infinitown
 

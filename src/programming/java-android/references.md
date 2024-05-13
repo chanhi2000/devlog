@@ -157,6 +157,7 @@ tag:
 - [[메모] AndroidX Lifecycle 2.7.0-alpha02부터 변경된 동작](https://pluu.github.io/blog/android/2024/04/10/livedata/)
 - [[메모] Compose LazyVerticalGrid 렌더링 프로파일 체크](https://pluu.github.io/blog/android/2024/04/21/compose-performance/)
 - [[정리] Compose 가이드 문서 ~ UI Architecture](https://pluu.github.io/blog/android/2024/05/06/compose/)
+- [[정리] Compose 가이드 문서 ~ Develop your app's layout](https://pluu.github.io/blog/android/2024/05/12/compose/)
 
 ---
 

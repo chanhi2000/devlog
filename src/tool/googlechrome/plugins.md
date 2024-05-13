@@ -5,6 +5,7 @@ description: Google Chrome > Plugins
 icon: fas fa-plug
 category:
   - Browser
+  - Google
   - Google Chrome
   - Plugins
 tag: 

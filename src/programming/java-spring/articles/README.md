@@ -11,6 +11,7 @@ tag:
   - blog
   - freecodecamp.org
   - yozm.wishket.com
+  - kt.academy
   - rutgo-letsgo.tistory.com
   - meetup.nhncloud.com
   - d2.naver.com
@@ -50,6 +51,16 @@ head:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Kt. Academy",
+  "desc": "Teaching programming, with focus on the best practices.",
+  "link": "https://kt.academy/article",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
 }
 ```
 
@@ -155,6 +166,21 @@ head:
 ```
 
 ---
+
+## Kt. Academy
+
+> kt.academy
+
+```component VPCard
+{
+  "title": "Why Non-Blocking?",
+  "desc": "From blocking to non-blocking with Kotlin, Coroutines and Spring Boot",
+  "link": "/explore/articles/kt.academy/nonblocking-spring-mvc.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
 
 ## Enthusiastically, Steady, Slowly
 
@@ -270,7 +296,7 @@ head:
 {
   "title": "FCM 푸시 파헤치기",
   "desc": "파일럿부터 적용까지 진행했던 FCM 푸시를 파헤치며 기초 가이드북처럼 정리해보았습니다.",
-  "link": "https://zuminternet.github.io/FCM-PUSH/",
+  "link": "/explore/articles/zuminternet.github.io/fcm-push.md",
   "logo": "https://zuminternet.github.io/favicon.ico",
   "background": "rgba(30,45,56,0.2)"
 }
@@ -280,18 +306,17 @@ head:
 {
   "title": "제목은 Spring Session 도입기로 하겠습니다. 근데 이제 Redis를 곁들인",
   "desc": "지속 가능한 서비스를 만들기 위해 기존 아키텍처를 유지하면서 서비스를 개선하는 과정을 소개합니다.",
-  "link": "https://zuminternet.github.io/spring-session/",
+  "link": "/explore/articles/zuminternet.github.io/spring-session.md",
   "logo": "https://zuminternet.github.io/favicon.ico",
   "background": "rgba(30,45,56,0.2)"
 }
 ```
 
-
 ```component VPCard
 {
   "title": "리다이렉트 서버와 FCM 푸시 연동",
   "desc": "리다이렉트 서버와 FCM 푸시 연동과정을 정리해보았습니다.",
-  "link": "https://zuminternet.github.io/redirect-FCM-push/",
+  "link": "/explore/articles/zuminternet.github.io/redirect-fcm-push.md",
   "logo": "https://zuminternet.github.io/favicon.ico",
   "background": "rgba(30,45,56,0.2)"
 }

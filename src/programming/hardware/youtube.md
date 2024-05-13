@@ -49,6 +49,7 @@ tag:
 <MyYouTubeItems jsonName="yu-jonkraft" /><!-- Jon Kraft -->
 <MyYouTubeItems jsonName="yu-hddrecoveryservices" /><!-- HDD Recovery Services -->
 <MyYouTubeItems jsonName="yu-ELECTRONOOBS" /><!-- Electronoobs -->
+<MyYouTubeItems jsonName="yu-MacSoundSolutions" /><!-- Mac Sound Solutions inc. -->
 
 <TagLinks />
 

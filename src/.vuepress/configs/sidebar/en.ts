@@ -195,6 +195,7 @@ export const sidebarEn = sidebar({
             '/programming/java-spring/articles/README.md',
             articleSidebars.freecodecamp("java-spring"),
             articleSidebars.yozm("java-spring"),
+            articleSidebars.ktAcademy("kotlin-spring"),
             articleSidebars.rutgoLetsgo("java-spring"),
             articleSidebars.nhn("java-spring"),
             articleSidebars.d2("java-spring"), 
@@ -232,8 +233,9 @@ export const sidebarEn = sidebar({
             '/programming/java-android/articles/README.md',
             articleSidebars.freecodecamp("java-android"),
             articleSidebars.yozm("java-android"),
-            articleSidebars.nhn("java-android"),
             articleSidebars.droidcon("java-android"),
+            articleSidebars.ktAcademy("kotlin-android"),
+            articleSidebars.nhn("java-android"),
             articleSidebars.antonioleiva("kotlin-android"),
           ]
         }
@@ -419,6 +421,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/js-vue/articles/README.md',
             articleSidebars.yozm("js-vue"),
+            articleSidebars.zuminternet("js-vue"),
           ]
         }
       ]
@@ -436,6 +439,8 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
+            '/programming/js-svelte/articles/README.md',
+            articleSidebars.frontendmaster("js-svelte"),
           ]
         }
       ]
@@ -524,7 +529,26 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/css/README.md',
         '/programming/css/tips.md',
-        '/programming/css/snippets.md',
+        {
+          text: 'Snippets',
+          collapsible: true,
+          icon: 'fas fa-eye-dropper',
+          children: [
+            '/programming/css/snippets/README.md',
+            '/programming/css/snippets/loader-with-dots.md',
+            '/programming/css/snippets/loading-spinner.md',
+            '/programming/css/snippets/a-solar-system-orbit.md',
+            '/programming/css/snippets/isometric-button.md',
+            '/programming/css/snippets/was-this-helpful.md',
+            '/programming/css/snippets/digital-clock.md',
+            '/programming/css/snippets/otp-input-field.md',
+            '/programming/css/snippets/image-color-picker.md',
+            '/programming/css/snippets/draggable-element.md',
+            '/programming/css/snippets/acme-classic-monster-movie-showcase.md',
+            '/programming/css/snippets/hero-with-interactive-snowflake.md',
+            '/programming/css/snippets/validating-data-on-inputs-with-the-pattern-attribute.md',
+          ]
+        },
         '/programming/css/references.md',
         '/programming/css/youtube.md',
         {
@@ -1070,7 +1094,17 @@ export const sidebarEn = sidebar({
       children: [
         '/tool/googlechrome/README.md',
         '/tool/googlechrome/plugins.md',
-        '/tool/googlechrome/references.md'
+        '/tool/googlechrome/references.md',
+        '/tool/googlechrome/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/googlechrome/articles/README.md',
+            articleSidebars.zuminternet("googlechrome"),
+          ]
+        }
       ]
     }, {
       text: 'Safari',
@@ -1490,6 +1524,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/gcp/articles/README.md',
+            articleSidebars.yozm("gcp"), 
           ]
         }
       ]
@@ -1911,7 +1946,6 @@ export const sidebarEn = sidebar({
         '/ai/github-copilot/README.md',
         '/ai/github-copilot/references.md',
         '/ai/github-copilot/youtube.md',
-        '/ai/github-copilot/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
@@ -2091,7 +2125,7 @@ export const sidebarEn = sidebar({
         {
           text: 'Article(s)',
           collapsible: true,
-          icon: 'fas fa-squre-share-nodes',
+          icon: 'fas fa-square-share-nodes',
           children: [
             '/explore/career/articles/README.md',
             articleSidebars.yozm("career"),

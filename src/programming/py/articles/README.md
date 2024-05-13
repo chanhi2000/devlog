@@ -132,19 +132,9 @@ head:
 
 ```component VPCard
 {
-  "title": "데브섹옵스 실현을 위한 '정적 보안 테스팅(SAST)' | 요즘IT",
-  "desc": "데브섹옵스 실현을 위한 '정적 보안 테스팅(SAST)'",
-  "link": "/explore/articles/yozm.wishket.com/2543.md",
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "파이썬 애플리케이션 배포하기 - pipx 편 | 요즘IT",
-  "desc": "파이썬 애플리케이션 배포하기 - pipx 편",
-  "link": "/explore/articles/yozm.wishket.com/2536.md",
+  "title": "개발 런타임 환경 구축하기 - 파이썬 pyenv편 | 요즘IT",
+  "desc": "개발 런타임 환경 구축하기 - 파이썬 pyenv편",
+  "link": "/explore/articles/yozm.wishket.com/2057.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -162,9 +152,29 @@ head:
 
 ```component VPCard
 {
-  "title": "개발 런타임 환경 구축하기 - 파이썬 pyenv편 | 요즘IT",
-  "desc": "개발 런타임 환경 구축하기 - 파이썬 pyenv편",
-  "link": "/explore/articles/yozm.wishket.com/2057.md",
+  "title": "파이썬 애플리케이션 배포하기 - pipx 편 | 요즘IT",
+  "desc": "파이썬 애플리케이션 배포하기 - pipx 편",
+  "link": "/explore/articles/yozm.wishket.com/2536.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "데브섹옵스 실현을 위한 '정적 보안 테스팅(SAST)' | 요즘IT",
+  "desc": "데브섹옵스 실현을 위한 '정적 보안 테스팅(SAST)'",
+  "link": "/explore/articles/yozm.wishket.com/2543.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "정적 파일만 있는 사이트를 어떻게 구동시킬까? | 요즘IT",
+  "desc": "정적 파일만 있는 사이트를 어떻게 구동시킬까?",
+  "link": "/explore/articles/yozm.wishket.com/2584.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

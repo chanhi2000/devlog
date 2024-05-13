@@ -16,14 +16,21 @@ export const template: SidebarInfoTemplate = {
     "js-react", [
       "real-estate-data-visualization", // 2023.03.18
     ]],[
-    "js-supabase", [
+    "js-vue", [
+      "zum-chrome-extension", // 2020.09.11
+    ]],[
+      "js-supabase", [
       "fcm-push", // 2023.07.06.
       "redirect-fcm-push", // 2023.07.11
     ]],[
     "redis", [
       "spring-session", // 2023.07.07.
     ]],[
+    "googlechrome", [
+      "zum-chrome-extension", // 2020.09.11
+    ]],[
     "all", [       
+      "zum-chrome-extension", // 2020.09.11
       "real-estate-data-visualization", // 2023.03.18
       "ios-tuist-module", // 2023.03.24
       "fcm-push", // 2023.07.06.

@@ -200,6 +200,7 @@ tag:
 - [[WPF] 한글 Encoding ANSI / UTF8](https://hj0216.tistory.com/913)
 - [[WPF] 생성자 Override](https://hj0216.tistory.com/914)
 - [[WPF] 생성자 Overloading (2)](https://hj0216.tistory.com/916)
+- [[WPF] View, ViewModel Singleton](https://hj0216.tistory.com/917)
 
 ---
 

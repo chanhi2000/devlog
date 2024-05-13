@@ -5,6 +5,7 @@ description: Google Chrome
 icon: fa-brands fa-chrome
 category:
   - Browser
+  - Google
   - Google Chrome
 ---
 

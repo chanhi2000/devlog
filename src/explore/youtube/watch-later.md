@@ -83,7 +83,6 @@ tags:
 <MyYouTubeItems jsonName="yu-techdojang" /><!-- 테크도장 -->
 <MyYouTubeItems jsonName="yu-shortform" /><!-- 짤컷 -->
 <MyYouTubeItems jsonName="yu-TitusTechTalk" /><!-- Titus Tech Talk -->
-<MyYouTubeItems jsonName="yu-TheoriTV" /><!-- 티오리티비 TheoriTV -->
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
 <MyYouTubeItems jsonName="yu-codingshrimp" /><!-- 코딩새우 -->

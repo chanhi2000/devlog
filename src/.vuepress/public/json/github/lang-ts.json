@@ -2788,5 +2788,10 @@
     "desc": "Effortless, instant screen sharing. Open-source and cross-platform.",
     "officialSite": "https://cap.so",
     "topics": ["app", "cap", "coss", "mac", "open-source", "oss", "react", "record", "screen-capture", "screen-recorder", "screenshot", "tauri", "tauri-app", "typescript", "vite"]
+  }, {
+    "repo": "qq15725/modern-screenshot",
+    "desc": "📸 Quickly generate image from DOM node using HTML5 canvas and SVG",
+    "officialSite": "https://modern-screenshot.vercel.app",
+    "topics": ["canvas", "dom", "dom-to-image", "html-to-image", "html2canvas", "image", "javascript", "modern-screenshot", "screenshot", "svg", "typescript"]
   }
 ]

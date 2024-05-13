@@ -68,6 +68,7 @@ tag:
 - [6.01. 값이 비어있는지 검사하기](https://ysedeveloper.tistory.com/entry/601-%EA%B0%92%EC%9D%B4-%EB%B9%84%EC%96%B4%EC%9E%88%EB%8A%94%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
 - [6.02. 값이 숫자인지 검사하기](https://ysedeveloper.tistory.com/entry/602-%EA%B0%92%EC%9D%B4-%EC%88%AB%EC%9E%90%EC%9D%B8%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
 - [6.03. 값이 알파벳과 숫자로만 이루어져 있는지 검사하기](https://ysedeveloper.tistory.com/entry/603-%EA%B0%92%EC%9D%B4-%EC%95%8C%ED%8C%8C%EB%B2%B3%EA%B3%BC-%EC%88%AB%EC%9E%90%EB%A1%9C%EB%A7%8C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A0%B8-%EC%9E%88%EB%8A%94%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
+- [6.04. 값이 이메일인지 확인하기](https://ysedeveloper.tistory.com/entry/604-%EA%B0%92%EC%9D%B4-%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%9D%B8%EC%A7%80-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
 ---
 

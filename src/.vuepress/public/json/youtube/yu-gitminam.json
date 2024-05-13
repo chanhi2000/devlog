@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "gitminam",
+    "name": "깃미남 - 깃에 미친 남자",
+    "profile": "https://yt3.googleusercontent.com/C2sOlCaDVNv5F9F_PBYj2Ocd7nDxEsXHwIvWtH3ADyYuHOCvYJXqSz3Ygg0MEPGqi1z996PIEg=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5FGy8JVGzJ461EHPO9YsynA-a6YX1bdc6LqhK7vDZ3168MCszXbJJkoYDXolvC3Yp-JGpSQuDA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qrcE-4p7ZAY", "title": "Git 브랜치(Branch) 완벽정리 - 이론편" },
+    { "id": "ONeTWuBZ7EU", "title": "Git 브랜치(Branch) 완벽정리 - 실습편(소스트리)" },
+    { "id": "wgpH9O1c4X4", "title": "브랜치 실습 - 소스트리 #git branch #sourcetree #git" },
+    { "id": "OTxaJkUtTXA", "title": "Git 브랜치(Branch) 완벽정리 - 실습편(터미널)" },
+    { "id": "42cJ1v8ydts", "title": "Git 책을 온라인에 무료로 공개 했습니다." }
+  ],
+  "playlists": []
+}

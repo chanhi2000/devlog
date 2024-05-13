@@ -26,5 +26,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Github" /><!-- Github -->
 <MyYouTubeItems jsonName="yu-codingpiece" /><!-- 코딩한조각 -->
 <MyYouTubeItems jsonName="yu-jejucodingcamp" /><!-- 제주코딩베이스캠프 -->
+<MyYouTubeItems jsonName="yu-loianegroner" /><!-- Loiane Groner -->
 
 <TagLinks />

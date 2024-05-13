@@ -1394,5 +1394,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "paradedb/paradedb",
+    "desc": "Postgres for Search and Analytics",
+    "officialSite": "https://paradedb.com",
+    "topics": ["aggregations", "analytics", "big-data", "bm25", "database", "datalake", "elasticsearch", "full-text-search", "htap", "hybrid-search", "lakehouse-platform", "mpp", "object-storage", "olap", "postgresql", "real-time-analytics", "self-hosted", "similarity-search", "sparse-vector", "sql"]
   }
 ]

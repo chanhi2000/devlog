@@ -5,7 +5,7 @@ description: Java > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - Java
-  - JDK
+  - Kotlin
   - Article(s)
 tag: 
   - blog
@@ -15,7 +15,6 @@ tag:
   - kt.academy
   - engineering.linecorp.com
   - java
-  - jdk
   - jdk8
 head:
   - - meta:
@@ -184,9 +183,49 @@ head:
 
 ```component VPCard
 {
+  "title": "Cancellation in Kotlin Coroutines",
+  "desc": "Everything you need to know about the cancellation mechanism in Kotlin Coroutines.",
+  "link": "/explore/articles/kt.academy/cc-cancellation.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Generics in Kotlin",
+  "desc": "The essence of how generics work in Kotlin.",
+  "link": "/explore/articles/kt.academy/kfde-generics.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "A Pattern for Composing Flow Operations",
   "desc": "Extending and operating on top of your existing flows",
   "link": "/explore/articles/kt.academy/pattern-for-composing-flows.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Item 29: Minimize elements’ visibility",
+  "desc": "Why we should minimize elements’ visibility and how to do it.",
+  "link": "/explore/articles/kt.academy/ek-element-visibility.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Item 27: Specify API stability",
+  "desc": "How do we specify API stability and why it is so important.",
+  "link": "/explore/articles/kt.academy/ek-api-stability.md",
   "logo": "https://kt.academy/logo.png",
   "background": "rgba(243,139,49,0.2)"
 }

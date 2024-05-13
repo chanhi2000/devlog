@@ -141,6 +141,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Handle Events in React – Explained with Code Examples",
+  "desc": "Event handling is fundamental to understanding how React processes browser events and updates the DOM. As a React developer, it's a critical skill to have, as it enables efficient management of user interactions within web apps. This article covers how to set up event handlers and proceeds to more elegant...",
+  "link": "/explore/articles/freecodecamp.org/how-to-handle-events-in-react-19.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Store Data Locally in React Native Expo",
+  "desc": "React Native has grown in popularity as a mobile application development tool because of its ability to create cross-platform applications using familiar JavaScript and React principles.  When building mobile applications, one common requirement is the ability to save data locally on the device. This is when local storage comes...",
+  "link": "/explore/articles/freecodecamp.org/how-to-store-data-locally-in-react-native-expo.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## 요즘IT
@@ -257,7 +277,7 @@ head:
 {
   "title": "Next, d3로 서버 사이드 지도 렌더링하기",
   "desc": "지속 가능한 서비스를 만들기 위해 기존 아키텍처를 유지하면서 서비스를 개선하는 과정을 소개합니다.",
-  "link": "https://zuminternet.github.io/real-estate-data-visualization/",
+  "link": "/explore/articles/zuminternet.github.io/real-estate-data-visualization.md",
   "logo": "https://zuminternet.github.io/favicon.ico",
   "background": "rgba(30,45,56,0.2)"
 }

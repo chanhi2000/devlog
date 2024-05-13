@@ -93,6 +93,7 @@ tag:
 - [[EasyWin32] '굴림체'와 '굴림' 글꼴의 출력 차이](https://blog.naver.com/tipsware/223442475424?)
 - [[EasyWin32] 클립보드에 저장된 문자열 관리하기 - Step 1](https://blog.naver.com/tipsware/223441304129)
 - [[Q&A] MFC에서 대화 상자 기반이 아닌 프로그램을 만들려면 SDI나 MDI를 사용할 수밖에 없나요?](https://blog.naver.com/tipsware/223440301532)
+- [단어 단위로 문자열 이동하기 - Step 1](https://blog.naver.com/tipsware/223444602512)
 
 ---
 
@@ -151,6 +152,12 @@ tag:
 ## Figma Blog | Shortcut
 
 - [Speeding up C++ build times](https://www.figma.com/blog/speeding-up-build-times/)
+
+---
+
+## 오늘도 개발로그
+
+- [[백준 1039번] 교환](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1039%EB%B2%88-%EA%B5%90%ED%99%98)
 
 ---
 
