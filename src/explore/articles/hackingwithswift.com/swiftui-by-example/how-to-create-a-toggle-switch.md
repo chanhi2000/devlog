@@ -78,13 +78,13 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-toggle-switch-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-toggle-switch-1.zip)
 
-![The words “Show welcome message” beside a green toggle which is turned on. Below is the text “Hello World!”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-1~dark.png)
+![The words “Show welcome message” beside a green toggle which is turned on. Below is the text “Hello World!”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-1~dark.png)
 
 I've made that code so that a text view is returned only when `showGreeting` is true, which means the `VStack` will decrease in size when `showGreeting` is false – it doesn't have a second view in its stack.
 
-![The words “Show welcome message” beside a green toggle which is turned off. Below is nothing.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-2~dark.png)
+![The words “Show welcome message” beside a green toggle which is turned off. Below is nothing.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-2~dark.png)
 
 If you want, you can customize the color used to create your toggle switch by using the `toggleStyle()` modifier. This is helpful because the `Toggle` view doesn't work with `accentColor()`, so this is the only way to recolor it.
 
@@ -107,9 +107,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-toggle-switch-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-toggle-switch-3.zip)
 
-![The words “Show welcome message” beside a red toggle which is turned on. Below is the text “Hello World!”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-3~dark.png)
+![The words “Show welcome message” beside a red toggle which is turned on. Below is the text “Hello World!”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-3~dark.png)
 
 If you're targeting iOS 15 or later, you can configure your switch to appear like a button by specifying `.toggleStyle(.button)`. In this mode the button flips its tint color when its state is on:
 
@@ -125,11 +125,11 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-toggle-switch-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-toggle-switch-1.zip)
 
-![A mint green rounded rectangle with the text “Filter”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-4~dark.png)
+![A mint green rounded rectangle with the text “Filter”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-4~dark.png)
 
-![A mint green text label reading “Filter”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-5~dark.png)
+![A mint green text label reading “Filter”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toggle-switch-5~dark.png)
 
 From iOS 16 onwards, it's also possible to bind a `Toggle` to an array of Booleans, which is helpful for times when you want to enable or disable several values all at once. For example, we could write some code to let the user subscribe to individual newsletters, or have one toggle to switch them all:
 
@@ -162,7 +162,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-toggle-switch-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-toggle-switch-5.zip)
 
 ::: details Similar solutions…
 

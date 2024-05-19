@@ -61,9 +61,9 @@ Image("cat")
     .colorMultiply(.red)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-views-by-tinting-desaturating-and-more-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-views-by-tinting-desaturating-and-more-1.zip)
 
-![An image of a cat tinted red.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-views-by-tinting-and-desaturating-and-more-1~dark@2x.png)
+![An image of a cat tinted red.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-views-by-tinting-and-desaturating-and-more-1~dark@2x.png)
 
 You can adjust the saturation of views to any amount, where 0.0 is fully gray and 1.0 is its original color:
 
@@ -72,9 +72,9 @@ Image("boats")
     .saturation(0.3)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-views-by-tinting-desaturating-and-more-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-views-by-tinting-desaturating-and-more-2.zip)
 
-![A “washed out” desaturated image of boats.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-views-by-tinting-and-desaturating-and-more-2~dark@2x.png)
+![A “washed out” desaturated image of boats.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-views-by-tinting-and-desaturating-and-more-2~dark@2x.png)
 
 You can even dynamically adjust the contrast of a view by using the `contrast()` modifier. A value of 0.0 yields no contrast (a flat gray image), 1.0 gives you the original image, and everything above 1.0 *adds* contrast.
 
@@ -85,9 +85,9 @@ Image("sunset")
     .contrast(0.5)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-views-by-tinting-desaturating-and-more-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-views-by-tinting-desaturating-and-more-3.zip)
 
-![A low contrast image of a sunset.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-views-by-tinting-and-desaturating-and-more-3~dark@2x.png)
+![A low contrast image of a sunset.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-views-by-tinting-and-desaturating-and-more-3~dark@2x.png)
 
 
 ::: details Similar solutions…

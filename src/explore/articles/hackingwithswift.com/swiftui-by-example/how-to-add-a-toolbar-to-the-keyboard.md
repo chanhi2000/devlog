@@ -76,9 +76,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-toolbar-to-the-keyboard-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-toolbar-to-the-keyboard-1.zip)
 
-![A text field, below which is iOS's software keyboard. Above the keyboard is a grey row containing the words “Click me!” in blue.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-toolbar-to-the-keyboard-1~dark.png)
+![A text field, below which is iOS's software keyboard. Above the keyboard is a grey row containing the words “Click me!” in blue.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-toolbar-to-the-keyboard-1~dark.png)
 
 In practice this is a great place to use something like `@FocusState` to move between input fields in your UI, or to hide the keyboard altogether, like this:
 
@@ -106,9 +106,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-toolbar-to-the-keyboard-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-toolbar-to-the-keyboard-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-toolbar-to-the-keyboard-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-toolbar-to-the-keyboard-2~dark.mp4" />
 
 ::: details Similar solutions…
 

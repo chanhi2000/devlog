@@ -71,9 +71,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed-1.zip)
 
-![A button that counts from 0 through 50 while bring pressed down.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed-1~dark.gif)
+![A button that counts from 0 through 50 while bring pressed down.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed-1~dark.gif)
 
 This repeating behavior also works with keyboard shortcuts, although there its limited by whatever keyboard repeat rate your user has.
 
@@ -93,7 +93,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed-2.zip)
 
 ::: details Similar solutions…
 

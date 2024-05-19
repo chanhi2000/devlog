@@ -70,7 +70,7 @@ NavigationStack {
 }
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toolbar-and-add-buttons-to-it-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toolbar-and-add-buttons-to-it-1~dark.mp4" />
 
 To get more than one button, use `ToolbarItemGroup` instead of a simple `ToolbarItem`, then place multiple buttons inside there:
 
@@ -92,7 +92,7 @@ NavigationStack {
 }
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toolbar-and-add-buttons-to-it-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-toolbar-and-add-buttons-to-it-2~dark.mp4" />
 
 If you want to separate buttons inside a `ToolbarItemGroup`, add a spacer view wherever you want it. For example, this will place one button on the left edge of the toolbar, and one on the right edge:
 

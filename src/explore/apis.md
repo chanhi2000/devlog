@@ -270,6 +270,18 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
+  "title": "icons8",
+  "desc": "Download 1,349,800 free icons (SVG, PNG)",
+  "link": "https://icons8.com/",
+  "logo": "https://maxst.icons8.com/vue-static/icon/favicon/icons8_fav_32%C3%9732.png",
+  "background": "rgba(84,174,80,0.2)"
+}
+```
+
+
+
+```component VPCard
+{
   "title": "Codeimg.io",
   "desc": "Create and share beautiful images of your source code.",
   "link": "https://codeimg.io/",
@@ -919,6 +931,36 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://htaccess.madewithlove.com/",
   "logo": "https://htaccess.madewithlove.com/favicon-32x32.png",
   "background": "rgba(237,35,36,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "URLhaus | Malware URL exchange",
+  "desc": "URLhaus is a project operated by abuse.ch with the purpose of sharing malicious URLs that are being used for malware distribution",
+  "link": "https://urlhaus.abuse.ch/",
+  "logo": "https://urlhaus.abuse.ch/favicon.icogo",
+  "background": "rgba(148,30,18,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What are the best private browsers in 2024?",
+  "desc": "Which browsers are best for privacy?",
+  "link": "https://privacytests.org/",
+  "logo": "https://privacytests.org/favicon.ico",
+  "background": "rgba(124,191,106,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Verify & Test AASA",
+  "desc": "Enter your domain, and let us handle the rest. Testing and managing your AASA file has never been easier.",
+  "link": "https://getuniversal.link/",
+  "logo": "https://getuniversal.link/images/favicon.ico",
+  "background": "rgba(248,250,252,0.2)"
 }
 ```
 

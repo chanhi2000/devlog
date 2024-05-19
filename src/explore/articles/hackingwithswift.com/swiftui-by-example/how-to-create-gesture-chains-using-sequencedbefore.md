@@ -81,9 +81,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-gesture-chains-using-sequenced-before-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-gesture-chains-using-sequenced-before-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-gesture-chains-using-sequencedbefore-1~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-gesture-chains-using-sequencedbefore-1~dark.mp4 "/>
 
 As you can see, I've made the text view update as the two gestures happen, so if you try it out you'll be able to follow the progress of the gesture sequence.
 

@@ -61,9 +61,9 @@ VStack(spacing: 50) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-1.zip)
 
-![The text “SwiftUI” some distance above the text “rocks”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-1~dark.png)
+![The text “SwiftUI” some distance above the text “rocks”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-1~dark.png)
 
 Alternatively, you can create dividers between items so that SwiftUI makes a small visual distinction between each item in the stack, like this:
 
@@ -75,10 +75,10 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-2.zip)
 
 
-![The text “SwiftUI” above the text “rocks”. The two words are separated by a thin gray dividing line.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-2~dark.png)
+![The text “SwiftUI” above the text “rocks”. The two words are separated by a thin gray dividing line.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-2~dark.png)
 
 By default, items in your stacks are aligned centrally. In the case of `HStack` that means items are aligned to be vertically in the middle, so if you have two text views of different heights they would both be aligned to their vertical center. For `VStack` that means items are aligned to be horizontally in the middle, so if you have two text views of different lengths they would both be aligned to their horizontal center.
 
@@ -91,9 +91,9 @@ VStack(alignment: .leading) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-3.zip)
 
-![The text “SwiftUI” above the text “rocks”. The words' left edges are vertically aligned.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-3~dark.png)
+![The text “SwiftUI” above the text “rocks”. The words' left edges are vertically aligned.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-3~dark.png)
 
 That will align both “SwiftUI” and “rocks” to their left edge, but they will still ultimately sit in the middle of the screen because the stack takes up only as much space as it needs.
 
@@ -106,9 +106,9 @@ VStack(alignment: .leading, spacing: 20) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-4.zip)
 
-![The text “SwiftUI” some distance above the text “rocks”. The words' left edges are vertically aligned.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-4~dark.png)
+![The text “SwiftUI” some distance above the text “rocks”. The words' left edges are vertically aligned.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing-4~dark.png)
 
 That will align both text views horizontally to the leading edge (that's left for left to right languages), and place 20 points of vertical space between them.
 

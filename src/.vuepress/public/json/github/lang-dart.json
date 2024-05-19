@@ -84,5 +84,10 @@
     "desc": "Re-Editor is a powerful lightweight text and code editor widget.",
     "officialSite": "https://pub.dev/packages/re_editor",
     "topics": ["code-editor", "flutter", "syntax-highlighting", "text-editor"]
+  }, {
+    "repo": "felangel/data_class",
+    "desc": "Experimental support for data classes in Dart using macros.",
+    "officialSite": "https://pub.dev/packages/data_class_macro",
+    "topics": ["dart", "data-class", "macros", "struct"]
   }
 ]

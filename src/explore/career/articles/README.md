@@ -114,6 +114,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "개발조직은 왜 ‘돈 먹는 하마’로 보일까? | 요즘IT",
+  "desc": "개발조직은 왜 ‘돈 먹는 하마’로 보일까?",
+  "link": "/explore/articles/yozm.wishket.com/2587.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 ---
 
 <TagLinks />

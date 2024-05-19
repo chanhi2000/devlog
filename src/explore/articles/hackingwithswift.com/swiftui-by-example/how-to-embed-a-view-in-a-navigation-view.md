@@ -66,7 +66,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-embed-a-view-in-a-navigation-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-embed-a-view-in-a-navigation-view-1.zip)
 
 However, that leaves the navigation bar at the top empty. So, you will usually use the `navigationTitle()` modifier on whatever you're embedding, so you can add a title at the top of your screen, like this:
 
@@ -81,7 +81,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-embed-a-view-in-a-navigation-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-embed-a-view-in-a-navigation-view-2.zip)
 
 There is a second modifier, `navigationBarTitleDisplayMode()`, that gives us control over whether to use large titles or smaller, inline ones. For example, by default views will inherit their large title display mode from whatever view presented them, or if it's the initial view then it will use large titles. But if you'd prefer to enable or disable large titles manually you should use `.navigationBarTitleDisplayMode()` like this:
 
@@ -97,11 +97,11 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-embed-a-view-in-a-navigation-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-embed-a-view-in-a-navigation-view-3.zip)
 
 That will make small navigation titles, but you can also use `.large` to force a large title.
 
-![A row of four phones showing NavigationStacks. From left to right, they have no title, the default large, left-aligned title style, a smaller, centered title style, and the large, left-aligned title style respectively.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-embed-a-view-in-a-navigation-view-1@2x.png)
+![A row of four phones showing NavigationStacks. From left to right, they have no title, the default large, left-aligned title style, a smaller, centered title style, and the large, left-aligned title style respectively.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-embed-a-view-in-a-navigation-view-1@2x.png)
 
 ::: details Similar solutions…
 

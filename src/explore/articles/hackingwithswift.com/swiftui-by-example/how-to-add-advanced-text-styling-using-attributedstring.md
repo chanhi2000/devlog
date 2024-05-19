@@ -72,7 +72,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-1.zip)
 
 That simple example is something you can do using just `Text` and regular SwiftUI modifiers, but part of the power of `AttributedString` is that customizations belong to the string rather than to the `Text` view used to render it.
 
@@ -102,7 +102,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-2.zip)
 
 If you try that using `Text` and `background()` modifiers, you'll see that it just doesn't work.
 
@@ -125,7 +125,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-3.zip)
 
 You can adjust the baseline offset for pieces of the string, forcing it to be placed higher or lower than default:
 
@@ -151,7 +151,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-4.zip)
 
 And we can even attach tappable web links to our text using the `link` property:
 
@@ -170,7 +170,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-5.zip)
 
 However, the _really_ powerful feature of `AttributedString` is that it doesn't throw away all the metadata we provide it about our strings, which unlocks a huge amount of extra functionality.
 
@@ -190,7 +190,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-6.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-6.zip)
 
 Even more impressive is how it handles structured information.
 
@@ -217,7 +217,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-7.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-7.zip)
 
 Notice how that code has no idea where the weekday actually appears in the text – it's language and locale independent, so it will be styled correctly for everyone.
 
@@ -245,7 +245,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-8.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-8.zip)
 
 You can even use it with measurements. For example, the following code creates a measurement of 200 kilometers, then formats that so that the value is presented much larger than the unit:
 
@@ -268,7 +268,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-9.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-advanced-text-styling-using-attributedstring-9.zip)
 
 As a bonus, that will automatically honor the user's locale preference for distance, meaning that many users will see “124 miles” rather than “200 kilometers”.
 

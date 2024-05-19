@@ -5,6 +5,11 @@ description: Article(s) > Inspect the user-agent DOM
 icon: fa-brands fa-html5
 category: 
   - HTML
+  - Browser
+  - Google
+  - Google Chrome
+  - Firefox
+  - Safari
   - Article(s)
 tag: 
   - blog
@@ -14,6 +19,11 @@ tag:
   - tips
   - html
   - webcomponents
+  - google
+  - googlechrome
+  - google-chrome
+  - firefox
+  - safari
 head:
   - - meta:
     - property: og:title
@@ -22,9 +32,40 @@ head:
       content: "Inspect the user-agent DOM"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/inspect-user-agent-dom.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Firefox > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/firefox/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Safari > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/safari/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -39,6 +80,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2024.01.19
 
 Browsers often add elements to the DOM of your web pages on top of the ones you, yourself, defined. For example, when you create a `<video>` element, the browser creates a bunch of nested DOM nodes within it to display the controls, the progress bar, etc. When you use a `<input type="range">` element, the browser also creates a nested DOM nodes to display the track and the thumb.
 

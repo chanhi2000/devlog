@@ -79,9 +79,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-1~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-1~dark.mp4 "/>
 
 Rather than specifying text and image separately, you can also use a `Label` view to combine them together:
 
@@ -107,7 +107,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-2.zip)
 
 ::: tip
 
@@ -145,9 +145,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-3.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-2~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview-2~dark.mp4 "/>
 
 The tags for your tabs can whatever you want, as long as the data type conforms to `Hashable`. Integers *might* work well, but if you're going to do any meaningful programmatic navigation you should make sure you put the tags somewhere central such as a static property inside the view. This allows you to share the value in many places, reducing the risk of mistakes.
 

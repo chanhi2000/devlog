@@ -254,7 +254,25 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
+            '/programming/java-kafka/articles/README.md',
             articleSidebars.d2("java-kafka")
+          ]
+        }
+      ]
+    }, {
+      text: 'Elasticsearch',
+      collapsible: true,
+      icon: 'iconfont icon-elasticsearch',
+      children: [
+        '/programming/java-elasticsearch/README.md',
+        '/programming/java-elasticsearch/references.md',
+        '/programming/java-elasticsearch/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/java-elasticsearch/articles/README.md',
           ]
         }
       ]
@@ -313,27 +331,7 @@ export const sidebarEn = sidebar({
             articleSidebars.frontendmaster("js"),
             articleSidebars.sitepoint("js"),
             articleSidebars.nhn("js"),
-            {
-              text: 'devtoolstips.org',
-              collapsible: true,
-              icon: 'https://devtoolstips.org/assets/favicon.ico',
-              children: [
-                '/explore/articles/devtoolstips.org/see-accessibility-tree.md',
-                '/explore/articles/devtoolstips.org/name-evaluated-files.md',
-                '/explore/articles/devtoolstips.org/simulate-pwa-wco.md',
-                '/explore/articles/devtoolstips.org/inspect-user-agent-dom.md',
-                '/explore/articles/devtoolstips.org/explain-errors-with-ai.md',
-                '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
-                '/explore/articles/devtoolstips.org/block-devtools.md',
-                '/explore/articles/devtoolstips.org/list-all-event-listeners.md',
-                '/explore/articles/devtoolstips.org/debug-popups-on-hover.md',
-                '/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md',
-                '/explore/articles/devtoolstips.org/see-viewport-size.md',
-                '/explore/articles/devtoolstips.org/custom-object-formatters.md',
-                '/explore/articles/devtoolstips.org/inspect-devtools-with-devtools.md',
-                '/explore/articles/devtoolstips.org/create-your-own-devtools-theme.md',
-              ]
-            }, 
+            articleSidebars.devtoolstips("js"),
           ]
         }
       ]
@@ -559,22 +557,11 @@ export const sidebarEn = sidebar({
             '/programming/css/articles/README.md',
             articleSidebars.freecodecamp("css"),
             articleSidebars.yozm("css"),
-            {
-              text: 'devtoolstips.org',
-              collapsible: true,
-              icon: 'https://devtoolstips.org/assets/favicon.ico',
-              children: [
-                '/explore/articles/devtoolstips.org/disable-all-css.md',
-                '/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.md',
-                '/explore/articles/devtoolstips.org/find-the-offset-parent-of-an-element.md',
-                '/explore/articles/devtoolstips.org/highlight-elements-from-selector.md',
-                '/explore/articles/devtoolstips.org/find-rule-that-causes-style.md',
-              ]
-            },
             articleSidebars.frontendmaster("css"),
             articleSidebars.piccalilli("css"),
             articleSidebars.sitepoint("css"),
             articleSidebars.nhn("css"),
+            articleSidebars.devtoolstips("css"),
           ]
         }
       ]
@@ -1092,17 +1079,37 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-chrome',
       children: [
-        '/tool/googlechrome/README.md',
-        '/tool/googlechrome/plugins.md',
-        '/tool/googlechrome/references.md',
-        '/tool/googlechrome/youtube.md',
+        '/tool/chrome/README.md',
+        '/tool/chrome/plugins.md',
+        '/tool/chrome/references.md',
+        '/tool/chrome/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/tool/googlechrome/articles/README.md',
-            articleSidebars.zuminternet("googlechrome"),
+            '/tool/chrome/articles/README.md',
+            articleSidebars.devtoolstips("chrome"),
+            articleSidebars.zuminternet("chrome"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Firefox',
+      collapsible: true,
+      icon: 'fa-brands fa-firefox-browser',
+      children: [
+        '/tool/firefox/README.md',
+        '/tool/firefox/plugins.md',
+        '/tool/firefox/references.md',
+        '/tool/firefox/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/firefox/articles/README.md',
+            articleSidebars.devtoolstips("firefox"),
           ]
         }
       ]
@@ -1119,15 +1126,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/safari/articles/README.md',
-            {
-              text: 'devtoolstips.org',
-              collapsible: true,
-              icon: 'https://devtoolstips.org/assets/favicon.ico',
-              children: [
-                '/explore/articles/devtoolstips.org/enable-safari-devtools.md',
-                '/explore/articles/devtoolstips.org/debug-safari-mac-webapps.md',
-              ]
-            }
+            articleSidebars.devtoolstips("safari"),
           ]
         }
       ]
@@ -2064,6 +2063,23 @@ export const sidebarEn = sidebar({
         '/explore/api/references.md',
       ],
     }, {
+      text: 'System Design',
+      collapsible: true,
+      icon: 'fas fa-pen-ruler',
+      children: [
+        '/explore/system-design/README.md',
+        '/explore/system-design/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/explore/system-design/articles/README.md',
+            articleSidebars.oliveyoung("system-design"),
+          ]
+        }
+      ]
+    }, {
       text: 'Youtube',
       collapsible: true,
       icon: 'fa-brands fa-youtube',
@@ -2109,6 +2125,7 @@ export const sidebarEn = sidebar({
         articleSidebars.d2(), 
         articleSidebars.nhn(),
         articleSidebars.linecorp(),
+        articleSidebars.oliveyoung(),
         articleSidebars.gmarket(),
         articleSidebars.zuminternet(),
       ]
@@ -2139,6 +2156,13 @@ export const sidebarEn = sidebar({
       text: 'Academics',
       icon: 'fas fa-graduation-cap',
       children: [ '/academics/README.md' ],
+    }, {
+      text: 'Data Structure',
+      icon: 'iconfont icon-class',
+      children: [
+        '/academics/data-structure/README.md',
+        '/academics/data-structure/references.md',
+      ]
     }, {
       text: 'General',
       collapsible: true,

@@ -65,7 +65,7 @@ Group {
 .font(.largeTitle)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-group-views-together-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-group-views-together-1.zip)
 
 You could do the same with `VStack` or `HStack`, of course, but by using `Group` we haven't needed to specify how our text views should be arranged – if this view is placed into a larger view, that parent gets to decide whether the text views should be arranged horizontally, vertically, or some other way entirely.
 

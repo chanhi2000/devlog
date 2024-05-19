@@ -2,9 +2,13 @@
 lang: ko-KR
 title: See the viewport size
 description: Article(s) > See the viewport size
-icon: iconfont icon-template
+icon: fa-brands fa-css3-alt
 category: 
   - Browser
+  - Google
+  - Google Chrome
+  - Firefox
+  - Safari
   - Article(s)
 tag: 
   - blog
@@ -14,6 +18,11 @@ tag:
   - testing
   - css
   - tips
+  - google
+  - googlechrome
+  - google-chrome
+  - firefox
+  - safari
 head:
   - - meta:
     - property: og:title
@@ -22,9 +31,40 @@ head:
       content: See the viewport size
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/see-viewport-size.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Firefox > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/firefox/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Safari > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/safari/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -39,6 +79,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2023.10.05
 
 The size of the viewport that's used to render a webpage in a browser can be very important at times, such as when creating or debugging [<FontIcon icon="fa-brands fa-firefox"/>media queries](https://developer.mozilla.org/docs/Web/CSS/CSS_media_queries/Using_media_queries).
 

@@ -74,7 +74,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-haptic-effects-using-sensory-feedback-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-haptic-effects-using-sensory-feedback-1.zip)
 
 For more fine-grained control, you can decide exactly which type of haptic effect to trigger based on comparing the old and new value of your trigger. For example, this uses the `.impact` haptic effect with varying intensities based on the difference between two random numbers:
 
@@ -94,7 +94,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-haptic-effects-using-sensory-feedback-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-haptic-effects-using-sensory-feedback-2.zip)
 
 And finally, you can provide a fixed haptic effect and customize when it's triggered by providing your own comparison function. As an example, this will trigger the `.success` haptic when the difference between two random numbers is more than 0.5:
 
@@ -113,7 +113,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-haptic-effects-using-sensory-feedback-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-haptic-effects-using-sensory-feedback-3.zip)
 
 ::: details Similar solutions…
 

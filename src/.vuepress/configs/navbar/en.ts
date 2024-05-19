@@ -32,6 +32,10 @@ export const navbarEn = navbar([
     icon: 'fas fa-graduation-cap',
     children: [
       {
+        text: 'Data Structure',
+        icon: 'iconfont icon-class',
+        link: '/academics/data-structure/README.md',
+      }, {
         text: 'MATH011',
         link: '/academics/MATH011/README.md'
       }, {
@@ -94,6 +98,10 @@ export const navbarEn = navbar([
         text: 'Kafka',
         link: '/programming/java-kafka/README.md',
         icon: 'iconfont icon-apachekafka',
+      }, {
+        text: 'Elasticsearch',
+        icon: 'iconfont icon-elasticsearch',
+        link: '/programming/java-elasticsearch/README.md',
       }, {
         text: 'Swift',
         link: '/programming/swift/README.md',
@@ -507,7 +515,11 @@ export const navbarEn = navbar([
       }, {
         text: 'Chrome Browser',
         icon: 'fa-brands fa-chrome',
-        link: '/tool/googlechrome/README.md',
+        link: '/tool/chrome/README.md',
+      }, {
+        text: 'Firefox',
+        icon: 'fa-brands fa-firefox-browser',
+        link: '/tool/firefox/README.md',
       }, {
         text: 'Safari',
         icon: 'fa-brands fa-safari',
@@ -575,6 +587,10 @@ export const navbarEn = navbar([
           '/explore/api/kakao/README.md',
           '/explore/api/sk/README.md',
         ]
+      }, {
+        text: 'System Design',
+        icon: 'fas fa-pen-ruler',
+        link: '/explore/system-design/README.md',
       }, {
         text: 'YouTube',
         icon: 'fa-brands fa-youtube',

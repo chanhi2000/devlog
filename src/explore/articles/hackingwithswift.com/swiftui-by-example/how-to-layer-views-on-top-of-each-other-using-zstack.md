@@ -66,9 +66,9 @@ ZStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack-1.zip)
 
-![“Hacking with Swift” in white text on a black rectangle, centered over an image of Niagara Falls.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack-1~dark.png)
+![“Hacking with Swift” in white text on a black rectangle, centered over an image of Niagara Falls.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack-1~dark.png)
 
 Like the other stack types, `ZStack` can be created with an alignment so that it doesn't always center things inside itself:
 
@@ -82,9 +82,9 @@ ZStack(alignment: .leading) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack-2.zip)
 
-![“Hacking with Swift” in white text on a black rectangle, touching the left edge of an image of Niagara Falls.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack-2~dark.png)
+![“Hacking with Swift” in white text on a black rectangle, touching the left edge of an image of Niagara Falls.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack-2~dark.png)
 
 However, it doesn't have a spacing property because it doesn't make sense. Instead, you should use the `offset()` modifier as shown in [How to adjust the position of a view using its offset](/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-position-of-a-view-using-its-offset.md).
 

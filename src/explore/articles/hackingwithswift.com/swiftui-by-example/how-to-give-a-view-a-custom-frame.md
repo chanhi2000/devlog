@@ -67,9 +67,9 @@ Button {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-give-a-view-a-custom-frame-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-give-a-view-a-custom-frame-1.zip)
 
-![The word “Welcome” in blue signifying it is tappable.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-give-a-view-a-custom-frame-1~dark.png)
+![The word “Welcome” in blue signifying it is tappable.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-give-a-view-a-custom-frame-1~dark.png)
 
 Or you could make a text view fill the whole screen (minus the safe area) by specifying a frame with zero for its minimum width and height, and infinity for its maximum width and height, like this:
 
@@ -81,9 +81,9 @@ Text("Please log in")
     .background(.red)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-give-a-view-a-custom-frame-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-give-a-view-a-custom-frame-2.zip)
 
-![A phone showing the words “Please log in” over a large red background.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-give-a-view-a-custom-frame-2~dark.png)
+![A phone showing the words “Please log in” over a large red background.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-give-a-view-a-custom-frame-2~dark.png)
 
 ::: note
 

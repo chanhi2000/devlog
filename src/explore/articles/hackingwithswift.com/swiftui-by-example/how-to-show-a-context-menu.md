@@ -75,9 +75,9 @@ Text("Options")
     }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-a-context-menu-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-a-context-menu-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-context-menu-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-context-menu-1~dark.mp4" />
 
 To try that out on iOS, long press on the “Options” text to bring up the menu, or right-click on macOS. It’s worth adding that you can attach these sorts of menus to any SwiftUI views, not just text views.
 

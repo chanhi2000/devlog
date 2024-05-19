@@ -2610,9 +2610,9 @@
     "topics": ["drizzle-orm", "millionjs", "nextjs", "open-source", "shadcn-ui", "tanstack-table"]
   }, {
     "repo": "mendableai/firecrawl",
-    "desc": "🔥 Turn entire websites into LLM-ready markdown",
+    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
     "officialSite": "https://firecrawl.dev",
-    "topics": ["ai", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"]
+    "topics": ["ai", "ai-scraping", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"]
   }, {
     "repo": "immich-app/immich",
     "desc": "High performance self-hosted photo and video management solution.",
@@ -2740,9 +2740,9 @@
     "topics": []
   }, {
     "repo": "bepass-org/oblivion-desktop",
-    "desc": "unofficial desktop version of oblivion",
+    "desc": "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux",
     "officialSite": "https://github.com/bepass-org/oblivion-desktop/releases/latest",
-    "topics": ["anticensorship", "antifilter", "cloudflare", "desktop", "gool", "linux", "mac", "oblivion", "proxy", "psiphon", "vpn", "warp", "warp-plus", "warpinwarp", "warponwarp", "windows", "zerotrust"]
+    "topics": ["anticensorship", "antifilter", "bepass", "cloudflare", "desktop", "gool", "linux", "mac", "oblivion", "proxy", "psiphon", "vpn", "warp", "warp-plus", "warpinwarp", "warponwarp", "windows", "zerotrust"]
   }, {
     "repo": "AtotheY/saas-landingpage",
     "desc": "https://map.sistilli.dev/public/coding/SaaS+Boilerplate",
@@ -2793,5 +2793,40 @@
     "desc": "📸 Quickly generate image from DOM node using HTML5 canvas and SVG",
     "officialSite": "https://modern-screenshot.vercel.app",
     "topics": ["canvas", "dom", "dom-to-image", "html-to-image", "html2canvas", "image", "javascript", "modern-screenshot", "screenshot", "svg", "typescript"]
+  }, {
+    "repo": "nocobase/nocobase",
+    "desc": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+    "officialSite": "https://www.nocobase.com",
+    "topics": ["admin-dashboard", "admin-panels", "airtable", "app-builder", "crud", "internal-tool", "internal-tools", "low-code", "low-code-development", "low-code-development-platform", "low-code-framework", "low-code-platform", "lowcode", "no-code", "no-code-framework", "no-code-platform", "nocode", "nodejs", "workflows"]
+  }, {
+    "repo": "mendableai/firecrawl",
+    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
+    "officialSite": "https://firecrawl.dev",
+    "topics": ["ai", "ai-scraping", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"]
+  }, {
+    "repo": "scalar/scalar",
+    "desc": "Beautiful API references from OpenAPI/Swagger files ✨",
+    "officialSite": "https://scalar.com/swagger-editor",
+    "topics": ["api", "docs", "openapi", "openapi3", "reference", "swagger", "vue"]
+  }, {
+    "repo": "latitude-dev/latitude",
+    "desc": "Developer-first embedded analytics",
+    "officialSite": "https://latitude.so",
+    "topics": ["analytics", "business-intelligence", "dashboard", "data", "data-analysis", "data-analytics", "data-app", "data-engineering", "data-science", "data-visualization", "duckdb", "embedded-analytics", "exploratory-data-analysis", "javascript-framework", "open-source", "react", "self-hosted", "sql", "svelte", "tailwindcss"]
+  }, {
+    "repo": "sourcegraph/cody",
+    "desc": "AI that knows your entire codebase",
+    "officialSite": "https://cody.dev",
+    "topics": ["ai", "intellij-plugin", "vscode-extension"]
+  }, {
+    "repo": "adrianhajdin/portfolio",
+    "desc": "Modern & Minimal JS Mastery Portfolio",
+    "officialSite": "https://minimal-portfolio-swart.vercel.app",
+    "topics": ["aceternity", "nextjs"]
+  }, {
+    "repo": "rashadphz/farfalle",
+    "desc": "open-source answer engine - run local or cloud models",
+    "officialSite": "https://www.farfalle.dev/",
+    "topics": ["fastapi", "generative-ui", "gpt-4o", "groq", "llm", "nextjs", "ollama", "openai", "perplexity", "react", "search-engine", "shadcn-ui", "tailwindcss"]
   }
 ]

@@ -67,7 +67,7 @@ HStack {
 .foregroundStyle(.quaternary)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-provide-visual-structure-using-foreground-styles-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-provide-visual-structure-using-foreground-styles-1.zip)
 
 A clock symbol beside the words “Set the time”, both in faint grey.
 
@@ -88,9 +88,9 @@ HStack {
 )
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-provide-visual-structure-using-foreground-styles-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-provide-visual-structure-using-foreground-styles-2.zip)
 
-![A clock symbol beside the words “Set the time”, both with a gradient running from red at the top to black at the bottom.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-provide-visual-structure-using-foreground-styles-2~dark.png)
+![A clock symbol beside the words “Set the time”, both with a gradient running from red at the top to black at the bottom.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-provide-visual-structure-using-foreground-styles-2~dark.png)
 
 ::: details Similar solutions…
 

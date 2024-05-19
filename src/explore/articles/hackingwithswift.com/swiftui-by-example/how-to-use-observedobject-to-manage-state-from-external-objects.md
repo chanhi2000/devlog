@@ -68,9 +68,9 @@ class UserProgress: ObservableObject {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects-1~dark.mp4" />
 
 I know that doesn't look like much code, but that's because SwiftUI is doing a remarkable amount on our behalf! There are two things that matter in there:
 
@@ -106,9 +106,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects-1~dark.mp4" />
 
 As you can see, other than using the `@ObservedObject` property wrapper with `progress`, everything else more or less looks the same – SwiftUI takes care of all the implementation details for us.
 

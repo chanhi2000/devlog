@@ -89,9 +89,9 @@ struct ContentView: View {
     }
 }
 ```
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-an-action-sheet-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-an-action-sheet-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-an-action-sheet-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-an-action-sheet-1~dark.mp4" />
 
 ::: tip
 
@@ -99,7 +99,7 @@ This API uses a standard SwiftUI `Button` for each action, so you can attach a r
 
 :::
 
-![A menu titled “Select a color” and options Red, Green, and Blue. The Red option is red colored.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-an-action-sheet-2~dark@2x.png)
+![A menu titled “Select a color” and options Red, Green, and Blue. The Red option is red colored.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-an-action-sheet-2~dark@2x.png)
 
 Because this new API is more flexible, we can actually collapse down those actions into a simple loop using `ForEach`:
 
@@ -126,7 +126,7 @@ struct ContentView: View {
     }
 }
 ```
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-an-action-sheet-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-an-action-sheet-2.zip)
 
 If you need to target iOS 14 or below you should use the older `ActionSheet` approach to achieve the same result. This also works by defining a property to track whether the action sheet should be visible or not.
 

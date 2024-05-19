@@ -75,9 +75,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/showing-and-hiding-form-rows-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/showing-and-hiding-form-rows-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/showing-and-hiding-form-rows-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/showing-and-hiding-form-rows-1~dark.mp4" />
 
 Notice how I attached `animation()` to the `$showingAdvancedOptions` binding, to enable implicit animations for view changes made as a result of any binding change.
 

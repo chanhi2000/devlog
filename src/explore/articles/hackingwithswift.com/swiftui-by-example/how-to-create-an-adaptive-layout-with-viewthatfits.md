@@ -70,7 +70,7 @@ ViewThatFits {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-1.zip)
 
 That attempts a long title in large text, a short title in large text, then finally a short title in small text – SwiftUI will try them in that order, and stop as soon as one fits into the available space.
 
@@ -104,7 +104,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-2.zip)
 
 Where things get more interesting is how `ViewThatFits` handles handles text layout. Text in SwiftUI prefers to sit on one line, and by default `ViewThatFits` will prefer to avoid layouts the cause text to wrap. So, when space is limited code like this will default to a `VStack` rather than use a `HStack` with wrapping text:
 
@@ -127,7 +127,7 @@ ViewThatFits {
 .font(.title)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-3.zip)
 
 What's happening here is that `ViewThatFits` is measuring our text both horizontally and vertically, and is trying to find something that fits the text in both those dimensions – something where the text fits all on one line, without being truncated vertically.
 
@@ -151,7 +151,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-4.zip)
 
 Unless you have a huge screen, that will _always_ choose the scrolling version because we asked `ViewThatFits` to care about both horizontal and vertical axes for our text. This means as soon as the text runs across more than one line, SwiftUI will prefer to avoid that layout.
 
@@ -173,7 +173,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits-5.zip)
 
 Now that will allow the text to wrap horizontally, but as soon as it runs out of _vertical_ space SwiftUI will move on to the `ScrollView`.
 

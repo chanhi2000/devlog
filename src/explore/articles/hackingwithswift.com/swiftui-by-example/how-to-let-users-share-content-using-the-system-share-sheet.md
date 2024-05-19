@@ -70,7 +70,7 @@ VStack(spacing: 20) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-share-content-using-the-system-share-sheet-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-share-content-using-the-system-share-sheet-1.zip)
 
 If you want to attach some extra text to the content you're sharing, there's a `message` parameter to do just that:
 
@@ -79,7 +79,7 @@ let link = URL(string: "https://www.hackingwithswift.com")!
 ShareLink(item: link, message: Text("Learn Swift here!"))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-share-content-using-the-system-share-sheet-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-share-content-using-the-system-share-sheet-2.zip)
 
 For simple URLs the system is able to generate a preview on our behalf, but you can also provide a custom preview with some text and an image of your choosing, like this:
 
@@ -97,7 +97,7 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-share-content-using-the-system-share-sheet-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-share-content-using-the-system-share-sheet-3.zip)
 
 ::: details Similar solutions…
 

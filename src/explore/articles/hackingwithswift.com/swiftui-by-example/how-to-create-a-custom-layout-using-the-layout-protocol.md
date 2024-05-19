@@ -122,7 +122,7 @@ struct ContentView: View {
 }
 ```
 
-My book Pro SwiftUI goes into a lot more detail on custom layouts, including SwiftUI code for masonry layouts, equal width stacks, relative stacks, layout caches, custom animations, and more. Find out more [<FontIcon icon="fas fa-globe"/>here](https://www.hackingwithswift.com/store/pro-swiftui).
+My book Pro SwiftUI goes into a lot more detail on custom layouts, including SwiftUI code for masonry layouts, equal width stacks, relative stacks, layout caches, custom animations, and more. Find out more [<FontIcon icon="fas fa-globe"/>here](https://hackingwithswift.com/store/pro-swiftui).
 
 ::: details Similar solutions…
 

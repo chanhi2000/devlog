@@ -70,9 +70,9 @@ TabView {
 .tabViewStyle(.page)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-1~dark.mp4" />
 
 ::: important
 
@@ -100,13 +100,13 @@ TabView {
 .tabViewStyle(.page)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-1.zip)
 
 ```swift
 .indexViewStyle(.page(backgroundDisplayMode: .always))
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-2~dark.mp4" />
 
 ::: important
 
@@ -126,9 +126,9 @@ TabView {
 .tabViewStyle(.page(indexDisplayMode: .never))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-3.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-3~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-scrolling-pages-of-content-using-tabviewstyle-3~dark.mp4 "/>
 
 ::: details Similar solutions…
 

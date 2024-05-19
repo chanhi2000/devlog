@@ -45,6 +45,7 @@
   { "logo": "dotnet", "name": ".Net%20Core", "colorHex": "512BD4" },
   { "logo": "eclipseide", "name": "Eclipse", "colorHex": "2C2255" },
   { "logo": "eclipseadoptium", "name": "Eclipse%20Adoptium", "colorHex": "FF1464" },
+  { "logo": "elasticsearch", "name": "Elasticsearch", "colorHex": "005571" },
   { "logo": "elixir", "name": "Elixir", "colorHex": "4B275F" },
   { "logo": "firebase", "name": "Firebase", "colorHex": "FFCA28" },
   { "logo": "flutter", "name": "Flutter", "colorHex": "02569B" },

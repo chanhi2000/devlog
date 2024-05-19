@@ -71,9 +71,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-multi-line-editable-text-with-texteditor-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-multi-line-editable-text-with-texteditor-1.zip)
 
-![The line “Enter your bio”, followed by more more lines of text in the same area.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-multi-line-editable-text-with-texteditor-1~dark.png)
+![The line “Enter your bio”, followed by more more lines of text in the same area.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-multi-line-editable-text-with-texteditor-1~dark.png)
 
 For single-line text entry, use `TextField` instead.
 

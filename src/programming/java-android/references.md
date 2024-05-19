@@ -93,10 +93,12 @@ tag:
 - [`proandroiddev` / Let Kotlin do the code for you — Part III: Mockito, Mockk, and Code Generation](https://proandroiddev.com/let-kotlin-do-the-code-for-you-part-iii-mockito-mockk-and-code-generation-3da26e1f71e9)
 - [`stackademic` / Putting Koin To Work in Android](https://blog.stackademic.com/putting-koin-to-work-in-android-fa9a30cb8ddc)
 - [`daangn` / (🔔당근!) 반가운 중고거래 키워드 알림 만들기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%B0%98%EA%B0%80%EC%9A%B4-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%95%8C%EB%A6%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-3ed969f07692)
+- [`@l2hyunwoo` / Efficient Layout(View Based) in Android](https://medium.com/@l2hyunwoo/efficient-layout-view-based-in-android-5a8fe9480969)
+- [`@nachare.reena8` / Integrating Ktor in Your Android App Like a Pro!](https://medium.com/@nachare.reena8/integrating-ktor-in-your-android-app-like-a-pro-74412db642ff)
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [[android] Notification 등록시 Head Up Notification 뜨지 않는 현상](https://velog.io/@kkaemi/android-Notification-%EB%93%B1%EB%A1%9D%EC%8B%9C-Head-Up-Notification-%EB%9C%A8%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%98%84%EC%83%81)
 - [[Android] 불러온 Image Crop하기](https://velog.io/@jinny_0422/Android%EB%B6%88%EB%9F%AC%EC%98%A8ImageCrop%ED%95%98%EA%B8%B0)
@@ -104,7 +106,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 안드로이드 폰을 개발 서버로 만들기](https://blex.me/@baealex/development-environment-within-android)
 - [`@baealex` - termux 'process completed signal 9 press enter' 해결](https://blex.me/@baealex/how-to-fix-termux-process-completed-signal-9)
@@ -267,6 +269,7 @@ tag:
 ## Funky Muse
 
 - [SQLDelight in Kotlin Multiplatform (KMP)](https://funkymuse.dev/posts/sql-delight-kmp/)
+- [KMP (Kotlin Multiplatform) multi module resources](https://funkymuse.dev/posts/kmp-multi-module-resources/)
 
 ---
 

@@ -72,9 +72,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-1.zip)
 
-![The lines “Home”, “Options”, and “Help”. “Options” is displaced downwards and overlaps with “Help”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-1~dark@2x.png)
+![The lines “Home”, “Options”, and “Help”. “Options” is displaced downwards and overlaps with “Help”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-1~dark@2x.png)
 
 You will commonly find that using `padding()` together with `offset()` gives you the result you’re looking for, as that moves one view around while also adjusting the views next to it to match.
 
@@ -90,9 +90,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-2.zip)
 
-![The lines “Home”, “Options”, and “Help”. “Options” and “Help” are displaced downwards.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-2~dark@2x.png)
+![The lines “Home”, “Options”, and “Help”. “Options” and “Help” are displaced downwards.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-2~dark@2x.png)
 
 As I said earlier, any modifiers placed after `offset()` won’t be affected by the change in position, which might cause unexpected results. In this following example, I’ve used `background()` both before and after the offset, so you can see how they are different:
 
@@ -108,9 +108,9 @@ HStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-3.zip)
 
-![The text “Before” with a red background behind it, and the text “After”, with a red rectangle above it.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-3~dark@2x.png)
+![The text “Before” with a red background behind it, and the text “After”, with a red rectangle above it.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-3~dark@2x.png)
 
 When used in conjunction with a `ZStack`, offsets let us position one view inside another, which is particularly useful when you control the alignment of the `ZStack`.
 
@@ -127,9 +127,9 @@ ZStack(alignment: .bottomTrailing) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-4.zip)
 
-![An image of Scotland, with a black rectangle inset slightly from the bottom right corner. On the rectangle is the text “Photo credit: Paul Hudson.” in white.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-4~dark@2x.png)
+![An image of Scotland, with a black rectangle inset slightly from the bottom right corner. On the rectangle is the text “Photo credit: Paul Hudson.” in white.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset-4~dark@2x.png)
 
 Placing the offset at the end of the other modifiers ensures they all move together.
 

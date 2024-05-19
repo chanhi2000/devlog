@@ -26,7 +26,7 @@ export const template: SidebarInfoTemplate = {
     "redis", [
       "spring-session", // 2023.07.07.
     ]],[
-    "googlechrome", [
+    "chrome", [
       "zum-chrome-extension", // 2020.09.11
     ]],[
     "all", [       

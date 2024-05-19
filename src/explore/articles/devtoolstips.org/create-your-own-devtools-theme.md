@@ -2,13 +2,18 @@
 lang: ko-KR
 title: Create your own DevTools theme
 description: Article(s) > Create your own DevTools theme
-icon: iconfont icon-template
+icon: fa-brands fa-chrome
 category: 
   - Browser
+  - Google
+  - Google Chrome
   - Article(s)
 tag: 
   - blog
   - devtoolstips.org
+  - google
+  - googlechrome
+  - google-chrome
   - console
 head:  
   - - meta:
@@ -18,9 +23,20 @@ head:
       content: Create your own DevTools theme
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/create-your-own-devtools-theme.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -36,7 +52,18 @@ head:
 }
 ```
 
+> 2023.07.31
+
 <!-- TODO: 내용 채우기 -->
+
+::: details See also
+
+- [Change the color theme of DevTools](https://devtoolstips.org/tips/en/change-color-theme) <!-- TODO: add VPCard -->
+- [Install or create extensions to customize DevTools](https://devtoolstips.org/tips/en/extend-devtools) <!-- TODO: add VPCard -->
+- [Inspect DevTools with DevTools](https://devtoolstips.org/tips/en/inspect-devtools-with-devtools) <!-- TODO: add VPCard -->
+- [Emulate color schemes](https://devtoolstips.org/tips/en/emulate-color-schemes) <!-- TODO: add VPCard -->
+
+:::
 
 ---
 

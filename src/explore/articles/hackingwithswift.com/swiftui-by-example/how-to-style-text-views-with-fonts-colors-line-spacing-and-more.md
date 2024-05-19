@@ -62,9 +62,9 @@ Text("This is an extremely long text string that will never fit even the widest 
     .frame(width: 300)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-1.zip)
 
-![A very long sentence wrapped across multiple lines.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-1~dark.png)
+![A very long sentence wrapped across multiple lines.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-1~dark.png)
 
 We can control the color of text using the `.foregroundStyle()` modifier, like this:
 
@@ -73,9 +73,9 @@ Text("The best laid plans")
     .foregroundStyle(.red)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-2.zip)
 
-![The words “The best laid plans” in red text](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-2~dark.png)
+![The words “The best laid plans” in red text](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-2~dark.png)
 
 For more complex text coloring, e.g. using a gradient, you should use `foregroundStyle()` like this:
 
@@ -84,7 +84,7 @@ Text("The best laid plans")
     .foregroundStyle(.blue.gradient)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-3.zip)
 
 You can also set the background color, but that uses `.background()` because it's possible to use more advanced backgrounds than just a flat color. Anyway, to give our layout a yellow background color we would add this:
 
@@ -96,9 +96,9 @@ Text("The best laid plans")
     .font(.headline)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-4.zip)
 
-![The words “The best laid plans” in white text over a rectangular dark yellow background](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-3~dark.png)
+![The words “The best laid plans” in white text over a rectangular dark yellow background](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-3~dark.png)
 
 There are even more options. For example, we can adjust the line spacing in our text. The default value is 0, which means there is no extra line spacing applied, but you can also specify position values to add extra spacing between lines:
 
@@ -109,9 +109,9 @@ Text("This is an extremely long text string that will never fit even the widest 
     .frame(width: 300)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-5.zip)
 
-![A very long sentence with multiple widely spaced lines.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-4~dark.png)
+![A very long sentence with multiple widely spaced lines.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more-4~dark.png)
 
 You can also use the `fontDesign()` modifier to adjust only the style of the font without also adjusting its size, like this:
 
@@ -120,7 +120,7 @@ Text("Hello, world!")
     .fontDesign(.serif)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-6.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-6.zip)
 
 Or use the `fontWidth()` modifier to compress or expand the font, like this:
 
@@ -129,7 +129,7 @@ Text("Hello, world!")
     .fontWidth(.condensed)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-7.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label-7.zip)
 
 ::: note
 

@@ -85,7 +85,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-return-different-view-types-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-return-different-view-types-1.zip)
 
 
 The second is to use a type-erased wrapper called `AnyView` that we can return:
@@ -112,7 +112,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-return-different-view-types-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-return-different-view-types-2.zip)
 
 If you haven't heard of this concept, it effectively forces Swift to forget about what specific type is inside the `AnyView`, allowing them to look like they are the same thing. This has a performance cost, though, so don't use it often.
 
@@ -145,7 +145,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-return-different-view-types-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-return-different-view-types-3.zip)
 
 That works, but honestly if you find yourself reaching for `@ViewBuilder` you should question whether you're trying to put too much into one view.
 
@@ -178,12 +178,12 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-return-different-view-types-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-return-different-view-types-4.zip)
 
 
 This works particularly well to help break apart logic and layout, and also has the benefit of making your views more reusable elsewhere in your app. SwiftUI will automatically collapse your view hierarchy, so there is no meaningful performance difference when you break up a view.
 
-![The text “Coin flip” over a successful outcome with lots of lasers, as well as an unsuccessful outcome with the words “Better luck next time”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-return-different-view-types-1~dark.png)
+![The text “Coin flip” over a successful outcome with lots of lasers, as well as an unsuccessful outcome with the words “Better luck next time”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-return-different-view-types-1~dark.png)
 
 ::: details Similar solutions…
 

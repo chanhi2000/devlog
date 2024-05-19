@@ -180,7 +180,7 @@ Text(item.description)
 Spacer()
 ```
 
-![Our detail screen shows a large picture of Maple French toast at the top, plus description text below.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-9~dark.png)
+![Our detail screen shows a large picture of Maple French toast at the top, plus description text below.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-9~dark.png)
 
 This is starting to look good, but we also need to find a way to show the name of the person who took the photo of our food. We could put that below the picture or inside an alert, but a better idea is to put _over_ the image, in the bottom-right corner.
 
@@ -226,7 +226,7 @@ Text("Photo: \(item.photoCredit)")
 
 Nice!
 
-![Xcode showing our detail screen preview, which now has a photographer credit overlaid on top of the image.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-10~dark.png)
+![Xcode showing our detail screen preview, which now has a photographer credit overlaid on top of the image.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-10~dark.png)
 
 There is one other layout issue, but you might not have noticed it yet depending on your Xcode configuration: some parts of our user interface hang off the screen!
 

@@ -82,7 +82,7 @@ struct ContentView: View {
 }
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-hide-and-show-the-status-bar-1~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-hide-and-show-the-status-bar-1~dark.mp4 "/>
 
 As you can see, that toggles the Boolean inside a `withAnimation` block, which causes the status bar to fade in and out smoothly.
 

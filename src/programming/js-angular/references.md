@@ -21,7 +21,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 이번 SPA 개발은 앵귤러 어떠세요?](https://blex.me/@baealex/create-spa-with-angular)
 - [`@baealex` - Angular :: Directive](https://blex.me/@baealex/2023-10-9-til-angular-directive)

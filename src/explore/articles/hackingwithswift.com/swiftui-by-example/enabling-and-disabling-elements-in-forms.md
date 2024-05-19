@@ -77,9 +77,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/enabling-and-disabling-elements-in-forms-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/enabling-and-disabling-elements-in-forms-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/enabling-and-disabling-elements-in-forms-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/enabling-and-disabling-elements-in-forms-1~dark.mp4" />
 
 As you can see, the button is disabled just by adding `disabled(agreedToTerms == false)` to the list of modifiers.
 

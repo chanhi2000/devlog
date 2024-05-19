@@ -69,7 +69,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-find-and-replace-text-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-find-and-replace-text-1.zip)
 
 To try that out, tap to activate the `TextEditor`, then press <kbd>Cmd</kbd>+<kbd>F</kbd> to active search, or press <kbd>Option</kbd>+<kbd>Cmd</kbd>+<kbd>F</kbd> to activate search and replace.
 
@@ -101,7 +101,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-find-and-replace-text-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-find-and-replace-text-2.zip)
 
 ::: tip
 
@@ -125,7 +125,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-find-and-replace-text-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-find-and-replace-text-1.zip)
 
 ::: details Similar solutions…
 

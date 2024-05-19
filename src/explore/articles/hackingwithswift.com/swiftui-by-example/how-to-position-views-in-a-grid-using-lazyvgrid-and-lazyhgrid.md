@@ -78,9 +78,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-1.zip)
 
-![A large 8 column grid of items with a scroll bar indicating more below.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-1~dark@2x.png)
+![A large 8 column grid of items with a scroll bar indicating more below.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-1~dark@2x.png)
 
 Using `GridItem(.adaptive(minimum: 80))` means we want the grid to fit in as many items per row as possible, using a minimum size of 80 points each.
 
@@ -112,9 +112,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-2.zip)
 
-![A large 5 column grid of items with a scroll bar indicating more below.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-2~dark@2x.png)
+![A large 5 column grid of items with a scroll bar indicating more below.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-2~dark@2x.png)
 
 A third option is to use fixed sizes. For example, this will make the first column be exactly 100 points wide, and allow the second column to fill up all the remaining space:
 
@@ -141,9 +141,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-3.zip)
 
-![A large 2 column grid of items with a scroll bar indicating more below. The left column is pushed against the left edge of the screen.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-3~dark@2x.png)
+![A large 2 column grid of items with a scroll bar indicating more below. The left column is pushed against the left edge of the screen.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-3~dark@2x.png)
 
 You can also use `LazyHGrid` to make a horizontally scrolling grid, which works in much the same way except it accepts *rows* in its initializer.
 
@@ -172,9 +172,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-4.zip)
 
-![Two rows of number symbols, with a horizontal scroll bar indicating more to the right.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-4~dark@2x.png)
+![Two rows of number symbols, with a horizontal scroll bar indicating more to the right.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-4~dark@2x.png)
 
 As you can see, the code required to create horizontal and vertical grids is almost the same, changing just `rows` for `columns`.
 
@@ -222,9 +222,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-5.zip)
 
-![A 4 by 4 grid of items where each cell shows its number, row, and column.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-5~dark@2x.png)
+![A 4 by 4 grid of items where each cell shows its number, row, and column.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid-5~dark@2x.png)
 
 That creates a 4x4 grid with an image and text in each cell.
 

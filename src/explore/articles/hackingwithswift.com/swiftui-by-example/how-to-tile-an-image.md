@@ -63,9 +63,9 @@ Image("logo")
     .resizable(resizingMode: .tile)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-tile-an-image-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-tile-an-image-1.zip)
 
-![A phone showing tiled images of the Hacking With Swift logo.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-tile-an-image-1~dark.png)
+![A phone showing tiled images of the Hacking With Swift logo.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-tile-an-image-1~dark.png)
 
 If you only want to tile part of the image – leading one or more edges fixed to the image view's edges – you can provide edge insets to the first parameter, like this:
 
@@ -74,9 +74,9 @@ Image("logo")
     .resizable(capInsets: EdgeInsets(top: 20, leading: 20, bottom: 20, trailing: 20), resizingMode: .tile)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-tile-an-image-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-tile-an-image-2.zip)
 
-![A phone showing tiled images of a slightly cropped Hacking With Swift logo.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-tile-an-image-2~dark.png)
+![A phone showing tiled images of a slightly cropped Hacking With Swift logo.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-tile-an-image-2~dark.png)
 
 ::: details Similar solutions…
 

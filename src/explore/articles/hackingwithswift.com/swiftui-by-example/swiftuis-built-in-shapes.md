@@ -22,6 +22,7 @@ head:
       content: SwiftUI's built-in shapes
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-in-shapes.html
+prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-the-background-color-of-list-texteditor-and-more.md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -88,7 +89,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/swiftuis-built-in-shapes-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/swiftuis-built-in-shapes-1.zip)
 
 That draws all five shapes: two at 200x200 and three at 100x50. However, because the drawing behavior of the shapes is different you’ll see all five shapes visible in the output:
 

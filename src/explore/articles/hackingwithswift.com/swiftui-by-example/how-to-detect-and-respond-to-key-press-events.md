@@ -78,9 +78,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-detect-and-respond-to-key-press-events-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-detect-and-respond-to-key-press-events-1.zip)
 
-![The message typing is fun being typed out one letter at a time.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-detect-and-respond-to-key-press-events-1~dark.gif)
+![The message typing is fun being typed out one letter at a time.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-detect-and-respond-to-key-press-events-1~dark.gif)
 
 The `return .handled` part tells SwiftUI the key press has been responded to in full by our action closure. If you send back `.ignored` instead, the key press will be passed on to whatever parent view is able to handle it next.
 

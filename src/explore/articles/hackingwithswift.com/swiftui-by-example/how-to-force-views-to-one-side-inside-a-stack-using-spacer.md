@@ -62,9 +62,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-1.zip)
 
-![A phone with the text “Hello World” in the center of the screen.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-1~dark.png)
+![A phone with the text “Hello World” in the center of the screen.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-1~dark.png)
 
 To push that text view to the top of the parent, we'd place a spacer below it, like this:
 
@@ -75,9 +75,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-2.zip)
 
-![A phone with the text “Hello World” at the top of the screen.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-2~dark.png)
+![A phone with the text “Hello World” at the top of the screen.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-2~dark.png)
 
 If you wanted two pieces of text on the leading and trailing edges of a `HStack`, you would use a spacer like this:
 
@@ -89,9 +89,9 @@ HStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-3.zip)
 
-![The words “Hello” and “World” at opposite ends of the image.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-3~dark.png)
+![The words “Hello” and “World” at opposite ends of the image.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-3~dark.png)
 
 Spacers automatically divide up all remaining space, which means if you use if you use several spacers you can divide up the space in varying amounts.
 
@@ -106,9 +106,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-4.zip)
 
-![A phone with the text “Hello World” two thirds of the way up the screen.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-4~dark.png)
+![A phone with the text “Hello World” two thirds of the way up the screen.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer-4~dark.png)
 
 ::: details Similar solutions…
 

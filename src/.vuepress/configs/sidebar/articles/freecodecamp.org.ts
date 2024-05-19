@@ -36,6 +36,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-a-react-chatbot", // 2024.05.10
       "how-to-handle-events-in-react-19", // 2024.05.13
       "how-to-store-data-locally-in-react-native-expo",  // 2024.05.13
+      "zustand-vs-usestate-how-to-manage-state-in-react", // 2024.05.15
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024.04.25
@@ -153,6 +154,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-a-react-chatbot", // 2024.05.10
       "how-to-handle-events-in-react-19", // 2024.05.13
       "how-to-store-data-locally-in-react-native-expo",  // 2024.05.13
+      "zustand-vs-usestate-how-to-manage-state-in-react", // 2024.05.15
     ]],
   ]),
 }

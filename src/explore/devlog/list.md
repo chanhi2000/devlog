@@ -59,7 +59,6 @@ tag:
 
 - [<FontIcon icon="iconfont icon-gradle"/>`open-suite-webapp/build.gradle`](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
 - [Github: Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
-- [\[iOS\]\[SwiftPM\]\[Xcode 13.0\] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
 - [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
 - [okta developer - Build a Secure Spring Data JPA Resource Server](https://developer.okta.com/blog/2020/11/20/spring-data-jpa)
 - [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)

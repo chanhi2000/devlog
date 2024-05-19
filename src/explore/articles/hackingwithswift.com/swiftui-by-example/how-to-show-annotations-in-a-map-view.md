@@ -108,13 +108,13 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-annotations-in-a-map-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-annotations-in-a-map-view-1.zip)
 
-![A map showing Western Europe and the British Isles, with red drawing pins in London and Paris, which are labelled.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-annotations-in-a-map-view-1~dark.png)
+![A map showing Western Europe and the British Isles, with red drawing pins in London and Paris, which are labelled.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-annotations-in-a-map-view-1~dark.png)
 
 That uses the traditional pin style that iOS has had for years, but if you want the larger pin style you can use `MapMarker` instead, like this: `MapMarker(coordinate: $0.coordinate)`
 
-![A map showing Western Europe and the British Isles, with red bubbles over London and Paris.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-annotations-in-a-map-view-2~dark.png)
+![A map showing Western Europe and the British Isles, with red bubbles over London and Paris.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-annotations-in-a-map-view-2~dark.png)
 
 And if you want complete control, you can also pass in completely custom views – some text, an image, a `NavigationLink`, and so on.
 
@@ -128,7 +128,7 @@ MapAnnotation(coordinate: $0.coordinate) {
 }
 ```
 
-![A map showing Western Europe and the British Isles. London and Paris are labelled and circled in red.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-annotations-in-a-map-view-3~dark.png)
+![A map showing Western Europe and the British Isles. London and Paris are labelled and circled in red.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-annotations-in-a-map-view-3~dark.png)
 
 ::: details Similar solutions…
 

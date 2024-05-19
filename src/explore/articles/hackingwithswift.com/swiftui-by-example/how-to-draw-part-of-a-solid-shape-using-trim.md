@@ -62,9 +62,9 @@ Circle()
     .frame(width: 200, height: 200)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-part-of-a-solid-shape-using-trim-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-part-of-a-solid-shape-using-trim-1.zip)
 
-![The bottom half of a circle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-part-of-a-solid-shape-using-trim-1~dark.png)
+![The bottom half of a circle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-part-of-a-solid-shape-using-trim-1~dark.png)
 
 SwiftUI draws its shapes so that 0 degrees is directly to the right, so if you want to change that so 0 degrees is directly up you should apply a `rotationEffect()` modifier.
 
@@ -94,9 +94,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-part-of-a-solid-shape-using-trim-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-part-of-a-solid-shape-using-trim-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-part-of-a-solid-shape-using-trim-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-part-of-a-solid-shape-using-trim-2~dark.mp4" />
 
 You can also use `trim()` with filled shapes, although the result is a little weird when animated.
 

@@ -78,9 +78,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-some-code-when-state-changes-using-onchang-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-some-code-when-state-changes-using-onchang-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-run-some-code-when-state-changes-using-onchange-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-run-some-code-when-state-changes-using-onchange-1~dark.mp4" />
 
 If you're targeting iOS 17 or later, there's a variant that accepts no parameters – you can just read the property directly and be sure to get its new value, which isn't how the single-parameter version worked in iOS 16 and earlier.
 
@@ -101,7 +101,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-some-code-when-state-changes-using-onchang-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-some-code-when-state-changes-using-onchang-2.zip)
 
 And this prints a simple message when the value changes, but by adding `initial: true` also triggers the action closure when the view is shown:
 
@@ -118,7 +118,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-some-code-when-state-changes-using-onchang-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-some-code-when-state-changes-using-onchang-3.zip)
 
 Using `initial: true` is a really helpful way to consolidate functionality – rather than having to do some work in `onAppear()` *and* `onChange()`, you can do it all in one pass.
 
@@ -153,7 +153,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-some-code-when-state-changes-using-onchang-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-some-code-when-state-changes-using-onchang-1.zip)
 
 That being said, please be sure to run your code through Instruments if you do this – using `onChange()` on a view is more performant than adding it to a binding.
 

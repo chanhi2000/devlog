@@ -63,9 +63,9 @@ DisclosureGroup("Show Terms") {
 .frame(width: 300)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-hide-and-reveal-content-using-disclosuregroup-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-hide-and-reveal-content-using-disclosuregroup-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-hide-and-reveal-content-using-disclosuregroup-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-hide-and-reveal-content-using-disclosuregroup-1~dark.mp4" />
 
 If you wanted to track whether the disclosure group was opened or not, bind it to a Boolean like this:
 
@@ -82,7 +82,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-hide-and-reveal-content-using-disclosuregroup-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-hide-and-reveal-content-using-disclosuregroup-2.zip)
 
 You can of course modify the Boolean's state programmatically to control whether the group is expanded or not.
 

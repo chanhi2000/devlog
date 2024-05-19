@@ -22,6 +22,7 @@ head:
       content: How to change the background color of List, TextEditor, and more
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-the-background-color-of-list-texteditor-and-more.html
+next: /explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-in-shapes.md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -64,7 +65,7 @@ List(0..<100) { i in
 .background(.indigo)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more-1.zip)
 
 And this hides the default background for a `TextEditor` and replaces it with a gradient:
 
@@ -80,7 +81,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more-2.zip)
 
 ::: details Similar solutions…
 

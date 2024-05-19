@@ -60,9 +60,9 @@ To load icons from Apple's SF Symbols set, use the `Image(systemName:)` initiali
 Image(systemName: "moon.stars.fill")
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-1.zip)
 
-![A symbol showing the cresent moon and stars.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-1~dark.png)
+![A symbol showing the cresent moon and stars.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-1~dark.png)
 
 The image you get back is scalable and colorable, which means you can ask SwiftUI to scale up the image to match whatever Dynamic Type text style it accompanies, if any:
 
@@ -71,9 +71,9 @@ Image(systemName: "wind.snow")
     .font(.largeTitle)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-2.zip)
 
-![A large symbol showing a gust of wind blowing snowflakes along.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-2~dark.png)
+![A large symbol showing a gust of wind blowing snowflakes along.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-2~dark.png)
 
 And it also means you can tint the image using the same `foregroundStyle()` modifier you've already seen:
 
@@ -83,9 +83,9 @@ Image(systemName: "cloud.heavyrain.fill")
     .foregroundStyle(.red)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-3.zip)
 
-![A red symbol showing a cloud dispensing heavy rain.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-3~dark.png)
+![A red symbol showing a cloud dispensing heavy rain.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-3~dark.png)
 
 If you're using an image that has color elements, you can activate multi-color mode using `.renderingMode(.original)`, like this:
 
@@ -98,9 +98,9 @@ Image(systemName: "cloud.sun.rain.fill")
     .clipShape(Circle())
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-4.zip)
 
-![A black circle on top of which is a symbol which depicts a white cloud dispensing blue rain and partially obscuring a yellow sun.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-4~dark.png)
+![A black circle on top of which is a symbol which depicts a white cloud dispensing blue rain and partially obscuring a yellow sun.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-4~dark.png)
 
 You can optionally apply a `foregroundStyle()` modifier to a multi-color SF Symbol, which will cause part of the symbol to be recolored. For example, this will render part of the icon blue and part green:
 
@@ -111,9 +111,9 @@ Image(systemName: "person.crop.circle.fill.badge.plus")
     .font(.largeTitle)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-render-images-using-sf-symbols-5.zip)
 
-![A symbol showing a circular blue person symbol, overlaid with a circular green plus symbol.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-5~dark.png)
+![A symbol showing a circular blue person symbol, overlaid with a circular green plus symbol.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-render-images-using-sf-symbols-5~dark.png)
 
 ::: details Similar solutions…
 

@@ -65,9 +65,9 @@ Button("Press Me") {
 .clipShape(Capsule())
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/customizing-button-with-buttonstyle-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/customizing-button-with-buttonstyle-1.zip)
 
-![A dark blue capsule shaped button with “Press Me” printed on it in blue.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/customizing-button-with-buttonstyle-1~dark@2x.png)
+![A dark blue capsule shaped button with “Press Me” printed on it in blue.](https://hackingwithswift.com/img/books/quick-start/swiftui/customizing-button-with-buttonstyle-1~dark@2x.png)
 
 That works fine for a single button, but if that’s the standard button design across your entire app you should consider using a custom button style instead. This means creating a new struct that conforms to the 
 `ButtonStyle` protocol, which will pass us the button’s configuration to act on however we want.
@@ -96,9 +96,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/customizing-button-with-buttonstyle-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/customizing-button-with-buttonstyle-2.zip)
 
-![A dark blue capsule shaped button with “Press Me” printed on it in white.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/customizing-button-with-buttonstyle-2~dark@2x.png)
+![A dark blue capsule shaped button with “Press Me” printed on it in white.](https://hackingwithswift.com/img/books/quick-start/swiftui/customizing-button-with-buttonstyle-2~dark@2x.png)
 
 The button configuration we’re passed includes whether the button is currently being pressed or not, so we can us that to adjust our button.
 
@@ -127,7 +127,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/customizing-button-with-buttonstyle-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/customizing-button-with-buttonstyle-3.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/customizing-button-with-buttonstyle-3~dark.mp4" />
 

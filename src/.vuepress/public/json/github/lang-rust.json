@@ -1399,5 +1399,25 @@
     "desc": "Postgres for Search and Analytics",
     "officialSite": "https://paradedb.com",
     "topics": ["aggregations", "analytics", "big-data", "bm25", "database", "datalake", "elasticsearch", "full-text-search", "htap", "hybrid-search", "lakehouse-platform", "mpp", "object-storage", "olap", "postgresql", "real-time-analytics", "self-hosted", "similarity-search", "sparse-vector", "sql"]
+  }, {
+    "repo": "HigherOrderCO/Bend",
+    "desc": "A massively parallel, high-level programming language",
+    "officialSite": "https://higherorderco.com",
+    "topics": []
+  }, {
+    "repo": "HigherOrderCO/HVM",
+    "desc": "A massively parallel, optimal functional runtime in Rust",
+    "officialSite": "https://higherorderco.com",
+    "topics": []
+  }, {
+    "repo": "sigoden/aichat",
+    "desc": "All-in-one AI-Powered CLI Chat & Copilot that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...",
+    "officialSite": "",
+    "topics": ["all-in-one", "azure-openai", "bedrock", "chat", "chatbot", "chatgpt", "claude", "copilot", "gemini", "llama", "localai", "mistral", "moonshot", "ollama", "openai", "qianwen", "repl", "vertexai"]
+  }, {
+    "repo": "HigherOrderCO/Bend",
+    "desc": "A massively parallel, high-level programming language",
+    "officialSite": "https://higherorderco.com",
+    "topics": []
   }
 ]

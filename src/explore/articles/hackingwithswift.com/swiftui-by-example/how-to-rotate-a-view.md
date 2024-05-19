@@ -61,7 +61,7 @@ Text("Up we go")
     .rotationEffect(.degrees(-90))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-1.zip)
 
 ![The text “Up we go” rotated 90 degrees counter-clockwise.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-rotate-a-view-1~dark@2x.png)
 
@@ -72,7 +72,7 @@ Text("Up we go")
     .rotationEffect(.radians(.pi))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-2.zip)
 
 ![The text “Up we go” upside down.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-rotate-a-view-2~dark@2x.png)
 
@@ -93,7 +93,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-3.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-rotate-a-view-3~dark.mp4" />
 
@@ -114,7 +114,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-4.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-rotate-a-view-4~dark.mp4" />
 

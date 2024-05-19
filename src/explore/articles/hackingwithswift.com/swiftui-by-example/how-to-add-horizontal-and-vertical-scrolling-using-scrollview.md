@@ -71,7 +71,7 @@ ScrollView {
 .frame(height: 350)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-1.zip)
 
 Some red squares stretching off of the top and bottom of the image.
 
@@ -91,9 +91,9 @@ ScrollView(.horizontal) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-2.zip)
 
-![Some red squares stretching off of the left and right of the image.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-2~dark.png)
+![Some red squares stretching off of the left and right of the image.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-2~dark.png)
 
 You can specify both axes at the same time using `[.horizontal, .vertical]`.
 
@@ -113,9 +113,9 @@ ScrollView(.horizontal, showsIndicators: false) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-3.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-3~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview-3~dark.mp4" />
 
 ::: details Similar solutions…
 

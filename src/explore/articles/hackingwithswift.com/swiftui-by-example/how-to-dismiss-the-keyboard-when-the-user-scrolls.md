@@ -79,7 +79,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-dismiss-the-keyboard-when-the-user-scrolls-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-dismiss-the-keyboard-when-the-user-scrolls-1.zip)
 
 The `scrollDismissesKeyboard()` modifier can be given one of four values, all of which are useful in their own way:
 

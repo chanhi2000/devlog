@@ -33,7 +33,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 사이트 보안점검을 해봅시다](https://blex.me/@baealex/%EB%B3%B4%EC%95%88)
 

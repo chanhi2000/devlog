@@ -64,7 +64,7 @@ Circle()
     .safeAreaPadding(50)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-extra-padding-to-the-safe-area-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-extra-padding-to-the-safe-area-1.zip)
 
 You can request only some edges by adding a second parameter, like this:
 
@@ -74,7 +74,7 @@ Circle()
     .safeAreaPadding(.horizontal, 50)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-extra-padding-to-the-safe-area-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-extra-padding-to-the-safe-area-2.zip)
 
 And for complete control, you can pass in an `EdgeInsets` object to get exact insets on all four edges:
 
@@ -84,7 +84,7 @@ Circle()
     .safeAreaPadding(.init(top: 20, leading: 50, bottom: 20, trailing: 50))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-extra-padding-to-the-safe-area-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-extra-padding-to-the-safe-area-3.zip)
 
 Things get more interesting when we apply `safeAreaPadding()` to a `ScrollView`, because it ensures our content starts away from the screen edge but still scrolls next to it:
 
@@ -100,7 +100,7 @@ ScrollView(.horizontal) {
 .safeAreaPadding(50)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-extra-padding-to-the-safe-area-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-extra-padding-to-the-safe-area-4.zip)
 
 ::: details Similar solutions…
 

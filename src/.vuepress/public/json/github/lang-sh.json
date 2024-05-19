@@ -389,5 +389,20 @@
     "desc": "\"Randar\" is an exploit for Minecraft which uses LLL lattice reduction to crack the internal state of an incorrectly reused java.util.Random in the Minecraft server, then works backwards from that to locate other players currently loaded into the world.",
     "officialSite": "",
     "topics": ["2b2t", "exploit", "exploitation", "lattice", "lattice-reduction", "lll", "minecraft", "munmap", "papermc", "radar", "randar", "random", "rng", "spawnmason", "spawnmasons"]
+  }, {
+    "repo": "SeleniumHQ/docker-selenium",
+    "desc": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",
+    "officialSite": "http://www.selenium.dev/docker-selenium/",
+    "topics": ["docker", "docker-selenium", "kubernetes", "kubernetes-selenium", "selenium", "selenium-grid", "selenium-node", "selenium-server", "webdriver"]
+  }, {
+    "repo": "netrisdotme/netris",
+    "desc": "[Experimental] Open-source GeForce NOW alternative with Stadia's social features",
+    "officialSite": "https://netris.me",
+    "topics": ["dxvk", "geforcenow", "linux-gaming", "nvidia", "proton", "stadia", "steamdeck", "vkd3d", "wine"]
+  }, {
+    "repo": "netrisdotme/netris",
+    "desc": "[Experimental] Open-source GeForce NOW alternative with Stadia's social features",
+    "officialSite": "https://netris.me",
+    "topics": ["dxvk", "geforcenow", "linux-gaming", "nvidia", "proton", "stadia", "steamdeck", "vkd3d", "wine"]
   }
 ]

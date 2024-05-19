@@ -43,7 +43,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@gauryan` - Rust 바이너리 작게 만들기](https://blex.me/@gauryan/rust-%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC-%EC%9E%91%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0) 
 - [`@gauryan` - Rust: Auto-Reloading Development Server (라이브 리로딩 서](https://blex.me/@gauryan/rust-auto-reloading-development-server-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EB%A6%AC%EB%A1%9C%EB%94%A9-%EC%84%9C)

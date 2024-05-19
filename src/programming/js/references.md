@@ -37,7 +37,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 자바스크립트의 복사](https://blex.me/@baealex/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EB%B3%B5%EC%82%AC)
 - [`@laetipark` - 브롤스타즈 API 전적 사이트 : 개요 및 개발 환경](https://blex.me/@laetipark/%EB%B8%8C%EB%A1%A4%EC%8A%A4%ED%83%80%EC%A6%88-api-%EC%A0%84%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EC%9A%94-%EB%B0%8F-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD)
@@ -143,6 +143,7 @@ tag:
 - [[JavaScript] 자바스크립트 문자열 특정 문자 위치 찾기(`indexOf`, `search`)](https://coding-factory.tistory.com/1055)
 - [[JavaScript] 자바스크립트 문자열 자르기(`substring`, `substr`, `slice`)](https://coding-factory.tistory.com/1056)
 - [[JavaScript] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/1057)
+- [[JavaScript] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/1062)
 
 ---
 
@@ -173,6 +174,12 @@ tag:
 ## utilitybend
 
 - [Invoking elements by using only HTML: A first look at invokers](https://utilitybend.com/blog/invoking-elements-by-using-only-html-a-first-look-at-invokers/)
+
+---
+
+## 일단은 프로그래머 나부랭이
+
+- [웹 페이지에서 영상 또는 음악에 배속 거는 방법](https://this1.tistory.com/98)
 
 ---
 

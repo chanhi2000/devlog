@@ -65,9 +65,9 @@ VStack {
 .accentColor(.orange)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-accent-color-of-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-accent-color-of-a-view-1.zip)
 
-![The text “Press Here” in orange.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-accent-color-of-a-view-1~dark@2x.png)
+![The text “Press Here” in orange.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-accent-color-of-a-view-1~dark@2x.png)
 
 ::: details Similar solutions…
 

@@ -29,7 +29,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@jooss287` - 코드의 수행시간 체크하기](https://velog.io/@jooss287/%EC%BD%94%EB%93%9C%EC%9D%98-%EC%88%98%ED%96%89%EC%8B%9C%EA%B0%84-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0)
 - [`@1106laura` - 백준 30678 별 안에 별 안에 별 찍기 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-30678-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%B0%8D%EA%B8%B0-C)
@@ -37,7 +37,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@wolfsil` - c++ 요약](https://blex.me/@wolfsil/c-%EC%96%B8%EC%96%B4-%EC%9A%94%EC%95%BD)
 
@@ -94,6 +94,9 @@ tag:
 - [[EasyWin32] 클립보드에 저장된 문자열 관리하기 - Step 1](https://blog.naver.com/tipsware/223441304129)
 - [[Q&A] MFC에서 대화 상자 기반이 아닌 프로그램을 만들려면 SDI나 MDI를 사용할 수밖에 없나요?](https://blog.naver.com/tipsware/223440301532)
 - [단어 단위로 문자열 이동하기 - Step 1](https://blog.naver.com/tipsware/223444602512)
+- [[EasyWin32] FillPieDCP 함수 실습 코드 - Step 1](https://blog.naver.com/tipsware/223449171281)
+- [[EasyWin32] FillPieDCP 함수에 대하여](https://blog.naver.com/tipsware/223449026943)
+- [[EasyWin32/Q&amp;A] "FillPieDCP 함수 실습 코드 - Step 1" 자료에서 궁금한 점이 있습니다.](https://blog.naver.com/tipsware/223449193878?)
 
 ---
 
@@ -158,6 +161,7 @@ tag:
 ## 오늘도 개발로그
 
 - [[백준 1039번] 교환](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1039%EB%B2%88-%EA%B5%90%ED%99%98)
+- [[백준 1022번] 소용돌이 예쁘게 출력하기](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1022%EB%B2%88-%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4-%EC%98%88%EC%81%98%EA%B2%8C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
 
 ---
 

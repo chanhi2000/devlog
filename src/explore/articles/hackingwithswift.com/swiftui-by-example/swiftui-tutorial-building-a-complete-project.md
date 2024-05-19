@@ -75,7 +75,7 @@ To get started, please create a new iOS project in Xcode called “iDine”, cho
 
 Xcode's project creation window, configured to create a SwiftUI app.
 
-There are quite a few assets provided for this project that you need to copy in before you start. These are all in the assets for this project, which you can download [<FontIcon icon="fas fa-globe"/>here](https://www.hackingwithswift.com/samples/idine.zip).
+There are quite a few assets provided for this project that you need to copy in before you start. These are all in the assets for this project, which you can download [<FontIcon icon="fas fa-globe"/>here](https://hackingwithswift.com/samples/idine.zip).
 
 Please copy them into your project like this:
 
@@ -84,7 +84,7 @@ Please copy them into your project like this:
 - And drag menu.json into your project navigator too – this describes all the menu items our restaurant offers, and will be decoded into instances of `MenuSection` and `MenuItem`.
 - Drag the contents of the Images directory into your asset catalog, so we have all the pictures we need.
 
-![Dragging our artwork into Xcode's asset catalog.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-2~dark.png)
+![Dragging our artwork into Xcode's asset catalog.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-2~dark.png)
 
 OK, that's it – we're ready to go!
 

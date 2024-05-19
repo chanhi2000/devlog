@@ -10,11 +10,11 @@ tag:
   - blog
   - freecodecamp.org
   - yozm.wishket.com
-  - devtoolstips.org
   - frontendmasters.com
   - piccalil.li
   - meetup.nhncloud.com
   - sitepoint.com
+  - devtoolstips.org
   - css
 head:
   - - meta:
@@ -45,16 +45,6 @@ head:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "DevTools Tips", 
-  "desc": "The collection of tips useful for web development.", 
-  "link": "https://devtoolstips.org", 
-  "logo": "https://devtoolstips.org/assets/logo-small.png", 
-  "background": "rgba(27,44,43,0.2)"
 }
 ```
 
@@ -98,6 +88,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "DevTools Tips", 
+  "desc": "The collection of tips useful for web development.", 
+  "link": "https://devtoolstips.org", 
+  "logo": "https://devtoolstips.org/assets/logo-small.png", 
+  "background": "rgba(27,44,43,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -129,32 +129,6 @@ head:
   "link": "/explore/articles/yozm.wishket.com/2449.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
-}
-```
-
----
-
-## DevTools Tips
-
-> devtoolstips.org
-
-```component VPCard
-{
-  "title": "Disable all CSS styles on the page",
-  "desc": "Devtools Tips > Disable all CSS styles on the page",
-  "link": "/explore/articles/devtoolstips.org/disable-all-css.md",
-  "logo": "https://devtoolstips.org/assets/logo-small.png",
-  "background": "rgba(31,44,43,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Find why a CSS property is overridden",
-  "desc": "Devtools Tips > Find why a CSS property is overridden",
-  "link": "/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.md",
-  "logo": "https://devtoolstips.org/assets/logo-small.png",
-  "background": "rgba(31,44,43,0.2)"
 }
 ```
 
@@ -284,7 +258,7 @@ head:
 {
   "title": "How we’re approaching theming with modern CSS | Piccalilli",
   "desc": "How we’re approaching theming with modern CSS",
-  "link": "https://piccalil.li/news/how-were-approaching-theming-with-modern-css/",
+  "link": "/explore/articles/piccalil.li/how-were-approaching-theming-with-modern-css.md",
   "logo": "https://piccalil.li/favicon.ico",
   "background": "rgba(172,42,81,0.2)"
 }
@@ -294,7 +268,7 @@ head:
 {
   "title": "A primer on the cascade and specificity | Piccalilli",
   "desc": "A primer on the cascade and specificity",
-  "link": "https://piccalil.li/news/a-primer-on-the-cascade-and-specificity/",
+  "link": "/explore/articles/piccalil.li/a-primer-on-the-cascade-and-specificity/",
   "logo": "https://piccalil.li/favicon.ico",
   "background": "rgba(172,42,81,0.2)"
 }
@@ -304,7 +278,17 @@ head:
 {
   "title": "CSS inheritance | Piccalilli",
   "desc": "CSS inheritance",
-  "link": "https://piccalil.li/news/css-inheritance/",
+  "link": "/explore/articles/piccalil.li/css-inheritance.md",
+  "logo": "https://piccalil.li/favicon.ico",
+  "background": "rgba(172,42,81,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "I’m worried about the tabbing behaviour, rather than the syntax and name of CSS masonry | Piccalilli",
+  "desc": "I’m worried about the tabbing behaviour, rather than the syntax and name of CSS masonry",
+  "link": "/explore/articles/piccalil.li/masonry-and-tabbing.md",
   "logo": "https://piccalil.li/favicon.ico",
   "background": "rgba(172,42,81,0.2)"
 }
@@ -369,6 +353,32 @@ head:
   "link": "/explore/articles/sitepoint.com/fluid-typography-css-clamp-function.md",
   "logo": "https://www.sitepoint.com/favicons/512x512.png",
   "background": "rgba(29,32,36,0.2)"
+}
+```
+
+---
+
+## DevTools Tips
+
+> devtoolstips.org
+
+```component VPCard
+{
+  "title": "Disable all CSS styles on the page",
+  "desc": "Devtools Tips > Disable all CSS styles on the page",
+  "link": "/explore/articles/devtoolstips.org/disable-all-css.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Find why a CSS property is overridden",
+  "desc": "Devtools Tips > Find why a CSS property is overridden",
+  "link": "/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
 }
 ```
 

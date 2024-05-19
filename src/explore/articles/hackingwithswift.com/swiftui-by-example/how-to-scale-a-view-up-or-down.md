@@ -62,7 +62,7 @@ Text("Up we go")
     .frame(width: 300, height: 300)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-scale-a-view-up-or-down-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-scale-a-view-up-or-down-1.zip)
 
 ![The large, slightly blurry text “Up we go”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-scale-a-view-up-or-down-1~dark@2x.png)
 
@@ -74,7 +74,7 @@ Text("Up we go")
     .frame(width: 300, height: 300)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-scale-a-view-up-or-down-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-scale-a-view-up-or-down-2.zip)
 
 ![The text “Up we go” stretched vertically.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-scale-a-view-up-or-down-2~dark@2x.png)
 
@@ -88,7 +88,7 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-scale-a-view-up-or-down-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-scale-a-view-up-or-down-3.zip)
 
 ![Two lines, both reading “Up we go”. The upper line is both larger and offset to the left such that the lines' trailing edges align.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-scale-a-view-up-or-down-3~dark@2x.png)
 

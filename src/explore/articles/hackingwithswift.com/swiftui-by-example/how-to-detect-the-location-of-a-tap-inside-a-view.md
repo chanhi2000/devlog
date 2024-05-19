@@ -68,7 +68,7 @@ Circle()
     }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-detect-the-location-of-a-tap-inside-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-detect-the-location-of-a-tap-inside-a-view-1.zip)
 
 “Relative location” means relative to the circle's bounds – as the circle is 100x100 in size, if you tap the exact center it would print 50x50 regardless of where the circle was placed on the screen.
 
@@ -83,7 +83,7 @@ Circle()
     }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-detect-the-location-of-a-tap-inside-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-detect-the-location-of-a-tap-inside-a-view-2.zip)
 
 This `onTapGesture()` variant is available from iOS 16 and later. If you're looking to do something similar on earlier versions of iOS, we can build something similar by wrapping UIKit and sprinkling some SwiftUI sugar on top to make it easy to use.
 
@@ -241,7 +241,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-detect-the-location-of-a-tap-inside-a-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-detect-the-location-of-a-tap-inside-a-view-3.zip)
 
 ::: details Similar solutions…
 

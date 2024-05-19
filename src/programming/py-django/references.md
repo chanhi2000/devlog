@@ -25,13 +25,13 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@qlgks1` / Django - sqlite 는 Json이 text 래요!, sqlite lookup (contains) 오버라이딩 하기](https://velog.io/@qlgks1/Django-sqlite-lookup-contain-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-%ED%95%98%EA%B8%B0)
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - [Bug] Django migrate ->ModuleNotFoundError 에러 대처방법](https://blex.me/@mildsalmon/django-migrate-modulenotfounderror-%EC%97%90%EB%9F%AC-%EB%8C%80%EC%B2%98%EB%B0%A9%EB%B2%95)
 - [`@baealex` - Django migrate 잘 사용하기](https://blex.me/@baealex/django-migrate-%EC%9E%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)

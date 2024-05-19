@@ -65,7 +65,7 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-control-spacing-around-individual-views-using-padding-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-control-spacing-around-individual-views-using-padding-1.zip)
 
 The text “Using” and “SwiftUI” placed some distance above the text “rocks”.
 
@@ -80,7 +80,7 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-control-spacing-around-individual-views-using-padding-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-control-spacing-around-individual-views-using-padding-2.zip)
 
 The text “Using” and “SwiftUI” placed some distance above the text “rocks”.
 
@@ -95,7 +95,7 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-control-spacing-around-individual-views-using-padding-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-control-spacing-around-individual-views-using-padding-3.zip)
 
 The text “SwiftUI” surrounded by lots of whitespace, with the text “Using” above and “rocks” below.
 
@@ -110,7 +110,7 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-control-spacing-around-individual-views-using-padding-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-control-spacing-around-individual-views-using-padding-4.zip)
 
 The text “Using” and “SwiftUI” placed a long distance above the text “rocks”.
 

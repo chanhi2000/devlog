@@ -75,9 +75,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-slider-and-read-values-from-it-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-slider-and-read-values-from-it-1.zip)
 
-![A slider with a blue-grey bar and white handle. Below is the text “0.0 Celsius is 32.0 Fahrenheit”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-slider-and-read-values-from-it-1~dark.png)
+![A slider with a blue-grey bar and white handle. Below is the text “0.0 Celsius is 32.0 Fahrenheit”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-slider-and-read-values-from-it-1~dark.png)
 
 ::: details Similar solutions…
 

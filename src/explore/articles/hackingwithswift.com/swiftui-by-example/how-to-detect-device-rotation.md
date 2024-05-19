@@ -113,7 +113,7 @@ struct ContentView: View {
 }
 ```
 
-![An iPhone in portait orientation showing the word “Portrait” beside another iPhone in landscape orientation showing the word “Landscape”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-detect-device-rotation-1~dark.png)
+![An iPhone in portait orientation showing the word “Portrait” beside another iPhone in landscape orientation showing the word “Landscape”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-detect-device-rotation-1~dark.png)
 
 ::: tip
 

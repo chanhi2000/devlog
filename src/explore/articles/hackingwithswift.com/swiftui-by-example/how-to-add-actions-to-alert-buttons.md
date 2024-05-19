@@ -88,9 +88,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-actions-to-alert-buttons-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-actions-to-alert-buttons-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-actions-to-alert-buttons-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-actions-to-alert-buttons-1~dark.mp4" />
 
 There is no way to add more than two buttons to an alert – if you’re looking to do that you should use an action sheet instead.
 

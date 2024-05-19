@@ -44,13 +44,14 @@ head:
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about Vue](https://dev.to/t/vue)
-- [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
+- [`_masahiro_h_` / Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
+- [`jaydevm` / Things that I like better in Vue than in React](https://dev.to/jaydevm/things-that-i-like-better-in-vue-than-in-react-56o3)
 
 
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@qkrtkdwns3410` - Vue3 + Spring Data Elasticsearch 를 통한 한글 자동완성 API](https://velog.io/@qkrtkdwns3410/Vue3-Spring-Data-Elasticsearch-%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%9C%EA%B8%80-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-API)
 

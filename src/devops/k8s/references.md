@@ -66,7 +66,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@Su-per` - [Kubernetes] kubectl 기본 명령어 정리](https://blex.me/@Su-per/kubernetes-kubectl-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 
@@ -164,7 +164,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@synoti21` - 쿠버네티스 입문의 모든 것](https://velog.io/@synoti21/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
 - [`@hanblueblue` - [쿠버네티스] 2. 워크로드 - 파드(1)](https://velog.io/@hanblueblue/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-2.-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C-%ED%8C%8C%EB%93%9C)
@@ -213,6 +213,18 @@ tag:
 ## LinuxTechi: Linux Howtos, Commands and Tutorials
 
 - [How to Configure NGINX as TCP/UDP Load Balancer in Linux](https://www.linuxtechi.com/configure-nginx-tcp-udp-loadbalancer-linux)
+
+---
+
+## Hackernoon
+
+- [How to Work With the Kubectl Debug Command](https://hackernoon.com/how-to-work-with-the-kubectl-debug-command)
+
+---
+
+## 134130
+
+- [쿠버네티스 접근제어 개발 회고](https://134130.tistory.com/20)
 
 ---
 

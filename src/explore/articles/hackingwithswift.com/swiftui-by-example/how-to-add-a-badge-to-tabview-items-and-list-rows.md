@@ -68,9 +68,9 @@ TabView {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-badge-to-tabview-items-and-list-rows-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-badge-to-tabview-items-and-list-rows-1.zip)
 
-![Some text above a blue label. The label's house icon has a circular red badge in the top right containing the number 5.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-badge-to-tabview-items-and-list-rows-1~dark@2x.png)
+![Some text above a blue label. The label's house icon has a circular red badge in the top right containing the number 5.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-badge-to-tabview-items-and-list-rows-1~dark@2x.png)
 
 Badges work just as well with list rows, and automatically appear as right-aligned text in a secondary color. For example, we could make static list rows similar to the iOS Settings app like this:
 
@@ -84,9 +84,9 @@ List {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-badge-to-tabview-items-and-list-rows-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-badge-to-tabview-items-and-list-rows-2.zip)
 
-![A list of two rows, containing “Wi-Fi” beside “LAN Solo”, and “Bluetooth” beside “On”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-badge-to-tabview-items-and-list-rows-2~dark@2x.png)
+![A list of two rows, containing “Wi-Fi” beside “LAN Solo”, and “Bluetooth” beside “On”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-badge-to-tabview-items-and-list-rows-2~dark@2x.png)
 
 ::: details Similar solutions…
 

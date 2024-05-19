@@ -64,7 +64,7 @@ Circle()
     .padding()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-1.zip)
 
 And you can create *inner* shadows for those shapes just as easily:
 
@@ -74,7 +74,7 @@ Circle()
     .padding()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-2.zip)
 
 You can control the color, radius, and position of the shadow, and you can also control which parts of the view get shadowed by adjusting your modifier order.
 
@@ -89,9 +89,9 @@ Text("Hacking with Swift")
     .background(.white)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-3.zip)
 
-![The text “Hacking with Swift” in black on a white rectangle with a thick red border. The text has a hazy gray shadow behind it.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-shadow-around-a-view-1~dark@2x.png)
+![The text “Hacking with Swift” in black on a white rectangle with a thick red border. The text has a hazy gray shadow behind it.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-shadow-around-a-view-1~dark@2x.png)
 
 That adds a very slight shadow with a 5-point blur centered on the text.
 
@@ -104,9 +104,9 @@ Text("Hacking with Swift")
     .border(.red, width: 4)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-3.zip)
 
-![The text “Hacking with Swift” with a hazy red shadow behind it.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-shadow-around-a-view-2~dark@2x.png)
+![The text “Hacking with Swift” with a hazy red shadow behind it.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-shadow-around-a-view-2~dark@2x.png)
 
 If you want to specify offsets for the shadow, add `x` and/or `y` parameters to the modifier, like this:
 
@@ -117,9 +117,9 @@ Text("Hacking with Swift")
     .border(.red, width: 4)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-3.zip)
 
-![The text “Hacking with Swift” centered in a red rectangular outline. Along the rectangle's bottom edge is a hazy red cloud.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-shadow-around-a-view-3~dark@2x.png)
+![The text “Hacking with Swift” centered in a red rectangular outline. Along the rectangle's bottom edge is a hazy red cloud.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-shadow-around-a-view-3~dark@2x.png)
 
 Remember, SwiftUI applies modifiers in the order you list them, so if you want you can have your shadow apply to the border as well just by putting the border modifier before the shadow modifier:
 
@@ -130,9 +130,9 @@ Text("Hacking with Swift")
     .shadow(color: .red, radius: 5, x: 20, y: 20)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-shadow-around-a-view-3.zip)
 
-![The text “Hacking with Swift” centered in a red rectangular outline. Behind and to the bottom right is a blurry shadow of the text and outline.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-shadow-around-a-view-4~dark@2x.png)
+![The text “Hacking with Swift” centered in a red rectangular outline. Behind and to the bottom right is a blurry shadow of the text and outline.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-shadow-around-a-view-4~dark@2x.png)
 
 ::: tip
 

@@ -2,14 +2,19 @@
 lang: ko-KR
 title: Find memory leaks by comparing heap snapshots
 description: Article(s) > Find memory leaks by comparing heap snapshots
-icon: iconfont icon-template
+icon: fa-brands fa-chrome
 category: 
   - Browser
+  - Google
+  - Google Chrome
   - Article(s)
 tag: 
   - blog
   - devtoolstips.org
   - performance
+  - google
+  - googlechrome
+  - google-chrome
 head:  
   - - meta:
     - property: og:title
@@ -18,9 +23,20 @@ head:
       content: Find memory leaks by comparing heap snapshots
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/find-memory-leaks.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -36,7 +52,15 @@ head:
 }
 ```
 
+> 2023.07.10
+
 <!-- TODO: 내용 채우기 -->
+
+::: details See also
+
+- [Get detached DOM elements to investigate memory leaks](https://devtoolstips.org/tips/en/get-detached-elements)
+
+:::
 
 ---
 

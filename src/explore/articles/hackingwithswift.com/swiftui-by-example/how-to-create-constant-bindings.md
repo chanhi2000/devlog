@@ -62,9 +62,9 @@ Toggle(isOn: .constant(true)) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-constant-bindings-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-constant-bindings-1.zip)
 
-![The text “Show advanced options” beside a green toggle which is turned on.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-constant-bindings-1~dark.png)
+![The text “Show advanced options” beside a green toggle which is turned on.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-constant-bindings-1~dark.png)
 
 That switch is read-only and always on because that's what our constant binding says, but it's enough to get you moving for now – you can come back and replace it with a full `@State` property later.
 

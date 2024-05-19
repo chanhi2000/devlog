@@ -25,6 +25,7 @@ tag:
 ## OpenAI
 
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
+- [Improvements to data analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
 
 ### Documentation
 
@@ -73,7 +74,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@2170004487z` - 왜 ChatGPT로 영어를 배워야 하는가?](https://blex.me/@2170004487z/%EC%99%9C-chatgpt%EB%A1%9C-%EC%98%81%EC%96%B4%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)
 
@@ -353,6 +354,17 @@ tag:
 
 ---
 
+## Pega Devlog
+
+- [DALL.E inpainting으로 그림 그리기](https://jehyunlee.github.io/2024/05/19/General-51-dalleinpainting/)
+
+---
+
+## BleepingComputer | Cybersecurity, Technology News and Support
+
+- [It's surprisingly difficult for AI to create just a plain white image](https://www.bleepingcomputer.com/news/technology/its-surprisingly-difficult-for-ai-to-create-just-a-plain-white-image/)
+
+---
 
 <TagLinks />
 

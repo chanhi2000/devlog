@@ -68,7 +68,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-the-user-select-multiple-dates-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-the-user-select-multiple-dates-1.zip)
 
 However, chances are you're going to want to convert those date components to real dates, in which case you'll want to read the user's calendar from the environment and convert the data as needed:
 
@@ -94,7 +94,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-the-user-select-multiple-dates-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-the-user-select-multiple-dates-2.zip)
 
 By default, the user is able to choose any dates they like, but you can also restrict their selection to a range of your choosing. For example, this code allows them to select any date from today onwards, but nothing earlier:
 
@@ -120,7 +120,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-the-user-select-multiple-dates-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-the-user-select-multiple-dates-3.zip)
 
 ::: details Similar solutions…
 

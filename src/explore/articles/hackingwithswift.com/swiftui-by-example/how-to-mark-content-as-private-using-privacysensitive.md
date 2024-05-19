@@ -72,10 +72,10 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-private-using-privacysensitive-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-private-using-privacysensitive-1.zip)
 
 
-![The text “Card Number” over a long string of digits.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-private-using-privacysensitive-1~dark.png)
+![The text “Card Number” over a long string of digits.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-private-using-privacysensitive-1~dark.png)
 
 By default, privacy sensitive context is masked out with a gray box, but you can also provide custom layout by reading the redaction reasons from the environment:
 
@@ -98,10 +98,10 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-private-using-privacysensitive-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-private-using-privacysensitive-2.zip)
 
 
-![The text “Card Number” over the placeholder text “[HIDDEN]”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-private-using-privacysensitive-2~dark.png)
+![The text “Card Number” over the placeholder text “[HIDDEN]”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-private-using-privacysensitive-2~dark.png)
 
 Sometimes the system will apply privacy redaction automatically, such as if your widget appears on the Lock Screen (when the user swipes to the left), or if they have their Apple Watch set to always-on and your app is visible – these are both good places where you should mark things as being privacy sensitive.
 

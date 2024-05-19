@@ -63,7 +63,7 @@ Text("Round Me")
     .cornerRadius(15)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-round-the-corners-of-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-round-the-corners-of-a-view-1.zip)
 
 ![The text “Round Me” in a red rounded rectangle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-round-the-corners-of-a-view-1~dark@2x.png)
 
@@ -76,7 +76,7 @@ Text("Round Me")
     .clipShape(Capsule())
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-round-the-corners-of-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-round-the-corners-of-a-view-2.zip)
 
 ![The text “Round Me” in a red capsule or pill shape.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-round-the-corners-of-a-view-2~dark@2x.png)
 

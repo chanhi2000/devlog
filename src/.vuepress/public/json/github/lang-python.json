@@ -876,9 +876,9 @@
     "officialSite": ""
   }, {
     "repo": "zhayujie/chatgpt-on-wechat",
-    "desc": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+    "desc": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
     "officialSite": "https://docs.link-ai.tech/cow",
-    "topics": ["ai", "chatglm-4", "chatgpt", "dingtalk", "feishu-bot", "gemini", "glm", "gpt-4", "linkai", "llm", "openai", "python3", "qwen", "rag", "wechat", "wechat-bot", "wenxinyiyan", "xunfei-spark"]
+    "topics": ["ai", "chatglm-4", "chatgpt", "claude3", "dingtalk", "feishu-bot", "gemini", "glm", "gpt-4", "kimi", "linkai", "llm", "openai", "python3", "qwen", "rag", "wechat", "wechat-bot", "wenxinyiyan", "xunfei-spark"]
   }, {
     "repo": "Josh-XT/Agent-LLM",
     "desc": "An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.",
@@ -1701,9 +1701,9 @@
     "officialSite": ""
   }, {
     "repo": "yt-dlp/yt-dlp",
-    "desc": "A youtube-dl fork with additional features and fixes",
-    "topics": ["python", "youtube-dl", "video-downloader", "youtube-downloader", "sponsorblock", "youtube-dlc", "sponskrub", "yt-dlp"],
-    "officialSite": "https://discord.gg/H5MNcFW63r"
+    "desc": "A feature-rich command-line audio/video downloader",
+    "officialSite": "https://discord.gg/H5MNcFW63r",
+    "topics": ["python", "sponskrub", "sponsorblock", "video-downloader", "youtube-dl", "youtube-dlc", "youtube-downloader", "yt-dlp"]
   }, {
     "repo": "jncraton/languagemodels",
     "desc": "Explore large language models on any computer with 512MB of RAM",
@@ -4071,7 +4071,7 @@
     "topics": []
   }, {
     "repo": "phidatahq/phidata",
-    "desc": "Add memory, knowledge and tools to LLMs",
+    "desc": "Build AI Assistants with memory, knowledge and tools.",
     "officialSite": "https://docs.phidata.com",
     "topics": ["ai", "aws", "developer-tools", "gpt-4", "llm", "llmops", "python"]
   }, {
@@ -4895,11 +4895,6 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "phidatahq/phidata",
-    "desc": "Build AI Assistants with memory, knowledge and tools.",
-    "officialSite": "https://docs.phidata.com",
-    "topics": ["ai", "aws", "developer-tools", "gpt-4", "llm", "llmops", "python"]
-  }, {
     "repo": "langchain-ai/langgraph",
     "desc": "",
     "officialSite": "https://langchain-ai.github.io/langgraph/",
@@ -4961,7 +4956,7 @@
     "topics": ["bittorrent", "decentralized", "p2p", "privacy", "python", "search", "streaming", "tor", "torrent-client"]
   }, {
     "repo": "TagStudioDev/TagStudio",
-    "desc": "A file and photo management application and system.",
+    "desc": "A User-Focused Photo & Document Management System",
     "officialSite": "",
     "topics": ["file-manager", "organizer", "photo-gallery", "photo-organizer"]
   }, {
@@ -5189,5 +5184,40 @@
     "desc": "Open Source framework for voice and multimodal conversational AI",
     "officialSite": "https://pipecat.ai",
     "topics": ["ai", "chatbot-framework", "chatbots", "real-time", "voice", "voice-assistant"]
+  }, {
+    "repo": "likejazz/llama3.np",
+    "desc": "llama3.np is pure NumPy implementation for Llama 3 model.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ngc660sec/NGCBot",
+    "desc": "一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！",
+    "officialSite": "",
+    "topics": ["bot", "crawler", "security", "wei-xin", "weixin", "wxbot"]
+  }, {
+    "repo": "Azure-Samples/chat-with-your-data-solution-accelerator",
+    "desc": "A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.",
+    "officialSite": "https://azure.microsoft.com/products/search",
+    "topics": ["ai-search", "azd-templates", "azure", "azure-openai", "openai"]
+  }, {
+    "repo": "Efficient-Large-Model/VILA",
+    "desc": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "punica-ai/punica",
+    "desc": "Serving multiple LoRA finetuned LLM as one",
+    "officialSite": "https://arxiv.org/abs/2310.18547",
+    "topics": ["large-language-models", "llm", "lora"]
+  }, {
+    "repo": "predibase/lorax",
+    "desc": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+    "officialSite": "https://loraexchange.ai",
+    "topics": ["fine-tuning", "gpt", "llama", "llm", "llm-inference", "llm-serving", "llmops", "lora", "model-serving", "pytorch", "transformers"]
+  }, {
+    "repo": "weaviate/Verba",
+    "desc": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+    "officialSite": "",
+    "topics": []
   }
 ]

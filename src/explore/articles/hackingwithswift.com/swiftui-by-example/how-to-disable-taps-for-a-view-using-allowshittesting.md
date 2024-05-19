@@ -72,9 +72,9 @@ ZStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-disable-taps-for-a-view-using-allowshittesting-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-disable-taps-for-a-view-using-allowshittesting-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-disable-taps-for-a-view-using-allowshittesting-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-disable-taps-for-a-view-using-allowshittesting-1~dark.mp4" />
 
 Even though the rectangle is on top of the button, it has `allowsHitTesting(false)` – any taps on the rectangle won't be trapped by the rectangle, but instead passed through to the button below.
 

@@ -80,9 +80,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-implicit-stacking-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-implicit-stacking-1.zip)
 
-![A list of three rows with an image of Paul Hudson beside the word “Anonymous”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-implicit-stacking-1@2x.png)
+![A list of three rows with an image of Paul Hudson beside the word “Anonymous”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-implicit-stacking-1@2x.png)
 
 Notice how we don't need to place the image and text views into a `HStack` to have them rendered side by side – SwiftUI figures it out for us.
 

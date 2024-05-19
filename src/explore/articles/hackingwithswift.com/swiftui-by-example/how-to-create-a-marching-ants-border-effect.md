@@ -63,9 +63,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-marching-ants-border-effect-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-marching-ants-border-effect-1.zip)
 
-![A dotted line outlining a rectangular area.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-marching-ants-border-effect-1~dark@2x.png)
+![A dotted line outlining a rectangular area.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-marching-ants-border-effect-1~dark@2x.png)
 
 Using `[10]` for the `dash` parameter means SwiftUI will draw 10 points of our stroke then 10 points of space, repeating that pattern until the entire rectangle has been stroked. It’s an array because you can provide more than one value, such as `[10, 5]`, to mean “10 points of stroke then a 5-point gap.”
 
@@ -90,7 +90,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-marching-ants-border-effect-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-marching-ants-border-effect-2.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-marching-ants-border-effect-2~dark.mp4" />
 

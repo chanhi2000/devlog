@@ -83,7 +83,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@kho5420` / 🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [`@phyyou` / 패키지를 막 가져다 쓰는 것의 해로움 :: lol.ps](https://velog.io/@phyyou/%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EB%A7%89-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%93%B0%EB%8A%94-%EA%B2%83%EC%9D%98-%EB%B3%B4%EC%95%88%EB%AC%B8%EC%A0%9C%EC%A0%90-lol.ps)
@@ -105,6 +105,8 @@ tag:
 - [Guide to managing environment variables with Infisical + Python](https://medium.com/@tony.infisical/guide-to-managing-environment-variables-with-infisical-python-9d26ab07b387)
 - [Python: Uncovering the Overlooked Core Functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 - [[python] 버전 변경](https://medium.com/%EB%8F%84%EA%B9%A8%EB%B9%84-%EC%9D%B4%EC%95%BC%EA%B8%B0/python-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-03cece908cac)
+- [`lemonbase` / 이거 어디까지 올라가는 거예요? - 성능 테스트 환경 구축기](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
+- [`jhk0530` / Quarto 블로그에서 여러 언어로 포스팅하기](https://jhk0530.medium.com/quarto-blog-multilanguage-e04dd562ba5c)
 
 ---
 
@@ -115,7 +117,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - [이.취.코] [프로그래머스] Chap 12. 구현 - Q12. 기둥과 보 설치](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-chap-12-%EA%B5%AC%ED%98%84-q12-%EA%B8%B0%EB%91%A5%EA%B3%BC-%EB%B3%B4-%EC%84%A4%EC%B9%98)
 - [`@mildsalmon` - [이.취.코] [백준] Chap 12. 구현 - Q11. 뱀](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-%EB%B0%B1%EC%A4%80-chap-12-%EA%B5%AC%ED%98%84-q11-%EB%B1%80)
@@ -619,6 +621,9 @@ tag:
 - [CoreNet으로 OpenELM 모델을 사용해보기](https://webnautes.tistory.com/2329)
 - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/1842)
 - [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/2328)
+- [`np.kron`를 사용하여 NumPy 배열을 확대하기](https://webnautes.tistory.com/2331)
+- [Python if문 내부에 있는 조건별로 주석 달기](https://webnautes.tistory.com/2333)
+- [OpenCV Python 마우스 이벤트 예제](https://webnautes.tistory.com/2334)
 
 ---
 
@@ -838,6 +843,7 @@ tag:
 - [[PyTorch] DataLoader 멀티프로세싱하기](https://sonseungha.tistory.com/717)
 - [[Tensorflow/keras] Tensorflow용 DataLoader 만들기](https://sonseungha.tistory.com/718)
 - [학습률 웜업(Learning Rate WarmUp)에 대한 이해](https://sonseungha.tistory.com/720)
+- [[Poetry] `requirements.txt` 파일로 Poetry에 `import` 하기](https://sonseungha.tistory.com/723)
 
 ---
 
@@ -876,6 +882,7 @@ tag:
 ## Be an Overachiever
 
 - [[Keras] model.predict(x) vs model(x)](https://devs0n.tistory.com/165)
+- [Classification task에서 Cross-Entropy](https://devs0n.tistory.com/163)
 
 ---
 
@@ -945,6 +952,30 @@ tag:
 ## Win Vector LLC - Data science advising, consulting, and training
 
 - [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
+
+---
+
+## The Missing Papers · Sang Park
+    
+- [NumPy로 구현하는 라마 3 모델](https://docs.likejazz.com/llama3.np-ko/)
+
+---
+
+## 게으른맽랩 lazy matlab
+
+- [게으른 예외처리는 독이 될 수도 있다.](https://lazymatlab.tistory.com/232)
+
+---
+
+## Hugging Face
+
+- [Video-LLaVA](https://huggingface.co/docs/transformers/main/en/model_doc/video_llava)
+
+---
+
+## Jina AI - Your Search Foundation, Supercharged.
+
+- [Binary Embeddings: All the AI, 3.125% of the Fat](https://jina.ai/news/binary-embeddings-all-the-ai-3125-of-the-fat/)
 
 ---
 

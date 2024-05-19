@@ -60,13 +60,13 @@ SwiftUI has a dedicated `AsyncImage` for downloading and displaying remote image
 AsyncImage(url: URL(string: "https://hws.dev/paul.jpg"))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-load-a-remote-image-from-a-url-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-load-a-remote-image-from-a-url-1.zip)
 
-![A phone showing an image of Paul Hudson.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-1~dark.png)
+![A phone showing an image of Paul Hudson.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-1~dark.png)
 
 Note how the URL is optional – the `AsyncImage` will simply show a default gray placeholder if the URL string is invalid. And if the image can't be loaded for some reason – if the user is offline, or if the image doesn't exist – then the system will continue showing the same placeholder image.
 
-![A phone showing a large gray placeholder rectangle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-2~dark.png)
+![A phone showing a large gray placeholder rectangle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-2~dark.png)
 
 Because SwiftUI has no idea how big the downloaded image is going to be, by default `AsyncImage` has a flexible width and height while it's loading. As a result, unless you specify otherwise it will take up a lot of space in your UI while the image loads, then jump to the correct size as soon as the image is loaded.
 
@@ -83,11 +83,11 @@ AsyncImage(url: URL(string: "https://hws.dev/paul.jpg")) { image in
 .clipShape(RoundedRectangle(cornerRadius: 25))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-load-a-remote-image-from-a-url-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-load-a-remote-image-from-a-url-2.zip)
 
-![A rounded red rectangle as a placeholder.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-3~dark.png)
+![A rounded red rectangle as a placeholder.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-3~dark.png)
 
-![An image with rounded corners of Paul Hudson smiling.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-4~dark.png)
+![An image with rounded corners of Paul Hudson smiling.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-4~dark.png)
 
 Because both the resulting image and the placeholder color are now resizable, the `frame()` modifier is able to make sure our `AsyncImage` stays at the correct size the entire time. Before you ask: no, there is no `resizable()` modifier available directly on `AsyncImage`.
 
@@ -101,9 +101,9 @@ By default the image is assumed to have a scale of 1, meaning designed for non-r
 AsyncImage(url: URL(string: "https://hws.dev/paul.jpg"), scale: 2)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-load-a-remote-image-from-a-url-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-load-a-remote-image-from-a-url-3.zip)
 
-![An image of Paul Hudson.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-5~dark.png)
+![An image of Paul Hudson.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-load-a-remote-image-from-a-url-5~dark.png)
 
 For full control over your `AsyncImage`, you should use a single-closure variant of `AsyncImage` that handles the loading phase. This approach gives you complete control over the image loading process, allowing you to show one thing when the image is loaded, another thing if the load failed, and of course the image itself when it succeeded.
 
@@ -130,7 +130,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-load-a-remote-image-from-a-url-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-load-a-remote-image-from-a-url-4.zip)
 
 ::: details Similar solutions…
 

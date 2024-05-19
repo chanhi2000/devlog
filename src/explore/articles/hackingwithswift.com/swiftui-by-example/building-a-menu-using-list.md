@@ -85,7 +85,7 @@ In the event that Xcode's preview area stops – which will happen quite often �
 
 __This is really important so I'm repeating it: pressing <kbd>Cmd</kbd>+<kbd>Opt</kbd>+<kbd>P</kbd> will make your SwiftUI preview update.__
 
-![Xcode showing code on one side and the SwiftUI preview area on the other side.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-3~dark.png)
+![Xcode showing code on one side and the SwiftUI preview area on the other side.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-3~dark.png)
 
 In our app this screen will show us a list of items from a menu, so we're going to use a `List` view instead of Xcode's default template code.
 
@@ -136,7 +136,7 @@ NavigationStack {
 
 Yes, the modifier is attached to the list rather than the navigation stack – think of how we'd set the title of a `UIViewController` rather than try to set the title of a `UINavigationController`.
 
-![Xcode showing code with three list items, and the SwiftUI preview showing that rendered in a virtual device.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-4~dark.png)
+![Xcode showing code with three list items, and the SwiftUI preview showing that rendered in a virtual device.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-4~dark.png)
 
 If you try running the app now you'll see that it all works exactly as we would expect – the table scrolls around, the navigation bar shrinks as you scroll, and so on. One of the great things that SwiftUI does is give us modern system behavior by default, so we get large navigation bar titles as standard.
 
@@ -214,7 +214,7 @@ List {
 
 Now you'll see lots of table rows, with some containing section names (“Breakfast”, “Mains”, etc) and some containing menu item names (“Full English”, “Superfood Salad”, etc).
 
-![Xcode showing a SwiftUI list with many items, and a navigation bar at the top. Next to it is the code required to make the preview.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-5~dark.png)
+![Xcode showing a SwiftUI list with many items, and a navigation bar at the top. Next to it is the code required to make the preview.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-5~dark.png)
 
 While this works, it's not ideal – it doesn't create any visual structure in our table, so we're going to break it up. The standard UIKit way of doing this is with table view sections, and SwiftUI gives us the `Section` view just for that. We can replace `Text(section.name)` with a Section using the section name for its title, which will be used as the text at the start of the section. The inner `ForEach` – the one containing our menu items – is then _inside_ the section, so SwiftUI will understand how we've grouped things together.
 
@@ -238,7 +238,7 @@ By default SwiftUI's lists use the “inset grouped” style of `UITableView`, b
 .listStyle(.grouped)
 ```
 
-![The SwiftUI list is now split neatly into grouped sections.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-6~dark.png)
+![The SwiftUI list is now split neatly into grouped sections.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-6~dark.png)
 
 ::: details Similar solutions…
 

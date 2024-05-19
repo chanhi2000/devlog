@@ -61,9 +61,9 @@ Text("Hacking with Swift")
     .border(.green)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-around-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-around-a-view-1.zip)
 
-![The text “Hacking with Swift” with a thin rectangular green border. There is almost no space between the text's edges and the border.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-around-a-view-1~dark@2x.png)
+![The text “Hacking with Swift” with a thin rectangular green border. There is almost no space between the text's edges and the border.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-around-a-view-1~dark@2x.png)
 
 If you want to make the border so that it doesn’t sit right on the edges of your view, add some padding first:
 
@@ -73,9 +73,9 @@ Text("Hacking with Swift")
     .border(.green)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-around-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-around-a-view-2.zip)
 
-![The text “Hacking with Swift” with a thin rectangular green border. There is space around the text between its edges and the border.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-around-a-view-2~dark@2x.png)
+![The text “Hacking with Swift” with a thin rectangular green border. There is space around the text between its edges and the border.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-around-a-view-2~dark@2x.png)
 
 This adds a 4-point red border:
 
@@ -85,9 +85,9 @@ Text("Hacking with Swift")
     .border(.red, width: 4)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-around-a-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-around-a-view-3.zip)
 
-![The text “Hacking with Swift” with a thick rectangular red border.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-around-a-view-3~dark@2x.png)
+![The text “Hacking with Swift” with a thick rectangular red border.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-around-a-view-3~dark@2x.png)
 
 If you want anything more advanced – e.g., if you want to round the corners of your border – you need to use the `overlay()` modifier instead. For example, this adds a 4-point blue border with 16-point rounded corners:
 
@@ -100,9 +100,9 @@ Text("Hacking with Swift")
     )
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-around-a-view-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-around-a-view-4.zip)
 
-![The text “Hacking with Swift” with a thick blue rounded-rectangular border.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-around-a-view-4~dark@2x.png)
+![The text “Hacking with Swift” with a thick blue rounded-rectangular border.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-around-a-view-4~dark@2x.png)
 
 ::: tip
 

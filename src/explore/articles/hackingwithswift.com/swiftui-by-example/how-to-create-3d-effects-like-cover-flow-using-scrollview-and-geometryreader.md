@@ -76,9 +76,9 @@ ScrollView(.horizontal, showsIndicators: false) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-3d-effects-like-cover-flow-using-scrollview-and-geometryreader-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-3d-effects-like-cover-flow-using-scrollview-and-geometryreader-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-3d-effects-like-cover-flow-using-scrollview-and-geometryreader-1~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-3d-effects-like-cover-flow-using-scrollview-and-geometryreader-1~dark.mp4 "/>
 
 You don't always need to use `GeometryReader` to get interesting effects like – you could something similar with a `DragGesture()`, for example. So, this code creates a card-like rectangle that can be dragged around in both X and Y axes, and uses two `rotation3DEffect()` modifiers to apply values from that drag:
 
@@ -110,7 +110,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-3d-effects-like-cover-flow-using-scrollview-and-geometryreader-2.zip.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-3d-effects-like-cover-flow-using-scrollview-and-geometryreader-2.zip.zip)
 
 As you drag the card around you'll see it rotates to give a perspective effect.
 

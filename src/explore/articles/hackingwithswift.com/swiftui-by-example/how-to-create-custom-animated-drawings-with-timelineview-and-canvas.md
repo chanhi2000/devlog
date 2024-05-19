@@ -123,7 +123,7 @@ struct ContentView: View {
 
 That’s not a huge amount of code, but it already creates a pretty compelling effect. From here you can start to consider things like having different opacities for raindrops, placing them at a slight angle, and more.
 
-Over on Hacking with Swift+ I have a whole series of tutorials teaching you how to recreate the particle effects in Apple’s Weather app using `Canvas` and `TimelineView`: [<FontIcon icon="fas fa-globe"/>](https://www.hackingwithswift.com/plus/remaking-apps).
+Over on Hacking with Swift+ I have a whole series of tutorials teaching you how to recreate the particle effects in Apple’s Weather app using `Canvas` and `TimelineView`: [<FontIcon icon="fas fa-globe"/>](https://hackingwithswift.com/plus/remaking-apps).
 
 ::: details Similar solutions…
 

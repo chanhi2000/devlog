@@ -74,9 +74,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-an-inspector-to-any-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-an-inspector-to-any-view-1.zip)
 
-![A button that opens then closes an inspector window when pressed.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-an-inspector-to-any-view-1@2x.gif)
+![A button that opens then closes an inspector window when pressed.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-an-inspector-to-any-view-1@2x.gif)
 
 When there's lots of space, such as with full-screen iPad apps or macOS, the inspector sits alongside the button. However, when space is restricted such as on iPhone, the inspector slides up as a sheet.
 
@@ -99,9 +99,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-an-inspector-to-any-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-an-inspector-to-any-view-2.zip)
 
-![A button that opens then closes an inspector window when pressed, but this time the inspector starts small.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-an-inspector-to-any-view-2~dark@2x.gif)
+![A button that opens then closes an inspector window when pressed, but this time the inspector starts small.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-an-inspector-to-any-view-2~dark@2x.gif)
 
 The ideal size will be used for your inspector's size when it's first shown, but the system will remember changes from the user.
 

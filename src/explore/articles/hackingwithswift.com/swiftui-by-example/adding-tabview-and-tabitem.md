@@ -123,7 +123,7 @@ What I love about this approach is that we're not doing the real heavy lifting o
 
 In the background, any view that relies on an environment object will be refreshed when it announces changes. In practice that means SwiftUI will re-invoke the `body` property, which in turn means everything inside `body` will read the latest values from the environment.
 
-![A close up of a SwiftUI tab bar, showing tabs for `Menu` and `Order`.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-11~dark.png)
+![A close up of a SwiftUI tab bar, showing tabs for `Menu` and `Order`.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-11~dark.png)
 
 ::: details Similar solutions…
 

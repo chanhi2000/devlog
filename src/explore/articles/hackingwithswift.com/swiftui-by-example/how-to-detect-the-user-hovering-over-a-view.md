@@ -70,9 +70,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-detect-the-user-hovering-over-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-detect-the-user-hovering-over-a-view-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-detect-the-user-hovering-over-a-view-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-detect-the-user-hovering-over-a-view-1~dark.mp4" />
 
 The `hoverEffect()` modifier allows you to choose one of three ways the system can highlight the view when a hover happens: `.highlight` transforms the pointer into the shape of the view while creating a gentle directional effect, `.lift` transforms the pointer into the shape of the view while scaling up the view and placing a soft shadow behind it, and `.automatic` selects whichever highlight effect it thinks is most appropriate.
 
@@ -93,9 +93,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-detect-the-user-hovering-over-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-detect-the-user-hovering-over-a-view-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-detect-the-user-hovering-over-a-view-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-detect-the-user-hovering-over-a-view-2~dark.mp4" />
 
 ::: tip
 

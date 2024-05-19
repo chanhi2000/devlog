@@ -62,7 +62,7 @@ For example, this shows a Wi-Fi icon that is partly filled in:
 Image(systemName: "wifi", variableValue: 0.5)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-dynamically-adjust-the-color-of-an-sf-symbol-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-dynamically-adjust-the-color-of-an-sf-symbol-1.zip)
 
 This value can change over time based on whatever state you're using in your code. For example, we could use a slider to change various icons according to a local property:
 
@@ -88,9 +88,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-dynamically-adjust-the-color-of-an-sf-symbol-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-dynamically-adjust-the-color-of-an-sf-symbol-2.zip)
 
-![Four variable color icons automatically adapting as a slider is dragged up then down](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-dynamically-adjust-the-color-of-an-sf-symbol-1~dark.gif)
+![Four variable color icons automatically adapting as a slider is dragged up then down](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-dynamically-adjust-the-color-of-an-sf-symbol-1~dark.gif)
 
 ::: details Similar solutions…
 

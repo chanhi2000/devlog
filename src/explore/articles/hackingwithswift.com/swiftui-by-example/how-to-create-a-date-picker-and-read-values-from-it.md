@@ -74,9 +74,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-date-picker-and-read-values-from-it-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-date-picker-and-read-values-from-it-1.zip)
 
-![The text “Select a date” beside a grey capsule containing the text “Jun 30, 2021”. Below is the text “Date is June 30, 2021”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-date-picker-and-read-values-from-it-1~dark.png)
+![The text “Select a date” beside a grey capsule containing the text “Jun 30, 2021”. Below is the text “Date is June 30, 2021”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-date-picker-and-read-values-from-it-1~dark.png)
 
 ::: important
 
@@ -106,7 +106,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-date-picker-and-read-values-from-it-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-date-picker-and-read-values-from-it-2.zip)
 
 You can see I've set `displayedComponents` to `.date`, but you could also use `.hourAndMinute` to get time data instead.
 
@@ -130,9 +130,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-date-picker-and-read-values-from-it-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-date-picker-and-read-values-from-it-3.zip)
 
-![The words “Enter your birthday” above a large calendar-style date picker. Below that is a time selector reading “1:59PM”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-date-picker-and-read-values-from-it-2~dark.png)
+![The words “Enter your birthday” above a large calendar-style date picker. Below that is a time selector reading “1:59PM”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-date-picker-and-read-values-from-it-2~dark.png)
 
 ::: details Similar solutions…
 

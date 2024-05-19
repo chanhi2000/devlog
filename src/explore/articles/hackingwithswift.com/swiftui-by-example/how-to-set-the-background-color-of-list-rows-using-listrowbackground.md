@@ -65,9 +65,9 @@ List {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-set-the-background-color-of-list-rows-using-listrowbackground-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-set-the-background-color-of-list-rows-using-listrowbackground-1.zip)
 
-![A list of rows with a red background.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-set-the-background-color-of-list-rows-using-listrowbackground-1@2x.png)
+![A list of rows with a red background.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-set-the-background-color-of-list-rows-using-listrowbackground-1@2x.png)
 
 ::: tip
 

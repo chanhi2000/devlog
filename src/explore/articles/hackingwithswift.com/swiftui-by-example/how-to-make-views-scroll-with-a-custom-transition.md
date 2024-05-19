@@ -81,9 +81,9 @@ ScrollView {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-views-scroll-with-a-custom-transition-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-views-scroll-with-a-custom-transition-1.zip)
 
-![Scrolling views that fade in and out as they scroll into and off the screen.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition-1~dark@2x.gif)
+![Scrolling views that fade in and out as they scroll into and off the screen.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition-1~dark@2x.gif)
 
 For additional control, you can specify how much of the view needs to be visible before it's displayed or removed. For example, we could say that we want our scrolling views to be inserted into our view hierarchy only when they are at least 90% visible:
 
@@ -104,9 +104,9 @@ ScrollView {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-views-scroll-with-a-custom-transition-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-views-scroll-with-a-custom-transition-2.zip)
 
-![Scrolling views that fade in and out as they scroll into and off the screen.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition-2~dark@2x.gif)
+![Scrolling views that fade in and out as they scroll into and off the screen.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition-2~dark@2x.gif)
 
 If you need *very* precise control over the effects that are applied, read the `value` of the transition phase. This will be -1 for views in the top leading phase, 1 for views in the bottom trailing phase, and 0 for all other views.
 
@@ -128,9 +128,9 @@ ScrollView {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-views-scroll-with-a-custom-transition-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-views-scroll-with-a-custom-transition-3.zip)
 
-![Scrolling views that change color at the screen edge.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition-3~dark@2x.gif)
+![Scrolling views that change color at the screen edge.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition-3~dark@2x.gif)
 
 ::: details Similar solutions…
 

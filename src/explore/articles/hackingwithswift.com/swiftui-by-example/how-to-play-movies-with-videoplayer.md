@@ -61,9 +61,9 @@ VideoPlayer(player: AVPlayer(url:  Bundle.main.url(forResource: "video", withExt
     .frame(height: 400)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-play-movies-with-videoplayer-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-play-movies-with-videoplayer-1.zip)
 
-![A video showing Niagara Falls, playing inside an iPhone.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-play-movies-with-videoplayer-1~dark.png)
+![A video showing Niagara Falls, playing inside an iPhone.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-play-movies-with-videoplayer-1~dark.png)
 
 ::: info Reminder
 
@@ -78,9 +78,9 @@ VideoPlayer(player: AVPlayer(url:  URL(string: "https://bit.ly/swswift")!))
     .frame(height: 400)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-play-movies-with-videoplayer-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-play-movies-with-videoplayer-2.zip)
 
-![A video with a play button overlaid, inside an iPhone.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-play-movies-with-videoplayer-2~dark.png)
+![A video with a play button overlaid, inside an iPhone.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-play-movies-with-videoplayer-2~dark.png)
 
 If you want, you can provide a second parameter to the `VideoPlayer` initializer that adds content to be drawn over the video. This will be drawn below the system video controls, but can respond to any events that aren't caught by those controls.
 
@@ -98,7 +98,7 @@ VideoPlayer(player: AVPlayer(url:  URL(string: "https://bit.ly/swswift")!)) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-play-movies-with-videoplayer-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-play-movies-with-videoplayer-3.zip)
 
 A video with a play button overlaid, along with the word Watermark place at the top.
 

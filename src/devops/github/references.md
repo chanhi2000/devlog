@@ -25,9 +25,10 @@ tag:
 ## Github 
 
 - [Building and testing Java with Gradle](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle)
-- [GitHub Copilot Chat beta now available for every organization](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization)
 - [LM Studio](https://github.com/lmstudio-ai)
 - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
+- [Dependabot on GitHub Actions and self-hosted runners is now generally available](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/)
+- [Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
 
 ---
 
@@ -37,13 +38,13 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [[Github 협업, 이것만은 알자] - Cherry pick](https://velog.io/@pgmjun/Github-%ED%98%91%EC%97%85-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EC%95%8C%EC%9E%90-Cherry-pick)
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - GitHub Action으로 Yew.rs 배포하는 방법](https://blex.me/@baealex/github-action%EC%9C%BC%EB%A1%9C-yew-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
@@ -116,5 +117,9 @@ tag:
 - [How to publish a Kotlin Multiplatform iOS app on App Store with GitHub Actions](https://www.marcogomiero.com/posts/2024/kmp-ci-ios/)
 
 ---
+
+## Marshall K
+
+- [소스코드 맞춤법 검사하기](https://marshallku.com/dev/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
 
 <TagLinks />

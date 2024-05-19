@@ -88,9 +88,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location-1.zip)
 
-![A scrolling list of rows, where rows near the center are sharp and rows near the edges are blurry.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location-1~dark.gif)
+![A scrolling list of rows, where rows near the center are sharp and rows near the edges are blurry.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location-1~dark.gif)
 
 ::: tip
 
@@ -129,9 +129,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location-2.zip)
 
-![A 3x3 grid of rotating circles, where each circle changes colors as it moves.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location-2~dark.gif)
+![A 3x3 grid of rotating circles, where each circle changes colors as it moves.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location-2~dark.gif)
 
 The modifier's name, `visualEffect()`, should make it clear that any adjustments you make are limited how the finished view looks – if you find yourself wanting to use it to adjust view *content*, you're looking in the wrong place.
 

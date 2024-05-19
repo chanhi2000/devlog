@@ -364,5 +364,15 @@
     "desc": "🧭 Kotlin Multiplatform library location toolkit for geocoding and geolocation",
     "officialSite": "https://compass.jordond.dev",
     "topics": ["compose", "compose-multiplatform", "geocoder", "geolocation", "kotlin", "kotlin-multiplatform", "location"]
+  }, {
+    "repo": "manuel-martos/LottieViewer",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "johnjohndoe/CampFahrplan",
+    "desc": "An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer. Main repository and issues:",
+    "officialSite": "https://eventfahrplan.eu",
+    "topics": ["android", "android-app", "c3voc", "ccc", "cccamp19", "conferences", "fahrplan", "frab", "pentabarf", "schedule"]
   }
 ]

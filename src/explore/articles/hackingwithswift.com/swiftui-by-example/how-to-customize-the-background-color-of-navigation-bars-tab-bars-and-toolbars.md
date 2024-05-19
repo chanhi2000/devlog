@@ -69,7 +69,7 @@ NavigationStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars-1.zip)
 
 ::: important
 
@@ -96,7 +96,7 @@ TabView {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars-2.zip)
 
 This modifier has one other important use: rather than specify a background color, you can ask the system to hide the background entirely, like this:
 
@@ -110,7 +110,7 @@ NavigationStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars-3.zip)
 
 In that example, the list content will appear directly alongside the navigation title as the user scrolls. If you take this approach, please ensure your main content and toolbar content don't clash when they overlap!
 

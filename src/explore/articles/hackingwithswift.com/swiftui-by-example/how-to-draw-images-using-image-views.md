@@ -69,7 +69,7 @@ If you're using Xcode 14 and earlier, you need to write the name of your images 
 Image("dog")
 ```
 
-![A phone showing an image of a white dog.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-images-using-image-views-1~dark.png)
+![A phone showing an image of a white dog.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-images-using-image-views-1~dark.png)
 
 You also can create an image view from an existing `UIImage`. As loading a `UIImage` using its `named` initializer returns an optional image, you should either add a default value or use a force unwrap if you're sure it will exist in your asset catalog:
 
@@ -77,9 +77,9 @@ You also can create an image view from an existing `UIImage`. As loading a `UIIm
 Image(uiImage: UIImage(named: "cat")!)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-images-using-image-views-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-images-using-image-views-1.zip)
 
-![A phone showing an image of a brown cat.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-images-using-image-views-2~dark.png)
+![A phone showing an image of a brown cat.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-images-using-image-views-2~dark.png)
 
 If you want to work with Apple's SF Symbols icon set, you should use the Image(systemName:) initializer, like this:
 
@@ -88,9 +88,9 @@ Image(systemName: "cloud.heavyrain.fill")
     .font(.largeTitle)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-images-using-image-views-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-images-using-image-views-2.zip)
 
-![A symbol of a cloud dispensing heavy rain.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-images-using-image-views-3~dark.png)
+![A symbol of a cloud dispensing heavy rain.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-images-using-image-views-3~dark.png)
 
 Notice how you can use the `font()` modifier to adjust SF Symbols as if they were text.
 

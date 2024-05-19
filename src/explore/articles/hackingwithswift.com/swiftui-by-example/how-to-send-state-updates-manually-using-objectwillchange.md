@@ -82,9 +82,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-send-state-updates-manually-using-objectwillchange-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-send-state-updates-manually-using-objectwillchange-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-send-state-updates-manually-using-objectwillchange-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-send-state-updates-manually-using-objectwillchange-1~dark.mp4" />
 
 Notice how we have a `willSet` property observer attached to the `username` property of `UserAuthentication`, allowing us to run code whenever that value changes. In our example code, we call `objectWillChange.send()` whenever `username` changes, which is what tells the `objectWillChange` publisher to put out the news that our data has changed so that any subscribed views can refresh.
 

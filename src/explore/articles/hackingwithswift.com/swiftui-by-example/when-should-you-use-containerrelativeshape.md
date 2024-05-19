@@ -80,7 +80,7 @@ struct ContentView: View {
 }
 ```
 
-![An iOS widget showing the word Hello against a blue background, with a red border.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/when-should-you-use-containerrelativeshape~dark.png)
+![An iOS widget showing the word Hello against a blue background, with a red border.](https://hackingwithswift.com/img/books/quick-start/swiftui/when-should-you-use-containerrelativeshape~dark.png)
 
 SwiftUI is smart here: as you inset the container shape further and further, it will scale the corner radius of the container so it looks great in your widget.
 

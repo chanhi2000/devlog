@@ -186,7 +186,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@eunjin` / [Javascript Toy Project] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [`@wooder2050` / JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
@@ -219,7 +219,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - [JavaScript] badland의 상태 관리](https://blex.me/@baealex/javascript-badland%EC%9D%98-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC)
 - [`@laetipark` - Node.js 교과서 : 1. 노드 시작하기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-1-%EB%85%B8%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
@@ -951,6 +951,12 @@ tag:
 ## Smashing Magazine — For Web Designers And Developers
 
 - [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)
+
+---
+
+## ESLint
+
+- [Introducing ESLint Compatibility Utilities](https://eslint.org/blog/2024/05/eslint-compatibility-utilities/)
 
 ---
 

@@ -74,9 +74,9 @@ HStack {
 .frame(maxHeight: 200)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-two-views-the-same-width-or-height-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-two-views-the-same-width-or-height-1.zip)
 
-![A red rectangle containing a one line sentence beside a green rectangle containing a two line sentence. Both rectangles are the same height.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-two-views-the-same-width-or-height-1~dark.png)
+![A red rectangle containing a one line sentence beside a green rectangle containing a two line sentence. Both rectangles are the same height.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-two-views-the-same-width-or-height-1~dark.png)
 
 This approach works just as well when you want to make two views have the same width:
 
@@ -99,7 +99,7 @@ VStack {
 .fixedSize(horizontal: true, vertical: false)
 ```
 
-![A red capsule containing the white text “Log In” above a similar capsule containing “Reset Password”. Both capsules are the same width.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-two-views-the-same-width-or-height-2~dark.png)
+![A red capsule containing the white text “Log In” above a similar capsule containing “Reset Password”. Both capsules are the same width.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-two-views-the-same-width-or-height-2~dark.png)
 
 There are many other significantly more complex solutions to this same problem, which is quite strange given how well the simple solution works for most people. I first learned this solution from [<FontIcon icon="fa-brands fa-twitter-x"/>Becky Hansmeyer](https://twitter.com/bhansmeyer) and now I use nothing else!
 

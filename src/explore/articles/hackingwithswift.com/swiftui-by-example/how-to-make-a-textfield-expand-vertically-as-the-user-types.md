@@ -72,7 +72,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-textfield-expand-vertically-as-the-user-types-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-textfield-expand-vertically-as-the-user-types-1.zip)
 
 You can control how big the `TextField` can grow by adding a `lineLimit()` modifier. For example, we might want to say that it should start out as a single line, but allow growth up to a maximum of five lines:
 
@@ -93,7 +93,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-textfield-expand-vertically-as-the-user-types-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-textfield-expand-vertically-as-the-user-types-2.zip)
 
 That doesn't mean the user can't type *more* than five lines, only that once the `TextField` goes beyond that limit it will switch to scrolling rather than growing further.
 
@@ -118,7 +118,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-textfield-expand-vertically-as-the-user-types-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-textfield-expand-vertically-as-the-user-types-3.zip)
 
 The combination of this growing behavior and its ability to have a placeholder makes `TextField` a really great choice for entering user text, and preferable to `TextEditor` in situations where you aren't relying on an exact view frame and you don't need search and replace functionality.
 

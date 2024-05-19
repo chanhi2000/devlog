@@ -74,5 +74,10 @@
     "desc": "🧱 Mobile-first stack navigator framework with composable plugin system",
     "officialSite": "https://stackflow.so",
     "topics": ["framework", "mobile", "navigator", "plugin", "react", "stack", "system", "typescript", "webview"]
+  }, {
+    "repo": "expo/react-conf-app",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

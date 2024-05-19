@@ -91,9 +91,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-code-when-your-app-launches-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-code-when-your-app-launches-1.zip)
 
-![The text “Your name is Taylor Swift.”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-run-code-when-your-app-launches-1~dark.png)
+![The text “Your name is Taylor Swift.”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-run-code-when-your-app-launches-1~dark.png)
 
 Using `@AppStorage` requires that we give our property an initial value, which is cumbersome because we need to ensure we have the same initial value everywhere the property is used.
 

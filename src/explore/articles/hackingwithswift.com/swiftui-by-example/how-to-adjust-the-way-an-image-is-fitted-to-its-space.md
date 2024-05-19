@@ -62,9 +62,9 @@ Image("rome")
     .frame(height: 200)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space-1.zip)
 
-![A phone showing an image of the Pantheon in Rome. The image is stretched horizontally.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space-1~dark.png)
+![A phone showing an image of the Pantheon in Rome. The image is stretched horizontally.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space-1~dark.png)
 
 However, that may also cause the image to have its original aspect ratio distorted, because it will be stretched in all dimensions by whatever amount is needed to make it fill the space.
 
@@ -77,9 +77,9 @@ Image("rome")
     .frame(width: 250)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space-2.zip)
 
-![A phone showing an image of the Pantheon in Rome. The image is no longer stretched.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space-2~dark.png)
+![A phone showing an image of the Pantheon in Rome. The image is no longer stretched.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space-2~dark.png)
 
 ::: details Similar solutions…
 

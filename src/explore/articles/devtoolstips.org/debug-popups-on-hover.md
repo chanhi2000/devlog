@@ -2,9 +2,11 @@
 lang: ko-KR
 title: Debug popups that appear on hover
 description: Article(s) > Debug popups that appear on hover
-icon: iconfont icon-template
+icon: fa-brands fa-chrome
 category: 
   - Browser
+  - Google
+  - Google Chrome
   - Article(s)
 tag: 
   - blog
@@ -12,6 +14,8 @@ tag:
   - browse
   - debug
   - tips
+  - google
+  - googlechrome
 head:  
   - - meta:
     - property: og:title
@@ -20,9 +24,20 @@ head:
       content: "Debug popups that appear on hover"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/debug-popups-on-hover.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -37,6 +52,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2023.11.21
 
 As described in [Debug popups that appear on hover using JS](https://devtoolstips.org/tips/en/debug-js-hover) and in [Debug popups that appear on hover using the debugger statement](https://devtoolstips.org/tips/en/debug-js-hover-2), there are ways to debug popups that appear on hover using JavaScript.
 

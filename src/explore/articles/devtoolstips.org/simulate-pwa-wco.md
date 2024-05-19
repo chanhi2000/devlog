@@ -4,15 +4,15 @@ title: Simulate the Window Controls Overlay feature for PWA
 description: Article(s) > Simulate the Window Controls Overlay feature for PWA
 icon: fa-brands fa-chrome
 category: 
-  - JavaScript
+  - Browser
+  - Google
+  - Google Chrome
   - Article(s)
 tag: 
   - blog
   - devtoolstips.org
-  - js
   - debug
   - tips
-  - css
   - apps
 head:
   - - meta:
@@ -22,9 +22,20 @@ head:
       content: Simulate the Window Controls Overlay feature for PWA
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/simulate-pwa-wco.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -39,6 +50,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2024.01.25
 
 If you're building a desktop PWA, you might want to use the [<FontIcon icon="fa-brands fa-firefox"/>Window Controls Overlay](https://developer.mozilla.org/docs/Web/API/Window_Controls_Overlay_API) (WCO) feature to make your app look more native. With WCO, you gain control over the entire surface area of the installed app window, and can display your own title bar.
 

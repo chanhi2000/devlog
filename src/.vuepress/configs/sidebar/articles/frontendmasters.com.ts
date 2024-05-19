@@ -8,6 +8,9 @@ export const template: SidebarInfoTemplate = {
     "js", [
       "5-things-designers-can-do-with-javascript", // 2024.05.08
     ]], [
+    "js-react", [
+      "prefetching-when-server-loading-wont-do", // 2024.05.15
+    ]], [
     "js-svelte", [
       "using-nextauth-now-auth-js-with-sveltekit", // 2024.04.29
     ]], [
@@ -38,6 +41,7 @@ export const template: SidebarInfoTemplate = {
       "5-things-designers-can-do-with-javascript", // 2024.05.08
       "using-css-scroll-driven-animations-for-section-based-scroll-progress-indicators", // 2024.05.10
       "the-classic-border-radius-advice-plus-an-unusual-trick", // 2024.05.13
+      "prefetching-when-server-loading-wont-do", // 2024.05.15
     ]]
   ])
 }

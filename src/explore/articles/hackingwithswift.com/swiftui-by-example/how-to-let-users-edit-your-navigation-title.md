@@ -76,7 +76,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-edit-your-navigation-title-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-edit-your-navigation-title-1.zip)
 
 If your title is there because it represents the name of some content your user is editing, I would recommend adding `.toolbarRole(.editor)` so that your title is aligned to the leading edge like other document titles:
 
@@ -95,7 +95,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-edit-your-navigation-title-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-edit-your-navigation-title-2.zip)
 
 ::: details Similar solutions…
 

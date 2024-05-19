@@ -73,9 +73,9 @@ ZStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-change-the-order-of-view-layering-using-z-index-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-change-the-order-of-view-layering-using-z-index-1.zip)
 
-![A green square centered within a larger red square.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-change-the-order-of-view-layering-using-z-index-1~dark.png)
+![A green square centered within a larger red square.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-change-the-order-of-view-layering-using-z-index-1~dark.png)
 
 ::: note
 

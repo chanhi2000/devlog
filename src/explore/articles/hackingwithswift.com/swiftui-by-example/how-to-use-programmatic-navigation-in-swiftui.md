@@ -84,7 +84,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-1.zip)
 
 When that code runs, the user will see “Detail 8”, and can tap back to “Detail 4”, then “Detail 1”, until eventually reaching the list of numbers.
 
@@ -116,7 +116,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-2.zip)
 
 ::: tip
 
@@ -155,7 +155,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-3.zip)
 
 You can adjust your path however you want – we appended a single value there, but you could append multiple values at once if needed, and something like the old UIKit “pop to root view controller” becomes just as simple as clearing everything from your path – something like `navPath.removeLast(navPath.count)` should do the trick.
 
@@ -186,9 +186,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-4.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-programmatic-navigation-in-swiftui-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-programmatic-navigation-in-swiftui-1~dark.mp4" />
 
 The advantage to this approach over a simple `NavigationLink` is that our button can do any amount of other work before triggering the programmatic navigation – maybe you want to save some data, or authenticate the user, etc.
 
@@ -220,9 +220,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-programmatic-navigation-in-swiftui-5.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-programmatic-navigation-in-swiftui-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-programmatic-navigation-in-swiftui-2~dark.mp4" />
 
 ::: details Similar solutions…
 

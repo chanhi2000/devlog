@@ -70,9 +70,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-a-timer-with-swiftui-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-a-timer-with-swiftui-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-a-timer-with-swiftui-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-a-timer-with-swiftui-1~dark.mp4" />
 
 It's important to use `.main` for the runloop option, because our timer will update the user interface. As for the `.common` mode, that allows the timer to run alongside other common events – for example, if the text was in a scroll view that was moving.
 
@@ -98,9 +98,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-a-timer-with-swiftui-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-a-timer-with-swiftui-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-a-timer-with-swiftui-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-a-timer-with-swiftui-2~dark.mp4" />
 
 ::: details Similar solutions…
 

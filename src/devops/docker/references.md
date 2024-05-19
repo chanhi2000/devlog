@@ -36,7 +36,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@qkrtkdwns3410` - [도커] 볼륨과 마운트](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4-%EB%B3%BC%EB%A5%A8%EA%B3%BC-%EB%A7%88%EC%9A%B4%ED%8A%B8)
 - [`@qkrtkdwns3410` - [도커&쿠버] 도커 컨테이너에서 호스트 파일 복사 등](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4%EC%BF%A0%EB%B2%84-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%ED%98%B8%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EB%B3%B5%EC%82%AC-%EB%93%B1)
@@ -56,6 +56,7 @@ tag:
 - [10 Microservice Patterns Software Engineers Should Know](https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a)
 - [LUIT Project 14-Installing Apache server inside of an Ubuntu Docker container](https://awstip.com/luit-project-14-installing-apache-server-inside-of-an-ubuntu-docker-container-aa1f250acf08)
 - [Deploying a Django Application with Docker, Nginx, and Certbot](https://awstip.com/deploying-a-django-application-with-docker-nginx-and-certbot-117c23939560)
+- [`@tonistiigi` / New Dockerfile capabilities in v1.7.0](https://medium.com/@tonistiigi/new-dockerfile-capabilities-in-v1-7-0-be6873650741)
 
 ---
 
@@ -67,7 +68,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - Heroku에서 Docker 배포](https://blex.me/@baealex/heroku%EB%A1%9C-docker-%EB%B0%B0%ED%8F%AC-1)
 - [`@baealex` - Docker Registry 만들기](https://blex.me/@baealex/docker-registry-%EA%B0%9C%EC%9D%B8%EC%9A%A9-%EB%8F%84%EC%BB%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0)

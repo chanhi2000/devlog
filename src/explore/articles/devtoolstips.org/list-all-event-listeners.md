@@ -5,6 +5,10 @@ description: Article(s) > List all event listeners on the entire page
 icon: fa-brands fa-js
 category: 
   - JavaScript
+  - Brwoser
+  - Google
+  - Google Chrome
+  - Safari
   - Article(s)
 tag: 
   - blog
@@ -13,6 +17,10 @@ tag:
   - debug
   - tips
   - console
+  - google
+  - googlechrome
+  - google-chrome
+  - safari
 head:
   - - meta:
     - property: og:title
@@ -21,9 +29,30 @@ head:
       content: List all event listeners on the entire page
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/list-all-event-listeners.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Safari > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/safari/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -38,6 +67,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2023.11.21
 
 When you don't know a codebase, it might be hard to know where to get started, and what events are being listened to by which elements.
 

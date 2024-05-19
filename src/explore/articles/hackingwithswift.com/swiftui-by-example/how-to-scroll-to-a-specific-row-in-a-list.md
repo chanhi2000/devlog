@@ -75,13 +75,13 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-scroll-to-a-specific-row-in-a-list-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-scroll-to-a-specific-row-in-a-list-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-scroll-to-a-specific-row-in-a-list-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-scroll-to-a-specific-row-in-a-list-1~dark.mp4" />
 
 For more control over your scroll behavior, add an `anchor` as the second parameter, like this: `proxy.scrollTo(50, anchor: .top)`.
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-scroll-to-a-specific-row-in-a-list-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-scroll-to-a-specific-row-in-a-list-2~dark.mp4" />
 
 ::: tip
 

@@ -1454,11 +1454,25 @@
     "desc": "Simple backup tool for PostgreSQL",
     "officialSite": "",
     "topics": []
-  }, 
-  {
+  }, {
     "repo": "nixys/nxs-data-anonymizer",
     "desc": "A tool for anonymizing PostgreSQL and MySQL databases' dump",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "skx/cpmulator",
+    "desc": "Golang CP/M emulator for playing zork, lighthouse-of-doom, etc",
+    "officialSite": "",
+    "topics": ["cpm", "emulation", "golang", "golang-application", "z80", "zork"]
+  }, {
+    "repo": "micheldebree/retrospex",
+    "desc": "Convert images to fit Commodore 64 graphic modes",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "andydunstall/piko",
+    "desc": "An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)",
+    "officialSite": "",
+    "topics": ["golang", "http", "http-proxy", "reverse-proxy", "tunneling"]
   }
 ]

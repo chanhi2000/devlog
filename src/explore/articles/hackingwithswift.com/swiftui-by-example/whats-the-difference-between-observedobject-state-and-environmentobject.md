@@ -71,9 +71,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/whats-the-difference-between-atobservedobject-atstate-and-atenvironmentobject-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/whats-the-difference-between-atobservedobject-atstate-and-atenvironmentobject-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject-1.mp4"/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject-1.mp4"/>
 
 This creates a property inside a view, but it uses the `@State` property wrapper to ask SwiftUI to manage the memory. This *matters*: all our views are structs, which means they can't be changed, and if we weren't even able to modify an integer in our apps then there wouldn't be much we *could* do.
 

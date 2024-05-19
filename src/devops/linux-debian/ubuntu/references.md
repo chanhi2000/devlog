@@ -28,4 +28,11 @@ tag:
 
 ---
 
+## HiGenis
+
+- [AllwinnerTech T507 안드로이드 빌드 방법](https://blog.naver.com/chandong83/223450810794?)
+- [안드로이드 BSP빌드시 Jack-server 에러(AW A40i)](https://blog.naver.com/chandong83/223450764691)
+
+---
+
 <TagLinks />

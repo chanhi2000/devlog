@@ -23,4 +23,10 @@ tag:
 
 ---
 
+## JayKang's blog
+
+- [Visual Studio 2019 community 오프라인 설치](https://caejhkang.tistory.com/14)
+  
+---
+
 <TagLinks />

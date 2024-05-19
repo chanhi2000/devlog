@@ -41,7 +41,7 @@ head:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@eunbibi` - Database](https://velog.io/@eunbibi/Database)
 - [`@eunbibi` - `concat`, `alias`, `distinct`, `limit`](https://velog.io/@eunbibi/concat-alias-distinct-limit)
@@ -60,7 +60,7 @@ head:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - Occupations](https://blex.me/@mildsalmon/occupations)
 - [`@mildsalmon` - Top Competitors](https://blex.me/@mildsalmon/top-competitors)

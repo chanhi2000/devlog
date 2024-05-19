@@ -68,9 +68,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-a-color-with-colorpicker-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-a-color-with-colorpicker-1.zip)
 
-![The words “Set the background color” and a rainbow colored ring, below which is a grid style color picker with an opacity slider.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-a-color-with-colorpicker-1~dark.png)
+![The words “Set the background color” and a rainbow colored ring, below which is a grid style color picker with an opacity slider.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-a-color-with-colorpicker-1~dark.png)
 
 By default `ColorPicker` supports opacity in the color selection, but you can disable that with a slightly different initializer:
 
@@ -88,9 +88,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-a-color-with-colorpicker-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-a-color-with-colorpicker-2.zip)
 
-![The words “Set the background color” and a rainbow colored ring, below which is a grid style color picker without an opacity slider.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-a-color-with-colorpicker-2~dark.png)
+![The words “Set the background color” and a rainbow colored ring, below which is a grid style color picker without an opacity slider.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-a-color-with-colorpicker-2~dark.png)
 
 ::: details Similar solutions…
 

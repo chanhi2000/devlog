@@ -68,9 +68,9 @@ ZStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-visual-effect-blurs-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-visual-effect-blurs-1.zip)
 
-![The words “Visit Singapore” on a grey rectangle over an image of Singapore's Jewel indoor waterfall. The rectangle has a slightly translucent frosted glass effect.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-visual-effect-blurs-1~dark@2x.png)
+![The words “Visit Singapore” on a grey rectangle over an image of Singapore's Jewel indoor waterfall. The rectangle has a slightly translucent frosted glass effect.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-visual-effect-blurs-1~dark@2x.png)
 
 You can adjust the “thickness” of your material – how much of the background content shines through – by using one of several material types. From thinnest to thickest, they are:
 
@@ -93,9 +93,9 @@ ZStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-visual-effect-blurs-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-visual-effect-blurs-2.zip)
 
-![The words “Visit Singapore” in grey on a rectangle over an image of Singapore's Jewel indoor waterfall. The rectangle has a translucent frosted glass effect.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-visual-effect-blurs-2~dark@2x.png)
+![The words “Visit Singapore” in grey on a rectangle over an image of Singapore's Jewel indoor waterfall. The rectangle has a translucent frosted glass effect.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-visual-effect-blurs-2~dark@2x.png)
 
 ::: details Similar solutions…
 

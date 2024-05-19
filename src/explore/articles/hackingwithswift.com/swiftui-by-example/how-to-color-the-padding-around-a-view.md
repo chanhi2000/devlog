@@ -63,9 +63,9 @@ Text("Hacking with Swift")
     .padding()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-color-the-padding-around-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-color-the-padding-around-a-view-1.zip)
 
-![The text “Hacking with Swift” on a red background. There is little space between the text's edges and the rectangle's edges.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-color-the-padding-around-a-view-1~dark@2x.png)
+![The text “Hacking with Swift” on a red background. There is little space between the text's edges and the rectangle's edges.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-color-the-padding-around-a-view-1~dark@2x.png)
 
 And this adds system default padding then sets a red background color and a white foreground:
 
@@ -76,9 +76,9 @@ Text("Hacking with Swift")
     .foregroundStyle(.white)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-color-the-padding-around-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-color-the-padding-around-a-view-2.zip)
 
-![The text “Hacking with Swift” on a red background. There is some red space around the text between its edges and the rectangle's.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-color-the-padding-around-a-view-2~dark@2x.png)
+![The text “Hacking with Swift” on a red background. There is some red space around the text between its edges and the rectangle's.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-color-the-padding-around-a-view-2~dark@2x.png)
 
 Those two pieces of code might look similar, but they yield different results because the order in which you apply modifiers matters. In the second example the view is padded *then* colored, which means the padding also gets colored red. In contrast, the first example colors then pads, so the padding remains uncolored.
 

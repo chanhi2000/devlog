@@ -74,9 +74,9 @@ VStack(alignment: .leading) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-views-in-a-loop-using-foreach-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-views-in-a-loop-using-foreach-1.zip)
 
-![A countdown from 10 to 1 followed by the text “Ready or not, here I come!”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-views-in-a-loop-using-foreach-1~dark.png)
+![A countdown from 10 to 1 followed by the text “Ready or not, here I come!”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-views-in-a-loop-using-foreach-1~dark.png)
 
 The `id: \.self` part is required so that SwiftUI can identify each element in the array uniquely – it means that if you add or remove an item, SwiftUI knows exactly which one.
 
@@ -98,9 +98,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-views-in-a-loop-using-foreach-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-views-in-a-loop-using-foreach-2.zip)
 
-[A red, green, and blue rectangle arranged vertically with their respective colors printed on them.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-views-in-a-loop-using-foreach-2~dark.png)
+[A red, green, and blue rectangle arranged vertically with their respective colors printed on them.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-views-in-a-loop-using-foreach-2~dark.png)
 
 Using `\.self` tells Swift each item is uniquely identified using its own value. So, if you have the array `[1, 2, 3]` and identify each value by `\.self` it means the first item has the identifier 1, the second 2, and the third 3.
 
@@ -129,9 +129,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-views-in-a-loop-using-foreach-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-views-in-a-loop-using-foreach-3.zip)
 
-![The lines “Result: 8”, “Result: 5”, and “Result: 10”](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-views-in-a-loop-using-foreach-3~dark.png)
+![The lines “Result: 8”, “Result: 5”, and “Result: 10”](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-views-in-a-loop-using-foreach-3~dark.png)
 
 That tells SwiftUI it can distinguish between views inside the `ForEach` by looking at their `id` property.
 
@@ -160,7 +160,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-views-in-a-loop-using-foreach-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-views-in-a-loop-using-foreach-4.zip)
 
 ::: details Similar solutions…
 

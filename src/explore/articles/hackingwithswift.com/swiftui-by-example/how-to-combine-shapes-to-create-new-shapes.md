@@ -64,9 +64,9 @@ Circle()
     .fill(.blue)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-combine-shapes-to-create-new-shapes-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-combine-shapes-to-create-new-shapes-1.zip)
 
-![A circle and capsule shape combined together, then filled as one.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes-1~dark.png)
+![A circle and capsule shape combined together, then filled as one.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes-1~dark.png)
 
 The advantage to having a single shape is that the result blends well when you add opacity – you're not rendering two overlapping shapes individually, but combining them both into a single shape and rendering that.
 
@@ -79,9 +79,9 @@ Circle()
     .padding()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-combine-shapes-to-create-new-shapes-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-combine-shapes-to-create-new-shapes-2.zip)
 
-![A circle shape where four corners have been cut out.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes-2~dark.png)
+![A circle shape where four corners have been cut out.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes-2~dark.png)
 
 Or we could place one circle off to the left, then subtract another circle offset to the right:
 
@@ -93,9 +93,9 @@ Circle()
     .padding()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-combine-shapes-to-create-new-shapes-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-combine-shapes-to-create-new-shapes-3.zip)
 
-![Two overlapping circles, where the intersection area is hollow.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes-3~dark.png)
+![Two overlapping circles, where the intersection area is hollow.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes-3~dark.png)
 
 ::: details Similar solutions…
 

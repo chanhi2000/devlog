@@ -63,9 +63,9 @@ Text("Hello World")
     .tracking(20)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-spacing-between-letters-in-text-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-spacing-between-letters-in-text-1.zip)
 
-![The text “Hello World” written with widely spaces between letters.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-spacing-between-letters-in-text-1~dark.png)
+![The text “Hello World” written with widely spaces between letters.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-spacing-between-letters-in-text-1~dark.png)
 
 If you want to really see how kerning and tracking are different, try this:
 
@@ -90,9 +90,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-spacing-between-letters-in-text-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-spacing-between-letters-in-text-2.zip)
 
-![The text “ffi” with space between the two f's, and the text “ffi” with space between all three letters](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-spacing-between-letters-in-text-2~dark.png)
+![The text “ffi” with space between the two f's, and the text “ffi” with space between all three letters](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-spacing-between-letters-in-text-2~dark.png)
 
 That uses the text string “ffi” in American Typewriter, which has a ligature making the letter combination look better. Because tracking pulls ligatures apart and kerning does not, as you adjust the slider upwards the first text will look more like “f fi” and the second will look more like “f f i”.
 

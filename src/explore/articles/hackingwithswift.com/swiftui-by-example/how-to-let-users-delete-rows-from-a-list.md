@@ -70,7 +70,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-delete-rows-from-a-list-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-delete-rows-from-a-list-1.zip)
 
 That immediately lets users swipe to delete rows, and the `users` array will be updated as they do so. If you want to let them move the items as well, use `.all` rather than just `.delete`.
 
@@ -91,7 +91,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-delete-rows-from-a-list-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-delete-rows-from-a-list-2.zip)
 
 For the more complex approach to deletion, we can attach an `onDelete(perform:)` modifier to a `ForEach` inside a list, and have it call a method of our choosing when a delete operation happens. This handler needs to have a specific signature that accepts multiples indexes to delete, like this:
 
@@ -127,9 +127,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-delete-rows-from-a-list-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-delete-rows-from-a-list-3.zip)
 
-![Three rows in an iOS list, with the middle one showing a delete button after a swipe.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-delete-rows-from-a-list-1~dark@2x.png)
+![Three rows in an iOS list, with the middle one showing a delete button after a swipe.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-delete-rows-from-a-list-1~dark@2x.png)
 
 If you run that code you'll find you can swipe to delete any row in the list.
 

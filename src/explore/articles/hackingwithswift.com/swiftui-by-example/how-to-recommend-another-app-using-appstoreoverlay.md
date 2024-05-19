@@ -79,7 +79,7 @@ struct ContentView: View {
 }
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-recommend-another-app-using-appstoreoverlay-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-recommend-another-app-using-appstoreoverlay-1~dark.mp4" />
 
 ::: note
 

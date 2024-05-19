@@ -64,9 +64,9 @@ Image(systemName: "theatermasks")
     .font(.system(size: 144))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-1.zip)
 
-![A symbol showing a smiling mask in the foreground and a fainter sad mask in background.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-1~dark.png)
+![A symbol showing a smiling mask in the foreground and a fainter sad mask in background.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-1~dark.png)
 
 Hierarchical rendering works in combination with foreground color, so you can specify both if you need to:
 
@@ -77,9 +77,9 @@ Image(systemName: "theatermasks")
     .font(.system(size: 144))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-2.zip)
 
-![A symbol showing a smiling blue mask in the foreground and a fainter sad blue mask in background.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-2~dark.png)
+![A symbol showing a smiling blue mask in the foreground and a fainter sad blue mask in background.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-2~dark.png)
 
 For even more power, you can use the `.palette` variant to get complete control over the colors in the image. So, we could render the SharePlay icon both blue and black at the same time, like this:
 
@@ -90,9 +90,9 @@ Image(systemName: "shareplay")
     .font(.system(size: 144))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-3.zip)
 
-![The Apple Shareplay symbol showing a blue person icon in front of two black arcs.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-3~dark.png)
+![The Apple Shareplay symbol showing a blue person icon in front of two black arcs.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-3~dark.png)
 
 How those colors are applied depends on each individual symbol – sometimes symbols are defined with two layers and sometimes three, and you'll need to explore them individually to see how they break down.
 
@@ -105,9 +105,9 @@ Image(systemName: "person.3.sequence.fill")
     .font(.system(size: 144))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-4.zip)
 
-![Three slightly overlapping person icons, in blue, green, and red from left to right.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-4~dark.png)
+![Three slightly overlapping person icons, in blue, green, and red from left to right.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-4~dark.png)
 
 This even works with complex foreground styles, such as providing one gradient for each person in the icon:
 
@@ -122,9 +122,9 @@ Image(systemName: "person.3.sequence.fill")
     .font(.system(size: 144))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-5.zip)
 
-![Three slightly overlapping person icons, in blue, green, and red from left to right. Each icon's color transitions to black as it approaches the bottom right corner.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-5~dark.png)
+![Three slightly overlapping person icons, in blue, green, and red from left to right. Each icon's color transitions to black as it approaches the bottom right corner.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols-5~dark.png)
 
 ::: details Similar solutions…
 

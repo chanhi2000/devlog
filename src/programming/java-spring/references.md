@@ -49,7 +49,7 @@ head:
 - [`finda-tech` / 금융서비스 MSA 전환기 - DB 분리(1편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-db-%EB%B6%80-1%ED%8E%B8-63d09e7ebe0e)
 - [`finda-tech` / 금융서비스 MSA 전환기- 서버 간 비동기 메시지 기반 통신 처리(3편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-%EC%84%9C%EB%B2%84-%EA%B0%84-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B8%B0%EB%B0%98-%ED%86%B5%EC%8B%A0-%EC%B2%98%EB%A6%AC-3%ED%8E%B8-c0785860a3d5)
 
-### velog
+### <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@u-nij`: Spring Boot + React.js 개발환경 연동하기](https://velog.io/@u-nij/Spring-Boot-React.js-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85)
 - [`@Ramos.log`: Spring Boot에서의 Test 어노테이션](https://velog.io/@songs4805/Spring-Boot%EC%97%90%EC%84%9C%EC%9D%98-Test-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98)
@@ -109,6 +109,7 @@ head:
 ### 강준현
 
 - [Chain of Responsibility Pattern](https://junhyunny.github.io/design-pattern/chain-of-responsibility-pattern/)
+- [Health Check for External Components in Actuator](https://junhyunny.github.io/spring-boot/health-check-for-external-components-in-actuator/)
 
 ### 연로그
 
@@ -163,6 +164,14 @@ head:
 ### 한정수 Jeongsu Han
 
 - [실용적인 테스트 피라미드 (번역)](https://www.integer.blog/practical-test-pyramid/)
+
+### 컴공생의 발자취
+
+- [[내일배움캠프 22일차 TIL] Entity 상태 및 MySQL CLC 명령어와 개인과제 시작](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-22%EC%9D%BC%EC%B0%A8-TIL-Entity-%EC%83%81%ED%83%9C-%EB%B0%8F-MySQL-CLC-%EB%AA%85%EB%A0%B9%EC%96%B4%EC%99%80-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%8B%9C%EC%9E%91)
+
+### Hide
+
+- [카카오 JDK 21의 신기능 Virtual Thread 알아보기 정리](https://hides.tistory.com/1146)
 
 ---
 

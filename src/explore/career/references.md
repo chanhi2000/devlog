@@ -44,7 +44,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - 정보처리기사를 준비해보자.](https://blex.me/@mildsalmon/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [`@mildsalmon` - 자격증 취득기](https://blex.me/@mildsalmon/%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D%EA%B8%B0)
@@ -55,6 +55,7 @@ tag:
 - [`@2170004487z` - '애자일은 뭐고 폭포수는 뭐야?' 애자일 방법론 역사 이해하기](https://blex.me/@2170004487z/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%AD%90%EA%B3%A0-%ED%8F%AD%ED%8F%AC%EC%88%98%EB%8A%94-%EB%AD%90%EC%95%BC-%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EC%97%AD%EC%82%AC-%EC%9D%B4%ED%95%B4%ED%95%98)
 - [`@mildsalmon` - 회식과 저녁에 대한 시간 기준](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-13%EC%A3%BC%EC%B0%A8-3%EC%9B%94)
 - [`@devkonis` - [스타트업] 업계에서 통용되는 스타트업 관련 주요 용어](https://blex.me/@devkonis/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%97%85%EA%B3%84%EC%97%90%EC%84%9C-%ED%86%B5%EC%9A%A9%EB%90%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EC%9A%A9%EC%96%B4)
+- [`@mildsalmon` / 삶의 목표에 대한 고민](https://blex.me/@mildsalmon/%EC%82%B6%EC%9D%98-%EB%AA%A9%ED%91%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC)
 
 ---
 
@@ -64,7 +65,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@tmmoond8` - Noticon 프로젝트 리뷰](https://velog.io/@tmmoond8/Noticon-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
 - [`@endmoseung` - 꾸준함과 당연하다는것](https://velog.io/@endmoseung/%EA%BE%B8%EC%A4%80%ED%95%A8%EA%B3%BC-%EB%8B%B9%EC%97%B0%ED%95%98%EB%8B%A4%EB%8A%94%EA%B2%83)
@@ -97,6 +98,7 @@ tag:
 - [`giljae` - 레딧(Reddit)의 아키텍처 진화의 여정](https://giljae.medium.com/%EB%A0%88%EB%94%A7-reddit-%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A7%84%ED%99%94%EC%9D%98-%EC%97%AC%EC%A0%95-4f312ba7cef0)
 - [`@devendunegi06` - I Solved 300+ Leetcode problems here is what I learnt.](https://medium.com/@devendunegi06/my-journey-of-solving-300-leetcode-problems-some-takeaways-which-can-help-you-in-yours-2fee80c7086a)
 - [`jaeyeong951` / 어떤 개발자의 3년 치 회고록](https://jaeyeong951.medium.com/%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-3%EB%85%84%EC%B9%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D-d2701ac2938c)
+- [`giljae` / 스포티파이 스쿼드 모델](https://giljae.medium.com/%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-%EC%8A%A4%EC%BF%BC%EB%93%9C-%EB%AA%A8%EB%8D%B8-9d26ba81cefe)
 
 ---
 
@@ -122,6 +124,7 @@ tag:
 - [`@duk-hyun` / 디지털 혁신 전술: 의미와 특성](https://brunch.co.kr/@duk-hyun/113)
 - [`@delight412` / 스타벅스의 딜레마, 제품과 경험 중 무엇에 집중할 건가](https://brunch.co.kr/@delight412/686)
 - [`@reinlainer` / [특집] AI 글쓰기](https://brunch.co.kr/@reinlainer/85)
+- [`@reinlainer` / [문화] 병렬 독서법](https://brunch.co.kr/@reinlainer/86)
 
 ---
 
@@ -167,6 +170,7 @@ tag:
 ## hiddennest
 
 - [제품을 바닥부터 다시 만들게 된다면 꼭 지킬 것들](https://hiddenest.dev/things-to-do-when-rebuild-from-scratch)
+- [엔지니어링 레벨링은 누더기가 되었나?](https://hiddenest.dev/engineer-leveling)
 
 ---
 
@@ -337,6 +341,7 @@ tag:
 ## 뭐라도 해야 한다면 기록을 하자
 
 - [[24년 3월] 하기 싫으면 관둬라](https://jakpentest.tistory.com/entry/24%EB%85%84-3%EC%9B%94-%ED%95%98%EA%B8%B0-%EC%8B%AB%EC%9C%BC%EB%A9%B4-%EA%B4%80%EB%91%AC%EB%9D%BC)
+- [[Review] 더 나은 프로그래머 되는 법](https://jakpentest.tistory.com/entry/Review-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8A%94-%EB%B2%95)
 
 ---
 
@@ -374,6 +379,7 @@ tag:
 
 - [풀지 못한 프로그래머의 생산성 문제](https://blog.naver.com/birdparang/223402009011?)
 - [실마리 프로그램, 그리고 다시 생각나는 풀 스택 개발자 논쟁](https://blog.naver.com/birdparang/223411456071?)
+- [소프트웨어 제품을 혼자서 개발한다는 것](https://blog.naver.com/birdparang/223445277535?)
 
 ---
 
@@ -388,6 +394,7 @@ tag:
 - [[유자랩스 창업기 #36] 판단하지 마세요. 제안하세요.](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-36-%ed%8c%90%eb%8b%a8%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-%ec%a0%9c%ec%95%88%ed%95%98%ec%84%b8%ec%9a%94)
 - [[유자랩스 창업기 #37] 창업 1주년 회고](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-37-%ec%b0%bd%ec%97%85-1%ec%a3%bc%eb%85%84-%ed%9a%8c%ea%b3%a0/)
 - [[서평] 코딩도 하고, 사장도 합니다](https://ohseyong.com/%ec%84%9c%ed%8f%89-%ec%bd%94%eb%94%a9%eb%8f%84-%ed%95%98%ea%b3%a0-%ec%82%ac%ec%9e%a5%eb%8f%84-%ed%95%a9%eb%8b%88%eb%8b%a4/)
+- [[오세용의 에세이 #38] 불안](https://ohseyong.com/%ec%98%a4%ec%84%b8%ec%9a%a9%ec%9d%98-%ec%97%90%ec%84%b8%ec%9d%b4-38-%eb%b6%88%ec%95%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ec%2584%25b8%25ec%259a%25a9%25ec%259d%2598-%25ec%2597%2590%25ec%2584%25b8%25ec%259d%25b4-38-%25eb%25b6%2588%25ec%2595%2588)
 
 ---
 
@@ -567,6 +574,7 @@ tag:
 ## 복세편살
 
 - [<타냐 라일리> 개발자를 넘어 기술 리더로 가는 길: 성공적인 프로젝트 실행력](https://americanopeople.tistory.com/454)
+- [<유영경님> 개발자를 위한 글쓰기 가이드](https://americanopeople.tistory.com/455)
 
 ---
 
@@ -629,6 +637,8 @@ tag:
 - [09.소통을 잘하고 싶습니다. 방법이 있을까요?](https://duriepark.tistory.com/entry/09%EC%86%8C%ED%86%B5%EC%9D%84-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
 - [10.성공하는 배우자를 선택하는 방법이 있을까요?](https://duriepark.tistory.com/722)
 - [11.나와 맞는 사람을 찾는 좋은 방법이 있을까요?](https://duriepark.tistory.com/726)
+- [16.혹시 '인생 멘토'나 조언을 구할 사람을 만나려면 어떤 방법이 있을까요?](https://duriepark.tistory.com/736)
+- [17.일을 잘하려면 어떻게 해야 되나요?](https://duriepark.tistory.com/737)
 
 ---
 
@@ -699,6 +709,9 @@ tag:
 
 - [결정을 도와주는 '힉의 법칙'이 적용된 UX사례](https://pearlluck.tistory.com/804)
 - [[책] 더 나은 프로그래머 되는법 Part1. you.write(code);](https://pearlluck.tistory.com/808)
+- [[책] 더 나은 프로그래머 되는법 Part5. 사람의 일](https://pearlluck.tistory.com/813)
+- [[도서서평단] 더 나은 프로그래머 되는 법](pearlluck.tistory.com/807)
+- [[책] 더 나은 프로그래머 되는법 부록.국내 개발자 8인의 이야기](https://pearlluck.tistory.com/814)
 
 ---
 
@@ -706,6 +719,18 @@ tag:
 
 - [넥스트레이드의 매칭기술이 궁금..](https://smallake.kr/?p=34140)
 - [금융위와 금감원이 내놓은 ATS 운영방안](https://smallake.kr/?p=34104)
+
+---
+
+## 푸르고
+
+- [그냥 하기 (명량한 염세주의)](https://puleugo.tistory.com/193)
+
+---
+
+## 테오
+
+- [[더 나은 엔지니어가 되기 위한 루틴] 취미부터 중소기업, 대기업, 스타트업, 창업까지 경험하며 느낀 점](https://dataportal.kr/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%A3%A8%ED%8B%B4-%EC%B7%A8%EB%AF%B8%EB%B6%80%ED%84%B0-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%EA%B9%8C%EC%A7%80-%EA%B2%BD%ED%97%98%ED%95%98%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90/)
 
 ---
 

@@ -5,15 +5,13 @@ description: Article(s) > Enable DevTools in Safari
 icon: fa-brands fa-safari
 category: 
   - Browser
+  - Safari
   - Article(s)
 tag: 
   - blog
   - devtoolstips.org
-  - js
   - debug
-  - tips
-  - eval
-  - sourceURL
+  - safari
 head:
   - - meta:
     - property: og:title
@@ -22,9 +20,20 @@ head:
       content: Enable DevTools in Safari
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/enable-safari-devtools.html
+prev: /tool/safari/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Safari > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/safari/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -39,6 +48,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2023.12.22
 
 Unlike other browsers, Safari hides its DevTools (and other developer-related features) by default. That's actually good because 99% of the people using the browser are probably not web developers.
 
@@ -56,7 +67,16 @@ The right-click > <FontIcon icon="iconfont icon-select"/>`[Inspect Element]` opt
 
 ::: details See also
 
-- [Debug your Safari Web Apps on macOS](https://devtoolstips.org/tips/en/debug-safari-mac-webapps) <!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "Debug your Safari Web Apps on macOS",
+  "desc": "Devtools Tips > Debug your Safari Web Apps on macOS",
+  "link": "/explore/articles/devtoolstips.org/debug-safari-mac-webapps.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
 - [Install or create extensions to customize DevTools](https://devtoolstips.org/tips/en/extend-devtools) <!-- TODO: add VPCard -->
 
 ```component VPCard
@@ -69,7 +89,15 @@ The right-click > <FontIcon icon="iconfont icon-select"/>`[Inspect Element]` opt
 }
 ```
 
-- [Debug your print CSS styles by simulating print media](https://devtoolstips.org/tips/en/debug-print-css-styles) <!-- TODO: add VPCard -->
+```component VPCard
+{
+  "title": "Debug your print CSS styles by simulating print media",
+  "desc": "Devtools Tips > Debug your print CSS styles by simulating print media",
+  "link": "/explore/article/devtoolstips.org/debug-print-css-styles.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
 
 :::
 

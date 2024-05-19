@@ -42,7 +42,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@DevMinGeonPark` - Xamarin Form에서 SNS 인증하기](https://blex.me/@DevMinGeonPark/xamarin-form%EC%97%90%EC%84%9C-sns-%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0)
 
@@ -201,6 +201,7 @@ tag:
 - [[WPF] 생성자 Override](https://hj0216.tistory.com/914)
 - [[WPF] 생성자 Overloading (2)](https://hj0216.tistory.com/916)
 - [[WPF] View, ViewModel Singleton](https://hj0216.tistory.com/917)
+- [[WPF] MVVM 패턴에서의 전체 선택](https://hj0216.tistory.com/919)
 
 ---
 

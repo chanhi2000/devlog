@@ -79,7 +79,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/pickers-in-forms-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/pickers-in-forms-1.zip)
 
 On iOS, that will appear as a single list row that you can tap to display all possible options – Mild, Medium, and Mature.
 
@@ -108,7 +108,7 @@ struct ContentView: View {
 }
 ```
 
-![A wheel style picker offering choices Mild, Medium, and Mature.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/pickers-in-forms-2~dark@2x.png)
+![A wheel style picker offering choices Mild, Medium, and Mature.](https://hackingwithswift.com/img/books/quick-start/swiftui/pickers-in-forms-2~dark@2x.png)
 
 ::: important
 

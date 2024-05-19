@@ -92,7 +92,7 @@ struct DetailView: View {
 }
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-respond-to-view-lifecycle-events-onappear-and-ondisappear-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-respond-to-view-lifecycle-events-onappear-and-ondisappear-1~dark.mp4" />
 
 When that code runs you should be able to move between the two views and see messages printed in your Xcode debug console.
 

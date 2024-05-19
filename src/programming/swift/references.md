@@ -62,7 +62,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@jwlee010523`: 기본 연산자(Basic Operators)](https://velog.io/@jwlee010523/Swift-%EA%B8%B0%EB%B3%B8-%EC%97%B0%EC%82%B0%EC%9E%90Basic-Operators)
 
@@ -277,6 +277,7 @@ tag:
 
 - [Generated Asset Catalog Symbols in Objective-C](https://www.swiftjectivec.com/generated-asset-symbols-objective-c)
 - [Quick and Painless Persistency on iOS](https://www.swiftjectivec.com/stupid-and-quick-persistency-on-ios-with-swift/)
+- [Refactoring to TipKit from AppStorage and Custom Views in SwiftUI](https://www.swiftjectivec.com/refactoring-tipkit-swiftui-from-appstorage)
 
 ---
 
@@ -357,6 +358,8 @@ tag:
 - [[iOS] `WKWebView`을 이용한 iOS 앱과 웹페이지 간의 통신 (1) - `WKWebView`과 Javasciprt Bridge](https://minsone.github.io/ios-wkwebview-webpage-communication-1-javascript-bridge)
 - [[iOS] `WKWebView`을 이용한 iOS 앱과 웹페이지 간의 통신 (2) - Control Flow](https://minsone.github.io/ios-wkwebview-webpage-communication-2-control-flow)
 - [[iOS] WKWebView을 이용한 iOS 앱과 웹페이지 간의 통신 (3) - Plugin을 이용하여 기능 확장하기](https://minsone.github.io/ios-wkwebview-webpage-communication-3-plugin)
+- [[ADR][가상] 아키텍처 의사 결정 기록: Package 접근제어자 사용](https://minsone.github.io/architecture-decision-record-seperate-network-api-module)
+- [[iOS][SwiftPM][Xcode 13.0] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
 
 ---
 
@@ -384,6 +387,7 @@ tag:
 ## Fatbobman's Blog
 
 - [New Frameworks, New Mindset: Unveiling the Observation and SwiftData Frameworks](https://fatbobman.com/en/posts/new-frameworks-new-mindset/)
+- [What Does spacing = nil Mean in SwiftUI?](https://fatbobman.com/en/posts/spacing-of-swiftui/)
 
 ---
 
@@ -559,6 +563,18 @@ tag:
 ## Paul Peelen
 
 - [OS Style settings view](https://paulpeelen.com/SettingsView)
+
+---
+
+## Scalable Feeds & Chat - Powerful APIs and Components by Stream
+
+- [Boost Performance by Over 100x Using the Accelerate Framework](https://getstream.io/blog/accelerate-framework)
+
+---
+
+## Filip Němeček's Blog
+
+- [Fixing weird shadow animation glitch in SwiftUI](https://nemecek.be/blog/202/fixing-weird-shadow-animation-glitch-in-swiftui)
 
 ---
 

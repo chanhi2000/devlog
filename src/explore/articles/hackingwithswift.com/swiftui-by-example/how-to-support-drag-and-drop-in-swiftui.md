@@ -75,7 +75,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-support-drag-and-drop-in-swiftui-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-support-drag-and-drop-in-swiftui-1.zip)
 
 The key part there is the `dropDestination()` modifier, which tells SwiftUI four things:
 
@@ -108,7 +108,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-code-when-your-app-launches-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-code-when-your-app-launches-2.zip)
 
 Accepting arrays of data – for example letting the user drag multiple images into our – follows the same procedure: using `dropDestination(for: Data.self)`, but now rather than just reading the first item you should use them all.
 
@@ -140,7 +140,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-code-when-your-app-launches-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-code-when-your-app-launches-3.zip)
 
 When you want to add dragging to your views, add the `draggable()` modifier using whatever `Transferable` content you want. By default SwiftUI will use the view itself for the drag preview, and if you're dragging an image from within your app you'll find you can use the drop type of `Image.self` rather than having to convert `Data` to `UIImage` first.
 
@@ -178,7 +178,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-code-when-your-app-launches-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-code-when-your-app-launches-4.zip)
 
 ::: important
 
@@ -198,7 +198,7 @@ Image(systemName: "figure.golf")
     }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-support-drag-and-drop-in-swiftui-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-support-drag-and-drop-in-swiftui-5.zip)
 
 ::: details Similar solutions…
 

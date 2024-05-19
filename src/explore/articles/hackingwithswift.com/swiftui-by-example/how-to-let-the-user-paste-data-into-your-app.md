@@ -78,7 +78,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-the-user-paste-data-into-your-app-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-the-user-paste-data-into-your-app-1.zip)
 
 Notice how we specify `String.self` as the payload type, but the input into the closure is an array of strings.
 

@@ -80,9 +80,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-a-menu-when-a-button-is-pressed-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-a-menu-when-a-button-is-pressed-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-menu-when-a-button-is-pressed-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-menu-when-a-button-is-pressed-1~dark.mp4" />
 
 You can also place menus inside menus if you want, which will cause iOS to reveal the second menu when the first option is tapped:
 
@@ -108,9 +108,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-a-menu-when-a-button-is-pressed-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-a-menu-when-a-button-is-pressed-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-menu-when-a-button-is-pressed-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-menu-when-a-button-is-pressed-2~dark.mp4" />
 
 If you wanted a customized label using some text and an icon, you could use this:
 
@@ -130,9 +130,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-a-menu-when-a-button-is-pressed-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-a-menu-when-a-button-is-pressed-3.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-menu-when-a-button-is-pressed-3~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-menu-when-a-button-is-pressed-3~dark.mp4" />
 
 Finally, in iOS 15 and later menus can also have a primary action, which is triggered when the menu’s button is tapped rather than held down – press and release to trigger the primary action, or hold down to get the full menu of options.
 
@@ -160,9 +160,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-a-menu-when-a-button-is-pressed-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-a-menu-when-a-button-is-pressed-4.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-menu-when-a-button-is-pressed-4~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-menu-when-a-button-is-pressed-4~dark.mp4" />
 
 ::: details Similar solutions…
 

@@ -99,7 +99,7 @@ NavigationStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-customize-toolbar-buttons-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-customize-toolbar-buttons-1.zip)
 
 When you run that code, you'll see a details button on the trailing edge of your toolbar – tapping that will show a Customize Toolbar menu that enables customization.
 
@@ -132,7 +132,7 @@ NavigationStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-customize-toolbar-buttons-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-customize-toolbar-buttons-2.zip)
 
 ::: tip
 

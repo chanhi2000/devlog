@@ -1179,5 +1179,10 @@
     "desc": "A list of open source games.",
     "officialSite": "",
     "topics": ["awesome-list", "games", "open-source"]
+  }, {
+    "repo": "webpro/awesome-dotfiles",
+    "desc": "A curated list of dotfiles resources.",
+    "officialSite": "",
+    "topics": ["awesome", "awesome-list", "bash", "dotfiles", "dotfiles-resources", "fish", "list", "shell", "tools", "zsh"]
   }
 ]

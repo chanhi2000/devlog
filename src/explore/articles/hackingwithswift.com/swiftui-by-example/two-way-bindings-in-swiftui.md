@@ -94,7 +94,7 @@ Inside `CheckoutView`, I'd like you to change `VStack` to `Form`, then press <kb
 
 Previously we had a plain pop up menu with no title, but now that we're in a form we get a single table row that shows our picker's title alongside its currently selected value.
 
-![SwiftUI has adapted our form to show the picture as a single row in a form.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-13~dark.png)
+![SwiftUI has adapted our form to show the picture as a single row in a form.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-13~dark.png)
 
 This is the power of SwiftUI's declarative approach to user interfaces: we say what behavior we want rather than the precise styling of it, and SwiftUI will automatically adapt it according to the context where it's used.
 

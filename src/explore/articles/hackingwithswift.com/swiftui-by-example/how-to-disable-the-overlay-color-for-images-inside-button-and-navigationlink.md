@@ -71,9 +71,9 @@ NavigationStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink-1~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink-1~dark.mp4 "/>
 
 As an alternative, you can use the `buttonStyle()` modifier with `.plain`, like this:
 
@@ -88,7 +88,7 @@ NavigationStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink-2.zip)
 
 Or like this for plain buttons:
 
@@ -101,7 +101,7 @@ Button {
 .buttonStyle(.plain)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink-3.zip)
 
 ::: important
 

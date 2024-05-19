@@ -1,26 +1,24 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Google Chrome > Youtube
+description: Firefox > Youtube
 icon: fa-brands fa-youtube
 category:
   - Browser
-  - Google
-  - Google Chrome
+  - Firefox
   - Youtube
 tag: 
-  - js
-  - node
-  - nodejs
+  - browser
+  - fierfox
   - youtube
 head:
   - - meta:
     - property: og:title
-      content: Google Chrome > Youtube
+      content: Firefox > Youtube
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/tool/googlechrome/youtube.html
+      content: https://chanhi2000.github.io/tool/firefox/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -28,7 +26,5 @@ head:
 [[toc]]
 
 ---
-
-<MyYouTubeItems jsonName="yu-ChromeDevs" /><!-- Google Chrome Developers -->
 
 <TagLinks />

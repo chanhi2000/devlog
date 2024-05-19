@@ -33,7 +33,7 @@ tag:
 - [React All Posts](https://reactjs.org/blog/all.html)
 - [LogRocket](https://blog.logrocket.com)
 - [Kati Frantz](https://katifrantz.com)
-- [Hacking with Swift](https://www.hackingwithswift.com)
+- [Hacking with Swift](https://hackingwithswift.com)
 - [Tall, Snarky Canadian](https://snarky.ca)
 - [서버포럼](https://svrforum.com)
 - [Currl - A free text-based social bookmarking website. Collect links you love from around the web.](https://currl.io)

@@ -62,9 +62,9 @@ Rectangle()
     .frame(width: 200, height: 200)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-display-solid-shapes-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-display-solid-shapes-1.zip)
 
-![A red square.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-display-solid-shapes-1~dark.png)
+![A red square.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-display-solid-shapes-1~dark.png)
 
 Similarly, if you wanted a 100x100 blue circle you would use this:
 
@@ -74,9 +74,9 @@ Circle()
     .frame(width: 100, height: 100)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-display-solid-shapes-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-display-solid-shapes-2.zip)
 
-![A blue circle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-display-solid-shapes-2~dark.png)
+![A blue circle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-display-solid-shapes-2~dark.png)
 
 There's a dedicated shape for rounded rectangles, allowing you to customize how much rounding should be applied, as well as having complete control over the type of rounding. For example, this creates a rounded rectangle with 25 points of rounding on each corner:
 
@@ -86,9 +86,9 @@ RoundedRectangle(cornerRadius: 25)
     .frame(width: 150, height: 100)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-display-solid-shapes-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-display-solid-shapes-3.zip)
 
-![A green rounded rectangle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-display-solid-shapes-3~dark.png)
+![A green rounded rectangle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-display-solid-shapes-3~dark.png)
 
 Finally, SwiftUI provides a `Capsule()` shape as a specialized form of rounded rectangles, where the shortest edge of the rectangle is always fully rounded. This is a popular style with buttons, because you get a lozenge-shaped button in just a couple of lines of code:
 
@@ -98,9 +98,9 @@ Capsule()
     .frame(width: 150, height: 100)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-display-solid-shapes-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-display-solid-shapes-4.zip)
 
-![A green capsule or lozenge shape.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-display-solid-shapes-4~dark.png)
+![A green capsule or lozenge shape.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-display-solid-shapes-4~dark.png)
 
 ::: details Similar solutions…
 

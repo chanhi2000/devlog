@@ -26,7 +26,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@kandy1002` / [Terraform] Key encryption with Sops & AWS KMS](https://velog.io/@kandy1002/Terraform-Key-encryption-with-Sops-AWS-KMS)
 

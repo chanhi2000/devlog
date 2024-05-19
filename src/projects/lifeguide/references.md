@@ -32,7 +32,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@mythos` / [Book] 소크라테스의 변명ㆍ크리톤ㆍ파이돈ㆍ향연 (최유경)](https://velog.io/@mythos/Book-%EC%86%8C%ED%81%AC%EB%9D%BC%ED%85%8C%EC%8A%A4%EC%9D%98-%EB%B3%80%EB%AA%85%E3%86%8D%ED%81%AC%EB%A6%AC%ED%86%A4%E3%86%8D%ED%8C%8C%EC%9D%B4%EB%8F%88%E3%86%8D%ED%96%A5%EC%97%B0-%EC%B5%9C%EC%9C%A0%EA%B2%BD)
 

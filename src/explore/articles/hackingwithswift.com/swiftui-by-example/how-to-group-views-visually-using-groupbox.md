@@ -67,9 +67,9 @@ GroupBox {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-group-views-visually-using-groupbox-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-group-views-visually-using-groupbox-1.zip)
 
-![Three lines of text centered in a gray rounded rectangle. The top line is bolded.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-group-views-visually-using-groupbox-1~dark@2x.png)
+![Three lines of text centered in a gray rounded rectangle. The top line is bolded.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-group-views-visually-using-groupbox-1~dark@2x.png)
 
 If you want to control that layout, such as changing axis or adjusting the alignment, create a stack yourself:
 
@@ -84,9 +84,9 @@ GroupBox {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-group-views-visually-using-groupbox-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-group-views-visually-using-groupbox-2.zip)
 
-![Three lines of text left-aligned in a gray rounded rectangle. The top line is bolded.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-group-views-visually-using-groupbox-2~dark@2x.png)
+![Three lines of text left-aligned in a gray rounded rectangle. The top line is bolded.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-group-views-visually-using-groupbox-2~dark@2x.png)
 
 One real power feature of `GroupBox` is that if you nest them they will automatically adapt their colors so they are neatly distinguished:
 
@@ -104,9 +104,9 @@ GroupBox {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-group-views-visually-using-groupbox-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-group-views-visually-using-groupbox-3.zip)
 
-![Three concentric rounded rectangles, each containing a line of text, and the inner rectangle(s).](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-group-views-visually-using-groupbox-3~dark@2x.png)
+![Three concentric rounded rectangles, each containing a line of text, and the inner rectangle(s).](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-group-views-visually-using-groupbox-3~dark@2x.png)
 
 This effect works just as well – if not better! – in dark mode.
 
@@ -121,9 +121,9 @@ GroupBox("Your account") {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-group-views-visually-using-groupbox-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-group-views-visually-using-groupbox-4.zip)
 
-![A macOS window containing “Your account” above a two lines of text in a rounded rectangle. Beside it is an iPhone with similar contents consuming horizontal space, resulting in a visual imbalance.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-group-views-visually-using-groupbox-4~dark@2x.png)
+![A macOS window containing “Your account” above a two lines of text in a rounded rectangle. Beside it is an iPhone with similar contents consuming horizontal space, resulting in a visual imbalance.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-group-views-visually-using-groupbox-4~dark@2x.png)
 
 ::: details Similar solutions…
 

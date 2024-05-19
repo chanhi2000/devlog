@@ -5,6 +5,9 @@ description: Article(s) > Force execution, skipping breakpoints, when paused
 icon: iconfont icon-template
 category: 
   - Browser
+  - Google
+  - Google Chrome
+  - Firefox
   - Article(s)
 tag: 
   - blog
@@ -12,6 +15,10 @@ tag:
   - js
   - debug
   - tips
+  - google
+  - googlechrome
+  - google-chrome
+  - firefox
 head:
   - - meta:
     - property: og:title
@@ -20,9 +27,30 @@ head:
       content: Force execution, skipping breakpoints, when paused
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/force-execution-at-breakpoint.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Firefox > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/firefox/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -37,6 +65,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2023.10.26
 
 When using breakpoints to debug your JavaScript code, sometimes you end up setting many breakpoints in different functions. You might want to keep these breakpoints but not always pause at them.
 

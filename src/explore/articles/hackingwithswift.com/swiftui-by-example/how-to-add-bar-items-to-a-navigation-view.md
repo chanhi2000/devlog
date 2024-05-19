@@ -76,9 +76,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-bar-items-to-a-navigation-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-bar-items-to-a-navigation-view-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-bar-items-to-a-navigation-view-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-bar-items-to-a-navigation-view-1~dark.mp4" />
 
 We haven't specified where the buttons should be displayed, but that's okay – SwiftUI knows that on iOS the trailing edge is the best place for left to right languages, and will automatically flip that to the other side for right to left languages.
 
@@ -102,9 +102,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-bar-items-to-a-navigation-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-bar-items-to-a-navigation-view-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-bar-items-to-a-navigation-view-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-bar-items-to-a-navigation-view-2~dark.mp4" />
 
 If you want to place multiple bar buttons in different locations, you can just repeat `ToolbarItem` as many times as you need and specify a different placement each time.
 
@@ -132,9 +132,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-bar-items-to-a-navigation-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-bar-items-to-a-navigation-view-3.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-bar-items-to-a-navigation-view-3~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-bar-items-to-a-navigation-view-3~dark.mp4" />
 
 That uses the `.primaryAction` placement, which will position the buttons depending on where the platform thinks the most important buttons go.
 
@@ -170,7 +170,7 @@ NavigationStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-bar-items-to-a-navigation-view-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-bar-items-to-a-navigation-view-4.zip)
 
 ::: details Similar solutions…
 

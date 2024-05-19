@@ -28,6 +28,12 @@ head:
 
 ---
 
+## AWS
+
+- [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/ko/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
+
+---
+
 ## DZone
 
 - [Mastering AWS Cost Management and Optimization](https://dzone.com/articles/mastering-aws-cost-management-and-optimization)
@@ -62,7 +68,7 @@ head:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@ksh4704` - 코드스테이츠-부트캠프 [Deploy]-AWS](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Deploy-AWS)
 - [`@eunbibi` - AWS RDS](https://velog.io/@eunbibi/AWS-RDS)
@@ -70,7 +76,7 @@ head:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@Su-per` - AWS CodeDeploy 찍먹해보기](https://blex.me/@Su-per/aws-codedeploy-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [`@Su-per` - AWS CloudFormation으로 IaC 시작하기 - 01](https://blex.me/@Su-per/aws-cloudformation%EC%9C%BC%EB%A1%9C-iac-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-01)

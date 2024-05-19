@@ -81,7 +81,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-textfield-to-an-alert-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-textfield-to-an-alert-1.zip)
 
 You can add as many fields as you want, mixing `TextField` and `SecureText` depending on your goal. For example, this shows a login prompt asking the user to enter their username and password into an alert:
 
@@ -116,7 +116,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-textfield-to-an-alert-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-textfield-to-an-alert-2.zip)
 
 ::: details Similar solutions…
 

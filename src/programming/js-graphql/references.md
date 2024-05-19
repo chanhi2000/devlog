@@ -34,7 +34,7 @@ head:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 웹 앱 API 개발을 위한 GraphQL 1~4장 정리](https://blex.me/@baealex/graphql-for-web-api-development)
 

@@ -95,9 +95,9 @@ struct PlayerNameView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-stateobject-to-create-and-monitor-external-objects-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-stateobject-to-create-and-monitor-external-objects-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-stateobject-to-create-and-monitor-external-objects-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-stateobject-to-create-and-monitor-external-objects-1~dark.mp4" />
 
 If you're finding it hard to remember the distinction, try this: whenever you see “State” in a property wrapper, e.g. `@State`, `@StateObject`, `@GestureState`, it means “the current view owns this data.”
 

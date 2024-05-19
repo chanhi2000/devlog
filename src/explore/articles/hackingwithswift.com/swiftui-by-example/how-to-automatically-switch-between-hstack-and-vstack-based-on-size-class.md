@@ -95,9 +95,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-automatically-switch-between-hstack-and-vstack-based-on-size-class-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-automatically-switch-between-hstack-and-vstack-based-on-size-class-1.zip)
 
-![An iPad showing two lines of text side-by-side in an app that spans the right two thirds of the screen. Another iPad showing two lines stacked vertically in an app that spans only the right third of the screen](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-automatically-switch-between-hstack-and-vstack-based-on-size-class-1~dark.png)
+![An iPad showing two lines of text side-by-side in an app that spans the right two thirds of the screen. Another iPad showing two lines stacked vertically in an app that spans only the right third of the screen](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-automatically-switch-between-hstack-and-vstack-based-on-size-class-1~dark.png)
 
 To try it out, run the app in an iPad simulator, then try different sizes of split view – you'll see `ContentView` automatically switch to a `VStack` when space runs low.
 

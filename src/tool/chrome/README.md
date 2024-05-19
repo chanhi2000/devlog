@@ -17,7 +17,7 @@ category:
 
 ## Table of Contents
 
-<ToCLocal basePath="/tool/googlechrome/" />
+<ToCLocal basePath="/tool/chrome/" />
 
 ---
 

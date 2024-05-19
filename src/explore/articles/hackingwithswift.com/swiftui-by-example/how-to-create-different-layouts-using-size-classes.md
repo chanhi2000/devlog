@@ -70,9 +70,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-different-layouts-using-size-classes-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-different-layouts-using-size-classes-1.zip)
 
-![A phone in portrait mode showing the word “Compact” beside a phone in landscape mode showing the word “Regular”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-different-layouts-using-size-classes-1~dark.png)
+![A phone in portrait mode showing the word “Compact” beside a phone in landscape mode showing the word “Regular”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-different-layouts-using-size-classes-1~dark.png)
 
 Size classes are a great way to make your user interfaces intelligently adapt to the available space by using a `VStack` or a `HStack` for your content. For example, if you have lots of space you might lay things out horizontally, but switch to vertical layout when space is limited.
 

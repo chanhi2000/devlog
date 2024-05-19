@@ -5,12 +5,22 @@ description: Article(s) > Highlight all elements on the page that match a given 
 icon: fa-brands fa-css3-alt
 category: 
   - CSS
+  - Browser
+  - Google
+  - Google Chrome
+  - Firefox
+  - Safari
   - Article(s)
 tag: 
   - blog
   - devtoolstips.org
   - css
   - highlighter
+  - google
+  - googlechrome
+  - google-chrome
+  - firefox
+  - safari
 head:  
   - - meta:
     - property: og:title
@@ -19,9 +29,40 @@ head:
       content: Highlight all elements on the page that match a given CSS selector
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/highlight-elements-from-selector.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Firefox > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/firefox/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Safari > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/safari/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -36,6 +77,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2023.09.08
 
 When you select an element in DevTools (in the **Elements** or **Inspector** tool), you see the CSS rules that apply to it. But, these rules can also apply to other elements in the page than the currently selected one.
 

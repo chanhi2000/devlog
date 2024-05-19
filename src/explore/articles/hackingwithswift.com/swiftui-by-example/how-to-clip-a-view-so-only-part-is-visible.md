@@ -68,9 +68,9 @@ Button {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-clip-a-view-so-only-part-is-visible-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-clip-a-view-so-only-part-is-visible-1.zip)
 
-![A white lightning bolt icon inside a green circle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-clip-a-view-so-only-part-is-visible-1~dark@2x.png)
+![A white lightning bolt icon inside a green circle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-clip-a-view-so-only-part-is-visible-1~dark@2x.png)
 
 The `Circle` clip shape will always make circles from views, even if their width and height are unequal – it will just crop the larger value to match the small.
 
@@ -88,9 +88,9 @@ Button {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-clip-a-view-so-only-part-is-visible-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-clip-a-view-so-only-part-is-visible-2.zip)
 
-![A white lightning bolt icon inside a green capsule or pill shape.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-clip-a-view-so-only-part-is-visible-2~dark@2x.png)
+![A white lightning bolt icon inside a green capsule or pill shape.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-clip-a-view-so-only-part-is-visible-2~dark@2x.png)
 
 I added some more precise padding there to get a better shape – you should experiment to find something you like.
 

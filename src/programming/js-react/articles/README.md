@@ -161,6 +161,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Zustand vs useState – How to Manage State in React Apps",
+  "desc": "State management in React applications has evolved a lot in recent years, especially with the advancement of functional state and the introduction of hooks.  Developers have more flexibility and state management has generally become simpler. But as applications grow, they become more complex to manage – and you may...",
+  "link": "/explore/articles/freecodecamp.org/zustand-vs-usestate-how-to-manage-state-in-react.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## 요즘IT

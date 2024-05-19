@@ -82,9 +82,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-custom-path-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-custom-path-1.zip)
 
-![A series of concentric square outlines creating an optical illusion.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-custom-path-1~dark@2x.png)
+![A series of concentric square outlines creating an optical illusion.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-custom-path-1~dark@2x.png)
 
 ::: details Similar solutions…
 

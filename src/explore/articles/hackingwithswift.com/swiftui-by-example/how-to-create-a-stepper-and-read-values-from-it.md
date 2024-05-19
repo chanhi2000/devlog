@@ -69,9 +69,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-stepper-and-read-values-from-it-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-stepper-and-read-values-from-it-1.zip)
 
-![The words “Enter your age” beside a grey capsule containing a minus and a plus button. Below are the words “Your age is 18”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-stepper-and-read-values-from-it-1~dark.png)
+![The words “Enter your age” beside a grey capsule containing a minus and a plus button. Below are the words “Your age is 18”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-stepper-and-read-values-from-it-1~dark.png)
 
 Rather than binding directly to a value, you can also provide custom `onIncrement` and `onDecrement` closures to do custom work, like this:
 
@@ -93,9 +93,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-stepper-and-read-values-from-it-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-stepper-and-read-values-from-it-2.zip)
 
-![The words “Enter your age” beside a grey capsule containing a minus and a plus button. Below are the words “Your age is 18”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-stepper-and-read-values-from-it-2~dark.png)
+![The words “Enter your age” beside a grey capsule containing a minus and a plus button. Below are the words “Your age is 18”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-stepper-and-read-values-from-it-2~dark.png)
 
 ::: details Similar solutions…
 

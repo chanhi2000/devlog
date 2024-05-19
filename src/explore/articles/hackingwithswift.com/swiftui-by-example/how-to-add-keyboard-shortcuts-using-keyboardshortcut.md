@@ -63,11 +63,11 @@ Button("Log in") {
 .keyboardShortcut("l")
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-1.zip)
 
 Note that we don't need to specify that we mean <kbd>Cmd</kbd>+<kbd>L</kbd>, because SwiftUI assumes the Command key is used unless we specify otherwise. If you run that code sample on an iPad, you'll see that holding down the <kbd>Cmd</kbd> key brings up the keyboard shortcuts overlay, showing <kbd>“Cmd</kbd>+<kbd>L</kbd> Login” already – SwiftUI automatically figured out what our button did and made it available.
 
-![The words “Log in” in blue, indicating they are tappable. Below that is iPadOS's command palette showing the Log In command has the <kbd>Cmd</kbd>+<kbd>L</kbd> shortcut.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-1~dark.png)
+![The words “Log in” in blue, indicating they are tappable. Below that is iPadOS's command palette showing the Log In command has the <kbd>Cmd</kbd>+<kbd>L</kbd> shortcut.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-1~dark.png)
 
 The second way to use `keyboardShortcut()` is to specify which modifier keys you actually want. As an example, this creates two more buttons, one using Shift+R to trigger a Run button, and another for <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>Cmd</kbd>+<kbd>H</kbd> to trigger a Home button:
 
@@ -85,9 +85,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-2.zip)
 
-![The words “Run” and “Home” in blue, indicating they are tappable. Below that is iPadOS's command palette showing that “Run” has the shortcut <kbd>Shift</kbd>+<kbd>R</kbd>, and “Home” has shortcut <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>Cmd</kbd>+<kbd>H</kbd>.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-2~dark.png)
+![The words “Run” and “Home” in blue, indicating they are tappable. Below that is iPadOS's command palette showing that “Run” has the shortcut <kbd>Shift</kbd>+<kbd>R</kbd>, and “Home” has shortcut <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>Cmd</kbd>+<kbd>H</kbd>.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-2~dark.png)
 
 That shows you how to select one custom modifier, and how to select several modifiers at the same time.
 
@@ -102,9 +102,9 @@ Button("Confirm Launch") {
 .keyboardShortcut(.defaultAction)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-3.zip)
 
-![The words “Confirm Launch” in blue, indicating they are tappable. Below that is iPadOS's command palette showing the Confirm Launch command has the <kbd>Return</kbd> or <kbd>Enter</kbd> shortcut.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-3~dark.png)
+![The words “Confirm Launch” in blue, indicating they are tappable. Below that is iPadOS's command palette showing the Confirm Launch command has the <kbd>Return</kbd> or <kbd>Enter</kbd> shortcut.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-3~dark.png)
 
 ::: details Similar solutions…
 

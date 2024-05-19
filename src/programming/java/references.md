@@ -80,7 +80,7 @@ tag:
 
 - [Breaking `java.lang.String`](https://wouter.coekaerts.be/2023/breaking-string)
 
-### velog
+### <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@qkrtkdwns3410` / [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
 - [`@qkrtkdwns3410` / FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
@@ -91,7 +91,7 @@ tag:
 - [`@hyemin916` / 자바와 함수형 프로그래밍](https://velog.io/@hyemin916/%EC%9E%90%EB%B0%94%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - [`@qkrtkdwns3410` / 프로세스(Process) vs 스레드(Thread)](https://velog.io/@qkrtkdwns3410/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4Process-vs-%EC%8A%A4%EB%A0%88%EB%93%9CThread)
 
-### BLEX
+### <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@happyhw0589` - [백준 자바] 01-01 Hello World](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80%EC%BD%94%EB%94%A91-1-1-2-println)
 - [`@happyhw0589` - [백준 자바] 01-02 We love kriii](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80-01-02-we-love-kriii)
@@ -104,6 +104,10 @@ tag:
 - [`@msa4080` - PART1. 자바 입문](https://blex.me/@msa4080/part1-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8-1)
 - [`@msa4080` - PART2. 자바 언어 기본(1)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8)
 - [`@msa4080` - PART2. 자바 언어 기본(2)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B82)
+
+### Brunch
+
+- [[탄생 비화] JVM 밑바닥까지 파헤치기](https://brunch.co.kr/@wegra/36)
 
 ### Douglas Schmidt
 
@@ -234,6 +238,7 @@ tag:
 - [[내일배움캠프 18일차 TIL] 자바 관련 및 마크다운과 팀 프로젝트 마무리](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-18%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%90%EB%B0%94-%EA%B4%80%EB%A0%A8-%EB%B0%8F-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EA%B3%BC-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC)
 - [[ 99클럽 코테 스터디 35일차 TIL] 백준 - (1085번 - 직사각형에서 탈출)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-34%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-1085%EB%B2%88-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C-%ED%83%88%EC%B6%9C)
 - [[내일배움캠프 17일차 TIL] `enum` & `final` 및 팀 프로젝트(필수 기능)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-17%EC%9D%BC%EC%B0%A8-TIL-enum-final-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%84%EC%88%98-%EA%B8%B0%EB%8A%A5)
+- [[내일배움캠프 21일차 TIL] 3 Layer Architecture와 SQL](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-21%EC%9D%BC%EC%B0%A8-TIL-3-Layer-Architecture%EC%99%80-SQL)
 
 
 ### 류광의 번역 이야기
@@ -280,6 +285,7 @@ tag:
 - [[숫자야구게임 Step2] 도메인 구현](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B5%AC%ED%98%84)
 - [[숫자야구게임 Step2] 비지니스 로직을 작성하자.](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90)
 - [[숫자야구게임 Step1] 실제 애플리케이션이 동작할 코드를 작성하자 & 마무리](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step1-%EC%8B%A4%EC%A0%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%A0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%A7%88%EB%AC%B4%EB%A6%AC)
+- [[DDD 세레나데 6기] 1주차 - 0단계 Junit5 학습](https://rutgo-letsgo.tistory.com/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-0%EB%8B%A8%EA%B3%84-Junit5-%ED%95%99%EC%8A%B5)
 
 ### CK.D. Lee
 
@@ -321,6 +327,10 @@ tag:
 ### 얇고 넓은 개발 블로그
 
 - [Slack App Directory를 활용하여 Webhook보다 퀄 좋은 메세지 발송하기](https://sundries-in-myidea.tistory.com/166)
+
+### 사바라다는 차곡차곡
+
+- [[Network] Apache HttpClient의 설정으로 알아보는 클라이언트 관점의 네트워크 속성들](https://sabarada.tistory.com/261)
 
 ---
 
@@ -374,7 +384,7 @@ tag:
 - [`jaeyeong951` / Project Valhalla : value class](https://jaeyeong951.medium.com/project-valhalla-value-class-092a25aec7a6)
 - [`@maya.mohite` / Type Erasure in Kotlin: Simplifying the Complex](https://medium.com/@maya.mohite/type-erasure-in-kotlin-simplifying-the-complex-e60de7ae3db1)
 
-### velog
+### <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@dudgns0507` - [Kotlin] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
@@ -430,6 +440,7 @@ tag:
 - [[Kotlin] 백준 13199 : 치킨 먹고 싶다](https://colabear754.tistory.com/208)
 - [[OOP] 일급 컬렉션(First Class Collection)으로 컬렉션을 다뤄보자](https://colabear754.tistory.com/209)
 - [[Kotlin] 백준 25418 : 정수 a를 k로 만들기](https://colabear754.tistory.com/210)
+- [[Kotlin] 백준 28078 : 중력 큐](https://colabear754.tistory.com/213)
 
 ### Square Lab
 

@@ -969,5 +969,10 @@
     "desc": "Algebraic data types for C99",
     "officialSite": "",
     "topics": ["adt", "algebraic", "algebraic-data-types", "c99", "derive", "introspection", "metalang99", "metaprogramming", "pattern-matching", "reflection-library", "sum-types", "tagged-unions", "type-system", "variant"]
+  }, {
+    "repo": "iovisor/ubpf",
+    "desc": "Userspace eBPF VM",
+    "officialSite": "",
+    "topics": []
   }
 ]

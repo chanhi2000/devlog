@@ -24,7 +24,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@DevMinGeonPark` - Jetbrains IDE 학생 라이센스 받기](https://blex.me/@DevMinGeonPark/jetbrains-ide-%ED%95%99%EC%83%9D-%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4-%EB%B0%9B%EA%B8%B0)
 
@@ -52,6 +52,12 @@ tag:
 
 - [아직도 postman 쓰세요? Intellij http를 통해 api를 테스트해보자!](https://sihyung92.oopy.io/etc/intellij/2)
 - [코딩 할 때 ‘부대 지정’을 할 수 있다면?? 인텔리제이 bookmark 기능 알아보기](https://sihyung92.oopy.io/etc/intellij/4)
+
+---
+
+## Life Log
+
+- [젯브레인 자동 줄바꿈 간격 조정](https://ravenkim97.tistory.com/430)
 
 ---
 

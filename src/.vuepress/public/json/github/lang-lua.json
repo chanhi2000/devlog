@@ -149,5 +149,10 @@
     "desc": "🔥 A cross-platform build utility based on Lua",
     "officialSite": "https://xmake.io",
     "topics": ["build", "build-tool", "c", "c-plus-plus", "cmake", "cross-toolchains", "linux", "lua", "makefile", "objective-c", "package-manager", "tbox", "visual-studio", "wdk", "xmake"]
+  }, {
+    "repo": "tjdevries/config.nvim",
+    "desc": "my nvim config",
+    "officialSite": "",
+    "topics": []
   }
 ]

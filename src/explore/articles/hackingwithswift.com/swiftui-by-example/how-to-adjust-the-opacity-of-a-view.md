@@ -63,9 +63,9 @@ Text("Now you see me")
     .opacity(0.3)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-opacity-of-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-opacity-of-a-view-1.zip)
 
-![The text “Now you see me” in a red rectangle. Both are translucent.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-opacity-of-a-view-1~dark@2x.png)
+![The text “Now you see me” in a red rectangle. Both are translucent.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-opacity-of-a-view-1~dark@2x.png)
 
 Modifying opacity is extremely fast – certainly something you can do as often as you need. To demonstrate that, the following code adjusts text opacity using a slider, and you’ll see you can move it around as fast and as much as you like without any performance hit:
 
@@ -87,7 +87,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-opacity-of-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-opacity-of-a-view-2.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-opacity-of-a-view-2~dark.mp4" />
 

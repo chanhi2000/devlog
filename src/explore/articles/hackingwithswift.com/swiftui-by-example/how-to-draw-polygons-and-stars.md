@@ -142,13 +142,13 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-polygons-and-stars-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-polygons-and-stars-1.zip)
 
-![A red five pointed star on a green square.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-polygons-and-stars-1~dark@2x.png)
+![A red five pointed star on a green square.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-polygons-and-stars-1~dark@2x.png)
 
 As stars are just polygons, if you increase smoothness to 1 you’ll find you can draw shapes like hexagons and octagons without having to change the code.
 
-![A regular red hexagon on a green square.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-polygons-and-stars-2~dark@2x.png)
+![A regular red hexagon on a green square.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-polygons-and-stars-2~dark@2x.png)
 
 ::: details Similar solutions…
 

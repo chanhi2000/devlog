@@ -66,9 +66,9 @@ Text("Hacking with Swift")
     )
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-1.zip)
 
-![The words “Hacking with Swift” over an image of the indoor waterfall at Singapore's “Jewel” airport terminal.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-1~dark.png)
+![The words “Hacking with Swift” over an image of the indoor waterfall at Singapore's “Jewel” airport terminal.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-1~dark.png)
 
 However, it doesn't _need_ to be an image. For example, this creates the same text view then places a 50x50 red circle behind it:
 
@@ -81,9 +81,9 @@ Text("Hacking with Swift")
         .frame(width: 50, height: 50))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-2.zip)
 
-![The words “Hacking with Swift” over a small red circle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-2~dark.png)
+![The words “Hacking with Swift” over a small red circle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-2~dark.png)
 
 By default background views automatically take up as much space as they need to be fully visible, but if you want you can have them be clipped to the size of their parent view using the `clipped()` modifier:
 
@@ -99,9 +99,9 @@ Text("Hacking with Swift")
     .clipped()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-3.zip)
 
-![The words “Hacking with Swift” over a red circle which has been clipped at the top and bottom.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-3~dark.png)
+![The words “Hacking with Swift” over a red circle which has been clipped at the top and bottom.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-3~dark.png)
 
 To be clear, you can use _any_ view as your background – another text view if you wanted, for example.
 

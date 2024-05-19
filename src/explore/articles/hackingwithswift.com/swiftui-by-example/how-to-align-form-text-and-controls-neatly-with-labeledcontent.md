@@ -63,7 +63,7 @@ Form {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-1.zip)
 
 This will place the title on the leading edge of the screen and the value on the trailing edge. The alignment will automatically adjust depending on your platform: iOS left aligns the title and right aligns the value, whereas macOS *right* aligns the title and *left* aligns the value. This is particularly important for forms on macOS, where other view types such as `TextField` and `Toggle` automatically align their title and value, whereas `Slider` would not.
 
@@ -77,7 +77,7 @@ LabeledContent("This is important") {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-2.zip)
 
 But more importantly, we can also use it with any views that would not normally have a label, such as `Slider`:
 
@@ -97,7 +97,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-3.zip)
 
 This is particularly important on macOS, because it was place the label on the left-hand side of the form and the slider on the right.
 
@@ -120,7 +120,7 @@ Form {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-4.zip)
 
 In fact, it supports up to four pieces of text using this approach, with each one rendered smaller and lighter:
 
@@ -137,7 +137,7 @@ Form {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent-5.zip)
 
 ::: tip
 

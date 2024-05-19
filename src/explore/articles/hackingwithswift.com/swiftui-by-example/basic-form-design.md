@@ -83,9 +83,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/basic-form-design-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/basic-form-design-1.zip)
 
-![An inset-list style form with a segmented picker offering Red, Green, and Blue, an “Enable Logging” toggle, as well as a blue-text “Save Changes” button.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/basic-form-design-1~dark@2x.png)
+![An inset-list style form with a segmented picker offering Red, Green, and Blue, an “Enable Logging” toggle, as well as a blue-text “Save Changes” button.](https://hackingwithswift.com/img/books/quick-start/swiftui/basic-form-design-1~dark@2x.png)
 
 ::: important
 

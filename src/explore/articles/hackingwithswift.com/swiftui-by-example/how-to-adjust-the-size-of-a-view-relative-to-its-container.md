@@ -74,9 +74,9 @@ ScrollView(.horizontal, showsIndicators: false) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-size-of-a-view-relative-to-its-container-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-adjust-the-size-of-a-view-relative-to-its-container-1.zip)
 
-![A horizontally scrolling list of views, where each view is 2/5ths the width of the parent view.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-size-of-a-view-relative-to-its-container-1~dark.gif)
+![A horizontally scrolling list of views, where each view is 2/5ths the width of the parent view.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-adjust-the-size-of-a-view-relative-to-its-container-1~dark.gif)
 
 To be clear: the `count` parameter refers to how many parts the scroll view's horizontal space should be split into, and the `span` parameter refers to how many parts should be allocated to each text view. We've used 5 for `count`, meaning that the scroll view's horizontal space will be split into 5, then used 2 for `span`, meaning that each text view will be given 2/5ths of the space.
 

@@ -92,9 +92,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-an-asynchronous-task-when-a-view-is-shown-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-an-asynchronous-task-when-a-view-is-shown-1.zip)
 
-![The word “Inbox” in bold above a list of messages.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-run-an-asynchronous-task-when-a-view-is-shown-1~dark.png)
+![The word “Inbox” in bold above a list of messages.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-run-an-asynchronous-task-when-a-view-is-shown-1~dark.png)
 
 You can attach the `task()` modifier to any view in your hierarchy, even ones that are presented as a result of a navigation push – it will only actually start its work when the view is displayed.
 
@@ -141,7 +141,7 @@ struct SourceViewer: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-run-an-asynchronous-task-when-a-view-is-shown-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-run-an-asynchronous-task-when-a-view-is-shown-2.zip)
 
 Both `task()` and `onAppear()` are able to run synchronous functions when you view is shown, so there's no particular reason to choose one or the other beyond personal taste – there's a nice balance to having both `onAppear()` and `onDisappear()` together.
 

@@ -66,9 +66,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-progress-on-a-task-using-progressview-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-progress-on-a-task-using-progressview-1.zip)
 
-![The text “Downloading” over an almost empty progress bar.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-progress-on-a-task-using-progressview-1~dark.png)
+![The text “Downloading” over an almost empty progress bar.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-progress-on-a-task-using-progressview-1~dark.png)
 
 In practice, you'll need some way to actually *change* that value, such as a timer, a network request, or other user interface. For example, this will fill the progress bar up over a few seconds:
 
@@ -88,7 +88,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-progress-on-a-task-using-progressview-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-progress-on-a-task-using-progressview-2.zip)
 
 ::: note
 
@@ -96,7 +96,7 @@ Xcode will get angry if you set your progress value higher than the progress tot
 
 :::
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-progress-on-a-task-using-progressview-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-progress-on-a-task-using-progressview-2~dark.mp4" />
 
 ::: details Similar solutions…
 

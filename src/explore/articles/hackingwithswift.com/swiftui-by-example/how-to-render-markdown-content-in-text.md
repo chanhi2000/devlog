@@ -66,7 +66,7 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-render-markdown-content-in-text-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-render-markdown-content-in-text-1.zip)
 
 Several lines of text appropriately formatted with Markdown styling.
 
@@ -77,7 +77,7 @@ Text("Visit Apple: [click here](https://apple.com)")
     .tint(.indigo)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-render-markdown-content-in-text-2.zipp)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-render-markdown-content-in-text-2.zipp)
 
 ::: note
 
@@ -97,7 +97,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-render-markdown-content-in-text-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-render-markdown-content-in-text-3.zip)
 
 If you wanted the original text unchanged – i.e., you wanted the raw, unformatted Markdown symbols to be left in place – just remove the `LocalizedStringKey` annotation. Alternatively, you can disable both Markdown and localization entirely using the `Text(verbatim:)` initializer.
 

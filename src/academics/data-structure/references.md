@@ -1,0 +1,30 @@
+---
+lang: ko-KR
+title: References
+description: Data Structure > References
+icon: iconfont icon-share
+category:
+  - Computer Science
+  - Data Structure
+  - References
+tag:
+  - computer
+  - computer-science
+  - compsci
+  - algorithm
+  - data-structure
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+## velog
+
+- [`@endmoseung` / [길벗 개발자 리뷰어] 읽고 나면 진짜 쉬워지는 자료 구조](https://velog.io/@endmoseung/%EA%B8%B8%EB%B2%97-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A6%AC%EB%B7%B0%EC%96%B4-%EC%9D%BD%EA%B3%A0-%EB%82%98%EB%A9%B4-%EC%A7%84%EC%A7%9C-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0)
+
+---
+
+<TagLinks />

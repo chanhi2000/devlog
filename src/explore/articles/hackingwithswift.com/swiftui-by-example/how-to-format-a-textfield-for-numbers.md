@@ -72,9 +72,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-format-a-textfield-for-numbers-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-format-a-textfield-for-numbers-1.zip)
 
-![A text field showing 123, with a label below saying “Your score was 123.”](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-a-textfield-for-numbers-1~dark.png)
+![A text field showing 123, with a label below saying “Your score was 123.”](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-a-textfield-for-numbers-1~dark.png)
 
 ::: important
 
@@ -104,7 +104,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-format-a-textfield-for-numbers-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-format-a-textfield-for-numbers-2.zip)
 
 Regardless of which code option you choose, if you try using it you'll notice a few things:
 

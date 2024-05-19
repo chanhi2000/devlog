@@ -68,9 +68,9 @@ VStack(spacing: 50) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-text-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-text-1.zip)
 
-![The line “You can't touch this” above the line “Break it down!”. A selection menu hovers over the second line.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-text-1~dark.png)
+![The line “You can't touch this” above the line “Break it down!”. A selection menu hovers over the second line.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-text-1~dark.png)
 
 When text is selected, the user automatically gains access to the regular text actions such as Copy and Share. However, right now at least the whole text area is copied – you don't get a text selection loupe, so you can't select just a few words.
 
@@ -84,9 +84,9 @@ VStack(spacing: 50) {
 .textSelection(.enabled)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-text-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-text-2.zip)
 
-![The line “You can't touch this” above the line “Break it down!”. A selection menu hovers over the first line.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-text-2~dark.png)
+![The line “You can't touch this” above the line “Break it down!”. A selection menu hovers over the first line.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-text-2~dark.png)
 
 You can even apply `textSelection()` to a list, in which case the text rows in the list become selectable:
 
@@ -97,9 +97,9 @@ List(0..<100) { index in
 .textSelection(.enabled)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-text-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-select-text-3.zip)
 
-![A list consisting of rows of text. The first row has a selection menu hovering beneath it.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-text-3~dark.png)
+![A list consisting of rows of text. The first row has a selection menu hovering beneath it.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-select-text-3~dark.png)
 
 ::: tip
 

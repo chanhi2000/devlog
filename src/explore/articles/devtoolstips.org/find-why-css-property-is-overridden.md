@@ -5,6 +5,11 @@ description: Article(s) > Find why a CSS property is overridden
 icon: fa-brands fa-css3-alt
 category: 
   - CSS
+  - Browser
+  - Google
+  - Google Chrome
+  - Firefox
+  - Safari
   - Article(s)
 tag: 
   - blog
@@ -12,6 +17,11 @@ tag:
   - browse
   - debug
   - tips
+  - google
+  - googlechrome
+  - google-crhome
+  - firefox
+  - safari
 head:  
   - - meta:
     - property: og:title
@@ -20,9 +30,40 @@ head:
       content: Find why a CSS property is overridden
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Firefox > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/firefox/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Safari > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/safari/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -37,6 +78,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2024.04.08
 
 In CSS, the **cascade** plays a very important role in which CSS properties apply to an element. This key concept is not explained here, but you can learn more on MDN, at [<FontIcon icon="fa-brands fa-firefox"/>Cascade, specificity, and inheritance](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance).
 

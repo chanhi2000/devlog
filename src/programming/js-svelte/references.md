@@ -29,7 +29,7 @@ head:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - Svelte의 상태 관리](https://blex.me/@baealex/svelte-state)
 

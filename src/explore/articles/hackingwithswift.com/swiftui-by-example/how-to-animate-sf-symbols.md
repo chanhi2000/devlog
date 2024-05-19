@@ -74,9 +74,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-1.zip)
 
-![A button saying Pet the Dog, where the dog icon bounces up then down as the button is pressed.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-1~dark.gif)
+![A button saying Pet the Dog, where the dog icon bounces up then down as the button is pressed.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-1~dark.gif)
 
 You could also try `.pulse` to animate the opacity, but where things get *really* clever is when you use SF Symbols that have multiple layers because these can be animated individually or together.
 
@@ -98,9 +98,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-2.zip)
 
-![A button saying Activate Inbox Zero, where an inbox icon has a tiered animation effect when pressed.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-2~dark.gif)
+![A button saying Activate Inbox Zero, where an inbox icon has a tiered animation effect when pressed.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-2~dark.gif)
 
 Honestly, there are so many variations available, and you can even add extra options to get customize speed and repeat count.
 
@@ -122,9 +122,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-3.zip)
 
-![A button saying Activate Inbox Zero, which has a fluttering animation when pressed](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-3~dark.gif)
+![A button saying Activate Inbox Zero, which has a fluttering animation when pressed](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-3~dark.gif)
 
 The variable color animation is particularly powerful, because SF Symbols lets you control how the animation displays each layer – `.variableColor.iterative` colors one layer at a time, `.variableColor.cumulative` adds each new layer to the previously colored layers, and you can add `reversing` to either of those to make the animation play forward then backward.
 
@@ -176,9 +176,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-4.zip)
 
-![A grid of icons that animate in various ways when activated. Some animate their layers individually, some animate their layers cumulatively, and some repeat.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-4~dark.gif)
+![A grid of icons that animate in various ways when activated. Some animate their layers individually, some animate their layers cumulatively, and some repeat.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-4~dark.gif)
 
 And finally, if you're keeping your views the same and are merely changing their content – if you're switching the icon for a fixed label based on user interaction, for example – then you should use the `contentTransition()` modifier along with one of the options for switching icons.
 
@@ -204,9 +204,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-animate-sf-symbols-5.zip)
 
-![A button saying Toggle Favorite, which animates smoothly between a checkmark and a heart when pressed](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-5~dark.gif)
+![A button saying Toggle Favorite, which animates smoothly between a checkmark and a heart when pressed](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-animate-sf-symbols-5~dark.gif)
 
 ::: details Similar solutions…
 

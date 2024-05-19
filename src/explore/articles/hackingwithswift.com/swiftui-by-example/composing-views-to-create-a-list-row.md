@@ -176,7 +176,7 @@ VStack(alignment: .leading) {
 
 If you head back to <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift`, your SwiftUI preview should update so you can see how the full list looks now – much better, I think!
 
-![A SwiftUI list with a picture, title, and caption for each row.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-7~dark.png)
+![A SwiftUI list with a picture, title, and caption for each row.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-7~dark.png)
 
 ::: details Further reading
 

@@ -74,7 +74,7 @@ Section("Total: \(totalPrice)") {
 
 If you try that out you should see it all works great – the total price reflects the items we're ordering, plus any tip the user selected.
 
-![Our completed order form, showing options for payment type, loyalty card, and tip percentage, plus a button to confirm the order.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-14~dark.png)
+![Our completed order form, showing options for payment type, loyalty card, and tip percentage, plus a button to confirm the order.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-14~dark.png)
 
 ::: details Further reading
 

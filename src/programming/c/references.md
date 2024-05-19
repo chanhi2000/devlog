@@ -45,7 +45,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@DevMinGeonPark` - 개념적으로 접근하는 자료구조 - 스택(Stack)](https://blex.me/@DevMinGeonPark/%EA%B0%9C%EB%85%90%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A0%91%EA%B7%BC%ED%95%98%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9Dstack)
 

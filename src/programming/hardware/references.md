@@ -52,6 +52,8 @@ tag:
 - [ESP32S3_ETH-CAN485 개발 보드 자료 링크(예제,회로도 등)](https://blog.naver.com/chandong83/223422514638)
 - [APM32E103-KIT 개발보드 스토어 판매!!!](https://blog.naver.com/chandong83/223435538204)
 - [인바디 체중계 - 다이얼 H30NWi 개봉기](https://blog.naver.com/chandong83/223441854445)
+- [AllwinnerTech T507 안드로이드 빌드 방법](https://blog.naver.com/chandong83/223450810794?)
+- [안드로이드 BSP빌드시 Jack-server 에러(AW A40i)](https://blog.naver.com/chandong83/223450764691)
 
 ---
 
@@ -140,6 +142,12 @@ tag:
 ## mitxeia.com
 
 - [DDC OLED](https://mitxela.com/projects/ddc-oled)
+
+---
+
+## moregorenine
+
+- [삼성 오디세이 34인치 모니터 (G5 C34G55T) 후기](https://moregorenine.github.io/review/G5-C34G55T/)
 
 ---
 

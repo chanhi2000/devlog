@@ -63,9 +63,9 @@ Image("dog")
     .blur(radius: 20)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-blur-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-blur-a-view-1.zip)
 
-![A very blurry image of a vague dog head shape.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-blur-a-view-1~dark@2x.png)
+![A very blurry image of a vague dog head shape.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-blur-a-view-1~dark@2x.png)
 
 You can blur anything you want, including text views:
 
@@ -75,9 +75,9 @@ Text("Welcome to my SwiftUI app")
     .blur(radius: 2)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-blur-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-blur-a-view-2.zip)
 
-![The text “Welcome to my SwiftUI app” in blurry print.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-blur-a-view-2~dark@2x.png)
+![The text “Welcome to my SwiftUI app” in blurry print.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-blur-a-view-2~dark@2x.png)
 
 Blurring is extremely efficient, and you can adjust it dynamically just like any other kind of state. For example, this lets you try adjusting the blur of our text dynamically by dragging around a slider:
 
@@ -96,7 +96,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-blur-a-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-blur-a-view-3.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-blur-a-view-3~dark.mp4" />
 

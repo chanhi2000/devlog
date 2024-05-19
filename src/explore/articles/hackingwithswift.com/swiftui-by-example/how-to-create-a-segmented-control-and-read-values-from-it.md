@@ -77,9 +77,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-segmented-control-and-read-values-from-it-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-segmented-control-and-read-values-from-it-1.zip)
 
-![A grey capsule containing the choices Red, Green, and Blue, with Red selected. Below are the words “Value: 0”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-segmented-control-and-read-values-from-it-1~dark.png)
+![A grey capsule containing the choices Red, Green, and Blue, with Red selected. Below are the words “Value: 0”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-segmented-control-and-read-values-from-it-1~dark.png)
 
 ::: important
 
@@ -109,9 +109,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-segmented-control-and-read-values-from-it-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-segmented-control-and-read-values-from-it-2.zip)
 
-![A grey capsule containing the choices Red, Green, and Blue, with Blue selected. Below are the words “Value: Blue”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-segmented-control-and-read-values-from-it-2~dark.png)
+![A grey capsule containing the choices Red, Green, and Blue, with Blue selected. Below are the words “Value: Blue”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-segmented-control-and-read-values-from-it-2~dark.png)
 
 ::: details Similar solutions…
 

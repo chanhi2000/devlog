@@ -75,9 +75,9 @@ NavigationStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-inset-the-safe-area-with-custom-content-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-inset-the-safe-area-with-custom-content-1.zip)
 
-![The end of a SwiftUI list with a safe area inset view placed below, colored indigo.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-inset-the-safe-area-with-custom-content-1~dark.png)
+![The end of a SwiftUI list with a safe area inset view placed below, colored indigo.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-inset-the-safe-area-with-custom-content-1~dark.png)
 
 ::: important
 
@@ -109,9 +109,9 @@ NavigationStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-inset-the-safe-area-with-custom-content-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-inset-the-safe-area-with-custom-content-2.zip)
 
-![The end of a SwiftUI list with an 'i' button in the bottom-right corner.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-inset-the-safe-area-with-custom-content-2~dark.png)
+![The end of a SwiftUI list with an 'i' button in the bottom-right corner.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-inset-the-safe-area-with-custom-content-2~dark.png)
 
 ::: tip
 

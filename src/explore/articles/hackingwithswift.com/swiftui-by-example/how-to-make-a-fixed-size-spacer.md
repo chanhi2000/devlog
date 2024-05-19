@@ -67,9 +67,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-fixed-size-spacer-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-fixed-size-spacer-1.zip)
 
-![A phone showing the text “First Label” some distance above the text “Second Label”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-fixed-size-spacer-1~dark.png)
+![A phone showing the text “First Label” some distance above the text “Second Label”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-fixed-size-spacer-1~dark.png)
 
 If you give the spacer a range of values, for example using `.frame(minHeight: 50, maxHeight: 500)`, then it will automatically take up as much space as it can, up to the maximum you set. Adding some flexibility in this way is usually a good idea, so that your user interfaces scale across devices more easily.
 
@@ -85,9 +85,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-fixed-size-spacer-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-fixed-size-spacer-2.zip)
 
-![A phone showing “First Label” at the top of the screen and “Second Label” at the bottom.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-fixed-size-spacer-2~dark.png)
+![A phone showing “First Label” at the top of the screen and “Second Label” at the bottom.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-fixed-size-spacer-2~dark.png)
 
 ::: note
 

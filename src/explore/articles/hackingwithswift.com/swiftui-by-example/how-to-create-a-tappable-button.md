@@ -64,9 +64,9 @@ Button("Button title") {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-1.zip)
 
-![The words “Button title” in blue, indicating they are tappable.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-1~dark.png)
+![The words “Button title” in blue, indicating they are tappable.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-1~dark.png)
 
 For example, you might make a button that shows or hides some detail text when it's tapped:
 
@@ -89,9 +89,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-2~dark.mp4" />
 
 The title inside the button can be any kind of view, so you can create an image button like this:
 
@@ -109,9 +109,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-3.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-3~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-3~dark.mp4" />
 
 Using a custom label is really helpful for times you want to increase the tappable area of a button, because you can apply padding to the label then use `contentShape(Rectangle())` or similar to make the whole area tappable.
 
@@ -127,9 +127,9 @@ Button {
 .contentShape(Rectangle())
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-4.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-4~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-4~dark.mp4" />
 
 If you're targeting iOS 15 or later, you can also attach a *role* to your button that helps SwiftUI know what kind of styling should be attached to the button. For example, if we had a Delete button we might mark it with the `.destructive` role so SwiftUI can highlight it in red when it makes sense:
 
@@ -139,9 +139,9 @@ Button("Delete", role: .destructive) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-tappable-button-1.zip)
 
-![The word “Delete” in red.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-5~dark.png)
+![The word “Delete” in red.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-tappable-button-5~dark.png)
 
 There's also a `.cancel` role, and again it gives SwiftUI that extra bit of context to present it appropriately.
 

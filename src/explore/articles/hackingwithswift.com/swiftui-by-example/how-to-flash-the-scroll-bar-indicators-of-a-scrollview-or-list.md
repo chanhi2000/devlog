@@ -68,7 +68,7 @@ ScrollView {
 .scrollIndicatorsFlash(onAppear: true)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list-1.zip)
 
 Alternatively, you can provide a custom value that tracks whether the indicators should be flashed. This can be any `Equatable` value, and whenever that value changes SwiftUI will flash the indicators.
 
@@ -98,9 +98,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list-2.zip)
 
-![A scrollview containing many items. The scrollview flashes whenever a button is pressed.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list-1~dark.gif)
+![A scrollview containing many items. The scrollview flashes whenever a button is pressed.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list-1~dark.gif)
 
 This same code works with `List` in just the same way it works with `ScrollView`.
 

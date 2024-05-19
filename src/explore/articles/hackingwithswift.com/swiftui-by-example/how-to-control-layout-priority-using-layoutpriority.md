@@ -68,9 +68,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-control-layout-priority-using-layoutpriority-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-control-layout-priority-using-layoutpriority-1.zip)
 
-![Two sentences, both wrapped onto a second line, arranged side by side.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-control-layout-priority-using-layoutpriority-1~dark.png)
+![Two sentences, both wrapped onto a second line, arranged side by side.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-control-layout-priority-using-layoutpriority-1~dark.png)
 
 Both text strings are long enough that they will wrap across two lines on an iPhone, and SwiftUI will try to size them fairly so they each get a fair amount of space depending on their length.
 
@@ -91,9 +91,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-control-layout-priority-using-layoutpriority-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-control-layout-priority-using-layoutpriority-2.zip)
 
-![Two sentences arranged side by side. The left sentence is wrapped over four lines, the right sentence is displayed in one long line.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-control-layout-priority-using-layoutpriority-2~dark.png)
+![Two sentences arranged side by side. The left sentence is wrapped over four lines, the right sentence is displayed in one long line.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-control-layout-priority-using-layoutpriority-2~dark.png)
 
 Obviously the result of that depends on what size screen you're using, but it's likely the higher-priority text view won't use all the available space it was offered, and so the remainder will be given to the lower-priority text view to use.
 

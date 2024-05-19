@@ -25,9 +25,10 @@ tag:
 
 ---
 
-## Github
+## <FontIcon icon="iconfont icon-github"/>Github
 
-- [<FontIcon icon="iconfont icon-github"/>`eashish93/git-cheatsheet.md`](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5?ref=dailydev)
+- [<FontIcon icon="iconfont icon-github"/>`eashish93/git-cheatsheet.md`](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
+- [Securing Git: Addressing 5 new vulnerabilities](https://github.blog/2024-05-14-securing-git-addressing-5-new-vulnerabilities/)
 
 ---
 
@@ -64,7 +65,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@eunbibi` - Git tutorial](https://velog.io/@eunbibi/Git-tutorial)
 - [`@eunbibi` - Tag](https://velog.io/@eunbibi/Tag)
@@ -264,6 +265,24 @@ tag:
 ## @opendoor_life
 
 - [개발 :: Git 초보를 위한 깃 명령어 & 용어 정리 (+커밋 히스토리 브랜치 그래프 보는법, Git Log 옵션 종류, 단축 명령어 Alias(별칭) 설정, 터미널 커맨드라인)](https://blog.naver.com/jdusans/222043705693)
+
+---
+
+## Atlassian
+
+- [Dotfiles: Best way to store in a bare git repository](https://www.atlassian.com/git/tutorials/dotfiles)
+
+---
+
+## Rosco Kalis
+
+- [Increasing development productivity with repository management](https://kalis.me/increasing-development-productivity-repository-management/)
+
+---
+
+## Drew DeVault's blog
+
+- [Managing my dotfiles as a git repository](https://drewdevault.com/2019/12/30/dotfiles.html)
 
 ---
 

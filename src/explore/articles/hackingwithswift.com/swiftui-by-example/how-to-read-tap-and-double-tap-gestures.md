@@ -63,9 +63,9 @@ Text("Tap me!")
     }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-read-tap-and-double-tap-gestures-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-read-tap-and-double-tap-gestures-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures-1~dark.mp4" />
 
 And this creates an image view that will print a message when double tapped:
 
@@ -76,9 +76,9 @@ Image("singapore")
     }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-read-tap-and-double-tap-gestures-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-read-tap-and-double-tap-gestures-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures-2~dark.mp4" />
 
 ::: details Similar solutions…
 

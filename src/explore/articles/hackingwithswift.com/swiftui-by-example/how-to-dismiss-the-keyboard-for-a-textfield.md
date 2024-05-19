@@ -78,9 +78,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-1~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-1~dark.mp4 "/>
 
 For more advanced uses, you can use `@FocusState` to track an optional enum case that determines which form field is currently focused. For example, we might show three text fields asking the user for various pieces of information, then submit the form once the final piece has arrived:
 
@@ -128,9 +128,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-2~dark.mp4" />
 
 ::: important
 
@@ -191,7 +191,7 @@ extension View {
 #endif
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-3~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield-3~dark.mp4 "/>
 
 ::: important
 

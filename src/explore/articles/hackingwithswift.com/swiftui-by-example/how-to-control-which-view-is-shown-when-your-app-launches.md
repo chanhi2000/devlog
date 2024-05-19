@@ -81,7 +81,7 @@ WindowGroup {
 }
 ```
 
-![A line of 4 tab labels, one of which is blue to denote that it is active.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-control-which-view-is-shown-when-your-app-launches-1~dark.png)
+![A line of 4 tab labels, one of which is blue to denote that it is active.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-control-which-view-is-shown-when-your-app-launches-1~dark.png)
 
 ::: details Similar solutions…
 

@@ -67,7 +67,7 @@ ControlGroup {
 .padding()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-group-views-together-with-controlgroup-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-group-views-together-with-controlgroup-1.zip)
 
 When you run that code you'll see the buttons are clearly attached to each other visually, but still operate individually.
 

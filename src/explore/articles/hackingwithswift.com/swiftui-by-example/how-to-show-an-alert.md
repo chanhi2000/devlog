@@ -75,7 +75,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-an-alert-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-an-alert-1.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-an-alert-1~dark.mp4" />
 
@@ -120,7 +120,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-an-alert-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-an-alert-2.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-an-alert-4~dark.mp4" />
 
@@ -162,7 +162,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-an-alert-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-an-alert-3.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-an-alert-5~dark.mp4" />
 

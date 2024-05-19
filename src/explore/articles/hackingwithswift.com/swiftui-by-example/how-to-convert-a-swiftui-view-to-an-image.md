@@ -64,7 +64,7 @@ if let uiImage = renderer.uiImage {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-convert-a-swiftui-view-to-an-image-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-convert-a-swiftui-view-to-an-image-1.zip)
 
 However, there are four key points to be aware of:
 
@@ -122,7 +122,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-convert-a-swiftui-view-to-an-image-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-convert-a-swiftui-view-to-an-image-2.zip)
 
 As you can see, that calls `render()` when the view is shown and also whenever `text` changes.
 
@@ -179,7 +179,7 @@ struct ContentView: View {
 }
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-convert-a-swiftui-view-to-an-image-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-convert-a-swiftui-view-to-an-image-1~dark.mp4" />
 
 ::: important
 

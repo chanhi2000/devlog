@@ -78,9 +78,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-1.zip)
 
-![The words “Spam, Egg, Sausage, and Bacon” above an “`[Add Ingredient]`” button.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-1~dark.png)
+![The words “Spam, Egg, Sausage, and Bacon” above an “`[Add Ingredient]`” button.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-1~dark.png)
 
 If you have an array of a numeric type such as integers, you can format that by specifying a member style, like this:
 
@@ -101,9 +101,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-2.zip)
 
-![The line “4, 3, 2, and 6” above a “Roll Dice” button.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-2~dark.png)
+![The line “4, 3, 2, and 6” above a “Roll Dice” button.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-2~dark.png)
 
 Or if you're working with measurements such as distance or weight, the `.measurement()` format type will automatically adjust your value for display in the user's locale. For example, if you were storing values in centimeters internally but the user had a US locale on their device, iOS will automatically display a value in feet or inches depending on the size of the value.
 
@@ -117,9 +117,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-3.zip)
 
-![The text “7.4 feet”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-3~dark.png)
+![The text “7.4 feet”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-3~dark.png)
 
 There's even a formatter for handling currencies correctly, ensuring that two decimal places are shown and also adding the currency symbol as appropriate:
 
@@ -127,9 +127,9 @@ There's even a formatter for handling currencies correctly, ensuring that two de
 Text(72.3, format: .currency(code: "CAD"))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-4.zip)
 
-![The text “CA$72.30”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-4~dark.png)
+![The text “CA$72.30”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-text-inside-text-views-4~dark.png)
 
 If you need to support iOS 14 and 13, you can use the `formatter` parameter instead – it still lets us customize the way data is presented inside the text, but it's not quite as easy to use.
 
@@ -151,7 +151,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-format-text-inside-text-views-5.zip)
 
 That will display something like “Task due date: February 4 2021”.
 

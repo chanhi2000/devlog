@@ -67,7 +67,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - `crontab`](https://blex.me/@mildsalmon/crontab)
 
@@ -307,6 +307,12 @@ tag:
 - [Investigating Linux Phantom Disk Reads](https://questdb.io/blog/investigating-linux-phantom-disk-reads)
 - [오라클 클라우드 Ubuntu 20.04 인스턴스 기본 설정하기](https://www.wsgvet.com/cloud/6)
 - [오라클 클라우드 인스턴스 생성 및 SSH 접속하기](https://www.wsgvet.com/cloud/5)
+
+---
+
+## Rosco Kalis
+
+- [Increasing development productivity with repository management](https://kalis.me/increasing-development-productivity-repository-management/)
 
 ---
 

@@ -60,7 +60,7 @@ The date range version is actually simpler, because you just provide a closed da
 Text(Date.now...Date.now.addingTimeInterval(600))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-format-dates-inside-text-views-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-format-dates-inside-text-views-1.zip)
 
 The text “2:37–2:47 PM”
 
@@ -84,9 +84,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-format-dates-inside-text-views-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-format-dates-inside-text-views-2.zip)
 
-![The lines “June 29, 2021” and “2:49 PM”, as well as two lines counting down from 10 minutes reading “8 min, 14 sec”, and “8:14” respectively.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-dates-inside-text-views-2~dark.png)
+![The lines “June 29, 2021” and “2:49 PM”, as well as two lines counting down from 10 minutes reading “8 min, 14 sec”, and “8:14” respectively.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-format-dates-inside-text-views-2~dark.png)
 
 ::: details Similar solutions…
 

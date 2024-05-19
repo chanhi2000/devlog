@@ -68,7 +68,7 @@ Text("Forecast: Sun")
     .background(.yellow)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-stack-modifiers-to-create-more-advanced-effects-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-stack-modifiers-to-create-more-advanced-effects-1.zip)
 
 ![The text “Forecast: Sun” in white on concentric rectangles colored (from inside outwards) red, orange, and yellow.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-stack-modifiers-to-create-more-advanced-effects-1~dark@2x.png)
 

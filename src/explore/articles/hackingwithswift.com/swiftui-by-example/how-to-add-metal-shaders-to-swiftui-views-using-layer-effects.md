@@ -22,6 +22,7 @@ head:
       content: How to add Metal shaders to SwiftUI views using layer effects
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.html
+next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-basic-animations.md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -82,9 +83,9 @@ Image(systemName: "figure.run.circle.fill")
     .colorEffect(ShaderLibrary.checkerboard(.float(10), .color(.blue)))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-1.zip)
 
-![An SF Symbol icon recolored with a checkerboard.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-1~dark@2x.png)
+![An SF Symbol icon recolored with a checkerboard.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-1~dark@2x.png)
 
 Again, we *don’t* pass in values for position and current color, because SwiftUI takes care of those for us.
 
@@ -117,9 +118,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-2.zip)
 
-![An SF Symbol icon with an animated static noise effect.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-2~dark@2x.gif)
+![An SF Symbol icon with an animated static noise effect.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-2~dark@2x.gif)
 
 To build shaders that need to sample a color from your view, adjust your Metal file to start with `#include &lt;SwiftUI/SwiftUI_Metal.h&gt;`, then make sure your shader signature accepts both a position and a `SwiftUI::Layer` instance.
 
@@ -144,9 +145,9 @@ Image(systemName: "figure.run.circle.fill")
     .layerEffect(ShaderLibrary.pixellate(.float(10)), maxSampleOffset: .zero)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-3.zip)
 
-![An SF Symbol icon recolored with a pixellation effect applied.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-3~dark@2x.png)
+![An SF Symbol icon recolored with a pixellation effect applied.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-3~dark@2x.png)
 
 Another type of effect is activated with the `distortionEffect()` modifier, which allows you to move one pixel from one location to another, leaving it otherwise unchanged. This means your shader only needs to accept the pixel position at the minimum, so we could a simple wave example like this:
 
@@ -172,9 +173,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-4.zip)
 
-![An SF Symbol icon waving as if it were a flag.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-4~dark@2x.gif)
+![An SF Symbol icon waving as if it were a flag.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-4~dark@2x.gif)
 
 If you wanted a complex wave shader that’s more like seeing the view underwater, we need to read the overall size of the image. This takes a little more thinking, because we need to wrap the distortion effect in a visual effect to provide the view’s dimensions.
 
@@ -217,11 +218,11 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-5.zip)
 
 Using the two together allows us to read the view’s size, and factor that into our shader calculations.
 
-![An SF Symbol icon with a more complex distortion effect applied, as if we’re looking at it through water.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-5~dark@2x.gif)
+![An SF Symbol icon with a more complex distortion effect applied, as if we’re looking at it through water.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-5~dark@2x.gif)
 
 For our final shader example we’ll create a simple emboss filter, including a SwiftUI `Slider` to control the emboss strength.
 
@@ -259,9 +260,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-6.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-6.zip)
 
-![An SF Symbol icon recolored with an emboss effect, where the strength of the effect is controlled through a slider.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-6~dark@2x.gif)
+![An SF Symbol icon recolored with an emboss effect, where the strength of the effect is controlled through a slider.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-6~dark@2x.gif)
 
 As you can see, it’s now trivial to add Metal shaders to SwiftUI views, unlocking a wide range of special effects without a great deal of work.
 

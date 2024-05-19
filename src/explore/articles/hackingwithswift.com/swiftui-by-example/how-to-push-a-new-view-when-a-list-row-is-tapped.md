@@ -100,7 +100,7 @@ struct ContentView: View {
 }
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-push-a-new-view-when-a-list-row-is-tapped-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-push-a-new-view-when-a-list-row-is-tapped-1~dark.mp4" />
 
 Using this modern value/destination approach to navigation breaks the work down into two steps:
 
@@ -153,7 +153,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-push-a-new-view-when-a-list-row-is-tapped-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-push-a-new-view-when-a-list-row-is-tapped-3.zip)
 
 ::: details Similar solutions…
 

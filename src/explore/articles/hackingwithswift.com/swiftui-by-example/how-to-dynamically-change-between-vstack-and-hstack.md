@@ -75,7 +75,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-dynamically-change-between-vstack-and-hstack-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-dynamically-change-between-vstack-and-hstack-1.zip)
 
 Tip: Unlike using `AnyView`, `AnyLayout` doesn't incur any performance impact, and won't discard any of the state of its child views.
 
@@ -98,7 +98,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-dynamically-change-between-vstack-and-hstack-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-dynamically-change-between-vstack-and-hstack-2.zip)
 
 As well as `VStackLayout` and `HStackLayout`, you can also use `ZStackLayout` and `GridLayout`.
 

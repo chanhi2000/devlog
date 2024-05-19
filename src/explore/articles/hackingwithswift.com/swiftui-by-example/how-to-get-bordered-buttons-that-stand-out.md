@@ -63,9 +63,9 @@ Button("Buy: $0.99") {
 .buttonStyle(.bordered)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-get-bordered-buttons-that-stand-out-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-get-bordered-buttons-that-stand-out-1.zip)
 
-![A grey capsule-shaped button containing the text “Buy: $0.99” in blue.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-bordered-buttons-that-stand-out-1~dark.png)
+![A grey capsule-shaped button containing the text “Buy: $0.99” in blue.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-bordered-buttons-that-stand-out-1~dark.png)
 
 However, for buttons that should really stand out on the screen, you are likely to want to use the `borderedProminent` option to make their color much stronger:
 
@@ -76,9 +76,9 @@ Button("Buy: $0.99") {
 .buttonStyle(.borderedProminent)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-get-bordered-buttons-that-stand-out-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-get-bordered-buttons-that-stand-out-1.zip)
 
-![A bright blue capsule containing the text “Buy: $0.99”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-bordered-buttons-that-stand-out-2~dark.png)
+![A bright blue capsule containing the text “Buy: $0.99”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-bordered-buttons-that-stand-out-2~dark.png)
 
 ::: important
 
@@ -96,9 +96,9 @@ Button("Submit") {
 .buttonStyle(.borderedProminent)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-get-bordered-buttons-that-stand-out-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-get-bordered-buttons-that-stand-out-3.zip)
 
-![A deep blue capsule containing the text “Submit”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-bordered-buttons-that-stand-out-3~dark.png)
+![A deep blue capsule containing the text “Submit”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-bordered-buttons-that-stand-out-3~dark.png)
 
 Or by attaching a role to the button:
 
@@ -109,9 +109,9 @@ Button("Delete", role: .destructive) {
 .buttonStyle(.borderedProminent)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-get-bordered-buttons-that-stand-out-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-get-bordered-buttons-that-stand-out-4.zip)
 
-![A red capsule containing the text “Delete”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-bordered-buttons-that-stand-out-4~dark.png)
+![A red capsule containing the text “Delete”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-get-bordered-buttons-that-stand-out-4~dark.png)
 
 ::: details Similar solutions…
 

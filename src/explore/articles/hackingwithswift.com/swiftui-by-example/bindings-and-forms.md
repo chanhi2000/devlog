@@ -120,7 +120,7 @@ VStack {
 .navigationBarTitleDisplayMode(.inline)
 ```
 
-![Xcode showing the SwiftUI code required to generate a wheel picker for iOS, with a preview showing the results.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-12~dark.png)
+![Xcode showing the SwiftUI code required to generate a wheel picker for iOS, with a preview showing the results.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-12~dark.png)
 
 Let's break that down:
 

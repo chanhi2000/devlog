@@ -68,9 +68,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-placeholder-to-a-textfield-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-placeholder-to-a-textfield-1.zip)
 
-![A text field with a thin grey outline containing the placeholder text “johnnyappleseed@apple.com”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-placeholder-to-a-textfield-1~dark.png)
+![A text field with a thin grey outline containing the placeholder text “johnnyappleseed@apple.com”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-placeholder-to-a-textfield-1~dark.png)
 
 ::: important
 

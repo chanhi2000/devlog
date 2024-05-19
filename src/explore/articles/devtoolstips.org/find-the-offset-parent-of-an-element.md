@@ -18,9 +18,20 @@ head:
       content: Find the offset parent of an element
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/find-the-offset-parent-of-an-element.html
+prev: /programming/css/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "CSS > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/css/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -36,7 +47,17 @@ head:
 }
 ```
 
+> 2023.09.13
+
 <!-- TODO: 내용 채우기 -->
+
+::: details See also
+
+- [Edit an element's attributes and tag name with the keyboard](https://devtoolstips.org/tips/en/edit-elements-with-the-keyboard) <!-- TODO: add VPCard -->
+- [Fix low color contrast issues](https://devtoolstips.org/tips/en/fix-color-contrast-issues) <!-- TODO: add VPCard -->
+- [Get the selected element in the console](https://devtoolstips.org/tips/en/get-current-element-in-console) <!-- TODO: add VPCard -->
+
+:::
 
 ---
 

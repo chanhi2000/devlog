@@ -96,7 +96,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-checkerboard-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-checkerboard-1.zip)
 
 ![A square covered in a 16 by 16 red checkerboard pattern.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-checkerboard-1~dark@2x.png)
 

@@ -76,9 +76,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-gesture-recognizer-to-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-gesture-recognizer-to-a-view-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view-1~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view-1~dark.mp4 "/>
 
 Second, `LongPressGesture` recognizes when the user presses and holds on a view for at least a period of time you specify. So, this creates an image view that halves in size when pressed for at least one second:
 
@@ -99,9 +99,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-gesture-recognizer-to-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-gesture-recognizer-to-a-view-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view-2~dark.mp4" />
 
 Finally, `DragGesture` triggers when the user presses down on a view and moves at least a certain distance away. So, this creates an image with a drag gesture that triggers when the user moves it at least 50 points:
 
@@ -127,9 +127,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-gesture-recognizer-to-a-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-gesture-recognizer-to-a-view-3.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view-3~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view-3~dark.mp4" />
 
 Drag gestures are particularly good when combined with the `offset()` modifier, which lets us adjust the natural position of a view. For example, this offsets an image using a `dragOffset` size, which itself is attached to a drag gesture:
 
@@ -155,9 +155,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-add-a-gesture-recognizer-to-a-view-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-add-a-gesture-recognizer-to-a-view-4.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view-4~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view-4~dark.mp4" />
 
 If you try that code you'll see you can drag the image around now, and when you release your finger it snaps back to its original location.
 

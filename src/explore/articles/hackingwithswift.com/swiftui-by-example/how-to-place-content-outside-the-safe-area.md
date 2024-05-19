@@ -65,9 +65,9 @@ Text("Hello World")
     .ignoresSafeArea()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-place-content-outside-the-safe-area-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-place-content-outside-the-safe-area-1.zip)
 
-![A phone showing the words “Hello World” over a red background which fills the screen.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-place-content-outside-the-safe-area-1~dark.png)
+![A phone showing the words “Hello World” over a red background which fills the screen.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-place-content-outside-the-safe-area-1~dark.png)
 
 There is a second, similar modifier called `safeAreaInset()`, which allows us to place distinct content outside the safe area while also adjusting the remaining safe area so that all its contents remain visible.
 

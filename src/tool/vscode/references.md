@@ -20,9 +20,9 @@ tag:
 
 ---
 
-## Github
+## <FontIcon icon="iconfont icon-github"/>Github
 
-- [`hyperupcall/settings.jsonc`: VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.)](https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0)
+- [<FontIcon icon="iconfont icon-github"/>`hyperupcall/settings.jsonc`: VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.)](https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0)
 
 ---
 
@@ -124,6 +124,12 @@ tag:
 ## 정우일
 
 - [Spark Kafka 설치 방법(Docker Compose)](https://wooiljeong.github.io/spark/install-spark/)
+
+---
+
+## Project IDX
+
+- [Start Building with Project IDX Today](https://idx.dev/blog/article/start-building-with-project-idx-today)
 
 ---
 

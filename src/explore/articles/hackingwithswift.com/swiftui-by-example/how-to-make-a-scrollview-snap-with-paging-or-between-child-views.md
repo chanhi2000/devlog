@@ -77,9 +77,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-scrollview-snap-with-paging-or-between-child-views-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-scrollview-snap-with-paging-or-between-child-views-1.zip)
 
-![Coloured shapes scrolling horizontally, with each scroll swipe snapping to a view.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-scrollview-snap-with-paging-or-between-child-views-1~dark@2x.gif)
+![Coloured shapes scrolling horizontally, with each scroll swipe snapping to a view.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-scrollview-snap-with-paging-or-between-child-views-1~dark@2x.gif)
 
 That uses `scrollTargetLayout()` to make everything inside the layout be a scroll target. If you only want *some* child views to be snapped to, you should remove that and instead attach `scrollTarget()` to individual views.
 
@@ -100,9 +100,9 @@ ScrollView {
 .scrollTargetBehavior(.paging)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-scrollview-snap-with-paging-or-between-child-views-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-scrollview-snap-with-paging-or-between-child-views-2.zip)
 
-![Text scrolling vertically, with each scroll swipe moving one page at a time.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-scrollview-snap-with-paging-or-between-child-views-2~dark@2x.gif)
+![Text scrolling vertically, with each scroll swipe moving one page at a time.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-scrollview-snap-with-paging-or-between-child-views-2~dark@2x.gif)
 
 ::: details Similar solutions…
 

@@ -111,6 +111,7 @@ head:
 ## Smashing Magazine
 
 - [about React](https://www.smashingmagazine.com/category/react)
+- [The Forensics Of React Server Components (RSCs)](https://www.smashingmagazine.com/2024/05/forensics-react-server-components/)
 
 ---
 
@@ -156,7 +157,7 @@ head:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [[Javascript Toy Project] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [`@wooder2050` - JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
@@ -313,7 +314,7 @@ head:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - React - Server Component](https://blex.me/@baealex/react-server-component)
 - [`@devkonis` - [REACT] 애니메이션 활용시 비동기 데이터 문제점](https://blex.me/@devkonis/react-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%ED%99%9C%EC%9A%A9%EC%8B%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%A0%9C%EC%A0%90)
@@ -636,6 +637,7 @@ https://o-yeon.tistory.com/227
 - [10만건 이상의 데이터 in front (테이블 개선)](https://ravenkim97.tistory.com/400)
 - [Warning: Maximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.](https://ravenkim97.tistory.com/407)
 - [React 19 Beta 번역](https://ravenkim97.tistory.com/410)
+- [React Conf 2024](https://ravenkim97.tistory.com/428)
 
 ---
 
@@ -709,6 +711,18 @@ https://o-yeon.tistory.com/227
 ## Josh W Comeau
 
 - [CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)
+
+---
+
+## 작심삼일 개발이야기
+
+- [[Calendar] React Calendar 컴포넌트 생각보다 쉽네..?](https://choisuhyeok.tistory.com/143)
+
+---
+
+## Remix
+
+- [Merging Remix and React Router](https://remix.run/blog/merging-remix-and-react-router)
 
 ---
 

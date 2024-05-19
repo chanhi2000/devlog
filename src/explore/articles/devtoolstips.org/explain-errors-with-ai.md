@@ -4,15 +4,13 @@ title: Explain console errors by using artificial intelligence
 description: Article(s) > Explain console errors by using artificial intelligence
 icon: fa-brands fa-edge
 category: 
-  - JavaScript
+  - Browser
+  - Edge
   - Article(s)
 tag: 
   - blog
   - devtoolstips.org
-  - js
-  - debug
-  - tips
-  - eval
+  - console
   - sourceURL
 head:
   - - meta:
@@ -22,9 +20,20 @@ head:
       content: Explain console errors by using artificial intelligence
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/explain-errors-with-ai.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -39,6 +48,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2024.01.05
 
 .<FontIcon icon="fa-brands fa-edge"/>Edge DevTools lets use the Microsoft Copilot AI assistant to explain errors and warnings in the **Console** tool.
 

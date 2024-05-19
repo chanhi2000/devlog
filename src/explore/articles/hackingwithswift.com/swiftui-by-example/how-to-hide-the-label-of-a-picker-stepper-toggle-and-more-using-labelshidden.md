@@ -70,7 +70,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden-1.zip)
 
 On some platforms, that will show “Select a number” alongside the picker. This can look poor, because the label is sometimes crammed into a small space – a better idea would be to have a `VStack` with a custom text label, then hide the label in the `Picker`.
 
@@ -91,9 +91,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden-2.zip)
 
-![A wheel-style picker offering the numbers 0, 1, 2, etc. 0 is selected.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden-1~dark.png)
+![A wheel-style picker offering the numbers 0, 1, 2, etc. 0 is selected.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden-1~dark.png)
 
 That still creates the label, but now it doesn't get shown no matter what platform is used. As a result, you can put the `Picker` inside a `VStack` and add a label of your own choosing.
 
@@ -119,7 +119,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden-3.zip)
 
 Yes, the end result might *look* the same, but there's an important reason why using `labelsHidden()` is much better: the hidden label is still accessible by the screen reader, so even though the text isn't visible it's still there to help VoiceOver understand how your UI is structured.
 

@@ -4,16 +4,20 @@ title: See the accessibility tree
 description: Article(s) > See the accessibility tree
 icon: iconfont icon-template
 category: 
-  - JavaScript
+  - Browser
+  - Google
+  - Google Chrome
+  - Firefox
   - Article(s)
 tag: 
   - blog
   - devtoolstips.org
   - js
   - debug
-  - tips
-  - eval
-  - sourceURL
+  - google
+  - googlechrome
+  - google-chrome
+  - firefox
 head:
   - - meta:
     - property: og:title
@@ -22,9 +26,30 @@ head:
       content: See the accessibility tree
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/see-accessibility-tree.html
+prev: /tool/chrome/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Firefox > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/firefox/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -39,6 +64,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2024.03.05
 
 The accessibility tree is a representation of the structure of a web page that is used by assistive technologies such as screen readers. It is similar to the DOM tree, but it only includes the elements that are relevant for accessibility. For example, it includes text nodes, links, images, or form controls, but not generic elements such as `<div>` or `<span>`.
 

@@ -22,6 +22,7 @@ head:
       content: How to create and compose custom views
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-and-compose-custom-views.html
+prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-step-animations-using-phase-animators.md
 ---
 
 # {{ $frontmatter.title }} 관련

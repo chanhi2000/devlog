@@ -22,10 +22,13 @@ tag:
 ## pdf(s)
 
 - [OLMo : Accelerating the Science of Language Models](https://allenai.org/olmo/olmo-paper.pdf)
+<PDF url="https://arxiv.org/pdf/2306.11025" />
+<PDF url="https://arxiv.org/pdf/2404.07143" />
+<PDF url="https://arxiv.org/pdf/2404.14219" />
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@geoffyoon-dev` - 데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy)
 - [`@devstone` - NLP 메트릭 톺아보기](https://velog.io/@devstone/NLP-%EB%A9%94%ED%8A%B8%EB%A6%AD-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
@@ -36,6 +39,7 @@ tag:
 
 - [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
 - [`berom0227` - Running Ollama in Smart Connections](https://berom0227.medium.com/running-ollama-in-smart-connections-db2242aee3ba)
+- [`thedeephub` / 50+ Open-Source Options for Running LLMs Locally](https://medium.com/thedeephub/50-open-source-options-for-running-llms-locally-db1ec6f5a54f)
 
 ---
 
@@ -60,6 +64,7 @@ tag:
 
 - [MANATEE(lm) : Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E)
 - [<FontIcon icon="fa-brands fa-python"/>`llm-pricing-cost-quality.ipynb`](https://colab.research.google.com/gist/virattt/7b67c685ca6b256d4fa6108bfae53d7a/exploring-llm-pricing-cost.ipynb)
+- [<FontIcon icon="fa-brands fa-python"/>`cudf_pandas_stocks_demo.ipynb`](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cudf_pandas_stocks_demo.ipynb)
 
 ---
 

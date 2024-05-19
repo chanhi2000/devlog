@@ -69,9 +69,9 @@ Text("EPISODE LLVM")
     .rotation3DEffect(.degrees(45), axis: (x: 1, y: 0, z: 0))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-in-3d-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-rotate-a-view-in-3d-1.zip)
 
-![The text “EPISODE LLVM” in yellow, distorted such that the top appears further into the screen, evoking the Star Wars opening exposition crawl.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-rotate-a-view-in-3d-1~dark@2x.png)
+![The text “EPISODE LLVM” in yellow, distorted such that the top appears further into the screen, evoking the Star Wars opening exposition crawl.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-rotate-a-view-in-3d-1~dark@2x.png)
 
 Yes, you can make your own Star Wars crawl in SwiftUI.
 

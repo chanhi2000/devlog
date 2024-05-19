@@ -74,9 +74,9 @@ GeometryReader { geometry in
 .frame(height: 50)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-provide-relative-sizes-using-geometryreader-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-provide-relative-sizes-using-geometryreader-1.zip)
 
-![A yellow rectangle with the word “Left” beside a twice as wide orange rectangle with the word “Right”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-provide-relative-sizes-using-geometryreader-1~dark.png)
+![A yellow rectangle with the word “Left” beside a twice as wide orange rectangle with the word “Right”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-provide-relative-sizes-using-geometryreader-1~dark.png)
 
 ::: note
 

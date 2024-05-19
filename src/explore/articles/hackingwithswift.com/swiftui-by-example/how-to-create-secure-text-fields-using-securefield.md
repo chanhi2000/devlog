@@ -69,9 +69,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-secure-text-fields-using-securefield-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-secure-text-fields-using-securefield-1.zip)
 
-![A text field with a line of 8 dots representing hidden text above the words “You entered: password”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-secure-text-fields-using-securefield-1~dark.png)
+![A text field with a line of 8 dots representing hidden text above the words “You entered: password”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-secure-text-fields-using-securefield-1~dark.png)
 
 ::: details Similar solutions…
 

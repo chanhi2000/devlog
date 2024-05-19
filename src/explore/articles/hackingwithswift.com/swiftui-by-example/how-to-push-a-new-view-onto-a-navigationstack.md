@@ -77,9 +77,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-push-a-new-view-onto-a-navigationstack-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-push-a-new-view-onto-a-navigationstack-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-push-a-new-view-onto-a-navigationview-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-push-a-new-view-onto-a-navigationview-1~dark.mp4" />
 
 If you need more advanced control over the label, pass it as a secondary trailing closure. For example, this uses a `Label` view rather than a simple string:
 
@@ -106,7 +106,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-push-a-new-view-onto-a-navigationstack-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-push-a-new-view-onto-a-navigationstack-2.zip)
 
 SwiftUI will automatically style your links as buttons so users know they are interactive. You can disable this behavior by applying `.buttonStyle(.plain)` to `NavigationLink`.
 

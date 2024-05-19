@@ -76,7 +76,7 @@ tag:
 
 ---
 
-## BLEX
+## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 실용적인 프론트엔드 테스트](https://blex.me/@baealex/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 - [`@laetipark` - 명품 웹 프로그래밍 정리 노트 : 2. HTML5](https://blex.me/@laetipark/%EB%AA%85%ED%92%88-%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8-2-html5)
@@ -93,6 +93,7 @@ tag:
 - [`cssisntmagic` / `position: absolute` frees us from using `display: block`](https://cssisntmagic.substack.com/p/position-absolute-frees-us-from-using-cf4)
 - [`cssisntmagic` / CSS without order dependencies](https://cssisntmagic.substack.com/p/css-without-order-dependence)
 - [`cssisntmagic` / We don't need to use 0 anymore to define margins and paddings](https://cssisntmagic.substack.com/p/we-dont-need-to-use-0-anymore-to-3e0)
+- [`cssisntmagic` / What is the :nth-child(n of S) selector?](https://cssisntmagic.substack.com/p/what-is-the-nth-childn-of-s-selector)
 
 ---
 
@@ -102,10 +103,13 @@ tag:
 
 ---
 
-## Google Chrome
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### <FontIcon icon="fa-brands fa-chrome"/>Chrome for Developer
 
 - [Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
-- [CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023)
+- [CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023?hl=en)
+- [Introducing the CSS anchor positioning API](https://developer.chrome.com/blog/anchor-positioning-api?hl=en)
 
 ---
 
@@ -128,6 +132,8 @@ tag:
 - [InfiInfinite-Scrolling Logos In Flat HTML And Pure CSS](https://www.smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/)
 - [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://www.smashingmagazine.com/2023/07/writing-css-2023)
 - [Sliding 3D Image Frames In CSS](https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/)
+- [The Modern Guide For Making CSS Shapes](https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/)
+- [The Times You Need A Custom `@property` Instead Of A CSS Variable](https://www.smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/)
 
 ---
 
@@ -137,7 +143,7 @@ tag:
 
 ---
 
-## velog
+## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@tjdud0123` / css 변수 이용 다크 모드 토글](https://velog.io/@tjdud0123/css-%EB%B3%80%EC%88%98-%EC%9D%B4%EC%9A%A9-%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%ED%86%A0%EA%B8%80)
 - [`@danjr` / HTML 기본 태그 - (4)](https://velog.io/@danjr/HTML-%EA%B8%B0%EB%B3%B8-%ED%83%9C%EA%B7%B8-4)
@@ -400,6 +406,8 @@ tag:
 - [CSS-Only Pixelated Cut Corners](https://css-tip.com/pixelated-corner/)
 - [Avatar With Status Indicator](https://css-tip.com/status-indicator/)
 - [Write Better CSS With Modern CSS](https://css-tip.com/better-modern-css/)
+- [How To Extract R,G,B Channels From A Color](https://css-tip.com/rgb-channels/)
+- [Single-Digit Inputs With One Element (OTP)](https://css-tip.com/single-digit-inputs/)
 
 ---
 
@@ -433,6 +441,8 @@ tag:
 - [How to Set CSS Media Query For Portrait Orientation](https://www.lambdatest.com/blog/css-media-query-for-portrait/)
 - [The Ultimate Guide to CSS Keyframes Animation](https://www.lambdatest.com/blog/css-keyframes-animation/)
 - [CSS Margins: All You Need to Know](https://www.lambdatest.com/blog/css-margins/)
+- [CSS Grid vs Flexbox: Which to Choose and When](https://www.lambdatest.com/blog/css-grid-vs-flexbox/)
+- [How to Use CSS Grid `repeat()` Function](https://www.lambdatest.com/blog/css-grid-repeat/)
 
 ---
 
@@ -537,6 +547,24 @@ tag:
 ## Scott Jehl, Web Designer/Developer
 
 - [How would you build Wordle with just HTML & CSS?](https://scottjehl.com/posts/wordleish/)
+
+---
+
+## Chris Burnell
+
+- [The Cluster Composition](https://chrisburnell.com/article/cluster-composition/)
+
+---
+
+## Blog | Brad Frost
+
+- [transparent borders](https://bradfrost.com/blog/post/transparent-borders/)
+
+---
+
+## Developer, writer and speaker | Stefan Judis Web Development
+
+- [Target=_blank implies rel=noopener](https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/)
 
 ---
 

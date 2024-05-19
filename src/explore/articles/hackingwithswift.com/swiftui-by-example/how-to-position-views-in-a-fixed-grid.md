@@ -79,7 +79,7 @@ Grid {
 .font(.title)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-1.zip)
 
 If you don't want to have the same number of cells in each row, you have three choices.
 
@@ -120,7 +120,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-2.zip)
 
 The second option is to place views into the grid without wrapping them in a `GridRow`, which will cause them to occupy a whole row by themselves. This is great for the `Divider` view. The third option is to use the `gridCellColumns()` modifier, to make one cell span multiple columns.
 
@@ -155,7 +155,7 @@ Grid {
 .font(.title)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-3.zip)
 
 As you can see, using `gridCellColumns()` with the same number of columns you have yields the same result as placing a view outside of a `GridRow`.
 
@@ -186,7 +186,7 @@ Grid(horizontalSpacing: 20, verticalSpacing: 20) {
 .font(.largeTitle)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-4.zip)
 
 Or even a chessboard:
 
@@ -215,7 +215,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-position-views-in-a-fixed-grid-5.zip)
 
 ::: details Similar solutions…
 

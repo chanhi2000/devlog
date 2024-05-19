@@ -72,9 +72,9 @@ Circle()
     .padding()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-inside-a-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-inside-a-view-1.zip)
 
-![A thick blue circular ring.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-inside-a-view-1~dark@2x.png)
+![A thick blue circular ring.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-inside-a-view-1~dark@2x.png)
 
 Because that uses `strokeBorder()`, the 50-point blue stroke will be drawn entirely inside the circle.
 
@@ -87,9 +87,9 @@ Circle()
     .padding()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-inside-a-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-draw-a-border-inside-a-view-2.zip)
 
-![A larger thick blue circular ring.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-inside-a-view-2~dark@2x.png)
+![A larger thick blue circular ring.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-draw-a-border-inside-a-view-2~dark@2x.png)
 
 Now you’ll see the circle looks bigger because the stroke is drawn half inside and half outside the circle.
 

@@ -70,7 +70,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-move-rows-in-a-list-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-move-rows-in-a-list-1.zip)
 
 That immediately lets users drag the list rows around, and the `users` array will be updated as they do so. If you want to add swipe to delete as well, use `.all` rather than just `.move`.
 
@@ -91,7 +91,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-move-rows-in-a-list-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-move-rows-in-a-list-2.zip)
 
 For the more complex approach to moving, we can attach an `onMove(perform:)` modifier to a `ForEach` inside a list, and have it call a method of our choosing when a move operation happens. That method needs to accept a source `IndexSet` and a destination `Int`, like this:
 
@@ -131,9 +131,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-let-users-move-rows-in-a-list-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-let-users-move-rows-in-a-list-3.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-move-rows-in-a-list-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-let-users-move-rows-in-a-list-1~dark.mp4" />
 
 ::: details Similar solutions…
 

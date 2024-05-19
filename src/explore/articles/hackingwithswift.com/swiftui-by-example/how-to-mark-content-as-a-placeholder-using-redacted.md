@@ -62,10 +62,10 @@ Text("This is placeholder text")
     .redacted(reason: .placeholder)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-1.zip)
 
 
-![A long gray rectangle representing redacted text.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-1~dark.png)
+![A long gray rectangle representing redacted text.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-1~dark.png)
 
 You can redact several things in your view at once, just by using `redacted(reason:)` on a container, like this:
 
@@ -78,7 +78,7 @@ VStack {
 .redacted(reason: .placeholder)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-2.zip)
 
 
 Two gray rectangles representing two lines of redacted text.
@@ -103,12 +103,12 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-3.zip)
 
 
-![The unredacted text “The rain in Spain falls mainly on the Spaniards”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-3~dark.png)
+![The unredacted text “The rain in Spain falls mainly on the Spaniards”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-3~dark.png)
 
-![Placeholder text “Loading...” standing in for redacted text.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-4~dark.png)
+![Placeholder text “Loading...” standing in for redacted text.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-mark-content-as-a-placeholder-using-redacted-4~dark.png)
 
 ::: tip
 

@@ -50,6 +50,91 @@ head:
 }
 ```
 
+> Updated for Xcode 15
+
+SwiftUI lets us specify one transition when adding a view and another when removing it, all done using the `asymmetric()` transition type.
+
+For example, we can create a text view that uses asymmetric transitions so that it moves in from the leading edge when added and moves down to the bottom edge when being removed, like this:
+
+```swift
+struct ContentView: View {
+    @State private var showDetails = false
+
+    var body: some View {
+        VStack {
+            Button("Press to show details") {
+                withAnimation {
+                    showDetails.toggle()
+                }
+            }
+
+            if showDetails {
+                Text("Details go here.")
+                    .transition(.asymmetric(insertion: .move(edge: .leading), removal: .move(edge: .bottom)))
+            }
+        }
+    }
+}
+```
+
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-asymmetric-transitions-1.zip)
+
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-asymmetric-transitions-1~dark.mp4" />
+
+::: details Similar solutions…
+
+```component VPCard
+{
+  "title": "How to combine transitions | SwiftUI by Example",
+  "desc": "How to combine transitions",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-transitions.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create a custom transition | SwiftUI by Example",
+  "desc": "How to create a custom transition",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-transition.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create and compose custom views | SwiftUI by Example",
+  "desc": "How to create and compose custom views",
+  "link": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-and-compose-custom-views",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Composing views to create a list row | SwiftUI by Example",
+  "desc": "Composing views to create a list row",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create modifiers for a UIViewRepresentable struct | SwiftUI by Example",
+  "desc": "How to create modifiers for a UIViewRepresentable struct",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-modifiers-for-a-uiviewrepresentable-struct.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
+
 ---
 
 <TagLinks />

@@ -49,5 +49,10 @@
     "desc": "Code for \"Zero To Production In Rust\", a book on API development using Rust.",
     "officialSite": "https://www.zero2prod.com",
     "topics": ["book", "rust"]
+  }, {
+    "repo": "mainmatter/100-exercises-to-learn-rust",
+    "desc": "A self-paced course to learn Rust, one exercise at a time.",
+    "officialSite": "",
+    "topics": []
   }
 ]

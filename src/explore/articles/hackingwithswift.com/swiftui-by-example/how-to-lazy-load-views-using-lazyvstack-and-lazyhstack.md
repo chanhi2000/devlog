@@ -71,9 +71,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack-1.zip)
 
-![A long vertical list of rows saying “Row 1”, “Row 2”, etc.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack-1~dark.png)
+![A long vertical list of rows saying “Row 1”, “Row 2”, etc.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack-1~dark.png)
 
 ::: warning
 
@@ -111,7 +111,7 @@ struct ContentView: View {
 }
 ```
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack-2~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-lazy-load-views-using-lazyvstack-and-lazyhstack-2~dark.mp4 "/>
 
 If you run that in Xcode, you'll see the “Loading row…” messages bring printed out in the console as you scroll around.
 

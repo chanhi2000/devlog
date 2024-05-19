@@ -65,7 +65,7 @@ Text("This needs to take up lots of space")
     .persistentSystemOverlays(.hidden)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-hide-the-home-indicator-and-other-system-ui-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-hide-the-home-indicator-and-other-system-ui-1.zip)
 
 ::: note
 

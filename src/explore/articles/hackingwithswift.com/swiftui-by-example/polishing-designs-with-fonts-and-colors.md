@@ -124,7 +124,7 @@ Text(restriction)
 
 That will use a small, bold font with white text and a colored background, add a circular clipping shape, and add a little space around it so the text circles aren't so near.
 
-![A SwiftUI list row, showing a food photo, its name, and price, along with circles showing what food restrictions it has.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/2-8~dark.png)
+![A SwiftUI list row, showing a food photo, its name, and price, along with circles showing what food restrictions it has.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-8~dark.png)
 
 We're going to do one more thing before we're done with the design of this item row: we're going to force the restriction text to be spaced apart from the rest of the row. SwiftUI has a dedicated view for this called `Spacer`, and I'd like you to place it just before the `ForEach` for our restrictions, like this:
 

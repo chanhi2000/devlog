@@ -89,9 +89,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/breaking-forms-into-sections-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/breaking-forms-into-sections-1.zip)
 
-![An inset-list style form with two sections. The first section has a segmented picker, a toggle, and footer text. The second section has a blue-text button.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/breaking-forms-into-sections-1~dark@2x.png)
+![An inset-list style form with two sections. The first section has a segmented picker, a toggle, and footer text. The second section has a blue-text button.](https://hackingwithswift.com/img/books/quick-start/swiftui/breaking-forms-into-sections-1~dark@2x.png)
 
 ::: important
 

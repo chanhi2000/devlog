@@ -478,6 +478,16 @@ https://www.docdroid.com/NOEBGF5/sdn-pdf
 https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-engineer
 
 
+```component VPCard
+{
+  "title": "Welcome - 100 Exercises To Learn Rust",
+  "desc": "This course will teach you Rust's core concepts, one exercise at a time.",
+  "link": "https://rust-exercises.com/",
+  "logo": "https://rust-exercises.com/favicon.svg",
+  "background": "rgba(22,25,35,0.2)"
+}
+```
+
 @tab Portfolio / Cool Project
 
 ```component VPCard
@@ -532,6 +542,7 @@ https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-eng
 
 https://www.getanyplant.com/plants
 https://demos.littleworkshop.fr/infinitown
+https://flareum.io/
 
 :::
 

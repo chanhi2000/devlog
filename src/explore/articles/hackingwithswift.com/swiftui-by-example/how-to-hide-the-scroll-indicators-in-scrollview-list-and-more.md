@@ -69,7 +69,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-hide-the-scroll-indicators-in-scrollview-list-and-more-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-hide-the-scroll-indicators-in-scrollview-list-and-more-1.zip)
 
 There are four options available to us, and there are subtle distinctions:
 

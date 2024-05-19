@@ -82,7 +82,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-scroll-view-move-to-a-location-using-scrollviewreader-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-scroll-view-move-to-a-location-using-scrollviewreader-1.zip)
 
 For more control over your scroll, you can specify a second parameter called `anchor`, to control where your target view should be positioned after the scroll has completed.
 
@@ -114,9 +114,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-scroll-view-move-to-a-location-using-scrollviewreader-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-scroll-view-move-to-a-location-using-scrollviewreader-2.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-scroll-view-move-to-a-location-using-scrollviewreader-2~dark.mp4 "/>
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-scroll-view-move-to-a-location-using-scrollviewreader-2~dark.mp4 "/>
 
 If you call `scrollTo()` inside `withAnimation()` the movement will be animated.
 

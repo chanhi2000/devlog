@@ -91,9 +91,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-disable-scrollview-clipping-so-contents-overflow-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-disable-scrollview-clipping-so-contents-overflow-1.zip)
 
-![Views inside a scrollview scrolling outside their container as the user moves around.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-disable-scrollview-clipping-so-contents-overflow-1~dark.gif)
+![Views inside a scrollview scrolling outside their container as the user moves around.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-disable-scrollview-clipping-so-contents-overflow-1~dark.gif)
 
 There are two extra things it's helpful to know when working with `scrollClipDisabled()`:
 

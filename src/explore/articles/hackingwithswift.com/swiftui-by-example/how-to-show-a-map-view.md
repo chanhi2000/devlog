@@ -69,9 +69,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-a-map-view-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-a-map-view-1.zip)
 
-![A map with London at the center.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-map-view-1~dark.png)
+![A map with London at the center.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-map-view-1~dark.png)
 
 ::: tip
 
@@ -88,9 +88,9 @@ Map(coordinateRegion: .constant(MKCoordinateRegion(center: CLLocationCoordinate2
     .frame(width: 400, height: 300)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-a-map-view-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-a-map-view-2.zip)
 
-![A map with London at the center.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-map-view-2~dark.png)
+![A map with London at the center.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-map-view-2~dark.png)
 
 Or if you wanted the user to be able to zoom in and out, but not pan around to new locations, you would use this: `[.zoom]` for your interaction modes.
 
@@ -111,9 +111,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-show-a-map-view-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-show-a-map-view-3.zip)
 
-![A map with Cupertino at the center.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-map-view-3~dark.png)
+![A map with Cupertino at the center.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-show-a-map-view-3~dark.png)
 
 ::: details Similar solutions…
 

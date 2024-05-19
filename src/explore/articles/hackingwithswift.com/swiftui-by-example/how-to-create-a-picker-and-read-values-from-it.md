@@ -74,9 +74,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-picker-and-read-values-from-it-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-picker-and-read-values-from-it-1.zip)
 
-![A wheel picker showing Red, Green, Blue, and Tartan. Blue is selected. Below is the text “You selected: Blue”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-picker-and-read-values-from-it-1~dark.png)
+![A wheel picker showing Red, Green, Blue, and Tartan. Blue is selected. Below is the text “You selected: Blue”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-picker-and-read-values-from-it-1~dark.png)
 
 ::: tip
 

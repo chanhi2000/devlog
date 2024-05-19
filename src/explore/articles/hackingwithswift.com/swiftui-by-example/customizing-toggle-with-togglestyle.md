@@ -92,7 +92,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/customizing-toggle-with-togglestyle-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/customizing-toggle-with-togglestyle-1.zip)
 
 <VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/customizing-toggle-with-togglestyle-1~dark.mp4" />
 

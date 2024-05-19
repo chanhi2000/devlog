@@ -350,5 +350,10 @@
     "desc": "Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing",
     "officialSite": "https://kotest.io",
     "topics": ["assertions", "hacktoberfest", "kotlin", "matchers", "property-testing", "test", "testing", "testing-tools"]
-  }  
+  }, {
+    "repo": "ansman/sonatype-publish-fix",
+    "desc": "A Gradle Plugin that prevents parallel publishing to maven repositories.",
+    "officialSite": "",
+    "topics": ["gradle", "gradle-plugin", "maven", "sonatype"]
+  }
 ]

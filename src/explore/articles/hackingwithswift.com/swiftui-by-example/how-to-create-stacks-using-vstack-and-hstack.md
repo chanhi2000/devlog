@@ -63,9 +63,9 @@ Let's start with something simple. Here's one text view:
 Text("Hello, world!")
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-stacks-using-vstack-and-hstack-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-stacks-using-vstack-and-hstack-1.zip)
 
-![The words “Hello, world!” on a plain background.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-stacks-using-vstack-and-hstack-1~dark.png)
+![The words “Hello, world!” on a plain background.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-stacks-using-vstack-and-hstack-1~dark.png)
 
 If we want to place another below, we can't just create a second text view and hope for the best – SwiftUI doesn't know how to arrange them.
 
@@ -78,9 +78,9 @@ VStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-stacks-using-vstack-and-hstack-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-stacks-using-vstack-and-hstack-2.zip)
 
-![The text “SwiftUI” above the text “rocks”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-stacks-using-vstack-and-hstack-2~dark.png)
+![The text “SwiftUI” above the text “rocks”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-stacks-using-vstack-and-hstack-2~dark.png)
 
 You'll notice that the vertical stack is placed at the center of the screen, with the labels also being centered and having some automatic space between them.
 
@@ -93,9 +93,9 @@ HStack {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-stacks-using-vstack-and-hstack-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-stacks-using-vstack-and-hstack-3.zip)
 
-![The text “SwiftUI” beside the text “rocks”.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-stacks-using-vstack-and-hstack-3~dark.png)
+![The text “SwiftUI” beside the text “rocks”.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-stacks-using-vstack-and-hstack-3~dark.png)
 
 ::: details Similar solutions…
 

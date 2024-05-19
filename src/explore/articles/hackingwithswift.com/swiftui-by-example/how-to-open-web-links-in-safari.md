@@ -58,9 +58,9 @@ SwiftUI gives us a dedicated `Link` view that looks like a button but opens a UR
 Link("Learn SwiftUI", destination: URL(string: "https://www.hackingwithswift.com/quick-start/swiftui")!)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-open-web-links-in-safari-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-open-web-links-in-safari-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-open-web-links-in-safari-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-open-web-links-in-safari-1~dark.mp4" />
 
 As it's just a text link, you can customize it with a font, color, and more:
 
@@ -70,9 +70,9 @@ Link("Visit Apple", destination: URL(string: "https://www.apple.com")!)
     .foregroundStyle(.red)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-open-web-links-in-safari-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-open-web-links-in-safari-2.zip)
 
-![The words “Visit Apple” in red.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-open-web-links-in-safari-2~dark.png)
+![The words “Visit Apple” in red.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-open-web-links-in-safari-2~dark.png)
 
 And if you'd rather create your own view rather than just use text, you can do that too:
 
@@ -83,9 +83,9 @@ Link(destination: URL(string: "https://www.apple.com")!) {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-open-web-links-in-safari-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-open-web-links-in-safari-3.zip)
 
-![A link icon on a blue circle.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-open-web-links-in-safari-3~dark.png)
+![A link icon on a blue circle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-open-web-links-in-safari-3~dark.png)
 
 Alternatively, you can open a URL from code by using the `openURL` environment key, like this:
 
@@ -101,9 +101,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-open-web-links-in-safari-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-open-web-links-in-safari-4.zip)
 
-![A “Visit Apple” link in blue.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-open-web-links-in-safari-4~dark.png)
+![A “Visit Apple” link in blue.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-open-web-links-in-safari-4~dark.png)
 
 ::: details Similar solutions…
 

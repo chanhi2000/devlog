@@ -71,9 +71,9 @@ ScrollView {
 .scrollPosition(initialAnchor: .bottom)
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-make-a-scrollview-start-at-the-bottom-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-make-a-scrollview-start-at-the-bottom-1.zip)
 
-![A scrollview containing many items, showing that it scrolls from the bottom up rather than the top down.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-scrollview-start-at-the-bottom-1~dark@2x.png)
+![A scrollview containing many items, showing that it scrolls from the bottom up rather than the top down.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-make-a-scrollview-start-at-the-bottom-1~dark@2x.png)
 
 If your UI alters somehow without the user scrolling – for example if the keyboard appears, or you adjust the size of the scroll view – then the scroll position will remain anchored to the bottom. However, if the user adjusts the scroll position manually, it will scroll freely as normal.
 

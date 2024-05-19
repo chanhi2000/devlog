@@ -66,7 +66,7 @@ NavigationSplitView {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-1.zip)
 
 Usually, though, you'll want to add some kind of selection mechanism to the sidebar, then load that selection in the detail view, like this:
 
@@ -84,7 +84,7 @@ NavigationSplitView {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-2.zip)
 
 In that code, the “Please select a row” text is shown only when the user has yet to make a selection in the sidebar, but it will automatically be replaced when the user makes a selection - the `navigationDestination()` modifier displays its destination view in the detail area automatically. Even better, when space is limited you'll see the whole thing flattens down to a regular `NavigationStack`, so you get the best of both worlds.
 
@@ -104,13 +104,13 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-3.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-sidebar-for-ipados-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-sidebar-for-ipados-1~dark.mp4" />
 
 SwiftUI will automatically take care of showing a button to slide in your bar from the side of the screen, and also collapse it with your primary view if you're in a compact size class.
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-sidebar-for-ipados-2~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-sidebar-for-ipados-2~dark.mp4" />
 
 If you're targeting iPadOS 15 or earlier, you can get a sidebar by placing three views inside a `NavigationView`, like this:
 
@@ -126,7 +126,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-4.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-4.zip)
 
 If you're presenting a list inside an iPadOS 15 sidebar, it's a good idea to use the `.listStyle()` to give it the system-standard theme for sidebars, like this:
 
@@ -141,9 +141,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-5.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview-5.zip)
 
-![A list of rows with no separators and a gray background.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-sidebar-for-ipados-3~dark@2x.png)
+![A list of rows with no separators and a gray background.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-a-sidebar-for-ipados-3~dark@2x.png)
 
 ::: details Similar solutions…
 

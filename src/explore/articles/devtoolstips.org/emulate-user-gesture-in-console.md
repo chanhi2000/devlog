@@ -18,9 +18,40 @@ head:
       content: Use user gesture restricted APIs in the Console
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/emulate-user-gesture-in-console.html
+prev: /programming/js/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "JavaScript > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/js/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Google Chrome > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/chrome/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Safari > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/safari/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -36,7 +67,29 @@ head:
 }
 ```
 
+> 2023.09.21
+
 <!-- TODO: 내용 채우기 -->
+
+::: details See also
+
+- [Speed up or slow down a video](https://devtoolstips.org/tips/en/change-video-playback-rate) <!-- TODO: add VPCard -->
+- [Get the recently selected DOM nodes in the console](https://devtoolstips.org/tips/en/get-recently-selected-dom-nodes-in-console) <!-- TODO: add VPCard -->
+
+```component VPCard
+{
+  "title": "Inspect and debug iframes",
+  "desc": "Devtools Tips > Inspect and debug iframes",
+  "link": "/explore/articles/devtoolstips.org/inspect-debug-iframes.md",
+  "logo": "https://devtoolstips.org/assets/logo-small.png",
+  "background": "rgba(31,44,43,0.2)"
+}
+```
+
+- [List all supported console functions](https://devtoolstips.org/tips/en/list-console-functions) <!-- TODO: add VPCard -->
+
+
+:::
 
 ---
 

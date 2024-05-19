@@ -484,5 +484,15 @@
     "desc": "DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.",
     "officialSite": "",
     "topics": ["dns", "dns-over-https", "dns-over-tls", "doh", "dot", "ios", "ipados", "swift"]
+  }, {
+    "repo": "apple/swift-log",
+    "desc": "A Logging API for Swift",
+    "officialSite": "https://apple.github.io/swift-log/",
+    "topics": ["logging", "swift-server"]
+  }, {
+    "repo": "opacity-browser/opacity",
+    "desc": "Opacity Browser for macOS",
+    "officialSite": "https://opacity.dev",
+    "topics": []
   }
 ]

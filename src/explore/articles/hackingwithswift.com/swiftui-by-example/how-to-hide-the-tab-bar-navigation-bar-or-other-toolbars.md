@@ -73,7 +73,7 @@ TabView {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars-1.zip)
 
 If you don't specify an exact bar to hide – if you write just `toolbar(.hidden)` without specifying `for: .tabBar` – the hide request flows upwards to the nearest container. In this case it will result in the navigation bar being hidden as that's the nearest container.
 
@@ -104,7 +104,7 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars-2.zip)
 
 ::: details Similar solutions…
 

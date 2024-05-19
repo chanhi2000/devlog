@@ -22,10 +22,20 @@ head:
       content: Name evaluated files with the sourceURL pragma
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/name-evaluated-files.html
+prev: /programming/js/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
 
+```component VPCard
+{
+  "title": "JavaScript > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/js/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -40,6 +50,8 @@ head:
   "background": "rgba(31,44,43,0.2)"
 }
 ```
+
+> 2024.01.29
 
 If you insert JavaScript code in a webpage by using the `eval()` function, or inline `<script>` tags, you can use the `sourceURL` pragma to give them a name in DevTools.
 

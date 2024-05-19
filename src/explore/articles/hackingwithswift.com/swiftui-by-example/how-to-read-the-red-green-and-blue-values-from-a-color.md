@@ -87,9 +87,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-1.zip)
 
-![A color picker that displays its red, green, and blue components every time the color is changed.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-1~dark.png)
+![A color picker that displays its red, green, and blue components every time the color is changed.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-1~dark.png)
 
 ::: important
 
@@ -136,9 +136,9 @@ struct ContentView: View {
 }
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-2.zip)
 
-![A view that shows red, green, and blue values for a user color, and also the matching JSON data.](https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-2~dark.png)
+![A view that shows red, green, and blue values for a user color, and also the matching JSON data.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-2~dark.png)
 
 ::: note
 
@@ -156,7 +156,7 @@ Rectangle()
     .ignoresSafeArea()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://www.hackingwithswift.com/files/projects/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color-3.zip)
 
 A gentle blue gradient created from a resolved color.
 
