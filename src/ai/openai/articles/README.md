@@ -1,0 +1,59 @@
+---
+lang: ko-KR
+title: Article(s)
+description: OpenAI > Article(s)
+icon: fas fa-square-share-nodes
+category: 
+  - OpenAI
+  - ChatGPT
+  - AI
+  - Article(s)
+tag:
+  - blog
+  - techblog.woowahan.com
+  - ai
+  - openai
+  - chatgpt
+head:
+  - - meta:
+    - property: og:title
+      content: OpenAI > Article(s)
+    - property: og:description
+      content: Article(s)
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/openai/articles/
+---
+
+# {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "우아한형제들 기술블로그",
+  "desc": "우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.",
+  "link": "https://techblog.woowahan.com/",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
+}
+```
+
+[[toc]]
+
+---
+
+## 우아한형제들 기술블로그
+
+> techblog.woowahan.com
+
+```component VPCard
+{
+  "title": "셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기 | 우아한형제들 기술블로그",
+  "desc": "셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기",
+  "link": "/explore/artiles/techblog.woowahan.com/16044.md",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
+}
+```
+
+---
+
+<TagLinks />

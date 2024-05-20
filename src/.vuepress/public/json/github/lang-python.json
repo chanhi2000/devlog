@@ -5219,5 +5219,10 @@
     "desc": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "dheera/scripts",
+    "desc": "personal scripts to make life easier",
+    "officialSite": "",
+    "topics": []
   }
 ]

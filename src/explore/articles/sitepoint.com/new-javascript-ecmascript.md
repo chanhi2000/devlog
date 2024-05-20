@@ -242,19 +242,19 @@ Personally, we would love the pipe operator to be implemented and rolled out thi
 
 ## Records and Tuples
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 
 ## RegExp `/v` flag
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 
 ## Decorators
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

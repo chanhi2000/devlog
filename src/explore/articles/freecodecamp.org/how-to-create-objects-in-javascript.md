@@ -47,7 +47,7 @@ prev: /programming/js/articles/README.md
 
 > 2024.05.10
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

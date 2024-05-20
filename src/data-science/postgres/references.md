@@ -246,4 +246,10 @@ tag:
 
 ---
 
+## pgDash - Comprehensive PostgreSQL Monitoring
+
+- [RAG With PostgreSQL](https://pgdash.io/blog/rag-with-postgresql.html)
+
+---
+
 <TagLinks />

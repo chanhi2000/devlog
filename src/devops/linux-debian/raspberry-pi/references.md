@@ -40,4 +40,10 @@ tag:
 
 ---
 
+## Beating Jeff
+
+- [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
+
+---
+
 <TagLinks />

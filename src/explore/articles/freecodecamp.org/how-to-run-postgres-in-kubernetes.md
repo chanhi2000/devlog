@@ -85,7 +85,7 @@ prev: /devops/azure/articles/README.md
 
 > 2024.05.08
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

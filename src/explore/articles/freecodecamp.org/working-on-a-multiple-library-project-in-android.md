@@ -58,7 +58,7 @@ prev: /programming/java-android/articles/README.md
 
 > 2024.04.27
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

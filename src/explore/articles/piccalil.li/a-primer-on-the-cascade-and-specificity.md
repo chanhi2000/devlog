@@ -49,7 +49,7 @@ prev: /programming/css/articles/README.md
 
 > 2024.04.18
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

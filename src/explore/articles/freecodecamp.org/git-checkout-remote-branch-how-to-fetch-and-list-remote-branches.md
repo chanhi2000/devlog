@@ -46,7 +46,7 @@ prev: /programming/git/articles/README.md
 
 > 2024.04.30
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

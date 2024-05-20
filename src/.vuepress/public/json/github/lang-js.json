@@ -2271,7 +2271,7 @@
     "topics": ["ai", "application", "browser", "chatgpt", "claude", "copilot", "extension", "gemini", "groq", "huggingchat", "macos", "noi", "perplexity", "poe", "suno", "tools", "windows"]
   }, {
     "repo": "joye61/pic-smaller",
-    "desc": "Pic Smaller – Compress JPEG, PNG, WebP and GIF images intelligently",
+    "desc": "Pic Smaller – Compress JPEG, PNG, WEBP, AVIF and GIF images intelligently",
     "officialSite": "https://txx.cssrefs.com",
     "topics": ["compress-images", "offscreencanvas", "react", "safe-compression", "vite", "webassembly"]
   }

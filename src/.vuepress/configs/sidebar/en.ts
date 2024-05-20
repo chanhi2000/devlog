@@ -90,6 +90,7 @@ export const sidebarEn = sidebar({
             articleSidebars.yozm("git"),
             articleSidebars.d2("git"),
             articleSidebars.nhn("git"),
+            articleSidebars.woowahan("git"),
           ]
         }
       ]
@@ -1936,6 +1937,15 @@ export const sidebarEn = sidebar({
         '/ai/openai/README.md',
         '/ai/openai/references.md',
         '/ai/openai/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/openai/articles/README.md',
+            articleSidebars.d2("openai"),
+          ]
+        }
       ]
     }, {
       text: 'Github Copilot',

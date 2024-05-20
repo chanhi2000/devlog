@@ -67,7 +67,7 @@ brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   wget xz zsh mac-cleanup-py;
 
 # Install cask(s)
-brew install --cask airflow alt-tab appcleaner cheatsheet  \
+brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \
   dbeaver-community rancher eul flipper font-jetbrains-mono \
   google-chrome grandperspective iina intellij-idea-ce maccy notion \
   opencore-patcher oversight pennywise raycast resilio-sync \

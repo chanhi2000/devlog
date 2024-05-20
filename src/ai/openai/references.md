@@ -322,6 +322,7 @@ tag:
 
 - [ChatGPT 활용 KIER 강의자료 중 업무효율화 SW](https://jehyunlee.github.io/2024/04/02/General-47_kierworkaccel/)
 - [KIER 강연 - AI활용 업무 효율화 방안](https://jehyunlee.github.io/2024/04/03/General-48_kierworkaccellec/)
+- [DALL.E inpainting으로 그림 그리기](https://jehyunlee.github.io/2024/05/19/General-51-dalleinpainting/)
 
 ---
 
@@ -354,15 +355,16 @@ tag:
 
 ---
 
-## Pega Devlog
-
-- [DALL.E inpainting으로 그림 그리기](https://jehyunlee.github.io/2024/05/19/General-51-dalleinpainting/)
-
----
-
 ## BleepingComputer | Cybersecurity, Technology News and Support
 
 - [It's surprisingly difficult for AI to create just a plain white image](https://www.bleepingcomputer.com/news/technology/its-surprisingly-difficult-for-ai-to-create-just-a-plain-white-image/)
+
+---
+
+## arxiv
+
+<PDF url="https://arxiv.org/pdf/2405.04540" />
+<PDF url="https://arxiv.org/pdf/2405.00832" />
 
 ---
 

@@ -47,7 +47,7 @@ prev: /explore/system-design/articles/README.md
 
 > 2024.04.19
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

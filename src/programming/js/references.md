@@ -183,4 +183,16 @@ tag:
 
 ---
 
+## Kilian Valkhof
+
+- [The problem with `new URL()`, and how `URL.parse()` fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
+
+---
+
+## Amy Goodchild
+
+- [CODING MY HANDWRITING](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+
+---
+
 <TagLinks />

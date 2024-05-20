@@ -165,4 +165,10 @@ tag:
 
 ---
 
+## Blog | Max Bernstein
+
+- [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
+
+---
+
 <TagLinks />

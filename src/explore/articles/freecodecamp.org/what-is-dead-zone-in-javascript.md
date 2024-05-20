@@ -46,7 +46,7 @@ head:
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"/>
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

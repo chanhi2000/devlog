@@ -1021,6 +1021,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 - https://www.emailjs.com/docs
 - https://developers.naver.com/main/
 
+```component VPCard
+{
+  "title": "Free Car Service Manuals from Operation CHARM — No strings attached!",
+  "desc": "Operation CHARM provides completely free repair/service/workshop manuals for over 50,000 models of cars and trucks manufactured 1982-2013. No sign-up or paywall.",
+  "link": "https://charm.li/",
+  "logo": "https://charm.li/favicon.ico",
+  "background": "rgba(144,238,144,0.2)"
+}
+```
+
 @tab Regex
 
 - https://regexper.com

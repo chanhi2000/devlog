@@ -48,7 +48,7 @@ prev: /data-science/postgres/articles/README.md
 
 > 2023.05.12
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

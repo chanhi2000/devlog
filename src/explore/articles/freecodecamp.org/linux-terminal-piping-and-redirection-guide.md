@@ -47,7 +47,7 @@ prev: /programming/sh/articles/README.md
 
 > 2024.04.26
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

@@ -2825,7 +2825,7 @@
     "topics": ["aceternity", "nextjs"]
   }, {
     "repo": "rashadphz/farfalle",
-    "desc": "open-source answer engine - run local or cloud models",
+    "desc": "🔍 ai search engine - self-host local or cloud language models",
     "officialSite": "https://www.farfalle.dev/",
     "topics": ["fastapi", "generative-ui", "gpt-4o", "groq", "llm", "nextjs", "ollama", "openai", "perplexity", "react", "search-engine", "shadcn-ui", "tailwindcss"]
   }

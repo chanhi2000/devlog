@@ -53,7 +53,7 @@ prev: /programming/js-svelte/articles/README.md
 
 > 2024.04.29
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

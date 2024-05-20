@@ -45,6 +45,16 @@ head:
 
 ```component VPCard
 {
+  "title": "키클락을 활용한 통합 인증 실습하기 | 요즘IT",
+  "desc": "키클락을 활용한 통합 인증 실습하기",
+  "link": "/explore/articles/yozm.wishket.com/2429.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "정적 파일만 있는 사이트를 어떻게 구동시킬까? | 요즘IT",
   "desc": "정적 파일만 있는 사이트를 어떻게 구동시킬까?",
   "link": "/explore/articles/yozm.wishket.com/2584.md",

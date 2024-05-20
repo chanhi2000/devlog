@@ -420,4 +420,10 @@ tag:
 
 ---
 
+## Needlessly complex
+
+- [Unprojecting text with ellipses](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
+
+---
+
 <TagLinks />

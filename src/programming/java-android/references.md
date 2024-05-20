@@ -275,6 +275,10 @@ tag:
 
 ## Thdev
 
+### 2016
+
+- [Android WebView TestCode 작성하기 기본 테스트 진행하기](https://thdev.tech/androiddev/2016/08/16/Android-WebView-TestCode)
+
 ### 2023
 
 - [이력서를 위한 이력 관리는 어떻게 하는 것이 좋을까?](https://thdev.tech/resume/2023/02/12/Android-Resume)
@@ -362,6 +366,12 @@ tag:
 ## 독학하는 1인 개발자
 
 - [[안드로이드] 오류: Lint found fatal errors while assembling](https://jhshjs.tistory.com/13)
+
+---
+
+## 조세영의 Kotlin World
+
+- [[Android] WebView와 브릿지를 사용해 통신하는 방법 한 번에 정리하기](https://kotlinworld.com/364)
 
 ---
 

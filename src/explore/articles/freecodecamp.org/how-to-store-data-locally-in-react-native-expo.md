@@ -52,7 +52,7 @@ prev: /programming/js-react/articles/README.md
 
 > 2024.05.13
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

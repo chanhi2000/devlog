@@ -151,5 +151,22 @@ tag:
 
 ---
 
-<TagLinks />
+## Big Mess o' Wires
 
+- [68 Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
+
+---
+
+## The Overclock Page - Hardware, reviews e overclock
+
+- [Tutorial: Transforming a QLC SSD into an SLC SSD – Dramatically increasing the drive’s endurance!](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
+
+---
+
+## Nicole Express
+
+- [A Floppy Disk MIDI Boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
+
+---
+
+<TagLinks />

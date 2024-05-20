@@ -47,7 +47,7 @@ prev: /programming/py/articles/README.md
 
 > 2023.05.04
 
-<!-- TODO: 내용기입 -->
+<!-- TODO: 작성 -->
 
 ---
 

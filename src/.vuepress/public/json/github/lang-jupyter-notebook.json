@@ -589,5 +589,10 @@
     "desc": "Measure Kotlin K2 compiler performance in your repository",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "naklecha/llama3-from-scratch",
+    "desc": "llama3 implementation one matrix multiplication at a time",
+    "officialSite": "",
+    "topics": []
   }
 ]
