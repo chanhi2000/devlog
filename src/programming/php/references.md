@@ -73,6 +73,7 @@ tag:
 - [7.03. 클래스 사용하기](https://ysedeveloper.tistory.com/entry/703-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [7.04. 네임스페이스 사용하기](https://ysedeveloper.tistory.com/entry/704-%EB%84%A4%EC%9E%84%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [7.05. 오토로드 사용하기](https://ysedeveloper.tistory.com/entry/705-%EC%98%A4%ED%86%A0%EB%A1%9C%EB%93%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [7.06. 의존성 라이브러리 관리자 컴포저](https://ysedeveloper.tistory.com/entry/706-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%BB%B4%ED%8F%AC%EC%A0%80)
 
 ---
 

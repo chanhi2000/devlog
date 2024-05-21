@@ -1184,6 +1184,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "pls fix",
+  "desc": "pls fix is a marketplace connecting verified big tech employees with people looking for help to unblock accounts, get job referrals and more.",
+  "link": "https://plsfix.co/",
+  "logo": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F5ddc7125945870573d64487ab08cbbe6.cdn.bubble.io%2Ff1716137934962x967339654394927500%2Ffavison%2520pls%2520fix.png?w=128&h=&auto=compress&dpr=1&fit=max",
+  "background": "rgba(34,83,80,0.2)"
+}
+```
+
 - https://beta-genport.newsystock.com/backtest/TradingM.aspx?UseType=KOR
 - https://viperfish.com.au/games/pinnacle.html
 - https://workout.olzhasar.com/

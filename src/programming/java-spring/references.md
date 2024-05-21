@@ -180,6 +180,24 @@ head:
 
 - [카카오 JDK 21의 신기능 Virtual Thread 알아보기 정리](https://hides.tistory.com/1146)
 
+### Okta Developer
+
+- [okta developer - Build a Secure Spring Data JPA Resource Server](https://developer.okta.com/blog/2020/11/20/spring-data-jpa)
+
+### TIL
+
+- [SOAP 통신 OPEN API로 개발해보기](https://dahye-jeong.gitbook.io/til/java+/2021-01-09-java-soapapi)
+
+### 항동킴 Blog
+
+- [[Springboot] /`MojoExecutionException` 에러 처리](https://jinseong0928.blogspot.com/2024/05/springboot-mojoexecutionexception.html)
+
+### 💾 Knowledge Repositor
+
+- [Feign 클라이언트 구현과 Eureka, Hystrix 적용](https://atoz-develop.tistory.com/entry/Feign-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EA%B5%AC%ED%98%84%EA%B3%BC-Eureka-Hystrix-%EC%A0%81%EC%9A%A9)
+- [스프링 부트 배너 적용하기(+ 변환 사이트 추천 및 color 변경)](https://atoz-develop.tistory.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EB%B0%B0%EB%84%88-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-%EB%B3%80%ED%99%98-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B6%94%EC%B2%9C-%EB%B0%8F-color-%EB%B3%80%EA%B2%BD)
+- [Spring Security Web을 사용하여 IP 접근 제어 구현하기](https://atoz-develop.tistory.com/entry/Spring-Security-Web%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-IP-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin

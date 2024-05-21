@@ -13,12 +13,13 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
+[[toc]]
 
 ---
 
-## Github
+## <FontIcon icon="iconfont icon-gradle"/>Github
 
-- [open-suite-webapp/build.gradle](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
+- [<FontIcon icon="iconfont icon-gradle"/>`open-suite-webapp/build.gradle`](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
 
 ---
 
@@ -57,5 +58,12 @@ tag:
 - [Gradle Web(War) Plugin](https://kwonnam.pe.kr/wiki/gradle/web)
 
 ---
+
+## 조세영의 Kotlin World
+
+- [Gradle Kotlin, Java Project의 기본 구성 살펴보고, Gradle Task로 컴파일, 패키징 하기](https://kotlinworld.com/315)
+
+---
+
 
 <TagLinks />

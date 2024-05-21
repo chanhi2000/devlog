@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/dsJKoz3hgne41o9N9qlVGpD4tZu8VtBYpo3NkPIp0kaaVZzfL3SCVAFXJY_RUkn4srRJ5Krexw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sCHvnJLf1hY", "title": "Astro Just Got Better" },
+    { "id": "PGlGkhk9B_8", "title": "The Web Developer Profile" },
+    { "id": "wlIqV5dLikI", "title": "Rust First Impressions" },
+    { "id": "tDWmfenF2AM", "title": "The Easiest Way to Store Data" },
+    { "id": "GJ8NuKBWn6Y", "title": "Write Once, Run Anywhere" },
+    { "id": "_hb_oRhASuw", "title": "Composition Over Inheritance" },
+    { "id": "nLGmp0BXC-0", "title": "JavaScript Might Get Better" },
     { "id": "FPiiiE4LXVw", "title": "Now Is The Best Time to Learn Go" },
     { "id": "qSQtKtmj4M0", "title": "React 19 - This Has To Stop!" },
     { "id": "v8-yeWXCsi4", "title": "Now is The Best Time to Learn WebAssembly" },

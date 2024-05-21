@@ -17,12 +17,15 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
 
-## Microsoft
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+
+### <FontIcon icon="fa-brands fa-windows"/>Windows Developer
+
+- [Unlock a new era of innovation with Windows Copilot Runtime and Copilot+ PCs](https://blogs.windows.com/windowsdeveloper/2024/05/21/unlock-a-new-era-of-innovation-with-windows-copilot-runtime-and-copilot-pcs/)
 
 ### Tech Community
 
@@ -171,6 +174,30 @@ tag:
 ## YJG's Think Tank
 
 - [CPU 잡아먹는 `CompatTelRunner.exe`이 하는 일과 비활성화하는 방법](https://yjg30737.github.io/posts/what-is-compattelrunners/)
+
+---
+
+## Next of Windows
+
+- [How To Get Rid of C:\FakePath in IE When Uploading A File to the Website \[Fix\]](https://www.nextofwindows.com/how-to-get-rid-of-cfakepath-in-ie-when-uploading-a-file-to-the-website-fix)
+
+---
+
+## lovekod2hj's Blog
+
+- [\[IE\] 지금 보고 있는 웹 페이지에서 탭을 닫으려고 합니다. 메시지 안 뜨도록 할 때](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=s0215hc&logNo=221013229975)
+
+---
+
+## The Cool Blog
+
+- [4-20-23: Windows on `btrfs`](https://www.lilysthings.org/blog/windows-on-btrfs)
+
+---
+
+## 친절한효자손 취미생활
+
+- [MSI 메인보드 TPM 활성화 및 확인 방법 (for Windows11)](https://rgy0409.tistory.com/4455)
 
 ---
 

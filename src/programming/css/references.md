@@ -127,13 +127,13 @@ tag:
 
 ---
 
-## Smashing Magazine
+## Smashing Magazine — For Web Designers And Developers
 
-- [InfiInfinite-Scrolling Logos In Flat HTML And Pure CSS](https://www.smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/)
-- [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://www.smashingmagazine.com/2023/07/writing-css-2023)
-- [Sliding 3D Image Frames In CSS](https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/)
-- [The Modern Guide For Making CSS Shapes](https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/)
-- [The Times You Need A Custom `@property` Instead Of A CSS Variable](https://www.smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/)
+- [InfiInfinite-Scrolling Logos In Flat HTML And Pure CSS](https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/)
+- [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://smashingmagazine.com/2023/07/writing-css-2023)
+- [Sliding 3D Image Frames In CSS](https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/)
+- [The Modern Guide For Making CSS Shapes](https://smashingmagazine.com/2024/05/modern-guide-making-css-shapes/)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/modern-guide-making-css-shapes.md) -->
+- [The Times You Need A Custom `@property` Instead Of A CSS Variable](https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/times-need-custom-property-instead-css-variable.md) -->
 
 ---
 

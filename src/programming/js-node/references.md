@@ -56,7 +56,7 @@ tag:
 
 ---
 
-## Github
+## <FontIcon icon="iconfont icon-github"/>Github
 
 - [<FontIcon icon="fa-brands fa-markdown"/>`guest271314/javascript_engines_and_runtimes.md`](https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a)
 
@@ -68,13 +68,17 @@ tag:
 
 ---
 
-## Google
+## <FontIcon icon="fa-brands fa-google"/>Google
 
-### Chrome for Developers
+### <FontIcon icon="fa-brands fa-chrome"/>Chrome for Developers
 
-- [Supercharge compression efficiency with shared dictionaries ](https://developer.chrome.com/blog/shared-dictionary-compression?hl=en)
+- [Supercharge compression efficiency with shared dictionaries](https://developer.chrome.com/blog/shared-dictionary-compression?hl=en)
 
 ---
+
+## DZone
+
+- [Interactive Data Visualization in Ionic 5](https://dzone.com/articles/interactive-data-visualization-in-ionic-5)
 
 ---
 
@@ -102,7 +106,7 @@ tag:
 
 ## 요즘IT
 
-- [프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법](https://yozm.wishket.com/magazine/detail/2483/)
+- [프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법](/explore/articles/yozm.wishket.com/2483.md)
 
 ---
 
@@ -113,28 +117,25 @@ tag:
 
 ---
 
-
 ## Banksalad
 
 ### 2020
 
 - [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby)
 
+<!-- TODO: 작성 (/explore/articles/blog.banksalad.com/build-a-website-with-gatsby.md) -->
+
 ### 2017
 
 - [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage)
 
+<!-- TODO: 작성 (/explore/articles/blog.banksalad.com/typescript-local-storage.md) -->
+
 ---
 
-## Notion
+## <FontIcon icon="iconfont icon-notion"/>Notion
 
 - [Fluid Simulation 流体シミュレーション](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
-
----
-
-## CSS Tricks
-
-- [How to Fetch and Parse RSS Feeds in JavaScript](https://css-tricks.com/how-to-fetch-and-parse-rss-feeds-in-javascript)
 
 ---
 
@@ -216,21 +217,22 @@ tag:
 - [`@devstone` / 웹워커. 그게 뭔데 .](https://velog.io/@devstone/%EC%9B%B9%EC%9B%8C%EC%BB%A4-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
 - [`@kimbyungchan` / 🕹 Canvas StarCraft](https://velog.io/@kimbyungchan/canvas-starcraft)
 - [`@yerini` / 매개변수 쿼리](https://velog.io/@yerini/%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EC%BF%BC%EB%A6%AC)
+- [`@sehyunny` / (번역) 5가지 노드 버전 관리자 비교 - 어떤 것이 적합할까요?](https://velog.io/@sehyunny/5-node-manager-compared)
 
 ---
 
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
-- [`@baealex` - [JavaScript] badland의 상태 관리](https://blex.me/@baealex/javascript-badland%EC%9D%98-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC)
-- [`@laetipark` - Node.js 교과서 : 1. 노드 시작하기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-1-%EB%85%B8%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
-- [Node.js 교과서 : 2. 알아두어야 할 자바스크립트](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-2-%EC%95%8C%EC%95%84%EB%91%90%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
-- [`@laetipark` - Node.js 교과서 : 3. 노드 기능 (1)](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-3-%EB%85%B8%EB%93%9C-%EA%B8%B0%EB%8A%A5-1)
-- [`@laetipark` - Node.js 교과서 : 3. 노드 기능 (2)](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-3-%EB%85%B8%EB%93%9C-%EA%B8%B0%EB%8A%A5-2)
-- [`@laetipark` - Node.js 교과서 : 4. HTTP 모듈로 서버 만들기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-4-http-%EB%AA%A8%EB%93%88%EB%A1%9C-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [`@laetipark` - Node.js 교과서 : 5. 패키지 매니저](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-5-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80)
-- [`@laetipark` - Node.js 교과서 : 6. 익스프레스 웹 서버 만들기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-6-%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4-%EC%9B%B9-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [`@laetipark` - NestJS/Typescript : 캐시 메모리와 레디스(Redis)](https://blex.me/@laetipark/nestjstypescript-%EC%BA%90%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80-%EB%A0%88%EB%94%94%EC%8A%A4redis)
-- [`@laetipark` - NestJS/Typescript : Bcrypt 모듈을 통한 비밀번호 암호화](https://blex.me/@laetipark/nestjstypescript-bcrypt-%EB%AA%A8%EB%93%88%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%95%94%ED%98%B8%ED%99%94)
+- [`@baealex` / [JavaScript] badland의 상태 관리](https://blex.me/@baealex/javascript-badland%EC%9D%98-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC)
+- [`@laetipark` / Node.js 교과서 : 1. 노드 시작하기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-1-%EB%85%B8%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+- [`@laetipark` / Node.js 교과서 : 2. 알아두어야 할 자바스크립트](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-2-%EC%95%8C%EC%95%84%EB%91%90%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
+- [`@laetipark` / Node.js 교과서 : 3. 노드 기능 (1)](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-3-%EB%85%B8%EB%93%9C-%EA%B8%B0%EB%8A%A5-1)
+- [`@laetipark` / Node.js 교과서 : 3. 노드 기능 (2)](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-3-%EB%85%B8%EB%93%9C-%EA%B8%B0%EB%8A%A5-2)
+- [`@laetipark` / Node.js 교과서 : 4. HTTP 모듈로 서버 만들기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-4-http-%EB%AA%A8%EB%93%88%EB%A1%9C-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [`@laetipark` / Node.js 교과서 : 5. 패키지 매니저](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-5-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80)
+- [`@laetipark` / Node.js 교과서 : 6. 익스프레스 웹 서버 만들기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-6-%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4-%EC%9B%B9-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [`@laetipark` / NestJS/Typescript : 캐시 메모리와 레디스(Redis)](https://blex.me/@laetipark/nestjstypescript-%EC%BA%90%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80-%EB%A0%88%EB%94%94%EC%8A%A4redis)
+- [`@laetipark` / NestJS/Typescript : Bcrypt 모듈을 통한 비밀번호 암호화](https://blex.me/@laetipark/nestjstypescript-bcrypt-%EB%AA%A8%EB%93%88%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%95%94%ED%98%B8%ED%99%94)
 
 ---
 
@@ -289,9 +291,11 @@ tag:
 
 ---
 
-## DigitalOcean 
+## DigitalOcean
 
 - [Using Bitwise operators in JavaScript](https://www.digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
+
+<!-- TODO: 작성 (/explore/articles/digitalocean.com/using-bitwise-operators-in-javascript.md) -->
 
 ---
 
@@ -305,11 +309,22 @@ tag:
 - [ChatGPT React Course – Code Your Own ChatGPT Clone](https://www.freecodecamp.org/news/chatgpt-react-course)
 - [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
 - [How to Use React Server Components – A Beginner's Guide](https://www.freecodecamp.org/news/react-server-components-for-beginners/)
-- [JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
 - [TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers)
 - [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://www.freecodecamp.org/news/improve-reactjs-code)
 - [How to Use GraphQL](https://www.freecodecamp.org/news/graphql-database-tutorial)
 - [Cross-Browser Compatibility Testing – Best Practices for Web Developers](https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers)
+
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/what-is-hoisting-in-javascript-3.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/upload-files-with-javascript.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/get-started-with-nodejs.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/how-to-write-more-efficient-javascript-conditions.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/chatgpt-react-course.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/build-consume-and-document-a-rest-api.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/react-server-components-for-beginners.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/typescript-tutorial-for-react-developers.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/improve-reactjs-code.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/graphql-database-tutorial.md) -->
+<!-- TODO: 작성 (/explore/articles/freecodecamp.org/cross-browser-compatibility-testing-best-practices-for-web-developers.md) -->
 
 ---
 
@@ -317,10 +332,9 @@ tag:
 
 - [인프런은 동적으로 생성되는 OG 이미지가 왜 필요할까?](https://tech.inflab.com/20240219-dynamic-og-image/)
   
-
 ---
 
-## Microsoft
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
 
@@ -338,7 +352,7 @@ tag:
 
 - [Introducing the new Wasmer JS SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
 
-
+---
 
 ## 맹의 코딩 기록장
 
@@ -952,13 +966,31 @@ tag:
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)
+- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md)-->
 
 ---
 
 ## ESLint
 
 - [Introducing ESLint Compatibility Utilities](https://eslint.org/blog/2024/05/eslint-compatibility-utilities/)
+
+---
+
+## SOSOLOG
+
+- [You don't know polyfill](https://so-so.dev/web/you-dont-know-polyfill)
+
+---
+
+## 개발자 황준일
+
+- [Vanilla Javascript로 웹 컴포넌트 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Component/#_1-%E1%84%89%E1%85%A1%E1%86%BC%E1%84%90%E1%85%A2%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4-%E1%84%90%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A2%E1%86%BC)
+
+---
+
+## braindump incorporated
+
+- [Building an AI game studio: what we’ve learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
 
 ---
 

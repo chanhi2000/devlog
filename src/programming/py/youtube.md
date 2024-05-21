@@ -113,5 +113,6 @@ tag:
 <MyYouTubeItems jsonName="yu-codingnoodle" /><!-- 코딩국수 -->
 <MyYouTubeItems jsonName="yu-LearnEDU" /><!-- LearnEDU -->
 <MyYouTubeItems jsonName="yu-learnpratap" /><!-- Learn with Pratap -->
+<MyYouTubeItems jsonName="yu-nangman002" /><!-- 낭만공돌이 - IT와 비즈니스 이야기 -->
 
 <TagLinks />

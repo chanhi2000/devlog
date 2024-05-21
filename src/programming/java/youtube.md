@@ -24,7 +24,6 @@ tag:
   - "@ntigo"
   - "@javajigi"
   - "@rabisankarpodder7839"
-  - "@GainJavaKnowledge"
   - "@java"
   - "@namoosori"
   - "@metacoding"

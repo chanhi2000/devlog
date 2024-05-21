@@ -26,6 +26,7 @@ export const template: SidebarInfoTemplate = {
       "using-the-popover-api-for-html-tooltips", // 2024.05.06
       "using-css-scroll-driven-animations-for-section-based-scroll-progress-indicators", // 2024.05.10
       "the-classic-border-radius-advice-plus-an-unusual-trick", // 2024.05.13
+      "weve-got-container-queries-now-but-are-we-actually-using-them", // 2024.05.21
     ]], [
     "all", [
       "drawing-a-line-to-connect-elements-with-css-anchor-positioning", // 2024.04.02
@@ -42,6 +43,7 @@ export const template: SidebarInfoTemplate = {
       "using-css-scroll-driven-animations-for-section-based-scroll-progress-indicators", // 2024.05.10
       "the-classic-border-radius-advice-plus-an-unusual-trick", // 2024.05.13
       "prefetching-when-server-loading-wont-do", // 2024.05.15
+      "weve-got-container-queries-now-but-are-we-actually-using-them", // 2024.05.21
     ]]
   ])
 }

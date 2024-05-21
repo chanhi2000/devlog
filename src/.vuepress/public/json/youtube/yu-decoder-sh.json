@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "decoder-sh",
+    "name": "Decoder",
+    "profile": "https://yt3.googleusercontent.com/mBfegXQoS3yFuhbEm-sSuh4h5hlZwarjUFdjgjeB2bKYbISpGh_6YoOGs-ZBaYqUO64G6odLCw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "V1Mz8gMBDMo", "title": "RAG from the Ground Up with Python and Ollama" },
+    { "id": "qYJSNCPmDIk", "title": "LangChain Fundamentals: Build your First Chain" }
+  ],
+  "playlists": [
+
+  ]
+}

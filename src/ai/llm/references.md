@@ -211,6 +211,7 @@ tag:
 ## 꿈 많은 사람의 이야기
 
 - [vLLM 사용법 - LLM을 쉽고 빠르게 추론(inference) 및 API 서빙(serving)하기](https://lsjsj92.tistory.com/668)
+- [개인화를 고려한 LLM 모델 기반 추천 시스템 - PALR 추천 시스템 논문 리뷰](https://lsjsj92.tistory.com/669)
 
 ---
 

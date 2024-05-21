@@ -11,6 +11,7 @@ tag:
   - blog
   - yozm.wishket.com
   - meetup.nhncloud.com
+  - d2.naver.com
   - security
   - mobile
   - linux
@@ -45,6 +46,13 @@ head:
   "background": "rgba(76,156,227,0.2)"
 }
 ```
+
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -107,6 +115,22 @@ head:
   "link": "/explore/articles/meetup.nhncloud.com/381.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+---
+
+## NAVER D2
+
+> d2.naver.com
+
+```component VPCard
+{
+  "title": "AMIGO - 행위 기반 악성코드 탐지 | NAVER D2",
+  "desc": "AMIGO - 행위 기반 악성코드 탐지",
+  "link": "/explore/articles/d2.naver.com/994.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
 }
 ```
 

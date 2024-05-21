@@ -71,6 +71,7 @@ tag:
 - [`@eunbibi` - Tag](https://velog.io/@eunbibi/Tag)
 - [`@eunbibi` - Merge and Conflict](https://velog.io/@eunbibi/Merge-and-Conflict)
 - [`@endmoseung` - Submodule CI/CD 통합하기](https://velog.io/@endmoseung/Submodule-CICD-%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0)
+- [`@root-devvoo` / oh-my-zsh 업데이트 에러 해결](https://velog.io/@root-devvoo/oh-my-zsh-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
 
 ---
 
@@ -283,6 +284,12 @@ tag:
 ## Drew DeVault's blog
 
 - [Managing my dotfiles as a git repository](https://drewdevault.com/2019/12/30/dotfiles.html)
+
+---
+
+## TheServerSide | Your Java Community discussing server side development
+
+- [How to perform a Git clean up of branches and commits example](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-clean-up-Git-branches-and-commits)
 
 ---
 

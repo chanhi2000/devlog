@@ -31,8 +31,9 @@ head:
 
 ---
 
-## React 
+## React
 
+- [React - All Posts](https://legacy.reactjs.org/blog/all.html/)
 - [React Labs: What We've Been Working On – February 2024](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 
 ---
@@ -108,10 +109,10 @@ head:
 
 ---
 
-## Smashing Magazine
+## Smashing Magazine — For Web Designers And Developers
 
-- [about React](https://www.smashingmagazine.com/category/react)
-- [The Forensics Of React Server Components (RSCs)](https://www.smashingmagazine.com/2024/05/forensics-react-server-components/)
+- [about React](https://smashingmagazine.com/category/react)
+- [The Forensics Of React Server Components (RSCs)](https://smashingmagazine.com/2024/05/forensics-react-server-components/)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/forensics-react-server-components.md) -->
 
 ---
 
@@ -127,7 +128,7 @@ head:
 
 ---
 
-## Notion
+## <FontIcon icon="iconfont icon-notion"/>Notion
 
 - [React Native 2020](https://www.notion.so/React-Native-2020-444084ec7aa44a509df33f8a3ae2edb3)
 
@@ -195,7 +196,7 @@ head:
 
 ## Flavio Copes
 
-- [about React](https://flaviocopes.com/tags/react)
+- [Posts tagged "react"](https://flaviocopes.com/tags/react)
 
 ---
 
@@ -241,7 +242,7 @@ head:
 
 ---
 
-## Microsoft
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
 
@@ -726,4 +727,13 @@ https://o-yeon.tistory.com/227
 
 ---
 
+## Nuxt.js
+
+<!-- TODO: add icon -->
+
+- [Nuxt Static Improvements](https://nuxtjs.org/announcements/nuxt-static-improvements)
+
+---
+
 <TagLinks />
+

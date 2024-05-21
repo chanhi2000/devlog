@@ -12,10 +12,11 @@ tag:
   - yozm.wishket.com
   - meetup.nhncloud.com
   - d2.naver.com
+  - blog.gangnamunni.com
   - kt.academy
   - engineering.linecorp.com
   - java
-  - jdk8
+  - kotlin
 head:
   - - meta:
     - property: og:title
@@ -54,6 +55,13 @@ head:
   url="https://d2.naver.com"
   logo="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/sitebanner.png"/>
+
+<SiteInfo
+  name="강남언니 공식 블로그"
+  desc="강남언니의 조직문화와 일하는 방식을 이야기합니다."
+  url="https://blog.gangnamunni.com/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
 ```component VPCard
 {
@@ -157,11 +165,47 @@ head:
 
 ```component VPCard
 {
+  "title": "Java Garbage Collection | NAVER D2",
+  "desc": "Java Garbage Collection",
+  "link": "/explore/articles/d2.naver.com/1329.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "HDFS 쓰기 파이프라인을 활용한 HBase의 WAL 쓰기 최적화 | NAVER D2",
   "desc": "HDFS 쓰기 파이프라인을 활용한 HBase의 WAL 쓰기 최적화",
   "link": "/explore/articles/d2.naver.com/6445508.md",
   "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
+}
+```
+
+---
+
+## 강남언니 공식 블로그
+
+> blog.gangnamunni.com
+
+```component VPCard
+{
+  "title": "Coroutine Basic",
+  "desc": "Coroutine 기초 내용",
+  "link": "/explore/articles/blog.gangnamunni.com/coroutine-basic.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "날 닮은 너를, 부족한 너를.",
+  "desc": "Arrays.arrayList 는 ArrayList 와 다르다",
+  "link": "/explore/articles/blog.gangnamunni.com/arrays-arraylist-arraylist.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
 }
 ```
 

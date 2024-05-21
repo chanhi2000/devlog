@@ -204,4 +204,16 @@ head:
 
 ---
 
+## 브랜디 랩스(Brandi Labs)
+
+- [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](https://labs.brandi.co.kr/2020/06/09/leejp.html)
+
+---
+
+## 뉴딜의 서랍장
+
+- [AWS Graviton (그래비톤)은 정말 더 빠르고, 더 성능이 좋고, 더 쌀까 ?](https://newdeal123.tistory.com/113)
+
+---
+
 <TagLinks />

@@ -247,4 +247,16 @@ tag:
 
 ---
 
+## Daniel P. Gross
+
+- [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
+
+---
+
+## IT Notes
+
+- [Installing Alpine Linux on a FreeBSD Jail](https://it-notes.dragas.net/2024/01/18/installing-alpine-linux-on-a-freebsd-jail/)
+
+---
+
 <TagLinks />

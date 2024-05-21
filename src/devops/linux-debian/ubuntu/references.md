@@ -35,4 +35,10 @@ tag:
 
 ---
 
+## 꿈잡이 소굴
+
+- [리눅스 컨버팅 오류 : `convert-im6.q16: not authorized `filename.pdf' @ error/constitute.c/ReadImage/412`](https://bedreams.tistory.com/97)
+
+---
+
 <TagLinks />

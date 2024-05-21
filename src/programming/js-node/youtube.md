@@ -197,8 +197,6 @@ head:
 <MyYouTubeItems jsonName="yu-harkirat1" /><!-- Harkirat Singh -->
 <MyYouTubeItems jsonName="yu-codewithguillaume" /><!-- CodewithGuillaume -->
 <MyYouTubeItems jsonName="yu-JakePomperada" /><!-- Jake Pomperada -->
-<MyYouTubeItems jsonName="yu-webprodigies" /><!-- Web Prodigies -->
-<MyYouTubeItems jsonName="yu-codewithlari" /><!-- code with lari -->
 <MyYouTubeItems jsonName="yu-testerstalk" /><!-- Testers Talk -->
 <MyYouTubeItems jsonName="yu-with-neighbors" />    <!-- 이웃팔촌 -->
 <MyYouTubeItems jsonName="yu-codegeek9098" /><!-- Code Geek -->

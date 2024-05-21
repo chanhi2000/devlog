@@ -18,6 +18,14 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### <FontIcon icon="fa-brands fa-android"/>Android Developers
+
+- [Migrate from SQLite to Room](https://developer.android.com/training/data-storage/room/sqlite-room-migration?hl=en)
+
+---
+
 ## Winlator
 
 - [Welcome to the official Winlator website](https://winlator.org/index.php)
@@ -189,8 +197,13 @@ tag:
 
 - [자바스터디](http://blog.naver.com/koreannick/220587772504)
 - [ProgrammingNote](http://hg-note.tistory.com/)
-- [elecsTistory](http://elecs.tistory.com/category/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 - [박상권Tistory](http://gun0912.tistory.com/category/IT/Android-TIP%20%28English%29)
+
+---
+
+## 늦깍이 공대생의 좌충우돌 이야기
+
+- ['안드로이드' 카테고리의 글 목](http://elecs.tistory.com/category/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
 ---
 
@@ -313,6 +326,10 @@ tag:
 - [상속! 악마의 속삭임, 그 속에 숨겨진 문제점, Kotlin에서는 Delegation을 활용해 보자.](https://thdev.tech/kotlin/2020/12/01/kotlin_effective_13)
 - [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15)
 
+### Slide
+
+- [아마도 Effective 한 Kotlin](https://speakerdeck.com/taehwandev/amado-effective-han-kotlin)
+
 ---
 
 ## Touchlab
@@ -394,6 +411,18 @@ tag:
 ## 조세영의 Kotlin World
 
 - [[Android] WebView와 브릿지를 사용해 통신하는 방법 한 번에 정리하기](https://kotlinworld.com/364)
+
+---
+
+## 혀가 길지 않은 개발자
+
+- [\[Kotlin\] SQLite  +  Singleton Pattern](https://jwsoft91.tistory.com/78)
+
+---
+
+## Akexorcist - Sleeping For Less
+
+- [DEX with Over 65K Methods problem and how to use MultiDex in Android](https://akexorcist.dev/dex-with-over-65k-and-multidex-on-android-en)
 
 ---
 

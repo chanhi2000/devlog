@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "amosnimos",
+    "name": "Amosnimos",
+    "profile": "https://yt3.googleusercontent.com/KZWoo1Hbp2Rn2YNG9XtQNi3kbbxmh2gu_8nluTTdW1J4OWcrEODZk7aRl2SVC2E7EfIWZP__V40=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/C5sdyy9Rf_tADoc_KkxhjXveGd6TuBtG5nNxCn7j8Uj4MS7ZNm2AEgCo_4VXQauur0XqfmTHNw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AAlKgHlMG64", "title": "The chat play for me? let's play together with the live chat!" },
+    { "id": "5VzGTNE1qg0", "title": "The chat play for me? let's play together with the live chat! (part-2)" },
+    { "id": "uvyMscbS9Uc", "title": "I Struggle to Extract a Simple Value from a Webpage ft. @elatronion" },
+    { "id": "jhEi1no9Vg4", "title": "Testing stuff - Behind the scene making of my live chat control system (for interactive chat)" },
+    { "id": "wlyT4kQnFbs", "title": "You Play The Game! Let's Play Together with Live Chat Interaction! (part-3)" },
+    { "id": "uICUwhoyCjQ", "title": "I need a name for this series" },
+    { "id": "foC9rzKz0wo", "title": "Transforming My Book into a Retro Text-Based TTRPG (From Page to Play)" },
+    { "id": "g0M9nmKO9os", "title": "Breaking the Media Matrix: Using the Matrix Protocol" },
+    { "id": "56u9CClTyAw", "title": "Revolutionizing Bash: Meet Huston, Your Echo Command Upgrade" },
+    { "id": "IR0UeBxpsFo", "title": "Doing cool stuff on the computer!" }
+  ],
+  "playlists": [
+
+  ]
+}

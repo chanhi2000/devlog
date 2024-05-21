@@ -16,10 +16,11 @@ tag:
   - droidcon.com
   - kt.academy
   - meetup.nhncloud.com
+  - blog.gangnamunni.com
   - blog.banksalad.com
   - java
   - jdk
-  - jdk8
+  - android
 head:
   - - meta:
     - property: og:title
@@ -81,6 +82,13 @@ head:
   "background": "rgba(76,156,227,0.2)"
 }
 ```
+
+<SiteInfo
+  name="강남언니 공식 블로그"
+  desc="강남언니의 조직문화와 일하는 방식을 이야기합니다."
+  url="https://blog.gangnamunni.com/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
 ```component VPCard
 {
@@ -171,6 +179,32 @@ head:
   "link": "/explore/articles/meetup.nhncloud.com/371.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+---
+
+## 강남언니 공식 블로그
+
+> blog.gangnamunni.com
+
+```component VPCard
+{
+  "title": "Privacy Changes in Android Q#1",
+  "desc": "백그라운드 앱에 대한 새로운 제한사항",
+  "link": "/explore/articles/blog.gangnamunni.com/privacy-changes-in-android-q-1.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Privacy Changes in Android Q#2",
+  "desc": "안드로이드 기기 고유 식별자 제한",
+  "link": "/explore/articles/blog.gangnamunni.com/privacy-changes-in-android-q-2.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
 }
 ```
 

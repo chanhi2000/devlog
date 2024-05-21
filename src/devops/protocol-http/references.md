@@ -39,4 +39,10 @@ tag:
 
 ---
 
+## 기억보단 기록을
+
+- [HTTP API 디자인 - URI편](https://jojoldu.tistory.com/783)
+
+---
+
 <TagLinks />

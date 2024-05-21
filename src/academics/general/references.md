@@ -318,6 +318,7 @@ tag:
 - [비디오 운동 분석 (Motion Shot) – 베타 버전](https://javalab.org/motion_shot/)
 - [같은 회로](https://javalab.org/same_circuit/)
 - [자유 낙하 실험](https://javalab.org/free_falling/)
+- [광학 실험 시뮬레이터](https://javalab.org/optics/)
 
 ---
 
@@ -429,6 +430,25 @@ tag:
 ## Ryan Marcus · UPenn
 
 - [Overflow in consistent hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
+
+---
+
+## Nathan Rooy
+
+- [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender)
+
+---
+
+## 안수빈의 블로그
+
+- [[연구자로 성장하기] Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기)](https://subinium.github.io/kep-vcc2020-review)
+
+---
+
+## 오늘도 개발로그
+
+- [[백준 17404번] RGB거리 2](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17404%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC-2)
+- [[백준 10021번] Watering the Fields](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-10021%EB%B2%88-watering-the-fields)
 
 ---
 

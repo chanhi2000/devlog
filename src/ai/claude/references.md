@@ -18,6 +18,10 @@ tag:
 
 ---
 
+## Transformer Circuits Thread
+
+- [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
+
 ---
 
 <TagLinks />

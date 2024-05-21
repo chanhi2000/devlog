@@ -12,8 +12,6 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-
-
 <ShieldsGroup logos="github,youtube,google"/>
 
 ## Table of Contents
@@ -21,7 +19,6 @@ tag:
 - [Watch Later](watch-later.md)
 - [Watch Later (Tutorial)](watch-later-tutorial.md)
 - [Watch Later Keynote](watch-later-keynote.md)
-- [Education (Computer Science)](edu-compsci.md)
 - [<FontIcon icon="iconfont icon-shell"/>Shell > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/sh/youtube.md)
 - [<FontIcon icon="fas fa-hat-wizard"/>Powershell > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/pwsh/youtube.md)
 - [<FontIcon icon="fas fa-pen-nib"/>Vim > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/vim/youtube.md)
@@ -43,9 +40,9 @@ tag:
 - [<FontIcon icon="fa-brands fa-php"/>PHP > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/php/youtube.md)
 - [<FontIcon icon="fas fa-gem"/>Ruby > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/ruby/youtube.md)
 - [<FontIcon icon="fas fa-droplet"/>Elixir > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/elixir/youtube.md)
-- [Haskell > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/haskell/youtube.md)
+- [<FontIcon icon="iconfont icon-haskell"/>Haskell > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/haskell/youtube.md)
 - [<FontIcon icon="iconfont icon-c"/>C > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/c/youtube.md)
-- [<FontIcon icon="fas fa-dice-two"/>Cpp > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/cpp/youtube.md)
+- [<FontIcon icon="iconfont icon-cpp"/>C++ > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/cpp/youtube.md)
 
 ---
 

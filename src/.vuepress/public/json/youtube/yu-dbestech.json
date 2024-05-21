@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/odeiQRIFsqqxe1ra3bTiAUxexuHzM4DJ7rHt-T8BOhVvMqDwtGUskvGy8OMNYxl1Cc5fsDPAB-c=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eDqM0OYJF5Q", "title": "Flutter BLoC Video Audio Call Chat App" },
+    { "id": "MjZuP3FU6SQ", "title": "Flutter Parallax Effect on Chrome | MacOS | Android | iOS" },
+    { "id": "Y-PscNIZh0c", "title": "Flutter Clean Architecture Riverpod | Dart | Nodejs Rest API | Project Based | Part 1" },
+    { "id": "MF94f5C1bJo", "title": "Dart Map & List Explain in Detail" },
+    { "id": "I4dehzIAAH0", "title": "Flutter Rainbow Animation | Code Given" },
+    { "id": "LpmsipEw-jQ", "title": "Setting up the development environment the correct way in Flutter" },
+    { "id": "W2C01O7dF_A", "title": "Getting Device Info | 2 Ways" },
+    { "id": "k8ol0F4bDKs", "title": "Best dart backend for Flutter" },
+    { "id": "4NJG2uFTCBg", "title": "Multivendor food app part 5" },
+    { "id": "M37BnUw83BM", "title": "React native restaurant app" },
+    { "id": "5ct61S5V5Vg", "title": "flutter bloc or cubit which one to use" },
     { "id": "K6p2NY5Q5wI", "title": "Dart Flutter  Abstract Class and Constructor [ Core concept ]" },
     { "id": "sQsE_2HS6vg", "title": "Solved cocoapods's specs repository is too out-of-date to satisfy dependencies" },
     { "id": "se4-JnRL_CU", "title": "How to Define Flutter Row and Column widgets with UX layout" },

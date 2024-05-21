@@ -340,6 +340,7 @@ tag:
 - [소스코드 생성 전용 - CodeGemma 시작하기](https://tykimos.github.io/2024/04/10/getting_started_with_codegemma/)
 - [구글폼, 깃허브 액션 그리고 랭체인으로 AI 인플루언서 블로그 작성 간소화](https://tykimos.github.io/2024/04/13/simplifying_virtual_influencer_blog_creation_with_google_forms,_github_actions,_and_langchain/)
 - [개발자 부럽지 않은 챗GPT 프롬프트 엔지니어링 구글시트 기반으로 관리 시작하기](https://tykimos.github.io/2024/04/20/start_prompt_engineering_management_based_on_google_sheets_that_developers_will_envy/)
+- [AI 인플루언서 타이리와 함께하는 프레스터 존 전시 탐방기](https://tykimos.github.io/2024/05/21/exploring_the_prester_john_exhibition_with_ai_influencer_tyri/)
 
 ---
 
@@ -354,6 +355,7 @@ tag:
 - [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (1)](https://vurias0203.tistory.com/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-1)
 - [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (2)](https://vurias0203.tistory.com/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-2)
 - [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (3)](https://vurias0203.tistory.com/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-3)
+- [GPT4o로 외국어 버전 앱 만들기 1탄 - 광고에 대한 이해](https://vurias0203.tistory.com/entry/GPT4o%EB%A1%9C-%EC%99%B8%EA%B5%AD%EC%96%B4-%EB%B2%84%EC%A0%84-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%83%84-%EA%B4%91%EA%B3%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
 
 ---
 

@@ -248,6 +248,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "We’ve Got Container Queries Now, But Are We Actually Using Them?",
+  "desc": "CSS developers got the ultimate dream: container queries. But now that they are here, are we actually reaching for them as much as we thought we would?",
+  "link": "/explore/articles/frontendmasters.com/weve-got-container-queries-now-but-are-we-actually-using-them.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
 ---
 
 ## Piccalilli - level up your front-end development skills

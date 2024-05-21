@@ -2838,5 +2838,10 @@
     "desc": "CMake integration in Visual Studio Code",
     "officialSite": "https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools",
     "topics": ["cmake", "visual-studio-code"]
+  }, {
+    "repo": "Openpanel-dev/openpanel",
+    "desc": "All the goodies from both Mixpanel and Plausible combined into one tool.",
+    "officialSite": "https://openpanel.dev",
+    "topics": ["analytics"]
   }
 ]

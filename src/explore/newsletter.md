@@ -74,6 +74,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "개발자스럽다",
+  "desc": "블로그와 SNS에서 주기적으로 기술 정보를 찾고 분류하여 가치를 더해 공유합니다.",
+  "link": "https://blog.gaerae.com",
+  "logo": "https://blog.gaerae.com/favicon.ico",
+  "background": "rgba(75,75,75,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "어썸블로그",
   "desc": "국내의 좋은 블로그 글들을 매일 배달해줍니다.",
   "link": "https://awesome-blogs.petabytes.org/feeds?group=dev",
@@ -99,56 +109,6 @@ tag:
   "link": "https://jhrogue.blogspot.com/search/label/B%EA%B8%89%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8",
   "logo": "https://jhrogue.blogspot.com/favicon.ico",
   "background": "rgba(82.151.183,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Dev Event - 개발자 행사는 모두 데브이벤트 웹에서!",
-  "desc": "데브이벤트 웹에서 개발자 행사를 놓치지 마세요! 개발자를 위한 {웨비나, 컨퍼런스, 해커톤, 네트워킹} 소식을 알려드립니다.",
-  "link": "https://dev-event.vercel.app/events",
-  "logo": "https://raw.githubusercontent.com/brave-people/Dev-Event-Web-Deploy/main/public/favicon.ico",
-  "background": "rgba(0,32,52,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Festa! 모임과 이벤트를 주최하는 가장 쉬운 방법",
-  "desc": "Festa에서 이벤트를 주최하고 당신이 찾는 이벤트를 만나보세요.",
-  "link": "https://festa.io/",
-  "logo": "https://festa.io/public/ny/favicon/favicon.ico",
-  "background": "rgba(52,58,64,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "제10회 대한민국 SW융합 해커톤 대회",
-  "desc": "미래 창업 꾸나무들이 SW융합 발전을 위해 펼치는 무박 3일의 여정, 제9회 SW융합 해커톤 대회",
-  "link": "http://www.swhackathon.kr/ko/index.html",
-  "logo": "http://www.swhackathon.kr/favicon.ico",
-  "background": "rgba(0,1,32,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "이벤터스 :: 행사와 함께하는 모든 순간",
-  "desc": "내가 원하는 행사를 개최하거나, 참여할 수 있는 플랫폼 - 이벤터스",
-  "link": "https://event-us.kr/search/calendar",
-  "logo": "https://event-us.kr/favicon.ico",
-  "background": "rgba(93,63,191,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "공모전 대외활동 올콘",
-  "desc": "일반인 대학생 청소년 공모전 대외활동 서포터즈 마케터 홍보대사 모집 정보를 전해드립니다. 공모전 대외활동 소식은 올콘 ALLCON 에서",
-  "link": "https://www.all-con.co.kr/",
-  "logo": "https://www.all-con.co.kr/favicon.ico",
-  "background": "rgba(250,140,50,0.2)"
 }
 ```
 
@@ -194,6 +154,112 @@ tag:
 
 ```component VPCard
 {
+  "title": "44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스",
+  "desc": "44BITS는 IT 뉴스, 프로그래밍, 클라우드, 컨테이너, 리눅스 등을 주로 다루는 기술 블로그입니다.",
+  "link": "https://www.44bits.io/ko",
+  "logo": "https://d2uleea4buiacg.cloudfront.net/assets/favicon.png",
+  "background": "rgba(74,80,86,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "AI News - TILNOTE",
+  "desc": "GPT-4가 큐레이션한 AI에 대한 뉴스입니다. 구독하시면 매일 아침 8시 뉴스를 받아보실 수 있습니다.",
+  "link": "https://tilnote.io/news",
+  "logo": "https://tilnote.io/favicon-32x32.png",
+  "background": "rgba(38,62,154,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Next AI News",
+  "desc": "A full-stack replica of HN using Next.js and AI generated content. (rauchg/next-ai-news)",
+  "link": "https://next-ai-news.vercel.app",
+  "logo": "https://next-ai-news.vercel.app/favicon.ico",
+  "background": "rgba(255, 153, 102, 0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "DataTau",
+  "desc": "Hacker News Clone - Data Science Newsboard",
+  "link": "https://datatau.net",
+  "logo": "https://datatau.net/static/img/datatau.png",
+  "background": "rgba(0,180,180,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ZSync",
+  "desc": "zsync - high quality discussion",
+  "link": "https://zsync.xyz",
+  "logo": "https://zsync.xyz/favicon.webp",
+  "background": "rgba(46,49,84,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "머니플뉴스",
+  "desc": "AI가 대신 읽어주는 뉴스",
+  "link": "https://newsgpt.web.app",
+  "logo": "https://newsgpt.web.app/logo192.png",
+  "background": "rgba(46, 46, 46, 0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ByteByteGo",
+  "desc": "ByteByteGo Newsletter",
+  "link": "https://blog.bytebytego.com",
+  "logo": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
+  "background": "rgba(140, 234, 216, 0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "A List Apart", 
+  "desc": "For people who make websites", 
+  "link": "https://alistapart.com", 
+  "logo": "https://149572954.v2.pressablecdn.com/wp-content/themes/ala/assets/img/icon_navigation-laurel.svg", 
+  "background": "rgba(255, 255, 255, 0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "FONT CLUB",
+  "desc": "뉴스 / 트렌드",
+  "link": "http://www.fontclub.co.kr/?cat=1",
+  "logo": "http://www.fontclub.co.kr/wp-content/uploads/2018/02/favicon.ico",
+  "background": "rgba(93,203,200,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Model & API Providers Analysis | Artificial Analysis",
+  "desc": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key metrics including quality, price, performance and speed (throughput & latency).",
+  "link": "https://artificialanalysis.ai/",
+  "logo": "https://artificialanalysis.ai/favicon.ico",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+https://gracefullight.dev/archive/
+
+<!-- @end News -->
+
+@tab Tech Blog
+
+```component VPCard
+{
   "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
   "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
   "link": "https://freecodecamp.org/news/",
@@ -214,6 +280,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Smashing Magazine — For Web Designers And Developers",
+  "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
+  "link": "https://smashingmagazine.com/",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Kt. Academy",
   "desc": "Teaching programming, with focus on the best practices.",
   "link": "https://kt.academy/article",
@@ -229,6 +305,16 @@ tag:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Popit | 전문 지식 공유를 위한 팀블로그",
+  "desc": "전문 지식 공유를 위한 팀블로그",
+  "link": "https://www.popit.kr/",
+  "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
+  "background": "rgba(0,21,41,0.2)"
 }
 ```
 
@@ -338,6 +424,33 @@ tag:
 
 ```component VPCard
 {
+  "title": "Home | Meta Open Source",
+  "desc": "The landing page of the official Meta Open Source website.",
+  "link": "https://opensource.fb.com/",
+  "logo": "https://opensource.fb.com/img/favicon.png",
+  "background": "rgba(70,90,105,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Slack Engineering -",
+  "desc": "...",
+  "link": "https://slack.engineering/",
+  "logo": "https://slack.engineering/wp-content/uploads/sites/7/2020/05/cropped-octothrope-1.png?w=32",
+  "background": "rgba(18,100,163,0.2)"
+}
+```
+
+<SiteInfo
+  name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
+  desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
+  url="https://blog.logrocket.com/"
+  logo="https://blog.logrocket.com/wp-content/uploads/2019/06/cropped-cropped-favicon-196x196.png?w=180"
+  preview="https://blog.logrocket.com/wp-content/themes/logrocket/assets/blog-header.png"/>
+
+```component VPCard
+{
   "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
   "desc": "Everyday Engineering Challenges",
   "link": "https://blog.ideaharbour.site/engineering/",
@@ -345,6 +458,13 @@ tag:
   "background": "rgba(27,132,21,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Coursera Engineering – Medium"
+  desc="We're changing the way the world learns! Posts from Coursera engineers and data scientists."
+  url="https://medium.com/coursera-engineering"
+  logo="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
+  preview="https://cdn-images-1.medium.com/v2/resize:fit:2400/1*SUNVx-fZ3AwO13vvCEPqsQ.jpeg"/>
 
 ```component VPCard
 {
@@ -358,113 +478,25 @@ tag:
 
 ```component VPCard
 {
-  "title": "44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스",
-  "desc": "44BITS는 IT 뉴스, 프로그래밍, 클라우드, 컨테이너, 리눅스 등을 주로 다루는 기술 블로그입니다.",
-  "link": "https://www.44bits.io/ko",
-  "logo": "https://d2uleea4buiacg.cloudfront.net/assets/favicon.png",
-  "background": "rgba(74,80,86,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "🦊인포그랩",
   "desc": "GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공",
   "link": "https://insight.infograb.net/blog",
   "logo": "https://insight.infograb.net/img/logo-color.svg",
-  "background": "rgba(23, 149, 106, 0.2)"
+  "background": "rgba(23,149,106,0.2)"
 }
 ```
 
 ```component VPCard
 {
-  "title": "AI News - TILNOTE",
-  "desc": "GPT-4가 큐레이션한 AI에 대한 뉴스입니다. 구독하시면 매일 아침 8시 뉴스를 받아보실 수 있습니다.",
-  "link": "https://tilnote.io/news",
-  "logo": "https://tilnote.io/favicon-32x32.png",
-  "background": "rgba(38,62,154,0.2)"
+  "title": "IMQA 기술 블로그",
+  "desc": "프론트엔드 성능 모니터링 솔루션 IMQA를 운영하고 있는 IMQA의 기술 블로그입니다.",
+  "link": "https://blog.imqa.io/",
+  "logo": "https://blog.imqa.io/favicon.png",
+  "background": "rgba(86,66,204,0.2)"
 }
 ```
 
-```component VPCard
-{
-  "title": "Next AI News",
-  "desc": "A full-stack replica of HN using Next.js and AI generated content. (rauchg/next-ai-news)",
-  "link": "https://next-ai-news.vercel.app",
-  "logo": "https://next-ai-news.vercel.app/favicon.ico",
-  "background": "rgba(255, 153, 102, 0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "DataTau",
-  "desc": "Hacker News Clone - Data Science Newsboard",
-  "link": "https://datatau.net",
-  "logo": "https://datatau.net/static/img/datatau.png",
-  "background": "rgba(0,180,180,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "ZSync",
-  "desc": "zsync - high quality discussion",
-  "link": "https://zsync.xyz",
-  "logo": "https://zsync.xyz/favicon.webp",
-  "background": "rgba(46,49,84,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "머니플뉴스",
-  "desc": "AI가 대신 읽어주는 뉴스",
-  "link": "https://newsgpt.web.app",
-  "logo": "https://newsgpt.web.app/logo192.png",
-  "background": "rgba(46, 46, 46, 0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "ByteByteGo",
-  "desc": "ByteByteGo Newsletter",
-  "link": "https://blog.bytebytego.com",
-  "logo": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5609ae-1239-4400-9491-6010a15c4d60_504x504.png",
-  "background": "rgba(140, 234, 216, 0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "A List Apart", 
-  "desc": "For people who make websites", 
-  "link": "https://alistapart.com", 
-  "logo": "https://149572954.v2.pressablecdn.com/wp-content/themes/ala/assets/img/icon_navigation-laurel.svg", 
-  "background": "rgba(255, 255, 255, 0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "FONT CLUB",
-  "desc": "뉴스 / 트렌드",
-  "link": "http://www.fontclub.co.kr/?cat=1",
-  "logo": "http://www.fontclub.co.kr/wp-content/uploads/2018/02/favicon.ico",
-  "background": "rgba(93,203,200,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Model & API Providers Analysis | Artificial Analysis",
-  "desc": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key metrics including quality, price, performance and speed (throughput & latency).",
-  "link": "https://artificialanalysis.ai/",
-  "logo": "https://artificialanalysis.ai/favicon.ico",
-  "background": "rgba(10,10,10,0.2)"
-}
-```
+<!-- @end Tech Blog -->
 
 @tab App(s)
 
@@ -568,6 +600,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "서버포럼 - IT, Server, Nas, Linux, ETC..",
+  "desc": "서버포럼은 개인 홈서버 구축, NAS, 헤놀로지, IT 정보, 기타 많은갤러리 등 정보 공유 커뮤니티입니다",
+  "link": "https://svrforum.com",
+  "logo": "https://svrforum.com/files/attach/xeicon/217/favicon.ico?t=1609060434",
+  "background": "rgba(2,151,157,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Qt 개발자 커뮤니티",
   "desc": "Qt Korea Developer Community",
   "link": "https://qt-dev.com",
@@ -593,6 +635,58 @@ tag:
   "link": "https://infosec.exchange/explore",
   "logo": "https://assets.infosec.exchange/packs/media/images/logo-symbol-icon-035f79c35ed096e2d5bffab156e3a706.svg",
   "background": "rgb(140,141,255,0.2)"
+}
+```
+
+@tab Hackerthon
+
+```component VPCard
+{
+  "title": "Dev Event - 개발자 행사는 모두 데브이벤트 웹에서!",
+  "desc": "데브이벤트 웹에서 개발자 행사를 놓치지 마세요! 개발자를 위한 {웨비나, 컨퍼런스, 해커톤, 네트워킹} 소식을 알려드립니다.",
+  "link": "https://dev-event.vercel.app/events",
+  "logo": "https://raw.githubusercontent.com/brave-people/Dev-Event-Web-Deploy/main/public/favicon.ico",
+  "background": "rgba(0,32,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Festa! 모임과 이벤트를 주최하는 가장 쉬운 방법",
+  "desc": "Festa에서 이벤트를 주최하고 당신이 찾는 이벤트를 만나보세요.",
+  "link": "https://festa.io/",
+  "logo": "https://festa.io/public/ny/favicon/favicon.ico",
+  "background": "rgba(52,58,64,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "제10회 대한민국 SW융합 해커톤 대회",
+  "desc": "미래 창업 꾸나무들이 SW융합 발전을 위해 펼치는 무박 3일의 여정, 제9회 SW융합 해커톤 대회",
+  "link": "http://www.swhackathon.kr/ko/index.html",
+  "logo": "http://www.swhackathon.kr/favicon.ico",
+  "background": "rgba(0,1,32,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "이벤터스 :: 행사와 함께하는 모든 순간",
+  "desc": "내가 원하는 행사를 개최하거나, 참여할 수 있는 플랫폼 - 이벤터스",
+  "link": "https://event-us.kr/search/calendar",
+  "logo": "https://event-us.kr/favicon.ico",
+  "background": "rgba(93,63,191,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "공모전 대외활동 올콘",
+  "desc": "일반인 대학생 청소년 공모전 대외활동 서포터즈 마케터 홍보대사 모집 정보를 전해드립니다. 공모전 대외활동 소식은 올콘 ALLCON 에서",
+  "link": "https://www.all-con.co.kr/",
+  "logo": "https://www.all-con.co.kr/favicon.ico",
+  "background": "rgba(250,140,50,0.2)"
 }
 ```
 

@@ -628,4 +628,16 @@ tag:
 
 ---
 
+## Olá | Luis Ramos
+
+- [Marrying KMM and Swift with Sourcery](https://luisramos.dev/marrying-kmm-and-swift-with-sourcery)
+
+---
+
+## QuickBird Studios - Mobile App Development Agency
+
+- [Supporting Both CocoaPods & The Swift Package Manager](https://quickbirdstudios.com/blog/swift-package-manager-cocoapods-support)
+
+---
+
 <TagLinks />

@@ -8,11 +8,9 @@ category:
   - References
 tag: 
   - java
-  - baeldung
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 
@@ -122,7 +120,7 @@ tag:
 ### Douglas Schmidt
 
 - [CS *254: Concurrent Object-Oriented Programming in Java and Android](http://www.dre.vanderbilt.edu/~schmidt/cs891s/)
- 
+
 ### Java Code Geeks
 
 - [Introducing Kubernetes Alternatives to Spring Java Framework](https://www.javacodegeeks.com/2023/05/introducing-kubernetes-alternatives-to-spring-java-framework.html)
@@ -345,6 +343,18 @@ tag:
 ### Jiny
 
 - [JVM](https://jeongjin984.github.io/posts/JVM/)
+
+### SlideShare
+
+- [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
+
+### 💾 Knowledge Repository
+
+- [JUnit5 - JUnit 환경 세팅과 첫 번째 테스트 케이스 작성](https://atoz-develop.tistory.com/entry/JUnit5-JUnit-%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%EA%B3%BC-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%9E%91%EC%84%B1)
+- [[JAVA] `Arrays.asList()`와 `List.of()`의 차이](https://atoz-develop.tistory.com/entry/JAVA-ArraysasList%EC%99%80-Listof%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+- [[JAVA] Class 클래스를 이용해 메소드와 생성자 얻기](https://atoz-develop.tistory.com/entry/JAVA-Class-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%99%80-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%96%BB%EA%B8%B0)
+- [JAVA 개발자가 알아야할 String 클래스 - 1편](https://atoz-develop.tistory.com/entry/JAVA-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-String-%ED%81%B4%EB%9E%98%EC%8A%A4-1%ED%8E%B8)
+- [JAVA 개발자가 알아야할 String 클래스 - 2편](https://atoz-develop.tistory.com/entry/JAVA-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-String-%ED%81%B4%EB%9E%98%EC%8A%A4-2%ED%8E%B8)
 
 ---
 

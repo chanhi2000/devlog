@@ -70,6 +70,7 @@ tag:
 - [`@laetipark` - 프로그래머스/Javascript : 기초 문제 21일차](https://blex.me/@laetipark/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4javascript-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EC%A0%9C-21%EC%9D%BC%EC%B0%A8)
 - [`@laetipark` / Javascript : `var`, `let`, `const`, 스코프](https://blex.me/@laetipark/javascript-var-let-const-%EC%8A%A4%EC%BD%94%ED%94%84)
 - [`@laetipark` / Javascript : 프로토타입과 `this`, `call`, `apply`, `bind`](https://blex.me/@laetipark/javascript-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EA%B3%BC-this-call-apply-bind)
+- [`@laetipark` / Typescript : 타입스크립트 언어의 특징과 장단점](https://blex.me/@laetipark/typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
 ---
 
@@ -78,6 +79,7 @@ tag:
 - [`nmc-techblog` / Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
 - [`bitsrc` / Frontend Application Security: Tips and Tricks](https://blog.bitsrc.io/frontend-application-security-tips-practices-f9be12169e66)
 - [`jeongwoo` / 모던자바스크립트 스터디 3장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9E%A5-1174b71cdb3d)
+- [`lokesh-prajapati` / JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
 
 ---
 
@@ -192,6 +194,12 @@ tag:
 ## Amy Goodchild
 
 - [CODING MY HANDWRITING](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+
+---
+
+## CSS Tricks
+
+- [How to Fetch and Parse RSS Feeds in JavaScript](https://css-tricks.com/how-to-fetch-and-parse-rss-feeds-in-javascript)
 
 ---
 

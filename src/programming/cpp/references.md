@@ -98,6 +98,7 @@ tag:
 - [[EasyWin32] FillPieDCP 함수에 대하여](https://blog.naver.com/tipsware/223449026943)
 - [[EasyWin32/Q&amp;A] "FillPieDCP 함수 실습 코드 - Step 1" 자료에서 궁금한 점이 있습니다.](https://blog.naver.com/tipsware/223449193878)
 - [주어진 단어로 정해진 영어 문장 맞추기 - Step 4](https://blog.naver.com/tipsware/223451759752)
+- [[답안] FillPieDCP 함수 실습 과제 - Step 1](https://blog.naver.com/tipsware/223451125327)
 
 ---
 
@@ -163,7 +164,6 @@ tag:
 
 - [[백준 1039번] 교환](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1039%EB%B2%88-%EA%B5%90%ED%99%98)
 - [[백준 1022번] 소용돌이 예쁘게 출력하기](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1022%EB%B2%88-%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4-%EC%98%88%EC%81%98%EA%B2%8C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
-- [[백준 17404번] RGB거리 2](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17404%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC-2)
 
 ---
 

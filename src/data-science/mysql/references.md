@@ -37,6 +37,9 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`garimoo` / MySQL 스터디-1](https://garimoo.medium.com/mysql-%EC%8A%A4%ED%84%B0%EB%94%94-1-c082f31eb53)
+- [`garimoo` / MySQL 스터디-2](https://garimoo.medium.com/mysql-%EC%8A%A4%ED%84%B0%EB%94%94-2-b17af798d909)
+- [`garimoo` / MySQL 스터디-3](https://garimoo.medium.com/mysql-%EC%8A%A4%ED%84%B0%EB%94%94-3-f9fc673c54ae)
 - [`zendesk` / Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
 
 ---
@@ -105,7 +108,7 @@ head:
 
 ---
 
-## Popit
+## Popit | 전문 지식 공유를 위한 팀블로그
 
 - [Presto를 이용하여 Google Sheets와 mysql 등 DB 데이터 JOIN 하기](https://www.popit.kr/presto%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%97%ac-google-sheets%ec%99%80-mysql-%eb%93%b1-db-%eb%8d%b0%ec%9d%b4%ed%84%b0-join-%ed%95%98%ea%b8%b0/)
 
@@ -189,5 +192,7 @@ head:
 ## John Grib 기계인간
 
 - [MySQL에서 'a' = 'a '가 true로 평가된다?](https://johngrib.github.io/wiki/article/sql-char-comparison/)
+
+---
 
 <TagLinks />

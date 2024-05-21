@@ -89,5 +89,6 @@ tag:
 <MyYouTubeItems jsonName="yu-szLynAs" /><!-- LynAs Sazzad -->
 <MyYouTubeItems jsonName="yu-Thetips4you" /><!-- Thetips4you -->
 <MyYouTubeItems jsonName="yu-TechnoTim" /><!-- Techno T -->
+<MyYouTubeItems jsonName="yu-seoulit" /><!-- 서울IT교육센터온라인강좌TV -->
 
 <TagLinks />

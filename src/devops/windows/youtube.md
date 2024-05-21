@@ -35,6 +35,7 @@ tag:
 
 ---
 
+<MyYouTubeItems jsonName="yu-MicrosoftDeveloper" /><!-- Microsoft Developer -->
 <MyYouTubeItems jsonName="yu-MicrosoftResearch" /><!-- Microsoft Research -->
 <MyYouTubeItems jsonName="yu-ThioJoe" /><!-- ThioJoe -->
 <MyYouTubeItems jsonName="yu-NETVN82" /><!-- NETVN -->

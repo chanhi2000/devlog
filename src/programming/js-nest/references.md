@@ -41,6 +41,7 @@ tag:
 - [Nest.js - 보고서 프로젝트 CRUD](https://blog.naver.com/gi_balja/223438421755)
 - [Nest.js - 보고서 프로젝트 사용자 정보 생성](https://blog.naver.com/gi_balja/223444118870)
 - [Nest.js - 보고서 프로젝트 Facade 패턴 적용](https://blog.naver.com/gi_balja/223451594165)
+- [Nest.js - 보고서 프로젝트 응답값 설정](https://blog.naver.com/gi_balja/223453109109)
 
 ---
 

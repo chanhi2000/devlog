@@ -23,8 +23,7 @@ tag:
 ## Pdf(s)
 
 <PDF url="https://raw.githubusercontent.com/cert-orangecyberdefense/ransomware_map/8df75ee22e740fdcf8c957f1cd71b195161f52c6/OCD_WorldWatch_Ransomware-ecosystem-map.pdf"/>
-<PDF url="https://raw.githubusercontent.com/bluecapesecurity/PWF/d74b875e27c12fbd9f7a8a8abec506560127c8f6/Resources/PracticalWindowsForensics-cheat-sheet.pdf
-"/>
+<PDF url="https://raw.githubusercontent.com/bluecapesecurity/PWF/d74b875e27c12fbd9f7a8a8abec506560127c8f6/Resources/PracticalWindowsForensics-cheat-sheet.pdf"/>
 
 ---
 
@@ -241,6 +240,25 @@ tag:
 ## Firstyear's blog-a-log
 
 - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
+
+---
+
+## Vin01’s Blog
+
+- [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
+
+---
+
+## Project(s)
+
+```component VPCard
+{
+  "title": "🔐 Portable Secret",
+  "desc": "Better privacy, without special software.",
+  "link": "https://mprimi.github.io/portable-secret",
+  "background": "rgba(3,102,214,0.2)"
+}
+```
 
 ---
 

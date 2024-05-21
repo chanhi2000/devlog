@@ -18,6 +18,10 @@ export const navbarEn = navbar([
         icon: 'fas fa-compass',
         link: '/projects/lifeguide/README.md'
       }, {
+        text: 'Career',
+        icon: 'fas fa-user-tie',
+        link: '/projects/career/README.md',
+      }, {
         text: 'Travel',
         icon: 'fas fa-plane',
         link: '/projects/travel/README.md'
@@ -25,7 +29,7 @@ export const navbarEn = navbar([
         text: 'Cook',
         icon: 'fas fa-fire-burner',
         link: '/projects/cook/README.md'
-      }
+      },
     ],
   }, {
     text: '', // academics
@@ -35,6 +39,18 @@ export const navbarEn = navbar([
         text: 'Data Structure',
         icon: 'iconfont icon-class',
         link: '/academics/data-structure/README.md',
+      }, {
+        text: 'System Design',
+        icon: 'fas fa-pen-ruler',
+        link: '/academics/system-design/README.md',
+      }, {
+        text: 'Project Management',
+        icon: 'fas fa-object-group',
+        link: '/academics/pm/README.md',
+      }, {
+        text: 'Marketing',
+        icon: 'fas fa-rectangle-ad',
+        link: '/academics/marketing/README.md',
       }, {
         text: 'MATH011',
         link: '/academics/MATH011/README.md'
@@ -56,8 +72,16 @@ export const navbarEn = navbar([
         icon: 'fas fa-keyboard',
       }, {
         text: 'Shell',
-        link: '/programming/sh/README.md',
-        icon: 'iconfont icon-shell'
+        icon: 'iconfont icon-shell',
+        children: [
+          '/programming/sh/README.md',
+          '/programming/sh/awk/README.md',
+          '/programming/sh/crontab/README.md',
+          '/programming/sh/rsync/README.md',
+          '/programming/sh/ffmpeg/README.md',
+          '/programming/sh/tmux/README.md',
+          '/programming/sh/wget/README.md',
+        ]
       }, {
         text: 'Batchfile (Windows)',
         link: '/programming/batchfile/README.md',
@@ -235,6 +259,14 @@ export const navbarEn = navbar([
         link: '/programming/solidity/README.md',
         icon: 'iconfont icon-solidity',
       }, {
+        text: 'Common Lisp',
+        link: '/programming/common-lisp/README.md',
+        icon: 'iconfont icon-common-lisp',
+      }, {
+        text: 'Julia',
+        link: '/programming/julia/README.md',
+        icon: 'iconfont icon-julia',
+      }, {
         text: 'LaTeX',
         link: '/programming/latex/README.md',
         icon: 'iconfont icon-tex',
@@ -271,6 +303,7 @@ export const navbarEn = navbar([
           '/devops/linux-debian/README.md',
           '/devops/linux-debian/ubuntu/README.md',
           '/devops/linux-debian/kali-linux/README.md',
+          '/devops/linux-debian/alpine/README.md',
           '/devops/linux-debian/raspberry-pi/README.md',
         ]
       }, {
@@ -369,10 +402,6 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-appium',
         link: '/devops/appium/README.md',
       }, {
-        text: 'Nexus Repository',
-        icon: 'fas fa-kaaba',
-        link: '/devops/nexus/README.md',
-      }, {
         text: 'Selenium',
         icon: 'iconfont icon-selenium',
         link: '/devops/selenium/README.md',
@@ -380,7 +409,19 @@ export const navbarEn = navbar([
         text: 'Playwright',
         icon: 'iconfont icon-playwright',
         link: '/devops/playwright/README.md',
-      },  {
+      }, {
+        text: 'JMeter',
+        icon: 'iconfont icon-apachejmeter',
+        link: '/devops/jmeter/README.md',
+      }, {
+        text: 'Gatling',
+        icon: 'iconfont icon-gatling',
+        link: '/devops/gatling/README.md',
+      }, {
+        text: 'Nexus Repository',
+        icon: 'fas fa-kaaba',
+        link: '/devops/nexus/README.md',
+      }, {
         text: 'Tomcat',
         icon: 'iconfont icon-tomcat',
         link: '/devops/tomcat/README.md',
@@ -446,6 +487,10 @@ export const navbarEn = navbar([
         text: 'Redis',
         icon: 'iconfont icon-redis',
         link: '/data-science/redis/README.md',
+      }, {
+        text: 'RockDB',
+        icon: 'iconfont icon-rocksdb',
+        link: '/data-science/rocksdb/README.md',
       }, {
         text: 'Cockroach',
         icon: 'iconfont icon-cockroach-db',
@@ -530,7 +575,7 @@ export const navbarEn = navbar([
         link: '/tool/notion/README.md',
       }, {
         text: 'Figma',
-        icon: 'iconfont icon-figma',
+        icon: 'fa-brands fa-figma',
         link: '/tool/figma/README.md',
       }, {
         text: 'Wireshark',
@@ -592,25 +637,13 @@ export const navbarEn = navbar([
           '/explore/api/sk/README.md',
         ]
       }, {
-        text: 'System Design',
-        icon: 'fas fa-pen-ruler',
-        link: '/explore/system-design/README.md',
-      }, {
         text: 'YouTube',
         icon: 'fa-brands fa-youtube',
         link: '/explore/youtube/README.md',
       }, {
-        text: 'Devlog',
-        icon: 'fas fa-timeline',
-        link: '/explore/devlog/README.md',
-      }, {
         text: 'Article(s)',
         icon: 'fas fa-square-share-nodes',
         link: '/explore/articles/README.md',
-      }, {
-        text: 'Career',
-        icon: 'fas fa-user-tie',
-        link: '/explore/career/README.md',
       }
     ]
   }, { /* https://chanhi2000.github.io/crashcourse */

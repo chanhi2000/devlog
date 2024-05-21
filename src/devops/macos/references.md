@@ -225,13 +225,13 @@ tag:
 - [Apple Silicon Macbook에 Ubuntu ARM64 설치하는 방법 ( UTM )](http://webnautes.tistory.com/2103)
 - [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/2101)
 
-
 ---
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)
+- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md) -->
 
 ---
+
 
 <TagLinks />

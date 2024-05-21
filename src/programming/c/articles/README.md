@@ -22,10 +22,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
-
 ```component VPCard
 {
   "title": "NHN Cloud Meetup - NHN 기술 블로그",
@@ -43,9 +39,15 @@ head:
   logo="https://blog.gangnamunni.com/favicon.ico"
   preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
+[[toc]]
+
+---
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
+
+> meetup.nhncloud.com
 
 <SiteInfo
   name="Firmware Command Injection을 알아보자! | NHN Cloud Meetup"
@@ -57,6 +59,8 @@ head:
 ---
 
 ## 강남언니 공식 블로그
+
+> blog.gangnamunni.com
 
 ```component VPCard
 {

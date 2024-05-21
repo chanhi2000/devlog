@@ -62,4 +62,10 @@ tag:
 
 ---
 
+## 재그지그의 개발 블로그
+
+- [정규표현식 완전정복](https://wormwlrm.github.io/2020/07/19/Regular-Expressions-Tutorial.html)
+
+---
+
 <TagLinks />

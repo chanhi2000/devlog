@@ -599,5 +599,10 @@
     "desc": "Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step",
     "officialSite": "https://www.manning.com/books/build-a-large-language-model-from-scratch",
     "topics": ["chatgpt", "gpt", "large-language-models", "llm", "python", "pytorch"]
+  }, {
+    "repo": "AI4Finance-Foundation/FinGPT",
+    "desc": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
+    "officialSite": "https://ai4finance.org",
+    "topics": ["chatgpt", "finance", "fingpt", "fintech", "large-language-models", "machine-learning", "nlp", "prompt-engineering", "pytorch", "reinforcement-learning", "robo-advisor", "sentiment-analysis", "technical-analysis"]
   }
 ]

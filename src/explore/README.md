@@ -365,6 +365,16 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 
 ```component VPCard
 {
+  "title": "Dave Ceddia",
+  "desc": "Articles to help you learn and master frontend development with React.",
+  "link": "https://daveceddia.com/courses/",
+  "logo": "https://daveceddia.com/favicon.ico?v=2",
+  "background": "rgba(74,164,236,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Gumroad: Solomon Eseme",
   "desc": "Lead Backend Engineer | Founder of MasteringBackend.com | I help you become a great backend engineer.",
   "link": "https://solomoneseme.gumroad.com/",
@@ -474,9 +484,18 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 ```
 
 https://startyourownisp.com/
-https://www.docdroid.com/NOEBGF5/sdn-pdf
-https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-engineer
 
+```component VPCard
+{
+  "title": "서버가상화와 SDN.pdf | DocDroid",
+  "desc": "서버 가상화와 SDN (실습) V2.1. 안종석 james@jslab.kr james@jslab.kr. JS Lab.",
+  "link": "https://www.docdroid.com/NOEBGF5/sdn-pdf",
+  "logo": "https://www.docdroid.com/images/favicon.png",
+  "background": "rgba(164,0,0,0.2)"
+}
+```
+
+https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-engineer
 
 ```component VPCard
 {
@@ -487,6 +506,8 @@ https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-eng
   "background": "rgba(22,25,35,0.2)"
 }
 ```
+
+https://www.joinc.co.kr/w/Site
 
 @tab Portfolio / Cool Project
 
@@ -537,6 +558,26 @@ https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-eng
   "link": "https://www.val.town/v/maxm/staticChess",
   "logo": "https://www.val.town/favicon.svg?dot=false&dark=true",
   "background": "rgba(37,99,235,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Graph Game - By Sabrina Ramonov",
+  "desc": "🧠 The best way to test your understanding of neural networks!",
+  "link": "https://graphgame.sabrina.dev/",
+  "logo": "https://graphgame.sabrina.dev/vite.svg",
+  "background": "rgba(83,110,236,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "raylib game template",
+  "desc": "New raylib web videogame, developed using raylib videogames library",
+  "link": "https://kotsoft.github.io/",
+  "logo": "https://www.raylib.com/favicon.ico",
+  "background": "rgba(255,161,0,0.2)"
 }
 ```
 

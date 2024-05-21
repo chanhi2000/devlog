@@ -16,12 +16,13 @@ tag:
   - meetup.nhncloud.com
   - d2.naver.com
   - techblog.woowahan.com
+  - blog.gangnamunni.com
   - dev.gmarket.com
   - engineering.linecorp.com
   - zuminternet.github.io
   - java
   - jdk
-  - jdk8
+  - spring
 head:
   - - meta:
     - property: og:title
@@ -100,6 +101,13 @@ head:
   "background": "rgba(43,193,188,0.2)"
 }
 ```
+
+<SiteInfo
+  name="강남언니 공식 블로그"
+  desc="강남언니의 조직문화와 일하는 방식을 이야기합니다."
+  url="https://blog.gangnamunni.com/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
 ```component VPCard
 {
@@ -220,6 +228,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Spring-Test-MVC 프로젝트 소개 | NAVER D2",
+  "desc": "Spring-Test-MVC 프로젝트 소개",
+  "link": "/explore/articles/d2.naver.com/1341.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(17,168,89,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Virtual Thread의 기본 개념 이해하기 | NAVER D2",
   "desc": "Virtual Thread의 기본 개념 이해하기",
   "link": "/explore/articles/d2.naver.com/1203723.md",
@@ -251,6 +269,32 @@ head:
   "link": "/explore/articles/techblog.woowahan.com/17221.md",
   "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
   "background": "rgba(43,193,188,0.2)"
+}
+```
+
+---
+
+## 강남언니 공식 블로그
+
+> blog.gangnamunni.com
+
+```component VPCard
+{
+  "title": "여러개의 DB 작업을 동시에 수행하고 결과를 합쳐서 보내줘야 할 때",
+  "desc": "Spring 에서 @Async 를 이용한 동시다발적인 Hibernate DB 작업",
+  "link": "/explore/articles/blog.gangnamunni.com/spring-async-hibernate-db.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "[SaaS] 시간여행이 가능한 시스템 아키텍처",
+  "desc": "복잡한 의료 도메인에 Event Sourcing 적용 by 강남언니 블로그",
+  "link": "/explore/articles/blog.gangnamunni.com/saas-event-sourcing.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
 }
 ```
 

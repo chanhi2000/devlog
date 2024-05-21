@@ -374,5 +374,10 @@
     "desc": "An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer. Main repository and issues:",
     "officialSite": "https://eventfahrplan.eu",
     "topics": ["android", "android-app", "c3voc", "ccc", "cccamp19", "conferences", "fahrplan", "frab", "pentabarf", "schedule"]
+  }, {
+    "repo": "ZCShou/GoGoGo",
+    "desc": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
+    "officialSite": "https://itexp.blog.csdn.net/",
+    "topics": ["android", "fake-gps", "fake-locations", "java", "joystick", "map", "mock-location", "mock-locations", "mockgps", "virtual-location"]
   }
 ]

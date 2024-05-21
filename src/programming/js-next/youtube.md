@@ -37,5 +37,7 @@ head:
 <MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 코딩하는오후 -->
 <MyYouTubeItems jsonName="yu-KenuHeo" /><!-- Kenu Heo -->
 <MyYouTubeItems jsonName="yu-eddiejaoude" /><!-- Eddie Jaoude -->
+<MyYouTubeItems jsonName="yu-codewithlari" /><!-- code with lari -->
+<MyYouTubeItems jsonName="yu-webprodigies" /><!-- Web Prodigies -->
 
 <TagLinks />

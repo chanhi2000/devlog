@@ -62,9 +62,17 @@ tag:
 
 ---
 
-## banksalad
+## Popit | 전문 지식 공유를 위한 팀블로그
+
+- [Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기](https://www.popit.kr/golang%ec%97%90%ec%84%9c-%ec%b9%b4%ed%94%84%ec%b9%b4-%ec%bb%a8%ec%8a%88%eb%a8%b8-%ea%b7%b8%eb%a3%b9%ea%b3%bc-%ec%9e%ac%ec%8b%9c%eb%8f%84%eb%a1%9c-%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80/)
+
+---
+
+## 뱅크셀러드
 
 - [뱅크샐러드 Go 코딩 컨벤션](https://blog.banksalad.com/tech/go-best-practice-in-banksalad)
+
+<!-- TODO: 작성 (/explore/articles/blog.banksalad.com/go-best-practice-in-banksalad.md) -->
 
 ---
 
@@ -217,6 +225,5 @@ tag:
 - [Faster XML stream processing in Go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
 
 ---
-
 
 <TagLinks />

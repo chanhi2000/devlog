@@ -19,19 +19,19 @@ tag:
 
 ---
 
-## Github
+## <FontIcon icon="iconfont icon-github"/>Github
 
-- [<FontIcon icon="iconfont icon-github"/>`munificent/generate.c`](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
+- [<FontIcon icon="iconfont icon-c"/>`munificent/generate.c`](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
 
 ---
 
-## Microsoft
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 
 ---
 
-## Red Hat Developer
+## <FontIcon icon="fa-brands fa-redhat"/>Red Hat Developer
 
 - [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler#)
 
@@ -51,7 +51,7 @@ tag:
 
 ---
 
-## Microsoft
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 - [Integrating C++ header units into Office using MSVC (2/n)](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-2-n)
 - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
@@ -299,6 +299,20 @@ tag:
 ## Thoughts-chain
 
 - [How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
+
+---
+
+## FABIEN SANGLARD'S WEBSITE
+
+- [Driving Compiler](https://fabiensanglard.net/dc/index.php)
+
+---
+
+## Stephen Brennan
+
+- [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+
+<!-- TODO: 작성 -->
 
 ---
 

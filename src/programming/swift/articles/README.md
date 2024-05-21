@@ -12,6 +12,7 @@ tag:
   - hackingwithswift.com
   - yozm.wishket.com
   - douggregor.net
+  - blog.gangnamunni.com
   - zuminternet.github.io
   - swift
   - ios
@@ -55,6 +56,13 @@ head:
   "background": "rgba(22,22,22,0.2)"
 }
 ```
+
+<SiteInfo
+  name="강남언니 공식 블로그"
+  desc="강남언니의 조직문화와 일하는 방식을 이야기합니다."
+  url="https://blog.gangnamunni.com/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
 ```component VPCard
 {
@@ -157,6 +165,22 @@ head:
   "desc": "Swift for C++ Practitioners, Part 6: Error Handling",
   "link": "/explore/articles/douggregor.net/swift-for-cpp-practitioners-6.md",
   "background": "rgba(22,22,22,0.2)"
+}
+```
+
+---
+
+## 강남언니 공식 블로그
+
+> blog.gangnamunni.com
+
+```component VPCard
+{
+  "title": "SwiftUI + Combine 핥아보기",
+  "desc": "강남언니의 조직문화와 일하는 방식을 이야기합니다.",
+  "link": "/explore/articles/blog.gangnamunni.com/swiftui-combine-quick-look.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
 }
 ```
 

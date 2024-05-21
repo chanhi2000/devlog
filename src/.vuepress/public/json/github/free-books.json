@@ -221,8 +221,13 @@
     "topics": []
   }, {
     "repo": "KAYOKG/BibliotecaDev",
-    "desc": "📚 Biblioteca de livros essenciais da área da programação.",
-    "officialSite": "",
+    "desc": "📚 Biblioteca de livros essenciais da área da programação. (Confira o meu novo projeto `SendScriptWhatsapp`)",
+    "officialSite": "https://github.com/KAYOKG/SendScriptWhatsapp-Global",
     "topics": ["biblioteca-do-desenvolvedor", "english", "leitura", "livro", "livros-desenvolvedor", "pdf", "portuguese"]
+  }, {
+    "repo": "LLMBook-zh/LLMBook-zh.github.io",
+    "desc": "《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣",
+    "officialSite": "https://llmbook-zh.github.io/",
+    "topics": ["artificial-intelligence", "deep-learning", "deep-neural-networks", "deep-reinforcement-learning", "fine-tuning", "language-model", "large-language-models", "natural-language-processing", "nlp", "pretrained-models"]
   }
 ]

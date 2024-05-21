@@ -17,13 +17,14 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
 
-## Github 
+## <FontIcon icon="iconfont icon-github"/>Github
 
+- [Github: Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
+- [Junior to senior: An action plan for engineering career success](https://github.com/readme/guides/engineering-career-success)
 - [Building and testing Java with Gradle](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle)
 - [LM Studio](https://github.com/lmstudio-ai)
 - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
@@ -60,7 +61,13 @@ tag:
 
 ## 인포그랩
 
-- [인포그랩의 소중한 자산입니다. 콘텐츠를 복사할 수 없는 점 너른 양해 부탁드립니다.](https://insight.infograb.net/blog/2023/08/29/gitlab-vs-github)
+- [GitLab VS GitHub 차이점 단기 속성으로 알아보기](https://insight.infograb.net/blog/2023/08/29/gitlab-vs-github)
+
+---
+
+## DZone
+
+- [Top 13 GitHub Alternatives in 2020 [Free and Paid]](https://dzone.com/articles/top-13-github-alternatives-in-2020-free-and-paid)
 
 ---
 

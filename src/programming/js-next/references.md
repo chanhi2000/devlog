@@ -41,4 +41,10 @@ head:
 
 ---
 
+## 로토의 블로그
+
+- [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js)
+
+---
+
 <TagLinks />

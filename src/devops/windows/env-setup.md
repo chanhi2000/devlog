@@ -307,6 +307,16 @@ neofetch
 
 ```component VPCard
 {
+  "title": "메모리클리너",
+  "desc": "메모리 정리를 클릭 한번에 할 수 있습니다.",
+  "link": "https://memorycleaner.kilho.net/",
+  "logo": "https://kilho.net/favicon.png",
+  "background": "rgba(0,136,204,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "시크릿DNS",
   "desc": "DNS 암호화 및 SNI 파편화를 합니다.",
   "link": "https://secretdns.kilho.net/",

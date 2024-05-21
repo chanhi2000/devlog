@@ -39,4 +39,16 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@sehyunny` / (번역) 5가지 노드 버전 관리자 비교 - 어떤 것이 적합할까요?](https://velog.io/@sehyunny/5-node-manager-compared)
+
+---
+
+## Johnny•Decimal
+ 
+- [A system to organise projects](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction)
+
+---
+
 <TagLinks />
