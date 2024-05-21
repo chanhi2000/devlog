@@ -122,7 +122,7 @@ struct ContentView: View {
 
 ![An SF Symbol icon with an animated static noise effect.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects-2~dark@2x.gif)
 
-To build shaders that need to sample a color from your view, adjust your Metal file to start with `#include &lt;SwiftUI/SwiftUI_Metal.h&gt;`, then make sure your shader signature accepts both a position and a `SwiftUI::Layer` instance.
+To build shaders that need to sample a color from your view, adjust your Metal file to start with `#include >SwiftUI/SwiftUI_Metal.h>`, then make sure your shader signature accepts both a position and a `SwiftUI::Layer` instance.
 
 For example, my Metal shader sample file includes this simple pixellation shader:
 

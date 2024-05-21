@@ -16,6 +16,7 @@ tag:
   - droidcon.com
   - kt.academy
   - meetup.nhncloud.com
+  - blog.banksalad.com
   - java
   - jdk
   - jdk8
@@ -78,6 +79,16 @@ head:
   "link": "https://meetup.nhncloud.com/",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "뱅크샐러드 공식 블로그 | 메인",
+  "desc": "뱅크샐러드의 공식 블로그입니다. 뱅크샐러드의 기술, 문화, 뉴스, 행사 등 최신 소식 및 뱅크샐러드가 겪은 다양한 경험을 공유합니다.",
+  "link": "https://blog.banksalad.com/",
+  "logo": "https://blog.banksalad.com/favicon-32x32.png?v=a0f8dfab85709bd32e8bfd56c885f0fe",
+  "background": "rgba(0,198,142,0.2)"
 }
 ```
 
@@ -160,6 +171,22 @@ head:
   "link": "/explore/articles/meetup.nhncloud.com/371.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+---
+
+## 뱅크샐러드 공식 블로그 | 메인
+
+> blog.banksalad.com
+
+```component VPCard
+{
+  "title": "뱅크샐러드 안드로이드 앱에서 Koin 걷어내고 Hilt로 마이그레이션하기 | SwiftUI by Example",
+  "desc": "뱅크샐러드 안드로이드 앱에서 Koin 걷어내고 Hilt로 마이그레이션하기",
+  "link": "/explore/articles/blog.banksalad.com/migrate-from-koin-to-hilt.md",
+  "logo": "https://blog.banksalad.com/favicon-32x32.png?v=a0f8dfab85709bd32e8bfd56c885f0fe",
+  "background": "rgba(0,198,142,0.2)"
 }
 ```
 

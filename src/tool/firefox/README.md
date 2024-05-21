@@ -8,7 +8,7 @@ category:
   - Firefox
 tag: 
   - browser
-  - fierfox
+  - firefox
 ---
 
 # {{ $frontmatter.description }} 관련

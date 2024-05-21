@@ -2825,8 +2825,18 @@
     "topics": ["aceternity", "nextjs"]
   }, {
     "repo": "rashadphz/farfalle",
-    "desc": "🔍 ai search engine - self-host local or cloud language models",
+    "desc": "🔍 AI search engine - self-host with local or cloud LLMs",
     "officialSite": "https://www.farfalle.dev/",
     "topics": ["fastapi", "generative-ui", "gpt-4o", "groq", "llm", "nextjs", "ollama", "openai", "perplexity", "react", "search-engine", "shadcn-ui", "tailwindcss"]
+  }, {
+    "repo": "swift-server/vscode-swift",
+    "desc": "Visual Studio Code Extension for Swift",
+    "officialSite": "https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang",
+    "topics": ["swift", "vscode", "vscode-extension"]
+  }, {
+    "repo": "microsoft/vscode-cmake-tools",
+    "desc": "CMake integration in Visual Studio Code",
+    "officialSite": "https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools",
+    "topics": ["cmake", "visual-studio-code"]
   }
 ]

@@ -25,5 +25,6 @@ tag:
 <MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
 <MyYouTubeItems jsonName="yu-CodinginPublic" /><!-- Coding in Public -->
 <MyYouTubeItems jsonName="yu-HoveredCubeOfficial" /><!-- Hovered Cube -->
+<MyYouTubeItems jsonName="yu-huxnwebdev" /><!-- HuXn WebDev -->
 
 <TagLinks />

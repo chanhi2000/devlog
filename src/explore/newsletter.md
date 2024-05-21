@@ -311,8 +311,8 @@ tag:
   "title": "뱅크샐러드 공식 블로그 | 메인",
   "desc": "뱅크샐러드의 공식 블로그입니다. 뱅크샐러드의 기술, 문화, 뉴스, 행사 등 최신 소식 및 뱅크샐러드가 겪은 다양한 경험을 공유합니다.",
   "link": "https://blog.banksalad.com",
-  "logo": "https://blog.banksalad.com/favicon-32x32.png",
-  "background": "rgba(98,198,152,0.2)"
+  "logo": "https://blog.banksalad.com/favicon-32x32.png?v=a0f8dfab85709bd32e8bfd56c885f0fe",
+  "background": "rgba(0,198,142,0.2)"
 }
 ```
 

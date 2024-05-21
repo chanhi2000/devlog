@@ -19,5 +19,6 @@ tag:
 ---
 
 <MyYouTubeItems jsonName="yu-user-zx1rk8qx6q" /><!-- 실용주의 프로그래머 -->
+<MyYouTubeItems jsonName="yu-thenewboston" /><!-- thenewboston -->
 
 <TagLinks/>

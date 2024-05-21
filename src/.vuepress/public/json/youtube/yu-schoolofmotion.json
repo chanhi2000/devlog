@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "schoolofmotion",
+    "name": "School of Motion",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nxtPsABi4O2LzW3qDWwrA_k8A3KOeSICxkKhPnq4HMlbI=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mZCvI6SWPFOy0EBshOFclClVPQ01S2u8kQ9O59RFKkw0ZNLJfcTKHsg-FCN4HL5AE2TRd-QM_B0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DOgfmp_ot9E", "title": "Real-time Motion Design with Unreal Engine!" },
+    { "id": "RxHu807Z7No", "title": "The Secret to Creating Dynamic Bends in After Effects" },
+    { "id": "q7xvWyrLML4", "title": "3 Features that Point to the Future of After Effects | 3D System, Master Properties, Libraries" },
+    { "id": "kG64FfF0Jdw", "title": "Animate in Unreal Engine With No Keyframes!" },
+    { "id": "DyJGDsGiM9w", "title": "Design That Sells: Unpacking the Magic of Web + Motion with Ran Segall" },
+    { "id": "jgnpNT2nP1s", "title": "Texture a 3D Model with Substance Painter!" },
+    { "id": "uyWcEp-DBEo", "title": "Adobe's Project Neo, Rive Icon Libraries, and this app FINALLY lands on iPad! | Motion Design News" }
+  ],
+  "playlists": [
+
+  ]
+}

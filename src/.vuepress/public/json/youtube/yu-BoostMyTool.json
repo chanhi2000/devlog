@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/y7dd6gwWCGHhLAZtBRYETqk0Rn9u24vWkBMtwOJH7l4ayVupWul1tI8ajVmlEUw8uNHYqZc0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Eq4Cwy7j5Zg", "title": "Create Your First Spring Boot Application using Eclipse IDE 2024 | Spring MVC and Thymeleaf" },
+    { "id": "ViFtEx_mEXk", "title": "Google reCAPTCHA V2 in ASP.NET Web Application - How to Add Google reCAPTCHA to Contact Forms" },
+    { "id": "js0emiSVmCY", "title": "CRUD Operations Using ASP.NET + SQL Server + VS Code + .NET8 | Create Read Update Delete | ADO.NET" },
+    { "id": "qi0Nyma8kjs", "title": "Install Angular and Create your First Angular Application using Visual Studio Code | Angular Project" },
+    { "id": "o1BVL-H7pwk", "title": "Secure Spring Boot Web API using JWT and Spring Security - JWT Authentication and Authorization" },
+    { "id": "XBfZxrLcDC8", "title": "CRUD Operations using React and Json Server : Create Read Update and Delete | ReactJS | React Router" },
     { "id": "epBYdlHe8Rs", "title": "Create RESTful Web API with CRUD Operations using Spring Boot and MySQL | Create Read Update Delete" },
     { "id": "7zfby5D5hSM", "title": "[FIXED] SyntaxError: Cannot use import statement outside a module" },
     { "id": "1eTFJ__VQKc", "title": "Web API with CRUD Operations using Node JS, Express and MySQL | RESTful Web API | Postman + XAMPP" },

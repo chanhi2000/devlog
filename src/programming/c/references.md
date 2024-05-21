@@ -296,4 +296,10 @@ tag:
 
 ---
 
+## Thoughts-chain
+
+- [How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
+
+---
+
 <TagLinks />

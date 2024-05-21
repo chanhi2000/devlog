@@ -12,6 +12,7 @@ tag:
   - blog
   - freecodecamp.org
   - yozm.wishket.com
+  - techblog.woowahan.com
   - zuminternet.github.io
   - js
   - javascript
@@ -50,6 +51,16 @@ head:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "우아한형제들 기술블로그",
+  "desc": "우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.",
+  "link": "https://techblog.woowahan.com/",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
 }
 ```
 
@@ -274,6 +285,32 @@ head:
   "link": "/explore/articles/yozm.wishket.com/2537.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+---
+
+## 우아한형제들 기술블로그
+
+> techblog.woowahan.com
+
+```component VPCard
+{
+  "title": "갤럭시 S24가 찾아준 배민커넥트 Android 성능 이슈 해결기(feat. React Native) | 우아한형제들 기술블로그",
+  "desc": "갤럭시 S24가 찾아준 배민커넥트 Android 성능 이슈 해결기(feat. React Native)",
+  "link": "/explore/articles/techblog.woowahan.com/15883.md",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "셀프서비스, 챗봇에게 물어보세요 | 우아한형제들 기술블로그",
+  "desc": "셀프서비스, 챗봇에게 물어보세요",
+  "link": "/explore/articles/techblog.woowahan.com/16021.md",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
 }
 ```
 

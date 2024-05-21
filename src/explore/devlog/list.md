@@ -29,29 +29,9 @@ tag:
 ## DZone
 
 - [Interactive Data Visualization in Ionic 5](https://dzone.com/articles/interactive-data-visualization-in-ionic-5)
-- [Java Annotated Monthly – September 2020](https://dzone.com/articles/java-annotated-monthly-september-2020)
 - [Project Management Tools are Plan-First, Not Develop-First. 3 Solutions.](https://dzone.com/articles/jira-is-a-microcosm-of-whats-broken-in-software-de)
 - [The Best of IoT: Tutorials and Articles](https://dzone.com/articles/the-best-of-iot-tutorials-and-articles)
 - [Top 13 GitHub Alternatives in 2020 [Free and Paid]](https://dzone.com/articles/top-13-github-alternatives-in-2020-free-and-paid)
-
----
-
-## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
-
-- [I want to get application crash info in Android programmatically without using 3rd party apps or jars like bugsense etc](https://stackoverflow.com/questions/27779289/i-want-to-get-application-crash-info-in-android-programmatically-without-using-3)
-- [print directory tree](https://stackoverflow.com/questions/10655085/print-directory-tree)
-- [Bottom app bar problem with placing icons](https://stackoverflow.com/questions/54767397/bottom-app-bar-problem-with-placing-icons)
-- [What is this date format? 2011-08-12T20:17:46.384Z](https://stackoverflow.com/questions/8405087/what-is-this-date-format-2011-08-12t201746-384z)
-- [move Android fragment to a different container Can't change container ID of fragment](https://stackoverflow.com/questions/13601811/move-android-fragment-to-a-different-container-cant-change-container-id-of-frag)
-- [How to display HTML in TextView?](https://stackoverflow.com/questions/2116162/how-to-display-html-in-textview)
-- [android Bottom app bar is not taking full width even after setting width to match parent](https://stackoverflow.com/questions/66808871/android-bottom-app-bar-is-not-taking-full-width-even-after-setting-width-to-matc)
-- [Test expected exceptions in Kotlin](https://stackoverflow.com/questions/30331806/test-expected-exceptions-in-kotlin/34556914)
-- [ConnectivityManager getNetworkInfo(int) deprecated](https://stackoverflow.com/questions/32547006/connectivitymanager-getnetworkinfoint-deprecated/54641263)
-- [WebView wrap_content doesn't occupy entire view size](https://stackoverflow.com/questions/57699107/webview-wrap-content-doesnt-occupy-entire-view-size)
-- [android - setting LayoutParams programmatically](https://stackoverflow.com/questions/9678785/android-setting-layoutparams-programmatically)
-- [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
-- [display view on top of action bar](https://stackoverflow.com/questions/15279647/display-view-on-top-of-action-bar)
-- [Get RSRP from CellSignalStrengthLte for Android app API 17+](https://stackoverflow.com/questions/32531176/get-rsrp-from-cellsignalstrengthlte-for-android-app-api-17)
 
 ---
 
@@ -59,7 +39,6 @@ tag:
 
 - [<FontIcon icon="iconfont icon-gradle"/>`open-suite-webapp/build.gradle`](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
 - [Github: Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
-- [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
 - [okta developer - Build a Secure Spring Data JPA Resource Server](https://developer.okta.com/blog/2020/11/20/spring-data-jpa)
 - [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
 - [아마도 Effective 한 Kotlin](https://speakerdeck.com/taehwandev/amado-effective-han-kotlin)
@@ -74,7 +53,6 @@ tag:
 
 ## Other
 
-- [android kotlin - Get screen size from context](https://www.android--code.com/2020/08/android-kotlin-get-screen-size-from.html)
 - [Authentication in Nuxt.js using Laravel Sanctum](https://swapnil.dev/blog/authentication-in-nuxtjs-using-laravel-sanctum)
 - [Nuxt Static Improvements](https://nuxtjs.org/announcements/nuxt-static-improvements)
 - [Installing Apache, PHP, and MySQL on Mac OS X](https://jasonmccreary.me/articles/install-apache-php-mysql-mac-os-x)
@@ -90,10 +68,8 @@ tag:
 - [Make Helm chart repo](https://www.jacobbaek.com/962)
 - [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](https://labs.brandi.co.kr/2020/06/09/leejp.html)
 - [Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기](https://www.popit.kr/golang%ec%97%90%ec%84%9c-%ec%b9%b4%ed%94%84%ec%b9%b4-%ec%bb%a8%ec%8a%88%eb%a8%b8-%ea%b7%b8%eb%a3%b9%ea%b3%bc-%ec%9e%ac%ec%8b%9c%eb%8f%84%eb%a1%9c-%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80/)
-- [JVM](https://jeongjin984.github.io/posts/JVM/)
 - [\[Kotlin\] SQLite  +  Singleton Pattern](https://jwsoft91.tistory.com/78)
 - [How to perform a Git clean up of branches and commits example](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-clean-up-Git-branches-and-commits)
-- [Detecting memory leaks in Android applications](https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications)
 - [Migrate from SQLite to Room](https://developer.android.com/training/data-storage/room/sqlite-room-migration)
 - [Marrying KMM and Swift with Sourcery](https://luisramos.dev/marrying-kmm-and-swift-with-sourcery)
 - [Supporting Both CocoaPods & The Swift Package Manager](https://quickbirdstudios.com/blog/swift-package-manager-cocoapods-support)

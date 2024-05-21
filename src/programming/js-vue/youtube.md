@@ -45,5 +45,7 @@ head:
 <MyYouTubeItems jsonName="yu-jsWithTola" /><!-- Giwa Fauzziyyah -->
 <MyYouTubeItems jsonName="yu-danteDeveloper" /><!-- 단테 -->
 <MyYouTubeItems jsonName="yu-JustinJackson" /><!-- Justin Jackson -->
+<MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
+<MyYouTubeItems jsonName="yu-csslick9865" /><!-- csslick - 코딩 튜토리얼 & 팁 -->
 
 <TagLinks />

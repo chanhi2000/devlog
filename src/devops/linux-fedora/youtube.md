@@ -25,5 +25,7 @@ tag:
 <MyYouTubeItems jsonName="yu-renerebe" /><!-- Bits inside by René Rebe -->
 <MyYouTubeItems jsonName="yu-MoreReneRebe" /><!-- Code Therapy w/ René Rebe -->
 <MyYouTubeItems jsonName="yu-Axlefublr" /><!-- Axlefublr (she\\they) -->
+<MyYouTubeItems jsonName="yu-RibaLinux" /><!-- Riba Linux -->
+<MyYouTubeItems jsonName="yu-Maurice-Gardner" /><!-- Maurice Gardner -->
 
 <TagLinks />

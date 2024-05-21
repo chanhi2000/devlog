@@ -3381,6 +3381,16 @@ How to make your apps usable by everyone
 }
 ```
 
+```component VPCard
+{
+  "title": "How to add custom activation commands for Voice Control | SwiftUI by Example",
+  "desc": "How to add custom activation commands for Voice Control",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-custom-activation-commands-for-voice-control.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
 :::
 
 ::: details Tooling

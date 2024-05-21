@@ -22,21 +22,30 @@ tag:
 
 ### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
-- [Can JPA be persuaded to convert between eg UUIDs and Strings?](https://stackoverflow.com/questions/8446378/can-jpa-be-persuaded-to-convert-between-eg-uuids-and-strings)
-- [Spring JPA repoistory findBy IN List - allow null](https://stackoverflow.com/questions/28898132/spring-jpa-repoistory-findby-in-list-allow-null)
+- [print directory tree](https://stackoverflow.com/questions/10655085/print-directory-tree)
+- [What is this date format? 2011-08-12T20:17:46.384Z](https://stackoverflow.com/questions/8405087/what-is-this-date-format-2011-08-12t201746-384z)
+
+---
 
 ### G마켓 기술블로그
 
-- [설계란 고민의 연속이다 1편](https://dev.gmarket.com/104)
+- [설계란 고민의 연속이다 1편](/explore/articles/dev.gmarket.com/104.md)
+
+<!-- TODO: 작성 (/explore/articles/dev.gmarket.com/104.md) -->
 
 ### 우아한 기술블로그
 
 - [Java Enum 활용기](https://techblog.woowahan.com/2527)
 - [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)
 
+<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2527.md) -->
+<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2698.md) -->
+
 ### 요즘IT
 
 - [자바 개발자를 위한 컨테이너 이미지 빌드](https://yozm.wishket.com/magazine/detail/2018)
+
+<!-- TODO: 작성 (/explore/articles/yozm.wishket.com/2018.md) -->
 
 ### Baeldung
 
@@ -47,6 +56,7 @@ tag:
 ### DZone
 
 - [How to Use Java HashMap Effectively](https://dzone.com/articles/how-to-use-java-hashmap-effectively?fbclid=IwAR1ZMb6aImx-7Ry-GD6S-YfxdDkrRvlSo-SlSVL08gRDxWP_zilcVnuXXtM)
+- [Java Annotated Monthly – September 2020](https://dzone.com/articles/java-annotated-monthly-september-2020)
 
 ### HowToDoInJava
 
@@ -332,6 +342,10 @@ tag:
 
 - [[Network] Apache HttpClient의 설정으로 알아보는 클라이언트 관점의 네트워크 속성들](https://sabarada.tistory.com/261)
 
+### Jiny
+
+- [JVM](https://jeongjin984.github.io/posts/JVM/)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -346,6 +360,10 @@ tag:
 ### <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
 - [A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
+
+### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+
+- [Test expected exceptions in Kotlin](https://stackoverflow.com/questions/30331806/test-expected-exceptions-in-kotlin/34556914)
 
 ### Thdev
 

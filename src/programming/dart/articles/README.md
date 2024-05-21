@@ -51,6 +51,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Make Your Flutter Package Privacy Manifest Compatible",
+  "desc": "Beginning May 1st, Apple will enforce all new applications or updated versions of applications that will be uploaded to the Apple Store, to include a Privacy Manifest file.  If you are unfamiliar with what a Privacy Manifest is, I suggest reading my  other article [/news/what-the-ios-privacy-manifest-means-for-developers/]. There has been...",
+  "link": "/explore/articles/freecodecamp.org/how-to-make-your-flutter-package-privacy-manifest-compatible.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 <TagLinks />

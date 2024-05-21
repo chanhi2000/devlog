@@ -72,6 +72,7 @@ tag:
 - [7.02. 익명 함수 사용하기](https://ysedeveloper.tistory.com/entry/702-%EC%9D%B5%EB%AA%85-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [7.03. 클래스 사용하기](https://ysedeveloper.tistory.com/entry/703-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [7.04. 네임스페이스 사용하기](https://ysedeveloper.tistory.com/entry/704-%EB%84%A4%EC%9E%84%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [7.05. 오토로드 사용하기](https://ysedeveloper.tistory.com/entry/705-%EC%98%A4%ED%86%A0%EB%A1%9C%EB%93%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ---
 

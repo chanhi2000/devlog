@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/4aR6MPWJoVieWXDgUDOaCeNE7QrhUkqRMYO0GSZki797j1JM1JADIIwCQCrYevl53_cNoTh_ag=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "u31ZpYkVGD4", "title": "#인포그랩  GitLab 16.10 릴리즈 한글 영상 - CI/CD 카탈로그 시맨틱 버저닝" },
+    { "id": "E1uqEwWX1CU", "title": "#인포그랩 - #DORA 지표를 활용하여 #GitLab #DevOps 성숙도 높이기" },
+    { "id": "Vl_t-ZSlU0g", "title": "[인포그랩] GitLab Push Rules 기능 데모로 알아보기 #pushrules #gitpush #gitlab" },
+    { "id": "g8XdRjx85jU", "title": "인포그랩 -  AI ChatOps 플랫폼 Mattermost(매터모스트) 어떤 AI 기능이 있을까?" },
+    { "id": "d_E_FFBXk-8", "title": "인포그랩 X GitLab 밋업 20 - 세션1 GitLab 기능이 궁금하다면 여기에서 끝!" },
+    { "id": "XpOmQXof52o", "title": "인포그랩 X GitLab 밋업 20 - 세션4. GitLab 개발생산성 측정 실 데모로 확인해보기" },
+    { "id": "DCez3TVNXtQ", "title": "인포그랩 X GitLab 밋업 20 - 세션2  GitLab 보안 패치와 최신 정보 확인 방법!" },
+    { "id": "bvu7hhy066o", "title": "인포그랩 X GitLab 밋업 20 - 세션3 GitLab 개발 생산성 측정과 가시화하기!" },
+    { "id": "ICV0AOPILws", "title": "[인포그랩] GitLab Merge Request 승인 룰 기능 데모로 알아보기 #MR승인룰 #MR #깃랩" },
     { "id": "Oabha_iSnNY", "title": "[인포그랩] GitLab 16.8 Release Note GCP Secret Manager 지원부터 보안 강화를 위한 GitLab 관리자 2FA 적용 외" },
     { "id": "I8n1qSLOeCc", "title": "인포그랩 인포레터 36호 - GitLab 16.8 릴리즈, GitLab 보안 업데이트, 2024 DevOps 트렌드" },
     { "id": "evPbGBy1hX8", "title": "인포그랩 DevOps 로그 - GitLab에서 배우는 원격 디자인 스프린트 쉽게 하는 방법" },

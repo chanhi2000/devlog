@@ -21,10 +21,12 @@ export const template: SidebarInfoTemplate = {
       "how-js-string-concatenation-works", // 2024.05.07
       "javascript-remove-char-from-string", // 2024.05.09
       "how-to-create-objects-in-javascript",  // 2024.05.10
+      "javascript-class-handbook", // 2024.05.20
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024.03.28
       "how-to-run-postgres-in-kubernetes",  // 2024.05.08
+      "how-to-create-a-rest-api-without-a-server", // 2024.05.20
     ]],[
     "js-react", [
       "throttling-in-javascript", // 2024.05.01
@@ -63,6 +65,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "dart", [
       "how-to-develop-a-flutter-app-from-scratch", // 2024.04.26
+      "how-to-make-your-flutter-package-privacy-manifest-compatible", // 2024.05.20
     ]],[
     "rust", [
       "procedural-macros-in-rust", // 2024.04.24
@@ -89,6 +92,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "github", [
       "create-personalized-github-profile-page", // 2024.05.01
+      "how-to-become-an-open-source-maintainer", // 2024.05.20
     ]],[
     "macos", [
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024.04.25
@@ -155,6 +159,10 @@ export const template: SidebarInfoTemplate = {
       "how-to-handle-events-in-react-19", // 2024.05.13
       "how-to-store-data-locally-in-react-native-expo",  // 2024.05.13
       "zustand-vs-usestate-how-to-manage-state-in-react", // 2024.05.15
+      "how-to-make-your-flutter-package-privacy-manifest-compatible", // 2024.05.20
+      "how-to-create-a-rest-api-without-a-server", // 2024.05.20
+      "how-to-become-an-open-source-maintainer", // 2024.05.20
+      "javascript-class-handbook", // 2024.05.20
     ]],
   ]),
 }

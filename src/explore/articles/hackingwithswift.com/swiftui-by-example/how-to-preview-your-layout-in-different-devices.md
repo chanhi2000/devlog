@@ -52,4 +52,4 @@ head:
 
 ---
 
-<TagLinks />How to preview your layout in different devices
+<TagLinks />

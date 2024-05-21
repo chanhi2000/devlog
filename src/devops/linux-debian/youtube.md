@@ -118,7 +118,6 @@ tag:
 <MyYouTubeItems jsonName="yu-tech_craft" /><!-- Tech Craft -->
 <MyYouTubeItems jsonName="yu-Errichto" /><!-- Errichto Algorithms -->
 <MyYouTubeItems jsonName="yu-eduittutorials" /><!-- edu it tutorials -->
-<MyYouTubeItems jsonName="yu-RibaLinux" /><!-- Riba Linux -->
 <MyYouTubeItems jsonName="yu-thiagoleite9489" /><!-- Thiago Leite -->
 <MyYouTubeItems jsonName="yu-theepistolatory" /><!-- Georgios Magklaras -->
 <MyYouTubeItems jsonName="yu-schezokim" /><!-- Austin Kim -->
@@ -135,5 +134,8 @@ tag:
 <MyYouTubeItems jsonName="yu-renerebe" /><!-- Bits inside by René Rebe -->
 <MyYouTubeItems jsonName="yu-MoreReneRebe" /><!-- Code Therapy w/ René Rebe -->
 <MyYouTubeItems jsonName="yu-Axlefublr" /><!-- Axlefublr (she\\they) -->
+<MyYouTubeItems jsonName="yu-how-to-linux." /><!-- How-to-Linux.  -->
+<MyYouTubeItems jsonName="yu-Maurice-Gardner" /><!-- Maurice Gardner -->
+<MyYouTubeItems jsonName="yu-AndreaBorman" /><!-- Andrea Borman -->
 
 <TagLinks />

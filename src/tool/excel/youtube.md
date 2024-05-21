@@ -96,5 +96,6 @@ tag:
 <MyYouTubeItems jsonName="yu-deepsam77" /><!-- 딥쌤 -->
 <MyYouTubeItems jsonName="yu-SeleTraining" /><!-- Sele Training -->
 <MyYouTubeItems jsonName="yu-kooky0ai" /><!-- 기묘한 자동화 -->
+<MyYouTubeItems jsonName="yu-excelcreator1" /><!-- 엑셀마왕 -->
 
 <TagLinks />

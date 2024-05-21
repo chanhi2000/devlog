@@ -22,9 +22,34 @@ head:
       content: "Swift for C++ Practitioners, Part 3: Extensions and Access Control"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/douggregor.net/swift-for-cpp-practitioners-3.html
+prev: /programming/swift/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Swift > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/swift/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C++ > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/cpp/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+[[toc]]
+
+---
 
 ```component VPCard
 {
@@ -37,7 +62,7 @@ head:
 
 > 2024.03.01
 
-[[toc]]
+<!-- TODO: 작성 -->
 
 ---
 

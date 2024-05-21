@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "ChrisCappetta",
+    "name": "Chris Cappetta",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mWkVAwm_WTRoRUADraXqeQsA6orjdCmTJIQTItmmI59xQ=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "fVab674FGLI", "title": "I had a two-way voice conversation with Anthropic Claude 3. It named itself \"Quill.\"" },
+    { "id": "affArIZNPC8", "title": "Conversations with Claude #3 - Exploring Morality - Tuned instructions and open-sourced code" },
+    { "id": "d_ESvPjNp98", "title": "(Bad audio) Conversations with Claude #5 - Philosophy doesn't come from a vacuum... past & future" },
+    { "id": "sHEMnuV8KeM", "title": "The Antikythera Mechanism, RESTful Architectures, and Dark Matter -  Conversations with Claude #7" },
+    { "id": "sSyI2jCppYY", "title": "A voice conversation with Anthropic Claude - #8 - AI Consciousness" },
+    { "id": "n6EU85FdCLk", "title": "A voice conversation with Claude - #9 - Testing a smaller transcription model, and revisiting Kai" }
+  ],
+  "playlists": [
+
+  ]
+}

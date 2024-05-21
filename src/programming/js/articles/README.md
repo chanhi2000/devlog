@@ -133,6 +133,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "The JavaScript Class Handbook – Complete Guide to Class Fields and the Super Keyword",
+  "desc": "Classes let you privatize your data while providing users indirect access to it. It is an excellent way to prevent direct access to your constructor’s data. This handbook aims to show you exactly how classes work in JavaScript. We will also discuss class fields and the super keyword. Table of...",
+  "link": "/explore/articles/freecodecamp.org/javascript-class-handbook.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Frontend Masters Boost – Helping Your Journey to Senior Developer

@@ -22,6 +22,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+
+- [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
+
+---
+
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@sc_shin` - Gradle 사용 시 인코딩 오류 처리](https://velog.io/@sc_shin/Gradle-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC)

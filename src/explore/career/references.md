@@ -128,6 +128,12 @@ tag:
 
 ---
 
+## DISQUIET
+
+- [`@hpark0011` / 답변의 80%가 예측될 때까지 인터뷰해서 초기 제품 방향성을 잡은 Vanta](https://disquiet.io/@hpark0011/makerlog/vanta%EA%B0%80-%EC%B4%88%EA%B8%B0-%EC%A0%9C%ED%92%88-%EB%B0%A9%ED%96%A5%EC%84%B1%EC%9D%84-%EC%9E%A1%EC%9D%80-%EB%B0%A9%EB%B2%95)
+
+---
+
 ## 당근
 
 - [웹사이트의 첫 삽부터 나무를 기르기까지: 당근닷컴 디벨롭의 여정](https://medium.com/daangn/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%B2%AB-%EC%82%BD%EB%B6%80%ED%84%B0-%EB%82%98%EB%AC%B4%EB%A5%BC-%EA%B8%B0%EB%A5%B4%EA%B8%B0%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC%EB%8B%B7%EC%BB%B4-%EB%94%94%EB%B2%A8%EB%A1%AD%EC%9D%98-%EC%97%AC%EC%A0%95-830cc1a27bf0)
@@ -335,6 +341,7 @@ tag:
 - [큰 팔로잉, 큰 책임](https://www.thestartupbible.com/2024/04/with-great-following-comes-great-responsibility.html)
 - [확장에 대한 상반된 견해](https://www.thestartupbible.com/2024/05/some-opposing-views-on-scalability.html)
 - [선과 악](https://www.thestartupbible.com/2024/05/bringing-out-the-best-and-the-worst-of-human-beings.html)
+- [워라밸은 없다](https://www.thestartupbible.com/2024/05/work-and-life-balance-at-a-startup-is-unicorn-myth.html)
 
 ---
 
@@ -702,6 +709,7 @@ tag:
 ## DREAMING FOR THE FUTURE
 
 - [리더십으로의 정원사](http://www.chidoo.me/index.php/2024/05/06/gardener-as-a-leadership/)
+- [리더십의 커뮤니케이션 – 소통](http://www.chidoo.me/index.php/2024/05/19/why-radical-communication-in-leadership/)
 
 ---
 
@@ -731,6 +739,12 @@ tag:
 ## 테오
 
 - [[더 나은 엔지니어가 되기 위한 루틴] 취미부터 중소기업, 대기업, 스타트업, 창업까지 경험하며 느낀 점](https://dataportal.kr/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%A3%A8%ED%8B%B4-%EC%B7%A8%EB%AF%B8%EB%B6%80%ED%84%B0-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%EA%B9%8C%EC%A7%80-%EA%B2%BD%ED%97%98%ED%95%98%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90/)
+
+---
+
+## OpenVC
+
+- [VCs aren't your friends](https://openvc.app/blog/vcs-arent-your-friends)
 
 ---
 

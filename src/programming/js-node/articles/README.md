@@ -114,8 +114,18 @@ head:
 ```component VPCard
 {
   "title": "How to Run a Postgres Database in Azure Kubernetes Service and Integrate it with a Node.js Express Application",
-  "desc": "Hey everyone! Today, you're going to learn about deploying a Postgres container in Azure Kubernetes Service (AKS) and connecting it to a Node.js application. In this fast-paced development landscape, deploying via containers, particularly with Kubernetes, is becoming increasingly popular. Some companies perform numerous deployments daily, so it's crucial for you",
+  "desc": "Hey everyone! Today, you're going to learn about deploying a Postgres container in Azure Kubernetes Service (AKS) and connecting it to a Node.js application. In this fast-paced development landscape, deploying via containers, particularly with Kubernetes, is becoming increasingly popular. Some companies perform numerous deployments daily, so it's crucial for you...",
   "link": "/explore/articles/freecodecamp.org/how-to-run-postgres-in-kubernetes.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Create a REST API Without a Server",
+  "desc": "If you're a Front-End developer and want to showcase your skills, it may be a problem if you use GitHub pages or Netlify to show your apps.  Instead, you can create a REST API directly in the browser without the need of any server. With this, you can showcase...",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-a-rest-api-without-a-server.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

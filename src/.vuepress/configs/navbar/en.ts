@@ -529,6 +529,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-notion',
         link: '/tool/notion/README.md',
       }, {
+        text: 'Figma',
+        icon: 'iconfont icon-figma',
+        link: '/tool/figma/README.md',
+      }, {
         text: 'Wireshark',
         icon: 'iconfont icon-wireshark',
         link: '/tool/wireshark/README.md',

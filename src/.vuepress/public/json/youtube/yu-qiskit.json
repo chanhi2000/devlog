@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/MbxyM1WRigfFosBJ8hj1bX1Fn1Hmc4bmA0LRn47nlKby7am1HHq6JT4--xECIzfRnZVkqh-WraY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ArisYJQwOSY", "title": "Efficient classical shadow tomography with number conservation with Anushya Chandran" },
+    { "id": "CeK9ry8G8HQ", "title": "Lesson 09: Density Matrices | Understanding Quantum Information & Computation" },
+    { "id": "xqoHU286kjQ", "title": "Magic Meets Entanglement: Pseudomagic and Computational Separations | Qiskit Quantum Seminar" },
+    { "id": "GmdeT2W-Ahc", "title": "Presenting: IBM Quantum Learning" },
+    { "id": "dZWz4Gs_BuI", "title": "How to Install Qiskit | Coding with Qiskit 1.x | Programming on Quantum Computers" },
+    { "id": "Uyb70fD_dtY", "title": "The (quantum) signal and the noise | Qiskit Quantum Seminar with Yihui Quek" },
+    { "id": "93-zLTppFZw", "title": "Hello World | Coding with Qiskit 1.x | Programming on Quantum Computers" },
+    { "id": "sVRpKhCfKRI", "title": "Series Introduction | Quantum Computing in Practice | Episode 1" },
+    { "id": "35ykEg3fG4c", "title": "Primitives | Coding with Qiskit 1.x | Programming on Quantum Computers" },
+    { "id": "QDPtcwhpQkE", "title": "Dynamic Circuits | Coding with Qiskit 1.x | Programming on Quantum Computers" },
+    { "id": "Fg6R5Nwd-Cc", "title": "Virtual Channel Purification | Qiskit Quantum Seminar with Zhenyu Cai" },
+    { "id": "XpxU6OVjT5g", "title": "Speeding up state preparation with dynamic quantum circuits with Kevin Smith" },
     { "id": "ZzRdjoH0xp0", "title": "Quantum Job Hunting: More Things You NEED to Know" },
     { "id": "THmVL5oge7k", "title": "Near-Term Quantum Algorithms for Optimization with Ashley Montanaro" },
     { "id": "BEFK1XTiiPc", "title": "Efficient Long-Range Entanglement using Dynamic Circuits with Elisa Bäumer" },

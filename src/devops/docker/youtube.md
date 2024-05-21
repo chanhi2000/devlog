@@ -109,5 +109,7 @@ tag:
 <MyYouTubeItems jsonName="yu-user-jc7ek9jk3l" /><!-- 차태진 -->
 <MyYouTubeItems jsonName="yu-user-mg8kt9go7z" /><!-- 모던애자일팀 -->
 <MyYouTubeItems jsonName="yu-ByteMonk" /><!-- ByteMonk -->
+<MyYouTubeItems jsonName="yu-cloudchamp" /><!-- Cloud Champ -->
+<MyYouTubeItems jsonName="yu-IndianCoders" /><!-- Indian Coders -->
 
 <TagLinks />

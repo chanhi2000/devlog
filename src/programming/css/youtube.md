@@ -43,5 +43,6 @@ tag:
 <MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
 <MyYouTubeItems jsonName="yu-appbrewery" /><!-- London App Brewery -->
 <MyYouTubeItems jsonName="yu-MattVisiwig" /><!-- Matt Visiwig -->
+<MyYouTubeItems jsonName="yu-hyena-sunny" /><!-- 중써니 -->
 
 <TagLinks />

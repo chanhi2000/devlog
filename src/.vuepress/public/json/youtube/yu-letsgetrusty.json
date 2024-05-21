@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/S9acvDV0KaB1HLJMU4xkp2TAybeD7LJorOggTYlKbo9vAzIwZRzLX2yXg9oft8w4jKfA0ibA_Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NDIU1GSBrVI", "title": "The magic of Rust's type system" },
     { "id": "IGxs5v26Teg", "title": "Rust keeps making JavaScript faster" },
     { "id": "fknamfNtKk0", "title": "Why do developers hate Rust?" },
     { "id": "P1cJJMLMEKk", "title": "Solving Rust’s biggest problem" },

@@ -4,6 +4,7 @@ title: References
 description: Gemini > References
 icon: iconfont icon-share
 category: 
+  - Google
   - Gemini
   - AI
   - References
@@ -11,6 +12,9 @@ tag:
   - ai
   - llm
   - llama
+  - google
+  - google-gemini
+  - bard
 ---
 
 # {{ $frontmatter.title }} 관련

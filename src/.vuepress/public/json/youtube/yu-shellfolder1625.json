@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/sJKMnLhzv1WrUbP0XLGi3eEEYpMpKiE3N3Cs7l0cyCdvhFKkakxT_SYISKR-4z4yuf3aP7gLwxc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ghk2Nsgw3q4", "title": "Docker 네트워크" },
+    { "id": "DgAYciyeLTg", "title": "Spring Boot 기본 프로젝트 합본" },
+    { "id": "qcKK-ryo8Go", "title": "Vue + Spring Boot 합본 1부" },
+    { "id": "3_JK81lSErs", "title": "Vue + Spring Boot 합본 2부" },
+    { "id": "01mUcKwuxTM", "title": "Docker Dockerfile" },
     { "id": "kZRyKSvkLGI", "title": "Docker 알아보기" },
     { "id": "YxrPk-0vSws", "title": "Docker 설치" },
     { "id": "Fz_Kcv2rEik", "title": "Docker 이미지" },

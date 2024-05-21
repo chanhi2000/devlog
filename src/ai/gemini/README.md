@@ -4,13 +4,17 @@ title: Gemini
 description: Gemini
 icon: fas fa-wand-magic-sparkles
 category: 
+  - Google
   - Gemini
   - AI
-tag:
+  - Youtube
+tag: 
   - ai
+  - llm
+  - llama
   - google
+  - google-gemini
   - bard
-  - gemini
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -124,5 +124,10 @@ head:
 <MyYouTubeItems jsonName="yu-seoulian" /><!-- 서울리안 SEOULiAN -->
 <MyYouTubeItems jsonName="yu-somifit" /><!-- 소미핏 SOMIFIT -->
 <MyYouTubeItems jsonName="yu-SLJD30" /><!-- 살림중독 -->
+<MyYouTubeItems jsonName="yu-scare_crow_" /><!-- 허수아비 -->
+<MyYouTubeItems jsonName="yu-natgeocam" /><!-- 내셔널지오그래픽 액션캠 -->
+<MyYouTubeItems jsonName="yu-jscode-official" /><!-- JSCODE 박재성 -->
+<MyYouTubeItems jsonName="yu-onemealaday767" /><!-- 하루한끼 one meal a day -->
+<MyYouTubeItems jsonName="yu-The-DIY-Guide" /><!-- The DIY Guide -->
 
 <TagLinks />

@@ -629,5 +629,15 @@
     "desc": "A light-weight Java library that uses steganography to hide data in bitmaps using a secret key",
     "officialSite": "",
     "topics": ["steganography"]
+  }, {
+    "repo": "mukel/llama3.java",
+    "desc": "Practical Llama 3 inference in Java",
+    "officialSite": "",
+    "topics": ["java", "llama", "llama3", "llm", "llm-inference", "llms"]
+  }, {
+    "repo": "LovetheFrogs/OptiGraph",
+    "desc": "Optimum graph creation and distribution for underground networks.",
+    "officialSite": "",
+    "topics": ["algorithms", "graph", "gui", "java"]
   }
 ]

@@ -11,6 +11,8 @@ tag:
   - youtube
   - programming
   - npm
+  - node
+  - node-package-manager
 ---
 
 # {{ $frontmatter.title }} 관련

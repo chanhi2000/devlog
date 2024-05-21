@@ -244,6 +244,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "JPA에서 아이디를 자동증가 값으로 사용 시 하이버네이트의 @NaturalId 사용해 보기 | 우아한형제들 기술블로그",
+  "desc": "JPA에서 아이디를 자동증가 값으로 사용 시 하이버네이트의 @NaturalId 사용해 보기",
+  "link": "/explore/articles/techblog.woowahan.com/17221.md",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
+}
+```
+
 ---
 
 ## 지마켓 기술블로그

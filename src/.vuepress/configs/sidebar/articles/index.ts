@@ -9,6 +9,7 @@ import { template as TEMPLATE_GANGNAMUNNI } from './blog.gangnamunni.com';
 import { template as TEMPLATE_WOOWAHAN } from './techblog.woowahan.com';
 import { template as TEMPLATE_GMARKET } from './dev.gmarket.com'; 
 import { template as TEMPLATE_LINECORP } from './engineering.linecorp.com';
+import { template as TEMPLATE_BANKSALAD } from './blog.banksalad.com';
 import { template as TEMPLATE_OLIVEYOUNG } from './oliveyoung.tech';
 import { template as TEMPLATE_KT_ACADEMY } from './kt.academy';
 import { template as TEMPLATE_DROIDCON } from './droidcon.com';
@@ -66,6 +67,7 @@ export const articleSidebars = {
   woowahan:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_WOOWAHAN, type),
   gmarket:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GMARKET, type),
   linecorp:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LINECORP, type),
+  banksalad:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_BANKSALAD, type),
   oliveyoung:         (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_OLIVEYOUNG, type),
   ktAcademy:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KT_ACADEMY, type),
   droidcon:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DROIDCON, type),
@@ -492,12 +494,12 @@ export const hackingwithswift = (): SidebarGroupItem => ({
           text: 'Cross-platform SwiftUI',
           collapsible: true,
           children: [
-            '/swift/swiftui-by-example/20-cross-platform-swiftui/learn-once-apply-anywhere.md',
-            '/swift/swiftui-by-example/20-cross-platform-swiftui/how-to-get-translucent-lists-on-macos.md',
-            '/swift/swiftui-by-example/20-cross-platform-swiftui/how-to-make-carousel-lists-on-watchos.md',
-            '/swift/swiftui-by-example/20-cross-platform-swiftui/how-to-read-the-digital-crown-on-watchos-using-digitalcrownrotation.md',
-            '/swift/swiftui-by-example/20-cross-platform-swiftui/how-to-open-a-new-window.md',
-            '/swift/swiftui-by-example/20-cross-platform-swiftui/how-to-enable-vertical-page-scrolling.md',
+            '/explore/articles/hackingwithswift.com/swiftui-by-example/learn-once-apply-anywhere.md',
+            '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-translucent-lists-on-macos.md',
+            '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-carousel-lists-on-watchos.md',
+            '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-read-the-digital-crown-on-watchos-using-digitalcrownrotation.md',
+            '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-open-a-new-window.md',
+            '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-enable-vertical-page-scrolling.md',
           ]
         }, {
           text: 'Data',
@@ -528,6 +530,7 @@ export const hackingwithswift = (): SidebarGroupItem => ({
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-decorative-images-to-reduce-screen-reader-clutter.md',
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-reduce-animations-when-requested.md',
             '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-voiceover-read-characters-individually.md',
+            '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-custom-activation-commands-for-voice-control.md',
           ]
         }, {
           text: 'Tooling',

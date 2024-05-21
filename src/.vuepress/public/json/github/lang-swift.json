@@ -494,5 +494,15 @@
     "desc": "Opacity Browser for macOS",
     "officialSite": "https://opacity.dev",
     "topics": []
+  }, {
+    "repo": "thebrowsercompany/swift-winrt",
+    "desc": "Swift Language Projection for WinRT",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "apple/swift-format",
+    "desc": "Formatting technology for Swift source code",
+    "officialSite": "",
+    "topics": []
   }
 ]

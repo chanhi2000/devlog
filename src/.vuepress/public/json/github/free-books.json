@@ -219,5 +219,10 @@
     "desc": "Bootstrap Kubernetes the hard way. No scripts.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "KAYOKG/BibliotecaDev",
+    "desc": "📚 Biblioteca de livros essenciais da área da programação.",
+    "officialSite": "",
+    "topics": ["biblioteca-do-desenvolvedor", "english", "leitura", "livro", "livros-desenvolvedor", "pdf", "portuguese"]
   }
 ]

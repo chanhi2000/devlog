@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/XTOcuqXgXGWFG9ukRxdPkFRK0-QcYaPQ1XnKe7nKdkO6y_9OKdpo0_-XxyGRk1fzUqrJfsnY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8aPzE3WDB1o", "title": "나의 개발자 취준, 신입, 이직 실패 경험기" },
+    { "id": "V_26j1nRAsU", "title": "레거시 시스템 차세대/재개발/개편 시 마이그레이션에 대해" },
+    { "id": "aX5a7TyRP8U", "title": "좋아요 여부 + 해제스펙 추가하기+ 회원/비회원 API 개발 - [쩌스트 백엔드 개발]" },
+    { "id": "woCvxz_mJCg", "title": "좋아요 조회 리펙토링 + 레이어/캐싱 전략 - [토이 프로젝트 쩌스트 백엔드]" },
+    { "id": "lq1ae1a91yI", "title": "프로젝트 관리 기본 소양 (feat. 배포를 미루지 말자)" },
+    { "id": "-3Wp_KGdnk8", "title": "My 개념 지옥" },
+    { "id": "pimYIfXCUe8", "title": "지속 성장 가능한 소프트웨어를 만들어가는 방법" },
     { "id": "w83Pa-xfOCM", "title": "캐시는 언제 도입 해야할까? (feat.복합 질문)" },
     { "id": "GkwHwS6L-8E", "title": "커뮤니케이션이 힘들때 어떻게 해야할까?" },
     { "id": "yDOT2-6KPZc", "title": "오버엔지니어링 판단 기준" },

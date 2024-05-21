@@ -73,4 +73,10 @@ tag:
 
 ---
 
+## Jesse Squires
+
+- [Xcode does not have access to your shell environment](https://www.jessesquires.com/blog/2023/12/06/xcode-shell-env)
+
+---
+
 <TagLinks />

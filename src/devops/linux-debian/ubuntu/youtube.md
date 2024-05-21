@@ -19,4 +19,6 @@ tag:
 
 ---
 
+<MyYouTubeItems jsonName="yu-UbuntuKorea" /><!-- Ubuntu Korea -->
+
 <TagLinks />

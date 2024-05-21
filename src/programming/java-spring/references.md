@@ -40,9 +40,16 @@ head:
 
 - [Redirect 서버 리팩토링 - 파일럿 프로젝트](https://zuminternet.github.io/redirect-refactoring/)
 
+<!-- TODO: 작성 (/explore/articles/zuminternet.github.io/redirect-refactoring.md) -->
+
 ### DZone
 
 - [Json Web Token: How to Secure a Spring Boot REST API](https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api)
+
+### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+
+- [Can JPA be persuaded to convert between eg UUIDs and Strings?](https://stackoverflow.com/questions/8446378/can-jpa-be-persuaded-to-convert-between-eg-uuids-and-strings)
+- [Spring JPA repoistory findBy IN List - allow null](https://stackoverflow.com/questions/28898132/spring-jpa-repoistory-findby-in-list-allow-null)
 
 ### <FontIcon icon="fa-brands fa-medium"/>Medium
 

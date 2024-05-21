@@ -391,7 +391,7 @@ PS> ./convert-ps2md.ps1 myscript.ps1
 param([string]$filename = "")
 
 function EncodePartOfHtml { param([string]$Value)
-    ($Value -replace '<', '&lt;') -replace '>', '&gt;'
+    ($Value -replace '<', '&lt;') -replace '>', '>'
 }
 
 function GetCode { param($Example)

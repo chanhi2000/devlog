@@ -237,6 +237,7 @@ export const sidebarEn = sidebar({
             articleSidebars.droidcon("java-android"),
             articleSidebars.ktAcademy("kotlin-android"),
             articleSidebars.nhn("java-android"),
+            articleSidebars.banksalad("java-android"),
             articleSidebars.antonioleiva("kotlin-android"),
           ]
         }
@@ -343,6 +344,7 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/npm/README.md',
         '/programming/npm/references.md',
+        '/programming/npm/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
@@ -399,6 +401,7 @@ export const sidebarEn = sidebar({
             '/programming/js-react/articles/README.md',
             articleSidebars.freecodecamp("js-react"),
             articleSidebars.yozm("js-react"),
+            articleSidebars.woowahan("js-react"),
             articleSidebars.zuminternet("js-react"),
           ]
         }
@@ -1139,6 +1142,24 @@ export const sidebarEn = sidebar({
         '/tool/notion/README.md',
         '/tool/notion/references.md',
         '/tool/notion/youtube.md',
+      ]
+    }, {
+      text: 'Figma',
+      collapsible: true,
+      icon: 'fa-brands fa-figma',
+      children: [
+        '/tool/figma/README.md',
+        '/tool/figma/plugins.md',
+        '/tool/figma/references.md',
+        '/tool/figma/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/figma/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'Wireshark',
@@ -1980,6 +2001,7 @@ export const sidebarEn = sidebar({
       children: [
         '/ai/gemini/README.md',
         '/ai/gemini/references.md',
+        '/ai/gemini/youtube.md',
       ]
     },  {
       text: 'Claude',
@@ -2135,6 +2157,7 @@ export const sidebarEn = sidebar({
         articleSidebars.d2(), 
         articleSidebars.nhn(),
         articleSidebars.linecorp(),
+        articleSidebars.banksalad(),
         articleSidebars.oliveyoung(),
         articleSidebars.gmarket(),
         articleSidebars.zuminternet(),

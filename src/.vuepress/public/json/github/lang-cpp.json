@@ -1323,5 +1323,15 @@
     "desc": "微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.",
     "officialSite": "",
     "topics": ["chatglm", "chatgpt", "gemini", "hook", "robot", "wechat"]
+  }, {
+    "repo": "rashadphz/farfalle",
+    "desc": "🔍 AI search engine - self-host with local or cloud LLMs",
+    "officialSite": "https://www.farfalle.dev/",
+    "topics": ["fastapi", "generative-ui", "gpt-4o", "groq", "llm", "nextjs", "ollama", "openai", "perplexity", "react", "search-engine", "shadcn-ui", "tailwindcss"]
+  }, {
+    "repo": "xbmc/xbmc",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
+    "officialSite": "https://kodi.tv/",
+    "topics": ["android", "c-plus-plus", "entertainment-hub", "hacktoberfest", "home-theater", "ios", "kodi", "linux", "macos", "media-center", "media-player", "multimedia", "python", "windows-desktop", "windows-uwp", "xbmc", "xml"]
   }
 ]

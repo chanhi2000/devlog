@@ -112,5 +112,6 @@ tag:
 <MyYouTubeItems jsonName="yu-MUQ_UNKNOWN" /><!-- MUQ_UNKNOWN -->
 <MyYouTubeItems jsonName="yu-codingnoodle" /><!-- 코딩국수 -->
 <MyYouTubeItems jsonName="yu-LearnEDU" /><!-- LearnEDU -->
+<MyYouTubeItems jsonName="yu-learnpratap" /><!-- Learn with Pratap -->
 
 <TagLinks />

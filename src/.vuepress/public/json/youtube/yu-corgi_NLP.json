@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/H2oNAmVST79Z0eWeC2eDhPSCdfr7jdnB-5mTbR2ZwWSNR9aE6SAq0dAqt4no6sDDVX3erwJQvII=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GH9v2ZtAhKI", "title": "기나긴 프롬프트, RAG로 해결하자.[Retrieval meets Long Context Large Language Models]|꼬꼬엔" },
+    { "id": "Oug3Pl_m-c0", "title": "얼마나 작은 단위로 검색해야 할까요?[Dense X Retrieval: What Retrieval Granularity Should We Use?]|꼬꼬엔" },
+    { "id": "QqEfUAo0_dg", "title": "RAG에서 Query에 따라서 다른 전략으로 Retrieval 하자[Adaptive-RAG: Learning to Adapt Retrieval-Augmented ...]|꼬꼬엔" },
+    { "id": "NtNHgefzLo0", "title": "LLM은 훌륭한 Document 리랭커다[Large Language Models are Effective Text Rankers with Pairwise Ranking..]|꼬꼬엔" },
     { "id": "JM6j8HTy97E", "title": "불필요한 내용을 줄이면 RAG가 성능이 올라간다고?!-2[RECOMP: IMPROVING RETRIEVAL-AUGMENTED LMS WITH COMPRESSION ...]|꼬꼬엔" },
     { "id": "leT_0eGNBFs", "title": "불필요한 내용을 줄이면 RAG가 성능이 올라간다고?!-1[RECOMP: IMPROVING RETRIEVAL-AUGMENTED LMS WITH COMPRESSION ...]|꼬꼬엔" },
     { "id": "I9HCNVEvnCY", "title": "Q: 이미지 인식을 위해 컨볼루션 신경망(CNN)을 구현하는 방법을 설명하세요. CNN의 주요 레이어는 무엇이며 이미지 처리에 어떻게 기여하나요? |꼬꼬면" },

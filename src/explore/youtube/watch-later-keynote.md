@@ -71,13 +71,11 @@ tag:
 <MyYouTubeItems jsonName="yu-AWSKorea" /><!-- Amazon Web Services Korea -->
 <MyYouTubeItems jsonName="yu-OracleKorea" /><!-- Oracle Korea -->
 <MyYouTubeItems jsonName="yu-ndc" /><!-- NDC Conferences-->
-<MyYouTubeItems jsonName="yu-UbuntuKorea" /><!-- Ubuntu Korea -->
 <MyYouTubeItems jsonName="yu-vmwarecloudnativeapps816" /><!-- VMware Cloud Native Apps -->
 <MyYouTubeItems jsonName="yu-MATLAB" /><!-- MATLAB -->
 <MyYouTubeItems jsonName="yu-CppCon" /><!-- CppCon -->
 <MyYouTubeItems jsonName="yu-qiskit" /><!-- Qiskit -->
 <MyYouTubeItems jsonName="yu-hackaday" /><!-- HACKADAY -->
-<MyYouTubeItems jsonName="yu-infograb" /><!-- InfoGrab -->
 <MyYouTubeItems jsonName="yu-Pusher_realtime" /><!-- Pusher -->
 <MyYouTubeItems jsonName="yu-infoq" /><!-- InfoQ -->
 <MyYouTubeItems jsonName="yu-BeJScommunity" /><!-- BeJS -->

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/EencoKi2CsO9ViIl3wVj-xZsdZdupgO-x-fCDNI2dioq0LjJ9U7DPz8f8on-o4lWavKov9etEw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "m_9j6MirrRk", "title": "The Challenges of Deploying IoT at Scale with John Kattenhorn" },
+    { "id": "1ZkrokFNjoo", "title": "Github Advanced Security with Jacob DePriest" },
+    { "id": "vV8EwtytfEI", "title": "How to REALLY use Microsoft Word: Styles, Multilevel Lists, and Outline View" },
+    { "id": "Jhgov6bh_pU", "title": "Digital archaeology reading 40 year old C64 Floppy Disks with a Greaseweazle, Fluxengine, and Aaru" },
+    { "id": "mstllNRWBV0", "title": "Open Core Open Source with Mermaid Chart's Knut Sveidqvist" },
     { "id": "gvEecvqKybc", "title": "Our Retro FPGA future powered by Jose Tejada (JOTEGO)" },
     { "id": "_AxXtXwdZmY", "title": "How to run a local AI chatbot on Windows in 5 min, no cuts, no edits, with Ollama, LMStudio, OpenAI" },
     { "id": "j37SF0Ab3oY", "title": "Reinventing the API Gateway with Zuplo's Josh Twist" },

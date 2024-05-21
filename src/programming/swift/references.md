@@ -17,9 +17,9 @@ tag:
 
 ---
 
-
 ## <FontIcon icon="fa-brands fa-swift"/>Swift
 
+- [Install Swift](https://www.swift.org/install/)
 - [Swift Summer of Code 2023 Summary](https://www.swift.org/blog/summer-of-code-2023-summary/)
 - [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift)
 - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
@@ -30,14 +30,16 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-apple"/>fficial Docs
+## <FontIcon icon="fa-brands fa-apple"/>Official Docs
 
 - [WebObjectsOverview](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
+- [Hello Developer: January 2024](https://developer.apple.com/news/?id=8fppguuh)
 
 ---
 
 ## Nonstrict
 
+- [Transferable drag & drop with only a FileRepresentation not working on macOS](https://nonstrict.eu/blog/2023/transferable-drag-drop-fails-with-only-FileRepresentation)
 - [WWDC Index](https://nonstrict.eu/wwdcindex/)
 
 ---
@@ -59,6 +61,10 @@ tag:
 
 - [`speakinginswift` - Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
 - [`jacobbartlett` - How to use SwiftData outside SwiftUI](https://jacobbartlett.substack.com/p/swiftdata-outside-swiftui/)
+- [`@varrall` / Adapting an App to visionOS](https://varrall.substack.com/p/adapting-an-app-to-visionos)
+- [`@jacobbartlett` / he 2FA app that tells you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
+- [`@fatbobman` / Fatbobman's Swift Weekly #026](https://weekly.fatbobman.com/p/fatbobmans-swift-weekly-026)
+- [`@rudrank` / Exploring Claude: Streaming Messages Using Claude 3 Haiku](https://www.rudrank.com/exploring-claude-streaming-messages-using-claude-3-haiku)
 
 ---
 
@@ -104,6 +110,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`dimillian` / Adding AI-generated image description to Ice Cubes](https://dimillian.medium.com/adding-ai-generated-image-description-to-ice-cubes-c4e7990a5915)
 - [Ask Apple 2022 Q&A Related on Core Data (Part 1)](https://itnext.io/ask-apple-2022-q-a-related-on-core-data-part-1-59b9a9040322)
 - [SwiftDataKit: Unleashing Advanced Core Data Features in SwiftData](https://itnext.io/swiftdatakit-unleashing-advanced-core-data-features-in-swiftdata-3fcd5f443c99)
 - [How to build an iOS Live Activity](https://medium.com/kinandcartacreated/how-to-build-ios-live-activity-d1b2f238819e)
@@ -116,13 +123,20 @@ tag:
 - [`@domen.lanisnik` - Swift Cheatsheet for Android/Kotlin Developers](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6)
 - [`@jpmtech` / Dice Challenge in SwiftUI](https://medium.com/@jpmtech/dice-challenge-in-swiftui-a26c82ac1367)
 
-
 ---
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Swift: Evolution and backward compatibility. Exploring `@available` and `#available` attributes.](https://dev.to/bsorrentino/swift-evolution-and-backward-compatibility-exploring-available-and-available-attributes-51il)
 
+
+---
+
+## mastodon
+
+- [`@uliwitness` / "Wow! I hadn't realized calling…"](https://chaos.social/@uliwitness/111727882552827926)
+
+---
 
 ## Sarunw
 
@@ -155,15 +169,6 @@ tag:
 - [Sending trial notifications with provisional authorization on iOS](https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS/)
 - [iOS app setup for remote push notifications](https://nilcoalescing.com/blog/RemotePushSetup)
 - [Testing remote push notifications on iOS simulator in Xcode 14](https://nilcoalescing.com/blog/TestingRemotePushOniOSSimulator)
-
----
-
-## Substack
-
-- [`@varrall` - Adapting an App to visionOS](https://varrall.substack.com/p/adapting-an-app-to-visionos)
-- [`@jacobbartlett` - he 2FA app that tells you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
-- [`@fatbobman` - Fatbobman's Swift Weekly #026](https://weekly.fatbobman.com/p/fatbobmans-swift-weekly-026)
-- [`@rudrank` - Exploring Claude: Streaming Messages Using Claude 3 Haiku](https://www.rudrank.com/exploring-claude-streaming-messages-using-claude-3-haiku)
 
 ---
 
@@ -292,12 +297,6 @@ tag:
 - [Discovering Swift Algorithms package](https://swiftwithmajid.com/2024/02/13/discovering-swift-algorithms-package/)
 - [Mastering Preview macro in Swift](https://swiftwithmajid.com/2023/10/17/mastering-preview-macro-in-swift/)
 - [Trigger value pattern in SwiftUI](https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/)
-
----
-
-## pointfree
-
-- [Being a good citizen in the land of `SwiftSyntax`](https://www.pointfree.co/blog/posts/116-being-a-good-citizen-in-the-land-of-swiftsyntax)
 
 ---
 
@@ -525,6 +524,7 @@ tag:
 
 ## finn voorhees
 
+- [Reading and Writing Spatial Video with `AVFoundation`](https://www.finnvoorhees.com/words/reading-and-writing-spatial-video-with-avfoundation/)
 - [Subscribing to SwiftData changes outside SwiftUI](https://www.finnvoorhees.com/words/subscribing-to-swiftdata-changes-outside-swiftui/)
 
 ---
@@ -575,6 +575,56 @@ tag:
 ## Filip Němeček's Blog
 
 - [Fixing weird shadow animation glitch in SwiftUI](https://nemecek.be/blog/202/fixing-weird-shadow-animation-glitch-in-swiftui)
+
+---
+
+## Swift on Server
+
+- [Developing with Swift in Visual Studio Code](https://swiftonserver.com/developing-with-swift-in-visual-studio-code/)
+
+---
+
+## Dean’s blog
+
+- [Asynchronous SwiftUI buttons](https://blog.thomasdurand.fr/story/2024-01-14-asynchronous-swiftui-buttons)
+
+---
+
+## Artem Novichkov – Bearded iOS developer from Siberia 👨🏻‍💻
+
+- [Remove background from image in SwiftUI](https://www.artemnovichkov.com/blog/remove-background-from-image-in-swiftui)
+
+---
+
+## Point-Free: A video series exploring advanced programming topics in Swift.
+
+- [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
+- [Being a good citizen in the land of `SwiftSyntax`](https://www.pointfree.co/blog/posts/116-being-a-good-citizen-in-the-land-of-swiftsyntax)
+- [Perception: A back-port of `@Observable`](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
+
+---
+
+## martinmitrevski
+
+- [`AnyView`’s impact on SwiftUI performance](https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/)
+
+---
+
+## Lucas van Dongen
+
+- [Exploring Actors and Protocol Extensions](https://lucasvandongen.dev/swift_actors_and_protocol_extensions.php)
+
+---
+
+## @samwize | ¯_(ツ)_/¯
+
+- [Should you add final to all your Swift classes?](https://samwize.com/2023/12/15/should-you-add-final-to-all-your-swift-classes)
+
+---
+
+## Martin's Tech Journal
+
+- [Modularized SwiftUI: Stacked sheet navigation with multiple modals](https://blog.martinp7r.com/posts/decoupled-stacked-sheet-navigation-with-multiple-modals-in-swiftui)
 
 ---
 

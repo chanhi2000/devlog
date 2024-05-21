@@ -398,6 +398,8 @@ tag:
 - [`Coins Bench` - Mocking Addresses Without Private Keys in Hardhat Tests](https://coinsbench.com/mocking-addresses-without-private-keys-in-hardhat-tests-de35f960090a)
 - [`naver-place-dev` - 네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
 - [`mathpresso` / 웹에서 프리 드로잉 밑바닥부터 구현하기](https://blog.mathpresso.com/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC-%EB%93%9C%EB%A1%9C%EC%9E%89-%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-965a0d2253c1)
+- [`airbnb-engineering` / Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
+
 
 ---
 

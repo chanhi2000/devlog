@@ -62,6 +62,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Become an Open Source Project Maintainer",
+  "desc": "You might be wondering why you would want to become an open source maintainer.  Well, I can tell you from my own experience that you'll learn a lot, grow your network, and meet and collaborate with people you wouldn’t have the opportunity to otherwise.  It also helps you...",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-a-react-chatbot.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Blog - LINE ENGINEERING

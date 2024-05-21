@@ -46,7 +46,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -89,5 +88,8 @@ tag:
 <MyYouTubeItems jsonName="yu-BenminTV" /><!-- 민병욱 Benmin TV -->
 <MyYouTubeItems jsonName="yu-SIKANDARshaik" /><!-- Sikandar Shaik -->
 <MyYouTubeItems jsonName="yu-TheoriTV" /><!-- 티오리티비 TheoriTV -->
+<MyYouTubeItems jsonName="yu-CyberGizmo" /><!-- DJ Ware -->
+<MyYouTubeItems jsonName="yu-an0n_ali" /><!-- An0n Ali -->
+<MyYouTubeItems jsonName="yu-VeritasTechnologies" /><!-- Veritas Technologies -->
 
 <TagLinks />

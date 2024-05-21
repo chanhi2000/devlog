@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "circlebackai",
+    "name": "Circleback",
+    "profile": "https://yt3.googleusercontent.com/jc2GHUmkMcuCnOlb5QqhFW3a19O4Pi8PGQ97AIGRZfZs82ghGis7460lhM2z7dtdB3lOu3t1Kk0=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "YwgybokugHg", "title": "Set up custom vocabulary in Circleback" },
+    { "id": "sqs21sBewq8", "title": "Update HubSpot contacts automatically after meetings with Circleback" },
+    { "id": "PQIHmsGJSjE", "title": "Update Attio with notes automatically after meetings with Circleback" }
+  ],
+  "playlists": [
+
+  ]
+}

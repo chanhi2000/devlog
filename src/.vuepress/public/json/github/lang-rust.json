@@ -1419,5 +1419,10 @@
     "desc": "A massively parallel, high-level programming language",
     "officialSite": "https://higherorderco.com",
     "topics": []
+  }, {
+    "repo": "build-trust/ockam",
+    "desc": "Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.",
+    "officialSite": "https://ockam.io",
+    "topics": ["authentication", "authorization", "credentials", "distributed-systems", "e2ee", "encrypted-connections", "encrypted-messages", "encryption", "end-to-end-encryption", "identity", "kafka", "key-management", "messaging", "rust", "security", "snowflake", "trust", "zero-trust"]
   }
 ]

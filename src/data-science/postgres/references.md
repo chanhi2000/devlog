@@ -252,4 +252,10 @@ tag:
 
 ---
 
+## tembo
+
+- [Introducing `pg_timeseries`: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
+
+---
+
 <TagLinks />

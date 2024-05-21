@@ -33,6 +33,12 @@ tag:
 
 ---
 
+## Substack
+
+- [`speakinginswift` - Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
+
+---
+
 ## openreply
 
 - [Set Up CodeGPT In Visual Studio Code](https://blog.openreplay.com/set-up-codegpt-in-visual-studio-code)

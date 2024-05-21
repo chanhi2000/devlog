@@ -52,7 +52,7 @@ head:
 
 > Updated for Xcode 15
 
-Any SwiftUI view can be partially or wholly transparent using the <code>opacity()</code> modifier. This accepts a value between 0 (completely invisible) and 1 (fully opaque), just like the <code>alpha</code> property of <code>UIView</code> in UIKit.
+Any SwiftUI view can be partially or wholly transparent using the `opacity()` modifier. This accepts a value between 0 (completely invisible) and 1 (fully opaque), just like the `alpha` property of `UIView` in UIKit.
 
 For example, this creates a text view with a red background, then gives it 30% opacity:
 

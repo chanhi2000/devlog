@@ -190,7 +190,6 @@ head:
 <MyYouTubeItems jsonName="yu-NerdCademyDev" /><!-- NerdCademy -->
 <MyYouTubeItems jsonName="yu-ColorCodeio" /><!-- ColorCode -->
 <MyYouTubeItems jsonName="yu-blogcreator6109" /><!-- 블로그 크리에이터 -->
-<MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
 <MyYouTubeItems jsonName="yu-jahiddev" /><!-- Jahid Anowar -->
 <MyYouTubeItems jsonName="yu-Pentacode" /><!-- Pentacode -->
 <MyYouTubeItems jsonName="yu-bugbytes3923" /><!-- BugBytes -->

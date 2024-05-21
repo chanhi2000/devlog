@@ -5224,5 +5224,10 @@
     "desc": "personal scripts to make life easier",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "entropy-research/Devon",
+    "desc": "Devon: An open-source pair programmer",
+    "officialSite": "",
+    "topics": ["code-generation", "llama3"]
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "DilipItAcademy",
+    "name": "Dilip IT Academy",
+    "profile": "https://yt3.googleusercontent.com/BxYtMcOJVuVpjewmbGgx5qDHqLb20FKKhf5hN6qtp3axCe22m7pVEwoLTeXgiygoM0DaCXJb=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/c1tAmdeHF2Yp96v2-gEcrPmVmpbQk1pmpOyXoDox9mz3vmDOFBqmGneDolIHZxVlnrgJ4mIpMg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BETkRYeQa8w", "title": "JAVA 8 | Features | Optional Class in JAVA | Tutorail | Dilip Singh" },
+    { "id": "i7d_BakjplM", "title": "Stream API Tutorial | Stream Methods | Stream Operations | Interview Questions | JAVA | Dilip Singh" },
+    { "id": "kEEoKqdVc_4", "title": "JAVA 8  Features Tutorial | Functional Interfaces | Lambda Expressions | Optional Class | Stream API" },
+    { "id": "MFxMw6jaORE", "title": "Java | Default Methods | Static Methods | Interview Questions | Dilip Singh" },
+    { "id": "uZaWav8gJcQ", "title": "Java Interview |  Spring Boot |  Micro Services | 3 Years Experience Developer" }
+  ],
+  "playlists": [
+
+  ]
+}

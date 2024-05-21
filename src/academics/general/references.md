@@ -426,4 +426,10 @@ tag:
 
 ---
 
+## Ryan Marcus · UPenn
+
+- [Overflow in consistent hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
+
+---
+
 <TagLinks />

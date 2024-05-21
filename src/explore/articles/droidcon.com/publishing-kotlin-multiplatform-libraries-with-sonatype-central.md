@@ -15,9 +15,28 @@ tag:
   - android
   - kotlin-multiplatform
   - kmp
+head:
+  - - meta:
+    - property: og:title
+      content: Article(s) > Publishing Kotlin Multiplatform Libraries With Sonatype Central
+    - property: og:description
+      content: Publishing Kotlin Multiplatform Libraries With Sonatype Central
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.html
+prev: /programming/java-android/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Android > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/java-android/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -34,6 +53,8 @@ tag:
 ```
 
 > 2024.04.18
+
+<!-- TODO: 작성 -->
 
 ---
 

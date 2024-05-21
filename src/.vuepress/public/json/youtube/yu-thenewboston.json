@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/9DKy95AxTFOd98MqP1P6JzG1JayMWonpB3UkQLu5noWEcyy0hdMJr94auTgNrHY8APrxdSRQKd0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_7zmngXU3vE", "title": "Prompt Engineering for Beginners - Tutorial 17 - Anthropic Claude 3" },
+    { "id": "QGORdKKzEkY", "title": "LLM Application Development - Tutorial 3 - RAG" },
+    { "id": "goW1ssfTQzU", "title": "LLM Application Development - Tutorial 2 - Evaluations" },
+    { "id": "u4LMdo-2EP4", "title": "LLM Application Development - Tutorial 1 - Introduction" },
+    { "id": "Hb3v7zcu6UY", "title": "LLM Application Development - Tutorial 5 - Memory" },
+    { "id": "1xmaUjeCjjc", "title": "LLM Application Development - Tutorial 4 - Routing" },
     { "id": "jSVVsD3H7zs", "title": "Prompt Engineering for Beginners - Tutorial 14 - Creating Prompt Templates" },
     { "id": "8hW-OjwpwMk", "title": "Prompt Engineering for Beginners - Tutorial 15 - Evaluation Pipeline" },
     { "id": "t8QuD3s9GsI", "title": "Prompt Engineering for Beginners - Tutorial 16 - Anthropic" },

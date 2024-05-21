@@ -91,7 +91,7 @@ head:
 
 ```makefile
 Target : [Prerequisites]
-	Recipe
+  Recipe
 ```
 
 - `Target`
@@ -110,23 +110,23 @@ Target : [Prerequisites]
 
 ```makefile
 Target: SourceFile
-	Command
+  Command
 ```
 
 간단한 예로 들면 아래와 같이 작성할 수 있다.
 
 ```makefile
 hello: hello.c
-	gcc -o hello hello.c
+  gcc -o hello hello.c
 ```
 
 그러고, 생성된 파일을 삭제하거나 복사하는 명령도 추가로 작성할 수도 있다.
 
 ```makefile
 clean:
-	rm -f *~ hello 
+  rm -f *~ hello 
 install: hello 
-	install -s hello.exe Path
+  install -s hello.exe Path
 ```
 
 `make`를 실행할 때에 아무런 인자를 지정하지 않으면 맨 위에 있는 `Target`이 실행된다. 위의 `clean`이나 `install`을 실행하고 싶다면 아래와 같이 인수를 지정한다. `shell make clean make install` `Makefile`이 아닌 다른 파일을 `Makefile`로 지정하고 싶다면, `-f` 옵션으로 다음과 같이 실행할 수 있다.
@@ -141,7 +141,7 @@ make -f sample.mk
 CXX            = g++
 OPTIMIZE       = -O3
 CFLAGS         = -IC:/Users/include \
-	-IC:/Python/include 
+  -IC:/Python/include 
 DEST           = C:/Users/Local
 LDFLAGS        = -LC:/Users/Local/libs
 LIBS           = -lpython
@@ -149,10 +149,10 @@ OBJS           = hello
 
 all: clean $(PROGRAM) install
 $(PROGRAM): $(OBJS)
-	$(CXX) -o $(OBJS) $(OBJS).cpp $(CFLAGS) $(LDFLAGS) $(LIBS)
+  $(CXX) -o $(OBJS) $(OBJS).cpp $(CFLAGS) $(LDFLAGS) $(LIBS)
 clean: rm -f *~ $(OBJS)
 install: $(PROGRAM)
-	install -s $(OBJS).exe $(DEST)
+  install -s $(OBJS).exe $(DEST)
 ```
 
 ---
@@ -165,7 +165,7 @@ install: $(PROGRAM)
 
 다양화되는 규칙은 굳이 설명하지 않아도 미리 암묵적인 정의된 변수가 있다.
 
-<FontIcon icon="iconfont icon-c"/>C 소스 파일의 컴파일에 사용되는 레시피는 실제로 `$(CC) -c $(CFLAGS) $(CPPFLAGS)`라는 코드가 실행되고 있다. `CC`, `CFLAGS`, `CPPFLAGS`는 미리 변수로 정의되어 있으며, 이 내용을 덮어써서 컴파일 레시피를 다시 작성할 수도 있다.
+.<FontIcon icon="iconfont icon-c"/>C 소스 파일의 컴파일에 사용되는 레시피는 실제로 `$(CC) -c $(CFLAGS) $(CPPFLAGS)`라는 코드가 실행되고 있다. `CC`, `CFLAGS`, `CPPFLAGS`는 미리 변수로 정의되어 있으며, 이 내용을 덮어써서 컴파일 레시피를 다시 작성할 수도 있다.
 
 ### 암묵적 변수 목록
 
@@ -175,7 +175,7 @@ install: $(PROGRAM)
 | :---: | :--- | :--- | 
 | `AR` | 아카이브 메인테넌스 프로그램 | `ar` |
 | `AS` | 어셈블리 실행 프로그램 | `as` |
-| `CC` | C 프로그램 컴파일 프로그램	| `cc` |
+| `CC` | C 프로그램 컴파일 프로그램  | `cc` |
 | `CXX` | C++ 프로그램 컴파일 프로그램 | `g++` |
 | `CO` | RCS의 배포 프로그램 | `co` |
 | `CPP` | C 전처리 프로그램, 표준 출력에 결과 | `$(CC) -E` |
@@ -193,7 +193,7 @@ install: $(PROGRAM)
 | `TANGLE` | 웹을 파스칼로 번역하는 프로그램 | `tangle` |
 | `CTANGLE` | C 웹을 C로 번역하는 프로그램 | `ctangle` |
 | `RM` | 파일을 삭제하는 명령 | `rm -f` |
-| `ARFLAGS` | 아카이브 유지 보수 프로그램에 제공하는 플래그	| `rv` |
+| `ARFLAGS` | 아카이브 유지 보수 프로그램에 제공하는 플래그  | `rv` |
 | `ASFLAGS` | 어셈블러에 주는 플래그(`.s` 또는 `.S` 파일에 대해 명시적으로 호출되는 경우) | 없음 |
 | `CFLAGS` | C 컴파일러에 주는 플래그 | 없음 |
 | `CXXFLAGS` | <FontIcon icon="fa-brands fa-name"/>C++ 컴파일러에 주는 플래그 | 없음 |
@@ -263,9 +263,9 @@ $(objects) : defs.h
 
 ```makefile
 aaa/bbb/foo:
-	echo $@     # => aaa/bbb/foo
-	echo $(@D)  # => aaa/bbb
-	echo $(@F)  # => foo
+  echo $@     # => aaa/bbb/foo
+  echo $(@D)  # => aaa/bbb
+  echo $(@F)  # => foo
 ```
 
 #### `$<` 종속성의 첫 번째 이름
@@ -280,9 +280,9 @@ aaa/bbb/foo:
 
 ```makefile
 output/foo: input/bar input/baz
-	echo $<     # => input/bar
-	echo $(<D)  # => input
-	echo $(<F)  # => bar
+  echo $<     # => input/bar
+  echo $(<D)  # => input
+  echo $(<F)  # => bar
 ```
 
 #### `$^` 대상의 모든 종속성 이름
@@ -297,9 +297,9 @@ output/foo: input/bar input/baz
 
 ```makefile
 output/foo: input/bar input/baz
-	echo $^     # => input/bar input/baz
-	echo $(^D)  # => input input
-	echo $(^F)  # => bar baz
+  echo $^     # => input/bar input/baz
+  echo $(^D)  # => input input
+  echo $(^F)  # => bar baz
 ```
 
 #### `$?` 대상보다 타임스탬프가 새로운 종속성의 이름
@@ -314,9 +314,9 @@ output/foo: input/bar input/baz
 
 ```makefile
 output/foo: input/bar input/baz
-	echo $?     # => input/bar
-	echo $(?D)  # => input
-	echo $(?F)  # => bar
+  echo $?     # => input/bar
+  echo $(?D)  # => input
+  echo $(?F)  # => bar
 ```
 
 #### `$+` 대상의 모든 종속성 이름
@@ -331,9 +331,9 @@ output/foo: input/bar input/baz
 
 ```makefile
 output/foo: input/baz input/baz input/baz
-	echo $+     # => input/baz input/baz input/baz
-	echo $(+D)  # => input input input
-	echo $(+F)  # => baz baz baz
+  echo $+     # => input/baz input/baz input/baz
+  echo $(+D)  # => input input input
+  echo $(+F)  # => baz baz baz
 ```
 
 #### `$*` 대상의 패턴 매칭과 일치하는 부분
@@ -393,14 +393,14 @@ INCLUDE := $(shell find $(INCDIRS) -type d)
 SRCDIR = ./srcs
 SRCS := $(shell find $(SRCDIR) -name *.c)
 all:
-	echo $(files) # => hoge.c foo.c
-	echo $(INCLUDE) # => include
-	echo $(SRCDIR) # => ./srcs
-	echo $(SRCS) # => hoge.c foo.c
+  echo $(files) # => hoge.c foo.c
+  echo $(INCLUDE) # => include
+  echo $(SRCDIR) # => ./srcs
+  echo $(SRCS) # => hoge.c foo.c
 
 RESULT = $(shell seq 1 10)
 all:
-	echo $(RESULT)  # => 1 2 3 4 5 6 7 8 9 10
+  echo $(RESULT)  # => 1 2 3 4 5 6 7 8 9 10
 ```
 
 #### `addprefix` 함수
@@ -412,7 +412,7 @@ all:
 ```makefile
 FILES := foo bar
 all:
-	echo $(addprefix src/,$(FILES))  # => src/foo src/bar
+  echo $(addprefix src/,$(FILES))  # => src/foo src/bar
 ```
 
 #### `dir` 함수
@@ -426,7 +426,7 @@ all:
 ```makefile
 FILES := src/hoge.c src/hoge.h index.html
 all:
-	echo $(dir $(FILES))  # => src/ src/ ./
+  echo $(dir $(FILES))  # => src/ src/ ./
 ```
 
 #### `notdir` 함수
@@ -436,7 +436,7 @@ all:
 ```makefile
 FILES := ./dir/hoge.txt
 all:
-	echo $(notdir $(FILES))  # => hoge.txt
+  echo $(notdir $(FILES))  # => hoge.txt
 ```
 
 #### 대체 참조

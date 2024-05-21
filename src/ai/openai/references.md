@@ -71,6 +71,7 @@ tag:
 - [Fine-tuning GPT-3.5-Turbo for Natural Language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
 - [Master the Perfect ChatGPT Prompt Formula](https://medium.com/@eldatero/master-the-perfect-chatgpt-prompt-formula-c776adae8f19)
 - [Connecting Custom GPTs to Slack in 5 minutes (no coding required)](https://snowwhale.medium.com/connecting-custom-gpts-to-slack-in-5-minutes-no-coding-required-17ca39644f5f)
+- [`misc-finance-economics-and-ai-ml` / GPT-4o, 대화를 통한 상호작용으로의 회귀](https://medium.com/misc-finance-economics-and-ai-ml/gpt-4o-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EC%9C%BC%EB%A1%9C%EC%9D%98-%ED%9A%8C%EA%B7%80-c1631b24972d)
 
 ---
 
@@ -323,6 +324,7 @@ tag:
 - [ChatGPT 활용 KIER 강의자료 중 업무효율화 SW](https://jehyunlee.github.io/2024/04/02/General-47_kierworkaccel/)
 - [KIER 강연 - AI활용 업무 효율화 방안](https://jehyunlee.github.io/2024/04/03/General-48_kierworkaccellec/)
 - [DALL.E inpainting으로 그림 그리기](https://jehyunlee.github.io/2024/05/19/General-51-dalleinpainting/)
+- [생성 AI 연구 활용 가이드](https://jehyunlee.github.io/2024/05/19/General-52-genairesearch/)
 
 ---
 
@@ -365,6 +367,12 @@ tag:
 
 <PDF url="https://arxiv.org/pdf/2405.04540" />
 <PDF url="https://arxiv.org/pdf/2405.00832" />
+
+---
+
+## 숲속얘기의 조용한 카페
+
+- [이미지 해석을 ChatGPT4와 ChatGPT4o에게 시켜보고 확인한 차이](https://blog.naver.com/fstory97/223451932063)
 
 ---
 

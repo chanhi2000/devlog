@@ -12,9 +12,38 @@ tag:
   - donnywals.com
   - swift
   - xcode
+head:
+  - - meta:
+    - property: og:title
+      content: Article(s) > How to use experimental Swift versions and features in Xcode?
+    - property: og:description
+      content: How to use experimental Swift versions and features in Xcode?
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/articles/donnywals.com/how-to-use-experimental-swift-versions-and-features-in-xcode.html
+prev: /programming/swift/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Swift > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/swift/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Xcode > Article(s)",
+  "desc": "Article(s)",
+  "link": "/tool/xcode/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -31,6 +60,8 @@ tag:
 ```
 
 > 2024.04.18
+
+<!--TODO: 작성 -->
 
 ---
 

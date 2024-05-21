@@ -22,7 +22,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -31,5 +30,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Gitlab" /><!-- Gitlab -->
 <MyYouTubeItems jsonName="yu-raaviblog105" /><!-- Raaviblog -->
 <MyYouTubeItems jsonName="yu-seefromfar143" /><!-- Ankit Malhotra -->
+<MyYouTubeItems jsonName="yu-infograb" /><!-- InfoGrab -->
 
 <TagLinks />

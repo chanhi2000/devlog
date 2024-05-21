@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "LcTakn-YxLo", "title": "Vue 3의 더 나은 상태관리를 위한 Pinia" },
+    { "id": "f9tISs0EpnE", "title": "Animation counter" },
+    { "id": "FRCmMF7rB2s", "title": "Vue 3에서 Ref와 Reactive의 차이점" },
+    { "id": "YvWcUfVoP6s", "title": "Svelte 강좌 소개 2024" },
     { "id": "I3I9N8Sw-jc", "title": "AI와 코딩하기   cody 익스텐션 사용기" },
     { "id": "Unkiy_ptB0Q", "title": "서울대생 부모 선택하기 :has" },
     { "id": "aluK-1mWi7A", "title": "4. vue3: 문서에 데이터 표시하기" },

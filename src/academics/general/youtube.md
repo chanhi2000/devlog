@@ -47,5 +47,8 @@ tag:
 <MyYouTubeItems jsonName="yu-chemophilia" /><!-- 화학하악 -->
 <MyYouTubeItems jsonName="yu-stanfordonline" /><!-- Stanford Online -->
 <MyYouTubeItems jsonName="yu-Minoschanel" /><!-- Minos -->
+<MyYouTubeItems jsonName="yu-AddOhms" /><!-- AddOhms -->
+<MyYouTubeItems jsonName="yu-Science_Fish" /><!-- 수상한생선 Life Science -->
+<MyYouTubeItems jsonName="yu-scibrother" /><!-- Sci-bro -->
 
 <TagLinks />

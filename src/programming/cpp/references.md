@@ -90,13 +90,14 @@ tag:
 - [[Q&A] `CMFCToolBarImages` 객체로 이미지가 로드 되지 않습니다.](https://blog.naver.com/tipsware/223438148641)
 - [[Q&A] MFC 프레임워크가 생성한 임시 객체를 직접 지우고 싶다면 어떻게 해야 하나요?](https://blog.naver.com/tipsware/223439926060)
 - [[답안] 삼각형 그리기 실습 과제 - Step 1](https://blog.naver.com/tipsware/223443088470)
-- [[EasyWin32] '굴림체'와 '굴림' 글꼴의 출력 차이](https://blog.naver.com/tipsware/223442475424?)
+- [[EasyWin32] '굴림체'와 '굴림' 글꼴의 출력 차이](https://blog.naver.com/tipsware/223442475424)
 - [[EasyWin32] 클립보드에 저장된 문자열 관리하기 - Step 1](https://blog.naver.com/tipsware/223441304129)
 - [[Q&A] MFC에서 대화 상자 기반이 아닌 프로그램을 만들려면 SDI나 MDI를 사용할 수밖에 없나요?](https://blog.naver.com/tipsware/223440301532)
 - [단어 단위로 문자열 이동하기 - Step 1](https://blog.naver.com/tipsware/223444602512)
 - [[EasyWin32] FillPieDCP 함수 실습 코드 - Step 1](https://blog.naver.com/tipsware/223449171281)
 - [[EasyWin32] FillPieDCP 함수에 대하여](https://blog.naver.com/tipsware/223449026943)
-- [[EasyWin32/Q&amp;A] "FillPieDCP 함수 실습 코드 - Step 1" 자료에서 궁금한 점이 있습니다.](https://blog.naver.com/tipsware/223449193878?)
+- [[EasyWin32/Q&amp;A] "FillPieDCP 함수 실습 코드 - Step 1" 자료에서 궁금한 점이 있습니다.](https://blog.naver.com/tipsware/223449193878)
+- [주어진 단어로 정해진 영어 문장 맞추기 - Step 4](https://blog.naver.com/tipsware/223451759752)
 
 ---
 
@@ -162,6 +163,7 @@ tag:
 
 - [[백준 1039번] 교환](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1039%EB%B2%88-%EA%B5%90%ED%99%98)
 - [[백준 1022번] 소용돌이 예쁘게 출력하기](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1022%EB%B2%88-%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4-%EC%98%88%EC%81%98%EA%B2%8C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+- [[백준 17404번] RGB거리 2](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17404%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC-2)
 
 ---
 

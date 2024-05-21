@@ -1474,5 +1474,10 @@
     "desc": "An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)",
     "officialSite": "",
     "topics": ["golang", "http", "http-proxy", "reverse-proxy", "tunneling"]
+  }, {
+    "repo": "initia-labs/initia",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

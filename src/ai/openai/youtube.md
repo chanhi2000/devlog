@@ -149,5 +149,9 @@ tag:
 <MyYouTubeItems jsonName="yu-JeffSu" /><!-- Jeff Su -->
 <MyYouTubeItems jsonName="yu-realchrishawkes" /><!-- Chris Hawkes -->
 <MyYouTubeItems jsonName="yu-EnjoyCreativeLife" /><!-- 런타임 -->
+<MyYouTubeItems jsonName="yu-dabidstudio-ho7fh" /><!-- 다비드스튜디오 dabidstudio  -->
+<MyYouTubeItems jsonName="yu-FASTCAMPUStv" /><!-- 패스트캠퍼스 -->
+<MyYouTubeItems jsonName="yu-NicholasRenotte" /><!-- Nicholas Renotte -->
+<MyYouTubeItems jsonName="yu-careerhackeralex" /><!-- 커리어해커 알렉스 -->
 
 <TagLinks />
