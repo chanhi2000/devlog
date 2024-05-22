@@ -6,6 +6,12 @@ icon: iconfont icon-apacheairflow
 category:
   - Python
   - Airflow
+tag:
+  - python
+  - py
+  - apache
+  - apacheairflow
+  - airflow
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -16,7 +22,7 @@ category:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/python-airflow/" />
+<ToCLocal basePath="/programming/py-airflow/" />
 
 ---
 

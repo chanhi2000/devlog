@@ -229,5 +229,10 @@
     "desc": "《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣",
     "officialSite": "https://llmbook-zh.github.io/",
     "topics": ["artificial-intelligence", "deep-learning", "deep-neural-networks", "deep-reinforcement-learning", "fine-tuning", "language-model", "large-language-models", "natural-language-processing", "nlp", "pretrained-models"]
+  }, {
+    "repo": "it-ebooks-0/geektime-books",
+    "desc": ":books: 极客时间电子书",
+    "officialSite": "",
+    "topics": []
   }
 ]

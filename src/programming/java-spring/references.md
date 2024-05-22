@@ -175,6 +175,8 @@ head:
 ### 컴공생의 발자취
 
 - [[내일배움캠프 22일차 TIL] Entity 상태 및 MySQL CLC 명령어와 개인과제 시작](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-22%EC%9D%BC%EC%B0%A8-TIL-Entity-%EC%83%81%ED%83%9C-%EB%B0%8F-MySQL-CLC-%EB%AA%85%EB%A0%B9%EC%96%B4%EC%99%80-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%8B%9C%EC%9E%91)
+- [[내일배움캠프 25일차 TIL] 쿠키-세션 방식과 JWT 기반 인증](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-24%EC%9D%BC%EC%B0%A8-TIL-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EB%B0%A9%EC%8B%9D%EA%B3%BC-JWT-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D)
+- [[내일배움캠프 5주차 WIL] Spring과 개인과제 그리고 독서토론](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%A3%BC%EC%B0%A8-WIL-Spring%EA%B3%BC-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
 
 ### Hide
 
@@ -198,9 +200,21 @@ head:
 - [스프링 부트 배너 적용하기(+ 변환 사이트 추천 및 color 변경)](https://atoz-develop.tistory.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EB%B0%B0%EB%84%88-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-%EB%B3%80%ED%99%98-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B6%94%EC%B2%9C-%EB%B0%8F-color-%EB%B3%80%EA%B2%BD)
 - [Spring Security Web을 사용하여 IP 접근 제어 구현하기](https://atoz-develop.tistory.com/entry/Spring-Security-Web%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-IP-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
+### 뽀글뽀글 개발 일지
+
+- [[내일배움캠프 24일차 TIL] ResponseEntity 및 ExceptionHandler](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-24%EC%9D%BC%EC%B0%A8-TIL-ResponseEntity-%EB%B0%8F-ExceptionHandler)
+- [Spring 파일 이미지 조회하기](https://bbogle2.tistory.com/entry/Spring-%ED%8C%8C%EC%9D%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
+- [Spring DTO + 파일 전송](https://bbogle2.tistory.com/entry/Spring-DTO-%ED%8C%8C%EC%9D%BC-%EC%A0%84%EC%86%A1)
+- [Spring Security 중복 로그인 방지](https://bbogle2.tistory.com/entry/Spring-Security-%EC%A4%91%EB%B3%B5-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%A9%EC%A7%80)
+- [Mybatis resultMap으로 쿼리 결과 하나의 DTO에 매핑하기 & Enum 매핑](https://bbogle2.tistory.com/entry/Mybatis-resultMap%EC%9C%BC%EB%A1%9C-%EC%BF%BC%EB%A6%AC-%EA%B2%B0%EA%B3%BC-%ED%95%98%EB%82%98%EC%9D%98-DTO%EC%97%90-%EB%A7%A4%ED%95%91%ED%95%98%EA%B8%B0-Enum-%EB%A7%A4%ED%95%91)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+
+### 우아한형제들 기술블로그
+
+- [배민광고리스팅 개발기(feat. 코프링과 DSL 그리고 코루틴)](https://techblog.woowahan.com/7349/) <!-- /explore/articles/techblog.woowahan.com/7349.md -->
 
 ### Kt.academy
 

@@ -99,6 +99,8 @@ tag:
 - [[EasyWin32/Q&amp;A] "FillPieDCP 함수 실습 코드 - Step 1" 자료에서 궁금한 점이 있습니다.](https://blog.naver.com/tipsware/223449193878)
 - [주어진 단어로 정해진 영어 문장 맞추기 - Step 4](https://blog.naver.com/tipsware/223451759752)
 - [[답안] FillPieDCP 함수 실습 과제 - Step 1](https://blog.naver.com/tipsware/223451125327)
+- [Pie 그리기 이해에서 화살표를 표시해 보세요.](https://blog.naver.com/tipsware/223453741261)
+- [Pie 도형이 차지하는 각을 표시해 보세요.](https://blog.naver.com/tipsware/223454321213)
 
 ---
 
@@ -170,6 +172,12 @@ tag:
 ## Blog | Max Bernstein
 
 - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
+
+---
+
+## The Pasture | The musings, ideas, discussions, and sometimes silly words from a digital sheep magician
+
+- [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 
 ---
 

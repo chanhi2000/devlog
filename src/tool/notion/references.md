@@ -4,22 +4,17 @@ title: References
 description: Notion > References
 icon: iconfont icon-share
 category:
+  - Productivity
   - Notion
   - References
 tag: 
-  - notion
   - productivity
+  - notion
 ---
 
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
-
----
-
-## Tools
-
-- [Notion Avatar Maker](https://notion-avatar.vercel.app)
 
 ---
 

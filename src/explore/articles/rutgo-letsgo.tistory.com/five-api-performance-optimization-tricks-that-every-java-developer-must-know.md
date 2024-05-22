@@ -48,7 +48,7 @@ prev: /programming/java-spring/articles/README.md
 
 > 2024.04.20
 
-<!-- TODO: 내용 채우기 -->
+<!-- TODO:  작성 -->
 
 ---
 

@@ -36,4 +36,16 @@ tag:
 
 ---
 
+## DISQUIET
+
+- [팔로우 기능 개발 노트 - Feed](https://disquiet.io/@jeong7331/makerlog/1503)
+
+---
+
+## Be an Overachiever
+
+- [Redis를 활용한 다양한 시스템 설계](https://devs0n.tistory.com/92)
+
+---
+
 <TagLinks />

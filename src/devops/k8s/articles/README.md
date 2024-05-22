@@ -4,6 +4,7 @@ title: Article(s)
 description: Kubernetes > Article(s)
 icon: fas fa-square-share-nodes
 category: 
+  - DevOps
   - Kubernetes
   - VM
   - Article(s)
@@ -11,6 +12,7 @@ tag:
   - blog
   - freecodecamp.org
   - yozm.wishket.com
+  - digitalocean.com
   - kubernetes
   - k8s
 head:
@@ -42,6 +44,16 @@ head:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "DigitalOcean | Cloud Infrastructure for Developers",
+  "desc": "An ocean of simple, scalable cloud solutions.",
+  "link": "https://digitalocean.com/",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
 }
 ```
 
@@ -128,6 +140,35 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+---
+
+## DigitalOcean | Cloud Infrastructure for Developers
+
+> digitalocean.com
+
+```component VPCard
+{
+  "title": "How To Secure Your Site in Kubernetes with cert-manager, Traefik, and Let’s Encrypt | DigitalOcean",
+  "desc": "Kubernetes is a popular way to host websites. As more websites interact with sensitive data, more browsers are requiring TLS to secure traffic. However, it c… ",
+  "link": "/explore/articles/digitalocean.com/how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(0,105,225,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Run Serverless Workloads with Knative on DigitalOcean Kubernetes | DigitalOcean",
+  "desc": "Knative is a Kubernetes-based platform that provides components to deploy and manage serverless workloads. Knative offers open-source Kubernetes integration,… ",
+  "link": "/explore/articles/digitalocean.com/how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(0,105,225,0.2)"
+}
+```
+
+
+
 
 ---
 

@@ -57,6 +57,7 @@ tag:
 
 ## Life Log
 
+- [인텔리제이 웹스톰 젯브레인 jetbrain 자동완성 단축키](https://ravenkim97.tistory.com/427)
 - [젯브레인 자동 줄바꿈 간격 조정](https://ravenkim97.tistory.com/430)
 
 ---

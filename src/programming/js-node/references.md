@@ -95,19 +95,26 @@ tag:
 
 ## 카카오엔터테인먼트 FE 기술블로그
 
-- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 1](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1)
-- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 2](https://fe-developers.kakaoent.com/2023/230421-beyond-solving-problem-part-2)
-- [나만의 Jest Matchers 만들기](https://fe-developers.kakaoent.com/2023/230216-custom-jest-matchers)
-- [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test)](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt)
-- [프론트엔드와 SOLID 원칙](https://fe-developers.kakaoent.com/2023/230330-frontend-solid)
-- [View Transitions API](https://fe-developers.kakaoent.com/2023/230403-view-transitions-api)
+- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 1](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230420-beyond-solving-problem-part-1.md) -->
+- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 2](https://fe-developers.kakaoent.com/2023/230421-beyond-solving-problem-part-2) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230421-beyond-solving-problem-part-2.md) -->
+- [나만의 Jest Matchers 만들기](https://fe-developers.kakaoent.com/2023/230216-custom-jest-matchers) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230216-custom-jest-matchers.md) -->
+- [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test)](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230223-backstopjs-vrt.md) -->
+- [프론트엔드와 SOLID 원칙](https://fe-developers.kakaoent.com/2023/230330-frontend-solid) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230330-frontend-solid.md) -->
+- [View Transitions API](https://fe-developers.kakaoent.com/2023/230403-view-transitions-api) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230403-view-transitions-api.md) -->
 
 ---
 
 ## 요즘IT
 
-- [프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법](/explore/articles/yozm.wishket.com/2483.md)
-
+```component VPCard
+{
+  "title": "프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법 | 요즘IT",
+  "desc": "프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법",
+  "link": "/explore/articles/yozm.wishket.com/2483.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 ---
 
 ## Deno
@@ -121,15 +128,11 @@ tag:
 
 ### 2020
 
-- [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby)
-
-<!-- TODO: 작성 (/explore/articles/blog.banksalad.com/build-a-website-with-gatsby.md) -->
+- [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/build-a-website-with-gatsby.md) -->
 
 ### 2017
 
-- [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage)
-
-<!-- TODO: 작성 (/explore/articles/blog.banksalad.com/typescript-local-storage.md) -->
+- [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/typescript-local-storage.md) -->
 
 ---
 

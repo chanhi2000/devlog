@@ -176,4 +176,10 @@ tag:
 
 ---
 
+## FPVSIM
+
+- [Drone Flying 101: An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
+
+---
+
 <TagLinks />

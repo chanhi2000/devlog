@@ -164,6 +164,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "abseil / C++ Tips of the Week",
+  "desc": "Battle-tested, Mom-approved",
+  "link": "https://abseil.io/tips/",
+  "logo": "https://abseil.io/favicons/favicon.ico",
+  "background": "rgba(40,53,147,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "AI News - TILNOTE",
   "desc": "GPT-4가 큐레이션한 AI에 대한 뉴스입니다. 구독하시면 매일 아침 8시 뉴스를 받아보실 수 있습니다.",
   "link": "https://tilnote.io/news",
@@ -290,6 +300,16 @@ https://gracefullight.dev/archive/
 
 ```component VPCard
 {
+  "title": "DigitalOcean | Cloud Infrastructure for Developers",
+  "desc": "An ocean of simple, scalable cloud solutions.",
+  "link": "https://digitalocean.com/",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Kt. Academy",
   "desc": "Teaching programming, with focus on the best practices.",
   "link": "https://kt.academy/article",
@@ -315,6 +335,26 @@ https://gracefullight.dev/archive/
   "link": "https://www.popit.kr/",
   "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
   "background": "rgba(0,21,41,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "카카오페이 기술 블로그",
+  "desc": "기술과 경험을 함께 공유합니다.",
+  "link": "https://tech.kakaopay.com/",
+  "logo": "https://tech.kakaopay.com/favicon.ico",
+  "background": "rgba(6,21,40,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "홈 | 카카오엔터테인먼트 FE 기술블로그",
+  "desc": "카카오 엔터테인먼트 프론트엔드 개발팀이 관심있는 기술의 경험과 노하우를 공유합니다.",
+  "link": "https://fe-developers.kakaoent.com/",
+  "logo": "https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded",
+  "background": "rgba(254,189,1,0.2)"
 }
 ```
 
@@ -419,6 +459,46 @@ https://gracefullight.dev/archive/
   "link": "https://oliveyoung.tech/blog/",
   "logo": "https://oliveyoung.tech/favicon-32x32.png?v=a4b11f19c0d38aff2ebd465d8801cd2d",
   "background": "rgba(173,209,81,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "DevTech - 데브시스터즈 기술블로그",
+  "desc": "탁월한 기술, 서비스, 콘텐츠로 전 세계 고객에게 최고의 경험을 선사합니다.",
+  "link": "https://tech.devsisters.com/",
+  "logo": "https://tech.devsisters.com/favicon-32x32.png?v=9dce5f969c7c2888a235a394755ba1a5",
+  "background": "rgba(255,95,0,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Hyperconnect Tech Blog | 하이퍼커넥트의 기술블로그입니다.",
+  "desc": "하이퍼커넥트의 기술블로그입니다.",
+  "link": "https://hyperconnect.github.io/",
+  "logo": "https://hyperconnect.github.io/assets/favicon.svg",
+  "background": "rgba(240,240,240,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Spoqa 기술 블로그",
+  "desc": "스포카 크리에이터의 경험과 배움을 공유합니다.",
+  "link": "https://spoqa.github.io/",
+  "logo": "https://spoqa.github.io/images/favicon.ico",
+  "background": "rgba(0,140,94,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "AB180 엔지니어링 베이스 | 기술블로그",
+  "desc": "에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다",
+  "link": "https://engineering.ab180.co/",
+  "logo": "https://oopy.lazyrockets.com/api/rest/cdn/image/7bbc75b5-1cdf-4b59-aec4-af3e335b3aad.png?d=16",
+  "background": "rgba(11,110,153,0.2)"
 }
 ```
 

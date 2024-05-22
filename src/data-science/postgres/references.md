@@ -258,4 +258,10 @@ tag:
 
 ---
 
+## Mattermost
+
+- [Making a Postgres query 1,000 times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
+
+---
+
 <TagLinks />

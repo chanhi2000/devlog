@@ -77,7 +77,7 @@ prev: /tool/chrome/articles/README.md
 
 > 2023.05.16
 
-<!-- TODO: 내용 채우기 -->
+<!-- TODO:  작성 -->
 
 ::: details See also
 

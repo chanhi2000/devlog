@@ -67,7 +67,7 @@ prev: /programming/js-vue/articles/README.md
 
 > 2020.09.11
 
-<!-- TODO: 내용 채우기 -->
+<!-- TODO:  작성 -->
 
 ---
 

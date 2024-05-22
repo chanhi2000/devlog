@@ -4,6 +4,7 @@ import { template as TEMPLATE_DOUGGREGOR } from './douggregor.net';
 import { template as TEMPLATE_D2 } from './d2.naver.com';
 import { template as TEMPLATE_FREECODECAMP } from './freecodecamp.org';
 import { template as TEMPLATE_FRONTENDMASTER } from './frontendmasters.com';
+import { template as TEMPLATE_DIGITALOCEAN } from './digitalocean.com';
 import { template as TEMPLATE_NHN } from './meetup.nhncloud.com';
 import { template as TEMPLATE_GANGNAMUNNI } from './blog.gangnamunni.com';
 import { template as TEMPLATE_WOOWAHAN } from './techblog.woowahan.com';
@@ -15,6 +16,7 @@ import { template as TEMPLATE_KT_ACADEMY } from './kt.academy';
 import { template as TEMPLATE_DROIDCON } from './droidcon.com';
 import { template as TEMPLATE_SITEPOINT } from './sitepoint.com';
 import { template as TEMPLATE_YOZM } from './yozm.wishket.com';
+import { template as TEMPLATE_POPIT } from './popit.kr';
 import { template as TEMPLATE_DEVKUMA } from './devkuma.com';
 import { template as TEMPLATE_DEVTOOLSTIPS } from './devtoolstips.org';
 import { template as TEMPLATE_PICCALILLI } from './piccalil.li';
@@ -25,6 +27,7 @@ import { template as TEMPLATE_SHOPIFY } from './shopify.engineering';
 import { template as TEMPLATE_RUTGO_LETSGO } from './tistory.com/rutgo-letsgo';
 import { template as TEMPLATE_ANTONIOLEIVA } from './antonioleiva.com';
 import { template as TEMPLATE_ZUMINTERNET } from './zuminternet.github.io';
+import { template as TEMPLATE_IMQA } from './blog.imqa.io';
 
 const EXT_MD = "md";
 const DEFAULT_KEY_ALL = "all";
@@ -60,10 +63,12 @@ export const sidebarByTemplate = (itemTemplate: SidebarInfoTemplate, type: strin
 export const articleSidebars = {
   freecodecamp:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FREECODECAMP, type),
   frontendmaster:     (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FRONTENDMASTER, type),
+  digitalocean:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DIGITALOCEAN, type),
   d2:                 (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_D2, type),
   nhn:                (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_NHN, type),
   gangnamunni:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GANGNAMUNNI, type),
   yozm:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_YOZM, type),
+  popit:              (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_POPIT, type),
   woowahan:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_WOOWAHAN, type),
   gmarket:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GMARKET, type),
   linecorp:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LINECORP, type),
@@ -84,6 +89,7 @@ export const articleSidebars = {
   rutgoLetsgo:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_RUTGO_LETSGO, type),
   antonioleiva:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_ANTONIOLEIVA, type),
   zuminternet:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_ZUMINTERNET, type),
+  imqa:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_IMQA, type),
 }
 
 export const hackingwithswift = (): SidebarGroupItem => ({

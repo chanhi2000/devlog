@@ -8,13 +8,13 @@ category:
   - Kotlin
   - Kafka
 tag:
+  - java
+  - kotlin
   - kafka
   - apache-kafka
 ---
 
 # {{ $frontmatter.description }} 관련
-
-
 
 <ShieldsGroup logos="openjdk,kotlin,apachekafka,eclipseide,eclipseadoptium"/>
 

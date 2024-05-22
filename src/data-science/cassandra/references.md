@@ -9,6 +9,14 @@ category:
 tag: 
   - sql
   - cassandar
+head:
+  - - meta:
+    - property: og:title
+      content: Cassandra > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/cassandra/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

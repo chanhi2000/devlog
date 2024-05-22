@@ -13,6 +13,14 @@ tag:
   - npm
   - node
   - node-package-manager
+head:
+  - - meta:
+    - property: og:title
+      content: NPM > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/npm/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

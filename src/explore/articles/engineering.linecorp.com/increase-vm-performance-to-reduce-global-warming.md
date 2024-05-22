@@ -20,7 +20,7 @@ head:
     - property: og:description
       content: 모두가 행복해지는 API 문서 통합과 자동화
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/engineering.linecorp.com/api-document-integration-and-documentation-automation.html
+      content: https://chanhi2000.github.io/explore/articles/engineering.linecorp.com/increase-vm-performance-to-reduce-global-warming.html
 prev: /programming/sh/articles/README.md
 ---
 

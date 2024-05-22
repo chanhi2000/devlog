@@ -18,7 +18,7 @@ head:
     - property: og:title
       content: Kafka > Youtube
     - property: og:description
-      content: Kafka > Youtube
+      content: Youtube
     - property: og:url
       content: https://chanhi2000.github.io/programming/java-kafka/youtube.html
 ---

@@ -13,6 +13,14 @@ tag:
   - npm
   - node
   - node-package-manager
+head:
+  - - meta:
+    - property: og:title
+      content: NPM > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/npm/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

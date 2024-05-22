@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Wireshark
 description: Wireshark
-icon: fa-brands fa-windows
+icon: iconfont icon-wireshark
 category:
   - Wireshark
   - Network

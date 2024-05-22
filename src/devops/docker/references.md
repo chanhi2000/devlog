@@ -242,6 +242,12 @@ tag:
 
 ---
 
+## Daily Mysteries
+
+- [Rancher Desktop – Is the docker daemon running?](https://www.andonescu.ro/2023/03/09/rancher-desktop-is-the-docker-daemon-running/)
+
+---
+
 ## Misc
 
 - [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)

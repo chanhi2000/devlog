@@ -65,6 +65,12 @@ tag:
 
 ---
 
+## AB180 엔지니어링 베이스
+
+- [Airbridge API 개발팀의 Monorepo 도입기](https://engineering.ab180.co/stories/airbridge-api-monorepo) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/airbridge-api-monorepo.md) -->
+
+---
+
 ## DZone
 
 - [Top 13 GitHub Alternatives in 2020 [Free and Paid]](https://dzone.com/articles/top-13-github-alternatives-in-2020-free-and-paid)

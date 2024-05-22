@@ -249,6 +249,12 @@ tag:
 
 ---
 
+## Life Log
+
+- [O.MG 케이블](https://ravenkim97.tistory.com/438)
+
+---
+
 ## Project(s)
 
 ```component VPCard

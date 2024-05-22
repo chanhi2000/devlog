@@ -1429,5 +1429,10 @@
     "desc": "GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.",
     "officialSite": "https://gif.ski",
     "topics": ["gif", "gif-animation", "gif-creator", "gifencoder", "pngquant"]
+  }, {
+    "repo": "onecodex/rust-bfield",
+    "desc": "B-field implementation in Rust",
+    "officialSite": "",
+    "topics": []
   }
 ]

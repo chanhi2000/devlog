@@ -2843,5 +2843,25 @@
     "desc": "All the goodies from both Mixpanel and Plausible combined into one tool.",
     "officialSite": "https://openpanel.dev",
     "topics": ["analytics"]
+  }, {
+    "repo": "hudy9x/namviek",
+    "desc": "The open-source project manager for tiny teams",
+    "officialSite": "https://namviek.com",
+    "topics": ["expressjs", "mongodb", "nextjs13", "task-management"]
+  }, {
+    "repo": "activepieces/activepieces",
+    "desc": "Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative",
+    "officialSite": "https://www.activepieces.com",
+    "topics": ["automation", "automation-tools", "business-automation", "datasources", "enterprise-automation", "integrations", "llm", "low-code", "n8n", "no-code", "self-hosted", "typescript", "workato", "workflow", "workflow-automation", "zapier"]
+  }, {
+    "repo": "nucleuscloud/neosync",
+    "desc": "Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments. ",
+    "officialSite": "https://www.neosync.dev",
+    "topics": ["benthos", "docker", "etl", "faker", "fine-tuning", "golang", "kubernetes", "nextjs", "open-source", "orchestration", "protobuf", "react", "reactjs", "self-hosted", "synthetic-data", "synthetic-data-generation", "test-data-generator", "testing", "typescript"]
+  }, {
+    "repo": "triggerdotdev/jsonhero-web",
+    "desc": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.",
+    "officialSite": "https://jsonhero.io",
+    "topics": ["developer-tools", "devtools", "hacktoberfest", "json", "json-viewer", "react", "tools", "typescript", "viewer"]
   }
 ]

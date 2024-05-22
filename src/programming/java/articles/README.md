@@ -293,6 +293,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Kotlin JDSL: Kotlin을 이용해 좀 더 쉽게 JPA Criteria API를 작성해 봅시다",
+  "desc": "안녕하세요. Global EC(Global E-Commerce, 이하 GEC)에서 주문 파트 개발을 담당하고 있는 서종현입니다. GEC에서는 서버 프레임워크로 Spring을 주로 사용하며 ORM 기술로 JPA를 사용하고 있습니다. 그동안 간단한 쿼...",
+  "link": "/explore/articles/engineering.linecorp.com/kotlinjdsl-jpa-criteria-api-with-kotlin.md",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Jira의 이슈 정렬 방식이 Integer 방식이 아니라고?!",
   "desc": "안녕하세요. LINE+ Contents Service Engineering 조직에서 백엔드 개발을 하고 있는 김한솔, 문다정, 이현동, 조강훈입니다. 저희 조직에서는 그룹...",
   "link": "/explore/articles/engineering.linecorp.com/about-atlassian-jira-ranking-algorithm-lexorank.md",

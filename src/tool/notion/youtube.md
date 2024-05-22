@@ -1,15 +1,18 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🅽Notion > Youtube
+description: Notion > Youtube
 icon: fa-brands fa-youtube
+category:
+  - Productivity
+  - Notion
+  - Youtube
 tags:
-  - notion
   - productivity
+  - notion
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

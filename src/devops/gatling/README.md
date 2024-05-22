@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Gatling
 description: Gatling
-icon: iconfont icon-jmeter
+icon: iconfont icon-gatling
 category:
   - DevOps
   - Load Test

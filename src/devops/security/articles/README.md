@@ -14,6 +14,9 @@ tag:
   - d2.naver.com
   - security
   - mobile
+  - xz
+  - xzutils
+  - xz-utils
   - linux
 head:
   - - meta:
@@ -74,16 +77,6 @@ head:
 
 ```component VPCard
 {
-  "title": "개발자가 알아두면 좋은 '코드형 인프라(IaC)' 개념 정리 | 요즘IT",
-  "desc": "개발자가 알아두면 좋은 '코드형 인프라(IaC)' 개념 정리",
-  "link": "2464.md",
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "앱 개발자를 위협하는 10가지 보안 위험과 대응 방법 | 요즘IT",
   "desc": "앱 개발자를 위협하는 10가지 보안 위험과 대응 방법",
   "link": "/explore/articles/yozm.wishket.com/2503.md",
@@ -94,9 +87,9 @@ head:
 
 ```component VPCard
 {
-  "title": "프론트엔드 개발자는 서비스 말고 '운영툴'도 만듭니다 | 요즘IT",
-  "desc": "프론트엔드 개발자는 서비스 말고 '운영툴'도 만듭니다",
-  "link": "2519.md",
+  "title": "‘XZ Utils 백도어 사태’로 살펴보는 공급망 보안 | 요즘IT",
+  "desc": "‘XZ Utils 백도어 사태’로 살펴보는 공급망 보안",
+  "link": "/explore/articles/yozm.wishket.com/2597.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

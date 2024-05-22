@@ -10,6 +10,14 @@ category:
 tag: 
   - design
   - figma
+head:
+  - - meta:
+    - property: og:title
+      content: Figma > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/figma/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

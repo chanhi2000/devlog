@@ -56,6 +56,10 @@ tag:
 - [How to Use Java HashMap Effectively](https://dzone.com/articles/how-to-use-java-hashmap-effectively?fbclid=IwAR1ZMb6aImx-7Ry-GD6S-YfxdDkrRvlSo-SlSVL08gRDxWP_zilcVnuXXtM)
 - [Java Annotated Monthly – September 2020](https://dzone.com/articles/java-annotated-monthly-september-2020)
 
+### ITWorld
+
+- ["클라우드 네이티브로 한 걸음 더 가까이" 다가간 자바 프레임워크 8종](https://www.itworld.co.kr/news/242709)
+
 ### HowToDoInJava
 
 - [HowToDoInJava - Log4j2 Properties File Example](https://howtodoinjava.com/log4j2/log4j2-properties-example)
@@ -247,7 +251,7 @@ tag:
 - [[ 99클럽 코테 스터디 35일차 TIL] 백준 - (1085번 - 직사각형에서 탈출)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-34%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-1085%EB%B2%88-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C-%ED%83%88%EC%B6%9C)
 - [[내일배움캠프 17일차 TIL] `enum` & `final` 및 팀 프로젝트(필수 기능)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-17%EC%9D%BC%EC%B0%A8-TIL-enum-final-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%84%EC%88%98-%EA%B8%B0%EB%8A%A5)
 - [[내일배움캠프 21일차 TIL] 3 Layer Architecture와 SQL](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-21%EC%9D%BC%EC%B0%A8-TIL-3-Layer-Architecture%EC%99%80-SQL)
-
+- [[프로그래머스] 크기가 작은 부분 문자열 level 1 - Java](https://moonnight0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%81%AC%EA%B8%B0%EA%B0%80-%EC%9E%91%EC%9D%80-%EB%B6%80%EB%B6%84-%EB%AC%B8%EC%9E%90%EC%97%B4-level-1-Java)
 
 ### 류광의 번역 이야기
 
@@ -356,6 +360,12 @@ tag:
 - [JAVA 개발자가 알아야할 String 클래스 - 1편](https://atoz-develop.tistory.com/entry/JAVA-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-String-%ED%81%B4%EB%9E%98%EC%8A%A4-1%ED%8E%B8)
 - [JAVA 개발자가 알아야할 String 클래스 - 2편](https://atoz-develop.tistory.com/entry/JAVA-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-String-%ED%81%B4%EB%9E%98%EC%8A%A4-2%ED%8E%B8)
 
+### Hyperconnect Tech Blog | 하이퍼커넥트의 기술블로그입니다
+
+- [JVM + Container 환경에서 수상한 Memory 사용량 증가 현상 분석하기](https://hyperconnect.github.io/2022/07/19/suspicious-jvm-memory-in-container.html)
+
+<!-- TODO: 작성 (/explore/articles/hyperconnect.github.io/suspicious-jvm-memory-in-container.md) -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -374,6 +384,11 @@ tag:
 ### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [Test expected exceptions in Kotlin](https://stackoverflow.com/questions/30331806/test-expected-exceptions-in-kotlin/34556914)
+- [How to get String UUID in JPA and store as VARCHAR in Postgresql database?](https://stackoverflow.com/questions/76346452/how-to-get-string-uuid-in-jpa-and-store-as-varchar-in-postgresql-database)
+
+### 카카오페이 기술 블로그
+
+- [MSA 환경에서 네트워크 예외를 잘 다루는 방법](https://tech.kakaopay.com/post/msa-transaction/)
 
 ### Thdev
 
@@ -382,9 +397,6 @@ tag:
 - [Kotlin typealias와 inline class를 알아보고 적절한 사용법을 알아보자.](https://thdev.tech/kotlin/2020/10/13/kotlin_effective_06)
 - [Kotlin Collections에서 지연 계산(lazy)의 이점을 알아보자.](https://thdev.tech/kotlin/2020/10/06/kotlin_effective_05)
 
-### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
-
-- [How to get String UUID in JPA and store as VARCHAR in Postgresql database?](https://stackoverflow.com/questions/76346452/how-to-get-string-uuid-in-jpa-and-store-as-varchar-in-postgresql-database)
 
 ### HolyKisa
 
@@ -462,6 +474,7 @@ tag:
 - [Leetcode61.RotateList (kotlin)](https://insanelysimple.tistory.com/486)
 - [Leetcode713.SubarrayProductLessThanK](https://insanelysimple.tistory.com/487)
 - [Leetcode167.Two Sum II - Input Array Is Sorted](https://insanelysimple.tistory.com/489)
+- [Leetcode36.Valid Sudoku](https://insanelysimple.tistory.com/491)
 
 ### 개발하는 곰돌이
 

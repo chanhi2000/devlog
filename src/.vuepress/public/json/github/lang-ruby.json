@@ -119,5 +119,10 @@
     "desc": "Utilities for refactoring and upgrading Ruby code based on ASTs.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "ohbarye/pbt",
+    "desc": "Property-Based Testing tool for Ruby, supporting multiple concurrency methods (Ractor, multiprocesses, multithreads).",
+    "officialSite": "https://rubygems.org/gems/pbt",
+    "topics": ["parallel", "property-based-testing", "ractor", "ruby", "testing"]
   }
 ]

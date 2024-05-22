@@ -59,6 +59,7 @@ head:
 - [`도깨비-이야기` - [AWS] ECS 테스크 생성이 지연될때](https://medium.com/%EB%8F%84%EA%B9%A8%EB%B9%84-%EC%9D%B4%EC%95%BC%EA%B8%B0/aws-ecs-%ED%85%8C%EC%8A%A4%ED%81%AC-%EC%83%9D%EC%84%B1%EC%9D%B4-%EC%A7%80%EC%97%B0%EB%90%A0%EB%95%8C-f97b10267ba1)
 - [`@maciej.pocwierz` / How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
 - [`zendesk` / Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
+- [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258#gaerae.com)
 
 ---
 
@@ -213,6 +214,12 @@ head:
 ## 뉴딜의 서랍장
 
 - [AWS Graviton (그래비톤)은 정말 더 빠르고, 더 성능이 좋고, 더 쌀까 ?](https://newdeal123.tistory.com/113)
+
+---
+
+## KATE.log
+
+- [[Threepark] 백엔드 서버와 핵심 기능 구현](https://he-kate1130.tistory.com/96)
 
 ---
 

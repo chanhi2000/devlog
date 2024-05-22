@@ -11,11 +11,34 @@ tag:
   - system
   - design
   - tech
+head:
+  - - meta:
+    - property: og:title
+      content: System Design > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/academics/system-design/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
+
+---
+
+## 우아한 기술블로그
+
+- [회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835) <!-- TODO: 작성 (/explore/archives/techblog.woowahan.com/7835.md) -->
+
+---
+
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`towardsdatascience` / Ace the System Design Interview — Uber/Lyft](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3#gaerae.com) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/ace-the-system-design-interview-uber-lyft.md) -->
+- [`coupang-engineering` / 캐시를 활용한 대용량 트래픽 처리 성능 향상](https://medium.com/coupang-engineering/%EC%BA%90%EC%8B%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-a274f4731d07#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
+- [`coupang-engineering` / 대용량 트래픽 처리를 위한 쿠팡의 백엔드 전략](https://medium.com/coupang-engineering/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%A0%84%EB%9E%B5-184f7fdb1367#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
+- [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258#gaerae.com)
 
 ---
 
@@ -59,6 +82,12 @@ tag:
 ## Coding Log
 
 - [030. (Clean Architecture) 6. 함수형 프로그래밍](https://namhoon.kim/2024/04/24/method-architecture/030/)
+
+---
+
+## Spoqa 기술 블로그
+
+- [서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html) <!-- TODO: 작성 (/explore/articles/spoqa.github.io/all-new-server.md) -->
 
 ---
 

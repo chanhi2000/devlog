@@ -12,6 +12,17 @@ tag:
   - programming
   - python
   - py
+  - apache
+  - apacheairflow
+  - airflow
+head:
+  - - meta:
+    - property: og:title
+      content: Airflow > Article(s)
+    - property: og:description
+      content: Article(s)
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/py-airflow/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

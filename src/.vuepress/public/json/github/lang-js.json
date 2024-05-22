@@ -2274,5 +2274,10 @@
     "desc": "Pic Smaller – Compress JPEG, PNG, WEBP, AVIF and GIF images intelligently",
     "officialSite": "https://txx.cssrefs.com",
     "topics": ["compress-images", "offscreencanvas", "react", "safe-compression", "vite", "webassembly"]
+  }, {
+    "repo": "browserslist/browserslist",
+    "desc": "🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env",
+    "officialSite": "https://browsersl.ist",
+    "topics": []
   }
 ]

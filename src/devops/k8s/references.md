@@ -22,9 +22,24 @@ tag:
 
 ---
 
+<SiteInfo
+  name="Nubenetes"
+  desc="A curated list of awesome IT projects and resources. Inspired by the awesome list."
+  url="https://nubenetes.com/"
+  logo="https://nubenetes.com/images/favicon-car.png"
+  preview="https://nubenetes.com/images/container_with_cars.png"/>
+
+<SiteInfo
+  name="Awesome Kubernetes"
+  desc="Resources for Awesome Kubernetes"
+  url="https://ramitsurana.github.io/awesome-kubernetes/"
+  logo="https://raw.githubusercontent.com/ramitsurana/awesome-kubernetes/master/docs/images/logo.png"
+  preview="https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png"/>
+
 ## Kubernetes
 
 - [Diagram Guide](https://kubernetes.io/docs/contribute/style/diagram-guide)
+- [Improve your documentation with Mermaid.js diagrams](https://www.kubernetes.dev/blog/2021/12/01/improve-your-documentation-with-mermaid.js-diagrams/)
 - [Introducing `ingress2gateway`; Simplifying Upgrades to Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway)
 
 ---
@@ -176,7 +191,7 @@ tag:
 
 ---
 
-## ENFJ.dev 
+## ENFJ.dev
 
 - [Kubernetes Affinity, 제대로 이해하기](https://gngsn.tistory.com/283)
 - [Kubernetes Scheduler, 제대로 이해하기](https://gngsn.tistory.com/284)

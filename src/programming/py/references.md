@@ -91,6 +91,7 @@ tag:
 - [`@eunbibi` / Iris Dataset](https://velog.io/@eunbibi/Iris-Dataset)
 - [`@1996yyk` / [Full-Stack] 풀스택 프로젝트 개발 일지(1)](https://velog.io/@1996yyk/Full-Stack-%ED%92%80%EC%8A%A4%ED%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%801)
 - [`@skynet` / [Leetcode] 452. Minimum Number of Arrows to Burst Balloons](https://velog.io/@skynet/leetcode-452.-Minimum-Number-of-Arrows-to-Burst-Balloons)
+- [`@devstone` / 실시간 흉기 난동 상황 탐지 서비스 개발기](https://velog.io/@devstone/%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%9D%89%EA%B8%B0-%EB%82%9C%EB%8F%99-%EC%83%81%ED%99%A9-%ED%83%90%EC%A7%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
 
 ---
 
@@ -420,7 +421,7 @@ tag:
 
 ## AB180 엔지니어링 베이스
 
-- [모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기](https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability)
+- [모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기](https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/monitoring-like-martin-fowler-domain-oriented-observability.md) -->
 
 ---
 
@@ -624,6 +625,7 @@ tag:
 - [`np.kron`를 사용하여 NumPy 배열을 확대하기](https://webnautes.tistory.com/2331)
 - [Python if문 내부에 있는 조건별로 주석 달기](https://webnautes.tistory.com/2333)
 - [OpenCV Python 마우스 이벤트 예제](https://webnautes.tistory.com/2334)
+- [PyQt5에서 윈도우의 모든 창 버튼(최소화, 최대화, 닫기)을 제거](https://webnautes.tistory.com/2335)
 
 ---
 
@@ -883,6 +885,7 @@ tag:
 
 - [[Keras] model.predict(x) vs model(x)](https://devs0n.tistory.com/165)
 - [Classification task에서 Cross-Entropy](https://devs0n.tistory.com/163)
+- [Dropout vs Inverted Dropout](https://devs0n.tistory.com/168)
 
 ---
 
@@ -976,6 +979,12 @@ tag:
 ## Jina AI - Your Search Foundation, Supercharged.
 
 - [Binary Embeddings: All the AI, 3.125% of the Fat](https://jina.ai/news/binary-embeddings-all-the-ai-3125-of-the-fat/)
+
+---
+
+## Seungdols Company
+
+- [Alfred workflows - naver dictionary](https://seungdols.tistory.com/1018)
 
 ---
 

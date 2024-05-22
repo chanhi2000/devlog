@@ -23,21 +23,25 @@
     v-for="(p, i) in playlists" :key="i"
     class="hint-container details">
     <summary>{{ p.title }}</summary>
-    <YouTubeItem v-for="(v, vi) in p.videos" :key="vi"
-      v-bind:channelName="channel.name"
-      v-bind:channelId="channel.id" 
-      v-bind:id="v.id"
-      v-bind:title="v.title" />
+    <div class="container">
+      <YouTubeItem v-for="(v, vi) in p.videos" :key="vi"
+        v-bind:channelName="channel.name"
+        v-bind:channelId="channel.id" 
+        v-bind:id="v.id"
+        v-bind:title="v.title" />
+    </div>
   </details>
 
   <details v-if="hasVideos"
     class="hint-container details">
     <summary>목록 (총 {{ videos.length  }} 개)</summary>
-    <YouTubeItem v-for="(v, vi) in videos" :key="vi"
-      v-bind:channelName="channel.name"
-      v-bind:channelId="channel.id" 
-      v-bind:id="v.id"
-      v-bind:title="v.title" />
+    <div class="container">
+      <YouTubeItem v-for="(v, vi) in videos" :key="vi"
+        v-bind:channelName="channel.name"
+        v-bind:channelId="channel.id" 
+        v-bind:id="v.id"
+        v-bind:title="v.title" />
+    </div>
   </details>  
   <hr>
 </template>
@@ -106,6 +110,16 @@
 </script>
 
 <style scoped>
+* {--yt-max-width:519px;--yt-max-height:289px}
+.hint-container.details {
+  list-style: none;
+}
+.container { 
+  width:100%;height:100%; 
+  display:grid;
+  grid-template-columns: var(--yt-max-width);
+  grid-template-rows: var(--yt-max-height);
+}
 .banner-visible-area.ytd-c4-tabbed-header-renderer {
   height: calc(60vw/6.2 - 1px);
 }

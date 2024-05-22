@@ -89,7 +89,7 @@ prev: /programming/js/articles/README.md
 
 > 2023.05.31
 
-<!-- TODO: 내용 채우기 -->
+<!-- TODO:  작성 -->
 
 ::: details See also
 

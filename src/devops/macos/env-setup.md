@@ -207,6 +207,8 @@ mkdir -p ~/.config && touch ~/.config/starship.toml;
 ```sh
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/nvm:$PATH
+# for Rancher Desktop
+export DOCKER_HOST=unix:///var/run/docker.sock
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"

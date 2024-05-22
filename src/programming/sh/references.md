@@ -316,5 +316,10 @@ tag:
 
 ---
 
+## arp242.net
+
+- [Safe terminal escape codes](https://www.arp242.net/safeterm.html)
+
+---
 
 <TagLinks />

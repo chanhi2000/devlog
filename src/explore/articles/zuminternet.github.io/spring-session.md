@@ -60,7 +60,7 @@ prev: /programming/java-spring/articles/README.md
 
 > 2023.07.07
 
-<!-- TODO: 내용 채우기 -->
+<!-- TODO:  작성 -->
 
 ---
 

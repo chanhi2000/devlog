@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - popit.kr
   - d2.naver.com
   - go
   - golang
@@ -34,6 +35,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Popit | 전문 지식 공유를 위한 팀블로그",
+  "desc": "전문 지식 공유를 위한 팀블로그",
+  "link": "https://www.popit.kr/",
+  "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
+  "background": "rgba(0,21,41,0.2)"
+}
+```
+
 <SiteInfo
   name="NAVER D2"
   desc=""
@@ -56,6 +67,22 @@ head:
   "link": "/explore/articles/freecodecamp.org/how-to-handle-concurrency-in-go.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## Popit | 전문 지식 공유를 위한 팀블로그
+
+> popit.kr
+
+```component VPCard
+{
+  "title": "Go 언어로 만든 REST에 ETag 캐시 적용하기 | Popit",
+  "desc": "ETag는 Entity Tag의 줄임말이다. Entity라는 말이 생소할 수도 있는데 Entity는 HTTP 메시지(Messages)와 연관이 있다. HTTP 메시지와 Entity HTTP 메시지는 HTTP 통신상에서 웹 서버와 클라이언트가 서로 주고받는 것을 의미한다. 클라이언트가 웹 서버로 보내는 메시지를 요청 메시지(Request Messages)라고 부르며, 웹 서버가 요청에 의해 클라언트에게 보내는 메시지를 응답 메시지(Response Messages)라고 부른다. Entity는 HTTP 메시지의 일부를 말하는데 메시지는 Entity를 감싸 만든다. 즉 메시지는 컨테이너로 Entity는 화물로 비유할 수 있다. 아래 그림은 HTTP 메시지에서 Entity 영역을 보여준다.",
+  "link": "/explore/articles/popit.kr/apply-etag-cache-to-rest-service-made-with-go.md",
+  "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
+  "background": "rgba(0,21,41,0.2)"
 }
 ```
 

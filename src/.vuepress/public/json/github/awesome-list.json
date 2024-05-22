@@ -741,9 +741,9 @@
     "topics": []
   }, {
     "repo": "ashishps1/awesome-system-design-resources",
-    "desc": "This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems",
-    "officialSite": "",
-    "topics": []
+    "desc": "Learn System Design concepts and prepare for interviews using free resources.",
+    "officialSite": "https://newsletter.ashishps.com",
+    "topics": ["awesome", "backend", "computer-science", "distributed-systems", "high-level-design", "hld", "interview", "interview-questions", "scalability", "system-design"]
   }, {
     "repo": "ai-boost/Awesome-GPTs",
     "desc": "Curated list of awesome GPTs 👍.",
@@ -1184,5 +1184,10 @@
     "desc": "A curated list of dotfiles resources.",
     "officialSite": "",
     "topics": ["awesome", "awesome-list", "bash", "dotfiles", "dotfiles-resources", "fish", "list", "shell", "tools", "zsh"]
+  }, {
+    "repo": "tomhuang12/awesome-k8s-resources",
+    "desc": "A curated list of awesome Kubernetes tools and resources.",
+    "officialSite": "",
+    "topics": ["awesome-list", "kubernetes", "kubernetes-clusters", "kubernetes-networking", "kubernetes-operational", "kubernetes-resources", "list"]
   }
 ]

@@ -53,6 +53,7 @@ tag:
 - [Machine Coding Interview: Efficient Cache Implementation using time-based expiry and eviction](https://dsysd-dev.medium.com/machine-coding-interview-efficient-cache-implementation-using-time-based-expiry-and-eviction-925165a92831)
 - [Message Queue for Publisher/Subscriber (pub/sub) Scenarios with Go Practice](https://medium.com/@lordmoma/message-queue-for-publisher-subscriber-pub-sub-scenarios-with-go-practice-3ecc61b1b12)
 - [Parallelism and Concurrency in Go: How It Works in Real Computing Systems. Part 1.](https://medium.com/@ninucium/parallelism-and-concurrency-in-go-how-it-works-in-real-computing-systems-part-1-a680443ad8bd)
+- [`daangn` / 검색 랭킹 흐름 만들기: 검색은 처음 인디요](https://medium.com/daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7)
 
 ---
 
@@ -126,7 +127,7 @@ tag:
 
 ## AB180 엔지니어링 베이스
 
-- [Scenario Test: 인수 테스트 자동화로 자신감, 생산성 높이기 (GopherCon 2023 발표)](https://engineering.ab180.co/stories/scenario-test)
+- [Scenario Test: 인수 테스트 자동화로 자신감, 생산성 높이기 (GopherCon 2023 발표)](https://engineering.ab180.co/stories/scenario-test) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/scenario-test.md) -->
 
 ---
 
@@ -223,6 +224,12 @@ tag:
 ## Eli Bendersky's website
 
 - [Faster XML stream processing in Go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
+
+---
+
+## funes-days
+
+- [golang을 이용한 구독 커머스 아키텍처 설계](https://funes-days.com/dev/backend-architecture-with-golang)
 
 ---
 

@@ -12,6 +12,14 @@ tag:
   - programming
   - objective-c
   - objc
+head:
+  - - meta:
+    - property: og:title
+      content: Objective-C > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/objc/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

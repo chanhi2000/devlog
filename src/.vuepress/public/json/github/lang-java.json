@@ -639,5 +639,10 @@
     "desc": "Optimum graph creation and distribution for underground networks.",
     "officialSite": "",
     "topics": ["algorithms", "graph", "gui", "java"]
-  }
+  }, {
+    "repo": "line/armeria",
+    "desc": "Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.",
+    "officialSite": "https://armeria.dev",
+    "topics": ["gateway", "grpc", "grpc-client", "grpc-server", "hacktoberfest", "http", "http-client", "http-server", "http2", "micro-framework", "microservices", "netty", "rpc", "rpc-client", "rpc-framework", "rpc-library", "rpc-server", "thrift", "thrift-client", "thrift-server"]
+  }  
 ]

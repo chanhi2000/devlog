@@ -30,6 +30,12 @@ tag:
 
 ---
 
+## Toss
+
+- [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility)
+
+---
+
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`yanhaijing` / Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg?ref=dailydev)
@@ -71,6 +77,8 @@ tag:
 - [`@laetipark` / Javascript : `var`, `let`, `const`, 스코프](https://blex.me/@laetipark/javascript-var-let-const-%EC%8A%A4%EC%BD%94%ED%94%84)
 - [`@laetipark` / Javascript : 프로토타입과 `this`, `call`, `apply`, `bind`](https://blex.me/@laetipark/javascript-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EA%B3%BC-this-call-apply-bind)
 - [`@laetipark` / Typescript : 타입스크립트 언어의 특징과 장단점](https://blex.me/@laetipark/typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
+- [`@laetipark` / Javascript : 이벤트와 이벤트 위임](https://blex.me/@laetipark/javascript-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%99%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%9C%84%EC%9E%84)
+- [`@laetipark` / 프로그래머스/Javascript : 기초 문제 22일차](https://blex.me/@laetipark/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4javascript-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EC%A0%9C-22%EC%9D%BC%EC%B0%A8)
 
 ---
 
@@ -80,6 +88,7 @@ tag:
 - [`bitsrc` / Frontend Application Security: Tips and Tricks](https://blog.bitsrc.io/frontend-application-security-tips-practices-f9be12169e66)
 - [`jeongwoo` / 모던자바스크립트 스터디 3장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9E%A5-1174b71cdb3d)
 - [`lokesh-prajapati` / JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
+- [`junghan92` / (번역) 주의 깊게 XMLHttpRequest 재시도하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%A3%BC%EC%9D%98-%EA%B9%8A%EA%B2%8C-xmlhttprequest-%EC%9E%AC%EC%8B%9C%EB%8F%84%ED%95%98%EA%B8%B0-2895dfa66b43)
 
 ---
 
@@ -200,6 +209,12 @@ tag:
 ## CSS Tricks
 
 - [How to Fetch and Parse RSS Feeds in JavaScript](https://css-tricks.com/how-to-fetch-and-parse-rss-feeds-in-javascript)
+
+---
+
+## Lofi Limo
+
+- [Retry `XMLHttpRequest` Carefully](https://lofi.limo/blog/retry-xmlhttprequest-carefully)
 
 ---
 

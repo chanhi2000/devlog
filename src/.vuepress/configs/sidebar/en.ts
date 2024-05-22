@@ -18,64 +18,6 @@ export const sidebarEn = sidebar({
         '/programming/sh/basics.md',
         '/programming/sh/tips.md',
         '/programming/sh/troubleshooting.md',
-        {
-          text: 'crontab',
-          collapsible: true,
-          icon: 'iconfont icon-ffmpge',
-          children: [
-            '/programming/sh/crontab/README.md',
-            '/programming/sh/crontab/references.md',
-            '/programming/sh/crontab/youtube.md',
-          ]
-        }, {
-          text: 'rsync',
-          collapsible: true,
-          icon: 'iconfont icon-ffmpge',
-          children: [
-            '/programming/sh/rsync/README.md',
-            '/programming/sh/rsync/references.md',
-            '/programming/sh/rsync/youtube.md',
-          ]
-        }, {
-          text: 'ffmpeg',
-          collapsible: true,
-          icon: 'iconfont icon-ffmpge',
-          children: [
-            '/programming/sh/ffmpeg/README.md',
-            '/programming/sh/ffmpeg/references.md',
-            '/programming/sh/ffmpeg/youtube.md',
-          ]
-        }, {
-          text: 'tmux',
-          collapsible: true,
-          icon: 'iconfont icon-tmux',
-          children: [
-            '/programming/sh/tmux/README.md',
-            '/programming/sh/tmux/references.md',
-            '/programming/sh/tmux/youtube.md',
-          ]
-        }, {
-          text: 'Vim',
-          collapsible: true,
-          icon: 'iconfont icon-vim',
-          children: [
-            '/programming/sh/vim/README.md',
-            '/programming/sh/vim/tips.md',
-            '/programming/sh/vim/neovim.md',
-            '/programming/sh/vim/github.md',
-            '/programming/sh/vim/references.md',
-            '/programming/sh/vim/youtube.md',
-          ]
-        }, {
-          text: 'wget',
-          collapsible: true,
-          icon: 'iconfont icon-wget',
-          children: [
-            '/programming/sh/wget/README.md',
-            '/programming/sh/wget/references.md',
-            '/programming/sh/wget/youtube.md',
-          ]
-        }, 
         '/programming/sh/references.md',
         '/programming/sh/github.md',
         '/programming/sh/youtube.md',
@@ -149,6 +91,7 @@ export const sidebarEn = sidebar({
             articleSidebars.d2("git"),
             articleSidebars.nhn("git"),
             articleSidebars.woowahan("git"),
+            articleSidebars.linecorp("git"),
           ]
         }
       ]
@@ -252,6 +195,7 @@ export const sidebarEn = sidebar({
             articleSidebars.gangnamunni("java-spring"),
             articleSidebars.gmarket("java-spring"),
             articleSidebars.linecorp("java-spring"),
+            articleSidebars.linecorp("kotlin-spring"),
             articleSidebars.zuminternet("java-spring"),
           ]
         }
@@ -306,7 +250,26 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-kafka/articles/README.md',
-            articleSidebars.d2("java-kafka")
+            articleSidebars.popit("java-kafka"),
+            articleSidebars.d2("java-kafka"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Armeria',
+      collapsible: true,
+      icon: 'iconfont icon-armeria',
+      children: [
+        '/programming/java-armeria/README.md',
+        '/programming/java-armeria/references.md',
+        '/programming/java-armeria/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/java-armeria/articles/README.md',
+            articleSidebars.linecorp("java-armeria"),
           ]
         }
       ]
@@ -324,6 +287,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-elasticsearch/articles/README.md',
+            articleSidebars.popit("java-elasticsearch"),
           ]
         }
       ]
@@ -337,14 +301,6 @@ export const sidebarEn = sidebar({
         '/programming/swift/snippets.md',
         '/programming/swift/crashcourse.md',
         '/programming/swift/news.md',
-        {
-          text: 'Interview Prep',
-          collapsible: true,
-          icon: 'fas fa-clipboard-question',
-          children: [
-            '/programming/swift/interview-prep.md',
-          ]
-        },
         '/programming/swift/references.md',
         '/programming/swift/github.md',
         '/programming/swift/youtube.md',
@@ -360,7 +316,17 @@ export const sidebarEn = sidebar({
             articleSidebars.gangnamunni("swift"),
             articleSidebars.zuminternet("swift"),
           ]
-        }
+        },
+        {
+          text: 'Interview Prep',
+          collapsible: true,
+          icon: 'fas fa-clipboard-question',
+          children: [
+            '/programming/swift/interview-prep/README.md',
+            '/programming/swift/interview-prep/20240322.md',
+            '/programming/swift/interview-prep/20240329.md',
+          ]
+        },
       ]
     }, {
       text: 'JavaScript',
@@ -428,6 +394,7 @@ export const sidebarEn = sidebar({
             articleSidebars.yozm("js-node"),
             articleSidebars.d2("js-node"), 
             articleSidebars.nhn("js-node"),
+            articleSidebars.linecorp("js-node"),
             articleSidebars.johnnyreilly("js-node"),
           ]
         }
@@ -703,6 +670,15 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/py-airflow/README.md',
         '/programming/py-airflow/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-airflow/articles/README.md',
+            articleSidebars.shopify("py-airflow"),
+          ]
+        },
       ]
     }, {
       text: 'Objective-C',
@@ -798,6 +774,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/go/articles/README.md',
             articleSidebars.freecodecamp("go"),
+            articleSidebars.popit("go"),
             articleSidebars.d2("go"),
           ]
         }
@@ -1248,6 +1225,107 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Sketch',
+      collapsible: true,
+      icon: 'fa-brands fa-sketch',
+      children: [
+        '/tool/sketch/README.md',
+        '/tool/sketch/plugins.md',
+        '/tool/sketch/references.md',
+        '/tool/sketch/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/sketch/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'crontab',
+      collapsible: true,
+      icon: 'iconfont icon-crontab',
+      children: [
+        '/tool/crontab/README.md',
+        '/tool/crontab/references.md',
+        '/tool/crontab/youtube.md',
+      ]
+    }, {
+      text: 'rsync',
+      collapsible: true,
+      icon: 'iconfont icon-rsync',
+      children: [
+        '/tool/rsync/README.md',
+        '/tool/rsync/references.md',
+        '/tool/rsync/youtube.md',
+      ]
+    }, {
+      text: 'ffmpeg',
+      collapsible: true,
+      icon: 'iconfont icon-ffmpeg',
+      children: [
+        '/tool/ffmpeg/README.md',
+        '/tool/ffmpeg/references.md',
+        '/tool/ffmpeg/youtube.md',
+      ]
+    }, {
+      text: 'tmux',
+      collapsible: true,
+      icon: 'iconfont icon-tmux',
+      children: [
+        '/tool/tmux/README.md',
+        '/tool/tmux/references.md',
+        '/tool/tmux/youtube.md',
+      ]
+    }, {
+      text: 'Vim',
+      collapsible: true,
+      icon: 'iconfont icon-vim',
+      children: [
+        '/tool/vim/README.md',
+        '/tool/vim/tips.md',
+        '/tool/vim/neovim.md',
+        '/tool/vim/github.md',
+        '/tool/vim/references.md',
+        '/tool/vim/youtube.md',
+      ]
+    }, {
+      text: 'awk',
+      collapsible: true,
+      icon: 'iconfont icon-awk',
+      children: [
+        '/tool/awk/README.md',
+        '/tool/awk/references.md',
+        '/tool/awk/youtube.md',
+      ]
+    }, {
+      text: 'wget',
+      collapsible: true,
+      icon: 'iconfont icon-wget',
+      children: [
+        '/tool/wget/README.md',
+        '/tool/wget/references.md',
+        '/tool/wget/youtube.md',
+      ]
+    }, {
+      text: 'nmap',
+      collapsible: true,
+      icon: 'iconfont icon-nmap',
+      children: [
+        '/tool/nmap/README.md',
+        '/tool/nmap/references.md',
+        '/tool/nmap/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/nmap/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Wireshark',
       collapsible: true,
       icon: 'iconfont icon-wireshark',
@@ -1274,8 +1352,26 @@ export const sidebarEn = sidebar({
         '/tool/airtable/references.md',
         '/tool/airtable/youtube.md',
       ]
-    }
-  ],
+    }, {
+      text: 'Slack',
+      collapsible: true,
+      icon: 'fa-brands fa-slack',
+      children: [
+        '/tool/slack/README.md',
+        '/tool/slack/plugins.md',
+        '/tool/slack/references.md',
+        '/tool/slack/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/slack/articles/README.md',
+          ]
+        }
+      ]
+    }, 
+  ], 
   '/devops/': [
     {
       text: 'DevOps',
@@ -1560,6 +1656,7 @@ export const sidebarEn = sidebar({
             '/devops/k8s/articles/README.md',
             articleSidebars.freecodecamp("k8s"),
             articleSidebars.yozm("k8s"),
+            articleSidebars.digitalocean("k8s"),
           ]
         }
       ]
@@ -1792,6 +1889,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/jmeter/articles/README.md',
+            articleSidebars.imqa("jmeter"),
           ]
         },
       ]
@@ -1809,6 +1907,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/gatling/articles/README.md',
+            articleSidebars.imqa("gatling"),
           ]
         },
       ]
@@ -2100,6 +2199,24 @@ export const sidebarEn = sidebar({
           ]
         }
       ]
+    }, {
+      text: 'Spark',
+      collapsible: true,
+      icon: 'iconfont icon-apachespark',
+      children: [
+        '/data-science/spark/README.md',
+        '/data-science/spark/references.md',
+        '/data-science/spark/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/spark/articles/README.md',
+            articleSidebars.popit("spark"),
+          ]
+        }
+      ]
     }, 
   ], '/ai/': [
     {
@@ -2198,8 +2315,6 @@ export const sidebarEn = sidebar({
       icon: 'fas fa-user-tie',
       children: [
         '/projects/career/README.md',
-        '/projects/career/hiring.md',
-        '/projects/career/exam.md',
         '/projects/career/youtube.md',
         '/projects/career/references.md',
         {
@@ -2239,13 +2354,14 @@ export const sidebarEn = sidebar({
       children: [ 
         '/explore/README.md',
         '/explore/newsletter.md',
-        '/explore/apis.md',
+        '/explore/study.md',
       ],
     }, {
-      text: 'Public API',
+      text: 'API',
       collapsible: true,
       icon: 'iconfont icon-api',
       children: [
+        '/explore/api/README.md',
         {
           text: 'Kakao',
           collapsible: true,
@@ -2285,8 +2401,10 @@ export const sidebarEn = sidebar({
       icon: 'fas fa-square-share-nodes',
       children: [
         articleSidebars.yozm(), 
+        articleSidebars.popit(), 
         articleSidebars.freecodecamp(), 
         articleSidebars.frontendmaster(),
+        articleSidebars.digitalocean(),
         articleSidebars.devkuma(),
         articleSidebars.devtoolstips(),
         articleSidebars.piccalilli(),
@@ -2310,26 +2428,7 @@ export const sidebarEn = sidebar({
         articleSidebars.oliveyoung(),
         articleSidebars.gmarket(),
         articleSidebars.zuminternet(),
-      ]
-    }, {
-      text: 'Career',
-      collapsible: true,
-      icon: 'fas fa-user-tie',
-      children: [
-        '/explore/career/README.md',
-        '/explore/career/hiring.md',
-        '/explore/career/exam.md',
-        '/explore/career/youtube.md',
-        '/explore/career/references.md',
-        {
-          text: 'Article(s)',
-          collapsible: true,
-          icon: 'fas fa-square-share-nodes',
-          children: [
-            '/explore/career/articles/README.md',
-            articleSidebars.yozm("career"),
-          ]
-        }
+        articleSidebars.imqa(),
       ]
     },
   ],
@@ -2400,6 +2499,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'General',
       collapsible: true,
+      icon: 'fas fa-square-root-variable',
       children: [
         '/academics/general/README.md',
         '/academics/general/youtube.md',

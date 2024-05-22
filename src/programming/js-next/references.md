@@ -47,4 +47,16 @@ head:
 
 ---
 
+## Teveloper 개발 & 테니스 이야기
+
+- [[Next.js] Turborepo에서 build시 cache가 적용되지 않는 이슈](https://teveloper.tistory.com/77)
+
+---
+
+## Miryang | Frontend Engineer
+
+- [내가 프론트엔드를 학습한 방법](https://miryang.dev/blog/how-studied-frontend)
+
+---
+
 <TagLinks />

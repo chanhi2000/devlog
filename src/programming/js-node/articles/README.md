@@ -12,6 +12,11 @@ tag:
   - yozm.wishket.com
   - sitepoint.com
   - devtoolstips.org
+  - d2.naver.com
+  - sitepoint.com
+  - johnnyreilly.com
+  - meetup.nhncloud.com
+  - engineering.linecorp.com
   - node
   - nodejs
 head:
@@ -90,6 +95,16 @@ head:
   "link": "https://meetup.nhncloud.com/",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Blog - LINE ENGINEERING",
+  "desc": "2022-LINE-engineering-site",
+  "link": "https://engineering.linecorp.com/ko/blog/",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
 }
 ```
 
@@ -197,6 +212,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Node.js 환경에서 손쉽게 메시지 큐 도입하기(feat. BullMQ) | 요즘IT",
+  "desc": "Node.js 환경에서 손쉽게 메시지 큐 도입하기(feat. BullMQ)",
+  "link": "/explore/articles/yozm.wishket.com/2599.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 ---
 
 ## Naver D2
@@ -268,6 +293,22 @@ head:
   "link": "/explore/articles/meetup.nhncloud.com/85.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+---
+
+## Blog - LINE ENGINEERING
+
+> engineering.linecorp.com
+
+```component VPCard
+{
+  "title": "Turborepo로 모노레포 개발 경험 향상하기",
+  "desc": "안녕하세요. 저는 LINE+ UIT 조직에서 프런트엔드 개발을 하고 있는 이상철입니다. 저는 UVP(Universal Video Player)라는 사내 동영상 컴포넌트 라이브러리를 모노레포 환경에서 개발하고 있는데요. 어떻게 하면 모노레포를 조금 더 잘 활용할 수 있...",
+  "link": "/explore/articles/engineering.linecorp.com/monorepo-with-turborepo.md",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
 }
 ```
 

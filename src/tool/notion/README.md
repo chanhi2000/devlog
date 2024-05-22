@@ -4,10 +4,11 @@ title: Notion
 description: Notion
 icon: iconfont icon-notion
 category:
+  - Productivity
   - Notion
 tag:
-  - notion
   - productivity
+  - notion
   - notion.so
 ---
 

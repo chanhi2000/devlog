@@ -604,5 +604,15 @@
     "desc": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
     "officialSite": "https://ai4finance.org",
     "topics": ["chatgpt", "finance", "fingpt", "fintech", "large-language-models", "machine-learning", "nlp", "prompt-engineering", "pytorch", "reinforcement-learning", "robo-advisor", "sentiment-analysis", "technical-analysis"]
+  }, {
+    "repo": "srush/Tensor-Puzzles",
+    "desc": "Solve puzzles. Improve your pytorch.",
+    "officialSite": "",
+    "topics": ["machine-learning", "puzzle", "torch"]
+  }, {
+    "repo": "microsoft/Phi-3CookBook",
+    "desc": "This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. ",
+    "officialSite": "",
+    "topics": []
   }
 ]

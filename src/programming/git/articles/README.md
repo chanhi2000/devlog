@@ -10,9 +10,10 @@ tag:
   - blog
   - freecodecamp.org
   - yozm.wishket.com
-  - d2.naver.com
   - meetup.nhncloud.com
   - techblog.woowahan.com
+  - d2.naver.com
+  - engineering.linecorp.com
   - git
 head:
   - - meta:
@@ -72,6 +73,16 @@ head:
   url="https://d2.naver.com"
   logo="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/sitebanner.png"/>
+
+```component VPCard
+{
+  "title": "Blog - LINE ENGINEERING",
+  "desc": "2022-LINE-engineering-site",
+  "link": "https://engineering.linecorp.com/ko/blog/",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
+}
+```
 
 [[toc]]
 
@@ -182,6 +193,22 @@ head:
   "link": "/explore/articles/d2.naver.com/1011.md",
   "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
+}
+```
+
+---
+
+## Blog - LINE ENGINEERING
+
+> engineering.linecorp.com
+
+```component VPCard
+{
+  "title": "Turborepo로 모노레포 개발 경험 향상하기",
+  "desc": "안녕하세요. 저는 LINE+ UIT 조직에서 프런트엔드 개발을 하고 있는 이상철입니다. 저는 UVP(Universal Video Player)라는 사내 동영상 컴포넌트 라이브러리를 모노레포 환경에서 개발하고 있는데요. 어떻게 하면 모노레포를 조금 더 잘 활용할 수 있...",
+  "link": "/explore/articles/engineering.linecorp.com/monorepo-with-turborepo.md",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
 }
 ```
 

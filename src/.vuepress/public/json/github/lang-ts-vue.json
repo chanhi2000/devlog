@@ -4,5 +4,10 @@
     "desc": "Collection of handy online tools for developers, with great UX.",
     "officialSite": "https://it-tools.tech",
     "topics": ["javascript", "productivity", "converter", "website", "vuejs", "typescript", "tools", "frontend", "tool", "developer-tools", "developer-productivity"]
+  }, {
+    "repo": "tillywork/tillywork",
+    "desc": "Opensource work management",
+    "officialSite": "https://tilly.work",
+    "topics": ["agile-management", "crm", "nestjs", "project-management", "sales-crm", "vue3", "vuetify"]
   }
 ]

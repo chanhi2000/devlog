@@ -361,154 +361,6 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
-@tab Tutorial
-
-```component VPCard
-{
-  "title": "Dave Ceddia",
-  "desc": "Articles to help you learn and master frontend development with React.",
-  "link": "https://daveceddia.com/courses/",
-  "logo": "https://daveceddia.com/favicon.ico?v=2",
-  "background": "rgba(74,164,236,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Gumroad: Solomon Eseme",
-  "desc": "Lead Backend Engineer | Founder of MasteringBackend.com | I help you become a great backend engineer.",
-  "link": "https://solomoneseme.gumroad.com/",
-  "logo": "https://solomoneseme.gumroad.com/favicon.ico",
-  "background": "rgba(36,36,35,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Gumroad: 삶의 여정을 즐기세요",
-  "desc": "Internet of Things Product Development, Maker Project Development Teaching, Software Training, Arduino Training, Raspberry Pi Training",
-  "link": "https://kimbongzo.gumroad.com/",
-  "logo": "https://kimbongzo.gumroad.com/favicon.ico",
-  "background": "rgba(36,36,35,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Rodrigo 🐍🚀",
-  "desc": "Gumroad: Taking your Python 🐍 skills to the next level! 🚀",
-  "link": "https://mathspp.gumroad.com/",
-  "logo": "https://mathspp.gumroad.com/favicon.ico",
-  "background": "rgba(36,36,35,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "thoughtbot",
-  "desc": "Gumroad: We are thoughtbot. We build great products.",
-  "link": "https://thoughtbot.gumroad.com/",
-  "logo": "https://thoughtbot.gumroad.com/favicon.ico",
-  "background": "rgba(36,36,35,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Go by Example",
-  "desc": "Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below",
-  "link": "https://gobyexample.com/",
-  "logo": "https://gobyexample.com/favicon.ico",
-  "background": "rgba(16,16,16,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Golang tutorial: Table Of Contents",
-  "desc": "Tutorials to learn go from the ground up with a hands approach. Learning is made easier with simple examples. Run the code online using go playground.",
-  "link": "https://golangbot.com/learn-golang-series/",
-  "logo": "https://golangbot.com/favicon.ico",
-  "background": "rgba(11,36,54,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "CS 886: Recent Advances on Foundation Models - Winter 2024",
-  "desc": "Home page for CS 886",
-  "link": "https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/",
-  "logo": "https://cs.uwaterloo.ca/favicon.ico",
-  "background": "rgba(255,255,255,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Learn JavaScript  |  web.dev",
-  "desc": "An in-depth course on the basics of JavaScript.",
-  "link": "https://web.dev/learn/javascript",
-  "logo": "https://www.gstatic.com/devrel-devsite/prod/ve5ef9ac7b497e19ece9427facc78d0c59aaab7a2bc6a0f75fdae93f4ee589f67/web/images/favicon.png",
-  "background": "rgba(48.96.190,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Developer Experience Book",
-  "desc": "Developer Experience (DX) is all about how easily and effectively developers can get things done. Learn how to improve your DX and why it matters in this book.",
-  "link": "https://dx.addy.ie/",
-  "logo": "https://dx.addy.ie/images/favicon.ico",
-  "background": "rgba(85,170,76,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Exercism",
-  "desc": "Learn, practice and get world-class mentoring in over 50 languages. 100% free.",
-  "link": "https://exercism.org/",
-  "logo": "https://assets.exercism.org/meta/favicon-32x32.png",
-  "background": "rgba(93,80,198,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Lectures on Operating Systems",
-  "desc": "This page serves as a reference for teaching/learning operating systems (OS). The material consists of video lectures, annotated slides used in the videos, practice problems with solutions, programming lab assignments, and additional reading material for reference.",
-  "link": "https://www.cse.iitb.ac.in/~mythili/os/",
-  "logo": "https://www.cse.iitb.ac.in/favicon.ico",
-  "background": "rgba(0,79,159,0.2)"
-}
-```
-
-https://startyourownisp.com/
-
-```component VPCard
-{
-  "title": "서버가상화와 SDN.pdf | DocDroid",
-  "desc": "서버 가상화와 SDN (실습) V2.1. 안종석 james@jslab.kr james@jslab.kr. JS Lab.",
-  "link": "https://www.docdroid.com/NOEBGF5/sdn-pdf",
-  "logo": "https://www.docdroid.com/images/favicon.png",
-  "background": "rgba(164,0,0,0.2)"
-}
-```
-
-https://learn.microsoft.com/ko-kr/training/browse/?roles=developer%2Cnetwork-engineer
-
-```component VPCard
-{
-  "title": "Welcome - 100 Exercises To Learn Rust",
-  "desc": "This course will teach you Rust's core concepts, one exercise at a time.",
-  "link": "https://rust-exercises.com/",
-  "logo": "https://rust-exercises.com/favicon.svg",
-  "background": "rgba(22,25,35,0.2)"
-}
-```
-
-https://www.joinc.co.kr/w/Site
-
 @tab Portfolio / Cool Project
 
 ```component VPCard
@@ -584,10 +436,10 @@ https://www.joinc.co.kr/w/Site
 https://www.getanyplant.com/plants
 https://demos.littleworkshop.fr/infinitown
 https://flareum.io/
+https://openvim.com/
 
 :::
 
 ---
-
 
 <TagLinks />

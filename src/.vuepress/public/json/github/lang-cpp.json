@@ -1338,5 +1338,10 @@
     "desc": "The Next Generation of Anti-Rookit(ARK) tool for Windows.",
     "officialSite": "https://openark.blackint3.com",
     "topics": ["anti-malware", "ark", "windows-hacking"]
+  }, {
+    "repo": "abseil/abseil-cpp",
+    "desc": "Abseil Common Libraries (C++)",
+    "officialSite": "https://abseil.io",
+    "topics": []
   }
 ]

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: JMeter
 description: JMeter
-icon: iconfont icon-jmeter
+icon: iconfont icon-apachejmeter
 category:
   - DevOps
   - Load Test

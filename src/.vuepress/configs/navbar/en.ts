@@ -73,15 +73,7 @@ export const navbarEn = navbar([
       }, {
         text: 'Shell',
         icon: 'iconfont icon-shell',
-        children: [
-          '/programming/sh/README.md',
-          '/programming/sh/awk/README.md',
-          '/programming/sh/crontab/README.md',
-          '/programming/sh/rsync/README.md',
-          '/programming/sh/ffmpeg/README.md',
-          '/programming/sh/tmux/README.md',
-          '/programming/sh/wget/README.md',
-        ]
+        link: '/programming/sh/README.md',
       }, {
         text: 'Batchfile (Windows)',
         link: '/programming/batchfile/README.md',
@@ -94,10 +86,6 @@ export const navbarEn = navbar([
         text: 'Git',
         link: '/programming/git/README.md',
         icon: 'iconfont icon-git',
-      }, {
-        text: 'Vim',
-        link: '/programming/vim/README.md',
-        icon: 'iconfont icon-vim'
       }, {
         text: 'Gradle',
         link: '/programming/gradle/README.md',
@@ -122,7 +110,11 @@ export const navbarEn = navbar([
         text: 'Kafka',
         link: '/programming/java-kafka/README.md',
         icon: 'iconfont icon-apachekafka',
-      }, {
+      },  {
+        text: 'Armeria',
+        icon: 'iconfont icon-armeria',
+        link: '/programming/java-armeria/README.md',
+    }, {
         text: 'Elasticsearch',
         icon: 'iconfont icon-elasticsearch',
         link: '/programming/java-elasticsearch/README.md',
@@ -507,6 +499,10 @@ export const navbarEn = navbar([
         text: 'Hadoop',
         icon: 'iconfont icon-hadoop',
         link: '/data-science/hadoop/README.md',
+      }, {
+        text: 'Spark',
+        icon: 'iconfont icon-apachespark',
+        link: '/data-science/spark/README.md',
       }, 
     ]
   }, {
@@ -578,6 +574,42 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-figma',
         link: '/tool/figma/README.md',
       }, {
+        text: 'Sketch',
+        icon: 'fa-brands fa-sketch',
+        link: '/tool/sketch/README.md',
+      }, { 
+        text: 'crontab',
+        icon: 'iconfont icon-crontab',
+        link: '/tool/crontab/README.md',
+      }, { 
+        text: 'rsync',
+        icon: 'iconfont icon-rsync',
+        link: '/tool/rsync/README.md',
+      }, { 
+        text: 'ffmpeg',
+        icon: 'iconfont icon-ffmpeg',
+        link: '/tool/ffmpeg/README.md',
+      }, { 
+        text: 'tmux',
+        icon: 'iconfont icon-tmux',
+        link: '/tool/tmux/README.md',
+      }, {
+        text: 'vim',
+        icon: 'iconfont icon-vim',
+        link: '/tool/vim/README.md',
+      }, {
+        text: 'awk',
+        icon: 'iconfont icon-awk',
+        link: '/tool/awk/README.md',
+      }, {
+        text: 'wget',
+        icon: 'iconfont icon-wget',
+        link: '/tool/wget/README.md',
+      }, {
+        text: 'nmap',
+        icon: 'iconfont icon-nmap',
+        link: '/tool/nmap/README.md',
+      }, {
         text: 'Wireshark',
         icon: 'iconfont icon-wireshark',
         link: '/tool/wireshark/README.md',
@@ -589,7 +621,11 @@ export const navbarEn = navbar([
         text: 'Airtable',
         icon: 'iconfont icon-airtable',
         link: '/tool/airtable/README.md',
-      },
+      }, {
+        text: 'Slack',
+        icon: 'fa-brands fa-slack',
+        link: '/tool/slack/README.md',
+      }, 
     ]
   }, {
     text: '', // ai
@@ -627,12 +663,13 @@ export const navbarEn = navbar([
         children: [
           '/explore/README.md',
           '/explore/newsletter.md',
-          '/explore/apis.md',
+          '/explore/study.md',
         ]
       }, {
-        text: 'Public API',
+        text: 'API',
         icon: 'iconfont icon-api',
         children: [
+          '/explore/api/README.md',
           '/explore/api/kakao/README.md',
           '/explore/api/sk/README.md',
         ]

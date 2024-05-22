@@ -25,9 +25,17 @@ tag:
 
 ---
 
-## Google Site Reliability Engineering
+## <FontIcon icon="fa-brands fa-google"/>Goolge
+
+### Google Site Reliability Engineering
 
 - [Product-Focused Reliability for SRE](https://sre.google/resources/practices-and-processes/product-focused-reliability-for-sre/)
+
+---
+
+## abseil.io
+
+- [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 
 ---
 
@@ -86,6 +94,7 @@ tag:
 - [`@broccolism` / 계획대로 된게 거의 없어서 오히려 좋은 개발자 모임 참여 후기 - 글또 9기](https://velog.io/@broccolism/%EA%B3%84%ED%9A%8D%EB%8C%80%EB%A1%9C-%EB%90%9C%EA%B2%8C-%EA%B1%B0%EC%9D%98-%EC%97%86%EC%96%B4%EC%84%9C-%EC%98%A4%ED%9E%88%EB%A0%A4-%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0)
 - [`@endmoseung` / 주도적인 사람](https://velog.io/@endmoseung/%EC%A3%BC%EB%8F%84%EC%A0%81%EC%9D%B8-%EC%82%AC%EB%9E%8C)
 - [`@greencloud` / 질문 '잘' 하는 법](https://velog.io/@greencloud/%EC%A7%88%EB%AC%B8-%EC%9E%98-%ED%95%98%EB%8A%94-%EB%B2%95)
+- [`@hyemin916` / 3년차 개발자의 성장](https://velog.io/@hyemin916/3%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5)
 
 ---
 
@@ -452,7 +461,7 @@ tag:
 
 ## AB180 엔지니어링 베이스
 
-- [동일한 비용으로 리포트 요청 10배 처리하기](https://engineering.ab180.co/stories/improve-performance-airbridge-report-worker)
+- [동일한 비용으로 리포트 요청 10배 처리하기](https://engineering.ab180.co/stories/improve-performance-airbridge-report-worker) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/improve-performance-airbridge-report-worker.md) -->
 
 ---
 
@@ -648,6 +657,7 @@ tag:
 - [11.나와 맞는 사람을 찾는 좋은 방법이 있을까요?](https://duriepark.tistory.com/726)
 - [16.혹시 '인생 멘토'나 조언을 구할 사람을 만나려면 어떤 방법이 있을까요?](https://duriepark.tistory.com/736)
 - [17.일을 잘하려면 어떻게 해야 되나요?](https://duriepark.tistory.com/737)
+- [[duriepark's thought] day17-0522](https://duriepark.tistory.com/740)
 
 ---
 
@@ -759,6 +769,39 @@ tag:
 ## 드프 DrawingProcess
 
 - [[Career] NAVER LABS가 관심 있는 것들 (네이버 1784, 디지털 트윈, 3D Recon, SLAM, ..ALIKE Solution)](https://csj000714.tistory.com/1110)
+
+---
+
+## Life Log
+
+- [그리고 한 가지 더 (스티브잡스)](https://ravenkim97.tistory.com/437)
+- [현업자 인터뷰](https://ravenkim97.tistory.com/436)
+
+---
+
+## Channy's Blog
+  
+- [아마존(Amazon)에서 배운 5가지 글쓰기와 소통 방식](https://channy.creation.net/blog/1620)
+
+---
+
+## DevTech - 데브시스터즈 기술블로그
+
+- [“DevOps”의 인적 확장 (The human scalability of “DevOps”)](https://tech.devsisters.com/posts/the-human-scalability-of-devops)
+
+<!-- TODO: 작성 (/explore/articles/tech.devsisters.com/the-human-scalability-of-devops.md) -->
+
+---
+
+## shiren the creator
+
+- [페이스북 개발자의 성과 만들기](https://blog.shiren.dev/2022-03-07/)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [블로그ㅣ개발자에게 듣는 '좋은 소프트웨어'의 조건](https://www.ciokorea.com/news/230519)
 
 ---
 
