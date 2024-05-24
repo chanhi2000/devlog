@@ -8,6 +8,8 @@ category:
   - Microsoft Office
   - PowerPoint
 tag:
+  - ms
+  - ms-powerpoint
   - powerpoint
   - ppt
   - pptx
@@ -18,7 +20,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/tool/powerpoint/articles/
+      content: https://chanhi2000.github.io/tool/ppt/articles/
 ---
 
 # {{ $frontmatter.description }} 관련

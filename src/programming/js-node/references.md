@@ -58,7 +58,18 @@ tag:
 
 ## <FontIcon icon="iconfont icon-github"/>Github
 
+```component VPCard
+{
+  "title": "Testing Library",
+  "desc": "The home for all testing-library projects. Testing Library has 30 repositories available. Follow their code on GitHub.",
+  "link": "https://github.com/testing-library",
+  "logo": "https://avatars.githubusercontent.com/u/49996085?s=200&v=4",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
 - [<FontIcon icon="fa-brands fa-markdown"/>`guest271314/javascript_engines_and_runtimes.md`](https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a)
+- [<FontIcon icon="fa-brands fa-markdown"/>`guest271314/compiling_standalone.md`](https://gist.github.com/guest271314/9b1adad3db3deba64e118f844a77bad6)
 
 ---
 
@@ -547,6 +558,7 @@ tag:
 ## Bun
 
 - [The Bun Bundler](https://bun.sh/blog/bun-bundler)
+- [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 
 ---
 
@@ -994,6 +1006,18 @@ tag:
 ## braindump incorporated
 
 - [Building an AI game studio: what we’ve learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
+
+---
+
+## Joyee Cheung's Blog
+
+- [require(esm) in Node.js](https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/)
+
+---
+
+## RxDB
+
+- [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 
 ---
 

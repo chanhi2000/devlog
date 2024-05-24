@@ -95,6 +95,7 @@ tag:
 - [`@endmoseung` / 주도적인 사람](https://velog.io/@endmoseung/%EC%A3%BC%EB%8F%84%EC%A0%81%EC%9D%B8-%EC%82%AC%EB%9E%8C)
 - [`@greencloud` / 질문 '잘' 하는 법](https://velog.io/@greencloud/%EC%A7%88%EB%AC%B8-%EC%9E%98-%ED%95%98%EB%8A%94-%EB%B2%95)
 - [`@hyemin916` / 3년차 개발자의 성장](https://velog.io/@hyemin916/3%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5)
+- [`@dus532` / 더 정확한 데이터를 향해, 소프트콘 뷰어십 제작기(9)](https://velog.io/@dus532/viewership9)
 
 ---
 
@@ -353,6 +354,7 @@ tag:
 - [확장에 대한 상반된 견해](https://www.thestartupbible.com/2024/05/some-opposing-views-on-scalability.html)
 - [선과 악](https://www.thestartupbible.com/2024/05/bringing-out-the-best-and-the-worst-of-human-beings.html)
 - [워라밸은 없다](https://www.thestartupbible.com/2024/05/work-and-life-balance-at-a-startup-is-unicorn-myth.html)
+- [관계 건설](https://www.thestartupbible.com/2024/05/the-relationship-building.html)
 
 ---
 
@@ -776,6 +778,10 @@ tag:
 
 - [그리고 한 가지 더 (스티브잡스)](https://ravenkim97.tistory.com/437)
 - [현업자 인터뷰](https://ravenkim97.tistory.com/436)
+- [웹사이트 점검 & 보안](https://ravenkim97.tistory.com/440)
+- [21년도 보안동아리 활동(네트워크 보안)](https://ravenkim97.tistory.com/441)
+- [WBS](https://ravenkim97.tistory.com/442)
+- [핵심역량 진단결과 코칭보고서](https://ravenkim97.tistory.com/444)
 
 ---
 
@@ -802,6 +808,12 @@ tag:
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
 - [블로그ㅣ개발자에게 듣는 '좋은 소프트웨어'의 조건](https://www.ciokorea.com/news/230519)
+
+---
+
+## taylor.town
+
+- [How to be a -10x Engineer](https://taylor.town/-10x)
 
 ---
 

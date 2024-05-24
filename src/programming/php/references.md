@@ -75,6 +75,7 @@ tag:
 - [7.05. 오토로드 사용하기](https://ysedeveloper.tistory.com/entry/705-%EC%98%A4%ED%86%A0%EB%A1%9C%EB%93%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [7.06. 의존성 라이브러리 관리자 컴포저](https://ysedeveloper.tistory.com/entry/706-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%BB%B4%ED%8F%AC%EC%A0%80)
 - [7.07. 유닛 테스트](https://ysedeveloper.tistory.com/entry/707-%EC%9C%A0%EB%8B%9B-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [8장. 한시간 내에 한줄 메모장 만들기](https://ysedeveloper.tistory.com/entry/8%EC%9E%A5-%ED%95%9C%EC%8B%9C%EA%B0%84-%EB%82%B4%EC%97%90-%ED%95%9C%EC%A4%84-%EB%A9%94%EB%AA%A8%EC%9E%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ---
 

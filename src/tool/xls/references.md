@@ -4,6 +4,8 @@ title: References
 description: Excel > References
 icon: iconfont icon-share
 category: 
+  - Microsoft
+  - Microsoft Office
   - Excel
   - References
 tag: 
@@ -14,6 +16,14 @@ tag:
   - ms-excel
   - xls
   - xlsx
+head:
+  - - meta:
+    - property: og:title
+      content: Excel > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/xls/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -16,8 +16,62 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
+
+---
+
+## `ssh-keygen`
+
+### <FontIcon icon="fas fa-file-lines"/>`id_rsa` 파일 생성
+
+::: tabs
+
+@tab:active 1
+
+Generate SSH Key Pair
+
+> 예: 레이블을 회사 email (*i.e.* `itcloud@ititinfo.com`) 로 지정
+
+```sh
+ssh-keygen -t rsa -b 4096 -C "itcloud@ititinfo.com"
+#
+# Generating public/private rsa key pair.
+# Enter file in which to save the key (<HOME>/.ssh/id_rsa):
+# Enter passphrase (empty for no passphrase):
+# Enter same passphrase again:
+# Your identification has been saved in <HOME>/.ssh/id_rsa.
+# Your public key has been saved in <HOME>/.ssh/id_rsa.pub.
+# The key fingerprint is:
+# SHA256:9n/SUIwvLLTZBhssUJD8HTN1HB2RYG1p+aSw/g9O3po itcloud@ititinfo.com
+# The key's randomart image is:
+# +---[RSA 4096]----+
+# |     ..+.  ..+==*|
+# |      +   + o..Bo|
+# |       o o + =oo.|
+# |        o * o + .|
+# |        So X o   |
+# |       . .= B .  |
+# |          .o =o  |
+# |           ..+++ |
+# |            .oEoo|
+# +----[SHA256]-----+
+```
+
+- `-t rsa`: Specifies the type of key to create, which is RSA.
+- `-b 4096`: Specifies the number of bits in the key. 4096 bits is generally considered secure.
+- `-C "your_email@example.com"`: Adds a label to the key for identification.
+
+You will be prompted to enter a file name to save the key and a passphrase. You can press Enter to accept the default file name (`id_rsa`) and leave the passphrase empty for no passphrase.
+
+@tab 2
+
+Copy Public Key to Remote Server
+
+```sh
+ssh-copy-id -i ~/.ssh/id_rsa.pub itcloud@ititinfo.com
+```
+
+:::
 
 ---
 

@@ -1,25 +1,29 @@
 ---
 lang: ko-KR
-title: References
-description: PowerPoint > References
-icon: iconfont icon-share
+title: Youtube
+description: PowerPoint > Youtube
+icon: fa-brands fa-youtube
 category: 
   - Microsoft
   - Microsoft Office
   - PowerPoint
-  - References
+  - Youtube
 tag:
+  - ms
+  - ms-powerpoint
   - powerpoint
   - ppt
   - pptx
+  - youtube
+  - yt
 head:
   - - meta:
     - property: og:title
-      content: PowerPoint > References
+      content: PowerPoint > Youtube
     - property: og:description
-      content: References
+      content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/tool/powerpoint/references.html
+      content: https://chanhi2000.github.io/tool/ppt/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

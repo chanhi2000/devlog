@@ -31,9 +31,10 @@ tag:
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
-- [`@jooss287` - 코드의 수행시간 체크하기](https://velog.io/@jooss287/%EC%BD%94%EB%93%9C%EC%9D%98-%EC%88%98%ED%96%89%EC%8B%9C%EA%B0%84-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0)
-- [`@1106laura` - 백준 30678 별 안에 별 안에 별 찍기 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-30678-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%B0%8D%EA%B8%B0-C)
-- [`@1106laura` - 백준 2890 카약 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-2890-%EC%B9%B4%EC%95%BD-C)
+- [`@jooss287` / 코드의 수행시간 체크하기](https://velog.io/@jooss287/%EC%BD%94%EB%93%9C%EC%9D%98-%EC%88%98%ED%96%89%EC%8B%9C%EA%B0%84-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0)
+- [`@1106laura` / 백준 30678 별 안에 별 안에 별 찍기 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-30678-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%B0%8D%EA%B8%B0-C)
+- [`@1106laura` / 백준 2890 카약 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-2890-%EC%B9%B4%EC%95%BD-C)
+- [`@jwlee010523` / 다형성(Polymorphism)](https://velog.io/@jwlee010523/%EB%8B%A4%ED%98%95%EC%84%B1Polymorphism)
 
 ---
 
@@ -178,6 +179,12 @@ tag:
 ## The Pasture | The musings, ideas, discussions, and sometimes silly words from a digital sheep magician
 
 - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
+
+---
+
+## Teletype
+
+- [Garbage Collection in V8](https://blog.frontend-almanac.com/v8-garbage-collection)
 
 ---
 

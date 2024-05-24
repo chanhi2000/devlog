@@ -10,11 +10,25 @@ category:
 tag: 
   - ai
   - claude
+head:
+  - - meta:
+    - property: og:title
+      content: Claude > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/claude/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
+
+---
+
+## <FontIcon icon="iconfont icon-claude"/>Anthropic
+
+- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
 
 ---
 

@@ -27,6 +27,12 @@ head:
 
 ---
 
+## tech.inflab.com
+
+- [플랫폼 팀 없는 오픈 소스 기반의 디자인 시스템 구축 회고](https://tech.inflab.com/20240224-design-system/) <!-- TODO: 작성 (/explore/articles/tech.inflab.com/20240224-design-system.md) -->
+
+---
+
 ## 우아한 기술블로그
 
 - [회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835) <!-- TODO: 작성 (/explore/archives/techblog.woowahan.com/7835.md) -->
@@ -88,6 +94,12 @@ head:
 ## Spoqa 기술 블로그
 
 - [서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html) <!-- TODO: 작성 (/explore/articles/spoqa.github.io/all-new-server.md) -->
+
+---
+
+## Brad Frost
+
+- [a global design system](https://bradfrost.com/blog/post/a-global-design-system/)
 
 ---
 

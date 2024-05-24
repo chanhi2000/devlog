@@ -15,6 +15,14 @@ tag:
   - "@matthew_berman"
   - "@streamlitofficial"
   - "@inhumanitystudios"
+head:
+  - - meta:
+    - property: og:title
+      content: LLM > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/llm/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

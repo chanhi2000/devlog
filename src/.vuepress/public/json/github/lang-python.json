@@ -5244,5 +5244,10 @@
     "desc": "Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or use our web app. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
     "officialSite": "https://khoj.dev",
     "topics": ["agent", "ai", "chat", "chatgpt", "emacs", "llama3", "llamacpp", "llm", "markdown", "obsidian", "obsidian-md", "offline-llm", "org-mode", "productivity", "pwa", "rag", "self-hosted", "semantic-search", "whatsapp-ai"]
+  }, {
+    "repo": "marqo-ai/marqo",
+    "desc": "Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai",
+    "officialSite": "https://www.marqo.ai/",
+    "topics": ["chatgpt", "clip", "deep-learning", "gpt", "hacktoberfest", "hnsw", "information-retrieval", "knn", "large-language-models", "machine-learning", "machinelearning", "multi-modal", "natural-language-processing", "search-engine", "semantic-search", "tensor-search", "transformers", "vector-search", "vision-language", "visual-search"]
   }
 ]

@@ -664,6 +664,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
+  "title": "AutoDraw",
+  "desc": "Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.",
+  "link": "https://autodraw.com",
+  "logo": "https://www.autodraw.com/assets/images/favicon.png",
+  "background": "rgba(17,122,220,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Ok! So... Draw online",
   "desc": "The drawing app to express, grasp, and organize your thoughts and ideas",
   "link": "https://okso.app/",
@@ -1020,17 +1030,12 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
-@tab Documentation
+- https://www.emailjs.com/docs
+- https://open.kickbox.com
+- https://verifier.meetchopra.com/
+- https://www.course-api.com/
 
-```component VPCard
-{
-  "title": "Awesome Cheatsheets",
-  "desc": "Designed for the ones who enjoy dark interfaces as much as we do. Using the best UX practices for great conversion rates.",
-  "link": "https://lecoupa.github.io/awesome-cheatsheets/",
-  "logo": "https://lecoupa.github.io/awesome-cheatsheets/images/common/logo@2x.png",
-  "background": "rgba(27,36,49,0.2)"
-}
-```
+@tab Documentation
 
 ```component VPCard
 {
@@ -1062,19 +1067,8 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
-```component VPCard
-{
-  "title": "Open Source Guides | Learn how to launch and grow your project.",
-  "desc": "Learn how to launch and grow your project.",
-  "link": "https://opensource.guide/",
-  "logo": "https://opensource.guide/favicon.ico",
-  "background": "rgba(16,10,10,0.2)"
-}
-```
-
 - https://developers.google.com/youtube/documentation
 - https://jshint.com
-- https://www.emailjs.com/docs
 - https://developers.naver.com/main/
 
 ```component VPCard
@@ -1086,6 +1080,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "background": "rgba(144,238,144,0.2)"
 }
 ```
+
 
 @tab Regex
 

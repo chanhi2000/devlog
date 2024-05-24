@@ -230,10 +230,21 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 
 ```component VPCard
 {
-  "title": "CSS Grid Cheat Sheet",
-  "desc": "Your ultimate CSS grid visual guide",
-  "link": "https://alialaa.github.io/css-grid-cheat-sheet/",
-  "background": "rgba(60,73,165,0.2)"
+  "title": "30 seconds of code",
+  "desc": "Browse 906 short code snippets for all your development needs on 30 seconds of code.",
+  "link": "https://www.30secondsofcode.org/",
+  "logo": "https://www.30secondsofcode.org/assets/icons/icon-192x192.png?v=30swp20231218115417",
+  "background": "rgba(83,149,253,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Awesome Figma Tips",
+  "desc": "Cool collections of curated tips to help you work faster with Figma. There are tips I had learn on the way. I realized that some people might need it.",
+  "link": "https://awesomefigtips.com/tips",
+  "logo": "https://awesomefigtips.com/icon-72x72.png",
+  "background": "rgba(9,10,11,0.2)"
 }
 ```
 
@@ -326,6 +337,16 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "link": "https://naver.github.io/",
   "logo": "https://naver.github.io/assets/images/favicon.ico",
   "background": "rgba(75,136,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Man Pages | ManKier",
+  "desc": "The most complete and up-to-date collection of online man pages.",
+  "link": "https://www.mankier.com",
+  "logo": "https://www.mankier.com/img/icons/icon-192x192.png",
+  "background": "rgba(138,190,183,0.2)"
 }
 ```
 

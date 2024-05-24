@@ -419,6 +419,7 @@ export const sidebarEn = sidebar({
             articleSidebars.freecodecamp("js-react"),
             articleSidebars.yozm("js-react"),
             articleSidebars.woowahan("js-react"),
+            articleSidebars.gmarket("js-react"),
             articleSidebars.zuminternet("js-react"),
           ]
         }
@@ -504,6 +505,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-next/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Storybook.js',
+      collapsible: true,
+      icon: 'iconfont icon-storybook',
+      children: [
+        '/programming/js-storybook/README.md',
+        '/programming/js-storybook/references.md',
+        '/programming/js-storybook/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-storybook/articles/README.md',
           ]
         }
       ]
@@ -1103,15 +1121,15 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-microsoftexcel',
       children: [
-        '/tool/excel/README.md',
-        '/tool/excel/references.md',
-        '/tool/excel/youtube.md',
+        '/tool/xls/README.md',
+        '/tool/xls/references.md',
+        '/tool/xls/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/tool/excel/articles/README.md',
+            '/tool/xls/articles/README.md',
           ]
         }
       ]
@@ -1120,15 +1138,15 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-microsoftpowerpoint',
       children: [
-        '/tool/powerpoint/README.md',
-        '/tool/powerpoint/references.md',
-        '/tool/powerpoint/youtube.md',
+        '/tool/ppt/README.md',
+        '/tool/ppt/references.md',
+        '/tool/ppt/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/tool/powerpoint/articles/README.md',
+            '/tool/ppt/articles/README.md',
           ]
         }
       ]
@@ -2222,7 +2240,10 @@ export const sidebarEn = sidebar({
     {
       text: 'AI',
       icon: 'fas fa-brain',
-      children: [ '/ai/README.md' ],
+      children: [ 
+        '/ai/README.md',
+        '/ai/references.md',
+      ],
     }, {
       text: 'OpenAI',
       collapsible: true,
@@ -2382,7 +2403,6 @@ export const sidebarEn = sidebar({
           ]
         },
         '/explore/api/list.md',
-        '/explore/api/popular.md',
         '/explore/api/references.md',
       ],
     }, {

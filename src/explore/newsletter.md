@@ -412,6 +412,20 @@ https://gracefullight.dev/archive/
 }
 ```
 
+<SiteInfo
+  name="tech.inflab.com"
+  desc="인프랩 기술 블로그"
+  url="https://tech.inflab.com"
+  logo="https://tech.inflab.com/favicon-32x32.png?v=85c8af743e179883b18fef5acc3a66b0"
+  preview="https://cdn.inflearn.com/assets/images/tech-blog/tech_blog_banner.png"/>
+
+<SiteInfo
+  name="TOAST UI :: Make Your Web Delicious!"
+  desc="TOAST UI is an open-source JavaScript UI library maintained by NHN Cloud."
+  url="https://ui.toast.com/"
+  logo="https://ui.toast.com/icons-afac2d19e8aa82377b3f18a704d4acf5/favicon.ico"
+  preview="https://uicdn.toast.com/toastui/img/toast-ui-hero1920-2x.png"/>
+
 ```component VPCard
 {
   "title": "ZUM 기술 블로그",

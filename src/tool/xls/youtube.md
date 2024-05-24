@@ -4,16 +4,18 @@ title: Youtube
 description: Excel > Youtube
 icon: fa-brands fa-youtube
 category: 
+  - Microsoft
+  - Microsoft Office
   - Excel
   - Youtube
 tag:
   - "education"
   - "youtube"
-  - "ms"
-  - "excel"
-  - "ms-excel"
-  - "xls"
-  - "xlsx"
+  - ms
+  - excel
+  - ms-excel
+  - xls
+  - xlsx
   - "@easy_sheets"
   - "@oppadu"
   - "@gongysd"
@@ -44,10 +46,17 @@ tag:
   - "@DatasetGuru"
   - "@vertex42"
   - "@techteachersandstudents"
+head:
+  - - meta:
+    - property: og:title
+      content: Excel > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/xls/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

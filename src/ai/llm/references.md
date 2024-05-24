@@ -10,6 +10,14 @@ tag:
   - ai
   - llm
   - llama
+head:
+  - - meta:
+    - property: og:title
+      content: LLM > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/llm/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

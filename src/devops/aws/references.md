@@ -74,6 +74,7 @@ head:
 - [`@ksh4704` - 코드스테이츠-부트캠프 [Deploy]-AWS](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Deploy-AWS)
 - [`@eunbibi` - AWS RDS](https://velog.io/@eunbibi/AWS-RDS)
 - [`@kandy1002` / [Terraform] Key encryption with Sops & AWS KMS](https://velog.io/@kandy1002/Terraform-Key-encryption-with-Sops-AWS-KMS)
+- [`@root-devvoo` / AWS CloudWatch를 통한 프로세스 모니터링 및 재시작 적용](https://velog.io/@root-devvoo/AWS-CloudWatch%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%8F-%EC%9E%AC%EC%8B%9C%EC%9E%91-%EC%A0%81%EC%9A%A9)
 
 ---
 
@@ -220,6 +221,12 @@ head:
 ## KATE.log
 
 - [[Threepark] 백엔드 서버와 핵심 기능 구현](https://he-kate1130.tistory.com/96)
+
+---
+
+## depot
+
+- [Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
 
 ---
 

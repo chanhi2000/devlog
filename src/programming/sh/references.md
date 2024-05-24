@@ -31,7 +31,8 @@ tag:
 ## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [How are zlib, gzip and zip related? What do they have in common and how are they different?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
-
+- [Is there an equivalent to `ssh-copy-id` for Windows?](https://serverfault.com/questions/224810/is-there-an-equivalent-to-ssh-copy-id-for-windows)
+ 
 ---
 
 ## suckless
@@ -319,6 +320,12 @@ tag:
 ## arp242.net
 
 - [Safe terminal escape codes](https://www.arp242.net/safeterm.html)
+
+---
+
+## Notes on Systems and Software Engineering - Vorakl's notes
+
+- [How to destroy your OS with tar](https://vorakl.com/articles/tar-curdir/)
 
 ---
 

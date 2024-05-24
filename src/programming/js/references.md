@@ -155,6 +155,7 @@ tag:
 - [[JavaScript] 자바스크립트 문자열 자르기(`substring`, `substr`, `slice`)](https://coding-factory.tistory.com/1056)
 - [[JavaScript] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/1057)
 - [[JavaScript] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/1062)
+- [[JavaScript] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/1063)
 
 ---
 
@@ -215,6 +216,24 @@ tag:
 ## Lofi Limo
 
 - [Retry `XMLHttpRequest` Carefully](https://lofi.limo/blog/retry-xmlhttprequest-carefully)
+
+---
+
+## Alex Harri
+
+- [JSDoc as an alternative TypeScript syntax](https://alexharri.com/blog/jsdoc-as-an-alternative-typescript-syntax)
+
+---
+
+## PK's Note
+
+- [JSON's Numeric Boundaries: The Lesser-Known Reality of Inaccurate Figures](https://blog.phakorn.com/jsons-numeric-boundaries-the-lesser-known-reality-of-inaccurate-figures)
+
+---
+
+## Witch-Work
+
+- [JS 탐구생활 - JS의 주석은 `//`과 `/* */`뿐만이 아니다](https://witch.work/posts/javascript-various-comments)
 
 ---
 

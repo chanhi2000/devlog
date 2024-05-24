@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_kledc9wwse.woff2?t=1716470144420') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_kledc9wwse.woff?t=1716470144420') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_kledc9wwse.ttf?t=1716470144420') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_kledc9wwse.svg?t=1716470144420#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_606i2xrvm33.woff2?t=1716527218345') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_606i2xrvm33.woff?t=1716527218345') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_606i2xrvm33.ttf?t=1716527218345') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_606i2xrvm33.svg?t=1716527218345#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-storybook:before { content: "\e92c"; }
 .icon-archlinux:before { content: "\e92b"; }
 .icon-nmap:before { content: "\e92a"; }
 .icon-armeria:before { content: "\e929"; }

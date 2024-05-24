@@ -4,8 +4,7 @@ title: Article(s)
 description: React.js > Article(s)
 icon: fas fa-square-share-nodes
 category: 
-  - JavaScript
-  - TypeScript
+  - Node.js
   - React.js
   - Article(s)
 tag: 
@@ -13,11 +12,11 @@ tag:
   - freecodecamp.org
   - yozm.wishket.com
   - techblog.woowahan.com
+  - dev.gmarket.com
   - zuminternet.github.io
-  - js
-  - javascript
-  - ts
-  - typescript
+  - node
+  - nodejs
+  - node-js
   - react
   - reactjs
   - react-js
@@ -66,6 +65,16 @@ head:
 
 ```component VPCard
 {
+  "title": "지마켓 기술블로그",
+  "desc": "지마켓의 기술과 경험을 공유합니다.",
+  "link": "https://dev.gmarket.com/",
+  "logo": "https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515",
+  "background": "rgba(0,192,30,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "ZUM 기술 블로그",
   "desc": "생각을 읽다, ZUM, 고객의 생각을 읽고 담는 줌 인터넷 개발자들의 '좀 다른 개발 이야기'를 소개 합니다.",
   "link": "https://zuminternet.github.io/",
@@ -81,6 +90,16 @@ head:
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 > freecodecamp.org
+
+```component VPCard
+{
+  "title": "React 서버 컴포넌트를 사용해야 하는 이유와 방법",
+  "desc": "2020년 말, React 팀은 '제로-번들-사이즈 React 서버 컴포넌트' 개념을 도입했습니다. 그 이후로 React 개발자 커뮤니티는 이 미래 지향적인 접근 방식을 실험하고 적용하는 방법을 학습해 왔습니다. React는 UI를 구축하는 방식에 대한 우리의 생각을 바꾸었습니다. 그리고 React 서버 컴포넌트를 사용하는 새로운 모델은 훨씬 더 구조화되고 편리하며, 유지 관리하기 쉽고 더 나은 사용자",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-react-server-components.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -311,6 +330,22 @@ head:
   "link": "/explore/articles/techblog.woowahan.com/16021.md",
   "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
   "background": "rgba(43,193,188,0.2)"
+}
+```
+
+---
+
+## 지마켓 기술블로그
+
+> dev.gmarket.com
+
+```component VPCard
+{
+  "title": "백엔드 개발자의 험난한 React 캘린더 컴포넌트 만들기 대작전 (feat. Props Drilling)",
+  "desc": "안녕하세요. Seller & SD Engineering 팀의 개발자 김민우입니다. 저는 주로 백엔드 개발을 담당하고 있지만, 최근에 프론트엔드 개발, 특히 React로 캘린더 컴포넌트 만들기에 도전했습니다. 이 글에서는 백엔드 개발자의 시각에서 본 프론트엔드 개발의 독특한 점들과 더불어 Props Drilling 문제를 해결한 경험을 공유하고자 합니다. 프론트엔드 개발에 대한 저의 경험은 전문적인 관점이 아닐 수 있지만, 이 분야에 대한 새로운 시각을 제공하려 합니다. 배경 : 저희 팀은 새로 오픈 할 ESM 개편안 중 '통계' 작업을 맡았습니다. 본래는 통계 페이지들의 특성상 상단에는 단순 조건 필터링, 하단에는 해당 조건에 따른 결과(그래프, 테이블 등)로 단순하게 구성하기 때문에 프론트에 대한 리소...",
+  "link": "/explore/articles/dev.gmarket.com/101.md",
+  "logo": "https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515",
+  "background": "rgba(0,192,30,0.2)"
 }
 ```
 

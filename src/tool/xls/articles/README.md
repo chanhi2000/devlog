@@ -1,25 +1,25 @@
 ---
 lang: ko-KR
 title: Article(s)
-description: Powerpoint > Article(s)
+description: Excel > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - Microsoft
   - Microsoft Office
-  - Powerpoint
+  - Excel
   - Article(s)
 tag:
-  - powerpoint
-  - ppt
-  - pptx
+  - excel
+  - xls
+  - xlsx
 head:
   - - meta:
     - property: og:title
-      content: Powerpoint > Article(s)
+      content: Excel > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/tool/powerpoint/articles/
+      content: https://chanhi2000.github.io/tool/xls/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

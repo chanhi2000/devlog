@@ -27,15 +27,6 @@ tag:
 
 ## APIs
 
-- [testing-library][testing-library]: The home for all testing-library projects
-- [kickbox][kickbox]: Free, Open API for Detecting Disposable Email Addresses
-- [course-api][course-api]: Course API's
-- [verifier][verifier]: Ensure Customers are Real...
-- [30secondsofcode][30secondsofcode]: 30 Seconds of Code
-- [mankier][mankier]: Linux Man Page
-- [pypi][pypi]: Find, install and publish Python packages with the Python Package Index
-- [foojay][foojay]: Friends of OpenJDK
-- [opensourcelibs][opensourcelibs]: a massive collection of the world's best open source software
 - [golf-genius-api][golf-genius-api]: Golf Genius API
 - [CoinGecko](https://www.coingecko.com/en/api): Cryptocurrencies
 - [Lorem Picsum](https://picsum.photos): The Lorem Ipsum for photos.
@@ -73,7 +64,6 @@ tag:
 
 ## Resources
 
-- [Autodraw][autodraw]: Fast drawing for everyone
 - [MathAPI][math-api]: Place LaTeX Math equation on anywhere as `<img>` tag.
 - [MariaLetta/free-gophers-pack][MariaLetta/free-gophers-pack]: ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
 - [Cracking Vue.js][cracking-vuejs]: 이 사이트는 Vue.js로 웹 서비스를 개발할 때 필요한 지식을 모아놓은 사이트입니다.
@@ -103,22 +93,12 @@ tag:
   - [DuckDuckGo를 조금 더 활용하는 방법](https://www.clien.net/service/board/lecture/15302686)
 - [기백이의 맥가이버](http://www.macguyver.co.kr)
 
-
 ---
 
 <TagLinks />
 
 <!-- APIs -->
 
-[testing-library]: https://github.com/testing-library
-[kickbox]: https://open.kickbox.com
-[course-api]: https://course-api.com
-[verifier]: https://verifier.meetchopra.com
-[30secondsofcode]: https://www.30secondsofcode.org
-[mankier]: https://www.mankier.com
-[pypi]: https://pypi.org
-[foojay]: https://foojay.io
-[opensourcelibs]: https://opensourcelibs.com
 [golf-genius-api]: https://jsapi.apiary.io/apis/golfgeniusapiv2/reference/0/master-roster.html
 <!-- APIs > 한국 -->
 [data-kr]: https://www.data.go.kr
@@ -142,7 +122,6 @@ tag:
 [kakao]: https://developers.kakao.com/docs/latest/ko/index
 <!-- Resources -->
 
-[autodraw]: https://www.autodraw.com
 [math-api]: https://math.vercel.app/home
 [MariaLetta/free-gophers-pack]: https://github.com/MariaLetta/free-gophers-pack
 [cracking-vuejs]: https://joshua1988.github.io/vue-camp/textbook.html

@@ -17,6 +17,14 @@ tag:
   - bard
   - youtube
   - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: Gemini > Article(s)
+    - property: og:description
+      content: Article(s)
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/gemini/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

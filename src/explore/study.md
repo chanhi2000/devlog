@@ -238,7 +238,7 @@ tag:
   "desc": "An in-depth course on the basics of JavaScript.",
   "link": "https://web.dev/learn/javascript",
   "logo": "https://www.gstatic.com/devrel-devsite/prod/ve5ef9ac7b497e19ece9427facc78d0c59aaab7a2bc6a0f75fdae93f4ee589f67/web/images/favicon.png",
-  "background": "rgba(48.96.190,0.2)"
+  "background": "rgba(26,115,232,0.2)"
 }
 ```
 
@@ -316,9 +316,29 @@ https://www.joinc.co.kr/w/Site
 }
 ```
 
+```component VPCard
+{
+  "title": "Open Source Guides | Learn how to launch and grow your project.",
+  "desc": "Learn how to launch and grow your project.",
+  "link": "https://opensource.guide/",
+  "logo": "https://opensource.guide/favicon.ico",
+  "background": "rgba(16,10,10,0.2)"
+}
+```
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet
+
+```component VPCard
+{
+  "title": "Awesome Cheatsheets",
+  "desc": "Designed for the ones who enjoy dark interfaces as much as we do. Using the best UX practices for great conversion rates.",
+  "link": "https://lecoupa.github.io/awesome-cheatsheets/",
+  "logo": "https://lecoupa.github.io/awesome-cheatsheets/images/common/logo@2x.png",
+  "background": "rgba(27,36,49,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -347,6 +367,15 @@ https://www.joinc.co.kr/w/Site
   "link": "https://vimhelp.org/quickref.txt.html",
   "logo": "https://vimhelp.org/s/KXPobNpJBGAI5V1t/favicon-vim.ico",
   "background": "rgba(131,165,152,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CSS Grid Cheat Sheet",
+  "desc": "Your ultimate CSS grid visual guide",
+  "link": "https://alialaa.github.io/css-grid-cheat-sheet/",
+  "background": "rgba(60,73,165,0.2)"
 }
 ```
 

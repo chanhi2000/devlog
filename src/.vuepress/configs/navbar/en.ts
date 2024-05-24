@@ -159,6 +159,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-nextjs',
         link: '/programming/js-next/README.md',
       }, {
+        text: 'Storybook.js',
+        icon: 'iconfont icon-storybook',
+        link: '/programming/js-storybook/README.md',
+      }, {
         text: 'GraphQL',
         icon: 'iconfont icon-graphql',
         link: '/programming/js-graphql/README.md',
@@ -544,15 +548,15 @@ export const navbarEn = navbar([
       }, {
         text: 'Excel',
         icon: 'iconfont icon-microsoftexcel',
-        link: '/tool/excel/README.md',
+        link: '/tool/xls/README.md',
       }, {
         text: 'PowerPoint',
         icon: 'iconfont icon-microsoftpowerpoint',
-        link: '/tool/powerpoint/README.md',
+        link: '/tool/ppt/README.md',
       }, {
         text: 'Power Bi',
         icon: 'iconfont icon-power-bi',
-        link: '/tool/powerbi/README.md',
+        link: '/tool/power-bi/README.md',
       }, {
         text: 'Chrome Browser',
         icon: 'fa-brands fa-chrome',

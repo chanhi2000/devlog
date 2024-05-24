@@ -38,6 +38,7 @@ tag:
 - [`flutter-community` / How to Test Native Features in Flutter Apps with Patrol and Codemagic](https://medium.com/flutter-community/how-to-test-native-features-in-flutter-apps-with-patrol-and-codemagic-98639cb37fba)
 - [`@sindepal` / Flutter iOS 17 does not run](https://medium.com/@sindepal/flutter-ios-17-does-not-run-f2b52403c067)
 - [`@fmmagalhaes` / I built the same app with Flutter, React Native, and Ionic](https://medium.com/@fmmagalhaes/i-built-the-same-app-with-flutter-react-native-and-ionic-33ff8b358562)
+- [`@sindepal` / [ERROR:flutter/shell/platform/darwin/graphics/FlutterDarwinContextMetalImpeller.mm(42)] Using the Impeller rendering backend.](https://medium.com/@sindepal/error-flutter-shell-platform-darwin-graphics-flutterdarwincontextmetalimpeller-mm-42-7e6b763bc1e5)
 
 ---
 

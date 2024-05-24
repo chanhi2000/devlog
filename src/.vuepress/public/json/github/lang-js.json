@@ -2279,5 +2279,15 @@
     "desc": "🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env",
     "officialSite": "https://browsersl.ist",
     "topics": []
+  }, {
+    "repo": "ifcwebserver/ifcwebserver",
+    "desc": "Data model server and online for Building Information Models (BIM) based on IFC standards",
+    "officialSite": "http://ifcwebserver.org",
+    "topics": []
+  }, {
+    "repo": "metriport/metriport",
+    "desc": "Metriport is an open-source universal API for healthcare data.",
+    "officialSite": "https://metriport.com/",
+    "topics": ["api", "fhir", "healthcare", "hipaa", "open-source", "self-hostable", "soc2", "typescript"]
   }
 ]

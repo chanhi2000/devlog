@@ -29,6 +29,12 @@ head:
 
 ---
 
+## Vercel
+
+- [Common mistakes with the Next.js App Router and how to fix them](https://vercel.com/blog/common-mistakes-with-the-next-js-app-router-and-how-to-fix-them)
+
+---
+
 ## 개발 공부 블로그
 
 - [[FE] local TLS인증서가 포함된 Next.js 커스텀 서버 구축하기](https://blog.naver.com/dlaxodud2388/223444514671)

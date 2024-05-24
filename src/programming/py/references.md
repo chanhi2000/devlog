@@ -626,6 +626,7 @@ tag:
 - [Python if문 내부에 있는 조건별로 주석 달기](https://webnautes.tistory.com/2333)
 - [OpenCV Python 마우스 이벤트 예제](https://webnautes.tistory.com/2334)
 - [PyQt5에서 윈도우의 모든 창 버튼(최소화, 최대화, 닫기)을 제거](https://webnautes.tistory.com/2335)
+- [pyQt5 윈도우를 화면의 중앙에 배치하기](http://webnautes.tistory.com/2336)
 
 ---
 

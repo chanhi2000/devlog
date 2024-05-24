@@ -15,6 +15,14 @@ tag:
   - google
   - google-gemini
   - bard
+head:
+  - - meta:
+    - property: og:title
+      content: Gemini > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/gemini/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

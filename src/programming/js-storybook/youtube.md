@@ -1,31 +1,34 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Claude > Youtube
+description: Storybook.js > Youtube
 icon: fa-brands fa-youtube
 category: 
-  - Claude
-  - AI
+  - Node.js
+  - Storybook.js
   - Youtube
 tag: 
-  - ai
-  - claude
+  - node
+  - nodejs
+  - node-js
+  - storybook
+  - storybookjs
+  - storybook-js
   - youtube
-  - tutorial
 head:
   - - meta:
     - property: og:title
-      content: Claude > Youtube
+      content: Storybook.js > Youtube
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/ai/claude/youtube.html
+      content: https://chanhi2000.github.io/programming/js-storybook/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
 
-<MyYouTubeItems jsonName="yu-ChrisCappetta" /><!-- Chris Cappetta -->
+---
 
 <TagLinks />

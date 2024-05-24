@@ -1434,5 +1434,11 @@
     "desc": "B-field implementation in Rust",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "dalance/amber",
+    "desc": "A code search / replace tool",
+    "officialSite": "",
+    "topics": ["command-line-tool", "grep", "replace-text", "rust", "search"]
   }
+  
 ]

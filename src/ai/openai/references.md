@@ -14,6 +14,14 @@ tag:
   - chatgpt
   - chat
   - llm
+head:
+  - - meta:
+    - property: og:title
+      content: OpenAI > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/openai/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

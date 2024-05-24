@@ -974,5 +974,10 @@
     "desc": "Userspace eBPF VM",
     "officialSite": "",
     "topics": []
-  }
+  }, {
+    "repo": "koute/bytehound",
+    "desc": "A memory profiler for Linux.",
+    "officialSite": "",
+    "topics": ["memory-profiler", "memory-profiling", "profiler", "profiling"]
+  } 
 ]

@@ -54,8 +54,20 @@ head:
 ---
 
 ## Johnny•Decimal
- 
+
 - [A system to organise projects](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction)
+
+---
+
+## egghead.io
+
+- [Automate Package Scaffolding in NPM/Yarn/PNPM Monorepo Workspaces](https://egghead.io/tips/automate-package-scaffolding-npm-yarn-pnpm-monorepo-workspaces~l93c5)
+
+---
+
+## uncenter
+
+- [The package that broke npm (accidentally)](https://uncenter.dev/posts/npm-install-everything/)
 
 ---
 

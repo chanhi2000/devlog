@@ -1343,5 +1343,10 @@
     "desc": "Abseil Common Libraries (C++)",
     "officialSite": "https://abseil.io",
     "topics": []
+  }, {
+    "repo": "triton-lang/triton",
+    "desc": "Development repository for the Triton language and compiler",
+    "officialSite": "https://triton-lang.org/",
+    "topics": []
   }
 ]

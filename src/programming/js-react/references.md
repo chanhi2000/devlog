@@ -184,9 +184,11 @@ head:
 
 ---
 
-## Robin Wieruch
+## Robin Wieruch - Freelance Web Developer
 
-- [main](https://www.robinwieruch.de/blog)
+- [React Libraries for 2024](https://www.robinwieruch.de/react-libraries/) <!-- TODO: 읽고 라이브러리 추출 -->
+- [Linear Algebra in JavaScript with Matrix Operations](https://www.robinwieruch.de/linear-algebra-matrix-javascript)
+- [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
 
 ---
 
@@ -314,6 +316,7 @@ head:
 - [`lokesh-prajapati` / JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
 - [`javascript.plainenglish` / 4 React Tips to Instantly Improve Your Code](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)
 - [`junghan92` / 리액트 네이티브 0.74 — Yoga 3.0, 브릿지 없는 새로운 아키텍처 등](https://junghan92.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-0-74-yoga-3-0-%EB%B8%8C%EB%A6%BF%EC%A7%80-%EC%97%86%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%93%B1-5d4a29ef4542)
+- [`daangn` / 당근페이 FE, 4개의 프로젝트를 하나로 합치며 나눈 대화들](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-fe-4%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EB%82%98%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B0-%EB%82%98%EB%88%88-%EB%8C%80%ED%99%94%EB%93%A4-b96f837230da)
 
 ---
 
@@ -523,12 +526,6 @@ head:
 
 ---
 
-## Robin Wieruch
-
-- [Linear Algebra in JavaScript with Matrix Operations](https://www.robinwieruch.de/linear-algebra-matrix-javascript)
-
----
-
 ## Josh Collinsworth
 
 - [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
@@ -644,16 +641,9 @@ https://o-yeon.tistory.com/227
 
 ---
 
-## CONST oyeonDevlog; 
+## CONST oyeonDevlog
 
 - [Tanstack-Query (a.k.a React-Query) 입문자들을 위한 간단 설명](https://o-yeon.tistory.com/227)
-
----
-
-## Misc
-
-- [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
-- [Create Next Stack: The ultimate starter kit for Next.js](https://www.create-next-stack.com)
 
 ---
 
@@ -737,5 +727,10 @@ https://o-yeon.tistory.com/227
 
 ---
 
-<TagLinks />
+## overreact
 
+- [The Two Reacts](https://overreacted.io/the-two-reacts/)
+
+---
+
+<TagLinks />

@@ -4,20 +4,18 @@ title: What is Throttling in JavaScript? Explained with a Simple React Use Case
 description: Article(s) > What is Throttling in JavaScript? Explained with a Simple React Use Case
 icon: fa-brands fa-react
 category: 
-  - JavaScript
   - Node.js
   - React.js
   - Article(s)
 tag: 
   - blog
   - freecodecamp.org
-  - js
-  - javascript
-  - node.js
+  - node
   - nodejs
+  - node-js
   - react
   - reactjs
-  - react.js
+  - react-js
 head:
   - - meta:
     - property: og:title
@@ -26,6 +24,7 @@ head:
       content: What is Throttling in JavaScript? Explained with a Simple React Use Case
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/throttling-in-javascript.html
+prev: /programming/js-react/articles/README.md
 ---
 
 # {{ $frontmatter.title }} 관련

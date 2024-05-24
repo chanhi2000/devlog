@@ -2863,5 +2863,50 @@
     "desc": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.",
     "officialSite": "https://jsonhero.io",
     "topics": ["developer-tools", "devtools", "hacktoberfest", "json", "json-viewer", "react", "tools", "typescript", "viewer"]
+  }, {
+    "repo": "canalun/brick-break-anywhere",
+    "desc": "let's break bricks anywhere!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tinylibs/tinyspy",
+    "desc": "🕵🏻‍♂️ minimal fork of nanospy, with more features ",
+    "officialSite": "https://www.npmjs.com/package/tinyspy",
+    "topics": ["hacktoberfest", "jest", "spy", "test", "tinylibs", "vite", "vitest"]
+  }, {
+    "repo": "tinylibs/tinypool",
+    "desc": "🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)",
+    "officialSite": "https://npmjs.com/package/tinypool",
+    "topics": ["fast", "hacktoberfest", "minimal", "nodejs", "performance", "pooling", "tiny", "tinylibs", "worker-threads", "workers"]
+  }, {
+    "repo": "tinylibs/tinybench",
+    "desc": "🔎 A simple, tiny and lightweight benchmarking library!",
+    "officialSite": "",
+    "topics": ["benchmark", "hacktoberfest", "light-weight", "performance", "tinylibs"]
+  }, {
+    "repo": "tinylibs/tinyhighlight",
+    "desc": "minimal fork of @babel/highlight 🌈",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tinylibs/tinylet",
+    "desc": "🎨 redlet(), greenlet(), bluelet(), and more threading helpers for web Workers",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tinylibs/tinyrainbow",
+    "desc": "🌈 a small library to print colourful messages ",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "47ng/nuqs",
+    "desc": "Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.",
+    "officialSite": "https://nuqs.47ng.com",
+    "topics": []
+  }, {
+    "repo": "ollama/ollama-js",
+    "desc": "Ollama JavaScript library",
+    "officialSite": "https://ollama.ai",
+    "topics": ["javascript", "js", "ollama"]
   }
 ]

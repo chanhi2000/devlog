@@ -49,6 +49,14 @@ tag:
   - "@TheBrettWay"
   - "@RealVisionFinance"
   - "@dev-ing"
+head:
+  - - meta:
+    - property: og:title
+      content: OpenAI > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/openai/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

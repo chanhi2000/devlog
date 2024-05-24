@@ -21,7 +21,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/tool/excel/" />
+<ToCLocal basePath="/tool/xls/" />
 
 ---
 

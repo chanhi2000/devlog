@@ -16,6 +16,16 @@ tag:
 
 ---
 
+```component VPCard
+{
+  "title": "Free Java & OpenJDK Info for Daily Java Usage | foojay",
+  "desc": "A place for friends of OpenJDK, foojay provides user-focused Java and OpenJDK technical info and dashboards with free data for everyday Java developers.",
+  "link": "https://foojay.io/",
+  "logo": "https://foojay.io/wp-content/uploads/2020/04/Favicon-3-2.png",
+  "background": "rgba(79,195,247,0.2)"
+}
+```
+
 ## <FontIcon icon="fa-brands fa-java"/>Java
 
 ### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
@@ -102,6 +112,9 @@ tag:
 - [`@danjr` / JAVA - 반복문](https://velog.io/@danjr/JAVA-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 - [`@hyemin916` / 자바와 함수형 프로그래밍](https://velog.io/@hyemin916/%EC%9E%90%EB%B0%94%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - [`@qkrtkdwns3410` / 프로세스(Process) vs 스레드(Thread)](https://velog.io/@qkrtkdwns3410/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4Process-vs-%EC%8A%A4%EB%A0%88%EB%93%9CThread)
+- [`@qkrtkdwns3410` / [이펙티브 자바.아이템5] 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C5-%EC%9E%90%EC%9B%90%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%AA%85%EC%8B%9C%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%A1%B4-%EA%B0%9D%EC%B2%B4-%EC%A3%BC%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
+- [`@qkrtkdwns3410` / [이펙티브 자바.아이템6] 불필요한 객체 생성을 피하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C6-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC)
+- [`@qkrtkdwns3410` / [이펙티브 자바.아이템7] 다 쓴 객체 참조를 해제하라.](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C7-%EB%8B%A4-%EC%93%B4-%EA%B0%9D%EC%B2%B4-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC)
 
 ### <FontIcon icon="iconfont icon-blex"/>BLEX
 
@@ -397,7 +410,6 @@ tag:
 - [Kotlin typealias와 inline class를 알아보고 적절한 사용법을 알아보자.](https://thdev.tech/kotlin/2020/10/13/kotlin_effective_06)
 - [Kotlin Collections에서 지연 계산(lazy)의 이점을 알아보자.](https://thdev.tech/kotlin/2020/10/06/kotlin_effective_05)
 
-
 ### HolyKisa
 
 - [EveDrop 개발기1](https://holykisa.tistory.com/128)
@@ -445,6 +457,7 @@ tag:
 
 ### kciter.so
 
+- [아름다운 코드에 대하여](https://kciter.so/posts/what-is-beautiful-code/)
 - [Railway-Oriented Programming](https://kciter.so/posts/railway-oriented-programming)
 
 ### kotlinworld
@@ -482,6 +495,7 @@ tag:
 - [[OOP] 일급 컬렉션(First Class Collection)으로 컬렉션을 다뤄보자](https://colabear754.tistory.com/209)
 - [[Kotlin] 백준 25418 : 정수 a를 k로 만들기](https://colabear754.tistory.com/210)
 - [[Kotlin] 백준 28078 : 중력 큐](https://colabear754.tistory.com/213)
+- [[Kotlin] 백준 17612 : 쇼핑몰](https://colabear754.tistory.com/214)
 
 ### Square Lab
 
@@ -560,6 +574,7 @@ tag:
 ### Yun Blog
 
 - [Kotlin 자주 사용하는 패턴 정리](https://cheese10yun.github.io/kotlin-pattern/)
+- [Kotlin 코루틴으로 성능 개선 - Flow를 활용한 다중 요청 처리](https://cheese10yun.github.io/kotlin-flow/)
 
 ### 오늘도 끄적끄적
 

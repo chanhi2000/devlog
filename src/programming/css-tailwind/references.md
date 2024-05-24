@@ -30,6 +30,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-tailwindcss"/>
+
+- [Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
+
+---
+
 ## <FontIcon icon="iconfont icon-kakao"/>카카오엔터테인먼트 FE
 
 - [FE개발그룹에서는 Tailwind CSS를 왜 도입했고, 어떻게 사용했을까?](https://fe-developers.kakaoent.com/2022/221013-tailwind-and-design-system/) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/221013-tailwind-and-design-system.md) -->

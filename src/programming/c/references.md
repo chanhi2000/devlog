@@ -312,7 +312,11 @@ tag:
 
 - [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 
-<!-- TODO: 작성 -->
+---
+
+## LANCE EWING
+
+- [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 
 ---
 
