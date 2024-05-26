@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/Ty3SGU-0kHB2mfmEQpPmJVtstrsaF69HXpaeP9rU-djhg6J08ZHS3_zx8nxmAWJDkFGcI2vI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lkoBZUjNO4c", "title": "[Q&A] Rive파일 다운로드 링크 추출이 안될때!?" },
+    { "id": "KO5CJjm1rbo", "title": "[플러터플로우FlutterFlow_중급_27편](Firebase) DataTable 위젯에 DB 데이터 연동하기(1/2)" },
+    { "id": "x9oqBzEGT1Y", "title": "[플러터플로우FlutterFlow_중급_28편](Firebase) DataTable 위젯에 DB 데이터 연동하기(2/2)" },
+    { "id": "RKDvK11Yl-M", "title": "[플러터플로우FlutterFlow_중급_29편] Drag 위젯으로 과일 바구니 앱 만들기" },
+    { "id": "xYs2f3cZN6c", "title": "[플러터플로우FlutterFlow_중급_30편] 스타벅스 매장 주소 복사하기 Copy To Clipboard" },
+    { "id": "ITT6PsYnqQE", "title": "[플러터플로우FlutterFlow_중급_31편] 페이지 초기화 하기 Reset action" },
+    { "id": "eafX8WFyzHA", "title": "[플러터플로우FlutterFlow_중급_33편] 배달지 정보 자동완성 하기 (로컬데이터) SetFormField action" },
+    { "id": "Rfo1skhL5ek", "title": "[플러터플로우FlutterFlow_중급_34편] 세상에서 가장 쉬운 쿼리(Query) 개념잡기!! what's a query?" },
+    { "id": "Lf8zuQhHE50", "title": "[플러터플로우FlutterFlow_완전초급_86편](UI개발) 위젯편 : 히어로 애니메이션 hero animations" },
+    { "id": "jBrljlnN7vA", "title": "[플러터플로우FlutterFlow_중급_42편] 앱 둘러보기 기능 만들기 (워크스루) !! Walkthroughs" },
+    { "id": "qf9CNLXEhVU", "title": "[플러터플로우FlutterFlow_중급_43편] 드랍다운 위젯에 DB데이터 연결하기 !! firestore DB + Dropdown widget" },
+    { "id": "pqNXZrriad0", "title": "[플러터플로우FlutterFlow_중급_44편] 라디오버튼 위젯에 DB데이터 연결하기 !! firestore DB + radio button widget" },
     { "id": "f8aij0xcdE0", "title": "[플러터플로우FlutterFlow_완전초급_82편](UI개발) 위젯편 : CreditCardForm 신용카드 폼 위젯 씹어먹기" },
     { "id": "3sloFLZpb5g", "title": "[플러터플로우FlutterFlow_중급_23편](Firebase) Firestore create SubCollection 서브컬렉션으로 간단한 채팅앱 만들기(1/2)" },
     { "id": "nTuW3FSZr18", "title": "[플러터플로우FlutterFlow_중급_24편](Firebase) Firestore create SubCollection 서브컬렉션으로 간단한 채팅앱 만들기(2/2)" },

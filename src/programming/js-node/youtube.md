@@ -47,7 +47,6 @@ head:
 <MyYouTubeItems jsonName="yu-TylerPotts" /><!-- Tyler Potts -->
 <MyYouTubeItems jsonName="yu-jherr" /><!-- Jack Herrington -->
 <MyYouTubeItems jsonName="yu-brianmmdev" /><!-- Brian Morrison -->
-<MyYouTubeItems jsonName="yu-CodewithSloba" /><!-- Code with Sloba -->
 <MyYouTubeItems jsonName="yu-codefactory_official" /><!-- 코드팩토리 -->
 <MyYouTubeItems jsonName="yu-ZeroChoTV" /><!-- ZeroCho TV -->
 <MyYouTubeItems jsonName="yu-leighhalliday" /><!-- Leigh Halliday -->
@@ -198,7 +197,7 @@ head:
 <MyYouTubeItems jsonName="yu-codewithguillaume" /><!-- CodewithGuillaume -->
 <MyYouTubeItems jsonName="yu-JakePomperada" /><!-- Jake Pomperada -->
 <MyYouTubeItems jsonName="yu-testerstalk" /><!-- Testers Talk -->
-<MyYouTubeItems jsonName="yu-with-neighbors" />    <!-- 이웃팔촌 -->
+<MyYouTubeItems jsonName="yu-with-neighbors" /><!-- 이웃팔촌 -->
 <MyYouTubeItems jsonName="yu-codegeek9098" /><!-- Code Geek -->
 <MyYouTubeItems jsonName="yu-slowcoding" /><!-- Slow Coding -->
 <MyYouTubeItems jsonName="yu-1BestCsharpblog" /><!-- 1BestCsharp blog -->

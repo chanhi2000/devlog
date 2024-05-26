@@ -10,6 +10,14 @@ tag:
   - git
   - github
   - git-cli
+head:
+  - - meta:
+    - property: og:title
+      content: Git > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/git/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -20,6 +28,8 @@ tag:
 ---
 
 ## Cheatsheet(s)
+
+<PDF url="https://wizardzines.com/git-cheat-sheet.pdf" />
 
 ![[<FontIcon icon="fas fa-globe"/>Git Cheatsheet](https://wall-skills.com/2013/git-cheat-sheet/)](https://wall-skills.com/wp-content/uploads/2013/12/git-Cheat-Sheet_Wall-Skills1.png)
 

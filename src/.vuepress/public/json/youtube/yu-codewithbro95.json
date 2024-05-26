@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "codewithbro95",
+    "name": "CodewithBro",
+    "profile": "https://yt3.googleusercontent.com/nGKhTJaL5-ZmHGVaqyNkyqeIYIVlfPDgIpU3IKQP1_qDzooIJaP1pgsFwFCXUPsC57Nsci1bL24=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ne4ZSFRfBxjUi1Uiy6Wuxx1ss8NxQPj2GGINXaul1sOAIlbrxxhKSjb1U3M7nlnMGpEATw5I=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "O1_u1IqGgrI", "title": "A sneak peek at Project IDX: The VSCode killer" },
+    { "id": "qI2H6vNFbeM", "title": "I am building J.A.R.V.I.S for everyone." },
+    { "id": "yz-Go4g3FLI", "title": "How to Install and test LLaMA 3 Locally [2024]" }
+  ],
+  "playlists": [
+
+  ]
+}

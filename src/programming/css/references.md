@@ -132,8 +132,8 @@ tag:
 - [InfiInfinite-Scrolling Logos In Flat HTML And Pure CSS](https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/)
 - [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://smashingmagazine.com/2023/07/writing-css-2023)
 - [Sliding 3D Image Frames In CSS](https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/)
-- [The Modern Guide For Making CSS Shapes](https://smashingmagazine.com/2024/05/modern-guide-making-css-shapes/)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/modern-guide-making-css-shapes.md) -->
-- [The Times You Need A Custom `@property` Instead Of A CSS Variable](https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/times-need-custom-property-instead-css-variable.md) -->
+- [The Modern Guide For Making CSS Shapes](https://smashingmagazine.com/2024/05/modern-guide-making-css-shapes/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/modern-guide-making-css-shapes.md) -->
+- [The Times You Need A Custom `@property` Instead Of A CSS Variable](https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/times-need-custom-property-instead-css-variable.md) -->
 
 ---
 
@@ -565,6 +565,12 @@ tag:
 ## Developer, writer and speaker | Stefan Judis Web Development
 
 - [Target=_blank implies rel=noopener](https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/)
+
+---
+
+## Max Böck
+
+- [Old Dogs, new CSS Tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 
 ---
 

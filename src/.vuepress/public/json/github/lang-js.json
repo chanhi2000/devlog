@@ -295,11 +295,6 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "alan2207/bulletproof-react",
-    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
-    "officialSite": "",
-    "topics": []
-  }, {
     "repo": "openaudioserver/open-audio-server",
     "desc": "A self-hosted and free music server compatible with web browsers and smartphone apps",
     "officialSite": "",
@@ -2299,5 +2294,15 @@
     "desc": "WebGoat is a deliberately insecure application",
     "officialSite": "https://owasp.org/www-project-webgoat/",
     "topics": []
+  }, {
+    "repo": "oklemenz/PrinceJS",
+    "desc": "Prince of Persia reimplementation written in HTML5 / JavaScript",
+    "officialSite": "https://princejs.com",
+    "topics": ["phaser", "prince-of-persia", "retrogaming"]
+  }, {
+    "repo": "Azgaar/Fantasy-Map-Generator",
+    "desc": "Web application generating interactive and highly customizable maps",
+    "officialSite": "https://azgaar.github.io/Fantasy-Map-Generator",
+    "topics": ["cartography", "dungeons-and-dragons", "fantasy-maps", "generator", "javascript", "map-generation", "mapmaker", "procedural-generation"]
   }
 ]

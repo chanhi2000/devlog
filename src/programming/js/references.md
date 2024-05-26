@@ -46,6 +46,12 @@ tag:
 
 - [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility)
 
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+### <FontIcon icon="iconfont icon-kakao"/>카카오엔터테인먼트 FE
+
+- [타입스크립트 꿀팁](https://fe-developers.kakaoent.com/2021/211012-typescript-tip/) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/211012-typescript-tip.md) -->
+
 ---
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
@@ -254,6 +260,18 @@ tag:
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
 - [“브라우저 보편성+네이티브 기능성” 프로그레시브 웹 앱의 이해와 맛보기](https://www.itworld.co.kr/news/338020)
+
+---
+
+## blog.rhostem.com
+
+- [Canvas, Web Audio API를 사용한 웹 오디오 플레이어 제작기](https://blog.rhostem.com/posts/2022-01-08-canvas-web-audio-player)
+
+---
+
+## kettanaito.com
+
+- [Why Patching Globals Is Harmful](https://kettanaito.com/blog/why-patching-globals-is-harmful)
 
 ---
 

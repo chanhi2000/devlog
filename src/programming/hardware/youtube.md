@@ -2,7 +2,7 @@
 lang: ko-KR
 title: YouTube
 description: Hardware > YouTube
-icon: iconfont icon-share
+icon: fa-brands fa-youtube
 category:
   - Hardware
   - YouTube
@@ -53,5 +53,7 @@ tag:
 <MyYouTubeItems jsonName="yu-ControllersTech" /><!-- ControllersTech -->
 <MyYouTubeItems jsonName="yu-Annmir_" /><!-- 안미르 Annmir -->
 <MyYouTubeItems jsonName="yu-HelloDavid" /><!-- David Zhang -->
+<MyYouTubeItems jsonName="yu-chehumpan" /><!-- 체험판 -->
+<MyYouTubeItems jsonName="yu-life_peace87" /><!-- 라이프피스 -->
 
 <TagLinks />

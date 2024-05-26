@@ -61,6 +61,7 @@ head:
 - [`zendesk` / Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
 - [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258#gaerae.com)
 - [`mathpresso` / Aurora/RDS 전문가의 GCP Cloud SQL 이전기](https://blog.mathpresso.com/aurora-mysql-rds-for-mysql-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-gcp-cloud-sql-for-mysql%EC%9D%B4%EC%A0%84%EA%B8%B0-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-cloud-db-%EC%9D%B4%EC%A0%84%EA%B8%B0-27db5b17450d)
+- [`wantedjobs` / CloudFront + CloudFront functions 이용하여, Next.js 번들파일 효율적으로 서빙하기! 🧞](https://medium.com/wantedjobs/cloudfront-cloudfront-functions-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-next-js-%EB%B2%88%EB%93%A4%ED%8C%8C%EC%9D%BC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-9ccc0541e406)
 
 ---
 
@@ -139,21 +140,21 @@ head:
 
 ## 개발하는 기획자 기획하는 개발자
 
-- [탄력적 IP 적용하기](https://blog.naver.com/gi_balja/223394021270)
-- [Route53과 도메인 연결](https://blog.naver.com/gi_balja/223398889777)
-- [AWS 로드 밸런서 적용하기](https://blog.naver.com/gi_balja/223401436302)
-- [AWS RDS 연결하기](https://blog.naver.com/gi_balja/223402753221)
-- [AWS S3](https://blog.naver.com/gi_balja/223407211913)
-- [AWS S3와 CloudFront](https://blog.naver.com/gi_balja/223408217352)
-- [S3 리액트 자동 배포 (Github Action 사용)](https://blog.naver.com/gi_balja/223410998889)
-- [AWS Lambda](https://blog.naver.com/gi_balja/223415212877)
-- [AWS API Gateway](https://blog.naver.com/gi_balja/223414349399)
-- [AWS SES와 Nodemailer](https://blog.naver.com/gi_balja/223414001298)
-- [AWS API Gateway와 Lambda 연동하기](https://blog.naver.com/gi_balja/223417844588)
-- [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
-- [AWS 서버리스 기초](https://blog.naver.com/gi_balja/223421350581) 
-- [AWS VPC를 위한 네트워크 지식 - IP 기초편](https://blog.naver.com/gi_balja/223425136822)
-- [AWS VPC를 위한 네트워크 지식 - 서브넷](https://blog.naver.com/gi_balja/223431369381)
+- [탄력적 IP 적용하기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223394021270)
+- [Route53과 도메인 연결](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223398889777)
+- [AWS 로드 밸런서 적용하기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223401436302)
+- [AWS RDS 연결하기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223402753221)
+- [AWS S3](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223407211913)
+- [AWS S3와 CloudFront](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223408217352)
+- [S3 리액트 자동 배포 (Github Action 사용)](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223410998889)
+- [AWS Lambda](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223415212877)
+- [AWS API Gateway](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223414349399)
+- [AWS SES와 Nodemailer](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223414001298)
+- [AWS API Gateway와 Lambda 연동하기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223417844588)
+- [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223421657878)
+- [AWS 서버리스 기초](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223421350581)
+- [AWS VPC를 위한 네트워크 지식 - IP 기초편](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223425136822)
+- [AWS VPC를 위한 네트워크 지식 - 서브넷](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223431369381)
 
 ---
 
@@ -235,6 +236,12 @@ head:
 ## Cloud Native & Kubernetes Experts | Small Teams | Big Impact
 
 - [Service Meshes Decoded: a performance comparison of Istio vs Linkerd vs Cilium](https://livewyer.io/blog/2024/05/08/comparison-of-service-meshes/)
+
+---
+
+## jonnung.dev
+
+- [AWS RDS Proxy로 RDS 인스턴스 다운 타임을 최소화하기](https://jonnung.dev/aws/2022/02/15/aws-rds-proxy-for-rds-downtime)
 
 ---
 

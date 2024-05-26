@@ -17,7 +17,6 @@ tag:
   - "programming"
   - "@nullnull_not_eq_null"
   - "@HanbitMedia93"
-  - "@TheCherno"
   - "@TsodingDaily"
   - "@voxelrifts"
   - "@ChiliTomatoNoodle"
@@ -30,14 +29,12 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
 
 <MyYouTubeItems jsonName="yu-nullnull_not_eq_null" /><!-- 널널한 개발자 TV -->
 <MyYouTubeItems jsonName="yu-HanbitMedia93" /><!-- 한빛미디어 -->
-<MyYouTubeItems jsonName="yu-TheCherno" /><!-- The Cherno -->
 <MyYouTubeItems jsonName="yu-TsodingDaily" /><!-- Tsoding Daily -->
 <MyYouTubeItems jsonName="yu-voxelrifts" /><!-- VoxelRifts -->
 <MyYouTubeItems jsonName="yu-ChiliTomatoNoodle" /><!-- ChiliTomatoNoodle -->
@@ -76,5 +73,6 @@ tag:
 <MyYouTubeItems jsonName="yu-1BestCsharpblog" /><!-- 1BestCsharp blog -->
 <MyYouTubeItems jsonName="yu-quickandeasytools" /><!-- Quick and Easy Tools -->
 <MyYouTubeItems jsonName="yu-infybuzz" /><!-- Infybuzz -->
+<MyYouTubeItems jsonName="yu-weekendcode" /><!-- WeekendCode 주말코딩 -->
 
 <TagLinks />

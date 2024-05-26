@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/WqVfhl_ie7eMUyA1Li-vipm5YXNOTA7g1m_Y0teN5y4Y6qsMxsXAsLV48z8-k0kmTPlYSL89-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UN-cJzT04Bw", "title": "A workflow for complex open source contributions" },
+    { "id": "1Q7r4tagFns", "title": "Full stack reactive CRUD in Angular with Go (or any REST API)" },
+    { "id": "15vHXCMhl6U", "title": "What happened to Analog's experimental \".ng\" format?" },
+    { "id": "ZKNL8Yt8_dE", "title": "This made me NOT hate note taking (as a developer)" },
+    { "id": "qN5aLvs7Rys", "title": "A 7 minute guide to SESSIONS and COOKIES for authentication in Angular" },
+    { "id": "yTz7ASkD-6Y", "title": "Here's what I've figured out about Angular signals" },
+    { "id": "6Vh-ncy1MvY", "title": "Creating DESKTOP apps with Angular is easier than you think" },
+    { "id": "NBnbL-nUTzg", "title": "How I code in Angular when nobody is watching" },
+    { "id": "s1CG5sbTgwY", "title": "How Electron jailbreaks your web application" },
     { "id": "5wy2iLU5fs0", "title": "Why Neovim nerds are so obsessed with the terminal" },
     { "id": "jfsgSiMwt3U", "title": "I didn't know snapshot testing was a thing" },
     { "id": "WWW0hqe8hXw", "title": "The mindset you need for a DECLARATIVE code refactor" },

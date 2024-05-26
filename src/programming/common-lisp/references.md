@@ -29,6 +29,14 @@ head:
 
 ---
 
+## Department of Computer Science and Electrical Engineering | Inspiring Innovation
+
+> UMBC: University Of Maryland, Baltimore County
+
+<PDF url="https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf" />
+
+---
+
 ## Steve Losh
 
 - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)

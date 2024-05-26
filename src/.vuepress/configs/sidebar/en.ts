@@ -101,9 +101,25 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-gradle',
       children: [
         '/programming/gradle/README.md',
-        '/programming/gradle/snippets.md',
+        {
+          text: 'Snippets',
+          collapsible: true,
+          icon: 'fas fa-eye-dropper',
+          children: [
+            '/programming/gradle/snippets/README.md',
+            '/programming/gradle/snippets/rename-subproject.md',
+            '/programming/gradle/snippets/manage-multi-module-project.md',
+            '/programming/gradle/snippets/configure-java.md',
+            '/programming/gradle/snippets/create-fatjar.md',
+            '/programming/gradle/snippets/create-war.md',
+            '/programming/gradle/snippets/open-url-in-browser.md',
+            '/programming/gradle/snippets/explore-directory.md',
+            '/programming/gradle/snippets/publish-to-repository.md',
+          ]
+        },
         '/programming/gradle/troubleshooting.md',
         '/programming/gradle/references.md',
+        '/programming/gradle/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
@@ -298,7 +314,15 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/swift/README.md',
         '/programming/swift/tips.md',
-        '/programming/swift/snippets.md',
+        {
+          text: 'Snippets',
+          collapsible: true,
+          icon: 'fas fa-eye-dropper',
+          children: [
+            '/programming/swift/snippets/README.md',
+            '/programming/swift/snippets/side-menu.md',
+          ]
+        },
         '/programming/swift/crashcourse.md',
         '/programming/swift/news.md',
         '/programming/swift/references.md',
@@ -2156,7 +2180,7 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
-      text: 'RockDB',
+      text: 'RocksDB',
       collapsible: true,
       icon: 'iconfont icon-rocksdb',
       children: [
@@ -2260,6 +2284,7 @@ export const sidebarEn = sidebar({
       children: [ 
         '/ai/README.md',
         '/ai/references.md',
+        '/ai/youtube.md',
       ],
     }, {
       text: 'OpenAI',
@@ -2539,6 +2564,7 @@ export const sidebarEn = sidebar({
       icon: 'fas fa-square-root-variable',
       children: [
         '/academics/general/README.md',
+        '/academics/general/references.md',
         '/academics/general/youtube.md',
       ]
     }, {

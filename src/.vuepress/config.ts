@@ -144,6 +144,7 @@ export default defineUserConfig({
         vuePlayground: true,
         sandpack: true,
         kotlinPlayground: true,
+        include: true
       },
       copyCode: {
         locales: {

@@ -1469,5 +1469,10 @@
     "desc": "Simple and Fast Rust Libray.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "glebbash/LO",
+    "desc": "LO - small programming language targeting WASM that aims to be as simple as possible",
+    "officialSite": "",
+    "topics": ["compiler", "language", "webassembly"]
   }
 ]

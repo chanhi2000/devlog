@@ -11,11 +11,8 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-
-
-<!-- <ShieldsGroup logos="windows,windowsterminal,gnubash,gnometerminal"/> -->
+<ShieldsGroup logos="stmicroelectronics"/> 
 
 ---
 
 <TagLinks />
-

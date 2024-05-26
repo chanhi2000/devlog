@@ -35,6 +35,7 @@ tag:
 
 ---
 
+<MyYouTubeItems jsonName="yu-MicrosoftWindowsCommunity" /><!-- Windows community -->
 <MyYouTubeItems jsonName="yu-MicrosoftDeveloper" /><!-- Microsoft Developer -->
 <MyYouTubeItems jsonName="yu-MicrosoftResearch" /><!-- Microsoft Research -->
 <MyYouTubeItems jsonName="yu-ThioJoe" /><!-- ThioJoe -->
@@ -66,5 +67,6 @@ tag:
 <MyYouTubeItems jsonName="yu-quickandeasytools" /><!-- Quick and Easy Tools -->
 <MyYouTubeItems jsonName="yu-tongguni" /><!-- 통구니TV -->
 <MyYouTubeItems jsonName="yu-TechEnthusiastOfficial" /><!-- Tech Enthusiast -->
+<MyYouTubeItems jsonName="yu-chmtech" /><!-- CHM Tech -->
 
 <TagLinks />

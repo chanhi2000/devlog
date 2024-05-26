@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "MicrosoftWindowsCommunity",
+    "name": "Windows community",
+    "profile": "https://yt3.googleusercontent.com/fX8CUf3yeiIT5pGXNQEUjA_SkQ88SZehLQH1335kk70uuaJyj_Nl1vXzdTvVaX4NCUA72aTB=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bVsjepHv2nx9tlgUUTJastkWSZe0fKZNr7OSdfSSEVjX36RkaLcginkYZRIOnmtqrJBzLH1X=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "n4vOQBysMng", "title": "Get started with Copilot in Windows 11" },
+    { "id": "-mIqWviuBO8", "title": "How to get started with Copilot in Windows | Windows 11" },
+    { "id": "JjMi2r09va0", "title": "Navigate the color and contrast settings | Windows 11" }
+  ],
+  "playlists": [
+
+  ]
+}

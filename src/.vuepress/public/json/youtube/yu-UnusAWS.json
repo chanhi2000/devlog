@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/xI0r1L-nShmWEAgLE5ZDWm0YZXSXhJ1na8Q43k0DwTEWj2CrjKAMwZDgga7S4Ombtj_dzlRD8vo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "14tPzAliGAQ", "title": "AWS DevOps: Use AWS CodeBuild with Jenkins" },
+    { "id": "jvwfVOeL-Js", "title": "Migrate GitHb Repo to CodeCommit - 5 minute guide" },
+    { "id": "0jUAuICrYQo", "title": "CodePipeline Definitions file - Download and Use it to recreate the code pipeline" },
+    { "id": "qpVpQOREcIQ", "title": "NoSQL WorkBench for DynamoDB" },
+    { "id": "SXz02OOqR4E", "title": "Terraform for AWS Infra Management - Beginners HandsOn" },
+    { "id": "00azZJc0Ugw", "title": "AWS Step Functions Hands On" },
     { "id": "l-CDfztF6cM", "title": "Jenkinsfile: Setup end to end CICD Pipeline" },
     { "id": "6_W7ge_T7as", "title": "Jenkins CICD project using Jenkins agent server" },
     { "id": "wFmBqWgm0Ic", "title": "Whats DevOps?   DevOps basics for absolute beginners" },

@@ -270,7 +270,7 @@ tag:
 
 ## [ 소프트웨어 개발자 이야기 Vol.3 ]
 
-- [[ Embedded C Coding Standard ]](https://blog.naver.com/cybervictor008/223416969741)
+- [[ Embedded C Coding Standard ]](PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=cybervictor008&logNo=223416969741)
 
 ---
 

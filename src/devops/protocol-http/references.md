@@ -21,6 +21,12 @@ tag:
 
 ---
 
+## Toss Tech
+
+- [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache) <!-- TODO: 작성 (/explore/articles/toss.tech/smart-web-service-cache.md) -->
+
+---
+
 ## nowotarski.info
 
 - [HTTP/2 CONTINUATION Flood](https://nowotarski.info/http2-continuation-flood/)
@@ -42,6 +48,12 @@ tag:
 ## 기억보단 기록을
 
 - [HTTP API 디자인 - URI편](https://jojoldu.tistory.com/783)
+
+---
+
+## Devon Peroutky
+
+- [Mediocre Engineer’s guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
 
 ---
 

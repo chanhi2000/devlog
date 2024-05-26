@@ -19,6 +19,14 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+
+### .NET Blog
+
+- [Refactor your code with C# collection expressions](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/)
+
+---
+
 ## Uno Platform
 
 - [Announcing Uno Platform Support for Visual Studio Code](https://platform.uno/blog/announcing-uno-platform-support-for-visual-studio-code/)
@@ -39,6 +47,7 @@ tag:
 - [Create ASP.NET Core CRUD Web API with the Repository pattern](https://malshikay.medium.com/create-asp-net-core-crud-web-api-with-the-repository-pattern-24d20c4d111b)
 - [JWT Auth in ASP.NET Core](https://codeburst.io/jwt-auth-in-asp-net-core-148fb72bed03s)
 - [How to create a Client for your API — .NET](https://medium.com/@martinstm/how-to-create-a-client-for-your-api-net-core-dea2b57da476)
+- [`@kmorpex` / 10 Advanced C# Tricks for Experienced Developers 🔥🔥](https://medium.com/@kmorpex/10-advanced-c-tricks-for-experienced-developers-26a48c6a8c9c)
 
 ---
 
@@ -218,7 +227,7 @@ tag:
 
 ## 행뽁🐥
 
-- [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/153)
+ [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/153)
 
 ---
 
@@ -237,6 +246,18 @@ tag:
 ## 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔
 
 - [[C#, Download] 프로젝트 기본 폼 (시작할때)](https://topnanis.tistory.com/251)
+
+---
+
+## The Developer's Cantina
+
+- [Build a Blazor application to manage a custom Viva Learning provider - Part 1](https://www.developerscantina.com/p/viva-learning-blazor-app)
+
+---
+
+## The Shade Tree Developer
+
+- [Linked Lists in Real Life](https://jeremydmiller.com/2024/05/06/linked-lists-in-real-life/)
 
 ---
 

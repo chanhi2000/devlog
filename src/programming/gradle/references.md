@@ -1,14 +1,22 @@
 ---
 lang: ko-KR
 title: References
-description: 🐘Gradle > References
+description: Gradle > References
 icon: iconfont icon-share
 category:
-  - 🐘Gradle 
+  - Gradle 
   - References
 tag: 
-  - java
-  - axelor
+  - groovy
+  - gradle
+head:
+  - - meta:
+    - property: og:title
+      content: Gradle > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/gradle/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

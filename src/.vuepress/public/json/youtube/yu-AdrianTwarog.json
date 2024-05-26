@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/rBBZmbNZbxnw1bfoOtUrY9Io1u06Qf85K9ic5Z74PKORAUd9qYz3Z2DYawlTxY2ZtOsRGMfn7g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "O3m-OMfYgW8", "title": "Create a Responsive Portfolio Website with HTML CSS JS AI from scratch" },
+    { "id": "fQ9RFR1KTbY", "title": "How to use Microsoft Azure AI Studio and Azure OpenAI models" },
     { "id": "IYLV26d0dOc", "title": "37 x Interactive React JS Components to Try - Aceternity UI" },
     { "id": "OIYevBOSMxY", "title": "How to build a PDF summarizer using AI - React JS Next.js" },
     { "id": "ynUFPMoU3_w", "title": "Next.js 14, React, Mongo - Coding a YouTube Clone with A.I." },

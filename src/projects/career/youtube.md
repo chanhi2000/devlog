@@ -28,5 +28,7 @@ tag:
 <MyYouTubeItems jsonName="yu-eo_studio" /><!-- EO 이오 -->
 <MyYouTubeItems jsonName="yu-kennygunderman" /><!-- Kenny Gunderman -->
 <MyYouTubeItems jsonName="yu-geminikims" /><!-- 제미니의 개발실무 -->
+<MyYouTubeItems jsonName="yu-nang88" /><!-- nang -->
+<MyYouTubeItems jsonName="yu-ycombinator" /><!-- Y Combinator -->
 
 <TagLinks />

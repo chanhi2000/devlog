@@ -52,6 +52,10 @@ export const navbarEn = navbar([
         icon: 'fas fa-rectangle-ad',
         link: '/academics/marketing/README.md',
       }, {
+        text: 'General',
+        icon: 'fas fa-square-root-variable',
+        link: '/academics/general/README.md',
+      }, {
         text: 'MATH011',
         link: '/academics/MATH011/README.md'
       }, {
@@ -488,7 +492,7 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-redis',
         link: '/data-science/redis/README.md',
       }, {
-        text: 'RockDB',
+        text: 'RocksDB',
         icon: 'iconfont icon-rocksdb',
         link: '/data-science/rocksdb/README.md',
       }, {

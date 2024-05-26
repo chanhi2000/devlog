@@ -392,6 +392,10 @@ tag:
 
 - [린트 적용으로 코드 대량 변경 시 AST를 이용해 검증하기](https://techblog.lycorp.co.jp/ko/using-ast-to-verify-the-code-after-code-linting)
 
+### Unlogged - Replay production traffic locally!
+
+- [Everything you need to know about Java 22](https://www.unlogged.io/post/everything-you-need-to-know-about-java-22)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin

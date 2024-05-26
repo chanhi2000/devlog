@@ -143,10 +143,17 @@ tag:
 
 ---
 
-## dhruv-ahuja    
+## dhruv-ahuja
 
 - [Tag-Based Python CI/CD Pipeline.](https://dhruv-ahuja.github.io/posts/tag-based-ci-cd-pipeline/)
 
 ---
 
+## Jon Seager
+
+- [Tracking Releases & CI Across Software Teams and Forges](https://jnsgr.uk/2024/05/tracking-software-across-teams/)
+
+---
+
 <TagLinks />
+

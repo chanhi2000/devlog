@@ -30,9 +30,12 @@ tag:
 
 ## Terminal.app
 
-::: info Terminal.app
-
-[![Termainal](https://draculatheme.com/icons/used/pack-1/035-cauldron.svg =x150)](https://draculatheme.com/terminal)
+<SiteInfo
+  name="Termainal.app"
+  desc="..."
+  url="https://github.com/dracula/terminal-app/blob/bd0239288d43dc480b7047ce778e9e043ec8df7f/INSTALL.md"
+  logo="https://draculatheme.com/icons/used/pack-1/035-cauldron.svg"
+  preview="https://github.com/dracula/terminal-app/raw/bd0239288d43dc480b7047ce778e9e043ec8df7f/screenshot.png"/>
 
 Copy and Paste the following to the Terminal Prompt
 
@@ -40,101 +43,102 @@ Copy and Paste the following to the Terminal Prompt
 git clone https://github.com/dracula/terminal-app.git
 ```
 
-- _Terminal_ > _Settings_ Tab
-- Click "_Gear_" icon
-- Click _Import..._
+- <FontIcon icon="iconfont icon-select"/>`[Terminal]` > `[Settings]` Tab
+- Click <FontIcon icon="fas fa-gear"/> icon
+- Click <FontIcon icon="iconfont icon-select"/>`[Import...]`
 - Select the `Dracula.terminal` file
 - Click Default
-
-:::
 
 ---
 
 ## zsh
 
-::: info zsh
-
-[![zsh](https://draculatheme.com/icons/used/pack-1/034-eye.svg =x150)](https://draculatheme.com/zsh)
-
-Copy and Paste the following to the Terminal Prompt
+<SiteInfo
+  name="zsh"
+  desc="..."
+  url="https://github.com/dracula/zsh/blob/615c5352d265409a0b95ee21f1171506847b52fb/INSTALL.md"
+  logo="https://draculatheme.com/icons/used/pack-1/034-eye.svg"
+  preview="https://github.com/dracula/zsh/raw/615c5352d265409a0b95ee21f1171506847b52fb/screenshot.png"/>
 
 ```sh
+# Copy and Paste the following to the Terminal Prompt
 git clone https://github.com/dracula/zsh.git
-```
-
-And creating a symbolic link to `oh-my-zsh`'s theme folder:
-
-```sh
+# And creating a symbolic link to `oh-my-zsh`'s theme folder:
 ln -s $DRACULA_THEME/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
 ```
-
-:::
 
 ---
 
 ## Oh My Posh
 
-::: info Oh My Posh
+<SiteInfo
+  name="Oh My Posh"
+  desc="..."
+  url="https://github.com/dracula/oh-my-posh/blob/18a355a996ac5f84a00bac9d38ba4b31fc4fb70c/INSTALL.md"
+  logo="https://draculatheme.com/icons/used/pack-7/046-zombie.svg"
+  preview="https://github.com/dracula/oh-my-posh/raw/18a355a996ac5f84a00bac9d38ba4b31fc4fb70c/screenshot.png"/>
 
-[![Oh My Posh](https://draculatheme.com/icons/used/pack-7/046-zombie.svg =x150)](https://draculatheme.com/oh-my-posh)
+### Installation
 
-<h3>Installation</h3>
+To install [Oh My Posh](https://ohmyposh.dev) on MacOS/Windows/Linux follow documentation [<FontIcon icon="fas fa-globe"/>here](https://ohmyposh.dev/docs/installation/windows).
 
-To install [Oh My Posh](https://ohmyposh.dev) on MacOS/Windows/Linux follow documentation [here](https://ohmyposh.dev/docs/installation/windows).
+### Activating Theme
 
-<h3>Activating Theme</h3>
+For instructions on activating this theme in `powershell`, `cmd`, `xsh`, `bash`, `fish` and `nu` please refer to the documentation [<FontIcon icon="fas fa-globe"/>here](https://ohmyposh.dev/docs/installation/customize).
 
-For instructions on activating this theme in `powershell`, `cmd`, `xsh`, `bash`, `fish` and `nu` please refer to the documentation [here](https://ohmyposh.dev/docs/installation/customize).
-
-<h3>Fonts</h3>
+### Fonts
 
 Nerd Fonts are required for the Dracula theme. To display all icons, the use of [Nerd Fonts](https://www.nerdfonts.com) is recommended. More information on fonts can be found [here](https://ohmyposh.dev/docs/installation/fonts).
-
-:::
 
 ---
 
 
-## Visual Studio Code
+## <FontIcon icon="iconfont icon-vscode"/>Visual Studio Code
 
-::: info Visual Studio Code
+<SiteInfo
+  name="Visual Studio Code"
+  desc="..."
+  url="https://github.com/dracula/visual-studio-code/blob/764c3b59aaff75c43399adb9814e143edb494be4/INSTALL.md"
+  logo="https://draculatheme.com/icons/used/pack-1/048-frankenstein.svg"
+  preview="https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png"/>
 
-[![Visual Studio Code](https://draculatheme.com/icons/used/pack-1/048-frankenstein.svg =x150)](https://draculatheme.com/visual-studio-code)
 
 1. Go to _View_ -> _Command Palette_ or press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 2. Then enter `Install Extension`
 3. Write `Dracula Official`
 4. Select it or press <kbd>Enter</kbd> to install
 
-:::
-
 ---
 
-## Sublime Text
+## <FontIcon icon="iconfont icon-sublimetext"/>Sublime Text
 
-::: info Sublime Text
-
-[![Sublime Text](https://draculatheme.com/icons/used/pack-1/044-spider-web.svg =x150)](https://draculatheme.com/sublime)
+<SiteInfo
+  name="Sublime Text"
+  desc="..."
+  url="https://github.com/dracula/sublime/blob/09faa29057c3c39e9a45f3a51a5e262375e3bf9f/INSTALL.md"
+  logo="https://draculatheme.com/icons/used/pack-1/044-spider-web.svg"
+  preview="https://github.com/dracula/sublime/raw/09faa29057c3c39e9a45f3a51a5e262375e3bf9f/screenshot.png"/>
 
 If you are using `Package Control`, you can easily install Dracula Theme via the `Package Control: Install Package` menu item. The Dracula Theme package is listed as `Dracula Color Scheme` in the packages list.
 
-:::
-
 ---
 
-## Jetbrains
+## <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
-::: info Jetbrains
+<SiteInfo
+  name="Jetbrains"
+  desc="..."
+  url="https://github.com/dracula/jetbrains/blob/1cb9e0896c1f5d7bd796a2896f1c533048ebdbc3/INSTALL.md"
+  logo="https://draculatheme.com/icons/used/pack-1/046-zombie.svg"
+  preview="https://draculatheme.com/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdracula%2Fjetbrains%2Fmaster%2Fscreenshot.png&w=1920&q=100"/>
 
-[![Jetbrains](https://draculatheme.com/icons/used/pack-1/046-zombie.svg =x150)](https://draculatheme.com/jetbrains)
 
-| No. | Step | Image |
-| :---: | :---- | :---: |
-| 1 | Go to `Plugin Marketplace`, and search `Dracula`, click `Install`. | ![jetbrains-01][jetbrains-01] | 
-| 2 | Go to `Preferences` > `Appearance & Behavior` > `Appearance`, select `Dracula` from the dropdown menu. | ![jetbrains-02][jetbrains-02] |
-| 3 | Go to `Preferences` > `Editor` > `Color Scheme`, select `Dracula` from the dropdown menu. | ![jetbrains-03][jetbrains-03]
+![Go to `Plugin Marketplace`, and search `Dracula`, click <FontIcon icon="iconfont icon-select"/>`[Install]`.](https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-plugin-install.png)
 
-:::
+![Go to `Preferences` > `Appearance & Behavior` > `Appearance`, select <FontIcon icon="iconfont icon-select"/>`[Dracula]` from the dropdown menu.](https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-appearance.png)
+
+![Go to <FontIcon icon="iconfont icon-select"/>`[Preferences]` > `[Editor]` > `[Color Scheme]`, select <FontIcon icon="iconfont icon-select"/>`[Dracula]` from the dropdown menu.](https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-scheme.png)
+
 
 ---
 
@@ -326,10 +330,6 @@ git clone https://github.com/dracula/gh-pages.git
 ---
 
 <TagLinks />
-
-[jetbrains-01]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-plugin-install.png
-[jetbrains-02]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-appearance.png
-[jetbrains-03]: https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-scheme.png
 
 [shield-stylus]: https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg
 [stackoverflow-conf]: https://i.imgur.com/bGgBaMI.png

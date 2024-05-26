@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/zxeh6xgShj-D5EhmdS23h4MzK7qCmY9Z_5J25Bg9RFsuI1UENvJqUnP2QKXmDgapUAbaFMnc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VsCTp9yH6iQ", "title": "Linux Supply Chain Attack Discovered in SSH CVE-2024-3094" },
+    { "id": "XIj0iHtZvOg", "title": "Backup & Recovery Made Easy: TrueNAS ZFS Replication Tutorial" },
+    { "id": "3J-27jm8cU8", "title": "ZFS Snapshots Explained: How To Protect Your Data From Mistakes, Malware, & Ransomware" },
+    { "id": "D6aNI8SxQVo", "title": "TrueNAS Scale Dragonfish 24.04: What's New and Is it For You?" },
+    { "id": "Kwrff6h0rEw", "title": "Netbird: The Easy to Use Open-Source Wireguard Based Overlay VPN That You Can Host Yourself" },
+    { "id": "OkdtybC2Krs", "title": "pfSense vs UniFi Firewall: May 2024 Edition" },
+    { "id": "A3xIoXimumI", "title": "The Homelab Episode 127: Emulation" },
+    { "id": "JWL--0EvEaw", "title": "VLOG Thursday 383: New Swag, Custom Keyboards, Matt Fox & Tech Talk Live Q&A" },
+    { "id": "-lcu0EjSUy0", "title": "UniFi: Built to Last? My 6-Year Access Points & Switches Project Follow Up" },
+    { "id": "PoP9BTktlFc", "title": "Graylog 6: The Best Open Source Logging Tool Got Better!" },
     { "id": "hFTzDwo9jMk", "title": "Screen Connect Vulnerability & Exploit Feb 2024" },
     { "id": "2wMmSm_ZeZ4", "title": "Getting Started With Xcp-ng & Xen Orchestra: The Ultimate Guide To Open Source Virtualization" },
     { "id": "DLSglSuHTak", "title": "The Homelab Show Episode 122: Why the Fundamentals are Important with Special Guest Veronica" },

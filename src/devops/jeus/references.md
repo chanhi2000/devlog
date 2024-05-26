@@ -28,10 +28,15 @@ tag:
 
 ---
 
-## Devlog
+## 고니의 꿈
 
 - [리눅스 Jeus 6.0 설치](https://goni9071.tistory.com/309)
-- [[Jeus] 제우스 6 사용법](https://m.blog.naver.com/tyboss/70142167303)
+
+---
+
+## 마루아라
+
+- [[Jeus] 제우스 6 사용법](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=tyboss&logNo=70142167303)
 
 ---
 

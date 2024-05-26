@@ -46,6 +46,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+### 카카오엔터프라이즈 기술블로그 Tech&(테크앤)
+
+- [\[TW\] Troubleshooting 가이드 톺아보기](https://tech.kakaoenterprise.com/129) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/129.md) -->
+
+---
+
 ## InfoQ
 
 - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
@@ -55,13 +63,13 @@ head:
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`towardsdatascience` / Ace the System Design Interview — Uber/Lyft](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3#gaerae.com) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/ace-the-system-design-interview-uber-lyft.md) -->
-- [`coupang-engineering` / 캐시를 활용한 대용량 트래픽 처리 성능 향상](https://medium.com/coupang-engineering/%EC%BA%90%EC%8B%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-a274f4731d07#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
-- [`coupang-engineering` / 대용량 트래픽 처리를 위한 쿠팡의 백엔드 전략](https://medium.com/coupang-engineering/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%A0%84%EB%9E%B5-184f7fdb1367#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
+- [`coupang-engineering` / 캐시를 활용한 대용량 트래픽 처리 성능 향상](https://medium.com/coupang-engineering/%EC%BA%90%EC%8B%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-a274f4731d07#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)- [`coupang-engineering` / 대용량 트래픽 처리를 위한 쿠팡의 백엔드 전략](https://medium.com/coupang-engineering/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%A0%84%EB%9E%B5-184f7fdb1367#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 - [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258#gaerae.com)
 - [`@mananshah3654` / A Brief History of Airbnb’s Architecture](https://medium.com/@mananshah3654/a-brief-history-of-airbnbs-architecture-bce6d0405f9c)
 - [`daangn` / 커뮤니티실 API Design-First 접근방식 정착기](https://medium.com/daangn/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%8B%A4-api-design-first-%EC%A0%91%EA%B7%BC%EB%B0%A9%EC%8B%9D-%EC%A0%95%EC%B0%A9%EA%B8%B0-cecca0a37c05)
 - [`chubernetes` / Evolution of Monolithic Systems](https://chubernetes.com/evolution-of-monolithic-systems-c20156f06907)
-
+- [`interviewnoodle` / Instagram System Architecture](https://interviewnoodle.com/instagram-system-architecture-fdbec22e48ee#gaerae.com)
+- [`netflixtechblog` / Rapid Event Notification System at Netflix](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1#gaerae.com)
 
 ---
 
@@ -142,5 +150,9 @@ head:
 - [Understanding Software](https://blog.ceejbot.com/posts/understanding-software/)
 
 ---
+
+## Architecture 101 | http://www.architecture101.blog
+
+- [Uber 아키텍처와 시스템 디자인](https://architecture101.blog/2021/12/01/uber-architecture-design)
 
 <TagLinks />

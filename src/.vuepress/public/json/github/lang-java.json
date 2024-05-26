@@ -649,5 +649,10 @@
     "desc": "Utilities for working with the JDK's built-in HTTP server.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "trinodb/trino",
+    "desc": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+    "officialSite": "https://trino.io",
+    "topics": ["analytics", "big-data", "data-science", "database", "databases", "datalake", "delta-lake", "distributed-database", "distributed-systems", "hadoop", "hive", "iceberg", "java", "jdbc", "presto", "prestodb", "query-engine", "sql", "trino"]
   }
 ]

@@ -79,5 +79,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "jovotech/jovo-framework",
+    "desc": "🔈 The React for Voice and Chat: Build Apps for Alexa, Messenger, Instagram, the Web, and more",
+    "officialSite": "https://www.jovo.tech",
+    "topics": ["alexa", "amazon-alexa", "chatbots", "conversational-ai", "facebook-messenger", "google-assistant", "jovo-framework", "voice", "voice-applications", "voice-assistant"]
+  }, {
+    "repo": "alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -37,7 +37,6 @@ tags:
   - "@techmong"
   - "@gwigom"
   - "@kundol"
-  - "@SpaceRexWill"
   - "@kevinfaang"
   - "@studian365"
   - "@BudgetNerd"
@@ -75,7 +74,6 @@ tags:
 <MyYouTubeItems jsonName="yu-NaNyunJae" /><!-- 남중구의 IT강의 -->
 <MyYouTubeItems jsonName="yu-techmong" /><!-- 테크몽 Techmong -->
 <MyYouTubeItems jsonName="yu-kundol" /><!-- 큰돌의터전 -->
-<MyYouTubeItems jsonName="yu-SpaceRexWill" /><!-- SpaceRex -->
 <MyYouTubeItems jsonName="yu-kevinfaang" /><!-- Kevin Fang -->
 <MyYouTubeItems jsonName="yu-BudgetNerd" /><!-- Budget Nerd -->
 <MyYouTubeItems jsonName="yu-TechTalkAmerica" /><!-- Tech Talk America -->

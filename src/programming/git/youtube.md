@@ -19,6 +19,14 @@ tag:
   - "@Gitkraken"
   - "@Atlassian"
   - "@themoderncoder"
+head:
+  - - meta:
+    - property: og:title
+      content: Git > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/git/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

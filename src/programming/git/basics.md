@@ -27,6 +27,14 @@ tag:
   - git-commit
   - git-log
   - git-stash
+head:
+  - - meta:
+    - property: og:title
+      content: Git > Basics
+    - property: og:description
+      content: Basics
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/git/basics.html
 ---
 
 # {{ $frontmatter.title }} 관련

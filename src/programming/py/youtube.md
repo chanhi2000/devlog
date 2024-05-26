@@ -66,7 +66,7 @@ tag:
 <MyYouTubeItems jsonName="yu-elliotarledge" /><!-- Elliotcodes -->
 <MyYouTubeItems jsonName="yu-pseudocode.2573" /><!-- Pseudocode. -->
 <MyYouTubeItems jsonName="yu-pyconza" /><!-- PyCon South Africa -->
-<MyYouTubeItems jsonName="yu-zlliu246" /><!-- Liu Zuo Lin -->
+<MyYouTubeItems jsonName="yu-zlliu246" /><!-- Python With Liu -->
 <MyYouTubeItems jsonName="yu-ComputerSciencecompsci112358" /><!-- Computer Science -->
 <MyYouTubeItems jsonName="yu-boanproject" /><!-- 보안프로젝트[boanproject] -->
 <MyYouTubeItems jsonName="yu-pixegami" /><!-- pixegami -->
@@ -114,5 +114,7 @@ tag:
 <MyYouTubeItems jsonName="yu-LearnEDU" /><!-- LearnEDU -->
 <MyYouTubeItems jsonName="yu-learnpratap" /><!-- Learn with Pratap -->
 <MyYouTubeItems jsonName="yu-nangman002" /><!-- 낭만공돌이 - IT와 비즈니스 이야기 -->
+<MyYouTubeItems jsonName="yu-weekendcode" /><!-- WeekendCode 주말코딩 -->
+<MyYouTubeItems jsonName="yu-TechWithAlexduta" /><!-- Tech with Alex -->
 
 <TagLinks />

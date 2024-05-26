@@ -127,6 +127,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Docland",
+  "desc": "Docland is the best source of API references for developers.",
+  "link": "https://docland.io/",
+  "logo": "https://docland.io/favicon.ico",
+  "background": "rgba(59,130,246,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Globe Explorer",
   "desc": "Finding everything humans know about …",
   "link": "https://explorer.globe.engineer",

@@ -46,8 +46,22 @@ head:
 
 ## 제이의 IT 스토리
 
-- [엑셀, 스프레드시트에서 원클릭으로 문자보내기](https://blog.naver.com/oralol/223407852139?)
-- [구글 설문지 자동화 스크립트 - 문자, 이메일 자동 발송](https://blog.naver.com/oralol/223414624169)
+- [엑셀, 스프레드시트에서 원클릭으로 문자보내기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=oralol&logNo=223407852139)
+- [구글 설문지 자동화 스크립트 - 문자, 이메일 자동 발송](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=oralol&logNo=223414624169)
+
+---
+
+## 다모앙
+
+- [엑셀 기본서식 5 : 선과 색의 활용에 대한 팁, 테두리 설정 및 채우기](https://damoang.net/lecture/1658)
+- [엑셀 기본서식 6 : 숫자의 성격에 따라 색을 구분](https://damoang.net/lecture/1962)
+- [Excel 기본서식 7 : 숫자와 텍스트의 정렬기준, 표준서식 레퍼런스 요약](https://damoang.net/lecture/2028)
+- [엑셀 이동옵션 : 반복작업없이 수정을 간편하게](https://damoang.net/lecture/2064)
+- [엑셀 셀서식 1 - 기본이해](https://damoang.net/lecture/2199)
+- [엑셀 셀서식 2 - 표시 형식에 사용되는 기호 완벽이해](https://damoang.net/lecture/2410)
+- [엑셀 셀서식 - 표시형식기호 2 : 기호 추가](https://damoang.net/lecture/2540)
+- [엑셀 셀서식 - 표시형식기호 3 : 조건, 색상 추가](https://damoang.net/lecture/2831)
+- [엑셀 - 오늘날짜 & 현재시간 입력을 단축키로 편리하게](https://damoang.net/lecture/3903)
 
 ---
 

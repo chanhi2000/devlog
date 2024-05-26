@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/EcHW5S3sGt3ZXqTr37DzLnAkJ2mfATbmJxsxOAqmwwUTeGSYgkPG9DI6S5naZo7MTfqB54Y1G-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ma1FA2be8Ac", "title": "AWS Project – Building a React App with Amplify, Cognito, and CI/CD with GitHub | AWS Tutorial" },
     { "id": "PrTwyDK3NjE", "title": "How to Get Unlimited AWS Job Interview/Certification Practice Questions with the Help of ChatGPT" },
     { "id": "hK0ztmWCBA8", "title": "AWS Project: Architect and Build a Serverless Email Marketing Application | Step by Step Tutorial" },
     { "id": "1NiVabKE7Fk", "title": "Build Your Own HTTP Server from Scratch | CodeCrafters Challenge" },

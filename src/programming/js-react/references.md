@@ -73,11 +73,9 @@ head:
 
 ---
 
-## Toss
+## Toss Tech
 
-- [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024)
-
-<!-- TODO: 작성 (/explore/articles/toss.tech/react-native-2024.md) -->
+- [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024) <!-- TODO: 작성 (/explore/articles/toss.tech/react-native-2024.md) -->
 
 ---
 
@@ -114,7 +112,7 @@ head:
 ## Smashing Magazine — For Web Designers And Developers
 
 - [about React](https://smashingmagazine.com/category/react)
-- [The Forensics Of React Server Components (RSCs)](https://smashingmagazine.com/2024/05/forensics-react-server-components/)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/forensics-react-server-components.md) -->
+- [The Forensics Of React Server Components (RSCs)](https://smashingmagazine.com/2024/05/forensics-react-server-components/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/forensics-react-server-components.md) -->
 
 ---
 
@@ -730,6 +728,12 @@ https://o-yeon.tistory.com/227
 ## overreact
 
 - [The Two Reacts](https://overreacted.io/the-two-reacts/)
+
+---
+
+## 재그지그의 개발 블로그
+
+- [Rollup 기반 라이브러리 개발 환경 구성하기](https://wormwlrm.github.io/2021/11/07/Rollup-React-TypeScript.html)
 
 ---
 

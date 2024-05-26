@@ -116,7 +116,6 @@ tag:
 
 - [`crawlee` / Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
 
-
 ---
 
 ## Substack
@@ -124,6 +123,7 @@ tag:
 - [`thepythoncodingstack` / The Magician's Sleight of Hand](https://www.thepythoncodingstack.com/p/the-magicians-sleight-of-hand-python)
 - [`aljamal` / Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 - [`bitecode` / Light speed with Python and JS](https://www.bitecode.dev/p/light-speed-with-python-and-js)
+- [`johnloewen` / High Impact Python Streamlit: Beautiful Interactive Maps and Charts](https://johnloewen.substack.com/p/high-impact-python-streamlit-beautiful)
 
 ---
 
@@ -670,14 +670,14 @@ tag:
 
 ## [ 프로페셔널 프로그래머 ]
 
-- [[ Python By Example #02 ]](https://blog.naver.com/cybervictor008/223397016205)
-- [[ Python By Example #05 ]](https://blog.naver.com/cybervictor008/223416453972?)
-- 
+- [[ Python By Example #02 ]](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=cybervictor008&logNo=223397016205)
+- [[ Python By Example #05 ]](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=cybervictor008&logNo=223416453972)
+
 ---
 
-## Codeit;
+## Codeit
 
-- [[코딩백과101] 파이썬 에러 TOP7 (오류 메시지 종류와 해결 방법)](https://blog.naver.com/codeitofficial/223397232283?)
+- [[코딩백과101] 파이썬 에러 TOP7 (오류 메시지 종류와 해결 방법)](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=codeitofficial&logNo=223397232283)
 
 ---
 
@@ -1087,6 +1087,24 @@ tag:
 ## Hereket
 
 - [Poor mans autoreload server in single file python on linux](https://hereket.com/posts/linux_live_reload_python_server/)
+
+---
+
+## Better Stack: Spot, Resolve, and Prevent Downtime.
+
+- [A Beginner's Guide to Unit Testing with Pytest](https://betterstack.com/community/guides/testing/pytest-guide)
+
+---
+
+## fnands
+
+- [Parsing PNG images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
+
+---
+
+## The best way to learn is to build
+
+- [A first attempt at DSPy Agents from scratch](https://learnbybuilding.ai/tutorials/dspy-agents-from-scratch)
 
 ---
 

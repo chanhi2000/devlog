@@ -382,7 +382,7 @@ head:
 
 ## 숲속얘기의 조용한 카페
 
-- [이미지 해석을 ChatGPT4와 ChatGPT4o에게 시켜보고 확인한 차이](https://blog.naver.com/fstory97/223451932063)
+- [이미지 해석을 ChatGPT4와 ChatGPT4o에게 시켜보고 확인한 차이](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=fstory97&logNo=223451932063)
 
 ---
 

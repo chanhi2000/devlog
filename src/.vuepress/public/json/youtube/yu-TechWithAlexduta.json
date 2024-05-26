@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/JxaGu-CApL5j42vf_CO0zQ6M-uDhBRBTwI6yKVQ8z9ZjclMoaxzRLajdJ9ogVNctepMCH731uA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Hp8FhJAV2M0", "title": "Selenium Python test fixture" },
+    { "id": "DRoo1fTehfM", "title": "Selenium Python Locators" },
+    { "id": "auM76V_zgcI", "title": "Selenium Python Cross Browser Testing" },
+    { "id": "LHwL-xauNOw", "title": "Selenium Python Page Object Model - POM Python" },
     { "id": "XqwUMGG1rtg", "title": "Visual Studio Code: Selenium C# tutorial" },
     { "id": "TGCJKh-x1EU", "title": "Dependency Injection Selenium: Autofac Dependency Injection" },
     { "id": "VjGt3EfgwAY", "title": "Visual Studio Code: Selenium Python tutorial" },

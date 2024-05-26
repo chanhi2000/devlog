@@ -397,7 +397,7 @@ tag:
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [The End Of My Gatsby Journey](https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/end-of-gatsby-journey.md) -->
+- [The End Of My Gatsby Journey](https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/end-of-gatsby-journey.md) -->
 
 ---
 
@@ -795,6 +795,7 @@ tag:
 ## Channy's Blog
   
 - [아마존(Amazon)에서 배운 5가지 글쓰기와 소통 방식](https://channy.creation.net/blog/1620)
+- [10년 경력을 설계하는 방법](https://channy.creation.net/blog/1517)
 
 ---
 
@@ -826,7 +827,9 @@ tag:
 
 ## 숲속얘기
 
-- [모질라 허브는 왜 확산에 실패했을까? XRCLOUD는 어떻게 바꿔 갈 것인가?](https://blog.naver.com/fstory97/223457715993?)
+- [모질라 허브는 왜 확산에 실패했을까? XRCLOUD는 어떻게 바꿔 갈 것인가?](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=fstory97&logId=223457715993)
+
+https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&logId=
 
 ---
 
@@ -851,6 +854,18 @@ tag:
 ## Linkedin
 
 - [동기부여 다루기](https://www.linkedin.com/pulse/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%ED%98%84%EC%A4%80-%EC%97%AC-cexde/)
+
+---
+
+## 슬로우뉴스
+
+- [네이버 자료실 무료 폰트를 영리로 사용한 이용자가 승소한 이유 (판결문)](https://slownews.kr/84102)
+
+---
+
+## 다모앙
+
+- [취업규칙에 남성혐오 여성혐오 추가하기](https://damoang.net/lecture/3863)
 
 ---
 

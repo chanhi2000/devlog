@@ -23,13 +23,13 @@ tag:
 
 ## Artifacts
 
-### ⤵️Download
+### <FontIcon icon="fas fa-download"/>Download
 
 From Maven Central
 
 ::: code-tabs#sh
 
-@tab:active <FontIcon icon="iconfont icon-shell"/>sh
+@tab:active <FontIcon icon="iconfont icon-shell"/>shell
 
 ```sh
 curl -H "Accept: application/zip" \
@@ -47,13 +47,13 @@ curl -H "Accept: application/zip" ^
 
 :::
 
-### ⤴️Upload
+### <FontIcon icon="fas fa-upload"/>Upload
 
 to Local Nexus Repository
 
 ::: code-tabs#sh
 
-@tab:active <FontIcon icon="iconfont icon-shell"/>sh
+@tab:active <FontIcon icon="iconfont icon-shell"/>shell
 
 ```sh
 curl -v -u admin:admin123 --upload-file "http://10.60.175.90:9880/nexus/service/local/artifact/maven/content" \
@@ -81,7 +81,7 @@ in Local Nexus Repository
 
 ::: code-tabs#sh
 
-@tab:active <FontIcon icon="iconfont icon-shell"/>sh
+@tab:active <FontIcon icon="iconfont icon-shell"/>shell
 
 ```sh
 # Delete all pom related files

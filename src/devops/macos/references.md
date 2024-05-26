@@ -229,9 +229,15 @@ tag:
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md) -->
+- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md) -->
 
 ---
 
+## 다모앙
+
+- [\[macos\] 맥에서 다모앙 폰트 변경 유의할 점](https://damoang.net/lecture/1982)
+- [오토메이터로 현재 보는 웹사이트를 사파리로 여는 방법](https://damoang.net/lecture/2081)
+
+---
 
 <TagLinks />

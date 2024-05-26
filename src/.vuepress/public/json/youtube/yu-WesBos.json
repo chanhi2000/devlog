@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/c0xhWKAo0wKsapFIcvYBZxhcehLM0-fEKrr2Slod6k8U-qwy8-6tzPtEmj9-JPp_YzMU3VKgcy4=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XSFs7zRe6Lg", "title": "New Node.js Styled Text API" },
+    { "id": "XFSgkxn2-bE", "title": "New VS Code Search" },
     { "id": "KIH_OiZPn0M", "title": "Running JS Promises concurrently - but not too many at once!" },
     { "id": "3Hye_47c0Pc", "title": "This isn't websockets! fun multi-window demo" },
     { "id": "IS698Tc5M7Q", "title": "CSS Logical Properties: A good use case" }, 

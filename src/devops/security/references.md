@@ -273,6 +273,12 @@ tag:
 
 ---
 
+## 데일리시큐
+
+- [심각한 아파치 log4j 취약점 대응...이렇게 하면 된다](https://dailysecu.com/news/articleView.html?idxno=132550)
+
+---
+
 ## Project(s)
 
 ```component VPCard

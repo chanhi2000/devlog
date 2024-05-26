@@ -109,7 +109,9 @@ tag:
 
 ---
 
-## 카카오엔터테인먼트 FE 기술블로그
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+### 카카오엔터테인먼트 FE 기술블로그
 
 - [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 1](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230420-beyond-solving-problem-part-1.md) -->
 - [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 2](https://fe-developers.kakaoent.com/2023/230421-beyond-solving-problem-part-2) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230421-beyond-solving-problem-part-2.md) -->
@@ -994,7 +996,7 @@ tag:
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md)-->
+- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md)-->
 
 ---
 

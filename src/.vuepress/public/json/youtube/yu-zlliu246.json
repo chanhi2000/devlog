@@ -1,11 +1,15 @@
 {
   "channel": {
     "id": "zlliu246",
-    "name": "Liu",
+    "name": "Python With Liu",
     "profile": "https://yt3.googleusercontent.com/qpZRmFspDJ_YYgP2E-b4YyIJ0tZy1FX6IiAxSwDCPs9GoEokjl3mMuxpjZASDC_KQkuAWjiZQg=s176-c-k-c0x00ffffff-no-rj",
     "banner": ""
   },
   "videos": [
+    { "id": "Bo5sVTNFDu8", "title": "Walrus operator in Python???  #python #pythonprogramming #pythontutorial" },
+    { "id": "CM6xq1QEAsY", "title": "Combining python lists using *" },
+    { "id": "yHm60Wf_PA4", "title": "pprint() instead of print() in Python??? #coding #python #pythonprogramming" },
+    { "id": "oVv9INCgX1A", "title": "running code after 'return' in Python??? #coding" },
     { "id": "DUOWTIzRW2w", "title": "tictactoe() but in ONE LINE (Can You Solve This in One Line? 10)" },
     { "id": "WSmVw3WOSsM", "title": "What Every Single Punctuation Does in Python" },
     { "id": "mTkMV7eH08I", "title": "How to Draw Irregular Shapes in HTML Using SVGs For Beginners (Shapes are Interactable BTW)" },

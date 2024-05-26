@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/SQafsD08RT9PAzTcgJamj9PeLzcMJKarTIqpLTTCSOzhov9tNCW7s6XY6lpWxHE9v3ZMAd35=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hVjvo_cXHrU", "title": "Worst Implicit Casting in C++" },
+    { "id": "OK0G4cmeX-I", "title": "Conversion Operators in C++" },
+    { "id": "B6pM9KcIFE4", "title": "TERMINAL GAME ENGINE! // Code Review" },
+    { "id": "HGI8s3jswyY", "title": "I Rewrote This Entire Main File // Code Review" },
+    { "id": "Lq9KXnU4_yE", "title": "BINARY vs TEXT File Serialization" },
+    { "id": "t11q4qgwngQ", "title": "Harder Than It Seems? 5 Minute Timer in C++" },
     { "id": "TEKYu00ca0E", "title": "BEST WAY to understand graphics and rendering code" },
     { "id": "djm3mUUxfzg", "title": "This Animation System IS AMAZING" },
     { "id": "Z2U-S3fxAg8", "title": "From Editor to Runtime - The Hazel Engine Workflow" },

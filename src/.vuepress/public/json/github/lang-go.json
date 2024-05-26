@@ -1504,5 +1504,10 @@
     "desc": "Mirror of Quilibrium git repo: ceremonyclient",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "treeverse/lakeFS",
+    "desc": "lakeFS - Data version control for your data lake | Git for data",
+    "officialSite": "https://docs.lakefs.io",
+    "topics": ["apache-spark", "apache-sparksql", "aws-s3", "azure-blob-storage", "azure-storage", "data-engineering", "data-lake", "data-quality", "data-version-control", "data-versioning", "datalake", "datalakes", "git-for-data", "go", "golang", "google-cloud-storage", "hadoop-filesystem", "lakefs", "object-storage"]
   }
 ]

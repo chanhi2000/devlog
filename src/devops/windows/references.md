@@ -143,13 +143,13 @@ tag:
 
 ## Microsoft MVP 프로그래머 김성엽
 
-- [Windows 샌드박스](https://blog.naver.com/tipsware/223417380962?)
+- [Windows 샌드박스](https://blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&?blogId=tipsware&logNo=223417380962)
 
 ---
 
 ## Programming
 
-- [윈도우 작업 중 화면 밖으로 사라진 프로그램(작업창 사라짐 ㅠㅠ) 다시 화면 안으로 나오도록 하는 방법 ](https://blog.naver.com/PostView.naver?blogId=developer_life&logNo=221531598585)
+- [윈도우 작업 중 화면 밖으로 사라진 프로그램(작업창 사라짐 ㅠㅠ) 다시 화면 안으로 나오도록 하는 방법 ](https://blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&blogId=developer_life&logNo=221531598585)
 
 ---
 

@@ -1,9 +1,9 @@
 {
   "channel": {
-    "id": "AliexpressDP",
+    "id": "DKFFLWLRRN",
     "name": "알리직구",
-    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbaslF7RojerGfAd8_gJnZzrYF0zIbhpC5eVTkf=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/bHwyS9pfgDAVNwMwhly9QaEgq2sLGubjpA5W6SJ9JfCUeZiLX0W90XvbuMnrbYKgr93ooL9lKxM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/aeRCX4GIxsXNEgpW5-lwnCFgBsTK-HfqbnnWoqYfbPx95SMJjwH91rQARZrnfQ0rqKY9XAPhS9U=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mQRtChMdmNZadZkBtoDP3H78Lv80ne1MV2GOSgQ9rdm1-eT0yoVhokzE_H2ISJoiF_6O1CfR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "qdE6faK4Lf8", "title": "알리익스프레스 아무도 모르는 숨겨진 추천 제품 10가지 😎" },
@@ -29,5 +29,6 @@
     { "id": "owu4cJYabGk", "title": "알리익스프레스 광군제 추천 BEST 10 [6탄] - 블랙프라이데이 할인 제품 👍" },
     { "id": "Ru_G4r7aLv0", "title": "알리익스프레스 광군제 추천 BEST 10 [7탄] - 블랙프라이데이 할인 제품 👍" },
     { "id": "pf21ATgamyk", "title": "알리익스프레스 최대 규모 광군제 세일 정보 총정리 (+초특가 제품 추천)" }
-  ]
+  ],
+  "playlists": []
 }

@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Troubleshooting
-description: 🐘Gradle > Troubleshooting
+description: Gradle > Troubleshooting
 icon: fas fa-bug-slash
 category: 
-  - 🐘Gradle
+  - Gradle
   - Troubleshooting
 tag: 
   - gradle

@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "grRrfRN8Y6s", "title": "[HTML] 한시간에 끝내는 HTML" },
+    { "id": "9QWe6T9Lh08", "title": "[JAVA] 1.프로그램 설치 및 기본 출력" },
+    { "id": "iir5BmtqvQA", "title": "[JAVA] 4.연산자" },
+    { "id": "0kSWMsxIh20", "title": "[JAVA] 6.switch" },
+    { "id": "YMm_IjDnIM8", "title": "[JAVA] 7.for 및 디버깅" },
+    { "id": "qtgHz1wBrxE", "title": "[JAVA] 8.while" },
+    { "id": "B0ivhOCurAI", "title": "[JAVA] 9.배열" },
     { "id": "WjDD2-IQBcA", "title": "[node.js 6-3(2)] 페이징 준비 단계 ( 추가,  상세 내용,  조회수 증가 )" },
     { "id": "rkQwMC9QVLk", "title": "[node.js 6-3(1)] 페이징 준비 단계 ( 모든 목록 확인 )" },
     { "id": "mavyfI3PTt8", "title": "[node.js 6-2(3)] 파일 삭제, 수정 및 static 설정" },

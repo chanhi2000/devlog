@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "nkAnYUeN3jc", "title": "HelloWolrd 24 Keynote" },
+    { "id": "6dds3BG-YDY", "title": "BuildWithAI 송도 Keynote" },
     { "id": "rKLD_CS2qtE", "title": "MLMeetup 23 허훈 : Autonomous Agent in Production" },
     { "id": "M8j7Z8EMW9c", "title": "MLMeetup 23 이태호 강화학습의 새로운 트랜드 생성모델" },
     { "id": "4DsbqdSgDMU", "title": "MLMeetup 23 박정환   멀티모달 101" },

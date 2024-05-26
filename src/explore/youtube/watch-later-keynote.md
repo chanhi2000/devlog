@@ -46,7 +46,6 @@ tag:
 <MyYouTubeItems jsonName="yu-EsriEvents" /><!-- Esri Events -->
 <MyYouTubeItems jsonName="yu-esri_arcgis" /><!-- ArcGIS -->
 <MyYouTubeItems jsonName="yu-cncf" /><!-- CNCF -->
-<MyYouTubeItems jsonName="yu-Snyksec" /><!-- Snyk -->
 <MyYouTubeItems jsonName="yu-nginx_official" /><!-- NGINX -->
 <MyYouTubeItems jsonName="yu-unity" /><!-- Unity -->
 <MyYouTubeItems jsonName="yu-MicrosoftDeveloper" /><!-- Microsoft Developer -->

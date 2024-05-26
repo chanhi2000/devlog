@@ -32,7 +32,11 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   ]'
 />
 
-<<< https://raw.githubusercontent.com/simple-icons/simple-icons/develop/slugs.md
+::: details Browse slug(s)
+
+<!-- @include: ./simple-icons.md -->
+
+:::
 
 <VPBanner
   title="Awesome VuePress V2"
@@ -65,7 +69,6 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
     }
   ]'
 />
-
 
 ::: tabs
 
@@ -240,6 +243,18 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "background": "rgba(41,57,73,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "psyche-c",
+  "desc": "Psyche-c is a compiler for incomplete C code being developed in our lab. It receives as an input a snippet[1]. From it, psyche-c produces a header file that, once #included into the original program, leads to compilable code[2].",
+  "link": "http://cuda.dcc.ufmg.br/psyche-c/",
+  "logo": "http://cuda.dcc.ufmg.br/psyche-c/include/imgs/desireeyes.JPG",
+  "background": "rgba(213,31,35,0.2)"
+}
+```
+
+<!-- @end Programming Tools - General -->
 
 @tab Design & Image
 
@@ -944,6 +959,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Submarine Cable Map",
+  "desc": "TeleGeography's comprehensive and regularly updated interactive map of the world's major submarine cable systems and landing stations.",
+  "link": "https://www.submarinecablemap.com/",
+  "logo": "https://www.submarinecablemap.com/images/telegeography-app-icon.png",
+  "background": "rgba(0,99,191,0.2)"
+}
+```
+
 - [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
 
 <!-- @end Geospatial -->
@@ -1414,3 +1439,5 @@ mindmap
 ```
 
 ---
+
+<TagLinks />

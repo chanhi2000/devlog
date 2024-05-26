@@ -32,6 +32,12 @@ tag:
 
 ---
 
+## GS리테일 DX블로그
+
+- [Flutter 기반의 모바일 앱 재개발 회고](https://gsretail.tistory.com/7) <!-- TODO: 작성 (/explore/articles/gsretail.tistory.com/7.md) -->
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Flutter Hackers: Uncovering the Dev's Myopia (Part 1)](https://infosecwriteups.com/flutter-hackers-uncovering-the-devs-myopia-part-1-6c316be56b13)

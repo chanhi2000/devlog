@@ -63,7 +63,7 @@ head:
 <MyYouTubeItems jsonName="yu-CodingLupine" /><!-- 코딩루팡 CodingLupine -->
 <MyYouTubeItems jsonName="yu-CodeRadiance" /><!-- Code Radiance -->
 <MyYouTubeItems jsonName="yu-IndianCoders" /><!-- Indian Coders -->
-<MyYouTubeItems jsonName="yu-weekendcode" /><!-- Weekend Code -->
+<MyYouTubeItems jsonName="yu-weekendcode" /><!-- WeekendCode 주말코딩 -->
 <MyYouTubeItems jsonName="yu-briandesign" /><!-- Brian Design -->
 <MyYouTubeItems jsonName="yu-galaxies_dev" /><!-- Simon Grimm -->
 <MyYouTubeItems jsonName="yu-MonsterlessonsAcademy" /><!-- Monsterlessons Academy -->
@@ -84,7 +84,6 @@ head:
 <MyYouTubeItems jsonName="yu-RedwoodJS" /><!-- RedwoodJS -->
 <MyYouTubeItems jsonName="yu-reactproject" /><!-- React & Next js Projects with Sahand -->
 <MyYouTubeItems jsonName="yu-gionatha" /><!-- Code With Gionatha -->
-<MyYouTubeItems jsonName="yu-WebChainDev" /><!-- WebChain Dev -->
 <MyYouTubeItems jsonName="yu-ClarityCoders" /><!-- ClarityCoders -->
 <MyYouTubeItems jsonName="yu-codedamn" /><!-- Mehul - Codedamn -->
 <MyYouTubeItems jsonName="yu-GreatStackDev" /><!-- GreatStack -->

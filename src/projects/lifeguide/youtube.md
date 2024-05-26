@@ -129,5 +129,7 @@ head:
 <MyYouTubeItems jsonName="yu-jscode-official" /><!-- JSCODE 박재성 -->
 <MyYouTubeItems jsonName="yu-onemealaday767" /><!-- 하루한끼 one meal a day -->
 <MyYouTubeItems jsonName="yu-The-DIY-Guide" /><!-- The DIY Guide -->
+<MyYouTubeItems jsonName="yu-space_diary" /><!-- 공간일기 -->
+<MyYouTubeItems jsonName="yu-chy65670075" /><!-- 덴트초이 -->
 
 <TagLinks />

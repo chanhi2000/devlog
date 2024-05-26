@@ -24,5 +24,6 @@ tag:
 <MyYouTubeItems jsonName="yu-LowLevelLearning" /><!-- Low Level Learning -->
 <MyYouTubeItems jsonName="yu-nathanbaggs" /><!-- Nathan Baggs -->
 <MyYouTubeItems jsonName="yu-AssortRockGameAcademy" /><!-- 어소트락 게임아카데미 -->
+<MyYouTubeItems jsonName="yu-TheCherno" /><!-- The Cherno -->
 
 <TagLinks />

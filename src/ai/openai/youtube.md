@@ -161,5 +161,6 @@ head:
 <MyYouTubeItems jsonName="yu-FASTCAMPUStv" /><!-- 패스트캠퍼스 -->
 <MyYouTubeItems jsonName="yu-NicholasRenotte" /><!-- Nicholas Renotte -->
 <MyYouTubeItems jsonName="yu-careerhackeralex" /><!-- 커리어해커 알렉스 -->
+<MyYouTubeItems jsonName="yu-CleverProgrammer" /><!-- Clever Programmer -->
 
 <TagLinks />

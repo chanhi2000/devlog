@@ -9,7 +9,11 @@ category:
 
 # {{ $frontmatter.description }} 관련
 
+---
 
+## Table of Contents
+
+<ToCLocal basePath="/tool/dracula/" />
 
 ---
 

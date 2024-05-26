@@ -29,19 +29,23 @@ head:
 
 ---
 
+## Deno
+
+- [How to document your JavaScript package](https://deno.com/blog/document-javascript-package)
+
+---
+
 ## LY Corporation Tech Blog
 
 - [HeadVer - 기민한 프로덕트 팀을 위한 새로운 버저닝 시스템](https://techblog.lycorp.co.jp/ko/headver-new-versioning-system-for-product-teams) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/headver-new-versioning-system-for-product-teams.md) -->
 - [오픈소스 ABC User Feedback에 적용한 모노리포 구조 소개](https://techblog.lycorp.co.jp/ko/monorepo-structure-for-abc-user-feedback)
 <!-- (TODO: 작성 (/explore/articles/engineering.linecorp.com/monorepo-structure-for-abc-user-feedback.md) -->
 
+---
 
+## Toss Tech
 
-## Toss
-
-- [패키지 매니저의 과거, 토스의 선택, 그리고 미래](https://toss.tech/article/lightning-talks-package-manager)
-
-<!-- TODO: 작성 (/explore/articles/toss.tech/lightning-talks-package-manager.md) -->
+- [패키지 매니저의 과거, 토스의 선택, 그리고 미래](https://toss.tech/article/lightning-talks-package-manager) <!-- TODO: 작성 (/explore/articles/toss.tech/lightning-talks-package-manager.md) -->
 
 ---
 
@@ -84,6 +88,12 @@ head:
 ## uncenter
 
 - [The package that broke npm (accidentally)](https://uncenter.dev/posts/npm-install-everything/)
+
+---
+
+## ~/Z
+
+- [Dynamic Github profile with Bun and Typescript](https://tduyng.com/blog/dynamic-github-profile-with-bun-typescript)
 
 ---
 

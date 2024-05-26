@@ -5309,5 +5309,25 @@
     "desc": "Launch Harlequin, the SQL IDE for your Terminal, with your Django database configuration.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "transcriptionstream/transcriptionstream",
+    "desc": "turnkey self-hosted offline transcription and diarization service with llm summary",
+    "officialSite": "",
+    "topics": ["automation", "diarization", "llm", "mistral-7b", "ollama", "speaker-diarization", "speech-recognition", "transcription", "whisper", "whisperx"]
+  }, {
+    "repo": "halfenif/toy_filemover_streamlit",
+    "desc": "Sometimes the process of editing MP3 tags is the result of an old man's work.",
+    "officialSite": "https://filemover.enif.page/",
+    "topics": ["fastapi", "mp3-tags", "mpd", "streamlit"]
+  }, {
+    "repo": "kakaobrain/kogpt",
+    "desc": "KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)",
+    "officialSite": "",
+    "topics": ["deeplearning", "generative-model", "gpt", "gpt3", "huggingface", "kakaobrain", "kogpt", "korean", "nlp", "transformers"]
+  }, {
+    "repo": "meltano/meltano",
+    "desc": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.",
+    "officialSite": "https://meltano.com/",
+    "topics": ["connectors", "data", "data-engineering", "data-pipelines", "dataops", "dataops-platform", "elt", "extract-data", "integration", "loaders", "meltano", "meltano-sdk", "open-source", "opensource", "pipelines", "singer", "tap", "taps", "target", "targets"]
   }
 ]

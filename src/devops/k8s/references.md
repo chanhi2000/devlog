@@ -44,15 +44,27 @@ tag:
 
 ---
 
-## Kakao Pay
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
-- [환경미화 프로젝트(부제: 카카오페이 k8s에서 낭비되는 자원을 절약해 보자!)](https://tech.kakaopay.com/post/eco-ami/)
+### Kakao Tech
+
+- [쿠버네티스에 레디스 캐시 클러스터 구축기](https://tech.kakao.com/posts/491) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/491.md -->
+
+### Kakao Pay
+
+- [환경미화 프로젝트(부제: 카카오페이 k8s에서 낭비되는 자원을 절약해 보자!)](https://tech.kakaopay.com/post/eco-ami/) <!-- TODO: 작성 (/explore/articles/tech.kakaopay.com/eco-ami.md) -->
 
 ---
 
 ## Inflab Tech
 
 - [개발-운영 생산성 모니터링하기 (with Devlake, Grafana)](https://tech.inflab.com/20240221-dora-metric-with-devlake/)
+
+---
+
+## GS리테일 DX블로그
+
+- [실시간 추천을 위한 kubeflow 환경 구축](https://gsretail.tistory.com/12) <!-- TODO: 작성 (/explore/articles/gsretail.tistory.com/12.md) -->
 
 ---
 
@@ -252,6 +264,12 @@ tag:
 ## Riccardo Padovani
 
 - [How Kubernetes picks which pods to delete during scale-in](https://rpadovani.com/k8s-algorithm-pick-pod-scale-in)
+
+---
+
+## 커피고래의 노트
+
+- [쿠버네티스 API서버는 정말 그냥 API서버라구욧](https://coffeewhale.com/apiserver)
 
 ---
 

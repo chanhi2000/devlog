@@ -244,11 +244,11 @@ tag:
 
 ```component VPCard
 {
-  "title": "머니플뉴스",
-  "desc": "AI가 대신 읽어주는 뉴스",
-  "link": "https://newsgpt.web.app",
-  "logo": "https://newsgpt.web.app/logo192.png",
-  "background": "rgba(46, 46, 46, 0.2)"
+  "title": "데일리시큐",
+  "desc": "인터넷 신문",
+  "link": "https://www.dailysecu.com/",
+  "logo": "https://www.dailysecu.com/image/logo/snslogo_20201208012525.jpg",
+  "background": "rgba(237,110,34,0.2)"
 }
 ```
 
@@ -274,16 +274,6 @@ tag:
 
 ```component VPCard
 {
-  "title": "FONT CLUB",
-  "desc": "뉴스 / 트렌드",
-  "link": "http://www.fontclub.co.kr/?cat=1",
-  "logo": "http://www.fontclub.co.kr/wp-content/uploads/2018/02/favicon.ico",
-  "background": "rgba(93,203,200,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "Model & API Providers Analysis | Artificial Analysis",
   "desc": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key metrics including quality, price, performance and speed (throughput & latency).",
   "link": "https://artificialanalysis.ai/",
@@ -293,6 +283,19 @@ tag:
 ```
 
 https://gracefullight.dev/archive/
+
+
+<!-- 
+```component VPCard
+{
+  "title": "머니플뉴스",
+  "desc": "AI가 대신 읽어주는 뉴스",
+  "link": "https://newsgpt.web.app",
+  "logo": "https://newsgpt.web.app/logo192.png",
+  "background": "rgba(46, 46, 46, 0.2)"
+}
+```
+-->
 
 <!-- @end News -->
 
@@ -528,6 +531,16 @@ https://gracefullight.dev/archive/
 
 ```component VPCard
 {
+  "title": "GS리테일 DX블로그",
+  "desc": "IT 기술 블로그들의 최신 포스트를 한곳에서 보세요.",
+  "link": "https://gsretail.tistory.com/",
+  "logo": "https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Hyperconnect Tech Blog | 하이퍼커넥트의 기술블로그입니다.",
   "desc": "하이퍼커넥트의 기술블로그입니다.",
   "link": "https://hyperconnect.github.io/",
@@ -627,6 +640,24 @@ https://gracefullight.dev/archive/
   "link": "https://blog.imqa.io/",
   "logo": "https://blog.imqa.io/favicon.png",
   "background": "rgba(86,66,204,0.2)"
+}
+```
+
+<SiteInfo
+  name="Latest Articles | UX Tools"
+  desc="Articles about the skills, tools, and techniques of UX design."
+  url="https://uxtools.co/blog/"
+  logo="https://uxtools.co/apple-touch-icon.png"
+  preview="https://uxtools.co/img/default-share.png"/>
+
+
+```component VPCard
+{
+  "title": "FONT CLUB",
+  "desc": "뉴스 / 트렌드",
+  "link": "http://www.fontclub.co.kr/?cat=1",
+  "logo": "http://www.fontclub.co.kr/wp-content/uploads/2018/02/favicon.ico",
+  "background": "rgba(93,203,200,0.2)"
 }
 ```
 

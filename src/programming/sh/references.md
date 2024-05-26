@@ -115,7 +115,7 @@ tag:
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [A Guide To Command-Line Data Manipulation](https://www.smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller)<!-- TODO: 작성 (/explore/articles/smashingmagazine.com/guide-command-line-data-manipulation-cli-miller.md)-->
+- [A Guide To Command-Line Data Manipulation](https://www.smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/guide-command-line-data-manipulation-cli-miller.md)-->
 
 ---
 

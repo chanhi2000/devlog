@@ -91,5 +91,8 @@ tag:
 <MyYouTubeItems jsonName="yu-CyberGizmo" /><!-- DJ Ware -->
 <MyYouTubeItems jsonName="yu-an0n_ali" /><!-- An0n Ali -->
 <MyYouTubeItems jsonName="yu-VeritasTechnologies" /><!-- Veritas Technologies -->
+<MyYouTubeItems jsonName="yu-Snyksec" /><!-- Snyk -->
+<MyYouTubeItems jsonName="yu-ProTechShow" /><!-- Pro Tech Show -->
+<MyYouTubeItems jsonName="yu-OpenSecurityTraining" /><!-- OpenSecurityTraining2 -->
 
 <TagLinks />
