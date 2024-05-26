@@ -261,6 +261,18 @@ tag:
 
 ---
 
+## vusec
+
+- [GHOSTRACE](https://www.vusec.net/projects/ghostrace/)
+
+---
+
+## Codean Labs
+
+- [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
+
+---
+
 ## Project(s)
 
 ```component VPCard

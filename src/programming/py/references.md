@@ -92,6 +92,7 @@ tag:
 - [`@1996yyk` / [Full-Stack] 풀스택 프로젝트 개발 일지(1)](https://velog.io/@1996yyk/Full-Stack-%ED%92%80%EC%8A%A4%ED%83%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%801)
 - [`@skynet` / [Leetcode] 452. Minimum Number of Arrows to Burst Balloons](https://velog.io/@skynet/leetcode-452.-Minimum-Number-of-Arrows-to-Burst-Balloons)
 - [`@devstone` / 실시간 흉기 난동 상황 탐지 서비스 개발기](https://velog.io/@devstone/%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%9D%89%EA%B8%B0-%EB%82%9C%EB%8F%99-%EC%83%81%ED%99%A9-%ED%83%90%EC%A7%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
+- [`@euisuk-chung` / [꿀팁] Python으로 다양한 데이터 다루기](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-Python%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 
 ---
 
@@ -111,10 +112,18 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`crawlee` / Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
+
+
+---
+
 ## Substack
 
 - [`thepythoncodingstack` / The Magician's Sleight of Hand](https://www.thepythoncodingstack.com/p/the-magicians-sleight-of-hand-python)
 - [`aljamal` / Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
+- [`bitecode` / Light speed with Python and JS](https://www.bitecode.dev/p/light-speed-with-python-and-js)
 
 ---
 
@@ -464,6 +473,7 @@ tag:
 ## Max Bernstein
 
 - [`scrapscript.py`](https://bernsteinbear.com/blog/scrapscript/)
+- [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 
 ---
 
@@ -627,6 +637,8 @@ tag:
 - [OpenCV Python 마우스 이벤트 예제](https://webnautes.tistory.com/2334)
 - [PyQt5에서 윈도우의 모든 창 버튼(최소화, 최대화, 닫기)을 제거](https://webnautes.tistory.com/2335)
 - [pyQt5 윈도우를 화면의 중앙에 배치하기](http://webnautes.tistory.com/2336)
+- [OpenCV Python Tracking 예제](https://webnautes.tistory.com/2338)
+- [PyQt5 QTableWidget 예제](https://webnautes.tistory.com/2337)
 
 ---
 
@@ -737,6 +749,7 @@ tag:
 - [How Are Requests Processed in Flask?](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
 - [Parallelism, Concurrency, and AsyncIO in Python - by example](https://testdriven.io/blog/python-concurrency-parallelism/)
 - [Modern Test-Driven Development in Python](https://testdriven.io/blog/modern-tdd/)
+- [Python Dependency Injection](https://testdriven.io/blog/python-dependency-injection/)
 
 ---
 
@@ -908,6 +921,22 @@ tag:
 - [Python's Self Type: How to Annotate Methods That Return self](https://realpython.com/python-type-self/)
 - [Python's raise: Effectively Raising Exceptions in Your Code](https://realpython.com/python-raise-exception/)
 - [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
+- [Python's unittest: Writing Unit Tests for Your Code – Real Python](https://realpython.com/python-unittest/)
+- [What Are CRUD Operations? Quiz](https://realpython.com/quizzes/crud-operations/)
+- [Build Command-Line Interfaces With Python's argparse – Real Python](https://realpython.com/command-line-interfaces-python-argparse/)
+- [How to Get and Use the Current Time in Python – Real Python](https://realpython.com/python-get-current-time/)
+- [Python's "in" and "not in" Operators: Check for Membership – Real Python](https://realpython.com/python-in-operator/)
+- [Getters and Setters: Manage Attributes in Python – Real Python](https://realpython.com/python-getter-setter/)
+- [Python's Built-in Exceptions: A Walkthrough With Examples – Real Python](https://realpython.com/python-built-in-exceptions/)
+- [Python's doctest: Document and Test Your Code at Once – Real Python](https://realpython.com/python-doctest/)
+- [Python's `__all__`: Packages, Modules, and Wildcard Imports – Real Python](https://realpython.com/python-all-attribute/)
+- [Python's Built-in Exceptions: A Walkthrough With Examples – Real Python](https://realpython.com/python-built-in-exceptions/)
+- [How to Get the First Match From a Python List or Iterable – Real Python](https://realpython.com/python-first-match/)
+- [Linear Algebra in Python: Matrix Inverses and Least Squares – Real Python](https://realpython.com/python-linear-algebra/)
+- [Building a URL Shortener With FastAPI and Python (Overview) – Real Python](https://realpython.com/lessons/url-shortener-fastapi-overview/)
+- [Python and TOML: New Best Friends – Real Python](https://realpython.com/python-toml/)
+- [How to Split a Python List or Iterable Into Chunks – Real Python](https://realpython.com/how-to-split-a-python-list-into-chunks/)
+- [How to Flush the Output of the Python Print Function – Real Python](https://realpython.com/python-flush-print-output/)
 
 ---
 
@@ -986,6 +1015,78 @@ tag:
 ## Seungdols Company
 
 - [Alfred workflows - naver dictionary](https://seungdols.tistory.com/1018)
+
+---
+
+## Life Log
+
+- [파이썬에서 무지막지하게 큰 데이터를 공유 하는 방법](https://ravenkim97.tistory.com/445)
+
+---
+
+## TheoryDB · All roads lead to data.
+
+- [\[리뷰\] 실무로 통하는 ML 문제 해결 with 파이썬](https://theorydb.github.io/review/2024/05/24/review-book-ml-python-cookbook/)
+
+---
+
+## 상구리의 기술 블로그
+
+- [Pyrhon3 – How to install packages offline (pip 오프라인 설치)](https://www.skyer9.pe.kr/wordpress/?p=9033)
+
+---
+
+## MLJAR Studio
+
+- [How to create Dashboard in Python from PostgreSQL](https://mljar.com/blog/postgresql-dashboard-python/)
+
+---
+
+## marimo | a next-generation Python notebook
+
+- [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
+
+---
+
+## The Python Papers
+
+- [An Intro to Logging with Loguru](https://www.pythonpapers.com/p/an-intro-to-logging-with-loguru)
+
+---
+
+## Adam Johnson
+
+- [Python: Show all subclasses of a class](https://adamj.eu/tech/2024/05/10/python-all-subclasses/)
+
+---
+
+## mathspp
+
+- [TIL #096 – automatically push code changes during live coding](https://mathspp.com/blog/til/automatically-push-code-changes-during-live-coding)
+
+---
+
+## Majornetwork – Gateway of last resort is not set
+
+- [Datetimes with Timezones in Python](https://majornetwork.net/2024/02/datetimes-with-timezones-in-python/)
+
+---
+
+## Animesh Chouhan
+
+- [Sleepsort: Sorting while sleeping](https://animeshchouhan.com/posts/sleepsort/)
+
+---
+
+## Mouse Vs Python - Where You Can Learn All About Python Programming
+
+- [How to Read and Write Parquet Files with Python](https://www.blog.pythonlibrary.org/2024/05/06/how-to-read-and-write-parquet-files-with-python/)
+
+---
+
+## Hereket
+
+- [Poor mans autoreload server in single file python on linux](https://hereket.com/posts/linux_live_reload_python_server/)
 
 ---
 

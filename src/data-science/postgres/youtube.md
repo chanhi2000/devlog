@@ -10,6 +10,14 @@ tag:
   - sql
   - db
   - postgres
+head:
+  - - meta:
+    - property: og:title
+      content: PostgreSQL > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/postgres/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

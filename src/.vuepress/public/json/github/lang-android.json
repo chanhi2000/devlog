@@ -379,5 +379,15 @@
     "desc": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
     "officialSite": "https://itexp.blog.csdn.net/",
     "topics": ["android", "fake-gps", "fake-locations", "java", "joystick", "map", "mock-location", "mock-locations", "mockgps", "virtual-location"]
+  }, {
+    "repo": "grarcht/Shuttle",
+    "desc": "Shuttle provides a modern, guarded way to pass large Serializable objects with Intents or saving them in Bundle objects to avoid app crashes from TransactionTooLargeExceptions.",
+    "officialSite": "",
+    "topics": ["android", "coroutines", "framework", "gradle", "guardrail", "kotlin", "maven", "modules", "prevent-app-crashes", "sbb", "solution-building-block", "transactiontoolargeexception"]
+  }, {
+    "repo": "j-roskopf/ComposeGuard",
+    "desc": "A Gradle plugin for detecting regressions in Jetpack Compose",
+    "officialSite": "",
+    "topics": []
   }
 ]

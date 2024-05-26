@@ -94,11 +94,41 @@ tag:
 
 ```component VPCard
 {
+  "title": "강좌/팁 1 페이지 | 다모앙 |  DAMOANG",
+  "desc": "다모앙은 각 개인의 아이디어가 모여 강력한 집단지성을 형성하고, 공정하고 투명한 협업으로 우리 모두의 꿈을 현실로 만드는 소통의 광장입니다.",
+  "link": "https://damoang.net/lecture",
+  "logo": "https://damoang.net/theme/damoang/img/favicon/apple-touch-icon.png",
+  "background": "rgba(49,108,244,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "주간 뉴스 - Sangkon Han(SigmaDream, sd or SD)",
   "desc": "내가 한 주간 읽고/실행한 외국의 기사를 모아서 소개하는 Weekly 뉴스!",
   "link": "https://www.sangkon.com/tag/weekly/",
   "logo": "https://www.sangkon.com/favicon.ico",
   "background": "rgba(21,23,26,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "iximiuz Labs - Learning-by-Doing Platform to master Cloud Native craft",
+  "desc": "Skill up in Linux, Containers, Kubernetes, and Server-Side Programming by solving fun challenges.",
+  "link": "https://labs.iximiuz.com/",
+  "logo": "https://labs.iximiuz.com/favicon.ico",
+  "background": "rgba(78,156,228,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Vx Underground",
+  "desc": "The largest collection of malware source code, samples, and papers on the internet.",
+  "link": "https://vx-underground.org/",
+  "logo": "https://vx-underground.org/favicon.ico",
+  "background": "rgba(0,0,0,0.2)"
 }
 ```
 
@@ -335,6 +365,16 @@ https://gracefullight.dev/archive/
   "link": "https://www.popit.kr/",
   "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
   "background": "rgba(0,21,41,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술",
+  "desc": "미래의 문턱을 낮추는 기술",
+  "link": "https://tech.kakao.com/",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
 }
 ```
 

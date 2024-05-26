@@ -55,7 +55,7 @@ tag:
 - [AllwinnerTech T507 안드로이드 빌드 방법](https://blog.naver.com/chandong83/223450810794)
 - [안드로이드 BSP빌드시 Jack-server 에러(AW A40i)](https://blog.naver.com/chandong83/223450764691)
 - [TouchGFX Failed to load native freetype library! 에러 해결 방법](https://blog.naver.com/chandong83/223451548021)
-
+- [인바디 체중계- 다이얼 H30NWi - 앱 활용기](https://blog.naver.com/chandong83/223456287268)
 ---
 
 ## The Copetti site
@@ -181,5 +181,15 @@ tag:
 - [Drone Flying 101: An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
 
 ---
+
+## 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔
+
+- [#1. 반도체 !! 정말 '이 개념'만 이해하면 됩니다!! | 반도체 강의 (기초부터 취업까지)](https://topnanis.tistory.com/246)
+- [#2. 반도체 8대 공정, 웨이퍼부터 반도체 패키징까지 딱 한번에 머릿속으로 모두 복사됩니다! | 반도체 강의 (기초부터 취업까지)](https://topnanis.tistory.com/247)
+- [#3. 반도체 패키징 (웨다와몰패) 4분 안에 끝! | 반도체 강의 (기초부터 취업까지)](https://topnanis.tistory.com/248)
+- [#4. 반도체 핵심 복습 (기초반도체공학, 메모리반도체, 로직반도체, 반도체 취업) | 반도체 강의 (기초부터 취업까지)](https://topnanis.tistory.com/249)
+- [#5. 반도체하면 무조건 가장 중요한 뉴스단골 '이것'!! 모르면 정말정말 안됩니다 | 반도체 강의 (기초부터 취업까지)](https://topnanis.tistory.com/250)
+
+----
 
 <TagLinks />

@@ -1489,5 +1489,20 @@
     "desc": "  Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this project provides dynamic tiling for XFCE, LXDE, LXQt, KDE and GNOME (Mate, Deepin, Cinnamon, Budgie) based desktop environments.",
     "officialSite": "",
     "topics": ["dynamic-window-manager", "ewmh", "fluxbox", "gnome", "golang", "hot-corners", "icewm", "kde", "kwin", "linux", "lxde", "lxqt", "marco", "muffin", "mutter", "openbox", "tiling-window-manager", "window-manager", "x11", "xfce"]
+  }, {
+    "repo": "yorukot/superfile",
+    "desc": "Pretty fancy and modern terminal file manager",
+    "officialSite": "https://superfile.netlify.app",
+    "topics": ["bubbletea", "cli", "file-manager", "filemanager", "filesystem", "golang", "linux-app", "terminal-app", "terminal-based", "terminal-file-manager", "tui"]
+  }, {
+    "repo": "nalgeon/redka",
+    "desc": "Redis re-implemented with SQLite",
+    "officialSite": "",
+    "topics": ["database", "key-value", "redis", "sqlite"]
+  }, {
+    "repo": "QuilibriumNetwork/ceremonyclient",
+    "desc": "Mirror of Quilibrium git repo: ceremonyclient",
+    "officialSite": "",
+    "topics": []
   }
 ]

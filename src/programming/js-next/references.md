@@ -65,4 +65,10 @@ head:
 
 ---
 
+## 편리함을 추구하는 핸디의 지식 블로그
+
+- [[Next] 안정감있는 서비스를 위하여 #2 (Sentry with app router)](https://all-dev-kang.tistory.com/entry/Next-%EC%95%88%EC%A0%95%EA%B0%90%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%98%EC%97%AC-2-Sentry-with-app-router)
+
+---
+
 <TagLinks />

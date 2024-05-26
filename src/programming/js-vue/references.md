@@ -119,4 +119,10 @@ head:
 
 ---
 
+## 사진찍는 웹 개발자의 블로그
+
+- [NavigationDuplicated Avoided navigation to current location - vue router 에러](https://donghoon-song.github.io/vue.js/navigationduplicated-avoided-navigation-to-current-location---vue-router-%EC%97%90%EB%9F%AC/)
+
+---
+
 <TagLinks />

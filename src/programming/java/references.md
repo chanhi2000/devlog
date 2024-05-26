@@ -81,6 +81,8 @@ tag:
 - [`박상권의-삽질블로그` / 알아두면 쓸모있는 신비한 안드로이드 지식 9가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)
 - [`Javarevisited` / 10 Best Free Courses to Learn Spring and Microservices for Java Programmers in 2023](https://medium.com/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e)
 - [`geekculture` / Java TS Video Downloader](https://medium.com/geekculture/java-ts-video-downloader-a0fcf23ab84a)
+- [`@l2hyunwoo` / Kotlin 2.0으로 마이그레이션하기](https://medium.com/@l2hyunwoo/kotlin-2-0%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-1742f294df51)
+
 
 ### 동팡
 
@@ -277,6 +279,9 @@ tag:
 ### InfoQ
 
 - [Java 22 Delivers Foreign Memory & Memory API, Unnamed Variables & Patterns, and Return of JavaOne](https://www.infoq.com/news/2024/03/java22-released/)
+- [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java)
+
+<!-- TODO: 작성 (/explore/articles/infoq.com/netflix-java.md) -->
 
 ### 얇고 넓은 개발자
 
@@ -379,6 +384,14 @@ tag:
 
 <!-- TODO: 작성 (/explore/articles/hyperconnect.github.io/suspicious-jvm-memory-in-container.md) -->
 
+### Pentest, Reverse, Développement
+
+- [JAVA DESERIALIZATION TRICKS](https://www.synacktiv.com/en/publications/java-deserialization-tricks)
+
+### LY Corporation Tech Blog
+
+- [린트 적용으로 코드 대량 변경 시 AST를 이용해 검증하기](https://techblog.lycorp.co.jp/ko/using-ast-to-verify-the-code-after-code-linting)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -435,6 +448,9 @@ tag:
 - [`jaeyeong951` / virtual thread 동기화: `synchronized`의 한계](https://jaeyeong951.medium.com/virtual-thread-synchronized-x-6b19aaa09af1)
 - [`jaeyeong951` / Project Valhalla : value class](https://jaeyeong951.medium.com/project-valhalla-value-class-092a25aec7a6)
 - [`@maya.mohite` / Type Erasure in Kotlin: Simplifying the Complex](https://medium.com/@maya.mohite/type-erasure-in-kotlin-simplifying-the-complex-e60de7ae3db1)
+- [`@khush.panchal123` / Understanding Kotlin’s Any, Unit, Nothing](https://medium.com/@khush.panchal123/understanding-kotlins-any-unit-nothing-7bcaad73fbc1)
+- [Convert HTML to PDF with Kotlin/JVM](https://mariuszsoltysiak.medium.com/convert-html-to-pdf-with-kotlin-jvm-35b9a0aeaa44)
+
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -529,6 +545,7 @@ tag:
 
 - [Calling Kotlin/Wasm methods from Javascript](https://touchlab.co/kotlin-wasm-js-interop)
 - [Beware of Build Time Bloat](https://touchlab.co/touchlab-build-only-what-you-need)
+- [Ideal iOS KMP Setup](https://touchlab.co/ideal-ios-kmp-setup)
 
 ### Codersee
 
@@ -540,6 +557,7 @@ tag:
 - [Speeding up `isBlank()`](https://www.romainguy.dev/posts/2024/speeding-up-isblank/)
 - [Micro-optimizations in Kotlin — 1](https://www.romainguy.dev/posts/2024/micro-optimizations-in-kotlin-1/)
 - [Readability of Optimized Kotlin Code](https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
+- [Down a Rabbit Hole](https://www.romainguy.dev/posts/2024/down-a-rabbit-hole/)
 
 ### Kt.academy
 

@@ -242,6 +242,7 @@ tag:
 ## dev diary, TIL
 
 - [#TIL `git patch`를 적용하는 `apply` 명령과 `am` 명령](http://ohyecloudy.com/ddiary/2024/05/04/git-am/)
+- [#TIL `git diff` 문맥 파악에 도움을 주는 `hunk-header`](http://ohyecloudy.com/ddiary/2024/05/25/til-git-define-custom-hunk-header/)
 
 ---
 
@@ -302,6 +303,12 @@ tag:
 ## 주먹불끈
 
 - [git rebase vs. git pull —rebase](https://jusths.tistory.com/410)
+
+---
+
+## mathspp
+
+- [TIL #096 – automatically push code changes during live coding](https://mathspp.com/blog/til/automatically-push-code-changes-during-live-coding)
 
 ---
 

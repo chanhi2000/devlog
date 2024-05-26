@@ -1348,5 +1348,15 @@
     "desc": "Development repository for the Triton language and compiler",
     "officialSite": "https://triton-lang.org/",
     "topics": []
+  }, {
+    "repo": "ValveSoftware/halflife",
+    "desc": "Half-Life 1 engine based games",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "es3n1n/no-defender",
+    "desc": "A slightly more fun way to disable windows defender. (through the WSC api)",
+    "officialSite": "",
+    "topics": []
   }
 ]

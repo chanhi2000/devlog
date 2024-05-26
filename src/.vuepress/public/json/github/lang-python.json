@@ -2161,9 +2161,9 @@
     "officialSite": "https://mentat.codes"
   }, {
     "repo": "khoj-ai/khoj",
-    "desc": "An AI personal assistant for your digital brain",
-    "topics": ["chat", "markdown", "productivity", "ai", "emacs", "personal-assistant", "org-mode", "semantic-search", "obsidian-md", "sentence-transformer", "llm", "chatgpt"],
-    "officialSite": "https://khoj.dev"
+    "desc": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+    "officialSite": "https://khoj.dev",
+    "topics": ["agent", "ai", "chat", "chatgpt", "emacs", "llama3", "llamacpp", "llm", "markdown", "obsidian", "obsidian-md", "offline-llm", "org-mode", "productivity", "pwa", "rag", "self-hosted", "semantic-search", "whatsapp-ai"]
   }, {
     "repo": "netbox-community/netbox",
     "desc": "The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
@@ -5249,5 +5249,65 @@
     "desc": "Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai",
     "officialSite": "https://www.marqo.ai/",
     "topics": ["chatgpt", "clip", "deep-learning", "gpt", "hacktoberfest", "hnsw", "information-retrieval", "knn", "large-language-models", "machine-learning", "machinelearning", "multi-modal", "natural-language-processing", "search-engine", "semantic-search", "tensor-search", "transformers", "vector-search", "vision-language", "visual-search"]
+  }, {
+    "repo": "THU-MIG/yolov10",
+    "desc": "YOLOv10: Real-Time End-to-End Object Detection",
+    "officialSite": "https://arxiv.org/abs/2405.14458v1",
+    "topics": []
+  }, {
+    "repo": "Dataherald/dataherald",
+    "desc": "Interact with your SQL database, Natural Language to SQL using LLMs",
+    "officialSite": "https://dataherald.readthedocs.io/en/latest/",
+    "topics": ["ai", "database", "finetuning", "llm", "nl-to-sql", "rag", "sql", "text-to-sql"]
+  }, {
+    "repo": "mistralai/mistral-finetune",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "lavague-ai/LaVague",
+    "desc": "Large Action Model framework to develop AI Web Agents",
+    "officialSite": "https://docs.lavague.ai/en/latest/",
+    "topics": ["ai", "browser", "large-action-model", "llm", "oss", "rag"]
+  }, {
+    "repo": "HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs",
+    "desc": "The codes about \"Uni-MoE: Scaling Unified Multimodal Models with Mixture of Experts\"",
+    "officialSite": "https://uni-moe.github.io/",
+    "topics": []
+  }, {
+    "repo": "maitrix-org/Pandora",
+    "desc": "Pandora: Towards General World Model with Natural Language Actions and Video States",
+    "officialSite": "https://world-model.ai",
+    "topics": []
+  }, {
+    "repo": "pomponchik/metronomes",
+    "desc": "Endless tick-tock generators",
+    "officialSite": "",
+    "topics": ["cheduling", "metronome", "metronome-timer", "regular-tasks-scheduler", "regulat-tasks-scheduler"]
+  }, {
+    "repo": "oracle/graalpython",
+    "desc": "A Python 3 implementation built on GraalVM",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "DavidBuchanan314/unsafe-python",
+    "desc": "A library to assist writing memory-unsafe code in \"pure\" python, without any imports (i.e. no ctypes etc.)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tiangolo/fastapi-cli",
+    "desc": "Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀",
+    "officialSite": "",
+    "topics": ["cli", "fastapi", "typer", "uvicorn"]
+  }, {
+    "repo": "bytewax/bytewax",
+    "desc": "Python Stream Processing",
+    "officialSite": "https://docs.bytewax.io/",
+    "topics": ["data-engineering", "data-processing", "data-science", "dataflow", "machine-learning", "python", "rust", "stream-processing", "streaming-data"]
+  }, {
+    "repo": "adamchainz/django-harlequin",
+    "desc": "Launch Harlequin, the SQL IDE for your Terminal, with your Django database configuration.",
+    "officialSite": "",
+    "topics": []
   }
 ]

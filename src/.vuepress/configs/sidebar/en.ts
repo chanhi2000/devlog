@@ -664,6 +664,22 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Flask',
+      collapsible: true,
+      icon: 'iconfont icon-flask',
+      children: [
+        '/programming/py-flask/README.md',
+        '/programming/py-flask/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-flask/articles/README.md',
+          ]
+        },
+      ]
+    }, {
       text: 'Jupyter',
       collapsible: true,
       icon: 'iconfont icon-django',
@@ -1932,10 +1948,11 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Nexus Repository',
       collapsible: true,
-      icon: 'fas fa-kaaba',
+      icon: 'iconfont icon-nexus',
       children: [
         '/devops/nexus/README.md',
         '/devops/nexus/tips.md',
+        '/devops/nexus/references.md',
         {
           text: 'Article(s)',
           collapsible: true,

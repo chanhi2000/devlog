@@ -26,4 +26,10 @@ head:
 
 ---
 
+## References
+
+- [jQuery Real Person](http://keith-wood.name/realPerson.html)
+
+---
+
 <TagLinks />

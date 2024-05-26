@@ -202,7 +202,7 @@ tag:
 
 ---
 
-## ITWorld Korea
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
 - [“맥이 느려졌어요” 속도 개선 팁 20가지](https://www.itworld.co.kr/news/330839)
 

@@ -24,9 +24,21 @@ tag:
 
 ---
 
-## Mozilla
+## <FontIcon icon="fa-brands fa-firefox"/>Mozilla
 
 - [Developer essentials: JavaScript `console` methods](https://developer.mozilla.org/en-US/blog/learn-javascript-console-methods/)
+
+### Hacks
+
+- [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
+- [A cartoon intro to ArrayBuffers and SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
+- [Avoiding race conditions in SharedArrayBuffers with Atomics](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
+
+---
+
+## InfoQ
+
+- [Polyglot Programming with WebAssembly: A Practical Approach](https://www.infoq.com/articles/webassembly-component-model/)
 
 ---
 
@@ -156,6 +168,7 @@ tag:
 - [[JavaScript] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/1057)
 - [[JavaScript] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/1062)
 - [[JavaScript] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/1063)
+- [[JavaScript] 자바스크립트 ==과 ===의 차이에 대하여](https://coding-factory.tistory.com/1064)
 
 ---
 
@@ -180,6 +193,7 @@ tag:
 ## 개발일지
 
 - [[이펙티브 타입스크립트] 1장 타입스크립트 알아보기](https://paran21.tistory.com/235)
+- [[이펙티브 타입스크립트] 3장 타입 추론 19~23](https://paran21.tistory.com/236)
 
 ---
 
@@ -234,6 +248,12 @@ tag:
 ## Witch-Work
 
 - [JS 탐구생활 - JS의 주석은 `//`과 `/* */`뿐만이 아니다](https://witch.work/posts/javascript-various-comments)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- [“브라우저 보편성+네이티브 기능성” 프로그레시브 웹 앱의 이해와 맛보기](https://www.itworld.co.kr/news/338020)
 
 ---
 

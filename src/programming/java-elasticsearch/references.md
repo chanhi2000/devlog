@@ -31,6 +31,7 @@ head:
 
 ## Easy to analyze if you are really curious about data
 
+- [엘라스틱 필드 유형 변환](https://kangmyounghun.blogspot.com/2024/05/blog-post.html)
 - [엘라스틱 Runtime field - 8th](https://kangmyounghun.blogspot.com/2024/05/runtime-field-8th.html)
 - [ingest pipeline - 4th](https://kangmyounghun.blogspot.com/2024/05/ingest-pipeline-4th.html)
 

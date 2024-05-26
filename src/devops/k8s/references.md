@@ -249,4 +249,10 @@ tag:
 
 ---
 
+## Riccardo Padovani
+
+- [How Kubernetes picks which pods to delete during scale-in](https://rpadovani.com/k8s-algorithm-pick-pod-scale-in)
+
+---
+
 <TagLinks />

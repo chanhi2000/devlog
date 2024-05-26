@@ -19,6 +19,14 @@ tag:
 
 ---
 
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+
+- [C Programming A Modern Approach 2nd Ed( C 89, C 99) King By](https://archive.org/details/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by/mode/2up)
+
+<PDF url="https://stanford.edu/~cgregg/cgi-bin/107-reader/" />
+<PDF url="http://cslibrary.stanford.edu/105/LinkedListProblems.pdf" />
+<PDF url="http://cslibrary.stanford.edu/102/PointersAndMemory.pdf" />
+
 ## <FontIcon icon="iconfont icon-github"/>Github
 
 - [<FontIcon icon="iconfont icon-c"/>`munificent/generate.c`](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
@@ -317,6 +325,18 @@ tag:
 ## LANCE EWING
 
 - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
+
+---
+
+## Oracle Linux Blog
+
+- [Understanding Unix Garbage Collection and its Interaction with io_uring](https://blogs.oracle.com/linux/post/unix-garbage-collection-and-iouring)
+
+---
+
+## neuviemeporte’s journal
+
+- [Hunting for the Right Compiler, Part 3](https://neuviemeporte.github.io/f15-se2/2023/09/02/compiler3.html)
 
 ---
 

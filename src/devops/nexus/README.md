@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Nexus Repository
 description: Nexus Repository
-icon: fas fa-kaaba
+icon: iconfont icon-nexus
 category:
   - Nexus Repository
 ---

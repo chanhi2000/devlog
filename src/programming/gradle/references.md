@@ -27,6 +27,11 @@ tag:
 
 - [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
 
+
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [Android project test fixtures](https://emartynov.medium.com/android-project-test-fixtures-dec50c5d8533)
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog

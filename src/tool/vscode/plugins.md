@@ -579,6 +579,16 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "YOCO(You Only Copy Once) (`yoco.YOCO`)",
+  "desc": "Copy your code with file name at once",
+  "link": "https://marketplace.visualstudio.com/items?itemName=yoco.YOCO",
+  "logo": "https://yoco.gallerycdn.vsassets.io/extensions/yoco/yoco/0.0.5/1716527540769/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(239,241,243,0.2)"
+}
+```
+
 ### ⚙️To Install
 
 ::: code-tabs#sh
@@ -640,6 +650,7 @@ code --install-extension mgmcdermott.vscode-language-babel # Babel JavaScript
 code --install-extension chrmarti.regex # Regex Previewer
 code --install-extension octref.vetur # Vuter
 code --isntall-extension sswg.swift-lang # Swift
+code --isntall-extension yoco.YOCO # YOCO(You Only Copy Once)
 ```
 
 @tab <FontIcon icon="fas fa-gears"/>cmd
@@ -698,6 +709,7 @@ code --install-extension yzhang.markdown-all-in-one && REM Markdown All in One
 code --install-extension mgmcdermott.vscode-language-babel && REM Babel 
 code --install-extension chrmarti.regex && REM Regex Previewer
 code --install-extension octref.vetur && REM Vuter
+code --isntall-extension yoco.YOCO && REM YOCO(You Only Copy Once)
 ```
 
 :::

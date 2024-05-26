@@ -53,6 +53,9 @@ tag:
 - [`sukkergris` / Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
 - [`adrianbailador` / Design Patterns in C#](https://dev.to/adrianbailador/design-patterns-in-c-n9)
 - [`turalsuleymani` / C# Delegates In Practice — Implementing Observer Pattern With Delegates](https://dev.to/turalsuleymani/c-delegates-in-practice-implementing-observer-pattern-with-delegates-54dh)
+- [`rasulhsn` / A Different Perspective of Stack Memory in .NET](https://dev.to/rasulhsn/a-different-perspective-of-stack-memory-in-net-33oc)
+- [`antonmartyniuk` / Mastering Exception Handling in C#: A Comprehensive Guide](https://dev.to/antonmartyniuk/mastering-exception-handling-in-c-a-comprehensive-guide-3e50)
+
 
 ---
 
@@ -229,5 +232,12 @@ tag:
 
 - [How to send push notifications to a browser in ASP.NET Core](https://blog.elmah.io/how-to-send-push-notifications-to-a-browser-in-asp-net-core)
 
+---
+
+## 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔
+
+- [[C#, Download] 프로젝트 기본 폼 (시작할때)](https://topnanis.tistory.com/251)
+
+---
 
 <TagLinks />

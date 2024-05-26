@@ -135,6 +135,12 @@ tag:
 - [`@delight412` / 스타벅스의 딜레마, 제품과 경험 중 무엇에 집중할 건가](https://brunch.co.kr/@delight412/686)
 - [`@reinlainer` / [특집] AI 글쓰기](https://brunch.co.kr/@reinlainer/85)
 - [`@reinlainer` / [문화] 병렬 독서법](https://brunch.co.kr/@reinlainer/86)
+- [`@delight412` / AI 회사들은 왜 그렇게 레딧 데이터를 쓰고 싶어할까?](https://brunch.co.kr/@delight412/690)
+- [`@seunghoon82` / 부지런하고 불편해야 한다.](https://brunch.co.kr/@seunghoon82/492)
+- [`@seunghoon82` / 커리어에서 첫 직장은 매우 중요하다.](https://brunch.co.kr/@seunghoon82/493)
+- [`@seunghoon82` / 창업을 해서 좋은 점](https://brunch.co.kr/@seunghoon82/494)
+- [`@seunghoon82` / 기술 보다는 사람이 먼저다.](https://brunch.co.kr/@seunghoon82/495)
+- [`@seunghoon82` / PE 관점 차용하기](https://brunch.co.kr/@seunghoon82/496)
 
 ---
 
@@ -214,7 +220,7 @@ tag:
 
 ---
 
-## LY Corporation
+## LY Corporation Tech Blog
 
 - [우선순위에 시달리다 공식을 만들었다](https://techblog.lycorp.co.jp/ko/a-formular-for-prioritizing)
 
@@ -415,6 +421,7 @@ tag:
 - [[유자랩스 창업기 #37] 창업 1주년 회고](https://ohseyong.com/%ec%9c%a0%ec%9e%90%eb%9e%a9%ec%8a%a4-%ec%b0%bd%ec%97%85%ea%b8%b0-37-%ec%b0%bd%ec%97%85-1%ec%a3%bc%eb%85%84-%ed%9a%8c%ea%b3%a0/)
 - [[서평] 코딩도 하고, 사장도 합니다](https://ohseyong.com/%ec%84%9c%ed%8f%89-%ec%bd%94%eb%94%a9%eb%8f%84-%ed%95%98%ea%b3%a0-%ec%82%ac%ec%9e%a5%eb%8f%84-%ed%95%a9%eb%8b%88%eb%8b%a4/)
 - [[오세용의 에세이 #38] 불안](https://ohseyong.com/%ec%98%a4%ec%84%b8%ec%9a%a9%ec%9d%98-%ec%97%90%ec%84%b8%ec%9d%b4-38-%eb%b6%88%ec%95%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ec%2584%25b8%25ec%259a%25a9%25ec%259d%2598-%25ec%2597%2590%25ec%2584%25b8%25ec%259d%25b4-38-%25eb%25b6%2588%25ec%2595%2588)
+- [[라프디 창업기 #39] 유자랩스 사명 변경](https://ohseyong.com/%EB%9D%BC%ED%94%84%EB%94%94-%EC%B0%BD%EC%97%85%EA%B8%B0-39-%EC%9C%A0%EC%9E%90%EB%9E%A9%EC%8A%A4-%EC%82%AC%EB%AA%85-%EB%B3%80%EA%B2%BD)
 
 ---
 
@@ -814,6 +821,36 @@ tag:
 ## taylor.town
 
 - [How to be a -10x Engineer](https://taylor.town/-10x)
+
+---
+
+## 숲속얘기
+
+- [모질라 허브는 왜 확산에 실패했을까? XRCLOUD는 어떻게 바꿔 갈 것인가?](https://blog.naver.com/fstory97/223457715993?)
+
+---
+
+## Chanho Lee
+
+- [📖 더 나은 프로그래머 되는 법](https://teddygood.github.io/blog/Becoming-a-Better-Programmer)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- [매력적이지만 버려야 할 10가지 나쁜 프로그래밍 습관](https://www.itworld.co.kr/news/337915)
+
+---
+
+## 동아비즈니스리뷰 | DBR
+
+- [질문을 던져라, 질문을 허용하라 外](https://dbr.donga.com/article/view/1401/article_no/3317/ac/magazine)
+
+---
+
+## Linkedin
+
+- [동기부여 다루기](https://www.linkedin.com/pulse/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%ED%98%84%EC%A4%80-%EC%97%AC-cexde/)
 
 ---
 

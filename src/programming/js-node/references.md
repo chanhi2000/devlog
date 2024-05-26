@@ -33,9 +33,14 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-node"/>Node.js
+
+- [How to read environment variables from Node.js](https://nodejs.org/en/learn/command-line/how-to-read-environment-variables-from-nodejs)
+
+---
+
 ## Education
 
-- [140 DevTools Tips](https://devtoolstips.org)
 - [The Programming Expert](https://theprogrammingexpert.com)
 - [My Favorite Free Courses to Learn JavaScript in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
 - [Kati Frantz's courses](https://katifrantz.com)
@@ -113,6 +118,13 @@ tag:
 - [프론트엔드와 SOLID 원칙](https://fe-developers.kakaoent.com/2023/230330-frontend-solid) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230330-frontend-solid.md) -->
 - [View Transitions API](https://fe-developers.kakaoent.com/2023/230403-view-transitions-api) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230403-view-transitions-api.md) -->
 
+---
+
+## 우아한형제들 기술블로그
+
+- [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 1. 이론 편](https://techblog.woowahan.com/17404/)
+
+<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/17404.md) -->
 ---
 
 ## 요즘IT
@@ -232,6 +244,7 @@ tag:
 - [`@kimbyungchan` / 🕹 Canvas StarCraft](https://velog.io/@kimbyungchan/canvas-starcraft)
 - [`@yerini` / 매개변수 쿼리](https://velog.io/@yerini/%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EC%BF%BC%EB%A6%AC)
 - [`@sehyunny` / (번역) 5가지 노드 버전 관리자 비교 - 어떤 것이 적합할까요?](https://velog.io/@sehyunny/5-node-manager-compared)
+- [`@juhee067` / 1. SQL 대신 Sequelize ORM 적용기 (초기설정,회원관련)](https://velog.io/@juhee067/Sequelize-ORM-%EC%A0%81%EC%9A%A9%EA%B8%B0)
 
 ---
 

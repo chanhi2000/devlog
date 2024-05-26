@@ -269,4 +269,10 @@ tag:
 
 ---
 
+## Blog | corrode Rust Consulting
+
+- [Long-term Rust Project Maintenance](https://corrode.dev/blog/long-term-rust-maintenance/)
+
+---
+
 <TagLinks />

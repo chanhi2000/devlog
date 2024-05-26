@@ -2289,5 +2289,15 @@
     "desc": "Metriport is an open-source universal API for healthcare data.",
     "officialSite": "https://metriport.com/",
     "topics": ["api", "fhir", "healthcare", "hipaa", "open-source", "self-hostable", "soc2", "typescript"]
+  }, {
+    "repo": "slidevjs/slidev",
+    "desc": "Presentation Slides for Developers",
+    "officialSite": "https://sli.dev",
+    "topics": ["markdown", "presentation", "slides", "vite", "vue", "vueuse"]
+  }, {
+    "repo": "WebGoat/WebGoat",
+    "desc": "WebGoat is a deliberately insecure application",
+    "officialSite": "https://owasp.org/www-project-webgoat/",
+    "topics": []
   }
 ]

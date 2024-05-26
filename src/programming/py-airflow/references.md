@@ -18,9 +18,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Airflow > Article(s)
+      content: Airflow > References
     - property: og:description
-      content: Article(s)
+      content: References
     - property: og:url
       content: https://chanhi2000.github.io/programming/py-airflow/references.html
 ---

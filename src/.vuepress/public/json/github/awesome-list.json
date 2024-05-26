@@ -1189,5 +1189,10 @@
     "desc": "A curated list of awesome Kubernetes tools and resources.",
     "officialSite": "",
     "topics": ["awesome-list", "kubernetes", "kubernetes-clusters", "kubernetes-networking", "kubernetes-operational", "kubernetes-resources", "list"]
+  }, {
+    "repo": "DovAmir/awesome-design-patterns",
+    "desc": "A curated list of software and architecture related design patterns.",
+    "officialSite": "",
+    "topics": ["architecture", "awesome", "awesome-list", "cloud-computing", "design-patterns", "gof-patterns", "lists", "microservices", "resources"]
   }
 ]

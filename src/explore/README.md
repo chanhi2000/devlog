@@ -382,6 +382,16 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+```component VPCard
+{
+  "title": "crates.io: Rust Package Registry",
+  "desc": "The Rust community’s crate registry",
+  "link": "https://crates.io/",
+  "logo": "https://crates.io/favicon.ico",
+  "background": "rgba(247,203,84,0.2)"
+}
+```
+
 @tab Portfolio / Cool Project
 
 ```component VPCard
@@ -458,6 +468,7 @@ https://www.getanyplant.com/plants
 https://demos.littleworkshop.fr/infinitown
 https://flareum.io/
 https://openvim.com/
+https://datawrapper.dwcdn.net/rT0yG/2/
 
 :::
 

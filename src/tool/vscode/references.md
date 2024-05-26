@@ -97,6 +97,7 @@ tag:
 ## 나는 내 좌절에 값어치를 매긴다
 
 - [[vscode 1% 이해하기] Jetbrains Mono 폰트 vscode 적용하기 (feat. Font Ligature)](https://helicopter55.tistory.com/84)
+- [[IDE 99% 에러잡기] cursor ide - cursor . 명령어 "zsh: command not found: cursor"](https://helicopter55.tistory.com/87)
 
 ---
 
@@ -106,7 +107,7 @@ tag:
 
 ---
 
-## ITWorld Korea
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
 - [비주얼 스튜디오 코드로 생산성을 높이는 10가지 방법](https://www.itworld.co.kr/news/330552)
 

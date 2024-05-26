@@ -504,5 +504,10 @@
     "desc": "Formatting technology for Swift source code",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "zenangst/Gray",
+    "desc": " :first_quarter_moon: Tailor your macOS Mojave experience",
+    "officialSite": "https://github.com/zenangst",
+    "topics": []
   }
 ]

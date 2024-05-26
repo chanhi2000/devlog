@@ -79,4 +79,9 @@ tag:
 
 ---
 
+## paul-samuels.com
+
+- [mise en place Xcode](https://paul-samuels.com/blog/2024/05/18/mise-en-place-xcode/)
+
+
 <TagLinks />

@@ -21,6 +21,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`samchon` / Stop using Swagger-UI and MSW, but SDK instead](https://dev.to/samchon/stop-using-swagger-ui-and-msw-but-sdk-instead-412b)
+
+---
+
 ## 개발하는 기획자 기획하는 개발자
 
 - [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
@@ -54,6 +60,13 @@ tag:
 ## yan
 
 - [[Infra] NestJS & Github Action 빌드 개선하기 (1 : CI build - ci.yml 개선)](https://iio-nff.tistory.com/4)
+
+---
+
+## ryuollojy
+
+- [Nest.js - Custom provider onApplicationShutdown 훅 사용하기](https://blog-ny4cromu1-rlj1202s-projects.vercel.app/articles/nest-js-custom-provider-dispose)
+- [Nest.js - Worker threads 잘 사용해보기](https://blog-ny4cromu1-rlj1202s-projects.vercel.app/articles/nest-js-worker-threads)
 
 ---
 

@@ -124,6 +124,7 @@ tag:
 - [`daangn` / (🔔당근!) 반가운 중고거래 키워드 알림 만들기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%B0%98%EA%B0%80%EC%9A%B4-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%95%8C%EB%A6%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-3ed969f07692)
 - [`@l2hyunwoo` / Efficient Layout(View Based) in Android](https://medium.com/@l2hyunwoo/efficient-layout-view-based-in-android-5a8fe9480969)
 - [`@nachare.reena8` / Integrating Ktor in Your Android App Like a Pro!](https://medium.com/@nachare.reena8/integrating-ktor-in-your-android-app-like-a-pro-74412db642ff)
+- [`@ragnorak-dev` / My first impressions of Compose multiplatform for web (Kotlin/Js — Kotlin/Wasm)](https://medium.com/@ragnorak-dev/my-first-feelings-with-compose-multiplatform-for-web-js-kotlin-wasm-91de8022d093)
 
 ---
 
@@ -190,6 +191,8 @@ tag:
 - [[정리] Compose 가이드 문서 ~ UI Architecture](https://pluu.github.io/blog/android/2024/05/06/compose/)
 - [[정리] Compose 가이드 문서 ~ Develop your app's layout](https://pluu.github.io/blog/android/2024/05/12/compose/)
 - [[메모] Compose 가이드 문서 ~ Components](https://pluu.github.io/blog/android/2024/05/19/compose/)
+- [[메모] Compose 가이드 문서 ~ Theming](https://pluu.github.io/blog/android/2024/05/23/compose/)
+- [[정리] Compose 가이드 문서 ~ Text and typography](https://pluu.github.io/blog/android/2024/05/25/compose/)
 
 ---
 

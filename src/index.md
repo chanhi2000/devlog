@@ -37,7 +37,7 @@ projects:
     link: https://chanhi2000.github.io/crashcourse
     icon: fas fa-drum
   - name: Notion Portfolio
-    link: https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd
+    link: https://markiiimark.notion.site/MarkiiimarK-Fullstack-DevOps-c231ae6c157d4baba89a3713c92449dd
     icon: iconfont icon-notion
 footerHtml: true
 footer: <i>v__VERSION__</i><br/><br/>MIT Licensed<br/>Copyright © 2022-present <a target="_blank" href="https://github.com/chanhi2000">Chan Hee Lee</a>

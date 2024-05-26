@@ -10,6 +10,14 @@ tag:
   - sql
   - db
   - postgres
+head:
+  - - meta:
+    - property: og:title
+      content: PostgreSQL > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/postgres/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -237,6 +245,7 @@ tag:
 ## Timescale Blog
 
 - [How We Scaled PostgreSQL to 350 TB+ (With 10B New Records/Day)](https://www.timescale.com/blog/how-we-scaled-postgresql-to-350-tb-with-10b-new-records-day/)
+- [13 Tips to Improve PostgreSQL Insert Performance](https://www.timescale.com/blog/13-tips-to-improve-postgresql-insert-performance/)
 
 ---
 
@@ -261,6 +270,12 @@ tag:
 ## Mattermost
 
 - [Making a Postgres query 1,000 times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
+
+---
+
+## MLJAR Studio
+
+- [How to create Dashboard in Python from PostgreSQL](https://mljar.com/blog/postgresql-dashboard-python/)
 
 ---
 

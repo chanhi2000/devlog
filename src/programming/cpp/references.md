@@ -35,6 +35,7 @@ tag:
 - [`@1106laura` / 백준 30678 별 안에 별 안에 별 찍기 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-30678-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%B0%8D%EA%B8%B0-C)
 - [`@1106laura` / 백준 2890 카약 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-2890-%EC%B9%B4%EC%95%BD-C)
 - [`@jwlee010523` / 다형성(Polymorphism)](https://velog.io/@jwlee010523/%EB%8B%A4%ED%98%95%EC%84%B1Polymorphism)
+- [`@jwlee010523` / 추상 클래스(abstract class)](https://velog.io/@jwlee010523/%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4abstract-class)
 
 ---
 
@@ -97,12 +98,14 @@ tag:
 - [단어 단위로 문자열 이동하기 - Step 1](https://blog.naver.com/tipsware/223444602512)
 - [[EasyWin32] FillPieDCP 함수 실습 코드 - Step 1](https://blog.naver.com/tipsware/223449171281)
 - [[EasyWin32] FillPieDCP 함수에 대하여](https://blog.naver.com/tipsware/223449026943)
-- [[EasyWin32/Q&amp;A] "FillPieDCP 함수 실습 코드 - Step 1" 자료에서 궁금한 점이 있습니다.](https://blog.naver.com/tipsware/223449193878)
+- [[EasyWin32/Q&A] "FillPieDCP 함수 실습 코드 - Step 1" 자료에서 궁금한 점이 있습니다.](https://blog.naver.com/tipsware/223449193878)
 - [주어진 단어로 정해진 영어 문장 맞추기 - Step 4](https://blog.naver.com/tipsware/223451759752)
 - [[답안] FillPieDCP 함수 실습 과제 - Step 1](https://blog.naver.com/tipsware/223451125327)
 - [Pie 그리기 이해에서 화살표를 표시해 보세요.](https://blog.naver.com/tipsware/223453741261)
 - [Pie 도형이 차지하는 각을 표시해 보세요.](https://blog.naver.com/tipsware/223454321213)
-
+- [[EasyWin32] 삼각함수 실습 - Step 1](https://blog.naver.com/tipsware/223458503222)
+- [[EasyWin32/Q&A] 일정한 크기로 줄여서 이미지를 출력해야 합니다.](https://blog.naver.com/tipsware/223457556313)
+- [MFC 프로그래밍 테스트 과제 - Step 2](https://blog.naver.com/tipsware/223456086684)
 ---
 
 ## Cpp2 and cppfront — An experimental 'C++ syntax 2' and its first compiler
@@ -165,6 +168,7 @@ tag:
 
 ## 오늘도 개발로그
 
+- [\[백준 9376번\] 탈옥](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-9376%EB%B2%88-%ED%83%88%EC%98%A5)
 - [[백준 1039번] 교환](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1039%EB%B2%88-%EA%B5%90%ED%99%98)
 - [[백준 1022번] 소용돌이 예쁘게 출력하기](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1022%EB%B2%88-%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4-%EC%98%88%EC%81%98%EA%B2%8C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
 

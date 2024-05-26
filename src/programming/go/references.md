@@ -38,6 +38,10 @@ tag:
 }
 ```
 
+## tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
+
+- [Golang GC 튜닝 가이드](https://tech.kakao.com/posts/618) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/618.md) -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
@@ -54,6 +58,7 @@ tag:
 - [Message Queue for Publisher/Subscriber (pub/sub) Scenarios with Go Practice](https://medium.com/@lordmoma/message-queue-for-publisher-subscriber-pub-sub-scenarios-with-go-practice-3ecc61b1b12)
 - [Parallelism and Concurrency in Go: How It Works in Real Computing Systems. Part 1.](https://medium.com/@ninucium/parallelism-and-concurrency-in-go-how-it-works-in-real-computing-systems-part-1-a680443ad8bd)
 - [`daangn` / 검색 랭킹 흐름 만들기: 검색은 처음 인디요](https://medium.com/daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7)
+- [쏘카일레클과 Go](https://medium.com/elecle-bike/%EC%8F%98%EC%B9%B4%EC%9D%BC%EB%A0%88%ED%81%B4%EA%B3%BC-go-99f2d110c32c)
 
 ---
 
@@ -212,6 +217,7 @@ tag:
 ## 기계인간 John Grib
 
 - [fan in, fan out](https://johngrib.github.io/wiki/pattern/fan-out/)
+- [The Go Blog 번역글 모음](https://johngrib.github.io/wiki/go/blog/)
 
 ---
 
@@ -230,6 +236,12 @@ tag:
 ## funes-days
 
 - [golang을 이용한 구독 커머스 아키텍처 설계](https://funes-days.com/dev/backend-architecture-with-golang)
+
+---
+
+## Phil Eaton
+
+- [Implementing MVCC and major SQL transaction isolation levels](https://notes.eatonphil.com/2024-05-16-mvcc.html)
 
 ---
 

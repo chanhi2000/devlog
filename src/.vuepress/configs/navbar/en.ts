@@ -191,6 +191,10 @@ export const navbarEn = navbar([
         link: '/programming/py-django/README.md',
         icon: 'iconfont icon-django',
       }, {
+        text: 'Flask',
+        link: '/programming/py-flask/README.md',
+        icon: 'iconfont icon-flask',
+      }, {
         text: 'Jupyter',
         icon: 'iconfont icon-jupyter',
         link: '/programming/py-jupyter/README.md',
@@ -415,7 +419,7 @@ export const navbarEn = navbar([
         link: '/devops/gatling/README.md',
       }, {
         text: 'Nexus Repository',
-        icon: 'fas fa-kaaba',
+        icon: 'iconfont icon-nexus',
         link: '/devops/nexus/README.md',
       }, {
         text: 'Tomcat',

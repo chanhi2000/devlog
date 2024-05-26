@@ -117,6 +117,7 @@ head:
 
 - [Chain of Responsibility Pattern](https://junhyunny.github.io/design-pattern/chain-of-responsibility-pattern/)
 - [Health Check for External Components in Actuator](https://junhyunny.github.io/spring-boot/health-check-for-external-components-in-actuator/)
+- [Spring Security Oauth2 Client for Apple](https://junhyunny.github.io/spring-boot/spring-security/spring-security-oauth2-client-for-apple/)
 
 ### 연로그
 
@@ -177,6 +178,8 @@ head:
 - [[내일배움캠프 22일차 TIL] Entity 상태 및 MySQL CLC 명령어와 개인과제 시작](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-22%EC%9D%BC%EC%B0%A8-TIL-Entity-%EC%83%81%ED%83%9C-%EB%B0%8F-MySQL-CLC-%EB%AA%85%EB%A0%B9%EC%96%B4%EC%99%80-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%8B%9C%EC%9E%91)
 - [[내일배움캠프 25일차 TIL] 쿠키-세션 방식과 JWT 기반 인증](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-24%EC%9D%BC%EC%B0%A8-TIL-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EB%B0%A9%EC%8B%9D%EA%B3%BC-JWT-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D)
 - [[내일배움캠프 5주차 WIL] Spring과 개인과제 그리고 독서토론](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%A3%BC%EC%B0%A8-WIL-Spring%EA%B3%BC-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
+- [[내일배움캠프 27일차 TIL] Spring 실습과 다양한 개념](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-27%EC%9D%BC%EC%B0%A8-TIL-Spring-%EC%8B%A4%EC%8A%B5%EA%B3%BC-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B0%9C%EB%85%90)
+- [[내일배움캠프 26일차 TIL] 모의면접과 Entity 연관 관계](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-26%EC%9D%BC%EC%B0%A8-TIL-%EB%AA%A8%EC%9D%98%EB%A9%B4%EC%A0%91%EA%B3%BC-Entity-%EC%97%B0%EA%B4%80-%EA%B4%80%EA%B3%84)
 
 ### Hide
 
@@ -207,6 +210,14 @@ head:
 - [Spring DTO + 파일 전송](https://bbogle2.tistory.com/entry/Spring-DTO-%ED%8C%8C%EC%9D%BC-%EC%A0%84%EC%86%A1)
 - [Spring Security 중복 로그인 방지](https://bbogle2.tistory.com/entry/Spring-Security-%EC%A4%91%EB%B3%B5-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%A9%EC%A7%80)
 - [Mybatis resultMap으로 쿼리 결과 하나의 DTO에 매핑하기 & Enum 매핑](https://bbogle2.tistory.com/entry/Mybatis-resultMap%EC%9C%BC%EB%A1%9C-%EC%BF%BC%EB%A6%AC-%EA%B2%B0%EA%B3%BC-%ED%95%98%EB%82%98%EC%9D%98-DTO%EC%97%90-%EB%A7%A4%ED%95%91%ED%95%98%EA%B8%B0-Enum-%EB%A7%A4%ED%95%91)
+
+### SivaLabs
+
+- [Tomato Architecture - A Pragmatic Approach to Software Design](https://www.sivalabs.in/tomato-architecture-pragmatic-approach-to-software-design/)
+
+### 경험한 모든 지식을 담아보는 블로그
+
+- [Embedded MySQL를 이용해 테스트 환경 구축해보기](https://joojimin.tistory.com/m/66)
 
 ---
 

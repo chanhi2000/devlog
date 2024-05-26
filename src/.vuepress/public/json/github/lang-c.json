@@ -979,5 +979,20 @@
     "desc": "A memory profiler for Linux.",
     "officialSite": "",
     "topics": ["memory-profiler", "memory-profiling", "profiler", "profiling"]
-  } 
+  }, {
+    "repo": "PascalBeyer/Headerless-C-Compiler",
+    "desc": "A C compiler that tries to eliminate the need for header files as much as possible. ",
+    "officialSite": "",
+    "topics": ["c", "c-compiler", "compiler", "x86-64"]
+  }, {
+    "repo": "hmgle/graftcp",
+    "desc": "A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "CDSoft/luax",
+    "desc": "luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a \"compiler\" that produces standalone executables from Lua scripts.",
+    "officialSite": "https://cdelord.fr/luax",
+    "topics": ["c", "interpreter", "lua"]
+  }
 ]

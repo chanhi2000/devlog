@@ -51,6 +51,7 @@
   { "logo": "elixir", "name": "Elixir", "colorHex": "4B275F" },
   { "logo": "facebook", "name": "Facebook", "colorHex": "#0866FF" },
   { "logo": "firebase", "name": "Firebase", "colorHex": "FFCA28" },
+  { "logo": "flask", "name": "Flask", "colorHex": "000000" },
   { "logo": "flutter", "name": "Flutter", "colorHex": "02569B" },
   { "logo": "gatling", "name": "Gatling", "colorHex": "FF9E2A" },
   { "logo": "git", "name": "Git", "colorHex": "F05032" },

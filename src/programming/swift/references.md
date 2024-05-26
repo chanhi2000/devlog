@@ -640,4 +640,28 @@ tag:
 
 ---
 
+## Wade Tregaskis
+
+- [Swift sucks at web serving… or does it?](https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it)
+
+---
+
+## iOS, Mobile & Engineering | VaraniOS
+
+- [`@_spi` or How to develop better APIs in Swift](https://varanios.com/articles/spi-or-how-to-develop-better-apis-in-swift/)
+
+---
+
+## Jared Sinclair
+
+- [How Do You Know Whether or Not SwiftUI Previews and Preview Content Are Excluded From App Store Builds?](https://jaredsinclair.com/2024/05/20/preview-content.html) 
+
+---
+
+## Create with Swift - Anything is possible.
+
+- [Understanding typography in visionOS](https://www.createwithswift.com/understanding-typography-in-visionos)
+
+---
+
 <TagLinks />

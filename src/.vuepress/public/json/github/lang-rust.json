@@ -1439,6 +1439,35 @@
     "desc": "A code search / replace tool",
     "officialSite": "",
     "topics": ["command-line-tool", "grep", "replace-text", "rust", "search"]
+  }, {
+    "repo": "Ph0enixKM/Amber",
+    "desc": "💎 Amber the programming language compiled to bash",
+    "officialSite": "https://amber-lang.com",
+    "topics": ["bash", "bash-scripting", "compilers"]
+  }, {
+    "repo": "dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "officialSite": "",
+    "topics": ["bitwarden", "bitwarden-rs", "docker", "hacktoberfest", "rocket", "rust", "vaultwarden"]
+  }, {
+    "repo": "fossable/goldboot",
+    "desc": "Immutable infrastructure for the desktop!",
+    "officialSite": "",
+    "topics": ["ansible", "chef", "devops-tools", "dualboot", "golden-image", "infrastructure", "linux", "macos", "puppet", "steamdeck", "windows"]
+  }, {
+    "repo": "awslabs/mountpoint-s3",
+    "desc": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",
+    "officialSite": "",
+    "topics": ["aws", "filesystem", "fuse", "s3"]
+  }, {
+    "repo": "CADmium-Co/CADmium",
+    "desc": "A CAD program that runs in the browser",
+    "officialSite": "https://cadmium-co.github.io/CADmium/",
+    "topics": ["cad", "mechanical-design", "mechanical-engineering"]
+  }, {
+    "repo": "leoppark94/RUST-Korean",
+    "desc": "Simple and Fast Rust Libray.",
+    "officialSite": "",
+    "topics": []
   }
-  
 ]

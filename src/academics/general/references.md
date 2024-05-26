@@ -456,12 +456,19 @@ head:
 
 - [[백준 17404번] RGB거리 2](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17404%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC-2)
 - [[백준 10021번] Watering the Fields](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-10021%EB%B2%88-watering-the-fields)
+- [[백준 17086번] 아기 상어 2](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17086%EB%B2%88-%EC%95%84%EA%B8%B0-%EC%83%81%EC%96%B4-2)
 
 ---
 
 ## sligocki
 
 - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
+
+---
+
+## 드프 DrawingProcess
+
+- [[Paper] Academic 논문 쓰기 가이드라인](https://csj000714.tistory.com/1113)
 
 ---
 

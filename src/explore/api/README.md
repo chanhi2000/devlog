@@ -83,6 +83,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
+  "title": "IT Tools - Handy online tools for developers",
+  "desc": "Collection of handy online tools for developers, with great UX. IT Tools is a free and open-source collection of handy online tools for developers & people working in IT.",
+  "link": "https://it-tools.tech/",
+  "logo": "https://it-tools.tech/favicon-32x32.png",
+  "background": "rgba(64,113,109,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "web code tools",
   "desc": "The best code generators for developers",
   "link": "https://webcode.tools/",
@@ -757,6 +767,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "desc": "…",
   "link": "https://anchor-tool.com/",
   "background": "rgba(26,108,0,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Video to animated GIF converter",
+  "desc": "Upload your video, select the part you want to convert and instanlty create a GIF in good quality for free and without watermarks.",
+  "link": "https://ezgif.com/video-to-gif",
+  "logo": "https://ezgif.com/favicon.ico",
+  "background": "rgba(41,41,41,0.2)"
 }
 ```
 

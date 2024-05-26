@@ -9,7 +9,6 @@ category:
 tag: 
   - nexus
   - sonatype-nexus
-  - kotlin
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -27,6 +27,12 @@ head:
 
 ---
 
+## YOZM
+
+- [사용자를 '중독'시키는 UX 전략](https://yozm.wishket.com/magazine/detail/2300/)
+
+---
+
 ## tech.inflab.com
 
 - [플랫폼 팀 없는 오픈 소스 기반의 디자인 시스템 구축 회고](https://tech.inflab.com/20240224-design-system/) <!-- TODO: 작성 (/explore/articles/tech.inflab.com/20240224-design-system.md) -->
@@ -36,6 +42,13 @@ head:
 ## 우아한 기술블로그
 
 - [회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835) <!-- TODO: 작성 (/explore/archives/techblog.woowahan.com/7835.md) -->
+- [운송 관리 시스템(TMS)의 탄생부터 현장에서 사용하기까지](https://techblog.woowahan.com/17466/) <!-- TODO: 작성 (/explore/archives/techblog.woowahan.com/17466.md) -->
+
+---
+
+## InfoQ
+
+- [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
 
 ---
 
@@ -45,8 +58,17 @@ head:
 - [`coupang-engineering` / 캐시를 활용한 대용량 트래픽 처리 성능 향상](https://medium.com/coupang-engineering/%EC%BA%90%EC%8B%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-a274f4731d07#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 - [`coupang-engineering` / 대용량 트래픽 처리를 위한 쿠팡의 백엔드 전략](https://medium.com/coupang-engineering/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%A0%84%EB%9E%B5-184f7fdb1367#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 - [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258#gaerae.com)
+- [`@mananshah3654` / A Brief History of Airbnb’s Architecture](https://medium.com/@mananshah3654/a-brief-history-of-airbnbs-architecture-bce6d0405f9c)
+- [`daangn` / 커뮤니티실 API Design-First 접근방식 정착기](https://medium.com/daangn/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%8B%A4-api-design-first-%EC%A0%91%EA%B7%BC%EB%B0%A9%EC%8B%9D-%EC%A0%95%EC%B0%A9%EA%B8%B0-cecca0a37c05)
+- [`chubernetes` / Evolution of Monolithic Systems](https://chubernetes.com/evolution-of-monolithic-systems-c20156f06907)
+
 
 ---
+
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@broccolism` / 안전장치를 위한 안전장치를 위한 안전장치 - 6장. 광고 클릭 이벤트 집계](https://velog.io/@broccolism/%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98-6%EC%9E%A5.-%EA%B4%91%EA%B3%A0-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A7%91%EA%B3%84)
+
 
 ## 힘차게, 열심히 공대생
 
@@ -100,6 +122,24 @@ head:
 ## Brad Frost
 
 - [a global design system](https://bradfrost.com/blog/post/a-global-design-system/)
+
+---
+
+## Redpanda | The streaming data platform for developers
+
+- [Understanding the Redpanda Data Transform architecture](https://redpanda.com/blog/wasm-architecture)
+
+---
+
+## eraser.io
+
+- [Code sharing](https://www.eraser.io/decision-node/code-sharing)
+
+---
+
+## Ceejbot's notes
+
+- [Understanding Software](https://blog.ceejbot.com/posts/understanding-software/)
 
 ---
 

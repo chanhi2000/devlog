@@ -234,5 +234,10 @@
     "desc": ":books: 极客时间电子书",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "shieldfy/API-Security-Checklist",
+    "desc": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+    "officialSite": "",
+    "topics": ["api", "jwt", "oauth2", "security"]
   }
 ]

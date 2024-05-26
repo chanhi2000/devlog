@@ -60,6 +60,7 @@ head:
 - [`@maciej.pocwierz` / How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
 - [`zendesk` / Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
 - [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258#gaerae.com)
+- [`mathpresso` / Aurora/RDS 전문가의 GCP Cloud SQL 이전기](https://blog.mathpresso.com/aurora-mysql-rds-for-mysql-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-gcp-cloud-sql-for-mysql%EC%9D%B4%EC%A0%84%EA%B8%B0-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-cloud-db-%EC%9D%B4%EC%A0%84%EA%B8%B0-27db5b17450d)
 
 ---
 
@@ -221,12 +222,19 @@ head:
 ## KATE.log
 
 - [[Threepark] 백엔드 서버와 핵심 기능 구현](https://he-kate1130.tistory.com/96)
+- [[Threepark] 3. 모델 서빙 - (1)  Flask 작성](https://he-kate1130.tistory.com/98)
 
 ---
 
 ## depot
 
 - [Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
+
+---
+
+## Cloud Native & Kubernetes Experts | Small Teams | Big Impact
+
+- [Service Meshes Decoded: a performance comparison of Istio vs Linkerd vs Cilium](https://livewyer.io/blog/2024/05/08/comparison-of-service-meshes/)
 
 ---
 

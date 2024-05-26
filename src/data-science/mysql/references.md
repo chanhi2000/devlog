@@ -144,6 +144,8 @@ head:
 - [4.08. PHP에서 MySQL 값 가져오기](https://ysedeveloper.tistory.com/entry/408-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 - [4.09. PHP에서 MySQL 값 입력하기](https://ysedeveloper.tistory.com/entry/409-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
 - [4.10. PHP에서 MySQL 값 수정 / 삭제하기](https://ysedeveloper.tistory.com/entry/410-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+- [8.02. 데이터베이스 유저 생성하기](https://ysedeveloper.tistory.com/entry/802-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+- [8.03. 데이터베이스 유저에 권한 추가하기](https://ysedeveloper.tistory.com/entry/803-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80%EC%97%90-%EA%B6%8C%ED%95%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 ---
 

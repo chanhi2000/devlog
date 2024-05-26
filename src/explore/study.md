@@ -326,6 +326,71 @@ https://www.joinc.co.kr/w/Site
 }
 ```
 
+```component VPCard
+{
+  "title": "Deno: the easiest, most secure JavaScript runtime | Deno Docs",
+  "desc": "Reference documentation for the Deno runtime and Deno Deploy",
+  "link": "https://docs.deno.com/examples",
+  "logo": "https://docs.deno.com/img/favicon.ico",
+  "background": "rgba(151,252,182,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "A beginners' guide away from scanf()",
+  "desc": "This document is for you if you started to learn programmming in C. Chances are you follow a course and the method to read some input you were taught is to use the scanf() function.",
+  "link": "https://www.sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html",
+  "background": "rgba(255,255,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ptrtut13/md at master · jflaherty/ptrtut13",
+  "desc": "A TUTORIAL ON POINTERS AND ARRAYS IN C",
+  "link": "https://github.com/jflaherty/ptrtut13/tree/master/md",
+  "logo": "https://avatars.githubusercontent.com/u/355816?v=4",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Architecture 2001: x86-64 OS Internals | OpenSecurityTraining2",
+  "desc": "This class teaches Intel x86 OS internals. It requires you know C programming, and x86-64 assembly (from Arch1001).",
+  "link": "https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/course/",
+  "logo": "https://p.ost2.fyi/static/indigo/images/favicon.e5a6e8c56bd8.ico",
+  "background": "rgba(181,84,74,0.2)"
+}
+```
+
+<SiteInfo
+  name="Zalando RESTful API and Event Guidelinesle"
+  desc="GitHub Repository as part of Zalando SE Opensourcec"
+  url="https://opensource.zalando.com/restful-api-guidelines/"
+  logo="https://avatars.githubusercontent.com/u/1564818?s=200&v=4"
+  preview="https://opensource.zalando.com/restful-api-guidelines/assets/api-zalando-small.jpg"/>
+
+```component VPCard
+{
+  "title": "Binary Exploit Development Course - Guided Hacking",
+  "desc": "Our Binary Exploit Development Course created by OSED certified vulnerability research engineer, will teach you all the basics & advanced techniques used in exploit development. Learn all about exploiting buffer overflows, executing shellcode, bypassing ASLR & DEP, return oriented programming & more",
+  "link": "https://guidedhacking.com/forums/binary-exploit-development-course.551/",
+  "logo": "https://guidedhacking.com/data/assets/logo/newicon192.png",
+  "background": "rgba(149,191,92,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": " 엑셀 교육 과정 목록 &  포스팅 기준 [2024.05.24]",
+  "desc": "키샤의 IT 핵심요약",
+  "link": "https://blog.naver.com/kishawing/223440076129",
+  "logo": "https://blog.naver.com/favicon.ico",
+  "background": "rgba(237,126,2,0.2)"
+}
+```
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet
@@ -376,6 +441,16 @@ https://www.joinc.co.kr/w/Site
   "desc": "Your ultimate CSS grid visual guide",
   "link": "https://alialaa.github.io/css-grid-cheat-sheet/",
   "background": "rgba(60,73,165,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "villainscode/tech-interview-for-junior",
+  "desc": "The technical interview knowledge that a junior backend developer should possess.",
+  "link": "https://github.com/villainscode/tech-interview-for-junior",
+  "logo": "https://avatars.githubusercontent.com/u/122669517?v=4",
+  "background": "rgba(10,10,10,0.2)"
 }
 ```
 
