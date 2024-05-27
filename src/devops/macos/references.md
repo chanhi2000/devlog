@@ -9,6 +9,14 @@ category:
 tag: 
   - macos
   - settings
+head:
+  - - meta:
+    - property: og:title
+      content: macOS > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/macos/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

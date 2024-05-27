@@ -14,5 +14,10 @@
     "desc": "🍵 Drop-in semantic styling library in pure CSS. ",
     "officialSite": "https://matcha.mizu.sh",
     "topics": ["classless", "classless-css", "css", "css-framework", "design", "minimalist", "semantic-web", "simple", "theme", "web"]
+  }, {
+    "repo": "zakirkun/arsip-gorengan-is",
+    "desc": "Arsip gorengan full konteks",
+    "officialSite": "https://zakirkun.github.io/arsip-gorengan-is/",
+    "topics": []
   }
 ]

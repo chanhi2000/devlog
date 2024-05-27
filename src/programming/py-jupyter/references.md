@@ -28,6 +28,12 @@ head:
 
 ---
 
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기](https://meetup.nhncloud.com/posts/283) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/283.md) -->
+
+---
+
 ## 멈춤보단 천천히라도
 
 - [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/2109)

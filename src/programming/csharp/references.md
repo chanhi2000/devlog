@@ -23,6 +23,7 @@ tag:
 
 ### .NET Blog
 
+- [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai)
 - [Refactor your code with C# collection expressions](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/)
 
 ---
@@ -65,6 +66,11 @@ tag:
 - [`rasulhsn` / A Different Perspective of Stack Memory in .NET](https://dev.to/rasulhsn/a-different-perspective-of-stack-memory-in-net-33oc)
 - [`antonmartyniuk` / Mastering Exception Handling in C#: A Comprehensive Guide](https://dev.to/antonmartyniuk/mastering-exception-handling-in-c-a-comprehensive-guide-3e50)
 
+---
+
+## <FontIcon icon="fa-brands fa-redhat"/>Red Hat Developers
+
+- [Some more C# 12](https://developers.redhat.com/articles/2024/04/30/some-more-c-12)
 
 ---
 

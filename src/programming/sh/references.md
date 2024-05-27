@@ -115,7 +115,15 @@ tag:
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [A Guide To Command-Line Data Manipulation](https://www.smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/guide-command-line-data-manipulation-cli-miller.md)-->
+```component VPCard
+{
+  "title": "A Guide To Command-Line Data Manipulation — Smashing Magazine",
+  "desc": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
+  "link": "/explore/articles/smashingmagazine.com/guide-command-line-data-manipulation-cli-miller.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
 
 ---
 

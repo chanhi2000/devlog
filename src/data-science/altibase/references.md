@@ -11,6 +11,14 @@ tag:
   - db
   - sql
   - altibase
+head:
+  - - meta:
+    - property: og:title
+      content: Altibase > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/altibase/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

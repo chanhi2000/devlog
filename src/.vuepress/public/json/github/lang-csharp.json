@@ -374,5 +374,10 @@
     "desc": "This Windows Forms application in C# allows users to download YouTube videos as MP3 files.",
     "officialSite": "",
     "topics": ["mediatoolkit", "mp3-downloader", "youtube", "youtube-downloader", "youtube-mp3", "youtube-mp3-downloader", "youtubeexplode"]
+  }, {
+    "repo": "patcher454/DeepLTranslatorPowerToys",
+    "desc": "PowerToys Translation Plugin with DeepLTranslator",
+    "officialSite": "",
+    "topics": ["deepl", "powertoys", "powertoys-run-plugin", "translation", "translator", "translators"]
   }
 ]

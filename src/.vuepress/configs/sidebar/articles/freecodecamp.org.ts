@@ -22,6 +22,8 @@ export const template: SidebarInfoTemplate = {
       "javascript-remove-char-from-string", // 2024.05.09
       "how-to-create-objects-in-javascript",  // 2024.05.10
       "javascript-class-handbook", // 2024.05.20
+      "js-interview-prep-handbook", // 2024.05.22
+      "how-to-manipulate-strings-in-javascript", // 2024.05.24
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024.03.28
@@ -40,6 +42,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-handle-events-in-react-19", // 2024.05.13
       "how-to-store-data-locally-in-react-native-expo",  // 2024.05.13
       "zustand-vs-usestate-how-to-manage-state-in-react", // 2024.05.15
+      "how-to-style-react-components", // 2024.05.22
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024.04.25
@@ -63,6 +66,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
+      "how-to-secure-your-django-app", // 2024.05.22
     ]],[
     "dart", [
       "how-to-develop-a-flutter-app-from-scratch", // 2024.04.26
@@ -76,6 +80,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "csharp", [
       "how-to-use-oop-in-c-sharp", // 2024.05.01
+      "build-crud-operations-with-dotnet-core-handbook", // 2024.05.24
     ]],[
     "cpp", [
       "run-sql-like-queries-on-cplusplus-files", // 2024.05.0
@@ -114,6 +119,9 @@ export const template: SidebarInfoTemplate = {
     "postgres", [
       "postgresql-indexing-strategies", // 2023.05.12
       "how-to-run-postgres-in-kubernetes",  // 2024.05.08
+    ]],[
+    "system-design", [
+      "minimum-viable-product-between-an-idea-and-the-product", // 2024.05.24
     ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -165,6 +173,12 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-a-rest-api-without-a-server", // 2024.05.20
       "how-to-become-an-open-source-maintainer", // 2024.05.20
       "javascript-class-handbook", // 2024.05.20
+      "how-to-style-react-components", // 2024.05.22
+      "js-interview-prep-handbook", // 2024.05.22
+      "how-to-secure-your-django-app", // 2024.05.22
+      "minimum-viable-product-between-an-idea-and-the-product", // 2024.05.24
+      "build-crud-operations-with-dotnet-core-handbook", // 2024.05.24
+      "how-to-manipulate-strings-in-javascript", // 2024.05.24
     ]],
   ]),
 }

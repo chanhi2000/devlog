@@ -10,6 +10,14 @@ tag:
   - sh
   - bash
   - zsh
+head:
+  - - meta:
+    - property: og:title
+      content: macOS > Tips
+    - property: og:description
+      content: Tips
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/macos/tips.html
 ---
 
 # {{ $frontmatter.title }} 관련

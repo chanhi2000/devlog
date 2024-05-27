@@ -11,8 +11,9 @@ tag:
   - freecodecamp.org
   - yozm.wishket.com
   - meetup.nhncloud.com
-  - python
+  - engineering.ab180.co
   - py
+  - python
   - pip
 head:
   - - meta:
@@ -53,6 +54,16 @@ head:
   "link": "https://meetup.nhncloud.com/",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "AB180 엔지니어링 베이스 | 기술블로그",
+  "desc": "에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다",
+  "link": "https://engineering.ab180.co/",
+  "logo": "https://oopy.lazyrockets.com/api/rest/cdn/image/7bbc75b5-1cdf-4b59-aec4-af3e335b3aad.png?d=16",
+  "background": "rgba(11,110,153,0.2)"
 }
 ```
 
@@ -193,6 +204,22 @@ head:
   "link": "/explore/articles/meetup.nhncloud.com/378.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
+}
+```
+
+---
+
+## AB180 엔지니어링 베이스 | 기술블로그
+
+> engineering.ab180.co
+
+```component VPCard
+{
+  "title": "모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기",
+  "desc": "늘어난 Report 요청으로 인해 증가했던 비용을 줄이기 위해 개선했던 내용을 공유합니다.",
+  "link": "/explore/articles/engineering.ab180.co/monitoring-like-martin-fowler-domain-oriented-observability.md",
+  "logo": "https://oopy.lazyrockets.com/api/rest/cdn/image/7bbc75b5-1cdf-4b59-aec4-af3e335b3aad.png?d=16",
+  "background": "rgba(11,110,153,0.2)"
 }
 ```
 

@@ -11,7 +11,15 @@ tag:
   - yt
   - hardware
   - npu
-  - computre  
+  - computer
+head:
+  - - meta:
+    - property: og:title
+      content: Hardware > YouTube
+    - property: og:description
+      content: YouTube
+    - property: og:url
+      content: https://chanhi2000.github.io/hw/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

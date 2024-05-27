@@ -33,6 +33,14 @@ tag:
   - "@ThisDoesNotCompute"
   - "@TechNolli"
   - "@ActionRetro"
+head:
+  - - meta:
+    - property: og:title
+      content: macOS > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/macos/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

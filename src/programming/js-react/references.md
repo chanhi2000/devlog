@@ -112,19 +112,22 @@ head:
 ## Smashing Magazine — For Web Designers And Developers
 
 - [about React](https://smashingmagazine.com/category/react)
-- [The Forensics Of React Server Components (RSCs)](https://smashingmagazine.com/2024/05/forensics-react-server-components/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/forensics-react-server-components.md) -->
+
+```component VPCard
+{
+  "title": "The Forensics Of React Server Components (RSCs)",
+  "desc": "React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.",
+  "link": "/explore/articles/smashingmagazine.com/forensics-react-server-components.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
 
 ---
 
 ## LogRocket
 
 - [main](https://blog.logrocket.com)
-
----
-
-## Storybook
-
-- [Storybook 8](https://storybook.js.org/blog/storybook-8/)
 
 ---
 
@@ -315,6 +318,9 @@ head:
 - [`javascript.plainenglish` / 4 React Tips to Instantly Improve Your Code](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)
 - [`junghan92` / 리액트 네이티브 0.74 — Yoga 3.0, 브릿지 없는 새로운 아키텍처 등](https://junghan92.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-0-74-yoga-3-0-%EB%B8%8C%EB%A6%BF%EC%A7%80-%EC%97%86%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%93%B1-5d4a29ef4542)
 - [`daangn` / 당근페이 FE, 4개의 프로젝트를 하나로 합치며 나눈 대화들](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-fe-4%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EB%82%98%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B0-%EB%82%98%EB%88%88-%EB%8C%80%ED%99%94%EB%93%A4-b96f837230da)
+- [`suhailzone` / ReactJs Roadmap🗺 for beginners](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)
+- [`wantedjobs` / 프론트엔드 테스트의 모든 것](https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d)
+- [`bitsrc` / A Modern Approach to React Development](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)
 
 ---
 
@@ -341,6 +347,12 @@ head:
 
 - [Containing multi-site management within a single codebase](https://vercel.com/blog/wunderman-thompson-composable-workflow)
 - [Building an interactive 3D event badge with React Three Fiber](https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber)
+
+---
+
+## Sitepoint
+
+- [Creating a Navbar in React](https://sitepoint.com/creating-a-navbar-in-react) <!-- TODO: 작성 (/explore/articles/sitepoint.com/creating-a-navbar-in-react.md) -->
 
 ---
 
@@ -734,6 +746,36 @@ https://o-yeon.tistory.com/227
 ## 재그지그의 개발 블로그
 
 - [Rollup 기반 라이브러리 개발 환경 구성하기](https://wormwlrm.github.io/2021/11/07/Rollup-React-TypeScript.html)
+
+---
+
+## Jbee.io
+
+- [클라이언트의 사용자 중심 예외 처리](https://www.jbee.io/articles/react/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%9D%98%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A4%91%EC%8B%AC%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC)
+
+---
+
+## TkDodo's blog
+
+- [Zustand and React Context](https://tkdodo.eu/blog/zustand-and-react-context)
+
+---
+
+## Alex Kondov - Software Engineer
+
+- [How to Style a React Application](https://alexkondov.com/full-stack-tao-styling)
+
+---
+
+## Things & Thoughts - Blog: Writing About Software Engineering, Content Creation, and More | cmrg
+
+- [React 19 - Part 1: The Backstory; My journey writing a framework from scratch!](https://www.cmrg.me/blog/rsc-part-1-the-backstory)
+
+---
+
+## Kinsta® - Fast, secure, feature-rich WordPress hosting
+
+- [How to build a real-time object detection app using React and Kinsta](https://kinsta.com/blog/react-object-detection-app/)
 
 ---
 

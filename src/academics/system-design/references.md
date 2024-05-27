@@ -48,8 +48,15 @@ head:
 
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
+### tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
+
+- [이모티콘 서비스는 왜 MSA를 선택했나?](https://tech.kakao.com/posts/457)
+
+<!-- TODO: 작성 (/explore/articles/tech.kakao.com/457.md) -->
+
 ### 카카오엔터프라이즈 기술블로그 Tech&(테크앤)
 
+- [\[TW\] Release Note 톺아보기](https://tech.kakaoenterprise.com/113) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/113.md) -->
 - [\[TW\] Troubleshooting 가이드 톺아보기](https://tech.kakaoenterprise.com/129) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/129.md) -->
 
 ---
@@ -57,6 +64,20 @@ head:
 ## InfoQ
 
 - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
+
+---
+
+## AB180 엔지니어링 베이스
+
+```component VPCard
+{
+  "title": "동일한 비용으로 리포트 요청 10배 처리하기",
+  "desc": "늘어난 Report 요청으로 인해 증가했던 비용을 줄이기 위해 개선했던 내용을 공유합니다.",
+  "link": "/explore/articles/engineering.ab180.co/improve-performance-airbridge-report-worker.md",
+  "logo": "https://oopy.lazyrockets.com/api/rest/cdn/image/7bbc75b5-1cdf-4b59-aec4-af3e335b3aad.png?d=16",
+  "background": "rgba(11,110,153,0.2)"
+}
+```
 
 ---
 
@@ -70,6 +91,9 @@ head:
 - [`chubernetes` / Evolution of Monolithic Systems](https://chubernetes.com/evolution-of-monolithic-systems-c20156f06907)
 - [`interviewnoodle` / Instagram System Architecture](https://interviewnoodle.com/instagram-system-architecture-fdbec22e48ee#gaerae.com)
 - [`netflixtechblog` / Rapid Event Notification System at Netflix](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1#gaerae.com)
+- [`29cm` / 유저 주문 취소 기능 Java 전환기](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874#gaerae.com)
+- [`dtevangelist` / Event Driven Architecture란?](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
+ -[`design-microservices-architecture-with-patterns` / Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 
 ---
 
@@ -77,6 +101,14 @@ head:
 
 - [`@broccolism` / 안전장치를 위한 안전장치를 위한 안전장치 - 6장. 광고 클릭 이벤트 집계](https://velog.io/@broccolism/%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98-6%EC%9E%A5.-%EA%B4%91%EA%B3%A0-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A7%91%EA%B3%84)
 
+---
+
+## Substack
+
+- [`codecompass00` / "Attention, Please!": A Visual Guide To The Attention Mechanism \[Transformers Series\]](https://codecompass00.substack.com/p/visual-guide-attention-mechanism-transformers)
+- [`engineerscodex` / 4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned)
+
+---
 
 ## 힘차게, 열심히 공대생
 
@@ -154,5 +186,33 @@ head:
 ## Architecture 101 | http://www.architecture101.blog
 
 - [Uber 아키텍처와 시스템 디자인](https://architecture101.blog/2021/12/01/uber-architecture-design)
+
+---
+
+## 기계인간 John Grib
+
+- [CAP 정리](https://johngrib.github.io/wiki/jargon/cap-theorem/)
+
+---
+
+## Site Title
+
+- [개발 방법론에 대한 나만의 원칙 세우기](https://veluxer62.github.io/explanation/make-my-own-principles/)
+
+---
+
+## Ryo Nakao
+
+- [Write a time-series database engine from scratch](https://nakabonne.dev/posts/write-tsdb-from-scratch)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- [마이크로서비스에서 데이터를 중앙화하면 안 되는 3가지 이유](https://www.itworld.co.kr/news/198864)
+
+---
+
+
 
 <TagLinks />

@@ -38,7 +38,9 @@ tag:
 }
 ```
 
-## tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+### tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
 
 - [Golang GC 튜닝 가이드](https://tech.kakao.com/posts/618) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/618.md) -->
 
@@ -242,6 +244,12 @@ tag:
 ## Phil Eaton
 
 - [Implementing MVCC and major SQL transaction isolation levels](https://notes.eatonphil.com/2024-05-16-mvcc.html)
+
+---
+
+## gywndi's database
+
+- [Go언어로 나만의 Query Exporter 만들어보기!](https://gywn.net/2021/07/make-own-query-exporter-with-go)
 
 ---
 

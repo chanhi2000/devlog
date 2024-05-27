@@ -28,6 +28,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/sh/articles/README.md',
             articleSidebars.freecodecamp("sh"),
+            articleSidebars.smashingmagazion("sh"),
             articleSidebars.yozm("sh"),
             articleSidebars.devkuma("sh"),
             articleSidebars.nhn("sh"),
@@ -391,7 +392,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/npm/articles/README.md',
+            articleSidebars.freecodecamp("npm"),
             articleSidebars.woowahan("npm"),
+            articleSidebars.toss("npm"),
           ]
         }
       ],
@@ -441,6 +444,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/js-react/articles/README.md',
             articleSidebars.freecodecamp("js-react"),
+            articleSidebars.smashingmagazion("js-react"),
             articleSidebars.yozm("js-react"),
             articleSidebars.woowahan("js-react"),
             articleSidebars.gmarket("js-react"),
@@ -546,6 +550,25 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-storybook/articles/README.md',
+            articleSidebars.toast("js-storybook"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Gatsby',
+      collapsible: true,
+      icon: 'iconfont icon-gatsby',
+      children: [
+        '/programming/js-gatsby/README.md',
+        '/programming/js-gatsby/references.md',
+        '/programming/js-gatsby/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-gatsby/articles/README.md',
+            articleSidebars.smashingmagazion("js-gatsby"),
           ]
         }
       ]
@@ -664,6 +687,7 @@ export const sidebarEn = sidebar({
             articleSidebars.freecodecamp("py"),
             articleSidebars.yozm("py"),
             articleSidebars.nhn("py"),
+            articleSidebars.ab180("py"),
           ]
         }
       ]
@@ -775,8 +799,7 @@ export const sidebarEn = sidebar({
           ]
         },
       ]
-    }, 
-    {
+    }, {
       text: 'Lua',
       collapsible: true,
       icon: 'iconfont icon-lua',
@@ -1007,6 +1030,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Clojure',
+      collapsible: true,
+      icon: 'iconfont icon-clojure',
+      children: [
+        '/programming/clojure/README.md',
+        '/programming/clojure/references.md',
+        '/programming/clojure/github.md',
+        '/programming/clojure/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/clojure/articles/README.md',
+          ]
+        },
+      ]
+    }, {
       text: 'LaTeX',
       collapsible: true,
       icon: 'iconfont icon-tex',
@@ -1025,15 +1066,6 @@ export const sidebarEn = sidebar({
         '/programming/regex/tips.md',
         '/programming/regex/references.md',
       ],
-    }, {
-      text: 'Hardware',
-      collapsible: true,
-      icon: 'fas fa-microchip',
-      children: [
-        '/programming/hardware/README.md',
-        '/programming/hardware/references.md',
-        '/programming/hardware/youtube.md',
-      ]
     }, {
       text: 'Markdown',
       collapsible: true,
@@ -1496,6 +1528,24 @@ export const sidebarEn = sidebar({
         }
       ],
     }, {
+      text: 'iOS',
+      collapsible: true,
+      icon: 'iconfont icon-macos',
+      children: [
+        '/devops/ios/README.md',
+        '/devops/ios/env-setup.md',
+        '/devops/ios/tips.md',
+        '/devops/ios/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/ios/articles/README.md',
+          ]
+        }
+      ],
+    }, {
       text: 'Windows',
       collapsible: true,
       icon: 'fa-brands fa-windows',
@@ -1831,23 +1881,6 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/ansible/articles/README.md',
-          ]
-        }
-      ]
-    }, {
-      text: 'NAS',
-      collapsible: true,
-      icon: 'iconfont icon-nas',
-      children: [
-        '/devops/nas/README.md',
-        '/devops/nas/references.md',
-        '/devops/nas/youtube.md',
-        {
-          text: 'Article(s)',
-          collapsible: true,
-          icon: 'fas fa-square-share-nodes',
-          children: [
-            '/devops/nas/articles/README.md',
           ]
         }
       ]
@@ -2348,19 +2381,76 @@ export const sidebarEn = sidebar({
         '/ai/claude/references.md',
       ]
     }, 
+  ], '/hw/': [
+    {
+      text: 'Hardware',
+      collapsible: true,
+      icon: 'fas fa-microchip',
+      children: [
+        '/hw/README.md',
+        '/hw/references.md',
+        '/hw/youtube.md',
+      ]
+    }, {
+      text: 'Raspberry Pi (H/W)',
+      collapsible: true,
+      icon: 'fa-brands fa-raspberry-pi',
+      children: [
+        '/hw/raspberry-pi/README.md',
+        '/hw/raspberry-pi/references.md',
+        '/hw/raspberry-pi/youtube.md',
+      ]
+    }, {
+      text: 'Flipper Zero',
+      collapsible: true,
+      icon: 'iconfont icon-flipper-zero',
+      children: [
+        '/hw/flipper-zero/README.md',
+        '/hw/flipper-zero/references.md',
+        '/hw/flipper-zero/youtube.md',
+      ]
+    }, {
+      text: 'Arduino',
+      collapsible: true,
+      icon: 'iconfont icon-arduino',
+      children: [
+        '/hw/arduino/README.md',
+        '/hw/arduino/references.md',
+        '/hw/arduino/youtube.md',
+      ]
+    }, {
+      text: 'NAS',
+      collapsible: true,
+      icon: 'iconfont icon-nas',
+      children: [
+        '/hw/nas/README.md',
+        '/hw/nas/references.md',
+        '/hw/nas/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/hw/nas/articles/README.md',
+          ]
+        }
+      ]
+    }, 
   ], '/projects/': [
     {
       text: 'Project',
+      collapsible: true,
       icon: 'fas fa-industry',
       children: [ '/projects/README.md' ],
     }, {
       text: 'My Roadmap',
+      collapsible: true,
       icon: 'fas fa-flag-checkered',
       children: [ '/projects/roadmap/README.md' ],
     }, {
       text: 'Portfolio',
-      icon: 'fa-brands fa-fort-awesome',
       collapsible: true,
+      icon: 'fa-brands fa-fort-awesome',
       children: [ '/projects/portfolio/README.md', ],
     }, {
       text: 'Lifeguide',
@@ -2466,6 +2556,7 @@ export const sidebarEn = sidebar({
         articleSidebars.popit(), 
         articleSidebars.freecodecamp(), 
         articleSidebars.frontendmaster(),
+        articleSidebars.smashingmagazion(),
         articleSidebars.digitalocean(),
         articleSidebars.devkuma(),
         articleSidebars.devtoolstips(),
@@ -2486,11 +2577,14 @@ export const sidebarEn = sidebar({
         articleSidebars.d2(), 
         articleSidebars.nhn(),
         articleSidebars.linecorp(),
+        articleSidebars.toss(),
         articleSidebars.banksalad(),
+        articleSidebars.toast(),
         articleSidebars.oliveyoung(),
         articleSidebars.gmarket(),
         articleSidebars.zuminternet(),
         articleSidebars.imqa(),
+        articleSidebars.ab180(),
       ]
     },
   ],
@@ -2520,7 +2614,10 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/academics/system-design/articles/README.md',
+            articleSidebars.freecodecamp("system-design"),
+            articleSidebars.yozm("system-design"),
             articleSidebars.oliveyoung("system-design"),
+            articleSidebars.ab180("system-design"),
           ]
         }
       ]

@@ -39,7 +39,7 @@ head:
 
 <SiteInfo
   name="How to Use Object-Oriented Programming in C# – Explained With Examples"
-  desc="Welcome to this comprehensive guide on object-oriented programming (OOP) using C#. This article will delve into the four fundamental pillars of OOP:  * Inheritance  * Encapsulation  * Polymorphism  * Abstraction Whether you're a seasoned programmer or a beginner stepping into the world of C#, this article"
+  desc="Welcome to this comprehensive guide on object-oriented programming (OOP) using C#. This article will delve into the four fundamental pillars of OOP:  * Inheritance  * Encapsulation  * Polymorphism  * Abstraction Whether you're a seasoned programmer or a beginner stepping into the world of C#, this article..."
   url="https://www.freecodecamp.org/news/how-to-use-oop-in-c-sharp/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/04/Attractive-1.png"/>

@@ -396,6 +396,10 @@ tag:
 
 - [Everything you need to know about Java 22](https://www.unlogged.io/post/everything-you-need-to-know-about-java-22)
 
+### CoderOasis
+
+- [Java 23: The New Features are Officially Announced](https://coderoasis.com/java-23-new-features)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -455,15 +459,16 @@ tag:
 - [`@khush.panchal123` / Understanding Kotlin’s Any, Unit, Nothing](https://medium.com/@khush.panchal123/understanding-kotlins-any-unit-nothing-7bcaad73fbc1)
 - [Convert HTML to PDF with Kotlin/JVM](https://mariuszsoltysiak.medium.com/convert-html-to-pdf-with-kotlin-jvm-35b9a0aeaa44)
 
-
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@dudgns0507` - [Kotlin] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`@stella6767` / HTMX TIP](https://velog.io/@stella6767/HTMX-TIP)
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [`@daredev` - Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
+- [`mrkandreev` / How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)
+- [`@daredev` / Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
 
 ### Leo3418
 

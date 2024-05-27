@@ -9,7 +9,15 @@ category:
 tag: 
   - hardware
   - npu
-  - computre  
+  - computer  
+head:
+  - - meta:
+    - property: og:title
+      content: Hardware > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/hw/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

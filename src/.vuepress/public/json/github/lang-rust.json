@@ -1474,5 +1474,30 @@
     "desc": "LO - small programming language targeting WASM that aims to be as simple as possible",
     "officialSite": "",
     "topics": ["compiler", "language", "webassembly"]
+  }, {
+    "repo": "wintermute-cell/ngrrram",
+    "desc": "A TUI tool to help you type faster and learn new layouts. Includes a free cat.",
+    "officialSite": "",
+    "topics": ["cat", "cli", "colemak", "dvorak", "layout", "ngram", "rust", "touchtyping", "tui", "typing"]
+  }, {
+    "repo": "quickwit-oss/tantivy",
+    "desc": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+    "officialSite": "",
+    "topics": ["rust", "search-engine"]
+  }, {
+    "repo": "polachok/helix-gpui",
+    "desc": "helix gpui frontend",
+    "officialSite": "",
+    "topics": ["gui", "helix-editor", "rust-lang"]
+  }, {
+    "repo": "orhun/git-cliff",
+    "desc": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ ",
+    "officialSite": "https://git-cliff.org",
+    "topics": ["changelog", "changelog-generator", "commit", "conventional-changelog", "conventional-commit", "conventional-commits", "generator", "git", "git-cliff", "hacktoberfest", "keepachangelog", "rust", "semver"]
+  }, {
+    "repo": "mgdm/htmlq",
+    "desc": "Like jq, but for HTML.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -38,9 +38,15 @@ head:
 
 ### ZUM
 
-- [Redirect 서버 리팩토링 - 파일럿 프로젝트](https://zuminternet.github.io/redirect-refactoring/)
+- [Redirect 서버 리팩토링 - 파일럿 프로젝트](https://zuminternet.github.io/redirect-refactoring/) <!-- TODO: 작성 (/explore/articles/zuminternet.github.io/redirect-refactoring.md) -->
 
-<!-- TODO: 작성 (/explore/articles/zuminternet.github.io/redirect-refactoring.md) -->
+### Blog - LINE ENGINEERING
+
+- [FIDO at LINE: FIDO2 서버를 오픈 소스로 공개했습니다](https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/fido-at-line-fido2-server-opensource.md) -->
+
+### 강남언니 공식 블로그
+
+- [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle) <!-- TODO: 작성 (/explore/articles/blog.gangnamunni.com/dependency-inversion-principle.md) -->
 
 ### DZone
 
@@ -105,7 +111,8 @@ head:
 
 ### 데엔잘하고싶은데엔🔥💎
 
-- [Spring Boot Actuator로 메모리 이슈 모니터링하기](http://checkout.secomps.co.kr/block?Culture=1042)
+- [Spring Boot Actuator로 메모리 이슈 모니터링하기](https://pearlluck.tistory.com/801)
+- [[강의] 유데미 Spring Boot 강의추천 (Spring 개념, Ioc/DI/Beans/Component/Autowired)](https://pearlluck.tistory.com/802)
 
 ### Enthusiastically, Steady, Slowly
 
@@ -130,10 +137,6 @@ head:
 - [SpringBoot VO 와 DTO](https://leeiopd.tistory.com/entry/SpringBoot-VO-%EC%99%80-DTO)
 - [Spring Boot에서 의존성 주입: `@Bean`과 `@Autowired`의 이해](https://leeiopd.tistory.com/entry/Spring-Boot%EC%97%90%EC%84%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-Bean%EA%B3%BC-Autowired%EC%9D%98-%EC%9D%B4%ED%95%B4)
 - [Lombok in Spring Framework](https://leeiopd.tistory.com/entry/Lombok-in-Spring-Framework)
-
-### 데엔잘하고싶은데엔🔥💎
-
-- [[강의] 유데미 Spring Boot 강의추천 (Spring 개념, Ioc/DI/Beans/Component/Autowired)](https://pearlluck.tistory.com/802)
 
 ### JuHyeong.dev
 
@@ -220,6 +223,14 @@ head:
 ### 경험한 모든 지식을 담아보는 블로그
 
 - [Embedded MySQL를 이용해 테스트 환경 구축해보기](https://joojimin.tistory.com/m/66)
+
+### Alden's Dev Log
+
+- [jib를 이용한 자바 앱 컨테이너화](https://alden-kang.tistory.com/1)
+
+### Vlad Mihalcea
+
+- [The best way to use the JPA OneToOne optional attribute](https://vladmihalcea.com/best-way-onetoone-optional/)
 
 ---
 

@@ -46,8 +46,9 @@ tag:
 
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
-### Kakao Tech
+### tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
 
+- [실용주의 데브옵스 for MSA](https://tech.kakao.com/posts/449) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/449.md) -->
 - [쿠버네티스에 레디스 캐시 클러스터 구축기](https://tech.kakao.com/posts/491) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/491.md -->
 
 ### Kakao Pay
@@ -59,6 +60,12 @@ tag:
 ## Inflab Tech
 
 - [개발-운영 생산성 모니터링하기 (with Devlake, Grafana)](https://tech.inflab.com/20240221-dora-metric-with-devlake/)
+
+---
+
+## NAVER D2
+
+- [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
 
 ---
 
@@ -270,6 +277,12 @@ tag:
 ## 커피고래의 노트
 
 - [쿠버네티스 API서버는 정말 그냥 API서버라구욧](https://coffeewhale.com/apiserver)
+
+---
+
+## 로스카츠의 AI 머신러닝
+
+- [\[Infra\] 쿠버네티스(kubernetes)(2) 쿠버네티스 설치(Kubernetes install)](https://losskatsu.github.io/it-infra/kubernetes02/#1-2-%EC%8A%A4%EC%99%91-%EA%B8%B0%EB%8A%A5-%EC%A4%91%EC%A7%80-%EC%8B%9C%ED%82%A4%EA%B8%B0)
 
 ---
 

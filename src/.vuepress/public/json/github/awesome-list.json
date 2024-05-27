@@ -1194,5 +1194,10 @@
     "desc": "A curated list of software and architecture related design patterns.",
     "officialSite": "",
     "topics": ["architecture", "awesome", "awesome-list", "cloud-computing", "design-patterns", "gof-patterns", "lists", "microservices", "resources"]
+  }, {
+    "repo": "avelino/awesome-go",
+    "desc": "A curated list of awesome Go frameworks, libraries and software",
+    "officialSite": "https://awesome-go.com",
+    "topics": ["awesome", "awesome-list", "go", "golang", "golang-library", "hacktoberfest"]
   }
 ]

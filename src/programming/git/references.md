@@ -125,8 +125,8 @@ head:
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Writing Better Commits](https://itnext.io/writing-better-commits-6a1691c12772)
-- [4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
-
+- [`@patrickporto` / 4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
+- [`libreoffice-korean-team` / 10GB가 넘는 리브레오피스 번역 git 저장소 clone이 안되는 오류 해결](https://medium.com/libreoffice-korean-team/10gb%EA%B0%80-%EB%84%98%EB%8A%94-%EB%A6%AC%EB%B8%8C%EB%A0%88%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%B2%88%EC%97%AD-git-%EC%A0%80%EC%9E%A5%EC%86%8C-clone%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-737d98ff151a)
 ---
 
 ## Freek.dev
@@ -319,6 +319,12 @@ head:
 ## mathspp
 
 - [TIL #096 – automatically push code changes during live coding](https://mathspp.com/blog/til/automatically-push-code-changes-during-live-coding)
+
+---
+
+## Kwoncharles Blog
+
+- [git은 폴더경로가 변경된 것을 어떻게 알 수 있을까?](https://kwoncheol.me/posts/git-rename-inference)
 
 ---
 

@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_h03zu82o3wc.woff2?t=1716742200194') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_h03zu82o3wc.woff?t=1716742200194') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_h03zu82o3wc.ttf?t=1716742200194') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_h03zu82o3wc.svg?t=1716742200194#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_7ejgihviuvh.woff2?t=1716869851612') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_7ejgihviuvh.woff?t=1716869851612') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_7ejgihviuvh.ttf?t=1716869851612') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_7ejgihviuvh.svg?t=1716869851612#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-flipper-zero:before { content: "\e934"; }
+.icon-arduino:before { content: "\e933"; }
+.icon-flipper-zero-color:before { content: "\e932"; }
+.icon-clojure:before { content: "\e931"; }
+.icon-ios:before { content: "\e930"; }
+.icon-gatsby:before { content: "\e92f"; }
 .icon-nexus:before { content: "\e92e"; }
 .icon-flask:before { content: "\e92d"; }
 .icon-storybook:before { content: "\e92c"; }

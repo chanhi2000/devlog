@@ -179,6 +179,13 @@ Placeholders with the same ids are connected.
     ],
     "description": "Create SiteInfo Vue Componenet"
   },
+  "MdTdDoArticles": {
+    "prefix": "mtda",
+    "body": [
+      "<!-- TODO: 작성 (/explore/articles/${1:domain}/${2:link}.md) -->${0}"
+    ],
+    "description": "Create TODO Tag for writing articles"
+  },
   "TgKbd": {
      "prefix": "tgkbd",
      "body": [

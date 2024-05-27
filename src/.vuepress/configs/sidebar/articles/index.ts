@@ -4,13 +4,16 @@ import { template as TEMPLATE_DOUGGREGOR } from './douggregor.net';
 import { template as TEMPLATE_D2 } from './d2.naver.com';
 import { template as TEMPLATE_FREECODECAMP } from './freecodecamp.org';
 import { template as TEMPLATE_FRONTENDMASTER } from './frontendmasters.com';
+import { template as TEMPLATE_SMASHINGMAGAZINE } from './smashingmagazine.com';
 import { template as TEMPLATE_DIGITALOCEAN } from './digitalocean.com';
 import { template as TEMPLATE_NHN } from './meetup.nhncloud.com';
 import { template as TEMPLATE_GANGNAMUNNI } from './blog.gangnamunni.com';
 import { template as TEMPLATE_WOOWAHAN } from './techblog.woowahan.com';
 import { template as TEMPLATE_GMARKET } from './dev.gmarket.com'; 
 import { template as TEMPLATE_LINECORP } from './engineering.linecorp.com';
+import { template as TEMPLATE_TOSS } from './toss.tech';
 import { template as TEMPLATE_BANKSALAD } from './blog.banksalad.com';
+import { template as TEMPLATE_TOAST } from './ui.toast.com';
 import { template as TEMPLATE_OLIVEYOUNG } from './oliveyoung.tech';
 import { template as TEMPLATE_KT_ACADEMY } from './kt.academy';
 import { template as TEMPLATE_DROIDCON } from './droidcon.com';
@@ -28,6 +31,7 @@ import { template as TEMPLATE_RUTGO_LETSGO } from './tistory.com/rutgo-letsgo';
 import { template as TEMPLATE_ANTONIOLEIVA } from './antonioleiva.com';
 import { template as TEMPLATE_ZUMINTERNET } from './zuminternet.github.io';
 import { template as TEMPLATE_IMQA } from './blog.imqa.io';
+import { template as TEMPLATE_AB180 } from './engineering.ab180.co';
 
 const EXT_MD = "md";
 const DEFAULT_KEY_ALL = "all";
@@ -63,6 +67,7 @@ export const sidebarByTemplate = (itemTemplate: SidebarInfoTemplate, type: strin
 export const articleSidebars = {
   freecodecamp:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FREECODECAMP, type),
   frontendmaster:     (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FRONTENDMASTER, type),
+  smashingmagazion:   (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SMASHINGMAGAZINE, type),
   digitalocean:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DIGITALOCEAN, type),
   d2:                 (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_D2, type),
   nhn:                (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_NHN, type),
@@ -72,7 +77,9 @@ export const articleSidebars = {
   woowahan:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_WOOWAHAN, type),
   gmarket:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GMARKET, type),
   linecorp:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LINECORP, type),
+  toss:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_TOSS, type),
   banksalad:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_BANKSALAD, type),
+  toast:              (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_TOAST, type),
   oliveyoung:         (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_OLIVEYOUNG, type),
   ktAcademy:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KT_ACADEMY, type),
   droidcon:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DROIDCON, type),
@@ -90,6 +97,7 @@ export const articleSidebars = {
   antonioleiva:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_ANTONIOLEIVA, type),
   zuminternet:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_ZUMINTERNET, type),
   imqa:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_IMQA, type),
+  ab180:              (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_AB180, type),
 }
 
 export const hackingwithswift = (): SidebarGroupItem => ({

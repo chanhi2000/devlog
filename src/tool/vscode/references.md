@@ -20,6 +20,12 @@ tag:
 
 ---
 
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기](https://meetup.nhncloud.com/posts/283) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/283.md) -->
+
+---
+
 ## <FontIcon icon="iconfont icon-github"/>Github
 
 - [<FontIcon icon="iconfont icon-github"/>`hyperupcall/settings.jsonc`: VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.)](https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0)

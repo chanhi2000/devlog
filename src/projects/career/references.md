@@ -33,6 +33,14 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+### tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
+
+- [Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기](https://tech.kakao.com/posts/447) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/447.md) -->
+
+---
+
 ## abseil.io
 
 - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
@@ -141,6 +149,9 @@ tag:
 - [`@seunghoon82` / 창업을 해서 좋은 점](https://brunch.co.kr/@seunghoon82/494)
 - [`@seunghoon82` / 기술 보다는 사람이 먼저다.](https://brunch.co.kr/@seunghoon82/495)
 - [`@seunghoon82` / PE 관점 차용하기](https://brunch.co.kr/@seunghoon82/496)
+- [`@seunghoon82` / 과한 책임감은 때론 나를 파괴하는 독이 될때가 있다.](https://brunch.co.kr/@seunghoon82/497)
+- [`@cleancode` / 중요한 일을 잘하는 방법](https://brunch.co.kr/@cleancode/77)
+- [`@duk-hyun` / 디지털 혁신 전술: 디지털화 대상](https://brunch.co.kr/@duk-hyun/114)
 
 ---
 
@@ -361,6 +372,7 @@ tag:
 - [선과 악](https://www.thestartupbible.com/2024/05/bringing-out-the-best-and-the-worst-of-human-beings.html)
 - [워라밸은 없다](https://www.thestartupbible.com/2024/05/work-and-life-balance-at-a-startup-is-unicorn-myth.html)
 - [관계 건설](https://www.thestartupbible.com/2024/05/the-relationship-building.html)
+- [사람이 하는 일](https://www.thestartupbible.com/2024/05/the-human-intelligence.html)
 
 ---
 
@@ -397,7 +409,15 @@ tag:
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [The End Of My Gatsby Journey](https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/end-of-gatsby-journey.md) -->
+```component VPCard
+{
+  "title": "The End Of My Gatsby Journey — Smashing Magazine",
+  "desc": "“Gatsby headaches” are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
+  "link": "/explore/articles/smashingmagazine.com/end-of-gatsby-journey.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
 
 ---
 
@@ -465,12 +485,6 @@ tag:
 
 - [11키티즈 개발에 사용한 기술과 사용 후기](https://lovemewithoutall.github.io/it/11kitties-tech/)
 - [11키티즈 FE 개발 회고](https://lovemewithoutall.github.io/it/11kitties-retrospect/)
-
----
-
-## AB180 엔지니어링 베이스
-
-- [동일한 비용으로 리포트 요청 10배 처리하기](https://engineering.ab180.co/stories/improve-performance-airbridge-report-worker) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/improve-performance-airbridge-report-worker.md) -->
 
 ---
 
@@ -667,6 +681,7 @@ tag:
 - [16.혹시 '인생 멘토'나 조언을 구할 사람을 만나려면 어떤 방법이 있을까요?](https://duriepark.tistory.com/736)
 - [17.일을 잘하려면 어떻게 해야 되나요?](https://duriepark.tistory.com/737)
 - [[duriepark's thought] day17-0522](https://duriepark.tistory.com/740)
+- [\[도서\] 더 나은 프로그래머 되는 법(becoming a better programmer)](https://duriepark.tistory.com/742)
 
 ---
 
@@ -801,9 +816,7 @@ tag:
 
 ## DevTech - 데브시스터즈 기술블로그
 
-- [“DevOps”의 인적 확장 (The human scalability of “DevOps”)](https://tech.devsisters.com/posts/the-human-scalability-of-devops)
-
-<!-- TODO: 작성 (/explore/articles/tech.devsisters.com/the-human-scalability-of-devops.md) -->
+- [“DevOps”의 인적 확장 (The human scalability of “DevOps”)](https://tech.devsisters.com/posts/the-human-scalability-of-devops) <!-- TODO: 작성 (/explore/articles/tech.devsisters.com/the-human-scalability-of-devops.md) -->
 
 ---
 
@@ -841,6 +854,7 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
+- ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지](https://www.itworld.co.kr/news/204459)
 - [매력적이지만 버려야 할 10가지 나쁜 프로그래밍 습관](https://www.itworld.co.kr/news/337915)
 
 ---
@@ -866,6 +880,12 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 ## 다모앙
 
 - [취업규칙에 남성혐오 여성혐오 추가하기](https://damoang.net/lecture/3863)
+
+---
+
+## Subicura's Blog
+
+- [초보 웹 개발자를 위한 학습 안내서](https://subicura.com/2021/06/27/study-guide.html)
 
 ---
 

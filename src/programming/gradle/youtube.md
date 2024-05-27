@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Youtube
 description: Gradle > Youtube
-icon: iconfont icon-share
+icon: fa-brands fa-youtube
 category:
   - Gradle 
   - Youtube

@@ -795,6 +795,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "제목없음 - 그림판",
+  "desc": "Classic MS Paint in the browser, with extra features",
+  "link": "https://jspaint.app/",
+  "logo": "https://jspaint.app/favicon.ico",
+  "background": "rgba(192,192,192,0.2)"
+}
+```
+
 <!-- @end Design & Image -->
 
 @tab Geospatial
@@ -974,6 +984,26 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 <!-- @end Geospatial -->
 
 @tab Network & Security
+
+```component VPCard
+{
+  "title": " nginx playground ",
+  "desc": "★ nginx playground ★",
+  "link": "https://nginx-playground.wizardzines.com/",
+  "logo": "https://nginx-playground.wizardzines.com/nginx.svg",
+  "background": "rgba(229,231,235,0.2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Kubernetes instance calculator",
+  "desc": "Explore the best instance types for your Kubernetes cluster interactively.",
+  "link": "https://learnk8s.io/kubernetes-instance-calculator",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
 
 ```component VPCard
 {

@@ -248,9 +248,20 @@ tag:
 
 ---
 
-## Misc
+## Alden's Dev Log
+
+- [jib를 이용한 자바 앱 컨테이너화](https://alden-kang.tistory.com/1)
+
+---
+
+## DevOps4Solutions
 
 - [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)
+
+---
+
+## Andreas' Blog
+
 - [Hosting Gitea and Drone with Docker](https://blog.anoff.io/2019-03-24-self-hosted-gitea-drone)
 
 ---

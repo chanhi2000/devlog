@@ -2304,5 +2304,15 @@
     "desc": "Web application generating interactive and highly customizable maps",
     "officialSite": "https://azgaar.github.io/Fantasy-Map-Generator",
     "topics": ["cartography", "dungeons-and-dragons", "fantasy-maps", "generator", "javascript", "map-generation", "mapmaker", "procedural-generation"]
+  }, {
+    "repo": "braid-org/braid-text",
+    "desc": "Text Synchronization libraries over Braid-HTTP",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "webpack/webpack",
+    "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "officialSite": "https://webpack.js.org",
+    "topics": ["amd", "build-tool", "commonjs", "compiler", "es2015", "es6", "esm", "javascript", "javascript-compiler", "javascript-modules", "loaders", "module-bundler", "plugins", "web", "web-performance", "webpack"]
   }
 ]

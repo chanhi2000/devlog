@@ -89,5 +89,10 @@
     "desc": "Experimental support for data classes in Dart using macros.",
     "officialSite": "https://pub.dev/packages/data_class_macro",
     "topics": ["dart", "data-class", "macros", "struct"]
+  }, {
+    "repo": "ente-io/ente",
+    "desc": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+    "officialSite": "https://ente.io",
+    "topics": ["2fa", "android", "authy", "e2ee", "encryption", "end-to-end-encryption", "flutter", "golang", "google-photos", "google-photos-alternative", "ios", "opensource", "photos", "privacy", "privacy-tools", "typescript", "zero-knowledge"]
   }
 ]

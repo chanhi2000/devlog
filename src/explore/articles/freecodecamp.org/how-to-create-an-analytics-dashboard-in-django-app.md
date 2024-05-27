@@ -13,7 +13,7 @@ tag:
   - python
   - py
   - django
-  - node.js
+  - py-django
 head:
   - - meta:
     - property: og:title
@@ -42,7 +42,7 @@ head:
 
 <SiteInfo
   name="How to create an analytics dashboard in a Django app"
-  desc="Hi folks! Python, data visualization, and programming are the topics I'm profoundly devoted to. That's why I'd like to share with you my ideas as well as my enthusiasm for discovering new ways to present data in a meaningful way. The case I'm going to cover is quite common: you"
+  desc="Hi folks! Python, data visualization, and programming are the topics I'm profoundly devoted to. That's why I'd like to share with you my ideas as well as my enthusiasm for discovering new ways to present data in a meaningful way. The case I'm going to cover is quite common: you..."
   url="https://freecodecamp.org/news/how-to-create-an-analytics-dashboard-in-django-app"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn-media-2.freecodecamp.org/w1280/5f9c9c9e740569d1a4ca3336.jpg"/>

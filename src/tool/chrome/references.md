@@ -44,6 +44,20 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### <FontIcon icon="fa-brands fa-chrome"/>Chrome for Developers
+
+- [Inside look at modern web browser (part 1) ](https://developer.chrome.com/blog/inside-browser-part1)
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [Chromium이 발표한 RenderingNG가 무엇인가?](https://meetup.nhncloud.com/posts/293) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/293.md) -->
+
+---
+
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`cglikpo` - Chrome Extensions That Make My Work a Bit Easier](https://dev.to/cglikpo/chrome-extensions-that-make-my-work-a-bit-easier-4jop)

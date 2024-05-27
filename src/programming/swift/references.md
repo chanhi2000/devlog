@@ -122,6 +122,7 @@ tag:
 - [`jamf-engineering` - Swift 6 upgrade Preparation](https://medium.com/jamf-engineering/swift-6-upgrade-preparation-0941fbea2db6)
 - [`@domen.lanisnik` - Swift Cheatsheet for Android/Kotlin Developers](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6)
 - [`@jpmtech` / Dice Challenge in SwiftUI](https://medium.com/@jpmtech/dice-challenge-in-swiftui-a26c82ac1367)
+- [`jamf-engineering` / Swift 6 upgrade Preparation](https://medium.com/jamf-engineering/swift-6-upgrade-preparation-0941fbea2db6)
 
 ---
 
@@ -426,6 +427,7 @@ tag:
 
 - [`@ObservedObject` and `@StateObject` in SwiftUI](https://junhyunny.github.io/ios/swift-ui/state-object-vs-observed-object/)
 - [MVVM Pattern in SwiftUI](https://junhyunny.github.io/ios/swift-ui/design-pattern/mvvm-pattern-in-ios/)
+- [How to test alert in iOS with `ViewInspector`](https://junhyunny.github.io/ios/swift/swift-ui/test-driven-development/how-to-test-alert-in-ios-with-view-inspector/)
 
 ---
 

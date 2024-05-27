@@ -167,6 +167,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-storybook',
         link: '/programming/js-storybook/README.md',
       }, {
+        text: 'Gatsby',
+        icon: 'iconfont icon-gatsby',
+        link: '/programming/js-gatsby/README.md',
+      }, {
         text: 'GraphQL',
         icon: 'iconfont icon-graphql',
         link: '/programming/js-graphql/README.md',
@@ -271,6 +275,10 @@ export const navbarEn = navbar([
         link: '/programming/julia/README.md',
         icon: 'iconfont icon-julia',
       }, {
+        text: 'Clojure',
+        link: '/programming/clojure/README.md',
+        icon: 'iconfont icon-clojure',
+      }, {
         text: 'LaTeX',
         link: '/programming/latex/README.md',
         icon: 'iconfont icon-tex',
@@ -296,6 +304,10 @@ export const navbarEn = navbar([
         text: 'macOS',
         icon: 'iconfont icon-macos',
         link: '/devops/macos/README.md',
+      }, {
+        text: 'iOS',
+        icon: 'iconfont icon-macos',
+        link: '/devops/ios/README.md',
       }, {
         text: 'Windows',
         icon: 'fa-brands fa-windows',
@@ -385,10 +397,6 @@ export const navbarEn = navbar([
         text: 'Ansible',
         icon: 'iconfont icon-ansible',
         link: '/devops/ansible/README.md'
-      }, {
-        text: 'NAS',
-        icon: 'iconfont icon-nas',      
-        link: '/devops/nas/README.md',
       }, {
         text: 'Security',
         icon: 'fas fa-shield-halved',
@@ -664,6 +672,32 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-claude',
         link: '/ai/claude/README.md',
       }, 
+    ]
+  }, { // hardware
+    text: '',
+    icon: 'fas fa-microchip',
+    children: [
+      {
+        text: 'Hardware',
+        icon: 'fas fa-microchip',
+        link: '/hw/README.md',
+      }, {
+        text: 'Raspberry Pi (H/W)',
+        icon: 'fas fa-raspberry-pi',
+        link: '/hw/raspberry-pi/README.md',
+      }, {
+        text: 'Flipper Zero',
+        icon: 'iconfont icon-flipper-zero',
+        link: '/hw/flipper-zero/README.md',
+      }, {
+        text: 'Arduino',
+        icon: 'iconfont icon-arduino',
+        link: '/hw/arduino/README.md',
+      }, {
+        text: 'NAS',
+        icon: 'iconfont icon-nas',      
+        link: '/hw/nas/README.md',
+      }
     ]
   }, {
     text: '', // explore

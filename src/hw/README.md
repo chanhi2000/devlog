@@ -11,7 +11,7 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="stmicroelectronics"/> 
+<ShieldsGroup logos="stmicroelectronics,raspberrypi,arduino"/> 
 
 ---
 

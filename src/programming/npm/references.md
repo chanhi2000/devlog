@@ -45,7 +45,17 @@ head:
 
 ## Toss Tech
 
-- [패키지 매니저의 과거, 토스의 선택, 그리고 미래](https://toss.tech/article/lightning-talks-package-manager) <!-- TODO: 작성 (/explore/articles/toss.tech/lightning-talks-package-manager.md) -->
+- [`node_modules`로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)
+
+```component VPCard
+{
+  "title": "패키지 매니저의 과거, 토스의 선택, 그리고 미래",
+  "desc": "토스는 왜 패키지 매니저로 Yarn을 선택했을까요? 이번 라이트닝 토크에서는 JavaScript의 패키지 매니저, 동작 방식, 그리고 토스의 선택과 앞으로의 방향성에 대해 이야기해 보려고 해요.",
+  "link": "/explore/articles/toss.tech/lightning-talks-package-manager.md",
+  "logo": "https://static.toss.im/tds/favicon/favicon.ico",
+  "background": "rgba(88,176,209,0.2)"
+}
+```
 
 ---
 

@@ -124,6 +124,7 @@ tag:
 - [`aljamal` / Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 - [`bitecode` / Light speed with Python and JS](https://www.bitecode.dev/p/light-speed-with-python-and-js)
 - [`johnloewen` / High Impact Python Streamlit: Beautiful Interactive Maps and Charts](https://johnloewen.substack.com/p/high-impact-python-streamlit-beautiful)
+- [`johnloewen` / Simple Interactive Python Streamlit Maps That Will Make You Shout](https://johnloewen.substack.com/p/simple-interactive-python-streamlit)
 
 ---
 
@@ -430,7 +431,15 @@ tag:
 
 ## AB180 엔지니어링 베이스
 
-- [모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기](https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/monitoring-like-martin-fowler-domain-oriented-observability.md) -->
+```component VPCard
+{
+  "title": "모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기",
+  "desc": "늘어난 Report 요청으로 인해 증가했던 비용을 줄이기 위해 개선했던 내용을 공유합니다.",
+  "link": "/explore/articles/engineering.ab180.co/monitoring-like-martin-fowler-domain-oriented-observability.md",
+  "logo": "https://oopy.lazyrockets.com/api/rest/cdn/image/7bbc75b5-1cdf-4b59-aec4-af3e335b3aad.png?d=16",
+  "background": "rgba(11,110,153,0.2)"
+}
+```
 
 ---
 
@@ -750,6 +759,7 @@ tag:
 - [Parallelism, Concurrency, and AsyncIO in Python - by example](https://testdriven.io/blog/python-concurrency-parallelism/)
 - [Modern Test-Driven Development in Python](https://testdriven.io/blog/modern-tdd/)
 - [Python Dependency Injection](https://testdriven.io/blog/python-dependency-injection/)
+- [Clean Code in Python](https://testdriven.io/blog/clean-code-python)
 
 ---
 
@@ -1107,5 +1117,88 @@ tag:
 - [A first attempt at DSPy Agents from scratch](https://learnbybuilding.ai/tutorials/dspy-agents-from-scratch)
 
 ---
+
+## 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔
+
+- [\[Python | Source Download\] Image Colorization (흑백 이미지를 컬러로 자동 복원)](https://topnanis.tistory.com/252)
+
+---
+
+## Taeksang Peter Kim
+
+- [Mixed Precision Training from Scratch](https://tspeterkim.github.io/posts/mixed-precision-from-scratch)
+
+---
+
+## 컴맹 : 진화의 시작
+
+- [FastAPI 톺아보기 - 부제: python 백엔드 봄은 온다](https://jybaek.tistory.com/890)
+
+---
+
+## csvbase
+
+- [Client libraries are better when they have no API](https://csvbase.com/blog/7)
+
+---
+
+## Erik Bernhardsson
+
+- [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python)
+
+---
+
+## Pybites - We Create Python Developers
+
+- [Python F-String Codes I Use Every Day](https://pybit.es/articles/python-f-string-codes-i-use-every-day/)
+
+---
+
+## Video infrastructure for the modern web - Editframe
+
+- [Easy video transcription and subtitling with Whisper, FFmpeg, and Python](https://www.editframe.com/guides/easy-video-transcription-and-subtitling-with-whisper-ffmpeg-and-python)
+
+---
+
+## Ivan Carvalho
+
+- [How to survive coding interviews with a single line of Python code](https://ivaniscoding.github.io/posts/codeinterview)
+
+---
+
+## Harper Reed's Blog
+
+- [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
+
+---
+
+## Python Morsels: Write better Python code
+
+- [Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
+
+---
+
+## miguelgrinberg.com
+
+- [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
+
+---
+
+## learnbybuilding.ai
+
+- [A first attempt at DSPy Agents from scratch](https://learnbybuilding.ai/tutorials/dspy-agents-from-scratch)
+
+---
+
+## Python Consulting for SaaS Businesses | BugFactory
+
+- [How to Avoid Conflicts and Let Your OS Select a Random Port](https://bugfactory.io/articles/how-to-avoid-conflicts-and-let-your-os-select-a-random-port/)
+
+---
+
+## Mouse Vs Python - Where You Can Learn All About Python Programming
+
+- [How to Watermark a Graph with Matplotlib](https://www.blog.pythonlibrary.org/2024/04/30/how-to-watermark-a-graph-with-matplotlib)
+
 
 <TagLinks />

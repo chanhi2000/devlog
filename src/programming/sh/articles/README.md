@@ -13,6 +13,7 @@ tag:
   - devkuma.com
   - meetup.nhncloud.com
   - engineering.linecorp.com
+  - smashingmagazine.com
   - sh
   - bash
 head:
@@ -74,6 +75,16 @@ head:
   "link": "https://engineering.linecorp.com/ko/blog/",
   "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
   "background": "rgba(31,31,31,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Smashing Magazine — For Web Designers And Developers",
+  "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
+  "link": "https://smashingmagazine.com/",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
 }
 ```
 
@@ -176,6 +187,22 @@ head:
   "link": "/explore/articles/engineering.linecorp.com/api-document-integration-and-documentation-automation.md",
   "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
   "background": "rgba(31,31,31,0.2)"
+}
+```
+
+---
+
+## Smashing Magazine — For Web Designers And Developers
+
+> smashingmagazine.com
+
+```component VPCard
+{
+  "title": "A Guide To Command-Line Data Manipulation — Smashing Magazine",
+  "desc": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
+  "link": "/explore/articles/smashingmagazine.com/guide-command-line-data-manipulation-cli-miller.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
 }
 ```
 

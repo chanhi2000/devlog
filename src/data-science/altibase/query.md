@@ -15,10 +15,17 @@ tag:
   - ddl
   - dml
   - sql-privilege
+head:
+  - - meta:
+    - property: og:title
+      content: Altibase > Query
+    - property: og:description
+      content: Query
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/altibase/query.html
 ---
 
 # {{ $frontmatter.title }} 관련
-
 
 [[toc]]
 

@@ -42,13 +42,27 @@ head:
 
 ## 요즘IT
 
-- [AWS Personalize 활용한 개인화 추천 서비스 론칭기](/explore/articles/yozm.wishket.com/2443.md)
+```component VPCard
+{
+  "title": "AWS Personalize 활용한 개인화 추천 서비스 론칭기 | 요즘IT",
+  "desc": "AWS Personalize 활용한 개인화 추천 서비스 론칭기",
+  "link": "/explore/articles/yozm.wishket.com/2443.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ---
 
 ## GPT
 
 - [AWS Docs GPT: AI-powered Search & Chat for AWS Documentation](https://www.awsdocsgpt.com)
+
+---
+
+## AB180 엔지니어링 베이스 | 기술블로그
+
+- [AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인](https://engineering.ab180.co/stories/aws-alert-iac) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/aws-alert-iac.md) -->
 
 ---
 
@@ -77,6 +91,7 @@ head:
 - [`@eunbibi` - AWS RDS](https://velog.io/@eunbibi/AWS-RDS)
 - [`@kandy1002` / [Terraform] Key encryption with Sops & AWS KMS](https://velog.io/@kandy1002/Terraform-Key-encryption-with-Sops-AWS-KMS)
 - [`@root-devvoo` / AWS CloudWatch를 통한 프로세스 모니터링 및 재시작 적용](https://velog.io/@root-devvoo/AWS-CloudWatch%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%8F-%EC%9E%AC%EC%8B%9C%EC%9E%91-%EC%A0%81%EC%9A%A9)
+- [`@root-devvoo` / AWS CodePipeline 알림을 위한 AWS Chatbot + Slack 연결](https://velog.io/@root-devvoo/AWS-CodePipeline-%EC%95%8C%EB%A6%BC%EC%9D%84-%EC%9C%84%ED%95%9C-AWS-Chatbot-Slack-%EC%97%B0%EA%B2%B0)
 
 ---
 
@@ -210,7 +225,8 @@ head:
 
 ## 브랜디 랩스(Brandi Labs)
 
-- [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](https://labs.brandi.co.kr/2020/06/09/leejp.html)
+- [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](https://labs.brandi.co.kr/2020/06/09/leejp.html) <!-- TODO: 작성 (/explore/articles/labs.brandi.co.kr/leejp.md) -->
+- [Serverless 환경에서 수행시간이 긴 작업 처리하기](https://labs.brandi.co.kr/2021/05/31/kimms4.html) <!-- TODO: 작성 (/explore/articles/labs.brandi.co.kr/kimms4.md) -->
 
 ---
 
@@ -242,6 +258,18 @@ head:
 ## jonnung.dev
 
 - [AWS RDS Proxy로 RDS 인스턴스 다운 타임을 최소화하기](https://jonnung.dev/aws/2022/02/15/aws-rds-proxy-for-rds-downtime)
+
+---
+
+## 네트워크 엔지니어 환영의 기술블로그
+
+- [\[AWS / Palo Alto\]Palo Alto Firewall(EC2) 설치 및 GWLB 연동](https://aws-hyoh.tistory.com/285)
+
+---
+
+## 일시불 프로그래밍
+
+- [AWS Lambda를 동시에 500개 이상 호출하기](https://devbull.xyz/aws-lambda-500-concurrency)
 
 ---
 

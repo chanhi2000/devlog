@@ -84,5 +84,10 @@ tag:
 
 ---
 
+## Circumeo - Django Hosting
+
+- [Building a Voice Notes App with Django and OpenAI](https://circumeo.io/blog/entry/building-a-voice-notes-app-with-django-and-openai/)
+
+---
 
 <TagLinks />

@@ -193,6 +193,7 @@ tag:
 - [[메모] Compose 가이드 문서 ~ Components](https://pluu.github.io/blog/android/2024/05/19/compose/)
 - [[메모] Compose 가이드 문서 ~ Theming](https://pluu.github.io/blog/android/2024/05/23/compose/)
 - [[정리] Compose 가이드 문서 ~ Text and typography](https://pluu.github.io/blog/android/2024/05/25/compose/)
+- [\[요약\] What's new in Android development tools (Google I/O '24)](https://pluu.github.io/blog/android/io23/2024/05/26/io24-whats-new-in-android-development-tools/)
 
 ---
 

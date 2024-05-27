@@ -4711,9 +4711,9 @@
     "topics": ["generation", "large-language-models", "vision-language-model"]
   }, {
     "repo": "princeton-nlp/SWE-agent",
-    "desc": "SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models",
+    "desc": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.",
     "officialSite": "https://swe-agent.com/",
-    "topics": []
+    "topics": ["agent", "agent-based-model", "ai", "developer-tools", "llm", "lms"]
   }, {
     "repo": "AlexanderKoch-Koch/low_cost_robot",
     "desc": "",
@@ -5329,5 +5329,25 @@
     "desc": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.",
     "officialSite": "https://meltano.com/",
     "topics": ["connectors", "data", "data-engineering", "data-pipelines", "dataops", "dataops-platform", "elt", "extract-data", "integration", "loaders", "meltano", "meltano-sdk", "open-source", "opensource", "pipelines", "singer", "tap", "taps", "target", "targets"]
+  }, {
+    "repo": "shamhi/HamsterKombatBot",
+    "desc": "Bot that mines coins in HamsterKombat",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "dataelement/bisheng",
+    "desc": "Bisheng is an open LLM devops platform for next generation AI applications.",
+    "officialSite": "https://bisheng.dataelem.com/",
+    "topics": ["agent", "langchain", "llm", "llmdevops"]
+  }, {
+    "repo": "knosmos/cmdpxl",
+    "desc": "totally practical command-line image editor",
+    "officialSite": "",
+    "topics": ["cli", "image-editor", "opencv", "python", "terminal-based"]
+  }, {
+    "repo": "more-itertools/more-itertools",
+    "desc": "More routines for operating on iterables, beyond itertools",
+    "officialSite": "https://more-itertools.rtfd.io",
+    "topics": []
   }
 ]

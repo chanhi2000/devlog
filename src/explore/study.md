@@ -128,6 +128,13 @@ tag:
 }
 ```
 
+<SiteInfo
+  name="JS Is Weird"
+  desc="JS is weird: A fun and tricky JavaScript quiz"
+  url="https://jsisweird.com/"
+  logo="https://jsisweird.com/logo192.png"
+  preview="https://jsisweird.com/jsisweird.png"/>
+
 <!-- @end Algorithm -->
 
 @tab Crashcourse
@@ -402,6 +409,29 @@ https://www.joinc.co.kr/w/Site
 }
 ```
 
+```component VPCard
+{
+  "title": "Take your first steps with Rust - Training | Microsoft Learn",
+  "desc": "Interested in learning a new programming language that's growing in use and popularity? Start here! Lay the foundation of knowledge you need to build fast and effective programs in Rust.",
+  "link": "https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps",
+  "logo": "/iamge/content/learn.microsoft.com/favicon.ico",
+  "background": "rgba(23,23,23,0.2)"
+}
+```
+
+<SiteInfo
+  name="The Front End Developer/Engineer Handbook 2024"
+  desc="The handbook provides an in-depth overview of the skills, tools, and technologies necessary to excel as a front-end developer / engineer."
+  url="https://frontendmasters.com/guides/front-end-handbook/2024/"
+  logo="https://frontendmasters.com/favicon.ico"
+  preview="https://frontendmasters.com/guides/front-end-handbook/2024/images/FEM2024_1000w.jpeg"/>
+
+<SiteInfo
+  name="Free Web Development Tutorials | Epic Web Dev"
+  desc="Free Web Development that will help you learn professional web developer through exercise driven examples."
+  url="https://www.epicweb.dev/tutorials"
+  logo="https://www.epicweb.dev/favicon.ico"
+  preview="https://res.cloudinary.com/epic-web/image/upload/v1704808424/card-tutorials_2x.png"/>
 
 <!-- @end Crashcourse -->
 

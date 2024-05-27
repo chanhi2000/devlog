@@ -10,13 +10,10 @@ category:
 tag: 
   - blog
   - freecodecamp.org
-  - sitepoint.com
-  - devtoolstips.org
-  - yozm.wishket.com
   - python
   - py
   - django
-  - blog
+  - py-django
 head:
   - - meta:
     - property: og:title
@@ -50,8 +47,18 @@ head:
 ```component VPCard
 {
   "title": "How to create an analytics dashboard in a Django app",
-  "desc": "Hi folks! Python, data visualization, and programming are the topics I'm profoundly devoted to. That's why I'd like to share with you my ideas as well as my enthusiasm for discovering new ways to present data in a meaningful way. The case I'm going to cover is quite common: you",
+  "desc": "Hi folks! Python, data visualization, and programming are the topics I'm profoundly devoted to. That's why I'd like to share with you my ideas as well as my enthusiasm for discovering new ways to present data in a meaningful way. The case I'm going to cover is quite common: you...",
   "link": "/explore/articles/freecodecamp.org/how-to-create-an-analytics-dashboard-in-django-app.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Secure Your Django App – Best Practices and Code Examples",
+  "desc": "As a software developer or engineer, it's not enough to know how to build useful solutions – you must also ensure that they are secure. Prioritizing your users is crucial when developing and deploying your software because if users can't use your app, it becomes useless. In this guide, we...",
+  "link": "/explore/articles/freecodecamp.org/how-to-secure-your-django-app.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

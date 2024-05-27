@@ -25,6 +25,14 @@ tag:
   - docker
   - containerd
   - neofetch
+head:
+  - - meta:
+    - property: og:title
+      content: macOS > Environment Setup
+    - property: og:description
+      content: Environment Setup
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/macos/env-setup.html
 ---
 
 # {{ $frontmatter.title }} 관련

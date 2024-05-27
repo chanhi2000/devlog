@@ -2918,5 +2918,30 @@
     "desc": "✨ Open-source dev productivity platform for engineering teams ✨",
     "officialSite": "https://middlewarehq.com",
     "topics": ["dev", "dev-productivity", "dev-tool", "devops", "dora", "dora-metrics", "engineering-management", "engineering-productivity", "pr-review", "pull-request-review"]
+  }, {
+    "repo": "ragapp/ragapp",
+    "desc": "The easiest way to use Agentic RAG in any enterprise",
+    "officialSite": "",
+    "topics": ["agentic", "agents", "ai", "docker", "llamaindex", "rag"]
+  }, {
+    "repo": "honzaap/Systemizer",
+    "desc": "A system design tool that allows you to simulate data flow of distributed systems.",
+    "officialSite": "https://honzaap.github.io/Systemizer/",
+    "topics": ["architecture", "backend", "data-flow", "database", "design-tool", "distributed-systems", "microservices", "microservices-architecture", "scalability", "server", "system-design", "visualization", "web-development"]
+  }, {
+    "repo": "Milkdown/milkdown",
+    "desc": "🍼 Plugin driven WYSIWYG  markdown editor framework.",
+    "officialSite": "https://milkdown.dev",
+    "topics": ["editor", "gfm", "javascript", "markdown", "markdown-editor", "milkdown", "prosemirror", "remarkjs", "rich-text-editor", "typescript", "wysiwyg", "wysiwyg-editor"]
+  }, {
+    "repo": "mebjas/html5-qrcode",
+    "desc": "A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org",
+    "officialSite": "https://qrcode.minhazav.dev",
+    "topics": ["barcode", "camera", "html5", "javascript", "qrcode", "scanning"]
+  }, {
+    "repo": "slab/quill",
+    "desc": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+    "officialSite": "https://quilljs.com",
+    "topics": ["editor", "quill", "rich-text-editor", "wysiwyg"]
   }
 ]

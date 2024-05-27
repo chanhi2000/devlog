@@ -36,6 +36,7 @@ tag:
 ## 기계인간 John Grib
 
 - [B-Tree](https://johngrib.github.io/wiki/algorithm/b-tree/)
+- [퀵 정렬 (Quick Sort)](https://johngrib.github.io/wiki/algorithm/quick-sort/)
 
 ---
 

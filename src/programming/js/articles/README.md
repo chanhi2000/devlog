@@ -143,6 +143,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "The JavaScript Interview Prep Handbook – Essential Topics to Know + Code Examples",
+  "desc": "JavaScript is a widely used language in web development and powers interactive features of virtually every website out there. JavaScript makes it possible to create dynamic web pages and is very versatile. JavaScript remains one of the most in-demand programming languages in 2024. Many companies are looking for proficiency in...",
+  "link": "/explore/articles/freecodecamp.org/js-interview-prep-handbook.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Manipulate Strings in JavaScript – With Code Examples",
+  "desc": "String manipulation is a common task for programmers, whether it is extracting information from the string, converting letter cases, joining strings, or trimming extra white spaces. This tutorial covers various methods and techniques for manipulating strings using JavaScript, offering you a comprehensive guide on how to work with strings in...",
+  "link": "/explore/articles/freecodecamp.org/how-to-manipulate-strings-in-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Frontend Masters Boost – Helping Your Journey to Senior Developer

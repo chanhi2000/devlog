@@ -42,7 +42,6 @@ tag:
 ## Education
 
 - [The Programming Expert](https://theprogrammingexpert.com)
-- [My Favorite Free Courses to Learn JavaScript in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
 - [Kati Frantz's courses](https://katifrantz.com)
 - [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev)
 - [Favorite JavaScript utilities in single line of code! No more!](https://1loc.dev)
@@ -111,6 +110,10 @@ tag:
 
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
+### tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
+
+- [FE개발자의 성장 스토리 09 : Offscreencanvas 적용기](https://tech.kakao.com/posts/442)
+
 ### 카카오엔터테인먼트 FE 기술블로그
 
 - [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 1](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230420-beyond-solving-problem-part-1.md) -->
@@ -140,6 +143,7 @@ tag:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
 ---
 
 ## Deno
@@ -151,13 +155,14 @@ tag:
 
 ## Banksalad
 
-### 2020
-
 - [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/build-a-website-with-gatsby.md) -->
-
-### 2017
-
 - [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/typescript-local-storage.md) -->
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [국제화(i18n) 자동화 가이드](https://meetup.nhncloud.com/posts/295) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/295.md) -->
 
 ---
 
@@ -185,17 +190,12 @@ tag:
 
 ---
 
-## LogRocket
-
-- [main](https://blog.logrocket.com)
-
----
-
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about React](https://dev.to/t/react)
-- [`useRef()`가 순수 자바스크립트 객체라는 의미를 곱씹어보기](https://dev.to/dylanju/useref-3j37)
-- [Building a Jamstack app with Nuxt, Vue and FaunaDB](https://dev.to/ramigs/building-a-jamstack-app-with-nuxt-vue-and-faunadb-kg)
+- [`javinpaul` / My Favorite Free Courses to Learn JavaScript in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
+- [`dylanju` / `useRef()`가 순수 자바스크립트 객체라는 의미를 곱씹어보기](https://dev.to/dylanju/useref-3j37)
+- [`ramigs` /Building a Jamstack app with Nuxt, Vue and FaunaDB](https://dev.to/ramigs/building-a-jamstack-app-with-nuxt-vue-and-faunadb-kg)
 - [React & Redux Project: Gomojii](https://dev.to/greedybrain/react-redux-project-gomojii-5d6i)
 - [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
 - [How to create load more logic in React](https://dev.to/narendersaini32/how-to-create-load-more-logic-in-react-474m)
@@ -212,6 +212,7 @@ tag:
 - [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
 - [`this-is-learning` - Hono vs. H3 vs. HatTip vs. Elysia - modern server(less) replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
 - [`this-is-learning` - WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
+- [`0shuvo0` / I made Squid Game with JavaScript](https://dev.to/0shuvo0/i-made-squid-game-with-javascript-10j9)
 
 ---
 
@@ -1033,6 +1034,24 @@ tag:
 ## RxDB
 
 - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
+
+---
+
+## Josh Can Help
+
+- [Building a CLI from scratch with TypeScript and oclif](https://www.joshcanhelp.com/oclif/)
+
+---
+
+## Cameron G. Gould
+
+- [Improving our Jest execution time by 300%](https://www.camggould.com/posts/Jest-With-RTL-Is-Slow/)
+
+---
+
+## ~/Z
+
+- [Dynamic Github profile with Bun and Typescript](https://tduyng.com/blog/dynamic-github-profile-with-bun-typescript/)
 
 ---
 

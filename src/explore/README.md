@@ -480,6 +480,18 @@ https://flareum.io/
 https://openvim.com/
 https://datawrapper.dwcdn.net/rT0yG/2/
 
+@tab Resume
+
+```component VPCard
+{
+  "title": "Indo Yoon",
+  "desc": "I am interested in web services. I am always looking for something new to learn. I believe one line of code can change the world to the better place.",
+  "link": "https://dapper-radius-d41.notion.site/Indo-Yoon-9e70420f108e4b0f825b911fc6b1ad7f",
+  "logo": "https://dapper-radius-d41.notion.site/images/logo-ios.png",
+  "background": "rgba(199,125,72,0.2)"
+}
+```
+
 :::
 
 ---

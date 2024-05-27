@@ -114,16 +114,6 @@ tag:
 
 ```component VPCard
 {
-  "title": "iximiuz Labs - Learning-by-Doing Platform to master Cloud Native craft",
-  "desc": "Skill up in Linux, Containers, Kubernetes, and Server-Side Programming by solving fun challenges.",
-  "link": "https://labs.iximiuz.com/",
-  "logo": "https://labs.iximiuz.com/favicon.ico",
-  "background": "rgba(78,156,228,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "Vx Underground",
   "desc": "The largest collection of malware source code, samples, and papers on the internet.",
   "link": "https://vx-underground.org/",
@@ -284,7 +274,6 @@ tag:
 
 https://gracefullight.dev/archive/
 
-
 <!-- 
 ```component VPCard
 {
@@ -299,7 +288,7 @@ https://gracefullight.dev/archive/
 
 <!-- @end News -->
 
-@tab Tech Blog
+@tab <FontIcon icon="fas fa-globe"/>Tech Blog
 
 ```component VPCard
 {
@@ -350,6 +339,91 @@ https://gracefullight.dev/archive/
   "background": "rgba(243,139,49,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "Home | Meta Open Source",
+  "desc": "The landing page of the official Meta Open Source website.",
+  "link": "https://opensource.fb.com/",
+  "logo": "https://opensource.fb.com/img/favicon.png",
+  "background": "rgba(70,90,105,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Slack Engineering -",
+  "desc": "...",
+  "link": "https://slack.engineering/",
+  "logo": "https://slack.engineering/wp-content/uploads/sites/7/2020/05/cropped-octothrope-1.png?w=32",
+  "background": "rgba(18,100,163,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Learnk8s — the Kubernetes training company",
+  "desc": "We help you get started on your Kubernetes journey through comprehensive online, in person or remote training.",
+  "link": "https://learnk8s.io/archive",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<SiteInfo
+  name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
+  desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
+  url="https://blog.logrocket.com/"
+  logo="/images/content/blog.logrocket.com/favicon.png"
+  preview="/images/content/blog.logrocket.com/banner.png"/>
+
+```component VPCard
+{
+  "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
+  "desc": "Everyday Engineering Challenges",
+  "link": "https://blog.ideaharbour.site/engineering/",
+  "logo": "https://blog.ideaharbour.site/engineering/wp-content/uploads/sites/3/2024/03/cropped-android-chrome-512x512-1-192x192.png",
+  "background": "rgba(27,132,21,0.2)"
+}
+```
+
+<SiteInfo
+  name="Coursera Engineering – Medium"
+  desc="We're changing the way the world learns! Posts from Coursera engineers and data scientists."
+  url="https://medium.com/coursera-engineering"
+  logo="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
+  preview="https://cdn-images-1.medium.com/v2/resize:fit:2400/1*SUNVx-fZ3AwO13vvCEPqsQ.jpeg"/>
+
+```component VPCard
+{
+  "title": "Knowledge Base",
+  "desc": "Knowledge Base",
+  "link": "https://iq.thc.org/",
+  "logo": "https://cdn.hashnode.com/res/hashnode/image/upload/v1611242155728/W3_BYVVVh.png",
+  "background": "rgba(144,238,144,0.2)"
+}
+```
+
+<SiteInfo
+  name="Latest Articles | UX Tools"
+  desc="Articles about the skills, tools, and techniques of UX design."
+  url="https://uxtools.co/blog/"
+  logo="https://uxtools.co/apple-touch-icon.png"
+  preview="https://uxtools.co/img/default-share.png"/>
+
+```component VPCard
+{
+  "title": "iximiuz Labs - Learning-by-Doing Platform to master Cloud Native craft",
+  "desc": "Skill up in Linux, Containers, Kubernetes, and Server-Side Programming by solving fun challenges.",
+  "link": "https://labs.iximiuz.com/",
+  "logo": "https://labs.iximiuz.com/favicon.ico",
+  "background": "rgba(78,156,228,0.2)"
+}
+```
+
+<!-- @end Tech Blog -->
+
+@tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)
 
 ```component VPCard
 {
@@ -425,6 +499,13 @@ https://gracefullight.dev/archive/
   logo="https://blog.gangnamunni.com/favicon.ico"
   preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
+<SiteInfo
+  name="토스 기술 블로그, 토스 테크"
+  desc="토스의 개발과 디자인에 대한 이야기를 다룹니다."
+  url="https://toss.tech/"
+  logo="https://static.toss.im/tds/favicon/favicon.ico"
+  preview="https://static.toss.im/assets/payments/contents/toss-tech-banner2_.png"/>
+
 ```component VPCard
 {
   "title": "우아한형제들 기술블로그",
@@ -466,8 +547,8 @@ https://gracefullight.dev/archive/
   name="TOAST UI :: Make Your Web Delicious!"
   desc="TOAST UI is an open-source JavaScript UI library maintained by NHN Cloud."
   url="https://ui.toast.com/"
-  logo="https://ui.toast.com/icons-afac2d19e8aa82377b3f18a704d4acf5/favicon.ico"
-  preview="https://uicdn.toast.com/toastui/img/toast-ui-hero1920-2x.png"/>
+  logo="/images/content/ui.toast.com/favicon.ico"
+  preview="/images/content/ui.toast.com/banner.png"/>
 
 ```component VPCard
 {
@@ -569,59 +650,19 @@ https://gracefullight.dev/archive/
 }
 ```
 
-```component VPCard
-{
-  "title": "Home | Meta Open Source",
-  "desc": "The landing page of the official Meta Open Source website.",
-  "link": "https://opensource.fb.com/",
-  "logo": "https://opensource.fb.com/img/favicon.png",
-  "background": "rgba(70,90,105,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Slack Engineering -",
-  "desc": "...",
-  "link": "https://slack.engineering/",
-  "logo": "https://slack.engineering/wp-content/uploads/sites/7/2020/05/cropped-octothrope-1.png?w=32",
-  "background": "rgba(18,100,163,0.2)"
-}
-```
+<SiteInfo
+  name="그린랩스 기술 블로그"
+  desc="농업의 처음부터 끝까지. 그린랩스 기술 블로그입니다."
+  url="https://green-labs.github.io/"
+  logo="https://green-labs.github.io/favicon.png"
+  preview="https://green-labs.github.io/static/Banner_001-34d01da098542f4099e949f75bf1d82d.png"/>
 
 <SiteInfo
-  name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
-  desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
-  url="https://blog.logrocket.com/"
-  logo="https://blog.logrocket.com/wp-content/uploads/2019/06/cropped-cropped-favicon-196x196.png?w=180"
-  preview="https://blog.logrocket.com/wp-content/themes/logrocket/assets/blog-header.png"/>
-
-```component VPCard
-{
-  "title": "IdeaHarbour Engineering Blog - Everyday Engineering Challenges",
-  "desc": "Everyday Engineering Challenges",
-  "link": "https://blog.ideaharbour.site/engineering/",
-  "logo": "https://blog.ideaharbour.site/engineering/wp-content/uploads/sites/3/2024/03/cropped-android-chrome-512x512-1-192x192.png",
-  "background": "rgba(27,132,21,0.2)"
-}
-```
-
-<SiteInfo
-  name="Coursera Engineering – Medium"
-  desc="We're changing the way the world learns! Posts from Coursera engineers and data scientists."
-  url="https://medium.com/coursera-engineering"
-  logo="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
-  preview="https://cdn-images-1.medium.com/v2/resize:fit:2400/1*SUNVx-fZ3AwO13vvCEPqsQ.jpeg"/>
-
-```component VPCard
-{
-  "title": "Knowledge Base",
-  "desc": "Knowledge Base",
-  "link": "https://iq.thc.org/",
-  "logo": "https://cdn.hashnode.com/res/hashnode/image/upload/v1611242155728/W3_BYVVVh.png",
-  "background": "rgba(144,238,144,0.2)"
-}
-```
+  name=" 브랜디 랩스(Brandi Labs) "
+  desc="브랜드(Brand)와 나(I)를 연결해주는 브랜디 랩스 기술 블로그"
+  url="https://labs.brandi.co.kr/"
+  logo="https://labs.brandi.co.kr/assets/icons/favicon.ico"
+  preview="https://labs.brandi.co.kr/assets/header_image.jpg"/>
 
 ```component VPCard
 {
@@ -643,14 +684,6 @@ https://gracefullight.dev/archive/
 }
 ```
 
-<SiteInfo
-  name="Latest Articles | UX Tools"
-  desc="Articles about the skills, tools, and techniques of UX design."
-  url="https://uxtools.co/blog/"
-  logo="https://uxtools.co/apple-touch-icon.png"
-  preview="https://uxtools.co/img/default-share.png"/>
-
-
 ```component VPCard
 {
   "title": "FONT CLUB",
@@ -661,7 +694,7 @@ https://gracefullight.dev/archive/
 }
 ```
 
-<!-- @end Tech Blog -->
+<!-- @end Tech Blog (Korea) -->
 
 @tab App(s)
 

@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - smashingmagazine.com
   - yozm.wishket.com
   - techblog.woowahan.com
   - dev.gmarket.com
@@ -40,6 +41,16 @@ head:
   "link": "https://freecodecamp.org/news/",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Smashing Magazine — For Web Designers And Developers",
+  "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
+  "link": "https://smashingmagazine.com/",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
 }
 ```
 
@@ -198,6 +209,32 @@ head:
   "link": "/explore/articles/freecodecamp.org/zustand-vs-usestate-how-to-manage-state-in-react.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Style React Components",
+  "desc": "You can only make your React app visually appealing to users with styling. That makes styling a fundamental aspect of building captivating user interfaces. With React's component-based architecture, there are a ton of options for styling. These include traditional CSS, utility-first approach, CSS-in-JS solutions, and more. In this article, we'll...",
+  "link": "/explore/articles/freecodecamp.org/how-to-style-react-components.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## Smashing Magazine — For Web Designers And Developers
+
+> smashingmagazine.com
+
+```component VPCard
+{
+  "title": "The Forensics Of React Server Components (RSCs)",
+  "desc": "React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.",
+  "link": "/explore/articles/smashingmagazine.com/forensics-react-server-components.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
 }
 ```
 

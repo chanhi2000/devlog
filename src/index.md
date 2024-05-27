@@ -30,6 +30,9 @@ projects:
   - name: AI
     link: /ai/
     icon: fas fa-brain
+  - name: Hardware
+    link: /hw/
+    icon: fas fa-microchip
   - name: Explore
     link: /explore/
     icon: fas fa-globe
