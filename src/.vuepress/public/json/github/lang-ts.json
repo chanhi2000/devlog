@@ -2943,5 +2943,10 @@
     "desc": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
     "officialSite": "https://quilljs.com",
     "topics": ["editor", "quill", "rich-text-editor", "wysiwyg"]
+  }, {
+    "repo": "didi/xiaoju-survey",
+    "desc": "「快速」打造「专属」问卷系统, 让调研「更轻松」",
+    "officialSite": "https://xiaojusurvey.didi.cn",
+    "topics": ["configuration", "node", "question", "survey", "vue"]
   }
 ]

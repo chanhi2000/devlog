@@ -166,6 +166,15 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
+  "title": "JSHint, a JavaScript Code Quality Tool",
+  "desc": "JSHint, a JavaScript Code Quality Tool",
+  "link": "https://jshint.com",
+  "background": "rgba(170,238,204,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "SQL Workbench",
   "desc": "SQL Workbench - Rapid prototyping SQL Queries & Data Visualizations",
   "link": "https://sql-workbench.com/",
@@ -574,6 +583,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://chalk.ist/",
   "logo": "https://chalk.ist/apple-touch-icon.png",
   "background": "rgba(11,11,13,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Cytoscape.js",
+  "desc": "Graph theory / network library for analysis and visualisation - compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript",
+  "link": "https://js.cytoscape.org/",
+  "logo": "https://js.cytoscape.org/img/cytoscape-logo.svg",
+  "background": "rgba(247,223,30,0.2)"
 }
 ```
 
@@ -1142,9 +1161,23 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
-- https://developers.google.com/youtube/documentation
-- https://jshint.com
-- https://developers.naver.com/main/
+```component VPCard
+{
+  "title": "YouTube Developer Documentation  |  Google for Developers",
+  "desc": "YouTube has a number of APIs and tools that let you embed YouTube functionality into your own website and applications.",
+  "link": "https://developers.google.com/youtube/documentation?hl=en",
+  "logo": "https://www.gstatic.com/devrel-devsite/prod/v7b55e5943f9ab80a0423ff6653c19f56a0e5266641f85a6a76aee662b0157d18/developers/images/favicon-new.png",
+  "background": "rgba(255,0,0,0.2)"
+}
+```
+
+<SiteInfo
+  name="네이버 개발자 센터 - NAVER Developers"
+  desc="네이버 오픈 API들을 활용해 개발자들이 다양한 애플리케이션을 개발할 수 있도록 API 가이드와 SDK를 제공합니다. 제공중인 오픈 API에는 네이버 로그인, 검색, 단축URL, 캡차를 비롯 기계번역, 음성인식, 음성합성 등이 있습니다."
+  url="https://developers.naver.com/main/"
+  logo="https://developers.naver.com/inc/devcenter/dist/0739723a031b354f5311473e386d3eb1.png"
+  preview="https://developers.naver.com/inc/devcenter/images/main_og.jpg"/>
+
 
 ```component VPCard
 {
@@ -1386,6 +1419,26 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://www.termtyper.com/",
   "logo": "https://www.termtyper.com/logo.png",
   "background": "rgba(2,45,62,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Effects Showroom - TerminalTextEffects Docs",
+  "desc": "TerminalTextEffects Documentation",
+  "link": "https://chrisbuilds.github.io/terminaltexteffects/showroom/",
+  "logo": "https://chrisbuilds.github.io/terminaltexteffects/assets/images/favicon.png",
+  "background": "rgba(64,81,181,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "HWPX를 HWP로 변환, 서버에 업로드 없이 무료로 사용하세요.",
+  "desc": "PolarisOfficeTools를 사용하여 문서들을(PDF, WORD, SLIDE, SHEET) 무료로 사용할 수 있습니다. PDF를 JPG로, PDF를 압축, PDF를 보호, PDF 잠금 해제, PDF 병합, PDF 분할, Word를 JPG로, 슬라이드를 JPG로, 시트를 JPG로, HWP를 JPG로, HWPX를 JPG로, PDF 뷰어, 워드 뷰어, 슬라이드 뷰어, 시트 뷰어, HWP 뷰어, HWPX 뷰어, Word를 PDF로, 슬라이드를 PDF로, 시트를 PDF로, HWPX를 HWP로, HWPX를 PDF로, HWP를 PDF로, 이미지를 이미지로, 이미지를 PDF로, Zip을 PDF로, PDF 컨텐츠 추출, 시트 컨텐츠 추출, 이미지 스타일 변환, 워드 컨텐츠 추출, HWPX 컨텐츠 추출, HWP 컨텐츠 추출, 슬라이드 컨텐츠 추출, PDF 커버, 이미지 해상도 높이기",
+  "link": "https://www.polarisofficetools.com/hwpx/convert/hwp",
+  "logo": "https://www.polarisofficetools.com/favicon.png",
+  "background": "rgba(249,210,210,0.2)"
 }
 ```
 

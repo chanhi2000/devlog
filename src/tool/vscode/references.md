@@ -77,6 +77,8 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
+### .NET Blog
+
 - [Java on Visual Studio Code – May 2023](https://devblogs.microsoft.com/java/java-on-visual-studio-code-may-2023/)
 
 ---
@@ -143,6 +145,12 @@ tag:
 ## Project IDX
 
 - [Start Building with Project IDX Today](https://idx.dev/blog/article/start-building-with-project-idx-today)
+
+---
+
+## BinaryIntellect Knowledge Base | .NET & Web Development KB By Bipin Joshi
+
+- [Develop ASP.NET Core Apps Using Visual Studio Code](https://www.binaryintellect.net/articles/d0301c4d-9cf0-4421-86ad-aff3334d678f.aspx)
 
 ---
 

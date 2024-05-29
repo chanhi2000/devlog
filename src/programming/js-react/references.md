@@ -158,6 +158,7 @@ head:
 - [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
 - [`@miracool` How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
 - [`itswillt` - ⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8?ref=dailydev)
+- [`ajones_codes` / A Better Guide To Forms in React](https://dev.to/ajones_codes/a-better-guide-to-forms-in-react-47f0)
 
 ---
 
@@ -187,6 +188,7 @@ head:
 
 ## Robin Wieruch - Freelance Web Developer
 
+- [React Trends in 2024](https://www.robinwieruch.de/react-trends)
 - [React Libraries for 2024](https://www.robinwieruch.de/react-libraries/) <!-- TODO: 읽고 라이브러리 추출 -->
 - [Linear Algebra in JavaScript with Matrix Operations](https://www.robinwieruch.de/linear-algebra-matrix-javascript)
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
@@ -249,6 +251,8 @@ head:
 
 ## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
+### .NET Blog
+
 - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
 
 ---
@@ -257,6 +261,8 @@ head:
 
 - [Rapid Mock API creation with ChatGPT and json-server](https://www.builder.io/blog/mock-api-data-with-chatgpt)
 - [A Visual Guide to the new App Router in Next.js 13](https://www.builder.io/blog/next-13-app-router)
+- [What are React Server Components? Understanding the Future of React Apps](https://www.builder.io/blog/why-react-server-components)
+- [React Intersection Observer - A Practical Guide](https://www.builder.io/blog/react-intersection-observer)
 
 ---
 
@@ -352,6 +358,7 @@ head:
 
 ## Sitepoint
 
+- [Building Interactive Data Visualizations with D3.js and React](https://sitepoint.com/d3-js-react-interactive-data-visualizations/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/d3-js-react-interactive-data-visualizations.md) -->
 - [Creating a Navbar in React](https://sitepoint.com/creating-a-navbar-in-react) <!-- TODO: 작성 (/explore/articles/sitepoint.com/creating-a-navbar-in-react.md) -->
 
 ---
@@ -648,6 +655,7 @@ https://o-yeon.tistory.com/227
 - [Warning: Maximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.](https://ravenkim97.tistory.com/407)
 - [React 19 Beta 번역](https://ravenkim97.tistory.com/410)
 - [React Conf 2024](https://ravenkim97.tistory.com/428)
+- [`vite-plugin-react` vs `plugin-react-swc` 중 나는 무엇을 사용해야 할까?](https://ravenkim97.tistory.com/450)
 
 ---
 
@@ -776,6 +784,24 @@ https://o-yeon.tistory.com/227
 ## Kinsta® - Fast, secure, feature-rich WordPress hosting
 
 - [How to build a real-time object detection app using React and Kinsta](https://kinsta.com/blog/react-object-detection-app/)
+
+---
+
+## Allan Lasser
+
+- [Avoid using React’s `useFormStatus`](https://allanlasser.com/posts/2024-01-26-avoid-using-reacts-useformstatus)
+
+---
+
+## Professional React Workshops and Training
+
+- [React Will Be Compiled](https://reacttraining.com/blog/react-19-will-be-compiled)
+
+---
+
+## Teveloper 개발 & 테니스 이야기
+
+- [모듈 번들러의 탄생과 Rollup.js 파헤치기](https://teveloper.tistory.com/78)
 
 ---
 

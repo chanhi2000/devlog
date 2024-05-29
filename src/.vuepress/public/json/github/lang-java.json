@@ -66,7 +66,7 @@
     "topics": []
   }, {
     "repo": "sniffy/sniffy",
-    "desc": "Sniffy - interactive profiler, testing and chaos engineering tool for Java",
+  "desc": "Sniffy - interactive profiler, testing and chaos engineering tool for Java",
     "officialSite": "https://www.sniffy.io",
     "topics": []
   }, {
@@ -654,5 +654,10 @@
     "desc": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
     "officialSite": "https://trino.io",
     "topics": ["analytics", "big-data", "data-science", "database", "databases", "datalake", "delta-lake", "distributed-database", "distributed-systems", "hadoop", "hive", "iceberg", "java", "jdbc", "presto", "prestodb", "query-engine", "sql", "trino"]
+  }, {
+    "repo": "openkoda/openkoda",
+    "desc": "Open source business application platform for fast development",
+    "officialSite": "https://openkoda.com/",
+    "topics": ["business-application-platform", "customizable", "development-tools", "java", "multitenancy", "open-source", "openkoda", "spring-boot"]
   }
 ]

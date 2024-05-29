@@ -38,7 +38,7 @@ tag:
   "title": "고스트 트래커 및 광고 차단기 - 프라이버시 AdBlock",
   "desc": "Ghostery는 강력한 개인정보 보호 확장 프로그램입니다. 광고와 트래커를 차단하고 웹 사이트의 속도를 높여줍니다.",
   "link": "https://chromewebstore.google.com/detail/%EA%B3%A0%EC%8A%A4%ED%8A%B8-%ED%8A%B8%EB%9E%98%EC%BB%A4-%EB%B0%8F-%EA%B4%91%EA%B3%A0-%EC%B0%A8%EB%8B%A8%EA%B8%B0-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%8B%9C-ad/mlomiejdfkolichcflejclcbmpeaniij",
-  "logo": "https://lh3.googleusercontent.com/FFs5IGsMq5As7MBo1TfKPWs5bAzCJsnXwtW1BrgOp6VuQUVRR3zYbocoPkYYfrayeO20VomUy8LJZ2TAInCIAEQO=s128-rj-sc0x00ffffff",
+  "logo": "https://lh3.googleusercontent.com/cq9rmt9Qgky6HvDQxvS1BUr1j5pdnpJOVYn0fMOjRxUAJMXBcRi8D-hajtyK1Ztc5ePi_mQUnsvMInpJUG5rpkWM=s60",
   "background": "rgba(0,174,240,0.2)"
 }
 ```
@@ -48,7 +48,7 @@ tag:
   "title": "Privacy Badger",
   "desc": "Privacy Badger는 자동으로 보이지 않는 추적기를 차단하는 법을 학습합니다.",
   "link": "https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp",
-  "logo": "https://lh3.googleusercontent.com/FFs5IGsMq5As7MBo1TfKPWs5bAzCJsnXwtW1BrgOp6VuQUVRR3zYbocoPkYYfrayeO20VomUy8LJZ2TAInCIAEQO=s128-rj-sc0x00ffffff",
+  "logo": "https://lh3.googleusercontent.com/LzhiFbFNvTwkOM7XX4K3wkwSlTkMj6NLyixs1yLPaYGIzXaiFGsfi6qcwzKzQcLR-6jtIVnFPRlQWUZC-OlnHpROcg=s60", 
   "background": "rgba(240,106,9,0.2)"
 }
 ```
@@ -98,7 +98,7 @@ tag:
   "title": "Stylus",
   "desc": "Stylus로 웹페이지를 새롭게 디자인해보세요. 유명한 사이트의 테마, 스킨도 간단하게 설치할 수 있는 사용자 스타일 관리자입니다.",
   "link": "https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne",
-  "logo": "https://lh3.googleusercontent.com/FFs5IGsMq5As7MBo1TfKPWs5bAzCJsnXwtW1BrgOp6VuQUVRR3zYbocoPkYYfrayeO20VomUy8LJZ2TAInCIAEQO=s128-rj-sc0x00ffffff",
+  "logo": "https://lh3.googleusercontent.com/2K8pc_5-2DkPam9b3oAWoITZ7IuIz68A5a8Ssg2_MNNHTPWPOPSBVTFdTmeVu9hi8GJxpKbvTekgwpeyGV6vXyBKH80=s60",
   "background": "rgba(40,89,89,0.2)"
 }
 ```

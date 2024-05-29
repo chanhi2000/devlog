@@ -96,7 +96,7 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-gradle'
       }, {
         text: 'Maven',
-        link: '/programming/maven/README.md',
+        link: '/programming/mvn/README.md',
         icon: 'iconfont icon-maven',
       }, {
         text: 'Java',
@@ -243,6 +243,14 @@ export const navbarEn = navbar([
         link: '/programming/ruby/README.md',
         icon: 'iconfont icon-ruby',
       }, {
+        text: 'C',
+        link: '/programming/c/README.md',
+        icon: 'iconfont icon-c',
+      }, {
+        text: 'C++',
+        link: '/programming/cpp/README.md',
+        icon: 'iconfont icon-cpp',
+      }, {
         text: 'Elixir',
         link: '/programming/elixir/README.md',
         icon: 'iconfont icon-elixir',
@@ -251,13 +259,9 @@ export const navbarEn = navbar([
         link: '/programming/haskell/README.md',
         icon: 'iconfont icon-haskell',
       }, {
-        text: 'C',
-        link: '/programming/c/README.md',
-        icon: 'iconfont icon-c',
-      }, {
-        text: 'C++',
-        link: '/programming/cpp/README.md',
-        icon: 'iconfont icon-cpp',
+        text: 'Scala',
+        link: '/programming/scala/README.md',
+        icon: 'iconfont icon-scala',
       }, {
         text: 'Zig',
         link: '/programming/zig/README.md',
@@ -278,6 +282,10 @@ export const navbarEn = navbar([
         text: 'Clojure',
         link: '/programming/clojure/README.md',
         icon: 'iconfont icon-clojure',
+      }, {
+        text: 'Matlab',
+        link: '/programming/matlab/README.md',
+        icon: 'iconfont icon-matlab',
       }, {
         text: 'LaTeX',
         link: '/programming/latex/README.md',
@@ -437,6 +445,10 @@ export const navbarEn = navbar([
         text: 'Tomcat',
         icon: 'iconfont icon-tomcat',
         link: '/devops/tomcat/README.md',
+      }, {
+        text: 'Wildfly',
+        icon: 'iconfont icon-wildfly',
+        link: '/devops/wildfly/README.md',
       }, {
         text: '🦖JEUS',
         link: '/devops/jeus/README.md',
@@ -626,6 +638,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-wget',
         link: '/tool/wget/README.md',
       }, {
+        text: 'curl',
+        icon: 'iconfont icon-curl',
+        link: '/tool/curl/README.md',
+      }, {
         text: 'nmap',
         icon: 'iconfont icon-nmap',
         link: '/tool/nmap/README.md',
@@ -683,7 +699,7 @@ export const navbarEn = navbar([
         link: '/hw/README.md',
       }, {
         text: 'Raspberry Pi (H/W)',
-        icon: 'fas fa-raspberry-pi',
+        icon: 'fa-brands fa-raspberry-pi',
         link: '/hw/raspberry-pi/README.md',
       }, {
         text: 'Flipper Zero',

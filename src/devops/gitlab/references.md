@@ -20,7 +20,7 @@ tag:
 
 ---
 
-## 인포그랩
+## InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공
 
 - [GitLab 16.0 릴리즈 노트](https://insight.infograb.net/blog/2023/05/24/gitlab-16-0-release-note/)
 - [GitLab 밋업으로 알아보는 Observability 이야기](https://insight.infograb.net/blog/2023/05/25/gitlab-korea-observability)
@@ -36,7 +36,7 @@ tag:
 
 ---
 
-## Gitlab
+## <FontIcon icon="fa-brands fa-gitlab"/>Gitlab
 
 - [Job succeed, but uploading artifacts fails with 500 error](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26869)
 - [Uploading artifacts fails with 500 error](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/28972)
@@ -49,9 +49,16 @@ tag:
 
 ---
 
-## Github
+## <FontIcon icon="iconfont icon-github"/>Github
 
 - [BytemarkHosting/configs-gitlab-docker](https://github.com/BytemarkHosting/configs-gitlab-docker/blob/master/docker-compose.yml)
 
+---
+
+## Life Log
+
+- [gitlab 422](https://ravenkim97.tistory.com/449)
+
+---
 
 <TagLinks />

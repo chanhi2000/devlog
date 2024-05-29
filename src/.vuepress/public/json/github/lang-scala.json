@@ -49,5 +49,10 @@
     "desc": "Chronon is a data platform for serving for AI/ML applications.",
     "officialSite": "",
     "topics": ["ai", "ml"]
+  }, {
+    "repo": "awslabs/deequ",
+    "desc": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "officialSite": "",
+    "topics": ["dataquality", "scala", "spark", "unit-testing"]
   }
 ]

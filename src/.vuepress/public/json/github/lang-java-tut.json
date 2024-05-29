@@ -79,5 +79,10 @@
     "desc": "A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.",
     "officialSite": "",
     "topics": ["aggregate", "aggregate-root", "archunit", "c4", "crud", "ddd", "ddd-architecture", "domain-driven-design", "event-storming", "events", "functions", "hexagonal-architecture", "ports-and-adapters", "spring", "vavr"]
+  }, {
+    "repo": "kdn251/interviews",
+    "desc": "Everything you need to know to get the job.",
+    "officialSite": "https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g?view_as=subscriber",
+    "topics": ["algorithm", "algorithm-challenges", "algorithm-competitions", "algorithms", "coding-challenge", "coding-challenges", "coding-interview", "coding-interviews", "interview", "interview-practice", "interview-prep", "interview-preparation", "interview-questions", "interviews", "java", "leetcode", "leetcode-java", "leetcode-questions", "leetcode-solutions", "technical-coding-interview"]
   }
 ]

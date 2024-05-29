@@ -29,4 +29,16 @@ tag:
 
 ---
 
+## Mycroft Project: Search Engine Plugins - Firefox IE Chrome
+
+- [Home](https://mycroftproject.com/)
+
+---
+
+## 다모앙
+
+- [\[초보팁\] 파이어폭스의 검색란에 검색엔진 추가하는 법](https://damoang.net/lecture/3998)
+
+---
+
 <TagLinks />

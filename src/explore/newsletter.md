@@ -314,7 +314,7 @@ https://gracefullight.dev/archive/
 {
   "title": "Smashing Magazine — For Web Designers And Developers",
   "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
-  "link": "https://smashingmagazine.com/",
+  "link": "https://smashingmagazine.com/articles/",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -396,6 +396,26 @@ https://gracefullight.dev/archive/
 
 ```component VPCard
 {
+  "title": "Learn. Build. Grow. Together.",
+  "desc": "Learn from the web’s leading experts. Build something new. Grow your career. Let’s do it together.",
+  "link": "https://www.learnwithjason.dev/",
+  "logo": "https://www.learnwithjason.dev/favicon.ico",
+  "background": "rgba(255,222,56,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Milan Jovanović | Helping You Become a Better .NET Engineer",
+  "desc": "Software Architecture • Microsoft MVP • Content Creator",
+  "link": "https://www.milanjovanovic.tech/",
+  "logo": "https://www.milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Knowledge Base",
   "desc": "Knowledge Base",
   "link": "https://iq.thc.org/",
@@ -437,19 +457,9 @@ https://gracefullight.dev/archive/
 
 ```component VPCard
 {
-  "title": "Popit | 전문 지식 공유를 위한 팀블로그",
-  "desc": "전문 지식 공유를 위한 팀블로그",
-  "link": "https://www.popit.kr/",
-  "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
-  "background": "rgba(0,21,41,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술",
+  "title": "카카오테크, 미래의 문턱을 낮추는 기술",
   "desc": "미래의 문턱을 낮추는 기술",
-  "link": "https://tech.kakao.com/",
+  "link": "https://tech.kakao.com/blog/",
   "logo": "https://www.kakaocorp.com/page/favicon.ico",
   "background": "rgba(53,79,245,0.2)"
 }
@@ -612,6 +622,16 @@ https://gracefullight.dev/archive/
 
 ```component VPCard
 {
+  "title": "Blog | HMG Developers",
+  "desc": "HMG Developer Website",
+  "link": "https://developers.hyundaimotorgroup.com/blog",
+  "logo": "https://developers.hyundaimotorgroup.com/favicon.png",
+  "background": "rgba(67,128,248,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "GS리테일 DX블로그",
   "desc": "IT 기술 블로그들의 최신 포스트를 한곳에서 보세요.",
   "link": "https://gsretail.tistory.com/",
@@ -627,6 +647,16 @@ https://gracefullight.dev/archive/
   "link": "https://hyperconnect.github.io/",
   "logo": "https://hyperconnect.github.io/assets/favicon.svg",
   "background": "rgba(240,240,240,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Popit | 전문 지식 공유를 위한 팀블로그",
+  "desc": "전문 지식 공유를 위한 팀블로그",
+  "link": "https://www.popit.kr/page/1",
+  "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
+  "background": "rgba(0,21,41,0.2)"
 }
 ```
 
@@ -666,8 +696,8 @@ https://gracefullight.dev/archive/
 
 ```component VPCard
 {
-  "title": "🦊인포그랩",
-  "desc": "GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공",
+  "title": "InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공",
+  "desc": "인포그랩 DevOps 기술 블로그는 GitLab 릴리스부터 DevOps 기술 동향, 소프트웨어 개발, 워크플로 개선, AI, GPT 등 IT전반에 이르는 기술 콘텐츠를 제공합니다.",
   "link": "https://insight.infograb.net/blog",
   "logo": "https://insight.infograb.net/img/logo-color.svg",
   "background": "rgba(23,149,106,0.2)"
@@ -921,6 +951,8 @@ https://gracefullight.dev/archive/
 ```
 
 :::
+
+https://woowacon.com/presentations
 
 ---
 

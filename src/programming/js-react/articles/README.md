@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - frontendmasters.com
   - smashingmagazine.com
   - yozm.wishket.com
   - techblog.woowahan.com
@@ -46,9 +47,19 @@ head:
 
 ```component VPCard
 {
+  "title": "Frontend Masters Boost – Helping Your Journey to Senior Developer",
+  "desc": "Helping Your Journey to Senior Developer",
+  "link": "https://frontendmasters.com/blog/",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Smashing Magazine — For Web Designers And Developers",
   "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
-  "link": "https://smashingmagazine.com/",
+  "link": "https://smashingmagazine.com/articles/",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -61,6 +72,16 @@ head:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "카카오테크, 미래의 문턱을 낮추는 기술",
+  "desc": "미래의 문턱을 낮추는 기술",
+  "link": "https://tech.kakao.com/blog/",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
 }
 ```
 
@@ -222,6 +243,42 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "React 19 – New Hooks Explained with Examples",
+  "desc": "Hi fellow readers! Web Development is a constantly evolving landscape. The whole ecosystem consists of different libraries and technologies. React is one of the most widely used libraries in web development.  There are small releases every now and then. However, this year, the React team has made a significant...",
+  "link": "/explore/articles/freecodecamp.org/react-19-new-hooks-explained-with-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## Frontend Masters Boost – Helping Your Journey to Senior Developer
+
+> frontendmasters.com
+
+```component VPCard
+{
+  "title": "Prefetching When Server Loading Won’t Do",
+  "desc": "We'll look at how to use @auth/core, add a Google Provider, and get our sessions persisting in DynamoDB. There is a GitHub repo for reference on everything.",
+  "link": "/explore/articles/frontendmasters.com/prefetching-when-server-loading-wont-do.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Combining React Server Components with react-query for Easy Data Management",
+  "desc": "Server-side component rendering can improve data loading efficiency over client-rendered SPAs. Despite their benefits, such as out-of-order streaming, they have limitations, including slow server action updates and lack of support for client-side interactivity. React Query complements RSC by managing client-side data updates, addressing some of RSC's drawbacks.",
+  "link": "/explore/articles/frontendmasters.com/combining-react-server-components-with-react-query-for-easy-data-management.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
 ---
 
 ## Smashing Magazine — For Web Designers And Developers
@@ -341,6 +398,22 @@ head:
   "link": "/explore/articles/yozm.wishket.com/2537.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+---
+
+## <FontIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
+
+> tech.kakao.com
+
+```component VPCard
+{
+  "title": "OROR Forge: Figma to Code 도구 제작기",
+  "desc": "안녕하세요, OROR 프론트엔드 팀의 테오입니다! 이번 글에서는 프론트엔...",
+  "link": "/explore/articles/tech.kakao.com/611.md",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
 }
 ```
 

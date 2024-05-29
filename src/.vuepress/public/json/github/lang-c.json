@@ -994,5 +994,10 @@
     "desc": "luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a \"compiler\" that produces standalone executables from Lua scripts.",
     "officialSite": "https://cdelord.fr/luax",
     "topics": ["c", "interpreter", "lua"]
+  }, {
+    "repo": "brian-smith-github/ch32v003_stt",
+    "desc": "Simple Speech-To-Text on the '10 cents' CH32V003 Microcontroller",
+    "officialSite": "",
+    "topics": []
   }
 ]

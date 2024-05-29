@@ -82,7 +82,7 @@ head:
 {
   "title": "Smashing Magazine — For Web Designers And Developers",
   "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
-  "link": "https://smashingmagazine.com/",
+  "link": "https://smashingmagazine.com/articles/",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }

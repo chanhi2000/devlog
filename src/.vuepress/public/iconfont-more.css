@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_7ejgihviuvh.woff2?t=1716869851612') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_7ejgihviuvh.woff?t=1716869851612') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_7ejgihviuvh.ttf?t=1716869851612') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_7ejgihviuvh.svg?t=1716869851612#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_c455btltkn6.woff2?t=1716959692886') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_c455btltkn6.woff?t=1716959692886') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_c455btltkn6.ttf?t=1716959692886') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_c455btltkn6.svg?t=1716959692886#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-matlab:before { content: "\e936"; }
+.icon-wildfly:before { content: "\e935"; }
 .icon-flipper-zero:before { content: "\e934"; }
 .icon-arduino:before { content: "\e933"; }
 .icon-flipper-zero-color:before { content: "\e932"; }

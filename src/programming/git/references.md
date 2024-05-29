@@ -82,6 +82,7 @@ head:
 - [`@eunbibi` - Merge and Conflict](https://velog.io/@eunbibi/Merge-and-Conflict)
 - [`@endmoseung` - Submodule CI/CD 통합하기](https://velog.io/@endmoseung/Submodule-CICD-%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0)
 - [`@root-devvoo` / oh-my-zsh 업데이트 에러 해결](https://velog.io/@root-devvoo/oh-my-zsh-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
+- [`@euisuk-chung` / [Git] Credential Helper로 GitHub 인증하기](https://velog.io/@euisuk-chung/Git-Credential-Helper%EB%A1%9C-GitHub-%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0)
 
 ---
 
@@ -104,7 +105,7 @@ head:
 
 ---
 
-## 인포그랩
+## InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공
 
 - [Git 커밋 메시지 자동화 가이드](https://insight.infograb.net/blog/2023/05/25/git-commit-automation)
 
@@ -191,6 +192,7 @@ head:
 - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology)
 - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality)
 - [Popular `git config` options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+- [Inside `.git`](https://jvns.ca/blog/2024/01/26/inside-git)
 
 ---
 
@@ -325,6 +327,12 @@ head:
 ## Kwoncharles Blog
 
 - [git은 폴더경로가 변경된 것을 어떻게 알 수 있을까?](https://kwoncheol.me/posts/git-rename-inference)
+
+---
+
+## Koo's Devlog
+
+- [\[Git\] 커밋 메시지 스타일 가이드 (컨벤션) / Commit message style guide (Convention)](https://sungwookoo.tistory.com/1)
 
 ---
 

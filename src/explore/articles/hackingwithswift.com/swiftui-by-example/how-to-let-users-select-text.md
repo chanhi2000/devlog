@@ -111,7 +111,7 @@ You need to press and hold directly on the text in a row rather than anywhere el
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users select pictures using PhotosPicker",
+  "title": "How to let users select pictures using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users select pictures using PhotosPicker",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-pictures-using-photospicker.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -121,7 +121,7 @@ You need to press and hold directly on the text in a row rather than anywhere el
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users select a color with ColorPicker",
+  "title": "How to let users select a color with ColorPicker | SwiftUI by Example",
   "desc": "How to let users select a color with ColorPicker",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-a-color-with-colorpicker.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",
@@ -141,7 +141,7 @@ You need to press and hold directly on the text in a row rather than anywhere el
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users find and replace text",
+  "title": "How to let users find and replace text | SwiftUI by Example",
   "desc": "How to let users find and replace text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-find-and-replace-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

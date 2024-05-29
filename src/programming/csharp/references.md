@@ -65,12 +65,19 @@ tag:
 - [`turalsuleymani` / C# Delegates In Practice — Implementing Observer Pattern With Delegates](https://dev.to/turalsuleymani/c-delegates-in-practice-implementing-observer-pattern-with-delegates-54dh)
 - [`rasulhsn` / A Different Perspective of Stack Memory in .NET](https://dev.to/rasulhsn/a-different-perspective-of-stack-memory-in-net-33oc)
 - [`antonmartyniuk` / Mastering Exception Handling in C#: A Comprehensive Guide](https://dev.to/antonmartyniuk/mastering-exception-handling-in-c-a-comprehensive-guide-3e50)
+- [`bytehide` / How to Sort Arrays and Lists in C#](https://dev.to/bytehide/how-to-sort-arrays-and-lists-in-c-53m0)
 
 ---
 
 ## <FontIcon icon="fa-brands fa-redhat"/>Red Hat Developers
 
 - [Some more C# 12](https://developers.redhat.com/articles/2024/04/30/some-more-c-12)
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+- [How to Build a URL Shortener With .NET](https://milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet) <!-- TODO: 작성 (/explore/articles/milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet.md) -->
 
 ---
 
@@ -177,6 +184,7 @@ tag:
 
 ## Telerik
 
+- [Unified Blazor Web App Project Template Fully Explained](https://www.telerik.com/blogs/unified-blazor-web-app-project-template-fully-explained)  
 - [ASP.NET Core Basics: ASP.NET Core Overview](https://www.telerik.com/blogs/aspnet-core-basics-aspnet-core-overview)
 - [ASP.NET Core Basics: Build a Complete CRUD Application with VS Code](https://www.telerik.com/blogs/aspnet-core-basics-build-complete-crud-application-vs-code)
 
@@ -228,6 +236,7 @@ tag:
 - [Dapper (ORM) 과 EF 비교하여 WHERE 조건 검색 비교하기](https://aspdotnet.tistory.com/3189)
 - [C# : LINQ 를 활용한 차집합과 교집합 구하기 (Except, Intersect)](https://aspdotnet.tistory.com/3202)
 - [ASP.NET CORE 8 : FLY.IO 설치 및 배포하기](https://aspdotnet.tistory.com/3203)
+- [ASP.NET MVC : IIS 환경, 특정 HTTP 메서드(verbs)만을 허용 (WEB.CONFIG)](https://aspdotnet.tistory.com/3214)
 
 ---
 
@@ -264,6 +273,42 @@ tag:
 ## The Shade Tree Developer
 
 - [Linked Lists in Real Life](https://jeremydmiller.com/2024/05/06/linked-lists-in-real-life/)
+
+---
+
+## Steven Giesel
+
+- [Lock statement patterns](https://steven-giesel.com/blogPost/4cf6d48a-ec9d-4c68-961c-31fd8d8c1340)
+
+---
+
+## Petabridge Brings Akka.NET, NBench, and .NET OSS to the Enterprise | Petabridge
+
+- [.NET Performance Optimization: Deferred Allocations](https://petabridge.com/blog/net-performance-deferred-allocation/)
+
+---
+
+## Andrew Lock | .NET Escapades
+
+- [8 ways to set the URLs for an ASP.NET Core app](https://andrewlock.net/8-ways-to-set-the-urls-for-an-aspnetcore-app/)
+
+---
+
+## Tim Deschryver
+
+- [Translating Exceptions into Problem Details Responses](https://timdeschryver.dev/blog/translating-exceptions-into-problem-details-responses)
+
+---
+
+## BinaryIntellect Knowledge Base | .NET & Web Development KB By Bipin Joshi
+
+- [Develop ASP.NET Core Apps Using Visual Studio Code](https://www.binaryintellect.net/articles/d0301c4d-9cf0-4421-86ad-aff3334d678f.aspx)
+
+---
+
+## Dev Leader – Level Up Your Software Engineering - Dev Leader
+
+- [Ultimate Starter Guide To Middleware In ASP.NET Core: Everything You Need To Know](https://www.devleader.ca/2024/02/01/ultimate-starter-guide-to-middleware-in-asp-net-core-everything-you-need-to-know)
 
 ---
 

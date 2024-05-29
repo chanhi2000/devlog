@@ -26,7 +26,7 @@ head:
     - property: og:description
       content: Maven > Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/programming/maven/youtube.html
+      content: https://chanhi2000.github.io/programming/mvn/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

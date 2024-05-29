@@ -9,24 +9,31 @@ category:
   - Article(s)
 tag: 
   - blog
+  - smashingmagazine.com
   - yozm.wishket.com
   - career
   - tips
 head:
   - - meta:
     - property: og:title
-      content: 요Career > Article(s)
+      content: Career > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/explore/career/articles/
+      content: https://chanhi2000.github.io/projects/career/articles/
 ---
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
+```component VPCard
+{
+  "title": "Smashing Magazine — For Web Designers And Developers",
+  "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
+  "link": "https://smashingmagazine.com/articles/",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -35,6 +42,24 @@ head:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+[[toc]]
+
+---
+
+## Smashing Magazine — For Web Designers And Developers
+
+> smashingmagazine.com
+
+```component VPCard
+{
+  "title": "Transforming The Relationship Between Designers And Developers",
+  "desc": "Should you hide or disable a feature? You’ve probably been there before. Here are some considerations for hiding versus disabling, along with possible alternatives to improve UX. An upcoming part of Smart Interface Design Patterns.",
+  "link": "/explore/articles/smashingmagazine.com/transforming-relationship-between-designers-developers.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
 }
 ```
 

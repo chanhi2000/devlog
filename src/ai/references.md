@@ -33,6 +33,11 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`towardsdatascience`/ The Math Behind the Adam Optimizer](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/the-math-behind-adam-optimizer.md) -->
+
+
 ## Pega Devlog
 
 - [생성 AI 연구 활용 한계와 제언](https://jehyunlee.github.io/2024/05/24/General-53-genaipapersurvey/)

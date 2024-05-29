@@ -1519,5 +1519,10 @@
     "desc": "Linux virtual machines, with a focus on running containers",
     "officialSite": "https://lima-vm.io/",
     "topics": ["containerd", "macos", "qemu", "vm"]
+  }, {
+    "repo": "getsavvyinc/savvy-cli",
+    "desc": "Create, share, and run runbooks from your terminal. ",
+    "officialSite": "https://getsavvy.so",
+    "topics": ["ai", "automation", "charmbracelet", "cli", "devops", "devtool", "go", "golang", "incident-response", "llm", "oncall", "oncall-engineers", "playbooks", "runbooks", "security-audit", "sre", "support", "support-engineers", "terminal"]
   }
 ]

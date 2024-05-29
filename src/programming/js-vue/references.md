@@ -125,4 +125,10 @@ head:
 
 ---
 
+## CTRL+Z - a blog about Django
+
+- [Add Vue to your Django templates with Vite](https://ctrlzblog.com/add-vue-to-your-django-templates-with-vite)
+
+---
+
 <TagLinks />

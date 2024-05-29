@@ -35,6 +35,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`stackademic` / What Every Android Developer Should Have in Their GitHub?](https://blog.stackademic.com/what-every-android-developer-should-have-in-their-github-de8deab051b9)
 - [`mcdonalds-technical-blog`: Reduce, reuse, recycle: McDonald's reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
 
 ---
@@ -59,7 +60,7 @@ tag:
 
 ---
 
-## 인포그랩
+## InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공
 
 - [GitLab VS GitHub 차이점 단기 속성으로 알아보기](https://insight.infograb.net/blog/2023/08/29/gitlab-vs-github)
 
@@ -144,6 +145,7 @@ tag:
 ## yan
 
 - [[Infra] NestJS & Github Action 빌드 개선하기 (1 : CI build - ci.yml 개선)](https://iio-nff.tistory.com/4)
+- [\[Infra\] NestJS & Github Action 빌드 개선하기 (2 : CD build - cd.yml 파일 개선)](https://iio-nff.tistory.com/5)
 
 ---
 

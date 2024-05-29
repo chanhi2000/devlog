@@ -24,5 +24,10 @@
     "desc": "Lightweight, robust, elegant virtual syntax highlighting using Prism",
     "officialSite": "",
     "topics": ["hast", "highlight", "html", "react", "syntax", "syntax-highlighting", "vdom", "virtual", "virtual-dom"]
+  }, {
+    "repo": "apicodev/example-react-todo-google-sheets",
+    "desc": "Sample repository showcasing how to create a Todo app with React and Google Sheets as the backend",
+    "officialSite": "https://apico.dev/blog/gsheet-datasbase-blog",
+    "topics": ["api"]
   }
 ]

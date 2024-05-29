@@ -614,5 +614,15 @@
     "desc": "This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. ",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "iyaja/llama-fs",
+    "desc": "A self-organizing file system with llama 3",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "2noise/ChatTTS",
+    "desc": "ChatTTS is a generative speech model for daily dialogue.",
+    "officialSite": "https://2noise.com/",
+    "topics": ["agent", "text-to-speech"]
   }
 ]

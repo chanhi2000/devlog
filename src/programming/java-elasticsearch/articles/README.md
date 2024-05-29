@@ -31,7 +31,7 @@ head:
 {
   "title": "Popit | 전문 지식 공유를 위한 팀블로그",
   "desc": "전문 지식 공유를 위한 팀블로그",
-  "link": "https://www.popit.kr/",
+  "link": "https://www.popit.kr/page/1",
   "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
   "background": "rgba(0,21,41,0.2)"
 }

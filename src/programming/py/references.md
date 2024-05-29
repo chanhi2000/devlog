@@ -115,6 +115,7 @@ tag:
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`crawlee` / Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
+- [`taipy` / Specialized Python libraries for Unique Taskss](https://dev.to/taipy/specialized-python-libraries-for-unique-tasks-5dgm)
 
 ---
 
@@ -125,6 +126,7 @@ tag:
 - [`bitecode` / Light speed with Python and JS](https://www.bitecode.dev/p/light-speed-with-python-and-js)
 - [`johnloewen` / High Impact Python Streamlit: Beautiful Interactive Maps and Charts](https://johnloewen.substack.com/p/high-impact-python-streamlit-beautiful)
 - [`johnloewen` / Simple Interactive Python Streamlit Maps That Will Make You Shout](https://johnloewen.substack.com/p/simple-interactive-python-streamlit)
+- [`bitecode` / Python as a configuration language](https://www.bitecode.dev/p/python-as-a-configuration-language)
 
 ---
 
@@ -498,11 +500,15 @@ tag:
 
 ---
 
-## Google
+## <FontIcon icon="fa-brands fa-google"/>Google
 
 ### Google Open Source
 
 - [https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+
+### Google Research
+
+- [Graph neural networks in TensorFlow](https://research.google/blog/graph-neural-networks-in-tensorflow/)
 
 ---
 
@@ -850,7 +856,7 @@ tag:
 
 ## 뽀글뽀글 개발 일지
 
-- [MyBatis INSERT 시 Auto Increment 값 리턴 받기](https://bbogle2.tistory.com/entry/MyBatis-INSERT-%EC%8B%9C-Auto-Increment-%EA%B0%92-%EB%A6%AC%ED%84%B4-%EB%B0%9B%EA%B8%B0)
+- [DOM](https://bbogle2.tistory.com/entry/DOM)
 
 ---
 
@@ -915,6 +921,7 @@ tag:
 
 ## Jacob Padilla
 
+- [Advanced Web Scraping With Python: Extract Data From Any Site](https://jacobpadilla.com/articles/advanced-web-scraping-techniques)
 - [How Python Asyncio Works: Recreating it from Scratch](https://jacobpadilla.com/articles/recreating-asyncio)
 
 ---
@@ -965,6 +972,7 @@ tag:
 ## Matt Stuchlik
 
 - [Counting CPU Instructions in Python](https://blog.mattstuchlik.com/2024/02/08/counting-cpu-instructions-in-python.html)
+- [Tracing System Calls in Python](https://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
 
 ---
 
@@ -1090,6 +1098,7 @@ tag:
 
 ## Mouse Vs Python - Where You Can Learn All About Python Programming
 
+- [How to Watermark a Graph with Matplotlib](https://www.blog.pythonlibrary.org/2024/04/30/how-to-watermark-a-graph-with-matplotlib)
 - [How to Read and Write Parquet Files with Python](https://www.blog.pythonlibrary.org/2024/05/06/how-to-read-and-write-parquet-files-with-python/)
 
 ---
@@ -1150,6 +1159,7 @@ tag:
 
 ## Pybites - We Create Python Developers
 
+- [Exploring the Role of Static Methods in Python: A Functional Perspective](https://pybit.es/articles/exploring-the-role-of-static-methods-in-python-a-functional-perspective/)
 - [Python F-String Codes I Use Every Day](https://pybit.es/articles/python-f-string-codes-i-use-every-day/)
 
 ---
@@ -1180,6 +1190,7 @@ tag:
 
 ## miguelgrinberg.com
 
+- [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
 - [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
 
 ---
@@ -1196,9 +1207,84 @@ tag:
 
 ---
 
-## Mouse Vs Python - Where You Can Learn All About Python Programming
+## tinlizzie.org
 
-- [How to Watermark a Graph with Matplotlib](https://www.blog.pythonlibrary.org/2024/04/30/how-to-watermark-a-graph-with-matplotlib)
+- [Shadama: A Particle Simulation](https://tinlizzie.org/~ohshima/shadama2/live2017/)
+
+---
+
+## Roman Imankulov
+
+- [Handling Unset Values in Fastapi With Pydantic](https://roman.pt/posts/handling-unset-values-in-fastapi-with-pydantic/)
+
+---
+
+## NicholasHairs.com
+
+- [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/)
+
+---
+
+## Strumenta - Language Engineering Experts
+
+- [Implement Parsers with Pylasu](https://tomassetti.me/implement-parsers-with-pylasu)
+
+---
+
+## Timo Zimmermann
+
+- [Safely rewriting complex code](https://www.screamingatmyscreen.com/safely-rewriting-complex-code/)
+
+---
+
+## Martin Heinz | Personal Website & Blog
+
+- [Everything You Can Do with Python's textwrap Module](https://martinheinz.dev/blog/108)
+
+---
+
+## Agile & Coding
+
+- [Python Monorepo Visualization](https://davidvujic.blogspot.com/2024/02/python-monorepo-visualization.html)
+
+---
+
+## Some Random Website
+
+- [Floats Are Weird](https://a.exozy.me/posts/floats-weird)
+
+---
+
+## death and gravity
+
+- [This is not interview advice: a priority-expiry LRU cache without heaps or trees in Python](https://death.andgravity.com/lru-cache)
+
+---
+
+## Write faster Python code, and ship your code faster
+
+- [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
+
+---
+
+## TechBeamers: Programming & Testing Help
+
+- [How Do You Filter a List in Python?](https://techbeamers.com/how-do-you-filter-a-list-in-python)
+
+---
+
+## MadeByMe
+
+- [Performance Analysis of Python’s `dict()` and `{}`](https://madebyme.today/blog/python-dict-vs-curly-brackets)
+
+---
+
+## Arie Bovenberg
+
+- [Ten Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
+
+---
+
 
 
 <TagLinks />

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Flipper Zero
 description: Flipper Zero
-icon: fas fa-microchip
+icon: iconfont icon-flipper-zero
 category:
   - Flipper Zero
 tag:

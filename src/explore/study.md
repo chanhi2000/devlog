@@ -433,6 +433,12 @@ https://www.joinc.co.kr/w/Site
   logo="https://www.epicweb.dev/favicon.ico"
   preview="https://res.cloudinary.com/epic-web/image/upload/v1704808424/card-tutorials_2x.png"/>
 
+<SiteInfo
+  name="Electromagnetic Waves and Antennas"
+  desc="by Sophocles J. Orfanidis (Rutgers University)"
+  url="https://www.ece.rutgers.edu/~orfanidi/ewa/"
+  preview="https://www.ece.rutgers.edu/~orfanidi/ewa/cover2016.jpg"/>
+  
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet

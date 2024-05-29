@@ -71,4 +71,10 @@ head:
 
 ---
 
+## Stack Builders
+
+- [A QuickCheck Tutorial: Generators](https://www.stackbuilders.com/blog/a-quickcheck-tutorial-generators/)
+
+---
+
 <TagLinks />

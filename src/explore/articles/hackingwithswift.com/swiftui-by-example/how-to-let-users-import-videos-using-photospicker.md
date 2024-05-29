@@ -184,7 +184,7 @@ Hopefully Apple can find a way to simplify this API in the future, but until the
 
 ```component VPCard
 {
-  "title": "Article(s) > How to let users find and replace text",
+  "title": "How to let users find and replace text | SwiftUI by Example",
   "desc": "How to let users find and replace text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-find-and-replace-text.md",
   "logo": "https://www.hackingwithswift.com/favicon.svg",

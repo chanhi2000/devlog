@@ -119,7 +119,6 @@ tag:
 - [`watcha` / 웹브라우저에서 동작하는 녹화앱 만들기](https://medium.com/watcha/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EB%85%B9%ED%99%94%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-70142ce28994)
 - [`naver-place-dev` / 자바스크립트와 V8 엔진의 메모리 관리 프로세스 \[ko\]](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 
-
 ---
 
 ## 푸르고
@@ -297,5 +296,42 @@ tag:
 
 - [Finally Understanding How `Array.sort(comparator)` Works](https://www.jameskerr.blog/posts/javascript-sort-comparators/)
 
+---
+
+## Scientyfic World • Content That Helps People
+
+- [How to optimize the React DOM size?](https://scientyficworld.org/how-to-optimize-the-dom-size-in-react-js) <!-- TODO: 작성 (/explore/articles/scientyficworld.org/how-to-optimize-the-dom-size-in-react-js.md) -->
+
+---
+
+## Better Code & Better Software | Ultimate Security and Quality | Sonar
+
+- [Union, intersection, difference, and more are coming to JavaScript Sets](https://sonarsource.com/blog/union-intersection-difference-javascript-sets) <!-- TODO: 작성 (/explore/articles/sonarsource.com/union-intersection-difference-javascript-sets.md) -->
+
+---
+
+## Mayank
+
+- [A practical guide to using shadow DOM](https://www.mayank.co/blog/declarative-shadow-dom-guide/)
+
+---
+
+## GeeksforGeeks | A computer science portal for geeks
+
+- [7 Common Programming Principles That Every Developer Must Follow](https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow)
+
+---
+
+## zineeworld
+
+- [keyup 이벤트와 input 이벤트의 차이](https://zinee-world.tistory.com/646)
+
+---
+
+## 뽀글뽀글 개발 일지
+
+- [\[JS\] Hoisting](https://bbogle2.tistory.com/entry/JS-Hoisting)
+
+---
 
 <TagLinks />

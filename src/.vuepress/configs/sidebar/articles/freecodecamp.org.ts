@@ -29,6 +29,8 @@ export const template: SidebarInfoTemplate = {
       "what-is-dead-zone-in-javascript", // 2024.03.28
       "how-to-run-postgres-in-kubernetes",  // 2024.05.08
       "how-to-create-a-rest-api-without-a-server", // 2024.05.20
+      "a-guide-to-the-node-js-event-loop", // 2024.05.28
+      "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024.05.28
     ]],[
     "js-react", [
       "how-to-use-react-server-components", // 2024.01.08
@@ -43,6 +45,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-store-data-locally-in-react-native-expo",  // 2024.05.13
       "zustand-vs-usestate-how-to-manage-state-in-react", // 2024.05.15
       "how-to-style-react-components", // 2024.05.22
+      "react-19-new-hooks-explained-with-examples", // 2024.05.28
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024.04.25
@@ -106,6 +109,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "aws", [
       "what-is-amazon-ec2-auto-scaling", // 2024.05.06
+      "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024.05.28
     ]],[
     "azure", [
      "how-to-run-postgres-in-kubernetes",  // 2024.05.08
@@ -179,6 +183,9 @@ export const template: SidebarInfoTemplate = {
       "minimum-viable-product-between-an-idea-and-the-product", // 2024.05.24
       "build-crud-operations-with-dotnet-core-handbook", // 2024.05.24
       "how-to-manipulate-strings-in-javascript", // 2024.05.24
+      "a-guide-to-the-node-js-event-loop", // 2024.05.28
+      "react-19-new-hooks-explained-with-examples", // 2024.05.28
+      "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024.05.28
     ]],
   ]),
 }

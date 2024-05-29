@@ -125,6 +125,9 @@ tag:
 - [`@l2hyunwoo` / Efficient Layout(View Based) in Android](https://medium.com/@l2hyunwoo/efficient-layout-view-based-in-android-5a8fe9480969)
 - [`@nachare.reena8` / Integrating Ktor in Your Android App Like a Pro!](https://medium.com/@nachare.reena8/integrating-ktor-in-your-android-app-like-a-pro-74412db642ff)
 - [`@ragnorak-dev` / My first impressions of Compose multiplatform for web (Kotlin/Js — Kotlin/Wasm)](https://medium.com/@ragnorak-dev/my-first-feelings-with-compose-multiplatform-for-web-js-kotlin-wasm-91de8022d093)
+- [`stackademic` / What Every Android Developer Should Have in Their GitHub?](https://blog.stackademic.com/what-every-android-developer-should-have-in-their-github-de8deab051b9)
+- [`proandroiddev` / Room Relationships Explained](https://proandroiddev.com/room-database-relationships-explained-729d3c705fd9)
+- [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
 
 ---
 

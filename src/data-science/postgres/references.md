@@ -279,4 +279,10 @@ head:
 
 ---
 
+## 기억보단 기록을
+
+- [\[PostgreSQL\] Nested Loop Join을 HashJoin으로 개선하기](https://jojoldu.tistory.com/784)
+
+---
+
 <TagLinks />

@@ -32,6 +32,10 @@ head:
 
 ## <FontIcon icon="fa-brands fa-java"/>Java
 
+### InfoQ
+
+- [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java/)
+
 ### 인프런
 
 - [테스트 도중 에러 발생](https://www.inflearn.com/questions/15495/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%A4%91-%EC%97%90%EB%9F%AC-%EB%B0%9C%EC%83%9D)
@@ -185,6 +189,7 @@ head:
 - [[내일배움캠프 5주차 WIL] Spring과 개인과제 그리고 독서토론](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%A3%BC%EC%B0%A8-WIL-Spring%EA%B3%BC-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
 - [[내일배움캠프 27일차 TIL] Spring 실습과 다양한 개념](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-27%EC%9D%BC%EC%B0%A8-TIL-Spring-%EC%8B%A4%EC%8A%B5%EA%B3%BC-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B0%9C%EB%85%90)
 - [[내일배움캠프 26일차 TIL] 모의면접과 Entity 연관 관계](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-26%EC%9D%BC%EC%B0%A8-TIL-%EB%AA%A8%EC%9D%98%EB%A9%B4%EC%A0%91%EA%B3%BC-Entity-%EC%97%B0%EA%B4%80-%EA%B4%80%EA%B3%84)
+- [\[내일배움캠프 29일차 TIL\] entity 연관관계 프로젝트 적용](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-29%EC%9D%BC%EC%B0%A8-TIL-entity-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9A%A9)
 
 ### Hide
 
@@ -215,6 +220,7 @@ head:
 - [Spring DTO + 파일 전송](https://bbogle2.tistory.com/entry/Spring-DTO-%ED%8C%8C%EC%9D%BC-%EC%A0%84%EC%86%A1)
 - [Spring Security 중복 로그인 방지](https://bbogle2.tistory.com/entry/Spring-Security-%EC%A4%91%EB%B3%B5-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%A9%EC%A7%80)
 - [Mybatis resultMap으로 쿼리 결과 하나의 DTO에 매핑하기 & Enum 매핑](https://bbogle2.tistory.com/entry/Mybatis-resultMap%EC%9C%BC%EB%A1%9C-%EC%BF%BC%EB%A6%AC-%EA%B2%B0%EA%B3%BC-%ED%95%98%EB%82%98%EC%9D%98-DTO%EC%97%90-%EB%A7%A4%ED%95%91%ED%95%98%EA%B8%B0-Enum-%EB%A7%A4%ED%95%91)
+- [MyBatis INSERT 시 Auto Increment 값 리턴 받기](https://bbogle2.tistory.com/entry/MyBatis-INSERT-%EC%8B%9C-Auto-Increment-%EA%B0%92-%EB%A6%AC%ED%84%B4-%EB%B0%9B%EA%B8%B0)
 
 ### SivaLabs
 
@@ -230,7 +236,13 @@ head:
 
 ### Vlad Mihalcea
 
+- [Hibernate StatelessSession JDBC Batching](https://vladmihalcea.com/hibernate-statelesssession-jdbc-batching)
 - [The best way to use the JPA OneToOne optional attribute](https://vladmihalcea.com/best-way-onetoone-optional/)
+- [How to use Java Records with Spring Data JPA](https://vladmihalcea.com/records-spring-data-jpa)
+
+### Unlogged - Replay production traffic locally!
+
+- [SpringBoot vs Quarkus vs Micronaut](https://unlogged.io/post/springboot-vs-quarkus-vs-micronaut?ref=sangkon.com)
 
 ---
 

@@ -44,8 +44,9 @@ tag:
 
 ---
 
-## Photon Designer
+## Photon Designer | Build your frontend faster than ever before
 
+- [Build a Django AI colorization app 🎨🦾](https://www.photondesigner.com/articles/webhooks-ai-color?)
 - [Create a quiz app with HTMX and Django in 8 mins ☑️](https://www.photondesigner.com/articles/quiz-htmx)
 
 ---
@@ -87,6 +88,24 @@ tag:
 ## Circumeo - Django Hosting
 
 - [Building a Voice Notes App with Django and OpenAI](https://circumeo.io/blog/entry/building-a-voice-notes-app-with-django-and-openai/)
+
+---
+
+## CTRL+Z - a blog about Django
+
+- [Add Vue to your Django templates with Vite](https://ctrlzblog.com/add-vue-to-your-django-templates-with-vite)
+
+---
+
+## Anže's Blog
+
+- [Django, SQLite, and the Database is Locked Error](https://blog.pecar.me/django-sqlite-dblock)
+
+---
+
+## Paolo Melchiorre - paulox 👨‍💻
+
+- [My Django roadmap ideas 💡](https://www.paulox.net/2024/01/19/my-django-roadmap-ideas)
 
 ---
 

@@ -10,6 +10,7 @@ export const template: SidebarInfoTemplate = {
     ]], [
     "js-react", [
       "prefetching-when-server-loading-wont-do", // 2024.05.15
+      "combining-react-server-components-with-react-query-for-easy-data-management", // 2024.05.24
     ]], [
     "js-svelte", [
       "using-nextauth-now-auth-js-with-sveltekit", // 2024.04.29
@@ -27,7 +28,9 @@ export const template: SidebarInfoTemplate = {
       "using-css-scroll-driven-animations-for-section-based-scroll-progress-indicators", // 2024.05.10
       "the-classic-border-radius-advice-plus-an-unusual-trick", // 2024.05.13
       "weve-got-container-queries-now-but-are-we-actually-using-them", // 2024.05.21
-    ]], [
+      "danger-preventing-zoom-from-changing-text-size", // 2024.05.22
+      "animating-dialog", // 2024.05.23
+  ]], [
     "all", [
       "drawing-a-line-to-connect-elements-with-css-anchor-positioning", // 2024.04.02
       "a-css-powered-add-remove-tags-ui", // 2024.04.11
@@ -44,6 +47,9 @@ export const template: SidebarInfoTemplate = {
       "the-classic-border-radius-advice-plus-an-unusual-trick", // 2024.05.13
       "prefetching-when-server-loading-wont-do", // 2024.05.15
       "weve-got-container-queries-now-but-are-we-actually-using-them", // 2024.05.21
+      "danger-preventing-zoom-from-changing-text-size", // 2024.05.22
+      "animating-dialog", // 2024.05.23
+      "combining-react-server-components-with-react-query-for-easy-data-management", // 2024.05.24
     ]]
   ])
 }

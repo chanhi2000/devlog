@@ -267,6 +267,8 @@ tag:
 - [[내일배움캠프 17일차 TIL] `enum` & `final` 및 팀 프로젝트(필수 기능)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-17%EC%9D%BC%EC%B0%A8-TIL-enum-final-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%84%EC%88%98-%EA%B8%B0%EB%8A%A5)
 - [[내일배움캠프 21일차 TIL] 3 Layer Architecture와 SQL](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-21%EC%9D%BC%EC%B0%A8-TIL-3-Layer-Architecture%EC%99%80-SQL)
 - [[프로그래머스] 크기가 작은 부분 문자열 level 1 - Java](https://moonnight0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%81%AC%EA%B8%B0%EA%B0%80-%EC%9E%91%EC%9D%80-%EB%B6%80%EB%B6%84-%EB%AC%B8%EC%9E%90%EC%97%B4-level-1-Java)
+- [\[프로그래머스\] 시저 암호 level 1 - Java](https://moonnight0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8-level-1-Java)
+
 
 ### 류광의 번역 이야기
 
@@ -400,6 +402,22 @@ tag:
 
 - [Java 23: The New Features are Officially Announced](https://coderoasis.com/java-23-new-features)
 
+### Josh Austin
+
+- [Java is becoming more like Rust, and I am here for it!](https://joshaustin.tech/blog/java-is-becoming-rust/)
+
+### GC easy – Universal Java GC Log Analyser
+
+- [GraalVM vs OpenJDK GC Performance Comparison](https://blog.gceasy.io/2023/10/04/graalvm-vs-openjdk-gc-performance-comparison)
+
+### PVS‑Studio is a solution to enhance code quality, security (SAST), and safety
+
+- [OOP in real-life cases](https://pvs-studio.com/en/blog/posts/java/1103/)
+
+### Stephen Colebourne's blog
+
+- [Pattern match Optional in Java 21](https://blog.joda.org/2024/02/pattern-match-optional-in-java-21.html)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -420,7 +438,9 @@ tag:
 - [Test expected exceptions in Kotlin](https://stackoverflow.com/questions/30331806/test-expected-exceptions-in-kotlin/34556914)
 - [How to get String UUID in JPA and store as VARCHAR in Postgresql database?](https://stackoverflow.com/questions/76346452/how-to-get-string-uuid-in-jpa-and-store-as-varchar-in-postgresql-database)
 
-### 카카오페이 기술 블로그
+### <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+#### 카카오페이 기술 블로그
 
 - [MSA 환경에서 네트워크 예외를 잘 다루는 방법](https://tech.kakaopay.com/post/msa-transaction/)
 
@@ -467,6 +487,7 @@ tag:
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`lucasfugisawa` / Kotlin Design Patterns: Simplifying the Builder Pattern](https://dev.to/lucasfugisawa/kotlin-design-patterns-simplifying-the-builder-pattern-3e7g)
 - [`mrkandreev` / How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)
 - [`@daredev` / Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
 

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Answering the big question - should you learn SwiftUI, UIKit, or both?
-description: Article(s) > Answering the big question - should you learn SwiftUI, UIKit, or both?
+title: "Answering the big question: should you learn SwiftUI, UIKit, or both?"
+description: "Article(s) > Answering the big question: should you learn SwiftUI, UIKit, or both?"
 category:
   - Swift
   - SwiftUI
@@ -17,9 +17,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > Answering the big question - should you learn SwiftUI, UIKit, or both?
+      content: "Article(s) > Answering the big question: should you learn SwiftUI, UIKit, or both?"
     - property: og:description
-      content: Answering the big question - should you learn SwiftUI, UIKit, or both?
+      content: "Answering the big question: should you learn SwiftUI, UIKit, or both?"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-vs-interface-builder-and-storyboards.html
 ---

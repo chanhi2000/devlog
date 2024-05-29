@@ -92,6 +92,8 @@ head:
 - [`@kandy1002` / [Terraform] Key encryption with Sops & AWS KMS](https://velog.io/@kandy1002/Terraform-Key-encryption-with-Sops-AWS-KMS)
 - [`@root-devvoo` / AWS CloudWatch를 통한 프로세스 모니터링 및 재시작 적용](https://velog.io/@root-devvoo/AWS-CloudWatch%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%8F-%EC%9E%AC%EC%8B%9C%EC%9E%91-%EC%A0%81%EC%9A%A9)
 - [`@root-devvoo` / AWS CodePipeline 알림을 위한 AWS Chatbot + Slack 연결](https://velog.io/@root-devvoo/AWS-CodePipeline-%EC%95%8C%EB%A6%BC%EC%9D%84-%EC%9C%84%ED%95%9C-AWS-Chatbot-Slack-%EC%97%B0%EA%B2%B0)
+- [`@root-devvoo` / AWS SSM Parameter Store 값 환경변수 주입방법](https://velog.io/@root-devvoo/External-Secrets%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Amazon-EKSFargate-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-Pod%EB%82%B4-SSM-Parameter-Store-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%A3%BC%EC%9E%85-%EB%B0%A9%EB%B2%95)
+- [`@stella6767` / 2년간 스타트업 서버 아키텍처 개선기](https://velog.io/@stella6767/2%EB%85%84%EA%B0%84-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%84%9C%EB%B2%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%EC%84%A0%EA%B8%B0)
 
 ---
 

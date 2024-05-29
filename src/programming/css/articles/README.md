@@ -9,8 +9,9 @@ category:
 tag: 
   - blog
   - freecodecamp.org
-  - yozm.wishket.com
   - frontendmasters.com
+  - smashingmagazine.com
+  - yozm.wishket.com
   - piccalil.li
   - meetup.nhncloud.com
   - sitepoint.com
@@ -40,21 +41,31 @@ head:
 
 ```component VPCard
 {
-  "title": "요즘IT", 
-  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
-  "link": "https://yozm.wishket.com/magazine/list/develop/", 
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "Frontend Masters Boost – Helping Your Journey to Senior Developer",
   "desc": "Helping Your Journey to Senior Developer",
   "link": "https://frontendmasters.com/blog/",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Smashing Magazine — For Web Designers And Developers",
+  "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
+  "link": "https://smashingmagazine.com/articles/",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -113,22 +124,6 @@ head:
   "link": "/explore/articles/freecodecamp.org/how-to-add-media-to-your-html-email-template.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
-}
-```
-
----
-
-## 요즘IT
-
-> yozm.wishket.com
-
-```component VPCard
-{
-  "title": "UI 라이브러리 개발 일지: HTML 푸터 배치와 설계 원칙 | 요즘IT",
-  "desc": "UI 라이브러리 개발 일지: HTML 푸터 배치와 설계 원칙",
-  "link": "/explore/articles/yozm.wishket.com/2449.md",
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -255,6 +250,88 @@ head:
   "link": "/explore/articles/frontendmasters.com/weve-got-container-queries-now-but-are-we-actually-using-them.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "(Danger!) Preventing Zoom from Changing Text Size",
+  "desc": "Zooming in browsers is an accessibility feature. I’d say that any attempt to fight against it is bad form. Don’t do it. Leave it be. I have seen compelling examples of ways to code that work with browser zoom that help make a site look nicer when high levels of zoom are applied. But they […]",
+  "link": "/explore/articles/frontendmasters.com/danger-preventing-zoom-from-changing-text-size.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Animating the Dialog Element",
+  "desc": "It might seem like you could just set a transition on the opacity of the dialog element in CSS from 0 to 1, but it doesn't work. You'll need to learn about @starting-style, and the overlay and allow-discrete keywords.",
+  "link": "/explore/articles/frontendmasters.com/animating-dialog.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+---
+
+## Smashing Magazine — For Web Designers And Developers
+
+> smashingmagazine.com
+
+```component VPCard
+{
+  "title": "The Times You Need A Custom @property Instead Of A CSS Variable",
+  "desc": "Preethi Sam walks through an example that demonstrates where custom properties are more suitable than variables while showcasing the greater freedom and flexibility that custom properties provide for designing complex, refined animations.",
+  "link": "/explore/articles/smashingmagazine.com/switimes-need-custom-property-instead-css-variable.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Beyond CSS Media Queries",
+  "desc": "Juan Diego Rodriguez explains why media queries still occupy a vital role in responsive layouts; only they are now one tool in a larger toolbox with modern techniques that are best when used together.",
+  "link": "/explore/articles/smashingmagazine.com/beyond-css-media-queries.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Modern CSS Layouts: You Might Not Need A Framework For That",
+  "desc": "It’s easy to get lost in a sea of CSS frameworks and libraries, each promising easier styling and smoother layouts. Brecht De Ruyte demonstrates four CSS utility classes (plus a bonus) using techniques that allow them to be used practically anywhere you need a particular layout — be it Grid or Flexbox — with configurable options.",
+  "link": "/explore/articles/smashingmagazine.com/modern-css-layouts-no-framework-needed.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Switching It Up With HTML’s Latest Control",
+  "desc": "After years of relying on checkbox hacks to create a “switch” control for forms that toggle between two states, HTML may be gaining a native way to go about it by adding a `switch` attribute to checkbox inputs. Daniel Yuschick walks us through a first impression of switch controls and discusses current and ongoing considerations that need to be explored further before it is ready for prime time.",
+  "link": "/explore/articles/smashingmagazine.com/switching-it-up-html-latest-control.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "UI 라이브러리 개발 일지: HTML 푸터 배치와 설계 원칙 | 요즘IT",
+  "desc": "UI 라이브러리 개발 일지: HTML 푸터 배치와 설계 원칙",
+  "link": "/explore/articles/yozm.wishket.com/2449.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 

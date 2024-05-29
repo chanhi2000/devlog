@@ -20,7 +20,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/maven/" />
+<ToCLocal basePath="/programming/mvn/" />
 
 ---
 

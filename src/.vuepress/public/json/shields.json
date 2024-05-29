@@ -137,6 +137,7 @@
   { "logo": "rocksdb", "name": "RocksDB", "colorHex": "2A2A2A" },
   { "logo": "ruby", "name": "Ruby", "colorHex": "CC342D" },
   { "logo": "rust", "name": "Rust", "colorHex": "000000" },
+  { "logo": "scala", "name": "Scala", "colorHex": "DC322F" },
   { "logo": "selenium", "name": "Selenium", "colorHex": "43B02A" },
   { "logo": "sketch", "name": "Skatch", "colorHex": "F7B500" },
   { "logo": "slack", "name": "Slack", "colorHex": "4A154B" },

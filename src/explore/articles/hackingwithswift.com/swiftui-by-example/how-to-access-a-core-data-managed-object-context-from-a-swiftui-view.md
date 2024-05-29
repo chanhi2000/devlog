@@ -50,6 +50,83 @@ head:
 }
 ```
 
+> Updated for Xcode 15
+
+If you followed my [Core Data and SwiftUI set up instructions](/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-configure-core-data-to-work-with-swiftui.md), you’ve already injected your managed object context into the SwiftUI environment.
+
+If not, make sure you add this code to your scene delegate:
+
+```swift
+ContentView()
+    .environment(\.managedObjectContext, yourCoreDataContext)
+```
+
+That passes our view context directly into `ContentView` as environment data, which means we can add an `@Environment` property to `ContentView` to read the managed object context right out:
+
+```swift
+@Environment(\.managedObjectContext) var managedObjectContext
+```
+
+::: note
+
+Adding a local property for the managed object context isn’t required for performing fetch requests using `@FetchRequest` – you only need it for saving, deleting, and some other tasks.
+
+:::
+
+::: details Similar solutions…
+
+```component VPCard
+{
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
+  "desc": "SwiftUI tips and tricks",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to show a context menu | SwiftUI by Example",
+  "desc": "How to show a context menu",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-context-menu.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
+  "desc": "All SwiftUI property wrappers explained and compared",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to convert a SwiftUI view to an image | SwiftUI by Example",
+  "desc": "How to convert a SwiftUI view to an image",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-convert-a-swiftui-view-to-an-image.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to delete Core Data objects from SwiftUI views | SwiftUI by Example",
+  "desc": "How to delete Core Data objects from SwiftUI views",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-delete-core-data-objects-from-swiftui-views.md",
+  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
+
 ---
 
 <TagLinks />

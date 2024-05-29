@@ -22,7 +22,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -48,6 +47,7 @@ head:
 - [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
 - [`berom0227` - Running Ollama in Smart Connections](https://berom0227.medium.com/running-ollama-in-smart-connections-db2242aee3ba)
 - [`thedeephub` / 50+ Open-Source Options for Running LLMs Locally](https://medium.com/thedeephub/50-open-source-options-for-running-llms-locally-db1ec6f5a54f)
+- [`aksh-garg` / Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 
 ---
 
@@ -227,6 +227,18 @@ head:
 
 - [LlamaIndex와 LLM 기반 유해, 무해 이미지 인식 기술 개발 방법](https://daddynkidsmakers.blogspot.com/2024/05/llamaindex-llm.html)
 - [LLM 기반 그래프 RAG 기술 구현하기](https://daddynkidsmakers.blogspot.com/2024/05/rag.html)
+
+---
+
+## Outerbounds
+
+- [The Many Ways to Deploy a Model](https://outerbounds.com/blog/the-many-ways-to-deploy-a-model/)
+
+---
+
+## ChristopherGS
+
+- [Running Open Source LLMs In Python - A Practical Guide](https://christophergs.com/blog/running-open-source-llms-in-python)
 
 ---
 

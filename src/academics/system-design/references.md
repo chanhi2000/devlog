@@ -48,7 +48,7 @@ head:
 
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
-### tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
+### 카카오테크, 미래의 문턱을 낮추는 기술
 
 - [이모티콘 서비스는 왜 MSA를 선택했나?](https://tech.kakao.com/posts/457)
 
@@ -107,6 +107,7 @@ head:
 
 - [`codecompass00` / "Attention, Please!": A Visual Guide To The Attention Mechanism \[Transformers Series\]](https://codecompass00.substack.com/p/visual-guide-attention-mechanism-transformers)
 - [`engineerscodex` / 4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned)
+- [`freelancefootprints` / Abandoned Code: The Hidden Risks of Using Unmaintained Software](https://freelancefootprints.substack.com/p/abandoned-code-the-hidden-risks-of)
 
 ---
 
@@ -213,6 +214,16 @@ head:
 
 ---
 
+## The Homepage of Dave Rupert - daverupert.com
 
+- [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
+
+---
+
+## Miles UX/UI Insight
+
+- [새로운 디자인 컴포넌트 도입 절차](https://vurias0203.tistory.com/entry/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%88%EC%B0%A8)
+
+---
 
 <TagLinks />

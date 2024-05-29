@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - smashingmagazine.com
   - yozm.wishket.com
   - oliveyoung.tech
   - engineering.ab180.co
@@ -32,6 +33,16 @@ head:
   "link": "https://freecodecamp.org/news/",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Smashing Magazine — For Web Designers And Developers",
+  "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
+  "link": "https://smashingmagazine.com/articles/",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
 }
 ```
 
@@ -80,6 +91,52 @@ head:
   "link": "/explore/articles/freecodecamp.org/minimum-viable-product-between-an-idea-and-the-product.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## Smashing Magazine — For Web Designers And Developers
+
+> smashingmagazine.com
+
+```component VPCard
+{
+  "title": "Why Designers Aren’t Understood",
+  "desc": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.",
+  "link": "/explore/articles/smashingmagazine.com/designers-business-ux-language.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Building A User Segmentation Matrix To Foster Cross-Org Alignment",
+  "desc": "Many organizations prioritize internal structures and services over customer-centricity, hindering effective decision-making. Through a case study, Talke Hoppmann-Walton advocates for a shift towards an outside-in perspective and proposes the use of a user segmentation matrix to foster alignment across departments and prioritize customer needs.",
+  "link": "/explore/articles/smashingmagazine.com/building-user-segmentation-matrix-foster-cross-org-alignment.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Hidden vs. Disabled In UX",
+  "desc": "Should you hide or disable a feature? You’ve probably been there before. Here are some considerations for hiding versus disabling, along with possible alternatives to improve UX. An upcoming part of Smart Interface Design Patterns.",
+  "link": "/explore/articles/smashingmagazine.com/hidden-vs-disabled-ux.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Best Practices For Naming Design Tokens, Components And Variables",
+  "desc": "How can we get better at naming? This post is dedicated to naming conventions, tips, and real-world examples that help you name things in a robust and flexible way.",
+  "link": "/explore/articles/smashingmagazine.com/naming-best-practices.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
 }
 ```
 

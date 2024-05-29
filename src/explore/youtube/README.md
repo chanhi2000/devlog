@@ -21,7 +21,7 @@ tag:
 - [Watch Later Keynote](watch-later-keynote.md)
 - [<FontIcon icon="iconfont icon-shell"/>Shell > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/sh/youtube.md)
 - [<FontIcon icon="iconfont icon-powershell"/>Powershell > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/pwsh/youtube.md)
-- [<FontIcon icon="iconfont icon-maven"/>Maven > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/maven/youtube.md)
+- [<FontIcon icon="iconfont icon-maven"/>Maven > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/mvn/youtube.md)
 - [<FontIcon icon="fa-brands fa-java"/>Java > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/java/youtube.md)
 - [<FontIcon icon="iconfont icon-spring"/>Spring > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/java-spring/youtube.md)
 - [<FontIcon icon="fa-brands fa-android"/>Android > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/java-android/youtube.md)

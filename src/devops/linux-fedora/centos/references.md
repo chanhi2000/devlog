@@ -33,4 +33,10 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@mythos` / \[Linux\] IBM Cloud Setup 과정](https://velog.io/@mythos/Cloud-IBM-Cloud-Setup-%EA%B3%BC%EC%A0%95)
+
+---
+
 <TagLinks />

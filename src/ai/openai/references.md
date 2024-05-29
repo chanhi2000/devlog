@@ -55,7 +55,7 @@ head:
 
 ---
 
-## InfoGrab
+## InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공
 
 - [GPT 엔지니어 살펴보기](https://insight.infograb.net/blog/2023/06/27/gpt-engineer)
 

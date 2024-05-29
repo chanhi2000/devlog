@@ -9,9 +9,10 @@ category:
 tag: 
   - blog
   - freecodecamp.org
-  - yozm.wishket.com
   - sitepoint.com
   - devtoolstips.org
+  - yozm.wishket.com
+  - tech.kakao.com
   - d2.naver.com
   - sitepoint.com
   - johnnyreilly.com
@@ -43,11 +44,11 @@ head:
 
 ```component VPCard
 {
-  "title": "요즘IT", 
-  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
-  "link": "https://yozm.wishket.com/magazine/list/develop/", 
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
+  "title": "Smashing Magazine — For Web Designers And Developers",
+  "desc": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
+  "link": "https://smashingmagazine.com/articles/",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
 }
 ```
 
@@ -58,6 +59,26 @@ head:
   "link": "https://devtoolstips.org", 
   "logo": "https://devtoolstips.org/assets/logo-small.png", 
   "background": "rgba(27,44,43,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "카카오테크, 미래의 문턱을 낮추는 기술",
+  "desc": "미래의 문턱을 낮추는 기술",
+  "link": "https://tech.kakao.com/blog/",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
 }
 ```
 
@@ -146,6 +167,42 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "A Guide to the Node.js Event Loop",
+  "desc": "Node.js is an open-source JavaScript runtime environment that allows you to run JavaScript outside the browser. Although Node.js is single-threaded, it has an event loop that makes it multi-threaded. The Node.js event loop is a crucial mechanism in Node.js that makes Node.js programs run concurrently and asynchronously. Mastering the Node.js...",
+  "link": "/explore/articles/freecodecamp.org/a-guide-to-the-node-js-event-loop.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Build an EKS Cluster Across AWS Local Zones using the AWS CDK",
+  "desc": "AWS Local Zones are a new type of infrastructure that enables you to build and run applications closer to end-users, providing low latency and improved performance.  They are designed to provide the same high availability and reliability as an AWS Region, but with the added benefit of low-latency connections...",
+  "link": "/explore/articles/freecodecamp.org/build-an-eks-cluster-using-aws-local-zones-with-aws-cdk.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## Smashing Magazine — For Web Designers And Developers
+
+> smashingmagazine.com
+
+```component VPCard
+{
+  "title": "The Era Of Platform Primitives Is Finally Here",
+  "desc": "Application frameworks have built whole ecosystems on top of them. Let’s take a closer look at serverless platforms such as Netlify’s [Platform Primitives](https://www.netlify.com/platform/primitives) and explore how they can increase our productivity with a serverless fullstack experience.",
+  "link": "/explore/articles/smashingmagazine.com/netlify-platform-primitives.md",
+  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
 ---
 
 ## 요즘IT
@@ -219,6 +276,22 @@ head:
   "link": "/explore/articles/yozm.wishket.com/2599.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+---
+
+## <FontIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
+
+> tech.kakao.com
+
+```component VPCard
+{
+  "title": "CommonJS에서 ESM으로 전환하기",
+  "desc": "안녕하세요, FE플랫폼팀에서 FE 개발자를 위한 개발을 담당하는 Ethan입니다...",
+  "link": "/explore/articles/tech.kakao.com/605.md",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
 }
 ```
 

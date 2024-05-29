@@ -71,4 +71,16 @@ head:
 
 ---
 
+## Product-Minded Full-Stack Engineer - Flavio Silva
+
+- [Building OpenTask with Next.js App Router and RSCs](https://flsilva.com/blog/building-opentask-nextjs-app-router-react-server-components/)
+
+---
+
+## Ruby on Rails Consulting Company | Saeloun
+
+- [Next.js vs. Remix - A Developer's Dilemma](https://blog.saeloun.com/2024/02/21/next.js-vs-remix/)
+
+---
+
 <TagLinks />

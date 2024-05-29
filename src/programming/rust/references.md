@@ -14,8 +14,13 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
+
+---
+
+## PDFs
+
+<PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />
 
 ---
 
@@ -67,6 +72,12 @@ tag:
 ## Supabase
 
 - [Postgres Language Server: implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
+
+---
+
+## Polars
+
+- [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view)
 
 ---
 

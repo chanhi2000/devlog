@@ -110,7 +110,7 @@ tag:
 
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
-### tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
+### 카카오테크, 미래의 문턱을 낮추는 기술
 
 - [FE개발자의 성장 스토리 09 : Offscreencanvas 적용기](https://tech.kakao.com/posts/442)
 
@@ -180,6 +180,7 @@ tag:
 
 ## Snyk
 
+- [Preventing SQL injection attacks in Node.js](https://snyk.io/blog/preventing-sql-injection-attacks-node-js)
 - [Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://snyk.io/blog/javascript-runtime-compare-node-deno-bun)
 
 ---
@@ -365,6 +366,8 @@ tag:
 ---
 
 ## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+
+### .NET Blog
 
 - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
 
@@ -593,6 +596,7 @@ tag:
 
 ## web.dev
 
+- [Immutable array updates with `Array.prototype.with`](https://web.dev/blog/array-with) 
 - [Assessing loading performance in the field with Navigation Timing and Resource Timing](https://web.dev/navigation-and-resource-timing)
 
 ---
@@ -1052,6 +1056,18 @@ tag:
 ## ~/Z
 
 - [Dynamic Github profile with Bun and Typescript](https://tduyng.com/blog/dynamic-github-profile-with-bun-typescript/)
+
+---
+
+## Learn. Build. Grow. Together.
+
+- [How to set up a Node server with TypeScript in 2024](https://learnwithjason.dev/blog/modern-node-server-typescript-2024) <!-- TODO: 작성 (/explore/articles/learnwithjason.dev/modern-node-server-typescript-2024.md) -->
+
+---
+
+## Advanced Web Machinery
+
+- [Modern JavaScript library starter](https://advancedweb.hu/modern-javascript-library-starter)
 
 ---
 

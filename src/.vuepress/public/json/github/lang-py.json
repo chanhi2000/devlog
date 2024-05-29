@@ -1175,11 +1175,6 @@
     "topics": ["selenium", "python3", "requests", "beautifulsoup4"],
     "officialSite": ""
   }, {
-    "repo": "geohot/tinygrad",
-    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-    "topics": [],
-    "officialSite": ""
-  }, {
     "repo": "bokeh/bokeh",
     "desc": "Interactive Data Visualization in the browser, from Python",
     "topics": ["visualization", "javascript", "python", "plots", "jupyter", "visualisation", "data-visualisation", "bokeh", "plotting", "notebooks", "interactive-plots", "numfocus"],
@@ -2161,9 +2156,9 @@
     "officialSite": "https://mentat.codes"
   }, {
     "repo": "khoj-ai/khoj",
-    "desc": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+    "desc": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
     "officialSite": "https://khoj.dev",
-    "topics": ["agent", "ai", "chat", "chatgpt", "emacs", "llama3", "llamacpp", "llm", "markdown", "obsidian", "obsidian-md", "offline-llm", "org-mode", "productivity", "pwa", "rag", "self-hosted", "semantic-search", "whatsapp-ai"]
+    "topics": ["agent", "ai", "assistant", "chat", "chatgpt", "emacs", "image-generation", "llama3", "llamacpp", "llm", "obsidian", "obsidian-md", "offline-llm", "productivity", "rag", "research", "self-hosted", "semantic-search", "stt", "whatsapp-ai"]
   }, {
     "repo": "netbox-community/netbox",
     "desc": "The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
@@ -2226,9 +2221,9 @@
     "officialSite": ""
   }, {
     "repo": "tinygrad/tinygrad",
-    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-    "topics": [],
-    "officialSite": ""
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️ ",
+    "officialSite": "",
+    "topics": []
   }, {
     "repo": "QwenLM/Qwen-7B",
     "desc": "The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.",
@@ -4886,7 +4881,7 @@
     "topics": []
   }, {
     "repo": "langchain-ai/langgraph",
-    "desc": "",
+    "desc": "Build resilient language agents as graphs.",
     "officialSite": "https://langchain-ai.github.io/langgraph/",
     "topics": []
   }, {
@@ -5348,6 +5343,21 @@
     "repo": "more-itertools/more-itertools",
     "desc": "More routines for operating on iterables, beyond itertools",
     "officialSite": "https://more-itertools.rtfd.io",
+    "topics": []
+  }, {
+    "repo": "darrenburns/elia",
+    "desc": "A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.",
+    "officialSite": "",
+    "topics": ["ai", "chatgpt", "claude", "gemma", "gpt", "large-language-models", "llama", "llama3", "llm", "mistral", "mistral-ai", "mixtral", "ollama", "ollama-client", "ollama-interface", "phi-3", "python", "terminal", "tui"]
+  }, {
+    "repo": "ChrisBuilds/terminaltexteffects",
+    "desc": "Visual effects applied to text in the terminal.",
+    "officialSite": "",
+    "topics": ["terminal-based", "visualisation"]
+  }, {
+    "repo": "tan-ad/SignWave",
+    "desc": "An easy-to-use program that transcribes text or audio files into a sign language animation. JamHacks7 2023 Best Overall and Best use of GitHub.",
+    "officialSite": "",
     "topics": []
   }
 ]

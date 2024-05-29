@@ -62,6 +62,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build an EKS Cluster Across AWS Local Zones using the AWS CDK",
+  "desc": "AWS Local Zones are a new type of infrastructure that enables you to build and run applications closer to end-users, providing low latency and improved performance.  They are designed to provide the same high availability and reliability as an AWS Region, but with the added benefit of low-latency connections...",
+  "link": "/explore/articles/freecodecamp.org/build-an-eks-cluster-using-aws-local-zones-with-aws-cdk.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## 요즘IT

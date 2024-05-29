@@ -18,6 +18,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`elemental-elixir` / Data Analysis with Elixir](https://medium.com/elemental-elixir/data-analysis-with-elixir-3e130a5d429e)
+
+---
+
 ## Resonate
 
 - [The Mechanics of Async Await](https://blog.resonatehq.io/async-await-mechanics)
@@ -57,6 +63,12 @@ tag:
 ## Michal @arathunku
 
 - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
+
+---
+
+## Elixir and Phoenix Software House | Curiosum
+
+- [Borrowing libs from Python in Elixir](https://curiosum.com/blog/borrowing-libs-from-python-in-elixir) <!-- TODO: 작성 (/explore/articles/curiosum.com/borrowing-libs-from-python-in-elixir.md) -->
 
 ---
 

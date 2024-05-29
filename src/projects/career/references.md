@@ -35,7 +35,7 @@ tag:
 
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
-### tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
+### 카카오테크, 미래의 문턱을 낮추는 기술
 
 - [Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기](https://tech.kakao.com/posts/447) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/447.md) -->
 
@@ -104,6 +104,7 @@ tag:
 - [`@greencloud` / 질문 '잘' 하는 법](https://velog.io/@greencloud/%EC%A7%88%EB%AC%B8-%EC%9E%98-%ED%95%98%EB%8A%94-%EB%B2%95)
 - [`@hyemin916` / 3년차 개발자의 성장](https://velog.io/@hyemin916/3%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5)
 - [`@dus532` / 더 정확한 데이터를 향해, 소프트콘 뷰어십 제작기(9)](https://velog.io/@dus532/viewership9)
+- [`@stella6767` / 2년간 스타트업 퇴사 회고](https://velog.io/@stella6767/2%EB%85%84%EA%B0%84-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%87%B4%EC%82%AC-%ED%9A%8C%EA%B3%A0)
 
 ---
 
@@ -756,6 +757,7 @@ tag:
 - [[책] 더 나은 프로그래머 되는법 Part5. 사람의 일](https://pearlluck.tistory.com/813)
 - [[도서서평단] 더 나은 프로그래머 되는 법](pearlluck.tistory.com/807)
 - [[책] 더 나은 프로그래머 되는법 부록.국내 개발자 8인의 이야기](https://pearlluck.tistory.com/814)
+- [\[글쓰기 세미나 후기\] 글쓰기 어려운 이유와 글쓰는 과정(1/2) (feat.글또)](https://pearlluck.tistory.com/815)
 
 ---
 

@@ -295,6 +295,8 @@ tag:
 
 ## Swift with Majid
 
+- [Introducing SwiftUI on visionOS](https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS/)
+- [visionOS ornaments in SwiftUI](https://swiftwithmajid.com/2024/01/30/visionos-ornaments-in-swiftui)
 - [Discovering Swift Algorithms package](https://swiftwithmajid.com/2024/02/13/discovering-swift-algorithms-package/)
 - [Mastering Preview macro in Swift](https://swiftwithmajid.com/2023/10/17/mastering-preview-macro-in-swift/)
 - [Trigger value pattern in SwiftUI](https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/)
@@ -662,7 +664,9 @@ tag:
 
 ## Create with Swift - Anything is possible.
 
-- [Understanding typography in visionOS](https://www.createwithswift.com/understanding-typography-in-visionos)
+- [Implementing volumes in visionOS](https://createwithswift.com/implementing-volumes-in-visionos/)
+- [Create an animated transition with Matched Geometry Effect in SwiftUI](https://createwithswift.com/create-an-animated-transition-with-matched-geometry-effect-in-swiftui/)
+- [Understanding typography in visionOS](https://createwithswift.com/understanding-typography-in-visionos)
 
 ---
 

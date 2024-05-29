@@ -1,5 +1,5 @@
 import { sidebar } from 'vuepress-theme-hope'
-import { articleSidebars, hackingwithswift } from './articles'
+import { articleSidebars as asb } from './articles'
 
 export const sidebarEn = sidebar({
   '/programming/': [
@@ -27,12 +27,12 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/sh/articles/README.md',
-            articleSidebars.freecodecamp("sh"),
-            articleSidebars.smashingmagazion("sh"),
-            articleSidebars.yozm("sh"),
-            articleSidebars.devkuma("sh"),
-            articleSidebars.nhn("sh"),
-            articleSidebars.linecorp("sh"),
+            asb.freecodecamp("sh"),
+            asb.smashingmagazion("sh"),
+            asb.yozm("sh"),
+            asb.devkuma("sh"),
+            asb.nhn("sh"),
+            asb.linecorp("sh"),
           ]
         }
       ]
@@ -88,11 +88,11 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/git/articles/README.md',
-            articleSidebars.yozm("git"),
-            articleSidebars.d2("git"),
-            articleSidebars.nhn("git"),
-            articleSidebars.woowahan("git"),
-            articleSidebars.linecorp("git"),
+            asb.yozm("git"),
+            asb.d2("git"),
+            asb.nhn("git"),
+            asb.woowahan("git"),
+            asb.linecorp("git"),
           ]
         }
       ]
@@ -127,9 +127,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/gradle/articles/README.md',
-            articleSidebars.freecodecamp("gradle"),
-            articleSidebars.shopify("gradle"),
-            articleSidebars.linecorp("gradle"),
+            asb.freecodecamp("gradle"),
+            asb.shopify("gradle"),
+            asb.linecorp("gradle"),
           ]
         },
       ]
@@ -138,17 +138,17 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-maven',
       children: [
-        '/programming/maven/README.md',
-        '/programming/maven/snippets.md',
-        '/programming/maven/references.md',
-        '/programming/maven/youtube.md',
+        '/programming/mvn/README.md',
+        '/programming/mvn/snippets.md',
+        '/programming/mvn/references.md',
+        '/programming/mvn/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/programming/maven/articles/README.md',
-            articleSidebars.yozm("maven"),
+            '/programming/mvn/articles/README.md',
+            asb.yozm("maven"),
           ]
         }
       ]
@@ -175,13 +175,13 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java/articles/README.md',
-            articleSidebars.yozm("java"),
-            articleSidebars.nhn("java"),
-            articleSidebars.d2("java"),
-            articleSidebars.gangnamunni("java"),
-            articleSidebars.gangnamunni("kotlin"),
-            articleSidebars.ktAcademy("kotlin"),
-            articleSidebars.linecorp("kotlin"),
+            asb.yozm("java"),
+            asb.nhn("java"),
+            asb.d2("java"),
+            asb.gangnamunni("java"),
+            asb.gangnamunni("kotlin"),
+            asb.ktAcademy("kotlin"),
+            asb.linecorp("kotlin"),
           ]
         }
       ]
@@ -202,18 +202,18 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-spring/articles/README.md',
-            articleSidebars.freecodecamp("java-spring"),
-            articleSidebars.yozm("java-spring"),
-            articleSidebars.ktAcademy("kotlin-spring"),
-            articleSidebars.rutgoLetsgo("java-spring"),
-            articleSidebars.nhn("java-spring"),
-            articleSidebars.d2("java-spring"), 
-            articleSidebars.woowahan("java-spring"),
-            articleSidebars.gangnamunni("java-spring"),
-            articleSidebars.gmarket("java-spring"),
-            articleSidebars.linecorp("java-spring"),
-            articleSidebars.linecorp("kotlin-spring"),
-            articleSidebars.zuminternet("java-spring"),
+            asb.freecodecamp("java-spring"),
+            asb.yozm("java-spring"),
+            asb.ktAcademy("kotlin-spring"),
+            asb.rutgoLetsgo("java-spring"),
+            asb.nhn("java-spring"),
+            asb.d2("java-spring"), 
+            asb.woowahan("java-spring"),
+            asb.gangnamunni("java-spring"),
+            asb.gmarket("java-spring"),
+            asb.linecorp("java-spring"),
+            asb.linecorp("kotlin-spring"),
+            asb.zuminternet("java-spring"),
           ]
         }
       ]
@@ -241,14 +241,14 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-android/articles/README.md',
-            articleSidebars.freecodecamp("java-android"),
-            articleSidebars.yozm("java-android"),
-            articleSidebars.droidcon("java-android"),
-            articleSidebars.ktAcademy("kotlin-android"),
-            articleSidebars.nhn("java-android"),
-            articleSidebars.banksalad("java-android"),
-            articleSidebars.gangnamunni("java-android"),
-            articleSidebars.antonioleiva("kotlin-android"),
+            asb.freecodecamp("java-android"),
+            asb.yozm("java-android"),
+            asb.droidcon("java-android"),
+            asb.ktAcademy("kotlin-android"),
+            asb.nhn("java-android"),
+            asb.banksalad("java-android"),
+            asb.gangnamunni("java-android"),
+            asb.antonioleiva("kotlin-android"),
           ]
         }
       ]
@@ -267,8 +267,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-kafka/articles/README.md',
-            articleSidebars.popit("java-kafka"),
-            articleSidebars.d2("java-kafka"),
+            asb.popit("java-kafka"),
+            asb.d2("java-kafka"),
           ]
         }
       ]
@@ -286,7 +286,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-armeria/articles/README.md',
-            articleSidebars.linecorp("java-armeria"),
+            asb.linecorp("java-armeria"),
           ]
         }
       ]
@@ -304,7 +304,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-elasticsearch/articles/README.md',
-            articleSidebars.popit("java-elasticsearch"),
+            asb.popit("java-elasticsearch"),
           ]
         }
       ]
@@ -334,12 +334,12 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            hackingwithswift(),
-            articleSidebars.yozm("swift"),
-            articleSidebars.douggregor("swift"), 
-            articleSidebars.donnywals("swift"), 
-            articleSidebars.gangnamunni("swift"),
-            articleSidebars.zuminternet("swift"),
+            asb.hackingwithswift(),
+            asb.yozm("swift"),
+            asb.douggregor("swift"), 
+            asb.donnywals("swift"), 
+            asb.gangnamunni("swift"),
+            asb.zuminternet("swift"),
           ]
         },
         {
@@ -370,11 +370,11 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js/articles/README.md',
-            articleSidebars.freecodecamp("js"),
-            articleSidebars.frontendmaster("js"),
-            articleSidebars.sitepoint("js"),
-            articleSidebars.nhn("js"),
-            articleSidebars.devtoolstips("js"),
+            asb.freecodecamp("js"),
+            asb.frontendmaster("js"),
+            asb.sitepoint("js"),
+            asb.nhn("js"),
+            asb.devtoolstips("js"),
           ]
         }
       ]
@@ -392,9 +392,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/npm/articles/README.md',
-            articleSidebars.freecodecamp("npm"),
-            articleSidebars.woowahan("npm"),
-            articleSidebars.toss("npm"),
+            asb.freecodecamp("npm"),
+            asb.woowahan("npm"),
+            asb.toss("npm"),
           ]
         }
       ],
@@ -417,12 +417,14 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-node/articles/README.md',
-            articleSidebars.freecodecamp('js-node'), 
-            articleSidebars.yozm("js-node"),
-            articleSidebars.d2("js-node"), 
-            articleSidebars.nhn("js-node"),
-            articleSidebars.linecorp("js-node"),
-            articleSidebars.johnnyreilly("js-node"),
+            asb.freecodecamp('js-node'), 
+            asb.smashingmagazion('js-node'), 
+            asb.yozm("js-node"),
+            asb.kakaoTech("js-node"),
+            asb.d2("js-node"), 
+            asb.nhn("js-node"),
+            asb.linecorp("js-node"),
+            asb.johnnyreilly("js-node"),
           ]
         }
       ]
@@ -443,12 +445,13 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-react/articles/README.md',
-            articleSidebars.freecodecamp("js-react"),
-            articleSidebars.smashingmagazion("js-react"),
-            articleSidebars.yozm("js-react"),
-            articleSidebars.woowahan("js-react"),
-            articleSidebars.gmarket("js-react"),
-            articleSidebars.zuminternet("js-react"),
+            asb.freecodecamp("js-react"),
+            asb.smashingmagazion("js-react"),
+            asb.yozm("js-react"),
+            asb.kakaoTech("js-react"),
+            asb.woowahan("js-react"),
+            asb.gmarket("js-react"),
+            asb.zuminternet("js-react"),
           ]
         }
       ]
@@ -468,8 +471,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-vue/articles/README.md',
-            articleSidebars.yozm("js-vue"),
-            articleSidebars.zuminternet("js-vue"),
+            asb.yozm("js-vue"),
+            asb.zuminternet("js-vue"),
           ]
         }
       ]
@@ -488,7 +491,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-svelte/articles/README.md',
-            articleSidebars.frontendmaster("js-svelte"),
+            asb.frontendmaster("js-svelte"),
           ]
         }
       ]
@@ -515,7 +518,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-nest/articles/README.md',
-            articleSidebars.freecodecamp("js-nest"),
+            asb.freecodecamp("js-nest"),
           ]
         }
       ]
@@ -550,7 +553,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-storybook/articles/README.md',
-            articleSidebars.toast("js-storybook"),
+            asb.toast("js-storybook"),
           ]
         }
       ]
@@ -568,7 +571,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-gatsby/articles/README.md',
-            articleSidebars.smashingmagazion("js-gatsby"),
+            asb.smashingmagazion("js-gatsby"),
           ]
         }
       ]
@@ -594,7 +597,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-supabase/articles/README.md',
-            articleSidebars.zuminternet("js-supabase"),
+            asb.zuminternet("js-supabase"),
           ]
         }
       ],
@@ -641,13 +644,14 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/css/articles/README.md',
-            articleSidebars.freecodecamp("css"),
-            articleSidebars.yozm("css"),
-            articleSidebars.frontendmaster("css"),
-            articleSidebars.piccalilli("css"),
-            articleSidebars.sitepoint("css"),
-            articleSidebars.nhn("css"),
-            articleSidebars.devtoolstips("css"),
+            asb.freecodecamp("css"),
+            asb.frontendmaster("css"),
+            asb.smashingmagazion("css"),
+            asb.yozm("css"),
+            asb.piccalilli("css"),
+            asb.sitepoint("css"),
+            asb.nhn("css"),
+            asb.devtoolstips("css"),
           ]
         }
       ]
@@ -665,7 +669,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/css-tailwind/articles/README.md',
-            articleSidebars.freecodecamp("css-tailwind"),
+            asb.freecodecamp("css-tailwind"),
           ]
         }
       ]
@@ -684,10 +688,10 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py/articles/README.md',
-            articleSidebars.freecodecamp("py"),
-            articleSidebars.yozm("py"),
-            articleSidebars.nhn("py"),
-            articleSidebars.ab180("py"),
+            asb.freecodecamp("py"),
+            asb.yozm("py"),
+            asb.nhn("py"),
+            asb.ab180("py"),
           ]
         }
       ]
@@ -707,7 +711,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py-django/articles/README.md',
-            articleSidebars.freecodecamp('py-django'),
+            asb.freecodecamp('py-django'),
           ]
         }
       ]
@@ -758,7 +762,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py-airflow/articles/README.md',
-            articleSidebars.shopify("py-airflow"),
+            asb.shopify("py-airflow"),
           ]
         },
       ]
@@ -776,7 +780,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/objc/articles/README.md',
-            articleSidebars.nhn("objc"),
+            asb.nhn("objc"),
           ]
         }
       ]
@@ -795,7 +799,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/rust/articles/README.md',
-            articleSidebars.freecodecamp("rust"),
+            asb.freecodecamp("rust"),
           ]
         },
       ]
@@ -814,7 +818,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/lua/articles/README.md',
-            articleSidebars.linecorp("lua"),
+            asb.linecorp("lua"),
           ]
         },
       ]
@@ -833,9 +837,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/csharp/articles/README.md',
-            articleSidebars.freecodecamp("csharp"), 
-            articleSidebars.johnnyreilly("csharp"),
-            articleSidebars.codemaze("csharp"),
+            asb.freecodecamp("csharp"), 
+            asb.johnnyreilly("csharp"),
+            asb.codemaze("csharp"),
           ]
         }
       ]
@@ -854,9 +858,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/go/articles/README.md',
-            articleSidebars.freecodecamp("go"),
-            articleSidebars.popit("go"),
-            articleSidebars.d2("go"),
+            asb.freecodecamp("go"),
+            asb.popit("go"),
+            asb.d2("go"),
           ]
         }
       ]
@@ -876,7 +880,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/dart/articles/README.md',
-            articleSidebars.freecodecamp("dart"),
+            asb.freecodecamp("dart"),
           ]
         }
       ]
@@ -895,7 +899,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/php/articles/README.md',
-            articleSidebars.freecodecamp("php"),
+            asb.freecodecamp("php"),
           ]
         }
       ]
@@ -908,6 +912,48 @@ export const sidebarEn = sidebar({
         '/programming/ruby/references.md',
         '/programming/ruby/github.md',
         '/programming/ruby/youtube.md',
+      ]
+    }, {
+      text: 'C',
+      collapsible: true,
+      icon: 'iconfont icon-c',
+      children: [
+        '/programming/c/README.md',
+        '/programming/c/tips.md',
+        '/programming/c/references.md',
+        '/programming/c/github.md',
+        '/programming/c/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/c/articles/README.md',
+            asb.nhn("c"),
+          ]
+        }
+      ]
+    }, {
+      text: 'C++',
+      collapsible: true,
+      icon: 'iconfont icon-cpp',
+      children: [
+        '/programming/cpp/README.md',
+        '/programming/cpp/tips.md',
+        '/programming/cpp/references.md',
+        '/programming/cpp/github.md',
+        '/programming/cpp/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            'programming/cpp/articles/README.md',
+            asb.freecodecamp("cpp"), 
+            asb.nhn("cpp"), 
+            asb.d2("cpp"),
+          ]
+        }
       ]
     }, {
       text: 'Elixir',
@@ -931,48 +977,24 @@ export const sidebarEn = sidebar({
         '/programming/haskell/youtube.md',
       ]
     }, {
-      text: 'C',
+      text: 'Scala',
       collapsible: true,
-      icon: 'iconfont icon-c',
+      icon: 'iconfont icon-scala',
       children: [
-        '/programming/c/README.md',
-        '/programming/c/tips.md',
-        '/programming/c/references.md',
-        '/programming/c/github.md',
-        '/programming/c/youtube.md',
+        '/programming/scala/README.md',
+        '/programming/scala/references.md',
+        '/programming/scala/github.md',
+        '/programming/scala/youtube.md', 
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/programming/c/articles/README.md',
-            articleSidebars.nhn("c"),
+            'programming/scala/articles/README.md',
           ]
         }
       ]
-    }, {
-      text: 'C++',
-      collapsible: true,
-      icon: 'iconfont icon-cpp',
-      children: [
-        '/programming/cpp/README.md',
-        '/programming/cpp/tips.md',
-        '/programming/cpp/references.md',
-        '/programming/cpp/github.md',
-        '/programming/cpp/youtube.md',
-        {
-          text: 'Article(s)',
-          collapsible: true,
-          icon: 'fas fa-square-share-nodes',
-          children: [
-            'programming/cpp/articles/README.md',
-            articleSidebars.freecodecamp("cpp"), 
-            articleSidebars.nhn("cpp"), 
-            articleSidebars.d2("cpp"),
-          ]
-        }
-      ]
-    }, {
+    },{
       text: 'Zig',
       icon: 'iconfont icon-zig',
       collapsible: true,
@@ -1044,6 +1066,24 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/clojure/articles/README.md',
+          ]
+        },
+      ]
+    }, {
+      text: 'Matlab',
+      collapsible: true,
+      icon: 'iconfont icon-matlab',
+      children: [
+        '/programming/matlab/README.md',
+        '/programming/matlab/references.md',
+        '/programming/matlab/github.md',
+        '/programming/matlab/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/matlab/articles/README.md',
           ]
         },
       ]
@@ -1122,7 +1162,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/intellij-idea/articles/README.md',
-            articleSidebars.yozm("intellij-idea")
+            asb.yozm("intellij-idea")
           ]
         }
       ]
@@ -1142,7 +1182,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/visualstudio/articles/README.md',
-            // articleSidebars.yozm("intellij-idea")
+            // asb.yozm("intellij-idea")
           ]
         }
       ]
@@ -1164,7 +1204,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/vscode/articles/README.md',
-            articleSidebars.yozm("vscode"),
+            asb.yozm("vscode"),
           ]
         }
       ],
@@ -1246,8 +1286,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/chrome/articles/README.md',
-            articleSidebars.devtoolstips("chrome"),
-            articleSidebars.zuminternet("chrome"),
+            asb.devtoolstips("chrome"),
+            asb.zuminternet("chrome"),
           ]
         }
       ]
@@ -1266,7 +1306,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/firefox/articles/README.md',
-            articleSidebars.devtoolstips("firefox"),
+            asb.devtoolstips("firefox"),
           ]
         }
       ]
@@ -1283,7 +1323,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/safari/articles/README.md',
-            articleSidebars.devtoolstips("safari"),
+            asb.devtoolstips("safari"),
           ]
         }
       ]
@@ -1311,6 +1351,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/figma/articles/README.md',
+            asb.kakaoTech("figma"),
           ]
         }
       ]
@@ -1397,6 +1438,23 @@ export const sidebarEn = sidebar({
         '/tool/wget/README.md',
         '/tool/wget/references.md',
         '/tool/wget/youtube.md',
+      ]
+    }, {
+      text: 'curl',
+      collapsible: true,
+      icon: 'iconfont icon-curl',
+      children: [
+        '/tool/curl/README.md',
+        '/tool/curl/references.md',
+        '/tool/curl/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/curl/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'nmap',
@@ -1490,8 +1548,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/github/articles/README.md',
-            articleSidebars.freecodecamp('github'),
-            articleSidebars.linecorp("github"),
+            asb.freecodecamp('github'),
+            asb.linecorp("github"),
           ]
         }
       ]
@@ -1523,7 +1581,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/macos/articles/README.md',
-            articleSidebars.freecodecamp("macos"),
+            asb.freecodecamp("macos"),
           ]
         }
       ],
@@ -1562,7 +1620,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/windows/articles/README.md',
-            articleSidebars.yozm("windows"),
+            asb.yozm("windows"),
           ]
         }
       ]
@@ -1618,7 +1676,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/linux-debian/articles/README.md',
-            articleSidebars.nhn("linux-debian"),
+            asb.nhn("linux-debian"),
           ]
         }
       ]
@@ -1725,8 +1783,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/docker/articles/README.md',
-            articleSidebars.yozm("docker"),
-            articleSidebars.towardsdatascience("docker"),
+            asb.yozm("docker"),
+            asb.towardsdatascience("docker"),
           ]
         }
       ]
@@ -1744,7 +1802,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/podman/articles/README.md',
-            articleSidebars.towardsdatascience("podman"),
+            asb.towardsdatascience("podman"),
           ]
         }
       ]
@@ -1762,9 +1820,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/k8s/articles/README.md',
-            articleSidebars.freecodecamp("k8s"),
-            articleSidebars.yozm("k8s"),
-            articleSidebars.digitalocean("k8s"),
+            asb.freecodecamp("k8s"),
+            asb.yozm("k8s"),
+            asb.digitalocean("k8s"),
           ]
         }
       ]
@@ -1808,8 +1866,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/aws/articles/README.md',
-            articleSidebars.freecodecamp("aws"),
-            articleSidebars.yozm("aws"),
+            asb.freecodecamp("aws"),
+            asb.yozm("aws"),
           ]
         }
       ]
@@ -1827,7 +1885,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/azure/articles/README.md',
-            articleSidebars.freecodecamp("azure"), 
+            asb.freecodecamp("azure"), 
           ]
         }
       ]
@@ -1845,7 +1903,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/gcp/articles/README.md',
-            articleSidebars.yozm("gcp"), 
+            asb.yozm("gcp"), 
           ]
         }
       ]
@@ -1898,9 +1956,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/security/articles/README.md',
-            articleSidebars.yozm("security"),
-            articleSidebars.nhn("security"),
-            articleSidebars.d2("security"),
+            asb.yozm("security"),
+            asb.nhn("security"),
+            asb.d2("security"),
           ]
         },
       ]
@@ -1944,7 +2002,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/selenium/articles/README.md',
-            articleSidebars.freecodecamp("selenium"),
+            asb.freecodecamp("selenium"),
           ]
         },
       ],
@@ -1962,7 +2020,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/playwright/articles/README.md',
-            articleSidebars.woowahan("playwright")
+            asb.woowahan("playwright")
           ]
         },
       ],
@@ -1980,7 +2038,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/jmeter/articles/README.md',
-            articleSidebars.imqa("jmeter"),
+            asb.imqa("jmeter"),
           ]
         },
       ]
@@ -1998,7 +2056,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/gatling/articles/README.md',
-            articleSidebars.imqa("gatling"),
+            asb.imqa("gatling"),
           ]
         },
       ]
@@ -2016,7 +2074,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
            '/devops/nexus/articles/README.md',
-            articleSidebars.droidcon("nexus"),
+            asb.droidcon("nexus"),
           ]
         }
       ]
@@ -2035,6 +2093,24 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/tomcat/articles/README.md',
+          ]
+        },
+      ] 
+    }, {
+      text: 'Wildfly',
+      collapsible: true,
+      icon: 'iconfont icon-wildfly',
+      children: [
+        '/devops/wildfly/README.md',
+        '/devops/wildfly/basics.md',
+        '/devops/wildfly/references.md',
+        '/devops/wildfly/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/wildfly/articles/README.md',
           ]
         },
       ] 
@@ -2086,7 +2162,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/mysql/articles/README.md',
-            articleSidebars.linecorp("mysql"),
+            asb.linecorp("mysql"),
           ]
         },
       ]
@@ -2136,8 +2212,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/postgres/articles/README.md',
-            articleSidebars.freecodecamp("postgres"), 
-            articleSidebars.linecorp("postgres"),
+            asb.freecodecamp("postgres"), 
+            asb.linecorp("postgres"),
           ]
         },
       ]
@@ -2156,7 +2232,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/mongodb/articles/README.md',
-            articleSidebars.d2("hadoop"),
+            asb.d2("hadoop"),
           ]
         }
       ]
@@ -2208,7 +2284,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/redis/articles/README.md',
-            articleSidebars.zuminternet("redis"),
+            asb.zuminternet("redis"),
           ]
         },
       ]
@@ -2269,7 +2345,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/cassandra/articles/README.md',
-            articleSidebars.nhn("cassandra"),
+            asb.nhn("cassandra"),
           ]
         }
       ]
@@ -2287,7 +2363,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/hadoop/articles/README.md',
-            articleSidebars.d2("hadoop"),
+            asb.d2("hadoop"),
           ]
         }
       ]
@@ -2305,7 +2381,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/spark/articles/README.md',
-            articleSidebars.popit("spark"),
+            asb.popit("spark"),
           ]
         }
       ]
@@ -2333,7 +2409,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/ai/openai/articles/README.md',
-            articleSidebars.d2("openai"),
+            asb.d2("openai"),
           ]
         }
       ]
@@ -2476,7 +2552,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/projects/career/articles/README.md',
-            articleSidebars.yozm("career"),
+            asb.smashingmagazion("career"),
+            asb.yozm("career"),
           ]
         }
       ]
@@ -2552,39 +2629,40 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fas fa-square-share-nodes',
       children: [
-        articleSidebars.yozm(), 
-        articleSidebars.popit(), 
-        articleSidebars.freecodecamp(), 
-        articleSidebars.frontendmaster(),
-        articleSidebars.smashingmagazion(),
-        articleSidebars.digitalocean(),
-        articleSidebars.devkuma(),
-        articleSidebars.devtoolstips(),
-        articleSidebars.piccalilli(),
-        articleSidebars.sitepoint(),
-        articleSidebars.gangnamunni(),
-        articleSidebars.towardsdatascience(),
-        articleSidebars.douggregor(), 
-        articleSidebars.donnywals(), 
-        hackingwithswift(),
-        articleSidebars.ktAcademy(),
-        articleSidebars.johnnyreilly(),
-        articleSidebars.codemaze(),
-        articleSidebars.droidcon(),
-        articleSidebars.shopify(),
-        articleSidebars.rutgoLetsgo(),
-        articleSidebars.woowahan(), 
-        articleSidebars.d2(), 
-        articleSidebars.nhn(),
-        articleSidebars.linecorp(),
-        articleSidebars.toss(),
-        articleSidebars.banksalad(),
-        articleSidebars.toast(),
-        articleSidebars.oliveyoung(),
-        articleSidebars.gmarket(),
-        articleSidebars.zuminternet(),
-        articleSidebars.imqa(),
-        articleSidebars.ab180(),
+        asb.hackingwithswift(),
+        asb.freecodecamp(), 
+        asb.frontendmaster(),
+        asb.smashingmagazion(),
+        asb.digitalocean(),
+        asb.kakaoTech(), 
+        asb.yozm(), 
+        asb.popit(), 
+        asb.devkuma(),
+        asb.devtoolstips(),
+        asb.piccalilli(),
+        asb.sitepoint(),
+        asb.gangnamunni(),
+        asb.towardsdatascience(),
+        asb.douggregor(), 
+        asb.donnywals(),
+        asb.ktAcademy(),
+        asb.johnnyreilly(),
+        asb.codemaze(),
+        asb.droidcon(),
+        asb.shopify(),
+        asb.rutgoLetsgo(),
+        asb.woowahan(), 
+        asb.d2(), 
+        asb.nhn(),
+        asb.linecorp(),
+        asb.toss(),
+        asb.banksalad(),
+        asb.toast(),
+        asb.oliveyoung(),
+        asb.gmarket(),
+        asb.zuminternet(),
+        asb.imqa(),
+        asb.ab180(),
       ]
     },
   ],
@@ -2614,10 +2692,11 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/academics/system-design/articles/README.md',
-            articleSidebars.freecodecamp("system-design"),
-            articleSidebars.yozm("system-design"),
-            articleSidebars.oliveyoung("system-design"),
-            articleSidebars.ab180("system-design"),
+            asb.freecodecamp("system-design"),
+            asb.smashingmagazion("system-design"),
+            asb.yozm("system-design"),
+            asb.oliveyoung("system-design"),
+            asb.ab180("system-design"),
           ]
         }
       ]

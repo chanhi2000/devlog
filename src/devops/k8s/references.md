@@ -46,7 +46,7 @@ tag:
 
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
-### tech.kakao.com - 카카오테크, 미래의 문턱을 낮추는 기술
+### 카카오테크, 미래의 문턱을 낮추는 기술
 
 - [실용주의 데브옵스 for MSA](https://tech.kakao.com/posts/449) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/449.md) -->
 - [쿠버네티스에 레디스 캐시 클러스터 구축기](https://tech.kakao.com/posts/491) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/491.md -->

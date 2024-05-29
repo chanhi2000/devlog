@@ -29,5 +29,10 @@
     "desc": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "turbo9team/turbo9",
+    "desc": "Turbo9 - Pipelined 6809 Microprocessor IP",
+    "officialSite": "",
+    "topics": []
   }
 ]

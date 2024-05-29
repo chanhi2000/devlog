@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - tech.kakao.com
   - popit.kr
   - d2.naver.com
   - go
@@ -37,9 +38,19 @@ head:
 
 ```component VPCard
 {
+  "title": "카카오테크, 미래의 문턱을 낮추는 기술",
+  "desc": "미래의 문턱을 낮추는 기술",
+  "link": "https://tech.kakao.com/blog/",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Popit | 전문 지식 공유를 위한 팀블로그",
   "desc": "전문 지식 공유를 위한 팀블로그",
-  "link": "https://www.popit.kr/",
+  "link": "https://www.popit.kr/page/1",
   "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
   "background": "rgba(0,21,41,0.2)"
 }
@@ -67,6 +78,22 @@ head:
   "link": "/explore/articles/freecodecamp.org/how-to-handle-concurrency-in-go.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## <FontIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
+
+> tech.kakao.com
+
+```component VPCard
+{
+  "title": "Golang GC 튜닝 가이드",
+  "desc": "Golang으로 프로그램을 개발하다 보면, 어느 순간 GC(Garbage Coll...",
+  "link": "/explore/articles/tech.kakao.com/618.md",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
 }
 ```
 

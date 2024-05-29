@@ -62,6 +62,12 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@root-devvoo` / 쉘 스크립트에서 ’ ’, ” ”, ` ` 및 괄호 기능과 차이점](https://velog.io/@root-devvoo/%EC%89%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%94%B0%EC%98%B4%ED%91%9C-%EC%8C%8D%EB%94%B0%EC%98%B4%ED%91%9C-%EB%B0%B1%ED%8B%B1-%EB%B0%8F-%EA%B4%84%ED%98%B8-%EA%B8%B0%EB%8A%A5%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+
+---
+
 ## Substack
 
 - [`highgrowthengineer` - How I setup my terminal for max productivity](https://read.highgrowthengineer.com/p/how-i-setup-my-terminal-for-max-productivity)
