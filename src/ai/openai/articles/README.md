@@ -10,6 +10,7 @@ category:
   - Article(s)
 tag:
   - blog
+  - digitalocean.com
   - techblog.woowahan.com
   - ai
   - openai
@@ -28,6 +29,16 @@ head:
 
 ```component VPCard
 {
+  "title": "DigitalOcean | Cloud Infrastructure for Developers",
+  "desc": "An ocean of simple, scalable cloud solutions.",
+  "link": "https://digitalocean.com/community/tutorials",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "우아한형제들 기술블로그",
   "desc": "우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.",
   "link": "https://techblog.woowahan.com/",
@@ -37,6 +48,22 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## DigitalOcean | Cloud Infrastructure for Developers
+
+> digitalocean.com
+
+```component VPCard
+{
+  "title": "Developing Multi-Modal Bots with Django, GPT-4, Whisper, and DALL-E | DigitalOcean",
+  "desc": "Technical tutorials, Q&A, events — This is an inclusive place where developers can find or lend support and discover new ways to contribute to the community…",
+  "link": "/explore/articles/digitalocean.com/developing-multi-modal-bots-with-django-gpt-4-whisper-and-dall-e.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
 
 ---
 

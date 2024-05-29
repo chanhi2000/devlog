@@ -8,8 +8,6 @@ category:
 tag: 
   - markdown
   - md
-  - git
-  - github
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -42,7 +42,7 @@ prev: /programming/css/articles/README.md
   "title": "Beyond CSS Media Queries",
   "desc": "Juan Diego Rodriguez explains why media queries still occupy a vital role in responsive layouts; only they are now one tool in a larger toolbox with modern techniques that are best when used together.",
   "link": "https://smashingmagazine.com/2024/05/beyond-css-media-queries/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

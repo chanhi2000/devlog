@@ -219,5 +219,10 @@
     "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
     "officialSite": "",
     "topics": ["interview-preparation", "interview-questions", "javascript", "javascript-applications", "javascript-framework", "javascript-interview-questions", "react", "react-interview-questions", "react-native", "react-router", "react16", "reactjs", "redux"]
+  }, {
+    "repo": "leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "officialSite": "",
+    "topics": ["angular", "concepts", "es6", "es6-javascript", "hacktoberfest", "javascript", "javascript-closures", "javascript-engines", "javascript-programming", "nodejs", "primitive-types", "programming", "react"]
   }
 ]

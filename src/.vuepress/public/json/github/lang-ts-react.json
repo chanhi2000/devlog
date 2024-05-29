@@ -94,5 +94,15 @@
     "desc": "A rich text editor React component for markdown",
     "officialSite": "https://mdxeditor.dev",
     "topics": ["editor", "lexical", "markdown", "markdown-editor", "mdx", "react", "reactjs", "rich-text-editor"]
+  }, {
+    "repo": "gregberge/twc",
+    "desc": "Create reusable React + Tailwind CSS components in one line ✨",
+    "officialSite": "https://react-twc.vercel.app",
+    "topics": ["react", "styled-components", "tailwindcss"]
+  }, {
+    "repo": "schedule-x/schedule-x",
+    "desc": "Material design event calendar and date picker",
+    "officialSite": "https://schedule-x.dev",
+    "topics": ["calendar", "date-picker", "javascript", "react", "vue"]
   }
 ]

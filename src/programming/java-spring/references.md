@@ -66,7 +66,8 @@ head:
 - [`finda-tech` / 금융서비스 MSA 전환기 - DB 분리(1편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-db-%EB%B6%80-1%ED%8E%B8-63d09e7ebe0e)
 - [`finda-tech` / 금융서비스 MSA 전환기- 서버 간 비동기 메시지 기반 통신 처리(3편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-%EC%84%9C%EB%B2%84-%EA%B0%84-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B8%B0%EB%B0%98-%ED%86%B5%EC%8B%A0-%EC%B2%98%EB%A6%AC-3%ED%8E%B8-c0785860a3d5)
 - [`sigridjin` / ServletContainer와 SpringContainer는 무엇이 다른가?](https://sigridjin.medium.com/servletcontainer%EC%99%80-springcontainer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-626d27a80fe5#gaeraea.com)
-
+- [`itnext` / Building Modular Monolith Applications with Spring Boot and Domain Driven Design](https://itnext.io/building-modular-monolith-applications-with-spring-boot-and-domain-driven-design-d3299b300850)
+- [`itnext` / Improving Modular Monolith Applications with Spring Modulith](https://itnext.io/improving-modular-monolith-applications-with-spring-modulith-edecc787f63c)
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -243,6 +244,18 @@ head:
 ### Unlogged - Replay production traffic locally!
 
 - [SpringBoot vs Quarkus vs Micronaut](https://unlogged.io/post/springboot-vs-quarkus-vs-micronaut?ref=sangkon.com)
+
+### Jessy
+
+- [Bundling React (Vite) with Spring Boot](https://www.jessym.com/articles/bundling-react-vite-with-spring-boot)
+
+### Java and Beyond
+
+- [Different ways to write concurrency safe database operations in spring boot](https://rahulraj.io/different-ways-to-write-concurrency-safe-database-operations-in-spring-boot)
+
+### yCrash - Root Cause Analyzer
+
+- [Virtual Threads – A Definite Advantage](https://blog.ycrash.io/virtual-threads-a-definite-advantage/)
 
 ---
 

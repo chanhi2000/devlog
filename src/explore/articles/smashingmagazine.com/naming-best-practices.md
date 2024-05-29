@@ -44,7 +44,7 @@ prev: /academics/system-design/articles/README.md
   "title": "Best Practices For Naming Design Tokens, Components And Variables",
   "desc": "How can we get better at naming? This post is dedicated to naming conventions, tips, and real-world examples that help you name things in a robust and flexible way.",
   "link": "https://smashingmagazine.com/2024/05/naming-best-practices/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

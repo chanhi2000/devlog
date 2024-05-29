@@ -44,7 +44,7 @@ prev: /academics/system-design/articles/README.md
   "title": "Building A User Segmentation Matrix To Foster Cross-Org Alignment",
   "desc": "Many organizations prioritize internal structures and services over customer-centricity, hindering effective decision-making. Through a case study, Talke Hoppmann-Walton advocates for a shift towards an outside-in perspective and proposes the use of a user segmentation matrix to foster alignment across departments and prioritize customer needs.",
   "link": "https://smashingmagazine.com/2024/05/building-user-segmentation-matrix-foster-cross-org-alignment/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

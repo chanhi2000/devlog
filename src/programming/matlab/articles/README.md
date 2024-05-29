@@ -16,7 +16,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/programming/Mmtlab/articles/
+      content: https://chanhi2000.github.io/programming/mmtlab/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

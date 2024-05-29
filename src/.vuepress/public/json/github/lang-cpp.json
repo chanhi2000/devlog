@@ -1368,5 +1368,15 @@
     "desc": "Instant Kubernetes-Native Application Observability",
     "officialSite": "https://px.dev",
     "topics": ["aks", "apache-arrow", "cloud-native", "cncf", "distributed-systems", "ebpf", "eks", "gke", "golang", "kubernetes", "machine-learning", "metrics", "minikube", "monitoring", "observability", "pandas", "pixie", "px", "px-run", "vega"]
+  }, {
+    "repo": "cameron314/concurrentqueue",
+    "desc": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "sudachi-emu/sudachi",
+    "desc": "Sudachi is a Nintendo Switch emulator for Android, Linux, macOS and Windows, written in C++",
+    "officialSite": "",
+    "topics": []
   }
 ]

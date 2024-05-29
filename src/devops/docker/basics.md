@@ -21,7 +21,7 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]   
+[[toc]]
 
 ---
 
@@ -29,7 +29,7 @@ tag:
 
 ::: tabs
 
-@tab:active Image & Container 관리 
+@tab:active Image & Container 관리
 
 ```sh
 #

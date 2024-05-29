@@ -272,6 +272,16 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "디자인DB",
+  "desc": "세상의 디자인을 만나다, 디자인DB",
+  "link": "https://www.designdb.com/?menuno=668#gsc.tab=0",
+  "logo": "https://www.designdb.com/images/designdb.ico",
+  "background": "rgba(209,13,32,0.2)"
+}
+```
+
 https://gracefullight.dev/archive/
 
 <!-- 
@@ -324,7 +334,7 @@ https://gracefullight.dev/archive/
 {
   "title": "DigitalOcean | Cloud Infrastructure for Developers",
   "desc": "An ocean of simple, scalable cloud solutions.",
-  "link": "https://digitalocean.com/",
+  "link": "https://digitalocean.com/community/tutorials",
   "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
   "background": "rgba(29,55,209,0.2)"
 }

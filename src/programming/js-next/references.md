@@ -33,6 +33,10 @@ head:
 
 - [Common mistakes with the Next.js App Router and how to fix them](https://vercel.com/blog/common-mistakes-with-the-next-js-app-router-and-how-to-fix-them)
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`danielbergholz` / From Next.js to Rails then Elixir: My journey through React.js burnout](https://dev.to/danielbergholz/from-nextjs-to-rails-then-elixir-my-journey-through-reactjs-burnout-h8d)
+
 ---
 
 ## 개발 공부 블로그
@@ -80,6 +84,24 @@ head:
 ## Ruby on Rails Consulting Company | Saeloun
 
 - [Next.js vs. Remix - A Developer's Dilemma](https://blog.saeloun.com/2024/02/21/next.js-vs-remix/)
+
+---
+
+## Builder.io: Ship twice as much, twice as fast
+
+- [Next.js 14: Layouts vs Templates](https://www.builder.io/blog/nextjs-14-layouts-templates)
+
+---
+
+## Phase | Open Source Secrets Manager
+
+- [Updating public Next.js environment variables without rebuilds](https://phase.dev/blog/nextjs-public-runtime-variables)
+
+---
+
+## Viget | Strategy, Design, Development
+
+- [Thoughts on Remix](https://www.viget.com/articles/thoughts-on-remix/)
 
 ---
 

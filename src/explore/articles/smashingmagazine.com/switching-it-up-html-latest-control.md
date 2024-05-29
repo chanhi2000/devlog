@@ -42,7 +42,7 @@ prev: /programming/css/articles/README.md
   "title": "Switching It Up With HTML’s Latest Control",
   "desc": "After years of relying on checkbox hacks to create a “switch” control for forms that toggle between two states, HTML may be gaining a native way to go about it by adding a `switch` attribute to checkbox inputs. Daniel Yuschick walks us through a first impression of switch controls and discusses current and ongoing considerations that need to be explored further before it is ready for prime time.",
   "link": "https://smashingmagazine.com/2024/05/switching-it-up-html-latest-control/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

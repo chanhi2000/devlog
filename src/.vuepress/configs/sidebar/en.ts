@@ -267,8 +267,27 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-kafka/articles/README.md',
+            asb.digitalocean("java-kafka"),
             asb.popit("java-kafka"),
             asb.d2("java-kafka"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Quarkus',
+      collapsible: true,
+      icon: 'iconfont icon-quarkus',
+      children: [
+        '/programming/java-quarkus/README.md',
+        '/programming/java-quarkus/references.md',
+        '/programming/java-quarkus/github.md',
+        '/programming/java-quarkus/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/java-quarkus/articles/README.md',
           ]
         }
       ]
@@ -689,11 +708,46 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/py/articles/README.md',
             asb.freecodecamp("py"),
+            asb.digitalocean("py"),
             asb.yozm("py"),
             asb.nhn("py"),
             asb.ab180("py"),
           ]
         }
+      ]
+    }, {
+      text: 'NumPy',
+      collapsible: true,
+      icon: 'iconfont icon-numpy',
+      children: [
+        '/programming/py-numpy/README.md',
+        '/programming/py-numpy/references.md',
+        '/programming/py-numpy/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-numpy/articles/README.md',
+          ]
+        },
+      ]
+    }, {
+      text: 'Pandas',
+      collapsible: true,
+      icon: 'iconfont icon-pandas',
+      children: [
+        '/programming/py-pandas/README.md',
+        '/programming/py-pandas/references.md',
+        '/programming/py-pandas/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-pandas/articles/README.md',
+          ]
+        },
       ]
     }, {
       text: 'Django',
@@ -712,6 +766,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/py-django/articles/README.md',
             asb.freecodecamp('py-django'),
+            asb.digitalocean('py-django'),
           ]
         }
       ]
@@ -722,6 +777,7 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/py-flask/README.md',
         '/programming/py-flask/references.md',
+        '/programming/py-flask/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
@@ -1111,9 +1167,18 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-markdown',
       children: [
-        '/programming/markdown/README.md',
-        '/programming/markdown/template.md',
-        '/programming/markdown/references.md',
+        '/programming/md/README.md',
+        '/programming/md/snippets.md',
+        '/programming/md/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/md/articles/README.md',
+            asb.digitalocean("md"),
+          ]
+        },
       ]
     },
   ],
@@ -1783,6 +1848,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/docker/articles/README.md',
+            asb.digitalocean("docker"),
             asb.yozm("docker"),
             asb.towardsdatascience("docker"),
           ]
@@ -2153,6 +2219,7 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-mysql',
       children: [
         '/data-science/mysql/README.md',
+        '/data-science/mysql/cli.md',
         '/data-science/mysql/query.md',
         '/data-science/mysql/references.md',
         '/data-science/mysql/youtube.md',
@@ -2409,7 +2476,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/ai/openai/articles/README.md',
-            asb.d2("openai"),
+            asb.digitalocean("openai"),
+            asb.woowahan("openai"),
           ]
         }
       ]
@@ -2610,9 +2678,16 @@ export const sidebarEn = sidebar({
             '/explore/api/sk/README.md',
             '/explore/api/sk/local.md',
           ]
+        }, {
+          text: 'Coupang',
+          collapsible: true,
+          icon: 'iconfont icon-coupang',
+          children: [
+            '/explore/api/coupang/README.md',
+            '/explore/api/coupang/references.md',
+          ]
         },
         '/explore/api/list.md',
-        '/explore/api/references.md',
       ],
     }, {
       text: 'Youtube',
@@ -2735,13 +2810,22 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
-      text: 'General',
+      text: 'Mathematics',
       collapsible: true,
       icon: 'fas fa-square-root-variable',
       children: [
-        '/academics/general/README.md',
-        '/academics/general/references.md',
-        '/academics/general/youtube.md',
+        '/academics/math/README.md',
+        '/academics/math/references.md',
+        '/academics/math/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/academics/math/articles/README.md',
+            asb.freecodecamp("math"),
+          ]
+        }
       ]
     }, {
       text: 'MATH011',

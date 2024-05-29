@@ -1,12 +1,16 @@
 ---
 lang: ko-KR
 title: References
-description: General > References
+description: Mathematics > References
 icon: iconfont icon-share
 category: 
   - Mathematics
   - Science
+  - References
 tag:
+  - mathematics
+  - math
+  - science
   - ebooks
   - tutorial
 head:
@@ -16,7 +20,7 @@ head:
     - property: og:description
       content: References
     - property: og:url
-      content: https://chanhi2000.github.io/academics/general/references.html
+      content: https://chanhi2000.github.io/academics/math/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

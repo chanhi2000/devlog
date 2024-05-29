@@ -45,4 +45,10 @@ head:
 
 ---
 
+## Angel's Egg - the home page of Eduardo Ochs (a.k.a. Edrx)
+
+- [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
+
+---
+
 <TagLinks />

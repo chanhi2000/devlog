@@ -42,7 +42,7 @@ prev: /programming/css/articles/README.md
   "title": "The Times You Need A Custom @property Instead Of A CSS Variable",
   "desc": "Preethi Sam walks through an example that demonstrates where custom properties are more suitable than variables while showcasing the greater freedom and flexibility that custom properties provide for designing complex, refined animations.",
   "link": "https://smashingmagazine.com/2024/05/switimes-need-custom-property-instead-css-variable/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

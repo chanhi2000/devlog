@@ -9,8 +9,12 @@ category:
   - Article(s)
 tag: 
   - blog
-  - yozm.wishket.com  
+  - digitalocean.com
+  - yozm.wishket.com
+  - towardsdatascience.com
+  - devops
   - docker
+  - vm
 head:
   - - meta:
     - property: og:title
@@ -22,6 +26,16 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "DigitalOcean | Cloud Infrastructure for Developers",
+  "desc": "An ocean of simple, scalable cloud solutions.",
+  "link": "https://digitalocean.com/community/tutorials",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -44,6 +58,22 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## DigitalOcean | Cloud Infrastructure for Developers
+
+> digitalocean.com
+
+```component VPCard
+{
+  "title": "How To Use docker exec to Run Commands in a Docker Container | DigitalOcean",
+  "desc": "When developing or deploying containers you’ll often need to look inside a running container to inspect its current state or debug a problem. Docker provides…",
+  "link": "/explore/articles/digitalocean.com/how-to-use-docker-exec-to-run-commands-in-a-docker-container.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
 
 ---
 

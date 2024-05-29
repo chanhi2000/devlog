@@ -59,8 +59,9 @@ head:
 
 ---
 
-## Supabase
+## <FontIcon icon="iconfont icon-supabase"/>Supabse
 
+- [Elixir clustering using Postgres](https://supabase.com/blog/elixir-clustering-using-postgres)
 - [What's new in pgvector v0.7.0](https://supabase.com/blog/pgvector-0-7-0)
 
 ---

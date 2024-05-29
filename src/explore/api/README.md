@@ -824,6 +824,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Lorem Picsum",
+  "desc": "Lorem Ipsum... but for photos",
+  "link": "https://picsum.photos/",
+  "logo": "https://picsum.photos/assets/images/favicon/favicon-32x32.png",
+  "background": "rgba(26,26,26,0.2)"
+}
+```
+
 <!-- @end Design & Image -->
 
 @tab Geospatial
@@ -998,7 +1008,12 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
-- [Convert DWG to SHP Online](https://mygeodata.cloud/converter/dwg-to-shp)
+<SiteInfo
+  name="DWG to SHP Converter Online - MyGeodata Cloud"
+  desc="Discover fast and easy to use online conversion and transformation tool to convert DWG to SHP format - widely used in AutoCAD, ESRI ArcGIS and ArcView."
+  url="https://mygeodata.cloud/converter/dwg-to-shp"
+  logo="https://mygeodata.cloud/favicon.ico"
+  preview="https://mygeodata.cloud/tmp/img/icon-geoczech-sm-transparent.png"/>
 
 <!-- @end Geospatial -->
 
@@ -1199,6 +1214,174 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ```component VPCard
 {
+  "title": "공공데이터포털",
+  "desc": "국가에서 보유하고 있는 다양한 데이터를『공공데이터의 제공 및 이용 활성화에 관한 법률(제11956호)』에 따라 개방하여 국민들이 보다 쉽고 용이하게 공유•활용할 수 있도록 공공데이터(Dataset)와 Open API로 제공하는 사이트입니다.",
+  "link": "https://www.data.go.kr/",
+  "logo": "https://www.data.go.kr/images/biz/DATA.ico",
+  "background": "rgba(11,112,185,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "공공데이터> 공공데이터 | 서울열린데이터광장",
+  "desc": "...",
+  "link": "https://data.seoul.go.kr/dataList/datasetList.do",
+  "logo": "https://data.seoul.go.kr/images/favicon.png",
+  "background": "rgba(185,83,112,0.2)"
+}
+```
+
+<SiteInfo
+  name="경기데이터드림"
+  desc="경기도의 모든 공공데이터를 개방합니다."
+  url="https://data.gg.go.kr/portal/mainPage.do#"
+  logo="https://data.gg.go.kr/favicon-152.png"
+  preview="https://data.gg.go.kr/img/ggportal/desktop/main/og_logo.png"/>
+
+```component VPCard
+{
+  "title": "진로정보망 커리어넷",
+  "desc": "교육부 제공 진로정보망, 직업 및 학과 정보, 진로상담, 진로심리검사, 진로동영상, 진로교육자료 수록",
+  "link": "https://www.career.go.kr/cnet/front/main/main.do",
+  "background": "rgba(244,43,60,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "나이스 교육정보 개방 포털",
+  "desc": "나이스교육정보개방포털, 교육정보 개방 포털 에서 필요한 자료를 손쉽게 찾아보세요. PC웹, 태블릿 PC, 모바일에서 편리하게 사용하실 수 있습니다.",
+  "link": "https://open.neis.go.kr/portal/mainPage.do",
+  "background": "rgba(215,69,40,0.2)"
+}
+```
+
+<SiteInfo
+  name="한강홍수통제소"
+  desc="안전한 강, 풍요로운 물! 한강홍수통제소"
+  url="https://hrfco.go.kr/"
+  logo="https://hrfco.go.kr/images/favicon.ico"
+  preview="https://hrfco.go.kr/images/main_visual.jpg"/>
+
+```component VPCard
+{
+  "title": "::: IERNet :::",
+  "desc": "국가환경방사선자동감지망",
+  "link": "https://iernet.kins.re.kr/",
+  "background": "rgba(5,61,143,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "::: FMS 표준연계서비스 :::",
+  "desc": "시설물안전법에 의한 1, 2, 3종 시설물의 준공이후 유지관리단계에서 발생되는 정보를 통합관리하는 시스템",
+  "link": "http://59.7.251.146:8080/com/mainForm.do",
+  "logo": "http://59.7.251.146:8080/com/favicon.ico",
+  "background": "rgba(213,240,242,0.2)"
+}
+```
+
+<SiteInfo
+  name="국가기상위성센터"
+  desc="반갑다! 국가기상위성센터"
+  url="https://nmsc.kma.go.kr/homepage/html/main/main.do"
+  logo="https://nmsc.kma.go.kr/resources/common/images/favicon.ico"
+  preview="https://nmsc.kma.go.kr/IMG/GK2A/AMI/PRIMARY/L1B/COMPLETE/EA/202405/30/00/gk2a_ami_le1b_rgb-s-daynight_ea020lc_202405300050.thn.png"/>
+
+```component VPCard
+{
+  "title": "국내/국제 우편요금 조회",
+  "desc": "...",
+  "link": "https://service.epost.go.kr/comm/search/cmsc01004.jsp",
+  "logo": "https://service.epost.go.kr/favicon.ico",
+  "background": "rgba(239,73,84,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "주소정보누리집(도로명주소 안내시스템)",
+  "desc": "도로명주소 안내홈페이지",
+  "link": "https://www.juso.go.kr/openIndexPage.do",
+  "logo": "https://www.juso.go.kr/favicon.ico",
+  "background": "rgba(56,68,93,0.2)"
+}
+```
+
+<SiteInfo
+  name="스마트서울맵, 더 스마트한 서울지도"
+  desc="스마트서울맵은 도시생활지도, 3D 서울지도, 시민말씀지도, 코로나19 지도, 시민참여지도 등 대표 서울지도 서비스입니다."
+  url="https://115.84.164.24/smgis2/"
+  logo="https://115.84.164.24/smgis2/file/imgs/favicon/android-icon-192x192.png"
+  preview="https://115.84.164.24/smgis2/file/imgs/seoulMap/new_main/bg.jpg"/>
+
+<SiteInfo
+  name="K-water"
+  desc="물이 여는 미래, 물로 나누는 행복"
+  url="https://www.kwater.or.kr/main.do?s_mid=1"
+  logo="https://www.kwater.or.kr/web/images/common/favicon.ico"
+  preview="https://www.kwater.or.kr/main_vision/bg-15.gif"/>
+
+```component VPCard
+{
+  "title": "RFID 음식물쓰레기관리시스템",
+  "desc": "내가 버린 배출량 만큼만 수수료를 지불하는 음식물쓰레기 종량제 시스템",
+  "link": "https://www.citywaste.or.kr/",
+  "logo": "https://www.citywaste.or.kr/images/ucwmsV01/common/favicon.ico",
+  "background": "rgba(246,245,239,0.2)"
+}
+```
+
+<SiteInfo
+  name="토석정보공유시스템"
+  desc="토석정보공유시스템 토싸이클 입니다."
+  url="https://www.tocycle.com/"
+  preview="https://www.tocycle.com/common_new/images/m_img.png"/>
+
+```component VPCard
+{
+  "title": "서울특별시 서울아리수본부",
+  "desc": "...",
+  "link": "https://arisu.seoul.go.kr/",
+  "logo": "https://arisu.seoul.go.kr/favicon.ico",
+  "background": "rgba(12,130,233,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "서울특별시 서울아리수본부 (모바일)",
+  "desc": "...",
+  "link": "https://m.arisu.seoul.go.kr/",
+  "logo": "https://arisu.seoul.go.kr/favicon.ico",
+  "background": "rgba(12,130,233,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "올크레딧",
+  "desc": "대한민국 대표 신용평가사가 제공하는 맞춤형 신용관리, 무료 신용점수 확인 및 마이데이터 등록을 통해 신용점수 상승 경험을 해보세요",
+  "link": "https://www.allcredit.co.kr/p/img/ico/favicon.ico",
+  "logo": "https://www.allcredit.co.kr/screen/sc4558891189",
+  "background": "rgba(255,221,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "메인 | 행정안전부 안전한TV",
+  "desc": "국민안전방송, 재난사고 예방, 안전 행동요령, 대처요령 등 동영상 제공.",
+  "link": "http://www.safetv.go.kr/web/main/main.do",
+  "logo": "https://www.safetv.go.kr/template/resources/images/basic/favicon.ico",
+  "background": "rgba(45,70,110,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "홍수위험지도 정보시스템",
   "desc": "홍수위험지도는 하천제방의 설계빈도를 초과하는 홍수가 발생하여 제방붕괴, 제방월류 등 극한의 상황이 발생한다는 가정하에 하천 주변지역의 침수범위, 침수깊이를 나타낸 지도입니다.",
   "link": "https://floodmap.go.kr/public/publicIntro.do",
@@ -1366,6 +1549,24 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "background": "rgba(34,83,80,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "Golf Genius API · Apiary",
+  "desc": "A place where APIs are kept.",
+  "link": "https://jsapi.apiary.io/apis/golfgeniusapiv2/reference/0/event-creation.html",
+  "logo": "https://static.apiary.io/assets/3aqvBs0H.ico",
+  "background": "rgba(124,207,175,0.2)"
+}
+```
+
+<SiteInfo
+  name="Most Comprehensive Cryptocurrency API | CoinGecko"
+  desc="Use our free cryptocurrency API to get data such as live crypto prices, trading volume, trading pairs, historical information, exchanges data, and more."
+  url="https://www.coingecko.com/en/api"
+  logo="https://www.coingecko.com/favicon-96x96.png"
+  preview="https://static.coingecko.com/s/thumbnail-d5a7c1de76b4bc1332e48227dc1d1582c2c92721b5552aae76664eecb68345c9.png"/>
+
 
 - https://beta-genport.newsystock.com/backtest/TradingM.aspx?UseType=KOR
 - https://viperfish.com.au/games/pinnacle.html

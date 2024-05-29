@@ -6,6 +6,11 @@ icon: iconfont icon-django
 category:
   - Python
   - Django
+tag:
+  - python
+  - py
+  - django
+  - py-django
 ---
 
 # {{ $frontmatter.description }} 관련

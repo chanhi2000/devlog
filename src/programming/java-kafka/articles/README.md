@@ -10,8 +10,7 @@ category:
   - Article(s)
 tag: 
   - blog
-  - popit.kr
-  - d2.naver.com
+  - digitalocean.com
   - java
   - kotlin
   - kafka
@@ -27,6 +26,16 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "DigitalOcean | Cloud Infrastructure for Developers",
+  "desc": "An ocean of simple, scalable cloud solutions.",
+  "link": "https://digitalocean.com/community/tutorials",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -46,6 +55,42 @@ head:
   preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
+
+---
+
+## DigitalOcean | Cloud Infrastructure for Developers
+
+> digitalocean.com
+
+```component VPCard
+{
+  "title": "How to Integrate Existing Systems with Kafka Connect | DigitalOcean",
+  "desc": "In this tutorial, you’ll learn how to ingest data into Kafka topics using Kafka Connect - a tool used for reliably transferring data between Kafka and other …",
+  "link": "/explore/articles/digitalocean.com/how-to-integrate-existing-systems-with-kafka-connect.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Set Up a Multi-Node Kafka Cluster using KRaft | DigitalOcean",
+  "desc": "Learn to create a Kafka cluster with KRaft for scalable, fault-tolerant real-time data processing in this step-by-step tutorial…",
+  "link": "/explore/articles/digitalocean.com/how-to-set-up-a-multi-node-kafka-cluster-using-kraft.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Manage Kafka Programmatically | DigitalOcean",
+  "desc": "Discover how to master Kafka cluster management with KafkaAdminClient API, kcat CLI, and Kafka Cruise Control for efficient Kafka cluster management…",
+  "link": "/explore/articles/digitalocean.com/how-to-manage-kafka-programmatically.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
 
 ---
 

@@ -77,6 +77,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "rust", [
       "procedural-macros-in-rust", // 2024.04.24
+      "rust-tutorial-build-a-json-parse", // 2024.05.29
     ]],[
     "go", [
       "how-to-handle-concurrency-in-go", // 2024.05.10
@@ -126,6 +127,9 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "system-design", [
       "minimum-viable-product-between-an-idea-and-the-product", // 2024.05.24
+    ]],[
+    "math", [
+      "how-do-numerical-conversions-work", // 2024.05.29
     ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -186,6 +190,8 @@ export const template: SidebarInfoTemplate = {
       "a-guide-to-the-node-js-event-loop", // 2024.05.28
       "react-19-new-hooks-explained-with-examples", // 2024.05.28
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024.05.28
+      "rust-tutorial-build-a-json-parse", // 2024.05.29
+      "how-do-numerical-conversions-work", // 2024.05.29
     ]],
   ]),
 }

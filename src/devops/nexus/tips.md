@@ -27,7 +27,7 @@ tag:
 
 From Maven Central
 
-::: code-tabs#sh
+::: tabs
 
 @tab:active <FontIcon icon="iconfont icon-shell"/>shell
 
@@ -51,7 +51,7 @@ curl -H "Accept: application/zip" ^
 
 to Local Nexus Repository
 
-::: code-tabs#sh
+::: tabs
 
 @tab:active <FontIcon icon="iconfont icon-shell"/>shell
 
@@ -79,9 +79,9 @@ curl -v -u admin:admin123 --upload-file "http://10.60.175.90:9880/nexus/service/
 
 in Local Nexus Repository
 
-::: code-tabs#sh
+::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-shell"/>shell
+@tab:active <FontIcon icon="iconfont icon-shell"/>Shell
 
 ```sh
 # Delete all pom related files

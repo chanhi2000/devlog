@@ -48,7 +48,7 @@ prev: /programming/js-node/articles/README.md
   "title": "The Era Of Platform Primitives Is Finally Here",
   "desc": "Application frameworks have built whole ecosystems on top of them. Let’s take a closer look at serverless platforms such as Netlify’s [Platform Primitives](https://www.netlify.com/platform/primitives) and explore how they can increase our productivity with a serverless fullstack experience.",
   "link": "https://smashingmagazine.com/2024/05/netlify-platform-primitives/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

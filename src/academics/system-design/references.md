@@ -29,7 +29,7 @@ head:
 
 ## YOZM
 
-- [사용자를 '중독'시키는 UX 전략](https://yozm.wishket.com/magazine/detail/2300/)
+- [사용자를 '중독'시키는 UX 전략](https://yozm.wishket.com/magazine/detail/2300/) <!-- TODO: 작성 (/explore/articles/yozm.wishket.com/2300.md) -->
 
 ---
 
@@ -223,6 +223,24 @@ head:
 ## Miles UX/UI Insight
 
 - [새로운 디자인 컴포넌트 도입 절차](https://vurias0203.tistory.com/entry/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%88%EC%B0%A8)
+
+---
+
+## Increase — Enterprise-grade Banking APIs
+
+- [No Abstractions: an Increase API design principle](https://increase.com/articles/no-abstractions)
+
+---
+
+## The Code Whisperer
+
+- [TDD: For Those Who Don't Know How to Design Software](https://blog.thecodewhisperer.com/permalink/tdd-for-those-who-dont-know-how-to-design-software)
+
+---
+
+## ★❤✰ Vicki Boykis ★❤✰
+
+- [Retro on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 
 ---
 

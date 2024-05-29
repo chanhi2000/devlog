@@ -48,7 +48,7 @@ prev: /programming/js-react/articles/README.md
   "title": "The Forensics Of React Server Components (RSCs)",
   "desc": "React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.",
   "link": "https://smashingmagazine.com/2024/05/forensics-react-server-components/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

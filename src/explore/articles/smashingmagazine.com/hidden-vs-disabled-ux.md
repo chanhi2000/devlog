@@ -44,7 +44,7 @@ prev: /academics/system-design/articles/README.md
   "title": "Hidden vs. Disabled In UX",
   "desc": "Should you hide or disable a feature? You’ve probably been there before. Here are some considerations for hiding versus disabling, along with possible alternatives to improve UX. An upcoming part of Smart Interface Design Patterns.",
   "link": "https://smashingmagazine.com/2024/05/hidden-vs-disabled-ux/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

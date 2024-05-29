@@ -25,43 +25,6 @@ tag:
 
 ---
 
-## APIs
-
-- [golf-genius-api][golf-genius-api]: Golf Genius API
-- [CoinGecko](https://www.coingecko.com/en/api): Cryptocurrencies
-- [Lorem Picsum](https://picsum.photos): The Lorem Ipsum for photos.
-- [newscatcher](https://newscatcherapi.com): News Data: structured, relevant, real-time
-
----
-
-### 대한민국
-
-- [data-kr][data-kr]: 공공데이터포털
-- [data-seoul][data-seoul]: 서울 열린데이터 광장
-- [data-kkd][data-kkd]: 경기데이터드림
-- [careerkr][careerkr]: 진로정보망 커리어넷
-- [neis][neis]: 나이스 교육정보 개방 포털
-- [hrfco][hrfco]: 한강홍수통제소
-- [iernet][iernet]: 국가환경방사선자동감시망
-- [fms][fms]: FMS (Facilty Management System) 표준연계시스템
-- [nmsc][nmsc]: 국가기상위성센터
-- [epost][epost]: 국내/국제 우편요금 조회
-- [juso][juso]: 도로명주소
-- [smap][smap]: 스마트서울맵
-- [kwater][kwater]: K-Water
-- [citywaste][citywaste]: 음식물 쓰레기 관리시스템
-- [tocycle][tocycle]: 토석정보공유시스템
-- [arisu]: 서울특별시 상수도사업본부
-  - [📱for Mobile](https://m.arisu.seoul.go.kr)
-- [nsdi][nsdi]: 국가공간정보포털
-- [coupang][coupang]: 쿠팡
-- [kakao][kakao]: 카카오
-- [allcredit](https://www.allcredit.co.kr): 올크래딧
-- [국민안전방송 안전한tv](http://www.safetv.go.kr/web/main/main.do)
-- [한국디자인진흥원](https://www.designdb.com)
-
----
-
 ## Resources
 
 - [MathAPI][math-api]: Place LaTeX Math equation on anywhere as `<img>` tag.
@@ -96,31 +59,6 @@ tag:
 ---
 
 <TagLinks />
-
-<!-- APIs -->
-
-[golf-genius-api]: https://jsapi.apiary.io/apis/golfgeniusapiv2/reference/0/master-roster.html
-<!-- APIs > 한국 -->
-[data-kr]: https://www.data.go.kr
-[data-seoul]: https://data.seoul.go.kr/dataList/datasetList.do
-[data-kkd]: https://data.gg.go.kr
-[careerkr]: https://www.career.go.kr
-[neis]: https://open.neis.go.kr
-[hrfco]: http://hrfco.go.kr
-[iernet]: https://iernet.kins.re.kr
-[fms]: http://59.7.251.146:8080/com/mainForm.do
-[nmsc]: https://nmsc.kma.go.kr/homepage/html/satellite/viewer/selectSatViewer.do?dataType=operSat
-[epost]: https://service.epost.go.kr/comm/search/cmsc01004.jsp
-[juso]: https://www.juso.go.kr/openIndexPage.do
-[smap]: http://115.84.164.24/smgis2
-[kwater]: https://www.kwater.or.kr
-[citywaste]: https://www.citywaste.or.kr
-[tocycle]: https://www.tocycle.com
-[arisu]: https://arisu.seoul.go.kr
-[nsdi]: http://www.nsdi.go.kr/lxportal
-[coupang]: https://developers.coupangcorp.com/hc/ko
-[kakao]: https://developers.kakao.com/docs/latest/ko/index
-<!-- Resources -->
 
 [math-api]: https://math.vercel.app/home
 [MariaLetta/free-gophers-pack]: https://github.com/MariaLetta/free-gophers-pack

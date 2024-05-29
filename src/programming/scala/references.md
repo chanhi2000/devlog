@@ -24,4 +24,16 @@ head:
 
 ---
 
+## SystemFw
+
+- [Deriving Tail Recursive Fibonacci](https://systemfw.org/posts/tailrec.html)
+
+---
+
+## Pierre Ricadat's Tech Blog
+
+- [A Beginner's Guide to GraphQL in Scala](https://blog.pierre-ricadat.com/a-beginners-guide-to-graphql-in-scala)
+
+---
+
 <TagLinks />

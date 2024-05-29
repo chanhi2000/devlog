@@ -22,7 +22,7 @@ const jsonFullPathsLang = [
 ].map((e: string) => `${PUBLIC_GITHUB_BASEPATH}/lang-${e}.json`);
 
 const jsonFullPathsLangTut = [
-  "c", "cpp", "csharp", "dart", "dockerfile", "go", "java", "android", "js", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "py", "ruby", "rust", "sh", "swift", "ts"
+  "c", "cpp", "csharp", "dart", "dockerfile", "go", "java", "android", "haskell", "js", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "py", "ruby", "rust", "sh", "swift", "ts"
 ].map((e: string) => `${PUBLIC_GITHUB_BASEPATH}/lang-${e}-tut.json`);
 
 const jsonFullPathsOther = [

@@ -196,6 +196,17 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+```component VPCard
+{
+  "title": "Platforms and Publishers: AI Partnership Tracker",
+  "desc": "How many AI deals have technology companies made?",
+  "link": "https://petebrown.quarto.pub/pnp-ai-partnerships/",
+  "background": "rgba(70,120,185,0.2)"
+}
+```
+
+<!-- @end Curated -->
+
 @tab Cheatsheet
 
 ```component VPCard
@@ -473,6 +484,15 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "background": "rgba(255,161,0,0.2)"
 }
 ```
+
+<SiteInfo
+  name="title"
+  desc="Qlock - A JavaScript Quine Clock"
+  url="Displays the current time in a seven-segment style, embedded within its own JavaScript source code. (321 bytes)"
+  logo="https://aem1k.com/qlock/"
+  preview="https://aem1k.com/favicon.ico"/>
+
+https://aem1k.com/qlock/preview.png
 
 https://www.getanyplant.com/plants
 https://demos.littleworkshop.fr/infinitown

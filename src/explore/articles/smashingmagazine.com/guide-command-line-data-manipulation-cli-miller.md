@@ -43,7 +43,7 @@ prev: /programming/sh/articles/README.md
   "title": "A Guide To Command-Line Data Manipulation — Smashing Magazine",
   "desc": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
   "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

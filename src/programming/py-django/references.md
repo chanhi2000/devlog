@@ -109,4 +109,22 @@ tag:
 
 ---
 
+## Better Simple | Tim Schilling · Better Simple
+
+- [The Fanout Pattern Explained](https://www.better-simple.com/django/2023/12/06/fanout-pattern-explained/)
+
+---
+
+## Alexey Evseev
+
+- [SQLALchemy vs Django ORM](https://st4lk.github.io/en/blog/2023/12/09/sqlalchemy-vs-django-orm)
+
+---
+
+## David Smith's Blog
+
+- [Building a Bootstrap styled form in vanilla Django.](https://smithdc.uk/blog/2023/bootstrap_form_in_vanilla_django)
+
+---
+
 <TagLinks />

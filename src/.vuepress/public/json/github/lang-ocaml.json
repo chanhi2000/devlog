@@ -14,5 +14,10 @@
     "desc": "Programming language for literate programming law specification",
     "officialSite": "https://catala-lang.org",
     "topics": ["programming-language", "legislative-texts"]
+  }, {
+    "repo": "panglesd/slipshow",
+    "desc": "An engine for displaying slips, the next-gen version of slides",
+    "officialSite": "",
+    "topics": ["slides", "slideshow", "slideshow-html", "slideshow-library", "slideshow-maker", "slip", "slips"]
   }
 ]

@@ -28,6 +28,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-supabase"/>Supabse
+
+- [Elixir clustering using Postgres](https://supabase.com/blog/elixir-clustering-using-postgres)
+
+---
+
 ## Teveloper 개발 & 테니스 이야기
 
 - [Supabase가 4년간의 베타를 거쳐 GA(General Availability) 릴리즈](https://teveloper.tistory.com/76)

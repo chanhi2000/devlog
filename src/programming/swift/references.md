@@ -199,6 +199,7 @@ tag:
 
 ## Augmented Code
 
+- [AsyncPhoto for displaying large photos in SwiftUI](https://augmentedcode.io/2023/12/11/asyncphoto-in-swiftui-for-displayng-large-photos)
 - [Applying metal shader to text in SwiftUI](https://augmentedcode.io/2023/08/07/applying-metal-shader-to-text-in-swiftui)
 
 ---
@@ -240,6 +241,7 @@ tag:
 
 ## Daniel Saidi
 
+- [How to customize the macOS About Panel in SwiftUI](https://danielsaidi.com/blog/2023/11/28/how-to-customize-the-macos-about-panel-in-swiftui)
 - [Enabling drag reordering in SwiftUI lazy grids and stacks](https://danielsaidi.com/blog/2023/08/30/enabling-drag-reordering-in-swiftui-lazy-grids-and-stacks)
 
 ---
@@ -667,6 +669,18 @@ tag:
 - [Implementing volumes in visionOS](https://createwithswift.com/implementing-volumes-in-visionos/)
 - [Create an animated transition with Matched Geometry Effect in SwiftUI](https://createwithswift.com/create-an-animated-transition-with-matched-geometry-effect-in-swiftui/)
 - [Understanding typography in visionOS](https://createwithswift.com/understanding-typography-in-visionos)
+
+---
+
+## Damian Mehers' blog
+
+- [AsyncStream in the real world: wrapping an Apple Photos callback](https://damian.fyi/swift/2023/12/03/asyncstream-in-the-real-world-wrapping-an-apple-photos-callback.html)
+
+---
+
+## AzamSharp | Blog about iOS development and musings on technology
+
+- [Is MVVM Dead in SwiftUI?](https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui.html)
 
 ---
 

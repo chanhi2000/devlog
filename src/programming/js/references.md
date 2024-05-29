@@ -118,6 +118,7 @@ tag:
 - [`junghan92` / (번역) 주의 깊게 XMLHttpRequest 재시도하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%A3%BC%EC%9D%98-%EA%B9%8A%EA%B2%8C-xmlhttprequest-%EC%9E%AC%EC%8B%9C%EB%8F%84%ED%95%98%EA%B8%B0-2895dfa66b43)
 - [`watcha` / 웹브라우저에서 동작하는 녹화앱 만들기](https://medium.com/watcha/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EB%85%B9%ED%99%94%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-70142ce28994)
 - [`naver-place-dev` / 자바스크립트와 V8 엔진의 메모리 관리 프로세스 \[ko\]](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
+- [`javascript-scene` / 10 Interview Questions Every JavaScript Developer Should Know in 2024](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb)
 
 ---
 
@@ -331,6 +332,18 @@ tag:
 ## 뽀글뽀글 개발 일지
 
 - [\[JS\] Hoisting](https://bbogle2.tistory.com/entry/JS-Hoisting)
+
+---
+
+## Web Performance Calendar
+
+- [Fastest Way of Passing State to JavaScript, Re-visited](https://calendar.perfplanet.com/2023/fastest-way-passing-state-javascript-revisited/)
+
+---
+
+## Read the Tea Leaves
+
+- [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 
 ---
 

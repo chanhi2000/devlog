@@ -15,6 +15,7 @@ tag:
 <ShieldsGroup logos="kakao"/>
 
 ---
+
 ```component VPCard
 {
   "title": "문서 홈 | Kakao Developers 문서",

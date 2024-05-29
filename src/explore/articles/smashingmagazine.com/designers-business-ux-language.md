@@ -44,7 +44,7 @@ prev: /academics/system-design/articles/README.md
   "title": "Why Designers Aren’t Understood",
   "desc": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.",
   "link": "https://smashingmagazine.com/2024/05/designers-business-ux-language/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

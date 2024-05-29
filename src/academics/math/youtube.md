@@ -1,22 +1,26 @@
 ---
 lang: ko-KR
 title: Youtube
-description: General > Youtube
+description: Mathematics > Youtube
 icon: fa-brands fa-youtube
 category: 
   - Mathematics 
   - Science
-tag: 
+  - Youtube
+tag:
+  - mathematics
+  - math
+  - science
   - youtube
   - tutorial
 head:
   - - meta:
     - property: og:title
-      content: General > Youtube
+      content: Mathematics > Youtube
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/academics/general/youtube.html
+      content: https://chanhi2000.github.io/academics/math/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

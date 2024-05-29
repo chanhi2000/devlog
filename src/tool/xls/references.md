@@ -63,6 +63,7 @@ head:
 - [엑셀 셀서식 - 표시형식기호 3 : 조건, 색상 추가](https://damoang.net/lecture/2831)
 - [엑셀 - 오늘날짜 & 현재시간 입력을 단축키로 편리하게](https://damoang.net/lecture/3903)
 - [엑셀 참조 1 - 참조 연산자의 모든 것](https://damoang.net/lecture/3975)
+- [엑셀 참조 2 - 상대 절대 혼합 참조 완벽하게 이해하기](https://damoang.net/lecture/4073)
 
 ---
 

@@ -242,4 +242,10 @@ head:
 
 ---
 
+## Simon Willison's Weblog
+
+- [Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
+
+---
+
 <TagLinks/>

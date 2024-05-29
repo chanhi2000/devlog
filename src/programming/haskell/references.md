@@ -1,19 +1,20 @@
 ---
 lang: ko-KR
 title: References
-description: 🐑Haskell > References
+description: Haskell > References
 icon: iconfont icon-share
 category: 
-  - 🐑Haskell
+  - Haskell
   - References
 tag: 
   - haskell
+  - hs
 head:
   - - meta:
     - property: og:title
-      content: References
+      content: Haskell > References
     - property: og:description
-      content: 🐑Haskell > References
+      content: References
     - propert: og:type
       content: article
     - property: og:url
@@ -74,6 +75,18 @@ head:
 ## Stack Builders
 
 - [A QuickCheck Tutorial: Generators](https://www.stackbuilders.com/blog/a-quickcheck-tutorial-generators/)
+
+---
+
+## Joe Warren
+
+- [Haskell FFI](https://www.doscienceto.it/blog/posts/2024-01-23-ffi.html)
+
+---
+
+## Monday Morning Haskell
+
+- [How to Write Comments in Haskell](https://mmhaskell.com/blog/comments-in-haskell)
 
 ---
 

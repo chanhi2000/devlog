@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - digitalocean.com
   - python
   - py
   - django
@@ -33,6 +34,16 @@ head:
   "link": "https://freecodecamp.org/news/",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "DigitalOcean | Cloud Infrastructure for Developers",
+  "desc": "An ocean of simple, scalable cloud solutions.",
+  "link": "https://digitalocean.com/community/tutorials",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
 }
 ```
 
@@ -61,6 +72,22 @@ head:
   "link": "/explore/articles/freecodecamp.org/how-to-secure-your-django-app.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## DigitalOcean | Cloud Infrastructure for Developers
+
+> digitalocean.com
+
+```component VPCard
+{
+  "title": "Developing Multi-Modal Bots with Django, GPT-4, Whisper, and DALL-E | DigitalOcean",
+  "desc": "Technical tutorials, Q&A, events — This is an inclusive place where developers can find or lend support and discover new ways to contribute to the community…",
+  "link": "/explore/articles/digitalocean.com/developing-multi-modal-bots-with-django-gpt-4-whisper-and-dall-e.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
 }
 ```
 

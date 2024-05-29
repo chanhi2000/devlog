@@ -284,7 +284,7 @@ head:
   "title": "The Times You Need A Custom @property Instead Of A CSS Variable",
   "desc": "Preethi Sam walks through an example that demonstrates where custom properties are more suitable than variables while showcasing the greater freedom and flexibility that custom properties provide for designing complex, refined animations.",
   "link": "/explore/articles/smashingmagazine.com/switimes-need-custom-property-instead-css-variable.md",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```
@@ -294,7 +294,7 @@ head:
   "title": "Beyond CSS Media Queries",
   "desc": "Juan Diego Rodriguez explains why media queries still occupy a vital role in responsive layouts; only they are now one tool in a larger toolbox with modern techniques that are best when used together.",
   "link": "/explore/articles/smashingmagazine.com/beyond-css-media-queries.md",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```
@@ -304,7 +304,7 @@ head:
   "title": "Modern CSS Layouts: You Might Not Need A Framework For That",
   "desc": "It’s easy to get lost in a sea of CSS frameworks and libraries, each promising easier styling and smoother layouts. Brecht De Ruyte demonstrates four CSS utility classes (plus a bonus) using techniques that allow them to be used practically anywhere you need a particular layout — be it Grid or Flexbox — with configurable options.",
   "link": "/explore/articles/smashingmagazine.com/modern-css-layouts-no-framework-needed.md",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```
@@ -314,7 +314,7 @@ head:
   "title": "Switching It Up With HTML’s Latest Control",
   "desc": "After years of relying on checkbox hacks to create a “switch” control for forms that toggle between two states, HTML may be gaining a native way to go about it by adding a `switch` attribute to checkbox inputs. Daniel Yuschick walks us through a first impression of switch controls and discusses current and ongoing considerations that need to be explored further before it is ready for prime time.",
   "link": "/explore/articles/smashingmagazine.com/switching-it-up-html-latest-control.md",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

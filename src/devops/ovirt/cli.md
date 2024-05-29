@@ -11,6 +11,14 @@ tag:
   - sh
   - ovirt
   - cli
+head:
+  - - meta:
+    - property: og:title
+      content: oVirt > CLI
+    - property: og:description
+      content: CLI
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/ovirt/cli.html
 ---
 
 # {{ $frontmatter.title }} 관련

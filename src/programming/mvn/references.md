@@ -26,7 +26,7 @@ head:
     - property: og:description
       content: Maven > References
     - property: og:url
-      content: https://chanhi2000.github.io/programming/markdown/references.html
+      content: https://chanhi2000.github.io/programming/md/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

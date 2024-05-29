@@ -2319,5 +2319,10 @@
     "desc": "Graph theory (network) library for visualisation and analysis",
     "officialSite": "https://js.cytoscape.org",
     "topics": ["analysis", "cytoscapejs", "graph-theory", "javascript", "network", "visualisation"]
+  }, {
+    "repo": "swagger-api/swagger-ui",
+    "desc": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+    "officialSite": "https://swagger.io",
+    "topics": ["hacktoberfest", "oas", "open-source", "openapi", "openapi-specification", "openapi3", "openapi31", "rest", "rest-api", "swagger", "swagger-api", "swagger-js", "swagger-oss", "swagger-ui"]
   }
 ]

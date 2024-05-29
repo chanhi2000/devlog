@@ -105,7 +105,7 @@ tag:
 - [`proandroiddev` - How to safely update state in your Kotlin apps](https://proandroiddev.com/how-to-safely-update-state-in-your-kotlin-apps-bf51ccebe2ef)
 - [`proandroiddev` - Kotlin / Native —How to use C in Kotlin [Part 1]](https://proandroiddev.com/kotlin-native-how-to-use-c-in-kotlin-part-1-495e3264814a)
 - [`proandroiddev` - How to use Resources in Compose Multiplatform](https://proandroiddev.com/how-to-use-resources-in-compose-multiplatform-77a6552b505d)
-- [`google-developer-experts` - How to add text similarity to your Android applications easily using MediaPipe and Kotlin](https://medium.com/google-developer-experts/how-to-add-text-similarity-to-your-android-applications-easily-using-mediapipe-and-kotlin-571eeab4003c)
+- [`google-developer-experts` / How to add text similarity to your Android applications easily using MediaPipe and Kotlin](https://medium.com/google-developer-experts/how-to-add-text-similarity-to-your-android-applications-easily-using-mediapipe-and-kotlin-571eeab4003c)
 - [`turo-engineering` - Boosting Bazel Adoption on Android With Automation](https://medium.com/turo-engineering/boosting-bazel-adoption-on-android-with-automation-6dc79d298628)
 - [`google-exoplayer` - Trim, Transcode, Concatenate: Your Guide to Media3 Editing Libraries](https://medium.com/google-exoplayer/trim-transcode-concatenate-your-guide-to-media3-editing-libraries-668b4e4c2f97)
 - [`proandroiddev` - State of Dependency Management in Android Studio](https://proandroiddev.com/state-of-dependency-management-in-android-studio-a6ce647315f2)
@@ -128,6 +128,7 @@ tag:
 - [`stackademic` / What Every Android Developer Should Have in Their GitHub?](https://blog.stackademic.com/what-every-android-developer-should-have-in-their-github-de8deab051b9)
 - [`proandroiddev` / Room Relationships Explained](https://proandroiddev.com/room-database-relationships-explained-729d3c705fd9)
 - [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
+
 
 ---
 

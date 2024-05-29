@@ -2044,11 +2044,6 @@
     "officialSite": "https://erd-editor.io",
     "topics": ["database", "db", "diagram", "draw", "editor", "entity", "erd", "relationship", "sql", "vscode", "vuerd"]
   }, {
-    "repo": "schedule-x/schedule-x",
-    "desc": "Material design event calendar and date picker",
-    "officialSite": "https://schedule-x.dev",
-    "topics": ["calendar", "date-picker", "javascript", "react", "vue"]
-  }, {
     "repo": "srikanth235/privy",
     "desc": "Your private coding assistant",
     "officialSite": "",
@@ -2948,5 +2943,15 @@
     "desc": "「快速」打造「专属」问卷系统, 让调研「更轻松」",
     "officialSite": "https://xiaojusurvey.didi.cn",
     "topics": ["configuration", "node", "question", "survey", "vue"]
+  }, {
+    "repo": "Openpanel-dev/openpanel",
+    "desc": "All the goodies from both Mixpanel and Plausible combined into one tool.",
+    "officialSite": "https://openpanel.dev",
+    "topics": ["analytics"]
+  }, {
+    "repo": "heejin-hwang/mobile-wedding-invitation",
+    "desc": "알록달록 봄 느낌이 물씬 나는 모바일 청첩장입니다.",
+    "officialSite": "https://happily-ever-after.vercel.app/",
+    "topics": []
   }
 ]

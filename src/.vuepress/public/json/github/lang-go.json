@@ -1524,5 +1524,10 @@
     "desc": "Create, share, and run runbooks from your terminal. ",
     "officialSite": "https://getsavvy.so",
     "topics": ["ai", "automation", "charmbracelet", "cli", "devops", "devtool", "go", "golang", "incident-response", "llm", "oncall", "oncall-engineers", "playbooks", "runbooks", "security-audit", "sre", "support", "support-engineers", "terminal"]
+  }, {
+    "repo": "caddyserver/caddy",
+    "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "officialSite": "https://caddyserver.com",
+    "topics": ["acme", "automatic-https", "caddy", "caddyfile", "go", "golang", "http", "http-server", "http3", "https", "privacy", "reverse-proxy", "security", "tls", "web-server"]
   }
 ]

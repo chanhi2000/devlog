@@ -40,7 +40,7 @@ tag:
 
 | 메서드 | URL | 인증 방식 |
 | :--- | :--- | :--- |
-| `GET` | https://dapi.kakao.com/v2/local/search/address.`${FORMAT}` | REST API 키 | 
+| `GET` | https://dapi.kakao.com/v2/local/search/address.`${FORMAT}` | REST API 키 |
 
 주소를 지도 위에 정확하게 표시하기 위해 해당 주소의 좌표 정보를 제공하는 API입니다. 주소에 해당하는 지번 주소, 도로명 주소, 좌표, 우편번호, 빌딩명 등의 다양한 정보를 함께 제공합니다. 이 API는 지번 주소, 도로명 주소 모두 지원합니다.
 

@@ -1,17 +1,15 @@
 ---
 lang: ko-KR
-title: General
-description: General
+title: Mathematics
+description: Mathematics
 icon: fas fa-square-root-variable
 category:
-  - General
-tag:
   - Mathematics
-  - Math
   - Science
-  - Physics
-  - Biology
-  - Chemistry
+tag:
+  - mathematics
+  - math
+  - science
 ---
 
 # {{ $frontmatter.description }} 관련

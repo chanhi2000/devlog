@@ -94,7 +94,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 Copy and Paste the following to the Powershell Prompt
 
-::: code-tabs#powershell
+::: tabs
 
 @tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
 
@@ -141,7 +141,7 @@ irm get.scoop.sh | iex
 
 Copy and Paste the following to the Powershell Prompt
 
-::: code-tabs#powershell
+::: tabs
 
 @tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
 

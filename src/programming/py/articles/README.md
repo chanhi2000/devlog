@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - digitalocean.com
   - yozm.wishket.com
   - meetup.nhncloud.com
   - engineering.ab180.co
@@ -34,6 +35,16 @@ head:
   "link": "https://freecodecamp.org/news/",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "DigitalOcean | Cloud Infrastructure for Developers",
+  "desc": "An ocean of simple, scalable cloud solutions.",
+  "link": "https://digitalocean.com/community/tutorials",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
 }
 ```
 
@@ -132,6 +143,32 @@ head:
   "link": "/explore/articles/freecodecamp.org/how-to-install-python-on-a-mac.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## DigitalOcean | Cloud Infrastructure for Developers
+
+> digitalocean.com
+
+```component VPCard
+{
+  "title": "Python Pretty Print JSON | DigitalOcean",
+  "desc": "Technical tutorials, Q&A, events — This is an inclusive place where developers can find or lend support and discover new ways to contribute to the community…",
+  "link": "/explore/articles/digitalocean.com/python-pretty-print-json.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Use Break, Continue, and Pass Statements when Working with Loops in Python | DigitalOcean",
+  "desc": "In this tutorial, we will go over the break, continue, and pass statements in Python, which will allow you to use for and while loops more effectively in you…",
+  "link": "/explore/articles/digitalocean.com/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
 }
 ```
 

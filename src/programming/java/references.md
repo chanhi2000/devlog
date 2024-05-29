@@ -83,27 +83,6 @@ tag:
 - [`geekculture` / Java TS Video Downloader](https://medium.com/geekculture/java-ts-video-downloader-a0fcf23ab84a)
 - [`@l2hyunwoo` / Kotlin 2.0으로 마이그레이션하기](https://medium.com/@l2hyunwoo/kotlin-2-0%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-1742f294df51)
 
-
-### 동팡
-
-- [Spring-Legacy to Spring-Boot 마이그레이션(Feat. 외장/내장-Tomcat/JSP/Multiple-Datasource(With-JNDI)/External-Lib)](https://ehdvudee.tistory.com/48)
-
-### 야우미야티
-
-- [Spring boot로 migration하기 전 고려해볼 것들?(+스프링부트 개념정리)](https://suzyalrahala.tistory.com/37)
-
-### EastGlow
-
-- [[Spring]HTMLTagFilter](https://eastglow.github.io/back-end/2019/02/06/Spring-HTMLTagFilter.html)
-
-### 양봉수
-
-- [마이바티스를 사용한 자바 퍼시스턴스 개발](https://yangbongsoo.gitbook.io/study/mybatis)
-
-### Wouter Coekaerts
-
-- [Breaking `java.lang.String`](https://wouter.coekaerts.be/2023/breaking-string)
-
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@qkrtkdwns3410` / [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
@@ -131,6 +110,30 @@ tag:
 - [`@msa4080` - PART1. 자바 입문](https://blex.me/@msa4080/part1-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8-1)
 - [`@msa4080` - PART2. 자바 언어 기본(1)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8)
 - [`@msa4080` - PART2. 자바 언어 기본(2)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B82)
+
+### <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [Roadmap - Senior Java Developer 2024](https://dev.to/antofik/senior-java-developer-2024-2cof)
+
+### 동팡
+
+- [Spring-Legacy to Spring-Boot 마이그레이션(Feat. 외장/내장-Tomcat/JSP/Multiple-Datasource(With-JNDI)/External-Lib)](https://ehdvudee.tistory.com/48)
+
+### 야우미야티
+
+- [Spring boot로 migration하기 전 고려해볼 것들?(+스프링부트 개념정리)](https://suzyalrahala.tistory.com/37)
+
+### EastGlow
+
+- [[Spring]HTMLTagFilter](https://eastglow.github.io/back-end/2019/02/06/Spring-HTMLTagFilter.html)
+
+### 양봉수
+
+- [마이바티스를 사용한 자바 퍼시스턴스 개발](https://yangbongsoo.gitbook.io/study/mybatis)
+
+### Wouter Coekaerts
+
+- [Breaking `java.lang.String`](https://wouter.coekaerts.be/2023/breaking-string)
 
 ### Brunch
 
@@ -171,6 +174,7 @@ tag:
 
 ### OpenJDK
 
+- [Effect cases in switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
 - [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)
 
 ### QuestDB
@@ -408,6 +412,7 @@ tag:
 
 ### GC easy – Universal Java GC Log Analyser
 
+- [Problems With Finalizer](https://blog.gceasy.io/2023/10/04/problems-with-finalizer/)
 - [GraalVM vs OpenJDK GC Performance Comparison](https://blog.gceasy.io/2023/10/04/graalvm-vs-openjdk-gc-performance-comparison)
 
 ### PVS‑Studio is a solution to enhance code quality, security (SAST), and safety
@@ -417,6 +422,22 @@ tag:
 ### Stephen Colebourne's blog
 
 - [Pattern match Optional in Java 21](https://blog.joda.org/2024/02/pattern-match-optional-in-java-21.html)
+
+### Free Java & OpenJDK Info for Daily Java Usage | foojay
+
+- [Indexing all of Wikipedia, on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
+
+### Javalin - A lightweight Java and Kotlin web framework
+
+- [Javalin 6 is finally here!](https://javalin.io/news/javalin-6.0.0-stable.html)
+
+### Vlad Mihalcea
+
+- [The best way to test the data access layer](https://vladmihalcea.com/test-data-access-layer/)
+
+### MariaDB
+
+- [Benchmark JDBC connectors and Java 21 virtual threads](https://mariadb.com/resources/blog/benchmark-jdbc-connectors-and-java-21-virtual-threads)
 
 ---
 
@@ -431,6 +452,7 @@ tag:
 
 ### <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
+- [Kandy: the new Kotlin plotting library by JetBrains](https://blog.jetbrains.com/kotlin/2023/12/kandy-the-new-kotlin-plotting-library-by-jetbrains)
 - [A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
 
 ### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
@@ -644,6 +666,10 @@ tag:
 ### Zac Sweers
 
 - [Preparing for K2](https://www.zacsweers.dev/preparing-for-k2/)
+
+### Alex MacArthur
+
+- [Let's Bring Back JavaScript's `with()` Statement](https://macarthur.me/posts/with)
 
 ---
 

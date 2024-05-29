@@ -1,21 +1,22 @@
 ---
 lang: ko-KR
 title: Github
-description:  🐑Haskell > Github
+description:  Haskell > Github
 icon: fa-brands fa-github
 category: 
-  - 🐑Haskell
+  - Haskell
   - Github
 tag: 
   - git
   - github
   - haskell
+  - hs
 head:
   - - meta:
     - property: og:title
-      content: 🐑Haskell > Github
+      content: Haskell > Github
     - property: og:description
-      content: 🐑Haskell > Github
+      content: Github
     - propert: og:type
       content: article
     - property: og:url
@@ -27,12 +28,16 @@ head:
 
 [[toc]]
 
-
 ---
 
 ## Haskell
 
 <MyGithubItems jsonName="lang-haskell" />
+
+### Tutorial
+
+<MyGithubItems jsonName="lang-haskell-tut" />
+
 
 ---
 

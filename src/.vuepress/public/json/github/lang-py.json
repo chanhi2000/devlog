@@ -3756,7 +3756,7 @@
     "topics": []
   }, {
     "repo": "VikParuchuri/surya",
-    "desc": "OCR and line detection in 90+ languages",
+    "desc": "OCR, layout analysis, reading order, line detection in 90+ languages",
     "officialSite": "",
     "topics": []
   }, {
@@ -5359,5 +5359,20 @@
     "desc": "An easy-to-use program that transcribes text or audio files into a sign language animation. JamHacks7 2023 Best Overall and Best use of GitHub.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "RUC-NLPIR/FlashRAG",
+    "desc": "⚡FlashRAG: A Python Toolkit for Efficient RAG Research",
+    "officialSite": "https://arxiv.org/abs/2405.13576",
+    "topics": ["benchmark", "datasets", "large-language-models", "rag"]
+  }, {
+    "repo": "vladmandic/automatic",
+    "desc": "SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models",
+    "officialSite": "https://github.com/vladmandic/automatic",
+    "topics": ["a1111-webui", "ai-art", "automatic1111", "diffusers", "generative-art", "img2img", "sdnext", "stable-diffusion", "stable-diffusion-ai", "stable-diffusion-webui", "txt2img"]
+  }, {
+    "repo": "goauthentik/authentik",
+    "desc": "The authentication glue you need.",
+    "officialSite": "https://goauthentik.io",
+    "topics": ["authentication", "authentik", "authorization", "kubernetes", "oauth2", "oauth2-client", "oauth2-server", "oidc", "oidc-client", "oidc-provider", "proxy", "reverse-proxy", "saml", "saml-idp", "saml-sp", "security", "sso"]
   }
 ]

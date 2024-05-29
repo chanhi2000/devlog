@@ -42,7 +42,7 @@ prev: /programming/css/articles/README.md
   "title": "Modern CSS Layouts: You Might Not Need A Framework For That",
   "desc": "It’s easy to get lost in a sea of CSS frameworks and libraries, each promising easier styling and smoother layouts. Brecht De Ruyte demonstrates four CSS utility classes (plus a bonus) using techniques that allow them to be used practically anywhere you need a particular layout — be it Grid or Flexbox — with configurable options.",
   "link": "https://smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

@@ -164,5 +164,10 @@
     "desc": "Tiny plugin to enhance Neovim's native comments",
     "officialSite": "",
     "topics": ["neovim", "neovim-plugin", "nvim", "nvim-plugin"]
+  }, {
+    "repo": "Kong/kong",
+    "desc": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "officialSite": "https://konghq.com/install/#kong-community",
+    "topics": ["ai", "ai-gateway", "api-gateway", "api-management", "apis", "artificial-intelligence", "cloud-native", "consul", "devops", "docker", "kong", "kubernetes", "kubernetes-ingress", "kubernetes-ingress-controller", "luajit", "microservice", "microservices", "nginx", "reverse-proxy", "serverless"]
   }
 ]

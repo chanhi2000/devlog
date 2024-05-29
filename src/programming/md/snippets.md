@@ -8,9 +8,17 @@ category:
   - Snippets
 tag: 
   - markdown
+  - md
   - sh
   - cli
-  - md
+head:
+  - - meta:
+    - property: og:title
+      content: Markdown > Snippets
+    - property: og:description
+      content: Snippets
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/md/snippets.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -32,7 +40,7 @@ tag:
 │   ├── model.py
 │   └── dataset.py
 └── run.sh
-``` 
+```
 
 ```sh
 ├─Github
@@ -57,6 +65,8 @@ tag:
            demun-024.jpg
            demun-025.jpg
 ```
+
+---
 
 ## CHANGELOG
 

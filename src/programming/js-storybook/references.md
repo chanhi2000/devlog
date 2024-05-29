@@ -35,7 +35,6 @@ head:
 - [Storybook 8](https://storybook.js.org/blog/storybook-8/)
 - [Build a Next.js app in Storybook with React Server Components and Mock Service Worker](https://storybook.js.org/blog/build-a-nextjs-app-with-rsc-msw-storybook/)
 
-
 ---
 
 ## TOAST UI :: Make Your Web Delicious!

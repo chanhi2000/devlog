@@ -438,7 +438,14 @@ https://www.joinc.co.kr/w/Site
   desc="by Sophocles J. Orfanidis (Rutgers University)"
   url="https://www.ece.rutgers.edu/~orfanidi/ewa/"
   preview="https://www.ece.rutgers.edu/~orfanidi/ewa/cover2016.jpg"/>
-  
+
+<SiteInfo
+  name="Next.js App Router Training"
+  desc="Introducing various basic patterns using Next.js' app router with simplified code."
+  url="https://nextjs-app-router-training.vercel.app/"
+  logo="https://nextjs-app-router-training.vercel.app/favicon.ico"
+  preview="https://nextjs-app-router-training.vercel.app/opengraph-image.png?fcd239148f85b301"/>
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet

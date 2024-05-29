@@ -451,13 +451,17 @@ tag:
 
 ---
 
-## Python Speed
+## Python⇒Speed
 
+- [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2)
+- [Beware of misleading GPU vs CPU benchmarks](https://pythonspeed.com/articles/gpu-vs-cpu/)
+- [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
 - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
+- [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability)
 
 ---
 
-## the greg technology 
+## the greg technology
 
 - [how do you ocr on a mac using the cli or just python for free](https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html)
 
@@ -483,6 +487,8 @@ tag:
 
 ## Max Bernstein
 
+- [Type information for faster Python C extensions](https://bernsteinbear.com/blog/typed-c-extensions/)
+- [Building a small REPL in Python](https://bernsteinbear.com/blog/simple-python-repl/)
 - [`scrapscript.py`](https://bernsteinbear.com/blog/scrapscript/)
 - [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 
@@ -491,12 +497,6 @@ tag:
 ## Trail of Bits
 
 - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
-
----
-
-## Python⇒Speed
-
-- [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
 
 ---
 
@@ -568,7 +568,7 @@ tag:
 
 ## Cal Bryant
 
-- [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python)
+- [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/pc-cooling-with-python)
 
 ---
 
@@ -760,6 +760,7 @@ tag:
 
 ## TestDriven.io
 
+- [Postgres vs. DynamoDB: Which Database to Choose](https://testdriven.io/blog/postgres-vs-dynamodb/)
 - [Building a Single Page Application with Python and Pyodide - Part 2](https://testdriven.io/blog/build-spa-with-python-part-2/)
 - [How Are Requests Processed in Flask?](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
 - [Parallelism, Concurrency, and AsyncIO in Python - by example](https://testdriven.io/blog/python-concurrency-parallelism/)
@@ -789,6 +790,9 @@ tag:
 
 ## mathspp
 
+- [`max` is broken](https://mathspp.com/blog/max-is-broken)
+- [TIL #096 – automatically push code changes during live coding](https://mathspp.com/blog/til/automatically-push-code-changes-during-live-coding)
+- [What is `*args` and how do you use it?](https://mathspp.com/blog/what-is-args-and-how-do-you-use-it?ref=sangkon.com)
 - [Python `deque` tutorial](https://mathspp.com/blog/python-deque-tutorial)
 
 ---
@@ -814,6 +818,7 @@ tag:
 
 ## The Python Coding Stack
 
+- [Why Can't I Just Use A List? • Understanding NumPy's `ndarray` (A NumPy for Numpties article)](https://www.thepythoncodingstack.com/p/python-numpy-ndarray-primer-numpy-for-numpties)
 - [The Strange Practices at The Broadcaster's Inn • Broadcasting in NumPy (A NumPy for Numpties article)](https://www.thepythoncodingstack.com/p/numpy-broadcasting-python-the-broadcasters-inn)
 
 ---
@@ -921,6 +926,7 @@ tag:
 
 ## Jacob Padilla
 
+- [A Deep Dive Into Python's `functools.wraps` Decorator](https://jacobpadilla.com/articles/Functools-Deep-Dive?)
 - [Advanced Web Scraping With Python: Extract Data From Any Site](https://jacobpadilla.com/articles/advanced-web-scraping-techniques)
 - [How Python Asyncio Works: Recreating it from Scratch](https://jacobpadilla.com/articles/recreating-asyncio)
 
@@ -965,6 +971,7 @@ tag:
 
 ## Redowan's Reflections
 
+- [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs)
 - [TypeIs does what I thought TypeGuard would do in Python](https://rednafi.com/python/typeguard_vs_typeis/)
 
 ---
@@ -1075,12 +1082,6 @@ tag:
 ## Adam Johnson
 
 - [Python: Show all subclasses of a class](https://adamj.eu/tech/2024/05/10/python-all-subclasses/)
-
----
-
-## mathspp
-
-- [TIL #096 – automatically push code changes during live coding](https://mathspp.com/blog/til/automatically-push-code-changes-during-live-coding)
 
 ---
 
@@ -1261,12 +1262,6 @@ tag:
 
 ---
 
-## Write faster Python code, and ship your code faster
-
-- [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
-
----
-
 ## TechBeamers: Programming & Testing Help
 
 - [How Do You Filter a List in Python?](https://techbeamers.com/how-do-you-filter-a-list-in-python)
@@ -1285,6 +1280,34 @@ tag:
 
 ---
 
+## Ibrahim Ahmed
 
+- [Running python on air-gapped systems](https://iahmed.me/post/python-air-gapped)
+
+---
+
+## PixelsTech - A place for geeks
+
+- [Where Have You Installed Your Python Packages?](https://www.pixelstech.net/article/1702794038-Where-Have-You-Installed-Your-Python-Packages)
+
+---
+
+## Ben Hoyt
+
+- [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
+
+---
+
+## Theia Vogel's website & blog
+
+- [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
+
+---
+
+## Welcome! | Haki Benita
+
+- [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
+
+---
 
 <TagLinks />

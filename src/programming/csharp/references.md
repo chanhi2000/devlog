@@ -23,6 +23,9 @@ tag:
 
 ### .NET Blog
 
+- [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
+- [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8)
+- [.NET 8 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-8-networking-improvements)
 - [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai)
 - [Refactor your code with C# collection expressions](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/)
 
@@ -66,6 +69,7 @@ tag:
 - [`rasulhsn` / A Different Perspective of Stack Memory in .NET](https://dev.to/rasulhsn/a-different-perspective-of-stack-memory-in-net-33oc)
 - [`antonmartyniuk` / Mastering Exception Handling in C#: A Comprehensive Guide](https://dev.to/antonmartyniuk/mastering-exception-handling-in-c-a-comprehensive-guide-3e50)
 - [`bytehide` / How to Sort Arrays and Lists in C#](https://dev.to/bytehide/how-to-sort-arrays-and-lists-in-c-53m0)
+- [`bytehide` / 2D Arrays in C#: How To Use Them](https://dev.to/bytehide/2d-arrays-in-c-how-to-use-them-4jgi)
 
 ---
 
@@ -309,6 +313,30 @@ tag:
 ## Dev Leader – Level Up Your Software Engineering - Dev Leader
 
 - [Ultimate Starter Guide To Middleware In ASP.NET Core: Everything You Need To Know](https://www.devleader.ca/2024/02/01/ultimate-starter-guide-to-middleware-in-asp-net-core-everything-you-need-to-know)
+
+---
+
+## Sitepoint
+
+- [.NET 8: Blazor Render Modes Explained](https://sitepoint.com/net-8-blazor-render-modes-explained) <!-- TODO: 작성 (/explore/articles/sitepoint.com/net-8-blazor-render-modes-explained.md) -->
+
+---
+
+## Distributed .NET, domain-driven design, event sourcing and more!
+
+- [High-Performance .NET CRON Jobs](https://www.jamesmichaelhickey.com/high-performance-dotnet-cron-jobs/)
+
+---
+
+## The Honest Coder - Software Engineering Blog
+
+- [Domain-Driven Design With Entity Framework Core 8](https://thehonestcoder.com/ddd-ef-core-8/)
+
+---
+
+## Better Stack: Spot, Resolve, and Prevent Downtime.
+
+- [Logging in .NET: A Comparison of the Top 4 Libraries](https://betterstack.com/community/guides/logging/best-dotnet-logging-libraries)
 
 ---
 

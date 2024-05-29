@@ -58,7 +58,7 @@ head:
   "title": "Transforming The Relationship Between Designers And Developers",
   "desc": "Should you hide or disable a feature? You’ve probably been there before. Here are some considerations for hiding versus disabling, along with possible alternatives to improve UX. An upcoming part of Smart Interface Design Patterns.",
   "link": "/explore/articles/smashingmagazine.com/transforming-relationship-between-designers-developers.md",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```

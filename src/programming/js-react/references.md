@@ -118,7 +118,7 @@ head:
   "title": "The Forensics Of React Server Components (RSCs)",
   "desc": "React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.",
   "link": "/explore/articles/smashingmagazine.com/forensics-react-server-components.md",
-  "logo": "https://smashingmagazine.com/wp-content/uploads/2020/08/favicon.ico",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
 ```
@@ -188,6 +188,7 @@ head:
 
 ## Robin Wieruch - Freelance Web Developer
 
+- [How to start a React Project in 2024](https://www.robinwieruch.de/react-starter/)
 - [React Trends in 2024](https://www.robinwieruch.de/react-trends)
 - [React Libraries for 2024](https://www.robinwieruch.de/react-libraries/) <!-- TODO: 읽고 라이브러리 추출 -->
 - [Linear Algebra in JavaScript with Matrix Operations](https://www.robinwieruch.de/linear-algebra-matrix-javascript)
@@ -215,6 +216,7 @@ head:
 
 ## SamWho
 
+- [Hashing](https://samwho.dev/hashing)
 - [Memory Allocation](https://samwho.dev/memory-allocation)
 
 ---
@@ -327,6 +329,7 @@ head:
 - [`suhailzone` / ReactJs Roadmap🗺 for beginners](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)
 - [`wantedjobs` / 프론트엔드 테스트의 모든 것](https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d)
 - [`bitsrc` / A Modern Approach to React Development](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)
+- [`@renanolovics` / 10 Best Practices in Front-end Development (React)](https://medium.com/@renanolovics/10-best-practices-in-front-end-development-react-5277a671e2df)
 
 ---
 
@@ -369,7 +372,7 @@ head:
 
 ---
 
-## Cloudfour 
+## Cloudfour
 
 - [Stop Lazy Loading Product and Hero Images](https://cloudfour.com/thinks/stop-lazy-loading-product-and-hero-images)
 
@@ -415,7 +418,7 @@ head:
 
 ---
 
-## Refactoring 
+## Refactoring
 
 - [CI/CD with Node.js and a GitHub Actions Runner Hosted on AWS EC2](https://reflectoring.io/tutorial-cicd-github-actions-pm2-nodejs-aws-ec2)
 
@@ -518,12 +521,6 @@ head:
 
 ---
 
-## SamWho
-
-- [Hashing](https://samwho.dev/hashing)
-
----
-
 ## Dev-Dojo
 
 - [Custom Tooltip Directive in Vuejs 3: Tutorial](https://devdojo.com/inspector/custom-tooltip-directive-in-vuejs-3-tutorial)
@@ -533,6 +530,7 @@ head:
 
 ## nullpt
 
+- [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 - [Evading JavaScript Anti-Debugging Techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
 
 ---
@@ -561,14 +559,9 @@ head:
 
 ---
 
-## nullpt
-
-- [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
-
----
-
 ## Marvin Hagemeister
 
+- [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7)
 - [Speeding up the JavaScript ecosystem - Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6)
 
 ---
@@ -607,11 +600,6 @@ head:
 
 - [How To Define Return Type Of Function In TypeScript](https://marketsplash.com/tutorials/typescript/how-to-define-return-type-of-function-in-typescript)
 
----
-
-## Marvin Hagemeister
-
-- [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7)
 
 ---
 
@@ -747,6 +735,7 @@ https://o-yeon.tistory.com/227
 
 ## overreact
 
+- 
 - [The Two Reacts](https://overreacted.io/the-two-reacts/)
 
 ---
@@ -802,6 +791,60 @@ https://o-yeon.tistory.com/227
 ## Teveloper 개발 & 테니스 이야기
 
 - [모듈 번들러의 탄생과 Rollup.js 파헤치기](https://teveloper.tistory.com/78)
+
+---
+
+## Bekk Christmas - advent calendars about technology, design and strategy
+
+- [Polymorphism in React: 2 patterns you must know](https://www.bekk.christmas/post/2023/1/polymorphism-in-reac)
+
+---
+
+## Teletype
+
+- [Detailed React. Reconciliation, Renderers, Fiber, Virtual Tree](https://blog.frontend-almanac.com/JqtGelofzm1)
+
+---
+
+## Alex Sidorenko
+
+- [Prop drilling and component composition in React](https://alexsidorenko.com/blog/react-prop-drilling-composition)
+
+---
+
+## Better Code & Better Software | Ultimate Security and Quality | Sonar
+
+- [Lessons learned upgrading to React 18 in SonarQube](https://www.sonarsource.com/blog/upgrading-react-18-sonarqube)
+
+---
+
+## Minimalist Web Dev
+
+- [Streams and React Server Components](https://minimalistweb.dev/p/streams-and-react-server-components)
+
+---
+
+## Jessy
+
+- [Bundling React (Vite) with Spring Boot](https://www.jessym.com/articles/bundling-react-vite-with-spring-boot)
+
+---
+
+## InterBolt Software
+
+- [The future of React.use and React.useMemo - a powerful alternative to context selectors](https://interbolt.org/blog/react-use-selector-optimization/)
+
+---
+
+## Syncfusion Blogs oriented with .NET, Blazor and MAUI
+
+- [React Router: A Beginner’s Guide to Essential Navigation Techniques](https://www.syncfusion.com/blogs/post/react-router-navigation-techniques)
+
+---
+
+## Mayank
+
+- [React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components)
 
 ---
 

@@ -7,7 +7,7 @@ category:
   - Haskell
 tag:
   - haskell
-  - hk
+  - hs
 ---
 
 # {{ $frontmatter.description }} 관련

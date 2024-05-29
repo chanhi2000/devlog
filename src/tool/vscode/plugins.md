@@ -19,7 +19,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -32,7 +31,7 @@ tag:
   "desc": "Auto rename paired HTML/XML tag",
   "link": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag",
   "logo": "https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -52,7 +51,7 @@ tag:
   "desc": "📷 Take beautiful screenshots of your code",
   "link": "https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap",
   "logo": "https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -72,7 +71,7 @@ tag:
   "desc": "Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.",
   "link": "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek",
   "logo": "https://pranaygp.gallerycdn.vsassets.io/extensions/pranaygp/vscode-css-peek/4.2.0/1620151231705/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -82,7 +81,7 @@ tag:
   "desc": "A lightweight Java debugger for Visual Studio Code",
   "link": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug",
   "logo": "https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-java-debug/0.47.2022112823/1669695133299/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -122,7 +121,7 @@ tag:
   "desc": "Convert emmet abbreviations to composition of elm functions",
   "link": "https://marketplace.visualstudio.com/items?itemName=necinc.elmmet",
   "logo": "https://necinc.gallerycdn.vsassets.io/extensions/necinc/elmmet/1.0.1/1534748759999/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -132,7 +131,7 @@ tag:
   "desc": "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.",
   "link": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets",
   "logo": "https://dsznajder.gallerycdn.vsassets.io/extensions/dsznajder/es7-react-js-snippets/4.4.3/1645189962576/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -152,7 +151,7 @@ tag:
   "desc": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
   "link": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack",
   "logo": "https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-java-pack/0.25.2022112900/1669693061484/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 <!-- 
@@ -162,7 +161,7 @@ tag:
   "desc": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
   "link": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens",
   "logo": "https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2022.12.2010/1671549214618/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ``` 
 -->
@@ -173,7 +172,7 @@ tag:
   "desc": "View a Git Graph of your repository, and perform Git actions from the graph.",
   "link": "https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph",
   "logo": "https://mhutchie.gallerycdn.vsassets.io/extensions/mhutchie/git-graph/1.30.0/1617594001998/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -195,7 +194,7 @@ tag:
   "desc": "Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code",
   "link": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle",
   "logo": "https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-gradle/3.12.2022120100/1669853373193/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -205,7 +204,7 @@ tag:
   "desc": "Add Gradle language support for Visual Studio Code",
   "link": "https://marketplace.visualstudio.com/items?itemName=naco-siren.gradle-language",
   "logo": "https://naco-siren.gallerycdn.vsassets.io/extensions/naco-siren/gradle-language/0.2.3/1516735427824/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -215,7 +214,7 @@ tag:
   "desc": "AI-assisted development",
   "link": "https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode",
   "logo": "https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vscodeintellicode/1.2.29/1666210748584/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -225,7 +224,7 @@ tag:
   "desc": "See relevant code examples from GitHub for over 100K different APIs right in your editor.",
   "link": "https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.intellicode-api-usage-examples",
   "logo": "https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/intellicode-api-usage-examples/0.2.6/1666209409795/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -235,7 +234,7 @@ tag:
   "desc": "CSS class name completion for the HTML class attribute based on the definitions found in your workspace.",
   "link": "https://marketplace.visualstudio.com/items?itemName=zignd.html-css-class-completion",
   "logo": "https://zignd.gallerycdn.vsassets.io/extensions/zignd/html-css-class-completion/1.20.0/1608419199966/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -255,7 +254,7 @@ tag:
   "desc": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
   "link": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter",
   "logo": "https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/jupyter/2023.1.1003441034/1670492207829/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -265,7 +264,7 @@ tag:
   "desc": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
   "link": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap",
   "logo": "https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/jupyter-keymap/1.0.0/1629490473618/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -275,7 +274,7 @@ tag:
   "desc": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
   "link": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers",
   "logo": "https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/jupyter-renderers/1.0.12/1666909922029/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -285,7 +284,7 @@ tag:
   "desc": "Smart code completion, debugging, linting, syntax highlighting and more for Kotlin",
   "link": "https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin",
   "logo": "https://fwcd.gallerycdn.vsassets.io/extensions/fwcd/kotlin/0.2.26/1651019534327/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -295,7 +294,7 @@ tag:
   "desc": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
   "link": "https://marketplace.visualstudio.com/items?itemName=redhat.java",
   "logo": "https://redhat.gallerycdn.vsassets.io/extensions/redhat/java/1.14.2022122003/1671524192412/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -315,7 +314,7 @@ tag:
   "desc": "Convert Markdown to PDF",
   "link": "https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf",
   "logo": "https://yzane.gallerycdn.vsassets.io/extensions/yzane/markdown-pdf/1.4.4/1584550540797/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -325,7 +324,7 @@ tag:
   "desc": "Markdown Preview Enhanced ported to vscode",
   "link": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced",
   "logo": "https://shd101wyy.gallerycdn.vsassets.io/extensions/shd101wyy/markdown-preview-enhanced/0.8.10/1698322580331/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -335,7 +334,7 @@ tag:
   "desc": "Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview",
   "link": "https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid",
   "logo": "https://bierner.gallerycdn.vsassets.io/extensions/bierner/markdown-mermaid/1.17.3/1671479794538/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -345,7 +344,7 @@ tag:
   "desc": "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.",
   "link": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven",
   "logo": "https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-maven/0.40.2022121603/1671160659502/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -355,7 +354,7 @@ tag:
   "desc": "Support Emmet(zen-coding) syntax for Mithril",
   "link": "https://marketplace.visualstudio.com/items?itemName=fallenmax.mithril-emmet",
   "logo": "https://fallenmax.gallerycdn.vsassets.io/extensions/fallenmax/mithril-emmet/0.7.7/1648523464540/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -365,7 +364,7 @@ tag:
   "desc": "Visual Studio Code plugin that autocompletes filenames",
   "link": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense",
   "logo": "https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/path-intellisense/2.8.4/1671488165155/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -385,7 +384,17 @@ tag:
   "desc": "📸 Polaroid for your code",
   "link": "https://marketplace.visualstudio.com/items?itemName=pnp.polacode",
   "logo": "https://pnp.gallerycdn.vsassets.io/extensions/pnp/polacode/0.3.4/1569601471865/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Project Manager (`alefragnani.project-manager`)",
+  "desc": "Easily switch between projects",
+  "link": "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager",
+  "logo": "https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/project-manager/12.8.0/1711736277737/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -395,7 +404,7 @@ tag:
   "desc": "Manage Java projects in Visual Studio Code",
   "link": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency",
   "logo": "https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-java-dependency/0.21.2022121501/1671067314973/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -405,7 +414,7 @@ tag:
   "desc": "A performant, feature-rich language server for Python in VS Code",
   "link": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance",
   "logo": "https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/vscode-pylance/2022.12.21/1670445799753/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -425,7 +434,7 @@ tag:
   "desc": "Indented Sass syntax Highlighting, Autocomplete & Formatter",
   "link": "https://marketplace.visualstudio.com/items?itemName=syler.sass-indented",
   "logo": "https://syler.gallerycdn.vsassets.io/extensions/syler/sass-indented/1.8.23/1669910716957/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -435,7 +444,7 @@ tag:
   "desc": "A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.",
   "link": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr",
   "logo": "https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-initializr/0.11.2022090703/1662689883149/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -465,7 +474,7 @@ tag:
   "desc": "Show TODO, FIXME, etc. comment tags in a tree view",
   "link": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree",
   "logo": "https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.226/1681324794296/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -535,7 +544,7 @@ tag:
   "desc": "All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)",
   "link": "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one",
   "logo": "https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.5.1/1679819344347/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -555,7 +564,7 @@ tag:
   "desc": "Regex matches previewer for JavaScript, TypeScript, PHP and Haxe in Visual Studio Code.",
   "link": "https://marketplace.visualstudio.com/items?itemName=chrmarti.regex",
   "logo": "https://chrmarti.gallerycdn.vsassets.io/extensions/chrmarti/regex/0.4.0/1614893264407/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -565,7 +574,7 @@ tag:
   "desc": "Vue tooling for VS Code",
   "link": "https://marketplace.visualstudio.com/items?itemName=octref.vetur",
   "logo": "https://octref.gallerycdn.vsassets.io/extensions/octref/vetur/0.37.3/1677130066715/Microsoft.VisualStudio.Services.Icons.Default",
-  "background": "rgba(255, 255, 255, 0.2)"
+  "background": "rgba(255,255,255,0.2)"
 }
 ```
 
@@ -591,7 +600,7 @@ tag:
 
 ### ⚙️To Install
 
-::: code-tabs#sh
+::: tabs
 
 @tab:active <FontIcon icon="iconfont icon-shell"/>sh
 
@@ -630,6 +639,7 @@ code --install-extension vscjava.vscode-maven; #Maven for Java
 code --install-extension fallenmax.mithril-emmet; #Mithril Emmet
 code --install-extension JakeWilson.vscode-placeholder-images; #Placeholder Images 
 code --install-extension pnp.polacode; #Polacode
+code --install-extension alefragnani.project-manager; #Project Manager
 code --install-extension vscjava.vscode-java-dependency; #Project Manager for Java
 code --install-extension ms-python.vscode-pylance; #Pylance
 code --install-extension ms-python.python; #Python
@@ -667,8 +677,8 @@ code --install-extension necinc.elmmet && REM Elm Emmet
 code --install-extension dsznajder.es7-react-js-snippets && REM ES7+ React/Redux/React-Native snippets
 code --install-extension vscjava.vscode-java-pack && REM Extension Pack for Java
 code --install-extension mhutchie.git-graph && REM Git Graph
-REM code --install-extension eamodio.gitlens && REM GitLens - Git supercharged
-REM code --install-extension teamhub.teamhub && REM GitLive
+:: code --install-extension eamodio.gitlens && REM GitLens - Git supercharged
+:: code --install-extension teamhub.teamhub && REM GitLive
 code --install-extension vscjava.vscode-gradle && REM Gradle for Java
 code --install-extension naco-siren.gradle-language && REM Gradle Language Support
 code --install-extension visualstudioexptteam.vscodeintellicode && REM IntelliCode
@@ -685,10 +695,11 @@ code --install-extension ritwickdey.liveserver && REM Live Server
 code --install-extension yzane.markdown-pdf && REM Markdown PDF
 code --install-extension shd101wyy.markdown-preview-enhanced && REM Markdown Preview Enhanced
 code --install-extension bierner.markdown-mermaid && REM Markdown Preview Mermaid Support
-REM code --install-extension davidanson.vscode-markdownlint && REM markdownlint
+:: code --install-extension davidanson.vscode-markdownlint && REM markdownlint
 code --install-extension vscjava.vscode-maven && REM Maven for Java
 code --install-extension fallenmax.mithril-emmet && REM Mithril Emmet
 code --install-extension pnp.polacode && REM Polacode
+code --install-extension alefragnani.project-manager && REM Project Manager
 code --install-extension JakeWilson.vscode-placeholder-images && REM Placeholder Images 
 code --install-extension vscjava.vscode-java-dependency && REM Project Manager for Java
 code --install-extension ms-python.vscode-pylance && REM Pylance
@@ -727,6 +738,7 @@ code --isntall-extension yoco.YOCO && REM YOCO(You Only Copy Once)
   "background": "rgba(0, 0, 0, 0.2)"
 }
 ```
+
 ::: info settings.json 📂저장위치
 
 - Windows: `%APPDATA%\Code\User`

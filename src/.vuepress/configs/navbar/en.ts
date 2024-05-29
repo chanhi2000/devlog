@@ -52,12 +52,12 @@ export const navbarEn = navbar([
         icon: 'fas fa-rectangle-ad',
         link: '/academics/marketing/README.md',
       }, {
-        text: 'General',
+        text: 'Mathematics',
         icon: 'fas fa-square-root-variable',
-        link: '/academics/general/README.md',
-      }, {
-        text: 'MATH011',
-        link: '/academics/MATH011/README.md'
+        children: [
+          '/academics/math/README.md',
+          '/academics/MATH011/README.md'
+        ]
       }, {
         text: 'COEN020',
         link: '/academics/COEN020/README.md'
@@ -114,7 +114,11 @@ export const navbarEn = navbar([
         text: 'Kafka',
         link: '/programming/java-kafka/README.md',
         icon: 'iconfont icon-apachekafka',
-      },  {
+      }, {
+        text: 'Quarkus',
+        link: '/programming/java-quarkus/README.md',
+        icon: 'iconfont icon-quarkus',
+      }, {
         text: 'Armeria',
         icon: 'iconfont icon-armeria',
         link: '/programming/java-armeria/README.md',
@@ -136,48 +140,20 @@ export const navbarEn = navbar([
         link: '/programming/npm/README.md',
       }, {
         text: 'Node.js',
-        link: '/programming/js-node/README.md',
         icon: 'fa-brands fa-node',
-      }, {
-        text: 'React.js',
-        link: '/programming/js-react/README.md',
-        icon: 'fa-brands fa-react',
-      }, {
-        text: 'Vue.js',
-        link: '/programming/js-vue/README.md',
-        icon: 'fa-brands fa-vuejs',
-      }, {
-        text: 'Svelte.js',
-        link: '/programming/js-svelte/README.md',
-        icon: 'iconfont icon-svelte',
-      }, {
-        text: 'Angular.js',
-        icon: 'fa-brands fa-angular',
-        link: '/programming/js-angular/README.md',
-      }, {
-        text: 'Nest.js',
-        icon: 'iconfont icon-nestjs',
-        link: '/programming/js-nest/README.md',
-      }, {
-        text: 'Next.js',
-        icon: 'iconfont icon-nextjs',
-        link: '/programming/js-next/README.md',
-      }, {
-        text: 'Storybook.js',
-        icon: 'iconfont icon-storybook',
-        link: '/programming/js-storybook/README.md',
-      }, {
-        text: 'Gatsby',
-        icon: 'iconfont icon-gatsby',
-        link: '/programming/js-gatsby/README.md',
-      }, {
-        text: 'GraphQL',
-        icon: 'iconfont icon-graphql',
-        link: '/programming/js-graphql/README.md',
-      }, {
-        text: 'Supabase',
-        icon: 'iconfont icon-supabase',
-        link: '/programming/js-supabase/README.md',
+        children: [
+          '/programming/js-node/README.md',
+          '/programming/js-react/README.md',
+          '/programming/js-vue/README.md',
+          '/programming/js-svelte/README.md',
+          '/programming/js-angular/README.md',
+          '/programming/js-nest/README.md',
+          '/programming/js-next/README.md',
+          '/programming/js-storybook/README.md',
+          '/programming/js-gatsby/README.md',
+          '/programming/js-graphql/README.md',
+          '/programming/js-supabase/README.md',
+        ]
       }, {
         text: 'Mermaid.js',
         link: '/programming/js-mermaid/README.md',
@@ -192,24 +168,16 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-tailwindcss',
       }, {
         text: 'Python',
-        link: '/programming/py/README.md',
         icon: 'fa-brands fa-python',
-      }, {
-        text: 'Django',
-        link: '/programming/py-django/README.md',
-        icon: 'iconfont icon-django',
-      }, {
-        text: 'Flask',
-        link: '/programming/py-flask/README.md',
-        icon: 'iconfont icon-flask',
-      }, {
-        text: 'Jupyter',
-        icon: 'iconfont icon-jupyter',
-        link: '/programming/py-jupyter/README.md',
-      }, {
-        text: 'Airflow',
-        link: '/programming/py-airflow/README.md',
-        icon: 'iconfont icon-apacheairflow',
+        children: [
+          '/programming/py/README.md',
+          '/programming/py-numpy/README.md',
+          '/programming/py-pandas/README.md',
+          '/programming/py-django/README.md',
+          '/programming/py-flask/README.md',
+          '/programming/py-jupyter/README.md',
+          '/programming/py-airflow/README.md',
+        ]
       }, {
         text: 'Objective-C',
         icon: 'iconfont icon-objective-c',
@@ -290,6 +258,10 @@ export const navbarEn = navbar([
         text: 'LaTeX',
         link: '/programming/latex/README.md',
         icon: 'iconfont icon-tex',
+      }, {
+        text: 'Markdown',
+        link: '/programming/md/README.md',
+        icon: 'fa-brands fa-markdown',
       }, 
     ]
   }, {
@@ -474,7 +446,7 @@ export const navbarEn = navbar([
       }, {
         text: 'MySQL',
         icon: 'iconfont icon-mysql',
-        link: '/data-science/mysqlREADME.md',
+        link: '/data-science/mysql/README.md',
       }, {
         text: 'Oracle SQL',
         icon: 'iconfont icon-oracle',
@@ -734,6 +706,7 @@ export const navbarEn = navbar([
           '/explore/api/README.md',
           '/explore/api/kakao/README.md',
           '/explore/api/sk/README.md',
+          '/explore/api/coupang/README.md',
         ]
       }, {
         text: 'YouTube',
