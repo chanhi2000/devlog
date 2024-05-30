@@ -25,6 +25,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-style-react-components.html
 prev: /programming/js-react/articles/README.md
+date: 2024-05-22
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/How-to-style-react-components.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -56,11 +59,9 @@ prev: /programming/js-react/articles/README.md
 <SiteInfo
   name="How to Style React Components"
   desc="You can only make your React app visually appealing to users with styling. That makes styling a fundamental aspect of building captivating user interfaces. With React's component-based architecture, there are a ton of options for styling. These include traditional CSS, utility-first approach, CSS-in-JS solutions, and more. In this article, we'll..."
-  url="https://www.freecodecamp.org/news/how-to-style-react-components/"
+  url="https://freecodecamp.org/news/how-to-style-react-components/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/How-to-style-react-components.png"/>
-
-> 2024.05.22
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/05/How-to-style-react-components.png"/>
 
 <!-- TODO: 작성 -->
 

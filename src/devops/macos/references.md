@@ -241,6 +241,12 @@ head:
 
 ---
 
+## Univdev
+
+- [Mac OS Unity에서 VSCode를 사용하기 위한 설정 방법](https://univdev.page/posts/unity-vscode-setting-for-mac/)
+
+---
+
 ## 다모앙
 
 - [\[macos\] 맥에서 다모앙 폰트 변경 유의할 점](https://damoang.net/lecture/1982)

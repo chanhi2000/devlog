@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "Working with state | SwiftUI by Example",
   "desc": "Working with state",
   "link": "https://hackingwithswift.com/quick-start/swiftui/working-with-state",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -71,7 +71,7 @@ Working with state will cause you a few headaches at first if you're used to a m
   "title": "Working with containers | SwiftUI by Example",
   "desc": "Working with containers",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-containers.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -81,7 +81,7 @@ Working with state will cause you a few headaches at first if you're used to a m
   "title": "Working with presentations | SwiftUI by Example",
   "desc": "Working with presentations",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-presentations.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -91,7 +91,7 @@ Working with state will cause you a few headaches at first if you're used to a m
   "title": "Working with forms | SwiftUI by Example",
   "desc": "Working with forms",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-forms.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -101,7 +101,7 @@ Working with state will cause you a few headaches at first if you're used to a m
   "title": "Working with lists | SwiftUI by Example",
   "desc": "Working with lists",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-lists.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -111,7 +111,7 @@ Working with state will cause you a few headaches at first if you're used to a m
   "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
   "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

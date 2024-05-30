@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to make two gestures recognize at the same time using simultaneousGesture() | SwiftUI by Example",
   "desc": "How to make two gestures recognize at the same time using simultaneousGesture()",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-make-two-gestures-recognize-at-the-same-time-using-simultaneousgesture",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -118,7 +118,7 @@ You should use `simultaneousGesture()` with the gesture that would otherwise not
   "title": "How to make two views the same width or height | SwiftUI by Example",
   "desc": "How to make two views the same width or height",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-two-views-the-same-width-or-height.html",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -128,7 +128,7 @@ You should use `simultaneousGesture()` with the gesture that would otherwise not
   "title": "How to fill and stroke shapes at the same time | SwiftUI by Example",
   "desc": "How to fill and stroke shapes at the same time",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fill-and-stroke-shapes-at-the-same-time.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -138,7 +138,7 @@ You should use `simultaneousGesture()` with the gesture that would otherwise not
   "title": "How to force one gesture to recognize before another using highPriorityGesture() | SwiftUI by Example",
   "desc": "How to force one gesture to recognize before another using highPriorityGesture()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-one-gesture-to-recognize-before-another-using-highprioritygesture.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -148,7 +148,7 @@ You should use `simultaneousGesture()` with the gesture that would otherwise not
   "title": "How to stop system gestures from interfering with your own | SwiftUI by Example",
   "desc": "How to stop system gestures from interfering with your own",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-stop-system-gestures-from-interfering-with-your-own.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -158,7 +158,7 @@ You should use `simultaneousGesture()` with the gesture that would otherwise not
   "title": "How to detect shake gestures | SwiftUI by Example",
   "desc": "How to detect shake gestures",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-shake-gestures.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

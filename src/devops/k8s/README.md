@@ -4,9 +4,11 @@ title: Kubernetes
 description: Kubernetes
 icon: fas fa-dharmachakra
 category:
+  - DevOps
   - Kubernetes
 tag:
   - kubernetes
+  - k8s
   - kube
 ---
 

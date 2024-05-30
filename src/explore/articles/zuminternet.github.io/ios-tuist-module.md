@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/zuminternet.github.io/ios-tuist-module.html
 prev: /programming/swift/articles/README.md
+date: 2023-03-24
+isOriginal: false
+cover: https://zuminternet.github.io/images/ios/2023-05-24-iOS-tuist-module/titleImage.svg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -45,8 +48,6 @@ prev: /programming/swift/articles/README.md
   url="https://zuminternet.github.io/iOS-tuist-module/"
   logo="https://zuminternet.github.io/favicon.ico"
   preview="https://zuminternet.github.io/images/ios/2023-05-24-iOS-tuist-module/titleImage.svg"/>
-
-> 2023.03.24
 
 <!-- TODO:  작성 -->
 

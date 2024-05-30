@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to get custom colors and transparency with SF Symbols | SwiftUI by Example",
   "desc": "How to get custom colors and transparency with SF Symbols",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -133,7 +133,7 @@ Image(systemName: "person.3.sequence.fill")
   "title": "How to animate SF Symbols | SwiftUI by Example",
   "desc": "How to animate SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-sf-symbols.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -143,7 +143,7 @@ Image(systemName: "person.3.sequence.fill")
   "title": "How to render images using SF Symbols | SwiftUI by Example",
   "desc": "How to render images using SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-images-using-sf-symbols.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -153,7 +153,7 @@ Image(systemName: "person.3.sequence.fill")
   "title": "Polishing designs with fonts and colors | SwiftUI by Example",
   "desc": "Polishing designs with fonts and colors",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/polishing-designs-with-fonts-and-colors.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -163,7 +163,7 @@ Image(systemName: "person.3.sequence.fill")
   "title": "How to load custom colors from an asset catalog | SwiftUI by Example",
   "desc": "How to load custom colors from an asset catalog",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -173,7 +173,7 @@ Image(systemName: "person.3.sequence.fill")
   "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

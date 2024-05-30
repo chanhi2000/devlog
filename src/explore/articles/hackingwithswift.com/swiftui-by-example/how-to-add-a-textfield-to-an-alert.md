@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to add a TextField to an alert | SwiftUI by Example",
   "desc": "How to add a TextField to an alert",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-a-textfield-to-an-alert",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -125,7 +125,7 @@ struct ContentView: View {
   "title": "Presenting an alert | SwiftUI by Example",
   "desc": "Presenting an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/presenting-an-alert.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -135,7 +135,7 @@ struct ContentView: View {
   "title": "How to add actions to alert buttons | SwiftUI by Example",
   "desc": "How to add actions to alert buttons",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-actions-to-alert-buttons.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -145,7 +145,7 @@ struct ContentView: View {
   "title": "How to show an alert | SwiftUI by Example",
   "desc": "How to show an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-an-alert.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -155,7 +155,7 @@ struct ContentView: View {
   "title": "How to add a border to a TextField | SwiftUI by Example",
   "desc": "How to add a border to a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-border-to-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -165,7 +165,7 @@ struct ContentView: View {
   "title": "How to add a placeholder to a TextField | SwiftUI by Example",
   "desc": "How to add a placeholder to a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-placeholder-to-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -32,8 +32,8 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users
   "title": "How to draw images using Image views | SwiftUI by Example",
   "desc": "How to draw images using Image views",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-draw-images-using-image-views",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -101,7 +101,7 @@ Notice how you can use the `font()` modifier to adjust SF Symbols as if they wer
   "title": "How to show different images and other views in light or dark mode | SwiftUI by Example",
   "desc": "How to show different images and other views in light or dark mode",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-different-images-and-other-views-in-light-or-dark-mode.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -111,7 +111,7 @@ Notice how you can use the `font()` modifier to adjust SF Symbols as if they wer
   "title": "How to use images and other views as a backgrounds | SwiftUI by Example",
   "desc": "How to use images and other views as a backgrounds",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-images-and-other-views-as-a-backgrounds.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -121,7 +121,7 @@ Notice how you can use the `font()` modifier to adjust SF Symbols as if they wer
   "title": "How to use decorative images to reduce screen reader clutter | SwiftUI by Example",
   "desc": "How to use decorative images to reduce screen reader clutter",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-decorative-images-to-reduce-screen-reader-clutter.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ Notice how you can use the `font()` modifier to adjust SF Symbols as if they wer
   "title": "How to draw part of a solid shape using trim() | SwiftUI by Example",
   "desc": "How to draw part of a solid shape using trim()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-part-of-a-solid-shape-using-trim.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ Notice how you can use the `font()` modifier to adjust SF Symbols as if they wer
   "title": "How to draw a custom path | SwiftUI by Example",
   "desc": "How to draw a custom path",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-custom-path.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

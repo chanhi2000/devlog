@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to add and remove views with a transition | SwiftUI by Example",
   "desc": "How to add and remove views with a transition",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -123,7 +123,7 @@ struct ContentView: View {
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -133,7 +133,7 @@ struct ContentView: View {
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -143,7 +143,7 @@ struct ContentView: View {
   "title": "How to create a custom transition | SwiftUI by Example",
   "desc": "How to create a custom transition",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-transition.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -153,7 +153,7 @@ struct ContentView: View {
   "title": "How to make views scroll with a custom transition | SwiftUI by Example",
   "desc": "How to make views scroll with a custom transition",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-views-scroll-with-a-custom-transition.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -163,7 +163,7 @@ struct ContentView: View {
   "title": "How to use Instruments to profile your SwiftUI code and identify slow layouts | SwiftUI by Example",
   "desc": "How to use Instruments to profile your SwiftUI code and identify slow layouts",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

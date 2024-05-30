@@ -23,6 +23,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/blog.gangnamunni.com/saas-event-sourcing.html
 prev: /programming/java-spring/articles/README.md
+date: 2024-03-18
+isOriginal: false
+cover: https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,17 +44,12 @@ prev: /programming/java-spring/articles/README.md
 
 ---
 
-```component VPCard
-{
-  "title": "[SaaS] 시간여행이 가능한 시스템 아키텍처",
-  "desc": "복잡한 의료 도메인에 Event Sourcing 적용 by 강남언니 블로그",
-  "link": "https://blog.gangnamunni.com/post/saas-event-sourcing/",
-  "logo": "https://blog.gangnamunni.com/favicon.ico",
-  "background": "rgba(255,84,15,0.2)"
-}
-```
-
-> 2024.03.18
+<SiteInfo
+  name="[SaaS] 시간여행이 가능한 시스템 아키텍처"
+  desc="복잡한 의료 도메인에 Event Sourcing 적용 by 강남언니 블로그"
+  url="https://blog.gangnamunni.com/post/saas-event-sourcing/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
 안녕하세요 힐링페이퍼에서 백엔드 엔지니어로 근무하고 있는 Manggo입니다. 여러분들이 해결하고 있는 도메인 문제들 중 변경 사항 하나하나가 중요하거나, 변경 사항별로 레포트를 제공한다거나, 변경한 시점으로 돌아가 무언가를 해야 하는 경우가 있으실까요? 그럴 때 아주 좋은 패턴이 바로 [<FontIcon icon="fas fa-globe"/>이벤트 소싱](https://martinfowler.com/eaaDev/EventSourcing.html) 입니다. 이벤트 소싱은 마틴 파울러가 쓴  [<FontIcon icon="fas fa-globe"/>Development of Further Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaDev/) 에서 소개되었습니다.
 

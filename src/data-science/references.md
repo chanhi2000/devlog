@@ -31,6 +31,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`itnext` / SQL performance tuning](https://itnext.io/sql-performance-tuning-72e9ebf67549)
+
+---
+
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`louaiboumediene` / Mastering Relational Database Design: A Comprehensive Guide](https://dev.to/louaiboumediene/mastering-relational-database-design-a-comprehensive-guide-3jh8)

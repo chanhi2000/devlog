@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create asymmetric transitions | SwiftUI by Example",
   "desc": "How to create asymmetric transitions",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-asymmetric-transitions",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -88,7 +88,7 @@ struct ContentView: View {
   "title": "How to combine transitions | SwiftUI by Example",
   "desc": "How to combine transitions",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-transitions.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -98,7 +98,7 @@ struct ContentView: View {
   "title": "How to create a custom transition | SwiftUI by Example",
   "desc": "How to create a custom transition",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-transition.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -107,8 +107,8 @@ struct ContentView: View {
 {
   "title": "How to create and compose custom views | SwiftUI by Example",
   "desc": "How to create and compose custom views",
-  "link": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-and-compose-custom-views",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-and-compose-custom-views",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -118,7 +118,7 @@ struct ContentView: View {
   "title": "Composing views to create a list row | SwiftUI by Example",
   "desc": "Composing views to create a list row",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -128,7 +128,7 @@ struct ContentView: View {
   "title": "How to create modifiers for a UIViewRepresentable struct | SwiftUI by Example",
   "desc": "How to create modifiers for a UIViewRepresentable struct",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-modifiers-for-a-uiviewrepresentable-struct.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -24,6 +24,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.html
 prev: /programming/java-android/articles/README.md
+date: 2024-04-18
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,8 +53,6 @@ prev: /programming/java-android/articles/README.md
   "background": "rgba(4,20,221,0.2)"
 }
 ```
-
-> 2024.04.18
 
 <!-- TODO: 작성 -->
 

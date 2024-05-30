@@ -32,7 +32,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-ba
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -46,7 +46,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-ba
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -273,7 +273,7 @@ As you can see, it’s now trivial to add Metal shaders to SwiftUI views, unlock
   "title": "How to layer views on top of each other using ZStack | SwiftUI by Example",
   "desc": "How to layer views on top of each other using ZStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-layer-views-on-top-of-each-other-using-zstack.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -283,7 +283,7 @@ As you can see, it’s now trivial to add Metal shaders to SwiftUI views, unlock
   "title": "How to add haptic effects using sensory feedback | SwiftUI by Example",
   "desc": "How to add haptic effects using sensory feedback",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-haptic-effects-using-sensory-feedback.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -293,7 +293,7 @@ As you can see, it’s now trivial to add Metal shaders to SwiftUI views, unlock
   "title": "How to stack modifiers to create more advanced effects | SwiftUI by Example",
   "desc": "How to stack modifiers to create more advanced effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-stack-modifiers-to-create-more-advanced-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -303,7 +303,7 @@ As you can see, it’s now trivial to add Metal shaders to SwiftUI views, unlock
   "title": "How to create 3D effects like Cover Flow using ScrollView and GeometryReader | SwiftUI by Example",
   "desc": "How to create 3D effects like Cover Flow using ScrollView and GeometryReader",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-3d-effects-like-cover-flow-using-scrollview-and-geometryreader.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -313,7 +313,7 @@ As you can see, it’s now trivial to add Metal shaders to SwiftUI views, unlock
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

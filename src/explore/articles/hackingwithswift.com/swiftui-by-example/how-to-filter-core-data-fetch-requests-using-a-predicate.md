@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to filter Core Data fetch requests using a predicate | SwiftUI by Example",
   "desc": "How to filter Core Data fetch requests using a predicate",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-filter-core-data-fetch-requests-using-a-predicate",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -84,7 +84,7 @@ Because `@FetchRequest` uses standard Core Data predicates, you can create compo
   "title": "How to create a Core Data fetch request using @FetchRequest | SwiftUI by Example",
   "desc": "How to create a Core Data fetch request using @FetchRequest",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-core-data-fetch-request-using-fetchrequest.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -94,7 +94,7 @@ Because `@FetchRequest` uses standard Core Data predicates, you can create compo
   "title": "How to limit the number of items in a fetch request | SwiftUI by Example",
   "desc": "How to limit the number of items in a fetch request",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-limit-the-number-of-items-in-a-fetch-request.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -104,7 +104,7 @@ Because `@FetchRequest` uses standard Core Data predicates, you can create compo
   "title": "How to add a search bar to filter your data | SwiftUI by Example",
   "desc": "How to add a search bar to filter your data",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-search-bar-to-filter-your-data.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -114,7 +114,7 @@ Because `@FetchRequest` uses standard Core Data predicates, you can create compo
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -124,7 +124,7 @@ Because `@FetchRequest` uses standard Core Data predicates, you can create compo
   "title": "How to configure Core Data to work with SwiftUI | SwiftUI by Example",
   "desc": "How to configure Core Data to work with SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-configure-core-data-to-work-with-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

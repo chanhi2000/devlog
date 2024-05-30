@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to embed views in a tab bar using TabView | SwiftUI by Example",
   "desc": "How to embed views in a tab bar using TabView",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -158,7 +158,7 @@ The tags for your tabs can whatever you want, as long as the data type conforms 
   "title": "How to hide the tab bar, navigation bar, or other toolbars | SwiftUI by Example",
   "desc": "How to hide the tab bar, navigation bar, or other toolbars",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -168,7 +168,7 @@ The tags for your tabs can whatever you want, as long as the data type conforms 
   "title": "How to embed a view in a navigation view | SwiftUI by Example",
   "desc": "How to embed a view in a navigation view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-embed-a-view-in-a-navigation-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -178,7 +178,7 @@ The tags for your tabs can whatever you want, as long as the data type conforms 
   "title": "Adding TabView and tabItem() | SwiftUI by Example",
   "desc": "Adding TabView and tabItem()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-tabview-and-tabitem.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -188,7 +188,7 @@ The tags for your tabs can whatever you want, as long as the data type conforms 
   "title": "How to add a badge to TabView items and List rows | SwiftUI by Example",
   "desc": "How to add a badge to TabView items and List rows",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-badge-to-tabview-items-and-list-rows.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -198,7 +198,7 @@ The tags for your tabs can whatever you want, as long as the data type conforms 
   "title": "How to customize the background color of navigation bars, tab bars, and toolbars | SwiftUI by Example",
   "desc": "How to customize the background color of navigation bars, tab bars, and toolbars",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

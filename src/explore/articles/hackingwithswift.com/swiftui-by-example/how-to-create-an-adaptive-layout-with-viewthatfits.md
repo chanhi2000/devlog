@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create an adaptive layout with ViewThatFits | SwiftUI by Example",
   "desc": "How to create an adaptive layout with ViewThatFits",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -184,7 +184,7 @@ Now that will allow the text to wrap horizontally, but as soon as it runs out of
   "title": "How to create a custom layout using the Layout protocol | SwiftUI by Example",
   "desc": "How to create a custom layout using the Layout protocol",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-layout-using-the-layout-protocol.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -194,7 +194,7 @@ Now that will allow the text to wrap horizontally, but as soon as it runs out of
   "title": "How to create a two-column or three-column layout with NavigationSplitView | SwiftUI by Example",
   "desc": "How to create a two-column or three-column layout with NavigationSplitView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -204,7 +204,7 @@ Now that will allow the text to wrap horizontally, but as soon as it runs out of
   "title": "How to preview your layout in a navigation view | SwiftUI by Example",
   "desc": "How to preview your layout in a navigation view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-preview-your-layout-in-a-navigation-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -214,7 +214,7 @@ Now that will allow the text to wrap horizontally, but as soon as it runs out of
   "title": "How to control layout priority using layoutPriority() | SwiftUI by Example",
   "desc": "How to control layout priority using layoutPriority()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-layout-priority-using-layoutpriority.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -224,7 +224,7 @@ Now that will allow the text to wrap horizontally, but as soon as it runs out of
   "title": "How to preview your layout in portrait or landscape | SwiftUI by Example",
   "desc": "How to preview your layout in portrait or landscape",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-preview-your-layout-in-portrait-or-landscape.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

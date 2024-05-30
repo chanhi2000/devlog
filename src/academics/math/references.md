@@ -29,9 +29,11 @@ head:
 
 ---
 
-![The Periodic Table of the Elements, in Pictures and Words (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Pics_w2000.png)
+![The Periodic Table of the Elements, in Pictures and Words (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Pics_w2000.png) 
+<!-- TODO: 로컬에 저장 -->
 
-![The Periodic Table of the Elements, in Words, (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Words_w2000.png)
+![The Periodic Table of the Elements, in Words, (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Words_w2000.png) 
+<!-- TODO: 로컬에 저장 -->
 
 ---
 
@@ -44,12 +46,13 @@ head:
 
 ---
 
-## Pdf
+## Pdf(s)
 
-- [Sampling: What Nyquist Didn't Say, and What to Do About It](https://www.wescottdesign.com/articles/Sampling/sampling.pdf)
-- [Projective Geometric Algebra](https://projectivegeometricalgebra.org/projgeomalg.pdf)
-- [Conformal Geometric Algebra](https://projectivegeometricalgebra.org/confgeomalg.pdf)
-- [The Quintic, the Icosahedron, and Elliptic Curves](https://www.ams.org/journals/notices/202404/rnoti-p444.pdf)
+<PDF url="https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf" />
+<PDF url="https://www.wescottdesign.com/articles/Sampling/sampling.pdf" />
+<PDF url="https://projectivegeometricalgebra.org/projgeomalg.pdf" />
+<PDF url="https://projectivegeometricalgebra.org/confgeomalg.pdf" />
+<PDF url="https://www.ams.org/journals/notices/202404/rnoti-p444.pdf" />
 
 ---
 

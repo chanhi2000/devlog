@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create custom animated drawings with TimelineView and Canvas | SwiftUI by Example",
   "desc": "How to create custom animated drawings with TimelineView and Canvas",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-custom-animated-drawings-with-timelineview-and-canvas",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -132,7 +132,7 @@ Over on Hacking with Swift+ I have a whole series of tutorials teaching you how 
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -142,7 +142,7 @@ Over on Hacking with Swift+ I have a whole series of tutorials teaching you how 
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -152,7 +152,7 @@ Over on Hacking with Swift+ I have a whole series of tutorials teaching you how 
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -162,7 +162,7 @@ Over on Hacking with Swift+ I have a whole series of tutorials teaching you how 
   "title": "How to use Instruments to profile your SwiftUI code and identify slow layouts | SwiftUI by Example",
   "desc": "How to use Instruments to profile your SwiftUI code and identify slow layouts",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -172,7 +172,7 @@ Over on Hacking with Swift+ I have a whole series of tutorials teaching you how 
   "title": "Building a menu using List | SwiftUI by Example",
   "desc": "Building a menu using List",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

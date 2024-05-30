@@ -16,7 +16,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -42,6 +41,12 @@ tag:
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 사이트 보안점검을 해봅시다](https://blex.me/@baealex/%EB%B3%B4%EC%95%88)
+
+---
+
+## web.dev
+
+- [Introduction to HTTP/2](https://web.dev/articles/performance-http2?hl=en)
 
 ---
 

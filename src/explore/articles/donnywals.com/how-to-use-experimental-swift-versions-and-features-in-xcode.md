@@ -21,6 +21,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/donnywals.com/how-to-use-experimental-swift-versions-and-features-in-xcode.html
 prev: /programming/swift/articles/README.md
+date: 2024-04-18
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -58,8 +60,6 @@ prev: /programming/swift/articles/README.md
   "background": "rgba(109,73,176,0.2)"
 }
 ```
-
-> 2024.04.18
 
 <!--TODO: 작성 -->
 

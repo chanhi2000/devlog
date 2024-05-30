@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/sitepoint.com/fluid-typography-css-clamp-function.html
 prev: /programming/css/articles/README.md
+date: 2024-04-23
+isOriginal: false
+cover: https://uploads.sitepoint.com/wp-content/uploads/2024/04/1713857373calc-css-font-scaling.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,8 +44,6 @@ prev: /programming/css/articles/README.md
   url="https://sitepoint.com/fluid-typography-css-clamp-function/"
   logo="https://sitepoint.com/favicons/512x512.png"
   preview="https://uploads.sitepoint.com/wp-content/uploads/2024/04/1713857373calc-css-font-scaling.jpg"/>
-
-> 2024.04.23
 
 <!-- TODO: 작성 -->
 

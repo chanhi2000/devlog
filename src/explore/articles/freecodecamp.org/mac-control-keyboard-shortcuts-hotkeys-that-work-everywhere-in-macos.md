@@ -22,6 +22,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos.html
 prev: /devops/macos/articles/README.md
+date: 2024-04-25
+isOriginal: false
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714092420192/21d4bc5e-4952-4cb6-b664-5e15ad7d96a0.jpeg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -43,11 +46,9 @@ prev: /devops/macos/articles/README.md
 <SiteInfo
   name="Mac Control Keyboard Shortcuts – Hotkeys that Work Everywhere in MacOS"
   desc="MacOS has several keyboard shortcuts that work everywhere – in your browser, in your terminal, in any place where you can input text. I call these the Control Hotkeys since they all involve holding the Control key. These shortcuts seem to originate..."
-  url="https://www.freecodecamp.org/news/mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos/"
+  url="https://freecodecamp.org/news/mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.hashnode.com/res/hashnode/image/upload/v1714092420192/21d4bc5e-4952-4cb6-b664-5e15ad7d96a0.jpeg"/>
-
-> 2024.04.25
 
 <!-- TODO: 작성 -->
 

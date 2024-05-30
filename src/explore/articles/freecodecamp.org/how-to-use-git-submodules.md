@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-use-git-submodules.html
 prev: /programming/git/articles/README.md
+date: 2024-05-07
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/git-submodules---cover-image.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -40,11 +43,9 @@ prev: /programming/git/articles/README.md
 <SiteInfo
   name="How to Use Git Submodules – Explained With Examples"
   desc="Git is undeniably a very important tool for developers. It helps us collaborate seamlessly, track changes efficiently, and maintain project integrity across distributed environments. But as projects grow in complexity and scope, so do their dependencies. So we need a mechanism to properly manage these dependencies as they grow. This..."
-  url="https://www.freecodecamp.org/news/how-to-use-git-submodules/"
+  url="https://freecodecamp.org/news/how-to-use-git-submodules/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/git-submodules---cover-image.png"/>
-
-> 2024.05.07
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/git-submodules---cover-image.png"/>
 
 <!-- TODO: 작성 -->
 

@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -44,8 +44,8 @@ head:
 {
   "title": "What is SwiftUI? | SwiftUI by Example",
   "desc": "What is SwiftUI?",
-  "link": "https://www.hackingwithswift.com/quick-start/swiftui/what-is-swiftui", 
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "link": "https://hackingwithswift.com/quick-start/swiftui/what-is-swiftui", 
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

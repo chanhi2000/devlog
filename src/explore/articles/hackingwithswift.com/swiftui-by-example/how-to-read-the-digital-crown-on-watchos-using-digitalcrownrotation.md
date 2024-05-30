@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to read the Digital Crown on watchOS using digitalCrownRotation() | SwiftUI by Example",
   "desc": "How to read the Digital Crown on watchOS using digitalCrownRotation()",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-read-the-digital-crown-on-watchos-using-digitalcrownrotation",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -101,7 +101,7 @@ For example, this modifier steps through from 1 through 5 by 0.1 increments, wit
   "title": "How to make carousel lists on watchOS | SwiftUI by Example",
   "desc": "How to make carousel lists on watchOS",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-carousel-lists-on-watchos.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -111,7 +111,7 @@ For example, this modifier steps through from 1 through 5 by 0.1 increments, wit
   "title": "How to create a date picker and read values from it | SwiftUI by Example",
   "desc": "How to create a date picker and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-date-picker-and-read-values-from-it.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -121,7 +121,7 @@ For example, this modifier steps through from 1 through 5 by 0.1 increments, wit
   "title": "How to make VoiceOver read characters individually | SwiftUI by Example",
   "desc": "How to make VoiceOver read characters individually",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-voiceover-read-characters-individually.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ For example, this modifier steps through from 1 through 5 by 0.1 increments, wit
   "title": "How to create a segmented control and read values from it | SwiftUI by Example",
   "desc": "How to create a segmented control and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-segmented-control-and-read-values-from-it.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ For example, this modifier steps through from 1 through 5 by 0.1 increments, wit
   "title": "How to read the red, green, and blue values from a Color | SwiftUI by Example",
   "desc": "How to read the red, green, and blue values from a Color",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-read-the-red-green-and-blue-values-from-a-color.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

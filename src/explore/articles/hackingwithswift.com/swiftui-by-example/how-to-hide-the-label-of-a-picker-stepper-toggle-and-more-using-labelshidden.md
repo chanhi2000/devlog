@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden() | SwiftUI by Example",
   "desc": "How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden()",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -130,7 +130,7 @@ Yes, the end result might *look* the same, but there's an important reason why u
   "title": "How to create a stepper and read values from it | SwiftUI by Example",
   "desc": "How to create a stepper and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-stepper-and-read-values-from-it.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -140,7 +140,7 @@ Yes, the end result might *look* the same, but there's an important reason why u
   "title": "How to show text and an icon side by side using Label | SwiftUI by Example",
   "desc": "How to show text and an icon side by side using Label",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-text-and-an-icon-side-by-side-using-label.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -150,7 +150,7 @@ Yes, the end result might *look* the same, but there's an important reason why u
   "title": "How to create a toggle switch | SwiftUI by Example",
   "desc": "How to create a toggle switch",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-toggle-switch.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -160,7 +160,7 @@ Yes, the end result might *look* the same, but there's an important reason why u
   "title": "Customizing Toggle with ToggleStyle | SwiftUI by Example",
   "desc": "Customizing Toggle with ToggleStyle",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/customizing-toggle-with-togglestyle.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -170,7 +170,7 @@ Yes, the end result might *look* the same, but there's an important reason why u
   "title": "How to create a date picker and read values from it | SwiftUI by Example",
   "desc": "How to create a date picker and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-date-picker-and-read-values-from-it.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

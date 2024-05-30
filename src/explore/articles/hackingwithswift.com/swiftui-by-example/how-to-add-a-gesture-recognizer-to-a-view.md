@@ -32,7 +32,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-hapti
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-hapti
   "title": "How to add a gesture recognizer to a view | SwiftUI by Example",
   "desc": "How to add a gesture recognizer to a view",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -168,7 +168,7 @@ If you try that code you'll see you can drag the image around now, and when you 
   "title": "How to force one gesture to recognize before another using highPriorityGesture() | SwiftUI by Example",
   "desc": "How to force one gesture to recognize before another using highPriorityGesture()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-one-gesture-to-recognize-before-another-using-highprioritygesture.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -178,7 +178,7 @@ If you try that code you'll see you can drag the image around now, and when you 
   "title": "How to create gesture chains using sequenced(before:) | SwiftUI by Example",
   "desc": "How to create gesture chains using sequenced(before:)",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-gesture-chains-using-sequencedbefore.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -188,7 +188,7 @@ If you try that code you'll see you can drag the image around now, and when you 
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -198,7 +198,7 @@ If you try that code you'll see you can drag the image around now, and when you 
   "title": "How to add an inspector to any view | SwiftUI by Example",
   "desc": "How to add an inspector to any view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-an-inspector-to-any-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -208,7 +208,7 @@ If you try that code you'll see you can drag the image around now, and when you 
   "title": "How to add bar items to a navigation view | SwiftUI by Example",
   "desc": "How to add bar items to a navigation view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-bar-items-to-a-navigation-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

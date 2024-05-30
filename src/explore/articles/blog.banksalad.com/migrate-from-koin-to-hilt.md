@@ -24,6 +24,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/blog.banksalad.com/migrate-from-koin-to-hilt.html
 prev: /programming/java-android/articles/README.md
+date: 2022-04-09
+isOriginal: false
+cover: https://blog.banksalad.com/static/2e6b6d90a6afd3e2d74fabe20de4cf95/3b654/cover.webp
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -49,8 +52,6 @@ prev: /programming/java-android/articles/README.md
   logo="https://blog.banksalad.com/favicon-32x32.png?v=a0f8dfab85709bd32e8bfd56c885f0fe"
   preview="https://blog.banksalad.com/static/2e6b6d90a6afd3e2d74fabe20de4cf95/3b654/cover.webp"/>
 
-
-> 2022.04.09
 
 ---
 

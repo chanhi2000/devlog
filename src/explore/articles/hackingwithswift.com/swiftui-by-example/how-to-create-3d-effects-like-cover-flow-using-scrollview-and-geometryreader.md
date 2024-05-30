@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create 3D effects like Cover Flow using ScrollView and GeometryReader | SwiftUI by Example",
   "desc": "How to create 3D effects like Cover Flow using ScrollView and GeometryReader",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-3d-effects-like-cover-flow-using-scrollview-and-geometryreader",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -121,7 +121,7 @@ As you drag the card around you'll see it rotates to give a perspective effect.
   "title": "How to provide relative sizes using GeometryReader | SwiftUI by Example",
   "desc": "How to provide relative sizes using GeometryReader",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-provide-relative-sizes-using-geometryreader.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ As you drag the card around you'll see it rotates to give a perspective effect.
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ As you drag the card around you'll see it rotates to give a perspective effect.
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -151,7 +151,7 @@ As you drag the card around you'll see it rotates to give a perspective effect.
   "title": "How to stack modifiers to create more advanced effects | SwiftUI by Example",
   "desc": "How to stack modifiers to create more advanced effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-stack-modifiers-to-create-more-advanced-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -161,7 +161,7 @@ As you drag the card around you'll see it rotates to give a perspective effect.
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

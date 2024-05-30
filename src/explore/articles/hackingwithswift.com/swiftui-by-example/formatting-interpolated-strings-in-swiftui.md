@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "Formatting interpolated strings in SwiftUI | SwiftUI by Example",
   "desc": "Formatting interpolated strings in SwiftUI",
   "link": "https://hackingwithswift.com/quick-start/swiftui/formatting-interpolated-strings-in-swiftui",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -83,7 +83,7 @@ If you try that out you should see it all works great – the total price reflec
   "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -97,7 +97,7 @@ If you try that out you should see it all works great – the total price reflec
   "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
   "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -107,7 +107,7 @@ If you try that out you should see it all works great – the total price reflec
   "title": "Frequently asked questions about SwiftUI | SwiftUI by Example",
   "desc": "Frequently asked questions about SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/frequently-asked-questions-about-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -117,7 +117,7 @@ If you try that out you should see it all works great – the total price reflec
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -127,7 +127,7 @@ If you try that out you should see it all works great – the total price reflec
   "title": "How to fix “Ambiguous reference to member 'buildBlock()'” | SwiftUI by Example",
   "desc": "How to fix “Ambiguous reference to member 'buildBlock()'”",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-ambiguous-reference-to-member-buildblock.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -137,7 +137,7 @@ If you try that out you should see it all works great – the total price reflec
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

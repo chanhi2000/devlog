@@ -20,6 +20,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/digitalocean.com/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3.html
 prev: /programming/py/articles/README.md
+date: 2024-04-26
+isOriginal: false
+cover: https://journaldev.nyc3.cdn.digitaloceanspaces.com/2019/10/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -44,8 +47,6 @@ prev: /programming/py/articles/README.md
   url="https://digitalocean.com/community/tutorials/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3"
   logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
   preview="https://journaldev.nyc3.cdn.digitaloceanspaces.com/2019/10/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3.png"/>
-
-> 2024.04.26
 
 <!-- TODO: 작성 -->
 

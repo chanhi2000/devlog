@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/minimum-viable-product-between-an-idea-and-the-product.html
 prev: /academcis/system-design/articles/README.md
+date: 2024-05-24
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w2000/2020/02/MVP-as-a-Bicyle.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -42,11 +45,9 @@ prev: /academcis/system-design/articles/README.md
 <SiteInfo
   name="How to Build an MVP for Your Project – and Why You Should Do It"
   desc="Proof of concept, prototypes, wireframes, mockups… what actually constitutes a Minimum Viable Product (MVP)? Well, it's a product with just enough features to gather comprehensive qualitative feedback. In practice, it's as easy to understand the concept of an MVP as it is to ride a bicycle. Let's do it then..."
-  url="https://www.freecodecamp.org/news/minimum-viable-product-between-an-idea-and-the-product/"
+  url="https://freecodecamp.org/news/minimum-viable-product-between-an-idea-and-the-product/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/MVP-as-a-Bicyle.png"/>
-
-> 2024.05.24
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2020/02/MVP-as-a-Bicyle.png"/>
 
 <!-- TODO: 작성 -->
 

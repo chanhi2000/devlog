@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to detect device rotation | SwiftUI by Example",
   "desc": "How to detect device rotation",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-detect-device-rotation",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -130,7 +130,7 @@ Please remember that device orientation isn't quite as useful as you might expec
   "title": "How to detect the location of a tap inside a view | SwiftUI by Example",
   "desc": "How to detect the location of a tap inside a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-the-location-of-a-tap-inside-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -140,7 +140,7 @@ Please remember that device orientation isn't quite as useful as you might expec
   "title": "How to detect shake gestures | SwiftUI by Example",
   "desc": "How to detect shake gestures",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-shake-gestures.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -150,7 +150,7 @@ Please remember that device orientation isn't quite as useful as you might expec
   "title": "How to detect the user hovering over a view | SwiftUI by Example",
   "desc": "How to detect the user hovering over a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-the-user-hovering-over-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -160,7 +160,7 @@ Please remember that device orientation isn't quite as useful as you might expec
   "title": "How to detect dark mode | SwiftUI by Example",
   "desc": "How to detect dark mode",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-dark-mode.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -170,7 +170,7 @@ Please remember that device orientation isn't quite as useful as you might expec
   "title": "How to detect and respond to key press events | SwiftUI by Example",
   "desc": "How to detect and respond to key press events",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-and-respond-to-key-press-events.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

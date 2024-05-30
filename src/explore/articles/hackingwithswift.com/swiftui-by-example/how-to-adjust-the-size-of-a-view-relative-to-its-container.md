@@ -32,7 +32,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-st
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -46,7 +46,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-st
   "title": "How to adjust the size of a view relative to its container | SwiftUI by Example",
   "desc": "How to adjust the size of a view relative to its container",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-adjust-the-size-of-a-view-relative-to-its-container",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -96,7 +96,7 @@ There are two extra things to know about using container relative frames:
   "title": "How to dynamically adjust the appearance of a view based on its size and location | SwiftUI by Example",
   "desc": "How to dynamically adjust the appearance of a view based on its size and location",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -106,7 +106,7 @@ There are two extra things to know about using container relative frames:
   "title": "How to adjust the position of a view using its offset | SwiftUI by Example",
   "desc": "How to adjust the position of a view using its offset",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-position-of-a-view-using-its-offset.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -116,7 +116,7 @@ There are two extra things to know about using container relative frames:
   "title": "How to provide relative sizes using GeometryReader | SwiftUI by Example",
   "desc": "How to provide relative sizes using GeometryReader",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-provide-relative-sizes-using-geometryreader.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -126,7 +126,7 @@ There are two extra things to know about using container relative frames:
   "title": "How to adjust the way an image is fitted to its space | SwiftUI by Example",
   "desc": "How to adjust the way an image is fitted to its space",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -136,7 +136,7 @@ There are two extra things to know about using container relative frames:
   "title": "How to animate the size of text | SwiftUI by Example",
   "desc": "How to animate the size of text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-the-size-of-text.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

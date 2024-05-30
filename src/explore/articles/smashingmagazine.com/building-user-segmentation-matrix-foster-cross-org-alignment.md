@@ -21,6 +21,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/smashingmagazine.com/building-user-segmentation-matrix-foster-cross-org-alignment.html
 prev: /academics/system-design/articles/README.md
+date: 2024-05-17
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -48,8 +50,6 @@ prev: /academics/system-design/articles/README.md
   "background": "rgba(211,58,44,0.2)"
 }
 ```
-
-> 2024.05.17
 
 <!-- TODO: 작성 -->
 

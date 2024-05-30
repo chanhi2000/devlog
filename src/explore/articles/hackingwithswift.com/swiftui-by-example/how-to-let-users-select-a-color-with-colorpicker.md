@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to let users select a color with ColorPicker | SwiftUI by Example",
   "desc": "How to let users select a color with ColorPicker",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-let-users-select-a-color-with-colorpicker",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -99,7 +99,7 @@ struct ContentView: View {
   "title": "How to let users select pictures using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users select pictures using PhotosPicker",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-pictures-using-photospicker.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -109,7 +109,7 @@ struct ContentView: View {
   "title": "How to let users select text | SwiftUI by Example",
   "desc": "How to let users select text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-text.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -119,7 +119,7 @@ struct ContentView: View {
   "title": "How to let the user select multiple dates | SwiftUI by Example",
   "desc": "How to let the user select multiple dates",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-the-user-select-multiple-dates.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -129,7 +129,7 @@ struct ContentView: View {
   "title": "How to let users import videos using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users import videos using PhotosPicker",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ struct ContentView: View {
   "title": "How to let users share content using the system share sheet | SwiftUI by Example",
   "desc": "How to let users share content using the system share sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-share-content-using-the-system-share-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

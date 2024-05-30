@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to position views in a fixed grid | SwiftUI by Example",
   "desc": "How to position views in a fixed grid",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-position-views-in-a-fixed-grid",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -224,7 +224,7 @@ struct ContentView: View {
   "title": "How to position views in a grid using LazyVGrid and LazyHGrid | SwiftUI by Example",
   "desc": "How to position views in a grid using LazyVGrid and LazyHGrid",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -234,7 +234,7 @@ struct ContentView: View {
   "title": "How to make a fixed size Spacer | SwiftUI by Example",
   "desc": "How to make a fixed size Spacer",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-fixed-size-spacer.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -244,7 +244,7 @@ struct ContentView: View {
   "title": "How to adjust the position of a view using its offset | SwiftUI by Example",
   "desc": "How to adjust the position of a view using its offset",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-position-of-a-view-using-its-offset.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -254,7 +254,7 @@ struct ContentView: View {
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -264,7 +264,7 @@ struct ContentView: View {
   "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -24,6 +24,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/understand-console-tab-drawer.html
 prev: /tool/chrome/articles/README.md
+date: 2023-06-06
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -64,15 +66,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "Understand when the Console opens in the main panel and in the drawer",
-  "desc": "Devtools Tips > Understand when the Console opens in the main panel and in the drawer",
+  "title": "Understand when the Console opens in the main panel and in the drawer | Devtools Tips",
+  "desc": "Understand when the Console opens in the main panel and in the drawer",
   "link": "https://devtoolstips.org/tips/en/understand-console-tab-drawer/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.06.06
 
 <!-- TODO:  작성 -->
 

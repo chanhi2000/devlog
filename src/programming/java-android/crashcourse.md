@@ -40,7 +40,7 @@ head:
   "title": "Java / Kotlin / Spring > Java 8 in Action",
   "desc": "Java 8 in Action",
   "link": "https://chanhi2000.github.io/crashcourse/java/java-8-in-action/",
-  "logo": "https://www.hackingwithswift.com/favicon-96x96.png",
+  "logo": "https://hackingwithswift.com/favicon-96x96.png",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -50,7 +50,7 @@ head:
   "title": "Java / Kotlin / Spring > Effective Java",
   "desc": "Effective Java",
   "link": "https://chanhi2000.github.io/crashcourse/java/effective-java/",
-  "logo": "https://www.hackingwithswift.com/favicon-96x96.png",
+  "logo": "https://hackingwithswift.com/favicon-96x96.png",
   "background": "rgba(174,10,10,0.2)"
 }
 ```

@@ -25,6 +25,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-store-data-locally-in-react-native-expo.html
 prev: /programming/js-react/articles/README.md
+date: 2024-05-13
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/local-storage-in--react-native-expo--1-.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,11 +49,9 @@ prev: /programming/js-react/articles/README.md
 <SiteInfo
   name="How to Store Data Locally in React Native Expo"
   desc="React Native has grown in popularity as a mobile application development tool because of its ability to create cross-platform applications using familiar JavaScript and React principles.  When building mobile applications, one common requirement is the ability to save data locally on the device. This is when local storage comes..."
-  url="https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/"
+  url="https://freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/local-storage-in--react-native-expo--1-.png"/>
-
-> 2024.05.13
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/local-storage-in--react-native-expo--1-.png"/>
 
 <!-- TODO: 작성 -->
 

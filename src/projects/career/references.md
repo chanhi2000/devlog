@@ -105,6 +105,7 @@ tag:
 - [`@hyemin916` / 3년차 개발자의 성장](https://velog.io/@hyemin916/3%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5)
 - [`@dus532` / 더 정확한 데이터를 향해, 소프트콘 뷰어십 제작기(9)](https://velog.io/@dus532/viewership9)
 - [`@stella6767` / 2년간 스타트업 퇴사 회고](https://velog.io/@stella6767/2%EB%85%84%EA%B0%84-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%87%B4%EC%82%AC-%ED%9A%8C%EA%B3%A0)
+- [`@hyemin916` / 피드백 맷집 기르기](https://velog.io/@hyemin916/%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%A7%B7%EC%A7%91-%EA%B8%B0%EB%A5%B4%EA%B8%B0)
 
 ---
 
@@ -374,6 +375,7 @@ tag:
 - [워라밸은 없다](https://www.thestartupbible.com/2024/05/work-and-life-balance-at-a-startup-is-unicorn-myth.html)
 - [관계 건설](https://www.thestartupbible.com/2024/05/the-relationship-building.html)
 - [사람이 하는 일](https://www.thestartupbible.com/2024/05/the-human-intelligence.html)
+- [향 후 25년](https://www.thestartupbible.com/2024/05/the-next-25-years.html)
 
 ---
 

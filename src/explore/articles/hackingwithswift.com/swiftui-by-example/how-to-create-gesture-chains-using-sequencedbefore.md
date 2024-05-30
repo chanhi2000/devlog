@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create gesture chains using sequenced(before:) | SwiftUI by Example",
   "desc": "How to create gesture chains using sequenced(before:)",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-gesture-chains-using-sequencedbefore",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -94,7 +94,7 @@ As you can see, I've made the text view update as the two gestures happen, so if
   "title": "How to add a gesture recognizer to a view | SwiftUI by Example",
   "desc": "How to add a gesture recognizer to a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-gesture-recognizer-to-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -104,7 +104,7 @@ As you can see, I've made the text view update as the two gestures happen, so if
   "title": "How to force one gesture to recognize before another using highPriorityGesture() | SwiftUI by Example",
   "desc": "How to force one gesture to recognize before another using highPriorityGesture()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-one-gesture-to-recognize-before-another-using-highprioritygesture.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -114,7 +114,7 @@ As you can see, I've made the text view update as the two gestures happen, so if
   "title": "How to create multi-column lists using Table | SwiftUI by Example",
   "desc": "How to create multi-column lists using Table",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-column-lists-using-table.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -124,7 +124,7 @@ As you can see, I've made the text view update as the two gestures happen, so if
   "title": "What is the @GestureState property wrapper? | SwiftUI by Example",
   "desc": "What is the @GestureState property wrapper?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-the-gesturestate-property-wrapper.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -134,7 +134,7 @@ As you can see, I've made the text view update as the two gestures happen, so if
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

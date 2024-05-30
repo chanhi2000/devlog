@@ -22,6 +22,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/oauth2-resourceserver-with-spring-security.html
 prev: /programming/java-spring/articles/README.md
+date: 2024-05-08
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/article-cover.jpeg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -43,11 +46,9 @@ prev: /programming/java-spring/articles/README.md
 <SiteInfo
   name="How to Implement an OAuth2 Resource Server with Spring Security"
   desc="Hey everyone! Imagine you are building an awesome application, with lots of cool features. Picture a backend server at its core that hosts a majority of the business logic and exposes functionality through APIs. Once you have planned out your APIs, there's one crucial step you need to take care"
-  url="https://www.freecodecamp.org/news/oauth2-resourceserver-with-spring-security/"
+  url="https://freecodecamp.org/news/oauth2-resourceserver-with-spring-security/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/article-cover.jpeg"/>
-
-> 2024.05.08
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/article-cover.jpeg"/>
 
 <!-- TODO: 작성 -->
 

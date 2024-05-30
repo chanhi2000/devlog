@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to add a toolbar to the keyboard | SwiftUI by Example",
   "desc": "How to add a toolbar to the keyboard",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-a-toolbar-to-the-keyboard",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -117,7 +117,7 @@ struct ContentView: View {
   "title": "How to create a toolbar and add buttons to it | SwiftUI by Example",
   "desc": "How to create a toolbar and add buttons to it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-toolbar-and-add-buttons-to-it.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -127,7 +127,7 @@ struct ContentView: View {
   "title": "How to let users customize toolbar buttons | SwiftUI by Example",
   "desc": "How to let users customize toolbar buttons",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-customize-toolbar-buttons.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -137,7 +137,7 @@ struct ContentView: View {
   "title": "How to add keyboard shortcuts using keyboardShortcut() | SwiftUI by Example",
   "desc": "How to add keyboard shortcuts using keyboardShortcut()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-keyboard-shortcuts-using-keyboardshortcut.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -147,7 +147,7 @@ struct ContentView: View {
   "title": "How to dismiss the keyboard for a TextField | SwiftUI by Example",
   "desc": "How to dismiss the keyboard for a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dismiss-the-keyboard-for-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -157,7 +157,7 @@ struct ContentView: View {
   "title": "How to dismiss the keyboard when the user scrolls | SwiftUI by Example",
   "desc": "How to dismiss the keyboard when the user scrolls",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dismiss-the-keyboard-when-the-user-scrolls.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/the-classic-border-radius-advice-plus-an-unusual-trick.html
 prev: /programming/css/articles/README.md
+date: 2024-05-13
+isOriginal: false
+cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/image-1.png?resize=1024%2C585&ssl=1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -45,8 +48,6 @@ prev: /programming/css/articles/README.md
   url="https://frontendmasters.com/news/the-classic-border-radius-advice-plus-an-unusual-trick/"
   logo="https://frontendmasters.com/favicon.ico"
   preview="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/image-1.png?resize=1024%2C585&ssl=1"/>
-
-> 2024.05.13
 
 <!-- TODO: 작성 -->
 

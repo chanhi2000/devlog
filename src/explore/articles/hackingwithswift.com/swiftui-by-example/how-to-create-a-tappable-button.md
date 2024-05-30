@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create a tappable button | SwiftUI by Example",
   "desc": "How to create a tappable button",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-a-tappable-button",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -152,7 +152,7 @@ There's also a `.cancel` role, and again it gives SwiftUI that extra bit of cont
   "title": "How to control the tappable area of a view using contentShape() | SwiftUI by Example",
   "desc": "How to control the tappable area of a view using contentShape()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-the-tappable-area-of-a-view-using-contentshape.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -162,7 +162,7 @@ There's also a `.cancel` role, and again it gives SwiftUI that extra bit of cont
   "title": "How to fix a Form Picker or a NavigationLink that isn't tappable | SwiftUI by Example",
   "desc": "How to fix a Form Picker or a NavigationLink that isn't tappable",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-a-form-picker-or-a-navigationlink-that-isnt-tappable.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -172,7 +172,7 @@ There's also a `.cancel` role, and again it gives SwiftUI that extra bit of cont
   "title": "How to disable the overlay color for images inside Button and NavigationLink | SwiftUI by Example",
   "desc": "How to disable the overlay color for images inside Button and NavigationLink",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -182,7 +182,7 @@ There's also a `.cancel` role, and again it gives SwiftUI that extra bit of cont
   "title": "How to show a menu when a button is pressed | SwiftUI by Example",
   "desc": "How to show a menu when a button is pressed",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-menu-when-a-button-is-pressed.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -192,7 +192,7 @@ There's also a `.cancel` role, and again it gives SwiftUI that extra bit of cont
   "title": "Customizing Button with ButtonStyle | SwiftUI by Example",
   "desc": "Customizing Button with ButtonStyle",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/customizing-button-with-buttonstyle.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

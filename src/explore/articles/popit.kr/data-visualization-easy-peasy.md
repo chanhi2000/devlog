@@ -24,6 +24,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/popit.kr/data-visualization-easy-peasy.html
 prev: /programming/java-elasticsearch/articles/README.md
+date: 2024-04-13
+isOriginal: false
+cover: https://popit.kr/wp-content/uploads/2024/04/visual-600x360.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -48,8 +51,6 @@ prev: /programming/java-elasticsearch/articles/README.md
   url="https://popit.kr/%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%8b%9c%ea%b0%81%ed%99%94-%eb%b3%84%ea%b1%b0-%ec%95%84%eb%8b%88%eb%8b%a4/"
   logo="https://popit.kr/wp-content/uploads/2016/08/favicon_32x32.png"
   preview="https://popit.kr/wp-content/uploads/2024/04/visual-600x360.png"/>
-
-> 2024.04.13
 
 <!-- TODO: 작성 -->
 

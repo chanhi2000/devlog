@@ -20,6 +20,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/digitalocean.com/python-pretty-print-json.html
 prev: /programming/py/articles/README.md
+date: 2024-04-26
+isOriginal: false
+cover: https://journaldev.nyc3.cdn.digitaloceanspaces.com/2019/10/Python-Pretty-Print-JSON.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -44,8 +47,6 @@ prev: /programming/py/articles/README.md
   url="https://digitalocean.com/community/tutorials/python-pretty-print-json"
   logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
   preview="https://journaldev.nyc3.cdn.digitaloceanspaces.com/2019/10/Python-Pretty-Print-JSON.png"/>
-
-> 2024.04.26
 
 <!-- TODO: 작성 -->
 

@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to detect the user hovering over a view | SwiftUI by Example",
   "desc": "How to detect the user hovering over a view",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-detect-the-user-hovering-over-a-view",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -110,7 +110,7 @@ To try this out on the iPadOS simulator, go to the I/O menu and choose <FontIcon
   "title": "How to detect the location of a tap inside a view | SwiftUI by Example",
   "desc": "How to detect the location of a tap inside a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-the-location-of-a-tap-inside-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -120,7 +120,7 @@ To try this out on the iPadOS simulator, go to the I/O menu and choose <FontIcon
   "title": "How to detect shake gestures | SwiftUI by Example",
   "desc": "How to detect shake gestures",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-shake-gestures.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -130,7 +130,7 @@ To try this out on the iPadOS simulator, go to the I/O menu and choose <FontIcon
   "title": "How to detect device rotation | SwiftUI by Example",
   "desc": "How to detect device rotation",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-device-rotation.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -140,7 +140,7 @@ To try this out on the iPadOS simulator, go to the I/O menu and choose <FontIcon
   "title": "How to detect and respond to key press events | SwiftUI by Example",
   "desc": "How to detect and respond to key press events",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-and-respond-to-key-press-events.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -150,7 +150,7 @@ To try this out on the iPadOS simulator, go to the I/O menu and choose <FontIcon
   "title": "How to detect when your app moves to the background or foreground with scenePhase | SwiftUI by Example",
   "desc": "How to detect when your app moves to the background or foreground with scenePhase",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-when-your-app-moves-to-the-background-or-foreground-with-scenephase.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

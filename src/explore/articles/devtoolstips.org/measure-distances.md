@@ -20,6 +20,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/measure-distances.html
 prev: /tool/firefox/articles/README.md
+date: 2023-04-05
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -40,15 +42,13 @@ prev: /tool/firefox/articles/README.md
 
 ```component VPCard
 {
-  "title": "Measure arbitrary distances in the page",
-  "desc": "Devtools Tips > Measure arbitrary distances in the page",
+  "title": "Measure arbitrary distances in the page | Devtools Tips",
+  "desc": "Measure arbitrary distances in the page",
   "link": "https://devtoolstips.org/tips/en/measure-distances/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.04.05
 
 <!-- TODO:  작성 -->
 

@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to indent the content or scroll indicators in a ScrollView | SwiftUI by Example",
   "desc": "How to indent the content or scroll indicators in a ScrollView",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-indent-the-content-or-scroll-indicators-in-a-scrollview",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -119,7 +119,7 @@ Using content margins rather than simple padding allows your content to scroll e
   "title": "How to flash the scroll bar indicators of a ScrollView or List | SwiftUI by Example",
   "desc": "How to flash the scroll bar indicators of a ScrollView or List",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -129,7 +129,7 @@ Using content margins rather than simple padding allows your content to scroll e
   "title": "How to hide the scroll indicators in ScrollView, List, and more | SwiftUI by Example",
   "desc": "How to hide the scroll indicators in ScrollView, List, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-scroll-indicators-in-scrollview-list-and-more.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ Using content margins rather than simple padding allows your content to scroll e
   "title": "How to make views scroll with a custom transition | SwiftUI by Example",
   "desc": "How to make views scroll with a custom transition",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-views-scroll-with-a-custom-transition.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -149,7 +149,7 @@ Using content margins rather than simple padding allows your content to scroll e
   "title": "How to make a scroll view move to a location using ScrollViewReader | SwiftUI by Example",
   "desc": "How to make a scroll view move to a location using ScrollViewReader",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-scroll-view-move-to-a-location-using-scrollviewreader.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -159,7 +159,7 @@ Using content margins rather than simple padding allows your content to scroll e
   "title": "How to add horizontal and vertical scrolling using ScrollView | SwiftUI by Example",
   "desc": "How to add horizontal and vertical scrolling using ScrollView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-horizontal-and-vertical-scrolling-using-scrollview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

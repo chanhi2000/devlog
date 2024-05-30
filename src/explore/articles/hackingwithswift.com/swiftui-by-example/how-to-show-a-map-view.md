@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to show a Map view | SwiftUI by Example",
   "desc": "How to show a Map view",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-show-a-map-view",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -122,7 +122,7 @@ struct ContentView: View {
   "title": "How to show annotations in a Map view | SwiftUI by Example",
   "desc": "How to show annotations in a Map view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-annotations-in-a-map-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -132,7 +132,7 @@ struct ContentView: View {
   "title": "How to show multiple alerts in a single view | SwiftUI by Example",
   "desc": "How to show multiple alerts in a single view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-multiple-alerts-in-a-single-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -142,7 +142,7 @@ struct ContentView: View {
   "title": "How to show a popover view | SwiftUI by Example",
   "desc": "How to show a popover view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-popover-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -152,7 +152,7 @@ struct ContentView: View {
   "title": "How to show a menu when a button is pressed | SwiftUI by Example",
   "desc": "How to show a menu when a button is pressed",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-menu-when-a-button-is-pressed.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -162,7 +162,7 @@ struct ContentView: View {
   "title": "How to show different images and other views in light or dark mode | SwiftUI by Example",
   "desc": "How to show different images and other views in light or dark mode",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-different-images-and-other-views-in-light-or-dark-mode.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

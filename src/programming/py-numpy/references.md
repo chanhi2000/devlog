@@ -27,6 +27,10 @@ head:
 
 [[toc]]
 
+## 멈춤보단 천천히라도
+
+- [`np.kron`를 사용하여 NumPy 배열을 확대하기](https://webnautes.tistory.com/2331)
+
 ---
 
 <TagLinks />

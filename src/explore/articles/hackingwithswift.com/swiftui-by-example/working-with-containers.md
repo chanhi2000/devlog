@@ -32,8 +32,8 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-align-for
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-align-for
   "title": "Working with containers | SwiftUI by Example",
   "desc": "Working with containers",
   "link": "https://hackingwithswift.com/quick-start/swiftui/working-with-containers",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -66,7 +66,7 @@ In this regard, SwiftUI's own containers – `NavigationStack`, `TabView`, `Grou
   "title": "Working with forms | SwiftUI by Example",
   "desc": "Working with forms",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-forms.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -76,7 +76,7 @@ In this regard, SwiftUI's own containers – `NavigationStack`, `TabView`, `Grou
   "title": "Working with state | SwiftUI by Example",
   "desc": "Working with state",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-state.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -86,7 +86,7 @@ In this regard, SwiftUI's own containers – `NavigationStack`, `TabView`, `Grou
   "title": "Working with presentations | SwiftUI by Example",
   "desc": "Working with presentations",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-presentations.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -96,7 +96,7 @@ In this regard, SwiftUI's own containers – `NavigationStack`, `TabView`, `Grou
   "title": "Working with lists | SwiftUI by Example",
   "desc": "Working with lists",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-lists.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -106,7 +106,7 @@ In this regard, SwiftUI's own containers – `NavigationStack`, `TabView`, `Grou
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

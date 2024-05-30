@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create a marching ants border effect | SwiftUI by Example",
   "desc": "How to create a marching ants border effect",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-a-marching-ants-border-effect",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -101,7 +101,7 @@ struct ContentView: View {
   "title": "How to draw a border around a view | SwiftUI by Example",
   "desc": "How to draw a border around a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-border-around-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -111,7 +111,7 @@ struct ContentView: View {
   "title": "How to draw a border inside a view | SwiftUI by Example",
   "desc": "How to draw a border inside a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-border-inside-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -121,7 +121,7 @@ struct ContentView: View {
   "title": "How to add a border to a TextField | SwiftUI by Example",
   "desc": "How to add a border to a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-border-to-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ struct ContentView: View {
   "title": "How to add visual effect blurs | SwiftUI by Example",
   "desc": "How to add visual effect blurs",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-visual-effect-blurs.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ struct ContentView: View {
   "title": "How to draw a shadow around a view | SwiftUI by Example",
   "desc": "How to draw a shadow around a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-shadow-around-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

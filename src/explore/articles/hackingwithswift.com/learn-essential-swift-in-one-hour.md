@@ -44,8 +44,8 @@ prev: /programming/swift/articles/README.md
 {
   "title": "HACKING WITH SWIFT",
   "desc": "Learn essential Swift in one hour",
-  "link": "https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "link": "https://hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -435,7 +435,7 @@ We can use `&&` to combine two conditions, and the whole condition will only be 
 ```swift
 let temp = 26
 
-if temp > 20 && temp < 30 {
+if temp date: 20 && temp < 30 {
     print("It's a nice day.")
 }
 ```

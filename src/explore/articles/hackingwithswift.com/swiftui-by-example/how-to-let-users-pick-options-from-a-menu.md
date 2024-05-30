@@ -32,8 +32,8 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-present-a
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-present-a
   "title": "How to let users pick options from a menu | SwiftUI by Example",
   "desc": "How to let users pick options from a menu",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-let-users-pick-options-from-a-menu",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -97,7 +97,7 @@ If you’re using Xcode 12, you need to use `MenuPickerStyle()` rather than `.me
   "title": "Building a menu using List | SwiftUI by Example",
   "desc": "Building a menu using List",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -107,7 +107,7 @@ If you’re using Xcode 12, you need to use `MenuPickerStyle()` rather than `.me
   "title": "How to show a menu when a button is pressed | SwiftUI by Example",
   "desc": "How to show a menu when a button is pressed",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-menu-when-a-button-is-pressed.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -117,7 +117,7 @@ If you’re using Xcode 12, you need to use `MenuPickerStyle()` rather than `.me
   "title": "How to show a context menu | SwiftUI by Example",
   "desc": "How to show a context menu",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-context-menu.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -127,7 +127,7 @@ If you’re using Xcode 12, you need to use `MenuPickerStyle()` rather than `.me
   "title": "How to let users import videos using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users import videos using PhotosPicker",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -137,7 +137,7 @@ If you’re using Xcode 12, you need to use `MenuPickerStyle()` rather than `.me
   "title": "How to let users share content using the system share sheet | SwiftUI by Example",
   "desc": "How to let users share content using the system share sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-share-content-using-the-system-share-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to control which view is shown when your app launches | SwiftUI by Example",
   "desc": "How to control which view is shown when your app launches",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-control-which-view-is-shown-when-your-app-launches",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -90,7 +90,7 @@ WindowGroup {
   "title": "How to control which NavigationSplitView column is shown in compact layouts | SwiftUI by Example",
   "desc": "How to control which NavigationSplitView column is shown in compact layouts",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-which-navigationsplitview-column-is-shown-in-compact-layouts.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -100,7 +100,7 @@ WindowGroup {
   "title": "How to run code when your app launches | SwiftUI by Example",
   "desc": "How to run code when your app launches",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-code-when-your-app-launches.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -110,7 +110,7 @@ WindowGroup {
   "title": "How to run an asynchronous task when a view is shown | SwiftUI by Example",
   "desc": "How to run an asynchronous task when a view is shown",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-an-asynchronous-task-when-a-view-is-shown.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -120,7 +120,7 @@ WindowGroup {
   "title": "How to find which data change is causing a SwiftUI view to update | SwiftUI by Example",
   "desc": "How to find which data change is causing a SwiftUI view to update",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-find-which-data-change-is-causing-a-swiftui-view-to-update.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -130,7 +130,7 @@ WindowGroup {
   "title": "How to fix “Function declares an opaque return type, but has no return statements in its body from which to infer an underlying type” | SwiftUI by Example",
   "desc": "How to fix “Function declares an opaque return type, but has no return statements in its body from which to infer an underlying type”",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-function-declares-an-opaque-return-type-but-has-no-return-statements-in-its-body-from-which-to-infer-an-underlying-type.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

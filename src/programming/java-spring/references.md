@@ -191,6 +191,7 @@ head:
 - [[내일배움캠프 27일차 TIL] Spring 실습과 다양한 개념](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-27%EC%9D%BC%EC%B0%A8-TIL-Spring-%EC%8B%A4%EC%8A%B5%EA%B3%BC-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B0%9C%EB%85%90)
 - [[내일배움캠프 26일차 TIL] 모의면접과 Entity 연관 관계](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-26%EC%9D%BC%EC%B0%A8-TIL-%EB%AA%A8%EC%9D%98%EB%A9%B4%EC%A0%91%EA%B3%BC-Entity-%EC%97%B0%EA%B4%80-%EA%B4%80%EA%B3%84)
 - [\[내일배움캠프 29일차 TIL\] entity 연관관계 프로젝트 적용](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-29%EC%9D%BC%EC%B0%A8-TIL-entity-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9A%A9)
+- [\[내일배움캠프 6주차 WIL\] 개인과제(재제출) & Spring(JWT, Entity 연관관계)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-6%EC%A3%BC%EC%B0%A8-WIL-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%EC%9E%AC%EC%A0%9C%EC%B6%9C-SpringJWT-Entity-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84)
 
 ### Hide
 
@@ -275,6 +276,7 @@ head:
 
 ### Yun Blog
 
+- [Spring 레플리케이션 트랜잭션 처리 방식](https://cheese10yun.github.io/spring-transaction)
 - [Resilience4j를 이용한 서킷 브레이커 기초](https://cheese10yun.github.io/resilience4j-basic)
 
 ---

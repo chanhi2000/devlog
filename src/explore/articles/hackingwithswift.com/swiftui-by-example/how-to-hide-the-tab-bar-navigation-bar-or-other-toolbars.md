@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to hide the tab bar, navigation bar, or other toolbars | SwiftUI by Example",
   "desc": "How to hide the tab bar, navigation bar, or other toolbars",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -113,7 +113,7 @@ struct ContentView: View {
   "title": "How to customize the background color of navigation bars, tab bars, and toolbars | SwiftUI by Example",
   "desc": "How to customize the background color of navigation bars, tab bars, and toolbars",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -123,7 +123,7 @@ struct ContentView: View {
   "title": "How to hide the home indicator and other system UI | SwiftUI by Example",
   "desc": "How to hide the home indicator and other system UI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-home-indicator-and-other-system-ui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -133,7 +133,7 @@ struct ContentView: View {
   "title": "How to embed views in a tab bar using TabView | SwiftUI by Example",
   "desc": "How to embed views in a tab bar using TabView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-embed-views-in-a-tab-bar-using-tabview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -143,7 +143,7 @@ struct ContentView: View {
   "title": "How to layer views on top of each other using ZStack | SwiftUI by Example",
   "desc": "How to layer views on top of each other using ZStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-layer-views-on-top-of-each-other-using-zstack.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -153,7 +153,7 @@ struct ContentView: View {
   "title": "How to show different images and other views in light or dark mode | SwiftUI by Example",
   "desc": "How to show different images and other views in light or dark mode",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-different-images-and-other-views-in-light-or-dark-mode.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

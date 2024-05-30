@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to provide visual structure using foreground styles | SwiftUI by Example",
   "desc": "How to provide visual structure using foreground styles",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-provide-visual-structure-using-foreground-styles",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -99,7 +99,7 @@ HStack {
   "title": "How to detect when your app moves to the background or foreground with scenePhase | SwiftUI by Example",
   "desc": "How to detect when your app moves to the background or foreground with scenePhase",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-when-your-app-moves-to-the-background-or-foreground-with-scenephase.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -109,7 +109,7 @@ HStack {
   "title": "How to add visual effect blurs | SwiftUI by Example",
   "desc": "How to add visual effect blurs",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-visual-effect-blurs.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -119,7 +119,7 @@ HStack {
   "title": "How to provide relative sizes using GeometryReader | SwiftUI by Example",
   "desc": "How to provide relative sizes using GeometryReader",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-provide-relative-sizes-using-geometryreader.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -129,7 +129,7 @@ HStack {
   "title": "How to get custom colors and transparency with SF Symbols | SwiftUI by Example",
   "desc": "How to get custom colors and transparency with SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ HStack {
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

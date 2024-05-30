@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to draw a checkerboard | SwiftUI by Example",
   "desc": "How to draw a checkerboard",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-draw-a-checkerboard",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -107,7 +107,7 @@ struct ContentView: View {
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -117,7 +117,7 @@ struct ContentView: View {
   "title": "How to draw polygons and stars | SwiftUI by Example",
   "desc": "How to draw polygons and stars",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-polygons-and-stars.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -127,7 +127,7 @@ struct ContentView: View {
   "title": "How to draw a border inside a view | SwiftUI by Example",
   "desc": "How to draw a border inside a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-border-inside-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -137,7 +137,7 @@ struct ContentView: View {
   "title": "How to draw a custom path | SwiftUI by Example",
   "desc": "How to draw a custom path",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-custom-path.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -147,7 +147,7 @@ struct ContentView: View {
   "title": "How to draw a shadow around a view | SwiftUI by Example",
   "desc": "How to draw a shadow around a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-shadow-around-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

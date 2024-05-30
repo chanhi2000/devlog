@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to add a search bar to filter your data | SwiftUI by Example",
   "desc": "How to add a search bar to filter your data",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-a-search-bar-to-filter-your-data",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -285,7 +285,7 @@ If you add more scopes than there is space for, your scope titles will be trunca
   "title": "How to add search tokens to a search field | SwiftUI by Example",
   "desc": "How to add search tokens to a search field",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-search-tokens-to-a-search-field.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -295,7 +295,7 @@ If you add more scopes than there is space for, your scope titles will be trunca
   "title": "How to filter Core Data fetch requests using a predicate | SwiftUI by Example",
   "desc": "How to filter Core Data fetch requests using a predicate",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-filter-core-data-fetch-requests-using-a-predicate.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -305,7 +305,7 @@ If you add more scopes than there is space for, your scope titles will be trunca
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -315,7 +315,7 @@ If you add more scopes than there is space for, your scope titles will be trunca
   "title": "How to hide the tab bar, navigation bar, or other toolbars | SwiftUI by Example",
   "desc": "How to hide the tab bar, navigation bar, or other toolbars",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -325,7 +325,7 @@ If you add more scopes than there is space for, your scope titles will be trunca
   "title": "How to add bar items to a navigation view | SwiftUI by Example",
   "desc": "How to add bar items to a navigation view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-bar-items-to-a-navigation-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

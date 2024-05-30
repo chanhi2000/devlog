@@ -24,6 +24,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-install-python-on-a-mac.html
 prev: /programming/py/articles/README.md
+date: 2024-05-09
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w600/2024/05/python-shop.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -55,11 +58,9 @@ prev: /programming/py/articles/README.md
 <SiteInfo
   name="How to Install Python on a Mac"
   desc="Python is the most popular first language for programmers on a Mac. Until recently, the language's lack of standard development tooling, plus competing optional-but-essential development tools, meant a rocky start for Python beginners.  To cut through the confusion, I'll show you an up-to-date approach to install Python and set"
-  url="https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/"
+  url="https://freecodecamp.org/news/how-to-install-python-on-a-mac/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w600/2024/05/python-shop.png"/>
-
-> 2024.05.09
+  preview="https://freecodecamp.org/news/content/images/size/w600/2024/05/python-shop.png"/>
 
 <!-- TODO: 작성 -->
 

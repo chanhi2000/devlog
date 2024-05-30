@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to add visual effect blurs | SwiftUI by Example",
   "desc": "How to add visual effect blurs",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-visual-effect-blurs",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -104,7 +104,7 @@ ZStack {
   "title": "How to provide visual structure using foreground styles | SwiftUI by Example",
   "desc": "How to provide visual structure using foreground styles",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-provide-visual-structure-using-foreground-styles.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -114,7 +114,7 @@ ZStack {
   "title": "How to create a marching ants border effect | SwiftUI by Example",
   "desc": "How to create a marching ants border effect",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-marching-ants-border-effect.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -124,7 +124,7 @@ ZStack {
   "title": "How to add in-app purchases in SwiftUI | SwiftUI by Example",
   "desc": "How to add in-app purchases in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-in-app-purchases-in-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -134,7 +134,7 @@ ZStack {
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -144,7 +144,7 @@ ZStack {
   "title": "Two-way bindings in SwiftUI | SwiftUI by Example",
   "desc": "Two-way bindings in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

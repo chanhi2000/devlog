@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to add search tokens to a search field | SwiftUI by Example",
   "desc": "How to add search tokens to a search field",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-search-tokens-to-a-search-field",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -177,7 +177,7 @@ One last thing: although the iOS implementation of `searchable()` replaces your 
   "title": "How to add a search bar to filter your data | SwiftUI by Example",
   "desc": "How to add a search bar to filter your data",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-search-bar-to-filter-your-data.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -187,7 +187,7 @@ One last thing: although the iOS implementation of `searchable()` replaces your 
   "title": "How to add in-app purchases in SwiftUI | SwiftUI by Example",
   "desc": "How to add in-app purchases in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-in-app-purchases-in-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -197,7 +197,7 @@ One last thing: although the iOS implementation of `searchable()` replaces your 
   "title": "Two-way bindings in SwiftUI | SwiftUI by Example",
   "desc": "Two-way bindings in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -207,7 +207,7 @@ One last thing: although the iOS implementation of `searchable()` replaces your 
   "title": "How to add a border to a TextField | SwiftUI by Example",
   "desc": "How to add a border to a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-border-to-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -217,7 +217,7 @@ One last thing: although the iOS implementation of `searchable()` replaces your 
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

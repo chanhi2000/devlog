@@ -32,8 +32,8 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-differ
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-differ
   "title": "How to detect the location of a tap inside a view | SwiftUI by Example",
   "desc": "How to detect the location of a tap inside a view",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-detect-the-location-of-a-tap-inside-a-view",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -250,7 +250,7 @@ struct ContentView: View {
   "title": "How to read tap and double-tap gestures | SwiftUI by Example",
   "desc": "How to read tap and double-tap gestures",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-read-tap-and-double-tap-gestures.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -260,7 +260,7 @@ struct ContentView: View {
   "title": "How to dynamically adjust the appearance of a view based on its size and location | SwiftUI by Example",
   "desc": "How to dynamically adjust the appearance of a view based on its size and location",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -270,7 +270,7 @@ struct ContentView: View {
   "title": "How to make a scroll view move to a location using ScrollViewReader | SwiftUI by Example",
   "desc": "How to make a scroll view move to a location using ScrollViewReader",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-scroll-view-move-to-a-location-using-scrollviewreader.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -280,7 +280,7 @@ struct ContentView: View {
   "title": "How to read the user's location using LocationButton | SwiftUI by Example",
   "desc": "How to read the user's location using LocationButton",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-read-the-users-location-using-locationbutton.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -290,7 +290,7 @@ struct ContentView: View {
   "title": "How to draw a border inside a view | SwiftUI by Example",
   "desc": "How to draw a border inside a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-border-inside-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

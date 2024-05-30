@@ -25,6 +25,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/engineering.linecorp.com/do-not-block-the-event-loop-part1.html
 prev: /programming/java-spring/articles/README.md
+date: 2022-09-23
+isOriginal: false
+cover: https://vos.line-scdn.net/landpress-content-v2_954/1663602818199.png?updatedAt=1663602820000
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -53,17 +56,12 @@ prev: /programming/java-spring/articles/README.md
 
 ---
 
-```component VPCard
-{
-  "title": "비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 1부 - 멀티플렉싱 기반의 다중 접속 서버로 가기까지",
-  "desc": "안녕하세요. MSE2(Messaging Server Engineering 2)에서 인증 도메인을 개발하고 있는 김종민입니다. LINE에서는 서버 개발에 비동기 서버사이드 프레임워크인 Armeria를 적극 사용하고 있습니다. Armeria와 같은 비동기 서버를 ...",
-  "link": "https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part1",
-  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
-  "background": "rgba(31,31,31,0.2)"
-}
-```
-
-> 2022.09.23
+<SiteInfo
+  name="비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 1부 - 멀티플렉싱 기반의 다중 접속 서버로 가기까지"
+  desc="안녕하세요. MSE2(Messaging Server Engineering 2)에서 인증 도메인을 개발하고 있는 김종민입니다. LINE에서는 서버 개발에 비동기 서버사이드 프레임워크인 Armeria를 적극 사용하고 있습니다. Armeria와 같은 비동기 서버를 ..."
+  url="https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part1"
+  logo="https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a"
+  preview="https://vos.line-scdn.net/landpress-content-v2_954/1663602818199.png?updatedAt=1663602820000"/>
 
 <!-- TODO: 작성 -->
 

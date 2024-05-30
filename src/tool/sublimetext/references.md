@@ -15,14 +15,13 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
 
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
-- [A Guide to Sublime Text Snippets](https://www.freecodecamp.org/news/a-guide-to-preserving-your-wrists-with-sublime-text-snippets-7541662a53f2/)
+- [A Guide to Sublime Text Snippets](https://freecodecamp.org/news/a-guide-to-preserving-your-wrists-with-sublime-text-snippets-7541662a53f2/)
 
 ---
 

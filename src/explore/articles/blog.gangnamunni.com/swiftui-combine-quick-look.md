@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/blog.gangnamunni.com/swiftui-combine-quick-look.html
 prev: /programming/java-android/articles/README.md
+date: 2019-07-29
+isOriginal: false
+cover: https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -39,17 +42,12 @@ prev: /programming/java-android/articles/README.md
 
 ---
 
-```component VPCard
-{
-  "title": "SwiftUI + Combine 핥아보기",
-  "desc": "강남언니의 조직문화와 일하는 방식을 이야기합니다.",
-  "link": "https://blog.gangnamunni.com/post/SwiftUI+CombineQuickLook/",
-  "logo": "https://blog.gangnamunni.com/favicon.ico",
-  "background": "rgba(255,84,15,0.2)"
-}
-```
-
-> 2019.07.29
+<SiteInfo
+  name="SwiftUI + Combine 핥아보기"
+  desc="강남언니의 조직문화와 일하는 방식을 이야기합니다."
+  url="https://blog.gangnamunni.com/post/SwiftUI+CombineQuickLook/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
 <!-- TODO: 작성 -->
 

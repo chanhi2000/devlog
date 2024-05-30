@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to stop system gestures from interfering with your own | SwiftUI by Example",
   "desc": " How to stop system gestures from interfering with your own",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-stop-system-gestures-from-interfering-with-your-own",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -91,7 +91,7 @@ On iOS that does three distinct things:
   "title": "How to make two gestures recognize at the same time using simultaneousGesture() | SwiftUI by Example",
   "desc": "How to make two gestures recognize at the same time using simultaneousGesture()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-two-gestures-recognize-at-the-same-time-using-simultaneousgesture.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -101,7 +101,7 @@ On iOS that does three distinct things:
   "title": "How to let users share content using the system share sheet | SwiftUI by Example",
   "desc": "How to let users share content using the system share sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-share-content-using-the-system-share-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -111,7 +111,7 @@ On iOS that does three distinct things:
   "title": "How to hide the home indicator and other system UI | SwiftUI by Example",
   "desc": "How to hide the home indicator and other system UI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-home-indicator-and-other-system-ui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -121,7 +121,7 @@ On iOS that does three distinct things:
   "title": "How to detect shake gestures | SwiftUI by Example",
   "desc": "How to detect shake gestures",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-shake-gestures.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ On iOS that does three distinct things:
   "title": "How to read tap and double-tap gestures | SwiftUI by Example",
   "desc": "How to read tap and double-tap gestures",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-read-tap-and-double-tap-gestures.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

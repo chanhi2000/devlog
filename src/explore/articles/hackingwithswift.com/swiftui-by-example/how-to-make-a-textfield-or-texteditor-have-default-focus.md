@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to make a TextField or TextEditor have default focus | SwiftUI by Example",
   "desc": "How to make a TextField or TextEditor have default focus",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-make-a-textfield-or-texteditor-have-default-focus",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -117,7 +117,7 @@ Hopefully `defaultFocus()` comes to iOS in a future update!
   "title": "How to customize the submit button for TextField, SecureField, and TextEditor | SwiftUI by Example",
   "desc": "How to customize the submit button for TextField, SecureField, and TextEditor",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-submit-button-for-textfield-securefield-and-texteditor.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -127,7 +127,7 @@ Hopefully `defaultFocus()` comes to iOS in a future update!
   "title": "How to create multi-line editable text with TextEditor | SwiftUI by Example",
   "desc": "How to create multi-line editable text with TextEditor",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-line-editable-text-with-texteditor.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -137,7 +137,7 @@ Hopefully `defaultFocus()` comes to iOS in a future update!
   "title": "How to change the background color of List, TextEditor, and more | SwiftUI by Example",
   "desc": "How to change the background color of List, TextEditor, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-the-background-color-of-list-texteditor-and-more.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -147,7 +147,7 @@ Hopefully `defaultFocus()` comes to iOS in a future update!
   "title": "How to make a TextField expand vertically as the user types | SwiftUI by Example",
   "desc": "How to make a TextField expand vertically as the user types",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-expand-vertically-as-the-user-types.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -157,7 +157,7 @@ Hopefully `defaultFocus()` comes to iOS in a future update!
   "title": "How to make TextField uppercase or lowercase using textCase() | SwiftUI by Example",
   "desc": "How to make TextField uppercase or lowercase using textCase()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-textfield-uppercase-or-lowercase-using-textcase.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

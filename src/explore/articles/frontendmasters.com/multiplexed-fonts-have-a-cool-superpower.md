@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/multiplexed-fonts-have-a-cool-superpower.html
 prev: /programming/css/articles/README.md
+date: 2024-05-03
+isOriginal: false
+cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/04/tags-thumb.jpg?w=1000&ssl=1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -43,8 +46,6 @@ prev: /programming/css/articles/README.md
   url="https://frontendmasters.com/news/multiplexed-fonts-have-a-cool-superpower/"
   logo="https://frontendmasters.com/favicon.ico"
   preview="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/04/tags-thumb.jpg?w=1000&ssl=1"/>
-
-> 2024.05.03
 
 <!-- TODO: 작성 -->
 

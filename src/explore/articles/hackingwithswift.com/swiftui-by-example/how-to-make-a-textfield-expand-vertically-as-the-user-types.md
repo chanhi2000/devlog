@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to make a TextField expand vertically as the user types | SwiftUI by Example",
   "desc": "How to make a TextField expand vertically as the user types",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-make-a-textfield-expand-vertically-as-the-user-types",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -129,7 +129,7 @@ The combination of this growing behavior and its ability to have a placeholder m
   "title": "How to take action when the user submits a TextField | SwiftUI by Example",
   "desc": "How to take action when the user submits a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-take-action-when-the-user-submits-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ The combination of this growing behavior and its ability to have a placeholder m
   "title": "How to make a TextField or TextEditor have default focus | SwiftUI by Example",
   "desc": "How to make a TextField or TextEditor have default focus",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-or-texteditor-have-default-focus.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -149,7 +149,7 @@ The combination of this growing behavior and its ability to have a placeholder m
   "title": "How to make TextField uppercase or lowercase using textCase() | SwiftUI by Example",
   "desc": "How to make TextField uppercase or lowercase using textCase()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-textfield-uppercase-or-lowercase-using-textcase.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -159,7 +159,7 @@ The combination of this growing behavior and its ability to have a placeholder m
   "title": "How to dismiss the keyboard for a TextField | SwiftUI by Example",
   "desc": "How to dismiss the keyboard for a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dismiss-the-keyboard-for-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -169,7 +169,7 @@ The combination of this growing behavior and its ability to have a placeholder m
   "title": "How to add a TextField to an alert | SwiftUI by Example",
   "desc": "How to add a TextField to an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-textfield-to-an-alert.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

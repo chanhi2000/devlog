@@ -23,6 +23,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/smashingmagazine.com/end-of-gatsby-journey.html
 prev: /programming/js-gatsby/articles/README.md
+date: 2024-03-06
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,8 +52,6 @@ prev: /programming/js-gatsby/articles/README.md
   "background": "rgba(211,58,44,0.2)"
 }
 ```
-
-> 2024.03.06
 
 <!-- TODO: 작성 -->
 

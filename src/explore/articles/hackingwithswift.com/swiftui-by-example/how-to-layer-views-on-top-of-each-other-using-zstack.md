@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to layer views on top of each other using ZStack | SwiftUI by Example",
   "desc": "How to layer views on top of each other using ZStack",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-layer-views-on-top-of-each-other-using-zstack",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -95,7 +95,7 @@ However, it doesn't have a spacing property because it doesn't make sense. Inste
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -105,7 +105,7 @@ However, it doesn't have a spacing property because it doesn't make sense. Inste
   "title": "How to use images and other views as a backgrounds | SwiftUI by Example",
   "desc": "How to use images and other views as a backgrounds",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-images-and-other-views-as-a-backgrounds.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -115,7 +115,7 @@ However, it doesn't have a spacing property because it doesn't make sense. Inste
   "title": "How to show different images and other views in light or dark mode | SwiftUI by Example",
   "desc": "How to show different images and other views in light or dark mode",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-different-images-and-other-views-in-light-or-dark-mode.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -125,7 +125,7 @@ However, it doesn't have a spacing property because it doesn't make sense. Inste
   "title": "How to hide the home indicator and other system UI | SwiftUI by Example",
   "desc": "How to hide the home indicator and other system UI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-home-indicator-and-other-system-ui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -135,7 +135,7 @@ However, it doesn't have a spacing property because it doesn't make sense. Inste
   "title": "How to hide the tab bar, navigation bar, or other toolbars | SwiftUI by Example",
   "desc": "How to hide the tab bar, navigation bar, or other toolbars",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

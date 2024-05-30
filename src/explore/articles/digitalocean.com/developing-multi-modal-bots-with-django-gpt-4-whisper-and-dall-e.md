@@ -28,6 +28,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/digitalocean.com/developing-multi-modal-bots-with-django-gpt-4-whisper-and-dall-e.html
 prev: /programming/py-django/articles/README.md
+date: 2024-04-26
+isOriginal: false
+cover: https://digitalocean.com/api/static-content/v1/images?src=%2F_next%2Fstatic%2Fmedia%2Fintro-to-cloud.d49bc5f7.jpeg&width=828
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -62,8 +65,6 @@ prev: /programming/py-django/articles/README.md
   url="https://digitalocean.com/community/tutorials/developing-multi-modal-bots-with-django-gpt-4-whisper-and-dall-e"
   logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
   preview="https://digitalocean.com/api/static-content/v1/images?src=%2F_next%2Fstatic%2Fmedia%2Fintro-to-cloud.d49bc5f7.jpeg&width=828"/>
-
-> 2024.04.26
 
 <!-- TODO: 작성 -->
 

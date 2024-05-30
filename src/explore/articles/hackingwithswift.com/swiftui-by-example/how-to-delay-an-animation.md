@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to delay an animation | SwiftUI by Example",
   "desc": "How to delay an animation",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-delay-an-animation",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -84,7 +84,7 @@ struct ContentView: View {
   "title": "How to start an animation immediately after a view appears | SwiftUI by Example",
   "desc": "How to start an animation immediately after a view appears",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-start-an-animation-immediately-after-a-view-appears.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -94,7 +94,7 @@ struct ContentView: View {
   "title": "How to create an explicit animation | SwiftUI by Example",
   "desc": "How to create an explicit animation",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-an-explicit-animation.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -104,7 +104,7 @@ struct ContentView: View {
   "title": "How to create a spring animation | SwiftUI by Example",
   "desc": "How to create a spring animation",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-spring-animation.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -114,7 +114,7 @@ struct ContentView: View {
   "title": "How to run a completion callback when an animation finishes | SwiftUI by Example",
   "desc": "How to run a completion callback when an animation finishes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-a-completion-callback-when-an-animation-finishes.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -124,7 +124,7 @@ struct ContentView: View {
   "title": "How to show a menu when a button is pressed | SwiftUI by Example",
   "desc": "How to show a menu when a button is pressed",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-menu-when-a-button-is-pressed.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

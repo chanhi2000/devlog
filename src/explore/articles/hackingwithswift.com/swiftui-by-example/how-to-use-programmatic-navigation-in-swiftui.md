@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to use programmatic navigation in SwiftUI | SwiftUI by Example",
   "desc": "How to use programmatic navigation in SwiftUI",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-use-programmatic-navigation-in-swiftui",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -231,7 +231,7 @@ struct ContentView: View {
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -241,7 +241,7 @@ struct ContentView: View {
   "title": "How to embed a view in a navigation view | SwiftUI by Example",
   "desc": "How to embed a view in a navigation view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-embed-a-view-in-a-navigation-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -251,7 +251,7 @@ struct ContentView: View {
   "title": "Introduction to navigation | SwiftUI by Example",
   "desc": "Introduction to navigation",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/introduction-to-navigation.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -261,7 +261,7 @@ struct ContentView: View {
   "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
   "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -271,7 +271,7 @@ struct ContentView: View {
   "title": "How to add bar items to a navigation view | SwiftUI by Example",
   "desc": "How to add bar items to a navigation view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-bar-items-to-a-navigation-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

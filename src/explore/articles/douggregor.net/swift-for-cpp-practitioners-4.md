@@ -23,6 +23,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/douggregor.net/swift-for-cpp-practitioners-4.html
 prev: /programming/swift/articles/README.md
+date: 2024-04-06
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -59,8 +61,6 @@ prev: /programming/swift/articles/README.md
   "background": "rgba(22,22,22,0.2)"
 }
 ```
-
-> 2024.04.06
 
 <!-- TODO: 작성 -->
 

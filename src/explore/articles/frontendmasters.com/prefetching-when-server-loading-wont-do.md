@@ -24,6 +24,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/prefetching-when-server-loading-wont-do.html
 prev: /programming/js-rect/articles/README.md
+date: 2024-05-15
+isOriginal: false
+cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/image-3.png?w=1792&ssl=1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -48,8 +51,6 @@ prev: /programming/js-rect/articles/README.md
   url="https://frontendmasters.com/news/prefetching-when-server-loading-wont-do/"
   logo="https://frontendmasters.com/favicon.ico"
   preview="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/image-3.png?w=1792&ssl=1"/>
-
-> 2024.05.15
 
 <!-- TODO: 작성 -->
 

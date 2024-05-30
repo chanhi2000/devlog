@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-add-media-to-your-html-email-template.html
 prev: /programming/css/articles/README.md
+date: 2024-04-23
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/04/Add-Media-to-Your-HTML-Email-Template.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -42,11 +45,9 @@ prev: /programming/css/articles/README.md
 <SiteInfo
   name="How to Add Media to Your HTML Email Template"
   desc="In my previous article, we explored the fundamentals of designing and coding a simple HTML email template that adapts beautifully across different devices and email clients. I got a couple of questions about adding media to the HTML email template..."
-  url="https://www.freecodecamp.org/news/how-to-add-media-to-your-html-email-template/"
+  url="https://freecodecamp.org/news/how-to-add-media-to-your-html-email-template/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/04/Add-Media-to-Your-HTML-Email-Template.png"/>
-
-> 2024.04.23
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/04/Add-Media-to-Your-HTML-Email-Template.png"/>
 
 <!-- TODO: 작성 -->
 

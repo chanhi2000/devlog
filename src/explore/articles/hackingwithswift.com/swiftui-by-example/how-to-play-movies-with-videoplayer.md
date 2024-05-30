@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to play movies with VideoPlayer | SwiftUI by Example",
   "desc": "How to play movies with VideoPlayer",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-play-movies-with-videoplayer",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -109,7 +109,7 @@ A video with a play button overlaid, along with the word Watermark place at the 
   "title": "Article(s) > How to add search tokens to a search field",
   "desc": "How to add search tokens to a search field",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-search-tokens-to-a-search-field.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -119,7 +119,7 @@ A video with a play button overlaid, along with the word Watermark place at the 
   "title": "How to let users import videos using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users import videos using PhotosPicker",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -129,7 +129,7 @@ A video with a play button overlaid, along with the word Watermark place at the 
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ A video with a play button overlaid, along with the word Watermark place at the 
   "title": "How to add haptic effects using sensory feedback | SwiftUI by Example",
   "desc": "How to add haptic effects using sensory feedback",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-haptic-effects-using-sensory-feedback.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -149,7 +149,7 @@ A video with a play button overlaid, along with the word Watermark place at the 
   "title": "How to animate SF Symbols | SwiftUI by Example",
   "desc": "How to animate SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-sf-symbols.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

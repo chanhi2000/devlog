@@ -54,13 +54,15 @@ REG add "HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IEDevTools" /v "
 REG add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System" /v "EnableSmartScreen" /d "0"
 :: Telemetry 비활성화
 REG add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection" /v "AllowTelemetry" /d "0"
+:: cmd에 사용할 폰트를 추가
+REG add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont" /v "000" /d "JetBrainsMono Nerd Font Mono" /f
+:: 넘버락 켜기
+:: REG add "HKEY_USERS\.DEFAULT\Control Panel\Keyboard" /v "InitialKeyboardIndicators" /d "2147483650" /f
+:: 
+REG add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters" /v "BasicAuthLevel" /d "2" /f
+::
+REG add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters" /v "FileSizeLimitInBytes" /d "ffffffff" /f
 ```
-
-| location | `key`=`value` | description |
-| :--- | :---: | :--- |
-| `\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` | `949=*굴림체` | `cmd.exe` 창에서 사용할 폰트를 추가하는 방법 |
-| `\HKEY_USERS\.DEFAULT\Control Panel\Keyboard` | `InitialKeyboardIndicators=2147483650` | 넘버락 켜기 |
-| `\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters` | <ul><li>`BasicAuthLevel=2`</li><li>`FileSizeLimitInBytes=ffffffff`</li></ul> | 
 
 ### A2. `gedit.msc` 설정
 
@@ -146,15 +148,15 @@ Copy and Paste the following to the Powershell Prompt
 @tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
 
 ```powershell
-scoop install 7zip cheat hyperfine neofetch oh-my-posh terminal-icons tokei watchman `
-    git
+scoop install 7zip cheat hyperfine neofetch `
+  oh-my-posh terminal-icons tokei watchman git
 ```
 
 @tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
-scoop install 7zip cheat hyperfine neofetch oh-my-posh terminal-icons tokei watchman ^
-    git 
+scoop install 7zip cheat hyperfine neofetch ^
+  oh-my-posh terminal-icons tokei watchman git
 ```
 
 :::

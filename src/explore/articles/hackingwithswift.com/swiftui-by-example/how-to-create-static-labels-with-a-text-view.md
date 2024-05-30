@@ -32,8 +32,8 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/wrap-up-our-swif
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/wrap-up-our-swif
   "title": "How to create static labels with a Text view | SwiftUI by Example",
   "desc": "How to create static labels with a Text view",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-static-labels-with-a-text-view",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
   "title": "How to create a list of static items | SwiftUI by Example",
   "desc": "How to create a list of static items",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-list-of-static-items.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
   "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -151,7 +151,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -161,7 +161,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
   "title": "How to add advanced text styling using AttributedString | SwiftUI by Example",
   "desc": "How to add advanced text styling using AttributedString",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-advanced-text-styling-using-attributedstring.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -171,7 +171,7 @@ Regardless of how you truncate the text, what you'll see is that your text view 
   "title": "How to create multi-line editable text with TextEditor | SwiftUI by Example",
   "desc": "How to create multi-line editable text with TextEditor",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-line-editable-text-with-texteditor.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

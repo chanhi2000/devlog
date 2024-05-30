@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to show an action sheet | SwiftUI by Example",
   "desc": "How to show an action sheet",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-show-an-action-sheet",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -174,7 +174,7 @@ struct ContentView: View {
   "title": "How to display a bottom sheet | SwiftUI by Example",
   "desc": "How to display a bottom sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-a-bottom-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -184,7 +184,7 @@ struct ContentView: View {
   "title": "How to prevent a sheet from being dismissed with a swipe | SwiftUI by Example",
   "desc": "How to prevent a sheet from being dismissed with a swipe",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-prevent-a-sheet-from-being-dismissed-with-a-swipe.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -194,7 +194,7 @@ struct ContentView: View {
   "title": "How to let users share content using the system share sheet | SwiftUI by Example",
   "desc": "How to let users share content using the system share sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-share-content-using-the-system-share-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -204,7 +204,7 @@ struct ContentView: View {
   "title": "How to add custom swipe action buttons to a List row | SwiftUI by Example",
   "desc": "How to add custom swipe action buttons to a List row",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-custom-swipe-action-buttons-to-a-list-row.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -214,7 +214,7 @@ struct ContentView: View {
   "title": "How to make buttons that repeat their action when pressed | SwiftUI by Example",
   "desc": "How to make buttons that repeat their action when pressed",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-buttons-that-repeat-their-action-when-pressed.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

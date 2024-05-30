@@ -23,6 +23,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/engineering.linecorp.com/migrate-mysql-with-read-only-mode.html
 prev: /programming/java-spring/articles/README.md
+date: 2024-05-02
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -60,8 +62,6 @@ prev: /programming/java-spring/articles/README.md
   "background": "rgba(31,31,31,0.2)"
 }
 ```
-
-> 2024.05.02
 
 <!-- TODO: 작성 -->
 

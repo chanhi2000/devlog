@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to format a TextField for numbers | SwiftUI by Example",
   "desc": "How to format a TextField for numbers",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-format-a-textfield-for-numbers",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -128,7 +128,7 @@ I wish there were a nice workaround for this, but I'm afraid there is not – no
   "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -138,7 +138,7 @@ I wish there were a nice workaround for this, but I'm afraid there is not – no
   "title": "How to format dates inside text views | SwiftUI by Example",
   "desc": "How to format dates inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-dates-inside-text-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -148,7 +148,7 @@ I wish there were a nice workaround for this, but I'm afraid there is not – no
   "title": "How to make a TextField expand vertically as the user types | SwiftUI by Example",
   "desc": "How to make a TextField expand vertically as the user types",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-expand-vertically-as-the-user-types.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -158,7 +158,7 @@ I wish there were a nice workaround for this, but I'm afraid there is not – no
   "title": "How to dismiss the keyboard for a TextField | SwiftUI by Example",
   "desc": "How to dismiss the keyboard for a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dismiss-the-keyboard-for-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -168,7 +168,7 @@ I wish there were a nice workaround for this, but I'm afraid there is not – no
   "title": "How to add a TextField to an alert | SwiftUI by Example",
   "desc": "How to add a TextField to an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-textfield-to-an-alert.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

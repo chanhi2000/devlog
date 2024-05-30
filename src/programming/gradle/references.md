@@ -35,7 +35,6 @@ head:
 
 - [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
 
-
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Android project test fixtures](https://emartynov.medium.com/android-project-test-fixtures-dec50c5d8533)
@@ -75,6 +74,12 @@ head:
 ## 조세영의 Kotlin World
 
 - [Gradle Kotlin, Java Project의 기본 구성 살펴보고, Gradle Task로 컴파일, 패키징 하기](https://kotlinworld.com/315)
+
+---
+
+## Unlogged - Replay production traffic locally!
+
+- [Migrating from Java 8/11 to Java 21, and Spring Boot 2 to the latest Spring Boot 3.2](https://www.unlogged.io/post/migrating-from-java-8-11-to-java-21-and-spring-boot-2-to-the-latest-spring-boot-3-2)
 
 ---
 

@@ -21,6 +21,9 @@ head:
       content: Know which of the font in a font-family was actually used
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/see-which-font-was-used-in-font-family.html
+prev: /tool/firefox/articles/README.md
+date: 2023-06-02
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,15 +54,13 @@ head:
 
 ```component VPCard
 {
-  "title": "Know which of the font in a font-family was actually used",
-  "desc": "Devtools Tips > Know which of the font in a font-family was actually used",
+  "title": "Know which of the font in a font-family was actually used | Devtools Tips",
+  "desc": "Know which of the font in a font-family was actually used",
   "link": "https://devtoolstips.org/tips/en/see-which-font-was-used-in-font-family/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.06.02
 
 <!-- TODO:  작성 -->
 

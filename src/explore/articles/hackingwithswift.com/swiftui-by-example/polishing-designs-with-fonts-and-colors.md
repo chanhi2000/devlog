@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "Polishing designs with fonts and colors | SwiftUI by Example",
   "desc": "Polishing designs with fonts and colors",
   "link": "https://hackingwithswift.com/quick-start/swiftui/polishing-designs-with-fonts-and-colors",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -145,7 +145,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
   "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -155,7 +155,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
   "title": "How to clip a view so only part is visible | SwiftUI by Example",
   "desc": "How to clip a view so only part is visible",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-clip-a-view-so-only-part-is-visible.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -165,7 +165,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
   "title": "How to force views to one side inside a stack using Spacer | SwiftUI by Example",
   "desc": "How to force views to one side inside a stack using Spacer",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-force-views-to-one-side-inside-a-stack-using-spacer.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -179,7 +179,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
   "title": "How to style text views with fonts, colors, line spacing, and more | SwiftUI by Example",
   "desc": "How to style text views with fonts, colors, line spacing, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-style-text-views-with-fonts-colors-line-spacing-and-more.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -189,7 +189,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -199,7 +199,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -209,7 +209,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
   "title": "How to get custom colors and transparency with SF Symbols | SwiftUI by Example",
   "desc": "How to get custom colors and transparency with SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-get-custom-colors-and-transparency-with-sf-symbols.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -219,7 +219,7 @@ Go ahead and run the project now and I think you'll agree it looks great! Now th
   "title": "How to load custom colors from an asset catalog | SwiftUI by Example",
   "desc": "How to load custom colors from an asset catalog",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-load-custom-colors-from-an-asset-catalog.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

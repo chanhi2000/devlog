@@ -5374,5 +5374,25 @@
     "desc": "The authentication glue you need.",
     "officialSite": "https://goauthentik.io",
     "topics": ["authentication", "authentik", "authorization", "kubernetes", "oauth2", "oauth2-client", "oauth2-server", "oidc", "oidc-client", "oidc-provider", "proxy", "reverse-proxy", "saml", "saml-idp", "saml-sp", "security", "sso"]
+  }, {
+    "repo": "tencent-ailab/V-Express",
+    "desc": "V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "TMElyralab/MusePose",
+    "desc": "MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "PrefectHQ/prefect",
+    "desc": "Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines",
+    "officialSite": "https://prefect.io",
+    "topics": ["automation", "data", "data-engineering", "data-ops", "data-science", "infrastructure", "ml-ops", "observability", "orchestration", "pipeline", "prefect", "python", "workflow", "workflow-engine"]
+  }, {
+    "repo": "Jeff-LiangF/streamv2v",
+    "desc": "Official Pytorch implementation of StreamV2V.",
+    "officialSite": "https://jeff-liangf.github.io/projects/streamv2v/",
+    "topics": []
   }
 ]

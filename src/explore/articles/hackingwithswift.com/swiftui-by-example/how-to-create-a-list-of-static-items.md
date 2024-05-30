@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create a list of static items | SwiftUI by Example",
   "desc": "How to create a list of static items",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-a-list-of-static-items",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -91,7 +91,7 @@ You don't need to make each row use the same view type, so you can mix and match
   "title": "How to create a list of dynamic items | SwiftUI by Example",
   "desc": "How to create a list of dynamic items",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-list-of-dynamic-items.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -101,7 +101,7 @@ You don't need to make each row use the same view type, so you can mix and match
   "title": "How to create static labels with a Text view | SwiftUI by Example",
   "desc": "How to create static labels with a Text view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-static-labels-with-a-text-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -111,7 +111,7 @@ You don't need to make each row use the same view type, so you can mix and match
   "title": "How to add a badge to TabView items and List rows | SwiftUI by Example",
   "desc": "How to add a badge to TabView items and List rows",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-badge-to-tabview-items-and-list-rows.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -121,7 +121,7 @@ You don't need to make each row use the same view type, so you can mix and match
   "title": "Adding items to an order with @EnvironmentObject | SwiftUI by Example",
   "desc": "Adding items to an order with @EnvironmentObject",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-items-to-an-order-with-environmentobject.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ You don't need to make each row use the same view type, so you can mix and match
   "title": "How to limit the number of items in a fetch request | SwiftUI by Example",
   "desc": "How to limit the number of items in a fetch request",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-limit-the-number-of-items-in-a-fetch-request.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ You don't need to make each row use the same view type, so you can mix and match
   "title": "Adding items to an order with @EnvironmentObject | SwiftUI by Example",
   "desc": "Adding items to an order with @EnvironmentObject",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-items-to-an-order-with-environmentobject.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

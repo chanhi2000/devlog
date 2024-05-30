@@ -61,7 +61,7 @@ head:
 
 ---
 
-## DigitalOcean | Cloud Infrastructure for Developers
+## <FontIcon icon="fa-brands fa-digital-ocean"/>DigitalOcean | Cloud Infrastructure for Developers
 
 > digitalocean.com
 

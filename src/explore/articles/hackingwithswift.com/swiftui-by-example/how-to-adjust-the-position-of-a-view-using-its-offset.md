@@ -32,7 +32,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-ask-the-u
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-ask-the-u
   "title": "How to adjust the position of a view using its offset | SwiftUI by Example",
   "desc": "How to adjust the position of a view using its offset",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -140,7 +140,7 @@ Placing the offset at the end of the other modifiers ensures they all move toget
   "title": "How to position views in a grid using LazyVGrid and LazyHGrid | SwiftUI by Example",
   "desc": "How to position views in a grid using LazyVGrid and LazyHGrid",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -150,7 +150,7 @@ Placing the offset at the end of the other modifiers ensures they all move toget
   "title": "How to dynamically adjust the appearance of a view based on its size and location | SwiftUI by Example",
   "desc": "How to dynamically adjust the appearance of a view based on its size and location",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -160,7 +160,7 @@ Placing the offset at the end of the other modifiers ensures they all move toget
   "title": "How to position views in a fixed grid | SwiftUI by Example",
   "desc": "How to position views in a fixed grid",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-position-views-in-a-fixed-grid.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -170,7 +170,7 @@ Placing the offset at the end of the other modifiers ensures they all move toget
   "title": "How to adjust the size of a view relative to its container | SwiftUI by Example",
   "desc": "How to adjust the size of a view relative to its container",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-size-of-a-view-relative-to-its-container.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -180,7 +180,7 @@ Placing the offset at the end of the other modifiers ensures they all move toget
   "title": "How to adjust the way an image is fitted to its space | SwiftUI by Example",
   "desc": "How to adjust the way an image is fitted to its space",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-way-an-image-is-fitted-to-its-space.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

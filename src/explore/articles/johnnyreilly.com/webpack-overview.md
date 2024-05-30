@@ -26,6 +26,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/johnnyreilly.com/webpack-overview.html  
 prev: /programming/js-node/articles/README.md
+date: 2024-04-06
+isOriginal: false
+cover: https://res.cloudinary.com/priou/image/fetch/f_auto,q_auto,w_auto,dpr_auto/https://johnnyreilly.com/assets/images/title-image-510ccb17fb0abf91a6a1fca2ba757f19.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,8 +53,6 @@ prev: /programming/js-node/articles/README.md
   url="https://johnnyreilly.com/webpack-overview"
   logo="https://johnnyreilly.com/favicon.ico"
   preview="https://res.cloudinary.com/priou/image/fetch/f_auto,q_auto,w_auto,dpr_auto/https://johnnyreilly.com/assets/images/title-image-510ccb17fb0abf91a6a1fca2ba757f19.png"/>
-
-> 2024.04.06
 
 <!-- TODO: 작성 -->
 

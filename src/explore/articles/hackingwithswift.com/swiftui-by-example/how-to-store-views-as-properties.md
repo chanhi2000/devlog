@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to store views as properties | SwiftUI by Example",
   "desc": "How to store views as properties",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-store-views-as-properties",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -110,7 +110,7 @@ That doesn’t change the underlying style of `title`, only that one specific us
   "title": "Composing views to create a list row | SwiftUI by Example",
   "desc": "Composing views to create a list row",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -120,7 +120,7 @@ That doesn’t change the underlying style of `title`, only that one specific us
   "title": "How to use @EnvironmentObject to share data between views | SwiftUI by Example",
   "desc": "How to use @EnvironmentObject to share data between views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-environmentobject-to-share-data-between-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -130,7 +130,7 @@ That doesn’t change the underlying style of `title`, only that one specific us
   "title": "How to make two views the same width or height | SwiftUI by Example",
   "desc": "How to make two views the same width or height",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-two-views-the-same-width-or-height.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -140,7 +140,7 @@ That doesn’t change the underlying style of `title`, only that one specific us
   "title": "How to make views scroll with a custom transition | SwiftUI by Example",
   "desc": "How to make views scroll with a custom transition",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-views-scroll-with-a-custom-transition.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -149,8 +149,8 @@ That doesn’t change the underlying style of `title`, only that one specific us
 {
   "title": "How to create and compose custom views | SwiftUI by Example",
   "desc": "How to create and compose custom views",
-  "link": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-and-compose-custom-views",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-and-compose-custom-views.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

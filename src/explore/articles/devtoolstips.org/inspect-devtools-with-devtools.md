@@ -25,6 +25,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/inspect-devtools-with-devtools.html
 prev: /tool/chrome/articles/README.md
+date: 2023-07-31
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -55,15 +57,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "Inspect DevTools with DevTools",
-  "desc": "Devtools Tips > Inspect DevTools with DevTools",
+  "title": "Inspect DevTools with DevTools | Devtools Tips",
+  "desc": "Inspect DevTools with DevTools",
   "link": "https://devtoolstips.org/tips/en/inspect-devtools-with-devtools/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.07.31
 
 <!-- TODO:  작성 -->
 

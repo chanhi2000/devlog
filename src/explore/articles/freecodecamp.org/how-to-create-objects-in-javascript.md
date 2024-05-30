@@ -20,6 +20,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-create-objects-in-javascript.html
 prev: /programming/js/articles/README.md
+date: 2024-05-10
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--9-.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,11 +44,9 @@ prev: /programming/js/articles/README.md
 <SiteInfo
   name="How to Create Objects in JavaScript"
   desc="In programming, objects are fundamental building blocks used to represent real-world entities or concepts. JavaScript, a versatile and popular language, offers various ways to create these objects.  This article dives deep into these methods, equipping you with the knowledge to craft objects tailored to your programming needs. We'll begin..."
-  url="https://www.freecodecamp.org/news/how-to-create-objects-in-javascript/"
+  url="https://freecodecamp.org/news/how-to-create-objects-in-javascript/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--9-.png"/>
-
-> 2024.05.10
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--9-.png"/>
 
 <!-- TODO: 작성 -->
 

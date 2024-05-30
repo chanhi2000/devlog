@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/postgresql-indexing-strategies.html
 prev: /data-science/postgres/articles/README.md
+date: 2023-05-12
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2023/05/postresql-indexing.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -42,11 +45,9 @@ prev: /data-science/postgres/articles/README.md
 <SiteInfo
   name="Advanced Indexing Strategies in PostgreSQL"
   desc="Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a..."
-  url="https://www.freecodecamp.org/news/postgresql-indexing-strategies/"
+  url="https://freecodecamp.org/news/postgresql-indexing-strategies/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2023/05/postresql-indexing.jpg"/>
-
-> 2023.05.12
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2023/05/postresql-indexing.jpg"/>
 
 <!-- TODO: 작성 -->
 

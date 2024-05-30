@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "Presenting an alert | SwiftUI by Example",
   "desc": "Presenting an alert",
   "link": "https://hackingwithswift.com/quick-start/swiftui/presenting-an-alert",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -97,7 +97,7 @@ Run the program and see what you think – it's really coming together now!
   "title": "Article(s) > Working with presentations",
   "desc": "Working with presentations",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-presentations.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -107,7 +107,7 @@ Run the program and see what you think – it's really coming together now!
   "title": "How to show an alert | SwiftUI by Example",
   "desc": "How to show an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-an-alert.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -121,7 +121,7 @@ Run the program and see what you think – it's really coming together now!
   "title": "How to show an alert | SwiftUI by Example",
   "desc": "How to show an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-an-alert.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ Run the program and see what you think – it's really coming together now!
   "title": "How to add actions to alert buttons | SwiftUI by Example",
   "desc": "How to add actions to alert buttons",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-actions-to-alert-buttons.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ Run the program and see what you think – it's really coming together now!
   "title": "How to add a TextField to an alert | SwiftUI by Example",
   "desc": "How to add a TextField to an alert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-textfield-to-an-alert.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -151,7 +151,7 @@ Run the program and see what you think – it's really coming together now!
   "title": "How to show multiple alerts in a single view | SwiftUI by Example",
   "desc": "How to show multiple alerts in a single view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-multiple-alerts-in-a-single-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -161,7 +161,7 @@ Run the program and see what you think – it's really coming together now!
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

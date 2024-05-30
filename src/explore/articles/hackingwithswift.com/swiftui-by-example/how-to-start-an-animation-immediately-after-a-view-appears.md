@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to start an animation immediately after a view appears | SwiftUI by Example",
   "desc": "How to start an animation immediately after a view appears",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-start-an-animation-immediately-after-a-view-appears",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ struct ContentView: View {
   "title": "How to make a ScrollView start at the bottom | SwiftUI by Example",
   "desc": "How to make a ScrollView start at the bottom",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-scrollview-start-at-the-bottom.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ struct ContentView: View {
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -151,7 +151,7 @@ struct ContentView: View {
   "title": "How to follow this quick start guide | SwiftUI by Example",
   "desc": "How to follow this quick start guide",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-follow-this-quick-start-guide.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -161,7 +161,7 @@ struct ContentView: View {
   "title": "How to create an explicit animation | SwiftUI by Example",
   "desc": "How to create an explicit animation",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-an-explicit-animation.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -171,7 +171,7 @@ struct ContentView: View {
   "title": "How to create a spring animation | SwiftUI by Example",
   "desc": "How to create a spring animation",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-spring-animation.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

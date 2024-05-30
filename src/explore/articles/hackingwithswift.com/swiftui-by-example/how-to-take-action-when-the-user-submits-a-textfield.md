@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to take action when the user submits a TextField | SwiftUI by Example",
   "desc": "How to take action when the user submits a TextField",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-take-action-when-the-user-submits-a-textfield",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -106,7 +106,7 @@ struct ContentView: View {
   "title": "How to make a TextField expand vertically as the user types | SwiftUI by Example",
   "desc": "How to make a TextField expand vertically as the user types",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-expand-vertically-as-the-user-types.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -116,7 +116,7 @@ struct ContentView: View {
   "title": "How to make buttons that repeat their action when pressed | SwiftUI by Example",
   "desc": "How to make buttons that repeat their action when pressed",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-buttons-that-repeat-their-action-when-pressed.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -126,7 +126,7 @@ struct ContentView: View {
   "title": "How to show an action sheet | SwiftUI by Example",
   "desc": "How to show an action sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-an-action-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -136,7 +136,7 @@ struct ContentView: View {
   "title": "How to add custom swipe action buttons to a List row | SwiftUI by Example",
   "desc": "How to add custom swipe action buttons to a List row",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-custom-swipe-action-buttons-to-a-list-row.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -146,7 +146,7 @@ struct ContentView: View {
   "title": "How to dismiss the keyboard for a TextField | SwiftUI by Example",
   "desc": "How to dismiss the keyboard for a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dismiss-the-keyboard-for-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

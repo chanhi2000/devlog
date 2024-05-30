@@ -2,7 +2,7 @@ import { SidebarInfoTemplate } from ".";
 
 export const template: SidebarInfoTemplate = {
   name: 'popit.kr',
-  faviconPath: 'https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png',
+  faviconPath: 'https://popit.kr/wp-content/uploads/2016/08/favicon_32x32.png',
   linksMap: new Map([
     [
     "java-kafka", [

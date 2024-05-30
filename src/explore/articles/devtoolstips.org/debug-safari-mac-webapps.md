@@ -20,6 +20,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/debug-safari-mac-webapps.html
 prev: /tool/safari/articles/README.md
+date: 2023-09-23
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -47,8 +49,6 @@ prev: /tool/safari/articles/README.md
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.09.23
 
 Starting with Safari 17 (announced at WWDC 2023) any website you use in Safari can be installed as a Web App on macOS. Once installed, the Web App shows up like any other app on macOS, in all of the same places, like in the Dock. It also has its own standalone window.
 

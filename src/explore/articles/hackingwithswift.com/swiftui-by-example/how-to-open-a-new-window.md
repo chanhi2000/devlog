@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to open a new window | SwiftUI by Example",
   "desc": "How to open a new window",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-open-a-new-window",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -93,7 +93,7 @@ The window can also be opened by going to the Window menu – macOS will automat
   "title": "How to open web links in Safari | SwiftUI by Example",
   "desc": "How to open web links in Safari",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-open-web-links-in-safari.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -103,7 +103,7 @@ The window can also be opened by going to the Window menu – macOS will automat
   "title": "How to present a new view using sheets | SwiftUI by Example",
   "desc": "How to present a new view using sheets",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-present-a-new-view-using-sheets.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -113,7 +113,7 @@ The window can also be opened by going to the Window menu – macOS will automat
   "title": "How to push a new view when a list row is tapped | SwiftUI by Example",
   "desc": "How to push a new view when a list row is tapped",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-push-a-new-view-when-a-list-row-is-tapped.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -123,7 +123,7 @@ The window can also be opened by going to the Window menu – macOS will automat
   "title": "How to combine shapes to create new shapes | SwiftUI by Example",
   "desc": "How to combine shapes to create new shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-shapes-to-create-new-shapes.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -133,7 +133,7 @@ The window can also be opened by going to the Window menu – macOS will automat
   "title": "How to push a new view onto a NavigationStack | SwiftUI by Example",
   "desc": "How to push a new view onto a NavigationStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-push-a-new-view-onto-a-navigationstack.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

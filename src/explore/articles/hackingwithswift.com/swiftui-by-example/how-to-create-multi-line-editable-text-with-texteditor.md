@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create multi-line editable text with TextEditor | SwiftUI by Example",
   "desc": "How to create multi-line editable text with TextEditor",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-multi-line-editable-text-with-texteditor",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -90,7 +90,7 @@ In case you were wondering, at this time there is no ability to add formatted te
   "title": "How to change the background color of List, TextEditor, and more | SwiftUI by Example",
   "desc": "How to change the background color of List, TextEditor, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-the-background-color-of-list-texteditor-and-more.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -100,7 +100,7 @@ In case you were wondering, at this time there is no ability to add formatted te
   "title": "How to make a TextField or TextEditor have default focus | SwiftUI by Example",
   "desc": "How to make a TextField or TextEditor have default focus",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-or-texteditor-have-default-focus.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -110,7 +110,7 @@ In case you were wondering, at this time there is no ability to add formatted te
   "title": "How to customize the submit button for TextField, SecureField, and TextEditor | SwiftUI by Example",
   "desc": "How to customize the submit button for TextField, SecureField, and TextEditor",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-submit-button-for-textfield-securefield-and-texteditor.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -120,7 +120,7 @@ In case you were wondering, at this time there is no ability to add formatted te
   "title": "How to let users find and replace text | SwiftUI by Example",
   "desc": "How to let users find and replace text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-find-and-replace-text.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -130,7 +130,7 @@ In case you were wondering, at this time there is no ability to add formatted te
   "title": "How to format text inside text views | SwiftUI by Example",
   "desc": "How to format text inside text views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-format-text-inside-text-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

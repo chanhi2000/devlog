@@ -24,6 +24,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/engineering.linecorp.com/kotlinjdsl-jpa-criteria-api-with-kotlin.html
 prev: /programming/java/articles/README.md
+date: 2022-04-15
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,8 +53,6 @@ prev: /programming/java/articles/README.md
   "background": "rgba(31,31,31,0.2)"
 }
 ```
-
-> 2022.04.15
 
 <!-- TODO: 작성 -->
 

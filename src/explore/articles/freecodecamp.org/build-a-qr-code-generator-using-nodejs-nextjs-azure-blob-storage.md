@@ -26,6 +26,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage.html
 prev: /programming/js-react/articles/README.md
+date: 2024-05-10
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/qr-code-image-real.jpeg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,11 +60,9 @@ prev: /programming/js-react/articles/README.md
 <SiteInfo
   name="How to Build a QR Code Generator for URLs with Node.js, Next.js, and Azure Blob Storage"
   desc="A while ago, a client asked me to help them create a special app for generating QR codes so users could receive payments.  What set this app apart was that instead of users entering a URL to generate a QR code, they would initiate a request through the app..."
-  url="https://www.freecodecamp.org/news/build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage/"
+  url="https://freecodecamp.org/news/build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/qr-code-image-real.jpeg"/>
-
-> 2024.05.10
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/qr-code-image-real.jpeg"/>
 
 <!-- TODO: 작성 -->
 

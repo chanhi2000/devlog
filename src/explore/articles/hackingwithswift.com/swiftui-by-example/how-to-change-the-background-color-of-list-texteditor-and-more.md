@@ -32,7 +32,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-i
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -46,7 +46,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/swiftuis-built-i
   "title": "How to change the background color of List, TextEditor, and more | SwiftUI by Example",
   "desc": "How to change the background color of List, TextEditor, and more",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -90,7 +90,7 @@ struct ContentView: View {
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -100,7 +100,7 @@ struct ContentView: View {
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -110,7 +110,7 @@ struct ContentView: View {
   "title": "How to change the tint color for individual list rows | SwiftUI by Example",
   "desc": "How to change the tint color for individual list rows",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-the-tint-color-for-individual-list-rows.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -120,7 +120,7 @@ struct ContentView: View {
   "title": "How to create multi-line editable text with TextEditor | SwiftUI by Example",
   "desc": "How to create multi-line editable text with TextEditor",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-line-editable-text-with-texteditor.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -130,7 +130,7 @@ struct ContentView: View {
   "title": "How to set the background color of list rows using listRowBackground() | SwiftUI by Example",
   "desc": "How to set the background color of list rows using listRowBackground()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-set-the-background-color-of-list-rows-using-listrowbackground.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

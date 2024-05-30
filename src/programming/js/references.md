@@ -59,6 +59,7 @@ tag:
 
 ## TOAST UI :: Make Your Web Delicious!
 
+- [삽질하기 싫으면 꼭 읽어봐야 할 Canvas 트러블 슈팅](https://ui.toast.com/weekly-pick/ko_20210526) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20210526.md) -->
 - [Incremental DOM과 Virtual DOM 비교](https://ui.toast.com/weekly-pick/ko_20210819) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20210819.md) -->
 
 ---

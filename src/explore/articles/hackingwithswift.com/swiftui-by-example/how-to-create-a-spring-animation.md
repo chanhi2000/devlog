@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create a spring animation | SwiftUI by Example",
   "desc": "How to create a spring animation",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-a-spring-animation",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -134,7 +134,7 @@ Given how much easier the new API is compared to the old equivalent, I’d sugge
   "title": "How to create an explicit animation | SwiftUI by Example",
   "desc": "How to create an explicit animation",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-an-explicit-animation.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -144,7 +144,7 @@ Given how much easier the new API is compared to the old equivalent, I’d sugge
   "title": "How to start an animation immediately after a view appears | SwiftUI by Example",
   "desc": "How to start an animation immediately after a view appears",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-start-an-animation-immediately-after-a-view-appears.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -154,7 +154,7 @@ Given how much easier the new API is compared to the old equivalent, I’d sugge
   "title": "How to run a completion callback when an animation finishes | SwiftUI by Example",
   "desc": "How to run a completion callback when an animation finishes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-a-completion-callback-when-an-animation-finishes.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -164,7 +164,7 @@ Given how much easier the new API is compared to the old equivalent, I’d sugge
   "title": "How to delay an animation | SwiftUI by Example",
   "desc": "How to delay an animation",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-delay-an-animation.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -174,7 +174,7 @@ Given how much easier the new API is compared to the old equivalent, I’d sugge
   "title": "How to create basic animations | SwiftUI by Example",
   "desc": "How to create basic animations",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-basic-animations.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/sitepoint.com/css-animate-text-gradients-patterns.html
 prev: /programming/css/articles/README.md
+date: 2024-04-11
+isOriginal: false
+cover: https://uploads.sitepoint.com/wp-content/uploads/2024/04/1712816807animated-text-gradient-768x435.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,8 +44,6 @@ prev: /programming/css/articles/README.md
   url="https://sitepoint.com/css-animate-text-gradients-patterns/"
   logo="https://sitepoint.com/favicons/512x512.png"
   preview="https://uploads.sitepoint.com/wp-content/uploads/2024/04/1712816807animated-text-gradient-768x435.jpg"/>
-
-> 2024.04.11
 
 <!-- TODO: 작성 -->
 

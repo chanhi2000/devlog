@@ -624,5 +624,10 @@
     "desc": "ChatTTS is a generative speech model for daily dialogue.",
     "officialSite": "https://2noise.com/",
     "topics": ["agent", "text-to-speech"]
+  }, {
+    "repo": "rossmoody/svg-gobbler",
+    "desc": "Open source browser extension for finding, processing, exporting, optimizing, and managing SVG content.",
+    "officialSite": "https://www.svggobbler.com",
+    "topics": ["chrome-extension", "extension", "firefox-addon", "icon", "icons", "inline-svg", "javascript", "svg", "svg-export", "svg-icons", "svgo", "svgr", "typescript"]
   }
 ]

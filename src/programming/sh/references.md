@@ -343,4 +343,10 @@ tag:
 
 ---
 
+## Michael Kennedy
+
+- [Hide Those Terminal Secrets!](https://mkennedy.codes/posts/hide-those-terminal-secrets/)
+
+---
+
 <TagLinks />

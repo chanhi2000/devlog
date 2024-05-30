@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to add extra padding to the safe area | SwiftUI by Example",
   "desc": "How to add extra padding to the safe area",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-extra-padding-to-the-safe-area",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -109,7 +109,7 @@ ScrollView(.horizontal) {
   "title": "How to place content outside the safe area | SwiftUI by Example",
   "desc": "How to place content outside the safe area",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-place-content-outside-the-safe-area.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -119,19 +119,19 @@ ScrollView(.horizontal) {
   "title": "How to inset the safe area with custom content | SwiftUI by Example",
   "desc": "How to inset the safe area with custom content",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-inset-the-safe-area-with-custom-content.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
 
-How to place content into the safe area
+How to place content into the safe area <!-- TODO: FIND LINK -->
 
 ```component VPCard
 {
   "title": "How to control spacing around individual views using padding | SwiftUI by Example",
   "desc": "How to control spacing around individual views using padding",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-spacing-around-individual-views-using-padding.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ How to place content into the safe area
   "title": "How to color the padding around a view | SwiftUI by Example",
   "desc": "How to color the padding around a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-color-the-padding-around-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

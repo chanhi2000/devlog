@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to scroll to a specific row in a list | SwiftUI by Example",
   "desc": "How to scroll to a specific row in a list",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-scroll-to-a-specific-row-in-a-list",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -96,7 +96,7 @@ If you call `scrollTo()` inside `withAnimation()` the movement will be animated.
   "title": "How to flash the scroll bar indicators of a ScrollView or List | SwiftUI by Example",
   "desc": "How to flash the scroll bar indicators of a ScrollView or List",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -106,7 +106,7 @@ If you call `scrollTo()` inside `withAnimation()` the movement will be animated.
   "title": "How to hide the scroll indicators in ScrollView, List, and more | SwiftUI by Example",
   "desc": "How to hide the scroll indicators in ScrollView, List, and more",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-the-scroll-indicators-in-scrollview-list-and-more.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -116,7 +116,7 @@ If you call `scrollTo()` inside `withAnimation()` the movement will be animated.
   "title": "How to allow row selection in a list | SwiftUI by Example",
   "desc": "How to allow row selection in a list",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-allow-row-selection-in-a-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -126,7 +126,7 @@ If you call `scrollTo()` inside `withAnimation()` the movement will be animated.
   "title": "How to adjust List row separator insets | SwiftUI by Example",
   "desc": "How to adjust List row separator insets",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-list-row-separator-insets.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -136,7 +136,7 @@ If you call `scrollTo()` inside `withAnimation()` the movement will be animated.
   "title": "How to add custom swipe action buttons to a List row | SwiftUI by Example",
   "desc": "How to add custom swipe action buttons to a List row",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-custom-swipe-action-buttons-to-a-list-row.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -25,6 +25,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/combining-react-server-components-with-react-query-for-easy-data-management.html
 prev: /programming/js-react/articles/README.md
+date: 2024-05-24
+isOriginal: false
+cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/image-6.png?resize=1024%2C585&ssl=1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -49,8 +52,6 @@ prev: /programming/js-react/articles/README.md
   url="https://frontendmasters.com/news/combining-react-server-components-with-react-query-for-easy-data-management/"
   logo="https://frontendmasters.com/favicon.ico"
   preview="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/image-6.png?resize=1024%2C585&ssl=1"/>
-
-> 2024.05.24
 
 <!-- TODO: 작성 -->
 

@@ -557,6 +557,7 @@ tag:
 ## iOYES
 
 - [쿠키로 안전하게 HLS m3u8 영상 접근하기](https://green1229.tistory.com/344)
+- [런타임 시 IDEPreferLogStreaming 에러 해결하기 (with. Tuist)](https://green1229.tistory.com/476)
 
 ---
 

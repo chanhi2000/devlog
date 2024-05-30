@@ -24,6 +24,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/toss.tech/lightning-talks-package-manager.html
 prev: /programming/npm/articles/README.md
+date: 2024-05-23
+isOriginal: false
+cover: https://static.toss.im/assets/payments/contents/tech-banner-11.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -48,8 +51,6 @@ prev: /programming/npm/articles/README.md
   url="https://toss.tech/article/lightning-talks-package-manager"
   logo="https://static.toss.im/tds/favicon/favicon.ico"
   preview="https://static.toss.im/assets/payments/contents/tech-banner-11.png"/>
-
-> 2024.05.23
 
 ---
 

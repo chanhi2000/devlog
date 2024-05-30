@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -44,8 +44,8 @@ head:
 {
   "title": "How to disable ScrollView clipping so contents overflow | SwiftUI by Example",
   "desc": "How to disable ScrollView clipping so contents overflow",
-  "link": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-disable-scrollview-clipping-so-contents-overflow",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-disable-scrollview-clipping-so-contents-overflow",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -107,7 +107,7 @@ There are two extra things it's helpful to know when working with `scrollClipDis
   "title": "How to disable autocorrect in a TextField | SwiftUI by Example",
   "desc": "How to disable autocorrect in a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-autocorrect-in-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -117,7 +117,7 @@ There are two extra things it's helpful to know when working with `scrollClipDis
   "title": "How to disable taps for a view using allowsHitTesting() | SwiftUI by Example",
   "desc": "How to disable taps for a view using allowsHitTesting()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-taps-for-a-view-using-allowshittesting.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -127,7 +127,7 @@ There are two extra things it's helpful to know when working with `scrollClipDis
   "title": "How to disable the overlay color for images inside Button and NavigationLink | SwiftUI by Example",
   "desc": "How to disable the overlay color for images inside Button and NavigationLink",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -137,7 +137,7 @@ There are two extra things it's helpful to know when working with `scrollClipDis
   "title": "How to indent the content or scroll indicators in a ScrollView | SwiftUI by Example",
   "desc": "How to indent the content or scroll indicators in a ScrollView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-indent-the-content-or-scroll-indicators-in-a-scrollview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -147,7 +147,7 @@ There are two extra things it's helpful to know when working with `scrollClipDis
   "title": "How to flash the scroll bar indicators of a ScrollView or List | SwiftUI by Example",
   "desc": "How to flash the scroll bar indicators of a ScrollView or List",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to control layout priority using layoutPriority() | SwiftUI by Example",
   "desc": "How to control layout priority using layoutPriority()",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-control-layout-priority-using-layoutpriority",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -104,7 +104,7 @@ Obviously the result of that depends on what size screen you're using, but it's 
   "title": "How to create a custom layout using the Layout protocol | SwiftUI by Example",
   "desc": "How to create a custom layout using the Layout protocol",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-layout-using-the-layout-protocol.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -114,7 +114,7 @@ Obviously the result of that depends on what size screen you're using, but it's 
   "title": "How to control spacing around individual views using padding | SwiftUI by Example",
   "desc": "How to control spacing around individual views using padding",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-spacing-around-individual-views-using-padding.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -124,7 +124,7 @@ Obviously the result of that depends on what size screen you're using, but it's 
   "title": "How to create a segmented control and read values from it | SwiftUI by Example",
   "desc": "How to create a segmented control and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-segmented-control-and-read-values-from-it.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -134,7 +134,7 @@ Obviously the result of that depends on what size screen you're using, but it's 
   "title": "How to control the tappable area of a view using contentShape() | SwiftUI by Example",
   "desc": "How to control the tappable area of a view using contentShape()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-the-tappable-area-of-a-view-using-contentshape.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -144,7 +144,7 @@ Obviously the result of that depends on what size screen you're using, but it's 
   "title": "How to add custom activation commands for Voice Control | SwiftUI by Example",
   "desc": "How to add custom activation commands for Voice Control",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-voiceover-read-characters-individually.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

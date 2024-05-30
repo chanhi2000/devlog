@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to group views visually using GroupBox | SwiftUI by Example",
   "desc": "How to group views visually using GroupBox",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-group-views-visually-using-groupbox",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -132,7 +132,7 @@ GroupBox("Your account") {
   "title": "How to group views together with ControlGroup | SwiftUI by Example",
   "desc": "How to group views together with ControlGroup",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-group-views-together-with-controlgroup.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -142,7 +142,7 @@ GroupBox("Your account") {
   "title": "How to group views together | SwiftUI by Example",
   "desc": "How to group views together",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-group-views-together.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -152,7 +152,7 @@ GroupBox("Your account") {
   "title": "How to control spacing around individual views using padding | SwiftUI by Example",
   "desc": "How to control spacing around individual views using padding",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-spacing-around-individual-views-using-padding.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -162,7 +162,7 @@ GroupBox("Your account") {
   "title": "How to create multi-column lists using Table | SwiftUI by Example",
   "desc": "How to create multi-column lists using Table",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-column-lists-using-table.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -172,7 +172,7 @@ GroupBox("Your account") {
   "title": "How to create views in a loop using ForEach | SwiftUI by Example",
   "desc": "How to create views in a loop using ForEach",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-views-in-a-loop-using-foreach.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

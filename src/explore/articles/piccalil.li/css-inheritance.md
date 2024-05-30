@@ -19,6 +19,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/piccalil.li/css-inheritance.html
 prev: /programming/css/articles/README.md
+date: 2024-04-29
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,8 +48,6 @@ prev: /programming/css/articles/README.md
   "background": "rgba(172,42,81,0.2)"
 }
 ```
-
-> 2024.04.29
 
 <!-- TODO: 작성 -->
 

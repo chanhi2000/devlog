@@ -32,6 +32,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/see-viewport-size.html
 prev: /tool/chrome/articles/README.md
+date: 2023-10-05
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -72,15 +74,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "See the viewport size",
-  "desc": "Devtools Tips > See the viewport size",
+  "title": "See the viewport size | Devtools Tips",
+  "desc": "See the viewport size",
   "link": "https://devtoolstips.org/tips/en/see-viewport-size/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.10.05
 
 The size of the viewport that's used to render a webpage in a browser can be very important at times, such as when creating or debugging [<FontIcon icon="fa-brands fa-firefox"/>media queries](https://developer.mozilla.org/docs/Web/CSS/CSS_media_queries/Using_media_queries).
 

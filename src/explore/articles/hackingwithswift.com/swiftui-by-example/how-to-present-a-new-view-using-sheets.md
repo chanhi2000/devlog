@@ -32,8 +32,8 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users
   "title": "How to present a new view using sheets | SwiftUI by Example",
   "desc": "How to present a new view using sheets",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-present-a-new-view-using-sheets",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -114,7 +114,7 @@ If you don’t want your sheet to be dismissible by dragging downwards on iOS, u
   "title": "How to present multiple sheets | SwiftUI by Example",
   "desc": "How to present multiple sheets",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-present-multiple-sheets.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -124,7 +124,7 @@ If you don’t want your sheet to be dismissible by dragging downwards on iOS, u
   "title": "How to present a full screen modal view using fullScreenCover() | SwiftUI by Example",
   "desc": "How to present a full screen modal view using fullScreenCover()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-present-a-full-screen-modal-view-using-fullscreencover.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -134,7 +134,7 @@ If you don’t want your sheet to be dismissible by dragging downwards on iOS, u
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -144,7 +144,7 @@ If you don’t want your sheet to be dismissible by dragging downwards on iOS, u
   "title": "How to convert a SwiftUI view to an image | SwiftUI by Example",
   "desc": "How to convert a SwiftUI view to an image",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-convert-a-swiftui-view-to-an-image.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -154,7 +154,7 @@ If you don’t want your sheet to be dismissible by dragging downwards on iOS, u
   "title": "How to push a new view onto a NavigationStack | SwiftUI by Example",
   "desc": "How to push a new view onto a NavigationStack",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-push-a-new-view-onto-a-navigationstack.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

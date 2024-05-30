@@ -27,7 +27,7 @@ head:
 {
   "title": "Tutorials | DigitalOcean",
   "desc": "Follow along with one of our 7,000+ development and sysadmin tutorials.",
-  "link": "https://www.digitalocean.com/community/tutorials?sort_by=oldest",
+  "link": "https://digitalocean.com/community/tutorials?sort_by=oldest",
   "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
   "background": "rgba(29,55,209,0.2)"
 }

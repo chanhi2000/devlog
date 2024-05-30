@@ -26,6 +26,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/johnnyreilly.com/using-kernel-memory-to-chunk-documents-into-azure-ai-search.html  
 prev: /programming/csharp/articles/README.md
+date: 2024-04-21
+isOriginal: false
+cover: https://res.cloudinary.com/priou/image/fetch/f_auto,q_auto,w_auto,dpr_auto/https://johnnyreilly.com/assets/images/title-image-337c58e5e55f92f59a1d1db49366ec04.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -60,8 +63,6 @@ prev: /programming/csharp/articles/README.md
   url="https://johnnyreilly.com/using-kernel-memory-to-chunk-documents-into-azure-ai-search"
   logo="https://johnnyreilly.com/favicon.ico"
   preview="https://res.cloudinary.com/priou/image/fetch/f_auto,q_auto,w_auto,dpr_auto/https://johnnyreilly.com/assets/images/title-image-337c58e5e55f92f59a1d1db49366ec04.png"/>
-
-> 2024.04.21
 
 <!-- TODO: 작성 -->
 

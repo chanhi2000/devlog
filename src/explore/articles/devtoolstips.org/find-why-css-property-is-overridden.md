@@ -31,6 +31,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/find-why-css-property-is-overridden.html
 prev: /tool/chrome/articles/README.md
+date: 2024-04-08
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -71,15 +73,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "Find why a CSS property is overridden",
-  "desc": "Devtools Tips > Find why a CSS property is overridden",
+  "title": "Find why a CSS property is overridden | Devtools Tips",
+  "desc": " Find why a CSS property is overridden",
   "link": "https://devtoolstips.org/tips/en/find-why-css-property-is-overridden/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2024.04.08
 
 In CSS, the **cascade** plays a very important role in which CSS properties apply to an element. This key concept is not explained here, but you can learn more on MDN, at [<FontIcon icon="fa-brands fa-firefox"/>Cascade, specificity, and inheritance](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance).
 

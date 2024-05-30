@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.html
 prev: /programming/csharp/articles/README.md
+date: 2024-04-21
+isOriginal: false
+cover: /images/content/code-maze.com/social-csharp.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -37,17 +40,12 @@ prev: /programming/csharp/articles/README.md
 
 ---
 
-```component VPCard
-{
-  "title": "Using Property Mappings in AutoMapper To Define Mapping Rules",
-  "desc": "AutoMapper allows us to map two objects. Let's take a look at how to get the property mappings that have been defined using AutoMapper.",
-  "link": "https://code-maze.com/csharp-getting-property-mappings-from-automapper/",
-  "logo": "/images/content/code-maze.com/favicon.png",
-  "background": "rgba(22,22,22,0.2)"
-}
-```
-
-> 2024.04.21
+<SiteInfo
+  name="Using Property Mappings in AutoMapper To Define Mapping Rules"
+  desc="AutoMapper allows us to map two objects. Let's take a look at how to get the property mappings that have been defined using AutoMapper."
+  url="https://code-maze.com/csharp-getting-property-mappings-from-automapper/"
+  logo="/images/content/code-maze.com/favicon.png"
+  preview="/images/content/code-maze.com/social-csharp.png"/>
 
 <!-- TODO: 작성 -->
 

@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to show a menu when a button is pressed | SwiftUI by Example",
   "desc": "How to show a menu when a button is pressed",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-show-a-menu-when-a-button-is-pressed",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -171,7 +171,7 @@ struct ContentView: View {
   "title": "How to make buttons that repeat their action when pressed | SwiftUI by Example",
   "desc": "How to make buttons that repeat their action when pressed",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-buttons-that-repeat-their-action-when-pressed.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -181,7 +181,7 @@ struct ContentView: View {
   "title": "How to show a context menu | SwiftUI by Example",
   "desc": "How to show a context menu",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-context-menu.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -191,7 +191,7 @@ struct ContentView: View {
   "title": "Building a menu using List | SwiftUI by Example",
   "desc": "Building a menu using List",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -201,7 +201,7 @@ struct ContentView: View {
   "title": "How to let users pick options from a menu | SwiftUI by Example",
   "desc": "How to let users pick options from a menu",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-pick-options-from-a-menu.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -211,7 +211,7 @@ struct ContentView: View {
   "title": "Customizing Button with ButtonStyle | SwiftUI by Example",
   "desc": "Customizing Button with ButtonStyle",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/customizing-button-with-buttonstyle.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

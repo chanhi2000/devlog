@@ -466,7 +466,7 @@
     "topics": ["azure", "azure-resources", "azure-sdk", "azure-services", "hacktoberfest", "java", "media"]
   }, {
     "repo": "mthiim/dilithium-java",
-    "desc": "Experimental Java implementation of post-quantum crypto algorithm Dilithium (including JCE provider)",
+  "desc": "Experimental Java implementation of post-quantum crypto algorithm Dilithium (including JCE provider)",
     "officialSite": "",
     "topics": []
   }, {

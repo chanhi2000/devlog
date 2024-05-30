@@ -32,7 +32,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/working-with-con
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -46,7 +46,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/working-with-con
   "title": "How to align form text and controls neatly with LabeledContent | SwiftUI by Example",
   "desc": "How to align form text and controls neatly with LabeledContent",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-align-form-text-and-controls-neatly-with-labeledcontent",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -152,7 +152,7 @@ If you apply the `labelsHidden()` modifier to any `LabeledContent`, the label ti
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -162,7 +162,7 @@ If you apply the `labelsHidden()` modifier to any `LabeledContent`, the label ti
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -172,7 +172,7 @@ If you apply the `labelsHidden()` modifier to any `LabeledContent`, the label ti
   "title": "Building a menu using List | SwiftUI by Example",
   "desc": "Building a menu using List",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.html",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -182,7 +182,7 @@ If you apply the `labelsHidden()` modifier to any `LabeledContent`, the label ti
   "title": "Basic form design | SwiftUI by Example",
   "desc": "Basic form design",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/basic-form-design.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -192,7 +192,7 @@ If you apply the `labelsHidden()` modifier to any `LabeledContent`, the label ti
   "title": "Showing and hiding form rows | SwiftUI by Example",
   "desc": "Showing and hiding form rows",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/showing-and-hiding-form-rows.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

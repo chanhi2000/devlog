@@ -23,6 +23,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/shopify.engineering/managing-native-code-react-native.html
 prev: /programming/gradle/articles/README.md
+date: 2024-04-16
+isOriginal: false
+cover: https://cdn.shopify.com/s/files/1/0779/4361/articles/Shop_Eng_Blog_Header_3.png?format=webp&v=1618518074&width=1024
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -47,8 +50,6 @@ prev: /programming/gradle/articles/README.md
   url="https://shopify.engineering/managing-native-code-react-native"
   logo="https://cdn.shopify.com/static/shopify-favicon.png"
   preview="https://cdn.shopify.com/s/files/1/0779/4361/articles/Shop_Eng_Blog_Header_3.png?format=webp&v=1618518074&width=1024"/>
-
-> 2024.04.16
 
 <!-- TODO: 작성 -->
 

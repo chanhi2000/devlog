@@ -29,6 +29,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/find-rule-that-causes-style.html
 prev: /tool/chrome/articles/README.md
+date: 2023-06-10
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -70,15 +72,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "Find the CSS rule that causes a specific style to apply",
-  "desc": "Devtools Tips > Find the CSS rule that causes a specific style to apply",
+  "title": "Find the CSS rule that causes a specific style to apply | Devtools Tips",
+  "desc": "Find the CSS rule that causes a specific style to apply",
   "link": "https://devtoolstips.org/tips/en/find-rule-that-causes-style/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.06.10
 
 <!-- TODO:  작성 -->
 

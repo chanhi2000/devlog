@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-handle-concurrency-in-go.html
 prev: /programming/go/articles/README.md
+date: 2024-05-10
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/joshua-sortino-LqKhnDzSF-8-unsplash.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -40,11 +43,9 @@ prev: /programming/go/articles/README.md
 <SiteInfo
   name="How to Handle Concurrency with Goroutines and Channels in Go"
   desc="Concurrency is the ability of a program to perform multiple tasks simultaneously. It is a crucial aspect of building scalable and responsive systems.  Go's concurrency model is based on the concept of goroutines, lightweight threads that can run multiple functions concurrently, and channels, a built-in communication mechanism for safe..."
-  url="https://www.freecodecamp.org/news/how-to-handle-concurrency-in-go/"
+  url="https://freecodecamp.org/news/how-to-handle-concurrency-in-go/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/joshua-sortino-LqKhnDzSF-8-unsplash.jpg"/>
-
-> 2024.05.10
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/joshua-sortino-LqKhnDzSF-8-unsplash.jpg"/>
 
 <!-- TODO: 작성 -->
 

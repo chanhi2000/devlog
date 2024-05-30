@@ -30,6 +30,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/list-all-event-listeners.html
 prev: /tool/chrome/articles/README.md
+date: 2023-11-21
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -60,15 +62,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "List all event listeners on the entire page",
-  "desc": "Devtools Tips > List all event listeners on the entire page",
+  "title": "List all event listeners on the entire page | Devtools Tips",
+  "desc": "List all event listeners on the entire page",
   "link": "https://devtoolstips.org/tips/en/list-all-event-listeners/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.11.21
 
 When you don't know a codebase, it might be hard to know where to get started, and what events are being listened to by which elements.
 

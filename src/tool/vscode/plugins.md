@@ -550,6 +550,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Microsoft Edge Tools for VS Code (`ms-edgedevtools.vscode-edge-devtools`)",
+  "desc": "Use the Microsoft Edge Tools from within VS Code to see your site's runtime HTML structure, alter its layout, fix styling issues as well as see your site's network requests.",
+  "link": "https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools",
+  "logo": "https://ms-edgedevtools.gallerycdn.vsassets.io/extensions/ms-edgedevtools/vscode-edge-devtools/2.1.5/1709239851886/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Babel JavaScript (`mgmcdermott.vscode-language-babel`)",
   "desc": "VSCode syntax highlighting for today's JavaScript",
   "link": "https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel",
@@ -657,6 +667,7 @@ code --install-extension mikestead.dotenv # DotENV
 code --install-extension sidthesloth.html5-boilerplate # HTML Boilerplate
 code --install-extension yzhang.markdown-all-in-one # Markdown All in One
 code --install-extension mgmcdermott.vscode-language-babel # Babel JavaScript
+code --install-extension ms-edgedevtools.vscode-edge-devtools # Microsoft Edge Tools for VS Code
 code --install-extension chrmarti.regex # Regex Previewer
 code --install-extension octref.vetur # Vuter
 code --isntall-extension sswg.swift-lang # Swift
@@ -718,6 +729,7 @@ code --install-extension mikestead.dotenv && REM DotENV
 code --install-extension sidthesloth.html5-boilerplate && REM HTML Boilerplate
 code --install-extension yzhang.markdown-all-in-one && REM Markdown All in One
 code --install-extension mgmcdermott.vscode-language-babel && REM Babel 
+code --install-extension ms-edgedevtools.vscode-edge-devtools && REM Microsoft Edge Tools for VS Code
 code --install-extension chrmarti.regex && REM Regex Previewer
 code --install-extension octref.vetur && REM Vuter
 code --isntall-extension yoco.YOCO && REM YOCO(You Only Copy Once)

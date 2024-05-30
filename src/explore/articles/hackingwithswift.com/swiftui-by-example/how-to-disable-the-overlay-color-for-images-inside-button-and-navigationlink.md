@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to disable the overlay color for images inside Button and NavigationLink | SwiftUI by Example",
   "desc": "How to disable the overlay color for images inside Button and NavigationLink",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -118,7 +118,7 @@ The difference is subtle, but important: if you use a `Button` inside a `List`, 
   "title": "Displaying a detail screen with NavigationLink | SwiftUI by Example",
   "desc": "Displaying a detail screen with NavigationLink",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/displaying-a-detail-screen-with-navigationlink.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -128,7 +128,7 @@ The difference is subtle, but important: if you use a `Button` inside a `List`, 
   "title": "How to fix a Form Picker or a NavigationLink that isn't tappable | SwiftUI by Example",
   "desc": "How to fix a Form Picker or a NavigationLink that isn't tappable",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-a-form-picker-or-a-navigationlink-that-isnt-tappable.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -138,7 +138,7 @@ The difference is subtle, but important: if you use a `Button` inside a `List`, 
   "title": "How to disable autocorrect in a TextField | SwiftUI by Example",
   "desc": "How to disable autocorrect in a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-autocorrect-in-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -148,7 +148,7 @@ The difference is subtle, but important: if you use a `Button` inside a `List`, 
   "title": "How to disable ScrollView clipping so contents overflow | SwiftUI by Example",
   "desc": "How to disable ScrollView clipping so contents overflow",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-scrollview-clipping-so-contents-overflow",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -158,7 +158,7 @@ The difference is subtle, but important: if you use a `Button` inside a `List`, 
   "title": "How to disable taps for a view using allowsHitTesting() | SwiftUI by Example",
   "desc": "How to disable taps for a view using allowsHitTesting()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-taps-for-a-view-using-allowshittesting.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

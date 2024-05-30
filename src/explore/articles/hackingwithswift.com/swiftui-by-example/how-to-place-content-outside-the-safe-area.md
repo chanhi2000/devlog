@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to place content outside the safe area | SwiftUI by Example",
   "desc": "How to place content outside the safe area",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-place-content-outside-the-safe-area",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -73,14 +73,14 @@ There is a second, similar modifier called `safeAreaInset()`, which allows us to
 
 ::: details Similar solutions…
 
-How to place content into the safe area
+How to place content into the safe area <!-- TODO: FIND LINK -->
 
 ```component VPCard
 {
   "title": "How to inset the safe area with custom content | SwiftUI by Example",
   "desc": "How to inset the safe area with custom content",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-inset-the-safe-area-with-custom-content.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -90,7 +90,7 @@ How to place content into the safe area
   "title": "How to add extra padding to the safe area | SwiftUI by Example",
   "desc": "How to add extra padding to the safe area",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-extra-padding-to-the-safe-area.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -100,7 +100,7 @@ How to place content into the safe area
   "title": "How to control the tappable area of a view using contentShape() | SwiftUI by Example",
   "desc": "How to control the tappable area of a view using contentShape()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-the-tappable-area-of-a-view-using-contentshape.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -110,7 +110,7 @@ How to place content into the safe area
   "title": "How to indent the content or scroll indicators in a ScrollView | SwiftUI by Example",
   "desc": "How to indent the content or scroll indicators in a ScrollView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-indent-the-content-or-scroll-indicators-in-a-scrollview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

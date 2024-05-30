@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to present multiple sheets | SwiftUI by Example",
   "desc": "How to present multiple sheets",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-present-multiple-sheets",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -92,7 +92,7 @@ If you *do* place both `sheet()` modifiers in the same parent, SwiftUI will disp
   "title": "How to present a new view using sheets | SwiftUI by Example",
   "desc": "How to present a new view using sheets",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-present-a-new-view-using-sheets.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -102,7 +102,7 @@ If you *do* place both `sheet()` modifiers in the same parent, SwiftUI will disp
   "title": "How to present a full screen modal view using fullScreenCover() | SwiftUI by Example",
   "desc": "How to present a full screen modal view using fullScreenCover()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-present-a-full-screen-modal-view-using-fullscreencover.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -112,7 +112,7 @@ If you *do* place both `sheet()` modifiers in the same parent, SwiftUI will disp
   "title": "How to apply multiple animations to a view | SwiftUI by Example",
   "desc": "How to apply multiple animations to a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-apply-multiple-animations-to-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -122,7 +122,7 @@ If you *do* place both `sheet()` modifiers in the same parent, SwiftUI will disp
   "title": "How to show multiple alerts in a single view | SwiftUI by Example",
   "desc": "How to show multiple alerts in a single view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-multiple-alerts-in-a-single-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -132,7 +132,7 @@ If you *do* place both `sheet()` modifiers in the same parent, SwiftUI will disp
   "title": "How to let the user select multiple dates | SwiftUI by Example",
   "desc": "How to let the user select multiple dates",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-the-user-select-multiple-dates.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

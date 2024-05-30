@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to apply multiple animations to a view | SwiftUI by Example",
   "desc": "How to apply multiple animations to a view",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-apply-multiple-animations-to-a-view",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -119,7 +119,7 @@ Using these techniques it’s possible to animate every modifier differently if 
   "title": "Learn once, apply anywhere | SwiftUI by Example",
   "desc": "Learn once, apply anywhere",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/learn-once-apply-anywhere.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -129,7 +129,7 @@ Using these techniques it’s possible to animate every modifier differently if 
   "title": "How to synchronize animations from one view to another with matchedGeometryEffect() | SwiftUI by Example",
   "desc": "How to synchronize animations from one view to another with matchedGeometryEffect()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-synchronize-animations-from-one-view-to-another-with-matchedgeometryeffect.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ Using these techniques it’s possible to animate every modifier differently if 
   "title": "How to create multi-step animations using phase animators | SwiftUI by Example",
   "desc": "How to create multi-step animations using phase animators",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-step-animations-using-phase-animators.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -149,7 +149,7 @@ Using these techniques it’s possible to animate every modifier differently if 
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -159,7 +159,7 @@ Using these techniques it’s possible to animate every modifier differently if 
   "title": "How to override animations with transactions | SwiftUI by Example",
   "desc": "How to override animations with transactions",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-override-animations-with-transactions.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

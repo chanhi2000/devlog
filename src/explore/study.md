@@ -53,6 +53,22 @@ tag:
   ]'
 />
 
+
+<VPBanner
+  title="git - the simple guide - no deep shit!"
+  content="just a simple guide for getting started with git. no deep shit ;)"
+  :actions='[
+    {
+      text: "English",
+      link: "https://rogerdudler.github.io/git-guide/index.html"
+    }, {
+      text: "한글",
+      link: "https://rogerdudler.github.io/git-guide/index.ko.html",
+      type: "default"
+    }
+  ]'
+/>
+
 ::: tabs
 
 @tab 정보처리기사
@@ -404,7 +420,7 @@ https://www.joinc.co.kr/w/Site
   "title": " 엑셀 교육 과정 목록 &  포스팅 기준 [2024.05.24]",
   "desc": "키샤의 IT 핵심요약",
   "link": "https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=kishawing&logNo=223440076129",
-  "logo": "https://blog.naver.com/favicon.ico",
+  "logo": "/explore/articles/blog.naver.com/favicon.ico",
   "background": "rgba(237,126,2,0.2)"
 }
 ```
@@ -414,7 +430,7 @@ https://www.joinc.co.kr/w/Site
   "title": "Take your first steps with Rust - Training | Microsoft Learn",
   "desc": "Interested in learning a new programming language that's growing in use and popularity? Start here! Lay the foundation of knowledge you need to build fast and effective programs in Rust.",
   "link": "https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps",
-  "logo": "/iamge/content/learn.microsoft.com/favicon.ico",
+  "logo": "/images/content/learn.microsoft.com/favicon.ico",
   "background": "rgba(23,23,23,0.2)"
 }
 ```
@@ -445,6 +461,66 @@ https://www.joinc.co.kr/w/Site
   url="https://nextjs-app-router-training.vercel.app/"
   logo="https://nextjs-app-router-training.vercel.app/favicon.ico"
   preview="https://nextjs-app-router-training.vercel.app/opengraph-image.png?fcd239148f85b301"/>
+
+```component VPCard
+{
+  "title": "Introduction | Cracking Vue.js",
+  "desc": "JavaScript, Vue.js, Nuxt.js and TypeScript",
+  "link": "https://joshua1988.github.io/vue-camp/textbook.html",
+  "logo": "https://joshua1988.github.io/vue-camp/logo.png",
+  "background": "rgba(96,173,128,0.2)"
+}
+```
+
+<SiteInfo
+  name="Coding Games and Programming Challenges to Code Better"
+  desc="CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics. Solve games, code AI bots, learn from your peers, have fun."
+  url="https://www.codingame.com/start/"
+  logo="https://www.codingame.com/favicon.ico"
+  preview="https://files.codingame.com/codingame/codingame_share_pics_new.png"/>
+
+<SiteInfo
+  name="Learn VIM while playing a game - VIM Adventures"
+  desc="VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the 'Zelda meets text editing' game. So come have some fun and learn some VIM!"
+  url="https://vim-adventures.com/"
+  preview="https://vim-adventures.com/images/FB%20Site%20Thumbnail%203.jpg"/>
+
+<SiteInfo
+  name="Eloquent JavaScript"
+  desc="This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own paperback copy (3rd edition)."
+  url="https://eloquentjavascript.net/"
+  logo="https://eloquentjavascript.net/favicon.ico"
+  preview="https://eloquentjavascript.net/img/cover.jpg"/>
+
+```component VPCard
+{
+  "title": "Hacking Secret Ciphers with Python",
+  "desc": "...",
+  "link": "https://inventwithpython.com/hacking/chapters/",
+  "logo": "https://inventwithpython.com/favicon.ico",
+  "background": "rgba(73,113,41,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Interactive Vim tutorial",
+  "desc": "Hello. I am an interactive Vim tutorial. I'll teach you what Vim is about without hassle. If you are in a hurry, press any key to fast forward",
+  "link": "https://openvim.com/",
+  "logo": "https://openvim.com/icon.png",
+  "background": "rgba(127,50,218,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Graph Game - By Sabrina Ramonov",
+  "desc": "🧠 The best way to test your understanding of neural networks!",
+  "link": "https://graphgame.sabrina.dev/",
+  "logo": "https://graphgame.sabrina.dev/vite.svg",
+  "background": "rgba(83,110,236,0.2)"
+}
+```
 
 <!-- @end Crashcourse -->
 
@@ -508,6 +584,10 @@ https://www.joinc.co.kr/w/Site
   "background": "rgba(10,10,10,0.2)"
 }
 ```
+
+https://rogerdudler.github.io/git-guide/index.html
+
+https://rogerdudler.github.io/git-guide/index.ko.html
 
 :::
 

@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create modifiers for a UIViewRepresentable struct | SwiftUI by Example",
   "desc": "How to create modifiers for a UIViewRepresentable struct",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-modifiers-for-a-uiviewrepresentable-struct",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -128,7 +128,7 @@ struct ContentView: View {
   "title": "How to create custom modifiers | SwiftUI by Example",
   "desc": "How to create custom modifiers",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-custom-modifiers.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -138,7 +138,7 @@ struct ContentView: View {
   "title": "How to stack modifiers to create more advanced effects | SwiftUI by Example",
   "desc": "How to stack modifiers to create more advanced effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-stack-modifiers-to-create-more-advanced-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -148,7 +148,7 @@ struct ContentView: View {
   "title": "How to make SwiftUI modifiers safer to use with @warn_unqualified_access | SwiftUI by Example",
   "desc": "How to make SwiftUI modifiers safer to use with @warn_unqualified_access",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-swiftui-modifiers-safer-to-use-with-warn-unqualified-access.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -158,7 +158,7 @@ struct ContentView: View {
   "title": "How to detect the location of a tap inside a view | SwiftUI by Example",
   "desc": "How to detect the location of a tap inside a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-the-location-of-a-tap-inside-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -168,7 +168,7 @@ struct ContentView: View {
   "title": "How to wrap a custom UIView for SwiftUI | SwiftUI by Example",
   "desc": "How to wrap a custom UIView for SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-wrap-a-custom-uiview-for-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

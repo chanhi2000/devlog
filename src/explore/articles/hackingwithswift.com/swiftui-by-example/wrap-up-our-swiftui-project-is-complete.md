@@ -32,8 +32,8 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-st
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-st
   "title": "Wrap up: our SwiftUI project is complete | SwiftUI by Example",
   "desc": "Wrap up: our SwiftUI project is complete",
   "link": "https://hackingwithswift.com/quick-start/swiftui/wrap-up-our-swiftui-project-is-complete",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -82,7 +82,7 @@ One of the best ways to learn is to write your own code as often as possible, so
   "title": "SwiftUI tutorial: Building a complete project | SwiftUI by Example",
   "desc": "SwiftUI tutorial: Building a complete project",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tutorial-building-a-complete-project.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -92,7 +92,7 @@ One of the best ways to learn is to write your own code as often as possible, so
   "title": "How to wrap a custom UIView for SwiftUI | SwiftUI by Example",
   "desc": "How to wrap a custom UIView for SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-wrap-a-custom-uiview-for-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -102,7 +102,7 @@ One of the best ways to learn is to write your own code as often as possible, so
   "title": "Two-way bindings in SwiftUI | SwiftUI by Example",
   "desc": "Two-way bindings in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/two-way-bindings-in-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -112,7 +112,7 @@ One of the best ways to learn is to write your own code as often as possible, so
   "title": "How to use Instruments to profile your SwiftUI code and identify slow layouts | SwiftUI by Example",
   "desc": "How to use Instruments to profile your SwiftUI code and identify slow layouts",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -122,7 +122,7 @@ One of the best ways to learn is to write your own code as often as possible, so
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

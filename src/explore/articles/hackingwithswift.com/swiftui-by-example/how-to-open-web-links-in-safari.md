@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to open web links in Safari | SwiftUI by Example",
   "desc": "How to open web links in Safari",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-open-web-links-in-safari",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -55,7 +55,7 @@ head:
 SwiftUI gives us a dedicated `Link` view that looks like a button but opens a URL in Safari when pressed. It's easy enough to use – just give it a title for the button, plus a destination URL to show, like this:
 
 ```swift
-Link("Learn SwiftUI", destination: URL(string: "https://www.hackingwithswift.com/quick-start/swiftui")!)
+Link("Learn SwiftUI", destination: URL(string: "https://hackingwithswift.com/quick-start/swiftui")!)
 ```
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-open-web-links-in-safari-1.zip)
@@ -112,7 +112,7 @@ struct ContentView: View {
   "title": "How to customize the way links are opened | SwiftUI by Example",
   "desc": "How to customize the way links are opened",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-way-links-are-opened.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -122,7 +122,7 @@ struct ContentView: View {
   "title": "How to open a new window | SwiftUI by Example",
   "desc": "How to open a new window",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-open-a-new-window.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -132,7 +132,7 @@ struct ContentView: View {
   "title": "How to add advanced text styling using AttributedString | SwiftUI by Example",
   "desc": "How to add advanced text styling using AttributedString",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-advanced-text-styling-using-attributedstring.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -142,7 +142,7 @@ struct ContentView: View {
   "title": "How to render Markdown content in text | SwiftUI by Example",
   "desc": "How to render Markdown content in text",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-render-markdown-content-in-text.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -152,7 +152,7 @@ struct ContentView: View {
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

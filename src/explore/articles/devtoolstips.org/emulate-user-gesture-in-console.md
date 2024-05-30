@@ -19,6 +19,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/emulate-user-gesture-in-console.html
 prev: /programming/js/articles/README.md
+date: 2023-09-21
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -59,15 +61,13 @@ prev: /programming/js/articles/README.md
 
 ```component VPCard
 {
-  "title": "Use user gesture restricted APIs in the Console",
-  "desc": "Devtools Tips > Use user gesture restricted APIs in the Console",
+  "title": "Use user gesture restricted APIs in the Console | Devtools Tips",
+  "desc": "Use user gesture restricted APIs in the Console",
   "link": "https://devtoolstips.org/tips/en/emulate-user-gesture-in-console/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.09.21
 
 <!-- TODO:  작성 -->
 

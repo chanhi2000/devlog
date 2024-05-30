@@ -32,6 +32,7 @@ head:
 ## Real Python
 
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 2 – Real Python](https://realpython.com/flask-connexion-rest-api-part-2/)
+- [Build a Scalable Flask Web Project From Scratch](https://realpython.com/flask-project/)
 
 ---
 

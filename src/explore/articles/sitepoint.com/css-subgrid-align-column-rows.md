@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/sitepoint.com/css-subgrid-align-column-rows.html
 prev: /programming/css/articles/README.md
+date: 2024-03-26
+isOriginal: false
+cover: https://uploads.sitepoint.com/wp-content/uploads/2024/03/1711410202subgrid-align-rows-768x435.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,8 +44,6 @@ prev: /programming/css/articles/README.md
   url="https://sitepoint.com/css-subgrid-align-column-rows/"
   logo="https://sitepoint.com/favicons/512x512.png"
   preview="https://uploads.sitepoint.com/wp-content/uploads/2024/03/1711410202subgrid-align-rows-768x435.jpg"/>
-
-> 2024.03.26
 
 <!-- TODO: 작성 -->
 

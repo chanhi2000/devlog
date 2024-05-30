@@ -229,24 +229,24 @@ head:
 
 ## DigitalOcean 
 
-- [Using Bitwise operators in JavaScript](https://www.digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
+- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
 
 ---
 
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
-- [about React](https://www.freecodecamp.org/news/tag/react)
-- [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3)
-- [How to Upload Files with JavaScript](https://www.freecodecamp.org/news/upload-files-with-javascript/)
-- [How to Get Started with NodeJS – a Handbook for Beginners](https://www.freecodecamp.org/news/get-started-with-nodejs/)
-- [How to Write More Efficient JavaScript Conditions](https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions)
-- [ChatGPT React Course – Code Your Own ChatGPT Clone](https://www.freecodecamp.org/news/chatgpt-react-course)
-- [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
-- [How to Use React Server Components – A Beginner's Guide](https://www.freecodecamp.org/news/react-server-components-for-beginners/)
-- [TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers)
-- [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://www.freecodecamp.org/news/improve-reactjs-code)
-- [How to Use GraphQL](https://www.freecodecamp.org/news/graphql-database-tutorial)
-- [Cross-Browser Compatibility Testing – Best Practices for Web Developers](https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers)
+- [about React](https://freecodecamp.org/news/tag/react)
+- [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://freecodecamp.org/news/what-is-hoisting-in-javascript-3)
+- [How to Upload Files with JavaScript](https://freecodecamp.org/news/upload-files-with-javascript/)
+- [How to Get Started with NodeJS – a Handbook for Beginners](https://freecodecamp.org/news/get-started-with-nodejs/)
+- [How to Write More Efficient JavaScript Conditions](https://freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions)
+- [ChatGPT React Course – Code Your Own ChatGPT Clone](https://freecodecamp.org/news/chatgpt-react-course)
+- [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://freecodecamp.org/news/build-consume-and-document-a-rest-api/)
+- [How to Use React Server Components – A Beginner's Guide](https://freecodecamp.org/news/react-server-components-for-beginners/)
+- [TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App](https://freecodecamp.org/news/typescript-tutorial-for-react-developers)
+- [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://freecodecamp.org/news/improve-reactjs-code)
+- [How to Use GraphQL](https://freecodecamp.org/news/graphql-database-tutorial)
+- [Cross-Browser Compatibility Testing – Best Practices for Web Developers](https://freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers)
 -
 
 ---
@@ -361,6 +361,7 @@ head:
 
 ## Sitepoint
 
+- [React Performance Optimization](https://sitepoint.com/react-performance-optimization/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/react-performance-optimization.md) -->
 - [Building Interactive Data Visualizations with D3.js and React](https://sitepoint.com/d3-js-react-interactive-data-visualizations/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/d3-js-react-interactive-data-visualizations.md) -->
 - [Creating a Navbar in React](https://sitepoint.com/creating-a-navbar-in-react) <!-- TODO: 작성 (/explore/articles/sitepoint.com/creating-a-navbar-in-react.md) -->
 
@@ -845,6 +846,12 @@ https://o-yeon.tistory.com/227
 ## Mayank
 
 - [React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components)
+
+---
+
+## Overcoming overcomplication → Alexey Taktarov
+
+- [React Tricks: Fast, Fit and Fun](https://molefrog.com/notes/react-tricks)
 
 ---
 

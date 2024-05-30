@@ -324,7 +324,7 @@ tag:
 
 ## DigitalOcean
 
-- [Using Bitwise operators in JavaScript](https://www.digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
+- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
 
 <!-- TODO: 작성 (/explore/articles/digitalocean.com/using-bitwise-operators-in-javascript.md) -->
 
@@ -332,18 +332,18 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
-- [about React](https://www.freecodecamp.org/news/tag/react)
-- [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3)
-- [How to Upload Files with JavaScript](https://www.freecodecamp.org/news/upload-files-with-javascript/)
-- [How to Get Started with NodeJS – a Handbook for Beginners](https://www.freecodecamp.org/news/get-started-with-nodejs/)
-- [How to Write More Efficient JavaScript Conditions](https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions)
-- [ChatGPT React Course – Code Your Own ChatGPT Clone](https://www.freecodecamp.org/news/chatgpt-react-course)
-- [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
-- [How to Use React Server Components – A Beginner's Guide](https://www.freecodecamp.org/news/react-server-components-for-beginners/)
-- [TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers)
-- [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://www.freecodecamp.org/news/improve-reactjs-code)
-- [How to Use GraphQL](https://www.freecodecamp.org/news/graphql-database-tutorial)
-- [Cross-Browser Compatibility Testing – Best Practices for Web Developers](https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers)
+- [about React](https://freecodecamp.org/news/tag/react)
+- [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://freecodecamp.org/news/what-is-hoisting-in-javascript-3)
+- [How to Upload Files with JavaScript](https://freecodecamp.org/news/upload-files-with-javascript/)
+- [How to Get Started with NodeJS – a Handbook for Beginners](https://freecodecamp.org/news/get-started-with-nodejs/)
+- [How to Write More Efficient JavaScript Conditions](https://freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions)
+- [ChatGPT React Course – Code Your Own ChatGPT Clone](https://freecodecamp.org/news/chatgpt-react-course)
+- [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://freecodecamp.org/news/build-consume-and-document-a-rest-api/)
+- [How to Use React Server Components – A Beginner's Guide](https://freecodecamp.org/news/react-server-components-for-beginners/)
+- [TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App](https://freecodecamp.org/news/typescript-tutorial-for-react-developers)
+- [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://freecodecamp.org/news/improve-reactjs-code)
+- [How to Use GraphQL](https://freecodecamp.org/news/graphql-database-tutorial)
+- [Cross-Browser Compatibility Testing – Best Practices for Web Developers](https://freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers)
 
 <!-- TODO: 작성 (/explore/articles/freecodecamp.org/what-is-hoisting-in-javascript-3.md) -->
 <!-- TODO: 작성 (/explore/articles/freecodecamp.org/upload-files-with-javascript.md) -->
@@ -446,7 +446,9 @@ tag:
 - [`naver-place-dev` - 네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
 - [`mathpresso` / 웹에서 프리 드로잉 밑바닥부터 구현하기](https://blog.mathpresso.com/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC-%EB%93%9C%EB%A1%9C%EC%9E%89-%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-965a0d2253c1)
 - [`airbnb-engineering` / Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
-
+- [`bitsrc` / Bit, Nx and Lerna: An Overview of 3 Popular JavaScript Build Systems](https://blog.bitsrc.io/javascript-build-systems-83bc4df4df8c)
+- [`junghan92` / d3-geo, TopoJSON, canvas를 이용한 맵 차트 그리기](https://junghan92.medium.com/d3-geo-topojson-canvas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%B5-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0-ffab54ec23bf)
+- [`junghan92` / (번역) 웹에서 텍스트 크기 조정에 대해 다시 생각하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-6ed827589fd9)
 
 ---
 
@@ -1068,6 +1070,12 @@ tag:
 ## Advanced Web Machinery
 
 - [Modern JavaScript library starter](https://advancedweb.hu/modern-javascript-library-starter)
+
+---
+
+## Dev. DY
+
+- [Vanilla JS에서 SPA 라우팅 시스템 구현하기](https://kdydesign.github.io/2020/10/06/spa-route-tutorial/)
 
 ---
 

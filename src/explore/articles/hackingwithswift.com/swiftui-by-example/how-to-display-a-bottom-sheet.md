@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to display a bottom sheet | SwiftUI by Example",
   "desc": "How to display a bottom sheet",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-display-a-bottom-sheet",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -174,7 +174,7 @@ struct ContentView: View {
   "title": "How to make a ScrollView start at the bottom | SwiftUI by Example",
   "desc": "How to make a ScrollView start at the bottom",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-scrollview-start-at-the-bottom.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -184,7 +184,7 @@ struct ContentView: View {
   "title": "How to customize the display mode of NavigationSplitView | SwiftUI by Example",
   "desc": "How to customize the display mode of NavigationSplitView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-display-mode-of-navigationsplitview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -194,7 +194,7 @@ struct ContentView: View {
   "title": "How to display solid shapes | SwiftUI by Example",
   "desc": "How to display solid shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -204,7 +204,7 @@ struct ContentView: View {
   "title": "How to prevent a sheet from being dismissed with a swipe | SwiftUI by Example",
   "desc": "How to prevent a sheet from being dismissed with a swipe",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-prevent-a-sheet-from-being-dismissed-with-a-swipe.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -214,7 +214,7 @@ struct ContentView: View {
   "title": "How to show an action sheet | SwiftUI by Example",
   "desc": "How to show an action sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-an-action-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -24,6 +24,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/shopify.engineering/lessons-learned-apache-airflow-scale.html
 prev: /programming/py-airflow/articles/README.md
+date: 2022-03-23
+isOriginal: false
+cover: https://cdn.shopify.com/s/files/1/0779/4361/articles/Shop_Eng_Blog_Header_3.png?format=webp&v=1618518074&width=1024
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -48,8 +51,6 @@ prev: /programming/py-airflow/articles/README.md
   url="https://shopify.engineering/lessons-learned-apache-airflow-scale"
   logo="https://cdn.shopify.com/static/shopify-favicon.png"
   preview="https://cdn.shopify.com/s/files/1/0779/4361/articles/Shop_Eng_Blog_Header_3.png?format=webp&v=1618518074&width=1024"/>
-
-> 2022.03.23
 
 <!-- TODO: 작성 -->
 

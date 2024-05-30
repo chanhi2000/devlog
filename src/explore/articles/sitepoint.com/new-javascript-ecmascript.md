@@ -23,6 +23,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/sitepoint.com/new-javascript-ecmascript.html
 prev: /programming/js/articles/README.md
+date: 2024-03-12
+isOriginal: false
+cover: https://uploads.sitepoint.com/wp-content/uploads/2024/03/1710139726ecmascript2024-new-features.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -45,8 +48,6 @@ prev: /programming/js/articles/README.md
   url="https://sitepoint.com/new-javascript-ecmascript/"
   logo="https://sitepoint.com/favicons/512x512.png"
   preview="https://uploads.sitepoint.com/wp-content/uploads/2024/03/1710139726ecmascript2024-new-features.jpg"/>
-
-> 2024.03.12
 
 The following proposals stand a good chance of making it into this year's version of ECMAScript:
 
@@ -230,7 +231,7 @@ The `%` token is a placeholder used to represent the value of the output of the 
 
 Piping combines the ease of chaining but can be used with any custom functions that you've written. The only condition is that you need to ensure that the output type of one function matches the input type of the next function in the chain.
 
-Piping works best with [curried functions](https://www.sitepoint.com/currying-in-functional-javascript/) that only accept a single argument that's piped from the return value of any previous function. It makes functional programming much easier, as small, building-block functions can be chained together to make more complex composite functions. It also makes [<FontIcon icon="fa-brands fa-free-code-camp"/>partial application](https://www.freecodecamp.org/news/how-to-use-partial-application-to-improve-your-javascript-code-5af9ad877833/) easier to implement.
+Piping works best with [curried functions](https://www.sitepoint.com/currying-in-functional-javascript/) that only accept a single argument that's piped from the return value of any previous function. It makes functional programming much easier, as small, building-block functions can be chained together to make more complex composite functions. It also makes [<FontIcon icon="fa-brands fa-free-code-camp"/>partial application](https://freecodecamp.org/news/how-to-use-partial-application-to-improve-your-javascript-code-5af9ad877833/) easier to implement.
 
 Despite its popularity, the pipe operator has struggled to move forward beyond Stage 2 of the process. This is due to disagreements over how the notation should be expressed and concerns over memory performance and how it might work with `await`. It seems that the committee is slowly reaching some sort of agreement, though, so hopefully the pipe operator might move quickly through the stages and make an appearance this year.
 

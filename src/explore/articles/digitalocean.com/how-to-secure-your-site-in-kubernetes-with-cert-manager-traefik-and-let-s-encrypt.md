@@ -24,6 +24,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/digitalocean.com/how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.html
 prev: /devops/k8s/articles/README.md
+date: 2022-11-18
+isOriginal: false
+cover: https://digitalocean.com/_next/static/media/intro-to-cloud.d49bc5f7.jpeg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -47,9 +50,7 @@ prev: /devops/k8s/articles/README.md
   desc="Kubernetes is a popular way to host websites. As more websites interact with sensitive data, more browsers are requiring TLS to secure traffic. However, it c… "
   url="https://digitalocean.com/community/tutorials/how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt"
   logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
-  preview="https://www.digitalocean.com/_next/static/media/intro-to-cloud.d49bc5f7.jpeg"/>
-
-> 2022.11.18
+  preview="https://digitalocean.com/_next/static/media/intro-to-cloud.d49bc5f7.jpeg"/>
 
 ---
 
@@ -61,7 +62,7 @@ Fortunately, there are services you can run in your Kubernetes cluster to manage
 
 In this tutorial, you will set up cert-manager, Traefik, and Let’s Encrypt in your Kubernetes cluster, along with an example website service, to acquire, renew, and use secure certificates with your website automatically.
 
-If you’re looking for a managed Kubernetes hosting service, [check out our simple, managed Kubernetes service built for growth.](https://www.digitalocean.com/products/kubernetes)
+If you’re looking for a managed Kubernetes hosting service, [check out our simple, managed Kubernetes service built for growth.](https://digitalocean.com/products/kubernetes)
 
 ---
 
@@ -405,7 +406,7 @@ Now that you have cert-manager and Traefik configured in your cluster, you could
 
 You can read the [<FontIcon icon="fas fa-globe"/>Traefik Proxy documentation](https://doc.traefik.io/traefik/) for more about the different functionalities Traefik can provide in your cluster. [<FontIcon icon="fas fa-globe"/>cert-manager](https://cert-manager.io/docs/) also has extensive documentation on how to use it with other types of Let’s Encrypt challenges, as well as sources other than Let’s Encrypt.
 
-To continue configuring your Kubernetes cluster, check out our other [tutorials on Kubernetes](https://www.digitalocean.com/community/tags/kubernetes).
+To continue configuring your Kubernetes cluster, check out our other [tutorials on Kubernetes](https://digitalocean.com/community/tags/kubernetes).
 
 ---
 

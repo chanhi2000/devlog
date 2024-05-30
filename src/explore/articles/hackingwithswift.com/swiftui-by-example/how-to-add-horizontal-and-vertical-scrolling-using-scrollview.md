@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to add horizontal and vertical scrolling using ScrollView | SwiftUI by Example",
   "desc": "How to add horizontal and vertical scrolling using ScrollView",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-horizontal-and-vertical-scrolling-using-scrollview",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -124,7 +124,7 @@ ScrollView(.horizontal, showsIndicators: false) {
   "title": "How to enable vertical page scrolling | SwiftUI by Example",
   "desc": "How to enable vertical page scrolling",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-enable-vertical-page-scrolling.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -134,7 +134,7 @@ ScrollView(.horizontal, showsIndicators: false) {
   "title": "How to create scrolling pages of content using tabViewStyle() | SwiftUI by Example",
   "desc": "How to create scrolling pages of content using tabViewStyle()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-scrolling-pages-of-content-using-tabviewstyle.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -144,7 +144,7 @@ ScrollView(.horizontal, showsIndicators: false) {
   "title": "How to disable ScrollView clipping so contents overflow | SwiftUI by Example",
   "desc": "How to disable ScrollView clipping so contents overflow",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-scrollview-clipping-so-contents-overflow",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -154,7 +154,7 @@ ScrollView(.horizontal, showsIndicators: false) {
   "title": "How to indent the content or scroll indicators in a ScrollView | SwiftUI by Example",
   "desc": "How to indent the content or scroll indicators in a ScrollView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-indent-the-content-or-scroll-indicators-in-a-scrollview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -164,7 +164,7 @@ ScrollView(.horizontal, showsIndicators: false) {
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

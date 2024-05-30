@@ -22,6 +22,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-do-numerical-conversions-work.html
 prev: /academcis/math/articles/README.md
+date: 2024-05-29
+isOriginal: false
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715271341530/60608a00-2e63-434e-91e8-c766b171f6f7.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -43,11 +46,9 @@ prev: /academcis/math/articles/README.md
 <SiteInfo
   name="How Do Numerical Conversions Work in Computer Systems? Explained With Examples"
   desc="Computers perform complex calculations when carrying out their assigned tasks. At the very core, the calculations boil down to operations like comparisons, assignments, and addition. Have you ever wondered how they are performed under the hood and wh..."
-  url="https://www.freecodecamp.org/news/how-do-numerical-conversions-work/"
+  url="https://freecodecamp.org/news/how-do-numerical-conversions-work/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.hashnode.com/res/hashnode/image/upload/v1715271341530/60608a00-2e63-434e-91e8-c766b171f6f7.png"/>
-
-> 2024.05.29
 
 <!-- TODO: 작성 -->
 

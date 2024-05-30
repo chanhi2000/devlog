@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/what-is-amazon-ec2-auto-scaling.html
 prev: /devops/aws/articles/README.md
+date: 2024-05-06
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/christophe-hautier-902vnYeoWS4-unsplash.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -42,11 +45,9 @@ prev: /devops/aws/articles/README.md
 <SiteInfo
   name="What is Amazon EC2 Auto Scaling?"
   desc="Auto scaling is like having a smart system that keeps an eye on how many people are visiting your website. When you have a lot of people, it quickly adds more servers to handle the extra traffic. And when things quiet down, it scales back to save you money. In..."
-  url="https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/"
+  url="https://freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/christophe-hautier-902vnYeoWS4-unsplash.jpg"/>
-
-> 2024.05.06
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/christophe-hautier-902vnYeoWS4-unsplash.jpg"/>
 
 <!-- TODO: 작성 -->
 

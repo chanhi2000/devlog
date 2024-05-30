@@ -32,8 +32,8 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal
   "title": "How to create basic animations | SwiftUI by Example",
   "desc": "How to create basic animations",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-basic-animations",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -75,7 +75,7 @@ struct ContentView: View {
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-basic-animations-1.zip)
 
-<VidStack src="https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-basic-animations-1~dark.mp4" />
+<VidStack src="https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-basic-animations-1~dark.mp4" />
 
 That makes the animation happen over 1 second, but if you don’t want to specify a precise time for your animation you can just use `.linear`.
 
@@ -147,7 +147,7 @@ struct ContentView: View {
   "title": "How to create multi-step animations using phase animators | SwiftUI by Example",
   "desc": "How to create multi-step animations using phase animators",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-step-animations-using-phase-animators.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -157,7 +157,7 @@ struct ContentView: View {
   "title": "How to synchronize animations from one view to another with matchedGeometryEffect() | SwiftUI by Example",
   "desc": "How to synchronize animations from one view to another with matchedGeometryEffect()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-synchronize-animations-from-one-view-to-another-with-matchedgeometryeffect.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -167,7 +167,7 @@ struct ContentView: View {
   "title": "How to override animations with transactions | SwiftUI by Example",
   "desc": "How to override animations with transactions",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-override-animations-with-transactions.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -177,7 +177,7 @@ struct ContentView: View {
   "title": "How to apply multiple animations to a view | SwiftUI by Example",
   "desc": "How to apply multiple animations to a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-apply-multiple-animations-to-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -187,7 +187,7 @@ struct ContentView: View {
   "title": "How to reduce animations when requested | SwiftUI by Example",
   "desc": "How to reduce animations when requested",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-reduce-animations-when-requested.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

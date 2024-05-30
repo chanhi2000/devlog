@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to use @ObservedObject to manage state from external objects | SwiftUI by Example",
   "desc": "How to use @ObservedObject to manage state from external objects",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-use-observedobject-to-manage-state-from-external-objects",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -123,7 +123,7 @@ Remember, please do *not* use `@ObservedObject` to create instances of your obje
   "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
   "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -133,7 +133,7 @@ Remember, please do *not* use `@ObservedObject` to create instances of your obje
   "title": "How to use @StateObject to create and monitor external objects | SwiftUI by Example",
   "desc": "How to use @StateObject to create and monitor external objects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-stateobject-to-create-and-monitor-external-objects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -143,7 +143,7 @@ Remember, please do *not* use `@ObservedObject` to create instances of your obje
   "title": "What is the @ObservedObject property wrapper? | SwiftUI by Example",
   "desc": "What is the @ObservedObject property wrapper?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-the-observedobject-property-wrapper.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -153,7 +153,7 @@ Remember, please do *not* use `@ObservedObject` to create instances of your obje
   "title": "Observable objects, environment objects, and @Published | SwiftUI by Example",
   "desc": "Observable objects, environment objects, and @Published",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/observable-objects-environment-objects-and-published.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -164,7 +164,7 @@ Remember, please do *not* use `@ObservedObject` to create instances of your obje
   "title": "How to fix “Referencing initializer 'init(wrappedValue:)' on 'ObservedObject' requires that 'SomeType' conform to 'ObservableObject'” | SwiftUI by Example",
   "desc": "How to fix “Referencing initializer 'init(wrappedValue:)' on 'ObservedObject' requires that 'SomeType' conform to 'ObservableObject'”",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-referencing-initializer-initwrappedvalue-on-observedobject-requires-that-sometype-conform-to-observableobject.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

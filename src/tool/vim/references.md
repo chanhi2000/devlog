@@ -27,6 +27,10 @@ head:
 
 [[toc]]
 
+## Pdf(s)
+
+<PDF url="https://vim.swaroopch.com/byte-of-vim.pdf" />
+
 ---
 
 ## nerdypepper

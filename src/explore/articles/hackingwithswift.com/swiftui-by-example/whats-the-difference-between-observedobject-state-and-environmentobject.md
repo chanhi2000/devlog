@@ -32,8 +32,8 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-th
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-th
   "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
   "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
   "link": "https://hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -137,7 +137,7 @@ Of the four you will find that `@ObservedObject` is both the most useful and the
   "title": "How to use @EnvironmentObject to share data between views | SwiftUI by Example",
   "desc": "How to use @EnvironmentObject to share data between views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-environmentobject-to-share-data-between-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -147,7 +147,7 @@ Of the four you will find that `@ObservedObject` is both the most useful and the
   "title": "How to use @ObservedObject to manage state from external objects | SwiftUI by Example",
   "desc": "How to use @ObservedObject to manage state from external objects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-observedobject-to-manage-state-from-external-objects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -157,7 +157,7 @@ Of the four you will find that `@ObservedObject` is both the most useful and the
   "title": "What is the @EnvironmentObject property wrapper? | SwiftUI by Example",
   "desc": "What is the @EnvironmentObject property wrapper?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-the-environmentobject-property-wrapper.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -167,7 +167,7 @@ Of the four you will find that `@ObservedObject` is both the most useful and the
   "title": "Adding items to an order with @EnvironmentObject | SwiftUI by Example",
   "desc": "Adding items to an order with @EnvironmentObject",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-items-to-an-order-with-environmentobject.html",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -177,7 +177,7 @@ Of the four you will find that `@ObservedObject` is both the most useful and the
   "title": "What is the @ObservedObject property wrapper? | SwiftUI by Example",
   "desc": "What is the @ObservedObject property wrapper?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-the-observedobject-property-wrapper.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

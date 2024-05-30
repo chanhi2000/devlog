@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to disable autocorrect in a TextField | SwiftUI by Example",
   "desc": "How to disable autocorrect in a TextField",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-disable-autocorrect-in-a-textfield",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -82,7 +82,7 @@ In earlier Xcode releases, the icon for disabling autocorrect is a duck with a l
   "title": "How to disable taps for a view using allowsHitTesting() | SwiftUI by Example",
   "desc": "How to disable taps for a view using allowsHitTesting()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-taps-for-a-view-using-allowshittesting.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -92,7 +92,7 @@ In earlier Xcode releases, the icon for disabling autocorrect is a duck with a l
   "title": "How to disable the overlay color for images inside Button and NavigationLink | SwiftUI by Example",
   "desc": "How to disable the overlay color for images inside Button and NavigationLink",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-the-overlay-color-for-images-inside-button-and-navigationlink.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -102,7 +102,7 @@ In earlier Xcode releases, the icon for disabling autocorrect is a duck with a l
   "title": "How to disable ScrollView clipping so contents overflow | SwiftUI by Example",
   "desc": "How to disable ScrollView clipping so contents overflow",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-scrollview-clipping-so-contents-overflow",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -112,7 +112,7 @@ In earlier Xcode releases, the icon for disabling autocorrect is a duck with a l
   "title": "How to make a TextField expand vertically as the user types | SwiftUI by Example",
   "desc": "How to make a TextField expand vertically as the user types",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-expand-vertically-as-the-user-types.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -122,7 +122,7 @@ In earlier Xcode releases, the icon for disabling autocorrect is a duck with a l
   "title": "How to dismiss the keyboard for a TextField | SwiftUI by Example",
   "desc": "How to dismiss the keyboard for a TextField",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dismiss-the-keyboard-for-a-textfield.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

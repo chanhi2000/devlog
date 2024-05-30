@@ -100,32 +100,16 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-maven',
       }, {
         text: 'Java',
-        link: '/programming/java/README.md',
-        icon: 'fa-brands fa-java'
-      }, {
-        text: 'Spring',
-        link: '/programming/java-spring/README.md',
-        icon: 'iconfont icon-spring',      
-      }, {
-        text: 'Android',
-        link: '/programming/java-android/README.md',
-        icon: 'fa-brands fa-android'
-      }, {
-        text: 'Kafka',
-        link: '/programming/java-kafka/README.md',
-        icon: 'iconfont icon-apachekafka',
-      }, {
-        text: 'Quarkus',
-        link: '/programming/java-quarkus/README.md',
-        icon: 'iconfont icon-quarkus',
-      }, {
-        text: 'Armeria',
-        icon: 'iconfont icon-armeria',
-        link: '/programming/java-armeria/README.md',
-    }, {
-        text: 'Elasticsearch',
-        icon: 'iconfont icon-elasticsearch',
-        link: '/programming/java-elasticsearch/README.md',
+        icon: 'fa-brands fa-java',
+        children: [
+          '/programming/java/README.md',
+          '/programming/java-android/README.md',
+          '/programming/java-spring/README.md',
+          '/programming/java-kafka/README.md',
+          '/programming/java-quarkus/README.md',
+          '/programming/java-armeria/README.md',
+          '/programming/java-elasticsearch/README.md'
+        ]
       }, {
         text: 'Swift',
         link: '/programming/swift/README.md',
@@ -135,13 +119,10 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-js',
         link: '/programming/js/README.md',
       }, {
-        text: 'NPM',
-        icon: 'fa-brands fa-npm',
-        link: '/programming/npm/README.md',
-      }, {
         text: 'Node.js',
         icon: 'fa-brands fa-node',
         children: [
+          '/programming/npm/README.md',
           '/programming/js-node/README.md',
           '/programming/js-react/README.md',
           '/programming/js-vue/README.md',

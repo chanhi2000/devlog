@@ -30,6 +30,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/zuminternet.github.io/zum-chrome-extension.html
 prev: /programming/js-vue/articles/README.md
+date: 2020-09-11
+isOriginal: false
+cover: https://zuminternet.github.io/images/front/post/2020-09-11-Zum-Chrome-Extension/0-thumbnail.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -64,8 +67,6 @@ prev: /programming/js-vue/articles/README.md
   url="https://zuminternet.github.io/real-estate-data-visualization/"
   logo="https://zuminternet.github.io/favicon.ico"
   preview="https://zuminternet.github.io/images/front/post/2020-09-11-Zum-Chrome-Extension/0-thumbnail.png"/>
-
-> 2020.09.11
 
 <!-- TODO:  작성 -->
 

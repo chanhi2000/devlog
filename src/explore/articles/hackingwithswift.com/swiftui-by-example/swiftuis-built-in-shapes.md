@@ -32,8 +32,8 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-th
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-change-th
   "title": "SwiftUI's built-in shapes | SwiftUI by Example",
   "desc": "SwiftUI's built-in shapes",
   "link": "https://hackingwithswift.com/quick-start/swiftui/swiftuis-built-in-shapes",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -109,7 +109,7 @@ If you’re applying these shapes as clip shapes, content shapes, or similar, yo
   "title": "How to combine shapes to create new shapes | SwiftUI by Example",
   "desc": "How to combine shapes to create new shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-shapes-to-create-new-shapes.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -119,7 +119,7 @@ If you’re applying these shapes as clip shapes, content shapes, or similar, yo
   "title": "How to fill and stroke shapes at the same time | SwiftUI by Example",
   "desc": "How to fill and stroke shapes at the same time",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fill-and-stroke-shapes-at-the-same-time.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -129,7 +129,7 @@ If you’re applying these shapes as clip shapes, content shapes, or similar, yo
   "title": "How to display solid shapes | SwiftUI by Example",
   "desc": "How to display solid shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-solid-shapes.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ If you’re applying these shapes as clip shapes, content shapes, or similar, yo
   "title": "How to draw polygons and stars | SwiftUI by Example",
   "desc": "How to draw polygons and stars",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-polygons-and-stars.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -149,7 +149,7 @@ If you’re applying these shapes as clip shapes, content shapes, or similar, yo
   "title": "How to draw a custom path | SwiftUI by Example",
   "desc": "How to draw a custom path",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-draw-a-custom-path.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

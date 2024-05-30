@@ -28,6 +28,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/debug-print-css-styles.html
 prev: /tool/chrome/articles/README.md
+date: 2023-05-02
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -85,8 +87,6 @@ prev: /tool/chrome/articles/README.md
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.05.02
 
 <!-- TODO:  작성 -->
 

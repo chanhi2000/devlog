@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "Customizing ProgressView with ProgressViewStyle | SwiftUI by Example",
   "desc": "Customizing ProgressView with ProgressViewStyle",
   "link": "https://hackingwithswift.com/quick-start/swiftui/customizing-progressview-with-progressviewstyle",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -108,7 +108,7 @@ Notice how my custom style rotates the circle anti-clockwise by 90 degrees, so t
   "title": "How to show progress on a task using ProgressView | SwiftUI by Example",
   "desc": "How to show progress on a task using ProgressView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-progress-on-a-task-using-progressview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -118,7 +118,7 @@ Notice how my custom style rotates the circle anti-clockwise by 90 degrees, so t
   "title": "How to show indeterminate progress using ProgressView | SwiftUI by Example",
   "desc": "How to show indeterminate progress using ProgressView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-indeterminate-progress-using-progressview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -128,7 +128,7 @@ Notice how my custom style rotates the circle anti-clockwise by 90 degrees, so t
   "title": "Customizing Button with ButtonStyle | SwiftUI by Example",
   "desc": "Customizing Button with ButtonStyle",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/customizing-button-with-buttonstyle.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -138,7 +138,7 @@ Notice how my custom style rotates the circle anti-clockwise by 90 degrees, so t
   "title": "Customizing Toggle with ToggleStyle | SwiftUI by Example",
   "desc": "Customizing Toggle with ToggleStyle",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/customizing-toggle-with-togglestyle.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -148,7 +148,7 @@ Notice how my custom style rotates the circle anti-clockwise by 90 degrees, so t
   "title": "Migrating from UIKit to SwiftUI | SwiftUI by Example",
   "desc": "Migrating from UIKit to SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/migrating-from-uikit-to-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

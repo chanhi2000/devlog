@@ -29,6 +29,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/find-all-elements-with-style.html
 prev: /programming/js/articles/README.md
+date: 2023-05-31
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -79,15 +81,13 @@ prev: /programming/js/articles/README.md
 
 ```component VPCard
 {
-  "title": "Find all elements with a specific style",
-  "desc": "Devtools Tips > Find all elements with a specific style",
+  "title": "Find all elements with a specific style | ",
+  "desc": "Find all elements with a specific style",
   "link": "https://devtoolstips.org/tips/en/find-all-elements-with-style/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.05.31
 
 <!-- TODO:  작성 -->
 

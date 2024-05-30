@@ -104,5 +104,10 @@
     "desc": "Material design event calendar and date picker",
     "officialSite": "https://schedule-x.dev",
     "topics": ["calendar", "date-picker", "javascript", "react", "vue"]
+  }, {
+    "repo": "prabhuignoto/react-chrono",
+    "desc": "🕑 Modern Timeline Component for React",
+    "officialSite": "https://react-chrono.prabhumurthy.com",
+    "topics": ["horizontal-timeline", "javascript-timeline", "react", "react-timeline", "reactjs", "slideshow", "timeline", "timeline-component", "typescript", "vertical-timeline", "vertical-timeline-react"]
   }
 ]

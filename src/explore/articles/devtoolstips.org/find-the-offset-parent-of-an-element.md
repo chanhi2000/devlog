@@ -19,6 +19,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/find-the-offset-parent-of-an-element.html
 prev: /programming/css/articles/README.md
+date: 2023-09-13
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -39,15 +41,13 @@ prev: /programming/css/articles/README.md
 
 ```component VPCard
 {
-  "title": "Find the offset parent of an element",
-  "desc": "Devtools Tips > Find the offset parent of an element",
+  "title": "Find the offset parent of an element | Devtools Tips",
+  "desc": "Find the offset parent of an element",
   "link": "https://devtoolstips.org/tips/en/find-the-offset-parent-of-an-element/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.09.13
 
 <!-- TODO:  작성 -->
 

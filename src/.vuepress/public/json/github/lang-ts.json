@@ -2953,5 +2953,20 @@
     "desc": "알록달록 봄 느낌이 물씬 나는 모바일 청첩장입니다.",
     "officialSite": "https://happily-ever-after.vercel.app/",
     "topics": []
+  }, {
+    "repo": "Jeff-LiangF/streamv2v",
+    "desc": "Official Pytorch implementation of StreamV2V. ",
+    "officialSite": "https://jeff-liangf.github.io/projects/streamv2v/",
+    "topics": []
+  }, {
+    "repo": "rossmoody/svg-gobbler",
+    "desc": "Open source browser extension for finding, processing, exporting, optimizing, and managing SVG content.",
+    "officialSite": "https://www.svggobbler.com",
+    "topics": ["chrome-extension", "extension", "firefox-addon", "icon", "icons", "inline-svg", "javascript", "svg", "svg-export", "svg-icons", "svgo", "svgr", "typescript"]
+  }, {
+    "repo": "webprodigies/corinna-ai",
+    "desc": "Ai Chatbot that acts like a sales rep",
+    "officialSite": "",
+    "topics": []
   }
 ]

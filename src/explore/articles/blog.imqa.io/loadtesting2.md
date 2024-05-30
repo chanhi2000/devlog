@@ -26,6 +26,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/blog.imqa.io/loadtesting2.html
 prev: /devops/jmeter/articles/README.md
+date: 2020-10-14
+isOriginal: false
+cover: https://blog.imqa.io/content/images/size/w1000/2020/10/shutterstock_1100046194.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -60,8 +63,6 @@ prev: /devops/jmeter/articles/README.md
   url="https://blog.imqa.io/loadtesting2"
   logo="https://blog.imqa.io/favicon.png"
   preview="https://blog.imqa.io/content/images/size/w1000/2020/10/shutterstock_1100046194.jpg"/>
-
-> 2020.10.14
 
 <!-- TODO: 작성 -->
 

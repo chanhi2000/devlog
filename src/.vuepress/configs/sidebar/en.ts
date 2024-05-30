@@ -2721,6 +2721,7 @@ export const sidebarEn = sidebar({
         asb.douggregor(), 
         asb.donnywals(),
         asb.ktAcademy(),
+        asb.antonioleiva(),
         asb.johnnyreilly(),
         asb.codemaze(),
         asb.droidcon(),

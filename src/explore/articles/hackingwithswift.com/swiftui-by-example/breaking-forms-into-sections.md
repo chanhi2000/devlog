@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "Breaking forms into sections | SwiftUI by Example",
   "desc": "Breaking forms into sections",
   "link": "https://hackingwithswift.com/quick-start/swiftui/breaking-forms-into-sections",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -106,7 +106,7 @@ In Xcode 12 you need to use `SegmentedPickerStyle()` rather than `.segmented`.
   "title": "How to add sections to a list | SwiftUI by Example",
   "desc": "How to add sections to a list",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-sections-to-a-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -116,7 +116,7 @@ In Xcode 12 you need to use `SegmentedPickerStyle()` rather than `.segmented`.
   "title": "Bindings and forms | SwiftUI by Example",
   "desc": "Bindings and forms",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/bindings-and-forms.html",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -126,7 +126,7 @@ In Xcode 12 you need to use `SegmentedPickerStyle()` rather than `.segmented`.
   "title": "Working with forms | SwiftUI by Example",
   "desc": "Working with forms",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-forms.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -136,7 +136,7 @@ In Xcode 12 you need to use `SegmentedPickerStyle()` rather than `.segmented`.
   "title": "Enabling and disabling elements in forms | SwiftUI by Example",
   "desc": "Enabling and disabling elements in forms",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/enabling-and-disabling-elements-in-forms.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -146,7 +146,7 @@ In Xcode 12 you need to use `SegmentedPickerStyle()` rather than `.segmented`.
   "title": "Pickers in forms | SwiftUI by Example",
   "desc": "Pickers in forms",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/pickers-in-forms.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

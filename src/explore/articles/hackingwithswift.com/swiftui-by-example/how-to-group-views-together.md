@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to group views together | SwiftUI by Example",
   "desc": "How to group views together",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-group-views-together",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -76,7 +76,7 @@ You could do the same with `VStack` or `HStack`, of course, but by using `Group`
   "title": "How to group views together with ControlGroup | SwiftUI by Example",
   "desc": "How to group views together with ControlGroup",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-group-views-together-with-controlgroup.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -86,7 +86,7 @@ You could do the same with `VStack` or `HStack`, of course, but by using `Group`
   "title": "How to combine text views together | SwiftUI by Example",
   "desc": "How to combine text views together",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-text-views-together.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -96,7 +96,7 @@ You could do the same with `VStack` or `HStack`, of course, but by using `Group`
   "title": "How to blend views together | SwiftUI by Example",
   "desc": "How to blend views together",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-blend-views-together.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -106,7 +106,7 @@ You could do the same with `VStack` or `HStack`, of course, but by using `Group`
   "title": "How to group views visually using GroupBox | SwiftUI by Example",
   "desc": "How to group views visually using GroupBox",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-group-views-visually-using-groupbox.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -116,7 +116,7 @@ You could do the same with `VStack` or `HStack`, of course, but by using `Group`
   "title": "Composing views to create a list row | SwiftUI by Example",
   "desc": "Composing views to create a list row",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/composing-views-to-create-a-list-row.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

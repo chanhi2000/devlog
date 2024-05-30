@@ -33,6 +33,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/inspect-user-agent-dom.html
 prev: /tool/chrome/articles/README.md
+date: 2024-01-19
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -73,15 +75,14 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "Inspect the user-agent DOM",
-  "desc": "Devtools Tips > Inspect the user-agent DOM",
+  "title": "Inspect the user-agent DOM | Devtools Tips",
+  "desc": "Inspect the user-agent DOM",
   "link": "https://devtoolstips.org/tips/en/inspect-user-agent-dom/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
 
-> 2024.01.19
 
 Browsers often add elements to the DOM of your web pages on top of the ones you, yourself, defined. For example, when you create a `<video>` element, the browser creates a bunch of nested DOM nodes within it to display the controls, the progress bar, etc. When you use a `<input type="range">` element, the browser also creates a nested DOM nodes to display the track and the thumb.
 

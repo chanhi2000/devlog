@@ -25,7 +25,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 <MyYouTubeItems jsonName="yu-PrimeNewtons" /><!-- Prime Newtons -->

@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to override animations with transactions | SwiftUI by Example",
   "desc": "How to override animations with transactions",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-override-animations-with-transactions",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -170,7 +170,7 @@ struct ContentView: View {
   "title": "How to create basic animations | SwiftUI by Example",
   "desc": "How to create basic animations",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-basic-animations.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -180,7 +180,7 @@ struct ContentView: View {
   "title": "How to create multi-step animations using phase animators | SwiftUI by Example",
   "desc": "How to create multi-step animations using phase animators",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-step-animations-using-phase-animators.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -190,7 +190,7 @@ struct ContentView: View {
   "title": "How to apply multiple animations to a view | SwiftUI by Example",
   "desc": "How to apply multiple animations to a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-apply-multiple-animations-to-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -200,7 +200,7 @@ struct ContentView: View {
   "title": "How to reduce animations when requested | SwiftUI by Example",
   "desc": "How to reduce animations when requested",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-reduce-animations-when-requested.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -210,7 +210,7 @@ struct ContentView: View {
   "title": "How to synchronize animations from one view to another with matchedGeometryEffect() | SwiftUI by Example",
   "desc": "How to synchronize animations from one view to another with matchedGeometryEffect()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-synchronize-animations-from-one-view-to-another-with-matchedgeometryeffect.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

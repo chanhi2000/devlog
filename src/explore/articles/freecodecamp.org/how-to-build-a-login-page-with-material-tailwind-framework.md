@@ -25,6 +25,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-build-a-login-page-with-material-tailwind-framework.html
 prev: /programming/css-tailwind/articles/README.md
+date: 2024-04-29
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/04/how-to-build-a-login-page-with-the-material-tailwind-framework-1.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -56,11 +59,9 @@ prev: /programming/css-tailwind/articles/README.md
 <SiteInfo
   name="How to Build a Login Page with the Material Tailwind Framework – Step by Step Guide"
   desc="Login pages are like the front doors to our web apps. They should be inviting, easy to use, and safe. If you're looking to create one that combines both style and function, you're in the right place. In this guide, we'll explore how to build a login page with Material..."
-  url="https://www.freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/"
+  url="https://freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/04/how-to-build-a-login-page-with-the-material-tailwind-framework-1.jpg"/>
-
-> 2024.04.29
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/04/how-to-build-a-login-page-with-the-material-tailwind-framework-1.jpg"/>
 
 <!-- TODO: 작성 -->
 

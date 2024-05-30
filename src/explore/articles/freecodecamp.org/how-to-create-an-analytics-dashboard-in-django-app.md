@@ -22,6 +22,10 @@ head:
       content: How to create an analytics dashboard in a Django app
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-create-an-analytics-dashboard-in-django-app.html
+prev: /programming/py-django/articles/README.md
+date: 2020-02-12
+isOriginal: false
+cover: https://cdn-media-2.freecodecamp.org/w1280/5f9c9c9e740569d1a4ca3336.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,8 +50,6 @@ head:
   url="https://freecodecamp.org/news/how-to-create-an-analytics-dashboard-in-django-app"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn-media-2.freecodecamp.org/w1280/5f9c9c9e740569d1a4ca3336.jpg"/>
-
-> 2020.02.12
 
 <!-- TODO: 작성 -->
 

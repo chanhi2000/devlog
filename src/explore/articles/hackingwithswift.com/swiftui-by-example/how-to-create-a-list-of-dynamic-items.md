@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create a list of dynamic items | SwiftUI by Example",
   "desc": "How to create a list of dynamic items",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-a-list-of-dynamic-items",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -109,7 +109,7 @@ In fact, in trivial cases like this one we can make the code even shorter: `List
   "title": "How to use Dynamic Type with a custom font | SwiftUI by Example",
   "desc": "How to use Dynamic Type with a custom font",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-dynamic-type-with-a-custom-font.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -119,7 +119,7 @@ In fact, in trivial cases like this one we can make the code even shorter: `List
   "title": "How to specify the Dynamic Type sizes a view supports | SwiftUI by Example",
   "desc": "How to specify the Dynamic Type sizes a view supports",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-specify-the-dynamic-type-sizes-a-view-supports.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -129,7 +129,7 @@ In fact, in trivial cases like this one we can make the code even shorter: `List
   "title": "How to create a list of static items | SwiftUI by Example",
   "desc": "How to create a list of static items",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-list-of-static-items.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ In fact, in trivial cases like this one we can make the code even shorter: `List
   "title": "How to preview your layout at different Dynamic Type sizes | SwiftUI by Example",
   "desc": "How to preview your layout at different Dynamic Type sizes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-preview-your-layout-at-different-dynamic-type-sizes.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -149,7 +149,7 @@ In fact, in trivial cases like this one we can make the code even shorter: `List
   "title": "How to add a badge to TabView items and List rows | SwiftUI by Example",
   "desc": "How to add a badge to TabView items and List rows",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-badge-to-tabview-items-and-list-rows.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

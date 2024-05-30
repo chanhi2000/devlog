@@ -25,6 +25,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/debug-popups-on-hover.html
 prev: /tool/chrome/articles/README.md
+date: 2023-11-21
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -52,8 +54,6 @@ prev: /tool/chrome/articles/README.md
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.11.21
 
 As described in [Debug popups that appear on hover using JS](https://devtoolstips.org/tips/en/debug-js-hover) and in [Debug popups that appear on hover using the debugger statement](https://devtoolstips.org/tips/en/debug-js-hover-2), there are ways to debug popups that appear on hover using JavaScript.
 

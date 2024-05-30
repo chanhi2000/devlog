@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "Bindings and forms | SwiftUI by Example",
   "desc": "Bindings and forms",
   "link": "https://hackingwithswift.com/quick-start/swiftui/bindings-and-forms",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ Of course, the _real_ question is: why `$paymentType` and not `paymentType`?
   "title": "Working with state | SwiftUI by Example",
   "desc": "Working with state",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/working-with-state.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -149,7 +149,7 @@ Of course, the _real_ question is: why `$paymentType` and not `paymentType`?
   "title": "How to create a picker and read values from it | SwiftUI by Example",
   "desc": "How to create a picker and read values from it",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-picker-and-read-values-from-it.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -25,6 +25,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/smashingmagazine.com/forensics-react-server-components.html
 prev: /programming/js-react/articles/README.md
+date: 2024-05-09
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -52,8 +54,6 @@ prev: /programming/js-react/articles/README.md
   "background": "rgba(211,58,44,0.2)"
 }
 ```
-
-> 2024.05.09
 
 <!-- TODO: 작성 -->
 

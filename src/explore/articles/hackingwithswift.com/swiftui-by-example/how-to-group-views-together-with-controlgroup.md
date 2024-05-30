@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to group views together with ControlGroup | SwiftUI by Example",
   "desc": "How to group views together with ControlGroup",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-group-views-together-with-controlgroup",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -80,7 +80,7 @@ When you run that code you'll see the buttons are clearly attached to each other
   "title": "How to group views together | SwiftUI by Example",
   "desc": "How to group views together",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-group-views-together.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -90,7 +90,7 @@ When you run that code you'll see the buttons are clearly attached to each other
   "title": "How to combine text views together | SwiftUI by Example",
   "desc": "How to combine text views together",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-text-views-together.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -100,7 +100,7 @@ When you run that code you'll see the buttons are clearly attached to each other
   "title": "How to blend views together | SwiftUI by Example",
   "desc": "How to blend views together",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-blend-views-together.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -110,7 +110,7 @@ When you run that code you'll see the buttons are clearly attached to each other
   "title": "How to group views visually using GroupBox | SwiftUI by Example",
   "desc": "How to group views visually using GroupBox",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-group-views-visually-using-groupbox.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -120,7 +120,7 @@ When you run that code you'll see the buttons are clearly attached to each other
   "title": "How to let users customize toolbar buttons | SwiftUI by Example",
   "desc": "How to let users customize toolbar buttons",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-customize-toolbar-buttons.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

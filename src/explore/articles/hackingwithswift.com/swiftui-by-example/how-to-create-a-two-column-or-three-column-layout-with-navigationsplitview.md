@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create a two-column or three-column layout with NavigationSplitView | SwiftUI by Example",
   "desc": "How to create a two-column or three-column layout with NavigationSplitView",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -152,7 +152,7 @@ struct ContentView: View {
   "title": "How to customize the display mode of NavigationSplitView | SwiftUI by Example",
   "desc": "How to customize the display mode of NavigationSplitView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-the-display-mode-of-navigationsplitview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -162,7 +162,7 @@ struct ContentView: View {
   "title": "How to customize a view's width in NavigationSplitView | SwiftUI by Example",
   "desc": "How to customize a view's width in NavigationSplitView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-customize-a-views-width-in-navigationsplitview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -172,7 +172,7 @@ struct ContentView: View {
   "title": "How to control which NavigationSplitView column is shown in compact layouts | SwiftUI by Example",
   "desc": "How to control which NavigationSplitView column is shown in compact layouts",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-which-navigationsplitview-column-is-shown-in-compact-layouts.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -182,7 +182,7 @@ struct ContentView: View {
   "title": "How to create a custom layout using the Layout protocol | SwiftUI by Example",
   "desc": "How to create a custom layout using the Layout protocol",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-layout-using-the-layout-protocol.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -192,7 +192,7 @@ struct ContentView: View {
   "title": "How to create an adaptive layout with ViewThatFits | SwiftUI by Example",
   "desc": "How to create an adaptive layout with ViewThatFits",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-an-adaptive-layout-with-viewthatfits.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

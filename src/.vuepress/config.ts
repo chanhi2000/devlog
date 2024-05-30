@@ -64,6 +64,11 @@ export default defineUserConfig({
         sidebar: sidebarEn,
       },
     },
+    encrypt: {
+      config: {
+
+      }
+    },
     breadcrumbIcon: true,
     blog: {
       intro: 'https://chanhi2000.github.io',
@@ -167,7 +172,7 @@ export default defineUserConfig({
       prismjs: {
         light: "material-light",
         dark: "dracula"
-      }, 
+      }
       // backToTop: true,
     }
   }),

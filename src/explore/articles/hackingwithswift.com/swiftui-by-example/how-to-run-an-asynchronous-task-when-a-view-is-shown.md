@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to run an asynchronous task when a view is shown | SwiftUI by Example",
   "desc": "How to run an asynchronous task when a view is shown",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-run-an-asynchronous-task-when-a-view-is-shown",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -81,7 +81,8 @@ struct ContentView: View {
         }
         .task {
             do {
-                let url = URL(string: "https://www.hackingwithswift.com/samples/messages.json")!
+                let url = URL(string: "https://hackingwithswift.com/samples/messages.json")!
+
                 let (data, _) = try await URLSession.shared.data(from: url)
                 messages = try JSONDecoder().decode([Message].self, from: data)
             } catch {
@@ -158,16 +159,17 @@ By default, Swift tasks created using the `task()` modifier will run at the high
   "title": "How to control which view is shown when your app launches | SwiftUI by Example",
   "desc": "How to control which view is shown when your app launches",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-which-view-is-shown-when-your-app-launches.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
+
 ```component VPCard
 {
   "title": "How to control which NavigationSplitView column is shown in compact layouts | SwiftUI by Example",
   "desc": "How to control which NavigationSplitView column is shown in compact layouts",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-which-navigationsplitview-column-is-shown-in-compact-layouts.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -177,7 +179,7 @@ By default, Swift tasks created using the `task()` modifier will run at the high
   "title": "How to run some code when state changes using onChange() | SwiftUI by Example",
   "desc": "How to run some code when state changes using onChange()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-some-code-when-state-changes-using-onchange.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -187,7 +189,7 @@ By default, Swift tasks created using the `task()` modifier will run at the high
   "title": "How to show progress on a task using ProgressView | SwiftUI by Example",
   "desc": "How to show progress on a task using ProgressView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-progress-on-a-task-using-progressview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -197,7 +199,7 @@ By default, Swift tasks created using the `task()` modifier will run at the high
   "title": "How to run code when your app launches | SwiftUI by Example",
   "desc": "How to run code when your app launches",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-code-when-your-app-launches.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

@@ -32,8 +32,8 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-insert-im
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-insert-im
   "title": "Learn once, apply anywhere | SwiftUI by Example",
   "desc": "Learn once, apply anywhere",
   "link": "https://hackingwithswift.com/quick-start/swiftui/learn-once-apply-anywhere",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -68,7 +68,7 @@ Answering these questions – and answering them well! – is the key to buildin
   "title": "How to apply multiple animations to a view | SwiftUI by Example",
   "desc": "How to apply multiple animations to a view",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-apply-multiple-animations-to-a-view.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -78,7 +78,7 @@ Answering these questions – and answering them well! – is the key to buildin
   "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
   "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -88,7 +88,7 @@ Answering these questions – and answering them well! – is the key to buildin
   "title": "What is SwiftUI? | SwiftUI by Example",
   "desc": "What is SwiftUI?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-swiftui.md", 
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -98,7 +98,7 @@ Answering these questions – and answering them well! – is the key to buildin
   "title": "How to group views together | SwiftUI by Example",
   "desc": "How to group views together",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-group-views-together.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -108,7 +108,7 @@ Answering these questions – and answering them well! – is the key to buildin
   "title": "How to detect shake gestures | SwiftUI by Example",
   "desc": "How to detect shake gestures",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-shake-gestures.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

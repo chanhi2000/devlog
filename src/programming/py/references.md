@@ -127,6 +127,7 @@ tag:
 - [`johnloewen` / High Impact Python Streamlit: Beautiful Interactive Maps and Charts](https://johnloewen.substack.com/p/high-impact-python-streamlit-beautiful)
 - [`johnloewen` / Simple Interactive Python Streamlit Maps That Will Make You Shout](https://johnloewen.substack.com/p/simple-interactive-python-streamlit)
 - [`bitecode` / Python as a configuration language](https://www.bitecode.dev/p/python-as-a-configuration-language)
+- [`codingconfessions` / How Many Lines of C it Takes to Execute a + b in Python?](https://blog.codingconfessions.com/p/cpython-dynamic-dispatch-internals)
 
 ---
 
@@ -390,6 +391,7 @@ tag:
 
 ## Adam Johnson
 
+- [Python: Show all subclasses of a class](https://adamj.eu/tech/2024/05/10/python-all-subclasses/)
 - [Python Type Hints - `*args` and `**kwargs`](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs)
 - [Introducing `flake8-logging`](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging)
 
@@ -453,6 +455,7 @@ tag:
 
 ## Python⇒Speed
 
+- [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size)
 - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2)
 - [Beware of misleading GPU vs CPU benchmarks](https://pythonspeed.com/articles/gpu-vs-cpu/)
 - [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
@@ -630,7 +633,7 @@ tag:
 
 - [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
 - [컬럼에서 특정 값을 가진 행 삭제하는 Pandas 예제](https://webnautes.tistory.com/2299)
-- [pyQt5에서 libGL error: MESA-LOADER: failed to open 에러 발생시 해결방법입니다. ](https://webnautes.tistory.com/2302)
+- [pyQt5에서 libGL error: MESA-LOADER: failed to open 에러 발생시 해결방법입니다.](https://webnautes.tistory.com/2302)
 - [`qt.qpa.plugin`: Could not load the Qt platform plugin "xcb" 에러 해결 방법](https://webnautes.tistory.com/2303)
 - [pyQt5 - process에서 메시지 박스를 보여주는 예제](https://webnautes.tistory.com/2318)
 - [PyQt5 예제 - 단축키로 버튼 누르기](https://webnautes.tistory.com/2316)
@@ -647,7 +650,6 @@ tag:
 - [CoreNet으로 OpenELM 모델을 사용해보기](https://webnautes.tistory.com/2329)
 - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/1842)
 - [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/2328)
-- [`np.kron`를 사용하여 NumPy 배열을 확대하기](https://webnautes.tistory.com/2331)
 - [Python if문 내부에 있는 조건별로 주석 달기](https://webnautes.tistory.com/2333)
 - [OpenCV Python 마우스 이벤트 예제](https://webnautes.tistory.com/2334)
 - [PyQt5에서 윈도우의 모든 창 버튼(최소화, 최대화, 닫기)을 제거](https://webnautes.tistory.com/2335)
@@ -790,6 +792,8 @@ tag:
 
 ## mathspp
 
+- [5 ways to flatten a list of lists](https://mathspp.com/blog/5-ways-to-flatten-a-list-of-lists)
+- [Python's soft keywords](https://mathspp.com/blog/til/pythons-soft-keywords)
 - [`max` is broken](https://mathspp.com/blog/max-is-broken)
 - [TIL #096 – automatically push code changes during live coding](https://mathspp.com/blog/til/automatically-push-code-changes-during-live-coding)
 - [What is `*args` and how do you use it?](https://mathspp.com/blog/what-is-args-and-how-do-you-use-it?ref=sangkon.com)
@@ -960,6 +964,7 @@ tag:
 - [Python and TOML: New Best Friends – Real Python](https://realpython.com/python-toml/)
 - [How to Split a Python List or Iterable Into Chunks – Real Python](https://realpython.com/how-to-split-a-python-list-into-chunks/)
 - [How to Flush the Output of the Python Print Function – Real Python](https://realpython.com/python-flush-print-output/)
+- [Build a Hangman Game With Python and PySimpleGUI](https://realpython.com/hangman-python-pysimplegui/)
 
 ---
 
@@ -971,6 +976,7 @@ tag:
 
 ## Redowan's Reflections
 
+- [Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/)
 - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs)
 - [TypeIs does what I thought TypeGuard would do in Python](https://rednafi.com/python/typeguard_vs_typeis/)
 
@@ -1076,12 +1082,6 @@ tag:
 ## The Python Papers
 
 - [An Intro to Logging with Loguru](https://www.pythonpapers.com/p/an-intro-to-logging-with-loguru)
-
----
-
-## Adam Johnson
-
-- [Python: Show all subclasses of a class](https://adamj.eu/tech/2024/05/10/python-all-subclasses/)
 
 ---
 
@@ -1309,5 +1309,19 @@ tag:
 - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
 
 ---
+
+## Timescale
+
+- [A Beginner’s Guide to Vector Embeddings](https://www.timescale.com/blog/a-beginners-guide-to-vector-embeddings/)
+
+---
+
+## Wireframe · 숩은 아직 20대
+
+- [Textual 강좌 1 – App 구성하기](https://soooprmx.com/textual-%ea%b0%95%ec%a2%8c-1-app-%ea%b5%ac%ec%84%b1%ed%95%98%ea%b8%b0/)
+
+---
+
+
 
 <TagLinks />

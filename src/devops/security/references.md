@@ -47,7 +47,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
-- [13 Types of Cyber Attacks You Should Know in 2023](https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know)
+- [13 Types of Cyber Attacks You Should Know in 2023](https://freecodecamp.org/news/types-of-cyber-attacks-to-know)
 
 ---
 

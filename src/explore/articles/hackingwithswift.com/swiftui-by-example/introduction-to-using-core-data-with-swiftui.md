@@ -32,8 +32,8 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-enable-ve
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -46,7 +46,7 @@ prev: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-enable-ve
   "title": "Introduction to using Core Data with SwiftUI | SwiftUI by Example",
   "desc": "Introduction to using Core Data with SwiftUI",
   "link": "https://hackingwithswift.com/quick-start/swiftui/introduction-to-using-core-data-with-swiftui",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -77,7 +77,7 @@ So, we create a managed object context when the app launches, attach it to the e
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -87,7 +87,7 @@ So, we create a managed object context when the app launches, attach it to the e
   "title": "How to configure Core Data to work with SwiftUI | SwiftUI by Example",
   "desc": "How to configure Core Data to work with SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-configure-core-data-to-work-with-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -97,7 +97,7 @@ So, we create a managed object context when the app launches, attach it to the e
   "title": "How to delete Core Data objects from SwiftUI views | SwiftUI by Example",
   "desc": "How to delete Core Data objects from SwiftUI views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-delete-core-data-objects-from-swiftui-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -107,7 +107,7 @@ So, we create a managed object context when the app launches, attach it to the e
   "title": "How to add Core Data objects from SwiftUI views | SwiftUI by Example",
   "desc": "How to add Core Data objects from SwiftUI views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-core-data-objects-from-swiftui-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -117,7 +117,7 @@ So, we create a managed object context when the app launches, attach it to the e
   "title": "Introduction to accessibility with SwiftUI | SwiftUI by Example",
   "desc": "Introduction to accessibility with SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/introduction-to-accessibility-with-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

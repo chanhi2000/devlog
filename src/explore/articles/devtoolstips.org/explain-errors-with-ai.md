@@ -21,6 +21,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/explain-errors-with-ai.html
 prev: /tool/chrome/articles/README.md
+date: 2024-01-05
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,15 +43,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "Explain console errors by using artificial intelligence",
-  "desc": "Devtools Tips > Explain console errors by using artificial intelligence",
+  "title": "Explain console errors by using artificial intelligence | Devtools Tips",
+  "desc": "Explain console errors by using artificial intelligence",
   "link": "https://devtoolstips.org/tips/en/explain-errors-with-ai/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2024.01.05
 
 .<FontIcon icon="fa-brands fa-edge"/>Edge DevTools lets use the Microsoft Copilot AI assistant to explain errors and warnings in the **Console** tool.
 

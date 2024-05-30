@@ -19,6 +19,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/custom-object-formatters.html
 prev: /programming/js/articles/README.md
+date: 2023-08-23
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -66,8 +68,6 @@ prev: /programming/js/articles/README.md
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.08.23
 
 <!-- TODO:  작성 -->
 

@@ -44,5 +44,10 @@
     "desc": "ES6-like shorthand syntax for Elixir maps: `%{foo, bar} = map; IO.puts(foo)`",
     "officialSite": "",
     "topics": ["elixir", "es6", "map", "shorthand", "syntax"]
+  }, {
+    "repo": "googleapis/elixir-google-api",
+    "desc": "Elixir client libraries for accessing Google APIs.",
+    "officialSite": "https://hex.pm/users/google-cloud",
+    "topics": []
   }
 ]

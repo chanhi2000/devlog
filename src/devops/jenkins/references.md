@@ -15,7 +15,6 @@ tag:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -49,7 +48,7 @@ tag:
 ## Misc
 
 - [Clear Jenkins build history ( clear build yesterday )](https://superuser.com/questions/1418885/clear-jenkins-build-history-clear-build-yesterday)
-- [How To Build Android Apps with Jenkins](https://www.digitalocean.com/community/tutorials/how-to-build-android-apps-with-jenkins)
+- [How To Build Android Apps with Jenkins](https://digitalocean.com/community/tutorials/how-to-build-android-apps-with-jenkins)
 - [Jenkins and GIT Integration using SSH Key](https://www.geeksforgeeks.org/jenkins-and-git-integration-using-ssh-key)
 
 ---

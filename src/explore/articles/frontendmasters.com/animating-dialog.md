@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/animating-dialog.html
 prev: /programming/css/articles/README.md
+date: 2024-05-23
+isOriginal: false
+cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/animate-modal-thumb.jpg?w=1000&ssl=1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -43,8 +46,6 @@ prev: /programming/css/articles/README.md
   url="https://frontendmasters.com/news/animating-dialog/"
   logo="https://frontendmasters.com/favicon.ico"
   preview="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/animate-modal-thumb.jpg?w=1000&ssl=1"/>
-
-> 2024.05.23
 
 <!-- TODO: 작성 -->
 

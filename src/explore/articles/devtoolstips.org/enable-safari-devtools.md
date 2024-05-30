@@ -21,6 +21,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/enable-safari-devtools.html
 prev: /tool/safari/articles/README.md
+date: 2023-12-22
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,15 +43,13 @@ prev: /tool/safari/articles/README.md
 
 ```component VPCard
 {
-  "title": "Enable DevTools in Safari",
-  "desc": "Devtools Tips > Enable DevTools in Safari",
+  "title": "Enable DevTools in Safari | Devtools Tips",
+  "desc": "Enable DevTools in Safari",
   "link": "https://devtoolstips.org/tips/en/enable-safari-devtools/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.12.22
 
 Unlike other browsers, Safari hides its DevTools (and other developer-related features) by default. That's actually good because 99% of the people using the browser are probably not web developers.
 

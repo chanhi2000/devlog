@@ -27,6 +27,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-use-react-devtools.html
 prev: /programming/js-react/articles/README.md
+date: 2024-05-06
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/React-Devtools.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -48,11 +51,9 @@ prev: /programming/js-react/articles/README.md
 <SiteInfo
   name="How to Use React Developer Tools – Explained With Examples"
   desc="Traditional browser developer tools are designed to inspect and debug web pages by interacting with your HTML, CSS, and JavaScript code. However, you can't use them to inspect and debug React applications efficiently due to the nature of React. This is where the React Developer Tools, AKA React DevTools comes"
-  url="https://www.freecodecamp.org/news/how-to-use-react-devtools/"
+  url="https://freecodecamp.org/news/how-to-use-react-devtools/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/React-Devtools.png"/>
-
-> 2024.05.06
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/05/React-Devtools.png"/>
 
 <!-- TODO: 작성 -->
 

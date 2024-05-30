@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to dismiss the keyboard for a TextField | SwiftUI by Example",
   "desc": "How to dismiss the keyboard for a TextField",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -206,7 +206,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
   "title": "How to dismiss the keyboard when the user scrolls | SwiftUI by Example",
   "desc": "How to dismiss the keyboard when the user scrolls",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-dismiss-the-keyboard-when-the-user-scrolls.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -216,7 +216,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
   "title": "How to make a view dismiss itself | SwiftUI by Example",
   "desc": "How to make a view dismiss itself",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-view-dismiss-itself.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -226,7 +226,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
   "title": "How to add a toolbar to the keyboard | SwiftUI by Example",
   "desc": "How to add a toolbar to the keyboard",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-a-toolbar-to-the-keyboard.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -236,7 +236,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
   "title": "How to make a TextField expand vertically as the user types | SwiftUI by Example",
   "desc": "How to make a TextField expand vertically as the user types",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-textfield-expand-vertically-as-the-user-types.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -246,7 +246,7 @@ If you're using Xcode 12 you need to use `RoundedBorderTextFieldStyle()` rather 
   "title": "How to add keyboard shortcuts using keyboardShortcut() | SwiftUI by Example",
   "desc": "How to add keyboard shortcuts using keyboardShortcut()",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-keyboard-shortcuts-using-keyboardshortcut.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

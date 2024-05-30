@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to add an AppDelegate to a SwiftUI app | SwiftUI by Example",
   "desc": "How to add an AppDelegate to a SwiftUI app",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-add-an-appdelegate-to-a-swiftui-app",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -97,7 +97,7 @@ For push notifications, you should probably adjust the `delegate` property of `U
   "title": "How to add in-app purchases in SwiftUI | SwiftUI by Example",
   "desc": "How to add in-app purchases in SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-in-app-purchases-in-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -107,7 +107,7 @@ For push notifications, you should probably adjust the `delegate` property of `U
   "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
   "desc": "How to add Metal shaders to SwiftUI views using layer effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -117,7 +117,7 @@ For push notifications, you should probably adjust the `delegate` property of `U
   "title": "How to create a document-based app using FileDocument and DocumentGroup | SwiftUI by Example",
   "desc": "How to create a document-based app using FileDocument and DocumentGroup",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-document-based-app-using-filedocument-and-documentgroup.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -127,7 +127,7 @@ For push notifications, you should probably adjust the `delegate` property of `U
   "title": "How to add Core Data objects from SwiftUI views | SwiftUI by Example",
   "desc": "How to add Core Data objects from SwiftUI views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-core-data-objects-from-swiftui-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -137,7 +137,7 @@ For push notifications, you should probably adjust the `delegate` property of `U
   "title": "How to detect when your app moves to the background or foreground with scenePhase | SwiftUI by Example",
   "desc": "How to detect when your app moves to the background or foreground with scenePhase",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-when-your-app-moves-to-the-background-or-foreground-with-scenephase.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

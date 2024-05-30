@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/5-things-designers-can-do-with-javascript.html
 prev: /programming/js/articles/README.md
+date: 2024-05-08
+isOriginal: false
+cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/designer-thumb.jpg?w=1000&ssl=1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -43,8 +46,6 @@ prev: /programming/js/articles/README.md
   url="https://frontendmasters.com/news/5-things-designers-can-do-with-javascript/"
   logo="https://frontendmasters.com/favicon.ico"
   preview="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/designer-thumb.jpg?w=1000&ssl=1"/>
-
-> 2024.05.08
 
 <!-- TODO: 작성 -->
 

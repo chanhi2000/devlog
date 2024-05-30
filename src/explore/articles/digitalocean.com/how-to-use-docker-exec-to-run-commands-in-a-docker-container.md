@@ -22,6 +22,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/digitalocean.com/how-to-use-docker-exec-to-run-commands-in-a-docker-container.html
 prev: /devops/docker/articles/README.md
+date: 2024-04-26
+isOriginal: false
+cover: https://community-cdn-digitalocean-com.global.ssl.fastly.net/yJ67pogiR4KaaPcxbDSWkDw1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,8 +49,6 @@ prev: /devops/docker/articles/README.md
   url="https://digitalocean.com/community/tutorials/how-to-use-docker-exec-to-run-commands-in-a-docker-container"
   logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
   preview="https://community-cdn-digitalocean-com.global.ssl.fastly.net/yJ67pogiR4KaaPcxbDSWkDw1"/>
-
-> 2024.04.26
 
 <!-- TODO: 작성 -->
 

@@ -20,6 +20,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kt.academy/kfde-generics.html
 prev: /programming/java/articles/README.md
+date: 2024-03-18
+isOriginal: false
+cover: https://kt.academy/_next/image?url=https%3A%2F%2Fmarcinmoskala.com%2Fkotlin_essentials_book%2Fpromotion%2Fgenerics.jpg&w=384&q=75
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -44,8 +47,6 @@ prev: /programming/java/articles/README.md
   url="https://kt.academy/article/kfde-generics"
   logo="https://kt.academy/logo.png"
   preview="https://kt.academy/_next/image?url=https%3A%2F%2Fmarcinmoskala.com%2Fkotlin_essentials_book%2Fpromotion%2Fgenerics.jpg&w=384&q=75"/>
-
-> 2024.03.18
 
 <!-- TODO: 작성 -->
 

@@ -23,6 +23,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/engineering.linecorp.com/hello-armeria-bye-spring.html
 prev: /programming/java-spring/articles/README.md
+date: 2022-07-12
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -60,8 +62,6 @@ prev: /programming/java-spring/articles/README.md
   "background": "rgba(31,31,31,0.2)"
 }
 ```
-
-> 2022.07.12
 
 <!-- TODO: 작성 -->
 

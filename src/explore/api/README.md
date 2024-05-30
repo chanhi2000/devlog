@@ -50,29 +50,30 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
       text: "Github",
       link: "https://github.com/vuepress/awesome-vuepress",
       type: "default"
-    }
-  ]'
-/>
-
-<VPBanner
-  title="Icon support | vuepress-theme-hope"
-  content="The entire theme adds FontClass format icon support in mutiple places."
-  logo="https://camo.githubusercontent.com/90bf37fe9d5d8c1367ef1530868ef8998230bfbdbf831d2f82602d5fc8830c48/68747470733a2f2f7468656d652d686f70652d6173736574732e7675656a732e70726573732f6c6f676f2e737667"
-  :actions='[
-    {
-      text: "Visit Now",
+    }, {
+      text: "Icon support",
       link: "https://vuepress-theme-hope.gitee.io/v1/guide/interface/icon.html#featured-icons"
     }, {
-      text: "Github",
-      link: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
+      text: "Markdown Enhance",
+      link: "https://plugin-md-enhance.vuejs.press/",
       type: "default"
-    }
+    }, {
+      text: "VuePress Theme Hope",
+      link: "https://theme-hope.vuejs.press/"
+    }, 
   ]'
 />
 
 ::: tabs
 
 @tab:active Programming Tools - General
+
+<SiteInfo
+  name="delve"
+  desc="Go down rabbit holes"
+  url="https://delve.a9.io/"
+  logo="https://delve.a9.io/logo.svg"
+  preview="https://delve.a9.io/card.png"/>
 
 ```component VPCard
 {
@@ -317,7 +318,19 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
-- https://icons.getbootstrap.com
+<SiteInfo
+  name="Material Symbols & Icons - Google Fonts"
+  desc="Material Symbols are our newest icons consolidating over 2,500 glyphs in a single font file with a wide range of design variants."
+  url="https://fonts.google.com/icons"
+  logo="https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg"
+  preview="https://www.gstatic.com/images/icons/material/apps/fonts/1x/material-symbols/material_symbols.jpg"/>
+
+<SiteInfo
+  name="Bootstrap Icons · Official open source SVG icon library for Bootstrap"
+  desc="Official open source SVG icon library for Bootstrap"
+  url="https://icons.getbootstrap.com/"
+  logo="https://icons.getbootstrap.com/assets/img/favicons/apple-touch-icon.png"
+  preview="https://icons.getbootstrap.com/assets/img/bootstrap-icons-social.png"/>
 
 ```component VPCard
 {
@@ -433,6 +446,38 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "link": "https://www.pdfequips.com/",
   "logo": "https://www.pdfequips.com/images/icons/android-icon-192x192.png",
   "background": "rgba(252,39,28,0.2)"
+}
+```
+
+<SiteInfo
+  name="Illustrations | unDraw"
+  desc="The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free."
+  url="https://undraw.co/illustrations"
+  logo="https://undraw.co/favicon.ico"
+  preview="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/v2/undraw_social_20.png"/>
+
+<SiteInfo
+  name="Hero Patterns | Free repeatable SVG background patterns for your web projects"
+  desc="A collection of free repeatable SVG background patterns for you to use on your digital projects."
+  url="https://heropatterns.com/"
+  preview="https://heropatterns.com/img/twitter-preview.png"/>
+
+```component VPCard
+{
+  "title": "Noun Project: Free Icons & Stock Photos for Everything",
+  "desc": "Noun Project has the most diverse collection of free icons and stock photos. Download SVG and PNG. Over 5 million art-quality icons and free photos.",
+  "link": "https://thenounproject.com/",
+  "logo": "https://thenounproject.com/apple-touch-icon.png",
+  "background": "rgba(19,21,31,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Math API",
+  "desc": "Place LaTeX Math Equation on anywhere as img tag",
+  "link": "https://math.vercel.app/home",
+  "background": "rgba(86,16,245,0.2)"
 }
 ```
 
@@ -834,6 +879,33 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Pattern Monster - SVG Pattern Generator",
+  "desc": "A simple online pattern generator to create repeatable SVG patterns. Perfect for website backgrounds, apparel, branding, packaging design and more.",
+  "link": "https://pattern.monster/",
+  "logo": "https://pattern.monster/favicon.png",
+  "background": "rgba(128,90,213,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Webflow CSS Playground",
+  "desc": "Build with the power of code — without writing any",
+  "link": "http://playground.webflow.com/",
+  "logo": "http://playground.webflow.com/favicon.ico",
+  "background": "rgba(51,51,51,0.2)"
+}
+```
+
+<SiteInfo
+  name="tldraw"
+  desc="A free and instant collaborative diagramming tool."
+  url="https://www.tldraw.com/"
+  logo="https://www.tldraw.com/favicon.svg"
+  preview="https://www.tldraw.com/social-og.png"/>
+
 <!-- @end Design & Image -->
 
 @tab Geospatial
@@ -1204,6 +1276,14 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+<SiteInfo
+  name="Home - Fluent 2 Design System"
+  desc="Explore the next evolution of Microsoft’s design system, enabling more seamless collaboration and creativity than ever. Move fluidly from design to development, between apps, and across platforms."
+  url="https://fluent2.microsoft.design/"
+  logo="https://fluent2.microsoft.design/favicons/favicon.ico"
+  preview="https://fluent2websitecdn.azureedge.net/cdn/fluent-logo-metadata.sGvv_Be1.png"/>
+
+<!-- @end Documentation -->
 
 @tab Regex
 

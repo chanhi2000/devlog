@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "Basic form design | SwiftUI by Example",
   "desc": "Basic form design",
   "link": "https://hackingwithswift.com/quick-start/swiftui/basic-form-design",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -107,7 +107,7 @@ You can have as many rows in your form as you need, but remember to use `Group` 
   "title": "How to align form text and controls neatly with LabeledContent | SwiftUI by Example",
   "desc": "How to align form text and controls neatly with LabeledContent",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-align-form-text-and-controls-neatly-with-labeledcontent.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -117,7 +117,7 @@ You can have as many rows in your form as you need, but remember to use `Group` 
   "title": "Showing and hiding form rows | SwiftUI by Example",
   "desc": "Showing and hiding form rows",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/showing-and-hiding-form-rows.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -127,7 +127,7 @@ You can have as many rows in your form as you need, but remember to use `Group` 
   "title": "How to fix a Form Picker or a NavigationLink that isn't tappable | SwiftUI by Example",
   "desc": "How to fix a Form Picker or a NavigationLink that isn't tappable",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-a-form-picker-or-a-navigationlink-that-isnt-tappable.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -137,7 +137,7 @@ You can have as many rows in your form as you need, but remember to use `Group` 
   "title": "SwiftUI by Example - What's in the basic template?",
   "desc": "What's in the basic template?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-in-the-basic-template.html",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -147,7 +147,7 @@ You can have as many rows in your form as you need, but remember to use `Group` 
   "title": "How to create basic animations | SwiftUI by Example",
   "desc": "How to create basic animations",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-basic-animations.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

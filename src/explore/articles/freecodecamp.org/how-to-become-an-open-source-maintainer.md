@@ -25,6 +25,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-create-a-react-chatbot.html
 prev: /devops/github/articles/README.md
+date: 2024-05-20
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/fcc_maintain.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,11 +49,9 @@ prev: /devops/github/articles/README.md
 <SiteInfo
   name="How to Become an Open Source Project Maintainer"
   desc="You might be wondering why you would want to become an open source maintainer.  Well, I can tell you from my own experience that you'll learn a lot, grow your network, and meet and collaborate with people you wouldn’t have the opportunity to otherwise.  It also helps you..."
-  url="https://www.freecodecamp.org/news/how-to-create-a-react-chatbot/"
+  url="https://freecodecamp.org/news/how-to-create-a-react-chatbot/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/fcc_maintain.png"/>
-
-> 2024.05.20
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/fcc_maintain.png"/>
 
 <!-- TODO: 작성 -->
 

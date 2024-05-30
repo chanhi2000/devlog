@@ -664,8 +664,8 @@ https://gracefullight.dev/archive/
 {
   "title": "Popit | 전문 지식 공유를 위한 팀블로그",
   "desc": "전문 지식 공유를 위한 팀블로그",
-  "link": "https://www.popit.kr/page/1",
-  "logo": "https://www.popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
+  "link": "https://popit.kr/page/1",
+  "logo": "https://popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
   "background": "rgba(0,21,41,0.2)"
 }
 ```
@@ -768,7 +768,9 @@ https://gracefullight.dev/archive/
 }
 ```
 
-@tab Data Science
+<!-- @end App -->
+
+@tab <FontIcon icon="fas fa-database"/>Data Science
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog)
 - [Data Science Central](https://www.datasciencecentral.com)
@@ -784,7 +786,7 @@ https://gracefullight.dev/archive/
 - [inside BIGDATA](https://insidebigdata.com)
 - [Analytics Insight](https://www.analyticsinsight.net/category/latest-news)
 
-@tab Community
+@tab <FontIcon icon="fas fa-comments"/>Community
 
 ```component VPCard
 {
@@ -876,7 +878,9 @@ https://gracefullight.dev/archive/
 }
 ```
 
-@tab Hackerthon
+<!-- @end Community -->
+
+@tab <FontIcon icon="fas fa-person-running"/>Hackerthon
 
 ```component VPCard
 {
@@ -928,6 +932,8 @@ https://gracefullight.dev/archive/
 }
 ```
 
+<!-- @end Hackathon -->
+
 @tab Misc.
 
 ```component VPCard
@@ -960,6 +966,15 @@ https://gracefullight.dev/archive/
 }
 ```
 
+```component VPCard
+{
+  "title": "기백이의 맥가이버",
+  "desc": "기백이의 맥가이버",
+  "link": "http://www.macguyver.co.kr/",
+  "logo": "http://www.macguyver.co.kr/favicon.ico",
+  "background": "rgba(69,153,164,0.2)"
+}
+```
 :::
 
 https://woowacon.com/presentations

@@ -19,6 +19,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/smashingmagazine.com/beyond-css-media-queries.html
 prev: /programming/css/articles/README.md
+date: 2024-05-16
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,8 +48,6 @@ prev: /programming/css/articles/README.md
   "background": "rgba(211,58,44,0.2)"
 }
 ```
-
-> 2024.05.16
 
 <!-- TODO: 작성 -->
 

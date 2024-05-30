@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to create a custom layout using the Layout protocol | SwiftUI by Example",
   "desc": "How to create a custom layout using the Layout protocol",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-create-a-custom-layout-using-the-layout-protocol",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ My book Pro SwiftUI goes into a lot more detail on custom layouts, including Swi
   "title": "How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements” | SwiftUI by Example",
   "desc": "How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements”",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-protocol-view-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -141,7 +141,7 @@ My book Pro SwiftUI goes into a lot more detail on custom layouts, including Swi
   "title": "How to create and compose custom views | SwiftUI by Example",
   "desc": "How to create and compose custom views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-and-compose-custom-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -151,7 +151,7 @@ My book Pro SwiftUI goes into a lot more detail on custom layouts, including Swi
   "title": "How to create a custom transition | SwiftUI by Example",
   "desc": "How to create a custom transition",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-transition.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -161,7 +161,7 @@ My book Pro SwiftUI goes into a lot more detail on custom layouts, including Swi
   "title": "How to create custom animated drawings with TimelineView and Canvas | SwiftUI by Example",
   "desc": "How to create custom animated drawings with TimelineView and Canvas",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-custom-animated-drawings-with-timelineview-and-canvas.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -171,7 +171,7 @@ My book Pro SwiftUI goes into a lot more detail on custom layouts, including Swi
   "title": "How to create custom bindings | SwiftUI by Example",
   "desc": "How to create custom bindings",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-custom-bindings.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

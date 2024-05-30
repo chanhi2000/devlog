@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "Building a menu using List | SwiftUI by Example",
   "desc": "Building a menu using List",
   "link": "https://hackingwithswift.com/quick-start/swiftui/building-a-menu-using-list",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -247,7 +247,7 @@ By default SwiftUI's lists use the “inset grouped” style of `UITableView`, b
   "title": "How to show a menu when a button is pressed | SwiftUI by Example",
   "desc": "How to show a menu when a button is pressed",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-menu-when-a-button-is-pressed.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -257,7 +257,7 @@ By default SwiftUI's lists use the “inset grouped” style of `UITableView`, b
   "title": "How to let users pick options from a menu | SwiftUI by Example",
   "desc": "How to let users pick options from a menu",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-pick-options-from-a-menu.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -267,7 +267,7 @@ By default SwiftUI's lists use the “inset grouped” style of `UITableView`, b
   "title": "How to show a context menu | SwiftUI by Example",
   "desc": "How to show a context menu",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-context-menu.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -276,8 +276,8 @@ By default SwiftUI's lists use the “inset grouped” style of `UITableView`, b
 {
   "title": "SwiftUI tutorial: Building a complete project | SwiftUI by Example",
   "desc": "SwiftUI tutorial: Building a complete project",
-  "link": "https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "link": "https://hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -287,7 +287,7 @@ By default SwiftUI's lists use the “inset grouped” style of `UITableView`, b
   "title": "How to allow row selection in a list | SwiftUI by Example",
   "desc": "How to allow row selection in a list",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-allow-row-selection-in-a-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

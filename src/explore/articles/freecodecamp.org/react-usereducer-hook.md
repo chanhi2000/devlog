@@ -27,6 +27,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/react-usereducer-hook.html
 prev: /programming/js-react/articles/README.md
+date: 2024-05-03
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/Introduction-to-useReducer-Hook.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -48,11 +51,9 @@ prev: /programming/js-react/articles/README.md
 <SiteInfo
   name="How to Use the useReducer Hook in React"
   desc="In this article, we'll take a deep look at the useReducer hook in React. It can look confusing, especially if you are coming across the hook for the first time. This article breaks down the useReducer hook concept into understandable bits with both code and real-world examples to enable you"
-  url="https://www.freecodecamp.org/news/react-usereducer-hook/"
+  url="https://freecodecamp.org/news/react-usereducer-hook/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/Introduction-to-useReducer-Hook.png"/>
-
-> 2024.05.03
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/05/Introduction-to-useReducer-Hook.png"/>
 
 <!-- TODO: 작성 -->
 

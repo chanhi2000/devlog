@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to combine transitions | SwiftUI by Example",
   "desc": "How to combine transitions",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-combine-transitions",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -124,7 +124,7 @@ struct ContentView: View {
   "title": "How to create asymmetric transitions | SwiftUI by Example",
   "desc": "How to create asymmetric transitions",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-asymmetric-transitions.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -134,7 +134,7 @@ struct ContentView: View {
   "title": "How to combine text views together | SwiftUI by Example",
   "desc": "How to combine text views together",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-text-views-together.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -144,7 +144,7 @@ struct ContentView: View {
   "title": "How to combine shapes to create new shapes | SwiftUI by Example",
   "desc": "How to combine shapes to create new shapes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-combine-shapes-to-create-new-shapes.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -154,7 +154,7 @@ struct ContentView: View {
   "title": "How to create a custom transition | SwiftUI by Example",
   "desc": "How to create a custom transition",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-custom-transition.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -164,7 +164,7 @@ struct ContentView: View {
   "title": "How to become a SwiftUI expert | SwiftUI by Example",
   "desc": "How to become a SwiftUI expert",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-become-a-swiftui-expert.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

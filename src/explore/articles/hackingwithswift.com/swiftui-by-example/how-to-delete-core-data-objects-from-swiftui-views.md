@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to delete Core Data objects from SwiftUI views | SwiftUI by Example",
   "desc": "How to delete Core Data objects from SwiftUI views",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-delete-core-data-objects-from-swiftui-views",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -125,7 +125,7 @@ Just adding an `onDelete()` modifier is enough to get swipe to delete on your ta
   "title": "Observable objects, environment objects, and @Published | SwiftUI by Example",
   "desc": "Observable objects, environment objects, and @Published",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/observable-objects-environment-objects-and-published.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -135,7 +135,7 @@ Just adding an `onDelete()` modifier is enough to get swipe to delete on your ta
   "title": "How to add Core Data objects from SwiftUI views | SwiftUI by Example",
   "desc": "How to add Core Data objects from SwiftUI views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-core-data-objects-from-swiftui-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -145,7 +145,7 @@ Just adding an `onDelete()` modifier is enough to get swipe to delete on your ta
   "title": "How to let users delete rows from a list | SwiftUI by Example",
   "desc": "How to let users delete rows from a list",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-delete-rows-from-a-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -155,7 +155,7 @@ Just adding an `onDelete()` modifier is enough to get swipe to delete on your ta
   "title": "Adding swipe to delete and EditButton | SwiftUI by Example",
   "desc": "Adding swipe to delete and EditButton",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-swipe-to-delete-and-editbutton.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -165,7 +165,7 @@ Just adding an `onDelete()` modifier is enough to get swipe to delete on your ta
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

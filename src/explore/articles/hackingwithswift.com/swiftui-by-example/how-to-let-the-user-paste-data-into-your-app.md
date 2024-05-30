@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to let the user paste data into your app | SwiftUI by Example",
   "desc": "How to let the user paste data into your app",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-let-the-user-paste-data-into-your-app",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -91,7 +91,7 @@ Given that `TextField` has its own cut, copy, and paste menu options, I think `P
   "title": "How to let the user select multiple dates | SwiftUI by Example",
   "desc": "How to let the user select multiple dates",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-the-user-select-multiple-dates.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -101,7 +101,7 @@ Given that `TextField` has its own cut, copy, and paste menu options, I think `P
   "title": "How to ask the user to review your app | SwiftUI by Example",
   "desc": "How to ask the user to review your app",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-ask-the-user-to-review-your-app.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -111,7 +111,7 @@ Given that `TextField` has its own cut, copy, and paste menu options, I think `P
   "title": "How to let users edit your navigation title | SwiftUI by Example",
   "desc": "How to let users edit your navigation title",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-edit-your-navigation-title.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -121,7 +121,7 @@ Given that `TextField` has its own cut, copy, and paste menu options, I think `P
   "title": "How to run code when your app launches | SwiftUI by Example",
   "desc": "How to run code when your app launches",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-code-when-your-app-launches.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -131,7 +131,7 @@ Given that `TextField` has its own cut, copy, and paste menu options, I think `P
   "title": "Breaking forms into sections | SwiftUI by Example",
   "desc": "Breaking forms into sections",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/breaking-forms-into-sections.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

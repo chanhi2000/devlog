@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to let users share content using the system share sheet | SwiftUI by Example",
   "desc": "How to let users share content using the system share sheet",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-let-users-share-content-using-the-system-share-sheet",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -59,7 +59,8 @@ SwiftUI's `ShareLink` view makes it easy to share any kind of data from your app
 By default you get a simple “Share” label with the appropriate icon, but you can also provide your own title text, or an entirely custom label:
 
 ```swift
-let link = URL(string: "https://www.hackingwithswift.com")!
+let link = URL(string: "https://hackingwithswift.com")!
+
 
 VStack(spacing: 20) {
     ShareLink(item: link)
@@ -75,7 +76,8 @@ VStack(spacing: 20) {
 If you want to attach some extra text to the content you're sharing, there's a `message` parameter to do just that:
 
 ```swift
-let link = URL(string: "https://www.hackingwithswift.com")!
+let link = URL(string: "https://hackingwithswift.com")!
+
 ShareLink(item: link, message: Text("Learn Swift here!"))
 ```
 
@@ -106,7 +108,7 @@ VStack {
   "title": "How to display a bottom sheet | SwiftUI by Example",
   "desc": "How to display a bottom sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-a-bottom-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -116,7 +118,7 @@ VStack {
   "title": "How to prevent a sheet from being dismissed with a swipe | SwiftUI by Example",
   "desc": "How to prevent a sheet from being dismissed with a swipe",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-prevent-a-sheet-from-being-dismissed-with-a-swipe.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -126,7 +128,7 @@ VStack {
   "title": "How to let users import videos using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users import videos using PhotosPicker",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-import-videos-using-photospicker.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -136,7 +138,7 @@ VStack {
   "title": "How to show an action sheet | SwiftUI by Example",
   "desc": "How to show an action sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-an-action-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -146,7 +148,7 @@ VStack {
   "title": "How to let users select pictures using PhotosPicker | SwiftUI by Example",
   "desc": "How to let users select pictures using PhotosPicker",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-select-pictures-using-photospicker.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

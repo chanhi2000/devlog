@@ -50,10 +50,17 @@ head:
 
 ---
 
-## Be an Overachiever 
+## Be an Overachiever
 
 - [ROC Curve](https://devs0n.tistory.com/170)
 
 ---
+
+## Assembled | Modern Workforce Management
+
+- [Better RAG results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
+
+---
+
 
 <TagLinks />

@@ -27,6 +27,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/inspect-debug-iframes.html
 prev: /tool/chrome/articles/README.md
+date: 2023-05-21
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -67,15 +69,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "Inspect and debug iframes",
-  "desc": "Devtools Tips > Inspect and debug iframes",
+  "title": "Inspect and debug iframes | Devtools Tips",
+  "desc": "Inspect and debug iframes",
   "link": "https://devtoolstips.org/tips/en/inspect-debug-iframes/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.05.21
 
 <!-- TODO:  작성 -->
 

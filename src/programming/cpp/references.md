@@ -45,10 +45,9 @@ tag:
 - [`@jwlee010523` / 인터페이스(Interface)](https://velog.io/@jwlee010523/Interface)
 - [`@jwlee010523` / 프렌드(friend) 키워드](https://velog.io/@jwlee010523/friend)
 - [`@jwlee010523` / 예외 처리(Exception handling)](https://velog.io/@jwlee010523/exception-handling)
-
+- [`@jwlee010523` / 연산자 오버로딩(Operator Overloading)](https://velog.io/@jwlee010523/Operator-Overloading)
 
 ---
-
 
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
@@ -185,6 +184,7 @@ tag:
 - [[백준 1039번] 교환](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1039%EB%B2%88-%EA%B5%90%ED%99%98)
 - [[백준 1022번] 소용돌이 예쁘게 출력하기](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1022%EB%B2%88-%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4-%EC%98%88%EC%81%98%EA%B2%8C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
 - [\[백준 15989번\] 1, 2, 3, 더하기 4](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-15989%EB%B2%88-1-2-3-%EB%8D%94%ED%95%98%EA%B8%B0-4)
+- [\[백준 2417번\] 정수 제곱근](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-2417%EB%B2%88-%EC%A0%95%EC%88%98-%EC%A0%9C%EA%B3%B1%EA%B7%BC)
 
 ---
 

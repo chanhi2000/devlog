@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to run some code when state changes using onChange() | SwiftUI by Example",
   "desc": "How to run some code when state changes using onChange()",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-run-some-code-when-state-changes-using-onchange",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -164,7 +164,7 @@ That being said, please be sure to run your code through Instruments if you do t
   "title": "How to run code when your app launches | SwiftUI by Example",
   "desc": "How to run code when your app launches",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-code-when-your-app-launches.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -174,7 +174,7 @@ That being said, please be sure to run your code through Instruments if you do t
   "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
   "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -184,7 +184,7 @@ That being said, please be sure to run your code through Instruments if you do t
   "title": "How to use @ObservedObject to manage state from external objects | SwiftUI by Example",
   "desc": "How to use @ObservedObject to manage state from external objects",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-observedobject-to-manage-state-from-external-objects.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -194,7 +194,7 @@ That being said, please be sure to run your code through Instruments if you do t
   "title": "How to send state updates manually using objectWillChange | SwiftUI by Example",
   "desc": "How to send state updates manually using objectWillChange",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-send-state-updates-manually-using-objectwillchange.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -204,7 +204,7 @@ That being said, please be sure to run your code through Instruments if you do t
   "title": "How to fix “Modifying state during view update, this will cause undefined behavior” | SwiftUI by Example",
   "desc": "How to fix “Modifying state during view update, this will cause undefined behavior”",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-modifying-state-during-view-update-this-will-cause-undefined-behavior.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

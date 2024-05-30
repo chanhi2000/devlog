@@ -23,6 +23,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/douggregor.net/swift-for-cpp-practitioners-2.html
 prev: /programming/swift/articles/README.md
+date: 2024-02-10
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -59,8 +61,6 @@ prev: /programming/swift/articles/README.md
   "background": "rgba(22,22,22,0.2)"
 }
 ```
-
-> 2024.02.10
 
 In our first episode, we talked a lot about value types. In general, you should prefer value types in Swift whenever you can.
 

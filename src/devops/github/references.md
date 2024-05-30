@@ -161,4 +161,8 @@ tag:
 
 ---
 
+## iOYES
+
+- [GitHub - Auto Assign 사용하기](https://green1229.tistory.com/477)
+
 <TagLinks />

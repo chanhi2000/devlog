@@ -141,9 +141,19 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "사용자 친화적인 쿠버네티스 API 활용 툴 개발기 | 요즘IT",
+  "desc": "사용자 친화적인 쿠버네티스 API 활용 툴 개발기",
+  "link": "/explore/articles/yozm.wishket.com/2610.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 ---
 
-## DigitalOcean | Cloud Infrastructure for Developers
+## <FontIcon icon="fa-brands fa-digital-ocean"/>DigitalOcean | Cloud Infrastructure for Developers
 
 > digitalocean.com
 

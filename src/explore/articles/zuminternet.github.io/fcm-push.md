@@ -24,6 +24,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/zuminternet.github.io/fcm-push.html
 prev: /programming/java-spring/articles/README.md
+date: 2023-07-06
+isOriginal: false
+cover: https://zuminternet.github.io/images/portal/post/2023-02-06-FCM-PUSH/thumbnail.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -58,8 +61,6 @@ prev: /programming/java-spring/articles/README.md
   url="https://zuminternet.github.io/FCM-PUSH/"
   logo="https://zuminternet.github.io/favicon.ico"
   preview="https://zuminternet.github.io/images/portal/post/2023-02-06-FCM-PUSH/thumbnail.png"/>
-
-> 2023.07.06
 
 <!-- TODO:  작성 -->
 

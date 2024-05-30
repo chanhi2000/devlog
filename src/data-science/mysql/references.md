@@ -110,7 +110,7 @@ head:
 
 ## Popit | 전문 지식 공유를 위한 팀블로그
 
-- [Presto를 이용하여 Google Sheets와 mysql 등 DB 데이터 JOIN 하기](https://www.popit.kr/presto%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%97%ac-google-sheets%ec%99%80-mysql-%eb%93%b1-db-%eb%8d%b0%ec%9d%b4%ed%84%b0-join-%ed%95%98%ea%b8%b0/)
+- [Presto를 이용하여 Google Sheets와 mysql 등 DB 데이터 JOIN 하기](https://popit.kr/presto%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%97%ac-google-sheets%ec%99%80-mysql-%eb%93%b1-db-%eb%8d%b0%ec%9d%b4%ed%84%b0-join-%ed%95%98%ea%b8%b0/)
 
 ---
 

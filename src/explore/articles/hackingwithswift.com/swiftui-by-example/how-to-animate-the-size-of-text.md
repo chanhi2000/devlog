@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to animate the size of text | SwiftUI by Example",
   "desc": "How to animate the size of text",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-animate-the-size-of-text",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -184,7 +184,7 @@ I first saw this technique applied in [<FontIcon icon="fa-brands fa-apple"/>Appl
   "title": "How to animate changes in binding values | SwiftUI by Example",
   "desc": "How to animate changes in binding values",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-changes-in-binding-values.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -194,7 +194,7 @@ I first saw this technique applied in [<FontIcon icon="fa-brands fa-apple"/>Appl
   "title": "How to animate SF Symbols | SwiftUI by Example",
   "desc": "How to animate SF Symbols",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-animate-sf-symbols.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -204,7 +204,7 @@ I first saw this technique applied in [<FontIcon icon="fa-brands fa-apple"/>Appl
   "title": "How to make a fixed size Spacer | SwiftUI by Example",
   "desc": "How to make a fixed size Spacer",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-fixed-size-spacer.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -214,7 +214,7 @@ I first saw this technique applied in [<FontIcon icon="fa-brands fa-apple"/>Appl
   "title": "How to automatically switch between HStack and VStack based on size class | SwiftUI by Example",
   "desc": "How to automatically switch between HStack and VStack based on size class",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-automatically-switch-between-hstack-and-vstack-based-on-size-class.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -224,7 +224,7 @@ I first saw this technique applied in [<FontIcon icon="fa-brands fa-apple"/>Appl
   "title": "How to create different layouts using size classes | SwiftUI by Example",
   "desc": "How to create different layouts using size classes",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-different-layouts-using-size-classes.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

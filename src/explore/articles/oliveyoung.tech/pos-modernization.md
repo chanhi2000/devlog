@@ -20,6 +20,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/oliveyoung.tech/pos-modernization.html
 prev: /explore/system-design/articles/README.md
+date: 2024-04-19
+isOriginal: false
+cover: https://oliveyoung.tech/static/65b5b4889394058c8e64ccc1b0904fe0/2b8b0/banner.webp
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -44,8 +47,6 @@ prev: /explore/system-design/articles/README.md
   url="https://oliveyoung.tech/blog/2024-04-19/pos-modernization/"
   logo="https://oliveyoung.tech/favicon-32x32.png?v=a4b11f19c0d38aff2ebd465d8801cd2d"
   preview="https://oliveyoung.tech/static/65b5b4889394058c8e64ccc1b0904fe0/2b8b0/banner.webp"/>
-
-> 2024.04.19
 
 <!-- TODO: 작성 -->
 

@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches.html
 prev: /programming/git/articles/README.md
+date: 2024-04-30
+isOriginal: false
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UT8LMo-wlyk/upload/c907bdb799b1331e27dd68f35a2b2e25.jpeg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -40,11 +43,9 @@ prev: /programming/git/articles/README.md
 <SiteInfo
   name="Git Checkout Remote Branch – How to Fetch and List Remote Branches"
   desc="You can use branches in Git to work on different features without affecting your main codebase. For example, you can experiment with a new layout for your webpage on a different branch without affecting the main branch where your website is being dep..."
-  url="https://www.freecodecamp.org/news/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches/"
+  url="https://freecodecamp.org/news/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UT8LMo-wlyk/upload/c907bdb799b1331e27dd68f35a2b2e25.jpeg"/>
-
-> 2024.04.30
 
 <!-- TODO: 작성 -->
 

@@ -22,6 +22,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kt.academy/network-client-threads.html
 prev: /programming/java/articles/README.md
+date: 2024-05-13
+isOriginal: false
+cover: https://kt.academy/_next/image?url=https%3A%2F%2Fmarcinmoskala.com%2Fkt-academy-articles%2Fpromotion%2Fnetwork-client-threads.jpg&w=576&q=75
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,8 +49,6 @@ prev: /programming/java/articles/README.md
   url="https://kt.academy/article/network_client_threads"
   logo="https://kt.academy/logo.png"
   preview="https://kt.academy/_next/image?url=https%3A%2F%2Fmarcinmoskala.com%2Fkt-academy-articles%2Fpromotion%2Fnetwork-client-threads.jpg&w=576&q=75"/>
-
-> 2024.05.13
 
 <!-- TODO: 작성 -->
 

@@ -26,6 +26,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/zuminternet.github.io/real-estate-data-visualization.html
 prev: /programming/js-react/articles/README.md
+date: 2023-03-18
+isOriginal: false
+cover: https://zuminternet.github.io/images/front/post/2023-05-18-real-estate-data-visualization/thumbnail.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,8 +53,6 @@ prev: /programming/js-react/articles/README.md
   url="https://zuminternet.github.io/real-estate-data-visualization/"
   logo="https://zuminternet.github.io/favicon.ico"
   preview="https://zuminternet.github.io/images/front/post/2023-05-18-real-estate-data-visualization/thumbnail.png"/>
-
-> 2023.03.18
 
 <!-- TODO:  작성 -->
 

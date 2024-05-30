@@ -30,6 +30,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/highlight-elements-from-selector.html
 prev: /tool/chrome/articles/README.md
+date: 2023-09-08
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -70,15 +72,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "Highlight all elements on the page that match a given CSS selector",
-  "desc": "Devtools Tips > Highlight all elements on the page that match a given CSS selector",
+  "title": "Highlight all elements on the page that match a given CSS selector | Devtools Tips",
+  "desc": "Highlight all elements on the page that match a given CSS selector",
   "link": "https://devtoolstips.org/tips/en/highlight-elements-from-selector/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.09.08
 
 When you select an element in DevTools (in the **Elements** or **Inspector** tool), you see the CSS rules that apply to it. But, these rules can also apply to other elements in the page than the currently selected one.
 

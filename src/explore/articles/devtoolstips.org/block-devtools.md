@@ -30,6 +30,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/block-devtools.html
 prev: /tool/chrome/articles/README.md
+date: 2023-12-22
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -77,8 +79,6 @@ prev: /tool/chrome/articles/README.md
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.12.22
 
 There are two levels to consider when talking about blocking (or disabling) DevTools in a browser:
 

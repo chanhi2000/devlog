@@ -19,6 +19,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/using-the-popover-api-for-html-tooltips.html
 prev: /programming/css/articles/README.md
+date: 2024-05-06
+isOriginal: false
+cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/04/popup-thumb.jpg?w=1000&ssl=1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -43,8 +46,6 @@ prev: /programming/css/articles/README.md
   url="https://frontendmasters.com/news/using-the-popover-api-for-html-tooltips/"
   logo="https://frontendmasters.com/favicon.ico"
   preview="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/04/popup-thumb.jpg?w=1000&ssl=1"/>
-
-> 2024.05.06
 
 <!-- TODO: 작성 -->
 

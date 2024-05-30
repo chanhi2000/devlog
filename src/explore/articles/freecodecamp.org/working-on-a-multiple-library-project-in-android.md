@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/working-on-a-multiple-library-project-in-android.html
 prev: /programming/java-android/articles/README.md
+date: 2024-04-27
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/04/sandy-millar-5PCeHBkMCmk-unsplash.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -52,11 +55,9 @@ prev: /programming/java-android/articles/README.md
 <SiteInfo
   name="How to Work on a Multi-Library Project in Android – Locally and Remotely"
   desc="In this article, we're going to talk about multi-library projects in Android. It's not something ordinary, but not something out of the ordinary either.  You may have come across multi-library projects in your line of work, or you may be looking into converting your library into sub-modules for better..."
-  url="https://www.freecodecamp.org/news/working-on-a-multiple-library-project-in-android/"
+  url="https://freecodecamp.org/news/working-on-a-multiple-library-project-in-android/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/04/sandy-millar-5PCeHBkMCmk-unsplash.jpg"/>
-
-> 2024.04.27
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/04/sandy-millar-5PCeHBkMCmk-unsplash.jpg"/>
 
 <!-- TODO: 작성 -->
 

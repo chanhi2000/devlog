@@ -23,6 +23,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/douggregor.net/swift-for-cpp-practitioners-1.html
 prev: /programming/swift/articles/README.md
+date: 2024-02-11
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -59,8 +61,6 @@ prev: /programming/swift/articles/README.md
   "background": "rgba(22,22,22,0.2)"
 }
 ```
-
-> 2024.02.11
 
 There is a [<FontIcon icon="fa-brands fa-swift"/>Getting Started](https://www.swift.org/getting-started) guide for Swift that's good for a general audience. However, I've noticed that folks coming from C++ tend to struggle with certain aspects of Swift's design, and can get themselves stuck. I think I understand why: the two languages feel similar enough that someone familiar with C++ will take the idioms and patterns from C++ and project them on to Swift, which doesn't always end up well. So, I want to take a different approach to teaching Swift that is specifically geared toward C++ "practitioners": folks who write C++ day-to-day and understand not only the C++ language, but its standard library and best practices. For you, dear C++ practitioner, I want to teach Swift by mapping from the idioms, patterns, and mental model of C++ into Swift. My hope is that you'll come through this series of posts not just learning Swift, but learning how to use Swift *well*.
 

@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to make a ScrollView start at the bottom | SwiftUI by Example",
   "desc": "How to make a ScrollView start at the bottom",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-make-a-scrollview-start-at-the-bottom",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -90,7 +90,7 @@ The `initialAnchor` parameter is any `UnitPoint`, so you can use `.trailing` to 
   "title": "How to display a bottom sheet | SwiftUI by Example",
   "desc": "How to display a bottom sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-a-bottom-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -100,7 +100,7 @@ The `initialAnchor` parameter is any `UnitPoint`, so you can use `.trailing` to 
   "title": "How to make a ScrollView snap with paging or between child views | SwiftUI by Example",
   "desc": "How to make a ScrollView snap with paging or between child views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-scrollview-snap-with-paging-or-between-child-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -110,7 +110,7 @@ The `initialAnchor` parameter is any `UnitPoint`, so you can use `.trailing` to 
   "title": "How to follow this quick start guide | SwiftUI by Example",
   "desc": "How to follow this quick start guide",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-follow-this-quick-start-guide.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -120,7 +120,7 @@ The `initialAnchor` parameter is any `UnitPoint`, so you can use `.trailing` to 
   "title": "How to start an animation immediately after a view appears | SwiftUI by Example",
   "desc": "How to start an animation immediately after a view appears",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-start-an-animation-immediately-after-a-view-appears.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -130,7 +130,7 @@ The `initialAnchor` parameter is any `UnitPoint`, so you can use `.trailing` to 
   "title": "How to flash the scroll bar indicators of a ScrollView or List | SwiftUI by Example",
   "desc": "How to flash the scroll bar indicators of a ScrollView or List",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-flash-the-scroll-bar-indicators-of-a-scrollview-or-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

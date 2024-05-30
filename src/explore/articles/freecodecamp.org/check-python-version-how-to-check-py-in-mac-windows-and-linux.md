@@ -25,6 +25,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/check-python-version-how-to-check-py-in-mac-windows-and-linux.html
 prev: /programming/py/articles/README.md
+date: 2023-07-07
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2023/06/Shittu-Olumide-Check-Python-Version---How-to-Check-Py-in-Mac--Windows--and-Linux.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,11 +49,9 @@ prev: /programming/py/articles/README.md
 <SiteInfo
   name="Check Python Version – How to Check Py in Mac, Windows, and Linux"
   desc="Python is a versatile and widely used programming language known for its simplicity and readability.  With its ever-evolving nature, different versions of Python are often released, each offering new features, enhancements, and bug fixes.  As a Python developer, it is crucial to be aware of the Python version..."
-  url="https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/"
+  url="https://freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2023/06/Shittu-Olumide-Check-Python-Version---How-to-Check-Py-in-Mac--Windows--and-Linux.png"/>
-
-> 2023.07.07
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2023/06/Shittu-Olumide-Check-Python-Version---How-to-Check-Py-in-Mac--Windows--and-Linux.png"/>
 
 <!-- TODO: 작성 -->
 

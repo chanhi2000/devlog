@@ -23,6 +23,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-create-a-react-chatbot.html
 prev: /programming/js-react/articles/README.md
+date: 2024-05-10
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/rcb-logo-large---Copy.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -44,11 +47,9 @@ prev: /programming/js-react/articles/README.md
 <SiteInfo
   name="How to Create a React Chatbot – a Step by Step Guide"
   desc="In the ever-evolving realm of web technologies, the integration of AI-powered chatbots has become a defining trend in 2024.  With rapid advancements in Large Language Models (LLMs), chatbots have grown to become pivotal tools adopted across many websites and services. From FAQ bots to live chat support, they can..."
-  url="https://www.freecodecamp.org/news/how-to-create-a-react-chatbot/"
+  url="https://freecodecamp.org/news/how-to-create-a-react-chatbot/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/rcb-logo-large---Copy.png"/>
-
-> 2024.05.10
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/rcb-logo-large---Copy.png"/>
 
 <!-- TODO: 작성 -->
 

@@ -205,6 +205,19 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+<SiteInfo
+  name="The Ages of Programming Language Creators"
+  desc="Dennis Ritchie created C when he was 31. Douglas Crockford created JSON when he was 46. Ken Iverson created J at age 70. Here is a new dataset with 'ageAtCreation' for 185 programming languages."
+  url="https://datawrapper.dwcdn.net/rT0yG/2/"
+  preview="https://datawrapper.dwcdn.net/rT0yG/plain-s.png?v=2"/>
+
+<SiteInfo
+  name="Explore the Largest Online Collection of Plants | Compare Across Stores"
+  desc="Browse GetAnyPlant’s extensive catalog featuring thousands of plants for your terrarium, aquarium, or house. Find plants based on their care requirements, appearance, and more."
+  url="https://www.getanyplant.com/plants"
+  logo="https://www.getanyplant.com/favicon-32x32.png"
+  preview="https://www.getanyplant.com/opengraph-image.png"/>
+
 <!-- @end Curated -->
 
 @tab Cheatsheet
@@ -298,6 +311,8 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "background": "rgba(51,108,214,0.2)"
 }
 ```
+
+<!-- @end Cheatsheet -->
 
 @tab Open Source
 
@@ -413,7 +428,23 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
-@tab Portfolio / Cool Project
+<SiteInfo
+  name="PyPI · The Python Package Index"
+  desc="The Python Package Index (PyPI) is a repository of software for the Python programming language."
+  url="https://pypi.org/"
+  logo="https://pypi.org/static/images/favicon.35549fe8.ico"
+  preview="https://pypi.org/static/images/twitter.abaf4b19.webp"/>
+
+<SiteInfo
+  name="Microsoft Store - Generation Project (v1.2.3) [by @rgadguard & mkuba50]"
+  desc="Online link generator for Microsoft Store. You can use it to get links to almost all apps, games, themes from the Microsoft Store."
+  url="https://store.rg-adguard.net/"
+  logo="https://store.rg-adguard.net/favicon.ico"
+  preview="https://store.rg-adguard.net/img/Store.png"/>
+
+<!-- @end Package Manager -->
+
+@tab Cool Project
 
 ```component VPCard
 {
@@ -445,35 +476,19 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
-```component VPCard
-{
-  "title": "ASSEMBLY",
-  "desc": "Write a delegate and send it to wander in the central assembly!",
-  "link": "https://assembly.louve.systems/",
-  "logo": "https://assembly.louve.systems/lres/favicon/favicon.pngogo",
-  "background": "rgba(255,165,0,0.2)"
-}
-```
+<SiteInfo
+  name="ASSEMBLY"
+  desc="Write a delegate and send it to wander in the central assembly!"
+  url="https://assembly.louve.systems/"
+  logo="https://assembly.louve.systems/lres/favicon/favicon.pngogo"
+  preview="https://assembly.louve.systems/res/img/metapreview.jpg"/>
 
-```component VPCard
-{
-  "title": "maxm/staticChess | Val Town",
-  "desc": "Static Chess  Check it out here: https://chess.maxmcd.com Plain, brutalist, no bloat chess. Every page is only html and css. Every chess move is made by clicking a link.  Send a link to your friend and they'll send you one back to make your move. No silly animations or slick interactivity to trip up your gameplay. When Google indexes this site will we successfully compute all possible chess moves? Functionality is quite limited, and things might be broken. Please let me know if you find bugs! Inspired by  this HN discussion  about sites that have all possible game states of tic-tac-toe. I plan on extending this to support real gameplay. I think it could be a nice simple interface for long form games with friends. Might also be fun to add a static AI to play against. Feel free to PR any changes if you'd like to see something added.",
-  "link": "https://www.val.town/v/maxm/staticChess",
-  "logo": "https://www.val.town/favicon.svg?dot=false&dark=true",
-  "background": "rgba(37,99,235,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Graph Game - By Sabrina Ramonov",
-  "desc": "🧠 The best way to test your understanding of neural networks!",
-  "link": "https://graphgame.sabrina.dev/",
-  "logo": "https://graphgame.sabrina.dev/vite.svg",
-  "background": "rgba(83,110,236,0.2)"
-}
-```
+<SiteInfo
+  name="maxm/staticChess | Val Town"
+  desc="Static Chess  Check it out here: https://chess.maxmcd.com Plain, brutalist, no bloat chess. Every page is only html and css. Every chess move is made by clicking a link..."
+  url="https://www.val.town/v/maxm/staticChess"
+  logo="https://www.val.town/favicon.svg?dot=false&dark=true"
+  preview="https://www.val.town/thumbnail/8555ff5e-0ff3-11ef-93b5-cab58f78796a.png"/>
 
 ```component VPCard
 {
@@ -486,21 +501,36 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 ```
 
 <SiteInfo
-  name="title"
-  desc="Qlock - A JavaScript Quine Clock"
-  url="Displays the current time in a seven-segment style, embedded within its own JavaScript source code. (321 bytes)"
-  logo="https://aem1k.com/qlock/"
-  preview="https://aem1k.com/favicon.ico"/>
+  name="Qlock - A JavaScript Quine Clock"
+  desc="Displays the current time in a seven-segment style, embedded within its own JavaScript source code. (321 bytes)"
+  url="https://aem1k.com/qlock/"
+  logo="https://aem1k.com/favicon.ico"
+  preview="https://aem1k.com/qlock/preview.png"/>
 
-https://aem1k.com/qlock/preview.png
+<SiteInfo
+  name="ertdfgcvb"
+  desc="Studio for design and code based in Lugano, Switzerland."
+  url="https://ertdfgcvb.xyz/?mode=screensaver"
+  logo="https://ertdfgcvb.xyz/ico/icon_512.png"
+  preview="https://ertdfgcvb.xyz/ico/icon_512.png"/>
 
-https://www.getanyplant.com/plants
-https://demos.littleworkshop.fr/infinitown
-https://flareum.io/
-https://openvim.com/
-https://datawrapper.dwcdn.net/rT0yG/2/
+<SiteInfo
+  name="Infinitown | A WebGL Experiment by Little Workshop"
+  desc="A randomly generated endless city built with WebGL."
+  url="https://demos.littleworkshop.fr/infinitown"
+  logo="https://demos.littleworkshop.fr/favicon.ico"
+  preview="https://demos.littleworkshop.fr/img/og/infinitown.jpg"/>
 
-@tab Resume
+<SiteInfo
+  name="Flareum | Design System Builder"
+  desc="Design an advanced system powered by math logic. Expertise in colors, typography, grid, and more. Integrate effortlessly with code and Figma. One source of truth, endless possibilities. Be pro, work like a pro."
+  url="https://flareum.io/"
+  logo="https://flareum.io/assets/images/meta/favicon-assets/fav-icon-192x192.png"
+  preview="https://flareum.io/assets/images/meta/og-flareum.png"/>
+
+<!-- @end Cool Project -->
+
+@tab Portfolio / Resume
 
 ```component VPCard
 {

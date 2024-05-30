@@ -1529,5 +1529,10 @@
     "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
     "officialSite": "https://caddyserver.com",
     "topics": ["acme", "automatic-https", "caddy", "caddyfile", "go", "golang", "http", "http-server", "http3", "https", "privacy", "reverse-proxy", "security", "tls", "web-server"]
+  }, {
+    "repo": "MariaLetta/free-gophers-pack",
+    "desc": "✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.",
+    "officialSite": "",
+    "topics": ["blog", "character", "course", "education", "emoji", "free", "go", "golang", "gopher", "gophers", "goroutine", "illustration", "illustrations", "mascot", "png", "presentation", "raster", "social-media", "svg", "vector"]
   }
 ]

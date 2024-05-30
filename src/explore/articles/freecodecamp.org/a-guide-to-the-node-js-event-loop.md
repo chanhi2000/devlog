@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/a-guide-to-the-node-js-event-loop.html
 prev: /programming/js-node/articles/README.md
+date: 2024-05-28
+isOriginal: false
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/Node.js-event-loop.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -42,11 +45,9 @@ prev: /programming/js-node/articles/README.md
 <SiteInfo
   name="A Guide to the Node.js Event Loop"
   desc="Node.js is an open-source JavaScript runtime environment that allows you to run JavaScript outside the browser. Although Node.js is single-threaded, it has an event loop that makes it multi-threaded. The Node.js event loop is a crucial mechanism in Node.js that makes Node.js programs run concurrently and asynchronously. Mastering the Node.js..."
-  url="https://www.freecodecamp.org/news/a-guide-to-the-node-js-event-loop/"
+  url="https://freecodecamp.org/news/a-guide-to-the-node-js-event-loop/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/Node.js-event-loop.jpg"/>
-
-> 2024.05.28
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/05/Node.js-event-loop.jpg"/>
 
 <!-- TODO: 작성 -->
 

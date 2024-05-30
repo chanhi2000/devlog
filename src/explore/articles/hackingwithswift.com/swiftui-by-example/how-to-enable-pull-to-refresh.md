@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to enable pull to refresh | SwiftUI by Example",
   "desc": "How to enable pull to refresh",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-enable-pull-to-refresh",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -104,8 +104,8 @@ struct ContentView: View {
             .refreshable {
                 do {
                     // Fetch and decode JSON into news items
-
                     let url = URL(string: "https://www.hackingwithswift.com/samples/news-1.json")!
+                    let url = URL(string: "https://hackingwithswift.com/samples/news-1.json")!
                     let (data, _) = try await URLSession.shared.data(from: url)
                     news = try JSONDecoder().decode([NewsItem].self, from: data)
                 } catch {
@@ -129,7 +129,7 @@ struct ContentView: View {
   "title": "How to enable editing on a list using EditButton | SwiftUI by Example",
   "desc": "How to enable editing on a list using EditButton",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-enable-editing-on-a-list-using-editbutton.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -139,7 +139,7 @@ struct ContentView: View {
   "title": "How to enable vertical page scrolling | SwiftUI by Example",
   "desc": "How to enable vertical page scrolling",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-enable-vertical-page-scrolling.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -149,7 +149,7 @@ struct ContentView: View {
   "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
   "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -159,7 +159,7 @@ struct ContentView: View {
   "title": "How to send state updates manually using objectWillChange | SwiftUI by Example",
   "desc": "How to send state updates manually using objectWillChange",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-send-state-updates-manually-using-objectwillchange.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -169,7 +169,7 @@ struct ContentView: View {
   "title": "SwiftUI tips and tricks | SwiftUI by Example",
   "desc": "SwiftUI tips and tricks",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

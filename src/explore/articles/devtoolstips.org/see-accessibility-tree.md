@@ -27,6 +27,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/see-accessibility-tree.html
 prev: /tool/chrome/articles/README.md
+date: 2024-03-05
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,15 +59,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "See the accessibility tree",
-  "desc": "Devtools Tips > See the accessibility tree",
+  "title": "See the accessibility tree | Devtools Tips",
+  "desc": "See the accessibility tree",
   "link": "https://devtoolstips.org/tips/en/see-accessibility-tree/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2024.03.05
 
 The accessibility tree is a representation of the structure of a web page that is used by assistive technologies such as screen readers. It is similar to the DOM tree, but it only includes the elements that are relevant for accessibility. For example, it includes text nodes, links, images, or form controls, but not generic elements such as `<div>` or `<span>`.
 

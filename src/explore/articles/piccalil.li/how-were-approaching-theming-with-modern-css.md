@@ -19,6 +19,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/piccalil.li/how-were-approaching-theming-with-modern-css.html
 prev: /programming/css/articles/README.md
+date: 2024-04-02
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -41,13 +43,11 @@ prev: /programming/css/articles/README.md
 {
   "title": "How we’re approaching theming with modern CSS | Piccalilli",
   "desc": "How we’re approaching theming with modern CSS",
-  "link": "https://piccalil.li/news/how-were-approaching-theming-with-modern-css/",
+  "link": "https://piccalil.li/blog/how-were-approaching-theming-with-modern-css/",
   "logo": "https://piccalil.li/favicon.ico",
   "background": "rgba(172,42,81,0.2)"
 }
 ```
-
-> 2024.04.02
 
 <!-- TODO: 작성 -->
 

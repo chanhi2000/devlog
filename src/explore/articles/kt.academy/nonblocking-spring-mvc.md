@@ -22,6 +22,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kt.academy/nonblocking-spring-mvc.html
 prev: /programming/java/articles/README.md
+date: 2024-03-25
+isOriginal: false
+cover: https://kt.academy/_next/image?url=https%3A%2F%2Fmarcinmoskala.com%2Fkt-academy-articles%2Frenatocosta%2Fpromotion%2Fnonblocking_spring_mvc.jpg&w=384&q=75
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,8 +49,6 @@ prev: /programming/java/articles/README.md
   url="https://kt.academy/article/nonblocking_spring_mvc"
   logo="https://kt.academy/logo.png"
   preview="https://kt.academy/_next/image?url=https%3A%2F%2Fmarcinmoskala.com%2Fkt-academy-articles%2Frenatocosta%2Fpromotion%2Fnonblocking_spring_mvc.jpg&w=384&q=75"/>
-
-> 2024.03.25
 
 <!-- TODO: 작성 -->
 

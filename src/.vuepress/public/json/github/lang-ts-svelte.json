@@ -1,3 +1,8 @@
 [
-  
+  {
+    "repo": "0x2E/fusion",
+    "desc": "A lightweight, self-hosted friendly RSS aggregator and reader",
+    "officialSite": "",
+    "topics": ["rss", "rss-aggregator", "rss-reader", "self-hosted"]
+  }  
 ]

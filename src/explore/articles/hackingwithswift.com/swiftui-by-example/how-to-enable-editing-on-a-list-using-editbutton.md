@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to enable editing on a list using EditButton | SwiftUI by Example",
   "desc": "How to enable editing on a list using EditButton",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-enable-editing-on-a-list-using-editbutton",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -93,7 +93,7 @@ When that is run, you'll find you can tap the edit button to enable or disable e
   "title": "Adding swipe to delete and EditButton | SwiftUI by Example",
   "desc": "Adding swipe to delete and EditButton",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-swipe-to-delete-and-editbutton.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -103,7 +103,7 @@ When that is run, you'll find you can tap the edit button to enable or disable e
   "title": "How to enable pull to refresh | SwiftUI by Example",
   "desc": "How to enable pull to refresh",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-enable-pull-to-refresh.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -113,7 +113,7 @@ When that is run, you'll find you can tap the edit button to enable or disable e
   "title": "How to enable vertical page scrolling | SwiftUI by Example",
   "desc": "How to enable vertical page scrolling",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-enable-vertical-page-scrolling.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -123,7 +123,7 @@ When that is run, you'll find you can tap the edit button to enable or disable e
   "title": "How to allow row selection in a list | SwiftUI by Example",
   "desc": "How to allow row selection in a list",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-allow-row-selection-in-a-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -133,7 +133,7 @@ When that is run, you'll find you can tap the edit button to enable or disable e
   "title": "How to let users move rows in a list | SwiftUI by Example",
   "desc": "How to let users move rows in a list",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-move-rows-in-a-list.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

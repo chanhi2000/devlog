@@ -23,9 +23,22 @@ head:
       content: Makefile
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devkuma.com/makefile.html
+prev: /programming/sh/articles/README.md
+date: 2024-04-21
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Shell > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/sh/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
 
 [[toc]]
 
@@ -40,8 +53,6 @@ head:
   "background": "rgba(48,99,142,0.2)"
 }
 ```
-
-> 2024.04.21
 
 .<FontIcon icon="fas fa-file-lines"/>`Makefile`은 UNIX 계열 OS에서 일반적인 빌드 도구인 `make`에 실행할 절차를 기술한 텍스트 파일이다.
 

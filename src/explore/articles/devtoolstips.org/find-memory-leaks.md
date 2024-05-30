@@ -24,6 +24,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/devtoolstips.org/find-memory-leaks.html
 prev: /tool/chrome/articles/README.md
+date: 2023-07-10
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -44,15 +46,13 @@ prev: /tool/chrome/articles/README.md
 
 ```component VPCard
 {
-  "title": "Find memory leaks by comparing heap snapshots",
-  "desc": "Devtools Tips > Find memory leaks by comparing heap snapshots",
+  "title": "Find memory leaks by comparing heap snapshots | Devtools Tips",
+  "desc": "Find memory leaks by comparing heap snapshots",
   "link": "https://devtoolstips.org/tips/en/find-memory-leaks/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
 ```
-
-> 2023.07.10
 
 <!-- TODO:  작성 -->
 

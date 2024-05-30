@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/using-css-scroll-driven-animations-for-section-based-scroll-progress-indicators.html
 prev: /programming/css/articles/README.md
+date: 2024-05-10
+isOriginal: false
+cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/image.png?resize=1024%2C585&ssl=1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -45,8 +48,6 @@ prev: /programming/css/articles/README.md
   url="https://frontendmasters.com/news/using-css-scroll-driven-animations-for-section-based-scroll-progress-indicators/"
   logo="https://frontendmasters.com/favicon.ico"
   preview="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/image.png?resize=1024%2C585&ssl=1"/>
-
-> 2024.05.10
 
 <!-- TODO: 작성 -->
 

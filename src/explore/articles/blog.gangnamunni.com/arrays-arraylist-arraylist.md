@@ -21,6 +21,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/blog.gangnamunni.com/arrays-arraylist-arraylist.html
 prev: /programming/java/articles/README.md
+date: 2019-09-01
+isOriginal: false
+cover: https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -39,17 +42,12 @@ prev: /programming/java/articles/README.md
 
 ---
 
-```component VPCard
-{
-  "title": "날 닮은 너를, 부족한 너를.",
-  "desc": "Arrays.arrayList 는 ArrayList 와 다르다",
-  "link": "https://blog.gangnamunni.com/post/Arrays-arrayList-ArrayList/",
-  "logo": "https://blog.gangnamunni.com/favicon.ico",
-  "background": "rgba(255,84,15,0.2)"
-}
-```
-
-> 2019.09.01
+<SiteInfo
+  name="날 닮은 너를, 부족한 너를."
+  desc="Arrays.arrayList 는 ArrayList 와 다르다"
+  url="https://blog.gangnamunni.com/post/Arrays-arrayList-ArrayList/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
 <!-- TODO: 작성 -->
 

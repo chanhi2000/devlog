@@ -22,6 +22,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/engineering.linecorp.com/increase-vm-performance-to-reduce-global-warming.html
 prev: /programming/sh/articles/README.md
+date: 2024-02-21
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -49,8 +51,6 @@ prev: /programming/sh/articles/README.md
   "background": "rgba(31,31,31,0.2)"
 }
 ```
-
-> 2024.02.21
 
 <!-- TODO: 작성 -->
 

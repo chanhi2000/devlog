@@ -69,7 +69,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
-- [The Brain-Inspired Approach to AI – Explained for Developers](https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai)
+- [The Brain-Inspired Approach to AI – Explained for Developers](https://freecodecamp.org/news/the-brain-inspired-approach-to-ai)
 
 ---
 
@@ -128,6 +128,8 @@ head:
 ---
 
 ## KDNuggets
+
+![Machine Learning with ChatGPT](https://www.kdnuggets.com/wp-content/uploads/Machine_Learning_with_ChatGPT_Cheat_Sheet_KDnuggets.png)
 
 - [5 ChatGPT Features to Boost your Daily Work](https://www.kdnuggets.com/2023/05/5-chatgpt-features-boost-daily-work.html)
 
@@ -383,6 +385,12 @@ head:
 ## 숲속얘기의 조용한 카페
 
 - [이미지 해석을 ChatGPT4와 ChatGPT4o에게 시켜보고 확인한 차이](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=fstory97&logNo=223451932063)
+
+---
+
+## DISQUIET
+
+- [프롬프트 하나로 풀스택 웹앱을 만드는 Marblism](https://disquiet.io/@williamjung/makerlog/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%ED%95%98%EB%82%98%EB%A1%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EC%9B%B9%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-marblism)
 
 ---
 

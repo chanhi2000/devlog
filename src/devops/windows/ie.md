@@ -26,7 +26,7 @@ tag:
   "title": "Internet Explorer 11 - Microsoft Lifecycle | Microsoft Learn",
   "desc": "Internet Explorer 11은 구성 요소 수명 주기 정책을 따릅니다.",
   "link": "https://learn.microsoft.com/ko-kr/lifecycle/products/internet-explorer-11",
-  "logo": "https://learn.microsoft.com/favicon.ico",
+  "logo": "/images/content/learn.microsoft.com/favicon.ico",
   "background": "rgba(59,46,88,0.2)"
 }
 ```

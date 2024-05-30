@@ -31,8 +31,8 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "logo": "https://hackingwithswift.com/favicon.svg",
+   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
@@ -45,7 +45,7 @@ head:
   "title": "How to show progress on a task using ProgressView | SwiftUI by Example",
   "desc": "How to show progress on a task using ProgressView",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-show-progress-on-a-task-using-progressview",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -105,7 +105,7 @@ Xcode will get angry if you set your progress value higher than the progress tot
   "title": "How to show indeterminate progress using ProgressView | SwiftUI by Example",
   "desc": "How to show indeterminate progress using ProgressView",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-indeterminate-progress-using-progressview.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -115,7 +115,7 @@ Xcode will get angry if you set your progress value higher than the progress tot
   "title": "Customizing ProgressView with ProgressViewStyle | SwiftUI by Example",
   "desc": "Customizing ProgressView with ProgressViewStyle",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/customizing-progressview-with-progressviewstyle.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -125,7 +125,7 @@ Xcode will get angry if you set your progress value higher than the progress tot
   "title": "How to run an asynchronous task when a view is shown | SwiftUI by Example",
   "desc": "How to run an asynchronous task when a view is shown",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-run-an-asynchronous-task-when-a-view-is-shown.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -135,7 +135,7 @@ Xcode will get angry if you set your progress value higher than the progress tot
   "title": "How to show an action sheet | SwiftUI by Example",
   "desc": "How to show an action sheet",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-an-action-sheet.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -145,7 +145,7 @@ Xcode will get angry if you set your progress value higher than the progress tot
   "title": "How to hide and show the sidebar programmatically | SwiftUI by Example",
   "desc": "How to hide and show the sidebar programmatically",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-and-show-the-sidebar-programmatically.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```

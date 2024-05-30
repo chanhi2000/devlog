@@ -24,6 +24,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/antonioleiva.com/kotlin-ongloballayoutlistener.html
 prev: /programming/java-android/articles/README.md
+date: 2016-03-16
+isOriginal: false
+cover: /images/content/antonioleiva.com/kotlin-ongloballayoutlistener/banner.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,10 +49,8 @@ prev: /programming/java-android/articles/README.md
   name="Kotlin recipes for Android (I): OnGlobalLayoutListener"
   desc="OnGlobalLayoutListener doesn't look good on Kotlin, but we can make it shine if we make use of extension functions, and convert it to a more usable tool."
   url="https://antonioleiva.com/kotlin-ongloballayoutlistener"
-  logo="https://antonioleiva.com/wp-content/uploads/2017/08/cropped-logo-app-web-1-192x192.png"
-  preview="https://antonioleiva.com/wp-content/uploads/2016/03/kotlin_logo_new.png"/>
-
-> 2016.03.16
+  logo="/images/content/antonioleiva.com/favicon.png"
+  preview="/images/content/antonioleiva.com/kotlin-ongloballayoutlistener/banner.png"/>
 
 <!-- TODO: 작성 -->
 

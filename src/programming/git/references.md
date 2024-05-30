@@ -22,7 +22,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-
 [[toc]]
 
 ---
@@ -71,7 +70,7 @@ head:
 
 ## freecodcamp.org
 
-- [How to Write Commit Messages that Project Maintainers Will Appreciate](https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like)
+- [How to Write Commit Messages that Project Maintainers Will Appreciate](https://freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like)
 
 ---
 
@@ -335,5 +334,12 @@ head:
 - [\[Git\] 커밋 메시지 스타일 가이드 (컨벤션) / Commit message style guide (Convention)](https://sungwookoo.tistory.com/1)
 
 ---
+
+## 나는 내 좌절에 값어치를 매긴다.
+
+- [\[Git 1%이해하기\] git 브랜치 이름 변경하기](https://helicopter55.tistory.com/88)
+
+---
+
 
 <TagLinks />

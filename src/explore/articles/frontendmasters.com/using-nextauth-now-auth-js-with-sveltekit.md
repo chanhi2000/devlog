@@ -26,6 +26,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/using-nextauth-now-auth-js-with-sveltekit.html
 prev: /programming/js-svelte/articles/README.md
+date: 2024-04-29
+isOriginal: false
+cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/04/auth-thumb.jpg?w=1000&ssl=1
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,8 +53,6 @@ prev: /programming/js-svelte/articles/README.md
   url="https://frontendmasters.com/news/using-nextauth-now-auth-js-with-sveltekit/"
   logo="https://frontendmasters.com/favicon.ico"
   preview="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/04/auth-thumb.jpg?w=1000&ssl=1"/>
-
-> 2024.04.29
 
 <!-- TODO: 작성 -->
 

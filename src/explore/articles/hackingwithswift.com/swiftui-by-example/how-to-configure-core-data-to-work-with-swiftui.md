@@ -31,7 +31,7 @@ head:
   "title": "SwiftUI by Example",
   "desc": "Back to Home",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
@@ -45,7 +45,7 @@ head:
   "title": "How to configure Core Data to work with SwiftUI | SwiftUI by Example",
   "desc": "How to configure Core Data to work with SwiftUI",
   "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-configure-core-data-to-work-with-swiftui",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -63,7 +63,7 @@ That provides for us the complete ability to use Core Data fetch requests from w
 
 However, if you *didn’t* use the Core Data template or you’re just curious what the Core Data template does for us, it’s worth covering briefly the steps it takes to set up support in your apps. I’m also going to provide you with some sample data to work with so you can try out subsequent chapters in this book.
 
-The first step is to create a Core Data model by pressing Cmd+N to make a new file, then choosing Data Model. The name of this model matters, because it will be used in your code shortly. Unless you plan to use a complex Core Data configuration, naming your model Main is fine – that’s the name I’ll be using here. Once you have your model, you can go ahead and create any entities you want to use in your app.
+The first step is to create a Core Data model by pressing <kbd>Cmd</kbd>+<kbd>N</kbd> to make a new file, then choosing Data Model. The name of this model matters, because it will be used in your code shortly. Unless you plan to use a complex Core Data configuration, naming your model Main is fine – that’s the name I’ll be using here. Once you have your model, you can go ahead and create any entities you want to use in your app.
 
 For example purposes we need some consistent data to work with so that I can give you meaningful code to work. So, open your xcdatamodeld file and create an entity called ProgrammingLanguage that has two string attributes: “name” and “creator”. Obviously you don’t need to have exactly this entity and attribute collection, so just mentally replace my examples with your own Core Data setup as you go.
 
@@ -185,7 +185,7 @@ To avoid confusion, I want to repeat that the instructions above are important f
   "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
   "desc": "All SwiftUI property wrappers explained and compared",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -195,7 +195,7 @@ To avoid confusion, I want to repeat that the instructions above are important f
   "title": "Introduction to using Core Data with SwiftUI | SwiftUI by Example",
   "desc": "Introduction to using Core Data with SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/introduction-to-using-core-data-with-swiftui.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -205,7 +205,7 @@ To avoid confusion, I want to repeat that the instructions above are important f
   "title": "How to delete Core Data objects from SwiftUI views | SwiftUI by Example",
   "desc": "How to delete Core Data objects from SwiftUI views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-delete-core-data-objects-from-swiftui-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -215,7 +215,7 @@ To avoid confusion, I want to repeat that the instructions above are important f
   "title": "How to add Core Data objects from SwiftUI views | SwiftUI by Example",
   "desc": "How to add Core Data objects from SwiftUI views",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-core-data-objects-from-swiftui-views.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
@@ -225,7 +225,7 @@ To avoid confusion, I want to repeat that the instructions above are important f
   "title": "How to create a Core Data fetch request using @FetchRequest | SwiftUI by Example",
   "desc": "How to create a Core Data fetch request using @FetchRequest",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-a-core-data-fetch-request-using-fetchrequest.md",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
