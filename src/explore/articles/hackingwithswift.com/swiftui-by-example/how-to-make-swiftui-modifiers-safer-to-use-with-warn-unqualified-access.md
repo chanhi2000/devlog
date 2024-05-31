@@ -22,6 +22,7 @@ head:
       content: How to make SwiftUI modifiers safer to use with @warn_unqualified_access
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-swiftui-modifiers-safer-to-use-with-warn-unqualified-access.html
+prev: how-to-add-custom-activation-commands-for-voice-control.md
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -40,4 +40,10 @@ head:
 
 ---
 
+## Matt Bessey's Blog
+
+- [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+
+---
+
 <TagLinks />

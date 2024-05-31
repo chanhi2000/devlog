@@ -165,4 +165,12 @@ tag:
 
 - [GitHub - Auto Assign 사용하기](https://green1229.tistory.com/477)
 
+---
+
+## DAILY LOG
+
+- [\[Copilot\] 깃허브 코파일럿은 어떻게 작동하는가?](https://jiyeonseo.github.io/2024/05/31/how-github-copilot-works/)
+
+---
+
 <TagLinks />

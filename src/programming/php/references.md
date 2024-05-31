@@ -20,6 +20,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-wordpress"/>WordPress.com
+
+- [Meet Studio: Your New Favorite Way to Develop WordPress Locally](https://wordpress.com/blog/2024/04/24/studio/)
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [$this vs parent vs self vs static](https://medium.com/@erlandmuchasaj/this-vs-parent-vs-self-vs-static-2e1e89a42dca)
@@ -79,6 +85,10 @@ tag:
 - [8.05. hosts 설정하기](https://ysedeveloper.tistory.com/entry/805-hosts-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [8.06. 데이터베이스 접속 파일 만들기](https://ysedeveloper.tistory.com/entry/806-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A0%91%EC%86%8D-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [8.07. 공통 헤더 만들기](https://ysedeveloper.tistory.com/entry/807-%EA%B3%B5%ED%86%B5-%ED%97%A4%EB%8D%94-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [8.08. 회원가입 화면 만들기](https://ysedeveloper.tistory.com/entry/808-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [8.09. 회원가입 기능 만들기](https://ysedeveloper.tistory.com/entry/809-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [8.10. 로그인 화면 만들기](https://ysedeveloper.tistory.com/entry/810-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 
 ---
 

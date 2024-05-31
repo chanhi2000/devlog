@@ -26,7 +26,7 @@ head:
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/zustand-vs-usestate-how-to-manage-state-in-react.html
 prev: /programming/js-react/articles/README.md
 date: 2024-05-15
-isOriginal: cover
+isOriginal: false
 cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/Add-a-heading--1-.png
 ---
 

@@ -38,4 +38,10 @@ head:
 
 ---
 
+## DAILY LOG
+
+- [\[Claude\] 클로드 사용법 | AI로 데이터 분석하기](https://jiyeonseo.github.io/2024/05/31/data-analytic-with-claude/)
+
+---
+
 <TagLinks />

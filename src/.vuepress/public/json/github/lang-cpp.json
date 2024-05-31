@@ -1378,5 +1378,20 @@
     "desc": "Sudachi is a Nintendo Switch emulator for Android, Linux, macOS and Windows, written in C++",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "decrazyo/fdxb",
+    "desc": "Arduino FDX-B reader built from discrete components.",
+    "officialSite": "",
+    "topics": ["arduino", "em4100", "fdx-b", "pet", "rfid"]
+  }, {
+    "repo": "duckdb/duckdb",
+    "desc": "DuckDB is an in-process SQL OLAP Database Management System",
+    "officialSite": "http://www.duckdb.org",
+    "topics": ["analytics", "database", "embedded-database", "olap", "sql"]
+  }, {
+    "repo": "intel/neural-speed",
+    "desc": "An innovative library for efficient LLM inference via low-bit quantization",
+    "officialSite": "https://github.com/intel/neural-speed",
+    "topics": ["cpu", "fp4", "fp8", "gaudi2", "gpu", "int1", "int2", "int3", "int4", "int5", "int6", "int7", "int8", "llamacpp", "llm-fine-tuning", "llm-inference", "low-bit", "mxformat", "nf4", "sparsity"]
   }
 ]

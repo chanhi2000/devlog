@@ -22,7 +22,15 @@ tag:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기](https://meetup.nhncloud.com/posts/283) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/283.md) -->
+```component VPCard
+{
+  "title": "VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기 | NHN Cloud Meetup",
+  "desc": "VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기",
+  "link": "/explore/articles/meetup.nhncloud.com/283.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
 ---
 
@@ -77,7 +85,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### .NET Blog
+### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Java on Visual Studio Code – May 2023](https://devblogs.microsoft.com/java/java-on-visual-studio-code-may-2023/)
 

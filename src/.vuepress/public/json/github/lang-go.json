@@ -1534,5 +1534,20 @@
     "desc": "✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.",
     "officialSite": "",
     "topics": ["blog", "character", "course", "education", "emoji", "free", "go", "golang", "gopher", "gophers", "goroutine", "illustration", "illustrations", "mascot", "png", "presentation", "raster", "social-media", "svg", "vector"]
+  }, {
+    "repo": "warpstreamlabs/bento",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "AccentDesign/gcss",
+    "desc": "CSS written in Pure Go",
+    "officialSite": "",
+    "topics": ["css", "golang"]
+  }, {
+    "repo": "distantmagic/paddler",
+    "desc": "Stateful load balancer custom-tailored for llama.cpp",
+    "officialSite": "",
+    "topics": ["ai", "llamacpp", "llm", "llmops"]
   }
 ]

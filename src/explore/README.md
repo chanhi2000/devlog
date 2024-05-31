@@ -528,6 +528,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://flareum.io/assets/images/meta/favicon-assets/fav-icon-192x192.png"
   preview="https://flareum.io/assets/images/meta/og-flareum.png"/>
 
+<SiteInfo
+  name="State of HTML 2023"
+  desc="The 2023 edition of the annual survey about the latest trends in the HTML ecosystem."
+  url="https://2023.stateofhtml.com/en-US/"
+  logo="https://assets.devographics.com/surveys/html2023-favicon.svg"
+  preview="https://assets.devographics.com/surveys/html2023-og.png"/>
+
 <!-- @end Cool Project -->
 
 @tab Portfolio / Resume

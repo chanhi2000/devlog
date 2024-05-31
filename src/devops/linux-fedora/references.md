@@ -27,4 +27,10 @@ tag:
 
 ---
 
+## Linux Programmer
+
+- [Adacious 리눅스 & 윈도 MP3 플레이어](https://sunyzero.tistory.com/297)
+
+---
+
 <TagLinks />

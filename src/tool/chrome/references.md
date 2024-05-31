@@ -56,11 +56,23 @@ tag:
 
 - [Inside look at modern web browser (part 1) ](https://developer.chrome.com/blog/inside-browser-part1)
 
+### <FontIcon icon="fa-brands fa-chrome"/>Chromium blog
+
+- [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [Chromium이 발표한 RenderingNG가 무엇인가?](https://meetup.nhncloud.com/posts/293) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/293.md) -->
+```component VPCard
+{
+  "title": "Chromium이 발표한 RenderingNG가 무엇인가? | NHN Cloud Meetup",
+  "desc": "Chromium이 발표한 RenderingNG가 무엇인가?",
+  "link": "/explore/articles/meetup.nhncloud.com/293.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
 ---
 

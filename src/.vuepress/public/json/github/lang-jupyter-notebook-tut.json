@@ -119,5 +119,10 @@
     "desc": "This repository contains demos I made with the Transformers library by HuggingFace.",
     "officialSite": "",
     "topics": ["bert", "gpt-2", "layoutlm", "pytorch", "transformers", "vision-transformer"]
+  }, {
+    "repo": "anthropics/courses",
+    "desc": "Anthropic's educational courses",
+    "officialSite": "",
+    "topics": []
   }
 ]

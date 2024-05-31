@@ -211,6 +211,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-the-tappable-area-of-a-view-using-contentshape.md',
               '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-disable-taps-for-a-view-using-allowshittesting.md',
               '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-detect-the-location-of-a-tap-inside-a-view.md',
+              '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-handle-pinch-to-zoom-for-views.md'
             ]
           }, {
             text: 'Advanced state',
@@ -315,6 +316,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-recommend-another-app-using-appstoreoverlay.md',
               '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-show-a-menu-when-a-button-is-pressed.md',
               '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-let-users-pick-options-from-a-menu.md',
+              '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-in-app-purchases-in-swiftui.md',
             ]
           }, {
             text: 'Presenting views',

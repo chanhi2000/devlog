@@ -35,6 +35,12 @@ tag:
  
 ---
 
+## Password Manager for Families, Enterprise & Business | 1Password
+
+- [How we used esbuild to reduce our browser extension build times by 90%](https://blog.1password.com/new-extension-build-system/)
+
+---
+
 ## suckless
 
 - [`sent`: Simple plaintext presentation tool.](https://tools.suckless.org/sent/)

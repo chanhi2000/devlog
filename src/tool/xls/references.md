@@ -68,4 +68,10 @@ head:
 
 ---
 
+## 기계인간 John Grib
+
+- [엑셀로 만든 snake 게임](https://webnautes.tistory.com/2276)
+
+---
+
 <TagLinks />

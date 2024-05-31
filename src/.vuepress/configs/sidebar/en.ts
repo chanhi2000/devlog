@@ -802,6 +802,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py-jupyter/articles/README.md',
+            asb.nhn("py-jupyter"),
           ]
         }
       ]
@@ -1270,6 +1271,7 @@ export const sidebarEn = sidebar({
           children: [
             '/tool/vscode/articles/README.md',
             asb.yozm("vscode"),
+            asb.nhn("vscode"),
           ]
         }
       ],

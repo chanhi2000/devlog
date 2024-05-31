@@ -36,7 +36,15 @@ head:
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`towardsdatascience`/ The Math Behind the Adam Optimizer](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/the-math-behind-adam-optimizer.md) -->
+- [`@euisuk-chung` / 머신러닝 차원 축소 알고리즘](https://velog.io/@euisuk-chung/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9B%90-%EC%B6%95%EC%86%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
+---
+
+## Brunch
+
+- [`@delight412` / 알고리즘 중심 개인화에 대한 불편한 사실들](https://brunch.co.kr/@delight412/692)
+
+---
 
 ## Pega Devlog
 
@@ -53,6 +61,7 @@ head:
 ## Be an Overachiever
 
 - [ROC Curve](https://devs0n.tistory.com/170)
+- [CNN에서 layer가 깊어질 수록 channel size를 키우는 이유](https://devs0n.tistory.com/176)
 
 ---
 
@@ -61,6 +70,16 @@ head:
 - [Better RAG results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
 
 ---
+
+## Koo's Devlog
+
+- [\[Machine Learning\] 정규화(Normalization) vs 표준화(Standardization)](https://sungwookoo.tistory.com/35)
+
+---
+
+## 컴퓨터와 수학, 몽상 조금
+
+- [AI 학사 취업, 왜 어려울까? \[ML 엔지니어 도전기 1편\]](https://skyil.tistory.com/302)
 
 
 <TagLinks />

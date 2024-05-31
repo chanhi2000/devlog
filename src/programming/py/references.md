@@ -656,6 +656,7 @@ tag:
 - [pyQt5 윈도우를 화면의 중앙에 배치하기](http://webnautes.tistory.com/2336)
 - [OpenCV Python Tracking 예제](https://webnautes.tistory.com/2338)
 - [PyQt5 QTableWidget 예제](https://webnautes.tistory.com/2337)
+- [miniconda/anaconda에서 conda 사용하는 방법](https://webnautes.tistory.com/2276)
 
 ---
 
@@ -1131,6 +1132,7 @@ tag:
 ## 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔
 
 - [\[Python | Source Download\] Image Colorization (흑백 이미지를 컬러로 자동 복원)](https://topnanis.tistory.com/252)
+- [\[Python | Download\] 자동 요약 봇 만들기! (Summarizer)](https://topnanis.tistory.com/253)
 
 ---
 
@@ -1322,6 +1324,8 @@ tag:
 
 ---
 
+## 
 
+- https://topnanis.tistory.com/253
 
 <TagLinks />

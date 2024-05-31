@@ -1306,7 +1306,7 @@
     "topics": []
   }, {
     "repo": "neondatabase/neon",
-    "desc": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",
+    "desc": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
     "officialSite": "https://neon.tech",
     "topics": ["database", "postgres", "postgresql", "rust", "serverless"]
   }, {
@@ -1497,6 +1497,11 @@
   }, {
     "repo": "mgdm/htmlq",
     "desc": "Like jq, but for HTML.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "face-hh/webx",
+    "desc": "An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.",
     "officialSite": "",
     "topics": []
   }

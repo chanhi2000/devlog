@@ -1087,6 +1087,31 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://mygeodata.cloud/favicon.ico"
   preview="https://mygeodata.cloud/tmp/img/icon-geoczech-sm-transparent.png"/>
 
+```component VPCard
+{
+  "title": "상권정보",
+  "desc": "...",
+  "link": "https://sg.sbiz.or.kr/godo/index.sg",
+  "logo": "https://sg.sbiz.or.kr/favicon.ico",
+  "background": "rgba(36,87,165,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "NKIS 국가정책연구포털",
+  "desc": "국가정책연구포털은 경제·인문사회연구회의 소관 정부출연연구기관의 연구성과물을 검색하여 활용할 수 있는 디지털 서비스 시스템입니다.",
+  "link": "https://nkis.re.kr/main.do",
+  "background": "rgba(61,63,80,0.2)"
+}
+```
+
+https://www.prism.go.kr/homepage/
+
+https://www.kdi.re.kr/
+
+https://mdis.kostat.go.kr/index.do
+
 <!-- @end Geospatial -->
 
 @tab Network & Security
@@ -1646,6 +1671,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   url="https://www.coingecko.com/en/api"
   logo="https://www.coingecko.com/favicon-96x96.png"
   preview="https://static.coingecko.com/s/thumbnail-d5a7c1de76b4bc1332e48227dc1d1582c2c92721b5552aae76664eecb68345c9.png"/>
+
+<SiteInfo
+  name="기업정보 | CRETOP"
+  desc="기업을 가장 잘 아는 기업정보의 모든 것 CRETOP"
+  url="https://new.cretop.com/DA/SG/DASG010M1?h=1717336572362"
+  logo="https://new.cretop.com/img/icons/favicon.ico"
+  preview="https://new.cretop.com/img/icons/ic_launcher.png"/>
 
 
 - https://beta-genport.newsystock.com/backtest/TradingM.aspx?UseType=KOR

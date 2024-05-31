@@ -22,6 +22,7 @@ head:
       content: SwiftUI tips and tricks
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.html
+prev: how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts.md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -78,7 +79,15 @@ Because `@State` is specifically designed for use by the local view, Apple recom
 
 ::: info Read more
 
-What’s the difference between @ObservedObject, @State, and @EnvironmentObject? <!-- TODO: add link -->
+```component VPCard
+{
+  "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
+  "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

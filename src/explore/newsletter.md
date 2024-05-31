@@ -282,6 +282,16 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "Google Trends",
+  "desc": "Explore what United Statesthe world is searching for right now",
+  "link": "https://trends.google.com/home?geo=US",
+  "logo": "https://ssl.gstatic.com/trends/favicon.ico",
+  "background": "rgba(59,102,206,0.2)"
+}
+```
+
 https://gracefullight.dev/archive/
 
 <!-- 
@@ -297,6 +307,293 @@ https://gracefullight.dev/archive/
 -->
 
 <!-- @end News -->
+
+@tab Industry
+
+<SiteInfo
+  name="대한민국 정책브리핑"
+  desc="문화체육관광부에서 운영하는 대한민국 정부 정책뉴스포털. - 정책브리핑 | 정책자료 | 전문자료"
+  url="https://www.korea.kr/archive/expDocMainList.do"
+  logo="https://www.korea.kr/images/common/favicon.ico"
+  preview="https://www.korea.kr/images/event/korea_logo_2024.jpg"/>
+
+<SiteInfo
+  name="KOTRA 해외시장뉴스"
+  desc="메인"
+  url="https://dream.kotra.or.kr/kotranews/index.do"
+  logo="https://dream.kotra.or.kr/type/common/img/common/favicon_news.ico"
+  preview="https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"/>
+
+```component VPCard
+{
+  "title": "ITFIND - IT 지식포털",
+  "desc": "ITFIND는 IT산업 전반에 관한 국내외 기술, 시장 및 경영 정보 등 각종 지식과 정보를 수집, DB화하여 IT관련 기업 및 기관에 제공함으로써 국가 IT 혁신역량을 제고할 목적으로 운영되고 있습니다.",
+  "link": "https://www.itfind.or.kr/main.do",
+  "logo": "https://www.itfind.or.kr/favicon.ico",
+  "background": "rgba(42,100,197,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "광고정보센터",
+  "desc": "광고 전문 포탈 사이트",
+  "link": "https://www.adic.or.kr/index.waple",
+  "background": "rgba(72,144,208,0.2)"
+}
+```
+
+<SiteInfo
+  name="검색어트렌드 : 네이버 데이터랩"
+  desc="네이버 통합검색에서 검색된 검색어와 검색횟수를 기간별/연령별/성별로 조회할 수 있습니다."
+  url="https://datalab.naver.com/keyword/trendSearch.naver"
+  logo="https://ssl.pstatic.net/static.datalab/202405030736/img/favicon/android_legacy_xxxhpdi_192x192.png"
+  preview="https://ssl.pstatic.net/static.datalab/img2019/datalab_og_244x244.jpg"/>
+
+<SiteInfo
+  name="카카오데이터트렌드: 검색어 인사이트"
+  desc="다음 통합검색의 검색어 트렌드를 확인해 보세요."
+  url="https://datatrend.kakao.com/"
+  logo="https://t1.daumcdn.net/depo/datatrend/favicon.ico"
+  preview="https://t1.daumcdn.net/depo/datatrend/datatrend.png"/>
+
+<SiteInfo
+  name="빅카인즈(BIG KINDS)"
+  desc="뉴스빅데이터 분석시스템, 뉴스 속 키워드 관계망, 주요 이슈, 정보원, 이슈 트렌드 분석 정보 제공"
+  url="https://www.bigkinds.or.kr/"
+  logo="https://www.bigkinds.or.kr/images/favicon.ico;Bigkinds=94E1D68429FA4C0C2F0211A2344BDE05"
+  preview="https://www.bigkinds.or.kr/assets/v3/img/common/logo_2.png"/>
+
+<SiteInfo
+  name="한국무역협회-KITA.NET"
+  desc="한국무역협회 무역 통상정보, 회원/업무지원, 무역통계, 협회안내 등 서비스 안내."
+  url="https://www.kita.net/"
+  logo="https://www.kita.net/imgs/favicon.png"
+  preview="https://kita.net/imgs/common/kita_logo_mid.png"/>
+
+<SiteInfo
+  name="DMC리포트"
+  desc="시장, 소비자, 디지털 미디어 마케팅을 연구한 DMC리포트의 보고서와 시장에 공개된 콘텐츠까지 제공하는 디지털 광고&마케팅 지식 포털 서비스"
+  url="https://www.dmcreport.co.kr/"
+  logo="https://tsn.dmcmedia.co.kr/dmcreportCDN/DMCReportFront/images/favicon.png"
+  preview="https://tsn.dmcmedia.co.kr/dmcreportCDN/DMCReportFront/images/og_img.jpg"/>
+
+<SiteInfo
+  name="증권형 크라우드펀딩 포털 - 크라우드넷(CrowdNet)"
+  desc="한국예탁결제원 운영, 크라우드펀딩 제도 소개, 운영구조, 자금 조달 및 투자 방법, FAQ 등 제공."
+  url="https://www.crowdnet.or.kr/index.jsp"
+  logo="https://www.crowdnet.or.kr/img/favicon.ico"
+  preview="http://www.crowdnet.or.kr/img/contents/img_sns.png"/>
+
+<SiteInfo
+  name="한국핀테크산업협회 - KORFIN"
+  desc="대한민국 핀테크 업계를 대변하는 국내 최대의 핀테크 네트워크 기관 한국핀테크산업협회입니다."
+  url="http://korfin.kr/kr/"
+  logo="http://korfin.kr/kr/assets/img/common/icon_home_aos.png"
+  preview="http://korfin.kr//kr/assets/img/common/sns_thumbnail.svg"/>
+
+```component VPCard
+{
+  "title": "한국식품산업협회",
+  "desc": "한국식품산업협회",
+  "link": "https://www.kfia.or.kr/kfia/main.php",
+  "logo": "https://www.kfia.or.kr/kfia/favicon.ico",
+  "background": "rgba(82,156,82,0.2)"
+}
+```
+
+<SiteInfo
+  name="한국프랜차이즈산업협회"
+  desc="프랜차이즈, 박람회, 가맹본부, 분쟁조정협의회, 프랜차이즈교육, 세미나 및 포럼 안내, 브랜드소개."
+  url="http://www.ikfa.or.kr/"
+  logo="http://www.ikfa.or.kr/img/favicon.png"
+  preview="http://www.ikfa.or.kr/img/kfa_logo_400.png"/>
+
+```component VPCard
+{
+  "title": "LG경영연구원",
+  "desc": "우리는 기업의 변화와 혁신을 이끌어갑니다",
+  "link": "https://www.lgbr.co.kr/index.do",
+  "logo": "https://www.lgbr.co.kr/assets/images/lg_pavicon.png",
+  "background": "rgba(180,83,38,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "전자공시시스템",
+  "desc": "...",
+  "link": "https://dart.fss.or.kr/",
+  "logo": "https://dart.fss.or.kr/favicon.ico",
+  "background": "rgba(76,165,224,0.2)"
+}
+```
+
+<SiteInfo
+  name="더브이씨 (THE VC) - 한국 스타트업 투자 데이터베이스"
+  desc="한국 스타트업의 투자 동향과 스타트업, 비상장 기업, 액셀러레이터, 벤처캐피탈을 빠르게 파악하고 발견하세요."
+  url="https://thevc.kr/"
+  logo="https://thevc.kr/icons/android-icon-192x192.png"
+  preview="https://ui-resources.thevc.kr/images/banners/database.jpg"/>
+
+<SiteInfo
+  name="혁신의숲 - 스타트업 성장분석 플랫폼"
+  desc="스타트업 성장분석 플랫폼 혁신의숲에서 수천개 기업의 다양한 성장 데이터를 확인해 보세요."
+  url="https://www.innoforest.co.kr/"
+  logo="https://www.innoforest.co.kr/images/favicon/apple-touch-icon.png"
+  preview="https://www.innoforest.co.kr/images/og/inno_220112.png"/>
+
+<SiteInfo
+  name="네이버페이 증권"
+  desc="국내 해외 증시 지수, 시장지표, 뉴스, 증권사 리서치 등 제공"
+  url="https://finance.naver.com/"
+  logo="https://ssl.pstatic.net/imgstock/favi/favicon-192x192.png"
+  preview="https://ssl.pstatic.net/static/m/stock/im/2016/08/og_stock-200.png"/>
+
+```component VPCard
+{
+  "title": "한경 컨센서스 | 한국경제",
+  "desc": "한경 컨센서스, 한경코리아마켓 국내증권, 시장의 전반적인 지표를 제공",
+  "link": "https://markets.hankyung.com/consensus",
+  "logo": "https://static.hankyung.com/favicon.ico",
+  "background": "rgba(26,43,99,0.2)"
+}
+```
+
+<SiteInfo
+  name="매일경제 마켓"
+  desc="국내 및 해외 증시 정보, 경제지표, 증권 뉴스, 리포트 등 제공"
+  url="https://stock.mk.co.kr/"
+  logo="https://static.mk.co.kr/favicon_new.ico"
+  preview="https://stock.mk.co.kr/images/default.jpg"/>
+
+<SiteInfo
+  name="보도자료(목록) | 커뮤니케이션 | 한국은행"
+  desc="한국은행과 관련된 보도자료 제공 게시판"
+  url="https://www.bok.or.kr/portal/bbs/P0000559/list.do?menuNo=200690&searchWrd=%EA%B2%BD%EC%98%81%EB%B6%84%EC%84%9D&searchCnd=1&sdate=&edate="
+  logo="https://www.bok.or.kr/static/commons/bok.ico"
+  preview="https://www.bok.or.kr/static/portal/img/common/logo.png"/>
+
+<SiteInfo
+  name="KPMG Korea - KPMG 한국"
+  desc="삼정KPMG는 회계감사 서비스를 비롯하여 조세 및 재무 경영 진단, Financing, 자산관리에 이르기까지 기업 경영 전반에 걸친 종합적인 서비스를 제공합니다."
+  url="https://kpmg.com/kr/ko/home.html"
+  logo="https://kpmg.com/etc/designs/default/kpmg/favicons/apple-touch-icon-180x180-precomposed.png"
+  preview="https://assets.kpmg.com/is/image/kpmg/kpmg-enterance:cq5dam.web.1200.630"/>
+
+```component VPCard
+{
+  "title": "Samil PwC",
+  "desc": "삼일회계법인 홈페이지에 오신 것을 환영합니다.",
+  "link": "https://www.pwc.com/kr/ko.html",
+  "logo": "https://www.pwc.com/favicon.ico",
+  "background": "rgba(193,83,34,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "PwC: Building trust for today and tomorrow",
+  "desc": "We are a community of solvers combining human ingenuity, experience and technology innovation to help organisations build trust and deliver sustained outcomes.",
+  "link": "https://www.pwc.com/gx/en.html",
+  "logo": "https://www.pwc.com/favicon.ico",
+  "background": "rgba(193,83,34,0.2)"
+}
+```
+
+<SiteInfo
+  name="KOTRA 해외시장뉴스"
+  desc="메인"
+  url="https://dream.kotra.or.kr/kotranews/index.do"
+  logo="https://dream.kotra.or.kr/type/common/img/common/favicon_news.ico"
+  preview="https://dream.kotra.or.kr/type/news/img/layout/logo_navi.png"/>
+
+<SiteInfo
+  name="Ipsos | Global Market Research and Public Opinion Specialist"
+  desc="Global leader in market research, Ipsos delivers reliable information and true understanding of Society, Markets and People. Our solutions use data from surveys, polls, social media or qualitative, and provide actionable insights into the experience and opinions of citizens, consumers, patients, customers, employees."
+  url="https://www.ipsos.com/en-id"
+  logo="https://www.ipsos.com/themes/custom/ipsos/favicon.ico"
+  preview="https://www.ipsos.com/themes/custom/ipsos/logo.svg"/>
+
+<SiteInfo
+  name="Product Reviews and Ratings - Consumer Reports"
+  desc="Get unbiased ratings and reviews for 9,000+ products and services from Consumer Reports, plus trusted advice and in-depth reporting on what matters most."
+  url="https://www.consumerreports.org/"
+  logo="https://www.consumerreports.org/favicon.ico"
+  preview="https://article.images.consumerreports.org/f_auto/prod/content/dam/cro/homepage/CR%20Twitter%20Card%20Green%20300%20x%20157"/>
+
+```component VPCard
+{
+  "title": "HOME - Contenta M",
+  "desc": "콘텐츠 마케팅 전문 회사 콘텐타 매거진",
+  "link": "https://magazine.contenta.co/",
+  "logo": "https://magazine.contenta.co/wp-includes/images/w-logo-blue-white-bg.png",
+  "background": "rgba(88,186,183,0.2)"
+}
+```
+
+<SiteInfo
+  name="뉴닉 NEWNEEK"
+  desc="우리가 시간이 없지, 세상이 안 궁금하냐!"
+  url="https://www.newneek.co/"
+  logo="https://www.newneek.co/assets/apple-touch-icon.png"
+  preview="https://newneek.co/og.png"/>
+
+<SiteInfo
+  name="홈 - UPPITY 어피티"
+  desc="MZ 세대의 돈 이야기, 35만 명이 선택한 경제 미디어. 뉴스레터, 영상 콘텐츠를 통해 서비스를 제공하며, 월~금 오전 8시에 발송되는 경제뉴스 메일링 서비스, 머니레터를 운영하고 있습니다."
+  url="https://uppity.co.kr/"
+  logo="https://uppity.co.kr/wp-content/uploads/fbrfg/apple-touch-icon.png"
+  preview="https://uppity.co.kr/wp-content/uploads/2024/03/share-thumbnail.png"/>
+
+<SiteInfo
+  name="NAVER 학술정보"
+  desc="Scholarly search engine for academic articles, theses, conferences and journals"
+  url="https://academic.naver.com/"
+  logo="https://academic.naver.com/favicon/android_legacy_xxxhpdi_192x192.png"
+  preview="https://academic.naver.com/img/academic_og_200.png"/>
+
+<SiteInfo
+  name="칸타 코리아"
+  desc="데이터분석, 마케팅조사/컨설팅, 소비자패널조사, 정치사회여론조사, 플랫폼비즈니스"
+  url="https://kantar.co.kr/index.php?module=Board&action=SiteBoard&sMode=SELECT_FORM&iBrdNo=3"
+  preview="https://www.kantar.co.kr/myimage.jpg"/>
+
+<SiteInfo
+  name="데이터로 시장과 소비자를 이해하는 법 - 오픈서베이 블로그"
+  desc="시장과 소비자, 데이터와 리서치에 관한 가장 깊고 정확한 인사이트를 얻는 법"
+  url="https://blog.opensurvey.co.kr/"
+  logo="https://i0.wp.com/blog.opensurvey.co.kr/wp-content/uploads/2021/12/android-icon-192x192-1.png?fit=192%2C192&ssl=1"
+  preview="https://blog.opensurvey.co.kr/wp-content/uploads/2022/04/metatag_opensurvey_hompage.png"/>
+
+```component VPCard
+{
+  "title": "한국갤럽조사연구소",
+  "desc": "한국갤럽 자체 조사 결과 아카이브, 조사에 관한 이야기",
+  "link": "https://www.gallup.co.kr/gallupdb/main.asp",
+  "logo": "https://www.gallup.co.kr/images/favicon/apple-touch-icon.png",
+  "background": "rgba(23,28,34,0.2)"
+}
+```
+
+<SiteInfo
+  name="컨슈머인사이트"
+  desc="쉽고 빠른 리서치, 마케팅/여론 조사, 국내 유일한 대규모 비편향 패널 독자보유, 자동차, ICT, 금융, 여행, 교통, 미디어 엔터테인먼트 산업전문, 데이터 융합형 리서치"
+  url="https://www.consumerinsight.co.kr/voc_list_search.aspx"
+  logo="https://www.consumerinsight.co.kr/img/apple-touch-icon.png"
+  preview="https://www.consumerinsight.co.kr/img/og.jpg"/>
+
+```component VPCard
+{
+  "title": "KOSIS 국가통계포털",
+  "desc": "코시스, 통계청이 제공하는 원스톱 통계 서비스, 국가승인통계, 국제통계, 북한통계, e-지방지표, 통계시각화콘텐츠, 온라인간행물 등 제공",
+  "link": "https://kosis.kr/index/index.do",
+  "logo": "https://kosis.kr/favicon.ico",
+  "background": "rgba(92,164,148,0.2)"
+}
+```
+
+<!-- @end Trending Korea -->
 
 @tab <FontIcon icon="fas fa-globe"/>Tech Blog
 

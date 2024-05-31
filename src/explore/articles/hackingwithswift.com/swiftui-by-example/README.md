@@ -1653,6 +1653,16 @@ Swipes, taps, shakes, and other input
 }
 ```
 
+```component VPCard
+{
+  "title": "How to handle pinch to zoom for views | SwiftUI by Example",
+  "desc": "How to handle pinch to zoom for views",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-handle-pinch-to-zoom-for-views.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
 :::
 
 ::: details Advanced state

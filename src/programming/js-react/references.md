@@ -253,7 +253,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### .NET Blog
+### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
 

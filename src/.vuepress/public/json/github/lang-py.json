@@ -2626,9 +2626,9 @@
     "topics": ["language-model", "autonomous-agents", "llm"]
   }, {
     "repo": "kholia/OSX-KVM",
-    "desc": "Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
-    "officialSite": "os",
-    "topics": ["macos", "osx", "emulation", "virtualization", "kvm", "qemu", "hackintosh", "qemu-kvm", "ventura", "macos-installer", "macos-mojave", "mojave-hackintosh", "catalina", "catalina-hackinotsh", "bigsur", "bigsur-hackintosh", "kernel-debugging", "monterey-hackintosh", "monterey", "ventura-hackintosh"]
+    "desc": "Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+    "officialSite": "",
+    "topics": ["bigsur", "bigsur-hackintosh", "catalina-hackinotsh", "emulation", "hackintosh", "kernel-debugging", "kvm", "macos", "macos-installer", "macos-mojave", "monterey", "monterey-hackintosh", "osx", "qemu", "qemu-kvm", "sonoma-hackintosh", "ventura", "ventura-hackintosh", "virtualization"]
   }, {
     "repo": "fishaudio/Bert-VITS2",
     "desc": "vits2 backbone with bert",
@@ -5393,6 +5393,41 @@
     "repo": "Jeff-LiangF/streamv2v",
     "desc": "Official Pytorch implementation of StreamV2V.",
     "officialSite": "https://jeff-liangf.github.io/projects/streamv2v/",
+    "topics": []
+  }, {
+    "repo": "scottvr/wadzilla",
+    "desc": "\"It Runs Doom.\"  \"Zork?\"  \"Yes.\"  Wadzilla converts Doom WAD files into ZIL text format suitable for compilation to an Infocom-style game, because Doom on Everything.",
+    "officialSite": "",
+    "topics": ["doom", "infocom", "wad", "zil", "zork"]
+  }, {
+    "repo": "lllyasviel/Omost",
+    "desc": "Your image is almost there!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ToonCrafter/ToonCrafter",
+    "desc": "a research paper for generative cartoon interpolation",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "lanqian528/chat2api",
+    "desc": "A service that can convert ChatGPT on the web to OpenAI API format.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jianchang512/ChatTTS-ui",
+    "desc": "一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。",
+    "officialSite": "https://pyvideotrans.com",
+    "topics": ["chattts", "tts"]
+  }, {
+    "repo": "novitalabs/AnimateAnyone",
+    "desc": "Unofficial Implementation of Animate Anyone by Novita AI",
+    "officialSite": "https://novita.ai",
+    "topics": ["animateanyone", "videogeneration"]
+  }, {
+    "repo": "ilotoki0804/fieldenum",
+    "desc": "Rust-like fielded Enum in Python",
+    "officialSite": "",
     "topics": []
   }
 ]

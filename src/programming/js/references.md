@@ -213,6 +213,7 @@ tag:
 
 - [[이펙티브 타입스크립트] 1장 타입스크립트 알아보기](https://paran21.tistory.com/235)
 - [[이펙티브 타입스크립트] 3장 타입 추론 19~23](https://paran21.tistory.com/236)
+- [\[이펙티브 타입스크립트\] 4장 타입 설계 28~32](https://paran21.tistory.com/237)
 
 ---
 
@@ -345,6 +346,18 @@ tag:
 ## Read the Tea Leaves
 
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+
+---
+
+## 없으면 없는대로
+
+- [JavaScript로 메모리에 직접 접근하는 방법에 대하여](https://ingeec.tistory.com/129)
+
+---
+
+## Teveloper 개발 & 테니스 이야기
+
+- [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 발표 후기](https://teveloper.tistory.com/79)
 
 ---
 

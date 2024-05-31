@@ -10,12 +10,14 @@ category:
   - Article(s)
 tag: 
   - blog
+  - meetup.nhncloud.com
   - zuminternet.github.io
   - node
   - nodejs
-  - vue
-  - vuejs
-  - vue-js
+  - google
+  - google-chrome
+  - googlechrome
+  - browser
 head:
   - - meta:
     - property: og:title
@@ -30,6 +32,16 @@ head:
 
 ```component VPCard
 {
+  "title": "NHN Cloud Meetup - NHN 기술 블로그",
+  "desc": "기술을 공유하고 함께 성장해가는 개발 문화, NHN이 추구하는 가치입니다.",
+  "link": "https://meetup.nhncloud.com/",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "ZUM 기술 블로그",
   "desc": "생각을 읽다, ZUM, 고객의 생각을 읽고 담는 줌 인터넷 개발자들의 '좀 다른 개발 이야기'를 소개 합니다.",
   "link": "https://zuminternet.github.io/",
@@ -39,6 +51,22 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+> meetup.nhncloud.com
+
+```component VPCard
+{
+  "title": "Chromium이 발표한 RenderingNG가 무엇인가? | NHN Cloud Meetup",
+  "desc": "Chromium이 발표한 RenderingNG가 무엇인가?",
+  "link": "/explore/articles/meetup.nhncloud.com/293.md",
+  "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
+  "background": "rgba(76,156,227,0.2)"
+}
+```
 
 ---
 

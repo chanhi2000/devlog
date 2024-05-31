@@ -11,6 +11,7 @@ tag:
   - blog
   - smashingmagazine.com
   - yozm.wishket.com
+  - tech.kakao.com
   - career
   - tips
 head:
@@ -42,6 +43,16 @@ head:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "카카오테크, 미래의 문턱을 낮추는 기술",
+  "desc": "미래의 문턱을 낮추는 기술",
+  "link": "https://tech.kakao.com/blog/",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
 }
 ```
 
@@ -146,6 +157,22 @@ head:
   "link": "/explore/articles/yozm.wishket.com/2587.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+---
+
+## 카카오테크, 미래의 문턱을 낮추는 기술
+
+> tech.kakao.com
+
+```component VPCard
+{
+  "title": "Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기 | 카카오테크",
+  "desc": "Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기",
+  "link": "/explore/articles/tech.kakao.com/447.md",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
 }
 ```
 

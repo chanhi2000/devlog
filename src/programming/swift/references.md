@@ -432,6 +432,7 @@ tag:
 - [`@ObservedObject` and `@StateObject` in SwiftUI](https://junhyunny.github.io/ios/swift-ui/state-object-vs-observed-object/)
 - [MVVM Pattern in SwiftUI](https://junhyunny.github.io/ios/swift-ui/design-pattern/mvvm-pattern-in-ios/)
 - [How to test alert in iOS with `ViewInspector`](https://junhyunny.github.io/ios/swift/swift-ui/test-driven-development/how-to-test-alert-in-ios-with-view-inspector/)
+- [How to make CheckBox Component in SwiftUI](https://junhyunny.github.io/ios/swift/swift-ui/test-driven-development/how-to-make-check-box-component-in-swift-ui/)
 
 ---
 

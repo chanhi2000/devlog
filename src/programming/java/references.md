@@ -37,23 +37,16 @@ tag:
 
 ### G마켓 기술블로그
 
-- [설계란 고민의 연속이다 1편](/explore/articles/dev.gmarket.com/104.md)
-
-<!-- TODO: 작성 (/explore/articles/dev.gmarket.com/104.md) -->
+- [설계란 고민의 연속이다 1편](/explore/articles/dev.gmarket.com/104.md) <!-- TODO: 작성 (/explore/articles/dev.gmarket.com/104.md) -->
 
 ### 우아한 기술블로그
 
-- [Java Enum 활용기](https://techblog.woowahan.com/2527)
-- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)
-
-<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2527.md) -->
-<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2698.md) -->
+- [Java Enum 활용기](https://techblog.woowahan.com/2527)<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2527.md) -->
+- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2698.md) -->
 
 ### 요즘IT
 
-- [자바 개발자를 위한 컨테이너 이미지 빌드](https://yozm.wishket.com/magazine/detail/2018)
-
-<!-- TODO: 작성 (/explore/articles/yozm.wishket.com/2018.md) -->
+- [자바 개발자를 위한 컨테이너 이미지 빌드](https://yozm.wishket.com/magazine/detail/2018) <!-- TODO: 작성 (/explore/articles/yozm.wishket.com/2018.md) -->
 
 ### Baeldung
 
@@ -96,6 +89,7 @@ tag:
 - [`@qkrtkdwns3410` / [이펙티브 자바.아이템5] 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C5-%EC%9E%90%EC%9B%90%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%AA%85%EC%8B%9C%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%A1%B4-%EA%B0%9D%EC%B2%B4-%EC%A3%BC%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 - [`@qkrtkdwns3410` / [이펙티브 자바.아이템6] 불필요한 객체 생성을 피하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C6-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC)
 - [`@qkrtkdwns3410` / [이펙티브 자바.아이템7] 다 쓴 객체 참조를 해제하라.](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C7-%EB%8B%A4-%EC%93%B4-%EA%B0%9D%EC%B2%B4-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC)
+- [\[이펙티브 자바.아이템 11\] `equals` 를 재정의하거든 `hashcode` 도 재정의하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C-11-equals-%EB%A5%BC-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EA%B1%B0%EB%93%A0-hashcode-%EB%8F%84-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
 
 ### <FontIcon icon="iconfont icon-blex"/>BLEX
 
@@ -285,9 +279,7 @@ tag:
 ### InfoQ
 
 - [Java 22 Delivers Foreign Memory & Memory API, Unnamed Variables & Patterns, and Return of JavaOne](https://www.infoq.com/news/2024/03/java22-released/)
-- [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java)
-
-<!-- TODO: 작성 (/explore/articles/infoq.com/netflix-java.md) -->
+- [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java) <!-- TODO: 작성 (/explore/articles/infoq.com/netflix-java.md) -->
 
 ### 얇고 넓은 개발자
 
@@ -303,6 +295,7 @@ tag:
 - [Java HashMap의 내부 동작 - 실전편](https://potwings.tistory.com/60)
 - [Java HashMap의 내부 동작 - 해시 버킷 개수 조정](https://potwings.tistory.com/61)
 - [X바(자바) finalize 메소드 쓰지마세요](https://potwings.tistory.com/63)
+- [문자열 탐색 성능 개선](https://potwings.tistory.com/64)
 
 ### integer
 
@@ -564,6 +557,8 @@ tag:
 - [[Kotlin] 백준 25418 : 정수 a를 k로 만들기](https://colabear754.tistory.com/210)
 - [[Kotlin] 백준 28078 : 중력 큐](https://colabear754.tistory.com/213)
 - [[Kotlin] 백준 17612 : 쇼핑몰](https://colabear754.tistory.com/214)
+- [\[Kotlin\] 백준 14715 : 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)](https://colabear754.tistory.com/215)
+
 
 ### Square Lab
 
@@ -636,6 +631,7 @@ tag:
 ### 남경호
 
 - [Querydsl에서 Kotlin JDSL 으로](https://veluxer62.github.io/explanation/transfer-jdsl/)
+- [코딩 컨벤션을 테스트 하자(feat. Konsist)](https://veluxer62.github.io/tutorials/getting-started-with-konsist/)
 
 ### 연로그
 

@@ -33,12 +33,20 @@ head:
 - [GitHub Copilot Chat beta now available for every organization](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization)
 - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 - [GitHub Copilot Chat in GitHub Mobile is now generally available](https://github.blog/2024-05-07-github-copilot-chat-in-github-mobile/)
+- [Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners](https://github.blog/2024-05-21-introducing-github-copilot-extensions/)
+
 
 ---
 
 ## ar5iv – Articles from arXiv.org as responsive HTML5 web documents
 
 - [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot](https://ar5iv.labs.arxiv.org/html/2302.06590)
+
+---
+
+## DAILY LOG
+
+- [\[Copilot\] 깃허브 코파일럿은 어떻게 작동하는가?](https://jiyeonseo.github.io/2024/05/31/how-github-copilot-works/)
 
 ---
 

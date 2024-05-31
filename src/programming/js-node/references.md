@@ -367,7 +367,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### .NET Blog
+### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
 
@@ -1010,6 +1010,7 @@ tag:
 ## ESLint
 
 - [Introducing ESLint Compatibility Utilities](https://eslint.org/blog/2024/05/eslint-compatibility-utilities/)
+- [Introducing the ESLint Configuration Migrator](https://eslint.org/blog/2024/05/eslint-configuration-migrator/)
 
 ---
 
@@ -1076,6 +1077,18 @@ tag:
 ## Dev. DY
 
 - [Vanilla JS에서 SPA 라우팅 시스템 구현하기](https://kdydesign.github.io/2020/10/06/spa-route-tutorial/)
+
+---
+
+## Marshall K의 블로그
+
+- [Visual regression test 도입기](https://marshallku.com/dev/visual-regression-test)
+
+---
+
+## Nearform
+
+- [Introducing Milo: A modern HTTP parser](https://www.nearform.com/digital-community/milo-a-new-http-parser-for-node-js/)
 
 ---
 

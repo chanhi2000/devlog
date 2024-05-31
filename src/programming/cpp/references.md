@@ -46,6 +46,9 @@ tag:
 - [`@jwlee010523` / 프렌드(friend) 키워드](https://velog.io/@jwlee010523/friend)
 - [`@jwlee010523` / 예외 처리(Exception handling)](https://velog.io/@jwlee010523/exception-handling)
 - [`@jwlee010523` / 연산자 오버로딩(Operator Overloading)](https://velog.io/@jwlee010523/Operator-Overloading)
+- [`@jwlee010523` / dynamic cast](https://velog.io/@jwlee010523/dynamic-cast)
+- [`@jwlee010523` / 다중 상속과 가상 상속](https://velog.io/@jwlee010523/%EB%8B%A4%EC%A4%91-%EC%83%81%EC%86%8D%EA%B3%BC-%EA%B0%80%EC%83%81-%EC%83%81%EC%86%8D)
+- [`@jwlee010523` / 상속(inheritance)](https://velog.io/@jwlee010523/inheritance)
 
 ---
 
@@ -117,6 +120,9 @@ tag:
 - [[EasyWin32/Q&A] 일정한 크기로 줄여서 이미지를 출력해야 합니다.](https://blog.naver.com/https://blog.naver.com/PostView.nhn?&redirect=Dlog&widgetTypeCall=true&blogId=tipsware&logNo=223457556313)
 - [MFC 프로그래밍 테스트 과제 - Step 2](https://blog.naver.com/https://blog.naver.com/PostView.nhn?&redirect=Dlog&widgetTypeCall=true&blogId=tipsware&logNo=223456086684)
 - [\[EasyWin32\] 삼각함수 실습 - Step 2](https://blog.naver.com/PostView.nhn?&blogId=tipsware&logNo=223458998587&redirect=Dlog&widgetTypeCall=true)
+- [응용 프로그램에서 메시지 박스를 출력할 때](https://blog.naver.com/tipsware/223465838391)
+- [CTaskDialog 클래스에 대하여](https://blog.naver.com/tipsware/22346514767)
+- [엘리베이터 운행 시뮬레이션에 층 이동 계획 기능이 추가되었습니다.](https://blog.naver.com/tipsware/223463625196)
 
 ---
 

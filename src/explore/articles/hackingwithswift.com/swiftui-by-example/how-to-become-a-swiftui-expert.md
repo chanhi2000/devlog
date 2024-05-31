@@ -22,6 +22,7 @@ head:
       content: How to become a SwiftUI expert
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-become-a-swiftui-expert.html
+next: /explore/articles/hackingwithswift.com/swiftui-by-example/understanding-property-wrappers-in-swift-and-swiftui.md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -118,7 +119,15 @@ Find out more here
 }
 ```
 
-How to fix “Ambiguous reference to member 'buildBlock()’” <!-- TODO: add -->
+```component VPCard  
+{
+  "title": "How to fix “Ambiguous reference to member 'buildBlock()'” | SwiftUI by Example",
+  "desc": "How to fix “Ambiguous reference to member 'buildBlock()'”",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-ambiguous-reference-to-member-buildblock.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 ```component VPCard
 {

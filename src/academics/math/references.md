@@ -75,6 +75,7 @@ head:
 - [`@ksh4704` - 코드스테이츠-부트캠프 [Rest API]](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Rest-API)
 - [`@ksh4704` - 코드스테이츠-부트캠프 [UX/UI]-Design System(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84UXUI-Design-System1)
 - [`@ksh4704` - 코드스테이츠-부트캠프 [UX/UI]-Design System(2)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84UXUI-Design-System2)
+- [`@euisuk-chung` / 신호처리 및 푸리에 변환](https://velog.io/@euisuk-chung/%EC%8B%A0%ED%98%B8%EC%B2%98%EB%A6%AC-%EB%B0%8F-%ED%91%B8%EB%A6%AC%EC%97%90-%EB%B3%80%ED%99%98)
 
 ---
 
@@ -425,6 +426,8 @@ head:
 ## Be an Overachiever
 
 - [L1, L2 Regularization](https://devs0n.tistory.com/164)
+- [Dijkstra 알고리즘 문제 유형](https://devs0n.tistory.com/173)
+- [앙상블 기법](https://devs0n.tistory.com/174)
 
 ---
 
@@ -481,6 +484,12 @@ head:
 ## 드프 DrawingProcess
 
 - [[Paper] Academic 논문 쓰기 가이드라인](https://csj000714.tistory.com/1113)
+
+---
+
+## Warehouse of PKI
+
+- [RSA 개인키 특성](https://jykim74.tistory.com/275)
 
 ---
 

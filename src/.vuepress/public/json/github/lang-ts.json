@@ -2968,5 +2968,25 @@
     "desc": "Ai Chatbot that acts like a sales rep",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "soybeanjs/soybean-admin",
+    "desc": "A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。",
+    "officialSite": "https://soybeanjs.cn",
+    "topics": ["admin", "admin-template", "naive-ui", "naive-ui-admin", "pinia", "typescript", "unocss", "vite5", "vue", "vue-admin", "vue3"]
+  }, {
+    "repo": "ishaan1013/sandbox",
+    "desc": "A cloud-based code editing environment with an AI copilot and real-time collaboration.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "magicuidesign/magicui",
+    "desc": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+    "officialSite": "https://magicui.design",
+    "topics": ["components", "framer-motion", "nextjs", "react", "shadcn-ui", "tailwindcss", "typescript"]
+  }, {
+    "repo": "egoist/tsup",
+    "desc": "The simplest and fastest way to bundle your TypeScript libraries.",
+    "officialSite": "https://tsup.egoist.dev",
+    "topics": []
   }
 ]

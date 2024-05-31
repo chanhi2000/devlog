@@ -277,4 +277,11 @@ head:
 
 ---
 
+## TWpower's Tech Blog
+
+- [\[Cloud\] Cloud Service Provider(AWS, GCP, Azure) API 사용 이슈에 대한 장애 대응 사례 정리](https://twpower.github.io/343-case-study-of-incident-response-for-cloud-service-provider-api-usage-issue)
+- [\[Cloud\]\(EN\) Case study of incident response for cloud service provider (AWS, GCP, Azure) API usage issue](https://twpower.github.io/342-case-study-of-incident-response-for-cloud-service-provider-api-usage-issue-en)
+
+---
+
 <TagLinks />

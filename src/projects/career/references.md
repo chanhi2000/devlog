@@ -37,7 +37,15 @@ tag:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
-- [Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기](https://tech.kakao.com/posts/447) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/447.md) -->
+```component VPCard
+{
+  "title": "Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기 | 카카오테크",
+  "desc": "Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기",
+  "link": "/explore/articles/tech.kakao.com/447.md",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
+}
+```
 
 ---
 
@@ -119,6 +127,7 @@ tag:
 - [`@devendunegi06` - I Solved 300+ Leetcode problems here is what I learnt.](https://medium.com/@devendunegi06/my-journey-of-solving-300-leetcode-problems-some-takeaways-which-can-help-you-in-yours-2fee80c7086a)
 - [`jaeyeong951` / 어떤 개발자의 3년 치 회고록](https://jaeyeong951.medium.com/%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-3%EB%85%84%EC%B9%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D-d2701ac2938c)
 - [`giljae` / 스포티파이 스쿼드 모델](https://giljae.medium.com/%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-%EC%8A%A4%EC%BF%BC%EB%93%9C-%EB%AA%A8%EB%8D%B8-9d26ba81cefe)
+- [`mjspring` / 능동적으로 회의 비효율 제거하기](https://mjspring.medium.com/%EB%8A%A5%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%9A%8C%EC%9D%98-%EB%B9%84%ED%9A%A8%EC%9C%A8-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-d0d05cfbe589)
 
 ---
 
@@ -154,6 +163,7 @@ tag:
 - [`@seunghoon82` / 과한 책임감은 때론 나를 파괴하는 독이 될때가 있다.](https://brunch.co.kr/@seunghoon82/497)
 - [`@cleancode` / 중요한 일을 잘하는 방법](https://brunch.co.kr/@cleancode/77)
 - [`@duk-hyun` / 디지털 혁신 전술: 디지털화 대상](https://brunch.co.kr/@duk-hyun/114)
+- [`@reinlainer` / \[자본주의\] 지급준비율](https://brunch.co.kr/@reinlainer/90)
 
 ---
 
@@ -779,6 +789,7 @@ tag:
 ## 테오
 
 - [[더 나은 엔지니어가 되기 위한 루틴] 취미부터 중소기업, 대기업, 스타트업, 창업까지 경험하며 느낀 점](https://dataportal.kr/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%A3%A8%ED%8B%B4-%EC%B7%A8%EB%AF%B8%EB%B6%80%ED%84%B0-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%EA%B9%8C%EC%A7%80-%EA%B2%BD%ED%97%98%ED%95%98%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90/)
+- [우리가 하는 일은 두 가지 유형의 일 뿐이다. (부제; 직무의 통합)](https://dataportal.kr/%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EC%9D%BC-%EB%BF%90%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%86%B5%ED%95%A9/)
 
 ---
 
@@ -892,5 +903,13 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 - [초보 웹 개발자를 위한 학습 안내서](https://subicura.com/2021/06/27/study-guide.html)
 
 ---
+
+## point of view.
+
+- [구글 코리아 인턴십 인터뷰 회고록](https://jaewook.me/google-korea-interview-review)
+
+---
+
+## 
 
 <TagLinks />

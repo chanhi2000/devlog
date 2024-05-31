@@ -19,5 +19,11 @@ tag:
 
 ---
 
+## chhanz 기술 블로그
+
+- [\[Proxmox\] Create Cluster the Proxmox 8.2.1](https://tech.chhanz.xyz/linux/2024/05/31/pve-cluster/)
+- [\[Proxmox\] Deploy Ceph in Proxmox 8.2.1](https://tech.chhanz.xyz/linux/2024/05/31/pve-with-ceph/)
+
+---
 
 <TagLinks />

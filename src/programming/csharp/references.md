@@ -21,7 +21,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### .NET Blog
+### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
 - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8)

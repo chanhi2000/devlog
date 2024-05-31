@@ -25,7 +25,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### .NET Blog
+### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [My Top 10 NEW Visual Studio Features of 2023 for .NET Developers](https://devblogs.microsoft.com/dotnet/my-top-10-new-visual-studio-features-of-2023-for-dotnet-developers/)
 

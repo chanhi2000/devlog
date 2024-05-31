@@ -49,4 +49,10 @@ head:
 
 ---
 
+## Figma Blog | Shortcut
+
+- [Keeping it 100(x) with real-time data at scale](https://www.figma.com/blog/livegraph-real-time-data-at-scale/)
+
+---
+
 <TagLinks />

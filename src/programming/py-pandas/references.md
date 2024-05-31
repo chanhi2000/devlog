@@ -33,9 +33,9 @@ head:
 ## 멈춤보단 천천히라도
 
 - [Optuna를 사용하여 XGBoost 최적 하이퍼 파라미터 구하는 예제코드](https://webnautes.tistory.com/2029)
+- [RandomizedSearchCV를 사용하여 XGBoost 최적 하이퍼 파라미터 구하는 예제코드](https://webnautes.tistory.com/2339)
 
 ---
-
 
 ## InfluxDB Time Series Data Platform | InfluxData
 

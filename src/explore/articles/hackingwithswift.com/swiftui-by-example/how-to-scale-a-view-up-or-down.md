@@ -142,7 +142,15 @@ Scaling up a view won’t cause it to be redrawn at its new size, only stretched
 }
 ```
 
-What’s the difference between @ObservedObject, @State, and @EnvironmentObject? <!-- TODO: add link -->
+```component VPCard
+{
+  "title": "What's the difference between @ObservedObject, @State, and @EnvironmentObject? | SwiftUI by Example",
+  "desc": "What's the difference between @ObservedObject, @State, and @EnvironmentObject?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/whats-the-difference-between-observedobject-state-and-environmentobject.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

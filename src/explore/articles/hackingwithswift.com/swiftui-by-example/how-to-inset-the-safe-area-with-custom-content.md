@@ -131,7 +131,15 @@ You can apply `safeAreaInset()` multiple times if needed, and each inset will ta
 }
 ```
 
-How to place content into the safe area <!-- TODO: FIND LINK -->
+```component VPCard
+{
+  "title": "How to inset the safe area with custom content | SwiftUI by Example",
+  "desc": "How to inset the safe area with custom content",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-inset-the-safe-area-with-custom-content.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 ```component VPCard
 {

@@ -69,7 +69,7 @@ Note that we don't need to specify that we mean <kbd>Cmd</kbd>+<kbd>L</kbd>, bec
 
 ![The words “Log in” in blue, indicating they are tappable. Below that is iPadOS's command palette showing the Log In command has the <kbd>Cmd</kbd>+<kbd>L</kbd> shortcut.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-add-keyboard-shortcuts-using-keyboardshortcut-1~dark.png)
 
-The second way to use `keyboardShortcut()` is to specify which modifier keys you actually want. As an example, this creates two more buttons, one using Shift+R to trigger a Run button, and another for <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>Cmd</kbd>+<kbd>H</kbd> to trigger a Home button:
+The second way to use `keyboardShortcut()` is to specify which modifier keys you actually want. As an example, this creates two more buttons, one using <kbd>Shift</kbd>+<kbd>R</kbd> to trigger a Run button, and another for <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>Cmd</kbd>+<kbd>H</kbd> to trigger a Home button:
 
 ```swift
 VStack {
