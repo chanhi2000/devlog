@@ -177,6 +177,7 @@ head:
 - [`@hakokim` - React Native 앱 접근성 지원 시작하기](https://velog.io/@hakokim/React-Native-%EC%95%B1-%EC%A0%91%EA%B7%BC%EC%84%B1-%EC%A7%80%EC%9B%90-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [`@eunbinn` - [번역] 리액트 컴파일러와 리액트 19 - 이제 메모이제이션을 신경쓰지 않아도 되나요?](https://velog.io/@eunbinn/react-compiler-soon)
 - [`@eunbinn` - [번역] DALL-E와 Next.js로 이미지 편집기 만들기](https://velog.io/@eunbinn/image-editor-dall-e-next)
+- [`@yaytomato` / 🍪 프론트에서 안전하게 로그인 처리하기 (ft. React)](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 
 ---
 
@@ -256,6 +257,15 @@ head:
 ### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
+
+---
+
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+### 카카오테크, 미래의 문턱을 낮추는 기술
+
+- [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들](https://tech.kakao.com/posts/413)
+<!-- TODO: 작성 (/explore/articles/tech.kakao.com/413.md) -->
 
 ---
 
@@ -852,6 +862,12 @@ https://o-yeon.tistory.com/227
 ## Overcoming overcomplication → Alexey Taktarov
 
 - [React Tricks: Fast, Fit and Fun](https://molefrog.com/notes/react-tricks)
+
+---
+
+## Life & Dev
+
+- [싱페어 (SPA) 의 피로감](https://seokjun.kim/spa-is-aweful)
 
 ---
 

@@ -70,6 +70,14 @@ tag:
 
 - [Airbridge API 개발팀의 Monorepo 도입기](https://engineering.ab180.co/stories/airbridge-api-monorepo) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/airbridge-api-monorepo.md) -->
 
+---
+
+## Blog - LINE ENGINEERING
+
+- [LINE 광고 서버 개발 팀의 DevOps 문화](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/line-ads-devops-culture.md) -->
+
+---
+
 ## Free Java & OpenJDK Info for Daily Java Usage | foojay
 
 - [Using my new Raspberry Pi to run an existing GitHub Action](https://foojay.io/today/using-my-new-raspberry-pi-to-run-an-existing-github-action/)

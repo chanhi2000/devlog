@@ -35,6 +35,12 @@ head:
 
 ---
 
+## NAVER D2
+
+- [대용량 스트리밍 데이터 실시간 분석](https://d2.naver.com/helloworld/7731491) <!-- TODO: 작성 (/explore/articles/d2.naver.com/7731491.md) -->
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`finda-tech` / 금융서비스 MSA 전환기 - DB 분리(1편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-db-%EB%B6%80-1%ED%8E%B8-63d09e7ebe0e)

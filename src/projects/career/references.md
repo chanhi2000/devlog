@@ -128,6 +128,7 @@ tag:
 - [`jaeyeong951` / 어떤 개발자의 3년 치 회고록](https://jaeyeong951.medium.com/%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-3%EB%85%84%EC%B9%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D-d2701ac2938c)
 - [`giljae` / 스포티파이 스쿼드 모델](https://giljae.medium.com/%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-%EC%8A%A4%EC%BF%BC%EB%93%9C-%EB%AA%A8%EB%8D%B8-9d26ba81cefe)
 - [`mjspring` / 능동적으로 회의 비효율 제거하기](https://mjspring.medium.com/%EB%8A%A5%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%9A%8C%EC%9D%98-%EB%B9%84%ED%9A%A8%EC%9C%A8-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-d0d05cfbe589)
+- [`styleshare` / 우리는 코드 리뷰를 잘하고 있을까요?](https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d)
 
 ---
 
@@ -822,8 +823,9 @@ tag:
 
 ---
 
-## Channy's Blog
+## `Channy's Blog`
   
+- [테크에반젤리스트가 하는 일은 무엇인가요?](https://channy.creation.net/blog/1400)
 - [아마존(Amazon)에서 배운 5가지 글쓰기와 소통 방식](https://channy.creation.net/blog/1620)
 - [10년 경력을 설계하는 방법](https://channy.creation.net/blog/1517)
 
@@ -910,6 +912,22 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 
 ---
 
-## 
+## Phil Eaton
+
+- [Eight years of organizing tech meetups](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
+
+---
+
+## Under The Pencil – 엘바노프 스튜디오 공식 블로그 겸 낙서장
+
+- [데이터 검증 (Data Validation)은 언제, 얼마나 해야 할까?](https://elvanov.com/2414)
+
+---
+
+## kciter.so
+
+- [개발자의 학습과 성장](https://kciter.so/posts/developers-learning-and-growth)
+
+---
 
 <TagLinks />

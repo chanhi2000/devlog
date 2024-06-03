@@ -136,16 +136,6 @@ You don't need to make each row use the same view type, so you can mix and match
 }
 ```
 
-```component VPCard
-{
-  "title": "Adding items to an order with @EnvironmentObject | SwiftUI by Example",
-  "desc": "Adding items to an order with @EnvironmentObject",
-  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/adding-items-to-an-order-with-environmentobject.md",
-  "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(54,94,226,0.2)"
-}
-```
-
 :::
 
 ---

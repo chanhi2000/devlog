@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Youtube
-description: MMongoDBySQL > Youtube
+description: MongoDB > Youtube
 icon: fa-brands fa-youtube
 category:
   - MongoDB

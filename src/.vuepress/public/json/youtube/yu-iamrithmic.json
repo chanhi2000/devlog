@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/1C7JsH9x4DmmcHxfVGJMhRIeSLmRH41Xnm2oKITHfuACk64NNt_iNA3Myy9sD3Z9VomitfFKcQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oilSbMPCsow", "title": "Complex Animations Shouldn't be SO Hard | Framer Motion + useAnimate" },
+    { "id": "ClhCYyqRnpM", "title": "A Cool Grid Effect for your Hero Section (Framer Motion)" },
+    { "id": "jcpLprT5F0I", "title": "Create the PERFECT Button (TailwindCSS / Framer Motion)" },
+    { "id": "-vUHJ6invPM", "title": "Wait....you can create 3D animations in CSS?" },
     { "id": "Pu6A9a2jRvY", "title": "Understanding map, filter and reduce in JavaScript #javascript #programming #coding #webdev" },
     { "id": "ZK-w-yFWfxM", "title": "Add Clerk Authentication & Stripe Payments to your NextJS tRPC Application" },
     { "id": "M6Euwo5XgZ4", "title": "Create a list of prime numbers in JavaScript #javascript #webdev #coding #javascriptdev" },

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Rust Tutorial – Learn Advanced Iterators & Pattern Matching by Building a JSON Parser
 description: Article(s) > Rust Tutorial – Learn Advanced Iterators & Pattern Matching by Building a JSON Parser
-icon: iconfont icon-rust
+icon: fa-brands fa-rust
 category: 
   - Rust
   - Article(s)

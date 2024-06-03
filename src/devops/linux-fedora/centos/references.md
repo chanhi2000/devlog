@@ -39,4 +39,10 @@ tag:
 
 ---
 
+## IT세상을 바꾸는 힘 지디넷코리아
+
+- [RHEL 클론 '센트OS' 사라진다](https://zdnet.co.kr/view/?no=20201209151925)
+
+---
+
 <TagLinks />

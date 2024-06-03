@@ -120,6 +120,7 @@ tag:
 - [`watcha` / 웹브라우저에서 동작하는 녹화앱 만들기](https://medium.com/watcha/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EB%85%B9%ED%99%94%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-70142ce28994)
 - [`naver-place-dev` / 자바스크립트와 V8 엔진의 메모리 관리 프로세스 \[ko\]](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 - [`javascript-scene` / 10 Interview Questions Every JavaScript Developer Should Know in 2024](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb)
+- [`violetboralee` / 모던 자바스크립트란 무엇인가(updated)](https://violetboralee.medium.com/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f7e115f03533)
 
 ---
 
@@ -358,6 +359,12 @@ tag:
 ## Teveloper 개발 & 테니스 이야기
 
 - [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 발표 후기](https://teveloper.tistory.com/79)
+
+---
+
+## 코드쓰는사람 - 주로 웹 기술을 다룹니다
+
+- [\[JS\] 한글도 지원하는 퍼지 문자열 검색](https://taegon.kim/archives/9919)
 
 ---
 

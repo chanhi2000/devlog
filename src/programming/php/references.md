@@ -116,5 +116,16 @@ tag:
 
 ---
 
+## SilNex
+
+- [PHP의 Git 서버가 해킹되었습니다.](https://silnex.github.io/blog/php-supply-chain-attacked)
+
+---
+
+## ha-ah
+
+- [PHP Annotated – October 2020](https://haah.kr/2020/10/24/php-annotated-october-2020/?)
+
+---
 
 <TagLinks />

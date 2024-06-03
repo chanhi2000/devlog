@@ -60,6 +60,13 @@ tag:
 
 ---
 
+## Blog - LINE ENGINEERING
+
+- [생체 정보를 활용한 안전한 로그인, passwordless LINE 프로젝트를 소개합니다](https://engineering.linecorp.com/ko/blog/secure-line-login-biometric-key) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/secure-line-login-biometric-key.md) -->
+
+---
+
+
 ## Penetration Testing
 
 - [Penetration Testing](https://securityonline.info)
@@ -276,6 +283,24 @@ tag:
 ## 데일리시큐
 
 - [심각한 아파치 log4j 취약점 대응...이렇게 하면 된다](https://dailysecu.com/news/articleView.html?idxno=132550)
+
+---
+
+## 개발자스럽다
+
+- [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
+
+---
+
+## HAHWUL
+
+- [well-known 디렉토리와 `securty.txt` 그리고 `humans.txt`](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
+
+---
+
+## 전자신문
+
+- [40개 간편결제를 단말기 하나로…금융결제원 'QR코드 중계 서비스' 추진](https://m.etnews.com/amp/20210208000167)
 
 ---
 

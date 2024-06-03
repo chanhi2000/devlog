@@ -82,6 +82,36 @@ head:
 
 ```component VPCard
 {
+  "title": "빠르게 학습하는 개발자가 되는 방법 | 요즘IT",
+  "desc": "빠르게 학습하는 개발자가 되는 방법",
+  "link": "/explore/articles/yozm.wishket.com/2334.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "좋은 개발 리더가 되기 위해 고민해 본 것들 | 요즘IT",
+  "desc": "좋은 개발 리더가 되기 위해 고민해 본 것들",
+  "link": "/explore/articles/yozm.wishket.com/2338.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "생산성 200% 올리는 업무 관리 방법(이론편) | 요즘IT",
+  "desc": "생산성 200% 올리는 업무 관리 방법(이론편)",
+  "link": "/explore/articles/yozm.wishket.com/2339.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "성장하고 싶은 당신이 꼭 해야 하는 인지적 활동 | 요즘IT",
   "desc": "성장하고 싶은 당신이 꼭 해야 하는 인지적 활동",
   "link": "/explore/articles/yozm.wishket.com/2394.md",

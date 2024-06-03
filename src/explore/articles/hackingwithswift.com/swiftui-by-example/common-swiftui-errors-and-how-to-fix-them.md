@@ -22,6 +22,7 @@ head:
       content: Common SwiftUI errors and how to fix them
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/common-swiftui-errors-and-how-to-fix-them.html
+prev: /explore/articles/hackingwithswift.com/swiftui-by-example/what-is-the-uiapplicationdelegateadaptor-property-wrapper.md
 ---
 
 # {{ $frontmatter.title }} 관련

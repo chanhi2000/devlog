@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Youtube
 description: AI > Youtube
-icon: fas fa-brain
+icon: fa-brands fa-youtube
 category:
   - AI
   - Youtube

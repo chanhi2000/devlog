@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/gjQW4_bjwdIxXvIEiTpnmeDE3om-IiC2KvQO1AcOWuN0cAh0MUS0yWI5amGoIrPcQod16duX=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8qDGV6LTOnk", "title": "This RISC-V cyberdeck is not for you" },
+    { "id": "h6zt8KeXFdA", "title": "Meet the new SBC Linux Cluster King!" },
+    { "id": "mgbTNZD1Vcw", "title": "Did Raspberry Pi just Sherlock RealVNC?" },
+    { "id": "GYN3ub8Qb_I", "title": "SBCs: It's time to ditch microSD" },
+    { "id": "GKGtRrElu30", "title": "This is how you destroy Raspberry Pi" },
     { "id": "jjzvh-bfV-E", "title": "When Did Raspberry Pi become the villain?" },
     { "id": "YH_GPeq4o3E", "title": "It's Clusterin' Time!" },
     { "id": "a7MO9A0Oi9Q", "title": "$1 vs $100,000 Server" },

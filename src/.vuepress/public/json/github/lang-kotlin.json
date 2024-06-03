@@ -355,5 +355,15 @@
     "desc": "A Gradle Plugin that prevents parallel publishing to maven repositories.",
     "officialSite": "",
     "topics": ["gradle", "gradle-plugin", "maven", "sonatype"]
+  }, {
+    "repo": "Kotlin/kotlinx-rpc",
+    "desc": "Add asynchronous RPC services to your multiplatform applications.",
+    "officialSite": "https://kotlin.github.io/kotlinx-rpc/",
+    "topics": ["asynchronous", "coroutines", "kotlin", "rpc"]
+  }, {
+    "repo": "anuragsoni/fiber",
+    "desc": "Asynchronous HTTP toolkit for Kotlin + JVM",
+    "officialSite": "",
+    "topics": ["http", "kotlin", "kotlin-coroutines", "netty"]
   }
 ]

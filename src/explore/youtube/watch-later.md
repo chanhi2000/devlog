@@ -13,7 +13,6 @@ tags:
   - "@lukemiani"
   - "@NovaspiritTech"
   - "@44BITSTV"
-  - "@neonchang"
   - "@KevinStratvert"
   - "@AleksPopovic"
   - "@SeoulWorkshop"
@@ -24,7 +23,6 @@ tags:
   - "@devjaypark"
   - "@extudy"
   - "@nnit"
-  - "@mediacccde"
   - "@WizcenterSeoul"
   - "@yalco-coding"
   - "@ContenJoo"
@@ -54,7 +52,6 @@ tags:
 <MyYouTubeItems jsonName="yu-ChrisTitusTech" /><!-- Chris Titus Tech -->
 <MyYouTubeItems jsonName="yu-snazzy"/><!-- Snazzy Labs -->
 <MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
-<MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
 <MyYouTubeItems jsonName="yu-KevinStratvert" /><!-- Kevin Stratvert -->
 <MyYouTubeItems jsonName="yu-AleksPopovic" /><!-- Aleks Popovic -->
 <MyYouTubeItems jsonName="yu-SeoulWorkshop" /><!-- Seoul Workshop -->
@@ -65,7 +62,6 @@ tags:
 <MyYouTubeItems jsonName="yu-devjaypark" /><!-- 박재호 -->
 <MyYouTubeItems jsonName="yu-extudy" /><!-- 두목넷 익스터디 -->
 <MyYouTubeItems jsonName="yu-nnit" /><!-- 누나IT -->
-<MyYouTubeItems jsonName="yu-mediacccde" /><!-- mediacccde -->
 <MyYouTubeItems jsonName="yu-WizcenterSeoul" /><!-- SEOUL G-캠프 -->
 <MyYouTubeItems jsonName="yu-yalco-coding" /><!-- 얄팍한 코딩사전 -->
 <MyYouTubeItems jsonName="yu-ContenJoo" /><!-- 콘텐주 -->

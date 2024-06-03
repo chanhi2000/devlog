@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "0qhDcf8OBcc", "title": "37C3 Infrastructure Review" },
+    { "id": "3ytAz-lznFQ", "title": "FSCK 2024 - Opening" },
+    { "id": "6RNDbz_EI_Y", "title": "FSCK 2024 - Neue API und Anwendungen zur Bahninfrastruktur" },
+    { "id": "k7Q79ZTDOY0", "title": "FSCK 2024 - Disk Space - The Final Frontier?" },
+    { "id": "faalZ-NwImA", "title": "FSCK 2024 - RISC-V – The Only Architecture You'll Ever Need" },
     { "id": "GJhz_Vr89X0", "title": "37C3 -  Numerical Air Quality Modeling Systems" },
     { "id": "BmRU_HkPwXg", "title": "37C3 -  Rettet uns die KI?" },
     { "id": "2HstGZPZpZY", "title": "37C3 -  BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses" },

@@ -19,7 +19,7 @@ head:
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/programming/js-graphql/references.html
+      content: https://chanhi2000.github.io/data-science/graphql/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -35,4 +35,10 @@ head:
 
 ---
 
+## 재그지그의 개발 블로그
+
+- [주니어 개발자가 Figma로 로고 디자인 해본 썰.txt](https://wormwlrm.github.io/2020/12/27/Refatoring-Logo-with-Figma.html)
+
+---
+
 <TagLinks />

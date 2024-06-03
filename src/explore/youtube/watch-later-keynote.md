@@ -71,8 +71,6 @@ tag:
 <MyYouTubeItems jsonName="yu-OracleKorea" /><!-- Oracle Korea -->
 <MyYouTubeItems jsonName="yu-ndc" /><!-- NDC Conferences-->
 <MyYouTubeItems jsonName="yu-vmwarecloudnativeapps816" /><!-- VMware Cloud Native Apps -->
-<MyYouTubeItems jsonName="yu-MATLAB" /><!-- MATLAB -->
-<MyYouTubeItems jsonName="yu-CppCon" /><!-- CppCon -->
 <MyYouTubeItems jsonName="yu-qiskit" /><!-- Qiskit -->
 <MyYouTubeItems jsonName="yu-hackaday" /><!-- HACKADAY -->
 <MyYouTubeItems jsonName="yu-Pusher_realtime" /><!-- Pusher -->

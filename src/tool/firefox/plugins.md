@@ -10,6 +10,14 @@ category:
 tag: 
   - js
   - firefox
+head:
+  - - meta:
+    - property: og:title
+      content: Firefox > Plugins
+    - property: og:description
+      content: Plugins
+    - property: og:url
+      content: https://chanhi2000.github.io/toole/firefox/plugins.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -4,6 +4,8 @@ title: References
 description: Intellij Idea > References
 icon: iconfont icon-share
 category:
+  - IDE
+  - Jetbrains
   - Intellij Idea
   - References
 tag: 
@@ -16,6 +18,14 @@ tag:
   - android-studio
   - productivity
   - programming
+head:
+  - - meta:
+    - property: og:title
+      content: Intellij Idea > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/intellij-idea/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

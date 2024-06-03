@@ -429,6 +429,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://notion-avatar.vercel.app/favicon/android-icon-192x192.png"
   preview="https://i.imgur.com/F5R0K03.png"/>
 
+<SiteInfo
+  name="SVG Repo - Free SVG Vectors and Icons"
+  desc="Free Vectors and Icons in SVG format. ✅ Download free mono or multi color vectors for commercial use. Search in 500.000+ Free SVG Vectors and Icons."
+  url="https://www.svgrepo.com/"
+  logo="https://www.svgrepo.com/favicon.ico"
+  preview="https://www.svgrepo.com/social.png"/>
+
 ```component VPCard
 {
   "title": "네이버 - QR코드",
@@ -1679,6 +1686,12 @@ https://mdis.kostat.go.kr/index.do
   logo="https://new.cretop.com/img/icons/favicon.ico"
   preview="https://new.cretop.com/img/icons/ic_launcher.png"/>
 
+<SiteInfo
+  name="Ideasgrab - 얻을 수 있는 아이디어 목록입니다."
+  desc="Are you looking for some idea inspiration? Ideasgrab is a list of ideas to help inspire creativity and idea generation. Grab an idea today."
+  url="https://www.ideasgrab.com/"
+  logo="https://i0.wp.com/www.ideasgrab.com/wp-content/uploads/2023/10/cropped-cropped-logo-01.png?fit=192%2C192&ssl=1"
+  preview="https://i0.wp.com/www.ideasgrab.com/wp-content/uploads/2020/12/meta.png?fit=4896%2C2448&ssl=1"/>
 
 - https://beta-genport.newsystock.com/backtest/TradingM.aspx?UseType=KOR
 - https://viperfish.com.au/games/pinnacle.html
@@ -1704,6 +1717,7 @@ https://mdis.kostat.go.kr/index.do
 - https://dustinbrett.com/
 - https://zendoclab.github.io/typeodd/
 - https://string.spiel.com/
+- https://cataas.com/
 
 ```component VPCard
 {

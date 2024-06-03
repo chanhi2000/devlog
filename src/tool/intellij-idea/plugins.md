@@ -5,6 +5,7 @@ description: Intellij Idea > Plugins
 icon: fas fa-plug
 category:
   - IDE
+  - Jetbrains
   - Intellij Idea
   - Plugins
 tag:
@@ -19,6 +20,14 @@ tag:
   - programming
   - plugin
   - idea-plugin 
+head:
+  - - meta:
+    - property: og:title
+      content: Intellij Idea > Plugins
+    - property: og:description
+      content: Plugins
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/intellij-idea/plugins.html
 ---
 
 # {{ $frontmatter.title }} 관련

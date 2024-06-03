@@ -41,5 +41,8 @@ head:
 <MyYouTubeItems jsonName="yu-webprodigies" /><!-- Web Prodigies -->
 <MyYouTubeItems jsonName="yu-CodewithSloba" /><!-- Code with Sloba -->
 <MyYouTubeItems jsonName="yu-WebChainDev" /><!-- WebChain Dev -->
+<MyYouTubeItems jsonName="yu-MaxProgramming" /><!-- Max Programming -->
+<MyYouTubeItems jsonName="yu-log_the_summer" /><!-- 써머 log the summer -->
+<MyYouTubeItems jsonName="yu-LamaDev" /><!-- Lama Dev -->
 
 <TagLinks />

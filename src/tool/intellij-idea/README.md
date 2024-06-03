@@ -5,6 +5,7 @@ description: Intellij Idea
 icon: iconfont icon-intellijidea
 category:
   - IDE
+  - Jetbrains
   - Intellij Idea
 tag:
   - ide

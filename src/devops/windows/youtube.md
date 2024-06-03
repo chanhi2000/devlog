@@ -68,5 +68,7 @@ tag:
 <MyYouTubeItems jsonName="yu-tongguni" /><!-- 통구니TV -->
 <MyYouTubeItems jsonName="yu-TechEnthusiastOfficial" /><!-- Tech Enthusiast -->
 <MyYouTubeItems jsonName="yu-chmtech" /><!-- CHM Tech -->
+<MyYouTubeItems jsonName="yu-GeekyScript" /><!-- Geeky Script -->
+<MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
 
 <TagLinks />

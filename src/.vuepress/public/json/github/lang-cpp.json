@@ -1393,5 +1393,10 @@
     "desc": "An innovative library for efficient LLM inference via low-bit quantization",
     "officialSite": "https://github.com/intel/neural-speed",
     "topics": ["cpu", "fp4", "fp8", "gaudi2", "gpu", "int1", "int2", "int3", "int4", "int5", "int6", "int7", "int8", "llamacpp", "llm-fine-tuning", "llm-inference", "low-bit", "mxformat", "nf4", "sparsity"]
+  }, {
+    "repo": "rapidsai/cudf",
+    "desc": "cuDF - GPU DataFrame Library ",
+    "officialSite": "https://docs.rapids.ai/api/cudf/stable/",
+    "topics": ["arrow", "cpp", "cuda", "cudf", "dask", "data-analysis", "data-science", "dataframe", "gpu", "pandas", "pydata", "python", "rapids"]
   }
 ]

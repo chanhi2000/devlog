@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "-b0JfqH05x4", "title": "Level Up Golang Tests in 18 Mins - OOP Secrets Revealed" },
+    { "id": "j_Edt3T_8Lk", "title": "Building Golang CLI Applications Step-by-Step (Part 1)" },
+    { "id": "QUo8v3Fh_BI", "title": "Building Golang CLI Applications Step-by-Step (Part 4)" },
+    { "id": "pmztYYD_V98", "title": "Building Golang CLI Applications Step-by-Step (Part 5)" },
+    { "id": "M3a61bF1JKg", "title": "Building Golang CLI Applications Step-by-Step (Part 6)" },
+    { "id": "kHun3wQ6o8Y", "title": "Building Golang CLI Applications Step-by-Step (Part 7)" },
     { "id": "onwfi9n8lxE", "title": "Golang Tutorial: Slices of Pointers vs Slices of Values Which is better?" },
     { "id": "5gFcb_kGGHQ", "title": "Master Protocol Buffers in just 30 minutes! (Golang Tutorial)" },
     { "id": "v2u5dQxdZPA", "title": "Master Testable Code In Golang (3 Pro Strategies)" },

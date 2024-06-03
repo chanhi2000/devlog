@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - yozm.wishket.com
   - meetup.nhncloud.com
   - d2.naver.com
@@ -29,6 +30,17 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 
 ```component VPCard
 {
@@ -58,6 +70,22 @@ head:
   preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How Suz Hinton went from Dev to White Hat Hacker [Podcast #126]",
+  "desc": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Suz Hinton. She's a software engineer, security researcher, and one of the first ever people to live-stream her coding on Twitch. We talk about: How Suz started her...",
+  "link": "/explore/articles/freecodecamp.org/how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 

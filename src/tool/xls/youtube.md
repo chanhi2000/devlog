@@ -106,5 +106,6 @@ head:
 <MyYouTubeItems jsonName="yu-SeleTraining" /><!-- Sele Training -->
 <MyYouTubeItems jsonName="yu-kooky0ai" /><!-- 기묘한 자동화 -->
 <MyYouTubeItems jsonName="yu-excelcreator1" /><!-- 엑셀마왕 -->
+<MyYouTubeItems jsonName="yu-hantip" /><!-- 짤막한 강좌 -->
 
 <TagLinks />

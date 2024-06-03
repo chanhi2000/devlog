@@ -522,6 +522,30 @@ https://www.joinc.co.kr/w/Site
 }
 ```
 
+```component VPCard
+{
+  "title": "Circle C++ with Memory Safety",
+  "desc": "I've begun my work on documenting Safe C++. I'll keep adding to these pages over the next month.",
+  "link": "https://www.circle-lang.org/site/intro/",
+  "logo": "https://www.circle-lang.org/site/img/favicon.ico",
+  "background": "rgba(41,128,185,0.2)"
+}
+```
+
+<SiteInfo
+  name="How HTTPS works"
+  desc="Follow the adventures of Certificat as she explains why HTTPS is crucial for the future of the internet and how it all works together in a comic."
+  url="https://howhttps.works/"
+  logo="https://howhttps.works/assets/images/favicon.png"
+  preview="https://howhttps.works/assets/images/how-https-works-open-graph.png"/>
+
+<SiteInfo
+  name="Technical Writing  |  Google for Developers"
+  desc="Technical Writing Courses for Engineers"
+  url="https://developers.google.com/tech-writing"
+  logo="https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/developers/images/favicon-new.png"
+  preview="https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/developers/images/opengraph/white.png"/>
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet

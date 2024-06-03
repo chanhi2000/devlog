@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "eJ3YysWaP_A", "title": "React Node.js Real Estate App Full Tutorial | MERN Stack App & Real-time Chat" },
+    { "id": "domt_Sx-wTY", "title": "React Chat App Full Tutorial 2024 | Realtime Chat Application Project with Firebase" },
+    { "id": "I0BOUiFe9WY", "title": "Next.js E-Commerce App Full Tutorial with the Best Headless Solution" },
     { "id": "DJaZUFK8Kv4", "title": "Next.js Animated Portfolio Website with Framer Motion & Tailwind CSS | Next.js Beginner Project" },
     { "id": "p_FiVGxyksI", "title": "Next.js Auth | This is the Easiest Way To Build Auth with Cookie Sessions" },
     { "id": "HFj5FMb0jwY", "title": "React Real Estate App UI Design Tutorial for Beginners" },

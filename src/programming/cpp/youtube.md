@@ -17,6 +17,7 @@ tag:
 
 ---
 
+<MyYouTubeItems jsonName="yu-CppCon" /><!-- CppCon -->
 <MyYouTubeItems jsonName="yu-cppweekly" /><!-- C++ Weekly With Jason Turner -->
 <MyYouTubeItems jsonName="yu-Goodgis" /><!-- Goodgis -->
 <MyYouTubeItems jsonName="yu-code_report" /><!-- code_report -->
@@ -25,5 +26,6 @@ tag:
 <MyYouTubeItems jsonName="yu-nathanbaggs" /><!-- Nathan Baggs -->
 <MyYouTubeItems jsonName="yu-AssortRockGameAcademy" /><!-- 어소트락 게임아카데미 -->
 <MyYouTubeItems jsonName="yu-TheCherno" /><!-- The Cherno -->
+<MyYouTubeItems jsonName="yu-javidx9" /><!-- javidx9 -->
 
 <TagLinks />

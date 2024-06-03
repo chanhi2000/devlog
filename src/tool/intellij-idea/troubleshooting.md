@@ -5,6 +5,7 @@ description: Intellij Idea > Troubleshooting
 icon: fas fa-bug-slash
 category:
   - IDE
+  - Jetbrains
   - Intellij Idea
   - Troubleshooting
 tag:
@@ -18,6 +19,14 @@ tag:
   - productivity
   - programming
   - troubleshooting
+head:
+  - - meta:
+    - property: og:title
+      content: Intellij Idea > Troubleshooting
+    - property: og:description
+      content: Troubleshooting
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/intellij-idea/troubleshooting.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -1504,5 +1504,10 @@
     "desc": "An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "denisidoro/navi",
+    "desc": "An interactive cheatsheet tool for the command-line",
+    "officialSite": "",
+    "topics": ["bash", "cheatsheets", "cli", "command-line", "rust", "shell", "snippet", "snippets", "terminal"]
   }
 ]

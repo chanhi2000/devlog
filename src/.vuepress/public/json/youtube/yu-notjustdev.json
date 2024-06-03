@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/cRsI_zBvS8Cv7K5IzwVFfrVc026q-nBM4dVu4nF0wL2hJKcjWCh_tdy3Naoa-d9BWwxi-lcgKtg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3OgZzRe57P4", "title": "Building an Apple Wallet Clone with React Native Reanimated" },
+    { "id": "WiXs0JbA3_k", "title": "Build a Local First Trello Clone with React Native & Realm" },
+    { "id": "HkRa2iWC-nI", "title": "Trello Clone with React Native: Drag & Drop, Sorting, Animations" },
+    { "id": "x7KE4JD-Q9A", "title": "Build a Local-First Finance app with Expo & WatermelonDB" },
+    { "id": "lBjWNHib5vs", "title": "Build a Poll App with React Native & Supabase (tutorial for beginners)" },
+    { "id": "TdPnIu8Duwc", "title": "Build a Poll App with React Native & Supabase (tutorial for beginners)" },
+    { "id": "NVR_O2v4ir8", "title": "Local-First Finance app with React Native, Expo & WatermelonDB" },
+    { "id": "a_EdG30oGQI", "title": "Build a Realtime Chat App in React Native: Chat, Audio & Video Calls" },
+    { "id": "tUjv8LppDc4", "title": "Building a Realtime Video and Chat App in React Native with Stream" },
+    { "id": "hZtYHYntpRs", "title": "Launch the Future App with notJust Incubator | Demo Day" },
     { "id": "9F4aICEisVI", "title": "Build Flappy Bird with React Native: Skia & Reanimated Tutorial" },
     { "id": "ewW6_baBXko", "title": "Build Your Own Blog with React Native (for Web & Mobile)" },
     { "id": "bpHq_-bPkGo", "title": "Data Fetching in React Native with TanStack Query (tutorial for beginners)" },

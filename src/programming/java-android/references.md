@@ -128,7 +128,13 @@ tag:
 - [`stackademic` / What Every Android Developer Should Have in Their GitHub?](https://blog.stackademic.com/what-every-android-developer-should-have-in-their-github-de8deab051b9)
 - [`proandroiddev` / Room Relationships Explained](https://proandroiddev.com/room-database-relationships-explained-729d3c705fd9)
 - [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
+- [`insert-koin` / Injecting your Compose applications with Koin — From Android to Multiplatform](https://blog.insert-koin.io/injecting-your-compose-applications-with-koin-c9c8b1166702)
 
+---
+
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`bubenheimer` / Effective Map Composables: Non-Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-non-draggable-markers-2b2)
 
 ---
 
@@ -433,5 +439,9 @@ tag:
 - [DEX with Over 65K Methods problem and how to use MultiDex in Android](https://akexorcist.dev/dex-with-over-65k-and-multidex-on-android-en)
 
 ---
+
+## ClearPoint
+
+- [Automating large scale refactors using lint and generative AI](https://clearpoint.digital/insights/automating-large-scale-refactors-using-lint-and-generative-ai)
 
 <TagLinks />

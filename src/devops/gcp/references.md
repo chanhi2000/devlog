@@ -41,4 +41,10 @@ head:
 
 ---
 
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [구글 클라우드의 ‘무료 등급’을 알차게 활용하는 10가지 팁](https://www.ciokorea.com/news/170709)
+
+---
+
 <TagLinks />

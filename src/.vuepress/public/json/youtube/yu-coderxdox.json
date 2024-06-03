@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "coderxdox",
+    "name": "CODER X DOX 코더엑스독스",
+    "profile": "https://yt3.googleusercontent.com/vcbyYT7Q0Rde7n1IZJU1fgO0SBgQEg_EKPlFoqsxNS0Tpy87jS4q4eWpIQq9FZZp1mMPypru=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sOmSIA43QxlytUwiln0vb3youDA7iPj4exGIBDbiK_WVFnefi-lLaHn9zY_eKWA3K-udkkaf=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "f1dgrp0o3M0", "title": "Word Search | Leetcode 79 | 난이도 Medium | 구글 기출 문제" },
+    { "id": "ICCJXLNy1X8", "title": "박사과정 5년차인데 아직 기초가 부족해요 | 댓글 상담소" },
+    { "id": "rvAP9mdJ1zI", "title": "진하게 우려낸 사골육수 같은 이것" },
+    { "id": "XduBA2nikNg", "title": "Two Sum | Leetcode 1 | 난이도 Easy | 아마존 기출 문제" },
+    { "id": "ZHpcculo1po", "title": "내가 만나본 최고의 엔지니어에 대해서" },
+    { "id": "etIrS9Uj4Bo", "title": "Valid Perfect Square | Leetcode 367 | 난이도 Easy | 메타 기출 문제" },
+    { "id": "FkAsxqyzBz4", "title": "Median of Two Sorted Arrays | Leetcode 4 | 난이도 Hard | 메타 기출 문제" },
+    { "id": "pzZlB3CqjSo", "title": "AI 갓파더 얀 르쿤 왈: LLM 더 이상 하지 마라?" }
+  ],
+  "playlists": [
+
+  ]
+}

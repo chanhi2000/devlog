@@ -98,5 +98,6 @@ head:
 <MyYouTubeItems jsonName="yu-Axlefublr" /><!-- Axlefublr (she\\they) -->
 <MyYouTubeItems jsonName="yu-ScottYuJan" /><!-- Scott Yu-Jan -->
 <MyYouTubeItems jsonName="yu-ABetterComputer" /><!-- A Better Computer -->
+<MyYouTubeItems jsonName="yu-GeekyScript" /><!-- Geeky Script -->
 
 <TagLinks />

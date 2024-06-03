@@ -36,6 +36,14 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+### 카카오테크, 미래의 문턱을 낮추는 기술
+
+- [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성](https://tech.kakao.com/posts/406) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/406.md) -->
+
+---
+
 ## DISQUIET
 
 - [팔로우 기능 개발 노트 - Feed](https://disquiet.io/@jeong7331/makerlog/1503)

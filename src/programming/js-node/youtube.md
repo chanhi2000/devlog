@@ -31,7 +31,6 @@ head:
 <MyYouTubeItems jsonName="yu-AlgoJS" /><!-- AlgoJS -->
 <MyYouTubeItems jsonName="yu-bawad" /><!-- Ben Awad -->
 <MyYouTubeItems jsonName="yu-CodingNepal" /><!-- CodingNepal -->
-<MyYouTubeItems jsonName="yu-LamaDev" /><!-- Lama Dev -->
 <MyYouTubeItems jsonName="yu-JamesQQuick" /><!-- James Q Quick -->
 <MyYouTubeItems jsonName="yu-kevinwwwade" /><!-- Kevin Wade -->
 <MyYouTubeItems jsonName="yu-WebDevSimplified" /><!-- Web Dev Simplified -->
@@ -160,7 +159,6 @@ head:
 <MyYouTubeItems jsonName="yu-TonyAlicea" /><!-- Tony Alicea -->
 <MyYouTubeItems jsonName="yu-jejucodingcamp" /><!-- 제주코딩베이스캠프 -->
 <MyYouTubeItems jsonName="yu-javascriptisrael" /><!-- JavaScript Israel -->
-<MyYouTubeItems jsonName="yu-MaxProgramming" /><!-- Max Programming -->
 <MyYouTubeItems jsonName="yu-CoderOne" /><!-- CoderOne -->
 <MyYouTubeItems jsonName="yu-hswolff" /><!-- Harry Wolff -->
 <MyYouTubeItems jsonName="yu-user-sg2tt4sk4o" /><!-- 개발 레시피 -->

@@ -102,6 +102,16 @@ head:
 
 ```component VPCard
 {
+  "title": "How To Run UX Research Without Access To Users",
+  "desc": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.",
+  "link": "/explore/articles/smashingmagazine.com/how-run-ux-research-without-access-users.md",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Why Designers Aren’t Understood",
   "desc": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.",
   "link": "/explore/articles/smashingmagazine.com/designers-business-ux-language.md",
@@ -145,6 +155,36 @@ head:
 ## 요즘IT
 
 > yozm.wishket.com
+
+```component VPCard
+{
+  "title": "쿠팡이츠는 왜 인하우스 지도 서비스를 만들었을까? | 요즘IT",
+  "desc": "쿠팡이츠는 왜 인하우스 지도 서비스를 만들었을까?",
+  "link": "https://yozm.wishket.com/magazine/detail/2320/",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "프론트엔드 개발자가 API를 설계하는 이유 | 요즘IT",
+  "desc": "프론트엔드 개발자가 API를 설계하는 이유",
+  "link": "https://yozm.wishket.com/magazine/detail/2325/",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SSR 시작하기 전 알아야 할 것들 (feat. CSR) | 요즘IT",
+  "desc": "SSR 시작하기 전 알아야 할 것들 (feat. CSR)",
+  "link": "https://yozm.wishket.com/magazine/detail/2330/",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

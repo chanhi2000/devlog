@@ -1092,4 +1092,10 @@ tag:
 
 ---
 
+## 브랜디 랩스(Brandi Labs)
+
+- [IndexedDB 를 활용한 풀필먼트 시스템 고도화](https://labs.brandi.co.kr/2021/04/19/leejm3.html) <!-- TODO: 작성 (/explore/articles/labs.brandi.co.kr/leejm3.md) -->
+
+---
+
 <TagLinks />

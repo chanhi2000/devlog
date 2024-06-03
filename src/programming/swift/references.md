@@ -170,6 +170,7 @@ tag:
 - [Sending trial notifications with provisional authorization on iOS](https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS/)
 - [iOS app setup for remote push notifications](https://nilcoalescing.com/blog/RemotePushSetup)
 - [Testing remote push notifications on iOS simulator in Xcode 14](https://nilcoalescing.com/blog/TestingRemotePushOniOSSimulator)
+- [Scenes types in a SwiftUI Mac app](https://nilcoalescing.com/blog/ScenesTypesInASwiftUIMacApp/)
 
 ---
 
@@ -215,6 +216,7 @@ tag:
 
 - [Improve the build times of your SPM Packages and your apps](https://www.manu.show/2023-08-18-improve-build-times-in-spm-packages-and-in-your-apps)
 - [Swift Typo Detector](https://www.manu.show/2023-08-30-swift-typo-detector)
+- [Previews](https://www.manu.show/2024-05-30-previews)
 
 ---
 
@@ -627,6 +629,7 @@ tag:
 ## @samwize | ¯_(ツ)_/¯
 
 - [Should you add final to all your Swift classes?](https://samwize.com/2023/12/15/should-you-add-final-to-all-your-swift-classes)
+- [Do NOT init State externally in SwiftUI](https://samwize.com/2024/05/08/do-not-init-state-externally-in-swiftui-view/)
 
 ---
 

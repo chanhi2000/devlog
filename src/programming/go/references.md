@@ -17,7 +17,7 @@ tag:
 
 ---
 
-## Go
+## <FontIcon icon="fa-brands fa-golang"/>Go
 
 - [WASI support in Go](https://go.dev/blog/wasi)
 - [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
@@ -85,9 +85,7 @@ tag:
 
 ## 뱅크셀러드
 
-- [뱅크샐러드 Go 코딩 컨벤션](https://blog.banksalad.com/tech/go-best-practice-in-banksalad)
-
-<!-- TODO: 작성 (/explore/articles/blog.banksalad.com/go-best-practice-in-banksalad.md) -->
+- [뱅크샐러드 Go 코딩 컨벤션](https://blog.banksalad.com/tech/go-best-practice-in-banksalad) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/go-best-practice-in-banksalad.md) -->
 
 ---
 
@@ -269,6 +267,30 @@ tag:
 ## brandur.org
 
 - [Eradicating N+1s: The Two-phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
+
+---
+
+## Novemberde's Blog
+
+- [고언어(Golang) HACKING.md 내용 정리](https://novemberde.github.io/post/2021/04/05/Golang-HACKING/)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- ["러스트"와 "고"를 선택하는 방법](https://www.itworld.co.kr/news/186713?)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+[“구글 고(Go) 언어, 업무 현장서 사용 확대됐다”](https://www.ciokorea.com/news/187183)
+
+---
+
+## Jinsu Playground
+
+- [Go vs Java - Go에서의 객체 지향](https://umi0410.github.io/blog/golang/go-vs-java-oop)
 
 ---
 

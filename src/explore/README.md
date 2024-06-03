@@ -386,6 +386,16 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+```component VPCard
+{
+  "title": "Klibs.io – Index of Kotlin™ Multiplatform Libraries",
+  "desc": "Kotlin Libraries index",
+  "link": "https://klibs.io/",
+  "logo": "https://klibs.io/apple-touch-icon-25a4bec4060b9fded684c732827905ad.png",
+  "background": "rgba(21,0,57,0.2)"
+}
+```
+
 @tab Package Manager
 
 ```component VPCard
@@ -534,6 +544,23 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   url="https://2023.stateofhtml.com/en-US/"
   logo="https://assets.devographics.com/surveys/html2023-favicon.svg"
   preview="https://assets.devographics.com/surveys/html2023-og.png"/>
+
+<SiteInfo
+  name="Crunk dancer - adinunzio"
+  desc="Crunk dancer by Arno Di Nunzio"
+  url="https://adinunz.io/crunkDancer/"
+  logo="https://adinunz.io/crunkDancer/favicon.ico"
+  preview="https://adinunz.io/crunkDancer/dist/img/ogImage.jpg"/>
+
+```component VPCard
+{
+  "title": "anvaka/atree",
+  "desc": "Just a simple Christmas tree, based on reddit story",
+  "link": "https://anvaka.github.io/atree/",
+  "logo": "https://avatars.githubusercontent.com/u/225407?v=4",
+  "background": "rgba(13,17,23,0.2)"
+}
+```
 
 <!-- @end Cool Project -->
 

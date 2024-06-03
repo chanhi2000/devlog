@@ -91,5 +91,6 @@ tag:
 <MyYouTubeItems jsonName="yu-TechnoTim" /><!-- Techno T -->
 <MyYouTubeItems jsonName="yu-seoulit" /><!-- 서울IT교육센터온라인강좌TV -->
 <MyYouTubeItems jsonName="yu-opensourceconsulting-7382" /><!-- Open Source Consulting - 오픈소스컨설팅 -->
+<MyYouTubeItems jsonName="yu-JeffGeerling" /><!-- Jeff Geerling -->
 
 <TagLinks />

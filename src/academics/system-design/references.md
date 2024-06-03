@@ -27,6 +27,12 @@ head:
 
 ---
 
+## Pdf(s)
+
+<PDF url="http://www.initiondata.kr/SeniorUX/Senior%20UX_Spread.pdf" />
+
+---
+
 ## YOZM
 
 - [사용자를 '중독'시키는 UX 전략](https://yozm.wishket.com/magazine/detail/2300/) <!-- TODO: 작성 (/explore/articles/yozm.wishket.com/2300.md) -->
@@ -50,14 +56,26 @@ head:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
-- [이모티콘 서비스는 왜 MSA를 선택했나?](https://tech.kakao.com/posts/457)
-
-<!-- TODO: 작성 (/explore/articles/tech.kakao.com/457.md) -->
+- [이모티콘 서비스는 왜 MSA를 선택했나?](https://tech.kakao.com/posts/457) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/457.md) -->
 
 ### 카카오엔터프라이즈 기술블로그 Tech&(테크앤)
 
+- [\[TW\] 기술문서 쉽게 쓰기 지침](https://tech.kakaoenterprise.com/105) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/105.md) -->
 - [\[TW\] Release Note 톺아보기](https://tech.kakaoenterprise.com/113) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/113.md) -->
 - [\[TW\] Troubleshooting 가이드 톺아보기](https://tech.kakaoenterprise.com/129) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/129.md) -->
+
+---
+
+## Blog - LINE ENGINEERING
+
+- [120가지 사용자 행동 분석을 자동화할 수 있는 '데이터 제품' 만들기](https://engineering.linecorp.com/ko/blog/data-analytics-platform-lua-analytics) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/data-analytics-platform-lua-analytics.md) -->
+- [그것이 알고 싶다 - 왜 개발자는 글을 못 쓸까?](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/why-are-engineers-so-bad-at-writing.md) -->
+
+---
+
+## <FontIcon icon="fa-brands fa-linkedin"/>Linkedin
+
+- [How Netflix Monitors Millions of Devices](https://www.linkedin.com/pulse/how-netflix-monitors-millions-devices-robert-armstrong/)
 
 ---
 
@@ -94,6 +112,7 @@ head:
 - [`29cm` / 유저 주문 취소 기능 Java 전환기](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874#gaerae.com)
 - [`dtevangelist` / Event Driven Architecture란?](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
 - [`design-microservices-architecture-with-patterns` / Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
+- [`jam2in` / 캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안](https://medium.com/jam2in/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-a4e01132ac03)
 
 ---
 
@@ -242,6 +261,24 @@ head:
 ## ★❤✰ Vicki Boykis ★❤✰
 
 - [Retro on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
+
+---
+
+## Concurrency Freaks
+
+- [Why is Snapshot Isolation not enough?](https://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
+
+---
+
+## 안녕하세요 🪴 - 용균
+
+- [비주얼 타이머 앱 개발하며 배운 것들](https://edykim.com/ko/post/what-i-have-learned-from-visual-timer)
+
+---
+
+## LukeW Ideation + Design | Digital Product Strategy & Design
+
+- [Different Gets Ignored](https://www.lukew.com/ff/entry.asp?2066)
 
 ---
 

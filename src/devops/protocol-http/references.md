@@ -34,7 +34,8 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
-- [Easy CSRF bypass](https://infosecwriteups.com/easy-csrf-bypass-7226b4e3593e)
+- [`infosecwriteups` / Easy CSRF bypass](https://infosecwriteups.com/easy-csrf-bypass-7226b4e3593e)
+- [`@chullino` / HTTP에서부터 WEBSOCKET까지](https://medium.com/@chullino/http%EC%97%90%EC%84%9C%EB%B6%80%ED%84%B0-websocket%EA%B9%8C%EC%A7%80-94df91988788)
 
 ---
 
@@ -59,6 +60,12 @@ tag:
 ## Devon Peroutky
 
 - [Mediocre Engineer’s guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
+
+---
+
+## Patterns.dev
+
+- [PRPL Pattern](https://www.patterns.dev/vanilla/prpl)
 
 ---
 

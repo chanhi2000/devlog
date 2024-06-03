@@ -158,7 +158,6 @@ Remember, please do *not* use `@ObservedObject` to create instances of your obje
 }
 ```
 
-
 ```component VPCard  
 {
   "title": "How to fix “Referencing initializer 'init(wrappedValue:)' on 'ObservedObject' requires that 'SomeType' conform to 'ObservableObject'” | SwiftUI by Example",

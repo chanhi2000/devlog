@@ -52,6 +52,12 @@ head:
 
 - [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle) <!-- TODO: 작성 (/explore/articles/blog.gangnamunni.com/dependency-inversion-principle.md) -->
 
+### NAVER D2
+
+[streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현](https://d2.naver.com/helloworld/9423440) <!-- TODO: 작성 (/explore/articles/d2.naver.com/9423440.md) -->
+
+---
+
 ### DZone
 
 - [Json Web Token: How to Secure a Spring Boot REST API](https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api)
@@ -68,6 +74,7 @@ head:
 - [`sigridjin` / ServletContainer와 SpringContainer는 무엇이 다른가?](https://sigridjin.medium.com/servletcontainer%EC%99%80-springcontainer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-626d27a80fe5#gaeraea.com)
 - [`itnext` / Building Modular Monolith Applications with Spring Boot and Domain Driven Design](https://itnext.io/building-modular-monolith-applications-with-spring-boot-and-domain-driven-design-d3299b300850)
 - [`itnext` / Improving Modular Monolith Applications with Spring Modulith](https://itnext.io/improving-modular-monolith-applications-with-spring-modulith-edecc787f63c)
+- [`netflixtechblog` / Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 

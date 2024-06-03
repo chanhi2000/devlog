@@ -93,9 +93,9 @@ head:
 
 ```component VPCard
 {
-  "title": "이벤트 기반 웹뷰 프레임워크 설계와 플러그인 생태계 만들기 | 요즘IT",
-  "desc": "이벤트 기반 웹뷰 프레임워크 설계와 플러그인 생태계 만들기",
-  "link": "/explore/articles/yozm.wishket.com/2395.md",
+  "title": "자료구조 개념 이해하기 ‘힙과 힙 정렬 알고리즘’ | 요즘IT",
+  "desc": "자료구조 개념 이해하기 ‘힙과 힙 정렬 알고리즘’",
+  "link": "/explore/articles/yozm.wishket.com/2312.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

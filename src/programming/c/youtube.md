@@ -48,7 +48,6 @@ tag:
 <MyYouTubeItems jsonName="yu-BoostCon" /><!-- CppNow -->
 <MyYouTubeItems jsonName="yu-songmingi1102" /><!-- 송민기 -->
 <MyYouTubeItems jsonName="yu-user-ej8bq1gs7f" /><!-- 쉽게 배우는 프로그래밍 -->
-<MyYouTubeItems jsonName="yu-javidx9" /><!-- javidx9 -->
 <MyYouTubeItems jsonName="yu-ThePolyglotDeveloper" /><!-- The Polyglot Developer -->
 <MyYouTubeItems jsonName="yu-nirlichtman" /><!-- Nir Lichtman -->
 <MyYouTubeItems jsonName="yu-KodySimpson" /><!-- Kody Simpson -->
@@ -57,7 +56,6 @@ tag:
 <MyYouTubeItems jsonName="yu-jacking75" /><!-- 최흥배 -->
 <MyYouTubeItems jsonName="yu-codebreakthrough" /><!-- Caleb Curry -->
 <MyYouTubeItems jsonName="yu-geohotarchive" /><!-- george hotz archive -->
-<MyYouTubeItems jsonName="yu-GeekyScript" /><!-- Geeky Script -->
 <MyYouTubeItems jsonName="yu-eunwoossaem" /><!-- 은우쌤 -->
 <MyYouTubeItems jsonName="yu-jaeohlee5719" /><!-- Jaeoh Lee -->
 <MyYouTubeItems jsonName="yu-JacobSorber" /><!-- Jacob Sorber -->
@@ -74,5 +72,6 @@ tag:
 <MyYouTubeItems jsonName="yu-quickandeasytools" /><!-- Quick and Easy Tools -->
 <MyYouTubeItems jsonName="yu-infybuzz" /><!-- Infybuzz -->
 <MyYouTubeItems jsonName="yu-weekendcode" /><!-- WeekendCode 주말코딩 -->
+<MyYouTubeItems jsonName="yu-WhiteBee-lc1ty" /><!-- WhiteBee -->
 
 <TagLinks />

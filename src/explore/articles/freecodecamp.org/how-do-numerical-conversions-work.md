@@ -2,7 +2,7 @@
 lang: ko-KR
 title: How Do Numerical Conversions Work in Computer Systems? Explained With Examples
 description: Article(s) > How Do Numerical Conversions Work in Computer Systems? Explained With Examples
-icon: fas fa-pen-ruler
+icon: fas fa-square-root-variable
 category: 
   - Mathematics
   - Science

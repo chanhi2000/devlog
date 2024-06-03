@@ -555,6 +555,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-next/articles/README.md',
+            asb.yozm("js-next"),
           ]
         }
       ]
@@ -594,15 +595,6 @@ export const sidebarEn = sidebar({
           ]
         }
       ]
-    }, {
-      text: 'GraphQL',
-      collapsible: true,
-      icon: 'iconfont icon-graphql',
-      children: [
-        '/programming/js-graphql/README.md',
-        '/programming/js-graphql/references.md',
-        '/programming/js-graphql/youtube.md',
-      ],
     }, {
       text: 'Supabase',
       collapsible: true,
@@ -922,6 +914,23 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Grafana',
+      collapsible: true,
+      icon: 'fa-brands fa-golang',
+      children: [
+        '/programming/go-grafana/README.md',
+        '/programming/go-grafana/references.md',
+        '/programming/go-grafana/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/go-grafana/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Dart',
       collapsible: true,
       icon: 'iconfont icon-dart',
@@ -986,7 +995,10 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/c/articles/README.md',
+            asb.freecodecamp("c"),
             asb.nhn("c"),
+            asb.linecorp("c"),
+            asb.gangnamunni("c"),
           ]
         }
       ]
@@ -1229,6 +1241,24 @@ export const sidebarEn = sidebar({
           children: [
             '/tool/intellij-idea/articles/README.md',
             asb.yozm("intellij-idea")
+          ]
+        }
+      ]
+    }, {
+      text: 'Writerside',
+      collapsible: true,
+      icon: 'iconfont icon-jetbranis',
+      children: [
+        '/tool/writerside/README.md',
+        '/tool/writerside/references.md',
+        '/tool/writerside/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/writerside/articles/README.md',
+            asb.yozm("writerside")
           ]
         }
       ]
@@ -2024,9 +2054,27 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/security/articles/README.md',
+            asb.freecodecamp("security"),
             asb.yozm("security"),
             asb.nhn("security"),
             asb.d2("security"),
+          ]
+        },
+      ]
+    }, {
+      text: 'JWT',
+      collapsible: true,
+      icon: 'iconfont icon-jwt',
+      children: [
+        '/devops/security-jwt/README.md',
+        '/devops/security-jwt/references.md',
+        '/devops/security-jwt/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/security-jwt/articles/README.md',
           ]
         },
       ]
@@ -2309,7 +2357,7 @@ export const sidebarEn = sidebar({
       text: 'Altibase',
       collapsible: true,
       icon: 'iconfont icon-altibase',
-    children: [
+      children: [
         '/data-science/altibase/README.md',
         '/data-science/altibase/query.md',
         '/data-science/altibase/references.md',
@@ -2324,7 +2372,7 @@ export const sidebarEn = sidebar({
       ]
     }, {
       text: 'SQLite',
-    collapsible: true,
+      collapsible: true,
       icon: 'iconfont icon-sqlite',
       children: [
         '/data-science/sqlite/README.md',
@@ -2358,6 +2406,23 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
+      text: 'GraphQL',
+      collapsible: true,
+      icon: 'iconfont icon-graphql',
+      children: [
+        '/data-science/graphql/README.md',
+        '/data-science/graphql/references.md',
+        '/data-science/graphql/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/graphql/articles/README.md',
+          ]
+        }
+      ],
+    }, {
       text: 'RocksDB',
       collapsible: true,
       icon: 'iconfont icon-rocksdb',
@@ -2371,6 +2436,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/rocskdb/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'DuckDB',
+      collapsible: true,
+      icon: 'iconfont icon-duckdb',
+      children: [
+        '/data-science/duckdb/README.md',
+        '/data-science/duckdb/references.md',
+        '/data-science/duckdb/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/duckdb/articles/README.md',
           ]
         }
       ]
@@ -2463,6 +2545,15 @@ export const sidebarEn = sidebar({
         '/ai/README.md',
         '/ai/references.md',
         '/ai/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/articles/README.md',
+            asb.smashingmagazion("ai"),
+          ]
+        }
       ],
     }, {
       text: 'OpenAI',
@@ -2764,6 +2855,7 @@ export const sidebarEn = sidebar({
       children: [
         '/academics/system-design/README.md',
         '/academics/system-design/references.md',
+        '/academics/system-design/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,

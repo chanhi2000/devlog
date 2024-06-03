@@ -21,6 +21,7 @@ tag:
 ## PDFs
 
 <PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />
+<PDF url="https://happygrammer.github.io/rust/rust-cheat-sheet.pdf" />
 
 ---
 
@@ -283,6 +284,18 @@ tag:
 ## Blog | corrode Rust Consulting
 
 - [Long-term Rust Project Maintenance](https://corrode.dev/blog/long-term-rust-maintenance/)
+
+---
+
+## Byron Wasti
+
+- [Atomic Polling Intervals for Highly Concurrent Workloads](https://www.byronwasti.com/polling-atomics/)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- ["러스트"와 "고"를 선택하는 방법](https://www.itworld.co.kr/news/186713?)
 
 ---
 

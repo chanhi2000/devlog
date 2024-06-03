@@ -211,6 +211,16 @@ head:
 
 ```component VPCard
 {
+  "title": "프론트엔드 개발자가 API를 설계하는 이유 | 요즘IT",
+  "desc": "프론트엔드 개발자가 API를 설계하는 이유",
+  "link": "https://yozm.wishket.com/magazine/detail/2325/",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "편리한 API 제너레이터 ‘swagger-typescript-api’ | 요즘IT",
   "desc": "편리한 API 제너레이터 ‘swagger-typescript-api’",
   "link": "https://yozm.wishket.com/magazine/detail/2387/",

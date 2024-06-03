@@ -32,4 +32,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-LearnitTraining" /><!-- Learnit Training -->
+
 <TagLinks />

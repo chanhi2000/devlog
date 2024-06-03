@@ -163,6 +163,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What is Prototypal Inheritance in JavaScript? Explained with Code Examples",
+  "desc": "Prototypal inheritance can feel like a complex concept shrouded in technical jargon. But fear not! This guide will break it down using clear, relatable examples that go beyond the typical textbook explanations.  We'll ditch the confusing terms and focus on real-world scenarios that you can easily understand. By the...",
+  "link": "/explore/articles/freecodecamp.org/javascript-prototypal-inheritance.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Frontend Masters Boost – Helping Your Journey to Senior Developer

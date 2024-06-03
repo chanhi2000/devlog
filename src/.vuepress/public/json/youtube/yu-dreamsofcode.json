@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/Yn70X579PO08-VKiqvXU_ATSSDKfLFV9paBhtvJDguvghUDA6_PGmRzVtxK1_UL8yipARHkh-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Wap2tkgaT1Q", "title": "Why I'm no longer using Copilot" },
+    { "id": "PPn_rgdx220", "title": "Function Iterators might just change the way we write loops in Go" },
+    { "id": "sNg0bnMF_qY", "title": "Testcontainers have forever changed the way I write tests" },
+    { "id": "lxVzLAHnPOE", "title": "The best (and worst) types for storing money in PostgreSQL" },
+    { "id": "eVuPCG5eIr4", "title": "Why Binary Search is so important..." },
+    { "id": "eRHlFkomZJg", "title": "We can now write scripts using these languages, but is it worth it?" },
+    { "id": "VJ_wVC8r7Gs", "title": "Testing in Go + NixOS" },
     { "id": "kerKXChDmsE", "title": "Tonic makes gRPC in Rust stupidly simple" },
     { "id": "ig_HLrssAYE", "title": "Create beautiful code screenshots in Neovim. Without damaging your wrists." },
     { "id": "bFf-A27Rc9s", "title": "Adding a cache is not as simple as it may seem..." },

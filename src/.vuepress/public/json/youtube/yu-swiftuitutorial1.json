@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/f05GS1-4H5VmCYw6a9KyuzdQdyJJV11McNB6X86oq0okED07xuLP6KzylWjTxOtQmmKgbNxfLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IXSRWETYAAA", "title": "SwiftUI and visionOS: Display & Animate 3D Models from a Remote URL" },
+    { "id": "3iglYP2unx0", "title": "SwiftUI: Create Beautiful Color Effects With Hue Rotation and Phase Animator" },
+    { "id": "YV3KiZ_sN0k", "title": "SwiftUI: Everything About Adding Compositing Visual Effects" },
+    { "id": "L_XoPCHlt_c", "title": "Replace Multiple Variable Instances in Xcode: Control + Command + E" },
+    { "id": "JgcDprc_miY", "title": "SwiftUI: Creating Linear and Eased Animations" },
+    { "id": "r0rkSVIqxwg", "title": "SwiftUI Animation: Move Dashes Along/Around a Shape" },
+    { "id": "ei9yDzNIl7E", "title": "How To Generate Complex Shape Paths From SF Symbols" },
     { "id": "18DjbZNhTi0", "title": "How To Embed 3D Objects Into visionOS Windows" },
     { "id": "BiF2gBvHYgc", "title": "How to Adjust Vertical Spacing in a SwiftUI List" },
     { "id": "r17zGZaXwnQ", "title": "How to Sync Reality Composer Pro to visionOS Projects" },

@@ -22,7 +22,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/js-graphql/" />
+<ToCLocal basePath="/data-science/graphql/" />
 
 ---
 

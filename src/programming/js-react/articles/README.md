@@ -253,6 +253,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn the Basics of Go by Building a Full Stack Web App with React and Go",
+  "desc": "Go can work great on the backend for a React project. We just released a course on the freeCodeCamp.org channel that will leach you how to build a full stack web app with React and Go. This comprehensive course is designed to teach you the fundamenta...",
+  "link": "/explore/articles/freecodecamp.org/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "React Context API Explained with Examples",
+  "desc": "Managing state has always been a critical aspect of making web applications with React. The most basic way to do this is prop drilling. In prop drilling, you pass props around from the parent component to other components that need it, no matter how deeply nested they are. The problem...",
+  "link": "/explore/articles/freecodecamp.org/react-context-api-explained-with-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Frontend Masters Boost – Helping Your Journey to Senior Developer

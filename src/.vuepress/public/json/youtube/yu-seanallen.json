@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/5exaEZH9hpSVtQBOPPUXh3uJaaBsYe-5tV-rf05rBfMNbBq_I_dqD-pV5SAYrejMLctrPoFHpQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vfUalXtwth0", "title": "SwiftUI Grids - LazyVGrid, LazyHGrid, Static Grid" },
+    { "id": "-sw7gvNUboc", "title": "SwiftUI Toggle - Button & Switch Tutorial" },
+    { "id": "Z-imQJ7wrj4", "title": "Swift News - WWDC '24, MVVM Dead?, App Sound Design, 1 Star Reviews, Indie Dev & More" },
+    { "id": "2c1IQ0BT0PE", "title": "SwiftUI Alerts - Buttons, TextFields, & Passing Errors" },
+    { "id": "GbfxGg_TfNs", "title": "Swift News - iOS 18 A11Y, visionOS Code, Career Advice, TCA & More" },
+    { "id": "gZa_wZ1GJ8I", "title": "Clean Swift Code with Where Clause" },
     { "id": "BuHsRVO0JKw", "title": "iOS Dev's Thoughts on Working in Apple Vision Pro (Xcode)" },
     { "id": "Qjbs-nye7CU", "title": "Swift News - SwiftUI Field Guide, Apple Vision Pro, State of Mobile 2024 , Indie Dev & More" },
     { "id": "kYL0Ef3XKO0", "title": "3D Content in iOS & visionOS apps with Spline (Xcode & SwiftUI)" },

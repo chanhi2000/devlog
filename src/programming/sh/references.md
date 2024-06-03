@@ -355,4 +355,16 @@ tag:
 
 ---
 
+## Rohit Goswami — Reflections
+
+- [Lowering resource usage with `foot` and `systemd`](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
+
+---
+
+## Downtown Doug Brown
+
+- [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
+
+---
+
 <TagLinks />

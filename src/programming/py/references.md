@@ -255,18 +255,19 @@ tag:
 ## DZone
 
 - [Enterprises Must Utilize Python for Developing ERP Testing Processes](https://dzone.com/articles/enterprises-must-utilize-python-for-developing-erp)
+- [Developing Metadata-Driven Data Engineering Pipelines Using Apache Spark and Python Dictionary](https://dzone.com/articles/developing-metadata-driven-data-engineering-pipeli)
+
+---
+
+## Hyperconnect Tech Blog | 하이퍼커넥트의 기술블로그입니다
+
+- [A/B 테스트 자동 분석툴 개발하기](https://hyperconnect.github.io/2021/02/26/auto-stats-test.html)
 
 ---
 
 ## Clien
 
 - [파이썬으로 기존에 열려 있는 아래아한글 프로그램을 제어하는 방법](https://www.clien.net/service/board/lecture/17988014)
-
----
-
-## DZone
-
-- [Enterprises Must Utilize Python for Developing ERP Testing Processes](https://dzone.com/articles/enterprises-must-utilize-python-for-developing-erp)
 
 ---
 
@@ -309,7 +310,6 @@ tag:
 
 ---
 
-
 ## Kobzol's blog
 
 - [Writing Python like it's Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
@@ -319,12 +319,6 @@ tag:
 ## Pentesting
 
 - [Pentesting Android Apps Using Frida](https://notsosecure.com/pentesting-android-apps-using-frida)
-
----
-
-## DZone
-
-- [Developing Metadata-Driven Data Engineering Pipelines Using Apache Spark and Python Dictionary](https://dzone.com/articles/developing-metadata-driven-data-engineering-pipeli)
 
 ---
 
@@ -1324,8 +1318,10 @@ tag:
 
 ---
 
-## 
+## FinanceData
 
-- https://topnanis.tistory.com/253
+- [시가총액 데이터셋(marcap)](https://financedata.github.io/marcap/)
+
+---
 
 <TagLinks />

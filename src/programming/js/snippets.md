@@ -84,12 +84,14 @@ deleteWatchLater();
 ```js
 const channelId = (
   (document.querySelector('.yt-content-metadata-view-model-wiz__metadata-row > span')) ??
-  (document.querySelector('#channel-handle > span'))
+  (document.querySelector('#channel-handle > span')) ??
+  (document.querySelector('yt-formatted-string#channel-handle'))
 )?.innerHTML?.replace('@', '');
 
 const channelNameTag = (
   (document.querySelector('h1.dynamic-text-view-model-wiz__h1 > span')) ??
-  (document.querySelector('.ytd-channel-name > span'))
+  (document.querySelector('.ytd-channel-name > span')) ??
+  (document.querySelector('yt-formatted-string.ytd-channel-name#text'))
 )?.innerHTML;
 
 const channelName = (channelNameTag.match(/^(.*?)<span/g) == null) ? channelNameTag : channelNameTag.match(/^(.*?)<span/g)[0].replace('<span', '');

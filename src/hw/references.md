@@ -198,6 +198,12 @@ head:
 - [#4. 반도체 핵심 복습 (기초반도체공학, 메모리반도체, 로직반도체, 반도체 취업) | 반도체 강의 (기초부터 취업까지)](https://topnanis.tistory.com/249)
 - [#5. 반도체하면 무조건 가장 중요한 뉴스단골 '이것'!! 모르면 정말정말 안됩니다 | 반도체 강의 (기초부터 취업까지)](https://topnanis.tistory.com/250)
 
-----
+---
+
+## Trammell Hudson's Projects
+
+- [SPI flash](https://trmm.net/SPI_flash/)
+
+---
 
 <TagLinks />

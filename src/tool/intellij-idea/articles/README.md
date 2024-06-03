@@ -5,6 +5,7 @@ description: Intellij Idea > Article(s)
 icon: fas fa-square-share-nodes
 category:
   - IDE
+  - Jetbrains
   - Intellij Idea
   - Article(s)
 tag:

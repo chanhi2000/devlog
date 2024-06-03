@@ -1549,5 +1549,10 @@
     "desc": "Stateful load balancer custom-tailored for llama.cpp",
     "officialSite": "",
     "topics": ["ai", "llamacpp", "llm", "llmops"]
+  }, {
+    "repo": "piqoni/hn-text",
+    "desc": "A text-first HN client. ",
+    "officialSite": "",
+    "topics": []
   }
 ]

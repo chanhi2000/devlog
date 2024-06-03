@@ -130,5 +130,6 @@ head:
 <MyYouTubeItems jsonName="yu-The-DIY-Guide" /><!-- The DIY Guide -->
 <MyYouTubeItems jsonName="yu-space_diary" /><!-- 공간일기 -->
 <MyYouTubeItems jsonName="yu-chy65670075" /><!-- 덴트초이 -->
+<MyYouTubeItems jsonName="yu-sebasi15" /><!-- 세바시 강연 Sebasi Talk -->
 
 <TagLinks />

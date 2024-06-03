@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: AI > References
-icon: fas fa-brain
+icon: iconfont icon-share
 category:
   - AI
   - References
@@ -37,6 +37,7 @@ head:
 
 - [`towardsdatascience`/ The Math Behind the Adam Optimizer](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/the-math-behind-adam-optimizer.md) -->
 - [`@euisuk-chung` / 머신러닝 차원 축소 알고리즘](https://velog.io/@euisuk-chung/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9B%90-%EC%B6%95%EC%86%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [`naver-place-dev` / 지루하지 않게 코노미 사진 4만장 어노테이션하기 (머신러닝과 함께)](https://medium.com/naver-place-dev/%EC%A7%80%EB%A3%A8%ED%95%98%EC%A7%80-%EC%95%8A%EA%B2%8C-%EC%BD%94%EB%85%B8%EB%AF%B8-%EC%82%AC%EC%A7%84-4%EB%A7%8C%EC%9E%A5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%ED%95%A8%EA%BB%98-619c60f8a071)
 
 ---
 

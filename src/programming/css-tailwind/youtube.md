@@ -31,6 +31,6 @@ head:
 
 ---
 
----
+<MyYouTubeItems jsonName="yu-iamrithmic" /><!-- rithmic -->
 
 <TagLinks />

@@ -5,6 +5,7 @@ description: Intellij Idea > Youtube
 icon: fa-brands fa-youtube
 category:
   - IDE
+  - Jetbrains
   - Intellij Idea
   - Youtube
 tag: 
@@ -18,6 +19,14 @@ tag:
   - productivity
   - programming
   - youtube
+head:
+  - - meta:
+    - property: og:title
+      content: Intellij Idea > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/intellij-idea/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

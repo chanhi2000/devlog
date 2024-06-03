@@ -1,0 +1,32 @@
+---
+lang: ko-KR
+title: Youtube
+description: System Design > Youtube
+icon: fa-brands fa-youtube
+category: 
+  - Design
+  - System
+  - Youtube
+tag: 
+  - system
+  - design
+  - youtube
+head:
+  - - meta:
+    - property: og:title
+      content: System Design > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/academics/system-design/youtube.html
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+<MyYouTubeItems jsonName="yu-thewebsitearchitect" /><!-- The Website Architect -->
+
+<TagLinks />

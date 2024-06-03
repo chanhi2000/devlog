@@ -66,5 +66,6 @@ tag:
 <MyYouTubeItems jsonName="yu-SebastianDaschnerIT" /><!-- Sebastian Daschner -->
 <MyYouTubeItems jsonName="yu-TheArtOfTheTerminal" /><!-- The Art Of The Terminal -->
 <MyYouTubeItems jsonName="yu-sagaratytube" /><!-- Dispatch -->
+<MyYouTubeItems jsonName="yu-charmcli" /><!-- Charm CLI -->
 
 <TagLinks />

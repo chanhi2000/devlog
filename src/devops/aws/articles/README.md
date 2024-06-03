@@ -72,6 +72,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Pass the AWS Certified Solutions Architect - Associate Certification",
+  "desc": "Are you trying to earn the AWS Certified Solutions Architect - Associate certification? We just released a course on the freeCodeCamp.org YouTube channel that is is designed to help you pass the certification exam and showcase your expertise in AWS t...",
+  "link": "/explore/articles/freecodecamp.org/pass-the-aws-certified-solutions-architect-associate-certificatio.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## 요즘IT

@@ -41,7 +41,6 @@ tag:
 <MyYouTubeItems jsonName="yu-CodAffection" /><!-- CodAffection -->
 <MyYouTubeItems jsonName="yu-KodecoDev" /><!-- Kodeco -->
 <MyYouTubeItems jsonName="yu-OktaDev" /><!-- OktaDev -->
-<MyYouTubeItems jsonName="yu-JeffGeerling" /><!-- Jeff Geerling -->
 <MyYouTubeItems jsonName="yu-mcodeM" /><!-- 메타코드M -->
 <MyYouTubeItems jsonName="yu-thenewboston" /><!-- thenewboston -->
 <MyYouTubeItems jsonName="yu-coder2j" /><!-- coder2j -->

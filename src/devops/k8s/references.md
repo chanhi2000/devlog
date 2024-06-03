@@ -48,6 +48,7 @@ tag:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
+- [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성](https://tech.kakao.com/posts/406) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/406.md) -->
 - [실용주의 데브옵스 for MSA](https://tech.kakao.com/posts/449) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/449.md) -->
 - [쿠버네티스에 레디스 캐시 클러스터 구축기](https://tech.kakao.com/posts/491) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/491.md -->
 
@@ -103,6 +104,12 @@ tag:
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@Su-per` - [Kubernetes] kubectl 기본 명령어 정리](https://blex.me/@Su-per/kubernetes-kubectl-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+
+---
+
+## Speaker Deck | Easily Share Your Presentations Online
+
+- [`devinjeon` / Container부터 다시 살펴보는 Kubernetes Pod 동작 원리](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
 
 ---
 
@@ -277,12 +284,25 @@ tag:
 ## 커피고래의 노트
 
 - [쿠버네티스 API서버는 정말 그냥 API서버라구욧](https://coffeewhale.com/apiserver)
+- [\[번역\] 쿠버네티스에서 쉽게 저지르는 10가지 실수](https://coffeewhale.com/kubernetes/mistake/2020/11/29/mistake-10/)
 
 ---
 
 ## 로스카츠의 AI 머신러닝
 
 - [\[Infra\] 쿠버네티스(kubernetes)(2) 쿠버네티스 설치(Kubernetes install)](https://losskatsu.github.io/it-infra/kubernetes02/#1-2-%EC%8A%A4%EC%99%91-%EA%B8%B0%EB%8A%A5-%EC%A4%91%EC%A7%80-%EC%8B%9C%ED%82%A4%EA%B8%B0)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- ['너무 복잡'··· 쿠버네티스 관리를 아무도 원하지 않는 이유](https://www.ciokorea.com/news/190458)
+
+---
+
+## Outsider's Dev Story
+
+- [CDK for Kubernetes(CDK8s) 사용하기](https://blog.outsider.ne.kr/1537)
 
 ---
 

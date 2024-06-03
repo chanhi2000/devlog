@@ -867,6 +867,13 @@ https://gracefullight.dev/archive/
   logo="/images/content/ui.toast.com/favicon.ico"
   preview="/images/content/ui.toast.com/banner.png"/>
 
+<SiteInfo
+  name="타다 TECH BLOG"
+  desc="기술로 이동의 한계를 돌파합니다"
+  url="https://blog-tech.tadatada.com/"
+  logo="https://blog-tech.tadatada.com/favicon-32x32.png?v=5538e116b860d2f4ef55efadcc8fc537"
+  preview="https://static.tadatada.com/resources/blog/img_thumbnail_link.png"/>
+
 ```component VPCard
 {
   "title": "ZUM 기술 블로그",

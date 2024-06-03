@@ -281,9 +281,19 @@ head:
 
 ```component VPCard
 {
+  "title": "The Modern Guide For Making CSS Shapes",
+  "desc": "In this comprehensive guide, Temani Afif explores different techniques for creating common shapes with the smallest and most flexible code possible.",
+  "link": "/explore/articles/smashingmagazine.com/modern-css-layouts-no-framework-needed.md",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "The Times You Need A Custom @property Instead Of A CSS Variable",
   "desc": "Preethi Sam walks through an example that demonstrates where custom properties are more suitable than variables while showcasing the greater freedom and flexibility that custom properties provide for designing complex, refined animations.",
-  "link": "/explore/articles/smashingmagazine.com/switimes-need-custom-property-instead-css-variable.md",
+  "link": "/explore/articles/smashingmagazine.com/times-need-custom-property-instead-css-variable.md",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }

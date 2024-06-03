@@ -112,8 +112,11 @@ export const navbarEn = navbar([
         ]
       }, {
         text: 'Swift',
-        link: '/programming/swift/README.md',
         icon: 'fa-brands fa-swift',
+        children: [
+          '/programming/swift/README.md',
+          '/programming/objc/README.md',
+        ]
       }, {
         text: 'JavaScript',
         icon: 'fa-brands fa-js',
@@ -132,13 +135,9 @@ export const navbarEn = navbar([
           '/programming/js-next/README.md',
           '/programming/js-storybook/README.md',
           '/programming/js-gatsby/README.md',
-          '/programming/js-graphql/README.md',
           '/programming/js-supabase/README.md',
+          '/programming/js-mermaid/README.md',
         ]
-      }, {
-        text: 'Mermaid.js',
-        link: '/programming/js-mermaid/README.md',
-        icon: 'iconfont icon-mermaid',
       }, {
         text: 'CSS',
         link: '/programming/css/README.md',
@@ -160,10 +159,6 @@ export const navbarEn = navbar([
           '/programming/py-airflow/README.md',
         ]
       }, {
-        text: 'Objective-C',
-        icon: 'iconfont icon-objective-c',
-        link: '/programming/objc/README.md',
-      }, {
         text: 'Rust',
         link: '/programming/rust/README.md',
         icon: 'fa-brands fa-rust'
@@ -177,8 +172,11 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-csharp',
       }, {
         text: 'Go',
-        link: '/programming/go/README.md',
-        icon: 'fa-brands fa-golang'
+        icon: 'fa-brands fa-golang',
+        children: [
+          '/programming/go/README.md',
+          '/programming/go-grafana/README.md',
+        ],
       }, {
         text: 'Dart',
         link: '/programming/dart/README.md',
@@ -355,13 +353,16 @@ export const navbarEn = navbar([
         link: '/devops/ncloud/README.md',
         icon: 'iconfont icon-naver'
       }, {
-        text: 'Ansible',
+      text: 'Ansible',
         icon: 'iconfont icon-ansible',
         link: '/devops/ansible/README.md'
       }, {
         text: 'Security',
         icon: 'fas fa-shield-halved',
-        link: '/devops/security/README.md',
+        children: [
+          '/devops/security/README.md',
+          '/devops/security-jwt/README.md',
+        ]
       }, {
         text: 'HTTP',
         icon: 'iconfont icon-http',
@@ -469,6 +470,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-rocksdb',
         link: '/data-science/rocksdb/README.md',
       }, {
+        text: 'DuckDB',
+        icon: 'iconfont icon-duckdb',
+        link: '/data-science/duckdb/README.md',
+      }, {
         text: 'Cockroach',
         icon: 'iconfont icon-cockroach-db',
         link: 'devops/django/README.md',
@@ -510,6 +515,10 @@ export const navbarEn = navbar([
         text: 'Intellij Idea',
         icon: 'iconfont icon-intellijidea',
         link: '/tool/intellij-idea/README.md',
+      }, {
+        text: 'Writerside',
+        icon: 'iconfont icon-jetbrains',
+        link: '/tool/writerside/README.md',
       }, {
         text: 'Visual Studio',
         icon: 'iconfont icon-visualstudio',

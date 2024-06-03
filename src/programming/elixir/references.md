@@ -90,4 +90,10 @@ tag:
 
 ---
 
+## @gabrielpedepera
+
+- [Protecting sensitive data in Elixir GenServers](https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/)
+
+---
+
 <TagLinks />
