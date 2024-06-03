@@ -76,6 +76,12 @@ tag:
 
 ---
 
+## Blog - LINE ENGINEERING
+
+- [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나!](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/prometheus-container-kubernetes-cluster.md) -->
+
+---
+
 ## Linux Handbook
 
 - [Complete Beginner's Guide to Kubernetes Cluster Deployment on CentOS (and Other Linux)](https://linuxhandbook.com/kubernetes-cluster-deployment)
@@ -224,6 +230,7 @@ tag:
 - [Kubernetes ConfigMap & Secret, 제대로 이해하기](https://gngsn.tistory.com/288)
 - [Kubernetes, 제대로 이해하기](https://gngsn.tistory.com/289)
 - [Kubernetes Cluster Upgrade, 제대로 이해하기](https://gngsn.tistory.com/290)
+- https://gngsn.tistory.com/292
 
 ---
 
@@ -303,6 +310,12 @@ tag:
 ## Outsider's Dev Story
 
 - [CDK for Kubernetes(CDK8s) 사용하기](https://blog.outsider.ne.kr/1537)
+
+---
+
+## Jflip의 기술 블로그
+
+- [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지](https://jflip.tistory.com/m/13)
 
 ---
 

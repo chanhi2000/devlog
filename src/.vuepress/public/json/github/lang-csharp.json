@@ -379,5 +379,20 @@
     "desc": "PowerToys Translation Plugin with DeepLTranslator",
     "officialSite": "",
     "topics": ["deepl", "powertoys", "powertoys-run-plugin", "translation", "translator", "translators"]
+  }, {
+    "repo": "fiddyschmitt/File-Tunnel",
+    "desc": "Tunnel TCP connections through a file",
+    "officialSite": "",
+    "topics": ["firewall", "port-forwarding", "rdp", "tunnel"]
+  }, {
+    "repo": "fullstackhero/dotnet-starter-kit",
+    "desc": "Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+    "officialSite": "https://fullstackhero.net/dotnet-webapi-boilerplate/",
+    "topics": ["aws", "blazor", "boilerplate", "clean-architechture", "clean-architecture", "codewithmukesh", "docker", "dotnet", "dotnet8", "fullstackhero", "modular-monolith", "multitenancy", "starter-kit", "template", "terraform", "vertical-slice-architecture", "webapi"]
+  }, {
+    "repo": "microsoft/ApplicationInspector",
+    "desc": "A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.",
+    "officialSite": "",
+    "topics": ["application-inspector", "detection", "security-scanner", "security-tools", "software-characterization", "static-analysis"]
   }
 ]

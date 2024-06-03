@@ -1,5 +1,6 @@
 import { SidebarGroupItem } from 'vuepress-theme-hope'
 import { template as TEMPLATE_HACKINGWITHSWIFT } from './hackingwithswift.com';
+import { template as TEMPLATE_KODECO } from './kodeco.com'; 
 import { template as TEMPLATE_DONNYWALS } from './donnywals.com';
 import { template as TEMPLATE_DOUGGREGOR } from './douggregor.net';
 import { template as TEMPLATE_D2 } from './d2.naver.com';
@@ -69,6 +70,7 @@ export const sidebarByTemplate = (itemTemplate: SidebarInfoTemplate, type: strin
 export const articleSidebars = {
   hackingwithswift:   (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => TEMPLATE_HACKINGWITHSWIFT,
   freecodecamp:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FREECODECAMP, type),
+  kodeco:             (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KODECO, type),
   frontendmaster:     (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FRONTENDMASTER, type),
   smashingmagazion:   (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SMASHINGMAGAZINE, type),
   digitalocean:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DIGITALOCEAN, type),

@@ -40,9 +40,11 @@ tag:
 
 - [`@qkrtkdwns3410` - [도커] 볼륨과 마운트](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4-%EB%B3%BC%EB%A5%A8%EA%B3%BC-%EB%A7%88%EC%9A%B4%ED%8A%B8)
 - [`@qkrtkdwns3410` - [도커&쿠버] 도커 컨테이너에서 호스트 파일 복사 등](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4%EC%BF%A0%EB%B2%84-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%ED%98%B8%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EB%B3%B5%EC%82%AC-%EB%93%B1)
-- [`@dongha1992` - 도커 & CI (1)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-1)
-- [`@dongha1992` - 도커 & CI (2)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-2)
-- [`@dongha1992` - 도커 & CI (4)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-4)
+- [`@dongha1992` / 도커 & CI (1)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-1)
+- [`@dongha1992` / 도커 & CI (2)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-2)
+- [`@dongha1992` / 도커 & CI (4)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-4)
+- [`@dongha1992` / 도커 & CI (6)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-6-%EB%8F%84%EC%BB%A4%EB%A1%9C-%EB%B0%B0%ED%8F%AC)
+- [`@dongha1992` - 도커 & CI (7)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-7)
 
 ---
 
@@ -278,6 +280,30 @@ tag:
 ## Andreas' Blog
 
 - [Hosting Gitea and Drone with Docker](https://blog.anoff.io/2019-03-24-self-hosted-gitea-drone)
+
+---
+
+## ENFJ.dev
+
+- [📚 Docker Series](https://gngsn.tistory.com/292)
+  - [Docker Volume, 제대로 이해하기](https://gngsn.tistory.com/291)
+  - [Docker, 제대로 사용하기 - Commands](https://gngsn.tistory.com/268)
+  - [Docker Network, 제대로 이해하기 (2)](https://gngsn.tistory.com/140)
+  - [Docker Network, 제대로 이해하기 (1)](https://gngsn.tistory.com/137)
+  - [Docker Engine, 제대로 이해하기 (2)](https://gngsn.tistory.com/129)
+  - [Docker Engine, 제대로 이해하기 (1)](https://gngsn.tistory.com/128)
+
+---
+
+## jonnung.dev
+
+- [도커 이미지 잘 만드는 방법](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
+
+---
+
+## 44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
+
+- [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 ---
 

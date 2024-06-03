@@ -372,6 +372,10 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-jenkins',
         link: '/devops/jenkins/README.md',
       }, {
+        text: 'Travis CI',
+        icon: 'iconfont icon-travis-ci',
+        link: '/devops/travis-ci/README.md',
+      }, {
         text: 'Appium',
         icon: 'iconfont icon-appium',
         link: '/devops/appium/README.md',

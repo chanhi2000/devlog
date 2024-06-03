@@ -431,6 +431,14 @@ tag:
 
 - [Benchmark JDBC connectors and Java 21 virtual threads](https://mariadb.com/resources/blog/benchmark-jdbc-connectors-and-java-21-virtual-threads)
 
+### Penna
+
+- [Performance insights: Guards, Time and Modern Java Features](https://hkupty.github.io/penna/blog/performance-insights-branchless)
+ 
+### Mimul - Software Engineer, Blogger, Biker
+
+- [서비스 가용성 확보에 필요한 Rate Limiting Algorithm에 대해](https://www.mimul.com/blog/about-rate-limit-algorithm/)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin

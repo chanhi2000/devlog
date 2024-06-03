@@ -20,9 +20,9 @@ tag:
 
 ---
 
-## 44BITS
+## 44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
 
-- [테라폼이란?](https://www.44bits.io/ko/keyword/terraform)
+- [테라폼이란?](https://44bits.io/ko/keyword/terraform)
 
 ---
 

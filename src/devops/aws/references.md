@@ -85,6 +85,7 @@ head:
 - [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258#gaerae.com)
 - [`mathpresso` / Aurora/RDS 전문가의 GCP Cloud SQL 이전기](https://blog.mathpresso.com/aurora-mysql-rds-for-mysql-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-gcp-cloud-sql-for-mysql%EC%9D%B4%EC%A0%84%EA%B8%B0-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-cloud-db-%EC%9D%B4%EC%A0%84%EA%B8%B0-27db5b17450d)
 - [`wantedjobs` / CloudFront + CloudFront functions 이용하여, Next.js 번들파일 효율적으로 서빙하기! 🧞](https://medium.com/wantedjobs/cloudfront-cloudfront-functions-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-next-js-%EB%B2%88%EB%93%A4%ED%8C%8C%EC%9D%BC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-9ccc0541e406)
+- [`watcha` / WATCHA 서버 접속을 위한 CLI 와 SSH 인증서버 소개](https://medium.com/watcha/watcha-%EC%84%9C%EB%B2%84-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-cli-%EC%99%80-ssh-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B2%84-%EC%86%8C%EA%B0%9C-264cc31f411a)
 
 ---
 
@@ -105,6 +106,7 @@ head:
 - [`@stella6767` / 2년간 스타트업 서버 아키텍처 개선기](https://velog.io/@stella6767/2%EB%85%84%EA%B0%84-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%84%9C%EB%B2%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%EC%84%A0%EA%B8%B0)
 - [`@owen1025` / ISMS 1편 - AWS(+EKS)에서 업무 환경 망분리](https://velog.io/@owen1025/ISMS-1%ED%8E%B8-AWSEKS%EC%97%90%EC%84%9C-%EC%97%85%EB%AC%B4-%ED%99%98%EA%B2%BD-%EB%A7%9D-%EB%B6%84%EB%A6%AC?)
 - [`@root-devvoo` / External Secrets Operator를 통한 Node기반 Amazon EKS 클러스터 Pod 내 AWS Secrets Manager 데이터를 환경변수로 주입](https://velog.io/@root-devvoo/External-Secrets-Operator%EB%A5%BC-%ED%86%B5%ED%95%9C-Node%EA%B8%B0%EB%B0%98-Amazon-EKS-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-Pod-%EB%82%B4-AWS-Secrets-Manager-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%EB%A1%9C-%EC%A3%BC%EC%9E%85)
+- [`@dongha1992` - 도커 & CI (7)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-7)
 
 ---
 
@@ -227,6 +229,7 @@ head:
 
 - [[LocalStack] 24년에 다시보는 LocalStack 설치하기](https://jakpentest.tistory.com/entry/LocalStack-24%EB%85%84%EC%97%90-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94-LocalStack-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 - [[LocalStack] LocalStack에서 EC2를 다뤄보자.](https://jakpentest.tistory.com/entry/LocalStack-EC2%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-ssh-%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80)
+- [\[AWS\] SESv2를 이용한 수신측 메일 열람여부 확인하기](https://jakpentest.tistory.com/entry/%EC%86%A1%EC%8B%A0-%EB%A9%94%EC%9D%BC%EC%9D%84-%EC%88%98%EC%8B%A0-%EC%B8%A1%EC%97%90%EC%84%9C-%EC%97%B4%EC%96%B4%EB%B4%A4%EB%8A%94%EC%A7%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C)
 
 ---
 
@@ -290,6 +293,30 @@ head:
 
 - [\[Cloud\] Cloud Service Provider(AWS, GCP, Azure) API 사용 이슈에 대한 장애 대응 사례 정리](https://twpower.github.io/343-case-study-of-incident-response-for-cloud-service-provider-api-usage-issue)
 - [\[Cloud\]\(EN\) Case study of incident response for cloud service provider (AWS, GCP, Azure) API usage issue](https://twpower.github.io/342-case-study-of-incident-response-for-cloud-service-provider-api-usage-issue-en)
+
+---
+
+## Outsider's Dev Story
+
+- [AWS Transfer 패밀리로 SFTP 구성하기 #1](https://blog.outsider.ne.kr/1500?)
+
+---
+
+## 44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
+
+- [aws-vault 사용법: AWS의 인증 정보 안전하게 사용하기](https://44bits.io/ko/post/securing-aws-credentials-with-aws-vault)
+
+---
+
+## 나른한 하루
+
+- [캐치딜 백엔드 개발이야기 : 좌충우돌 서버 설계 및 운영 이야기](https://kbs4674.tistory.com/m/114)
+
+---
+
+## 데브원영
+
+- [AWS MSK(Kafka) 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/299)
 
 ---
 

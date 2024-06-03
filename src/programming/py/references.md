@@ -31,6 +31,10 @@ tag:
 
 - [Sandboxing Python with Win32 App Isolation](https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/)
 
+### <FontIcon icon="fa-brands fa-python"/>Python
+
+- [Python Linting in Visual Studio Code – Hinting and Linting Video Series](https://devblogs.microsoft.com/python/python-linting-video/)
+
 ---
 
 ## <FontIcon icon="iconfont icon-github"/>Github
@@ -116,6 +120,7 @@ tag:
 
 - [`crawlee` / Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
 - [`taipy` / Specialized Python libraries for Unique Taskss](https://dev.to/taipy/specialized-python-libraries-for-unique-tasks-5dgm)
+- [`taipy` / 😂11 Fun Python libraries to make your day better☀️](https://dev.to/taipy/11-fun-python-libraries-to-make-your-day-better-4gpc) <!-- TODO: 라이브러리 추출 -->
 
 ---
 
@@ -128,6 +133,7 @@ tag:
 - [`johnloewen` / Simple Interactive Python Streamlit Maps That Will Make You Shout](https://johnloewen.substack.com/p/simple-interactive-python-streamlit)
 - [`bitecode` / Python as a configuration language](https://www.bitecode.dev/p/python-as-a-configuration-language)
 - [`codingconfessions` / How Many Lines of C it Takes to Execute a + b in Python?](https://blog.codingconfessions.com/p/cpython-dynamic-dispatch-internals)
+- [`codingconfessions` / CPython Object System Internals: Understanding the Role of PyObject](https://blog.codingconfessions.com/p/cpython-object-system-internals-understanding)
 
 ---
 
@@ -449,6 +455,7 @@ tag:
 
 ## Python⇒Speed
 
+- [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size)
 - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2)
 - [Beware of misleading GPU vs CPU benchmarks](https://pythonspeed.com/articles/gpu-vs-cpu/)
@@ -651,6 +658,8 @@ tag:
 - [OpenCV Python Tracking 예제](https://webnautes.tistory.com/2338)
 - [PyQt5 QTableWidget 예제](https://webnautes.tistory.com/2337)
 - [miniconda/anaconda에서 conda 사용하는 방법](https://webnautes.tistory.com/2276)
+- [모델 평가하는 방법(혼동행렬, confusion matrix 사용방법, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
+- [Matplotlib를 사용하여 원형 그래프 그리기](https://webnautes.tistory.com/2341)
 
 ---
 
@@ -1015,14 +1024,16 @@ tag:
 ---
 
 ## The Missing Papers · Sang Park
-    
+
 - [NumPy로 구현하는 라마 3 모델](https://docs.likejazz.com/llama3.np-ko/)
 
 ---
 
 ## 게으른맽랩 lazy matlab
 
-- [게으른 예외처리는 독이 될 수도 있다.](https://lazymatlab.tistory.com/232)
+- [게으른 예외처리는 독이 될 수도 있다.](https://lazymatlab.tistory.com/m/232)
+- [syntax sugar in python](https://lazymatlab.tistory.com/m/236)
+- [파이썬을 왜 공부하나요?](https://lazymatlab.tistory.com/m/75)
 
 ---
 
@@ -1323,5 +1334,31 @@ tag:
 - [시가총액 데이터셋(marcap)](https://financedata.github.io/marcap/)
 
 ---
+
+## LinuxBlog.io
+
+- [Building a Neural Network with PyTorch](https://linuxblog.io/building-a-neural-network-with-pytorch/) <!-- TODO: py-pytorch 이동 -->
+
+---
+
+## Stack Abuse
+
+- [Guide to Queues in Python](https://stackabuse.com/guide-to-queues-in-python/)
+
+---
+
+## Muhammad | Personal Blog where I write about things I learn or discover
+
+- [Understanding Linux cp Command and Implementing in Python](https://muhammadraza.me/2023/linux-cp/)
+
+---
+
+## Ned Batchelder
+
+- [Say it again: values not expressions](https://nedbatchelder.com/blog/202311/say_it_again_values_not_expressions.html)
+
+---
+
+
 
 <TagLinks />

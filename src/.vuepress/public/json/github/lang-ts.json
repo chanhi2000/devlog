@@ -2988,5 +2988,10 @@
     "desc": "The simplest and fastest way to bundle your TypeScript libraries.",
     "officialSite": "https://tsup.egoist.dev",
     "topics": []
+  }, {
+    "repo": "adrianhajdin/podcastr",
+    "desc": "",
+    "officialSite": "https://podcastr-23zf.vercel.app",
+    "topics": ["convex", "nextjs"]
   }
 ]

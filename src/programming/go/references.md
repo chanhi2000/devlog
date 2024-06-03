@@ -68,6 +68,7 @@ tag:
 - [Parallelism and Concurrency in Go: How It Works in Real Computing Systems. Part 1.](https://medium.com/@ninucium/parallelism-and-concurrency-in-go-how-it-works-in-real-computing-systems-part-1-a680443ad8bd)
 - [`daangn` / 검색 랭킹 흐름 만들기: 검색은 처음 인디요](https://medium.com/daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7)
 - [쏘카일레클과 Go](https://medium.com/elecle-bike/%EC%8F%98%EC%B9%B4%EC%9D%BC%EB%A0%88%ED%81%B4%EA%B3%BC-go-99f2d110c32c)
+- [`cloudbric-tech-leaders` / Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 
 ---
 
@@ -85,6 +86,7 @@ tag:
 
 ## 뱅크셀러드
 
+- [프로덕션 환경에서 사용하는 golang과 gRPC](https://blog.banksalad.com/tech/production-ready-grpc-in-golang/) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/production-ready-grpc-in-golang.md) -->
 - [뱅크샐러드 Go 코딩 컨벤션](https://blog.banksalad.com/tech/go-best-practice-in-banksalad) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/go-best-practice-in-banksalad.md) -->
 
 ---
@@ -291,6 +293,12 @@ tag:
 ## Jinsu Playground
 
 - [Go vs Java - Go에서의 객체 지향](https://umi0410.github.io/blog/golang/go-vs-java-oop)
+
+---
+
+## mingrammer's note
+
+- [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
 
 ---
 

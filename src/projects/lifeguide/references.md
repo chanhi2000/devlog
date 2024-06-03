@@ -35,6 +35,7 @@ tag:
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@mythos` / [Book] 소크라테스의 변명ㆍ크리톤ㆍ파이돈ㆍ향연 (최유경)](https://velog.io/@mythos/Book-%EC%86%8C%ED%81%AC%EB%9D%BC%ED%85%8C%EC%8A%A4%EC%9D%98-%EB%B3%80%EB%AA%85%E3%86%8D%ED%81%AC%EB%A6%AC%ED%86%A4%E3%86%8D%ED%8C%8C%EC%9D%B4%EB%8F%88%E3%86%8D%ED%96%A5%EC%97%B0-%EC%B5%9C%EC%9C%A0%EA%B2%BD)
+- [`@diadntjr` / 꿈이 뭐에요?](https://velog.io/@diadntjr/%EA%BF%88%EC%9D%B4-%EB%AD%90%EC%97%90%EC%9A%94)
 
 ---
 
@@ -59,7 +60,7 @@ tag:
 ## 드프 DrawingProcess
 
 - [[하루 정리] 24.03.26. 실업 급여 신청 완료!](https://csj000714.tistory.com/1074)
-            
+
 ---
 
 ## Dveamer
@@ -79,6 +80,7 @@ tag:
 
 - [DMA와 시세 레이턴시 측정](https://smallake.kr/?p=34011)
 - [DMA 조사에 나선 금감원, 검찰 그리고 현재](https://smallake.kr/?p=34055)
+- [DMA와 공매도 그리고 NSDS](https://smallake.kr/?p=34097)
 
 ---
 

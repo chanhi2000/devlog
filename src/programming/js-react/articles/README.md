@@ -125,6 +125,16 @@ head:
 
 ```component VPCard
 {
+  "title": "How to Use TypeScript with React",
+  "desc": "In this article, you will learn how to use TypeScript with React. By the end, you will have a solid understanding of how to write React code with TypeScript. Want to watch the video version of this tutorial? You can check out the video below: Table of Contents  *",
+  "link": "/explore/articles/freecodecamp.org/use-typescript-with-react.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "React 서버 컴포넌트를 사용해야 하는 이유와 방법",
   "desc": "2020년 말, React 팀은 '제로-번들-사이즈 React 서버 컴포넌트' 개념을 도입했습니다. 그 이후로 React 개발자 커뮤니티는 이 미래 지향적인 접근 방식을 실험하고 적용하는 방법을 학습해 왔습니다. React는 UI를 구축하는 방식에 대한 우리의 생각을 바꾸었습니다. 그리고 React 서버 컴포넌트를 사용하는 새로운 모델은 훨씬 더 구조화되고 편리하며, 유지 관리하기 쉽고 더 나은 사용자",
   "link": "/explore/articles/freecodecamp.org/how-to-use-react-server-components.md",

@@ -2324,5 +2324,10 @@
     "desc": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
     "officialSite": "https://swagger.io",
     "topics": ["hacktoberfest", "oas", "open-source", "openapi", "openapi-specification", "openapi3", "openapi31", "rest", "rest-api", "swagger", "swagger-api", "swagger-js", "swagger-oss", "swagger-ui"]
+  }, {
+    "repo": "blackmatrix7/ios_rule_script",
+    "desc": "分流规则、重写写规则及脚本。",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -29,6 +29,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-supabase"/>Supabase
+
+- [GitHub OAuth in your Python Flask app](https://supabase.com/blog/oauth2-login-python-flask-apps)
+
+---
+
 ## Real Python
 
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 2 – Real Python](https://realpython.com/flask-connexion-rest-api-part-2/)

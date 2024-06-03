@@ -562,6 +562,14 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+<SiteInfo
+  name="Q1K3 | js13kGames"
+  desc="HTML5 and JavaScript Game Development Competition in just 13 kB"
+  url="https://js13kgames.com/games/q1k3/index.html"
+  logo="https://js13kgames.com/img/favicon.png"
+  preview="https://js13kgames.com/games/q1k3/__big.jpg"/>
+
+
 <!-- @end Cool Project -->
 
 @tab Portfolio / Resume

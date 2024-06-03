@@ -67,4 +67,16 @@ tag:
 
 ---
 
+## Morgenrøde
+
+- [HITS!를 이용하여 Jekyll 블로그에 조회수 배지 달기](https://ryanking13.github.io/2020/03/09/jekyll-views-count-badge.html)
+
+---
+
+## 기계인간 John Grib
+
+- [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/wiki/my-wiki/)
+
+---
+
 <TagLinks />

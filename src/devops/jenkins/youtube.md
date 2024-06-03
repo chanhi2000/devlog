@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: 🤵🏻‍♂️Jenkins > Youtube
+description: Jenkins > Youtube
 icon: fa-brands fa-youtube
 category:
-  - 🤵🏻‍♂️Jenkins
+  - Jenkins
   - Youtube
 tag: 
   - "youtube"

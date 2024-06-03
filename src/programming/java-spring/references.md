@@ -32,6 +32,10 @@ head:
 
 ## <FontIcon icon="fa-brands fa-java"/>Java
 
+### <FontIcon icon="iconfont icon-github"/>Github
+
+- [Spring Boot 3.2 Release Notes](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.2-Release-Notes)
+
 ### InfoQ
 
 - [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java/)
@@ -54,7 +58,12 @@ head:
 
 ### NAVER D2
 
-[streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현](https://d2.naver.com/helloworld/9423440) <!-- TODO: 작성 (/explore/articles/d2.naver.com/9423440.md) -->
+- [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222) <!-- TODO: 작성 (/explore/articles/d2.naver.com/6080222.md) -->
+- [streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현](https://d2.naver.com/helloworld/9423440) <!-- TODO: 작성 (/explore/articles/d2.naver.com/9423440.md) -->
+
+### NHN Cloud Meetup - NHN 기술 블로그
+
+- [JWT를 소개합니다.](https://meetup.nhncloud.com/posts/239) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/239.md) -->
 
 ---
 
@@ -75,6 +84,10 @@ head:
 - [`itnext` / Building Modular Monolith Applications with Spring Boot and Domain Driven Design](https://itnext.io/building-modular-monolith-applications-with-spring-boot-and-domain-driven-design-d3299b300850)
 - [`itnext` / Improving Modular Monolith Applications with Spring Modulith](https://itnext.io/improving-modular-monolith-applications-with-spring-modulith-edecc787f63c)
 - [`netflixtechblog` / Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
+
+### <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`m1guelsb` / Authentication and authorization with Spring-Boot](https://dev.to/m1guelsb/authentication-and-authorization-with-spring-boot-4m2n?)
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -266,6 +279,14 @@ head:
 
 - [Virtual Threads – A Definite Advantage](https://blog.ycrash.io/virtual-threads-a-definite-advantage/)
 
+### 기억보단 기록을
+
+- [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528)
+
+### 민수's 기술 블로그
+
+- [Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?](https://alwayspr.tistory.com/44)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -284,6 +305,7 @@ head:
 
 ### Yun Blog
 
+- [JPA 선호하는 패턴](https://cheese10yun.github.io/jpa-preference/)
 - [Spring 레플리케이션 트랜잭션 처리 방식](https://cheese10yun.github.io/spring-transaction)
 - [Resilience4j를 이용한 서킷 브레이커 기초](https://cheese10yun.github.io/resilience4j-basic)
 

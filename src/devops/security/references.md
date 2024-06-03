@@ -66,6 +66,11 @@ tag:
 
 ---
 
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [Email 보안 강화 기능 소개(SPF)](https://meetup.nhncloud.com/posts/244?)
+
+---
 
 ## Penetration Testing
 

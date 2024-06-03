@@ -29,5 +29,10 @@
     "desc": "Helper-Tool für Windows 10/11 Inplace-Upgrades und Editionswechsel",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "Gktwo/wuwa-mod",
+    "desc": "Wuthering Waves pak mods",
+    "officialSite": "",
+    "topics": []
   }
 ]

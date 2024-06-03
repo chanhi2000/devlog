@@ -15,6 +15,7 @@ export const template: SidebarInfoTemplate = {
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
     ]],[
     "js", [
+      "loop-through-arrays-javascript", // 2023-10-31
       "how-to-create-interactive-terminal-based-portfolio", // 2024-04-29
       "higher-order-functions-explained", // 2024-05-02
       "understand-javascript-closures", // 2024-05-07
@@ -34,6 +35,7 @@ export const template: SidebarInfoTemplate = {
       "javascript-prototypal-inheritance", // 2024-05-31
     ]],[
     "js-react", [
+      "use-typescript-with-react", // 2023-11-15
       "how-to-use-react-server-components", // 2024-01-08
       "throttling-in-javascript", // 2024-05-01
       "how-to-build-a-realtime-chart-with-react-and-pusher", // 2024-05-02
@@ -148,6 +150,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-parse-a-string-in-python", // 2023-05-04
       "postgresql-indexing-strategies", // 2023-05-12
       "check-python-version-how-to-check-py-in-mac-windows-and-linux", // 2023-07-07
+      "loop-through-arrays-javascript", // 2023-10-31
+      "use-typescript-with-react", // 2023-11-15
       "how-to-use-react-server-components", // 2024-01-08
       "what-is-dead-zone-in-javascript", // 2024-03-28
       "how-to-add-media-to-your-html-email-template", // 2024-04-23

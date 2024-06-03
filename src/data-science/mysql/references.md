@@ -44,6 +44,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [MySQL Beginner's Guide](https://dev.to/aaravpatel1985/mysql-beginners-guide-4mb3)
+
+---
+
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@eunbibi` - Database](https://velog.io/@eunbibi/Database)
@@ -88,7 +94,7 @@ head:
 
 - [Upsert in SQL](https://antonz.org/sql-upsert)
 
---- 
+---
 
 ## SQLShack
 

@@ -178,6 +178,7 @@ head:
 - [`@eunbinn` - [번역] 리액트 컴파일러와 리액트 19 - 이제 메모이제이션을 신경쓰지 않아도 되나요?](https://velog.io/@eunbinn/react-compiler-soon)
 - [`@eunbinn` - [번역] DALL-E와 Next.js로 이미지 편집기 만들기](https://velog.io/@eunbinn/image-editor-dall-e-next)
 - [`@yaytomato` / 🍪 프론트에서 안전하게 로그인 처리하기 (ft. React)](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [`@eunbinn` / [번역] 리액트 컴파일러](https://velog.io/@eunbinn/react-compiler)
 
 ---
 
@@ -340,6 +341,7 @@ head:
 - [`wantedjobs` / 프론트엔드 테스트의 모든 것](https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d)
 - [`bitsrc` / A Modern Approach to React Development](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)
 - [`@renanolovics` / 10 Best Practices in Front-end Development (React)](https://medium.com/@renanolovics/10-best-practices-in-front-end-development-react-5277a671e2df)
+- [`myrealtrip-product` / Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
 
 ---
 
@@ -868,6 +870,12 @@ https://o-yeon.tistory.com/227
 ## Life & Dev
 
 - [싱페어 (SPA) 의 피로감](https://seokjun.kim/spa-is-aweful)
+
+---
+
+## Alex Buaiscia Blog
+
+- [Printing Perfection, A Developer’s Journey with React-to-Print](https://buaiscia.github.io/blog/tips/printing-developer-journey-react-to-print)
 
 ---
 

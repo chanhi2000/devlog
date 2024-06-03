@@ -37,6 +37,7 @@ head:
 
 ## NAVER D2
 
+- [KafkaProducer Client Internals](https://d2.naver.com/helloworld/6560422) <!-- TODO: 작성 (/explore/articles/d2.naver.com/6560422.md) -->
 - [대용량 스트리밍 데이터 실시간 분석](https://d2.naver.com/helloworld/7731491) <!-- TODO: 작성 (/explore/articles/d2.naver.com/7731491.md) -->
 
 ---
@@ -66,6 +67,18 @@ head:
 ## frogred8
 
 - [[java] 카프카는 왜 빠를까?](https://frogred8.github.io/docs/034_why_is_kafka_fast/)
+
+---
+
+## victolee
+
+- [🙈\[Kafka\] 기본 개념잡기🐵](https://victorydntmd.tistory.com/344)
+
+---
+
+## 데브원영
+
+- [AWS MSK(Kafka) 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/299)
 
 ---
 

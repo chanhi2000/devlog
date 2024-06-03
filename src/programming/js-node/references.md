@@ -99,12 +99,13 @@ tag:
 
 ## Toast UI
 
+- [ECMAScript 2020의 새로운 점](https://ui.toast.com/posts/ko_20200409) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20200409.md) -->
 - [ECMAScript 명세 이해, 1부](https://ui.toast.com/posts/ko_20221116_1)
 - [ECMAScript 명세 이해, 2부](https://ui.toast.com/posts/ko_20221116_2)
 - [ECMAScript 명세 이해, 3부](https://ui.toast.com/posts/ko_20221116_3)
 - [ECMAScript 명세 이해, 4부](https://ui.toast.com/posts/ko_20221116_4)
-- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/weekly-pick/ko_20200804)
-- [Async Cookie Store API 살펴보기](https://ui.toast.com/weekly-pick/ko_20201027)
+- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/posts/ko_20200804) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20200804.md) -->
+- [Async Cookie Store API 살펴보기](https://ui.toast.com/posts/ko_20201027) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20201027.md) -->
 
 ---
 
@@ -449,6 +450,7 @@ tag:
 - [`bitsrc` / Bit, Nx and Lerna: An Overview of 3 Popular JavaScript Build Systems](https://blog.bitsrc.io/javascript-build-systems-83bc4df4df8c)
 - [`junghan92` / d3-geo, TopoJSON, canvas를 이용한 맵 차트 그리기](https://junghan92.medium.com/d3-geo-topojson-canvas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%B5-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0-ffab54ec23bf)
 - [`junghan92` / (번역) 웹에서 텍스트 크기 조정에 대해 다시 생각하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-6ed827589fd9)
+- [`daangn` / 안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
 
 ---
 
@@ -1095,6 +1097,12 @@ tag:
 ## 브랜디 랩스(Brandi Labs)
 
 - [IndexedDB 를 활용한 풀필먼트 시스템 고도화](https://labs.brandi.co.kr/2021/04/19/leejm3.html) <!-- TODO: 작성 (/explore/articles/labs.brandi.co.kr/leejm3.md) -->
+
+---
+
+## 신재헌의 블로그
+
+- [`await의` 함정, 숨은 병목을 찾자](https://jaeheon.kr/161)
 
 ---
 

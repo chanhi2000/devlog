@@ -42,4 +42,10 @@ head:
 
 ---
 
+## Anthony Shaw
+
+- [Running Python Parallel Applications with Sub Interpreters](https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html)
+
+---
+
 <TagLinks />

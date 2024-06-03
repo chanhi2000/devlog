@@ -120,6 +120,7 @@ head:
 ### Physics
 
 - [Can tin foil hats block anything?](https://physics.stackexchange.com/questions/208516/can-tin-foil-hats-block-anything)
+- [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 
 ### Statistics
 

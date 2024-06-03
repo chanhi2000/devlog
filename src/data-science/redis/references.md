@@ -22,6 +22,12 @@ tag:
 
 ---
 
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [개발자를 위한 레디스 튜토리얼 01](https://meetup.nhncloud.com/posts/224) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/224.md) -->
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`garimoo` / 개발자를 위한 레디스 튜토리얼 01](https://medium.com/garimoo/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A0%88%EB%94%94%EC%8A%A4-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-01-92aaa24ca8cc)

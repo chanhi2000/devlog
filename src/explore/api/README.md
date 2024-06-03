@@ -456,6 +456,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Brand New",
+  "desc": "Opinions on corporate and brand identity work",
+  "link": "https://www.underconsideration.com/brandnew",
+  "logo": "https://www.underconsideration.com/brandnew/wp/wp-content/themes/make/_favicon/apple-touch-icon.png",
+  "background": "rgba(250,40,55,0.2)"
+}
+```
+
 <SiteInfo
   name="Illustrations | unDraw"
   desc="The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free."
@@ -708,6 +718,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+<SiteInfo
+  name="카페24 상업용 무료 폰트 다운로드 - 카페24"
+  desc="라이선스 걱정 없이 어디서나 사용할 수 있는 상업용 무료 폰트"
+  url="https://fonts.cafe24.com/"
+  logo="https://img.cafe24.com/favicon/cafe24.ico"
+  preview="https://img.cafe24.com/images/common/og_image.png"/>
+
 ```component VPCard
 {
   "title": "Windows 98 Icon Viewer",
@@ -788,6 +805,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+<SiteInfo
+  name="Font In Logo - Search Engine for Logos and Fonts"
+  desc="Search & find FONTS used by World Brands in their logos, such as Nike, Tesla, Chanel, Adidas, Youtube, BMW font, New York Times, Sony, Nvidia and more."
+  url="https://www.fontinlogo.com/"
+  logo="https://cdn.prod.website-files.com/5ee732bebd98391c46ff27c4/5eedd2af2a1f376faa86b181_Favicon%20F%3EL.png"
+  preview="https://cdn.prod.website-files.com/5ee732bebd98391c46ff27c4/5ef2099e4056018c8fdfbe78_1.jpg"/>
+
 ```component VPCard
 {
   "title": "공공누리",
@@ -836,6 +860,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "background": "rgba(110,67,184,0.2)"
 }
 ```
+
+<SiteInfo
+  name="pattern.css - Background Patterns in CSS"
+  desc="CSS only library to fill your empty background with beautiful patterns."
+  url="https://bansal.io/pattern-css"
+  logo="https://avatars.githubusercontent.com/u/64239773?v=4"
+  preview="https://bansal.io/assets/images/pattern-css-preview.jpg"/>
 
 ```component VPCard
 {
@@ -1297,7 +1328,6 @@ https://mdis.kostat.go.kr/index.do
   logo="https://developers.naver.com/inc/devcenter/dist/0739723a031b354f5311473e386d3eb1.png"
   preview="https://developers.naver.com/inc/devcenter/images/main_og.jpg"/>
 
-
 ```component VPCard
 {
   "title": "Free Car Service Manuals from Operation CHARM — No strings attached!",
@@ -1314,6 +1344,24 @@ https://mdis.kostat.go.kr/index.do
   url="https://fluent2.microsoft.design/"
   logo="https://fluent2.microsoft.design/favicons/favicon.ico"
   preview="https://fluent2websitecdn.azureedge.net/cdn/fluent-logo-metadata.sGvv_Be1.png"/>
+
+```component VPCard
+{
+  "title": "API | Developer Documentation | SmartThings",
+  "desc": "SmartThings Public API",
+  "link": "https://developer.smartthings.com/docs/api/public",
+  "logo": "https://developer.smartthings.com/docs/img/favicon-32x32.png",
+  "background": "rgba(49,105,178,0.2)"
+}
+```
+
+<SiteInfo
+  name="헤이홈 OpenAPI Guide"
+  desc="A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team"
+  url="https://goqual.notion.site/OpenAPI-Guide-1177102881b345c3aa001d15d1788601"
+  logo="https://goqual.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa13028a4-9794-4508-b401-930241b72125%2FHejhome_Symbol_01_1.png?table=block&id=11771028-81b3-45c3-aa00-1d15d1788601&spaceId=3bc7b4f5-11cd-4d6e-839f-0e0ffaa3f8f6&width=40&userId=&cache=v2"
+  preview="https://www.notion.so/images/meta/default.png"/>
+
 
 <!-- @end Documentation -->
 

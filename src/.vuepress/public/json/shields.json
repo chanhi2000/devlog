@@ -161,6 +161,7 @@
   { "logo": "tableau", "name": "Tableau", "colorHex": "E97627" },
   { "logo": "tailwindcss", "name": "Tailwind%20CSS", "colorHex": "06B6D4" },
   { "logo": "terraform", "name": "Terraform", "colorHex": "844FBA" },
+  { "logo": "travisci", "name": "Travis%20CI", "colorHex": "3EAAAF" },
   { "logo": "typescript", "name": "Typescript", "colorHex": "3178C6" },
   { "logo": "ubuntu", "name": "Ubuntu", "colorHex": "E95420" },
   { "logo": "vim", "name": "Vim", "colorHex": "019733" },

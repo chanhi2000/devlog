@@ -38,6 +38,12 @@ tag:
 
 ---
 
+## Substack
+
+- [`bitecode` / Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
+
+---
+
 ## Gonçalo Valério
 
 - [Filter sensitive contents from Django’s error reports](https://blog.ovalerio.net/archives/2756)
@@ -124,6 +130,12 @@ tag:
 ## David Smith's Blog
 
 - [Building a Bootstrap styled form in vanilla Django.](https://smithdc.uk/blog/2023/bootstrap_form_in_vanilla_django)
+
+---
+
+## Idiomatic Programmers
+
+- [Adding Full Text Search to Your Django App with django-watson](https://idiomaticprogrammers.com/post/django-watson-full-text-search-guide/)
 
 ---
 

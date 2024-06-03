@@ -75,6 +75,16 @@ head:
 
 ```component VPCard
 {
+  "title": "How to Loop Through Arrays in JavaScript",
+  "desc": "Looping through arrays in JavaScript is a fundamental concept that every JavaScript developer should understand. Whether you're a beginner or an experienced developer, understanding how to loop through an array is crucial for many programming tasks.  In this article, we'll explore the different ways to loop through an array",
+  "link": "/explore/articles/freecodecamp.org/loop-through-arrays-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "How to Create an Interactive Terminal-Based Portfolio Website",
   "desc": "In this article, you will learn how to create an interactive terminal-based portfolio and résumé in JavaScript. We'll use the jQuery Terminal library (and a few other tools) to create a website that looks like a real terminal. This article will show more advanced usage of the jQuery Terminal",
   "link": "/explore/articles/freecodecamp.org/how-to-create-interactive-terminal-based-portfolio.md",

@@ -128,6 +128,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/gradle/articles/README.md',
             asb.freecodecamp("gradle"),
+            asb.kodeco("gradle"),
             asb.shopify("gradle"),
             asb.linecorp("gradle"),
           ]
@@ -175,6 +176,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java/articles/README.md',
+            asb.kodeco("kotlin"),
             asb.yozm("java"),
             asb.nhn("java"),
             asb.d2("java"),
@@ -242,6 +244,8 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/java-android/articles/README.md',
             asb.freecodecamp("java-android"),
+            asb.kodeco("java-android"),
+            asb.kodeco("kotlin-android"),
             asb.yozm("java-android"),
             asb.droidcon("java-android"),
             asb.ktAcademy("kotlin-android"),
@@ -465,6 +469,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/js-react/articles/README.md',
             asb.freecodecamp("js-react"),
+            asb.kodeco("js-react"),
             asb.smashingmagazion("js-react"),
             asb.yozm("js-react"),
             asb.kakaoTech("js-react"),
@@ -2098,6 +2103,16 @@ export const sidebarEn = sidebar({
         '/devops/jenkins/youtube.md',
       ]
     }, {
+      text: 'Travis CI',
+      collapsible: true,
+      icon: 'iconfont icon-travisci',
+      children: [
+        '/devops/travis-ci/README.md',
+        '/devops/travis-ci/snippets.md',
+        '/devops/travis-ci/references.md',
+        '/devops/travis-ci/youtube.md',
+      ]
+    }, {
       text: 'Appium',
       collapsible: true,
       icon: 'iconfont icon-appium',
@@ -2799,6 +2814,7 @@ export const sidebarEn = sidebar({
       children: [
         asb.hackingwithswift(),
         asb.freecodecamp(), 
+        asb.kodeco(),
         asb.frontendmaster(),
         asb.smashingmagazion(),
         asb.digitalocean(),

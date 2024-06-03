@@ -33,6 +33,12 @@ head:
 
 ---
 
+## Share & Discover Presentations | SlideShare
+
+- [우아한 모노리스](https://slideshare.net/slideshow/ss-224478403/224478403)
+
+---
+
 ## YOZM
 
 - [사용자를 '중독'시키는 UX 전략](https://yozm.wishket.com/magazine/detail/2300/) <!-- TODO: 작성 (/explore/articles/yozm.wishket.com/2300.md) -->
@@ -56,10 +62,12 @@ head:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
+- [실시간 댓글 개발기(part.1) - DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/posts/390) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/390.md) -->
 - [이모티콘 서비스는 왜 MSA를 선택했나?](https://tech.kakao.com/posts/457) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/457.md) -->
 
 ### 카카오엔터프라이즈 기술블로그 Tech&(테크앤)
 
+- [\[TW\] 기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/65.md) -->
 - [\[TW\] 기술문서 쉽게 쓰기 지침](https://tech.kakaoenterprise.com/105) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/105.md) -->
 - [\[TW\] Release Note 톺아보기](https://tech.kakaoenterprise.com/113) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/113.md) -->
 - [\[TW\] Troubleshooting 가이드 톺아보기](https://tech.kakaoenterprise.com/129) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/129.md) -->
@@ -72,6 +80,31 @@ head:
 - [그것이 알고 싶다 - 왜 개발자는 글을 못 쓸까?](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/why-are-engineers-so-bad-at-writing.md) -->
 
 ---
+
+## 뱅크셀러드
+
+- [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/url-status-checker.md) -->
+
+---
+
+## NAVER D2
+
+- [글로벌 네트워크 에뮬레이터 prism_pacman 소개](https://d2.naver.com/helloworld/7847943) <!-- TODO: 작성 (/explore/articles/d2.naver.com/7847943.md) -->
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [서머타임과 배치작업](https://meetup.nhncloud.com/posts/232)
+
+---
+
+## 조인씨 JOINC EDU
+
+- [PAYCO 쇼핑 마이크로서비스 아키텍처 전환기](https://joinc.co.kr/w/man/12/msaPayco)
+
+---
+
 
 ## <FontIcon icon="fa-brands fa-linkedin"/>Linkedin
 
@@ -113,6 +146,7 @@ head:
 - [`dtevangelist` / Event Driven Architecture란?](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
 - [`design-microservices-architecture-with-patterns` / Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 - [`jam2in` / 캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안](https://medium.com/jam2in/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-a4e01132ac03)
+- [`styleshare` / 상품상세페이지 개선해 성과내기](https://medium.com/styleshare/%EC%83%81%ED%92%88%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EC%84%A0%ED%95%B4-%EC%84%B1%EA%B3%BC%EB%82%B4%EA%B8%B0-ae9d5cf651c1)
 
 ---
 
@@ -279,6 +313,30 @@ head:
 ## LukeW Ideation + Design | Digital Product Strategy & Design
 
 - [Different Gets Ignored](https://www.lukew.com/ff/entry.asp?2066)
+
+---
+
+## Thoughts for CTOs, Tech Leads and Software Architects
+
+- [Building modern Web Applications: 5 Essential Frontend Architecture Principles](https://www.workingsoftware.dev/5-essential-frontend-architecture-principles)
+
+---
+
+## Jim Nielsen’s Blog
+
+- [Examples of Great URL Design](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
+
+---
+
+## Jayne.who();
+
+- [동시성 문제 - 일반론 (Part 1)](http://jaynewho.com/post/42)
+
+---
+
+## 세균무기, 지구별에 기록을 남기다!
+
+- [\[화면(상세) 기획\] 이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/m/384)
 
 ---
 

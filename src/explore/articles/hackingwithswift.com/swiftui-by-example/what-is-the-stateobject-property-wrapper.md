@@ -86,7 +86,15 @@ You should use `@StateObject` only once per object, which should be in whichever
 
 ::: details Similar solutions…
 
-How to use @StateObject to create and monitor external objects
+```component VPCard
+{
+  "title": "How to use @StateObject to create and monitor external objects | SwiftUI by Example",
+  "desc": "How to use @StateObject to create and monitor external objects",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-stateobject-to-create-and-monitor-external-objects.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 ```component VPCard
 {

@@ -164,6 +164,8 @@ tag:
 ## WIT블로그
 
 - [CSS 애니메이션의 성능 아는 만큼 좋아져요!](https://wit.nts-corp.com/2020/06/05/6134)
+- [(번역) 랜더링 성능을 향상 시키는 새로운 CSS 속성 `content-visibility`](https://wit.nts-corp.com/2020/09/11/6223)
+- [Variable fonts (가변 폰트)](https://wit.nts-corp.com/2019/10/07/5686)
 
 ---
 
@@ -582,7 +584,14 @@ tag:
 
 ## Josh W Comeau
 
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
+
+---
+
+## Vallista
+
+- [웹 개발자의 지옥, 이메일 폼 개발하기](https://vallista.kr/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
 
 ---
 

@@ -109,5 +109,10 @@
     "desc": "🕑 Modern Timeline Component for React",
     "officialSite": "https://react-chrono.prabhumurthy.com",
     "topics": ["horizontal-timeline", "javascript-timeline", "react", "react-timeline", "reactjs", "slideshow", "timeline", "timeline-component", "typescript", "vertical-timeline", "vertical-timeline-react"]
+  }, {
+    "repo": "react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for form state management and validation (Web + React Native)",
+    "officialSite": "https://react-hook-form.com",
+    "topics": ["dx", "form-builder", "forms", "react-hooks", "react-native", "reactjs", "typescript", "ux", "validation"]
   }
 ]

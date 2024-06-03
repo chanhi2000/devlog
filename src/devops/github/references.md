@@ -54,9 +54,10 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [`m0nica` - How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
-- [`jacktt` - Creating Dynamic `README.md` File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)
-- [How to showcase your GitHub repositories on LinkedIn 🐱](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non)
+- [`github` / 10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [`m0nica` / How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
+- [`jacktt` / Creating Dynamic `README.md` File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)
+- [`monicafidalgo` / How to showcase your GitHub repositories on LinkedIn 🐱](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non)
 
 ---
 
@@ -178,6 +179,12 @@ tag:
 ## DAILY LOG
 
 - [\[Copilot\] 깃허브 코파일럿은 어떻게 작동하는가?](https://jiyeonseo.github.io/2024/05/31/how-github-copilot-works/)
+
+---
+
+## Fernando 기술 블로그
+
+- [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting)
 
 ---
 

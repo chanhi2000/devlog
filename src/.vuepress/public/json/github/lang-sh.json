@@ -409,5 +409,10 @@
     "desc": "Exploit PoC for CVE-2024-32002",
     "officialSite": "https://amalmurali.me/posts/git-rce",
     "topics": ["cve-2024-32002", "git", "proof-of-concept", "rce"]
+  }, {
+    "repo": "StasPlov/docker-unlock",
+    "desc": "Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: DigitalOcean (digitalocean.com)
 description: Article(s) > DigitalOcean (digitalocean.com)
-icon: fas fa-dharmachakra
+icon: https://digitalocean.com/_next/static/media/favicon.594d6067.ico
 category:
   - Article(s)
 tag:
@@ -38,7 +38,6 @@ head:
 ---
 
 ## 2018
-
 
 ```component VPCard
 {

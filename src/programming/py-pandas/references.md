@@ -37,6 +37,12 @@ head:
 
 ---
 
+## Python⇒Speed
+
+- [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability/)
+
+---
+
 ## InfluxDB Time Series Data Platform | InfluxData
 
 - [Pandas Profiling: A Detailed Explanation](https://www.influxdata.com/blog/pandas-profiling-tutorial/)

@@ -5429,5 +5429,15 @@
     "desc": "Rust-like fielded Enum in Python",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "onuratakan/gpt-computer-assistant",
+    "desc": "gpt-4o for windows, macos and ubuntu",
+    "officialSite": "",
+    "topics": ["assistant", "chatgpt", "chatgpt-app", "gpt", "gpt-4o", "openai", "ubuntu", "windows"]
+  }, {
+    "repo": "isaac-sim/IsaacLab",
+    "desc": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+    "officialSite": "https://isaac-sim.github.io/IsaacLab",
+    "topics": ["isaac-sim", "omniverse-kit-extension", "robot-learning", "robotics"]
   }
 ]

@@ -32,6 +32,12 @@ tag:
 }
 ```
 
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+
+### <FontIcon icon="fa-brands fa-python"/>Python
+
+- [Python Linting in Visual Studio Code – Hinting and Linting Video Series](https://devblogs.microsoft.com/python/python-linting-video/)
+
 ---
 
 ## <FontIcon icon="iconfont icon-github"/>Github

@@ -35,6 +35,12 @@ head:
 
 ---
 
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [라이트하우스 6.0에서 바뀐 성능 지표변화](https://meetup.nhncloud.com/posts/242) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/242.md) -->
+
+---
+
 ## LY Corporation Tech Blog
 
 - [HeadVer - 기민한 프로덕트 팀을 위한 새로운 버저닝 시스템](https://techblog.lycorp.co.jp/ko/headver-new-versioning-system-for-product-teams) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/headver-new-versioning-system-for-product-teams.md) -->
@@ -62,6 +68,12 @@ head:
 ## xtring.dev
 
 - [[NPM] `npm install`시 `--save-exact` 옵션을 사용해주세요](https://xtring-dev.tistory.com/entry/NPM-npm-install%EC%8B%9C-save-exact-%EC%98%B5%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
+
+---
+
+## Developer Updates - Top Updates for Software Developers
+
+- [11 Useful NPM Packages Every Web Developer Should Know](https://www.developerupdates.com/blog/11-useful-npm-packages-every-web-developer-should-know)
 
 ---
 

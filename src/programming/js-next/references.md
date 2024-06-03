@@ -29,6 +29,10 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-nextjs"/>Next.js
+
+- [How to Think About Security in Next.js](https://nextjs.org/blog/security-nextjs-server-components-actions)
+
 ## Vercel
 
 - [Common mistakes with the Next.js App Router and how to fix them](https://vercel.com/blog/common-mistakes-with-the-next-js-app-router-and-how-to-fix-them)
@@ -110,6 +114,12 @@ head:
 ## Viget | Strategy, Design, Development
 
 - [Thoughts on Remix](https://www.viget.com/articles/thoughts-on-remix/)
+
+---
+
+## .cult by Honeypot
+
+- [Why Choose Next.js - Top 5 Performance Benefits](https://cult.honeypot.io/reads/top-nextjs-performance-benefits/)
 
 ---
 

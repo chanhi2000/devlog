@@ -64,6 +64,12 @@ tag:
 
 ---
 
+## Smashing Magazine — For Web Designers And Developers
+
+- [How Marketing Changed OOP In JavaScript](https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/marketing-changed-oop-javascript.md) -->
+
+---
+
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`yanhaijing` / Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg?ref=dailydev)
@@ -121,6 +127,10 @@ tag:
 - [`naver-place-dev` / 자바스크립트와 V8 엔진의 메모리 관리 프로세스 \[ko\]](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 - [`javascript-scene` / 10 Interview Questions Every JavaScript Developer Should Know in 2024](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb)
 - [`violetboralee` / 모던 자바스크립트란 무엇인가(updated)](https://violetboralee.medium.com/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f7e115f03533)
+
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@wooder2050` / JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
 
 ---
 
@@ -344,12 +354,6 @@ tag:
 
 ---
 
-## Read the Tea Leaves
-
-- [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
-
----
-
 ## 없으면 없는대로
 
 - [JavaScript로 메모리에 직접 접근하는 방법에 대하여](https://ingeec.tistory.com/129)
@@ -367,5 +371,15 @@ tag:
 - [\[JS\] 한글도 지원하는 퍼지 문자열 검색](https://taegon.kim/archives/9919)
 
 ---
+
+## Hire top developers for freelance or full-time roles - Flexiple
+
+- [Programming a Clock using Javascript](https://flexiple.com/javascript/javascript-clock?)
+
+---
+
+## 요우의 내맘대로 블로그
+
+- [조금 더 안전한 랜덤 숫자(의사 난수) 생성할려고 했던 얘기](https://luckyyowu.tistory.com/m/406)
 
 <TagLinks />

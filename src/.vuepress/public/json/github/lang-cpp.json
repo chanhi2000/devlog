@@ -1385,7 +1385,7 @@
     "topics": ["arduino", "em4100", "fdx-b", "pet", "rfid"]
   }, {
     "repo": "duckdb/duckdb",
-    "desc": "DuckDB is an in-process SQL OLAP Database Management System",
+    "desc": "DuckDB is an analytical in-process SQL database management system",
     "officialSite": "http://www.duckdb.org",
     "topics": ["analytics", "database", "embedded-database", "olap", "sql"]
   }, {

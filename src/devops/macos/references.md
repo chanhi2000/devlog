@@ -254,4 +254,10 @@ head:
 
 ---
 
+## 냉동코더의 기술블로그
+
+- [macOS에서 Ollama 사용하기](https://cliearl.github.io/posts/etc/ollama-intro/)
+
+---
+
 <TagLinks />

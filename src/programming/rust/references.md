@@ -299,4 +299,10 @@ tag:
 
 ---
 
+## Laurence Tratt
+
+- [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+
+---
+
 <TagLinks />

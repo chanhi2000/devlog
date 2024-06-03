@@ -88,7 +88,8 @@ tag:
 - [8.08. 회원가입 화면 만들기](https://ysedeveloper.tistory.com/entry/808-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [8.09. 회원가입 기능 만들기](https://ysedeveloper.tistory.com/entry/809-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [8.10. 로그인 화면 만들기](https://ysedeveloper.tistory.com/entry/810-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-
+- [8.11. 로그인 기능 만들기](https://ysedeveloper.tistory.com/entry/811-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [8.12. 글쓰기 기능 만들기](https://ysedeveloper.tistory.com/entry/812-%EA%B8%80%EC%93%B0%EA%B8%B0-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ---
 

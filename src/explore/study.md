@@ -546,6 +546,36 @@ https://www.joinc.co.kr/w/Site
   logo="https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/developers/images/favicon-new.png"
   preview="https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/developers/images/opengraph/white.png"/>
 
+<SiteInfo
+  name="Grid Garden - A game for learning CSS grid"
+  desc="A game for learning CSS grid layout"
+  url="https://cssgridgarden.com/#en"
+  logo="https://cssgridgarden.com/favicon.ico"
+  preview="https://cssgridgarden.com/images/screenshot.png"/>
+
+<SiteInfo
+  name="How React Works"
+  desc="A deep dive into React internals"
+  url="https://incepter.github.io/how-react-works/"
+  logo="https://incepter.github.io/how-react-works/img/favicon.ico"
+  preview="https://incepter.github.io/how-react-works/img/how-react-works.png"/>
+
+<SiteInfo
+  name="JavaScript Complete Guide - A to Z JavaScript Concepts - GeeksforGeeks"
+  desc="A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
+  url="https://www.geeksforgeeks.org/javascript-complete-guide/"
+  logo="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png"
+  preview="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png"/>
+
+<SiteInfo
+  name="Right-to-left Styling"
+  desc="An extensive guide on how to style for RTL in CSS"
+  url="https://rtlstyling.com/posts/rtl-styling"
+  logo="https://rtlstyling.com/img/favicon.png"
+  preview="https://rtlstyling.com/img/thumb.jpg"/>
+
+https://www.ebssw.kr/info/intrcn/infoTchmtrHeaderView.do?tabType=006&pageIndex=1
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet
@@ -609,12 +639,22 @@ https://www.joinc.co.kr/w/Site
 }
 ```
 
-https://rogerdudler.github.io/git-guide/index.html
+```component VPCard
+{
+  "title": "Conventional Commits",
+  "desc": "A specification for adding human and machine readable meaning to commit messages",
+  "link": "https://www.conventionalcommits.org/en/v1.0.0/",
+  "logo": "https://www.conventionalcommits.org/favicon.ico",
+  "background": "rgba(249,102,113,0.2)"
+}
+```
 
+https://rogerdudler.github.io/git-guide/index.html
 https://rogerdudler.github.io/git-guide/index.ko.html
+
 
 :::
 
 ---
 
-<TagLinks />
+<TagLinks />f

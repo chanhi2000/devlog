@@ -29,6 +29,10 @@ tag:
 - [Building a scalable gateway with .NET for Microsoft AI](https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai)
 - [Refactor your code with C# collection expressions](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/)
 
+### Tech Community
+
+- [Lesson Learned #449: Unleashing Concurrent Threads for Robust Database Health Checks in C#](https://techcommunity.microsoft.com/t5/azure-database-support-blog/lesson-learned-449-unleashing-concurrent-threads-for-robust/ba-p/3966484)
+
 ---
 
 ## Uno Platform
@@ -337,6 +341,18 @@ tag:
 ## Better Stack: Spot, Resolve, and Prevent Downtime.
 
 - [Logging in .NET: A Comparison of the Top 4 Libraries](https://betterstack.com/community/guides/logging/best-dotnet-logging-libraries)
+
+---
+
+## Dusted Codes
+
+- [.NET Blazor](https://dusted.codes/dotnet-blazor)
+
+---
+
+## ServiceStack
+
+- [.NET 8's Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
 
 ---
 

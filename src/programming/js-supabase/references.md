@@ -40,4 +40,10 @@ head:
 
 ---
 
+## 작심삼일 개발이야기
+
+- [Firebase 이메일 회원가입 로직 구현: 이메일 인증과 사용자 경험 최적화](https://choisuhyeok.tistory.com/144)
+
+---
+
 <TagLinks />

@@ -64,6 +64,8 @@ head:
 - [안드로이드 BSP빌드시 Jack-server 에러(AW A40i)](https://blog.naver.com/chandong83/223450764691)
 - [TouchGFX Failed to load native freetype library! 에러 해결 방법](https://blog.naver.com/chandong83/223451548021)
 - [인바디 체중계- 다이얼 H30NWi - 앱 활용기](https://blog.naver.com/chandong83/223456287268)
+- [NPU 2Tops개 내장된 올위너 T527 개발 보드Forlinx OKT527N-C](https://blog.naver.com/chandong83/223467499457)
+
 ---
 
 ## The Copetti site
@@ -203,6 +205,12 @@ head:
 ## Trammell Hudson's Projects
 
 - [SPI flash](https://trmm.net/SPI_flash/)
+
+---
+
+## Uros Popovic
+
+- [Making USB devices - end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
 
 ---
 

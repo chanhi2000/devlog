@@ -607,6 +607,27 @@ https://gracefullight.dev/archive/
 }
 ```
 
+<SiteInfo
+  name="Library | Kodeco > Android & Kotlin"
+  desc="Search the best collection of iOS and Android tutorials on the web"
+  url="https://www.kodeco.com/library?domain_ids%5B%5D=2&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://www.kodeco.com/apple-touch-icon.png"
+  preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
+
+<SiteInfo
+  name="Library | Kodeco > iOS & Swift"
+  desc="Search the best collection of iOS and Android tutorials on the web"
+  url="https://www.kodeco.com/library?domain_ids%5B%5D=1&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://www.kodeco.com/apple-touch-icon.png"
+  preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
+
+<SiteInfo
+  name="Library | Kodeco > Flutter & Dart"
+  desc="Search the best collection of iOS and Android tutorials on the web"
+  url="https://www.kodeco.com/library?domain_ids%5B%5D=9&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://www.kodeco.com/apple-touch-icon.png"
+  preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
+
 ```component VPCard
 {
   "title": "Frontend Masters Boost – Helping Your Journey to Senior Developer",
@@ -700,6 +721,13 @@ https://gracefullight.dev/archive/
   url="https://medium.com/coursera-engineering"
   logo="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
   preview="https://cdn-images-1.medium.com/v2/resize:fit:2400/1*SUNVx-fZ3AwO13vvCEPqsQ.jpeg"/>
+
+<SiteInfo
+  name="Developer Updates - Top Updates for Software Developers"
+  desc="Let us keep you updated on everything that is happening in the software development world - deliver the most valuable and up-to-date insights"
+  url="https://www.developerupdates.com/"
+  logo="https://www.developerupdates.com/favicon.ico"
+  preview="https://www.developerupdates.com/img/logo_image.png"/>
 
 ```component VPCard
 {
@@ -993,6 +1021,13 @@ https://gracefullight.dev/archive/
   "background": "rgba(11,110,153,0.2)"
 }
 ```
+
+<SiteInfo
+  name="조인씨 JOINC EDU"
+  desc="To be smarter and fancier, hang out with join communication 조인씨"
+  url="https://www.joinc.co.kr/w/FrontPage"
+  logo="https://www.joinc.co.kr/theme/joinc/img/logo_joinc.png"
+  preview="https://joinc-edu.s3.ap-northeast-2.amazonaws.com/joinc-posting/cover_joinc.jpg"/>
 
 <SiteInfo
   name="그린랩스 기술 블로그"

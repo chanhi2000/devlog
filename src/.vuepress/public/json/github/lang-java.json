@@ -659,5 +659,10 @@
     "desc": "Open source business application platform for fast development",
     "officialSite": "https://openkoda.com/",
     "topics": ["business-application-platform", "customizable", "development-tools", "java", "multitenancy", "open-source", "openkoda", "spring-boot"]
+  }, {
+    "repo": "hkupty/penna",
+    "desc": "Opinionated SLF4J backend that logs natively to json",
+    "officialSite": "https://hkupty.github.io/penna/",
+    "topics": ["java", "java-library", "java-logging", "json-logging", "jvm", "jvm-logging", "slf4j", "slf4j-logger", "slf4j-loggers", "structured-logging"]
   }
 ]

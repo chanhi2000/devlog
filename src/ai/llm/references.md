@@ -220,6 +220,7 @@ head:
 
 - [vLLM 사용법 - LLM을 쉽고 빠르게 추론(inference) 및 API 서빙(serving)하기](https://lsjsj92.tistory.com/668)
 - [개인화를 고려한 LLM 모델 기반 추천 시스템 - PALR 추천 시스템 논문 리뷰](https://lsjsj92.tistory.com/669)
+- [LLM과 추천 시스템을 결합해 설명가능성(Explainability) 제공하기(Feat. LangChain, GPT-4o)](https://lsjsj92.tistory.com/670)
 
 ---
 
@@ -227,6 +228,7 @@ head:
 
 - [LlamaIndex와 LLM 기반 유해, 무해 이미지 인식 기술 개발 방법](https://daddynkidsmakers.blogspot.com/2024/05/llamaindex-llm.html)
 - [LLM 기반 그래프 RAG 기술 구현하기](https://daddynkidsmakers.blogspot.com/2024/05/rag.html)
+- [대형언어모델 검색증강생성의 핵심기술, 벡터 데이터베이스 Chroma 분석하기](https://daddynkidsmakers.blogspot.com/2024/06/llm-rag-chroma.html)
 
 ---
 
@@ -245,6 +247,18 @@ head:
 ## Simon Willison's Weblog
 
 - [Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
+
+---
+
+## Allen Pike
+
+- [LLMs Aren’t Just “Trained On the Internet” Anymore](https://allenpike.com/2024/llms-trained-on-internet)
+
+---
+
+## 냉동코더의 기술블로그
+
+- [macOS에서 Ollama 사용하기](https://cliearl.github.io/posts/etc/ollama-intro/)
 
 ---
 

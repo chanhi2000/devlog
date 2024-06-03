@@ -114,6 +114,7 @@ tag:
 - [`@dus532` / 더 정확한 데이터를 향해, 소프트콘 뷰어십 제작기(9)](https://velog.io/@dus532/viewership9)
 - [`@stella6767` / 2년간 스타트업 퇴사 회고](https://velog.io/@stella6767/2%EB%85%84%EA%B0%84-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%87%B4%EC%82%AC-%ED%9A%8C%EA%B3%A0)
 - [`@hyemin916` / 피드백 맷집 기르기](https://velog.io/@hyemin916/%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%A7%B7%EC%A7%91-%EA%B8%B0%EB%A5%B4%EA%B8%B0)
+- [`@composite` / 개발자의 마음가짐 (feat. 나)](https://velog.io/@composite/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%88%EC%9D%8C%EA%B0%80%EC%A7%90-feat.-%EB%82%98)
 
 ---
 
@@ -129,6 +130,8 @@ tag:
 - [`giljae` / 스포티파이 스쿼드 모델](https://giljae.medium.com/%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-%EC%8A%A4%EC%BF%BC%EB%93%9C-%EB%AA%A8%EB%8D%B8-9d26ba81cefe)
 - [`mjspring` / 능동적으로 회의 비효율 제거하기](https://mjspring.medium.com/%EB%8A%A5%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%9A%8C%EC%9D%98-%EB%B9%84%ED%9A%A8%EC%9C%A8-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-d0d05cfbe589)
 - [`styleshare` / 우리는 코드 리뷰를 잘하고 있을까요?](https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d)
+- [`오일나우-팀-블로그` / 소규모 스타트업에서 OKR 도입은 어떤 결과를 가져다 주었을까?](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-okr-%EB%8F%84%EC%9E%85%EC%9D%80-%EC%96%B4%EB%96%A4-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%A3%BC%EC%97%88%EC%9D%84%EA%B9%8C-f6bdc26a1352)
+- [`오일나우-팀-블로그` / 스타트업에서 명함으로 서비스 홍보하는 법](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EB%AA%A8%EB%93%A0-%ED%8C%80%EC%9B%90%EC%9D%84-%ED%99%8D%EB%B3%B4%ED%8C%80%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-%EB%A7%88%EB%B2%95%EC%9D%98-%EB%AA%85%ED%95%A8-%EC%A0%9C%EC%9E%91%EA%B8%B0-be1f6a45c7e)
 
 ---
 
@@ -405,6 +408,7 @@ tag:
 - [언제 이직할 회사를 고르면 좋을까?](https://jojoldu.tistory.com/778)
 - [의미에 매몰되지 않기](https://jojoldu.tistory.com/780)
 - [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/781)
+- [너무 똑똑한 사람이 되지 않기](https://jojoldu.tistory.com/785)
 
 ---
 
@@ -760,6 +764,7 @@ tag:
 
 - [리더십으로의 정원사](http://www.chidoo.me/index.php/2024/05/06/gardener-as-a-leadership/)
 - [리더십의 커뮤니케이션 – 소통](http://www.chidoo.me/index.php/2024/05/19/why-radical-communication-in-leadership/)
+- [리더십의 커뮤니케이션 – 공감](http://www.chidoo.me/index.php/2024/06/02/empathy-in-leadership/)
 
 ---
 
@@ -838,7 +843,7 @@ tag:
 ---
 
 ## shiren the creator
-
+- [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8)
 - [페이스북 개발자의 성과 만들기](https://blog.shiren.dev/2022-03-07/)
 
 ---
@@ -927,6 +932,36 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 ## kciter.so
 
 - [개발자의 학습과 성장](https://kciter.so/posts/developers-learning-and-growth)
+
+---
+
+## Vadim Kravcenko - Fractional CTO. Part-time Technical Co-Founder. Helping Startups Scale.
+
+- [Habits of great software engineers](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers)
+
+---
+
+## -[|]- Box and Whisker
+
+- [개발자를 위한 정보 검색 팁](https://boxnwhis.kr/2020/09/27/ir-for-developers.html)
+
+---
+
+## Jeina, De'vLog
+
+- [Google Coding Interview｜구글 신입 엔지니어 인터뷰 준비 후기](https://jeinalog.tistory.com/m/30)
+
+---
+
+## 기획자 데이먼
+
+- [당신은 대체 불가능한 기획자인가요?](https://yslab.kr/135)
+
+---
+
+## Buffer: All-you-need social media toolkit for small businesses
+
+- [This Is Why Remote Workers Want To Keep Working Remotely](https://buffer.com/resources/remote-workers-study/)
 
 ---
 

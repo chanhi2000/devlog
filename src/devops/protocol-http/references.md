@@ -69,4 +69,16 @@ tag:
 
 ---
 
+## 사바라다는 차곡차곡
+
+- [\[Network\] HTTP Keep-Alive VS TCP Keep-Alive 제대로 알기](https://sabarada.tistory.com/262)
+
+---
+
+## Evans Library
+
+- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
+
+---
+
 <TagLinks />
