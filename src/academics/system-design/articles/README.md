@@ -158,9 +158,49 @@ head:
 
 ```component VPCard
 {
+  "title": "쿠버네티스(Kubernetes) 네트워크 정리 | 요즘IT",
+  "desc": "쿠버네티스(Kubernetes) 네트워크 정리",
+  "link": "/explore/articles/yozm.wishket.com/2251.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "스프링 부트 서버 모니터링하는 법 | 요즘IT",
+  "desc": "스프링 부트 서버 모니터링하는 법",
+  "link": "/explore/articles/yozm.wishket.com/2280.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "마이크로서비스를 위한 쿠팡의 QA 테스트 | 요즘IT",
+  "desc": "마이크로서비스를 위한 쿠팡의 QA 테스트",
+  "link": "/explore/articles/yozm.wishket.com/2282.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "소프트웨어 ‘설계’의 정의는 변해야 한다 | 요즘IT",
+  "desc": "소프트웨어 ‘설계’의 정의는 변해야 한다",
+  "link": "/explore/articles/yozm.wishket.com/2307.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "쿠팡이츠는 왜 인하우스 지도 서비스를 만들었을까? | 요즘IT",
   "desc": "쿠팡이츠는 왜 인하우스 지도 서비스를 만들었을까?",
-  "link": "https://yozm.wishket.com/magazine/detail/2320/",
+  "link": "/explore/articles/yozm.wishket.com/2320.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -170,7 +210,7 @@ head:
 {
   "title": "프론트엔드 개발자가 API를 설계하는 이유 | 요즘IT",
   "desc": "프론트엔드 개발자가 API를 설계하는 이유",
-  "link": "https://yozm.wishket.com/magazine/detail/2325/",
+  "link": "/explore/articles/yozm.wishket.com/2325.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -180,7 +220,7 @@ head:
 {
   "title": "SSR 시작하기 전 알아야 할 것들 (feat. CSR) | 요즘IT",
   "desc": "SSR 시작하기 전 알아야 할 것들 (feat. CSR)",
-  "link": "https://yozm.wishket.com/magazine/detail/2330/",
+  "link": "/explore/articles/yozm.wishket.com/2330.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -190,7 +230,7 @@ head:
 {
   "title": "프론트엔드 개발자가 알아야 할 ‘캐싱’ 개념 정리 | 요즘IT",
   "desc": "프론트엔드 개발자가 알아야 할 ‘캐싱’ 개념 정리",
-  "link": "https://yozm.wishket.com/magazine/detail/2341/",
+  "link": "/explore/articles/yozm.wishket.com/2341.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -200,7 +240,7 @@ head:
 {
   "title": "개발자! 코드 경직성을 깨버려라 | 요즘IT",
   "desc": "개발자! 코드 경직성을 깨버려라",
-  "link": "https://yozm.wishket.com/magazine/detail/2343/",
+  "link": "/explore/articles/yozm.wishket.com/2343.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

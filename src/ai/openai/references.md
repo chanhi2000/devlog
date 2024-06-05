@@ -34,6 +34,7 @@ head:
 
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 - [Improvements to data analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
+- [Extracting Concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
 
 ### Documentation
 
@@ -362,10 +363,10 @@ head:
 
 ## Miles UX/UI Insight
 
-- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (1)](https://vurias0203.tistory.com/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-1)
-- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (2)](https://vurias0203.tistory.com/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-2)
-- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (3)](https://vurias0203.tistory.com/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-3)
-- [GPT4o로 외국어 버전 앱 만들기 1탄 - 광고에 대한 이해](https://vurias0203.tistory.com/entry/GPT4o%EB%A1%9C-%EC%99%B8%EA%B5%AD%EC%96%B4-%EB%B2%84%EC%A0%84-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%83%84-%EA%B4%91%EA%B3%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
+- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (1)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-1)
+- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (2)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-2)
+- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (3)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-3)
+- [GPT4o로 외국어 버전 앱 만들기 1탄 - 광고에 대한 이해](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EC%99%B8%EA%B5%AD%EC%96%B4-%EB%B2%84%EC%A0%84-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%83%84-%EA%B4%91%EA%B3%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
 
 ---
 

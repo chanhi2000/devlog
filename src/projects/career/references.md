@@ -302,21 +302,21 @@ tag:
 
 ## 컴공생의 발자취
 
-- [[스파르타코딩클럽] 데일리 미션 - Lv.2 웹개발자 JD 분석](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EB%AF%B8%EC%85%98-Lv2-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90-JD-%EB%B6%84%EC%84%9D)
-- [[스파르타코딩클럽] 데일리미션 - Lv.3 비슷한 직무 JD 분석](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv3-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A7%81%EB%AC%B4-JD-%EB%B6%84%EC%84%9D)
-- [[스파르타코딩클럽] 데일리미션 - Lv.4 웹개발 용어 정리 2](https://moonnight0.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv4-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-2)
-- [[내일배움캠프 1일차 TIL] 새로운 팀원 & 미니 프로젝트](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%9D%BC%EC%B0%A8-TIL-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%80%EC%9B%90-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-- [[내일배움캠프 2일차 TIL] 미니 프로젝트 개발 진척 상황](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-2%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A9)
-- [[내일배움캠프 3일차 TIL] 미니 프로젝트 개발 진척 상황2](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A92)
-- [[정보처리기사 실기] 개념요약 - 01. 요구사항 확인](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-01-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%99%95%EC%9D%B8)
-- [[정보처리기사 실기] 개념요약 - 03. 통합 구현](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-03-%ED%86%B5%ED%95%A9-%EA%B5%AC%ED%98%84)
-- [[정보처리기사 실기] 개념요약 - 02. 데이터 입출력 구현](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-02-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B5%AC%ED%98%84)
-- [[ 99클럽 코테 스터디 23일차 TIL ] Call by Value, Call by Reference 및 프로그래머스(행렬 테두리 회전하기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-Call-by-Value-Call-by-Reference-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
-- [[내일배움캠프 5일차 TIL] 미니 프로젝트 발표](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C)
-- [[정보처리기사 실기] 개념요약 - 04. 서버 프로그램 구현](https://moonnight0.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-04-%EC%84%9C%EB%B2%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B5%AC%ED%98%84)
-- [[내일배움캠프 1주차 WIL] 미니 프로젝트 및 코딩 테스트](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%A3%BC%EC%B0%A8-WIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B)
-- [[내일배움캠프 4주차 WIL] 프로그래밍 기초 팀 프로젝트 마무리 및 독서토론](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-4%EC%A3%BC%EC%B0%A8-WIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
-- [[내일배움캠프 19일차 TIL] 팀 프로젝트 발표 및 KPT 회고](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-19%EC%9D%BC%EC%B0%A8-TIL-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C-%EB%B0%8F-KPT-%ED%9A%8C%EA%B3%A0)
+- [[스파르타코딩클럽] 데일리 미션 - Lv.2 웹개발자 JD 분석](https://moonnight0.tistory.com/m/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EB%AF%B8%EC%85%98-Lv2-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90-JD-%EB%B6%84%EC%84%9D)
+- [[스파르타코딩클럽] 데일리미션 - Lv.3 비슷한 직무 JD 분석](https://moonnight0.tistory.com/m/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv3-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A7%81%EB%AC%B4-JD-%EB%B6%84%EC%84%9D)
+- [[스파르타코딩클럽] 데일리미션 - Lv.4 웹개발 용어 정리 2](https://moonnight0.tistory.com/m/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv4-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-2)
+- [[내일배움캠프 1일차 TIL] 새로운 팀원 & 미니 프로젝트](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%9D%BC%EC%B0%A8-TIL-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%80%EC%9B%90-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [[내일배움캠프 2일차 TIL] 미니 프로젝트 개발 진척 상황](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-2%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A9)
+- [[내일배움캠프 3일차 TIL] 미니 프로젝트 개발 진척 상황2](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A92)
+- [[정보처리기사 실기] 개념요약 - 01. 요구사항 확인](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-01-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%99%95%EC%9D%B8)
+- [[정보처리기사 실기] 개념요약 - 03. 통합 구현](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-03-%ED%86%B5%ED%95%A9-%EA%B5%AC%ED%98%84)
+- [[정보처리기사 실기] 개념요약 - 02. 데이터 입출력 구현](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-02-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B5%AC%ED%98%84)
+- [[ 99클럽 코테 스터디 23일차 TIL ] Call by Value, Call by Reference 및 프로그래머스(행렬 테두리 회전하기)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-Call-by-Value-Call-by-Reference-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
+- [[내일배움캠프 5일차 TIL] 미니 프로젝트 발표](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C)
+- [[정보처리기사 실기] 개념요약 - 04. 서버 프로그램 구현](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-04-%EC%84%9C%EB%B2%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B5%AC%ED%98%84)
+- [[내일배움캠프 1주차 WIL] 미니 프로젝트 및 코딩 테스트](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%A3%BC%EC%B0%A8-WIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B)
+- [[내일배움캠프 4주차 WIL] 프로그래밍 기초 팀 프로젝트 마무리 및 독서토론](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-4%EC%A3%BC%EC%B0%A8-WIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
+- [[내일배움캠프 19일차 TIL] 팀 프로젝트 발표 및 KPT 회고](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-19%EC%9D%BC%EC%B0%A8-TIL-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C-%EB%B0%8F-KPT-%ED%9A%8C%EA%B3%A0)
 
 ---
 
@@ -328,7 +328,7 @@ tag:
 
 ## 편리함을 추구하는 핸디의 지식 블로그
 
-- [[개발회고] 24년 1분기 회고](https://all-dev-kang.tistory.com/entry/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0-24%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
+- [[개발회고] 24년 1분기 회고](https://all-dev-kang.tistory.com/m/entry/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0-24%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
 
 ---
 
@@ -395,8 +395,8 @@ tag:
 
 ## 뭐라도 해야 한다면 기록을 하자
 
-- [[24년 3월] 하기 싫으면 관둬라](https://jakpentest.tistory.com/entry/24%EB%85%84-3%EC%9B%94-%ED%95%98%EA%B8%B0-%EC%8B%AB%EC%9C%BC%EB%A9%B4-%EA%B4%80%EB%91%AC%EB%9D%BC)
-- [[Review] 더 나은 프로그래머 되는 법](https://jakpentest.tistory.com/entry/Review-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8A%94-%EB%B2%95)
+- [[24년 3월] 하기 싫으면 관둬라](https://jakpentest.tistory.com/m/entry/24%EB%85%84-3%EC%9B%94-%ED%95%98%EA%B8%B0-%EC%8B%AB%EC%9C%BC%EB%A9%B4-%EA%B4%80%EB%91%AC%EB%9D%BC)
+- [[Review] 더 나은 프로그래머 되는 법](https://jakpentest.tistory.com/m/entry/Review-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8A%94-%EB%B2%95)
 
 ---
 
@@ -575,8 +575,8 @@ tag:
 
 ## Miles UX/UI Insight
 
-- [블록체인 프로젝트 기획 경험기 (1) - Experience planning a blockchain project](https://vurias0203.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EA%B2%BD%ED%97%98%EA%B8%B0-1-Experience-planning-a-blockchain-project)
-- [이직의 시기: 당신의 커리어 성장을 위한 신호를 알아차리는 법](https://vurias0203.tistory.com/entry/%EC%9D%B4%EC%A7%81%EC%9D%98-%EC%8B%9C%EA%B8%B0-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A0%ED%98%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EC%B0%A8%EB%A6%AC%EB%8A%94-%EB%B2%95)
+- [블록체인 프로젝트 기획 경험기 (1) - Experience planning a blockchain project](https://vurias0203.tistory.com/m/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EA%B2%BD%ED%97%98%EA%B8%B0-1-Experience-planning-a-blockchain-project)
+- [이직의 시기: 당신의 커리어 성장을 위한 신호를 알아차리는 법](https://vurias0203.tistory.com/m/entry/%EC%9D%B4%EC%A7%81%EC%9D%98-%EC%8B%9C%EA%B8%B0-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A0%ED%98%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EC%B0%A8%EB%A6%AC%EB%8A%94-%EB%B2%95)
 
 ---
 
@@ -604,6 +604,7 @@ tag:
 
 - [바야흐로 1인개발자시대에 따른 아키텍처 분석](https://blog.naver.com/jhc9639/223421615148)
 - [도전! K 스타트업 2024 혁신 창업리그 대회 요약 및 정리](https://blog.naver.com/jhc9639/223426056751)
+- [특허권, 기술지원에 특화된 IP나래 프로그램 정리 ](https://blog.naver.com/jhc9639/223468454493)
 - [예창패, 청창사, 초창패 합격한 썰 및 정부지원사업 팁](https://blog.naver.com/jhc9639/223426111370)
 
 ---
@@ -622,11 +623,11 @@ tag:
 
 ## Enthusiastically, Steady, Slowly
 
-- [쉽게 설명하는 29CM Architecture Manifesto](https://rutgo-letsgo.tistory.com/entry/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-29CM-Architecture-Manifesto)
-- [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 2장. 개략적인 규모 측정](https://rutgo-letsgo.tistory.com/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-2%EC%9E%A5-%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8-%EA%B7%9C%EB%AA%A8-%EC%B8%A1%EC%A0%95)
-- [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 1장. 사용자 수에 따른 규모 확장성](https://rutgo-letsgo.tistory.com/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-1)
-- [3장. 시스템 설계 면접 공략법](https://rutgo-letsgo.tistory.com/entry/3%EC%9E%A5-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EB%A9%B4%EC%A0%91-%EA%B3%B5%EB%9E%B5%EB%B2%95)
-- [[DDD 세레나데 6기] 1주차 강의](https://rutgo-letsgo.tistory.com/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-%EA%B0%95%EC%9D%98)
+- [쉽게 설명하는 29CM Architecture Manifesto](https://rutgo-letsgo.tistory.com/m/entry/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-29CM-Architecture-Manifesto)
+- [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 2장. 개략적인 규모 측정](https://rutgo-letsgo.tistory.com/m/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-2%EC%9E%A5-%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8-%EA%B7%9C%EB%AA%A8-%EC%B8%A1%EC%A0%95)
+- [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 1장. 사용자 수에 따른 규모 확장성](https://rutgo-letsgo.tistory.com/m/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-1)
+- [3장. 시스템 설계 면접 공략법](https://rutgo-letsgo.tistory.com/m/entry/3%EC%9E%A5-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EB%A9%B4%EC%A0%91-%EA%B3%B5%EB%9E%B5%EB%B2%95)
+- [[DDD 세레나데 6기] 1주차 강의](https://rutgo-letsgo.tistory.com/m/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-%EA%B0%95%EC%9D%98)
 
 ---
 
@@ -675,7 +676,7 @@ tag:
 
 ## min-0's  Growth Diary
 
-- [2024년 정기 1회 정보처리기사 필기 합격 + 실기 접수, 시험 후기(+개꿀팁 모음)](https://min-0.tistory.com/entry/2024%EB%85%84-%EC%A0%95%EA%B8%B0-1%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%ED%95%84%EA%B8%B0-%ED%95%A9%EA%B2%A9-%EC%8B%A4%EA%B8%B0-%EC%A0%91%EC%88%98-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0)
+- [2024년 정기 1회 정보처리기사 필기 합격 + 실기 접수, 시험 후기(+개꿀팁 모음)](https://min-0.tistory.com/m/entry/2024%EB%85%84-%EC%A0%95%EA%B8%B0-1%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%ED%95%84%EA%B8%B0-%ED%95%A9%EA%B2%A9-%EC%8B%A4%EA%B8%B0-%EC%A0%91%EC%88%98-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0)
 
 ---
 
@@ -687,13 +688,13 @@ tag:
 
 ## 두레박 캠퍼스
 
-- [[상담] 01.내가 하고싶은 걸 어떻게 찾을 수 있을까?](https://duriepark.tistory.com/entry/%EC%83%81%EB%8B%B4-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80-%EA%B1%B8-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
-- [[개인] 영어 회화 공부방법 찾는 분들에게 ](https://duriepark.tistory.com/entry/%EA%B0%9C%EC%9D%B8-%EC%98%81%EC%96%B4-%ED%9A%8C%ED%99%94-%EA%B3%B5%EB%B6%80%EB%B0%A9%EB%B2%95-%EC%B0%BE%EB%8A%94-%EB%B6%84%EB%93%A4%EC%97%90%EA%B2%8C)
-- [05. 내 주변에 사람을 남기고 싶은데 어떻게 해야할까요? ](https://duriepark.tistory.com/entry/05-%EB%82%B4-%EC%A3%BC%EB%B3%80%EC%97%90-%EC%82%AC%EB%9E%8C%EC%9D%84-%EB%82%A8%EA%B8%B0%EA%B3%A0-%EC%8B%B6%EC%9D%80%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94)
+- [[상담] 01.내가 하고싶은 걸 어떻게 찾을 수 있을까?](https://duriepark.tistory.com/m/entry/%EC%83%81%EB%8B%B4-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80-%EA%B1%B8-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
+- [[개인] 영어 회화 공부방법 찾는 분들에게 ](https://duriepark.tistory.com/m/entry/%EA%B0%9C%EC%9D%B8-%EC%98%81%EC%96%B4-%ED%9A%8C%ED%99%94-%EA%B3%B5%EB%B6%80%EB%B0%A9%EB%B2%95-%EC%B0%BE%EB%8A%94-%EB%B6%84%EB%93%A4%EC%97%90%EA%B2%8C)
+- [05. 내 주변에 사람을 남기고 싶은데 어떻게 해야할까요? ](https://duriepark.tistory.com/m/entry/05-%EB%82%B4-%EC%A3%BC%EB%B3%80%EC%97%90-%EC%82%AC%EB%9E%8C%EC%9D%84-%EB%82%A8%EA%B8%B0%EA%B3%A0-%EC%8B%B6%EC%9D%80%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94)
 - [[상담 내용 접수] 상담을 할만한 내용이 있으면 비밀 방명록으로 작성해 주세요!](https://duriepark.tistory.com/notice/714)
-- [04.다른 사람들 보면 쉽고 빠르게 성공하는 것 같은데 그런 방법이 없을까요? ](https://duriepark.tistory.com/entry/04%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EB%93%A4-%EB%B3%B4%EB%A9%B4-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-%EA%B7%B8%EB%9F%B0-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%97%86%EC%9D%84%EA%B9%8C%EC%9A%94)
-- [08.다른 사람이 내 맘을 몰라줍니다. 어떻게 해야 할까요?](https://duriepark.tistory.com/entry/08%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%82%B4-%EB%A7%98%EC%9D%84-%EB%AA%B0%EB%9D%BC%EC%A4%8D%EB%8B%88%EB%8B%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
-- [09.소통을 잘하고 싶습니다. 방법이 있을까요?](https://duriepark.tistory.com/entry/09%EC%86%8C%ED%86%B5%EC%9D%84-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
+- [04.다른 사람들 보면 쉽고 빠르게 성공하는 것 같은데 그런 방법이 없을까요? ](https://duriepark.tistory.com/m/entry/04%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EB%93%A4-%EB%B3%B4%EB%A9%B4-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-%EA%B7%B8%EB%9F%B0-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%97%86%EC%9D%84%EA%B9%8C%EC%9A%94)
+- [08.다른 사람이 내 맘을 몰라줍니다. 어떻게 해야 할까요?](https://duriepark.tistory.com/m/entry/08%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%82%B4-%EB%A7%98%EC%9D%84-%EB%AA%B0%EB%9D%BC%EC%A4%8D%EB%8B%88%EB%8B%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
+- [09.소통을 잘하고 싶습니다. 방법이 있을까요?](https://duriepark.tistory.com/m/entry/09%EC%86%8C%ED%86%B5%EC%9D%84-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
 - [10.성공하는 배우자를 선택하는 방법이 있을까요?](https://duriepark.tistory.com/722)
 - [11.나와 맞는 사람을 찾는 좋은 방법이 있을까요?](https://duriepark.tistory.com/726)
 - [16.혹시 '인생 멘토'나 조언을 구할 사람을 만나려면 어떤 방법이 있을까요?](https://duriepark.tistory.com/736)
@@ -783,6 +784,7 @@ tag:
 
 - [넥스트레이드의 매칭기술이 궁금..](https://smallake.kr/?p=34140)
 - [금융위와 금감원이 내놓은 ATS 운영방안](https://smallake.kr/?p=34104)
+- [회원시스템 접속 등에 관한 지침으로 본 DMA영업의 한계](https://smallake.kr/?p=34051)
 
 ---
 

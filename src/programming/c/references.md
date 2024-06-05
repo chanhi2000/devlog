@@ -27,6 +27,8 @@ tag:
 <PDF url="http://cslibrary.stanford.edu/105/LinkedListProblems.pdf" />
 <PDF url="http://cslibrary.stanford.edu/102/PointersAndMemory.pdf" />
 
+---
+
 ## <FontIcon icon="iconfont icon-github"/>Github
 
 - [<FontIcon icon="iconfont icon-c"/>`munificent/generate.c`](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
@@ -302,7 +304,7 @@ tag:
 
 ## Enthusiastically, Steady, Slowly
 
-- [박정국 CTO가 알려주는 ‘서버 성능 측정 방법’ (포브스 선정, 신입 개발자, API, 백엔드)](https://rutgo-letsgo.tistory.com/entry/%EB%B0%95%EC%A0%95%EA%B5%AD-CTO%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%E2%80%98%EC%84%9C%EB%B2%84-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-%EB%B0%A9%EB%B2%95%E2%80%99-%ED%8F%AC%EB%B8%8C%EC%8A%A4-%EC%84%A0%EC%A0%95-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-API-%EB%B0%B1%EC%97%94%EB%93%9C)
+- [박정국 CTO가 알려주는 ‘서버 성능 측정 방법’ (포브스 선정, 신입 개발자, API, 백엔드)](https://rutgo-letsgo.tistory.com/m/entry/%EB%B0%95%EC%A0%95%EA%B5%AD-CTO%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%E2%80%98%EC%84%9C%EB%B2%84-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-%EB%B0%A9%EB%B2%95%E2%80%99-%ED%8F%AC%EB%B8%8C%EC%8A%A4-%EC%84%A0%EC%A0%95-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-API-%EB%B0%B1%EC%97%94%EB%93%9C)
   
 ---
 
@@ -359,5 +361,9 @@ tag:
 - [서버에 걸리는 부하, 추측하지 말고 계측하자](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html)
 
 ---
+
+## 상구리의 기술 블로그
+
+- [MSVC – C & SQL Server 연동 with ODBC](https://www.skyer9.pe.kr/wordpress/?p=9066)
 
 <TagLinks />

@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - tech.kakao.com
   - popit.kr
   - d2.naver.com
@@ -33,6 +34,16 @@ head:
   "link": "https://freecodecamp.org/news/",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -88,6 +99,42 @@ head:
   "link": "/explore/articles/freecodecamp.org/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Learn How to Build a Decentralized File Storage System with Go",
+  "desc": "We just posted a 10-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a decentralized, fully distributed, content-addressable file storage system using Go. This course is perfect for those interested in system desig...",
+  "link": "/explore/articles/freecodecamp.org/learn-how-to-build-a-decentralized-file-storage-system-with-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Build a Real-Time Chat App With Go, Fiber and HTMX",
+  "desc": "In this tutorial, you'll build a simple real-time chat app using Go, Fiber and HTMX.  You will learn how to leverage the versatility of Fiber by making use of a WebSocket. You'll also learn how to create a reactive frontend without the use of JavaScript...",
+  "link": "/explore/articles/freecodecamp.org/real-time-chat-with-go-fiber-htmx.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "TDD, 실패하는 테스트부터 작성해 얻는 것 5가지 | 요즘IT",
+  "desc": "TDD, 실패하는 테스트부터 작성해 얻는 것 5가지",
+  "link": "/explore/articles/yozm.wishket.com/2308.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 

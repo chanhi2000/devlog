@@ -157,6 +157,7 @@ export const navbarEn = navbar([
           '/programming/py/README.md',
           '/programming/py-numpy/README.md',
           '/programming/py-pandas/README.md',
+          '/programming/py-torch/README.md',
           '/programming/py-django/README.md',
           '/programming/py-flask/README.md',
           '/programming/py-jupyter/README.md',
@@ -263,6 +264,10 @@ export const navbarEn = navbar([
         text: 'Gitlab',
         icon: 'fa-brands fa-gitlab',
         link: '/devops/gitlab/README.md',
+      }, {
+        text: 'Atlassian',
+        icon: 'fa-brands fa-atlassian',
+        link: '/devops/jira/README.md',
       }, {
         text: 'macOS',
         icon: 'iconfont icon-macos',

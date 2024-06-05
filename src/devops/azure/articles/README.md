@@ -71,6 +71,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Master the Azure DevOps Engineer Expert Certification (AZ-400)",
+  "desc": "The Azure DevOps Engineer Expert Certification (AZ-400) is for professionals who aim to demonstrate their expertise in integrating people, processes, and technologies to continuously deliver valuable products and services. It’s ideal for those who ar...",
+  "link": "/explore/articles/freecodecamp.org/master-the-azure-devops-engineer-expert-certification-az-400.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## John Reilly

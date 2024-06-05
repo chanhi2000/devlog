@@ -25,6 +25,7 @@ export const template: SidebarInfoTemplate = {
       "javascript-class-handbook", // 2024-05-20
       "js-interview-prep-handbook", // 2024-05-22
       "how-to-manipulate-strings-in-javascript", // 2024-05-24
+      "the-javascript-this-keyword-explained-with-examples", // 2024-06-05
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024-03-28
@@ -101,6 +102,8 @@ export const template: SidebarInfoTemplate = {
     "go", [
       "how-to-handle-concurrency-in-go", // 2024-05-10
       "learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go", // 2024-05-30
+      "learn-how-to-build-a-decentralized-file-storage-system-with-go", // 2024-06-05
+      "real-time-chat-with-go-fiber-htmx", // 2024-06-06
     ]],[
     "csharp", [
       "how-to-use-oop-in-c-sharp", // 2024-05-01
@@ -138,7 +141,9 @@ export const template: SidebarInfoTemplate = {
       "comparing-iac-tools-aws-cdk-cloudformation-terraform", // 2024-06-03
     ]],[
     "azure", [
-     "how-to-run-postgres-in-kubernetes",  // 2024-05-08
+      "how-to-run-postgres-in-kubernetes",  // 2024-05-08
+      "build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage",  // 2024-05-10
+      "master-the-azure-devops-engineer-expert-certification-az-400", // 2024-06-06
     ]],[
     "k8s", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -248,6 +253,10 @@ export const template: SidebarInfoTemplate = {
       "build-a-youtube-clone-with-flutter-firebase-and-riverpod", // 2024-06-04
       "python-coding-challenges-for-beginners", // 2024-06-04
       "linear-algebra-roadmap", // 2024-06-04
+      "the-javascript-this-keyword-explained-with-examples", // 2024-06-05
+      "learn-how-to-build-a-decentralized-file-storage-system-with-go", // 2024-06-05
+      "master-the-azure-devops-engineer-expert-certification-az-400", // 2024-06-06
+      "real-time-chat-with-go-fiber-htmx", // 2024-06-06
     ]],
   ]),
 }

@@ -27,5 +27,7 @@ tag:
 <MyYouTubeItems jsonName="yu-Axlefublr" /><!-- Axlefublr (she\\they) -->
 <MyYouTubeItems jsonName="yu-RibaLinux" /><!-- Riba Linux -->
 <MyYouTubeItems jsonName="yu-Maurice-Gardner" /><!-- Maurice Gardner -->
+<MyYouTubeItems jsonName="yu-schezokim" /><!-- Austin Kim -->
+<MyYouTubeItems jsonName="yu-OracleLearning" /><!-- Oracle Learning -->
 
 <TagLinks />

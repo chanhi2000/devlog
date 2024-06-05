@@ -26,4 +26,10 @@ head:
 
 ---
 
+## 기계인간 John Grib
+
+- [duckdb](https://johngrib.github.io/wiki/cmd/duckdb/)
+
+---
+
 <TagLinks />

@@ -38,6 +38,7 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-amazonwebservices" /><!-- Amazon Web Services -->
 <MyYouTubeItems jsonName="yu-CloudLearning" /><!-- Cloud Learning -->
 <MyYouTubeItems jsonName="yu-GoCloudArchitects" /><!-- Go Cloud Architects -->
 <MyYouTubeItems jsonName="yu-VercelHQ" /><!-- Vercel -->

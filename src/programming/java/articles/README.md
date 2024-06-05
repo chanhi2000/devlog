@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - kodeco.com
   - yozm.wishket.com
   - meetup.nhncloud.com
   - d2.naver.com
@@ -28,6 +29,13 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="Library | Kodeco > Android & Kotlin"
+  desc="Search the best collection of iOS and Android tutorials on the web"
+  url="https://kodeco.com/library?domain_ids%5B%5D=2&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://kodeco.com/apple-touch-icon.png"
+  preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
 
 ```component VPCard
 {
@@ -84,9 +92,37 @@ head:
 
 ---
 
+## Kodeco
+
+> kodeco.com
+
+### <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+
+```component VPCard
+{
+  "name": "Kotlin Sequences - Getting Started",
+  "desc": "In this Kotlin Sequences tutorial, you’ll learn what a sequence is, its operators and when you should consider using them instead of collections.",
+  "link": "/explore/articles/kodeco.com/31290959-kotlin-sequences-getting-started.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+---
+
 ## 요즘IT
 
 > yozm.wishket.com
+
+```component VPCard
+{
+  "title": "알아두면 유용한 정렬 알고리즘과 시간 복잡도 분석 | 요즘IT",
+  "desc": "알아두면 유용한 정렬 알고리즘과 시간 복잡도 분석",
+  "link": "/explore/articles/yozm.wishket.com/2266.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

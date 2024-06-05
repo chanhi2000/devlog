@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Google",
+    "name": "Google",
+    "profile": "https://yt3.googleusercontent.com/viNp17XpEF-AwWwOZSj_TvgobO1CGmUUgcTtQoAG40YaYctYMoUqaRup0rTxxxfQvWw3MvhXesw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/coD7yzkGWjaYzA1KInPbK4Qigqy1JyFHxPNukRuxsU8alQJHypSvmJ5hSBVHUHMrct247TqpU8M=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5P-BnlhRs7w", "title": "How MedLM is driving innovation | The Check Up ‘24 | Google Health" },
+    { "id": "vNea64ZhrTo", "title": "AI supporting diagnosis in India and improving genomics research | The Check Up ‘24 | Google Health" },
+    { "id": "If_TOPi27SE", "title": "Our latest GenAI research and partnerships  | The Check Up ‘24 | Google Health" },
+    { "id": "Nk86ANhv6Sg", "title": "Made by Google Podcast S5E3 | Conquering your zzz's with Fitbit" },
+    { "id": "QiUxprS2GPE", "title": "Behind the scenes at Google I/O '24" }
+  ],
+  "playlists": [
+
+  ]
+}

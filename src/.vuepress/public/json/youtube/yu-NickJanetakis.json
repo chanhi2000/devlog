@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "rSIe2_bvgf4", "title": "Connect to a Service Running on Your Docker Host from a Container" },
+    { "id": "TFTpq45ke3U", "title": "Setting Up a TCP Listener and Connecting to It with Netcat" },
+    { "id": "UAD1v3t7eqo", "title": "Output, Assign, Pipe and Redirect a Heredoc in a Shell Script" },
+    { "id": "9ysWBgCzUPg", "title": "It's OK to Sleep" },
+    { "id": "TMcXxFBEXNI", "title": "clear vs CTRL + L in Your Shell" },
+    { "id": "6Qv_X-AmskI", "title": "Setting Up the Password Store (Pass) App to Work with Android 13+" },
+    { "id": "nKkqGia_B1A", "title": "Mount Secure Build-Time Secrets with Docker and Docker Compose" },
+    { "id": "zHnVgSOPgIA", "title": "Doing Calculations on the Command Line with bc and Your Script Shell" },
     { "id": "d1Rggflybhk", "title": "Create Read-Only AKA Immutable Variables in Bash" },
     { "id": "L7wBIlFgHX4", "title": "Docker Tip #97: Save and Load Docker Images from a Zip File" },
     { "id": "uq5VWPDCtFo", "title": "Git Diff 2 Different Commits, Tags or Branches" },

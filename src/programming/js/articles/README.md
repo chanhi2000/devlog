@@ -183,6 +183,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "The JavaScript this Keyword Explained with Examples",
+  "desc": "All leading web browsers support JavaScript, a popular and versatile programming language. The this keyword is a very important concept to know in JavaScript. The this keyword is a reference to an object, but the object varies based on where and how it is called. In this article, you'll learn...",
+  "link": "/explore/articles/freecodecamp.org/the-javascript-this-keyword-explained-with-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Frontend Masters Boost – Helping Your Journey to Senior Developer

@@ -109,6 +109,8 @@ head:
 - [`@owen1025` / ISMS 1편 - AWS(+EKS)에서 업무 환경 망분리](https://velog.io/@owen1025/ISMS-1%ED%8E%B8-AWSEKS%EC%97%90%EC%84%9C-%EC%97%85%EB%AC%B4-%ED%99%98%EA%B2%BD-%EB%A7%9D-%EB%B6%84%EB%A6%AC?)
 - [`@root-devvoo` / External Secrets Operator를 통한 Node기반 Amazon EKS 클러스터 Pod 내 AWS Secrets Manager 데이터를 환경변수로 주입](https://velog.io/@root-devvoo/External-Secrets-Operator%EB%A5%BC-%ED%86%B5%ED%95%9C-Node%EA%B8%B0%EB%B0%98-Amazon-EKS-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-Pod-%EB%82%B4-AWS-Secrets-Manager-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%EB%A1%9C-%EC%A3%BC%EC%9E%85)
 - [`@dongha1992` - 도커 & CI (7)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-7)
+- [`@yeonns` / AWS Fargate는 얼마나 자원을 쓰고 있을까](https://velog.io/@yeonns/how-much-resources-is-aws-fargate-using)
+- [`@endmoseung` / 개발자가 클라우드를 공부하는 이유](https://velog.io/@endmoseung/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
 ---
 
@@ -229,9 +231,9 @@ head:
 
 ## 뭐라도 해야 한다면 기록을 하자
 
-- [[LocalStack] 24년에 다시보는 LocalStack 설치하기](https://jakpentest.tistory.com/entry/LocalStack-24%EB%85%84%EC%97%90-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94-LocalStack-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
-- [[LocalStack] LocalStack에서 EC2를 다뤄보자.](https://jakpentest.tistory.com/entry/LocalStack-EC2%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-ssh-%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80)
-- [\[AWS\] SESv2를 이용한 수신측 메일 열람여부 확인하기](https://jakpentest.tistory.com/entry/%EC%86%A1%EC%8B%A0-%EB%A9%94%EC%9D%BC%EC%9D%84-%EC%88%98%EC%8B%A0-%EC%B8%A1%EC%97%90%EC%84%9C-%EC%97%B4%EC%96%B4%EB%B4%A4%EB%8A%94%EC%A7%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C)
+- [[LocalStack] 24년에 다시보는 LocalStack 설치하기](https://jakpentest.tistory.com/m/entry/LocalStack-24%EB%85%84%EC%97%90-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94-LocalStack-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+- [[LocalStack] LocalStack에서 EC2를 다뤄보자.](https://jakpentest.tistory.com/m/entry/LocalStack-EC2%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-ssh-%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80)
+- [\[AWS\] SESv2를 이용한 수신측 메일 열람여부 확인하기](https://jakpentest.tistory.com/m/entry/%EC%86%A1%EC%8B%A0-%EB%A9%94%EC%9D%BC%EC%9D%84-%EC%88%98%EC%8B%A0-%EC%B8%A1%EC%97%90%EC%84%9C-%EC%97%B4%EC%96%B4%EB%B4%A4%EB%8A%94%EC%A7%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C)
 
 ---
 
@@ -325,6 +327,18 @@ head:
 ## 강준영 기술 블로그
 
 - [AWS SSM을 이용하여 EC2에 Docker 이미지 배포하기](https://juneyoung.io/devops-continuous-deploy-ec2-docker-ssm-github-actions-220601)
+
+---
+
+## Disquiet*
+
+- [달러💰 이렇게 비싸져도 되냐?! AWS를 탈출하고 비용절약하자!](https://disquiet.io/@bamchi/makerlog/%EB%8B%AC%EB%9F%AC-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B9%84%EC%8B%B8%EC%A0%B8%EB%8F%84-%EB%90%98%EB%83%90-aws%EB%A5%BC-%ED%83%88%EC%B6%9C%ED%95%98%EA%B3%A0-%EB%B9%84%EC%9A%A9%EC%A0%88%EC%95%BD%ED%95%98%EC%9E%90)
+
+---
+
+## Just try it!
+
+- [\[AWS SDK for JAVA\] S3 버전 1.x에서 2.x로 마이그레이션](https://moonsiri.tistory.com/209)
 
 ---
 

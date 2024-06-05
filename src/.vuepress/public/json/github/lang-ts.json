@@ -2998,5 +2998,10 @@
     "desc": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
     "officialSite": "https://mend.io/renovate",
     "topics": ["azure-devops", "bitbucket", "dependencies", "dependencies-checking", "dependency-manager", "github", "gitlab", "npm", "package-management"]
+  }, {
+    "repo": "laudspeaker/laudspeaker",
+    "desc": "📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product onboarding flows and send product and event triggered emails, sms, push and more. ",
+    "officialSite": "https://laudspeaker.com/?ref=github",
+    "topics": ["checklist-guides", "customer-engagement", "customer-journey", "email-marketing", "finite-state-machine", "growth-eng", "nestjs", "nodejs", "omnichannel", "onboarding", "product-adoption", "push-notifications", "pushnotifications", "react", "setup-wizard", "sms-marketing", "state-machine", "state-machines", "typescript", "user-onboarding"]
   }
 ]

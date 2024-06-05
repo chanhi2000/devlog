@@ -1,0 +1,69 @@
+---
+lang: ko-KR
+title: How to use continuations to convert completion handlers into async functions
+description: Article(s) > How to use continuations to convert completion handlers into async functions
+category:
+  - Swift
+  - Article(s)
+tag: 
+  - blog
+  - hackingwithswift.com
+  - crashcourse
+  - swift
+  - xcode
+  - appstore
+head:
+  - - meta:
+    - property: og:title
+      content: Article(s) > How to use continuations to convert completion handlers into async functions
+    - property: og:description
+      content: How to use continuations to convert completion handlers into async functions
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions.html
+date: 2021-11-28
+isOriginal: false
+---
+
+# {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Swift Concurrency by Example",
+  "desc": "Back to Home",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/README.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+[[toc]]
+
+---
+
+```component VPCard
+{
+  "title": "How to use continuations to convert completion handlers into async functions | Swift Concurrency by Example",
+  "desc": "How to use continuations to convert completion handlers into async functions",
+  "link": "https://hackingwithswift.com/quick-start/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions", 
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+> Updated for Xcode 15
+
+<!-- TODO: 작성 -->
+
+::: details Similar solutions…
+
+How to store continuations to be resumed later
+How to create continuations that can throw errors
+Why can’t we call async functions using async var?
+How to call an async function using async let
+How to call async throwing functions
+
+:::
+
+---
+
+<TagLinks />

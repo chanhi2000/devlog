@@ -93,6 +93,26 @@ head:
 
 ```component VPCard
 {
+  "title": "쿠버네티스(Kubernetes) 네트워크 정리 | 요즘IT",
+  "desc": "쿠버네티스(Kubernetes) 네트워크 정리",
+  "link": "/explore/articles/yozm.wishket.com/2251.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "스프링 부트 서버 모니터링하는 법 | 요즘IT",
+  "desc": "스프링 부트 서버 모니터링하는 법",
+  "link": "/explore/articles/yozm.wishket.com/2280.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "2024년 쿠버네티스 표준 아키텍처 | 요즘IT",
   "desc": "2024년 쿠버네티스 표준 아키텍처",
   "link": "/explore/articles/yozm.wishket.com/2371.md",

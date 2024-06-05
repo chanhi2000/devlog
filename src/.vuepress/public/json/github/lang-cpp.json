@@ -1398,5 +1398,10 @@
     "desc": "cuDF - GPU DataFrame Library ",
     "officialSite": "https://docs.rapids.ai/api/cudf/stable/",
     "topics": ["arrow", "cpp", "cuda", "cudf", "dask", "data-analysis", "data-science", "dataframe", "gpu", "pandas", "pydata", "python", "rapids"]
+  }, {
+    "repo": "misprit7/foosbar",
+    "desc": "Code to support my autonomous foosball playing robot",
+    "officialSite": "https://www.youtube.com/watch?v=xrwXZXGiP1w",
+    "topics": ["foosball", "qtm", "qualisys", "robotics", "table-football", "table-soccer"]
   }
 ]

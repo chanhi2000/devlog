@@ -623,12 +623,12 @@ tag:
 
 ## 뭐라도 해야 한다면 기록을 하자
 
-- [Google API 없이 Youtube 데이터 수집하기](https://jakpentest.tistory.com/entry/Google-API-%EC%97%86%EB%8A%94-Youtube-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
-- [[Programmers] 코딩테스트입문 - 로그인 성공?](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9E%85%EB%AC%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%84%B1%EA%B3%B5)
-- [[Programmers] 코딩테스트 입문 #1 (with Python)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-1)
-- [[Programmers] 코딩테스트 입문 #2 (with Python)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-2-with-Python)
-- [[LocalStack] LocalStack에서 Simple Email Service를 사용해보자.](https://jakpentest.tistory.com/entry/LocalStack-LocalStack%EC%97%90%EC%84%9C-Simple-Email-Service%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
-- [[Programmers] 코딩테스트 입문 #4 (with Python)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-4-with-Python)
+- [Google API 없이 Youtube 데이터 수집하기](https://jakpentest.tistory.com/m/entry/Google-API-%EC%97%86%EB%8A%94-Youtube-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
+- [[Programmers] 코딩테스트입문 - 로그인 성공?](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9E%85%EB%AC%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%84%B1%EA%B3%B5)
+- [[Programmers] 코딩테스트 입문 #1 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-1)
+- [[Programmers] 코딩테스트 입문 #2 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-2-with-Python)
+- [[LocalStack] LocalStack에서 Simple Email Service를 사용해보자.](https://jakpentest.tistory.com/m/entry/LocalStack-LocalStack%EC%97%90%EC%84%9C-Simple-Email-Service%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
+- [[Programmers] 코딩테스트 입문 #4 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-4-with-Python)
 
 ---
 
@@ -874,7 +874,7 @@ tag:
 
 ## 뽀글뽀글 개발 일지
 
-- [DOM](https://bbogle2.tistory.com/entry/DOM)
+- [DOM](https://bbogle2.tistory.com/m/entry/DOM)
 
 ---
 
@@ -934,6 +934,7 @@ tag:
 - [[Keras] model.predict(x) vs model(x)](https://devs0n.tistory.com/165)
 - [Classification task에서 Cross-Entropy](https://devs0n.tistory.com/163)
 - [Dropout vs Inverted Dropout](https://devs0n.tistory.com/168)
+- [`reduce`를 언제 사용할 수 있을까](https://devs0n.tistory.com/177)
 
 ---
 
@@ -1198,6 +1199,7 @@ tag:
 ## Python Morsels: Write better Python code
 
 - [Python Big O: the time complexities of different data structures in Python](https://www.pythonmorsels.com/time-complexities/)
+- [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 
 ---
 
@@ -1399,6 +1401,12 @@ tag:
 ## Continuous Integration & Delivery - Semaphore
 
 - [Building Custom Middleware in FastAPI](https://semaphoreci.com/blog/custom-middleware-fastapi)
+
+---
+
+## dougallj
+
+- [Bit-Twiddling: Addition with Unknown Bits](https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/)
 
 ---
 

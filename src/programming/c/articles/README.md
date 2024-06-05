@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - kodeco.com
   - meetup.nhncloud.com
   - engineering.linecorp.com
   - blog.gangnamunni.com
@@ -34,6 +35,13 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Library | Kodeco > iOS & Swift"
+  desc="Search the best collection of iOS and Android tutorials on the web"
+  url="https://kodeco.com/library?domain_ids%5B%5D=1&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://kodeco.com/apple-touch-icon.png"
+  preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
 
 ```component VPCard
 {
@@ -77,6 +85,23 @@ head:
   "link": "/explore/articles/freecodecamp.org/complete-c-programming-course-from-dr-chuck.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## Kodeco
+
+> kodeco.com
+
+
+```component VPCard
+{
+  "title": "Unsafe Swift: Using Pointers and Interacting With C",
+  "desc": "In this tutorial, you’ll learn how to use unsafe Swift to directly access memory through a variety of pointer types.",
+  "link": "/explore/articles/kodeco.com/7181017-unsafe-swift-using-pointers-and-interacting-with-c.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
 }
 ```
 

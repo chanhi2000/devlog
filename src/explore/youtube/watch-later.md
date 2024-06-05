@@ -75,7 +75,6 @@ tags:
 <MyYouTubeItems jsonName="yu-TechTalkAmerica" /><!-- Tech Talk America -->
 <MyYouTubeItems jsonName="yu-techwiser" /><!-- TechWiser -->
 <MyYouTubeItems jsonName="yu-techdojang" /><!-- 테크도장 -->
-<MyYouTubeItems jsonName="yu-shortform" /><!-- 짤컷 -->
 <MyYouTubeItems jsonName="yu-TitusTechTalk" /><!-- Titus Tech Talk -->
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->

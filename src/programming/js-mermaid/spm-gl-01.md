@@ -1,9 +1,9 @@
 ---
 lang: ko-KR
 title: SPM-GL-01
-description: 🧜‍♀️Mermaid.js > SPM-GL-01
+description: Mermaid.js > SPM-GL-01
 category:
-  - 🧜‍♀️Mermaid.js
+  - Mermaid.js
   - SPM-GL-01
 tag: 
   - js

@@ -22,6 +22,8 @@ head:
       content: SwiftUI vs Interface Builder and storyboards
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-vs-interface-builder-and-storyboards.html
+date: 2021-02-09
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -78,6 +80,60 @@ Anyway, we'll get onto exactly how SwiftUI works soon. For now, the least you ne
 - We no longer need to worry about calling functions that don't exist, because our user interface gets checked by the Swift compiler.
 
 So, I hope you'll agree there are lots of benefits to be had from moving to SwiftUI!
+
+::: details Similar solutions…
+
+```component VPCard
+{
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
+  "desc": "SwiftUI tips and tricks",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "All SwiftUI property wrappers explained and compared | SwiftUI by Example",
+  "desc": "All SwiftUI property wrappers explained and compared",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/all-swiftui-property-wrappers-explained-and-compared.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to use Instruments to profile your SwiftUI code and identify slow layouts | SwiftUI by Example",
+  "desc": "How to use Instruments to profile your SwiftUI code and identify slow layouts",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Building a menu using List | SwiftUI by Example",
+  "desc": "Building a menu using List",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
+  "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
 
 ---
 

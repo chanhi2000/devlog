@@ -26,5 +26,7 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-dcode-software" /><!-- dcode -->
+<MyYouTubeItems jsonName="yu-SuperSimpleDev" /><!-- SuperSimpleDev -->
+<MyYouTubeItems jsonName="yu-interviewingio" /><!-- interviewing.io -->
 
 <TagLinks />

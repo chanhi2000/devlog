@@ -12,6 +12,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - kodeco.com
   - yozm.wishket.com
   - droidcon.com
   - kt.academy
@@ -42,6 +43,13 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Library | Kodeco > Android & Kotlin"
+  desc="Search the best collection of iOS and Android tutorials on the web"
+  url="https://kodeco.com/library?domain_ids%5B%5D=2&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://kodeco.com/apple-touch-icon.png"
+  preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
 
 ```component VPCard
 {
@@ -117,6 +125,86 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+---
+
+## Kodeco
+
+> kodeco.com
+
+```component VPCard
+{
+  "title": "Augmented Reality in Android with Google’s Face API",
+  "desc": "You’ll build a Snapchat Lens-like app called FaceSpotter which draws cartoony features over faces in a camera feed using augmented reality.",
+  "link": "/explore/articles/kodeco.com/523-augmented-reality-in-android-with-google-s-face-api.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Couchbase Tutorial for Android - Getting Started",
+  "desc": "In this couchbase tutorial, you will learn how to use prebuilt Couchbase Lite databases, model, query, upload and sync data including attachments.",
+  "link": "/explore/articles/kodeco.com/853-couchbase-tutorial-for-android-getting-started.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+### <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+
+```component VPCard
+{
+  "title": "ViewPager Tutorial - Getting Started in Kotlin",
+  "desc": "In this ViewPager tutorial for Android, you’ll learn how to use a ViewPager to navigate between content pages in Kotlin.",
+  "link": "/explore/articles/kodeco.com/324-viewpager-tutorial-getting-started-in-kotlin.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Intermediate RecyclerView Tutorial with Kotlin",
+  "desc": "In this RecyclerView tutorial you will learn how to build out intermediate techniques like swiping, animation and filtering in Kotlin.",
+  "link": "/explore/articles/kodeco.com/272-intermediate-recyclerview-tutorial-with-kotlin.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Dependency Injection in Android with Dagger 2 and Kotlin",
+  "desc": "In this Android with Kotlin tutorial, you’ll learn about dependency injection and how to make use of the Dagger 2 Java/Android framework for this purpose.",
+  "link": "/explore/articles/kodeco.com/262-dependency-injection-in-android-with-dagger-2-and-kotlin.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting Started with Android Wear with Kotlin",
+  "desc": "In this Android Wear tutorial, you’ll learn how to build an Android app for the Android Wear platform using the Kotlin language.",
+  "link": "/explore/articles/kodeco.com/254-getting-started-with-android-wear-with-kotlin.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Documenting Kotlin Code for Android Using KDoc and Dokkas",
+  "desc": "Learn how to use KDoc to document your Kotlin code and generate beautiful-looking documentation pages using Dokka.s",
+  "link": "/explore/articles/kodeco.com/30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+'', // 2022-03-28
 
 ---
 

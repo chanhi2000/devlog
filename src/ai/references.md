@@ -98,4 +98,14 @@ head:
 
 ---
 
+## Qwen
+
+- [Hello Qwen2](https://qwenlm.github.io/blog/qwen2/)
+
+---
+
+## Together AI
+
+- [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
+
 <TagLinks />

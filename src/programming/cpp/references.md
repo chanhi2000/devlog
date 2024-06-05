@@ -50,6 +50,9 @@ tag:
 - [`@jwlee010523` / 다중 상속과 가상 상속](https://velog.io/@jwlee010523/%EB%8B%A4%EC%A4%91-%EC%83%81%EC%86%8D%EA%B3%BC-%EA%B0%80%EC%83%81-%EC%83%81%EC%86%8D)
 - [`@jwlee010523` / 상속(inheritance)](https://velog.io/@jwlee010523/inheritance)
 - [`@jwlee010523` / 원형 연결 리스트(circular linked list)](https://velog.io/@jwlee010523/circular-linked-list)
+- [`@jwlee010523` / 템플릿(template)](https://velog.io/@jwlee010523/%ED%85%9C%ED%94%8C%EB%A6%BFtemplate)
+- [`@jwlee010523` / 이중 연결 리스트(Doubly linked list)](https://velog.io/@jwlee010523/Doubly-linked-list)
+- [`@jwlee010523` / 표준 템플릿 라이브러리(STL)](https://velog.io/@jwlee010523/STL)
 
 ---
 
@@ -127,6 +130,9 @@ tag:
 - [MFC 프로그래밍 테스트 과제 - Step 3](https://blog.naver.com/tipsware/223467530246)
 - [엘리베이터 운행 시뮬레이션 예제에 층 이동 기능이 추가되었습니다.](https://blog.naver.com/tipsware/223466560946)
 - [전체 시간이나 용량을 계산할 때 출력하는 메시지 창 구성하기](https://blog.naver.com/tipsware/223466490976)
+- [\[Q&A\] CDC 클래스의 FillSolidRect 함수에 대하여](https://blog.naver.com/tipsware/223469803831)
+- [MFC 프로그래밍 테스트 과제 - Step 4](https://blog.naver.com/tipsware/223471439017)
+- [\[Q&A\] CBrush 객체의 사용이 끝나면 DeleteObject 함수를 꼭 호출해야 하나요?](https://blog.naver.com/tipsware/223469859909)
 
 ---
 
@@ -190,12 +196,12 @@ tag:
 
 ## 오늘도 개발로그
 
-- [\[백준 9376번\] 탈옥](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-9376%EB%B2%88-%ED%83%88%EC%98%A5)
-- [[백준 1039번] 교환](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1039%EB%B2%88-%EA%B5%90%ED%99%98)
-- [[백준 1022번] 소용돌이 예쁘게 출력하기](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-1022%EB%B2%88-%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4-%EC%98%88%EC%81%98%EA%B2%8C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
-- [\[백준 15989번\] 1, 2, 3, 더하기 4](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-15989%EB%B2%88-1-2-3-%EB%8D%94%ED%95%98%EA%B8%B0-4)
-- [\[백준 2417번\] 정수 제곱근](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-2417%EB%B2%88-%EC%A0%95%EC%88%98-%EC%A0%9C%EA%B3%B1%EA%B7%BC)
-- [빠르게 배열의 부분 합을 구하는 Prefix Sum 알고리즘](https://kesakiyo.tistory.com/entry/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%97%B4%EC%9D%98-%EB%B6%80%EB%B6%84-%ED%95%A9%EC%9D%84-%EA%B5%AC%ED%95%98%EB%8A%94-Prefix-Sum-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [\[백준 9376번\] 탈옥](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-9376%EB%B2%88-%ED%83%88%EC%98%A5)
+- [[백준 1039번] 교환](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-1039%EB%B2%88-%EA%B5%90%ED%99%98)
+- [[백준 1022번] 소용돌이 예쁘게 출력하기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-1022%EB%B2%88-%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4-%EC%98%88%EC%81%98%EA%B2%8C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+- [\[백준 15989번\] 1, 2, 3, 더하기 4](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-15989%EB%B2%88-1-2-3-%EB%8D%94%ED%95%98%EA%B8%B0-4)
+- [\[백준 2417번\] 정수 제곱근](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-2417%EB%B2%88-%EC%A0%95%EC%88%98-%EC%A0%9C%EA%B3%B1%EA%B7%BC)
+- [빠르게 배열의 부분 합을 구하는 Prefix Sum 알고리즘](https://kesakiyo.tistory.com/m/entry/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%97%B4%EC%9D%98-%EB%B6%80%EB%B6%84-%ED%95%A9%EC%9D%84-%EA%B5%AC%ED%95%98%EB%8A%94-Prefix-Sum-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 
 ---

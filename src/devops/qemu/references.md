@@ -21,6 +21,12 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-qemu"/>QEMU
+
+- [Understanding QEMU devices](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
+
+---
+
 ## Martijn de Vos
 
 - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part II)](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2)

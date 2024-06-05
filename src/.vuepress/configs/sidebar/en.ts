@@ -358,6 +358,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             asb.hackingwithswift(),
+            asb.kodeco("swift"),
             asb.yozm("swift"),
             asb.douggregor("swift"), 
             asb.donnywals("swift"), 
@@ -609,7 +610,8 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/js-supabase/README.md',
         '/programming/js-supabase/references.md',
-        '/programming/js-supabase/youtube.md', {
+        '/programming/js-supabase/youtube.md', 
+        {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
@@ -626,7 +628,8 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-mermaid',
       children: [
         '/programming/js-mermaid/README.md',
-        '/programming/js-mermaid/examples.md',
+        '/programming/js-mermaid/snippets.md',
+        '/programming/js-mermaid/references.md',
       ]
     }, {
       text: 'CSS',
@@ -688,11 +691,11 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/css-tailwind/articles/README.md',
-            asb.freecodecamp("css-tailwind"),
+            asb.freecodecamp("css-tailwind"), 
           ]
         }
-      ]
-    }, {
+        ]
+      }, {
       text: 'Python',
       collapsible: true,
       icon: 'fa-brands fa-python',
@@ -746,6 +749,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py-pandas/articles/README.md',
+          ]
+        },
+      ]
+    }, {
+      text: 'PyTorch',
+      collapsible: true,
+      icon: 'iconfont icon-pytorch',
+      children: [
+        '/programming/py-torch/README.md',
+        '/programming/py-torch/references.md',
+        '/programming/py-torch/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-torch/articles/README.md',
           ]
         },
       ]
@@ -916,6 +936,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/go/articles/README.md',
             asb.freecodecamp("go"),
+            asb.yozm("go"),
             asb.popit("go"),
             asb.d2("go"),
           ]
@@ -935,6 +956,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/go-grafana/articles/README.md',
+            asb.yozm("grafana"),
           ]
         }
       ]
@@ -1004,6 +1026,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/c/articles/README.md',
             asb.freecodecamp("c"),
+            asb.kodeco("c"),
             asb.nhn("c"),
             asb.linecorp("c"),
             asb.gangnamunni("c"),
@@ -1630,9 +1653,7 @@ export const sidebarEn = sidebar({
       text: 'DevOps',
       icon: 'fas fa-network-wired',
       children: [ '/devops/README.md' ],
-    }, 
-    //region: devops
-    {
+    }, {
       text: 'Github',
       collapsible: true,
       icon: 'fa-brands fa-github',
@@ -1670,6 +1691,44 @@ export const sidebarEn = sidebar({
         '/devops/gitlab/troubleshooting.md',
         '/devops/gitlab/references.md',
         '/devops/gitlab/youtube.md',
+      ]
+    }, {
+      text: 'Jira',
+      collapsible: true,
+      icon: 'fa-brands fa-jira',
+      children: [
+        '/devops/jira/README.md',
+        '/devops/jira/troubleshooting.md',
+        '/devops/jira/references.md',
+        '/devops/jira/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/jira/articles/README.md',
+            asb.yozm("jira"),            
+          ]
+        }
+      ]
+    }, {
+      text: 'Confluence',
+      collapsible: true,
+      icon: 'fa-brands fa-confluence',
+      children: [
+        '/devops/confluence/README.md',
+        '/devops/confluence/troubleshooting.md',
+        '/devops/confluence/references.md',
+        '/devops/confluence/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/confluence/articles/README.md',
+            asb.yozm("confluence"),            
+          ]
+        }
       ]
     }, {
       text: 'macOS',
@@ -2298,6 +2357,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/mysql/articles/README.md',
+            asb.yozm("mysql"),
             asb.linecorp("mysql"),
           ]
         },
@@ -2420,6 +2480,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/redis/articles/README.md',
+            asb.yozm("redis"),
             asb.zuminternet("redis"),
           ]
         },

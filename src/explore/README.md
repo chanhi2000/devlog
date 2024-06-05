@@ -569,6 +569,30 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://js13kgames.com/img/favicon.png"
   preview="https://js13kgames.com/games/q1k3/__big.jpg"/>
 
+<SiteInfo
+  name="Huewords"
+  desc="A game of words, colors and logic"
+  url="https://huewords.snellman.net/"
+  logo="https://huewords.snellman.net/stc/favicon.png?tag=19d0009116ecc5d2246dcaca62edf9af963b646e"
+  preview="https://huewords.snellman.net/stc/share-big.png"/>
+
+```component VPCard
+{
+  "title": "Herbie web demo",
+  "desc": "Write a formula below, and Herbie will try to improve it. Enter approximate ranges for inputs.",
+  "link": "https://herbie.uwplse.org/demo/",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "pn0gstr0m",
+  "desc": "...",
+  "link": "https://raould.github.io/pn0gstr0m/",
+  "background": "rgba(44,98,87,0.2)"
+}
+```
 
 <!-- @end Cool Project -->
 

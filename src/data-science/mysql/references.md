@@ -142,29 +142,29 @@ head:
 
 ## 생계형 개발자 연서은
 
-- [4.01. MySQL 데이터베이스 생성하기](https://ysedeveloper.tistory.com/entry/401-MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
-- [4.02. MySQL 테이블 생성하기](https://ysedeveloper.tistory.com/entry/402-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
-- [4.03. MySQL 테이블에 값 가져오기](https://ysedeveloper.tistory.com/entry/403-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
-- [4.04. MySQL 테이블에 값 입력하기](https://ysedeveloper.tistory.com/entry/404-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
-- [4.05. MySQL 테이블에 값 수정하기](https://ysedeveloper.tistory.com/entry/405-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
-- [4.08. PHP에서 MySQL 값 가져오기](https://ysedeveloper.tistory.com/entry/408-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
-- [4.09. PHP에서 MySQL 값 입력하기](https://ysedeveloper.tistory.com/entry/409-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
-- [4.10. PHP에서 MySQL 값 수정 / 삭제하기](https://ysedeveloper.tistory.com/entry/410-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
-- [8.02. 데이터베이스 유저 생성하기](https://ysedeveloper.tistory.com/entry/802-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
-- [8.03. 데이터베이스 유저에 권한 추가하기](https://ysedeveloper.tistory.com/entry/803-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80%EC%97%90-%EA%B6%8C%ED%95%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
-- [8.04. 데이터베이스 테이블 생성하기](https://ysedeveloper.tistory.com/entry/804-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+- [4.01. MySQL 데이터베이스 생성하기](https://ysedeveloper.tistory.com/m/entry/401-MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+- [4.02. MySQL 테이블 생성하기](https://ysedeveloper.tistory.com/m/entry/402-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+- [4.03. MySQL 테이블에 값 가져오기](https://ysedeveloper.tistory.com/m/entry/403-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+- [4.04. MySQL 테이블에 값 입력하기](https://ysedeveloper.tistory.com/m/entry/404-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
+- [4.05. MySQL 테이블에 값 수정하기](https://ysedeveloper.tistory.com/m/entry/405-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
+- [4.08. PHP에서 MySQL 값 가져오기](https://ysedeveloper.tistory.com/m/entry/408-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+- [4.09. PHP에서 MySQL 값 입력하기](https://ysedeveloper.tistory.com/m/entry/409-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
+- [4.10. PHP에서 MySQL 값 수정 / 삭제하기](https://ysedeveloper.tistory.com/m/entry/410-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+- [8.02. 데이터베이스 유저 생성하기](https://ysedeveloper.tistory.com/m/entry/802-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+- [8.03. 데이터베이스 유저에 권한 추가하기](https://ysedeveloper.tistory.com/m/entry/803-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80%EC%97%90-%EA%B6%8C%ED%95%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [8.04. 데이터베이스 테이블 생성하기](https://ysedeveloper.tistory.com/m/entry/804-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 
 ---
 
 ## 🛵꾸준한 꿈틀꿈틀
 
-- [MySQL 실행 계획 톺아보기](https://rnokhs.tistory.com/entry/MySQL-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [MySQL 실행 계획 톺아보기](https://rnokhs.tistory.com/m/entry/MySQL-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
 
 ---
 
 ## 뭐라도 해야 한다면 기록을 하자
 
-- [ProxySQL을 사용하면 Connection을 줄일 수 있다고 ?](https://jakpentest.tistory.com/entry/ProxySQL%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-Connection%EC%9D%84-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0)
+- [ProxySQL을 사용하면 Connection을 줄일 수 있다고 ?](https://jakpentest.tistory.com/m/entry/ProxySQL%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-Connection%EC%9D%84-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0)
 
 ---
 

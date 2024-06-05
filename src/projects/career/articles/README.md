@@ -78,7 +78,47 @@ head:
 
 ## 요즘IT
 
-> yozm.wishket.com
+> yozm.wishket.
+
+```component VPCard
+{
+  "title": "인도, 베트남 개발자가 한국 개발자를 대체할 수 있을까 | 요즘IT",
+  "desc": "인도, 베트남 개발자가 한국 개발자를 대체할 수 있을까",
+  "link": "/explore/articles/yozm.wishket.com/2270.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "풀스택 개발자가 되어야 하는 5가지 이유 | 요즘IT",
+  "desc": "풀스택 개발자가 되어야 하는 5가지 이유",
+  "link": "/explore/articles/yozm.wishket.com/2281.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "'핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법 | 요즘IT",
+  "desc": "'핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법",
+  "link": "/explore/articles/yozm.wishket.com/2295.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "프론트엔드 로드맵과 프론트엔드 개발자가 하는 일 | 요즘IT",
+  "desc": "프론트엔드 로드맵과 프론트엔드 개발자가 하는 일",
+  "link": "/explore/articles/yozm.wishket.com/2302.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

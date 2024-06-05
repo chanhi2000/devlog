@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - hackingwithswift.com
+  - kodeco.com
   - yozm.wishket.com
   - douggregor.net
   - blog.gangnamunni.com
@@ -37,6 +38,13 @@ head:
   "background": "rgba(174,10,10,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Library | Kodeco > iOS & Swift"
+  desc="Search the best collection of iOS and Android tutorials on the web"
+  url="https://kodeco.com/library?domain_ids%5B%5D=1&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://kodeco.com/apple-touch-icon.png"
+  preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
 
 ```component VPCard
 {
@@ -89,6 +97,102 @@ head:
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
    "background": "rgba(174,10,10,0.2)"
+}
+```
+
+---
+
+## Kodeco
+
+> kodeco.com
+
+```component VPCard
+{
+  "title": "SwiftUI Tutorial for iOS - Creating Charts",
+  "desc": "In this SwiftUI tutorial, you’ll learn how to build a variety of custom charts to effectively model your iOS app data to your users.",
+  "link": "/explore/articles/kodeco.com/6398124-swiftui-tutorial-for-ios-creating-charts.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "My App Crashed, Now What?",
+  "desc": "In this tutorial, you’ll learn what makes your app crash and how to fix it when it does. ",
+  "link": "/explore/articles/kodeco.com/6334294-my-app-crashed-now-what.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SQLite With Swift Tutorial: Getting Started",
+  "desc": "In this SQLite with Swift tutorial, you’ll learn to use a SQLite database with Swift projects by creating tables and inserting, updating and deleting rows.",
+  "link": "/explore/articles/kodeco.com/6620276-sqlite-with-swift-tutorial-getting-started.md", 
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "UIGestureRecognizer Tutorial - Getting Started",
+  "desc": "In this tutorial, you’ll learn how to configure UIGestureRecognizer objects and how to create custom recognizers in code.",
+  "link": "/explore/articles/kodeco.com/6747815-uigesturerecognizer-tutorial-getting-started.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started",
+  "desc": "In this protocol-oriented programming tutorial, you’ll learn about extensions, default implementations and other techniques to add abstraction to your code.",
+  "link": "/explore/articles/kodeco.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CocoaPods Tutorial for Swift: Getting Started",
+  "desc": "Use this CocoaPods Tutorial for Swift to learn how to install and manage third-party library dependencies in your Swift projects.",
+  "link": "/explore/articles/kodeco.com/7076593-cocoapods-tutorial-for-swift-getting-started.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Unsafe Swift: Using Pointers and Interacting With C",
+  "desc": "In this tutorial, you’ll learn how to use unsafe Swift to directly access memory through a variety of pointer types.",
+  "link": "/explore/articles/kodeco.com/7181017-unsafe-swift-using-pointers-and-interacting-with-c.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "iOS Accessibility: Getting Started",
+  "desc": "In this iOS accessibility tutorial, learn how to make apps more accessible using VoiceOver and the Accessibility inspector.",
+  "link": "/explore/articles/kodeco.com/6827616-ios-accessibility-getting-started.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Alamofire 5 Tutorial for iOS: Getting Started",
+  "desc": "In this Alamofire tutorial, you’ll build an iOS companion app to perform networking tasks, send request parameters, decode/encode responses and more.",
+  "link": "/explore/articles/kodeco.com/6587213-alamofire-5-tutorial-for-ios-getting-started.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
 }
 ```
 

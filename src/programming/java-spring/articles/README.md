@@ -162,6 +162,36 @@ head:
 
 ```component VPCard
 {
+  "title": "스프링 부트 서버 모니터링하는 법 | 요즘IT",
+  "desc": "스프링 부트 서버 모니터링하는 법",
+  "link": "/explore/articles/yozm.wishket.com/2280.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Spring Boot와 Redis로 캐싱 구현하기 | 요즘IT",
+  "desc": "Spring Boot와 Redis로 캐싱 구현하기",
+  "link": "/explore/articles/yozm.wishket.com/2296.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만나면? | 요즘IT",
+  "desc": "쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만나면?",
+  "link": "/explore/articles/yozm.wishket.com/2350.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "값 객체(Value Object)로 변경 용이성 개선하기 | 요즘IT",
   "desc": "값 객체(Value Object)로 변경 용이성 개선하기",
   "link": "/explore/articles/yozm.wishket.com/2382.md",

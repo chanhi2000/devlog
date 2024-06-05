@@ -62,5 +62,6 @@ head:
 <MyYouTubeItems jsonName="yu-Science_Fish" /><!-- 수상한생선 Life Science -->
 <MyYouTubeItems jsonName="yu-scibrother" /><!-- Sci-bro -->
 <MyYouTubeItems jsonName="yu-user-ln8wt6uz7i" /><!-- 풀리는 수학 - 풀리 -->
+<MyYouTubeItems jsonName="yu-PrimerBlobs" /><!-- Primer -->
 
 <TagLinks />

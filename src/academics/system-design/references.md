@@ -200,7 +200,7 @@ head:
 
 ## 컴공생의 발자취
 
-- [[내일배움캠프 23일차 TIL] 유스케이스 다이어그램 및 RESTful한 API설계(Param vs Query vs Body)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-23%EC%9D%BC%EC%B0%A8-TIL-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%8F-RESTful%ED%95%9C-API%EC%84%A4%EA%B3%84Param-vs-Query-vs-Body)
+- [[내일배움캠프 23일차 TIL] 유스케이스 다이어그램 및 RESTful한 API설계(Param vs Query vs Body)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-23%EC%9D%BC%EC%B0%A8-TIL-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%8F-RESTful%ED%95%9C-API%EC%84%A4%EA%B3%84Param-vs-Query-vs-Body)
 
 ---
 
@@ -278,7 +278,7 @@ head:
 
 ## Miles UX/UI Insight
 
-- [새로운 디자인 컴포넌트 도입 절차](https://vurias0203.tistory.com/entry/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%88%EC%B0%A8)
+- [새로운 디자인 컴포넌트 도입 절차](https://vurias0203.tistory.com/m/entry/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%88%EC%B0%A8)
 
 ---
 
@@ -351,6 +351,30 @@ head:
 ## Very first of muchtrans
 
 - [What I've learned about accessibility in SPAs](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
+
+---
+
+## 센드버드 - 채팅과 영상통화 개발의 완벽한 솔루션 | Sendbird
+
+- [SB-OSC: 센드버드 온라인 스키마 변경](https://sendbird.com/ko/blog/sendbird-online-schema-change)
+
+---
+
+## 뽀글뽀글 개발 일지
+
+- [다중 서버에서 세션 불일치 문제를 해결하는 방법](https://bbogle2.tistory.com/m/entry/%EB%8B%A4%EC%A4%91-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EC%84%B8%EC%85%98-%EB%B6%88%EC%9D%BC%EC%B9%98-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
+---
+
+## Blog - Matthew Weidner
+
+- [Architectures for Central Server Collaboration](https://mattweidner.com/2024/06/04/server-architectures.html)
+
+---
+
+## passion is like genius; a miracle.
+
+- [웹사이트 성능 최적화](https://mkseo.pe.kr/blog/?p=5005)
 
 ---
 

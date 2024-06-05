@@ -18,4 +18,6 @@ tag:
 
 ---
 
+<MyYouTubeItems jsonName="yu-EquitableEquations" /><!-- Equitable Equations -->
+
 <TagLinks />

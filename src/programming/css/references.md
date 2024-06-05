@@ -340,7 +340,7 @@ tag:
 
 ## Enthusiastically, Steady, Slowly
 
-- [21 HTML Tips You Must Know About(무조건 알아야 하는 21개의 HTML 팁)](https://rutgo-letsgo.tistory.com/entry/21-HTML-Tips-You-Must-Know-About%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-21%EA%B0%9C%EC%9D%98-HTML-%ED%8C%81)
+- [21 HTML Tips You Must Know About(무조건 알아야 하는 21개의 HTML 팁)](https://rutgo-letsgo.tistory.com/m/entry/21-HTML-Tips-You-Must-Know-About%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-21%EA%B0%9C%EC%9D%98-HTML-%ED%8C%81)
 
 ---
 

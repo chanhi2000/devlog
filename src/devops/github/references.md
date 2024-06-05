@@ -130,6 +130,7 @@ tag:
 ## Outsider's Dev Story
 
 - [GitHub 저장소의 메타데이터를 관리할 수 있는 Custom Properties](https://blog.outsider.ne.kr/1718)
+- [GitHub의 조직 차원에서 저장소에 적용할 규칙을 관리할 수 있는 Repository Rules](https://blog.outsider.ne.kr/1724)
 
 ---
 

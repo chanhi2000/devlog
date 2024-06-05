@@ -54,5 +54,7 @@ head:
 <MyYouTubeItems jsonName="yu-harvarddatascienceinitiati3320" /><!-- Harvard Data Science Initiative -->
 <MyYouTubeItems jsonName="yu-decoder-sh" /><!-- Decoder -->
 <MyYouTubeItems jsonName="yu-coderxdox" /><!-- CODER X DOX 코더엑스독스 -->
+<MyYouTubeItems jsonName="yu-1littlecoder" /><!-- 1littlecoder -->
+<MyYouTubeItems jsonName="yu-pixegami" /><!-- pixegami -->
 
 <TagLinks/>

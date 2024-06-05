@@ -67,7 +67,17 @@ head:
 
 ## 요즘IT
 
-> yozm.wishket.com
+> yozm.wishket.
+
+```component VPCard
+{
+  "title": "AI 전성시대, CPU 아닌 GPU가 주목받는 이유 | 요즘IT",
+  "desc": "AI 전성시대, CPU 아닌 GPU가 주목받는 이유",
+  "link": "/explore/articles/yozm.wishket.com/2294.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

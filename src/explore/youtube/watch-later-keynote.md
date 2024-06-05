@@ -66,7 +66,6 @@ tag:
 <MyYouTubeItems jsonName="yu-FacebookOpenSource" /><!-- Meta Open Source -->
 <MyYouTubeItems jsonName="yu-softwarecraftsmanshipluxem8137" />
 <MyYouTubeItems jsonName="yu-GOTO-" /><!-- GOTO Conferences -->
-<MyYouTubeItems jsonName="yu-amazonwebservices" /><!-- Amazon Web Services -->
 <MyYouTubeItems jsonName="yu-AWSKorea" /><!-- Amazon Web Services Korea -->
 <MyYouTubeItems jsonName="yu-OracleKorea" /><!-- Oracle Korea -->
 <MyYouTubeItems jsonName="yu-ndc" /><!-- NDC Conferences-->
@@ -116,5 +115,6 @@ tag:
 <MyYouTubeItems jsonName="yu-devmento" /><!-- 데브멘토(Devmento : Real IT Portal) -->
 <MyYouTubeItems jsonName="yu-SamsungNewsroom" /><!-- 삼성전자 뉴스룸 [Samsung Newsroom] -->
 <MyYouTubeItems jsonName="yu-wasmio" /><!-- WASM I/O -->
+<MyYouTubeItems jsonName="yu-Google" /><!-- Google -->
 
 <TagLinks />

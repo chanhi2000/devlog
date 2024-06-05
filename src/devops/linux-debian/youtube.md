@@ -137,5 +137,6 @@ tag:
 <MyYouTubeItems jsonName="yu-how-to-linux." /><!-- How-to-Linux.  -->
 <MyYouTubeItems jsonName="yu-Maurice-Gardner" /><!-- Maurice Gardner -->
 <MyYouTubeItems jsonName="yu-AndreaBorman" /><!-- Andrea Borman -->
+<MyYouTubeItems jsonName="yu-FlyTechVideos" /><!-- FlyTech Videos -->
 
 <TagLinks />

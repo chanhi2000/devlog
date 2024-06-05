@@ -366,6 +366,7 @@ tag:
 - [[iOS] WKWebView을 이용한 iOS 앱과 웹페이지 간의 통신 (3) - Plugin을 이용하여 기능 확장하기](https://minsone.github.io/ios-wkwebview-webpage-communication-3-plugin)
 - [[ADR][가상] 아키텍처 의사 결정 기록: Package 접근제어자 사용](https://minsone.github.io/architecture-decision-record-seperate-network-api-module)
 - [[iOS][SwiftPM][Xcode 13.0] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
+- [\[Swift 5.10\] Nested Protocol With RIBs](https://minsone.github.io/swift-nested-protocol-with-ribs)
 
 ---
 
@@ -540,6 +541,7 @@ tag:
 
 ## Danijela's blog
 
+- [Combine charts to create stunning designs with Swift Charts](https://www.danijelavrzan.com/posts/2023/10/combine-swift-charts/)
 - [Configurable button with different states in SwiftUI](https://www.danijelavrzan.com/posts/2024/05/configurable-button-swiftui/)
 
 ---
@@ -689,9 +691,9 @@ tag:
 
 ---
 
-## Danijela's blog
+## alexwlchan
 
-- [Combine charts to create stunning designs with Swift Charts](https://www.danijelavrzan.com/posts/2023/10/combine-swift-charts/)
+- [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/)
 
 ---
 

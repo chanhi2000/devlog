@@ -22,6 +22,8 @@ head:
       content: Migrating from UIKit to SwiftUI
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/migrating-from-uikit-to-swiftui.html
+date: 2023-06-17
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -81,6 +83,60 @@ Here's a list to get you started, with UIKit class names followed by SwiftUI nam
 - `NSAttributedString`: `AttributedString`.
 
 There are many other components that are exclusive to SwiftUI, such as a stack view that lets us build things by depth rather than horizontally or vertically.
+
+::: details Similar solutions…
+
+```component VPCard
+{
+  "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
+  "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Frequently asked questions about SwiftUI | SwiftUI by Example",
+  "desc": "Frequently asked questions about SwiftUI",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/frequently-asked-questions-about-swiftui.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
+  "desc": "SwiftUI tips and tricks",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard  
+{
+  "title": "How to fix “Ambiguous reference to member 'buildBlock()'” | SwiftUI by Example",
+  "desc": "How to fix “Ambiguous reference to member 'buildBlock()'”",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-ambiguous-reference-to-member-buildblock.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
+  "desc": "How to add Metal shaders to SwiftUI views using layer effects",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
 
 ---
 

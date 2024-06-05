@@ -939,6 +939,12 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://www.tldraw.com/favicon.svg"
   preview="https://www.tldraw.com/social-og.png"/>
 
+<SiteInfo
+  name="Classic Console Neue TrueType Font - ASCII 8x16 Reproduction - DeeJayy"
+  desc="Classic Console Neue TrueType Font ASCII 8x16 DOS Command Line Font"
+  url="https://webdraft.hu/fonts/classic-console/"
+  preview="http://webdraft.eu/fonts/classic-console/sample-pictures/og-image.png"/>
+
 <!-- @end Design & Image -->
 
 @tab Geospatial

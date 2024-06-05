@@ -1881,9 +1881,9 @@
     "officialSite": ""
   }, {
     "repo": "paul-gauthier/aider",
-    "desc": "aider is GPT powered coding in your terminal",
-    "topics": ["cli", "command-line", "openai", "gpt-3", "gpt-4", "chatgpt", "gpt-35-turbo"],
-    "officialSite": "https://aider.chat"
+    "desc": "aider is AI pair programming in your terminal",
+    "officialSite": "https://aider.chat/",
+    "topics": ["chatgpt", "claude-3", "cli", "command-line", "gpt-3", "gpt-35-turbo", "gpt-4", "gpt-4o", "openai", "opus"]
   }, {
     "repo": "geekan/MetaGPT",
     "desc": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
@@ -3361,7 +3361,7 @@
     "topics": []
   }, {
     "repo": "state-spaces/mamba",
-    "desc": "",
+    "desc": "Mamba SSM architecture",
     "officialSite": "",
     "topics": []
   }, {
@@ -5444,5 +5444,25 @@
     "desc": "Python framework for building efficient data pipelines. It promotes modularity and collaboration, enabling the creation of complex pipelines from simple, reusable components.",
     "officialSite": "https://engineering.nike.com/koheesio/",
     "topics": ["data-engineering", "delta-lake", "pydantic", "pyspark", "python"]
+  }, {
+    "repo": "tdsone/extract-line-chart-data",
+    "desc": "A repo that lets you automatically extract the data of a line chart.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Lightning-AI/litgpt",
+    "desc": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+    "officialSite": "https://lightning.ai",
+    "topics": ["ai", "artificial-intelligence", "deep-learning", "large-language-models", "llm", "llm-inference", "llms"]
+  }, {
+    "repo": "NX-AI/xlstm",
+    "desc": "Official repository of the xLSTM.",
+    "officialSite": "",
+    "topics": ["deep-learning", "deep-learning-architecture", "llm", "machine-learning", "nlp", "rnn"]
+  }, {
+    "repo": "potamides/DeTikZify",
+    "desc": "Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ",
+    "officialSite": "",
+    "topics": []
   }
 ]

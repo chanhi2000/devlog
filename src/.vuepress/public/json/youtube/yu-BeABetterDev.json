@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/_DkMv1f8NdP7BCDRa9j7I9RV_ts0eot7ENEFCsh33fCJTy1tlGdRpaRPoxLK6qvZvZLFxyTKCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bYoSDUkNAaE", "title": "Top 4 AWS Cloud Career Mistakes You NEED to Avoid" },
+    { "id": "vIYSfscsHGQ", "title": "7 Ways to Deploy Containers on AWS" },
+    { "id": "o6vO6Z0SJG8", "title": "Forget AWS VPN, start using Zero-Trust Network Access" },
+    { "id": "f-Dvk2R6NUU", "title": "Real Life AWS Architecture - Rate Limiting, Auth & Caching" },
+    { "id": "i3DK4c_H8iY", "title": "Private S3 Bucket Makes AWS Bill Explode (FIXED)" },
+    { "id": "3FumWkHSusY", "title": "Introduction to Amazon VPC (with Console Tutorial)" },
     { "id": "LTKnSRikBXs", "title": "Amazon States Language (ASL) Introduction" },
     { "id": "jJ49-g337s4", "title": "Real Life AWS Project Architecture Overview" },
     { "id": "zyT4y-rfu7s", "title": "How AWS is Making It Easier To Convert to IaC/CDK" },

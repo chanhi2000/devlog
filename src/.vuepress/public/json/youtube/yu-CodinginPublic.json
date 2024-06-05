@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/1iRoj5sQ45VNWnNDZXZlZBj3_w0vBlyqsydEhSPIa4FIFWvpnl47yFZ8p2MH0DjScQeAewbHCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "royQWZw-HUY", "title": "How to keep Figma styles organized" },
+    { "id": "hY40yFmlXH8", "title": "Live Code: Book Tracker App (with Astro DB)" },
+    { "id": "47qChv5YKOs", "title": "Code Block Syntax Highlighting in Astro" },
+    { "id": "S8afBXSkvlg", "title": "Live Code: Coffee Landing Page (Web Dev Daily Astro Build)" },
+    { "id": "XQrowIm3ghs", "title": "Modern CSS (Progressive Enhancements)" },
+    { "id": "KodTSB0kmQA", "title": "Live Code: Building with Astro DB" },
+    { "id": "bGW6ldQ69Fw", "title": "Astro Actions (First Look!)" },
+    { "id": "nCjwKGIICWs", "title": "Building a Better Checkbox" },
+    { "id": "TYvn1da7RoQ", "title": "Live Code: Frontend Mentor Contact Form Hub (with Astro)" },
+    { "id": "TxtvkKe20Rs", "title": "Introduction to Container Queries" },
+    { "id": "dAKe6pX_2S8", "title": "How to Middleware in Astro" },
+    { "id": "twSwcTffTqw", "title": "What does your brewfile say about you?" },
     { "id": "mxuf9T5rync", "title": "Live Code: Astro SSR Reading Tracker Site" },
     { "id": "kGGnanUKM00", "title": "Working with Images in Astro" },
     { "id": "Q1GJpcJLXhQ", "title": "Dynamic API Endpoints in Astro" },

@@ -664,5 +664,10 @@
     "desc": "Opinionated SLF4J backend that logs natively to json",
     "officialSite": "https://hkupty.github.io/penna/",
     "topics": ["java", "java-library", "java-logging", "json-logging", "jvm", "jvm-logging", "slf4j", "slf4j-logger", "slf4j-loggers", "structured-logging"]
+  }, {
+    "repo": "xpipe-io/xpipe",
+    "desc": "Your entire server infrastructure at your fingertips",
+    "officialSite": "https://xpipe.io",
+    "topics": ["bash", "docker", "filemanager", "files", "java", "javafx", "k8s", "kubernetes", "lxd", "networking", "postgres", "sftp", "ssh", "wsl"]
   }
 ]

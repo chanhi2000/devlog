@@ -22,6 +22,8 @@ head:
       content: What's in the basic template?
     - property: og:url
       content: https://chanhi2000.github.io/crashcourse/swift/swiftui-by-example/00-introduction/whats-in-the-basic-template.html
+date: 2023-06-17
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -128,6 +130,60 @@ Fourth, inside the `body` property there's a vertical stack of content showing a
 Fifth, that stack has a `padding()` method call below it. In SwiftUI this actually creates a new view with padding around it, rather than changing the existing stack. As a result, we call these _modifiers_ because they create modified content, as opposed to _methods_. There are also modifiers to make the image scale bigger and change its color.
 
 Finally, below `ContentView` is `#Preview`, which marks special code to display our view an interactive preview of our view inside Xcode. Right now this creates an instance of `ContentView`, but you can customize these if you need to.
+
+::: details Similar solutions…
+
+```component VPCard
+{
+  "title": "How to create basic animations | SwiftUI by Example",
+  "desc": "How to create basic animations",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-basic-animations.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Basic form design | SwiftUI by Example",
+  "desc": "Basic form design",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/basic-form-design.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to open a new window | SwiftUI by Example",
+  "desc": "How to open a new window",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-open-a-new-window.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to configure Core Data to work with SwiftUI | SwiftUI by Example",
+  "desc": "How to configure Core Data to work with SwiftUI",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-configure-core-data-to-work-with-swiftui.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Building a menu using List | SwiftUI by Example",
+  "desc": "Building a menu using List",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
 
 ---
 

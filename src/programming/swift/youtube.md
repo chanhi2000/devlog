@@ -154,5 +154,7 @@ tag:
 <MyYouTubeItems jsonName="yu-iVish" /><!-- iVish -->
 <MyYouTubeItems jsonName="yu-user-cd7cc6hf7j" /><!-- 김경호 -->
 <MyYouTubeItems jsonName="yu-MelbourneCocoaHeads" /><!-- Melbourne CocoaHeads -->
+<MyYouTubeItems jsonName="yu-chmyoungsu" /><!-- chaems -->
+<MyYouTubeItems jsonName="yu-DanielSincere" /><!-- Daniel Sincere -->
 
 <TagLinks/>

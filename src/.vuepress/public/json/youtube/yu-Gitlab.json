@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Bx6Zajyuy9k", "title": "GitLab Duo Code review summary" },
+    { "id": "xLA69Qq5cVs", "title": "Southwest Airlines' developers fly with GitLab" },
+    { "id": "d7RfKljVTzc", "title": "Novo no GitLab, vamos explorar - GitLab Innovation Pitch Competition - (Portuguese-Brazil)" },
+    { "id": "4REy36TRuMM", "title": "Eliminando riscos com feature flags - (Portuguese-Brazil)" },
+    { "id": "pwXy6hrOJyQ", "title": "GitLab Duo - Explicação do código - (Portuguese-Brazil)" },
+    { "id": "2hFZMKExiYQ", "title": "GitLab Duo: Your end-to-end AI partner for faster software development" },
+    { "id": "O7QqfQq0q2A", "title": "Add Security Scanning to your CI/CD pipeline in under 1 min" },
+    { "id": "Y4RC-SW8Ric", "title": "GitLab Security and Governance Feature Overview" },
+    { "id": "zWhwuixUkYU", "title": "GitLab Duo Test generation" },
     { "id": "WyrhkpO5WkI", "title": "Implementing Custom Roles and Granular Security Permissions with GitLab" },
     { "id": "jvZ3eqWMeSY", "title": "Introduction to the Principle of Least Privilege with GitLab" },
     { "id": "eyr5YnkWq_I", "title": "GitLab Continuous Integration Overview (v2)(HD)" },

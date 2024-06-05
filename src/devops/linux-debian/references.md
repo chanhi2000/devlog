@@ -259,4 +259,16 @@ tag:
 
 ---
 
+## Welcome to LWN.net \[LWN.net\]
+
+- [Debian's `/tmpest` in a teapot](https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/)
+
+---
+
+## Marc's Blog
+
+- [Make Your Program Slower With Threads](https://brooker.co.za/blog/2014/12/06/random.html)
+
+---
+
 <TagLinks />

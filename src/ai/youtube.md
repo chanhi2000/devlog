@@ -8,6 +8,7 @@ category:
   - Youtube
 tag: 
   - ai
+  - machine-learning
   - diffusion-model
 head:
   - - meta:
@@ -27,5 +28,7 @@ head:
 
 <MyYouTubeItems jsonName="yu-WebsiteLearners" /><!-- Website Learners -->
 <MyYouTubeItems jsonName="yu-pixiebrix" /><!-- PixieBrix -->
+<MyYouTubeItems jsonName="yu-ArtemKirsanov" /><!-- Artem Kirsanov -->
+<MyYouTubeItems jsonName="yu-CloudComputingInsider" /><!-- Cloud Computing Insider -->
 
 <TagLinks />

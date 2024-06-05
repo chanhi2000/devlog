@@ -44,6 +44,73 @@ tag:
 
 ```component VPCard
 {
+  "title": "DAILY ROTATION",
+  "desc": "DAILY ROTATION, Tech News, current news headlines from thousands of tech related sites, science news, web based RSS reader for tech headlines from thousands of sites",
+  "link": "https://www.dailyrotation.com/",
+  "logo": "https://www.dailyrotation.com/favicon.ico",
+  "background": "rgba(8,49,90,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Two Stop Bits",
+  "desc": "Two Stop Bits is a discussion web site about retro computing and gaming.",
+  "link": "https://twostopbits.com/",
+  "logo": "https://twostopbits.com/favicon.ico",
+  "background": "rgba(221,221,221,0.2)"
+}
+```
+
+<SiteInfo
+  name="TechURLs – A neat technology news aggregator"
+  desc="Read tech news from the most popular tech websites in one place."
+  url="https://techurls.com/"
+  logo="https://techurls.com/favicon-techurls.png"
+  preview="https://techurls.com/images/preview-image-techurls.png"/>
+
+```component VPCard
+{
+  "title": "Viral news today",
+  "desc": "Top rated news from all over the Web",
+  "link": "https://jimmyr.com/",
+  "logo": "https://jimmyr.com/logo.webp",
+  "background": "rgba(245,245,245,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Engineering Blogs",
+  "desc": "...",
+  "link": "https://engineeringblogs.xyz/",
+  "background": "rgba(0,136,255,0.2)"
+}
+```
+
+<SiteInfo
+  name="Technology Forum / Message Board For Talking Tech — Raddle"
+  desc="Technology discussion "
+  url="https://raddle.me/f/Tech  "
+  logo="https://raddle.me/favicon.ico"
+  preview="https://raddle.me/apple-touch-icon-precomposed.png"/>
+
+<SiteInfo
+  name="Technology - Lemmy"
+  desc="This is the official technology community of Lemmy.ml sfor all news related to creation and use of technology, and to facilitate civil, meaningful discussion around it. — Ask in DM before posting product reviews or ads. All such posts otherwise are subject to removal"
+  url="https://lemmy.ml/c/technology"
+  logo="https://lemmy.ml/pictrs/image/fa6d9660-4f1f-4e90-ac73-b897216db6f3.png"
+  preview="https://lemmy.ml/pictrs/image/2QNz7bkA1V.png"/>
+
+<SiteInfo
+  name="Trending | Bear Blog"
+  desc="Discover articles and blogs on Bear"
+  url="https://bearblog.dev/discover/"
+  logo="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
+  preview="https://bearblog.dev/static/favicon.ico"/>
+
+```component VPCard
+{
   "title": "어썸데브블로그",
   "desc": "국내 개발/기술 블로그 모음(only 실명으로).",
   "link": "https://awesome-devblog.netlify.app/korean/people/feeds",
@@ -221,6 +288,13 @@ tag:
 }
 ```
 
+<SiteInfo
+  name="BleepingComputer | Cybersecurity, Technology News and Support"
+  desc="BleepingComputer is a premier destination for cybersecurity news for over 20 years, delivering breaking stories on the latest hacks, malware threats, and how to protect your devices."
+  url="https://www.bleepingcomputer.com/"
+  logo="https://www.bleepstatic.com/favicon/bleeping.ico"
+  preview="https://www.bleepstatic.com/logo/bleepingcomputer-logo.png"/>
+
 ```component VPCard
 {
   "title": "DataTau",
@@ -301,7 +375,11 @@ tag:
 }
 ```
 
+https://www.techmeme.com/
 https://gracefullight.dev/archive/
+https://interestingengineering.com/
+https://paperlined.org/
+
 
 <!-- 
 ```component VPCard
@@ -619,22 +697,22 @@ https://gracefullight.dev/archive/
 <SiteInfo
   name="Library | Kodeco > Android & Kotlin"
   desc="Search the best collection of iOS and Android tutorials on the web"
-  url="https://www.kodeco.com/library?domain_ids%5B%5D=2&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
-  logo="https://www.kodeco.com/apple-touch-icon.png"
+  url="https://kodeco.com/library?domain_ids%5B%5D=2&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://kodeco.com/apple-touch-icon.png"
   preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
 
 <SiteInfo
   name="Library | Kodeco > iOS & Swift"
   desc="Search the best collection of iOS and Android tutorials on the web"
-  url="https://www.kodeco.com/library?domain_ids%5B%5D=1&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
-  logo="https://www.kodeco.com/apple-touch-icon.png"
+  url="https://kodeco.com/library?domain_ids%5B%5D=1&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://kodeco.com/apple-touch-icon.png"
   preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
 
 <SiteInfo
   name="Library | Kodeco > Flutter & Dart"
   desc="Search the best collection of iOS and Android tutorials on the web"
-  url="https://www.kodeco.com/library?domain_ids%5B%5D=9&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
-  logo="https://www.kodeco.com/apple-touch-icon.png"
+  url="https://kodeco.com/library?domain_ids%5B%5D=9&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
+  logo="https://kodeco.com/apple-touch-icon.png"
   preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
 
 ```component VPCard
@@ -691,15 +769,12 @@ https://gracefullight.dev/archive/
 }
 ```
 
-```component VPCard
-{
-  "title": "Learnk8s — the Kubernetes training company",
-  "desc": "We help you get started on your Kubernetes journey through comprehensive online, in person or remote training.",
-  "link": "https://learnk8s.io/archive",
-  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
-  "background": "rgba(86,154,209,0.2)"
-}
-```
+<SiteInfo
+  name="Learnk8s — the Kubernetes training company"
+  desc="We help you get started on your Kubernetes journey through comprehensive online, in person or remote training."
+  url="https://learnk8s.io/archive"
+  logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
+  preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
 
 <SiteInfo
   name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
@@ -742,35 +817,26 @@ https://gracefullight.dev/archive/
   logo="https://www.developerupdates.com/favicon.ico"
   preview="https://www.developerupdates.com/img/logo_image.png"/>
 
-```component VPCard
-{
-  "title": "Learn. Build. Grow. Together.",
-  "desc": "Learn from the web’s leading experts. Build something new. Grow your career. Let’s do it together.",
-  "link": "https://www.learnwithjason.dev/",
-  "logo": "https://www.learnwithjason.dev/favicon.ico",
-  "background": "rgba(255,222,56,0.2)"
-}
-```
+<SiteInfo
+  name="Learn. Build. Grow. Together."
+  desc="Learn from the web’s leading experts. Build something new. Grow your career. Let’s do it together."
+  url="https://www.learnwithjason.dev/"
+  logo="https://www.learnwithjason.dev/favicon.ico"
+  preview="https://res.cloudinary.com/jlengstorf/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_813,c_fit,co_rgb:ffffff,g_south_west,x_392,y_340,l_text:jwf.otf_55:Learn%20With%20Jason/w_813,c_fit,co_rgb:ffffff,g_north_west,x_392,y_375,l_text:jwf-book.otf_42:Learn%20from%20the%20web%E2%80%99s%20leading%20experts.%20Build%20something%20new.%20Grow%20your%20career.%20Let%E2%80%99s%20do%20it%20together./lwj/post-share-2022"/>
 
-```component VPCard
-{
-  "title": "Milan Jovanović | Helping You Become a Better .NET Engineer",
-  "desc": "Software Architecture • Microsoft MVP • Content Creator",
-  "link": "https://www.milanjovanovic.tech/",
-  "logo": "https://www.milanjovanovic.tech/profile_favicon.png",
-  "background": "rgba(79,70,229,0.2)"
-}
-```
+<SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="Software Architecture • Microsoft MVP • Content Creator"
+  url="https://www.milanjovanovic.tech/"
+  logo="https://www.milanjovanovic.tech/profile_favicon.png"
+  preview="https://www.milanjovanovic.tech/og_image.png"/>
 
-```component VPCard
-{
-  "title": "Knowledge Base",
-  "desc": "Knowledge Base",
-  "link": "https://iq.thc.org/",
-  "logo": "https://cdn.hashnode.com/res/hashnode/image/upload/v1611242155728/W3_BYVVVh.png",
-  "background": "rgba(144,238,144,0.2)"
-}
-```
+<SiteInfo
+  name="Knowledge Base"
+  desc="Knowledge Base"
+  url="https://iq.thc.org/"
+  logo="https://cdn.hashnode.com/res/hashnode/image/upload/v1611242155728/W3_BYVVVh.png"
+  preview="https://iq.thc.org/api/og/home?og=eyJ0aXRsZSI6Iktub3dsZWRnZSUyMEJhc2UiLCJkb21haW4iOiJpcS50aGMub3JnIiwiZm9sbG93ZXJzIjozNTksImJnY29sb3IiOiIjOTBlZTkwIiwiaXNUZWFtIjp0cnVlLCJhcnRpY2xlcyI6eyJ0b3RhbERvY3VtZW50cyI6MTV9LCJpc0RlZmF1bHRNb2RlRGFyayI6dHJ1ZX0="/>
 
 <SiteInfo
   name="Latest Articles | UX Tools"

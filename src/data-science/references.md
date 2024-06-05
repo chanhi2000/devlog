@@ -55,4 +55,10 @@ head:
 
 ---
 
+## ploeh blog
+
+- [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+
+---
+
 <TagLinks />

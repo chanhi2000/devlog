@@ -1,13 +1,16 @@
 ---
 lang: ko-KR
-title: Example(s)
-description: 🧜‍♀️Mermaid.js > Example(s)
+title: Snippets
+description: Mermaid.js > Snippets
+icon: fas fa-eye-dropper
 category:
-  - 🧜‍♀️Mermaid.js
-  - Example(s)
+  - Node.js
+  - Mermaid.js
+  - Snippets
 tag: 
-  - js
-  - javascript
+  - node
+  - nodejs
+  - node-js
   - mermaid
   - mermaidjs
   - mermaid-js
@@ -15,9 +18,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🧜‍♀️Mermaid.js > Example(s)
+      content: Mermaid.js > Snippets
     - property: og:description
-      content: 🧜‍♀️Mermaid.js > Example(s)
+      content: Snippets
     - property: og:url
       content: https://chanhi2000.github.io/programming/js-mermaid/examples.html
 ---

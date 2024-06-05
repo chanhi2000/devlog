@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "wgZAxxfKTtw", "title": "자바한조각 - Stream 장점이 뭘까?" },
     { "id": "IGkgTq9Vuk4", "title": "자바한조각 (16) - 클래스 안에 클래스를 선언할 수 있을까?" },
     { "id": "vlo7-MeDYaI", "title": "자바한조각 (18) - 빌더패턴 직접 만들어보기" },
     { "id": "H90ypql2QlY", "title": "자바한조각 - ArrayList, LinkedList 중 무엇을 사용해야할까?" },

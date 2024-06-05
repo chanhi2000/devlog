@@ -33,4 +33,10 @@ tag:
 
 ---
 
+## Marc's Blog
+
+- [Make Your Program Slower With Threads](https://brooker.co.za/blog/2014/12/06/random.html)
+
+---
+
 <TagLinks />

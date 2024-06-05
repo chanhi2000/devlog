@@ -22,6 +22,8 @@ head:
       content: What is SwiftUI?
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/what-is-swiftui.html
+date: 2023-06-17
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -76,6 +78,60 @@ Instead, we let SwiftUI move between user interface layouts for us when the stat
 That's what it means by declarative: we aren't making SwiftUI components show and hide by hand, we're just telling it all the rules we want it to follow and leaving SwiftUI to make sure those rules are enforced.
 
 But SwiftUI doesn't stop there – it also acts as a cross-platform user interface layer that works across iOS, macOS, tvOS, watchOS, and even visionOS. This means you can now learn one language and one layout framework, then deploy your code anywhere.
+
+::: details Similar solutions…
+
+```component VPCard
+{
+  "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
+  "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Frequently asked questions about SwiftUI | SwiftUI by Example",
+  "desc": "Frequently asked questions about SwiftUI",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/frequently-asked-questions-about-swiftui.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SwiftUI tips and tricks | SwiftUI by Example",
+  "desc": "SwiftUI tips and tricks",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/swiftui-tips-and-tricks.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard  
+{
+  "title": "How to fix “Ambiguous reference to member 'buildBlock()'” | SwiftUI by Example",
+  "desc": "How to fix “Ambiguous reference to member 'buildBlock()'”",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-ambiguous-reference-to-member-buildblock.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to add Metal shaders to SwiftUI views using layer effects | SwiftUI by Example",
+  "desc": "How to add Metal shaders to SwiftUI views using layer effects",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
 
 ---
 

@@ -10,6 +10,14 @@ tag:
   - js
   - javascript
   - blex.me
+head:
+  - - meta:
+    - property: og:title
+      content: JavaScript > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -127,10 +135,16 @@ tag:
 - [`naver-place-dev` / 자바스크립트와 V8 엔진의 메모리 관리 프로세스 \[ko\]](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 - [`javascript-scene` / 10 Interview Questions Every JavaScript Developer Should Know in 2024](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb)
 - [`violetboralee` / 모던 자바스크립트란 무엇인가(updated)](https://violetboralee.medium.com/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f7e115f03533)
+- [`jeongwoo` / 모던자바스크립트 스터디 3장(2)](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9E%A5-2-103e10334e6b)
+
+---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@wooder2050` / JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
+- [`@dongha1992` / \[프로그래머스\] 다단계 칫솔 판매](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A4%EB%8B%A8%EA%B3%84-%EC%B9%AB%EC%86%94-%ED%8C%90%EB%A7%A4)
+- [`@dongha1992` / \[프로그래머스\] 합승 택시 요금](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%95%A9%EC%8A%B9-%ED%83%9D%EC%8B%9C-%EC%9A%94%EA%B8%88)
+- [`@dongha1992` / \[PCCP 기출문제\] 2번 / 석유 시추](https://velog.io/@dongha1992/PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-2%EB%B2%88-%EC%84%9D%EC%9C%A0-%EC%8B%9C%EC%B6%94)
 
 ---
 
@@ -149,8 +163,8 @@ tag:
 
 ## IT grow. 
 
-- [ES5 vs ES6 차이](https://dlsdn73.tistory.com/entry/ES5-vs-ES6-%EC%B0%A8%EC%9D%B4)
-- [[ js ] Immutability(변경불가성)](https://dlsdn73.tistory.com/entry/Immutability%EB%B3%80%EA%B2%BD%EB%B6%88%EA%B0%80%EC%84%B1)
+- [ES5 vs ES6 차이](https://dlsdn73.tistory.com/m/entry/ES5-vs-ES6-%EC%B0%A8%EC%9D%B4)
+- [[ js ] Immutability(변경불가성)](https://dlsdn73.tistory.com/m/entry/Immutability%EB%B3%80%EA%B2%BD%EB%B6%88%EA%B0%80%EC%84%B1)
 
 ---
 
@@ -186,7 +200,7 @@ tag:
 
 ## 편리함을 추구하는 핸디의 지식 블로그
 
-- [[타입스크립트] enum과 enum의 리버스 맵핑에 대하여](https://all-dev-kang.tistory.com/entry/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-enum%EA%B3%BC-enum%EC%9D%98-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EB%A7%B5%ED%95%91%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+- [[타입스크립트] enum과 enum의 리버스 맵핑에 대하여](https://all-dev-kang.tistory.com/m/entry/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-enum%EA%B3%BC-enum%EC%9D%98-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EB%A7%B5%ED%95%91%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 
 ---
 
@@ -344,7 +358,7 @@ tag:
 
 ## 뽀글뽀글 개발 일지
 
-- [\[JS\] Hoisting](https://bbogle2.tistory.com/entry/JS-Hoisting)
+- [\[JS\] Hoisting](https://bbogle2.tistory.com/m/entry/JS-Hoisting)
 
 ---
 

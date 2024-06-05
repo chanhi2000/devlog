@@ -1596,9 +1596,9 @@
     "topics": ["freetube", "privacy", "subscriptions", "video", "videos", "youtube"]
   }, {
     "repo": "TheRealJoelmatic/RemoveAdblockThing",
-    "desc": "Removes The \"Ad blocker are not allowed on Youtube\"",
-    "officialSite": "http://joelmatic.com",
-    "topics": ["tampermonkey", "tampermonkey-userscript"]
+    "desc": "The intrusive \"Ad blocker are not allowed on YouTube\" message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection",
+    "officialSite": "http://joelmatic.com/",
+    "topics": ["adblock", "remove-not-allowed", "tampermonkey", "tampermonkey-userscript", "undetected", "youtube", "youtube-adblocker"]
   }, {
     "repo": "TeamPiped/Piped",
     "desc": "An alternative privacy-friendly YouTube frontend which is efficient by design.",

@@ -44,5 +44,6 @@ head:
 <MyYouTubeItems jsonName="yu-MaxProgramming" /><!-- Max Programming -->
 <MyYouTubeItems jsonName="yu-log_the_summer" /><!-- 써머 log the summer -->
 <MyYouTubeItems jsonName="yu-LamaDev" /><!-- Lama Dev -->
+<MyYouTubeItems jsonName="yu-jeonghwan_kim" /><!-- 김정환 -->
 
 <TagLinks />

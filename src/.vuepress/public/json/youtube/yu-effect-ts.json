@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "effect-ts",
+    "name": "Effect | TypeScript at Scale",
+    "profile": "https://yt3.googleusercontent.com/_YUXybsAMuyH27PsrnocEkAVVgqPKkCZAzpm2kit3gQPgjFxBy1YY7wWZy1J20-NvPU5SkrI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xe2co9MBKRntwIv8vuxiKuKzgXxKkOOAAxRsJqQYqDdUfU6ReYmkb093chbphLk3XuVlj9vtNfg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "v9lUg6zlaRM", "title": "Effect's Latest and Greatest by Tim Smart (Effect Days 2024)" },
+    { "id": "o-SvvUA7hik", "title": "Solving the distributed schema problem with @effect/schema by Jess Martin (Effect Days 2024)" },
+    { "id": "ViSiXfBKElQ", "title": "Effect 3.0: Production-Grade TypeScript" },
+    { "id": "Ei6VTwhI8QQ", "title": "Why Effect is more important than ZIO by John A. De Goes (Effect Days 2024)" },
+    { "id": "Lz2J1NBnHK4", "title": "Effect TypeScript Library: Beginner / Intermediate Workshop (Effect Days 2024)" },
+    { "id": "tUdSNaaXZRE", "title": "AI-Native User Experiences: The Effect Opportunity by Guillermo Rauch (Effect Days 2024)" },
+    { "id": "FMXJYU4Jru4", "title": "Working on Effect Cluster by Mattia Manzati" },
+    { "id": "eQPvfYMheng", "title": "Building Skott: A journey of Effect-driven development by Antoine Coulon (Effect Days 2024)" },
+    { "id": "THods1Q_qL8", "title": "Integrating Remix with Effect by Michael Arnaldi" },
+    { "id": "mZJxGgI7FXU", "title": "Effective state machines for complex logic by David Khourshid (Effect Days 2024)" },
+    { "id": "8WanmCpq_Mw", "title": "Effect Cluster | Integrating Effect RPC by Mattia Manzati" },
+    { "id": "EcyrFrJFMWY", "title": "Durable Workflows with Effect Cluster by Mattia Manzati (Effect Days 2024)" },
+    { "id": "Wtc7T-9YxYg", "title": "Next level type safety with Effect by Aleksandra Sikora (Effect Days 2024)" },
+    { "id": "_C5ZUjbtLi0", "title": "Effect Cluster | Integrating Effect RPC (Part 2) by Mattia Manzati" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -414,5 +414,10 @@
     "desc": "Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "hackerb9/lsix",
+    "desc": "Like \"ls\", but for images. Shows thumbnails in terminal using sixel graphics.",
+    "officialSite": "",
+    "topics": ["files", "graphics", "imagemagick", "ls", "montage", "sixel-graphics", "terminal", "terminal-graphics", "thumbnails", "vt340", "xterm"]
   }
 ]

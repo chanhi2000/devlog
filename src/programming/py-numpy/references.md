@@ -48,4 +48,10 @@ head:
 
 ---
 
+## A Geospatial Data Science Blog
+
+- [Saint Michael Sword](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
+
+---
+
 <TagLinks />

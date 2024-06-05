@@ -4,13 +4,15 @@ title: Mermaid.js
 description: Mermaid.js
 icon: iconfont icon-mermaid
 category:
+  - Node.js
   - Mermaid.js
 tag: 
-  - js
   - node
   - nodejs
+  - node-js
   - mermaid
   - mermaidjs
+  - mermaid-js
 ---
 
 # {{ $frontmatter.description }} 관련

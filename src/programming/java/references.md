@@ -178,7 +178,7 @@ tag:
 
 ### 프뚜
 
-- [[Spring] Spring boot에서 PostgreSQL 연동하기](https://ssjeong.tistory.com/entry/Spring-Spring-boot%EC%97%90%EC%84%9C-PostgreSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+- [[Spring] Spring boot에서 PostgreSQL 연동하기](https://ssjeong.tistory.com/m/entry/Spring-Spring-boot%EC%97%90%EC%84%9C-PostgreSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 
 ### 즐겁게 살고 싶은 개발자
 
@@ -202,7 +202,7 @@ tag:
 
 ### 🛵꾸준한 꿈틀꿈틀
 
-- [JPA UUID varchar로 저장하기](https://rnokhs.tistory.com/entry/JPA-UUID-varchar%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+- [JPA UUID varchar로 저장하기](https://rnokhs.tistory.com/m/entry/JPA-UUID-varchar%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
 
 ### Misc
 
@@ -225,7 +225,7 @@ tag:
 
 ### 기억의 정류장
 
-- [intelliJ, Gradle 환경에서 JavaFX 사용하기](https://rachel0115.tistory.com/entry/intelliJ-Gradle-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-JavaFX-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [intelliJ, Gradle 환경에서 JavaFX 사용하기](https://rachel0115.tistory.com/m/entry/intelliJ-Gradle-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-JavaFX-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ### star collector
 
@@ -236,35 +236,35 @@ tag:
 
 ### 컴공생의 발자취
 
-- [[ 99클럽 코테 스터디 3일차 TIL ] 문자열에서 index 위치의 문자 반환 및 형변환 (char to int & String to Array)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C-index-%EC%9C%84%EC%B9%98%EC%9D%98-%EB%AC%B8%EC%9E%90-%EB%B0%98%ED%99%98-%EB%B0%8F-char-to-int-%ED%98%95%EB%B3%80%ED%99%98)
-- [[ 99클럽 코테 스터디 17일차 TIL ] 프로그래머스(JadenCase 문자열 만들기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-17%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [[ 99클럽 코테 스터디 16일차 TIL ] 깊이 우선 탐색(DFS: Depth-First Search) 및 프로그래머스(모음사전)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-16%EC%9D%BC%EC%B0%A8-TIL-%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89DFS-Depth-First-Search-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)
-- [[ 99클럽 코테 스터디 15일차 TIL ] 프로그래머스(2016년)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-15%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42016%EB%85%84)
-- [[ 99클럽 코테 스터디 18일차 TIL ] 프로그래머스(개인정보 수집 유효기간](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-18%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
-- [[ 99클럽 코테 스터디 19일차 TIL ] 시간 초과 및 프로그래머스(연속된 부분 수열의 합)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-19%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%9C%EA%B0%84-%EC%B4%88%EA%B3%BC-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%97%B0%EC%86%8D%EB%90%9C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
-- [[ 99클럽 코테 스터디 20일차 TIL ] 프로그래머스(내적)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-20%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%B4%EC%A0%81)
-- [[ 99클럽 코테 스터디 22일차 TIL ] 프로그래머스(나머지가 1이 되는 수 찾기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-22%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80-1%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%88%98-%EC%B0%BE%EA%B8%B0)
-- [[ 99클럽 코테 스터디 24일차 TIL ] 백준(17504번 - 제리와 톰 2)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-24%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%8017504%EB%B2%88-%EC%A0%9C%EB%A6%AC%EC%99%80-%ED%86%B0-2)
-- [[ 99클럽 코테 스터디 25일차 TIL ] 백준 (23812번 - 골뱅이 찍기 - 돌아간 ㅍ)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-23812%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%EB%8F%8C%EC%95%84%EA%B0%84-%E3%85%8D)
-- [[내일배움캠프 7일차 TIL] 배열부터 생성자 `this`까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-7%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B0%EC%97%B4%EB%B6%80%ED%84%B0-%EC%83%9D%EC%84%B1%EC%9E%90-this%EA%B9%8C%EC%A7%80)
-- [[ 99클럽 코테 스터디 25일차 TIL ] 프로그래머스 (가장 가까운 같은 글자 및 H-Index)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90-%EB%B0%8F-H-Index)
-- [[내일배움캠프 6일차 TIL] Java 문법 기초부터 반복문까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-6%EC%9D%BC%EC%B0%A8-TIL-Java-%EB%AC%B8%EB%B2%95-1-25)
-- [[내일배움캠프 8일차 TIL] 접근 제어자부터 다형성까지](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-8%EC%9D%BC%EC%B0%A8-TIL-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4%EC%9E%90%EB%B6%80%ED%84%B0-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B9%8C%EC%A7%80)
-- [[ 99클럽 코테 스터디 26일차 TIL ] 백준 (25311번 - UCPC에서 가장 쉬운 문제 번호는?)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-26%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-25311%EB%B2%88-UCPC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%AC%B8%EC%A0%9C-%EB%B2%88%ED%98%B8%EB%8A%94)
-- [[ 99클럽 코테 스터디 30일차 TIL ] 백준 (10811번 - 바구니 뒤집기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-28%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-10811%EB%B2%88-%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%92%A4%EC%A7%91%EA%B8%B0)
-- [[ 99클럽 코테 스터디 29일차 TIL ] 백준 (30455번 - 이제는 더 이상 물러날 곳이 없다)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-30455%EB%B2%88-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EB%8D%94-%EC%9D%B4%EC%83%81-%EB%AC%BC%EB%9F%AC%EB%82%A0-%EA%B3%B3%EC%9D%B4-%EC%97%86%EB%8B%A4)
-- [[내일배움캠프 11일차 TIL] 개인과제1 : 계산기 만들기(level 1)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-11%EC%9D%BC%EC%B0%A8-TIL-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C1-%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0level-1)
-- [[ 99클럽 코테 스터디 33일차 TIL] 백준(15969번 - 행복)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-33%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%8015969%EB%B2%88-%ED%96%89%EB%B3%B5)
-- [[내일배움캠프 15일차 TIL] 형변환 및 팀 프로젝트 역할분담](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-15%EC%9D%BC%EC%B0%A8-TIL-%ED%98%95%EB%B3%80%ED%99%98-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%AD%ED%95%A0%EB%B6%84%EB%8B%B4)
-- [[JAVA] 형변환 정리](https://moonnight0.tistory.com/entry/JAVA-%ED%98%95%EB%B3%80%ED%99%98-%EC%A0%95%EB%A6%AC)
-- [[ 99클럽 코테 스터디 32일차 TIL ] Collections 및 프로그래머스 (명예의 전당(1))](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-32%EC%9D%BC%EC%B0%A8-TIL-Collections-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91)
-- [[ 99클럽 코테 스터디 33일차 TIL] 백준 - (14681번 - 사분면 고르기)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-33%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-14681%EB%B2%88-%EC%82%AC%EB%B6%84%EB%A9%B4-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
-- [[내일배움캠프 18일차 TIL] 자바 관련 및 마크다운과 팀 프로젝트 마무리](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-18%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%90%EB%B0%94-%EA%B4%80%EB%A0%A8-%EB%B0%8F-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EA%B3%BC-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC)
-- [[ 99클럽 코테 스터디 35일차 TIL] 백준 - (1085번 - 직사각형에서 탈출)](https://moonnight0.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-34%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-1085%EB%B2%88-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C-%ED%83%88%EC%B6%9C)
-- [[내일배움캠프 17일차 TIL] `enum` & `final` 및 팀 프로젝트(필수 기능)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-17%EC%9D%BC%EC%B0%A8-TIL-enum-final-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%84%EC%88%98-%EA%B8%B0%EB%8A%A5)
-- [[내일배움캠프 21일차 TIL] 3 Layer Architecture와 SQL](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-21%EC%9D%BC%EC%B0%A8-TIL-3-Layer-Architecture%EC%99%80-SQL)
-- [[프로그래머스] 크기가 작은 부분 문자열 level 1 - Java](https://moonnight0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%81%AC%EA%B8%B0%EA%B0%80-%EC%9E%91%EC%9D%80-%EB%B6%80%EB%B6%84-%EB%AC%B8%EC%9E%90%EC%97%B4-level-1-Java)
-- [\[프로그래머스\] 시저 암호 level 1 - Java](https://moonnight0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8-level-1-Java)
+- [[ 99클럽 코테 스터디 3일차 TIL ] 문자열에서 index 위치의 문자 반환 및 형변환 (char to int & String to Array)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C-index-%EC%9C%84%EC%B9%98%EC%9D%98-%EB%AC%B8%EC%9E%90-%EB%B0%98%ED%99%98-%EB%B0%8F-char-to-int-%ED%98%95%EB%B3%80%ED%99%98)
+- [[ 99클럽 코테 스터디 17일차 TIL ] 프로그래머스(JadenCase 문자열 만들기)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-17%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [[ 99클럽 코테 스터디 16일차 TIL ] 깊이 우선 탐색(DFS: Depth-First Search) 및 프로그래머스(모음사전)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-16%EC%9D%BC%EC%B0%A8-TIL-%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89DFS-Depth-First-Search-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)
+- [[ 99클럽 코테 스터디 15일차 TIL ] 프로그래머스(2016년)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-15%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42016%EB%85%84)
+- [[ 99클럽 코테 스터디 18일차 TIL ] 프로그래머스(개인정보 수집 유효기간](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-18%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%91-%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
+- [[ 99클럽 코테 스터디 19일차 TIL ] 시간 초과 및 프로그래머스(연속된 부분 수열의 합)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-19%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%9C%EA%B0%84-%EC%B4%88%EA%B3%BC-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%97%B0%EC%86%8D%EB%90%9C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
+- [[ 99클럽 코테 스터디 20일차 TIL ] 프로그래머스(내적)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-20%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%B4%EC%A0%81)
+- [[ 99클럽 코테 스터디 22일차 TIL ] 프로그래머스(나머지가 1이 되는 수 찾기)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-22%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80-1%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%88%98-%EC%B0%BE%EA%B8%B0)
+- [[ 99클럽 코테 스터디 24일차 TIL ] 백준(17504번 - 제리와 톰 2)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-24%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%8017504%EB%B2%88-%EC%A0%9C%EB%A6%AC%EC%99%80-%ED%86%B0-2)
+- [[ 99클럽 코테 스터디 25일차 TIL ] 백준 (23812번 - 골뱅이 찍기 - 돌아간 ㅍ)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-23812%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%EB%8F%8C%EC%95%84%EA%B0%84-%E3%85%8D)
+- [[내일배움캠프 7일차 TIL] 배열부터 생성자 `this`까지](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-7%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B0%EC%97%B4%EB%B6%80%ED%84%B0-%EC%83%9D%EC%84%B1%EC%9E%90-this%EA%B9%8C%EC%A7%80)
+- [[ 99클럽 코테 스터디 25일차 TIL ] 프로그래머스 (가장 가까운 같은 글자 및 H-Index)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-TIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90-%EB%B0%8F-H-Index)
+- [[내일배움캠프 6일차 TIL] Java 문법 기초부터 반복문까지](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-6%EC%9D%BC%EC%B0%A8-TIL-Java-%EB%AC%B8%EB%B2%95-1-25)
+- [[내일배움캠프 8일차 TIL] 접근 제어자부터 다형성까지](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-8%EC%9D%BC%EC%B0%A8-TIL-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4%EC%9E%90%EB%B6%80%ED%84%B0-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B9%8C%EC%A7%80)
+- [[ 99클럽 코테 스터디 26일차 TIL ] 백준 (25311번 - UCPC에서 가장 쉬운 문제 번호는?)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-26%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-25311%EB%B2%88-UCPC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%AC%B8%EC%A0%9C-%EB%B2%88%ED%98%B8%EB%8A%94)
+- [[ 99클럽 코테 스터디 30일차 TIL ] 백준 (10811번 - 바구니 뒤집기)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-28%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-10811%EB%B2%88-%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%92%A4%EC%A7%91%EA%B8%B0)
+- [[ 99클럽 코테 스터디 29일차 TIL ] 백준 (30455번 - 이제는 더 이상 물러날 곳이 없다)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-30455%EB%B2%88-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EB%8D%94-%EC%9D%B4%EC%83%81-%EB%AC%BC%EB%9F%AC%EB%82%A0-%EA%B3%B3%EC%9D%B4-%EC%97%86%EB%8B%A4)
+- [[내일배움캠프 11일차 TIL] 개인과제1 : 계산기 만들기(level 1)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-11%EC%9D%BC%EC%B0%A8-TIL-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C1-%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0level-1)
+- [[ 99클럽 코테 스터디 33일차 TIL] 백준(15969번 - 행복)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-33%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%8015969%EB%B2%88-%ED%96%89%EB%B3%B5)
+- [[내일배움캠프 15일차 TIL] 형변환 및 팀 프로젝트 역할분담](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-15%EC%9D%BC%EC%B0%A8-TIL-%ED%98%95%EB%B3%80%ED%99%98-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%AD%ED%95%A0%EB%B6%84%EB%8B%B4)
+- [[JAVA] 형변환 정리](https://moonnight0.tistory.com/m/entry/JAVA-%ED%98%95%EB%B3%80%ED%99%98-%EC%A0%95%EB%A6%AC)
+- [[ 99클럽 코테 스터디 32일차 TIL ] Collections 및 프로그래머스 (명예의 전당(1))](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-32%EC%9D%BC%EC%B0%A8-TIL-Collections-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B91)
+- [[ 99클럽 코테 스터디 33일차 TIL] 백준 - (14681번 - 사분면 고르기)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-33%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-14681%EB%B2%88-%EC%82%AC%EB%B6%84%EB%A9%B4-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
+- [[내일배움캠프 18일차 TIL] 자바 관련 및 마크다운과 팀 프로젝트 마무리](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-18%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%90%EB%B0%94-%EA%B4%80%EB%A0%A8-%EB%B0%8F-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EA%B3%BC-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC)
+- [[ 99클럽 코테 스터디 35일차 TIL] 백준 - (1085번 - 직사각형에서 탈출)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-34%EC%9D%BC%EC%B0%A8-TIL-%EB%B0%B1%EC%A4%80-1085%EB%B2%88-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C-%ED%83%88%EC%B6%9C)
+- [[내일배움캠프 17일차 TIL] `enum` & `final` 및 팀 프로젝트(필수 기능)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-17%EC%9D%BC%EC%B0%A8-TIL-enum-final-%EB%B0%8F-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%84%EC%88%98-%EA%B8%B0%EB%8A%A5)
+- [[내일배움캠프 21일차 TIL] 3 Layer Architecture와 SQL](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-21%EC%9D%BC%EC%B0%A8-TIL-3-Layer-Architecture%EC%99%80-SQL)
+- [[프로그래머스] 크기가 작은 부분 문자열 level 1 - Java](https://moonnight0.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%81%AC%EA%B8%B0%EA%B0%80-%EC%9E%91%EC%9D%80-%EB%B6%80%EB%B6%84-%EB%AC%B8%EC%9E%90%EC%97%B4-level-1-Java)
+- [\[프로그래머스\] 시저 암호 level 1 - Java](https://moonnight0.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8-level-1-Java)
 
 
 ### 류광의 번역 이야기
@@ -306,14 +306,14 @@ tag:
 
 ### 뭐라도 해야 한다면 기록을 하자
 
-- [[Programmers] 코딩 테스트 입문 - 배열관련 문제들 (with Java)](https://jakpentest.tistory.com/entry/Programmers-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%B0%B0%EC%97%B4%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C%EB%93%A4-with-Java)
+- [[Programmers] 코딩 테스트 입문 - 배열관련 문제들 (with Java)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%B0%B0%EC%97%B4%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C%EB%93%A4-with-Java)
 
 ## Enthusiastically, Steady, Slowly
 
-- [[숫자야구게임 Step2] 도메인 구현](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B5%AC%ED%98%84)
-- [[숫자야구게임 Step2] 비지니스 로직을 작성하자.](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90)
-- [[숫자야구게임 Step1] 실제 애플리케이션이 동작할 코드를 작성하자 & 마무리](https://rutgo-letsgo.tistory.com/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step1-%EC%8B%A4%EC%A0%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%A0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%A7%88%EB%AC%B4%EB%A6%AC)
-- [[DDD 세레나데 6기] 1주차 - 0단계 Junit5 학습](https://rutgo-letsgo.tistory.com/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-0%EB%8B%A8%EA%B3%84-Junit5-%ED%95%99%EC%8A%B5)
+- [[숫자야구게임 Step2] 도메인 구현](https://rutgo-letsgo.tistory.com/m/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B5%AC%ED%98%84)
+- [[숫자야구게임 Step2] 비지니스 로직을 작성하자.](https://rutgo-letsgo.tistory.com/m/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90)
+- [[숫자야구게임 Step1] 실제 애플리케이션이 동작할 코드를 작성하자 & 마무리](https://rutgo-letsgo.tistory.com/m/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step1-%EC%8B%A4%EC%A0%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%A0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%A7%88%EB%AC%B4%EB%A6%AC)
+- [[DDD 세레나데 6기] 1주차 - 0단계 Junit5 학습](https://rutgo-letsgo.tistory.com/m/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-0%EB%8B%A8%EA%B3%84-Junit5-%ED%95%99%EC%8A%B5)
 
 ### CK.D. Lee
 
@@ -321,7 +321,7 @@ tag:
 
 ### 두레박 캠퍼스
 
-- [[도서리뷰] 함수형 프로그래밍 with 자바 ](https://duriepark.tistory.com/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-with-%EC%9E%90%EB%B0%94)
+- [[도서리뷰] 함수형 프로그래밍 with 자바 ](https://duriepark.tistory.com/m/entry/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-with-%EC%9E%90%EB%B0%94)
 
 ### 강준현
 
@@ -334,7 +334,7 @@ tag:
 
 ### 몽상실현개발주의
 
-- [빌더 패턴의 이해와 Java에서의 적용](https://leeiopd.tistory.com/entry/%EB%B9%8C%EB%8D%94-%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-Java%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%81%EC%9A%A9)
+- [빌더 패턴의 이해와 Java에서의 적용](https://leeiopd.tistory.com/m/entry/%EB%B9%8C%EB%8D%94-%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-Java%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%81%EC%9A%A9)
 
 ### 백엔드 개발자 웨지 블로그
 
@@ -351,6 +351,7 @@ tag:
 ### Just try it!
 
 - [[JAVA] JDK 11에서 JDK 21로 변경하기 (LTS버전)](https://moonsiri.tistory.com/204)
+- [\[AWS SDK for JAVA\] S3 버전 1.x에서 2.x로 마이그레이션](https://moonsiri.tistory.com/209)
 
 ### 얇고 넓은 개발 블로그
 
@@ -370,11 +371,11 @@ tag:
 
 ### 💾 Knowledge Repository
 
-- [JUnit5 - JUnit 환경 세팅과 첫 번째 테스트 케이스 작성](https://atoz-develop.tistory.com/entry/JUnit5-JUnit-%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%EA%B3%BC-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%9E%91%EC%84%B1)
-- [[JAVA] `Arrays.asList()`와 `List.of()`의 차이](https://atoz-develop.tistory.com/entry/JAVA-ArraysasList%EC%99%80-Listof%EC%9D%98-%EC%B0%A8%EC%9D%B4)
-- [[JAVA] Class 클래스를 이용해 메소드와 생성자 얻기](https://atoz-develop.tistory.com/entry/JAVA-Class-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%99%80-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%96%BB%EA%B8%B0)
-- [JAVA 개발자가 알아야할 String 클래스 - 1편](https://atoz-develop.tistory.com/entry/JAVA-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-String-%ED%81%B4%EB%9E%98%EC%8A%A4-1%ED%8E%B8)
-- [JAVA 개발자가 알아야할 String 클래스 - 2편](https://atoz-develop.tistory.com/entry/JAVA-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-String-%ED%81%B4%EB%9E%98%EC%8A%A4-2%ED%8E%B8)
+- [JUnit5 - JUnit 환경 세팅과 첫 번째 테스트 케이스 작성](https://atoz-develop.tistory.com/m/entry/JUnit5-JUnit-%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%EA%B3%BC-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%9E%91%EC%84%B1)
+- [[JAVA] `Arrays.asList()`와 `List.of()`의 차이](https://atoz-develop.tistory.com/m/entry/JAVA-ArraysasList%EC%99%80-Listof%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+- [[JAVA] Class 클래스를 이용해 메소드와 생성자 얻기](https://atoz-develop.tistory.com/m/entry/JAVA-Class-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%99%80-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%96%BB%EA%B8%B0)
+- [JAVA 개발자가 알아야할 String 클래스 - 1편](https://atoz-develop.tistory.com/m/entry/JAVA-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-String-%ED%81%B4%EB%9E%98%EC%8A%A4-1%ED%8E%B8)
+- [JAVA 개발자가 알아야할 String 클래스 - 2편](https://atoz-develop.tistory.com/m/entry/JAVA-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-String-%ED%81%B4%EB%9E%98%EC%8A%A4-2%ED%8E%B8)
 
 ### Hyperconnect Tech Blog | 하이퍼커넥트의 기술블로그입니다
 

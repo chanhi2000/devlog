@@ -205,6 +205,8 @@ tag:
 - [[정리] Compose 가이드 문서 ~ Text and typography](https://pluu.github.io/blog/android/2024/05/25/compose/)
 - [\[요약\] What's new in Android development tools (Google I/O '24)](https://pluu.github.io/blog/android/io23/2024/05/26/io24-whats-new-in-android-development-tools/)
 - [\[정리\] Compose 가이드 문서 ~ Images and graphics](https://pluu.github.io/blog/android/2024/06/02/compose/)
+- [\[정리\] Compose 가이드 문서 ~ 접근성](https://pluu.github.io/blog/android/2024/06/06/compose-accessibility/)
+- [\[정리\] Compose 가이드 문서 ~ Animation](https://pluu.github.io/blog/android/2024/06/06/compose/)
 
 ---
 
@@ -224,7 +226,7 @@ tag:
 
 ## Kwon's developer
 
-- [안드로이드 SDK 번호와 버전 정리](https://kwon8999.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-SDK-%EB%B2%88%ED%98%B8%EC%99%80-%EB%B2%84%EC%A0%84-%EC%A0%95%EB%A6%AC)
+- [안드로이드 SDK 번호와 버전 정리](https://kwon8999.tistory.com/m/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-SDK-%EB%B2%88%ED%98%B8%EC%99%80-%EB%B2%84%EC%A0%84-%EC%A0%95%EB%A6%AC)
 
 ---
 
@@ -368,7 +370,7 @@ tag:
 
 ## XMobile
 
-- [[Android] SSL 인증서 적용해보기](https://xmobile.tistory.com/entry/Android-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
+- [[Android] SSL 인증서 적용해보기](https://xmobile.tistory.com/m/entry/Android-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 ---
 

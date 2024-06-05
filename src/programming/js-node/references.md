@@ -284,6 +284,7 @@ tag:
 
 - [main](https://www.robinwieruch.de/blog)
 - [10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends/)
+- [Linear Algebra in JavaScript with Matrix Operations](https://www.robinwieruch.de/linear-algebra-matrix-javascript)
 
 ---
 
@@ -308,6 +309,7 @@ tag:
 ## SamWho
 
 - [Memory Allocation](https://samwho.dev/memory-allocation)
+- [Hashing](https://samwho.dev/hashing)
 
 ---
 
@@ -627,12 +629,6 @@ tag:
 
 ---
 
-## SamWho
-
-- [Hashing](https://samwho.dev/hashing)
-
----
-
 ## Dev-Dojo
 
 - [Custom Tooltip Directive in Vuejs 3: Tutorial](https://devdojo.com/inspector/custom-tooltip-directive-in-vuejs-3-tutorial)
@@ -643,6 +639,7 @@ tag:
 ## nullpt
 
 - [Evading JavaScript Anti-Debugging Techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
+- [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 
 ---
 
@@ -650,12 +647,6 @@ tag:
 
 - [함수형 자료구조](https://kciter.so/posts/functional-data-structure)
 - [ASCII 3D 렌더러 만들기](https://kciter.so/posts/ascii-3d-renderer/)
-
----
-
-## Robin Wieruch
-
-- [Linear Algebra in JavaScript with Matrix Operations](https://www.robinwieruch.de/linear-algebra-matrix-javascript)
 
 ---
 
@@ -674,12 +665,6 @@ tag:
 ## Ministry of Testing
 
 - [Elevating Your Test Automation Projects With Meaningful Code Documentation](https://www.ministryoftesting.com/articles/40b3c90e)
-
----
-
-## nullpt
-
-- [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 
 ---
 
@@ -1107,6 +1092,18 @@ tag:
 ## Evans Library
 
 - [기존의 사고 방식을 깨부수는 함수형 사고](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
+
+---
+
+## 큰돌의 터전
+
+- [모듈 또는 해당 형식 선언을 찾을 수 없습니다. 해결방법](https://blog.naver.com/jhc9639/223468932284)
+
+---
+
+## 푸르고 개발 블로그
+
+- [\[TypeScript\] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/m/194)
 
 ---
 

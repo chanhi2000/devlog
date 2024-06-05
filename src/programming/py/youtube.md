@@ -82,7 +82,6 @@ tag:
 <MyYouTubeItems jsonName="yu-error_by_night_" /><!-- Error By Night -->
 <MyYouTubeItems jsonName="yu-_JohnHammond" /><!-- John Hammond -->
 <MyYouTubeItems jsonName="yu-orkslayergamedev" /><!-- Ork Slayer Gamedev -->
-<MyYouTubeItems jsonName="yu-DaveGrayTeachesCode" /><!-- Dave Gray -->
 <MyYouTubeItems jsonName="yu-bugbytes3923" /><!-- BugBytes -->
 <MyYouTubeItems jsonName="yu-akashpadhiyar" /><!-- Akash Padhiyar -->
 <MyYouTubeItems jsonName="yu-marearts." /><!-- MareArts -->
@@ -116,5 +115,6 @@ tag:
 <MyYouTubeItems jsonName="yu-nangman002" /><!-- 낭만공돌이 - IT와 비즈니스 이야기 -->
 <MyYouTubeItems jsonName="yu-weekendcode" /><!-- WeekendCode 주말코딩 -->
 <MyYouTubeItems jsonName="yu-TechWithAlexduta" /><!-- Tech with Alex -->
+<MyYouTubeItems jsonName="yu-JsKIM_0_0" /><!-- 김종상 -->
 
 <TagLinks />

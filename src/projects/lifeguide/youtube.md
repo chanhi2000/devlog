@@ -89,7 +89,6 @@ head:
 <MyYouTubeItems jsonName="yu-SPARTAIT" /><!-- 스파르타 IT연구소 -->
 <MyYouTubeItems jsonName="yu-KOOZAKitchen" /><!-- 쿠자의주방 KOOZA-Kitchen -->
 <MyYouTubeItems jsonName="yu-user-kz3ny3gu8x" /><!-- 인간심지호 -->
-<MyYouTubeItems jsonName="yu-bbocute_main" /><!-- 뽀큐트 -->
 <MyYouTubeItems jsonName="yu-KkukTV" /><!-- 꾹TV(Kkuk TV) -->
 <MyYouTubeItems jsonName="yu-korea.decoration" /><!-- 생각하는 개미도배 -->
 <MyYouTubeItems jsonName="yu-Life-tips365" /><!-- 생활속꿀팁 -->
@@ -131,5 +130,8 @@ head:
 <MyYouTubeItems jsonName="yu-space_diary" /><!-- 공간일기 -->
 <MyYouTubeItems jsonName="yu-chy65670075" /><!-- 덴트초이 -->
 <MyYouTubeItems jsonName="yu-sebasi15" /><!-- 세바시 강연 Sebasi Talk -->
+<MyYouTubeItems jsonName="yu-carjinnam" /><!-- 카진남 -->
+<MyYouTubeItems jsonName="yu-shortform" /><!-- 짤컷 -->
+<MyYouTubeItems jsonName="yu-FrugalRepair" /><!-- FrugalRepair -->
 
 <TagLinks />

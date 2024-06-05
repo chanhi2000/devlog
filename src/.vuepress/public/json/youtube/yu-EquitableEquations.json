@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "w3X76e_tZr8", "title": "Bibliographies with R and Quarto" },
+    { "id": "4wS3n54Kon0", "title": "Not-so-simple linear regression with R" },
+    { "id": "xcZib3qAc30", "title": "Simple linear regression in R" },
+    { "id": "LRobPVWmzmQ", "title": "Deviance in logistic regression models" },
     { "id": "4vSfbz9YMa0", "title": "Return of the starwars data set" },
     { "id": "EAejx8uKFj4", "title": "Better quality of life in R and RStudio" },
     { "id": "01KifhHDkFk", "title": "Beautiful presentations with R and Quarto" },

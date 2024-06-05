@@ -9,7 +9,8 @@ category:
   - Article(s)
 tag: 
   - blog
-  - freecodecamp.org
+  - engineering.linecorp.com
+  - yozm.wishket.com
   - sql
   - mysql
 head:
@@ -26,6 +27,16 @@ head:
 
 ```component VPCard
 {
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Blog - LINE ENGINEERING",
   "desc": "2022-LINE-engineering-site",
   "link": "https://engineering.linecorp.com/ko/blog/",
@@ -35,6 +46,22 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "MySQL 쿼리 튜닝의 첫걸음 | 요즘IT",
+  "desc": "MySQL 쿼리 튜닝의 첫걸음",
+  "link": "/explore/articles/yozm.wishket.com/2260.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ---
 

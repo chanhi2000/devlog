@@ -55,7 +55,7 @@ tag:
 
 ## AreYou준비
 
-- [[Jenkins] 젠킨스 설치 및 설정](https://roxxy.tistory.com/entry/Jenkins-%EC%A0%A0%ED%82%A8%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95)
+- [[Jenkins] 젠킨스 설치 및 설정](https://roxxy.tistory.com/m/entry/Jenkins-%EC%A0%A0%ED%82%A8%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95)
 
 ---
 

@@ -29,14 +29,6 @@ head:
 
 ---
 
-![The Periodic Table of the Elements, in Pictures and Words (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Pics_w2000.png) 
-<!-- TODO: 로컬에 저장 -->
-
-![The Periodic Table of the Elements, in Words, (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Words_w2000.png) 
-<!-- TODO: 로컬에 저장 -->
-
----
-
 ## EBooks
 
 - [Calculating Logarithms By Hand](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
@@ -419,8 +411,10 @@ head:
 
 ## 게으른맽랩 lazy matlab
 
-- [타원, 케플러, 궤도운동](https://lazymatlab.tistory.com/228)
-- [힘이 축에 대해 가하는 모멘트 계산하기](https://lazymatlab.tistory.com/229)
+- [타원, 케플러, 궤도운동](https://lazymatlab.tistory.com/m/228)
+- [힘이 축에 대해 가하는 모멘트 계산하기](https://lazymatlab.tistory.com/m/229)
+- [자연수의 개수와 짝수의 개수가 같다고?](https://lazymatlab.tistory.com/m/237)
+- [수학에서의 역설](https://lazymatlab.tistory.com/m/239)
 
 ---
 
@@ -476,9 +470,9 @@ head:
 
 ## 오늘도 개발로그
 
-- [[백준 17404번] RGB거리 2](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17404%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC-2)
-- [[백준 10021번] Watering the Fields](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-10021%EB%B2%88-watering-the-fields)
-- [[백준 17086번] 아기 상어 2](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17086%EB%B2%88-%EC%95%84%EA%B8%B0-%EC%83%81%EC%96%B4-2)
+- [[백준 17404번] RGB거리 2](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17404%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC-2)
+- [[백준 10021번] Watering the Fields](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-10021%EB%B2%88-watering-the-fields)
+- [[백준 17086번] 아기 상어 2](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17086%EB%B2%88-%EC%95%84%EA%B8%B0-%EC%83%81%EC%96%B4-2)
 
 ---
 
@@ -497,6 +491,12 @@ head:
 ## Warehouse of PKI
 
 - [RSA 개인키 특성](https://jykim74.tistory.com/275)
+
+---
+
+## andreinc
+
+- [From the Circle to Epicycles (Part 1) - An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 
 ---
 

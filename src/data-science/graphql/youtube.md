@@ -28,4 +28,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-yalco-coding" /><!-- 얄팍한 코딩사전 -->
+
 <TagLinks />

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/M30vSdRMXlcWgL4AooXvXsc_5BV7JMJr700DVlSzcY19KWecZodDlZxoujxOeleG4y5Z91kCLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VufFsqwtpzY", "title": "트랜스포머 layerNorm, 레이어, 인코더" },
+    { "id": "CATfL9hsy1c", "title": "트랜스포머 임베딩 레이어" },
+    { "id": "zLxYYq72bAE", "title": "트랜스포머 , positional encoding, 위치 인코딩" },
+    { "id": "xrq2yN4K_-M", "title": "트랜스포머 인코더" },
     { "id": "gqFhGG6X95s", "title": "워드 임베딩" },
     { "id": "5vOVi3LazdA", "title": "딥러닝 트랜스포머 소개" },
     { "id": "DdpOpLNKRJs", "title": "딥러닝 트랜스포머 셀프어텐션, Transformer, self attention" },

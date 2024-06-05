@@ -221,5 +221,6 @@ head:
 <MyYouTubeItems jsonName="yu-vaadinofficial" /><!-- vaadinofficial  -->
 <MyYouTubeItems jsonName="yu-DilipItAcademy" /><!-- Dilip IT Academy -->
 <MyYouTubeItems jsonName="yu-with-neighbors" />    <!-- 이웃팔촌 -->
+<MyYouTubeItems jsonName="yu-CodeSpitz" /><!-- 코드스피츠 -->
 
 <TagLinks />

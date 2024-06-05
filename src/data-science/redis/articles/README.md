@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - yozm.wishket.com
   - zuminternet.github.io
   - redis
 head:
@@ -24,6 +25,16 @@ head:
 
 ```component VPCard
 {
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "ZUM 기술 블로그",
   "desc": "생각을 읽다, ZUM, 고객의 생각을 읽고 담는 줌 인터넷 개발자들의 '좀 다른 개발 이야기'를 소개 합니다.",
   "link": "https://zuminternet.github.io/",
@@ -33,6 +44,22 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "Spring Boot와 Redis로 캐싱 구현하기 | 요즘IT",
+  "desc": "Spring Boot와 Redis로 캐싱 구현하기",
+  "link": "/explore/articles/yozm.wishket.com/2296.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ---
 

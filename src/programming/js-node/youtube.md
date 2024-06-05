@@ -102,7 +102,6 @@ head:
 <MyYouTubeItems jsonName="yu-awesome-coding" /><!-- Awesome -->
 <MyYouTubeItems jsonName="yu-envatotuts" /><!-- Envato Tuts+ -->
 <MyYouTubeItems jsonName="yu-codewithryan" /><!-- Code With Ryan -->
-<MyYouTubeItems jsonName="yu-SuperSimpleDev" /><!-- SuperSimpleDev -->
 <MyYouTubeItems jsonName="yu-CodinginPublic" /><!-- Coding in Public -->
 <MyYouTubeItems jsonName="yu-sstur" /><!-- Tech Talks with Simon -->
 <MyYouTubeItems jsonName="yu-CodingPhase" /><!-- CodingPhase -->
@@ -156,7 +155,6 @@ head:
 <MyYouTubeItems jsonName="yu-WebDevMatics" /><!-- WebDevMatics -->
 <MyYouTubeItems jsonName="yu-Letsboot" /><!-- letsboot.com -->
 <MyYouTubeItems jsonName="yu-QiroLab" /><!-- QiroLab -->
-<MyYouTubeItems jsonName="yu-TonyAlicea" /><!-- Tony Alicea -->
 <MyYouTubeItems jsonName="yu-jejucodingcamp" /><!-- 제주코딩베이스캠프 -->
 <MyYouTubeItems jsonName="yu-javascriptisrael" /><!-- JavaScript Israel -->
 <MyYouTubeItems jsonName="yu-CoderOne" /><!-- CoderOne -->
@@ -209,7 +207,6 @@ head:
 <MyYouTubeItems jsonName="yu-asaprogrammer_" /><!-- As a Programmer -->
 <MyYouTubeItems jsonName="yu-VincentLabStudio" /><!-- Vincent Lab -->
 <MyYouTubeItems jsonName="yu-Huntabyte" /><!-- Huntabyte -->
-<MyYouTubeItems jsonName="yu-jeonghwan_kim" /><!-- 김정환 -->
 <MyYouTubeItems jsonName="yu-mattpocockuk" /><!-- Matt Pocock -->
 <MyYouTubeItems jsonName="yu-ajudmeister" /><!-- Andreas Jud -->
 <MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 코딩하는오후 -->
@@ -225,5 +222,6 @@ head:
 <MyYouTubeItems jsonName="yu-frontendfyi" /><!-- Frontend FYI -->
 <MyYouTubeItems jsonName="yu-JsKIM_0_0" /><!-- 김종상 -->
 <MyYouTubeItems jsonName="yu-TimCarambat" /><!-- Tim Carambat -->
+<MyYouTubeItems jsonName="yu-effect-ts" /><!-- Effect | TypeScript at Scale -->
 
 <TagLinks />

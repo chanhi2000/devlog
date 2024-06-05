@@ -45,6 +45,7 @@ tag:
 - [`@dongha1992` / 도커 & CI (4)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-4)
 - [`@dongha1992` / 도커 & CI (6)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-6-%EB%8F%84%EC%BB%A4%EB%A1%9C-%EB%B0%B0%ED%8F%AC)
 - [`@dongha1992` - 도커 & CI (7)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-7)
+- [`@skynet` / Cache mount를 이용한 Dockerfile 빌드 최적화](https://velog.io/@skynet/Cache-mount%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Dockerfile-%EB%B9%8C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94)
 
 ---
 
@@ -249,7 +250,7 @@ tag:
 
 ## 뭐라도 해야 한다면 기록을 하자
 
-- [ProxySQL을 사용하면 Connection을 줄일 수 있다고 ?](https://jakpentest.tistory.com/entry/ProxySQL%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-Connection%EC%9D%84-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0)
+- [ProxySQL을 사용하면 Connection을 줄일 수 있다고 ?](https://jakpentest.tistory.com/m/entry/ProxySQL%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-Connection%EC%9D%84-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0)
 
 ---
 

@@ -44,12 +44,14 @@ tag:
 - [`@sindepal` / Flutter iOS 17 does not run](https://medium.com/@sindepal/flutter-ios-17-does-not-run-f2b52403c067)
 - [`@fmmagalhaes` / I built the same app with Flutter, React Native, and Ionic](https://medium.com/@fmmagalhaes/i-built-the-same-app-with-flutter-react-native-and-ionic-33ff8b358562)
 - [`@sindepal` / [ERROR:flutter/shell/platform/darwin/graphics/FlutterDarwinContextMetalImpeller.mm(42)] Using the Impeller rendering backend.](https://medium.com/@sindepal/error-flutter-shell-platform-darwin-graphics-flutterdarwincontextmetalimpeller-mm-42-7e6b763bc1e5)
+- [`haragoo30` / 항상 켜져 있는 태블릿 앱에 Shorebird 적용 후기](https://haragoo30.medium.com/%ED%95%AD%EC%83%81-%EC%BC%9C%EC%A0%B8%EC%9E%88%EB%8A%94-%ED%83%9C%EB%B8%94%EB%A6%BF%EC%95%B1%EC%97%90-shorebird-%EC%A0%81%EC%9A%A9-%ED%9B%84%EA%B8%B0-e312caeda363)
 
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@ethanchaee` - Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
+- [`@de-quei` / Flutter Font 적용 안될 때](https://velog.io/@de-quei/Flutter-Font-%EC%A0%81%EC%9A%A9-%EC%95%88%EB%90%A0-%EB%95%8C)
 
 ---
 

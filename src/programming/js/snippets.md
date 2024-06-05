@@ -89,9 +89,9 @@ const channelId = (
 )?.innerHTML?.replace('@', '');
 
 const channelNameTag = (
-  (document.querySelector('h1.dynamic-text-view-model-wiz__h1 > span')) ??
-  (document.querySelector('.ytd-channel-name > span')) ??
-  (document.querySelector('yt-formatted-string.ytd-channel-name#text'))
+  (document.querySelector('h1.dynamic-text-view-model-wiz__h1 > span')) ?? 
+  (document.querySelector('yt-formatted-string.ytd-channel-name#text')) ??
+  (document.querySelector('.ytd-channel-name > span'))
 )?.innerHTML;
 
 const channelName = (channelNameTag.match(/^(.*?)<span/g) == null) ? channelNameTag : channelNameTag.match(/^(.*?)<span/g)[0].replace('<span', '');

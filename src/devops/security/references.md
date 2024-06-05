@@ -309,6 +309,18 @@ tag:
 
 ---
 
+## Android Offensive Security Blog
+
+- [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
+
+---
+
+## Sam Curry
+
+- [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
+
+---
+
 ## Project(s)
 
 ```component VPCard

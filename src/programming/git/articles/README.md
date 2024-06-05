@@ -120,6 +120,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Git Internal API를 활용한 .git 탐험 | 요즘IT",
+  "desc": "Git Internal API를 활용한 .git 탐험",
+  "link": "/explore/articles/yozm.wishket.com/2293.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지 | 요즘IT",
   "desc": "팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지",
   "link": "/explore/articles/yozm.wishket.com/2545.md",

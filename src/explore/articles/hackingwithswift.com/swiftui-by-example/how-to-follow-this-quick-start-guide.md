@@ -22,6 +22,8 @@ head:
       content: How to follow this quick start guide
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-follow-this-quick-start-guide.html
+date: 2023-06-17
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -71,6 +73,50 @@ My code examples are specifically written for folks who are following along more
 If you're just starting out with SwiftUI you should read this guide in a roughly linear order – just keep reading and clicking Next until you're done. As far as possible I've written the guide so that later chapters build on earlier ones, so a linear approach really is a good idea.
 
 If this is you, you should start by creating a new iOS app using the App template. It doesn't matter what you call it – it's just a sandbox where you can try out various code as you progress.
+
+::: details Similar solutions…
+
+```component VPCard
+{
+  "title": "How to make a ScrollView start at the bottom | SwiftUI by Example",
+  "desc": "How to make a ScrollView start at the bottom",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-make-a-scrollview-start-at-the-bottom.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to start an animation immediately after a view appears | SwiftUI by Example",
+  "desc": "How to start an animation immediately after a view appears",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-start-an-animation-immediately-after-a-view-appears.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create multi-step animations using phase animators | SwiftUI by Example",
+  "desc": "How to create multi-step animations using phase animators",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-create-multi-step-animations-using-phase-animators.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Building a menu using List | SwiftUI by Example",
+  "desc": "Building a menu using List",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/building-a-menu-using-list.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
 
 ---
 

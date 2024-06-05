@@ -211,9 +211,19 @@ head:
 
 ```component VPCard
 {
+  "title": "Canvas API로 가을을 표현해 본다면? | 요즘IT",
+  "desc": "Canvas API로 가을을 표현해 본다면?",
+  "link": "/explore/articles/yozm.wishket.com/2268.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "프론트엔드 개발자가 API를 설계하는 이유 | 요즘IT",
   "desc": "프론트엔드 개발자가 API를 설계하는 이유",
-  "link": "https://yozm.wishket.com/magazine/detail/2325/",
+  "link": "/explore/articles/yozm.wishket.com/2325.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -223,7 +233,7 @@ head:
 {
   "title": "편리한 API 제너레이터 ‘swagger-typescript-api’ | 요즘IT",
   "desc": "편리한 API 제너레이터 ‘swagger-typescript-api’",
-  "link": "https://yozm.wishket.com/magazine/detail/2387/",
+  "link": "/explore/articles/yozm.wishket.com/2387.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -233,7 +243,7 @@ head:
 {
   "title": "가독성 좋은 테스트 코드를 작성하는 방법 | 요즘IT",
   "desc": "가독성 좋은 테스트 코드를 작성하는 방법",
-  "link": "https://yozm.wishket.com/magazine/detail/2435/",
+  "link": "/explore/articles/yozm.wishket.com/2435.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

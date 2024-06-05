@@ -514,5 +514,10 @@
     "desc": "A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具",
     "officialSite": "https://lihaoyun6.github.io/quickrecorder/",
     "topics": []
+  }, {
+    "repo": "nikitabobko/AeroSpace",
+    "desc": "AeroSpace is an i3-like tiling window manager for macOS",
+    "officialSite": "https://nikitabobko.github.io/AeroSpace/guide",
+    "topics": ["i3", "i3wm", "mac", "macos", "tiling", "tiling-window-manager", "window-manager"]
   }
 ]

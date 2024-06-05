@@ -238,6 +238,7 @@ tag:
 - [[WPF] 생성자 Overloading (2)](https://hj0216.tistory.com/916)
 - [[WPF] View, ViewModel Singleton](https://hj0216.tistory.com/917)
 - [[WPF] MVVM 패턴에서의 전체 선택](https://hj0216.tistory.com/919)
+- [\[WPF\] 생성자 단위 초기화와 필드 단위 초기화](https://hj0216.tistory.com/920)
 
 ---
 
@@ -373,6 +374,12 @@ tag:
 ## Improve your .NET code quality with NDepend
 
 - [.NET 8 Top 10 New Features](https://blog.ndepend.com/net-8-top-10-new-features/)
+
+---
+
+## 더블즈비의 기묘한 공방
+
+- [\[C#\] 구조체의 get/set을 조심하자](https://doublsb.tistory.com/m/171)
 
 ---
 

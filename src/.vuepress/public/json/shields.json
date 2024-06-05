@@ -22,6 +22,7 @@
   { "logo": "apollographql", "name": "Apollo%20GraphQL", "colorHex": "E10098" },
   { "logo": "appstore", "name": "App%20Store", "colorHex": "0D96F6" },
   { "logo": "arduino", "name": "Arduino", "colorHex": "00878F" },
+  { "logo": "atlassian", "name": "Atlassian", "colorHex": "0052CC" },
   { "logo": "awesomelists", "name": "Awesome%20Lists", "colorHex": "FC60A8" },
   { "logo": "azureartifacts", "name": "Azure%20Artifacts", "colorHex": "CB2E6D" },
   { "logo": "azuredataexplorer", "name": "Azure%20Dataexplorer", "colorHex": "0078D4" },
