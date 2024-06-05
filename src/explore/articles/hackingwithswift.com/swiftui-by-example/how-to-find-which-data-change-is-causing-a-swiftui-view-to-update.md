@@ -169,8 +169,6 @@ struct ContentView: View {
 
 :::
 
-
-
 ---
 
 <TagLinks />

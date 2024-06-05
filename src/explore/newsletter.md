@@ -164,6 +164,15 @@ tag:
 
 ```component VPCard
 {
+  "title": "Awesome Java Projects",
+  "desc": "This is a list of repositories sorted by GitHub stars.",
+  "link": "https://awesomejava.resamvi.io/",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "FreeFrontend",
   "desc": "Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles.",
   "link": "https://freefrontend.com/",
@@ -648,25 +657,19 @@ https://gracefullight.dev/archive/
 }
 ```
 
-```component VPCard
-{
-  "title": "DigitalOcean | Cloud Infrastructure for Developers",
-  "desc": "An ocean of simple, scalable cloud solutions.",
-  "link": "https://digitalocean.com/community/tutorials",
-  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
-  "background": "rgba(29,55,209,0.2)"
-}
-```
+<SiteInfo
+  name="DigitalOcean | Cloud Infrastructure for Developers"
+  desc="An ocean of simple, scalable cloud solutions."
+  url="https://digitalocean.com/community/tutorials?sort_by=oldest"
+  logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
+  preview="https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg"/>
 
-```component VPCard
-{
-  "title": "Kt. Academy",
-  "desc": "Teaching programming, with focus on the best practices.",
-  "link": "https://kt.academy/article",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
+<SiteInfo
+  name="Kt. Academy"
+  desc="Teaching programming, with focus on the best practices."
+  url="https://kt.academy/article"
+  logo="https://kt.academy/logo.png"
+  preview="https://kt.academy/images/logo_full.png"/>
 
 ```component VPCard
 {
@@ -722,6 +725,16 @@ https://gracefullight.dev/archive/
   logo="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
   preview="https://cdn-images-1.medium.com/v2/resize:fit:2400/1*SUNVx-fZ3AwO13vvCEPqsQ.jpeg"/>
 
+```component VPCard
+{
+  "title": "SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design",
+  "desc": "Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design",
+  "link": "https://www.sitepoint.com/",
+  "logo": "https://www.sitepoint.com/favicons/32x32.png",
+  "background": "rgba(29,32,36,0.2)"
+}
+```
+
 <SiteInfo
   name="Developer Updates - Top Updates for Software Developers"
   desc="Let us keep you updated on everything that is happening in the software development world - deliver the most valuable and up-to-date insights"
@@ -775,6 +788,13 @@ https://gracefullight.dev/archive/
   "background": "rgba(78,156,228,0.2)"
 }
 ```
+
+<SiteInfo
+  name="TechBeamers: Programming & Testing Help"
+  desc="Master Python, Java, C/C++, C# Programming Skills | Learn Testing & Automation Using Selenium With Free Tutorials, Quizzes, and Exercises."
+  url="https://techbeamers.com"
+  logo="https://techbeamers.com/wp-content/uploads/2024/04/cropped-techbeamers-icon-32x32.png"
+  preview="https://techbeamers.com/wp-content/uploads/2023/09/techbeamers_fb.png"/>
 
 <!-- @end Tech Blog -->
 

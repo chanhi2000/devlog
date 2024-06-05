@@ -4,5 +4,10 @@
     "desc": "A lightweight, self-hosted friendly RSS aggregator and reader",
     "officialSite": "",
     "topics": ["rss", "rss-aggregator", "rss-reader", "self-hosted"]
-  }  
+  }, {
+    "repo": "jstrieb/poker-chipper",
+    "desc": "Optimally allocate poker chips using constrained, nonlinear optimization",
+    "officialSite": "https://jstrieb.github.io/poker-chipper/",
+    "topics": ["constraint-programming", "constraint-satisfaction-problem", "optimization", "poker", "scip", "svelte", "web-application", "web-assembly"]
+  }
 ]

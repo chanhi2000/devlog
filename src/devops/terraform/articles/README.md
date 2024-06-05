@@ -4,6 +4,7 @@ title: Article(s)
 description: Terraform > Article(s)
 icon: fas fa-square-share-nodes
 category:
+  - DevOps
   - IaC
   - Terraform
   - Article(s)
@@ -28,9 +29,31 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+```component VPCard
+{
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 [[toc]]
 
----
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Choose the Right IaC Tool – AWS CDK, CloudFormation, and Terraform Compared",
+  "desc": "Infrastructure as Code (IaC) has become a cornerstone of modern cloud resource management. It enables developers and engineers to manage their cloud resources with the same level of control and precision as application code.  When you're working with AWS, among the tools at the forefront of utilizing IaC are...",
+  "link": "/explore/articles/freecodecamp.org/comparing-iac-tools-aws-cdk-cloudformation-terraform.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 

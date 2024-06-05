@@ -65,6 +65,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Practical Guide to Linear Algebra in Data Science and AI",
+  "desc": "'In God we trust; all others bring data.' – W. Edwards Deming This famous quote from Edwards Deming perfectly captures the essence of modern Data Science and AI.  Data is the lifeblood of Data Science and AI fields – Machine Learning, Deep Learning, Generative AI and much more...",
+  "link": "/explore/articles/freecodecamp.org/linear-algebra-roadmap.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 <TagLinks />

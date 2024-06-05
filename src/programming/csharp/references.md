@@ -23,6 +23,7 @@ tag:
 
 ### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
+- [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)
 - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
 - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8)
 - [.NET 8 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-8-networking-improvements)
@@ -67,6 +68,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`bytehide` / Leaked .NET 8 Features! 5 New Cool Things Added](https://dev.to/bytehide/leaked-net-8-features-5-new-cool-things-added-1gmm)
 - [`sukkergris` / Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
 - [`adrianbailador` / Design Patterns in C#](https://dev.to/adrianbailador/design-patterns-in-c-n9)
 - [`turalsuleymani` / C# Delegates In Practice — Implementing Observer Pattern With Delegates](https://dev.to/turalsuleymani/c-delegates-in-practice-implementing-observer-pattern-with-delegates-54dh)
@@ -353,6 +355,24 @@ tag:
 ## ServiceStack
 
 - [.NET 8's Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
+
+---
+
+## Blog posts on .NET Software Development, C#, and Debugging | Michael's Coding Spot
+
+- [Premature Infrastructure is the Root of All Evil](https://michaelscodingspot.com/premature-infrastructure-is-evil/)
+
+---
+
+## PVS‑Studio is a solution to enhance code quality, security (SAST), and safety
+
+- [What's new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
+
+---
+
+## Improve your .NET code quality with NDepend
+
+- [.NET 8 Top 10 New Features](https://blog.ndepend.com/net-8-top-10-new-features/)
 
 ---
 

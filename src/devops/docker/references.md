@@ -307,4 +307,29 @@ tag:
 
 ---
 
+## 개발자스럽다
+
+- [Windows에서 Docker 공유 드라이브가 끊어지는 문제 해결 방법](https://blog.gaerae.com/2019/03/configuring-docker-for-windows-volumes.html)
+- [Docker for Windows 설치 및 문제 해결](https://blog.gaerae.com/2019/04/docker-for-windows-troubleshooting.html)
+
+---
+
+## MentorCruise - Connecting Mentors & Mentees
+
+- [How to Dockerize a React App and Deploy It Easily](https://mentorcruise.com/blog/how-to-dockerize-a-react-app-and-deploy-it-easily)
+
+---
+
+## Piotr's TechBlog
+
+- [Slim Docker Images for Java](https://piotrminkowski.com/2023/11/07/slim-docker-images-for-java/)
+
+---
+
+## blog.neater-hut
+
+- [How to deploy conda-based docker images](https://blog.neater-hut.com/how-to-deploy-conda-based-docker-images.html)
+
+---
+
 <TagLinks />

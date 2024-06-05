@@ -59,11 +59,15 @@ export const navbarEn = navbar([
           '/academics/MATH011/README.md'
         ]
       }, {
+        text: 'Physics',
+        icon: 'fas fa-atom',
+        children: [
+          '/academics/phys/README.md',
+          '/academics/PHYS034/README.md'
+        ]
+      }, {
         text: 'COEN020',
         link: '/academics/COEN020/README.md'
-      }, {
-        text: 'PHYS034',
-        link: '/academics/PHYS034/README.md'
       }
     ],
   }, {

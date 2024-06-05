@@ -26,4 +26,10 @@ tag:
 
 ---
 
+## Marcus Lewis
+
+- [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html?)
+
+---
+
 <TagLinks />

@@ -4,6 +4,7 @@ title: Youtube
 description: Terraform > Youtube
 icon: fa-brands fa-youtube
 category: 
+  - DevOps
   - IaC
   - Terraform
   - Youtube

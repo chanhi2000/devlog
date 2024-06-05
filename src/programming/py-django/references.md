@@ -44,6 +44,12 @@ tag:
 
 ---
 
+## Django Beats
+
+- [New goodies in Django 5.0](https://fly.io/django-beats/new-goodies-in-django-50/)
+
+---
+
 ## Gonçalo Valério
 
 - [Filter sensitive contents from Django’s error reports](https://blog.ovalerio.net/archives/2756)
@@ -136,6 +142,12 @@ tag:
 ## Idiomatic Programmers
 
 - [Adding Full Text Search to Your Django App with django-watson](https://idiomaticprogrammers.com/post/django-watson-full-text-search-guide/)
+
+---
+
+## Sarah Abderemane's Website
+
+- [TIL: Django constraints](https://sarahabd.com/til/django-constraints)
 
 ---
 

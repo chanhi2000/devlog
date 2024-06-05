@@ -363,7 +363,7 @@ tag:
 
 - [Guardrails for PromQL using Semgrep](https://semgrep.dev/blog/2023/promql-and-semgrep)
 
-----
+---
 
 ## PRAVESH KOIRALA
 
@@ -455,6 +455,7 @@ tag:
 
 ## Python⇒Speed
 
+- [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size)
 - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2)
@@ -491,6 +492,7 @@ tag:
 
 ## Max Bernstein
 
+- [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 - [Type information for faster Python C extensions](https://bernsteinbear.com/blog/typed-c-extensions/)
 - [Building a small REPL in Python](https://bernsteinbear.com/blog/simple-python-repl/)
 - [`scrapscript.py`](https://bernsteinbear.com/blog/scrapscript/)
@@ -766,6 +768,7 @@ tag:
 
 ## TestDriven.io
 
+- [Developing an Asynchronous Task Queue in Python](https://testdriven.io/blog/developing-an-asynchronous-task-queue-in-python)
 - [Postgres vs. DynamoDB: Which Database to Choose](https://testdriven.io/blog/postgres-vs-dynamodb/)
 - [Building a Single Page Application with Python and Pyodide - Part 2](https://testdriven.io/blog/build-spa-with-python-part-2/)
 - [How Are Requests Processed in Flask?](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
@@ -790,12 +793,14 @@ tag:
 
 ## Ned Batchelder
 
+- [Say it again: values not expressions](https://nedbatchelder.com/blog/202311/say_it_again_values_not_expressions.html)
 - [Does Python have pointers?](https://nedbatchelder.com/blog/202403/does_python_have_pointers.html)
 
 ---
 
 ## mathspp
 
+- [Building a Python compiler and interpreter](https://mathspp.com/blog/building-a-python-compiler-and-interpreter)
 - [5 ways to flatten a list of lists](https://mathspp.com/blog/5-ways-to-flatten-a-list-of-lists)
 - [Python's soft keywords](https://mathspp.com/blog/til/pythons-soft-keywords)
 - [`max` is broken](https://mathspp.com/blog/max-is-broken)
@@ -1271,6 +1276,7 @@ tag:
 
 ## TechBeamers: Programming & Testing Help
 
+- [Higher Order Functions in Python](https://techbeamers.com/higher-order-functions-in-python/)
 - [How Do You Filter a List in Python?](https://techbeamers.com/how-do-you-filter-a-list-in-python)
 
 ---
@@ -1343,6 +1349,7 @@ tag:
 
 ## Stack Abuse
 
+- [Guide to Hash Tables in Python](https://stackabuse.com/hash-tables-in-python/)
 - [Guide to Queues in Python](https://stackabuse.com/guide-to-queues-in-python/)
 
 ---
@@ -1353,12 +1360,46 @@ tag:
 
 ---
 
-## Ned Batchelder
+## Arun Mani J
 
-- [Say it again: values not expressions](https://nedbatchelder.com/blog/202311/say_it_again_values_not_expressions.html)
+- [Let's Make A Silly JSON-like Parser](https://arunmani.in/articles/silly-json-parser/)
 
 ---
 
+## lander's posts
 
+- [Deobfuscating World of Warships' Python Scripts](https://landaire.net/world-of-warships-deobfuscation)
+
+---
+
+## eddieantonio/blog
+
+- [{n} times faster than C ...with Python](https://eddieantonio.ca/blog/2023/07/12/faster-than-c-with-python)
+
+---
+
+## Monadical Consulting
+
+- [From Chaos to Cohesion: Architecting Your Own Monorepo](https://monadical.com/posts/from-chaos-to-cohesion.html)
+
+---
+
+## sidsite
+
+- [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
+
+---
+
+## quanttype
+
+- [Do not use `requirements.txt`](https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html)
+
+---
+
+## Continuous Integration & Delivery - Semaphore
+
+- [Building Custom Middleware in FastAPI](https://semaphoreci.com/blog/custom-middleware-fastapi)
+
+---
 
 <TagLinks />

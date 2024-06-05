@@ -476,6 +476,7 @@ export const sidebarEn = sidebar({
             asb.woowahan("js-react"),
             asb.gmarket("js-react"),
             asb.zuminternet("js-react"),
+            asb.sitepoint("js-react"),
           ]
         }
       ]
@@ -560,6 +561,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-next/articles/README.md',
+            asb.freecodecamp("js-next"),
             asb.yozm("js-next"),
           ]
         }
@@ -613,6 +615,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-supabase/articles/README.md',
+            asb.freecodecamp("js-supabase"),
             asb.zuminternet("js-supabase"),
           ]
         }
@@ -1952,6 +1955,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/terraform/articles/README.md',
+            asb.freecodecamp("terraform"),
           ]
         }
       ]
@@ -2567,6 +2571,7 @@ export const sidebarEn = sidebar({
           children: [
             '/ai/articles/README.md',
             asb.smashingmagazion("ai"),
+            asb.yozm("ai"),
           ]
         }
       ],
@@ -2614,6 +2619,16 @@ export const sidebarEn = sidebar({
         '/ai/llm/README.md',
         '/ai/llm/references.md',
         '/ai/llm/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/llm/articles/README.md',
+            asb.freecodecamp("llm"),
+            asb.yozm("llm"),
+          ]
+        }
       ]
     }, {
       text: 'Gemini',
@@ -2935,6 +2950,23 @@ export const sidebarEn = sidebar({
           children: [
             '/academics/math/articles/README.md',
             asb.freecodecamp("math"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Physics',
+      collapsible: true,
+      icon: 'fas fa-atom',
+      children: [
+        '/academics/phys/README.md',
+        '/academics/phys/references.md',
+        '/academics/phys/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/academics/phys/articles/README.md',
           ]
         }
       ]

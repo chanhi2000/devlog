@@ -27,10 +27,6 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-[[toc]]
-
----
-
 ```component VPCard
 {
   "title": "HACKING WITH SWIFT",
@@ -41,7 +37,11 @@ head:
 }
 ```
 
+[[toc]]
+
 ---
+
+SwiftUI by Example is the world's largest collection of SwiftUI examples, tips, and techniques giving you almost 600 pages of hands-on code to help you build apps, solve problems, and understand how SwiftUI really works.
 
 ::: details Introduction
 
@@ -2537,7 +2537,15 @@ Move your user from one view to another
 }
 ```
 
-- How to tell the user that no content is available
+```component VPCard
+{
+  "title": "How to tell the user that no content is available | SwiftUI by Example",
+  "desc": "How to tell the user that no content is available",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-tell-the-user-that-no-content-is-available.md.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

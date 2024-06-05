@@ -4,6 +4,7 @@ title: References
 description: Terraform > References
 icon: iconfont icon-share
 category:
+  - DevOps
   - IaC
   - Terraform
   - References

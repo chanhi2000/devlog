@@ -61,6 +61,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build and Deploy a Smart Contract With Rust and the Gear Protocol",
+  "desc": "Smart contracts are like digital agreements that run on blockchain technology, making transactions automatic and secure. While many people use Ethereum and Solidity to create these contracts, there are other options that can be just as powerful.  One great combination is using Rust with the Gear Protocol. In this...",
+  "link": "/explore/articles/freecodecamp.org/build-and-deploy-smart-contract-rust-gear-protocol.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 <TagLinks />

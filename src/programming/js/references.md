@@ -382,4 +382,12 @@ tag:
 
 - [조금 더 안전한 랜덤 숫자(의사 난수) 생성할려고 했던 얘기](https://luckyyowu.tistory.com/m/406)
 
+---
+
+## Alan Norbauer
+
+- [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
+
+---
+
 <TagLinks />

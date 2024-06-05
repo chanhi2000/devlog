@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - smashingmagazine.com
+  - yozm.wishket.com
   - ai
   - diffusion-model
   - machine-learning
@@ -34,6 +35,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -49,6 +60,22 @@ head:
   "link": "/explore/articles/smashingmagazine.com/harness-mouse-interaction-data-machine-learning.md",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
+}
+```
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "‘머신러닝’ 기초 지식 톺아보기 | 요즘IT",
+  "desc": "‘머신러닝’ 기초 지식 톺아보기",
+  "link": "/explore/articles/yozm.wishket.com/2611.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 

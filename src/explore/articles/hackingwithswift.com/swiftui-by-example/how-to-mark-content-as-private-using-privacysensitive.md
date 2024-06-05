@@ -147,7 +147,15 @@ Sometimes the system will apply privacy redaction automatically, such as if your
 }
 ```
 
-- How to tell the user that no content is available
+```component VPCard
+{
+  "title": "How to tell the user that no content is available | SwiftUI by Example",
+  "desc": "How to tell the user that no content is available",
+  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-tell-the-user-that-no-content-is-available.md.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

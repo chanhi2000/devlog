@@ -38,15 +38,12 @@ head:
 }
 ```
 
-```component VPCard
-{
-  "title": "DigitalOcean | Cloud Infrastructure for Developers",
-  "desc": "An ocean of simple, scalable cloud solutions.",
-  "link": "https://digitalocean.com/community/tutorials",
-  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
-  "background": "rgba(29,55,209,0.2)"
-}
-```
+<SiteInfo
+  name="DigitalOcean | Cloud Infrastructure for Developers"
+  desc="An ocean of simple, scalable cloud solutions."
+  url="https://digitalocean.com/community/tutorials?sort_by=oldest"
+  logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
+  preview="https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg"/>
 
 ```component VPCard
 {
@@ -139,8 +136,38 @@ head:
 ```component VPCard
 {
   "title": "How to Install Python on a Mac",
-  "desc": "Python is the most popular first language for programmers on a Mac. Until recently, the language's lack of standard development tooling, plus competing optional-but-essential development tools, meant a rocky start for Python beginners.  To cut through the confusion, I'll show you an up-to-date approach to install Python and set",
+  "desc": "Python is the most popular first language for programmers on a Mac. Until recently, the language's lack of standard development tooling, plus competing optional-but-essential development tools, meant a rocky start for Python beginners.  To cut through the confusion, I'll show you an up-to-date approach to install Python and set...",
   "link": "/explore/articles/freecodecamp.org/how-to-install-python-on-a-mac.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use AI to Automate Unit Testing with TestGen-LLM and Cover-Agent",
+  "desc": "PytIt's important to write clear and efficient unit tests that actually work during the software development process. Unit tests separate out individual code elements and confirm that they work as intended.  Effective unit tests not only catch errors but also help you be confident that your code can be...",
+  "link": "/explore/articles/freecodecamp.org/automated-unit-testing-with-testgen-llm-and-cover-agent.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Applied Data Science with Python – Business Intelligence for Developers [Full Book]",
+  "desc": "In the high-stakes game of modern business, data isn't just an asset – it's the power you need to outpace your competition. But as a developer, you know that turning raw data into actionable insights can be a frustrating battle. Imagine having the power to effortlessly transform raw data into...",
+  "link": "/explore/articles/freecodecamp.org/applied-data-science-with-python-book.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Python Coding Challenges For Beginner Developers – Code and Explanations",
+  "desc": "Learning Python can be challenging, especially if you're not actually writing enough code. As a beginner, you may go through lessons and tutorials without practicing on your own – and this makes it harder to learn the language. The truth is, you cannot truly learn programming without writing code. It...",
+  "link": "/explore/articles/freecodecamp.org/python-coding-challenges-for-beginners.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

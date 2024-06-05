@@ -22,6 +22,8 @@ head:
       content: How to fix “Function declares an opaque return type, but has no return statements in its body from which to infer an underlying type”
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-fix-function-declares-an-opaque-return-type-but-has-no-return-statements-in-its-body-from-which-to-infer-an-underlying-type.html
+date: 2022-12-01
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련

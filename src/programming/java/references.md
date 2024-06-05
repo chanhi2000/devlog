@@ -434,7 +434,7 @@ tag:
 ### Penna
 
 - [Performance insights: Guards, Time and Modern Java Features](https://hkupty.github.io/penna/blog/performance-insights-branchless)
- 
+
 ### Mimul - Software Engineer, Blogger, Biker
 
 - [서비스 가용성 확보에 필요한 Rate Limiting Algorithm에 대해](https://www.mimul.com/blog/about-rate-limit-algorithm/)
@@ -617,7 +617,7 @@ tag:
 ### Kt.academy
 
 - [Static Code Analysers](/explore/articles/kt.academy/ak-static-analysis.md)
-- [Exercise: Implement shop functions](https://kt.academy/article/e_shop_functions)
+- [Exercise: Implement shop functions](https://kt.academy/article/e_shop_functions) <!-- TODO: 작성 (/explore/articles/kt.academy/e-shop-functions.md) -->
 - [Item 28: Consider wrapping external APIs](/explore/articles/kt.academy/ek-wrapping-api.md)
 
 ### zsmb.co
@@ -678,6 +678,10 @@ tag:
 ### Handstand Sam – Sam Edwards – Handstands, Travel, Android & Web
 
 - [Kotlin K2 FIR Quickstart Guide](https://handstandsam.com/2024/05/30/kotlin-k2-fir-quickstart-guide/)
+
+### Donovan LaDuke - Developer
+
+- [Reactive Programming in Kotlin - The Paradigm](https://dladukedev.com/articles/018_functional_reactive_programming)
 
 ---
 

@@ -201,6 +201,14 @@ tag:
 
 ---
 
+## 개발자스럽다
+
+- [Windows에서 Docker 공유 드라이브가 끊어지는 문제 해결 방법](https://blog.gaerae.com/2019/03/configuring-docker-for-windows-volumes.html)
+- [Windows 10에 Hyper-V 설치 및 문제 해결](https://blog.gaerae.com/2019/04/hyper-v-troubleshooting.html)
+- [Docker for Windows 설치 및 문제 해결](https://blog.gaerae.com/2019/04/docker-for-windows-troubleshooting.html)
+
+---
+
 ## Misc
 
 - [DiskClick](https://deervo.itch.io/diskclick)

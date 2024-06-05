@@ -18,6 +18,9 @@ tag:
   - aws-eks
   - eks-cluster
   - aws-cdk
+  - hashicorp
+  - terraform
+  - hcl
 head:
   - - meta:
     - property: og:title

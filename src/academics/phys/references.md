@@ -1,0 +1,503 @@
+---
+lang: ko-KR
+title: References
+description: Physics > References
+icon: iconfont icon-share
+category: 
+  - Physics
+  - Science
+  - References
+tag:
+  - physics
+  - phys
+  - science
+  - ebooks
+  - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: General > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/academics/phys/references.html
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+![The Periodic Table of the Elements, in Pictures and Words (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Pics_w2000.png) 
+<!-- TODO: 로컬에 저장 -->
+
+![The Periodic Table of the Elements, in Words, (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Words_w2000.png) 
+<!-- TODO: 로컬에 저장 -->
+
+---
+
+## EBooks
+
+- [Calculating Logarithms By Hand](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
+- [On the dimensionality of spacetime](https://space.mit.edu/home/tegmark/dimensions.pdf)
+- [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
+- [CS251 - Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
+
+---
+
+## Pdf(s)
+
+<PDF url="https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf" />
+<PDF url="https://www.wescottdesign.com/articles/Sampling/sampling.pdf" />
+<PDF url="https://projectivegeometricalgebra.org/projgeomalg.pdf" />
+<PDF url="https://projectivegeometricalgebra.org/confgeomalg.pdf" />
+<PDF url="https://www.ams.org/journals/notices/202404/rnoti-p444.pdf" />
+
+---
+
+## Google Research
+
+- [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
+
+---
+
+## Bionic
+
+- [과학을 위한 연산](https://boinc.berkeley.edu/index.php)
+
+---
+
+## Substack
+
+- [`photonlines` / An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations) <!-- TODO: /academics/phys 이동 -->
+
+---
+
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@ksh4704` - 코드스테이츠-부트캠프 \[자료구조/알고리즘\]\(2\)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%982)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [소프트웨어 개발 방법론]](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [Rest API]](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84Rest-API)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [UX/UI]-Design System(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84UXUI-Design-System1)
+- [`@ksh4704` - 코드스테이츠-부트캠프 [UX/UI]-Design System(2)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84UXUI-Design-System2)
+- [`@euisuk-chung` / 신호처리 및 푸리에 변환](https://velog.io/@euisuk-chung/%EC%8B%A0%ED%98%B8%EC%B2%98%EB%A6%AC-%EB%B0%8F-%ED%91%B8%EB%A6%AC%EC%97%90-%EB%B3%80%ED%99%98)
+
+---
+
+## <FontIcon icon="iconfont icon-blex"/>BLEX
+
+- [`@mildsalmon` - 피보나치 수열](https://blex.me/@mildsalmon/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98%EC%97%B4)
+
+---
+
+## Hazy Research
+
+- [Learning from DNA: a grand challenge in biology](https://hazyresearch.stanford.edu/blog/2024-03-14-evo)
+
+---
+
+## Johns Hopkins Poker Course
+
+- [Johns Hopkins Poker Course](https://hopkinspokercourse.com/)
+
+---
+
+## UC Riverside
+
+- [The Beauty of Roots](https://math.ucr.edu/home/baez/roots/)
+
+---
+
+## Extreme Learning
+
+- [How to generate uniformly random points on n-spheres and in n-balls](https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/)
+
+---
+
+## <FontIcon icon="fa-brands fa-stack-exchange"/>StackExchange
+
+### Physics
+
+- [Can tin foil hats block anything?](https://physics.stackexchange.com/questions/208516/can-tin-foil-hats-block-anything)
+- [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
+
+### Statistics
+
+- [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
+
+---
+
+## Andrew Chan
+
+- [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
+
+---
+
+## Greg Egan
+
+- [Foundations](https://www.gregegan.net/FOUNDATIONS/)
+
+---
+
+## Construction Physics
+
+- [The Technological Innovations that Produced the Shale Revolution](https://www.construction-physics.com/p/the-technological-innovations-that)
+
+---
+
+## hackerllama
+
+- [The Random Transformer](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
+
+---
+
+## Jonathan Warden's Blog
+
+- [Understanding Bridge-Based Ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
+
+---
+
+## orlp.net
+
+- [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
+
+---
+
+## ACS
+
+- [Periodic Table Gallery](https://www.acs.org/education/whatischemistry/periodictable/periodic-table-gallery.html)
+
+---
+
+## manifest ai
+
+- [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
+
+---
+
+## Abacus: Mystery of the bead 
+
+- [The Bead Unbaffled - Totton Heffelfinger & Gary Flom](http://totton.idirect.com/abacus/pages.htm)
+
+---
+
+## Nosferalatu
+
+- [Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
+
+---
+
+## Tony Finch
+
+- [2024-01-29 – Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
+
+---
+
+## The Kalman Filter
+
+- [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
+
+---
+
+## srush
+
+- [The Annotated S4](https://srush.github.io/annotated-s4/)
+
+---
+
+## Bill Wadge
+
+- [The Rise and Fall of GOFAI](https://billwadge.com/2024/02/12/the-rise-and-fall-of-gofai/)
+
+---
+
+## Quanta Magazine
+
+- [Inside the Proton, the 'Most Complicated Thing You Could Possibly Imagine'](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- [Elliptic Curve 'Murmurations' Found With AI Take Flight](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/)
+
+---
+
+## Azimuth
+
+- [Well Temperaments (Part 5)](https://johncarlosbaez.wordpress.com/2024/02/19/well-temperaments-part-5/)
+
+---
+
+## falstad
+
+- [Math, Physics, and Engineering Applets](https://falstad.com/mathphysics.html)
+
+---
+
+## Key Material 
+
+- [Lattices vs Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
+
+---
+
+## Science Advances
+
+- [Anomalous cooling of bosons by dimensional reduction](https://www.science.org/doi/10.1126/sciadv.adk6870)
+
+---
+
+## HILLEL WAYNE
+
+- [The "missing" graph datatype already exists. It was invented in the '70s](https://tylerhou.com/posts/datalog-go-brrr/)
+
+---
+
+## Algeo
+
+- [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
+
+---
+
+## WorldBuilding Pasta
+
+- [HURRIED THOUGHTS: YOU'RE WRONG ABOUT TIDAL-LOCKING](https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html)
+
+---
+
+## Plus, bringing Physics to life
+
+- [Take a break by Emily Dixon](https://plus.maths.org/content/take-break)
+
+---
+
+## Extropic
+
+- [Ushering in the Thermodynamic Future](https://www.extropic.ai/future)
+
+---
+
+## Jed Margolin
+
+- [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
+
+---
+
+## Border Guards
+
+- [Quantum Soccer](https://www.gregegan.net/BORDER/Soccer/Soccer.html)
+
+---
+
+## James Somers
+
+- [The Baffling Intelligence of a Single Cell](https://jsomers.net/e-coli-chemotaxis/)
+
+---
+
+## 다빈치코딩
+
+- [2019년 정보올림피아드 필기 중등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/120)
+- [2020년 정보올림피아드 필기 초등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/123)
+- [2020년 정보올림피아드 필기 초등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/124)
+- [2021년 정보올림피아드 필기 초등부(1 ~ 5)](https://davincicoding.tistory.com/125)
+- [2021년 정보올림피아드 필기 초등부(11 ~ 15)](https://davincicoding.tistory.com/128)
+- [2021년 정보올림피아드 필기 초등부(16 ~ 20)](https://davincicoding.tistory.com/129)
+- [2020년 정보올림피아드 필기 중등부(2-4 ~ 2-8)](https://davincicoding.tistory.com/142)
+- [2020년 정보올림피아드 필기 중등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/141)
+- [2021년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/143)
+- [부동소수점 이해하기](https://davincicoding.tistory.com/144)
+- [2021년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/145)
+- [2021년 정보올림피아드 필기 중등부(11 ~ 15)](https://davincicoding.tistory.com/146)
+- [2022년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/149)
+- [2022년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/148)
+- [2021년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/147)
+- [2022년 정보올림피아드 필기 중등부(11 ~ 15)](https://davincicoding.tistory.com/150)
+- [2022년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/151)
+- [2023년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/152)
+- [2023년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/153)
+- [2023년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/155)
+---
+
+## Max Slater
+
+- [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
+
+---
+
+## Sorta Insightful
+
+- [Solving Crew Battle Strategy With Math](https://www.alexirpan.com/2024/03/23/crew-battle.html)
+
+---
+
+## arXiv.org
+
+- [Tilman Sauer: Marcel Grossmann and his contribution to the general theory of relativity](https://ar5iv.labs.arxiv.org/html/1312.4068)
+
+---
+
+## Bartosz Ciechanowski
+
+- [Airfoil](https://ciechanow.ski/airfoil/)
+
+---
+
+## 자바실험실
+
+- [이온의 이동](https://javalab.org/ion_movement/)
+- [비디오 운동 분석 (Motion Shot) – 베타 버전](https://javalab.org/motion_shot/)
+- [같은 회로](https://javalab.org/same_circuit/)
+- [자유 낙하 실험](https://javalab.org/free_falling/)
+- [광학 실험 시뮬레이터](https://javalab.org/optics/)
+
+---
+
+## pizzathief
+
+- [Conformal Prediction으로 모델의 불확실성 계산하기](https://pizzathiefz.github.io/posts/introduction-to-conformal-prediction/)
+
+---
+
+## Developer's Delight
+
+- [희소행렬을 효율적으로 저장하는 COO, CSR 형식](https://sonseungha.tistory.com/711)
+
+---
+
+## Frank's Ramblings
+
+- [Vision Transformers are Overrated](https://frankzliu.com/blog/vision-transformers-are-overrated)
+
+---
+
+## foreXiv
+
+- [Legendre transform](https://blog.jessriedel.com/2017/06/28/legendre-transform/)
+
+---
+
+## Infinitely More
+
+- [Structuralism](https://www.infinitelymore.xyz/p/structuralism)
+
+---
+
+## Marvin Borner
+
+- [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
+
+---
+
+## Minus Zero
+
+- [Flattening Bézier Curves and Arcs](https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/)
+
+---
+
+## 기계인간 John Grib
+
+- [Cardinality](https://johngrib.github.io/wiki/database/cardinality/)
+
+---
+
+## 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔
+
+- [#2. 반도체 수율 (제조업 공통) 한 방에 정리!!](https://topnanis.tistory.com/245)
+- [#1. 반도체 공정이란 (반도체 8대 공정 + 패키징 공정 추가)](https://topnanis.tistory.com/244)
+- [#0. 강의소개_반도체는 과연 무엇일까? (+ 패키징 반도체 비법 과외교실 소개)](https://topnanis.tistory.com/243)
+
+---
+
+## Phillip Tennen
+
+- [Building a GPS Receiver, Part 1: Hearing Whispers](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
+
+---
+
+## Cambridge University
+
+- [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
+
+---
+
+## 게으른맽랩 lazy matlab
+
+- [타원, 케플러, 궤도운동](https://lazymatlab.tistory.com/228)
+- [힘이 축에 대해 가하는 모멘트 계산하기](https://lazymatlab.tistory.com/229)
+
+---
+
+## MachBase
+
+- [마크베이스 네오를 활용한 실시간 고속 푸리에 변환 (FFT : Fast Fourier Transformation)](https://www.machbase.com/post/machbase-neo-tsdb-fft-analytics)
+
+---
+
+## Be an Overachiever
+
+- [L1, L2 Regularization](https://devs0n.tistory.com/164)
+- [Dijkstra 알고리즘 문제 유형](https://devs0n.tistory.com/173)
+- [앙상블 기법](https://devs0n.tistory.com/174)
+
+---
+
+## Some Random Posts
+
+- [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
+
+---
+
+## The Universes of Max Tegmark
+
+- [Welcome to the Feynman Symbolic Regression Database!](https://space.mit.edu/home/tegmark/aifeynman.html)
+
+---
+
+## Needlessly complex
+
+- [Unprojecting text with ellipses](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
+
+---
+
+## Ryan Marcus · UPenn
+
+- [Overflow in consistent hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
+
+---
+
+## Nathan Rooy
+
+- [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender)
+
+---
+
+## 안수빈의 블로그
+
+- [[연구자로 성장하기] Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기)](https://subinium.github.io/kep-vcc2020-review)
+
+---
+
+## 오늘도 개발로그
+
+- [[백준 17404번] RGB거리 2](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17404%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC-2)
+- [[백준 10021번] Watering the Fields](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-10021%EB%B2%88-watering-the-fields)
+- [[백준 17086번] 아기 상어 2](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17086%EB%B2%88-%EC%95%84%EA%B8%B0-%EC%83%81%EC%96%B4-2)
+
+---
+
+## sligocki
+
+- [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
+
+---
+
+## 드프 DrawingProcess
+
+- [[Paper] Academic 논문 쓰기 가이드라인](https://csj000714.tistory.com/1113)
+
+---
+
+## Warehouse of PKI
+
+- [RSA 개인키 특성](https://jykim74.tistory.com/275)
+
+---
+
+<TagLinks />

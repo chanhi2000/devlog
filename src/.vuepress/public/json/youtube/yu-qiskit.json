@@ -2,8 +2,8 @@
   "channel": {
     "id": "qiskit",
     "name": "Qiskit",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZRi5PpXP8PIa1hh3bo7B5-DNFuij7NY7p5tcTpg=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/MbxyM1WRigfFosBJ8hj1bX1Fn1Hmc4bmA0LRn47nlKby7am1HHq6JT4--xECIzfRnZVkqh-WraY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/mBeBCw-OeX3gqZX2r0IwwCctQYSyRUb1bqppQiAQ-6qvlPoTxBO1cBXBw8BIJWYXjHy20jddwA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xdx7Ig4Q4oob2mj6iVk18Qx-YNLhn6p1xOGMy4nQs-JRJkXEBIhonBvrO8j2EooAydlHiqlsDA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "ArisYJQwOSY", "title": "Efficient classical shadow tomography with number conservation with Anushya Chandran" },

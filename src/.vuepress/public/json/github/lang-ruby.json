@@ -11,9 +11,9 @@
     "topics": ["ruby;rails;docker;security;containers;docker-distribution"]
   }, {
     "repo": "chatwoot/chatwoot",
-    "desc": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "desc": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
     "officialSite": "https://www.chatwoot.com/help-center",
-    "topics": ["javascript;heroku;rails;sass;docker;design;zendesk;vuejs;opensource;dashboard;docker-image;customer-support;conversation;whatsapp;intercom;actioncable;livechat;drift;chat-widget"]
+    "topics": ["actioncable", "chat-widget", "conversation", "customer-support", "dashboard", "design", "docker", "docker-image", "drift", "heroku", "intercom", "javascript", "livechat", "opensource", "rails", "ruby", "sass", "vuejs", "whatsapp", "zendesk"]
   }, {
     "repo": "apple/homebrew-apple",
     "desc": "",

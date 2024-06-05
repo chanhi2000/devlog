@@ -76,6 +76,7 @@ head:
 
 ## Blog - LINE ENGINEERING
 
+- [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/6-practices-of-reducing-line-infra-costs.md) -->
 - [120가지 사용자 행동 분석을 자동화할 수 있는 '데이터 제품' 만들기](https://engineering.linecorp.com/ko/blog/data-analytics-platform-lua-analytics) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/data-analytics-platform-lua-analytics.md) -->
 - [그것이 알고 싶다 - 왜 개발자는 글을 못 쓸까?](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/why-are-engineers-so-bad-at-writing.md) -->
 
@@ -134,19 +135,20 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
-- [`towardsdatascience` / Ace the System Design Interview — Uber/Lyft](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3#gaerae.com) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/ace-the-system-design-interview-uber-lyft.md) -->
+- [`towardsdatascience` / Ace the System Design Interview — Uber/Lyft](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/ace-the-system-design-interview-uber-lyft.md) -->
 - [`coupang-engineering` / 캐시를 활용한 대용량 트래픽 처리 성능 향상](https://medium.com/coupang-engineering/%EC%BA%90%EC%8B%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-a274f4731d07#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)- [`coupang-engineering` / 대용량 트래픽 처리를 위한 쿠팡의 백엔드 전략](https://medium.com/coupang-engineering/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%A0%84%EB%9E%B5-184f7fdb1367#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
-- [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258#gaerae.com)
+- [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258)
 - [`@mananshah3654` / A Brief History of Airbnb’s Architecture](https://medium.com/@mananshah3654/a-brief-history-of-airbnbs-architecture-bce6d0405f9c)
 - [`daangn` / 커뮤니티실 API Design-First 접근방식 정착기](https://medium.com/daangn/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%8B%A4-api-design-first-%EC%A0%91%EA%B7%BC%EB%B0%A9%EC%8B%9D-%EC%A0%95%EC%B0%A9%EA%B8%B0-cecca0a37c05)
 - [`chubernetes` / Evolution of Monolithic Systems](https://chubernetes.com/evolution-of-monolithic-systems-c20156f06907)
-- [`interviewnoodle` / Instagram System Architecture](https://interviewnoodle.com/instagram-system-architecture-fdbec22e48ee#gaerae.com)
-- [`netflixtechblog` / Rapid Event Notification System at Netflix](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1#gaerae.com)
-- [`29cm` / 유저 주문 취소 기능 Java 전환기](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874#gaerae.com)
+- [`interviewnoodle` / Instagram System Architecture](https://interviewnoodle.com/instagram-system-architecture-fdbec22e48ee)
+- [`netflixtechblog` / Rapid Event Notification System at Netflix](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
+- [`29cm` / 유저 주문 취소 기능 Java 전환기](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874)
 - [`dtevangelist` / Event Driven Architecture란?](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
 - [`design-microservices-architecture-with-patterns` / Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 - [`jam2in` / 캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안](https://medium.com/jam2in/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-a4e01132ac03)
 - [`styleshare` / 상품상세페이지 개선해 성과내기](https://medium.com/styleshare/%EC%83%81%ED%92%88%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EC%84%A0%ED%95%B4-%EC%84%B1%EA%B3%BC%EB%82%B4%EA%B8%B0-ae9d5cf651c1)
+- [`watcha` / WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
 
 ---
 
@@ -337,6 +339,18 @@ head:
 ## 세균무기, 지구별에 기록을 남기다!
 
 - [\[화면(상세) 기획\] 이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/m/384)
+
+---
+
+## 개발자스럽다
+
+- [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
+
+---
+
+## Very first of muchtrans
+
+- [What I've learned about accessibility in SPAs](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
 
 ---
 

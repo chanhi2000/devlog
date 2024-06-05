@@ -66,4 +66,10 @@ head:
 
 ---
 
+## miguelgrinberg.com
+
+- [We Have To Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
+
+---
+
 <TagLinks />

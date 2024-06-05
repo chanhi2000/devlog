@@ -4,6 +4,7 @@ title: Terraform
 description: Terraform
 icon: iconfont icon-terraform
 category: 
+  - DevOps
   - IaC
   - Terraform
 tag:

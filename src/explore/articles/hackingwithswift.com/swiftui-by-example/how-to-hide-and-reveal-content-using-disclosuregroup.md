@@ -22,6 +22,8 @@ head:
       content: How to hide and reveal content using DisclosureGroup
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-hide-and-reveal-content-using-disclosuregroup.html
+date: 2022-12-01
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련

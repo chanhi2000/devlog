@@ -55,15 +55,12 @@ head:
 }
 ```
 
-```component VPCard
-{
-  "title": "Kt. Academy",
-  "desc": "Teaching programming, with focus on the best practices.",
-  "link": "https://kt.academy/article",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
+<SiteInfo
+  name="Kt. Academy"
+  desc="Teaching programming, with focus on the best practices."
+  url="https://kt.academy/article"
+  logo="https://kt.academy/logo.png"
+  preview="https://kt.academy/images/logo_full.png"/>
 
 ```component VPCard
 {

@@ -41,6 +41,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`codebeast` / Can Next.js Handle 5000 Pages?](https://dev.to/codebeast/can-nextjs-handle-5000-pages-1ejn)
 - [`danielbergholz` / From Next.js to Rails then Elixir: My journey through React.js burnout](https://dev.to/danielbergholz/from-nextjs-to-rails-then-elixir-my-journey-through-reactjs-burnout-h8d)
 
 ---
@@ -120,6 +121,18 @@ head:
 ## .cult by Honeypot
 
 - [Why Choose Next.js - Top 5 Performance Benefits](https://cult.honeypot.io/reads/top-nextjs-performance-benefits/)
+
+---
+
+## Freelance Full-Stack Developer and Indiepreneur based in Berlin
+
+- [The Rise of Next.js: Why It's the Full-Stack Framework of Choice for Modern Websites](https://www.felixvemmer.com/en/blog/why-next-js)
+
+---
+
+## Ship Modern Full-Stack Web Applications | Epic Web Dev
+
+- [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 
 ---
 

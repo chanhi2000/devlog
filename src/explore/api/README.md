@@ -264,49 +264,44 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+<SiteInfo
+  name="OpenRouter"
+  desc="LLM router and marketplace"
+  url="https://openrouter.ai/"
+  logo="https://openrouter.ai/favicon.ico"
+  preview="https://openrouter.ai/dynamic-og?pathname=default&title=OpenRouter&description=LLM%20router%20and%20marketplace"/>
+
 <!-- @end Programming Tools - General -->
 
 @tab Design & Image
 
-```component VPCard
-{
-  "title": "Font Awesome",
-  "desc": "The internet's icon library + toolkit. Used by millions of designers, devs, & content creators. Open-source. Always free. Always awesome.",
-  "link": "https://fontawesome.com/search",
-  "logo": "https://fontawesome.com/images/favicon/icon.svg",
-  "background": "rgba(255,255,255,0.2)"
-}
-```
+<SiteInfo
+  name="Font Awesome"
+  desc="The internet's icon library + toolkit. Used by millions of designers, devs, & content creators. Open-source. Always free. Always awesome."
+  url="https://fontawesome.com/search"
+  logo="https://fontawesome.com/images/favicon/icon.svg"
+  preview="https://img.fortawesome.com/1ce05b4b/open-graph-search.png"/>
 
-```component VPCard
-{
-  "title": "Iconbuddy — 200K+ open source free svg icons",
-  "desc": "Iconbuddy is a search engine that allows you to search, download, customize, and edit over 200,000 open source svg icons for free.",
-  "link": "https://iconbuddy.app",
-  "logo": "https://c1.tablecdn.com/iconbuddy/iconbuddy-logo.png",
-  "background": "rgba(237,63,99,0.2)"
-}
-```
+<SiteInfo
+  name="Iconbuddy — 200K+ open source free svg icons"
+  desc="Iconbuddy is a search engine that allows you to search, download, customize, and edit over 200,000 open source svg icons for free."
+  url="https://iconbuddy.app"
+  logo="https://c1.tablecdn.com/iconbuddy/iconbuddy-logo.png"
+  preview="https://c1.tablecdn.com/iconbuddy/banner-og.png"/>
 
-```component VPCard
-{
-  "title": "Boxicons : Premium web friendly icons for free",
-  "desc": "Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines",
-  "link": "https://boxicons.com/",
-  "logo": "https://boxicons.com/static/favicon.ico?v=13",
-  "background": "rgba(17,17,17,0.2)"
-}
-```
+<SiteInfo
+  name="Boxicons : Premium web friendly icons for free"
+  desc="Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines"
+  url="https://boxicons.com/"
+  logo="https://boxicons.com/static/favicon.ico?v=13"
+  preview="http://boxicons.com/static/img/og-image.png"/>
 
-```component VPCard
-{
-  "title": "Tabler Icons: 5250+ free vector icons for web design - Tabler: Free and Open-Source HTML Dashboard Template",
-  "desc": "Tabler Icons: 5253 free and open source SVG icons. Customizable size, color and stroke width. Packages for React, SolidJS, Vue, Figma, Svelte and others are available. Icons can be downloaded as PNG, Webfont, PDF or EPS files. All for free!",
-  "link": "https://tabler.io/icons",
-  "logo": "https://tabler.io/favicon.ico",
-  "background": "rgba(34,83,160,0.2)"
-}
-```
+<SiteInfo
+  name="Tabler Icons: 5250+ free vector icons for web design - Tabler: Free and Open-Source HTML Dashboard Template"
+  desc="Tabler Icons: 5253 free and open source SVG icons. Customizable size, color and stroke width. Packages for React, SolidJS, Vue, Figma, Svelte and others are available. Icons can be downloaded as PNG, Webfont, PDF or EPS files. All for free!"
+  url="https://tabler.io/icons"
+  logo="https://tabler.io/favicon.ico"
+  preview="https://tabler.io/icons/opengraph-image-1v9qf3.png?a3eb50029318add4"/>
 
 ```component VPCard
 {

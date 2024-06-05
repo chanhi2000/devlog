@@ -1554,5 +1554,15 @@
     "desc": "A text-first HN client. ",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "projectdiscovery/nuclei",
+    "desc": "Fast and customizable vulnerability scanner based on simple YAML based DSL.",
+    "officialSite": "https://docs.projectdiscovery.io/tools/nuclei",
+    "topics": ["attack-surface", "cve-scanner", "hacktoberfest", "nuclei-engine", "security", "security-scanner", "subdomain-takeover", "vulnerability-assessment", "vulnerability-detection", "vulnerability-scanner"]
+  }, {
+    "repo": "EwenQuim/entropy",
+    "desc": "Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.",
+    "officialSite": "",
+    "topics": ["cli", "entropy", "secrets-detection"]
   }
 ]

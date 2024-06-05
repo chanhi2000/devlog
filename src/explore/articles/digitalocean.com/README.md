@@ -23,15 +23,12 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-```component VPCard
-{
-  "title": "Tutorials | DigitalOcean",
-  "desc": "Follow along with one of our 7,000+ development and sysadmin tutorials.",
-  "link": "https://digitalocean.com/community/tutorials?sort_by=oldest",
-  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
-  "background": "rgba(29,55,209,0.2)"
-}
-```
+<SiteInfo
+  name="DigitalOcean | Cloud Infrastructure for Developers"
+  desc="An ocean of simple, scalable cloud solutions."
+  url="https://digitalocean.com/community/tutorials?sort_by=oldest"
+  logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
+  preview="https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg"/>
 
 [[toc]]
 

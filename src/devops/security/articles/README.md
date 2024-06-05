@@ -41,7 +41,6 @@ head:
 }
 ```
 
-
 ```component VPCard
 {
   "title": "요즘IT", 
@@ -118,6 +117,16 @@ head:
   "title": "‘XZ Utils 백도어 사태’로 살펴보는 공급망 보안 | 요즘IT",
   "desc": "‘XZ Utils 백도어 사태’로 살펴보는 공급망 보안",
   "link": "/explore/articles/yozm.wishket.com/2597.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "LLM을 위협으로부터 지키는 6가지 방법 | 요즘IT",
+  "desc": "LLM을 위협으로부터 지키는 6가지 방법",
+  "link": "/explore/articles/yozm.wishket.com/2610.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

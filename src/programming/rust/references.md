@@ -64,6 +64,12 @@ tag:
 
 ---
 
+## Substack
+
+- [`robertroskam` / 100% test coverage is not enough](https://blog.robertroskam.com/p/100-test-coverage-is-not-enough)
+
+---
+
 ## Loro Blog
 
 - [`crdt-richtext`: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
@@ -302,6 +308,12 @@ tag:
 ## Laurence Tratt
 
 - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+
+---
+
+## eddieantonio/blog
+
+- [{n} times faster than C ...with Python](https://eddieantonio.ca/blog/2023/07/12/faster-than-c-with-python)
 
 ---
 

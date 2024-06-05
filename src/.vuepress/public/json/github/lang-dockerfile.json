@@ -34,5 +34,10 @@
     "desc": "为开发人员分享快速参考备忘清单(速查表)",
     "officialSite": "https://jaywcjlove.github.io/reference",
     "topics": ["cheatsheet", "docker", "javascript", "npm", "npm-package", "reactjs", "references", "semver", "toml", "typescript"]
+  }, {
+    "repo": "Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+    "officialSite": "https://cook.aiursoft.cn",
+    "topics": ["chinese", "cookbook", "cooking", "dishes", "recipes"]
   }
 ]

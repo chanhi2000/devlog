@@ -325,9 +325,7 @@ tag:
 
 ## DigitalOcean
 
-- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
-
-<!-- TODO: 작성 (/explore/articles/digitalocean.com/using-bitwise-operators-in-javascript.md) -->
+- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript) <!-- TODO: 작성 (/explore/articles/digitalocean.com/using-bitwise-operators-in-javascript.md) -->
 
 ---
 
@@ -1103,6 +1101,12 @@ tag:
 ## 신재헌의 블로그
 
 - [`await의` 함정, 숨은 병목을 찾자](https://jaeheon.kr/161)
+
+---
+
+## Evans Library
+
+- [기존의 사고 방식을 깨부수는 함수형 사고](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
 
 ---
 

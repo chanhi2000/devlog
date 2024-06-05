@@ -2030,11 +2030,6 @@
     "topics": [],
     "officialSite": "https://autochain.forethought.ai"
   }, {
-    "repo": "shroominic/codeinterpreter-api",
-    "desc": "Open source implementation of the ChatGPT Code Interpreter 👾",
-    "topics": ["code-interpreter", "chatgpt", "langchain", "chatgpt-code-generation", "llm-agent", "codeinterpreter"],
-    "officialSite": "https://discord.gg/G9s2pqkuH4"
-  }, {
     "repo": "Dao-AILab/flash-attention",
     "desc": "Fast and memory-efficient exact attention",
     "topics": [],
@@ -5221,7 +5216,7 @@
     "topics": []
   }, {
     "repo": "OpenBMB/MiniCPM-V",
-    "desc": "MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities",
+    "desc": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
     "officialSite": "",
     "topics": []
   }, {
@@ -5439,5 +5434,15 @@
     "desc": "Unified framework for robot learning built on NVIDIA Isaac Sim",
     "officialSite": "https://isaac-sim.github.io/IsaacLab",
     "topics": ["isaac-sim", "omniverse-kit-extension", "robot-learning", "robotics"]
+  }, {
+    "repo": "DrDroidLab/PlayBooks",
+    "desc": "Runbook automation platform with deep observability integrations & Jupyter-notebooks style interface",
+    "officialSite": "https://docs.drdroid.io/",
+    "topics": ["alerts", "apm", "automation", "logs", "metrics", "monitoring", "observability", "playbooks", "runbooks", "traces", "workflows"]
+  }, {
+    "repo": "Nike-Inc/koheesio",
+    "desc": "Python framework for building efficient data pipelines. It promotes modularity and collaboration, enabling the creation of complex pipelines from simple, reusable components.",
+    "officialSite": "https://engineering.nike.com/koheesio/",
+    "topics": ["data-engineering", "delta-lake", "pydantic", "pyspark", "python"]
   }
 ]

@@ -348,6 +348,12 @@ tag:
 
 ---
 
+## eddieantonio/blog
+
+- [{n} times faster than C ...with Python](https://eddieantonio.ca/blog/2023/07/12/faster-than-c-with-python)
+
+---
+
 ## Injae's devlog
 
 - [서버에 걸리는 부하, 추측하지 말고 계측하자](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html)

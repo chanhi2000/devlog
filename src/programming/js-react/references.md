@@ -61,7 +61,6 @@ head:
 - [React Explained by Zac Gordon](https://www.ostraining.com/books/react)
 - [`useHooks` - A collection of Server Component safe React Hooks – from the ui.dev team](https://usehooks.com)
 - [React30](https://react30.com)
-- [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
 
 ---
 
@@ -159,6 +158,7 @@ head:
 - [`@miracool` How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
 - [`itswillt` - ⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8?ref=dailydev)
 - [`ajones_codes` / A Better Guide To Forms in React](https://dev.to/ajones_codes/a-better-guide-to-forms-in-react-47f0)
+- [`rasaf_ibrahim` / React Performance Booster - Introduction to the `useMemo` hook](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i)
 
 ---
 
@@ -229,9 +229,9 @@ head:
 
 ---
 
-## DigitalOcean 
+## DigitalOcean
 
-- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript)
+- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript) <!-- TODO: 작성 (/explore/articles/digitalocean.com/using-bitwise-operators-in-javascript.md) -->
 
 ---
 
@@ -767,6 +767,8 @@ https://o-yeon.tistory.com/227
 
 ## TkDodo's blog
 
+- [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
+- [Why You Want Need React Query](https://tkdodo.eu/blog/why-you-want-react-query)
 - [Zustand and React Context](https://tkdodo.eu/blog/zustand-and-react-context)
 
 ---
@@ -876,6 +878,12 @@ https://o-yeon.tistory.com/227
 ## Alex Buaiscia Blog
 
 - [Printing Perfection, A Developer’s Journey with React-to-Print](https://buaiscia.github.io/blog/tips/printing-developer-journey-react-to-print)
+
+---
+
+## Tim's Tech Blog
+
+- [React Server Components, without a framework?](https://timtech.blog/posts/react-server-components-rsc-no-framework)
 
 ---
 

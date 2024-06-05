@@ -4,6 +4,7 @@ title: Github
 description: Terraform > Github
 icon: fa-brands fa-github
 category:
+  - DevOps
   - IaC
   - Terraform
   - Github
@@ -27,6 +28,7 @@ head:
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
+
 ---
 
 ## HCL

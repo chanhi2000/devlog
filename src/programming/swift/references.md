@@ -689,4 +689,10 @@ tag:
 
 ---
 
+## Danijela's blog
+
+- [Combine charts to create stunning designs with Swift Charts](https://www.danijelavrzan.com/posts/2023/10/combine-swift-charts/)
+
+---
+
 <TagLinks />

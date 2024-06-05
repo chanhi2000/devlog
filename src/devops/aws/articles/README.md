@@ -14,6 +14,9 @@ tag:
   - yozm.wishket.com
   - aws
   - amazon-web-services
+  - aws-cdk
+  - aws-cloudformatio
+  - cloudformation
 head:
   - - meta:
     - property: og:title
@@ -77,6 +80,16 @@ head:
   "title": "Pass the AWS Certified Solutions Architect - Associate Certification",
   "desc": "Are you trying to earn the AWS Certified Solutions Architect - Associate certification? We just released a course on the freeCodeCamp.org YouTube channel that is is designed to help you pass the certification exam and showcase your expertise in AWS t...",
   "link": "/explore/articles/freecodecamp.org/pass-the-aws-certified-solutions-architect-associate-certificatio.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Choose the Right IaC Tool – AWS CDK, CloudFormation, and Terraform Compared",
+  "desc": "Infrastructure as Code (IaC) has become a cornerstone of modern cloud resource management. It enables developers and engineers to manage their cloud resources with the same level of control and precision as application code.  When you're working with AWS, among the tools at the forefront of utilizing IaC are...",
+  "link": "/explore/articles/freecodecamp.org/comparing-iac-tools-aws-cdk-cloudformation-terraform.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -126,16 +126,6 @@ ScrollView(.horizontal) {
 
 ```component VPCard
 {
-  "title": "How to inset the safe area with custom content | SwiftUI by Example",
-  "desc": "How to inset the safe area with custom content",
-  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-inset-the-safe-area-with-custom-content.md",
-  "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(54,94,226,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "How to control spacing around individual views using padding | SwiftUI by Example",
   "desc": "How to control spacing around individual views using padding",
   "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-control-spacing-around-individual-views-using-padding.md",

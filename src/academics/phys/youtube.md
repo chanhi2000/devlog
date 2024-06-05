@@ -1,0 +1,32 @@
+---
+lang: ko-KR
+title: Youtube
+description: Physics > Youtube
+icon: fa-brands fa-youtube
+category: 
+  - Physics
+  - Science
+  - Youtube
+tag:
+  - physics
+  - phys
+  - science
+  - youtube
+  - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: Physics > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/academics/phys/youtube.html
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+<TagLinks />

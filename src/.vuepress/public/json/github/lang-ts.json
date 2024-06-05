@@ -2993,5 +2993,10 @@
     "desc": "",
     "officialSite": "https://podcastr-23zf.vercel.app",
     "topics": ["convex", "nextjs"]
+  }, {
+    "repo": "renovatebot/renovate",
+    "desc": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+    "officialSite": "https://mend.io/renovate",
+    "topics": ["azure-devops", "bitbucket", "dependencies", "dependencies-checking", "dependency-manager", "github", "gitlab", "npm", "package-management"]
   }
 ]

@@ -2,8 +2,8 @@
   "channel": {
     "id": "infoq",
     "name": "InfoQ",
-    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQtSdVGn4MQCrOX4RB0Xdgcm80aWGVkUrkFzdCuUg=s160-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/RqmkiNd-NF7fWJJTKJC07I7I03BWmfmZiJrBAYKcRACGXj4DcEuR5autu5oY-Z-r57AZAKwu3Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kRo4yggnbhbq3k0LlMwTENobpqbIWpFoF89jgLmVhvSyY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SyTjVKmleMIHkewODXSWKmuRwh_f16DUUlSekqLP5FymfWllaMZtzYm_Wnx69XInNgG9rfLeqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "QVQPhOHBWBk", "title": "The Rise of the Serverless Data Architectures" },

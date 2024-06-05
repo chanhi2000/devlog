@@ -35,6 +35,7 @@ export const template: SidebarInfoTemplate = {
       "javascript-prototypal-inheritance", // 2024-05-31
     ]],[
     "js-react", [
+      "avoid-prop-drilling-in-react", // 2023-11-07
       "use-typescript-with-react", // 2023-11-15
       "how-to-use-react-server-components", // 2024-01-08
       "throttling-in-javascript", // 2024-05-01
@@ -51,11 +52,18 @@ export const template: SidebarInfoTemplate = {
       "react-19-new-hooks-explained-with-examples", // 2024-05-28
       "react-context-api-explained-with-examples", // 2024-05-30
       "learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go", // 2024-05-30
+      "how-to-build-a-rating-component-with-the-react-compound-component-pattern", // 2024-06-03
+    ]],[
+    "js-next", [
+      "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
     ]],[
-    "css", [  
+    "js-supabase", [
+      "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
+    ]],[
+    "css", [
       "how-to-add-media-to-your-html-email-template", // 2024-04-23
     ]],[
     "css-tailwind", [
@@ -71,6 +79,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-defaultdict-python", // 2024-05-01
       "empire-state-building-run-up-analysis-with-python", // 2024-05-08
       "how-to-install-python-on-a-mac", // 2024-05-09
+      "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
+      "applied-data-science-with-python-book", // 2024-06-04
+      "python-coding-challenges-for-beginners", // 2024-06-04
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -79,10 +90,13 @@ export const template: SidebarInfoTemplate = {
     "dart", [
       "how-to-develop-a-flutter-app-from-scratch", // 2024-04-26
       "how-to-make-your-flutter-package-privacy-manifest-compatible", // 2024-05-20
+      "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
+      "build-a-youtube-clone-with-flutter-firebase-and-riverpod", // 2024-06-04
     ]],[
     "rust", [
       "procedural-macros-in-rust", // 2024-04-24
       "rust-tutorial-build-a-json-parse", // 2024-05-29
+      "build-and-deploy-smart-contract-rust-gear-protocol", // 2024-06-04
     ]],[
     "go", [
       "how-to-handle-concurrency-in-go", // 2024-05-10
@@ -121,12 +135,16 @@ export const template: SidebarInfoTemplate = {
       "what-is-amazon-ec2-auto-scaling", // 2024-05-06
       "pass-the-aws-certified-solutions-architect-associate-certification", // 2024-05-23
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024-05-28
+      "comparing-iac-tools-aws-cdk-cloudformation-terraform", // 2024-06-03
     ]],[
     "azure", [
      "how-to-run-postgres-in-kubernetes",  // 2024-05-08
     ]],[
     "k8s", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
+    ]],[
+    "terraform", [
+      "comparing-iac-tools-aws-cdk-cloudformation-terraform", // 2024-06-03
     ]],[
     "security", [
       "how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126", // 2024-05-31
@@ -141,9 +159,13 @@ export const template: SidebarInfoTemplate = {
     "system-design", [
       "minimum-viable-product-between-an-idea-and-the-product", // 2024-05-24
     ]],[
+    "llm", [
+      "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
+    ]],[
     "math", [
       "linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai", // 2024-05-28
       "how-do-numerical-conversions-work", // 2024-05-29
+      "linear-algebra-roadmap", // 2024-06-04
     ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -151,6 +173,7 @@ export const template: SidebarInfoTemplate = {
       "postgresql-indexing-strategies", // 2023-05-12
       "check-python-version-how-to-check-py-in-mac-windows-and-linux", // 2023-07-07
       "loop-through-arrays-javascript", // 2023-10-31
+      "avoid-prop-drilling-in-react", // 2023-11-07
       "use-typescript-with-react", // 2023-11-15
       "how-to-use-react-server-components", // 2024-01-08
       "what-is-dead-zone-in-javascript", // 2024-03-28
@@ -215,6 +238,16 @@ export const template: SidebarInfoTemplate = {
       "learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go", // 2024-05-30
       "javascript-prototypal-inheritance", // 2024-05-31
       "how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126", // 2024-05-31
+      "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
+      "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
+      "comparing-iac-tools-aws-cdk-cloudformation-terraform", // 2024-06-03
+      "how-to-build-a-rating-component-with-the-react-compound-component-pattern", // 2024-06-03
+      "build-and-deploy-smart-contract-rust-gear-protocol", // 2024-06-04
+      "applied-data-science-with-python-book", // 2024-06-04
+      "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
+      "build-a-youtube-clone-with-flutter-firebase-and-riverpod", // 2024-06-04
+      "python-coding-challenges-for-beginners", // 2024-06-04
+      "linear-algebra-roadmap", // 2024-06-04
     ]],
   ]),
 }

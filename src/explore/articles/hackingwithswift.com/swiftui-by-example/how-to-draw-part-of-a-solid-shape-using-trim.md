@@ -153,6 +153,7 @@ You can also use `trim()` with filled shapes, although the result is a little we
 ```
 
 :::
+
 ---
 
 <TagLinks />

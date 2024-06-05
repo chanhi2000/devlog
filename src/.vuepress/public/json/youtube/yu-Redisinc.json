@@ -2,8 +2,8 @@
   "channel": {
     "id": "Redisinc",
     "name": "Redis",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOVM9YMF211m_railMyNyzF8qLPfpenGY6g21u9Ug=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/JWXdU83-8DQkweKSPADldBsMWzA9-ntWBVIQ_ujE4IJP8o6so3LvNBgOdyRW0hq1mifLhjMc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/O1m-gY3KF0UbfN0oGpqQBXY2alonoo5B5eojgADUKyDhRwqP-sAr8fjl-P7mB--ODKe2dqyV=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xlyQ1sTfK9R_M4ucR2G9zWzhHz6MxJc116Az1ST65ee3nYxCwKBnRLh-uxij2FWD4qkc2PX2FKY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "sQr16FVWCe4", "title": "What's New in Two with Redis - February Edition" },

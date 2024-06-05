@@ -1991,7 +1991,7 @@
     "topics": ["reactjs", "tailwindcss"]
   }, {
     "repo": "HeyPuter/puter",
-    "desc": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+    "desc": "🌐 The Web OS! Free, Open-Source, and Self-Hostable.",
     "officialSite": "https://puter.com",
     "topics": ["cloud", "cloud-os", "desktop", "desktop-environment", "javascript", "operating-system", "os", "osjs", "remote-desktop", "web-desktop", "web-os", "webtop"]
   }, {

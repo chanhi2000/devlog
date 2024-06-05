@@ -22,7 +22,6 @@ head:
       content: How to ask the user to review your app
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-ask-the-user-to-review-your-app.html
-next: /explore/articles/hackingwithswift.com/swiftui-by-example/how-to-adjust-the-position-of-a-view-using-its-offset.md
 ---
 
 # {{ $frontmatter.title }} 관련

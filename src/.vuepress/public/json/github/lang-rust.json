@@ -1509,5 +1509,10 @@
     "desc": "An interactive cheatsheet tool for the command-line",
     "officialSite": "",
     "topics": ["bash", "cheatsheets", "cli", "command-line", "rust", "shell", "snippet", "snippets", "terminal"]
+  }, {
+    "repo": "andyk/ht",
+    "desc": "headless terminal - wrap any binary with a terminal interface for easy programmatic access.",
+    "officialSite": "",
+    "topics": []
   }
 ]

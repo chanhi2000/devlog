@@ -9,11 +9,14 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - yozm.wishket.com
   - node
   - nodejs
+  - node-js
   - next
   - nextjs
+  - next-js
 head:
   - - meta:
     - property: og:title
@@ -28,6 +31,16 @@ head:
 
 ```component VPCard
 {
+  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
+  "link": "https://freecodecamp.org/news/",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "요즘IT", 
   "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
@@ -37,6 +50,22 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "Learn to Code REST APIs using Next.js 14",
+  "desc": "We just posted a new course on the freeCodeCamp.org YouTube channel that is designed to help you master the creation of RESTful APIs using Next.js 14, a popular React framework. Umair Jameel developed this course. Next.js is a framework built on top ...",
+  "link": "/explore/articles/freecodecamp.org/learn-to-code-rest-apis-using-nextjs-14.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ---
 

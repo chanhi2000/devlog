@@ -7,6 +7,97 @@ export const template: SidebarGroupItem = {
     children: [
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
       {
+        text: 'Swift Concurrency by Example',
+        collapsible: true,
+        icon: 'fa-brands fa-swift',
+        children: [
+          '/explore/articles/hackingwithswift.com/concurrency/README.md',
+          {
+            text: 'Introduction',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/concurrency/this-stuff-is-hard.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-follow-this-guide.md',
+              '/explore/articles/hackingwithswift.com/concurrency/concurrency-vs-parallelism.md',
+              '/explore/articles/hackingwithswift.com/concurrency/understanding-threads-and-queues.md',
+              '/explore/articles/hackingwithswift.com/concurrency/main-thread-and-main-queue-whats-the-difference.md',
+              '/explore/articles/hackingwithswift.com/concurrency/where-is-swift-concurrency-supported.md',
+              '/explore/articles/hackingwithswift.com/concurrency/dedication.md',
+            ]
+          }, {
+            text: 'Async/await',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/concurrency/what-is-a-synchronous-function.md',
+              '/explore/articles/hackingwithswift.com/concurrency/what-is-an-asynchronous-function.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-call-an-async-function.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-call-async-throwing-functions.md',
+              '/explore/articles/hackingwithswift.com/concurrency/what-calls-the-first-async-function.md',
+              '/explore/articles/hackingwithswift.com/concurrency/whats-the-performance-cost-of-calling-an-async-function.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-use-async-properties.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-call-an-async-function-using-async-let.md',
+              '/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-await-and-async-let.md',
+              '/explore/articles/hackingwithswift.com/concurrency/why-cant-we-call-async-functions-using-async-var.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-create-continuations-that-can-throw-errors.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-store-continuations-to-be-resumed-later.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-fix-the-error-async-call-in-a-function-that-does-not-support-concurrency.md',
+            ]
+          }, {
+            text: 'Sequences and streams',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-sequence-asyncsequence-and-asyncstream.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-loop-over-an-asyncsequence-using-for-await.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-manipulate-an-asyncsequence-using-map-filter-and-more.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-create-a-custom-asyncsequence.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-convert-an-asyncsequence-into-a-sequence.md',
+            ]
+          }, {
+            text: 'Tasks and task groups',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/concurrency/what-are-tasks-and-task-groups.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-run-a-task.md',
+              '/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-a-task-and-a-detached-task.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-get-a-result-from-a-task.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-control-the-priority-of-a-task.md',
+              '/explore/articles/hackingwithswift.com/concurrency/understanding-how-priority-escalation-works.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-cancel-a-task.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-make-a-task-sleep.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-voluntarily-suspend-a-task.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-create-a-task-group-and-add-tasks-to-it.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-cancel-a-task-group.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-handle-different-result-types-in-a-task-group.md',
+              '/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-async-let-tasks-and-task-groups.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-make-async-command-line-tools-and-scripts.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-use-task-local-values.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-run-tasks-using-swiftuis-task-modifier.md',
+              '/explore/articles/hackingwithswift.com/concurrency/is-it-efficient-to-create-many-tasks.md',
+            ]
+          }, {
+            text: 'Actors',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/concurrency/what-is-an-actor-and-why-does-swift-have-them.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-use-an-actor-in-swift.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-make-function-parameters-isolated.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-make-parts-of-an-actor-nonisolated.md',
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue.md',
+              '/explore/articles/hackingwithswift.com/concurrency/understanding-how-global-actor-inference-works.md',
+              '/explore/articles/hackingwithswift.com/concurrency/what-is-actor-hopping-and-how-can-it-cause-problems.md',
+              '/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-actors-classes-and-structs.md',
+              '/explore/articles/hackingwithswift.com/concurrency/important-do-not-use-an-actor-for-your-swiftui-data-models.md',
+            ]
+          },  {
+            text: 'Solutions',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/concurrency/how-to-download-json-from-the-internet-and-decode-it-into-any-codable-type.md',
+            ]
+          },
+        ]
+      }, {
         text: 'SwiftUI by Example',
         collapsible: true,
         icon: 'fa-brands fa-swift',
@@ -330,6 +421,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-prevent-a-sheet-from-being-dismissed-with-a-swipe.md',
               '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-display-a-bottom-sheet.md',
               '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-ask-the-user-to-review-your-app.md',
+              '/explore/articles/hackingwithswift.com/swiftui-by-example/how-to-tell-the-user-that-no-content-is-available.md',
             ]
           }, {
             text: 'Transforming views',

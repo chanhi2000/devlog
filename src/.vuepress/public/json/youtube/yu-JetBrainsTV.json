@@ -2,8 +2,8 @@
   "channel": {
     "id": "JetBrainsTV",
     "name": "JetBrains",
-    "profile": "https://yt3.googleusercontent.com/CXjy9GFFhr02cuDbx2Me0muDPIjp7xbNxBAvYJNG97EWPeo7cbh3xUmhJQS9ecH3UECvS8UrvA=s160-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/iwXjS04FuZpdVULzd3Ko0Ezkqr7iolMGetVHRC6YvgVLCe_uIikyux0IpFQKoW073CBSYD3fh8I=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/aIGuRAs7sihjvu1nU3ZiK3KAC_44_3NsLa0_11sf3g39YgYydU8gCAlwCs7vpiGZYY8ysFteDQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7fJsLMthrOyiJPEF3mC749UlO_vyrrNIuGhYWoPlyFEyKreLQ7_VXCKM11FdDKOUpLCiUjSx1w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "f8QK-X3WZ1g", "title": "Running Builds in Docker and How to Do It in TeamCity" },

@@ -16,6 +16,7 @@ tag:
   - techblog.woowahan.com
   - dev.gmarket.com
   - zuminternet.github.io
+  - sitepoint.com
   - node
   - nodejs
   - node-js
@@ -115,6 +116,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design",
+  "desc": "Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design",
+  "link": "https://www.sitepoint.com/",
+  "logo": "https://www.sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -122,6 +133,16 @@ head:
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 > freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Avoid Prop Drilling in React",
+  "desc": "In order to write scalable, reusable, and maintainable applications with React, you'll need to go beyond the surface of using React components, useEffect, useContext, useState, and the like. It involves learning in detail how React works in more depth.  And if you don't properly understand these key React concepts...",
+  "link": "/explore/articles/freecodecamp.org/avoid-prop-drilling-in-react.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -278,6 +299,16 @@ head:
   "title": "React Context API Explained with Examples",
   "desc": "Managing state has always been a critical aspect of making web applications with React. The most basic way to do this is prop drilling. In prop drilling, you pass props around from the parent component to other components that need it, no matter how deeply nested they are. The problem...",
   "link": "/explore/articles/freecodecamp.org/react-context-api-explained-with-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Build a Rating Component with the React Compound Component Pattern",
+  "desc": "Have you ever watched a captivating movie or used a fantastic product and wanted to share your experience? In today's world, feedback is critical, and ratings are like currency.  Rating systems are everywhere, from the classic star ratings on movie review websites to the ubiquitous thumbs up/down on streaming...",
+  "link": "/explore/articles/freecodecamp.org/how-to-build-a-rating-component-with-the-react-compound-component-pattern.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -502,6 +533,22 @@ head:
   "link": "/explore/articles/zuminternet.github.io/real-estate-data-visualization.md",
   "logo": "https://zuminternet.github.io/favicon.ico",
   "background": "rgba(30,45,56,0.2)"
+}
+```
+
+---
+
+## Sitepoint
+
+> sitepoint.com
+
+```component VPCard
+{
+  "title": "React Router v6: A Beginner’s Guide — SitePoint",
+  "desc": "Learn how to navigate through a React application with multiple views with React Router, the de facto standard routing library for React.",
+  "link": "/explore/articles/sitepoint.com/react-router-complete-guide.md",
+  "logo": "https://www.sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
 }
 ```
 
