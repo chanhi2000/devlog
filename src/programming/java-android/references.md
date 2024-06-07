@@ -129,6 +129,8 @@ tag:
 - [`proandroiddev` / Room Relationships Explained](https://proandroiddev.com/room-database-relationships-explained-729d3c705fd9)
 - [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
 - [`insert-koin` / Injecting your Compose applications with Koin — From Android to Multiplatform](https://blog.insert-koin.io/injecting-your-compose-applications-with-koin-c9c8b1166702)
+- [`khubaibkhan` / Getting Started with Compose Multiplatform and Koin: A Practical Guide](https://khubaibkhan-4.medium.com/getting-started-with-compose-multiplatform-and-koin-a-practical-guide-324864e13f5f)
+- [`marlonlom` / Adapt Kotlin 2.0 in Android applications](https://marlonlom.medium.com/adapt-kotlin-2-0-in-android-applications-340c2713d387)
 
 ---
 
@@ -289,6 +291,7 @@ tag:
 ## appmilla
 
 - [Experimenting with Composable Presenters in Kotlin Multiplatform](https://appmilla.com/latest/experimenting-with-composable-presenters-in-kotlin-multiplatform/)
+- [Getting Started with Jetpack ViewModels and DataStore in Kotlin Multiplatform](https://appmilla.com/latest/getting-started-with-jetpack-viewmodels-and-datastore-in-kotlin-multiplatform/)
 
 ---
 
@@ -446,5 +449,13 @@ tag:
 ## ClearPoint
 
 - [Automating large scale refactors using lint and generative AI](https://clearpoint.digital/insights/automating-large-scale-refactors-using-lint-and-generative-ai)
+
+---
+
+## PowerSync: Postgres and SQLite sync layer
+
+- [Using Kotlin Multiplatform with KMMBridge and SKIE to publish a native Swift SDK](https://www.powersync.com/blog/using-kotlin-multiplatform-with-kmmbridge-and-skie-to-publish-a-native-swift-sdk)
+
+---
 
 <TagLinks />

@@ -214,5 +214,10 @@
     "desc": "Prototype of a new kind of Drupal, based on recipes and loaded up with contrib's best modules and themes. Not a fork or a distribution.",
     "officialSite": "https://drupal.org/starshot",
     "topics": []
+  }, {
+    "repo": "apioo/fusio",
+    "desc": "Open source API management platform",
+    "officialSite": "https://www.fusio-project.org",
+    "topics": ["api", "api-gateway", "api-management", "api-manager", "backend", "javascript", "microservice", "openapi", "php", "rest", "rpc", "serverless"]
   }
 ]

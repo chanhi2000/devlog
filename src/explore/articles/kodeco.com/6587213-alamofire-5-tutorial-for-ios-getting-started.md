@@ -21,6 +21,7 @@ head:
       content: "Article(s) > Alamofire 5 Tutorial for iOS: Getting Started"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kodeco.com/6587213-alamofire-5-tutorial-for-ios-getting-started.html
+prev: /programming/swift/articles/README.md
 date: 2020-02-10
 isOriginal: false
 cover: https://koenig-media.raywenderlich.com/uploads/2019/12/AlamofireGettingStarted-twitter.png

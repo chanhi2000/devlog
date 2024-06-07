@@ -76,9 +76,9 @@ brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \
   dbeaver-community rancher eul flipper font-jetbrains-mono \
-  google-chrome grandperspective iina intellij-idea-ce maccy notion \
-  opencore-patcher oversight pennywise raycast resilio-sync \
-  sf-symbols shottr spectacle sublime-merge sublime-text \
+  google-chrome grandperspective iina intellij-idea-ce jordanbaird-ice \
+  maccy notion opencore-patcher oversight pennywise raycast \
+  resilio-sync sf-symbols shottr spectacle sublime-merge sublime-text \
   the-unarchiver taskexplorer temurin11 transmission visual-studio-code \
   vlc wireshark;
 ```

@@ -20,6 +20,7 @@ head:
       content: My App Crashed, Now What?
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kodeco.com/6334294-my-app-crashed-now-what.html
+prev: /programming/swift/articles/README.md
 date: 2020-01-08
 isOriginal: false
 cover: https://koenig-media.raywenderlich.com/uploads/2019/12/MyAppCrashed-twitter.png

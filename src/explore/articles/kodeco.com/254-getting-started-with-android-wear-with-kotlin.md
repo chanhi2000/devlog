@@ -724,7 +724,7 @@ Your Wear app will also be installed whenever a user downloads your phone app fr
 
 ## Where To Go From Here?
 
-[<FontIcon icon="iconfont icon-select"/>Here][download-material-final] is the download for the final project.
+[<FontIcon icon="fas fa-file-zipper"/>Here][download-material-final] is the download for the final project.
 
 In this Android Wear tutorial, you learned:
 
@@ -732,7 +732,7 @@ In this Android Wear tutorial, you learned:
 - how to communicate between the mobile and the Wear device, using both the Message and Data API
 - and how to show some snazzy animations right out of the box!
 
-There is a lot more to learn and do with Android Wear! If you’re interested in learning more about Android Wear development, [check out the official documentation](https://developer.android.com/wear/index.html).
+There is a lot more to learn and do with Android Wear! If you’re interested in learning more about Android Wear development, [<FontIcon icon="fa-brands fa-android"/>check out the official documentation](https://developer.android.com/wear/index.html).
 
 - You can build **standalone** apps with Wear-specific UI, new interactions and gestures.
 - Also, you can create new **Watch Faces**

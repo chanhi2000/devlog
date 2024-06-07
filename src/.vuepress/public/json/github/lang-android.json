@@ -389,5 +389,10 @@
     "desc": "A Gradle plugin for detecting regressions in Jetpack Compose",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "deepmedia/Knee",
+    "desc": "Seamless two-way communication between Kotlin/Native and Kotlin/JVM. Supports suspend functions, classes, interfaces, no-copy buffers and much more.",
+    "officialSite": "https://opensource.deepmedia.io/knee",
+    "topics": ["android", "android-library", "ffi", "ffi-bindings", "java", "jni", "jni-wrapper", "jvm", "kmp", "kotlin", "kotlin-compiler", "kotlin-compiler-plugin", "kotlin-multiplatform", "kotlin-native", "multiplatform", "ndk", "ndk-library"]
   }
 ]

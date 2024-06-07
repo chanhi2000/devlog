@@ -20,6 +20,7 @@ head:
       content: "iOS Accessibility: Getting Started"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kodeco.com/6827616-ios-accessibility-getting-started.html
+prev: /programming/swift/articles/README.md
 date: 2020-02-05
 isOriginal: false
 cover: https://koenig-media.raywenderlich.com/uploads/2020/02/iOSAccessibilityUIKit-twitter.png

@@ -82,4 +82,10 @@ head:
 
 ---
 
+## ByteByteGo
+
+- [Cloudflare’s Trillion-Message Kafka Infrastructure: A Deep Dive](https://blog.bytebytego.com/p/cloudflares-trillion-message-kafka)
+
+---
+
 <TagLinks />

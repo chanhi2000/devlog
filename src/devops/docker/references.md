@@ -333,4 +333,16 @@ tag:
 
 ---
 
+## Life Log
+
+- [도커 에서 파일을 관리 하는 방법](https://ravenkim97.tistory.com/m/456)
+
+---
+
+## This blog is for me a platform to share my knowledge in the area of software development.
+
+- [Docker Best Practices](https://mydeveloperplanet.com/2022/11/30/docker-best-practices/)
+
+---
+
 <TagLinks />

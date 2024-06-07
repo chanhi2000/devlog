@@ -5464,5 +5464,55 @@
     "desc": "Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "piku/piku",
+    "desc": "The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.",
+    "officialSite": "http://piku.github.io",
+    "topics": ["arm", "heroku", "nodejs", "paas", "python", "raspberry-pi", "raspbian", "ubuntu"]
+  }, {
+    "repo": "nerfstudio-project/gsplat",
+    "desc": "CUDA accelerated rasterization of gaussian splatting",
+    "officialSite": "https://docs.gsplat.studio/",
+    "topics": ["gaussian-splatting"]
+  }, {
+    "repo": "nvaccess/nvda",
+    "desc": "NVDA, the free and open source Screen Reader for Microsoft Windows",
+    "officialSite": "",
+    "topics": ["accessibility", "blind", "screen-reader"]
+  }, {
+    "repo": "finecodekr/hometaxbot",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "google/mesop",
+    "desc": "",
+    "officialSite": "https://google.github.io/mesop/",
+    "topics": []
+  }, {
+    "repo": "newren/git-filter-repo",
+    "desc": "Quickly rewrite git repository history (filter-branch replacement)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Axorax/tkforge",
+    "desc": "Drag & drop in Figma to create a Python GUI with ease",
+    "officialSite": "",
+    "topics": ["figma", "figma-to-code", "figma-to-tkinter", "tk-forge", "tkdesigner", "tkforge", "tkinter", "tkinter-designer", "tkinter-forge", "tkinter-graphic-interface", "tkinter-gui", "tkinter-library", "tkinter-python"]
+  }, {
+    "repo": "stolk/sotrace",
+    "desc": "Traces the shared-object dependencies of a binary, and graphs them.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "shekhuverma/FastAPI-SaaS-Template",
+    "desc": "FastAPI based feature rich backend for SaaS products and creating user dashboards.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "erikbern/ann-benchmarks",
+    "desc": "Benchmarks of approximate nearest neighbor libraries in Python",
+    "officialSite": "http://ann-benchmarks.com",
+    "topics": ["benchmark", "docker", "nearest-neighbors"]
   }
 ]

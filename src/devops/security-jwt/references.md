@@ -43,6 +43,7 @@ head:
 
 ## 컴공생의 발자취
 
+- [[내일배움캠프 25일차 TIL] 쿠키-세션 방식과 JWT 기반 인증](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-24%EC%9D%BC%EC%B0%A8-TIL-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EB%B0%A9%EC%8B%9D%EA%B3%BC-JWT-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D)
 - [\[내일배움캠프 33일차 TIL\] JWT 활용 과제 피드백 및 재제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-33%EC%9D%BC%EC%B0%A8-TIL-JWT-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%8F-%EC%9E%AC%EC%A0%9C%EC%B6%9C)
 
 

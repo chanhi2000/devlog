@@ -152,6 +152,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Android Accessibility Tutorial: Getting Started",
+  "desc": "In this Android accessibility tutorial, learn how to make apps that everyone can use, including people with vision, motor, or hearing disabilities.",
+  "link": "/explore/articles/kodeco.com/240-android-accessibility-tutorial-getting-started.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
 ### <FontIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ```component VPCard

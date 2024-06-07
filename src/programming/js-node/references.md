@@ -109,6 +109,12 @@ tag:
 
 ---
 
+## 토스 기술 블로그, 토스 테크
+
+- [여러 프레임워크에서 사용할 수 있는 라이브러리 만들기](https://toss.tech/article/framework-agnostic-library) <!-- TODO: 작성 (/explore/articles/toss.tech/framework-agnostic-library.md) -->
+
+---
+
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
@@ -128,9 +134,9 @@ tag:
 
 ## 우아한형제들 기술블로그
 
-- [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 1. 이론 편](https://techblog.woowahan.com/17404/)
+- [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 1. 이론 편](https://techblog.woowahan.com/17404/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/17404.md) -->
+- [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 2. 실전 편](https://techblog.woowahan.com/17721/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/17221.md) -->
 
-<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/17404.md) -->
 ---
 
 ## 요즘IT

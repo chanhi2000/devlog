@@ -40,9 +40,17 @@ head:
 
 ---
 
-## Github
+## <FontIcon icon="iconfont icon-github"/>Github
 
 - [cpursley/postgresql_is_enough.md](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
+
+---
+
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+
+### <FontIcon icon="iconfont icon-microsoftazure"/>Azure
+
+- [How to optimize performance when using pgvector on Azure Cosmos DB for PostgreSQL](https://learn.microsoft.com/en-us/azure/cosmos-db/postgresql/howto-optimize-performance-pgvector)
 
 ---
 
@@ -53,6 +61,11 @@ head:
 - [`29cm` / PostgreSQL Autovacuum 장애 대응기 (1)](https://medium.com/29cm/postgresql-autovacuum-%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0-1-8284955c0193)
 
 ---
+
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`yugabyte` / Comparing SQL engines by CPU instructions for simple DML](https://dev.to/yugabyte/comparing-sql-engines-by-cpu-instructions-for-dml-48a)
+
 
 ## Substack
 
@@ -284,6 +297,36 @@ head:
 ## 기억보단 기록을
 
 - [\[PostgreSQL\] Nested Loop Join을 HashJoin으로 개선하기](https://jojoldu.tistory.com/784)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [EDB, AI 특화 DB 관리 플랫폼 ‘포스트그레스AI’ 출시](https://www.ciokorea.com/news/338188)
+
+---
+
+## Stormatics: Professional Services for PostgreSQL
+
+- [Setting Up a High Availability 3-Node PostgreSQL Cluster with Patroni on Ubuntu 24.04](https://stormatics.tech/blogs/setting-up-a-high-availability-3-node-postgresql-cluster-with-patroni-on-ubuntu-24-04)
+
+---
+
+## Crunchy Data: Postgres for Cloud, Kubernetes, or Enterprise
+
+- [Data Encryption in Postgres: A Guidebook](https://www.crunchydata.com/blog/data-encryption-in-postgres-a-guidebook)
+
+---
+
+## Tembo: Goodbye Database Sprawl, Hello Postgres
+
+- [Vector Indexes in Postgres using pgvector: IVFFlat vs HNSW](https://tembo.io/blog/vector-indexes-in-pgvector)
+
+---
+
+## Aiven - Your Trusted Data &amp; AI Platform
+
+- [Speed up PostgreSQL® pgvector queries with indexes](https://aiven.io/developer/postgresql-pgvector-indexes)
 
 ---
 

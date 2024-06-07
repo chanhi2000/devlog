@@ -1403,5 +1403,15 @@
     "desc": "Code to support my autonomous foosball playing robot",
     "officialSite": "https://www.youtube.com/watch?v=xrwXZXGiP1w",
     "topics": ["foosball", "qtm", "qualisys", "robotics", "table-football", "table-soccer"]
+  }, {
+    "repo": "carlos-menezes/libg203lightsync",
+    "desc": "A library for programmatically interacting with the Logitech G203 Lightsync mouse.",
+    "officialSite": "",
+    "topics": ["g203", "g203-lightsync", "led", "logitech", "logitech-gaming", "mouse-api"]
+  }, {
+    "repo": "yeshjho/Typoon",
+    "desc": "A text expander that fully supports Korean letters as well. 한글을 제대로 지원하는 텍스트 확장기.",
+    "officialSite": "",
+    "topics": ["hangeul", "hangul", "korean", "text-expander"]
   }
 ]

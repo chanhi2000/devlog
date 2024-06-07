@@ -519,5 +519,10 @@
     "desc": "AeroSpace is an i3-like tiling window manager for macOS",
     "officialSite": "https://nikitabobko.github.io/AeroSpace/guide",
     "topics": ["i3", "i3wm", "mac", "macos", "tiling", "tiling-window-manager", "window-manager"]
+  }, {
+    "repo": "jordanbaird/Ice",
+    "desc": "Powerful menu bar manager for macOS",
+    "officialSite": "https://icemenubar.app",
+    "topics": ["macos", "macos-app", "menu-bar", "menubar", "status-bar", "statusbar", "swift", "swiftui", "utility"]
   }
 ]

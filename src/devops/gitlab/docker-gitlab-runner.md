@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
-title: 💪GitLab Runner
-description: Gitlab > 💪GitLab Runner
+title: GitLab Runner
+description: Gitlab > GitLab Runner
 category:
   - Gitlab
-  - 💪GitLab Runner
+  - GitLab Runner
 tag: 
   - sh
   - bash
@@ -38,6 +38,10 @@ tag:
 
 > (For Linux)
 
+::: tabs
+
+@tab <FontIcon icon="fa-brands fa-linux"/>Linux
+
 ```sh
 docker run -d -it \
   --name gitlab-runner \
@@ -47,7 +51,7 @@ docker run -d -it \
   gitlab/gitlab-runner:alpine3.14-bleeding
 ```
 
-> (For Windows)
+@tab <FontIcon icon="fa-brands fa-windows"/>Windows
 
 ```batch
 docker run -d -it ^
@@ -57,6 +61,8 @@ docker run -d -it ^
   --volume /var/run/docker.sock:/var/run/docker.sock ^
   gitlab/gitlab-runner:alpine3.14-bleeding
 ```
+
+:::
 
 ::: info Option(s)
 

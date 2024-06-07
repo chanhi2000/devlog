@@ -56,6 +56,7 @@ tag:
 
 - [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
 - [Inside look at modern web browser (part 1)](https://developer.chrome.com/blog/inside-browser-part1)
+- [Chrome's Headless mode gets an upgrade: introducing --headless=new](https://developer.chrome.com/docs/chromium/new-headless?hl=en)
 
 ### <FontIcon icon="fa-brands fa-chrome"/>Chromium blog
 

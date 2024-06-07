@@ -366,4 +366,12 @@ tag:
 
 - [MSVC – C & SQL Server 연동 with ODBC](https://www.skyer9.pe.kr/wordpress/?p=9066)
 
+---
+
+## blog.dave.tf
+
+[What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
+
+---
+	
 <TagLinks />

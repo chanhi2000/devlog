@@ -26,6 +26,7 @@ export const template: SidebarInfoTemplate = {
       "js-interview-prep-handbook", // 2024-05-22
       "how-to-manipulate-strings-in-javascript", // 2024-05-24
       "the-javascript-this-keyword-explained-with-examples", // 2024-06-05
+      "weakmap-and-weakset-in-javascript", // 2024-06-07
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024-03-28
@@ -257,6 +258,7 @@ export const template: SidebarInfoTemplate = {
       "learn-how-to-build-a-decentralized-file-storage-system-with-go", // 2024-06-05
       "master-the-azure-devops-engineer-expert-certification-az-400", // 2024-06-06
       "real-time-chat-with-go-fiber-htmx", // 2024-06-06
+      "weakmap-and-weakset-in-javascript", // 2024-06-07
     ]],
   ]),
 }

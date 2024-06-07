@@ -108,4 +108,12 @@ head:
 
 - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
 
+---
+
+## sudormrf
+
+- [생성형AI와 멀티모달리티, 그리고 컨텐츠 & 미디어의 미래](https://sudormrf.run/2024/06/07/genai_contents/)
+
+---
+
 <TagLinks />

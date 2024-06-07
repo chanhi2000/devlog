@@ -20,7 +20,7 @@ tag:
 
 ---
 
-## Toss Tech
+## 토스 기술 블로그, 토스 테크
 
 - [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache) <!-- TODO: 작성 (/explore/articles/toss.tech/smart-web-service-cache.md) -->
 

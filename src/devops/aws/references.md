@@ -88,12 +88,14 @@ head:
 - [`watcha` / WATCHA 서버 접속을 위한 CLI 와 SSH 인증서버 소개](https://medium.com/watcha/watcha-%EC%84%9C%EB%B2%84-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-cli-%EC%99%80-ssh-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B2%84-%EC%86%8C%EA%B0%9C-264cc31f411a)
 - [`giljae` / Load Balancer 비교](https://giljae.medium.com/load-balancer-%EB%B9%84%EA%B5%90-c537247b699)
 - [`@tkdgy0801` / 대학생도 딸 수 있는 AWS Solutions Architect Associate 시험 후기](https://medium.com/@tkdgy0801/%EB%8C%80%ED%95%99%EC%83%9D%EB%8F%84-%EB%94%B8-%EC%88%98-%EC%9E%88%EB%8A%94-aws-solutions-architect-associate-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0-baee6e8aec62)
+- [`towardsaws` / Host Llama3 with Python Flask on AWS EC2](https://towardsaws.com/host-llama3-with-python-flask-on-aws-ec2-b95828f4de50)
 
 ---
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`aws` / Creating a multi architecture CI/CD solution with Amazon ECS and ECS Anywhere](https://dev.to/aws/creating-a-multi-architecture-ci-cd-deployment-for-amazon-ecs-and-ecs-anywhere-15o3)
+- [`kelvinskell` / A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
 
 ---
 
@@ -124,9 +126,9 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## Substack
 
-- [A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
+- [`materializedview` / S3 Is Showing Its Age](https://materializedview.io/p/s3-is-showing-its-age)
 
 ---
 

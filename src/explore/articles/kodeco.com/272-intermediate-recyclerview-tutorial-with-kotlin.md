@@ -809,7 +809,7 @@ You’ve done a lot of work and now you know how to add animations, provide a sw
 
 A great next step would be to eliminate the `PhotoRow` model class and `DefaultViewHolder` and get the project working with separate Header and Photo model objects and a dedicated `ViewHolder` for each.
 
-The final project for this tutorial is available [<FontIcon icon="iconfont icon-select"/>here][download-material-final]. In the final project, be sure to remember to set the API key in <FontIcon icon="iconfont icon-java"/>`NasaApi.kt`.
+The final project for this tutorial is available [<FontIcon icon="fas fa-file-zipper"/>here][download-material-final]. In the final project, be sure to remember to set the API key in <FontIcon icon="iconfont icon-java"/>`NasaApi.kt`.
 
 If you need more information on `RecyclerView`s, you can check out the following Android developer documentation:
 

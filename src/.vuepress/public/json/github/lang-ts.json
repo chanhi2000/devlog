@@ -3003,5 +3003,25 @@
     "desc": "📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product onboarding flows and send product and event triggered emails, sms, push and more. ",
     "officialSite": "https://laudspeaker.com/?ref=github",
     "topics": ["checklist-guides", "customer-engagement", "customer-journey", "email-marketing", "finite-state-machine", "growth-eng", "nestjs", "nodejs", "omnichannel", "onboarding", "product-adoption", "push-notifications", "pushnotifications", "react", "setup-wizard", "sms-marketing", "state-machine", "state-machines", "typescript", "user-onboarding"]
+  }, {
+    "repo": "idootop/mi-gpt",
+    "desc": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jackyzha0/quartz",
+    "desc": "🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+    "officialSite": "https://quartz.jzhao.xyz",
+    "topics": ["digital-garden", "networked-thought", "obsidian", "obsidian-md", "quartz-ssg", "static-site-generator"]
+  }, {
+    "repo": "kucherenko/jscpd",
+    "desc": "Copy/paste detector for programming source code.",
+    "officialSite": "",
+    "topics": ["clones-detection", "code-quality", "copy-paste", "cpd", "detect-duplications", "detector", "duplicates", "duplications", "quality"]
+  }, {
+    "repo": "dotansimha/graphql-yoga",
+    "desc": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.",
+    "officialSite": "https://the-guild.dev/graphql/yoga-server",
+    "topics": ["bun", "deno", "fetch", "graphql", "graphql-server", "javascript", "nodejs", "the-guild", "typescript", "w3c", "whatwg"]
   }
 ]

@@ -629,5 +629,10 @@
     "desc": "Open source browser extension for finding, processing, exporting, optimizing, and managing SVG content.",
     "officialSite": "https://www.svggobbler.com",
     "topics": ["chrome-extension", "extension", "firefox-addon", "icon", "icons", "inline-svg", "javascript", "svg", "svg-export", "svg-icons", "svgo", "svgr", "typescript"]
+  }, {
+    "repo": "labmlai/inspectus",
+    "desc": "LLM Analytics",
+    "officialSite": "",
+    "topics": []
   }
 ]

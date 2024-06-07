@@ -933,7 +933,7 @@ https://paperlined.org/
 <SiteInfo
   name="토스 기술 블로그, 토스 테크"
   desc="토스의 개발과 디자인에 대한 이야기를 다룹니다."
-  url="https://toss.tech/"
+  url="https:///"
   logo="https://static.toss.im/tds/favicon/favicon.ico"
   preview="https://static.toss.im/assets/payments/contents/toss-tech-banner2_.png"/>
 

@@ -56,11 +56,55 @@ isOriginal: false
 
 ::: details Similar solutions…
 
-How to call an async function using async let
-What’s the difference between async let, tasks, and task groups?
-How to loop over an AsyncSequence using for await
-How to manipulate an AsyncSequence using map(), filter(), and more
-How to use continuations to convert completion handlers into async functions
+```component VPCard
+{
+  "title": "How to call an async function using async let | Swift Concurrency by Example",
+  "desc": "How to call an async function using async let",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-call-an-async-function-using-async-let.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What’s the difference between async let, tasks, and task groups? | Swift Concurrency by Example",
+  "desc": "What’s the difference between async let, tasks, and task groups?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-async-let-tasks-and-task-groups.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to loop over an AsyncSequence using for await | Swift Concurrency by Example",
+  "desc": "How to loop over an AsyncSequence using for await",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-loop-over-an-asyncsequence-using-for-await.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to manipulate an AsyncSequence using map(), filter(), and more | Swift Concurrency by Example",
+  "desc": "How to manipulate an AsyncSequence using map(), filter(), and more",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-manipulate-an-asyncsequence-using-map-filter-and-more.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to use continuations to convert completion handlers into async functions | Swift Concurrency by Example",
+  "desc": "How to use continuations to convert completion handlers into async functions",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

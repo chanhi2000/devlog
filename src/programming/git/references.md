@@ -308,6 +308,7 @@ head:
 ## 컴공생의 발자취
 
 - [[내일배움캠프 25일차 TIL] 쿠키-세션 방식과 JWT 기반 인증](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-24%EC%9D%BC%EC%B0%A8-TIL-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EB%B0%A9%EC%8B%9D%EA%B3%BC-JWT-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D)
+- [\[내일배움캠프 35일차 TIL\] 뉴스피드 프로젝트 진행 및 git pull 후 cannot find symbol error](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-35%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89-%EB%B0%8F-git-pull-%ED%9B%84-cannot-find-symbol-error)
 
 ---
 
@@ -340,6 +341,5 @@ head:
 - [\[Git 1%이해하기\] git 브랜치 이름 변경하기](https://helicopter55.tistory.com/88)
 
 ---
-
 
 <TagLinks />

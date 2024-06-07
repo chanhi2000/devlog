@@ -62,4 +62,10 @@ tag:
 
 ---
 
+## Irrational Exuberance
+
+- [The Redis Protocol is pretty great.](https://lethain.com/redis-protocol/)
+
+---
+
 <TagLinks />

@@ -56,11 +56,55 @@ isOriginal: false
 
 ::: details Similar solutions…
 
-How to call an async function using async let
-Why can’t we call async functions using async var?
-How to create and call an async function
-How to fix the error “async call in a function that does not support concurrency”
-What’s the performance cost of calling an async function?
+```component VPCard
+{
+  "title": "How to call an async function using async let | Swift Concurrency by Example",
+  "desc": "How to call an async function using async let",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-call-an-async-function-using-async-let.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Why can’t we call async functions using async var? | Swift Concurrency by Example",
+  "desc": "Why can’t we call async functions using async var?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/why-cant-we-call-async-functions-using-async-var.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create and call an async function | Swift Concurrency by Example",
+  "desc": "How to create and call an async function",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-call-an-async-function.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to fix the error “async call in a function that does not support concurrency” | Swift Concurrency by Example",
+  "desc": "How to fix the error “async call in a function that does not support concurrency”",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-fix-the-error-async-call-in-a-function-that-does-not-support-concurrency.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What’s the performance cost of calling an async function? | Swift Concurrency by Example",
+  "desc": "What’s the performance cost of calling an async function?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/whats-the-performance-cost-of-calling-an-async-function.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

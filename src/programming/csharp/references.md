@@ -76,6 +76,8 @@ tag:
 - [`antonmartyniuk` / Mastering Exception Handling in C#: A Comprehensive Guide](https://dev.to/antonmartyniuk/mastering-exception-handling-in-c-a-comprehensive-guide-3e50)
 - [`bytehide` / How to Sort Arrays and Lists in C#](https://dev.to/bytehide/how-to-sort-arrays-and-lists-in-c-53m0)
 - [`bytehide` / 2D Arrays in C#: How To Use Them](https://dev.to/bytehide/2d-arrays-in-c-how-to-use-them-4jgi)
+- [`karenpayneoregon` / C# PeriodicTimer](https://dev.to/karenpayneoregon/c-periodictimer-2ed)
+- [`lovelacecoding` / Modern C# Development: Get Started With TimeOnly](https://dev.to/lovelacecoding/modern-c-development-get-started-with-timeonly-53ej)
 
 ---
 
@@ -382,5 +384,22 @@ tag:
 - [\[C#\] 구조체의 get/set을 조심하자](https://doublsb.tistory.com/m/171)
 
 ---
+
+## Thomas Claudius Huber
+
+- [C# 12: Default Parameters in Lambda Expressions](https://www.thomasclaudiushuber.com/2024/04/09/csharp-12-default-parameters-in-lambda-expressions/)
+
+---
+
+## Steven Giesel
+
+- [Does readonly make your code faster?](https://steven-giesel.com/blogPost/50b84029-4f1e-4e6d-8fd1-0311b0605562)
+
+---
+
+## Chris Pietschmann
+
+- [C#: How to iterate over a dictionary?](https://www.pietschsoft.com/post/2024/04/20/csharp-iterate-over-dictionary)
+
 
 <TagLinks />

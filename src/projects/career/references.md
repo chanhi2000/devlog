@@ -168,6 +168,9 @@ tag:
 - [`@cleancode` / 중요한 일을 잘하는 방법](https://brunch.co.kr/@cleancode/77)
 - [`@duk-hyun` / 디지털 혁신 전술: 디지털화 대상](https://brunch.co.kr/@duk-hyun/114)
 - [`@reinlainer` / \[자본주의\] 지급준비율](https://brunch.co.kr/@reinlainer/90)
+- [`@delight412` / 꼰대는 가라? 피터 틸과 새로운 VC 패러다임의 탄생](https://brunch.co.kr/@delight412/694)
+- [`@ebprux` / 제품 관리를 넘어선 팀워크와 혁신적 협력의 가치](https://brunch.co.kr/@ebprux/1302)
+- [`@ebprux` / 사용자 중심 제품 개발: 혁신과 성공을 이끄는 길](https://brunch.co.kr/@ebprux/1295)
 
 ---
 
@@ -880,6 +883,7 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 
 - ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지](https://www.itworld.co.kr/news/204459)
 - [매력적이지만 버려야 할 10가지 나쁜 프로그래밍 습관](https://www.itworld.co.kr/news/337915)
+- ["디지털 혁신 저해하는 원인" IT 인력 부족 문제를 해결할 2가지 핵심 요소](https://www.itworld.co.kr/news/339119)
 
 ---
 
@@ -964,6 +968,24 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 ## Buffer: All-you-need social media toolkit for small businesses
 
 - [This Is Why Remote Workers Want To Keep Working Remotely](https://buffer.com/resources/remote-workers-study/)
+
+---
+
+## Marcus' Blog
+
+- [Managing My Motivation, as a Solo Dev](https://mbuffett.com/posts/maintaining-motivation/)
+
+---
+
+## Ed Crewe
+
+- [Software Engineering Hiring and Firing](https://edcrewe.blogspot.com/2024/04/software-engineering-hiring-and-firing.html)
+
+---
+
+## Julia Evans
+
+- [Teaching by filling in knowledge gaps](https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/)
 
 ---
 

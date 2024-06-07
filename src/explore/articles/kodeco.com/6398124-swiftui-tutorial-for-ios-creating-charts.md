@@ -20,6 +20,7 @@ head:
       content: SwiftUI Tutorial for iOS - Creating Charts
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kodeco.com/6398124-swiftui-tutorial-for-ios-creating-charts.html
+prev: /programming/swift/articles/README.md
 date: 2020-01-06
 isOriginal: false
 cover: https://koenig-media.raywenderlich.com/uploads/2019/12/SwiftUICharts-twitter.png

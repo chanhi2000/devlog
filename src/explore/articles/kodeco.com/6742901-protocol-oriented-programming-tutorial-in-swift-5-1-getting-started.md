@@ -20,6 +20,7 @@ head:
       content: "Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kodeco.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started.html
+prev: /programming/swift/articles/README.md
 date: 2020-01-22
 isOriginal: false
 cover: https://koenig-media.raywenderlich.com/uploads/2019/12/ProtocolOrientedProgramming-twitter.png
@@ -29,11 +30,11 @@ cover: https://koenig-media.raywenderlich.com/uploads/2019/12/ProtocolOrientedPr
 
 ```component VPCard
 {
-"title": "Swift > Article(s)",
-"desc": "Article(s)",
-"link": "/programming/swift/articles/README.md",
-"logo": "/images/ico-wind.svg",
-"background": "rgba(10,10,10,0.2)"
+  "title": "Swift > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/swift/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
 }
 ```
 

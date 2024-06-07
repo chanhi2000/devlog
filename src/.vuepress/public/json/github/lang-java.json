@@ -669,5 +669,15 @@
     "desc": "Your entire server infrastructure at your fingertips",
     "officialSite": "https://xpipe.io",
     "topics": ["bash", "docker", "filemanager", "files", "java", "javafx", "k8s", "kubernetes", "lxd", "networking", "postgres", "sftp", "ssh", "wsl"]
+  }, {
+    "repo": "openjdk/jmh",
+    "desc": "https://openjdk.org/projects/code-tools/jmh",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mariofusco/quarkus-drools-llm",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

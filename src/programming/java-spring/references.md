@@ -65,7 +65,9 @@ head:
 
 - [JWT를 소개합니다.](https://meetup.nhncloud.com/posts/239) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/239.md) -->
 
----
+### Blog - LINE ENGINEERING
+
+- [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/req-saver-for-thundering-herd-problem-in-cache.md) -->
 
 ### DZone
 
@@ -286,6 +288,14 @@ head:
 ### 민수's 기술 블로그
 
 - [Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?](https://alwayspr.tistory.com/44)
+
+### 개발하는 곰돌이
+
+- [\[Spring Security\] Spring Security와 JWT를 사용하여 사용자 인증 구현하기(Spring Boot 3.0.0 이상)](https://colabear754.tistory.com/m/171)
+
+### Free Java & OpenJDK Info for Daily Java Usage | foojay
+
+- [Smarter Logging in Spring Boot with AOP](https://foojay.io/today/smarter-logging-in-spring-boot-with-aop/)
 
 ---
 

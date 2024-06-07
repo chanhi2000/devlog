@@ -62,11 +62,55 @@ At this point you’re very likely staring at the screen wondering when this wou
 
 ::: details Similar solutions…
 
-How to use @MainActor to run code on the main queue
-Understanding threads and queues
-What’s the difference between a task and a detached task?
-What’s the difference between async let, tasks, and task groups?
-What’s the difference between actors, classes, and structs?
+```component VPCard
+{
+  "title": "How to use @MainActor to run code on the main queue | Swift Concurrency by Example",
+  "desc": "How to use @MainActor to run code on the main queue",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Understanding threads and queues | Swift Concurrency by Example",
+  "desc": "Understanding threads and queues",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/understanding-threads-and-queues.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What’s the difference between a task and a detached task? | Swift Concurrency by Example",
+  "desc": "What’s the difference between a task and a detached task?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-a-task-and-a-detached-task.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What’s the difference between async let, tasks, and task groups? | Swift Concurrency by Example",
+  "desc": "What’s the difference between async let, tasks, and task groups?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-async-let-tasks-and-task-groups.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What’s the difference between actors, classes, and structs? | Swift Concurrency by Example",
+  "desc": "What’s the difference between actors, classes, and structs?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-actors-classes-and-structs.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

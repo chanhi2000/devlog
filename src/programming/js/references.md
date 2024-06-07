@@ -26,6 +26,14 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### <FontIcon icon="fa-brands fa-chrome"/>Chrome for Developers
+
+- [Chrome's Headless mode gets an upgrade: introducing --headless=new](https://developer.chrome.com/docs/chromium/new-headless?hl=en)
+
+---
+
 ## jQuery
 
 - [Upgrading jQuery: Working Towards a Healthy Web](https://blog.jquery.com/2024/04/17/upgrading-jquery-working-towards-a-healthy-web/)
@@ -51,10 +59,10 @@ head:
 
 ---
 
-## Toss
+## 토스 기술 블로그, 토스 테크
 
 - [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility)
-
+<!-- TODO: 작성 (/explore/articles/toss.tech/typescript-type-compatibility.md) -->
 ---
 
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
@@ -121,6 +129,7 @@ head:
 - [`@laetipark` / Typescript : 타입스크립트 언어의 특징과 장단점](https://blex.me/@laetipark/typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B8%EC%96%B4%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 - [`@laetipark` / Javascript : 이벤트와 이벤트 위임](https://blex.me/@laetipark/javascript-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%99%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%9C%84%EC%9E%84)
 - [`@laetipark` / 프로그래머스/Javascript : 기초 문제 22일차](https://blex.me/@laetipark/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4javascript-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EC%A0%9C-22%EC%9D%BC%EC%B0%A8)
+- [`@laetipark` / Javascript/Algorithm : 전위/중위/후위 표기법](https://blex.me/@laetipark/javascriptalgorithm-%EC%A0%84%EC%9C%84%EC%A4%91%EC%9C%84%ED%9B%84%EC%9C%84-%ED%91%9C%EA%B8%B0%EB%B2%95)
 
 ---
 
@@ -236,9 +245,10 @@ head:
 
 ## 개발일지
 
-- [[이펙티브 타입스크립트] 1장 타입스크립트 알아보기](https://paran21.tistory.com/235)
-- [[이펙티브 타입스크립트] 3장 타입 추론 19~23](https://paran21.tistory.com/236)
-- [\[이펙티브 타입스크립트\] 4장 타입 설계 28~32](https://paran21.tistory.com/237)
+- [[이펙티브 타입스크립트] 1장 타입스크립트 알아보기](https://paran21.tistory.com/m/235)
+- [[이펙티브 타입스크립트] 3장 타입 추론 19~23](https://paran21.tistory.com/m/236)
+- [\[이펙티브 타입스크립트\] 4장 타입 설계 28~32](https://paran21.tistory.com/m/237)
+- [\[이펙티브 타입스크립트\] 5장 any 다루기](https://paran21.tistory.com/m/238)
 
 ---
 
@@ -401,6 +411,12 @@ head:
 ## Alan Norbauer
 
 - [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
+
+---
+
+## Mike Bostock
+
+- [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
 
 ---
 

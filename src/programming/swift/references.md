@@ -487,6 +487,7 @@ tag:
 - [Should You Enable Swift's Complete Concurrency Checking?](https://www.massicotte.org/complete-checking)
 - [An Introduction to Isolation in Swift](https://www.massicotte.org/intro-to-isolation)
 - [Swift Isolation Intuition](https://www.massicotte.org/isolation-intuition)
+- [Concurrency in Swift 6: SE-0401](https://www.massicotte.org/concurrency-swift-6-se-401)
 
 ---
 
@@ -694,6 +695,12 @@ tag:
 ## alexwlchan
 
 - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/)
+
+---
+
+## Mobile System Design
+
+- [Designing a Declarative API](https://www.mobilesystemdesign.com/blog/declarative-api-design/)
 
 ---
 

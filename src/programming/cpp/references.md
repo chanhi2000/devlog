@@ -53,6 +53,7 @@ tag:
 - [`@jwlee010523` / 템플릿(template)](https://velog.io/@jwlee010523/%ED%85%9C%ED%94%8C%EB%A6%BFtemplate)
 - [`@jwlee010523` / 이중 연결 리스트(Doubly linked list)](https://velog.io/@jwlee010523/Doubly-linked-list)
 - [`@jwlee010523` / 표준 템플릿 라이브러리(STL)](https://velog.io/@jwlee010523/STL)
+- [`@jwlee010523` / 연결 리스트를 이용한 스택](https://velog.io/@jwlee010523/linked-list-stack)
 
 ---
 
@@ -133,6 +134,7 @@ tag:
 - [\[Q&A\] CDC 클래스의 FillSolidRect 함수에 대하여](https://blog.naver.com/tipsware/223469803831)
 - [MFC 프로그래밍 테스트 과제 - Step 4](https://blog.naver.com/tipsware/223471439017)
 - [\[Q&A\] CBrush 객체의 사용이 끝나면 DeleteObject 함수를 꼭 호출해야 하나요?](https://blog.naver.com/tipsware/223469859909)
+- [\[Q&A\] CMFCListCtrl 클래스의 GetColumn 함수로 문자열을 얻고 싶습니다. ](https://blog.naver.com/tipsware/223471822718?)
 
 ---
 

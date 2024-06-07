@@ -66,11 +66,55 @@ If you are keen to use the newer APIs in your project while also preserving back
 
 ::: details Similar solutions…
 
-Concurrency vs parallelism
-How to fix the error “async call in a function that does not support concurrency”
-How to use continuations to convert completion handlers into async functions
-What are tasks and task groups?
-What is an asynchronous function?
+```component VPCard
+{
+  "title": "Concurrency vs parallelism | Swift Concurrency by Example",
+  "desc": "Concurrency vs parallelism",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/concurrency-vs-parallelism.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to fix the error “async call in a function that does not support concurrency” | Swift Concurrency by Example",
+  "desc": "How to fix the error “async call in a function that does not support concurrency”",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-fix-the-error-async-call-in-a-function-that-does-not-support-concurrency.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to use continuations to convert completion handlers into async functions | Swift Concurrency by Example",
+  "desc": "How to use continuations to convert completion handlers into async functions",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What are tasks and task groups? | Swift Concurrency by Example",
+  "desc": "What are tasks and task groups?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/what-are-tasks-and-task-groups.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What is an asynchronous function? | Swift Concurrency by Example",
+  "desc": "What is an asynchronous function?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/what-is-an-asynchronous-function.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

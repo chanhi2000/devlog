@@ -35,6 +35,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`towardsaws` / Host Llama3 with Python Flask on AWS EC2](https://towardsaws.com/host-llama3-with-python-flask-on-aws-ec2-b95828f4de50)
+
+---
+
 ## Real Python
 
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 2 – Real Python](https://realpython.com/flask-connexion-rest-api-part-2/)

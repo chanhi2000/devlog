@@ -39,6 +39,12 @@ head:
 
 ---
 
+## Vercel
+
+- [Behind the scenes of Vercel's infrastructure: Achieving optimal scalability and performance](https://vercel.com/blog/behind-the-scenes-of-vercels-infrastructure)
+
+---
+
 ## YOZM
 
 - [사용자를 '중독'시키는 UX 전략](https://yozm.wishket.com/magazine/detail/2300/) <!-- TODO: 작성 (/explore/articles/yozm.wishket.com/2300.md) -->
@@ -116,6 +122,8 @@ head:
 ## InfoQ
 
 - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
+- [How Netflix Ensures Highly-Reliable Online Stateful Systems](https://www.infoq.com/articles/netflix-highly-reliable-stateful-systems/)
+- [The Evolution of Use Cases in Modern Software Engineering](https://www.infoq.com/podcasts/evolution-use-cases-modern-software-engineering/)
 
 ---
 
@@ -375,6 +383,36 @@ head:
 ## passion is like genius; a miracle.
 
 - [웹사이트 성능 최적화](https://mkseo.pe.kr/blog/?p=5005)
+
+---
+
+## 컴공생의 발자취
+
+- [\[내일배움캠프 34일차 TIL\] 뉴스피드 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-34%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
+
+---
+
+## Cultured Systems
+
+- [Avoiding the soft delete anti-pattern](https://www.cultured.systems/2024/04/24/Soft-delete/)
+
+---
+
+## brr
+
+- [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+
+---
+
+## Leading with Grace: Catching Tech Exceptions
+
+- [You probably don’t need microservices](https://www.thrownewexception.com/you-probably-dont-need-microservices/)
+
+---
+
+## Cloud Application Platform | Heroku
+
+- [Evolving the Backend Storage for Platform Metrics](https://blog.heroku.com/evolving-backend-storage-for-platform-metrics)
 
 ---
 

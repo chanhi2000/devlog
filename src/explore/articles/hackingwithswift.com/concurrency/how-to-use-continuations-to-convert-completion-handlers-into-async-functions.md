@@ -56,11 +56,55 @@ isOriginal: false
 
 ::: details Similar solutions…
 
-How to store continuations to be resumed later
-How to create continuations that can throw errors
-Why can’t we call async functions using async var?
-How to call an async function using async let
-How to call async throwing functions
+```component VPCard
+{
+  "title": "How to store continuations to be resumed later | Swift Concurrency by Example",
+  "desc": "How to store continuations to be resumed later",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-store-continuations-to-be-resumed-later.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create continuations that can throw errors | Swift Concurrency by Example",
+  "desc": "How to create continuations that can throw errors",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-create-continuations-that-can-throw-errors.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Why can’t we call async functions using async var? | Swift Concurrency by Example",
+  "desc": "Why can’t we call async functions using async var?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/why-cant-we-call-async-functions-using-async-var.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to call an async function using async let | Swift Concurrency by Example",
+  "desc": "How to call an async function using async let",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-call-an-async-function-using-async-let.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to call async throwing functions | Swift Concurrency by Example",
+  "desc": "How to call async throwing functions",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-call-async-throwing-functions.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

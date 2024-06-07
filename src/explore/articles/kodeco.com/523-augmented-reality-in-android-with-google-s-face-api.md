@@ -352,7 +352,7 @@ Run the app. It will draw a box around each face it detects, along with the corr
 
 ![Augmented Reality - Face with ID](https://koenig-media.raywenderlich.com/uploads/2017/05/facespotter-screenshot-02-1.jpg =240x)
 
-![Augmented Reality - Multiple faces with ID](https://koenig-media.raywenderlich.com/uploads/2017/05/facespotter-screenshot-03.jpg =x240)
+![Augmented Reality - Multiple faces with ID](https://koenig-media.raywenderlich.com/uploads/2017/05/facespotter-screenshot-03.jpg =240x)
 
 ---
 
@@ -508,7 +508,7 @@ Run the app. You should get results similar to this…
 
 …or with multiple faces, results like this:
 
-![Landmarks with multiple faces](https://koenig-media.raywenderlich.com/uploads/2017/05/facespotter-screenshot-05.jpg =x240)
+![Landmarks with multiple faces](https://koenig-media.raywenderlich.com/uploads/2017/05/facespotter-screenshot-05.jpg =240x)
 
 Now that you can identify landmarks on faces, you can start drawing cartoon features over them! But first, let’s talk about facial classifications.
 
@@ -756,7 +756,7 @@ This one’s of me winking with my right eye (hence it’s closed) and smiling (
 
 The app will draw cartoon features over a small number of faces simultaneously…
 
-![Augmented Reality-Multiple faces with cartoon overlay](https://koenig-media.raywenderlich.com/uploads/2017/05/facespotter-screenshot-08.jpg =x240)
+![Augmented Reality-Multiple faces with cartoon overlay](https://koenig-media.raywenderlich.com/uploads/2017/05/facespotter-screenshot-08.jpg =240x)
 
 …and even over faces in illustrations if they’re realistic enough:
 

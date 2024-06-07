@@ -84,11 +84,55 @@ Sometimes Apple’s frameworks will help you a little here. For example, even th
 
 ::: details Similar solutions…
 
-Understanding how global actor inference works
-Understanding how priority escalation works
-How to create and use an actor in Swift
-What is an actor and why does Swift have them?
-How to create and run a task
+```component VPCard
+{
+  "title": "Understanding how global actor inference works | Swift Concurrency by Example",
+  "desc": "Understanding how global actor inference works",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/understanding-how-global-actor-inference-works.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Understanding how priority escalation works | Swift Concurrency by Example",
+  "desc": "Understanding how priority escalation works",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/understanding-how-priority-escalation-works.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create and use an actor in Swift | Swift Concurrency by Example",
+  "desc": "How to create and use an actor in Swift",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-use-an-actor-in-swift.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What is an actor and why does Swift have them? | Swift Concurrency by Example",
+  "desc": "What is an actor and why does Swift have them?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/what-is-an-actor-and-why-does-swift-have-them.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create and run a task | Swift Concurrency by Example",
+  "desc": "How to create and run a task",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-run-a-task.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

@@ -60,11 +60,55 @@ You can read this in a linear order if you want, or just dive in to a particular
 
 ::: details Similar solutions…
 
-Concurrency vs parallelism
-How to create and use an actor in Swift
-Is it efficient to create many tasks?
-What’s the difference between async let, tasks, and task groups?
-How to create a task group and add tasks to it
+```component VPCard
+{
+  "title": "Concurrency vs parallelism | Swift Concurrency by Example",
+  "desc": "Concurrency vs parallelism",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/concurrency-vs-parallelism.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create and use an actor in Swift | Swift Concurrency by Example",
+  "desc": "How to create and use an actor in Swift",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-use-an-actor-in-swift.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Is it efficient to create many tasks? | Swift Concurrency by Example",
+  "desc": "Is it efficient to create many tasks?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/is-it-efficient-to-create-many-tasks.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What’s the difference between async let, tasks, and task groups? | Swift Concurrency by Example",
+  "desc": "What’s the difference between async let, tasks, and task groups?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-async-let-tasks-and-task-groups.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create a task group and add tasks to it | Swift Concurrency by Example",
+  "desc": "How to create a task group and add tasks to it",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-create-a-task-group-and-add-tasks-to-it.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

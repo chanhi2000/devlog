@@ -34,6 +34,18 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+
+- [The WireMock Plugin for IntelliJ IDEA Is Here!](https://blog.jetbrains.com/idea/2024/04/the-wiremock-plugin-for-intellij-idea-is-here/)
+- [Java Frameworks You Must Know in 2024](https://blog.jetbrains.com/idea/2024/04/java-frameworks-you-must-know-in-2024/)
+
+---
+
+## Free Java & OpenJDK Info for Daily Java Usage | foojay
+
+- [Effective cloud-native Java app development with Open Liberty in IntelliJ IDEA](https://foojay.io/today/effective-cloud-native-java-app-development-with-open-liberty-in-intellij-idea/)
+
+
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@DevMinGeonPark` - Jetbrains IDE 학생 라이센스 받기](https://blex.me/@DevMinGeonPark/jetbrains-ide-%ED%95%99%EC%83%9D-%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4-%EB%B0%9B%EA%B8%B0)

@@ -20,6 +20,7 @@ head:
       content: "CocoaPods Tutorial for Swift: Getting Started"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kodeco.com/6747815-uigesturerecognizer-tutorial-getting-started.html
+prev: /programming/swift/articles/README.md
 date: 2020-01-27
 isOriginal: false
 cover: https://koenig-media.raywenderlich.com/uploads/2020/01/HowToCreateCocoaPods-twitter.png
@@ -29,11 +30,11 @@ cover: https://koenig-media.raywenderlich.com/uploads/2020/01/HowToCreateCocoaPo
 
 ```component VPCard
 {
-"title": "Swift > Article(s)",
-"desc": "Article(s)",
-"link": "/programming/swift/articles/README.md",
-"logo": "/images/ico-wind.svg",
-"background": "rgba(10,10,10,0.2)"
+  "title": "Swift > Article(s)",
+  "desc": "Article(s)",
+  "link": "/programming/swift/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
 }
 ```
 

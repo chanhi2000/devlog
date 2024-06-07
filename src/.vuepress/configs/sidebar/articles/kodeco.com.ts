@@ -19,6 +19,7 @@ export const template: SidebarInfoTemplate = {
     "java-android", [
       "523-augmented-reality-in-android-with-google-s-face-api", // 2017-07-12
       "853-couchbase-tutorial-for-android-getting-started", // 2017-11-16
+      "240-android-accessibility-tutorial-getting-started", // 2018-01-10
     ]],[
     "kotlin", [
       "31290959-kotlin-sequences-getting-started", // 2022-04-04
@@ -28,6 +29,7 @@ export const template: SidebarInfoTemplate = {
       "272-intermediate-recyclerview-tutorial-with-kotlin", // 2017-12-06
       "262-dependency-injection-in-android-with-dagger-2-and-kotlin", // 2017-12-13
       "254-getting-started-with-android-wear-with-kotlin", // 2017-12-20
+      "1144981-kotlin-for-android-an-introduction", // 2019-05-08
       "30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka", // 2022-03-28
     ]],[
     "gradle", [
@@ -39,6 +41,9 @@ export const template: SidebarInfoTemplate = {
     "c", [
       "7181017-unsafe-swift-using-pointers-and-interacting-with-c", // 2020-02-03
     ]],[
+    "sqlite", [
+      "6620276-sqlite-with-swift-tutorial-getting-started", // 20202-01-13
+    ]],[
     "all", [
       "README",
       "523-augmented-reality-in-android-with-google-s-face-api", // 2017-07-12
@@ -48,7 +53,9 @@ export const template: SidebarInfoTemplate = {
       "262-dependency-injection-in-android-with-dagger-2-and-kotlin", // 2017-12-13
       "254-getting-started-with-android-wear-with-kotlin", // 2017-12-20
       "249-gradle-tutorial-for-android-getting-started", // 2017-12-27
+      "240-android-accessibility-tutorial-getting-started", // 2018-01-10
       "247-react-native-tutorial-building-android-apps-with-javascript", // 2018-01-03
+      "1144981-kotlin-for-android-an-introduction", // 2019-05-08
       "6398124-swiftui-tutorial-for-ios-creating-charts", // 2020-01-06
       "6334294-my-app-crashed-now-what", // 2020-01-08
       "6620276-sqlite-with-swift-tutorial-getting-started", // 20202-01-13

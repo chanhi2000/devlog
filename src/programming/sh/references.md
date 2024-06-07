@@ -59,6 +59,7 @@ tag:
 
 - [`vinodhakumara2681997` - CheatSheet: Linux Commands for DevOps](https://vinodhakumara2681997.medium.com/cheatsheet-linux-commands-for-devops-80be32b88656)
 - [`netflixtechblog` / Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+- [`benchling` / Signals, shells, and docker: an onion of footguns](https://benchling.engineering/signals-shells-and-docker-an-onion-of-footguns-ee592e2b587b)
 
 ---
 

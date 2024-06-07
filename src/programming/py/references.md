@@ -134,6 +134,10 @@ tag:
 - [`bitecode` / Python as a configuration language](https://www.bitecode.dev/p/python-as-a-configuration-language)
 - [`codingconfessions` / How Many Lines of C it Takes to Execute a + b in Python?](https://blog.codingconfessions.com/p/cpython-dynamic-dispatch-internals)
 - [`codingconfessions` / CPython Object System Internals: Understanding the Role of PyObject](https://blog.codingconfessions.com/p/cpython-object-system-internals-understanding)
+- [`algomaster` / Load Balancing Algorithms Explained with Code](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code)
+- [`johnloewen` / Simple Pretty Maps That Will Better Your Python Streamlit Skills](https://johnloewen.substack.com/p/simple-pretty-maps-that-will-better)
+- [`codingconfessions` / How Python Compares Floats and Ints: When Equals Isn’t Really Equal](https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints)
+- [`bitecode` / Testing with Python (part 5): the different types of tests](https://www.bitecode.dev/p/testing-with-python-part-5-the-different)
 
 ---
 
@@ -795,6 +799,7 @@ tag:
 
 - [Say it again: values not expressions](https://nedbatchelder.com/blog/202311/say_it_again_values_not_expressions.html)
 - [Does Python have pointers?](https://nedbatchelder.com/blog/202403/does_python_have_pointers.html)
+- [One way to fix Python circular imports](https://nedbatchelder.com/blog/202405/one_way_to_fix_python_circular_imports.html)
 
 ---
 
@@ -880,11 +885,12 @@ tag:
 
 ## 다빈치코딩
 
-- [[백준 13023] ABCDE](https://davincicoding.tistory.com/156)
-- [[백준 18185] 라면 사기 (Small)](https://davincicoding.tistory.com/157)
-- [[백준 25381] ABBC](https://davincicoding.tistory.com/161)
-- [[백준 2776] 암기왕](https://davincicoding.tistory.com/160)
-- [[백준 30106] 현이의 로봇 청소기](https://davincicoding.tistory.com/162)
+- [[백준 13023] ABCDE](https://davincicoding.tistory.com/m/156)
+- [[백준 18185] 라면 사기 (Small)](https://davincicoding.tistory.com/m/157)
+- [[백준 25381] ABBC](https://davincicoding.tistory.com/m/161)
+- [[백준 2776] 암기왕](https://davincicoding.tistory.com/m/160)
+- [[백준 30106] 현이의 로봇 청소기](https://davincicoding.tistory.com/m/162)
+- [\[백준 28432\] 끝말잇기](https://davincicoding.tistory.com/m/163)
 
 ---
 
@@ -975,6 +981,8 @@ tag:
 - [How to Split a Python List or Iterable Into Chunks – Real Python](https://realpython.com/how-to-split-a-python-list-into-chunks/)
 - [How to Flush the Output of the Python Print Function – Real Python](https://realpython.com/python-flush-print-output/)
 - [Build a Hangman Game With Python and PySimpleGUI](https://realpython.com/hangman-python-pysimplegui/)
+- [Pydantic: Simplifying Data Validation in Python](https://realpython.com/python-pydantic/)
+- [Build Enumerations of Constants With Python's Enum](https://realpython.com/python-enum/)
 
 ---
 
@@ -1125,6 +1133,7 @@ tag:
 ## Better Stack: Spot, Resolve, and Prevent Downtime.
 
 - [A Beginner's Guide to Unit Testing with Pytest](https://betterstack.com/community/guides/testing/pytest-guide)
+- [Logging in Python: A Comparison of the Top 6 Libraries](https://betterstack.com/community/guides/logging/best-python-logging-libraries/)
 
 ---
 
@@ -1407,6 +1416,24 @@ tag:
 ## dougallj
 
 - [Bit-Twiddling: Addition with Unknown Bits](https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/)
+
+---
+
+## 캠프 목록
+
+- [FastAPI 보일러 플레이트](https://puddingcamp.com/page/efbea959-0e12-4c06-906f-d7d03abb2d37)
+
+---
+
+## Earthly - Make Builds Super Simple
+
+- [The Montréal Effect: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
+
+---
+
+## Misc.
+
+- [Working with Excel Files in Python](https://www.python-excel.org/)
 
 ---
 

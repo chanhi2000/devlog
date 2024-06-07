@@ -5,7 +5,7 @@ description: PHP > References
 icon: iconfont icon-share
 category: 
   - PHP
-  - References
+  - Referencesse
 tag: 
   - education
   - youtube
@@ -93,6 +93,8 @@ tag:
 - [8.13. 글삭제 API 만들기](https://ysedeveloper.tistory.com/m/entry/813-%EA%B8%80%EC%82%AD%EC%A0%9C-API-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [8.14. 글목록 API 만들기](https://ysedeveloper.tistory.com/m/entry/814-%EA%B8%80%EB%AA%A9%EB%A1%9D-API-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [8.15. 목록 화면 만들기](https://ysedeveloper.tistory.com/m/entry/815-%EB%AA%A9%EB%A1%9D-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [8.16. 메인 페이지 만들기](https://ysedeveloper.tistory.com/m/entry/816-%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [9장. 마치면서](https://ysedeveloper.tistory.com/m/entry/9%EC%9E%A5-%EB%A7%88%EC%B9%98%EB%A9%B4%EC%84%9C)
 
 ---
 

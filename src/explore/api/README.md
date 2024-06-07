@@ -1019,6 +1019,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+<SiteInfo
+  name="Free Image Highlight"
+  desc="Simple, Free, Secure Image highlight tool"
+  url="https://www.simplehighlighterpngjpg.com/"
+  logo="https://www.simplehighlighterpngjpg.com/favicon.ico"
+  preview="https://www.simplehighlighterpngjpg.com/images/example3_before.png"/>
+
 ```component VPCard
 {
   "title": "Spacetime maps",
@@ -1363,6 +1370,21 @@ https://mdis.kostat.go.kr/index.do
   logo="https://goqual.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa13028a4-9794-4508-b401-930241b72125%2FHejhome_Symbol_01_1.png?table=block&id=11771028-81b3-45c3-aa00-1d15d1788601&spaceId=3bc7b4f5-11cd-4d6e-839f-0e0ffaa3f8f6&width=40&userId=&cache=v2"
   preview="https://www.notion.so/images/meta/default.png"/>
 
+```component VPCard
+{
+  "title": "IIllllllIII - IlIIlllIllllIIIllIIlIlllIlllllIIllllIlll",
+  "desc": "ShortLink 短链接服务",
+  "link": "https://llili.li/",
+  "background": "rgba(122,165,110,0.2)"
+}
+```
+
+<SiteInfo
+  name="NotPrivateAPIs | Documentation"
+  desc="Totally Not Uncovering Private Apis"
+  url="https://notprivateapis.com/documentation/notprivateapis/"
+  logo="https://notprivateapis.com/favicon.ico"
+  preview="https://notprivateapis.com/developer-og.jpg"/>
 
 <!-- @end Documentation -->
 

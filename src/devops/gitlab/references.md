@@ -19,6 +19,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-gitlab"/>Gitlab
+
+- [Tutorial: Set up the Google Cloud integration](https://docs.gitlab.com/ee/tutorials/set_up_gitlab_google_integration/)
+
+---
+
 ## InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공
 
 - [GitLab 16.0 릴리즈 노트](https://insight.infograb.net/blog/2023/05/24/gitlab-16-0-release-note/)

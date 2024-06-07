@@ -327,7 +327,7 @@ The `@Singleton` annotation is not part of the Dagger API. It’s contained insi
 
 ## Where to Go From Here?
 
-You can download the final project [<FontIcon icon="iconfont icon-select"/>Here][download-material-final].
+You can download the final project [<FontIcon icon="fas fa-file-zipper"/>here][download-material-final].
 
 A lot of developers asks themselves if all the changes you’ve applied to the DroidWiki app are useful or not. Especially since everything was already working before implementing dependency injection. The utility of dependency injection and a framework like Dagger 2 become most evident in real-world production apps, where the dependency graph can get very complex.
 

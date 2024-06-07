@@ -56,11 +56,55 @@ isOriginal: false
 
 ::: details Similar solutions…
 
-How to use continuations to convert completion handlers into async functions
-How to create continuations that can throw errors
-What’s the performance cost of calling an async function?
-Where is Swift concurrency supported?
-How to call an async function using async let
+```component VPCard
+{
+  "title": "How to use continuations to convert completion handlers into async functions | Swift Concurrency by Example",
+  "desc": "How to use continuations to convert completion handlers into async functions",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create continuations that can throw errors | Swift Concurrency by Example",
+  "desc": "How to create continuations that can throw errors",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-create-continuations-that-can-throw-errors.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What’s the performance cost of calling an async function? | Swift Concurrency by Example",
+  "desc": "What’s the performance cost of calling an async function?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/whats-the-performance-cost-of-calling-an-async-function.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Where is Swift concurrency supported? | Swift Concurrency by Example",
+  "desc": "Where is Swift concurrency supported?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/where-is-swift-concurrency-supported.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to call an async function using async let | Swift Concurrency by Example",
+  "desc": "How to call an async function using async let",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-call-an-async-function-using-async-let.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

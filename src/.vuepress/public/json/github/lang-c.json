@@ -1009,5 +1009,15 @@
     "desc": "TLS/SSL and crypto library",
     "officialSite": "https://www.openssl.org",
     "topics": ["cryptography", "decryption", "encryption", "openssl", "ssl", "tls"]
+  }, {
+    "repo": "sosy-lab/cpu-energy-meter",
+    "desc": "A tool for measuring energy consumption of Intel CPUs",
+    "officialSite": "",
+    "topics": ["energy", "linux", "rapl", "resource-measurement"]
+  }, {
+    "repo": "libretro/RetroArch",
+    "desc": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+    "officialSite": "http://www.libretro.com",
+    "topics": ["c", "libretro", "retroarch"]
   }
 ]

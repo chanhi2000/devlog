@@ -396,6 +396,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+<SiteInfo
+  name="Welcome to WWDCScholars"
+  desc="Take a look at Apple WWDC Scholarship winners from all around the world as well as their winning submissions!"
+  url="https://www.wwdcscholars.com/"
+  logo="https://www.wwdcscholars.com/icons/favicon-48.png"
+  preview="https://www.wwdcscholars.com/images/og-image.jpg"/>
+
 @tab Package Manager
 
 ```component VPCard
@@ -591,6 +598,22 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "desc": "...",
   "link": "https://raould.github.io/pn0gstr0m/",
   "background": "rgba(44,98,87,0.2)"
+}
+```
+<SiteInfo
+  name="Notepad Tab | A simple, secure and private note taking tool"
+  desc="Write down anything and have it automatically persisted in the address bar and in the browser’s history. Easily back up or share any note by simply copy and pasting the URL."
+  url="https://notepadtab.com/#"
+  logo="https://notepadtab.com/assets/favicon/android-chrome-512x512.png"
+  preview="https://notepadtab.com/assets/favicon/android-chrome-512x512.png"/>
+
+```component VPCard
+{
+  "title": "Depth Of Field Simulator",
+  "desc": "...",
+  "link": "https://jherr.github.io/depth-of-field/",
+  "logo": "https://jherr.github.io/depth-of-field/vite.svg",
+  "background": "rgba(238,242,246,0.2)"
 }
 ```
 

@@ -302,4 +302,9 @@ tag:
 
 ---
 
+## Open Source Observability Platform | Uptrace
+
+- [Uptrace: open source APM](https://uptrace.dev/get/open-source-apm.html#uptrace-open-source-apm)
+
+
 <TagLinks />

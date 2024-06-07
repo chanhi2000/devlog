@@ -22,6 +22,7 @@ head:
       content: "Unsafe Swift: Using Pointers and Interacting With C"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/kodeco.com/7181017-unsafe-swift-using-pointers-and-interacting-with-c.html
+prev: /programming/swift/articles/README.md
 date: 2020-02-03
 isOriginal: false
 cover: https://koenig-media.raywenderlich.com/uploads/2020/02/UnsafeSwift-twitter-2.png

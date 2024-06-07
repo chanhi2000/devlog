@@ -173,8 +173,7 @@ Placeholders with the same ids are connected.
       "  desc=\"${3:desc}\"",
       "  url=\"${1:link}\"",
       "  logo=\"${4:logo}\"",
-      "  preview=\"${5:preview}\"/>",
-      "${0}"
+      "  preview=\"${5:preview}\"/>${0}",
     ],
     "description": "Create SiteInfo Vue Componenet"
   },

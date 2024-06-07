@@ -1199,5 +1199,15 @@
     "desc": "A curated list of awesome Go frameworks, libraries and software",
     "officialSite": "https://awesome-go.com",
     "topics": ["awesome", "awesome-list", "go", "golang", "golang-library", "hacktoberfest"]
+  }, {
+    "repo": "binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "officialSite": "",
+    "topics": ["architecture", "awesome", "awesome-list", "backend", "big-data", "computer-science", "design-patterns", "devops", "distributed-systems", "interview", "interview-practice", "interview-questions", "lists", "machine-learning", "programming", "resources", "scalability", "system", "system-design", "web-development"]
+  }, {
+    "repo": "KenneyNL/Adobe-Alternatives",
+    "desc": "A list of alternatives for Adobe software",
+    "officialSite": "",
+    "topics": ["alternatives", "list"]
   }
 ]

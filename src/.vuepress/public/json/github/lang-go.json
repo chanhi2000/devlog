@@ -146,9 +146,9 @@
     "topics": []
   }, {
     "repo": "alist-org/alist",
-    "desc": "🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "desc": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
     "officialSite": "https://alist.nn.ci",
-    "topics": ["golang", "onedrive", "webdav", "gin", "file-server", "solidjs"]
+    "topics": ["file-server", "gin", "golang", "onedrive", "solidjs", "webdav"]
   }, {
     "repo": "adhocteam/pushup",
     "desc": "Pushup is for making modern, page-oriented web apps in Go",
@@ -1564,5 +1564,15 @@
     "desc": "Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.",
     "officialSite": "",
     "topics": ["cli", "entropy", "secrets-detection"]
+  }, {
+    "repo": "JanDeDobbeleer/oh-my-posh",
+    "desc": "The most customisable and low-latency cross platform/shell prompt renderer",
+    "officialSite": "https://ohmyposh.dev",
+    "topics": ["bash", "cmd", "fish", "fish-shell", "git", "golang", "hacktoberfest", "nerd-fonts", "nushell", "powerline", "powershell", "prompt", "prompt-toolkit", "shell-prompt", "starship", "tooltips", "zsh"]
+  }, {
+    "repo": "digitalocean/go-libvirt",
+    "desc": "Package libvirt provides a pure Go interface for interacting with Libvirt.  Apache 2.0 Licensed.",
+    "officialSite": "",
+    "topics": []
   }
 ]

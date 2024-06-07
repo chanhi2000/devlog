@@ -204,4 +204,16 @@ head:
 
 ---
 
+## 컴공생의 발자취
+
+- [\[내일배움캠프 36일차 TIL\] .env 최신화와 코드카타](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-36%EC%9D%BC%EC%B0%A8-TIL-env-%EC%B5%9C%EC%8B%A0%ED%99%94%EC%99%80-%EC%BD%94%EB%93%9C%EC%B9%B4%ED%83%80)
+
+---
+
+## Hack MySQL
+
+- [Why MySQL Replication Is Fast](https://hackmysql.com/why-mysql-replication-is-fast/)
+
+---
+
 <TagLinks />

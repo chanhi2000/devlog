@@ -39,4 +39,10 @@ tag:
 
 ---
 
+## StarkeBlog
+
+- [Reverse Engineering MenuetOS 64 - Primary Boot Loader](https://starkeblog.com/bios/menuetos/2022/09/22/reverse-engineering-menuetos.html)
+
+---
+
 <TagLinks />

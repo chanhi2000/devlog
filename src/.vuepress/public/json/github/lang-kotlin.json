@@ -365,5 +365,10 @@
     "desc": "Asynchronous HTTP toolkit for Kotlin + JVM",
     "officialSite": "",
     "topics": ["http", "kotlin", "kotlin-coroutines", "netty"]
+  }, {
+    "repo": "cdsap/ArtifactTransformReport",
+    "desc": "Retrieve and display statistics of artifact transforms executed in a Gradle project using DV API",
+    "officialSite": "",
+    "topics": []
   }
 ]

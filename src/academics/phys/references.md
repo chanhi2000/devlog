@@ -41,6 +41,16 @@ head:
 
 - [Flat Planets](https://emildziewanowski.com/flat-planets/)
 
+---
+
+## 자바실험실
+
+- [이온의 이동](https://javalab.org/ion_movement/)
+- [비디오 운동 분석 (Motion Shot) – 베타 버전](https://javalab.org/motion_shot/)
+- [같은 회로](https://javalab.org/same_circuit/)
+- [자유 낙하 실험](https://javalab.org/free_falling/)
+- [광학 실험 시뮬레이터](https://javalab.org/optics/)
+- [부력 실험](https://javalab.org/buoyancy/)
 
 ---
 

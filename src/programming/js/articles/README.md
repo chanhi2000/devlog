@@ -193,6 +193,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use WeakMap and WeakSet in JavaScript",
+  "desc": "JavaScript offers a number of tools for organizing and managing data. And while developers often use widely recognized tools like Maps and Sets, they may often overlook certain other valuable resources.  For example, are you familiar with WeakMap and WeakSet? They're special tools in JavaScript that help store and...",
+  "link": "/explore/articles/freecodecamp.org/weakmap-and-weakset-in-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Frontend Masters Boost – Helping Your Journey to Senior Developer

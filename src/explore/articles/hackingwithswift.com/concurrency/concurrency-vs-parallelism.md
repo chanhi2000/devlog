@@ -74,11 +74,55 @@ There’s a famous computer scientist called Rob Pike, and I think he explained 
 
 ::: details Similar solutions…
 
-Where is Swift concurrency supported?
-How to fix the error “async call in a function that does not support concurrency”
-What are tasks and task groups?
-What’s the difference between async let, tasks, and task groups?
-Important: Do not use an actor for your SwiftUI data models
+```component VPCard
+{
+  "title": "Where is Swift concurrency supported? | Swift Concurrency by Example",
+  "desc": "Where is Swift concurrency supported?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/where-is-swift-concurrency-supported.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to fix the error “async call in a function that does not support concurrency” | Swift Concurrency by Example",
+  "desc": "How to fix the error “async call in a function that does not support concurrency”",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-fix-the-error-async-call-in-a-function-that-does-not-support-concurrency.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What are tasks and task groups? | Swift Concurrency by Example",
+  "desc": "What are tasks and task groups?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/what-are-tasks-and-task-groups.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What’s the difference between async let, tasks, and task groups? | Swift Concurrency by Example",
+  "desc": "What’s the difference between async let, tasks, and task groups?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-async-let-tasks-and-task-groups.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Important: Do not use an actor for your SwiftUI data models | Swift Concurrency by Example",
+  "desc": "Important: Do not use an actor for your SwiftUI data models",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/important-do-not-use-an-actor-for-your-swiftui-data-models.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 

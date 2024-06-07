@@ -65,6 +65,9 @@ head:
 - [엑셀 참조 1 - 참조 연산자의 모든 것](https://damoang.net/lecture/3975)
 - [엑셀 참조 2 - 상대 절대 혼합 참조 완벽하게 이해하기](https://damoang.net/lecture/4073)
 - [엑셀 참조 3 - 참조 범위 입력에 대한 이해](https://damoang.net/lecture/4120)
+- [엑셀 참조 4 - 기본 실습](https://damoang.net/lecture/4168)
+- [엑셀 자동으로 변경되는 행번호 만들기 & 행번호 생성 A-Z](https://damoang.net/lecture/4192)
+- [엑셀 참조 - 누적합계 구하기](https://damoang.net/lecture/4253)
 
 ---
 

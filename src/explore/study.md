@@ -151,6 +151,16 @@ tag:
   logo="https://jsisweird.com/logo192.png"
   preview="https://jsisweird.com/jsisweird.png"/>
 
+```component VPCard
+{
+  "title": "Data Structure Visualization",
+  "desc": "Currently, we have visualizations for the following data structures and algorithms:",
+  "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
+  "logo": "https://www.cs.usfca.edu/~galles/visualization/favicon.ico",
+  "background": "rgba(42,100,56,0.2)"
+}
+```
+
 <!-- @end Algorithm -->
 
 @tab Crashcourse
@@ -574,7 +584,29 @@ https://www.joinc.co.kr/w/Site
   logo="https://rtlstyling.com/img/favicon.png"
   preview="https://rtlstyling.com/img/thumb.jpg"/>
 
-https://www.ebssw.kr/info/intrcn/infoTchmtrHeaderView.do?tabType=006&pageIndex=1
+```component VPCard
+{
+  "title": "Map UI Patterns",
+  "desc": "Map UI Patterns describes best practices and design principles for map applications",
+  "link": "https://www.mapuipatterns.com/",
+  "logo": "https://www.mapuipatterns.com/apple-touch-icon.png",
+  "background": "rgba(65,147,82,0.2)"
+}
+```
+
+<SiteInfo
+  name="이솦 | EBS 소프트웨어·인공지능 교육"
+  desc="이솦 | EBS 소프트웨어·인공지능 교육"
+  url="https://www.ebssw.kr/info/intrcn/infoTchmtrHeaderView.do?tabType=006&pageIndex=1"
+  logo="https://www.ebssw.kr/images/egovframework/com/ebs/favicon.png"
+  preview="https://www.ebssw.kr/images/egovframework/com/ebs/logo_sns.png"/>
+
+<SiteInfo
+  name="Build your own Shell | CodeCrafters"
+  desc="Real-world proficiency projects designed for experienced engineers. Develop software craftsmanship by recreating popular devtools from scratch."
+  url="https://app.codecrafters.io/courses/shell/overview"
+  logo="https://app.codecrafters.io/assets/favicon.ico"
+  preview="https://codecrafters.io/images/app_og/course-shell.jpg"/>
 
 <!-- @end Crashcourse -->
 

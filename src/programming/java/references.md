@@ -33,7 +33,9 @@ tag:
 - [print directory tree](https://stackoverflow.com/questions/10655085/print-directory-tree)
 - [What is this date format? 2011-08-12T20:17:46.384Z](https://stackoverflow.com/questions/8405087/what-is-this-date-format-2011-08-12t201746-384z)
 
----
+### <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+
+- [Easy Hacks: How to Handle Exceptions in Java](https://blog.jetbrains.com/idea/2024/04/easy-hacks-how-to-handle-exceptions-in-java/)
 
 ### G마켓 기술블로그
 
@@ -103,6 +105,7 @@ tag:
 - [`@msa4080` - PART1. 자바 입문](https://blex.me/@msa4080/part1-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8-1)
 - [`@msa4080` - PART2. 자바 언어 기본(1)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8)
 - [`@msa4080` - PART2. 자바 언어 기본(2)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B82)
+[`@qkrtkdwns3410` / \[이펙티브 자바 아이템58\] 전통적인 for 문보다는 for-each 문을 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C58-%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-for-%EB%AC%B8%EB%B3%B4%EB%8B%A4%EB%8A%94-for-each-%EB%AC%B8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
@@ -419,6 +422,9 @@ tag:
 ### Free Java & OpenJDK Info for Daily Java Usage | foojay
 
 - [Indexing all of Wikipedia, on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
+- [How to Detect Cache Misses Using Observability](https://foojay.io/today/how-to-detect-cache-misses-using-observability/)
+- [Debugging Streams with Peek](https://foojay.io/today/debugging-streams-with-peek/)
+- [Records for Cleaner and More Expressive Parameterized Tests in JUnit 5](https://foojay.io/today/records-for-cleaner-and-more-expressive-parameterized-tests-in-junit-5/)
 
 ### Javalin - A lightweight Java and Kotlin web framework
 
@@ -439,6 +445,14 @@ tag:
 ### Mimul - Software Engineer, Blogger, Biker
 
 - [서비스 가용성 확보에 필요한 Rate Limiting Algorithm에 대해](https://www.mimul.com/blog/about-rate-limit-algorithm/)
+
+### Payara Services Ltd – devoted to Open Source, Java, our customers and the community
+
+- [Expressive REST Resources with Java Records and Jakarta REST](https://blog.payara.fish/expressive-rest-resources-with-java-records-and-jakarta-rest)
+
+### Enterprise Integration Patterns
+
+- [March is Not a Number](https://www.enterpriseintegrationpatterns.com/ramblings/40_marchnan.html)
 
 ---
 
@@ -502,6 +516,8 @@ tag:
 - [`@khush.panchal123` / Understanding Kotlin’s Any, Unit, Nothing](https://medium.com/@khush.panchal123/understanding-kotlins-any-unit-nothing-7bcaad73fbc1)
 - [`mariuszsoltysiak` / Convert HTML to PDF with Kotlin/JVM](https://mariuszsoltysiak.medium.com/convert-html-to-pdf-with-kotlin-jvm-35b9a0aeaa44)
 - [`@l2hyunwoo` / Kotlin 2.0으로 마이그레이션하기](https://medium.com/@l2hyunwoo/kotlin-2-0%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-1742f294df51)
+- [`donraab` / What if null was an Object in Java?](https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2)
+- [`proandroiddev` / Everything you want to know about Functional interfaces in Kotlin](https://proandroiddev.com/everything-you-want-to-know-about-functional-interfaces-in-kotlin-55f4ae7b64ec)
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -514,6 +530,7 @@ tag:
 - [`lucasfugisawa` / Kotlin Design Patterns: Simplifying the Builder Pattern](https://dev.to/lucasfugisawa/kotlin-design-patterns-simplifying-the-builder-pattern-3e7g)
 - [`mrkandreev` / How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)
 - [`@daredev` / Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
+- [`@mjsf1234` / 🔥 Mastering Java Concurrency: Dive into Part 1! 🚀](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-1-291h)
 
 ### Leo3418
 
@@ -620,6 +637,7 @@ tag:
 - [Static Code Analysers](/explore/articles/kt.academy/ak-static-analysis.md)
 - [Exercise: Implement shop functions](https://kt.academy/article/e_shop_functions) <!-- TODO: 작성 (/explore/articles/kt.academy/e-shop-functions.md) -->
 - [Item 28: Consider wrapping external APIs](/explore/articles/kt.academy/ek-wrapping-api.md)
+- [Mutable objects or properties?](https://kt.academy/article/var_readonly_vs_val_mutable) <!-- TODO: 작성 (/explore/articles/kt.academy/var-readonly-vs-val-mutable.md) -->
 
 ### zsmb.co
 
@@ -683,6 +701,10 @@ tag:
 ### Donovan LaDuke - Developer
 
 - [Reactive Programming in Kotlin - The Paradigm](https://dladukedev.com/articles/018_functional_reactive_programming)
+
+### Pale Blue
+
+- [Kotlin's `when` with enums: `else` considered harmful](https://www.paleblueapps.com/rockandnull/kotlin-when-enums-avoiding-else/)
 
 ---
 

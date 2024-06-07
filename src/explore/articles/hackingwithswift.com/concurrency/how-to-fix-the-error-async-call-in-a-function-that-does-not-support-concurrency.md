@@ -20,6 +20,7 @@ head:
       content: How to fix the error “async call in a function that does not support concurrency”
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/concurrency/how-to-fix-the-error-async-call-in-a-function-that-does-not-support-concurrency.html
+next: /explore/articles/hackingwithswift.com/concurrency/whats-the-difference-between-sequence-asyncsequence-and-asyncstream.md
 date: 2021-11-28
 isOriginal: false
 ---
@@ -56,11 +57,55 @@ isOriginal: false
 
 ::: details Similar solutions…
 
-How to call an async function using async let
-Why can’t we call async functions using async var?
-How to create and call an async function
-How to call async throwing functions
-Concurrency vs parallelism
+```component VPCard
+{
+  "title": "How to call an async function using async let | Swift Concurrency by Example",
+  "desc": "How to call an async function using async let",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-call-an-async-function-using-async-let.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Why can’t we call async functions using async var? | Swift Concurrency by Example",
+  "desc": "Why can’t we call async functions using async var?",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/why-cant-we-call-async-functions-using-async-var.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to create and call an async function | Swift Concurrency by Example",
+  "desc": "How to create and call an async function",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-create-and-call-an-async-function.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to call async throwing functions | Swift Concurrency by Example",
+  "desc": "How to call async throwing functions",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/how-to-call-async-throwing-functions.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Concurrency vs parallelism | Swift Concurrency by Example",
+  "desc": "Concurrency vs parallelism",
+  "link": "/explore/articles/hackingwithswift.com/concurrency/concurrency-vs-parallelism.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 :::
 
