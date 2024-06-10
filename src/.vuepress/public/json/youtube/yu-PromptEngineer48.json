@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "PromptEngineer48",
+    "name": "Prompt Engineer",
+    "profile": "https://yt3.googleusercontent.com/GuKXlrEgQpT6HCaOIzUxpgb2goFMv6Af_xIvjiPP9IV7x2mYj8NE2jsOzpJaM0ljhMnk-2E0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kZLQi4UcfeR55PdqM-Co1s9iL6kbCsZmKlrrBLVYj5VyyVxs7nf3VJDqRI_I7huyQSOR4llHMm8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KCeiQV4aZ70", "title": "Sora: First Impressions | Crazy Outputs produced by the Artists" },
+    { "id": "_Vtq2QlLgfg", "title": "How to deploy NVIDIA'S AI models as API Using Langserve" },
+    { "id": "gcMdzGrDLlw", "title": "DEVIKA | Getting Started [A-Z] Install & Run | Use Cases" },
+    { "id": "j0IcXZOzI9o", "title": "RAG Chatbot Production Level : Getting Started - Chapter 1" },
+    { "id": "iKAJ4pzv9Dw", "title": "Meta's LLAMA 3 takes a Leap of Faith !" },
+    { "id": "s0LQ8PyfI2E", "title": "Run 70B Llama-3 LLM (for FREE) with NVIDIA endpoints | Code Walk-through" },
+    { "id": "Qs_8r8EUh_4", "title": "Take your Meta Llama-3 for a Ride (for FREE) with NVIDIA API" },
+    { "id": "cn0qbHM65Go", "title": "Build a Million dollars $ AI Chatbot Industry | Motivation" },
+    { "id": "HSDbKKeAEsQ", "title": "RAG Chatbot Production Level : Testing POC using OpenAI Assistants- Chapter 2" },
+    { "id": "RfIXVlMEi4c", "title": "Local Function Calling with Llama3 using Ollama and Phidata" },
+    { "id": "OGXSPooHOfI", "title": "Simple RAG with Llama-Index and NVIDIA API Endpoints" },
+    { "id": "aGXb-AfEQx4", "title": "An Idea to Query 100s of SQL Tables | In-depth Discussion" },
+    { "id": "SWj6uoLDIj4", "title": "RAG Researcher Using Llama3 and Ollama & Phidata" },
+    { "id": "ttr2xVtCWXQ", "title": "🎉🎁 What's after GPT-4o ? Is this AGI ?" },
+    { "id": "tq6HSvqy50I", "title": "Run Google's Paligemma using NVIDIA Endpoints for Free" },
+    { "id": "9AWlJViulvw", "title": "Take a note of this Amazing \"Video to Text\" Method !" },
+    { "id": "0pksdINCFIU", "title": "JARVIS on Telegram : Text and Voice Output !!  (Video 1 / 2)" },
+    { "id": "ZiY3FgBVSmY", "title": "Most Simplistic Way to Embed your Chatbot on your Website | Groq" },
+    { "id": "2grSPoxaH_8", "title": "Auto-Select the Most Relevant Bot to Answer Your Query | Groq and DeepGram and UI Magic 🧝‍♀️" },
+    { "id": "kBMFPUlJmnM", "title": "The Future of Work is HERE: AI is Taking Over (But It's Good!)" },
+    { "id": "YJX5KA3zsck", "title": "Surprisingly simple way to use Ollama | Page Assist : Web UI and Side Bar" },
+    { "id": "YZl9f5tcFVY", "title": "🔥 Is this the Best Crawler for LLM-Ready Data | FireCrawl 🔥" },
+    { "id": "z9xccczMBPY", "title": "Oops ! Should I stop working on Sentient AI ??" },
+    { "id": "A7aMGzgW0Zk", "title": "Shocking Updates to GROQ with 1250 tokens/second | GROQ" },
+    { "id": "1JBL7M_1iuw", "title": "The #1 Code Generation LLM in History | Easy to Use with an Entirely open-source AI Code Assistant" },
+    { "id": "B9xOq-6FXIA", "title": "Use NVIDIA’s NIM for FREE | Limited Period" }
+  ],
+  "playlists": [
+
+  ]
+}

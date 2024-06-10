@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/pHXDa82R6O1ni_s7gslBsU6qjZtoQJczJckFdRfd_1OgCIV0CcouWMaRi5vBbh8o7JP9Svdj=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "65cTQ2c6IYY", "title": "Ansible in Production: Ansible Navigator | Real Time DevOps" },
+    { "id": "X6WtkaAXQu8", "title": "Multi Stage Dockerfile | Docker Production Build | NodeJS Docker App" },
+    { "id": "Udg3uJt9H2g", "title": "Ansible Role in Real Time | Real World Ansible Project | Wordpress Ansible Deployment" },
+    { "id": "8wurz3hobN0", "title": "Ansible For DevOps | Full Series | Real Time Ansible DevOps | Chapter 1 | Hindi" },
+    { "id": "UFgHy2KIUJU", "title": "Openshift Tutorial | Creating Openshift Users | Openshift 4.14" },
+    { "id": "f5BHXIB7spo", "title": "Openshift Tutorial | Openshift Groups and RBAC | Openshift 4.14" },
+    { "id": "WTCDIMnAq9Q", "title": "Openshift Deployment | Multi Tier Openshift App | Openshift Tutorial" },
+    { "id": "Vo8XmDNCZKE", "title": "Openshift Routes | Openshift Tutorial | Insecure Route | Edge Route | Passthrough Route" },
+    { "id": "ked2LiXKL1Q", "title": "Openshift Custom Roles | Openshift Tutorials | Openshift RBAC" },
     { "id": "-TaQ7_NHJgc", "title": "Kubernetes Cluster - Join Workers into the Cluster - Kubernetes Training" },
     { "id": "ojLnASJv41M", "title": "Kubernetes Cluster - Bootstrap cluster - Initialize Kubernetes Control Plane - Kubernetes Training" },
     { "id": "4Fi94KhsDB8", "title": "Kubernetes Cluster Setup - Installing Packages on Kubernetes Manager - CKA Training - Kubernetes" },

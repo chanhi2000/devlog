@@ -31,7 +31,7 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-academind" /><!-- Academind -->
-<MyYouTubeItems jsonName="yu-BecodemyOfficial" />
+<MyYouTubeItems jsonName="yu-BecodemyOfficial" /><!-- Becodemy -->
 <MyYouTubeItems jsonName="yu-CoderOne" /><!-- CoderOne -->
 <MyYouTubeItems jsonName="yu-DaveGrayTeachesCode" /><!-- Dave Gray -->
 <MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 코딩하는오후 -->
@@ -45,5 +45,6 @@ head:
 <MyYouTubeItems jsonName="yu-log_the_summer" /><!-- 써머 log the summer -->
 <MyYouTubeItems jsonName="yu-LamaDev" /><!-- Lama Dev -->
 <MyYouTubeItems jsonName="yu-jeonghwan_kim" /><!-- 김정환 -->
+<MyYouTubeItems jsonName="yu-developedbyed" /><!-- developedbyed -->
 
 <TagLinks />

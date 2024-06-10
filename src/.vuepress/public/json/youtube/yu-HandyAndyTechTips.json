@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "HandyAndyTechTips",
+    "name": "HandyAndy Tech Tips",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kyHxb9oI52JYETOjhvZAKRIi4ofQdYMDKzzVZtrewSXMQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tnEL1gvrScnEIZuv1BpbFk59m2jgrcjJNqXIEuZ9UI0dF3pkzioXi_8E0rF5xp-pnYbT20PREg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UPPP-GyqMeY", "title": "How to Upgrade to Windows 11 on Unsupported PCs/Hardware (2024) - Windows 10 End Of Life" },
+    { "id": "H82RQdJqhtM", "title": "Make Your Own Spotify! How to Build an Amazing Music Library by Ripping CDs (Windows 11, Android)" }
+  ],
+  "playlists": [
+
+  ]
+}

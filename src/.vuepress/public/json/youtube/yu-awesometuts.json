@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "awesometuts",
+    "name": "Awesome Tuts - Anyone Can Learn To Make Games",
+    "profile": "https://yt3.googleusercontent.com/2oBlRUtDsmrZfNBjUlC_HwuAHBiqMR7udbcKTSITUmYkiq53Tm3WMUCqjToZgaytuoketMiqdQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BSQ397cVXHlKm5TRVUazcCQZjWD0u1UaluHYybQGDxFCP0Uh6HySyYfi2DruGycrltuodhUVag=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yIvDCMgzQg4", "title": "How To Retarget Animations In Unreal Engine 5 + FREE Character Pack" },
+    { "id": "ttcPeZ6GBrM", "title": "How To Retarget Animations In Unity Engine + FREE Character Pack" }
+  ],
+  "playlists": [
+
+  ]
+}

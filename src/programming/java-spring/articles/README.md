@@ -326,6 +326,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "외부 툴 변경에 휘둘리지 않는 서버 코드 작성기",
+  "desc": "사례로 보는, DIP를 이용한 외부 툴에 의존하지 않는 도메인 모델 설계",
+  "link": "/explore/articles/blog.gangnamunni.com/dependency-inversion-principle.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
+}
+```
+
+<!-- END: blog.gangnamunni.com -->
+
 ---
 
 ## 지마켓 기술블로그

@@ -52,7 +52,20 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+Whenever we use `await` to call an async function, we mark a potential suspension point in our code – we’re acknowledging that it’s entirely possible our function will be suspended, along with all its callers, while the work completes. In terms of performance, this is *not* free: synchronous and asynchronous functions use a different calling convention internally, with the asynchronous variant being slightly less efficient.
+
+The important thing to understand here is that Swift cannot tell at compile time whether an `await` call will suspend or not, and so the same (slightly) more expensive calling convention is used regardless of what actually takes place at runtime.
+
+However, what happens at runtime depends on whether the call suspends or not:
+
+- If a suspension happens, then Swift will pause the function and all its callers, which has a small performance cost. These will then be resumed later, and ultimately whatever performance cost you pay for the suspension is like a rounding error compared to the performance gain provided by async/await even existing.
+- If a suspension does *not* happen, no pause will take place and your function will continue to run with the same efficiency and timings as a synchronous function.
+
+That last part carries an important side effect: using `await` will not cause your code to wait for one runloop to go by before continuing.
+
+It’s a common joke that many coding problems can be fixed by waiting for one runloop tick to pass before trying again – usually seen as `DispatchQueue.main.async { … }` in Swift projects – but that will *not* happen when using `await`, because the code will execute immediately.
+
+So, if your code doesn’t actually suspend, the only cost to calling an asynchronous function is the slightly more expensive calling convention, and if your code *does* suspend then any cost is more or less irrelevant because you’ve gained so much extra performance thanks to the suspension happening in the first place.
 
 ::: details Similar solutions…
 

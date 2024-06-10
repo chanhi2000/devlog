@@ -318,6 +318,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Mutable objects or properties?",
+  "desc": "Time to answer the question: var/readonly vs val/mutable. Which one should you use?",
+  "link": "/explore/articles/kt.academy/var-readonly-vs-val-mutable.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The problem of union types for type systems",
+  "desc": "Why union types are not such a good idea for static type systems.",
+  "link": "/explore/articles/kt.academy/union-types-into.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
 ---
 
 ## Blog - LINE ENGINEERING

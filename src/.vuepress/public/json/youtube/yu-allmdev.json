@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/sRm7TGzs7lX7vQYYa3bC5AKlWjI3TmTxUZhO38_pIoAhrDuPTFnju4-4RKJzU4vC1yj5cCJ6=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OPupoXVjmNY", "title": "Python 기초 - 정규식(regex) 전화번호 패턴 만들어보기" },
+    { "id": "1uI1OzuuUDw", "title": "Python 기초 - 정규 표현식 기본" },
     { "id": "jKE1BKpm-fQ", "title": "Python 기초 - 홀수, 짝수 연산 + 소수점 처리" },
     { "id": "-OJhka0HEwA", "title": "랭체인(Langchain), 프로덕션에서는 쓰지말라고?" },
     { "id": "DUn796wcsCs", "title": "Python 기초 - 함수 타입 지정, Type hint" },

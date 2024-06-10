@@ -373,5 +373,17 @@ tag:
 [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 
 ---
-	
+
+## Abstac Expression
+
+- [Finding out where Syscalls are Called From: Stack Traces with Strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
+
+---
+
+## fobes.dev
+
+- [Detecting a PS2 Emulator: The VU0 Pipeline](https://fobes.dev/ps2/detecting-emu-vu0-pipeline)
+
+---
+
 <TagLinks />

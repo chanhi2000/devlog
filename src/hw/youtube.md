@@ -65,5 +65,9 @@ head:
 <MyYouTubeItems jsonName="yu-life_peace87" /><!-- 라이프피스 -->
 <MyYouTubeItems jsonName="yu-mediacccde" /><!-- mediacccde -->
 <MyYouTubeItems jsonName="yu-DammitJeff" /><!-- Dammit Jeff -->
+<MyYouTubeItems jsonName="yu-bogxd" /><!-- Bog -->
+<MyYouTubeItems jsonName="yu-BGRIMJI" /><!-- 번거로운 임지 IMJI -->
+<MyYouTubeItems jsonName="yu-iApplePro" /><!-- iApplePro -->
+<MyYouTubeItems jsonName="yu-rt9" /><!-- Route 9 루트나인 -->
 
 <TagLinks />

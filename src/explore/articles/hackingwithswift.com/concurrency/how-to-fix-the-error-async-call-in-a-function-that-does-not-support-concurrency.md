@@ -53,7 +53,29 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+This error occurs when you’ve tried to call an async function from a synchronous function, which is not allowed in Swift – asynchronous functions must be able to suspend themselves and their callers, and synchronous functions simply don’t know how to do that.
+
+If your asynchronous work needs to be waited for, you don’t have much of a choice but to mark your current code as also being `async` so that you can use `await` as normal. However, sometimes this can result in a bit of an “async infection” – you mark one function as being async, which means its caller needs to be async too, as does *`its*` caller, and so on, until you’ve turned one error into 50.
+
+In this situation, you can create a dedicated `Task` to solve the problem. We’ll be covering this API in more detail later on, but here’s how it would look in your code:
+
+```swift
+func doAsyncWork() async {
+    print("Doing async work")
+}
+
+func doRegularWork() {
+    Task {
+        await doAsyncWork()
+    }
+}
+
+doRegularWork()
+```
+
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/concurrency/how-to-fix-the-error-async-call-in-a-function-that-does-not-support-concurrency-1.zip)
+
+Tasks like this one are created and run immediately. We aren’t waiting for the task to complete, so we shouldn’t use `await` when creating it.
 
 ::: details Similar solutions…
 

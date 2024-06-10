@@ -46,7 +46,6 @@ tag:
 <MyYouTubeItems jsonName="yu-EsriEvents" /><!-- Esri Events -->
 <MyYouTubeItems jsonName="yu-esri_arcgis" /><!-- ArcGIS -->
 <MyYouTubeItems jsonName="yu-cncf" /><!-- CNCF -->
-<MyYouTubeItems jsonName="yu-nginx_official" /><!-- NGINX -->
 <MyYouTubeItems jsonName="yu-unity" /><!-- Unity -->
 <MyYouTubeItems jsonName="yu-MicrosoftDeveloper" /><!-- Microsoft Developer -->
 <MyYouTubeItems jsonName="yu-visualstudio" /><!-- Microsoft Visual Studio -->
@@ -116,5 +115,7 @@ tag:
 <MyYouTubeItems jsonName="yu-SamsungNewsroom" /><!-- 삼성전자 뉴스룸 [Samsung Newsroom] -->
 <MyYouTubeItems jsonName="yu-wasmio" /><!-- WASM I/O -->
 <MyYouTubeItems jsonName="yu-Google" /><!-- Google -->
+<MyYouTubeItems jsonName="yu-toss_securities" /><!-- 토스증권 -->
+<MyYouTubeItems jsonName="yu-theBankofKoreakr" /><!-- 한국은행 -->
 
 <TagLinks />

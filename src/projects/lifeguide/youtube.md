@@ -133,5 +133,7 @@ head:
 <MyYouTubeItems jsonName="yu-carjinnam" /><!-- 카진남 -->
 <MyYouTubeItems jsonName="yu-shortform" /><!-- 짤컷 -->
 <MyYouTubeItems jsonName="yu-FrugalRepair" /><!-- FrugalRepair -->
+<MyYouTubeItems jsonName="yu-art_for_you" /><!-- 널 위한 문화예술 -->
+<MyYouTubeItems jsonName="yu-sikbo" /><!-- 이재성 박사의 식탁보감 -->
 
 <TagLinks />

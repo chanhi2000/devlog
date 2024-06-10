@@ -67,7 +67,7 @@ head:
 
 ## 요즘IT
 
-> yozm.wishket.
+> yozm.wishket.com
 
 ```component VPCard
 {

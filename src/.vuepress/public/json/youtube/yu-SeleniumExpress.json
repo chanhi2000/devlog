@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/lOB0YSLGhIh7DdbmkvL2nsevjVGo9pSgwhriNSjajZuqSklUgVH1NsA5xPYe6JGDUKQ6SSS7xw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yohGxGYg3t4", "title": "Spring Boot project #1 - Let's code a Game Using Java + Spring |  spring boot tutorial for beginners" },
+    { "id": "ot-5L3pE8ro", "title": "Spring Boot Project Challenge #2 -  Logic Building & Debugging | spring boot for beginners" },
+    { "id": "14OjZL7Dk1I", "title": "Spring Security Master class - Setting Up User Registration | spring security tutorial | Ep #5" },
+    { "id": "_yhuyrtvv18", "title": "Spring Boot Project Challenge #3 - Handling Optional Request Parameters in Spring MVC / REST API" },
+    { "id": "XX8zq-Qg9uk", "title": "WHAT JdbcUserDetailsManager is all about ? MUST-KNOW Spring Security database authentication example" },
+    { "id": "jmlXMhS8zjc", "title": "Spring Boot Project Challenge #4 : Solve this array puzzle using Java  & Spring  Boot" },
+    { "id": "3MoJlyPmycA", "title": "Coding Game Over feature using Spring boot + Java + Javascript | Spring boot project challenge 5 & 6" },
+    { "id": "-HU8whhAWBM", "title": "Spring Security LOGIN with custom Database table (MySQL) | UserDetailsService #7" },
+    { "id": "z65J3JPbs9A", "title": "Spring Data JPA [PRO] - How to connect Multiple Databases using Spring Boot | Multiple Datasources" },
+    { "id": "n9LB2U4h3OY", "title": "spring bean scopes implementation in real-time | Reload button | Game development challenge #6" },
+    { "id": "ZTv6uQ2AlA8", "title": "Spring Framework 6 - project setup | Spring Core | Spring MVC | Spring Boot -  STS / Eclipse" },
+    { "id": "v_ABLktEwRU", "title": "Microservices in 60 mins | Learning Path & Interview Preparation" },
     { "id": "0RbL5Ps2V-w", "title": "Spring Security Master Class - Configure HttpSecurity | User Authentication & Authorization #4" },
     { "id": "lRyIUCzrSew", "title": "[NEW] Spring Security Basics -  User | UserDetails | UserDetailsManager #springsecurity | Ep - 2" },
     { "id": "tHfUhfDvBmY", "title": "Master Spring Security Basics - II | Step by Step tutorial for beginners | Episode - 3" },

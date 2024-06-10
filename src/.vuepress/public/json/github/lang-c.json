@@ -1019,5 +1019,10 @@
     "desc": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
     "officialSite": "http://www.libretro.com",
     "topics": ["c", "libretro", "retroarch"]
+  }, {
+    "repo": "haampie/libtree",
+    "desc": "ldd as a tree",
+    "officialSite": "",
+    "topics": []
   }
 ]

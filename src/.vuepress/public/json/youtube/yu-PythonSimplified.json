@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/aLdyFwbXe0DOqJvaKTwNQrha85jmP2cA3lVrKv9rYNpFhuXwrks1Hwyot7E_AELadQfjofUi1w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zp6hI1GbnHs", "title": "You Choose the Topic of Today's Stream - Coding, Chatting or Designing? 🤔" },
+    { "id": "FxTEOuHF6bA", "title": "Cloud Computing for Beginners - The Ultimate Guide" },
+    { "id": "cgxTwQT1ahw", "title": "OOP Exercise with Pygame" },
     { "id": "CK698jyL_R8", "title": "Long Time No Stream - Let's Catch-up!" },
     { "id": "GfT8RDRW5vM", "title": "Robotic Stream with Kevin McAleer" },
     { "id": "9KsJRyZJ0vo", "title": "Much Faster Pandas with cuDF GPU Processing - CPU vs GPU Speed Benchmarks" },

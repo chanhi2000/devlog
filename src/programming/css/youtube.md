@@ -49,5 +49,6 @@ tag:
 <MyYouTubeItems jsonName="yu-CodinginPublic" /><!-- Coding in Public -->
 <MyYouTubeItems jsonName="yu-Bogdan_Stashchuk" /><!-- Bogdan Stashchuk -->
 <MyYouTubeItems jsonName="yu-Algolia" /><!-- Algolia -->
+<MyYouTubeItems jsonName="yu-academind" /><!-- Academind -->
 
 <TagLinks />

@@ -51,10 +51,19 @@ head:
 ### Blog - LINE ENGINEERING
 
 - [FIDO at LINE: FIDO2 서버를 오픈 소스로 공개했습니다](https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/fido-at-line-fido2-server-opensource.md) -->
+- [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/req-saver-for-thundering-herd-problem-in-cache.md) -->
 
 ### 강남언니 공식 블로그
 
-- [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle) <!-- TODO: 작성 (/explore/articles/blog.gangnamunni.com/dependency-inversion-principle.md) -->
+```component VPCard
+{
+  "title": "외부 툴 변경에 휘둘리지 않는 서버 코드 작성기",
+  "desc": "사례로 보는, DIP를 이용한 외부 툴에 의존하지 않는 도메인 모델 설계",
+  "link": "/explore/articles/blog.gangnamunni.com/dependency-inversion-principle.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
+}
+```
 
 ### NAVER D2
 
@@ -64,10 +73,6 @@ head:
 ### NHN Cloud Meetup - NHN 기술 블로그
 
 - [JWT를 소개합니다.](https://meetup.nhncloud.com/posts/239) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/239.md) -->
-
-### Blog - LINE ENGINEERING
-
-- [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/req-saver-for-thundering-herd-problem-in-cache.md) -->
 
 ### DZone
 

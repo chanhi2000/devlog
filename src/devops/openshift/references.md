@@ -11,6 +11,14 @@ tag:
   - oc
   - saas
   - paas
+head:
+  - - meta:
+    - property: og:title
+      content: Openshift > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/openshift/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

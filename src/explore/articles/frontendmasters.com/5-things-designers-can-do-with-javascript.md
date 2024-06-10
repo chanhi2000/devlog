@@ -2,14 +2,15 @@
 lang: ko-KR
 title: Five Basic Things About JavaScript That Will Help Non JavaScript-Focused Web Designers
 description: Article(s) > Five Basic Things About JavaScript That Will Help Non JavaScript-Focused Web Designers
-icon: fa-brands fa-css3-alt
+icon: fa-brands fa-js
 category: 
-  - CSS
+  - JavaScript
   - Article(s)
 tag: 
   - blog
   - frontendmasters.com
-  - css
+  - js
+  - javascript
 head:
   - - meta:
     - property: og:title

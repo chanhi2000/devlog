@@ -271,4 +271,16 @@ tag:
 
 ---
 
+## Managed Linux Hosting & Cloud Solutions | RoseHosting
+
+- [How to Install Drupal on Debian 12](https://www.rosehosting.com/blog/how-to-install-drupal-on-debian-12/)
+
+---
+
+## LinuxCapable - Linux Guides, Help and Tips
+
+- [How to Install Plex Media Server on Debian 12, 11 or 10](https://www.linuxcapable.com/how-to-install-plex-media-server-on-debian-linux/)
+
+---
+
 <TagLinks />

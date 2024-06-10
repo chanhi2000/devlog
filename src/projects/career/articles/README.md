@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - frontendmasters.com
   - smashingmagazine.com
   - yozm.wishket.com
   - tech.kakao.com
@@ -25,6 +26,16 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Frontend Masters Boost – Helping Your Journey to Senior Developer",
+  "desc": "Helping Your Journey to Senior Developer",
+  "link": "https://frontendmasters.com/blog/",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -57,6 +68,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## Frontend Masters Boost – Helping Your Journey to Senior Developer
+
+> frontendmasters.com
+
+```component VPCard
+{
+  "title": "Fast and Budget-Friendly User Research and Testing",
+  "desc": "Despite perceived challenges like cost and time, modern tools such as Lookback and Maze offer affordable and efficient remote and unfacilitated testing options.",
+  "link": "/explore/articles/frontendmasters.com/fast-and-budget-friendly-user-research-and-testing.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+<!-- END frontendmasters.com -->
 
 ---
 

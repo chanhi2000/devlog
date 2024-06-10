@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "LazyDevs",
+    "name": "Lazy Devs",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nLXnVDFa0KMErGGwVbAg83zYclvxTdlheuEpt4gpG8Gw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eD_ABcQGYrukrkRSAhEk3Wz5eFBokXDorVyCwCageFKEYFaiCxB-CdqR4ERBtAAtnus4dZx_=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JYIkC57qSLc", "title": "Making an Advanced Shmup #79 - Cancel & Seal - Pico-8 Hero" },
+    { "id": "Bh7d7mWo8PY", "title": "Making an Advanced Shmup #80 - Bullet Origin - Pico-8 Hero" },
+    { "id": "90IXh-UD_Ew", "title": "Making an Advanced Shmup #81 - Gameplay Prototype - Pico-8 Hero" }
+  ],
+  "playlists": [
+
+  ]
+}

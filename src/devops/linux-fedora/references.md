@@ -39,4 +39,10 @@ tag:
 
 ---
 
+## Linux TLDR
+
+- [How to Install Apache Kafka on RHEL-Based Distributions](https://linuxtldr.com/installing-apache-kafka/)
+
+---
+
 <TagLinks />

@@ -8,7 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
-  - d2.naver.org
+  - d2.naver.com
   - mongodb
 head:
   - - meta:
@@ -42,6 +42,16 @@ head:
   "title": "Hadoop과 MongoDB를 이용한 로그분석시스템 | NAVER D2",
   "desc": "Hadoop과 MongoDB를 이용한 로그분석시스템",
   "link": "/explore/articles/d2.naver.com/1016.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "NoSQL 가용성과 운영 안정성 | NAVER D2",
+  "desc": "NoSQL 가용성과 운영 안정성",
+  "link": "/explore/articles/d2.naver.com/1039.md",
   "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }

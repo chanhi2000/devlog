@@ -10,6 +10,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - frontendmasters.com
   - meetup.nhncloud.com
   - zuminternet.github.io
   - node
@@ -51,6 +52,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## Frontend Masters Boost – Helping Your Journey to Senior Developer
+
+> frontendmasters.com
+
+```component VPCard
+{
+  "title": "Playing with the Speculation Rules API in the Console",
+  "desc": "This new API enables client-side prerendering, improving performance for users who are likely to visit a new page. ",
+  "link": "/explore/articles/frontendmasters.com/playing-with-the-speculation-rules-api-in-the-console.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+<!-- END frontendmasters.com -->
 
 ---
 

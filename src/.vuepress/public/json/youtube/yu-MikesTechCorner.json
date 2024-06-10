@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/PTFsJGzsUDC8WTGWYOIZn1lerx8k43bUgjBWJwNR6mlXd6ZrL9kFv7Z6hnAqj9QHX78KU_GIjQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mvlr50ay0A4", "title": "Java Group Annotations" },
+    { "id": "qM1weE8SON8", "title": "Mapstruct Gradle And Kotlin" },
+    { "id": "TLDwNhaZOlM", "title": "Kotlin Spring Boot 2024" },
+    { "id": "2UPe-Hf9DKQ", "title": "Git Regret Message" },
+    { "id": "FsGK2ICgR2s", "title": "Spring Boot ConditionalOnProperty 2024" },
+    { "id": "h8wVRuvTR_U", "title": "Mouse Shortcuts For Developers" },
+    { "id": "3I1RnvrssoI", "title": "Why Developers do not Like PRINCE2 Project Managers" },
+    { "id": "pDat19aiVQI", "title": "Google Vertex Ai Image Classifier" },
+    { "id": "bWb6XVPMEVU", "title": "Google Vertext Batch Predictions" },
+    { "id": "yGAPCS2I6vA", "title": "Google Vertex Use Trained Model With Python" },
     { "id": "rKcisex97bk", "title": "Spring Boot Rest Expose Build Time Information" },
     { "id": "mEpljNd5QzU", "title": "Cucumber And Python Behave" },
     { "id": "kOGOfrQkIZE", "title": "Intellij Plugin CamelCase" },

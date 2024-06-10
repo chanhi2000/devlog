@@ -23,6 +23,7 @@ export const template: SidebarInfoTemplate = {
       "beyond-css-media-queries", // 2024-05-16
       "modern-css-layouts-no-framework-needed", // 2024-05-22
       "switching-it-up-html-latest-control", // 2024-05-24
+      "css-tips-and-techniques", // 2024-06-07
     ]],[
     "system-design", [
       "how-run-ux-research-without-access-users", // 2024-05-10
@@ -30,6 +31,7 @@ export const template: SidebarInfoTemplate = {
       "building-user-segmentation-matrix-foster-cross-org-alignment", // 2024-05-17
       "hidden-vs-disabled-ux", // 2024-05-21
       "naming-best-practices", // 2024-05-23
+      "scaling-success-key-insights-pratical-takeaways", // 2024-06-04
     ]],[
     "ai", [
       "harness-mouse-interaction-data-machine-learning", // 2024-05-06
@@ -54,6 +56,8 @@ export const template: SidebarInfoTemplate = {
       "naming-best-practices", // 2024-05-23
       "switching-it-up-html-latest-control", // 2024-05-24
       "netlify-platform-primitives", // 2024-05-28
+      "scaling-success-key-insights-pratical-takeaways", // 2024-06-04
+      "css-tips-and-techniques", // 2024-06-07
     ]],
   ])
 }

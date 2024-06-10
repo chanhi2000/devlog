@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - meetup.nhncloud.com 
+  - d2.naver.com
   - docker
 head:
   - - meta:
@@ -31,6 +32,13 @@ head:
   "background": "rgba(76,156,227,0.2)"
 }
 ```
+
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -69,6 +77,26 @@ head:
   "background": "rgba(76,156,227,0.2)"
 }
 ```
+
+<!-- END: meetup.nhncloud.com -->
+
+---
+
+## NAVER D2
+
+> d2.naver.com
+
+```component VPCard
+{
+  "title": "NoSQL 가용성과 운영 안정성 | NAVER D2",
+  "desc": "NoSQL 가용성과 운영 안정성",
+  "link": "/explore/articles/d2.naver.com/1039.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+<!-- END: d2.naver.com -->
 
 ---
 

@@ -12,6 +12,7 @@ tag:
   - freecodecamp.org
   - smashingmagazine.com
   - yozm.wishket.com
+  - d2.maver.com
   - oliveyoung.tech
   - engineering.ab180.co
 head:
@@ -55,6 +56,13 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 ```component VPCard
 {
@@ -145,6 +153,16 @@ head:
   "title": "Best Practices For Naming Design Tokens, Components And Variables",
   "desc": "How can we get better at naming? This post is dedicated to naming conventions, tips, and real-world examples that help you name things in a robust and flexible way.",
   "link": "/explore/articles/smashingmagazine.com/naming-best-practices.md",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scaling Success: Key Insights And Practical Takeaways",
+  "desc": "The web is still a young platform, and we’re only now beginning to recognize what 'success' looks like for large projects. In his recent Smashing book, Success at Scale, Addy Osmani presents practical case studies featuring the web’s most renowned companies and their efforts to make big changes to existing apps and sites. In this article, Addy shows some of the key insights he has learned.",
+  "link": "/explore/articles/smashingmagazine.com/scaling-success-key-insights-pratical-takeaways.md",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -245,6 +263,26 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
+
+---
+
+## NAVER D2
+
+> d2.naver.com
+
+```component VPCard
+{
+  "title": "uMon의 이해 | NAVER D2",
+  "desc": "uMon의 이해",
+  "link": "/explore/articles/d2.naver.com/1062.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+<!-- END: d2.naver.com -->
 
 ---
 

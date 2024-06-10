@@ -11,6 +11,7 @@ tag:
   - blog
   - digitalocean.com
   - yozm.wishket.com
+  - blog.gangnamunni.com
   - towardsdatascience.com
   - devops
   - docker
@@ -43,6 +44,13 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<SiteInfo
+  name="강남언니 공식 블로그"
+  desc="강남언니의 조직문화와 일하는 방식을 이야기합니다."
+  url="https://blog.gangnamunni.com/"
+  logo="https://blog.gangnamunni.com/favicon.ico"
+  preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
 ```component VPCard
 {

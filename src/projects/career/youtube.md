@@ -30,5 +30,6 @@ tag:
 <MyYouTubeItems jsonName="yu-geminikims" /><!-- 제미니의 개발실무 -->
 <MyYouTubeItems jsonName="yu-nang88" /><!-- nang -->
 <MyYouTubeItems jsonName="yu-ycombinator" /><!-- Y Combinator -->
+<MyYouTubeItems jsonName="yu-devbadak" /><!-- 개발바닥 -->
 
 <TagLinks />

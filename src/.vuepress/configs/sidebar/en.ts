@@ -398,6 +398,7 @@ export const sidebarEn = sidebar({
             asb.frontendmaster("js"),
             asb.sitepoint("js"),
             asb.nhn("js"),
+            asb.d2("js"),
             asb.devtoolstips("js"),
           ]
         }
@@ -1414,6 +1415,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/chrome/articles/README.md',
+            asb.frontendmaster("chrome"),
             asb.devtoolstips("chrome"),
             asb.zuminternet("chrome"),
           ]
@@ -1998,6 +2000,7 @@ export const sidebarEn = sidebar({
       children: [
         '/devops/openshift/README.md',
         '/devops/openshift/references.md',
+        '/devops/openshift/youtube.md',
       ]
     }, {
       text: 'Terraform',
@@ -2340,7 +2343,20 @@ export const sidebarEn = sidebar({
     {
       text: 'Data Science',
       icon: 'fas fa-database',
-      children: [ '/data-science/README.md' ],
+      children: [ 
+        '/data-science/README.md',
+        '/data-science/references.md',
+        '/data-science/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/articles/README.md',
+            asb.d2("data-science"),            
+          ]
+        },
+      ],
     }, {
       text: 'MySQL',
       collapsible: true,
@@ -2428,7 +2444,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/mongodb/articles/README.md',
-            asb.d2("hadoop"),
+            asb.d2("mongodb"),
           ]
         }
       ]
@@ -2578,6 +2594,7 @@ export const sidebarEn = sidebar({
           children: [
             '/data-science/cassandra/articles/README.md',
             asb.nhn("cassandra"),
+            asb.d2("cassandra"),
           ]
         }
       ]
@@ -2652,6 +2669,7 @@ export const sidebarEn = sidebar({
           children: [
             '/ai/openai/articles/README.md',
             asb.digitalocean("openai"),
+            asb.yozm("openai"),
             asb.woowahan("openai"),
           ]
         }
@@ -2805,6 +2823,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/projects/career/articles/README.md',
+            asb.frontendmaster("career"),
             asb.smashingmagazion("career"),
             asb.yozm("career"),
           ]
@@ -2958,6 +2977,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("system-design"),
             asb.smashingmagazion("system-design"),
             asb.yozm("system-design"),
+            asb.d2("system-design"),
             asb.oliveyoung("system-design"),
             asb.ab180("system-design"),
           ]

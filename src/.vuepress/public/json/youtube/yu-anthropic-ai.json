@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "anthropic-ai",
+    "name": "Anthropic",
+    "profile": "https://yt3.googleusercontent.com/cNWrhiZ-Vx2peCEHQnY6MATeeGgz-_aZv8dDF48XJthSkEh5EsslrkCu2aSmDfWLw3KyQGMJTg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QQi9PwYtvxCvrWwiA5nz5gBPP_C4wEjsmSX-bXNeTX2hOe2y_d1kmeq0VFlxbJH8xk-z5KGRW7E=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6wkFb2_cUik", "title": "Tool use with the Claude 3 model family" }
+  ],
+  "playlists": [
+
+  ]
+}

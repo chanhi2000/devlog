@@ -30,5 +30,9 @@ head:
 <MyYouTubeItems jsonName="yu-pixiebrix" /><!-- PixieBrix -->
 <MyYouTubeItems jsonName="yu-ArtemKirsanov" /><!-- Artem Kirsanov -->
 <MyYouTubeItems jsonName="yu-CloudComputingInsider" /><!-- Cloud Computing Insider -->
+<MyYouTubeItems jsonName="yu-jocoding" /><!-- 조코딩 JoCoding -->
+<MyYouTubeItems jsonName="yu-masterbot" /><!-- 마스터봇 -->
+<MyYouTubeItems jsonName="yu-crowdworks_academy" /><!-- 크라우드 아카데미 -->
+<MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
 
 <TagLinks />

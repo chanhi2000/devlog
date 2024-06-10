@@ -31,9 +31,7 @@ tag:
 <MyYouTubeItems jsonName="yu-mahdimirzadeh" /><!-- Mahdi Mirzadeh -->
 <MyYouTubeItems jsonName="yu-yishn" /><!-- yishn -->
 <MyYouTubeItems jsonName="yu-jamesquigley1713" /><!-- James Quigley -->
-<MyYouTubeItems jsonName="yu-contextfree" /><!-- Context Free -->
 <MyYouTubeItems jsonName="yu-SystemsWithJT" /><!-- Systems with JT -->
-<MyYouTubeItems jsonName="yu-tokyo-rust-org" /><!-- Tokyo Rust Meetup -->
 <MyYouTubeItems jsonName="yu-dreamsofcode" /><!-- Dreams of Code -->
 <MyYouTubeItems jsonName="yu-Codurance" /><!-- Codurance -->
 <MyYouTubeItems jsonName="yu-LowLevelLearning" /><!-- Low Level Learning -->

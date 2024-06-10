@@ -116,5 +116,6 @@ tag:
 <MyYouTubeItems jsonName="yu-weekendcode" /><!-- WeekendCode 주말코딩 -->
 <MyYouTubeItems jsonName="yu-TechWithAlexduta" /><!-- Tech with Alex -->
 <MyYouTubeItems jsonName="yu-JsKIM_0_0" /><!-- 김종상 -->
+<MyYouTubeItems jsonName="yu-JohnWatsonRooney" /><!-- John Watson Rooney -->
 
 <TagLinks />

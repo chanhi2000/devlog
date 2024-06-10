@@ -52,7 +52,29 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+Swift lets us perform async operations using both `await` and `async let`, but although they both run some async code they don’t quite run the same: `await` waits for the work to complete so we can read its result, whereas `async let` does not.
+
+Which you choose depends on the kind of work you’re trying to do. For example, if you want to make two network requests where one relates to the other, you might have code like this:
+
+```swift
+let first = await requestFirstData()
+let second = await requestSecondData(using: first)
+```
+
+There the call to `requestSecondData()` cannot start until the call to `requestFirstData()` has completed and returned its value – it just doesn’t make sense for those two to run simultaneously.
+
+On the other hand, if you’re making several completely different requests – perhaps you want to download the latest news, the weather forecast, and check whether an app update was available – then those things do *not* rely on each other to complete and would be great candidates for `async let`:
+
+```swift
+func getAppData() async -> ([News], [Weather], Bool) {
+    async let news = getNews()
+    async let weather = getWeather()
+    async let hasUpdate = getAppUpdateAvailable()
+    return await (news, weather, hasUpdate)
+}
+```
+
+So, use `await` when it’s important you have a value before continuing, and `async let` when your work can continue without the value for the time being – you can always use `await` later on when it’s actually needed.
 
 ::: details Similar solutions…
 

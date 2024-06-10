@@ -18,7 +18,6 @@ tags:
   - "@SeoulWorkshop"
   - "@ExecuteAutomation"
   - "@Mukeshotwani"
-  - "@GaryExplains"
   - "@SeniorCoding"
   - "@devjaypark"
   - "@extudy"
@@ -51,13 +50,11 @@ tags:
 
 <MyYouTubeItems jsonName="yu-ChrisTitusTech" /><!-- Chris Titus Tech -->
 <MyYouTubeItems jsonName="yu-snazzy"/><!-- Snazzy Labs -->
-<MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
 <MyYouTubeItems jsonName="yu-KevinStratvert" /><!-- Kevin Stratvert -->
 <MyYouTubeItems jsonName="yu-AleksPopovic" /><!-- Aleks Popovic -->
 <MyYouTubeItems jsonName="yu-SeoulWorkshop" /><!-- Seoul Workshop -->
 <MyYouTubeItems jsonName="yu-ExecuteAutomation" /><!-- Execute Automation -->
 <MyYouTubeItems jsonName="yu-Mukeshotwani" /><!-- Mukesh otwani -->
-<MyYouTubeItems jsonName="yu-GaryExplains" /><!-- Gary Explains -->
 <MyYouTubeItems jsonName="yu-SeniorCoding" /><!-- @시코 - 시니어코딩 -->
 <MyYouTubeItems jsonName="yu-devjaypark" /><!-- 박재호 -->
 <MyYouTubeItems jsonName="yu-extudy" /><!-- 두목넷 익스터디 -->

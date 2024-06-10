@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/8rCr8lFPJIInkiDVnQ73LWNu56kKjncyRpirqfMHEHHnWXzerbQvzjgvUP63vQP-gLg8U0Or=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-G1NNn1K7V0", "title": "NGINX Community Talks OpenTelemetry - AppWorld 2024" },
+    { "id": "X7kXZx7jjZk", "title": "Empower App Developers With Self-Service Workflows Using Nginx Instance Manager Templates" },
+    { "id": "vOM-C_if_LY", "title": "NGINX Usage Reporting using HTTP Health Check" },
+    { "id": "5LozoXfwnlc", "title": "NGINX App Protect Release 5.x" },
+    { "id": "ot0lq8ljRkU", "title": "NGINX Usage Reporting using NGINX Agent" },
+    { "id": "x2LSSwSB9eo", "title": "Configure Native NGINX Usage Reporting" },
+    { "id": "XSu7e2B0CtY", "title": "NGINX One: Simplified Management for all Your NGINX Deployments" },
     { "id": "S5UAXb8lGHM", "title": "Introducing NGINX One" },
     { "id": "4Ikk-KJo3y4", "title": "WebAssembly Breakthroughs with Timo Stark" },
     { "id": "ctvi9POSeOg", "title": "Get the Real Story: The Application Development Journey" },

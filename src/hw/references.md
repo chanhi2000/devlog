@@ -129,6 +129,7 @@ head:
 ## 멈춤보단 천천히라도
 
 - [Raspberry Pi 400에 RetroPie 설치하기](https://webnautes.tistory.com/2314)
+- [Keychron B1 ( 키크론 B1 ) 간단 후기](https://webnautes.tistory.com/m/2342)
 
 ---
 
@@ -220,9 +221,9 @@ head:
 
 ---
 
-## 멈춤보단 천천히라도
+## VOGONS
 
-- [Keychron B1 ( 키크론 B1 ) 간단 후기](https://webnautes.tistory.com/m/2342)
+- [Voodoo 4 M4800](https://www.vogons.org/viewtopic.php?t=100871)
 
 ---
 

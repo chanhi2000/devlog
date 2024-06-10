@@ -6,6 +6,16 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ZCMU52xxLF4", "title": "Blazor in .NET 8 | Ep18. Form Validations" },
+    { "id": "CV0Ksbcgvv8", "title": "Blazor in .NET 8 | Ep21. Assignment 3 Answer" },
+    { "id": "aqOGFt7zMpM", "title": "Blazor in .NET 8 | Ep22. Use EditForm to delete data" },
+    { "id": "BCkFAeZcYnA", "title": "Blazor in .NET 8 | Ep23. Stream Rendering" },
+    { "id": "jcZSxxPM0fQ", "title": "Blazor in .NET 8 | Ep24. What is Interactivity" },
+    { "id": "6eUcSfsMuIo", "title": "Blazor in .NET 8 | Ep28. Enable Server Interactivity how to make a component interactive" },
+    { "id": "srbWWcbnk7Y", "title": "Blazor in .NET 8 | Ep27. What is Server Interactivity" },
+    { "id": "7XVQtnHWllA", "title": "Blazor in .NET 8 | Ep26. Use Enhanced form handling in Blazor SSR for interactivity" },
+    { "id": "x84xVgteU78", "title": "Blazor in .NET 8 | Ep25. Use Enhanced Navigation in Blazor SSR for interactivity" },
+    { "id": "LMDo38DPxZc", "title": "Blazor in .NET 8 in 3 Hours | Blazor Server | WebAssembly | Entity Framework Core | ASP.NET Identity" },
     { "id": "gq1ySblcyA8", "title": "Blazor in .NET 8 | | Ep 1. What is Blazor" },
     { "id": "_QsSLccFBZM", "title": "Blazor in .NET 8 | | Ep 2. Choices of Interactivities" },
     { "id": "J7Io7jScQyg", "title": "Blazor in .NET 8 | Ep 3. Project Structure | Blazor SSR" },

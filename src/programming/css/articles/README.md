@@ -273,6 +273,28 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Make a CSS Timer",
+  "desc": "Let's look at using CSS as an efficient alternative to JavaScript for creating simple timers. We'll use modern CSS properties like @property, @keyframes, and pseudo-elements with counter() values.",
+  "link": "/explore/articles/frontendmasters.com/how-to-make-a-css-timer.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Live Demos of Stand Alone Web Components",
+  "desc": "A stand alone web component is a that provides some design or functionality but has little by way of dependencies, strong opinions, heavy design. in other words, components could easily imagine sliding into any project without much trouble.",
+  "link": "/explore/articles/frontendmasters.com/live-demos-of-stand-alone-web-components.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+<!-- END: frontendmasters.com -->
+
 ---
 
 ## Smashing Magazine — For Web Designers And Developers
@@ -328,6 +350,18 @@ head:
   "background": "rgba(211,58,44,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "Useful CSS Tips And Techniques",
+  "desc": "The times for CSS have probably never been more exciting than today. In this quick read, we’ve got some useful CSS tips and techniques for you that you can apply to your work right away. Let’s dive deeper into self-modifying CSS variables, hanging punctuation, and more.",
+  "link": "/explore/articles/smashingmagazine.com/css-tips-and-techniques.md",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+<!-- END: smashingmagazine.com -->
 
 ---
 

@@ -45,6 +45,7 @@ head:
 <PDF url="https://projectivegeometricalgebra.org/projgeomalg.pdf" />
 <PDF url="https://projectivegeometricalgebra.org/confgeomalg.pdf" />
 <PDF url="https://www.ams.org/journals/notices/202404/rnoti-p444.pdf" />
+<PDF url="https://www.ccapitalia.net/descarga/docs/1959-calculo-analog-computer.pdf" />
 
 ---
 

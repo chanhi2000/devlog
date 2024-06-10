@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/zlFWl4WYRa8w5XLghMbPpITi4J8z5LhvaxfqaMBwh1P_7b3zj_VKgQh_FA7vsJLfiLkOuuCzFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "B1Bd1WgPUkQ", "title": "005개고생하면서 배우는 Rust_GUI_vulkan" },
+    { "id": "pU7V6r26SBg", "title": "240529러스트1기_day6_struct_impl_Ubuntu24.04" },
+    { "id": "hu9XjjX39EA", "title": "240601Rust업데이트내용_리뷰(1)_1_72~78_GitUI_TabbyAI_NeoVim_Ubuntu24.04" },
     { "id": "fRM1d_dxrKU", "title": "004개고생하면서 배우는 Rust_GUI_gtk-rs" },
     { "id": "RBjCpkyKUS0", "title": "013개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part8(Tabby&NeoVim)" },
     { "id": "pc88wH5heJw", "title": "014개고생하면서 배우는 Rust_FullStack_pretzelhammer_Tutorial_part9(Tabby&NeoVim) Assembly_x86_64" },

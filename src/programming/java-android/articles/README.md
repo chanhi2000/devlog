@@ -306,6 +306,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "안드로이드 MotionLayout",
+  "desc": "Android MotionLayout 사용해보기",
+  "link": "/explore/articles/blog.gangnamunni.com/motionlayout.md",
+  "logo": "https://blog.gangnamunni.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
+}
+```
+
+<!-- END: blog.gangnamunni.com -->
+
 ---
 
 ## 뱅크샐러드 공식 블로그 | 메인

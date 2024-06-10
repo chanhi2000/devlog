@@ -10,7 +10,9 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - frontendmasters.com
   - meetup.nhncloud.com
+  - d2.maver.com
   - js
   - javascript
 head:
@@ -54,6 +56,13 @@ head:
   "background": "rgba(76,156,227,0.2)"
 }
 ```
+
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 ```component VPCard
 {
@@ -219,6 +228,38 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Testing Types in TypeScript",
+  "desc": "This post explores advanced TypeScript utilities for testing and verifying type correctness, akin to unit testing without extra setup.",
+  "link": "/explore/articles/frontendmasters.com/testing-types-in-typescript.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Control JavaScript Promises from Anywhere Using Promise.withResolvers()",
+  "desc": "This method enhances flexibility by allowing promises to be resolved or rejected remotely, simplifying and streamlining asynchronous code.",
+  "link": "/explore/articles/frontendmasters.com/control-javascript-promises-from-anywhere-using-promise-withresolvers.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Playing with the Speculation Rules API in the Console",
+  "desc": "This new API enables client-side prerendering, improving performance for users who are likely to visit a new page. ",
+  "link": "/explore/articles/frontendmasters.com/playing-with-the-speculation-rules-api-in-the-console.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+<!-- END frontendmasters.com -->
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
@@ -254,6 +295,24 @@ head:
   "background": "rgba(76,156,227,0.2)"
 }
 ```
+
+---
+
+## NAVER D2
+
+> d2.naver.com
+
+```component VPCard
+{
+  "title": "RTCS 실시간 웹 서비스를 위한 도전 | NAVER D2",
+  "desc": "RTCS 실시간 웹 서비스를 위한 도전",
+  "link": "/explore/articles/d2.naver.com/1052.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+<!-- END: d2.naver.com -->
 
 ---
 

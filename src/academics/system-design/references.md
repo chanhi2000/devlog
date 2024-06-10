@@ -102,7 +102,7 @@ head:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [서머타임과 배치작업](https://meetup.nhncloud.com/posts/232)
+- [서머타임과 배치작업](https://meetup.nhncloud.com/posts/232) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/232.md) -->
 
 ---
 
@@ -111,7 +111,6 @@ head:
 - [PAYCO 쇼핑 마이크로서비스 아키텍처 전환기](https://joinc.co.kr/w/man/12/msaPayco)
 
 ---
-
 
 ## <FontIcon icon="fa-brands fa-linkedin"/>Linkedin
 
@@ -209,6 +208,7 @@ head:
 ## 컴공생의 발자취
 
 - [[내일배움캠프 23일차 TIL] 유스케이스 다이어그램 및 RESTful한 API설계(Param vs Query vs Body)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-23%EC%9D%BC%EC%B0%A8-TIL-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%8F-RESTful%ED%95%9C-API%EC%84%A4%EA%B3%84Param-vs-Query-vs-Body)
+- [\[내일배움캠프 34일차 TIL\] 뉴스피드 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-34%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
 
 ---
 
@@ -386,12 +386,6 @@ head:
 
 ---
 
-## 컴공생의 발자취
-
-- [\[내일배움캠프 34일차 TIL\] 뉴스피드 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-34%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
-
----
-
 ## Cultured Systems
 
 - [Avoiding the soft delete anti-pattern](https://www.cultured.systems/2024/04/24/Soft-delete/)
@@ -413,6 +407,12 @@ head:
 ## Cloud Application Platform | Heroku
 
 - [Evolving the Backend Storage for Platform Metrics](https://blog.heroku.com/evolving-backend-storage-for-platform-metrics)
+
+---
+
+## CodeOpinion - Software Architecture & Design
+
+- [Beware! Anti-patterns in Event-Driven Architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
 
 ---
 

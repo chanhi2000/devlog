@@ -70,5 +70,7 @@ tag:
 <MyYouTubeItems jsonName="yu-chmtech" /><!-- CHM Tech -->
 <MyYouTubeItems jsonName="yu-GeekyScript" /><!-- Geeky Script -->
 <MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
+<MyYouTubeItems jsonName="yu-Aleksey_Konovalov" /><!-- Aleksey Konovalov -->
+<MyYouTubeItems jsonName="yu-HandyAndyTechTips" /><!-- HandyAndy Tech Tips -->
 
 <TagLinks />

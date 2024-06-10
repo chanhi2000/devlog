@@ -2625,7 +2625,7 @@ head:
 }
 ```
 
-@tab: 2021
+@tab 2021
 
 ```component VPCard
 {
