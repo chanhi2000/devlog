@@ -107,7 +107,27 @@ head:
 
 ## 요즘IT
 
-> yozm.wishket.
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "개발자 커리어 로드맵 작성 시 고려해야 하는 3가지| 요즘IT",
+  "desc": "개발자 커리어 로드맵 작성 시 고려해야 하는 3가지",
+  "link": "/explore/articles/yozm.wishket.com/2230.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "리얼월드에서 프로그래머로 살아내기 | 요즘IT",
+  "desc": "리얼월드에서 프로그래머로 살아내기",
+  "link": "/explore/articles/yozm.wishket.com/2239.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

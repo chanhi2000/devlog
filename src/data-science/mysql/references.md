@@ -216,4 +216,10 @@ head:
 
 ---
 
+## Hide
+
+- [200억건의 데이터를 MySQL로 마이그레이션 할 때 고려했던 개념과 튜닝 방법 정리](https://hides.tistory.com/1147)
+
+---
+
 <TagLinks />

@@ -5056,7 +5056,7 @@
     "topics": ["automated-scraper", "gpt-3", "gpt-4", "llama3", "llm", "machine-learning", "sc", "scraping", "scraping-python", "scrapingweb"]
   }, {
     "repo": "huggingface/lerobot",
-    "desc": "🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch",
+    "desc": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
     "officialSite": "",
     "topics": []
   }, {
@@ -5514,5 +5514,10 @@
     "desc": "Benchmarks of approximate nearest neighbor libraries in Python",
     "officialSite": "http://ann-benchmarks.com",
     "topics": ["benchmark", "docker", "nearest-neighbors"]
+  }, {
+    "repo": "mahdibland/V2RayAggregator",
+    "desc": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
+    "officialSite": "",
+    "topics": ["airport", "best-nodes", "china-censorship", "clash", "clash-config", "free-proxies", "freeairport", "freenodes", "gfw", "node", "nodes", "proxies", "scientific-internet-access", "shadowsocks", "shadowsocksr", "ss", "ssr", "trojan", "v2ray", "vmess"]
   }
 ]

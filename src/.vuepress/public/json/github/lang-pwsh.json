@@ -74,5 +74,10 @@
     "desc": "A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.",
     "officialSite": "",
     "topics": ["appxpackages", "bloatware", "bloatware-removal", "cleanup", "debloat", "declutter", "interactive", "microsoft", "optimize", "powershell", "powershell-script", "ps1", "registry-tweaks", "tweaks", "windows", "windows-10", "windows-11", "windows-11-debloat", "windows10", "windows11"]
+  }, {
+    "repo": "microsoft/winget-pkgs",
+    "desc": "The Microsoft community Windows Package Manager manifest repository",
+    "officialSite": "",
+    "topics": ["hacktoberfest"]
   }
 ]

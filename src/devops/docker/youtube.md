@@ -52,6 +52,14 @@ tag:
   - "@OneMarcFifty"
   - "@takacsmark"
   - "@dotslashrun"
+head:
+  - - meta:
+    - property: og:title
+      content: Docker > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/docker/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

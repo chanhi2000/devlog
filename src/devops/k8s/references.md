@@ -102,8 +102,10 @@ tag:
 - [Isolating and Managing Dependencies in 12-factor Microservice Applications — with Kubernetes](https://itnext.io/isolating-and-managing-dependencies-in-12-factor-microservice-applications-with-kubernetes-988638f8bc6d)
 - [Video Streaming at Scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
 - [Securing Kubernetes Applications with CrowdSec Intrusion Detection System](https://itnext.io/securing-kubernetes-applications-with-crowdsec-intrusion-detection-system-8eb2f93d3c9f)
-- [Running GPU-Accelerated LLM Workloads on EKS](https://medium.com/prodigy-engineering/running-gpu-accelerated-llm-workloads-on-eks-9928c07d30ea)
-- [`chrisjune-13837` - [cheat sheet] Kubernetes, Kubeflow 자주 쓰는 명령어 모음](https://chrisjune-13837.medium.com/cheat-sheet-kubernetes-kubeflow-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C-b65197dfcae7)
+- [`prodigy-engineering` / Running GPU-Accelerated LLM Workloads on EKS](https://medium.com/prodigy-engineering/running-gpu-accelerated-llm-workloads-on-eks-9928c07d30ea)
+- [`chrisjune-13837` / [cheat sheet] Kubernetes, Kubeflow 자주 쓰는 명령어 모음](https://chrisjune-13837.medium.com/cheat-sheet-kubernetes-kubeflow-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C-b65197dfcae7)
+- [`watcha` / 멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://medium.com/watcha/%EB%A9%80%ED%8B%B0%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-8c5f671df559#gaerae.com)
+- [`daangn` / 딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a)
 
 ---
 
@@ -225,12 +227,12 @@ tag:
 
 ## ENFJ.dev
 
-- [Kubernetes Affinity, 제대로 이해하기](https://gngsn.tistory.com/283)
-- [Kubernetes Scheduler, 제대로 이해하기](https://gngsn.tistory.com/284)
-- [Kubernetes ConfigMap & Secret, 제대로 이해하기](https://gngsn.tistory.com/288)
-- [Kubernetes, 제대로 이해하기](https://gngsn.tistory.com/289)
-- [Kubernetes Cluster Upgrade, 제대로 이해하기](https://gngsn.tistory.com/290)
-- https://gngsn.tistory.com/292
+- [Kubernetes Affinity, 제대로 이해하기](https://gngsn.tistory.com/m/283)
+- [Kubernetes Scheduler, 제대로 이해하기](https://gngsn.tistory.com/m/284)
+- [Kubernetes ConfigMap & Secret, 제대로 이해하기](https://gngsn.tistory.com/m/288)
+- [Kubernetes, 제대로 이해하기](https://gngsn.tistory.com/m/289)
+- [Kubernetes Cluster Upgrade, 제대로 이해하기](https://gngsn.tistory.com/m/290)
+- [Kubernetes Storage, 제대로 이해하기](https://gngsn.tistory.com/m/293)
 
 ---
 
@@ -316,6 +318,18 @@ tag:
 ## Jflip의 기술 블로그
 
 - [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지](https://jflip.tistory.com/m/13)
+
+---
+
+## Share & Discover Presentations | SlideShare
+
+- [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/slideshow/gitops-cicd-156402754/156402754)
+
+---
+
+## Eric Han's IT Blog
+
+- [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
 
 ---
 

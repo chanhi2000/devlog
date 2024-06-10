@@ -27,12 +27,6 @@ tag:
 
 ---
 
-## 개발하는 기획자 기획하는 개발자
-
-- [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
-
----
-
 ## 푸르고 개발 블로그
 
 - [[Nest.js] HTTP query에 따라 Service가 동적으로 할당되어야 한다.](https://puleugo.tistory.com/192)
@@ -48,6 +42,8 @@ tag:
 - [Nest.js - 보고서 프로젝트 사용자 정보 생성](https://blog.naver.com/gi_balja/223444118870)
 - [Nest.js - 보고서 프로젝트 Facade 패턴 적용](https://blog.naver.com/gi_balja/223451594165)
 - [Nest.js - 보고서 프로젝트 응답값 설정](https://blog.naver.com/gi_balja/223453109109)
+- [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
+- [Nest.js - 보고서 프로젝트 인증과 인가](https://blog.naver.com/gi_balja/223473547932?)
 
 ---
 
@@ -67,6 +63,12 @@ tag:
 
 - [Nest.js - Custom provider onApplicationShutdown 훅 사용하기](https://blog-ny4cromu1-rlj1202s-projects.vercel.app/articles/nest-js-custom-provider-dispose)
 - [Nest.js - Worker threads 잘 사용해보기](https://blog-ny4cromu1-rlj1202s-projects.vercel.app/articles/nest-js-worker-threads)
+
+---
+
+## Life Log
+
+- [nest 구성 요소](https://ravenkim97.tistory.com/457)
 
 ---
 

@@ -16,7 +16,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: tmux > References
+      content: Vim > References
     - property: og:description
       content: References
     - property: og:url

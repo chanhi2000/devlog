@@ -132,6 +132,7 @@ tag:
 - [`styleshare` / 우리는 코드 리뷰를 잘하고 있을까요?](https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d)
 - [`오일나우-팀-블로그` / 소규모 스타트업에서 OKR 도입은 어떤 결과를 가져다 주었을까?](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-okr-%EB%8F%84%EC%9E%85%EC%9D%80-%EC%96%B4%EB%96%A4-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%A3%BC%EC%97%88%EC%9D%84%EA%B9%8C-f6bdc26a1352)
 - [`오일나우-팀-블로그` / 스타트업에서 명함으로 서비스 홍보하는 법](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EB%AA%A8%EB%93%A0-%ED%8C%80%EC%9B%90%EC%9D%84-%ED%99%8D%EB%B3%B4%ED%8C%80%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-%EB%A7%88%EB%B2%95%EC%9D%98-%EB%AA%85%ED%95%A8-%EC%A0%9C%EC%9E%91%EA%B8%B0-be1f6a45c7e)
+- [주니어, 미드레벨과 시니어 개발자의 차이점](https://erwinousy.medium.com/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%AF%B8%EB%93%9C%EB%A0%88%EB%B2%A8%EA%B3%BC-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-d29bffecfec)
 
 ---
 
@@ -393,6 +394,7 @@ tag:
 - [관계 건설](https://www.thestartupbible.com/2024/05/the-relationship-building.html)
 - [사람이 하는 일](https://www.thestartupbible.com/2024/05/the-human-intelligence.html)
 - [향 후 25년](https://www.thestartupbible.com/2024/05/the-next-25-years.html)
+- [입으로 투자하기](https://www.thestartupbible.com/2024/06/the-talker-and-the-keyboarder-vc.html)
 
 ---
 
@@ -572,6 +574,8 @@ tag:
 
 ## 리내로그
 
+- [\[번역\] 빠른 개발을 위한 기술 - 1](https://rinae.dev/posts/the-fine-art-of-fast-development-kr-1)
+- [\[번역\] 빠른 개발을 위한 기술 - 2](https://rinae.dev/posts/the-fine-art-of-fast-development-kr-2)
 - [생각 정리, 그리고 Learn in Public](https://rinae.dev/posts/thinking-and-learn-in-public/)
 
 ---
@@ -769,6 +773,7 @@ tag:
 - [리더십으로의 정원사](http://www.chidoo.me/index.php/2024/05/06/gardener-as-a-leadership/)
 - [리더십의 커뮤니케이션 – 소통](http://www.chidoo.me/index.php/2024/05/19/why-radical-communication-in-leadership/)
 - [리더십의 커뮤니케이션 – 공감](http://www.chidoo.me/index.php/2024/06/02/empathy-in-leadership/)
+- [리더십의 커뮤니케이션 – 완벽하지 않음의 인정](http://www.chidoo.me/index.php/2024/06/09/vulnerability-of-leadership/)
 
 ---
 
@@ -986,6 +991,66 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 ## Julia Evans
 
 - [Teaching by filling in knowledge gaps](https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/)
+
+---
+
+## Jins' Dev Inside
+
+- [개발을 시작하는 이들을 위한 주니어 개발자 두번의 이직 이야기](https://jins-dev.tistory.com/m/233)
+
+---
+
+## 기술 저장소
+
+- [클라우드알못에서 AWS 이직까지](https://reoim.tistory.com/m/entry/%ED%81%B4%EC%95%8C%EB%AA%BB%EC%97%90%EC%84%9C-AWS-%EC%9D%B4%EC%A7%81%EA%B9%8C%EC%A7%80)
+
+---
+
+## 👨‍💻꿈꾸는 태태태의 공간
+
+- [개발하기 바쁜데 글까지 쓰라고? (글쓰는 개발자가 되자.)](https://taetaetae.github.io/2019/10/27/a-reason-for-writing/)
+
+---
+
+## Tacogrammer
+
+- [아틀라시안 취업후기](https://tacogrammer.com/%ec%95%84%ed%8b%80%eb%9d%bc%ec%8b%9c%ec%95%88-%ec%b7%a8%ec%97%85-%ed%9b%84%ea%b8%b0/)
+
+---
+
+## Huns.me
+
+- [설계의 중요성을 설명하기가 왜 어려웠을까?](https://huns.me/posts/2019-09-19-why-is-it-difficult-to-understand-the-importance-of-archictecture)
+
+---
+
+## Guru's Blog
+
+- [Apache 재단에 700만원을 후원하면 생기는 일](https://xguru.net/2099)
+
+---
+
+## 삐멜 소프트웨어 엔지니어
+
+- [소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)](https://imasoftwareengineer.tistory.com/m/66)
+
+---
+
+## Muchtrans
+
+- [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html)
+
+---
+
+## Share & Discover Presentations | SlideShare
+
+- [MSA 전략 1: 마이크로서비스, 어떻게 디자인 할 것인가?](https://slideshare.net/slideshow/msa-1-154454835/154454835)
+
+---
+
+## 리드미 - LeadMe
+
+- [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
 
 ---
 

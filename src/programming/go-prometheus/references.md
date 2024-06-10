@@ -1,0 +1,36 @@
+---
+lang: ko-KR
+title: References
+description: Prometheus > References
+icon: iconfont icon-share
+category:
+  - Go
+  - Prometheus
+  - References
+tag: 
+  - go
+  - golang
+  - prometheus
+head:
+  - - meta:
+    - property: og:title
+      content: Prometheus > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/go-prometheus/references.html
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+## 오늘도 끄적끄적
+
+- [(Troubleshooting) 레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/index.html)
+
+---
+
+<TagLinks />

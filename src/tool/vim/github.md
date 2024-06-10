@@ -16,7 +16,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: tmux > Github
+      content: Vim > Github
     - property: og:description
       content: Github
     - property: og:url

@@ -28,6 +28,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+### 카카오테크, 미래의 문턱을 낮추는 기술
+
+- [GraphQL 개념잡기](https://tech.kakao.com/posts/364) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/364.md) -->
+
+---
+
 ## Gebna blog
 
 - [A brief history of web development. And why your framework doesn't matter.](https://gebna.gg/blog/brief-history-of-web-development)
@@ -43,6 +51,12 @@ head:
 ## Matt Bessey's Blog
 
 - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+
+---
+
+## Hyeseong's Blog
+
+- [GraphQL is not just a network protocol](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
 
 ---
 

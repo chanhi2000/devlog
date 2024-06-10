@@ -84,6 +84,8 @@ export const template: SidebarInfoTemplate = {
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
       "applied-data-science-with-python-book", // 2024-06-04
       "python-coding-challenges-for-beginners", // 2024-06-04
+      "unit-testing-in-python", // 2024-06-10
+      "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -130,10 +132,12 @@ export const template: SidebarInfoTemplate = {
     "github", [
       "create-personalized-github-profile-page", // 2024-05-01
       "how-to-become-an-open-source-maintainer", // 2024-05-20
+      "how-to-create-notice-blocks-in-markdown", // 2024-06-10
     ]],[
     "macos", [
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
       "how-to-install-python-on-a-mac", // 2024-05-09
+      "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
     ]],[
     "aws", [
       "what-is-amazon-ec2-auto-scaling", // 2024-05-06
@@ -259,6 +263,9 @@ export const template: SidebarInfoTemplate = {
       "master-the-azure-devops-engineer-expert-certification-az-400", // 2024-06-06
       "real-time-chat-with-go-fiber-htmx", // 2024-06-06
       "weakmap-and-weakset-in-javascript", // 2024-06-07
+      "how-to-create-notice-blocks-in-markdown", // 2024-06-10
+      "unit-testing-in-python", // 2024-06-10
+      "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
     ]],
   ]),
 }

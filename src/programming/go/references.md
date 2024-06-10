@@ -37,6 +37,16 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "guide/style.md at master · uber-go/guide",
+  "desc": "The Uber Go Style Guide.",
+  "link": "https://github.com/uber-go/guide/blob/master/style.md",
+  "logo": "https://avatars.githubusercontent.com/u/19262598?s=200&v=4",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
@@ -69,6 +79,7 @@ tag:
 - [`daangn` / 검색 랭킹 흐름 만들기: 검색은 처음 인디요](https://medium.com/daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7)
 - [쏘카일레클과 Go](https://medium.com/elecle-bike/%EC%8F%98%EC%B9%B4%EC%9D%BC%EB%A0%88%ED%81%B4%EA%B3%BC-go-99f2d110c32c)
 - [`cloudbric-tech-leaders` / Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
+- [`@EJSohn` / \[번역\] 코딩 인터뷰에서 Golang을 사용해야하는 이유](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C-golang%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8b638ab33068)
 
 ---
 
@@ -306,5 +317,12 @@ tag:
 
 - [Uptrace: open source APM](https://uptrace.dev/get/open-source-apm.html#uptrace-open-source-apm)
 
+---
+
+## 조인씨 JOINC EDU
+
+- [Go언어에서의 TDD](https://www.joinc.co.kr/w/man/12/golang/TDD)
+
+---
 
 <TagLinks />

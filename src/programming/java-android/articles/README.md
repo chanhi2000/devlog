@@ -206,6 +206,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Introduction to Google Maps API for Android with Kotlin",
+  "desc": "In this Google Maps API Tutorial for Android you will learn how to retrieve the user’s current location, get location updates and search for places.",
+  "link": "/explore/articles/kodeco.com/230-introduction-to-google-maps-api-for-android-with-kotlin.md",
+  "logo": "https://kodeco.com/apple-touch-icon.png",
+  "background": "rgba(252,78,2,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Documenting Kotlin Code for Android Using KDoc and Dokkas",
   "desc": "Learn how to use KDoc to document your Kotlin code and generate beautiful-looking documentation pages using Dokka.s",
   "link": "/explore/articles/kodeco.com/30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka.md",

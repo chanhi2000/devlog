@@ -44,6 +44,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "어썸데브블로그",
+  "desc": "국내 개발/기술 블로그 모음(only 실명으로).",
+  "link": "https://awesome-devblog.netlify.app/korean/people/feeds",
+  "logo": "https://awesome-devblog.netlify.app/favicon.ico",
+  "background": "rgba(230,230,230,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "DAILY ROTATION",
   "desc": "DAILY ROTATION, Tech News, current news headlines from thousands of tech related sites, science news, web based RSS reader for tech headlines from thousands of sites",
   "link": "https://www.dailyrotation.com/",
@@ -108,26 +118,6 @@ tag:
   url="https://bearblog.dev/discover/"
   logo="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
   preview="https://bearblog.dev/static/favicon.ico"/>
-
-```component VPCard
-{
-  "title": "어썸데브블로그",
-  "desc": "국내 개발/기술 블로그 모음(only 실명으로).",
-  "link": "https://awesome-devblog.netlify.app/korean/people/feeds",
-  "logo": "https://awesome-devblog.netlify.app/favicon.ico",
-  "background": "rgba(230,230,230,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Dev Ranking",
-  "desc": "dev ranking",
-  "link": "https://dev-ranking.vercel.app/",
-  "logo": "https://dev-ranking.vercel.app/favicon.ico",
-  "background": "rgba(214,219,220,0.2)"
-}
-```
 
 ```component VPCard
 {

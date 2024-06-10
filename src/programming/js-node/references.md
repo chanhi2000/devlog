@@ -1113,4 +1113,15 @@ tag:
 
 ---
 
+## 폴시랩
+
+- [TypeScript를 사용하는 클린 아키텍처 구성](https://falsy.me/clean-architecture-with-typescript/)
+
+---
+
+## 개발일지
+
+- [\[이펙티브 타입스크립트\] 5장 any 다루기](https://paran21.tistory.com/m/238)
+
+
 <TagLinks />

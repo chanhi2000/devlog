@@ -56,15 +56,10 @@ tag:
 
 ## 우아한형제들
 
-- [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579)
-- [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440)
-- ['Gradle Kotlin DSL' 이야기](https://techblog.woowahan.com/2625)
-- [Cucumber + Appium을 통해 Android 앱 테스트](https://techblog.woowahan.com/2658)
-
-<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2579.md) -->
-<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2625.md) -->
-<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2658.md) -->
-<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/9440.md) -->
+- [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2579.md) -->
+- [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2625.md) -->
+- ['Gradle Kotlin DSL' 이야기](https://techblog.woowahan.com/2625) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2658.md) -->
+- [Cucumber + Appium을 통해 Android 앱 테스트](https://techblog.woowahan.com/2658) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/9440.md) -->
 
 ---
 
@@ -79,6 +74,12 @@ tag:
 ## Dropbox Tech Blog - Dropbox
 
 - [Detecting memory leaks in Android applications](https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications)
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+[[Kotlin] 메모리릭 방지하기 | Kotlin, Lambda의 강력함 | Lambda는 진리입니다.](https://meetup.nhncloud.com/posts/186) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/186.md) -->
 
 ---
 
@@ -334,6 +335,10 @@ tag:
 
 - [Android WebView TestCode 작성하기 기본 테스트 진행하기](https://thdev.tech/androiddev/2016/08/16/Android-WebView-TestCode)
 
+### 2019
+
+- [정식 언어로 채택된 Kotlin, Android에 미친 영향은?](https://thdev.tech/android/2019/07/14/Android-Kotlin/)
+
 ### 2023
 
 - [이력서를 위한 이력 관리는 어떻게 하는 것이 좋을까?](https://thdev.tech/resume/2023/02/12/Android-Resume)
@@ -346,8 +351,11 @@ tag:
 - [상속! 악마의 속삭임, 그 속에 숨겨진 문제점, Kotlin에서는 Delegation을 활용해 보자.](https://thdev.tech/kotlin/2020/12/01/kotlin_effective_13)
 - [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15)
 
-### Slide
+---
 
+## Speaker Deck | Easily Share Your Presentations Online
+
+- [Android Architecture 총정리](https://speakerdeck.com/saryong/android-architecture-congjeongri)
 - [아마도 Effective 한 Kotlin](https://speakerdeck.com/taehwandev/amado-effective-han-kotlin)
 
 ---

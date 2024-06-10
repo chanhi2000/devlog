@@ -89,6 +89,7 @@ head:
 - [`giljae` / Load Balancer 비교](https://giljae.medium.com/load-balancer-%EB%B9%84%EA%B5%90-c537247b699)
 - [`@tkdgy0801` / 대학생도 딸 수 있는 AWS Solutions Architect Associate 시험 후기](https://medium.com/@tkdgy0801/%EB%8C%80%ED%95%99%EC%83%9D%EB%8F%84-%EB%94%B8-%EC%88%98-%EC%9E%88%EB%8A%94-aws-solutions-architect-associate-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0-baee6e8aec62)
 - [`towardsaws` / Host Llama3 with Python Flask on AWS EC2](https://towardsaws.com/host-llama3-with-python-flask-on-aws-ec2-b95828f4de50)
+- [`spoontech` / 소트-키를 활용한 다이나모-디비 병렬-쿼리(DynamoDB Parallel-Query using Sort-Key)](https://medium.com/spoontech/%EC%86%8C%ED%8A%B8-%ED%82%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AA%A8-%EB%94%94%EB%B9%84-%EB%B3%91%EB%A0%AC-%EC%BF%BC%EB%A6%AC-dynamodb-parallel-query-using-sort-key-bc629ec47e1a)
 
 ---
 
@@ -341,6 +342,18 @@ head:
 ## Just try it!
 
 - [\[AWS SDK for JAVA\] S3 버전 1.x에서 2.x로 마이그레이션](https://moonsiri.tistory.com/209)
+
+---
+
+## Share & Discover Presentations | SlideShare
+
+- [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.slideshare.net/slideshow/how-to-build-startup-mvp-in-aws-cloud/172955350)
+
+---
+
+## 오늘도 끄적끄적
+
+- [(Troubleshooting) 레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/index.html)
 
 ---
 

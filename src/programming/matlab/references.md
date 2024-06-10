@@ -28,6 +28,7 @@ head:
 
 - [애증의 정규식... 1탄](https://lazymatlab.tistory.com/233)
 - [애증의 정규식... 2탄](https://lazymatlab.tistory.com/238)
+- [매트랩에서 텍스트를 컬러풀하게](https://lazymatlab.tistory.com/240)
 
 ---
 

@@ -2329,5 +2329,15 @@
     "desc": "分流规则、重写写规则及脚本。",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "potahtml/mpa-archive",
+    "desc": "Crawls a Multi-Page Application to a zip file, serve the Multi-Page Application from the zip file. A MPA archiver. Could be used as a Site Generator",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "squaredtechnologies/thread",
+    "desc": "AI-Powered Jupyter Notebook built using React",
+    "officialSite": "https://www.thread.dev",
+    "topics": ["analysis", "analytics", "data-science", "jupyter", "jupyter-notebook", "jupyter-notebooks", "jupyterhub", "jupyterlab", "python"]
   }
 ]

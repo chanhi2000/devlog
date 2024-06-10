@@ -10,6 +10,14 @@ category:
 tag: 
   - docker
   - container
+head:
+  - - meta:
+    - property: og:title
+      content: Docker > Github
+    - property: og:description
+      content: Github
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/docker/github.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -321,6 +321,12 @@ tag:
 
 ---
 
+## 보안뉴스
+
+- [방화벽 설정 시 가장 많이 저지르는 실수 다섯 가지](https://boannews.com/media/view.asp?idx=81891)
+
+---
+
 ## Project(s)
 
 ```component VPCard

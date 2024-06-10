@@ -14,7 +14,7 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="grafana"/>
+<ShieldsGroup logos="go,grafana"/>
 
 ---
 

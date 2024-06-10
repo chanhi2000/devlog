@@ -119,6 +119,12 @@ tag:
 
 ---
 
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [`flexbox`로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176) <!-- TODO: 작성 (/explore/articles/d2.naver.com/8540176.md) -->
+
+---
+
 ## WebKit
 
 - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
@@ -592,6 +598,12 @@ tag:
 ## Vallista
 
 - [웹 개발자의 지옥, 이메일 폼 개발하기](https://vallista.kr/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
+
+---
+
+## NTS UIT개발실 기술블로그
+
+- [웹폰트 사용하기 (웹폰트 101)](https://wit.nts-corp.com/2017/02/13/4258)
 
 ---
 

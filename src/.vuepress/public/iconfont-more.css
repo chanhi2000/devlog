@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_8tvobv6p4n5.woff2?t=1717652631541') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_8tvobv6p4n5.woff?t=1717652631541') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_8tvobv6p4n5.ttf?t=1717652631541') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_8tvobv6p4n5.svg?t=1717652631541#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_qvf3ngw9zsl.woff2?t=1718077078815') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_qvf3ngw9zsl.woff?t=1718077078815') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_qvf3ngw9zsl.ttf?t=1718077078815') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_qvf3ngw9zsl.svg?t=1718077078815#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,7 +14,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-pycharm:before { content: "\e7c6"; }
+.icon-keras:before { content: "\e945"; }
+.icon-prometheus:before { content: "\e944"; }
+.icon-tensorflow:before { content: "\e943"; }
+.icon-oauth2:before { content: "\e942"; }
+.icon-pycharm:before { content: "\e941"; }
 .icon-travis-ci:before { content: "\e940"; }
 .icon-pytorch:before { content: "\e93f"; }
 .icon-jwt:before { content: "\e93e"; }

@@ -608,6 +608,23 @@ https://www.joinc.co.kr/w/Site
   logo="https://app.codecrafters.io/assets/favicon.ico"
   preview="https://codecrafters.io/images/app_og/course-shell.jpg"/>
 
+<SiteInfo
+  name="TensorFlow Core"
+  desc="연구 및 생산을 위한 오픈 소스 머신 러닝 라이브러리입니다."
+  url="https://www.tensorflow.org/tutorials"
+  logo="https://www.tensorflow.org/favicon.ico"
+  preview="https://www.tensorflow.org/static/images/tf_logo_social.png?hl=ko"/>
+
+```component VPCard
+{
+  "title": "효과적인 Go 프로그래밍",
+  "desc": "효과적인 Go 프로그래밍의 번역은 그동안 참여해 주신 분들의 덕택으로 일단 마감되었습니다. Go 프로그래밍에 입문하고자 하시는 분들께 조금이나마 도움이 되었으면 좋겠다는 바람입니다.",
+  "link": "https://gosudaweb.gitbooks.io/effective-go-in-korean/content/",
+  "logo": "https://gosudaweb.gitbooks.io/effective-go-in-korean/content/gitbook/images/apple-touch-icon-precomposed-152.png",
+  "background": "rgba(77,77,77,0.2)"
+}
+```
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet

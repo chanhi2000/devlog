@@ -4529,7 +4529,7 @@ head:
 {
   "title": "Introduction to Google Maps API for Android with Kotlin",
   "desc": "In this Google Maps API Tutorial for Android you will learn how to retrieve the user’s current location, get location updates and search for places.",
-  "link": "https://kodeco.com/230-introduction-to-google-maps-api-for-android-with-kotlin",
+  "link": "/explore/articles/kodeco.com/230-introduction-to-google-maps-api-for-android-with-kotlin.md",
   "logo": "https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-other-core-apis-android-e2f05defab3a37db4e2d49c3eaea0750a2c1f9419af4ef95d2fd58af01dcfce4.svg",
   "background": "rgba(0,184,126,0.2)"
 }

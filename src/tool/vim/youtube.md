@@ -15,6 +15,14 @@ tag:
   - vim
   - youtube
   - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: Vim > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/tools/vim/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

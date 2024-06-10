@@ -771,6 +771,40 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
+      text: 'Tensorflow',
+      collapsible: true,
+      icon: 'iconfont icon-tensorflow',
+      children: [
+        '/programming/py-tensorflow/README.md',
+        '/programming/py-tensorflow/references.md',
+        '/programming/py-tensorflow/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-tensorflow/articles/README.md',
+          ]
+        },
+      ]
+    }, {
+      text: 'Keras',
+      collapsible: true,
+      icon: 'iconfont icon-keras',
+      children: [
+        '/programming/py-keras/README.md',
+        '/programming/py-keras/references.md',
+        '/programming/py-keras/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-keras/articles/README.md',
+          ]
+        },
+      ]
+    }, {
       text: 'Django',
       collapsible: true,
       icon: 'iconfont icon-django',
@@ -946,7 +980,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Grafana',
       collapsible: true,
-      icon: 'fa-brands fa-golang',
+      icon: 'iconfont icon-grafana',
       children: [
         '/programming/go-grafana/README.md',
         '/programming/go-grafana/references.md',
@@ -958,6 +992,23 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/go-grafana/articles/README.md',
             asb.yozm("grafana"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Prometheus',
+      collapsible: true,
+      icon: 'iconfont icon-prometheus',
+      children: [
+        '/programming/go-prometheus/README.md',
+        '/programming/go-prometheus/references.md',
+        '/programming/go-prometheus/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/go-prometheus/articles/README.md',
           ]
         }
       ]
@@ -1221,6 +1272,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/md/articles/README.md',
+            asb.freecodecamp("md"),
             asb.digitalocean("md"),
           ]
         },
@@ -1550,6 +1602,15 @@ export const sidebarEn = sidebar({
         '/tool/vim/github.md',
         '/tool/vim/references.md',
         '/tool/vim/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/vim/articles/README.md',
+            asb.yozm("vim"),
+          ]
+        },
       ]
     }, {
       text: 'awk',
@@ -2146,6 +2207,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/security-jwt/articles/README.md',
+          ]
+        },
+      ]
+    }, {
+      text: 'OAuth2',
+      collapsible: true,
+      icon: 'iconfont icon-oauth2',
+      children: [
+        '/devops/security-oauth2/README.md',
+        '/devops/security-oauth2/references.md',
+        '/devops/security-oauth2/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/security-oauth2/articles/README.md',
           ]
         },
       ]

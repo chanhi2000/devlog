@@ -15,7 +15,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Pandas > References
+      content: PyTorch > References
     - property: og:description
       content: References
     - property: og:url

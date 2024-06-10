@@ -61,6 +61,12 @@ head:
 
 ---
 
+## Blog - LINE ENGINEERING
+
+- [LINE Search UI 개선기](https://engineering.linecorp.com/ko/blog/improve-line-search-ui) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/improve-line-search-ui.md) -->
+
+---
+
 ## BGSSM
 
 - [Vue.js: v-on:click을 사용해 해당 요소(element)의 DOM 가져오기](http://yoonbumtae.com/?p=2810)

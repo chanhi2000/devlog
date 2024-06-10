@@ -61,6 +61,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Fix Common Python Installation Errors on macOS",
+  "desc": "thon's popularity keeps growing as more developers adopt it for data science and machine learning, although it is already among the most popular programming languages.  I recently wrote an article for freeCodeCamp titled 'How to Install Python on a Mac', which provides a clear guide to installing Python...",
+  "link": "/explore/articles/freecodecamp.org/how-to-fix-python-installation-errors-on-mac.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 <TagLinks />

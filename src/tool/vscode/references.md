@@ -53,6 +53,12 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@euisuk-chung` / \[파이썬\] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-vs-code-keymapping-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-shiftenter-ctrlenter-%EB%93%B1)
+
+---
+
 ## Substack
 
 - [`speakinginswift` - Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)

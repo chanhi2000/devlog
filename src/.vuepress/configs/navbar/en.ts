@@ -158,6 +158,8 @@ export const navbarEn = navbar([
           '/programming/py-numpy/README.md',
           '/programming/py-pandas/README.md',
           '/programming/py-torch/README.md',
+          '/programming/py-tensorflow/README.md',
+          '/programming/py-keras/README.md',
           '/programming/py-django/README.md',
           '/programming/py-flask/README.md',
           '/programming/py-jupyter/README.md',
@@ -181,6 +183,7 @@ export const navbarEn = navbar([
         children: [
           '/programming/go/README.md',
           '/programming/go-grafana/README.md',
+          '/programming/go-prometheus/README.md',
         ],
       }, {
         text: 'Dart',

@@ -45,4 +45,10 @@ tag:
 
 ---
 
+## Mimul Tech log
+
+- [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
+
+---
+
 <TagLinks />

@@ -36,6 +36,12 @@ head:
 
 ---
 
+## Share & Discover Presentations | SlideShare
+
+- [엘라스틱서치 클러스터로 수십억 건의 데이터 운영하기](https://slideshare.net/heungrae_kim/ss-123344339)
+
+---
+
 ## Easy to analyze if you are really curious about data
 
 - [엘라스틱 필드 유형 변환](https://kangmyounghun.blogspot.com/2024/05/blog-post.html)

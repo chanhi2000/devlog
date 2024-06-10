@@ -1,11 +1,11 @@
 ---
 lang: ko-KR
-title: 🚢Docker Compose
-description: Docker > 🚢Docker Compose
+title: Docker Compose
+description: Docker > Docker Compose
 category:
   - Docker
   - Container
-  - 🚢Docker Compose
+  - Docker Compose
 tag: 
   - sh
   - bash
@@ -17,6 +17,14 @@ tag:
   - docker-container
   - vm
   - docker-compose
+head:
+  - - meta:
+    - property: og:title
+      content: Docker > Docker Compose
+    - property: og:description
+      content: Docker Compose
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/docker/docker-compose.html
 ---
 
 # {{ $frontmatter.title }} 관련

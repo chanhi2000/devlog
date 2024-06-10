@@ -368,9 +368,9 @@ tag:
 
 - [JVM](https://jeongjin984.github.io/posts/JVM/)
 
-### SlideShare
+## Share & Discover Presentations | SlideShare
 
-- [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
+- [JVM 메모리 해부학](https://slideshare.net/DONGHUNLEE61/jvm-238616046)
 
 ### 💾 Knowledge Repository
 
@@ -453,6 +453,10 @@ tag:
 ### Enterprise Integration Patterns
 
 - [March is Not a Number](https://www.enterpriseintegrationpatterns.com/ramblings/40_marchnan.html)
+
+### Popit | 전문 지식 공유를 위한 팀블로그
+
+- [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0/) <!-- TODO: 작성 (/explore/articles/popit.kr/reduce-response-time-using-concurrency-in-msa.md) -->
 
 ---
 
@@ -662,7 +666,8 @@ tag:
 
 ### 연로그
 
-- [[Reactor] 서버 느리게 만드는 API 개발하기 (feat: `block`)](https://yeonyeon.tistory.com/330)
+- [[Reactor] 서버 느리게 만드는 API 개발하기 (feat: `block`)](https://yeonyeon.tistory.com/m/330)
+- [왜 코루틴을 써야할까?](https://yeonyeon.tistory.com/m/332)
 
 ### Yun Blog
 
@@ -705,6 +710,11 @@ tag:
 ### Pale Blue
 
 - [Kotlin's `when` with enums: `else` considered harmful](https://www.paleblueapps.com/rockandnull/kotlin-when-enums-avoiding-else/)
+
+### Share & Discover Presentations | SlideShare
+
+- [Kotlin coroutines 톺아보기](https://slideshare.net/xodn4195/kotlin-coroutines-250871163)
+- [Effective Java and Kotlin](https://slideshare.net/slideshow/effective-java-and-kotlin/140124688)
 
 ---
 

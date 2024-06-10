@@ -18,6 +18,14 @@ tag:
   - docker-container
   - vm
   - docker-compose
+head:
+  - - meta:
+    - property: og:title
+      content: Docker > Favorite Container(s)
+    - property: og:description
+      content: Favorite Container(s)
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/docker/favorite-containers.html
 ---
 
 # {{ $frontmatter.title }} 관련

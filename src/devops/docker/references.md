@@ -10,6 +10,14 @@ category:
 tag: 
   - docker
   - container
+head:
+  - - meta:
+    - property: og:title
+      content: Docker > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/docker/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,6 +54,7 @@ tag:
 - [`@dongha1992` / 도커 & CI (6)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-6-%EB%8F%84%EC%BB%A4%EB%A1%9C-%EB%B0%B0%ED%8F%AC)
 - [`@dongha1992` - 도커 & CI (7)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-7)
 - [`@skynet` / Cache mount를 이용한 Dockerfile 빌드 최적화](https://velog.io/@skynet/Cache-mount%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Dockerfile-%EB%B9%8C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94)
+- [`@dongha1992` / 도커 & CI (8) 멀티 컨테이너](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-8-%EB%A9%80%ED%8B%B0-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88)
 
 ---
 
@@ -54,12 +63,14 @@ tag:
 - [AWS Best practice for Amazon Elastic Kubernetes Service (EKS)](https://medium.com/avmconsulting-blog/aws-best-practice-for-amazon-elastic-kubernetes-service-eks-7ae468869724)
 - [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b)
 - [Deploy web apps (+NGINX) to ECS with Docker](https://stefanofrancavilla.medium.com/deploy-web-apps-nginx-to-ecs-with-docker-580c6af827e8)
-- [7 Best Tracing Tools for Microservices](https://medium.com/cloud-native-daily/7-best-tracing-tools-for-microservices-27a5e3bc4b9c)
-- [Top 11 Tools for Microservices Backend Development in 2023](https://python.plainenglish.io/top-11-tools-for-microservices-backend-development-in-2023-3d9cdd61ef10)
-- [10 Microservice Patterns Software Engineers Should Know](https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a)
-- [LUIT Project 14-Installing Apache server inside of an Ubuntu Docker container](https://awstip.com/luit-project-14-installing-apache-server-inside-of-an-ubuntu-docker-container-aa1f250acf08)
-- [Deploying a Django Application with Docker, Nginx, and Certbot](https://awstip.com/deploying-a-django-application-with-docker-nginx-and-certbot-117c23939560)
+- [`cloud-native-daily` / 7 Best Tracing Tools for Microservices](https://medium.com/cloud-native-daily/7-best-tracing-tools-for-microservices-27a5e3bc4b9c)
+- [`plainenglish` / Top 11 Tools for Microservices Backend Development in 2023](https://python.plainenglish.io/top-11-tools-for-microservices-backend-development-in-2023-3d9cdd61ef10)
+- [`cloud-native-daily` / 10 Microservice Patterns Software Engineers Should Know](https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a)
+- [`awstip` / LUIT Project 14-Installing Apache server inside of an Ubuntu Docker container](https://awstip.com/luit-project-14-installing-apache-server-inside-of-an-ubuntu-docker-container-aa1f250acf08)
+- [`awstip` / Deploying a Django Application with Docker, Nginx, and Certbot](https://awstip.com/deploying-a-django-application-with-docker-nginx-and-certbot-117c23939560)
 - [`@tonistiigi` / New Dockerfile capabilities in v1.7.0](https://medium.com/@tonistiigi/new-dockerfile-capabilities-in-v1-7-0-be6873650741)
+- [`@gaemi` / Spring Boot 과 Docker (with jib)](https://medium.com/@gaemi/spring-boot-%EA%B3%BC-docker-with-jib-657d32a6b1f0)
+- [`@EJSohn` / \[번역\] Linux에서 메모리를 다 써버렸을 때 일어나는 일](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
 
 ---
 
@@ -83,6 +94,12 @@ tag:
 ## Blog - LINE ENGINEERING
 
 - [코로나 시대 원격 QA! 오픈소스 디바이스팜 STF 도입기](https://engineering.linecorp.com/ko/blog/remote-qa-devicefarm-stf) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/remote-qa-devicefarm-stf.md) -->
+
+---
+
+## NAVER D2
+
+- [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677) <!-- TODO: 작성 (/explore/articles/d2.naver.com/3661677.md) -->
 
 ---
 
@@ -298,6 +315,7 @@ tag:
 
 ## 44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
 
+- [도커 컴포즈를 활용하여 완벽한 개발 환경 구성하기](https://44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)
 - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 ---
@@ -336,6 +354,12 @@ tag:
 ## This blog is for me a platform to share my knowledge in the area of software development.
 
 - [Docker Best Practices](https://mydeveloperplanet.com/2022/11/30/docker-best-practices/)
+
+---
+
+## 오늘도 끄적끄적
+
+- [(Troubleshooting) 레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/index.html)
 
 ---
 

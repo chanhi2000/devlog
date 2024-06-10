@@ -68,4 +68,10 @@ tag:
 
 ---
 
+## 오늘도 끄적끄적
+
+- [(Troubleshooting) 레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/index.html)
+
+---
+
 <TagLinks />

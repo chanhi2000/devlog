@@ -17,6 +17,14 @@ tag:
   - docker-container
   - vm
   - basics
+head:
+  - - meta:
+    - property: og:title
+      content: Docker > Basics
+    - property: og:description
+      content: Basics
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/docker/basics.html
 ---
 
 # {{ $frontmatter.title }} 관련

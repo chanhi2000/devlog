@@ -85,7 +85,7 @@ tag:
 
 - [Marcel – A More Modern Shell for Linux](https://www.tecmint.com/marcel-modern-shell-for-linux)
 
----
+---[파이썬] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -97,6 +97,8 @@ tag:
 - [`@skynet` / [Leetcode] 452. Minimum Number of Arrows to Burst Balloons](https://velog.io/@skynet/leetcode-452.-Minimum-Number-of-Arrows-to-Burst-Balloons)
 - [`@devstone` / 실시간 흉기 난동 상황 탐지 서비스 개발기](https://velog.io/@devstone/%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%9D%89%EA%B8%B0-%EB%82%9C%EB%8F%99-%EC%83%81%ED%99%A9-%ED%83%90%EC%A7%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
 - [`@euisuk-chung` / [꿀팁] Python으로 다양한 데이터 다루기](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-Python%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
+- [`@euisuk-chung` /  \[파이썬\] 우분투에서 한글 폰트 설치하고 matplotlib에 사용하기](https://velog.io/@euisuk-chung/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%ED%8F%B0%ED%8A%B8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-matplotlib%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`@euisuk-chung` / \[파이썬\] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-vs-code-keymapping-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-shiftenter-ctrlenter-%EB%93%B1)
 
 ---
 
@@ -1428,6 +1430,30 @@ tag:
 ## Earthly - Make Builds Super Simple
 
 - [The Montréal Effect: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
+
+---
+
+## 기계인간 John Grib
+
+- [(study) 파이썬을 활용한 베이지안 통계](https://johngrib.github.io/wiki/study/think-bayes/)
+
+---
+
+## YUDA't
+
+- [\[Python\] 잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
+
+---
+
+## hackerwins blog
+
+- [아는만큼 Search tree](https://hackerwins.github.io/2019-05-10/search-tree)
+
+---
+
+## Hax0r
+
+- [나는 코드를 쓸테니, 너는 인프라를 맡거라.](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
 
 ---
 

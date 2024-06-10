@@ -120,14 +120,6 @@ fun main() {
 data class User(val name: String)
 ```
 
-@settings
-
-```json
-{
-  "data-target-platform": "junit"
-}
-```
-
 :::
 
 To prevent that, we must use a technique known as "defensive copy", so copy the collection before exposing it.
@@ -158,14 +150,6 @@ fun main() {
 }
 
 data class User(val name: String)
-```
-
-@settings
-
-```json
-{
-  "data-target-platform": "junit"
-}
 ```
 
 :::
@@ -200,14 +184,6 @@ fun main() {
 data class User(val name: String)
 ```
 
-@settings
-
-```json
-{
-  "data-target-platform": "junit"
-}
-```
-
 :::
 
 Now consider thread safety. Default mutable collections require synchronizing both their reads, copies, and modifications, because those are all non-atomic operations.
@@ -232,14 +208,6 @@ class UserRepository {
     fun addUser(id: Int, name: String) = synchronized(lock) {
         storedUsers[id] = User(name)
     }
-}
-```
-
-@settings
-
-```json
-{
-  "data-target-platform": "junit"
 }
 ```
 
@@ -284,14 +252,6 @@ fun main() {
 }
 
 data class User(val name: String)
-```
-
-@settings
-
-```json
-{
-  "data-target-platform": "junit"
-}
 ```
 
 :::

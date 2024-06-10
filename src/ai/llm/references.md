@@ -262,4 +262,16 @@ head:
 
 ---
 
+## Applied LLMs
+
+- [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)
+
+---
+
+## OranLooney.com
+
+[A Picture is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
+
+---
+
 <TagLinks/>

@@ -50,6 +50,7 @@ head:
 
 ### Blog - LINE ENGINEERING
 
+- [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app) <!-- TODO: 작성 (/explore/articles/engineernig.liencorp.com/static-analysis-of-java-app.md) -->
 - [FIDO at LINE: FIDO2 서버를 오픈 소스로 공개했습니다](https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/fido-at-line-fido2-server-opensource.md) -->
 - [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/req-saver-for-thundering-herd-problem-in-cache.md) -->
 
@@ -91,6 +92,8 @@ head:
 - [`itnext` / Building Modular Monolith Applications with Spring Boot and Domain Driven Design](https://itnext.io/building-modular-monolith-applications-with-spring-boot-and-domain-driven-design-d3299b300850)
 - [`itnext` / Improving Modular Monolith Applications with Spring Modulith](https://itnext.io/improving-modular-monolith-applications-with-spring-modulith-edecc787f63c)
 - [`netflixtechblog` / Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
+- [`@gaemi` / Spring Boot 과 Docker (with jib)](https://medium.com/@gaemi/spring-boot-%EA%B3%BC-docker-with-jib-657d32a6b1f0)
+- [SpringBoot기반 Redis Cache 활용법](https://yongkyu-jang.medium.com/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69)
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
@@ -251,6 +254,7 @@ head:
 - [Spring Security 중복 로그인 방지](https://bbogle2.tistory.com/m/entry/Spring-Security-%EC%A4%91%EB%B3%B5-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%A9%EC%A7%80)
 - [Mybatis resultMap으로 쿼리 결과 하나의 DTO에 매핑하기 & Enum 매핑](https://bbogle2.tistory.com/m/entry/Mybatis-resultMap%EC%9C%BC%EB%A1%9C-%EC%BF%BC%EB%A6%AC-%EA%B2%B0%EA%B3%BC-%ED%95%98%EB%82%98%EC%9D%98-DTO%EC%97%90-%EB%A7%A4%ED%95%91%ED%95%98%EA%B8%B0-Enum-%EB%A7%A4%ED%95%91)
 - [MyBatis INSERT 시 Auto Increment 값 리턴 받기](https://bbogle2.tistory.com/m/entry/MyBatis-INSERT-%EC%8B%9C-Auto-Increment-%EA%B0%92-%EB%A6%AC%ED%84%B4-%EB%B0%9B%EA%B8%B0)
+- [데이터 전송 시 DTO vs Map](https://bbogle2.tistory.com/m/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-%EC%8B%9C-DTO-vs-Map)
 
 ### SivaLabs
 
@@ -289,6 +293,7 @@ head:
 ### 기억보단 기록을
 
 - [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528)
+- [Jedis 보다 Lettuce 를 쓰자](https://jojoldu.tistory.com/m/418)
 
 ### 민수's 기술 블로그
 
@@ -301,6 +306,14 @@ head:
 ### Free Java & OpenJDK Info for Daily Java Usage | foojay
 
 - [Smarter Logging in Spring Boot with AOP](https://foojay.io/today/smarter-logging-in-spring-boot-with-aop/)
+
+### 생계형 개발자 연서은
+
+- [스프링 부트 하루만에 배우기](https://ysedeveloper.tistory.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
+
+### Suhwan Jee's blog
+
+- [JPA, Hibernate, 그리고 Spring Data JPA의 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa)
 
 ---
 

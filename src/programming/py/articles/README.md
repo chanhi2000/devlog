@@ -173,6 +173,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Write Unit Tests in Python – with Example Test Code",
+  "desc": "Unit testing is a software testing technique in which individual components or units of a software application are tested independently from the rest of the application.  In software development, it's beneficial to break your application into small, isolated units. This approach allows you to write independent tests to check...",
+  "link": "/explore/articles/freecodecamp.org/unit-testing-in-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Fix Common Python Installation Errors on macOS",
+  "desc": "thon's popularity keeps growing as more developers adopt it for data science and machine learning, although it is already among the most popular programming languages.  I recently wrote an article for freeCodeCamp titled 'How to Install Python on a Mac', which provides a clear guide to installing Python...",
+  "link": "/explore/articles/freecodecamp.org/how-to-fix-python-installation-errors-on-mac.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## <FontIcon icon="fa-brands fa-digital-ocean"/>DigitalOcean | Cloud Infrastructure for Developers

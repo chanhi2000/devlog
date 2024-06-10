@@ -82,6 +82,7 @@ head:
 
 ## Blog - LINE ENGINEERING
 
+- [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/think-differently-to-solve-problems.md) -->
 - [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/6-practices-of-reducing-line-infra-costs.md) -->
 - [120가지 사용자 행동 분석을 자동화할 수 있는 '데이터 제품' 만들기](https://engineering.linecorp.com/ko/blog/data-analytics-platform-lua-analytics) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/data-analytics-platform-lua-analytics.md) -->
 - [그것이 알고 싶다 - 왜 개발자는 글을 못 쓸까?](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/why-are-engineers-so-bad-at-writing.md) -->
@@ -156,6 +157,10 @@ head:
 - [`jam2in` / 캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안](https://medium.com/jam2in/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-a4e01132ac03)
 - [`styleshare` / 상품상세페이지 개선해 성과내기](https://medium.com/styleshare/%EC%83%81%ED%92%88%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EC%84%A0%ED%95%B4-%EC%84%B1%EA%B3%BC%EB%82%B4%EA%B8%B0-ae9d5cf651c1)
 - [`watcha` / WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
+- [`@kiyeopyang` / 웹 푸시 알림 서비스, 샌디](https://medium.com/@kiyeopyang/%EC%9B%B9-%ED%91%B8%EC%8B%9C-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%83%8C%EB%94%94-4357a27a393b)
+- [`benx-tech-blog` / 글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
+- [`beige22` / 코드로 만드는 Design System](https://beige22.medium.com/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
+- [`guleum` / 디자인 시스템을 구성하는 방법](https://medium.com/guleum/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-beefa8214884)
 
 ---
 
@@ -413,6 +418,19 @@ head:
 ## CodeOpinion - Software Architecture & Design
 
 - [Beware! Anti-patterns in Event-Driven Architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
+
+---
+
+## Speaker Deck | Easily Share Your Presentations Online
+
+- [(자막)\[NDC19\] 좋은 로그란 무엇인가?: 좋은 로그를 위해 고려해야 할 것들](https://speakerdeck.com/devinjeon/jamag-ndc19-joheun-rogeuran-mueosinga-joheun-rogeureul-wihae-goryeohaeya-hal-geosdeul)
+- [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
+
+---
+
+## BlaBlaBlah
+
+- [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
 
 ---
 

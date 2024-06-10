@@ -29,6 +29,14 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+### 카카오테크, 미래의 문턱을 낮추는 기술
+
+- [NumPy와 C++ Extensions의 성능 비교](https://tech.kakao.com/posts/349)
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`fwsgonzo` / An Introduction to Low-Latency Scripting for Game Engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
@@ -134,7 +142,8 @@ tag:
 - [\[Q&A\] CDC 클래스의 FillSolidRect 함수에 대하여](https://blog.naver.com/tipsware/223469803831)
 - [MFC 프로그래밍 테스트 과제 - Step 4](https://blog.naver.com/tipsware/223471439017)
 - [\[Q&A\] CBrush 객체의 사용이 끝나면 DeleteObject 함수를 꼭 호출해야 하나요?](https://blog.naver.com/tipsware/223469859909)
-- [\[Q&A\] CMFCListCtrl 클래스의 GetColumn 함수로 문자열을 얻고 싶습니다. ](https://blog.naver.com/tipsware/223471822718?)
+- [\[Q&A\] CMFCListCtrl 클래스의 GetColumn 함수로 문자열을 얻고 싶습니다.](https://blog.naver.com/tipsware/223471822718?)
+- [\[Q&A\] 배열의 크기가 아닌 항목의 수를 얻으려면?](https://blog.naver.com/tipsware/223473809991)
 
 ---
 

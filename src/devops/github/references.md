@@ -37,6 +37,7 @@ tag:
 
 - [`stackademic` / What Every Android Developer Should Have in Their GitHub?](https://blog.stackademic.com/what-every-android-developer-should-have-in-their-github-de8deab051b9)
 - [`mcdonalds-technical-blog`: Reduce, reuse, recycle: McDonald's reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
+- [`changjoopark` / 오픈소스를 금지당한 사람들의 몸부림](https://changjoopark.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%B8%88%EC%A7%80%EB%8B%B9%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%AA%B8%EB%B6%80%EB%A6%BC-bd1498652e68)
 
 ---
 
