@@ -55,6 +55,7 @@ export const template: SidebarInfoTemplate = {
       "react-context-api-explained-with-examples", // 2024-05-30
       "learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go", // 2024-05-30
       "how-to-build-a-rating-component-with-the-react-compound-component-pattern", // 2024-06-03
+      "learn-high-level-system-design-by-building-a-youtube-clone", // 2024-06-11
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
@@ -86,6 +87,7 @@ export const template: SidebarInfoTemplate = {
       "python-coding-challenges-for-beginners", // 2024-06-04
       "unit-testing-in-python", // 2024-06-10
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
+      "learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence", // 2024-06-11
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -266,6 +268,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-notice-blocks-in-markdown", // 2024-06-10
       "unit-testing-in-python", // 2024-06-10
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
+      "learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence", // 2024-06-11
+      "learn-high-level-system-design-by-building-a-youtube-clone", // 2024-06-11
     ]],
   ]),
 }

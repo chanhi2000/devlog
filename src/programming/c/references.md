@@ -398,4 +398,10 @@ tag:
 
 ---
 
+## jott - landing
+
+- [Collaborative ASCII Drawing With Telnet](https://jott.live/markdown/telnet_draw)
+
+---
+
 <TagLinks />

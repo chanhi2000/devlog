@@ -168,8 +168,8 @@
   }, {
     "repo": "karpathy/nanoGPT",
     "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
-    "topics": [],
-    "officialSite": ""  
+    "officialSite": "",
+    "topics": []
   }, {
     "repo": "neonbjb/tortoise-tts",
     "desc": "A multi-voice TTS system trained with an emphasis on quality",
@@ -2037,8 +2037,8 @@
   }, {
     "repo": "blakeblackshear/frigate",
     "desc": "NVR with realtime local object detection for IP cameras",
-    "topics": ["home-automation", "mqtt", "ai", "camera", "rtsp", "tensorflow", "nvr", "realtime", "home-assistant", "homeautomation", "object-detection", "google-coral"],
-    "officialSite": "https://frigate.video"
+    "officialSite": "https://frigate.video",
+    "topics": ["ai", "camera", "google-coral", "home-assistant", "home-automation", "homeautomation", "mqtt", "nvr", "object-detection", "realtime", "rtsp", "tensorflow"]
   }, {
     "repo": "scaleapi/llm-engine",
     "desc": "Scale LLM Engine public repository",
@@ -5519,5 +5519,10 @@
     "desc": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
     "officialSite": "",
     "topics": ["airport", "best-nodes", "china-censorship", "clash", "clash-config", "free-proxies", "freeairport", "freenodes", "gfw", "node", "nodes", "proxies", "scientific-internet-access", "shadowsocks", "shadowsocksr", "ss", "ssr", "trojan", "v2ray", "vmess"]
+  }, {
+    "repo": "openai/gpt-2",
+    "desc": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
+    "officialSite": "https://openai.com/blog/better-language-models/",
+    "topics": ["paper"]
   }
 ]

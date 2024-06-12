@@ -11,8 +11,9 @@ category:
 tag: 
   - blog
   - freecodecamp.org
-  - yozm.wishket.com
   - digitalocean.com
+  - yozm.wishket.com
+  - d2.naver.com
   - kubernetes
   - k8s
 head:
@@ -39,6 +40,16 @@ head:
 
 ```component VPCard
 {
+  "title": "DigitalOcean | Cloud Infrastructure for Developers",
+  "desc": "An ocean of simple, scalable cloud solutions.",
+  "link": "https://digitalocean.com/",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "요즘IT", 
   "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
@@ -47,15 +58,12 @@ head:
 }
 ```
 
-```component VPCard
-{
-  "title": "DigitalOcean | Cloud Infrastructure for Developers",
-  "desc": "An ocean of simple, scalable cloud solutions.",
-  "link": "https://digitalocean.com/",
-  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
-  "background": "rgba(29,55,209,0.2)"
-}
-```
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -72,6 +80,32 @@ head:
   "link": "/explore/articles/freecodecamp.org/how-to-run-postgres-in-kubernetes.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## <FontIcon icon="fa-brands fa-digital-ocean"/>DigitalOcean | Cloud Infrastructure for Developers
+
+> digitalocean.com
+
+```component VPCard
+{
+  "title": "How To Secure Your Site in Kubernetes with cert-manager, Traefik, and Let’s Encrypt | DigitalOcean",
+  "desc": "Kubernetes is a popular way to host websites. As more websites interact with sensitive data, more browsers are requiring TLS to secure traffic. However, it c… ",
+  "link": "/explore/articles/digitalocean.com/how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(0,105,225,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Run Serverless Workloads with Knative on DigitalOcean Kubernetes | DigitalOcean",
+  "desc": "Knative is a Kubernetes-based platform that provides components to deploy and manage serverless workloads. Knative offers open-source Kubernetes integration,… ",
+  "link": "/explore/articles/digitalocean.com/how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(0,105,225,0.2)"
 }
 ```
 
@@ -171,34 +205,23 @@ head:
 }
 ```
 
+<!-- END: yozm.wishket.com -->
+
 ---
 
-## <FontIcon icon="fa-brands fa-digital-ocean"/>DigitalOcean | Cloud Infrastructure for Developers
+## NAVER D2
 
-> digitalocean.com
-
-```component VPCard
-{
-  "title": "How To Secure Your Site in Kubernetes with cert-manager, Traefik, and Let’s Encrypt | DigitalOcean",
-  "desc": "Kubernetes is a popular way to host websites. As more websites interact with sensitive data, more browsers are requiring TLS to secure traffic. However, it c… ",
-  "link": "/explore/articles/digitalocean.com/how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md",
-  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
-  "background": "rgba(0,105,225,0.2)"
-}
-```
+> d2.naver.com
 
 ```component VPCard
 {
-  "title": "How To Run Serverless Workloads with Knative on DigitalOcean Kubernetes | DigitalOcean",
-  "desc": "Knative is a Kubernetes-based platform that provides components to deploy and manage serverless workloads. Knative offers open-source Kubernetes integration,… ",
-  "link": "/explore/articles/digitalocean.com/how-to-secure-your-site-in-kubernetes-with-cert-manager-traefik-and-let-s-encrypt.md",
-  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
-  "background": "rgba(0,105,225,0.2)"
+  "title": "쿠버네티스 네이티브 사이드카 컨테이너 (Sidecar Containers) | NAVER D2",
+  "desc": "쿠버네티스 네이티브 사이드카 컨테이너 (Sidecar Containers)",
+  "link": "/explore/articles/d2.naver.com/5564264.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
 }
 ```
-
-
-
 
 ---
 

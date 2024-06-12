@@ -89,15 +89,12 @@ head:
   lokafka="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/sitebanner.png"/>
 
-```component VPCard
-{
-  "title": "우아한형제들 기술블로그",
-  "desc": "우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.",
-  "link": "https://techblog.woowahan.com/",
-  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
-  "background": "rgba(43,193,188,0.2)"
-}
-```
+<SiteInfo
+  name="우아한형제들 기술블로그"
+  desc="우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다."
+  url="https://techblog.woowahan.com/"
+  logo="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico"
+  preview="https://techblog.woowahan.com/wp-content/uploads/2021/06/screenshot.jpg"/>
 
 <SiteInfo
   name="강남언니 공식 블로그"

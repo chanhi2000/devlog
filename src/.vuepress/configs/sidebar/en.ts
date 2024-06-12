@@ -449,6 +449,7 @@ export const sidebarEn = sidebar({
             asb.d2("js-node"), 
             asb.nhn("js-node"),
             asb.linecorp("js-node"),
+            asb.woowahan("js-node"),
             asb.johnnyreilly("js-node"),
           ]
         }
@@ -476,6 +477,7 @@ export const sidebarEn = sidebar({
             asb.yozm("js-react"),
             asb.kakaoTech("js-react"),
             asb.woowahan("js-react"),
+            asb.inflab("js-react"),
             asb.gmarket("js-react"),
             asb.zuminternet("js-react"),
             asb.sitepoint("js-react"),
@@ -2049,8 +2051,9 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/k8s/articles/README.md',
             asb.freecodecamp("k8s"),
-            asb.yozm("k8s"),
             asb.digitalocean("k8s"),
+            asb.yozm("k8s"),
+            asb.d2("k8s"),
           ]
         }
       ]
@@ -2098,6 +2101,7 @@ export const sidebarEn = sidebar({
             '/devops/aws/articles/README.md',
             asb.freecodecamp("aws"),
             asb.yozm("aws"),
+            asb.inflab("js-react"),
           ]
         }
       ]
@@ -2708,6 +2712,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/spark/articles/README.md',
+            asb.d2("spark"),
             asb.popit("spark"),
           ]
         }
@@ -3014,6 +3019,7 @@ export const sidebarEn = sidebar({
         asb.d2(), 
         asb.nhn(),
         asb.linecorp(),
+        asb.inflab(),
         asb.toss(),
         asb.banksalad(),
         asb.toast(),

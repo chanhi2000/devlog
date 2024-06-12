@@ -52,7 +52,83 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+Swift tasks can have a priority attached to them, such as `.high` or `.background`, but the priority can also be `nil` if no specific priority was assigned. This priority can be used by the system to determine which task should be executed next, but this isn’t guaranteed – think of it as a suggestion rather than a rule.
+
+Creating a task with a priority look like this:
+
+```swift
+func fetchQuotes() async {
+    let downloadTask = Task(priority: .high) { () -> String in
+        let url = URL(string: "https://hws.dev/chapter.txt")!
+        let (data, _) = try await URLSession.shared.data(from: url)
+        return String(decoding: data, as: UTF8.self)
+    }
+
+    do {
+        let text = try await downloadTask.value
+        print(text)
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+
+await fetchQuotes()
+```
+
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/concurrency/how-to-control-the-priority-of-a-task-1.zip)
+
+Although you *can* directly assign a priority to a task when it’s created, if you don’t then Swift will follow three rules for deciding the priority automatically: 
+
+1. If the task was created from another task, the child task will inherit the priority of the parent task.
+2. If the new task was created directly from the main thread as opposed to a task, it’s automatically assigned the highest priority of `.userInitiated`.
+3. If the new task wasn’t made by another task or the main thread, Swift will try to query the priority of the thread or give it a `nil` priority.
+
+**This means not specifying an exact priority is often a good idea because Swift will do The Right Thing.**
+
+However, like I said you can also specify an exact priority from one of the following:
+
+- The highest priority is `.high`, which is synonymous with `.userInitiated`. As the name implies, this should be used only for tasks that the user specifically started and is actively waiting for.
+- Next highest is `medium`, and again as the name implies this is a great choice for most of your tasks that the user isn’t actively waiting for.
+- Next is `.low`, which is synonymous with `.utility`. This is the best choice for anything long enough to require a progress bar to be displayed, such as copying files or importing data.
+- The lowest priority is `.background`, which is for any work the user can’t see, such as building a search index. This could in theory take hours to complete.
+
+Like I said, priority inheritance helps get us a sensible priority by default, particularly when creating tasks in response to a user interface action.
+
+For example, we could build a simple SwiftUI app using a single task, and we don’t need to provide a specific priority –it will automatically run as high priority because it was started from our UI:
+
+```swift
+struct ContentView: View {
+    @State private var jokeText = ""
+
+    var body: some View {
+        VStack {
+            Text(jokeText)
+            Button("Fetch new joke", action: fetchJoke)
+        }
+    }
+
+    func fetchJoke() {
+        Task {
+            let url = URL(string: "https://icanhazdadjoke.com")!
+            var request = URLRequest(url: url)
+            request.setValue("Swift Concurrency by Example", forHTTPHeaderField: "User-Agent")
+            request.setValue("text/plain", forHTTPHeaderField: "Accept")
+
+            let (data, _) = try await URLSession.shared.data(for: request)
+
+            if let jokeString = String(data: data, encoding: .utf8) {
+                jokeText = jokeString
+            } else {
+                jokeText = "Load failed."
+            }
+        }
+    }
+}
+```
+
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/concurrency/how-to-control-the-priority-of-a-task-2.zip)
+
+Any task can query its current priority using `Task.currentPriority`, but this works from anywhere – if it’s called in a function that is not currently part of a task, Swift will query the system for an answer or send back `.medium`.
 
 ::: details Similar solutions…
 

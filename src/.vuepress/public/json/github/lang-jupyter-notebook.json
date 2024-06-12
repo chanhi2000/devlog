@@ -634,5 +634,10 @@
     "desc": "LLM Analytics",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "aws/amazon-sagemaker-examples",
+    "desc": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. ",
+    "officialSite": "https://sagemaker-examples.readthedocs.io",
+    "topics": ["aws", "data-science", "deep-learning", "examples", "inference", "jupyter-notebook", "machine-learning", "mlops", "reinforcement-learning", "sagemaker", "training"]
   }
 ]

@@ -133,7 +133,7 @@
     "repo": "nvm-sh/nvm",
     "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "officialSite": "",
-    "topics": ["nodejs", "shell", "bash", "zsh", "node", "install", "nvm", "posix", "lts", "version-manager", "node-js", "posix-compliant", "nvmrc"]
+    "topics": ["bash", "install", "lts", "node", "node-js", "nodejs", "nvm", "nvmrc", "posix", "posix-compliant", "shell", "version-manager", "zsh"]
   }, {
     "repo": "kdave/btrfsmaintenance",
     "desc": "Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.",

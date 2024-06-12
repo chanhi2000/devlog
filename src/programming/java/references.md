@@ -569,7 +569,7 @@ tag:
 
 ### devkuma
 
-- [Kotest 자원 (Resources)](https://www.devkuma.com/docs/kotest/framework/resources/)
+- [Kotest 자원 (Resources)](https://devkuma.com/docs/kotest/framework/resources/)
 
 ### simple is best
 
@@ -582,13 +582,13 @@ tag:
 
 ### 개발하는 곰돌이
 
-- [[Kotlin] 백준 13199 : 치킨 먹고 싶다](https://colabear754.tistory.com/208)
-- [[OOP] 일급 컬렉션(First Class Collection)으로 컬렉션을 다뤄보자](https://colabear754.tistory.com/209)
-- [[Kotlin] 백준 25418 : 정수 a를 k로 만들기](https://colabear754.tistory.com/210)
-- [[Kotlin] 백준 28078 : 중력 큐](https://colabear754.tistory.com/213)
-- [[Kotlin] 백준 17612 : 쇼핑몰](https://colabear754.tistory.com/214)
-- [\[Kotlin\] 백준 14715 : 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)](https://colabear754.tistory.com/215)
-
+- [[Kotlin] 백준 13199 : 치킨 먹고 싶다](https://colabear754.tistory.com/m/208)
+- [[OOP] 일급 컬렉션(First Class Collection)으로 컬렉션을 다뤄보자](https://colabear754.tistory.com/m/209)
+- [[Kotlin] 백준 25418 : 정수 a를 k로 만들기](https://colabear754.tistory.com/m/210)
+- [[Kotlin] 백준 28078 : 중력 큐](https://colabear754.tistory.com/m/213)
+- [[Kotlin] 백준 17612 : 쇼핑몰](https://colabear754.tistory.com/m/214)
+- [\[Kotlin\] 백준 14715 : 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)](https://colabear754.tistory.com/m/215)
+- [\[Kotlin\] 백준 6523 : 요세푸스 한 번 더!](https://colabear754.tistory.com/m/216)
 
 ### Square Lab
 

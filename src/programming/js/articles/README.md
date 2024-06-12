@@ -312,6 +312,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript | NAVER D2",
+  "desc": "infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript",
+  "link": "/explore/articles/d2.naver.com/7472830.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
 <!-- END: d2.naver.com -->
 
 ---

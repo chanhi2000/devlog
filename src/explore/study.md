@@ -625,6 +625,13 @@ https://www.joinc.co.kr/w/Site
 }
 ```
 
+<SiteInfo
+  name="Webhook events and payloads - GitHub Docs"
+  desc="Learn about when each webhook event occurs and what the payload contains."
+  url="https://docs.github.com/en/webhooks/webhook-events-and-payloads"
+  logo="https://docs.github.com/assets/cb-345/images/site/favicon.png"
+  preview="https://github.githubassets.com/images/modules/open_graph/github-logo.png"/>
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet

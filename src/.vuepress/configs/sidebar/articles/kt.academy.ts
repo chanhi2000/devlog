@@ -4,7 +4,8 @@ export const template: SidebarInfoTemplate = {
   name: 'kt.academy',
   faviconPath: 'https://kt.academy/logo.png',
   linksMap: new Map([
-    ["kotlin", [
+    [
+    "kotlin", [
       "ak-static-analysis", // 2024-01-22
       "cc-cancellation", // 2024-03-11
       "kfde-generics", // 2024-03-18

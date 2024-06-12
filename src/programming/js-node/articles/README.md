@@ -14,6 +14,7 @@ tag:
   - yozm.wishket.com
   - tech.kakao.com
   - d2.naver.com
+  - techblog.woowahan.com
   - sitepoint.com
   - johnnyreilly.com
   - meetup.nhncloud.com
@@ -88,6 +89,13 @@ head:
   url="https://d2.naver.com"
   logo="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/sitebanner.png"/>
+
+<SiteInfo
+  name="우아한형제들 기술블로그"
+  desc="우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다."
+  url="https://techblog.woowahan.com/"
+  logo="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico"
+  preview="https://techblog.woowahan.com/wp-content/uploads/2021/06/screenshot.jpg"/>
 
 ```component VPCard
 {
@@ -330,6 +338,26 @@ head:
   "background": "rgba(54,235,127,0.2)"
 }
 ```
+
+<!-- END: d2.naver.com -->
+
+---
+
+## 우아한형제들 기술블로그
+
+> techblog.woowahan.com
+
+```component VPCard
+{
+  "title": "Vite로 구버전 브라우저 지원하기 | 우아한형제들 기술블로그",
+  "desc": "Vite로 구버전 브라우저 지원하기",
+  "link": "/explore/artiles/techblog.woowahan.com/17710.md",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
+}
+```
+
+<!-- END: techblog.woowahan.com -->
 
 ---
 

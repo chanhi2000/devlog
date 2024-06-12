@@ -310,6 +310,7 @@ head:
 ### 생계형 개발자 연서은
 
 - [스프링 부트 하루만에 배우기](https://ysedeveloper.tistory.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
+- [0. 들어가며](https://ysedeveloper.tistory.com/entry/0-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0-1)
 
 ### Suhwan Jee's blog
 

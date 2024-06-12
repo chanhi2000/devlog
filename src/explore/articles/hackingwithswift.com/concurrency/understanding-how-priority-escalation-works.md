@@ -52,7 +52,20 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+Every task can be created with a specific priority level, or it can inherit a priority from somewhere else. But in two specific circumstances, Swift will *raise* the priority of a task so it’s able to complete faster.
+
+This always happens because of some specific action from us:
+
+1. If higher-priority task A starts waiting for the result of lower-priority task B, task B will have its priority elevated to the same priority as task A.
+2. If lower-priority task A has started running on an actor, and higher-priority task B has been enqueued on that same actor, task A will have its priority elevated to match task B.
+
+In both cases, Swift is trying to ensure the higher priority task gets the quality of service it needs to run quickly – if something very important can only complete when something less important is also complete, then the less important task *becomes* very important.
+
+For the most part, this isn’t something we need to worry about in our code – think of it as a bonus feature provided automatically by Swift’s tasks.
+
+However, there is *one* place where priority escalation might surprise you, and it’s worth at least being aware of it: in our first situation, where a high-priority task uses `await` on a low-priority task, using `Task.currentPriority` will report the *escalated* priority rather than the original priority. So, you might create a task with a low priority, but when you query it a minute later it might have moved up to be a high priority.
+
+At the time of writing, this is the only real “gotcha” moment with task escalation. The other situation – if you queue a high-priority task on the same actor where a low-priority task is already running – will also involve priority escalation, but *won’t* change the value of `currentPriority`. This means your task will run a little faster and it might not be obvious why, but honestly it’s unlikely you’ll even notice this.
 
 ::: details Similar solutions…
 

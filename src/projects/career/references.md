@@ -1054,4 +1054,8 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 
 ---
 
+## 강디너의 개발 일지
+
+- [새로운 시작... feat. 시니어 개발자를 향하여](https://kdinner.tistory.com/m/127)
+
 <TagLinks />

@@ -12,6 +12,7 @@ tag:
   - blog
   - freecodecamp.org
   - yozm.wishket.com
+  - tech.inflab.com
   - aws
   - amazon-web-services
   - aws-cdk
@@ -48,6 +49,13 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<SiteInfo
+  name="tech.inflab.com"
+  desc="인프랩 기술 블로그"
+  url="https://tech.inflab.com"
+  logo="https://tech.inflab.com/favicon-32x32.png?v=85c8af743e179883b18fef5acc3a66b0"
+  preview="https://cdn.inflearn.com/assets/images/tech-blog/tech_blog_banner.png"/>
 
 ---
 
@@ -140,6 +148,24 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+---
+
+## tech.inflab.com
+
+> tech.inflab.com
+
+```component VPCard
+{
+  "title": "스타트업 엔지니어의 AWS 비용 최적화 경험기",
+  "desc": "인프랩이 어떻게 월 $25,000 넘게 AWS 비용을 절약할 수 있었는지 경험과 노하우를 소개합니다.",
+  "link": "/explore/articles/tech.inflab.com/20240227-finops-for-startup.md",
+  "logo": "https://tech.inflab.com/favicon-32x32.png?v=85c8af743e179883b18fef5acc3a66b0",
+  "background": "rgba(0,223,129,0.2)"
+}
+```
+
+<!-- END: tech.inflab.com -->
 
 ---
 

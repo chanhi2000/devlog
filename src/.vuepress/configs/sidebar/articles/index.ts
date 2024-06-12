@@ -14,6 +14,7 @@ import { template as TEMPLATE_GANGNAMUNNI } from './blog.gangnamunni.com';
 import { template as TEMPLATE_WOOWAHAN } from './techblog.woowahan.com';
 import { template as TEMPLATE_GMARKET } from './dev.gmarket.com'; 
 import { template as TEMPLATE_LINECORP } from './engineering.linecorp.com';
+import { template as TEMPLATE_INFLAB } from './tech.inflab.com';
 import { template as TEMPLATE_TOSS } from './toss.tech';
 import { template as TEMPLATE_BANKSALAD } from './blog.banksalad.com';
 import { template as TEMPLATE_TOAST } from './ui.toast.com';
@@ -83,6 +84,7 @@ export const articleSidebars = {
   woowahan:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_WOOWAHAN, type),
   gmarket:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GMARKET, type),
   linecorp:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LINECORP, type),
+  inflab:             (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_INFLAB, type),
   toss:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_TOSS, type),
   banksalad:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_BANKSALAD, type),
   toast:              (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_TOAST, type),

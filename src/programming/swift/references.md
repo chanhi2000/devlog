@@ -27,6 +27,7 @@ tag:
 - [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://www.swift.org/blog/embedded-swift-examples/)
 - [Writing GNOME Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 - [Swift Server Workgroup (SSWG)](https://www.swift.org/sswg/)
+- [Getting Started with the Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
 
 ---
 

@@ -491,4 +491,10 @@ head:
 
 ---
 
+## Two-Bit History
+
+- [How Much of a Genius-Level Move Was Using Binary Space Partitioning in Doom?](https://twobithistory.org/2019/11/06/doom-bsp.html)
+
+---
+
 <TagLinks />

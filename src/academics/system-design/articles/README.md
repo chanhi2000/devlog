@@ -282,6 +282,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "UX 원칙에 따른 NELO 4.0 개발기 | NAVER D2",
+  "desc": "UX 원칙에 따른 NELO 4.0 개발기",
+  "link": "/explore/articles/d2.naver.com/2461452.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
 <!-- END: d2.naver.com -->
 
 ---

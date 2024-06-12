@@ -75,7 +75,7 @@ brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
 
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \
-  dbeaver-community rancher eul flipper font-jetbrains-mono \
+  dbeaver-community rancher eul flameshot flipper font-jetbrains-mono \
   google-chrome grandperspective iina intellij-idea-ce jordanbaird-ice \
   maccy notion opencore-patcher oversight pennywise raycast \
   resilio-sync sf-symbols shottr spectacle sublime-merge sublime-text \

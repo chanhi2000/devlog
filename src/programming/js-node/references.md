@@ -1123,5 +1123,12 @@ tag:
 
 - [\[이펙티브 타입스크립트\] 5장 any 다루기](https://paran21.tistory.com/m/238)
 
+---
+
+## Teveloper 개발 & 테니스 이야기
+
+- [Micro Frontend를 위한 Module Federation](https://teveloper.tistory.com/m/80)
+
+---
 
 <TagLinks />

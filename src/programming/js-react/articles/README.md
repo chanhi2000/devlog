@@ -15,6 +15,7 @@ tag:
   - smashingmagazine.com
   - yozm.wishket.com
   - techblog.woowahan.com
+  - tech.inflab.com
   - dev.gmarket.com
   - zuminternet.github.io
   - sitepoint.com
@@ -94,15 +95,19 @@ head:
 }
 ```
 
-```component VPCard
-{
-  "title": "우아한형제들 기술블로그",
-  "desc": "우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.",
-  "link": "https://techblog.woowahan.com/",
-  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
-  "background": "rgba(43,193,188,0.2)"
-}
-```
+<SiteInfo
+  name="우아한형제들 기술블로그"
+  desc="우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다."
+  url="https://techblog.woowahan.com/"
+  logo="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico"
+  preview="https://techblog.woowahan.com/wp-content/uploads/2021/06/screenshot.jpg"/>
+
+<SiteInfo
+  name="tech.inflab.com"
+  desc="인프랩 기술 블로그"
+  url="https://tech.inflab.com"
+  logo="https://tech.inflab.com/favicon-32x32.png?v=85c8af743e179883b18fef5acc3a66b0"
+  preview="https://cdn.inflearn.com/assets/images/tech-blog/tech_blog_banner.png"/>
 
 ```component VPCard
 {
@@ -317,6 +322,16 @@ head:
   "title": "How to Build a Rating Component with the React Compound Component Pattern",
   "desc": "Have you ever watched a captivating movie or used a fantastic product and wanted to share your experience? In today's world, feedback is critical, and ratings are like currency.  Rating systems are everywhere, from the classic star ratings on movie review websites to the ubiquitous thumbs up/down on streaming...",
   "link": "/explore/articles/freecodecamp.org/how-to-build-a-rating-component-with-the-react-compound-component-pattern.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Learn High-Level System Design by Building a YouTube Clone",
+  "desc": "High-Level System Design involves creating a blueprint for complex systems, focusing on architecture, component interactions, and scalability. It addresses how different parts of a system communicate, manage data, and handle user requests efficiently...",
+  "link": "/explore/articles/freecodecamp.org/learn-high-level-system-design-by-building-a-youtube-clone.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -547,6 +562,26 @@ head:
   "background": "rgba(43,193,188,0.2)"
 }
 ```
+
+<!-- END: techblog.woowahan.com -->
+
+---
+
+## tech.inflab.com
+
+> tech.inflab.com
+
+```component VPCard
+{
+  "title": "개발 파트 소개 - 3. 모바일 앱 개발 파트 (React Native)",
+  "desc": "인프랩 채용 공고 안녕하세요. 인프랩의 향로입니다. 저희 인프랩 개발팀은 현재 백엔드, 프론트엔드, 모바일 앱, 데브옵스 파트로 나뉘어져 있습니다. 각각의 개발 파트가 어떻게 일…",
+  "link": "/explore/articles/tech.inflab.com/20240425-mobile-part.md",
+  "logo": "https://tech.inflab.com/favicon-32x32.png?v=85c8af743e179883b18fef5acc3a66b0",
+  "background": "rgba(0,223,129,0.2)"
+}
+```
+
+<!-- END: tech.inflab.com -->
 
 ---
 

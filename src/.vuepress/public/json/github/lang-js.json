@@ -2339,5 +2339,10 @@
     "desc": "AI-Powered Jupyter Notebook built using React",
     "officialSite": "https://www.thread.dev",
     "topics": ["analysis", "analytics", "data-science", "jupyter", "jupyter-notebook", "jupyter-notebooks", "jupyterhub", "jupyterlab", "python"]
+  }, {
+    "repo": "poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "officialSite": "",
+    "topics": ["airtable", "hiring", "hiring-without-whiteboards", "interview", "jobs", "tech", "whiteboard"]
   }
 ]

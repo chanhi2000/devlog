@@ -1574,5 +1574,10 @@
     "desc": "Package libvirt provides a pure Go interface for interacting with Libvirt.  Apache 2.0 Licensed.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "danvergara/dblab",
+    "desc": "The database client every command line junkie deserves.",
+    "officialSite": "",
+    "topics": ["cli", "client", "developer-tools", "development", "golang", "mysql", "postgresql", "tui"]
   }
 ]

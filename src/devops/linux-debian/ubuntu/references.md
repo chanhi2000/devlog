@@ -22,6 +22,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-swift"/>Swift
+
+- [Getting Started with the Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
+
+---
+
 ## 재즐보프
 
 - [ubuntu에서 도메인 변경하는 방법](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=isc0304&logNo=223443494838)

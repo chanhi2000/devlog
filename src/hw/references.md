@@ -227,4 +227,10 @@ head:
 
 ---
 
+## Blog | Dan Groshev
+
+- [I really like the RP2040](https://dgroshev.com/blog/rp2040/)
+
+---
+
 <TagLinks />

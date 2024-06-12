@@ -3023,5 +3023,20 @@
     "desc": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.",
     "officialSite": "https://the-guild.dev/graphql/yoga-server",
     "topics": ["bun", "deno", "fetch", "graphql", "graphql-server", "javascript", "nodejs", "the-guild", "typescript", "w3c", "whatwg"]
+  }, {
+    "repo": "redotvideo/revideo",
+    "desc": "Create Videos with Code",
+    "officialSite": "https://re.video",
+    "topics": []
+  }, {
+    "repo": "paralogical/glish",
+    "desc": "map all words to single-syllable version",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mnfst/manifest",
+    "desc": "Effortless backends ✨",
+    "officialSite": "https://manifest.build",
+    "topics": ["admin-panel", "api", "baas", "backend-as-a-servise", "manifest", "rest-api", "sdk-js", "yaml"]
   }
 ]

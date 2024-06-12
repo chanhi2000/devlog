@@ -193,6 +193,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn Python for Data Science – Hands-on Projects with EDA, AB Testing & Business Intelligence",
+  "desc": "Data science skills are increasingly in-demand. We just published a hands-son data science with Python course on the freeCodeCamp.org YouTube channel. This comprehensive, 5.5+ hour course is designed to provide aspiring data scientists with essential...",
+  "link": "/explore/articles/freecodecamp.org/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## <FontIcon icon="fa-brands fa-digital-ocean"/>DigitalOcean | Cloud Infrastructure for Developers

@@ -103,7 +103,7 @@ The course is divided into multiple sections, each focusing on a different aspec
 
 Watch the full course on [<FontIcon icon="fa-brands fa-youtube"/>the freeCodeCamp.org YouTube channel](https://youtu.be/NEYcKvwbW-w) (8-hour watch).
 
-<VidStack src="youtube//NEYcKvwbW-w" />
+<VidStack src="youtube/NEYcKvwbW-w" />
 
 ---
 

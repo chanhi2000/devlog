@@ -927,15 +927,12 @@ https://paperlined.org/
   logo="https://static.toss.im/tds/favicon/favicon.ico"
   preview="https://static.toss.im/assets/payments/contents/toss-tech-banner2_.png"/>
 
-```component VPCard
-{
-  "title": "우아한형제들 기술블로그",
-  "desc": "우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다.",
-  "link": "https://techblog.woowahan.com/",
-  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
-  "background": "rgba(43,193,188,0.2)"
-}
-```
+<SiteInfo
+  name="우아한형제들 기술블로그"
+  desc="우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다."
+  url="https://techblog.woowahan.com/"
+  logo="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico"
+  preview="https://techblog.woowahan.com/wp-content/uploads/2021/06/screenshot.jpg"/>
 
 ```component VPCard
 {

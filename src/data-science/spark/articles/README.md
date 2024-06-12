@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - d2.naver.com
   - popit.kr
   - spark
   - apache-spark
@@ -24,6 +25,13 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
+
 ```component VPCard
 {
   "title": "Popit | 전문 지식 공유를 위한 팀블로그",
@@ -35,6 +43,23 @@ head:
 ```
 
 [[toc]]
+---
+
+## NAVER D2
+
+> d2.naver.com
+
+```component VPCard
+{
+  "title": "실시간 광고 사용자 ID 매핑 | NAVER D2",
+  "desc": "실시간 광고 사용자 ID 매핑",
+  "link": "/explore/articles/d2.naver.com/0680815.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+<!-- END: d2.naver.com -->
 
 ---
 

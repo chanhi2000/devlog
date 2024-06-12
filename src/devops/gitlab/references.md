@@ -62,7 +62,8 @@ tag:
 
 ## Life Log
 
-- [gitlab 422](https://ravenkim97.tistory.com/449)
+- [gitlab 422](https://ravenkim97.tistory.com/m/449)
+- [git lab Authentication failed. Some common reasons include:](https://ravenkim97.tistory.com/m/458)
 
 ---
 

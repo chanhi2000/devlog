@@ -14,7 +14,6 @@ tag:
   - c
   - cpp
   - gnu
-  - blog
 head:
   - - meta:
     - property: og:title
@@ -48,8 +47,8 @@ isOriginal: false
 {
   "title": "Makefile | devkuma", 
   "desc": "Makefile은 UNIX 계열 OS에서 일반적인 빌드 도구인 'make'(make 명령어)에 실행할 절차를 기술한 텍스트 파일이다.", 
-  "link": "https://www.devkuma.com/docs/makefile/", 
-  "logo": "https://www.devkuma.com/favicons/favicon.ico",
+  "link": "https://devkuma.com/docs/makefile/", 
+  "logo": "https://devkuma.com/favicons/favicon.ico",
   "background": "rgba(48,99,142,0.2)"
 }
 ```

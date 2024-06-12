@@ -144,6 +144,7 @@ tag:
 - [\[Q&A\] CBrush 객체의 사용이 끝나면 DeleteObject 함수를 꼭 호출해야 하나요?](https://blog.naver.com/tipsware/223469859909)
 - [\[Q&A\] CMFCListCtrl 클래스의 GetColumn 함수로 문자열을 얻고 싶습니다.](https://blog.naver.com/tipsware/223471822718?)
 - [\[Q&A\] 배열의 크기가 아닌 항목의 수를 얻으려면?](https://blog.naver.com/tipsware/223473809991)
+- [\[Q&A\] 힙 손상과 관련된 Exploit을 줄이도록 프로그램에서 처리하는 방법에 대하여](https://blog.naver.com/tipsware/223475242524)
 
 ---
 
@@ -213,7 +214,8 @@ tag:
 - [\[백준 15989번\] 1, 2, 3, 더하기 4](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-15989%EB%B2%88-1-2-3-%EB%8D%94%ED%95%98%EA%B8%B0-4)
 - [\[백준 2417번\] 정수 제곱근](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-2417%EB%B2%88-%EC%A0%95%EC%88%98-%EC%A0%9C%EA%B3%B1%EA%B7%BC)
 - [빠르게 배열의 부분 합을 구하는 Prefix Sum 알고리즘](https://kesakiyo.tistory.com/m/entry/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%97%B4%EC%9D%98-%EB%B6%80%EB%B6%84-%ED%95%A9%EC%9D%84-%EA%B5%AC%ED%95%98%EB%8A%94-Prefix-Sum-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-
+- [\[백준 30804번\] 과일 탕후루](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-30804%EB%B2%88-%EA%B3%BC%EC%9D%BC-%ED%83%95%ED%9B%84%EB%A3%A8)
+- [\[백준 17845\] 수강 과목](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17845-%EC%88%98%EA%B0%95-%EA%B3%BC%EB%AA%A9)
 
 ---
 
@@ -238,6 +240,12 @@ tag:
 ## 16BPP.net: Blog
 
 - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
+
+---
+
+## Yossi Kreinin - blog archive
+
+- [SIMD < SIMT < SMT: parallelism in NVIDIA GPUs](https://yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html)
 
 ---
 
