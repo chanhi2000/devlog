@@ -1029,5 +1029,10 @@
     "desc": "A replacement for the classic TMS9918A/TMS9929A VDP, powered by a Raspberry Pi Pico",
     "officialSite": "https://hackaday.io/project/196478-pico9918",
     "topics": ["colecovision", "electronics", "nabu", "pcb", "pico", "pipico", "ti99", "ti994a", "tms9918", "tms9918-emulation", "tms9918a"]
+  }, {
+    "repo": "lexbor/lexbor",
+    "desc": "Lexbor is development of an open source HTML Renderer library. https://lexbor.com",
+    "officialSite": "",
+    "topics": ["c", "fast", "html"]
   }
 ]

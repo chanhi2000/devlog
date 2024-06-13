@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/RL4l3zAhGUq0IOuFiW1js1URQ9nBvDW2Z33_SwnM_qD2EfJ3y2ZViP_3IZ15NaTt2BXCi_j3Dg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ja68xMpabQA", "title": "DAME 01: Data Analysis Terms & the Awesome Microsoft Power Tools!" },
+    { "id": "eZO6flNP-GE", "title": "DAME 2: All MS Data Analysis Tools in 1 Video: Excel, Power Query, Power BI, Data Flow, DAX & M Code" },
+    { "id": "U8GJSjGLpLY", "title": "DAME 03: PivotTables Rule for Quick & Easy Reports! 34 Amazing PT Tricks." },
+    { "id": "HRFZOYWGhjo", "title": "DAME 05: Master Power Query M Code & Become a Data Shaping Ninja (The Secret Behind Data Analysis)" },
+    { "id": "tHDoc8g-0xo", "title": "DAME 06: DAX Fundamentals in Power BI & Power Pivot: 2.5 Hour Free Class" },
+    { "id": "agY-NQKtsU8", "title": "DAME 07: How to Make Effective Dashboard. Three Examples in Power BI" },
     { "id": "s-LnUMx6Glw", "title": "Worksheet Formulas to Group Transactions with No Transaction Number. Magic Trick 1854" },
     { "id": "ncQXMfCM62g", "title": "GROUPBY Function to Group Transactions with No Transaction Number. EMT 1855" },
     { "id": "uMnwQAyrJf4", "title": "Generate Random Data Sets with Dates & Sales Numbers: RANDARRAY Function. Excel Magic Trick 1857" },

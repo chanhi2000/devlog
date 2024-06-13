@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/rL9axs__25XMnS8Z6VCTfZw6xxaT-WfrwRUI5L5xBPnykIu6svzI2dh24VfmAqkgU8hOQQ5wMr8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QWPS6ma-dhg", "title": "Per-project extension management with Pie? | Stream Highlight" },
+    { "id": "W_09wf-JcLs", "title": "A new tool for managing PHP extensions | Stream Highlight" },
+    { "id": "CSNpmbUnN6Q", "title": "I started from scratch…" },
+    { "id": "RjjG6CBPhws", "title": "Let's talk about RFCs and do some coding" },
+    { "id": "p_6ewdiwnRo", "title": "PHP from 2014 to 2024" },
+    { "id": "_ig67BShDF4", "title": "Console Middleware, Building a Framework from Scratch" },
+    { "id": "HCKu6_5R5ic", "title": "Improving Console Components" },
+    { "id": "ffaIwGrLhiA", "title": "Going down the rabbit hole" },
     { "id": "Hf09ZCY9-8I", "title": "Building an event bus from scratch!" },
     { "id": "nmTtY6VJuh8", "title": "Some laid back, early morning coding" },
     { "id": "jgN-sT4raiI", "title": "Designing a framework can be difficult…" },

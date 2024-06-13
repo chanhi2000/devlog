@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/C_gAF421iSd-dgT0f5QXzT52XNMbqPcwyNYyketDh4zk8AYAH5N3LBynwyv_WVcB1bbYLy6Qpw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iE9Qb8dHqWI", "title": "Kubernetes RBAC Explained" },
+    { "id": "hixs2GIGrUw", "title": "How to debug Kubernetes? (Deployments, Services & Ingress)" },
+    { "id": "DJ2sa49iEKo", "title": "How to debug Kubernetes Ingress? (TLS - Cert-Manager - HTTP-01 & DNS-01 Challenges)" },
+    { "id": "aRXg75S5DWA", "title": "Create AWS VPC using Terraform: AWS EKS Kubernetes Tutorial - Part 1" },
+    { "id": "uiuoNToeMFE", "title": "Create AWS EKS Cluster using Terraform: AWS EKS Kubernetes Tutorial - Part 2" },
+    { "id": "6COvT1Zu9o0", "title": "Add IAM User & IAM Role to AWS EKS: AWS EKS Kubernetes Tutorial - Part 3" },
+    { "id": "0EWsKSdmbz0", "title": "Horizontal Pod Autoscaler (HPA) on AWS EKS: AWS EKS Kubernetes Tutorial - Part 4" },
+    { "id": "HbRyRJnBEfw", "title": "Cluster Autoscaler Tutorial (EKS Pod Identities): AWS EKS Kubernetes Tutorial - Part 5" },
+    { "id": "5XpPiORNy1o", "title": "AWS Load Balancer Controller Tutorial (TLS): AWS EKS Kubernetes Tutorial - Part 6" },
+    { "id": "xwiRjimKW9c", "title": "Nginx Ingress Controller Tutorial (Cert-Manager & TLS): AWS EKS Kubernetes Tutorial - Part 7" },
+    { "id": "zcA2fRoWlac", "title": "EKS CSI Driver Tutorial (ReadWriteOnce): AWS EKS Kubernetes Tutorial - Part 8" },
+    { "id": "Yequ94ZzN6U", "title": "EKS EFS CSI Driver Tutorial (ReadWriteMany) & OIDC: AWS EKS Kubernetes Tutorial - Part 9" },
     { "id": "fBRgw5dyBd4", "title": "Docker Networking Tutorial (Bridge - None - Host - IPvlan - Macvlan - Overlay)" },
     { "id": "-6Xc2_IOh-0", "title": "What Is a Graph Database? (Animated + Practice)" },
     { "id": "b_O501x_F68", "title": "What is a Reverse Proxy? (vs. Forward Proxy) | Proxy servers explained" },

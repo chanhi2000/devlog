@@ -600,6 +600,7 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "background": "rgba(44,98,87,0.2)"
 }
 ```
+
 <SiteInfo
   name="Notepad Tab | A simple, secure and private note taking tool"
   desc="Write down anything and have it automatically persisted in the address bar and in the browser’s history. Easily back up or share any note by simply copy and pasting the URL."
@@ -616,6 +617,27 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "background": "rgba(238,242,246,0.2)"
 }
 ```
+
+<SiteInfo
+  name="PDF to Podcast"
+  desc="Easily convert your PDF documents into audio podcasts. Perfect for listening on the go and making content more accessible."
+  url="https://pdf-to-podcast.com/"
+  logo="https://pdf-to-podcast.com/static/icon.png"
+  preview="https://pdf-to-podcast.com/static/logo.png"/>
+
+<SiteInfo
+  name="Canvas Engines Comparison"
+  desc="Render multiple moving rectangles to compare a number of canvas engines."
+  url="https://benchmarks.slaylines.io/"
+  logo="https://benchmarks.slaylines.io/favicon.120be0f8.ico"
+  preview="https://benchmarks.slaylines.io/up_/assets/cover.png"/>
+
+<SiteInfo
+  name="typing.works"
+  desc="온라인 타이핑 문학필사 Transcribing as Ritual"
+  url="https://typing.works/"
+  logo="https://typing.works/favicon.ico"
+  preview="https://typing.works/images/ogimage.png"/>
 
 <!-- @end Cool Project -->
 

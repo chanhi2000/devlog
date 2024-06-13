@@ -524,5 +524,10 @@
     "desc": "Powerful menu bar manager for macOS",
     "officialSite": "https://icemenubar.app",
     "topics": ["macos", "macos-app", "menu-bar", "menubar", "status-bar", "statusbar", "swift", "swiftui", "utility"]
+  }, {
+    "repo": "apple/swift-testing",
+    "desc": "A modern, expressive testing package for Swift",
+    "officialSite": "",
+    "topics": ["software-quality", "swift", "swift-macros", "testing", "unit-testing"]
   }
 ]

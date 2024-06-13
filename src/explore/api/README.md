@@ -271,6 +271,15 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://openrouter.ai/favicon.ico"
   preview="https://openrouter.ai/dynamic-og?pathname=default&title=OpenRouter&description=LLM%20router%20and%20marketplace"/>
 
+```component VPCard
+{
+  "title": "Wasmphobia",
+  "desc": "Wasmphobia analyzes a WebAssembly file and gives you a breakdown of what contributed to the module’s size. This is only really useful when the WebAssembly binary has DWARF debugging data embedded.",
+  "link": "https://wasmphobia.surma.technology/",
+  "background": "rgba(13,17,23,0.2)"
+}
+```
+
 <!-- @end Programming Tools - General -->
 
 @tab Design & Image
@@ -944,6 +953,15 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   desc="Classic Console Neue TrueType Font ASCII 8x16 DOS Command Line Font"
   url="https://webdraft.hu/fonts/classic-console/"
   preview="http://webdraft.eu/fonts/classic-console/sample-pictures/og-image.png"/>
+
+```component VPCard
+{
+  "title": "CSS Stats",
+  "desc": "Potentially interesting stats on stylesheets",
+  "link": "https://cssstats.com/",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
 
 <!-- @end Design & Image -->
 
@@ -1839,6 +1857,13 @@ https://mdis.kostat.go.kr/index.do
   "background": "rgba(249,210,210,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Create SoundWave"
+  desc="Design and download stunning audio visualizations"
+  url="https://abhay.fun/soundwave"
+  logo="https://abhay.fun/favicon.ico"
+  preview="https://abhay.fun/ogImage/SoundWave.png"/>
 
 :::
 

@@ -139,7 +139,6 @@ head:
 <MyYouTubeItems jsonName="yu-AnsonAlexander" /><!-- Anson Alexander -->
 <MyYouTubeItems jsonName="yu-LiamOttley" /><!-- Liam Ottley -->
 <MyYouTubeItems jsonName="yu-TiagoForte" /><!-- Tiago Forte -->
-<MyYouTubeItems jsonName="yu-fitcevents" /><!-- fitcevents -->
 <MyYouTubeItems jsonName="yu-Lbdyro" /><!-- Seongsik Kim -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
 <MyYouTubeItems jsonName="yu-drawandrew" /><!-- 드로우앤드류 -->

@@ -281,7 +281,7 @@
     "topics": ["architecture", "clean-architecture", "clean-code", "cqrs", "ddd", "ddd-architecture", "ddd-cqrs", "ddd-example", "design-patterns", "design-systems", "domain-driven-design", "dotnet", "dotnetcore", "entity-framework-core", "event-sourcing", "modularity", "monolith", "rest", "rest-api", "software-architecture"]
   }, {
     "repo": "AvaloniaUI/Avalonia",
-    "desc": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.",
+    "desc": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
     "officialSite": "https://avaloniaui.net",
     "topics": ["android", "app-framework", "avalonia", "avaloniaui", "browser", "c-sharp", "cross-platform", "csharp", "desktop", "dotnet", "gui", "ios", "linux", "macos", "mobile", "mvvm", "wasm", "windows", "xamarin", "xaml"]
   }, {

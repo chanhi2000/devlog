@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "R_4dNGWCxk4", "title": "Part 12. 제어문I (조건문과 선택문) [디딤돌 C언어]" },
+    { "id": "KECzHGcyYEc", "title": "Part 13.  제어문II (반복문, 별출력) [디딤돌 C언어]" },
+    { "id": "CX2H7xyDdcA", "title": "Part 14.  배열과 포인터 그리고 산술 연산 [디딤돌 C언어]" },
+    { "id": "wP3KetOR2sk", "title": "Part 15. 배열과 포인터 사용은 인덱스와 간접 연산자 [디딤돌  C언어]" },
+    { "id": "p6ta6WQrK_Q", "title": "Part 22. 사용자 정의 형식 실습 - 구조체, 공용체 [디딤돌 C언어]" },
+    { "id": "S7oB5On7Udk", "title": "Part 23.  동적 메모리 할당 함수와 실습 [디딤돌 C언어]" },
+    { "id": "yc29CMlgpNA", "title": "Part 29. 도서 관리 프로그램 I   시나리오 및 요구 분석 후 메뉴 선택 구현 [디딤돌 C언어]" },
+    { "id": "Il2mqcSou4g", "title": "Part 30. 도서 관리 프로그램 II   형식 정의 및 장르 추가, 전체 장르보기 기능 구현 [디딤돌 C언어]" },
+    { "id": "lYeWnvAqMvU", "title": "Part 31. 도서 관리 프로그램 III -  도서 추가, 장르 내 도서 목록, 전체 보기, 번호로 도서 검색, 제목으로 도서 검색, 장르 삭제 [디딤돌 C언어]" },
+    { "id": "jMXrBGYqzMI", "title": "Part 32. 도서 관리 프로그램 Final.  저장 및 로드 [디딤돌 C언어]" },
     { "id": "JaO-9U4CBXE", "title": "Part1.  C언어 소개 [디딤돌 C언어]" },
     { "id": "kNIh6H809s8", "title": "Part 2.  첫 번째 프로그램 Hello, World [디딤돌 C언어]" },
     { "id": "jM6x-EvNhjY", "title": "\"C언어 입문용\" Part 3. 형식과 메모리 크기, 진수 표현 [디딤돌 C언어]" },

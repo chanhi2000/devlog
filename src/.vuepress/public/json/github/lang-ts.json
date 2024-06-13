@@ -3038,5 +3038,10 @@
     "desc": "Effortless backends ✨",
     "officialSite": "https://manifest.build",
     "topics": ["admin-panel", "api", "baas", "backend-as-a-servise", "manifest", "rest-api", "sdk-js", "yaml"]
+  }, {
+    "repo": "webpro-nl/knip",
+    "desc": "✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!",
+    "officialSite": "https://knip.dev",
+    "topics": ["dependencies-checking", "dependency-analysis", "elimination", "lint", "maintenance", "typescript", "unused-code", "unused-exports", "unused-imports"]
   }
 ]

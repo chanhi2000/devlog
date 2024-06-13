@@ -168,6 +168,7 @@ head:
 
 - [`@broccolism` / 안전장치를 위한 안전장치를 위한 안전장치 - 6장. 광고 클릭 이벤트 집계](https://velog.io/@broccolism/%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98-6%EC%9E%A5.-%EA%B4%91%EA%B3%A0-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A7%91%EA%B3%84)
 - [`@qkrtkdwns3410` / [가상면접으로 배우는 대규모 시스템 설계] 1장. 단일 서버 시스템 설계(1)](https://velog.io/@qkrtkdwns3410/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-1%EC%9E%A5.-%EB%8B%A8%EC%9D%BC-%EC%84%9C%EB%B2%84-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%841)
+- [`@sehyunny` / (번역) 예상치 못한 접근성 팁 소개](https://velog.io/@sehyunny/unexpected-a11y-tips)
 
 ---
 

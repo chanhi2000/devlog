@@ -976,6 +976,7 @@ export const sidebarEn = sidebar({
             asb.yozm("go"),
             asb.popit("go"),
             asb.d2("go"),
+            asb.gmarket("go"),
           ]
         }
       ]
@@ -2054,6 +2055,7 @@ export const sidebarEn = sidebar({
             asb.digitalocean("k8s"),
             asb.yozm("k8s"),
             asb.d2("k8s"),
+            asb.gmarket("k8s"),
           ]
         }
       ]

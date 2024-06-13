@@ -1514,5 +1514,10 @@
     "desc": "LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.",
     "officialSite": "",
     "topics": ["ai", "auto-completion", "developer-tools", "ide", "language-client", "llama", "llamacpp", "llm", "lsp", "mistral", "openai", "self-hosted"]
+  }, {
+    "repo": "ryanccn/nrr",
+    "desc": "Minimal, blazing fast npm scripts runner",
+    "officialSite": "",
+    "topics": ["bun", "clap", "cli", "nodejs", "npm", "npm-script", "npm-scripts", "npm-scripts-runner", "pnpm", "rust", "yarn"]
   }
 ]

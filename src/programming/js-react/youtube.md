@@ -36,7 +36,6 @@ head:
 <MyYouTubeItems jsonName="yu-SonnySangha" /><!-- Sonny Sangha -->
 <MyYouTubeItems jsonName="yu-CleverProgrammer" /><!-- Clever Programmer -->
 <MyYouTubeItems jsonName="yu-CodeBoost" /><!-- Code Boost -->
-<MyYouTubeItems jsonName="yu-Codevolution" /><!-- Codevolution -->
 <MyYouTubeItems jsonName="yu-notjustdev" /><!-- notJust․dev -->
 <MyYouTubeItems jsonName="yu-SamMeechWard" /><!-- Sam Meech-Ward -->
 <MyYouTubeItems jsonName="yu-thedevenvironment" /><!-- The Dev Environment -->
@@ -98,5 +97,6 @@ head:
 <MyYouTubeItems jsonName="yu-LamaDev" /><!-- Lama Dev -->
 <MyYouTubeItems jsonName="yu-jeonghwan_kim" /><!-- 김정환 -->
 <MyYouTubeItems jsonName="yu-TonyAlicea" /><!-- Tony Alicea -->
+<MyYouTubeItems jsonName="yu-syntaxfm" /><!-- Syntax -->
 
 <TagLinks />

@@ -54,4 +54,10 @@ head:
 
 ---
 
+## Substack
+
+- [`photonlines` / An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
+
+---
+
 <TagLinks />

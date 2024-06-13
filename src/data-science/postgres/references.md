@@ -279,6 +279,7 @@ head:
 ## tembo
 
 - [Introducing `pg_timeseries`: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
+- [How to Get the Most out of Postgres Memory Settings](https://tembo.io/blog/optimizing-memory-usage)
 
 ---
 

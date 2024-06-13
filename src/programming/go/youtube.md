@@ -42,5 +42,6 @@ head:
 <MyYouTubeItems jsonName="yu-x.kernel" /><!-- xKernel -->
 <MyYouTubeItems jsonName="yu-JsKIM_0_0" /><!-- 김종상 -->
 <MyYouTubeItems jsonName="yu-gopherconau" /><!-- GopherConAU -->
+<MyYouTubeItems jsonName="yu-mikecode-ns7tq" /><!-- mike code -->
 
 <TagLinks/>

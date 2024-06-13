@@ -53,7 +53,15 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+Swift’s actors allow us to share data in multiple parts of our app *without* causing problems with concurrency, because they automatically ensure two pieces of code cannot simultaneously access the actor’s protected data.
+
+Actors are an important addition to our toolset, and help us guarantee safe access to data in concurrent environments. However, if you’ve ever wondered “should I use an actor for my SwiftUI data?”, let me answer that as clearly as I can: actors are a *really* bad choice for any data models you use with SwiftUI – anything that conforms to the `ObservableObject` protocol.
+
+SwiftUI updates its user interface on the main actor, which means when we make a class conform to `ObservableObject` we’re agreeing that all our work will happen on the main actor. As an example, any time we modify an `@Published` property that *must* happen on the main actor, otherwise we’ll be asking for changes to be made somewhere that isn’t allowed.
+
+Now think about what would happen if you tried to use a custom actor for your data. Not only would any data writes need to happen on that actor rather than the main actor (thus forcing the UI to update away from the main actor), but any data *reads* would need to happen there too – every time you tried to bind a string to a `TextField`, for example, you’d be asking Swift to simultaneously use the main actor and your custom actor, which doesn’t make sense.
+
+The correct solution here is to use a class that conforms to `ObservableObject`, then annotate it with `@MainActor` to ensure it does any UI work safely. If you still find that you need to be able to carve off some async work safely, you can create a sibling actor – a separate actor that does not use `@MainActor`, but does not directly update the UI.
 
 ::: details Similar solutions…
 

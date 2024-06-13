@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/uLOTY6G4KBKAyqaF33pRe7uzAB-C-l-JhMD9E1mtAUUfsoKzkq4D1DV2GAgvS27t8T_Ca7mLMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rdkyPCrxLmM", "title": "Wait, you CAN use braces with Python?!" },
+    { "id": "Et5lq_GijDQ", "title": "Why does THIS exist in Python??? #python #coding #programming" },
+    { "id": "PBQspYkkksU", "title": "My Visual Studio Code setup! (2024)" },
+    { "id": "-Q9rSBMKSkE", "title": "Using Redis/Redict/Valkey in Python (2024 tutorial)" },
+    { "id": "lnYaLqaZsiw", "title": "Python is Awesome - Series 1" },
+    { "id": "5ueUp9hHC_M", "title": "HYBRID callables in Python?! - Jankfest" },
+    { "id": "GyGTFknH1Nw", "title": "Python is Awesome - Series 2" },
+    { "id": "B_cAyrU1Jw0", "title": "Python has BIOMETRIC support?!" },
+    { "id": "fFu_PMqrmx4", "title": "You NEED to know THIS logging trick #python #coding #howto" },
+    { "id": "U90d4mWE4Hc", "title": "Implementing OAuth 2.0 from SCRATCH" },
+    { "id": "cG451ZXWYC4", "title": "SIMPLIFY your code with decorators (+ typing)" },
+    { "id": "w67gx2JdTYg", "title": "Partial functions in Python are SUPER NEAT" },
     { "id": "WSso4Fs3SGE", "title": "THIS Python change makes code so much CLEANER #python #coding #programming" },
     { "id": "sr6nEoVFnzI", "title": "Staging and committing changes - Git Good" },
     { "id": "_PepK611WoM", "title": "5 MORE EASY Python optimisations" },

@@ -41,7 +41,6 @@ tag:
 <MyYouTubeItems jsonName="yu-IBMTechnology" /><!-- IBM Technology -->
 <MyYouTubeItems jsonName="yu-DockerInc" /><!-- Docker -->
 <MyYouTubeItems jsonName="yu-MongoDB" /><!-- MongoDB -->
-<MyYouTubeItems jsonName="yu-Redisinc" /><!-- Redis -->
 <MyYouTubeItems jsonName="yu-strvcom" /><!-- STRV -->
 <MyYouTubeItems jsonName="yu-EsriEvents" /><!-- Esri Events -->
 <MyYouTubeItems jsonName="yu-esri_arcgis" /><!-- ArcGIS -->

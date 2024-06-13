@@ -5524,5 +5524,10 @@
     "desc": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
     "officialSite": "https://openai.com/blog/better-language-models/",
     "topics": ["paper"]
+  }, {
+    "repo": "apple/axlearn",
+    "desc": "An Extensible Deep Learning Library",
+    "officialSite": "",
+    "topics": ["deep-learning", "jax"]
   }
 ]

@@ -632,6 +632,13 @@ https://www.joinc.co.kr/w/Site
   logo="https://docs.github.com/assets/cb-345/images/site/favicon.png"
   preview="https://github.githubassets.com/images/modules/open_graph/github-logo.png"/>
 
+<SiteInfo
+  name="Regex Learn - Step by step, from zero to advanced."
+  desc="Learn Regex interactively, practice at your level, test and share your own Regex."
+  url="https://regexlearn.com/en"
+  logo="https://regexlearn.com/favicon.svg"
+  preview="https://regexlearn.com//images/og-regexlearn-image.jpg"/>
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet

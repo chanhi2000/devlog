@@ -298,6 +298,7 @@ tag:
 ## Bram.us
 
 - [The Future of CSS: Easy Light-Dark Mode Color Switching with `light-dark()`](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark)
+- [Misconceptions about CSS Specificity](https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/)
 
 ---
 

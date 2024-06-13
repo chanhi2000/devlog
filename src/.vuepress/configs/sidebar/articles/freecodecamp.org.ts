@@ -25,6 +25,7 @@ export const template: SidebarInfoTemplate = {
       "javascript-class-handbook", // 2024-05-20
       "js-interview-prep-handbook", // 2024-05-22
       "how-to-manipulate-strings-in-javascript", // 2024-05-24
+      "javascript-prototypal-inheritance", // 2024-05-31
       "the-javascript-this-keyword-explained-with-examples", // 2024-06-05
       "weakmap-and-weakset-in-javascript", // 2024-06-07
     ]],[
@@ -34,7 +35,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-a-rest-api-without-a-server", // 2024-05-20
       "a-guide-to-the-node-js-event-loop", // 2024-05-28
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024-05-28
-      "javascript-prototypal-inheritance", // 2024-05-31
+      "learn-threejs-by-building-five-projects", // 2024-06-12
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -88,6 +89,7 @@ export const template: SidebarInfoTemplate = {
       "unit-testing-in-python", // 2024-06-10
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
       "learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence", // 2024-06-11
+      "retrieval-augmented-generation-rag-handbook", // 2024-06-11
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -170,9 +172,11 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "system-design", [
       "minimum-viable-product-between-an-idea-and-the-product", // 2024-05-24
+      "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
+      "retrieval-augmented-generation-rag-handbook", // 2024-06-11
     ]],[
     "math", [
       "linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai", // 2024-05-28
@@ -270,6 +274,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
       "learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence", // 2024-06-11
       "learn-high-level-system-design-by-building-a-youtube-clone", // 2024-06-11
+      "retrieval-augmented-generation-rag-handbook", // 2024-06-11
+      "learn-threejs-by-building-five-projects", // 2024-06-12
+      "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
     ]],
   ]),
 }

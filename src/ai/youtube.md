@@ -34,5 +34,6 @@ head:
 <MyYouTubeItems jsonName="yu-masterbot" /><!-- 마스터봇 -->
 <MyYouTubeItems jsonName="yu-crowdworks_academy" /><!-- 크라우드 아카데미 -->
 <MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
+<MyYouTubeItems jsonName="yu-fitcevents" /><!-- fitcevents -->
 
 <TagLinks />

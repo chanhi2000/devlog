@@ -62,6 +62,7 @@ tag:
 - [`@jwlee010523` / 이중 연결 리스트(Doubly linked list)](https://velog.io/@jwlee010523/Doubly-linked-list)
 - [`@jwlee010523` / 표준 템플릿 라이브러리(STL)](https://velog.io/@jwlee010523/STL)
 - [`@jwlee010523` / 연결 리스트를 이용한 스택](https://velog.io/@jwlee010523/linked-list-stack)
+- [`@jwlee010523` / 연결 리스트로 구현한 큐](https://velog.io/@jwlee010523/linked-list-queue)
 
 ---
 
@@ -145,6 +146,7 @@ tag:
 - [\[Q&A\] CMFCListCtrl 클래스의 GetColumn 함수로 문자열을 얻고 싶습니다.](https://blog.naver.com/tipsware/223471822718?)
 - [\[Q&A\] 배열의 크기가 아닌 항목의 수를 얻으려면?](https://blog.naver.com/tipsware/223473809991)
 - [\[Q&A\] 힙 손상과 관련된 Exploit을 줄이도록 프로그램에서 처리하는 방법에 대하여](https://blog.naver.com/tipsware/223475242524)
+- [\[Q&A\] WinMain의 HINSTANCE 값에 대하여](https://blog.naver.com/tipsware/223475758883)
 
 ---
 

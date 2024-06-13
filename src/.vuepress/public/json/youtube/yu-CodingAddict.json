@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Y9qfGTBPOkz1xpp5w9GYsjEdx8dck_R9y8aDhYGnYTP7c3Xu4yK4zNOUrmMN4YGzorAwZuKnL-o=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4EDuil3uQGw", "title": "Practical Typescript" },
     { "id": "AqIxec1p7Xg", "title": "Practical Typescript 1 - Setup, Type Annotations, Arrays" },
     { "id": "YqhbVXbAY68", "title": "Practical Typescript 2 - Objects and Functions" },
     { "id": "nhYvKw-VY08", "title": "Practical Typescript 3 - Type Alias and Interface" },

@@ -18,5 +18,7 @@ tag:
 ---
 
 <MyYouTubeItems jsonName="yu-Talkitonair" /><!-- TalkIT -->
+<MyYouTubeItems jsonName="yu-Redisinc" /><!-- Redis -->
+<MyYouTubeItems jsonName="yu-anthonygg_" /><!-- Anthony GG -->
 
 <TagLinks />

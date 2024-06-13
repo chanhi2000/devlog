@@ -27,4 +27,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-seibertmedia" /><!-- SEIBERTMEDIA -->
+
 <TagLinks />

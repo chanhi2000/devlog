@@ -102,6 +102,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Viewing Patterns in Your Website Designs",
+  "desc": "While going through a website or an application, people tend to take in the information displayed differently. You may notice that sometimes a person may miss information that others wouldn't miss. This may have happened to you before, as well. This is because everyone has a particular way they process...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-viewing-patterns-in-your-website-design.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 ---
 
 ## Smashing Magazine — For Web Designers And Developers

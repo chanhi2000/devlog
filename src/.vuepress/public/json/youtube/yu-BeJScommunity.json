@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/1iaL75MFwgvbo1BmztPGuztj1gE6Dpt8_RRu_VDzhx1ljC-3l1Ru4vdK7U57mZ3DG07ZeebE0g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "T-TRYLNCRYQ", "title": "Nicolas Beaussart-Hatchuel - Codebase Conquest: How Nx Turbocharged Our React Workflow" },
+    { "id": "UdDoLty4Ho0", "title": "Atila Fassina - Fine Solid Patterns" },
+    { "id": "V0rRu7cevR0", "title": "Aurora Walberg Scharff - Enhancing Forms with React Server Components" },
+    { "id": "Slj900oLNAU", "title": "Aleksandra sikora - Typescript powered backend essentials for Frontend developers" },
+    { "id": "-Bff89trNnE", "title": "Josh W. Comeau - CSS in React Server Components" },
+    { "id": "1Xplez2KRaI", "title": "Kawtar Choubari - Partial Prerendering Hype or Innovation?" },
+    { "id": "5MZbkow5U8o", "title": "Tejas Kumar - I Wrote a Book on React—Things You Should Know" },
+    { "id": "7JRa9S4aEEI", "title": "Anthony Fu - Anthony's Roads to Open Source - The Set Theory" },
     { "id": "HlpG_uR62V8", "title": "BeJS Podcast #6: A chat with Aleksandra Sikora" },
     { "id": "Ohebxw8x7mA", "title": "A Chat with Josh Goldberg - BeJS Podcast #7" },
     { "id": "LGZHiAr2Wdo", "title": "A chat with Debbie O'Brien" },

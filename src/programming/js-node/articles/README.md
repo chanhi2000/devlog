@@ -195,6 +195,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn Three.js By Building Five Projects",
+  "desc": "Three.js is a powerful JavaScript library that simplifies the process of creating 3D graphics in the browser. We just released a video course on the freeCodeCamp.org YouTube channel that will teach you how to use Three.js by guiding you through build...",
+  "link": "/explore/articles/freecodecamp.org/learn-threejs-by-building-five-projects.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
+
 ---
 
 ## Smashing Magazine — For Web Designers And Developers

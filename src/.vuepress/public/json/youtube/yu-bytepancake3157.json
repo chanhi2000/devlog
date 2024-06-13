@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/PASChkTSjZCq2c4yL3XggAtPQDzgq2jS7ORDc8vdGABqqLE8Ge0Gw6r2Hg8YPaIqTp7xFoRwfw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dyR6Wt3Nt-I", "title": "🐳 도커와 VSCode 연결해서 사용하기!  (Get Started with Dev Containers in VS Code!)🚀" },
+    { "id": "kgX2EFzNs5s", "title": "🐳 도커 네트워크 시작 하기 !!! 🚀" },
+    { "id": "ranHajpLKpE", "title": "🐳 도커 컴포즈 (Docker Compose) 사용해보세요!! 🚀" },
+    { "id": "hpY8LkAsOfw", "title": "📦 Docker Alpine 이미지의 장점과 사용법 | 개발자를 위한 필수 지식 🚀" },
     { "id": "PnpUKpeCAEQ", "title": "🔧 필수 개발 도구: 생산성 향상을 위해 현직 개발자 도구를 소개합니다! 💻" },
     { "id": "IoaPYHGupHk", "title": "🐳 도커 마스터하기: 효율적인 도커 이미지 만들기의 궁극적인 가이드!? 💻🔨" },
     { "id": "uVUtU1pTRO0", "title": "🐳 도커 컨테이너 마스터하기: 필수 팁과 노하우! 💻 (Master Docker Containers: Essential Tips & Tricks!)" },

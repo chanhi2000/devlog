@@ -82,6 +82,7 @@ tag:
 - [DMA 조사에 나선 금감원, 검찰 그리고 현재](https://smallake.kr/?p=34055)
 - [DMA와 공매도 그리고 NSDS](https://smallake.kr/?p=34097)
 - [주식시장내에서의 개인과 외국인 고빈도 투자자.](https://smallake.kr/?p=34197)
+- [NXT와 경쟁하기 위해 KRX가 하는 일](https://smallake.kr/?p=34213)
 
 ---
 

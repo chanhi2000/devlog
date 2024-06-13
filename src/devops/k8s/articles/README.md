@@ -14,6 +14,7 @@ tag:
   - digitalocean.com
   - yozm.wishket.com
   - d2.naver.com
+  - dev.gmarket.com
   - kubernetes
   - k8s
 head:
@@ -64,6 +65,16 @@ head:
   url="https://d2.naver.com"
   logo="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/sitebanner.png"/>
+
+```component VPCard
+{
+  "title": "지마켓 기술블로그",
+  "desc": "지마켓의 기술과 경험을 공유합니다.",
+  "link": "https://dev.gmarket.com/",
+  "logo": "https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515",
+  "background": "rgba(0,192,30,0.2)"
+}
+```
 
 [[toc]]
 
@@ -222,6 +233,26 @@ head:
   "background": "rgba(54,235,127,0.2)"
 }
 ```
+
+<!-- END: d2.naver.com -->
+
+---
+
+## 지마켓 기술블로그
+
+> dev.gmarket.com
+
+```component VPCard
+{
+  "title": "쿠버네티스 오퍼레이터를 Golang으로 개발해보기",
+  "desc": "안녕하세요. 이번 포스트는 쿠버네티스 오퍼레이터를 직접 구현해 보고, 개발한 오퍼레이터를 로컬 쿠버네티스 클러스터에 적용하는 과정까지 설명드리려고 합니다.예전에 지형님이 소개했었던 쿠버네티스 오퍼레이터 적용하기를 본 독자들이 있을 겁니다. 오퍼레이터는 커스텀 리소스(Custom Resource, CR)를 사용하여 미리 구성된 리소스들(Deployment, Service 등)을 관리하는 쿠버네티스 익스텐션 리소스입니다.커스텀 리소스 정의(Custom Resource Definition, CRD)를 통해 내가 만들고 싶은 커스텀 리소스의 스펙을 정의하고 오퍼레이터를 통해 커스텀 리소스의 세부 로직들을 수행합니다.나만의 오퍼레이터를 직접 구현하기 위해 프로그래밍 언어별 SDK들이 몇 개가 있습니다. Opera...",
+  "link": "/explore/articles/dev.gmarket.com/102.md",
+  "logo": "https://tistory2.daumcdn.net/tistory/4067742/3d398eb9d6e54c5f85163614e296d515",
+  "background": "rgba(0,192,30,0.2)"
+}
+```
+
+<!-- END: dev.gmarket.com -->
 
 ---
 
