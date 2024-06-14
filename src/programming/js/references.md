@@ -50,6 +50,7 @@ head:
 - [A cartoon intro to ArrayBuffers and SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 - [Avoiding race conditions in SharedArrayBuffers with Atomics](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 - [How MDN’s autocomplete search works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search)
+- [메모리 특강](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
 
 ---
 
@@ -61,8 +62,8 @@ head:
 
 ## 토스 기술 블로그, 토스 테크
 
-- [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility)
-<!-- TODO: 작성 (/explore/articles/toss.tech/typescript-type-compatibility.md) -->
+- [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility) <!-- TODO: 작성 (/explore/articles/toss.tech/typescript-type-compatibility.md) -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
@@ -83,6 +84,12 @@ head:
 ## Smashing Magazine — For Web Designers And Developers
 
 - [How Marketing Changed OOP In JavaScript](https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/marketing-changed-oop-javascript.md) -->
+
+---
+
+## NHN Cloud Meetup - NHN 기술 블로그
+
+- [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.nhncloud.com/posts/160) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/160.md) -->
 
 ---
 
@@ -217,13 +224,15 @@ head:
 
 ## 코딩팩토리
 
-- [[JavaScript] 자바스크립트 문자열 길이(`length`) 구하는 방법](https://coding-factory.tistory.com/1054)
-- [[JavaScript] 자바스크립트 문자열 특정 문자 위치 찾기(`indexOf`, `search`)](https://coding-factory.tistory.com/1055)
-- [[JavaScript] 자바스크립트 문자열 자르기(`substring`, `substr`, `slice`)](https://coding-factory.tistory.com/1056)
-- [[JavaScript] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/1057)
-- [[JavaScript] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/1062)
-- [[JavaScript] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/1063)
-- [[JavaScript] 자바스크립트 ==과 ===의 차이에 대하여](https://coding-factory.tistory.com/1064)
+- [[JavaScript] 자바스크립트 문자열 길이(`length`) 구하는 방법](https://coding-factory.tistory.com/m/1054)
+- [[JavaScript] 자바스크립트 문자열 특정 문자 위치 찾기(`indexOf`, `search`)](https://coding-factory.tistory.com/m/1055)
+- [[JavaScript] 자바스크립트 문자열 자르기(`substring`, `substr`, `slice`)](https://coding-factory.tistory.com/m/1056)
+- [[JavaScript] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/m/1057)
+- [[JavaScript] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/m/1062)
+- [[JavaScript] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
+- [[JavaScript] 자바스크립트 ==과 ===의 차이에 대하여](https://coding-factory.tistory.com/m/1064)
+- [\[JavaScript\] 자바스크립트 문자열을 숫자로 형 변환하는 3가지 방법](https://coding-factory.tistory.com/m/1068)
+- [\[JavaScript\] 자바스크립트 문자열 채우기 (`padStart`, `padEnd`)](https://coding-factory.tistory.com/m/1067)
 
 ---
 
@@ -432,6 +441,12 @@ head:
 
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
 - [컴퓨터가 만드는 랜덤은 정말로 랜덤할까?](https://evan-moon.github.io/2019/07/14/what-is-random/)
+
+---
+
+## 사진찍는 웹 개발자의 블로그
+
+- [Javascript Nullish Coalescing Operator (`??`) 자바스크립트 연산자](https://donghoon-song.github.io/javascript/javascript-nullish-coalescing-operator-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%B0%EC%82%B0%EC%9E%90/)
 
 ---
 

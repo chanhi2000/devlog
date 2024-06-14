@@ -2349,5 +2349,10 @@
     "desc": "Color combination contrast tester",
     "officialSite": "https://colorable.jxnblk.com",
     "topics": []
+  }, {
+    "repo": "fchollet/ARC-AGI",
+    "desc": "The Abstraction and Reasoning Corpus",
+    "officialSite": "",
+    "topics": ["artificial-intelligence", "intelligence-testing", "program-synthesis", "psychometrics"]
   }
 ]

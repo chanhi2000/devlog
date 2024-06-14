@@ -1034,5 +1034,10 @@
     "desc": "Lexbor is development of an open source HTML Renderer library. https://lexbor.com",
     "officialSite": "",
     "topics": ["c", "fast", "html"]
+  }, {
+    "repo": "waynix/SPinGW",
+    "desc": "SerialPort for MinGW",
+    "officialSite": "",
+    "topics": []
   }
 ]

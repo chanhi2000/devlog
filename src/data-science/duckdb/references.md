@@ -32,4 +32,10 @@ head:
 
 ---
 
+## csvbase
+
+- [DuckDB isn't just fast](https://csvbase.com/blog/6)
+
+---
+
 <TagLinks />

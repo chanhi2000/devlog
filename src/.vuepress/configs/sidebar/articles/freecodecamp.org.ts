@@ -143,6 +143,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-install-python-on-a-mac", // 2024-05-09
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
     ]],[
+    "linux-fedora", [
+      "free-linux-crash-course-with-labs", // 2024-06-13
+    ]],[
     "aws", [
       "what-is-amazon-ec2-auto-scaling", // 2024-05-06
       "pass-the-aws-certified-solutions-architect-associate-certification", // 2024-05-23
@@ -277,6 +280,7 @@ export const template: SidebarInfoTemplate = {
       "retrieval-augmented-generation-rag-handbook", // 2024-06-11
       "learn-threejs-by-building-five-projects", // 2024-06-12
       "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
+      "free-linux-crash-course-with-labs", // 2024-06-13
     ]],
   ]),
 }

@@ -43,7 +43,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "What are tasks and task groups? | Swift Concurrency by Example",
+"title": "What are tasks and task groups? | Swift Concurrency by Example",
   "desc": "What are tasks and task groups?",
   "link": "https://hackingwithswift.com/quick-start/concurrency/what-are-tasks-and-task-groups", 
   "logo": "https://hackingwithswift.com/favicon.svg",

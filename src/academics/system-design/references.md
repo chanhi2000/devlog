@@ -35,6 +35,7 @@ head:
 
 ## Share & Discover Presentations | SlideShare
 
+- [How to build massive service for advance](https://www.slideshare.net/slideshow/how-to-build-massive-service-for-advance/124502152)
 - [우아한 모노리스](https://slideshare.net/slideshow/ss-224478403/224478403)
 
 ---
@@ -97,6 +98,7 @@ head:
 
 ## NAVER D2
 
+- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)<!-- TODO: 작성 (/explore/articles/d2.naver.com/6070967.md) -->
 - [글로벌 네트워크 에뮬레이터 prism_pacman 소개](https://d2.naver.com/helloworld/7847943) <!-- TODO: 작성 (/explore/articles/d2.naver.com/7847943.md) -->
 
 ---
@@ -161,6 +163,7 @@ head:
 - [`benx-tech-blog` / 글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
 - [`beige22` / 코드로 만드는 Design System](https://beige22.medium.com/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
 - [`guleum` / 디자인 시스템을 구성하는 방법](https://medium.com/guleum/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-beefa8214884)
+- [`vingle-tech-blog` / Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
 
 ---
 
@@ -432,6 +435,30 @@ head:
 ## BlaBlaBlah
 
 - [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
+
+---
+
+## 프로그래밍으로 예술을 꿈꾼다 - 『프로그래밍 예술가, DeKu』
+
+- [BlaBoo 앱 개발기(RN, React Native)](https://deku.posstree.com/ko/blaboo/development-journal/)
+
+---
+
+## mingrammer's note
+
+- [\[번역\] 웹 캐싱의 숨겨진 요소들](https://mingrammer.com/translation-the-hidden-components-of-web-caching/)
+
+---
+
+## 👨‍💻꿈꾸는 태태태의 공간
+
+- [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/index.html)
+
+---
+
+## ziwon.github.io
+
+- [\[번역\] 최신 네트워크 로드 밸런싱 및 프록시 소개](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
 
 ---
 

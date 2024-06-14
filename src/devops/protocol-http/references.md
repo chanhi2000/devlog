@@ -81,4 +81,16 @@ tag:
 
 ---
 
+## Outsider's Dev Story
+
+- ["HTTP/3 explained" 한국어 번역](https://blog.outsider.ne.kr/1430)
+
+---
+
+## Yun Blog
+
+- [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/https/)
+
+---
+
 <TagLinks />

@@ -111,11 +111,21 @@ tag:
 - [CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023?hl=en)
 - [Introducing the CSS anchor positioning API](https://developer.chrome.com/blog/anchor-positioning-api?hl=en)
 
+### Google for Developer
+
+- [Chrome 69 베타: AV1 동영상 디코더, CSS 트릭](https://developers-kr.googleblog.com/2018/09/chrome-69-beta-av1-video-decoder-css.html)
+
 ---
 
 ## TOAST UI :: Make Your Web Delicious!
 
 - [CSS 변수 합성의 강력함](https://ui.toast.com/weekly-pick/ko_20210402) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20210402.md) -->
+
+---
+
+## Naver D2
+
+- [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726) <!-- TODO: 작성 (/explore/articles/d2.naver.com/4969726.md) -->
 
 ---
 

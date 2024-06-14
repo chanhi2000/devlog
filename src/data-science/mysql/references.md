@@ -222,4 +222,10 @@ head:
 
 ---
 
+## Louis.Kim 의 제 3막
+
+- [\[Aurora mysql v3\] innodb_flush_log_at_trx_commit check](https://hyunki1019.tistory.com/m/188)
+
+---
+
 <TagLinks />

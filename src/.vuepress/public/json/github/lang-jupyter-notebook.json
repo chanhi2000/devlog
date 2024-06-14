@@ -639,5 +639,10 @@
     "desc": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. ",
     "officialSite": "https://sagemaker-examples.readthedocs.io",
     "topics": ["aws", "data-science", "deep-learning", "examples", "inference", "jupyter-notebook", "machine-learning", "mlops", "reinforcement-learning", "sagemaker", "training"]
+  }, {
+    "repo": "goldmansachs/gs-quant",
+    "desc": "Python toolkit for quantitative finance",
+    "officialSite": "https://developer.gs.com/discover/products/gs-quant/",
+    "topics": ["derivatives", "goldman-sachs", "gs-quant", "risk-management", "trading-strategies"]
   }
 ]

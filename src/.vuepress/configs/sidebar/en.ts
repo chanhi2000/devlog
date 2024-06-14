@@ -1929,7 +1929,15 @@ export const sidebarEn = sidebar({
         }, 
         '/devops/linux-fedora/references.md',
         '/devops/linux-fedora/youtube.md',
-        
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/linux-fedora/articles/README.md',
+            asb.freecodecamp("linux-fedora"),
+          ]
+        },
       ]
     }, {
       text: 'Linux - NixOS',
@@ -2255,7 +2263,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Travis CI',
       collapsible: true,
-      icon: 'iconfont icon-travisci',
+      icon: 'iconfont icon-travis-ci',
       children: [
         '/devops/travis-ci/README.md',
         '/devops/travis-ci/snippets.md',
@@ -2716,6 +2724,23 @@ export const sidebarEn = sidebar({
             '/data-science/spark/articles/README.md',
             asb.d2("spark"),
             asb.popit("spark"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Splunk',
+      collapsible: true,
+      icon: 'iconfont icon-splunk',
+      children: [
+        '/data-science/splunk/README.md',
+        '/data-science/splunk/references.md',
+        '/data-science/splunk/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/splunk/articles/README.md',
           ]
         }
       ]

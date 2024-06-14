@@ -33,6 +33,7 @@ remote: Please see https://docs.github.com/en/get-started/getting-started-with-g
 - 💊[\[Mac\] GitHub push token 오류 해결](https://hyeo-noo.tistory.com/184)
 
 ---
+
 ## 💀Push 오류
 
 ```
@@ -72,10 +73,59 @@ insert the following line into it:
 ```json
 git.terminalAuthentication: false,
 ```
+
+### 비밀정보
+
+```sh
+git push origin main
+# 
+# remote: error: GH013: Repository rule violations found for refs/heads/main.
+# remote:
+# remote: - GITHUB PUSH PROTECTION
+# remote:   ?붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴 붴붴붴붴?[K
+# K
+# remote:     Resolve the following violations before pushing again
+# remote:
+# remote:     - Push cannot contain secrets
+# remote:
+# remote:
+# remote:      (?) Learn how to resolve a blocked push
+# remote:      https://docs.github.com/code-security/secret-scanning/pushing-a-branch-blocked-by-push-protection
+# remote:
+# remote:      (?) This repository does not have Secret Scanning enabled, but is eligible. Enable Secret Scanning to view and manage detected secrets.
+# remote:      Visit the repository settings page, https://github.com/chanhi2000/crashcourse/settings/security_analysis
+# remote:
+# remote:
+# remote:       ?붴?Amazon AWS Access Key ID ?붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴?[K
+# 
+# remote:        locations:
+# remote:          - commit: 5c1fe713d2d2b5eaa0f7936db177f7041c2ef07f
+# remote:            path: src/aws/art-of-aws/23C.md:158
+# remote:
+# remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.
+# remote:        https://github.com/chanhi2000/crashcourse/security/secret-scanning/unblock-secret/2hopD8O4gJm6s8gxDT8rA4Ch6MU
+# remote:
+# remote:
+# remote:       ?붴?Amazon AWS Secret Access Key ?붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴붴?[K
+# 
+# remote:        locations:
+# remote:          - commit: 5c1fe713d2d2b5eaa0f7936db177f7041c2ef07f
+# remote:            path: src/aws/art-of-aws/23C.md:159
+# remote:
+# remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.
+# remote:        https://github.com/chanhi2000/crashcourse/security/secret-scanning/unblock-secret/2hopD9dOwSBkDubY7SigY3iNqnf
+# remote:
+# remote:
+# remote:
+# To https://github.com/.../...
+#  ! [remote rejected]     main -> main (push declined due to repository rule violations)
+# 
+```
+
 :::
 
-
 ---
+
 ## 💀저장소 접근오류
 
 ```sh

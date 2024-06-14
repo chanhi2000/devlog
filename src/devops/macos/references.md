@@ -189,6 +189,7 @@ head:
 
 - [`say` 명령어: macOS에서 음성으로 문자열을 읽게 한다](https://johngrib.github.io/wiki/cmd/say/)
 - [거실의 낡은 맥북에서 서재의 맥미니로 `ssh`로 접속하기](https://johngrib.github.io/wiki/article/ssh-macmini-macbook/)
+- [맥북 설정하기](https://johngrib.github.io/wiki/mac/setting/)
 
 ---
 

@@ -323,7 +323,14 @@ tag:
 
 ## 보안뉴스
 
-- [방화벽 설정 시 가장 많이 저지르는 실수 다섯 가지](https://boannews.com/media/view.asp?idx=81891)
+- [2018년, 해커들이 가장 많이 사용했던 취약점은 무엇일까?](https://m.boannews.com/html/detail.html?idx=76291)
+- [방화벽 설정 시 가장 많이 저지르는 실수 다섯 가지](https://m.boannews.com/html/detail.html?idx=81891)
+
+---
+
+## mr.d0x
+
+- [Progressive Web Apps (PWAs) Phishing](https://mrd0x.com/progressive-web-apps-pwa-phishing/)
 
 ---
 

@@ -3043,5 +3043,15 @@
     "desc": "✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!",
     "officialSite": "https://knip.dev",
     "topics": ["dependencies-checking", "dependency-analysis", "elimination", "lint", "maintenance", "typescript", "unused-code", "unused-exports", "unused-imports"]
+  }, {
+    "repo": "ask-fini/paramount",
+    "desc": "Agent accuracy measurements for LLMs",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "toss/es-toolkit",
+    "desc": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+    "officialSite": "https://es-toolkit.slash.page",
+    "topics": []
   }
 ]

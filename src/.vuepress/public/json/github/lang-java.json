@@ -679,5 +679,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "datastrato/gravitino",
+    "desc": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+    "officialSite": "https://datastrato.ai/docs/",
+    "topics": ["ai-catalog", "data-catalog", "datalake", "federated-query", "lakehouse", "metadata", "metalake", "model-catalog", "opendatacatalog", "skycomputing", "stratosphere"]
   }
 ]

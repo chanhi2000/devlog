@@ -639,6 +639,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://typing.works/favicon.ico"
   preview="https://typing.works/images/ogimage.png"/>
 
+<SiteInfo
+  name="한글라이즈: PVBLIVS AELIVS HADRIANVS"
+  desc="한글라이즈는 외래어 표기법을 바탕으로 외국어 단어를 한글로 전사하는 도구입니다. 한글 표기가 알려지지 않은 외국의 인명이나 지명을 한글로 옮겨적는 데에 활용해보세요."
+  url="https://hangulize.org/"
+  logo="https://hangulize.org/social.png"
+  preview="https://hangulize.org/icons/apple-touch-icon.png"/>
+
 <!-- @end Cool Project -->
 
 @tab Portfolio / Resume

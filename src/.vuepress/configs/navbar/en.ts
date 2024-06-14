@@ -270,7 +270,10 @@ export const navbarEn = navbar([
       }, {
         text: 'Atlassian',
         icon: 'fa-brands fa-atlassian',
-        link: '/devops/jira/README.md',
+        children: [
+          '/devops/jira/README.md',
+          '/devops/confluence/README.md',
+        ],
       }, {
         text: 'macOS',
         icon: 'iconfont icon-macos',
@@ -509,6 +512,10 @@ export const navbarEn = navbar([
         text: 'Spark',
         icon: 'iconfont icon-apachespark',
         link: '/data-science/spark/README.md',
+      }, {
+        text: 'Splunk',
+        icon: 'iconfont icon-splunk',
+        link: '/data-science/splunk/README.md',
       }, 
     ]
   }, {

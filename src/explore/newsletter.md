@@ -1146,6 +1146,20 @@ https://paperlined.org/
 }
 ```
 
+<SiteInfo
+  name="Spoqa 기술 블로그"
+  desc="스포카 크리에이터의 경험과 배움을 공유합니다."
+  url="https://spoqa.github.io/"
+  logo="https://spoqa.github.io/images/og-logo.png"
+  preview="https://spoqa.github.io/images/twitter-card.png"/>
+
+<SiteInfo
+  name="Tech Blog - 오픈소스컨설팅 테크블로그"
+  desc="오픈소스컨설팅은 오픈소스 기반의 가치 있는 서비스를 제공하고, 기술을 공유함으로써 고객과 함께 성장하고자 합니다. 오픈소스컨설팅은 가상화, 클라우드 컨설팅, DevOps, MSA, 컨테이너 아키텍처 등 최신 오픈소스 기술에 대해 전문성을 갖고 있으며, 기술을 공유함으로써 고객과 함께 성장하는 것이 우리가 나아가고자 하는 방향입니다. 오픈소스·클라우드 관련 기술을 전파하고 데브옵스·애자일과 같은 개발 문화를 직접 체험할 수 있는 마이그레이션센터 ‘열린기술공방’을 런칭함으로써 지속적으로 사업 영역을 확장해 나가고 있습니다."
+  url="https://tech.osci.kr"
+  logo="https://tech.osci.kr/wp-content/uploads/2022/02/cropped-Favicon-192x192.png"
+  preview="https://tech.osci.kr/wp-content/uploads/2023/06/thumb___-300x152.png"/>
+
 <!-- @end Tech Blog (Korea) -->
 
 @tab App(s)

@@ -62,6 +62,12 @@ tag:
 
 ---
 
+## Blog - LINE ENGINEERING
+
+- [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/effective-codereview.md) -->
+
+---
+
 ## To-Go
 
 - [heding](https://www.heding.co.kr): 더라이징스타헤딩
@@ -455,6 +461,7 @@ tag:
 ## K리그 프로그래머
 
 - [1인 개발자로 행복하게 살기 (송도 헬로월드 2024 발표)](https://jeho.page/essay/2024/04/01/songdo.html)
+- [앱 개발 의뢰 시장](https://jeho.page/essay/2024/06/12/building-an-app.html)
 
 ---
 
@@ -599,7 +606,6 @@ tag:
 
 ---
 
-
 ## 💻 준성 개발 일지
 
 - [[자격증] [정보처리기사] 정보처리기사 필기](https://dev-wnstjd.tistory.com/525)
@@ -611,7 +617,7 @@ tag:
 
 - [바야흐로 1인개발자시대에 따른 아키텍처 분석](https://blog.naver.com/jhc9639/223421615148)
 - [도전! K 스타트업 2024 혁신 창업리그 대회 요약 및 정리](https://blog.naver.com/jhc9639/223426056751)
-- [특허권, 기술지원에 특화된 IP나래 프로그램 정리 ](https://blog.naver.com/jhc9639/223468454493)
+- [특허권, 기술지원에 특화된 IP나래 프로그램 정리](https://blog.naver.com/jhc9639/223468454493)
 - [예창패, 청창사, 초창패 합격한 썰 및 정부지원사업 팁](https://blog.naver.com/jhc9639/223426111370)
 
 ---
@@ -1064,6 +1070,12 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 ## The Last Mind
 
 - [보이지 않는 효율성](https://blog.lastmind.io/archives/1032)
+
+---
+
+## Spoqa 기술 블로그
+
+- [사기 높은 팀을 만드는 해피아워](https://spoqa.github.io/2018/10/16/happyhour.html) <!-- TODO: 작성 (/explore/articles/spoqa.github.io/happyhour.md) -->
 
 ---
 

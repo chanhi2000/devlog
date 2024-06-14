@@ -963,6 +963,23 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Eva Icons - beautifully crafted Open Source UI icons for common actions and items.",
+  "desc": "Eva Icons is a pack of 480 delightful icons available for free. Download Eva Icons to use them in your products for mobile and web apps. Available as SVG, PNG, Web Font and Sketch. Open Source, built by the Nebular team.",
+  "link": "https://akveo.github.io/eva-icons/",
+  "logo": "https://akveo.github.io/eva-icons/favicon.ico",
+  "background": "rgba(51,102,255,0.2)"
+}
+```
+
+<SiteInfo
+  name="HTML Symbols, Entities, Characters and Codes — HTML Arrows"
+  desc="Easily find HTML symbols, entities, characters and codes with ASCII, HEX, CSS and Unicode values for HTML arrow, ASCII arrow, and more in grid or table format."
+  url="https://www.toptal.com/designers/htmlarrows/"
+  logo="https://www.toptal.com/designers/htmlarrows/assets/images/favicon.ico"
+  preview="https://www.toptal.com/designers/htmlarrows/assets/images/htmlarrows-hero-29eb905f.jpg"/>
+
 <!-- @end Design & Image -->
 
 @tab Geospatial

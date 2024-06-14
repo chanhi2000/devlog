@@ -91,6 +91,12 @@ tag:
 
 ---
 
+## Naver D2
+
+- [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859) <!-- TODO: 작성 (/explore/articles/d2.naver.com/2351859.md) -->
+
+---
+
 ## DZone
 
 - [Interactive Data Visualization in Ionic 5](https://dzone.com/articles/interactive-data-visualization-in-ionic-5)
@@ -1128,6 +1134,12 @@ tag:
 ## Teveloper 개발 & 테니스 이야기
 
 - [Micro Frontend를 위한 Module Federation](https://teveloper.tistory.com/m/80)
+
+---
+
+## DailyEngineering
+
+- [타입스크립트, 써야할까?](https://hyunseob.github.io/2018/08/12/do-you-need-to-use-ts/)
 
 ---
 

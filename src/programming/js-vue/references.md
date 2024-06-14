@@ -141,4 +141,10 @@ head:
 
 ---
 
+## 공부하는 블로그
+
+- [Vue로 데스크탑 응용 프로그램 만들기 : Vuido](https://devtimothy.tistory.com/m/91)
+
+---
+
 <TagLinks />

@@ -48,6 +48,7 @@ tag:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
+- [kubernetes를 이용한 서비스 무중단 배포](https://tech.kakao.com/posts/360) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/360.md) -->
 - [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성](https://tech.kakao.com/posts/406) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/406.md) -->
 - [실용주의 데브옵스 for MSA](https://tech.kakao.com/posts/449) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/449.md) -->
 - [쿠버네티스에 레디스 캐시 클러스터 구축기](https://tech.kakao.com/posts/491) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/491.md -->
@@ -323,6 +324,7 @@ tag:
 
 ## Share & Discover Presentations | SlideShare
 
+- [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/slideshow/kubernetes-prometheus-monitoring/118250853)
 - [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/slideshow/gitops-cicd-156402754/156402754)
 
 ---
@@ -332,5 +334,10 @@ tag:
 - [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
 
 ---
+
+## 조대협의 블로그
+
+- [Istio #1 - 마이크로 서비스와 서비스 매쉬](https://bcho.tistory.com/m/1293)
+
 
 <TagLinks />

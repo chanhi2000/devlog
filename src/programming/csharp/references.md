@@ -292,6 +292,7 @@ tag:
 ## Steven Giesel
 
 - [Lock statement patterns](https://steven-giesel.com/blogPost/4cf6d48a-ec9d-4c68-961c-31fd8d8c1340)
+- [Does readonly make your code faster?](https://steven-giesel.com/blogPost/50b84029-4f1e-4e6d-8fd1-0311b0605562)
 
 ---
 
@@ -391,15 +392,16 @@ tag:
 
 ---
 
-## Steven Giesel
-
-- [Does readonly make your code faster?](https://steven-giesel.com/blogPost/50b84029-4f1e-4e6d-8fd1-0311b0605562)
-
----
-
 ## Chris Pietschmann
 
 - [C#: How to iterate over a dictionary?](https://www.pietschsoft.com/post/2024/04/20/csharp-iterate-over-dictionary)
 
+---
+
+## 김정선의 Data 이야기
+
+- [.NET ENTITY FRAMEWORK CORE 효율적인 쿼리 사용(발표영상)](https://visualdb.net/2024/06/12/net-entity-framework-core/)
+
+---
 
 <TagLinks />

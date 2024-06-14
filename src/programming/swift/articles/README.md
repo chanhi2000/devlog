@@ -94,7 +94,7 @@ head:
 {
   "title": "SwiftUI by Example",
   "desc": "Article(s) > SwiftUI by Example",
-  "link": "/explore/articles/hackingwithswift.com/swiftui-by-example/README.md",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
    "background": "rgba(174,10,10,0.2)"
 }

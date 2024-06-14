@@ -124,6 +124,12 @@ head:
 
 ---
 
+## Naver D2
+
+- [React와 Apollo, Parcel 기반 서비스 개발](https://d2.naver.com/helloworld/2838729) <!-- TODO: 작성 (/explore/articles/d2.naver.com/2838729.md) -->
+
+---
+
 ## LogRocket
 
 - [main](https://blog.logrocket.com)

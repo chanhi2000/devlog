@@ -44,8 +44,9 @@ head:
 
 - [테스트 도중 에러 발생](https://www.inflearn.com/questions/15495/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%A4%91-%EC%97%90%EB%9F%AC-%EB%B0%9C%EC%83%9D)
 
-### ZUM
+### ZUM 기술 블로그
 
+- [SPRING CLOUD STREAM, MQ 도입 사례 - 1](https://zuminternet.github.io/spring_cloud_stream_rabbitmq_01/) <!-- TODO: 작성 (/explore/articles/zuminternet.github.io/spring-cloud-stream-rabbitmq-01.md) -->
 - [Redirect 서버 리팩토링 - 파일럿 프로젝트](https://zuminternet.github.io/redirect-refactoring/) <!-- TODO: 작성 (/explore/articles/zuminternet.github.io/redirect-refactoring.md) -->
 
 ### Blog - LINE ENGINEERING
@@ -309,9 +310,10 @@ head:
 
 ### 생계형 개발자 연서은
 
-- [스프링 부트 하루만에 배우기](https://ysedeveloper.tistory.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
-- [0. 들어가며](https://ysedeveloper.tistory.com/entry/0-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0-1)
-- [01. 책 관리 프로젝트 개요](https://ysedeveloper.tistory.com/entry/01-%EC%B1%85-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+- [스프링 부트 하루만에 배우기](https://ysedeveloper.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
+- [0. 들어가며](https://ysedeveloper.tistory.com/m/entry/0-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0-1)
+- [01. 책 관리 프로젝트 개요](https://ysedeveloper.tistory.com/m/entry/01-%EC%B1%85-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+- [2.1. OpenJDK 다운로드 및 설치](https://ysedeveloper.tistory.com/m/entry/21-OpenJDK-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98)
 
 ### Suhwan Jee's blog
 

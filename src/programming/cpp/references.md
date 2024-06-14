@@ -63,6 +63,7 @@ tag:
 - [`@jwlee010523` / 표준 템플릿 라이브러리(STL)](https://velog.io/@jwlee010523/STL)
 - [`@jwlee010523` / 연결 리스트를 이용한 스택](https://velog.io/@jwlee010523/linked-list-stack)
 - [`@jwlee010523` / 연결 리스트로 구현한 큐](https://velog.io/@jwlee010523/linked-list-queue)
+- [`@jwlee010523` / 트리(Tree)](https://velog.io/@jwlee010523/tree)
 
 ---
 
@@ -147,6 +148,7 @@ tag:
 - [\[Q&A\] 배열의 크기가 아닌 항목의 수를 얻으려면?](https://blog.naver.com/tipsware/223473809991)
 - [\[Q&A\] 힙 손상과 관련된 Exploit을 줄이도록 프로그램에서 처리하는 방법에 대하여](https://blog.naver.com/tipsware/223475242524)
 - [\[Q&A\] WinMain의 HINSTANCE 값에 대하여](https://blog.naver.com/tipsware/223475758883)
+- [\[Q&A\] Memory DC를 사용하는 코드는 늘 이렇게 사용해야 하나요?](https://blog.naver.com/tipsware/223477702719?)
 
 ---
 
@@ -248,6 +250,18 @@ tag:
 ## Yossi Kreinin - blog archive
 
 - [SIMD < SIMT < SMT: parallelism in NVIDIA GPUs](https://yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html)
+
+---
+
+## Daniel Lemire's blog
+
+- [Scan HTML faster with SIMD instructions: Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
+
+---
+
+## HiGenis
+
+- [TouchGFX 시뮬레이션에서 윈도우 COM 포트 사용하기 예제 코드](https://blog.naver.com/chandong83/223477320971?)
 
 ---
 

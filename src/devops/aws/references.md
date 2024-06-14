@@ -357,4 +357,16 @@ head:
 
 ---
 
+## yan
+
+- [\[AWS\] AWS SES로 메일 발송하기](https://iio-nff.tistory.com/m/6)
+
+---
+
+## mingrammer's note
+
+- [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
+
+---
+
 <TagLinks />

@@ -148,6 +148,7 @@
   { "logo": "sketch", "name": "Skatch", "colorHex": "F7B500" },
   { "logo": "slack", "name": "Slack", "colorHex": "4A154B" },
   { "logo": "solidity", "name": "Solidity", "colorHex": "363636" },
+  { "logo": "splunk", "name": "Splunk", "colorHex": "000000" },
   { "logo": "spring", "name": "Spring", "colorHex": "6DB33F" },
   { "logo": "springboot", "name": "Spring%20Boot", "colorHex": "6DB33F" },
   { "logo": "springsecurity", "name": "Spring%20Security", "colorHex": "6DB33F" },

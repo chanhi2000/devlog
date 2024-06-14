@@ -268,6 +268,7 @@ tag:
 - [[내일배움캠프 21일차 TIL] 3 Layer Architecture와 SQL](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-21%EC%9D%BC%EC%B0%A8-TIL-3-Layer-Architecture%EC%99%80-SQL)
 - [[프로그래머스] 크기가 작은 부분 문자열 level 1 - Java](https://moonnight0.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%81%AC%EA%B8%B0%EA%B0%80-%EC%9E%91%EC%9D%80-%EB%B6%80%EB%B6%84-%EB%AC%B8%EC%9E%90%EC%97%B4-level-1-Java)
 - [\[프로그래머스\] 시저 암호 level 1 - Java](https://moonnight0.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8-level-1-Java)
+- [\[내일배움캠프 39일차 TIL\] 단위 테스트란 무엇일까?](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-39%EC%9D%BC%EC%B0%A8-TIL-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 
 
 ### 류광의 번역 이야기
@@ -715,6 +716,11 @@ tag:
 
 - [Kotlin coroutines 톺아보기](https://slideshare.net/xodn4195/kotlin-coroutines-250871163)
 - [Effective Java and Kotlin](https://slideshare.net/slideshow/effective-java-and-kotlin/140124688)
+
+### Hide
+
+- [인프런 2시간만에 끝내는 코루틴 8강 ~ 10강 정리](https://hides.tistory.com/m/1149)
+- [인프런 2시간만에 끝내는 코루틴 1강 ~ 7강 정리](https://hides.tistory.com/m/1148)
 
 ---
 

@@ -331,4 +331,10 @@ head:
 
 ---
 
+## Charsyam's Blog
+
+- [Instagram 에서 ID 샤딩하기](https://charsyam.wordpress.com/2011/12/04/instagram-%EC%97%90%EC%84%9C-id-%EC%83%A4%EB%94%A9%ED%95%98%EA%B8%B0/)
+
+---
+
 <TagLinks />

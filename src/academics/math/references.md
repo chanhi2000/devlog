@@ -503,4 +503,10 @@ head:
 
 ---
 
+## cr.openjdk.org Server
+
+- [encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
+
+---
+
 <TagLinks />

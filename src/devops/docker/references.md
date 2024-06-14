@@ -315,6 +315,7 @@ head:
 
 ## 44BITS: IT 뉴스, 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
 
+- [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 - [도커 컴포즈를 활용하여 완벽한 개발 환경 구성하기](https://44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)
 - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
@@ -360,6 +361,12 @@ head:
 ## 오늘도 끄적끄적
 
 - [(Troubleshooting) 레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/index.html)
+
+---
+
+## clean up the desk
+
+- [\[네이버클라우드\] Ncloud Single Sign-On(SSO) / keycloak 연동 - 1. keycloak 설치](https://cleanupthedesk.tistory.com/m/75)
 
 ---
 

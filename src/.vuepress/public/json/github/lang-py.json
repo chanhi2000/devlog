@@ -631,9 +631,9 @@
     "officialSite": ""
   }, {
     "repo": "IDEA-Research/GroundingDINO",
-    "desc": "The official implementation of 'Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection'",
-    "topics": [],
-    "officialSite": ""
+    "desc": "Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+    "officialSite": "https://arxiv.org/abs/2303.05499",
+    "topics": ["object-detection", "open-world", "open-world-detection", "vision-language", "vision-language-transformer"]
   }, {
     "repo": "liujing04/Retrieval-based-Voice-Conversion-WebUI",
     "desc": "",
@@ -5529,5 +5529,10 @@
     "desc": "An Extensible Deep Learning Library",
     "officialSite": "",
     "topics": ["deep-learning", "jax"]
+  }, {
+    "repo": "huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
+    "officialSite": "https://huggingface.co/docs/diffusers",
+    "topics": ["deep-learning", "diffusion", "flax", "hacktoberfest", "image-generation", "image2image", "jax", "latent-diffusion-models", "pytorch", "score-based-generative-modeling", "stable-diffusion", "stable-diffusion-diffusers", "text2image"]
   }
 ]

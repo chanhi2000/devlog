@@ -81,6 +81,12 @@ tag:
 
 ---
 
+## Blog - LINE ENGINEERING
+
+- [mitmproxy를 활용해 구글 애널리틱스 테스트 자동화하기](https://engineering.linecorp.com/ko/blog/auto-inspecting-testing-with-google-analytics)
+
+---
+
 ## Tecmint: Linux Howtos, Tutorials & Guides
 
 - [Marcel – A More Modern Shell for Linux](https://www.tecmint.com/marcel-modern-shell-for-linux)
@@ -305,20 +311,6 @@ tag:
 ## Die wunderbare Welt von Isotopp
 
 - [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
-
----
-
-## Pytorch.kr
-
-- [속도와 파이썬, 두 마리 토끼 잡기: 딥러닝 시 빠른 파이썬 코드 실행을 위한 CUDA 그래프 사용법 (Speed, Python: Pick Two. How CUDA Graphs Enable Fast Python Code for Deep Learning)](https://discuss.pytorch.kr/t/cuda-speed-python-pick-two-how-cuda-graphs-enable-fast-python-code-for-deep-learning/2441)
-- [벡터 유사도 검색이 무엇인가요? (What is Vector Similarity Search?)](https://discuss.pytorch.kr/t/what-is-vector-similarity-search/2475)
-- [[2023/09/04 ~ 09/10] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2023-09-04-09-10-ml-top-ml-papers-of-the-week/2448)
-- [[2023/11/06 ~ 11/12] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2023-11-06-11-12-ml-top-ml-papers-of-the-week/2838)
-- [상용 수준의 LLM 애플리케이션을 위한 개발자 가이드(The Developer's Guide to Production-Grade LLM Apps)](https://discuss.pytorch.kr/t/llm-the-developers-guide-to-production-grade-llm-apps/2919)
-- [대규모 언어 모델을 위한 검색-증강 생성(RAG) 기술 현황 - 1/2편](https://discuss.pytorch.kr/t/rag-1-2/3135)
-- [[2024/01/22 ~ 01/28] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-01-22-01-28-ml-top-ml-papers-of-the-week/3372)
-- [Road to Sora: OpenAI의 Sora를 이해하기 위한 선행 연구 소개 (feat. Oxen.AI)](https://discuss.pytorch.kr/t/road-to-sora-openai-sora-feat-oxen-ai/3846)
-- [[2024/04/22 ~ 04/28] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-04-22-04-28-ml-top-ml-papers-of-the-week/4237)
 
 ---
 
@@ -640,34 +632,35 @@ tag:
 
 ## 멈춤보단 천천히라도
 
-- [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
-- [컬럼에서 특정 값을 가진 행 삭제하는 Pandas 예제](https://webnautes.tistory.com/2299)
-- [pyQt5에서 libGL error: MESA-LOADER: failed to open 에러 발생시 해결방법입니다.](https://webnautes.tistory.com/2302)
-- [`qt.qpa.plugin`: Could not load the Qt platform plugin "xcb" 에러 해결 방법](https://webnautes.tistory.com/2303)
-- [pyQt5 - process에서 메시지 박스를 보여주는 예제](https://webnautes.tistory.com/2318)
-- [PyQt5 예제 - 단축키로 버튼 누르기](https://webnautes.tistory.com/2316)
-- [PyQT5 - 랜덤 컬러 그리드 생성하기](https://webnautes.tistory.com/2320)
-- [fps 계산하는 Python 예제](https://webnautes.tistory.com/2325)
-- [OpenCV - 이미지 파일을 mp4 동영상 파일로 변환하는 파이썬 코드](https://webnautes.tistory.com/2041)
-- [OpenCV Python - 동영상 파일을 일련번호 붙은 이미지 파일로 저장하기](https://webnautes.tistory.com/2323)
-- [OpenCV Python 검은색 빈 공간 채우기](https://webnautes.tistory.com/2322)
-- [Keras 예제 – `flow_from_directory`와 `flow_from_dataframe`](https://webnautes.tistory.com/2077)
-- [requirements.txt 사용방법](https://webnautes.tistory.com/2278)
-- [디렉토리 존재 여부 확인 후, 새로 디렉토리 생성하는 Python 예제](https://webnautes.tistory.com/2326)
-- [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/2109)
-- [lap/_lapjv.cpp:181:12: fatal error: longintrepr.h 해결방법](https://webnautes.tistory.com/2330)
-- [CoreNet으로 OpenELM 모델을 사용해보기](https://webnautes.tistory.com/2329)
-- [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/1842)
-- [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/2328)
-- [Python if문 내부에 있는 조건별로 주석 달기](https://webnautes.tistory.com/2333)
-- [OpenCV Python 마우스 이벤트 예제](https://webnautes.tistory.com/2334)
-- [PyQt5에서 윈도우의 모든 창 버튼(최소화, 최대화, 닫기)을 제거](https://webnautes.tistory.com/2335)
-- [pyQt5 윈도우를 화면의 중앙에 배치하기](http://webnautes.tistory.com/2336)
-- [OpenCV Python Tracking 예제](https://webnautes.tistory.com/2338)
-- [PyQt5 QTableWidget 예제](https://webnautes.tistory.com/2337)
-- [miniconda/anaconda에서 conda 사용하는 방법](https://webnautes.tistory.com/2276)
-- [모델 평가하는 방법(혼동행렬, confusion matrix 사용방법, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
-- [Matplotlib를 사용하여 원형 그래프 그리기](https://webnautes.tistory.com/2341)
+- [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
+- [컬럼에서 특정 값을 가진 행 삭제하는 Pandas 예제](https://webnautes.tistory.com/m/2299)
+- [pyQt5에서 libGL error: MESA-LOADER: failed to open 에러 발생시 해결방법입니다.](https://webnautes.tistory.com/m/2302)
+- [`qt.qpa.plugin`: Could not load the Qt platform plugin "xcb" 에러 해결 방법](https://webnautes.tistory.com/m/2303)
+- [pyQt5 - process에서 메시지 박스를 보여주는 예제](https://webnautes.tistory.com/m/2318)
+- [PyQt5 예제 - 단축키로 버튼 누르기](https://webnautes.tistory.com/m/2316)
+- [PyQT5 - 랜덤 컬러 그리드 생성하기](https://webnautes.tistory.com/m/2320)
+- [fps 계산하는 Python 예제](https://webnautes.tistory.com/m/2325)
+- [OpenCV - 이미지 파일을 mp4 동영상 파일로 변환하는 파이썬 코드](https://webnautes.tistory.com/m/2041)
+- [OpenCV Python - 동영상 파일을 일련번호 붙은 이미지 파일로 저장하기](https://webnautes.tistory.com/m/2323)
+- [OpenCV Python 검은색 빈 공간 채우기](https://webnautes.tistory.com/m/2322)
+- [Keras 예제 – `flow_from_directory`와 `flow_from_dataframe`](https://webnautes.tistory.com/m/2077)
+- [requirements.txt 사용방법](https://webnautes.tistory.com/m/2278)
+- [디렉토리 존재 여부 확인 후, 새로 디렉토리 생성하는 Python 예제](https://webnautes.tistory.com/m/2326)
+- [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/m/2109)
+- [lap/_lapjv.cpp:181:12: fatal error: longintrepr.h 해결방법](https://webnautes.tistory.com/m/2330)
+- [CoreNet으로 OpenELM 모델을 사용해보기](https://webnautes.tistory.com/m/2329)
+- [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
+- [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/m/2328)
+- [Python if문 내부에 있는 조건별로 주석 달기](https://webnautes.tistory.com/m/2333)
+- [OpenCV Python 마우스 이벤트 예제](https://webnautes.tistory.com/m/2334)
+- [PyQt5에서 윈도우의 모든 창 버튼(최소화, 최대화, 닫기)을 제거](https://webnautes.tistory.com/m/2335)
+- [pyQt5 윈도우를 화면의 중앙에 배치하기](http://webnautes.tistory.com/m/2336)
+- [OpenCV Python Tracking 예제](https://webnautes.tistory.com/m/2338)
+- [PyQt5 QTableWidget 예제](https://webnautes.tistory.com/m/2337)
+- [miniconda/anaconda에서 conda 사용하는 방법](https://webnautes.tistory.com/m/2276)
+- [모델 평가하는 방법(혼동행렬, confusion matrix 사용방법, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
+- [Matplotlib를 사용하여 원형 그래프 그리기](https://webnautes.tistory.com/m/2341)
+- [asyncio를 사용한 비동기 소켓 통신 예제](https://webnautes.tistory.com/m/2343)
 
 ---
 
@@ -1454,6 +1447,30 @@ tag:
 ## Hax0r
 
 - [나는 코드를 쓸테니, 너는 인프라를 맡거라.](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
+
+---
+
+## Louis Abraham's Home Page
+
+- [Solving Probabilistic Tic-Tac-Toe](https://louisabraham.github.io/articles/probabilistic-tic-tac-toe)
+
+---
+
+## Python in Excel alternative: Open. Self-hosted. No limits.
+
+- [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
+
+---
+
+## mingrammer's note
+
+- [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
+
+---
+
+## 어쩐지 오늘은
+
+- [Python에서 데이터 시각화하는 다양한 방법](https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/)
 
 ---
 
