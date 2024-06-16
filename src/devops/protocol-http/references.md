@@ -93,4 +93,10 @@ tag:
 
 ---
 
+## 개발자스럽다
+
+- [화면 기획을 손쉽게: 파워포인트 플러그인 "파워목업(Power Mockup)"](https://blog.gaerae.com/2017/09/about-power-mockup.html)
+
+---
+
 <TagLinks />

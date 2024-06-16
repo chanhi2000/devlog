@@ -29,7 +29,7 @@ head:
 prev: /programming/py/articles/README.md
 date: 2024-06-11
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/Next-Gen-Large-Language-Models-Cover-1--1-.png
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/06/Next-Gen-Large-Language-Models-Cover-1--1-.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -63,7 +63,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/Next-
   desc="Retrieval Augmented Generation (RAG) signifies a transformative advancement in large language models (LLMs). It combines the generative prowess of transformer architectures with dynamic information retrieval.  This integration allows LLMs to access and incorporate relevant external knowledge during text generation, resulting in outputs that are more accurate, contextual, and factually..."
   url="https://freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/Next-Gen-Large-Language-Models-Cover-1--1-.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/06/Next-Gen-Large-Language-Models-Cover-1--1-.png"/>
 
 <!-- TODO: 작성 -->
 

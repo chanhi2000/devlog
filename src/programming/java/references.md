@@ -90,7 +90,10 @@ tag:
 - [`@qkrtkdwns3410` / [이펙티브 자바.아이템5] 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C5-%EC%9E%90%EC%9B%90%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%AA%85%EC%8B%9C%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%A1%B4-%EA%B0%9D%EC%B2%B4-%EC%A3%BC%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 - [`@qkrtkdwns3410` / [이펙티브 자바.아이템6] 불필요한 객체 생성을 피하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C6-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC)
 - [`@qkrtkdwns3410` / [이펙티브 자바.아이템7] 다 쓴 객체 참조를 해제하라.](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C7-%EB%8B%A4-%EC%93%B4-%EA%B0%9D%EC%B2%B4-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC)
-- [\[이펙티브 자바.아이템 11\] `equals` 를 재정의하거든 `hashcode` 도 재정의하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C-11-equals-%EB%A5%BC-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EA%B1%B0%EB%93%A0-hashcode-%EB%8F%84-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
+- [`@qkrtkdwns3410` / \[이펙티브 자바.아이템 11\] `equals` 를 재정의하거든 `hashcode` 도 재정의하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94.%EC%95%84%EC%9D%B4%ED%85%9C-11-equals-%EB%A5%BC-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EA%B1%B0%EB%93%A0-hashcode-%EB%8F%84-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
+- [`@qkrtkdwns3410` / \[이펙티브 자바 아이템58\] 전통적인 for 문보다는 for-each 문을 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C58-%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-for-%EB%AC%B8%EB%B3%B4%EB%8B%A4%EB%8A%94-for-each-%EB%AC%B8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
+- [`@qkrtkdwns3410` / \[자바\] BufferedWriter 에서는 왜 정수를 String 으로 변환해서 출력해야만 하는가?](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-BufferedWriter-%EC%97%90%EC%84%9C%EB%8A%94-%EC%99%9C-%EC%A0%95%EC%88%98%EB%A5%BC-String-%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%B4%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94%EA%B0%80)
+- [`@qkrtkdwns3410` / \[이펙티브 자바 아이템 46\] 스트림에서는 부작용 없는 함수를 사용하라.](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C-46-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%97%90%EC%84%9C%EB%8A%94-%EB%B6%80%EC%9E%91%EC%9A%A9-%EC%97%86%EB%8A%94-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 
 ### <FontIcon icon="iconfont icon-blex"/>BLEX
 
@@ -105,11 +108,11 @@ tag:
 - [`@msa4080` - PART1. 자바 입문](https://blex.me/@msa4080/part1-%EC%9E%90%EB%B0%94-%EC%9E%85%EB%AC%B8-1)
 - [`@msa4080` - PART2. 자바 언어 기본(1)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8)
 - [`@msa4080` - PART2. 자바 언어 기본(2)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B82)
-[`@qkrtkdwns3410` / \[이펙티브 자바 아이템58\] 전통적인 for 문보다는 for-each 문을 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C58-%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-for-%EB%AC%B8%EB%B3%B4%EB%8B%A4%EB%8A%94-for-each-%EB%AC%B8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [Roadmap - Senior Java Developer 2024](https://dev.to/antofik/senior-java-developer-2024-2cof)
+- [`mjsf1234` / 🔥 Mastering Java Concurrency: Dive into Part 1! 🚀](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-1-291h)
+- [`antofik` / Roadmap - Senior Java Developer 2024](https://dev.to/antofik/senior-java-developer-2024-2cof)
 
 ### 동팡
 
@@ -523,6 +526,7 @@ tag:
 - [`@l2hyunwoo` / Kotlin 2.0으로 마이그레이션하기](https://medium.com/@l2hyunwoo/kotlin-2-0%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-1742f294df51)
 - [`donraab` / What if null was an Object in Java?](https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2)
 - [`proandroiddev` / Everything you want to know about Functional interfaces in Kotlin](https://proandroiddev.com/everything-you-want-to-know-about-functional-interfaces-in-kotlin-55f4ae7b64ec)
+- [`proandroiddev` / Everything about Customizing coroutine contexts in kotlin](https://proandroiddev.com/everything-about-customizing-coroutine-contexts-in-kotlin-0a8a129bbc41)
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -535,7 +539,7 @@ tag:
 - [`lucasfugisawa` / Kotlin Design Patterns: Simplifying the Builder Pattern](https://dev.to/lucasfugisawa/kotlin-design-patterns-simplifying-the-builder-pattern-3e7g)
 - [`mrkandreev` / How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)
 - [`@daredev` / Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
-- [`@mjsf1234` / 🔥 Mastering Java Concurrency: Dive into Part 1! 🚀](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-1-291h)
+- [`jakub_zalas` / Functional domain model](https://dev.to/jakub_zalas/functional-domain-model-o3j)
 
 ### Leo3418
 
@@ -721,6 +725,18 @@ tag:
 
 - [인프런 2시간만에 끝내는 코루틴 8강 ~ 10강 정리](https://hides.tistory.com/m/1149)
 - [인프런 2시간만에 끝내는 코루틴 1강 ~ 7강 정리](https://hides.tistory.com/m/1148)
+
+### Speednet - we build software
+
+- [Building a Scalable Backend for GameShop with Kotlin](https://speednetsoftware.com/backend-ktor/)
+
+### Thought Box
+
+- [Kotlin DEVEX is not great, but Amper could fix it.](https://iurysouza.dev/kotlin-devex-is-not-great-amper-could-fix-it/)
+
+### void2unit
+
+- [Kotlin just got Virtual Threads](https://void2unit.onrender.com/post/virtualthreads-in-kotlin/)
 
 ---
 

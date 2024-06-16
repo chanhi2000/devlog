@@ -143,13 +143,13 @@ tag:
 
 ## Microsoft MVP 프로그래머 김성엽
 
-- [Windows 샌드박스](https://blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&?blogId=tipsware&logNo=223417380962)
+- [Windows 샌드박스](https://blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&?blogId=tipsware/223417380962)
 
 ---
 
 ## Programming
 
-- [윈도우 작업 중 화면 밖으로 사라진 프로그램(작업창 사라짐 ㅠㅠ) 다시 화면 안으로 나오도록 하는 방법 ](https://blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&blogId=developer_life&logNo=221531598585)
+- [윈도우 작업 중 화면 밖으로 사라진 프로그램(작업창 사라짐 ㅠㅠ) 다시 화면 안으로 나오도록 하는 방법 ](https://blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&blogId=developer_life/221531598585)
 
 ---
 
@@ -185,7 +185,7 @@ tag:
 
 ## lovekod2hj's Blog
 
-- [\[IE\] 지금 보고 있는 웹 페이지에서 탭을 닫으려고 합니다. 메시지 안 뜨도록 할 때](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=s0215hc&logNo=221013229975)
+- [\[IE\] 지금 보고 있는 웹 페이지에서 탭을 닫으려고 합니다. 메시지 안 뜨도록 할 때](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=s0215hc/221013229975)
 
 ---
 
@@ -203,9 +203,16 @@ tag:
 
 ## 개발자스럽다
 
+- [핑거(FSWSS)는 무슨 프로그램일까?](https://blog.gaerae.com/2017/12/what-is-finger-fswss-program.html)
 - [Windows에서 Docker 공유 드라이브가 끊어지는 문제 해결 방법](https://blog.gaerae.com/2019/03/configuring-docker-for-windows-volumes.html)
 - [Windows 10에 Hyper-V 설치 및 문제 해결](https://blog.gaerae.com/2019/04/hyper-v-troubleshooting.html)
 - [Docker for Windows 설치 및 문제 해결](https://blog.gaerae.com/2019/04/docker-for-windows-troubleshooting.html)
+
+---
+
+## 운동하는 개발자
+
+- [복붙을 많이 하는 당신에게 필요한 클립보드 히스토리 (고급 클립보드)](https://singo112ok.tistory.com/m/275)
 
 ---
 

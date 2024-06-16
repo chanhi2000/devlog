@@ -385,13 +385,20 @@ head:
 
 ## 숲속얘기의 조용한 카페
 
-- [이미지 해석을 ChatGPT4와 ChatGPT4o에게 시켜보고 확인한 차이](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=fstory97&logNo=223451932063)
+- [이미지 해석을 ChatGPT4와 ChatGPT4o에게 시켜보고 확인한 차이](https://blog.naver.com/fstory97/223451932063)
+- [최신 인공지능은 얼마나 똑똑할까? ChatGPT 너는 IQ가 얼마야?](https://blog.naver.com/fstory97/223480182064?)
 
 ---
 
 ## DISQUIET
 
 - [프롬프트 하나로 풀스택 웹앱을 만드는 Marblism](https://disquiet.io/@williamjung/makerlog/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%ED%95%98%EB%82%98%EB%A1%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EC%9B%B9%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-marblism)
+
+---
+
+## Adil Moujahid
+
+- [Building a Japanese Kanji Flashcard App using GPT-4, Python and Langchain](https://adilmoujahid.com/posts/2023/10/kanji-gpt4/)
 
 ---
 

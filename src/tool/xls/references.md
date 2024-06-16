@@ -46,8 +46,8 @@ head:
 
 ## 제이의 IT 스토리
 
-- [엑셀, 스프레드시트에서 원클릭으로 문자보내기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=oralol&logNo=223407852139)
-- [구글 설문지 자동화 스크립트 - 문자, 이메일 자동 발송](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=oralol&logNo=223414624169)
+- [엑셀, 스프레드시트에서 원클릭으로 문자보내기](https://blog.naver.com/oralol/223407852139)
+- [구글 설문지 자동화 스크립트 - 문자, 이메일 자동 발송](https://blog.naver.com/oralol/223414624169)
 
 ---
 

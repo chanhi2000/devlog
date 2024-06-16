@@ -71,6 +71,8 @@ head:
 - [`@tonistiigi` / New Dockerfile capabilities in v1.7.0](https://medium.com/@tonistiigi/new-dockerfile-capabilities-in-v1-7-0-be6873650741)
 - [`@gaemi` / Spring Boot 과 Docker (with jib)](https://medium.com/@gaemi/spring-boot-%EA%B3%BC-docker-with-jib-657d32a6b1f0)
 - [`@EJSohn` / \[번역\] Linux에서 메모리를 다 써버렸을 때 일어나는 일](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
+- [`studioego` / 라즈베리 파이 5(Raspberry Pi5)에서 도커(Docker)설치 및 사용 테스트](https://studioego.medium.com/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC-%ED%8C%8C%EC%9D%B4-5-raspberry-pi5-%EC%97%90%EC%84%9C-%EB%8F%84%EC%BB%A4-docker-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-7334dec9fbfc)
+- [`studioego` / RISC-V 기반 바나나파이(Banana Pi) F3의 Armbian OS에서 Docker설치 및 사용 테스트](https://studioego.medium.com/risc-v-%EA%B8%B0%EB%B0%98-%EB%B0%94%EB%82%98%EB%82%98%ED%8C%8C%EC%9D%B4-banana-pi-f3%EC%9D%98-armbian-os%EC%97%90%EC%84%9C-docker%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-a08e9abb8089s)
 
 ---
 
@@ -231,7 +233,7 @@ head:
 
 ## 스파르타 코딩클럽
 
-- [`Dockerfile` 최적화 : 이미지 사이즈 줄이기/ 빌드 시간 단축/ 컨테이너 운영](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=spartacoding&logNo=223393016523)
+- [`Dockerfile` 최적화 : 이미지 사이즈 줄이기/ 빌드 시간 단축/ 컨테이너 운영](https://blog.naver.com/spartacoding/223393016523)
 
 ---
 

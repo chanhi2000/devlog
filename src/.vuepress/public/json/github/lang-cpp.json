@@ -1418,5 +1418,10 @@
     "desc": "Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift",
     "officialSite": "https://k2-fsa.github.io/sherpa/onnx/index.html",
     "topics": ["aarch64", "android", "arm32", "asr", "cpp", "csharp", "dotnet", "ios", "linux", "macos", "mfc", "onnx", "openkylin", "raspberry-pi", "risc-v", "speech-to-text", "text-to-speech", "vits", "windows"]
+  }, {
+    "repo": "NVIDIA/TensorRT",
+    "desc": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+    "officialSite": "https://developer.nvidia.com/tensorrt",
+    "topics": ["deep-learning", "gpu-acceleration", "inference", "nvidia", "tensorrt"]
   }
 ]

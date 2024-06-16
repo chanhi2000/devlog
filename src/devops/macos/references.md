@@ -49,6 +49,14 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-y-combinator"/>Y Combinator
+
+### Hacker News
+
+- [Ask HN: What macOS apps/programs do you use daily and recommend?](https://news.ycombinator.com/item?id=40627395)
+
+---
+
 ## Blogs
 
 - [RAVI SHANKAR](https://rshankar.com)
@@ -258,6 +266,12 @@ head:
 ## 냉동코더의 기술블로그
 
 - [macOS에서 Ollama 사용하기](https://cliearl.github.io/posts/etc/ollama-intro/)
+
+---
+
+## Adrian's Corner
+
+- [Installing macOS Sequoia Beta in a Separate APFS Volume](https://adrian.schoenig.me/blog/2024/06/13/installing-macos-sequoia-in-a-separate-volume/?utm_campaign=iOS%20Dev%20Weekly)
 
 ---
 

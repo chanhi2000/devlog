@@ -22,7 +22,7 @@ head:
 prev: /programming/js/articles/README.md
 date: 2023-10-31
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2023/10/Colorful-Bold-Math-Factors-Lesson-and-Quiz.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2023/10/Colorful-Bold-Math-Factors-Lesson-and-Quiz.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,7 +46,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2023/10/Color
   desc="Looping through arrays in JavaScript is a fundamental concept that every JavaScript developer should understand. Whether you're a beginner or an experienced developer, understanding how to loop through an array is crucial for many programming tasks.  In this article, we'll explore the different ways to loop through an array"
   url="https://freecodecamp.org/news/loop-through-arrays-javascript/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2023/10/Colorful-Bold-Math-Factors-Lesson-and-Quiz.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2023/10/Colorful-Bold-Math-Factors-Lesson-and-Quiz.png"/>
 
 <!-- TODO: 작성 -->
 

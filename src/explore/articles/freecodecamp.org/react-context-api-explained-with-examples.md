@@ -27,7 +27,7 @@ head:
 prev: /programming/js-react/articles/README.md
 date: 2024-05-30
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/Context-API.png
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/Context-API.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,7 +51,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/Conte
   desc="Managing state has always been a critical aspect of making web applications with React. The most basic way to do this is prop drilling. In prop drilling, you pass props around from the parent component to other components that need it, no matter how deeply nested they are. The problem..."
   url="https://freecodecamp.org/news/react-context-api-explained-with-examples/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/Context-API.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/05/Context-API.png"/>
 
 <!-- TODO: 작성 -->
 

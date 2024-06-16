@@ -31,7 +31,7 @@ head:
 prev: /programming/dart/articles/README.md
 date: 2024-06-03
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/supa-auth-2.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/supa-auth-2.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -65,7 +65,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/supa-
   desc="In this article, you will learn how to use Supabase's auth package [https://pub.dev/packages/supabase_auth_ui] to quickly and efficiently add authentication functionality to your Flutter apps. We will go through the entire process, from setting up a Flutter project to configuring Email/Password, OAuth, and Magic link flows. In the end, you'll have..."
   url="https://freecodecamp.org/news/add-auth-to-flutter-apps-with-supabase-auth-ui/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/05/supa-auth-2.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/supa-auth-2.png"/>
 
 <!-- TODO: 작성 -->
 

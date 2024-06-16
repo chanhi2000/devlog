@@ -136,4 +136,10 @@ head:
 
 ---
 
+## Prateek's Digital 🏡
+
+- [Next.js 13 vs Remix: An In-depth case study](https://prateeksurana.me/blog/nextjs-13-vs-remix-an-in-depth-case-study/)
+
+---
+
 <TagLinks />

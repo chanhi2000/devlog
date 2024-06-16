@@ -23,6 +23,7 @@ tag:
 
 ### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
+- [Arm64 Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/)
 - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)
 - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
 - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8)
@@ -120,6 +121,7 @@ tag:
 
 ## CodingSonata
 
+- [Your Quick Guide to Pattern Matching in C#](https://codingsonata.com/your-quick-guide-to-pattern-matching-in-c/)
 - [Secure ASP.NET Core Web API using JWT Authentication](https://codingsonata.com/secure-asp-net-core-web-api-using-jwt-authentication)
 
 ---
@@ -401,6 +403,18 @@ tag:
 ## 김정선의 Data 이야기
 
 - [.NET ENTITY FRAMEWORK CORE 효율적인 쿼리 사용(발표영상)](https://visualdb.net/2024/06/12/net-entity-framework-core/)
+
+---
+
+## Blog | Compositional IT
+
+- [Don’t persist `GetHashCode()` in .NET!](https://www.compositional-it.com/news-blog/do-not-persist-gethashcode-in-net/)
+
+---
+
+## The place for .NET enthusiasts, Azure lovers, and backend developers | Code4IT
+
+- [Feature Flags 101: A Guide for ASP.NET Core Developers](https://www.code4it.dev/blog/feature-flags-dotnet/)
 
 ---
 

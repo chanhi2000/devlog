@@ -3053,5 +3053,15 @@
     "desc": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
     "officialSite": "https://es-toolkit.slash.page",
     "topics": []
+  }, {
+    "repo": "frectonz/sqlite-studio",
+    "desc": "SQLite database explorer",
+    "officialSite": "https://sqlite-studio.frectonz.io/",
+    "topics": ["rust", "sqlite", "sqlite-browser"]
+  }, {
+    "repo": "mlc-ai/web-llm",
+    "desc": "High-performance In-browser LLM Inference Engine",
+    "officialSite": "https://webllm.mlc.ai",
+    "topics": ["chatgpt", "deep-learning", "language-model", "llm", "tvm", "webgpu", "webml"]
   }
 ]

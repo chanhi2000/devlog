@@ -22,7 +22,7 @@ head:
 prev: /programming/js/articles/README.md
 date: 2024-06-05
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Python-Data-Types--3-.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/Python-Data-Types--3-.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,7 +46,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Pytho
   desc="All leading web browsers support JavaScript, a popular and versatile programming language. The this keyword is a very important concept to know in JavaScript. The this keyword is a reference to an object, but the object varies based on where and how it is called. In this article, you'll learn..."
   url="https://freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Python-Data-Types--3-.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/06/Python-Data-Types--3-.png"/>
 
 <!-- TODO: 작성 -->
 

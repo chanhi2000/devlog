@@ -114,6 +114,7 @@ head:
 - [`@dongha1992` - 도커 & CI (7)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-7)
 - [`@yeonns` / AWS Fargate는 얼마나 자원을 쓰고 있을까](https://velog.io/@yeonns/how-much-resources-is-aws-fargate-using)
 - [`@endmoseung` / 개발자가 클라우드를 공부하는 이유](https://velog.io/@endmoseung/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+- [`@yeonns` / Cell-based Architecture에 대해 알아보자](https://velog.io/@yeonns/what-is-cell-based-architecture)
 
 ---
 
@@ -177,21 +178,21 @@ head:
 
 ## 개발하는 기획자 기획하는 개발자
 
-- [탄력적 IP 적용하기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223394021270)
-- [Route53과 도메인 연결](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223398889777)
-- [AWS 로드 밸런서 적용하기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223401436302)
-- [AWS RDS 연결하기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223402753221)
-- [AWS S3](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223407211913)
-- [AWS S3와 CloudFront](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223408217352)
-- [S3 리액트 자동 배포 (Github Action 사용)](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223410998889)
-- [AWS Lambda](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223415212877)
-- [AWS API Gateway](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223414349399)
-- [AWS SES와 Nodemailer](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223414001298)
-- [AWS API Gateway와 Lambda 연동하기](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223417844588)
-- [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223421657878)
-- [AWS 서버리스 기초](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223421350581)
-- [AWS VPC를 위한 네트워크 지식 - IP 기초편](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223425136822)
-- [AWS VPC를 위한 네트워크 지식 - 서브넷](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=gi_balja&logNo=223431369381)
+- [탄력적 IP 적용하기](https://blog.naver.com/gi_balja/223394021270)
+- [Route53과 도메인 연결](https://blog.naver.com/gi_balja/223398889777)
+- [AWS 로드 밸런서 적용하기](https://blog.naver.com/gi_balja/223401436302)
+- [AWS RDS 연결하기](https://blog.naver.com/gi_balja/223402753221)
+- [AWS S3](https://blog.naver.com/gi_balja/223407211913)
+- [AWS S3와 CloudFront](https://blog.naver.com/gi_balja/223408217352)
+- [S3 리액트 자동 배포 (Github Action 사용)](https://blog.naver.com/gi_balja/223410998889)
+- [AWS Lambda](https://blog.naver.com/gi_balja/223415212877)
+- [AWS API Gateway](https://blog.naver.com/gi_balja/223414349399)
+- [AWS SES와 Nodemailer](https://blog.naver.com/gi_balja/223414001298)
+- [AWS API Gateway와 Lambda 연동하기](https://blog.naver.com/gi_balja/223417844588)
+- [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
+- [AWS 서버리스 기초](https://blog.naver.com/gi_balja/223421350581)
+- [AWS VPC를 위한 네트워크 지식 - IP 기초편](https://blog.naver.com/gi_balja/223425136822)
+- [AWS VPC를 위한 네트워크 지식 - 서브넷](https://blog.naver.com/gi_balja/223431369381)
 
 ---
 

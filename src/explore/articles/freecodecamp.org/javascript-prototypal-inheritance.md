@@ -22,7 +22,7 @@ head:
 prev: /programming/js/articles/README.md
 date: 2024-05-31
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/gabriel-heinzer-g5jpH62pwes-unsplash.jpg
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/gabriel-heinzer-g5jpH62pwes-unsplash.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,7 +46,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/gabri
   desc="Prototypal inheritance can feel like a complex concept shrouded in technical jargon. But fear not! This guide will break it down using clear, relatable examples that go beyond the typical textbook explanations.  We'll ditch the confusing terms and focus on real-world scenarios that you can easily understand. By the..."
   url="https://freecodecamp.org/news/javascript-prototypal-inheritance/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/gabriel-heinzer-g5jpH62pwes-unsplash.jpg"/>
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/05/gabriel-heinzer-g5jpH62pwes-unsplash.jpg"/>
 
 <!-- TODO: 작성 -->
 

@@ -137,8 +137,10 @@ tag:
 
 ## WebKit
 
+- [WebKit Features in Safari 17.0](https://webkit.org/blog/14445/webkit-features-in-safari-17-0/)
 - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
 - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
+- [News from WWDC24: WebKit in Safari 18 beta](https://webkit.org/blog/15443/news-from-wwdc24-webkit-in-safari-18-beta/)
 
 ---
 
@@ -615,6 +617,12 @@ tag:
 ## NTS UIT개발실 기술블로그
 
 - [웹폰트 사용하기 (웹폰트 101)](https://wit.nts-corp.com/2017/02/13/4258)
+
+---
+
+## Let's Build UI
+
+- [Nesting in CSS](https://www.letsbuildui.dev/articles/nesting-in-css/)
 
 ---
 

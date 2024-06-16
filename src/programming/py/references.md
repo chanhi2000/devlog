@@ -110,6 +110,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`data-analytics-at-nesta` / Tutorial: data-driven news discourse analysis with Python (Part 1)](https://medium.com/data-analytics-at-nesta/tutorial-data-driven-news-discourse-analysis-with-python-part-1-4fdbf5c23991)
 - [Computational Linear Algebra: Scalars, Vectors, Matrices and Tensors](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc)
 - [Apache Log Parser With Python](https://medium.com/@nithinjohn97/apache-log-parser-with-python-5007a91a04ce)
 - [Best Practices to Follow for PySpark Jobs](https://medium.com/@mtalhanasir96/best-practices-to-follow-for-pyspark-jobs-f41335764a2c)
@@ -126,6 +127,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`houseman` / Creating a great Python DevX](https://dev.to/houseman/creating-a-great-python-devx-39c6)
 - [`crawlee` / Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
 - [`taipy` / Specialized Python libraries for Unique Taskss](https://dev.to/taipy/specialized-python-libraries-for-unique-tasks-5dgm)
 - [`taipy` / 😂11 Fun Python libraries to make your day better☀️](https://dev.to/taipy/11-fun-python-libraries-to-make-your-day-better-4gpc) <!-- TODO: 라이브러리 추출 -->
@@ -297,6 +299,7 @@ tag:
 
 ## Simon Willson's TILs
 
+- [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 - [mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama)
 - [Building a blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django)
 
@@ -661,6 +664,7 @@ tag:
 - [모델 평가하는 방법(혼동행렬, confusion matrix 사용방법, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
 - [Matplotlib를 사용하여 원형 그래프 그리기](https://webnautes.tistory.com/m/2341)
 - [asyncio를 사용한 비동기 소켓 통신 예제](https://webnautes.tistory.com/m/2343)
+- [XGBoost에서 GPU(cuda) 사용하는 예제](https://webnautes.tistory.com/m/2344)
 
 ---
 
@@ -692,14 +696,14 @@ tag:
 
 ## [ 프로페셔널 프로그래머 ]
 
-- [[ Python By Example #02 ]](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=cybervictor008&logNo=223397016205)
-- [[ Python By Example #05 ]](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=cybervictor008&logNo=223416453972)
+- [[ Python By Example #02 ]](https://blog.naver.com/cybervictor008/223397016205)
+- [[ Python By Example #05 ]](https://blog.naver.com/cybervictor008/223416453972)
 
 ---
 
 ## Codeit
 
-- [[코딩백과101] 파이썬 에러 TOP7 (오류 메시지 종류와 해결 방법)](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=codeitofficial&logNo=223397232283)
+- [[코딩백과101] 파이썬 에러 TOP7 (오류 메시지 종류와 해결 방법)](https://blog.naver.com/codeitofficial/223397232283)
 
 ---
 
@@ -743,6 +747,7 @@ tag:
 
 ## Codebeez
 
+- [So you want to expose a database? - An exploration of automated API generation](https://codebeez.nl/blogs/so-you-want-to-expose-a-database-an-exploration-of-automated-api-generation/)
 - [The memory footprint of your Python application](https://codebeez.nl/blogs/the-memory-footprint-of-your-python-application/)
 
 ---
@@ -886,6 +891,7 @@ tag:
 - [[백준 2776] 암기왕](https://davincicoding.tistory.com/m/160)
 - [[백준 30106] 현이의 로봇 청소기](https://davincicoding.tistory.com/m/162)
 - [\[백준 28432\] 끝말잇기](https://davincicoding.tistory.com/m/163)
+- [\[백준 5676\] 음주 코딩](https://davincicoding.tistory.com/m/164)
 
 ---
 
@@ -907,6 +913,7 @@ tag:
 
 ## SuperFastPython
 
+- [5 Ways to Measure Execution Time in Python](https://superfastpython.com/benchmark-execution-time/)
 - [Asyncio Coroutine Object Methods in Python](https://superfastpython.com/asyncio-coroutine-methods/)
 - [Develop an Asyncio Echo Client and Server](https://superfastpython.com/asyncio-echo-client-server/)
 
@@ -1179,6 +1186,7 @@ tag:
 
 - [Exploring the Role of Static Methods in Python: A Functional Perspective](https://pybit.es/articles/exploring-the-role-of-static-methods-in-python-a-functional-perspective/)
 - [Python F-String Codes I Use Every Day](https://pybit.es/articles/python-f-string-codes-i-use-every-day/)
+- [6 Cool Things You Can Do With The Functools Module](https://pybit.es/articles/6-cool-things-you-can-do-with-the-functools-module/)
 
 ---
 
@@ -1355,6 +1363,7 @@ tag:
 
 ## Stack Abuse
 
+- [Python-Specific Design Patterns](https://stackabuse.com/python-specific-design-patterns/)
 - [Guide to Hash Tables in Python](https://stackabuse.com/hash-tables-in-python/)
 - [Guide to Queues in Python](https://stackabuse.com/guide-to-queues-in-python/)
 
@@ -1362,6 +1371,7 @@ tag:
 
 ## Muhammad | Personal Blog where I write about things I learn or discover
 
+- [Understanding Python Variables: Namespaces and Variable Scope](https://muhammadraza.me/2023/Python-Namespace/)
 - [Understanding Linux cp Command and Implementing in Python](https://muhammadraza.me/2023/linux-cp/)
 
 ---
@@ -1471,6 +1481,48 @@ tag:
 ## 어쩐지 오늘은
 
 - [Python에서 데이터 시각화하는 다양한 방법](https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/)
+
+---
+
+## Adil Moujahid
+
+- [Building a Japanese Kanji Flashcard App using GPT-4, Python and Langchain](https://adilmoujahid.com/posts/2023/10/kanji-gpt4/)
+
+---
+
+## Luke Plant's home page
+
+- [Python Type Hints: pyastgrep case study](https://lukeplant.me.uk/blog/posts/python-type-hints-pyastgrep-case-study/)
+
+---
+
+## Weights & Biases
+
+- [Fine-Tuning Mistral7B on Python Code With A Single GPU!](https://wandb.ai/byyoung3/ml-news/reports/Fine-Tuning-Mistral7B-on-Python-Code-With-A-Single-GPU---Vmlldzo1NTg0NzY5)
+
+---
+
+## Alex Jacobs
+
+- [Mastering Integration Testing with FastAPI](https://alex-jacobs.com/posts/fastapitests/)
+
+---
+
+## Erik Marsja
+
+- [Seaborn Confusion Matrix: How to Plot and Visualize in Python](https://www.marsja.se/seaborn-confusion-matrix-how-to-plot-and-visualize-in-python/)
+
+---
+
+## Data School
+
+- [Simulate the Monty Hall problem in Python 🐐🚘🐐](https://www.dataschool.io/python-probability-simulation/)
+
+---
+
+## HackerNoon - read, write and learn about any technology
+
+- [How I Used Python and Folium to Visualize My Outdoor Activities](https://hackernoon.com/how-i-used-python-and-folium-to-visualize-my-outdoor-activities)
 
 ---
 

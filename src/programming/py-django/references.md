@@ -19,6 +19,14 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+
+### PyCharm
+
+- [Building APIs With Django REST Framework](https://blog.jetbrains.com/pycharm/2023/09/building-apis-with-django-rest-framework/)
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [Django Model Relations(Tracking the models)](https://awstip.com/django-model-relations-tracking-the-models-c03a65e8d76e)
@@ -148,6 +156,12 @@ tag:
 ## Sarah Abderemane's Website
 
 - [TIL: Django constraints](https://sarahabd.com/til/django-constraints)
+
+---
+
+## Postgres Monitoring, Database Optimization and more · pganalyze Blog
+
+- [GeoDjango and PostGIS in Django](https://pganalyze.com/blog/geodjango-postgis)
 
 ---
 

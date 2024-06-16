@@ -145,6 +145,9 @@ head:
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about React](https://dev.to/t/react)
+- [`argonauta` / React Advanced: Decoupling your components in the right way](https://dev.to/argonauta/react-advance-decoupling-your-components-in-the-right-way-4pkn)
+- [`ricardonunezio` / Making React Apps Memory Efficient | Million.js Beyond Speed](https://dev.to/ricardonunezio/millionjs-beyond-speed-making-react-apps-memory-efficient-2amn)
+- [`amritapadhy` / Best Practices for Writing Clean React Code](https://dev.to/amritapadhy/best-practices-for-writing-clean-react-code-59fm)
 - [`useRef()`가 순수 자바스크립트 객체라는 의미를 곱씹어보기](https://dev.to/dylanju/useref-3j37)
 - [Building a Jamstack app with Nuxt, Vue and FaunaDB](https://dev.to/ramigs/building-a-jamstack-app-with-nuxt-vue-and-faunadb-kg)
 - [React & Redux Project: Gomojii](https://dev.to/greedybrain/react-redux-project-gomojii-5d6i)
@@ -307,6 +310,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`@rivoltafilippo` / Mastering Frontend Interviews: A Deep Dive into React Virtualized Lists](https://medium.com/@rivoltafilippo/mastering-frontend-interviews-a-deep-dive-into-react-virtualized-lists-10600536d540)
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
 - [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
 - [Must Know JavaScript API — Page Visibility API](https://javascript.plainenglish.io/js-must-know-javascript-api-page-visibility-api-9f3e10439842)
@@ -637,6 +641,7 @@ head:
 ## Ykss
 
 - [(번역) 리액트의 use 훅과 사용 예제](https://ykss.netlify.app/translation/use_hook_in_react_and_its_use_cases/)
+- [(번역) SOLID 원칙으로 리액트 훅 작성하기](https://ykss.netlify.app/translation/write_solid_react_hooks/)
 
 ---
 
@@ -658,11 +663,12 @@ https://o-yeon.tistory.com/227
 
 ## Life Log
 
-- [10만건 이상의 데이터 in front (테이블 개선)](https://ravenkim97.tistory.com/400)
-- [Warning: Maximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.](https://ravenkim97.tistory.com/407)
-- [React 19 Beta 번역](https://ravenkim97.tistory.com/410)
-- [React Conf 2024](https://ravenkim97.tistory.com/428)
-- [`vite-plugin-react` vs `plugin-react-swc` 중 나는 무엇을 사용해야 할까?](https://ravenkim97.tistory.com/450)
+- [10만건 이상의 데이터 in front (테이블 개선)](https://ravenkim97.tistory.com/m/400)
+- [Warning: Maximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.](https://ravenkim97.tistory.com/m/407)
+- [React 19 Beta 번역](https://ravenkim97.tistory.com/m/410)
+- [React Conf 2024](https://ravenkim97.tistory.com/m/428)
+- [`vite-plugin-react` vs `plugin-react-swc` 중 나는 무엇을 사용해야 할까?](https://ravenkim97.tistory.com/m/450)
+- [ESLint: React Hook useEffect has a missing dependency: 'dispatch'. Either include it or remove the dependency array.(react-hooks/exhaustive-deps)](https://ravenkim97.tistory.com/m/460)
 
 ---
 
@@ -889,6 +895,7 @@ https://o-yeon.tistory.com/227
 
 ## Tim's Tech Blog
 
+- [React memo is good actually](https://timtech.blog/posts/react-memo-is-good-actually/)
 - [React Server Components, without a framework?](https://timtech.blog/posts/react-server-components-rsc-no-framework)
 
 ---
@@ -896,6 +903,30 @@ https://o-yeon.tistory.com/227
 ## DailyEngineering
 
 - [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
+
+---
+
+## PropelAuth - Authentication for B2B products
+
+- [Why we still use React HOCs](https://www.propelauth.com/post/why-we-have-both-react-hooks-and-hocs)
+
+---
+
+## Sudolabs - Building digital products for forward thinking companies
+
+- [React Google Maps: Drawing Tools](https://sudolabs.com/insights/react-google-maps-drawing-tools)
+
+---
+
+## Julien Thibeaut
+
+- [Create a text typing effect with React](https://www.ibelick.com/blog/create-text-typing-effect-with-react)
+
+---
+
+## Jussi Virtanen
+
+- [Styling React Select with Tailwind](https://www.jussivirtanen.fi/writing/styling-react-select-with-tailwind)
 
 ---
 

@@ -548,6 +548,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/js-nest/articles/README.md',
             asb.freecodecamp("js-nest"),
+            asb.yozm("js-nest"),
           ]
         }
       ]
@@ -1741,6 +1742,7 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/github/articles/README.md',
             asb.freecodecamp('github'),
+            asb.yozm("github"),
             asb.linecorp("github"),
           ]
         }

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/4YFdjUSn40Y2F4e1WptG3l4WPP73XRbwdSI48Vg_PaHMb0FK509MqLfym3V37eY4N58d1LlyDg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "x9pYA8_vjv0", "title": "The Click-Down - S3 Ep15 - Citrix + App Packaging" },
+    { "id": "ZhA0aYrYCOY", "title": "The Click-Down - S3 Ep16 Citrix VDA for macOS" },
+    { "id": "Dg8_uNT23sM", "title": "Citrix DaaS and Azure Hibernation - Overview and Benefits" },
+    { "id": "aTvdRX49wCE", "title": "Citrix Features Explained: Citrix Multiple Workspace URLs" },
+    { "id": "8G2aQVOkYgw", "title": "Citrix Automated Configuration Tool (ACT) - Migrate from CVAD 1912 LTSR to CVAD 2402 LTSR" },
     { "id": "BkT2tnerdRE", "title": "Citrix Features Explained - Citrix Global App Configuration Services Plugin Management" },
     { "id": "DvT8O5V7xUo", "title": "The Click-Down - S3 Ep6: Citrix and Nutanix" },
     { "id": "w4FPnOakdK0", "title": "Citrix Demo Series: Citrix HDX Plus for Windows 365 Device Posture Check" },

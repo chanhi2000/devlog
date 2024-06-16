@@ -426,7 +426,7 @@
     "topics": ["ios", "large-language-model", "llama", "llama2", "llm", "mistral", "ollama", "ollama-app", "swift"]
   }, {
     "repo": "argmaxinc/WhisperKit",
-    "desc": "Swift native on-device speech recognition with Whisper for Apple Silicon",
+    "desc": "On-device Inference of Whisper Speech Recognition Models for Apple Silicon",
     "officialSite": "https://takeargmax.com/blog/whisperkit",
     "topics": ["inference", "ios", "macos", "pretrained-models", "speech-recognition", "swift", "transformers", "visionos", "watchos", "whisper"]
   }, {

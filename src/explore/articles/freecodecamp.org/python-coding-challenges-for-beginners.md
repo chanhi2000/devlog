@@ -22,7 +22,7 @@ head:
 prev: /programming/py/articles/README.md
 date: 2024-06-04
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/pexels-pixabay-139392.jpg
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/06/pexels-pixabay-139392.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,7 +46,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/pexel
   desc="Learning Python can be challenging, especially if you're not actually writing enough code. As a beginner, you may go through lessons and tutorials without practicing on your own – and this makes it harder to learn the language. The truth is, you cannot truly learn programming without writing code. It..."
   url="https://freecodecamp.org/news/python-coding-challenges-for-beginners/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/pexels-pixabay-139392.jpg"/>
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/06/pexels-pixabay-139392.jpg"/>
 
 <!-- TODO: 작성 -->
 

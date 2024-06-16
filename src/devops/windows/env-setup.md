@@ -97,7 +97,8 @@ Copy and Paste the following to the Powershell Prompt
 @tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
 
 ```powershell
-winget install TableCloth
+winget install TableCloth;
+get-appxpackage *feedback* | remove-appxpackage;
 ```
 
 @tab <FontIcon icon="fas fa-gears"/>cmd

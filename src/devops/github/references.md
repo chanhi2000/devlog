@@ -55,6 +55,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`houseman` / Creating a great Python DevX](https://dev.to/houseman/creating-a-great-python-devx-39c6)
 - [`github` / 10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 - [`m0nica` / How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
 - [`jacktt` / Creating Dynamic `README.md` File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)

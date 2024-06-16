@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - engineering.linecorp.com
   - git
   - github
@@ -33,6 +34,16 @@ head:
   "link": "https://freecodecamp.org/news/",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -79,6 +90,32 @@ head:
   "link": "/explore/articles/freecodecamp.org/how-to-create-notice-blocks-in-markdown.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "CI/CD 개념과 깃허브 리포지터리 생성하기 | 요즘IT",
+  "desc": "CI/CD 개념과 깃허브 리포지터리 생성하기",
+  "link": "/explore/articles/yozm.wishket.com/2184.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "깃허브 액션으로 CI/CD 구현하기 | 요즘IT",
+  "desc": "깃허브 액션으로 CI/CD 구현하기",
+  "link": "/explore/articles/yozm.wishket.com/2197.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 

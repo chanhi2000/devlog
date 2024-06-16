@@ -413,13 +413,14 @@ tag:
 
 ## 기억보단 기록을
 
-- [혼란하게 진행하기](https://jojoldu.tistory.com/776)
-- [1. 페이징 성능 개선하기](https://jojoldu.tistory.com/528)
-- [Public API의 CDN 캐시](https://jojoldu.tistory.com/779)
-- [언제 이직할 회사를 고르면 좋을까?](https://jojoldu.tistory.com/778)
-- [의미에 매몰되지 않기](https://jojoldu.tistory.com/780)
-- [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/781)
-- [너무 똑똑한 사람이 되지 않기](https://jojoldu.tistory.com/785)
+- [혼란하게 진행하기](https://jojoldu.tistory.com/m/776)
+- [1. 페이징 성능 개선하기](https://jojoldu.tistory.com/m/528)
+- [Public API의 CDN 캐시](https://jojoldu.tistory.com/m/779)
+- [언제 이직할 회사를 고르면 좋을까?](https://jojoldu.tistory.com/m/778)
+- [의미에 매몰되지 않기](https://jojoldu.tistory.com/m/780)
+- [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/m/781)
+- [너무 똑똑한 사람이 되지 않기](https://jojoldu.tistory.com/m/785)
+- [진짜 개발자](https://jojoldu.tistory.com/m/787)
 
 ---
 
@@ -780,6 +781,7 @@ tag:
 - [리더십의 커뮤니케이션 – 소통](http://www.chidoo.me/index.php/2024/05/19/why-radical-communication-in-leadership/)
 - [리더십의 커뮤니케이션 – 공감](http://www.chidoo.me/index.php/2024/06/02/empathy-in-leadership/)
 - [리더십의 커뮤니케이션 – 완벽하지 않음의 인정](http://www.chidoo.me/index.php/2024/06/09/vulnerability-of-leadership/)
+- [리더십의 커뮤니케이션 – 대화하기](http://www.chidoo.me/index.php/2024/06/15/dialog-by-asking-and-listening-in-leadership/)
 
 ---
 
@@ -830,7 +832,8 @@ tag:
 
 ## 드프 DrawingProcess
 
-- [[Career] NAVER LABS가 관심 있는 것들 (네이버 1784, 디지털 트윈, 3D Recon, SLAM, ..ALIKE Solution)](https://csj000714.tistory.com/1110)
+- [[Career] NAVER LABS가 관심 있는 것들 (네이버 1784, 디지털 트윈, 3D Recon, SLAM, ..ALIKE Solution)](https://csj000714.tistory.com/m/1110)
+- [\[생각 정리\] 왜 이렇게 열심히 살까? 목표가 있는 건가?](https://csj000714.tistory.com/m/1133)
 
 ---
 
@@ -879,9 +882,9 @@ tag:
 
 ## 숲속얘기
 
-- [모질라 허브는 왜 확산에 실패했을까? XRCLOUD는 어떻게 바꿔 갈 것인가?](https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=fstory97&logId=223457715993)
+- [모질라 허브는 왜 확산에 실패했을까? XRCLOUD는 어떻게 바꿔 갈 것인가?](https://blog.naver.com/fstory97&logId=223457715993)
 
-https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&logId=
+https://blog.naver.com/&logId=
 
 ---
 
@@ -1076,6 +1079,24 @@ https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=&lo
 ## Spoqa 기술 블로그
 
 - [사기 높은 팀을 만드는 해피아워](https://spoqa.github.io/2018/10/16/happyhour.html) <!-- TODO: 작성 (/explore/articles/spoqa.github.io/happyhour.md) -->
+
+---
+
+## Learn faster, Think better, and make Smart Decisions
+
+- [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
+
+---
+
+## JusticeHui가 PS하는 블로그
+
+- [2024 팀네이버 신입 공채 Tech 직군 합격 후기](https://junhyunny.github.io/spring/spring-expression-language/)
+
+---
+
+## 코드 읽는 남자
+
+- [개발할 때 실수를 줄이는 방법](https://co1nam.tistory.com/m/98)
 
 ---
 

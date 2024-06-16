@@ -1143,4 +1143,16 @@ tag:
 
 ---
 
+## ModelFusion
+
+- [PDF Chat with Node.js, OpenAI, and ModelFusion](https://modelfusion.dev/blog/pdf-chat-nodejs/)
+
+---
+
+## Blog - kettanaito.com
+
+- [One Thing Nobody Explained To You About TypeScript](https://kettanaito.com/blog/one-thing-nobody-explained-to-you-about-typescript)
+
+---
+
 <TagLinks />

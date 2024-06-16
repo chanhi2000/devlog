@@ -42,6 +42,12 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [\[개발자를 위한 레디스\] 실시간 리더보드를 위한 Sorted Set 활용(1)](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A0%88%EB%94%94%EC%8A%A4-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A6%AC%EB%8D%94%EB%B3%B4%EA%B7%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Sorted-Set-%ED%99%9C%EC%9A%A91)
+
+---
+
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
@@ -71,6 +77,12 @@ tag:
 ## 오늘도 끄적끄적
 
 - [(Troubleshooting) 레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/index.html)
+
+---
+
+## Hide
+
+- [레디스 클러스터 모드 MGET 동작 방식(feat. Lettuce)](https://hides.tistory.com/m/1150)
 
 ---
 

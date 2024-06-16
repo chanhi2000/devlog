@@ -213,6 +213,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Lambda Functions in Python – How to Use Lambdas with Map, Filter, and Reduce",
+  "desc": "In this tutorial, we will explore the various aspects of lambda functions in Python, including their syntax, use cases, and limitations.  By understanding how to effectively utilize lambda functions, you can write more concise and efficient Python code. This will enhance your programming skills and make your codebase cleaner...",
+  "link": "/explore/articles/freecodecamp.org/lambda-functions-in-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

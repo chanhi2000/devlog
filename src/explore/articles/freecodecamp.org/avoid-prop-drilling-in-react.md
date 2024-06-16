@@ -27,7 +27,7 @@ head:
 prev: /programming/js-react/articles/README.md
 date: 2023-11-07
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2023/11/Purple-Creative-Livestream-YouTube-Thumbnail.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2023/11/Purple-Creative-Livestream-YouTube-Thumbnail.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,7 +51,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2023/11/Purpl
   desc="In order to write scalable, reusable, and maintainable applications with React, you'll need to go beyond the surface of using React components, useEffect, useContext, useState, and the like. It involves learning in detail how React works in more depth.  And if you don't properly understand these key React concepts..."
   url="https://freecodecamp.org/news/avoid-prop-drilling-in-react/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2023/11/Purple-Creative-Livestream-YouTube-Thumbnail.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2023/11/Purple-Creative-Livestream-YouTube-Thumbnail.png"/>
 
 <!-- TODO: 작성 -->
 

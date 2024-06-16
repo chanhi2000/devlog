@@ -415,15 +415,19 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
-```component VPCard
-{
-  "title": "Chocolatey Software | Packages",
-  "desc": "Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. Chocolatey integrates w/SCCM, Puppet, Chef, etc. Chocolatey is trusted by businesses to manage software deployments.",
-  "link": "https://community.chocolatey.org/packages",
-  "logo": "https://community.chocolatey.org/content/images/global-shared/logo.svg",
-  "background": "rgba(18,32,43,0.2)"
-}
-```
+<SiteInfo
+  name="Chocolatey Software | Packages"
+  desc="Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. Chocolatey integrates w/SCCM, Puppet, Chef, etc. Chocolatey is trusted by businesses to manage software deployments."
+  url="https://community.chocolatey.org/packages"
+  logo="https://community.chocolatey.org/content/images/global-shared/logo.svg"
+  preview="https://community.chocolatey.org/content/images/global-shared/facebook-share.png"/>
+
+<SiteInfo
+  name="Browse the winget repository - winstall"
+  desc="Bulk install Windows apps quickly with Windows Package Manager."
+  url="https://winstall.app/"
+  logo="https://winstall.app/logo192.png"
+  preview="https://winstall.app/cover.png"/>
 
 ```component VPCard
 {

@@ -2354,5 +2354,15 @@
     "desc": "The Abstraction and Reasoning Corpus",
     "officialSite": "",
     "topics": ["artificial-intelligence", "intelligence-testing", "program-synthesis", "psychometrics"]
+  }, {
+    "repo": "hvianna/audioMotion-analyzer",
+    "desc": "High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.",
+    "officialSite": "https://audioMotion.dev",
+    "topics": ["audio-analysis", "audio-visualizer", "javascript", "spectrum-analyser", "spectrum-analyzer", "web-audio"]
+  }, {
+    "repo": "evidence-dev/evidence",
+    "desc": "Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown",
+    "officialSite": "https://evidence.dev",
+    "topics": ["analytics", "business-intelligence", "dashboard", "data-engineering", "data-science", "data-visualization", "dbt", "duckdb", "exploratory-data-analysis", "finance", "open-source", "self-hosted", "sql", "statistics", "svelte", "tailwindcss", "webassembly"]
   }
 ]

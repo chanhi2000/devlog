@@ -334,6 +334,12 @@ tag:
 
 ---
 
+## 개발자스럽다
+
+- [구글 크롬의 중간자 공격(MITM) 탐지 기능은 무엇인가?](https://blog.gaerae.com/2017/09/chrome-63-will-detect-and-warn-users-of-mitm-attacks.html)
+
+---
+
 ## Project(s)
 
 ```component VPCard

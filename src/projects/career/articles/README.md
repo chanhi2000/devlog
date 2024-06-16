@@ -119,7 +119,67 @@ head:
 
 ```component VPCard
 {
-  "title": "개발자 커리어 로드맵 작성 시 고려해야 하는 3가지| 요즘IT",
+  "title": "스태프 엔지니어에게 필요한 세 가지 역량 | 요즘IT",
+  "desc": "스태프 엔지니어에게 필요한 세 가지 역량",
+  "link": "/explore/articles/yozm.wishket.com/2186.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "비개발자에게 프로그래밍을 가르칠 때 주의점 5가지 | 요즘IT",
+  "desc": "비개발자에게 프로그래밍을 가르칠 때 주의점 5가지",
+  "link": "/explore/articles/yozm.wishket.com/2188.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "개발자 주도적 성장 돕는 '커리어 프레임워크'란? | 요즘IT",
+  "desc": "개발자 주도적 성장 돕는 '커리어 프레임워크'란?",
+  "link": "/explore/articles/yozm.wishket.com/2198.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "‘혼자’보다는 ‘함께’ 학습해야 하는 이유 | 요즘IT",
+  "desc": "‘혼자’보다는 ‘함께’ 학습해야 하는 이유",
+  "link": "/explore/articles/yozm.wishket.com/2204.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "MVP 외주로 개발하려는 스타트업이 꼭 알아야 할 3가지 | 요즘IT",
+  "desc": "MVP 외주로 개발하려는 스타트업이 꼭 알아야 할 3가지",
+  "link": "/explore/articles/yozm.wishket.com/2208.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "미국 프리랜서 개발자의 커뮤니케이션 방법 | 요즘IT",
+  "desc": "미국 프리랜서 개발자의 커뮤니케이션 방법",
+  "link": "/explore/articles/yozm.wishket.com/2213.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "개발자 커리어 로드맵 작성 시 고려해야 하는 3가지 | 요즘IT",
   "desc": "개발자 커리어 로드맵 작성 시 고려해야 하는 3가지",
   "link": "/explore/articles/yozm.wishket.com/2230.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 

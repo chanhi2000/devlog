@@ -55,6 +55,16 @@ head:
 
 ```component VPCard
 {
+  "title": "MySQL 타임스탬프와 Y2K38 문제 | 요즘IT",
+  "desc": "MySQL 타임스탬프와 Y2K38 문제",
+  "link": "/explore/articles/yozm.wishket.com/2209.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "MySQL 쿼리 튜닝의 첫걸음 | 요즘IT",
   "desc": "MySQL 쿼리 튜닝의 첫걸음",
   "link": "/explore/articles/yozm.wishket.com/2260.md",

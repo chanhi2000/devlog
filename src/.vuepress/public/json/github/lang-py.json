@@ -5534,5 +5534,20 @@
     "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
     "officialSite": "https://huggingface.co/docs/diffusers",
     "topics": ["deep-learning", "diffusion", "flax", "hacktoberfest", "image-generation", "image2image", "jax", "latent-diffusion-models", "pytorch", "score-based-generative-modeling", "stable-diffusion", "stable-diffusion-diffusers", "text2image"]
+  }, {
+    "repo": "Anjok07/ultimatevocalremovergui",
+    "desc": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "officialSite": "",
+    "topics": ["audio", "instrumental", "karaoke", "kareokee", "music", "pytorch", "separation", "source", "spectrogram", "vocal", "vocal-remover", "vocals"]
+  }, {
+    "repo": "pymc-devs/pymc",
+    "desc": "Bayesian Modeling and Probabilistic Programming in Python",
+    "officialSite": "https://docs.pymc.io/",
+    "topics": ["bayesian-inference", "mcmc", "probabilistic-programming", "pytensor", "python", "statistical-analysis", "variational-inference"]
+  }, {
+    "repo": "NVIDIA/warp",
+    "desc": "A Python framework for high performance GPU simulation and graphics",
+    "officialSite": "https://nvidia.github.io/warp/",
+    "topics": []
   }
 ]

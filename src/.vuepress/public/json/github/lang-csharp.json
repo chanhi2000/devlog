@@ -399,5 +399,10 @@
     "desc": "Facilitates simple asynchronous messaging in dotnet apps.",
     "officialSite": "",
     "topics": ["async", "csharp", "dotnet", "efcore", "messaging", "outbox", "scheduler", "transactional"]
+  }, {
+    "repo": "Stability-AI/StableSwarmUI",
+    "desc": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+    "officialSite": "",
+    "topics": ["ai", "image-generation", "stable-diffusion", "stablediffusion", "ui"]
   }
 ]

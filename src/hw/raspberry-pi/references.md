@@ -27,4 +27,16 @@ head:
 
 ---
 
+## Louwrentius
+
+- [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
+
+---
+
+## axio.ms
+
+- [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
+
+---
+
 <TagLinks />

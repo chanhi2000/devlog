@@ -117,6 +117,16 @@ head:
 
 ```component VPCard
 {
+  "title": "CI/CD 개념과 깃허브 리포지터리 생성하기 | 요즘IT",
+  "desc": "CI/CD 개념과 깃허브 리포지터리 생성하기",
+  "link": "/explore/articles/yozm.wishket.com/2184.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Git Internal API를 활용한 .git 탐험 | 요즘IT",
   "desc": "Git Internal API를 활용한 .git 탐험",
   "link": "/explore/articles/yozm.wishket.com/2293.md",

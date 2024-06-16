@@ -48,7 +48,7 @@ isOriginal: false
   "desc": "Inferred vs explicit relationships",
   "link": "https://hackingwithswift.com/quick-start/swiftdata/inferred-vs-explicit-relationships", 
   "logo": "https://hackingwithswift.com/favicon.svg",
-  swiftdata/how-to-index-swiftdata-properties-for-faster-searching2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

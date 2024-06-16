@@ -22,6 +22,9 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/learn-essential-swift-in-one-hour.html
 prev: /programming/swift/articles/README.md
+date: 2022-01-31
+isOriginal: false
+cover: https://www.hackingwithswift.com/uploads/swift-evolution-5.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -40,15 +43,12 @@ prev: /programming/swift/articles/README.md
 
 ---
 
-```component VPCard
-{
-  "title": "HACKING WITH SWIFT",
-  "desc": "Learn essential Swift in one hour",
-  "link": "https://hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour",
-  "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
-}
-```
+<SiteInfo
+  name="HACKING WITH SWIFT"
+  desc="Learn essential Swift in one hour"
+  url="https://hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour"
+  logo="https://hackingwithswift.com/favicon.svg"
+  preview="https://www.hackingwithswift.com/uploads/swift-evolution-5.jpg"/>
 
 In this article I'm going to introduce you to the fundamentals of the Swift programming language in about one hour.
 

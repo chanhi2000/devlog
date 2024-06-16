@@ -159,6 +159,16 @@ head:
 
 ```component VPCard
 {
+  "title": "프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger | 요즘IT",
+  "desc": "프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger",
+  "link": "/explore/articles/yozm.wishket.com/2195.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "스프링 부트 서버 모니터링하는 법 | 요즘IT",
   "desc": "스프링 부트 서버 모니터링하는 법",
   "link": "/explore/articles/yozm.wishket.com/2280.md",

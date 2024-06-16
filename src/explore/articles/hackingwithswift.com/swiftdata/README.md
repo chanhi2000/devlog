@@ -18,9 +18,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > SwiftUI by Example
+      content: Article(s) > SwiftData by Example
     - property: og:description
-      content: SwiftUI by Example
+      content: SwiftData by Example
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftdata/
 ---
@@ -30,8 +30,8 @@ head:
 ```component VPCard
 {
   "title": "HACKING WITH SWIFT",
-  "desc": "SwiftUI by Example",
-  "link": "https://hackingwithswift.com/explore/articles/hackingwithswift.com/swiftdata",
+  "desc": "SwiftData by Example",
+  "link": "https://hackingwithswift.com/swiftdata",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

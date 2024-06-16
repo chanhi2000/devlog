@@ -26,7 +26,7 @@ head:
 prev: /programming/py/articles/README.md
 date: 2024-06-10
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w600/2024/06/python-install-errors.png
+cover: https://freecodecamp.org/news/content/images/size/w600/2024/06/python-install-errors.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -60,7 +60,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w600/2024/06/python
   desc="Python's popularity keeps growing as more developers adopt it for data science and machine learning, although it is already among the most popular programming languages.  I recently wrote an article for freeCodeCamp titled 'How to Install Python on a Mac', which provides a clear guide to installing Python..."
   url="https://freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w600/2024/06/python-install-errors.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w600/2024/06/python-install-errors.png"/>
 
 <!-- TODO: 작성 -->
 

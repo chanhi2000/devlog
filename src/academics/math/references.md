@@ -400,6 +400,8 @@ head:
 - [힘이 축에 대해 가하는 모멘트 계산하기](https://lazymatlab.tistory.com/m/229)
 - [자연수의 개수와 짝수의 개수가 같다고?](https://lazymatlab.tistory.com/m/237)
 - [수학에서의 역설](https://lazymatlab.tistory.com/m/239)
+- [흰색은 어떻게 만들어지는가?](https://lazymatlab.tistory.com/m/242)
+- [CIE chromaticity diagram 이해하기](https://lazymatlab.tistory.com/m/243)
 
 ---
 
@@ -506,6 +508,12 @@ head:
 ## cr.openjdk.org Server
 
 - [encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
+
+---
+
+## Sketching with Math and Quasi Physics
+
+- [Fluid Simulation 流体シミュレーション](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
 
 ---
 

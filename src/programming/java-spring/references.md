@@ -36,6 +36,12 @@ head:
 
 - [Spring Boot 3.2 Release Notes](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.2-Release-Notes)
 
+## <FontIcon icon="iconfont icon-spring"/>Spring
+
+- [Runtime efficiency with Spring (today and tomorrow)](https://spring.io/blog/2023/10/16/runtime-efficiency-with-spring)
+
+---
+
 ### InfoQ
 
 - [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java/)
@@ -110,9 +116,10 @@ head:
 - [`@lehdqlsl`: SpringBoot JPA Multiple Databases 설정](https://velog.io/@lehdqlsl/SpringBoot-JPA-Multiple-Databases-%EC%84%A4%EC%A0%95)
 - [`@jwpark06`: SpringBoot에 JDBC로 Postgresql 연동하기](https://velog.io/@jwpark06/SpringBoot%EC%97%90-JDBC%EB%A1%9C-Postgresql-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 - [`@stella6767`: 니들은 MSA 하지마라](https://velog.io/@stella6767/%EB%8B%88%EB%93%A4%EC%9D%80-MSA-%ED%95%98%EC%A7%80%EB%A7%88%EB%9D%BC)
-- [`@qkrtkdwns3410` - [Websocket] @MessageMapping 이란](https://velog.io/@qkrtkdwns3410/Websocket-MessageMapping-%EC%9D%B4%EB%9E%80)
-- [`@qkrtkdwns3410` - Spring-open-in-view 속성](https://velog.io/@qkrtkdwns3410/Spring-open-in-view-%EC%86%8D%EC%84%B1)
-- [`@qkrtkdwns3410` - Vue3 + Spring Data Elasticsearch 를 통한 한글 자동완성 API](https://velog.io/@qkrtkdwns3410/Vue3-Spring-Data-Elasticsearch-%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%9C%EA%B8%80-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-API)
+- [`@qkrtkdwns3410` / [Websocket] @MessageMapping 이란](https://velog.io/@qkrtkdwns3410/Websocket-MessageMapping-%EC%9D%B4%EB%9E%80)
+- [`@qkrtkdwns3410` / Spring-open-in-view 속성](https://velog.io/@qkrtkdwns3410/Spring-open-in-view-%EC%86%8D%EC%84%B1)
+- [`@qkrtkdwns3410` / Vue3 + Spring Data Elasticsearch 를 통한 한글 자동완성 API](https://velog.io/@qkrtkdwns3410/Vue3-Spring-Data-Elasticsearch-%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%9C%EA%B8%80-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-API)
+- [`@qkrtkdwns3410` / \[토비의 스프링부트\] 스프링 부트 컨테이너리스 특성 이해하기](https://velog.io/@qkrtkdwns3410/%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A6%AC%EC%8A%A4-%ED%8A%B9%EC%84%B1-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
 ### Heee's Development Blog
 
@@ -163,6 +170,7 @@ head:
 - [Chain of Responsibility Pattern](https://junhyunny.github.io/design-pattern/chain-of-responsibility-pattern/)
 - [Health Check for External Components in Actuator](https://junhyunny.github.io/spring-boot/health-check-for-external-components-in-actuator/)
 - [Spring Security Oauth2 Client for Apple](https://junhyunny.github.io/spring-boot/spring-security/spring-security-oauth2-client-for-apple/)
+- [Spring Expression Language](https://junhyunny.github.io/spring/spring-expression-language/)
 
 ### 연로그
 
@@ -224,10 +232,12 @@ head:
 - [\[내일배움캠프 29일차 TIL\] entity 연관관계 프로젝트 적용](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-29%EC%9D%BC%EC%B0%A8-TIL-entity-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9A%A9)
 - [\[내일배움캠프 6주차 WIL\] 개인과제(재제출) & Spring(JWT, Entity 연관관계)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-6%EC%A3%BC%EC%B0%A8-WIL-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%EC%9E%AC%EC%A0%9C%EC%B6%9C-SpringJWT-Entity-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84)
 - [\[내일배움캠프 32일차 TIL\] JWT 활용 과제 제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-32%EC%9D%BC%EC%B0%A8-TIL-JWT-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C)
+- [\[내일배움캠프 40일차 TIL\] 통합 테스트와 Spring AOP(어드바이스, 포인트컷)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-40%EC%9D%BC%EC%B0%A8-TIL-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80-Spring-AOP%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%8A%A4-%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%BB%B7)
 
 ### Hide
 
 - [카카오 JDK 21의 신기능 Virtual Thread 알아보기 정리](https://hides.tistory.com/1146)
+- [레디스 클러스터 모드 MGET 동작 방식(feat. Lettuce)](https://hides.tistory.com/m/1150)
 
 ### Okta Developer
 
@@ -314,6 +324,7 @@ head:
 - [0. 들어가며](https://ysedeveloper.tistory.com/m/entry/0-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0-1)
 - [01. 책 관리 프로젝트 개요](https://ysedeveloper.tistory.com/m/entry/01-%EC%B1%85-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
 - [2.1. OpenJDK 다운로드 및 설치](https://ysedeveloper.tistory.com/m/entry/21-OpenJDK-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98)
+- [3.1. 신규 프로젝트 생성 마법사 실행하기](https://ysedeveloper.tistory.com/m/entry/31-%EC%8B%A0%EA%B7%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1-%EB%A7%88%EB%B2%95%EC%82%AC-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
 
 ### Suhwan Jee's blog
 

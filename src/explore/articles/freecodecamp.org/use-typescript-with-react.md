@@ -27,7 +27,7 @@ head:
 prev: /programming/js-react/articles/README.md
 date: 2023-11-15
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2023/11/introduction_to_typescript_with_react_cover.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2023/11/introduction_to_typescript_with_react_cover.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,7 +51,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2023/11/intro
   desc="In this article, you will learn how to use TypeScript with React. By the end, you will have a solid understanding of how to write React code with TypeScript. Want to watch the video version of this tutorial? You can check out the video below: Table of Contents  *"
   url="https://freecodecamp.org/news/use-typescript-with-react/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2023/11/introduction_to_typescript_with_react_cover.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2023/11/introduction_to_typescript_with_react_cover.png"/>
 
 <!-- TODO: 작성 -->
 

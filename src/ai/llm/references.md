@@ -35,6 +35,10 @@ head:
 
 ---
 
+## NVIDIA
+
+- [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
+
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@geoffyoon-dev` - 데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy)
@@ -164,6 +168,7 @@ head:
 
 ## Ahead of AI
 
+- [Optimizing LLMs From a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 - [Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 
 ---

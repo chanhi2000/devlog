@@ -164,6 +164,7 @@ head:
 - [`beige22` / 코드로 만드는 Design System](https://beige22.medium.com/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
 - [`guleum` / 디자인 시스템을 구성하는 방법](https://medium.com/guleum/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-beefa8214884)
 - [`vingle-tech-blog` / Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
+- [`codex` / How Pinterest Scaled to 11 Million Users With Only 6 Engineers](https://medium.com/codex/how-pinterest-scaled-to-11-million-users-with-only-6-engineers-a0f62cea62b8)
 
 ---
 
@@ -172,6 +173,8 @@ head:
 - [`@broccolism` / 안전장치를 위한 안전장치를 위한 안전장치 - 6장. 광고 클릭 이벤트 집계](https://velog.io/@broccolism/%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84%EC%9E%A5%EC%B9%98-6%EC%9E%A5.-%EA%B4%91%EA%B3%A0-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A7%91%EA%B3%84)
 - [`@qkrtkdwns3410` / [가상면접으로 배우는 대규모 시스템 설계] 1장. 단일 서버 시스템 설계(1)](https://velog.io/@qkrtkdwns3410/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-1%EC%9E%A5.-%EB%8B%A8%EC%9D%BC-%EC%84%9C%EB%B2%84-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%841)
 - [`@sehyunny` / (번역) 예상치 못한 접근성 팁 소개](https://velog.io/@sehyunny/unexpected-a11y-tips)
+- `@qkrtkdwns3410` / [\[실용주의 프로그래머\] Topic 3 소프트웨어 엔트로피](https://velog.io/@qkrtkdwns3410/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-Topic-3-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%ED%8A%B8%EB%A1%9C%ED%94%BC)
+- [`@yeonns` / Cell-based Architecture에 대해 알아보자](https://velog.io/@yeonns/what-is-cell-based-architecture)
 
 ---
 
@@ -459,6 +462,12 @@ head:
 ## ziwon.github.io
 
 - [\[번역\] 최신 네트워크 로드 밸런싱 및 프록시 소개](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
+
+---
+
+## Lob!
+
+- [RESTful 설계 원칙에 대한 못다 한 이야기](https://lob-dev.tistory.com/m/90)
 
 ---
 

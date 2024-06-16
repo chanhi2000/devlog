@@ -30,7 +30,7 @@ head:
 prev: /devops/aws/articles/README.md
 date: 2024-06-03
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Level-Up-Tech-Design-Portfolio.jpg
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/Level-Up-Tech-Design-Portfolio.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -64,7 +64,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Level
   desc="Infrastructure as Code (IaC) has become a cornerstone of modern cloud resource management. It enables developers and engineers to manage their cloud resources with the same level of control and precision as application code.  When you're working with AWS, among the tools at the forefront of utilizing IaC are..."
   url="https://freecodecamp.org/news/comparing-iac-tools-aws-cdk-cloudformation-terraform/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Level-Up-Tech-Design-Portfolio.jpg"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/06/Level-Up-Tech-Design-Portfolio.jpg"/>
 
 <!-- TODO: 작성 -->
 

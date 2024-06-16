@@ -90,6 +90,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
       "learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence", // 2024-06-11
       "retrieval-augmented-generation-rag-handbook", // 2024-06-11
+      "lambda-functions-in-python", // 2024-06-14
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -281,6 +282,7 @@ export const template: SidebarInfoTemplate = {
       "learn-threejs-by-building-five-projects", // 2024-06-12
       "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
       "free-linux-crash-course-with-labs", // 2024-06-13
+      "lambda-functions-in-python", // 2024-06-14
     ]],
   ]),
 }

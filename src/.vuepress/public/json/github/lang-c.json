@@ -1039,5 +1039,10 @@
     "desc": "SerialPort for MinGW",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "dhansel/PaperTapeReader",
+    "desc": "A DIY reader for vintage 8-bit paper tapes",
+    "officialSite": "",
+    "topics": []
   }
 ]

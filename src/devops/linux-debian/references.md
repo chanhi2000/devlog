@@ -292,4 +292,12 @@ tag:
 
 - [\[Guide\] Install Intel Wireless Drivers on Linux](https://community.frame.work/t/guide-install-intel-wireless-drivers-on-linux/3948)
 
+---
+
+## Nalee와 함께 떠나는 IT이야기
+
+- [Linux Process Story](https://naleejang.tistory.com/m/276)
+
+---
+
 <TagLinks />

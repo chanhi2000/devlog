@@ -6,7 +6,73 @@ export const template: SidebarGroupItem = {
     icon: 'https://hackingwithswift.com/favicon.svg',
     children: [
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
+      '/explore/articles/hackingwithswift.com/whats-new-in-swift-6.md', // 2024-06-10
+      '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2024-06-23
       {
+        text: "What's new in Swift?",
+        collapsible: true,
+        icon: 'fa-brands fa-swift',
+        children: [
+          '/explore/articles/hackingwithswift.com/swift/README.md',
+          {
+            text: "Changes in Swift 6.0",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 5.10",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 5.9",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 5.8",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 5.7",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 5.6",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 5.5",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 1.2",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/1.2/zip.md',
+              '/explore/articles/hackingwithswift.com/swift/1.2/flatmap.md',
+              '/explore/articles/hackingwithswift.com/swift/1.2/noescape.md',
+              '/explore/articles/hackingwithswift.com/swift/1.2/static.md',
+              '/explore/articles/hackingwithswift.com/swift/1.2/constants.md',
+              '/explore/articles/hackingwithswift.com/swift/1.2/set.md',
+              '/explore/articles/hackingwithswift.com/swift/1.2/bridging.md',
+              '/explore/articles/hackingwithswift.com/swift/1.2/if-let.md',
+              '/explore/articles/hackingwithswift.com/swift/1.2/typecasting.md',
+            ]
+          }, {
+            text: "Changes in Swift 1.1",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/1.1/countelements.md',
+              '/explore/articles/hackingwithswift.com/swift/1.1/nsapplicationmain.md',
+            ]
+          },
+        ]
+      }, {
         text: 'Swift Concurrency by Example',
         collapsible: true,
         icon: 'fa-brands fa-swift',

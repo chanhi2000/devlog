@@ -26,7 +26,7 @@ head:
 prev: /programming/py/articles/README.md
 date: 2024-06-02
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Final-X3-Cover-FFC-Cover-Agent.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/Final-X3-Cover-FFC-Cover-Agent.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -60,7 +60,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Final
   desc="It's important to write clear and efficient unit tests that actually work during the software development process. Unit tests separate out individual code elements and confirm that they work as intended.  Effective unit tests not only catch errors but also help you be confident that your code can be..."
   url="https://freecodecamp.org/news/automated-unit-testing-with-testgen-llm-and-cover-agent/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Final-X3-Cover-FFC-Cover-Agent.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/06/Final-X3-Cover-FFC-Cover-Agent.png"/>
 
 <!-- TODO: 작성 -->
 

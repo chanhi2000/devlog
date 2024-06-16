@@ -337,4 +337,10 @@ head:
 
 ---
 
+## Postgres Monitoring, Database Optimization and more · pganalyze Blog
+
+- [GeoDjango and PostGIS in Django](https://pganalyze.com/blog/geodjango-postgis)
+
+---
+
 <TagLinks />

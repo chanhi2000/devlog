@@ -65,6 +65,7 @@ head:
 - [TouchGFX Failed to load native freetype library! 에러 해결 방법](https://blog.naver.com/chandong83/223451548021)
 - [인바디 체중계- 다이얼 H30NWi - 앱 활용기](https://blog.naver.com/chandong83/223456287268)
 - [NPU 2Tops개 내장된 올위너 T527 개발 보드Forlinx OKT527N-C](https://blog.naver.com/chandong83/223467499457)
+- [TouchGFX 시뮬레이터에서 STM32G4-FDCAN을 이용해 CAN 통신 예제 코드](https://blog.naver.com/chandong83/223479123055?)
 
 ---
 
@@ -230,6 +231,12 @@ head:
 ## Blog | Dan Groshev
 
 - [I really like the RP2040](https://dgroshev.com/blog/rp2040/)
+
+---
+
+## axio.ms
+
+- [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 
 ---
 

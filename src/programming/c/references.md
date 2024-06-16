@@ -280,7 +280,7 @@ tag:
 
 ## [ 소프트웨어 개발자 이야기 Vol.3 ]
 
-- [[ Embedded C Coding Standard ]](PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=cybervictor008&logNo=223416969741)
+- [[ Embedded C Coding Standard ]](cybervictor008/223416969741)
 
 ---
 
@@ -401,6 +401,21 @@ tag:
 ## jott - landing
 
 - [Collaborative ASCII Drawing With Telnet](https://jott.live/markdown/telnet_draw)
+
+---
+
+## Microsoft MVP 프로그래머 김성엽
+
+- [C 언어로 수학 그래프 그리기 - Step 1](https://blog.naver.com/tipsware/223479183116)
+- [C 언어로 수학 그래프 그리기 - Step 2](https://blog.naver.com/tipsware/223479542074)
+- [C 언어로 수학 그래프 그리기 - Step 3](https://blog.naver.com/tipsware/223479952251)
+- [C 언어로 수학 그래프 그리기 - Step 4](https://blog.naver.com/tipsware/223480328012)
+
+---
+
+## Max Bernstein
+
+- [Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models)
 
 ---
 

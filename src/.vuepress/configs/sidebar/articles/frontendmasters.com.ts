@@ -35,6 +35,7 @@ export const template: SidebarInfoTemplate = {
       "animating-dialog", // 2024-05-23
       "how-to-make-a-css-timer", // 2024-05-29
       "live-demos-of-stand-alone-web-components", // 2024-06-06
+      "one-of-the-boss-battles-of-css-is-almost-won-transitioning-to-auto", // 2024-06-12
     ]], [
     "chrome", [
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
@@ -67,6 +68,7 @@ export const template: SidebarInfoTemplate = {
       "control-javascript-promises-from-anywhere-using-promise-withresolvers", // 2024-06-05
       "live-demos-of-stand-alone-web-components", // 2024-06-06
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
+      "one-of-the-boss-battles-of-css-is-almost-won-transitioning-to-auto", // 2024-06-12
     ]]
   ])
 }

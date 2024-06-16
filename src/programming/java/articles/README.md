@@ -116,6 +116,26 @@ head:
 
 ```component VPCard
 {
+  "title": "자바 행동 패턴은 어떻게 사용해야 할까? | 요즘IT",
+  "desc": "자바 행동 패턴은 어떻게 사용해야 할까?",
+  "link": "/explore/articles/yozm.wishket.com/2190.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "좋은 유닛 테스트란 무엇일까? | 요즘IT",
+  "desc": "좋은 유닛 테스트란 무엇일까?",
+  "link": "/explore/articles/yozm.wishket.com/2206.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "알아두면 유용한 정렬 알고리즘과 시간 복잡도 분석 | 요즘IT",
   "desc": "알아두면 유용한 정렬 알고리즘과 시간 복잡도 분석",
   "link": "/explore/articles/yozm.wishket.com/2266.md",

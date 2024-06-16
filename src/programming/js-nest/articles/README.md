@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - node
   - nodejs
   - nest
@@ -37,6 +38,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -52,6 +63,22 @@ head:
   "link": "/explore/articles/freecodecamp.org/how-to-setup-typeorm-datasource-nestjs-app.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
+}
+```
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "Node.js의 새로운 파트너 NestJS는 왜 탄생했을까? | 요즘IT",
+  "desc": "Node.js의 새로운 파트너 NestJS는 왜 탄생했을까?",
+  "link": "/explore/articles/yozm.wishket.com/2215.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 

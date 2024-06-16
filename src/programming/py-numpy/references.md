@@ -54,4 +54,10 @@ head:
 
 ---
 
+## Theia Vogel's website & blog  
+
+- [I made a transformer by hand (no training!)](https://vgel.me/posts/handmade-transformer/)
+
+---
+
 <TagLinks />

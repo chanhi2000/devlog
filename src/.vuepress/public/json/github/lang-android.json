@@ -394,5 +394,20 @@
     "desc": "Seamless two-way communication between Kotlin/Native and Kotlin/JVM. Supports suspend functions, classes, interfaces, no-copy buffers and much more.",
     "officialSite": "https://opensource.deepmedia.io/knee",
     "topics": ["android", "android-library", "ffi", "ffi-bindings", "java", "jni", "jni-wrapper", "jvm", "kmp", "kotlin", "kotlin-compiler", "kotlin-compiler-plugin", "kotlin-multiplatform", "kotlin-native", "multiplatform", "ndk", "ndk-library"]
+  }, {
+    "repo": "Taewan-P/gpt_mobile",
+    "desc": "Your all-in-one Generative AI Assistant - Chat with multiple LLM models at once!",
+    "officialSite": "",
+    "topics": ["android", "anthropic", "chatbots", "chatgpt", "claude", "compose", "gemini", "google", "jetpack", "jetpack-compose", "kotlin", "openai"]
+  }, {
+    "repo": "devscast/validable",
+    "desc": "An easy-to-use text field validator for Kotlin & Jetpack compose.",
+    "officialSite": "https://devscast.github.io/validable",
+    "topics": ["android", "jetpack-compose", "kotlin", "kotlin-library"]
+  }, {
+    "repo": "sergejsha/knot",
+    "desc": "Unidirectional reactive state container for Android & Kotlin",
+    "officialSite": "",
+    "topics": ["android", "android-architecture", "kotlin", "kotlin-android", "mvi-android", "mvi-architecture", "unidirectional-data-flow"]
   }
 ]

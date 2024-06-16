@@ -19,15 +19,16 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-swift"/>Swift
 
-- [Install Swift](https://www.swift.org/install/)
-- [Swift Summer of Code 2023 Summary](https://www.swift.org/blog/summer-of-code-2023-summary/)
-- [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift)
-- [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
-- [Introducing the Benchmark Package: Complementing Unit Tests with Performance Checks](https://www.swift.org/blog/benchmarks/)
-- [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://www.swift.org/blog/embedded-swift-examples/)
-- [Writing GNOME Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
-- [Swift Server Workgroup (SSWG)](https://www.swift.org/sswg/)
-- [Getting Started with the Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
+- [Install Swift](https://swift.org/install/)
+- [Swift Summer of Code 2023 Summary](https://swift.org/blog/summer-of-code-2023-summary/)
+- [On-device ML research with MLX and Swift](https://swift.org/blog/mlx-swift)
+- [Byte-sized Swift: Building Tiny Games for the Playdate](https://swift.org/blog/byte-sized-swift-tiny-games-playdate/)
+- [Introducing the Benchmark Package: Complementing Unit Tests with Performance Checks](https://swift.org/blog/benchmarks/)
+- [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://swift.org/blog/embedded-swift-examples/)
+- [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
+- [Swift Server Workgroup (SSWG)](https://swift.org/sswg/)
+- [Getting Started with the Static Linux SDK](https://swift.org/documentation/articles/static-linux-getting-started.html)
+- [New GitHub Organization for the Swift Project](https://swift.org/blog/swiftlang-github/)
 
 ---
 
@@ -35,6 +36,12 @@ tag:
 
 - [WebObjectsOverview](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
 - [Hello Developer: January 2024](https://developer.apple.com/news/?id=8fppguuh)
+
+---
+
+## <FontIcon icon="iconfont icon-github"/>Github
+
+- [A New Direction for Testing in Swift](https://github.com/swiftlang/swift-evolution/blob/main/visions/swift-testing.md)
 
 ---
 
@@ -229,10 +236,11 @@ tag:
 
 ## Donny Wals
 
-- [Designing APIs with typed throws in Swift](https://www.donnywals.com/designing-apis-with-typed-throws-in-swift/)
-- [Everything you need to know about Swift 5.10](https://www.donnywals.com/everything-you-need-to-know-about-swift-5-10)
-- [Making your SwiftData models Codable](https://www.donnywals.com/making-your-swiftdata-models-codable)
-- [Actor reentrancy in Swift explained](https://www.donnywals.com/actor-reentrancy-in-swift-explained)
+- [Designing APIs with typed throws in Swift](https://donnywals.com/designing-apis-with-typed-throws-in-swift/)
+- [Everything you need to know about Swift 5.10](https://donnywals.com/everything-you-need-to-know-about-swift-5-10)
+- [Making your SwiftData models Codable](https://donnywals.com/making-your-swiftdata-models-codable)
+- [Actor reentrancy in Swift explained](https://donnywals.com/actor-reentrancy-in-swift-explained)
+- [Using iOS 18’s new TabView with a sidebar](https://donnywals.com/using-ios-18s-new-tabview-with-a-sidebar)
 
 ---
 
@@ -300,6 +308,8 @@ tag:
 
 ## Swift with Majid
 
+- [Thread safety in Swift with actors](https://swiftwithmajid.com/2023/09/19/thread-safety-in-swift-with-actors/)
+- [Mastering charts in SwiftUI. Pie and Donut charts.](https://swiftwithmajid.com/2023/09/26/mastering-charts-in-swiftui-pie-and-donut-charts/)
 - [Introducing SwiftUI on visionOS](https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS/)
 - [visionOS ornaments in SwiftUI](https://swiftwithmajid.com/2024/01/30/visionos-ornaments-in-swiftui)
 - [Discovering Swift Algorithms package](https://swiftwithmajid.com/2024/02/13/discovering-swift-algorithms-package/)
@@ -368,6 +378,7 @@ tag:
 - [[ADR][가상] 아키텍처 의사 결정 기록: Package 접근제어자 사용](https://minsone.github.io/architecture-decision-record-seperate-network-api-module)
 - [[iOS][SwiftPM][Xcode 13.0] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
 - [\[Swift 5.10\] Nested Protocol With RIBs](https://minsone.github.io/swift-nested-protocol-with-ribs)
+- [\[Swift 5.9+\] Generic과 Noncopyable을 활용하여 보다 안전한 상태머신을 만들기](https://minsone.github.io/swift-type-safe-state-machine-using-generics-noncopyable)
 
 ---
 
@@ -702,6 +713,24 @@ tag:
 ## Mobile System Design
 
 - [Designing a Declarative API](https://www.mobilesystemdesign.com/blog/declarative-api-design/)
+
+---
+
+## 주코의 iOS 개발일기
+
+- [\[iOS/Swift\] Invalid MinimumOSVersion. Firebase](https://ohwhatisthis.tistory.com/m/43)
+
+---
+
+## Helge Heß – Helge Heß – Software engineer.
+
+- [`@Model` for CoreData](https://www.alwaysrightinstitute.com/managedmodels/)
+
+---
+
+## Swift Senpai - It's All About iOS Development
+
+- [Understanding Container Background for Widget in iOS 17](https://swiftsenpai.com/development/widget-container-background/)
 
 ---
 

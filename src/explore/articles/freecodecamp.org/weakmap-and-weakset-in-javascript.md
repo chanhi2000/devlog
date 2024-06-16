@@ -22,7 +22,7 @@ head:
 prev: /programming/js/articles/README.md
 date: 2024-06-07
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation.png
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,7 +46,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/Ivory
   desc="JavaScript offers a number of tools for organizing and managing data. And while developers often use widely recognized tools like Maps and Sets, they may often overlook certain other valuable resources.  For example, are you familiar with WeakMap and WeakSet? They're special tools in JavaScript that help store and..."
   url="https://freecodecamp.org/news/weakmap-and-weakset-in-javascript/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation.png"/>
 
 <!-- TODO: 작성 -->
 

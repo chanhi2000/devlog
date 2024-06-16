@@ -122,4 +122,10 @@ head:
 
 ---
 
+## pdf(s)
+
+<PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />
+
+---
+
 <TagLinks />

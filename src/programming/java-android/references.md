@@ -85,6 +85,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`androiddevelopers` / What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43)
 - [Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
 - [How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
 - [\[안드로이드\]YouTube Player API를 사용하면 안되는 3가지이유](https://medium.com/prnd/youtube-player-api%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3%EA%B0%80%EC%A7%80-c1a01321bf2)
@@ -132,6 +133,8 @@ tag:
 - [`insert-koin` / Injecting your Compose applications with Koin — From Android to Multiplatform](https://blog.insert-koin.io/injecting-your-compose-applications-with-koin-c9c8b1166702)
 - [`khubaibkhan` / Getting Started with Compose Multiplatform and Koin: A Practical Guide](https://khubaibkhan-4.medium.com/getting-started-with-compose-multiplatform-and-koin-a-practical-guide-324864e13f5f)
 - [`marlonlom` / Adapt Kotlin 2.0 in Android applications](https://marlonlom.medium.com/adapt-kotlin-2-0-in-android-applications-340c2713d387)
+- [`mmartosdev` / Web-based drag-and-drop in Compose Multiplatform](https://medium.com/@mmartosdev/web-based-drag-and-drop-in-compose-multiplatform-b4d7e2a0529d)
+- [`kerry.bisset` / Modernizing Application Settings in Kotlin Multiplatform with DataStore and Koin](https://medium.com/@kerry.bisset/modernizing-application-settings-in-kotlin-multiplatform-with-datastore-and-koin-b1156229fd57)
 
 ---
 
@@ -153,6 +156,12 @@ tag:
 
 - [`@baealex` - 안드로이드 폰을 개발 서버로 만들기](https://blex.me/@baealex/development-environment-within-android)
 - [`@baealex` - termux 'process completed signal 9 press enter' 해결](https://blex.me/@baealex/how-to-fix-termux-process-completed-signal-9)
+
+---
+
+## Substack
+
+- [Kotlin and Variance: Navigating Type Relationships](https://verbosemode.dev/p/kotlin-and-variance-navigating-type)
 
 ---
 
@@ -210,6 +219,7 @@ tag:
 - [\[정리\] Compose 가이드 문서 ~ Images and graphics](https://pluu.github.io/blog/android/2024/06/02/compose/)
 - [\[정리\] Compose 가이드 문서 ~ 접근성](https://pluu.github.io/blog/android/2024/06/06/compose-accessibility/)
 - [\[정리\] Compose 가이드 문서 ~ Animation](https://pluu.github.io/blog/android/2024/06/06/compose/)
+- [\[정리\] Compose 가이드 문서 ~ 터치&입력](https://pluu.github.io/blog/android/2024/06/15/compose/)
 
 ---
 
@@ -463,6 +473,12 @@ tag:
 ## PowerSync: Postgres and SQLite sync layer
 
 - [Using Kotlin Multiplatform with KMMBridge and SKIE to publish a native Swift SDK](https://www.powersync.com/blog/using-kotlin-multiplatform-with-kmmbridge-and-skie-to-publish-a-native-swift-sdk)
+
+---
+
+## Daniel Perez
+
+- [A Pragmatic Introduction To Dagger on Android Part 1: Why use Dagger?](https://danperez.dev/blog/1)
 
 ---
 

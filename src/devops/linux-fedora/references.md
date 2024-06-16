@@ -51,4 +51,10 @@ tag:
 
 ---
 
+## Nalee와 함께 떠나는 IT이야기
+
+- [Linux Process Story](https://naleejang.tistory.com/m/276)
+
+---
+
 <TagLinks />

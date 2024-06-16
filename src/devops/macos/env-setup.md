@@ -160,6 +160,20 @@ Install the following(s)
   logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/45/0b/5c450ba9-9f82-9e9d-8c30-a6ba950adf91/AppIcon-0-0-85-220-0-0-4-0-2x.png/492x0w.webp"
   preview="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/63/d7/7e/63d77eba-8664-a173-6b45-33ee72128440/3db67eb9-a5de-4fa6-a90c-ae4754e8dbf8_previews1.png/1286x0w.webp"/>
 
+<SiteInfo
+  name="Dependencies "
+  desc="Analyze, explore, and share"
+  url="https://apps.apple.com/us/app/dependencies/id1538972026"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/76/25/337625f1-0606-e27c-bf0a-200dacdcd653/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/230x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/22/cf/1d/22cf1d7f-9297-4ee3-7f94-d1460a1bfcb6/e04c9b19-1505-4136-9646-c86c80f6667c_Dependencies_Mac_EN_3.png/313x0w.webp"/>
+
+<SiteInfo
+  name="MarkChart - Mermaid Preview 4+"
+  desc="Markdown diagrams"
+  url="https://apps.apple.com/us/app/markchart-mermaid-preview/id6475648822"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/52/9d/bf529dcc-fdf8-1e8e-9e47-ea18496d1510/AppIcon-0-0-85-220-0-4-0-2x-P3.png/217x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8e/1e/85/8e1e8559-a164-fb75-ea13-0603a826fd03/0bf6f663-ef17-4000-964d-e605cfd45476_MarkChart_Mac_EN_1.png/217x0w.webp"/>
+
 ### B3. Use `mas` to install
 
 ```sh

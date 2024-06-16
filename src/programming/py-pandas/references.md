@@ -61,4 +61,16 @@ head:
 
 ---
 
+## Ponder | Pandas at Scale
+
+- [Professional Pandas: Handling Missing Data With Pandas Dropna](https://ponder.io/professional-pandas-handling-missing-data-with-pandas-dropna/)
+
+---
+
+## HackerNoon - read, write and learn about any technology
+
+- [How I Used Python and Folium to Visualize My Outdoor Activities](https://hackernoon.com/how-i-used-python-and-folium-to-visualize-my-outdoor-activities)
+
+---
+
 <TagLinks />

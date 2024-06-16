@@ -429,7 +429,7 @@ https://www.joinc.co.kr/w/Site
 {
   "title": " 엑셀 교육 과정 목록 &  포스팅 기준 [2024.05.24]",
   "desc": "키샤의 IT 핵심요약",
-  "link": "https://blog.naver.com/PostView.nhn?redirect=Dlog&widgetTypeCall=true&blogId=kishawing&logNo=223440076129",
+  "link": "https://blog.naver.com/kishawing/223440076129",
   "logo": "/explore/articles/blog.naver.com/favicon.ico",
   "background": "rgba(237,126,2,0.2)"
 }

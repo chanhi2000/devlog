@@ -365,6 +365,27 @@ tag:
 }
 ```
 
+<SiteInfo
+  name="WWDC Notes | Documentation"
+  desc="Session notes shared by the community for the community."
+  url="https://wwdcnotes.github.io/WWDCNotes/documentation/wwdcnotes/"
+  logo="https://wwdcnotes.github.io/WWDCNotes/favicon.ico"
+  preview="https://wwdcnotes.github.io/WWDCNotes/developer-og.jpg"/>
+
+<SiteInfo
+  name="WWDC24 | Apple Developer Documentation"
+  desc="Highlights of new technologies introduced at WWDC24."
+  url="https://developer.apple.com/documentation/Updates/wwdc2024"
+  logo="https://developer.apple.com/favicon.ico"
+  preview="https://developer.apple.com/tutorials/developer-og.jpg"/>
+
+<SiteInfo
+  name="Blog | Compositional IT"
+  desc="Functional First, Cloud Ready consultancy"
+  url="https://www.compositional-it.com/news-blog/"
+  logo="https://www.compositional-it.com/wp-content/themes/compositionalit/static/min/img/favicon.png"
+  preview="https://www.compositional-it.com/wp-content/themes/compositionalit/static/min/img/placeholders/hero.jpg"/>
+
 https://www.techmeme.com/
 https://gracefullight.dev/archive/
 https://interestingengineering.com/
@@ -767,6 +788,13 @@ https://paperlined.org/
   preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
 
 <SiteInfo
+  name="Spring | Blog"
+  desc="Level up your Java code and explore what Spring can do for you."
+  url="https://spring.io/blog"
+  logo="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8"
+  preview="https://spring.io/img/og-spring.png"/>
+
+<SiteInfo
   name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
   desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
   url="https://blog.logrocket.com/"
@@ -851,6 +879,51 @@ https://paperlined.org/
   url="https://techbeamers.com"
   logo="https://techbeamers.com/wp-content/uploads/2024/04/cropped-techbeamers-icon-32x32.png"
   preview="https://techbeamers.com/wp-content/uploads/2023/09/techbeamers_fb.png"/>
+
+<SiteInfo
+  name="NVIDIA Blog"
+  desc="Keep up to date with the latest news from the world leader in accelerated computing."
+  url="https://blogs.nvidia.com/"
+  logo="https://blogs.nvidia.com/favicon.ico"
+  preview="https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg"/>
+
+<SiteInfo
+  name="Stripe Blog: Online Payment Solutions Blog"
+  desc="Follow the Stripe blog to learn about new product features, the latest in technology, payment solutions, and business initiatives."
+  url="https://stripe.com/blog"
+  logo="https://images.ctfassets.net/fzn2n1nzq965/2EOOpI2mMZgHYBlbO44zWV/5a6c5d37402652c80567ec942c733a43/favicon.png?w=180&h=180"
+  preview="https://images.ctfassets.net/fzn2n1nzq965/1GdeUNWpnN1rxEKVgKy8dL/3eb96b4ae1ffb87717c384fe36141a1a/blog-stripe-default-social-card.png?q=80"/>
+
+<SiteInfo
+  name="Speednet - we build software"
+  desc="We build software and eliminate technological friction to help you unlock and demonstrate value to your customers."
+  url="https://speednetsoftware.com/"
+  logo="https://speednetsoftware.com/app/uploads/2023/09/cropped-favicon-192x192.png"
+  preview="https://speednetsoftware.com/app/uploads/2023/11/SEO_speednetpl-min.png"/>
+
+<SiteInfo
+  name="Let's Build UI"
+  desc="Practical examples for modern frontend developers."
+  url="https://www.letsbuildui.dev/"
+  logo="https://www.letsbuildui.dev/content/images/size/w256h256/format/png/2023/08/favicon.svg"
+  preview="https://www.letsbuildui.dev/content/images/2023/08/og-default-1.png"/>
+
+```component VPCard
+{
+  "title": "The place for .NET enthusiasts, Azure lovers, and backend developers | Code4IT",
+  "desc": "Code4IT - a blog for .NET enthusiasts, Azure lovers, and Backend developers",
+  "link": "https://www.code4it.dev/",
+  "logo": "https://www.code4it.dev/img/favicon.png",
+  "background": "rgba(72,138,153,0.2)"
+}
+```
+
+<SiteInfo
+  name="Data School"
+  desc="Launch a data science career!"
+  url="https://www.dataschool.io/"
+  logo="https://www.dataschool.io/content/images/size/w256h256/2019/02/favicon-192x192.png"
+  preview="https://www.dataschool.io/content/images/2014/12/DS_FINAL.png"/>
 
 <!-- @end Tech Blog -->
 
