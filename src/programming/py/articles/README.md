@@ -223,6 +223,36 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How the Black-Scholes Equation Works – Explained with Python Code Examples",
+  "desc": "The Black-Scholes Equation is probably one of the most influential equations that nobody has heard about...",
+  "link": "/explore/articles/freecodecamp.org/how-the-black-scholes-equation-works-python-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Handle KeyErrors in Python – with Code Examples",
+  "desc": "When working with dictionaries in Python, you’d often run into KeyError  exceptions. Dictionaries are built-in data structures of key value pairs. So you can look up a value—in constant time—using the corresponding key like so: dict[key] returns  value. But what if the key doesn't exist in the dictionary...",
+  "link": "/explore/articles/freecodecamp.org/how-to-handle-keyerror-exceptions-in-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "First-Class Functions, Higher-Order Functions, and Closures in Python – Explained with Code Examples",
+  "desc": "In modern programming, it's important to understand concepts like first-class functions, higher-order functions, and closures. These ideas help us write flexible and efficient code. They're also the building blocks for many advanced coding techniques. First-class functions and higher-order functions allow us to treat functions as variables, making our code more...",
+  "link": "/explore/articles/freecodecamp.org/first-class-functions-and-closures-in-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

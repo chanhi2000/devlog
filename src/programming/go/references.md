@@ -325,4 +325,16 @@ tag:
 
 ---
 
+## usmannk
+
+- [Sei](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
+
+---
+
+## junior_datalist
+
+- [예시를 통한 Go 객체 생성 이해하기](https://junior-datalist.tistory.com/m/377)
+
+---
+
 <TagLinks />

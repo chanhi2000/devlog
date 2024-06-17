@@ -233,11 +233,12 @@ head:
 - [[JavaScript] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/m/1062)
 - [[JavaScript] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
 - [[JavaScript] 자바스크립트 ==과 ===의 차이에 대하여](https://coding-factory.tistory.com/m/1064)
-- [\[JavaScript\] 자바스크립트 문자열을 숫자로 형 변환하는 3가지 방법](https://coding-factory.tistory.com/m/1068)
 - [\[JavaScript\] 자바스크립트 문자열 채우기 (`padStart`, `padEnd`)](https://coding-factory.tistory.com/m/1067)
-- [\[JavaScript\] 자바스크립트 배열에 요소 추가 / 삭제하는 다양한 방법](https://coding-factory.tistory.com/m/1071)
+- [\[JavaScript\] 자바스크립트 문자열을 숫자로 형 변환하는 3가지 방법](https://coding-factory.tistory.com/m/1068)
 - [\[JavaScript\] 자바스크립트 숫자를 문자열로 형 변환하는 4가지 방법](https://coding-factory.tistory.com/1069)
 - [\[JavaScript\] 자바스크립트 반올림, 올림, 버림 방법 - 소수점 2자리까지 출력](https://coding-factory.tistory.com/m/1070)
+- [\[JavaScript\] 자바스크립트 배열에 요소 추가 / 삭제하는 다양한 방법](https://coding-factory.tistory.com/m/1071)
+- [\[JavaScript\] 자바스크립트 배열(array) 합치는 간단한 방법](https://coding-factory.tistory.com/m/1072)
 
 ---
 
@@ -464,6 +465,18 @@ head:
 ## Sketching with Math and Quasi Physics
 
 - [Fluid Simulation 流体シミュレーション](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
+
+---
+
+## braindump incorporated
+
+- [Building an AI game studio: what we’ve learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
+
+---
+
+## hoonzi text
+
+- [Identifier '변수' has already been declared check](https://hoonzi-text.tistory.com/m/136)
 
 ---
 

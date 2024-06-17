@@ -103,6 +103,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How Auto Scaling and Load Balancing Work in Software Architecture",
+  "desc": "While auto scaling and load balancing are two separate techniques in software architecture management, they are often implemented simultaneously. In the software architecture wild, one rarely exists without the other, as they complement each other to handle unpredictable changes in demand. This article will explain how auto scaling and load...",
+  "link": "/explore/articles/freecodecamp.org/auto-scaling-and-load-balancing.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
+
 ---
 
 ## 요즘IT

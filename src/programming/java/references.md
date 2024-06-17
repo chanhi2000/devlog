@@ -94,6 +94,7 @@ tag:
 - [`@qkrtkdwns3410` / \[이펙티브 자바 아이템58\] 전통적인 for 문보다는 for-each 문을 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C58-%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-for-%EB%AC%B8%EB%B3%B4%EB%8B%A4%EB%8A%94-for-each-%EB%AC%B8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 - [`@qkrtkdwns3410` / \[자바\] BufferedWriter 에서는 왜 정수를 String 으로 변환해서 출력해야만 하는가?](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-BufferedWriter-%EC%97%90%EC%84%9C%EB%8A%94-%EC%99%9C-%EC%A0%95%EC%88%98%EB%A5%BC-String-%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%B4%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94%EA%B0%80)
 - [`@qkrtkdwns3410` / \[이펙티브 자바 아이템 46\] 스트림에서는 부작용 없는 함수를 사용하라.](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C-46-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%97%90%EC%84%9C%EB%8A%94-%EB%B6%80%EC%9E%91%EC%9A%A9-%EC%97%86%EB%8A%94-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
+- [`@qkrtkdwns3410` / \[자바\] BufferedWriter 에서는 왜 정수를 String 으로 변환해서 출력해야만 하는가?](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-BufferedWriter-%EC%97%90%EC%84%9C%EB%8A%94-%EC%99%9C-%EC%A0%95%EC%88%98%EB%A5%BC-String-%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%B4%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94%EA%B0%80)
 
 ### <FontIcon icon="iconfont icon-blex"/>BLEX
 
@@ -342,6 +343,7 @@ tag:
 ### 몽상실현개발주의
 
 - [빌더 패턴의 이해와 Java에서의 적용](https://leeiopd.tistory.com/m/entry/%EB%B9%8C%EB%8D%94-%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-Java%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%81%EC%9A%A9)
+- [Java 컬렉션 프레임워크 인터페이스와 상속 관계](https://leeiopd.tistory.com/m/entry/Java-%EC%BB%AC%EB%A0%89%EC%85%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80-%EC%83%81%EC%86%8D-%EA%B4%80%EA%B3%84)
 
 ### 백엔드 개발자 웨지 블로그
 
@@ -462,6 +464,26 @@ tag:
 
 - [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0/) <!-- TODO: 작성 (/explore/articles/popit.kr/reduce-response-time-using-concurrency-in-msa.md) -->
 
+### Igor's Techno Club
+
+- [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
+
+### JuHyeong.dev
+
+- [도메인 엔티티와 영속성 엔티티](https://dkswnkk.tistory.com/m/753)
+
+### 이모저모 개발 블로그
+
+- [\# 15_Parameter_파최몇_파라미터_최대_몇개까지_가능](https://hj0216.tistory.com/m/921)
+
+### Lifealong
+
+- [Java 가상 스레드(Virtual Thread)의 이해: 주의할점, Scope Value, 구조화된 동시성 -2](https://0soo.tistory.com/m/260)
+
+### 기억 전달자
+
+- [당신이 작성한 자바 코드가 실행되기 까지의 과정들 - 클래스 로더 편](https://martial.tistory.com/m/8)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -483,11 +505,19 @@ tag:
 - [Test expected exceptions in Kotlin](https://stackoverflow.com/questions/30331806/test-expected-exceptions-in-kotlin/34556914)
 - [How to get String UUID in JPA and store as VARCHAR in Postgresql database?](https://stackoverflow.com/questions/76346452/how-to-get-string-uuid-in-jpa-and-store-as-varchar-in-postgresql-database)
 
+### 우아한 기술블로그
+
+- [배민광고리스팅 개발기(feat. 코프링과 DSL 그리고 코루틴)](https://techblog.woowahan.com/7349/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/7349.md) -->
+
 ### <FontIcon icon="iconfont icon-kakao"/>Kakao
 
 #### 카카오페이 기술 블로그
 
 - [MSA 환경에서 네트워크 예외를 잘 다루는 방법](https://tech.kakaopay.com/post/msa-transaction/)
+
+### Spoqa 기술 블로그
+
+- [Querydsl에서 Kotlin JDSL 으로](https://spoqa.github.io/2024/05/03/transfer-jdsl.html) <!-- TODO: 작성 (/explore/articles/spoqa.github.io/transfer-jdsl.md) -->
 
 ### Thdev
 
@@ -737,6 +767,14 @@ tag:
 ### void2unit
 
 - [Kotlin just got Virtual Threads](https://void2unit.onrender.com/post/virtualthreads-in-kotlin/)
+
+### Rlog
+
+- [돌연변이 테스트(Mutation Testing)](https://devroach.tistory.com/m/183)
+
+### Soo Story
+
+- [BlockHound - Webflux를 사용할 때 Blocking 코드가 사용되고 있는지 검출하는 방법](https://findstar.pe.kr/2023/03/25/block-hound-for-webflux/)
 
 ---
 

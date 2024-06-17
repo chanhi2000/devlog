@@ -239,5 +239,10 @@
     "desc": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
     "officialSite": "",
     "topics": ["api", "jwt", "oauth2", "security"]
+  }, {
+    "repo": "nicanorflavier/spf-dkim-dmarc-simplified",
+    "desc": "Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.",
+    "officialSite": "",
+    "topics": []
   }
 ]

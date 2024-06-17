@@ -142,4 +142,8 @@ head:
 
 ---
 
+## Chirag Gupta's Blog
+
+- [How to solve hydration error in Next.js](https://chirag-gupta.hashnode.dev/how-to-solve-hydration-error-in-nextjs)
+
 <TagLinks />

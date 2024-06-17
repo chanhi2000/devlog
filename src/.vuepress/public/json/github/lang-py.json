@@ -5549,5 +5549,10 @@
     "desc": "A Python framework for high performance GPU simulation and graphics",
     "officialSite": "https://nvidia.github.io/warp/",
     "topics": []
+  }, {
+    "repo": "AgentOps-AI/tokencost",
+    "desc": "Easy token price estimates for 400+ LLMs",
+    "officialSite": "https://agentops.ai",
+    "topics": ["analytics", "claude", "large-language-models", "llm", "observability", "openai", "price", "price-tracker", "token", "tokenization"]
   }
 ]

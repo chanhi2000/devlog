@@ -401,6 +401,7 @@ tag:
 - [사람이 하는 일](https://www.thestartupbible.com/2024/05/the-human-intelligence.html)
 - [향 후 25년](https://www.thestartupbible.com/2024/05/the-next-25-years.html)
 - [입으로 투자하기](https://www.thestartupbible.com/2024/06/the-talker-and-the-keyboarder-vc.html)
+- [한 방은 없다](https://www.thestartupbible.com/2024/06/no-such-thing-as-jackpot-in-life.html)
 
 ---
 

@@ -59,4 +59,10 @@ tag:
 
 ---
 
+## Sofiane's Blog
+
+- [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
+
+---
+
 <TagLinks />

@@ -52,6 +52,7 @@ tag:
 - [`@sindepal` / [ERROR:flutter/shell/platform/darwin/graphics/FlutterDarwinContextMetalImpeller.mm(42)] Using the Impeller rendering backend.](https://medium.com/@sindepal/error-flutter-shell-platform-darwin-graphics-flutterdarwincontextmetalimpeller-mm-42-7e6b763bc1e5)
 - [`haragoo30` / 항상 켜져 있는 태블릿 앱에 Shorebird 적용 후기](https://haragoo30.medium.com/%ED%95%AD%EC%83%81-%EC%BC%9C%EC%A0%B8%EC%9E%88%EB%8A%94-%ED%83%9C%EB%B8%94%EB%A6%BF%EC%95%B1%EC%97%90-shorebird-%EC%A0%81%EC%9A%A9-%ED%9B%84%EA%B8%B0-e312caeda363)
 - [`dan_kim` / \[번역\] Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
+- [`@cody.yun` / \[Flutter\] Riverpod 2.0: The Ultimate Guide](https://medium.com/@cody.yun/%EB%B2%88%EC%97%AD-flutter-riverpod-2-0-the-ultimate-guide-1-3-11e8a7dea9e6)
 
 ---
 
@@ -90,6 +91,18 @@ tag:
 ## 뚝딱뚝딱 모바일
 
 - [\[Flutter\]\[Error\] iOS 17 + Xcode 15에서 발생하는 Build Error](https://nkstar-ios.tistory.com/36)
+
+---
+
+## 안피곤 성장블로그
+
+- [(Flutter) Riverpod의 Provider 사용 방법](https://anpigon.tistory.com/m/359)
+
+---
+
+## Take a Chance
+
+- [Dart : isolate](https://hunderboy-ultra90.tistory.com/m/26)
 
 ---
 

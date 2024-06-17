@@ -26,9 +26,10 @@ head:
 
 ## 게으른맽랩 lazy matlab
 
-- [애증의 정규식... 1탄](https://lazymatlab.tistory.com/233)
-- [애증의 정규식... 2탄](https://lazymatlab.tistory.com/238)
-- [매트랩에서 텍스트를 컬러풀하게](https://lazymatlab.tistory.com/240)
+- [애증의 정규식... 1탄](https://lazymatlab.tistory.com/m/233)
+- [애증의 정규식... 2탄](https://lazymatlab.tistory.com/m/238)
+- [매트랩에서 텍스트를 컬러풀하게](https://lazymatlab.tistory.com/m/240)
+- [깃헙의 매트랩 파일을 MATLAB Online에서 여는 버튼 만들기](https://lazymatlab.tistory.com/m/244)
 
 ---
 

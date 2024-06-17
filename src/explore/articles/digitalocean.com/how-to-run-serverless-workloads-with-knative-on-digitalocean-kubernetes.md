@@ -2,7 +2,7 @@
 lang: ko-KR
 title: How To Run Serverless Workloads with Knative on DigitalOcean Kubernetes
 description: Article(s) > How To Run Serverless Workloads with Knative on DigitalOcean Kubernetes
-icon: fas fa-dharmachakra
+icon: iconfont icon-k8s
 category:
   - DevOps
   - VM

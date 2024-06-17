@@ -925,6 +925,39 @@ https://paperlined.org/
   logo="https://www.dataschool.io/content/images/size/w256h256/2019/02/favicon-192x192.png"
   preview="https://www.dataschool.io/content/images/2014/12/DS_FINAL.png"/>
 
+```component VPCard
+{
+  "title": "Snap Engineering Blog",
+  "desc": "Learn about Snap Engineering culture and our industry-leading innovations and achievements.",
+  "link": "https://eng.snap.com/blog",
+  "logo": "https://eng.snap.com/images/favicon.png",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
+<SiteInfo
+  name="Technology - Upvoted"
+  desc="..."
+  url="https://redditinc.com/blog/topic/technology"
+  logo="https://www.redditinc.com/assets/images/favicons/favicon-32x32.png"
+  preview="https://www.redditinc.com/assets/images/site/redditinc_external_graphic.png"/>
+
+<SiteInfo
+  name="Twitch Blog"
+  desc="Twitch Blog"
+  url="https://blog.twitch.tv/en/tags/engineering/"
+  logo="https://blog.twitch.tv/assets/icons/favicon.ico"
+  preview="https://cdn.m7g.twitch.tv/ba46b4e5e395b11efd34/assets/uploads/blog_og-image.jpg?w=1200&h=630&fm=jpg&auto=format"/>
+
+<SiteInfo
+  name="Discord Blog"
+  desc="Resources and news for engineers and Discord app developers."
+  url="https://discord.com/category/engineering"
+  logo="https://assets-global.website-files.com/5f8dd67f8fdd6f51f0b50904/5f91fae62cc821206588b837_Frame%20246.png"
+  preview="rgba(64,78,237,0.2"/>
+
+https://devblogs.microsoft.com/engineering-at-microsoft/
+
 <!-- @end Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)
@@ -1006,6 +1039,13 @@ https://paperlined.org/
   url="https://techblog.woowahan.com/"
   logo="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico"
   preview="https://techblog.woowahan.com/wp-content/uploads/2021/06/screenshot.jpg"/>
+
+<SiteInfo
+  name="Tecoble"
+  desc="woowacourse code review & devlog"
+  url="https://tecoble.techcourse.co.kr/"
+  logo="https://tecoble.techcourse.co.kr/static/0b18bd94a62a12fdc81ea720c28722f6/af3f1/tecoble.png"
+  preview="https://tecoble.techcourse.co.kr/static/51cd4d672c05e719ea8b4c940edfc3ef/1de80/wooteco.jpg"/>
 
 ```component VPCard
 {
@@ -1188,6 +1228,13 @@ https://paperlined.org/
   url="https://labs.brandi.co.kr/"
   logo="https://labs.brandi.co.kr/assets/icons/favicon.ico"
   preview="https://labs.brandi.co.kr/assets/header_image.jpg"/>
+
+<SiteInfo
+  name="CNS Tech – LG CNS 블로그"
+  desc="LG CNS의 기술을 통한 혁신 스토리와 노하우를 만나보세요."
+  url="https://www.lgcns.com/blog/cns-tech/"
+  logo="https://www.lgcns.com/wp-content/uploads/2021/11/cropped-siteicon-180x180.png"
+  preview="https://www.lgcns.com/wp-content/uploads/2024/06/B_0614-600x315.png"/>
 
 ```component VPCard
 {

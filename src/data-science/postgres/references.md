@@ -297,7 +297,8 @@ head:
 
 ## 기억보단 기록을
 
-- [\[PostgreSQL\] Nested Loop Join을 HashJoin으로 개선하기](https://jojoldu.tistory.com/784)
+- [\[PostgreSQL\] Nested Loop Join을 HashJoin으로 개선하기](https://jojoldu.tistory.com/m/784)
+- [\[PostgreSQL\] 단일 테이블 컬럼을 최대한 활용하기](https://jojoldu.tistory.com/m/788)
 
 ---
 

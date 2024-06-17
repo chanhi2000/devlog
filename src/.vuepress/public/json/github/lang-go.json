@@ -1579,5 +1579,10 @@
     "desc": "The database client every command line junkie deserves.",
     "officialSite": "",
     "topics": ["cli", "client", "developer-tools", "development", "golang", "mysql", "postgresql", "tui"]
+  }, {
+    "repo": "rekuberate-io/sleepcycles",
+    "desc": "Define sleep & wake up cycles for your Kubernetes resources. Automatically schedule to shutdown Deployments, CronJobs, StatefulSets and HorizontalPodAutoscalers that occupy resources in your cluster and wake them up only when you need them, reducing that way the overall power consumption.",
+    "officialSite": "https://medium.com/@akyriako/rekuberate-io-sleepcycles-reclaim-your-unused-kubernetes-resources-d144bb276aa4",
+    "topics": ["auto-shutdown", "auto-wakeup", "energy-consumption", "green-it", "kubernetes", "kubernetes-operator", "sleepcycle"]
   }
 ]

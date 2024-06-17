@@ -29,4 +29,12 @@ head:
 
 ---
 
+## 모바일 SW 개발자가 운영하는 블로그
+
+- [카카오 TV 동영상 다운로드: m4s 파일 다운로드 방법](https://kibua20.tistory.com/m/130)
+
+---
+
+---
+
 <TagLinks />

@@ -50,6 +50,7 @@ tag:
 ## 발자취
 
 - [NestJS 디버깅 설정 하기](https://tre2man.tistory.com/368)
+- [NestJS TypeORM bulk insert로 데이터 입력하기](https://tre2man.tistory.com/m/369)
 
 ---
 

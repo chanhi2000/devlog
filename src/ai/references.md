@@ -69,8 +69,9 @@ head:
 
 ## Be an Overachiever
 
-- [ROC Curve](https://devs0n.tistory.com/170)
-- [CNN에서 layer가 깊어질 수록 channel size를 키우는 이유](https://devs0n.tistory.com/176)
+- [ROC Curve](https://devs0n.tistory.com/m/170)
+- [CNN에서 layer가 깊어질 수록 channel size를 키우는 이유](https://devs0n.tistory.com/m/176)
+- [CNN Filter Visualization](https://devs0n.tistory.com/m/181)
 
 ---
 

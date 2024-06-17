@@ -104,7 +104,7 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 - [ ] [<FontIcon icon="iconfont icon-haskell"/>`/crashcourse/haskell/megaparsec`](https://chanhi2000.github.io/crashcourse/haskell/megaparsec/)
 - [ ] [<FontIcon icon="iconfont icon-haskell"/>`/crashcourse/haskell/template-haskell`](https://chanhi2000.github.io/crashcourse/haskell/template-haskell/)
 - [ ] [<FontIcon icon="fa-brands fa-docker"/>`/crashcourse/docker/pearlluck`](https://chanhi2000.github.io/crashcourse/docker/pearlluck/)
-- [ ] [<FontIcon icon="fas fa-dharmachakra"/>`/crashcourse/kubernetes/always-up-to-date-kubernetes`](https://chanhi2000.github.io/crashcourse/kubernetes/always-up-to-date-kubernetes/)
+- [ ] [<FontIcon icon="iconfont icon-k8s"/>`/crashcourse/kubernetes/always-up-to-date-kubernetes`](https://chanhi2000.github.io/crashcourse/kubernetes/always-up-to-date-kubernetes/)
 - [ ] [<FontIcon icon="fa-brands fa-aws"/>`/crashcourse/devops/art-of-aws`](https://chanhi2000.github.io/crashcourse/devops/art-of-aws/)
 - [ ] [<FontIcon icon="fas fa-shield-halved"/>`/crashcourse/devops/digital-forensics-lab`](https://chanhi2000.github.io/crashcourse/devops/digital-forensics-lab/)
 - [ ] [<FontIcon icon="fa-brands fa-css3-alt"/>`/crashcourse/misc/colt-steele-mastering-css-grid`](https://chanhi2000.github.io/crashcourse/misc/colt-steele-mastering-css-grid/)

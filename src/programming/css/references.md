@@ -301,6 +301,7 @@ tag:
 
 ## Ahmad Shadeed
 
+- [Case Study: Rebuilding TechCrunch layout with modern CSS](https://ishadeed.com/article/rebuilding-techcrunch-modern-css/)
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 - [CSS Variables 101](https://ishadeed.com/article/css-vars-101)
 - [CSS `:has()` Interactive Guide](https://ishadeed.com/article/css-has-guide/)

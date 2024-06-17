@@ -42,6 +42,11 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-aws"/>Amazon Web Services
+
+- [SpringBoot 에서 AWS Secrets manager를 이용하여 안전하게 데이터베이스를 이용하는 방법](https://repost.aws/en/articles/ARrbXsydIkSAqKLrWhos7GnQ/spring-boot-%EC%97%90%EC%84%9C-aws-secrets-manager%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
+---
 ### InfoQ
 
 - [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java/)
@@ -57,6 +62,7 @@ head:
 
 ### Blog - LINE ENGINEERING
 
+- [비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 3부 - Reactor 패턴과 이벤트 루프](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part3) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/do-not-block-the-event-loop-part3.md) -->
 - [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app) <!-- TODO: 작성 (/explore/articles/engineernig.liencorp.com/static-analysis-of-java-app.md) -->
 - [FIDO at LINE: FIDO2 서버를 오픈 소스로 공개했습니다](https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/fido-at-line-fido2-server-opensource.md) -->
 - [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/req-saver-for-thundering-herd-problem-in-cache.md) -->
@@ -73,6 +79,16 @@ head:
 }
 ```
 
+---
+
+### <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+#### 카카오페이 기술 블로그
+
+- [실전에서 TDD하기](https://tech.kakaopay.com/post/implementing-tdd-in-practical-applications/) <!-- TODO: 작성 (/explore/articles/tech.kakaopay.com/implementing-tdd-in-practical-applications.md) -->
+
+---
+
 ### NAVER D2
 
 - [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222) <!-- TODO: 작성 (/explore/articles/d2.naver.com/6080222.md) -->
@@ -81,6 +97,11 @@ head:
 ### NHN Cloud Meetup - NHN 기술 블로그
 
 - [JWT를 소개합니다.](https://meetup.nhncloud.com/posts/239) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/239.md) -->
+
+### Hyperconnect Tech Blog | 하이퍼커넥트의 기술블로그입니다
+
+- [Spring Session + Custom Session Repository 기반 세션 저장소의 메모리 누수 해결](https://hyperconnect.github.io/2023/01/09/redis-session.html) <!-- TODO: 작성 (/explore/articles/hyperconnect.github.io/redis-session.md) -->
+- [Spring Data Redis Repository 미숙하게 사용해 발생한 장애 극복기](https://hyperconnect.github.io/2022/12/12/fix-increasing-memory-usage.html) <!-- TODO: 작성 (/explore/articles/hyperconnect.github.io/fix-increasing-memory-usage.md) -->
 
 ### DZone
 
@@ -101,6 +122,11 @@ head:
 - [`netflixtechblog` / Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
 - [`@gaemi` / Spring Boot 과 Docker (with jib)](https://medium.com/@gaemi/spring-boot-%EA%B3%BC-docker-with-jib-657d32a6b1f0)
 - [SpringBoot기반 Redis Cache 활용법](https://yongkyu-jang.medium.com/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69)
+- [`spring-boot` / Spring Boot 3 + Spring Security 6: JWT Authentication & Authorization](https://medium.com/spring-boot/spring-boot-3-spring-security-6-jwt-authentication-authorization-98702d6313a5)
+- [`dandelion-tutorials` / Rate Limiting with Bucket4J](https://medium.com/dandelion-tutorials/rate-limiting-with-bucket4j-for-spring-boot-web-1a42af2b8b80)
+- [`akintopbas96` / Spring Boot Code Structure: Package by Layer vs Package by Feature](https://medium.com/@akintopbas96/spring-boot-code-structure-package-by-layer-vs-package-by-feature-5331a0c911fe)
+- [`akintopbas96` / Refactoring Java Spring Boot Code: Eliminating If-Else Statements for Cleaner, Extensible Logic](https://medium.com/@akintopbas96/refactoring-java-spring-boot-code-eliminating-if-else-statements-for-cleaner-extensible-logic-f1314cf9724e)
+- [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
@@ -171,6 +197,7 @@ head:
 - [Health Check for External Components in Actuator](https://junhyunny.github.io/spring-boot/health-check-for-external-components-in-actuator/)
 - [Spring Security Oauth2 Client for Apple](https://junhyunny.github.io/spring-boot/spring-security/spring-security-oauth2-client-for-apple/)
 - [Spring Expression Language](https://junhyunny.github.io/spring/spring-expression-language/)
+- [JCP(Java Community Process)/JSRs(Java Specification Requests)](https://junhyunny.github.io/java/java-community-process-and-java-specification-requests/)
 
 ### 연로그
 
@@ -233,6 +260,8 @@ head:
 - [\[내일배움캠프 6주차 WIL\] 개인과제(재제출) & Spring(JWT, Entity 연관관계)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-6%EC%A3%BC%EC%B0%A8-WIL-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%EC%9E%AC%EC%A0%9C%EC%B6%9C-SpringJWT-Entity-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84)
 - [\[내일배움캠프 32일차 TIL\] JWT 활용 과제 제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-32%EC%9D%BC%EC%B0%A8-TIL-JWT-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C)
 - [\[내일배움캠프 40일차 TIL\] 통합 테스트와 Spring AOP(어드바이스, 포인트컷)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-40%EC%9D%BC%EC%B0%A8-TIL-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80-Spring-AOP%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%8A%A4-%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%BB%B7)
+- [\[내일배움캠프 41일차 TIL\] 테스트 활용 과제](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-41%EC%9D%BC%EC%B0%A8-TIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C)
+- [\[내일배움캠프 42일차 TIL\] 테스트 활용 과제 제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-42%EC%9D%BC%EC%B0%A8-TIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C)
 
 ### Hide
 
@@ -313,6 +342,7 @@ head:
 ### 개발하는 곰돌이
 
 - [\[Spring Security\] Spring Security와 JWT를 사용하여 사용자 인증 구현하기(Spring Boot 3.0.0 이상)](https://colabear754.tistory.com/m/171)
+- [\[Spring Security\] Spring Security 예외를 @ControllerAdvice와 @ExceptionHandler를 사용하여 전역으로 처리해보자](https://colabear754.tistory.com/m/172)
 
 ### Free Java & OpenJDK Info for Daily Java Usage | foojay
 
@@ -325,10 +355,48 @@ head:
 - [01. 책 관리 프로젝트 개요](https://ysedeveloper.tistory.com/m/entry/01-%EC%B1%85-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
 - [2.1. OpenJDK 다운로드 및 설치](https://ysedeveloper.tistory.com/m/entry/21-OpenJDK-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98)
 - [3.1. 신규 프로젝트 생성 마법사 실행하기](https://ysedeveloper.tistory.com/m/entry/31-%EC%8B%A0%EA%B7%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1-%EB%A7%88%EB%B2%95%EC%82%AC-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
+- [3.2. 스프링 부트 프로젝트 속성 설정하기](https://ysedeveloper.tistory.com/m/entry/32-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8D%EC%84%B1-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [3.3. 기본 라이브러리 설정하기](https://ysedeveloper.tistory.com/m/entry/33-%EA%B8%B0%EB%B3%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ### Suhwan Jee's blog
 
 - [JPA, Hibernate, 그리고 Spring Data JPA의 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa)
+
+### Piotr's TechBlog - Java, Spring, Kotlin, microservices, Kubernetes, containers
+
+- [Introduction to gRPC with Spring Boot](https://piotrminkowski.com/2023/08/29/introduction-to-grpc-with-spring-boot/)
+
+### 힘차게, 열심히 공대생
+
+- [`@Transactional` 동작과정 살펴보기 (with. Spring AOP)](https://thalals.tistory.com/m/478)
+
+### Lifealong
+
+- [Java 가상 스레드(Virtual Thread) : SpringBoot에서 사용하기 -3](https://0soo.tistory.com/m/261)
+
+### 모두의 코딩
+
+- [\[cookie\] SameSite 설정(Chrome 80 쿠키 이슈)](https://goodteacher.tistory.com/m/496)
+
+### 파란하늘의 지식창고
+
+- [Spring Framework 6.0.x 이후 Web 에러 처리 - ProblemDetail 사용하기](https://luvstudy.tistory.com/m/220)
+
+### dev_kong 개발 기록
+
+- [테스트 속도 개선 및 리팩토링!](https://kong-dev.tistory.com/m/249)
+
+### 이로운 개발하기
+
+- [MSA 환경에서의 JPA 사용법](https://stir.tistory.com/m/383)
+
+### 개발 일상
+
+- [\[Spring\] JPA 다중 서버 환경 DB 동시성 문제 해결하기](https://hojun-dev.tistory.com/m/entry/JAVA-JPA-%EB%8B%A4%EC%A4%91-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD-DB-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+
+### 후덥의 기술블로그 - 기록은 기억을 지배한다
+
+- [Distributed Cache로 Hibernate Second Level Cache를 적용하여 성능 튜닝하기 - Second Level Cache 적용편](https://pkgonan.github.io/2020/05/distributed-hibernate-second-level-cache-3)
 
 ---
 
@@ -336,7 +404,15 @@ head:
 
 ### 우아한형제들 기술블로그
 
+- [개발자 머피의 법칙](https://techblog.woowahan.com/2645/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2645.md) -->
+- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2698.md) -->
 - [배민광고리스팅 개발기(feat. 코프링과 DSL 그리고 코루틴)](https://techblog.woowahan.com/7349/) <!-- /explore/articles/techblog.woowahan.com/7349.md -->
+
+### <FontIcon icon="iconfont icon-kakao"/>Kakao
+
+#### 카카오페이 기술 블로그
+
+- [WebFlux와 코루틴으로 BFF(Backend For Frontend) 구현하기](https://tech.kakaopay.com/post/bff_webflux_coroutine/) <!-- TODO: 작성 (/explore/articles/tech.kakaopay.com/bff-webflux-coroutine.md) -->
 
 ### Kt.academy
 
@@ -351,6 +427,14 @@ head:
 - [JPA 선호하는 패턴](https://cheese10yun.github.io/jpa-preference/)
 - [Spring 레플리케이션 트랜잭션 처리 방식](https://cheese10yun.github.io/spring-transaction)
 - [Resilience4j를 이용한 서킷 브레이커 기초](https://cheese10yun.github.io/resilience4j-basic)
+
+### 연로그
+
+- [\[Reactor\] 서버 느리게 만드는 API 개발하기 (feat: block)](https://yeonyeon.tistory.com/m/330)
+
+### suhwan.dev
+
+- [Spring Transaction 사용 시 주의할 점](https://suhwan.dev/2020/01/16/spring-transaction-common-mistakes/)
 
 ---
 

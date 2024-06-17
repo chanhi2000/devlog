@@ -339,5 +339,12 @@ tag:
 
 - [Istio #1 - 마이크로 서비스와 서비스 매쉬](https://bcho.tistory.com/m/1293)
 
+---
+
+## Learnk8s — the Kubernetes training company
+
+- [Load balancing and scaling long-lived connections in Kubernetes](https://learnk8s.io/kubernetes-long-lived-connections) <!-- TODO: 작성 (/explore/articles/learnk8s.io/kubernetes-long-lived-connections.md) -->
+
+---
 
 <TagLinks />

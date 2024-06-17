@@ -30,6 +30,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`oscarleo` / How to Create a Beautiful Polar Histogram With Python and Matplotlib](https://dev.to/oscarleo/how-to-create-a-beautiful-polar-histogram-with-python-and-matplotlib-400l)
+
+---
+
 ## 멈춤보단 천천히라도
 
 - [Optuna를 사용하여 XGBoost 최적 하이퍼 파라미터 구하는 예제코드](https://webnautes.tistory.com/2029)

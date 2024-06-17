@@ -30,6 +30,7 @@ tag:
 - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
 - [Dependabot on GitHub Actions and self-hosted runners is now generally available](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/)
 - [Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
+- [Make your GitHub projects more accessible with accessibility-alt-text-bot](https://github.blog/2023-06-12-make-your-github-projects-more-accessible-with-accessibility-alt-text-bot/)
 
 ---
 
@@ -194,6 +195,12 @@ tag:
 ## Aliencube
 
 - [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
+
+---
+
+## 게으른맽랩 lazy matlab
+
+- [깃헙의 매트랩 파일을 MATLAB Online에서 여는 버튼 만들기](https://lazymatlab.tistory.com/m/244)
 
 ---
 

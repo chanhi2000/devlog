@@ -24,7 +24,7 @@ tag:
   - temurin
   - temurin11
   - docker
-  - neofetch
+  - fastfetch
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -37,7 +37,7 @@ tag:
 
 ### A1. `regedit` 설정
 
-> 윈도우 작업표시줄 검색창이나 <kbd>win</kbd>+<kbd>R</kbd>(실행) 열어서 `cmd`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 <kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>(실행) 열어서 `cmd`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
 ::: warning Prerequesite(s)
 
@@ -66,13 +66,13 @@ REG add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Paramete
 
 ### A2. `gedit.msc` 설정
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd>win</kbd>+<kbd>R</kbd>) 열어서 `gpedit.msc`를 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `gpedit.msc`를 실행합니다.
 
 - .<FontIcon icon="iconfont icon-select"/>`[컴퓨터 구성]` -> `[관리 템플릿]` -> `[윈도 구성요소]` -> `[데이터 수집 및 preview 빌드]` -> `[원격 분석 허용 클릭]` -> `[사용 안함]` 설정
 
 ### A3. `services.msc` 설정
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd>win</kbd>+<kbd>R</kbd>) 열어서 `services.msc`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `services.msc`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
 - .<FontIcon icon="iconfont icon-select"/>`[Connected User Experiences and Telemetry]` 시작유형 사용안함
 
@@ -80,7 +80,7 @@ REG add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Paramete
 
 ## B. Winget
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd>win</kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
 ::: warning Prerequesite(s)
 
@@ -113,7 +113,7 @@ winget install TableCloth
 
 ## C. Chocolatey
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd>win</kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
 ::: warning Prerequesite(s)
 
@@ -135,7 +135,7 @@ Copy and Paste the following to the Powershell Prompt
 
 ```powershell
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir `
-    sharex speccy sublimemerge sublimetext4 vlc vscode `
+    sharex speccy sublimemerge sublimetext4 vlc vscode flameshot `
     dbeaver googlechrome fiddler windirstat 7zip `
     procexp scrcpy nvm rancher-desktop temurin11 temurin11 `
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal `
@@ -146,7 +146,7 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
 
 ```batch
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir ^
-    sharex speccy sublimemerge sublimetext4 vlc vscode ^
+    sharex speccy sublimemerge sublimetext4 vlc vscode flameshot^
     dbeaver googlechrome fiddler windirstat 7zip ^
     procexp scrcpy nvm rancher-desktop temurin11 temurin11 ^
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal ^
@@ -159,7 +159,7 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
 
 ## D. Scoop.sh
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd>win</kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
 ::: warning Prerequesite(s)
 
@@ -181,14 +181,14 @@ Copy and Paste the following to the Powershell Prompt
 @tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
 
 ```powershell
-scoop install 7zip cheat hyperfine neofetch `
+scoop install 7zip cheat hyperfine fastfetch nu`
   oh-my-posh terminal-icons tokei watchman git
 ```
 
 @tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
-scoop install 7zip cheat hyperfine neofetch ^
+scoop install 7zip cheat hyperfine fastfetch nu^
   oh-my-posh terminal-icons tokei watchman git
 ```
 
@@ -210,7 +210,7 @@ scoop install 7zip cheat hyperfine neofetch ^
 
 ### E2. Guide
 
-- <kbd>win</kbd> + <kbd>r</kbd> 누른 후 `regedit` 실행
+- <kbd><FontIcon icon="fa-brands fa-windows"/></kbd> + <kbd>r</kbd> 누른 후 `regedit` 실행
 - `HKEY_CURRENT_USER\Software\Microsoft\Command Processor` 경로로 이동
 - 창에 마우스 우클릭 후, 메뉴에서 `새로만들기` > `문자열 값` 선택 후 아래 값 입력
   - Key: `AutoRun`
@@ -321,9 +321,10 @@ function openWspHomeAndroidWeb2()
 }
 
 $env:PATH += ";$env:UserProfile\scoop\apps\oh-my-posh\current\bin"
-oh-my-posh --init --shell pwsh --config "$env:UserProfile\.oh-my-posh\schema.json" | Invoke-Expression
+$env:PATH += ";$env:UserProfile\scoop\shims"
+oh-my-posh init pwsh --config "$env:UserProfile\.oh-my-posh\schema.json" | Invoke-Expression
 Import-Module Terminal-Icons
-neofetch
+fastfetch
 ```
 
 ---

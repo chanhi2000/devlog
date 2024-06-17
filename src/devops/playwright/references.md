@@ -17,4 +17,10 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-playwright"/>Fast and reliable end-to-end testing for modern web apps | Playwright Java
+
+- [Network | Playwright Java](https://playwright.dev/java/docs/network)
+
+---
+
 <TagLinks />

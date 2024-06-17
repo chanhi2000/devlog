@@ -337,7 +337,7 @@ export const navbarEn = navbar([
         link: '/devops/podman/README.md',
       }, {
         text: 'Kubernetes',
-        icon: 'fas fa-dharmachakra',
+        icon: 'iconfont icon-k8s',
         link: '/devops/k8s/README.md',
       }, {
         text: 'Openshift',
@@ -777,7 +777,7 @@ export const navbarEn = navbar([
         link: 'https://chanhi2000.github.io/crashcourse/docker/'
       }, {
         text: 'Kubernetes',
-        icon: 'fas fa-dharmachakra',
+        icon: 'iconfont icon-k8s',
         link: 'https://chanhi2000.github.io/crashcourse/kubernetes/'
       },{
         text: 'DevOps',

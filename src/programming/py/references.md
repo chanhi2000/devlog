@@ -35,6 +35,10 @@ tag:
 
 - [Python Linting in Visual Studio Code – Hinting and Linting Video Series](https://devblogs.microsoft.com/python/python-linting-video/)
 
+### Tech Community
+
+- [Introducing Python in Excel: The Best of Both Worlds for Data Analysis and Visualization](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482)
+
 ---
 
 ## <FontIcon icon="iconfont icon-github"/>Github
@@ -665,6 +669,7 @@ tag:
 - [Matplotlib를 사용하여 원형 그래프 그리기](https://webnautes.tistory.com/m/2341)
 - [asyncio를 사용한 비동기 소켓 통신 예제](https://webnautes.tistory.com/m/2343)
 - [XGBoost에서 GPU(cuda) 사용하는 예제](https://webnautes.tistory.com/m/2344)
+- [Python 강좌 - 문자열](https://webnautes.tistory.com/m/2345)
 
 ---
 
@@ -1121,6 +1126,7 @@ tag:
 
 ## Mouse Vs Python - Where You Can Learn All About Python Programming
 
+- [An Intro to Protocol Buffers with Python](https://www.blog.pythonlibrary.org/2023/08/30/an-intro-to-protocol-buffers-with-python/)
 - [How to Watermark a Graph with Matplotlib](https://www.blog.pythonlibrary.org/2024/04/30/how-to-watermark-a-graph-with-matplotlib)
 - [How to Read and Write Parquet Files with Python](https://www.blog.pythonlibrary.org/2024/05/06/how-to-read-and-write-parquet-files-with-python/)
 
@@ -1134,6 +1140,7 @@ tag:
 
 ## Better Stack: Spot, Resolve, and Prevent Downtime.
 
+- [A Comprehensive Guide to Python Logging with Structlog](https://betterstack.com/community/guides/logging/structlog/)
 - [A Beginner's Guide to Unit Testing with Pytest](https://betterstack.com/community/guides/testing/pytest-guide)
 - [Logging in Python: A Comparison of the Top 6 Libraries](https://betterstack.com/community/guides/logging/best-python-logging-libraries/)
 
@@ -1327,6 +1334,7 @@ tag:
 
 ## Theia Vogel's website & blog
 
+- [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 - [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
 
 ---
@@ -1523,6 +1531,48 @@ tag:
 ## HackerNoon - read, write and learn about any technology
 
 - [How I Used Python and Folium to Visualize My Outdoor Activities](https://hackernoon.com/how-i-used-python-and-folium-to-visualize-my-outdoor-activities)
+
+---
+
+## hi, I am robin
+
+- [Packaging Python Projects in 2023](https://robamu.github.io/posts/packaging-python-in-2023/)
+
+---
+
+## FavTutor | Get Live Coding Help from Top Tutors Online
+
+- [Heap in Python: Min & Max Heap Implementation (with code)](https://favtutor.com/blogs/heap-in-python)
+
+---
+
+## joaodlf.com
+
+- [Python: Just write SQL](https://joaodlf.com/python-just-write-sql)
+
+---
+
+## wsdookadr
+
+- [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
+
+---
+
+## Florian Dahlitz
+
+- [Create Your Own Diff-Tool Using Python](https://florian-dahlitz.de/articles/create-your-own-diff-tool-using-python)
+
+---
+
+## Szymon Miks - personal blog
+
+- [How to implement CommandBus in Python](https://blog.szymonmiks.pl/p/how-to-implement-commandbus-in-python/)
+
+---
+
+## Mobile Convergence
+
+- [Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/m/600)
 
 ---
 

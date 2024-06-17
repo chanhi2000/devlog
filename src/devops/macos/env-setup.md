@@ -24,7 +24,7 @@ tag:
   - temurin11
   - docker
   - containerd
-  - neofetch
+  - fastfetch
 head:
   - - meta:
     - property: og:title
@@ -69,7 +69,7 @@ brew tap mac-cleanup/mac-cleanup-py; # mac-cleanup-py
 # Install formula
 brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   cheat cocoapods exiftool ffmpeg fizz flac git \
-  hyperfine mas neofetch nvm openssl pixman \
+  hyperfine mas fastfetch nvm openssl pixman \
   python rust scrcpy starship tmux tokei watchman \
   wget xz zsh mac-cleanup-py;
 
@@ -351,8 +351,8 @@ alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_exte    ns
 # launch starship.sh
 eval "$(starship init zsh)"
 
-# launch neofetch
-neofetch
+# launch fastfetch
+fastfetch
 ```
 
 #### C3-ii. `~/.config/starship.toml`

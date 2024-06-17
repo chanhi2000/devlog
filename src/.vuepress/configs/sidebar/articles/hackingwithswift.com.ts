@@ -6,8 +6,8 @@ export const template: SidebarGroupItem = {
     icon: 'https://hackingwithswift.com/favicon.svg',
     children: [
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
+      '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2023-06-23
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-6.md', // 2024-06-10
-      '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2024-06-23
       {
         text: "What's new in Swift?",
         collapsible: true,
@@ -45,9 +45,21 @@ export const template: SidebarGroupItem = {
             children: [
             ]
           }, {
-            text: "Changes in Swift 5.5",
+            text: "Changes in Swift 2.1",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/2.1/string-interpolation.md',
+            ]
+          }, {
+            text: "Changes in Swift 2.0",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/2.0/try.md',
+              '/explore/articles/hackingwithswift.com/swift/2.0/guard.md',
+              '/explore/articles/hackingwithswift.com/swift/2.0/strings.md',
+              '/explore/articles/hackingwithswift.com/swift/2.0/defer.md',
+              '/explore/articles/hackingwithswift.com/swift/2.0/mutability.md',
+              '/explore/articles/hackingwithswift.com/swift/2.0/api-availability.md',
             ]
           }, {
             text: "Changes in Swift 1.2",

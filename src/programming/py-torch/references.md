@@ -43,4 +43,10 @@ head:
 
 ---
 
+### Hyperconnect Tech Blog | 하이퍼커넥트의 기술블로그입니다
+
+- [머신러닝 모델 서빙 비용 1/4로 줄이기](https://hyperconnect.github.io/2022/12/13/infra-cost-optimization-with-aws-inferentia.html) <!-- TODO: 작성 (/explore/articles/hyperconnect.github.io/infra-cost-optimization-with-aws-inferentia.md) -->
+
+---
+
 <TagLinks />

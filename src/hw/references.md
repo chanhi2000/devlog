@@ -66,6 +66,8 @@ head:
 - [인바디 체중계- 다이얼 H30NWi - 앱 활용기](https://blog.naver.com/chandong83/223456287268)
 - [NPU 2Tops개 내장된 올위너 T527 개발 보드Forlinx OKT527N-C](https://blog.naver.com/chandong83/223467499457)
 - [TouchGFX 시뮬레이터에서 STM32G4-FDCAN을 이용해 CAN 통신 예제 코드](https://blog.naver.com/chandong83/223479123055?)
+- [STM32H7S78-DK PSRAM HexaSPI에서 OctoSPI로 변경하기](https://blog.naver.com/chandong83/223481914600)
+- [STM32H7S78-DK 보드 - TouchGFX 데모 예제 올리기](https://blog.naver.com/chandong83/223481878871)
 
 ---
 
@@ -167,6 +169,7 @@ head:
 ## Big Mess o' Wires
 
 - [68 Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
+- [FPGA-Based Disk Controller for Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
 
 ---
 
@@ -239,5 +242,12 @@ head:
 - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 
 ---
+
+<SiteInfo
+  name="SYZYGY - Next generation FPGA connectivity"
+  desc="Next generation FPGA connectivity"
+  url="https://syzygyfpga.io/"
+  logo="https://syzygyfpga.io/wp-content/uploads/2021/02/Logo-Syzygy-Logo.png"
+  preview="http://syzygyfpga.io/wp-content/uploads/2020/04/syzygy-og-image.png"/>
 
 <TagLinks />

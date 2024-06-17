@@ -1044,5 +1044,10 @@
     "desc": "A DIY reader for vintage 8-bit paper tapes",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "kitsunyan/intel-undervolt",
+    "desc": "Intel CPU undervolting and throttling configuration tool",
+    "officialSite": "",
+    "topics": ["2518", "intel", "linux", "tdp", "temperature", "undervolt"]
   }
 ]

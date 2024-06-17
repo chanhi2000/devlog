@@ -330,6 +330,7 @@ tag:
 
 ## Sitepoint
 
+- [.NET Blazor Overview and Upcoming .NET 8 Changes](https://sitepoint.com/net-blazor-overview/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/net-blazor-overview.md) -->
 - [.NET 8: Blazor Render Modes Explained](https://sitepoint.com/net-8-blazor-render-modes-explained) <!-- TODO: 작성 (/explore/articles/sitepoint.com/net-8-blazor-render-modes-explained.md) -->
 
 ---
@@ -415,6 +416,12 @@ tag:
 ## The place for .NET enthusiasts, Azure lovers, and backend developers | Code4IT
 
 - [Feature Flags 101: A Guide for ASP.NET Core Developers](https://www.code4it.dev/blog/feature-flags-dotnet/)
+
+---
+
+## Dot Net Office
+
+- [Best practices which can improve performance of your .NET core application](https://www.dotnetoffice.com/2023/08/best-practices-which-can-improve.html)
 
 ---
 

@@ -379,6 +379,17 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Create Multi-Page Animations Using Framer Motion & React-Router-Dom",
+  "desc": "Animations are what make plain websites turn into exciting and unforgettable experiences. They give your website a bit of personality and uniqueness and leave the visitor admiring the overall aesthetic. It's a no-brainer that humans love beautiful things. We all love products that look easy on the eyes.  In...",
+  "link": "/explore/articles/frontendmasters.com/how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 ---
 
 ## Smashing Magazine — For Web Designers And Developers

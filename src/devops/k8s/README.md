@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Kubernetes
 description: Kubernetes
-icon: fas fa-dharmachakra
+icon: iconfont icon-k8s
 category:
   - DevOps
   - Kubernetes

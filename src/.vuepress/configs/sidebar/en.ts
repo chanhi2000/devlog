@@ -2050,7 +2050,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Kubernetes',
       collapsible: true,
-      icon: 'fas fa-dharmachakra',
+      icon: 'iconfont icon-k8s',
       children: [
         '/devops/k8s/README.md',
         '/devops/k8s/references.md',

@@ -639,6 +639,13 @@ https://www.joinc.co.kr/w/Site
   logo="https://regexlearn.com/favicon.svg"
   preview="https://regexlearn.com//images/og-regexlearn-image.jpg"/>
 
+<SiteInfo
+  name="The Decompilation Wiki - Decompilation Wiki"
+  desc="The Decompilation Wiki is a categorized information hub for works and applications of decompilation."
+  url="https://decompilation.wiki/"
+  logo="https://decompilation.wiki/assets/images/favicon.png"
+  preview="https://decompilation.wiki/static/img/logo.png"/>
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet

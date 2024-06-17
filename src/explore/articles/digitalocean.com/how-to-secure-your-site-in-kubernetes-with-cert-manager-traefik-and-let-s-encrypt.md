@@ -2,7 +2,7 @@
 lang: ko-KR
 title: How To Secure Your Site in Kubernetes with cert-manager, Traefik, and Let’s Encrypt
 description: Article(s) > How To Secure Your Site in Kubernetes with cert-manager, Traefik, and Let’s Encrypt
-icon: fas fa-dharmachakra
+icon: iconfont icon-k8s
 category:
   - DevOps
   - VM

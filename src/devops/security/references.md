@@ -294,6 +294,7 @@ tag:
 ## 개발자스럽다
 
 - [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
+- [구글 크롬의 중간자 공격(MITM) 탐지 기능은 무엇인가?](https://blog.gaerae.com/2017/09/chrome-63-will-detect-and-warn-users-of-mitm-attacks.html)
 
 ---
 
@@ -334,9 +335,9 @@ tag:
 
 ---
 
-## 개발자스럽다
+## Sofiane's Blog
 
-- [구글 크롬의 중간자 공격(MITM) 탐지 기능은 무엇인가?](https://blog.gaerae.com/2017/09/chrome-63-will-detect-and-warn-users-of-mitm-attacks.html)
+- [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
 
 ---
 

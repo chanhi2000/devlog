@@ -342,4 +342,10 @@ head:
 
 ---
 
+## 여씨의 개발이야기
+
+- [\[GitHub\] 원격 저장소에서 원하는 파일 기록까지 모두 제거하는 방법](https://yeoossi.tistory.com/m/43)
+
+---
+
 <TagLinks />

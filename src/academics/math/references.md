@@ -402,6 +402,7 @@ head:
 - [수학에서의 역설](https://lazymatlab.tistory.com/m/239)
 - [흰색은 어떻게 만들어지는가?](https://lazymatlab.tistory.com/m/242)
 - [CIE chromaticity diagram 이해하기](https://lazymatlab.tistory.com/m/243)
+- [미적분학 공부 중...](https://lazymatlab.tistory.com/m/245)
 
 ---
 

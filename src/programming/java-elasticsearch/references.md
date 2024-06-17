@@ -50,6 +50,7 @@ head:
 - [엘라스틱 Runtime field - 9th](https://kangmyounghun.blogspot.com/2024/05/runtime-field-9th.html)
 - [데이터 분석이 쉬워지는 비법 - 4th](https://kangmyounghun.blogspot.com/2024/06/4th.html)
 - [esql timezone](https://kangmyounghun.blogspot.com/2024/06/esql-timezone.html)
+- [데이터 시인성 - 7th](https://kangmyounghun.blogspot.com/2024/06/7th.html)
 
 ---
 

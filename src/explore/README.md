@@ -463,6 +463,20 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://store.rg-adguard.net/favicon.ico"
   preview="https://store.rg-adguard.net/img/Store.png"/>
 
+<SiteInfo
+  name="Helm"
+  desc="Helm - The Kubernetes Package Manager."
+  url="https://helm.sh/"
+  logo="https://helm.sh/img/favicon-152.png"
+  preview="https://helm.sh/img/og-image.png"/>
+
+<SiteInfo
+  name="Artifact Hub"
+  desc="Find, install and publish Cloud Native packages"
+  url="https://artifacthub.io/"
+  logo="https://artifacthub.io/static/media/logo_v2.png"
+  preview="https://artifacthub.io/static/media/artifactHub_v2.png"/>
+
 <!-- @end Package Manager -->
 
 @tab Cool Project
@@ -649,6 +663,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   url="https://hangulize.org/"
   logo="https://hangulize.org/social.png"
   preview="https://hangulize.org/icons/apple-touch-icon.png"/>
+
+<SiteInfo
+  name="Graphmark"
+  desc="Enhanced bookmarking service - Visualize, organize, and access your bookmarks like never before"
+  url="https://graphmark.framer.website/"
+  logo="https://framerusercontent.com/images/GGzZhi63eWOPwgEj30fiOxL8sM.png"
+  preview="https://framerusercontent.com/assets/GGzZhi63eWOPwgEj30fiOxL8sM.png"/>
 
 <!-- @end Cool Project -->
 

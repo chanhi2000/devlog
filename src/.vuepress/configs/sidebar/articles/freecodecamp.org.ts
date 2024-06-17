@@ -57,6 +57,7 @@ export const template: SidebarInfoTemplate = {
       "learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go", // 2024-05-30
       "how-to-build-a-rating-component-with-the-react-compound-component-pattern", // 2024-06-03
       "learn-high-level-system-design-by-building-a-youtube-clone", // 2024-06-11
+      "how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom", // 2024-06-17
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
@@ -91,6 +92,9 @@ export const template: SidebarInfoTemplate = {
       "learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence", // 2024-06-11
       "retrieval-augmented-generation-rag-handbook", // 2024-06-11
       "lambda-functions-in-python", // 2024-06-14
+      "how-the-black-scholes-equation-works-python-examples", // 2024-06-17
+      "how-to-handle-keyerror-exceptions-in-python", // 2024-06-17
+      "first-class-functions-and-closures-in-python", // 2024-06-17
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -152,6 +156,7 @@ export const template: SidebarInfoTemplate = {
       "pass-the-aws-certified-solutions-architect-associate-certification", // 2024-05-23
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024-05-28
       "comparing-iac-tools-aws-cdk-cloudformation-terraform", // 2024-06-03
+      "auto-scaling-and-load-balancing", // 2024-06-17
     ]],[
     "azure", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -177,6 +182,7 @@ export const template: SidebarInfoTemplate = {
     "system-design", [
       "minimum-viable-product-between-an-idea-and-the-product", // 2024-05-24
       "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
+      "auto-scaling-and-load-balancing", // 2024-06-17
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -283,6 +289,11 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
       "free-linux-crash-course-with-labs", // 2024-06-13
       "lambda-functions-in-python", // 2024-06-14
+      "how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom", // 2024-06-17
+      "how-the-black-scholes-equation-works-python-examples", // 2024-06-17
+      "how-to-handle-keyerror-exceptions-in-python", // 2024-06-17
+      "auto-scaling-and-load-balancing", // 2024-06-17
+      "first-class-functions-and-closures-in-python", // 2024-06-17
     ]],
   ]),
 }

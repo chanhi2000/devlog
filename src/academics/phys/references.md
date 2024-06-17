@@ -51,6 +51,7 @@ head:
 - [자유 낙하 실험](https://javalab.org/free_falling/)
 - [광학 실험 시뮬레이터](https://javalab.org/optics/)
 - [부력 실험](https://javalab.org/buoyancy/)
+- [홍채와 섬모체](https://javalab.org/iris_and_ciliary_body/)
 
 ---
 

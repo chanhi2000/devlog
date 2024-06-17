@@ -28,9 +28,12 @@ head:
 
 ---
 
-## AWS
+## <FontIcon icon="fa-brands fa-aws"/>Amazon Web Services
 
 - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/ko/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
+- [SpringBoot 에서 AWS Secrets manager를 이용하여 안전하게 데이터베이스를 이용하는 방법](https://repost.aws/en/articles/ARrbXsydIkSAqKLrWhos7GnQ/spring-boot-%EC%97%90%EC%84%9C-aws-secrets-manager%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- [Giving Lambda functions access to resources in an Amazon VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html)
+- [What is VPC peering?](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
 
 ---
 
@@ -66,6 +69,12 @@ head:
 
 ---
 
+## 
+
+- [S3 기능을 활용한 bucket replication](https://www.lgcns.com/blog/cns-tech/aws-ambassador/40867/)
+
+---
+
 ## Popit | 전문 지식 공유를 위한 팀블로그
 
 - [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 1편](https://popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%ED%8E%B8/) <!-- TODO: 작성 (/explore/articles/popit.kr/how-to-build-server-quickly-1.md) -->
@@ -90,6 +99,9 @@ head:
 - [`@tkdgy0801` / 대학생도 딸 수 있는 AWS Solutions Architect Associate 시험 후기](https://medium.com/@tkdgy0801/%EB%8C%80%ED%95%99%EC%83%9D%EB%8F%84-%EB%94%B8-%EC%88%98-%EC%9E%88%EB%8A%94-aws-solutions-architect-associate-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0-baee6e8aec62)
 - [`towardsaws` / Host Llama3 with Python Flask on AWS EC2](https://towardsaws.com/host-llama3-with-python-flask-on-aws-ec2-b95828f4de50)
 - [`spoontech` / 소트-키를 활용한 다이나모-디비 병렬-쿼리(DynamoDB Parallel-Query using Sort-Key)](https://medium.com/spoontech/%EC%86%8C%ED%8A%B8-%ED%82%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AA%A8-%EB%94%94%EB%B9%84-%EB%B3%91%EB%A0%AC-%EC%BF%BC%EB%A6%AC-dynamodb-parallel-query-using-sort-key-bc629ec47e1a)
+- [`@to_ny.lee` / 이름이 없는 파일이 S3에 업로드된 이유](https://medium.com/@to_ny.lee/%EC%9D%B4%EB%A6%84%EC%9D%B4-%EC%97%86%EB%8A%94-%ED%8C%8C%EC%9D%BC%EC%9D%B4-s3%EC%97%90-%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C-%EC%9D%B4%EC%9C%A0-9128594f536)
+- [`domoverse` / AWS RDS 비용 효율적으로 낮춰 사용하기 (1) : RDS Proxy 도입](https://medium.com/domoverse/aws-rds-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%82%AE%EC%B6%B0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1-rds-proxy-%EB%8F%84%EC%9E%85-c954cf0f849c)
+- [`hbsmith` / 블루/그린 배포를 이용한 Aurora MySQL 버전 무중단 업그레이드 경험 공유](https://blog.hbsmith.io/%EB%B8%94%EB%A3%A8-%EA%B7%B8%EB%A6%B0-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-aurora-mysql-%EB%B2%84%EC%A0%84-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EA%B2%BD%ED%97%98-%EA%B3%B5%EC%9C%A0-23c52b988abe)
 
 ---
 
@@ -301,6 +313,8 @@ head:
 
 - [\[Cloud\] Cloud Service Provider(AWS, GCP, Azure) API 사용 이슈에 대한 장애 대응 사례 정리](https://twpower.github.io/343-case-study-of-incident-response-for-cloud-service-provider-api-usage-issue)
 - [\[Cloud\]\(EN\) Case study of incident response for cloud service provider (AWS, GCP, Azure) API usage issue](https://twpower.github.io/342-case-study-of-incident-response-for-cloud-service-provider-api-usage-issue-en)
+- [\[AWS\] API 호출에서 Timeout과 같은 네트워크 문제 발생 시 AWS CloudTrail에 대한 기록 여부](https://twpower.github.io/345-aws-cloudtrail-log-result-of-api-call-in-network-issue-such-as-timeout)
+- [\[AWS\]\(EN\) AWS CloudTrail log result of api call in network issue such as timeout](https://twpower.github.io/344-aws-cloudtrail-log-result-of-api-call-in-network-issue-such-as-timeout-en)
 
 ---
 
@@ -367,6 +381,24 @@ head:
 ## mingrammer's note
 
 - [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
+
+---
+
+## 코딩하는 흑구
+
+- [\[AWS 연결오류\] Permissions 0644 for 'pem' are too open](https://sas-study.tistory.com/m/488)
+
+---
+
+## 닥치고개발
+
+- [AWS MediaConvert에서 AES-128 암호화를 사용하여 M3U8 HLS 파일에 대한 무료 DRM 암호화 적용 방법](https://shutupdev.com/m/entry/AWS-MediaConvert%EC%97%90%EC%84%9C-AES-128-%EC%95%94%ED%98%B8%ED%99%94%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-M3U8-HLS-%ED%8C%8C%EC%9D%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AC%B4%EB%A3%8C-DRM-%EC%95%94%ED%98%B8%ED%99%94-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+
+---
+
+## @sanggggg
+
+- [AWS VPC 너무 어려워](https://sanggggg.me/blog/aws-vpc/)
 
 ---
 

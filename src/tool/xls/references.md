@@ -32,6 +32,14 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+
+### Tech Community
+
+- [Introducing Python in Excel: The Best of Both Worlds for Data Analysis and Visualization](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482)
+
+---
+
 ## Education(s)
 
 - [아이액셀러 닷컴](http://www.iexceller.com)

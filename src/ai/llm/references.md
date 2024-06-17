@@ -48,10 +48,11 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
-- [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
-- [`berom0227` - Running Ollama in Smart Connections](https://berom0227.medium.com/running-ollama-in-smart-connections-db2242aee3ba)
+- [`llamaindex` /  Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
+- [`berom0227` / Running Ollama in Smart Connections](https://berom0227.medium.com/running-ollama-in-smart-connections-db2242aee3ba)
 - [`thedeephub` / 50+ Open-Source Options for Running LLMs Locally](https://medium.com/thedeephub/50-open-source-options-for-running-llms-locally-db1ec6f5a54f)
 - [`aksh-garg` / Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
+- [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
 
 ---
 
@@ -235,6 +236,7 @@ head:
 - [LLM 기반 그래프 RAG 기술 구현하기](https://daddynkidsmakers.blogspot.com/2024/05/rag.html)
 - [대형언어모델 검색증강생성의 핵심기술, 벡터 데이터베이스 Chroma 분석하기](https://daddynkidsmakers.blogspot.com/2024/06/llm-rag-chroma.html)
 - [다중 에이전트 LLM 아키텍처 소개](https://daddynkidsmakers.blogspot.com/2024/06/llm.html)
+- [LLM 의 통계적 패턴 예측성과 한계에 대한 연구](https://daddynkidsmakers.blogspot.com/2024/06/llm_16.html)
 
 ---
 
@@ -277,6 +279,12 @@ head:
 ## OranLooney.com
 
 [A Picture is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
+
+---
+
+## lytix.ai
+
+- [Cost Of Self Hosting Llama-3 8B-Instruct](https://blog.lytix.co/posts/self-hosting-llama-3)
 
 ---
 

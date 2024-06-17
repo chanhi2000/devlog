@@ -145,6 +145,7 @@ head:
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about React](https://dev.to/t/react)
+- [`woovi` / Server-side Rendering (SSR) From Scratch with React](https://dev.to/woovi/server-side-rendering-ssr-from-scratch-with-react-19jm)
 - [`argonauta` / React Advanced: Decoupling your components in the right way](https://dev.to/argonauta/react-advance-decoupling-your-components-in-the-right-way-4pkn)
 - [`ricardonunezio` / Making React Apps Memory Efficient | Million.js Beyond Speed](https://dev.to/ricardonunezio/millionjs-beyond-speed-making-react-apps-memory-efficient-2amn)
 - [`amritapadhy` / Best Practices for Writing Clean React Code](https://dev.to/amritapadhy/best-practices-for-writing-clean-react-code-59fm)
@@ -741,6 +742,7 @@ https://o-yeon.tistory.com/227
 ## 작심삼일 개발이야기
 
 - [[Calendar] React Calendar 컴포넌트 생각보다 쉽네..?](https://choisuhyeok.tistory.com/143)
+- [서버 데이터와 컴포넌트의 분리: 유지보수성을 높이는 방법](https://choisuhyeok.tistory.com/m/145)  
 
 ---
 
@@ -927,6 +929,24 @@ https://o-yeon.tistory.com/227
 ## Jussi Virtanen
 
 - [Styling React Select with Tailwind](https://www.jussivirtanen.fi/writing/styling-react-select-with-tailwind)
+
+---
+
+## elanmed.dev
+
+- [React Suspense in three different architectures](https://elanmed.dev/blog/suspense-in-different-architectures)
+
+---
+
+## Alex MacArthur
+
+- [Building a Two-Way Data Binding Hook for Form Inputs in React](https://macarthur.me/posts/binding-input-state-in-react/)
+
+---
+
+## pyjun01
+
+- [shadcn ui 자세히 알아보기](https://pyjun01.github.io/v/shadcn-ui/)
 
 ---
 

@@ -41,6 +41,7 @@ head:
 - [`garimoo` / MySQL 스터디-2](https://garimoo.medium.com/mysql-%EC%8A%A4%ED%84%B0%EB%94%94-2-b17af798d909)
 - [`garimoo` / MySQL 스터디-3](https://garimoo.medium.com/mysql-%EC%8A%A4%ED%84%B0%EB%94%94-3-f9fc673c54ae)
 - [`zendesk` / Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
+- [`hbsmith` / 블루/그린 배포를 이용한 Aurora MySQL 버전 무중단 업그레이드 경험 공유](https://blog.hbsmith.io/%EB%B8%94%EB%A3%A8-%EA%B7%B8%EB%A6%B0-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-aurora-mysql-%EB%B2%84%EC%A0%84-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EA%B2%BD%ED%97%98-%EA%B3%B5%EC%9C%A0-23c52b988abe)
 
 ---
 
@@ -225,6 +226,18 @@ head:
 ## Louis.Kim 의 제 3막
 
 - [\[Aurora mysql v3\] innodb_flush_log_at_trx_commit check](https://hyunki1019.tistory.com/m/188)
+
+---
+
+## Running Out Of Coins.
+
+- [CannotAcquireLockException과 Deadlock](https://bgrooot.github.io/cannot-acquire-lock-exception-research/)
+
+---
+
+## Tecoble
+
+- [데드락 해결 모험기](https://tecoble.techcourse.co.kr/post/2022-11-01-mysql-dead-lock/) <!-- TODO: 작성 (/explore/articles/tecoble.techcourse.co.kr/2022-11-01-mysql-dead-lock.md) -->
 
 ---
 

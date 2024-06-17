@@ -32,4 +32,10 @@ head:
 
 ---
 
+## Shane's planet
+
+- [이제 alert 대신 toastr 사용하자 ! Toastr 사용 하기](https://shanepark.tistory.com/m/132)
+
+---
+
 <TagLinks />

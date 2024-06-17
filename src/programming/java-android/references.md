@@ -85,6 +85,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`proandroiddev` / Building a widget using Jetpack Glance](https://proandroiddev.com/building-a-widget-using-jetpack-glance-59317dfbfe9)
 - [`androiddevelopers` / What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43)
 - [Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
 - [How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
@@ -129,7 +130,6 @@ tag:
 - [`@ragnorak-dev` / My first impressions of Compose multiplatform for web (Kotlin/Js — Kotlin/Wasm)](https://medium.com/@ragnorak-dev/my-first-feelings-with-compose-multiplatform-for-web-js-kotlin-wasm-91de8022d093)
 - [`stackademic` / What Every Android Developer Should Have in Their GitHub?](https://blog.stackademic.com/what-every-android-developer-should-have-in-their-github-de8deab051b9)
 - [`proandroiddev` / Room Relationships Explained](https://proandroiddev.com/room-database-relationships-explained-729d3c705fd9)
-- [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
 - [`insert-koin` / Injecting your Compose applications with Koin — From Android to Multiplatform](https://blog.insert-koin.io/injecting-your-compose-applications-with-koin-c9c8b1166702)
 - [`khubaibkhan` / Getting Started with Compose Multiplatform and Koin: A Practical Guide](https://khubaibkhan-4.medium.com/getting-started-with-compose-multiplatform-and-koin-a-practical-guide-324864e13f5f)
 - [`marlonlom` / Adapt Kotlin 2.0 in Android applications](https://marlonlom.medium.com/adapt-kotlin-2-0-in-android-applications-340c2713d387)
@@ -140,7 +140,9 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
 - [`bubenheimer` / Effective Map Composables: Non-Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-non-draggable-markers-2b2)
+- [`tkuenneth` / From Swing to Jetpack Compose Desktop #1](https://dev.to/tkuenneth/from-swing-to-jetpack-compose-desktop-1-12kf)
 
 ---
 
