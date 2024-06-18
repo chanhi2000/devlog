@@ -79,6 +79,7 @@ tag:
 - [`bytehide` / 2D Arrays in C#: How To Use Them](https://dev.to/bytehide/2d-arrays-in-c-how-to-use-them-4jgi)
 - [`karenpayneoregon` / C# PeriodicTimer](https://dev.to/karenpayneoregon/c-periodictimer-2ed)
 - [`lovelacecoding` / Modern C# Development: Get Started With TimeOnly](https://dev.to/lovelacecoding/modern-c-development-get-started-with-timeonly-53ej)
+- [`dotnet` / Leveraging Existing Web Content to Build Hybrid Apps with .NET MAUI](https://dev.to/dotnet/leveraging-existing-web-content-to-build-hybrid-apps-with-net-maui-48me)
 
 ---
 

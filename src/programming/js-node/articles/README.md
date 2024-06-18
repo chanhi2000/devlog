@@ -9,6 +9,8 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - frontendmasters.com
+  - smashingmagazine.com
   - sitepoint.com
   - devtoolstips.org
   - yozm.wishket.com
@@ -33,13 +35,20 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
 ```component VPCard
 {
-  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://freecodecamp.org/news/",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
+  "title": "Frontend Masters Boost – Helping Your Journey to Senior Developer",
+  "desc": "Helping Your Journey to Senior Developer",
+  "link": "https://frontendmasters.com/blog/",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
 }
 ```
 
@@ -206,6 +215,24 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
+---
+
+## Frontend Masters Boost – Helping Your Journey to Senior Developer
+
+> frontendmasters.com
+
+```component VPCard
+{
+  "title": "Introducing Drizzle",
+  "desc": "Drizzle is a new ORM tool that blends traditional ORM querying with a typed SQL API. Drizzle supports various databases (Postgres, MySQL, SQLite) and aims to simplify SQL crafting while avoiding common ORM pitfalls.",
+  "link": "/explore/articles/frontendmasters.com/introducing-drizzle.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+<!-- END: frontendmasters.com -->
 
 ---
 

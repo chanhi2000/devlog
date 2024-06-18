@@ -5,6 +5,9 @@ export const template: SidebarInfoTemplate = {
   faviconPath: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
   linksMap: new Map([
     [
+    "java", [
+      "a-guide-to-object-oriented-programming-principles", // 2024-06-19    
+    ]],[
     "java-spring",[
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
     ]],[
@@ -58,6 +61,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-a-rating-component-with-the-react-compound-component-pattern", // 2024-06-03
       "learn-high-level-system-design-by-building-a-youtube-clone", // 2024-06-11
       "how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom", // 2024-06-17
+      "how-to-enhance-embedded-links-in-react-with-microlinks", // 2024-06-18
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
@@ -70,12 +74,14 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "css", [
       "how-to-add-media-to-your-html-email-template", // 2024-04-23
+      "how-to-create-a-mansory-layout-using-html-and-css", // 2024-06-18
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
     ]],[
     "npm", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
+      "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
     ]],[
     "py", [
       "how-to-parse-a-string-in-python", // 2023-05-04
@@ -95,6 +101,7 @@ export const template: SidebarInfoTemplate = {
       "how-the-black-scholes-equation-works-python-examples", // 2024-06-17
       "how-to-handle-keyerror-exceptions-in-python", // 2024-06-17
       "first-class-functions-and-closures-in-python", // 2024-06-17
+      "decorators-in-python-tutorial", // 2024-06-18
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -130,6 +137,7 @@ export const template: SidebarInfoTemplate = {
     "php", [
       "php-jwt-authentication-implementation", // 2024-04-24
       "php-array-handbook", // 2024-05-08    
+      "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
     ]],[
     "sh", [
       "linux-terminal-piping-and-redirection-guide", //2024-04-26
@@ -137,11 +145,13 @@ export const template: SidebarInfoTemplate = {
     "git", [
       "git-checkout-remote-branch-how-to-fetch-and-list-remote-branches", // 2024-04-30
       "how-to-use-git-submodules", // 2024-05-07
+      "what-is-trunk-based-development", // 2024-06-18
     ]],[
     "github", [
       "create-personalized-github-profile-page", // 2024-05-01
       "how-to-become-an-open-source-maintainer", // 2024-05-20
       "how-to-create-notice-blocks-in-markdown", // 2024-06-10
+      "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
     ]],[
     "macos", [
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
@@ -162,6 +172,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
       "build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage",  // 2024-05-10
       "master-the-azure-devops-engineer-expert-certification-az-400", // 2024-06-06
+      "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
     ]],[
     "k8s", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -171,6 +182,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "security", [
       "how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126", // 2024-05-31
+      "how-to-improve-your-digital-security-and-privacy", // 2024-06-18
     ]],[
     "selenium", [
       "empire-state-building-run-up-analysis-with-python", // 2024-05-08
@@ -179,14 +191,24 @@ export const template: SidebarInfoTemplate = {
       "postgresql-indexing-strategies", // 2023-05-12
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
     ]],[
+    "mongodb", [
+      "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
+    ]],[
     "system-design", [
       "minimum-viable-product-between-an-idea-and-the-product", // 2024-05-24
       "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
       "auto-scaling-and-load-balancing", // 2024-06-17
     ]],[
+    "pm", [
+      "what-is-trunk-based-development", // 2024-06-18
+    ]],[
+    "ai", [
+      "a-non-technical-introduction-to-generative-ai", // 2024-06-18
+    ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
       "retrieval-augmented-generation-rag-handbook", // 2024-06-11
+      "building-intelligent-apps-with-mistral-ai", // 2024-06-18
     ]],[
     "math", [
       "linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai", // 2024-05-28
@@ -294,6 +316,16 @@ export const template: SidebarInfoTemplate = {
       "how-to-handle-keyerror-exceptions-in-python", // 2024-06-17
       "auto-scaling-and-load-balancing", // 2024-06-17
       "first-class-functions-and-closures-in-python", // 2024-06-17
+      "how-to-enhance-embedded-links-in-react-with-microlinks", // 2024-06-18
+      "a-guide-to-object-oriented-programming-principles", // 2024-06-18
+      "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
+      "how-to-improve-your-digital-security-and-privacy", // 2024-06-18
+      "how-to-create-a-mansory-layout-using-html-and-css", // 2024-06-18
+      "what-is-trunk-based-development", // 2024-06-18
+      "building-intelligent-apps-with-mistral-ai", // 2024-06-18
+      "a-non-technical-introduction-to-generative-ai", // 2024-06-18
+      "decorators-in-python-tutorial", // 2024-06-18
+      "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
     ]],
   ]),
 }

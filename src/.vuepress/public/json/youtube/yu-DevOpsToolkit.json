@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/750oHOwufXxMWcT0G2VTQO31pY9pyCYjOKk3cLeXx3YBNnecZvjNAsAFFNdT8f5m28XoUIXnnr4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hQJWGzogIiI", "title": "Mastering Kubernetes Testing with Kyverno Chainsaw!" },
+    { "id": "U6weXlzQxoY", "title": "Mastering Kubernetes: Dive into Workloads APIs" },
+    { "id": "Gn6btuH3ULw", "title": "Exploring KCL: Configuration and Data Structure Language; CUE and Pkl Replacement?" },
+    { "id": "vHQtWrqrFho", "title": "How Platform Engineering Compares to Running a Restaurant" },
+    { "id": "Ca1qxZoxBkg", "title": "Single Pane of Glass for Kubernetes Clusters with Clusterpedia" },
+    { "id": "-1H0BeN9hIk", "title": "Mastering Kubernetes: Service and Network APIs (Service, Ingress, GatewayAPI)" },
+    { "id": "6cwb3xNcqqI", "title": "Debug Kubernetes with eBPF and Inspektor Gadget" },
+    { "id": "tgwxMfIsLJY", "title": "Terraform vs. Crossplane vs. Ansible - Rivals or Allies?" },
+    { "id": "hgNN2wOE7lc", "title": "From Makefile to Justfile (or Taskfile): Recipe Runner Replacement" },
+    { "id": "oY9le4DDAOY", "title": "Unleashing WebAssembly in Kubernetes with Kwasm" },
     { "id": "t1Fdse-F9Jw", "title": "Argo CD Synchronization is BROKEN! It Should Switch to Eventual Consistency!" },
     { "id": "_CYiksI_89E", "title": "Authenticating Users - Feat. Dex and Keycloak (You Choose!, Ch. 3, Ep. 8)" },
     { "id": "bBpE0rfE-JM", "title": "Getting Started with Crossplane: A Glimpse Into the Future | Tutorial (Part 1)" },

@@ -24,15 +24,12 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-```component VPCard
-{
-  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://freecodecamp.org/news/",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
-}
-```
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 [[toc]]
 
@@ -61,6 +58,18 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+```component VPCar
+{
+  "title": "Building Intelligent Apps with Mistral AI",
+  "desc": "Open source LLMs can help you create intelligent apps without having to pay for each API call. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the open source models from Mistral AI to create intellig...",
+  "link": "/explore/articles/freecodecamp.org/building-intelligent-apps-with-mistral-ai.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

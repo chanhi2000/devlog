@@ -361,6 +361,13 @@ fastfetch
 }
 ```
 
+<SiteInfo
+  name="Cyber Scarecrow"
+  desc="An app for scaring away malware"
+  url="https://www.cyberscarecrow.com/"
+  logo="https://www.cyberscarecrow.com/favicon.ico"
+  preview="https://www.cyberscarecrow.com/_next/image?url=%2Fscarecrow_128.ico&w=96&q=75"/>
+
 ---
 
 <TagLinks />

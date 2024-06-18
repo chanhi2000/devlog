@@ -53,7 +53,48 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+SwiftData automatically saves all stored property into its data storage. If you don’t want that – if you have temporary data that is needed only while your program is running – then you can mark it using the `@Transient` macro so that SwiftData treats it as ephemeral and disposable, so it won’t be saved along with the rest of your data.
+
+For example, if you were building a game, you might want to track how many levels a player has completed in the current run so you can suggest they take a break after a while, like this:
+
+```swift
+@Model class Player {
+    var name: String
+    var score: Int
+    @Transient var levelsPlayed = 0
+
+    init(name: String, score: Int) {
+        self.name = name
+        self.score = score
+    }
+}
+```
+
+That starts with a default value of 0 when your app runs, and will automatically reset to 0 when the app terminates – it won’t be stored inside SwiftData.
+
+SwiftData automatically saves only the *stored* properties of your models – any computed properties are automatically transient. For example, if we wanted to put our `Player` model into a high score table, we might add a computed property that shows both their name and score:
+
+```swift
+@Model class Player {
+    var name: String
+    var score: Int
+    @Transient var levelsPlayed = 0
+
+    var highScoreEntry: String {
+        "\(name) scored \(score) points"
+    }
+
+    init(name: String, score: Int) {
+        self.name = name
+        self.score = score
+    }
+}
+```
+
+There are two important things to remember when working with transient properties in SwiftData:
+
+1. Transient properties cannot be used in SwiftData query predicates because the actual data you’re working with doesn’t exist on disk. **Attempting to use a transient property will compile just fine, but crash at runtime.**
+2. Transient properties must always have a default value as shown above, so that when you create a new object or when an existing one is fetched from disk, there’s always a value present.
 
 ---
 

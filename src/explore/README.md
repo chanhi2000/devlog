@@ -671,6 +671,16 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://framerusercontent.com/images/GGzZhi63eWOPwgEj30fiOxL8sM.png"
   preview="https://framerusercontent.com/assets/GGzZhi63eWOPwgEj30fiOxL8sM.png"/>
 
+```component VPCard
+{
+  "title": "Billard",
+  "desc": "Make music in the browser by letting balls clash, setting key, mode, gravity, speed... MIDI enabled.",
+  "link": "https://billard.medusis.com/",
+  "logo": "https://billard.medusis.com/apple-touch-icon.png",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
 <!-- @end Cool Project -->
 
 @tab Portfolio / Resume

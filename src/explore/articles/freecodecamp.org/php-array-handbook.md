@@ -42,7 +42,7 @@ cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/PHP-Array
 
 <SiteInfo
   name="PHP Array Handbook – How to Create, Work with, and Loop Through Arrays"
-  desc="In every programming language, arrays provide a flexible option to store more than one data type in a single variable. They are one of the most versatile data structures in the programming world, which is one reason a lot of external data and many APIs come as arrays. When you"
+  desc="In every programming language, arrays provide a flexible option to store more than one data type in a single variable. They are one of the most versatile data structures in the programming world, which is one reason a lot of external data and many APIs come as arrays. When you..."
   url="https://freecodecamp.org/news/php-array-handbook/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://freecodecamp.org/news/content/images/size/w1000/2024/05/PHP-Array-Handbook-Cover-1.png"/>

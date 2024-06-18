@@ -8,10 +8,12 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - smashingmagazine.com
   - yozm.wishket.com
   - ai
   - diffusion-model
+  - generative-ai
   - machine-learning
 head:
   - - meta:
@@ -24,6 +26,13 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 ```component VPCard
 {
@@ -46,6 +55,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "A Non-Technical Introduction to Generative AI",
+  "desc": "If you want to learn about the concepts around generative AI without getting bogged down with the technical details, we have a great course for you. We just published a course on the freeCodeCamp.org YouTube channel that is a non-technical intro to g...",
+  "link": "/explore/articles/freecodecamp.org/a-non-technical-introduction-to-generative-ai.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

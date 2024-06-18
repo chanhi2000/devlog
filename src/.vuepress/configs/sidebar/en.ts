@@ -176,6 +176,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java/articles/README.md',
+            asb.freecodecamp("java"),
             asb.kodeco("kotlin"),
             asb.yozm("java"),
             asb.nhn("java"),
@@ -442,8 +443,9 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-node/articles/README.md',
-            asb.freecodecamp('js-node'), 
-            asb.smashingmagazion('js-node'), 
+            asb.freecodecamp("js-node"),
+            asb.frontendmaster("js-node"), 
+            asb.smashingmagazion("js-node"), 
             asb.yozm("js-node"),
             asb.kakaoTech("js-node"),
             asb.d2("js-node"), 
@@ -915,6 +917,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/rust/articles/README.md',
             asb.freecodecamp("rust"),
+            asb.yozm("rust"),
           ]
         },
       ]
@@ -1106,6 +1109,7 @@ export const sidebarEn = sidebar({
           children: [
             'programming/cpp/articles/README.md',
             asb.freecodecamp("cpp"), 
+            asb.yozm("cpp"),
             asb.nhn("cpp"), 
             asb.d2("cpp"),
           ]
@@ -1602,7 +1606,6 @@ export const sidebarEn = sidebar({
       children: [
         '/tool/vim/README.md',
         '/tool/vim/tips.md',
-        '/tool/vim/neovim.md',
         '/tool/vim/github.md',
         '/tool/vim/references.md',
         '/tool/vim/youtube.md',
@@ -1613,6 +1616,24 @@ export const sidebarEn = sidebar({
           children: [
             '/tool/vim/articles/README.md',
             asb.yozm("vim"),
+          ]
+        },
+      ]
+    }, {
+      text: 'NeoVim',
+      collapsible: true,
+      icon: 'iconfont icon-neovim',
+      children: [
+        '/tool/nvim/README.md',
+        '/tool/nvim/tips.md',
+        '/tool/nvim/references.md',
+        '/tool/nvim/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/nvim/articles/README.md',
           ]
         },
       ]
@@ -2538,6 +2559,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/mongodb/articles/README.md',
+            asb.freecodecamp("mongodb"), 
             asb.d2("mongodb"),
           ]
         }
@@ -2761,6 +2783,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/ai/articles/README.md',
+            asb.freecodecamp("ai"),
             asb.smashingmagazion("ai"),
             asb.yozm("ai"),
           ]
@@ -3110,6 +3133,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/academics/pm/articles/README.md',
+            asb.freecodecamp("pm"),
           ]
         }
       ]

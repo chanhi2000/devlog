@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - d2.naver.com
   - mongodb
 head:
@@ -23,6 +24,13 @@ head:
 # {{ $frontmatter.title }} 관련
 
 <SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+<SiteInfo
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
@@ -30,6 +38,24 @@ head:
   preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "PHP Arrays in Practice: How to Rebuild the Football Team Cards Project with PHP and MongoDB",
+  "desc": "This is the second part of my PHP array handbook. You can find the first part here, where I cover array basics. In the first part, you learned about arrays, how to create arrays, array functions, and how to loop through arrays. This second part will teach you how...",
+  "link": "/explore/articles/freecodecamp.org/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

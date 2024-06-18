@@ -44,7 +44,8 @@ head:
 
 ## Substack
 
-- [`@dynomight` - The midwit home](https://dynomight.substack.com/p/midwit-home)
+- [`@dynomight` / The midwit home](https://dynomight.substack.com/p/midwit-home)
+- [`@thechipletter` / SPUR - RISC IV: The LISP Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
 
 ---
 

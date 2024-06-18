@@ -13,9 +13,7 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-
-
-<ShieldsGroup logos="csharp,dotnet,visualstudio"/>
+<ShieldsGroup logos="csharp,dotnet,blazor,visualstudio"/>
 
 ---
 

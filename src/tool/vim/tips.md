@@ -16,11 +16,11 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Vim > References
+      content: Vim > Tips
     - property: og:description
-      content: References
+      content: Tips
     - property: og:url
-      content: https://chanhi2000.github.io/tool/vim/references.html
+      content: https://chanhi2000.github.io/tool/vim/tips.html
 ---
 
 # {{ $frontmatter.title }} 관련

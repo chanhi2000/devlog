@@ -38,15 +38,12 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-```component VPCard
-{
-  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://freecodecamp.org/news/",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
-}
-```
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 <SiteInfo
   name="Library | Kodeco > Android & Kotlin"
@@ -332,6 +329,16 @@ head:
   "title": "Learn High-Level System Design by Building a YouTube Clone",
   "desc": "High-Level System Design involves creating a blueprint for complex systems, focusing on architecture, component interactions, and scalability. It addresses how different parts of a system communicate, manage data, and handle user requests efficiently...",
   "link": "/explore/articles/freecodecamp.org/learn-high-level-system-design-by-building-a-youtube-clone.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Create Multi-Page Animations Using Framer Motion & React-Router-Dom",
+  "desc": "The web has evolved from rigid color coding and 2D rendering to an era of complex, aesthetically pleasing animations and 3D rendering options. Additionally, there have been integrations with new technologies, such as virtual reality tools and frameworks, to make the user experience worthwhile. In this article, we'll optimize...",
+  "link": "/explore/articles/freecodecamp.org/how-to-enhance-embedded-links-in-react-with-microlinks.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

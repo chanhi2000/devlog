@@ -28,9 +28,10 @@ head:
 ## arxiv
 
 <PDF url="https://arxiv.org/pdf/2405.13565" />
-<PDF url="https://arxiv.org/abs/2405.15071" />
-<PDF url="https://arxiv.org/abs/2405.14975" />
-<PDF url="https://arxiv.org/abs/2405.20233" />
+<PDF url="https://arxiv.org/pdf/2405.15071" />
+<PDF url="https://arxiv.org/pdf/2405.14975" />
+<PDF url="https://arxiv.org/pdf/2405.20233" />
+<PDF url="https://arxiv.org/pdf/2406.11717" />
 
 ---
 

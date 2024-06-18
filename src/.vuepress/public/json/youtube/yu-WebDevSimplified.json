@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/NR7mt68maaOHV0rxr6_XiSzaW0yziFd6uvUGQMBg1tICGHR0NFSLWa3UAsk7N2-NgmxDezuk4A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qpApvVd_dCw", "title": "How To Build A Next.js Coupon System Like A Senior Developer" },
+    { "id": "yYKX72xjFx8", "title": "This Ancient CSS Feature Is Incredibly Useful" },
+    { "id": "15qMh8C1Wzo", "title": "How To Make Beautiful Charts In Next.js" },
+    { "id": "dAOGdIOcLps", "title": "I Love This CSS Focus Hack" },
+    { "id": "A-Zg1SFAacg", "title": "How This Test Saved Kent’s Site" },
+    { "id": "5pq80drDrNs", "title": "I Recreated Shadcn’s Docs In 30 Minutes With This Amazing Tool" },
+    { "id": "qTXwRSksJPg", "title": "Why Every Computer Fails Basic Math" },
+    { "id": "bMTauDvGu9Y", "title": "This New React Feature Will Make Your App 20% Faster" },
+    { "id": "l8pe_MSX4Lc", "title": "The Most Important Skill You Never Learned" },
+    { "id": "SQP9VV5b9IM", "title": "If You Cannot Name All 5 JS Scopes You Need To Watch This Video" },
     { "id": "VenLRGHx3D4", "title": "State Managers Are Making Your Code Worse In React" },
     { "id": "cTu9-C2rd-0", "title": "Is Drizzle Really Better Than Prisma?" },
     { "id": "iqrgggs0Qk0", "title": "Full Stack Ecommerce Store With Admin Dashboard From Scratch - Next.js, Prisma, Stripe, Tailwind" },
@@ -69,7 +79,6 @@
     { "id": "fHPa5xzbpaA", "title": "Facade Pattern - Design Patterns" }, 
     { "id": "uKVVSwXdLr0", "title": "Simple Image Lightbox Tutorial" }, 
     { "id": "4qNwoAAfnk4", "title": "How To Build Your Own AI With ChatGPT API" }, 
-    { "id": "s0h34OkEVUE", "title": "This Library Makes State Management So Much Easier" }, 
     { "id": "r92aHr752Bg", "title": "How To Create ENV Variables In React" }, 
     { "id": "Btc9sRIu2jw", "title": "How To Use ChatGPT To Get Hired" }
   ]

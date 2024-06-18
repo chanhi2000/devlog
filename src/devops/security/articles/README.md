@@ -31,15 +31,12 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-```component VPCard
-{
-  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://freecodecamp.org/news/",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
-}
-```
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 ```component VPCard
 {
@@ -81,6 +78,16 @@ head:
   "title": "How Suz Hinton went from Dev to White Hat Hacker [Podcast #126]",
   "desc": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Suz Hinton. She's a software engineer, security researcher, and one of the first ever people to live-stream her coding on Twitch. We talk about: How Suz started her...",
   "link": "/explore/articles/freecodecamp.org/how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Improve Your Digital Security and Privacy – Best Practices for Developers",
+  "desc": "These days, there are many different types of attacks that can jeopardize your digital security and privacy. So it’s a good idea to stay up-to-date with best practices to keep you safe online.  But it can be hard to understand exactly how to do this. So I built this...",
+  "link": "/explore/articles/freecodecamp.org/how-to-improve-your-digital-security-and-privacy.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -28,4 +28,10 @@ tag:
 
 ---
 
+## Tyler Morgan-Wall
+
+- [Sculpting the Moon in R: Subdivision Surfaces and Displacement Mapping](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
+
+---
+
 <TagLinks />

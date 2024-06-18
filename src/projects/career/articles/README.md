@@ -111,6 +111,8 @@ head:
 }
 ```
 
+<!-- END: smashingmagazine.com -->
+
 ---
 
 ## 요즘IT
@@ -352,6 +354,16 @@ head:
   "title": "2024 프론트엔드 기술 스택 트렌드 이야기 | 요즘IT",
   "desc": "2024 프론트엔드 기술 스택 트렌드 이야기",
   "link": "/explore/articles/yozm.wishket.com/2625.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "의사소통이 즐거운 개발자의 3가지 능력 | 요즘IT",
+  "desc": "의사소통이 즐거운 개발자의 3가지 능력",
+  "link": "/explore/articles/yozm.wishket.com/2631.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "2YzyRtTBoXY", "title": "@Value Vs @ConfigurationProperties - Spring Annotations Interview Questions | Code Demo" },
+    { "id": "mFwFDTmtvmY", "title": "@Prefilter vs @Postfilter | Spring Annotations Interview Question" },
+    { "id": "ZHocWNTZXns", "title": "Spring Redis Cache | Distributed Caching with Code Demo" },
+    { "id": "daKjJmZBGgM", "title": "Access Token | Refresh Token | Id Token - What ? Why? When?" },
+    { "id": "E2JQcuGHlVg", "title": "Rest API Design Best Practices | FAQ Interview Question" },
+    { "id": "uUlv2fveXkk", "title": "Spring Batch - Process Millions of records" },
     { "id": "5Cb601qLrjA", "title": "Resilience in Microservices - Circuit breaker | Code Demo" },
     { "id": "fS8QY7BiDaQ", "title": "When to use HTTP POST instead of GET to retrieve data?" },
     { "id": "4CN-s1S9dwU", "title": "How to handle exceptions in Microservices architecture? | Code Demo" },

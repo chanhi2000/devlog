@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/yICc3vYIirxKwjiVTqAPJvaQUuyFDS84kCRrM5qGCWrOvx9MuxmwjAYCZ9eQyAI6sA0Lvo10qg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Ai_Y7EoptWI", "title": "LLM 101: 나만의 대화형 채팅데모 만들기│인프런" },
     { "id": "tUVu_hg3QF8", "title": "임베디드 MCU SW 신입 개발자를 위한 필수 기초 지식ㅣ 신입사원에게 들려주는 - MCU SW 직무 기초 개념완성" },
     { "id": "F3gEkZirFMU", "title": "Gitlab을 활용한 빠르고 안전한 배포 파이프라인 (CI/CD) 만들기│결국 gitops를 해야 하는 이유?" },
     { "id": "QGUdBUXwNho", "title": "AWS, 그럴듯하게 운영해보기 | 인프런 퇴근길 밋업 #05 인프라 & AWS" },

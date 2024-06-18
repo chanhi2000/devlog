@@ -53,7 +53,46 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+Any class marked with `@Model` can be used with SwiftData immediately, but you can also use any struct or enum as long as they conform to the `Codable` protocol. This works even if the enums have raw or associated values.
+
+::: important
+
+Just because you can use them, it doesn’t mean you should. Please read this page fully before coming to a conclusion.
+
+:::
+
+There are a couple of things you should be aware of when doing this, but first let’s look at a practical example. If you wanted to store a `User` record that has a `status` enum attached to it, you might write this:
+
+```swift
+enum Status: Codable {
+    case active
+    case inactive(reason: String)
+}
+
+@Model class User {
+    var name: String
+    var age: Int
+    var status: Status
+
+    init(name: String, age: Int, status: Status) {
+        self.name = name
+        self.age = age
+        self.status = status
+    }
+}
+```
+
+SwiftData will store the whole enum case, along with the `reason` string attached to it. 
+
+Internally something interesting happens: SwiftData flattens the enum and its associated value directly into the database record for the `User`, rather than spinning it off into a separate table. This makes sense if you think about it: value types like structs and enums naturally only have a single owner, so there’s no need to create a relationship.
+
+So, value-type properties become attributes in your underlying storage immediately. This works for all basic value types (`Int`, `String`, etc), but you can also also use structs, enums, `Codable` data, and collections of value types. 
+
+However, there is a catch: if you use collections of value types, e.g. `[String]`, SwiftData will save *that* directly inside a single property too. Right now it’s encoded as binary property list data, which means you can’t use the contents of your array in a predicate.
+
+**If you attempt to do so, your app will just crash at runtime.** So, please be very careful.
+
+Of course, this behavior is an implementation detail of SwiftData, and is subject to change at any point in the future – do try it yourself before coming to a final conclusion.
 
 ---
 

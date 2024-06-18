@@ -29,15 +29,12 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-```component VPCard
-{
-  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://freecodecamp.org/news/",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
-}
-```
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 ```component VPCard
 {
@@ -122,6 +119,16 @@ head:
   "title": "How to Add Media to Your HTML Email Template",
   "desc": "In my previous article, we explored the fundamentals of designing and coding a simple HTML email template that adapts beautifully across different devices and email clients. I got a couple of questions about adding media to the HTML email template...",
   "link": "/explore/articles/freecodecamp.org/how-to-add-media-to-your-html-email-template.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title":"How to Create a Masonry Layout Using HTML and CSS",
+  "desc":"A masonry layout is a grid-based design where items are arranged in a way that minimizes vertical gaps between them.  an example of a masonry layoutUnlike traditional grids with fixed row heights, masonry layouts adjust the positioning of items dynamically based on their content height, creating a visually appealing...",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-a-mansory-layout-using-html-and-css.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

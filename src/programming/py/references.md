@@ -1273,6 +1273,7 @@ tag:
 
 ## Martin Heinz | Personal Website & Blog
 
+- [Weird Python "Features" That Might Catch You By Surprise](https://martinheinz.dev/blog/103)
 - [Everything You Can Do with Python's textwrap Module](https://martinheinz.dev/blog/108)
 
 ---
@@ -1371,6 +1372,7 @@ tag:
 
 ## Stack Abuse
 
+- [The Power of Indexing: Boosting Data Wrangling Efficiency with Pandas](https://stackabuse.com/the-power-of-indexing-boosting-data-wrangling-efficiency-with-pandas/)
 - [Python-Specific Design Patterns](https://stackabuse.com/python-specific-design-patterns/)
 - [Guide to Hash Tables in Python](https://stackabuse.com/hash-tables-in-python/)
 - [Guide to Queues in Python](https://stackabuse.com/guide-to-queues-in-python/)
@@ -1560,6 +1562,7 @@ tag:
 
 ## Florian Dahlitz
 
+- [Support Bootstrap-Alerts In Python-Markdown](https://florian-dahlitz.de/articles/support-bootstrap-alerts-in-python-markdown)
 - [Create Your Own Diff-Tool Using Python](https://florian-dahlitz.de/articles/create-your-own-diff-tool-using-python)
 
 ---
@@ -1573,6 +1576,24 @@ tag:
 ## Mobile Convergence
 
 - [Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/m/600)
+
+---
+
+## Brian Kitano
+
+- [Llama from scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/)
+
+---
+
+## CodersLegacy - Imparting knowledge to the Future
+
+- [Comparison of Sorting Algorithms](https://coderslegacy.com/comparison-of-sorting-algorithms/)
+
+---
+
+## Mark Litwintschik
+
+- [Popular Airline Passenger Routes Refresh](https://tech.marksblogg.com/popular-airline-passenger-routes-2023.html)
 
 ---
 

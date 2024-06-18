@@ -53,7 +53,34 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+SwiftData is capable of storing a variety of data, but specifically the following:
+
+1. Any class that uses the `@Model` macro.
+2. Any struct that conforms to the `Codable` protocol.
+3. Any enum that conforms to the `Codable` protocol, even if it includes raw values or associated values.
+
+::: important
+
+If you intend to use options 2 or 3 in a hybrid app – using both SwiftData and Core Data side by side – it’s important that you use composite attributes in your Core Data code in order to retain compatibility.
+
+For example, we could create a `Status` enum that has two cases, one of which has an associated value, then use that as one value inside
+
+```swift
+enum Status: Codable {
+    case active, inactive(reason: String)
+}
+
+@Model
+class User {
+    var name: String
+    var status: Status
+
+    init(name: String, status: Status) {
+        self.name = name
+        self.status = status
+    }
+}
+```
 
 ---
 

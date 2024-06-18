@@ -348,4 +348,10 @@ head:
 
 ---
 
+## lambda.cx blog
+
+- [Versioning FreeCAD files with git](https://blog.lambda.cx/posts/freecad-and-git/)
+
+---
+
 <TagLinks />

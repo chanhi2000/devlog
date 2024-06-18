@@ -391,7 +391,6 @@ https://gracefullight.dev/archive/
 https://interestingengineering.com/
 https://paperlined.org/
 
-
 <!-- 
 ```component VPCard
 {
@@ -695,15 +694,12 @@ https://paperlined.org/
 
 @tab <FontIcon icon="fas fa-globe"/>Tech Blog
 
-```component VPCard
-{
-  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://freecodecamp.org/news/",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
-}
-```
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 <SiteInfo
   name="Library | Kodeco > Android & Kotlin"
@@ -1267,6 +1263,13 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 ```
 
 <SiteInfo
+  name="컬리 기술 블로그"
+  desc="컬리 기술 블로그"
+  url="https://helloworld.kurly.com/"
+  logo="https://helloworld.kurly.com/assets/logo/ico_192.png"
+  preview="http://thefarmersfront.github.io/assets/logo-square.png"/>
+
+<SiteInfo
   name="Spoqa 기술 블로그"
   desc="스포카 크리에이터의 경험과 배움을 공유합니다."
   url="https://spoqa.github.io/"
@@ -1279,6 +1282,30 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   url="https://tech.osci.kr"
   logo="https://tech.osci.kr/wp-content/uploads/2022/02/cropped-Favicon-192x192.png"
   preview="https://tech.osci.kr/wp-content/uploads/2023/06/thumb___-300x152.png"/>
+
+<SiteInfo
+  name="사람인 기술 블로그 - Saramin Tech Blog / 사람인 기술 블로그"
+  desc="댱신의 꿈이 별처럼 빛날 때까지 함께하겠습니다."
+  url="https://saramin.github.io/"
+  logo="https://saramin.co.kr/favicon.ico?ver=2"
+  preview="https://saramin.github.io/img/avatar-icon.png"/>
+
+```component VPCard
+{
+  "title": "Tech Archives - DRAMA&COMPANY",
+  "desc": "DRAMA&COMPANY",
+  "link": "https://blog.dramancompany.com/category/develop/",
+  "logo": "https://i0.wp.com/blog.dramancompany.com/wp-content/uploads/2022/10/cropped-remember-appIcon.png?fit=192%2C192&ssl=1",
+  "background": "rgba(20,18,4,0.2)"
+}
+```
+
+<SiteInfo
+  name="Tech - 화해 블로그 | 기술 블로그"
+  desc="뷰티 슈퍼 앱 화해의 테크 조직이 일하는 법을 만나보세요."
+  url="https://blog.hwahae.co.kr/category/all/tech"
+  logo="https://static.hwahae.co.kr/favicon.ico"
+  preview="https://static.hwahae.co.kr/og/OG_1200.png"/>
 
 <!-- @end Tech Blog (Korea) -->
 

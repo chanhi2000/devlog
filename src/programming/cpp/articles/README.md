@@ -8,7 +8,10 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
+  - yozm.wishket.com
   - meetup.nhncloud.com
+  - d2.naver.com
   - cpp
   - c++
 head:
@@ -27,13 +30,20 @@ head:
 
 ---
 
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
 ```component VPCard
 {
-  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://freecodecamp.org/news/",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -69,6 +79,26 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+<!-- END: freecodecamp.org -->
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "Rust는 C++을 대체할 수 있을까? | 요즘IT",
+  "desc": "Rust는 C++을 대체할 수 있을까?",
+  "link": "/explore/articles/yozm.wishket.com/2635.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

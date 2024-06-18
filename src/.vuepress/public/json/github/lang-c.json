@@ -1049,5 +1049,10 @@
     "desc": "Intel CPU undervolting and throttling configuration tool",
     "officialSite": "",
     "topics": ["2518", "intel", "linux", "tdp", "temperature", "undervolt"]
+  }, {
+    "repo": "netdata/netdata",
+    "desc": "The open-source observability platform everyone needs!",
+    "officialSite": "https://www.netdata.cloud",
+    "topics": ["alerting", "cncf", "data-visualization", "database", "devops", "docker", "grafana", "influxdb", "kubernetes", "linux", "machine-learning", "mongodb", "monitoring", "mysql", "netdata", "observability", "postgresql", "prometheus", "raspberry-pi", "statsd"]
   }
 ]

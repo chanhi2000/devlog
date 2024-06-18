@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - kodeco.com
   - yozm.wishket.com
   - meetup.nhncloud.com
@@ -29,6 +30,13 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 <SiteInfo
   name="Library | Kodeco > Android & Kotlin"
@@ -89,6 +97,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "A Guide to Object-Oriented Programming Principles",
+  "desc": "A programming language is generally classified based on its support for one or more paradigms. Object-oriented programming is one such paradigm, where the code is organized as objects. It is used to develop desktop and mobile applications or more complex web or enterprise applications. Using object-oriented programming, you can build...",
+  "link": "/explore/articles/freecodecamp.org/a-guide-to-object-oriented-programming-principles.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/sYKSmIMzjshWM6wgrkIsF2oxaIcY0Fa6wmsfbc2GiJWKlsTR5e6nST0ljxwu-_nuHuE52crOsQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZHskJVMH5fM", "title": "Coding a new full stack project - setting up the database | devlog #1" },
+    { "id": "mmqDYw9C30I", "title": "7 Amazing CLI Tools You Need To Try" },
+    { "id": "6pAG3BHurdM", "title": "How I Setup Neovim To Make It AMAZING in 2024: The Ultimate Guide" },
+    { "id": "uOnL4fEnldA", "title": "How To Make Your Boring macOS Terminal Amazing With Alacritty" },
+    { "id": "DTMllOxW8YY", "title": "ASMR - Coding a video courses platform (in nature) | No Talking" },
+    { "id": "GDCOQBUU0Xw", "title": "Coding a video courses platform with sveltekit & postgres (in nature) | Detailed" },
     { "id": "gMTfkPxcoEk", "title": "My Ultimate Case For The Amazing MX Corne Keyboard | Tented & Regular" },
     { "id": "vzDTdLaAzXc", "title": "How To Build An RGB Corne Split Keyboard: The Complete Beginner's Guide" },
     { "id": "AA8fw2MbpYg", "title": "How To Program Your Keyboard With Code Instead Of QMK Configurator" },

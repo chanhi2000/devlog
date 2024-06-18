@@ -169,6 +169,7 @@ head:
 - [`itswillt` - ⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8?ref=dailydev)
 - [`ajones_codes` / A Better Guide To Forms in React](https://dev.to/ajones_codes/a-better-guide-to-forms-in-react-47f0)
 - [`rasaf_ibrahim` / React Performance Booster - Introduction to the `useMemo` hook](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i)
+- [🪄✨Building a blog with a liking feature using React, Hanko and Novu 🔥](https://dev.to/novu/building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81)
 
 ---
 

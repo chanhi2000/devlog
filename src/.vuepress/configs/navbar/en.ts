@@ -613,7 +613,10 @@ export const navbarEn = navbar([
       }, {
         text: 'vim',
         icon: 'iconfont icon-vim',
-        link: '/tool/vim/README.md',
+        children: [
+          '/tool/vim/README.md',
+          '/tool/nvim/README.md',
+        ]
       }, {
         text: 'awk',
         icon: 'iconfont icon-awk',

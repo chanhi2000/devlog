@@ -22,7 +22,7 @@ head:
       content: "How Suz Hinton went from Dev to White Hat Hacker [Podcast #126]"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126.html
-prev: /programming/git/articles/README.md
+prev: /devops/security/articles/README.md
 date: 2024-05-31
 isOriginal: false
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717169581573/61cad1fa-2425-4767-af5e-f0bbfd48b4c9.png

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/0VMs_-x-_HrssRiDKMPzVlreFMnKYHZoQnTJ--vmbWu_Oe-imNoWTMtBI-RPtcVL4C3vP16l=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WLDHED9ENWI", "title": "Why Learn Python as a Network Engineer" },
+    { "id": "e-N7IqKIez8", "title": "Microsoft Defender for Endpoint | Configure Settings for Windows device" },
+    { "id": "sIUEfOgXwdE", "title": "Overview and Commands of the Linux File System" },
+    { "id": "I4HVqhfGYzs", "title": "Types of Microsoft SharePoint Sites | The Basics of SharePoint" },
+    { "id": "0raITLFkZOU", "title": "How to Create a Basic Tkinter Window" },
+    { "id": "rBevMF3C-bM", "title": "Understanding Shells and Terminals | RHCSA EX200 #examprep" },
+    { "id": "MbmCyw6UmJA", "title": "Microsoft Azure: How to Create a Basic Virtual Network | AZ-140 exam prep" },
     { "id": "h5vq9hFROEA", "title": "Ports Explained | Networking" },
     { "id": "7SJZeuJoAjo", "title": "What is PPPoE? Point-to-Point Protocol and Point-to-Point Protocol over Ethernet Explained" },
     { "id": "ENLbgVtZ3rA", "title": "Virtual Servers | How to Troubleshoot Load Balancing | F5 Certified BIG-IP Administrator (201 TMOS)" },

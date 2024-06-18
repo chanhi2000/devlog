@@ -6,6 +6,24 @@
     "banner": "https://yt3.googleusercontent.com/D0zJGrt0X-2CCvS1enIVEU0PlcbVCGSrHd2udgk7WHvnABGkvD9VrIccLsu-lFXJYw-HbCZj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WqXgl8EZzcs", "title": "Await Async Tasks Are Getting Awesome in .NET 9!" },
+    { "id": "D0MxmDWk4t0", "title": "You Need to Update Your .NET Solution Files!" },
+    { "id": "FTN_SBLmDMM", "title": "\"Stop Using LINQ in .NET!\"" },
+    { "id": "hwjyDC8yYCE", "title": "\"Repositories in .NET Only Need Two Methods!\" | Code Cop #017" },
+    { "id": "2gDm5BRenz0", "title": "Lists Are 3 Times SLOWER in .NET 9!" },
+    { "id": "QSOCXxQ-BQA", "title": "The Right Way to Write if Statements in C#" },
+    { "id": "zwY5M72FOms", "title": "The New Collection Access Feature of C# 13" },
+    { "id": "4wURs-67mB0", "title": "The Only .NET Scheduler You Should Be Using!" },
+    { "id": "617oVraGY_M", "title": "Forget Grafana And Prometheus! Start With This." },
+    { "id": "QaEVhK5ly0I", "title": "\"Stop Using Async Await in .NET to Save Threads\" | Code Cop #018" },
+    { "id": "8xEkVmqlr4I", "title": "Swagger is Going Away in .NET 9!" },
+    { "id": "n_o-xuuVtmw", "title": "Getting Started with Event Sourcing in .NET" },
+    { "id": "ueO5Cb3Emcw", "title": "The New Extensions EVERYTHING Feature of C# 13!" },
+    { "id": "D-2icc7XkZc", "title": "The New .NET 9 HybridCache That You Must Upgrade To!" },
+    { "id": "f_hqGlt_2E8", "title": "Generative AI into ANY .NET App with SemanticKernel" },
+    { "id": "CwZjQJHwHbQ", "title": "The Blazor Competitor is Here!" },
+    { "id": "3jb9Du9pMes", "title": "Microsoft is Breaking Your Code in C# 13" },
+    { "id": "kNzssE7Ir60", "title": "Don't Use Polly in .NET Directly. Use this instead!" },
     { "id": "E8ilDMg7Dak", "title": "How to Deploy .NET Apps to Kubernetes" },
     { "id": "nFU-hcHyl2s", "title": "Getting Started with OpenTelemetry in .NET" },
     { "id": "1oeMTz7LwrU", "title": "The Ultimate .NET Developer Roadmap in 2024" },
@@ -72,4 +90,3 @@
     { "id": "lQu-eBIIh-w", "title": "8 await async mistakes that you SHOULD avoid in .NET" }
   ]
 }
-

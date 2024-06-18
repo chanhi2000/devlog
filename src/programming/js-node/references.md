@@ -206,19 +206,12 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [about React](https://dev.to/t/react)
 - [`javinpaul` / My Favorite Free Courses to Learn JavaScript in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
-- [`dylanju` / `useRef()`가 순수 자바스크립트 객체라는 의미를 곱씹어보기](https://dev.to/dylanju/useref-3j37)
-- [`ramigs` /Building a Jamstack app with Nuxt, Vue and FaunaDB](https://dev.to/ramigs/building-a-jamstack-app-with-nuxt-vue-and-faunadb-kg)
-- [React & Redux Project: Gomojii](https://dev.to/greedybrain/react-redux-project-gomojii-5d6i)
-- [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
-- [How to create load more logic in React](https://dev.to/narendersaini32/how-to-create-load-more-logic-in-react-474m)
-- [Build your React App Faster!](https://dev.to/amanjagdev/build-your-react-app-faster-2bec)
+- [`ramigs` / Building a Jamstack app with Nuxt, Vue and FaunaDB](https://dev.to/ramigs/building-a-jamstack-app-with-nuxt-vue-and-faunadb-kg)
 - [JavaScript: How to Remove Duplicate Values from Arrays](https://dev.to/will_devs/javascript-how-to-remove-duplicate-values-from-arrays-lf0)
 - [My notes about conducting a massive refactor in a Vue.js website](https://dev.to/marianapicolo/my-notes-about-conducting-a-massive-refactor-in-a-vue-js-website-bo7)
 - [Vue.js developers' guide to React](https://dev.to/_masahiro_h_/vue-js-developers-guide-to-react-lg0)
 - [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
-- [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
 - [[Nestia] SDK and Mockup Simulator generation from Swagger Documents (Swagger to NestJS)](https://dev.to/samchon/nestia-migration-tool-from-swagger-to-nestjs-sdk-generator-and-mockup-simulator-for-every-backend-stacks-20na)
 - [Node.js 20.6.0: Say Goodbye to '`dotenv`'](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
 - [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
@@ -227,6 +220,7 @@ tag:
 - [`this-is-learning` - Hono vs. H3 vs. HatTip vs. Elysia - modern server(less) replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
 - [`this-is-learning` - WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
 - [`0shuvo0` / I made Squid Game with JavaScript](https://dev.to/0shuvo0/i-made-squid-game-with-javascript-10j9)
+- [`brainiacneit` / Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
 
 ---
 

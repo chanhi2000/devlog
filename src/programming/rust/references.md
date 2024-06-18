@@ -323,4 +323,16 @@ tag:
 
 ---
 
+## TheTraitModern
+
+- [IPC in Rust - a Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
+
+---
+
+## Sourcegraph | Code Intelligence Platform
+
+- [Enhancing Code Completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)
+
+---
+
 <TagLinks />

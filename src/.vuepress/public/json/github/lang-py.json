@@ -5554,5 +5554,15 @@
     "desc": "Easy token price estimates for 400+ LLMs",
     "officialSite": "https://agentops.ai",
     "topics": ["analytics", "claude", "large-language-models", "llm", "observability", "openai", "price", "price-tracker", "token", "tokenization"]
+  }, {
+    "repo": "yandex/YaFSDP",
+    "desc": "YaFSDP: Yet another Fully Sharded Data Parallel",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ubc-vision/3dgs-mcmc",
+    "desc": "Implementation of the paper \"3D Gaussian Splatting as Markov Chain Monte Carlo\"",
+    "officialSite": "https://ubc-vision.github.io/3dgs-mcmc/",
+    "topics": []
   }
 ]

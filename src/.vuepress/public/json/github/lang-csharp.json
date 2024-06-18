@@ -404,5 +404,10 @@
     "desc": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
     "officialSite": "",
     "topics": ["ai", "image-generation", "stable-diffusion", "stablediffusion", "ui"]
-  }
+  }, {
+    "repo": "chickensoft-games/GodotEnv",
+    "desc": "Manage Godot versions and addons from the command line on Windows, macOS, and Linux.",
+    "officialSite": "https://www.nuget.org/packages/Chickensoft.GodotEnv/",
+    "topics": ["addon", "addons", "gamedev", "godot", "godot-addon", "godot-engine", "godot-game-engine", "godot3", "utilities", "utility"]
+  }  
 ]

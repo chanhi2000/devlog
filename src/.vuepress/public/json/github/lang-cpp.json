@@ -1423,5 +1423,10 @@
     "desc": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
     "officialSite": "https://developer.nvidia.com/tensorrt",
     "topics": ["deep-learning", "gpu-acceleration", "inference", "nvidia", "tensorrt"]
+  }, {
+    "repo": "tstack/lnav",
+    "desc": "Log file navigator",
+  "officialSite": "http://lnav.org",
+    "topics": ["command-line-tool", "less", "log-analysis", "log-monitor", "log-viewer", "log-visualization", "logging", "more", "pager", "tail", "terminal", "terminal-pager", "tui"]
   }
 ]

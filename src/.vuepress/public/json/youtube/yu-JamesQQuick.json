@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/StC9GOxgXbmFL9yXgjzYQneqJ3iQRYKWMSp5a_eTvbq--zwpyaOGJMT1HIWTFp7lRpUXWpEo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "F_AplRX3dJU", "title": "DON'T Make This Mistake with Next.js Server Components (BAD performance!)" },
+    { "id": "6YZriXYmGWM", "title": "Next.js Protected Routes: Require User Profiles with Kinde (EASY!)" },
+    { "id": "S54O8-Yyv3A", "title": "HTMX and Astro Are An Amazing Combo!" },
+    { "id": "0HDou71mpV4", "title": "Leetcode Live Coding" },
+    { "id": "jZBVDRTl7Ok", "title": "Stop Focusing on One JavaScript Framework!" },
+    { "id": "bVzspJ5dsK4", "title": "DON'T Do This with Validation Messages!!" },
+    { "id": "UeK8oAXliIg", "title": "Open Source Project with Next.js, Xata, Sentry, and Clerk" },
+    { "id": "t2_XJYWU8Vw", "title": "5 Things You DIDN'T KNOW Postman Could Do!" },
+    { "id": "8mIUIhp2YGQ", "title": "Astro Launches Actions Similar like Next.js (\"Quick\" Reaction)" },
+    { "id": "nnXXVVL9ZpM", "title": "Fullstack Development with AWS Amplify Gen 2" },
+    { "id": "Cp5PXySeDuM", "title": "How to Work Better With Others with Rachel Nabors" },
+    { "id": "JxaOW3iDSS4", "title": "Deploying Next.js To AWS Just Got MUCH BETTER!" },
     { "id": "VhzId8v3gYA", "title": "Why You SHOULD Use TypeScript Enums!" },
     { "id": "ollaFfQKi0I", "title": "Building Twitch + VS Code Integration" },
     { "id": "dCzNA9nUxuo", "title": "DON'T USE Environment Variables Without This" },
@@ -74,11 +86,8 @@
     { "id": "yeZa4QsX38w", "title": "Quokka.js VS Code Extension - The Fastest Way to Test JavaScript" }, 
     { "id": "hyDtibu3mSo", "title": "The Best Browser For Web Developers?? (Better Than Google Chrome?)" }, 
     { "id": "aCkkEDsJgL0", "title": "VS Code Extension for Working with Frontmatter" }, 
-    { "id": "pgRyuhYt-XA", "title": "New Website Design With Astro" }, 
-    { "id": "mTA8XBhzv5U", "title": "Coding with Remix and Xata database: A Beginner's Tutorial" }, 
     { "id": "Ow3VsOJcvpM", "title": "Is This A Better Way To Handle Images in Next.js?" }, 
     { "id": "Fdl57-a3b3w", "title": "Top 5 Async Mistakes for JavaScript Beginners (Don’t make these!)" }, 
     { "id": "-2eIIthzqFo", "title": "Writing Great Error Messages" }
   ]
 }
-

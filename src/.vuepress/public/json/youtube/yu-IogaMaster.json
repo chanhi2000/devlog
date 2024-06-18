@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/AEJ4z1Sf8mkYU8ngDd12FyBoR5R7oAsyjHCAmuviF56Ki9t5BuPWR8S2fiJXE5ItnH4iYz7xnw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3hMIqxbQBRM", "title": "The ULTIMATE guide to Nixpkgs" },
+    { "id": "zGkshZE__VE", "title": "Visualize Your Infrastructure AUTOMATICALLY with nix-topology" },
     { "id": "Q-QPtHrvLB0", "title": "Installing NixOS servers made EASY" },
     { "id": "sBPEzG-y64o", "title": "Git Hooks!" },
     { "id": "lz2qbtWZu90", "title": "Direnv in 2 minutes" },

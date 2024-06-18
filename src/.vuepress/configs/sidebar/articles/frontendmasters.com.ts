@@ -11,6 +11,9 @@ export const template: SidebarInfoTemplate = {
       "control-javascript-promises-from-anywhere-using-promise-withresolvers", // 2024-06-05
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
     ]], [
+    "js-node", [
+      "introducing-drizzle", // 2024-06-17
+    ]], [
     "js-react", [
       "prefetching-when-server-loading-wont-do", // 2024-05-15
       "combining-react-server-components-with-react-query-for-easy-data-management", // 2024-05-24
@@ -69,6 +72,7 @@ export const template: SidebarInfoTemplate = {
       "live-demos-of-stand-alone-web-components", // 2024-06-06
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
       "one-of-the-boss-battles-of-css-is-almost-won-transitioning-to-auto", // 2024-06-12
+      "introducing-drizzle", // 2024-06-17
     ]]
   ])
 }

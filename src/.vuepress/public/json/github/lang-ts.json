@@ -451,9 +451,9 @@
     "topics": ["react", "theme", "documentation", "docs", "ui", "js", "gatsby", "zero-configuration", "mdx", "design-system", "docz"]
   }, {
     "repo": "amplication/amplication",
-    "desc": "Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀",
+    "desc": "🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation",
     "officialSite": "https://amplication.com",
-    "topics": ["nodejs", "javascript", "api", "graphql", "typescript", "web", "code-generation", "hacktoberfest", "low-code", "nestjs", "prisma"]
+    "topics": ["api", "code-generation", "csharp", "csharp-code", "dotnet", "dotnet-core", "graphql", "hacktoberfest", "javascript", "low-code", "nestjs", "nodejs", "prisma", "typescript", "web"]
   }, {
     "repo": "BuilderIO/partytown",
     "desc": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",

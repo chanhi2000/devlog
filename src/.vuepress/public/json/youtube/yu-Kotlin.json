@@ -6,6 +6,25 @@
     "banner": "https://yt3.googleusercontent.com/j-CCb3SMDLZqzA8Dz8HcXTxU2AWHtMVniKYWJCv7XqlamJoaDJgzIF7nehZhFkIUcOWxccB2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3SQnsG7uYNQ", "title": "Mastering Algorithmic Problem Solving: Insights From Kotlin Heroes" },
+    { "id": "pQHJPFFws3w", "title": "ICPC World Finals 2023: Kotlin Heroes Blind Coding Challenge with tourist, ecnerwala, pashka, & Egor" },
+    { "id": "HAARGzM0ICs", "title": "Extending Ktor: Unleash the Full Potential of Kotlin's Web Framework" },
+    { "id": "0URxGa3q3tY", "title": "Kotlin Coroutines for Accelerated Data Ingestion in Google Cloud" },
+    { "id": "Ar73Axsz2YA", "title": "KotlinConf'24 - Keynote" },
+    { "id": "OoXCsnw65Ao", "title": "KotlinConf'24 - Auditorium 11 Day 2" },
+    { "id": "splURGVTQZg", "title": "KotlinConf'24 - Auditorium 15 Day 2" },
+    { "id": "bhb8y8cJVy0", "title": "KotlinConf'24 - Auditorium 12 Day 2" },
+    { "id": "bZjo7Hlx-AA", "title": "Exploring Kotlin Notebooks with Maia Grotepass | KotlinConfersations'24" },
+    { "id": "H68vXfY6CgM", "title": "Creative Coding Insights with Edwin Jacobs | KotlinConfersations'24" },
+    { "id": "zBqOAKTWenw", "title": "Solving Real-Life Scheduling Problems with Ai and Kotlin | KotlinConfersations'24" },
+    { "id": "LIh2yaVjUhA", "title": "Arrow 2.0 and Concurrency Secrets with Simon Vergauwen | KotlinConfersations'24" },
+    { "id": "PheFYSBEDiU", "title": "Exploring JetBrains AI with Vladislav Tankov | KotlinConfersations'24" },
+    { "id": "FqgxIOAZr7I", "title": "Ross Tate on Programming Languages & Kotlin's Success | KotlinConfersations'24" },
+    { "id": "M1Lw2rcaL04", "title": "Exploring Kotlin Multiplatform with KMP Contest Winners | KotlinConfersations'24" },
+    { "id": "ZPJwdYtSOHw", "title": "Google Summer of Code with Kotlin Foundation | KotlinConfersations'24" },
+    { "id": "6L-CpwjWmCU", "title": "Kord: Deep Dive into the Discord API | Talking Kotlin #132" },
+    { "id": "8gPn3AT1Pl8", "title": "Hacking Sony Cameras with Kotlin | KotlinConfersations'24" },
+    { "id": "xUGBmGyGY30", "title": "Finding Developer Joy with KMP | KotlinConfersations'24" },
     { "id": "haTx5uweXi4", "title": "Lyricist & Voyager - Navigating the Compose Multiverse | Talking Kotlin #130" },
     { "id": "7jafQyCW07w", "title": "Building Web Applications With Vaadin and the Kotlin DSL" },
     { "id": "ZOdW_ln2Rps", "title": "Let's Put the Fun Back into Functional Programming" },
@@ -17,7 +36,6 @@
     { "id": "cmTA3RSqGK0", "title": "Advent of Code 2023 in Kotlin Day 11" },
     { "id": "wYOR4NHWPoc", "title": "Advent of Code 2023 in Kotlin Day 12" },
     { "id": "t3FUWfJWrjU", "title": "Kotlin and WebAssembly: Unleashing Cross-Platform Power" },
-    { "id": "a32Otwx7c0w", "title": "Network-Resilient Applications with Store5 | Talking Kotlin #128" },
     { "id": "a32Otwx7c0w", "title": "Network-Resilient Applications with Store5 | Talking Kotlin #128" },
     { "id": "I0nCFMDkPNo", "title": "Advent of Code 2023 in Kotlin Day 4" },
     { "id": "gLuXUlc6CnE", "title": "Advent of Code 2023 in Kotlin Day 5 | Using Kotlin Notebook" },
@@ -47,7 +65,6 @@
     { "id": "2PLYlDJPelQ", "title": "Introducing Kotlin Notebook" }, 
     { "id": "pXtTp4Uxuhk", "title": "Spring + Kotlin = Modern + Reactive + Productive by: Josh Long and James Ward" }, 
     { "id": "oIbX7nrSTPQ", "title": "Kotlin goes WebAssembly!" }, 
-    { "id": "pgmY6XRktd8", "title": "Multiplatform Secrets with Philipp Lackner | ATOM EP 7" }, 
     { "id": "ZIr_uuN8FEw", "title": "Modern Compose Architecture with Circuit by Zac Sweers and Kieran Elliott" }, 
     { "id": "-tJvCOfJesk", "title": "Kotlin Multiplatform Mobile for Teams by Kevin Galligan" }, 
     { "id": "USz0vxCQE9Q", "title": "Can't Stop The KMP Train with Josh Shin from Volley (w special guest Suzu the Cat)" }, 
@@ -61,4 +78,3 @@
     { "id": "M3ccMm85YU4", "title": "Hexagonal Architecture inside the Hexagon Toolkit" }
   ]
 }
-

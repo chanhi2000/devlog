@@ -146,4 +146,12 @@ head:
 
 - [How to solve hydration error in Next.js](https://chirag-gupta.hashnode.dev/how-to-solve-hydration-error-in-nextjs)
 
+---
+
+## Sebastien Castiel · Developer, writer, indie hacker · 📍 Montreal, QC
+
+- [The simplest example to understand Server Actions in Next.js](https://scastiel.dev/simplest-example-server-actions-nextjs)
+
+---
+
 <TagLinks />

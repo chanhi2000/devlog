@@ -27,15 +27,12 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-```component VPCard
-{
-  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://freecodecamp.org/news/",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
-}
-```
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 ```component VPCard
 {
@@ -92,6 +89,18 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "How to Host Static Sites on Azure Static Web Apps for Free",
+  "desc": "In this article, I will show you how you can host your React/Next.js app or any static web app on Azure Static Web Apps.  I will be showing you both ways of doing it – through the GUI and with the CLI. I assume you already have built a...",
+  "link": "/explore/articles/freecodecamp.org/how-to-host-static-sites-on-azure-static-web-apps.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

@@ -28,15 +28,12 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
-```component VPCard
-{
-  "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-  "desc": "Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.",
-  "link": "https://freecodecamp.org/news/",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
-}
-```
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 <SiteInfo
   name="DigitalOcean | Cloud Infrastructure for Developers"
@@ -253,6 +250,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What are Decorators in Python? Explained with Code Examples",
+  "desc": "In this tutorial, you will learn about Python decorators: what they are, how they work, and when to use them.  But before diving into decorators, it's helpful to understand two foundational concepts in Python: first-class functions and closures. First-Class Functions in Python First-class functions mean that functions in Python...",
+  "link": "/explore/articles/freecodecamp.org/decorators-in-python-tutorial.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -280,6 +287,8 @@ head:
   "background": "rgba(29,55,209,0.2)"
 }
 ```
+
+<!-- END: digitalocean.com -->
 
 ---
 

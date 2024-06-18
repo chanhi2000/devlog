@@ -53,7 +53,15 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+The `@Attribute` macro has a `.spotlight` option that, on paper at least, automatically indexes a property in Spotlight. If you look at other folks writing about this attribute that’s what they’ll say, but as far as I can tell this attribute does *nothing at all*.
+
+If you actually *try* it you’ll see for yourself that it does nothing: the data is stored in a regular SQLite database, and isn’t magically visible to Spotlight searches.
+
+In Core Data we were able to use `NSCoreDataCoreSpotlightDelegate` to trigger spotlight indexing of Spotlight-enabled data, but this is not currently an option for SwiftData apps.
+
+Maybe I’m just “holding it wrong”, but if you’ve found a solution please let me know!
+
+In the meantime, your only option is to use a Core Data coexistence solution and use `NSCoreDataCoreSpotlightDelegate` as before to index your data.
 
 ---
 

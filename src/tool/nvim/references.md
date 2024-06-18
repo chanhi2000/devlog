@@ -1,31 +1,36 @@
 ---
 lang: ko-KR
-title: NeoVim
-description: Vim > NeoVim
-icon: iconfont icon-neovim
+title: References
+description: NeoVim > References
+icon: iconfont icon-share
 category:
-  - Vim
+  - Linux
+  - Shell
   - NeoVim
-tag: 
-  - bash
+  - References
+tag:
   - linux
-  - macos
-  - terminal
-  - vim
+  - shell
+  - cli
+  - nvim
   - neovim
 head:
   - - meta:
     - property: og:title
-      content: Vim > NeoVim
+      content: NeoVim > References
     - property: og:description
-      content: NeoVim
+      content: References
     - property: og:url
-      content: https://chanhi2000.github.io/tools/vim/neovim.html
+      content: https://chanhi2000.github.io/tool/nvim/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
+
+---
+
+## 기계인간 John Grib
 
 <SiteInfo
   name="coc.nvim"
