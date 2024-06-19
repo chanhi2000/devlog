@@ -99,7 +99,7 @@ head:
 
 ---
 
-## NAVER D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677) <!-- TODO: 작성 (/explore/articles/d2.naver.com/3661677.md) -->
 
@@ -306,6 +306,7 @@ head:
   - [Docker Network, 제대로 이해하기 (1)](https://gngsn.tistory.com/137)
   - [Docker Engine, 제대로 이해하기 (2)](https://gngsn.tistory.com/129)
   - [Docker Engine, 제대로 이해하기 (1)](https://gngsn.tistory.com/128)
+  - [Container Networking, 어렵지 않게 이해하기](https://gngsn.tistory.com/m/294)
 
 ---
 
@@ -369,6 +370,12 @@ head:
 ## clean up the desk
 
 - [\[네이버클라우드\] Ncloud Single Sign-On(SSO) / keycloak 연동 - 1. keycloak 설치](https://cleanupthedesk.tistory.com/m/75)
+
+---
+
+## mrchypark
+
+- [\[번역\]Haproxy와 Docker를 이용한 로드밸런싱](https://mrchypark.github.io/post/%EB%B2%88%EC%97%AD-haproxy%EC%99%80-docker%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1/)
 
 ---
 

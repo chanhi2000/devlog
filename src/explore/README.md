@@ -681,6 +681,20 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+<SiteInfo
+  name="JSKIDPIX v1.0.2021"
+  desc="For ZSN and TAKN- I hope you enjoy this as much as I did making it!"
+  url="https://kidpix.app/"
+  logo="https://kidpix.app/img/kidpix.png"
+  preview="https://kidpix.app/static/social.jpg"/>
+
+<SiteInfo
+  name="신뢰의 진화"
+  desc="왜 그리고 어떻게 우리가 서로를 신뢰하는지 게임 이론에 대한 대화식 가이드"
+  url="https://osori.github.io/trust-ko/"
+  logo="https://osori.github.io/trust-ko/favicon.png"
+  preview="http://ncase.me/trust/social/thumbnail.png"/>
+
 <!-- @end Cool Project -->
 
 @tab Portfolio / Resume

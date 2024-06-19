@@ -529,5 +529,15 @@
     "desc": "A modern, expressive testing package for Swift",
     "officialSite": "",
     "topics": ["software-quality", "swift", "swift-macros", "testing", "unit-testing"]
+  }, {
+    "repo": "kabiroberai/node-swift",
+    "desc": "Create Node modules in Swift",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "MrKai77/Loop",
+    "desc": "Window management made elegant.",
+    "officialSite": "",
+    "topics": ["hacktoberfest", "macos", "macos-app", "macos-menubar", "menu", "menubar", "productivity", "radial-menu", "swift", "swiftui", "window-management"]
   }
 ]

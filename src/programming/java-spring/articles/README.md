@@ -158,6 +158,36 @@ head:
 
 ```component VPCard
 {
+  "title": "스프링 부트 시작할 때 알아야 하는 것 | 요즘IT",
+  "desc": "스프링 부트 시작할 때 알아야 하는 것",
+  "link": "/explore/articles/yozm.wishket.com/2115.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "백엔드 개발자를 위한 스프링 부트 테스트 | 요즘IT",
+  "desc": "백엔드 개발자를 위한 스프링 부트 테스트",
+  "link": "/explore/articles/yozm.wishket.com/2142.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "스프링 데이터 JPA, 5분 만에 알아보기 | 요즘IT",
+  "desc": "스프링 데이터 JPA, 5분 만에 알아보기",
+  "link": "/explore/articles/yozm.wishket.com/2160.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger | 요즘IT",
   "desc": "프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger",
   "link": "/explore/articles/yozm.wishket.com/2195.md",
@@ -205,6 +235,8 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 
@@ -256,7 +288,7 @@ head:
 
 ---
 
-## NAVER D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 > d2.naver.com
 

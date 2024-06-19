@@ -3063,11 +3063,20 @@
     "desc": "High-performance In-browser LLM Inference Engine",
     "officialSite": "https://webllm.mlc.ai",
     "topics": ["chatgpt", "deep-learning", "language-model", "llm", "tvm", "webgpu", "webml"]
-  }, 
-  {
+  }, {
     "repo": "Effect-TS/effect",
     "desc": "An ecosystem of tools to build robust applications in TypeScript.",
     "officialSite": "https://effect.website",
     "topics": ["cli", "effect", "javascript", "opentelemetry", "platform", "schema", "typescript"]
+  }, {
+    "repo": "open-metadata/OpenMetadata",
+    "desc": "OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration.",
+    "officialSite": "https://open-metadata.org",
+    "topics": ["data-catalog", "data-collaboration", "data-contracts", "data-discovery", "data-governance", "data-lineage", "data-observability", "data-profiling", "data-quality", "data-quality-checks", "data-science", "data-validation", "datacatalog", "datadiscovery", "dataengineering", "dataquality", "dbt", "metadata", "metadata-management", "snowflake"]
+  }, {
+    "repo": "amphi-ai/amphi-etl",
+    "desc": "Low-code ETL for structured and unstructured data. Generates Python code you can deploy anywhere.",
+    "officialSite": "https://docs.amphi.ai",
+    "topics": ["data", "data-pipelines", "etl", "rag-pipeline", "structured-data", "unstructured-data"]
   }
 ]

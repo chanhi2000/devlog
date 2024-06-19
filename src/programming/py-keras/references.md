@@ -34,7 +34,7 @@ head:
 
 ---
 
-## NAVER D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813) <!-- TODO: 작성 (/explore/articles/d2.naver.com/0065813.md) -->
 

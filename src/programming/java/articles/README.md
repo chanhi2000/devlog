@@ -138,7 +138,47 @@ head:
 
 ## 요즘IT
 
-> yozm.wishket.com
+> yozm.wishket.
+
+```component VPCard
+{
+  "title": "자바 구조 패턴은 어떻게 쓰일까? | 요즘IT",
+  "desc": "자바 구조 패턴은 어떻게 쓰일까?",
+  "link": "/explore/articles/yozm.wishket.com/2122.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "자바 생성 패턴을 실제 프로젝트에 적용하려면? | 요즘IT",
+  "desc": "자바 생성 패턴을 실제 프로젝트에 적용하려면?",
+  "link": "/explore/articles/yozm.wishket.com/2155.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "개발자가 알아야 할 데이터 지향 설계란? | 요즘IT",
+  "desc": "개발자가 알아야 할 데이터 지향 설계란?",
+  "link": "/explore/articles/yozm.wishket.com/2157.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "개발자가 알아야 할 데이터 지향 프로그래밍 with JDK 20 | 요즘IT",
+  "desc": "개발자가 알아야 할 데이터 지향 프로그래밍 with JDK 20",
+  "link": "/explore/articles/yozm.wishket.com/2164.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -238,7 +278,7 @@ head:
 
 ---
 
-## NAVER D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 > d2.naver.com
 

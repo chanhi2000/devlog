@@ -46,4 +46,10 @@ head:
 
 ---
 
+## 제이의 IT 스토리
+
+- [firebase cloud message 버전 업그레이드](https://blog.naver.com/oralol/223483369694)
+
+---
+
 <TagLinks />

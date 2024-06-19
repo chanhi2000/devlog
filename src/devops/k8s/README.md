@@ -9,7 +9,6 @@ category:
 tag:
   - kubernetes
   - k8s
-  - kube
 ---
 
 # {{ $frontmatter.title }} 관련

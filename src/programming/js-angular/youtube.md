@@ -31,7 +31,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-ngconfonline" /><!-- ng-conf -->
-
----
+<MyYouTubeItems jsonName="yu-theigorsedov" /><!-- Igor Sedov -->
 
 <TagLinks />

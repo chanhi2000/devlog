@@ -6,12 +6,17 @@ icon: fas fa-pen-ruler
 category: 
   - Design
   - System
+  - Amazon
+  - AWS
   - Article(s)
 tag: 
   - blog
   - freecodecamp.org
   - design
   - system
+  - amazon
+  - aws
+  - amazon-web-services
 head:
   - - meta:
     - property: og:title

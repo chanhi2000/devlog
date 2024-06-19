@@ -95,6 +95,8 @@ tag:
 - [`@qkrtkdwns3410` / \[자바\] BufferedWriter 에서는 왜 정수를 String 으로 변환해서 출력해야만 하는가?](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-BufferedWriter-%EC%97%90%EC%84%9C%EB%8A%94-%EC%99%9C-%EC%A0%95%EC%88%98%EB%A5%BC-String-%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%B4%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94%EA%B0%80)
 - [`@qkrtkdwns3410` / \[이펙티브 자바 아이템 46\] 스트림에서는 부작용 없는 함수를 사용하라.](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C-46-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%97%90%EC%84%9C%EB%8A%94-%EB%B6%80%EC%9E%91%EC%9A%A9-%EC%97%86%EB%8A%94-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 - [`@qkrtkdwns3410` / \[자바\] BufferedWriter 에서는 왜 정수를 String 으로 변환해서 출력해야만 하는가?](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-BufferedWriter-%EC%97%90%EC%84%9C%EB%8A%94-%EC%99%9C-%EC%A0%95%EC%88%98%EB%A5%BC-String-%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%B4%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94%EA%B0%80)
+- [`@qkrtkdwns3410` / \[이펙티브 자바 아이템42\] 익명 클래스보다는 람다를 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C42-%EC%9D%B5%EB%AA%85-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%9E%8C%EB%8B%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
+
 
 ### <FontIcon icon="iconfont icon-blex"/>BLEX
 

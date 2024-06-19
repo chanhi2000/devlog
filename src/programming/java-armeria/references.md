@@ -30,7 +30,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-java"/>Java
 
-### NAVER D2
+### <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222) <!-- TODO: 작성 (/explore/articles/d2.naver.com/6080222.md) -->
 

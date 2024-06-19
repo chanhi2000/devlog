@@ -402,4 +402,10 @@ head:
 
 ---
 
+## YA-Hwang 기술 블로그
+
+- [`aws-sdk-pandas` Lambda로 활용하기](https://yahwang.github.io/posts/112)
+
+---
+
 <TagLinks />

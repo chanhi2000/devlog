@@ -1054,5 +1054,16 @@
     "desc": "The open-source observability platform everyone needs!",
     "officialSite": "https://www.netdata.cloud",
     "topics": ["alerting", "cncf", "data-visualization", "database", "devops", "docker", "grafana", "influxdb", "kubernetes", "linux", "machine-learning", "mongodb", "monitoring", "mysql", "netdata", "observability", "postgresql", "prometheus", "raspberry-pi", "statsd"]
+  }, {
+    "repo": "xt-sys/exectos",
+    "desc": "ExectOS Operating System",
+    "officialSite": "https://exectos.eu.org",
+    "topics": ["bootloader", "c", "drivers", "efi", "gpl3", "kernel", "nt", "operating-system", "operating-system-kernel", "os", "osdev", "uefi-boot", "x86", "x86-64", "xt", "xtos"]
+  }, {
+    "repo": "xt-sys/xtchain",
+    "desc": "XT Toolchain",
+    "officialSite": "https://git.codingworkshop.eu.org/xt-sys/xtchain",
+    "topics": []
   }
+  
 ]

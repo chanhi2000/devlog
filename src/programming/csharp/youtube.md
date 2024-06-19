@@ -83,5 +83,6 @@ tag:
 <MyYouTubeItems jsonName="yu-LearnWithHuw" /><!-- Learn With Huw -->
 <MyYouTubeItems jsonName="yu-CodeBeauty" /><!-- CodeBeauty -->
 <MyYouTubeItems jsonName="yu-Bogdan_Stashchuk" /><!-- Bogdan Stashchuk -->
+<MyYouTubeItems jsonName="yu-learncloudnative" /><!-- Peter Jausovec -->
 
 <TagLinks />

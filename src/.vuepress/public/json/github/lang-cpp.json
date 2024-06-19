@@ -1426,7 +1426,12 @@
   }, {
     "repo": "tstack/lnav",
     "desc": "Log file navigator",
-  "officialSite": "http://lnav.org",
+    "officialSite": "http://lnav.org",
     "topics": ["command-line-tool", "less", "log-analysis", "log-monitor", "log-viewer", "log-visualization", "logging", "more", "pager", "tail", "terminal", "terminal-pager", "tui"]
+  }, {
+    "repo": "niedev/RTranslator",
+    "desc": "RTranslator is the world's first open source real-time translation app.",
+    "officialSite": "",
+    "topics": ["ai", "android-app", "bluetooth-le", "coversation", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "simultaneous-translation", "transformers", "translation", "translator", "whisper-ai"]
   }
 ]

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/5W5zpv8wFqrsyxoFwWRKBiOumbBUdzO0Y58D73YVYIdV5cfRbTCBUEXwy2DugOSTCMkaKmf1Vg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BsbdxMMYgUo", "title": "Write Commandline Pascal Programs in Lazarus" },
+    { "id": "7-Vpk4I1uTo", "title": "Move a Lost, Off-Screen Window Back On Screen  (using C#)" },
+    { "id": "mhpQsfI4SLE", "title": "Write an Adventure Game in Delphi or Free Pascal" },
     { "id": "lddJhWWGcow", "title": "Write A Cross-Platform Adventure Game! (With Lazarus)" },
     { "id": "JVS3nux9Kzw", "title": "Serialization in .NET  – BinaryFormatter Errors and How To Fix Them!" },
     { "id": "E0kF0mv9s5M", "title": "Learn Pascal Programming With Lazarus and Free Pascal (First Lesson)" },

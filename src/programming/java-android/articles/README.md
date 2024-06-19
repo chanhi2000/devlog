@@ -231,6 +231,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Android, iOS 웹뷰에서 딥링크 열기 | 요즘IT",
+  "desc": "Android, iOS 웹뷰에서 딥링크 열기",
+  "link": "/explore/articles/yozm.wishket.com/2126.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기 | 요즘IT",
   "desc": "CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기",
   "link": "/explore/articles/yozm.wishket.com/2457.md",
@@ -238,6 +248,8 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

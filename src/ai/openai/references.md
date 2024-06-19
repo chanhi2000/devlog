@@ -336,6 +336,7 @@ head:
 - [KIER 강연 - AI활용 업무 효율화 방안](https://jehyunlee.github.io/2024/04/03/General-48_kierworkaccellec/)
 - [DALL.E inpainting으로 그림 그리기](https://jehyunlee.github.io/2024/05/19/General-51-dalleinpainting/)
 - [생성 AI 연구 활용 가이드](https://jehyunlee.github.io/2024/05/19/General-52-genairesearch/)
+- [연구용 GPT 만들기 - 논문봇 등](https://jehyunlee.github.io/2024/06/19/General-56-customgpt/)
 
 ---
 

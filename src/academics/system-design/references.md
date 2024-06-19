@@ -35,6 +35,7 @@ head:
 
 ## Share & Discover Presentations | SlideShare
 
+- [도메인 주도 설계의 본질](https://www.slideshare.net/baejjae93/ss-27536729?)
 - [How to build massive service for advance](https://www.slideshare.net/slideshow/how-to-build-massive-service-for-advance/124502152)
 - [우아한 모노리스](https://slideshare.net/slideshow/ss-224478403/224478403)
 
@@ -96,7 +97,7 @@ head:
 
 ---
 
-## NAVER D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)<!-- TODO: 작성 (/explore/articles/d2.naver.com/6070967.md) -->
 - [글로벌 네트워크 에뮬레이터 prism_pacman 소개](https://d2.naver.com/helloworld/7847943) <!-- TODO: 작성 (/explore/articles/d2.naver.com/7847943.md) -->
@@ -165,6 +166,7 @@ head:
 - [`guleum` / 디자인 시스템을 구성하는 방법](https://medium.com/guleum/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-beefa8214884)
 - [`vingle-tech-blog` / Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
 - [`codex` / How Pinterest Scaled to 11 Million Users With Only 6 Engineers](https://medium.com/codex/how-pinterest-scaled-to-11-million-users-with-only-6-engineers-a0f62cea62b8)
+- [`delightroom` / 확장 가능하지 않은 일을 하라 (Do things that don’t scale)](https://medium.com/delightroom/do-things-that-dont-scale-6876c5682a75)
 
 ---
 
@@ -175,6 +177,20 @@ head:
 - [`@sehyunny` / (번역) 예상치 못한 접근성 팁 소개](https://velog.io/@sehyunny/unexpected-a11y-tips)
 - `@qkrtkdwns3410` / [\[실용주의 프로그래머\] Topic 3 소프트웨어 엔트로피](https://velog.io/@qkrtkdwns3410/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-Topic-3-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%ED%8A%B8%EB%A1%9C%ED%94%BC)
 - [`@yeonns` / Cell-based Architecture에 대해 알아보자](https://velog.io/@yeonns/what-is-cell-based-architecture)
+
+---
+
+## Brunch
+
+- [`@ebprux` / UX 디자인 프로세스와 개발자와의 소통](https://brunch.co.kr/@ebprux/1318)
+- [`@ebprux` / UX 가설 유형과 활용 방안](https://brunch.co.kr/@ebprux/1333)
+- [`@ebprux` / 인터랙션, 그것이 UI보다 중요한 이유](https://brunch.co.kr/@ebprux/1334)
+- [`@ebprux` / 간결성 원칙 6. 최소한의 콘텐츠만 제공합니다.](https://brunch.co.kr/@ebprux/1344)
+- [`@ebprux` / 간결성 원칙 7. 화면 영역 내 선택지는 최소화만 제공](https://brunch.co.kr/@ebprux/1345)
+- [`@ebprux` / 모바일 UX디자인의 핵심 원칙: 모달창 버튼 하단 배치](https://brunch.co.kr/@ebprux/1346)
+- [`@ebprux` / UX 리서치의 진정한 힘 - 관찰의 중요성](https://brunch.co.kr/@ebprux/1335)
+- [`@ebprux` / UX 디자인과 사용자 민주주의의 중요성](https://brunch.co.kr/@ebprux/1310)
+- [`@ebprux` / 와이어프레임의 미학](https://brunch.co.kr/@ebprux/1336)
 
 ---
 
@@ -449,6 +465,7 @@ head:
 
 ## mingrammer's note
 
+- [\[번역\] 10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
 - [\[번역\] 웹 캐싱의 숨겨진 요소들](https://mingrammer.com/translation-the-hidden-components-of-web-caching/)
 
 ---
@@ -474,6 +491,18 @@ head:
 ## Home - 영록이 홈페이지
 
 - [Simple Design](https://youngrok.com/Simple%20Design)
+
+---
+
+## Lazygyu blog
+
+- [Hype Driven Development - 설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [블로그 | 멀쩡한 코드가 프로덕션만 가면 느려지는 5가지 이유와 해결 방법](https://www.ciokorea.com/news/38473)
 
 ---
 

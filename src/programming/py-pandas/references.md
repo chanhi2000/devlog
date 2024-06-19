@@ -36,6 +36,13 @@ head:
 
 ---
 
+## Brunch
+
+- [`@yysttong` / Polars #08](https://brunch.co.kr/@yysttong/129)
+- [`@yysttong` / Polars #09](https://brunch.co.kr/@yysttong/130)
+
+---
+
 ## 멈춤보단 천천히라도
 
 - [Optuna를 사용하여 XGBoost 최적 하이퍼 파라미터 구하는 예제코드](https://webnautes.tistory.com/2029)
@@ -76,6 +83,12 @@ head:
 ## HackerNoon - read, write and learn about any technology
 
 - [How I Used Python and Folium to Visualize My Outdoor Activities](https://hackernoon.com/how-i-used-python-and-folium-to-visualize-my-outdoor-activities)
+
+---
+
+## YA-Hwang 기술 블로그
+
+- [`aws-sdk-pandas` Lambda로 활용하기](https://yahwang.github.io/posts/112)
 
 ---
 

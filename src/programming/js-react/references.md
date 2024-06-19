@@ -124,7 +124,7 @@ head:
 
 ---
 
-## Naver D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [React와 Apollo, Parcel 기반 서비스 개발](https://d2.naver.com/helloworld/2838729) <!-- TODO: 작성 (/explore/articles/d2.naver.com/2838729.md) -->
 
@@ -190,7 +190,7 @@ head:
 - [`@eunbinn` - [번역] DALL-E와 Next.js로 이미지 편집기 만들기](https://velog.io/@eunbinn/image-editor-dall-e-next)
 - [`@yaytomato` / 🍪 프론트에서 안전하게 로그인 처리하기 (ft. React)](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [`@eunbinn` / [번역] 리액트 컴파일러](https://velog.io/@eunbinn/react-compiler)
-
+- [`@u-ryu-00` / \[Tool\] React를 위한 Storybook 도입하기 1탄](https://velog.io/@u-ryu-00/Tool-React%EB%A5%BC-%EC%9C%84%ED%95%9C-Storybook-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 ---
 
 ## Okta
@@ -312,6 +312,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`ljs0705` / 카카오페이지 웹 React 포팅 후기](https://ljs0705.medium.com/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9B%B9-react-%ED%8F%AC%ED%8C%85-%ED%9B%84%EA%B8%B0-76402cc5e031)
 - [`@rivoltafilippo` / Mastering Frontend Interviews: A Deep Dive into React Virtualized Lists](https://medium.com/@rivoltafilippo/mastering-frontend-interviews-a-deep-dive-into-react-virtualized-lists-10600536d540)
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
 - [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
@@ -354,6 +355,7 @@ head:
 - [`bitsrc` / A Modern Approach to React Development](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)
 - [`@renanolovics` / 10 Best Practices in Front-end Development (React)](https://medium.com/@renanolovics/10-best-practices-in-front-end-development-react-5277a671e2df)
 - [`myrealtrip-product` / Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
+- [`junghan92` / 오늘 리액트 컴파일러를 사용해 봤는데, 어땠을 것 같나요? 😉](https://junghan92.medium.com/%EC%98%A4%EB%8A%98-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B4%A4%EB%8A%94%EB%8D%B0-%EC%96%B4%EB%95%A0%EC%9D%84-%EA%B2%83-%EA%B0%99%EB%82%98%EC%9A%94-ece57f076b02)
 
 ---
 
@@ -695,6 +697,7 @@ https://o-yeon.tistory.com/227
 ## 사진찍는 웹 개발자의 블로그
 
 - [Clerk를 사용해서 유저 정보 관리하기](https://donghoon-song.github.io/clerk/clerk%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%9C%A0%EC%A0%80-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/)
+- [실전 예제로 알아보는 react hook form 사용법](https://donghoon-song.github.io/react.js/%EC%8B%A4%EC%A0%84-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-react-hook-form-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 
 ---
 

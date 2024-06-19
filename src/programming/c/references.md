@@ -411,6 +411,7 @@ tag:
 - [C 언어로 수학 그래프 그리기 - Step 3](https://blog.naver.com/tipsware/223479952251)
 - [C 언어로 수학 그래프 그리기 - Step 4](https://blog.naver.com/tipsware/223480328012)
 - [C 언어로 수학 그래프 그리기 - Step 5](https://blog.naver.com/tipsware/223481017595)
+- [C 언어로 수학 그래프 그리기 - Step 6](https://blog.naver.com/tipsware/223483845163)
 
 ---
 

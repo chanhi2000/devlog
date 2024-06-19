@@ -39,6 +39,7 @@ export const template: SidebarInfoTemplate = {
       "a-guide-to-the-node-js-event-loop", // 2024-05-28
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024-05-28
       "learn-threejs-by-building-five-projects", // 2024-06-12
+      "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -102,6 +103,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-handle-keyerror-exceptions-in-python", // 2024-06-17
       "first-class-functions-and-closures-in-python", // 2024-06-17
       "decorators-in-python-tutorial", // 2024-06-18
+      "for-else-loop-in-python", // 2024-06-19
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -167,6 +169,7 @@ export const template: SidebarInfoTemplate = {
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024-05-28
       "comparing-iac-tools-aws-cdk-cloudformation-terraform", // 2024-06-03
       "auto-scaling-and-load-balancing", // 2024-06-17
+      "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
     ]],[
     "azure", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -326,6 +329,8 @@ export const template: SidebarInfoTemplate = {
       "a-non-technical-introduction-to-generative-ai", // 2024-06-18
       "decorators-in-python-tutorial", // 2024-06-18
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
+      "for-else-loop-in-python", // 2024-06-19
+      "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
     ]],
   ]),
 }

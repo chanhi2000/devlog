@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/fbvy650wx4_QRT8rtU1rn6MSGt_vIrdyVE73lsh6EVmnx_fsnWF1v_NLSDk9NiS8ee4GSnOF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lU4loK1dmr8", "title": "Building an AI API Gateway" },
+    { "id": "TrgVlBjEu_w", "title": "What is SpinKube?" },
+    { "id": "X330b0nAmNU", "title": "Building apps and games with Discord's Embedded App SDK" },
+    { "id": "hxn-K2TLtYI", "title": "Distributed apps with .NET Aspire" },
+    { "id": "xDYsyUB8vqQ", "title": "Dagger: Programmable CI/CD engine" },
+    { "id": "4rVrR9haWlg", "title": "Building .NET Aspire extensions" },
+    { "id": "N1vt6f1Gz34", "title": "Learning htmx" },
+    { "id": "GifUmXEeB3Y", "title": "Build a todo list with htmx, Bun, Elysia and Tailwind" },
+    { "id": "SKppsfOPHqA", "title": "What is Crossplane?" },
+    { "id": "j8cffKBAMHY", "title": "Julep.ai: Developing stateful and functional LLM powered apps" },
+    { "id": "224YINltJ9A", "title": "LLM: Tools, functions, and agents - building reservation system for a dental office" },
     { "id": "IM1VzKDI9SI", "title": "Exploring LangFuse" },
     { "id": "MP-IJBMDm0I", "title": "Exploring Azure AI Studio" },
     { "id": "JsII4MXdCBw", "title": "What is Backstage? (Part 2)" },

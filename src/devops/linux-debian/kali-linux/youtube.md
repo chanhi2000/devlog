@@ -22,5 +22,6 @@ tag:
 <MyYouTubeItems jsonName="yu-DevWonYoung" /><!-- 데브원영 DVWY -->
 <MyYouTubeItems jsonName="yu-jamescutajar" /><!-- James Cutajar -->
 <MyYouTubeItems jsonName="yu-RibaLinux" /><!-- Riba Linux -->
+<MyYouTubeItems jsonName="yu-HackerJohn" /><!-- Hacker Joe -->
 
 <TagLinks />

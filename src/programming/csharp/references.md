@@ -426,4 +426,10 @@ tag:
 
 ---
 
+## IT세상을 바꾸는 힘 지디넷코리아
+
+- [MS, C# 코딩 돕는 AI 도구 공개](https://zdnet.co.kr/view/?no=20180518113544)
+
+---
+
 <TagLinks />

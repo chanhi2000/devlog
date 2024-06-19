@@ -28,5 +28,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-thewebsitearchitect" /><!-- The Website Architect -->
+<MyYouTubeItems jsonName="yu-chainlift.official" /><!-- Chainlift -->
 
 <TagLinks />

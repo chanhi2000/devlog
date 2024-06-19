@@ -27,7 +27,7 @@ head:
 
 ---
 
-## NAVER D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836) <!-- TODO: 작성 (/explore/articles/d2.naver.com/1264836.md) -->
 

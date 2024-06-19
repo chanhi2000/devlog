@@ -72,7 +72,8 @@ tag:
 
 ## Life Log
 
-- [보안 학과를 나온 개발자의 nginx 버전 숨기기](https://ravenkim97.tistory.com/452)
+- [보안 학과를 나온 개발자의 nginx 버전 숨기기](https://ravenkim97.tistory.com/m/452)
+- [리버스 프록시 장점](https://ravenkim97.tistory.com/m/463)
 
 ---
  

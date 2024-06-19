@@ -8,14 +8,15 @@ category:
   - Article(s)
 tag: 
   - blog
+  - yozm.wishket.com
   - d2.naver.com
-  - sql
+  - data-science
+  - database
   - db
-  - youtube
 head:
   - - meta:
     - property: og:title
-      content: Database > Article(s)
+      content: Data Science > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url
@@ -23,6 +24,16 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 <SiteInfo
   name="NAVER D2"
@@ -35,7 +46,25 @@ head:
 
 ---
 
-## NAVER D2
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "신뢰할 수 있는 데이터를 확보하기 위한 3가지 체크리스트 | 요즘IT",
+  "desc": "신뢰할 수 있는 데이터를 확보하기 위한 3가지 체크리스트",
+  "link": "/explore/articles/yozm.wishket.com/2171.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
+
+---
+
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 > d2.naver.com
 

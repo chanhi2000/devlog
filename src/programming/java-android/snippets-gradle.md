@@ -29,7 +29,7 @@ tag:
 
 | title | description |
 | ---: | :---------- |
-| 목적 | Signing처리 된 Android APK 생성 (`keystore.properties` 파일 구성 필요) |
+| 목적 | Signing처리 된 Android APK 생성 (<FontIcon icon="fas fa-file-lines"/>`keystore.properties` 파일 구성 필요) |
 | 적업대상 `gradle` 파일 | `./<최종 Android모듈>/build.gradle` |
 
 ### A1. 기타 준비파일
@@ -39,7 +39,7 @@ tag:
 | `./keystore.properties` | Keystore 관련 정보 파일 |
 | `./<파일명>.keystore` | Keystore파일 |
 
-### A2. `keystore.properties`
+### A2. <FontIcon icon="fas fa-file-lines"/>`keystore.properties`
 
 ```properties
 # ...[생략]...

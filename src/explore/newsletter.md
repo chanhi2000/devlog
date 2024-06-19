@@ -1186,16 +1186,6 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 
 ```component VPCard
 {
-  "title": "Spoqa 기술 블로그",
-  "desc": "스포카 크리에이터의 경험과 배움을 공유합니다.",
-  "link": "https://spoqa.github.io/",
-  "logo": "https://spoqa.github.io/images/favicon.ico",
-  "background": "rgba(0,140,94,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "AB180 엔지니어링 베이스 | 기술블로그",
   "desc": "에어브릿지를 만드는 개발자들의 경험과 기록을 꾸준히 기록하는 공간입니다",
   "link": "https://engineering.ab180.co/",
@@ -1306,6 +1296,13 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   url="https://blog.hwahae.co.kr/category/all/tech"
   logo="https://static.hwahae.co.kr/favicon.ico"
   preview="https://static.hwahae.co.kr/og/OG_1200.png"/>
+
+<SiteInfo
+  name="NRISE ENGINEERING BLOG"
+  desc="엔라이즈 기술 블로그 NRISE ENGINEERING BLOG"
+  url="https://nrise.github.io/"
+  logo="https://nrise.github.io/images/favicon.ico"
+  preview="https://nrise.github.io/images/nrise_cover_image.jpg"/>
 
 <!-- @end Tech Blog (Korea) -->
 

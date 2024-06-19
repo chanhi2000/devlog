@@ -1354,6 +1354,13 @@ https://mdis.kostat.go.kr/index.do
 }
 ```
 
+<SiteInfo
+  name="Apple Maps on the Web - Maps- Apple Developer"
+  desc="MapKit JS brings Apple Maps to the web. This new JavaScript library lets you add interactive maps to webpages — complete with annotations, overlays, and interfaces to Apple Maps services such as search and directions — to enable rich interactions."
+  url="https://developer.apple.com/maps/web/"
+  logo="https://developer.apple.com/favicon.ico"
+  preview="https://developer.apple.com/maps/web/images/screen-hero-small_2x.png"/>
+
 ```component VPCard
 {
   "title": "YouTube Developer Documentation  |  Google for Developers",

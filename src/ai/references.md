@@ -124,6 +124,12 @@ head:
 
 ---
 
+## 멈춤보단 천천히라도
+
+- [코랩 사용기 ( Pay As You GO, 코랩 프로)](https://webnautes.tistory.com/m/2018)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

@@ -38,4 +38,10 @@ head:
 
 ---
 
+## 게으른맽랩 lazy matlab
+
+- [구글 드라이브에 저장된 이미지를 웹페이지에 embed 하기](https://lazymatlab.tistory.com/m/246)
+
+---
+
 <TagLinks />

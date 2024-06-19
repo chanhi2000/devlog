@@ -4,16 +4,21 @@ title: References
 description: Kubernetes > References
 icon: iconfont icon-share
 category:
+  - DevOps
   - Kubernetes
+  - VM
   - References
 tag: 
   - kubernetes
-  - kube
-  - win
-  - Windows
-  - win10
-  - msc
-  - eventvwr.msc
+  - k8s
+head:
+  - - meta:
+    - property: og:title
+      content: Kubernetes > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/k8s/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -36,7 +41,7 @@ tag:
   logo="https://raw.githubusercontent.com/ramitsurana/awesome-kubernetes/master/docs/images/logo.png"
   preview="https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png"/>
 
-## Kubernetes
+## <FontIcon icon="iconfont icon-k8s"/>Kubernetes
 
 - [Diagram Guide](https://kubernetes.io/docs/contribute/style/diagram-guide)
 - [Improve your documentation with Mermaid.js diagrams](https://www.kubernetes.dev/blog/2021/12/01/improve-your-documentation-with-mermaid.js-diagrams/)
@@ -65,7 +70,7 @@ tag:
 
 ---
 
-## NAVER D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
 

@@ -109,6 +109,7 @@ tag:
 - [`@euisuk-chung` / [꿀팁] Python으로 다양한 데이터 다루기](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-Python%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 - [`@euisuk-chung` /  \[파이썬\] 우분투에서 한글 폰트 설치하고 matplotlib에 사용하기](https://velog.io/@euisuk-chung/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%ED%8F%B0%ED%8A%B8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-matplotlib%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [`@euisuk-chung` / \[파이썬\] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-vs-code-keymapping-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-shiftenter-ctrlenter-%EB%93%B1)
+- [`@eunbibi` / JPype1](https://velog.io/@eunbibi/jpype1)
 
 ---
 
@@ -273,6 +274,13 @@ tag:
 - [`@wolfsil` - 파이썬 디렉토리 다루기](https://blex.me/@wolfsil/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 - [`@laetipark` - 백준BOJ/Python : 1764번 : 듣보잡](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-1764%EB%B2%88-%EB%93%A3%EB%B3%B4%EC%9E%A1)
 - [`@laetipark` - 백준BOJ/Python : 18110번 : solved.ac](https://blex.me/@laetipark/%EB%B0%B1%EC%A4%80bojpython-18110%EB%B2%88-solvedac)
+
+---
+
+## Brunch
+
+- [`@yysttong` / Python: DuckDB(4)](https://brunch.co.kr/@yysttong/128)
+- [`@1aft` / Python: DuckDB(5)](https://brunch.co.kr/@1aft/131)
 
 ---
 
@@ -873,6 +881,7 @@ tag:
 ## passion is like genius; a miracle.
 
 - [Joblib Memory that expires after timelimit](https://mkseo.pe.kr/blog/?p=4950)
+- [How to suppress “Using categorical units to plot a list of strings that are all parsable as floats or dates.”](https://mkseo.pe.kr/blog/?p=5012)
 
 ---
 
@@ -1594,6 +1603,12 @@ tag:
 ## Mark Litwintschik
 
 - [Popular Airline Passenger Routes Refresh](https://tech.marksblogg.com/popular-airline-passenger-routes-2023.html)
+
+---
+
+## Share & Discover Presentations | SlideShare
+
+- [파이썬 생존 안내서 (자막)](https://www.slideshare.net/slideshow/ss-67589513/67589513)
 
 ---
 

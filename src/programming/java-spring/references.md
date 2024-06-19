@@ -36,17 +36,14 @@ head:
 
 - [Spring Boot 3.2 Release Notes](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.2-Release-Notes)
 
-## <FontIcon icon="iconfont icon-spring"/>Spring
+### <FontIcon icon="iconfont icon-spring"/>Spring
 
 - [Runtime efficiency with Spring (today and tomorrow)](https://spring.io/blog/2023/10/16/runtime-efficiency-with-spring)
 
----
-
-## <FontIcon icon="fa-brands fa-aws"/>Amazon Web Services
+### <FontIcon icon="fa-brands fa-aws"/>Amazon Web Services
 
 - [SpringBoot 에서 AWS Secrets manager를 이용하여 안전하게 데이터베이스를 이용하는 방법](https://repost.aws/en/articles/ARrbXsydIkSAqKLrWhos7GnQ/spring-boot-%EC%97%90%EC%84%9C-aws-secrets-manager%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
----
 ### InfoQ
 
 - [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java/)
@@ -89,7 +86,7 @@ head:
 
 ---
 
-### NAVER D2
+### <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222) <!-- TODO: 작성 (/explore/articles/d2.naver.com/6080222.md) -->
 - [streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현](https://d2.naver.com/helloworld/9423440) <!-- TODO: 작성 (/explore/articles/d2.naver.com/9423440.md) -->
@@ -262,6 +259,7 @@ head:
 - [\[내일배움캠프 40일차 TIL\] 통합 테스트와 Spring AOP(어드바이스, 포인트컷)](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-40%EC%9D%BC%EC%B0%A8-TIL-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80-Spring-AOP%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%8A%A4-%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%BB%B7)
 - [\[내일배움캠프 41일차 TIL\] 테스트 활용 과제](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-41%EC%9D%BC%EC%B0%A8-TIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C)
 - [\[내일배움캠프 42일차 TIL\] 테스트 활용 과제 제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-42%EC%9D%BC%EC%B0%A8-TIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C)
+- [\[내일배움캠프 43일차 TIL\] 테스트 활용 과제 재제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-43%EC%9D%BC%EC%B0%A8-TIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%9E%AC%EC%A0%9C%EC%B6%9C)
 
 ### Hide
 
@@ -343,6 +341,7 @@ head:
 
 - [\[Spring Security\] Spring Security와 JWT를 사용하여 사용자 인증 구현하기(Spring Boot 3.0.0 이상)](https://colabear754.tistory.com/m/171)
 - [\[Spring Security\] Spring Security 예외를 @ControllerAdvice와 @ExceptionHandler를 사용하여 전역으로 처리해보자](https://colabear754.tistory.com/m/172)
+- [\[MockMvc\] MockMvc 테스트 시 한글이 깨져서 테스트에 실패하는 문제](https://colabear754.tistory.com/m/217)
 
 ### Free Java & OpenJDK Info for Daily Java Usage | foojay
 
@@ -357,6 +356,8 @@ head:
 - [3.1. 신규 프로젝트 생성 마법사 실행하기](https://ysedeveloper.tistory.com/m/entry/31-%EC%8B%A0%EA%B7%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1-%EB%A7%88%EB%B2%95%EC%82%AC-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
 - [3.2. 스프링 부트 프로젝트 속성 설정하기](https://ysedeveloper.tistory.com/m/entry/32-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8D%EC%84%B1-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [3.3. 기본 라이브러리 설정하기](https://ysedeveloper.tistory.com/m/entry/33-%EA%B8%B0%EB%B3%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [3.4. 스프링 부트 한글 입출력 설정하기](https://ysedeveloper.tistory.com/m/entry/34-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%9C%EA%B8%80-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [3.5. STS 한글 인코딩 설정하기](https://ysedeveloper.tistory.com/m/entry/35-STS-%ED%95%9C%EA%B8%80-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ### Suhwan Jee's blog
 
@@ -398,6 +399,10 @@ head:
 
 - [Distributed Cache로 Hibernate Second Level Cache를 적용하여 성능 튜닝하기 - Second Level Cache 적용편](https://pkgonan.github.io/2020/05/distributed-hibernate-second-level-cache-3)
 
+### Minty Box
+
+- [Spring WebSocket 예외 처리 - `@MessageExceptionHandler`, `StompSubProtocolErrorHandler`](https://shout-to-my-mae.tistory.com/m/434)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -435,6 +440,10 @@ head:
 ### suhwan.dev
 
 - [Spring Transaction 사용 시 주의할 점](https://suhwan.dev/2020/01/16/spring-transaction-common-mistakes/)
+
+### 개발하는 곰돌이
+
+- [\[MockMvc\] MockMvc 테스트 시 한글이 깨져서 테스트에 실패하는 문제](https://colabear754.tistory.com/m/217)
 
 ---
 

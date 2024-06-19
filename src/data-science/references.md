@@ -25,7 +25,7 @@ head:
 
 ---
 
-## NAVER D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [데이터 분석 결과를 효과적으로 제공하기 위한 그래프 데이터베이스 구축](https://d2.naver.com/helloworld/8446520) <!-- TODO: 작성 (/explore/articles/d2.naver.com/8446520.md) -->
 
@@ -70,6 +70,12 @@ head:
 ## Stripe Blog: Online Payment Solutions Blog
 
 - [How Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](https://www.ciokorea.com/news/38041)
 
 ---
 

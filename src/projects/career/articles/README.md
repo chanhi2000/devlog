@@ -121,6 +121,26 @@ head:
 
 ```component VPCard
 {
+  "title": "개발자가 알아두면 좋은 기술 블로그 운영 팁 5가지 | 요즘IT",
+  "desc": "개발자가 알아두면 좋은 기술 블로그 운영 팁 5가지",
+  "link": "/explore/articles/yozm.wishket.com/2134.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "개발자를 성장시키는 리더의 7가지 특징 | 요즘IT",
+  "desc": "개발자를 성장시키는 리더의 7가지 특징",
+  "link": "/explore/articles/yozm.wishket.com/2178.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "스태프 엔지니어에게 필요한 세 가지 역량 | 요즘IT",
   "desc": "스태프 엔지니어에게 필요한 세 가지 역량",
   "link": "/explore/articles/yozm.wishket.com/2186.md",

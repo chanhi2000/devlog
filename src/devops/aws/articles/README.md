@@ -4,9 +4,9 @@ title: Article(s)
 description: AWS > Article(s)
 icon: fas fa-square-share-nodes
 category:
+  - DevOps
   - AWS
   - Amazon
-  - DevOps
   - Article(s)
 tag:
   - blog
@@ -110,6 +110,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Time To Live in Event-Driven Architecture in AWS",
+  "desc": "Distributed systems generally involve the storage and exchange of huge amounts of data. Not all data is created the same, and some of it can even expire – by design.  As the Buddha said, 'All conditioned things are impermanent.' In this article, we'll look at how the concept of...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-time-to-live-in-event-driven-architecture.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -117,6 +127,16 @@ head:
 ## 요즘IT
 
 > yozm.wishket.com
+
+```component VPCard
+{
+  "title": "진짜 서버리스 vs 가짜 서버리스 | 요즘IT",
+  "desc": "진짜 서버리스 vs 가짜 서버리스",
+  "link": "/explore/articles/yozm.wishket.com/2168.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -157,6 +177,8 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

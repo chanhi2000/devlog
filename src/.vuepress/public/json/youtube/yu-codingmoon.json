@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/Tb-1pG-bCpr2TikUKw0t9LmZMKfwzS842uqe9Xo7ni6b2acrxHPQugmWOP15ZuOLh633rFc3S6Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XEOxO2VpTOc", "title": "neovim, 내가 무조건 설치하는 4가지 플러그인 소개, 코드 자동완성, 포맷팅 등 [개발자의 에디터]" },
+    { "id": "PUDa4wWJbtw", "title": "\"제대로 하는 것\"과 \"빨리 하는 것\" [개발자의 덕목]" },
     { "id": "GAhlOHNn9IM", "title": "재귀함수? 최대한 쉽게 설명해 볼게요" },
     { "id": "-qg6o0Fpd5U", "title": "내가 사용하는 터미널 alias 모음 [개발자의  터미널]" },
     { "id": "u6S71cpMfw8", "title": "neovim 시작하기! 설치부터 기본 설정 까지 [개발자의 에디터]" },

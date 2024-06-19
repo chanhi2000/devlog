@@ -204,6 +204,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Android, iOS 웹뷰에서 딥링크 열기 | 요즘IT",
+  "desc": "Android, iOS 웹뷰에서 딥링크 열기",
+  "link": "/explore/articles/yozm.wishket.com/2126.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "6년 묵은 레거시 청산하기(RootController 리팩토링) | 요즘IT",
   "desc": "6년 묵은 레거시 청산하기(RootController 리팩토링)",
   "link": "/explore/articles/yozm.wishket.com/2344.md",

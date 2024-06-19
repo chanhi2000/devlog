@@ -27,5 +27,6 @@ tag:
 <MyYouTubeItems jsonName="yu-AssortRockGameAcademy" /><!-- 어소트락 게임아카데미 -->
 <MyYouTubeItems jsonName="yu-TheCherno" /><!-- The Cherno -->
 <MyYouTubeItems jsonName="yu-javidx9" /><!-- javidx9 -->
+<MyYouTubeItems jsonName="yu-LaurieWired" /><!-- LaurieWired -->
 
 <TagLinks />

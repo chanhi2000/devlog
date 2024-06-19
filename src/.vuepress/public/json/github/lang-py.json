@@ -5564,5 +5564,25 @@
     "desc": "Implementation of the paper \"3D Gaussian Splatting as Markov Chain Monte Carlo\"",
     "officialSite": "https://ubc-vision.github.io/3dgs-mcmc/",
     "topics": []
+  }, {
+    "repo": "landing-ai/vision-agent",
+    "desc": "Vision agent",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "argilla-io/argilla",
+    "desc": "Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.",
+    "officialSite": "https://docs.argilla.io",
+    "topics": ["active-learning", "ai", "annotation-tool", "developer-tools", "gpt-4", "human-in-the-loop", "langchain", "llm", "machine-learning", "mlops", "natural-language-processing", "nlp", "rlhf", "text-annotation", "text-labeling", "weak-supervision", "weakly-supervised-learning"]
+  }, {
+    "repo": "jdc-cunningham/modular-pi-cam",
+    "desc": "A modular camera body for raspberry pi",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "AiuniAI/Unique3D",
+    "desc": "Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image",
+    "officialSite": "https://wukailu.github.io/Unique3D/",
+    "topics": ["3d-aigc", "aigc", "image-to-3d"]
   }
 ]

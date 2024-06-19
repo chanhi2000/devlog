@@ -32,4 +32,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-codingmoon" /><!-- 코딩문codingmoon -->
+
 <TagLinks />

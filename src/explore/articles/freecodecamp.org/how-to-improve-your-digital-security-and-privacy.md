@@ -22,7 +22,7 @@ head:
 prev: /devops/security/articles/README.md
 date: 2024-06-18
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/digitalprivacy-1.jpeg
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/digitalprivacy-1.jpeg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,7 +46,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/digit
   desc="These days, there are many different types of attacks that can jeopardize your digital security and privacy. So it’s a good idea to stay up-to-date with best practices to keep you safe online.  But it can be hard to understand exactly how to do this. So I built this..."
   url="https://freecodecamp.org/news/how-to-improve-your-digital-security-and-privacy/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/digitalprivacy-1.jpeg"/>
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/05/digitalprivacy-1.jpeg"/>
 
 These days, there are many different types of attacks that can jeopardize your digital security and privacy. So it’s a good idea to stay up-to-date with best practices to keep you safe online.
 

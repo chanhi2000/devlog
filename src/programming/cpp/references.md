@@ -150,6 +150,7 @@ tag:
 - [\[Q&A\] 힙 손상과 관련된 Exploit을 줄이도록 프로그램에서 처리하는 방법에 대하여](https://blog.naver.com/tipsware/223475242524)
 - [\[Q&A\] WinMain의 HINSTANCE 값에 대하여](https://blog.naver.com/tipsware/223475758883)
 - [\[Q&A\] Memory DC를 사용하는 코드는 늘 이렇게 사용해야 하나요?](https://blog.naver.com/tipsware/223477702719)
+- [MFC 프로그래밍 테스트 과제 - Step 6](https://blog.naver.com/tipsware/223484562487)
 
 ---
 

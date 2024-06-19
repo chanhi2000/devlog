@@ -2105,10 +2105,10 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "logspace-ai/langflow",
-    "desc": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+    "repo": "langflow-ai/langflow",
+    "desc": "⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.",
     "officialSite": "http://www.langflow.org",
-    "topics": ["chatgpt", "langchain", "large-language-models", "react-flow"]
+    "topics": ["chatgpt", "generative-ai", "large-language-models", "react-flow"]
   }, {
     "repo": "stackframe-projects/pgmock",
     "desc": "In-memory Postgres for unit/E2E tests",
@@ -2364,5 +2364,10 @@
     "desc": "Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown",
     "officialSite": "https://evidence.dev",
     "topics": ["analytics", "business-intelligence", "dashboard", "data-engineering", "data-science", "data-visualization", "dbt", "duckdb", "exploratory-data-analysis", "finance", "open-source", "self-hosted", "sql", "statistics", "svelte", "tailwindcss", "webassembly"]
+  }, {
+    "repo": "serverless/serverless",
+    "desc": "⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.",
+    "officialSite": "https://serverless.com",
+    "topics": ["aws", "aws-dynamodb", "aws-lambda", "azure-functions", "google-cloud-functions", "microservice", "serverless", "serverless-architectures", "serverless-framework"]
   }
 ]

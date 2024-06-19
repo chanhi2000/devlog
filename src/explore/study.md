@@ -646,6 +646,16 @@ https://www.joinc.co.kr/w/Site
   logo="https://decompilation.wiki/assets/images/favicon.png"
   preview="https://decompilation.wiki/static/img/logo.png"/>
 
+```component VPCard
+{
+  "title": "KoXo 자바스크립트 매뉴얼 - 메인 인덱스",
+  "desc": "KoXo Trio",
+  "link": "http://koxo.com/",
+  "logo": "http://koxo.com/gif/KoXov.jpg",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet

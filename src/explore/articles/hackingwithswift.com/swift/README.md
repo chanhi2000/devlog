@@ -19,6 +19,10 @@ tag:
   - swift-5.5
   - swift-5.4
   - swift-5.3
+  - swift-3.1
+  - swift-3.0
+  - swift-2.2
+  - swift-2.1
   - swift-2.0
   - swift-1.2
   - swift-1.1

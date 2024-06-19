@@ -17,7 +17,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/ncloud/" />
+<ToCLocal basePath="/devops/ncloud/" />
 
 ---
 

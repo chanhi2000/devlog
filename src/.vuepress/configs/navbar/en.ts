@@ -95,16 +95,7 @@ export const navbarEn = navbar([
         link: '/programming/git/README.md',
         icon: 'iconfont icon-git',
       }, {
-        text: 'Gradle',
-        link: '/programming/gradle/README.md',
-        icon: 'iconfont icon-gradle'
-      }, {
-        text: 'Maven',
-        link: '/programming/mvn/README.md',
-        icon: 'iconfont icon-maven',
-      }, {
         text: 'Java',
-        icon: 'fa-brands fa-java',
         children: [
           '/programming/java/README.md',
           '/programming/java-android/README.md',
@@ -112,11 +103,12 @@ export const navbarEn = navbar([
           '/programming/java-kafka/README.md',
           '/programming/java-quarkus/README.md',
           '/programming/java-armeria/README.md',
-          '/programming/java-elasticsearch/README.md'
+          '/programming/java-elasticsearch/README.md',
+          '/programming/gradle/README.md',
+          '/programming/mvn/README.md',
         ]
       }, {
         text: 'Swift',
-        icon: 'fa-brands fa-swift',
         children: [
           '/programming/swift/README.md',
           '/programming/objc/README.md',
@@ -127,7 +119,6 @@ export const navbarEn = navbar([
         link: '/programming/js/README.md',
       }, {
         text: 'Node.js',
-        icon: 'fa-brands fa-node',
         children: [
           '/programming/npm/README.md',
           '/programming/js-node/README.md',
@@ -144,15 +135,13 @@ export const navbarEn = navbar([
         ]
       }, {
         text: 'CSS',
-        link: '/programming/css/README.md',
-        icon: 'fa-brands fa-css3-alt'
-      }, {
-        text: 'Tailwind CSS',
-        link: '/programming/css-tailwind/README.md',
-        icon: 'iconfont icon-tailwindcss',
+        icon: 'fabrands fa-css3-alt',
+        children: [
+          '/programming/css/README.md',
+          '/programming/css-tailwind/README.md',
+        ],
       }, {
         text: 'Python',
-        icon: 'fa-brands fa-python',
         children: [
           '/programming/py/README.md',
           '/programming/py-numpy/README.md',
@@ -179,7 +168,6 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-csharp',
       }, {
         text: 'Go',
-        icon: 'fa-brands fa-golang',
         children: [
           '/programming/go/README.md',
           '/programming/go-grafana/README.md',
@@ -269,7 +257,6 @@ export const navbarEn = navbar([
         link: '/devops/gitlab/README.md',
       }, {
         text: 'Atlassian',
-        icon: 'fa-brands fa-atlassian',
         children: [
           '/devops/jira/README.md',
           '/devops/confluence/README.md',
@@ -287,8 +274,7 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-windows',
         link: '/devops/windows/README.md',
       }, {
-        text: 'Linux - Debian',
-        icon: 'fa-brands fa-debian',
+        text: 'Linux - Debain',
         children: [
           '/devops/linux-debian/README.md',
           '/devops/linux-debian/ubuntu/README.md',
@@ -298,7 +284,6 @@ export const navbarEn = navbar([
         ]
       }, {
         text: 'Linux - Fedora',
-        icon: 'fa-brands fa-fedora',
         children: [
           '/devops/linux-fedora/README.md',
           '/devops/linux-fedora/centos/README.md',
@@ -373,7 +358,6 @@ export const navbarEn = navbar([
         link: '/devops/ansible/README.md'
       }, {
         text: 'Security',
-        icon: 'fas fa-shield-halved',
         children: [
           '/devops/security/README.md',
           '/devops/security-jwt/README.md',
@@ -781,7 +765,7 @@ export const navbarEn = navbar([
       }, {
         text: 'Kubernetes',
         icon: 'iconfont icon-k8s',
-        link: 'https://chanhi2000.github.io/crashcourse/kubernetes/'
+        link: 'https://chanhi2000.github.io/crashcourse/k8s/'
       },{
         text: 'DevOps',
         icon: 'fas fa-network-wired',

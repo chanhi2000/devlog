@@ -123,7 +123,7 @@ tag:
 
 ---
 
-## Naver D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726) <!-- TODO: 작성 (/explore/articles/d2.naver.com/4969726.md) -->
 
@@ -132,6 +132,12 @@ tag:
 ## NHN Cloud Meetup - NHN 기술 블로그
 
 - [`flexbox`로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176) <!-- TODO: 작성 (/explore/articles/d2.naver.com/8540176.md) -->
+
+---
+
+## Codemotion
+
+- [Creating a Fallout-Style UI Using Modern CSS](https://www.codemotion.com/magazine/frontend/creating-a-fallout-style-ui-using-modern-css/)
 
 ---
 

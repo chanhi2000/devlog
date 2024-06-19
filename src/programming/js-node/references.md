@@ -91,8 +91,9 @@ tag:
 
 ---
 
-## Naver D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
+- [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368) <!-- TODO: 작성 (/explore/articles/d2.naver.com/5644368.md) -->
 - [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859) <!-- TODO: 작성 (/explore/articles/d2.naver.com/2351859.md) -->
 
 ---
@@ -416,6 +417,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`constell99` / 우리가 Typescript를 선택한 이유](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
 - [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
 - [Must Know JavaScript API — Page Visibility API](https://javascript.plainenglish.io/js-must-know-javascript-api-page-visibility-api-9f3e10439842)
@@ -1158,6 +1160,18 @@ tag:
 ## Meat Fighter
 
 - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
+
+---
+
+## 코딩팩토리
+
+- [\[Node.js\] Node.js란 무엇인가? - 개념 완벽 이해하기](https://coding-factory.tistory.com/m/1073)
+
+---
+
+## 코드쓰는사람
+
+- [SVG, JS, CSS로 만드는 라이언 로그인 폼](https://taegon.kim/archives/9658?)
 
 ---
 

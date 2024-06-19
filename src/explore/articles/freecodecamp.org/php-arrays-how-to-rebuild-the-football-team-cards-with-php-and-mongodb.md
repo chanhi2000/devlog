@@ -23,7 +23,7 @@ head:
 prev: /programming/php/articles/README.md
 date: 2024-06-18
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/PHP-Arrays-in-Practice-Cover.png
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/06/PHP-Arrays-in-Practice-Cover.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,7 +57,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/PHP-A
   desc="This is the second part of my PHP array handbook. You can find the first part here, where I cover array basics. In the first part, you learned about arrays, how to create arrays, array functions, and how to loop through arrays. This second part will teach you how..."
   url="https://freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/PHP-Arrays-in-Practice-Cover.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/06/PHP-Arrays-in-Practice-Cover.png"/>
 
 <!-- TODO: 작성 -->
 

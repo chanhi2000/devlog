@@ -719,6 +719,7 @@ tag:
 ## 주코의 iOS 개발일기
 
 - [\[iOS/Swift\] Invalid MinimumOSVersion. Firebase](https://ohwhatisthis.tistory.com/m/43)
+- [\[Swift\] vpn 연결 확인 iOS detect vpn NetworkCopySystemProxySettings](https://ohwhatisthis.tistory.com/m/44)
 
 ---
 

@@ -23,7 +23,7 @@ head:
 prev: /programming/css/articles/README.md
 date: 2024-06-18
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/HTML---CSS-Only-Masonry-Layout.png
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/06/HTML---CSS-Only-Masonry-Layout.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -47,7 +47,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/HTML-
   desc="A masonry layout is a grid-based design where items are arranged in a way that minimizes vertical gaps between them.  an example of a masonry layoutUnlike traditional grids with fixed row heights, masonry layouts adjust the positioning of items dynamically based on their content height, creating a visually appealing..."
   url="https://freecodecamp.org/news/how-to-create-a-mansory-layout-using-html-and-css/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/HTML---CSS-Only-Masonry-Layout.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/06/HTML---CSS-Only-Masonry-Layout.png"/>
 
 <!-- TODO: 작성 -->
 

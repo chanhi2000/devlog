@@ -216,6 +216,12 @@ tag:
 
 ---
 
+## Life Log
+
+- [wsl 네트워크리소스를 사용할 권한이 없는 것 같습니다](https://ravenkim97.tistory.com/m/461)
+
+---
+
 ## Misc
 
 - [DiskClick](https://deervo.itch.io/diskclick)

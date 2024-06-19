@@ -34,5 +34,6 @@ head:
 <MyYouTubeItems jsonName="yu-UXUIDesign" /><!-- Madia Designer -->
 <MyYouTubeItems jsonName="yu-thoughtbot" /><!-- thoughtbot -->
 <MyYouTubeItems jsonName="yu-envatotuts" /><!-- Envato Tuts+ -->
+<MyYouTubeItems jsonName="yu-rinodeboer" /><!-- Rino de Boer -->
 
 <TagLinks />

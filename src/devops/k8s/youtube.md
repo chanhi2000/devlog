@@ -4,16 +4,15 @@ title: Youtube
 description: Kubernetes > Youtube
 icon: fa-brands fa-youtube
 category:
+  - DevOps
   - Kubernetes
+  - VM
   - Youtube
 tag: 
-  - "youtube"
-  - "tutorial"
-  - "win"
-  - "Windows"
-  - "win10"
-  - "msc"
-  - "eventvwr.msc"
+  - youtube
+  - tutorial
+  - kubernetes
+  - k8s
   - "@DevOpsToolkit"
   - "@TechWorldwithNana"
   - "@HoussemDellai"
@@ -31,6 +30,14 @@ tag:
   - "@AntonPutra"
   - "@itrun"
   - "@kubetm8737"
+head:
+  - - meta:
+    - property: og:title
+      content: Kubernetes > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/k8s/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -92,5 +99,6 @@ tag:
 <MyYouTubeItems jsonName="yu-seoulit" /><!-- 서울IT교육센터온라인강좌TV -->
 <MyYouTubeItems jsonName="yu-opensourceconsulting-7382" /><!-- Open Source Consulting - 오픈소스컨설팅 -->
 <MyYouTubeItems jsonName="yu-JeffGeerling" /><!-- Jeff Geerling -->
+<MyYouTubeItems jsonName="yu-NullLabs" /><!-- The Null Channel -->
 
 <TagLinks />

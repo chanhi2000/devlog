@@ -45,6 +45,30 @@ export const template: SidebarGroupItem = {
             children: [
             ]
           }, {
+            text: "Changes in Swift 3.0",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/3.0/function-parameters.md',
+              '/explore/articles/hackingwithswift.com/swift/3.0/omit-needless-words.md',
+              '/explore/articles/hackingwithswift.com/swift/3.0/lower-camel-case.md',
+              '/explore/articles/hackingwithswift.com/swift/3.0/c-functions.md',
+              '/explore/articles/hackingwithswift.com/swift/3.0/verbs-and-nouns.md',
+            ]
+          }, {
+            text: "Changes in Swift 2.2",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/2.2/increment-decrement.md',
+              '/explore/articles/hackingwithswift.com/swift/2.2/c-loops.md',
+              '/explore/articles/hackingwithswift.com/swift/2.2/comparing-tuples.md',
+              '/explore/articles/hackingwithswift.com/swift/2.2/tuple-splat.md',
+              '/explore/articles/hackingwithswift.com/swift/2.2/more-keywords.md',
+              '/explore/articles/hackingwithswift.com/swift/2.2/variable-parameters.md',
+              '/explore/articles/hackingwithswift.com/swift/2.2/renamed-identifiers.md',
+              '/explore/articles/hackingwithswift.com/swift/2.2/stringified-selectors.md',
+              '/explore/articles/hackingwithswift.com/swift/2.2/version-checking.md',
+            ]
+          }, {
             text: "Changes in Swift 2.1",
             collapsible: true,
             children: [

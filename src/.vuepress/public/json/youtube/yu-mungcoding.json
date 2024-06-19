@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/AcWQcSVJDHnuzM7-AtXv-cHVQclLyW0XFyVrZ27x1cLnelZzsC6K1otBw5aiZza549DMBMJd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yHizcqshODU", "title": "AI 면접 연습 앱 개발기 : 프로젝트 준비 - 백엔드부터 안드로이드까지" },
+    { "id": "qKzrHm1H2lM", "title": "AI 면접 연습 앱 개발기 : API 사전 테스트 - 백엔드부터 안드로이드까지" },
+    { "id": "0vdM9J_zfuo", "title": "단 3분만에 배우는 REST API와 CRUD 기초" },
+    { "id": "vZjPnrqevlQ", "title": "부정 신청 걸러내기 도전 : 자바 1분 퀴즈" },
+    { "id": "00oBqIqSvcc", "title": "지출 금액 합계 도전 : 자바 1분 퀴즈" },
+    { "id": "pbeE8ZW5da8", "title": "성적우수자 구하기 도전 : 자바 1분 퀴즈" },
+    { "id": "4fJZcFTh4EQ", "title": "AI 면접 연습 앱 개발기 : 랜덤 질문 API - 백엔드부터 안드로이드까지" },
+    { "id": "UprCt0HlI0Q", "title": "13분 만에 풀스택 이벤트 신청 사이트 만들기 : 자바 vue3" },
+    { "id": "8JuffylfAXQ", "title": "포트폴리오 따라하지 마세요" },
+    { "id": "gyKnXQ2TRR0", "title": "코딩으로 포켓몬 마스터 되는 방법" },
     { "id": "5ms8nA3Whxw", "title": "풀스택 개발자 포트폴리오 | 이지선다 투표 앱 및 관리자" },
     { "id": "BRkApd2zkgM", "title": "자바 기초 | 7강. 제어문, switch" },
     { "id": "zJKwv8eLrag", "title": "데이터베이스 기초 | 1강. 데이터베이스란?" },

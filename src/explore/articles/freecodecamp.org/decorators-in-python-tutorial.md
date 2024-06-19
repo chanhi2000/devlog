@@ -22,7 +22,7 @@ head:
 prev: /programming/py/articles/README.md
 date: 2024-06-18
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/decorators-in-Python.png
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/06/decorators-in-Python.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,7 +46,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/decor
   desc="In this tutorial, you will learn about Python decorators: what they are, how they work, and when to use them.  But before diving into decorators, it's helpful to understand two foundational concepts in Python: first-class functions and closures. First-Class Functions in Python First-class functions mean that functions in Python..."
   url="https://freecodecamp.org/news/decorators-in-python-tutorial/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w2000/2024/06/decorators-in-Python.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/06/decorators-in-Python.png"/>
 
 <!-- TODO: 작성 -->
 

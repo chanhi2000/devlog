@@ -73,5 +73,6 @@ tag:
 <MyYouTubeItems jsonName="yu-infybuzz" /><!-- Infybuzz -->
 <MyYouTubeItems jsonName="yu-weekendcode" /><!-- WeekendCode 주말코딩 -->
 <MyYouTubeItems jsonName="yu-WhiteBee-lc1ty" /><!-- WhiteBee -->
+<MyYouTubeItems jsonName="yu-LaurieWired" /><!-- LaurieWired -->
 
 <TagLinks />

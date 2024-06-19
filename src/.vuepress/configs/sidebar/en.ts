@@ -2468,6 +2468,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/articles/README.md',
+            asb.yozm("data-science"),            
             asb.d2("data-science"),            
           ]
         },

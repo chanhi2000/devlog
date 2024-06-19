@@ -354,4 +354,10 @@ head:
 
 ---
 
+## KENDRICK'S BLOG
+
+- [\[번역\] Art of Clean Pull Requests - 클린한 Git PR의 기술](https://blog.sonim1.com/224?)
+
+---
+
 <TagLinks />

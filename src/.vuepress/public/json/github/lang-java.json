@@ -684,5 +684,10 @@
     "desc": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
     "officialSite": "https://datastrato.ai/docs/",
     "topics": ["ai-catalog", "data-catalog", "datalake", "federated-query", "lakehouse", "metadata", "metalake", "model-catalog", "opendatacatalog", "skycomputing", "stratosphere"]
+  }, {
+    "repo": "tencentmusic/supersonic",
+    "desc": "SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.",
+    "officialSite": "",
+    "topics": []
   }
 ]

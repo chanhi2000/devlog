@@ -24,5 +24,6 @@ tag:
 <MyYouTubeItems jsonName="yu-PowerBIPark" /><!-- Power BI Park -->
 <MyYouTubeItems jsonName="yu-PragmaticWorks" /><!-- Pragmatic Works -->
 <MyYouTubeItems jsonName="yu-basensei8699" /><!-- BA Sensei -->
+<MyYouTubeItems jsonName="yu-MicrosoftPowerBI" /><!-- Microsoft Power BI -->
 
 <TagLinks />

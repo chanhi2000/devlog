@@ -49,6 +49,12 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+
+- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170) <!-- TODO: 작성 (/explore/articles/d2.naver.com/3435170.md) -->
+
+---
+
 ## abseil.io
 
 - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
@@ -121,11 +127,13 @@ tag:
 - [`@stella6767` / 2년간 스타트업 퇴사 회고](https://velog.io/@stella6767/2%EB%85%84%EA%B0%84-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%87%B4%EC%82%AC-%ED%9A%8C%EA%B3%A0)
 - [`@hyemin916` / 피드백 맷집 기르기](https://velog.io/@hyemin916/%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%A7%B7%EC%A7%91-%EA%B8%B0%EB%A5%B4%EA%B8%B0)
 - [`@composite` / 개발자의 마음가짐 (feat. 나)](https://velog.io/@composite/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%88%EC%9D%8C%EA%B0%80%EC%A7%90-feat.-%EB%82%98)
+- [`@root-devvoo` / 문과 출신 엔지니어 2024년 1회 정보처리기사 실기 합격 후기 (Feat. 수제비)](https://velog.io/@root-devvoo/%EB%AC%B8%EA%B3%BC-%EC%B6%9C%EC%8B%A0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-2024%EB%85%84-1%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-Feat.-%EC%88%98%EC%A0%9C%EB%B9%84)
 
 ---
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`jungil.han` / 사이드 프로젝트, 10년 간의 기록 #1](https://medium.com/@jungil.han/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-10%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-%ED%8C%8C%ED%8A%B8-1-63bc25f8dcfc)
 - [`delightroom` - 1년 만에 성공한 온보딩 실험 작업기](https://medium.com/delightroom/1%EB%85%84-%EB%A7%8C%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%9C-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8B%A4%ED%97%98-%EC%9E%91%EC%97%85%EA%B8%B0-5b96330a3bb3)
 - [`namunamu1105` - 내가 개발자로서 회사에서 한 실수들](https://namunamu1105.medium.com/%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%ED%95%9C-%EC%8B%A4%EC%88%98%EB%93%A4-ffca7bb947a2)
 - [`Netflix Technology Blog` - Predictive CPU isolation of containers at Netflix](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
@@ -178,6 +186,11 @@ tag:
 - [`@delight412` / 꼰대는 가라? 피터 틸과 새로운 VC 패러다임의 탄생](https://brunch.co.kr/@delight412/694)
 - [`@ebprux` / 제품 관리를 넘어선 팀워크와 혁신적 협력의 가치](https://brunch.co.kr/@ebprux/1302)
 - [`@ebprux` / 사용자 중심 제품 개발: 혁신과 성공을 이끄는 길](https://brunch.co.kr/@ebprux/1295)
+- [`@icando03` / 펫 산업에 대하여 : 2화](https://brunch.co.kr/@icando03/241)
+- [`@delight412` / 윈도 리콜은 왜 그리 몰매를 맞았나? 재앙의 모든 것](https://brunch.co.kr/@delight412/697)
+- [`@seunghoon82` / 잘하는 음식점에서 배운 시사점 (단합 & 선제한 실행)](https://brunch.co.kr/@seunghoon82/511)
+- [`@ebprux` / 프로젝트에서의 기능 개선 우선순위 결정 과정의 중요성](https://brunch.co.kr/@ebprux/1309)
+- [`@ebprux` / 프로덕트 매니저의 핵심, '유저 컨텍스트' 이해하기](https://brunch.co.kr/@ebprux/1319)
 
 ---
 
@@ -402,6 +415,7 @@ tag:
 - [향 후 25년](https://www.thestartupbible.com/2024/05/the-next-25-years.html)
 - [입으로 투자하기](https://www.thestartupbible.com/2024/06/the-talker-and-the-keyboarder-vc.html)
 - [한 방은 없다](https://www.thestartupbible.com/2024/06/no-such-thing-as-jackpot-in-life.html)
+- [컴백](https://www.thestartupbible.com/2024/06/the-great-comeback.html)
 
 ---
 
@@ -849,8 +863,9 @@ tag:
 
 ---
 
-## `Channy's Blog`
-  
+## Channy's Blog
+
+- [개발자 비급(祕笈) – 1. 연봉은 실력의 결과가 아니다](https://channy.creation.net/blog/1186?)
 - [테크에반젤리스트가 하는 일은 무엇인가요?](https://channy.creation.net/blog/1400)
 - [아마존(Amazon)에서 배운 5가지 글쓰기와 소통 방식](https://channy.creation.net/blog/1620)
 - [10년 경력을 설계하는 방법](https://channy.creation.net/blog/1517)
@@ -864,6 +879,7 @@ tag:
 ---
 
 ## shiren the creator
+
 - [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8)
 - [페이스북 개발자의 성과 만들기](https://blog.shiren.dev/2022-03-07/)
 
@@ -1100,5 +1116,21 @@ https://blog.naver.com/&logId=
 - [개발할 때 실수를 줄이는 방법](https://co1nam.tistory.com/m/98)
 
 ---
+
+## Teveloper 개발 & 테니스 이야기
+
+- [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 2번째 발표 후기](https://teveloper.tistory.com/m/81)
+
+---
+
+## Mimul Tech log
+
+- [사이드 프로젝트의 효용성 그리고 중요성](https://www.mimul.com/blog/why-side-projects-matter/)
+
+---
+
+## 용균
+
+- [오픈소스 메인테이너는 당신에게 빚진 적 없다](https://edykim.com/ko/post/open-source-maintainers-owe-you-nothing/)
 
 <TagLinks />

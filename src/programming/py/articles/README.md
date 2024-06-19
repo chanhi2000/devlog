@@ -260,6 +260,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How Does Python's For-Else Loop Construct Work?",
+  "desc": "Python supports the for-else loop construct that is lesser known but super helpful. If you’ve programmed in Python, you may have used the for loop to iterate over items in iterables such as lists. But for some use cases, using the for loop in conjunction with the else clause can...",
+  "link": "/explore/articles/freecodecamp.org/for-else-loop-in-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -25,5 +25,6 @@ tag:
 <MyYouTubeItems jsonName="yu-NNAdmin" /><!-- Nielsen Networking -->
 <MyYouTubeItems jsonName="yu-plaintextpackets" /><!-- Plaintext Packets -->
 <MyYouTubeItems jsonName="yu-StormWindStudios" /><!-- StormWind Studios -->
+<MyYouTubeItems jsonName="yu-HackerJohn" /><!-- Hacker Joe -->
 
 <TagLinks />

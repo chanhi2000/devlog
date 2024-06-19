@@ -69,5 +69,6 @@ head:
 <MyYouTubeItems jsonName="yu-BGRIMJI" /><!-- 번거로운 임지 IMJI -->
 <MyYouTubeItems jsonName="yu-iApplePro" /><!-- iApplePro -->
 <MyYouTubeItems jsonName="yu-rt9" /><!-- Route 9 루트나인 -->
+<MyYouTubeItems jsonName="yu-HRR" /><!-- HappyRider Reviews -->
 
 <TagLinks />

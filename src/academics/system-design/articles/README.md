@@ -195,6 +195,36 @@ head:
 
 ```component VPCard
 {
+  "title": "개발자가 알아야 할 데이터 지향 설계란? | 요즘IT",
+  "desc": "개발자가 알아야 할 데이터 지향 설계란?",
+  "link": "/explore/articles/yozm.wishket.com/2157.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "좋은 객체 ID(Object ID) 만들기 | 요즘IT",
+  "desc": "좋은 객체 ID(Object ID) 만들기",
+  "link": "/explore/articles/yozm.wishket.com/2161.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "진짜 서버리스 vs 가짜 서버리스 | 요즘IT",
+  "desc": "진짜 서버리스 vs 가짜 서버리스",
+  "link": "/explore/articles/yozm.wishket.com/2168.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "쿠버네티스(Kubernetes) 네트워크 정리 | 요즘IT",
   "desc": "쿠버네티스(Kubernetes) 네트워크 정리",
   "link": "/explore/articles/yozm.wishket.com/2251.md",
@@ -287,7 +317,7 @@ head:
 
 ---
 
-## NAVER D2
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 > d2.naver.com
 

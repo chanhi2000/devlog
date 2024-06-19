@@ -341,25 +341,26 @@ fastfetch
 }
 ```
 
-```component VPCard
-{
-  "title": "메모리클리너",
-  "desc": "메모리 정리를 클릭 한번에 할 수 있습니다.",
-  "link": "https://memorycleaner.kilho.net/",
-  "logo": "https://kilho.net/favicon.png",
-  "background": "rgba(0,136,204,0.2)"
-}
-```
+<SiteInfo
+  name="메모리클리너"
+  desc="메모리 정리를 클릭 한번에 할 수 있습니다."
+  url="https://memorycleaner.kilho.net/"
+  logo="https://kilho.net/favicon.png"
+  preview="https://memorycleaner.kilho.net/memorycleaner.png?v1.0.5.0"/>
 
-```component VPCard
-{
-  "title": "시크릿DNS",
-  "desc": "DNS 암호화 및 SNI 파편화를 합니다.",
-  "link": "https://secretdns.kilho.net/",
-  "logo": "https://kilho.net/favicon.png",
-  "background": "rgba(0,136,204,0.2)"
-}
-```
+<SiteInfo
+  name="시크릿DNS"
+  desc="DNS 암호화 및 SNI 파편화를 합니다."
+  url="https://secretdns.kilho.net/"
+  logo="https://kilho.net/favicon.png"
+  preview="https://secretdns.kilho.net/SecretDNS.png"/>
+
+<SiteInfo
+  name="부스트핑"
+  desc="온라인 게임의 반응 속도를 향상시킵니다."
+  url="https://boostping.kilho.net/"
+  logo="https://kilho.net/favicon.png"
+  preview="https://boostping.kilho.net/boostping.png"/>
 
 <SiteInfo
   name="Cyber Scarecrow"

@@ -69,6 +69,7 @@ head:
 - [TouchGFX 시뮬레이터에서 STM32G4-FDCAN을 이용해 CAN 통신 예제 코드](https://blog.naver.com/chandong83/223479123055?)
 - [STM32H7S78-DK PSRAM HexaSPI에서 OctoSPI로 변경하기](https://blog.naver.com/chandong83/223481914600)
 - [STM32H7S78-DK 보드 - TouchGFX 데모 예제 올리기](https://blog.naver.com/chandong83/223481878871)
+- [X-CUBE-TOUCHGFXx.xx.x is unknown-최신TouchGFX 수동설치하기](https://blog.naver.com/chandong83/223484489682)
 
 ---
 
@@ -241,6 +242,18 @@ head:
 ## axio.ms
 
 - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
+
+---
+
+## Salvaged Circuitry
+
+- [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
+
+---
+
+## CedarDB
+
+- [Why Your SSD (Probably) Sucks and What Your Database Can Do About It](https://cedardb.com/blog/ssd_latency/)
 
 ---
 

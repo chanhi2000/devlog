@@ -26,6 +26,12 @@ head:
 
 ---
 
+## Brunch
+
+- [`@yysttong` / Python: DuckDB(4)](https://brunch.co.kr/@yysttong/128)
+
+---
+
 ## 기계인간 John Grib
 
 - [duckdb](https://johngrib.github.io/wiki/cmd/duckdb/)

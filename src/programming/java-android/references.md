@@ -222,6 +222,7 @@ tag:
 - [\[정리\] Compose 가이드 문서 ~ 접근성](https://pluu.github.io/blog/android/2024/06/06/compose-accessibility/)
 - [\[정리\] Compose 가이드 문서 ~ Animation](https://pluu.github.io/blog/android/2024/06/06/compose/)
 - [\[정리\] Compose 가이드 문서 ~ 터치&입력](https://pluu.github.io/blog/android/2024/06/15/compose/)
+- [\[정리\] Compose 가이드 문서 ~ Performance](https://pluu.github.io/blog/android/2024/06/19/compose/)
 
 ---
 
