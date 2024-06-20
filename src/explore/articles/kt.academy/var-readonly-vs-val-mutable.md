@@ -120,6 +120,14 @@ fun main() {
 data class User(val name: String)
 ```
 
+@setting
+
+```json
+{
+  "theme": "dracula"
+}
+```
+
 :::
 
 To prevent that, we must use a technique known as "defensive copy", so copy the collection before exposing it.
@@ -150,6 +158,14 @@ fun main() {
 }
 
 data class User(val name: String)
+```
+
+@setting
+
+```json
+{
+  "theme": "dracula"
+}
 ```
 
 :::
@@ -184,13 +200,18 @@ fun main() {
 data class User(val name: String)
 ```
 
+@setting
+
+```json
+{
+  "theme": "dracula"
+}
+```
+
 :::
 
 Now consider thread safety. Default mutable collections require synchronizing both their reads, copies, and modifications, because those are all non-atomic operations.
 
-::: kotlin-playground 4
-
-@file main.kt
 
 ```kotlin
 class UserRepository {
@@ -211,11 +232,9 @@ class UserRepository {
 }
 ```
 
-:::
-
 If we don't do that, with every modification, we can end up with a corrupted collection. It might mean losing some data, or even worse, getting a `ConcurrentModificationException`.
 
-::: kotlin-playground 5
+::: kotlin-playground 4
 
 @file main.kt
 
@@ -252,6 +271,14 @@ fun main() {
 }
 
 data class User(val name: String)
+```
+
+@setting
+
+```json
+{
+  "theme": "dracula"
+}
 ```
 
 :::

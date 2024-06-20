@@ -695,6 +695,22 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://osori.github.io/trust-ko/favicon.png"
   preview="http://ncase.me/trust/social/thumbnail.png"/>
 
+<SiteInfo
+  name="Calculating Empires"
+  desc="A Genealogy of Technology and Power Since 1500"
+  url="https://calculatingempires.net/"
+  logo="https://calculatingempires.net/apple-touch-icon.png"
+  preview="https://calculatingempires.net/content/calculating-empires-og.png"/>
+
+```component VPCard
+{
+  "title": "Tetris Font",
+  "desc": "...",
+  "link": "https://erikdemaine.org/fonts/tetris/",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
 <!-- @end Cool Project -->
 
 @tab Portfolio / Resume

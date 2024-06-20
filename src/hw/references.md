@@ -257,6 +257,12 @@ head:
 
 ---
 
+## John Graham-Cumming's blog
+
+- [Two ways to use an LED as a light sensor with Arduino](https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html)
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

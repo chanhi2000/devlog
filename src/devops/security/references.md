@@ -342,6 +342,12 @@ tag:
 
 ---
 
+## JPRX
+
+- [CVE-2024-27815](https://jprx.io/cve-2024-27815/)
+
+---
+
 ## Project(s)
 
 ```component VPCard

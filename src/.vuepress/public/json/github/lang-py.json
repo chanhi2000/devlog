@@ -4831,9 +4831,9 @@
     "topics": ["ai", "tanslation"]
   }, {
     "repo": "1Panel-dev/MaxKB",
-    "desc": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+    "desc": "🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
     "officialSite": "",
-    "topics": ["1panel", "gpt", "llm", "maxkb", "ollama", "openai"]
+    "topics": ["1panel", "gpt", "knowledgebase", "llm", "maxkb", "ollama", "openai"]
   }, {
     "repo": "aixcoder-plugin/aiXcoder-7B",
     "desc": "official repository of aiXcoder-7B Code Large Language Model",
@@ -5584,5 +5584,10 @@
     "desc": "Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image",
     "officialSite": "https://wukailu.github.io/Unique3D/",
     "topics": ["3d-aigc", "aigc", "image-to-3d"]
+  }, {
+    "repo": "pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "officialSite": "https://pytorch.org",
+    "topics": ["autograd", "deep-learning", "gpu", "machine-learning", "neural-network", "numpy", "python", "tensor"]
   }
 ]

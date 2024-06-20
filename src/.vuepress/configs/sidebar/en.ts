@@ -1285,7 +1285,26 @@ export const sidebarEn = sidebar({
           ]
         },
       ]
-    },
+    }, {
+      text: 'Godot Engine',
+      collapsible: true,
+      icon: 'iconfont icon-godot',
+      children: [
+        '/programming/godot/README.md',
+        '/programming/godot/references.md',
+        '/programming/godot/github.md',
+        '/programming/godot/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/godot/articles/README.md',
+            asb.freecodecamp("godot"),
+          ]
+        }
+      ]
+    }, 
   ],
   '/tool/': [
     {

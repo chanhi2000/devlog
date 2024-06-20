@@ -1612,6 +1612,12 @@ tag:
 
 ---
 
+## jerpint
+
+- [ControlNet Game of Life](https://www.jerpint.io/blog/diffusion-gol/)
+
+---
+
 ## Misc.
 
 - [Working with Excel Files in Python](https://www.python-excel.org/)

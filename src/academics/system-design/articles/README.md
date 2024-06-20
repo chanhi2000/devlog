@@ -119,6 +119,17 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What is Accessibility in Web Development? Best Practices for Web Accessibility",
+  "desc": "Everyone should be able to use technology, regardless of their abilities or disabilities. An accessible website or platform attracts a broader audience and has a high chance of achieving user retention. This article will discuss the importance of accessibility, best practices for accessibility in frontend web development, and their implementations...",
+  "link": "/explore/articles/freecodecamp.org/best-practices-for-accessibility-in-web-development.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+
 <!-- END: freecodecamp.org -->
 
 ---

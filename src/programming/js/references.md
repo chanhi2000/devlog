@@ -481,4 +481,10 @@ head:
 
 ---
 
+## Beyond Loom
+
+- [Atkinson Dithering](https://beyondloom.com/blog/dither.html)
+
+---
+
 <TagLinks />

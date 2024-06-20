@@ -72,6 +72,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "The Generative AI Handbook – How GenAI is Impacting Business and Innovation",
+  "desc": "The emergence of Generative Artificial Intelligence (GenAI) is both shaping the future of innovation management and revolutionizing it. This handbook delves into the groundbreaking research presented in 'Generative Artificial Intelligence in Innovation Management: A Preview of Future Research Developments' by Marcello Mariani and Yogesh K. Dwivedi (2024). It's a...",
+  "link": "/explore/articles/freecodecamp.org/generative-ai-handbook.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

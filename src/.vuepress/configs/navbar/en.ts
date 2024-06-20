@@ -237,6 +237,10 @@ export const navbarEn = navbar([
         text: 'Markdown',
         link: '/programming/md/README.md',
         icon: 'fa-brands fa-markdown',
+      }, {
+        text: 'Godot Engine',
+        link: '/programming/godot/README.md',
+        icon: 'iconfont icon-godot',
       }, 
     ]
   }, {

@@ -2369,5 +2369,15 @@
     "desc": "⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.",
     "officialSite": "https://serverless.com",
     "topics": ["aws", "aws-dynamodb", "aws-lambda", "azure-functions", "google-cloud-functions", "microservice", "serverless", "serverless-architectures", "serverless-framework"]
+  }, {
+    "repo": "ckeditor/ckeditor5",
+    "desc": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+    "officialSite": "https://ckeditor.com/ckeditor-5",
+    "topics": ["ckeditor", "ckeditor5", "contenteditable", "javascript", "rich-text-editor", "rte", "wysiwyg", "wysiwyg-editor"]
+  }, {
+    "repo": "madprops/curls",
+    "desc": "Text status hosting to use with your own tools",
+    "officialSite": "https://curls.merkoba.com",
+    "topics": []
   }
 ]

@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_c9yskl0apku.woff2?t=1718673752115') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_c9yskl0apku.woff?t=1718673752115') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_c9yskl0apku.ttf?t=1718673752115') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_c9yskl0apku.svg?t=1718673752115#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_8f476df8vvn.woff2?t=1718929678084') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_8f476df8vvn.woff?t=1718929678084') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_8f476df8vvn.ttf?t=1718929678084') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_8f476df8vvn.svg?t=1718929678084#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-godot:before { content: "\e94d"; }
+.icon-homebrew:before { content: "\e94c"; }
+.icon-chocolatey:before { content: "\e94b"; }
 .icon-google-analytics:before { content: "\e94a"; }
 .icon-k8s:before { content: "\e949"; }
 .icon-splunk:before { content: "\e948"; }

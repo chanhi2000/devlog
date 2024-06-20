@@ -1064,6 +1064,10 @@
     "desc": "XT Toolchain",
     "officialSite": "https://git.codingworkshop.eu.org/xt-sys/xtchain",
     "topics": []
+  }, {
+    "repo": "robertdavidgraham/wc2",
+    "desc": "Investigates optimizing 'wc', the Unix word count program",
+    "officialSite": "",
+    "topics": []
   }
-  
 ]

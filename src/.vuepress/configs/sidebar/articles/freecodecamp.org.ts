@@ -149,6 +149,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-git-submodules", // 2024-05-07
       "what-is-trunk-based-development", // 2024-06-18
     ]],[
+    "godot", [
+      "learn-to-create-a-3d-rpg-game-with-godot", // 2024-06-20
+    ]],[
     "github", [
       "create-personalized-github-profile-page", // 2024-05-01
       "how-to-become-an-open-source-maintainer", // 2024-05-20
@@ -201,12 +204,14 @@ export const template: SidebarInfoTemplate = {
       "minimum-viable-product-between-an-idea-and-the-product", // 2024-05-24
       "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
       "auto-scaling-and-load-balancing", // 2024-06-17
+      "best-practices-for-accessibility-in-web-development", // 2024-06-20
     ]],[
     "pm", [
       "what-is-trunk-based-development", // 2024-06-18
     ]],[
     "ai", [
       "a-non-technical-introduction-to-generative-ai", // 2024-06-18
+      "generative-ai-handbook", // 2024-06-20
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -331,6 +336,9 @@ export const template: SidebarInfoTemplate = {
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
       "for-else-loop-in-python", // 2024-06-19
       "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
+      "best-practices-for-accessibility-in-web-development", // 2024-06-20
+      "learn-to-create-a-3d-rpg-game-with-godot", // 2024-06-20
+      "generative-ai-handbook", // 2024-06-20
     ]],
   ]),
 }

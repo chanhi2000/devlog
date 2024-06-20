@@ -102,7 +102,9 @@ struct ContentView: View {
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/concurrency/how-to-run-tasks-using-swiftuis-task-modifier-1.zip)
 
-<strong>Important:</strong> The `task()` modifier is a great place to load the data for your SwiftUI views. Remember, they can be recreated many times over the lifetime of your app, so you should avoid putting this kind of work into their initializers if possible.
+::: important
+
+The `task()` modifier is a great place to load the data for your SwiftUI views. Remember, they can be recreated many times over the lifetime of your app, so you should avoid putting this kind of work into their initializers if possible.
 
 A more advanced usage of `task()` is to attach some kind of `Equatable` identifying value – when that value changes SwiftUI will automatically cancel the previous task and create a new task with the new value. This might be some shared app state, such as whether the user is logged in or not, or some local state, such as what kind of filter to apply to some data. 
 
