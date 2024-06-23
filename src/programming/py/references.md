@@ -153,6 +153,7 @@ tag:
 - [`johnloewen` / Simple Pretty Maps That Will Better Your Python Streamlit Skills](https://johnloewen.substack.com/p/simple-pretty-maps-that-will-better)
 - [`codingconfessions` / How Python Compares Floats and Ints: When Equals Isn’t Really Equal](https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints)
 - [`bitecode` / Testing with Python (part 5): the different types of tests](https://www.bitecode.dev/p/testing-with-python-part-5-the-different)
+- [`codingconfessions` / CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
 
 ---
 
@@ -357,6 +358,7 @@ tag:
 
 - [This is valid Python syntax](https://www.bitecode.dev/p/this-is-valid-python-syntax)
 - [Analyzing "Sorting a million 32-bit integers in 2MB of RAM using Python"](https://www.bitecode.dev/p/analyzing-sorting-a-million-32-bit)
+- [Testing with Python (part 6): Fake it...](https://www.bitecode.dev/p/testing-with-python-part-6-fake-it)
 
 ---
 
@@ -476,6 +478,7 @@ tag:
 - [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
 - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 - [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability)
+- [Let’s optimize! Running 15× faster with a situation-specific algorithm](https://pythonspeed.com/articles/lets-optimize-median-local-threshold/)
 
 ---
 
@@ -678,6 +681,9 @@ tag:
 - [asyncio를 사용한 비동기 소켓 통신 예제](https://webnautes.tistory.com/m/2343)
 - [XGBoost에서 GPU(cuda) 사용하는 예제](https://webnautes.tistory.com/m/2344)
 - [Python 강좌 - 문자열](https://webnautes.tistory.com/m/2345)
+- [logging을 사용하여 레벨별로 다른 파일에 로그를 저장하는 예제](https://webnautes.tistory.com/m/2346)
+- [Python 강좌 - 리스트(list)](https://webnautes.tistory.com/m/2347)
+- [FFmpeg를 사용하여 webcam을 RTSP 스트리밍 하여 OpenCV에서 확인하기](https://webnautes.tistory.com/m/2012)
 
 ---
 
@@ -813,6 +819,7 @@ tag:
 - [Say it again: values not expressions](https://nedbatchelder.com/blog/202311/say_it_again_values_not_expressions.html)
 - [Does Python have pointers?](https://nedbatchelder.com/blog/202403/does_python_have_pointers.html)
 - [One way to fix Python circular imports](https://nedbatchelder.com/blog/202405/one_way_to_fix_python_circular_imports.html)
+- [Coverage at a crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
 
 ---
 
@@ -851,6 +858,7 @@ tag:
 
 - [Why Can't I Just Use A List? • Understanding NumPy's `ndarray` (A NumPy for Numpties article)](https://www.thepythoncodingstack.com/p/python-numpy-ndarray-primer-numpy-for-numpties)
 - [The Strange Practices at The Broadcaster's Inn • Broadcasting in NumPy (A NumPy for Numpties article)](https://www.thepythoncodingstack.com/p/numpy-broadcasting-python-the-broadcasters-inn)
+- [`bytes`: The Lesser-Known Python Built-In Sequence • And Understanding UTF-8 Encoding](https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding)
 
 ---
 
@@ -999,6 +1007,10 @@ tag:
 - [Build a Hangman Game With Python and PySimpleGUI](https://realpython.com/hangman-python-pysimplegui/)
 - [Pydantic: Simplifying Data Validation in Python](https://realpython.com/python-pydantic/)
 - [Build Enumerations of Constants With Python's Enum](https://realpython.com/python-enum/)
+- [How to Evaluate the Quality of Python Packages](https://realpython.com/python-package-quality/)
+- [String Interpolation in Python: Exploring Available Tools](https://realpython.com/python-string-interpolation/)
+- [Python News: What's New From April 2024](https://realpython.com/python-news-april-2024/)
+- [Build Your Python Project Documentation With MkDocs](https://realpython.com/python-project-documentation-with-mkdocs/)
 
 ---
 
@@ -1615,6 +1627,48 @@ tag:
 ## jerpint
 
 - [ControlNet Game of Life](https://www.jerpint.io/blog/diffusion-gol/)
+
+---
+
+## WhyNotHugo
+
+- [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
+
+---
+
+## AI powered Playwright end-to-end tests for web apps
+
+- [why we no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
+
+---
+
+## Junhyunny's Devlogs
+
+- [OpenCV Video Codec Problem in Web](https://junhyunny.github.io/web/python/opencv/opencv-video-codec-problem-in-web/)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- ["형식 힌트부터 가상환경까지" 현대 파이썬 코딩의 4가지 핵심](https://itworld.co.kr/news/341513)
+
+---
+
+## Outlore
+
+- [How I manage Python in 2024](https://outlore.dev/blog/python-dev-2024/)
+
+---
+
+## ArjanCodes
+
+- [Fix Python Code Smells with These Best Practices](https://www.arjancodes.com/blog/best-practices-for-eliminating-python-code-smells/)
+
+---
+
+## wickstrom.tech
+
+- [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
 
 ---
 

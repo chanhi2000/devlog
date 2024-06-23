@@ -3078,5 +3078,15 @@
     "desc": "Low-code ETL for structured and unstructured data. Generates Python code you can deploy anywhere.",
     "officialSite": "https://docs.amphi.ai",
     "topics": ["data", "data-pipelines", "etl", "rag-pipeline", "structured-data", "unstructured-data"]
+  }, {
+    "repo": "OpenRailAssociation/osrd",
+    "desc": "An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation",
+    "officialSite": "https://osrd.fr",
+    "topics": ["railway", "simulation"]
+  }, {
+    "repo": "dgmjs/dgmjs",
+    "desc": "An infinite canvas with smart shapes",
+    "officialSite": "https://dgmjs.dev",
+    "topics": ["canvas", "diagram", "drawing", "sketch", "whiteboard"]
   }
 ]

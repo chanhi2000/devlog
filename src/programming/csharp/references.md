@@ -432,4 +432,10 @@ tag:
 
 ---
 
+## The New Stack | DevOps, Open Source, and Cloud Native News
+
+- [Reviewing Code With GPT-4o, OpenAI’s New ‘Omni’ LLM](https://thenewstack.io/reviewing-code-with-gpt-4o-openais-new-omni-llm/)
+
+---
+
 <TagLinks />

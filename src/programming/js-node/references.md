@@ -1175,4 +1175,10 @@ tag:
 
 ---
 
+## hustle-dev blog
+
+- [TypeScript 5.5 번역](https://hustle-dev.github.io/posts/translate-ts-5-5/)
+
+---
+
 <TagLinks />

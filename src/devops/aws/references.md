@@ -34,6 +34,7 @@ head:
 - [SpringBoot 에서 AWS Secrets manager를 이용하여 안전하게 데이터베이스를 이용하는 방법](https://repost.aws/en/articles/ARrbXsydIkSAqKLrWhos7GnQ/spring-boot-%EC%97%90%EC%84%9C-aws-secrets-manager%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [Giving Lambda functions access to resources in an Amazon VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html)
 - [What is VPC peering?](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
+- [AWS가 제공하는 고성능 컴퓨터 서비스(HPC on AWS)를 사용해야 하는 이유](https://aws.amazon.com/ko/blogs/tech/introduction-of-hpc-on-aws/)
 
 ---
 
@@ -102,6 +103,8 @@ head:
 - [`@to_ny.lee` / 이름이 없는 파일이 S3에 업로드된 이유](https://medium.com/@to_ny.lee/%EC%9D%B4%EB%A6%84%EC%9D%B4-%EC%97%86%EB%8A%94-%ED%8C%8C%EC%9D%BC%EC%9D%B4-s3%EC%97%90-%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C-%EC%9D%B4%EC%9C%A0-9128594f536)
 - [`domoverse` / AWS RDS 비용 효율적으로 낮춰 사용하기 (1) : RDS Proxy 도입](https://medium.com/domoverse/aws-rds-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%82%AE%EC%B6%B0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1-rds-proxy-%EB%8F%84%EC%9E%85-c954cf0f849c)
 - [`hbsmith` / 블루/그린 배포를 이용한 Aurora MySQL 버전 무중단 업그레이드 경험 공유](https://blog.hbsmith.io/%EB%B8%94%EB%A3%A8-%EA%B7%B8%EB%A6%B0-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-aurora-mysql-%EB%B2%84%EC%A0%84-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EA%B2%BD%ED%97%98-%EA%B3%B5%EC%9C%A0-23c52b988abe)
+- [`well-balanced` / Deployment Automation using GitHub Actions with ECS](https://well-balanced.medium.com/deployment-automation-using-github-actions-with-ecs-35b229e6fd83)
+- [`towardsaws` / Learning AWS CodePipeline Hands-on learning: Part2](https://towardsaws.com/learning-aws-codepipeline-hands-on-learning-part2-59c2b1b5a6e1)
 
 ---
 
@@ -146,6 +149,12 @@ head:
 
 ---
 
+## InfoQ
+
+- [Amazon EC2 U7i Instances: 896 vCPUs and up to 32 TiB of Memory for High Memory Workloads](https://www.infoq.com/news/2024/06/aws-ec2-u7i-high-memory/)
+
+---
+
 ## Sentra
 
 - [Use Redshift Data Scrambling for Additional Data Protection](https://www.sentra.io/blog/use-redshift-data-scrambling-for-additional-data-protection)
@@ -161,6 +170,7 @@ head:
 ## Jack Vanlightly
 
 - [The Architecture Of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
+- [A Cost Analysis Of Replication Vs S3 Express One Zone In Transactional Data Systems](https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems)
 
 ---
 
@@ -405,6 +415,12 @@ head:
 ## YA-Hwang 기술 블로그
 
 - [`aws-sdk-pandas` Lambda로 활용하기](https://yahwang.github.io/posts/112)
+
+---
+
+## IT세상을 바꾸는 힘 지디넷코리아
+
+- [AWS "보안과 IT혁신 동시 지원하는 자동화된 추론"](https://zdnet.co.kr/view/?no=20240613054538)
 
 ---
 

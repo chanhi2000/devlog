@@ -90,6 +90,12 @@ tag:
 
 ---
 
+## InfoQ
+
+- [Streaming HTML – Asynchronous DOM Updates without JavaScript](https://www.infoq.com/articles/html-streaming-dom-updates-without-javascript/)
+
+---
+
 ## Popit | 전문 지식 공유를 위한 팀블로그
 
 - [Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기](https://popit.kr/golang%ec%97%90%ec%84%9c-%ec%b9%b4%ed%94%84%ec%b9%b4-%ec%bb%a8%ec%8a%88%eb%a8%b8-%ea%b7%b8%eb%a3%b9%ea%b3%bc-%ec%9e%ac%ec%8b%9c%eb%8f%84%eb%a1%9c-%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80/)
@@ -335,6 +341,12 @@ tag:
 ## junior_datalist
 
 - [예시를 통한 Go 객체 생성 이해하기](https://junior-datalist.tistory.com/m/377)
+
+---
+
+## Avtok
+
+- [Interface Upgrades in Go](https://avtok.com/2014/11/05/interface-upgrades.html)
 
 ---
 

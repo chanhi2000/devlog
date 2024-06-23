@@ -689,5 +689,10 @@
     "desc": "SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "uber/NullAway",
+    "desc": "A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead",
+    "officialSite": "",
+    "topics": ["android", "java", "nullability", "nullability-analysis", "static-analysis", "static-code-analysis"]
   }
 ]

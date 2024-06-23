@@ -144,6 +144,12 @@ head:
 
 ---
 
+## Uber Blog
+
+- [Flaky Tests Overhaul at Uber](https://www.uber.com/en-IN/blog/flaky-tests-overhaul/)
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`towardsdatascience` / Ace the System Design Interview — Uber/Lyft](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/ace-the-system-design-interview-uber-lyft.md) -->
@@ -167,6 +173,7 @@ head:
 - [`vingle-tech-blog` / Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
 - [`codex` / How Pinterest Scaled to 11 Million Users With Only 6 Engineers](https://medium.com/codex/how-pinterest-scaled-to-11-million-users-with-only-6-engineers-a0f62cea62b8)
 - [`delightroom` / 확장 가능하지 않은 일을 하라 (Do things that don’t scale)](https://medium.com/delightroom/do-things-that-dont-scale-6876c5682a75)
+- [`gitconnected` / The Granularity Conundrum: Finding The Right Size of a Microservice](https://levelup.gitconnected.com/the-granularity-conundrum-finding-the-right-size-of-a-microservice-c65d3c76cc3b)
 
 ---
 
@@ -177,6 +184,7 @@ head:
 - [`@sehyunny` / (번역) 예상치 못한 접근성 팁 소개](https://velog.io/@sehyunny/unexpected-a11y-tips)
 - `@qkrtkdwns3410` / [\[실용주의 프로그래머\] Topic 3 소프트웨어 엔트로피](https://velog.io/@qkrtkdwns3410/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-Topic-3-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%ED%8A%B8%EB%A1%9C%ED%94%BC)
 - [`@yeonns` / Cell-based Architecture에 대해 알아보자](https://velog.io/@yeonns/what-is-cell-based-architecture)
+- [`rikenshah` / Avoiding Beginner Mistakes Hampering You to Scale Backend⚡️](https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c)
 
 ---
 
@@ -191,6 +199,10 @@ head:
 - [`@ebprux` / UX 리서치의 진정한 힘 - 관찰의 중요성](https://brunch.co.kr/@ebprux/1335)
 - [`@ebprux` / UX 디자인과 사용자 민주주의의 중요성](https://brunch.co.kr/@ebprux/1310)
 - [`@ebprux` / 와이어프레임의 미학](https://brunch.co.kr/@ebprux/1336)
+- [`@ebprux` / 와이이프레임 디자인 크리틱 4가지 원칙](https://brunch.co.kr/@ebprux/1338)
+- [`@ebprux` / 종이 프로토타이핑, 창의성과 협업의 도구](https://brunch.co.kr/@ebprux/1317)
+- [`@2fEJ` / System Usability Scale 측정 방법 - UX 리서치 강연 #14](https://brunch.co.kr/@@2fEJ/1342)
+
 
 ---
 
@@ -205,6 +217,7 @@ head:
 ## 힘차게, 열심히 공대생
 
 - [OpenAPI 와 스웨거를 활용한 실전 API 설계 (feat. 요구사항으로 부터 도메인 모델링하기)](https://thalals.tistory.com/477)
+- [[한빛앤 MSA 세미나] 서비스 장애 잘 이해하고 대비하기 | 박순영](https://thalals.tistory.com/m/480)
 
 ---
 
@@ -503,6 +516,24 @@ head:
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
 - [블로그 | 멀쩡한 코드가 프로덕션만 가면 느려지는 5가지 이유와 해결 방법](https://www.ciokorea.com/news/38473)
+
+---
+
+## Jeremy's Blog
+
+- [데이터 중심 애플리케이션 설계(Designing Data-Intensive Applications)](https://sungjk.github.io/2024/06/22/ddia.html)
+
+---
+
+## Developer's Delight
+
+- [데이터 스누핑 편향이란?](https://sonseungha.tistory.com/m/724)
+
+---
+
+## emewjin.log
+
+- [(번역) 기능 분할 설계 - 최고의 프런트엔드 아키텍처](https://emewjin.github.io/feature-sliced-design/)
 
 ---
 

@@ -59,6 +59,7 @@ head:
 - [How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
 - [`@fengruohang` - Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 - [`29cm` / PostgreSQL Autovacuum 장애 대응기 (1)](https://medium.com/29cm/postgresql-autovacuum-%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0-1-8284955c0193)
+- [`hnasr` / PostgreSQL Process Architecture](https://medium.com/@hnasr/postgresql-process-architecture-f21e16459907)
 
 ---
 
@@ -261,6 +262,8 @@ head:
 
 - [How We Scaled PostgreSQL to 350 TB+ (With 10B New Records/Day)](https://www.timescale.com/blog/how-we-scaled-postgresql-to-350-tb-with-10b-new-records-day/)
 - [13 Tips to Improve PostgreSQL Insert Performance](https://www.timescale.com/blog/13-tips-to-improve-postgresql-insert-performance/)
+- [PostgreSQL and Pgvector: Now Faster Than Pinecone, 75% Cheaper, and 100% Open Source](https://www.timescale.com/blog/pgvector-is-now-as-fast-as-pinecone-at-75-less-cost/)
+- [Pgvector vs. Pinecone: Vector Database Performance and Cost Comparison](https://www.timescale.com/blog/pgvector-vs-pinecone/)
 
 ---
 
@@ -341,6 +344,18 @@ head:
 ## Postgres Monitoring, Database Optimization and more · pganalyze Blog
 
 - [GeoDjango and PostGIS in Django](https://pganalyze.com/blog/geodjango-postgis)
+
+---
+
+## Open Source Database Software Support & Services | Percona
+
+- [A Practical Guide to PostgreSQL Indexes](https://www.percona.com/blog/a-practical-guide-to-postgresql-indexes/)
+
+---
+
+## Logto: The better identity infrastructure for developers
+
+- [Mastering PostgreSQL JSONB type in one article](https://blog.logto.io/mastering-postgresql-jsonb/)
 
 ---
 

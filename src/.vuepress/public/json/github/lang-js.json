@@ -390,11 +390,6 @@
     "officialSite": "https://desktop.github.com",
     "topics": []
   }, {
-    "repo": "coollabsio/coolify",
-    "desc": "An open-source & self-hostable Heroku / Netlify alternative.",
-    "officialSite": "https://coolify.io",
-    "topics": []
-  }, {
     "repo": "typeorm/typeorm",
     "desc": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
     "officialSite": "http://typeorm.io",
@@ -2379,5 +2374,15 @@
     "desc": "Text status hosting to use with your own tools",
     "officialSite": "https://curls.merkoba.com",
     "topics": []
+  }, {
+    "repo": "k8svisual/vpk",
+    "desc": "View k8s in graphical fashion",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "hybridgroup/cylon",
+    "desc": "JavaScript framework for robotics, drones, and the Internet of Things (IoT)",
+    "officialSite": "https://cylonjs.com",
+    "topics": ["arduino", "beaglebone-black", "bluetooth-low-energy", "chip", "drones", "gpio", "i2c", "intel-edison", "intel-joule", "internet-of-things", "iot", "javascript", "raspberry-pi", "robotics", "sphero"]
   }
 ]

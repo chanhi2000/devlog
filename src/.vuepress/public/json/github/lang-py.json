@@ -2931,9 +2931,9 @@
     "topics": []
   }, {
     "repo": "mindsdb/mindsdb",
-    "desc": "MindsDB connects AI models to datasources.",
+    "desc": "The platform for building AI from enterprise data",
     "officialSite": "https://mindsdb.com",
-    "topics": ["ai", "ai-agents", "artificial-intelligence", "auto-gpt", "chatbot", "database", "forecasting", "gpt", "gpt4all", "hacktoberfest", "huggingface", "langchain", "llm", "machine-learning", "ml", "mongodb", "mysql", "postgres", "semantic-search", "timeseries"]
+    "topics": ["ai", "ai-agents", "artificial-intelligence", "auto-gpt", "chatbot", "database", "forecasting", "gpt", "gpt4all", "hacktoberfest", "huggingface", "llm", "machine-learning", "ml", "mongodb", "mysql", "postgres", "semantic-search", "timeseries"]
   }, {
     "repo": "pi-hole/pi-hole",
     "desc": "A black hole for Internet advertisements",
@@ -5589,5 +5589,30 @@
     "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "officialSite": "https://pytorch.org",
     "topics": ["autograd", "deep-learning", "gpu", "machine-learning", "neural-network", "numpy", "python", "tensor"]
+  }, {
+    "repo": "fohrloop/wakepy",
+    "desc": "Cross-platform keep-awake with python",
+    "officialSite": "",
+    "topics": ["caffeine", "keepawake", "nosleep", "prevent-screen-lock", "preventing-sleep", "python"]
+  }, {
+    "repo": "Kozea/WeasyPrint",
+    "desc": "The awesome document factory",
+    "officialSite": "https://weasyprint.org",
+    "topics": ["converter", "css", "html", "pdf", "python", "weasyprint"]
+  }, {
+    "repo": "paul-gauthier/aider-swe-bench",
+    "desc": "Harness used to benchmark aider against SWE Bench benchmarks",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "getludic/ludic",
+    "desc": "🌳 Web Development in Pure Python with Type-Guided Components.",
+    "officialSite": "https://getludic.dev",
+    "topics": ["async", "html-css-js", "htmx", "python", "template-engine"]
+  }, {
+    "repo": "Ostorlab/oxo",
+    "desc": "OXO is a security scanning orchestrator for the modern age.",
+    "officialSite": "https://oxo.ostorlab.co",
+    "topics": ["scanner", "security", "security-scanner", "security-tools"]
   }
 ]

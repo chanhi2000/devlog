@@ -27,6 +27,7 @@ tag:
 - [`@seochan99` - cerbot을 활용하여 https 설정하는 방법](https://velog.io/@seochan99/cerbot%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-https-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [`@beberiche` - Nginx+certbot으로 https 요청 설정하기](https://velog.io/@beberiche/Nginxcertbot%EC%9C%BC%EB%A1%9C-https-%EC%9A%94%EC%B2%AD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [`@mowinckel` / 🚜 웹 크롤링과 아키텍쳐](https://velog.io/@mowinckel/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81%EA%B3%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+- [\[nginx\] 기본값만 믿고 있다가 삽질하기 딱 좋은 설정 - 헤더의 언더스코어](https://velog.io/@broccolism/nginx-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-%EB%94%B1-%EC%A2%8B%EC%9D%80-%EC%84%A4%EC%A0%95)
 
 ---
 

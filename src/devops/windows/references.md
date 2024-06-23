@@ -222,6 +222,18 @@ tag:
 
 ---
 
+## 게으른맽랩 lazy matlab
+
+- [윈도우 단축키 모음](https://lazymatlab.tistory.com/m/247)
+
+---
+
+## 성태의 닷넷 이야기
+
+- [개발 환경 구성: 712. Windows - WSL 2의 네트워크 통신 방법 - 세 번째 이야기 (같은 IP를 공유하는 WSL 2 인스턴스)](https://www.sysnet.pe.kr/2/0/13647)
+
+---
+
 ## Misc
 
 - [DiskClick](https://deervo.itch.io/diskclick)

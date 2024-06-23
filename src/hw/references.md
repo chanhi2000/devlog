@@ -70,6 +70,7 @@ head:
 - [STM32H7S78-DK PSRAM HexaSPI에서 OctoSPI로 변경하기](https://blog.naver.com/chandong83/223481914600)
 - [STM32H7S78-DK 보드 - TouchGFX 데모 예제 올리기](https://blog.naver.com/chandong83/223481878871)
 - [X-CUBE-TOUCHGFXx.xx.x is unknown-최신TouchGFX 수동설치하기](https://blog.naver.com/chandong83/223484489682)
+- [STM32G0xx Systick,HAL_GetTick 함수들 호출 안될 때](https://blog.naver.com/chandong83/223487856550?fromRss=true&trackingCode=rss)
 
 ---
 

@@ -165,6 +165,7 @@ head:
 - [`@dongha1992` / \[프로그래머스\] 다단계 칫솔 판매](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A4%EB%8B%A8%EA%B3%84-%EC%B9%AB%EC%86%94-%ED%8C%90%EB%A7%A4)
 - [`@dongha1992` / \[프로그래머스\] 합승 택시 요금](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%95%A9%EC%8A%B9-%ED%83%9D%EC%8B%9C-%EC%9A%94%EA%B8%88)
 - [`@dongha1992` / \[PCCP 기출문제\] 2번 / 석유 시추](https://velog.io/@dongha1992/PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-2%EB%B2%88-%EC%84%9D%EC%9C%A0-%EC%8B%9C%EC%B6%94)
+- [`@dongha1992` / [프로그래머스] 단어 변환](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98)
 
 ---
 
@@ -240,6 +241,9 @@ head:
 - [\[JavaScript\] 자바스크립트 반올림, 올림, 버림 방법 - 소수점 2자리까지 출력](https://coding-factory.tistory.com/m/1070)
 - [\[JavaScript\] 자바스크립트 배열에 요소 추가 / 삭제하는 다양한 방법](https://coding-factory.tistory.com/m/1071)
 - [\[JavaScript\] 자바스크립트 배열(array) 합치는 간단한 방법](https://coding-factory.tistory.com/m/1072)
+- [\[JavaScript\] 배열 정렬하는 간단한 방법(`sort`) - 문자열, 숫자, 객체 배열 정렬하기](https://coding-factory.tistory.com/m/1075)
+- [\[JavaScript\] 화살표 함수(Arrow Function) 사용법 & 예제 총정리](https://coding-factory.tistory.com/m/1076)
+- [\[JavaScript\] 화살표 함수(Arrow Function) 사용시 주의할 점 (어휘적 범위 - Lexical Scope)](https://coding-factory.tistory.com/m/1077)
 
 ---
 
@@ -267,6 +271,7 @@ head:
 - [[이펙티브 타입스크립트] 3장 타입 추론 19~23](https://paran21.tistory.com/m/236)
 - [\[이펙티브 타입스크립트\] 4장 타입 설계 28~32](https://paran21.tistory.com/m/237)
 - [\[이펙티브 타입스크립트\] 5장 any 다루기](https://paran21.tistory.com/m/238)
+- [\[이펙티브 타입스크립트\] 7장 코드를 작성하게 실행하기 아이템53~55](https://paran21.tistory.com/m/240)
 
 ---
 
@@ -484,6 +489,12 @@ head:
 ## Beyond Loom
 
 - [Atkinson Dithering](https://beyondloom.com/blog/dither.html)
+
+---
+
+## cramr
+
+- [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 
 ---
 

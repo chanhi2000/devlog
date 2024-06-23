@@ -1433,5 +1433,11 @@
     "desc": "RTranslator is the world's first open source real-time translation app.",
     "officialSite": "",
     "topics": ["ai", "android-app", "bluetooth-le", "coversation", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "simultaneous-translation", "transformers", "translation", "translator", "whisper-ai"]
+  }, {
+    "repo": "Samsung/escargot",
+    "desc": "Escargot is a memory optimized JavaScript engine for mid-range devices such as mobile phone, tablet and TV.",
+    "officialSite": "",
+    "topics": ["javascript-engine"]
   }
+  
 ]

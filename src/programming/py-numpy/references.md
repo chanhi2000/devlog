@@ -66,4 +66,10 @@ head:
 
 ---
 
+## passion is like genius; a miracle.
+
+- [Sort values in each row of polars df](http://mkseo.pe.kr/blog/?p=5014)
+
+---
+
 <TagLinks />

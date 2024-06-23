@@ -151,6 +151,9 @@ tag:
 - [\[Q&A\] WinMain의 HINSTANCE 값에 대하여](https://blog.naver.com/tipsware/223475758883)
 - [\[Q&A\] Memory DC를 사용하는 코드는 늘 이렇게 사용해야 하나요?](https://blog.naver.com/tipsware/223477702719)
 - [MFC 프로그래밍 테스트 과제 - Step 6](https://blog.naver.com/tipsware/223484562487)
+- [LNK4099 경고](https://blog.naver.com/tipsware/223485629126?)
+- [MFC 프로그래밍 테스트 과제 - Step 7](https://blog.naver.com/tipsware/223486268700?)
+- [\[Q&A\] ScreenToClient 함수를 사용할 때](https://blog.naver.com/tipsware/223487961033?fromRss=true&trackingCode=rss)
 
 ---
 
@@ -265,6 +268,7 @@ tag:
 ## HiGenis
 
 - [TouchGFX 시뮬레이션에서 윈도우 COM 포트 사용하기 예제 코드](https://blog.naver.com/chandong83/223477320971)
+- [TouchGFX `CustomContainer`에서 `handleTickEvent` 함수 사용하기](https://blog.naver.com/chandong83/223487001959?fromRss=true&trackingCode=rss)
 
 ---
 

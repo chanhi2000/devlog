@@ -381,6 +381,16 @@ head:
 
 ```component VPCard
 {
+  "title": "4년 차 개발자의 SI 대기업 이직기 ① 이직 결심부터 코딩테스트까지 | 요즘IT",
+  "desc": "4년 차 개발자의 SI 대기업 이직기 ① 이직 결심부터 코딩테스트까지",
+  "link": "/explore/articles/yozm.wishket.com/2627.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "의사소통이 즐거운 개발자의 3가지 능력 | 요즘IT",
   "desc": "의사소통이 즐거운 개발자의 3가지 능력",
   "link": "/explore/articles/yozm.wishket.com/2631.md",

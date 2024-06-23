@@ -644,5 +644,10 @@
     "desc": "Python toolkit for quantitative finance",
     "officialSite": "https://developer.gs.com/discover/products/gs-quant/",
     "topics": ["derivatives", "goldman-sachs", "gs-quant", "risk-management", "trading-strategies"]
+  }, {
+    "repo": "karpathy/micrograd",
+    "desc": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+    "officialSite": "",
+    "topics": []
   }
 ]

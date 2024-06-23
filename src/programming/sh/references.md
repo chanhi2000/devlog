@@ -293,6 +293,7 @@ tag:
 - [`split` 명령어](https://johngrib.github.io/wiki/cmd/split/)
 - [`diff`](https://johngrib.github.io/wiki/cmd/diff/)
 - [`join` 명령어](https://johngrib.github.io/wiki/cmd/join/)
+- [`openssl` 명령어](https://johngrib.github.io/wiki/cmd/openssl/)
 
 ---
 

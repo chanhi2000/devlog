@@ -161,6 +161,13 @@ tag:
 }
 ```
 
+<SiteInfo
+  name="Queueing"
+  desc="In this blog, we go on an interactive journey to understand common queueing strategies for handling HTTP requests."
+  url="https://encore.dev/blog/queueing"
+  logo="https://encore.dev/assets/blog/card/queueing_cover.png"
+  preview="https://encore.dev/assets/blog/card/queueing_cover.png"/>
+
 <!-- @end Algorithm -->
 
 @tab Crashcourse
@@ -655,6 +662,27 @@ https://www.joinc.co.kr/w/Site
   "background": "rgba(0,0,0,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Learn Git Branching"
+  desc="An interactive Git visualization tool to educate and challenge!"
+  url="https://learngitbranching.js.org/?locale=en"
+  logo="https://learngitbranching.js.org/assets/favicon.ico"
+  preview="https://pcottle.github.io/learnGitBranching/assets/learnGitBranching.png"/>
+
+<SiteInfo
+  name="Web Browser Engineering"
+  desc="Web browsers are ubiquitous, but how do they work? This book explains, building a basic but complete web browser, from networking to JavaScript, in a couple thousand lines of Python."
+  url="https://browser.engineering/"
+  logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F039e7f30-6b09-4d72-9f97-d5c966bd23a1%2Fapple-touch-icon-1024x1024.png"
+  preview="https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbrowserbook.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1338915068%26version%3D9"/>
+
+<SiteInfo
+  name="Design Patterns Catalogue"
+  desc="Build services that earn trust. IF curates this catalogue to help teams design trustworthy services that work for people."
+  url="https://catalogue.projectsbyif.com/"
+  logo="https://catalogue.projectsbyif.com/images/favicon-16x16.png?v=WGoJrwxmWP"
+  preview="https://catalogue.projectsbyif.com/images/IF-logo%e2%80%93regular.svg"/>
 
 <!-- @end Crashcourse -->
 

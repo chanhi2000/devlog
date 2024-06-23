@@ -1589,5 +1589,10 @@
     "desc": "A next-generation crawling and spidering framework.",
     "officialSite": "",
     "topics": ["cli", "crawler", "gocrawler", "headless", "spider-framework", "web-spider"]
+  }, {
+    "repo": "daytonaio/daytona",
+    "desc": "The Open Source Dev Environment Manager.",
+    "officialSite": "https://daytona.io",
+    "topics": ["dev-env", "dev-environment-setup", "developer-tools", "development-environment", "development-environment-manager"]
   }
 ]

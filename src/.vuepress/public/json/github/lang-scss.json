@@ -19,5 +19,10 @@
     "desc": "Arsip gorengan full konteks",
     "officialSite": "https://zakirkun.github.io/arsip-gorengan-is/",
     "topics": []
+  }, {
+    "repo": "dumindu/E25DX",
+    "desc": "🧑‍💻 Your next documentation theme...",
+    "officialSite": "",
+    "topics": ["documentation", "gohugo", "gohugo-theme", "hugo", "hugo-theme"]
   }
 ]

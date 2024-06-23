@@ -29,6 +29,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-x-twitter"/>X
+
+<VidStack src="https://video.twimg.com/tweet_video/GQVEaNBbwAE0KX9.mp4" />
+
+---
+
 ## NHN Cloud Meetup - NHN 기술 블로그
 
 - [JWT를 소개합니다.](https://meetup.nhncloud.com/posts/239) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/239.md) -->

@@ -1069,5 +1069,10 @@
     "desc": "Investigates optimizing 'wc', the Unix word count program",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "espressif/esp-idf",
+    "desc": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+    "officialSite": "",
+    "topics": []
   }
 ]

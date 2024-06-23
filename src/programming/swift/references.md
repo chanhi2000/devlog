@@ -735,4 +735,9 @@ tag:
 
 ---
 
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [애플도 AI 코딩 도구에 투자··· ‘스위프트 어시스트’ 출시](https://www.ciokorea.com/news/340134)
+
+
 <TagLinks />

@@ -64,6 +64,7 @@ tag:
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@mythos` / \[C\] JSON 라이브러리 개발](https://velog.io/@mythos/C-JSON-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C)
+- [`@mythos` / \[C\] 로깅 라이브러리 개발](https://velog.io/@mythos/C-%EB%A1%9C%EA%B9%85-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C)
 
 ---
 
@@ -418,6 +419,12 @@ tag:
 ## Max Bernstein
 
 - [Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models)
+
+---
+
+## Substack
+
+- [`codingconfessions` / CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
 
 ---
 

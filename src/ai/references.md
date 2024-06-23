@@ -130,6 +130,34 @@ head:
 
 ---
 
+## 김 용묵의 절대공간 - 블로그
+
+- [인공지능(AI) 기술이 펼치는 세상](http://moogi.new21.org/tc/2311)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [‘내 일자리 위협할 것’··· AI에 대한 두려움, 여전히 크다](https://ciokorea.com/news/340659)
+- [‘목적에 맞게 설계된 AI’··· 소규모 AI로 전환하고 있는 IT 리더 이야기](https://ciokorea.com/news/340813)
+- [AI로 아낀 시간, 엉뚱한 데 쓴다?··· 슬랙, 워크포스 인덱스 보고서 공개](https://ciokorea.com/news/340085)
+- [“요즘 리더의 최대 관심사”··· ‘AI 인재 확보’ 위해 전략 재구상하는 글로벌 기업들](https://ciokorea.com/news/340484)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- ["학생과 젊은 직장인이 생성형 AI 혁명 주도" 딜로이트 보고서](https://itworld.co.kr/news/341044)
+- [“모두를 위한 AI 슈퍼컴” 애저 클라우드 AI 데이터센터의 내부 살펴보기](https://itworld.co.kr/news/341541)
+
+---
+
+## Buttondown
+
+- [`geoffreylitt` / Towards universal version control with Patchwork](https://buttondown.email/geoffreylitt/archive/towards-universal-version-control-with-patchwork/)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

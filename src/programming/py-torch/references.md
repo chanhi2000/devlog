@@ -49,4 +49,10 @@ head:
 
 ---
 
+## sankalp's blog
+
+- [Shape Rotation 101: An Intro to Einsum and Jax Transformers](https://sankalp.bearblog.dev/einsum-new/)
+
+---
+
 <TagLinks />

@@ -237,6 +237,9 @@ head:
 - [대형언어모델 검색증강생성의 핵심기술, 벡터 데이터베이스 Chroma 분석하기](https://daddynkidsmakers.blogspot.com/2024/06/llm-rag-chroma.html)
 - [다중 에이전트 LLM 아키텍처 소개](https://daddynkidsmakers.blogspot.com/2024/06/llm.html)
 - [LLM 의 통계적 패턴 예측성과 한계에 대한 연구](https://daddynkidsmakers.blogspot.com/2024/06/llm_16.html)
+- [NLP의 핵심. 토큰, 임베딩과 파인튜닝](https://daddynkidsmakers.blogspot.com/2024/06/nlp.html)
+- [도메인 모델 성능개선을 위한 Lora 기반 LLAMA3 모델 파인튜닝하기](https://daddynkidsmakers.blogspot.com/2024/06/lora-llama3.html)
+- [Weights & Biases로 딥러닝 모델 개발 프로세스 기록, 분석, 가시화 및 모델 튜닝하기](https://daddynkidsmakers.blogspot.com/2024/06/weights-biases.html)
 
 ---
 

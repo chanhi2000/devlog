@@ -112,6 +112,7 @@ head:
 - [`chrisjune-13837` / [cheat sheet] Kubernetes, Kubeflow 자주 쓰는 명령어 모음](https://chrisjune-13837.medium.com/cheat-sheet-kubernetes-kubeflow-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C-b65197dfcae7)
 - [`watcha` / 멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://medium.com/watcha/%EB%A9%80%ED%8B%B0%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-8c5f671df559#gaerae.com)
 - [`daangn` / 딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a)
+[`google-cloud` / Tutorial : Making a Kubernetes Risk Analyser from scratch](https://medium.com/google-cloud/tutorial-making-a-kubernetes-risk-analyser-from-scratch-3d7c74e10b41)
 
 ---
 

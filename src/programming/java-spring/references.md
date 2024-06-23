@@ -124,6 +124,7 @@ head:
 - [`akintopbas96` / Spring Boot Code Structure: Package by Layer vs Package by Feature](https://medium.com/@akintopbas96/spring-boot-code-structure-package-by-layer-vs-package-by-feature-5331a0c911fe)
 - [`akintopbas96` / Refactoring Java Spring Boot Code: Eliminating If-Else Statements for Cleaner, Extensible Logic](https://medium.com/@akintopbas96/refactoring-java-spring-boot-code-eliminating-if-else-statements-for-cleaner-extensible-logic-f1314cf9724e)
 - [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
+- [`taesulee93` / Spring Http Interface를 활용한 외부 API 연동 — with WebClient](https://medium.com/@taesulee93/spring-http-interface%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%99%B8%EB%B6%80-api-%EC%97%B0%EB%8F%99-with-webclient-ab3691db5c27?source=rss-524631d9bcfb------2)
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
@@ -358,6 +359,9 @@ head:
 - [3.3. 기본 라이브러리 설정하기](https://ysedeveloper.tistory.com/m/entry/33-%EA%B8%B0%EB%B3%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [3.4. 스프링 부트 한글 입출력 설정하기](https://ysedeveloper.tistory.com/m/entry/34-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%9C%EA%B8%80-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [3.5. STS 한글 인코딩 설정하기](https://ysedeveloper.tistory.com/m/entry/35-STS-%ED%95%9C%EA%B8%80-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [3.6. 타임리프 플러그인 설치하기](https://ysedeveloper.tistory.com/m/entry/36-%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+- [4.1. h2 database 준비하기](https://ysedeveloper.tistory.com/m/entry/41-h2-database-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
+- [4.2. JPA 연동하기](https://ysedeveloper.tistory.com/m/entry/42-JPA-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 
 ### Suhwan Jee's blog
 
@@ -403,6 +407,14 @@ head:
 
 - [Spring WebSocket 예외 처리 - `@MessageExceptionHandler`, `StompSubProtocolErrorHandler`](https://shout-to-my-mae.tistory.com/m/434)
 
+### 개발하는 자몽
+
+- [[Spring Security] 예외 처리하기](https://backend-jaamong.tistory.com/m/169)
+
+### 얇고 넓은 개발 블로그
+
+- [Transactional의 Self Injection이 올바른가](https://sundries-in-myidea.tistory.com/m/167)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -446,5 +458,6 @@ head:
 - [\[MockMvc\] MockMvc 테스트 시 한글이 깨져서 테스트에 실패하는 문제](https://colabear754.tistory.com/m/217)
 
 ---
+
 
 <TagLinks />

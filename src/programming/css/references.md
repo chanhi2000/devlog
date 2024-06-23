@@ -633,4 +633,16 @@ tag:
 
 ---
 
+## Lea Verou
+
+- [Inline conditionals in CSS?](https://lea.verou.me/blog/2024/css-conditionals/)
+
+---
+
+## Cruncher – web development agency in Lausanne
+
+- [Printing music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+
+---
+
 <TagLinks />

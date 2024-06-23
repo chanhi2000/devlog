@@ -711,6 +711,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+<SiteInfo
+  name="Search Engine for Ideas | Does It Exist"
+  desc="Find out if your idea already exists and get inspired by similar ideas."
+  url="https://doesitexist.io/"
+  logo="https://doesitexist.io/favicon.ico"
+  preview="https://doesitexist.io/doesitexist-cover.png"/>
+
 <!-- @end Cool Project -->
 
 @tab Portfolio / Resume

@@ -146,7 +146,8 @@ tag:
 - [`styleshare` / 우리는 코드 리뷰를 잘하고 있을까요?](https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d)
 - [`오일나우-팀-블로그` / 소규모 스타트업에서 OKR 도입은 어떤 결과를 가져다 주었을까?](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-okr-%EB%8F%84%EC%9E%85%EC%9D%80-%EC%96%B4%EB%96%A4-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%A3%BC%EC%97%88%EC%9D%84%EA%B9%8C-f6bdc26a1352)
 - [`오일나우-팀-블로그` / 스타트업에서 명함으로 서비스 홍보하는 법](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EB%AA%A8%EB%93%A0-%ED%8C%80%EC%9B%90%EC%9D%84-%ED%99%8D%EB%B3%B4%ED%8C%80%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-%EB%A7%88%EB%B2%95%EC%9D%98-%EB%AA%85%ED%95%A8-%EC%A0%9C%EC%9E%91%EA%B8%B0-be1f6a45c7e)
-- [주니어, 미드레벨과 시니어 개발자의 차이점](https://erwinousy.medium.com/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%AF%B8%EB%93%9C%EB%A0%88%EB%B2%A8%EA%B3%BC-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-d29bffecfec)
+- [`erwinousy` / 주니어, 미드레벨과 시니어 개발자의 차이점](https://erwinousy.medium.com/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%AF%B8%EB%93%9C%EB%A0%88%EB%B2%A8%EA%B3%BC-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-d29bffecfec)
+- [`towardsdatascience` / Your End-to-End Product Analytics Strategy](https://towardsdatascience.com/your-end-to-end-product-analytics-strategy-648ecfa586c2)
 
 ---
 
@@ -191,12 +192,22 @@ tag:
 - [`@seunghoon82` / 잘하는 음식점에서 배운 시사점 (단합 & 선제한 실행)](https://brunch.co.kr/@seunghoon82/511)
 - [`@ebprux` / 프로젝트에서의 기능 개선 우선순위 결정 과정의 중요성](https://brunch.co.kr/@ebprux/1309)
 - [`@ebprux` / 프로덕트 매니저의 핵심, '유저 컨텍스트' 이해하기](https://brunch.co.kr/@ebprux/1319)
+- [`@ebprux` / 서베이의 진정한 가치](https://brunch.co.kr/@ebprux/1341)
+- [`@ebprux` / 프로덕트 매니저의 역할과 역량 변화](https://brunch.co.kr/@ebprux/1348)
+- [`@ebprux` / 사용자 경험의 포괄적 향상을 위한 PM의 역할](https://brunch.co.kr/@ebprux/1343)
+- [`@mystoryg` / 내가 우리 팀에 필요한 사람일까?](https://brunch.co.kr/@mystoryg/214)
+- [`@seunghoon82` / 일을 하는 사람 vs. 더 잘하려고 노력하는 사람.](https://brunch.co.kr/@seunghoon82/514)
+- [`@seunghoon82` / 모든 서비스의 유저는 결국 사람이다 (CX의 중요성)](https://brunch.co.kr/@seunghoon82/513)
+- [`@2fEJ` / 사용자 이해와 가치 창출을 위한 도전 - 프로덕트 매니저가 전문가가 되기 위한 노력 #3](https://brunch.co.kr/@@2fEJ/1349)
+- [`@2fEJ` / 의사결정권자의 UX 개념 향상을 위한 실천 방안 - PM 강의 #14](https://brunch.co.kr/@@2fEJ/1339)
+- [`@ghilbut` / 고소득자는 세금을 많이 내서 존중받아야 한다?!](https://medium.com/@ghilbut/%EA%B3%A0%EC%86%8C%EB%93%9D%EC%9E%90%EB%8A%94-%EC%84%B8%EA%B8%88%EC%9D%84-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EC%84%9C-%EC%A1%B4%EC%A4%91%EB%B0%9B%EC%95%84%EC%95%BC-%ED%95%9C%EB%8B%A4-a1db27fa5086)
 
 ---
 
 ## DISQUIET
 
 - [`@hpark0011` / 답변의 80%가 예측될 때까지 인터뷰해서 초기 제품 방향성을 잡은 Vanta](https://disquiet.io/@hpark0011/makerlog/vanta%EA%B0%80-%EC%B4%88%EA%B8%B0-%EC%A0%9C%ED%92%88-%EB%B0%A9%ED%96%A5%EC%84%B1%EC%9D%84-%EC%9E%A1%EC%9D%80-%EB%B0%A9%EB%B2%95)
+- [`@hpark0011` / 시니어 채용할 때 고려해야 되는 4가지 - 신뢰, 문화, 단순함, 피드백](https://disquiet.io/@hpark0011/makerlog/%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-%EC%8B%A0%EB%A2%B0-%EB%AC%B8%ED%99%94-%EB%8B%A8%EC%88%9C%ED%95%A8-%ED%94%BC%EB%93%9C%EB%B0%B1)
 
 ---
 
@@ -373,6 +384,7 @@ tag:
 - [`@pinpointresearch` / Brex vs Ramp](https://pinpointresearch.substack.com/p/brex-vs-ramp)
 - [`systemdesign` / How McDonald’s Food Delivery Platform Handles 20,000 Orders per Second](https://newsletter.systemdesign.one/p/mcdonalds-architecture)
 - [`engineerscodex` / Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
+- [`highgrowthengineer` / The Ultimate Guide to Becoming a Rockstar Product Engineer](https://read.highgrowthengineer.com/p/ultimate-guide-to-product-engineer)
 
 ---
 
@@ -416,6 +428,8 @@ tag:
 - [입으로 투자하기](https://www.thestartupbible.com/2024/06/the-talker-and-the-keyboarder-vc.html)
 - [한 방은 없다](https://www.thestartupbible.com/2024/06/no-such-thing-as-jackpot-in-life.html)
 - [컴백](https://www.thestartupbible.com/2024/06/the-great-comeback.html)
+- [작은 시장, 작은 사람들, 큰 결과](https://www.thestartupbible.com/2024/06/things-take-time.html)
+
 
 ---
 
@@ -887,7 +901,10 @@ tag:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-- [블로그ㅣ개발자에게 듣는 '좋은 소프트웨어'의 조건](https://www.ciokorea.com/news/230519)
+- [블로그ㅣ개발자에게 듣는 '좋은 소프트웨어'의 조건](https://ciokorea.com/news/230519)
+- [“IT 다운타임으로 기업 수익 9% 감소” 스플렁크 및 옥스포드 이코노믹스 연구](https://ciokorea.com/news/340778)
+- [칼럼 | 기술 채용의 떠오르는 난관은 ‘우수한 지원자 찾기’](https://ciokorea.com/news/340652)
+- [IT 조직을 ‘플랫폼 엔지니어링 팀’으로 재구성하기 ‘Why  & How’](https://www.ciokorea.com/news/341422)
 
 ---
 
@@ -916,6 +933,7 @@ https://blog.naver.com/&logId=
 - ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지](https://www.itworld.co.kr/news/204459)
 - [매력적이지만 버려야 할 10가지 나쁜 프로그래밍 습관](https://www.itworld.co.kr/news/337915)
 - ["디지털 혁신 저해하는 원인" IT 인력 부족 문제를 해결할 2가지 핵심 요소](https://www.itworld.co.kr/news/339119)
+- [“사무실 복귀 지시는 위장된 정리 해고?” 근무 방식에 따른 생산성 조사](https://itworld.co.kr/news/340407)
 
 ---
 
@@ -1132,5 +1150,55 @@ https://blog.naver.com/&logId=
 ## 용균
 
 - [오픈소스 메인테이너는 당신에게 빚진 적 없다](https://edykim.com/ko/post/open-source-maintainers-owe-you-nothing/)
+
+---
+
+## haebom
+
+- [\[사설\] IT 강국 대한민국은 어디로 갔을까?](https://www.haebom.dev/qrx6zk25jvqj4mv314y5)
+
+---
+
+## 보름의 달빛 ✨
+
+- [센디 자체 주소 검색 시스템 릴리즈 🎉](https://shkisme.vercel.app/Sendy-Juso-Retrospect)
+
+---
+
+## 뷰티풀 프로그래밍
+
+- [개발자는 ESG를 신경 써야 하는가?](http://krksap.tistory.com/m/2294)
+
+---
+
+## moregorenine
+
+- [맥스웰 몰츠 성공의 법칙](https://moregorenine.github.io/%EB%8F%84%EC%84%9C/psycho-cybernetics/)
+
+---
+
+## Erik Bernhardsson
+
+- [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
+
+---
+
+## Stefan Theard
+
+- [Silicon Valley’s Best Kept Secret: Founder Liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
+
+---
+
+## 한경비즈니스 | 매거진한경
+
+- [“이걸요·제가요·왜요”...‘3요 주의보’를 이겨내는 방법\[김한솔의 경영전략\]](https://magazine.hankyung.com/business/article/202406132937b)
+
+---
+
+## 코딩 놓으려 했는데
+
+- [그 누구도 나의 서사를 대신 써주지 않는다](https://codingpause.hashnode.dev/about-growing-up)
+
+---
 
 <TagLinks />

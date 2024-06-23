@@ -327,6 +327,7 @@ tag:
 
 - [2018년, 해커들이 가장 많이 사용했던 취약점은 무엇일까?](https://m.boannews.com/html/detail.html?idx=76291)
 - [방화벽 설정 시 가장 많이 저지르는 실수 다섯 가지](https://m.boannews.com/html/detail.html?idx=81891)
+- [UNC5537 해커 조직의 스노우플레이크 고객 데이터 탈취 시도가 성공한 이유](https://m.boannews.com/html/detail.html?idx=130594)
 
 ---
 
@@ -345,6 +346,37 @@ tag:
 ## JPRX
 
 - [CVE-2024-27815](https://jprx.io/cve-2024-27815/)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [가치 침식으로부터 디지털 트랜스포메이션을 보호하는 방법](https://ciokorea.com/news/340323)
+- [“수습 비용만 1조원”··· 체인지 헬스케어의 랜섬웨어 대참사에서 배워야 할 8가지 교훈](https://ciokorea.com/news/340925)
+- [강은성의 보안 아키텍트ㅣ개발자가 알아야 할 공급망 보안](https://ciokorea.com/news/340729)
+- [2023년 미 정부 기관 주요 보안 사고 11선](https://ciokorea.com/news/340799)
+- [칼럼 | 10건의 사례에서 배우는 클라우드 백업 교훈](https://www.ciokorea.com/news/340638)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- ["다목적 해킹 툴 개발, 탈취 데이터 요약…" AI로 고도화된 사이버 위협의 실태](https://itworld.co.kr/news/340561)
+- [개인 계정에 보호막 씌우는 마스킹 이메일 시작하는 방법](https://itworld.co.kr/news/340414)
+
+---
+
+## Ars Technica
+
+- [PyPI halted new users and projects while it fended off supply-chain attack](https://arstechnica.com/security/2024/03/pypi-halted-new-users-and-projects-while-it-fended-off-supply-chain-attack/)
+- [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
+- [Maximum-severity GitLab flaw allowing account hijacking under active exploitation](https://arstechnica.com/security/2024/05/0-click-gitlab-hijacking-flaw-under-active-exploit-with-thousands-still-unpatched/)
+
+---
+
+## Trend Micro (US) | Industry-Leading Cyber Security Platform
+
+- [Back to the Hype](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/back-to-the-hype-an-update-on-how-cybercriminals-are-using-genai)
 
 ---
 

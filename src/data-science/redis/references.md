@@ -47,6 +47,7 @@ tag:
 - [`@qkrtkdwns3410` / \[개발자를 위한 레디스\] 실시간 리더보드를 위한 Sorted Set 활용(1)](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A0%88%EB%94%94%EC%8A%A4-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A6%AC%EB%8D%94%EB%B3%B4%EA%B7%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Sorted-Set-%ED%99%9C%EC%9A%A91)
 - [`@qkrtkdwns3410` / \[개발자를 위한 레디스\] 레디스로 DAU 카운팅](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A0%88%EB%94%94%EC%8A%A4-%EB%A0%88%EB%94%94%EC%8A%A4%EB%A1%9C-DAU-%EC%B9%B4%EC%9A%B4%ED%8C%85)
 - [`@qkrtkdwns3410` / \[개발자를 위한 레디스\] 게임에서의 랜덤 데이터 추출 방법](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A0%88%EB%94%94%EC%8A%A4-%EA%B2%8C%EC%9E%84%EC%97%90%EC%84%9C%EC%9D%98-%EB%9E%9C%EB%8D%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EC%B6%9C-%EB%B0%A9%EB%B2%95)
+- [`@qkrtkdwns3410` / \[개발자를 위한 레디스\] 캐시의 데이터 흐름](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A0%88%EB%94%94%EC%8A%A4-%EC%BA%90%EC%8B%9C%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%9D%90%EB%A6%84)
 
 ---
 

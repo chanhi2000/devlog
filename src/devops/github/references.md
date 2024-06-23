@@ -39,12 +39,14 @@ tag:
 - [`stackademic` / What Every Android Developer Should Have in Their GitHub?](https://blog.stackademic.com/what-every-android-developer-should-have-in-their-github-de8deab051b9)
 - [`mcdonalds-technical-blog`: Reduce, reuse, recycle: McDonald's reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
 - [`changjoopark` / 오픈소스를 금지당한 사람들의 몸부림](https://changjoopark.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%B8%88%EC%A7%80%EB%8B%B9%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%AA%B8%EB%B6%80%EB%A6%BC-bd1498652e68)
+- [`well-balanced` / Contribution to Open Source Projects](https://well-balanced.medium.com/contribution-to-open-source-projects-a8b5b072f71a?source=rss-5e9122afc2eb------2)
 
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
-- [[Github 협업, 이것만은 알자] - Cherry pick](https://velog.io/@pgmjun/Github-%ED%98%91%EC%97%85-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EC%95%8C%EC%9E%90-Cherry-pick)
+- [`@pgmjun` / [Github 협업, 이것만은 알자] - Cherry pick](https://velog.io/@pgmjun/Github-%ED%98%91%EC%97%85-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EC%95%8C%EC%9E%90-Cherry-pick)
+- [`@greencloud` / 쌈@뽕하게 Lighthouse 자동화하기](https://velog.io/@greencloud/%EC%8C%88%EB%BD%95%ED%95%98%EA%B2%8C-Lighthouse-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-ijcqk0uv)
 
 ---
 
@@ -207,6 +209,7 @@ tag:
 ## 컴공생의 발자취
 
 - [\[내일배움캠프 44일차 TIL\] 아웃소싱 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-44%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
+- [\[내일배움캠프 45일차 TIL\] 아웃소싱 프로젝트 환경설정 및 Github 피드백](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-45%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-%EB%B0%8F-Github-%ED%94%BC%EB%93%9C%EB%B0%B1)
 
 ---
 

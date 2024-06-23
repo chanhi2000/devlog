@@ -1539,5 +1539,10 @@
     "desc": "BAML is a templating language to write typed LLM functions using jinja. Check out the promptfiddle.com playground",
     "officialSite": "https://docs.boundaryml.com",
     "topics": ["baml", "boundaryml", "guardrails", "llm", "llm-playground", "playground", "prompt", "prompt-config", "prompt-templates", "structured-data", "structured-generation", "structured-output", "vscode"]
+  }, {
+    "repo": "teodevgroup/teo",
+    "desc": "Schema-driven web server framework.",
+    "officialSite": "https://teodev.io",
+    "topics": ["agile", "agile-development", "apiserver", "apiservice", "code-generation", "database", "http", "http-server", "language-parser", "nodejs", "orm", "python", "rust", "server", "single-file", "webdevelopment", "webframework"]
   }
 ]

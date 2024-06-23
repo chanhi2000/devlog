@@ -191,6 +191,8 @@ head:
 - [`@yaytomato` / 🍪 프론트에서 안전하게 로그인 처리하기 (ft. React)](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [`@eunbinn` / [번역] 리액트 컴파일러](https://velog.io/@eunbinn/react-compiler)
 - [`@u-ryu-00` / \[Tool\] React를 위한 Storybook 도입하기 1탄](https://velog.io/@u-ryu-00/Tool-React%EB%A5%BC-%EC%9C%84%ED%95%9C-Storybook-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+- [`haryan248` / 당기세요(pull) === 민다(push)](https://velog.io/@haryan248/%EB%8B%B9%EA%B2%A8%EC%84%9C-%EC%83%88%EB%A1%9C%EA%B3%A0%EC%B9%A8)
+
 ---
 
 ## Okta
@@ -953,5 +955,10 @@ https://o-yeon.tistory.com/227
 - [shadcn ui 자세히 알아보기](https://pyjun01.github.io/v/shadcn-ui/)
 
 ---
+
+## zineeworld
+
+- [\[Error\] Warning: Received `true` for a non-boolean attribute `className`.](https://zinee-world.tistory.com/m/648)
+
 
 <TagLinks />

@@ -424,5 +424,15 @@
     "desc": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。",
     "officialSite": "",
     "topics": ["mirror", "speedup"]
+  }, {
+    "repo": "basecamp/omakub",
+    "desc": "Opinionated Ubuntu Setup",
+    "officialSite": "https://omakub.org",
+    "topics": []
+  }, {
+    "repo": "nicoloboschi/local-kubernetes-runner",
+    "desc": "CLI for spins up a K8s cluster locally in 10 seconds.",
+    "officialSite": "",
+    "topics": ["k3s", "k8s", "kubernetes", "kubernetes-cluster", "testing"]
   }
 ]

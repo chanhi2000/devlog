@@ -57,6 +57,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`somadevtoo` / Difference between Apache Kafka, RabbitMQ, and ActiveMQ](https://dev.to/somadevtoo/difference-between-apache-kafka-rabbitmq-and-activemq-4f1k)
+
+---
+
 ## 기계인간 John Grib
 
 - [Kafka Producer acks](https://johngrib.github.io/wiki/kafka/producer-acks/)
@@ -93,6 +99,12 @@ head:
 ## Linux TLDR
 
 - [How to Install Apache Kafka on RHEL-Based Distributions](https://linuxtldr.com/installing-apache-kafka/)
+
+---
+
+## OFBizian
+
+- [Kafka Optimization Theorem](https://www.ofbizian.com/2022/06/kafka-optimization-theorem.html)
 
 ---
 
