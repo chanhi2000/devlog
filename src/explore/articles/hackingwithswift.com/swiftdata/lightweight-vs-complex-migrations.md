@@ -54,6 +54,28 @@ isOriginal: false
 
 > Updated for Xcode 15
 
+When you change your data model, SwiftData can sometimes handle the update automatically, but often it needs intervention from you to make sure the update goes smoothly. This is known as *data migration*, and in SwiftData we call automatic migration “lightweight”, and everything else “complex”. You’ll need to know how both work if you intend to change your data model over time.
+
+SwiftData will execute lightweight migration automatically for a range of small changes, including:
+
+1. Adding one or more new models.
+2. Adding one or more new properties that have a default value.
+3. Renaming one or more properties.
+4. Deleting properties from a model.
+5. Adding or removing the `.externalStorage` or `.allowsCloudEncryption` attributes.
+6. Adding the `.unique` attribute and all values for that property are already unique.
+7. Adjusting the delete rule on relationships.
+
+These changes are always safe, and so are automatic. In contrast, changes that *aren’t* safe will require a complex migration where you need to step in and handle the update yourself.
+
+For example, if you’re adding the `.unique` attribute to a property where all values for that property are already unique, it’s a lightweight migration. But if there are duplicate values the lightweight migration will fail, and your container will not be loaded – your app will effectively be non-functional.
+
+::: tip
+
+Broadly speaking it’s a good idea to tell SwiftData about all migrations that might happen in your app, even if they are all lightweight, because it makes life easier if you introduce more complex migrations in the future.
+
+:::
+
 ---
 
 <TagLinks />

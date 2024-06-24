@@ -289,4 +289,10 @@ head:
 
 ---
 
+## thatvirtualboy
+
+- [WWDC24 Bento Summaries](https://thatvirtualboy.com/wwdc24-bentos/)
+
+---
+
 <TagLinks />

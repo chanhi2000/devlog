@@ -438,4 +438,18 @@ tag:
 
 ---
 
+## Misc.
+
+```component VPCard
+{
+  "title": "LINQPad - The .NET Programmer's Playground",
+  "desc": "The .NET Programmer's Playground",
+  "link": "https://www.linqpad.net/",
+  "logo": "https://www.linqpad.net/favicon.ico",
+  "background": "rgba(0,144,144,0.2)"
+}
+```
+
+---
+
 <TagLinks />

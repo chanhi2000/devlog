@@ -11,10 +11,11 @@ export const template: SidebarInfoTemplate = {
       "kfde-generics", // 2024-03-18
       "pattern-for-composing-flows", // 2024-04-18
       "ek-element-visibility", // 2024-05-06
-      "ek-api-stability", // 2024-05-13
       "network-client-threads", // 2024-05-13
       "var-readonly-vs-val-mutable", // 2024-06-10
       "union-types-into", // 2024-06-10
+      "power-assert", // 2024-06-17
+      "ek-api-stability", // 2024-06-24
     ]],[
     "kotlin-spring", [
       "nonblocking-spring-mvc", // 2024-03-25
@@ -30,10 +31,11 @@ export const template: SidebarInfoTemplate = {
       "pattern-for-composing-flows", // 2024-04-18
       "ek-wrapping-api", // 2024-04-29
       "ek-element-visibility", // 2024-05-06
-      "ek-api-stability", // 2024-05-13
       "network-client-threads", // 2024-05-13
       "var-readonly-vs-val-mutable", // 2024-06-10
       "union-types-into", // 2024-06-10
+      "power-assert", // 2024-06-17
+      "ek-api-stability", // 2024-06-24
     ]]
   ])
 }

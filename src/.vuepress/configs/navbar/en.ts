@@ -152,6 +152,8 @@ export const navbarEn = navbar([
           '/programming/py-django/README.md',
           '/programming/py-flask/README.md',
           '/programming/py-jupyter/README.md',
+          '/programming/py-celery/README.md',
+          '/programming/py-locust/README.md',
           '/programming/py-airflow/README.md',
         ]
       }, {
@@ -225,6 +227,12 @@ export const navbarEn = navbar([
         text: 'Clojure',
         link: '/programming/clojure/README.md',
         icon: 'iconfont icon-clojure',
+      }, {
+        text: 'Erlang',
+        children: [
+          '/programming/erl/README.md',
+          '/programming/erl-rabbitmq/README.md',
+        ]
       }, {
         text: 'Matlab',
         link: '/programming/matlab/README.md',
@@ -348,6 +356,10 @@ export const navbarEn = navbar([
         text: 'Google Cloud',
         icon: 'iconfont icon-gcp',
         link: '/devops/gcp/README.md',
+      }, {
+        text: 'Linode',
+        icon: 'fa-brands fa-linode',
+        link: '/devops/linode/README.md',
       }, {
         text: 'OCI',
         icon: 'iconfont icon-oci',

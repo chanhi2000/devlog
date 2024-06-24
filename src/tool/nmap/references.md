@@ -35,4 +35,10 @@ head:
 
 ---
 
+## SecLists.Org Security Mailing List Archive
+
+- [Arbitrary shell command evaluation in Org mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
+
+---
+
 <TagLinks />

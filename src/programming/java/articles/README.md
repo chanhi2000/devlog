@@ -386,16 +386,6 @@ head:
 
 ```component VPCard
 {
-  "title": "Item 27: Specify API stability",
-  "desc": "How do we specify API stability and why it is so important.",
-  "link": "/explore/articles/kt.academy/ek-api-stability.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "How many threads your network client uses?",
   "desc": "Many popular network clients consume way more threads than you might expect. Let's overview the problem and find a solution.",
   "link": "/explore/articles/kt.academy/network-client-threads.md",
@@ -423,6 +413,28 @@ head:
   "background": "rgba(243,139,49,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "Power Assert now in Kotlin!",
+  "desc": "What is Power Assert, how to use it, and how it works in Kotlin.",
+  "link": "/explore/articles/kt.academy/power-assert.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Item 27: Specify API stability",
+  "desc": "How do we specify API stability and why it is so important.",
+  "link": "/explore/articles/kt.academy/ek-api-stability.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+<!-- END: kt.academy -->
 
 ---
 

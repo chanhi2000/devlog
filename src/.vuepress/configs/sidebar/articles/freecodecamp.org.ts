@@ -63,6 +63,7 @@ export const template: SidebarInfoTemplate = {
       "learn-high-level-system-design-by-building-a-youtube-clone", // 2024-06-11
       "how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom", // 2024-06-17
       "how-to-enhance-embedded-links-in-react-with-microlinks", // 2024-06-18
+      "what-are-controlled-and-uncontrolled-components-in-react", // 2024-06-21
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
@@ -339,6 +340,7 @@ export const template: SidebarInfoTemplate = {
       "best-practices-for-accessibility-in-web-development", // 2024-06-20
       "learn-to-create-a-3d-rpg-game-with-godot", // 2024-06-20
       "generative-ai-handbook", // 2024-06-20
+      "what-are-controlled-and-uncontrolled-components-in-react", // 2024-06-21
     ]],
   ]),
 }

@@ -4,8 +4,8 @@ title: LLM
 description: LLM
 icon: fas fa-language
 category: 
-  - LLM
   - AI
+  - LLM
 tag: 
   - ai
   - llm

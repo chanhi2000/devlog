@@ -1438,6 +1438,10 @@
     "desc": "Escargot is a memory optimized JavaScript engine for mid-range devices such as mobile phone, tablet and TV.",
     "officialSite": "",
     "topics": ["javascript-engine"]
+  }, {
+    "repo": "Fare9/KUNAI-static-analyzer",
+    "desc": "Tool aimed to provide a binary analysis of different file formats through the use of an Intermmediate Representation.",
+    "officialSite": "https://fare9.github.io/KUNAI-static-analyzer/",
+    "topics": []
   }
-  
 ]

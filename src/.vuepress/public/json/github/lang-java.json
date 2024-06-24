@@ -694,5 +694,15 @@
     "desc": "A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead",
     "officialSite": "",
     "topics": ["android", "java", "nullability", "nullability-analysis", "static-analysis", "static-code-analysis"]
+  }, {
+    "repo": "nacular/measured",
+    "desc": "Intuitive, type-safe units of measure",
+    "officialSite": "https://nacular.github.io/measured",
+    "topics": ["kotlin", "library", "mpp", "units", "units-of-measure"]
+  }, {
+    "repo": "bidrohi/bhandar",
+    "desc": "A simple repository implementation that combines network and local source",
+    "officialSite": "",
+    "topics": []
   }
 ]

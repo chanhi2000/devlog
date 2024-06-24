@@ -55,4 +55,10 @@ head:
 
 ---
 
+## PicoLisp Blog
+
+- [A Railroad Simulation with DES](https://picolisp-explored.com/a-railroad-simulation-with-des)
+
+---
+
 <TagLinks />

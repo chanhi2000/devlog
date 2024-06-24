@@ -10,6 +10,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - learnk8s.io
   - popit.kr
   - java
   - kotlin
@@ -38,6 +39,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## Learnk8s — the Kubernetes training company
+
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "Extending applications on Kubernetes with multi-container pods",
+  "desc": "Learn how to extend apps on Kubernetes without changing any code using multiple containers.",
+  "link": "/explore/articles/learnk8s.io/sidecar-containers-patterns.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<!-- END: learnk8s.io -->
 
 ---
 

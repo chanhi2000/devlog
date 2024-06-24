@@ -135,7 +135,8 @@ tag:
 - [`marlonlom` / Adapt Kotlin 2.0 in Android applications](https://marlonlom.medium.com/adapt-kotlin-2-0-in-android-applications-340c2713d387)
 - [`mmartosdev` / Web-based drag-and-drop in Compose Multiplatform](https://medium.com/@mmartosdev/web-based-drag-and-drop-in-compose-multiplatform-b4d7e2a0529d)
 - [`kerry.bisset` / Modernizing Application Settings in Kotlin Multiplatform with DataStore and Koin](https://medium.com/@kerry.bisset/modernizing-application-settings-in-kotlin-multiplatform-with-datastore-and-koin-b1156229fd57)
-
+- [`mmartosdev` / Embedding Compose Multiplatform code into Medium articles](https://medium.com/@mmartosdev/embedding-compose-multiplatform-code-into-medium-articles-cc1141f5db34)
+ 
 ---
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to

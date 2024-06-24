@@ -18,13 +18,6 @@ tag:
 
 ---
 
-## PDFs
-
-<PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />
-<PDF url="https://happygrammer.github.io/rust/rust-cheat-sheet.pdf" />
-
----
-
 ## `seed.redicle.garden`
 
 - [`seed.redicle.garden`/`heartwood`](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
@@ -332,6 +325,20 @@ tag:
 ## Sourcegraph | Code Intelligence Platform
 
 - [Enhancing Code Completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)
+
+---
+
+## Federico's Blog
+
+- [Fixing a memory leak of xmlEntityPtr in librsvg](https://viruta.org/fixing-xml-entity-leak.html)
+
+---
+
+## pdf(s)
+
+<PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />
+<PDF url="https://happygrammer.github.io/rust/rust-cheat-sheet.pdf" />
+<PDF url="https://arxiv.org/pdf/2406.09649" />
 
 ---
 

@@ -46,6 +46,7 @@ head:
 
 - [`@dynomight` / The midwit home](https://dynomight.substack.com/p/midwit-home)
 - [`@thechipletter` / SPUR - RISC IV: The LISP Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
+- [`abortretry` / Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 
 ---
 
@@ -261,6 +262,24 @@ head:
 ## John Graham-Cumming's blog
 
 - [Two ways to use an LED as a light sensor with Arduino](https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html)
+
+---
+
+## Dmitry.GR: Projects
+
+- [Hacking eInk Price Tags](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
+
+---
+
+## Ken Shirriff's blog
+
+- [Inside the tiny chip that powers Montreal subway tickets](https://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
+
+---
+
+## Mudkip Mud Sport
+
+- [A Brief Review of the Minisforum V3 AMD Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
 
 ---
 

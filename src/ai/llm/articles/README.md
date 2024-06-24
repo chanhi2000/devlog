@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - ai
   - llm
 head:
@@ -30,6 +31,16 @@ head:
   url="https://freecodecamp.org/news/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 [[toc]]
 
@@ -70,6 +81,24 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "눈과 귀가 달린 LLM, 멀티모달 AI | 요즘IT",
+  "desc": "눈과 귀가 달린 LLM, 멀티모달 AI",
+  "link": "/explore/articles/yozm.wishket.com/2641.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

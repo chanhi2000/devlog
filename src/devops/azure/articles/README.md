@@ -4,11 +4,14 @@ title: Article(s)
 description: Azure > Article(s)
 icon: fas fa-square-share-nodes
 category: 
+  - DevOps
+  - Microsoft
   - Azure
   - Article(s)
 tag: 
   - blog
   - freecodecamp.org
+  - learnk8s.io
   - johnnyreilly.com
   - azure
 head:
@@ -29,6 +32,13 @@ head:
   url="https://freecodecamp.org/news/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+<SiteInfo
+  name="Learnk8s — the Kubernetes training company"
+  desc="We help you get started on your Kubernetes journey through comprehensive online, in person or remote training."
+  url="https://learnk8s.io/archive"
+  logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
+  preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
 
 ```component VPCard
 {
@@ -89,6 +99,24 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
+---
+
+## Learnk8s — the Kubernetes training company
+
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "Getting started with Terraform and Kubernetes on Azure AKS",
+  "desc": "Learn how you can use Terraform to create Kubernetes cluster in Azure.",
+  "link": "/explore/articles/learnk8s.io/terraform-aks.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<!-- END: learnk8s.io -->
 
 ---
 

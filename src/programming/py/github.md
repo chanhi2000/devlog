@@ -14,11 +14,11 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: 🐍Python > Github
+      content: Python > Github
     - property: og:description
-      content: 🐍Python > Github
+      content: Github
     - property: og:url
-      content: https://chanhi2000.github.io/programming/python/github.html
+      content: https://chanhi2000.github.io/programming/py/github.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -5,6 +5,7 @@ export const template: SidebarGroupItem = {
     collapsible: true,
     icon: 'https://hackingwithswift.com/favicon.svg',
     children: [
+      '/explore/articles/hackingwithswift.com/new-syntax-swift-2-availability-checking.md', // 2019-09-23
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
       '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2023-06-23
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-6.md', // 2024-06-10

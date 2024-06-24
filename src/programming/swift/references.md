@@ -297,6 +297,7 @@ tag:
 - [Generated Asset Catalog Symbols in Objective-C](https://www.swiftjectivec.com/generated-asset-symbols-objective-c)
 - [Quick and Painless Persistency on iOS](https://www.swiftjectivec.com/stupid-and-quick-persistency-on-ios-with-swift/)
 - [Refactoring to TipKit from AppStorage and Custom Views in SwiftUI](https://www.swiftjectivec.com/refactoring-tipkit-swiftui-from-appstorage)
+- [iOS 18: Notable UIKit Additions](https://www.swiftjectivec.com/ios-18-notable-uikit-additions/)
 
 ---
 
@@ -315,6 +316,7 @@ tag:
 - [Discovering Swift Algorithms package](https://swiftwithmajid.com/2024/02/13/discovering-swift-algorithms-package/)
 - [Mastering Preview macro in Swift](https://swiftwithmajid.com/2023/10/17/mastering-preview-macro-in-swift/)
 - [Trigger value pattern in SwiftUI](https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/)
+- [Mastering ScrollView in SwiftUI. Scroll Offset](https://swiftwithmajid.com/2024/06/17/mastering-scrollview-in-swiftui-scroll-offset/)
 
 ---
 
@@ -479,6 +481,7 @@ tag:
 ## Swift Package Index
 
 - [Customising the DocC documentation theme](https://swiftpackageindex.com/blog/customising-the-docc-documentation-theme)
+- [Ready for Swift 6](https://swiftpackageindex.com/ready-for-swift-6)
 
 ---
 
@@ -739,5 +742,12 @@ tag:
 
 - [애플도 AI 코딩 도구에 투자··· ‘스위프트 어시스트’ 출시](https://www.ciokorea.com/news/340134)
 
+---
+
+## Peter Friese's Blog
+
+- [SwiftUI Hero Animations with `NavigationTransition`](https://peterfriese.dev/blog/2024/hero-animation/)
+
+---
 
 <TagLinks />

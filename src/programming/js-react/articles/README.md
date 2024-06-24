@@ -396,6 +396,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What are Controlled and Uncontrolled Components in React.js?",
+  "desc": "In React.js, managing form inputs and user interactions is a crucial part of building dynamic web applications.  Two key concepts that developers need to understand are controlled and uncontrolled components. These concepts define how form data is handled within a React component.  Controlled components rely on React state...",
+  "link": "/explore/articles/frontendmasters.com/what-are-controlled-and-uncontrolled-components-in-react.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 ---
 

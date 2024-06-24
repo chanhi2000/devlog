@@ -11,6 +11,9 @@ category:
 tag: 
   - blog
   - digitalocean.com
+  - learnk8s.io
+  - popit.kr
+  - d2.naver.com
   - java
   - kotlin
   - kafka
@@ -33,6 +36,13 @@ head:
   url="https://digitalocean.com/community/tutorials?sort_by=oldest"
   logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
   preview="https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg"/>
+
+<SiteInfo
+  name="Learnk8s — the Kubernetes training company"
+  desc="We help you get started on your Kubernetes journey through comprehensive online, in person or remote training."
+  url="https://learnk8s.io/archive"
+  logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
+  preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
 
 ```component VPCard
 {
@@ -88,6 +98,24 @@ head:
   "background": "rgba(29,55,209,0.2)"
 }
 ```
+
+---
+
+## Learnk8s — the Kubernetes training company
+
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "Designing and testing a highly available Kafka cluster on Kubernetes",
+  "desc": "Learn how to design a Kafka cluster to achieve high availability using standard kubernetes resources and test how it tolerates maintenance and total node failures.",
+  "link": "/explore/articles/learnk8s.io/kafka-ha-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<!-- END: learnk8s.io -->
 
 ---
 

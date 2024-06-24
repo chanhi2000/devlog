@@ -66,7 +66,90 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 ::: tabs
 
-@tab:active Programming Tools - General
+@tab:active Package Manager
+
+```component VPCard
+{
+  "title": "Homebrew — The Missing Package Manager for macOS (or Linux)",
+  "desc": "The Missing Package Manager for macOS (or Linux).",
+  "link": "https://brew.sh/",
+  "logo": "https://brew.sh/assets/img/homebrew.svg",
+  "background": "rgba(46,42,36,0.2)"
+}
+```
+
+<SiteInfo
+  name="Chocolatey Software | Packages"
+  desc="Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. Chocolatey integrates w/SCCM, Puppet, Chef, etc. Chocolatey is trusted by businesses to manage software deployments."
+  url="https://community.chocolatey.org/packages"
+  logo="https://community.chocolatey.org/content/images/global-shared/logo.svg"
+  preview="https://community.chocolatey.org/content/images/global-shared/facebook-share.png"/>
+
+<SiteInfo
+  name="Browse the winget repository - winstall"
+  desc="Bulk install Windows apps quickly with Windows Package Manager."
+  url="https://winstall.app/"
+  logo="https://winstall.app/logo192.png"
+  preview="https://winstall.app/cover.png"/>
+
+```component VPCard
+{
+  "title": "Scoop Apps",
+  "desc": "Scoop Apps is an online package browser for Scoop, the command-line installer for Windows",
+  "link": "https://bjansen.github.io/scoop-apps/main/",
+  "logo": "https://bjansen.github.io/scoop-apps/favicon.ico",
+  "background": "rgba(42,42,41,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "crates.io: Rust Package Registry",
+  "desc": "The Rust community’s crate registry",
+  "link": "https://crates.io/",
+  "logo": "https://crates.io/favicon.ico",
+  "background": "rgba(247,203,84,0.2)"
+}
+```
+
+<SiteInfo
+  name="PyPI · The Python Package Index"
+  desc="The Python Package Index (PyPI) is a repository of software for the Python programming language."
+  url="https://pypi.org/"
+  logo="https://pypi.org/static/images/favicon.35549fe8.ico"
+  preview="https://pypi.org/static/images/twitter.abaf4b19.webp"/>
+
+<SiteInfo
+  name="Microsoft Store - Generation Project (v1.2.3) [by @rgadguard & mkuba50]"
+  desc="Online link generator for Microsoft Store. You can use it to get links to almost all apps, games, themes from the Microsoft Store."
+  url="https://store.rg-adguard.net/"
+  logo="https://store.rg-adguard.net/favicon.ico"
+  preview="https://store.rg-adguard.net/img/Store.png"/>
+
+<SiteInfo
+  name="Helm"
+  desc="Helm - The Kubernetes Package Manager."
+  url="https://helm.sh/"
+  logo="https://helm.sh/img/favicon-152.png"
+  preview="https://helm.sh/img/og-image.png"/>
+
+<SiteInfo
+  name="Artifact Hub"
+  desc="Find, install and publish Cloud Native packages"
+  url="https://artifacthub.io/"
+  logo="https://artifacthub.io/static/media/logo_v2.png"
+  preview="https://artifacthub.io/static/media/artifactHub_v2.png"/>
+
+<SiteInfo
+  name="Swift Package Index"
+  desc="The Swift Package Index is the place to find the best Swift packages. Indexing metadata from 7,605 packages packages."
+  url="https://swiftpackageindex.com/"
+  logo="https://swiftpackageindex.com/images/logo-tiny.png"
+  preview="https://swiftpackageindex.com/images/logo.png"/>
+
+<!-- @end Package Manager -->
+
+@tab Programming Tools - General
 
 <SiteInfo
   name="delve"

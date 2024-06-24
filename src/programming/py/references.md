@@ -11,6 +11,14 @@ tag:
   - programming
   - python
   - py
+head:
+  - - meta:
+    - property: og:title
+      content: Python > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/py/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

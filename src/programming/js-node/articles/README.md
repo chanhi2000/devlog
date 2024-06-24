@@ -11,6 +11,7 @@ tag:
   - freecodecamp.org
   - frontendmasters.com
   - smashingmagazine.com
+  - learnk8s.io
   - sitepoint.com
   - devtoolstips.org
   - yozm.wishket.com
@@ -249,6 +250,56 @@ head:
   "background": "rgba(211,58,44,0.2)"
 }
 ```
+
+<!-- END: smashingmagazine.com -->
+
+---
+
+## Learnk8s — the Kubernetes training company
+
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "Deploying Node.js apps in EKS",
+  "desc": "Learn how to deploy a Node.js app on Kubernetes with EKS and scale to millions of requests.",
+  "link": "/explore/articles/learnk8s.io/deploying-nodejs-kubernetes-eks.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scaling Node.js apps on Kubernetes",
+  "desc": "Learn how to scale a Node.js app on Kubernetes by making them stateless.",
+  "link": "/explore/articles/learnk8s.io/scaling-nodejs-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Deploying Node.js apps in a local Kubernetes cluster",
+  "desc": "Learn how to deploy a Node.js app on Kubernetes and scale to millions of requests.",
+  "link": "/explore/articles/learnk8s.io/deploying-nodejs-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Developing and packaging Node.js app with Docker",
+  "desc": "Learn how to develop and package Node.js apps that can be deployed into Kubernetes and scale to millions of requests.",
+  "link": "/explore/articles/learnk8s.io/developing-and-packaging-nodejs-docker.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<!-- END: learnk8s.io -->
 
 ---
 

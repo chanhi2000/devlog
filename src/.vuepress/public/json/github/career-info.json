@@ -89,5 +89,10 @@
     "desc": "A collection of New Grad full time roles in SWE, Quant, and PM.",
     "officialSite": "",
     "topics": ["university", "position", "jobs", "applications", "college", "hacktoberfest", "posting", "fulltime", "newgrad", "coderquad"]
+  }, {
+    "repo": "SimplifyJobs/Summer2025-Internships",
+    "desc": "Collection of Summer 2025 tech internships!",
+    "officialSite": "https://swelist.com/",
+    "topics": ["internships", "interview-preparation", "jobs", "university"]
   }
 ]

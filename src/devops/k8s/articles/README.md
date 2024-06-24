@@ -12,6 +12,7 @@ tag:
   - blog
   - freecodecamp.org
   - digitalocean.com
+  - learnk8s.io
   - yozm.wishket.com
   - d2.naver.com
   - dev.gmarket.com
@@ -45,6 +46,13 @@ head:
   "background": "rgba(29,55,209,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Learnk8s — the Kubernetes training company"
+  desc="We help you get started on your Kubernetes journey through comprehensive online, in person or remote training."
+  url="https://learnk8s.io/archive"
+  logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
+  preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
 
 ```component VPCard
 {
@@ -116,6 +124,294 @@ head:
   "background": "rgba(0,105,225,0.2)"
 }
 ```
+
+---
+
+## Learnk8s — the Kubernetes training company
+
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "Validating Kubernetes YAML for best practice and policies",
+  "desc": "How can you prevent deployments that don't follow best practices from reaching the cluster? In this article you will compare six tools to validate Kubernetes YAML files.",
+  "link": "/explore/articles/learnk8s.io/validating-kubernetes-yaml.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Enforcing policies and governance for Kubernetes workloads",
+  "desc": "In this article, you will learn about enforcing policies for your Kubernetes workloads using both out-of-cluster and in-cluster solutions.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-policies.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Setting the right requests and limits in Kubernetes",
+  "desc": "Find the right requests and limits can be tricky. Instead of guessing, you could inspect the application at runtime and extrapolate the values.",
+  "link": "/explore/articles/learnk8s.io/setting-cpu-memory-limits-requests.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Authentication between microservices using Kubernetes identities",
+  "desc": "Learn how you can secure communications between microservices to prevent unauthenticated requests using Kubernetes identities.",
+  "link": "/explore/articles/learnk8s.io/microservices-authentication-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting started with Docker and Kubernetes on Windows 10",
+  "desc": "In this article you'll learn how to make the right choices when it comes to setting up your development environment on Windows.",
+  "link": "/explore/articles/learnk8s.io/installing-docker-kubernetes-windows.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Extending applications on Kubernetes with multi-container pods",
+  "desc": "Learn how to extend apps on Kubernetes without changing any code using multiple containers.",
+  "link": "/explore/articles/learnk8s.io/sidecar-containers-patterns.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scaling Celery workers with RabbitMQ on Kubernetes",
+  "desc": "Learn how to use Kubernetes and KEDA to scale Celery workers based on the number of messages in a RabbitMQ queue",
+  "link": "/explore/articles/learnk8s.io/scaling-celery-rabbitmq-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting started with Terraform and Kubernetes on Azure AKS",
+  "desc": "Learn how you can use Terraform to create Kubernetes cluster in Azure.",
+  "link": "/explore/articles/learnk8s.io/terraform-aks.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Architecting Kubernetes clusters — choosing the best autoscaling strategy",
+  "desc": "Learn how to size your cluster nodes, configure the Horizontal and Cluster Autoscaler, and overprovision your cluster for faster pod scaling.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-autoscaling-strategies.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How etcd works with and without Kubernetes",
+  "desc": "Learn how Kubernetes uses etcd as a database by building (and breaking) a 3-node etcd cluster.",
+  "link": "/explore/articles/learnk8s.io/etcd-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Provisioning Kubernetes clusters on Linode with Terraform",
+  "desc": "Learn how you can leverage Terraform and Linode LKE to provision identical clusters for development, staging and production environments with a single click.",
+  "link": "/explore/articles/learnk8s.io/terraform-lke.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Tracing the path of network traffic in Kubernetes",
+  "desc": "Learn how packets flow inside and outside a Kubernetes cluster. Starting from the initial web request and down to the container hosting the application",
+  "link": "/explore/articles/learnk8s.io/kubernetes-network-packets.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Developing and deploying Spring Boot microservices on Kubernetes",
+  "desc": "Learn how to design and architect Spring Boot microservices that leverage Kubernetes and scale to millions of requests.",
+  "link": "/explore/articles/learnk8s.io/spring-boot-kubernetes-guide.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Limiting access to Kubernetes resources with RBAC",
+  "desc": "Learn how to recreate the Kubernetes RBAC authorization model from scratch and practice the relationships between Roles, ServiceAccounts, RoleBindings, etc.",
+  "link": "/explore/articles/learnk8s.io/rbac-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Designing and testing a highly available Kafka cluster on Kubernetes",
+  "desc": "Learn how to design a Kafka cluster to achieve high availability using standard kubernetes resources and test how it tolerates maintenance and total node failures.",
+  "link": "/explore/articles/learnk8s.io/kafka-ha-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Deploying Node.js apps in EKS",
+  "desc": "Learn how to deploy a Node.js app on Kubernetes with EKS and scale to millions of requests.",
+  "link": "/explore/articles/learnk8s.io/deploying-nodejs-kubernetes-eks.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scaling Node.js apps on Kubernetes",
+  "desc": "Learn how to scale a Node.js app on Kubernetes by making them stateless.",
+  "link": "/explore/articles/learnk8s.io/scaling-nodejs-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Deploying Node.js apps in a local Kubernetes cluster",
+  "desc": "Learn how to deploy a Node.js app on Kubernetes and scale to millions of requests.",
+  "link": "/explore/articles/learnk8s.io/deploying-nodejs-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Developing and packaging Node.js app with Docker",
+  "desc": "Learn how to develop and package Node.js apps that can be deployed into Kubernetes and scale to millions of requests.",
+  "link": "/explore/articles/learnk8s.io/developing-and-packaging-nodejs-docker.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "User and workload identities in Kubernetes",
+  "desc": "In this article you will explore how users and workloads are authenticated with the Kubernes API server.",
+  "link": "/explore/articles/learnk8s.io/authentication-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Provisioning Kubernetes clusters on AWS with Terraform and EKS",
+  "desc": "Learn how you can leverage Terraform and EKS to provision identical clusters for development, staging and production environments with a single click.",
+  "link": "/explore/articles/learnk8s.io/terraform-eks.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Provisioning Kubernetes clusters on AWS with Terraform and EKS",
+  "desc": "Learn how you can leverage Terraform and EKS to provision identical clusters for development, staging and production environments with a single click.",
+  "link": "/explore/articles/learnk8s.io/terraform-eks.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Provisioning Kubernetes clusters on GCP with Terraform and GKE",
+  "desc": "Learn how you can leverage Terraform and GKE to provision identical clusters for development, staging and production environments with a single click.",
+  "link": "/explore/articles/learnk8s.io/terraform-gke.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Architecting Kubernetes clusters — choosing a worker node size",
+  "desc": "What type of worker nodes should I use for my Kubernetes cluster? And how many of them?. This article looks at the pros and cons.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-node-size.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Graceful shutdown in Kubernetes",
+  "desc": "In this article, you will learn how to prevent broken connections when a Pod starts up or shuts down. You will also learn how to shut down long-running tasks gracefully.",
+  "link": "/explore/articles/learnk8s.io/graceful-shutdown.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "A visual guide on troubleshooting Kubernetes deployments",
+  "desc": "Troubleshooting in Kubernetes can be a daunting task. In this article you will learn how to diagnose issues in Pods, Services and Ingress.",
+  "link": "/explore/articles/learnk8s.io/troubleshooting-deployments.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Allocatable memory and CPU in Kubernetes Nodes",
+  "desc": "Pods deployed in your Kubernetes cluster consume resources such as memory, CPU and storage. However, not all resources in a Node can be used to run Pods.",
+  "link": "/explore/articles/learnk8s.io/allocatable-resources.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Load balancing and scaling long-lived connections in Kubernetes",
+  "desc": "Kubernetes doesn't load balance long-lived connections and some Pods might receive more requests than others. Learn how to fix that.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-long-lived-connections.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<!-- END: learnk8s.io -->
 
 ---
 

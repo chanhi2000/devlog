@@ -273,6 +273,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/java-kafka/articles/README.md',
             asb.digitalocean("java-kafka"),
+            asb.learnk8s("java-kafka"),
             asb.popit("java-kafka"),
             asb.d2("java-kafka"),
           ]
@@ -328,6 +329,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-elasticsearch/articles/README.md',
+            asb.learnk8s("java-elasticsearch"),
             asb.popit("java-elasticsearch"),
           ]
         }
@@ -446,6 +448,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("js-node"),
             asb.frontendmaster("js-node"), 
             asb.smashingmagazion("js-node"), 
+            asb.learnk8s("js-node"),
             asb.yozm("js-node"),
             asb.kakaoTech("js-node"),
             asb.d2("js-node"), 
@@ -867,6 +870,44 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Celery',
+      collapsible: true,
+      icon: 'iconfont icon-django',
+      children: [
+        '/programming/py-celery/README.md',
+        '/programming/py-celery/tips.md',
+        '/programming/py-celery/references.md',
+        '/programming/py-celery/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-celery/articles/README.md',
+            asb.learnk8s("py-celery"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Locust',
+      collapsible: true,
+      icon: 'iconfont icon-django',
+      children: [
+        '/programming/py-locust/README.md',
+        '/programming/py-locust/tips.md',
+        '/programming/py-locust/references.md',
+        '/programming/py-locust/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-locust/articles/README.md',
+            asb.learnk8s("py-locust"),
+          ]
+        }
+      ]
+    }, {
       text: 'Airflow',
       collapsible: true,
       icon: 'iconfont icon-apacheairflow',
@@ -1125,6 +1166,14 @@ export const sidebarEn = sidebar({
         '/programming/elixir/references.md',
         '/programming/elixir/github.md',
         '/programming/elixir/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/elixir/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'Haskell',
@@ -1154,7 +1203,7 @@ export const sidebarEn = sidebar({
           ]
         }
       ]
-    },{
+    }, {
       text: 'Zig',
       icon: 'iconfont icon-zig',
       collapsible: true,
@@ -1228,6 +1277,44 @@ export const sidebarEn = sidebar({
             '/programming/clojure/articles/README.md',
           ]
         },
+      ]
+    }, {
+      text: 'Erlang',
+      collapsible: true,
+      icon: 'iconfont icon-erlang',
+      children: [
+        '/programming/erl/README.md',
+        '/programming/erl/tips.md',
+        '/programming/erl/references.md',
+        '/programming/erl/github.md',
+        '/programming/erl/youtube.md', 
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            'programming/erl/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'RabbitMQ',
+      collapsible: true,
+      icon: 'iconfont icon-rabbitmq',
+      children: [
+        '/programming/erl-rabbitmq/README.md',
+        '/programming/erl-rabbitmq/tips.md',
+        '/programming/erl-rabbitmq/references.md',
+        '/programming/erl-rabbitmq/youtube.md', 
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            'programming/erl-rabbitmq/articles/README.md',
+            asb.learnk8s("erl-rabbitmq"),
+          ]
+        }
       ]
     }, {
       text: 'Matlab',
@@ -1892,6 +1979,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/windows/articles/README.md',
+            asb.learnk8s("windows"),
             asb.yozm("windows"),
           ]
         }
@@ -2064,6 +2152,7 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/docker/articles/README.md',
             asb.digitalocean("docker"),
+            asb.learnk8s("docker"),
             asb.yozm("docker"),
             asb.towardsdatascience("docker"),
           ]
@@ -2103,6 +2192,7 @@ export const sidebarEn = sidebar({
             '/devops/k8s/articles/README.md',
             asb.freecodecamp("k8s"),
             asb.digitalocean("k8s"),
+            asb.learnk8s("k8s"),
             asb.yozm("k8s"),
             asb.d2("k8s"),
             asb.gmarket("k8s"),
@@ -2152,8 +2242,9 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/aws/articles/README.md',
             asb.freecodecamp("aws"),
+            asb.learnk8s("aws"), 
             asb.yozm("aws"),
-            asb.inflab("js-react"),
+            asb.inflab("aws"),
           ]
         }
       ]
@@ -2172,6 +2263,8 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/azure/articles/README.md',
             asb.freecodecamp("azure"), 
+            asb.learnk8s("azure"), 
+            asb.johnnyreilly("azure"),
           ]
         }
       ]
@@ -2189,7 +2282,26 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/gcp/articles/README.md',
+            asb.learnk8s("gcp"), 
             asb.yozm("gcp"), 
+          ]
+        }
+      ]
+    }, {
+      text: 'Linode',
+      collapsible: true,
+      icon: 'fa-brands fa-linode',
+      children: [
+        '/devops/linode/README.md',
+        '/devops/linode/references.md',
+        '/devops/linode/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/linode/articles/README.md',
+            asb.learnk8s("linode"),
           ]
         }
       ]
@@ -2580,6 +2692,7 @@ export const sidebarEn = sidebar({
           children: [
             '/data-science/mongodb/articles/README.md',
             asb.freecodecamp("mongodb"), 
+            asb.learnk8s("mongodb"),
             asb.d2("mongodb"),
           ]
         }
@@ -3069,6 +3182,7 @@ export const sidebarEn = sidebar({
         asb.frontendmaster(),
         asb.smashingmagazion(),
         asb.digitalocean(),
+        asb.learnk8s(),
         asb.kakaoTech(), 
         asb.yozm(), 
         asb.popit(), 

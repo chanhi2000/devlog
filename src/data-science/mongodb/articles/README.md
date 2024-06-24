@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - learnk8s.io
   - d2.naver.com
   - mongodb
 head:
@@ -56,6 +57,24 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
+---
+
+## Learnk8s — the Kubernetes training company
+
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "Developing and packaging Node.js app with Docker",
+  "desc": "Learn how to develop and package Node.js apps that can be deployed into Kubernetes and scale to millions of requests.",
+  "link": "/explore/articles/learnk8s.io/developing-and-packaging-nodejs-docker.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<!-- END: learnk8s.io -->
 
 ---
 

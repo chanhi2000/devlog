@@ -1201,4 +1201,10 @@ https://blog.naver.com/&logId=
 
 ---
 
+## Marc's Blog
+
+- [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
+
+---
+
 <TagLinks />

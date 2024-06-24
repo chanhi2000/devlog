@@ -86,6 +86,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "눈과 귀가 달린 LLM, 멀티모달 AI | 요즘IT",
+  "desc": "눈과 귀가 달린 LLM, 멀티모달 AI",
+  "link": "/explore/articles/yozm.wishket.com/2641.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
+
 ---
 
 ## 우아한형제들 기술블로그

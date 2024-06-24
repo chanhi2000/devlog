@@ -539,5 +539,10 @@
     "desc": "Window management made elegant.",
     "officialSite": "",
     "topics": ["hacktoberfest", "macos", "macos-app", "macos-menubar", "menu", "menubar", "productivity", "radial-menu", "swift", "swiftui", "window-management"]
+  }, {
+    "repo": "daprice/BlurHashViews",
+    "desc": "Decode BlurHash strings to SwiftUI MeshGradient or Color with various customization options.",
+    "officialSite": "",
+    "topics": ["blurhash", "ios18", "macos15", "meshgradient", "swift-package", "swiftui"]
   }
 ]

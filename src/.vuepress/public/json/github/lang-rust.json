@@ -1544,5 +1544,10 @@
     "desc": "Schema-driven web server framework.",
     "officialSite": "https://teodev.io",
     "topics": ["agile", "agile-development", "apiserver", "apiservice", "code-generation", "database", "http", "http-server", "language-parser", "nodejs", "orm", "python", "rust", "server", "single-file", "webdevelopment", "webframework"]
+  }, {
+    "repo": "kixelated/moq-rs",
+    "desc": "Rust library for Media over QUIC",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -4,16 +4,15 @@ title: Youtube
 description: Azure > Youtube
 icon: fa-brands fa-youtube
 category:
-  - Azure
-  - Microsoft
   - Devops
+  - Microsoft
+  - Azure
   - Youtube
 tag:
   - microsoft
   - azure
-  - "youtube"
-  - "tutorial"
-  - "azure"
+  - youtube
+  - tutorial
 head:
   - - meta:
     - property: og:title

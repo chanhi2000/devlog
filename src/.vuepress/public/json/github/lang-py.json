@@ -5614,5 +5614,10 @@
     "desc": "OXO is a security scanning orchestrator for the modern age.",
     "officialSite": "https://oxo.ostorlab.co",
     "topics": ["scanner", "security", "security-scanner", "security-tools"]
+  }, {
+    "repo": "locustio/locust",
+    "desc": "Write scalable load tests in plain Python 🚗💨",
+    "officialSite": "",
+    "topics": ["benchmarking", "http", "load-generator", "load-test", "load-testing", "load-tests", "locust", "performance", "performance-testing", "python"]
   }
 ]

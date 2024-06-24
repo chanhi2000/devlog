@@ -409,5 +409,30 @@
     "desc": "Unidirectional reactive state container for Android & Kotlin",
     "officialSite": "",
     "topics": ["android", "android-architecture", "kotlin", "kotlin-android", "mvi-android", "mvi-architecture", "unidirectional-data-flow"]
+  }, {
+    "repo": "cdsap/ProjectGenerator",
+    "desc": "Generation of modularized Gradle projects in different logic layers",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "programadorthi/kotlin-routing",
+    "desc": "An extensible and multiplatform routing system powered by Ktor",
+    "officialSite": "",
+    "topics": ["android", "compose", "deeplink", "jetbrains", "kmm", "kotlin", "ktor", "multiplatform", "multiplatform-kotlin-library", "navigation", "navigator", "router", "routing"]
+  }, {
+    "repo": "vinceglb/FileKit",
+    "desc": "Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP",
+    "officialSite": "https://vinceglb.github.io/FileKit/",
+    "topics": ["compose", "compose-multiplatform", "kmp", "kotlin", "kotlin-android", "kotlin-ios", "kotlin-js", "kotlin-jvm", "kotlin-macos", "kotlin-multiplatform", "kotlin-wasm"]
+  }, {
+    "repo": "ZacSweers/FieldSpottr",
+    "desc": "A simple app for checking field permit status on nycgovparks",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jordond/connectivity",
+    "desc": "🛜 Kotlin Multiplatform library for monitoring network connectivity",
+    "officialSite": "https://connectivity.jordond.dev/",
+    "topics": ["compose-multiplatform", "connectivity-checker", "kotlin", "kotlin-multiplatform", "multiplatform", "multiplatform-kotlin-library"]
   }
 ]

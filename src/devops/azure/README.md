@@ -4,9 +4,9 @@ title: Azure
 description: Azure
 icon: iconfont icon-microsoftazure
 category:
-  - Azure
-  - Microsoft
   - DevOps
+  - Microsoft
+  - Azure
 tag:
   - microsoft
   - azure

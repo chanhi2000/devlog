@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - learnk8s.io
   - yozm.wishket.com
   - windows
   - win
@@ -23,6 +24,13 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+<SiteInfo
+  name="Learnk8s — the Kubernetes training company"
+  desc="We help you get started on your Kubernetes journey through comprehensive online, in person or remote training."
+  url="https://learnk8s.io/archive"
+  logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
+  preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
+
 ```component VPCard
 {
   "title": "요즘IT", 
@@ -34,6 +42,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## Learnk8s — the Kubernetes training company
+
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "Getting started with Docker and Kubernetes on Windows 10",
+  "desc": "In this article you'll learn how to make the right choices when it comes to setting up your development environment on Windows.",
+  "link": "/explore/articles/learnk8s.io/installing-docker-kubernetes-windows.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<!-- END: learnk8s.io -->
 
 ---
 
@@ -50,6 +76,8 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

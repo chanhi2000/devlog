@@ -4,9 +4,9 @@ title: References
 description: Azure > References
 icon: iconfont icon-share
 category:
-  - Azure
-  - Microsoft
   - Devops
+  - Microsoft
+  - Azure
   - References
 tag:
   - microsoft
@@ -24,8 +24,6 @@ head:
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
-
----
 
 ---
 
