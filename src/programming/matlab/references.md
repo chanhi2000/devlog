@@ -30,6 +30,7 @@ head:
 - [애증의 정규식... 2탄](https://lazymatlab.tistory.com/m/238)
 - [매트랩에서 텍스트를 컬러풀하게](https://lazymatlab.tistory.com/m/240)
 - [깃헙의 매트랩 파일을 MATLAB Online에서 여는 버튼 만들기](https://lazymatlab.tistory.com/m/244)
+- [`nchoosek`, `string`, `unique`를 이용한 경우의 수 문제 풀이](https://lazymatlab.tistory.com/m/250)
 
 ---
 

@@ -244,6 +244,9 @@ head:
 - [\[JavaScript\] 배열 정렬하는 간단한 방법(`sort`) - 문자열, 숫자, 객체 배열 정렬하기](https://coding-factory.tistory.com/m/1075)
 - [\[JavaScript\] 화살표 함수(Arrow Function) 사용법 & 예제 총정리](https://coding-factory.tistory.com/m/1076)
 - [\[JavaScript\] 화살표 함수(Arrow Function) 사용시 주의할 점 (어휘적 범위 - Lexical Scope)](https://coding-factory.tistory.com/m/1077)
+- [\[JavaScript\] ...문법 - 스프레드(spread) 연산자 사용법](https://coding-factory.tistory.com/m/1078)
+- [\[JavaScript\] 가변 파라미터 ...나머지 매개변수(rest parameter) 사용법](https://coding-factory.tistory.com/m/1079)
+- [\[JavaScript\] 디폴트 파라미터(default parameter) 사용법(기본 파라메터)](https://coding-factory.tistory.com/m/1080)
 
 ---
 

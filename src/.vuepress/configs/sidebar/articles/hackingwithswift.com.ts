@@ -46,6 +46,14 @@ export const template: SidebarGroupItem = {
             children: [
             ]
           }, {
+            text: "Changes in Swift 3.1",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/3.1/concrete-constrained-extensions.md',
+              '/explore/articles/hackingwithswift.com/swift/3.1/generic-nested-types.md',
+              '/explore/articles/hackingwithswift.com/swift/3.1/prefix-drop.md',
+            ]
+          }, {
             text: "Changes in Swift 3.0",
             collapsible: true,
             children: [

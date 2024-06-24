@@ -120,6 +120,7 @@
   { "logo": "notion", "name": "Notion", "colorHex": "000000" }, 
   { "logo": "npm", "name": "npm", "colorHex": "CB3837" }, 
   { "logo": "numpy", "name": "NumPy", "colorHex": "013243" }, 
+  { "logo": "obsedian", "name": "Obsedian", "colorHex": "7C3AED" },
   { "logo": "openai", "name": "OpenAI", "colorHex": "412991" },
   { "logo": "openjdk", "name": "Java", "colorHex": "007396" },
   { "logo": "oracle", "name": "Oracle%20SQL", "colorHex": "F80000" },

@@ -228,7 +228,7 @@ react-native start
 
 ::: note
 
-You’ll be mostly writing JavaScript code for this React Native tutorial so no need to use Android Studio as your editor. I use [<FontIcon icon="iconfont icon-sublimetext"/>Sublime Text](http://www.sublimetext.com), which is a cheap and versatile editor, but [Atom](https://atom.io), [Brackets](http://brackets.io) or any other lightweight editor will do the job.
+You’ll be mostly writing JavaScript code for this React Native tutorial so no need to use Android Studio as your editor. I use [<FontIcon icon="iconfont icon-subl"/>Sublime Text](http://www.sublimetext.com), which is a cheap and versatile editor, but [Atom](https://atom.io), [Brackets](http://brackets.io) or any other lightweight editor will do the job.
 
 :::
 

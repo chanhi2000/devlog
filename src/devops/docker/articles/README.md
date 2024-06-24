@@ -96,6 +96,36 @@ head:
 
 ```component VPCard
 {
+  "title": "3 simple tricks for smaller Docker images",
+  "desc": "Learn how to make your container images smaller in size for a quicker transfer time and deployment.",
+  "link": "/explore/articles/learnk8s.io/smaller-docker-images.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scaling Microservices with Message Queues, Spring Boot and Kubernetes",
+  "desc": "Learn how to scale SpringBoot apps in Kubernetes using the autoscaler and a message broker such as Kafka, RabbitMQ or ActiveMQ.",
+  "link": "/explore/articles/learnk8s.io/scaling-spring-boot-microservices.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Kubernetes: deploy Laravel the easy way",
+  "desc": "In this article, I'll explain how to deal with the simple requirement of running a Laravel application as a local Kubernetes set up.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-deploy-laravel-the-easy-way.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Getting started with Docker and Kubernetes on Windows 10",
   "desc": "In this article you'll learn how to make the right choices when it comes to setting up your development environment on Windows.",
   "link": "/explore/articles/learnk8s.io/installing-docker-kubernetes-windows.md",

@@ -4841,9 +4841,9 @@
     "topics": []
   }, {
     "repo": "intuitem/ciso-assistant-community",
-    "desc": "CISO Assistant is an open-source one-stop-shop for GRC - Risk and Audit Management supporting multiple standards: NIST CSF, ISO 27001, NIS2, SOC2, PCI DSS, CMMC, PSPF, GDPR, HIPAA, Essential Eight, DFS-500, DORA, NIST AI RMF, CyFun, AirCyber and more",
+    "desc": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +46 frameworks worldwide: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber and so much more",
     "officialSite": "https://intuitem.com",
-    "topics": ["ai-risk", "audit", "cmmc", "compliance", "csf", "cybersecurity", "dora", "gdpr", "grc", "hipaa", "iso-27001", "nis2", "nist", "open-source", "owasp", "pci-dss", "privacy", "pspf", "risk", "soc2"]
+    "topics": ["anssi", "audit", "bsi", "cis", "cjis", "cmmc", "compliance", "cybersecurity", "dora", "fedramp", "gdpr", "governance", "grc", "hipaa", "iso27001", "nist", "owasp", "privacy", "risk-management", "soc2"]
   }, {
     "repo": "stanford-oval/storm",
     "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
@@ -5619,5 +5619,20 @@
     "desc": "Write scalable load tests in plain Python 🚗💨",
     "officialSite": "",
     "topics": ["benchmarking", "http", "load-generator", "load-test", "load-testing", "load-tests", "locust", "performance", "performance-testing", "python"]
+  }, {
+    "repo": "modelscope/DiffSynth-Studio",
+    "desc": "Enjoy the magic of Diffusion models!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "arogozhnikov/einops",
+    "desc": "Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)",
+    "officialSite": "https://einops.rocks",
+    "topics": ["chainer", "cupy", "deep-learning", "einops", "jax", "keras", "numpy", "pytorch", "tensor", "tensorflow"]
+  }, {
+    "repo": "fiddlecube/fiddlecube-sdk",
+    "desc": "Generate ideal question-answers for testing RAG",
+    "officialSite": "https://fiddlecube.ai",
+    "topics": ["fine-tune-llms", "llm-eval", "llm-training", "synthetic-data"]
   }
 ]

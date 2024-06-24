@@ -133,6 +133,166 @@ head:
 
 ```component VPCard
 {
+  "title": "How do you connect Kubernetes clusters located in different data centres?",
+  "desc": "In Kubernetes, you might want to distribute your workloads in different regions to improve your reliability and availability. Learn what options you have.",
+  "link": "/explore/articles/learnk8s.io/connecting-multiple-kubernetes-clusters.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Kubernetes Chaos Engineering: Lessons Learned — Part 1",
+  "desc": "When you deploy an app in Kubernetes, your code ends up running on one or more worker nodes. But what happens when a node breaks and the network proxy crashes?",
+  "link": "/explore/articles/learnk8s.io/kubernetes-chaos-engineering-lessons-learned.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Boosting your kubectl productivity",
+  "desc": "Learn the tips and tricks that make your usage of kubectl more efficient and effective.",
+  "link": "/explore/articles/learnk8s.io/kubectl-productivity.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Is Helm used just for templating Kubernetes YAML files?",
+  "desc": "Learn how Helm is used for templating, sharing charts and managing releases.",
+  "link": "/explore/articles/learnk8s.io/helm-templating-kubernetes-yaml.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How do you visualise dependencies in your Kubernetes YAML files?",
+  "desc": "When you have a large number of resources in your Kubernetes cluster, you might lose track of all relationships between them. Learn how to visualise your dependencies.",
+  "link": "/explore/articles/learnk8s.io/visualise-dependencies-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to keep your Kubernetes secrets secure in Git",
+  "desc": "Kubernetes secrets that you load into the cluster must exist somewhere. Is Kubernetes to be the only source of truth or do you keep a copy? Learn how to secure secrets.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-secrets-in-git.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to autoscale apps on Kubernetes with custom metrics",
+  "desc": "Kubernetes provides excellent support for autoscaling applications in the form of the Horizontal Pod Autoscaler. In this article, you will learn how to use it.",
+  "link": "/explore/articles/learnk8s.io/autoscaling-apps-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How do you rollback deployments in Kubernetes?",
+  "desc": "A Kubernetes Ingress routes the external traffic to your services and Pods inside the cluster. You could have an Ingress that is also an API gateway.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-rollbacks.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scaling Microservices with Message Queues, Spring Boot and Kubernetes",
+  "desc": "Learn how to scale SpringBoot apps in Kubernetes using the autoscaler and a message broker such as Kafka, RabbitMQ or ActiveMQ.",
+  "link": "/explore/articles/learnk8s.io/scaling-spring-boot-microservices.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Can you expose your microservices with an API gateway in Kubernetes?",
+  "desc": "A Kubernetes Ingress routes the external traffic to your services and Pods inside the cluster. You could have an Ingress that is also an API gateway.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-ingress-api-gateway.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Architecting Kubernetes clusters — how many should you have?",
+  "desc": "How many Kubernetes clusters should you have? One big cluster or multiple smaller clusters? This article investigates the pros and cons of different approaches.",
+  "link": "/explore/articles/learnk8s.io/how-many-clusters.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Provisioning cloud resources (AWS, GCP, Azure) in Kubernetes",
+  "desc": "You can create and connect to managed cloud provider resources using the Service Catalog, a tool such as Kubeform or cloud-specific operators",
+  "link": "/explore/articles/learnk8s.io/cloud-resources-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Implementing a custom Kubernetes authentication method",
+  "desc": "Kubernetes allows binding a cluster to arbitrary authentication methods. In this article, you will learn how to implement LDAP authentication for your Kubernetes cluster.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-custom-authentication.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Coding a real-time dashboard for Kubernetes",
+  "desc": "In Kubernetes, how can you be notified when a Pod is added, removed or modified? In this article you'll learn how to use the API to track changes to Kubernetes resources.",
+  "link": "/explore/articles/learnk8s.io/real-time-dashboard.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Kubernetes: deploy Laravel the easy way",
+  "desc": "In this article, I'll explain how to deal with the simple requirement of running a Laravel application as a local Kubernetes set up.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-deploy-laravel-the-easy-way.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Templating YAML in Kubernetes with real code",
+  "desc": "Learn how you can parametrise resource definitions with yq, kustomize and real code.",
+  "link": "/explore/articles/learnk8s.io/templating-yaml-with-code.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Validating Kubernetes YAML for best practice and policies",
   "desc": "How can you prevent deployments that don't follow best practices from reaching the cluster? In this article you will compare six tools to validate Kubernetes YAML files.",
   "link": "/explore/articles/learnk8s.io/validating-kubernetes-yaml.md",

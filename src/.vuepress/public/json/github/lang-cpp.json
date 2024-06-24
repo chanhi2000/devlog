@@ -1443,5 +1443,20 @@
     "desc": "Tool aimed to provide a binary analysis of different file formats through the use of an Intermmediate Representation.",
     "officialSite": "https://fare9.github.io/KUNAI-static-analyzer/",
     "topics": []
+  }, {
+    "repo": "niedev/RTranslator",
+    "desc": "World's first open source real-time translation app for Android.",
+    "officialSite": "",
+    "topics": ["ai", "android-app", "bluetooth-le", "nllb", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "simultaneous-translation", "transformers", "translation", "translator", "whisper", "whisper-ai"]
+  }, {
+    "repo": "niedev/RTranslator",
+    "desc": "World's first open source real-time translation app for Android.",
+    "officialSite": "",
+    "topics": ["ai", "android-app", "bluetooth-le", "nllb", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "simultaneous-translation", "transformers", "translation", "translator", "whisper", "whisper-ai"]
+  }, {
+    "repo": "ExpressLRS/ExpressLRS",
+    "desc": "STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications",
+    "officialSite": "",
+    "topics": ["drone", "esp32", "esp8266", "fpv", "lora", "quadcopter", "rc", "remote-control", "stm32", "sx1276", "sx1280"]
   }
 ]

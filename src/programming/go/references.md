@@ -350,4 +350,16 @@ tag:
 
 ---
 
+## Xe Iaso
+
+- [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
+
+---
+
+## Anton Zhiyanov
+
+- [Atomic operations composition in Go](https://antonz.org/atomics-composition/)
+
+---
+
 <TagLinks />

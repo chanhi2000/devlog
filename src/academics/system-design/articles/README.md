@@ -129,6 +129,15 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Breakpoints for Responsive Web Design",
+  "desc": "Breakpoints are fundamental to the concept of responsive web design. They enable websites to adapt seamlessly across different devices and screen sizes.  Breakpoints mark the points at which a website's layout and content should change to ensure optimal user experience on devices ranging from smartphones and tablets to desktop...",
+  "link": "/explore/articles/freecodecamp.org/breakpoints-for-responsive-web-design.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 <!-- END: freecodecamp.org -->
 

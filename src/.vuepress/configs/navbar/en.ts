@@ -527,10 +527,6 @@ export const navbarEn = navbar([
         icon: 'fas fa-screwdriver-wrench',
         link: '/tool/README.md',
       }, {
-        text: 'Dracula',
-        icon: 'iconfont icon-vampire-dracula',
-        link: '/tool/dracula/README.md',
-      }, {
         text: 'Xcode',
         icon: 'iconfont icon-xcode',
         link: '/tool/xcode/README.md',
@@ -552,48 +548,40 @@ export const navbarEn = navbar([
         link: '/tool/vscode/README.md',
       }, {
         text: 'Sublime Text',
-        icon: 'iconfont icon-sublimetext',
+        icon: 'iconfont icon-subl',
         link: '/tool/sublimetext/README.md',
       }, {
         text: 'DBeaver',
         icon: 'iconfont icon-dbeaver',
         link: '/tool/dbeaver/README.md',
       }, {
-        text: 'Excel',
-        icon: 'iconfont icon-microsoftexcel',
-        link: '/tool/xls/README.md',
+        text: 'Microsoft',
+        children: [
+          '/tool/xls/README.md',
+          '/tool/ppt/README.md',
+          '/tool/power-bi/README.md',
+        ]
       }, {
-        text: 'PowerPoint',
-        icon: 'iconfont icon-microsoftpowerpoint',
-        link: '/tool/ppt/README.md',
+        text: 'Browser',
+        children: [
+          '/tool/chrome/README.md',
+          '/tool/firefox/README.md',
+          '/tool/safari/README.md',
+        ]
       }, {
-        text: 'Power Bi',
-        icon: 'iconfont icon-power-bi',
-        link: '/tool/power-bi/README.md',
+        text: 'Productivity',
+        children: [
+          '/tool/notion/README.md',
+          '/tool/obsedian/README.md',
+          '/tool/slack/README.md',
+          '/tool/dracula/README.md',
+        ]
       }, {
-        text: 'Chrome Browser',
-        icon: 'fa-brands fa-chrome',
-        link: '/tool/chrome/README.md',
-      }, {
-        text: 'Firefox',
-        icon: 'fa-brands fa-firefox-browser',
-        link: '/tool/firefox/README.md',
-      }, {
-        text: 'Safari',
-        icon: 'fa-brands fa-safari',
-        link: '/tool/safari/README.md',
-      }, {
-        text: 'Notion',
-        icon: 'iconfont icon-notion',
-        link: '/tool/notion/README.md',
-      }, {
-        text: 'Figma',
-        icon: 'fa-brands fa-figma',
-        link: '/tool/figma/README.md',
-      }, {
-        text: 'Sketch',
-        icon: 'fa-brands fa-sketch',
-        link: '/tool/sketch/README.md',
+        text: 'Design',
+        children: [
+          '/tool/figma/README.md',
+          '/tool/sketch/README.md',
+        ]
       }, { 
         text: 'crontab',
         icon: 'iconfont icon-crontab',
@@ -645,11 +633,7 @@ export const navbarEn = navbar([
         text: 'Airtable',
         icon: 'iconfont icon-airtable',
         link: '/tool/airtable/README.md',
-      }, {
-        text: 'Slack',
-        icon: 'fa-brands fa-slack',
-        link: '/tool/slack/README.md',
-      }, 
+      }
     ]
   }, {
     text: '', // ai

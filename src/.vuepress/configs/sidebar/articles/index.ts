@@ -10,6 +10,7 @@ import { template as TEMPLATE_SMASHINGMAGAZINE } from './smashingmagazine.com';
 import { template as TEMPLATE_DIGITALOCEAN } from './digitalocean.com';
 import { template as TEMPLATE_LEARNK8S } from './learnk8s.io';
 import { template as TEMPLATE_KAKAO_TECH } from './tech.kakao.com';
+import { template as TEMPLATE_KAKAO_PAY_TECH } from './tech.kakaopay.com';
 import { template as TEMPLATE_NHN } from './meetup.nhncloud.com';
 import { template as TEMPLATE_GANGNAMUNNI } from './blog.gangnamunni.com';
 import { template as TEMPLATE_WOOWAHAN } from './techblog.woowahan.com';
@@ -79,6 +80,7 @@ export const articleSidebars = {
   learnk8s:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LEARNK8S, type),
   yozm:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_YOZM, type),
   kakaoTech:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KAKAO_TECH, type),
+  kakaoPayTech:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KAKAO_PAY_TECH, type),
   d2:                 (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_D2, type),
   nhn:                (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_NHN, type),
   gangnamunni:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GANGNAMUNNI, type),

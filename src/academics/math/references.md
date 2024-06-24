@@ -404,6 +404,8 @@ head:
 - [CIE chromaticity diagram 이해하기](https://lazymatlab.tistory.com/m/243)
 - [미적분학 공부 중...](https://lazymatlab.tistory.com/m/245)
 - [피보나치 수열의 일반항](https://lazymatlab.tistory.com/m/248)
+- [자연수를 순서대로 무한분수로 배열해서 √2 만들기](https://lazymatlab.tistory.com/m/249)
+- [`nchoosek`, `string`, `unique`를 이용한 경우의 수 문제 풀이](https://lazymatlab.tistory.com/m/250)
 
 ---
 

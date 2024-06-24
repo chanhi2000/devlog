@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - learnk8s.io
   - yozm.wishket.com
   - meetup.nhncloud.com
   - techblog.woowahan.com
@@ -33,6 +34,13 @@ head:
   url="https://freecodecamp.org/news/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+<SiteInfo
+  name="Learnk8s — the Kubernetes training company"
+  desc="We help you get started on your Kubernetes journey through comprehensive online, in person or remote training."
+  url="https://learnk8s.io/archive"
+  logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
+  preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
 
 ```component VPCard
 {
@@ -117,6 +125,24 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
+---
+
+## Learnk8s — the Kubernetes training company
+
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "How to keep your Kubernetes secrets secure in Git",
+  "desc": "Kubernetes secrets that you load into the cluster must exist somewhere. Is Kubernetes to be the only source of truth or do you keep a copy? Learn how to secure secrets.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-secrets-in-git.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<!-- END: learnk8s.io -->
 
 ---
 

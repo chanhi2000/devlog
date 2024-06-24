@@ -134,6 +134,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Breakpoints for Responsive Web Design",
+  "desc": "Breakpoints are fundamental to the concept of responsive web design. They enable websites to adapt seamlessly across different devices and screen sizes.  Breakpoints mark the points at which a website's layout and content should change to ensure optimal user experience on devices ranging from smartphones and tablets to desktop...",
+  "link": "/explore/articles/freecodecamp.org/breakpoints-for-responsive-web-design.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
+
 ---
 
 ## Frontend Masters Boost – Helping Your Journey to Senior Developer
@@ -305,6 +317,36 @@ head:
   "title": "One of the Boss Battles of CSS is Almost Won! Transitioning to Auto",
   "desc": "The experimental CSS function `calc-size(auto)` allows transitions from zero to a specified value. Animating elements from zero to their intrinsic size has long been desired by CSS developers.",
   "link": "/explore/articles/frontendmasters.com/one-of-the-boss-battles-of-css-is-almost-won-transitioning-to-auto.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Footnotes Progressively Enhanced to Popovers",
+  "desc": "Michelle Barker's technique for popover footnotes is great. Here we look at ways we could fight the content duplication. There are ups and downs.",
+  "link": "/explore/articles/frontendmasters.com/footnotes-progressively-enhanced-to-popovers.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Pure CSS Circular Text (without Requiring a Monospace Font)",
+  "desc": "Setting text on a circle in CSS isn't straightforward, but it is possible with some effort. This technique splits text into segments and uses transforms and perspective to pull it off.",
+  "link": "/explore/articles/frontendmasters.com/pure-css-circular-text-without-requiring-a-monospace-font.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Popovers Work Pretty Nicely as Slide-Out Drawers",
+  "desc": "Especially on mobile, the slide-out drawer UI/UX seems like a perfect fit for a popover, and works fine on desktop too.",
+  "link": "/explore/articles/frontendmasters.com/popovers-work-pretty-nicely-as-slide-out-drawers.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }

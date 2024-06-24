@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Sublime Text
 description: Sublime Text
-icon: iconfont icon-sublimetext
+icon: iconfont icon-subl
 category:
   - Sublime Text
 tag:

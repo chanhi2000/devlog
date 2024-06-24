@@ -3088,5 +3088,15 @@
     "desc": "An infinite canvas with smart shapes",
     "officialSite": "https://dgmjs.dev",
     "topics": ["canvas", "diagram", "drawing", "sketch", "whiteboard"]
+  }, {
+    "repo": "tonsky/crdt-filesync",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "typescript-eslint/typescript-eslint",
+    "desc": ":sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript",
+    "officialSite": "https://typescript-eslint.io",
+    "topics": ["eslint", "eslint-plugin", "eslintplugin", "plugin", "tslint", "typescript"]
   }
 ]

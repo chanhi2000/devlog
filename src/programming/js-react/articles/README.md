@@ -14,6 +14,7 @@ tag:
   - frontendmasters.com
   - smashingmagazine.com
   - yozm.wishket.com
+  - tech.kakao.com
   - techblog.woowahan.com
   - tech.inflab.com
   - dev.gmarket.com
@@ -343,6 +344,28 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "How to Validate Forms in React and React Native Using Yup and Formik",
+  "desc": "Validation is a key part of development, regardless of what programming language you’re writing. Developers should always be validating user input, API parameters, and retrieved values. One of the most common elements where you’ll need to apply user input validation is via a form. This could be a user sign...",
+  "link": "/explore/articles/freecodecamp.org/react-how-to-validate-user-input.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What's New in React 19",
+  "desc": "React 19 has just been released, bringing a wealth of new features and enhancements to this popular JavaScript library. For developers looking to stay ahead of the curve, understanding these updates is crucial. This course is designed to help you nav...",
+  "link": "/explore/articles/freecodecamp.org/whats-new-in-react-19.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

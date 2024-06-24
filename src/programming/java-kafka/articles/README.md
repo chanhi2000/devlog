@@ -107,6 +107,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Scaling Microservices with Message Queues, Spring Boot and Kubernetes",
+  "desc": "Learn how to scale SpringBoot apps in Kubernetes using the autoscaler and a message broker such as Kafka, RabbitMQ or ActiveMQ.",
+  "link": "/explore/articles/learnk8s.io/scaling-spring-boot-microservices.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Designing and testing a highly available Kafka cluster on Kubernetes",
   "desc": "Learn how to design a Kafka cluster to achieve high availability using standard kubernetes resources and test how it tolerates maintenance and total node failures.",
   "link": "/explore/articles/learnk8s.io/kafka-ha-kubernetes.md",

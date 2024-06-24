@@ -41,6 +41,7 @@ head:
 
 ### <FontIcon icon="fa-brands fa-python"/>Python
 
+- [Package Management in the Python extension for Visual Studio Code](https://devblogs.microsoft.com/python/python-package-management-proposal/)
 - [Python Linting in Visual Studio Code – Hinting and Linting Video Series](https://devblogs.microsoft.com/python/python-linting-video/)
 
 ### Tech Community
@@ -123,6 +124,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`petefison` / Ode to Python](https://medium.com/@petefison/ode-to-python-7e273ae1762b)
 - [`data-analytics-at-nesta` / Tutorial: data-driven news discourse analysis with Python (Part 1)](https://medium.com/data-analytics-at-nesta/tutorial-data-driven-news-discourse-analysis-with-python-part-1-4fdbf5c23991)
 - [Computational Linear Algebra: Scalars, Vectors, Matrices and Tensors](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc)
 - [Apache Log Parser With Python](https://medium.com/@nithinjohn97/apache-log-parser-with-python-5007a91a04ce)
@@ -140,6 +142,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`scofieldidehen` / Advanced Python Tips for Development](https://dev.to/scofieldidehen/advanced-python-tips-for-development-olo)
 - [`houseman` / Creating a great Python DevX](https://dev.to/houseman/creating-a-great-python-devx-39c6)
 - [`crawlee` / Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
 - [`taipy` / Specialized Python libraries for Unique Taskss](https://dev.to/taipy/specialized-python-libraries-for-unique-tasks-5dgm)
@@ -149,6 +152,7 @@ head:
 
 ## Substack
 
+- [`bitecode` / A taste of iteration in Python](https://www.bitecode.dev/p/a-taste-of-iteration-in-python)
 - [`thepythoncodingstack` / The Magician's Sleight of Hand](https://www.thepythoncodingstack.com/p/the-magicians-sleight-of-hand-python)
 - [`aljamal` / Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 - [`bitecode` / Light speed with Python and JS](https://www.bitecode.dev/p/light-speed-with-python-and-js)
@@ -320,6 +324,7 @@ head:
 
 ## Simon Willson's TILs
 
+- [`sqlite-utils` now supports plugins](https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/)
 - [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 - [mlc-chat - RedPajama-INCITE-Chat-3B on macOS](https://til.simonwillison.net/llms/mlc-chat-redpajama)
 - [Building a blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django)
@@ -478,6 +483,7 @@ head:
 
 ## Python⇒Speed
 
+- [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size)
@@ -833,6 +839,7 @@ head:
 
 ## mathspp
 
+- [Overloading arithmetic operators with dunder methods | Pydon't 🐍](https://mathspp.com/blog/pydonts/overloading-arithmetic-operators-with-dunder-methods)
 - [Building a Python compiler and interpreter](https://mathspp.com/blog/building-a-python-compiler-and-interpreter)
 - [5 ways to flatten a list of lists](https://mathspp.com/blog/5-ways-to-flatten-a-list-of-lists)
 - [Python's soft keywords](https://mathspp.com/blog/til/pythons-soft-keywords)
@@ -1057,6 +1064,7 @@ head:
 
 ## Seth Michael Larson
 
+- [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 - [Isolating risk in the CPython release process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-35)
 
 ---
@@ -1377,6 +1385,8 @@ head:
 
 ## Timescale
 
+- [Guide to Time-Series Analysis in Python](https://www.timescale.com/blog/how-to-work-with-time-series-in-python/)
+- [How to Build LLM Applications With Pgvector Vector Store in LangChain](https://www.timescale.com/blog/how-to-build-llm-applications-with-pgvector-vector-store-in-langchain/)
 - [A Beginner’s Guide to Vector Embeddings](https://www.timescale.com/blog/a-beginners-guide-to-vector-embeddings/)
 
 ---
@@ -1616,6 +1626,7 @@ head:
 
 ## CodersLegacy - Imparting knowledge to the Future
 
+- [Accelerating Python Code with Numba Vectorize](https://coderslegacy.com/python-code-with-numba-vectorize/)
 - [Comparison of Sorting Algorithms](https://coderslegacy.com/comparison-of-sorting-algorithms/)
 
 ---
@@ -1680,10 +1691,77 @@ head:
 
 ---
 
+## Daniel's Blog
+
+- [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
+
+---
+
+## Artur Dryomov
+
+- [Python, foreign functions and Steam](https://arturdryomov.dev/posts/python-foreign-functions-and-steam/?ref=sangkon.com)
+
+---
+
+## Andrew Healey
+
+- [Running Untrusted Python Code](https://healeycodes.com/running-untrusted-python-code)
+
+---
+
+## Next-Generation Mobile Apps and Cross Browser Testing Cloud | LambdaTest
+
+- [Python ConfigParser Tutorial – Comprehensive Guide To Working With Configuration Files With Python](https://www.lambdatest.com/blog/python-configparser-tutorial/)
+
+---
+
+## LPython
+
+- [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
+
+---
+
+## Sebastian Witowski
+
+- [Pathlib for Path Manipulations](https://switowski.com/blog/pathlib/)
+
+---
+
+## code.dblock.org | tech blog
+
+- [Getting started with Vector DBs in Python](https://code.dblock.org/2023/06/16/getting-started-with-vector-dbs-in-python.html)
+
+---
+
+## Max Woolf's Blog
+
+- [The Problem With LangChain](https://minimaxir.com/2023/07/langchain-problem/)
+
+---
+
+## Dailystuff on the Internet
+
+- [Writing a 6502 emulator in Python](https://dailystuff.nl/projects/writing-a-6502-emulator-in-python)
+
+---
+
+## Computer Things • Buttondown
+
+- [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
+
+---
+
+## A Reasonable Approximation
+
+- [A reckless introduction to Hindley-Milner type inference](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
+
+---
+
 ## Misc.
 
 - [Working with Excel Files in Python](https://www.python-excel.org/)
 
 ---
+
 
 <TagLinks />

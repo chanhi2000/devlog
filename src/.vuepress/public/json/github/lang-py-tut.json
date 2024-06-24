@@ -144,5 +144,10 @@
     "desc": ":earth_americas: machine learning tutorials (mainly in Python3) ",
     "officialSite": "",
     "topics": ["data-science", "deep-learning", "jupyter-notebook", "machine-learning", "python", "python3"]
+  }, {
+    "repo": "RamiKrispin/vscode-python",
+    "desc": "A Tutorial for Setting Python Development Environment with VScode and Docker",
+    "officialSite": "",
+    "topics": ["docker", "pyhton3", "python", "vscode"]
   }
 ]

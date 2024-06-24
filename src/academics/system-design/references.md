@@ -185,6 +185,9 @@ head:
 - `@qkrtkdwns3410` / [\[실용주의 프로그래머\] Topic 3 소프트웨어 엔트로피](https://velog.io/@qkrtkdwns3410/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-Topic-3-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%ED%8A%B8%EB%A1%9C%ED%94%BC)
 - [`@yeonns` / Cell-based Architecture에 대해 알아보자](https://velog.io/@yeonns/what-is-cell-based-architecture)
 - [`rikenshah` / Avoiding Beginner Mistakes Hampering You to Scale Backend⚡️](https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c)
+- [`@juhee067` / 01. 웹 접근성 검수 서비스 기획](https://velog.io/@juhee067/01.-%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EA%B2%80%EC%88%98-%EC%84%9C%EB%B9%84%EC%8A%A4)
+- [`@jeong_hun_hui` / 트랜잭션은 어떻게 데이터 시스템의 문제들을 해결할까? (feat. ACID)](https://velog.io/@jeong_hun_hui/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%AC%B8%EC%A0%9C%EB%93%A4%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%95%A0%EA%B9%8C-feat.-ACID)
+- [`@joshuara7235` / 테스트코드를 모르던 내게 찾아온 TDD](https://velog.io/@joshuara7235/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AA%A8%EB%A5%B4%EB%8D%98-%EB%82%B4%EA%B2%8C-%EC%B0%BE%EC%95%84%EC%98%A8-TDD)
 
 ---
 
@@ -202,7 +205,13 @@ head:
 - [`@ebprux` / 와이이프레임 디자인 크리틱 4가지 원칙](https://brunch.co.kr/@ebprux/1338)
 - [`@ebprux` / 종이 프로토타이핑, 창의성과 협업의 도구](https://brunch.co.kr/@ebprux/1317)
 - [`@2fEJ` / System Usability Scale 측정 방법 - UX 리서치 강연 #14](https://brunch.co.kr/@@2fEJ/1342)
-
+- [`@2fEJ` / 긍정적 행동 유도를 위한 색상 대비 전략 - UX 디자인 가이드라인 배우기 #12](https://brunch.co.kr/@@2fEJ/1357)
+- [`@2hV3` / 고령 UX의 진짜 문제는 시력과 청각이 아니라고? - MSV 소셜임팩트 '시니어' 시리즈를 읽고](https://brunch.co.kr/@@2hV3/233)
+- [`@2fEJ` / 사용성 테스트 과제 시나리오 구성 요소와 작성 방법 - UX 리서치 강연 #15](https://brunch.co.kr/@@2fEJ/1363)
+- [`@2fEJ` / 버튼 배치를 통한 사용자의 긍정적 행동 유도 - UX 디자인 가이드라인 배우기 #11](https://brunch.co.kr/@@2fEJ/1356)
+- [`@2fEJ` / 부정적 행동 버튼의 균형잡힌 대비 효과 - UX 디자인 가이드라인 배우기 #13](https://brunch.co.kr/@@2fEJ/1358)
+- [`@2fEJ` / 클릭 테스트가 뭐예요? - UX 리서치 강연 #16](https://brunch.co.kr/@@2fEJ/1364)
+- [`@2fEJ` / UX, 사용자 경험의 본질 - UX 디자인 강의 #16](https://brunch.co.kr/@@2fEJ/1367)
 
 ---
 
@@ -534,6 +543,24 @@ head:
 ## emewjin.log
 
 - [(번역) 기능 분할 설계 - 최고의 프런트엔드 아키텍처](https://emewjin.github.io/feature-sliced-design/)
+
+---
+
+## 재우니의 블로그
+
+- [소프트웨어 생산성을 높이기 위한 방법](https://aspdotnet.tistory.com/m/3220)
+
+---
+
+## 잡다한 AI 관련 글들
+
+- [\[Review\] 토스에서 말하는 "가독성 좋은 코드" 란 무엇일까?](https://jh-bk.tistory.com/m/69)
+
+---
+
+## 디파이너리 헬프센터
+
+- [모바일(App/Web) 이미지 사이즈](https://help.dfinery.io/hc/ko/articles/18331475774745-%EB%AA%A8%EB%B0%94%EC%9D%BC-App-Web-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%82%AC%EC%9D%B4%EC%A6%88)
 
 ---
 

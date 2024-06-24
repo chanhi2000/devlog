@@ -134,6 +134,18 @@ head:
 
 ## Learnk8s — the Kubernetes training company
 
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "Provisioning cloud resources (AWS, GCP, Azure) in Kubernetes",
+  "desc": "You can create and connect to managed cloud provider resources using the Service Catalog, a tool such as Kubeform or cloud-specific operators",
+  "link": "/explore/articles/learnk8s.io/cloud-resources-kubernetes.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
 ```component VPCard
 {
   "title": "Deploying Node.js apps in EKS",

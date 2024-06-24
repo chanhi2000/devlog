@@ -32,7 +32,15 @@ tag:
 
 - [How are zlib, gzip and zip related? What do they have in common and how are they different?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 - [Is there an equivalent to `ssh-copy-id` for Windows?](https://serverfault.com/questions/224810/is-there-an-equivalent-to-ssh-copy-id-for-windows)
- 
+
+---
+
+## <FontIcon icon="fa-brands fa-stack-exchange"/>StackExchange
+
+### Unix
+
+- [Why *not* parse `ls` (and what to do instead)?](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
+
 ---
 
 ## Password Manager for Families, Enterprise & Business | 1Password

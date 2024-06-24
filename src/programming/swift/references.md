@@ -79,6 +79,9 @@ tag:
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@jwlee010523`: 기본 연산자(Basic Operators)](https://velog.io/@jwlee010523/Swift-%EA%B8%B0%EB%B3%B8-%EC%97%B0%EC%82%B0%EC%9E%90Basic-Operators)
+- [`@jwlee010523` / Swift 기본 연산자(Basic Operators)](https://velog.io/@jwlee010523/swift-basic-operators)
+- [`@jwlee010523` / Swift 기본문법](https://velog.io/@jwlee010523/swift-basics)
+- [`@jwlee010523` / Swift 문자열(String)](https://velog.io/@jwlee010523/swift-string)
 
 ---
 
@@ -161,6 +164,7 @@ tag:
 
 ## Holy Swift
 
+- [Animating Carrousel Transitions in SwiftUI](https://holyswift.app/animating-carrousel-transitions-in-swiftui/)
 - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui)
 - [How to Mirror Any View in SwiftUI?](https://holyswift.app/how-to-invert-any-view-in-swiftui/)
 
@@ -272,6 +276,8 @@ tag:
 
 ## Use Your Loaf
 
+- [Migrating to Observable](https://useyourloaf.com/blog/migrating-to-observable/)
+- [MapKit for SwiftUI](https://useyourloaf.com/blog/mapkit-for-swiftui/)
 - [Disabling Core Data CloudKit Logging](https://useyourloaf.com/blog/disabling-core-data-cloudkit-logging)
 - [Xcode Console and Unified Logging](https://useyourloaf.com/blog/xcode-console-and-unified-logging)
 - [SwiftUI Sensory Feedback](https://useyourloaf.com/blog/swiftui-sensory-feedback)
@@ -364,6 +370,7 @@ tag:
 
 - [SwiftUI로 이모지 키보드 만들기](https://www.hohyeonmoon.com/blog/swiftui-emoji-keyboard)
 - [iOS TDD의 시작](https://www.hohyeonmoon.com/blog/ios-starting-tdd)
+- [SwiftUI MV 패턴 알아보기](https://www.hohyeonmoon.com/blog/swiftui-mv-pattern)
 
 ---
 
@@ -473,6 +480,7 @@ tag:
 
 ## Natascha Fadeeva
 
+- [Migrating to the Observation framework in SwiftUI](https://tanaschita.com/20230807-migrating-to-observation/)
 - [How to use TipKit to create tool tips in SwiftUI](https://tanaschita.com/20240304-tipkit-feature-hints/)
 - [How to avoid using `AnyView` in SwiftUI](https://tanaschita.com/swiftui-how-to-avoid-using-anyview/)
 
@@ -703,6 +711,7 @@ tag:
 
 ## AzamSharp | Blog about iOS development and musings on technology
 
+- [The Ultimate Guide to Building SwiftData Applications](https://azamsharp.com/2023/07/04/the-ultimate-swift-data-guide.html)
 - [Is MVVM Dead in SwiftUI?](https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui.html)
 
 ---

@@ -10,6 +10,7 @@ export const template: SidebarInfoTemplate = {
       "testing-types-in-typescript", // 2024-06-04
       "control-javascript-promises-from-anywhere-using-promise-withresolvers", // 2024-06-05
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
+      "popovers-work-pretty-nicely-as-slide-out-drawers", // 2024-06-24
     ]], [
     "js-node", [
       "introducing-drizzle", // 2024-06-17
@@ -39,6 +40,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-make-a-css-timer", // 2024-05-29
       "live-demos-of-stand-alone-web-components", // 2024-06-06
       "one-of-the-boss-battles-of-css-is-almost-won-transitioning-to-auto", // 2024-06-12
+      "footnotes-progressively-enhanced-to-popovers", // 2024-06-19
+      "pure-css-circular-text-without-requiring-a-monospace-font", // 2024-06-21
+      "popovers-work-pretty-nicely-as-slide-out-drawers", // 2024-06-24
     ]], [
     "chrome", [
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
@@ -73,6 +77,9 @@ export const template: SidebarInfoTemplate = {
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
       "one-of-the-boss-battles-of-css-is-almost-won-transitioning-to-auto", // 2024-06-12
       "introducing-drizzle", // 2024-06-17
+      "footnotes-progressively-enhanced-to-popovers", // 2024-06-19
+      "pure-css-circular-text-without-requiring-a-monospace-font", // 2024-06-21
+      "popovers-work-pretty-nicely-as-slide-out-drawers", // 2024-06-24
     ]]
   ])
 }

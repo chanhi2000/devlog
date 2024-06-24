@@ -1209,5 +1209,10 @@
     "desc": "A list of alternatives for Adobe software",
     "officialSite": "",
     "topics": ["alternatives", "list"]
+  }, {
+    "repo": "mehdihadeli/awesome-software-architecture",
+    "desc": "🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
+    "officialSite": "https://awesome-architecture.com",
+    "topics": ["architectural-patterns", "architectural-styles", "architecture", "awesome-list", "clean-architecture", "ddd", "ddd-architecture", "design-pattern", "design-patterns", "design-systems", "event-driven-architecture", "microservice", "microservices", "microservices-architecture", "modular-monoliths", "onion-architecture", "oop", "software-architecture", "system-design", "vertical-slice-architecture"]
   }
 ]

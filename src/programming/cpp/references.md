@@ -154,6 +154,9 @@ tag:
 - [LNK4099 경고](https://blog.naver.com/tipsware/223485629126?)
 - [MFC 프로그래밍 테스트 과제 - Step 7](https://blog.naver.com/tipsware/223486268700?)
 - [\[Q&A\] ScreenToClient 함수를 사용할 때](https://blog.naver.com/tipsware/223487961033?fromRss=true&trackingCode=rss)
+- [\[Q&A\] 실숫값 출력할 때 소수점 자릿수 지정하기](https://blog.naver.com/tipsware/223488659328)
+- [`_fcvt` 함수와 `_fcvt_s` 함수에 대하여](https://blog.naver.com/tipsware/223488583942)
+- [StringCbPrintf 함수](https://blog.naver.com/tipsware/223491407426)
 
 ---
 
@@ -226,6 +229,8 @@ tag:
 - [\[백준 30804번\] 과일 탕후루](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-30804%EB%B2%88-%EA%B3%BC%EC%9D%BC-%ED%83%95%ED%9B%84%EB%A3%A8)
 - [\[백준 17845\] 수강 과목](https://kesakiyo.tistory.com/entry/%EB%B0%B1%EC%A4%80-17845-%EC%88%98%EA%B0%95-%EA%B3%BC%EB%AA%A9)
 - [\[백준 16937번\] 두 스티커](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-16937%EB%B2%88-%EB%91%90-%EC%8A%A4%ED%8B%B0%EC%BB%A4)
+- [\[백준 31963번\] 두 배](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31963%EB%B2%88-%EB%91%90-%EB%B0%B0)
+- [\[백준 31964번\] 반품 회수](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31964%EB%B2%88-%EB%B0%98%ED%92%88-%ED%9A%8C%EC%88%98)
 
 ---
 
@@ -269,6 +274,14 @@ tag:
 
 - [TouchGFX 시뮬레이션에서 윈도우 COM 포트 사용하기 예제 코드](https://blog.naver.com/chandong83/223477320971)
 - [TouchGFX `CustomContainer`에서 `handleTickEvent` 함수 사용하기](https://blog.naver.com/chandong83/223487001959?fromRss=true&trackingCode=rss)
+- [TouchGFX FlexButton Icon 나타났다 숨겼다 하기](https://blog.naver.com/chandong83/223490145191)
+- [TouchGFX TextArea 텍스트 변경 시 길이 변경에 따른 화면 갱신하기](https://blog.naver.com/chandong83/223490551115?fromRss=true&trackingCode=rss)
+
+---
+
+## 멈춤보단 천천히라도
+
+- [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
 
 ---
 

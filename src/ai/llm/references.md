@@ -240,6 +240,7 @@ head:
 - [NLP의 핵심. 토큰, 임베딩과 파인튜닝](https://daddynkidsmakers.blogspot.com/2024/06/nlp.html)
 - [도메인 모델 성능개선을 위한 Lora 기반 LLAMA3 모델 파인튜닝하기](https://daddynkidsmakers.blogspot.com/2024/06/lora-llama3.html)
 - [Weights & Biases로 딥러닝 모델 개발 프로세스 기록, 분석, 가시화 및 모델 튜닝하기](https://daddynkidsmakers.blogspot.com/2024/06/weights-biases.html)
+- [2024년 오픈소스 대형언어모델 소개](https://daddynkidsmakers.blogspot.com/2024/06/2024.html)
 
 ---
 
@@ -257,6 +258,7 @@ head:
 
 ## Simon Willison's Weblog
 
+- [Language models on the command-line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
 - [Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
 
 ---
@@ -294,6 +296,18 @@ head:
 ## `llama.ttf`
 
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
+
+---
+
+## nthought
+
+- [모델 성능이 안 나올 때](http://bahnsville.tistory.com/m/1264)
+
+---
+
+## Eugene Yan
+
+- [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 
 ---
 

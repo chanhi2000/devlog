@@ -114,5 +114,10 @@
     "desc": "📋 React Hooks for form state management and validation (Web + React Native)",
     "officialSite": "https://react-hook-form.com",
     "topics": ["dx", "form-builder", "forms", "react-hooks", "react-native", "reactjs", "typescript", "ux", "validation"]
+  }, {
+    "repo": "holtzy/react-graph-gallery",
+    "desc": "A set of graph examples showing how to make react and d3.js work together",
+    "officialSite": "https://www.react-graph-gallery.com",
+    "topics": ["d3js", "data", "dataviz", "react"]
   }
 ]

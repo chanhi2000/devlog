@@ -255,7 +255,17 @@ head:
 }
 ```
 
-<!-- END frontendmasters.com -->
+```component VPCard
+{
+  "title": "Popovers Work Pretty Nicely as Slide-Out Drawers",
+  "desc": "Especially on mobile, the slide-out drawer UI/UX seems like a perfect fit for a popover, and works fine on desktop too.",
+  "link": "/explore/articles/frontendmasters.com/popovers-work-pretty-nicely-as-slide-out-drawers.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+<!-- END: frontendmasters.com -->
 
 ---
 

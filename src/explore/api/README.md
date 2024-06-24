@@ -1400,6 +1400,13 @@ https://mdis.kostat.go.kr/index.do
 }
 ```
 
+<SiteInfo
+  name="Web Check"
+  desc="All-in-one OSINT tool, for quickly checking a websites data"
+  url="https://v1.web-check.xyz/"
+  logo="https://v1.web-check.xyz/favicon.ico"
+  preview="https://v1.web-check.xyz/banner.png"/>
+
 - https://www.emailjs.com/docs
 - https://open.kickbox.com
 - https://verifier.meetchopra.com/

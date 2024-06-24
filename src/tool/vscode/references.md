@@ -36,6 +36,7 @@ tag:
 
 ### <FontIcon icon="fa-brands fa-python"/>Python
 
+- [Package Management in the Python extension for Visual Studio Code](https://devblogs.microsoft.com/python/python-package-management-proposal/)
 - [Python Linting in Visual Studio Code – Hinting and Linting Video Series](https://devblogs.microsoft.com/python/python-linting-video/)
 
 ---
@@ -147,6 +148,7 @@ tag:
 - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/1842)
 - [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/2328)
 - [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/2101)
+- [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
 
 ---
 

@@ -65,4 +65,10 @@ tag:
 
 ---
 
+## 멈춤보단 천천히라도
+
+- [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
+
+---
+
 <TagLinks />

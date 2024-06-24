@@ -71,7 +71,7 @@ Before you begin coding, please ensure you have the following:
 
 - [<FontIcon icon="fa-brands fa-node"/>Node.js](https://nodejs.org/en) installed on your system.
 - A basic understanding of [<FontIcon icon="fa-brands fa-react"/>React.js](https://react.dev/).
-- A code editor that you prefer, such as [<FontIcon icon="iconfont icon-vscode"/>Visual Studio Code](https://code.visualstudio.com/), or [<FontIcon icon="iconfont icon-sublimetext"/>Sublime Text](https://www.sublimetext.com/download).
+- A code editor that you prefer, such as [<FontIcon icon="iconfont icon-vscode"/>Visual Studio Code](https://code.visualstudio.com/), or [<FontIcon icon="iconfont icon-subl"/>Sublime Text](https://www.sublimetext.com/download).
 
 ---
 

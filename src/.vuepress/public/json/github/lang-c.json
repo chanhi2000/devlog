@@ -1074,5 +1074,15 @@
     "desc": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "jart/cosmopolitan",
+    "desc": "build-once run-anywhere c library",
+    "officialSite": "",
+    "topics": ["bios", "containers", "darwin", "efi", "freebsd", "libc", "linux", "netbsd", "openbsd", "polyglot", "windows", "zip"]
+  }, {
+    "repo": "dojoe/Twonkie",
+    "desc": "A USB-PD sniffer/injector/sink based on Google's Twinkie, re-designed to be manufactured by mere mortals.",
+    "officialSite": "",
+    "topics": []
   }
 ]

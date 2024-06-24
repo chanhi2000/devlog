@@ -4,12 +4,7 @@
     "desc": "JavaScript Style Guide",
     "officialSite": "",
     "topics": ["javascript", "styleguide", "eslint", "es6", "style-linter", "linting", "style-guide", "es2015", "naming-conventions", "arrow-functions", "es2017", "es2016", "tc39", "es2018"]
-  }, {
-    "repo": "goldbergyoni/nodebestpractices",
-    "desc": "✅ The Node.js best practices list (July 2023)",
-    "officialSite": "https://twitter.com/nodepractices",
-    "topics": ["nodejs", "javascript", "testing", "npm", "styleguide", "express", "microservices", "rest", "mocha", "types", "eslint", "es6", "jest", "style-guide", "best-practices", "expressjs", "node-js", "nodejs-development"]
-  }, {
+}, {
     "repo": "trekhleb/javascript-algorithms",
     "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "officialSite": "",
@@ -224,5 +219,10 @@
     "desc": "📜 33 JavaScript concepts every developer should know.",
     "officialSite": "",
     "topics": ["angular", "concepts", "es6", "es6-javascript", "hacktoberfest", "javascript", "javascript-closures", "javascript-engines", "javascript-programming", "nodejs", "primitive-types", "programming", "react"]
+  }, {
+    "repo": "ericdiviney/react-handbook",
+    "desc": "⚛🤌 Modern approaches to architecture and feature development in React apps.",
+    "officialSite": "https://reacthandbook.dev",
+    "topics": ["react", "react-applications", "react-architecture", "react-best-practices", "react-typescript", "reactjs"]
   }
 ]

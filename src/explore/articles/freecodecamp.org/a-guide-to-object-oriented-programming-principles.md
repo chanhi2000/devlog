@@ -2,7 +2,7 @@
 lang: ko-KR
 title: A Guide to Object-Oriented Programming Principles
 description: Article(s) > A Guide to Object-Oriented Programming Principles
-icon: iconfont icon-spring
+icon: fa-brands fa-java
 category: 
   - Java
   - Article(s)

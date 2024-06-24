@@ -1392,7 +1392,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 }
 ```
 
-
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 4.0 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-3-1-to-4-0.playground.zip)
 
 :::
@@ -1428,7 +1427,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
 
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 3.1 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-3-0-to-3-1.playground.zip)
 
@@ -1485,7 +1483,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
 
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 3.0 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-2-2-to-3-0.playground.zip)
 

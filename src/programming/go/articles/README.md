@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - learnk8s.io
   - yozm.wishket.com
   - tech.kakao.com
   - popit.kr
@@ -129,6 +130,24 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+---
+
+## Learnk8s — the Kubernetes training company
+
+> learnk8s.io
+
+```component VPCard
+{
+  "title": "Implementing a custom Kubernetes authentication method",
+  "desc": "Kubernetes allows binding a cluster to arbitrary authentication methods. In this article, you will learn how to implement LDAP authentication for your Kubernetes cluster.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-custom-authentication.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+<!-- END: learnk8s.io -->
 
 ---
 

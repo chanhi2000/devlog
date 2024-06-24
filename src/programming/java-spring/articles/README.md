@@ -12,6 +12,7 @@ tag:
   - freecodecamp.org
   - learnk8s.io
   - yozm.wishket.com
+  - tech.kakao.com
   - kt.academy
   - rutgo-letsgo.tistory.com
   - meetup.nhncloud.com
@@ -57,6 +58,16 @@ head:
   "link": "https://yozm.wishket.com/magazine/list/develop/", 
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "카카오테크, 미래의 문턱을 낮추는 기술",
+  "desc": "미래의 문턱을 낮추는 기술",
+  "link": "https://tech.kakao.com/blog/",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
 }
 ```
 
@@ -163,6 +174,16 @@ head:
 ## Learnk8s — the Kubernetes training company
 
 > learnk8s.io
+
+```component VPCard
+{
+  "title": "Scaling Microservices with Message Queues, Spring Boot and Kubernetes",
+  "desc": "Learn how to scale SpringBoot apps in Kubernetes using the autoscaler and a message broker such as Kafka, RabbitMQ or ActiveMQ.",
+  "link": "/explore/articles/learnk8s.io/scaling-spring-boot-microservices.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -295,6 +316,42 @@ head:
   "background": "rgba(254,89,73,0.2)"
 }
 ```
+
+---
+
+## <FontIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
+
+> tech.kakao.com
+
+```component VPCard
+{
+  "title": "코틀린을 활용한 안전한 효과 처리",
+  "desc": "안녕하세요, 전자문서 서비스의 서버를 개발하고 있는 Alan입니다. 스프링(Spr...",
+  "link": "/explore/articles/tech.kakao.com/622.md",
+  "logo": "https://www.kakaocorp.com/page/favicon.ico",
+  "background": "rgba(53,79,245,0.2)"
+}
+```
+
+<!-- END: tech.kakao.com -->
+
+---
+
+## <FontIcon icon="iconfont icon-kakao"/>카카오페이 기술 블로그
+
+> tech.kakaopay.com
+
+```component VPCard
+{
+  "title": "R2DBC Connection Pool 실종 사건 (1) 디자인을 코드로 만들어보자!",
+  "desc": "Spring Boot 애플리케이션 시작 시 R2DBC Connection Pool이 초기화되지 않는 원인과 해결 방법, 그리고 IntelliJ가 문제 해결에 미친 영향에 대해 소개합니다...",
+  "link": "/explore/articles/tech.kakaopay.com/r2dbc-connection-pool-missing.md",
+  "logo": "https://tech.kakaopay.com/favicon.ico",
+  "background": "rgba(255,84,15,0.2)"
+}
+```
+
+<!-- END: tech.kakaopay.com -->
 
 ---
 

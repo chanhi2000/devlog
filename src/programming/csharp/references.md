@@ -51,6 +51,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`prosetech` / Introducing C#12’s Future Features](https://yc.prosetech.com/introducing-c-12s-future-features-dba08439c92e)
 - [Building a Dashboard with ASP.NET Core and DotVVM](https://medium.com/dotvvm/building-a-dashboard-with-asp-net-core-and-dotvvm-b0439a489a9c)
 - [Unit Testing with xUnit in ASP.NET Core](https://malshikay.medium.com/unit-testing-with-xunit-in-asp-net-core-86dbbda6f651)
 - [Fast Builds: Make a URL Shortener With .NET](https://medium.com/swlh/fast-builds-make-a-url-shortener-with-net-ff3d9206c503)
@@ -69,6 +70,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`appwrite` / Build A Todo API With .NET And Appwrite](https://dev.to/appwrite/build-a-todo-api-with-net-and-appwrite-218d)
 - [`bytehide` / Leaked .NET 8 Features! 5 New Cool Things Added](https://dev.to/bytehide/leaked-net-8-features-5-new-cool-things-added-1gmm)
 - [`sukkergris` / Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
 - [`adrianbailador` / Design Patterns in C#](https://dev.to/adrianbailador/design-patterns-in-c-n9)
@@ -103,6 +105,7 @@ tag:
 
 ## abuhakmeh
 
+- [.NET 8 TimeProvider and Unit Tests](https://khalidabuhakmeh.com/dotnet-8-timeprovider-and-unit-tests)
 - [Resolve Multiple Types In ASP.NET Core](https://khalidabuhakmeh.com/resolve-multiple-types-in-aspnetcore)
 
 ---
@@ -213,6 +216,7 @@ tag:
 
 ## Steven-Giesel
 
+- [Why I like and prefer xUnit](https://steven-giesel.com/blogPost/c24c5326-22f4-4035-9f87-a20e4814121d)
 - [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
 
 ---
@@ -435,6 +439,12 @@ tag:
 ## The New Stack | DevOps, Open Source, and Cloud Native News
 
 - [Reviewing Code With GPT-4o, OpenAI’s New ‘Omni’ LLM](https://thenewstack.io/reviewing-code-with-gpt-4o-openais-new-omni-llm/)
+
+---
+
+## Bruno Sonnino - Thoughts about development
+
+- [Log Formatters in C#](https://blog.revolution.com.br/2023/07/17/log-formatters-in-c/)
 
 ---
 

@@ -7,6 +7,7 @@ export const template: SidebarInfoTemplate = {
     [
     "java", [
       "a-guide-to-object-oriented-programming-principles", // 2024-06-19    
+      "introduction-to-solid-principles", // 2024-06-24
     ]],[
     "java-spring",[
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
@@ -64,6 +65,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom", // 2024-06-17
       "how-to-enhance-embedded-links-in-react-with-microlinks", // 2024-06-18
       "what-are-controlled-and-uncontrolled-components-in-react", // 2024-06-21
+      "react-how-to-validate-user-input", // 2024-06-24
+      "whats-new-in-react-19", // 2024-06-25
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
@@ -77,6 +80,7 @@ export const template: SidebarInfoTemplate = {
     "css", [
       "how-to-add-media-to-your-html-email-template", // 2024-04-23
       "how-to-create-a-mansory-layout-using-html-and-css", // 2024-06-18
+      "breakpoints-for-responsive-web-design", // 2024-06-24
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
@@ -84,6 +88,7 @@ export const template: SidebarInfoTemplate = {
     "npm", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
       "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
+      "when-to-use-npm-packages", // 2024-06-24
     ]],[
     "py", [
       "how-to-parse-a-string-in-python", // 2023-05-04
@@ -180,6 +185,7 @@ export const template: SidebarInfoTemplate = {
       "build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage",  // 2024-05-10
       "master-the-azure-devops-engineer-expert-certification-az-400", // 2024-06-06
       "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
+      "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
     ]],[
     "k8s", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -194,6 +200,9 @@ export const template: SidebarInfoTemplate = {
     "selenium", [
       "empire-state-building-run-up-analysis-with-python", // 2024-05-08
     ]],[
+    "vim", [
+      "mastering-vim-your-guide-to-efficient-text-editing", // 2024-06-24
+    ]],[
     "postgres", [
       "postgresql-indexing-strategies", // 2023-05-12
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -206,6 +215,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
       "auto-scaling-and-load-balancing", // 2024-06-17
       "best-practices-for-accessibility-in-web-development", // 2024-06-20
+      "breakpoints-for-responsive-web-design", // 2024-06-24
     ]],[
     "pm", [
       "what-is-trunk-based-development", // 2024-06-18
@@ -213,6 +223,7 @@ export const template: SidebarInfoTemplate = {
     "ai", [
       "a-non-technical-introduction-to-generative-ai", // 2024-06-18
       "generative-ai-handbook", // 2024-06-20
+      "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -341,6 +352,13 @@ export const template: SidebarInfoTemplate = {
       "learn-to-create-a-3d-rpg-game-with-godot", // 2024-06-20
       "generative-ai-handbook", // 2024-06-20
       "what-are-controlled-and-uncontrolled-components-in-react", // 2024-06-21
+      "introduction-to-solid-principles", // 2024-06-24
+      "mastering-vim-your-guide-to-efficient-text-editing", // 2024-06-24
+      "when-to-use-npm-packages", // 2024-06-24
+      "breakpoints-for-responsive-web-design", // 2024-06-24
+      "react-how-to-validate-user-input", // 2024-06-24
+      "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
+      "whats-new-in-react-19", // 2024-06-25
     ]],
   ]),
 }

@@ -261,6 +261,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Templating YAML in Kubernetes with real code",
+  "desc": "Learn how you can parametrise resource definitions with yq, kustomize and real code.",
+  "link": "/explore/articles/learnk8s.io/templating-yaml-with-code.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Deploying Node.js apps in EKS",
   "desc": "Learn how to deploy a Node.js app on Kubernetes with EKS and scale to millions of requests.",
   "link": "/explore/articles/learnk8s.io/deploying-nodejs-kubernetes-eks.md",

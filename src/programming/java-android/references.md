@@ -85,6 +85,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`proandroiddev` / Building a widget using Jetpack Glance](https://proandroiddev.com/building-a-widget-using-jetpack-glance-59317dfbfe9)
 - [`androiddevelopers` / What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43)
 - [Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
@@ -172,10 +173,10 @@ tag:
 
 ### Android Developers Blog
 
-- [How to effectively A/B test power consumption for your Android app's features](https://android-developers.googleblog.com/2024/04/how-to-effectively-ab-test-power-consumption-for-your-android-app-features.html)
-
-- [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
+- [Deep dive into Live Edit for Jetpack Compose UI](https://android-developers.googleblog.com/2023/07/deep-dive-into-live-edit-for-jetpack-compose-ui.html)
 - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
+- [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
+- [How to effectively A/B test power consumption for your Android app's features](https://android-developers.googleblog.com/2024/04/how-to-effectively-ab-test-power-consumption-for-your-android-app-features.html)
 
 ---
 
@@ -224,6 +225,7 @@ tag:
 - [\[정리\] Compose 가이드 문서 ~ Animation](https://pluu.github.io/blog/android/2024/06/06/compose/)
 - [\[정리\] Compose 가이드 문서 ~ 터치&입력](https://pluu.github.io/blog/android/2024/06/15/compose/)
 - [\[정리\] Compose 가이드 문서 ~ Performance](https://pluu.github.io/blog/android/2024/06/19/compose/)
+- [Blog: \[요약\] Designing scalable Compose APIs (Google I/O '24)](http://pluu.github.io/blog/android/io24/2024/06/23/io24-Designing-scalable-Compose-APIs/)
 
 ---
 
@@ -318,6 +320,7 @@ tag:
 
 ## Darryl Bayliss
 
+- [Jetpack Compose for Maps](https://www.darrylbayliss.net/jetpack-compose-for-maps/)
 - [Playing Simon Says with Gemma-2b and MediaPipe](https://www.darrylbayliss.net/playing-simon-says-with-gemma-and-mediapipe/)
 
 ---

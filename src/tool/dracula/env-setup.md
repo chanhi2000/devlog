@@ -109,7 +109,7 @@ Nerd Fonts are required for the Dracula theme. To display all icons, the use of 
 
 ---
 
-## <FontIcon icon="iconfont icon-sublimetext"/>Sublime Text
+## <FontIcon icon="iconfont icon-subl"/>Sublime Text
 
 <SiteInfo
   name="Sublime Text"

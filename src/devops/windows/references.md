@@ -126,6 +126,8 @@ tag:
 
 - [Windows에서 웹 개발 환경 만들기 ( WampServer : MariaDB, PHP, MySQL, PhpMyAdmin )](http://webnautes.tistory.com/1206)
 - [윈도우와 우분투 듀얼 부팅시 윈도우 시간 안 맞는 문제 해결](https://webnautes.tistory.com/2319)
+- [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
+- [Windows에 설치한 WSL2 및 Ubuntu 삭제하는 방법](https://webnautes.tistory.com/m/2013)
 
 ---
 

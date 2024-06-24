@@ -82,6 +82,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Create a ML Model with Azure Machine Learning Designer",
+  "desc": "Did you know that you can create machine learning models without writing any code? If you’re here, you’re probably curious about how to achieve this. In this article, I will guide you through building a regression model that predicts automobile prices using Azure Machine Learning’s Low-Code/No-Code tools.  Regression is...",
+  "link": "/explore/articles/freecodecamp.org/create-an-ml-model-with-azure-machine-learning-designer.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

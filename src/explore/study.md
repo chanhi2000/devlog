@@ -684,6 +684,20 @@ https://www.joinc.co.kr/w/Site
   logo="https://catalogue.projectsbyif.com/images/favicon-16x16.png?v=WGoJrwxmWP"
   preview="https://catalogue.projectsbyif.com/images/IF-logo%e2%80%93regular.svg"/>
 
+<SiteInfo
+  name="Welcome to this course! — From zero to hero. End to end data applications with SQL and Jupyter"
+  desc="In this course you will learn how to develop and deploy an end to end data application with SQL, Python and Jupyter notebooks."
+  url="https://ploomber-sql.readthedocs.io/en/latest/"
+  logo="https://ploomber-sql.readthedocs.io/favicon.ico"
+  preview="https://ploomber-sql.readthedocs.io/en/latest/_static/logo.jpg"/>
+
+<SiteInfo
+  name="Git and Jupyter Notebooks: The Ultimate Guide"
+  desc="We show you best practices, workflows, and tools to solve all Jupyter Notebooks <--> Git challenges."
+  url="https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide"
+  logo="https://assets-global.website-files.com/5ba4ebe021cb91ae35dbf88c/5ba893b3b828fc1916538bc4_android-chrome-256x256.png"
+  preview="https://assets-global.website-files.com/5ba4ebe021cb91ae35dbf88c/64915b58cd0e65617546326a_github_jupyter_hero_image.jpeg"/>
+
 <!-- @end Crashcourse -->
 
 @tab Cheatsheet
@@ -754,6 +768,16 @@ https://www.joinc.co.kr/w/Site
   "link": "https://www.conventionalcommits.org/en/v1.0.0/",
   "logo": "https://www.conventionalcommits.org/favicon.ico",
   "background": "rgba(249,102,113,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "React Handbook",
+  "desc": "Modern approaches to architecture and feature development for production-ready React apps.",
+  "link": "https://reacthandbook.dev/",
+  "logo": "https://reacthandbook.dev/apple-touch-icon.png",
+  "background": "rgba(14,165,233,0.2)"
 }
 ```
 

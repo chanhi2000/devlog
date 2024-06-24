@@ -32,6 +32,7 @@ head:
 
 ## <FontIcon icon="iconfont icon-tailwindcss"/>
 
+- [Tailwind Connect 2023: Recap of our first in-person event](https://tailwindcss.com/blog/2023-07-18-tailwind-connect-2023-recap)
 - [Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 
 ---

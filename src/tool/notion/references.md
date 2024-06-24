@@ -10,6 +10,15 @@ category:
 tag: 
   - productivity
   - notion
+  - notion.so
+head:
+  - - meta:
+    - property: og:title
+      content: Notion > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/notion/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

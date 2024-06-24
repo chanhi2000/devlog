@@ -54,6 +54,7 @@ head:
 - [홍채와 섬모체](https://javalab.org/iris_and_ciliary_body/)
 - [중력](https://javalab.org/gravity/)
 - [소리의 스펙트럼 분석 2](https://javalab.org/sound_fft_2/)
+- [자석(or 지구) 주위의 자기장](https://javalab.org/magnet/)
 
 ---
 

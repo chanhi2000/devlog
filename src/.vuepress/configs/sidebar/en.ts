@@ -88,6 +88,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/git/articles/README.md',
+            asb.learnk8s("git"),
             asb.yozm("git"),
             asb.d2("git"),
             asb.nhn("git"),
@@ -209,6 +210,8 @@ export const sidebarEn = sidebar({
             asb.yozm("java-spring"),
             asb.ktAcademy("kotlin-spring"),
             asb.rutgoLetsgo("java-spring"),
+            asb.kakaoTech("kotlin-spring"),
+            asb.kakaoPayTech("java-spring"),
             asb.nhn("java-spring"),
             asb.d2("java-spring"), 
             asb.woowahan("java-spring"),
@@ -1018,6 +1021,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/go/articles/README.md',
             asb.freecodecamp("go"),
+            asb.learnk8s("go"),
             asb.yozm("go"),
             asb.popit("go"),
             asb.d2("go"),
@@ -1096,6 +1100,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/php/articles/README.md',
             asb.freecodecamp("php"),
+            asb.learnk8s("php"),
           ]
         }
       ]
@@ -1506,7 +1511,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Sublime Text',
       collapsible: true,
-      icon: 'iconfont icon-sublimetext',
+      icon: 'iconfont icon-subl',
       children: [
         '/tool/sublimetext/README.md',
         '/tool/sublimetext/plugins.md',
@@ -1631,6 +1636,48 @@ export const sidebarEn = sidebar({
         '/tool/notion/README.md',
         '/tool/notion/references.md',
         '/tool/notion/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/notion/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Notion',
+      collapsible: true,
+      icon: 'iconfont icon-notion',
+      children: [
+        '/tool/notion/README.md',
+        '/tool/notion/references.md',
+        '/tool/notion/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/notion/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Obsedian',
+      collapsible: true,
+      icon: 'iconfont icon-obsedian',
+      children: [
+        '/tool/obsedian/README.md',
+        '/tool/obsedian/references.md',
+        '/tool/obsedian/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/obsedian/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'Figma',
@@ -1721,6 +1768,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/vim/articles/README.md',
+            asb.freecodecamp("vim"),
             asb.yozm("vim"),
           ]
         },
@@ -2965,6 +3013,7 @@ export const sidebarEn = sidebar({
       icon: 'fas fa-language',
       children: [
         '/ai/llm/README.md',
+        '/ai/llm/hugging-face.md',
         '/ai/llm/references.md',
         '/ai/llm/youtube.md',
         {
@@ -3184,6 +3233,7 @@ export const sidebarEn = sidebar({
         asb.digitalocean(),
         asb.learnk8s(),
         asb.kakaoTech(), 
+        asb.kakaoPayTech(), 
         asb.yozm(), 
         asb.popit(), 
         asb.devkuma(),

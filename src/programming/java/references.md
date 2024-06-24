@@ -480,6 +480,7 @@ tag:
 ### 이모저모 개발 블로그
 
 - [\# 15_Parameter_파최몇_파라미터_최대_몇개까지_가능](https://hj0216.tistory.com/m/921)
+- [# 16_NULL_널_생각해](https://hj0216.tistory.com/m/922)
 
 ### Lifealong
 
@@ -492,6 +493,16 @@ tag:
 ### nipafx // You. Me. Java.
 
 - [How To Use switch In Modern Java](https://nipafx.dev/java-switch/)
+
+### 기억보단 기록을
+
+- [\[Mac\] Java 21 & Gradle 8 설치하기](https://jojoldu.tistory.com/m/789)
+
+---
+
+## stulle123's Blog
+
+- [1-click Exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
 
 ---
 
@@ -506,6 +517,7 @@ tag:
 
 ### <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
+- [Introducing Kotlin Notebook](https://blog.jetbrains.com/kotlin/2023/07/introducing-kotlin-notebook/)
 - [Kandy: the new Kotlin plotting library by JetBrains](https://blog.jetbrains.com/kotlin/2023/12/kandy-the-new-kotlin-plotting-library-by-jetbrains)
 - [A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
 
@@ -541,6 +553,7 @@ tag:
 
 ### <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`pragmatic-programmers` / Designing a Functional Library](https://medium.com/pragmatic-programmers/designing-a-functional-library-4d6b94a4449a)
 - [`@khush.panchal123` - `PriorityDispatcher` — Priority based Dispatcher in Kotlin Coroutines](https://medium.com/@khush.panchal123/prioritydispatcher-dispatcher-based-on-priority-queue-035cebd6f96a)
 - [`vivienmahe` - How to publish your Kotlin Multiplatform library on Maven Central](https://vivienmahe.medium.com/how-to-publish-your-kotlin-multiplatform-library-on-maven-central-5340deff7ee5)
 - [`towardsdev` - Ktor — First Steps With the Creation of Native Images](https://towardsdev.com/ktor-first-steps-with-the-creation-of-native-images-5e552c649f37)
@@ -712,8 +725,9 @@ tag:
 
 ### 연로그
 
-- [[Reactor] 서버 느리게 만드는 API 개발하기 (feat: `block`)](https://yeonyeon.tistory.com/m/330)
+- [\[Reactor\] 서버 느리게 만드는 API 개발하기 (feat: `block`)](https://yeonyeon.tistory.com/m/330)
 - [왜 코루틴을 써야할까?](https://yeonyeon.tistory.com/m/332)
+- [\[Coroutine\] 코루틴 빌더, 코루틴 컨텍스트](https://yeonyeon.tistory.com/m/333)
 
 ### Yun Blog
 

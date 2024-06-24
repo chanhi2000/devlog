@@ -10,6 +10,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - yozm.wishket.com
   - cli
   - vi
@@ -26,6 +27,13 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
 ```component VPCard
 {
   "title": "요즘IT", 
@@ -37,6 +45,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "Mastering VIM: Your Guide to Efficient Text Editing",
+  "desc": "VIM is a highly configurable text editor that enables efficient text editing, and it's favored by many developers and system administrators for its powerful capabilities and extensive customization options. We just posted a course on the freeCodeCamp...",
+  "link": "/explore/articles/freecodecamp.org/mastering-vim-your-guide-to-efficient-text-editing.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 
@@ -53,6 +79,8 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

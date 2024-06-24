@@ -68,6 +68,7 @@ head:
 ## 기억보단 기록을
 
 - [[IntelliJ] Mac에서 IntelliJ <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
+- [\[Mac\] Java 21 & Gradle 8 설치하기](https://jojoldu.tistory.com/m/789)
 
 ---
 
@@ -223,6 +224,8 @@ head:
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
 - [“맥이 느려졌어요” 속도 개선 팁 20가지](https://www.itworld.co.kr/news/330839)
+- [아이폰 미러링, '애플 인텔리전스보다 더 자주 쓸' 실생활 밀착 기능](https://itworld.co.kr/news/340519)
+- [“바탕 화면에 아이폰 띄워서 쓴다” 최신 맥OS 세쿼이아 신기능 6가지](https://itworld.co.kr/news/340099)
 
 ---
 
@@ -282,16 +285,15 @@ head:
 
 ---
 
-## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
-
-- [아이폰 미러링, '애플 인텔리전스보다 더 자주 쓸' 실생활 밀착 기능](https://itworld.co.kr/news/340519)
-- [“바탕 화면에 아이폰 띄워서 쓴다” 최신 맥OS 세쿼이아 신기능 6가지](https://itworld.co.kr/news/340099)
-
----
-
 ## thatvirtualboy
 
 - [WWDC24 Bento Summaries](https://thatvirtualboy.com/wwdc24-bentos/)
+
+---
+
+## Foon by Robin Allen
+
+- [Fixing QuickLook](https://foon.uk/fixing-quicklook/)
 
 ---
 

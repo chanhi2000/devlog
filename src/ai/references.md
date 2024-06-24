@@ -43,6 +43,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@euisuk-chung` / \[트리\] 트리 기반 ML 알고리즘](https://velog.io/@euisuk-chung/%ED%8A%B8%EB%A6%AC-%ED%8A%B8%EB%A6%AC-%EA%B8%B0%EB%B0%98-ML-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
+---
+
 ## Substack
 
 - [`aisnakeoil` / Scientists should use AI as a tool, not an oracle](https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool)
@@ -155,6 +161,12 @@ head:
 ## Buttondown
 
 - [`geoffreylitt` / Towards universal version control with Patchwork](https://buttondown.email/geoffreylitt/archive/towards-universal-version-control-with-patchwork/)
+
+---
+
+## Evans Library
+
+- [지금 프로그래밍을 하고 있는 당신은 누구인가](https://evan-moon.github.io/2024/06/23/perspective-on-ai/)
 
 ---
 

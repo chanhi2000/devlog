@@ -15,6 +15,7 @@ tag:
   - meetup.nhncloud.com
   - d2.naver.com
   - blog.gangnamunni.com
+  - tech.kakaopay.com
   - kt.academy
   - engineering.linecorp.com
   - java
@@ -80,6 +81,13 @@ head:
   preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
 <SiteInfo
+  name="카카오페이 기술 블로그"
+  desc="기술과 경험을 함께 공유합니다."
+  url="https://tech.kakaopay.com/"
+  logo="https://tech.kakaopay.com/favicon.ico"
+  preview="https://tech.kakaopay.com/_astro/techlog.c831e159_Z12ejLo.png"/>
+
+<SiteInfo
   name="Kt. Academy"
   desc="Teaching programming, with focus on the best practices."
   url="https://kt.academy/article"
@@ -109,6 +117,16 @@ head:
   "title": "A Guide to Object-Oriented Programming Principles",
   "desc": "A programming language is generally classified based on its support for one or more paradigms. Object-oriented programming is one such paradigm, where the code is organized as objects. It is used to develop desktop and mobile applications or more complex web or enterprise applications. Using object-oriented programming, you can build...",
   "link": "/explore/articles/freecodecamp.org/a-guide-to-object-oriented-programming-principles.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What are the SOLID Principles in Java? Explained With Code Examples",
+  "desc": "In this article, you'll learn about the SOLID principles. You'll gain an understanding of each principle along with Java code examples. SOLID principles are a set of five design principles used in object-oriented programming. Adhering to these principles will help you develop robust software. They will make your code more...",
+  "link": "/explore/articles/freecodecamp.org/introduction-to-solid-principles.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -327,6 +345,8 @@ head:
   "background": "rgba(255,84,15,0.2)"
 }
 ```
+
+<!-- END: blog.gangnamunni.com -->
 
 ---
 

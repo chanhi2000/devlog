@@ -12,6 +12,14 @@ tag:
   - notion
   - git
   - github
+head:
+  - - meta:
+    - property: og:title
+      content: Notion > Github
+    - property: og:description
+      content: Github
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/notion/github.html
 ---
 
 # {{ $frontmatter.title }} 관련

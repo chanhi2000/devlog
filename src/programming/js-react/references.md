@@ -145,6 +145,7 @@ head:
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about React](https://dev.to/t/react)
+- [`nziokidennis` / React: A comprehensive Guide to Beginners](https://dev.to/nziokidennis/react-a-comprehensive-guide-to-beginners-1nh0)
 - [`woovi` / Server-side Rendering (SSR) From Scratch with React](https://dev.to/woovi/server-side-rendering-ssr-from-scratch-with-react-19jm)
 - [`argonauta` / React Advanced: Decoupling your components in the right way](https://dev.to/argonauta/react-advance-decoupling-your-components-in-the-right-way-4pkn)
 - [`ricardonunezio` / Making React Apps Memory Efficient | Million.js Beyond Speed](https://dev.to/ricardonunezio/millionjs-beyond-speed-making-react-apps-memory-efficient-2amn)
@@ -168,7 +169,7 @@ head:
 - [`@miracool` How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
 - [`itswillt` - ⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8?ref=dailydev)
 - [`ajones_codes` / A Better Guide To Forms in React](https://dev.to/ajones_codes/a-better-guide-to-forms-in-react-47f0)
-- [`rasaf_ibrahim` / React Performance Booster - Introduction to the `useMemo` hook](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i)
+- [`rasaf_ibrahim` / React Performance Booster - Introduction to the `uemo` hook](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i)
 - [🪄✨Building a blog with a liking feature using React, Hanko and Novu 🔥](https://dev.to/novu/building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81)
 
 ---
@@ -382,6 +383,8 @@ head:
 
 ## Vercel
 
+- [How React 18 Improves Application Performance](https://vercel.com/blog/how-react-18-improves-application-performance)
+- [Understanding React Server Components](https://vercel.com/blog/understanding-react-server-components)
 - [Containing multi-site management within a single codebase](https://vercel.com/blog/wunderman-thompson-composable-workflow)
 - [Building an interactive 3D event badge with React Three Fiber](https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber)
 
@@ -787,6 +790,7 @@ https://o-yeon.tistory.com/227
 
 ## TkDodo's blog
 
+- [React Query and React Context](https://tkdodo.eu/blog/react-query-and-react-context)
 - [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
 - [Why You Want Need React Query](https://tkdodo.eu/blog/why-you-want-react-query)
 - [Zustand and React Context](https://tkdodo.eu/blog/zustand-and-react-context)
@@ -960,5 +964,36 @@ https://o-yeon.tistory.com/227
 
 - [\[Error\] Warning: Received `true` for a non-boolean attribute `className`.](https://zinee-world.tistory.com/m/648)
 
+---
+
+## Valuable products. Unstoppable teams. Transformed organizations. - Lab Zero
+
+- [Upgrading an Ancient React Application](https://labzero.com/blog/upgrading-an-ancient-react-application)
+
+---
+
+## Continuous Integration & Delivery - Semaphore
+
+- [How to Build a Routing Layer in React and Why You Need It](https://semaphoreci.com/blog/routing-layer-react)
+
+---
+
+## Matt Wolfe
+
+- [The Power of Mocking in Unit Tests](https://matthewwolfe.github.io/blog/mocking-in-unit-tests)
+
+---
+
+## Echobind | Beautiful apps. Bulletproof code.
+
+- [React Server Components Tips](https://echobind.com/post/react-server-components-tips)
+
+---
+
+## jameskerr.blog
+
+- [React Hook for Avoiding Flash of Empty UI While Data Transitions](https://www.jameskerr.blog/posts/use-data-transition/)
+
+---
 
 <TagLinks />

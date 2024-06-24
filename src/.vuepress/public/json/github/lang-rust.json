@@ -1549,5 +1549,20 @@
     "desc": "Rust library for Media over QUIC",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "farm-fe/farm",
+    "desc": "Extremely fast Vite-compatible web build tool written in Rust",
+    "officialSite": "https://farmfe.org",
+    "topics": ["build-tool", "bundler", "compiler", "farm", "frontend", "hmr", "rust", "typescript", "vite"]
+  }, {
+    "repo": "LGUG2Z/komorebi",
+    "desc": "A tiling window manager for Windows 🍉",
+    "officialSite": "https://lgug2z.github.io/komorebi/",
+    "topics": ["autohotkey", "binary-space-partition", "rust", "tiling-window-manager", "windows"]
+  }, {
+    "repo": "junkdog/tachyonfx",
+    "desc": "shader-like effects library for ratatui applications",
+    "officialSite": "",
+    "topics": ["ratatui", "tui", "tweening"]
   }
 ]

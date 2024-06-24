@@ -64,7 +64,7 @@ head:
 
 ## AI Research Blog
 
- - [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture](https://deeprevision.github.io/posts/001-transformer)
+- [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture](https://deeprevision.github.io/posts/001-transformer)
 
 ---
 

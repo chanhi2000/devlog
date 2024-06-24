@@ -10,6 +10,15 @@ category:
 tags:
   - productivity
   - notion
+  - notion.so
+head:
+  - - meta:
+    - property: og:title
+      content: Notion > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/notion/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -261,6 +261,8 @@ head:
 - [\[내일배움캠프 41일차 TIL\] 테스트 활용 과제](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-41%EC%9D%BC%EC%B0%A8-TIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C)
 - [\[내일배움캠프 42일차 TIL\] 테스트 활용 과제 제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-42%EC%9D%BC%EC%B0%A8-TIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C)
 - [\[내일배움캠프 43일차 TIL\] 테스트 활용 과제 재제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-43%EC%9D%BC%EC%B0%A8-TIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%9E%AC%EC%A0%9C%EC%B6%9C)
+- [\[내일배움캠프 9주차 WIL\] 뉴스피드 프로젝트 마무리 및 Spring 심화(개인과제) 그리고 독서토론](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-9%EC%A3%BC%EC%B0%A8-WIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-Spring-%EC%8B%AC%ED%99%94%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
+- [\[내일배움캠프 46일차 TIL\] 인가 분리와 좋아요 `Transaction` 및 `builder` vs 생성자](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-46%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B8%EA%B0%80-%EB%B6%84%EB%A6%AC%EC%99%80-%EC%A2%8B%EC%95%84%EC%9A%94-Transaction-%EB%B0%8F-builder-vs-%EC%83%9D%EC%84%B1%EC%9E%90)
 
 ### Hide
 
@@ -362,6 +364,9 @@ head:
 - [3.6. 타임리프 플러그인 설치하기](https://ysedeveloper.tistory.com/m/entry/36-%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 - [4.1. h2 database 준비하기](https://ysedeveloper.tistory.com/m/entry/41-h2-database-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
 - [4.2. JPA 연동하기](https://ysedeveloper.tistory.com/m/entry/42-JPA-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+- [5.1. 책 입력 화면 개요](https://ysedeveloper.tistory.com/m/entry/51-%EC%B1%85-%EC%9E%85%EB%A0%A5-%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%9A%94)
+- [5.2. 책 컨트롤러 클래스 생성](https://ysedeveloper.tistory.com/m/entry/52-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%9D%EC%84%B1)
+- [5.3. 책 생성 화면 컨트롤러 메소드 작성](https://ysedeveloper.tistory.com/m/entry/53-%EC%B1%85-%EC%83%9D%EC%84%B1-%ED%99%94%EB%A9%B4-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%9E%91%EC%84%B1)
 
 ### Suhwan Jee's blog
 
@@ -369,6 +374,7 @@ head:
 
 ### Piotr's TechBlog - Java, Spring, Kotlin, microservices, Kubernetes, containers
 
+- [Reactive Spring Boot with WebFlux, R2DBC and Postgres](https://piotrminkowski.com/2023/07/28/reactive-spring-boot-with-webflux-r2dbc-and-postgres/)
 - [Introduction to gRPC with Spring Boot](https://piotrminkowski.com/2023/08/29/introduction-to-grpc-with-spring-boot/)
 
 ### 힘차게, 열심히 공대생

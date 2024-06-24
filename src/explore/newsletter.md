@@ -690,6 +690,13 @@ https://paperlined.org/
 }
 ```
 
+<SiteInfo
+  name="아이지에이웍스 블로그 | 인사이트"
+  desc="IGAWorks는 데이터의 가치를 실현합니다. 수집-분석-정제-활용의 데이터 벨류체인을 연결하고, 이를 모바일 비즈니스에 연결합니다. "
+  url="https://www.igaworksblog.com/"
+  logo="https://static.wixstatic.com/media/4c8897_2c2ffd87d8a040fc9702be0625b245c0%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/4c8897_2c2ffd87d8a040fc9702be0625b245c0%7Emv2.png"
+  preview="https://static.wixstatic.com/media/4c8897_b1ac37ff970c487ab7b51b633e9b3027~mv2.png/v1/fill/w_1200,h_630,al_c/4c8897_b1ac37ff970c487ab7b51b633e9b3027~mv2.png"/>
+
 <!-- @end Trending Korea -->
 
 @tab <FontIcon icon="fas fa-globe"/>Tech Blog
@@ -978,15 +985,12 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 }
 ```
 
-```component VPCard
-{
-  "title": "카카오페이 기술 블로그",
-  "desc": "기술과 경험을 함께 공유합니다.",
-  "link": "https://tech.kakaopay.com/",
-  "logo": "https://tech.kakaopay.com/favicon.ico",
-  "background": "rgba(6,21,40,0.2)"
-}
-```
+<SiteInfo
+  name="카카오페이 기술 블로그"
+  desc="기술과 경험을 함께 공유합니다."
+  url="https://tech.kakaopay.com/"
+  logo="https://tech.kakaopay.com/favicon.ico"
+  preview="https://tech.kakaopay.com/_astro/techlog.c831e159_Z12ejLo.png"/>
 
 ```component VPCard
 {
@@ -1242,16 +1246,6 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 }
 ```
 
-```component VPCard
-{
-  "title": "FONT CLUB",
-  "desc": "뉴스 / 트렌드",
-  "link": "http://www.fontclub.co.kr/?cat=1",
-  "logo": "http://www.fontclub.co.kr/wp-content/uploads/2018/02/favicon.ico",
-  "background": "rgba(93,203,200,0.2)"
-}
-```
-
 <SiteInfo
   name="컬리 기술 블로그"
   desc="컬리 기술 블로그"
@@ -1303,6 +1297,16 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   url="https://nrise.github.io/"
   logo="https://nrise.github.io/images/favicon.ico"
   preview="https://nrise.github.io/images/nrise_cover_image.jpg"/>
+
+```component VPCard
+{
+  "title": "FONT CLUB",
+  "desc": "뉴스 / 트렌드",
+  "link": "http://www.fontclub.co.kr/?cat=1",
+  "logo": "http://www.fontclub.co.kr/wp-content/uploads/2018/02/favicon.ico",
+  "background": "rgba(93,203,200,0.2)"
+}
+```
 
 <!-- @end Tech Blog (Korea) -->
 

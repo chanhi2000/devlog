@@ -45,6 +45,7 @@ tag:
 - [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
 - [Nest.js - 보고서 프로젝트 인증과 인가](https://blog.naver.com/gi_balja/223473547932?)
 - [Nest.js - 보고서 프로젝트 리프레시 토큰](https://blog.naver.com/gi_balja/223487816675)
+- [Nest.js - 보고서 프로젝트 커스텀 데코레이터](https://blog.naver.com/gi_balja/223488374146)
 
 ---
 

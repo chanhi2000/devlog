@@ -36,6 +36,14 @@ head:
 }
 ```
 
+---
+
+## iFixit: The Free Repair Manual
+
+- [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
+
+---
+
 ## Linux Programmer
 
 - [인텔 N100 미니PC (SZBOX W6)](https://sunyzero.tistory.com/295)
@@ -280,6 +288,24 @@ head:
 ## Mudkip Mud Sport
 
 - [A Brief Review of the Minisforum V3 AMD Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
+
+---
+
+## Daddy Maker
+
+- [GPU 거지 딥러닝 서버 만들기](https://daddynkidsmakers.blogspot.com/2024/06/gpu.html)
+
+---
+
+## shraiwi
+
+- [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
+
+---
+
+## Chips and Cheese – The Devil is in the Details
+
+- [Testing AMD’s Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
 
 ---
 

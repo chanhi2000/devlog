@@ -55,4 +55,16 @@ head:
 
 ---
 
+## Brian Kitano
+
+- [Llama from scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/)
+
+---
+
+## Machine Learning Articles | paulbridger.com
+
+- [PyTorch Memory Tuning](https://paulbridger.com/posts/pytorch-memory-tuning/)
+
+---
+
 <TagLinks />

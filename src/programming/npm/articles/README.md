@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - techblog.woowahan.com
   - npm
   - node
@@ -68,6 +69,16 @@ head:
   "title": "How to Host Static Sites on Azure Static Web Apps for Free",
   "desc": "In this article, I will show you how you can host your React/Next.js app or any static web app on Azure Static Web Apps.  I will be showing you both ways of doing it – through the GUI and with the CLI. I assume you already have built a...",
   "link": "/explore/articles/freecodecamp.org/how-to-host-static-sites-on-azure-static-web-apps.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "When to Use NPM Packages – A Guide for Developers",
+  "desc": "You know when you hit a roadblock while coding and think, 'Hey, someone has probably done this before'? That's where npm (Node Package Manager) comes in handy. This huge collection of ready-made code modules created by other developers allows you to plug them into your projects and take advantage of...",
+  "link": "/explore/articles/freecodecamp.org/when-to-use-npm-packages.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -27,7 +27,7 @@ head:
 prev: /programming/js-react/articles/README.md
 date: 2024-06-21
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--1-.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--1-.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,7 +51,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Ivory
   desc="In React.js, managing form inputs and user interactions is a crucial part of building dynamic web applications.  Two key concepts that developers need to understand are controlled and uncontrolled components. These concepts define how form data is handled within a React component.  Controlled components rely on React state..."
   url="https://freecodecamp.org/news/what-are-controlled-and-uncontrolled-components-in-react/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--1-.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--1-.png"/>
 
 <!-- TODO: 작성 -->
 

@@ -2384,5 +2384,20 @@
     "desc": "JavaScript framework for robotics, drones, and the Internet of Things (IoT)",
     "officialSite": "https://cylonjs.com",
     "topics": ["arduino", "beaglebone-black", "bluetooth-low-energy", "chip", "drones", "gpio", "i2c", "intel-edison", "intel-joule", "internet-of-things", "iot", "javascript", "raspberry-pi", "robotics", "sphero"]
+  }, {
+    "repo": "mochajs/mocha",
+    "desc": "☕️ simple, flexible, fun javascript test framework for node.js & the browser",
+    "officialSite": "https://mochajs.org",
+    "topics": ["bdd", "browser", "javascript", "mocha", "mochajs", "node", "nodejs", "tdd", "test", "test-framework", "testing", "testing-tools"]
+  }, {
+    "repo": "jasmine/jasmine",
+    "desc": "Simple JavaScript testing framework for browsers and node.js",
+    "officialSite": "http://jasmine.github.io/",
+    "topics": ["jasmine", "javascript", "tdd", "testing"]
+  }, {
+    "repo": "kelly/flipdisc",
+    "desc": "A javascript library for flipdot and flipdisc displays",
+    "officialSite": "",
+    "topics": ["flipdot-displays", "flipdots", "pixel-art"]
   }
 ]

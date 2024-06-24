@@ -380,6 +380,18 @@ tag:
 
 ---
 
+## Sansec - experts in eCommerce security
+
+- [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
+
+---
+
+## stulle123's Blog
+
+- [1-click Exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
+
+---
+
 ## Project(s)
 
 ```component VPCard

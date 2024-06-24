@@ -158,7 +158,7 @@ tag:
 
 ---
 
-## Brunch 
+## Brunch
 
 - [`@jamess` / 내가 만든 서비스에 사용자가 급증하면 어떻게 해요?](https://brunch.co.kr/@jamess/45)
 - [`@jamess` / 프리랜서가 값싼 프로젝트에서 벗어나지 못하는 이유](https://brunch.co.kr/@jamess/107)
@@ -201,6 +201,21 @@ tag:
 - [`@2fEJ` / 사용자 이해와 가치 창출을 위한 도전 - 프로덕트 매니저가 전문가가 되기 위한 노력 #3](https://brunch.co.kr/@@2fEJ/1349)
 - [`@2fEJ` / 의사결정권자의 UX 개념 향상을 위한 실천 방안 - PM 강의 #14](https://brunch.co.kr/@@2fEJ/1339)
 - [`@ghilbut` / 고소득자는 세금을 많이 내서 존중받아야 한다?!](https://medium.com/@ghilbut/%EA%B3%A0%EC%86%8C%EB%93%9D%EC%9E%90%EB%8A%94-%EC%84%B8%EA%B8%88%EC%9D%84-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EC%84%9C-%EC%A1%B4%EC%A4%91%EB%B0%9B%EC%95%84%EC%95%BC-%ED%95%9C%EB%8B%A4-a1db27fa5086)
+- [`@2rV` / 멘토링을 부탁하고 싶다면? - Gibson Biddle의 멘토링 관계 형성에 대한 조언](https://brunch.co.kr/@@2rV/130)
+- [`@2weV` / 인프라에 투자하는 시대에서의 보통 창업가의 마음가짐](https://brunch.co.kr/@@2weV/515)
+- [`@2fEJ` / PM의 역할과 UX 디자인, 서비스 디자인의의 균형 - UX 디자인 강의 #16](https://brunch.co.kr/@@2fEJ/1365)
+- [`@2fEJ` / 프로덕트 매니저의 성장 경로: 전문가에서 제너럴리스트로 - 프로덕트 매니저가 전문가가 되기 위한 노력 #14](https://brunch.co.kr/@@2fEJ/1361)
+- [`@3L0s` / 디지털 혁신 전술: 거버넌스 설계 - 디지털 혁신-13](https://brunch.co.kr/@@3L0s/116)
+- [`@2rV` / Untrapping product teams](https://brunch.co.kr/@@2rV/129)
+- [`@2fEJ` / 프로덕트 매니저의 성공 비결, 바로 "자기 성찰"이다 - PM 강의 #15](https://brunch.co.kr/@@2fEJ/1366)
+- [`@2hV3` / 프로덕트 디자인 실전 가이드: MVP부터 PMF까지 - 우디의 첫 콜로소 강의 오픈!](https://brunch.co.kr/@@2hV3/236)
+- [`@2rV` / 피드백 잘하기 - Julie Zhuo 글 인용](https://brunch.co.kr/@@2rV/131)
+- [`@2rV` / "디테일을 파고들라"는 함정 - 이를 어렵게 만드는 환경을 애써 외면하는 리더십에 대하여](https://brunch.co.kr/@@2rV/132)
+- [`@2rV` / "디테일을 파고들라"는 함정 - 이를 어렵게 만드는 환경을 애써 외면하는 리더십에 대하여](https://brunch.co.kr/@@2rV/132)
+- [`@2fEJ` / 업무 감각이 부족한 프로젝트 매니저의 극복 방안 - 프로덕트 매니저가 전문가가 되기 위한 노력 #15](https://brunch.co.kr/@@2fEJ/1362)
+- [`@2fEJ` / 사용성 가설 수립의 중요성 - PM 강의 #16](https://brunch.co.kr/@@2fEJ/1368)
+- [`@2weV` / 호기심, 노력, 그리고 내 이야기](https://brunch.co.kr/@@2weV/516)
+- [`@2weV` / 혁신의 본질_더 좋은 것을 더 쉽고 더 저렴하게.](https://brunch.co.kr/@@2weV/517)
 
 ---
 
@@ -351,6 +366,9 @@ tag:
 - [[내일배움캠프 1주차 WIL] 미니 프로젝트 및 코딩 테스트](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%A3%BC%EC%B0%A8-WIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B)
 - [[내일배움캠프 4주차 WIL] 프로그래밍 기초 팀 프로젝트 마무리 및 독서토론](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-4%EC%A3%BC%EC%B0%A8-WIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
 - [[내일배움캠프 19일차 TIL] 팀 프로젝트 발표 및 KPT 회고](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-19%EC%9D%BC%EC%B0%A8-TIL-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C-%EB%B0%8F-KPT-%ED%9A%8C%EA%B3%A0)
+- [\[내일배움캠프 10주차 WIL\] 테스트 코드 개인과제 및 아웃소싱 프로젝트 그리고 독서토론(feat. 구의 증명)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-10%EC%A3%BC%EC%B0%A8-WIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EB%B0%8F-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0feat-%EA%B5%AC%EC%9D%98-%EC%A6%9D%EB%AA%85)
+- [\[내일배움캠프 48일차 TIL\] 아웃소싱 프로젝트 (feat. KPT 회고)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-48%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-feat-KPT-%ED%9A%8C%EA%B3%A0)
+- [\[내일배움캠프 47일차 TIL\] 아웃소싱 프로젝트 마무리 및 수정](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-47%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EC%88%98%EC%A0%95)
 
 ---
 
@@ -429,7 +447,7 @@ tag:
 - [한 방은 없다](https://www.thestartupbible.com/2024/06/no-such-thing-as-jackpot-in-life.html)
 - [컴백](https://www.thestartupbible.com/2024/06/the-great-comeback.html)
 - [작은 시장, 작은 사람들, 큰 결과](https://www.thestartupbible.com/2024/06/things-take-time.html)
-
+- [인생에서 가장 도움이 되는 수업](https://www.thestartupbible.com/2024/06/public-speaking-and-writing-are-the-most-undervalued-classes.html)
 
 ---
 
@@ -811,6 +829,7 @@ tag:
 - [리더십의 커뮤니케이션 – 공감](http://www.chidoo.me/index.php/2024/06/02/empathy-in-leadership/)
 - [리더십의 커뮤니케이션 – 완벽하지 않음의 인정](http://www.chidoo.me/index.php/2024/06/09/vulnerability-of-leadership/)
 - [리더십의 커뮤니케이션 – 대화하기](http://www.chidoo.me/index.php/2024/06/15/dialog-by-asking-and-listening-in-leadership/)
+- [리더십의 리더 – Lead와 Leader](http://www.chidoo.me/index.php/2024/06/23/lead-vs-leader-in-leadership/)
 
 ---
 
@@ -1204,6 +1223,12 @@ https://blog.naver.com/&logId=
 ## Marc's Blog
 
 - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
+
+---
+
+## zachocean
+
+- [Now is a good time to start a service business](https://www.zachocean.com/posts/service-business/)
 
 ---
 

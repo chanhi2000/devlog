@@ -35,6 +35,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@eunbibi` / lightgbm error](https://velog.io/@eunbibi/lightgbm-error)
+
+---
+
 ## 멈춤보단 천천히라도
 
 - [`np.kron`를 사용하여 NumPy 배열을 확대하기](https://webnautes.tistory.com/2331)
@@ -45,6 +51,7 @@ head:
 ## 게으른 the lazy
 
 - [왜 numpy에서 5 < ndarray < 15가 허용되지 않는가?](https://lazymatlab.tistory.com/235)
+- [자연수를 순서대로 무한분수로 배열해서 √2 만들기](https://lazymatlab.tistory.com/m/249)
 
 ---
 

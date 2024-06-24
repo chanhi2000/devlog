@@ -39,6 +39,12 @@ tag:
 
 ---
 
+## dotenvx | a better dotenv–from the creator of dotenv
+
+- [From dotenv to dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
+
+---
+
 ## Education
 
 - [The Programming Expert](https://theprogrammingexpert.com)
@@ -177,6 +183,12 @@ tag:
 ## NHN Cloud Meetup - NHN 기술 블로그
 
 - [국제화(i18n) 자동화 가이드](https://meetup.nhncloud.com/posts/295) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/295.md) -->
+
+---
+
+## SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design
+
+- [Unit Test Your JavaScript Using Mocha and Chai](https://sitepoint.com/unit-test-javascript-mocha-chai/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/unit-test-javascript-mocha-chai.md) -->
 
 ---
 
@@ -1112,6 +1124,7 @@ tag:
 ## 푸르고 개발 블로그
 
 - [\[TypeScript\] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/m/194)
+- [\[번역\] 개발자 중심 성능 테스트 선언문](https://puleugo.tistory.com/m/197)
 
 ---
 
@@ -1178,6 +1191,12 @@ tag:
 ## hustle-dev blog
 
 - [TypeScript 5.5 번역](https://hustle-dev.github.io/posts/translate-ts-5-5/)
+
+---
+
+## Software Development | Dirk Holtwick
+
+- [Resilient Sync for Local First](https://holtwick.de/en/blog/localfirst-resilient-sync)
 
 ---
 

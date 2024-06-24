@@ -165,4 +165,16 @@ tag:
 
 ---
 
+## Appliku - modern application deployment platform
+
+- [Customize Django Admin Interface](https://appliku.com/post/customize-django-admin-interface/)
+
+---
+
+## Adam Johnson
+
+- [Django: Clean up unused code with Vulture](https://adamj.eu/tech/2023/07/12/django-clean-up-unused-code-vulture/)
+
+---
+
 <TagLinks />

@@ -92,4 +92,16 @@ head:
 
 ---
 
+## Erik Marsja
+
+- [Coefficient of Variation in Python with Pandas & NumPy](https://www.marsja.se/coefficient-of-variation-in-python-with-pandas-numpy/)
+
+---
+
+## Confessions of a Data Guy
+
+- [POLARS VS PANDAS. INSIDE AN AWS LAMBDA.](https://www.confessionsofadataguy.com/polars-vs-pandas-inside-an-aws-lambda/)
+
+---
+
 <TagLinks />

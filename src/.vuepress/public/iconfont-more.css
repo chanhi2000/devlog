@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_bhlkrlrlye7.woff2?t=1719198480809') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_bhlkrlrlye7.woff?t=1719198480809') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_bhlkrlrlye7.ttf?t=1719198480809') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_bhlkrlrlye7.svg?t=1719198480809#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_0zk6nz0827ee.woff2?t=1719363900282') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_0zk6nz0827ee.woff?t=1719363900282') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_0zk6nz0827ee.ttf?t=1719363900282') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_0zk6nz0827ee.svg?t=1719363900282#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,23 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-apachecordova:before { content: "\e95b"; }
+.icon-subl:before { content: "\e95a"; }
+.icon-power-automate:before { content: "\e959"; }
+.icon-perplexity:before { content: "\e958"; }
+.icon-nushell:before { content: "\e957"; }
+.icon-langchain:before { content: "\e956"; }
+.icon-hyprland:before { content: "\e955"; }
+.icon-gcp:before { content: "\e913"; }
+.icon-julia:before { content: "\e920"; }
+.icon-clojure:before { content: "\e931"; }
+.icon-duckdb:before { content: "\e93c"; }
+.icon-rocksdb:before { content: "\e91f"; }
+.icon-obsedian:before { content: "\e954"; }
+.icon-dotenv:before { content: "\e953"; }
+.icon-huggingface:before { content: "\e952"; }
+.icon-py-locust:before { content: "\e951"; }
+.icon-py-celery:before { content: "\e950"; }
 .icon-erlang:before { content: "\e94f"; }
 .icon-rabbitmq:before { content: "\e94e"; }
 .icon-godot:before { content: "\e94d"; }
@@ -33,7 +50,6 @@
 .icon-pytorch:before { content: "\e93f"; }
 .icon-jwt:before { content: "\e93e"; }
 .icon-grafana:before { content: "\e93d"; }
-.icon-duckdb:before { content: "\e93c"; }
 .icon-duckduckgo:before { content: "\e93b"; }
 .icon-dotnet:before { content: "\e93a"; }
 .icon-numpy:before { content: "\e939"; }
@@ -44,7 +60,6 @@
 .icon-flipper-zero:before { content: "\e934"; }
 .icon-arduino:before { content: "\e933"; }
 .icon-flipper-zero-color:before { content: "\e932"; }
-.icon-clojure:before { content: "\e931"; }
 .icon-ios:before { content: "\e930"; }
 .icon-gatsby:before { content: "\e92f"; }
 .icon-nexus:before { content: "\e92e"; }
@@ -53,16 +68,14 @@
 .icon-archlinux:before { content: "\e92b"; }
 .icon-nmap:before { content: "\e92a"; }
 .icon-armeria:before { content: "\e929"; }
-.icon-awk:before { content: "\e928";}
-.icon-rsync:before { content: "\e927";}
+.icon-awk:before { content: "\e928"; }
+.icon-rsync:before { content: "\e927"; }
 .icon-ffmpeg:before { content: "\e926"; }
 .icon-alpine:before { content: "\e925"; }
 .icon-apachejmeter:before { content: "\e924"; }
 .icon-gatling:before { content: "\e923"; }
 .icon-sketch:before { content: "\e922"; }
 .icon-common-lisp:before { content: "\e921"; }
-.icon-julia:before { content: "\e920"; }
-.icon-rocksdb:before { content: "\e91f"; }
 .icon-popos:before { content: "\e91d"; }
 .icon-blex:before { content: "\e91c"; }
 .icon-velog:before { content: "\e91b"; }
@@ -73,7 +86,6 @@
 .icon-r:before { content: "\e916"; }
 .icon-nextjs:before { content: "\e915"; }
 .icon-sk:before { content: "\e914"; }
-.icon-gcp:before { content: "\e913"; }
 .icon-flutter:before { content: "\e912"; }
 .icon-visualstudio:before { content: "\e911"; }
 .icon-terraform:before { content: "\e910"; }
@@ -158,7 +170,6 @@
 .icon-haskell:before { content: "\ebbb"; }
 .icon-notion:before { content: "\ec37"; }
 .icon-elixir:before { content: "\e75a"; }
-.icon-sublimetext:before { content: "\e67b"; }
 .icon-vampire-dracula:before { content: "\e6fa"; }
 .icon-intellijidea:before { content: "\ebd1"; }
 .icon-dbeaver:before { content: "\e621"; }

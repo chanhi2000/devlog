@@ -28,6 +28,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`jupyter` / `anywidget`: Jupyter Widgets Made Easy](https://blog.jupyter.org/anywidget-jupyter-widgets-made-easy-164eb2eae102)
+
+---
+
 ## NHN Cloud Meetup - NHN 기술 블로그
 
 - [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기](https://meetup.nhncloud.com/posts/283) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/283.md) -->

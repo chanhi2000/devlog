@@ -91,5 +91,10 @@ head:
 
 ---
 
+## 기억보단 기록을
+
+- [\[Mac\] Java 21 & Gradle 8 설치하기](https://jojoldu.tistory.com/m/789)
+
+---
 
 <TagLinks />
