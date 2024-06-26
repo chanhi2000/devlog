@@ -71,7 +71,7 @@ cover: https://static.learnk8s.io/52d7048ad9ab46d9a2182847fe02b20f.svg
 <SiteInfo
   name="Kubernetes: deploy Laravel the easy way"
   desc="In this article, I'll explain how to deal with the simple requirement of running a Laravel application as a local Kubernetes set up."
-  url="https://learnk8s.io/kubernetes-deploy-laravel-the-easy-way"
+  url="https://learnk8s.io/blog/kubernetes-deploy-laravel-the-easy-way"
   logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
   preview="https://static.learnk8s.io/52d7048ad9ab46d9a2182847fe02b20f.svg"/>
 

@@ -46,6 +46,29 @@ export const template: SidebarGroupItem = {
             children: [
             ]
           }, {
+            text: "Changes in Swift 4.1",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/4.1/synthesized-protocols.md',
+              '/explore/articles/hackingwithswift.com/swift/4.1/key-decoding-strategies.md',
+              '/explore/articles/hackingwithswift.com/swift/4.1/conditional-conformance.md',
+              '/explore/articles/hackingwithswift.com/swift/4.1/recursive-constraints.md',
+              '/explore/articles/hackingwithswift.com/swift/4.1/import-testing.md',
+              '/explore/articles/hackingwithswift.com/swift/4.1/target-environment.md',
+              '/explore/articles/hackingwithswift.com/swift/4.1/compactmap.md',
+            ]
+          }, {
+            text: "Changes in Swift 4.0",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/4.0/codable.md',
+              '/explore/articles/hackingwithswift.com/swift/4.0/multiline-strings.md',
+              '/explore/articles/hackingwithswift.com/swift/4.0/keypaths.md',
+              '/explore/articles/hackingwithswift.com/swift/4.0/dictionaries.md',
+              '/explore/articles/hackingwithswift.com/swift/4.0/strings.md',
+              '/explore/articles/hackingwithswift.com/swift/4.0/one-sided-ranges.md',
+            ]          
+          }, {
             text: "Changes in Swift 3.1",
             collapsible: true,
             children: [

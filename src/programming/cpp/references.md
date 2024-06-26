@@ -285,4 +285,10 @@ tag:
 
 ---
 
+## Arthur O’Dwyer
+
+- [How the STL uses explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
+
+---
+
 <TagLinks />

@@ -8,6 +8,7 @@ category:
   - Query
 tag: 
   - sql
+  - db
   - postgres
   - postgresql
   - ddl

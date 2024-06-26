@@ -1450,9 +1450,9 @@
     "topics": ["ai", "android-app", "bluetooth-le", "nllb", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "simultaneous-translation", "transformers", "translation", "translator", "whisper", "whisper-ai"]
   }, {
     "repo": "niedev/RTranslator",
-    "desc": "World's first open source real-time translation app for Android.",
+    "desc": "An open source real-time translation app for Android that runs locally",
     "officialSite": "",
-    "topics": ["ai", "android-app", "bluetooth-le", "nllb", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "simultaneous-translation", "transformers", "translation", "translator", "whisper", "whisper-ai"]
+    "topics": ["android-app", "bluetooth-le", "nllb", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "transformers", "translation", "translator", "whisper", "whisper-ai"]
   }, {
     "repo": "ExpressLRS/ExpressLRS",
     "desc": "STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications",

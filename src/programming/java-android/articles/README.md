@@ -123,6 +123,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Migrate from Play Core Library",
+  "desc": "You may have recently received an email from Google Play Store stating the following: > Update your Play Core Maven dependency to an Android 14 compatible version! Your current Play Core library is incompatible with targetSdkVersion 34 (Android 14), which introduces a backwards-incompatible change to broadcast receivers to improve user...",
+  "link": "/explore/articles/freecodecamp.org/migrate-from-play-core-library.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
+
 ---
 
 ## Kodeco

@@ -9,6 +9,8 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - sql
+  - db
   - postgres
   - postgresql
 head:
@@ -57,6 +59,18 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "How to Create Database Migrations in Go Using Docker and Postgres",
+  "desc": "Go is a fast programming language with a relatively simple syntax. While learning Go, it is important to learn how to build APIs and how to use them to communicate with databases. In the process of learning, I decided to take on a project that helped me in that regard...",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-database-migrations-in-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

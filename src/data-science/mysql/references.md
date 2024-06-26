@@ -241,4 +241,10 @@ head:
 
 ---
 
+## 특별
+
+- [MySQLSyntaxErrorException: Table doesn't exist](https://m.blog.naver.com/dogspecial/221436368729)
+
+---
+
 <TagLinks />

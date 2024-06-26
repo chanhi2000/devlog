@@ -270,6 +270,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "PySpark for Beginners – How to Process Data with Apache Spark & Python",
+  "desc": "If you’re diving into the world of big data, you’ve probably come across the term PySpark. PySpark is a tool that makes managing and analyzing large datasets easier. In this article, we will see the basics of PySpark, its benefits, and how you can get started with it. What is...",
+  "link": "/explore/articles/freecodecamp.org/park-for-beginners.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -219,5 +219,10 @@
     "desc": "Open source API management platform",
     "officialSite": "https://www.fusio-project.org",
     "topics": ["api", "api-gateway", "api-management", "api-manager", "backend", "javascript", "microservice", "openapi", "php", "rest", "rpc", "serverless"]
+  }, {
+    "repo": "corcel/corcel",
+    "desc": "Use WordPress backend with Laravel or any PHP application",
+    "officialSite": "",
+    "topics": ["corcel", "eloquent", "hacktoberfest", "laravel", "mvc", "php", "shortcode", "taxonomies", "wordpress"]
   }
 ]

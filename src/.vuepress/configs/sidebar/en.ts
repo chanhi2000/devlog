@@ -2199,6 +2199,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/docker/articles/README.md',
+            asb.freecodecamp("docker"),
             asb.digitalocean("docker"),
             asb.learnk8s("docker"),
             asb.yozm("docker"),
@@ -2330,6 +2331,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/gcp/articles/README.md',
+            asb.freecodecamp("gcp"),
             asb.learnk8s("gcp"), 
             asb.yozm("gcp"), 
           ]
@@ -2927,6 +2929,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/spark/articles/README.md',
+            asb.freecodecamp("spark"),
             asb.d2("spark"),
             asb.popit("spark"),
           ]

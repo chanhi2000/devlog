@@ -44,6 +44,7 @@ tag:
 ## <FontIcon icon="fa-brands fa-redhat"/>Red Hat Developer
 
 - [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler#)
+- [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
 
 ---
 

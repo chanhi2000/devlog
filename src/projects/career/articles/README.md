@@ -399,6 +399,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "뽑히는 개발자 이력서는 어떻게 만드나요? | 요즘IT",
+  "desc": "뽑히는 개발자 이력서는 어떻게 만드나요?",
+  "link": "/explore/articles/yozm.wishket.com/2648.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

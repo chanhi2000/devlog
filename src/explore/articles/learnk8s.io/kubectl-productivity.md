@@ -46,7 +46,7 @@ cover: https://static.learnk8s.io/9773dd4d3b24e4140be5608d55ec7a74.svg
 <SiteInfo
   name="Boosting your kubectl productivity"
   desc="Learn the tips and tricks that make your usage of kubectl more efficient and effective."
-  url="https://learnk8s.io/kubectl-productivity"
+  url="https://learnk8s.io/blog/kubectl-productivity"
   logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
   preview="https://static.learnk8s.io/9773dd4d3b24e4140be5608d55ec7a74.svg"/>
 

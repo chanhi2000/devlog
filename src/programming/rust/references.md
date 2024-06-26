@@ -346,6 +346,12 @@ tag:
 
 ---
 
+## Roman Kashitsyn
+
+- [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />

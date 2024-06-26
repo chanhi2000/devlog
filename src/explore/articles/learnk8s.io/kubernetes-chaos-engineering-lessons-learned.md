@@ -46,7 +46,7 @@ cover: https://static.learnk8s.io/82804a9af3f623c5865f261f4ddb6802.svg
 <SiteInfo
   name="Kubernetes Chaos Engineering: Lessons Learned — Part 1"
   desc="When you deploy an app in Kubernetes, your code ends up running on one or more worker nodes. But what happens when a node breaks and the network proxy crashes?"
-  url="https://learnk8s.io/kubernetes-chaos-engineering-lessons-learned"
+  url="https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned"
   logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
   preview="https://static.learnk8s.io/82804a9af3f623c5865f261f4ddb6802.svg"/>
 

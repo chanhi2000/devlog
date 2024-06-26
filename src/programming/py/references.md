@@ -1757,6 +1757,12 @@ head:
 
 ---
 
+## olano.dev
+
+- [From RSS to my Kindle](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
+
+---
+
 ## Misc.
 
 - [Working with Excel Files in Python](https://www.python-excel.org/)

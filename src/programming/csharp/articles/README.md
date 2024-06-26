@@ -40,15 +40,12 @@ head:
 }
 ```
 
-```component VPCard
-{
-  "title": "Code Maze - C#, .NET and Web Development Tutorials",
-  "desc": "Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world.",
-  "link": "https://code-maze.com/",
-  "logo": "/images/content/code-maze.com/favicon.png",
-  "background": "rgba(22,22,22,0.2)"
-}
-```
+<SiteInfo
+  name="Code Maze - C#, .NET and Web Development Tutorials"
+  desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
+  url="https://code-maze.com/latest-posts-on-code-maze/"
+  logo="/images/content/code-maze.com/favicon.png"
+  preview="/images/content/code-maze.com/banner.png"/>
 
 [[toc]]
 
@@ -94,11 +91,193 @@ head:
 }
 ```
 
+<!-- END: johnnyreilly.com -->
+
 ---
 
 ## Code Maze
 
 > code-maze.com
+
+```component VPCard
+{
+  "title": "Angular Components and Project Preparation",
+  "desc": "This part is focused on the Angular project preparation and Angular components as well as installing and registering the third party libraries.",
+   "link": "/explore/articles/code-maze.com/net-core-web-development-part7.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Web API – Post, Put, Delete",
+  "desc": "Learn how to handle Get Request in .NET Core by using previously created repository pattern for business logic and how to write great controller code.",
+  "link": "/explore/articles/code-maze.com/net-core-web-development-part6.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Content Negotiation in Web API",
+  "desc": "Content negotiation is the process of selecting the best resource for a response when multiple resource representations are available.",
+  "link": "/explore/articles/code-maze.com/content-negotiation-web-api.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Web API – How to Handle Get Request",
+  "desc": "Learn how to handle Get Request in .NET Core by using previously created repository pattern for business logic and how to write great controller code.",
+  "link": "/explore/articles/code-maze.com/net-core-web-development-part5.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Web API –  Repository Pattern",
+  "desc": "Let's learn how to create a Repository pattern in ASP.NET Core Web API application and how to create a Repository layer to fetch the data from the database.",
+  "link": "/explore/articles/code-maze.com/net-core-web-development-part4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Top REST API Best Practices",
+  "desc": "In this post, we will learn what REST really is and how to design your API using some of the REST API best practices compiled in one place.",
+  "link": "/explore/articles/code-maze.com/top-rest-api-best-practices.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Web API – Logging With NLog",
+  "desc": "Why is logging so important in a development and how to use NLog to create custom logging service in .NET Core application? Find out in his post.",
+  "link": "/explore/articles/code-maze.com/net-core-web-development-part3.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Web API – .NET Service Configuration",
+  "desc": "Find out how to use Workbench with MySQL to create a database, create and populate tables and place relations between them, with the backup process.",
+  "link": "/explore/articles/code-maze.com/net-core-web-development-part2.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Web API – Creating MySQL Database",
+  "desc": "Find out how to use Workbench with MySQL to create a database, create and populate tables and place relations between them, with the backup process.",
+  "link": "/explore/articles/code-maze.com/net-core-web-development-part1.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "HTTP – Security, TLS, and Certificates",
+  "desc": "Do you really need HTTPS? In this article we're going to explore some HTTPS security basics and learn about its strengths and weaknesses.",
+  "link": "/explore/articles/code-maze.com/http-series-part-5.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "HTTP Authentication Mechanisms",
+  "desc": "HTTP has its own authentication mechanisms that allow the servers to issue challenges and get the proof they need to identify the users.",
+  "link": "/explore/articles/code-maze.com/http-authentication.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "HTTP – Client Identification",
+  "desc": "Let's answer the question of why the client identification is so important and how can Web servers identify you (your Web client).",
+  "link": "/explore/articles/code-maze.com/http-series-part-3.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "HTTP Architectural Aspects",
+  "desc": "HTTP cannot function by itself as an application protocol. It needs infrastructure that makes communication over the World Wide Web possible and efficient.",
+  "link": "/explore/articles/code-maze.com/http-series-part-2.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The HTTP Reference",
+  "desc": "This HTTP reference is a compilation of all the HTTP Status Codes, Request Methods, Headers and MIME types in one place.",
+  "link": "/explore/articles/code-maze.com/the-http-reference.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "HTTP – Overview of the Basic Concepts",
+  "desc": "In the world driven by the Internet, messages are being sent between clients and servers countless times per day via HTTP.",
+  "link": "/explore/articles/code-maze.com/http-series-part-1.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "A Few Great Ways to Consume RESTful API in C#",
+  "desc": "RESTful APIs are an integral part of our lives. Because of that is important to know how to consume a RESTful API and which tools are at your disposal.",
+  "link": "/explore/articles/code-maze.com/different-ways-consume-restful-api-csharp.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Top 8 Continuous Integration Tools",
+  "desc": "Discover what the top 8 most used and well established continuous integration tools and find out how they can improve your software development process.",
+  "link": "/explore/articles/code-maze.com/top-8-continuous-integration-tools.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What Is Continuous Integration and Why Do You Need It?",
+  "desc": "While not every project is destined to be a great success, Continuous Integration can drastically improve the success rate of any project.",
+  "link": "/explore/articles/code-maze.com/what-is-continuous-integration.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -109,6 +288,8 @@ head:
   "background": "rgba(22,22,22,0.2)"
 }
 ```
+
+<!-- code-maze.com -->
 
 ---
 

@@ -647,10 +647,27 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "title": "Foul-Airs",
   "desc": "HyperCardSimulator imports and runs your classic HyperCard stacks.",
   "link": "https://hcsimulator.com/Foul-Airs",
-  "logo": "https://hcsimulator.com/apple-touch-icon.png"
+  "logo": "https://hcsimulator.com/apple-touch-icon.png",
   "background": "rgba(232,232,232,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "Liquid Layers",
+  "desc": "Liquid Layers",
+  "link": "https://grantkot.com/ll/",
+  "logo": "https://grantkot.com/ll/favicon.ico",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
+<SiteInfo
+  name="One Million Checkboxes"
+  desc="checking a box checks it for everyone!"
+  url="https://onemillioncheckboxes.com/"
+  logo="https://onemillioncheckboxes.com/favicon.a21a1c26.svg"
+  preview="rgba(0,92,200,0.2"/>
 
 <!-- @end Cool Project -->
 

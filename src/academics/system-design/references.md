@@ -220,6 +220,7 @@ head:
 - [`codecompass00` / "Attention, Please!": A Visual Guide To The Attention Mechanism \[Transformers Series\]](https://codecompass00.substack.com/p/visual-guide-attention-mechanism-transformers)
 - [`engineerscodex` / 4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned)
 - [`freelancefootprints` / Abandoned Code: The Hidden Risks of Using Unmaintained Software](https://freelancefootprints.substack.com/p/abandoned-code-the-hidden-risks-of)
+- [`lennysnewsletter` / A Three-Step Framework For Solving Problems 👌](https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving)
 
 ---
 

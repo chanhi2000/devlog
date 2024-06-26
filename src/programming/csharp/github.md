@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Github
-description: ♯CSharp > Github
+description: CSharp > Github
 icon: fa-brands fa-github
 category:
-  - ♯CSharp
+  - CSharp
   - Github
 tag: 
   - git
@@ -15,9 +15,9 @@ tag:
 head: 
   - - meta:
     - property: og:title
-      content: ♯CSharp > Github
+      content: CSharp > Github
     - property: og:description
-      content: ♯CSharp > Github
+      content: CSharp > Github
     - propert: og:type
       content: article
     - property: og:url

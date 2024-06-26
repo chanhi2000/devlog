@@ -791,6 +791,13 @@ https://paperlined.org/
   preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
 
 <SiteInfo
+  name="Code Maze - C#, .NET and Web Development Tutorials"
+  desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
+  url="https://code-maze.com/latest-posts-on-code-maze/"
+  logo="/images/content/code-maze.com/favicon.png"
+  preview="/images/content/code-maze.com/banner.png"/>
+
+<SiteInfo
   name="Spring | Blog"
   desc="Level up your Java code and explore what Spring can do for you."
   url="https://spring.io/blog"
@@ -958,6 +965,20 @@ https://paperlined.org/
   url="https://discord.com/category/engineering"
   logo="https://assets-global.website-files.com/5f8dd67f8fdd6f51f0b50904/5f91fae62cc821206588b837_Frame%20246.png"
   preview="rgba(64,78,237,0.2"/>
+
+<SiteInfo
+  name="Unicorn Utterances"
+  desc="Learning programming from magically majestic words. A place to learn about all sorts of programming topics from entry-level concepts to advanced abstractions"
+  url="https://unicorn-utterances.com/"
+  logo="https://unicorn-utterances.com/favicon.ico"
+  preview="https://unicorn-utterances.com/share-banner.png"/>
+
+<SiteInfo
+  name="Pikuma: Fundamentals of computer science and mathematics"
+  desc="Video books and courses to learn computer science, programming, and mathematics."
+  url="https://pikuma.com/"
+  logo="https://pikuma.com/images/favicon/favicon.ico"
+  preview="https://pikuma.com/images/og/home.png"/>
 
 https://devblogs.microsoft.com/engineering-at-microsoft/
 
@@ -1379,6 +1400,15 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   "link": "https://hamonikr.org/",
   "logo": "https://hamonikr.org/files/attach/xeicon/favicon.ico",
   "background": "rgba(67,94,155,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": ":::MySQL Korea:::",
+  "desc": "MySQL Korea 사이트의 컨텐츠 소유권은 (주)이노클러스터에 있으므로 무단전재를 금합니다.",
+  "link": "http://www.mysqlkorea.com/",
+  "background": "rgba(233,147,0,0.2)"
 }
 ```
 

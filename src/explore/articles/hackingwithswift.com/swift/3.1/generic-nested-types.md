@@ -51,7 +51,7 @@ isOriginal: false
 
 <!-- TODO: 작성 -->
 
-::: details Changes in Swift 3.1
+::: details Other Changes in Swift 3.1
 
 ```component VPCard
 {

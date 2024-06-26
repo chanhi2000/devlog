@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Youtube
-description: ♯CSharp > Youtube
+description: CSharp > Youtube
 icon: fa-brands fa-youtube
 category:
-  - ♯CSharp
+  - CSharp
   - Youtube
 tag: 
   - csharp

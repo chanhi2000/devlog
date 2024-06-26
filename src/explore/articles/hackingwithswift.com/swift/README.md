@@ -1160,7 +1160,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Derived collections of enum cases | Changes in Swift ",
+  "title": "Derived collections of enum cases | Changes in Swift 4.2",
   "desc": "Derived collections of enum cases",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/caseiterable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1170,7 +1170,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Warning and error diagnostic directives | Changes in Swift ",
+  "title": "Warning and error diagnostic directives | Changes in Swift 4.2",
   "desc": "Warning and error diagnostic directives",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/warning-error.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1180,7 +1180,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Dynamic member look up | Changes in Swift ",
+  "title": "Dynamic member look up | Changes in Swift 4.2",
   "desc": "Dynamic member look up",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/dynamic-member-lookup.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1190,7 +1190,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Enhanced conditional conformances | Changes in Swift ",
+  "title": "Enhanced conditional conformances | Changes in Swift 4.2",
   "desc": "Enhanced conditional conformances",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/conditional-conformance.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1200,7 +1200,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Random number generation and shuffling | Changes in Swift ",
+  "title": "Random number generation and shuffling | Changes in Swift 4.2",
   "desc": "Random number generation and shuffling",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/random.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1210,7 +1210,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Simpler, more secure hashing | Changes in Swift ",
+  "title": "Simpler, more secure hashing | Changes in Swift 4.2",
   "desc": "Simpler, more secure hashing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/hashable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1220,7 +1220,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Checking sequence elements match a condition | Changes in Swift ",
+  "title": "Checking sequence elements match a condition | Changes in Swift 4.2",
   "desc": "Checking sequence elements match a condition",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/allsatisfy.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1230,7 +1230,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "In-place collection element removal | Changes in Swift ",
+  "title": "In-place collection element removal | Changes in Swift 4.2",
   "desc": "In-place collection element removal",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/remove-where.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1240,7 +1240,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Boolean toggling | Changes in Swift ",
+  "title": "Boolean toggling | Changes in Swift 4.2",
   "desc": "Boolean toggling",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/toggle.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1257,7 +1257,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Synthesized Equatable and Hashable | Changes in Swift ",
+  "title": "Synthesized Equatable and Hashable | Changes in Swift 4.1",
   "desc": "Synthesized Equatable and Hashable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/synthesized-protocols.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1267,7 +1267,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Key decoding strategies for Codable | Changes in Swift ",
+  "title": "Key decoding strategies for Codable | Changes in Swift 4.1",
   "desc": "Key decoding strategies for Codable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/key-decoding-strategies.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1277,7 +1277,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Conditional conformances | Changes in Swift ",
+  "title": "Conditional conformances | Changes in Swift 4.1",
   "desc": "Conditional conformances",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/conditional-conformance.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1287,7 +1287,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Recursive constraints on associated types | Changes in Swift ",
+  "title": "Recursive constraints on associated types | Changes in Swift 4.1",
   "desc": "Recursive constraints on associated types",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/recursive-constraints.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1297,7 +1297,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Build configuration import testing | Changes in Swift ",
+  "title": "Build configuration import testing | Changes in Swift 4.1",
   "desc": "Build configuration import testing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/import-testing.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1307,7 +1307,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Target environment testing | Changes in Swift ",
+  "title": "Target environment testing | Changes in Swift 4.1",
   "desc": "Target environment testing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/target-environment.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1317,7 +1317,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "flatMap is now (partly) compactMap() | Changes in Swift ",
+  "title": "flatMap is now (partly) compactMap() | Changes in Swift 4.1",
   "desc": "flatMap is now (partly) compactMap()",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/compactmap.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1334,7 +1334,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Encoding and decoding data using Codable | Changes in Swift ",
+  "title": "Encoding and decoding data using Codable | Changes in Swift 4.0",
   "desc": "Encoding and decoding data using Codable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/codable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1344,7 +1344,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Multi-line string literals | Changes in Swift ",
+  "title": "Multi-line string literals | Changes in Swift 4.0",
   "desc": "Multi-line string literals",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/multiline-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1354,7 +1354,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Improved keypaths for key-value coding | Changes in Swift ",
+  "title": "Improved keypaths for key-value coding | Changes in Swift 4.0",
   "desc": "Improved keypaths for key-value coding",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/keypaths.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1364,7 +1364,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Improved dictionary functionality | Changes in Swift ",
+  "title": "Improved dictionary functionality | Changes in Swift 4.0",
   "desc": "Improved dictionary functionality",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/dictionaries.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1374,7 +1374,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Strings are collections again | Changes in Swift ",
+  "title": "Strings are collections again | Changes in Swift 4.0",
   "desc": "Strings are collections again",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1384,7 +1384,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "One-sided ranges | Changes in Swift ",
+  "title": "One-sided ranges | Changes in Swift 4.0",
   "desc": "One-sided ranges",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/one-sided-ranges.md",
   "logo": "https://hackingwithswift.com/favicon.svg",

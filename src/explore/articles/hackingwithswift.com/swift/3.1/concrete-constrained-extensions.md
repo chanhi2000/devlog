@@ -18,6 +18,7 @@ head:
       content: Concrete constrained extensions
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/3.1/concrete-constrained-extensions.html
+prev: /explore/articles/hackingwithswift.com/swift/4.0/one-sided-ranges.md
 isOriginal: false
 ---
 
@@ -51,7 +52,7 @@ isOriginal: false
 
 <!-- TODO: 작성 -->
 
-::: details Changes in Swift 3.1
+::: details Other Changes in Swift 3.1
 <!-- 
 ```component VPCard
 {

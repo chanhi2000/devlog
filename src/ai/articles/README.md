@@ -92,6 +92,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build a RAG Chatbot with Agent Cloud and Google Sheets",
+  "desc": "Today's companies are data factories. Every interaction, transaction, and internal process generates a constant stream of information. This data holds immense value, promising to improve decision-making, streamline operations, and unlock deep customer insights.  But data often remains siloed and inaccessible. It may be spread across different departments and systems...",
+  "link": "/explore/articles/freecodecamp.org/build-a-rag-chatbot-agent-cloud-google-sheets.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

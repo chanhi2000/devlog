@@ -18,6 +18,7 @@ head:
       content: Sequences get prefix(while:) and drop(while:) methods
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/3.1/prefix-drop.html
+next: /explore/articles/hackingwithswift.com/swift/3.0/function-parameters.md
 isOriginal: false
 ---
 
@@ -51,7 +52,7 @@ isOriginal: false
 
 <!-- TODO: 작성 -->
 
-::: details Changes in Swift 3.1
+::: details Other Changes in Swift 3.1
 
 ```component VPCard
 {

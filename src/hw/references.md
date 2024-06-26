@@ -309,6 +309,18 @@ head:
 
 ---
 
+## Downtown Doug Brown
+
+- [Upgrading my Chumby 8 kernel part 11: SD/CF card reader](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/)
+
+---
+
+## Pikuma: Fundamentals of computer science and mathematics
+
+- [Exploring How Cache Memory Really Works](https://pikuma.com/blog/understanding-computer-cache)
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

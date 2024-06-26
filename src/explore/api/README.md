@@ -439,6 +439,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+<SiteInfo
+  name="Reshot | Free icons & illustrations"
+  desc="Design freely with instant downloads of curated SVG icons and vector illustrations. All free with commercial licensing. No attribution required."
+  url="https://www.reshot.com/"
+  logo="https://www.reshot.com/build/favicons/apple-icon-180x180-1cc7650c518e0d48ee137a4f222d4036e31fcaeea0579c1b3c277a56a84c3620.png"
+  preview="https://www.reshot.com/static/global/og/reshot-og-default.png"/>
+
 ```component VPCard
 {
   "title": "Codeimg.io",

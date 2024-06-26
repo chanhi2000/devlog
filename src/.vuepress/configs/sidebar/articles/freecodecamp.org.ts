@@ -14,9 +14,11 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "java-android",[
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
+      "migrate-from-play-core-library", // 2024-06-26
     ]],[
     "gradle", [
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
+      "migrate-from-play-core-library", // 2024-06-26
     ]],[
     "js", [
       "loop-through-arrays-javascript", // 2023-10-31
@@ -32,6 +34,7 @@ export const template: SidebarInfoTemplate = {
       "javascript-prototypal-inheritance", // 2024-05-31
       "the-javascript-this-keyword-explained-with-examples", // 2024-06-05
       "weakmap-and-weakset-in-javascript", // 2024-06-07
+      "scope-closures-and-hoisting-in-javascript", // 2024-06-26
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024-03-28
@@ -41,6 +44,7 @@ export const template: SidebarInfoTemplate = {
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024-05-28
       "learn-threejs-by-building-five-projects", // 2024-06-12
       "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
+      "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -110,6 +114,7 @@ export const template: SidebarInfoTemplate = {
       "first-class-functions-and-closures-in-python", // 2024-06-17
       "decorators-in-python-tutorial", // 2024-06-18
       "for-else-loop-in-python", // 2024-06-19
+      "pyspark-for-beginners", // 2024-06-26
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -120,6 +125,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-make-your-flutter-package-privacy-manifest-compatible", // 2024-05-20
       "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
       "build-a-youtube-clone-with-flutter-firebase-and-riverpod", // 2024-06-04
+      "migrate-from-play-core-library", // 2024-06-26
     ]],[
     "rust", [
       "procedural-macros-in-rust", // 2024-04-24
@@ -131,6 +137,7 @@ export const template: SidebarInfoTemplate = {
       "learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go", // 2024-05-30
       "learn-how-to-build-a-decentralized-file-storage-system-with-go", // 2024-06-05
       "real-time-chat-with-go-fiber-htmx", // 2024-06-06
+      "how-to-create-database-migrations-in-go", // 2024-06-26
     ]],[
     "csharp", [
       "how-to-use-oop-in-c-sharp", // 2024-05-01
@@ -172,6 +179,12 @@ export const template: SidebarInfoTemplate = {
     "linux-fedora", [
       "free-linux-crash-course-with-labs", // 2024-06-13
     ]],[
+    "docker", [
+      "how-to-create-database-migrations-in-go", // 2024-06-26
+    ]],[
+    "k8s", [
+      "how-to-run-postgres-in-kubernetes",  // 2024-05-08
+    ]],[
     "aws", [
       "what-is-amazon-ec2-auto-scaling", // 2024-05-06
       "pass-the-aws-certified-solutions-architect-associate-certification", // 2024-05-23
@@ -187,8 +200,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
       "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
     ]],[
-    "k8s", [
-      "how-to-run-postgres-in-kubernetes",  // 2024-05-08
+    "gcp", [
+      "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
     ]],[
     "terraform", [
       "comparing-iac-tools-aws-cdk-cloudformation-terraform", // 2024-06-03
@@ -206,9 +219,13 @@ export const template: SidebarInfoTemplate = {
     "postgres", [
       "postgresql-indexing-strategies", // 2023-05-12
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
+      "how-to-create-database-migrations-in-go", // 2024-06-26
     ]],[
     "mongodb", [
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
+    ]],[
+    "spark", [
+      "pyspark-for-beginners", // 2024-06-26
     ]],[
     "system-design", [
       "minimum-viable-product-between-an-idea-and-the-product", // 2024-05-24
@@ -224,6 +241,7 @@ export const template: SidebarInfoTemplate = {
       "a-non-technical-introduction-to-generative-ai", // 2024-06-18
       "generative-ai-handbook", // 2024-06-20
       "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
+      "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -359,6 +377,11 @@ export const template: SidebarInfoTemplate = {
       "react-how-to-validate-user-input", // 2024-06-24
       "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
       "whats-new-in-react-19", // 2024-06-25
+      "scope-closures-and-hoisting-in-javascript", // 2024-06-26
+      "pyspark-for-beginners", // 2024-06-26
+      "how-to-create-database-migrations-in-go", // 2024-06-26
+      "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
+      "migrate-from-play-core-library", // 2024-06-26
     ]],
   ]),
 }

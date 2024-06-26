@@ -18,7 +18,7 @@ tag:
   "desc": "Tibero - Databse of Databases",
   "link": "https://dbdb.io/db/tibero",
   "logo": "https://dbdb.io/static/core/images/dbdb_io-180x180.png",
-  "background": "rgba(38, 75, 99, 0.2)"
+  "background": "rgba(38,75,99,0.2)"
 }
 ```
 
