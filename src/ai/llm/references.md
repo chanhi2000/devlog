@@ -311,4 +311,10 @@ head:
 
 ---
 
+## Alex Strick van Linschoten
+
+- [How to think about creating a dataset for LLM finetuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
+
+---
+
 <TagLinks/>

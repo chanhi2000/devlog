@@ -3103,5 +3103,10 @@
     "desc": "Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools 5) Teams+user permissions. Get started fast with Docker and our install.sh",
     "officialSite": "https://agentcloud.dev",
     "topics": ["ai", "autogen", "chatgpt", "crewai", "dockerized-application", "genai", "llm", "model", "nextjs", "python", "ui"]
-  }  
+  }, {
+    "repo": "posit-dev/positron",
+    "desc": "Positron™, a next-generation data science IDE",
+    "officialSite": "",
+    "topics": []
+  }
 ]

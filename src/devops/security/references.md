@@ -361,6 +361,7 @@ tag:
 
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
+- [해커가 머신러닝을 사용해 공격하는 6가지 방법](https://itworld.co.kr/news/107984)
 - ["다목적 해킹 툴 개발, 탈취 데이터 요약…" AI로 고도화된 사이버 위협의 실태](https://itworld.co.kr/news/340561)
 - [개인 계정에 보호막 씌우는 마스킹 이메일 시작하는 방법](https://itworld.co.kr/news/340414)
 

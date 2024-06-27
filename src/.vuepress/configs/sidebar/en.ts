@@ -540,6 +540,15 @@ export const sidebarEn = sidebar({
         '/programming/js-angular/README.md',
         '/programming/js-angular/references.md',
         '/programming/js-angular/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-angular/articles/README.md',
+            asb.codemaze("js-angular"),
+          ]
+        }
       ]
     }, {
       text: 'Nest.js',
@@ -2084,6 +2093,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/linux-debian/articles/README.md',
+            asb.codemaze("linux-debian"),
             asb.nhn("linux-debian"),
           ]
         }
@@ -2202,6 +2212,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("docker"),
             asb.digitalocean("docker"),
             asb.learnk8s("docker"),
+            asb.codemaze("docker"),
             asb.yozm("docker"),
             asb.towardsdatascience("docker"),
           ]
@@ -2632,6 +2643,15 @@ export const sidebarEn = sidebar({
         '/devops/nginx/README.md',
         '/devops/nginx/references.md',
         '/devops/nginx/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/nginx/articles/README.md',
+            asb.codemaze("nginx"),            
+          ]
+        },
       ]
     }, 
     //endregion
@@ -2670,6 +2690,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/mysql/articles/README.md',
+            asb.codemaze("mysql"),
             asb.yozm("mysql"),
             asb.linecorp("mysql"),
           ]

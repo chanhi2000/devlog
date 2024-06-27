@@ -1,4 +1,4 @@
----
+
 lang: ko-KR
 title: References
 description: Career > References
@@ -216,6 +216,7 @@ tag:
 - [`@2fEJ` / 사용성 가설 수립의 중요성 - PM 강의 #16](https://brunch.co.kr/@@2fEJ/1368)
 - [`@2weV` / 호기심, 노력, 그리고 내 이야기](https://brunch.co.kr/@@2weV/516)
 - [`@2weV` / 혁신의 본질_더 좋은 것을 더 쉽고 더 저렴하게.](https://brunch.co.kr/@@2weV/517)
+- [`@@2fEJ` / PM의 숨은 힘 - 조직의 전략적 사고와 혁신을 이끌다 - 프로덕트 매니저가 전문가가 되기 위한 노력 #16](https://brunch.co.kr/@@2fEJ/1351)
 
 ---
 
@@ -418,6 +419,12 @@ tag:
 
 ---
 
+## InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공
+
+- [기술 부채 어떻게 상환할까?](https://insight.infograb.net/blog/2024/06/05/technical-debt-return/)
+
+---
+
 ## 주먹불끈
 
 - [책: 그들의 생각을 바꾸는 방법 - 딥 캔버싱](https://jusths.tistory.com/392)
@@ -448,6 +455,7 @@ tag:
 - [컴백](https://www.thestartupbible.com/2024/06/the-great-comeback.html)
 - [작은 시장, 작은 사람들, 큰 결과](https://www.thestartupbible.com/2024/06/things-take-time.html)
 - [인생에서 가장 도움이 되는 수업](https://www.thestartupbible.com/2024/06/public-speaking-and-writing-are-the-most-undervalued-classes.html)
+- [헛똑똑이들](https://www.thestartupbible.com/2024/06/cynics-sound-smart-but-vcs-have-to-be-optimists.html)
 
 ---
 
@@ -920,6 +928,8 @@ tag:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
+- ['C레벨 꿈꾸는 IT리더에게' 8가지 조언](https://www.ciokorea.com/news/35777)
+- ['죽은' 프로젝트를 확실히 죽이는 방법](https://www.ciokorea.com/news/36697)
 - [블로그ㅣ개발자에게 듣는 '좋은 소프트웨어'의 조건](https://ciokorea.com/news/230519)
 - [“IT 다운타임으로 기업 수익 9% 감소” 스플렁크 및 옥스포드 이코노믹스 연구](https://ciokorea.com/news/340778)
 - [칼럼 | 기술 채용의 떠오르는 난관은 ‘우수한 지원자 찾기’](https://ciokorea.com/news/340652)
@@ -1162,6 +1172,7 @@ https://blog.naver.com/&logId=
 
 ## Mimul Tech log
 
+- [프로그래밍에서 인지 편향](https://www.mimul.com/blog/cognitive-biases-in-programming/)
 - [사이드 프로젝트의 효용성 그리고 중요성](https://www.mimul.com/blog/why-side-projects-matter/)
 
 ---
@@ -1229,6 +1240,12 @@ https://blog.naver.com/&logId=
 ## zachocean
 
 - [Now is a good time to start a service business](https://www.zachocean.com/posts/service-business/)
+
+---
+
+## BBC News 코리아
+
+- [필요 이상의 자격을 갖춘 사람이 회사에 미치는 영향](https://www.bbc.com/korean/features-41577393)
 
 ---
 

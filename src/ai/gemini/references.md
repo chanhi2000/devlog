@@ -45,4 +45,10 @@ head:
 
 ---
 
+## pdf(s)
+
+<PDF url="https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf" />
+
+---
+
 <TagLinks />

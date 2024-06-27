@@ -1599,5 +1599,10 @@
     "desc": "🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.",
     "officialSite": "https://glasskube.dev",
     "topics": ["cloud-native", "cobra", "cobra-cli", "devops", "devops-tools", "docusaurus", "giscuss", "glasskube", "go", "golang", "htmx", "kubebuilder", "kubernetes", "kubernetes-operator", "package", "package-manager"]
+  }, {
+    "repo": "dorklyorg/dorkly",
+    "desc": "Contains source code for GitHub Action and docker bits for backend service",
+    "officialSite": "",
+    "topics": []
   }
 ]

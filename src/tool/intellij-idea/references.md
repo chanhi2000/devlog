@@ -90,4 +90,10 @@ head:
 
 ---
 
+## 기억보단 기록을
+
+- [IntelliJ의 .http를 사용해 Postman 대체하기](https://jojoldu.tistory.com/m/266)
+
+---
+
 <TagLinks />

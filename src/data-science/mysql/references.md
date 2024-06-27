@@ -79,6 +79,12 @@ head:
 
 ---
 
+## 리디주식회사 RIDI Corporation
+
+- [MariaDB Binlog을 이용한 변경사항 추적](https://ridicorp.com/story/binlog-collector/)
+
+---
+
 ## PlanetScale
 
 - [Pagination in MySQL](https://planetscale.com/blog/mysql-pagination)

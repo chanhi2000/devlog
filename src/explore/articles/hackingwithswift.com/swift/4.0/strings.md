@@ -49,7 +49,18 @@ isOriginal: false
 
 > Available from Swift 4.0
 
-<!-- TODO: 작성 -->
+This is a small change, but one guaranteed to make a lot of people happy: strings are collections again. This means you can reverse them, loop over them character-by-character, `map()` and `flatMap()` them, and more. For example:
+
+```swift
+let quote = "It is a truth universally acknowledged that new Swift versions bring new features."
+let reversed = quote.reversed()
+
+for letter in quote {
+    print(letter)
+}
+```
+
+This change was introduced as part of a broad set of amendments called the [String Manifesto (<FontIcon icon="iconfont icon-github"/>`apple/swift`)](https://github.com/apple/swift/blob/master/docs/StringManifesto.md).
 
 ::: details Other Changes in Swift 4.0
 

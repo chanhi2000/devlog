@@ -312,6 +312,7 @@ head:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
+- [쿠버네티스 '관리 지옥'에서 탈출하는 필수 툴 10가지](https://www.ciokorea.com/news/37578)
 - ['너무 복잡'··· 쿠버네티스 관리를 아무도 원하지 않는 이유](https://www.ciokorea.com/news/190458)
 
 ---

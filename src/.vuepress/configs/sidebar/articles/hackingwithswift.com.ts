@@ -46,6 +46,25 @@ export const template: SidebarGroupItem = {
             children: [
             ]
           }, {
+            text: "Changes in Swift 5.0",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 4.2",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/4.2/caseiterable.md',
+              '/explore/articles/hackingwithswift.com/swift/4.2/warning-error.md',
+              '/explore/articles/hackingwithswift.com/swift/4.2/dynamic-member-lookup.md',
+              '/explore/articles/hackingwithswift.com/swift/4.2/conditional-conformance.md',
+              '/explore/articles/hackingwithswift.com/swift/4.2/random.md',
+              '/explore/articles/hackingwithswift.com/swift/4.2/hashable.md',
+              '/explore/articles/hackingwithswift.com/swift/4.2/allsatisfy.md',
+              '/explore/articles/hackingwithswift.com/swift/4.2/remove-where.md',
+              '/explore/articles/hackingwithswift.com/swift/4.2/toggle.md',
+            ]
+          }, {
             text: "Changes in Swift 4.1",
             collapsible: true,
             children: [

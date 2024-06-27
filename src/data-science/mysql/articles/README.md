@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - code-maze.com
   - engineering.linecorp.com
   - yozm.wishket.com
   - sql
@@ -24,6 +25,13 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="Code Maze - C#, .NET and Web Development Tutorials"
+  desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
+  url="https://code-maze.com/latest-posts-on-code-maze/"
+  logo="/images/content/code-maze.com/favicon.png"
+  preview="/images/content/code-maze.com/banner.png"/>
 
 ```component VPCard
 {
@@ -46,6 +54,34 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## Code Maze - C#, .NET and Web Development Tutorials
+
+> code-maze.com
+
+```component VPCard
+{
+  "title": "ASP.NET Core Web API – Linux Deployment",
+  "desc": "This post is focused on .NET Core Linux Deployment. We will create a mysql database, install .net core, deploy the application and install nginx.",
+  "link": "/explore/articles/code-maze.com/net-core-web-development-part17.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding MySQL to ASP.NET Core App With Docker Compose",
+  "desc": "In this post, we are going to add a MySQL database as another container and connect it with our application utilizing Docker Compose.",
+  "link": "/explore/articles/code-maze.com/mysql-aspnetcore-docker-compose.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+<!-- END: code-maze.com -->
 
 ---
 

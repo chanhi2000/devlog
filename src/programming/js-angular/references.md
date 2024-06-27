@@ -4,15 +4,24 @@ title: References
 description: Angular.js > References
 icon: iconfont icon-share
 category:
+  - Node.js
   - Angular.js
   - References
 tag: 
   - js
-  - nodejs
   - node
+  - nodejs
   - angular
   - angularjs
   - angular-js
+head:
+  - - meta:
+    - property: og:title
+      content: Angular.js > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js-angular/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

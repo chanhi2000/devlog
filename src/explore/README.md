@@ -218,7 +218,7 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://www.getanyplant.com/favicon-32x32.png"
   preview="https://www.getanyplant.com/opengraph-image.png"/>
 
-<!-- @end Curated -->
+<!-- END:  Curated -->
 
 @tab Cheatsheet
 
@@ -312,7 +312,7 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
-<!-- @end Cheatsheet -->
+<!-- END:  Cheatsheet -->
 
 @tab Open Source
 
@@ -669,7 +669,7 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://onemillioncheckboxes.com/favicon.a21a1c26.svg"
   preview="rgba(0,92,200,0.2"/>
 
-<!-- @end Cool Project -->
+<!-- END:  Cool Project -->
 
 @tab Portfolio / Resume
 

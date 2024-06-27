@@ -53,7 +53,6 @@ tag:
   ]'
 />
 
-
 <VPBanner
   title="git - the simple guide - no deep shit!"
   content="just a simple guide for getting started with git. no deep shit ;)"
@@ -697,6 +696,34 @@ https://www.joinc.co.kr/w/Site
   url="https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide"
   logo="https://assets-global.website-files.com/5ba4ebe021cb91ae35dbf88c/5ba893b3b828fc1916538bc4_android-chrome-256x256.png"
   preview="https://assets-global.website-files.com/5ba4ebe021cb91ae35dbf88c/64915b58cd0e65617546326a_github_jupyter_hero_image.jpeg"/>
+
+<SiteInfo
+  name="Machine Learning  |  Google for Developers"
+  desc="Google's fast-paced, practical introduction to machine learning, featuring a series of lessons with video lectures, real-world case studies, and hands-on practice exercises."
+  url="https://developers.google.com/machine-learning/crash-course?hl=en"
+  logo="https://www.gstatic.com/devrel-devsite/prod/vb33e12289bba8e69a7a2381ed0b330f48e3451c31f78602f030bd1a47c2a4e59/developers/images/touchicon-180-new.png"
+  preview="https://developers.google.com/static/machine-learning/crash-course/images/mlcc-hero.png"/>
+
+<SiteInfo
+  name="Sass Guidelines — Korean translation"
+  desc="분별 있고, 유지∙확장 가능한 Sass 작성을 위한 주관적인 스타일가이드."
+  url="https://sass-guidelin.es/ko/"
+  logo="https://sass-guidelin.es/assets/images/favicon.png"
+  preview="https://sass-guidelin.es/assets/images/sass-guidelines.png"/>
+
+<SiteInfo
+  name="쿠버네티스 안내서"
+  desc="쿠버네티스 안내서 - 실습편"
+  url="https://subicura.com/k8s/"
+  logo="https://subicura.com/k8s/icons/apple-touch-icon.png"
+  preview="https://subicura.com/k8s/imgs/share.png"/>
+
+<SiteInfo
+  name="Git / GitHub 안내서"
+  desc="초보를 위한 Git / GitHub 안내서"
+  url="https://subicura.com/git/"
+  logo="https://subicura.com/git/icons/apple-touch-icon.png"
+  preview="https://subicura.com/git/imgs/share.png"/>
 
 <!-- @end Crashcourse -->
 

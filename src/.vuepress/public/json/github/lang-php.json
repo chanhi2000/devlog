@@ -224,5 +224,10 @@
     "desc": "Use WordPress backend with Laravel or any PHP application",
     "officialSite": "",
     "topics": ["corcel", "eloquent", "hacktoberfest", "laravel", "mvc", "php", "shortcode", "taxonomies", "wordpress"]
+  }, {
+    "repo": "hustoj/hustoj-neo",
+    "desc": "HUST Online Judge System neo Version",
+    "officialSite": "http://www.hustoj.org",
+    "topics": ["hust", "online-judge"]
   }
 ]

@@ -1564,5 +1564,10 @@
     "desc": "shader-like effects library for ratatui applications",
     "officialSite": "",
     "topics": ["ratatui", "tui", "tweening"]
+  }, {
+    "repo": "robertpsoane/ducker",
+    "desc": "A terminal app for managing docker containers, inpsired by K9s - https://k9scli.io/",
+    "officialSite": "https://crates.io/crates/ducker",
+    "topics": ["developer-tools", "docker", "ratatui-rs"]
   }
 ]

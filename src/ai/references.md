@@ -25,6 +25,14 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### Machine Learning
+
+- [머신러닝 용어집 |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/glossary&hl=ko)
+
+---
+
 ## arxiv
 
 <PDF url="https://arxiv.org/pdf/2405.13565" />
@@ -37,7 +45,8 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
-- [`towardsdatascience`/ The Math Behind the Adam Optimizer](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/the-math-behind-adam-optimizer.md) -->
+- [`jwyeom63` / \[번역\]정규표현식으로는 5일 걸리는 작업, 15분만에 끝내기](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
+- [`towardsdatascience` / The Math Behind the Adam Optimizer](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/the-math-behind-adam-optimizer.md) -->
 - [`@euisuk-chung` / 머신러닝 차원 축소 알고리즘](https://velog.io/@euisuk-chung/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9B%90-%EC%B6%95%EC%86%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [`naver-place-dev` / 지루하지 않게 코노미 사진 4만장 어노테이션하기 (머신러닝과 함께)](https://medium.com/naver-place-dev/%EC%A7%80%EB%A3%A8%ED%95%98%EC%A7%80-%EC%95%8A%EA%B2%8C-%EC%BD%94%EB%85%B8%EB%AF%B8-%EC%82%AC%EC%A7%84-4%EB%A7%8C%EC%9E%A5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%ED%95%A8%EA%BB%98-619c60f8a071)
 

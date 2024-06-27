@@ -35,6 +35,7 @@ head:
 
 ## Share & Discover Presentations | SlideShare
 
+- [백억개의 로그를 모아 검색하고 분석하고 학습도 시켜보자 : 로기스](https://www.slideshare.net/slideshow/ss-80885724/80885724)
 - [도메인 주도 설계의 본질](https://www.slideshare.net/baejjae93/ss-27536729?)
 - [How to build massive service for advance](https://www.slideshare.net/slideshow/how-to-build-massive-service-for-advance/124502152)
 - [우아한 모노리스](https://slideshare.net/slideshow/ss-224478403/224478403)
@@ -212,6 +213,10 @@ head:
 - [`@2fEJ` / 부정적 행동 버튼의 균형잡힌 대비 효과 - UX 디자인 가이드라인 배우기 #13](https://brunch.co.kr/@@2fEJ/1358)
 - [`@2fEJ` / 클릭 테스트가 뭐예요? - UX 리서치 강연 #16](https://brunch.co.kr/@@2fEJ/1364)
 - [`@2fEJ` / UX, 사용자 경험의 본질 - UX 디자인 강의 #16](https://brunch.co.kr/@@2fEJ/1367)
+- [`@@2fEJ` / 되돌릴 수 없는 버튼, '취소' 버튼의 신중한 디자인 - UX 디자인 가이드라인 배우기 #14](https://brunch.co.kr/@@2fEJ/1359)
+- [`@@2fEJ` / AS-IS와 To-Be를 UX장표에 어떻게 담아내는가? - PM 강의 #17](https://brunch.co.kr/@@2fEJ/1371)
+- [`@@2fEJ` / UX 디자인, 기업 지속가능성의 핵심 전략 - UX 리서치 강연 #17](https://brunch.co.kr/@@2fEJ/1370)
+- [`@@2fEJ` / 사용자 중심의 경험 디자인, 그 핵심 전략 - UX 디자인 강의 #17](https://brunch.co.kr/@@2fEJ/1369)
 
 ---
 
@@ -562,6 +567,18 @@ head:
 ## 디파이너리 헬프센터
 
 - [모바일(App/Web) 이미지 사이즈](https://help.dfinery.io/hc/ko/articles/18331475774745-%EB%AA%A8%EB%B0%94%EC%9D%BC-App-Web-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%82%AC%EC%9D%B4%EC%A6%88)
+
+---
+
+## Baekjoon – 스타트링크
+
+- [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/)
+
+---
+
+## Coderifleman's blog
+
+- [The Clean Architecture](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)
 
 ---
 

@@ -258,15 +258,12 @@ tag:
 }
 ```
 
-```component VPCard
-{
-  "title": "AI News - TILNOTE",
-  "desc": "GPT-4가 큐레이션한 AI에 대한 뉴스입니다. 구독하시면 매일 아침 8시 뉴스를 받아보실 수 있습니다.",
-  "link": "https://tilnote.io/news",
-  "logo": "https://tilnote.io/favicon-32x32.png",
-  "background": "rgba(38,62,154,0.2)"
-}
-```
+<SiteInfo
+  name="AI News - TILNOTE"
+  desc="GPT-4가 큐레이션한 AI에 대한 뉴스입니다. 구독하시면 매일 아침 8시 뉴스를 받아보실 수 있습니다."
+  url="https://tilnote.io/news"
+  logo="https://tilnote.io/favicon.ico"
+  preview="https://tilnote.io/images/tilnote-square.png"/>
 
 ```component VPCard
 {
@@ -1329,6 +1326,13 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 }
 ```
 
+<SiteInfo
+  name="Tech Blog Archives - 리디주식회사 RIDI Corporation"
+  desc="풍부한 상상, 깊은 통찰로 인류의 정신을 풍요롭게"
+  url="https://ridicorp.com/story-category/tech-blog/"
+  logo="https://ridicorp.com/wp-content/uploads/2022/03/cropped-favicon-512x512-1-192x192.png"
+  preview="https://ridicorp.com/wp-content/uploads/2022/03/metaimage_ridi-crop.png"/>
+
 <!-- @end Tech Blog (Korea) -->
 
 @tab App(s)
@@ -1579,6 +1583,7 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   "background": "rgba(69,153,164,0.2)"
 }
 ```
+
 :::
 
 https://woowacon.com/presentations

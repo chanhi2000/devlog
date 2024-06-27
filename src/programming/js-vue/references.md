@@ -147,4 +147,16 @@ head:
 
 ---
 
+## 캡틴판교 블로그
+
+- [왜 43%의 프론트엔드 개발자들은 Vue.js를 배우고 싶어하나?](https://joshua1988.github.io/web-development/translation/why-43percent-devs-wanna-learn-vuejs/)
+
+---
+
+## 코드쓰는사람
+
+- [GitLab은 Vue를 어떻게 사용하는가: 일 년 후](https://taegon.kim/archives/6698)
+
+---
+
 <TagLinks />

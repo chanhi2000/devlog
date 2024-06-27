@@ -333,7 +333,8 @@ head:
 
 ### 기억보단 기록을
 
-- [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528)
+- [IntelliJ의 .http를 사용해 Postman 대체하기](https://jojoldu.tistory.com/m/266)
+- [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/m/528)
 - [Jedis 보다 Lettuce 를 쓰자](https://jojoldu.tistory.com/m/418)
 
 ### 민수's 기술 블로그
@@ -367,6 +368,7 @@ head:
 - [5.1. 책 입력 화면 개요](https://ysedeveloper.tistory.com/m/entry/51-%EC%B1%85-%EC%9E%85%EB%A0%A5-%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%9A%94)
 - [5.2. 책 컨트롤러 클래스 생성](https://ysedeveloper.tistory.com/m/entry/52-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%9D%EC%84%B1)
 - [5.3. 책 생성 화면 컨트롤러 메소드 작성](https://ysedeveloper.tistory.com/m/entry/53-%EC%B1%85-%EC%83%9D%EC%84%B1-%ED%99%94%EB%A9%B4-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%9E%91%EC%84%B1)
+- [5.4. 책 생성 화면 뷰 생성](https://ysedeveloper.tistory.com/m/entry/54-%EC%B1%85-%EC%83%9D%EC%84%B1-%ED%99%94%EB%A9%B4-%EB%B7%B0-%EC%83%9D%EC%84%B1)
 
 ### Suhwan Jee's blog
 

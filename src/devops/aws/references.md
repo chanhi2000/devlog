@@ -431,4 +431,18 @@ head:
 
 ---
 
+## 컴공생의 발자취
+
+- [\[내일배움캠프 49일차 TIL\] AWS 계정 생성 및 IAM](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-49%EC%9D%BC%EC%B0%A8-TIL-AWS-%EA%B3%84%EC%A0%95-%EC%83%9D%EC%84%B1-%EB%B0%8F-IAM)
+- [\[AWS\] IAM이란? feat. 관리용 IAM사용자 생성하는 법](https://moonnight0.tistory.com/m/entry/AWS-IAM%EC%9D%B4%EB%9E%80-feat-%EA%B4%80%EB%A6%AC%EC%9E%90-IAM%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B2%95)
+- [\[AWS\] 계정 생성하기](https://moonnight0.tistory.com/m/entry/AWS-%EA%B3%84%EC%A0%95-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+
+---
+
+## asbubam's blog on 2dal.com
+
+- [AWS VPC basic](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
+
+---
+
 <TagLinks />

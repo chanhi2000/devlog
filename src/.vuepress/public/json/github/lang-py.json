@@ -4246,9 +4246,9 @@
     "topics": []
   }, {
     "repo": "SciPhi-AI/R2R",
-    "desc": "R2R is a RAG (Retrieval-Augmented Generation) engine with a RESTful API and prod features. Including hybrid search, knowledge graphs, and more..",
+    "desc": "R2R is a production-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more.",
     "officialSite": "https://r2r-docs.sciphi.ai/",
-    "topics": ["artificial-intelligence", "chatbot", "data-pipelines", "deep-learning", "langchain", "large-language-models", "llama-index", "llm", "machine-learning", "ocr", "pdf", "question-answering", "retrieval", "retrieval-augmented-generation", "retrieval-systems", "search"]
+    "topics": ["artificial-intelligence", "chatbot", "data-pipelines", "deep-learning", "langchain", "large-language-models", "llama-index", "llm", "machine-learning", "ocr", "pdf", "python", "question-answering", "retrieval", "retrieval-augmented-generation", "retrieval-systems", "search"]
   }, {
     "repo": "allmonday/pydantic-resolve",
     "desc": "a hierarchical solution for data fetching and processing",

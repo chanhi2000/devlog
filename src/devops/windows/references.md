@@ -113,13 +113,14 @@ tag:
 
 ## 코딩팩토리
 
-- [[복붙하세요] 로마 숫자 특수기호 모음집 (Ⅰ, Ⅱ, Ⅲ, Ⅳ, Ⅴ, Ⅵ, Ⅶ...)](https://coding-factory.tistory.com/1046)
-- [[복붙하세요] 말 줄임표 특수기호(···. ······.) 모음집](https://coding-factory.tistory.com/1047)
-- [[복붙하세요] 세모 모양 특수 문자 모음집(▲△▶▷◢◣◤◥◬)](https://coding-factory.tistory.com/1051)
-- [[복붙하세요] 네모 모양 특수 문자 모음집(□■▣▤▥▨▧▦▩)](https://coding-factory.tistory.com/1050)
-- [[복붙하세요] 별 모양 특수문자 모음집(★☆✪✫✦✧✬✭)](https://coding-factory.tistory.com/1049)
-- [[복붙하세요] 체크 표시 특수 문자 모음집(✓ ✔ ☑ √ ▣)](https://coding-factory.tistory.com/1052)
-
+- [\[복붙하세요\] 로마 숫자 특수기호 모음집 (Ⅰ, Ⅱ, Ⅲ, Ⅳ, Ⅴ, Ⅵ, Ⅶ...)](https://coding-factory.tistory.com/m/1046)
+- [\[복붙하세요\] 말 줄임표 특수기호(···. ······.) 모음집](https://coding-factory.tistory.com/m/1047)
+- [\[복붙하세요\] 세모 모양 특수 문자 모음집(▲△▶▷◢◣◤◥◬)](https://coding-factory.tistory.com/m/1051)
+- [\[복붙하세요\] 네모 모양 특수 문자 모음집(□■▣▤▥▨▧▦▩)](https://coding-factory.tistory.com/m/1050)
+- [\[복붙하세요\] 별 모양 특수문자 모음집(★☆✪✫✦✧✬✭)](https://coding-factory.tistory.com/m/1049)
+- [\[복붙하세요\] 체크 표시 특수 문자 모음집(✓ ✔ ☑ √ ▣)](https://coding-factory.tistory.com/m/1052)
+- [\[복붙하세요\] 얼굴 표정(웃는, 우는, 화난 표정) 특수문자, 이모지 모음집](https://coding-factory.tistory.com/m/1081)
+ 
 ---
 
 ## 멈춤보단 천천히라도

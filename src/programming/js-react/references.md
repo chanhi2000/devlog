@@ -193,6 +193,8 @@ head:
 - [`@eunbinn` / [번역] 리액트 컴파일러](https://velog.io/@eunbinn/react-compiler)
 - [`@u-ryu-00` / \[Tool\] React를 위한 Storybook 도입하기 1탄](https://velog.io/@u-ryu-00/Tool-React%EB%A5%BC-%EC%9C%84%ED%95%9C-Storybook-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 - [`haryan248` / 당기세요(pull) === 민다(push)](https://velog.io/@haryan248/%EB%8B%B9%EA%B2%A8%EC%84%9C-%EC%83%88%EB%A1%9C%EA%B3%A0%EC%B9%A8)
+- [`pjc0247` / \[React 문제 노트\] loading 띄우기](https://velog.io/@pjc0247/React-%EB%AC%B8%EC%A0%9C-%EB%85%B8%ED%8A%B8-loading-%EB%9D%84%EC%9A%B0%EA%B8%B0)
+- [`pjc0247` / \[React 문제 노트\] 최신값 참조하기](https://velog.io/@pjc0247/React-%EB%AC%B8%EC%A0%9C-%EB%85%B8%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EA%B0%92-%EC%B0%B8%EC%A1%B0%ED%95%98%EA%B8%B0)
 
 ---
 

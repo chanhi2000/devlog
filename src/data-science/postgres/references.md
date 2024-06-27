@@ -359,4 +359,16 @@ head:
 
 ---
 
+## Louis.Kim 의 제 3막
+
+[\[Postgresql\] 에 대한 소개 - 1st study](https://hyunki1019.tistory.com/m/192)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- [구식 포스트그레SQL이 다시 유행하는 이유](https://www.itworld.co.kr/news/107495)
+
+---
+
 <TagLinks />

@@ -82,6 +82,7 @@ tag:
 - [`@jwlee010523` / Swift 기본 연산자(Basic Operators)](https://velog.io/@jwlee010523/swift-basic-operators)
 - [`@jwlee010523` / Swift 기본문법](https://velog.io/@jwlee010523/swift-basics)
 - [`@jwlee010523` / Swift 문자열(String)](https://velog.io/@jwlee010523/swift-string)
+- [`jwlee010523` / Swift 콜렉션 타입(Collection Types)](https://velog.io/@jwlee010523/swift-collection-types)
 
 ---
 

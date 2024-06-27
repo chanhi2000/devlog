@@ -201,6 +201,16 @@ head:
 
 ```component VPCard
 {
+  "title": "자바 개발자가 Go 잠깐 사용해 봤습니다(1) | Popit",
+  "desc": "마이크로 서비스를 구성할 경우 각각의 서비스 특징에 따라 다른 프로그램언어 또는 플랫폼으로 서비스를 구성하는 경우가 있습니다. 필자가 있는 팀에서는 주로 Go 언어를 많이 사용하지만 Java, Python, Rails, C# 등으로 만들어진 서비스도 운영되고 있습니다. 이런 상황에서 개발자는 다양한 언어에 대한 이해를 하고 필요에 따라서는 서비스의 개발 또는 수정을 할 수 있어야 합니다. 필자의 경우 과거에는 주로 자바 언어를 이용하여 많이 개발하였습니다. 자바 언어를 사용했지만 Spring 등은 많이 사용해보지 않았습니다. 추가로 C, Ruby & Rails 등으로도 서비스를 개발, 운영한 경험이 있습니다. 이런 경험을 기반으로 최근 몇개월 동안은 Go 언어를 이용하여 서비스를 개발하고 있습니다. 이번 글에서는 저와 같이 자바 언어에 익숙한 개발자들이 Go 언어를 처음 접할 때",
+  "link": "/explore/articles/popit.kr/java-vs-go-1.md",
+  "logo": "https://popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
+  "background": "rgba(0,21,41,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Go 언어로 만든 REST에 ETag 캐시 적용하기 | Popit",
   "desc": "ETag는 Entity Tag의 줄임말이다. Entity라는 말이 생소할 수도 있는데 Entity는 HTTP 메시지(Messages)와 연관이 있다. HTTP 메시지와 Entity HTTP 메시지는 HTTP 통신상에서 웹 서버와 클라이언트가 서로 주고받는 것을 의미한다. 클라이언트가 웹 서버로 보내는 메시지를 요청 메시지(Request Messages)라고 부르며, 웹 서버가 요청에 의해 클라언트에게 보내는 메시지를 응답 메시지(Response Messages)라고 부른다. Entity는 HTTP 메시지의 일부를 말하는데 메시지는 Entity를 감싸 만든다. 즉 메시지는 컨테이너로 Entity는 화물로 비유할 수 있다. 아래 그림은 HTTP 메시지에서 Entity 영역을 보여준다.",
   "link": "/explore/articles/popit.kr/apply-etag-cache-to-rest-service-made-with-go.md",

@@ -19,6 +19,8 @@ tag:
   - swift-5.5
   - swift-5.4
   - swift-5.3
+  - swift-4.1
+  - swift-4.0  
   - swift-3.1
   - swift-3.0
   - swift-2.2
@@ -1248,7 +1250,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 }
 ```
 
-
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 4.2 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-4-1-to-4-2.playground.zip)
 
 :::
@@ -1324,7 +1325,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
 
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 4.1 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-4-0-to-4-1.playground.zip)
 

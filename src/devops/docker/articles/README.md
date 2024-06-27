@@ -12,6 +12,7 @@ tag:
   - freecodecamp.org
   - digitalocean.com
   - learnk8s.io
+  - code-maze.com
   - yozm.wishket.com
   - blog.gangnamunni.com
   - towardsdatascience.com
@@ -50,6 +51,13 @@ head:
   url="https://learnk8s.io/archive"
   logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
   preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
+
+<SiteInfo
+  name="Code Maze - C#, .NET and Web Development Tutorials"
+  desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
+  url="https://code-maze.com/latest-posts-on-code-maze/"
+  logo="/images/content/code-maze.com/favicon.png"
+  preview="/images/content/code-maze.com/banner.png"/>
 
 ```component VPCard
 {
@@ -181,6 +189,74 @@ head:
 ```
 
 <!-- END: learnk8s.io -->
+
+---
+
+## Code Maze - C#, .NET and Web Development Tutorials
+
+> code-maze.com
+
+```component VPCard
+{
+  "title": "Why Docker: The Docker CLI Through Examples",
+  "desc": "In this part, we talk about the powerful Docker CLI and go through some of the potential use cases and scenarios that Docker is useful for.",
+  "link": "/explore/articles/code-maze.com/why-docker-docker-cli-examples.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Dockerizing ASP.NET Core Application With Dockerfiles",
+  "desc": "In this article, we are going to focus on dockerizing our ASP.NET Core application with Dockerfiles, and understanding how Dockerfiles commands work.",
+  "link": "/explore/articles/code-maze.com/aspnetcore-app-dockerfiles.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding MySQL to ASP.NET Core App With Docker Compose",
+  "desc": "In this post, we are going to add a MySQL database as another container and connect it with our application utilizing Docker Compose.",
+  "link": "/explore/articles/code-maze.com/mysql-aspnetcore-docker-compose.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Docker Hub vs Creating a Local Docker Registry",
+  "desc": "In this part, we are going to learn the difference between a Docker registry and a Docker repository and how to persist the changes we made to our images.",
+  "link": "/explore/articles/code-maze.com/docker-hub-vs-creating-docker-registry.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Preparing a Continuous Integration Environment for Docker",
+  "desc": "In this part, we talk about the powerful Docker CLI and go through some of the potential use cases and scenarios that Docker is useful for.",
+  "link": "/explore/articles/code-maze.com/preparing-ci-environment-docker.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Continuous Integration with TeamCity and Docker",
+  "desc": "In this article, we are going to learn a bit about more advanced features of TeamCity, how to build Docker images and run integration tests.",
+  "link": "/explore/articles/code-maze.com/ci-aspnetcoreapp-docker.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+<!-- code-maze.com -->
 
 ---
 

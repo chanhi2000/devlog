@@ -11,13 +11,14 @@ tag:
   - blog
   - freecodecamp.org
   - kodeco.com
+  - kt.academy
   - yozm.wishket.com
   - meetup.nhncloud.com
   - d2.naver.com
   - blog.gangnamunni.com
   - tech.kakaopay.com
-  - kt.academy
   - engineering.linecorp.com
+  - popit.kr
   - java
   - kotlin
 head:
@@ -45,6 +46,13 @@ head:
   url="https://kodeco.com/library?domain_ids%5B%5D=2&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
   logo="https://kodeco.com/apple-touch-icon.png"
   preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
+
+<SiteInfo
+  name="Kt. Academy"
+  desc="Teaching programming, with focus on the best practices."
+  url="https://kt.academy/article"
+  logo="https://kt.academy/logo.png"
+  preview="https://kt.academy/images/logo_full.png"/>
 
 ```component VPCard
 {
@@ -87,13 +95,6 @@ head:
   logo="https://tech.kakaopay.com/favicon.ico"
   preview="https://tech.kakaopay.com/_astro/techlog.c831e159_Z12ejLo.png"/>
 
-<SiteInfo
-  name="Kt. Academy"
-  desc="Teaching programming, with focus on the best practices."
-  url="https://kt.academy/article"
-  logo="https://kt.academy/logo.png"
-  preview="https://kt.academy/images/logo_full.png"/>
-
 ```component VPCard
 {
   "title": "Blog - LINE ENGINEERING",
@@ -101,6 +102,16 @@ head:
   "link": "https://engineering.linecorp.com/ko/blog/",
   "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
   "background": "rgba(31,31,31,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Popit | 전문 지식 공유를 위한 팀블로그",
+  "desc": "전문 지식 공유를 위한 팀블로그",
+  "link": "https://popit.kr/page/1",
+  "logo": "https://popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
+  "background": "rgba(0,21,41,0.2)"
 }
 ```
 
@@ -151,6 +162,116 @@ head:
   "background": "rgba(252,78,2,0.2)"
 }
 ```
+
+<!-- END: kodeco.com -->
+
+---
+
+## Kt. Academy
+
+> kt.academy
+
+```component VPCard
+{
+  "title": "Static Code Analysers",
+  "desc": "All you need to know about Static Code Analysers and Detekt.",
+  "link": "/explore/articles/kt.academy/ak-static-analysis.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Cancellation in Kotlin Coroutines",
+  "desc": "Everything you need to know about the cancellation mechanism in Kotlin Coroutines.",
+  "link": "/explore/articles/kt.academy/cc-cancellation.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Generics in Kotlin",
+  "desc": "The essence of how generics work in Kotlin.",
+  "link": "/explore/articles/kt.academy/kfde-generics.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "A Pattern for Composing Flow Operations",
+  "desc": "Extending and operating on top of your existing flows",
+  "link": "/explore/articles/kt.academy/pattern-for-composing-flows.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Item 29: Minimize elements’ visibility",
+  "desc": "Why we should minimize elements’ visibility and how to do it.",
+  "link": "/explore/articles/kt.academy/ek-element-visibility.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How many threads your network client uses?",
+  "desc": "Many popular network clients consume way more threads than you might expect. Let's overview the problem and find a solution.",
+  "link": "/explore/articles/kt.academy/network-client-threads.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Mutable objects or properties?",
+  "desc": "Time to answer the question: var/readonly vs val/mutable. Which one should you use?",
+  "link": "/explore/articles/kt.academy/var-readonly-vs-val-mutable.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The problem of union types for type systems",
+  "desc": "Why union types are not such a good idea for static type systems.",
+  "link": "/explore/articles/kt.academy/union-types-into.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Power Assert now in Kotlin!",
+  "desc": "What is Power Assert, how to use it, and how it works in Kotlin.",
+  "link": "/explore/articles/kt.academy/power-assert.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Item 27: Specify API stability",
+  "desc": "How do we specify API stability and why it is so important.",
+  "link": "/explore/articles/kt.academy/ek-api-stability.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+<!-- END: kt.academy -->
 
 ---
 
@@ -350,114 +471,6 @@ head:
 
 ---
 
-## Kt. Academy
-
-> kt.academy
-
-```component VPCard
-{
-  "title": "Static Code Analysers",
-  "desc": "All you need to know about Static Code Analysers and Detekt.",
-  "link": "/explore/articles/kt.academy/ak-static-analysis.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Cancellation in Kotlin Coroutines",
-  "desc": "Everything you need to know about the cancellation mechanism in Kotlin Coroutines.",
-  "link": "/explore/articles/kt.academy/cc-cancellation.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Generics in Kotlin",
-  "desc": "The essence of how generics work in Kotlin.",
-  "link": "/explore/articles/kt.academy/kfde-generics.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "A Pattern for Composing Flow Operations",
-  "desc": "Extending and operating on top of your existing flows",
-  "link": "/explore/articles/kt.academy/pattern-for-composing-flows.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Item 29: Minimize elements’ visibility",
-  "desc": "Why we should minimize elements’ visibility and how to do it.",
-  "link": "/explore/articles/kt.academy/ek-element-visibility.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "How many threads your network client uses?",
-  "desc": "Many popular network clients consume way more threads than you might expect. Let's overview the problem and find a solution.",
-  "link": "/explore/articles/kt.academy/network-client-threads.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Mutable objects or properties?",
-  "desc": "Time to answer the question: var/readonly vs val/mutable. Which one should you use?",
-  "link": "/explore/articles/kt.academy/var-readonly-vs-val-mutable.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "The problem of union types for type systems",
-  "desc": "Why union types are not such a good idea for static type systems.",
-  "link": "/explore/articles/kt.academy/union-types-into.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Power Assert now in Kotlin!",
-  "desc": "What is Power Assert, how to use it, and how it works in Kotlin.",
-  "link": "/explore/articles/kt.academy/power-assert.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Item 27: Specify API stability",
-  "desc": "How do we specify API stability and why it is so important.",
-  "link": "/explore/articles/kt.academy/ek-api-stability.md",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
-}
-```
-
-<!-- END: kt.academy -->
-
----
-
 ## Blog - LINE ENGINEERING
 
 > engineering.linecorp.com
@@ -481,6 +494,26 @@ head:
   "background": "rgba(31,31,31,0.2)"
 }
 ```
+
+<!-- END: engineering.linecorp.com -->
+
+---
+
+## Popit | 전문 지식 공유를 위한 팀블로그
+
+> popit.kr
+
+```component VPCard
+{
+  "title": "자바 개발자가 Go 잠깐 사용해 봤습니다(1) | Popit",
+  "desc": "마이크로 서비스를 구성할 경우 각각의 서비스 특징에 따라 다른 프로그램언어 또는 플랫폼으로 서비스를 구성하는 경우가 있습니다. 필자가 있는 팀에서는 주로 Go 언어를 많이 사용하지만 Java, Python, Rails, C# 등으로 만들어진 서비스도 운영되고 있습니다. 이런 상황에서 개발자는 다양한 언어에 대한 이해를 하고 필요에 따라서는 서비스의 개발 또는 수정을 할 수 있어야 합니다. 필자의 경우 과거에는 주로 자바 언어를 이용하여 많이 개발하였습니다. 자바 언어를 사용했지만 Spring 등은 많이 사용해보지 않았습니다. 추가로 C, Ruby & Rails 등으로도 서비스를 개발, 운영한 경험이 있습니다. 이런 경험을 기반으로 최근 몇개월 동안은 Go 언어를 이용하여 서비스를 개발하고 있습니다. 이번 글에서는 저와 같이 자바 언어에 익숙한 개발자들이 Go 언어를 처음 접할 때",
+  "link": "/explore/articles/popit.kr/java-vs-go-1.md",
+  "logo": "https://popit.kr/wp-content/uploads/2016/08/favicon_32x32.png",
+  "background": "rgba(0,21,41,0.2)"
+}
+```
+
+<!-- END: popit.kr -->
 
 ---
 

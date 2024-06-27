@@ -321,6 +321,12 @@ head:
 
 ---
 
+## DPS8M Blog
+
+- [New Project：Hardware (FPGA) DPS-8/M ∕ FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

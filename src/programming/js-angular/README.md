@@ -4,11 +4,15 @@ title: Angular.js
 description: Angular.js
 icon: fa-brands fa-angular
 category:
+  - Node.js
   - Angular.js 
 tag: 
   - js
   - node
   - nodejs
+  - angular
+  - angularjs
+  - angular-js
 ---
 
 # {{ $frontmatter.description }} 관련
