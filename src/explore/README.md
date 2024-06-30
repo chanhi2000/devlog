@@ -284,31 +284,11 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 
 ```component VPCard
 {
-  "title": "GRID: A simple visual cheatsheet for CSS Grid Layout",
-  "desc": "Learn all about the properties available in CSS Grid Layout through simple visual examples.",
-  "link": "https://grid.malven.co/",
-  "logo": "https://grid.malven.co/apple-touch-icon.png",
-  "background": "rgba(17,17,17,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "FLEX: A simple visual cheatsheet for flexbox",
   "desc": "Learn all about the properties available in flexbox through simple visual examples.",
   "link": "https://flexbox.malven.co/",
   "logo": "https://flexbox.malven.co/apple-touch-icon.png",
   "background": "rgba(17,17,17,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Easing Functions Cheat Sheet",
-  "desc": "Easing functions specify the speed of animation to make the movement more natural. Real objects don't just move at a constant speed, and do not start and stop in an instant. This page helps you choose the right easing function.",
-  "link": "https://easings.net/",
-  "logo": "https://easings.net/96.8aa68ac4.png",
-  "background": "rgba(51,108,214,0.2)"
 }
 ```
 
@@ -668,6 +648,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   url="https://onemillioncheckboxes.com/"
   logo="https://onemillioncheckboxes.com/favicon.a21a1c26.svg"
   preview="rgba(0,92,200,0.2"/>
+
+<SiteInfo
+  name="HNPWA"
+  desc="Hacker News readers as Progressive Web Apps"
+  url="https://hnpwa.com/"
+  logo="https://hnpwa.com/assets/favicon.ico"
+  preview="https://hnpwa.com/assets/images/hnpwa-showcase.png"/>
 
 <!-- END:  Cool Project -->
 

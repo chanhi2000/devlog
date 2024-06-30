@@ -85,6 +85,9 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`proandroiddev` / Jetpack Compose Migration: Best Practices and Strategies](https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe)
+- [`proandroiddev` / RecyclerView Guide — Pagination, View Types, Shimmer, Error Loading and more…](https://proandroiddev.com/everything-you-need-to-know-about-recyclerview-577bf9248298)
+- [`proandroiddev` / How to Avoid Dependency Conflicts in Android Multi-Module Apps](https://proandroiddev.com/how-to-avoid-dependency-conflicts-in-multi-module-android-apps-88ea88bc48b2)
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`proandroiddev` / Building a widget using Jetpack Glance](https://proandroiddev.com/building-a-widget-using-jetpack-glance-59317dfbfe9)
 - [`androiddevelopers` / What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43)
@@ -137,7 +140,8 @@ tag:
 - [`mmartosdev` / Web-based drag-and-drop in Compose Multiplatform](https://medium.com/@mmartosdev/web-based-drag-and-drop-in-compose-multiplatform-b4d7e2a0529d)
 - [`kerry.bisset` / Modernizing Application Settings in Kotlin Multiplatform with DataStore and Koin](https://medium.com/@kerry.bisset/modernizing-application-settings-in-kotlin-multiplatform-with-datastore-and-koin-b1156229fd57)
 - [`mmartosdev` / Embedding Compose Multiplatform code into Medium articles](https://medium.com/@mmartosdev/embedding-compose-multiplatform-code-into-medium-articles-cc1141f5db34)
- 
+- [`joostklitsie` / Stop throwing exceptions!](https://medium.com/@joostklitsie/stop-throwing-exceptions-4282c8472027)
+
 ---
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
@@ -145,7 +149,7 @@ tag:
 - [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
 - [`bubenheimer` / Effective Map Composables: Non-Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-non-draggable-markers-2b2)
 - [`tkuenneth` / From Swing to Jetpack Compose Desktop #1](https://dev.to/tkuenneth/from-swing-to-jetpack-compose-desktop-1-12kf)
-
+-
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
@@ -486,6 +490,12 @@ tag:
 ## Daniel Perez
 
 - [A Pragmatic Introduction To Dagger on Android Part 1: Why use Dagger?](https://danperez.dev/blog/1)
+
+---
+
+## Jeroen Mols
+
+- [Android emulator access to local server](https://jeroenmols.com/blog/2023/01/25/development-server-emulator/)
 
 ---
 

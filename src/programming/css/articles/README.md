@@ -116,6 +116,16 @@ head:
 
 ```component VPCard
 {
+  "title": "How to Build Great HTML Form Controls",
+  "desc": "Today I'm going to show you all the things to consider when building the perfect HTML input. Despite its seemingly simple nature, there's actually a lot that goes into it. How to Make the Control  Well, we need to start somewhere. Might as well start with the control itself.",
+  "link": "/explore/articles/freecodecamp.org/perfect-html-input.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "How to Add Media to Your HTML Email Template",
   "desc": "In my previous article, we explored the fundamentals of designing and coding a simple HTML email template that adapts beautifully across different devices and email clients. I got a couple of questions about adding media to the HTML email template...",
   "link": "/explore/articles/freecodecamp.org/how-to-add-media-to-your-html-email-template.md",
@@ -139,6 +149,16 @@ head:
   "title": "How to Use Breakpoints for Responsive Web Design",
   "desc": "Breakpoints are fundamental to the concept of responsive web design. They enable websites to adapt seamlessly across different devices and screen sizes.  Breakpoints mark the points at which a website's layout and content should change to ensure optimal user experience on devices ranging from smartphones and tablets to desktop...",
   "link": "/explore/articles/freecodecamp.org/breakpoints-for-responsive-web-design.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Media Queries vs Container Queries – Which Should You Use and When?",
+  "desc": "As the web evolves, new tools and ideas are released with the goal of making our lives as web developers easier. This means we have to choose whether to stick with the old ways or discard them entirely for the shiny new stuff. But does this always demand an either-or...",
+  "link": "/explore/articles/freecodecamp.org/media-queries-vs-container-queries.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -362,6 +382,16 @@ head:
 
 ```component VPCard
 {
+  "title": "How To Build A Magazine Layout With CSS Grid Areas",
+  "desc": "Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.",
+  "link": "/explore/articles/smashingmagazine.com/build-magazine-layout-css-grid-areas.md",
+  "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
+  "background": "rgba(211,58,44,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "The Modern Guide For Making CSS Shapes",
   "desc": "In this comprehensive guide, Temani Afif explores different techniques for creating common shapes with the smallest and most flexible code possible.",
   "link": "/explore/articles/smashingmagazine.com/modern-css-layouts-no-framework-needed.md",
@@ -427,6 +457,16 @@ head:
 ## 요즘IT
 
 > yozm.wishket.com
+
+```component VPCard
+{
+  "title": "개발자에게 웹 폰트 최적화가 중요한 이유 | 요즘IT",
+  "desc": "개발자에게 웹 폰트 최적화가 중요한 이유",
+  "link": "/explore/articles/yozm.wishket.com/2107.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

@@ -18,6 +18,7 @@ export const template: SidebarInfoTemplate = {
       "end-of-gatsby-journey", // 2024.03.06
     ]],[
     "css", [
+      "build-magazine-layout-css-grid-areas", // 2023-02-06
       "modern-guide-making-css-shapes", // 2024-05-10
       "times-need-custom-property-instead-css-variable", // 2024-05-13
       "beyond-css-media-queries", // 2024-05-16
@@ -40,6 +41,7 @@ export const template: SidebarInfoTemplate = {
       "transforming-relationship-between-designers-developers", // 2024-05-15
     ]],[
     "all", [
+      "build-magazine-layout-css-grid-areas", // 2023-02-06
       "guide-command-line-data-manipulation-cli-miller", // 2022.12.27
       "end-of-gatsby-journey", // 2024.03.06
       "harness-mouse-interaction-data-machine-learning", // 2024-05-06

@@ -92,6 +92,8 @@ fun getUsers(callback: (List<User>)->Unit) {
 }
 ```
 
+Also, when there is a direct alternative to the old function, specify it using `ReplaceWith` annotation, to allow the IDE to make an automatic transition:
+
 ```kotlin
 @Deprecated("Use suspending getUsers instead",
 ReplaceWith("getUsers()"))
@@ -99,6 +101,8 @@ fun getUsers(callback: (List<User>)->Unit) {
   //...
 }
 ```
+
+An example from the stdlib:
 
 ```kotlin
 @Deprecated("Use readBytes() overload without "+

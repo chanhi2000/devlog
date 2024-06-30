@@ -30,6 +30,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`betterprogramming` / Pandas Illustrated: The Definitive Visual Guide to Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
+
+---
+
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`oscarleo` / How to Create a Beautiful Polar Histogram With Python and Matplotlib](https://dev.to/oscarleo/how-to-create-a-beautiful-polar-histogram-with-python-and-matplotlib-400l)
@@ -100,7 +106,14 @@ head:
 
 ## Confessions of a Data Guy
 
+- [REPLACING PANDAS WITH POLARS. A PRACTICAL GUIDE.](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/)
 - [POLARS VS PANDAS. INSIDE AN AWS LAMBDA.](https://www.confessionsofadataguy.com/polars-vs-pandas-inside-an-aws-lambda/)
+
+---
+
+## Math ∩ Programming — CodeSolid.com
+
+- [Python Parquet and Arrow: Using PyArrow with Pandas](https://codesolid.com/python-pyarrow-and-parquet/)
 
 ---
 

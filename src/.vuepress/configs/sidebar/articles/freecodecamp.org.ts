@@ -35,6 +35,8 @@ export const template: SidebarInfoTemplate = {
       "the-javascript-this-keyword-explained-with-examples", // 2024-06-05
       "weakmap-and-weakset-in-javascript", // 2024-06-07
       "scope-closures-and-hoisting-in-javascript", // 2024-06-26
+      "how-to-change-background-color-with-javascript", // 2024-06-28
+      "javascript-gamedev-with-kaboomjs", // 2024-06-28
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024-03-28
@@ -71,9 +73,11 @@ export const template: SidebarInfoTemplate = {
       "what-are-controlled-and-uncontrolled-components-in-react", // 2024-06-21
       "react-how-to-validate-user-input", // 2024-06-24
       "whats-new-in-react-19", // 2024-06-25
+      "mastering-shadcn-ui-components", // 2024-06-28
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
+      "mastering-shadcn-ui-components", // 2024-06-28
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -82,9 +86,11 @@ export const template: SidebarInfoTemplate = {
       "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
     ]],[
     "css", [
+      "perfect-html-input", // 2023-01-05
       "how-to-add-media-to-your-html-email-template", // 2024-04-23
       "how-to-create-a-mansory-layout-using-html-and-css", // 2024-06-18
       "breakpoints-for-responsive-web-design", // 2024-06-24
+      "media-queries-vs-container-queries", // 2024-06-28
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
@@ -255,6 +261,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
+      "perfect-html-input", // 2023-01-05
       "how-to-parse-a-string-in-python", // 2023-05-04
       "postgresql-indexing-strategies", // 2023-05-12
       "check-python-version-how-to-check-py-in-mac-windows-and-linux", // 2023-07-07
@@ -382,6 +389,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-database-migrations-in-go", // 2024-06-26
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
       "migrate-from-play-core-library", // 2024-06-26
+      "how-to-change-background-color-with-javascript", // 2024-06-28
+      "mastering-shadcn-ui-components", // 2024-06-28
+      "media-queries-vs-container-queries", // 2024-06-28
     ]],
   ]),
 }

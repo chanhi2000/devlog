@@ -11,6 +11,7 @@ tag:
   - blog
   - freecodecamp.org
   - frontendmasters.com
+  - yozm.wishket.com
   - meetup.nhncloud.com
   - d2.maver.com
   - js
@@ -219,6 +220,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Change Background Color with JavaScript – BG Color in JS and HTML",
+  "desc": "You can style elements with JavaScript using the element's style property. In this article, you'll learn how to change background color using JavaScript. Here's what the mini project you'll build looks like: In the image above, each button changes t...",
+  "link": "/explore/articles/freecodecamp.org/how-to-change-background-color-with-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "JavaScript GameDev with Kaboom.js",
+  "desc": "Creating a game can be one of the most rewarding experiences in programming, and building a Metroidvania-style game takes that excitement to another level. These games are known for their intricate maps, challenging enemies, and complex mechanics tha...",
+  "link": "/explore/articles/freecodecamp.org/javascript-gamedev-with-kaboomjs.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -281,6 +302,24 @@ head:
 
 ---
 
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기 | 요즘IT",
+  "desc": "프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기",
+  "link": "/explore/articles/yozm.wishket.com/2106.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
+
+---
+
 ## NHN Cloud Meetup - NHN 기술 블로그
 
 > meetup.nhncloud.com
@@ -326,6 +365,16 @@ head:
   "title": "RTCS 실시간 웹 서비스를 위한 도전 | NAVER D2",
   "desc": "RTCS 실시간 웹 서비스를 위한 도전",
   "link": "/explore/articles/d2.naver.com/1052.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "사용자의 액션에 반응하는 UI 라이브러리, eg.Axes | NAVER D2",
+  "desc": "사용자의 액션에 반응하는 UI 라이브러리, eg.Axes",
+  "link": "/explore/articles/d2.naver.com/0590136.md",
   "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }

@@ -64,4 +64,10 @@ head:
 
 ---
 
+## Maurycy's blog
+
+- [The physics of (airplane) flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
+
+---
+
 <TagLinks />

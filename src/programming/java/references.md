@@ -64,7 +64,7 @@ tag:
 
 ### ITWorld
 
-- ["클라우드 네이티브로 한 걸음 더 가까이" 다가간 자바 프레임워크 8종](https://www.itworld.co.kr/news/242709)
+- ["클라우드 네이티브로 한 걸음 더 가까이" 다가간 자바 프레임워크 8종](https://itworld.co.kr/news/242709)
 
 ### HowToDoInJava
 
@@ -118,6 +118,7 @@ tag:
 
 - [`mjsf1234` / 🔥 Mastering Java Concurrency: Dive into Part 1! 🚀](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-1-291h)
 - [`antofik` / Roadmap - Senior Java Developer 2024](https://dev.to/antofik/senior-java-developer-2024-2cof)
+- [`wkrzywiec` / Java Series: Flatmap](https://dev.to/wkrzywiec/java-series-flatmap-2fif?)
 
 ### 동팡
 
@@ -285,7 +286,7 @@ tag:
 
 ### ITWorld Korea
 
-- [자바의 새로운 부드러움에 익숙해지기](https://www.itworld.co.kr/news/330776)
+- [자바의 새로운 부드러움에 익숙해지기](https://itworld.co.kr/news/330776)
 
 ### InfoQ
 
@@ -498,11 +499,25 @@ tag:
 
 - [\[Mac\] Java 21 & Gradle 8 설치하기](https://jojoldu.tistory.com/m/789)
 
----
-
-## stulle123's Blog
+### stulle123's Blog
 
 - [1-click Exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
+
+### 테오의 학습기록
+
+- [gRPC basic concepts](https://dev-ws.tistory.com/m/123)
+
+### <FontIcon icon="iconfont icon-naver"/>NAVER D2
+
+- [딥러닝과 OpenCV를 활용해 사진 속 글자 검출하기](https://d2.naver.com/helloworld/8344782)
+
+### Piotr's TechBlog
+
+- [Useful & Unknown Java Libraries](https://piotrminkowski.com/2023/01/30/useful-unknown-java-libraries/)
+
+### Java, Spring Boot, Microservices, Cloud and DevOps Tutorials
+
+- [My attempt to understand why people perceive Java as complex](https://www.sivalabs.in/my-attempt-to-understand-why-people-perceive-java-as-complex/)
 
 ---
 
@@ -733,6 +748,7 @@ tag:
 
 - [Kotlin 자주 사용하는 패턴 정리](https://cheese10yun.github.io/kotlin-pattern/)
 - [Kotlin 코루틴으로 성능 개선 - Flow를 활용한 다중 요청 처리](https://cheese10yun.github.io/kotlin-flow/)
+- [코루틴을 이용한 성능 개선 Flow를 활용한 다중 요청 처리](https://cheese10yun.github.io/kotlin-flow/)
 
 ### 오늘도 끄적끄적
 
@@ -800,6 +816,10 @@ tag:
 ### Soo Story
 
 - [BlockHound - Webflux를 사용할 때 Blocking 코드가 사용되고 있는지 검출하는 방법](https://findstar.pe.kr/2023/03/25/block-hound-for-webflux/)
+
+### AKJAW
+
+- [5 Beginner Testing Mistakes I Noticed While Working with Less Experienced Developers](https://akjaw.com/5-beginner-testing-mistakes-i-noticed-while-working-with-less-experienced-developers/)
 
 ---
 

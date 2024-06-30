@@ -285,8 +285,8 @@ head:
 
 ## KATE.log
 
-- [[Threepark] 백엔드 서버와 핵심 기능 구현](https://he-kate1130.tistory.com/96)
-- [[Threepark] 3. 모델 서빙 - (1)  Flask 작성](https://he-kate1130.tistory.com/98)
+- [\[Threepark\] 백엔드 서버와 핵심 기능 구현](https://he-kate1130.tistory.com/m/96)
+- [\[Threepark\] 3. 모델 서빙 - (1)  Flask 작성](https://he-kate1130.tistory.com/98)
 
 ---
 

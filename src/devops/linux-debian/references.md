@@ -306,4 +306,10 @@ tag:
 
 ---
 
+## Dylan Castillo — Data Scientist. Python Developer. Technical Writer.
+
+- [How to Securely Deploy a FastAPI app with NGINX and Gunicorn](https://dylancastillo.co/fastapi-nginx-gunicorn/)
+
+---
+
 <TagLinks />

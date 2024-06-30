@@ -471,6 +471,7 @@ tag:
 - [`junghan92` / d3-geo, TopoJSON, canvas를 이용한 맵 차트 그리기](https://junghan92.medium.com/d3-geo-topojson-canvas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%B5-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0-ffab54ec23bf)
 - [`junghan92` / (번역) 웹에서 텍스트 크기 조정에 대해 다시 생각하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-6ed827589fd9)
 - [`daangn` / 안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
+- [`fourwingsy` / GraphQL을 오해하다](https://fourwingsy.medium.com/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 
 ---
 
@@ -1197,6 +1198,24 @@ tag:
 ## Software Development | Dirk Holtwick
 
 - [Resilient Sync for Local First](https://holtwick.de/en/blog/localfirst-resilient-sync)
+
+---
+
+## Daddy Makers
+
+- [그래프 데이터베이스 Neo4J 기반 데이터 질의 서비스 개발하기](https://daddynkidsmakers.blogspot.com/2024/05/neo4j.html)
+
+---
+
+## Shepherd Insurance
+
+- [The Great Database Migration](https://shepherdinsurance.com/blog/the-great-database-migration)
+
+---
+
+## Outsider's Dev Story
+
+- [Node.js의 v8-inpector 디버깅](https://blog.outsider.ne.kr/1307)
 
 ---
 

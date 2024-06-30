@@ -370,5 +370,10 @@
     "desc": "Retrieve and display statistics of artifact transforms executed in a Gradle project using DV API",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "cdsap/CompareScans",
+    "desc": "Compare two build scans using Develocity API",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -1569,5 +1569,15 @@
     "desc": "A terminal app for managing docker containers, inpsired by K9s - https://k9scli.io/",
     "officialSite": "https://crates.io/crates/ducker",
     "topics": ["developer-tools", "docker", "ratatui-rs"]
+  }, {
+    "repo": "ClayAmore/ER-Save-Editor",
+    "desc": "Elden Ring Save Editor. Compatible with PC and Playstation saves.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "starship/starship",
+    "desc": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "officialSite": "https://starship.rs",
+    "topics": ["bash", "fish", "fish-prompt", "fish-theme", "oh-my-zsh", "powershell", "rust", "shell-prompt", "starship", "zsh", "zsh-prompt", "zsh-theme"]
   }
 ]

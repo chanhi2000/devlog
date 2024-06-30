@@ -22,7 +22,6 @@ head:
       content: How to add Metal shaders to SwiftUI views using layer effects
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.html
-next: /explore/articles/hackingwithswift.com/swiftui/how-to-create-basic-animations.md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,9 +50,9 @@ next: /explore/articles/hackingwithswift.com/swiftui/how-to-create-basic-animati
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
-**New in iOS 17**
+**Improved in iOS 18**
 
 SwiftUI provides extensive integration with Metal shaders, right at the very view level – we can manipulate colors, shapes, and more with remarkable performance.
 
@@ -266,6 +265,13 @@ struct ContentView: View {
 
 As you can see, it’s now trivial to add Metal shaders to SwiftUI views, unlocking a wide range of special effects without a great deal of work.
 
+New in iOS 18, you can now call `compile()` on a shader to have it prepared for the current device. This avoids a small performance hiccup the first time the shader is used, as long as a) you call it suitably far in advance, and b) you provide the same parameter types when compiling as you do when using, like this:
+
+```swift
+let shader = ShaderLibrary.checkerboard(.float(10), .color(.blue))
+try await shader.compile(as: .colorEffect)
+```
+
 ::: details Similar solutions…
 
 ```component VPCard
@@ -290,6 +296,16 @@ As you can see, it’s now trivial to add Metal shaders to SwiftUI views, unlock
 
 ```component VPCard
 {
+  "title": "How to create custom text effects and animations | SwiftUI by Example",
+  "desc": "How to create custom text effects and animations",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-create-custom-text-effects-and-animations.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "How to stack modifiers to create more advanced effects | SwiftUI by Example",
   "desc": "How to stack modifiers to create more advanced effects",
   "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-stack-modifiers-to-create-more-advanced-effects.md",
@@ -303,16 +319,6 @@ As you can see, it’s now trivial to add Metal shaders to SwiftUI views, unlock
   "title": "How to create 3D effects like Cover Flow using ScrollView and GeometryReader | SwiftUI by Example",
   "desc": "How to create 3D effects like Cover Flow using ScrollView and GeometryReader",
   "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-create-3d-effects-like-cover-flow-using-scrollview-and-geometryreader.md",
-  "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(54,94,226,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "SwiftUI tips and tricks | SwiftUI by Example",
-  "desc": "SwiftUI tips and tricks",
-  "link": "/explore/articles/hackingwithswift.com/swiftui/swiftui-tips-and-tricks.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

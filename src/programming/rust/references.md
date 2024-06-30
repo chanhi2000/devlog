@@ -294,7 +294,7 @@ tag:
 
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
-- ["러스트"와 "고"를 선택하는 방법](https://www.itworld.co.kr/news/186713?)
+- ["러스트"와 "고"를 선택하는 방법](https://itworld.co.kr/news/186713?)
 
 ---
 
@@ -349,6 +349,12 @@ tag:
 ## Roman Kashitsyn
 
 - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
+
+---
+
+## Laurence Tratt: Blog
+
+- [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
 
 ---
 

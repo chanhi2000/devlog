@@ -92,7 +92,7 @@ tag:
 }
 ```
 
-<!-- @end 정보처리기사 -->
+<!-- END: 정보처리기사 -->
 
 @tab Algorithm
 
@@ -167,7 +167,7 @@ tag:
   logo="https://encore.dev/assets/blog/card/queueing_cover.png"
   preview="https://encore.dev/assets/blog/card/queueing_cover.png"/>
 
-<!-- @end Algorithm -->
+<!-- END: Algorithm -->
 
 @tab Crashcourse
 
@@ -260,6 +260,13 @@ tag:
   "background": "rgba(231,76,60,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Design Patterns in TypeScript"
+  desc="The catalog of annotated code examples of all design patterns, written in TypeScript."
+  url="https://refactoring.guru/design-patterns/typescript"
+  logo="https://refactoring.guru/favicon.png"
+  preview="https://refactoring.guru/images/patterns/languages/typescript.png?id=8a56bc9bbee6cbe332781a4a2f6ef988"/>
 
 ```component VPCard
 {
@@ -725,7 +732,38 @@ https://www.joinc.co.kr/w/Site
   logo="https://subicura.com/git/icons/apple-touch-icon.png"
   preview="https://subicura.com/git/imgs/share.png"/>
 
-<!-- @end Crashcourse -->
+<SiteInfo
+  name="중급 파이썬: 파이썬 팁들"
+  desc="파이썬은 강하고 친절한 해커들의 커뮤니티를 가지고 있는 멋진 언어입니다. 그렇지만 파이썬의 기초들을 배우고나서 무엇을 배워야할지 적어놓은 문서들은 별로 없습니다. 이 책은 이 문제를 해결하고자 지은 책입니다. 저는 이 책에서 앞으로 만나게 될 될 흥미로운 주제들한 기본적인 지식에 대해 썼습니다."
+  url="https://ddanggle.gitbooks.io/interpy-kr/content/"
+  logo="https://ddanggle.gitbooks.io/interpy-kr/content/gitbook/images/apple-touch-icon-precomposed-152.png"
+  preview="https://ddanggle.gitbooks.io/interpy-kr/content/assets/inter_cover.png"/>
+
+<SiteInfo
+  name="SEO Learning Center - Moz"
+  desc="SEO Learning Center"
+  url="https://moz.com/learn/seo"
+  logo="https://moz.com/assets/dist/icons/icons-4beb75f9.min.svg"
+  preview="https://moz.com/images/learn/2.png?w=1200&h=630&q=82&auto=format&fit=clip&dm=1676562004&s=7abf1647f43781185ac732b2041bfee7"/>
+
+```component VPCard
+{
+  "title": "pypackaging-native",
+  "desc": "pypackaging-native is a collection of content about key Python packaging topics and issues for projects using native code - with a focus in particular scientific, data science and ML/AI projects in the PyData ecosystem.",
+  "link": "https://pypackaging-native.github.io/",
+  "logo": "https://pypackaging-native.github.io/assets/images/favicon.png",
+  "background": "rgba(84,109,120,0.2)"
+}
+```
+
+<SiteInfo
+  name="The Illustrated Machine Learning Website"
+  desc="Learn Machine Learning concepts easily with clear illustrations on our website. Perfect for students, professionals, and interview prep!"
+  url="https://illustrated-machine-learning.github.io/"
+  logo="https://illustrated-machine-learning.github.io/favml.png"
+  preview="https://illustrated-machine-learning.github.io/img/meme.svg"/>
+
+<!-- END: Crashcourse -->
 
 @tab Cheatsheet
 
@@ -815,9 +853,70 @@ https://www.joinc.co.kr/w/Site
   logo="https://roadmap.sh/manifest/apple-touch-icon.png"
   preview="https://roadmap.sh/images/og-img.png"/>
 
+```component VPCard
+{
+  "title": "GRID: A simple visual cheatsheet for CSS Grid Layout",
+  "desc": "Learn all about the properties available in CSS Grid Layout through simple visual examples.",
+  "link": "https://grid.malven.co/",
+  "logo": "https://grid.malven.co/apple-touch-icon.png",
+  "background": "rgba(17,17,17,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CSS3 Animation Cheat Sheet - Justin Aguilar",
+  "desc": "...",
+  "link": "http://www.justinaguilar.com/animations/#",
+  "logo": "http://www.justinaguilar.com/favicon.ico",
+  "background": "rgba(244,244,244,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Easing Functions Cheat Sheet",
+  "desc": "Easing functions specify the speed of animation to make the movement more natural. Real objects don't just move at a constant speed, and do not start and stop in an instant. This page helps you choose the right easing function.",
+  "link": "https://easings.net/",
+  "logo": "https://easings.net/96.8aa68ac4.png",
+  "background": "rgba(51,108,214,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "HTML5 Canvas Cheat Sheet",
+  "desc": "...",
+  "link": "https://simon.html5.org/dump/html5-canvas-cheat-sheet.html",
+  "logo": "https://simon.html5.org/favicon.ico",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
+<SiteInfo
+  name="React.js cheatsheet"
+  desc="React.Component · render() · componentDidMount() · props/state · dangerouslySetInnerHTML · React is a JavaScript library for building user interfaces. This guide targets React v15 to v16."
+  url="https://devhints.io/react"
+  logo="https://devhints.io/assets/favicon.png"
+  preview="https://assets.devhints.io/previews/react.jpg"/>
+
+<SiteInfo
+  name="JavaScript (JS) Cheat Sheet Online"
+  desc="JavaScript Cheat Seet contains useful code examples on a single page. Not just a PDF because it's interactive! Find code for JS loops, variables, objects and"
+  url="https://htmlcheatsheet.com/js/"
+  logo="https://htmlcheatsheet.com/favicon.ico"
+  preview="https://htmlcheatsheet.com/images/js-cheat-sheet-javascript.jpg"/>
+
+<SiteInfo
+  name="JavaScript Cheat Sheet & Quick Reference"
+  desc="A JavaScript cheat sheet with the most important concepts, functions, methods, and more. A complete quick refe"
+  url="https://quickref.me/javascript"
+  logo="https://quickref.me/images/favicon.png?v=1"
+  preview="https://quickref.me/assets/image/javascript-preview.png?v=o1m7tj"/>
+
+
 https://rogerdudler.github.io/git-guide/index.html
 https://rogerdudler.github.io/git-guide/index.ko.html
-
 
 :::
 

@@ -22,7 +22,7 @@ head:
       content: Working with lists
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/working-with-lists.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-show-different-images-and-other-views-in-light-or-dark-mode.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-create-and-use-custom-environment-values.md
 ---
 
 # {{ $frontmatter.title }} 관련

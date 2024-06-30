@@ -57,6 +57,8 @@ head:
 }
 ```
 
+<!-- END: freecodecamp.org -->
+
 ---
 
 ## <FontIcon icon="fa-brands fa-digital-ocean"/>DigitalOcean | Cloud Infrastructure for Developers
@@ -72,6 +74,8 @@ head:
   "background": "rgba(29,55,209,0.2)"
 }
 ```
+
+<!-- END: digitalocean.com -->
 
 ---
 

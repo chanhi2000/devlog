@@ -22,7 +22,6 @@ head:
       content: How to show different images and other views in light or dark mode
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-show-different-images-and-other-views-in-light-or-dark-mode.html
-next: /explore/articles/hackingwithswift.com/swiftui/working-with-lists.md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -158,9 +157,9 @@ struct ContentView: View {
 
 ```component VPCard
 {
-  "title": "How to use images and other views as a backgrounds | SwiftUI by Example",
-  "desc": "How to use images and other views as a backgrounds",
-  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-a-backgrounds.md",
+  "title": "How to use images and other views as backgrounds | SwiftUI by Example",
+  "desc": "How to use images and other views as backgrounds",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-backgrounds.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

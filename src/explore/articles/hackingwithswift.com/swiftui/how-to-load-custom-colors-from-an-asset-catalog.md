@@ -22,7 +22,6 @@ head:
       content: How to load custom colors from an asset catalog
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-load-custom-colors-from-an-asset-catalog.html
-next: /explore/articles/hackingwithswift.com/swiftui/how-to-give-a-view-a-custom-frame.md
 ---
 
 # {{ $frontmatter.title }} 관련

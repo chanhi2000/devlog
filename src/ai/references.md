@@ -179,6 +179,18 @@ head:
 
 ---
 
+## Max Woolf's Blog
+
+- [The Super Effectiveness of Pokémon Embeddings Using Only Raw JSON and Images](https://minimaxir.com/2024/06/pokemon-embeddings/)
+
+---
+
+## Tyler Neylon
+
+- [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

@@ -153,6 +153,7 @@ tag:
 
 ## Sarunw
 
+- [Timer in SwiftUI](https://sarunw.com/posts/timer-in-swiftui/)
 - [How to set ContentInsets on SwiftUI List](https://sarunw.com/posts/how-to-set-contentinsets-in-swiftui)
 
 ---
@@ -165,6 +166,7 @@ tag:
 
 ## Holy Swift
 
+- [A Beginner’s Guide to Styling Components in SwiftUI](https://holyswift.app/a-beginners-guide-to-styling-components-in-swiftui/)
 - [Animating Carrousel Transitions in SwiftUI](https://holyswift.app/animating-carrousel-transitions-in-swiftui/)
 - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui)
 - [How to Mirror Any View in SwiftUI?](https://holyswift.app/how-to-invert-any-view-in-swiftui/)
@@ -246,6 +248,7 @@ tag:
 - [Making your SwiftData models Codable](https://donnywals.com/making-your-swiftdata-models-codable)
 - [Actor reentrancy in Swift explained](https://donnywals.com/actor-reentrancy-in-swift-explained)
 - [Using iOS 18’s new TabView with a sidebar](https://donnywals.com/using-ios-18s-new-tabview-with-a-sidebar)
+- [Mixing colors in SwiftUI and Xcode 16](https://www.donnywals.com/mixing-colors-in-swiftui-and-xcode-16/)
 
 ---
 
@@ -264,6 +267,7 @@ tag:
 
 ## chris eidhof
 
+- [SwiftUI Environment Tips](https://chris.eidhof.nl/post/swiftui-environment-tips/)
 - [Running Code When Your View Appears](https://chris.eidhof.nl/post/swiftui-on-appear-vs-task)
 - [Working With `UIViewRepresentable`](https://chris.eidhof.nl/post/view-representable)
 
@@ -296,6 +300,7 @@ tag:
 ## Dean's blog
 
 - [Shake to undo in a SwiftUI app](https://blog.thomasdurand.fr/story/2023-09-04-shake-to-undo-swiftui)
+- [Attending WWDC24 recap at Apple Paris](https://blog.thomasdurand.fr/story/2024-06-26-wwdc24-recap/)
 
 ---
 
@@ -316,6 +321,7 @@ tag:
 
 ## Swift with Majid
 
+- [Mastering charts in SwiftUI. Mark styling.](https://swiftwithmajid.com/2023/01/18/mastering-charts-in-swiftui-mark-styling/)
 - [Thread safety in Swift with actors](https://swiftwithmajid.com/2023/09/19/thread-safety-in-swift-with-actors/)
 - [Mastering charts in SwiftUI. Pie and Donut charts.](https://swiftwithmajid.com/2023/09/26/mastering-charts-in-swiftui-pie-and-donut-charts/)
 - [Introducing SwiftUI on visionOS](https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS/)
@@ -553,6 +559,7 @@ tag:
 
 ## polpielladev 📱 | A blog about iOS mobile app development and Swift
 
+- [Free, on-device translations with the Swift Translation API](https://www.polpiella.dev/swift-translation-api)
 - [Swift 6: Access level on import statements](https://www.polpiella.dev/swift-6-import-access-level/)
 
 ---
@@ -566,6 +573,7 @@ tag:
 
 ## Danijela's blog
 
+- [5 Tips to creating a (good) pull request](https://www.danijelavrzan.com/posts/2023/02/create-pull-request/)
 - [Combine charts to create stunning designs with Swift Charts](https://www.danijelavrzan.com/posts/2023/10/combine-swift-charts/)
 - [Configurable button with different states in SwiftUI](https://www.danijelavrzan.com/posts/2024/05/configurable-button-swiftui/)
 
@@ -599,6 +607,7 @@ tag:
 
 ## Paul Peelen
 
+- [SwiftUI Multi data-type chart](https://paulpeelen.com/MultiTypeChart)
 - [OS Style settings view](https://paulpeelen.com/SettingsView)
 
 ---
@@ -750,13 +759,49 @@ tag:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-- [애플도 AI 코딩 도구에 투자··· ‘스위프트 어시스트’ 출시](https://www.ciokorea.com/news/340134)
+- [애플도 AI 코딩 도구에 투자··· ‘스위프트 어시스트’ 출시](https://ciokorea.com/news/340134)
 
 ---
 
 ## Peter Friese's Blog
 
 - [SwiftUI Hero Animations with `NavigationTransition`](https://peterfriese.dev/blog/2024/hero-animation/)
+
+---
+
+## Teabyte
+
+- [Using TextRenderer to create highlighted text](https://alexanderweiss.dev/blog/2024-06-24-using-textrenderer-to-create-highlighted-text)
+
+---
+
+## KHANLOU
+
+- [The State Of Meridian](https://khanlou.com/2024/06/the-state-of-meridian/)
+
+---
+
+## Crunchy Bagel
+
+- [Using ChatGPT to Help Write SwiftUI Code in Streaks](https://crunchybagel.com/using-chatgpt-to-help-write-swiftui-code-in-streaks/)
+
+---
+
+## Moving Parts
+
+- [Styling Components in SwiftUI](https://movingparts.io/styling-components-in-swiftui)
+
+---
+
+## timing blog
+
+- [30,000 lines of SwiftUI in production later: We love it but you know there was going to be a “but”](https://blog.timing.is/swiftui-production-experience-problems-solutions-performance-tips/)
+
+---
+
+## Ole Begemann
+
+- [Understanding SwiftUI view lifecycles](https://oleb.net/2022/swiftui-view-lifecycle/)
 
 ---
 

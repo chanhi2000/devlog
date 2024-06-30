@@ -22,7 +22,6 @@ head:
       content: How to add an inspector to any view
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-add-an-inspector-to-any-view.html
-next: /explore/articles/hackingwithswift.com/swiftui/working-with-presentations.md
 ---
 
 # {{ $frontmatter.title }} 관련

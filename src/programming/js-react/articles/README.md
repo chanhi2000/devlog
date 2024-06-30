@@ -365,6 +365,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Mastering Shadcn UI Components",
+  "desc": "We just published a course on the freeCodeCamp.org YouTube channel that will help you master Shadcn. This comprehensive course dives deep into the versatile world of Shadcn, a powerful toolset for building modern web applications with customizable an...",
+  "link": "/explore/articles/freecodecamp.org/mastering-shadcn-ui-components.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

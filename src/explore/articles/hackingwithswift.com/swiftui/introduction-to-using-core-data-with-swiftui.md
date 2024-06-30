@@ -22,7 +22,7 @@ head:
       content: Introduction to using Core Data with SwiftUI
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/introduction-to-using-core-data-with-swiftui.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-enable-vertical-page-scrolling.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-activate-different-button-behaviors-when-a-modifier-key-is-pressed.md
 ---
 
 # {{ $frontmatter.title }} 관련

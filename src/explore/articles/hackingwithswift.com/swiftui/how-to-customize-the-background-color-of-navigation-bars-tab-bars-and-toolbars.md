@@ -22,7 +22,6 @@ head:
       content: How to customize the background color of navigation bars, tab bars, and toolbars
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars.html
-next: /explore/articles/hackingwithswift.com/swiftui/introduction-to-navigation.md
 ---
 
 # {{ $frontmatter.title }} 관련

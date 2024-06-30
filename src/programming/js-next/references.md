@@ -33,9 +33,17 @@ head:
 
 - [How to Think About Security in Next.js](https://nextjs.org/blog/security-nextjs-server-components-actions)
 
+---
+
 ## Vercel
 
 - [Common mistakes with the Next.js App Router and how to fix them](https://vercel.com/blog/common-mistakes-with-the-next-js-app-router-and-how-to-fix-them)
+
+---
+
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`adminjs` / Building a blog with Next.js, AdminJS, and React: a simple step-by-step guide](https://medium.com/adminjs/building-a-blog-with-next-js-adminjs-and-react-a-simple-step-by-step-guide-8838f4e594a6)
 
 ---
 

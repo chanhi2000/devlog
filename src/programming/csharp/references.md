@@ -23,6 +23,7 @@ tag:
 
 ### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
+- [5 .NET MAUI Features for Building Great Desktop Apps](https://devblogs.microsoft.com/dotnet/5-dotnet-maui-desktop-features/)
 - [Arm64 Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/)
 - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)
 - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
@@ -51,6 +52,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`gitconnected` / Crash Course in .NET Tools](https://levelup.gitconnected.com/crash-course-in-net-tools-b2d84fd5074e)
 - [`prosetech` / Introducing C#12’s Future Features](https://yc.prosetech.com/introducing-c-12s-future-features-dba08439c92e)
 - [Building a Dashboard with ASP.NET Core and DotVVM](https://medium.com/dotvvm/building-a-dashboard-with-asp-net-core-and-dotvvm-b0439a489a9c)
 - [Unit Testing with xUnit in ASP.NET Core](https://malshikay.medium.com/unit-testing-with-xunit-in-asp-net-core-86dbbda6f651)
@@ -70,6 +72,9 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`this-is-learning` / Getting started with integration testing for your Minimal API](https://dev.to/this-is-learning/getting-started-with-integration-testing-for-your-minimal-api-3j0l)
+- [`kasuken` / Getting started with BenchmarkDotNet](https://dev.to/kasuken/getting-started-with-benchmarkdotnet-13f0)
+- [`mhrastegari` / .NET MAUI Blazor - Best practices for mobile UI](https://dev.to/mhrastegari/net-maui-blazor-best-practices-for-mobile-ui-4def)
 - [`appwrite` / Build A Todo API With .NET And Appwrite](https://dev.to/appwrite/build-a-todo-api-with-net-and-appwrite-218d)
 - [`bytehide` / Leaked .NET 8 Features! 5 New Cool Things Added](https://dev.to/bytehide/leaked-net-8-features-5-new-cool-things-added-1gmm)
 - [`sukkergris` / Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
@@ -105,6 +110,7 @@ tag:
 
 ## abuhakmeh
 
+- [Register MAUI Views and ViewModels with Scrutor](https://khalidabuhakmeh.com/register-maui-views-and-viewmodels-with-scrutor)
 - [.NET 8 TimeProvider and Unit Tests](https://khalidabuhakmeh.com/dotnet-8-timeprovider-and-unit-tests)
 - [Resolve Multiple Types In ASP.NET Core](https://khalidabuhakmeh.com/resolve-multiple-types-in-aspnetcore)
 
@@ -372,6 +378,7 @@ tag:
 
 ## Blog posts on .NET Software Development, C#, and Debugging | Michael's Coding Spot
 
+- [The Best C# .NET Web Application Tech Stack: Choosing a Database](https://michaelscodingspot.com/azure-databases/)
 - [Premature Infrastructure is the Root of All Evil](https://michaelscodingspot.com/premature-infrastructure-is-evil/)
 
 ---
@@ -445,6 +452,24 @@ tag:
 ## Bruno Sonnino - Thoughts about development
 
 - [Log Formatters in C#](https://blog.revolution.com.br/2023/07/17/log-formatters-in-c/)
+
+---
+
+## Jason Watmore's Blog
+
+- [.NET 7.0 - Facebook Authentication API Tutorial with Example](https://jasonwatmore.com/post/2023/01/18/net-7-facebook-authentication-api-tutorial-with-example)
+
+---
+
+## Zach on Code
+
+- [Parsing a template language with C# and Pidgin](https://zachoncode.dev/blog/parsing-template-language-with-csharp-and-pidgin/)
+
+---
+
+## Mark Oliver's World
+
+- [Testing In Dotnet](https://blog.markoliver.website/Testing-In-Dotnet?)
 
 ---
 

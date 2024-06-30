@@ -43,6 +43,7 @@ head:
 ## <FontIcon icon="fa-brands fa-firefox"/>Mozilla
 
 - [Developer essentials: JavaScript `console` methods](https://developer.mozilla.org/en-US/blog/learn-javascript-console-methods/)
+- [New JavaScript Set methods](https://developer.mozilla.org/en-US/blog/javascript-set-methods/)
 
 ### Hacks
 
@@ -247,6 +248,7 @@ head:
 - [\[JavaScript\] ...문법 - 스프레드(spread) 연산자 사용법](https://coding-factory.tistory.com/m/1078)
 - [\[JavaScript\] 가변 파라미터 ...나머지 매개변수(rest parameter) 사용법](https://coding-factory.tistory.com/m/1079)
 - [\[JavaScript\] 디폴트 파라미터(default parameter) 사용법(기본 파라메터)](https://coding-factory.tistory.com/m/1080)
+- [\[JavaScript\] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
 
 ---
 
@@ -334,7 +336,7 @@ head:
 
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
-- [“브라우저 보편성+네이티브 기능성” 프로그레시브 웹 앱의 이해와 맛보기](https://www.itworld.co.kr/news/338020)
+- [“브라우저 보편성+네이티브 기능성” 프로그레시브 웹 앱의 이해와 맛보기](https://itworld.co.kr/news/338020)
 
 ---
 
@@ -504,6 +506,36 @@ head:
 ## Unicorn Utterances
 
 - [A Better Way To Code: Documentation Driven Development](https://unicorn-utterances.com/posts/documentation-driven-development)
+
+---
+
+## Builder.io: Ship twice as much, twice as fast
+
+- [Use Maps More and Objects Less](https://www.builder.io/blog/maps)
+
+---
+
+## Hemanth.HM's paws on tech.
+
+- [Well-known Symbols](https://h3manth.com/posts/Well-known-symbols/)
+
+---
+
+## Julia Evans
+
+- [Writing Javascript without a build system](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/)
+
+---
+
+## Marvin Hagemeister Frontend Developer
+
+- [Speeding up the JavaScript ecosystem - eslint](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/)
+
+---
+
+## SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design
+
+- [5 Ways to Make Your JavaScript More Functional](https://sitepoint.com/make-javascript-functional/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/make-javascript-functional.md) -->
 
 ---
 

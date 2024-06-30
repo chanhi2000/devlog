@@ -62,6 +62,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Writing a Python SQL engine from scratch",
+  "desc": "Python SQL Parser and Transpiler",
+  "link": "https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md",
+  "logo": "https://avatars.githubusercontent.com/u/8205034?v=4",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
 ---
 
 ## <FontIcon icon="fa-brands fa-gitlab"/>Gitlab
@@ -124,6 +134,8 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`pythoniq` / So, Single (‘) or Double (“) Quotes in Python?](https://medium.com/pythoniq/so-single-or-double-quotes-in-python-47c2e7425f32)
+- [`betterprogramming` / Using Computer Vision To Destroy My Childhood High Score in a DS Game](https://betterprogramming.pub/using-computer-vision-to-destroy-my-childhood-high-score-in-a-ds-game-38ebd53a1d64)
 - [`petefison` / Ode to Python](https://medium.com/@petefison/ode-to-python-7e273ae1762b)
 - [`data-analytics-at-nesta` / Tutorial: data-driven news discourse analysis with Python (Part 1)](https://medium.com/data-analytics-at-nesta/tutorial-data-driven-news-discourse-analysis-with-python-part-1-4fdbf5c23991)
 - [Computational Linear Algebra: Scalars, Vectors, Matrices and Tensors](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc)
@@ -142,6 +154,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`anurag629` / "The Power of Bit Manipulation: How to Solve Problems Efficiently"](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
 - [`scofieldidehen` / Advanced Python Tips for Development](https://dev.to/scofieldidehen/advanced-python-tips-for-development-olo)
 - [`houseman` / Creating a great Python DevX](https://dev.to/houseman/creating-a-great-python-devx-39c6)
 - [`crawlee` / Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
@@ -483,6 +496,7 @@ head:
 
 ## Python⇒Speed
 
+- [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
 - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
@@ -874,6 +888,7 @@ head:
 - [Why Can't I Just Use A List? • Understanding NumPy's `ndarray` (A NumPy for Numpties article)](https://www.thepythoncodingstack.com/p/python-numpy-ndarray-primer-numpy-for-numpties)
 - [The Strange Practices at The Broadcaster's Inn • Broadcasting in NumPy (A NumPy for Numpties article)](https://www.thepythoncodingstack.com/p/numpy-broadcasting-python-the-broadcasters-inn)
 - [`bytes`: The Lesser-Known Python Built-In Sequence • And Understanding UTF-8 Encoding](https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding)
+- [If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 
 ---
 
@@ -950,6 +965,8 @@ head:
 
 ## SuperFastPython
 
+- [Concurrent Programming in Python](https://superfastpython.com/concurrent-programming/)
+- [5 Common Asyncio Errors in Python (and how to avoid them)](https://superfastpython.com/asyncio-common-errors/)
 - [5 Ways to Measure Execution Time in Python](https://superfastpython.com/benchmark-execution-time/)
 - [Asyncio Coroutine Object Methods in Python](https://superfastpython.com/asyncio-coroutine-methods/)
 - [Develop an Asyncio Echo Client and Server](https://superfastpython.com/asyncio-echo-client-server/)
@@ -1310,6 +1327,9 @@ head:
 
 ## Martin Heinz | Personal Website & Blog
 
+- [Lazy Evaluation Using Recursive Python Generators](https://martinheinz.dev/blog/88)
+- [Boost Your Python Application Performance using Continuous Profiling](https://martinheinz.dev/blog/89)
+- [Dictionary Dispatch Pattern in Python](https://martinheinz.dev/blog/90)
 - [Weird Python "Features" That Might Catch You By Surprise](https://martinheinz.dev/blog/103)
 - [Everything You Can Do with Python's textwrap Module](https://martinheinz.dev/blog/108)
 
@@ -1760,6 +1780,86 @@ head:
 ## olano.dev
 
 - [From RSS to my Kindle](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
+
+---
+
+## Software Innovation Lab - Tweag
+
+- [FUNCTIONAL PYTHON, PART II: DIAL M FOR MONOID](https://www.tweag.io/blog/2023-01-19-fp2-dial-m-for-monoid/)
+
+---
+
+## Peter Baumgartner
+
+- [Wrapping a Rust Crate in a Python Package](https://www.peterbaumgartner.com/blog/wrapping-a-rust-crate-in-a-python-package/)
+
+---
+
+## Lifelong Learning Machine
+
+- [Four tips for structuring your research group’s Python packages](https://blog.nicholdav.info//four-tips-structuring-research-python/)
+
+---
+
+## WALKER DATA
+
+- [Exploratory spatial data analysis with Python](https://walker-data.com/posts/esda-with-python/)
+- [Analyzing labor markets in Python with LODES data](https://walker-data.com/posts/lodes-commutes/)
+
+---
+
+## Blog | Chris Warrick
+
+- [How to improve Python packaging, or why fourteen tools are at least twelve too many](https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/)
+
+---
+
+## Exaloop
+
+- [Mapping Python to LLVM](https://exaloop.io/blog/mapping-python-to-llvm/)
+
+---
+
+## Scrapecrow
+
+- [A Year of Writing about Web Scraping in Review](https://scrapecrow.com/year-of-writing-in-review.html)
+
+---
+
+## Social Network for Programmers and Developers
+
+- [`271bc88c0100` / 30 Helpful Python Snippets You Should Learn Today](https://morioh.com/a/271bc88c0100/30-helpful-python-snippets-you-should-learn-today)
+- [`a9bdee14b0d2` / How to create Google Map in Python using Gmaps](https://morioh.com/a/a9bdee14b0d2/how-to-create-google-map-in-python-using-gmaps)
+
+---
+
+## Ian Bicking: a blog 
+
+- [Infinite AI Array](https://ianbicking.org/blog/2023/01/infinite-ai-array.html)
+
+---
+
+## Tall, Snarky Canadian
+
+- [Classifying Python virtual environment workflows](https://snarky.ca/classifying-python-virtual-environment-workflows/)
+
+---
+
+## Shopify Engineering
+
+- [Monte Carlo Simulations: Separating Signal from Noise in Sampled Success Metrics](https://shopify.engineering/monte-carlo-simulations-sampled-success-metrics) <!-- TODO: 작성 (/explore/articles/shopify.engineering/monte-carlo-simulations-sampled-success-metrics.md) -->
+
+---
+
+## YXX.WTF
+
+- [CALCULATING THE ODDS OF PAI GOW POKER](https://yxx.wtf/posts/2022-12-17-pai_gow_running.html)
+
+---
+
+## James Bennett
+
+- [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 
 ---
 

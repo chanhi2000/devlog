@@ -22,7 +22,7 @@ head:
       content: SwiftUI tips and tricks
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/swiftui-tips-and-tricks.html
-prev: how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-use-state-inside-swiftui-previews-using-previewable.md
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -75,7 +75,7 @@ head:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-- [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](https://www.ciokorea.com/news/38041)
+- [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](https://ciokorea.com/news/38041)
 
 ---
 

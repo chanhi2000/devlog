@@ -33,6 +33,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`ivanyu2021` / A simple approach for background task in Django](https://dev.to/ivanyu2021/a-simple-approach-for-background-task-in-django-2mpa)
+
+---
+
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@qlgks1` / Django - sqlite 는 Json이 text 래요!, sqlite lookup (contains) 오버라이딩 하기](https://velog.io/@qlgks1/Django-sqlite-lookup-contain-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-%ED%95%98%EA%B8%B0)
@@ -54,6 +60,7 @@ tag:
 
 ## Django Beats
 
+- [Standout features in Django 4.2](https://fly.io/django-beats/standout-features-in-django-4-2/)
 - [New goodies in Django 5.0](https://fly.io/django-beats/new-goodies-in-django-50/)
 
 ---
@@ -91,7 +98,7 @@ tag:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-- [파이썬 대표 프레임워크 ‘장고’의 개발 트랜드는?··· 장고 개발자 설문조사 2024 핵심 내용](https://www.ciokorea.com/news/336466)
+- [파이썬 대표 프레임워크 ‘장고’의 개발 트랜드는?··· 장고 개발자 설문조사 2024 핵심 내용](https://ciokorea.com/news/336466)
 
 ---
 
@@ -174,6 +181,18 @@ tag:
 ## Adam Johnson
 
 - [Django: Clean up unused code with Vulture](https://adamj.eu/tech/2023/07/12/django-clean-up-unused-code-vulture/)
+
+---
+
+## james.walters.click
+
+- [What Django Deployment is Really About](https://james.walters.click/what-django-deployment-is-really-about.html)
+
+---
+
+## Neil Kakkar
+
+- [How to simulate a broken database connection for testing in Django](https://neilkakkar.com/test-database-connection-django.html)
 
 ---
 

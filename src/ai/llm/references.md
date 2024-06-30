@@ -317,4 +317,10 @@ head:
 
 ---
 
+## imbue
+
+- [From bare metal to a 70B model: infrastructure set-up and scripts](https://imbue.com/research/70b-infrastructure/)
+
+---
+
 <TagLinks/>

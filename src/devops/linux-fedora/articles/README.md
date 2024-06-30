@@ -11,6 +11,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - d2.naver.com
   - linux
   - fedora
   - redhat
@@ -34,6 +35,13 @@ head:
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
+
 [[toc]]
 
 ---
@@ -51,6 +59,24 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+---
+
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+
+> d2.naver.co
+
+```component VPCard
+{
+  "title": "HTTPS 전환 후 서버 메모리는 안녕한가요? | NAVER D2",
+  "desc": "HTTPS 전환 후 서버 메모리는 안녕한가요?",
+  "link": "/explore/articles/d2.naver.com/8842776.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+<!-- END: d2.naver.com -->
 
 ---
 

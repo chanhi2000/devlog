@@ -22,7 +22,7 @@ head:
       content: How to adjust the position of a view using its offset
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-ask-the-user-to-review-your-app.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-control-the-size-of-presented-views.md
 ---
 
 # {{ $frontmatter.title }} 관련

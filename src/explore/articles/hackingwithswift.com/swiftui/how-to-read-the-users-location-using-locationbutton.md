@@ -22,7 +22,6 @@ head:
       content: How to read the user's location using LocationButton
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-read-the-users-location-using-locationbutton.html
-next: /explore/articles/hackingwithswift.com/swiftui/introduction-to-accessibility-with-swiftui.md
 ---
 
 # {{ $frontmatter.title }} 관련

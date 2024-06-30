@@ -22,6 +22,7 @@ head:
       content: Working with state
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/working-with-state.html
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-detect-whether-a-scrollview-is-currently-moving-or-is-idle.md
 ---
 
 # {{ $frontmatter.title }} 관련

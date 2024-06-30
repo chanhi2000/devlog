@@ -23,6 +23,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-meta"/>Engineering at Meta
+
+- [The evolution of Facebook’s iOS app architecture](https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/)
+
+---
+
 ## Étienne Laurin
 
 - [C++ left arrow operator](https://www.atnnn.com/p/operator-larrow/)
@@ -158,6 +164,7 @@ tag:
 - [`_fcvt` 함수와 `_fcvt_s` 함수에 대하여](https://m.blog.naver.com/tipsware/223488583942)
 - [StringCbPrintf 함수](https://m.blog.naver.com/tipsware/223491407426)
 - [\[Q&A\] `printf` 함수를 사용하지 않고 실숫값 출력하기 - Step 2](https://m.blog.naver.com/tipsware/223488846135)
+- [Pie 도형이 차지하는 각을 표시해 보세요.](https://m.blog.naver.com/tipsware/223454321213)
 
 ---
 
@@ -290,6 +297,12 @@ tag:
 ## Arthur O’Dwyer
 
 - [How the STL uses explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
+
+---
+
+## Trail of Bits Blog
+
+- [The Good, the Bad, and the Weird](https://blog.trailofbits.com/2018/10/26/the-good-the-bad-and-the-weird/)
 
 ---
 

@@ -263,7 +263,6 @@ tag:
 ---
 
 ## Vin01’s Blog
-
 - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
 
 ---
@@ -294,6 +293,8 @@ tag:
 
 ## 개발자스럽다
 
+- [홈플러스 홈페이지의 비밀번호 입력 정책에 대한 생각(인젝션 방어 조치)](https://blog.gaerae.com/2017/06/homplus-password-issue.html)
+- [구글 크롬의 중간자 공격(MITM) 탐지 기능은 무엇인가?](https://blog.gaerae.com/2017/09/chrome-63-will-detect-and-warn-users-of-mitm-attacks.html)
 - [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
 - [구글 크롬의 중간자 공격(MITM) 탐지 기능은 무엇인가?](https://blog.gaerae.com/2017/09/chrome-63-will-detect-and-warn-users-of-mitm-attacks.html)
 
@@ -325,6 +326,7 @@ tag:
 
 ## 보안뉴스
 
+- [해커는 8가지 방법으로 엔드유저 기기를 우습게 뚫는다](https://m.boannews.com/media/view.asp?idx=55284)
 - [2018년, 해커들이 가장 많이 사용했던 취약점은 무엇일까?](https://m.boannews.com/html/detail.html?idx=76291)
 - [방화벽 설정 시 가장 많이 저지르는 실수 다섯 가지](https://m.boannews.com/html/detail.html?idx=81891)
 - [UNC5537 해커 조직의 스노우플레이크 고객 데이터 탈취 시도가 성공한 이유](https://m.boannews.com/html/detail.html?idx=130594)
@@ -351,11 +353,12 @@ tag:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
+- ["해커가 가장 뚫기 힘들어하는 보안 기술은 다중 인증"](https://ciokorea.com/news/35175)
 - [가치 침식으로부터 디지털 트랜스포메이션을 보호하는 방법](https://ciokorea.com/news/340323)
 - [“수습 비용만 1조원”··· 체인지 헬스케어의 랜섬웨어 대참사에서 배워야 할 8가지 교훈](https://ciokorea.com/news/340925)
 - [강은성의 보안 아키텍트ㅣ개발자가 알아야 할 공급망 보안](https://ciokorea.com/news/340729)
 - [2023년 미 정부 기관 주요 보안 사고 11선](https://ciokorea.com/news/340799)
-- [칼럼 | 10건의 사례에서 배우는 클라우드 백업 교훈](https://www.ciokorea.com/news/340638)
+- [칼럼 | 10건의 사례에서 배우는 클라우드 백업 교훈](https://ciokorea.com/news/340638)
 
 ---
 
@@ -390,6 +393,18 @@ tag:
 ## stulle123's Blog
 
 - [1-click Exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
+
+---
+
+## Share & Discover Presentations | SlideShare
+
+- [암호화 이것만 알면 된다.](https://slideshare.net/slideshow/ss-76664853/76664853#6)
+
+---
+
+## IT세상을 바꾸는 힘 지디넷코리아
+
+- [리눅스 sudo 취약점 발견…"보안강화 시스템 오히려 위험"](https://zdnet.co.kr/view/?no=20170606131340)
 
 ---
 

@@ -148,6 +148,7 @@ tag:
 - [`오일나우-팀-블로그` / 스타트업에서 명함으로 서비스 홍보하는 법](https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EB%AA%A8%EB%93%A0-%ED%8C%80%EC%9B%90%EC%9D%84-%ED%99%8D%EB%B3%B4%ED%8C%80%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-%EB%A7%88%EB%B2%95%EC%9D%98-%EB%AA%85%ED%95%A8-%EC%A0%9C%EC%9E%91%EA%B8%B0-be1f6a45c7e)
 - [`erwinousy` / 주니어, 미드레벨과 시니어 개발자의 차이점](https://erwinousy.medium.com/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%AF%B8%EB%93%9C%EB%A0%88%EB%B2%A8%EA%B3%BC-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-d29bffecfec)
 - [`towardsdatascience` / Your End-to-End Product Analytics Strategy](https://towardsdatascience.com/your-end-to-end-product-analytics-strategy-648ecfa586c2)
+- [`happyprogrammer-in-jeju` / 개알못인 당신이 웹개발을 시작한다면 (1)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-1-9415c014a130)
 
 ---
 
@@ -216,7 +217,9 @@ tag:
 - [`@2fEJ` / 사용성 가설 수립의 중요성 - PM 강의 #16](https://brunch.co.kr/@@2fEJ/1368)
 - [`@2weV` / 호기심, 노력, 그리고 내 이야기](https://brunch.co.kr/@@2weV/516)
 - [`@2weV` / 혁신의 본질_더 좋은 것을 더 쉽고 더 저렴하게.](https://brunch.co.kr/@@2weV/517)
-- [`@@2fEJ` / PM의 숨은 힘 - 조직의 전략적 사고와 혁신을 이끌다 - 프로덕트 매니저가 전문가가 되기 위한 노력 #16](https://brunch.co.kr/@@2fEJ/1351)
+- [`@2fEJ` / PM의 숨은 힘 - 조직의 전략적 사고와 혁신을 이끌다 - 프로덕트 매니저가 전문가가 되기 위한 노력 #16](https://brunch.co.kr/@@2fEJ/1351)
+- [`@2weV` / 좋다, 쉽다, 저렴하다(가치있다), 친절하다](https://brunch.co.kr/@@2weV/491)
+- [`@2weV` / 의견이 나뉘는지, 사람이 나뉘는지 면밀히 살펴야 한다.](https://brunch.co.kr/@@2weV/490)
 
 ---
 
@@ -456,6 +459,7 @@ tag:
 - [작은 시장, 작은 사람들, 큰 결과](https://www.thestartupbible.com/2024/06/things-take-time.html)
 - [인생에서 가장 도움이 되는 수업](https://www.thestartupbible.com/2024/06/public-speaking-and-writing-are-the-most-undervalued-classes.html)
 - [헛똑똑이들](https://www.thestartupbible.com/2024/06/cynics-sound-smart-but-vcs-have-to-be-optimists.html)
+- [관계 건설](https://www.thestartupbible.com/2024/05/the-relationship-building.html)
 
 ---
 
@@ -888,8 +892,8 @@ tag:
 
 ## 드프 DrawingProcess
 
-- [[Career] NAVER LABS가 관심 있는 것들 (네이버 1784, 디지털 트윈, 3D Recon, SLAM, ..ALIKE Solution)](https://csj000714.tistory.com/m/1110)
 - [\[생각 정리\] 왜 이렇게 열심히 살까? 목표가 있는 건가?](https://csj000714.tistory.com/m/1133)
+- [\[생각정리\] NAVER가 관심 있는 것들 (1784, 디지털 트윈, 3D Recon, SLAM, ..ALIKE Solution)](https://csj000714.tistory.com/m/1110)
 
 ---
 
@@ -901,6 +905,7 @@ tag:
 - [21년도 보안동아리 활동(네트워크 보안)](https://ravenkim97.tistory.com/441)
 - [WBS](https://ravenkim97.tistory.com/442)
 - [핵심역량 진단결과 코칭보고서](https://ravenkim97.tistory.com/444)
+- [21년도 보안동아리 활동(네트워크 보안)](https://ravenkim97.tistory.com/m/441)
 
 ---
 
@@ -928,12 +933,14 @@ tag:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-- ['C레벨 꿈꾸는 IT리더에게' 8가지 조언](https://www.ciokorea.com/news/35777)
-- ['죽은' 프로젝트를 확실히 죽이는 방법](https://www.ciokorea.com/news/36697)
+- [IT부서를 느리게 하는 악성 관행 12가지](https://ciokorea.com/news/35378)
+- ['어떤' 프로젝트가 '어떻게' 실패하는가··· 현실 인정에서 종결 방안까지](https://ciokorea.com/news/35597)
+- ['C레벨 꿈꾸는 IT리더에게' 8가지 조언](https://ciokorea.com/news/35777)
+- ['죽은' 프로젝트를 확실히 죽이는 방법](https://ciokorea.com/news/36697)
 - [블로그ㅣ개발자에게 듣는 '좋은 소프트웨어'의 조건](https://ciokorea.com/news/230519)
 - [“IT 다운타임으로 기업 수익 9% 감소” 스플렁크 및 옥스포드 이코노믹스 연구](https://ciokorea.com/news/340778)
 - [칼럼 | 기술 채용의 떠오르는 난관은 ‘우수한 지원자 찾기’](https://ciokorea.com/news/340652)
-- [IT 조직을 ‘플랫폼 엔지니어링 팀’으로 재구성하기 ‘Why  & How’](https://www.ciokorea.com/news/341422)
+- [IT 조직을 ‘플랫폼 엔지니어링 팀’으로 재구성하기 ‘Why  & How’](https://ciokorea.com/news/341422)
 
 ---
 
@@ -959,9 +966,10 @@ https://blog.naver.com/&logId=
 
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
-- ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지](https://www.itworld.co.kr/news/204459)
-- [매력적이지만 버려야 할 10가지 나쁜 프로그래밍 습관](https://www.itworld.co.kr/news/337915)
-- ["디지털 혁신 저해하는 원인" IT 인력 부족 문제를 해결할 2가지 핵심 요소](https://www.itworld.co.kr/news/339119)
+- [“과거는 잊어라” 소프트웨어 개발의 본질을 바꾸는 21가지 기술](https://itworld.co.kr/news/105902)
+- ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지](https://itworld.co.kr/news/204459)
+- [매력적이지만 버려야 할 10가지 나쁜 프로그래밍 습관](https://itworld.co.kr/news/337915)
+- ["디지털 혁신 저해하는 원인" IT 인력 부족 문제를 해결할 2가지 핵심 요소](https://itworld.co.kr/news/339119)
 - [“사무실 복귀 지시는 위장된 정리 해고?” 근무 방식에 따른 생산성 조사](https://itworld.co.kr/news/340407)
 
 ---
@@ -1246,6 +1254,24 @@ https://blog.naver.com/&logId=
 ## BBC News 코리아
 
 - [필요 이상의 자격을 갖춘 사람이 회사에 미치는 영향](https://www.bbc.com/korean/features-41577393)
+
+---
+
+## All of Software
+
+- [SW회사 '사수 부사수 시스템'의 문제점](https://www.allofsoftware.net/2017/09/sw.html?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
+
+---
+
+## IT세상을 바꾸는 힘 지디넷코리아
+
+- [나쁜 회의가 회사를 망친다](https://zdnet.co.kr/view/?no=20170904151925)
+
+---
+
+## 지앤선의 책 사랑
+
+- [\[한글화 프로젝트\] 개발자에서 관리자까지: 기술력을 유지해라](https://jinson.tistory.com/m/285)
 
 ---
 

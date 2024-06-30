@@ -27,6 +27,7 @@ tag:
 
 ### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
+- [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/)
 - [My Top 10 NEW Visual Studio Features of 2023 for .NET Developers](https://devblogs.microsoft.com/dotnet/my-top-10-new-visual-studio-features-of-2023-for-dotnet-developers/)
 
 ---

@@ -1604,5 +1604,15 @@
     "desc": "Contains source code for GitHub Action and docker bits for backend service",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "poundifdef/SmoothMQ",
+    "desc": "A drop-in replacement for SQS designed for great developer experience and efficiency. ",
+    "officialSite": "",
+    "topics": ["message-queue", "messaging", "queue", "sqs"]
+  }, {
+    "repo": "chase-seibert/rsscombine",
+    "desc": "Combine many RSS feeds into one feed",
+    "officialSite": "",
+    "topics": []
   }
 ]

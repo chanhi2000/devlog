@@ -121,6 +121,46 @@ head:
 
 ```component VPCard
 {
+  "title": "'개발자가 수학에 투자하는 시간은 절대 낭비가 아닙니다' C++ 창시자 인터뷰 | 요즘IT",
+  "desc": "'개발자가 수학에 투자하는 시간은 절대 낭비가 아닙니다' C++ 창시자 인터뷰",
+  "link": "/explore/articles/yozm.wishket.com/2093.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "코드 리뷰어를 하며 저지른 실수 7가지 | 요즘IT",
+  "desc": "코드 리뷰어를 하며 저지른 실수 7가지",
+  "link": "/explore/articles/yozm.wishket.com/2095.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "시작이 막막한 프리랜서 개발자들을 위한 가이드 | 요즘IT",
+  "desc": "시작이 막막한 프리랜서 개발자들을 위한 가이드",
+  "link": "/explore/articles/yozm.wishket.com/2100.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "변동성의 시대를 살아가는 엔지니어의 자세 | 요즘IT",
+  "desc": "변동성의 시대를 살아가는 엔지니어의 자세",
+  "link": "/explore/articles/yozm.wishket.com/2110.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "개발자가 알아두면 좋은 기술 블로그 운영 팁 5가지 | 요즘IT",
   "desc": "개발자가 알아두면 좋은 기술 블로그 운영 팁 5가지",
   "link": "/explore/articles/yozm.wishket.com/2134.md",

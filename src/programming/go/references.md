@@ -298,13 +298,13 @@ tag:
 
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
-- ["러스트"와 "고"를 선택하는 방법](https://www.itworld.co.kr/news/186713?)
+- ["러스트"와 "고"를 선택하는 방법](https://itworld.co.kr/news/186713?)
 
 ---
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-[“구글 고(Go) 언어, 업무 현장서 사용 확대됐다”](https://www.ciokorea.com/news/187183)
+[“구글 고(Go) 언어, 업무 현장서 사용 확대됐다”](https://ciokorea.com/news/187183)
 
 ---
 

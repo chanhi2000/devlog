@@ -507,6 +507,7 @@ tag:
 
 ## Envato Tuts+
 
+- [Build a Neat HTML5-Powered Contact Form](https://webdesign.tutsplus.com/build-a-neat-html5-powered-contact-form--net-20426t)
 - [2 Ways to Make Half-Colored Background Page Sections](https://webdesign.tutsplus.com/2-ways-to-make-half-colored-background-page-sections--cms-108648t)
 
 ---

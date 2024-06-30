@@ -1458,5 +1458,15 @@
     "desc": "STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications",
     "officialSite": "",
     "topics": ["drone", "esp32", "esp8266", "fpv", "lora", "quadcopter", "rc", "remote-control", "stm32", "sx1276", "sx1280"]
+  }, {
+    "repo": "google/leveldb",
+    "desc": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "wolfpld/tracy",
+    "desc": "Frame profiler",
+    "officialSite": "https://tracy.nereid.pl/",
+    "topics": ["gamedev", "gamedev-library", "gamedevelopment", "library", "performance", "performance-analysis", "profiler", "profiling", "profiling-library"]
   }
 ]

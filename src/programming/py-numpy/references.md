@@ -79,4 +79,10 @@ head:
 
 ---
 
+## Alvaro Revuelta
+
+- [Convolutions, Fast Fourier Transform and Polynomials](https://www.alvarorevuelta.com/posts/fft-polynomials)
+
+---
+
 <TagLinks />

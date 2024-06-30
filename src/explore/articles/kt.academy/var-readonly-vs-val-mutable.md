@@ -120,14 +120,6 @@ fun main() {
 data class User(val name: String)
 ```
 
-@setting
-
-```json
-{
-  "theme": "dracula"
-}
-```
-
 :::
 
 To prevent that, we must use a technique known as "defensive copy", so copy the collection before exposing it.
@@ -160,14 +152,6 @@ fun main() {
 data class User(val name: String)
 ```
 
-@setting
-
-```json
-{
-  "theme": "dracula"
-}
-```
-
 :::
 
 Making such a copy is expensive. We do not need to make a copy for read-only collection, so if we expect exposing the whole collection is more frequent than its modification, var with read-only collection should be preferable. However, it is rather a rare situation.
@@ -198,14 +182,6 @@ fun main() {
 }
 
 data class User(val name: String)
-```
-
-@setting
-
-```json
-{
-  "theme": "dracula"
-}
 ```
 
 :::
@@ -271,14 +247,6 @@ fun main() {
 }
 
 data class User(val name: String)
-```
-
-@setting
-
-```json
-{
-  "theme": "dracula"
-}
 ```
 
 :::

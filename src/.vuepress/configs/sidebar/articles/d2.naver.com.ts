@@ -5,6 +5,9 @@ export const template: SidebarInfoTemplate = {
   faviconPath: '/images/content/d2.naver.com/favicon.ico',
   linksMap: new Map([
     [
+    "sh", [
+      "8842776", // 2017-06-14
+    ]], [
     "java", [
       "1329", // 2011-12-22
       "6445508", // 2023.12.19
@@ -19,6 +22,7 @@ export const template: SidebarInfoTemplate = {
     ]], [
     "js", [
       "1052", // 2011-12-23
+      "0590136", // 2017-08-18
       "7472830", // 2024-06-07
     ]], [
     "js-node", [
@@ -37,6 +41,12 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "git", [
       "1011", // 2011-12-23
+    ]],[
+    "linux-debian", [
+      "8842776", // 2017-06-14
+    ]],[
+    "linux-fedora", [
+      "8842776", // 2017-06-14
     ]],[
     "k8s", [
       "5564264", // 2024-06-05
@@ -77,6 +87,8 @@ export const template: SidebarInfoTemplate = {
       "1042", // 2011-12-23
       "1052", // 2011-12-23
       "1062", // 2011-12-23
+      "8842776", // 2017-06-14
+      "0590136", // 2017-08-18
       "0853669", // 2022-01-29
       "6445508", // 2023.12.19
       "8404108", // 2024.01.17

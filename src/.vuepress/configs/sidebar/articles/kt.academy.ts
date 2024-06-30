@@ -16,6 +16,8 @@ export const template: SidebarInfoTemplate = {
       "union-types-into", // 2024-06-10
       "power-assert", // 2024-06-17
       "ek-api-stability", // 2024-06-24
+      "sharedflow-vs-stateflow", // 2024-06-27
+      "cc-dispatchers", // 2024-07-01
     ]],[
     "kotlin-spring", [
       "nonblocking-spring-mvc", // 2024-03-25
@@ -36,6 +38,8 @@ export const template: SidebarInfoTemplate = {
       "union-types-into", // 2024-06-10
       "power-assert", // 2024-06-17
       "ek-api-stability", // 2024-06-24
+      "sharedflow-vs-stateflow", // 2024-06-27
+      "cc-dispatchers", // 2024-07-01
     ]]
   ])
 }

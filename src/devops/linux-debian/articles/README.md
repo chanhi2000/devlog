@@ -9,8 +9,10 @@ category:
   - Article(s)
 tag:
   - blog
+  - digitalocean.com
   - code-maze.com
   - meetup.nhncloud.com
+  - d2.naver.com
   - linux
   - debain
 head:
@@ -24,6 +26,13 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="DigitalOcean | Cloud Infrastructure for Developers"
+  desc="An ocean of simple, scalable cloud solutions."
+  url="https://digitalocean.com/community/tutorials?sort_by=oldest"
+  logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
+  preview="https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg"/>
 
 <SiteInfo
   name="Code Maze - C#, .NET and Web Development Tutorials"
@@ -42,7 +51,32 @@ head:
 }
 ```
 
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  logo="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
+
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-digital-ocean"/>DigitalOcean | Cloud Infrastructure for Developers
+
+> digitalocean.com
+
+```component VPCard
+{
+  "title": "How To Use SQLite with Node.js on Ubuntu 22.04 | DigitalOcean",
+  "desc": "In this tutorial, readers will use node-sqlite3 to create a connection with an SQLite database. Next, they’ll create a Node.js app that creates a table and i… ",
+  "link": "/explore/articles/digitalocean.com/how-to-use-sqlite-with-node-js-on-ubuntu-22-04.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
+
+<!-- END: digitalocean.com -->
 
 ---
 
@@ -77,6 +111,24 @@ head:
   "background": "rgba(76,156,227,0.2)"
 }
 ```
+
+---
+
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+
+> d2.naver.co
+
+```component VPCard
+{
+  "title": "HTTPS 전환 후 서버 메모리는 안녕한가요? | NAVER D2",
+  "desc": "HTTPS 전환 후 서버 메모리는 안녕한가요?",
+  "link": "/explore/articles/d2.naver.com/8842776.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+<!-- END: d2.naver.com -->
 
 ---
 

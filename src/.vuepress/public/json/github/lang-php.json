@@ -229,5 +229,10 @@
     "desc": "HUST Online Judge System neo Version",
     "officialSite": "http://www.hustoj.org",
     "topics": ["hust", "online-judge"]
+  }, {
+    "repo": "kargnas/laravel-ai-translator",
+    "desc": "Automatic translate your language files into many languages using AI like Claude, GPT and etc.",
+    "officialSite": "",
+    "topics": ["ai", "anthropic", "claude", "claude-ai", "gpt", "gpt-4", "gpt4", "laravel", "laravel-package", "localization", "localizationservice", "openai", "openai-api", "translate", "translation", "translator"]
   }
 ]

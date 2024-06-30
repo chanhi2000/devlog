@@ -35,6 +35,7 @@ head:
 
 ## Share & Discover Presentations | SlideShare
 
+- [\[135\] 오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다.](https://www.slideshare.net/slideshow/135-80845610/80845610)
 - [백억개의 로그를 모아 검색하고 분석하고 학습도 시켜보자 : 로기스](https://www.slideshare.net/slideshow/ss-80885724/80885724)
 - [도메인 주도 설계의 본질](https://www.slideshare.net/baejjae93/ss-27536729?)
 - [How to build massive service for advance](https://www.slideshare.net/slideshow/how-to-build-massive-service-for-advance/124502152)
@@ -175,6 +176,7 @@ head:
 - [`codex` / How Pinterest Scaled to 11 Million Users With Only 6 Engineers](https://medium.com/codex/how-pinterest-scaled-to-11-million-users-with-only-6-engineers-a0f62cea62b8)
 - [`delightroom` / 확장 가능하지 않은 일을 하라 (Do things that don’t scale)](https://medium.com/delightroom/do-things-that-dont-scale-6876c5682a75)
 - [`gitconnected` / The Granularity Conundrum: Finding The Right Size of a Microservice](https://levelup.gitconnected.com/the-granularity-conundrum-finding-the-right-size-of-a-microservice-c65d3c76cc3b)
+- [`google-design` / Designing Adaptive Icons](https://medium.com/google-design/designing-adaptive-icons-515af294c783)
 
 ---
 
@@ -330,7 +332,7 @@ head:
 
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
-- [마이크로서비스에서 데이터를 중앙화하면 안 되는 3가지 이유](https://www.itworld.co.kr/news/198864)
+- [마이크로서비스에서 데이터를 중앙화하면 안 되는 3가지 이유](https://itworld.co.kr/news/198864)
 
 ---
 
@@ -530,7 +532,8 @@ head:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-- [블로그 | 멀쩡한 코드가 프로덕션만 가면 느려지는 5가지 이유와 해결 방법](https://www.ciokorea.com/news/38473)
+- ['유명 클라우드 쓰는데도···' 스타트업의 서비스 장애가 반복되는 이유](https://www.ciokorea.com/news/34807)
+- [블로그 | 멀쩡한 코드가 프로덕션만 가면 느려지는 5가지 이유와 해결 방법](https://ciokorea.com/news/38473)
 
 ---
 
@@ -579,6 +582,18 @@ head:
 ## Coderifleman's blog
 
 - [The Clean Architecture](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)
+
+---
+
+## Andy Bell - Designer, front-end developer and founder of Set Studio
+
+- [Front-end is so much more than building designs](https://andy-bell.co.uk/front-end-is-so-much-more-than-building-designs/)
+
+---
+
+## Eliran Turgeman
+
+- [Logging practices I follow](https://www.16elt.com/2023/01/06/logging-practices-I-follow)
 
 ---
 

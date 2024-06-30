@@ -22,7 +22,6 @@ head:
       content: How to change the background color of List, TextEditor, and more
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more.html
-next: /explore/articles/hackingwithswift.com/swiftui/swiftuis-built-in-shapes.md
 ---
 
 # {{ $frontmatter.title }} 관련

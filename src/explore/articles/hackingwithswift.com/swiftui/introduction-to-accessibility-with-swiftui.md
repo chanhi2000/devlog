@@ -22,7 +22,7 @@ head:
       content: Introduction to accessibility with SwiftUI
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/introduction-to-accessibility-with-swiftui.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-read-the-users-location-using-locationbutton.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-read-user-contacts-with-contactaccessbutton.md
 ---
 
 # {{ $frontmatter.title }} 관련

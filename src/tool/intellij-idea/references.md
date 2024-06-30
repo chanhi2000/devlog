@@ -96,4 +96,10 @@ head:
 
 ---
 
+## Developer security | Snyk
+
+- [Advanced IntelliJ debugger features you’re missing out on](https://snyk.io/blog/advanced-intellij-debugger-features/)
+
+---
+
 <TagLinks />

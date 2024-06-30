@@ -307,7 +307,7 @@ head:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-- [EDB, AI 특화 DB 관리 플랫폼 ‘포스트그레스AI’ 출시](https://www.ciokorea.com/news/338188)
+- [EDB, AI 특화 DB 관리 플랫폼 ‘포스트그레스AI’ 출시](https://ciokorea.com/news/338188)
 
 ---
 
@@ -367,7 +367,13 @@ head:
 
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
-- [구식 포스트그레SQL이 다시 유행하는 이유](https://www.itworld.co.kr/news/107495)
+- [구식 포스트그레SQL이 다시 유행하는 이유](https://itworld.co.kr/news/107495)
+
+---
+
+## Shepherd Insurance
+
+- [The Great Database Migration](https://shepherdinsurance.com/blog/the-great-database-migration)
 
 ---
 

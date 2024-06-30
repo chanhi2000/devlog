@@ -44,7 +44,13 @@ head:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-- [구글 클라우드의 ‘무료 등급’을 알차게 활용하는 10가지 팁](https://www.ciokorea.com/news/170709)
+- [구글 클라우드의 ‘무료 등급’을 알차게 활용하는 10가지 팁](https://ciokorea.com/news/170709)
+
+---
+
+## Speaker Deck | Easily Share Your Presentations Online
+
+- [`premist` / Shakr - Google Container Engine을 이용한 빠르고 안정적인 서비스 개발 및 배포](https://speakerdeck.com/premist/shakr-google-container-engineeul-iyonghan-bbareugo-anjeongjeogin-seobiseu-gaebal-mic-baepo)
 
 ---
 

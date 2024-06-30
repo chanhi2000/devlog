@@ -22,7 +22,7 @@ head:
       content: How to create basic animations
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-create-basic-animations.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-create-custom-text-effects-and-animations.md
 ---
 
 # {{ $frontmatter.title }} 관련

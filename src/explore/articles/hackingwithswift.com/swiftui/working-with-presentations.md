@@ -22,7 +22,7 @@ head:
       content: Working with presentations
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/working-with-presentations.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-add-an-inspector-to-any-view.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-create-zoom-animations-between-views.md
 ---
 
 # {{ $frontmatter.title }} 관련

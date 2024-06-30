@@ -22,7 +22,7 @@ head:
       content: SwiftUI's built-in shapes
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/swiftuis-built-in-shapes.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-create-new-colors-by-blending-two-other-swiftui-colors.md
 ---
 
 # {{ $frontmatter.title }} 관련

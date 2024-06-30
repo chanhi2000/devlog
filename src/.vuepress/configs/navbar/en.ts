@@ -115,11 +115,8 @@ export const navbarEn = navbar([
         ]
       }, {
         text: 'JavaScript',
-        icon: 'fa-brands fa-js',
-        link: '/programming/js/README.md',
-      }, {
-        text: 'Node.js',
         children: [
+          '/programming/js/README.md',
           '/programming/npm/README.md',
           '/programming/js-node/README.md',
           '/programming/js-react/README.md',

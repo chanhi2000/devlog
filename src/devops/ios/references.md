@@ -37,6 +37,10 @@ head:
 - ["고개 저어 통화 거절…" 올가을 에어팟에 추가되는 새로운 기능 3가지](https://itworld.co.kr/news/340064)
 - ["오직 나만을 위한 아이폰…" iOS 18에서 주목할 만한 변화 5가지](https://itworld.co.kr/news/340092)
 
+## 상구리의 기술 블로그
+
+- [아이폰 – 단축어 위치서비스 메뉴 열기](https://www.skyer9.pe.kr/wordpress/?p=9031)
+
 ---
 
 <TagLinks />

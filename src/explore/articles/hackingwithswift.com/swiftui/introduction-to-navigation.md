@@ -22,7 +22,7 @@ head:
       content: Introduction to navigation
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/introduction-to-navigation.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-position-and-style-subviews-that-come-from-a-different-view.md
 ---
 
 # {{ $frontmatter.title }} 관련

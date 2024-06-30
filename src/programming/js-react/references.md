@@ -145,6 +145,7 @@ head:
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about React](https://dev.to/t/react)
+- [`nilanth` / Multi-threaded React App using useWorker](https://dev.to/nilanth/multi-threaded-react-app-using-useworker-gf8)
 - [`nziokidennis` / React: A comprehensive Guide to Beginners](https://dev.to/nziokidennis/react-a-comprehensive-guide-to-beginners-1nh0)
 - [`woovi` / Server-side Rendering (SSR) From Scratch with React](https://dev.to/woovi/server-side-rendering-ssr-from-scratch-with-react-19jm)
 - [`argonauta` / React Advanced: Decoupling your components in the right way](https://dev.to/argonauta/react-advance-decoupling-your-components-in-the-right-way-4pkn)
@@ -288,6 +289,7 @@ head:
 
 ## Builder.io
 
+- [A Cure for React `useState` Hell?](https://www.builder.io/blog/use-reducer)
 - [Rapid Mock API creation with ChatGPT and json-server](https://www.builder.io/blog/mock-api-data-with-chatgpt)
 - [A Visual Guide to the new App Router in Next.js 13](https://www.builder.io/blog/next-13-app-router)
 - [What are React Server Components? Understanding the Future of React Apps](https://www.builder.io/blog/why-react-server-components)
@@ -837,6 +839,7 @@ https://o-yeon.tistory.com/227
 
 ## Bekk Christmas - advent calendars about technology, design and strategy
 
+- [You should write React in F#](https://www.bekk.christmas/post/2022/20/you-should-write-react-in-fsharp)
 - [Polymorphism in React: 2 patterns you must know](https://www.bekk.christmas/post/2023/1/polymorphism-in-reac)
 
 ---
@@ -995,6 +998,48 @@ https://o-yeon.tistory.com/227
 ## jameskerr.blog
 
 - [React Hook for Avoiding Flash of Empty UI While Data Transitions](https://www.jameskerr.blog/posts/use-data-transition/)
+
+---
+
+## Share & Discover Presentations | SlideShare
+
+- [프론트엔드 개발과 테스트주도개발](https://www.slideshare.net/slideshow/ss-78600304/78600304)
+
+---
+
+## Programming Note
+
+- [React v16 무엇이 바뀌었나](https://dev-momo.tistory.com/m/entry/React-v16-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EC%97%88%EB%82%98)
+
+---
+
+## Adopting React in the Early Days | .cult by Honeypot
+
+- [Adopting React in the Early Days](https://cult.honeypot.io/reads/adopting-react-in-the-early-days/)
+
+---
+
+## martinfowler.com
+
+- [Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
+
+---
+
+## Evil Martians transform growth-stage startups into unicorns, build developer tools, and create open source products
+
+- [How to build a better React map with Pigeon Maps and Mapbox](https://evilmartians.com/chronicles/how-to-build-a-better-react-map-with-pigeon-maps-and-mapbox)
+
+---
+
+## Zeke Hernandez
+
+- [Little React Things: Less reacting, more deriving](https://www.zekehernandez.com/posts/little-react-things-less-reacting-more-deriving)
+
+---
+
+## Studio by UXPin - Free Resources from the creators of UXPin
+
+- [The Best React Design Patterns You Should Know About in 2024](https://www.uxpin.com/studio/blog/react-design-patterns/)
 
 ---
 

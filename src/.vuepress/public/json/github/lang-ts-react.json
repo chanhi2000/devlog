@@ -119,5 +119,15 @@
     "desc": "A set of graph examples showing how to make react and d3.js work together",
     "officialSite": "https://www.react-graph-gallery.com",
     "topics": ["d3js", "data", "dataviz", "react"]
+  }, {
+    "repo": "toss/suspensive",
+    "desc": "Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)",
+    "officialSite": "https://suspensive.org",
+    "topics": ["async", "errorboundary", "react", "react-query", "ssr", "suspense", "suspensive"]
+  }, {
+    "repo": "stevenpetryk/mafs",
+    "desc": "React components for interactive math",
+    "officialSite": "https://mafs.dev",
+    "topics": ["math", "react", "visualization"]
   }
 ]

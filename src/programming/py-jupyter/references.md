@@ -52,4 +52,10 @@ head:
 
 ---
 
+## Ploomber
+
+- [JupySQL: Better SQL in Jupyter](https://ploomber.io/blog/jupysql/)
+
+---
+
 <TagLinks />

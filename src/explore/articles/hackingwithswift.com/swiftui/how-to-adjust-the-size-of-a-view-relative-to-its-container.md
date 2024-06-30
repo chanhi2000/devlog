@@ -22,7 +22,6 @@ head:
       content: How to adjust the size of a view relative to its container
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-adjust-the-size-of-a-view-relative-to-its-container.html
-next: /explore/articles/hackingwithswift.com/swiftui/how-to-create-stacks-using-vstack-and-hstack.md
 ---
 
 # {{ $frontmatter.title }} 관련

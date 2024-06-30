@@ -138,7 +138,7 @@ tag:
 
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
-- [비주얼 스튜디오 코드로 생산성을 높이는 10가지 방법](https://www.itworld.co.kr/news/330552)
+- [비주얼 스튜디오 코드로 생산성을 높이는 10가지 방법](https://itworld.co.kr/news/330552)
 
 ---
 

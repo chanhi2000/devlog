@@ -434,5 +434,30 @@
     "desc": "🛜 Kotlin Multiplatform library for monitoring network connectivity",
     "officialSite": "https://connectivity.jordond.dev/",
     "topics": ["compose-multiplatform", "connectivity-checker", "kotlin", "kotlin-multiplatform", "multiplatform", "multiplatform-kotlin-library"]
+  }, {
+    "repo": "composablehorizons/ComposeTheme",
+    "desc": "🖌️ The API to your Compose Design System",
+    "officialSite": "",
+    "topics": ["compose-multiplatform", "design-system", "jetpack-compose", "styling"]
+  }, {
+    "repo": "Coding-Meet/News-KMP-App",
+    "desc": "News Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux platforms.",
+    "officialSite": "",
+    "topics": ["compose-multiplatform", "jetpack", "jetpack-compose", "kmp-app", "kotlin", "kotlin-multiplatform", "kotlin-multiplatform-mobile", "kotlin-multiplatform-sample", "multiplatform", "news-kmp", "newsapp"]
+  }, {
+    "repo": "KodeinKoders/CuP",
+    "desc": "Compose ur Pres: A pure Kotlin Compose Multiplatform presentation system for developer presenters.",
+    "officialSite": "https://kodeinkoders.github.io/CuP/",
+    "topics": ["compose-desktop", "compose-multiplatform", "composer-library", "kotlin", "kotlin-library", "kotlin-multiplatform"]
+  }, {
+    "repo": "issever22/iCore",
+    "desc": "iCore is a comprehensive Android library designed to streamline the development process by providing a robust set of modular components. With built-in support for the Model-View-ViewModel (MVVM) architecture, iCore offers a collection of base classes, extension functions, and utility classes to help developers create efficient and maintainable code",
+    "officialSite": "https://www.isseverapps.com/",
+    "topics": ["android", "base-classes", "extension-functions", "kotlin", "library", "livedata", "mvvm", "open-source", "retrofit", "utility-classes"]
+  }, {
+    "repo": "sergio-sastre/ComposablePreviewScanner",
+    "desc": "A library to help auto-generate screenshot tests from Composable Previews with any screenshot testing library: JVM-based (i.e. Paparazzi, Roborazzi) as well as Instrumentation-based (i.e. Shot, Dropshots, Android-Testify, etc.)",
+    "officialSite": "",
+    "topics": []
   }
 ]

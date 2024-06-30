@@ -22,7 +22,7 @@ head:
       content: How to give a view a custom frame
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-give-a-view-a-custom-frame.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-load-custom-colors-from-an-asset-catalog.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-create-a-mesh-gradient.md
 ---
 
 # {{ $frontmatter.title }} 관련

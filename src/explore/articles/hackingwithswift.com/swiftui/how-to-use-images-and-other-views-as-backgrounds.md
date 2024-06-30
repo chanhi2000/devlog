@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: How to use images and other views as a backgrounds
-description: Article(s) > How to use images and other views as a backgrounds
+title: How to use images and other views as backgrounds
+description: Article(s) > How to use images and other views as backgrounds
 category:
   - Swift
   - SwiftUI
@@ -17,11 +17,13 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > How to use images and other views as a backgrounds
+      content: Article(s) > How to use images and other views as backgrounds
     - property: og:description
-      content: How to use images and other views as a backgrounds
+      content: How to use images and other views as backgrounds
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-a-backgrounds.html
+      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-backgrounds.html
+date: 2024-04-30
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -42,9 +44,9 @@ head:
 
 ```component VPCard
 {
-  "title": "How to use images and other views as a backgrounds | SwiftUI by Example",
-  "desc": "How to use images and other views as a backgrounds",
-  "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds",
+  "title": "How to use images and other views as backgrounds | SwiftUI by Example",
+  "desc": "How to use images and other views as backgrounds",
+  "link": "https://hackingwithswift.com/quick-start/swiftui/how-to-use-images-and-other-views-as-backgrounds",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -66,9 +68,9 @@ Text("Hacking with Swift")
     )
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-1.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-backgrounds-1.zip)
 
-![The words “Hacking with Swift” over an image of the indoor waterfall at Singapore's “Jewel” airport terminal.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-1~dark.png)
+![The words “Hacking with Swift” over an image of the indoor waterfall at Singapore's “Jewel” airport terminal.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-backgrounds-1~dark.png)
 
 However, it doesn't _need_ to be an image. For example, this creates the same text view then places a 50x50 red circle behind it:
 
@@ -81,9 +83,9 @@ Text("Hacking with Swift")
         .frame(width: 50, height: 50))
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-2.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-backgrounds-2.zip)
 
-![The words “Hacking with Swift” over a small red circle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-2~dark.png)
+![The words “Hacking with Swift” over a small red circle.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-backgrounds-2~dark.png)
 
 By default background views automatically take up as much space as they need to be fully visible, but if you want you can have them be clipped to the size of their parent view using the `clipped()` modifier:
 
@@ -99,9 +101,9 @@ Text("Hacking with Swift")
     .clipped()
 ```
 
-> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-3.zip)
+> [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-use-images-and-other-views-as-backgrounds-3.zip)
 
-![The words “Hacking with Swift” over a red circle which has been clipped at the top and bottom.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-a-backgrounds-3~dark.png)
+![The words “Hacking with Swift” over a red circle which has been clipped at the top and bottom.](https://hackingwithswift.com/img/books/quick-start/swiftui/how-to-use-images-and-other-views-as-backgrounds-3~dark.png)
 
 To be clear, you can use _any_ view as your background – another text view if you wanted, for example.
 

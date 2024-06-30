@@ -32,6 +32,7 @@ export const sidebarEn = sidebar({
             asb.yozm("sh"),
             asb.devkuma("sh"),
             asb.nhn("sh"),
+            asb.d2("sh"),
             asb.linecorp("sh"),
           ]
         }
@@ -403,6 +404,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("js"),
             asb.frontendmaster("js"),
             asb.sitepoint("js"),
+            asb.yozm("js"),
             asb.nhn("js"),
             asb.d2("js"),
             asb.devtoolstips("js"),
@@ -450,6 +452,7 @@ export const sidebarEn = sidebar({
             '/programming/js-node/articles/README.md',
             asb.freecodecamp("js-node"),
             asb.frontendmaster("js-node"), 
+            asb.digitalocean("js-node"), 
             asb.smashingmagazion("js-node"), 
             asb.learnk8s("js-node"),
             asb.yozm("js-node"),
@@ -2093,8 +2096,10 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/linux-debian/articles/README.md',
+            asb.digitalocean("linux-debian"),
             asb.codemaze("linux-debian"),
             asb.nhn("linux-debian"),
+            asb.d2("linux-debian"),
           ]
         }
       ]
@@ -2124,6 +2129,7 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/linux-fedora/articles/README.md',
             asb.freecodecamp("linux-fedora"),
+            asb.d2("linux-fedora"),
           ]
         },
       ]
@@ -2799,6 +2805,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/sqlite/articles/README.md',
+            asb.digitalocean("sqlite"),
             asb.kodeco("sqlite"),
           ]
         },
@@ -2836,6 +2843,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/graphql/articles/README.md',
+            asb.yozm("graphql"),
           ]
         }
       ],

@@ -2399,5 +2399,10 @@
     "desc": "A javascript library for flipdot and flipdisc displays",
     "officialSite": "",
     "topics": ["flipdot-displays", "flipdots", "pixel-art"]
+  }, {
+    "repo": "MaxArt2501/share-this",
+    "desc": "Medium-like text selection sharing without dependencies",
+    "officialSite": "https://maxart2501.github.io/share-this/",
+    "topics": ["medium", "popover", "selection", "sharing"]
   }
 ]

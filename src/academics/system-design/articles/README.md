@@ -215,6 +215,26 @@ head:
 
 ```component VPCard
 {
+  "title": "IP 주소의 역사와 서브넷 마스크의 탄생 | 요즘IT",
+  "desc": "IP 주소의 역사와 서브넷 마스크의 탄생",
+  "link": "/explore/articles/yozm.wishket.com/2108.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "개발자에게 편리함을 주는 ‘GraphQL’ 도입 시 주의할 점은? | 요즘IT",
+  "desc": "개발자에게 편리함을 주는 ‘GraphQL’ 도입 시 주의할 점은?",
+  "link": "/explore/articles/yozm.wishket.com/2113.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "개발자가 알아야 할 데이터 지향 설계란? | 요즘IT",
   "desc": "개발자가 알아야 할 데이터 지향 설계란?",
   "link": "/explore/articles/yozm.wishket.com/2157.md",

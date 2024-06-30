@@ -108,9 +108,9 @@ Notice how you can use the `font()` modifier to adjust SF Symbols as if they wer
 
 ```component VPCard
 {
-  "title": "How to use images and other views as a backgrounds | SwiftUI by Example",
-  "desc": "How to use images and other views as a backgrounds",
-  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-a-backgrounds.md",
+  "title": "How to use images and other views as backgrounds | SwiftUI by Example",
+  "desc": "How to use images and other views as backgrounds",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-backgrounds.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }

@@ -90,6 +90,16 @@ head:
 
 ```component VPCard
 {
+  "title": "'개발자가 수학에 투자하는 시간은 절대 낭비가 아닙니다' C++ 창시자 인터뷰 | 요즘IT",
+  "desc": "'개발자가 수학에 투자하는 시간은 절대 낭비가 아닙니다' C++ 창시자 인터뷰",
+  "link": "/explore/articles/yozm.wishket.com/2093.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Rust는 C++을 대체할 수 있을까? | 요즘IT",
   "desc": "Rust는 C++을 대체할 수 있을까?",
   "link": "/explore/articles/yozm.wishket.com/2635.md",

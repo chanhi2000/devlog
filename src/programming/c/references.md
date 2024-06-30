@@ -426,7 +426,26 @@ tag:
 ## Substack
 
 - [`codingconfessions` / CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
+- [`lcamtuf` / Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 
+---
+
+## Justine Tunney's Web Page
+
+- [The Byte Order Fiasco](https://justine.lol/endian.html)
+
+---
+
+## Below MI - IBM i for Hackers
+
+- [Below MI - IBM i for Hackers](https://silentsignal.github.io/BelowMI/)
+
+---
+
+## Mort's Ramblings
+
+- [Faster virtual machines: Speeding up programming language execution](https://mort.coffee/home/fast-interpreters/)
+ 
 ---
 
 <TagLinks />

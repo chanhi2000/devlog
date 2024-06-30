@@ -9,6 +9,7 @@ export const template: SidebarGroupItem = {
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
       '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2023-06-23
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-6.md', // 2024-06-10
+      '/explore/articles/hackingwithswift.com/whats-new-in-swiftui-for-ios-18.md', // 2024-06-21
       {
         text: "What's new in Swift?",
         collapsible: true,
@@ -461,7 +462,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-tile-an-image.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-render-images-using-sf-symbols.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-render-a-gradient.md',
-              '/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-a-backgrounds.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-backgrounds.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-display-solid-shapes.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-draw-part-of-a-solid-shape-using-trim.md',
@@ -477,6 +478,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-combine-shapes-to-create-new-shapes.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-load-custom-colors-from-an-asset-catalog.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-create-a-mesh-gradient.md',
             ]
           }, {
             text: 'View layout',
@@ -500,6 +502,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-add-extra-padding-to-the-safe-area.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-dynamically-adjust-the-appearance-of-a-view-based-on-its-size-and-location.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-adjust-the-size-of-a-view-relative-to-its-container.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-detect-when-the-size-or-position-of-a-view-changes.md'
             ]
           }, {
             text: 'Stacks, grids, scrollviews',
@@ -528,6 +531,9 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-make-views-scroll-with-a-custom-transition.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-make-a-scrollview-start-at-the-bottom.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-disable-scrollview-clipping-so-contents-overflow.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-read-the-size-and-position-of-a-scrollview.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-scroll-to-exact-locations-inside-a-scrollview.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-detect-whether-a-scrollview-is-currently-moving-or-is-idle.md',
             ]          
           }, {
             text: 'User interface controls',
@@ -616,6 +622,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-use-a-timer-with-swiftui.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-run-some-code-when-state-changes-using-onchange.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-show-different-images-and-other-views-in-light-or-dark-mode.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-create-and-use-custom-environment-values.md'
             ]
           }, {
             text: 'Lists',
@@ -671,6 +678,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-group-views-visually-using-groupbox.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-customize-the-background-color-of-navigation-bars-tab-bars-and-toolbars.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-position-and-style-subviews-that-come-from-a-different-view.md'
             ]
           }, {
             text: 'Navigation',
@@ -689,7 +697,8 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-customize-a-views-width-in-navigationsplitview.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-customize-the-display-mode-of-navigationsplitview.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-control-which-navigationsplitview-column-is-shown-in-compact-layouts.md',
-              '/explore/articles/hackingwithswift.com/swiftui/how-to-add-an-inspector-to-any-view.md'
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-add-an-inspector-to-any-view.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-create-zoom-animations-between-views.md',
             ]
           }, {
             text: 'Alerts and menus',
@@ -720,6 +729,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-display-a-bottom-sheet.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-ask-the-user-to-review-your-app.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-tell-the-user-that-no-content-is-available.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-control-the-size-of-presented-views.md'
             ]
           }, {
             text: 'Transforming views',
@@ -747,6 +757,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/customizing-progressview-with-progressviewstyle.md',
               '/explore/articles/hackingwithswift.com/swiftui/customizing-toggle-with-togglestyle.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-create-new-colors-by-blending-two-other-swiftui-colors.md',
             ]
           }, {
             text: 'Drawing',
@@ -762,6 +773,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-add-visual-effect-blurs.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-create-custom-animated-drawings-with-timelineview-and-canvas.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-add-metal-shaders-to-swiftui-views-using-layer-effects.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-create-custom-text-effects-and-animations.md',
             ]
           }, {
             text: 'Animation',
@@ -806,6 +818,8 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-read-the-digital-crown-on-watchos-using-digitalcrownrotation.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-open-a-new-window.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-enable-vertical-page-scrolling.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-lets-users-drag-anywhere-to-move-a-window.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-activate-different-button-behaviors-when-a-modifier-key-is-pressed.md'
             ]
           }, {
             text: 'Data',
@@ -823,12 +837,14 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-export-files-using-fileexporter.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-continue-an-nsuseractivity-in-swiftui.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-read-the-users-location-using-locationbutton.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-read-user-contacts-with-contactaccessbutton.md',
             ]
           }, {
             text: 'Accessibility',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/swiftui/introduction-to-accessibility-with-swiftui.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-set-custom-accessibility-labels-and-hints.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-use-dynamic-type-with-a-custom-font.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-specify-the-dynamic-type-sizes-a-view-supports.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-detect-the-reduce-motion-accessibility-setting.md',
@@ -850,6 +866,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftui/how-to-preview-your-layout-in-portrait-or-landscape.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-find-which-data-change-is-causing-a-swiftui-view-to-update.md',
               '/explore/articles/hackingwithswift.com/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts.md',
+              '/explore/articles/hackingwithswift.com/swiftui/how-to-use-state-inside-swiftui-previews-using-previewable.md',
             ]
           }, {
             text: 'What now?',

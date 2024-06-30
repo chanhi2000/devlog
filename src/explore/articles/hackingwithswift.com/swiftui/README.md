@@ -477,9 +477,9 @@ Draw icons, circles, gradients, and more
 
 ```component VPCard
 {
-  "title": "How to use images and other views as a backgrounds | SwiftUI by Example",
-  "desc": "How to use images and other views as a backgrounds",
-  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-a-backgrounds.md",
+  "title": "How to use images and other views as backgrounds | SwiftUI by Example",
+  "desc": "How to use images and other views as backgrounds",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-use-images-and-other-views-as-backgrounds.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -635,7 +635,17 @@ Draw icons, circles, gradients, and more
 }
 ```
 
-<!-- Images, shapes, and media -->
+```component VPCard
+{
+  "title": "How to create a mesh gradient | SwiftUI by Example",
+  "desc": "How to create a mesh gradient",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-create-a-mesh-gradient.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Images, shapes, and media -->
 
 :::
 
@@ -823,7 +833,17 @@ Layout sizes, priorities, and spacing
 }
 ```
 
-<!-- View layout -->
+```component VPCard
+{
+  "title": "How to detect when the size or position of a view changes | SwiftUI by Example",
+  "desc": "How to detect when the size or position of a view changes",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-detect-when-the-size-or-position-of-a-view-changes.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: View layout -->
 
 :::
 
@@ -1061,7 +1081,37 @@ Position views in a structured way
 }
 ```
 
-<!-- Stacks, grids, scrollviews -->
+```component VPCard
+{
+  "title": "How to read the size and position of a scrollview | SwiftUI by Example",
+  "desc": "How to read the size and position of a scrollview",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-read-the-size-and-position-of-a-scrollview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": How to scroll to exact locations inside a scrollview | SwiftUI by Example",
+  "desc": "How to scroll to exact locations inside a scrollview",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-scroll-to-exact-locations-inside-a-scrollview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": How to detect whether a scrollview is currently moving or is idle | SwiftUI by Example",
+  "desc": "How to detect whether a scrollview is currently moving or is idle",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-detect-whether-a-scrollview-is-currently-moving-or-is-idle.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Stacks, grids, scrollviews -->
 
 :::
 
@@ -1769,6 +1819,18 @@ Learn how to bind objects and query the environment
 }
 ```
 
+```component VPCard
+{
+  "title": "How to create and use custom environment values | SwiftUI by Example",
+  "desc": "How to create and use custom environment values",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-create-and-use-custom-environment-values.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Advanced state -->
+
 :::
 
 ::: details Lists
@@ -2187,6 +2249,18 @@ Place your views inside a navigation controller and more
 }
 ```
 
+```component VPCard
+{
+  "title": "How to position and style subviews that come from a different view | SwiftUI by Example",
+  "desc": "How to position and style subviews that come from a different view",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-position-and-style-subviews-that-come-from-a-different-view.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Containers  -->
+
 :::
 
 ::: details Navigation
@@ -2332,6 +2406,18 @@ Direct your user through data in your app
   "background": "rgba(54,94,226,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "How to create zoom animations between views | SwiftUI by Example",
+  "desc": "How to create zoom animations between views",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-create-zoom-animations-between-views.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Navigation -->
 
 :::
 
@@ -2546,6 +2632,18 @@ Move your user from one view to another
   "background": "rgba(54,94,226,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "How to control the size of presented views | SwiftUI by Example",
+  "desc": "How to control the size of presented views",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-control-the-size-of-presented-views.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Presenting views -->
 
 :::
 
@@ -2773,6 +2871,18 @@ Clip, size, scale, spin, and more
 }
 ```
 
+```component VPCard
+{
+  "title": "How to create new colors by blending two other SwiftUI colors | SwiftUI by Example",
+  "desc": "How to create new colors by blending two other SwiftUI colors",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-create-new-colors-by-blending-two-other-swiftui-colors.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Transforming view -->
+
 :::
 
 ::: details Drawing
@@ -2878,6 +2988,18 @@ Take control of rendering using custom shapes
   "background": "rgba(54,94,226,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "How to create custom text effects and animations | SwiftUI by Example",
+  "desc": "How to create custom text effects and animations",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-create-custom-text-effects-and-animations.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Drawing -->
 
 :::
 
@@ -3187,6 +3309,28 @@ Learn to make your apps look great everywhere
 }
 ```
 
+```component VPCard
+{
+  "title": "How to lets users drag anywhere to move a window | SwiftUI by Example",
+  "desc": "How to lets users drag anywhere to move a window",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-lets-users-drag-anywhere-to-move-a-window.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to activate different button behaviors when a modifier key is pressed | SwiftUI by Example",
+  "desc": "How to activate different button behaviors when a modifier key is pressed",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-activate-different-button-behaviors-when-a-modifier-key-is-pressed.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- Cross-platform SwiftUI -->
+
 :::
 
 ::: details Data
@@ -3313,6 +3457,18 @@ Handle data with Core Data integration and more
 }
 ```
 
+```component VPCard
+{
+  "title": "How to read user contacts with ContactAccessButton | SwiftUI by Example",
+  "desc": "How to read user contacts with ContactAccessButton",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-read-user-contacts-with-contactaccessbutton.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Data -->
+
 :::
 
 ::: details Accessibility
@@ -3324,6 +3480,16 @@ How to make your apps usable by everyone
   "title": "Introduction to accessibility with SwiftUI | SwiftUI by Example",
   "desc": "Introduction to accessibility with SwiftUI",
   "link": "/explore/articles/hackingwithswift.com/swiftui/introduction-to-accessibility-with-swiftui.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{ 
+  "title": "How to set custom accessibility labels and hints | SwiftUI by Example",
+  "desc": "How to set custom accessibility labels and hints",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-set-custom-accessibility-labels-and-hints.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -3494,6 +3660,18 @@ Build better apps with help from Xcode
   "background": "rgba(54,94,226,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "How to use @State inside SwiftUI previews using @Previewable | SwiftUI by Example",
+  "desc": "How to use @State inside SwiftUI previews using @Previewable",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-use-state-inside-swiftui-previews-using-previewable.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+<!-- END: Tooling -->
 
 :::
 

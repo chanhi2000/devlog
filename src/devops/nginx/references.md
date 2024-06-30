@@ -77,10 +77,16 @@ tag:
 - [리버스 프록시 장점](https://ravenkim97.tistory.com/m/463)
 
 ---
- 
+
 ## MentorCruise - Connecting Mentors & Mentees
 
 - [How to Dockerize a React App and Deploy It Easily](https://mentorcruise.com/blog/how-to-dockerize-a-react-app-and-deploy-it-easily)
+
+---
+
+## Dylan Castillo — Data Scientist. Python Developer. Technical Writer.
+
+- [How to Securely Deploy a FastAPI app with NGINX and Gunicorn](https://dylancastillo.co/fastapi-nginx-gunicorn/)
 
 ---
 

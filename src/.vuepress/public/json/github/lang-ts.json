@@ -3108,5 +3108,10 @@
     "desc": "Positron™, a next-generation data science IDE",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "naver/egjs-axes",
+    "desc": "A module used to change the information of user action entered by various input devices such as touch screen or mouse into the logical virtual coordinates.",
+    "officialSite": "https://naver.github.io/egjs-axes/",
+    "topics": ["axis", "cartesian", "coordinate", "egjs", "javascript", "typescript", "virtual-scroll"]
   }
 ]

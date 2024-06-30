@@ -55,4 +55,10 @@ head:
 
 ---
 
+## 캡틴판교 블로그
+
+- [Angular 2 대신에 Vue.js를 선택한 이유 (그리고 React를 선택하지 않은 이유)](https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/)
+
+---
+
 <TagLinks />

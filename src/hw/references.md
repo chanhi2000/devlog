@@ -327,6 +327,18 @@ head:
 
 ---
 
+## X86.FR | Doc TB's R&D Lab
+
+- [Investigating SSMEC’s (State Micro) 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
+
+---
+
+## joshua stein
+
+- [Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)](https://jcs.org/2024/05/29/x1usb)
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

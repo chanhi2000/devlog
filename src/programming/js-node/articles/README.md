@@ -10,6 +10,7 @@ tag:
   - blog
   - freecodecamp.org
   - frontendmasters.com
+  - digitalocean.com
   - smashingmagazine.com
   - learnk8s.io
   - sitepoint.com
@@ -18,7 +19,6 @@ tag:
   - tech.kakao.com
   - d2.naver.com
   - techblog.woowahan.com
-  - sitepoint.com
   - johnnyreilly.com
   - meetup.nhncloud.com
   - engineering.linecorp.com
@@ -52,6 +52,13 @@ head:
   "background": "rgba(188,75,52,0.2)"
 }
 ```
+
+<SiteInfo
+  name="DigitalOcean | Cloud Infrastructure for Developers"
+  desc="An ocean of simple, scalable cloud solutions."
+  url="https://digitalocean.com/community/tutorials?sort_by=oldest"
+  logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
+  preview="https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg"/>
 
 ```component VPCard
 {
@@ -247,6 +254,34 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-digital-ocean"/>DigitalOcean | Cloud Infrastructure for Developers
+
+> digitalocean.com
+
+```component VPCard
+{
+  "title": "How To Use SQLite with Node.js on Ubuntu 22.04 | DigitalOcean",
+  "desc": "In this tutorial, readers will use node-sqlite3 to create a connection with an SQLite database. Next, they’ll create a Node.js app that creates a table and i… ",
+  "link": "/explore/articles/digitalocean.com/how-to-use-sqlite-with-node-js-on-ubuntu-22-04.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Scale Node.js Applications with Clustering | DigitalOcean",
+  "desc": "In this tutorial, you will scale a Node.js application using the cluster module on a machine with four or more CPUs. You’ll create an application that does n…",
+  "link": "/explore/articles/digitalocean.com/how-to-scale-node-js-applications-with-clustering.md",
+  "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
+  "background": "rgba(29,55,209,0.2)"
+}
+```
+
+<!-- END: digitalocean.com -->
+
+---
+
 ## Smashing Magazine — For Web Designers And Developers
 
 > smashingmagazine.com
@@ -416,6 +451,8 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

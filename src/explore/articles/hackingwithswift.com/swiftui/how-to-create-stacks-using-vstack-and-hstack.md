@@ -22,7 +22,7 @@ head:
       content: How to create stacks using VStack and HStack
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/how-to-create-stacks-using-vstack-and-hstack.html
-prev: /explore/articles/hackingwithswift.com/swiftui/how-to-adjust-the-size-of-a-view-relative-to-its-container.md
+prev: /explore/articles/hackingwithswift.com/swiftui/how-to-detect-when-the-size-or-position-of-a-view-changes.md
 ---
 
 # {{ $frontmatter.title }} 관련

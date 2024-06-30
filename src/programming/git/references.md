@@ -314,7 +314,7 @@ head:
 
 ## 주먹불끈
 
-- [git rebase vs. git pull —rebase](https://jusths.tistory.com/410)
+- [`git rebase` vs. `git pull —rebase`](https://jusths.tistory.com/410)
 
 ---
 

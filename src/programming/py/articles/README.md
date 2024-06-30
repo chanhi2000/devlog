@@ -328,6 +328,16 @@ head:
 
 ```component VPCard
 {
+  "title": "파이썬 3.11은 어떻게 빨라질 수 있었을까? | 요즘IT",
+  "desc": "파이썬 3.11은 어떻게 빨라질 수 있었을까?",
+  "link": "/explore/articles/yozm.wishket.com/2096.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "지속가능한 코드리뷰 문화를 만드는 여정 | 요즘IT",
   "desc": "지속가능한 코드리뷰 문화를 만드는 여정",
   "link": "/explore/articles/yozm.wishket.com/2420.md",

@@ -124,6 +124,7 @@ head:
 
 ## Speaker Deck | Easily Share Your Presentations Online
 
+- [`premist` / Shakr - Google Container Engine을 이용한 빠르고 안정적인 서비스 개발 및 배포](https://speakerdeck.com/premist/shakr-google-container-engineeul-iyonghan-bbareugo-anjeongjeogin-seobiseu-gaebal-mic-baepo)
 - [`devinjeon` / Container부터 다시 살펴보는 Kubernetes Pod 동작 원리](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
 
 ---
@@ -312,8 +313,8 @@ head:
 
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
-- [쿠버네티스 '관리 지옥'에서 탈출하는 필수 툴 10가지](https://www.ciokorea.com/news/37578)
-- ['너무 복잡'··· 쿠버네티스 관리를 아무도 원하지 않는 이유](https://www.ciokorea.com/news/190458)
+- [쿠버네티스 '관리 지옥'에서 탈출하는 필수 툴 10가지](https://ciokorea.com/news/37578)
+- ['너무 복잡'··· 쿠버네티스 관리를 아무도 원하지 않는 이유](https://ciokorea.com/news/190458)
 
 ---
 
@@ -350,7 +351,21 @@ head:
 
 ## Learnk8s — the Kubernetes training company
 
-- [Load balancing and scaling long-lived connections in Kubernetes](https://learnk8s.io/kubernetes-long-lived-connections) <!-- TODO: 작성 (/explore/articles/learnk8s.io/kubernetes-long-lived-connections.md) -->
+```component VPCard
+{
+  "title": "Load balancing and scaling long-lived connections in Kubernetes",
+  "desc": "Kubernetes doesn't load balance long-lived connections and some Pods might receive more requests than others. Learn how to fix that.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-long-lived-connections.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
+---
+
+## Martin Heinz | Personal Website & Blog
+
+- [Boost Your Python Application Performance using Continuous Profiling](https://martinheinz.dev/blog/89)
 
 ---
 

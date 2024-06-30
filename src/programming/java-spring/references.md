@@ -242,6 +242,7 @@ head:
 ### Just try it!
 
 - [Spring MVC의 PathPattern (`AntPathMatcher`, `PathPatternParser`)](https://moonsiri.tistory.com/203)
+- [JJWT 0.11.2 에서 0.12.5 버전 마이그레이션](https://moonsiri.tistory.com/m/206)
 
 ### 한정수 Jeongsu Han
 
