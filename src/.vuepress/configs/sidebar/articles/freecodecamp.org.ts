@@ -74,6 +74,7 @@ export const template: SidebarInfoTemplate = {
       "react-how-to-validate-user-input", // 2024-06-24
       "whats-new-in-react-19", // 2024-06-25
       "mastering-shadcn-ui-components", // 2024-06-28
+      "infinite-scrolling-in-react", // 2024-07-01
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
@@ -144,6 +145,7 @@ export const template: SidebarInfoTemplate = {
       "learn-how-to-build-a-decentralized-file-storage-system-with-go", // 2024-06-05
       "real-time-chat-with-go-fiber-htmx", // 2024-06-06
       "how-to-create-database-migrations-in-go", // 2024-06-26
+      "go-for-absolute-beginners", // 2024-07-01
     ]],[
     "csharp", [
       "how-to-use-oop-in-c-sharp", // 2024-05-01
@@ -392,6 +394,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-change-background-color-with-javascript", // 2024-06-28
       "mastering-shadcn-ui-components", // 2024-06-28
       "media-queries-vs-container-queries", // 2024-06-28
+      "infinite-scrolling-in-react", // 2024-07-01
+      "go-for-absolute-beginners", // 2024-07-01
     ]],
   ]),
 }

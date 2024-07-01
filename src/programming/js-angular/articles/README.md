@@ -133,6 +133,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Angular JWT Authentication with ASP.NET Core Web API",
+  "desc": "Angular JWT as a frontend part of the ASP.NET Core JWT Authentication and Authorization example project implemented using the Angular framework.",
+  "link": "/explore/articles/code-maze.com/authentication-aspnetcore-jwt-2.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

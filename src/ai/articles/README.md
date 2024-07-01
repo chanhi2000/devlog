@@ -146,6 +146,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "인공지능은 정말로 과대평가 되었을까 | 요즘IT",
+  "desc": "인공지능은 정말로 과대평가 되었을까",
+  "link": "/explore/articles/yozm.wishket.com/2653.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
+
 ---
 
 <TagLinks />

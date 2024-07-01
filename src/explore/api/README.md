@@ -1086,7 +1086,14 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://www.toptal.com/designers/htmlarrows/assets/images/favicon.ico"
   preview="https://www.toptal.com/designers/htmlarrows/assets/images/htmlarrows-hero-29eb905f.jpg"/>
 
-<!-- END:  Design & Image -->
+<SiteInfo
+  name="draw2app"
+  desc="..."
+  url="https://draw2app.pages.dev/"
+  logo="https://draw2app.pages.dev/favicon.svg"
+  preview="rgba(136,139,148,0.2"/>
+
+<!-- END: Design & Image -->
 
 @tab DevOps
 

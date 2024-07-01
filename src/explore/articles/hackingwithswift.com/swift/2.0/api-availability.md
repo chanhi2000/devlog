@@ -128,6 +128,18 @@ if #available(iOS 9, *) {
   "background": "rgba(174,10,10,0.2)"
 }
 ```
+<!-- 
+```component VPCard
+{
+  "title": "Checking API availability | Changes in Swift 2.0",
+  "desc": "Checking API availability",
+  "link": "/explore/articles/hackingwithswift.com/swift/2.0/api-availability.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+-->
+[<FontIcon icon="fas fa-file-zipper"/>Download Swift 2.0 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-1-2-to-2-0.playground.zip)
 
 :::
 

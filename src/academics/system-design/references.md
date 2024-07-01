@@ -597,4 +597,10 @@ head:
 
 ---
 
+## matduggan.com
+
+- [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
+
+---
+
 <TagLinks />

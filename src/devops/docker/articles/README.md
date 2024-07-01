@@ -256,7 +256,27 @@ head:
 }
 ```
 
-<!-- code-maze.com -->
+```component VPCard
+{
+  "title": "Continuous Integration with Jenkins and Docker",
+  "desc": "In this article we are going to demonstrate how Continuous Integration with Jenkins and Docker works.",
+  "link": "/explore/articles/code-maze.com/ci-jenkins-docker.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Top Docker Monitoring Tools",
+  "desc": "In this blog post, we are going to describe the currently most prominent and popular docker monitoring tools.",
+  "link": "/explore/articles/code-maze.com/top-docker-monitoring-tools.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+<!-- END: code-maze.com -->
 
 ---
 

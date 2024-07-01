@@ -22,6 +22,8 @@ head:
       content: Customizing ProgressView with ProgressViewStyle
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/customizing-progressview-with-progressviewstyle.html
+date: 2022-12-01
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,7 +52,7 @@ head:
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
 SwiftUI gives us the `ProgressViewStyle` protocol to create custom designs for `ProgressView`, allowing us to read how complete the progress view and take that into account in our design.
 

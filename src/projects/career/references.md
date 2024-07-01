@@ -691,6 +691,7 @@ tag:
 ## The Story's Story
 
 - [The emotional trial of clinical trials, part 1: It's like online dating except if you choose wrong you die](https://jakeseliger.com/2024/04/22/the-emotional-trial-of-clinical-trials-part-1-its-like-online-dating-except-if-you-choose-wrong-you-die/)
+- [Uncomfortable truth: How close is “positivity culture” to delusion and denial?](https://jakeseliger.com/2024/06/24/uncomfortable-truth-how-close-is-positivity-culture-to-delusion-and-denial/)
 
 ---
 

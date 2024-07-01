@@ -1,8 +1,8 @@
 import { SidebarInfoTemplate } from ".";
 
 export const template: SidebarInfoTemplate = {
-  name: 'code-maze.com',
-  faviconPath: '/images/content/code-maze.com/favicon.png',
+  name: "code-maze.com",
+  faviconPath: "/images/content/code-maze.com/favicon.png",
   linksMap: new Map([
     [
     "csharp", [
@@ -40,6 +40,26 @@ export const template: SidebarInfoTemplate = {
       "ci-aspnetcoreapp-docker", // 2020-09-02
       "create-pdf-dotnetcore", // 2024-01-31
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
+      "authentication-aspnetcore-jwt-1", // 2024-01-31
+      "global-error-handling-aspnetcore", // 2024-04-04
+      "csharp-conditions-if-else-swtich-case", // 2021-12-16
+      "csharp-methods", // 2023-01-18
+      "csharp-basics-arrays", // 2022-07-13
+      "authentication-aspnetcore-jwt-2", // 2024-01-31
+      "csharp-basics-ide-introduction", // 2021-12-16
+      "csharp-operators", // 2023-01-29
+      "csharp-linear-structures-input-output", // 2021-12-16
+      "csharp-loops", // 2021-12-20
+      "cshrap-ref-out-keywords", // 2022-11-26
+      "csharp-basics-streamwriter-streamreader", // 2020-08-27
+      "unit-testing-aspnetcore-web-api", // 2024-01-31
+      "csharp-data-types-variables", // 2021-12-16
+      "csharp-type-conversion", // 2021-12-16
+      "csharp-string-methods", // 2021-12-16
+      "csharp-access-modifiers", // 2023-02-27
+      "csharp-basics-recursion", // 2020-08-27
+      "csharp-basics-file-directory", // 2020-08-27
+      "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]],[
     "js-angular", [
       "net-core-web-development-part7", // 2022-04-20
@@ -51,6 +71,7 @@ export const template: SidebarInfoTemplate = {
       "net-core-web-development-part13", // 2022-04-20
       "net-core-web-development-part14", // 2024-01-31
       "net-core-web-development-part15", // 2022-04-20
+      "authentication-aspnetcore-jwt-2", // 2024-01-31
     ]],[
     "docker", [
       "why-docker-docker-cli-examples", // 2020-09-02
@@ -59,6 +80,8 @@ export const template: SidebarInfoTemplate = {
       "docker-hub-vs-creating-docker-registry", // 2020-09-02
       "preparing-ci-environment-docker", // 2022-06-29
       "ci-aspnetcoreapp-docker", // 2020-09-02
+      "ci-jenkins-docker", // 2021-10-09
+      "top-docker-monitoring-tools", // 2020-09-02
     ]],[
     "linux-debain", [
       "net-core-web-development-part17", // 2024-02-05
@@ -108,6 +131,27 @@ export const template: SidebarInfoTemplate = {
       "aspnetcore-webapi-best-practices", // 2024-02-22
       "ci-aspnetcoreapp-docker", // 2020-09-02
       "create-pdf-dotnetcore", // 2024-01-31
+      "authentication-aspnetcore-jwt-1", // 2024-01-31
+      "global-error-handling-aspnetcore", // 2024-04-04
+      "ci-jenkins-docker", // 2021-10-09
+      "top-docker-monitoring-tools", // 2020-09-02
+      "csharp-conditions-if-else-swtich-case", // 2021-12-16
+      "csharp-methods", // 2023-01-18
+      "csharp-basics-arrays", // 2022-07-13
+      "authentication-aspnetcore-jwt-2", // 2024-01-31
+      "csharp-basics-ide-introduction", // 2021-12-16
+      "csharp-operators", // 2023-01-29
+      "csharp-linear-structures-input-output", // 2021-12-16
+      "csharp-loops", // 2021-12-20
+      "cshrap-ref-out-keywords", // 2022-11-26
+      "csharp-basics-streamwriter-streamreader", // 2020-08-27
+      "unit-testing-aspnetcore-web-api", // 2024-01-31
+      "csharp-data-types-variables", // 2021-12-16
+      "csharp-type-conversion", // 2021-12-16
+      "csharp-string-methods", // 2021-12-16
+      "csharp-access-modifiers", // 2023-02-27
+      "csharp-basics-recursion", // 2020-08-27
+      "csharp-basics-file-directory", // 2020-08-27
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])

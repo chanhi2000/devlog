@@ -94,7 +94,17 @@ As of Xcode 7 and Swift 2, you'll get warnings in your code whenever you declare
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
+<!-- 
+```component VPCard
+{
+  "title": "Mutability warnings | Changes in Swift 2.0",
+  "desc": "Mutability warnings",
+  "link": "/explore/articles/hackingwithswift.com/swift/2.0/mutability.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+-->
 ```component VPCard
 {
   "title": "Checking API availability | Changes in Swift 2.0",
@@ -104,6 +114,8 @@ As of Xcode 7 and Swift 2, you'll get warnings in your code whenever you declare
   "background": "rgba(174,10,10,0.2)"
 }
 ```
+
+[<FontIcon icon="fas fa-file-zipper"/>Download Swift 2.0 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-1-2-to-2-0.playground.zip)
 
 :::
 

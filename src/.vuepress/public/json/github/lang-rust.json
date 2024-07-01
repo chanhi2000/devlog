@@ -1579,5 +1579,10 @@
     "desc": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
     "officialSite": "https://starship.rs",
     "topics": ["bash", "fish", "fish-prompt", "fish-theme", "oh-my-zsh", "powershell", "rust", "shell-prompt", "starship", "zsh", "zsh-prompt", "zsh-theme"]
+  }, {
+    "repo": "YaLTeR/niri",
+    "desc": "A scrollable-tiling Wayland compositor.",
+    "officialSite": "https://matrix.to/#/#niri:matrix.org",
+    "topics": ["rust", "smithay", "tiling-window-manager", "wayland", "wayland-compositor"]
   }
 ]

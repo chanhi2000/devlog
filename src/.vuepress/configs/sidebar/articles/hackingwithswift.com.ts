@@ -47,9 +47,56 @@ export const template: SidebarGroupItem = {
             children: [
             ]
           }, {
+            text: "Changes in Swift 5.5",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 5.4",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 5.3",
+            collapsible: true,
+            children: [
+            ]
+          }, {
+            text: "Changes in Swift 5.2",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/5.2/keypath-expressions.md',
+              '/explore/articles/hackingwithswift.com/swift/5.2/callasfunction.md',
+              '/explore/articles/hackingwithswift.com/swift/5.2/subscript-default-arguments.md',
+              '/explore/articles/hackingwithswift.com/swift/5.2/lazy-filtering.md',
+              '/explore/articles/hackingwithswift.com/swift/5.2/new-diagnostics.md',
+            ]
+          }, {
+            text: "Changes in Swift 5.1",
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/swift/5.1/improved-memberwise-initializers.md',
+              '/explore/articles/hackingwithswift.com/swift/5.1/implicit-returns.md',
+              '/explore/articles/hackingwithswift.com/swift/5.1/universal-self.md',
+              '/explore/articles/hackingwithswift.com/swift/5.1/opaque-return-types.md',
+              '/explore/articles/hackingwithswift.com/swift/5.1/static-subscripts.md',
+              '/explore/articles/hackingwithswift.com/swift/5.1/ambiguous-none-enum.md',
+              '/explore/articles/hackingwithswift.com/swift/5.1/matching-optional-enums.md',
+              '/explore/articles/hackingwithswift.com/swift/5.1/ordered-collection-diffing.md',
+              '/explore/articles/hackingwithswift.com/swift/5.1/creating-uninitialized-arrays.md',
+            ]
+          }, {
             text: "Changes in Swift 5.0",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.0/raw-strings.md',
+              '/explore/articles/hackingwithswift.com/swift/5.0/result.md',
+              '/explore/articles/hackingwithswift.com/swift/5.0/string-interpolation.md',
+              '/explore/articles/hackingwithswift.com/swift/5.0/dynamically-callable-types.md',
+              '/explore/articles/hackingwithswift.com/swift/5.0/handling-future-enum-cases.md',
+              '/explore/articles/hackingwithswift.com/swift/5.0/flattening-optionals.md',
+              '/explore/articles/hackingwithswift.com/swift/5.0/integer-multiples.md',
+              '/explore/articles/hackingwithswift.com/swift/5.0/compactmapvalues.md',
             ]
           }, {
             text: "Changes in Swift 4.2",

@@ -117,7 +117,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
 <!-- 
 ```component VPCard
 {
-  "title": "All function parameters have labels unless you request otherwise | Changes in Swift ",
+  "title": "All function parameters have labels unless you request otherwise | Changes in Swift 3.0",
   "desc": "All function parameters have labels unless you request otherwise",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/function-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -127,7 +127,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
 -->
 ```component VPCard
 {
-  "title": "Omit needless words | Changes in Swift ",
+  "title": "Omit needless words | Changes in Swift 3.0",
   "desc": "Omit needless words",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/omit-needless-words.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -137,7 +137,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
 
 ```component VPCard
 {
-  "title": "UpperCamelCase has been replaced with lowerCamelCase for enums and properties | Changes in Swift ",
+  "title": "UpperCamelCase has been replaced with lowerCamelCase for enums and properties | Changes in Swift 3.0",
   "desc": "UpperCamelCase has been replaced with lowerCamelCase for enums and properties",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/lower-camel-case.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -147,7 +147,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
 
 ```component VPCard
 {
-  "title": "Swifty importing of C functions | Changes in Swift ",
+  "title": "Swifty importing of C functions | Changes in Swift 3.0",
   "desc": "Swifty importing of C functions",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/c-functions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -157,7 +157,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
 
 ```component VPCard
 {
-  "title": "Verbs and nouns | Changes in Swift ",
+  "title": "Verbs and nouns | Changes in Swift 3.0",
   "desc": "Verbs and nouns",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/verbs-and-nouns.md",
   "logo": "https://hackingwithswift.com/favicon.svg",

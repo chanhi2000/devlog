@@ -22,6 +22,8 @@ head:
       content: All SwiftUI property wrappers explained and compared
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/all-swiftui-property-wrappers-explained-and-compared.html
+date: 2024-05-01
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련

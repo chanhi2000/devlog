@@ -2404,5 +2404,15 @@
     "desc": "Medium-like text selection sharing without dependencies",
     "officialSite": "https://maxart2501.github.io/share-this/",
     "topics": ["medium", "popover", "selection", "sharing"]
+  }, {
+    "repo": "overleaf/overleaf",
+    "desc": "A web-based collaborative LaTeX editor",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "vshymanskyy/ViperIDE",
+    "desc": "An innovative MicroPython IDE for Web and Mobile",
+    "officialSite": "https://viper-ide.org",
+    "topics": ["ampy", "ide", "micropython", "mobile-app", "mpremote", "pwa-app", "python3", "rshell", "terminal", "vanilla-js"]
   }
 ]

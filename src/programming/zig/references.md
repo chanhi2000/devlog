@@ -42,4 +42,10 @@ tag:
 
 ---
 
+## Loris Cro
+
+- [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
+
+---
+
 <TagLinks/>

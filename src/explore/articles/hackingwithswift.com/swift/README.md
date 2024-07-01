@@ -912,7 +912,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 }
 ```
 
-
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 5.3 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-5-2-to-5-3.playground.zip)
 
 :::
@@ -921,7 +920,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Key path expressions as functions | Changes in Swift ",
+  "title": "Key path expressions as functions | Changes in Swift 5.2",
   "desc": "Key path expressions as functions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/keypath-expressions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -931,7 +930,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Callable values of user-defined nominal types | Changes in Swift ",
+  "title": "Callable values of user-defined nominal types | Changes in Swift 5.2",
   "desc": "Callable values of user-defined nominal types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/callasfunction.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -941,7 +940,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Subscripts can now declare default arguments | Changes in Swift ",
+  "title": "Subscripts can now declare default arguments | Changes in Swift 5.2",
   "desc": "Subscripts can now declare default arguments",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/subscript-default-arguments.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -951,7 +950,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Lazy filtering order is now reversed | Changes in Swift ",
+  "title": "Lazy filtering order is now reversed | Changes in Swift 5.2",
   "desc": "Lazy filtering order is now reversed",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/lazy-filtering.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -961,14 +960,13 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "New and improved diagnostics | Changes in Swift ",
+  "title": "New and improved diagnostics | Changes in Swift 5.2",
   "desc": "New and improved diagnostics",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/new-diagnostics.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
 
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 5.2 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-5-1-to-5-2.playground.zip)
 
@@ -978,7 +976,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Improvements to synthesized memberwise initializers | Changes in Swift ",
+  "title": "Improvements to synthesized memberwise initializers | Changes in Swift 5.1",
   "desc": "Improvements to synthesized memberwise initializers",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/improved-memberwise-initializers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -988,7 +986,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Implicit returns from single-expression functions | Changes in Swift ",
+  "title": "Implicit returns from single-expression functions | Changes in Swift 5.1",
   "desc": "Implicit returns from single-expression functions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/implicit-returns.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -998,7 +996,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Universal Self | Changes in Swift ",
+  "title": "Universal Self | Changes in Swift 5.1",
   "desc": "Universal Self",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/universal-self.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1008,7 +1006,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Opaque return types | Changes in Swift ",
+  "title": "Opaque return types | Changes in Swift 5.1",
   "desc": "Opaque return types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/opaque-return-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1018,7 +1016,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Static and class subscripts | Changes in Swift ",
+  "title": "Static and class subscripts | Changes in Swift 5.1",
   "desc": "Static and class subscripts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/static-subscripts.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1028,7 +1026,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Warnings for ambiguous none cases | Changes in Swift ",
+  "title": "Warnings for ambiguous none cases | Changes in Swift 5.1",
   "desc": "Warnings for ambiguous none cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/ambiguous-none-enum.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1038,7 +1036,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Matching optional enums against non-optionals | Changes in Swift ",
+  "title": "Matching optional enums against non-optionals | Changes in Swift 5.1",
   "desc": "Matching optional enums against non-optionals",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/matching-optional-enums.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1048,7 +1046,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Ordered collection diffing | Changes in Swift ",
+  "title": "Ordered collection diffing | Changes in Swift 5.1",
   "desc": "Ordered collection diffing",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/ordered-collection-diffing.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1058,7 +1056,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Creating uninitialized arrays | Changes in Swift ",
+  "title": "Creating uninitialized arrays | Changes in Swift 5.1",
   "desc": "Creating uninitialized arrays",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/creating-uninitialized-arrays.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1075,7 +1073,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Raw strings | Changes in Swift ",
+  "title": "Raw strings | Changes in Swift 5.0",
   "desc": "Raw strings",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/raw-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1085,7 +1083,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "A standard Result type | Changes in Swift ",
+  "title": "A standard Result type | Changes in Swift 5.0",
   "desc": "A standard Result type",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/result.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1095,7 +1093,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Customizing string interpolation | Changes in Swift ",
+  "title": "Customizing string interpolation | Changes in Swift 5.0",
   "desc": "Customizing string interpolation",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/string-interpolation.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1105,7 +1103,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Dynamically callable types | Changes in Swift ",
+  "title": "Dynamically callable types | Changes in Swift 5.0",
   "desc": "Dynamically callable types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/dynamically-callable-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1115,7 +1113,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Handling future enum cases | Changes in Swift ",
+  "title": "Handling future enum cases | Changes in Swift 5.0",
   "desc": "Handling future enum cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/handling-future-enum-cases.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1125,7 +1123,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Flattening nested optionals resulting from try? | Changes in Swift ",
+  "title": "Flattening nested optionals resulting from try? | Changes in Swift 5.0",
   "desc": "Flattening nested optionals resulting from try?",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/flattening-optionals.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1135,7 +1133,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Checking for integer multiples | Changes in Swift ",
+  "title": "Checking for integer multiples | Changes in Swift 5.0",
   "desc": "Checking for integer multiples",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/integer-multiples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1145,14 +1143,13 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Transforming and unwrapping dictionary values with compactMapValues() | Changes in Swift ",
+  "title": "Transforming and unwrapping dictionary values with compactMapValues() | Changes in Swift 5.0",
   "desc": "Transforming and unwrapping dictionary values with compactMapValues()",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/compactmapvalues.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
 
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 5.0 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-4-2-to-5-0.playground.zip)
 
@@ -1400,7 +1397,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Concrete constrained extensions | Changes in Swift ",
+  "title": "Concrete constrained extensions | Changes in Swift 3.1",
   "desc": "Concrete constrained extensions",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/concrete-constrained-extensions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1410,7 +1407,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Generics with nested types | Changes in Swift ",
+  "title": "Generics with nested types | Changes in Swift 3.1",
   "desc": "Generics with nested types",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/generic-nested-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1420,7 +1417,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Sequences get prefix(while:) and drop(while:) methods | Changes in Swift ",
+  "title": "All function parameters have labels unless you request otherwise | Changes in Swift 3.1",
   "desc": "Sequences get prefix(while:) and drop(while:) methods",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/prefix-drop.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1436,7 +1433,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "All function parameters have labels unless you request otherwise | Changes in Swift ",
+  "title": "All function parameters have labels unless you request otherwise | Changes in Swift 3.0",
   "desc": "All function parameters have labels unless you request otherwise",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/function-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1446,7 +1443,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Omit needless words | Changes in Swift ",
+  "title": "Omit needless words | Changes in Swift 3.0",
   "desc": "Omit needless words",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/omit-needless-words.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1456,7 +1453,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "UpperCamelCase has been replaced with lowerCamelCase for enums and properties | Changes in Swift ",
+  "title": "UpperCamelCase has been replaced with lowerCamelCase for enums and properties | Changes in Swift 3.0",
   "desc": "UpperCamelCase has been replaced with lowerCamelCase for enums and properties",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/lower-camel-case.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1466,7 +1463,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Swifty importing of C functions | Changes in Swift ",
+  "title": "Swifty importing of C functions | Changes in Swift 3.0",
   "desc": "Swifty importing of C functions",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/c-functions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1476,7 +1473,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Verbs and nouns | Changes in Swift ",
+  "title": "Verbs and nouns | Changes in Swift 3.0",
   "desc": "Verbs and nouns",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/verbs-and-nouns.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1492,7 +1489,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "++ and -- are deprecated | Changes in Swift ",
+  "title": "++ and -- are deprecated | Changes in Swift 2.2",
   "desc": "++ and -- are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/increment-decrement.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1502,7 +1499,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Traditional C-style for loops are deprecated | Changes in Swift ",
+  "title": "Traditional C-style for loops are deprecated | Changes in Swift 2.2",
   "desc": "Traditional C-style for loops are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/c-loops.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1512,7 +1509,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Comparing tuples | Changes in Swift ",
+  "title": "Comparing tuples | Changes in Swift 2.2",
   "desc": "Comparing tuples",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/comparing-tuples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1522,7 +1519,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Tuple splat syntax is deprecated | Changes in Swift ",
+  "title": "Tuple splat syntax is deprecated | Changes in Swift 2.2",
   "desc": "Tuple splat syntax is deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/tuple-splat.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1532,7 +1529,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "More keywords can be used as argument labels | Changes in Swift ",
+  "title": "More keywords can be used as argument labels | Changes in Swift 2.2",
   "desc": "More keywords can be used as argument labels",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/more-keywords.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1542,7 +1539,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Variable parameters have been deprecated | Changes in Swift ",
+  "title": "Variable parameters have been deprecated | Changes in Swift 2.2",
   "desc": "Variable parameters have been deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/variable-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1552,7 +1549,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Renamed debug identifiers: line, function, file | Changes in Swift ",
+  "title": "Renamed debug identifiers: line, function, file | Changes in Swift 2.2",
   "desc": "Renamed debug identifiers: line, function, file",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/renamed-identifiers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1562,7 +1559,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Stringified selectors are deprecated | Changes in Swift ",
+  "title": "Stringified selectors are deprecated | Changes in Swift 2.2",
   "desc": "Stringified selectors are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/stringified-selectors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1572,7 +1569,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "Compile-time Swift version checking | Changes in Swift ",
+  "title": "Compile-time Swift version checking | Changes in Swift 2.2",
   "desc": "Compile-time Swift version checking",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/version-checking.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1588,7 +1585,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 
 ```component VPCard
 {
-  "title": "String interpolation can now include string literals | Changes in Swift ",
+  "title": "String interpolation can now include string literals | Changes in Swift 2.1",
   "desc": "String interpolation can now include string literals",
   "link": "/explore/articles/hackingwithswift.com/swift/2.1/string-interpolation.md",
   "logo": "https://hackingwithswift.com/favicon.svg",

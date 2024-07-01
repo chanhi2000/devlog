@@ -22,6 +22,8 @@ head:
       content: Adding swipe to delete and EditButton
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/adding-swipe-to-delete-and-editbutton.html
+date: 2024-04-30
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,7 +52,7 @@ head:
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
 Before we're done with this app, let's make a handful of smaller changes that help polish up what we have.
 
@@ -119,6 +121,40 @@ Section {
 If you run the app now you'll find that you can add an item, go to the order screen, and _delete_ that item, and Place Order will automatically become disabled as your cart becomes empty.
 
 Much better!
+
+::: details Further Reading…
+
+```component VPCard
+{
+  "title": "How to let users delete rows from a list | SwiftUI by Example",
+  "desc": "How to let users delete rows from a list",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-let-users-delete-rows-from-a-list.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to enable editing on a list using EditButton | SwiftUI by Example",
+  "desc": "How to enable editing on a list using EditButton",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-enable-editing-on-a-list-using-editbutton.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Enabling and disabling elements in forms | SwiftUI by Example",
+  "desc": "Enabling and disabling elements in forms",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/enabling-and-disabling-elements-in-forms.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
 
 ::: details Similar solutions…
 

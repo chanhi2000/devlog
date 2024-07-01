@@ -96,4 +96,10 @@ tag:
 
 ---
 
+## Random walks.
+
+- [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
+
+---
+
 <TagLinks />

@@ -141,6 +141,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Go for Absolute Beginners",
+  "desc": "Are you looking to dive into a new programming language that is both powerful and efficient? Go, also known as Golang, is a modern language that has quickly become a favorite among developers for its simplicity and performance. Whether you're a seaso...",
+  "link": "/explore/articles/freecodecamp.org/go-for-absolute-beginners.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

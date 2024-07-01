@@ -17,6 +17,12 @@ tag:
 
 ---
 
+## Standard C++
+
+- [Reflection for C++26](https://isocpp.org/files/papers/P2996R4.html)
+
+---
+
 ## Google Open Source Blog
 
 - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)

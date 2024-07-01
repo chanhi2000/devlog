@@ -23,6 +23,8 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/dedication.html
 next: /explore/articles/hackingwithswift.com/swiftui/swiftui-tutorial-building-a-complete-project.md
+date: 2021-06-08
+isOriginal: false 
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,7 +53,7 @@ next: /explore/articles/hackingwithswift.com/swiftui/swiftui-tutorial-building-a
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
 Inside Apple it took an extraordinary amount of effort to design, build, test, document, and ship SwiftUI. As third-party developers we only really see the end result – when a senior Apple staffer gets on stage at WWDC and shows it off to huge applause, when we download the new Xcode to see a huge amount of new functionality, and when we start our own journey of figuring out how to make best use of these incredible new tools.
 

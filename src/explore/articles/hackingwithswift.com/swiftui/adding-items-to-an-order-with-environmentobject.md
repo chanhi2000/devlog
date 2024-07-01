@@ -22,6 +22,8 @@ head:
       content: Adding items to an order with @EnvironmentObject
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/adding-items-to-an-order-with-environmentobject.html
+date: 2024-04-30
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,7 +52,7 @@ head:
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
 <VidStack src="youtube/bFwyDUhWXQ8" />
 
@@ -170,6 +172,20 @@ When you just want some text for your `NavigationLink`, you can use the simpler 
 
 We'll come back to that shortly, but first we need to make sure it's working by making it accessible through our user interface.
 
+::: details Further Reading…
+
+```component VPCard
+{
+  "title": "How to create a tappable button | SwiftUI by Example",
+  "desc": "How to create a tappable button",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-create-a-tappable-button.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
+
 ::: details Similar solutions…
 
 ```component VPCard
@@ -221,7 +237,7 @@ We'll come back to that shortly, but first we need to make sure it's working by 
   "background": "rgba(54,94,226,0.2)"
 }
 ```
-
+  
 :::
 
 ---

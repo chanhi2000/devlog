@@ -132,7 +132,6 @@ We'll also cover other miscellaneous improvements, such as enhanced support for 
 
 Whether you’re a seasoned React developer or just getting started, this course provides the knowledge and skills needed to harness the full potential of React 19. Watch the full course on [<FontIcon icon="fa-brands fa-youtube"/>the freeCodeCamp.org YouTube channel](https://youtu.be/81uAxzeyL2I) (1-hour watch).
 
-
 <VidStack src="youtube/81uAxzeyL2I" />
 
 ---

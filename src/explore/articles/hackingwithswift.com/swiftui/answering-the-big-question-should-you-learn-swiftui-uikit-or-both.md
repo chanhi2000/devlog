@@ -21,7 +21,7 @@ head:
     - property: og:description
       content: "Answering the big question: should you learn SwiftUI, UIKit, or both?"
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/swiftui-vs-interface-builder-and-storyboards.html
+      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/answering-the-big-question-should-you-learn-swiftui-uikit-or-both.html
 date: 2023-06-17
 isOriginal: false
 ---
@@ -46,13 +46,13 @@ isOriginal: false
 {
   "title": "Answering the big question: should you learn SwiftUI, UIKit, or both? | SwiftUI by Example",
   "desc": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
-  "link": "https://hackingwithswift.com/quick-start/swiftui/swiftui-vs-interface-builder-and-storyboards", 
+  "link": "https://hackingwithswift.com/quick-start/swiftui/answering-the-big-question-should-you-learn-swiftui-uikit-or-both", 
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
 Of all the SwiftUI questions I've been asked, one comes up more than any other: “I'm learning Swift: should I learn SwiftUI or do I need to learn UIKit as well?”
 

@@ -22,6 +22,8 @@ head:
       content: Adding TabView and tabItem()
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/adding-items-to-an-order-with-environmentobject.html
+date: 2022-12-01
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,7 +52,7 @@ head:
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
 <VidStack src="youtube/UOZg8H3Ecf4"/>
 
@@ -124,6 +126,20 @@ What I love about this approach is that we're not doing the real heavy lifting o
 In the background, any view that relies on an environment object will be refreshed when it announces changes. In practice that means SwiftUI will re-invoke the `body` property, which in turn means everything inside `body` will read the latest values from the environment.
 
 ![A close up of a SwiftUI tab bar, showing tabs for `Menu` and `Order`.](https://hackingwithswift.com/img/books/quick-start/swiftui/2-11~dark.png)
+
+::: details Further Reading…
+
+```component VPCard
+{
+  "title": "How to embed views in a tab bar using TabView | SwiftUI by Example",
+  "desc": "How to embed views in a tab bar using TabView",
+  "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-embed-views-in-a-tab-bar-using-tabview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
+
+:::
 
 ::: details Similar solutions…
 

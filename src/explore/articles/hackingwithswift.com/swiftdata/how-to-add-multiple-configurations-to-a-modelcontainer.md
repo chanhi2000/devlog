@@ -53,7 +53,42 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-<!-- TODO: 작성 -->
+For more advanced SwiftData setups, it’s possible to send multiple model configurations into a single model container, giving you fine-grained control over how each part of your schema is manipulated.
+
+::: important
+
+SwiftData models with relationships *must* be part of the same store. For example, if a `User` model has a relationship with a `Recipe` model, SwiftData will not let you create a configuration for one that excludes the other – even if you exclude one, it will implicitly be added by SwiftData. To be clear, relationships *cannot* span multiple SwiftData stores.
+
+:::
+
+For example, you might want to store `Recipe` objects permanently, but download `Comment` objects into a temporary store for faster access:
+
+```swift
+@main
+struct RecipeBookApp: App {
+    var container: ModelContainer
+
+    init() {
+        do {
+            let config1 = ModelConfiguration(for: Recipe.self)
+            let config2 = ModelConfiguration(for: Comment.self, isStoredInMemoryOnly: true)
+
+            container = try ModelContainer(for: Recipe.self, Comment.self, configurations: config1, config2)
+        } catch {
+            fatalError("Failed to configure SwiftData container.")
+        }
+    }
+
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+        .modelContainer(container)
+    }
+}
+```
+
+Again, if those two model types were linked through a relationship, SwiftData would have no choice but to load both types in both configurations.
 
 ---
 

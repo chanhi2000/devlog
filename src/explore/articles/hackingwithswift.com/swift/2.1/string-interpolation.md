@@ -41,7 +41,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "String interpolation can now include string literals | Changes in Swift 2.1",
+  "title": "String interpolation can now include string literals | Changes in Swift 2.12.1",
   "desc": "String interpolation can now include string literals",
   "link": "https://hackingwithswift.com/swift/2.1/string-interpolation", 
   "logo": "https://hackingwithswift.com/favicon.svg",

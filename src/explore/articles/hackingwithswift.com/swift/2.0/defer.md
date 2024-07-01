@@ -131,7 +131,17 @@ As soon as `doStuff()` throws its error, the method is exited and at that point 
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
+<!-- 
+```component VPCard
+{
+  "title": "Use the defer keyword to delay work until your scope exits | Changes in Swift 2.0",
+  "desc": "Use the defer keyword to delay work until your scope exits",
+  "link": "/explore/articles/hackingwithswift.com/swift/2.0/defer.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+-->
 ```component VPCard
 {
   "title": "Mutability warnings | Changes in Swift 2.0",
@@ -151,6 +161,8 @@ As soon as `doStuff()` throws its error, the method is exited and at that point 
   "background": "rgba(174,10,10,0.2)"
 }
 ```
+
+[<FontIcon icon="fas fa-file-zipper"/>Download Swift 2.0 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-1-2-to-2-0.playground.zip)
 
 :::
 

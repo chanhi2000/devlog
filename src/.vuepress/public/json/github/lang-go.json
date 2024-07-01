@@ -1614,5 +1614,20 @@
     "desc": "Combine many RSS feeds into one feed",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "hajimehoshi/ebiten",
+    "desc": "Ebitengine - A dead simple 2D game engine for Go",
+    "officialSite": "https://ebitengine.org",
+    "topics": ["ebiten", "ebitengine", "game", "game-2d", "game-development", "game-engine", "game-engine-2d", "game-library", "gamedev", "go", "golang", "golang-library"]
+  }, {
+    "repo": "syntaqx/cookie",
+    "desc": "Cookies, but with structs, for happiness.",
+    "officialSite": "",
+    "topics": ["cookie", "helper", "unmarshal"]
+  }, {
+    "repo": "mr-karan/doggo",
+    "desc": ":dog: Command-line DNS Client for Humans. Written in Golang",
+    "officialSite": "https://doggo.mrkaran.dev/",
+    "topics": ["dns", "dns-client", "doh"]
   }
 ]

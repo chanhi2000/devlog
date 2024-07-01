@@ -22,6 +22,8 @@ head:
       content: Basic form design
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/basic-form-design.html
+date: 2021-09-03
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,7 +52,7 @@ head:
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
 **Updated for iOS 15**
 

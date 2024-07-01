@@ -88,6 +88,13 @@ tag:
 }
 ```
 
+<SiteInfo
+  name="Find Visa Sponsorship and Relocation Support Jobs | Relocate for Work"
+  desc="Land your dream job and move abroad! Relocate for Work connects you with visa sponsorship and relocation support jobs."
+  url="https://www.relocateforwork.com/"
+  logo="https://www.relocateforwork.com/favicon.svg"
+  preview="https://res.cloudinary.com/dbvvslwpj/image/upload/f_auto,q_auto/c1ng5xtxmksgjwenulzv"/>
+
 ---
 
 <TagLinks />

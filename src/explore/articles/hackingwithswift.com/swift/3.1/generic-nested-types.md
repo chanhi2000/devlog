@@ -117,7 +117,7 @@ Generics are great and so are nested types, so I'm really pleased to see Swift 3
 
 ```component VPCard
 {
-  "title": "Concrete constrained extensions | Changes in Swift ",
+  "title": "Concrete constrained extensions | Changes in Swift 3.1",
   "desc": "Concrete constrained extensions",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/concrete-constrained-extensions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -127,7 +127,7 @@ Generics are great and so are nested types, so I'm really pleased to see Swift 3
 <!-- 
 ```component VPCard
 {
-  "title": "Generics with nested types | Changes in Swift ",
+  "title": "Generics with nested types | Changes in Swift 3.1",
   "desc": "Generics with nested types",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/generic-nested-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -137,7 +137,7 @@ Generics are great and so are nested types, so I'm really pleased to see Swift 3
 -->
 ```component VPCard
 {
-  "title": "Sequences get prefix(while:) and drop(while:) methods | Changes in Swift ",
+  "title": "All function parameters have labels unless you request otherwise | Changes in Swift 3.1",
   "desc": "Sequences get prefix(while:) and drop(while:) methods",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/prefix-drop.md",
   "logo": "https://hackingwithswift.com/favicon.svg",

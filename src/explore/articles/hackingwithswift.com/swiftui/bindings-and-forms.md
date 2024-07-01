@@ -22,6 +22,8 @@ head:
       content: Bindings and forms
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/bindings-and-forms.html
+date: 2022-12-01
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,7 +52,7 @@ head:
 }
 ```
 
-> Update for Xcode 15
+> Update for Xcode 16
 
 <VidStack src="youtube/KxfUnedCxyI" />
 

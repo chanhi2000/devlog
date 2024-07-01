@@ -18,10 +18,12 @@ head:
   - - meta:
     - property: og:title
       content: Article(s) > Composing views to create a list row
-    - property: og:description
+    - property: og:description  
       content: Composing views to create a list row
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/composing-views-to-create-a-list-row.html
+date: 2024-04-30
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,7 +52,7 @@ head:
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
 <VidStack src="youtube/tf4YQzQc6ek" />
 

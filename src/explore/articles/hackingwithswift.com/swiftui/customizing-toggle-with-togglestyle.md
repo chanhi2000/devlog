@@ -22,6 +22,8 @@ head:
       content: Customizing Toggle with ToggleStyle
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swiftui/customizing-toggle-with-togglestyle.html
+date: 2023-06-16
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -50,7 +52,7 @@ head:
 }
 ```
 
-> Updated for Xcode 15
+> Updated for Xcode 16
 
 SwiftUI gives us the `ToggleStyle` protocol to customize the way `Toggle` switches look and work. Any struct that conforms to this protocol must implement a `makeBody()` method that renders the `Toggle` however you want it, and you’re giving both the label used for the toggle and an `isOn` binding that you can flip to adjust the toggle.
 

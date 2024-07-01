@@ -439,6 +439,196 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "JWT Authentication in ASP.NET Core Web API",
+  "desc": "In this article, we are going to learn how to provide a JWT authentication to secure our ASP.NET Core Web API app.",
+  "link": "/explore/articles/code-maze.com/authentication-aspnetcore-jwt-1.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Global Error Handling in ASP.NET Core Web API",
+  "desc": "Find out how to replace try-catch blocks in your code with the Global Error Handling by using the custom or built-in middleware in ASP.NET Core.",
+  "link": "/explore/articles/code-maze.com/global-error-handling-aspnetcore.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Conditions in C# with If-Else, and Switch-Case Statements",
+  "desc": "Learn about Conditions in C#, differences between if, if-else, if-else if, and switch-case conditional statements, and how to use them.",
+  "link": "/explore/articles/code-maze.com/csharp-conditions-if-else-swtich-case.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Methods",
+  "desc": "Let's learn about Methods in C#, how to create a valid method signature, how to work with parameters and arguments and optional params.",
+  "link": "/explore/articles/code-maze.com/csharp-methods.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Back to Basics – Arrays",
+  "desc": "Learn about Arrays in C#. How to declare them, initialize them and manipulate them. Also, learn how to use multi-dimensional arrays.",
+  "link": "/explore/articles/code-maze.com/csharp-basics-arrays.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular JWT Authentication with ASP.NET Core Web API",
+  "desc": "Angular JWT as a frontend part of the ASP.NET Core JWT Authentication and Authorization example project implemented using the Angular framework.",
+  "link": "/explore/articles/code-maze.com/authentication-aspnetcore-jwt-2.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Basics – Development Environment Setup",
+  "desc": "Find out the basics about Visual Studio 2017 environment. How we can use it in our complete tutorial and how it can help us with our examples.",
+  "link": "/explore/articles/code-maze.com/csharp-basics-ide-introduction.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Operators in C#",
+  "desc": "In this article, we are going to learn more about Operators in C# - Arithmetic, Relational and Logical operators, and their differences",
+  "link": "/explore/articles/code-maze.com/csharp-operators.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Linear Structures in C# with Inputs and Printing Output Results",
+  "desc": "Find out more about Input and Output in C#, how to work with it by accepting inputs from a user, processing them, and print the output.",
+  "link": "/explore/articles/code-maze.com/csharp-linear-structures-input-output.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "While, For, Do-While Loops in C#",
+  "desc": "Learn more about Loops in C#. How to use them and when to use them and what are the differences. Learn all of that through the examples.",
+  "link": "/explore/articles/code-maze.com/csharp-loops.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Difference Between Ref and Out keywords in C#",
+  "desc": "Learn more about Ref and Out Keywords in C#. What are the differences between them and how we can use them in our projects.",
+  "link": "/explore/articles/code-maze.com/cshrap-ref-out-keywords.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Back to Basics – Files, StreamWriter and StreamReader",
+  "desc": "Find out how to work with files by using StreamWriter and StreamReader classes. Furthermore, learn about initialization and their methods as well.",
+  "link": "/explore/articles/code-maze.com/csharp-basics-streamwriter-streamreader.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Unit Testing in ASP.NET Core Web API",
+  "desc": "Find out what Unit testing is and how to write unit tests in ASP.NET Core Web API Project to test Controllers and Repo logic.",
+  "link": "/explore/articles/code-maze.com/unit-testing-aspnetcore-web-api.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Data Types, Declarations and Variable Definitions in C#",
+  "desc": "Find out more about C# Data Types, what kind of data types exists in C#, how to use declarations and how to use variables as well.",
+  "link": "/explore/articles/code-maze.com/csharp-data-types-variables.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Type Conversion in C#",
+  "desc": "Learn about C# Type Conversions, how to use implicite and explicite conversion. Practice through examples in this article.",
+  "link": "/explore/articles/code-maze.com/csharp-type-conversion.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Working With Strings in C# – String Methods",
+  "desc": "FInd out how to work with strings in C# project, what type of String Methods in C# exists, and how to use them through examples.",
+  "link": "/explore/articles/code-maze.com/csharp-string-methods.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Access Modifiers",
+  "desc": "Learn about Access Modifiers in C#, how to use them, what are the differences between them and what are constraints of each of them.",
+  "link": "/explore/articles/code-maze.com/csharp-access-modifiers.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Back to Basics – Recursion and Recursive Methods",
+  "desc": "Learn how to use Recursion and Recursive Methods in C#. And, what is the difference between regular methods and recursive ones.",
+  "link": "/explore/articles/code-maze.com/csharp-basics-recursion.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Back to Basics – File and Directory Classes",
+  "desc": "Find out how to work with files by using File and Directory classes. Furthermore, learn about their methods and how to use them as well.",
+  "link": "/explore/articles/code-maze.com/csharp-basics-file-directory.md"
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!--END: code-maze.com -->
 
 ---

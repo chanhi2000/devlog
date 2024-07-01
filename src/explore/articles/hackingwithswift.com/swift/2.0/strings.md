@@ -86,7 +86,17 @@ This has changed in later versions of Swift – you should access the `count` pr
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
+<!-- 
+```component VPCard
+{
+  "title": "Measure strings using their character count | Changes in Swift 2.0",
+  "desc": "Measure strings using their character count",
+  "link": "/explore/articles/hackingwithswift.com/swift/2.0/strings.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+-->
 ```component VPCard
 {
   "title": "Use the defer keyword to delay work until your scope exits | Changes in Swift 2.0",
@@ -116,6 +126,8 @@ This has changed in later versions of Swift – you should access the `count` pr
   "background": "rgba(174,10,10,0.2)"
 }
 ```
+
+[<FontIcon icon="fas fa-file-zipper"/>Download Swift 2.0 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-1-2-to-2-0.playground.zip)
 
 :::
 

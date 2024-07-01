@@ -375,6 +375,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Create Infinite Scrolling in React Using the Intersection Observer API",
+  "desc": "Hi fellow developers! Have you ever wondered how social media apps like Facebook and Instagram keep you scrolling endlessly through your feed?  This user experience, designed to load new content on demand, uses a technique called infinite scrolling. This helps keep you hooked to these apps for hours. Traditionally,...",
+  "link": "/explore/articles/freecodecamp.org/infinite-scrolling-in-react.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
