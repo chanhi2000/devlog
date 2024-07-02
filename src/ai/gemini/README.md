@@ -1,13 +1,12 @@
 ---
 lang: ko-KR
-title: Gemini
-description: Gemini
-icon: fas fa-wand-magic-sparkles
+title: Google Gemini
+description: Google Gemini
+icon: iconfont icon-gemini
 category: 
+  - AI
   - Google
   - Gemini
-  - AI
-  - Youtube
 tag: 
   - ai
   - llm

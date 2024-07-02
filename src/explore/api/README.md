@@ -32,12 +32,6 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   ]'
 />
 
-::: details Browse slug(s)
-
-<!-- @include: ./simple-icons.md -->
-
-:::
-
 <VPBanner
   title="Awesome VuePress V2"
   content="A curated list of awesome things related to VuePress V2"
@@ -64,21 +58,11 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   ]'
 />
 
-<VPBanner
-  title="TILNOTE - AI 노트 & 블로그"
-  content="틸노트는 클라우드 노트+ 블로그 서비스입니다."
-  logo="https://tilnote.io/favicon.ico"
-  :actions='[
-    {
-      text: "TILNOTE GIST - 유튜브 요약 & 웹 페이지 요약",
-      link: "https://tilnote.io/gist"
-    }, {
-      text: "AI News - TILNOTE",
-      link: "https://tilnote.io/news",
-      type: "default"
-    }
-  ]'
-/>
+::: details Browse slug(s)
+
+<!-- @include: ./simple-icons.md -->
+
+:::
 
 ::: tabs
 

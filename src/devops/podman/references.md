@@ -41,4 +41,10 @@ tag:
 
 ---
 
+## Ersei 'n Stuff
+
+- [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
+
+---
+
 <TagLinks />

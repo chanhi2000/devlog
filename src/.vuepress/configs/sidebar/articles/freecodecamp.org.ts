@@ -170,7 +170,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-git-submodules", // 2024-05-07
       "what-is-trunk-based-development", // 2024-06-18
     ]],[
-    "godot", [
+    "gd", [
       "learn-to-create-a-3d-rpg-game-with-godot", // 2024-06-20
     ]],[
     "github", [

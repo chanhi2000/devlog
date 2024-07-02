@@ -141,6 +141,9 @@ tag:
 - [`kerry.bisset` / Modernizing Application Settings in Kotlin Multiplatform with DataStore and Koin](https://medium.com/@kerry.bisset/modernizing-application-settings-in-kotlin-multiplatform-with-datastore-and-koin-b1156229fd57)
 - [`mmartosdev` / Embedding Compose Multiplatform code into Medium articles](https://medium.com/@mmartosdev/embedding-compose-multiplatform-code-into-medium-articles-cc1141f5db34)
 - [`joostklitsie` / Stop throwing exceptions!](https://medium.com/@joostklitsie/stop-throwing-exceptions-4282c8472027)
+- [`groww` / Adding Repeat Delays to Android Animations](https://tech.groww.in/adding-repeat-delays-to-android-animations-aeaaee491195)
+- [`proandroiddev` / Exploring the Viability of Cross-Platform UI Development with Compose Multiplatform](https://proandroiddev.com/exploring-the-viability-of-cross-platform-ui-development-with-compose-multiplatform-c5be0608b69d)
+- [`ZahraHeydari` / Kotlin MultiPlatform (KMP)](https://medium.com/@ZahraHeydari/kotlin-multiplatform-kmp-4799fdfb69f1)
 
 ---
 

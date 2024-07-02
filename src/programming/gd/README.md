@@ -19,7 +19,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/godot/" />
+<ToCLocal basePath="/programming/gd/" />
 
 ---
 

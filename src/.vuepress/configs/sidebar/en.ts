@@ -887,7 +887,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Celery',
       collapsible: true,
-      icon: 'iconfont icon-django',
+      icon: 'iconfont icon-py-celery',
       children: [
         '/programming/py-celery/README.md',
         '/programming/py-celery/tips.md',
@@ -906,7 +906,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Locust',
       collapsible: true,
-      icon: 'iconfont icon-django',
+      icon: 'iconfont icon-py-locust',
       children: [
         '/programming/py-locust/README.md',
         '/programming/py-locust/tips.md',
@@ -1394,17 +1394,17 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-godot',
       children: [
-        '/programming/godot/README.md',
-        '/programming/godot/references.md',
-        '/programming/godot/github.md',
-        '/programming/godot/youtube.md',
+        '/programming/gd/README.md',
+        '/programming/gd/references.md',
+        '/programming/gd/github.md',
+        '/programming/gd/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/programming/godot/articles/README.md',
-            asb.freecodecamp("godot"),
+            '/programming/gd/articles/README.md',
+            asb.freecodecamp("gd"),
           ]
         }
       ]
@@ -3062,11 +3062,20 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Gemini',
       collapsible: true,
-      icon: 'fas fa-wand-magic-sparkles',
+      icon: 'iconfont icon-gemini',
       children: [
         '/ai/gemini/README.md',
         '/ai/gemini/references.md',
         '/ai/gemini/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/gemini/articles/README.md',
+            asb.yozm("gemini"),
+          ]
+        }
       ]
     },  {
       text: 'Claude',

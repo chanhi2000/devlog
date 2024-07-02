@@ -55,11 +55,28 @@ export const template: SidebarGroupItem = {
             text: "Changes in Swift 5.4",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.4/improved-implicit-member-syntax.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/multiple-variadic-parameters-in-functions.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/local-functions-now-support-overloading.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/local-variables-same-name.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/result-builders.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/local-property-wrappers.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/spm-executable-targets.md',
             ]
           }, {
             text: "Changes in Swift 5.3",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.3/multipattern-catch.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/multiple-trailing-closures.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/synthesized-comparable-enum.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/removing-self.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/atmain.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/where-clauses.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/enum-protocol-witnesses.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/refined-didset.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/float16.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/spm-improvements.md',
             ]
           }, {
             text: "Changes in Swift 5.2",

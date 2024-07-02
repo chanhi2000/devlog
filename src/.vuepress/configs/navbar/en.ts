@@ -244,7 +244,7 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-markdown',
       }, {
         text: 'Godot Engine',
-        link: '/programming/godot/README.md',
+        link: '/programming/gd/README.md',
         icon: 'iconfont icon-godot',
       }, 
     ]
@@ -637,9 +637,9 @@ export const navbarEn = navbar([
     icon: 'fas fa-brain',
     children: [
       {
-        text: 'OpenAI',
-        icon: 'iconfont icon-openai',
-        link: '/ai/openai/README.md',
+        text: 'AI',
+        icon: 'fas fa-brain',
+        link: '/ai/README.md',
       }, {
         text: 'Github Copilot',
         icon: 'iconfont icon-copilot',
@@ -647,15 +647,12 @@ export const navbarEn = navbar([
       }, {
         text: 'LLM',
         icon: 'fas fa-language',
-        link: '/ai/llm/README.md',
-      }, {
-        text: 'Gemini',
-        icon: 'fas fa-wand-magic-sparkles',
-        link: '/ai/gemini/README.md',
-      },  {
-        text: 'Claude',
-        icon: 'iconfont icon-claude',
-        link: '/ai/claude/README.md',
+        children: [
+          '/ai/llm/README.md',
+          '/ai/openai/README.md',
+          '/ai/gemini/README.md',
+          '/ai/claude/README.md',
+        ]
       }, 
     ]
   }, { // hardware

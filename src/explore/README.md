@@ -218,7 +218,7 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://www.getanyplant.com/favicon-32x32.png"
   preview="https://www.getanyplant.com/opengraph-image.png"/>
 
-<!-- END:  Curated -->
+<!-- END: Curated -->
 
 @tab Cheatsheet
 
@@ -292,7 +292,7 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
-<!-- END:  Cheatsheet -->
+<!-- END: Cheatsheet -->
 
 @tab Open Source
 

@@ -18,6 +18,7 @@ head:
       content: Key path expressions as functions
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/5.2/keypath-expressions.html
+prev: /explore/articles/hackingwithswift.com/swift/5.3/spm-improvements.md
 isOriginal: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Raw strings
-description: Article(s) > Raw strings
+title: Improved implicit member syntax
+description: Article(s) > Improved implicit member syntax
 category:
   - Swift
   - Article(s)
@@ -9,16 +9,15 @@ tag:
   - blog
   - hackingwithswift.com
   - swift
-  - swift-5.0
+  - swift-5.4
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > Raw strings
+      content: Article(s) > Improved implicit member syntax
     - property: og:description
-      content: Raw strings
+      content: Improved implicit member syntax
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/5.0/raw-strings.html
-prev: /explore/articles/hackingwithswift.com/swift/5.1/creating-uninitialized-arrays.md
+      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/5.4/improved-implicit-member-syntax.html
 isOriginal: false
 ---
 
@@ -40,19 +39,19 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "Raw strings | Changes in Swift 5.0",
-  "desc": "Raw strings",
-  "link": "https://hackingwithswift.com/swift/5.0/raw-strings", 
+  "title": "Improved implicit member syntax | Changes in Swift 5.4",
+  "desc": "Improved implicit member syntax",
+  "link": "https://hackingwithswift.com/swift/5.4/improved-implicit-member-syntax", 
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
 ```
 
-> Available from Swift 5.0
+> Available from Swift 5.4
 
 <!-- TODO: 작성 -->
 
-::: details Other Changes in Swift 5.0
+::: details Other Changes in Swift 5.4
 
 :::
 

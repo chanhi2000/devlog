@@ -1,12 +1,12 @@
 ---
 lang: ko-KR
 title: References
-description: Gemini > References
+description: Google Gemini > References
 icon: iconfont icon-share
 category: 
+  - AI
   - Google
   - Gemini
-  - AI
   - References
 tag: 
   - ai
@@ -18,7 +18,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Gemini > References
+      content: Google Gemini > References
     - property: og:description
       content: References
     - property: og:url

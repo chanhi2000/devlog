@@ -196,8 +196,8 @@
     "topics": []
   }, {
     "repo": "actualbudget/actual-server",
-    "desc": "Actual's Server",
-    "officialSite": "",
+    "desc": "Actual's server",
+    "officialSite": "https://actualbudget.org",
     "topics": []
   }, {
     "repo": "actualbudget/actual",

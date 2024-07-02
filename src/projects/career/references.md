@@ -407,6 +407,7 @@ tag:
 - [`systemdesign` / How McDonald’s Food Delivery Platform Handles 20,000 Orders per Second](https://newsletter.systemdesign.one/p/mcdonalds-architecture)
 - [`engineerscodex` / Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
 - [`highgrowthengineer` / The Ultimate Guide to Becoming a Rockstar Product Engineer](https://read.highgrowthengineer.com/p/ultimate-guide-to-product-engineer)
+- [`7ctos` / The CTO’s Consulting Rate Calculator](https://7ctos.substack.com/p/the-ctos-consulting-rate-calculator)
 
 ---
 

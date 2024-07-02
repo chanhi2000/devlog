@@ -18,6 +18,7 @@ head:
       content: New and improved diagnostics
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/5.2/new-diagnostics.html
+next: /explore/articles/hackingwithswift.com/swift/5.1/improved-memberwise-initializers.md
 isOriginal: false
 ---
 

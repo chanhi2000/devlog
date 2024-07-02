@@ -1863,6 +1863,12 @@ head:
 
 ---
 
+## Gábor Nyéki
+
+- [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
+
+---
+
 ## Misc.
 
 - [Working with Excel Files in Python](https://www.python-excel.org/)

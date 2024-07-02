@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Celery
 description: Celery
-icon: iconfont icon-celery
+icon: iconfont icon-py-celery
 category:
   - Python
   - Celery

@@ -177,6 +177,7 @@ head:
 - [`delightroom` / 확장 가능하지 않은 일을 하라 (Do things that don’t scale)](https://medium.com/delightroom/do-things-that-dont-scale-6876c5682a75)
 - [`gitconnected` / The Granularity Conundrum: Finding The Right Size of a Microservice](https://levelup.gitconnected.com/the-granularity-conundrum-finding-the-right-size-of-a-microservice-c65d3c76cc3b)
 - [`google-design` / Designing Adaptive Icons](https://medium.com/google-design/designing-adaptive-icons-515af294c783)
+- [`gitconnected` / System Design Interview: Design WhatsApp](https://levelup.gitconnected.com/system-design-interview-design-whatsapp-779fa385ef08)
 
 ---
 
@@ -600,6 +601,12 @@ head:
 ## matduggan.com
 
 - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
+
+---
+
+## Casey Primozic's Homepage
+
+- [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 
 ---
 
