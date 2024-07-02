@@ -4,8 +4,6 @@ title: C# Back to Basics – Arrays
 description: Article(s) > C# Back to Basics – Arrays
 icon: iconfont icon-csharp
 category: 
-  - Node.js
-  - Angular.js
   - CSharp
   - Article(s)
 tag: 

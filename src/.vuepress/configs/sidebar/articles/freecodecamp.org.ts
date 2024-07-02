@@ -46,7 +46,9 @@ export const template: SidebarInfoTemplate = {
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024-05-28
       "learn-threejs-by-building-five-projects", // 2024-06-12
       "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
+      "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
+      "improve-your-javascript-projects-with-build-tools", // 2024-07-02
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -170,7 +172,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-git-submodules", // 2024-05-07
       "what-is-trunk-based-development", // 2024-06-18
     ]],[
-    "godot", [
+    "gd", [
       "learn-to-create-a-3d-rpg-game-with-godot", // 2024-06-20
     ]],[
     "github", [
@@ -234,6 +236,12 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "spark", [
       "pyspark-for-beginners", // 2024-06-26
+    ]],[
+    "xls", [
+      "excel-vs-google-sheets-tables", // 2024-07-02
+    ]],[
+    "google-drive", [
+      "excel-vs-google-sheets-tables", // 2024-07-02
     ]],[
     "system-design", [
       "minimum-viable-product-between-an-idea-and-the-product", // 2024-05-24
@@ -396,6 +404,8 @@ export const template: SidebarInfoTemplate = {
       "media-queries-vs-container-queries", // 2024-06-28
       "infinite-scrolling-in-react", // 2024-07-01
       "go-for-absolute-beginners", // 2024-07-01
+      "improve-your-javascript-projects-with-build-tools", // 2024-07-02
+      "excel-vs-google-sheets-tables", // 2024-07-02
     ]],
   ]),
 }

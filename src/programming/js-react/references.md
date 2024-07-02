@@ -168,7 +168,7 @@ head:
 - [`@sumankalia` Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
 - [The Best ESLint Rules for React Projects](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)
 - [`@miracool` How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
-- [`itswillt` - ⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8?ref=dailydev)
+- [`itswillt` - ⚛️ Folder Structures in React Projects](https://dev.to/itswillt/folder-structures-in-react-projects-3dp8?)
 - [`ajones_codes` / A Better Guide To Forms in React](https://dev.to/ajones_codes/a-better-guide-to-forms-in-react-47f0)
 - [`rasaf_ibrahim` / React Performance Booster - Introduction to the `uemo` hook](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i)
 - [🪄✨Building a blog with a liking feature using React, Hanko and Novu 🔥](https://dev.to/novu/building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81)
@@ -1040,6 +1040,12 @@ https://o-yeon.tistory.com/227
 ## Studio by UXPin - Free Resources from the creators of UXPin
 
 - [The Best React Design Patterns You Should Know About in 2024](https://www.uxpin.com/studio/blog/react-design-patterns/)
+
+---
+
+## functional fascinations
+
+- [Exploring biphasic programming: a new approach in language design](https://rybicki.io/blog/2024/06/30/biphasic-programming.html)
 
 ---
 

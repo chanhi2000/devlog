@@ -1584,5 +1584,10 @@
     "desc": "A scrollable-tiling Wayland compositor.",
     "officialSite": "https://matrix.to/#/#niri:matrix.org",
     "topics": ["rust", "smithay", "tiling-window-manager", "wayland", "wayland-compositor"]
+  }, {
+    "repo": "umijs/mako",
+    "desc": "An extremely fast, production-grade web bundler based on Rust.",
+    "officialSite": "https://makojs.dev",
+    "topics": []
   }
 ]

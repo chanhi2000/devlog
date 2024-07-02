@@ -61,6 +61,12 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@ilotoki0804` / KT 60만명 해킹의 심각성: 사상 최악의 사이버 범죄로부터 당신은 지금도 안전하지 않다](https://velog.io/@ilotoki0804/kt)
+
+---
+
 ## Blog - LINE ENGINEERING
 
 - [생체 정보를 활용한 안전한 로그인, passwordless LINE 프로젝트를 소개합니다](https://engineering.linecorp.com/ko/blog/secure-line-login-biometric-key) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/secure-line-login-biometric-key.md) -->

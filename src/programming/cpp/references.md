@@ -312,4 +312,16 @@ tag:
 
 ---
 
+## null program
+
+- [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
+
+---
+
+## retooling_
+
+- [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
+
+---
+
 <TagLinks />

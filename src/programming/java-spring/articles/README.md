@@ -22,6 +22,7 @@ tag:
   - dev.gmarket.com
   - engineering.linecorp.com
   - zuminternet.github.io
+  - helloworld.kurly.com
   - java
   - jdk
   - spring
@@ -148,6 +149,13 @@ head:
   "background": "rgba(30,45,56,0.2)"
 }
 ```
+
+<SiteInfo
+  name="컬리 기술 블로그"
+  desc="컬리 기술 블로그"
+  url="https://helloworld.kurly.com/"
+  logo="https://helloworld.kurly.com/assets/logo/ico_192.png"
+  preview="http://thefarmersfront.github.io/assets/logo-square.png"/>
 
 [[toc]]
 
@@ -521,6 +529,8 @@ head:
 }
 ```
 
+<!-- END: engineering.linecorp.com -->
+
 ---
 
 ## ZUM 기술 블로그
@@ -556,7 +566,27 @@ head:
   "background": "rgba(30,45,56,0.2)"
 }
 ```
-  
+
+<!-- END: zuminternet.github.io -->
+
+---
+
+## 컬리 기술 블로그
+
+> helloworld.kurly.com
+
+```component VPCard
+{
+  "title": "데이터가 있었는데요, 아니 없어요 - 컬리 기술 블로그",
+  "desc": "COMMIT, MVCC 그리고 SET AUTOCOMMIT",
+  "link": "/explore/articles/helloworld.kurly.com/commit-mvcc-set-autocommit.md",
+  "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",
+  "background": "rgba(104,14,135,0.2)"
+}
+```
+
+<!-- END: helloworld.kurly.com -->
+
 ---
 
 <TagLinks />

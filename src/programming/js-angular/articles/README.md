@@ -137,7 +137,57 @@ head:
 {
   "title": "Angular JWT Authentication with ASP.NET Core Web API",
   "desc": "Angular JWT as a frontend part of the ASP.NET Core JWT Authentication and Authorization example project implemented using the Angular framework.",
-  "link": "/explore/articles/code-maze.com/authentication-aspnetcore-jwt-2.md"
+  "link": "/explore/articles/code-maze.com/authentication-aspnetcore-jwt-2.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting Started With Angular Material",
+  "desc": "In this article, you will learn how to deal with angular material installation and how to prepare project with all the required packages.",
+  "link": "/explore/articles/code-maze.com/get-started-angular-material.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular Material Navigation Menu – Complete Responsive Navigation",
+  "desc": "In this article, we are going to learn about Angular Material Navigation, how to create it and make it fully responsive with side bar and main nav menu.",
+  "link": "/explore/articles/code-maze.com/angular-material-navigation.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular Material Table, Filtering, Sorting, Paging",
+  "desc": "In this article we are going to learn about Angular Material Table and its functionalities related to Filtering, Sorting and Paging.",
+  "link": "/explore/articles/code-maze.com/angular-material-table.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular Material – Error and Details Pages With Material Components",
+  "desc": "In this article we create different pages by using Angular Material Progress Bar, Spinner, Check Box, Card, Select and Expansion Panel Components.",
+  "link": "/explore/articles/code-maze.com/angular-material-error-details-pages.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular Material Form Validation, Input, Datepicker and Modal",
+  "desc": "In this article, you will learn how to implement Angular Material Form Validation by using input and datepicker components. We will talk about modals too.",
+  "link": "/explore/articles/code-maze.com/angular-material-form-validation.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }

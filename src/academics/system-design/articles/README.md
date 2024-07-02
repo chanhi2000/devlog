@@ -14,6 +14,7 @@ tag:
   - yozm.wishket.com
   - d2.maver.com
   - oliveyoung.tech
+  - helloworld.kurly.com
   - engineering.ab180.co
 head:
   - - meta:
@@ -70,6 +71,13 @@ head:
   "background": "rgba(173,209,81,0.2)"
 }
 ```
+
+<SiteInfo
+  name="컬리 기술 블로그"
+  desc="컬리 기술 블로그"
+  url="https://helloworld.kurly.com/"
+  logo="https://helloworld.kurly.com/assets/logo/ico_192.png"
+  preview="http://thefarmersfront.github.io/assets/logo-square.png"/>
 
 ```component VPCard
 {
@@ -399,6 +407,36 @@ head:
 }
 ```
 
+<!-- END: oliveyoung.tech -->
+
+---
+
+## 컬리 기술 블로그
+
+> helloworld.kurly.com
+
+```component VPCard
+{
+  "title": "함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 1부 - 컬리 기술 블로그",
+  "desc": "보완재 추천 모델을 적용하고 성과를 거둔 사례 소개",
+  "link": "/explore/articles/helloworld.kurly.com/cart-recommend-model-development.md",
+  "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",
+  "background": "rgba(104,14,135,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 2부 - 컬리 기술 블로그",
+  "desc": "보완재 추천 모델을 서빙하기 위한 아키텍처 소개",
+  "link": "/explore/articles/helloworld.kurly.com/cart-recommend-model-development-second.md",
+  "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",
+  "background": "rgba(104,14,135,0.2)"
+}
+```
+
+<!-- END: helloworld.kurly.com -->
+
 ---
 
 ## AB180 엔지니어링 베이스 | 기술블로그
@@ -414,6 +452,8 @@ head:
   "background": "rgba(11,110,153,0.2)"
 }
 ```
+
+<!-- END: oopy.lazyrockets.com -->
 
 ---
 

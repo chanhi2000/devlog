@@ -16,6 +16,7 @@ tag:
   - yozm.wishket.com
   - d2.naver.com
   - dev.gmarket.com
+  - helloworld.kurly.com
   - kubernetes
   - k8s
 head:
@@ -80,6 +81,13 @@ head:
   "background": "rgba(0,192,30,0.2)"
 }
 ```
+
+<SiteInfo
+  name="컬리 기술 블로그"
+  desc="컬리 기술 블로그"
+  url="https://helloworld.kurly.com/"
+  logo="https://helloworld.kurly.com/assets/logo/ico_192.png"
+  preview="http://thefarmersfront.github.io/assets/logo-square.png"/>
 
 [[toc]]
 
@@ -706,6 +714,26 @@ head:
 ```
 
 <!-- END: dev.gmarket.com -->
+
+---
+
+## 컬리 기술 블로그
+
+> helloworld.kurly.com
+
+```component VPCard
+{
+  "title": "함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 2부 - 컬리 기술 블로그",
+  "desc": "보완재 추천 모델을 서빙하기 위한 아키텍처 소개",
+  "link": "/explore/articles/helloworld.kurly.com/cart-recommend-model-development-second.md",
+  "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",
+  "background": "rgba(104,14,135,0.2)"
+}
+```
+
+<!-- END: helloworld.kurly.com -->
+
+---
 
 ---
 

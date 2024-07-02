@@ -19,5 +19,10 @@
     "desc": "Sensible defaults for Vim",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "rhysd/8cc.vim",
+    "desc": "C Compiler written in Vim script",
+    "officialSite": "",
+    "topics": ["c", "compiler", "vim", "vim-plugin"]
   }
 ]

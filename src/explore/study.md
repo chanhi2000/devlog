@@ -384,16 +384,6 @@ https://www.joinc.co.kr/w/Site
 
 ```component VPCard
 {
-  "title": "Deno: the easiest, most secure JavaScript runtime | Deno Docs",
-  "desc": "Reference documentation for the Deno runtime and Deno Deploy",
-  "link": "https://docs.deno.com/examples",
-  "logo": "https://docs.deno.com/img/favicon.ico",
-  "background": "rgba(151,252,182,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "A beginners' guide away from scanf()",
   "desc": "This document is for you if you started to learn programmming in C. Chances are you follow a course and the method to read some input you were taught is to use the scanf() function.",
   "link": "https://www.sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html",
@@ -917,7 +907,34 @@ https://www.joinc.co.kr/w/Site
 
 https://rogerdudler.github.io/git-guide/index.html
 https://rogerdudler.github.io/git-guide/index.ko.html
+https://ui-patterns.com/patterns
 
+<!-- END: Cheatsheet -->
+
+@tab Documentation
+
+<SiteInfo
+  name="WWDC Notes | Documentation"
+  desc="Session notes shared by the community for the community."
+  url="https://wwdcnotes.github.io/WWDCNotes/documentation/wwdcnotes/"
+  logo="https://wwdcnotes.github.io/WWDCNotes/favicon.ico"
+  preview="https://wwdcnotes.github.io/WWDCNotes/developer-og.jpg"/>
+
+<SiteInfo
+  name="WWDC24 | Apple Developer Documentation"
+  desc="Highlights of new technologies introduced at WWDC24."
+  url="https://developer.apple.com/documentation/Updates/wwdc2024"
+  logo="https://developer.apple.com/favicon.ico"
+  preview="https://developer.apple.com/tutorials/developer-og.jpg"/>
+
+<SiteInfo
+  name="Deno: the easiest, most secure JavaScript runtime | Deno Docs"
+  desc="Reference documentation for the Deno runtime and Deno Deploy"
+  url="https://docs.deno.com/examples"
+  logo="https://docs.deno.com/img/favicon.ico"
+  preview="https://docs.deno.com/img/social.png"/>
+
+<!-- END: Documentation -->
 :::
 
 ---

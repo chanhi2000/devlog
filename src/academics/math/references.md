@@ -533,4 +533,10 @@ head:
 
 ---
 
+## Középiskolai Matematikai és Fizikai Lapok Informatika rovattal (KöMaL)
+
+- [What makes $e$ natural?](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
+
+---
+
 <TagLinks />

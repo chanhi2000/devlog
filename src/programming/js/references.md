@@ -96,8 +96,10 @@ head:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [`yanhaijing` / Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg?ref=dailydev)
+- [`yanhaijing` / Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg)
 - [`documatic` / 5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
+- [`itric` / onClick={someFunction} VS onClick={()=>someFunction}](https://dev.to/itric/onclicksomefunction-vs-onclicksomefunction-5d1i)
+- [`gewenyu99` / Regex, the good bits.](https://dev.to/gewenyu99/regex-the-good-bits-4l2o)
 
 ---
 

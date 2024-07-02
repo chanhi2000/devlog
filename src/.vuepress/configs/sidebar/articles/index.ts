@@ -21,6 +21,7 @@ import { template as TEMPLATE_TOSS } from './toss.tech';
 import { template as TEMPLATE_BANKSALAD } from './blog.banksalad.com';
 import { template as TEMPLATE_TOAST } from './ui.toast.com';
 import { template as TEMPLATE_OLIVEYOUNG } from './oliveyoung.tech';
+import { template as TEMPLATE_KURLY } from './helloworld.kurly.com';
 import { template as TEMPLATE_KT_ACADEMY } from './kt.academy';
 import { template as TEMPLATE_DROIDCON } from './droidcon.com';
 import { template as TEMPLATE_SITEPOINT } from './sitepoint.com';
@@ -93,6 +94,7 @@ export const articleSidebars = {
   banksalad:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_BANKSALAD, type),
   toast:              (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_TOAST, type),
   oliveyoung:         (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_OLIVEYOUNG, type),
+  kurly:              (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KURLY, type),
   ktAcademy:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KT_ACADEMY, type),
   droidcon:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DROIDCON, type),
   sitepoint:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SITEPOINT, type),

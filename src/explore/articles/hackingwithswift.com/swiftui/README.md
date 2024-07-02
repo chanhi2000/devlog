@@ -1093,7 +1093,7 @@ Position views in a structured way
 
 ```component VPCard
 {
-  "title": How to scroll to exact locations inside a scrollview | SwiftUI by Example",
+  "title": "How to scroll to exact locations inside a scrollview | SwiftUI by Example",
   "desc": "How to scroll to exact locations inside a scrollview",
   "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-scroll-to-exact-locations-inside-a-scrollview.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
@@ -1103,7 +1103,7 @@ Position views in a structured way
 
 ```component VPCard
 {
-  "title": How to detect whether a scrollview is currently moving or is idle | SwiftUI by Example",
+  "title": "How to detect whether a scrollview is currently moving or is idle | SwiftUI by Example",
   "desc": "How to detect whether a scrollview is currently moving or is idle",
   "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-detect-whether-a-scrollview-is-currently-moving-or-is-idle.md",
   "logo": "https://hackingwithswift.com/favicon.svg",

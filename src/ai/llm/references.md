@@ -322,5 +322,11 @@ head:
 - [From bare metal to a 70B model: infrastructure set-up and scripts](https://imbue.com/research/70b-infrastructure/)
 
 ---
+ 
+## Jay Alammar
+
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+---
 
 <TagLinks/>

@@ -18,6 +18,7 @@ head:
       content: Transforming and unwrapping dictionary values with compactMapValues()
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/5.0/compactmapvalues.html
+next: /explore/articles/hackingwithswift.com/swift/4.2/caseiterable.md
 isOriginal: false
 ---
 

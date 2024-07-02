@@ -18,9 +18,9 @@ head:
     - property: og:title
       content: PowerPoint
     - property: og:description
-      content: Article(s)
+      content: PowerPoint
     - property: og:url
-      content: https://chanhi2000.github.io/tool/ppt/articles/
+      content: https://chanhi2000.github.io/tool/ppt/
 ---
 
 # {{ $frontmatter.description }} 관련

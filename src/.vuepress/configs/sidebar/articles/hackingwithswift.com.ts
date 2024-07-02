@@ -5,6 +5,7 @@ export const template: SidebarGroupItem = {
     collapsible: true,
     icon: 'https://hackingwithswift.com/favicon.svg',
     children: [
+      '/explore/articles/hackingwithswift.com/whats-new-in-swift-4-1.md', // 2018-06-13
       '/explore/articles/hackingwithswift.com/new-syntax-swift-2-availability-checking.md', // 2019-09-23
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
       '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2023-06-23
@@ -45,21 +46,59 @@ export const template: SidebarGroupItem = {
             text: "Changes in Swift 5.6",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.6/existential-any.md',
+              '/explore/articles/hackingwithswift.com/swift/5.6/type-placeholders.md',
+              '/explore/articles/hackingwithswift.com/swift/5.6/codingkeyrepresentable.md',
+              '/explore/articles/hackingwithswift.com/swift/5.6/unavailable.md',
+              '/explore/articles/hackingwithswift.com/swift/5.6/preconcurrency.md',
+              '/explore/articles/hackingwithswift.com/swift/5.6/swiftpm-plugins.md',
             ]
           }, {
             text: "Changes in Swift 5.5",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.5/async-await.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/async-sequences.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/effectful-read-only-properties.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/structured-concurrency.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/async-let-bindings.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/continuations.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/actors.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/global-actors.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/sendable.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/postfix-if.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/interchangeable-cgfloat-double.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/codable-enums.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/local-lazy.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/property-wrapper-function-parameters.md',
+              '/explore/articles/hackingwithswift.com/swift/5.5/static-member-generic.md',
             ]
           }, {
             text: "Changes in Swift 5.4",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.4/improved-implicit-member-syntax.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/multiple-variadic-parameters-in-functions.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/local-functions-now-support-overloading.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/local-variables-same-name.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/result-builders.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/local-property-wrappers.md',
+              '/explore/articles/hackingwithswift.com/swift/5.4/spm-executable-targets.md',
             ]
           }, {
             text: "Changes in Swift 5.3",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.3/multipattern-catch.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/multiple-trailing-closures.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/synthesized-comparable-enum.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/removing-self.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/atmain.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/where-clauses.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/enum-protocol-witnesses.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/refined-didset.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/float16.md',
+              '/explore/articles/hackingwithswift.com/swift/5.3/spm-improvements.md',
             ]
           }, {
             text: "Changes in Swift 5.2",
@@ -324,7 +363,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftdata/defining-a-data-model-with-swiftdata.md',
               '/explore/articles/hackingwithswift.com/swiftdata/querying-swiftdata-objects-in-swiftui.md',
               '/explore/articles/hackingwithswift.com/swiftdata/creating-editing-and-deleting-model-objects.md',
-              '/explore/articles/hackingwithswift.com/swiftdata/sorting-query-results.md',
+            '/explore/articles/hackingwithswift.com/swiftdata/sorting-query-results.md',
               '/explore/articles/hackingwithswift.com/swiftdata/filtering-the-results-from-a-swiftdata-query.md',
               '/explore/articles/hackingwithswift.com/swiftdata/working-with-relationships.md',
               '/explore/articles/hackingwithswift.com/swiftdata/wrap-up-our-swiftdata-project-is-complete.md',

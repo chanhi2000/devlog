@@ -59,6 +59,27 @@ export const template: SidebarInfoTemplate = {
       "csharp-access-modifiers", // 2023-02-27
       "csharp-basics-recursion", // 2020-08-27
       "csharp-basics-file-directory", // 2020-08-27
+      "csharp-properties", // 2020-08-27
+      "csharp-static-members-constants-extension-methods", // 2020-08-27
+      "csharp-anonymous-nullable-types", // 2022-05-09
+      "action-filters-aspnetcore", // 2022-10-27
+      "csharp-structures", // 2022-10-02
+      "csharp-enumerations", // 2020-08-27
+      "enabling-cors-in-asp-net-core", // 2024-03-07
+      "csharp-inheritance", // 2020-08-27
+      "csharp-interfaces", // 2024-02-15
+      "net-core-web-api-ef-core-code-first", // 2024-01-31
+      "csharp-abstract-classes", // 2020-08-27
+      "csharp-generics", // 2020-08-27
+      "get-started-angular-material", // 2021-01-20
+      "csharp-queue-stack-hashtable", // 2022-10-23
+      "csharp-generic-list-dictionary", // 2022-07-13
+      "angular-material-navigation", // 2020-08-24
+      "csharp-delegates", // 2021-11-07
+      "angular-material-table", // 2021-01-20
+      "angular-material-error-details-pages", // 2021-01-27
+      "angular-material-form-validation", // 2021-06-23
+      "asp-net-core-web-api-with-ef-core-db-first-approach", // 2024-01-31
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]],[
     "js-angular", [
@@ -72,6 +93,11 @@ export const template: SidebarInfoTemplate = {
       "net-core-web-development-part14", // 2024-01-31
       "net-core-web-development-part15", // 2022-04-20
       "authentication-aspnetcore-jwt-2", // 2024-01-31
+      "get-started-angular-material", // 2021-01-20
+      "angular-material-navigation", // 2020-08-24
+      "angular-material-table", // 2021-01-20
+      "angular-material-error-details-pages", // 2021-01-27
+      "angular-material-form-validation", // 2021-06-23
     ]],[
     "docker", [
       "why-docker-docker-cli-examples", // 2020-09-02
@@ -152,6 +178,27 @@ export const template: SidebarInfoTemplate = {
       "csharp-access-modifiers", // 2023-02-27
       "csharp-basics-recursion", // 2020-08-27
       "csharp-basics-file-directory", // 2020-08-27
+      "csharp-properties", // 2020-08-27
+      "csharp-static-members-constants-extension-methods", // 2020-08-27
+      "csharp-anonymous-nullable-types", // 2022-05-09
+      "action-filters-aspnetcore", // 2022-10-27
+      "csharp-structures", // 2022-10-02
+      "csharp-enumerations", // 2020-08-27
+      "enabling-cors-in-asp-net-core", // 2024-03-07
+      "csharp-inheritance", // 2020-08-27
+      "csharp-interfaces", // 2024-02-15
+      "net-core-web-api-ef-core-code-first", // 2024-01-31
+      "csharp-abstract-classes", // 2020-08-27
+      "csharp-generics", // 2020-08-27
+      "get-started-angular-material", // 2021-01-20
+      "csharp-queue-stack-hashtable", // 2022-10-23
+      "csharp-generic-list-dictionary", // 2022-07-13
+      "angular-material-navigation", // 2020-08-24
+      "csharp-delegates", // 2021-11-07
+      "angular-material-table", // 2021-01-20
+      "angular-material-error-details-pages", // 2021-01-27
+      "angular-material-form-validation", // 2021-06-23
+      "asp-net-core-web-api-with-ef-core-db-first-approach", // 2024-01-31
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])

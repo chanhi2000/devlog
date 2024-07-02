@@ -18,6 +18,7 @@ head:
       content: Raw strings
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/5.0/raw-strings.html
+prev: /explore/articles/hackingwithswift.com/swift/5.1/creating-uninitialized-arrays.md
 isOriginal: false
 ---
 

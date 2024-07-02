@@ -443,7 +443,7 @@ head:
 {
   "title": "JWT Authentication in ASP.NET Core Web API",
   "desc": "In this article, we are going to learn how to provide a JWT authentication to secure our ASP.NET Core Web API app.",
-  "link": "/explore/articles/code-maze.com/authentication-aspnetcore-jwt-1.md"
+  "link": "/explore/articles/code-maze.com/authentication-aspnetcore-jwt-1.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -453,7 +453,7 @@ head:
 {
   "title": "Global Error Handling in ASP.NET Core Web API",
   "desc": "Find out how to replace try-catch blocks in your code with the Global Error Handling by using the custom or built-in middleware in ASP.NET Core.",
-  "link": "/explore/articles/code-maze.com/global-error-handling-aspnetcore.md"
+  "link": "/explore/articles/code-maze.com/global-error-handling-aspnetcore.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -463,7 +463,7 @@ head:
 {
   "title": "Conditions in C# with If-Else, and Switch-Case Statements",
   "desc": "Learn about Conditions in C#, differences between if, if-else, if-else if, and switch-case conditional statements, and how to use them.",
-  "link": "/explore/articles/code-maze.com/csharp-conditions-if-else-swtich-case.md"
+  "link": "/explore/articles/code-maze.com/csharp-conditions-if-else-swtich-case.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -473,7 +473,7 @@ head:
 {
   "title": "C# Methods",
   "desc": "Let's learn about Methods in C#, how to create a valid method signature, how to work with parameters and arguments and optional params.",
-  "link": "/explore/articles/code-maze.com/csharp-methods.md"
+  "link": "/explore/articles/code-maze.com/csharp-methods.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -483,7 +483,7 @@ head:
 {
   "title": "C# Back to Basics – Arrays",
   "desc": "Learn about Arrays in C#. How to declare them, initialize them and manipulate them. Also, learn how to use multi-dimensional arrays.",
-  "link": "/explore/articles/code-maze.com/csharp-basics-arrays.md"
+  "link": "/explore/articles/code-maze.com/csharp-basics-arrays.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -493,7 +493,7 @@ head:
 {
   "title": "Angular JWT Authentication with ASP.NET Core Web API",
   "desc": "Angular JWT as a frontend part of the ASP.NET Core JWT Authentication and Authorization example project implemented using the Angular framework.",
-  "link": "/explore/articles/code-maze.com/authentication-aspnetcore-jwt-2.md"
+  "link": "/explore/articles/code-maze.com/authentication-aspnetcore-jwt-2.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -503,7 +503,7 @@ head:
 {
   "title": "C# Basics – Development Environment Setup",
   "desc": "Find out the basics about Visual Studio 2017 environment. How we can use it in our complete tutorial and how it can help us with our examples.",
-  "link": "/explore/articles/code-maze.com/csharp-basics-ide-introduction.md"
+  "link": "/explore/articles/code-maze.com/csharp-basics-ide-introduction.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -513,7 +513,7 @@ head:
 {
   "title": "Operators in C#",
   "desc": "In this article, we are going to learn more about Operators in C# - Arithmetic, Relational and Logical operators, and their differences",
-  "link": "/explore/articles/code-maze.com/csharp-operators.md"
+  "link": "/explore/articles/code-maze.com/csharp-operators.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -523,7 +523,7 @@ head:
 {
   "title": "Linear Structures in C# with Inputs and Printing Output Results",
   "desc": "Find out more about Input and Output in C#, how to work with it by accepting inputs from a user, processing them, and print the output.",
-  "link": "/explore/articles/code-maze.com/csharp-linear-structures-input-output.md"
+  "link": "/explore/articles/code-maze.com/csharp-linear-structures-input-output.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -533,7 +533,7 @@ head:
 {
   "title": "While, For, Do-While Loops in C#",
   "desc": "Learn more about Loops in C#. How to use them and when to use them and what are the differences. Learn all of that through the examples.",
-  "link": "/explore/articles/code-maze.com/csharp-loops.md"
+  "link": "/explore/articles/code-maze.com/csharp-loops.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -543,7 +543,7 @@ head:
 {
   "title": "Difference Between Ref and Out keywords in C#",
   "desc": "Learn more about Ref and Out Keywords in C#. What are the differences between them and how we can use them in our projects.",
-  "link": "/explore/articles/code-maze.com/cshrap-ref-out-keywords.md"
+  "link": "/explore/articles/code-maze.com/cshrap-ref-out-keywords.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -553,7 +553,7 @@ head:
 {
   "title": "C# Back to Basics – Files, StreamWriter and StreamReader",
   "desc": "Find out how to work with files by using StreamWriter and StreamReader classes. Furthermore, learn about initialization and their methods as well.",
-  "link": "/explore/articles/code-maze.com/csharp-basics-streamwriter-streamreader.md"
+  "link": "/explore/articles/code-maze.com/csharp-basics-streamwriter-streamreader.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -563,7 +563,7 @@ head:
 {
   "title": "Unit Testing in ASP.NET Core Web API",
   "desc": "Find out what Unit testing is and how to write unit tests in ASP.NET Core Web API Project to test Controllers and Repo logic.",
-  "link": "/explore/articles/code-maze.com/unit-testing-aspnetcore-web-api.md"
+  "link": "/explore/articles/code-maze.com/unit-testing-aspnetcore-web-api.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -573,7 +573,7 @@ head:
 {
   "title": "Data Types, Declarations and Variable Definitions in C#",
   "desc": "Find out more about C# Data Types, what kind of data types exists in C#, how to use declarations and how to use variables as well.",
-  "link": "/explore/articles/code-maze.com/csharp-data-types-variables.md"
+  "link": "/explore/articles/code-maze.com/csharp-data-types-variables.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -583,7 +583,7 @@ head:
 {
   "title": "Type Conversion in C#",
   "desc": "Learn about C# Type Conversions, how to use implicite and explicite conversion. Practice through examples in this article.",
-  "link": "/explore/articles/code-maze.com/csharp-type-conversion.md"
+  "link": "/explore/articles/code-maze.com/csharp-type-conversion.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -593,7 +593,7 @@ head:
 {
   "title": "Working With Strings in C# – String Methods",
   "desc": "FInd out how to work with strings in C# project, what type of String Methods in C# exists, and how to use them through examples.",
-  "link": "/explore/articles/code-maze.com/csharp-string-methods.md"
+  "link": "/explore/articles/code-maze.com/csharp-string-methods.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -603,7 +603,7 @@ head:
 {
   "title": "C# Access Modifiers",
   "desc": "Learn about Access Modifiers in C#, how to use them, what are the differences between them and what are constraints of each of them.",
-  "link": "/explore/articles/code-maze.com/csharp-access-modifiers.md"
+  "link": "/explore/articles/code-maze.com/csharp-access-modifiers.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -613,7 +613,7 @@ head:
 {
   "title": "C# Back to Basics – Recursion and Recursive Methods",
   "desc": "Learn how to use Recursion and Recursive Methods in C#. And, what is the difference between regular methods and recursive ones.",
-  "link": "/explore/articles/code-maze.com/csharp-basics-recursion.md"
+  "link": "/explore/articles/code-maze.com/csharp-basics-recursion.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -623,7 +623,217 @@ head:
 {
   "title": "C# Back to Basics – File and Directory Classes",
   "desc": "Find out how to work with files by using File and Directory classes. Furthermore, learn about their methods and how to use them as well.",
-  "link": "/explore/articles/code-maze.com/csharp-basics-file-directory.md"
+  "link": "/explore/articles/code-maze.com/csharp-basics-file-directory.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Properties",
+  "desc": "Find out how to work with files by using File and Directory classes. Furthermore, learn about their methods and how to use them as well.",
+  "link": "/explore/articles/code-maze.com/csharp-properties.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Static Members, Constants and Extension Methods",
+  "desc": "In this article, you are going to learn about Static Memebers in C# (Classes and Methods). Furthermore, we will explain how to create extension methods.",
+  "link": "/explore/articles/code-maze.com/csharp-static-members-constants-extension-methods.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Anonymous and Nullable Types",
+  "desc": "In this article, you will learn about Anonymous and Nullable types in C#. We are going to show how to use anonymous classes and nullable type properteis.",
+  "link": "/explore/articles/code-maze.com/csharp-anonymous-nullable-types.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Implementing Action Filters in ASP.NET Core",
+  "desc": "Find out how to use action filters to write cleaner actions and create a reusable code to validate your actions in .NET Core Web API.",
+  "link": "/explore/articles/code-maze.com/action-filters-aspnetcore.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Structures",
+  "desc": "We are going to learn about Structures in C#, how to use them, what are the constraints, and when to use structs instead of a classes.",
+  "link": "/explore/articles/code-maze.com/csharp-structures.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Enumerations",
+  "desc": "In this article you are going to learn about Enumerations in C#, what they are, how to use them in C# and how to use their assigned values.",
+  "link": "/explore/articles/code-maze.com/csharp-enumerations.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Enabling CORS in ASP.NET Core",
+  "desc": "Let's learn about enabling CORS in ASP.NET Core, what is the Same Origin Policy and how CORS works with different policies.",
+  "link": "/explore/articles/code-maze.com/enabling-cors-in-asp-net-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Inheritance",
+  "desc": "You will learn about C# Inheritance, how to use base keyword, more about polimorphism with the new, virtual and override keywords and what rules to follow.",
+  "link": "/explore/articles/code-maze.com/csharp-inheritance.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Interfaces",
+  "desc": "In this article you are going to learn about Interfaces in C#, how to define them, implement them, work with multiple interfaces and more...",
+  "link": "/explore/articles/code-maze.com/csharp-interfaces.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Web API with EF Core Code-First Approach",
+  "desc": "Describes how to create a .NET Core Web API application with EF Core Code-First approach. We create the models first and then generate DB using migrations.",
+  "link": "/explore/articles/code-maze.com/net-core-web-api-ef-core-code-first.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Abstract Classes",
+  "desc": "In this article you are going to laearn about Abstract Classes in C#, how to create them and what is Seald class as well.",
+  "link": "/explore/articles/code-maze.com/csharp-abstract-classes.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Generics",
+  "desc": "In this article you will learn more about Generics in C#. We will talk about Generic Types, whata are the constraints and generic methods.",
+  "link": "/explore/articles/code-maze.com/csharp-generics.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting Started With Angular Material",
+  "desc": "In this article, you will learn how to deal with angular material installation and how to prepare project with all the required packages.",
+  "link": "/explore/articles/code-maze.com/get-started-angular-material.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Queue, Stack, and Hashtable",
+  "desc": "Let's learn about Queue, Stack, And Hashtable Collections in C#. We'll also show the usage of different methods they provide.",
+  "link": "/explore/articles/code-maze.com/csharp-queue-stack-hashtable.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Generic List and Dictionary",
+  "desc": "In this article, you will learn about Generic List and Dictionary in C#. You will learn how lists work, how we can use tham and how to use key value pairs.",
+  "link": "/explore/articles/code-maze.com/csharp-generic-list-dictionary.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular Material Navigation Menu – Complete Responsive Navigation",
+  "desc": "In this article, we are going to learn about Angular Material Navigation, how to create it and make it fully responsive with side bar and main nav menu.",
+  "link": "/explore/articles/code-maze.com/angular-material-navigation.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Intermediate – Delegates",
+  "desc": "In this article, you will learn about Delegates in C#. Differences between Action and Func delegates and how to write better code with delegates.",
+  "link": "/explore/articles/code-maze.com/csharp-delegates.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular Material Table, Filtering, Sorting, Paging",
+  "desc": "In this article we are going to learn about Angular Material Table and its functionalities related to Filtering, Sorting and Paging.",
+  "link": "/explore/articles/code-maze.com/angular-material-table.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular Material – Error and Details Pages With Material Components",
+  "desc": "In this article we create different pages by using Angular Material Progress Bar, Spinner, Check Box, Card, Select and Expansion Panel Components.",
+  "link": "/explore/articles/code-maze.com/angular-material-error-details-pages.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular Material Form Validation, Input, Datepicker and Modal",
+  "desc": "In this article, you will learn how to implement Angular Material Form Validation by using input and datepicker components. We will talk about modals too.",
+  "link": "/explore/articles/code-maze.com/angular-material-form-validation.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Web API with EF Core DB-First Approach",
+  "desc": "In this article, we’ll take a look at the EF Core Database-First approach. In this approach, we create our database first and then model our entities.",
+  "link": "/explore/articles/code-maze.com/asp-net-core-web-api-with-ef-core-db-first-approach.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }

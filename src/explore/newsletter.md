@@ -151,6 +151,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "클리앙 : 팁과강좌",
+  "desc": "팁과강좌, 사용기 게시판의 게시물 모음입니다.",
+  "link": "https://www.clien.net/service/board/lecture",
+  "logo": "https://www.clien.net/service/image/favicon.ico",
+  "background": "rgba(37,47,61,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "강좌/팁 1 페이지 | 다모앙 |  DAMOANG",
   "desc": "다모앙은 각 개인의 아이디어가 모여 강력한 집단지성을 형성하고, 공정하고 투명한 협업으로 우리 모두의 꿈을 현실로 만드는 소통의 광장입니다.",
   "link": "https://damoang.net/lecture",
@@ -258,12 +268,31 @@ tag:
 }
 ```
 
-<SiteInfo
-  name="AI News - TILNOTE"
-  desc="GPT-4가 큐레이션한 AI에 대한 뉴스입니다. 구독하시면 매일 아침 8시 뉴스를 받아보실 수 있습니다."
-  url="https://tilnote.io/news"
+<VPBanner
+  title="TILNOTE - AI 노트 & 블로그"
+  content="틸노트는 클라우드 노트+ 블로그 서비스입니다."
   logo="https://tilnote.io/favicon.ico"
-  preview="https://tilnote.io/images/tilnote-square.png"/>
+  :actions='[
+    {
+      text: "TILNOTE GIST - 유튜브 요약 & 웹 페이지 요약",
+      link: "https://tilnote.io/gist"
+    }, {
+      text: "AI News - TILNOTE",
+      link: "https://tilnote.io/news",
+      type: "default"
+    }
+  ]'
+/>
+
+```component VPCard
+{
+  "title": "Search HackerNews",
+  "desc": "Use Vectara for conversational search",
+  "link": "https://hackernews.demo.vectara.com/",
+  "logo": "https://hackernews.demo.vectara.com/vectara-favicon.png",
+  "background": "rgba(243,247,251,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -361,20 +390,6 @@ tag:
   "background": "rgba(59,102,206,0.2)"
 }
 ```
-
-<SiteInfo
-  name="WWDC Notes | Documentation"
-  desc="Session notes shared by the community for the community."
-  url="https://wwdcnotes.github.io/WWDCNotes/documentation/wwdcnotes/"
-  logo="https://wwdcnotes.github.io/WWDCNotes/favicon.ico"
-  preview="https://wwdcnotes.github.io/WWDCNotes/developer-og.jpg"/>
-
-<SiteInfo
-  name="WWDC24 | Apple Developer Documentation"
-  desc="Highlights of new technologies introduced at WWDC24."
-  url="https://developer.apple.com/documentation/Updates/wwdc2024"
-  logo="https://developer.apple.com/favicon.ico"
-  preview="https://developer.apple.com/tutorials/developer-og.jpg"/>
 
 <SiteInfo
   name="Blog | Compositional IT"
@@ -1551,16 +1566,6 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   "link": "https://maily.so/pepper.note", 
   "logo": "https://cdn.maily.so/202402/1706759828643750.png", 
   "background": "rgba(48,94,66,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "크리포트",
-  "desc": "크리포트 - 주식 종목 증권 리포트",
-  "link": "https://www.kreportanalytics.com",
-  "logo": "https://www.kreportanalytics.com/static/favicon.png",
-  "background": "rgba(80,198,158,0.2)"
 }
 ```
 

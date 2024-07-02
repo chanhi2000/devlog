@@ -2625,8 +2625,8 @@
     "topics": []
   }, {
     "repo": "pretzelai/pretzelai",
-    "desc": "Open-source, browser-local data exploration using DuckDB-Wasm and PRQL",
-    "officialSite": "https://pretzelai.github.io",
+    "desc": "The modern replacement for Jupyter Notebooks",
+    "officialSite": "https://withpretzel.com",
     "topics": ["analytics", "artificial-intelligence", "business-intelligence", "businessintelligence", "dashboard", "data", "data-analysis", "data-analytics", "data-science", "data-visualization", "duckdb", "notebooks", "open-source", "prql", "reporting", "sql", "sql-editor", "sql-editor-online", "visualization", "wasm"]
   }, {
     "repo": "sveltecult/franken-ui",
@@ -3113,5 +3113,10 @@
     "desc": "A module used to change the information of user action entered by various input devices such as touch screen or mouse into the logical virtual coordinates.",
     "officialSite": "https://naver.github.io/egjs-axes/",
     "topics": ["axis", "cartesian", "coordinate", "egjs", "javascript", "typescript", "virtual-scroll"]
+  }, {
+    "repo": "clidey/whodb",
+    "desc": "A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, & Redis",
+    "officialSite": "https://clidey.com",
+    "topics": ["database", "explorer", "lightweight", "mongodb", "mysql", "postgresql", "redis", "sqlite3"]
   }
 ]

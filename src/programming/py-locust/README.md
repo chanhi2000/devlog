@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Locust
 description: Locust
-icon: iconfont icon-locust
+icon: iconfont icon-py-locust
 category:
   - Python
   - Locust

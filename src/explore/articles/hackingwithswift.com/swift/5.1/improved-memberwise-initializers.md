@@ -18,6 +18,7 @@ head:
       content: Improvements to synthesized memberwise initializers
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/5.1/improved-memberwise-initializers.html
+prev: /explore/articles/hackingwithswift.com/swift/5.2/new-diagnostics.md
 isOriginal: false
 ---
 

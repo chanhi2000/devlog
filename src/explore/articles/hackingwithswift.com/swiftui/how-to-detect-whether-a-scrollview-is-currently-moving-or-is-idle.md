@@ -117,7 +117,7 @@ Having access to both the old and new values allows you to add subtle interactio
 
 ```component VPCard
 {
-  "title": How to scroll to exact locations inside a scrollview | SwiftUI by Example",
+  "title": "How to scroll to exact locations inside a scrollview | SwiftUI by Example",
   "desc": "How to scroll to exact locations inside a scrollview",
   "link": "/explore/articles/hackingwithswift.com/swiftui/how-to-scroll-to-exact-locations-inside-a-scrollview.md",
   "logo": "https://hackingwithswift.com/favicon.svg",

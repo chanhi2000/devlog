@@ -15,9 +15,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: When fully enabled, Swift 6 is likely to require changes in pretty much every project.
-    - property: og:description
       content: What's new in Swift 6.0?
+    - property: og:description
+      content: When fully enabled, Swift 6 is likely to require changes in pretty much every project.
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/whats-new-in-swift-6.html
 prev: /programming/swift/articles/README.md

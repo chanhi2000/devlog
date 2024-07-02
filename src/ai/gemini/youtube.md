@@ -1,12 +1,12 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Gemini > Youtube
+description: Google Gemini > Youtube
 icon: fa-brands fa-youtube
 category: 
+  - AI
   - Google
   - Gemini
-  - AI
   - Youtube
 tag: 
   - ai
@@ -20,7 +20,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Gemini > Article(s)
+      content: Google Gemini > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url

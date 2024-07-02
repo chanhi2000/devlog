@@ -1468,5 +1468,10 @@
     "desc": "Frame profiler",
     "officialSite": "https://tracy.nereid.pl/",
     "topics": ["gamedev", "gamedev-library", "gamedevelopment", "library", "performance", "performance-analysis", "profiler", "profiling", "profiling-library"]
+  }, {
+    "repo": "vslavik/diff-pdf",
+    "desc": "A simple tool for visually comparing two PDF files",
+    "officialSite": "http://vslavik.github.io/diff-pdf",
+    "topics": ["pdf"]
   }
 ]
