@@ -9,6 +9,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - macos
   - mac
 head:
@@ -29,6 +30,16 @@ head:
   url="https://freecodecamp.org/news/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 [[toc]]
 
@@ -67,6 +78,26 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+
+<!-- END: freecodecamp.org -->
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64) | 요즘IT",
+  "desc": "새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64)",
+  "link": "/explore/articles/yozm.wishket.com/2658.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

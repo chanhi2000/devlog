@@ -81,6 +81,26 @@ export const template: SidebarInfoTemplate = {
       "angular-material-form-validation", // 2021-06-23
       "asp-net-core-web-api-with-ef-core-db-first-approach", // 2024-01-31
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
+      "netcore-signalr-angular-realtime-charts", // 2022-05-05
+      "consuming-github-api-rest-with-flurl", // 2024-02-05
+      "upload-files-dot-net-core-angular", // 2024-01-31
+      "single-responsibility-principle", // 2022-01-13
+      "open-closed-principle", // 2022-01-13
+      "liskov-substitution-principle", // 2022-01-13
+      "dalsoft-restclient-consume-any-rest-api", // 2022-10-11
+      "interface-segregation-principle", // 2022-01-13
+      "dependency-inversion-principle", // 2022-01-13
+      "dynamic-type-csharp", // 2022-08-03
+      "builder-design-pattern", // 2022-01-13
+      "fluent-builder-recursive-generics", // 2022-01-13
+      "faceted-builder", // 2022-01-13
+      "factory-method", // 2022-01-13
+      "singleton", // 2022-01-13
+      "adapter", // 2022-01-13
+      "composite", // 2022-01-13
+      "decorator-design-pattern", // 2022-01-13
+      "command", // 2022-01-13
+      "strategy", // 2022-01-13
     ]],[
     "js-angular", [
       "net-core-web-development-part7", // 2022-04-20
@@ -98,6 +118,8 @@ export const template: SidebarInfoTemplate = {
       "angular-material-table", // 2021-01-20
       "angular-material-error-details-pages", // 2021-01-27
       "angular-material-form-validation", // 2021-06-23
+      "netcore-signalr-angular-realtime-charts", // 2022-05-05
+      "upload-files-dot-net-core-angular", // 2024-01-31
     ]],[
     "docker", [
       "why-docker-docker-cli-examples", // 2020-09-02
@@ -118,6 +140,9 @@ export const template: SidebarInfoTemplate = {
     "mysql", [
       "net-core-web-development-part17", // 2024-02-05
       "mysql-aspnetcore-docker-compose", // 2020-09-02
+    ]],[
+    "visualstudio", [
+      "visual-studio-productivity", // 2022-02-20
     ]],[
     "all", [
       "top-8-continuous-integration-tools", // 2023-06-15
@@ -200,6 +225,27 @@ export const template: SidebarInfoTemplate = {
       "angular-material-form-validation", // 2021-06-23
       "asp-net-core-web-api-with-ef-core-db-first-approach", // 2024-01-31
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
+      "netcore-signalr-angular-realtime-charts", // 2022-05-05
+      "consuming-github-api-rest-with-flurl", // 2024-02-05
+      "upload-files-dot-net-core-angular", // 2024-01-31
+      "single-responsibility-principle", // 2022-01-13
+      "open-closed-principle", // 2022-01-13
+      "liskov-substitution-principle", // 2022-01-13
+      "dalsoft-restclient-consume-any-rest-api", // 2022-10-11
+      "interface-segregation-principle", // 2022-01-13
+      "dependency-inversion-principle", // 2022-01-13
+      "dynamic-type-csharp", // 2022-08-03
+      "builder-design-pattern", // 2022-01-13
+      "fluent-builder-recursive-generics", // 2022-01-13
+      "faceted-builder", // 2022-01-13
+      "factory-method", // 2022-01-13
+      "singleton", // 2022-01-13
+      "adapter", // 2022-01-13
+      "composite", // 2022-01-13
+      "visual-studio-productivity", // 2022-02-20
+      "decorator-design-pattern", // 2022-01-13
+      "command", // 2022-01-13
+      "strategy", // 2022-01-13
     ]]
   ])
 }

@@ -23,7 +23,7 @@ head:
 prev: /programming/swift/articles/README.md
 date: 2024-06-21
 isOriginal: false
-cover: https://www.hackingwithswift.com/uploads/swiftui.jpg
+cover: https://hackingwithswift.com/uploads/swiftui.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -47,7 +47,7 @@ cover: https://www.hackingwithswift.com/uploads/swiftui.jpg
   desc="We got new API for colors and gradients, more scrollview improvements, tab improvements, and more."
   url="https://hackingwithswift.com/articles/270/whats-new-in-swiftui-for-ios-18"
   logo="https://hackingwithswift.com/favicon.svg"
-  preview="https://www.hackingwithswift.com/uploads/swiftui.jpg"/>
+  preview="https://hackingwithswift.com/uploads/swiftui.jpg"/>
 
 ---
 

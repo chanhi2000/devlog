@@ -27,6 +27,12 @@ tag:
 
 ---
 
+## CVE Website
+
+- [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387)
+
+---
+
 ## KISA 한국인터넷진흥원
 
 - [소프트웨어_개발보안_가이드(2021.12.29).pdf](https://www.kisa.or.kr/skin/doc.html?fn=20220104_2030303_5.pdf&rs=/result/2022-01/)

@@ -8,6 +8,8 @@ category:
   - Visual Studio
   - Article(s)
 tag:
+  - blog
+  - code-maze.com
   - ide
   - csharp
   - microsoft
@@ -27,7 +29,32 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+<SiteInfo
+  name="Code Maze - C#, .NET and Web Development Tutorials"
+  desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
+  url="https://code-maze.com/latest-posts-on-code-maze/"
+  logo="/images/content/code-maze.com/favicon.png"
+  preview="/images/content/code-maze.com/banner.png"/>
+
 [[toc]]
+
+---
+
+## Code Maze - C#, .NET and Web Development Tutorials
+
+> code-maze.com
+
+```component VPCard
+{
+  "title": "Basic Tips and Tricks to Boost Productivity in Visual Studio",
+  "desc": "In this article we are going to learn about Visual Studio productivity features which can speed up our development a lot.",
+  "link": "/explore/articles/code-maze.com/visual-studio-productivity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+<!-- END: code-maze.com -->
 
 ---
 

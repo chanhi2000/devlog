@@ -4,14 +4,17 @@ title: Article(s)
 description: Podman > Article(s)
 icon: fas fa-square-share-nodes
 category:
+  - DevOps
   - Podman
-  - Container
+  - VM
   - Article(s)
 tag:
   - blog
+  - blog.logrocket.com
   - towardsdatascience.com
+  - devops
   - podman
-  - container
+  - vm
 head:
   - - meta:
     - property: og:title
@@ -24,6 +27,13 @@ head:
 
 # {{ $frontmatter.description }} 관련
 
+<SiteInfo
+  name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
+  desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
+  url="https://blog.logrocket.com/dev"
+  logo="/images/content/blog.logrocket.com/favicon.png"
+  preview="/images/content/blog.logrocket.com/banner.png"/>
+
 ```component VPCard
 {
   "title": "Towards Data Science",
@@ -35,6 +45,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
+
+> blog.logrocket.com
+
+```component VPCard
+{
+  "title": "Top Docker and Docker Desktop alternatives",
+  "desc": "Explore the top alternatives to Docker and Docker Desktop for building, running, and distributing container images, like Podman and Lima.",
+  "link": "/explore/articles/blog.logrocket.com/docker-desktop-alternatives.md",
+  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "background": "rgba(118,74,188,0.2)"
+}
+```
+
+<!-- END: blog.logrocket.com -->
 
 ---
 

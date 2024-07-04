@@ -10,6 +10,14 @@ tag:
   - nas
   - youtube
   - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: NAS > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/hw/nas/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

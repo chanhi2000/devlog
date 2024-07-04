@@ -179,6 +179,7 @@
   { "logo": "travisci", "name": "Travis%20CI", "colorHex": "3EAAAF" },
   { "logo": "typescript", "name": "Typescript", "colorHex": "3178C6" },
   { "logo": "ubuntu", "name": "Ubuntu", "colorHex": "E95420" },
+  { "logo": "vagrant", "name": "Vagrant", "colorHex": "1868F2" },
   { "logo": "vim", "name": "Vim", "colorHex": "019733" },
   { "logo": "vite", "name": "Vite", "colorHex": "646CFF" },
   { "logo": "visualstudio", "name": "Visual%20Studio", "colorHex": "5C2D91" },

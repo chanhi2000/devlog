@@ -4,11 +4,22 @@ title: References
 description: Podman > References
 icon: iconfont icon-share
 category:
+  - DevOps
   - Podman
+  - VM
   - References
 tag: 
+  - devops
   - podman
-  - docker
+  - vm
+head:
+  - - meta:
+    - property: og:title
+      content: Podman > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/podman/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -44,6 +55,20 @@ tag:
 ## Ersei 'n Stuff
 
 - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
+
+---
+
+## LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
+
+```component VPCard
+{
+  "title": "Top Docker and Docker Desktop alternatives",
+  "desc": "Explore the top alternatives to Docker and Docker Desktop for building, running, and distributing container images, like Podman and Lima.",
+  "link": "/explore/articles/blog.logrocket.com/docker-desktop-alternatives.md",
+  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "background": "rgba(118,74,188,0.2)"
+}
+```
 
 ---
 

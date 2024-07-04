@@ -10,6 +10,7 @@ tag:
   - blog
   - freecodecamp.org
   - learnk8s.io
+  - blog.logrocket.com
   - yozm.wishket.com
   - tech.kakao.com
   - popit.kr
@@ -35,6 +36,20 @@ head:
   url="https://freecodecamp.org/news/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+<SiteInfo
+  name="Learnk8s — the Kubernetes training company"
+  desc="We help you get started on your Kubernetes journey through comprehensive online, in person or remote training."
+  url="https://learnk8s.io/archive"
+  logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
+  preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
+
+<SiteInfo
+  name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
+  desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
+  url="https://blog.logrocket.com/dev"
+  logo="/images/content/blog.logrocket.com/favicon.png"
+  preview="/images/content/blog.logrocket.com/banner.png"/>
 
 ```component VPCard
 {
@@ -170,6 +185,24 @@ head:
 ```
 
 <!-- END: learnk8s.io -->
+
+---
+
+## LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
+
+> blog.logrocket.com
+
+```component VPCard
+{
+  "title": "Building a full-stack app with Bud and Go",
+  "desc": "Build a full-stack app using Bud, the new Go framework, with its built-in functionality for frontend development using Svelte.",
+  "link": "/explore/articles/blog.logrocket.com/full-stack-bud-go.md",
+  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "background": "rgba(118,74,188,0.2)"
+}
+```
+
+<!-- END: blog.logrocket.com -->
 
 ---
 

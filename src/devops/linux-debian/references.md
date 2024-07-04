@@ -312,4 +312,10 @@ tag:
 
 ---
 
+## Samuel Henrique (samueloph)
+
+- [Announcing `wcurl`: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)
+
+---
+
 <TagLinks />

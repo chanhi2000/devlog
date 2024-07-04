@@ -4,11 +4,22 @@ title: References
 description: Vagrant > References
 icon: iconfont icon-share
 category: 
-  - VM
+  - DevOps
   - Vagrant
+  - VM
   - References
 tags:
+  - devops
   - vagrant
+  - vm
+head:
+  - - meta:
+    - property: og:title
+      content: Vagrant > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/vagrant/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

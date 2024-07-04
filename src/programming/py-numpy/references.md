@@ -85,4 +85,10 @@ head:
 
 ---
 
+## salykova blog
+
+- [Beating NumPy's matrix multiplication in 150 lines of C code](https://salykova.github.io/matmul-cpu)
+
+---
+
 <TagLinks />

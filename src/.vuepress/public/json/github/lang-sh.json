@@ -434,5 +434,10 @@
     "desc": "CLI for spins up a K8s cluster locally in 10 seconds.",
     "officialSite": "",
     "topics": ["k3s", "k8s", "kubernetes", "kubernetes-cluster", "testing"]
+  }, {
+    "repo": "h4l/json.bash",
+    "desc": "Command-line tool and bash library that creates JSON",
+    "officialSite": "",
+    "topics": ["bash", "command-line", "json", "shell", "shell-script", "terminal", "unix"]
   }
 ]

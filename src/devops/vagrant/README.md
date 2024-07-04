@@ -4,13 +4,18 @@ title: Vagrant
 description: Vagrant
 icon: iconfont icon-vagrant
 category:
+  - DevOps
+  - Vagrant
   - VM
-  - Vagrant
 tags:
-  - Vagrant
+  - devops
+  - vagrant
+  - vm
 ---
 
 # {{ $frontmatter.description }} 관련
+
+<ShieldsGroup logos="hashicorp,"/>
 
 ---
 

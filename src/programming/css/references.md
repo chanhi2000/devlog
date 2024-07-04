@@ -219,10 +219,27 @@ tag:
 
 ---
 
-## LogRocket
+## LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
 
-- [Creating a typewriter animation effect with only CSS](https://blog.logrocket.com/creating-typewriter-animation-css)
-- [Understanding the CSS revert-layer keyword](https://blog.logrocket.com/understanding-css-revert-layer/)
+```component VPCard
+{
+  "title": "Understanding the CSS revert-layer keyword",
+  "desc": "A typewriter CSS animation is easier to achieve than you may think. Let's explore how and why to create a typewriter animation with only CSS.",
+  "link": "/explore/articles/blog.logrocket.com/creating-typewriter-animation-css.md",
+  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "background": "rgba(118,74,188,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Understanding the CSS revert-layer keyword",
+  "desc": "In this article, we’ll explore CSS cascade layers — and, specifically, the revert-layer keyword — to help you refine your styling strategy.",
+  "link": "/explore/articles/blog.logrocket.com/understanding-css-revert.md",
+  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "background": "rgba(118,74,188,0.2)"
+}
+```
 
 ---
 

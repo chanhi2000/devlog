@@ -211,16 +211,6 @@ head:
 
 ```component VPCard
 {
-  "title": "How do you rollback deployments in Kubernetes?",
-  "desc": "A Kubernetes Ingress routes the external traffic to your services and Pods inside the cluster. You could have an Ingress that is also an API gateway.",
-  "link": "/explore/articles/learnk8s.io/kubernetes-rollbacks.md",
-  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
-  "background": "rgba(86,154,209,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "Scaling Microservices with Message Queues, Spring Boot and Kubernetes",
   "desc": "Learn how to scale SpringBoot apps in Kubernetes using the autoscaler and a message broker such as Kafka, RabbitMQ or ActiveMQ.",
   "link": "/explore/articles/learnk8s.io/scaling-spring-boot-microservices.md",
@@ -579,6 +569,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How do you rollback deployments in Kubernetes?",
+  "desc": "A Kubernetes Ingress routes the external traffic to your services and Pods inside the cluster. You could have an Ingress that is also an API gateway.",
+  "link": "/explore/articles/learnk8s.io/kubernetes-rollbacks.md",
+  "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
+  "background": "rgba(86,154,209,0.2)"
+}
+```
+
 <!-- END: learnk8s.io -->
 
 ---
@@ -672,6 +672,16 @@ head:
   "title": "사용자 친화적인 쿠버네티스 API 활용 툴 개발기 | 요즘IT",
   "desc": "사용자 친화적인 쿠버네티스 API 활용 툴 개발기",
   "link": "/explore/articles/yozm.wishket.com/2610.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64) | 요즘IT",
+  "desc": "새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64)",
+  "link": "/explore/articles/yozm.wishket.com/2658.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

@@ -127,9 +127,17 @@ tag:
 
 ---
 
-## LogRocket
+## LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
 
-- [Building a full-stack app with Bud and Go](https://blog.logrocket.com/full-stack-bud-go)
+```component VPCard
+{
+  "title": "Building a full-stack app with Bud and Go",
+  "desc": "Build a full-stack app using Bud, the new Go framework, with its built-in functionality for frontend development using Svelte.",
+  "link": "/explore/articles/blog.logrocket.com/full-stack-bud-go.md",
+  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "background": "rgba(118,74,188,0.2)"
+}
+```
 
 ---
 

@@ -1869,6 +1869,12 @@ head:
 
 ---
 
+## Postgres performance at any scale | PostgreSQL Tuning - pganalyze
+
+- [A practical introduction to Constraint Programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
+
+---
+
 ## Misc.
 
 - [Working with Excel Files in Python](https://www.python-excel.org/)

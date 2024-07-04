@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_mng8h5s6h7a.woff2?t=1719927845102') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_mng8h5s6h7a.woff?t=1719927845102') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_mng8h5s6h7a.ttf?t=1719927845102') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_mng8h5s6h7a.svg?t=1719927845102#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_ffmx40l51xl.woff2?t=1720075140516') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_ffmx40l51xl.woff?t=1720075140516') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_ffmx40l51xl.ttf?t=1720075140516') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_ffmx40l51xl.svg?t=1720075140516#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-google-sheets:before { content: "\e95e"; }
 .icon-gemini:before { content: "\e95d"; }
 .icon-qt:before { content: "\e95c"; }
 .icon-c:before { content: "\e607"; }

@@ -2414,5 +2414,10 @@
     "desc": "An innovative MicroPython IDE for Web and Mobile",
     "officialSite": "https://viper-ide.org",
     "topics": ["ampy", "ide", "micropython", "mobile-app", "mpremote", "pwa-app", "python3", "rshell", "terminal", "vanilla-js"]
+  }, {
+    "repo": "transferthought/transfer-thought",
+    "desc": "🔁Web platform for building virtual reality experiences.",
+    "officialSite": "https://www.transferthought.com/",
+    "topics": ["3d", "aframe", "applevisionpro", "ecs", "game-engine", "gamedevelopment", "metaquest", "metaverse", "no-code", "threejs", "virtualreality", "vive", "vr", "webgl", "webxr"]
   }
 ]

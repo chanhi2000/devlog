@@ -130,12 +130,6 @@ head:
 
 ---
 
-## LogRocket
-
-- [main](https://blog.logrocket.com)
-
----
-
 ## <FontIcon icon="iconfont icon-notion"/>Notion
 
 - [React Native 2020](https://www.notion.so/React-Native-2020-444084ec7aa44a509df33f8a3ae2edb3)

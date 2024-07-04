@@ -1473,5 +1473,10 @@
     "desc": "A simple tool for visually comparing two PDF files",
     "officialSite": "http://vslavik.github.io/diff-pdf",
     "topics": ["pdf"]
+  }, {
+    "repo": "ydb-platform/ydb",
+    "desc": "YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions",
+    "officialSite": "https://ydb.tech",
+    "topics": ["cloud-native", "cpp", "database", "dbms", "distributed", "distributed-database", "distributed-sql", "distributed-sql-database", "sql"]
   }
 ]

@@ -139,9 +139,17 @@ head:
 
 ---
 
-## LogRocket
+## LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
 
-- [Top Docker and Docker Desktop alternatives](https://blog.logrocket.com/docker-desktop-alternatives)
+```component VPCard
+{
+  "title": "Top Docker and Docker Desktop alternatives",
+  "desc": "Explore the top alternatives to Docker and Docker Desktop for building, running, and distributing container images, like Podman and Lima.",
+  "link": "/explore/articles/blog.logrocket.com/docker-desktop-alternatives.md",
+  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "background": "rgba(118,74,188,0.2)"
+}
+```
 
 ---
 

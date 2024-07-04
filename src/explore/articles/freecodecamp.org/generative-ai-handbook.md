@@ -24,7 +24,7 @@ head:
 prev: /ai/articles/README.md
 date: 2024-06-20
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/The-Generative-AI-Handbook-Cover.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/The-Generative-AI-Handbook-Cover.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -48,7 +48,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/The-G
   desc="The emergence of Generative Artificial Intelligence (GenAI) is both shaping the future of innovation management and revolutionizing it. This handbook delves into the groundbreaking research presented in 'Generative Artificial Intelligence in Innovation Management: A Preview of Future Research Developments' by Marcello Mariani and Yogesh K. Dwivedi (2024). It's a..."
   url="https://freecodecamp.org/news/generative-ai-handbook/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/The-Generative-AI-Handbook-Cover.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/06/The-Generative-AI-Handbook-Cover.png"/>
 
 <!-- TODO: 작성 -->
 

@@ -193,6 +193,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": ".NET Core with SignalR and Angular – Real-Time Charts",
+  "desc": "In this article, we are going to learn how to use SignalR with .NET Core and Angular by creating real-time chart application.",
+  "link": "/explore/articles/code-maze.com/netcore-signalr-angular-realtime-charts.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Uploading Files With .NET Core Web API and Angular",
+  "desc": "In this article, we are going to learn how to upload files with .Net Core Web API and Angular. We are going to use those files as well in our app.",
+  "link": "/explore/articles/code-maze.com/upload-files-dot-net-core-angular.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

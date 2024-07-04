@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - frontendmasters.com
+  - blog.logrocket.com
   - node
   - nodejs
   - svelte
@@ -37,6 +38,13 @@ head:
 }
 ```
 
+<SiteInfo
+  name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
+  desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
+  url="https://blog.logrocket.com/dev"
+  logo="/images/content/blog.logrocket.com/favicon.png"
+  preview="/images/content/blog.logrocket.com/banner.png"/>
+
 [[toc]]
 
 ---
@@ -54,6 +62,26 @@ head:
   "background": "rgba(188,75,52,0.2)"
 }
 ```
+
+<!-- END: frontendmasters.com -->
+
+---
+
+## LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
+
+> blog.logrocket.com
+
+```component VPCard
+{
+  "title": "Building a full-stack app with Bud and Go",
+  "desc": "Build a full-stack app using Bud, the new Go framework, with its built-in functionality for frontend development using Svelte.",
+  "link": "/explore/articles/blog.logrocket.com/full-stack-bud-go.md",
+  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "background": "rgba(118,74,188,0.2)"
+}
+```
+
+<!-- END: blog.logrocket.com -->
 
 ---
 

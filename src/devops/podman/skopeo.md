@@ -7,16 +7,18 @@ category:
   - Podman
   - Skopeo
 tag: 
-  - sh
-  - bash
-  - cli
-  - docker
-  - docker-desktop
-  - yml
-  - yaml
-  - docker-container
+  - devops
+  - podman
   - vm
-  - docker-compose
+  - skopeo
+head:
+  - - meta:
+    - property: og:title
+      content: Podman > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/podman/skopeo.html
 ---
 
 # {{ $frontmatter.title }} 관련

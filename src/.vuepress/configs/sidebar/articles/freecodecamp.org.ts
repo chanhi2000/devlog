@@ -77,6 +77,9 @@ export const template: SidebarInfoTemplate = {
       "whats-new-in-react-19", // 2024-06-25
       "mastering-shadcn-ui-components", // 2024-06-28
       "infinite-scrolling-in-react", // 2024-07-01
+      "react-19-actions-simpliy-form-submission-and-loading-states", // 2024-07-02
+      "how-data-flows-in-redux", // 2024-07-03
+      "build-a-meditation-app-with-react-native-expo-router", // 2024-07-03
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
@@ -406,6 +409,9 @@ export const template: SidebarInfoTemplate = {
       "go-for-absolute-beginners", // 2024-07-01
       "improve-your-javascript-projects-with-build-tools", // 2024-07-02
       "excel-vs-google-sheets-tables", // 2024-07-02
+      "react-19-actions-simpliy-form-submission-and-loading-states", // 2024-07-02
+      "how-data-flows-in-redux", // 2024-07-03
+      "build-a-meditation-app-with-react-native-expo-router", // 2024-07-03
     ]],
   ]),
 }

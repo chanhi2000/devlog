@@ -4,11 +4,13 @@ title: Podman
 description: Podman
 icon: iconfont icon-podman
 category:
+  - DevOps
   - Podman
-  - Container
+  - VM
 tag:
+  - devops
   - podman
-  - container
+  - vm
 ---
 
 # {{ $frontmatter.description }} 관련

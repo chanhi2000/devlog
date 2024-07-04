@@ -104,7 +104,7 @@ struct ContentView: View {
             .refreshable {
                 do {
                     // Fetch and decode JSON into news items
-                    let url = URL(string: "https://www.hackingwithswift.com/samples/news-1.json")!
+                    let url = URL(string: "https://hackingwithswift.com/samples/news-1.json")!
                     let url = URL(string: "https://hackingwithswift.com/samples/news-1.json")!
                     let (data, _) = try await URLSession.shared.data(from: url)
                     news = try JSONDecoder().decode([NewsItem].self, from: data)

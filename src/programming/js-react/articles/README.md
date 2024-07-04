@@ -385,6 +385,37 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "React 19 Actions – How to Simplify Form Submission and Loading States",
+  "desc": "React 19 introduces Actions, which are asynchronous functions. Actions are helpful in making form submissions easier. This tutorial dives into what Actions are and how to use them. You'll learn about:  1. The new React 19 feature, Actions  2. The new React 19 hooks, useActionState and useFormStatus ...",
+  "link": "/explore/articles/freecodecamp.org/react-19-actions-simpliy-form-submission-and-loading-states.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Data Flow in Redux Explained – A State Management Handbook",
+  "desc": "In complex React applications, managing application state effectively can become a challenge. This is where Redux, a predictable state management library, steps in. By introducing a unidirectional data flow, Redux brings order and clarity to how data updates and interacts within your React components. This article discusses the inner workings ...",
+  "link": "/explore/articles/freecodecamp.org/how-data-flows-in-redux.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Build a Meditation App with React Native & Expo Router",
+  "desc": "Are you looking to enhance your React Native skills while creating a practical and soothing application? This new course from freeCodeCamp.org is perfect for you! You'll learn how to build a meditation app using Expo, an open-source platform for maki...",
+  "link": "/explore/articles/freecodecamp.org/build-a-meditation-app-with-react-native-expo-router.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+
 <!-- END: freecodecamp.org -->
 
 ---

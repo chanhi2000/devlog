@@ -445,7 +445,13 @@ tag:
 ## Mort's Ramblings
 
 - [Faster virtual machines: Speeding up programming language execution](https://mort.coffee/home/fast-interpreters/)
- 
+
+---
+
+## Matt Keeter
+
+- [Do Not Taunt Happy Fun Branch Predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
+
 ---
 
 <TagLinks />

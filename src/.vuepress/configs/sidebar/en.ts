@@ -486,6 +486,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("js-react"),
             asb.kodeco("js-react"),
             asb.smashingmagazion("js-react"),
+            asb.logrocket("js-react"),
             asb.yozm("js-react"),
             asb.kakaoTech("js-react"),
             asb.woowahan("js-react"),
@@ -533,6 +534,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/js-svelte/articles/README.md',
             asb.frontendmaster("js-svelte"),
+            asb.logrocket("js-svelte"),
           ]
         }
       ]
@@ -694,6 +696,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("css"),
             asb.frontendmaster("css"),
             asb.smashingmagazion("css"),
+            asb.logrocket("css"),
             asb.yozm("css"),
             asb.piccalilli("css"),
             asb.sitepoint("css"),
@@ -1035,6 +1038,7 @@ export const sidebarEn = sidebar({
             '/programming/go/articles/README.md',
             asb.freecodecamp("go"),
             asb.learnk8s("go"),
+            asb.logrocket("go"),
             asb.yozm("go"),
             asb.popit("go"),
             asb.d2("go"),
@@ -1494,7 +1498,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/visualstudio/articles/README.md',
-            // asb.yozm("intellij-idea")
+            asb.codemaze("visualstudio")
           ]
         }
       ]
@@ -2021,6 +2025,7 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/macos/articles/README.md',
             asb.freecodecamp("macos"),
+            asb.yozm("macos"),
           ]
         }
       ],
@@ -2207,6 +2212,15 @@ export const sidebarEn = sidebar({
         '/devops/vagrant/README.md',
         '/devops/vagrant/references.md',
         '/devops/vagrant/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/vagrant/articles/README.md',
+            asb.yozm("vagrant"),
+          ]
+        }
       ]
     }, {
       text: 'oVirt',
@@ -2239,6 +2253,7 @@ export const sidebarEn = sidebar({
             asb.digitalocean("docker"),
             asb.learnk8s("docker"),
             asb.codemaze("docker"),
+            asb.logrocket("docker"),
             asb.yozm("docker"),
             asb.towardsdatascience("docker"),
           ]
@@ -2258,6 +2273,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/podman/articles/README.md',
+            asb.logrocket("podman"),
             asb.towardsdatascience("podman"),
           ]
         }
@@ -3295,6 +3311,7 @@ export const sidebarEn = sidebar({
         asb.smashingmagazion(),
         asb.digitalocean(),
         asb.learnk8s(),
+        asb.logrocket(),
         asb.kakaoTech(), 
         asb.kakaoPayTech(), 
         asb.yozm(), 

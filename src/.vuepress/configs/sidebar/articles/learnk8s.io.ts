@@ -90,6 +90,7 @@ export const template: SidebarInfoTemplate = {
       "troubleshooting-deployments", // 2024-05-13
       "allocatable-resources", // 2024-05-27
       "kubernetes-long-lived-connections", // 2024-06-10
+      "kubernetes-rollbacks", // 2024-07-01
     ]],[
     "linode", [
       "terraform-lke", // 2021-11-25
@@ -154,6 +155,7 @@ export const template: SidebarInfoTemplate = {
       "troubleshooting-deployments", // 2024-05-13
       "allocatable-resources", // 2024-05-27
       "kubernetes-long-lived-connections", // 2024-06-10
+      "kubernetes-rollbacks", // 2024-07-01
     ]]
   ])
 }

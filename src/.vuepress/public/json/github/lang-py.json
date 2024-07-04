@@ -2625,11 +2625,6 @@
     "officialSite": "",
     "topics": ["bigsur", "bigsur-hackintosh", "catalina-hackinotsh", "emulation", "hackintosh", "kernel-debugging", "kvm", "macos", "macos-installer", "macos-mojave", "monterey", "monterey-hackintosh", "osx", "qemu", "qemu-kvm", "sonoma-hackintosh", "ventura", "ventura-hackintosh", "virtualization"]
   }, {
-    "repo": "fishaudio/Bert-VITS2",
-    "desc": "vits2 backbone with bert",
-    "officialSite": "",
-    "topics": ["tts", "bert", "vits", "vits2", "bert-vits", "bert-vits2"]
-  }, {
     "repo": "mwmbl/mwmbl",
     "desc": "An open source, non-profit search engine implemented in python",
     "officialSite": "https://mwmbl.org",
@@ -5634,5 +5629,15 @@
     "desc": "Generate ideal question-answers for testing RAG",
     "officialSite": "https://fiddlecube.ai",
     "topics": ["fine-tune-llms", "llm-eval", "llm-training", "synthetic-data"]
+  }, {
+    "repo": "fishaudio/fish-speech",
+    "desc": "Brand new TTS solution",
+    "officialSite": "https://speech.fish.audio",
+    "topics": ["llama", "transformer", "tts", "valle", "vits", "vqgan", "vqvae"]
+  }, {
+    "repo": "tanelpoder/0xtools",
+    "desc": "0x.Tools: Always-on Profiling for Production Systems",
+    "officialSite": "https://0x.tools",
+    "topics": ["linux", "performance", "troubleshooting"]
   }
 ]

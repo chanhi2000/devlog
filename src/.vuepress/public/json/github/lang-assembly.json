@@ -64,5 +64,10 @@
     "desc": "Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "BLAKE3-team/BLAKE3",
+    "desc": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+    "officialSite": "",
+    "topics": []
   }
 ]

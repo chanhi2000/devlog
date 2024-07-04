@@ -27,7 +27,7 @@ head:
 prev: /programming/js-react/articles/README.md
 date: 2024-06-24
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/validate_forms.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/validate_forms.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,7 +51,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/valid
   desc="Validation is a key part of development, regardless of what programming language you’re writing. Developers should always be validating user input, API parameters, and retrieved values. One of the most common elements where you’ll need to apply user input validation is via a form. This could be a user sign..."
   url="https://freecodecamp.org/news/react-how-to-validate-user-input/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/validate_forms.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/06/validate_forms.png"/>
 
 <!-- TODO: 작성 -->
 

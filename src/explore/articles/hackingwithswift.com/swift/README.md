@@ -19,6 +19,9 @@ tag:
   - swift-5.5
   - swift-5.4
   - swift-5.3
+  - swift-5.1
+  - swift-5.0
+  - swift-4.2
   - swift-4.1
   - swift-4.0  
   - swift-3.1
@@ -1063,7 +1066,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
 
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 5.1 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-5-0-to-5-1.playground.zip)
 

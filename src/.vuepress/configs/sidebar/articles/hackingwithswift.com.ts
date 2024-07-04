@@ -5,7 +5,10 @@ export const template: SidebarGroupItem = {
     collapsible: true,
     icon: 'https://hackingwithswift.com/favicon.svg',
     children: [
+      '/explore/articles/hackingwithswift.com/swift-4-1-improves-codable-with-keydecodingstrategy.md', // 2018-02-05
+      '/explore/articles/hackingwithswift.com/learn-whats-new-in-swift-4-1-with-a-playground.md', // 2018-04-04
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-4-1.md', // 2018-06-13
+      '/explore/articles/hackingwithswift.com/whats-new-in-swift-4-2.md', // 2018-12-17
       '/explore/articles/hackingwithswift.com/new-syntax-swift-2-availability-checking.md', // 2019-09-23
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
       '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2023-06-23
@@ -36,11 +39,32 @@ export const template: SidebarGroupItem = {
             text: "Changes in Swift 5.8",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.8/lift-result-builder-limitations.md',
+              '/explore/articles/hackingwithswift.com/swift/5.8/function-back-deployment.md',
+              '/explore/articles/hackingwithswift.com/swift/5.8/implicit-self-weak-capture.md',
+              '/explore/articles/hackingwithswift.com/swift/5.8/concise-magic-file-names.md',
+              '/explore/articles/hackingwithswift.com/swift/5.8/opening-existential-optional.md',
+              '/explore/articles/hackingwithswift.com/swift/5.8/collection-downcasts.md',
             ]
           }, {
             text: "Changes in Swift 5.7",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.7/if-let-shorthand.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/multi-statement-inference.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/clock.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/regexes.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/default-type-inference.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/top-level-concurrency.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/opaque-parameter-declarations.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/structural-opaque-result-types.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/unlock-existentials.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/primary-associated-types.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/constrained-existentials.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/distributed-actors.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/buildpartialblock.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/implicitly-opened-existentials.md',
+              '/explore/articles/hackingwithswift.com/swift/5.7/noasync.md',
             ]
           }, {
             text: "Changes in Swift 5.6",

@@ -839,6 +839,206 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": ".NET Core with SignalR and Angular – Real-Time Charts",
+  "desc": "In this article, we are going to learn how to use SignalR with .NET Core and Angular by creating real-time chart application.",
+  "link": "/explore/articles/code-maze.com/netcore-signalr-angular-realtime-charts.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Consuming GitHub API (REST) With Flurl",
+  "desc": "In this article, we are going to learn how to consume a RESTful API (GitHub) in C# using Flurl library. We will add unit testing as well.",
+  "link": "/explore/articles/code-maze.com/consuming-github-api-rest-with-flurl.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Uploading Files With .NET Core Web API and Angular",
+  "desc": "In this article, we are going to learn how to upload files with .Net Core Web API and Angular. We are going to use those files as well in our app.",
+  "link": "/explore/articles/code-maze.com/upload-files-dot-net-core-angular.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SOLID Principles in C# – Single Responsibility Principle",
+  "desc": "In this article you will learn how to implement Single Responsibility Principle (SRP) in your code thus making it better, readable and maintainable as well.",
+  "link": "/explore/articles/code-maze.com/single-responsibility-principle.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SOLID Principles in C# – Open Closed Principle",
+  "desc": "In this article you will learn about Open Closed Principle, how to implement it step by step and why it is important while developing a project.",
+  "link": "/explore/articles/code-maze.com/open-closed-principle.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SOLID Principles in C# – Liskov Substitution Principle",
+  "desc": "In this article you will learn more about Liskov Substitution Principle, how to achieve it in your code and why should we use it.",
+  "link": "/explore/articles/code-maze.com/liskov-substitution-principle.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Using C# and DalSoft.RestClient to Consume Any REST API",
+  "desc": "This post is going to take you through using the DalSoft.RestClient C# library to consume any RESTful API.",
+  "link": "/explore/articles/code-maze.com/dalsoft-restclient-consume-any-rest-api.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SOLID Principles in C# – Interface Segregation Principle",
+  "desc": "In this article you are going to learn about Interface Segregation Principle, how to implement it and what are the benefits of its implementation.",
+  "link": "/explore/articles/code-maze.com/interface-segregation-principle.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "SOLID Principles in C# – Dependency Inversion Principle",
+  "desc": "In this article you are going to learn about Dependency Inversion Principle, how to implement this principle and what are the benefits of implementation.",
+  "link": "/explore/articles/code-maze.com/dependency-inversion-principle.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Dynamic Type in C#",
+  "desc": "Dynamic type in C# is a useful type that extends the language with dynamic features. We're going to learn what it is and how to use it.",
+  "link": "/explore/articles/code-maze.com/dynamic-type-csharp.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Builder Design Pattern and Fluent Builder",
+  "desc": "In this article, you are going to learn what is Builder Design Pattern and how to implement it into your code to create more complex objects.",
+  "link": "/explore/articles/code-maze.com/builder-design-pattern.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Fluent Builder Interface With Recursive Generics",
+  "desc": "In this article you will learn about Fluent Builder with Recursive Generics and how to use this pattern to allow inheritance between Fluent Builders.",
+  "link": "/explore/articles/code-maze.com/fluent-builder-recursive-generics.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Faceted Builder",
+  "desc": "You will learn how to create Faceted Builder design pattern and how to create complex objects which need more than one builder class.",
+  "link": "/explore/articles/code-maze.com/faceted-builder.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Factory Method",
+  "desc": "We are going to learn about Factory method design pattern, how to implement it into the application and how to use Factory Method refactoring technique.",
+  "link": "/explore/articles/code-maze.com/factory-method.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Singleton",
+  "desc": "In this article, you are going to learn what is Singleton design pattern, how to implement it into your project and how to create a thread safe singleton.",
+  "link": "/explore/articles/code-maze.com/singleton.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Adapter",
+  "desc": "In this article we are going to learn about Adapter design pattern, how to implement it in the project and when shoud we use it.",
+  "link": "/explore/articles/code-maze.com/adapter.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Composite",
+  "desc": "We are going to learn how to implement the Composite design pattern, what are it's elements and how to put them all together.",
+  "link": "/explore/articles/code-maze.com/composite.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Decorator",
+  "desc": "In this article, we are going to learn what is Decorator design pattern, when should we use it and how to implement it in practice.",
+  "link": "/explore/articles/code-maze.com/decorator-design-pattern.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Command",
+  "desc": "We are going to learn how to impelement Command design pattern in C#, how to use it to keep track of our actions and undo them as well.",
+  "link": "/explore/articles/code-maze.com/command.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Design Patterns – Strategy Design Pattern",
+  "desc": "In this article, we are going to learn what is Strategy design pattern, how to use it in our code and when to use it as well.",
+  "link": "/explore/articles/code-maze.com/strategy.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!--END: code-maze.com -->
 
 ---

@@ -64,7 +64,7 @@ struct ContentView: View {
 }
 ```
 
-It feels like such a tiny thing, but the `body` property is declared as returning `View` rather than `some View`. The difference is small but important – you can find out more about it in my article [How to use opaque return types in Swift 5.1](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-opaque-return-types-in-swift-5-1). <!-- NOTE: broken link -->
+It feels like such a tiny thing, but the `body` property is declared as returning `View` rather than `some View`. The difference is small but important – you can find out more about it in my article [How to use opaque return types in Swift 5.1](https://hackingwithswift.com/quick-start/swiftui/how-to-use-opaque-return-types-in-swift-5-1). <!-- NOTE: broken link -->
 
 So, to fix the problem use this instead:
 

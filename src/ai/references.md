@@ -191,6 +191,18 @@ head:
 
 ---
 
+## GenB 젠비 - 편하게 읽는 투자 소식
+
+- [엔비디아 주가 급락, AI는 거품일까](https://www.gen-b.co/nvidia-falls-is-ai-bubble/)
+
+---
+
+## Hall of Impossible Dreams
+
+- [Trackmania I - The History of Machine Learning in Trackmania](https://hallofdreams.org/posts/trackmania-1/)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

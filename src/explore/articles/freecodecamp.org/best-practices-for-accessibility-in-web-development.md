@@ -25,7 +25,7 @@ head:
 prev: /academcis/system-design/articles/README.md
 date: 2024-06-20
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/firmbee-com-gcsNOsPEXfs-unsplash.jpg
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/firmbee-com-gcsNOsPEXfs-unsplash.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -49,7 +49,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/firmb
   desc="Everyone should be able to use technology, regardless of their abilities or disabilities. An accessible website or platform attracts a broader audience and has a high chance of achieving user retention. This article will discuss the importance of accessibility, best practices for accessibility in frontend web development, and their implementations..."
   url="https://freecodecamp.org/news/best-practices-for-accessibility-in-web-development/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/06/firmbee-com-gcsNOsPEXfs-unsplash.jpg"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/06/firmbee-com-gcsNOsPEXfs-unsplash.jpg"/>
 
 <!-- TODO: 작성 -->
 

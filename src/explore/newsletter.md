@@ -819,7 +819,7 @@ https://paperlined.org/
 <SiteInfo
   name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
   desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
-  url="https://blog.logrocket.com/"
+  url="https://blog.logrocket.com/dev"
   logo="/images/content/blog.logrocket.com/favicon.png"
   preview="/images/content/blog.logrocket.com/banner.png"/>
 
@@ -962,7 +962,7 @@ https://paperlined.org/
   desc="..."
   url="https://redditinc.com/blog/topic/technology"
   logo="https://www.redditinc.com/assets/images/favicons/favicon-32x32.png"
-  preview="https://www.redditinc.com/assets/images/site/redditinc_external_graphic.png"/>
+    preview="https://www.redditinc.com/assets/images/site/Reddit_Upvoted_Bubble-edit.svg"/>
 
 <SiteInfo
   name="Twitch Blog"
@@ -971,12 +971,15 @@ https://paperlined.org/
   logo="https://blog.twitch.tv/assets/icons/favicon.ico"
   preview="https://cdn.m7g.twitch.tv/ba46b4e5e395b11efd34/assets/uploads/blog_og-image.jpg?w=1200&h=630&fm=jpg&auto=format"/>
 
-<SiteInfo
-  name="Discord Blog"
-  desc="Resources and news for engineers and Discord app developers."
-  url="https://discord.com/category/engineering"
-  logo="https://assets-global.website-files.com/5f8dd67f8fdd6f51f0b50904/5f91fae62cc821206588b837_Frame%20246.png"
-  preview="rgba(64,78,237,0.2"/>
+```component VPCard
+{
+  "title": "Discord Blog",
+  "desc": "Resources and news for engineers and Discord app developers.",
+  "link": "https://discord.com/category/engineering",
+  "logo": "https://assets-global.website-files.com/5f8dd67f8fdd6f51f0b50904/5f91fae62cc821206588b837_Frame%20246.png",
+  "background": "rgba(64,78,237,0.2)"
+}
+```
 
 <SiteInfo
   name="Unicorn Utterances"

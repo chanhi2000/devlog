@@ -709,5 +709,10 @@
     "desc": "Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.",
     "officialSite": "http://deeplearning4j.konduit.ai",
     "topics": ["artificial-intelligence", "clojure", "deeplearning", "deeplearning4j", "dl4j", "gpu", "hadoop", "intellij", "java", "linear-algebra", "matrix-library", "neural-nets", "python", "scala", "spark"]
+  }, {
+    "repo": "jeremylong/DependencyCheck",
+    "desc": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+    "officialSite": "https://owasp.org/www-project-dependency-check/",
+    "topics": ["ant-task", "build-tool", "gradle-plugin", "jenkins-plugin", "maven-plugin", "security", "security-audit", "software-composition-analysis", "vulnerability-detection"]
   }
 ]

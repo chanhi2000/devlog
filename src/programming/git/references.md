@@ -360,4 +360,10 @@ head:
 
 ---
 
+## Brachiosoft Blog
+
+- [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
+
+---
+
 <TagLinks />

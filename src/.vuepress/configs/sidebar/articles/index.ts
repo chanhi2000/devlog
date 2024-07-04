@@ -9,6 +9,7 @@ import { template as TEMPLATE_FRONTENDMASTER } from './frontendmasters.com';
 import { template as TEMPLATE_SMASHINGMAGAZINE } from './smashingmagazine.com';
 import { template as TEMPLATE_DIGITALOCEAN } from './digitalocean.com';
 import { template as TEMPLATE_LEARNK8S } from './learnk8s.io';
+import { template as TEMPLATE_LOGROCKET } from './blog.logrocket.com';
 import { template as TEMPLATE_KAKAO_TECH } from './tech.kakao.com';
 import { template as TEMPLATE_KAKAO_PAY_TECH } from './tech.kakaopay.com';
 import { template as TEMPLATE_NHN } from './meetup.nhncloud.com';
@@ -79,6 +80,7 @@ export const articleSidebars = {
   smashingmagazion:   (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SMASHINGMAGAZINE, type),
   digitalocean:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DIGITALOCEAN, type),
   learnk8s:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LEARNK8S, type),
+  logrocket:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LOGROCKET, type),
   yozm:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_YOZM, type),
   kakaoTech:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KAKAO_TECH, type),
   kakaoPayTech:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KAKAO_PAY_TECH, type),

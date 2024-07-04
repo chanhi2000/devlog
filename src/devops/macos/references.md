@@ -303,4 +303,10 @@ head:
 
 ---
 
+## arno.org
+
+- [On the origins of `DS_store`](https://www.arno.org/on-the-origins-of-ds-store)
+
+---
+
 <TagLinks />

@@ -38,6 +38,12 @@ head:
 
 ---
 
+## Hackaday | Fresh Hacks Every Day
+
+- [USB AND THE MYTH OF 500 MILLIAMPS](https://hackaday.com/2024/07/03/usb-and-the-myth-of-500-milliamps/)
+
+---
+
 ## iFixit: The Free Repair Manual
 
 - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
@@ -336,6 +342,18 @@ head:
 ## joshua stein
 
 - [Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)](https://jcs.org/2024/05/29/x1usb)
+
+---
+
+## BrixIT Blog
+
+- [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
+
+---
+
+## Alexander Gromnitsky's Blog
+
+- [The cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
 
 ---
 
