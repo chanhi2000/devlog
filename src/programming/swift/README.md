@@ -5,6 +5,13 @@ description: Swift
 icon: fa-brands fa-swift
 category: 
   - Swift
+tag:
+  - swift
+  - ios
+  - macos
+  - xcode
+  - cocoapods
+  - spm
 ---
 
 # {{ $frontmatter.description }} 관련

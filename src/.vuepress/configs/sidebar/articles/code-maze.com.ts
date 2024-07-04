@@ -101,6 +101,27 @@ export const template: SidebarInfoTemplate = {
       "decorator-design-pattern", // 2022-01-13
       "command", // 2022-01-13
       "strategy", // 2022-01-13
+      "graphql-aspnetcore-basics", // 2022-01-03
+      "advanced-graphql-queries", // 2022-01-13
+      "graphql-mutations", // 2022-01-13
+      "consume-graphql-api-with-asp-net-core", // 2022-01-13
+      "getting-started-with-asp-net-core-mvc", // 2022-01-13
+      "working-with-data-in-asp-net-core-mvc", // 2022-01-13
+      "views-partial-views-and-layouts-in-asp-net-core-mvc", // 2022-01-13
+      "state-management-in-asp-net-core-mvc", // 2022-12-17
+      "routing-asp-net-core-mvc", // 2022-01-13
+      "file-upload-aspnetcore-mvc", // 2022-01-13
+      "dependency-injection-aspnetcore-mvc", // 2022-01-13
+      "unit-testing-in-asp-net-core-mvc", // 2022-01-13
+      "filters-in-asp-net-core-mvc", // 2022-01-13
+      "entity-framework-core-getting-started", // 2022-09-22
+      "configuring-nonrelational-properties", // 2022-01-13
+      "migrations-and-seed-data-efcore", // 2024-05-22
+      "efcore-relationships", // 2022-01-13
+      "queries-in-entity-framework-core", // 2022-01-13
+      "efcore-modifying-data", // 2022-01-13
+      "configure-postgresql-ef-core", // 2022-01-13
+      "aspnetcore-unit-testing-xunit", // 2022-02-21
     ]],[
     "js-angular", [
       "net-core-web-development-part7", // 2022-04-20
@@ -120,6 +141,7 @@ export const template: SidebarInfoTemplate = {
       "angular-material-form-validation", // 2021-06-23
       "netcore-signalr-angular-realtime-charts", // 2022-05-05
       "upload-files-dot-net-core-angular", // 2024-01-31
+      "consuming-graphql-api-angular", // 2024-01-31
     ]],[
     "docker", [
       "why-docker-docker-cli-examples", // 2020-09-02
@@ -143,6 +165,16 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "visualstudio", [
       "visual-studio-productivity", // 2022-02-20
+    ]],[
+    "postgres", [
+      "configure-postgresql-ef-core", // 2022-01-13
+    ]],[
+    "graphql", [
+      "graphql-aspnetcore-basics", // 2022-01-03
+      "advanced-graphql-queries", // 2022-01-13
+      "graphql-mutations", // 2022-01-13
+      "consume-graphql-api-with-asp-net-core", // 2022-01-13
+      "consuming-graphql-api-angular", // 2024-01-31
     ]],[
     "all", [
       "top-8-continuous-integration-tools", // 2023-06-15
@@ -246,6 +278,28 @@ export const template: SidebarInfoTemplate = {
       "decorator-design-pattern", // 2022-01-13
       "command", // 2022-01-13
       "strategy", // 2022-01-13
+      "graphql-aspnetcore-basics", // 2022-01-03
+      "advanced-graphql-queries", // 2022-01-13
+      "graphql-mutations", // 2022-01-13
+      "consume-graphql-api-with-asp-net-core", // 2022-01-13
+      "consuming-graphql-api-angular", // 2024-01-31
+      "getting-started-with-asp-net-core-mvc", // 2022-01-13
+      "working-with-data-in-asp-net-core-mvc", // 2022-01-13
+      "views-partial-views-and-layouts-in-asp-net-core-mvc", // 2022-01-13
+      "state-management-in-asp-net-core-mvc", // 2022-12-17
+      "routing-asp-net-core-mvc", // 2022-01-13
+      "file-upload-aspnetcore-mvc", // 2022-01-13
+      "dependency-injection-aspnetcore-mvc", // 2022-01-13
+      "unit-testing-in-asp-net-core-mvc", // 2022-01-13
+      "filters-in-asp-net-core-mvc", // 2022-01-13
+      "entity-framework-core-getting-started", // 2022-09-22
+      "configuring-nonrelational-properties", // 2022-01-13
+      "migrations-and-seed-data-efcore", // 2024-05-22
+      "efcore-relationships", // 2022-01-13
+      "queries-in-entity-framework-core", // 2022-01-13
+      "efcore-modifying-data", // 2022-01-13
+      "configure-postgresql-ef-core", // 2022-01-13
+      "aspnetcore-unit-testing-xunit", // 2022-02-21
     ]]
   ])
 }

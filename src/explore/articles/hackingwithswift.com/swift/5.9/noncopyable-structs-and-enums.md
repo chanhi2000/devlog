@@ -51,6 +51,10 @@ isOriginal: false
 
 <!-- TODO: 작성 -->
 
+::: details Other Changes in Swift 5.9
+
+:::
+
 ---
 
 <TagLinks />

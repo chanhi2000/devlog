@@ -7,11 +7,17 @@ category:
   - PHP
   - Youtube
 tag:
+  - php
   - education
   - youtube
-  - programming
-  - php
-  - laravel
+head:
+  - - meta:
+    - property: og:title
+      content: PHP > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/php/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -21,7 +27,6 @@ tag:
 ---
 
 <MyYouTubeItems jsonName="yu-TheCodeholic" /><!-- The Codeholic -->
-<MyYouTubeItems jsonName="yu-LaravelDaily" /><!-- Laravel Daily -->
 <MyYouTubeItems jsonName="yu-aschmelyun" /><!-- Andrew Schmelyun -->
 <MyYouTubeItems jsonName="yu-alecaddd" /><!-- Alessandro Castellani -->
 <MyYouTubeItems jsonName="yu-SourceCodePH743" /><!-- Source Code PH -->
@@ -30,7 +35,6 @@ tag:
 <MyYouTubeItems jsonName="yu-ProgramWithGio" /><!-- Program With Gio -->
 <MyYouTubeItems jsonName="yu-codewithdary" /><!-- Code With Dary -->
 <MyYouTubeItems jsonName="yu-kingchobo" /><!-- 왕초보 홈페이지만들기 -->
-<MyYouTubeItems jsonName="yu-Laracastsofficial" /><!-- Laracasts -->
 <MyYouTubeItems jsonName="yu-izicode" /><!-- izicode -->
 <MyYouTubeItems jsonName="yu-dave-hollingworth" /><!-- Dave Hollingworth -->
 <MyYouTubeItems jsonName="yu-codecourse" /><!-- Codecourse -->

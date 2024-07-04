@@ -48,7 +48,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719592156998/4ba8f0f
   desc="Creating a game can be one of the most rewarding experiences in programming, and building a Metroidvania-style game takes that excitement to another level. These games are known for their intricate maps, challenging enemies, and complex mechanics tha..."
   url="https://freecodecamp.org/news/javascript-gamedev-with-kaboomjs/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_t-l5FFH8VA/upload/7dac186ffa0ba7f32d72ccf06d1d5baf.jpeg"/>
+  preview="https://cdn.hashnode.com/res/hashnode/image/upload/v1719592156998/4ba8f0f3-9662-480a-b1ee-682a49d5ed42.jpeg"/>
 
 Creating a game can be one of the most rewarding experiences in programming, and building a Metroidvania-style game takes that excitement to another level. These games are known for their intricate maps, challenging enemies, and complex mechanics that keep players engaged. If you’ve ever wanted to create your own Metroidvania game, now is the perfect time to start.
 

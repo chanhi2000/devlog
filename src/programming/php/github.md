@@ -9,14 +9,13 @@ category:
 tag: 
   - git 
   - github 
-  - php 
-  - laravel
+  - php
 head:
   - - meta:
     - property: og:title
       content: PHP > Github
     - property: og:description
-      content: PHP > Github
+      content: Github
     - property: og:url
       content: https://chanhi2000.github.io/programming/php/github.html
 ---

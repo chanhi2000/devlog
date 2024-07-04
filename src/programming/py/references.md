@@ -1875,6 +1875,12 @@ head:
 
 ---
 
+## Niklas Oberhuber's Posts & Notes
+
+- [Reverse Engineering the Verification QR Code on my Diploma](https://obrhubr.org/reverse-engineering-diploma)
+
+---
+
 ## Misc.
 
 - [Working with Excel Files in Python](https://www.python-excel.org/)

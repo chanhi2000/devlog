@@ -240,6 +240,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Callback Functions in JavaScript",
+  "desc": "When you're building dynamic applications with JavaScript that display real-time data – like a weather app or live sports dashboard – you'll need a way to automatically fetch new data from an external source without disrupting the user experience.  You can do this using JavaScript's callback functions, which showcase...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-callback-functions-in-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -1122,6 +1122,26 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Laravel',
+      collapsible: true,
+      icon: 'fa-brands fa-laravel',
+      children: [
+        '/programming/php-laravel/README.md',
+        '/programming/php-laravel/references.md',
+        '/programming/php-laravel/github.md',
+        '/programming/php-laravel/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/php-laravel/articles/README.md',
+            asb.freecodecamp("php"),
+            asb.learnk8s("php"),
+          ]
+        }
+      ]
+    }, {
       text: 'Ruby',
       collapsible: true,
       icon: 'iconfont icon-ruby',
@@ -2786,6 +2806,7 @@ export const sidebarEn = sidebar({
           children: [
             '/data-science/postgres/articles/README.md',
             asb.freecodecamp("postgres"), 
+            asb.codemaze("postgres"), 
             asb.linecorp("postgres"),
           ]
         },
@@ -2880,6 +2901,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/graphql/articles/README.md',
+            asb.codemaze("graphql"),
             asb.yozm("graphql"),
           ]
         }
@@ -3115,13 +3137,29 @@ export const sidebarEn = sidebar({
           ]
         }
       ]
-    },  {
+    }, {
       text: 'Claude',
       collapsible: true,
       icon: 'iconfont icon-claude',
       children: [
         '/ai/claude/README.md',
         '/ai/claude/references.md',
+      ]
+    }, {
+      text: 'LangChain',
+      collapsible: true,
+      icon: 'iconfont icon-langchain',
+      children: [
+        '/ai/langchain/README.md',
+        '/ai/langchain/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/langchain/articles/README.md',
+          ]
+        }
       ]
     }, 
   ], '/hw/': [

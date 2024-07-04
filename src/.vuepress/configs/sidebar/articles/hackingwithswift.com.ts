@@ -5,10 +5,12 @@ export const template: SidebarGroupItem = {
     collapsible: true,
     icon: 'https://hackingwithswift.com/favicon.svg',
     children: [
+      '/explore/articles/hackingwithswift.com/swift4.md',
       '/explore/articles/hackingwithswift.com/swift-4-1-improves-codable-with-keydecodingstrategy.md', // 2018-02-05
       '/explore/articles/hackingwithswift.com/learn-whats-new-in-swift-4-1-with-a-playground.md', // 2018-04-04
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-4-1.md', // 2018-06-13
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-4-2.md', // 2018-12-17
+      '/explore/articles/hackingwithswift.com/whats-new-in-swift-5-0.md', // 2019-03-28
       '/explore/articles/hackingwithswift.com/new-syntax-swift-2-availability-checking.md', // 2019-09-23
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
       '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2023-06-23
@@ -24,16 +26,37 @@ export const template: SidebarGroupItem = {
             text: "Changes in Swift 6.0",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/6.0/concurrency.md',
+              '/explore/articles/hackingwithswift.com/swift/6.0/count-where.md',
+              '/explore/articles/hackingwithswift.com/swift/6.0/typed-throws.md',
+              '/explore/articles/hackingwithswift.com/swift/6.0/pack-iteration.md',
+              '/explore/articles/hackingwithswift.com/swift/6.0/rangeset.md',
+              '/explore/articles/hackingwithswift.com/swift/6.0/access-level-import.md',
+              '/explore/articles/hackingwithswift.com/swift/6.0/noncopyable-upgrades.md',
+              '/explore/articles/hackingwithswift.com/swift/6.0/int128.md',
+              '/explore/articles/hackingwithswift.com/swift/6.0/bitwisecopyable.md',
             ]
           }, {
             text: "Changes in Swift 5.10",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.10/complete-concurrency.md',
+              '/explore/articles/hackingwithswift.com/swift/5.10/nested-protocols.md',
+              '/explore/articles/hackingwithswift.com/swift/5.10/deprecate-uiapplicationmain.md',
+              '/explore/articles/hackingwithswift.com/swift/5.10/actor-initialization.md',
             ]
           }, {
             text: "Changes in Swift 5.9",
             collapsible: true,
             children: [
+              '/explore/articles/hackingwithswift.com/swift/5.9/if-switch-expressions.md',
+              '/explore/articles/hackingwithswift.com/swift/5.9/variadic-generics.md',
+              '/explore/articles/hackingwithswift.com/swift/5.9/macros.md',
+              '/explore/articles/hackingwithswift.com/swift/5.9/noncopyable-structs-and-enums.md',
+              '/explore/articles/hackingwithswift.com/swift/5.9/consume-operator.md',
+              '/explore/articles/hackingwithswift.com/swift/5.9/convenience-asyncthrowingstream-makestream.md',
+              '/explore/articles/hackingwithswift.com/swift/5.9/sleep-for-clock.md',
+              '/explore/articles/hackingwithswift.com/swift/5.9/discarding-task-groups.md',
             ]
           }, {
             text: "Changes in Swift 5.8",

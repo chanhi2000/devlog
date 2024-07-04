@@ -90,4 +90,10 @@ head:
 
 ---
 
+## Marcelo Lazaroni
+
+- [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
+
+---
+
 <TagLinks />

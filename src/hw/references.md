@@ -312,6 +312,7 @@ head:
 ## Chips and Cheese – The Devil is in the Details
 
 - [Testing AMD’s Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
+- [The Snapdragon X Elite’s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 
 ---
 

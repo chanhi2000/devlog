@@ -1039,6 +1039,216 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Getting Started with GraphQL in ASP.NET Core",
+  "desc": "In this article we are going to learn about GraphQL in ASP.NET Core integration, how to start with the project and how to create a first GraphQL query.",
+  "link": "/explore/articles/code-maze.com/graphql-aspnetcore-basics.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Advanced GraphQL Queries, Error Handling, Data Loader",
+  "desc": "In this article we are going to learn how to write advanced GraphQL Queries, how to handle erros and optimize queries by using data loader.",
+  "link": "/explore/articles/code-maze.com/advanced-graphql-queries.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "GraphQL Mutations in ASP.NET Core",
+  "desc": "In this article, we are going to learn about GraphQL Mutations. We will learn how to create POST, PUT and DELETE mutations.",
+  "link": "/explore/articles/code-maze.com/graphql-mutations.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Consuming a GraphQL API with ASP.NET Core",
+  "desc": "In this article, we are going to learn how to Consume GraphQL API with the ASP.NET Core application by using the GraphQL.Client library.",
+  "link": "/explore/articles/code-maze.com/consume-graphql-api-with-asp-net-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting Started with ASP.NET Core MVC",
+  "desc": "Here we are going to look at the basics of building an ASP.NET Core MVC web app. We are going to create controllers, views and models.",
+  "link": "/explore/articles/code-maze.com/getting-started-with-asp-net-core-mvc.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Working with Data in ASP.NET Core MVC",
+  "desc": "In this article we are goning to learn how to connect ASP.NET Core MVC application with the database by using Entity Framework Core, Code-First approach.",
+  "link": "/explore/articles/code-maze.com/working-with-data-in-asp-net-core-mvc.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Views, Partial Views, and Layouts in ASP.NET Core MVC",
+  "desc": "In the ASP.Net Core MVC, Views handle the application's data presentation and user interaction.VIews separate UI from other parts of the application.",
+  "link": "/explore/articles/code-maze.com/views-partial-views-and-layouts-in-asp-net-core-mvc.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "State Management in ASP.NET Core MVC",
+  "desc": "In this article, we are going to learn about the State Management with Session State, Query Strings, etc. in ASP.NET Core MVC Applications.",
+  "link": "/explore/articles/code-maze.com/state-management-in-asp-net-core-mvc.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Routing in ASP.NET Core MVC",
+  "desc": "In this article, we’re going to discuss the conventional and attribute routing capabilities and the support for file upload in ASP.NET Core MVC.",
+  "link": "/explore/articles/code-maze.com/routing-asp-net-core-mvc.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "File Upload in ASP.NET Core MVC",
+  "desc": "In this article we are going to learn how to upload a file or multiple files in ASP.NET Core MVC application.",
+  "link": "/explore/articles/code-maze.com/file-upload-aspnetcore-mvc.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Dependency Injection in ASP.NET Core MVC",
+  "desc": "In this article, we are going to discuss an important concept of ASP.NET Core MVC – Dependency Injection, and how to use DI in our Controllers and Views.",
+  "link": "/explore/articles/code-maze.com/dependency-injection-aspnetcore-mvc.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Unit Testing in ASP.NET Core MVC",
+  "desc": "In this article we are going to cover Unit Testing or rather why we need unit tests and how to implement them in our ASP.NET Core applications.",
+  "link": "/explore/articles/code-maze.com/unit-testing-in-asp-net-core-mvc.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Filters in ASP.NET Core MVC",
+  "desc": "Filters in ASP.NET Core MVC allows us to run certain actions before or after specific stages in the request processing pipeline",
+  "link": "/explore/articles/code-maze.com/filters-in-asp-net-core-mvc.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Entity Framework Core – Getting Started",
+  "desc": "Let's learn how to integrate Entity Framework Core in an ASP.NET Core application. We will talk about Entities and DbContext class in detail.",
+  "link": "/explore/articles/code-maze.com/entity-framework-core-getting-started.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Configuring Nonrelational Properties in EF Core",
+  "desc": "In this article, we are going to talk about EF Core Configuration of Nonrelational properties and different approaches to do that.",
+  "link": "/explore/articles/code-maze.com/configuring-nonrelational-properties.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+  
+```component VPCard
+{
+  "title": "Migrations and Seed Data With Entity Framework Core",
+  "desc": "We are going to learn about Migrations and Seed data in Entity Framework Core and how to optimize EF Core migrations.",
+  "link": "/explore/articles/code-maze.com/migrations-and-seed-data-efcore.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Entity Framework Core Relationships – Convention, Data Annotations and Fluent API",
+  "desc": "In this article, we are going to learn about EF Core Relationships and different ways to accomplish relationship creation.",
+  "link": "/explore/articles/code-maze.com/efcore-relationships.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Database Queries in Entity Framework Core",
+  "desc": "In this article we are going to learn about Queries in Entity Framework Core and different ways to use them to fetch out data from the database.",
+  "link": "/explore/articles/code-maze.com/queries-in-entity-framework-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Modifying Data with Entity Famework Core",
+  "desc": "In this article, we are going to talk about modifying data with EF Core by using differnet approaches and different actions.",
+  "link": "/explore/articles/code-maze.com/efcore-modifying-data.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Configure PostgreSQL in Entity Framework Core",
+  "desc": "In this article, we are going to learn how to configure PostgreSQL, a popular and reliable open-source relational database in our .NET Core application.",
+  "link": "/explore/articles/code-maze.com/configure-postgresql-ef-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Unit Testing with xUnit in ASP.NET Core",
+  "desc": "In this article, we will explain Unit Testing with xUnit in the ASP.NET Core application, using different features that xUnit provides.",
+  "link": "/explore/articles/code-maze.com/aspnetcore-unit-testing-xunit.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!--END: code-maze.com -->
 
 ---

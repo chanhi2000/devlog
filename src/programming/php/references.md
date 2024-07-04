@@ -7,11 +7,17 @@ category:
   - PHP
   - Referencesse
 tag: 
+  - php
   - education
   - youtube
-  - programming
-  - php
-  - laravel
+head:
+  - - meta:
+    - property: og:title
+      content: PHP > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/php/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -30,12 +36,6 @@ tag:
 
 - [$this vs parent vs self vs static](https://medium.com/@erlandmuchasaj/this-vs-parent-vs-self-vs-static-2e1e89a42dca)
 - [PHPMD: A PHP Code Smells Detector](https://mprtmma.medium.com/phpmd-a-php-code-smells-detector-d9c014d212a6)
-
----
-
-## Fly.io
-
-- [Full Stack Laravel](https://fly.io/laravel-bytes/full-stack-laravel)
 
 ---
 
@@ -131,12 +131,6 @@ tag:
 ## ha-ah
 
 - [PHP Annotated – October 2020](https://haah.kr/2020/10/24/php-annotated-october-2020/?)
-
----
-
-## Welcome to msamgan.com
-
-- [Laravel whereJsonContains and WhereJsonOverlaps eloquent methods.](https://msamgan.com/laravel-wherejsoncontains-and-wherejsonoverlaps-eloquent-methods)
 
 ---
 

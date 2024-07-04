@@ -178,8 +178,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-dart'
       }, {
         text: 'php',
-        link: '/programming/php/README.md',
-        icon: 'fa-brands fa-php'
+        children: [
+          '/programming/php/README.md',
+          '/programming/php-laravel/README.md',         
+        ]        
       }, {
         text: 'Ruby',
         link: '/programming/ruby/README.md',
@@ -649,6 +651,7 @@ export const navbarEn = navbar([
           '/ai/openai/README.md',
           '/ai/gemini/README.md',
           '/ai/claude/README.md',
+          '/ai/langchain/README.md',
         ]
       }, 
     ]

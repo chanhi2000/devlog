@@ -213,6 +213,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Consuming a GraphQL API with Angular",
+  "desc": "In this article, we will show you how to use Angular to Consume a GraphQL API. We will see how to setup the Apollo library to help us in the process.",
+  "link": "/explore/articles/code-maze.com/consuming-graphql-api-angular.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

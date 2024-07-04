@@ -61,7 +61,7 @@ import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
 
 suspend fun main(): Unit = withTimeoutOrNull(3000) {
-    val sf = MutableSharedFlow&lt;String&gt;(replay = 1)
+    val sf = MutableSharedFlow<String>(replay = 1)
     sf.emit("Message-1")
     sf.emit("Message0")
     sf.onEach { println("#1 $it") }.launchIn(this)
@@ -141,7 +141,7 @@ Second, StateFlow is conflated, meaning if observer is slower than value changes
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
 
-suspend fun main(): Unit = withTimeoutOrNull(3000) {
+suspend fun main() = withTimeoutOrNull(3000) {
     val state = MutableStateFlow('X')
 
     launch {
@@ -173,7 +173,7 @@ StateFlow also have some tools for state update, like update function, that lets
 ```kotlin
 import kotlinx.coroutines.*
 
-suspend fun main(): Unit = withTimeoutOrNull(3000) {
+suspend fun main() = withTimeoutOrNull(3000) {
     val sf = MutableStateFlow(0)
 
     coroutineScope {
@@ -211,15 +211,15 @@ Now let's see a backend example. On a backend service, updates received from som
 
 ```kotlin
 class InventoryService {
-    private val inventoryState = MutableStateFlow&lt;InventoryState&gt;(InventoryState.Loading)
-    private val inventoryEvents = MutableSharedFlow&lt;InventoryEvent&gt;()
+    private val inventoryState = MutableStateFlow<InventoryState>(InventoryState.Loading)
+    private val inventoryEvents = MutableSharedFlow<InventoryEvent>()
     
     // ...
 }
 
 class StatusTrackingService {
     val activeConnections = MutableStateFlow(0)
-    val highTrafficEvents = MutableSharedFlow&lt;Int&gt;()
+    val highTrafficEvents = MutableSharedFlow<Int>()
     
     // ...
 }

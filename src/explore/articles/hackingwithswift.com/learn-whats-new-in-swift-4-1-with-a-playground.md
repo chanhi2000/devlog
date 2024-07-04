@@ -50,7 +50,34 @@ cover: https://hackingwithswift.com/uploads/swift-evolution-4.jpg
   logo="https://hackingwithswift.com/favicon.svg"
   preview="https://hackingwithswift.com/uploads/swift-evolution-4.jpg"/>
 
-<!-- TODO: 작성 -->
+![](https://hackingwithswift.com/uploads/swift-evolution-4.jpg)
+
+Previously I wrote about [the new features in Swift 4.1](/explore/articles/hackingwithswift.com/articles/hackingwithswift.com/whats-new-in-swift-4-1.md), but it's a lot more fun to see things in action and experiment yourself.
+
+So, I just released an Xcode playground that demonstrates the new features introduced in Swift 4.1, complete with examples that I hope make them easy to understand and apply in your own work:
+
+- Synthesized `Equatable` and `Hashable`
+- Key decoding strategy in `Codable`
+- Conditional conformances
+- Recursive constraints on associated types
+- Build configuration import testing
+- Target environment testing
+- `flatMap()` is now (partly) `compactMap()`
+
+::: info
+
+The playground is available on GitHub, so I hope you'll try it for yourself: 
+
+<SiteInfo
+  name="twostraws/whats-new-in-swift-4-1"
+  desc="An Xcode playground that demonstrates the new features introduced in Swift 4.1."
+  url="https://github.com/twostraws/whats-new-in-swift-4-1"
+  logo="https://avatars.githubusercontent.com/u/190200?v=4"
+  preview="https://opengraph.githubassets.com/a1360816631948796d3ae3ce271ac76ac99dcc4f3cf734118570cd9f7755009e/twostraws/whats-new-in-swift-4-1"/>
+
+:::
+
+I should add that the task of building this playground was made much easier thanks to previous work done by [<FontIcon icon="fa-brands fa-x-twitter"/>Ole Begemann](https://x.com/olebegemann).
 
 ---
 

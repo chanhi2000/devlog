@@ -5639,5 +5639,10 @@
     "desc": "0x.Tools: Always-on Profiling for Production Systems",
     "officialSite": "https://0x.tools",
     "topics": ["linux", "performance", "troubleshooting"]
+  }, {
+    "repo": "buoyancy99/diffusion-forcing",
+    "desc": "code for \"Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion\"",
+    "officialSite": "",
+    "topics": []
   }
 ]

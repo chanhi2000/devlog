@@ -358,6 +358,12 @@ tag:
 
 ---
 
+## Firezone: Zero trust access that scales
+
+- [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />

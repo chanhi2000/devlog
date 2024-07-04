@@ -808,7 +808,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 }
 ```
 
-
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 5.4 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-5-3-to-5-4.playground.zip)
 
 :::

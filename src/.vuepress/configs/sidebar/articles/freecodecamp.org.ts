@@ -37,6 +37,7 @@ export const template: SidebarInfoTemplate = {
       "scope-closures-and-hoisting-in-javascript", // 2024-06-26
       "how-to-change-background-color-with-javascript", // 2024-06-28
       "javascript-gamedev-with-kaboomjs", // 2024-06-28
+      "how-to-use-callback-functions-in-javascript", // 2024-07-03
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024-03-28
@@ -412,6 +413,7 @@ export const template: SidebarInfoTemplate = {
       "react-19-actions-simpliy-form-submission-and-loading-states", // 2024-07-02
       "how-data-flows-in-redux", // 2024-07-03
       "build-a-meditation-app-with-react-native-expo-router", // 2024-07-03
+      "how-to-use-callback-functions-in-javascript", // 2024-07-03
     ]],
   ]),
 }
