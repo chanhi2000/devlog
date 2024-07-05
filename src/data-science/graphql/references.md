@@ -77,5 +77,12 @@ head:
 
 - ["API를 위한 유연한 쿼리 언어" 그래프QL 제대로 시작하기](https://itworld.co.kr/news/343305)
 
+---
+
+## Alex Reichert
+
+- [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
+
+---
 
 <TagLinks />

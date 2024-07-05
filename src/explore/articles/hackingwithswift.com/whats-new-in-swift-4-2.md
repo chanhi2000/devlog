@@ -53,7 +53,7 @@ cover: https://hackingwithswift.com/uploads/swift-evolution-2.jpg
 
 Swift 4.2 is the second minor release of Swift 4, and brings with it another raft of awesome improvements – this is turning out to be an incredible year for Swift, and yet more validation that the community-driven Swift Evolution process is helping make a great language even better.
 
-This time we’re getting features such as enum case arrays, warning and error compiler directives, dynamic member look up, and more, all of which come on top of the new features introduced in Swift 4.1 – check out my article [what's new in Swift 4.1](/explore/articles/hcakingwithswift.com/whats-new-in-swift-4-1.md) if you missed those changes. You might also want to look ahead to see [what's new in Swift 5.0](/explore/articles/hcakingwithswift.com/whats-new-in-swift-5-0.md), because that introduces raw strings, `count(where:)`, `isMultiple(of:)`, and more.
+This time we’re getting features such as enum case arrays, warning and error compiler directives, dynamic member look up, and more, all of which come on top of the new features introduced in Swift 4.1 – check out my article [what's new in Swift 4.1](/explore/articles/hackingwithswift.com/whats-new-in-swift-4-1.md) if you missed those changes. You might also want to look ahead to see [what's new in Swift 5.0](/explore/articles/hackingwithswift.com/whats-new-in-swift-5-0.md), because that introduces raw strings, `count(where:)`, `isMultiple(of:)`, and more.
 
 ::: info Try it yourself
 

@@ -264,6 +264,7 @@ head:
 - [\[내일배움캠프 43일차 TIL\] 테스트 활용 과제 재제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-43%EC%9D%BC%EC%B0%A8-TIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%9E%AC%EC%A0%9C%EC%B6%9C)
 - [\[내일배움캠프 9주차 WIL\] 뉴스피드 프로젝트 마무리 및 Spring 심화(개인과제) 그리고 독서토론](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-9%EC%A3%BC%EC%B0%A8-WIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-Spring-%EC%8B%AC%ED%99%94%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
 - [\[내일배움캠프 46일차 TIL\] 인가 분리와 좋아요 `Transaction` 및 `builder` vs 생성자](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-46%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B8%EA%B0%80-%EB%B6%84%EB%A6%AC%EC%99%80-%EC%A2%8B%EC%95%84%EC%9A%94-Transaction-%EB%B0%8F-builder-vs-%EC%83%9D%EC%84%B1%EC%9E%90)
+- [\[내일배움캠프 56일차 TIL\] 마지막 개인과제 제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-56%EC%9D%BC%EC%B0%A8-TIL-%EB%A7%88%EC%A7%80%EB%A7%89-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C)
 
 ### Hide
 
@@ -375,6 +376,7 @@ head:
 - [6.6. 컨트롤러에 서비스 객체 추가하기](https://ysedeveloper.tistory.com/m/entry/66-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EC%97%90-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9D%EC%B2%B4-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [6.7. 책 입력 컨트롤러 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/67-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [6.8. 책 입력 기능 확인하기](https://ysedeveloper.tistory.com/m/entry/68-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+- [6.9. 패키지 정리하기](https://ysedeveloper.tistory.com/m/entry/69-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0)
 
 ### Suhwan Jee's blog
 

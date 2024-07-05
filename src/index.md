@@ -6,7 +6,7 @@ icon: home
 heroText: chanhi2000
 heroFullScreen: true
 tagline: My Personal Mindmap
-bgImage: https://github.com/chanhi2000/chanhi2000/raw/main/imgs/coderman.gif
+bgImage: /images/code-monkey.gif
 heroImage: https://avatars.githubusercontent.com/u/6296241?v=4
 projects:
   - name: Projects

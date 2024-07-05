@@ -1045,4 +1045,10 @@ https://o-yeon.tistory.com/227
 
 ---
 
+## Alex Reichert
+
+- [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
+
+---
+
 <TagLinks />

@@ -846,6 +846,10 @@ tag:
 
 - [인프런 - 코틀린 고급편 (3) 함수형 프로그래밍 활용](https://jinn-blog.tistory.com/m/163)
 
+### 사바라다는 차곡차곡
+
+- [Kotlin Coroutine에서의 TraceId는 어떻게 주입하나 ? - Context 전파와 MDCContext](https://sabarada.tistory.com/m/266)
+
 ---
 
 <TagLinks />

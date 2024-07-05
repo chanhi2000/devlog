@@ -143,6 +143,8 @@ tag:
 - [`@jpmtech` / Dice Challenge in SwiftUI](https://medium.com/@jpmtech/dice-challenge-in-swiftui-a26c82ac1367)
 - [`jamf-engineering` / Swift 6 upgrade Preparation](https://medium.com/jamf-engineering/swift-6-upgrade-preparation-0941fbea2db6)
 - [`donggyu9410` / Swift Protocol](https://donggyu9410.medium.com/swift-protocol-63408ee8b819?source=rss-72a3dab9ff43------2)
+- [`donggyu9410` / SwiftUI 프로젝트에 Swinject 적용하기](https://donggyu9410.medium.com/swiftui-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-swinject-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-3408a0f781fa?source=rss-72a3dab9ff43------2)
+- [`donggyu9410` / iOS에서 Deep Link 와 Universal Link 의 차이점](https://donggyu9410.medium.com/ios%EC%97%90%EC%84%9C-deep-link-%EC%99%80-universal-link-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-5e3863fe5364?source=rss-72a3dab9ff43------2)
 
 ---
 

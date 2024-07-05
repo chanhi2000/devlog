@@ -449,5 +449,10 @@
     "desc": "An educational dungeon crawler in the shell",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "GaiaNet-AI/gaianet-node",
+    "desc": "Install and run your own AI agent service",
+    "officialSite": "https://www.gaianet.ai/",
+    "topics": []
   }
 ]

@@ -53,6 +53,7 @@ head:
 ## Linux Programmer
 
 - [인텔 N100 미니PC (SZBOX W6)](https://sunyzero.tistory.com/295)
+- [M.2 NVMe Enclosure - USB4 외장 인클로저 Maiwo K1625](http://sunyzero.tistory.com/m/299)
 
 ---
 

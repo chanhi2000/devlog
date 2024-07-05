@@ -256,6 +256,7 @@ export const sidebarEn = sidebar({
             asb.droidcon("java-android"),
             asb.ktAcademy("kotlin-android"),
             asb.nhn("java-android"),
+            asb.d2("java-android"),
             asb.banksalad("java-android"),
             asb.gangnamunni("java-android"),
             asb.antonioleiva("kotlin-android"),
@@ -1750,6 +1751,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/figma/articles/README.md',
+            asb.d2("figma"),
             asb.kakaoTech("figma"),
           ]
         }
@@ -3116,6 +3118,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("llm"),
             asb.yozm("llm"),
             asb.kurly("llm"),
+            asb.d2("llm"),
           ]
         }
       ]

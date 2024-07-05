@@ -52,7 +52,7 @@ cover: https://hackingwithswift.com/uploads/swift-evolution-4.jpg
 
 ![](https://hackingwithswift.com/uploads/swift-evolution-4.jpg)
 
-Previously I wrote about [the new features in Swift 4.1](/explore/articles/hackingwithswift.com/articles/hackingwithswift.com/whats-new-in-swift-4-1.md), but it's a lot more fun to see things in action and experiment yourself.
+Previously I wrote about [the new features in Swift 4.1](/explore/articles/hackingwithswift.com/whats-new-in-swift-4-1.md), but it's a lot more fun to see things in action and experiment yourself.
 
 So, I just released an Xcode playground that demonstrates the new features introduced in Swift 4.1, complete with examples that I hope make them easy to understand and apply in your own work:
 

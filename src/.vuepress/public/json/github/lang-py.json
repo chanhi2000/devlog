@@ -1,4 +1,3 @@
-
 [
   {
     "repo": "OpenBapul/hml-equation-parser",
@@ -5664,5 +5663,25 @@
     "desc": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
     "officialSite": "https://github.com/microsoft/graphrag",
     "topics": []
+  }, {
+    "repo": "KwaiVGI/LivePortrait",
+    "desc": "Make one portrait alive!",
+    "officialSite": "https://liveportrait.github.io",
+    "topics": []
+  }, {
+    "repo": "mathialo/bython",
+    "desc": "Python with braces. Because python is awesome, but whitespace is awful.",
+    "officialSite": "",
+    "topics": ["braces", "bython", "indentation", "python", "whitespace"]
+  }, {
+    "repo": "ElliotKillick/rss2newsletter",
+    "desc": "Convert RSS/Atom feed to email newsletters",
+    "officialSite": "https://news.ycombinator.com/item?id=40898313",
+    "topics": ["amazon-ses", "atom-feed", "automation", "blog", "cli", "feed", "fully-automated", "listmonk-api", "mailchimp", "minimal", "minimalist", "newsletter", "rss", "rss-feed", "rss2email", "rss2newsletter", "sendy", "sendy-newsletter"]
+  }, {
+    "repo": "Xpra-org/xpra",
+    "desc": "Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.",
+    "officialSite": "https://xpra.org/",
+    "topics": ["network-access", "remote-app", "remote-desktop"]
   }
 ]

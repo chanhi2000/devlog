@@ -1249,6 +1249,146 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Data Shaping in ASP.NET Core Web API",
+  "desc": "In this article, we are going to talk about a neat concept called data shaping and how to implement it in ASP.NET Core Web API.",
+  "link": "/explore/articles/code-maze.com/data-shaping-aspnet-core-webapi.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Implement Sorting in ASP.NET Core Web API",
+  "desc": "In this article, we're going to talk about sorting in ASP.NET Core Web API. Sorting is a commonly used mechanism, that every API should implement.",
+  "link": "/explore/articles/code-maze.com/sorting-aspnet-core-webapi.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Searching in ASP.NET Core Web API",
+  "desc": "In this article, we're going to tackle the topic of searching in ASP.NET Core Web API and combine it with the paging and filtering",
+  "link": "/explore/articles/code-maze.com/searching-aspnet-core-webapi.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Filtering in ASP.NET Core Web API",
+  "desc": "In this article, we will cover filtering in ASP.NET Core Web API. We'll learn what filtering is, how it's different from searching, and how to implement it.",
+  "link": "/explore/articles/code-maze.com/filtering-aspnet-core-webapi.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Protecting Data with IDataProtector in ASP.NET Core",
+  "desc": "In this article, we are going to learn how to use IDataProtector to protect the sensitive data in the ASP.NET Core application.",
+  "link": "/explore/articles/code-maze.com/data-protection-aspnet-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Paging in ASP.NET Core Web API",
+  "desc": "In this article, we're going to learn how to implement paging in ASP.NET Core Web API project with detailed examples and improvements.",
+  "link": "/explore/articles/code-maze.com/paging-aspnet-core-webapi.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "System Testing a REST API using C# and DalSoft Rest Client",
+  "desc": "In this post, we're going to cover the recent extensions to the DalSoft RestClient library which allows you to easily test a REST API using C#",
+  "link": "/explore/articles/code-maze.com/system-testing-rest-api-dalsoft-restclient.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Configuring and Using Swagger UI in ASP.NET Core Web API",
+  "desc": "We are going to learn how to integrate the Swagger UI/OpenAPI in an ASP.NET Core Web API, extend the documentation, and customize UI.",
+  "link": "/explore/articles/code-maze.com/swagger-ui-asp-net-core-web-api.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting Started with AutoMapper in ASP.NET Core",
+  "desc": "we are going to learn how to use the AutoMapper in a .NET Core application. We will look into what the AutoMapper is and what problem it solves.",
+  "link": "/explore/articles/code-maze.com/automapper-net-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Differences Between .NET Framework, .NET Core, and .NET Standard",
+  "desc": "The .NET Framework and .NET Core are implementions of .NET whereas .NET Standard is not an implmention rather it's a specification.",
+  "link": "/explore/articles/code-maze.com/differences-between-net-framework-net-core-and-net-standard.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Automated UI Tests with Selenium and ASP.NET Core",
+  "desc": "In this article, we are going to learn how to write automated UI tests for the ASP.NET Core application with the Selenium library.",
+  "link": "/explore/articles/code-maze.com/selenium-aspnet-core-ui-tests.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Include AntiForgeryToken for MVC Integration Testing",
+  "desc": "In this post, we are going to learn how to include AntiForgeryToken for Integration Testing and how to register it in the IServiceCollection.",
+  "link": "/explore/articles/code-maze.com/aspnet-core-testing-anti-forgery-token.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Integration Testing in ASP.NET Core",
+  "desc": "We are going to learn about Integration testing in ASP.NET Core, and how to use WebApplicationFactory class that helps in the process.",
+  "link": "/explore/articles/code-maze.com/aspnet-core-integration-testing.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Testing Controllers with Unit Tests and Moq in ASP.NET Core",
+  "desc": "In this article, we are going to talk about unit testing controllers by using the Moq library, which enables us to isolate dependencies.",
+  "link": "/explore/articles/code-maze.com/unit-testing-controllers-aspnetcore-moq.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!--END: code-maze.com -->
 
 ---

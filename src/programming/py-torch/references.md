@@ -52,6 +52,7 @@ head:
 ## Brunch
 
 - [`@1aft` / PyTorch 쓰세요(5). - #VAE #CONV #MNIST](https://brunch.co.kr/@@1aft/132)
+- [`@1aft` / PyTorch 쓰세요(6). - #GEOMETRIC #REC_SYSTEM](https://brunch.co.kr/@@1aft/133)
 
 ---
 
@@ -72,5 +73,7 @@ head:
 - [PyTorch Memory Tuning](https://paulbridger.com/posts/pytorch-memory-tuning/)
 
 ---
+
+
 
 <TagLinks />

@@ -242,18 +242,20 @@ tag:
 
 ## 이모저모 개발 블로그
 
-- [[WPF] `ListView`와 `SelectedItem`](https://hj0216.tistory.com/901)
-- [[WPF] `ListView`와 `ItemsSource`](https://hj0216.tistory.com/900)
-- [[WPF] MVVM Scroll 동작 구현](https://hj0216.tistory.com/908)
-- [[WPF] `MaterialDesignTheme` 적용](https://hj0216.tistory.com/911)
-- [[WPF] `WebView2`와 동영상](https://hj0216.tistory.com/910)
-- [[WPF] Static Resource와 Dynamic Resource](https://hj0216.tistory.com/912)
-- [[WPF] 한글 Encoding ANSI / UTF8](https://hj0216.tistory.com/913)
-- [[WPF] 생성자 Override](https://hj0216.tistory.com/914)
-- [[WPF] 생성자 Overloading (2)](https://hj0216.tistory.com/916)
-- [[WPF] View, ViewModel Singleton](https://hj0216.tistory.com/917)
-- [[WPF] MVVM 패턴에서의 전체 선택](https://hj0216.tistory.com/919)
+- [\[WPF\] `ListView`와 `SelectedItem`](https://hj0216.tistory.com/901)
+- [\[WPF\] `ListView`와 `ItemsSource`](https://hj0216.tistory.com/900)
+- [\[WPF\] MVVM Scroll 동작 구현](https://hj0216.tistory.com/908)
+- [\[WPF\] `MaterialDesignTheme` 적용](https://hj0216.tistory.com/911)
+- [\[WPF\] `WebView2`와 동영상](https://hj0216.tistory.com/910)
+- [\[WPF\] Static Resource와 Dynamic Resource](https://hj0216.tistory.com/912)
+- [\[WPF\] 한글 Encoding ANSI / UTF8](https://hj0216.tistory.com/913)
+- [\[WPF\] 생성자 Override](https://hj0216.tistory.com/914)
+- [\[WPF\] 생성자 Overloading (2)](https://hj0216.tistory.com/916)
+- [\[WPF\] View, ViewModel Singleton](https://hj0216.tistory.com/917)
+- [\[WPF\] MVVM 패턴에서의 전체 선택](https://hj0216.tistory.com/919)
 - [\[WPF\] 생성자 단위 초기화와 필드 단위 초기화](https://hj0216.tistory.com/920)
+- [\[WPF\] Dependency Property](https://hj0216.tistory.com/m/925)
+- [\[C#\] 간단한 TCPServer 및 TCPClient 구현](https://hj0216.tistory.com/m/926)
 
 ---
 

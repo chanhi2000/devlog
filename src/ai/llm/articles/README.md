@@ -12,6 +12,7 @@ tag:
   - freecodecamp.org
   - yozm.wishket.com
   - helloworld.kurly.com
+  - d2.naver.com
   - ai
   - llm
 head:
@@ -49,6 +50,13 @@ head:
   url="https://helloworld.kurly.com/"
   logo="https://helloworld.kurly.com/assets/logo/ico_192.png"
   preview="http://thefarmersfront.github.io/assets/logo-square.png"/>
+
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  lokafka="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -125,6 +133,24 @@ head:
 ```
 
 <!-- END: helloworld.kurly.com -->
+
+---
+
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+
+> d2.naver.com
+
+```component VPCard
+{
+  "title": "Writing Path: MBTI J처럼 체계적으로 글쓰는 AI | NAVER D2",
+  "desc": "Writing Path: MBTI J처럼 체계적으로 글쓰는 AI",
+  "link": "/explore/articles/d2.naver.com/8011540.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(17,168,89,0.2)"
+}
+```
+
+<!-- END: d2.naver.com -->
 
 ---
 

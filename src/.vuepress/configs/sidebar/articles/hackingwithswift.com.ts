@@ -5,12 +5,17 @@ export const template: SidebarGroupItem = {
     collapsible: true,
     icon: 'https://hackingwithswift.com/favicon.svg',
     children: [
-      '/explore/articles/hackingwithswift.com/swift4.md',
+      '/explore/articles/hackingwithswift.com/swift3.md', // 2016-06-13
+      '/explore/articles/hackingwithswift.com/whats-new-in-ios-11.md', // 2016-06-20
+      '/explore/articles/hackingwithswift.com/swift3-1.md', // 2017-01-26
+      '/explore/articles/hackingwithswift.com/swift4.md', // 2017-06-05
       '/explore/articles/hackingwithswift.com/swift-4-1-improves-codable-with-keydecodingstrategy.md', // 2018-02-05
       '/explore/articles/hackingwithswift.com/learn-whats-new-in-swift-4-1-with-a-playground.md', // 2018-04-04
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-4-1.md', // 2018-06-13
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-4-2.md', // 2018-12-17
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-5-0.md', // 2019-03-28
+      '/explore/articles/hackingwithswift.com/how-to-use-dynamic-member-lookup-in-swift.md', // 2019-03-29
+      '/explore/articles/hackingwithswift.com/whats-new-in-swift-5-1.md', // 2019-09-18
       '/explore/articles/hackingwithswift.com/new-syntax-swift-2-availability-checking.md', // 2019-09-23
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
       '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2023-06-23

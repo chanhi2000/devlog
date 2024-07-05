@@ -50,6 +50,7 @@ head:
 ## 우아한 기술블로그
 
 - [셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기](/explore/articles/techblog.woowahan.com/16044.md)
+- [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2530.md) -->
 
 ---
 
@@ -108,12 +109,6 @@ head:
 ## InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공
 
 - [Git 커밋 메시지 자동화 가이드](https://insight.infograb.net/blog/2023/05/25/git-commit-automation)
-
----
-
-## 우아한 기술블로그
-
-- [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530)
 
 ---
 
@@ -370,6 +365,12 @@ head:
 ## 재우니의 블로그
 
 - [GitHub : Branch 위치에서 Main 코드를 merge 하고, 원격지 push 하기](https://aspdotnet.tistory.com/m/3226)
+
+---
+
+## 기계인간 John Grib
+
+- [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
 
 ---
 

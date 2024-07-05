@@ -69,7 +69,7 @@ brew tap mac-cleanup/mac-cleanup-py; # mac-cleanup-py
 # Install formula
 brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   cheat cocoapods exiftool ffmpeg fizz flac git \
-  hyperfine mas fastfetch nushell nvm openssl pixman \
+  hyperfine mas fastfetch nushell fnm openssl pixman \
   python rust scrcpy starship tmux tokei watchman \
   wget xz zsh mac-cleanup-py;
 
@@ -227,7 +227,7 @@ mkdir -p ~/.config && touch ~/.config/starship.toml;
 
 ```sh
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/nvm:$PATH
+export PATH=$HOME/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/fnm:$PATH
 # for Rancher Desktop
 export DOCKER_HOST=unix:///var/run/docker.sock
 

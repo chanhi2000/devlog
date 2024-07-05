@@ -194,6 +194,7 @@ head:
 - [`@jeong_hun_hui` / 트랜잭션은 어떻게 데이터 시스템의 문제들을 해결할까? (feat. ACID)](https://velog.io/@jeong_hun_hui/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%AC%B8%EC%A0%9C%EB%93%A4%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%95%A0%EA%B9%8C-feat.-ACID)
 - [`@joshuara7235` / 테스트코드를 모르던 내게 찾아온 TDD](https://velog.io/@joshuara7235/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AA%A8%EB%A5%B4%EB%8D%98-%EB%82%B4%EA%B2%8C-%EC%B0%BE%EC%95%84%EC%98%A8-TDD)
 - [`@kwonhl0211` / 앞으로 제품 디자인은 어떻게 바뀔까? 멀티모달 프로덕트와 생성형 UI에 대한 생각 정리](https://velog.io/@kwonhl0211/%EC%95%9E%EC%9C%BC%EB%A1%9C-%EC%A0%9C%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EB%80%94%EA%B9%8C-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%99%80-%EC%83%9D%EC%84%B1%ED%98%95-UI%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-%EC%A0%95%EB%A6%AC)
+- [`@joshuara7235` / 좋은 코드를 위해서는 좋은 설계가 우선되어야 한다.](https://velog.io/@joshuara7235/%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%B4%EC%84%9C%EB%8A%94-%EC%A2%8B%EC%9D%80-%EC%84%A4%EA%B3%84%EA%B0%80-%EC%9A%B0%EC%84%A0%EB%90%98%EC%96%B4%EC%95%BC-%ED%95%9C%EB%8B%A4)
 
 ---
 
@@ -613,6 +614,12 @@ head:
 ## Casey Primozic's Homepage
 
 - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
+
+---
+
+## 복세편살
+
+- [시스템 설계 스터디 진행기](https://americanopeople.tistory.com/m/456)
 
 ---
 

@@ -53,7 +53,7 @@ tag:
 ```
 
 <SiteInfo
-  name="Until"
+  name="üntil"
   desc="성장하는 사람들을 위한 블로그 서비스. 다른 사람들과 함께 성장해요."
   url="https://until.blog/"
   logo="https://until.blog/favicon.ico"
@@ -1612,7 +1612,7 @@ https://woowacon.com/presentations
 
 ::: details <FontIcon icon="iconfont icon-github"/>kilimchoi/engineering-blogs
 
-<!-- @include: ./simple-icons.md -->
+<!-- @include: ./engineering-blogs.md -->
 
 :::
 

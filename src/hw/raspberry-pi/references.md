@@ -39,4 +39,10 @@ head:
 
 ---
 
+## Noam Zeise
+
+- [A Mini Monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
+
+---
+
 <TagLinks />

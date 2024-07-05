@@ -49,4 +49,10 @@ tag:
 
 ---
 
+## Easy to analyze if you are really curious about data
+
+- [for loop test](https://kangmyounghun.blogspot.com/2024/07/pipe-redirection.html)
+
+---
+
 <TagLinks />

@@ -467,6 +467,7 @@ tag:
 - [헛똑똑이들](https://www.thestartupbible.com/2024/06/cynics-sound-smart-but-vcs-have-to-be-optimists.html)
 - [관계 건설](https://www.thestartupbible.com/2024/05/the-relationship-building.html)
 - [다시 본질로](https://www.thestartupbible.com/2024/07/back-to-the-basics.html)
+- [가장 중요한 점수](https://www.thestartupbible.com/2024/07/the-most-important-point-is-the-point-you-are-playing-right-now.html)
 
 ---
 
@@ -850,6 +851,7 @@ tag:
 - [리더십의 커뮤니케이션 – 완벽하지 않음의 인정](http://www.chidoo.me/index.php/2024/06/09/vulnerability-of-leadership/)
 - [리더십의 커뮤니케이션 – 대화하기](http://www.chidoo.me/index.php/2024/06/15/dialog-by-asking-and-listening-in-leadership/)
 - [리더십의 리더 – Lead와 Leader](http://www.chidoo.me/index.php/2024/06/23/lead-vs-leader-in-leadership/)
+- [리더십의 리더 – 같음과 다름](http://www.chidoo.me/index.php/2024/07/07/equality-and-inequality-in-leadership/)
 
 ---
 

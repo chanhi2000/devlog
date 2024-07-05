@@ -137,7 +137,7 @@ Copy and Paste the following to the Powershell Prompt
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode flameshot `
     dbeaver googlechrome fiddler windirstat 7zip `
-    procexp scrcpy nvm rancher-desktop temurin11 temurin11 `
+    procexp scrcpy fnm rancher-desktop temurin11 temurin11 `
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal `
     twinkle-tray wingetui wiztree rust
 ```
@@ -148,7 +148,7 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir ^
     sharex speccy sublimemerge sublimetext4 vlc vscode flameshot^
     dbeaver googlechrome fiddler windirstat 7zip ^
-    procexp scrcpy nvm rancher-desktop temurin11 temurin11 ^
+    procexp scrcpy fnm rancher-desktop temurin11 temurin11 ^
     intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal ^
     twinkle-tray wingetui wiztree rust
 ```

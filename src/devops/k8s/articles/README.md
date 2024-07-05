@@ -705,6 +705,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Kubernetes에서 DNS 다루는 방법 - 도메인을 찾아서 | NAVER D2",
+  "desc": "Kubernetes에서 DNS 다루는 방법 - 도메인을 찾아서",
+  "link": "/explore/articles/d2.naver.com/2905424.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
 <!-- END: d2.naver.com -->
 
 ---

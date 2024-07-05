@@ -80,7 +80,6 @@ export const template: SidebarInfoTemplate = {
       "angular-material-error-details-pages", // 2021-01-27
       "angular-material-form-validation", // 2021-06-23
       "asp-net-core-web-api-with-ef-core-db-first-approach", // 2024-01-31
-      "csharp-getting-property-mappings-from-automapper", // 2024-04-21
       "netcore-signalr-angular-realtime-charts", // 2022-05-05
       "consuming-github-api-rest-with-flurl", // 2024-02-05
       "upload-files-dot-net-core-angular", // 2024-01-31
@@ -122,6 +121,21 @@ export const template: SidebarInfoTemplate = {
       "efcore-modifying-data", // 2022-01-13
       "configure-postgresql-ef-core", // 2022-01-13
       "aspnetcore-unit-testing-xunit", // 2022-02-21
+      "data-shaping-aspnet-core-webapi", // 2022-09-09
+      "sorting-aspnet-core-webapi", // 2022-01-12
+      "searching-aspnet-core-webapi", // 2022-01-12
+      "filtering-aspnet-core-webapi", // 2022-12-22
+      "data-protection-aspnet-core", // 2022-01-12
+      "paging-aspnet-core-webapi", // 2023-11-28
+      "system-testing-rest-api-dalsoft-restclient", // 2024-04-04
+      "swagger-ui-asp-net-core-web-api", // 2022-01-12
+      "automapper-net-core", // 2024-03-13
+      "differences-between-net-framework-net-core-and-net-standard", // 2022-01-12
+      "selenium-aspnet-core-ui-tests", // 2024-01-31
+      "aspnet-core-testing-anti-forgery-token", // 2024-01-31
+      "aspnet-core-integration-testing", // 2024-01-31
+      "unit-testing-controllers-aspnetcore-moq", // 2024-01-31
+      "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]],[
     "js-angular", [
       "net-core-web-development-part7", // 2022-04-20
@@ -256,7 +270,6 @@ export const template: SidebarInfoTemplate = {
       "angular-material-error-details-pages", // 2021-01-27
       "angular-material-form-validation", // 2021-06-23
       "asp-net-core-web-api-with-ef-core-db-first-approach", // 2024-01-31
-      "csharp-getting-property-mappings-from-automapper", // 2024-04-21
       "netcore-signalr-angular-realtime-charts", // 2022-05-05
       "consuming-github-api-rest-with-flurl", // 2024-02-05
       "upload-files-dot-net-core-angular", // 2024-01-31
@@ -300,6 +313,21 @@ export const template: SidebarInfoTemplate = {
       "efcore-modifying-data", // 2022-01-13
       "configure-postgresql-ef-core", // 2022-01-13
       "aspnetcore-unit-testing-xunit", // 2022-02-21
+      "data-shaping-aspnet-core-webapi", // 2022-09-09
+      "sorting-aspnet-core-webapi", // 2022-01-12
+      "searching-aspnet-core-webapi", // 2022-01-12
+      "filtering-aspnet-core-webapi", // 2022-12-22
+      "data-protection-aspnet-core", // 2022-01-12
+      "paging-aspnet-core-webapi", // 2023-11-28
+      "system-testing-rest-api-dalsoft-restclient", // 2024-04-04
+      "swagger-ui-asp-net-core-web-api", // 2022-01-12
+      "automapper-net-core", // 2024-03-13
+      "differences-between-net-framework-net-core-and-net-standard", // 2022-01-12
+      "selenium-aspnet-core-ui-tests", // 2024-01-31
+      "aspnet-core-testing-anti-forgery-token", // 2024-01-31
+      "aspnet-core-integration-testing", // 2024-01-31
+      "unit-testing-controllers-aspnetcore-moq", // 2024-01-31
+      "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])
 }

@@ -45,6 +45,11 @@ tag:
 
 - [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 
+---
+
+## 기계인간 John Grib
+
+- [웹 브라우저 이것저것](https://johngrib.github.io/wiki/tool/web-browser/)
 
 ---
 

@@ -496,6 +496,36 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 기초 타입 이론 | NAVER D2",
+  "desc": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 기초 타입 이론",
+  "link": "/explore/articles/d2.naver.com/9283310.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 고급 타입 추론 | NAVER D2",
+  "desc": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 고급 타입 추론",
+  "link": "/explore/articles/d2.naver.com/3713986.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 응용 문제 | NAVER D2",
+  "desc": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 응용 문제",
+  "link": "/explore/articles/d2.naver.com/5088940.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(54,235,127,0.2)"
+}
+```
+
 <!-- END: d2.naver.com -->
 
 ---

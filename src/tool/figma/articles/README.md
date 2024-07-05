@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - d2.naver.com
   - tech.kakao.com
   - design
   - figma
@@ -24,6 +25,13 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  lokafka="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
+
 ```component VPCard
 {
   "title": "카카오테크, 미래의 문턱을 낮추는 기술",
@@ -35,6 +43,34 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+
+> d2.naver.com
+
+```component VPCard
+{
+  "title": "DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose | NAVER D2",
+  "desc": "DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose",
+  "link": "/explore/articles/d2.naver.com/0623656.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(17,168,89,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "디자인시스템을 개발에서 적용 하는법 | NAVER D2",
+  "desc": "디자인시스템을 개발에서 적용 하는법",
+  "link": "/explore/articles/d2.naver.com/7030870.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(17,168,89,0.2)"
+}
+```
+
+<!-- END: d2.naver.com -->
 
 ---
 

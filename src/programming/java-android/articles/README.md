@@ -17,6 +17,7 @@ tag:
   - droidcon.com
   - kt.academy
   - meetup.nhncloud.com
+  - d2.naver.com
   - blog.gangnamunni.com
   - blog.banksalad.com
   - java
@@ -87,6 +88,13 @@ head:
   "background": "rgba(76,156,227,0.2)"
 }
 ```
+
+<SiteInfo
+  name="NAVER D2"
+  desc=""
+  url="https://d2.naver.com"
+  lokafka="/images/content/d2.naver.com/favicon.ico"
+  preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 <SiteInfo
   name="강남언니 공식 블로그"
@@ -279,6 +287,8 @@ head:
 }
 ```
 
+<!-- END: droidcon.com -->
+
 ---
 
 ## kt.Academy
@@ -295,6 +305,8 @@ head:
 }
 ```
 
+<!-- END: kt.academy -->
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
@@ -310,6 +322,36 @@ head:
   "background": "rgba(76,156,227,0.2)"
 }
 ```
+
+<!-- END: meetup.nhncloud.com -->
+
+---
+
+## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+
+> d2.naver.com
+
+```component VPCard
+{
+  "title": "DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose | NAVER D2",
+  "desc": "DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose",
+  "link": "/explore/articles/d2.naver.com/0623656.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(17,168,89,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "보낼 로그가 1000개가 되는동안 겪었던 고민들 | NAVER D2",
+  "desc": "보낼 로그가 1000개가 되는동안 겪었던 고민들",
+  "link": "/explore/articles/d2.naver.com/7282210.md",
+  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "background": "rgba(17,168,89,0.2)"
+}
+```
+
+<!-- END: d2.naver.com -->
 
 ---
 
@@ -364,6 +406,8 @@ head:
   "background": "rgba(0,198,142,0.2)"
 }
 ```
+
+<!-- END: blog.banksalad.com -->
 
 ---
 

@@ -353,6 +353,7 @@ head:
 - [구글폼, 깃허브 액션 그리고 랭체인으로 AI 인플루언서 블로그 작성 간소화](https://tykimos.github.io/2024/04/13/simplifying_virtual_influencer_blog_creation_with_google_forms,_github_actions,_and_langchain/)
 - [개발자 부럽지 않은 챗GPT 프롬프트 엔지니어링 구글시트 기반으로 관리 시작하기](https://tykimos.github.io/2024/04/20/start_prompt_engineering_management_based_on_google_sheets_that_developers_will_envy/)
 - [AI 인플루언서 타이리와 함께하는 프레스터 존 전시 탐방기](https://tykimos.github.io/2024/05/21/exploring_the_prester_john_exhibition_with_ai_influencer_tyri/)
+- [ChatGPT의 시스템 프롬프트를 얻는 방법](http://tykimos.github.io/2024/07/08/how_to_get_the_system_prompt_of_chatgpt_ko/)
 
 ---
 
@@ -410,4 +411,3 @@ head:
 ---
 
 <TagLinks />
-

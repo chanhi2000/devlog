@@ -1589,5 +1589,15 @@
     "desc": "A Spotify player in the terminal with full feature parity",
     "officialSite": "",
     "topics": ["cli", "music", "music-player", "player", "rust", "spotify", "spotify-api", "spotify-tui", "terminal", "terminal-based", "tui", "vim"]
+  }, {
+    "repo": "volta-cli/volta",
+    "desc": "Volta: JS Toolchains as Code. ⚡",
+    "officialSite": "https://volta.sh",
+    "topics": ["hacktoberfest", "node", "nodejs", "package-manager"]
+  }, {
+    "repo": "pythops/impala",
+    "desc": "🛜 TUI for managing wifi on Linux.",
+    "officialSite": "",
+    "topics": ["iwd", "linux", "ratatui", "tui", "wifi"]
   }
 ]

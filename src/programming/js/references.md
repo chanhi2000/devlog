@@ -232,13 +232,13 @@ head:
 ## 코딩팩토리
 
 - [\[JavaScript\] 자바스크립트 배열 선언 및 사용법 총정리](https://coding-factory.tistory.com/m/194)
-- [[JavaScript] 자바스크립트 문자열 길이(`length`) 구하는 방법](https://coding-factory.tistory.com/m/1054)
-- [[JavaScript] 자바스크립트 문자열 특정 문자 위치 찾기(`indexOf`, `search`)](https://coding-factory.tistory.com/m/1055)
-- [[JavaScript] 자바스크립트 문자열 자르기(`substring`, `substr`, `slice`)](https://coding-factory.tistory.com/m/1056)
-- [[JavaScript] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/m/1057)
-- [[JavaScript] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/m/1062)
-- [[JavaScript] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
-- [[JavaScript] 자바스크립트 ==과 ===의 차이에 대하여](https://coding-factory.tistory.com/m/1064)
+- [\[JavaScript\] 자바스크립트 문자열 길이(`length`) 구하는 방법](https://coding-factory.tistory.com/m/1054)
+- [\[JavaScript\] 자바스크립트 문자열 특정 문자 위치 찾기(`indexOf`, `search`)](https://coding-factory.tistory.com/m/1055)
+- [\[JavaScript\] 자바스크립트 문자열 자르기(`substring`, `substr`, `slice`)](https://coding-factory.tistory.com/m/1056)
+- [\[JavaScript\] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/m/1057)
+- [\[JavaScript\] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/m/1062)
+- [\[JavaScript\] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
+- [\[JavaScript\] 자바스크립트 ==과 ===의 차이에 대하여](https://coding-factory.tistory.com/m/1064)
 - [\[JavaScript\] 자바스크립트 문자열 채우기 (`padStart`, `padEnd`)](https://coding-factory.tistory.com/m/1067)
 - [\[JavaScript\] 자바스크립트 문자열을 숫자로 형 변환하는 3가지 방법](https://coding-factory.tistory.com/m/1068)
 - [\[JavaScript\] 자바스크립트 숫자를 문자열로 형 변환하는 4가지 방법](https://coding-factory.tistory.com/1069)
@@ -252,6 +252,7 @@ head:
 - [\[JavaScript\] 가변 파라미터 ...나머지 매개변수(rest parameter) 사용법](https://coding-factory.tistory.com/m/1079)
 - [\[JavaScript\] 디폴트 파라미터(default parameter) 사용법(기본 파라메터)](https://coding-factory.tistory.com/m/1080)
 - [\[JavaScript\] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
+- [\[JavaScript\] 자바스크립트 쿠키 생성, 삭제, 확인(+CORS 오류 해결법)](https://coding-factory.tistory.com/m/1086)
 
 ---
 
@@ -539,6 +540,12 @@ head:
 ## SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design
 
 - [5 Ways to Make Your JavaScript More Functional](https://sitepoint.com/make-javascript-functional/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/make-javascript-functional.md) -->
+
+---
+
+## David Gerrells
+
+- [How fast is javascript? Simulating 20,000,000 particles](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 
 ---
 

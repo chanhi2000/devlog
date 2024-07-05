@@ -101,6 +101,12 @@ head:
 
 ---
 
+## üntil
+
+- [`morethanmin` / 윈도우에서 winget으로 fnm 설치하기 (Fast Node Manager)](https://until.blog/@morethanmin/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-winget%EC%9C%BC%EB%A1%9C-fnm-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0--fast-node-manager-)
+
+---
+
 ## Johnny•Decimal
 
 - [A system to organise projects](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction)

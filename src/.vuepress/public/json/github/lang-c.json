@@ -1089,5 +1089,10 @@
     "desc": "sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal",
     "officialSite": "",
     "topics": ["console", "console-application", "ncurses", "spreadsheet", "terminal", "terminal-app", "vim"]
+  }, {
+    "repo": "brunodev85/winlator",
+    "desc": "Android application for running Windows applications with Wine and Box86/Box64",
+    "officialSite": "https://winlator.org",
+    "topics": []
   }
 ]
