@@ -49,6 +49,12 @@ head:
 
 ---
 
+## Brunch
+
+- [`@1aft` / PyTorch 쓰세요(5). - #VAE #CONV #MNIST](https://brunch.co.kr/@@1aft/132)
+
+---
+
 ## sankalp's blog
 
 - [Shape Rotation 101: An Intro to Einsum and Jax Transformers](https://sankalp.bearblog.dev/einsum-new/)

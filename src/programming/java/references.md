@@ -62,9 +62,12 @@ tag:
 - [How to Use Java HashMap Effectively](https://dzone.com/articles/how-to-use-java-hashmap-effectively?fbclid=IwAR1ZMb6aImx-7Ry-GD6S-YfxdDkrRvlSo-SlSVL08gRDxWP_zilcVnuXXtM)
 - [Java Annotated Monthly – September 2020](https://dzone.com/articles/java-annotated-monthly-september-2020)
 
-### ITWorld
+### 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
 - ["클라우드 네이티브로 한 걸음 더 가까이" 다가간 자바 프레임워크 8종](https://itworld.co.kr/news/242709)
+- [자바에서 형 안전 열거형을 사용하는 방법](https://itworld.co.kr/news/342066)
+- ["스트림 API의 공백을 채우는 새로운 방법" 스트림 수집기 알아보기](https://itworld.co.kr/news/342395)
+- [자바 쓰레드와 JVM의 쓰레드 동작 '기본부터 살펴보기'](https://itworld.co.kr/news/342913)
 
 ### HowToDoInJava
 
@@ -98,7 +101,11 @@ tag:
 - [`@qkrtkdwns3410` / \[이펙티브 자바 아이템 46\] 스트림에서는 부작용 없는 함수를 사용하라.](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C-46-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%97%90%EC%84%9C%EB%8A%94-%EB%B6%80%EC%9E%91%EC%9A%A9-%EC%97%86%EB%8A%94-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 - [`@qkrtkdwns3410` / \[자바\] BufferedWriter 에서는 왜 정수를 String 으로 변환해서 출력해야만 하는가?](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-BufferedWriter-%EC%97%90%EC%84%9C%EB%8A%94-%EC%99%9C-%EC%A0%95%EC%88%98%EB%A5%BC-String-%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%B4%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94%EA%B0%80)
 - [`@qkrtkdwns3410` / \[이펙티브 자바 아이템42\] 익명 클래스보다는 람다를 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C42-%EC%9D%B5%EB%AA%85-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%9E%8C%EB%8B%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
-
+- [`@qkrtkdwns3410` / \[알고리즘 발표. 1620\]](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B0%9C%ED%91%9C.-1620)
+- [`@qkrtkdwns3410` / \[이펙티브 자바 아이템58\] 전통적인 for 문 보다는 for-each 문을 사용하](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C58-%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-for-%EB%AC%B8-%EB%B3%B4%EB%8B%A4%EB%8A%94-for-each-%EB%AC%B8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98)
+- [`@qkrtkdwns3410` / \[이펙티브 자바 아이템.61\] 박싱된 기본 타입보다는 기본 타입을 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C.61-%EB%B0%95%EC%8B%B1%EB%90%9C-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
+- [`@qkrtkdwns3410` / \[알고리즘 2667\] 발표 자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2667-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C)
+- [`@qkrtkdwns3410` / \[알고리즘 2491\] 발표자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2491-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
 
 ### <FontIcon icon="iconfont icon-blex"/>BLEX
 
@@ -278,7 +285,7 @@ tag:
 - [[프로그래머스] 크기가 작은 부분 문자열 level 1 - Java](https://moonnight0.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%81%AC%EA%B8%B0%EA%B0%80-%EC%9E%91%EC%9D%80-%EB%B6%80%EB%B6%84-%EB%AC%B8%EC%9E%90%EC%97%B4-level-1-Java)
 - [\[프로그래머스\] 시저 암호 level 1 - Java](https://moonnight0.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8-level-1-Java)
 - [\[내일배움캠프 39일차 TIL\] 단위 테스트란 무엇일까?](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-39%EC%9D%BC%EC%B0%A8-TIL-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
-
+- [\[내일배움캠프 55일차 TIL\] 디버그](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-55%EC%9D%BC%EC%B0%A8-TIL-%EB%94%94%EB%B2%84%EA%B7%B8)
 
 ### 류광의 번역 이야기
 
@@ -436,6 +443,9 @@ tag:
 - [How to Detect Cache Misses Using Observability](https://foojay.io/today/how-to-detect-cache-misses-using-observability/)
 - [Debugging Streams with Peek](https://foojay.io/today/debugging-streams-with-peek/)
 - [Records for Cleaner and More Expressive Parameterized Tests in JUnit 5](https://foojay.io/today/records-for-cleaner-and-more-expressive-parameterized-tests-in-junit-5/)
+- [Is your Java application ready for the next generation of server CPUs?](https://foojay.io/today/is-your-java-application-ready-for-the-next-generation-of-server-cpus/)
+- [Let’s Replace the synchronized Keyword](https://foojay.io/today/lets-replace-the-synchronized-keyword/)
+- [Remotely Recording a JFR Log from a Container (Without Using the Command Line)](https://foojay.io/today/remotely-recording-a-jfr-log-from-a-container-without-using-the-command-line/)
 
 ### Javalin - A lightweight Java and Kotlin web framework
 
@@ -482,6 +492,7 @@ tag:
 
 - [\# 15_Parameter_파최몇_파라미터_최대_몇개까지_가능](https://hj0216.tistory.com/m/921)
 - [# 16_NULL_널_생각해](https://hj0216.tistory.com/m/922)
+- [# 17_Exception_예외입니다_전_특별하니까요](https://hj0216.tistory.com/m/924)
 
 ### Lifealong
 
@@ -518,6 +529,15 @@ tag:
 ### Java, Spring Boot, Microservices, Cloud and DevOps Tutorials
 
 - [My attempt to understand why people perceive Java as complex](https://www.sivalabs.in/my-attempt-to-understand-why-people-perceive-java-as-complex/)
+
+### 개발하는 자몽
+
+- [Java에서 외부 프로그램 실행하기](https://backend-jaamong.tistory.com/m/172)
+
+### Minty Box
+
+- [테스트 작성 부담감 극복하기 - POJO와 통합 테스트 중심의 전략](https://shout-to-my-mae.tistory.com/m/435)
+
 
 ---
 
@@ -732,6 +752,7 @@ tag:
 ### hudi.blog
 
 - [그 이모지는 사실 한 글자가 아닐수도 있다](https://hudi.blog/that-emoji-might-actually-not-be-a-single-character/)
+- [Bulkhead 패턴을 사용한 장애 격리](https://hudi.blog/bulkhead-pattern/)
 
 ### 남경호
 
@@ -820,6 +841,10 @@ tag:
 ### AKJAW
 
 - [5 Beginner Testing Mistakes I Noticed While Working with Less Experienced Developers](https://akjaw.com/5-beginner-testing-mistakes-i-noticed-while-working-with-less-experienced-developers/)
+
+### 개발자 박진 블로그
+
+- [인프런 - 코틀린 고급편 (3) 함수형 프로그래밍 활용](https://jinn-blog.tistory.com/m/163)
 
 ---
 

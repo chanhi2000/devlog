@@ -459,5 +459,20 @@
     "desc": "A library to help auto-generate screenshot tests from Composable Previews with any screenshot testing library: JVM-based (i.e. Paparazzi, Roborazzi) as well as Instrumentation-based (i.e. Shot, Dropshots, Android-Testify, etc.)",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "guerrerorodrigo/compose-multiplatform-weather-app/",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "eygraber/jsonapi-kotlin",
+    "desc": "A Kotlin Multiplatform kotlinx.serialization library for working with JSON:API",
+    "officialSite": "",
+    "topics": ["json-api", "kotlin", "kotlin-multiplatform", "kotlinx-serialization"]
+  }, {
+    "repo": "jarvislin/HackerNews-KMP",
+    "desc": "This is a Hacker News reader app implemented using Kotlin Multiplatform Compose for Android and iOS.",
+    "officialSite": "",
+    "topics": ["android", "api", "app", "compose", "compose-multiplatform", "hacker-news", "ios", "kmp", "kotlin", "kotlin-multiplatform", "kotlin-multiplatform-compose", "ktor", "multiplatform"]
   }
 ]

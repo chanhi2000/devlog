@@ -237,6 +237,19 @@ tag:
 
 ---
 
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- ["윈도우 vs. 전문 도구" 삭제 또는 손상된 SD 카드 직접 복구하는 2가지 방법](https://itworld.co.kr/news/342773)
+- [곧 사라지는 워드패드, 윈도우 11에서도 계속 쓸 수 있는 '임시변통' 방법](https://itworld.co.kr/news/341996)
+
+---
+
+## Samuel Tulach
+
+- [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
+
+---
+
 ## Misc
 
 - [DiskClick](https://deervo.itch.io/diskclick)

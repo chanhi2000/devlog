@@ -171,6 +171,10 @@ tag:
 - [StringCbPrintf 함수](https://m.blog.naver.com/tipsware/223491407426)
 - [\[Q&A\] `printf` 함수를 사용하지 않고 실숫값 출력하기 - Step 2](https://m.blog.naver.com/tipsware/223488846135)
 - [Pie 도형이 차지하는 각을 표시해 보세요.](https://m.blog.naver.com/tipsware/223454321213)
+- [\[Q&A\] 포인터 변수에 문자 집합을 대입하면 오류가 발생합니다.](https://m.blog.naver.com/tipsware/223503862252)
+- [문자열 상수는 어떻게 저장되는가?](https://m.blog.naver.com/tipsware/223503754975)
+- [`TipsFinder` 프로그램 업데이트](https://m.blog.naver.com/tipsware/223502808270)
+- [`SetWaitableTimer` 함수](https://m.blog.naver.com/tipsware/223500623894)
 
 ---
 
@@ -321,6 +325,18 @@ tag:
 ## retooling_
 
 - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
+
+---
+
+## INTERPLAY OF LIGHT
+
+- [A QUICK INTRODUCTION TO WORKGRAPHS](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
+
+---
+
+## sin-ack's writings
+
+- [How malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
 
 ---
 

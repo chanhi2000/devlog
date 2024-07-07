@@ -3118,5 +3118,15 @@
     "desc": "A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, & Redis",
     "officialSite": "https://clidey.com",
     "topics": ["database", "explorer", "lightweight", "mongodb", "mysql", "postgresql", "redis", "sqlite3"]
+  }, {
+    "repo": "meursyphus/flitter",
+    "desc": "Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizations, interactive charts, diagrams, and graphic editors in web applications.",
+    "officialSite": "https://flitter.dev",
+    "topics": ["canvas", "chart", "diagram", "editor", "flutter", "framework", "svg", "web"]
+  }, {
+    "repo": "apilylabs/ophiuchi-desktop",
+    "desc": "A local https proxy server using docker as backend",
+    "officialSite": "",
+    "topics": []
   }
 ]

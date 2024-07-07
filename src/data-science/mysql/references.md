@@ -253,4 +253,10 @@ head:
 
 ---
 
+## hudi.blog
+
+- [MySQL는 Order By가 없다면 정렬을 보장하지 않는다](https://hudi.blog/mysql-no-order-by-no-sorting-guarantee/)
+
+---
+
 <TagLinks />

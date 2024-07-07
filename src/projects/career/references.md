@@ -1,4 +1,4 @@
-
+---
 lang: ko-KR
 title: References
 description: Career > References
@@ -128,6 +128,7 @@ tag:
 - [`@hyemin916` / 피드백 맷집 기르기](https://velog.io/@hyemin916/%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%A7%B7%EC%A7%91-%EA%B8%B0%EB%A5%B4%EA%B8%B0)
 - [`@composite` / 개발자의 마음가짐 (feat. 나)](https://velog.io/@composite/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%88%EC%9D%8C%EA%B0%80%EC%A7%90-feat.-%EB%82%98)
 - [`@root-devvoo` / 문과 출신 엔지니어 2024년 1회 정보처리기사 실기 합격 후기 (Feat. 수제비)](https://velog.io/@root-devvoo/%EB%AC%B8%EA%B3%BC-%EC%B6%9C%EC%8B%A0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-2024%EB%85%84-1%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-Feat.-%EC%88%98%EC%A0%9C%EB%B9%84)
+- [`@invidam` / 첫 번째 직장에 오기까지](https://velog.io/@invidam/before-first-jbo)
 
 ---
 
@@ -220,6 +221,10 @@ tag:
 - [`@2fEJ` / PM의 숨은 힘 - 조직의 전략적 사고와 혁신을 이끌다 - 프로덕트 매니저가 전문가가 되기 위한 노력 #16](https://brunch.co.kr/@@2fEJ/1351)
 - [`@2weV` / 좋다, 쉽다, 저렴하다(가치있다), 친절하다](https://brunch.co.kr/@@2weV/491)
 - [`@2weV` / 의견이 나뉘는지, 사람이 나뉘는지 면밀히 살펴야 한다.](https://brunch.co.kr/@@2weV/490)
+- [`@2Kn8` / 퍼포먼스가 바닥입니다만.](https://brunch.co.kr/@@2Kn8/215)
+- [`@2hV3` / 내가 디자이너와 PO를 거쳐 뼈저리게 배운 것 - 시간이 많이 지나서야 하는 회고](https://brunch.co.kr/@@2hV3/237)
+- [`@2xm` / 빠르게 하는 것의 중요성 - 제대로 문제를 해결하는 방법](https://brunch.co.kr/@@2xm/80)
+- [`@2rV` / 성장하는 제품 중심 조직의 핵심: 학습과 실험 - 빠른 학습의 중요성: 마크 저커버그가 말하는 성공적인 기업의 비결](https://brunch.co.kr/@@2rV/134)
 
 ---
 
@@ -461,6 +466,7 @@ tag:
 - [인생에서 가장 도움이 되는 수업](https://www.thestartupbible.com/2024/06/public-speaking-and-writing-are-the-most-undervalued-classes.html)
 - [헛똑똑이들](https://www.thestartupbible.com/2024/06/cynics-sound-smart-but-vcs-have-to-be-optimists.html)
 - [관계 건설](https://www.thestartupbible.com/2024/05/the-relationship-building.html)
+- [다시 본질로](https://www.thestartupbible.com/2024/07/back-to-the-basics.html)
 
 ---
 
@@ -973,6 +979,8 @@ https://blog.naver.com/&logId=
 - [매력적이지만 버려야 할 10가지 나쁜 프로그래밍 습관](https://itworld.co.kr/news/337915)
 - ["디지털 혁신 저해하는 원인" IT 인력 부족 문제를 해결할 2가지 핵심 요소](https://itworld.co.kr/news/339119)
 - [“사무실 복귀 지시는 위장된 정리 해고?” 근무 방식에 따른 생산성 조사](https://itworld.co.kr/news/340407)
+- [노련한 개발자와 초보자의 기술적인 차이 4가지](https://itworld.co.kr/news/342346)
+- [한국 직장인, '월요병'보다 '화요병'에 더 시달린다… 알고케어 보고서](https://itworld.co.kr/news/343298)
 
 ---
 

@@ -117,7 +117,7 @@ export const sidebarEn = sidebar({
             '/programming/gradle/snippets/create-war.md',
             '/programming/gradle/snippets/open-url-in-browser.md',
             '/programming/gradle/snippets/explore-directory.md',
-            '/programming/gradle/snippets/publish-to-repository.md',
+            '/programming/gradle/snippets/kotlin-dsl-android.md',
           ]
         },
         '/programming/gradle/troubleshooting.md',

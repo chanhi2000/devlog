@@ -178,6 +178,7 @@ head:
 - [`gitconnected` / The Granularity Conundrum: Finding The Right Size of a Microservice](https://levelup.gitconnected.com/the-granularity-conundrum-finding-the-right-size-of-a-microservice-c65d3c76cc3b)
 - [`google-design` / Designing Adaptive Icons](https://medium.com/google-design/designing-adaptive-icons-515af294c783)
 - [`gitconnected` / System Design Interview: Design WhatsApp](https://levelup.gitconnected.com/system-design-interview-design-whatsapp-779fa385ef08)
+- [`javarevisited` / 40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024](https://medium.com/javarevisited/40-must-read-engineering-blogs-to-learn-system-design-and-software-architecture-in-2024-aaa7c4f71ee6)
 
 ---
 
@@ -192,6 +193,7 @@ head:
 - [`@juhee067` / 01. 웹 접근성 검수 서비스 기획](https://velog.io/@juhee067/01.-%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EA%B2%80%EC%88%98-%EC%84%9C%EB%B9%84%EC%8A%A4)
 - [`@jeong_hun_hui` / 트랜잭션은 어떻게 데이터 시스템의 문제들을 해결할까? (feat. ACID)](https://velog.io/@jeong_hun_hui/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%AC%B8%EC%A0%9C%EB%93%A4%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%95%A0%EA%B9%8C-feat.-ACID)
 - [`@joshuara7235` / 테스트코드를 모르던 내게 찾아온 TDD](https://velog.io/@joshuara7235/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AA%A8%EB%A5%B4%EB%8D%98-%EB%82%B4%EA%B2%8C-%EC%B0%BE%EC%95%84%EC%98%A8-TDD)
+- [`@kwonhl0211` / 앞으로 제품 디자인은 어떻게 바뀔까? 멀티모달 프로덕트와 생성형 UI에 대한 생각 정리](https://velog.io/@kwonhl0211/%EC%95%9E%EC%9C%BC%EB%A1%9C-%EC%A0%9C%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EB%80%94%EA%B9%8C-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%99%80-%EC%83%9D%EC%84%B1%ED%98%95-UI%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-%EC%A0%95%EB%A6%AC)
 
 ---
 
@@ -220,6 +222,9 @@ head:
 - [`@@2fEJ` / AS-IS와 To-Be를 UX장표에 어떻게 담아내는가? - PM 강의 #17](https://brunch.co.kr/@@2fEJ/1371)
 - [`@@2fEJ` / UX 디자인, 기업 지속가능성의 핵심 전략 - UX 리서치 강연 #17](https://brunch.co.kr/@@2fEJ/1370)
 - [`@@2fEJ` / 사용자 중심의 경험 디자인, 그 핵심 전략 - UX 디자인 강의 #17](https://brunch.co.kr/@@2fEJ/1369)
+- [`@2fEJ` / 개방형 질문의 중요성과 프로덕트 매니저의 역할 - UX 리서치 강연 #23](https://brunch.co.kr/@@2fEJ/1385)
+- [`@2fEJ` / 사용자 경험 개선을 통한 가치 창출 - UX 디자인 강의 #22](https://brunch.co.kr/@@2fEJ/1378)
+- [`@2fEJ` / 프로덕트 매니저 관점에서 바라본 이해력 테스트의 중요성 - UX 리서치 강연 #22](https://brunch.co.kr/@@2fEJ/1384)
 
 ---
 
@@ -229,6 +234,7 @@ head:
 - [`engineerscodex` / 4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned)
 - [`freelancefootprints` / Abandoned Code: The Hidden Risks of Using Unmaintained Software](https://freelancefootprints.substack.com/p/abandoned-code-the-hidden-risks-of)
 - [`lennysnewsletter` / A Three-Step Framework For Solving Problems 👌](https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving)
+- [`techworld-with-milan` / Mastering the Art of Software Architecture Documentation](https://newsletter.techworld-with-milan.com/p/documenting-software-architectures)
 
 ---
 

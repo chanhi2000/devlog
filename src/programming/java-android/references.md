@@ -144,6 +144,10 @@ tag:
 - [`groww` / Adding Repeat Delays to Android Animations](https://tech.groww.in/adding-repeat-delays-to-android-animations-aeaaee491195)
 - [`proandroiddev` / Exploring the Viability of Cross-Platform UI Development with Compose Multiplatform](https://proandroiddev.com/exploring-the-viability-of-cross-platform-ui-development-with-compose-multiplatform-c5be0608b69d)
 - [`ZahraHeydari` / Kotlin MultiPlatform (KMP)](https://medium.com/@ZahraHeydari/kotlin-multiplatform-kmp-4799fdfb69f1)
+- [`santimattius` / From Hilt to Koin using Koin Annotations](https://medium.com/@santimattius/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
+- [`anitaa_1990` / Kotlin Flows — Fundamentals](https://medium.com/@anitaa_1990/kotlin-flows-fundamentals-7d9b984f12bb)
+
+<!-- END: Medium -->
 
 ---
 
@@ -152,14 +156,17 @@ tag:
 - [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
 - [`bubenheimer` / Effective Map Composables: Non-Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-non-draggable-markers-2b2)
 - [`tkuenneth` / From Swing to Jetpack Compose Desktop #1](https://dev.to/tkuenneth/from-swing-to-jetpack-compose-desktop-1-12kf)
--
+- [`altavir` / Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
-- [[android] Notification 등록시 Head Up Notification 뜨지 않는 현상](https://velog.io/@kkaemi/android-Notification-%EB%93%B1%EB%A1%9D%EC%8B%9C-Head-Up-Notification-%EB%9C%A8%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%98%84%EC%83%81)
-- [[Android] 불러온 Image Crop하기](https://velog.io/@jinny_0422/Android%EB%B6%88%EB%9F%AC%EC%98%A8ImageCrop%ED%95%98%EA%B8%B0)
-- [[Android] `productFlavors` 별로 `google-services.json` 설정하기](https://velog.io/@devyang97/Android-productFlavors-%EB%B3%84%EB%A1%9C-google-service.json-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [`@kkaemi` / [android] Notification 등록시 Head Up Notification 뜨지 않는 현상](https://velog.io/@kkaemi/android-Notification-%EB%93%B1%EB%A1%9D%EC%8B%9C-Head-Up-Notification-%EB%9C%A8%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%98%84%EC%83%81)
+- [`@jinny_0422` / [Android] 불러온 Image Crop하기](https://velog.io/@jinny_0422/Android%EB%B6%88%EB%9F%AC%EC%98%A8ImageCrop%ED%95%98%EA%B8%B0)
+- [`@devyang97` / [Android] `productFlavors` 별로 `google-services.json` 설정하기](https://velog.io/@devyang97/Android-productFlavors-%EB%B3%84%EB%A1%9C-google-service.json-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [`@thd0427` / Compose 부수 효과 총정리](https://velog.io/@thd0427/Compose-%EB%B6%80%EC%88%98-%ED%9A%A8%EA%B3%BC-%EC%B4%9D%EC%A0%95%EB%A6%AC)
+- [`@stella6767` / 인앱 구독 결제 (In-App Purchase: IAP) 서버사이드 검증 2 - Android](https://velog.io/@stella6767/%EC%9D%B8%EC%95%B1-%EA%B5%AC%EB%8F%85-%EA%B2%B0%EC%A0%9C-In-App-Purchase-IAP-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EA%B2%80%EC%A6%9D-2-Android)
 
 ---
 
@@ -343,6 +350,7 @@ tag:
 
 - [Using Amper with Fleet in a Kotlin/Compose Multiplatform project](https://johnoreilly.dev/posts/amper-kmp-climatetrace/)
 - [Using Jetpack Room in Kotlin Multiplatform shared code](https://johnoreilly.dev/posts/jetpack_room_kmp/)
+- [Exploring New Worlds of UI sharing possibilities in PeopleInSpace using Compose Multiplatform](https://johnoreilly.dev/posts/exploring-compose_multiplatform_sharing_ios/)
 
 ---
 
@@ -500,6 +508,12 @@ tag:
 
 - [Android emulator access to local server](https://jeroenmols.com/blog/2023/01/25/development-server-emulator/)
 
+---
+
+## code-with-me
+
+- [기존 Google 로그인 대신 Credential Manager API를 활용한 Sign in with Google 로그인 구현하기](https://inblog.ai/code-with-me/기존-google-로그인-대신-credential-manager-api를-활용한-sign-in-with-google-로그인-구현하기-21777)
+  
 ---
 
 <TagLinks />

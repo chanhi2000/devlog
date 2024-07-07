@@ -79,4 +79,9 @@ head:
 
 ---
 
+## just_HS
+
+- [데이터베이스 이론: CAP와 BASE](https://jusths.tistory.com/m/413)
+
+
 <TagLinks />

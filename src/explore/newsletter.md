@@ -52,6 +52,13 @@ tag:
 }
 ```
 
+<SiteInfo
+  name="Until"
+  desc="성장하는 사람들을 위한 블로그 서비스. 다른 사람들과 함께 성장해요."
+  url="https://until.blog/"
+  logo="https://until.blog/favicon.ico"
+  preview="https://until.blog/og.png"/>
+
 ```component VPCard
 {
   "title": "DAILY ROTATION",
@@ -415,7 +422,7 @@ https://paperlined.org/
 ```
 -->
 
-<!-- @end News -->
+<!-- END: News -->
 
 @tab Industry
 
@@ -709,7 +716,7 @@ https://paperlined.org/
   logo="https://static.wixstatic.com/media/4c8897_2c2ffd87d8a040fc9702be0625b245c0%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/4c8897_2c2ffd87d8a040fc9702be0625b245c0%7Emv2.png"
   preview="https://static.wixstatic.com/media/4c8897_b1ac37ff970c487ab7b51b633e9b3027~mv2.png/v1/fill/w_1200,h_630,al_c/4c8897_b1ac37ff970c487ab7b51b633e9b3027~mv2.png"/>
 
-<!-- @end Trending Korea -->
+<!-- END: Trending Korea -->
 
 @tab <FontIcon icon="fas fa-globe"/>Tech Blog
 
@@ -997,7 +1004,14 @@ https://paperlined.org/
 
 https://devblogs.microsoft.com/engineering-at-microsoft/
 
-<!-- @end Tech Blog -->
+<SiteInfo
+  name="Insights | 8th Light"
+  desc="At 8th Light, we embrace sparking ideas, insights, and creative solutions in the software industry. Read more from our experts."
+  url="https://8thlight.com/insights/"
+  logo="https://8thlight.com/apple-touch-icon.png"
+  preview="https://assets.8thlight.com/images/_1200x630_crop_center-center_none/8th_Light_Feature_Insights.jpg"/>
+
+<!-- END: Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)
 
@@ -1351,7 +1365,7 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://ridicorp.com/wp-content/uploads/2022/03/cropped-favicon-512x512-1-192x192.png"
   preview="https://ridicorp.com/wp-content/uploads/2022/03/metaimage_ridi-crop.png"/>
 
-<!-- @end Tech Blog (Korea) -->
+<!-- END: Tech Blog (Korea) -->
 
 @tab App(s)
 
@@ -1385,7 +1399,7 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 }
 ```
 
-<!-- @end App -->
+<!-- END: App -->
 
 @tab <FontIcon icon="fas fa-database"/>Data Science
 
@@ -1504,7 +1518,7 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 }
 ```
 
-<!-- @end Community -->
+<!-- END: Community -->
 
 @tab <FontIcon icon="fas fa-person-running"/>Hackerthon
 
@@ -1558,7 +1572,7 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 }
 ```
 
-<!-- @end Hackathon -->
+<!-- END: Hackathon -->
 
 @tab Misc.
 
@@ -1595,6 +1609,12 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 :::
 
 https://woowacon.com/presentations
+
+::: details <FontIcon icon="iconfont icon-github"/>kilimchoi/engineering-blogs
+
+<!-- @include: ./simple-icons.md -->
+
+:::
 
 ---
 

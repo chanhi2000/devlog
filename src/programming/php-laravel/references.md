@@ -41,4 +41,16 @@ head:
 
 ---
 
+## Laravel News
+
+- [New String Helpers and ServeCommand Improvements in Laravel 11.14](https://laravel-news.com/laravel-11-14-0)
+
+---
+
+## The Coding Dev
+
+- [Using Eloquent Relationships and Collections for Complex Data Structures in Laravel](https://www.thecodingdev.com/2024/07/using-eloquent-relationships-and.html)
+
+---
+
 <TagLinks />

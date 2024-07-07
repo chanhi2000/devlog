@@ -1478,5 +1478,10 @@
     "desc": "YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions",
     "officialSite": "https://ydb.tech",
     "topics": ["cloud-native", "cpp", "database", "dbms", "distributed", "distributed-database", "distributed-sql", "distributed-sql-database", "sql"]
+  }, {
+    "repo": "albertobsd/keyhunt",
+    "desc": "privkey hunt for crypto currencies that use secp256k1  elliptic curve",
+    "officialSite": "",
+    "topics": ["bitcoin", "bsgs", "crypto-currencies", "cryptocurrency", "privatekeys", "publickeys", "puzzle", "secp256k1"]
   }
 ]

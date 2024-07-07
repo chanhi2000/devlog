@@ -663,4 +663,10 @@ tag:
 
 ---
 
+## 오늘도 개발로그
+
+- [HTML에서 DOCTYPE을 꼭 사용해야 하는 이유](https://kesakiyo.tistory.com/m/entry/HTML%EC%97%90%EC%84%9C-DOCTYPE%EC%9D%84-%EA%BC%AD-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+
+---
+
 <TagLinks />

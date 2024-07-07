@@ -5644,5 +5644,25 @@
     "desc": "code for \"Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion\"",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "microsoft/graphrag",
+    "desc": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+    "officialSite": "https://microsoft.github.io/graphrag/",
+    "topics": []
+  }, {
+    "repo": "jumpserver/jumpserver",
+    "desc": "An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。",
+    "officialSite": "https://jumpserver.org",
+    "topics": ["bastion-host", "cyberark", "django", "jumpserver", "pam", "python", "ssh-server", "teleport", "terminal"]
+  }, {
+    "repo": "disposable-email-domains/disposable-email-domains",
+    "desc": "a list of disposable and temporary email address domains",
+    "officialSite": "",
+    "topics": ["allowlist", "blocklist", "disposable", "domain", "email", "filter", "hacktoberfest", "pypi"]
+  }, {
+    "repo": "Azure-Samples/graphrag-accelerator",
+    "desc": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+    "officialSite": "https://github.com/microsoft/graphrag",
+    "topics": []
   }
 ]

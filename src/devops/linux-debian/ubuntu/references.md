@@ -71,4 +71,12 @@ tag:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [Ubuntu – 무선 네트워크 절전모드 끄기](https://www.skyer9.pe.kr/wordpress/?p=9145)
+- [Ubuntu – 패키지 업그래이드 (Upgrade Package)](https://www.skyer9.pe.kr/wordpress/?p=9125)
+- [Wi-Fi – 용어 정리](https://www.skyer9.pe.kr/wordpress/?p=9133)
+
+---
+
 <TagLinks />

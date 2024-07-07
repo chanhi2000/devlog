@@ -26,13 +26,36 @@ head:
 
 ---
 
-## YouTube
+## <FontIcon icon="fa-brands fa-youtube"/>YouTube
 
-Paste the entire script to the Chrome DevTool (<kbd>F12</kbd>) Console
+> Paste the entire script to the Chrome DevTool (<kbd>F12</kbd>) Console
 
-### `deleteVideoFromWatchLater`
+::: tabs
 
-1. move to `/playlist?list=WL`
+@tab fetchWL
+
+1. move to [<FontIcon icon="fa-brands fa-youtube"/>`/playlist?list=WL`](https://youtube.com/playlist?list=WL)
+2. Paste the following code to the console
+
+```js
+const videos = Array.from(document.querySelector('ytd-browse[page-subtype="playlist"] #primary #contents.style-scope.ytd-playlist-video-list-renderer').querySelectorAll('ytd-playlist-video-renderer'))
+.map((e) => {
+  const vInfo = e.querySelector('a#video-title')
+  const cInfo = e.querySelector('.ytd-channel-name.complex-string a.yt-simple-endpoint.style-scope.yt-formatted-string')
+  return {
+    channelId: cInfo.href.replace('https://www.youtube.com/@', ''),
+    channelName: cInfo.innerHTML,
+    id: vInfo.href.match(/(?<=https\:\/\/www.youtube.com\/watch\?v=)(.*)(?=\&list=)/g).join(''),    
+    title: vInfo.innerHTML.match(/(?<=          )(.*)/g).join('').replace(/&amp;/g, '&')
+  }
+})
+console.log(JSON.stringify(videos[0]))
+copy(JSON.stringify(videos))
+```
+
+@tab deleteWL
+
+1. move to [<FontIcon icon="fa-brands fa-youtube"/>`/playlist?list=WL`](https://youtube.com/playlist?list=WL)
 2. Paste the code to the console
 
 ```js
@@ -76,7 +99,7 @@ async function deleteWatchLater() {
 deleteWatchLater();
 ```
 
-### `findChannelInfo`
+@tab findChannelInfo
 
 1. move to any channel `/@<CHANNEL_NAME>`
 2. Paste the code to the console
@@ -134,7 +157,7 @@ console.log(JSON.stringify(o));
 copy(JSON.stringify(o));
 ```
 
-### `findAllVideosFromPlaylist`
+@tab findYTFromPlaylist
 
 1. move to any playlist
 2. Paste the following code to the console
@@ -158,26 +181,7 @@ console.log(JSON.stringify(videos[0]))
 copy(JSON.stringify(oPlaylist))
 ```
 
-### `findAllVideosFromWatchLater`
-
-1. move to [`/playlist?list=WL`](https://www.youtube.com/playlist?list=WL)
-2. Paste the following code to the console
-
-```js
-const videos = Array.from(document.querySelector('ytd-browse[page-subtype="playlist"] #primary #contents.style-scope.ytd-playlist-video-list-renderer').querySelectorAll('ytd-playlist-video-renderer'))
-.map((e) => {
-  const vInfo = e.querySelector('a#video-title')
-  const cInfo = e.querySelector('.ytd-channel-name.complex-string a.yt-simple-endpoint.style-scope.yt-formatted-string')
-  return {
-    channelId: cInfo.href.replace('https://www.youtube.com/@', ''),
-    channelName: cInfo.innerHTML,
-    id: vInfo.href.match(/(?<=https\:\/\/www.youtube.com\/watch\?v=)(.*)(?=\&list=)/g).join(''),    
-    title: vInfo.innerHTML.match(/(?<=          )(.*)/g).join('').replace(/&amp;/g, '&')
-  }
-})
-console.log(JSON.stringify(videos[0]))
-copy(JSON.stringify(videos))
-```
+:::
 
 ---
 

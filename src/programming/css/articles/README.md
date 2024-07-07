@@ -380,6 +380,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "A Text-Reveal Effect Using conic-gradient() in CSS",
+  "desc": "This article explores creating a typographic effect that 'reveals' text in an interesting animated way.",
+  "link": "/explore/articles/frontendmasters.com/text-reveal-with-conic-gradient.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "YouTube Embeds are Bananas Heavy and it’s Fixable",
+  "desc": "Which one makes more sense to use, big and slow or small and fast? Especially with the same appearance and functionality, the youtube-lite component is a no-brainer.",
+  "link": "/explore/articles/freecodecamp.org/youtube-embeds-are-bananas-heavy-and-its-fixable.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: frontendmasters.com -->
 
 ---

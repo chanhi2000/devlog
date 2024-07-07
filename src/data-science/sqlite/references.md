@@ -30,4 +30,10 @@ tag:
 
 ---
 
+## JT Archie
+
+- [Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite)
+
+---
+
 <TagLinks />

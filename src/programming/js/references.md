@@ -100,6 +100,7 @@ head:
 - [`documatic` / 5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
 - [`itric` / onClick={someFunction} VS onClick={()=>someFunction}](https://dev.to/itric/onclicksomefunction-vs-onclicksomefunction-5d1i)
 - [`gewenyu99` / Regex, the good bits.](https://dev.to/gewenyu99/regex-the-good-bits-4l2o)
+- [`yns666` / Difference Between `Number()` and `parseInt()` in Converting Strings?](https://dev.to/yns666/difference-between-parseint-and-number-in-converting-strings-1fh5)
 
 ---
 

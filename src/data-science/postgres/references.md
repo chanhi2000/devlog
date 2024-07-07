@@ -377,4 +377,16 @@ head:
 
 ---
 
+## Maciej Walkowiak | Java & Spring Boot | Freelance Software Consultant
+
+- [PostgreSQL and UUID as primary key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
+
+---
+
+## Rapidapp Documentation & Blog
+
+- [Building Devops AI Assistant with Langchain, Ollama, and PostgreSQL](https://docs.rapidapp.io/blog/building-devops-ai-assistant-with-langchain-ollama-and-postgresql)
+
+---
+
 <TagLinks />

@@ -49,6 +49,7 @@ head:
 - [`towardsdatascience` / The Math Behind the Adam Optimizer](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/the-math-behind-adam-optimizer.md) -->
 - [`@euisuk-chung` / 머신러닝 차원 축소 알고리즘](https://velog.io/@euisuk-chung/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9B%90-%EC%B6%95%EC%86%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [`naver-place-dev` / 지루하지 않게 코노미 사진 4만장 어노테이션하기 (머신러닝과 함께)](https://medium.com/naver-place-dev/%EC%A7%80%EB%A3%A8%ED%95%98%EC%A7%80-%EC%95%8A%EA%B2%8C-%EC%BD%94%EB%85%B8%EB%AF%B8-%EC%82%AC%EC%A7%84-4%EB%A7%8C%EC%9E%A5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%ED%95%A8%EA%BB%98-619c60f8a071)
+- [`@kwon0koang` / AI 무한반복 영상 만들기 (Luma Dream Machine)](https://velog.io/@kwon0koang/AI-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AC%B4%ED%95%9C%EB%B0%98%EB%B3%B5-%EC%98%81%EC%83%81-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ---
 
@@ -67,6 +68,9 @@ head:
 ## Brunch
 
 - [`@delight412` / 알고리즘 중심 개인화에 대한 불편한 사실들](https://brunch.co.kr/@delight412/692)
+- [`@2rV` / AI가 이미 바꾸고 있는 세상 - 넥스트 빅 띵(Next Big Thing)이 이미 시작되었다](https://brunch.co.kr/@@2rV/135)
+- [`@2fEJ` / AI 기술과 UX의 융합 - 프로덕트 매니저의 역할 - UX 디자인 강의 #23](https://brunch.co.kr/@@2fEJ/1379)
+- [`@2rV` / 마크 저커버그가 그리는 AI의 미래와 Meta의 도전 - 애플과 결렬, Meta의 선택: AI 오픈소스와 인터페이스 기술](https://brunch.co.kr/@@2rV/133)
 
 ---
 
@@ -200,6 +204,12 @@ head:
 ## Hall of Impossible Dreams
 
 - [Trackmania I - The History of Machine Learning in Trackmania](https://hallofdreams.org/posts/trackmania-1/)
+
+---
+
+## Rapidapp Documentation & Blog
+
+- [Building Devops AI Assistant with Langchain, Ollama, and PostgreSQL](https://docs.rapidapp.io/blog/building-devops-ai-assistant-with-langchain-ollama-and-postgresql)
 
 ---
 

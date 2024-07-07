@@ -57,4 +57,10 @@ tag:
 
 ---
 
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- [전 세계 1% 리눅스 기여자가 말하는 eBPF "리눅스와 플랫폼 엔지니어링의 미래"](https://itworld.co.kr/news/342710)
+
+---
+
 <TagLinks />

@@ -473,17 +473,10 @@ tag:
 
 ---
 
-## Misc.
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
-```component VPCard
-{
-  "title": "LINQPad - The .NET Programmer's Playground",
-  "desc": "The .NET Programmer's Playground",
-  "link": "https://www.linqpad.net/",
-  "logo": "https://www.linqpad.net/favicon.ico",
-  "background": "rgba(0,144,144,0.2)"
-}
-```
+- [C#에서 추상 클래스와 인터페이스를 사용해야 할 때](https://itworld.co.kr/news/341751)
+- [닷넷 업그레이드 도우미, 코드 평가 도구 추가 "문제 발생 가능성과 종속성 식별"](https://itworld.co.kr/news/342185)
 
 ---
 

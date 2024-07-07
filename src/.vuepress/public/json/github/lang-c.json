@@ -1084,5 +1084,10 @@
     "desc": "A USB-PD sniffer/injector/sink based on Google's Twinkie, re-designed to be manufactured by mere mortals.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "andmarti1424/sc-im",
+    "desc": "sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal",
+    "officialSite": "",
+    "topics": ["console", "console-application", "ncurses", "spreadsheet", "terminal", "terminal-app", "vim"]
   }
 ]

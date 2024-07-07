@@ -385,4 +385,10 @@ tag:
 
 ---
 
+## Old Guy Self Hosting
+
+- [Troubleshooting my offline Zpool](https://www.ogselfhosting.com/index.php/2024/03/03/troubleshooting-my-offline-zpool/)
+
+---
+
 <TagLinks />

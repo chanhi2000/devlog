@@ -43,6 +43,7 @@ head:
 
 - [`@geoffyoon-dev` - 데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy)
 - [`@devstone` - NLP 메트릭 톺아보기](https://velog.io/@devstone/NLP-%EB%A9%94%ED%8A%B8%EB%A6%AD-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [`@kwon0koang` / 오픈소스 LLM으로 RAG 에이전트 만들기 (랭체인, Ollama, Tool Calling 대체)](https://velog.io/@kwon0koang/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9C%BC%EB%A1%9C-RAG-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ---
 
@@ -53,6 +54,12 @@ head:
 - [`thedeephub` / 50+ Open-Source Options for Running LLMs Locally](https://medium.com/thedeephub/50-open-source-options-for-running-llms-locally-db1ec6f5a54f)
 - [`aksh-garg` / Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 - [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
+
+---
+
+## Brunch
+
+- [`@ZVA` / 어텐션맵은 뭐고 트랜스포머는 또 뭐냐...LLM 입문](https://brunch.co.kr/@@ZVA/702)
 
 ---
 
@@ -241,6 +248,7 @@ head:
 - [도메인 모델 성능개선을 위한 Lora 기반 LLAMA3 모델 파인튜닝하기](https://daddynkidsmakers.blogspot.com/2024/06/lora-llama3.html)
 - [Weights & Biases로 딥러닝 모델 개발 프로세스 기록, 분석, 가시화 및 모델 튜닝하기](https://daddynkidsmakers.blogspot.com/2024/06/weights-biases.html)
 - [2024년 오픈소스 대형언어모델 소개](https://daddynkidsmakers.blogspot.com/2024/06/2024.html)
+- [AutoRAG 활용 LLM RAG 최적화하기](https://daddynkidsmakers.blogspot.com/2024/07/autorag-llm-rag.html)
 
 ---
 

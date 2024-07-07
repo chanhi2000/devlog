@@ -5,6 +5,7 @@ description: Article(s) > Popovers Work Pretty Nicely as Slide-Out Drawers
 icon: fa-brands fa-css3-alt
 category: 
   - CSS
+  - JavaScript
   - Article(s)
 tag: 
   - blog

@@ -114,7 +114,7 @@ head:
 
 - [Marcel – A More Modern Shell for Linux](https://www.tecmint.com/marcel-modern-shell-for-linux)
 
----[파이썬] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)
+---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -129,6 +129,7 @@ head:
 - [`@euisuk-chung` /  \[파이썬\] 우분투에서 한글 폰트 설치하고 matplotlib에 사용하기](https://velog.io/@euisuk-chung/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%ED%8F%B0%ED%8A%B8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-matplotlib%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [`@euisuk-chung` / \[파이썬\] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-vs-code-keymapping-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-shiftenter-ctrlenter-%EB%93%B1)
 - [`@eunbibi` / JPype1](https://velog.io/@eunbibi/jpype1)
+- [`@euisuk-chung` / \[개념정리\] 시계열 분석의 인과관계 분석](https://velog.io/@euisuk-chung/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84-%EB%B6%84%EC%84%9D)
 
 ---
 
@@ -712,6 +713,8 @@ head:
 - [logging을 사용하여 레벨별로 다른 파일에 로그를 저장하는 예제](https://webnautes.tistory.com/m/2346)
 - [Python 강좌 - 리스트(list)](https://webnautes.tistory.com/m/2347)
 - [FFmpeg를 사용하여 webcam을 RTSP 스트리밍 하여 OpenCV에서 확인하기](https://webnautes.tistory.com/m/2012)
+- [PyQt5 콤보박스(QComboBox) 예제](https://webnautes.tistory.com/m/2353)
+- [XGBoost에서 파이프라인 사용하여 표준화(standardization) 적용하기](https://webnautes.tistory.com/m/2352)
 
 ---
 
@@ -1690,6 +1693,7 @@ head:
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
 - ["형식 힌트부터 가상환경까지" 현대 파이썬 코딩의 4가지 핵심](https://itworld.co.kr/news/341513)
+- [“속도 하락 막고 전처리 수월하게” 파이썬용 필수 데이터 과학 툴 5가지](https://itworld.co.kr/news/342045)
 
 ---
 

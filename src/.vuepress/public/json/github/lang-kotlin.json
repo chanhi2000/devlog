@@ -375,5 +375,15 @@
     "desc": "Compare two build scans using Develocity API",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "JosueMolinaMorales/mutant-kraken",
+    "desc": "A mutation testing tool for kotlin",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "salesforce-misc/ReVoman",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

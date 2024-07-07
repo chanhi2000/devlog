@@ -454,4 +454,10 @@ tag:
 
 ---
 
+## Software Litigation Consulting
+
+- [A blast from the past: Disassembling DOS](https://www.softwarelitigationconsulting.com/wp-content/uploads/2020/08/schulman_blast_from_the_past_disassembling_dos.html)
+
+---
+
 <TagLinks />

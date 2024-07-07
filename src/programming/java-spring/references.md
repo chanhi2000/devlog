@@ -351,6 +351,8 @@ head:
 ### Free Java & OpenJDK Info for Daily Java Usage | foojay
 
 - [Smarter Logging in Spring Boot with AOP](https://foojay.io/today/smarter-logging-in-spring-boot-with-aop/)
+- [Spring AI: How to Write GenAI Applications with Java](https://foojay.io/today/spring-ai-how-to-write-genai-applications-with-java/)
+- [Calling Microservices in Java: Part 1](https://foojay.io/today/calling-microservices-in-java/)
 
 ### 생계형 개발자 연서은
 
@@ -370,6 +372,9 @@ head:
 - [5.2. 책 컨트롤러 클래스 생성](https://ysedeveloper.tistory.com/m/entry/52-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%9D%EC%84%B1)
 - [5.3. 책 생성 화면 컨트롤러 메소드 작성](https://ysedeveloper.tistory.com/m/entry/53-%EC%B1%85-%EC%83%9D%EC%84%B1-%ED%99%94%EB%A9%B4-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%9E%91%EC%84%B1)
 - [5.4. 책 생성 화면 뷰 생성](https://ysedeveloper.tistory.com/m/entry/54-%EC%B1%85-%EC%83%9D%EC%84%B1-%ED%99%94%EB%A9%B4-%EB%B7%B0-%EC%83%9D%EC%84%B1)
+- [6.6. 컨트롤러에 서비스 객체 추가하기](https://ysedeveloper.tistory.com/m/entry/66-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EC%97%90-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9D%EC%B2%B4-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [6.7. 책 입력 컨트롤러 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/67-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [6.8. 책 입력 기능 확인하기](https://ysedeveloper.tistory.com/m/entry/68-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
 ### Suhwan Jee's blog
 
@@ -424,6 +429,14 @@ head:
 
 - [Transactional의 Self Injection이 올바른가](https://sundries-in-myidea.tistory.com/m/167)
 
+### Maciej Walkowiak | Java & Spring Boot | Freelance Software Consultant
+
+- [PostgreSQL and UUID as primary key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
+
+### hudi.blog
+
+- [MySQL는 Order By가 없다면 정렬을 보장하지 않는다](https://hudi.blog/mysql-no-order-by-no-sorting-guarantee/)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -465,6 +478,10 @@ head:
 ### 개발하는 곰돌이
 
 - [\[MockMvc\] MockMvc 테스트 시 한글이 깨져서 테스트에 실패하는 문제](https://colabear754.tistory.com/m/217)
+
+### Seungdols Company
+
+- [kotlin - jackson 관련 이슈 (토비의 스프링 6 강의)](https://seungdols.tistory.com/m/1022)
 
 ---
 

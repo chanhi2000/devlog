@@ -55,4 +55,10 @@ tag:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [Rasberry PI 4 – 기본 무선과 추가 동글이 동시사용](https://www.skyer9.pe.kr/wordpress/?p=9129)
+
+---
+
 <TagLinks />

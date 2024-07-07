@@ -61,4 +61,10 @@ head:
 
 ---
 
+## Ovi Stoica - Software developer, founder, and amateur bjj player.
+
+- [Modern Emacs Typescript Web (React) Config with lsp-mode, treesitter, tailwind, TSX & more](https://www.ovistoica.com/blog/2024-7-05-modern-emacs-typescript-web-tsx-config)
+
+---
+
 <TagLinks />

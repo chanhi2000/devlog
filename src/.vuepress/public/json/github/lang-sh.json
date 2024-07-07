@@ -439,5 +439,15 @@
     "desc": "Command-line tool and bash library that creates JSON",
     "officialSite": "",
     "topics": ["bash", "command-line", "json", "shell", "shell-script", "terminal", "unix"]
+  }, {
+    "repo": "albertobsd/keyhunt",
+    "desc": "privkey hunt for crypto currencies that use secp256k1  elliptic curve",
+    "officialSite": "",
+    "topics": ["bitcoin", "bsgs", "crypto-currencies", "cryptocurrency", "privatekeys", "publickeys", "puzzle", "secp256k1"]
+  }, {
+    "repo": "wolandark/bash-dungeon",
+    "desc": "An educational dungeon crawler in the shell",
+    "officialSite": "",
+    "topics": []
   }
 ]

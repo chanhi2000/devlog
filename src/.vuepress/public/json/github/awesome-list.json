@@ -710,11 +710,6 @@
     "officialSite": "https://akuity.github.io/awesome-argo",
     "topics": ["argo", "argo-events", "argo-rollouts", "argo-workflows", "argocd", "awesome", "awesome-list", "awesome-lists", "cloud-native", "cncf", "continuous-delivery", "devops", "gitops", "infrastructure-as-code", "kubernetes", "machine-learning", "mlops", "workflow-engine", "workflow-management", "workflow-orchestration"]
   }, {
-    "repo": "DopplerHQ/awesome-interview-questions",
-    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓",
-    "officialSite": "https://doppler.com",
-    "topics": ["android-interview-questions", "angularjs-interview-questions", "awesome", "awesome-list", "awesomeness", "interview-practice", "interview-questions", "interviewing", "javascript", "javascript-interview-questions", "list", "python-interview-questions", "rails-interview", "ruby"]
-  }, {
     "repo": "trimstray/the-book-of-secret-knowledge",
     "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "officialSite": "",
@@ -1214,5 +1209,30 @@
     "desc": "🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
     "officialSite": "https://awesome-architecture.com",
     "topics": ["architectural-patterns", "architectural-styles", "architecture", "awesome-list", "clean-architecture", "ddd", "ddd-architecture", "design-pattern", "design-patterns", "design-systems", "event-driven-architecture", "microservice", "microservices", "microservices-architecture", "modular-monoliths", "onion-architecture", "oop", "software-architecture", "system-design", "vertical-slice-architecture"]
+  }, {
+    "repo": "arpit20adlakha/Data-Structure-Algorithms-LLD-HLD",
+    "desc": "A Data Structure Algorithms Low Level Design and High Level Design collection of resources.",
+    "officialSite": "",
+    "topics": ["algorithm", "data-structures", "interview", "interview-questions", "leetcode"]
+  }, {
+    "repo": "tayllan/awesome-algorithms",
+    "desc": "A curated list of awesome places to learn and/or practice algorithms.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "kamranahmedse/design-patterns-for-humans",
+    "desc": "An ultra-simplified explanation to design patterns",
+    "officialSite": "",
+    "topics": ["architecture", "computer-science", "design-patterns", "engineering", "principles", "software-engineering"]
+  }, {
+    "repo": "goabstract/Awesome-Design-Tools",
+    "desc": "The best design tools and plugins for everything 👉",
+    "officialSite": "",
+    "topics": ["animations", "awesome", "awesome-list", "design", "design-systems", "design-tools", "font-awesome", "ui-design"]
+  }, {
+    "repo": "practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials", 
+    "officialSite": "",
+    "topics": []
   }
 ]

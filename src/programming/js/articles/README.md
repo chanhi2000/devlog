@@ -308,6 +308,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Browser Support Tests in JavaScript for Modern Web Features",
+  "desc": "Sometimes it's good to know when a browser feature is supported or not so you can do something. Perhaps load a polyfill or just choose a slightly different approach. This post looks at newish features in browsers and shows the test",
+  "link": "/explore/articles/frontendmasters.com/browser-support-tests-in-javascript-for-modern-web-features.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Script Integrity",
+  "desc": "Polyfill.io recently served malicious code, redirecting users to inappropriate sites. Subresource Integrity (SRI) can help prevent such issues by verifying script integrity.",
+  "link": "/explore/articles/frontendmasters.com/script-integrity.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
 <!-- END: frontendmasters.com -->
 
 ---

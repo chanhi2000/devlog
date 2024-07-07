@@ -73,4 +73,9 @@ head:
 
 ---
 
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- ["API를 위한 유연한 쿼리 언어" 그래프QL 제대로 시작하기](https://itworld.co.kr/news/343305)
+
+
 <TagLinks />

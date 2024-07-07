@@ -29,6 +29,11 @@ tag:
 - [Swift Server Workgroup (SSWG)](https://swift.org/sswg/)
 - [Getting Started with the Static Linux SDK](https://swift.org/documentation/articles/static-linux-getting-started.html)
 - [New GitHub Organization for the Swift Project](https://swift.org/blog/swiftlang-github/)
+- [Plotting a Path to a Package Ecosystem without Data Race Errors](https://www.swift.org/blog/ready-for-swift-6/)
+
+### Forums
+
+- [〜StreamUI: Make videos with SwiftUI](https://forums.swift.org/t/streamui-make-videos-with-swiftui)
 
 ---
 
@@ -83,6 +88,8 @@ tag:
 - [`@jwlee010523` / Swift 기본문법](https://velog.io/@jwlee010523/swift-basics)
 - [`@jwlee010523` / Swift 문자열(String)](https://velog.io/@jwlee010523/swift-string)
 - [`jwlee010523` / Swift 콜렉션 타입(Collection Types)](https://velog.io/@jwlee010523/swift-collection-types)
+- [`@jwlee010523` / `Swift-guard`](https://velog.io/@jwlee010523/swift-guard)
+- [`@jwlee010523` / Swift - `fallthrough`와 `defer`](https://velog.io/@jwlee010523/swift-fallthrough-defer)
 
 ---
 
@@ -135,6 +142,7 @@ tag:
 - [`@domen.lanisnik` - Swift Cheatsheet for Android/Kotlin Developers](https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6)
 - [`@jpmtech` / Dice Challenge in SwiftUI](https://medium.com/@jpmtech/dice-challenge-in-swiftui-a26c82ac1367)
 - [`jamf-engineering` / Swift 6 upgrade Preparation](https://medium.com/jamf-engineering/swift-6-upgrade-preparation-0941fbea2db6)
+- [`donggyu9410` / Swift Protocol](https://donggyu9410.medium.com/swift-protocol-63408ee8b819?source=rss-72a3dab9ff43------2)
 
 ---
 
@@ -802,6 +810,24 @@ tag:
 ## Ole Begemann
 
 - [Understanding SwiftUI view lifecycles](https://oleb.net/2022/swiftui-view-lifecycle/)
+
+---
+
+## elkraneo
+
+- [Diffuse reflection UV computation tool](https://www.elkraneo.com/diffuse-reflection-uv-computation-tool/)
+
+---
+
+## LUDA FUX
+
+- [Consolidated ViewState](https://www.ludafux.com/post/consolidated-viewstate)
+
+---
+
+## Douglas Hill
+
+- [Zoom transitions](https://douglashill.co/zoom-transitions/)
 
 ---
 

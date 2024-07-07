@@ -16,7 +16,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: General > References
+      content: Mathematics > References
     - property: og:description
       content: References
     - property: og:url
@@ -69,6 +69,7 @@ head:
 - [`@ksh4704` - 코드스테이츠-부트캠프 [UX/UI]-Design System(1)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84UXUI-Design-System1)
 - [`@ksh4704` - 코드스테이츠-부트캠프 [UX/UI]-Design System(2)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84UXUI-Design-System2)
 - [`@euisuk-chung` / 신호처리 및 푸리에 변환](https://velog.io/@euisuk-chung/%EC%8B%A0%ED%98%B8%EC%B2%98%EB%A6%AC-%EB%B0%8F-%ED%91%B8%EB%A6%AC%EC%97%90-%EB%B3%80%ED%99%98)
+- [`@euisuk-chung` / \[개념정리\] 시계열 분석의 인과관계 분석](https://velog.io/@euisuk-chung/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84-%EB%B6%84%EC%84%9D)
 
 ---
 

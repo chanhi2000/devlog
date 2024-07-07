@@ -520,11 +520,6 @@
     "officialSite": "https://graphite.rs",
     "topics": ["2d-graphics", "art", "compositor", "design", "graphic-design", "graphics-editor", "image-generation", "image-manipulation", "image-processing", "node-editor", "node-graph", "photo-editing", "photo-editor", "procedural", "procedural-art", "procedural-drawing", "svg-editor", "vector-editor"]
   }, {
-    "repo": "martinvonz/jj",
-    "desc": "A Git-compatible DVCS that is both simple and powerful",
-    "topics": ["git", "cli", "mercurial", "vcs"],
-    "officialSite": ""
-  }, {
     "repo": "ReagentX/imessage-exporter",
     "desc": "Export iMessage data + run iMessage Diagnostics",
     "topics": ["export", "apple", "backup", "reverse-engineering", "cli-app", "imessage"],
@@ -1589,5 +1584,10 @@
     "desc": "An extremely fast, production-grade web bundler based on Rust.",
     "officialSite": "https://makojs.dev",
     "topics": []
+  }, {
+    "repo": "aome510/spotify-player",
+    "desc": "A Spotify player in the terminal with full feature parity",
+    "officialSite": "",
+    "topics": ["cli", "music", "music-player", "player", "rust", "spotify", "spotify-api", "spotify-tui", "terminal", "terminal-based", "tui", "vim"]
   }
 ]

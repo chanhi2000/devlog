@@ -664,6 +664,14 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   "background": "rgba(68,171,218,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Daily habit tracker"
+  desc="Track your daily habits with this simple and efficient tool"
+  url="https://rdht.vercel.app/"
+  logo="https://rdht.vercel.app/favicon.ico"
+  preview="https://rdht.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhabits-dark.e7c1c34e.png&w=1920&q=75"/>
+
 <!-- END:  Cool Project -->
 
 @tab Portfolio / Resume

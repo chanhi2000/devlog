@@ -1132,6 +1132,7 @@ tag:
 ## 폴시랩
 
 - [TypeScript를 사용하는 클린 아키텍처 구성](https://falsy.me/clean-architecture-with-typescript/)
+- [타입스크립트로 알아보는 자료구조](https://falsy.me/%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%a1%9c-%ec%95%8c%ec%95%84%eb%b3%b4%eb%8a%94-%ec%9e%90%eb%a3%8c%ea%b5%ac%ec%a1%b0/)
 
 ---
 
@@ -1216,6 +1217,18 @@ tag:
 ## Outsider's Dev Story
 
 - [Node.js의 v8-inpector 디버깅](https://blog.outsider.ne.kr/1307)
+
+---
+
+## Sjoerd Langkemper
+
+- [HTMX does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
+
+---
+
+## Ykss
+
+- [(번역) 좋은 코드, 테스트 용이한 코드](https://ykss.netlify.app/translation/good_code_testable_code/)
 
 ---
 

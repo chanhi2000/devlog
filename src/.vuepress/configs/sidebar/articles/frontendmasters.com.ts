@@ -11,6 +11,8 @@ export const template: SidebarInfoTemplate = {
       "control-javascript-promises-from-anywhere-using-promise-withresolvers", // 2024-06-05
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
       "popovers-work-pretty-nicely-as-slide-out-drawers", // 2024-06-24
+      "browser-support-tests-in-javascript-for-modern-web-features", // 2024-06-28
+      "script-integrity", // 2024-07-05
     ]], [
     "js-node", [
       "introducing-drizzle", // 2024-06-17
@@ -43,6 +45,8 @@ export const template: SidebarInfoTemplate = {
       "footnotes-progressively-enhanced-to-popovers", // 2024-06-19
       "pure-css-circular-text-without-requiring-a-monospace-font", // 2024-06-21
       "popovers-work-pretty-nicely-as-slide-out-drawers", // 2024-06-24
+      "text-reveal-with-conic-gradient", // 2024-06-26
+      "youtube-embeds-are-bananas-heavy-and-its-fixable", // 2024-07-01
     ]], [
     "chrome", [
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
@@ -80,6 +84,10 @@ export const template: SidebarInfoTemplate = {
       "footnotes-progressively-enhanced-to-popovers", // 2024-06-19
       "pure-css-circular-text-without-requiring-a-monospace-font", // 2024-06-21
       "popovers-work-pretty-nicely-as-slide-out-drawers", // 2024-06-24
+      "text-reveal-with-conic-gradient", // 2024-06-26
+      "browser-support-tests-in-javascript-for-modern-web-features", // 2024-06-28
+      "youtube-embeds-are-bananas-heavy-and-its-fixable", // 2024-07-01
+      "script-integrity", // 2024-07-05
     ]]
   ])
 }

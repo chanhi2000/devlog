@@ -363,7 +363,27 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
-<!-- END:  Programming Tools - General -->
+```component VPCard
+{
+  "title": "LINQPad - The .NET Programmer's Playground",
+  "desc": "The .NET Programmer's Playground",
+  "link": "https://www.linqpad.net/",
+  "logo": "https://www.linqpad.net/favicon.ico",
+  "background": "rgba(0,144,144,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "scratch",
+  "desc": "Edna is a scratchpad and note taking application for developers and power users",
+  "link": "https://edna.arslexis.io/#scratch",
+  "logo": "https://edna.arslexis.io/favicon.ico",
+  "background": "rgba(244,244,248,0.2)"
+}
+```
+
+<!-- END: Programming Tools - General -->
 
 @tab Design & Image
 
@@ -1077,6 +1097,23 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://draw2app.pages.dev/favicon.svg"
   preview="rgba(136,139,148,0.2"/>
 
+```component VPCard
+{
+  "title": "ERD9 - Best Databse Modeling Tool",
+  "desc": "Best Databse Modeling Tool",
+  "link": "https://gujc71.github.io/erd9/",
+  "logo": "https://gujc71.github.io/erd9/images/favicon.ico",
+  "background": "rgba(214,226,251,0.2)"
+}
+```
+
+<SiteInfo
+  name="PIKIMOV ☆ Free web-based motion design and video editor"
+  desc="Pikimov is a free web motion design editor"
+  url="https://pikimov.com/"
+  logo="https://pikimov.com/favicon.png"
+  preview="https://pikimov.com/pikimov-cover.png"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps
@@ -1301,7 +1338,14 @@ https://www.kdi.re.kr/
 
 https://mdis.kostat.go.kr/index.do
 
-<!-- END:  Geospatial -->
+<SiteInfo
+  name="Radio Garden – Seoul"
+  desc="Explore live radio by rotating the globe."
+  url="https://radio.garden/visit/seoul/kxEs9l2m"
+  logo="https://radio.garden/icons/favicon.png"
+  preview="https://radio.garden/public/icons/rg-facebook-1.jpg"/>
+
+<!-- END: Geospatial -->
 
 @tab Network & Security
 

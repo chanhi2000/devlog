@@ -67,25 +67,28 @@ head:
 ## HiGenis
 
 - [STM32 External Loader](https://higenis.notion.site/STM32-External-Loader-e7196eefefff435ab1ff26778f7f1360)
-- [NPU 2Tops가 내장된 Allwinner T527 개발 보드 - MYIRTech MYD-LT527](https://blog.naver.com/chandong83/223394412555)
-- [[공지] [월간 HG Labs] 3월 세미나 STM32 External Loader 공지 사항 - 참석자들 필독 요망](https://blog.naver.com/chandong83/223397077312)
-- [ESP32-S3-ETH-CAN485 보드 자료](https://blog.naver.com/chandong83/223397555779)
-- [STM32G4-2Relay 보드 검증 완료](https://blog.naver.com/chandong83/223404390101)
-- [와... 조...졸았나....](https://blog.naver.com/chandong83/223406717717)
-- [USB to CAN 동글 우분투에서 테스트하기](https://blog.naver.com/chandong83/223407505153) 
-- [ESP32S3_ETH-CAN485 개발 보드 자료 링크(예제,회로도 등)](https://blog.naver.com/chandong83/223422514638)
-- [APM32E103-KIT 개발보드 스토어 판매!!!](https://blog.naver.com/chandong83/223435538204)
-- [인바디 체중계 - 다이얼 H30NWi 개봉기](https://blog.naver.com/chandong83/223441854445)
-- [AllwinnerTech T507 안드로이드 빌드 방법](https://blog.naver.com/chandong83/223450810794)
-- [안드로이드 BSP빌드시 Jack-server 에러(AW A40i)](https://blog.naver.com/chandong83/223450764691)
-- [TouchGFX Failed to load native freetype library! 에러 해결 방법](https://blog.naver.com/chandong83/223451548021)
-- [인바디 체중계- 다이얼 H30NWi - 앱 활용기](https://blog.naver.com/chandong83/223456287268)
-- [NPU 2Tops개 내장된 올위너 T527 개발 보드Forlinx OKT527N-C](https://blog.naver.com/chandong83/223467499457)
-- [TouchGFX 시뮬레이터에서 STM32G4-FDCAN을 이용해 CAN 통신 예제 코드](https://blog.naver.com/chandong83/223479123055?)
-- [STM32H7S78-DK PSRAM HexaSPI에서 OctoSPI로 변경하기](https://blog.naver.com/chandong83/223481914600)
-- [STM32H7S78-DK 보드 - TouchGFX 데모 예제 올리기](https://blog.naver.com/chandong83/223481878871)
-- [X-CUBE-TOUCHGFXx.xx.x is unknown-최신TouchGFX 수동설치하기](https://blog.naver.com/chandong83/223484489682)
-- [STM32G0xx Systick,HAL_GetTick 함수들 호출 안될 때](https://blog.naver.com/chandong83/223487856550?fromRss=true&trackingCode=rss)
+- [NPU 2Tops가 내장된 Allwinner T527 개발 보드 - MYIRTech MYD-LT527](https://m.blog.naver.com/chandong83/223394412555)
+- [[공지] [월간 HG Labs] 3월 세미나 STM32 External Loader 공지 사항 - 참석자들 필독 요망](https://m.blog.naver.com/chandong83/223397077312)
+- [ESP32-S3-ETH-CAN485 보드 자료](https://m.blog.naver.com/chandong83/223397555779)
+- [STM32G4-2Relay 보드 검증 완료](https://m.blog.naver.com/chandong83/223404390101)
+- [와... 조...졸았나....](https://m.blog.naver.com/chandong83/223406717717)
+- [USB to CAN 동글 우분투에서 테스트하기](https://m.blog.naver.com/chandong83/223407505153) 
+- [ESP32S3_ETH-CAN485 개발 보드 자료 링크(예제,회로도 등)](https://m.blog.naver.com/chandong83/223422514638)
+- [APM32E103-KIT 개발보드 스토어 판매!!!](https://m.blog.naver.com/chandong83/223435538204)
+- [인바디 체중계 - 다이얼 H30NWi 개봉기](https://m.blog.naver.com/chandong83/223441854445)
+- [AllwinnerTech T507 안드로이드 빌드 방법](https://m.blog.naver.com/chandong83/223450810794)
+- [안드로이드 BSP빌드시 Jack-server 에러(AW A40i)](https://m.blog.naver.com/chandong83/223450764691)
+- [TouchGFX Failed to load native freetype library! 에러 해결 방법](https://m.blog.naver.com/chandong83/223451548021)
+- [인바디 체중계- 다이얼 H30NWi - 앱 활용기](https://m.blog.naver.com/chandong83/223456287268)
+- [NPU 2Tops개 내장된 올위너 T527 개발 보드Forlinx OKT527N-C](https://m.blog.naver.com/chandong83/223467499457)
+- [TouchGFX 시뮬레이터에서 STM32G4-FDCAN을 이용해 CAN 통신 예제 코드](https://m.blog.naver.com/chandong83/223479123055?)
+- [STM32H7S78-DK PSRAM HexaSPI에서 OctoSPI로 변경하기](https://m.blog.naver.com/chandong83/223481914600)
+- [STM32H7S78-DK 보드 - TouchGFX 데모 예제 올리기](https://m.blog.naver.com/chandong83/223481878871)
+- [X-CUBE-TOUCHGFXx.xx.x is unknown-최신TouchGFX 수동설치하기](https://m.blog.naver.com/chandong83/223484489682)
+- [STM32G0xx Systick,HAL_GetTick 함수들 호출 안될 때](https://m.blog.naver.com/chandong83/223487856550?fromRss=true&trackingCode=rss)
+- [STM32G4_UART2FDCAN 프로젝트](https://m.blog.naver.com/chandong83/223503493254)
+- [STM32G4_LIN 프로젝트](https://m.blog.naver.com/chandong83/223503489336)
+- [STM32CubeProgrammer에서 External Loader 연결해 다운로드하기](https://m.blog.naver.com/chandong83/223502438373)
 
 ---
 
@@ -355,6 +358,18 @@ head:
 ## Alexander Gromnitsky's Blog
 
 - [The cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
+
+---
+
+## carltheperson
+
+- [Creating My Own Linux-Based Smart TV](https://carltheperson.com/posts/earlgreytv/)
+
+---
+
+## Lup Yuen LEE
+
+- [RISC-V Emulator for Sophgo SG2000 SoC (Pine64 Oz64 / Milk-V Duo S)](https://lupyuen.codeberg.page/articles/sg2000b.html)
 
 ---
 
