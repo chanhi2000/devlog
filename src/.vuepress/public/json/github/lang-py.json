@@ -5693,5 +5693,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "facebookresearch/MobileLLM",
+    "desc": "MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -20,7 +20,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/haskell/" />
+<ToCLocal basePath="/programming/hs/" />
 
 ---
 

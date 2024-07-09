@@ -201,6 +201,7 @@ head:
 
 ## Robin Wieruch - Freelance Web Developer
 
+- [React Component with TypeScript](https://www.robinwieruch.de/typescript-react-component/)
 - [How to start a React Project in 2024](https://www.robinwieruch.de/react-starter/)
 - [React Trends in 2024](https://www.robinwieruch.de/react-trends)
 - [React Libraries for 2024](https://www.robinwieruch.de/react-libraries/) <!-- TODO: 읽고 라이브러리 추출 -->
@@ -402,6 +403,7 @@ head:
 
 ## refine
 
+- [How to use React Strict Mode in React 18](https://refine.dev/blog/react-strict-mode-in-react-18/)
 - [⚡refine.new - Introducing the Fastest Way to Create React Apps](https://refine.hashnode.dev/refinenew-introducing-the-fastest-way-to-create-react-apps)
 
 ---
@@ -815,6 +817,7 @@ https://o-yeon.tistory.com/227
 
 ## TkDodo's blog
 
+- [Inside React Query](https://tkdodo.eu/blog/inside-react-query)
 - [React Query and React Context](https://tkdodo.eu/blog/react-query-and-react-context)
 - [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
 - [Why You Want Need React Query](https://tkdodo.eu/blog/why-you-want-react-query)
@@ -1073,6 +1076,30 @@ https://o-yeon.tistory.com/227
 ## Alex Reichert
 
 - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
+
+---
+
+## Tania Rascia
+
+- [Using Path Matching in React Router](https://www.taniarascia.com/path-matching-in-react-router/)
+
+---
+
+## Causal: The finance platform for startups
+
+- [Improving React Interaction Times by 4x](https://www.causal.app/blog/react-perf)
+
+---
+
+## The React Job Simulator - Get on the waitlist to join the next cohort
+
+- [Data Structures In Frontend JavaScript In The Real World](https://profy.dev/article/javascript-data-structures)
+
+---
+
+## Maxime Heckel's Blog
+
+- [The magical world of Particles with React Three Fiber and Shaders](https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/)
 
 ---
 

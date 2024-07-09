@@ -396,4 +396,12 @@ head:
 
 ---
 
+## 재우니의 블로그
+
+- [Docker : ASP.NET MVC 5 Application 을 Docker 도커로 배포하자](https://aspdotnet.tistory.com/m/2302)
+- [Docker : ASP.NET Core 앱이 작동하지 않는 이유?](https://aspdotnet.tistory.com/m/2921)
+- [Docker : Mayan EDMS 4.4.8 버전 설치해 보기](https://aspdotnet.tistory.com/m/3077)
+
+---
+
 <TagLinks />

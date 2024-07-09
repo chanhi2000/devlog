@@ -49,7 +49,7 @@ isOriginal: false
 
 > Available from Swift 5.1
 
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0068-universal-self.md">SE-0068</a> expands Swift’s use of `Self` so that it refers to the containing type when used inside classes, structs, and enums. This is particularly useful for *dynamic* types, where the exact type of something needs to be determined at runtime.
+[SE-0068 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/master/proposals/0068-universal-self.md) expands Swift’s use of `Self` so that it refers to the containing type when used inside classes, structs, and enums. This is particularly useful for *dynamic* types, where the exact type of something needs to be determined at runtime.
 
 As an example, consider this code:
 

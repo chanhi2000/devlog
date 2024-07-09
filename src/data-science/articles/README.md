@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Article(s)
 description: Data Science > Article(s)
-icon: iconfont icon-share
+icon: fas fa-square-share-nodes
 category:
   - Data Science 
   - Article(s)

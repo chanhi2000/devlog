@@ -1,14 +1,17 @@
 ---
 lang: ko-KR
-title: Claude
-description: Claude
-icon: iconfont icon-claude
+title: LangChain
+description: LangChain
+icon: iconfont icon-langchain
 category: 
-  - Claude
   - AI
+  - LLM 
+  - LangChain
 tag:
   - ai
-  - claude
+  - llm
+  - langchain
+  - lang-chain
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -2,7 +2,7 @@
   "channel": {
     "id": "eddiejaoude",
     "name": "Eddie Jaoude",
-    "profile": "https://yt3.googleusercontent.com/AYrAjbqBS43Ocd0FMbrM0f27kwqKCjh46Pi8tPVIGdN8IIy4oInLDVVfNNyU4Wmtjw2mbkq3=s176-c-k-c0x00ffffff-no-rj",
+    "profile": "https://yt3.googleusercontent.com/O3KOrxrlnZnDEzTs2X6QKIMu6qkqBtNekrkhewYT87qC4mO_1_1BpZ7VsyOlM5KW9TiYFRLuPwo=s160-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/cJk7WK4_iRZKQ4N5gWD06RoYbDg4V47eeEYrrwqWWpvKhsuux1XUuT-II_wk1K6LInYxmJsF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
@@ -40,5 +40,8 @@
     { "id": "yOPyK5WMxCs", "title": "Kubernetes as a Web Dev" }, 
     { "id": "7Put3ddOpTw", "title": "5 GitHub Profiles that STAND OUT" }, 
     { "id": "R75j79yNSKg", "title": "Learning about Kubernetes at KubeHuddle in person event UK" }
+  ],
+  "playlists": [
+    
   ]
 }

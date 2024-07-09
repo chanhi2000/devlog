@@ -135,6 +135,11 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`neuml` / Getting started with semantic search](https://medium.com/neuml/getting-started-with-semantic-search-a9fd9d8a48cf)
+- [`towardsdatascience` / Building Generator Pipelines in Python](https://towardsdatascience.com/building-generator-pipelines-in-python-8931535792ff)
+- [`towardsdatascience` / Parallelization in Python: The Easy Way](https://towardsdatascience.com/parallelization-in-python-the-easy-way-aa03ed04c209)
+- [`pythoniq` / Make beautiful QR codes in Python](https://medium.com/pythoniq/make-beautiful-qr-codes-in-python-ef083fb38550)
+- [`neuml` / Debug ONNX GPU Performance](https://medium.com/neuml/debug-onnx-gpu-performance-c9290fe07459)
 - [`pythoniq` / So, Single (‘) or Double (“) Quotes in Python?](https://medium.com/pythoniq/so-single-or-double-quotes-in-python-47c2e7425f32)
 - [`betterprogramming` / Using Computer Vision To Destroy My Childhood High Score in a DS Game](https://betterprogramming.pub/using-computer-vision-to-destroy-my-childhood-high-score-in-a-ds-game-38ebd53a1d64)
 - [`petefison` / Ode to Python](https://medium.com/@petefison/ode-to-python-7e273ae1762b)
@@ -150,6 +155,9 @@ head:
 - [[python] 버전 변경](https://medium.com/%EB%8F%84%EA%B9%A8%EB%B9%84-%EC%9D%B4%EC%95%BC%EA%B8%B0/python-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-03cece908cac)
 - [`lemonbase` / 이거 어디까지 올라가는 거예요? - 성능 테스트 환경 구축기](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
 - [`jhk0530` / Quarto 블로그에서 여러 언어로 포스팅하기](https://jhk0530.medium.com/quarto-blog-multilanguage-e04dd562ba5c)
+- [`techtofreedom` / 8 Levels of Using Type Hints in Python](https://medium.com/techtofreedom/8-levels-of-using-type-hints-in-python-a6717e28f8fd)
+
+<!-- END: medium.com -->
 
 ---
 
@@ -497,6 +505,7 @@ head:
 
 ## Python⇒Speed
 
+- [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/)
 - [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
 - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
@@ -968,6 +977,7 @@ head:
 
 ## SuperFastPython
 
+- [Parallel Nested For-Loops in Python](https://superfastpython.com/parallel-nested-for-loops-in-python/)
 - [Concurrent Programming in Python](https://superfastpython.com/concurrent-programming/)
 - [5 Common Asyncio Errors in Python (and how to avoid them)](https://superfastpython.com/asyncio-common-errors/)
 - [5 Ways to Measure Execution Time in Python](https://superfastpython.com/benchmark-execution-time/)
@@ -1468,6 +1478,7 @@ head:
 
 ## Monadical Consulting
 
+- [How to build a modular arithmetic library in Python](https://monadical.com/posts/modular-arithmetic.html)
 - [From Chaos to Cohesion: Architecting Your Own Monorepo](https://monadical.com/posts/from-chaos-to-cohesion.html)
 
 ---
@@ -1837,7 +1848,7 @@ head:
 
 ---
 
-## Ian Bicking: a blog 
+## Ian Bicking: a blog
 
 - [Infinite AI Array](https://ianbicking.org/blog/2023/01/infinite-ai-array.html)
 
@@ -1882,6 +1893,42 @@ head:
 ## Niklas Oberhuber's Posts & Notes
 
 - [Reverse Engineering the Verification QR Code on my Diploma](https://obrhubr.org/reverse-engineering-diploma)
+
+---
+
+## PyPy
+
+- [Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing](https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html)
+
+---
+
+## Gui Commits | Software Engineering
+
+- [Effective Python Async like a PRO 🐍🔀](https://guicommits.com/effective-python-async-like-a-pro/)
+
+---
+
+## Inference
+
+- [The Origins of Python](https://inference-review.com/article/the-origins-of-python)
+
+---
+
+## Technical Ramblings
+
+- [Python 3.11 micro-benchmark](https://kracekumar.com/post/micro-benchmark-python-311/)
+
+---
+
+## Best Web Scraping Toolkit - ZenRows
+
+- [How to Scrape JavaScript-Rendered Web Pages with Python](https://www.zenrows.com/blog/scraping-javascript-rendered-web-pages)
+
+---
+
+## Маниакальный веблог
+
+- [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
 
 ---
 

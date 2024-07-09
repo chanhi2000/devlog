@@ -12,9 +12,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Node.js > Youtube
+      content: JavaScript > Youtube
     - property: og:description
-      content: Node.js > Youtube
+      content: Youtube
     - property: og:url
       content: https://chanhi2000.github.io/programming/js/youtube.html
 ---
@@ -28,5 +28,6 @@ head:
 <MyYouTubeItems jsonName="yu-dcode-software" /><!-- dcode -->
 <MyYouTubeItems jsonName="yu-SuperSimpleDev" /><!-- SuperSimpleDev -->
 <MyYouTubeItems jsonName="yu-interviewingio" /><!-- interviewing.io -->
+<MyYouTubeItems jsonName="yu-AlgoJS" /><!-- AlgoJS -->
 
 <TagLinks />

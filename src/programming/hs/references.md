@@ -18,7 +18,7 @@ head:
     - propert: og:type
       content: article
     - property: og:url
-      content: https://chanhi2000.github.io/programming/haskell/references.html
+      content: https://chanhi2000.github.io/programming/hs/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -625,6 +625,9 @@ tag:
 - [`proandroiddev` / Everything about Customizing coroutine contexts in kotlin](https://proandroiddev.com/everything-about-customizing-coroutine-contexts-in-kotlin-0a8a129bbc41)
 - [`javarevisited` / Kotlin DSL Mastery: Techniques, Patterns & Implementation](https://medium.com/javarevisited/kotlin-dsl-primer-techniques-patterns-implementation-1c16cac90f5d)
 - [`google-developer-experts` / Kotlin Coroutine mechanisms: `launch` v. `async`](https://medium.com/google-developer-experts/kotlin-coroutine-mechanisms-launch-v-async-7877f8b67e30)
+- [`proandroiddev` / SOLID Design Principles In Kotlin](https://proandroiddev.com/solid-design-principles-in-kotlin-79100c670df1)
+
+<!-- END: medium -->
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -773,6 +776,7 @@ tag:
 - [\[Reactor\] 서버 느리게 만드는 API 개발하기 (feat: `block`)](https://yeonyeon.tistory.com/m/330)
 - [왜 코루틴을 써야할까?](https://yeonyeon.tistory.com/m/332)
 - [\[Coroutine\] 코루틴 빌더, 코루틴 컨텍스트](https://yeonyeon.tistory.com/m/333)
+- [\[Coroutine\] 코루틴 디스패처](https://yeonyeon.tistory.com/m/336)
 
 ### Yun Blog
 

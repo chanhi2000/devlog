@@ -226,6 +226,8 @@ tag:
 - [`@2hV3` / 내가 디자이너와 PO를 거쳐 뼈저리게 배운 것 - 시간이 많이 지나서야 하는 회고](https://brunch.co.kr/@@2hV3/237)
 - [`@2xm` / 빠르게 하는 것의 중요성 - 제대로 문제를 해결하는 방법](https://brunch.co.kr/@@2xm/80)
 - [`@2rV` / 성장하는 제품 중심 조직의 핵심: 학습과 실험 - 빠른 학습의 중요성: 마크 저커버그가 말하는 성공적인 기업의 비결](https://brunch.co.kr/@@2rV/134)
+- [`@2weV` / 하반기, 내 커리어에 모멘텀 만들기 (Ringle)](https://brunch.co.kr/@@2weV/528)
+- [`@3L0s` / 디지털 제품 생산-유통 - 디지털 혁신-14](https://brunch.co.kr/@@3L0s/117)
 
 ---
 
@@ -1285,6 +1287,18 @@ https://blog.naver.com/&logId=
 ## 지앤선의 책 사랑
 
 - [\[한글화 프로젝트\] 개발자에서 관리자까지: 기술력을 유지해라](https://jinson.tistory.com/m/285)
+
+---
+
+## Paul Graham
+
+- [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
+
+---
+
+## Doumer's Blog
+
+- [10 Things Every Junior Software Developer Should Know To Be Successful](https://doumer.me/10-things-every-junior-software-developers-should-know/)
 
 ---
 

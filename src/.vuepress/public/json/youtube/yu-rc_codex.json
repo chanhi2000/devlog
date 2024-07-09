@@ -2,8 +2,8 @@
   "channel": {
     "id": "rc_codex",
     "name": "rccodex",
-    "profile": "https://yt3.googleusercontent.com/4qJhZjwEBMMBSn9l85UIzd9Uf4P28NWzhniPP4GVVTI9Q8UXkv3a5BAQsEK6PD8MKgBDw2WNfw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/I6-F2QFGbGocMWgsu666-Vlvf_Qa4DKn1hbmEdxdR6otIOAoLVkYYoosPP1G02K9XoanRqJ5Vw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/-ZJNTmgGJOiNJC1Pd_lf4thMcEs_e7aB5CNKcVHOqtxfodY2Fpy6SkUHdfQOVHV2xzMBzL80BQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8MMi9OGolB8kol77EFQwt4KMhlAVE0WPK78iErjaNIErOvjxgYfaNwucvWDgL-mVQyQovslQzQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "UJasHyVayK0", "title": "animated buttons using html css | creating buttons using html css" },
@@ -27,5 +27,8 @@
     { "id": "3BWlfd54Otg", "title": "FLOTING NAVIGATION BAR || Html + Css Tutorial Navbar" },
     { "id": "05udfPdS2Ws", "title": "🔥🛕Jai shree Ram🛕 #rccodex #coder" },
     { "id": "aLW-AgrmAgM", "title": "How to create Navbar? Navbar kese bnaye html css se #rccodex #coder" }
+  ],
+  "playlists": [
+    
   ]
 }

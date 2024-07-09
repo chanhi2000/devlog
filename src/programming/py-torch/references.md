@@ -53,6 +53,7 @@ head:
 
 - [`@1aft` / PyTorch 쓰세요(5). - #VAE #CONV #MNIST](https://brunch.co.kr/@@1aft/132)
 - [`@1aft` / PyTorch 쓰세요(6). - #GEOMETRIC #REC_SYSTEM](https://brunch.co.kr/@@1aft/133)
+- [`@1aft` / PyTorch 쓰세요(6). - #GEOMETRIC #REC_SYSTEM](https://brunch.co.kr/@@1aft/133)
 
 ---
 

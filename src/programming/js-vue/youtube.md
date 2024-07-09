@@ -41,7 +41,7 @@ head:
 <MyYouTubeItems jsonName="yu-WatchandLearnTutorials" /><!-- Watch and Learn -->
 <MyYouTubeItems jsonName="yu-edwardwardell-yerburgh378" /><!-- Edward Wardell-Yerburgh -->
 <MyYouTubeItems jsonName="yu-VueMastery" /><!-- Vue Mastery -->
-<MyYouTubeItems jsonName="yu-CodingCafe1" /><!-- 코딩카페1 -->
+<MyYouTubeItems jsonName="yu-jsontype" /><!-- jsontype -->
 <MyYouTubeItems jsonName="yu-jsWithTola" /><!-- Giwa Fauzziyyah -->
 <MyYouTubeItems jsonName="yu-danteDeveloper" /><!-- 단테 -->
 <MyYouTubeItems jsonName="yu-JustinJackson" /><!-- Justin Jackson -->

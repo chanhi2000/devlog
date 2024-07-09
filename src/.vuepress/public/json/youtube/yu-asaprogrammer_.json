@@ -2,8 +2,8 @@
   "channel": {
     "id": "asaprogrammer_",
     "name": "As a Programmer",
-    "profile": "https://yt3.googleusercontent.com/_h_p-OVRpbr9NzhfQNwIygLtbcHcwTUXqyc09L_OO6T0f1H9hH5MFOxLb4otU5C9uqNuhvv3NLk=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/cTzhIzgjGffDZuAtsjyVHzb9hTBO2HJB2uqsoJHGI56fkQ_w94p8XOaK8clBQ7y2rBP2-QaV5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/_h_p-OVRpbr9NzhfQNwIygLtbcHcwTUXqyc09L_OO6T0f1H9hH5MFOxLb4otU5C9uqNuhvv3NLk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bRQQVgLmDp7q5TEPS5aHgZjzL8hUhnP9t-87Gr7zpp4y9flEePj2RxViSRd5m8htAJHWIRSYzvs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "G4V4xO9wyD8", "title": "12+ Hour MERN Masterclass: Build and Deploy a Threads App with Real-Time Chat Functionality" },
@@ -20,5 +20,8 @@
     { "id": "VVJynV_gpLM", "title": "Sound Notification Tutorial for Chat Applications | ReactJS" },
     { "id": "IBNMA3uwg9M", "title": "How to Implement Account Freezing Functionality in a Social Media App Using React" },
     { "id": "tvKhOAlAjTY", "title": "Learn MERN Stack Once And Don't Forget Ever Again | Create a Full Stack Threads Clone" }
+  ],
+  "playlists": [
+    
   ]
 }

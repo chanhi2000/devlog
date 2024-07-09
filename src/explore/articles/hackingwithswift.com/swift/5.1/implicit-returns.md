@@ -49,7 +49,7 @@ isOriginal: false
 
 > Available from Swift 5.1
 
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0255-omit-return.md">SE-0255</a> has removed a small but important inconsistency in the language: single-expression functions that return a value can now remove the `return` keyword and Swift will understand it implicitly.
+[SE-0255 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/master/proposals/0255-omit-return.md) has removed a small but important inconsistency in the language: single-expression functions that return a value can now remove the `return` keyword and Swift will understand it implicitly.
 
 In previous versions of Swift, single-line closures that returned a value you could omit the `return` keyword because the only line of code that was there *must* be the one that returned a value. So, these two pieces of code were identical:
 

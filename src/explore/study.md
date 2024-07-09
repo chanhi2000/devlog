@@ -760,6 +760,20 @@ https://www.joinc.co.kr/w/Site
   logo="https://www.totaltypescript.com/favicon.ico"
   preview="https://res.cloudinary.com/total-typescript/image/upload/v1718801512/typescript-essentials_b2myrp.jpg"/>
 
+<SiteInfo
+  name="Natural Language Processing Demystified: Course Content"
+  desc="Course content for Natural Language Processing Demystified, a free, accessible course on NLP."
+  url="https://www.nlpdemystified.org/course"
+  logo="https://www.nlpdemystified.org/favicon.ico"
+  preview="https://res.cloudinary.com/dhog0vtjw/image/upload/v1676391077/social_media_image_q2zyxu.png"/>
+
+<SiteInfo
+  name="ReactJS Tutorial: A Step-by-Step Guide To Learn React"
+  desc="This ReactJS tutorial explains the basics of ReactJS, ReactJS components, props, and state in React JS. Read on to learn more about ReactJS"
+  url="https://www.simplilearn.com/tutorials/reactjs-tutorial"
+  logo="https://www.simplilearn.com/static/frontend/images/favicon/favicon.ico"
+  preview="https://www.simplilearn.com/ice9/webinar_thum_image/ReactJS_Tutorial.jpg"/>
+
 <!-- END: Crashcourse -->
 
 @tab Cheatsheet

@@ -86,7 +86,7 @@ tag:
 <MyYouTubeItems jsonName="yu-LetCreateAnApp" /><!-- Let Create An App -->
 <MyYouTubeItems jsonName="yu-SwiftfulThinking" /><!-- Swiftful Thinking -->
 <MyYouTubeItems jsonName="yu-maxcodes" /><!-- maxcodes -->
-<MyYouTubeItems jsonName="yu-swiftuitutorial1" /><!-- SwiftUI Tutorial#1 -->
+<MyYouTubeItems jsonName="yu-coreswiftui" /><!-- Core SwiftUI: Animation & Design -->
 <MyYouTubeItems jsonName="yu-martinlasek" /><!-- Martin Lasek -->
 <MyYouTubeItems jsonName="yu-FloWritesCode" /><!-- Flo writes Code -->
 <MyYouTubeItems jsonName="yu-MikaelaCaron" /><!-- Mikaela Caron -->
@@ -96,7 +96,7 @@ tag:
 <MyYouTubeItems jsonName="yu-KxCoding" /><!-- KxCoding -->
 <MyYouTubeItems jsonName="yu-swiftui2" /><!-- App Designer2 -->
 <MyYouTubeItems jsonName="yu-TomBaranowicz" /><!-- Tom Baranowicz -->
-<MyYouTubeItems jsonName="yu-EugeneIOSDev" /><!-- Eugene Berezin -->
+<MyYouTubeItems jsonName="yu-Eugene.Berezin" /><!-- Eugene Berezin -->
 <MyYouTubeItems jsonName="yu-EssentialDeveloper" /><!-- Essential Developer -->
 <MyYouTubeItems jsonName="yu-AnyoneCanCode" /><!-- Anyone Can Code -->
 <MyYouTubeItems jsonName="yu-appstuff5778" /><!-- AppStuff -->
@@ -109,7 +109,7 @@ tag:
 <MyYouTubeItems jsonName="yu-bigmtnstudio" /><!-- Mark Moeykens -->
 <MyYouTubeItems jsonName="yu-CornellAppDev" /><!-- Cornell AppDev -->
 <MyYouTubeItems jsonName="yu-SergeyKargopolov" /><!-- Sergey Kargopolov -->
-<MyYouTubeItems jsonName="yu-AnthonyDesignCode" /><!-- AnthonyDesignCode -->
+<MyYouTubeItems jsonName="yu-AnthonyDesignCode" /><!-- Code With Ant -->
 <MyYouTubeItems jsonName="yu-joshbrown5197" /><!-- Josh Brown -->
 <MyYouTubeItems jsonName="yu-iOSConfSG" /><!-- iOS Conf SG -->
 <MyYouTubeItems jsonName="yu-CodePro" /><!-- Code Pro -->

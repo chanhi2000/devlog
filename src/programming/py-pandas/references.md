@@ -117,4 +117,10 @@ head:
 
 ---
 
+## wrighters.io
+
+[Options to run pandas DataFrame.apply in parallel](https://www.wrighters.io/options-to-run-pandas-dataframe-apply-in-parallel/)
+
+---
+
 <TagLinks />

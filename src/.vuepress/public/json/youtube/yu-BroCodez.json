@@ -2,8 +2,8 @@
   "channel": {
     "id": "BroCodez",
     "name": "Bro Code",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPOln_JxIU4V-k9gHlUVgV4dIK9jQaM2Z9iEIdgrg=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/BhfIUXi4Wqi4GwaDzjHdGq_qRyQ0ClXzFDBouSR5qUU_cWRticht9viCJgXujMzoEAIY2ynmVA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DglmKG9Z46doQVWYd6t1YsL902KK_yEddormB2y7KqU4rnG59KrmUKXfJUS7bQWFBTUJ5EXK=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "CgkZ7MvWUAA", "title": "React Full Course for free ⚛️ (2024)" },
@@ -16,5 +16,8 @@
     { "id": "oe5YYh9mhzw", "title": "You MUST Instrument Your Code With OpenTelemetry!" }, 
     { "id": "rFssfx37UJw", "title": "MySQL: FOREIGN KEYS are easy (kind of)" }, 
     { "id": "Kmgo00avvEw", "title": "Java GUI: Full Course ☕ (FREE)" } 
+  ],
+  "playlists": [
+    
   ]
 }

@@ -138,6 +138,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Prepare to pass the AWS SysOps Administrator Associate (SOA-C02) Certification",
+  "desc": "IAre you trying to earn the AWS SysOps Administrator Associate certification? We just released a MASSIVE course on the freeCodeCamp.org YouTube channel that is is designed to help you pass the certification exam and showcase your expertise in AWS tech...",
+  "link": "/explore/articles/freecodecamp.org/prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

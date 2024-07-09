@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Sketch
 description: Sketch
-icon: fa-brands fa-figma
+icon: fa-brands fa-sketch
 category:
   - Design
   - Sketch

@@ -50,7 +50,7 @@ isOriginal: false
 
 > Available from Swift 5.1
 
-<a href="https://github.com/apple/swift-evolution/blob/master/proposals/0242-default-values-memberwise.md">SE-0242</a> introduced major improvements to one of Swift’s most commonly used features: memberwise initializers for structs.
+[SE-0242 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/master/proposals/0242-default-values-memberwise.md) introduced major improvements to one of Swift’s most commonly used features: memberwise initializers for structs.
 
 In earlier versions of Swift, a memberwise initializer was automatically created to accept parameters matching the properties of a struct, like this:
 

@@ -2,8 +2,8 @@
   "channel": {
     "id": "josehp_han",
     "name": "HAN SANG HOON",
-    "profile": "https://yt3.googleusercontent.com/-mW46PbronywwkSVVy6wOlugWzsWflf954V9POkFFAxZ-k76rRI7IWirNsRvs2U3gUX1MFeuYQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/KMt9yD7pDuEi0RlxDreZpvO2syzoZdqy9dBnzTRHWw2txDh8uN0Znk1hCcSjyKfJM7flWRlpXg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/RKRGnIjapKMO_K5o4k0GcVnC8T7shY5zU9TiNHVWPeIGYMnHEwwVg8utCr-OGfs2FyQuLHMG=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WSLIomBExHqreDwSs8ciRrWIz9GhCA2kyU4rwDJPq-2rcrHgnZw8IRFjPyYtHaya7YsPds3gXXE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "kzuxUfQ_wiE", "title": "Live streaming challenge for 12 hours every weekday in 2024(2024. 2. 28)" },
@@ -17,5 +17,8 @@
     { "id": "HxutXYq3T8U", "title": "[4K] 극초보용 리덕스 사용법" },
     { "id": "GRM8Iq6N214", "title": "이제는 AI가 UI, 프론트 코드도 만들어줍니다(openV0 뜯어보기)" },
     { "id": "TzczeyoTidw", "title": "최고의 개발자들의 코드를 보고 트랜드를 읽는 방법[4K]" }
+  ],
+  "playlists": [
+    
   ]
 }

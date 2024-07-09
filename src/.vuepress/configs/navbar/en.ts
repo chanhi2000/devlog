@@ -118,6 +118,7 @@ export const navbarEn = navbar([
         children: [
           '/programming/js/README.md',
           '/programming/npm/README.md',
+          '/programming/ts/README.md',
           '/programming/js-node/README.md',
           '/programming/js-react/README.md',
           '/programming/js-vue/README.md',
@@ -200,7 +201,7 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-elixir',
       }, {
         text: 'Haskell',
-        link: '/programming/haskell/README.md',
+        link: '/programming/hs/README.md',
         icon: 'iconfont icon-haskell',
       }, {
         text: 'Scala',

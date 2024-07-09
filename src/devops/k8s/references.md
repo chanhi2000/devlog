@@ -369,4 +369,10 @@ head:
 
 ---
 
+## Jeongchul Kim
+
+- [Kubernetes Control-Plane Node에 Taint 해제](https://jeongchul.tistory.com/m/712)
+
+---
+
 <TagLinks />

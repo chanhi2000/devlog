@@ -40,6 +40,9 @@ export const template: SidebarInfoTemplate = {
       "javascript-gamedev-with-kaboomjs", // 2024-06-28
       "how-to-use-callback-functions-in-javascript", // 2024-07-03
     ]],[
+    "ts", [
+      "learn-typescript-with-interactive-lessons", // 2024-07-09
+    ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024-03-28
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -184,6 +187,9 @@ export const template: SidebarInfoTemplate = {
     "gd", [
       "learn-to-create-a-3d-rpg-game-with-godot", // 2024-06-20
     ]],[
+    "hs", [
+      "how-to-use-pandoc", // 2024-07-09
+    ]],[
     "github", [
       "create-personalized-github-profile-page", // 2024-05-01
       "how-to-become-an-open-source-maintainer", // 2024-05-20
@@ -212,6 +218,7 @@ export const template: SidebarInfoTemplate = {
       "auto-scaling-and-load-balancing", // 2024-06-17
       "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
       "upload-large-files-with-aws", // 2024-07-08
+      "prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification", // 2024-07-09
     ]],[
     "azure", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -271,6 +278,7 @@ export const template: SidebarInfoTemplate = {
       "generative-ai-handbook", // 2024-06-20
       "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
+      "knowledge-distillation-in-deep-learning-models", // 2024-07-09
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -427,6 +435,10 @@ export const template: SidebarInfoTemplate = {
       "what-is-a-markov-chain", // 2024-07-08
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
+      "knowledge-distillation-in-deep-learning-models", // 2024-07-09
+      "how-to-use-pandoc", // 2024-07-09
+      "learn-typescript-with-interactive-lessons", // 2024-07-09
+      "prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification", // 2024-07-09
     ]],
   ]),
 }

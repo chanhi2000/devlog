@@ -91,4 +91,10 @@ head:
 
 ---
 
+## Sebastian Witowski
+
+- [How to Benchmark (Python) Code](https://switowski.com/blog/how-to-benchmark-python-code/)
+
+---
+
 <TagLinks />

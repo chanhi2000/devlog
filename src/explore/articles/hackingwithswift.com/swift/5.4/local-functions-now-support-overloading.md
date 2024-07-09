@@ -49,7 +49,63 @@ isOriginal: false
 
 > Available from Swift 5.4
 
-<!-- TODO: 작성 -->
+[<FontIcon icon="fa-brands fa-swift"/>SR-10069](https://bugs.swift.org/browse/SR-10069) requested the ability to overload functions in local contexts, which in practice means nested functions can now be overloaded so that Swift chooses which one to run based on the types that are used.
+
+For example, if we wanted to make some simple cookies we might write code like this:
+
+```swift
+struct Butter { }
+struct Flour { }
+struct Sugar { }
+
+func makeCookies() {
+    func add(item: Butter) {
+        print("Adding butter…")
+    }
+
+    func add(item: Flour) {
+        print("Adding flour…")
+    }
+
+    func add(item: Sugar) {
+        print("Adding sugar…")
+    }
+
+    add(item: Butter())
+    add(item: Flour())
+    add(item: Sugar())
+    print("Come and get some cookies!")
+}
+
+makeCookies()
+```
+
+Prior to Swift 5.4, the three `add()` methods could be overloaded only if they were not nested inside `makeCookies()`, but from Swift 5.4 onwards function overloading is supported in this case as well.
+
+Swift 5.4 also lets us call local functions before they are declared, meaning that we can now write code like this if needed:
+
+```swift
+func makeCookies2() {   
+    add(item: Butter())
+    add(item: Flour())
+    add(item: Sugar())
+
+    func add(item: Butter) {
+        print("Adding butter…")
+    }
+
+    func add(item: Flour) {
+        print("Adding flour…")
+    }
+
+    func add(item: Sugar) {
+        print("Adding sugar…")
+    }
+}
+
+makeCookies2()
+```
+
 
 ::: details Other Changes in Swift 5.4
 

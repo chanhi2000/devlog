@@ -92,6 +92,7 @@ head:
 
 ## Substack
 
+- [`maximumeffort` / Maximum Effort, Minimum Reward](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
 - [`pragmaticengineer` - Scaling ChatGPT: Five Real-World Engineering Challenges](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt)
 - [`airstreet` - Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai)
 
@@ -354,6 +355,7 @@ head:
 - [개발자 부럽지 않은 챗GPT 프롬프트 엔지니어링 구글시트 기반으로 관리 시작하기](https://tykimos.github.io/2024/04/20/start_prompt_engineering_management_based_on_google_sheets_that_developers_will_envy/)
 - [AI 인플루언서 타이리와 함께하는 프레스터 존 전시 탐방기](https://tykimos.github.io/2024/05/21/exploring_the_prester_john_exhibition_with_ai_influencer_tyri/)
 - [ChatGPT의 시스템 프롬프트를 얻는 방법](http://tykimos.github.io/2024/07/08/how_to_get_the_system_prompt_of_chatgpt_ko/)
+- [챗GPT의 Dall-E 가이드라인 살펴보기](http://tykimos.github.io/2024/07/08/exploring_the_dalle_tool_guidelines_provided_by_chatgpt_ko/)
 
 ---
 
@@ -369,6 +371,8 @@ head:
 - [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (2)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-2)
 - [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (3)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-3)
 - [GPT4o로 외국어 버전 앱 만들기 1탄 - 광고에 대한 이해](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EC%99%B8%EA%B5%AD%EC%96%B4-%EB%B2%84%EC%A0%84-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%83%84-%EA%B4%91%EA%B3%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
+- [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(2)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC2)
+- [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(1)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC1)
 
 ---
 
@@ -407,6 +411,12 @@ head:
 ## Alex Strick van Linschoten
 
 - [My finetuned models beat OpenAI’s GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
+
+---
+
+## Engraved
+
+- [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 
 ---
 

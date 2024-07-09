@@ -1500,6 +1500,114 @@ head:
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
+``````component VPCard
+{
+  "title": "C# Design Patterns – Facade",
+  "desc": "In this article we are going the describe the Facade Pattern and what difference does it make in our code, as well as its implementation.",
+  "link": "/explore/articles/code-maze.com/facade.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting Started with ASP.NET Core and MongoDB",
+  "desc": "In this article, we’re going to cover how to set up and configure an ASP.NET Core Web API with MongoDB as our database.",
+  "link": "/explore/articles/code-maze.com/getting-started-aspnetcore-mongodb.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Multiple Environments in ASP.NET Core",
+  "desc": "In this article, we’re going to cover how to set up and manage multiple environments in ASP.NET Core through different examples.",
+  "link": "/explore/articles/code-maze.com/multiple-environments-in-asp-net-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "OWASP Top 10 – Sensitive Data Exposure",
+  "desc": "Sensitive data exposure occurs when an application accidentally exposes sensitive data and it usually occurs when we fail to protect our application data.",
+  "link": "/explore/articles/code-maze.com/owasp-top-10-sensitive-data-exposure.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Migrate the IdentityServer4 Configuration to the Database with EntityFramework Core",
+  "desc": "In this article we are going to learn how to Migrate the IdentityServer4 Configuration to the MS SQL database in a few easy steps.",
+  "link": "/explore/articles/code-maze.com/migrate-identityserver4-configuration-to-database.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Securing Web API with the Hybrid Flow",
+  "desc": "In this article, we are going to learn about Securing Web API by using the Hybrid Flow. Additionally, we are going to use Policies to secure our app.",
+  "link": "/explore/articles/code-maze.com/securing-webapi-hybrid-flow.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "IdentityServer4 Authorization and Working with Claims",
+  "desc": "We are going to learn how to add new claims and modify existing ones. Additionally, we are going to learn about the IdentityServer4 Authorization process.",
+  "link": "/explore/articles/code-maze.com/identityserver4-authorization.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The Hybrid Flow – Securing ASP.NET Core Web Application",
+  "desc": "In this article, we are going to learn how to protect our Web Application by using the Hybrid Flow. Also, we'll learn to retrieve additional user data.",
+  "link": "/explore/articles/code-maze.com/hybrid-flow-securing-aspnetcore-web-application.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Easily Deploy ASP.NET Core Web API to Kubernetes Cluster on Azure",
+  "desc": "In this article, let's learn about one simple way to deploy an ASP.NET Core Web API app to Kubernetes Cluster on Azure with Codefresh.",
+  "link": "/explore/articles/code-maze.com/deploy-aspnetcore-webapi-kubernetes-cluster-azure.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "IdentityServer4 UI and Web API Basic Security",
+  "desc": "In this article, we are going to learn how to add IdentityServer4 UI in the project and how to setup the basic Web API protection using IS4",
+  "link": "/explore/articles/code-maze.com/identityserver4-ui-webapi-basic-security.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "IdentityServer4 Integration with ASP.NET Core",
+  "desc": "In this article, we are going to learn about the IdentityServer4 Integration with ASP.NET Core project. We will learn about the flows and integration setup.",
+  "link": "/explore/articles/code-maze.com/identityserver4-integration-aspnetcore.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
 ```
 
 <!--END: code-maze.com -->

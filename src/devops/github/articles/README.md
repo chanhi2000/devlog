@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - code-maze.com
   - yozm.wishket.com
   - engineering.linecorp.com
   - git
@@ -33,6 +34,13 @@ head:
   url="https://freecodecamp.org/news/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+<SiteInfo
+  name="Code Maze - C#, .NET and Web Development Tutorials"
+  desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
+  url="https://code-maze.com/latest-posts-on-code-maze/"
+  logo="/images/content/code-maze.com/favicon.png"
+  preview="/images/content/code-maze.com/banner.png"/>
 
 ```component VPCard
 {
@@ -101,6 +109,24 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
+---
+
+## Code Maze - C#, .NET and Web Development Tutorials
+
+> code-maze.com
+
+```component VPCard
+{
+  "title": "Getting Started with ASP.NET Core and MongoDB",
+  "desc": "In this article, we’re going to cover how to set up and configure an ASP.NET Core Web API with MongoDB as our database.",
+  "link": "/explore/articles/code-maze.com/getting-started-aspnetcore-mongodb.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+<!-- END: code-maze.com -->
 
 ---
 

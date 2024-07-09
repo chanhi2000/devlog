@@ -226,6 +226,7 @@ head:
 - [`@2fEJ` / 개방형 질문의 중요성과 프로덕트 매니저의 역할 - UX 리서치 강연 #23](https://brunch.co.kr/@@2fEJ/1385)
 - [`@2fEJ` / 사용자 경험 개선을 통한 가치 창출 - UX 디자인 강의 #22](https://brunch.co.kr/@@2fEJ/1378)
 - [`@2fEJ` / 프로덕트 매니저 관점에서 바라본 이해력 테스트의 중요성 - UX 리서치 강연 #22](https://brunch.co.kr/@@2fEJ/1384)
+- [`@2fEJ` / 형광펜을 활용한 고객 피드백 수집 방법론 - UX 리서치 강연 #24](https://brunch.co.kr/@@2fEJ/1395)
 
 ---
 
@@ -250,6 +251,7 @@ head:
 
 - [OpenAPI 와 스웨거를 활용한 실전 API 설계 (feat. 요구사항으로 부터 도메인 모델링하기)](https://thalals.tistory.com/477)
 - [[한빛앤 MSA 세미나] 서비스 장애 잘 이해하고 대비하기 | 박순영](https://thalals.tistory.com/m/480)
+- [Repository는 어느 모듈에 위치해야할까? (DIP. 고수준모듈, 저수준 모듈)](https://thalals.tistory.com/m/483)
 
 ---
 
@@ -377,6 +379,7 @@ head:
 
 ## ★❤✰ Vicki Boykis ★❤✰
 
+- [The cloudy layers of modern-day programming](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
 - [Retro on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 
 ---

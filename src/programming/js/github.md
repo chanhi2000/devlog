@@ -35,15 +35,6 @@ head:
 
 <MyGithubItems jsonName="lang-js-tut" />
 
----
-
-## Typescript
-
-<MyGithubItems jsonName="lang-ts" />
-
-### Tutorial
-
-<MyGithubItems jsonName="lang-ts-tut" />
 
 ---
 

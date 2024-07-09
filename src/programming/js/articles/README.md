@@ -5,7 +5,6 @@ description: JavaScript > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - JavaScript
-  - TypeScript
   - Article(s)
 tag: 
   - blog

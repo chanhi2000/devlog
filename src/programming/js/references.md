@@ -160,6 +160,7 @@ head:
 - [`오늘의-프로그래밍` / 프로젝트에서 jQuery 의 사용을 그만두겠다고 결심한 이유](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-jquery-%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B2%A0%EB%8B%A4%EA%B3%A0-%EA%B2%B0%EC%8B%AC%ED%95%9C-%EC%9D%B4%EC%9C%A0-45379cba95b6)
 - [`performance-engineering-for-the-ordinary-barbie` / How Javascript manages memory](https://medium.com/performance-engineering-for-the-ordinary-barbie/how-javascript-manages-memory-b0ea98f4525b)
 - [`plainenglish` / Code Like a Pro: Cutting-Edge JavaScript Optimization Techniques](https://javascript.plainenglish.io/code-like-a-pro-cutting-edge-javascript-optimization-techniques-7f843dd034b4)
+- [`jeongwooahn` / 모던자바스크립트 스터디 4장](https://jeongwooahn.medium.com/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-4%EC%9E%A5-2b21b48c7ef7?source=rss-3d75258a9bf8------2)
 
 ---
 
@@ -552,6 +553,18 @@ head:
 ## David Gerrells
 
 - [How fast is javascript? Simulating 20,000,000 particles](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
+
+---
+
+## Tutorials Made - Ultimate Tutorial Blog
+
+- [JavaScript count down timer with a Demo!](https://www.tutorialsmade.com/javascript-count-down-timer-with-a-demo/)
+
+---
+
+## THE ENCHANTED ELECTRICAL WEBSITE OF DR. SINCLAIR
+
+- [WHAT’S SO GREAT ABOUT FUNCTIONAL PROGRAMMING ANYWAY?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/)
 
 ---
 

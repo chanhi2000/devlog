@@ -1,9 +1,9 @@
 {
   "channel": {
-    "id": "swiftuitutorial1",
-    "name": "SwiftUI Tutorial#1",
-    "profile": "https://yt3.googleusercontent.com/jH8z573PtkNT87hUlMjorHADswlNlu2WY_oED209S4NbbGn76Udj9jxeA79Zw131LjgUtBCHz5M=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/f05GS1-4H5VmCYw6a9KyuzdQdyJJV11McNB6X86oq0okED07xuLP6KzylWjTxOtQmmKgbNxfLA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "id": "coreswiftui",
+    "name": "Core SwiftUI: Animation & Design",
+    "profile": "https://yt3.googleusercontent.com/Nk5iMcPPpcJyabvWEvleh3XUptlfE6ff6TDplUNw6ZetW9XewIY00dHHFs8n9vPVmeW3pnEB0qo=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/91RBKcH5tKHDlG2Pih8Uphc3uUsu9d_VlLv8nfWcH6LizLVrwOUPt883MS1PWbr8u-h7IHk6=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "IXSRWETYAAA", "title": "SwiftUI and visionOS: Display & Animate 3D Models from a Remote URL" },

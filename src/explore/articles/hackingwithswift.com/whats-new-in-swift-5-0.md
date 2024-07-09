@@ -400,6 +400,7 @@ The first of those is used when you call the type without parameter labels (e.g.
 ::: note
 
 If you haven’t used `KeyValuePairs` before, now would be a good time to learn what they are because they are extremely useful with `@dynamicCallable`. Find out more here: [What are KeyValuePairs?](/explore/articles/hackingwithswift.com/example-code/language/what-are-keyvaluepairs.md)
+<!-- TODO: add VPCard -->
 
 :::
 

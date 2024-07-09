@@ -34,7 +34,6 @@ tag:
 <MyYouTubeItems jsonName="yu-JetBrainsTV" /><!-- JetbrainsTV -->
 <MyYouTubeItems jsonName="yu-AndroidDevelopers" /><!-- Android Developers -->
 <MyYouTubeItems jsonName="yu-DroidconParis" /><!-- Android Makers -->
-<MyYouTubeItems jsonName="yu-GradleInc" /><!-- Gradle -->
 <MyYouTubeItems jsonName="yu-SpringIOConference" /><!-- Spring I/O -->
 <MyYouTubeItems jsonName="yu-SpringSourceDev" /><!-- SpringDeveloper -->
 <MyYouTubeItems jsonName="yu-virtualJUG" /><!-- v JUG -->

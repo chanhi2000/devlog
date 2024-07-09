@@ -50,7 +50,17 @@ isOriginal: false
 
 > Available from Swift 5.4
 
-<!-- TODO: 작성 -->
+[SE-0294 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0294-package-executable-targets.md) adds a new target option for apps using Swift Package manager, allowing us to explicitly declare an executable target.
+
+This is particularly important for folks who want to use [SE-0281 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0281-main-attribute.md) (using `@main` to mark your program’s entry point), because it didn’t play nicely with Swift Package Manager – it would always look for a main.swift file. 
+
+With this change, we can now remove main.swift and use `@main` instead. 
+
+::: note
+
+You must specify `// swift-tools-version:5.4` in your Package.swift file in order to get this new functionality.
+
+:::
 
 ::: details Other Changes in Swift 5.4
 

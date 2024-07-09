@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Article(s)
 description: Flipper Zero > Article(s)
-icon: iconfont icon-share
+icon: fas fa-square-share-nodes
 category:
   - Hardware
   - Flipper Zero

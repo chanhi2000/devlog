@@ -13,7 +13,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Node.js > Snippets
+      content: JavaScript > Snippets
     - property: og:description
       content: Snippets
     - property: og:url

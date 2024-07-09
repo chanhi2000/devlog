@@ -145,6 +145,17 @@ export const template: SidebarInfoTemplate = {
       "two-step-verification-aspnet-core-identity", // 2024-06-19
       "external-identity-provider-aspnet-core-identity", // 2022-05-25
       "owasp-broken-authentication", // 2022-01-11
+      "facade.md", // 2022-01-11
+      "getting-started-aspnetcore-mongodb.md", // 2023-12-05
+      "multiple-environments-in-asp-net-core.md", // 2022-01-11
+      "owasp-top-10-sensitive-data-exposure.md", // 2022-01-11
+      "migrate-identityserver4-configuration-to-database.md", // 2022-01-11
+      "securing-webapi-hybrid-flow.md", // 2024-01-31
+      "identityserver4-authorization.md", // 2022-01-11
+      "hybrid-flow-securing-aspnetcore-web-application.md", // 2022-01-11
+      "deploy-aspnetcore-webapi-kubernetes-cluster-azure.md", // 2024-01-31
+      "identityserver4-ui-webapi-basic-security.md", // 2024-01-31
+      "identityserver4-integration-aspnetcore.md", // 2022-01-11
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]],[
     "js-angular", [
@@ -176,13 +187,24 @@ export const template: SidebarInfoTemplate = {
       "ci-aspnetcoreapp-docker", // 2020-09-02
       "ci-jenkins-docker", // 2021-10-09
       "top-docker-monitoring-tools", // 2020-09-02
+      "deploy-aspnetcore-webapi-kubernetes-cluster-azure.md", // 2024-01-31
+    ]],[
+    "k8s", [
+      "deploy-aspnetcore-webapi-kubernetes-cluster-azure.md", // 2024-01-31
     ]],[
     "linux-debain", [
       "net-core-web-development-part17", // 2024-02-05
     ]],[
+    "github", [
+      "deploy-aspnetcore-webapi-kubernetes-cluster-azure.md", // 2024-01-31
+    ]],[
+    "azure", [
+      "deploy-aspnetcore-webapi-kubernetes-cluster-azure.md", // 2024-01-31
+    ]],[
     "security", [
       "owasp-top-10-injection", // 2022-01-11
       "owasp-broken-authentication", // 2022-01-11
+      "owasp-top-10-sensitive-data-exposure.md", // 2022-01-11
     ]],[
     "nginx", [
       "net-core-web-development-part17", // 2024-02-05
@@ -190,6 +212,9 @@ export const template: SidebarInfoTemplate = {
     "mysql", [
       "net-core-web-development-part17", // 2024-02-05
       "mysql-aspnetcore-docker-compose", // 2020-09-02
+    ]],[
+    "mongodb", [
+      "getting-started-aspnetcore-mongodb.md", // 2023-12-05
     ]],[
     "visualstudio", [
       "visual-studio-productivity", // 2022-02-20
@@ -352,6 +377,17 @@ export const template: SidebarInfoTemplate = {
       "two-step-verification-aspnet-core-identity", // 2024-06-19
       "external-identity-provider-aspnet-core-identity", // 2022-05-25
       "owasp-broken-authentication", // 2022-01-11
+      "facade.md", // 2022-01-11
+      "getting-started-aspnetcore-mongodb.md", // 2023-12-05
+      "multiple-environments-in-asp-net-core.md", // 2022-01-11
+      "owasp-top-10-sensitive-data-exposure.md", // 2022-01-11
+      "migrate-identityserver4-configuration-to-database.md", // 2022-01-11
+      "securing-webapi-hybrid-flow.md", // 2024-01-31
+      "identityserver4-authorization.md", // 2022-01-11
+      "hybrid-flow-securing-aspnetcore-web-application.md", // 2022-01-11
+      "deploy-aspnetcore-webapi-kubernetes-cluster-azure.md", // 2024-01-31
+      "identityserver4-ui-webapi-basic-security.md", // 2024-01-31
+      "identityserver4-integration-aspnetcore.md", // 2022-01-11
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])

@@ -2,8 +2,8 @@
   "channel": {
     "id": "PyConKRtube",
     "name": "PyCon Korea",
-    "profile": "https://yt3.googleusercontent.com/BjaUGJXXmNyD3BTfrYlMzM_Q23BHZy_vVVTtj-8zShW6GmMm0YTeuWe6qdYAugYiAzwffc3FcmE=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/1vhpLuHxpldPpd07lRpE4L05j6l6uwmcemyT65NZGJAXHwwDLYx83VTpBNKf4ql9rr1O3RbX1Q=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/hwRoIJ0MpL96vrOnDh4Noj2t3L8l7RMBDLeg1hGIgc5skJALHr1XvdWJVXVTX33mhOEKG61b24M=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1pe2jfLmQNcMwNylbu9p_39kCNpiNxuxRZSWlK2J7VLwhdIEi8S0u2XYj7Ei-I0WIx1xQtkfuw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "OpeIrYTnVl4", "title": "PyCon KR 2023 파이썬 사용자와 만난 RustPython 정윤원" },

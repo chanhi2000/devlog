@@ -49,7 +49,59 @@ isOriginal: false
 
 > Available from Swift 5.4
 
-<!-- TODO: 작성 -->
+Property wrappers were first introduced in Swift 5.1 as a way of attaching extra functionality to properties in an easy, reusable way, but in Swift 5.4 their behavior got extended to support using them as local variables in functions.
+
+For example, we could create a property wrapper that ensures its value never goes below zero:
+
+```swift
+@propertyWrapper struct NonNegative<T: Numeric & Comparable> {
+    var value: T
+
+    var wrappedValue: T {
+        get { value }
+
+        set {
+            if newValue < 0 {
+                value = 0
+            } else {
+                value = newValue
+            }
+        }
+    }
+
+    init(wrappedValue: T) {
+        if wrappedValue < 0 {
+            self.value = 0
+        } else {
+            self.value = wrappedValue
+        }
+    }
+}
+```
+
+And from Swift 5.4 onwards we can use that property wrapper inside a regular function, rather than just attaching to a property. For example, we might write a game where our player can gain or lose points, but their score should never go below 0:
+
+```swift
+func playGame() {
+    @NonNegative var score = 0
+
+    // player was correct
+    score += 4
+
+    // player was correct again
+    score += 8
+
+    // player got one wrong
+    score -= 15
+
+    // player got another one wrong
+    score -= 16
+
+    print(score)
+}
+
+playGame()
+```
 
 ::: details Other Changes in Swift 5.4
 

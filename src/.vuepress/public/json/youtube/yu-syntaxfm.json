@@ -2,8 +2,8 @@
   "channel": {
     "id": "syntaxfm",
     "name": "Syntax",
-    "profile": "https://yt3.googleusercontent.com/cqRYKYCU7BJwyrkxK_1q_tUyCVAa92giG3ICL5WujzQlA99kD0cknUN3mnCg4bB1DgrEkbgFmQ=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/2DiBVovemdtmC7N9kCbFBeBHzcPZlGp-5eD6_Oze-NhO4BwjF6M447VY-QN4sM3cXUxfIlbM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/85DOdKox2vjV-IN5a_gnqr4OHZZBmPvFKv9tS3nWA_V2UGIacZ2_nuTlYzsf82y5eN14QNBEAA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ak_FnIULUBRt1hnXS0DXo2PL2hqBwFMK_YpHBWPdJ3s-q9lvS16rI1QIJr3EOwPPryPruNObSw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "j8oD976nhZk", "title": "Cache Ruins Everything Around Me" },
@@ -79,5 +79,8 @@
     { "id": "7dUTsi0Kxuw", "title": "Scott Tries Whimsical - Flowcharts, Wireframes, Sticky Notes, and Mind Maps" },
     { "id": "36ozvnQKNmU", "title": "Scott Tries TakeShape - A Better CMS" },
     { "id": "64VrioBwHG4", "title": "Full Featured Svelte Kit Page Loader - Weekly Svelte" }
+  ],
+  "playlists": [
+    
   ]
 }

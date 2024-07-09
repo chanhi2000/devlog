@@ -44,4 +44,10 @@ head:
 
 ---
 
+## 하이제니스
+
+- [ChatGPT 대신 Sonnet 3.5!?](https://m.blog.naver.com/chandong83/223505807147)
+
+---
+
 <TagLinks />

@@ -1644,5 +1644,15 @@
     "desc": "Rebuf is a library that can be used as a WAL which can be used for logging and later replaying the data bytes during downstream service failure",
     "officialSite": "",
     "topics": ["go", "wal"]
+  }, {
+    "repo": "techschool/simplebank",
+    "desc": "Backend master class: build a simple bank service in Go",
+    "officialSite": "",
+    "topics": ["backend", "docker", "gin", "go", "golang", "grpc", "grpc-go", "http-server", "kubernetes"]
+  }, {
+    "repo": "ethereum-optimism/optimism",
+    "desc": "Optimism is Ethereum, scaled.",
+    "officialSite": "https://optimism.io",
+    "topics": ["ethereum", "l2-scaling", "optimism", "ovm", "rollup"]
   }
 ]

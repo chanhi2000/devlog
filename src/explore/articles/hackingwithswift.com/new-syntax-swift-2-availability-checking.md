@@ -24,7 +24,6 @@ head:
 prev: /programming/swift/articles/README.md
 date: 2019-09-23
 isOriginal: false
-cover: https://hackingwithswift.com/uploads/swift-evolution-5.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -43,12 +42,15 @@ cover: https://hackingwithswift.com/uploads/swift-evolution-5.jpg
 
 ---
 
-<SiteInfo
-  name="HACKING WITH SWIFT"
-  desc="Availability checking in Swift: backwards compatibility the smart way"
-  url="https://hackingwithswift.com/new-syntax-swift-2-availability-checking"
-  logo="https://hackingwithswift.com/favicon.svg"
-  preview="https://hackingwithswift.com/uploads/swift-evolution-5.jpg"/>
+```component VPCard
+{
+  "title": "Availability checking in Swift: backwards compatibility the smart way – Hacking with Swift",
+  "desc": "Availability checking in Swift: backwards compatibility the smart way",
+  "link": "https://hackingwithswift.com/new-syntax-swift-2-availability-checking",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(54,94,226,0.2)"
+}
+```
 
 Availability checking in Swift gives us the ability to ask whether the user is running a specific or newer version of an operating system, and run code only if that test passes. This allows us to use the latest functionality from iOS, macOS and so on, while also degrading gracefully for users on older iOS versions.
 
@@ -142,7 +144,6 @@ Each time, there's effectively a privilege elevation so you can use version-limi
 For the ultimate in restrictions, you can also mark whole classes as being available only in a specific iOS release or later – just move the `@available` code wherever you want it.
 
 There is one last neat feature about these availability checks in Swift: you no longer need to worry about "Required" and "Optional" frameworks – the compiler sorts all that out for you now. Hurray for developer productivity!
-
 
 ---
 

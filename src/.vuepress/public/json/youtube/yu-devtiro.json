@@ -2,8 +2,8 @@
   "channel": {
     "id": "devtiro",
     "name": "Devtiro",
-    "profile": "https://yt3.googleusercontent.com/tkv8em4pkZaLiKBNjsXcrzRn0XyYdxvnW-FaEhYBM2EgUE4zkLYvqerqVS-zTQx6KqNVBkGL=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/0eNwEgmvRKDsXyjYhwKuMWMNbF1QY-fwAW3vX8nh80CQYPYPDfs-Vl_XtuuTllOccW0ATk-HPQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/tkv8em4pkZaLiKBNjsXcrzRn0XyYdxvnW-FaEhYBM2EgUE4zkLYvqerqVS-zTQx6KqNVBkGL=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Fn3--REULJGT5hgmiYTXVE7EkiqCuKkN7t4noxhXj_dBghov7R4WTnIGtxsBfoLjAxhUaKjg3Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "qE7ar1XMaYI", "title": "Java OUT, Kotlin In: How to Migrate Your Spring Boot Projects" },

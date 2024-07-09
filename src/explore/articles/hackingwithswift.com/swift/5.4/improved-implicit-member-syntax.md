@@ -50,7 +50,42 @@ isOriginal: false
 
 > Available from Swift 5.4
 
-<!-- TODO: 작성 -->
+[SE-0287 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0287-implicit-member-chains.md) improves Swift’s ability to use implicit member expressions, so rather than just having support for exactly one single static member you can make chains of them.
+
+Swift has always had the ability to use implicit member syntax for simple expressions, for example if you wanted to color some text in SwiftUI you could use `.red` rather than `Color.red`:
+
+```swift
+import SwiftUI
+
+struct ContentView1: View {
+    var body: some View {
+        Text("You're not my supervisor!")
+            .foregroundColor(.red)
+    }
+}
+```
+
+Prior to Swift 5.4 this did not work with more complex expressions. For example, if you wanted your red color to be slightly transparent you would need to write this:
+
+```swift
+struct ContentView2: View {
+    var body: some View {
+        Text("You're not my supervisor!")
+            .foregroundColor(Color.red.opacity(0.5))
+    }
+}
+```
+
+From Swift 5.4 onwards the compiler is able to understand multiple chained members, meaning that the `Color` type can be inferred:
+
+```swift
+struct ContentView3: View {
+    var body: some View {
+        Text("You're not my supervisor!")
+            .foregroundColor(.red.opacity(0.5))
+    }
+}
+```
 
 ::: details Other Changes in Swift 5.4
 <!-- 

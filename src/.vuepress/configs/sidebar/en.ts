@@ -434,6 +434,26 @@ export const sidebarEn = sidebar({
         }
       ],
     }, {
+      text: 'TypeScript',
+      collapsible: true,
+      icon: 'iconfont icon-typescript',
+      children: [
+        '/programming/ts/README.md',
+        '/programming/ts/snippets.md',
+        '/programming/ts/references.md',
+        '/programming/ts/github.md',
+        '/programming/ts/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/ts/articles/README.md',
+            asb.freecodecamp("ts"),
+          ]
+        }
+      ]
+    }, {
       text: 'Node.js',
       collapsible: true,
       icon: 'fa-brands fa-node',
@@ -874,7 +894,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Jupyter',
       collapsible: true,
-      icon: 'iconfont icon-django',
+      icon: 'iconfont icon-jupyter',
       children: [
         '/programming/py-jupyter/README.md',
         '/programming/py-jupyter/github.md',
@@ -1224,10 +1244,19 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-haskell',
       children: [
-        '/programming/haskell/README.md',
-        '/programming/haskell/references.md',
-        '/programming/haskell/github.md',
-        '/programming/haskell/youtube.md',
+        '/programming/hs/README.md',
+        '/programming/hs/references.md',
+        '/programming/hs/github.md',
+        '/programming/hs/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/hs/articles/README.md',
+            asb.freecodecamp("hs"),
+          ]
+        }
       ]
     }, {
       text: 'Scala',
@@ -1976,6 +2005,7 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/github/articles/README.md',
             asb.freecodecamp('github'),
+            asb.codemaze('github'),
             asb.yozm("github"),
             asb.linecorp("github"),
           ]
@@ -2318,6 +2348,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("k8s"),
             asb.digitalocean("k8s"),
             asb.learnk8s("k8s"),
+            asb.codemaze("k8s"),
             asb.yozm("k8s"),
             asb.d2("k8s"),
             asb.gmarket("k8s"),
@@ -2390,6 +2421,7 @@ export const sidebarEn = sidebar({
             '/devops/azure/articles/README.md',
             asb.freecodecamp("azure"), 
             asb.learnk8s("azure"), 
+            asb.codemaze("azure"), 
             asb.johnnyreilly("azure"),
           ]
         }
@@ -2833,6 +2865,7 @@ export const sidebarEn = sidebar({
             '/data-science/mongodb/articles/README.md',
             asb.freecodecamp("mongodb"), 
             asb.learnk8s("mongodb"),
+            asb.codemaze("mongodb"),
             asb.d2("mongodb"),
           ]
         }
@@ -3150,6 +3183,7 @@ export const sidebarEn = sidebar({
       children: [
         '/ai/claude/README.md',
         '/ai/claude/references.md',
+        '/ai/claude/youtube.md',
       ]
     }, {
       text: 'LangChain',
@@ -3158,6 +3192,7 @@ export const sidebarEn = sidebar({
       children: [
         '/ai/langchain/README.md',
         '/ai/langchain/references.md',
+        '/ai/langchain/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,

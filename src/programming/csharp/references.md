@@ -81,6 +81,7 @@ tag:
 - [`karenpayneoregon` / C# PeriodicTimer](https://dev.to/karenpayneoregon/c-periodictimer-2ed)
 - [`lovelacecoding` / Modern C# Development: Get Started With TimeOnly](https://dev.to/lovelacecoding/modern-c-development-get-started-with-timeonly-53ej)
 - [`dotnet` / Leveraging Existing Web Content to Build Hybrid Apps with .NET MAUI](https://dev.to/dotnet/leveraging-existing-web-content-to-build-hybrid-apps-with-net-maui-48me)
+- [`bilalarxd` / Optimize Your C# Skills: A Comprehensive Guide to Best Practices and Tips](https://dev.to/bilalarxd/5-game-changing-c-11-tips-and-tricks-you-need-to-know-with-examples-2cm6)
 
 ---
 
@@ -294,6 +295,9 @@ tag:
 - [C# : LINQ 를 활용한 차집합과 교집합 구하기 (Except, Intersect)](https://aspdotnet.tistory.com/3202)
 - [ASP.NET CORE 8 : FLY.IO 설치 및 배포하기](https://aspdotnet.tistory.com/3203)
 - [ASP.NET MVC : IIS 환경, 특정 HTTP 메서드(verbs)만을 허용 (WEB.CONFIG)](https://aspdotnet.tistory.com/3214)
+- [Docker : ASP.NET MVC 5 Application 을 Docker 도커로 배포하자](https://aspdotnet.tistory.com/m/2302)
+- [Docker : ASP.NET Core 앱이 작동하지 않는 이유?](https://aspdotnet.tistory.com/m/2921)
+- [Docker : Mayan EDMS 4.4.8 버전 설치해 보기](https://aspdotnet.tistory.com/m/3077)
 
 ---
 
@@ -397,6 +401,7 @@ tag:
 
 ## Dusted Codes
 
+- [How fast is ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
 - [.NET Blazor](https://dusted.codes/dotnet-blazor)
 
 ---
@@ -508,6 +513,18 @@ tag:
 
 - [C#에서 추상 클래스와 인터페이스를 사용해야 할 때](https://itworld.co.kr/news/341751)
 - [닷넷 업그레이드 도우미, 코드 평가 도구 추가 "문제 발생 가능성과 종속성 식별"](https://itworld.co.kr/news/342185)
+
+---
+
+## Brendan Enrick's Blog
+
+- [11 Ways of Making Your C# Harder to Use](https://brendoneus.com/post/Ways-Of-Making-CSharp-Harder/)
+
+---
+
+## Fear of Oblivion
+
+- [Build the modular monolith first](https://www.fearofoblivion.com/build-a-modular-monolith-first)
 
 ---
 

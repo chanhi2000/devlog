@@ -1599,5 +1599,10 @@
     "desc": "🛜 TUI for managing wifi on Linux.",
     "officialSite": "",
     "topics": ["iwd", "linux", "ratatui", "tui", "wifi"]
+  }, {
+    "repo": "maelstrom-software/maelstrom",
+    "desc": "Maelstrom is a fast Rust test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.",
+    "officialSite": "https://maelstrom-software.com/",
+    "topics": ["cargo-subcommand", "containers", "distributed-systems", "pytest", "python", "rust", "testing"]
   }
 ]

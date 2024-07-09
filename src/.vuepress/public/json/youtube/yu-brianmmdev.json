@@ -2,7 +2,7 @@
   "channel": {
     "id": "brianmmdev",
     "name": "Brian Morrison",
-    "profile": "https://yt3.googleusercontent.com/eG5tMiAwiMkVxD0vLdFLvK0_wSq6LzxDnq_twfDw6jeRwlwCzXm3exBqJH6F68WqzaPXI3QG=s176-c-k-c0x00ffffff-no-rj",
+    "profile": "https://yt3.googleusercontent.com/91BXnq1Vtxs80K1cnbt3oqTtJS8sOSorXFOtfyogFpjzn_ezj4si8rTpCmVqXOlqtmYCYyI5BQ=s160-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/xP9cc3VVe98IznZ6iqg6f2RarYBdqh1VxoEplmYjU6idVF7Y-trhrRL1tmP9wZPCBz7lwzFd8F4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
@@ -24,6 +24,9 @@
     { "id": "9sZ-IB3bttw", "title": "Building a Project Management System with Notion" }, 
     { "id": "wIcvlDeg7AQ", "title": "Building a Serverless To Do App with Vue and AWS" }, 
     { "id": "6cYReed4bzA", "title": "Deploying Vue Apps to AWS S3 & CloudFront with GitHub Actions" }
+  ],
+  "playlists": [
+
   ]
 }
 

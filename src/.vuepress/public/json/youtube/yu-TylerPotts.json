@@ -2,8 +2,8 @@
   "channel": {
     "id": "TylerPotts",
     "name": "Tyler Potts",
-    "profile": "https://yt3.googleusercontent.com/ejNJkKmc_DGG50Lx-Lk4VQtMwn2w8weTT2POFnCEoNjKLaTuU5kHH2snZrIYgX2MF49EE1KQjQ=s160-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/9TDwAIY46eNLHJcLG73zHFZL_5dBQjabqgXau48LpkKMnuYsQV4lv-wiUbUzr-wzHVHdrouBNqY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/6u4RI2wDwUBAb_i580UO5JLloZlzJ_aKoHpKBRVbJyZjh_TT-0o-QChGEdzU_H9dph6nCN2Y5m8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bwyTZo8WNZd7P6nMhHP42hw3bbmJlax-ZMScrGXIBetIS-oqk_4DWCjzHHUXR56blW_53ktmdvw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "kNwQjs_xy1Q", "title": "How I Plan and Organise Freelance Work with Scrintal!" },
@@ -34,5 +34,8 @@
     { "id": "05LZ6-_FZj8", "title": "How To Code Your First Mobile App Using Vue Native" }, 
     { "id": "nT4LZEbzohc", "title": "Making a Game in VueJS using Vuex | VueJS Tutorial" }, 
     { "id": "UG2LXxILAnM", "title": "Build a Todo List App in HTML, CSS & JavaScript and Deploy it in 2023" }
+  ],
+  "playlists": [
+
   ]
 }

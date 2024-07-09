@@ -61,4 +61,10 @@ tag:
 
 ---
 
+## Vuyisile's Blog
+
+- [PyPI In a box: Using a Raspberry Pi as a portable PyPI server](https://vuyisile.com/pypi-in-a-box-using-a-raspberry-pi-as-a-portable-pypi-server/)
+
+---
+
 <TagLinks />

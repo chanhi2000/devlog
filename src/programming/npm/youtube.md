@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Youtube
 description: NPM > Youtube
-icon: iconfont icon-share
+icon: fa-brands fa-youtube
 category: 
   - NPM
   - Youtube

@@ -2,8 +2,8 @@
   "channel": {
     "id": "SwiftHeroes",
     "name": "Swift Heroes",
-    "profile": "https://yt3.googleusercontent.com/r7WlkgEW8OtjLfYzKXxjI30tqg-CfMVUA0bcJE4fQGOgEC40xIogSuIRWAxnbI5vnpuXZaM-=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/5VGDhQz-odBYxLs8VRat_1xCzjYOPdfQAgOG6RJmbSv4Nyif4TW030t8eq3prn9twfBc0V7rpB4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/r7WlkgEW8OtjLfYzKXxjI30tqg-CfMVUA0bcJE4fQGOgEC40xIogSuIRWAxnbI5vnpuXZaM-=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xusAmEiGrzIsFzUjz77IMFl_TezNBFlvIvn9S7lnKAEIO-EafSFQ5Jdpshe9eLRZSW8jTJgg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "K0fDW-RXtBg", "title": "From Slow to Flow: Tips for Accelerating Your App Performance - Accenture | Swift Heroes 2023 Talk" },

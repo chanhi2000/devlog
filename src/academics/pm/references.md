@@ -30,6 +30,13 @@ tag:
 - [`@2fEJ` / 기업 규모에 따른 프로덕트 매니저의 역할과 책임 - PM 강의 #21](https://brunch.co.kr/@@2fEJ/1388)
 - [`@2fEJ` / 패턴 랭귀지의 중요성과 활용 - 프로덕트 매니저가 전문가가 되기 위한 노력 #22](https://brunch.co.kr/@@2fEJ/1282)
 - [`@2fEJ` / 피플 매니저 VS 조직내 전문가 - 프로덕트 매니저가 전문가가 되기 위한 노력 #23](https://brunch.co.kr/@@2fEJ/1402)
+- [`@2fEJ` / 패턴 랭귀지!!! 주니어 프로덕트 매니저의 마법 지팡이 - 프로덕트 매니저가 전문가가 되기 위한 노력 #24](https://brunch.co.kr/@@2fEJ/1406)
+- [`@2rV` / PM의 역량 강화를 방해하는 10가지 장벽 - Google & Peplexity & EasyGen 조합으로 작성한 글](https://brunch.co.kr/@@2rV/137)
+- [`@2rV` / AI 시대의 프로덕트 매니저에게 필요한 스킬 - 변화하는 기술 환경에서 PM으로서 적응하는 방법](https://brunch.co.kr/@@2rV/136)
+- [`@2fEJ` / 기업 규모와 성장 단계에 따른 프로덕트 매니저의 역할 - PM 강의 #24](https://brunch.co.kr/@@2fEJ/1410)
+- [`@2fEJ` / 프로덕트 매니저 관점에서 본 사용자 니즈의 중요성 - UX 디자인 강의 #23](https://brunch.co.kr/@@2fEJ/1400)
+- [`@1dLN` / 무엇이 운영을 정착시키는가](https://brunch.co.kr/@@1dLN/61)
+- [`@2fEJ` / 피플 매니저 VS 조직내 전문가 - 프로덕트 매니저가 전문가가 되기 위한 노력 #23](https://brunch.co.kr/@@2fEJ/1402)
 
 ---
 

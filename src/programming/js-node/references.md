@@ -316,6 +316,7 @@ tag:
 - [`@yerini` / 매개변수 쿼리](https://velog.io/@yerini/%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EC%BF%BC%EB%A6%AC)
 - [`@sehyunny` / (번역) 5가지 노드 버전 관리자 비교 - 어떤 것이 적합할까요?](https://velog.io/@sehyunny/5-node-manager-compared)
 - [`@juhee067` / 1. SQL 대신 Sequelize ORM 적용기 (초기설정,회원관련)](https://velog.io/@juhee067/Sequelize-ORM-%EC%A0%81%EC%9A%A9%EA%B8%B0)
+- [`@ansrjsdn` / Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node. 에러 해결](https://velog.io/@ansrjsdn/Failed-to-execute-removeChild-on-Node-The-node-to-be-removed-is-not-a-child-of-this-node.-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
 
 ---
 

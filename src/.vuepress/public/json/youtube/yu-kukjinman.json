@@ -1,11 +1,13 @@
 {
   "channel": {
-    "id": "Incodable_kukjinman",
-    "name": "인코더블 국진맨",
-    "profile": "https://yt3.googleusercontent.com/sae3i9aKBEOYgHaEPQ8a7gKGYJoeP5OQgc0tQpdUS9a7kjsO72OYYPKwEOW5vJ14w1-ULmSx6Q=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/keS9z2eTe0ES_RmuuJs17pExofLOIN5HHZZbR8G8h1apQEryTjymyeo18PikNrdRIaqXfS2tTA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "id": "kukjinman",
+    "name": "SW비전공자 국진맨",
+    "profile": "https://yt3.googleusercontent.com/GZdLC5PltJI-XdQgVgyrgQw2qeLFMmT5B8HuqpJZK2C-ZSFNTcjeigj6MVUSGXLouKuO47k6=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/u8DZzfQ_1pPrBWp44ZmmaG_2nseeb24uXKwDP1Pn5OvUKP6muaAZlZ6lRrF2mLCOpyK0fjPzIQU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7hyEUHdEa18", "title": "EP. 03-extra - TiStory BlogWriter gpt-4o api사용 및 사용 금액 보기 : TistoryBlogWriter 프로그램 만들기." },
+    { "id": "BucNoia8Bjc", "title": "EP. 04-1 - TiStory BlogWriter gpt api 결과 tblogManager로 전달하기 : TistoryBlogWriter 프로그램 만들기." },
     { "id": "u0TDu-_HuVE", "title": "초보자도 쉽게 할 수 있는 Python GPT API 가이드 - 코드 구현, 이용요금 충전, 사용량 확인" },
     { "id": "vjgWcaXPrvA", "title": "EP. 02-extra - TiStory BlogWriter TechCrunch 사이트 요소 못 찾는 에러 해결 : TistoryBlogWriter 프로그램 만들기." },
     { "id": "d8jBBJNoZnU", "title": "EP. 03-1 - TiStory BlogWriter gptManager 생성 : TistoryBlogWriter 프로그램 만들기." },
@@ -42,5 +44,8 @@
     { "id": "e2SaHFiG1NI", "title": "EP. 08-5 - Todo List 스타일링 - 3 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
     { "id": "gCv_Q8IJrfs", "title": "EP. 08-4 - Todo List 스타일링 - 2 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
     { "id": "y3eWdb3UOug", "title": "EP. 08-3 - Todo List 스타일링 - 1 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" }
+  ],
+  "playlists": [
+    
   ]
 }

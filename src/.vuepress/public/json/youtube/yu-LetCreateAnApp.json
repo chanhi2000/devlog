@@ -2,8 +2,8 @@
   "channel": {
     "id": "LetCreateAnApp",
     "name": "Let Create An App",
-    "profile": "https://yt3.googleusercontent.com/Oy5hBwtt8P0CaejQtSC8rOY-DbM025voOPhIbBtZ2yKROncl4PF44GHg_MTM9dRRYWBFjOro2w=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/m0RTJJaMZLsvToO6pktjFsnN0R8pq5KyprxlGGXvFB6pjsWU_Od_VzeU8BUjR2khlv8N6yIE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ylvErC8IMx57aieepiaYMVkSh8VJBQ0YRbpR2h1n33aTez8oJ8Tw8wFkCkVmZZv9AUamxA7sIw=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bj6C8v5-ZolNMCXKCyMzJheIBzhcJMEERcMKvPITIS_WeHCek4MUQd7pHpzY1wSKf0Z6KR73WA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "0gQKlkV39M8", "title": "Adding Support of Dark Mode in iOS App in Swift" }, 

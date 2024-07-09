@@ -2,8 +2,8 @@
   "channel": {
     "id": "OnlineTutorialsYT",
     "name": "Online Tutorials",
-    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTPOF_LaTx7UIDkkE2CAX4TCc2kmgeGyyJpJJs-5g=s160-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/mGCcY5IFLLZk1G5aE3LyXV3sTc5JP9dtARlZedmWp5vVJBBappxxBcmeX-e0fDbO5UcoUaDI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nW8S1VA1gSjdpslLx0lTGwIM-liymbe7w2qOyUn_0I0aE=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/no9WYhQHTmE4E5o-42gU0oUhpEjxvMUlsbHhcU4lNeB-GM0sJZSmH0FmNnx4faqq4cMr8RFo6A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "mJW75_Ea924", "title": "Add Spark Animation Effects on Click CSS & Javascript" },
@@ -113,5 +113,8 @@
     { "id": "EZqhWu8GJ6U", "title": "CSS Card Hover Effects | Html & CSS" }, 
     { "id": "5aJTVV-rlBw", "title": "Pure CSS3 Dark Mode Effects For Website | CSS Only Night mode" }, 
     { "id": "2IwZ52lI2vg", "title": "Advanced Mini Calendar using Html CSS & Javascript | Mini Project" }
+  ],
+  "playlists": [
+    
   ]
 }

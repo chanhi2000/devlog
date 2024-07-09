@@ -237,7 +237,7 @@ For example, look at this code:
 dismiss(animated: true, completion: nil)
 ```
 
-When I first saw that, I blanked: "dismiss what?" That's partly a result of the <a href="https://en.wikipedia.org/wiki/Stockholm_syndrome">Stockholm syndrome</a> that's inevitable having programmed for iOS for so long, but once you learn to reverse the parameter label change and re-add the needless words, you can see it's equivalent to this code in Swift 2.2:
+When I first saw that, I blanked: "dismiss what?" That's partly a result of the [<FontIcon icon="fa-brands fa-wikipedia-w"/>Stockholm syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome) that's inevitable having programmed for iOS for so long, but once you learn to reverse the parameter label change and re-add the needless words, you can see it's equivalent to this code in Swift 2.2:
 
 ```swift
 dismissViewControllerAnimated(true, completion: nil)

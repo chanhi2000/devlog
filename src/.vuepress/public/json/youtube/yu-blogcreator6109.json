@@ -2,8 +2,8 @@
   "channel": {
     "id": "blogcreator6109",
     "name": "블로그 크리에이터 Blog Creator",
-    "profile": "https://yt3.googleusercontent.com/PuQ9AQh92s8Z0tUoC6jWo_A2VphMhW2W-YUYqpI5zAl5Hzek8-yItpma9wPr5G_B-p_hAJp8giU=s176-c-k-c0x00ffffff-no-rj",
-    "banner": ""
+    "profile": "https://yt3.googleusercontent.com/-4walyF8NAoJB7cIkgGNo1ZUFaJ0kV7e2an54IJrQ-1ocbd6JVcpdvuiAPfvSETcortsLNkhAQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v8YwLWaOeQZtQ58e8LdolfRRrDH3I3K3aCU5uYKAORxqFwTSA5wmUfrOXtNjp3sdavvEs25YLA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "NvelZ7Xyj24", "title": "빠르게 배우는 HTML 1] HTML이란?" },
@@ -51,5 +51,5 @@
         { "id": "p2pp5Z34_po", "title": "쉽고 빠르게 배우는 vue.js 강의 3-2] v-for" }
       ]
     }
-  ] 
+  ]
 }

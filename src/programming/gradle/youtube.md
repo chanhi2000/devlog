@@ -25,6 +25,7 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-GradleInc" /><!-- Gradle -->
 <MyYouTubeItems jsonName="yu-JakePomperada" /><!-- Jake Pomperada -->
 
 <TagLinks />

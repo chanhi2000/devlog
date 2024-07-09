@@ -2,8 +2,8 @@
   "channel": {
     "id": "amigoscode",
     "name": "Amigoscode",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMh_Lda3vOJ89JKG05wBtMCoQGMdQ-6sZ4gAQD-jHw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/7vvlDtQv0IzlL07HxTQgIxzi4d9-dCWSBE3O4vUoEV1FTE_gDsCNntnBga6SxGEIlVG9LXcufA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/vG0EALACCbztcELYhUnp4C3jzaZFZRCZD4S4l03PXvExhCzVWJhGBq92N0Sejk7YlWf97yAFMA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/c4cjNKZSQBZqBHgnUs9Wsd4lB8m-7iuOx_VH57e3xps_0xOX3LqTN9IxyaSB2tfuVwQvBvbw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "JRwTCKjc37o", "title": "Here's The Secret How To Create These Animated Diagrams" },
@@ -66,5 +66,8 @@
     { "id": "rjDUpxtUPAE", "title": "10 Most Common Java Developer Mistakes" }, 
     { "id": "CT8dbbe783s", "title": "10 Spring and Spring Boot Common Mistakes You Need To STOP" }, 
     { "id": "dCYv5wXGHWw", "title": "this is why your code is slow..." }
+  ],
+  "playlists": [
+    
   ]
 }

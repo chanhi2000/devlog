@@ -1,9 +1,9 @@
 {
   "channel": {
     "id": "_wy_choi",
-    "name": "최원영",
-    "profile": "https://yt3.googleusercontent.com/STjLOByl-3I9SYUPWQNKDUmWkgKpdMb5SVsBL9v5KDvUTmtIXpzRJZ2R9kDdYSJsCmIPyZpH=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/D9wKnDRiUVzXE5dQXLW3la3mrvjdG53BydaY9tnOQgc40h8Gg_zzNrfMRvLe7yHRxdOdwEE_jQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "name": "코드남(코드 주는 남자)",
+    "profile": "https://yt3.googleusercontent.com/STjLOByl-3I9SYUPWQNKDUmWkgKpdMb5SVsBL9v5KDvUTmtIXpzRJZ2R9kDdYSJsCmIPyZpH=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/B77fG6kb0JnlkGPd3dp9RZDR5WVaaiYpw17EkyUbZgQZgaZnFlhz9GrlZaQikvUw-NwfLWazMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "9S7m7kNRNzw", "title": "1강_증권사에서 사물함 열쇠 받아오기(API)" },
@@ -22,5 +22,8 @@
     { "id": "pd7tehg9Mzo", "title": "8강_엑셀? 패키지 쓰면 뭐든 할 수 있지  [GPT 파이썬 무료강의]" },
     { "id": "WFsgGVngdGI", "title": "7강_내가 다 코딩할 필요가 없습니다(남들이 만들어줬으니까요) [GPT 파이썬 무료강의]" },
     { "id": "DePnTswHcJw", "title": "6강_터미널? print? 그거 왜하는건데? [GPT 파이썬 무료강의]" }
+  ],
+  "playlists": [
+    
   ]
 }

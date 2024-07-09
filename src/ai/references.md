@@ -213,6 +213,12 @@ head:
 
 ---
 
+## 개발 도전기
+
+- [요약 - 섹션 1) 커피 한잔 마시며 듣는 AI 이야기](https://soohey.tistory.com/m/81)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

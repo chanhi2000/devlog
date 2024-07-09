@@ -5,11 +5,13 @@ description: Article(s) > OWASP Top 10 – Injection
 icon: iconfont icon-csharp
 category: 
   - CSharp
+  - Security
   - Article(s)
 tag: 
   - blog
   - code-maze.com
   - csharp
+  - security
 head:  
   - - meta:
     - property: og:title
@@ -31,6 +33,16 @@ cover: /images/content/code-maze.com/owasp-top-10-injection/banner.png
   "title": "CSharp > Article(s)",
   "desc": "Article(s)",
   "link": "/programming/csharp/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Security > Article(s)",
+  "desc": "Article(s)",
+  "link": "/devops/security/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

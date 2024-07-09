@@ -2,8 +2,8 @@
   "channel": {
     "id": "SwiftfulThinking",
     "name": "Swiftful Thinking",
-    "profile": "https://yt3.googleusercontent.com/rrTgMAhG4cIBRRGWQBGB21PlTtZXPbMD3Q25a1qGXVZ0Lq64iKhv8SZuQqMZIKcy55Flsppfsw=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/tjorkp81XrPpHKVlDcQTfKSw4-xGjagaGJMXVCvz1-gV2oFrt1fghNsi8MeZah2HrDvD7T0SWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/rrTgMAhG4cIBRRGWQBGB21PlTtZXPbMD3Q25a1qGXVZ0Lq64iKhv8SZuQqMZIKcy55Flsppfsw=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j8WYDBRmNWXePnNg9ffmFFHb5b_CRr26NZkuuG1s8TEmAEXEELjj1rBZ7cxbFGQSyimMHRpobw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "9Qww1VNLHzA", "title": "Rebuild Popular UI Screens in SwiftUI | SwiftUI in Practice #0" },

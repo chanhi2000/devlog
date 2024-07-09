@@ -1,25 +1,24 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Haskell > Youtube
+description: TypeScript > Youtube
 icon: fa-brands fa-youtube
-category:
-  - Haskell
+category: 
+  - Node.js
+  - TypeScript
   - Youtube
-tag:
-  - haskell
-  - hs
+tag: 
+  - typescript
+  - ts
   - youtube
-head:  
+head:
   - - meta:
     - property: og:title
-      content: Haskell > Youtube
+      content: TypeScript > Youtube
     - property: og:description
       content: Youtube
-    - property: og:type
-      content: article
     - property: og:url
-      content: https://chanhi2000.github.io/programming/haskell/youtube.html
+      content: https://chanhi2000.github.io/programming/ts/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

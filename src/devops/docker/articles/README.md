@@ -284,6 +284,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Getting Started with ASP.NET Core and MongoDB",
+  "desc": "In this article, we’re going to cover how to set up and configure an ASP.NET Core Web API with MongoDB as our database.",
+  "link": "/explore/articles/code-maze.com/getting-started-aspnetcore-mongodb.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

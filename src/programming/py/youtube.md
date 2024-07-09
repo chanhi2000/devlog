@@ -80,7 +80,7 @@ head:
 <MyYouTubeItems jsonName="yu-pixegami" /><!-- pixegami -->
 <MyYouTubeItems jsonName="yu-Socratica" /><!-- Socratica -->
 <MyYouTubeItems jsonName="yu-doumcode" /><!-- 도움코드 쉬운예 DoumCode 데이터홍교수 -->
-<MyYouTubeItems jsonName="yu-_wy_choi" /><!-- 최원영 -->
+<MyYouTubeItems jsonName="yu-_wy_choi" /><!-- 코드남(코드 주는 남자) -->
 <MyYouTubeItems jsonName="yu-MargaritKyurkchyan" /><!-- Margarit Kyurkchyan -->
 <MyYouTubeItems jsonName="yu-allmdev" /><!-- allmnet의 Python 개발 채널 -->
 <MyYouTubeItems jsonName="yu-it-stant" /><!-- itstant -->
@@ -106,7 +106,7 @@ head:
 <MyYouTubeItems jsonName="yu-umarjamilai" /><!-- Umar Jamil -->
 <MyYouTubeItems jsonName="yu-GregHogg" /><!-- Greg Hogg -->
 <MyYouTubeItems jsonName="yu-user-lu1tr6kr5f" /><!-- 나는 황쌤이다 -->
-<MyYouTubeItems jsonName="yu-Incodable_kukjinman" /><!-- 인코더블 국진맨 -->
+<MyYouTubeItems jsonName="yu-kukjinman" /><!-- SW비전공자 국진맨 -->
 <MyYouTubeItems jsonName="yu-logandihel" /><!-- Logan Dihel -->
 <MyYouTubeItems jsonName="yu-swithgenie" /><!-- 스윗지니 -->
 <MyYouTubeItems jsonName="yu-PortfolioCourses" /><!-- Portfolio Courses -->

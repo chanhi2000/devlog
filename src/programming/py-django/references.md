@@ -186,6 +186,7 @@ tag:
 
 ## Adam Johnson
 
+- [Django settings patterns to avoid](https://adamj.eu/tech/2022/11/24/django-settings-patterns-to-avoid/)
 - [Django: Clean up unused code with Vulture](https://adamj.eu/tech/2023/07/12/django-clean-up-unused-code-vulture/)
 
 ---

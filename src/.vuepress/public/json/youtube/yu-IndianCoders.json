@@ -2,8 +2,8 @@
   "channel": {
     "id": "IndianCoders",
     "name": "Indian Coders",
-    "profile": "https://yt3.googleusercontent.com/uaNZ_DXW9l_2ix_VdWnMUoR93bJpI3sJSyh2si7zEFfk389HkoZNkedpLOJN6ZJP2p0pUUtbHg=s160-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/v3uwGt6i5N_VXWIixhRmfdmszEjKjBoBihky65vaMAhLxHvO8a2_4fyFWRZFBWzxvr-kOuT_=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/5grPn_mHrPh94t2LBUHgA2z1khdkdhGff2HB2Y9W6Am0MCRIhQSwtWoYu4jxfyEWU3PMh7P5RA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ADtTP8h46QPQdT4Zc2IVxBKM6GOrB1lFG-HRAo6qCaOZS_JHf-jpmLIpwOhtOJJXriDLfielFw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "BEl9Q660xFA", "title": "Docker With Node.js: Dockerize Node.js Applications In Minutes 🚀" },

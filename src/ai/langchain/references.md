@@ -1,23 +1,26 @@
 ---
 lang: ko-KR
 title: References
-description: Claude > References
+description: LangChain > References
 icon: iconfont icon-share
 category: 
-  - Claude
   - AI
+  - LLM
+  - LangChain
   - References
 tag: 
   - ai
-  - claude
+  - llm
+  - langchain
+  - lang-chain
 head:
   - - meta:
     - property: og:title
-      content: Claude > References
+      content: LangChain > References
     - property: og:description
       content: References
     - property: og:url
-      content: https://chanhi2000.github.io/ai/claude/references.html
+      content: https://chanhi2000.github.io/ai/langchain/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

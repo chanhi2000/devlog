@@ -90,6 +90,7 @@ tag:
 - [`jwlee010523` / Swift 콜렉션 타입(Collection Types)](https://velog.io/@jwlee010523/swift-collection-types)
 - [`@jwlee010523` / `Swift-guard`](https://velog.io/@jwlee010523/swift-guard)
 - [`@jwlee010523` / Swift - `fallthrough`와 `defer`](https://velog.io/@jwlee010523/swift-fallthrough-defer)
+- [`@jwlee010523` / SwiftUI - `ObservableObject`](https://velog.io/@jwlee010523/SwiftUI-ObservableObject)
 
 ---
 
@@ -176,6 +177,7 @@ tag:
 
 ## Holy Swift
 
+- [A Guided Tour for SwiftUI ForEach Structure](https://holyswift.app/a-guided-tour-for-swiftui-foreach-structure/) 
 - [A Beginner’s Guide to Styling Components in SwiftUI](https://holyswift.app/a-beginners-guide-to-styling-components-in-swiftui/)
 - [Animating Carrousel Transitions in SwiftUI](https://holyswift.app/animating-carrousel-transitions-in-swiftui/)
 - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui)
@@ -775,6 +777,7 @@ tag:
 
 ## Peter Friese's Blog
 
+- [Previewing Stateful SwiftUI Views](https://peterfriese.dev/blog/2022/swiftui-previews-interactive/)
 - [SwiftUI Hero Animations with `NavigationTransition`](https://peterfriese.dev/blog/2024/hero-animation/)
 
 ---

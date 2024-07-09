@@ -1094,5 +1094,10 @@
     "desc": "Android application for running Windows applications with Wine and Box86/Box64",
     "officialSite": "https://winlator.org",
     "topics": []
+  }, {
+    "repo": "zherczeg/sljit",
+    "desc": "Platform independent low-level JIT compiler",
+    "officialSite": "",
+    "topics": []
   }
 ]

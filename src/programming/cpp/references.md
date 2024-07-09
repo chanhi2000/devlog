@@ -175,6 +175,7 @@ tag:
 - [문자열 상수는 어떻게 저장되는가?](https://m.blog.naver.com/tipsware/223503754975)
 - [`TipsFinder` 프로그램 업데이트](https://m.blog.naver.com/tipsware/223502808270)
 - [`SetWaitableTimer` 함수](https://m.blog.naver.com/tipsware/223500623894)
+- [\[Q&A\] 문자열의 길이가 이상합니다.](https://m.blog.naver.com/tipsware/223506029759)
 
 ---
 
@@ -249,6 +250,7 @@ tag:
 - [\[백준 16937번\] 두 스티커](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-16937%EB%B2%88-%EB%91%90-%EC%8A%A4%ED%8B%B0%EC%BB%A4)
 - [\[백준 31963번\] 두 배](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31963%EB%B2%88-%EB%91%90-%EB%B0%B0)
 - [\[백준 31964번\] 반품 회수](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31964%EB%B2%88-%EB%B0%98%ED%92%88-%ED%9A%8C%EC%88%98)
+- [\[백준 31965번\] 회의 장소](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31965%EB%B2%88-%ED%9A%8C%EC%9D%98-%EC%9E%A5%EC%86%8C)
 
 ---
 

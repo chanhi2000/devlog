@@ -54,6 +54,6 @@ head:
 <MyYouTubeItems jsonName="yu-gitminam" /><!-- 깃미남 - 깃에 미친 남자 -->
 <MyYouTubeItems jsonName="yu-gitbutlerapp" /><!-- GitButler -->
 <MyYouTubeItems jsonName="yu-jesseduffield9516" /><!-- Jesse Duffield -->
-<MyYouTubeItems jsonName="yu-CodingCafe1" /><!-- 코딩카페1 -->
+<MyYouTubeItems jsonName="yu-jsontype" /><!-- jsontype -->
 
 <TagLinks />

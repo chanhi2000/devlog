@@ -7,6 +7,7 @@ export const template: SidebarGroupItem = {
     children: [
       '/explore/articles/hackingwithswift.com/swift2.md', // 2015-06-08
       '/explore/articles/hackingwithswift.com/ios9.md', // 2015-06-11
+      '/explore/articles/hackingwithswift.com/ios9-tutorials.md', // 2015-06-11
       '/explore/articles/hackingwithswift.com/swift2-2.md', // 2016-03-21
       '/explore/articles/hackingwithswift.com/ios10.md', // 2016-06-13
       '/explore/articles/hackingwithswift.com/swift3.md', // 2016-06-13
@@ -21,6 +22,9 @@ export const template: SidebarGroupItem = {
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-5-0.md', // 2019-03-28
       '/explore/articles/hackingwithswift.com/how-to-use-dynamic-member-lookup-in-swift.md', // 2019-03-29
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-5-1.md', // 2019-09-18
+      '/explore/articles/hackingwithswift.com/new-syntax-swift-2-error-handling-try-catch', // 2019-09-23
+      '/explore/articles/hackingwithswift.com/new-syntax-swift-2-guard', // 2019-09-23
+      '/explore/articles/hackingwithswift.com/new-syntax-swift-2-defer', // 2019-09-23
       '/explore/articles/hackingwithswift.com/new-syntax-swift-2-availability-checking.md', // 2019-09-23
       '/explore/articles/hackingwithswift.com/learn-essential-swift-in-one-hour.md',
       '/explore/articles/hackingwithswift.com/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better.md', // 2023-06-23

@@ -149,7 +149,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 }
 ```
 
-
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 6.0 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-5-10-to-6-0.playground.zip)
 
 :::
@@ -195,7 +194,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
 
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 5.10 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-5-9-to-5-10.playground.zip)
 
@@ -283,7 +281,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
 }
 ```
 
-
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 5.9 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-5-8-to-5-9.playground.zip)
 
 :::
@@ -349,7 +346,6 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "background": "rgba(174,10,10,0.2)"
 }
 ```
-
 
 [<FontIcon icon="fas fa-file-zipper"/>Download Swift 5.8 playground](https://hackingwithswift.com/files/playgrounds/swift/playground-5-7-to-5-8.playground.zip)
 

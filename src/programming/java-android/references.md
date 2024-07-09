@@ -85,55 +85,59 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
-- [`proandroiddev` / Jetpack Compose Migration: Best Practices and Strategies](https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe)
-- [`proandroiddev` / RecyclerView Guide — Pagination, View Types, Shimmer, Error Loading and more…](https://proandroiddev.com/everything-you-need-to-know-about-recyclerview-577bf9248298)
-- [`proandroiddev` / How to Avoid Dependency Conflicts in Android Multi-Module Apps](https://proandroiddev.com/how-to-avoid-dependency-conflicts-in-multi-module-android-apps-88ea88bc48b2)
+- [`tanaytandon` / Unit testing a fragment with View Model in Android](https://medium.com/@tanaytandon/unit-testing-a-fragment-with-view-model-in-android-172fcd7807aa)
+- [`proandroiddev`: droidcon](https://proandroiddev.com/) 
+  - [Jetpack Compose Migration: Best Practices and Strategies](https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe)
+  - [RecyclerView Guide — Pagination, View Types, Shimmer, Error Loading and more…](https://proandroiddev.com/everything-you-need-to-know-about-recyclerview-577bf9248298)
+  - [How to Avoid Dependency Conflicts in Android Multi-Module Apps](https://proandroiddev.com/how-to-avoid-dependency-conflicts-in-multi-module-android-apps-88ea88bc48b2)
+  - [Building a widget using Jetpack Glance](https://proandroiddev.com/building-a-widget-using-jetpack-glance-59317dfbfe9)
+  - [Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
+  - [Seven recipes to understand flows and asynchrony in Kotlin](https://proandroiddev.com/seven-recipes-to-understand-flows-and-asynchrony-in-kotlin-1bd7fe041480)
+  - [Tracking Lifecycle changes in Compose Multiplatform: IOS and Android](https://proandroiddev.com/tracking-lifecycle-changes-in-compose-multiplatform-ios-and-android-486005919ec8)
+  - [Leveraging Key-Value Observing (KVO) in Kotlin Multiplatform (KMP) for iOS](https://proandroiddev.com/leveraging-key-value-observing-kvo-in-kotlin-multiplatform-kmp-for-ios-231519e5c1ff)
+  - [How to safely update state in your Kotlin apps](https://proandroiddev.com/how-to-safely-update-state-in-your-kotlin-apps-bf51ccebe2ef)
+  - [Kotlin / Native —How to use C in Kotlin [Part 1]](https://proandroiddev.com/kotlin-native-how-to-use-c-in-kotlin-part-1-495e3264814a)
+  - [How to use Resources in Compose Multiplatform](https://proandroiddev.com/how-to-use-resources-in-compose-multiplatform-77a6552b505d)
+  - [State of Dependency Management in Android Studio](https://proandroiddev.com/state-of-dependency-management-in-android-studio-a6ce647315f2)
+  - [How to publish your own BoM (Bill of Materials) for Kotlin Multiplatform libraries on Maven Central](https://proandroiddev.com/how-to-publish-your-own-bom-billing-of-materials-for-kotlin-multiplatform-libraries-on-maven-b8dd815aa018)
+  - [Migrating to Koin Annotations in a multiplatform project](https://proandroiddev.com/migrating-to-koin-annotations-in-a-multiplatform-project-1e83ba3b5988)
+  - [Efficiency Redefined: Making Multimodule Configuration a Breeze in Kotlin Multiplatform Projects with Gradle Convention Plugins](https://vaibhav3011.medium.com/effortless-multimodule-configuration-for-kotlin-multiplatform-projects-with-gradle-convention-8e6593dff1d9)
+  - [Navigating the Waters of Kotlin Multiplatform: Exploring Navigation Solutions](https://proandroiddev.com/navigating-the-waters-of-kotlin-multiplatform-exploring-navigation-solutions-eef81aaa1a61)
+  - [Kotlin Design Patterns: Mediator](https://proandroiddev.com/kotlin-design-patterns-mediator-543f75bebe69)
+  - [Publishing Kotlin Multiplatform Libraries With Sonatype Central](https://proandroiddev.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central-b40f7cc6866e)
+  - [Let Kotlin do the code for you — Part III: Mockito, Mockk, and Code Generation](https://proandroiddev.com/let-kotlin-do-the-code-for-you-part-iii-mockito-mockk-and-code-generation-3da26e1f71e9)
+  - [Room Relationships Explained](https://proandroiddev.com/room-database-relationships-explained-729d3c705fd9)
+  - [Exploring the Viability of Cross-Platform UI Development with Compose Multiplatform](https://proandroiddev.com/exploring-the-viability-of-cross-platform-ui-development-with-compose-multiplatform-c5be0608b69d)
+- [(`androiddevelopers`) Android Developers: The official Android Developers publication on Medium](https://medium.com/androiddevelopers)
+  - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43)
+  - [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
+  - [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
+  - [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
+  - [Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8)
+  - [Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26)  
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
-- [`proandroiddev` / Building a widget using Jetpack Glance](https://proandroiddev.com/building-a-widget-using-jetpack-glance-59317dfbfe9)
-- [`androiddevelopers` / What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43)
-- [Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
-- [How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
-- [\[안드로이드\]YouTube Player API를 사용하면 안되는 3가지이유](https://medium.com/prnd/youtube-player-api%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3%EA%B0%80%EC%A7%80-c1a01321bf2)
-- [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
-- [New Way Handle State, Event With Sealed Classes in Android](https://medium.com/swlh/new-way-handle-state-event-in-android-with-sealed-classes-75ad63560574)
-- [Decorator pattern in Android Development](https://medium.com/@denisrebrof/decorator-pattern-in-android-development-5dd1637710fa)
-- [`proandroiddev` - Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
-- [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
-- [Android: CircleImageView Simplified](https://medium.com/swlh/android-circleimageview-simplified-dac935364393)
-- [Android PDF Viewer, Created Library](https://medium.com/@ruddns8213/android-pdf-viewer-created-library-66f169aeb312)
-- [Netflix Android and iOS Studio Apps — now powered by Kotlin Multiplatform](https://netflixtechblog.com/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23)
-- [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
-- [Run your Appium tests using Docker Android & Genymotion Cloud](https://medium.com/genymobile/run-your-appium-tests-using-docker-android-genymotion-cloud-e4817132ccd8)
-- [How Enums Can Impact the Performance of Android Apps](https://betterprogramming.pub/android-how-enums-can-impact-the-performance-f787ef5903dd)
-- [`proandroiddev` - Seven recipes to understand flows and asynchrony in Kotlin](https://proandroiddev.com/seven-recipes-to-understand-flows-and-asynchrony-in-kotlin-1bd7fe041480)
-- [`proandroiddev` - Tracking Lifecycle changes in Compose Multiplatform: IOS and Android](https://proandroiddev.com/tracking-lifecycle-changes-in-compose-multiplatform-ios-and-android-486005919ec8)
-- [`@mega-blog` - Improving unit test performance in MEGA Android](https://medium.com/@mega-blog/improving-unit-test-performance-in-mega-android-bc9bb650d907)
-- [`proandroiddev` - Leveraging Key-Value Observing (KVO) in Kotlin Multiplatform (KMP) for iOS](https://proandroiddev.com/leveraging-key-value-observing-kvo-in-kotlin-multiplatform-kmp-for-ios-231519e5c1ff)
-- [`proandroiddev` - How to safely update state in your Kotlin apps](https://proandroiddev.com/how-to-safely-update-state-in-your-kotlin-apps-bf51ccebe2ef)
-- [`proandroiddev` - Kotlin / Native —How to use C in Kotlin [Part 1]](https://proandroiddev.com/kotlin-native-how-to-use-c-in-kotlin-part-1-495e3264814a)
-- [`proandroiddev` - How to use Resources in Compose Multiplatform](https://proandroiddev.com/how-to-use-resources-in-compose-multiplatform-77a6552b505d)
+- [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
+- [`kotlin-academy` / How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
+- [`prnd` / \[안드로이드\]YouTube Player API를 사용하면 안되는 3가지이유](https://medium.com/prnd/youtube-player-api%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3%EA%B0%80%EC%A7%80-c1a01321bf2)
+- [`swlh` / New Way Handle State, Event With Sealed Classes in Android](https://medium.com/swlh/new-way-handle-state-event-in-android-with-sealed-classes-75ad63560574)
+- [`denisrebrof` / Decorator pattern in Android Development](https://medium.com/@denisrebrof/decorator-pattern-in-android-development-5dd1637710fa)
+- [`swlh` / Android: CircleImageView Simplified](https://medium.com/swlh/android-circleimageview-simplified-dac935364393)
+- [`ruddns8213` / Android PDF Viewer, Created Library](https://medium.com/@ruddns8213/android-pdf-viewer-created-library-66f169aeb312)
+- [`netflixtechblog` / Netflix Android and iOS Studio Apps — now powered by Kotlin Multiplatform](https://netflixtechblog.com/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23)
+- [`genymobile` / Run your Appium tests using Docker Android & Genymotion Cloud](https://medium.com/genymobile/run-your-appium-tests-using-docker-android-genymotion-cloud-e4817132ccd8)
+- [`betterprogramming` / How Enums Can Impact the Performance of Android Apps](https://betterprogramming.pub/android-how-enums-can-impact-the-performance-f787ef5903dd)
+- [`@mega-blog` / Improving unit test performance in MEGA Android](https://medium.com/@mega-blog/improving-unit-test-performance-in-mega-android-bc9bb650d907)
 - [`google-developer-experts` / How to add text similarity to your Android applications easily using MediaPipe and Kotlin](https://medium.com/google-developer-experts/how-to-add-text-similarity-to-your-android-applications-easily-using-mediapipe-and-kotlin-571eeab4003c)
 - [`turo-engineering` - Boosting Bazel Adoption on Android With Automation](https://medium.com/turo-engineering/boosting-bazel-adoption-on-android-with-automation-6dc79d298628)
 - [`google-exoplayer` - Trim, Transcode, Concatenate: Your Guide to Media3 Editing Libraries](https://medium.com/google-exoplayer/trim-transcode-concatenate-your-guide-to-media3-editing-libraries-668b4e4c2f97)
-- [`proandroiddev` - State of Dependency Management in Android Studio](https://proandroiddev.com/state-of-dependency-management-in-android-studio-a6ce647315f2)
-- [`proandroiddev` - How to publish your own BoM (Bill of Materials) for Kotlin Multiplatform libraries on Maven Central](https://proandroiddev.com/how-to-publish-your-own-bom-billing-of-materials-for-kotlin-multiplatform-libraries-on-maven-b8dd815aa018)
-- [`proandroiddev` - Migrating to Koin Annotations in a multiplatform project](https://proandroiddev.com/migrating-to-koin-annotations-in-a-multiplatform-project-1e83ba3b5988)
-- [`proandroiddev` - Efficiency Redefined: Making Multimodule Configuration a Breeze in Kotlin Multiplatform Projects with Gradle Convention Plugins](https://vaibhav3011.medium.com/effortless-multimodule-configuration-for-kotlin-multiplatform-projects-with-gradle-convention-8e6593dff1d9)
 - [`@jacobras` - Getting the native iOS look & feel in your Compose Multiplatform app](https://medium.com/@jacobras/getting-the-native-ios-look-feel-in-your-compose-multiplatform-app-33371e6ad362)
 - [`bumble-tech` - Refining Compose API for design systems](https://medium.com/bumble-tech/refining-compose-api-for-design-systems-d652e2c2eac3)
-- [`proandroiddev` - Navigating the Waters of Kotlin Multiplatform: Exploring Navigation Solutions](https://proandroiddev.com/navigating-the-waters-of-kotlin-multiplatform-exploring-navigation-solutions-eef81aaa1a61)
-- [`proandroiddev` - Kotlin Design Patterns: Mediator](https://proandroiddev.com/kotlin-design-patterns-mediator-543f75bebe69)
-- [`androiddevelopers` - Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8)
-- [`androiddevelopers` - Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26)
-- [`proandroiddev` / Publishing Kotlin Multiplatform Libraries With Sonatype Central](https://proandroiddev.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central-b40f7cc6866e)
-- [`proandroiddev` / Let Kotlin do the code for you — Part III: Mockito, Mockk, and Code Generation](https://proandroiddev.com/let-kotlin-do-the-code-for-you-part-iii-mockito-mockk-and-code-generation-3da26e1f71e9)
 - [`stackademic` / Putting Koin To Work in Android](https://blog.stackademic.com/putting-koin-to-work-in-android-fa9a30cb8ddc)
 - [`daangn` / (🔔당근!) 반가운 중고거래 키워드 알림 만들기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%B0%98%EA%B0%80%EC%9A%B4-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%95%8C%EB%A6%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-3ed969f07692)
 - [`@l2hyunwoo` / Efficient Layout(View Based) in Android](https://medium.com/@l2hyunwoo/efficient-layout-view-based-in-android-5a8fe9480969)
 - [`@nachare.reena8` / Integrating Ktor in Your Android App Like a Pro!](https://medium.com/@nachare.reena8/integrating-ktor-in-your-android-app-like-a-pro-74412db642ff)
 - [`@ragnorak-dev` / My first impressions of Compose multiplatform for web (Kotlin/Js — Kotlin/Wasm)](https://medium.com/@ragnorak-dev/my-first-feelings-with-compose-multiplatform-for-web-js-kotlin-wasm-91de8022d093)
 - [`stackademic` / What Every Android Developer Should Have in Their GitHub?](https://blog.stackademic.com/what-every-android-developer-should-have-in-their-github-de8deab051b9)
-- [`proandroiddev` / Room Relationships Explained](https://proandroiddev.com/room-database-relationships-explained-729d3c705fd9)
 - [`insert-koin` / Injecting your Compose applications with Koin — From Android to Multiplatform](https://blog.insert-koin.io/injecting-your-compose-applications-with-koin-c9c8b1166702)
 - [`khubaibkhan` / Getting Started with Compose Multiplatform and Koin: A Practical Guide](https://khubaibkhan-4.medium.com/getting-started-with-compose-multiplatform-and-koin-a-practical-guide-324864e13f5f)
 - [`marlonlom` / Adapt Kotlin 2.0 in Android applications](https://marlonlom.medium.com/adapt-kotlin-2-0-in-android-applications-340c2713d387)
@@ -142,21 +146,23 @@ tag:
 - [`mmartosdev` / Embedding Compose Multiplatform code into Medium articles](https://medium.com/@mmartosdev/embedding-compose-multiplatform-code-into-medium-articles-cc1141f5db34)
 - [`joostklitsie` / Stop throwing exceptions!](https://medium.com/@joostklitsie/stop-throwing-exceptions-4282c8472027)
 - [`groww` / Adding Repeat Delays to Android Animations](https://tech.groww.in/adding-repeat-delays-to-android-animations-aeaaee491195)
-- [`proandroiddev` / Exploring the Viability of Cross-Platform UI Development with Compose Multiplatform](https://proandroiddev.com/exploring-the-viability-of-cross-platform-ui-development-with-compose-multiplatform-c5be0608b69d)
 - [`ZahraHeydari` / Kotlin MultiPlatform (KMP)](https://medium.com/@ZahraHeydari/kotlin-multiplatform-kmp-4799fdfb69f1)
 - [`santimattius` / From Hilt to Koin using Koin Annotations](https://medium.com/@santimattius/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
 - [`anitaa_1990` / Kotlin Flows — Fundamentals](https://medium.com/@anitaa_1990/kotlin-flows-fundamentals-7d9b984f12bb)
 
-<!-- END: Medium -->
+<!-- END: medium.com -->
 
 ---
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
+- [`dbriane208` / The Fundamentals of Android Development.](https://dev.to/dbriane208/the-fundamentals-of-android-development-1ffi)
 - [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
 - [`bubenheimer` / Effective Map Composables: Non-Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-non-draggable-markers-2b2)
 - [`tkuenneth` / From Swing to Jetpack Compose Desktop #1](https://dev.to/tkuenneth/from-swing-to-jetpack-compose-desktop-1-12kf)
 - [`altavir` / Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
+
+<!-- END: dev.to -->
 
 ---
 
@@ -168,12 +174,16 @@ tag:
 - [`@thd0427` / Compose 부수 효과 총정리](https://velog.io/@thd0427/Compose-%EB%B6%80%EC%88%98-%ED%9A%A8%EA%B3%BC-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 - [`@stella6767` / 인앱 구독 결제 (In-App Purchase: IAP) 서버사이드 검증 2 - Android](https://velog.io/@stella6767/%EC%9D%B8%EC%95%B1-%EA%B5%AC%EB%8F%85-%EA%B2%B0%EC%A0%9C-In-App-Purchase-IAP-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EA%B2%80%EC%A6%9D-2-Android)
 
+<!-- END: velog.io -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
-- [`@baealex` - 안드로이드 폰을 개발 서버로 만들기](https://blex.me/@baealex/development-environment-within-android)
-- [`@baealex` - termux 'process completed signal 9 press enter' 해결](https://blex.me/@baealex/how-to-fix-termux-process-completed-signal-9)
+- [`@baealex` / 안드로이드 폰을 개발 서버로 만들기](https://blex.me/@baealex/development-environment-within-android)
+- [`@baealex` / termux 'process completed signal 9 press enter' 해결](https://blex.me/@baealex/how-to-fix-termux-process-completed-signal-9)
+
+<!-- END: blex.me -->
 
 ---
 
@@ -514,6 +524,12 @@ tag:
 
 - [기존 Google 로그인 대신 Credential Manager API를 활용한 Sign in with Google 로그인 구현하기](https://inblog.ai/code-with-me/기존-google-로그인-대신-credential-manager-api를-활용한-sign-in-with-google-로그인-구현하기-21777)
   
+---
+
+## Kaushik Gopal's Site
+
+- [A few Kotlin constructs](https://kau.sh/blog/important-kotlin-constructs/)
+
 ---
 
 <TagLinks />
