@@ -135,5 +135,6 @@ head:
 <MyYouTubeItems jsonName="yu-FrugalRepair" /><!-- FrugalRepair -->
 <MyYouTubeItems jsonName="yu-art_for_you" /><!-- 널 위한 문화예술 -->
 <MyYouTubeItems jsonName="yu-sikbo" /><!-- 이재성 박사의 식탁보감 -->
+<MyYouTubeItems jsonName="yu-NJT_BOOK" /><!-- 너진똑 NJT BOOK -->
 
 <TagLinks />

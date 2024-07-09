@@ -39,7 +39,6 @@ export const template: SidebarInfoTemplate = {
       "aspnetcore-webapi-best-practices", // 2024-02-22
       "ci-aspnetcoreapp-docker", // 2020-09-02
       "create-pdf-dotnetcore", // 2024-01-31
-      "csharp-getting-property-mappings-from-automapper", // 2024-04-21
       "authentication-aspnetcore-jwt-1", // 2024-01-31
       "global-error-handling-aspnetcore", // 2024-04-04
       "csharp-conditions-if-else-swtich-case", // 2021-12-16
@@ -135,6 +134,17 @@ export const template: SidebarInfoTemplate = {
       "aspnet-core-testing-anti-forgery-token", // 2024-01-31
       "aspnet-core-integration-testing", // 2024-01-31
       "unit-testing-controllers-aspnetcore-moq", // 2024-01-31
+      "aspnetcore-send-email", // 2023-01-14
+      "identity-asp-net-core-project", // 2024-05-29
+      "user-registration-aspnet-core-identity", // 2024-05-29
+      "owasp-top-10-injection", // 2022-01-11
+      "authentication-aspnet-core-identity", // 2024-06-03
+      "password-reset-aspnet-core-identity", // 2024-06-10
+      "email-confirmation-aspnet-core-identity", // 2024-06-12
+      "user-lockout-aspnet-core-identity", // 2024-06-17
+      "two-step-verification-aspnet-core-identity", // 2024-06-19
+      "external-identity-provider-aspnet-core-identity", // 2022-05-25
+      "owasp-broken-authentication", // 2022-01-11
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]],[
     "js-angular", [
@@ -169,6 +179,10 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "linux-debain", [
       "net-core-web-development-part17", // 2024-02-05
+    ]],[
+    "security", [
+      "owasp-top-10-injection", // 2022-01-11
+      "owasp-broken-authentication", // 2022-01-11
     ]],[
     "nginx", [
       "net-core-web-development-part17", // 2024-02-05
@@ -327,6 +341,17 @@ export const template: SidebarInfoTemplate = {
       "aspnet-core-testing-anti-forgery-token", // 2024-01-31
       "aspnet-core-integration-testing", // 2024-01-31
       "unit-testing-controllers-aspnetcore-moq", // 2024-01-31
+      "aspnetcore-send-email", // 2023-01-14
+      "identity-asp-net-core-project", // 2024-05-29
+      "user-registration-aspnet-core-identity", // 2024-05-29
+      "owasp-top-10-injection", // 2022-01-11
+      "authentication-aspnet-core-identity", // 2024-06-03
+      "password-reset-aspnet-core-identity", // 2024-06-10
+      "email-confirmation-aspnet-core-identity", // 2024-06-12
+      "user-lockout-aspnet-core-identity", // 2024-06-17
+      "two-step-verification-aspnet-core-identity", // 2024-06-19
+      "external-identity-provider-aspnet-core-identity", // 2022-05-25
+      "owasp-broken-authentication", // 2022-01-11
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])

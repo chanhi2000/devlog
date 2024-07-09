@@ -15,7 +15,6 @@ tag:
   - ppt
   - pptx
   - youtube
-  - yt
 head:
   - - meta:
     - property: og:title
@@ -34,5 +33,6 @@ head:
 
 <MyYouTubeItems jsonName="yu-LearnitTraining" /><!-- Learnit Training -->
 <MyYouTubeItems jsonName="yu-DanGalletta" /><!-- Dan Galletta -->
+<MyYouTubeItems jsonName="yu-fastpptofficial3508" /><!-- fastppt _net -->
 
 <TagLinks />

@@ -52,6 +52,12 @@ tag:
 
 ---
 
+## üntil
+
+[`@teddygood` / DRF Serializers](https://until.blog/@teddygood/drf-serializers)
+
+---
+
 ## Substack
 
 - [`bitecode` / Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)

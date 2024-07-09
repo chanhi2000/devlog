@@ -63,6 +63,12 @@ head:
 
 ---
 
+## üntil
+
+- [`@thingk0` / 우리가 카프카를 공부해야 하는 이유 - 브로커와 클러스터 그리고 특징 4가지](https://until.blog/@thingk0/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%B9%B4%ED%94%84%EC%B9%B4%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0---%EB%B8%8C%EB%A1%9C%EC%BB%A4%EC%99%80-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%8A%B9%EC%A7%95-4%EA%B0%80%EC%A7%80)
+
+---
+
 ## 기계인간 John Grib
 
 - [Kafka Producer acks](https://johngrib.github.io/wiki/kafka/producer-acks/)

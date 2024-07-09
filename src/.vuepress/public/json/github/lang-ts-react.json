@@ -149,5 +149,10 @@
     "desc": "Crousel maker make with Nextjs 13 👇",
     "officialSite": "https://crousal-maker.vercel.app/",
     "topics": ["html2canvas", "javascript", "nextjs", "nextjs-template", "nextjs14", "pdf-js", "shadcn-ui", "tailwindcss", "typescript"]
+  }, {
+    "repo": "infi-pc/locatorjs",
+    "desc": "",
+    "officialSite": "https://www.locatorjs.com",
+    "topics": []
   }
 ]

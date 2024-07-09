@@ -29,5 +29,6 @@ head:
 <MyYouTubeItems jsonName="yu-anthropic-ai" /><!-- Anthropic -->
 <MyYouTubeItems jsonName="yu-ChrisCappetta" /><!-- Chris Cappetta -->
 <MyYouTubeItems jsonName="yu-WesRoth" /><!-- Wes Roth -->
+<MyYouTubeItems jsonName="yu-alejandro_ao" /><!-- Alejandro AO - Software & Ai -->
 
 <TagLinks />

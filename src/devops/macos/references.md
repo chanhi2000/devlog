@@ -49,6 +49,12 @@ head:
 
 ---
 
+## üntil
+
+- [`@morethanmin` / mac dock에 vscode가 중복 생성되는 이슈](https://until.blog/@morethanmin/mac-dock%EC%97%90-vscode%EA%B0%80-%EC%A4%91%EB%B3%B5%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%EB%90%98%EB%8A%94-%EC%9D%B4%EC%8A%88)
+
+---
+
 ## <FontIcon icon="fa-brands fa-y-combinator"/>Y Combinator
 
 ### Hacker News

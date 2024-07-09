@@ -127,6 +127,15 @@ tag:
 - [`antofik` / Roadmap - Senior Java Developer 2024](https://dev.to/antofik/senior-java-developer-2024-2cof)
 - [`wkrzywiec` / Java Series: Flatmap](https://dev.to/wkrzywiec/java-series-flatmap-2fif?)
 
+### üntil
+
+- [`@woonideveloper423` / \[Baekjoon\] 끝말잇기(28432번)](https://until.blog/@woonideveloper423/-baekjoon--%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0-28432%EB%B2%88-)
+- [`@woonideveloper423` / \[Algorithm\] 합배열(Prefix Sum)과 구간 합(Range Sum)](https://until.blog/@woonideveloper423/-algorithm--%ED%95%A9%EB%B0%B0%EC%97%B4-prefix-sum-%EA%B3%BC-%EA%B5%AC%EA%B0%84-%ED%95%A9-range-sum-)
+- [`@woonideveloper423` / \[Baekjoon\]숫자의 합(11720번)](https://until.blog/@woonideveloper423/-baekjoon-%EC%88%AB%EC%9E%90%EC%9D%98-%ED%95%A9-11720%EB%B2%88-)
+- [`@woonideveloper423` / \[Java\] JVM의 개념 및 JDK JRE 와의 차이점](https://until.blog/@woonideveloper423/-java--jvm%EC%9D%98-%EA%B0%9C%EB%85%90-%EB%B0%8F-jdk-jre-%EC%99%80%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+- [`@vitalemon` / Evolution of Java Usage of Netflix](https://until.blog/@vitalemon/evolution-of-java-usage-of-netflix)
+- [`@melba` / Lombok을 사용해보자](https://until.blog/@melba/lombok%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
+
 ### 동팡
 
 - [Spring-Legacy to Spring-Boot 마이그레이션(Feat. 외장/내장-Tomcat/JSP/Multiple-Datasource(With-JNDI)/External-Lib)](https://ehdvudee.tistory.com/48)

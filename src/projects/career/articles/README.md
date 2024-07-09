@@ -449,6 +449,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "단점을 인정하고 ‘성장하는 개발자’ 되는 법 | 요즘IT",
+  "desc": "단점을 인정하고 ‘성장하는 개발자’ 되는 법",
+  "link": "/explore/articles/yozm.wishket.com/2664.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

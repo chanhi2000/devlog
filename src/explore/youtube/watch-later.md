@@ -75,7 +75,6 @@ tags:
 <MyYouTubeItems jsonName="yu-TitusTechTalk" /><!-- Titus Tech Talk -->
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
-<MyYouTubeItems jsonName="yu-codingshrimp" /><!-- 코딩새우 -->
 
 <TagLinks />
 

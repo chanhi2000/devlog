@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "hWvHA11Erpw", "title": "NEW Drag and Drop Library for ANY framework" },
+    { "id": "A6-56miVA_0", "title": "Supabase and NextJS 14:  Auth and Server Actions" },
+    { "id": "6elqnCCbTk8", "title": "TypeScript FINALLY fixed this..." },
+    { "id": "S50UFd8d40A", "title": "The END of Remix?!? - Huge React Announcement" },
+    { "id": "lTPh6NGLAmk", "title": "Why You Should Use React Aria Components..." },
+    { "id": "f_4k0XYvQjQ", "title": "I Ditched Prettier and ESLint (Here's Why)" },
+    { "id": "yBEHKoaoZpY", "title": "NextJS 'use server' Trap (Accidentally Leaking Data)" },
     { "id": "RwMw9wHdAuk", "title": "How To Start a React App in 2024" },
     { "id": "7aq5ppPoj_E", "title": "What's NEW in React 19" },
     { "id": "qBK8Y1QCQks", "title": "This is the FUTURE for User Experience" },

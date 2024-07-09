@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - yozm.wishket.com
   - zuminternet.github.io
   - node
@@ -27,6 +28,13 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 ```component VPCard
 {
@@ -52,6 +60,24 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Build a Vue E-commerce App Using MSW",
+  "desc": "Building an e-commerce app can be a time-consuming task, but with the right tools, it becomes much more manageable. In this guide, we'll explore how to create a robust Vue.js e-commerce application using Mock Service Worker (MSW) to simulate backend interactions.  Whether you're a seasoned developer or just starting...",
+  "link": "/explore/articles/freecodecamp.org/build-a-vue-ecommerce-app-using-msw.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
+
+---
+
 ## 요즘IT
 
 > yozm.wishket.com
@@ -65,6 +91,8 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 
@@ -81,6 +109,8 @@ head:
   "background": "rgba(30,45,56,0.2)"
 }
 ```
+
+<!-- END: zuminternet.github.io -->
 
 ---
 

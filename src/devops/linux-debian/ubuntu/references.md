@@ -28,6 +28,12 @@ tag:
 
 ---
 
+## üntil
+
+- [`@laravel` / Ubuntu에서 Laravel install Script](https://until.blog/@laravel/ubuntu%EC%97%90%EC%84%9C-laravel-install-script)
+
+---
+
 ## 재즐보프
 
 - [ubuntu에서 도메인 변경하는 방법](https://blog.naver.com/isc0304/223443494838)

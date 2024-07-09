@@ -514,6 +514,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-vue/articles/README.md',
+            asb.freecodecamp("js-vue"),
             asb.yozm("js-vue"),
             asb.zuminternet("js-vue"),
           ]
@@ -2481,6 +2482,7 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/security/articles/README.md',
             asb.freecodecamp("security"),
+            asb.codemaze("security"),
             asb.yozm("security"),
             asb.nhn("security"),
             asb.d2("security"),
@@ -2625,6 +2627,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/gatling/articles/README.md',
+            asb.freecodecamp("gatling"),
             asb.imqa("gatling"),
           ]
         },

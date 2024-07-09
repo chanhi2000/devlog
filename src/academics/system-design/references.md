@@ -229,6 +229,13 @@ head:
 
 ---
 
+## üntil
+
+- [`@keartt` / 도메인이 뭔가요?](https://until.blog/@keartt/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94-)
+- [`@thingk0` / 내가 쓰려고 만든 RestfulAPI 설계 규칙 !](https://until.blog/@thingk0/%EB%82%B4%EA%B0%80-%EC%93%B0%EB%A0%A4%EA%B3%A0-%EB%A7%8C%EB%93%A0-restfulapi-%EC%84%A4%EA%B3%84-%EA%B7%9C%EC%B9%99--)
+
+---
+
 ## Substack
 
 - [`codecompass00` / "Attention, Please!": A Visual Guide To The Attention Mechanism \[Transformers Series\]](https://codecompass00.substack.com/p/visual-guide-attention-mechanism-transformers)

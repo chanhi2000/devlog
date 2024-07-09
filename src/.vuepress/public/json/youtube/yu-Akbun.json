@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "J4drta_ImfM", "title": "EKS IRSA가 등장하기 이전의 설정" },
+    { "id": "qQdUFjayxYA", "title": "로컬에서 github action을 실행하는 방법" },
+    { "id": "SvIEryGHqFs", "title": "github action을 로컬에서 실행하는 방법 #githubactions" },
+    { "id": "8a-J6N2pXZ8", "title": "쿠버네티스 관점에서 circuit break" },
+    { "id": "rttA6k0Mf34", "title": "karpenter consolidation" },
+    { "id": "_VmNzNFhv-0", "title": "karpenter 노드 종료시간" },
+    { "id": "asCq7pWaJtg", "title": "쿠버네티스 임시 볼륨으로 발생할 수 있는 장애" },
+    { "id": "VkGTzaaIkJU", "title": "쿠버네티스 pod 우아한종료" },
     { "id": "iyLChKT47J4", "title": "AWS IPv6 to IPv4 통신방법" },
     { "id": "iw9dQUhV9rE", "title": "IPv6 소켓 프로그래밍" },
     { "id": "y6_NIvQ7hmA", "title": "EKS IPv6 생성방법" },

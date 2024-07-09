@@ -27,6 +27,12 @@ tag:
 
 ---
 
+## üntil
+
+[`@legu` / 푸시알림 날리기](https://until.blog/@legu/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC-%EB%82%A0%EB%A6%AC%EA%B8%B0)
+
+---
+
 ## 푸르고 개발 블로그
 
 - [[Nest.js] HTTP query에 따라 Service가 동적으로 할당되어야 한다.](https://puleugo.tistory.com/192)

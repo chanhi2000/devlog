@@ -45,10 +45,18 @@ head:
 
 - [Effective cloud-native Java app development with Open Liberty in IntelliJ IDEA](https://foojay.io/today/effective-cloud-native-java-app-development-with-open-liberty-in-intellij-idea/)
 
+---
 
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@DevMinGeonPark` - Jetbrains IDE 학생 라이센스 받기](https://blex.me/@DevMinGeonPark/jetbrains-ide-%ED%95%99%EC%83%9D-%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4-%EB%B0%9B%EA%B8%B0)
+
+---
+
+## üntil
+
+- [`@melba` / IntelliJ로 JSP 개발환경 설정하기](https://until.blog/@melba/intellij%EB%A1%9C-jsp-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [`@brightdawn` / IntelliJ로 Spring Boot를 처음 사용할 때](https://until.blog/@brightdawn/intellij%EB%A1%9C-spring-boot%EB%A5%BC-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C)
 
 ---
 

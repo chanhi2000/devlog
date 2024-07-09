@@ -34,7 +34,7 @@ tag:
 
 - [Rust 설치하기](https://rust-kr.org/pages/install)
 
---- 
+---
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
@@ -56,6 +56,10 @@ tag:
 - [`emmanuelantony2000` - Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
 
 ---
+
+## üntil
+
+- [`@vitalemon` / Rust Test](https://until.blog/@vitalemon/rust-test)
 
 ## Substack
 

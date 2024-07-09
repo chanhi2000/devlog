@@ -128,6 +128,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "​​How to Upload Large Files Efficiently with AWS S3 Multipart Upload",
+  "desc": "Imagine running a media streaming platform where users upload large high-definition videos. Uploading such large files can be slow and may fail if the network is unreliable.  Using traditional single-part uploads can be cumbersome and inefficient for large files, often leading to timeout errors or the need to restart...",
+  "link": "/explore/articles/freecodecamp.org/upload-large-files-with-aws.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

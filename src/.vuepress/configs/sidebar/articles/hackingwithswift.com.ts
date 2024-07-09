@@ -5,6 +5,10 @@ export const template: SidebarGroupItem = {
     collapsible: true,
     icon: 'https://hackingwithswift.com/favicon.svg',
     children: [
+      '/explore/articles/hackingwithswift.com/swift2.md', // 2015-06-08
+      '/explore/articles/hackingwithswift.com/ios9.md', // 2015-06-11
+      '/explore/articles/hackingwithswift.com/swift2-2.md', // 2016-03-21
+      '/explore/articles/hackingwithswift.com/ios10.md', // 2016-06-13
       '/explore/articles/hackingwithswift.com/swift3.md', // 2016-06-13
       '/explore/articles/hackingwithswift.com/whats-new-in-ios-11.md', // 2016-06-20
       '/explore/articles/hackingwithswift.com/swift3-1.md', // 2017-01-26
@@ -12,6 +16,7 @@ export const template: SidebarGroupItem = {
       '/explore/articles/hackingwithswift.com/swift-4-1-improves-codable-with-keydecodingstrategy.md', // 2018-02-05
       '/explore/articles/hackingwithswift.com/learn-whats-new-in-swift-4-1-with-a-playground.md', // 2018-04-04
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-4-1.md', // 2018-06-13
+      '/explore/articles/hackingwithswift.com/how-to-use-dynamiccallable-in-swift.md', // 2018-11-27
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-4-2.md', // 2018-12-17
       '/explore/articles/hackingwithswift.com/whats-new-in-swift-5-0.md', // 2019-03-28
       '/explore/articles/hackingwithswift.com/how-to-use-dynamic-member-lookup-in-swift.md', // 2019-03-29

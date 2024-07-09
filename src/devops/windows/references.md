@@ -252,7 +252,8 @@ tag:
 
 ## üntil
 
-- [`morethanmin` / 윈도우에서 winget으로 fnm 설치하기 (Fast Node Manager)](https://until.blog/@morethanmin/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-winget%EC%9C%BC%EB%A1%9C-fnm-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0--fast-node-manager-) 
+- [`@morethanmin` / 윈도우에서 맥 단축키 적용하기(PowerToys)](https://until.blog/@morethanmin/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-%EB%A7%A5-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-powertoys-)
+- [`@morethanmin` / 윈도우에서 winget으로 fnm 설치하기 (Fast Node Manager)](https://until.blog/@morethanmin/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-winget%EC%9C%BC%EB%A1%9C-fnm-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0--fast-node-manager-) 
 
 ---
 

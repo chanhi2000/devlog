@@ -34,5 +34,10 @@
     "desc": "JavaScript Testing utilities for React",
     "officialSite": "https://enzymejs.github.io/enzyme/",
     "topics": ["assertion-library", "assertions", "ava", "chai", "enzyme", "jest", "mocha", "react", "react-components", "test", "test-runner", "test-runners", "testing", "traversal"]
+  }, {
+    "repo": "onlook-dev/studio",
+    "desc": "The power of webflow for your React app",
+    "officialSite": "https://onlook.dev",
+    "topics": ["browser", "electron", "react", "tailwindcss", "typescript", "vitejs"]
   }
 ]

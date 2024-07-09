@@ -1011,6 +1011,20 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://8thlight.com/apple-touch-icon.png"
   preview="https://assets.8thlight.com/images/_1200x630_crop_center-center_none/8th_Light_Feature_Insights.jpg"/>
 
+<SiteInfo
+  name="NextRoll - Engineering"
+  desc="Big Data, Real Time Bidding, 50TB+/day, 1 million+ qps, 100ms, Python, Java, Erlang, C, JavaScript, Cutting Edge WebDev, Machine Learning, Open Source Projects"
+  url="https://tech.nextroll.com/blog/"
+  logo="https://tech.nextroll.com/images/icon/apple-touch-icon.png"
+  preview="https://tech.nextroll.com/images/site_cover.png"/>
+
+<SiteInfo
+  name="The Airbnb Tech Blog – Medium"
+  desc="Creative engineers and data scientists building a world where you can belong anywhere. http://airbnb.io."
+  url="https://medium.com/airbnb-engineering"
+  logo="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
+  preview="https://cdn-images-1.medium.com/max/1200/1*MlNQKg-sieBGW5prWoe9HQ.jpeg"/>
+
 <!-- END: Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)

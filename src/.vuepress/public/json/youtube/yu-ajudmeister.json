@@ -2,10 +2,20 @@
   "channel": {
     "id": "ajudmeister",
     "name": "Andreas Jud",
-  "profile": "https://yt3.googleusercontent.com/q0eT3QR0Z8UrYtfrEt-XIaLPNVI_z1MoeJC45432or44hni0DNBLYUaKNP008bFFhJClBuRj7Q=s176-c-k-c0x00ffffff-no-rj",
+    "profile": "https://yt3.googleusercontent.com/q0eT3QR0Z8UrYtfrEt-XIaLPNVI_z1MoeJC45432or44hni0DNBLYUaKNP008bFFhJClBuRj7Q=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/LBx-PFPevasWu6YfvRtaV6VDKalTt7lpHKixM9JyQ13iv7fPqoB_vgaBzYgqBeEte8xb5K0X=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vypZv8OVfCk", "title": "Redis, Alternatives & Deployment - Real-Time Chat app - Part 5" },
+    { "id": "4kJKq1bZSwo", "title": "Private Chat - Real-Time Chat app - Part 6" },
+    { "id": "mfpzFemewDQ", "title": "Group Chat - Real-Time Chat app - Part 7" },
+    { "id": "OnSTdQ5DP0w", "title": "Sending Files - Real-Time Chat app - Part 9" },
+    { "id": "IkHKg5Unniw", "title": "Django Deploy with Render, PostgreSQL, Cloudinary, Gmail, Github & Tailwind" },
+    { "id": "foyhg2Vc5Oc", "title": "Deploy with Daphne and Redis - Real-Time Chat app - Part 10" },
+    { "id": "yE0eg0frVoU", "title": "How to build a Message Board with Celery - Email Notifications with Threading - Part 1" },
+    { "id": "CkR_gjlDH-4", "title": "How to set up Celery and Redis in Django - Message Board Notifications - Part 2" },
+    { "id": "du9BC0o0qAE", "title": "How to send a newsletter with Celery Beat - Django Background Tasks - Part 4" },
+    { "id": "mSO_1FyUbvY", "title": "How to deploy Celery, Flower and Beat - Django Background Tasks - Part 5" },
     { "id": "SQ4A7Q6_md8", "title": "Django Starter with Allauth and Htmx" },
     { "id": "u7siCTdGhuw", "title": "Real-Time Chat app with Django Channels and WebSockets Introduction - Part 1" },
     { "id": "lPR8SbDJogU", "title": "How does a Real-Time Chat App works? #django #websockets #channels #webapp #python" },

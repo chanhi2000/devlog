@@ -70,5 +70,6 @@ head:
 <MyYouTubeItems jsonName="yu-iApplePro" /><!-- iApplePro -->
 <MyYouTubeItems jsonName="yu-rt9" /><!-- Route 9 루트나인 -->
 <MyYouTubeItems jsonName="yu-HRR" /><!-- HappyRider Reviews -->
+<MyYouTubeItems jsonName="yu-Baseusofficial" /><!-- Baseus -->
 
 <TagLinks />

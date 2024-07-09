@@ -274,7 +274,7 @@ tag:
 
 ---
 
-## tavianator.com 
+## tavianator.com
 
 - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
 

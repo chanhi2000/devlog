@@ -141,6 +141,8 @@ head:
 - [`@laetipark` / AWSome DAY 온라인 컨퍼런스 : AWS 클라우드 소개](https://blex.me/@laetipark/awsome-day-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-aws-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%86%8C%EA%B0%9C)
 - [`@2170004487z` / 라우팅을 편하게!, CIDR로 더 효율적인 네트워크 환경을 경험해보세요!](https://blex.me/@2170004487z/%EB%9D%BC%EC%9A%B0%ED%8C%85%EC%9D%84-%ED%8E%B8%ED%95%98%EA%B2%8C-cidr%EB%A1%9C-%EB%8D%94-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B2%BD%ED%97%98%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
 - [`@mildsalmon` / Data Quality Check를 위한 Assert Runner 구현하기](https://blex.me/@mildsalmon/data-quality-check%EB%A5%BC-%EC%9C%84%ED%95%9C-assert-runner-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+- [`@kimyoungjo` / EC2, docker를 이용한 배포 후기 \[지도 검색 서비스 제작기\]](https://blex.me/@kimyoungjo/ec2-docker%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-%EC%A7%80%EB%8F%84-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EC%9E%91%EA%B8%B0)
+- [`@mildsalmon` / OOP를 곁들인 Data Quality Check](https://blex.me/@mildsalmon/data-quality-check%EB%A5%BC-%EC%9C%84%ED%95%9C-assert-runner-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
 ---
 

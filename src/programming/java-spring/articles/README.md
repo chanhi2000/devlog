@@ -169,7 +169,17 @@ head:
 {
   "title": "How to Implement an OAuth2 Resource Server with Spring Security",
   "desc": "Hey everyone! Imagine you are building an awesome application, with lots of cool features. Picture a backend server at its core that hosts a majority of the business logic and exposes functionality through APIs. Once you have planned out your APIs, there's one crucial step you need to take care",
-  "link": "/explore/articles/freecodecamp.org/uth2-resourceserver-with-spring-security.md",
+  "link": "/explore/articles/freecodecamp.org/outh2-resourceserver-with-spring-security.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Perform Load Testing in Spring Boot with Gatling",
+  "desc": "To evaluate the performance of a system, you need a tool that can simulate its behavior in production.  For this purpose, you can use a software tool based on Scala  called Gatling. This article will teach you how to integrate it into a Spring Boot  application",
+  "link": "/explore/articles/freecodecamp.org/how-to-integrate-spring-boot-with-gatling.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

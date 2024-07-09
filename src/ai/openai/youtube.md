@@ -163,5 +163,7 @@ head:
 <MyYouTubeItems jsonName="yu-CleverProgrammer" /><!-- Clever Programmer -->
 <MyYouTubeItems jsonName="yu-choda100" /><!-- choda100 -->
 <MyYouTubeItems jsonName="yu-Eduonix" /><!-- Eduonix Learning Solutions -->
+<MyYouTubeItems jsonName="yu-teddynote" /><!-- 테디노트 TeddyNote -->
+<MyYouTubeItems jsonName="yu-njm0810" /><!-- 긍정왕수전노 경제적 자유 -->
 
 <TagLinks />

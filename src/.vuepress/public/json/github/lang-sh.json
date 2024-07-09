@@ -454,5 +454,10 @@
     "desc": "Install and run your own AI agent service",
     "officialSite": "https://www.gaianet.ai/",
     "topics": []
+  }, {
+    "repo": "victrixsoft/bashbro",
+    "desc": "A Bash-based web file browser. Allowing you to browse, view and transfer files via your web browser.",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -92,6 +92,7 @@ tag:
 - [`@mildsalmon` - 회식과 저녁에 대한 시간 기준](https://blex.me/@mildsalmon/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0-2024%EB%85%84-13%EC%A3%BC%EC%B0%A8-3%EC%9B%94)
 - [`@devkonis` - [스타트업] 업계에서 통용되는 스타트업 관련 주요 용어](https://blex.me/@devkonis/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%97%85%EA%B3%84%EC%97%90%EC%84%9C-%ED%86%B5%EC%9A%A9%EB%90%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B4%80%EB%A0%A8-%EC%A3%BC%EC%9A%94-%EC%9A%A9%EC%96%B4)
 - [`@mildsalmon` / 삶의 목표에 대한 고민](https://blex.me/@mildsalmon/%EC%82%B6%EC%9D%98-%EB%AA%A9%ED%91%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC)
+- [`@kimyoungjo` / 2024 3회 정보처리기사 필기 합격 후기](https://blex.me/@kimyoungjo/2024-3%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%ED%95%84%EA%B8%B0-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)
 
 ---
 

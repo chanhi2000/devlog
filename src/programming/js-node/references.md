@@ -214,6 +214,53 @@ tag:
 ## Alligator.io
 
 - [main](https://alligator.io)
+---
+
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`constell99` / 우리가 Typescript를 선택한 이유](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
+- [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
+- [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
+- [Must Know JavaScript API — Page Visibility API](https://javascript.plainenglish.io/js-must-know-javascript-api-page-visibility-api-9f3e10439842)
+- [Memoization in JavaScript](https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8)
+- [Generators in JavaScript Explained](https://javascript.plainenglish.io/generators-in-javascript-explained-6855a307e371)
+- [The Power of Web Performance: How I Increased the Score from 27 to 99](https://code.likeagirl.io/web-performance-from-27-to-99-32441d24a326)
+- [useRef vs. useState in React](https://designtechworld.medium.com/useref-vs-usestate-in-react-330539025245)
+- [Dark mode on Tauri + Angular + Tailwind app](https://itnext.io/dark-mode-on-tauri-angular-tailwind-app-74df8f7cb8ce)
+- [Performant Reactivity with Svelte-Kit](https://itnext.io/performant-reactivity-with-svelte-kit-47d11769c5f)
+- [Callback Refs in React](https://designtechworld.medium.com/callback-refs-in-react-dd2acbed3d7c)
+- [ES6 imports vs CommonJS imports](https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd)
+- [Angular Tree Shaking: Optimize Your Application's Size 🌳](https://designtechworld.medium.com/angular-tree-shaking-optimize-your-applications-size-ea7494a568f)
+- [The Art of Micro Frontends](https://medium.com/sysco-labs/the-art-of-micro-frontends-5184065ab74b)
+- [Building a Web Scraper with Spidey: Part 5 — Proxy Integration](https://towardsdev.com/building-a-web-scraper-with-spidey-part-5-proxy-integration-4da0ebccc170)
+- [IndexedDB 간단 정리하기](https://pks2974.medium.com/indexeddb-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-ca9be4add614)
+- [Writing a vite plugin](https://medium.com/@axwdev/writing-a-vite-plugin-for-vue-3-5bcc1c0915e0)
+- [How to avoid empty class in Vue with null](https://medium.com/js-dojo/how-to-avoid-empty-class-in-vue-with-null-74d5366507b)
+- [Making a Chrome Extension with Svelte](https://javascript.plainenglish.io/making-a-chrome-extension-with-svelte-2fefb3769c)
+- [Create a dynamic load side page with animation in React.js](https://mukeshprajapati0251.medium.com/create-a-dynamic-load-side-page-with-animation-in-react-js-3658f064f401)
+- [JavaScript Ideas Every Web Developer Should Understand](https://coinsbench.com/javascript-ideas-every-web-developer-should-understand-34e633a35d7d)
+- [NGRX complete guide with Angular. Learn by doing simple CRUD operations](https://itnext.io/ngrx-complete-guide-with-angular-learn-by-doing-simple-crud-operations-95d1414e765d)
+- [I Bet You Don't Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8)
+- [Some Simple and Amazing JavaScript Tricks](https://javascript.plainenglish.io/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
+- [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
+- [Why did Machbase Neo switch its front-end framework from Vue.js to React?](https://medium.com/machbase/why-did-machbase-neo-switch-its-front-end-framework-from-vue-js-to-react-b06ffe680785)
+- [Why Web UI Development Is So Hard?](https://itnext.io/why-web-ui-development-is-so-hard-a88c47f4b3c5)
+- [Microtask Queue + RxJS + Angular](https://itnext.io/microtask-queue-rxjs-angular-ac3d8612d3f6)
+- [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
+- [`@calebleak` - Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
+- [`baekkyoungjung` - 웹페이지 SEO, 성능, UX 최적화 한번에 하기](https://baekkyoungjung.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-seo-ux-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%9C%EB%B2%88%EC%97%90-%ED%95%98%EA%B8%B0-a529d233c521)
+- [`lemonabase` - 이거 어디까지 올라가는 거예요? - 성능 테스트 환경 구축기](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
+- [`@hong009319` - Webpack → Vite: 스토리북의 번들러 마이그레이션](https://medium.com/@hong009319/webpack-vite-%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B6%81%EC%9D%98-%EB%B2%88%EB%93%A4%EB%9F%AC-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-0100b3ab0725)
+- [`Catenoid Techblog` - ffmpeg.wasm](https://techblog.catenoid.net/ffmepg-wasm-7160cc29e97d)
+- [`Coins Bench` - Mocking Addresses Without Private Keys in Hardhat Tests](https://coinsbench.com/mocking-addresses-without-private-keys-in-hardhat-tests-de35f960090a)
+- [`naver-place-dev` - 네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
+- [`mathpresso` / 웹에서 프리 드로잉 밑바닥부터 구현하기](https://blog.mathpresso.com/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC-%EB%93%9C%EB%A1%9C%EC%9E%89-%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-965a0d2253c1)
+- [`airbnb-engineering` / Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
+- [`bitsrc` / Bit, Nx and Lerna: An Overview of 3 Popular JavaScript Build Systems](https://blog.bitsrc.io/javascript-build-systems-83bc4df4df8c)
+- [`junghan92` / d3-geo, TopoJSON, canvas를 이용한 맵 차트 그리기](https://junghan92.medium.com/d3-geo-topojson-canvas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%B5-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0-ffab54ec23bf)
+- [`junghan92` / (번역) 웹에서 텍스트 크기 조정에 대해 다시 생각하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-6ed827589fd9)
+- [`daangn` / 안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
+- [`fourwingsy` / GraphQL을 오해하다](https://fourwingsy.medium.com/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 
 ---
 
@@ -284,6 +331,14 @@ tag:
 - [`@laetipark` / Node.js 교과서 : 6. 익스프레스 웹 서버 만들기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-6-%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4-%EC%9B%B9-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [`@laetipark` / NestJS/Typescript : 캐시 메모리와 레디스(Redis)](https://blex.me/@laetipark/nestjstypescript-%EC%BA%90%EC%8B%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80-%EB%A0%88%EB%94%94%EC%8A%A4redis)
 - [`@laetipark` / NestJS/Typescript : Bcrypt 모듈을 통한 비밀번호 암호화](https://blex.me/@laetipark/nestjstypescript-bcrypt-%EB%AA%A8%EB%93%88%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%95%94%ED%98%B8%ED%99%94)
+
+---
+
+## üntil
+
+- [`@yeonwoo`: 이연우](https://until.blog/@yeonwoo)
+  - [express.js에서 css가 로딩이 안됨](https://until.blog/@yeonwoo/express-js%EC%97%90%EC%84%9C-css%EA%B0%80-%EB%A1%9C%EB%94%A9%EC%9D%B4-%EC%95%88%EB%90%A8)
+  - [서버가 뭔지 이해하기 쉽게 알려줌](https://until.blog/@yeonwoo/%EC%84%9C%EB%B2%84%EA%B0%80-%EB%AD%94%EC%A7%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%BD%EA%B2%8C-%EC%95%8C%EB%A0%A4%EC%A4%8C)
 
 ---
 
@@ -424,54 +479,6 @@ tag:
 ## 기억보다 기록을
 
 - [async/await를 for loop에서 사용하기](https://kyounghwan01.github.io/blog/JS/JSbasic/for-await-of/#%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%83%E1%85%AC%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3)
-
----
-
-## <FontIcon icon="fa-brands fa-medium"/>Medium
-
-- [`constell99` / 우리가 Typescript를 선택한 이유](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
-- [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
-- [6 Advanced TypeScript tricks for Clean Code](https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3)
-- [Must Know JavaScript API — Page Visibility API](https://javascript.plainenglish.io/js-must-know-javascript-api-page-visibility-api-9f3e10439842)
-- [Memoization in JavaScript](https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8)
-- [Generators in JavaScript Explained](https://javascript.plainenglish.io/generators-in-javascript-explained-6855a307e371)
-- [The Power of Web Performance: How I Increased the Score from 27 to 99](https://code.likeagirl.io/web-performance-from-27-to-99-32441d24a326)
-- [useRef vs. useState in React](https://designtechworld.medium.com/useref-vs-usestate-in-react-330539025245)
-- [Dark mode on Tauri + Angular + Tailwind app](https://itnext.io/dark-mode-on-tauri-angular-tailwind-app-74df8f7cb8ce)
-- [Performant Reactivity with Svelte-Kit](https://itnext.io/performant-reactivity-with-svelte-kit-47d11769c5f)
-- [Callback Refs in React](https://designtechworld.medium.com/callback-refs-in-react-dd2acbed3d7c)
-- [ES6 imports vs CommonJS imports](https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd)
-- [Angular Tree Shaking: Optimize Your Application's Size 🌳](https://designtechworld.medium.com/angular-tree-shaking-optimize-your-applications-size-ea7494a568f)
-- [The Art of Micro Frontends](https://medium.com/sysco-labs/the-art-of-micro-frontends-5184065ab74b)
-- [Building a Web Scraper with Spidey: Part 5 — Proxy Integration](https://towardsdev.com/building-a-web-scraper-with-spidey-part-5-proxy-integration-4da0ebccc170)
-- [IndexedDB 간단 정리하기](https://pks2974.medium.com/indexeddb-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-ca9be4add614)
-- [Writing a vite plugin](https://medium.com/@axwdev/writing-a-vite-plugin-for-vue-3-5bcc1c0915e0)
-- [How to avoid empty class in Vue with null](https://medium.com/js-dojo/how-to-avoid-empty-class-in-vue-with-null-74d5366507b)
-- [Making a Chrome Extension with Svelte](https://javascript.plainenglish.io/making-a-chrome-extension-with-svelte-2fefb3769c)
-- [Create a dynamic load side page with animation in React.js](https://mukeshprajapati0251.medium.com/create-a-dynamic-load-side-page-with-animation-in-react-js-3658f064f401)
-- [JavaScript Ideas Every Web Developer Should Understand](https://coinsbench.com/javascript-ideas-every-web-developer-should-understand-34e633a35d7d)
-- [NGRX complete guide with Angular. Learn by doing simple CRUD operations](https://itnext.io/ngrx-complete-guide-with-angular-learn-by-doing-simple-crud-operations-95d1414e765d)
-- [I Bet You Don't Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8)
-- [Some Simple and Amazing JavaScript Tricks](https://javascript.plainenglish.io/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
-- [[Typia] I made Protocol Buffer library of TypeScript, easiest in the world](https://dev.to/samchon/typia-i-made-protocol-buffer-library-of-typescript-easiest-in-the-world-20lc)
-- [Why did Machbase Neo switch its front-end framework from Vue.js to React?](https://medium.com/machbase/why-did-machbase-neo-switch-its-front-end-framework-from-vue-js-to-react-b06ffe680785)
-- [Why Web UI Development Is So Hard?](https://itnext.io/why-web-ui-development-is-so-hard-a88c47f4b3c5)
-- [Microtask Queue + RxJS + Angular](https://itnext.io/microtask-queue-rxjs-angular-ac3d8612d3f6)
-- [Two-way data binding in Vanilla JavaScript without Angular or React](https://javascript.plainenglish.io/two-way-data-binding-in-vanilla-javascript-without-angular-or-react-223ddbb1252d)
-- [`@calebleak` - Fast Virtual Functions: Hacking the VTable for Fun and Profit](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
-- [`baekkyoungjung` - 웹페이지 SEO, 성능, UX 최적화 한번에 하기](https://baekkyoungjung.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-seo-ux-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%9C%EB%B2%88%EC%97%90-%ED%95%98%EA%B8%B0-a529d233c521)
-- [`lemonabase` - 이거 어디까지 올라가는 거예요? - 성능 테스트 환경 구축기](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
-- [`@hong009319` - Webpack → Vite: 스토리북의 번들러 마이그레이션](https://medium.com/@hong009319/webpack-vite-%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B6%81%EC%9D%98-%EB%B2%88%EB%93%A4%EB%9F%AC-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-0100b3ab0725)
-- [`Catenoid Techblog` - ffmpeg.wasm](https://techblog.catenoid.net/ffmepg-wasm-7160cc29e97d)
-- [`Coins Bench` - Mocking Addresses Without Private Keys in Hardhat Tests](https://coinsbench.com/mocking-addresses-without-private-keys-in-hardhat-tests-de35f960090a)
-- [`naver-place-dev` - 네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
-- [`mathpresso` / 웹에서 프리 드로잉 밑바닥부터 구현하기](https://blog.mathpresso.com/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC-%EB%93%9C%EB%A1%9C%EC%9E%89-%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-965a0d2253c1)
-- [`airbnb-engineering` / Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
-- [`bitsrc` / Bit, Nx and Lerna: An Overview of 3 Popular JavaScript Build Systems](https://blog.bitsrc.io/javascript-build-systems-83bc4df4df8c)
-- [`junghan92` / d3-geo, TopoJSON, canvas를 이용한 맵 차트 그리기](https://junghan92.medium.com/d3-geo-topojson-canvas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%B5-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0-ffab54ec23bf)
-- [`junghan92` / (번역) 웹에서 텍스트 크기 조정에 대해 다시 생각하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-6ed827589fd9)
-- [`daangn` / 안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
-- [`fourwingsy` / GraphQL을 오해하다](https://fourwingsy.medium.com/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 
 ---
 

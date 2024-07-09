@@ -714,5 +714,10 @@
     "desc": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
     "officialSite": "https://owasp.org/www-project-dependency-check/",
     "topics": ["ant-task", "build-tool", "gradle-plugin", "jenkins-plugin", "maven-plugin", "security", "security-audit", "software-composition-analysis", "vulnerability-detection"]
+  }, {
+    "repo": "Osiris-Team/1JPM",
+    "desc": "1 Java Project Manager, is a Maven/Gradle alternative with a twist. Its a single Java file itself, which should be edited by you to configure your project.",
+    "officialSite": "",
+    "topics": ["build-tool", "dependecy-manager", "project-management"]
   }
 ]

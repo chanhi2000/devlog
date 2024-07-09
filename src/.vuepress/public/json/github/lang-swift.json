@@ -544,5 +544,10 @@
     "desc": "Decode BlurHash strings to SwiftUI MeshGradient or Color with various customization options.",
     "officialSite": "",
     "topics": ["blurhash", "ios18", "macos15", "meshgradient", "swift-package", "swiftui"]
+  }, {
+    "repo": "raheelahmad/Swift-D3-Charts",
+    "desc": "Replicating D3 Charts with Swift Charts",
+    "officialSite": "",
+    "topics": []
   }
 ]

@@ -11,6 +11,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "java-spring",[
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
+      "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
     ]],[
     "java-android",[
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
@@ -47,9 +48,9 @@ export const template: SidebarInfoTemplate = {
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024-05-28
       "learn-threejs-by-building-five-projects", // 2024-06-12
       "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
-      "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
       "improve-your-javascript-projects-with-build-tools", // 2024-07-02
+      "upload-large-files-with-aws", // 2024-07-08
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -81,6 +82,9 @@ export const template: SidebarInfoTemplate = {
       "react-19-actions-simpliy-form-submission-and-loading-states", // 2024-07-02
       "how-data-flows-in-redux", // 2024-07-03
       "build-a-meditation-app-with-react-native-expo-router", // 2024-07-03
+    ]],[
+    "js-vue", [
+      "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
@@ -128,6 +132,7 @@ export const template: SidebarInfoTemplate = {
       "decorators-in-python-tutorial", // 2024-06-18
       "for-else-loop-in-python", // 2024-06-19
       "pyspark-for-beginners", // 2024-06-26
+      "what-is-a-markov-chain", // 2024-07-08
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -206,6 +211,7 @@ export const template: SidebarInfoTemplate = {
       "comparing-iac-tools-aws-cdk-cloudformation-terraform", // 2024-06-03
       "auto-scaling-and-load-balancing", // 2024-06-17
       "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
+      "upload-large-files-with-aws", // 2024-07-08
     ]],[
     "azure", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -223,6 +229,9 @@ export const template: SidebarInfoTemplate = {
     "security", [
       "how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126", // 2024-05-31
       "how-to-improve-your-digital-security-and-privacy", // 2024-06-18
+    ]],[
+    "gatling", [
+      "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
     ]],[
     "selenium", [
       "empire-state-building-run-up-analysis-with-python", // 2024-05-08
@@ -414,6 +423,10 @@ export const template: SidebarInfoTemplate = {
       "how-data-flows-in-redux", // 2024-07-03
       "build-a-meditation-app-with-react-native-expo-router", // 2024-07-03
       "how-to-use-callback-functions-in-javascript", // 2024-07-03
+      "upload-large-files-with-aws", // 2024-07-08
+      "what-is-a-markov-chain", // 2024-07-08
+      "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
+      "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
     ]],
   ]),
 }

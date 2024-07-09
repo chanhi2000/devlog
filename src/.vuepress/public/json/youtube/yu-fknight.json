@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/AqxtaCQJVqERHpcnvpyeeIMPj_wp-lJzRyGoi-7bYVL50YDJ4_X5aMbGvzgjQrxzqyBQuUlmyEY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zG1cM9VSINg", "title": "A Complete Overview of DevOps" },
+    { "id": "LV_r2ahaKto", "title": "So, you want to be a programmer?" },
+    { "id": "f_ZxgQQ74Lc", "title": "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind" },
+    { "id": "8deKXiV-eLE", "title": "How to Automate Your Developer Workflow" },
+    { "id": "Wg16BOslJGk", "title": "I Remade My First Artificial Intelligence Program 7 Years Later w/ a New Algorithm" },
     { "id": "VpnZnFUHhIU", "title": "The Data Structure You Use Matters a Lot" },
     { "id": "vxk6YPRVg_o", "title": "Everything You NEED to Know about Web Scraping (Advanced)" },
     { "id": "ALPWOiUKIjY", "title": "How Data Structures & Algorithms are Actually Used" },

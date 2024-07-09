@@ -38,6 +38,11 @@ tag:
 
 ---
 
+## üntil
+
+- [`@thingk0` / WAS가 있음에도 불구하고, 웹서버인 Nginx 를 사용하는 이유 - 개발자 면접 리마인드](https://until.blog/@thingk0/was%EA%B0%80-%EC%9E%88%EC%9D%8C%EC%97%90%EB%8F%84-%EB%B6%88%EA%B5%AC%ED%95%98%EA%B3%A0--%EC%9B%B9%EC%84%9C%EB%B2%84%EC%9D%B8-nginx-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0---%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%93%9C)
+
+
 ## Blog - LINE ENGINEERING
 
 - [코로나 시대 원격 QA! 오픈소스 디바이스팜 STF 도입기](https://engineering.linecorp.com/ko/blog/remote-qa-devicefarm-stf) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/remote-qa-devicefarm-stf.md) -->

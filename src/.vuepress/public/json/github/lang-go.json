@@ -1639,5 +1639,10 @@
     "desc": "NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes",
     "officialSite": "",
     "topics": ["cuda", "gpu", "kubernetes", "nvidia"]
+  }, {
+    "repo": "stym06/rebuf",
+    "desc": "Rebuf is a library that can be used as a WAL which can be used for logging and later replaying the data bytes during downstream service failure",
+    "officialSite": "",
+    "topics": ["go", "wal"]
   }
 ]

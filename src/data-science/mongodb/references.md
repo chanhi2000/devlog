@@ -30,4 +30,10 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-blex"/>BLEX
+
+- [`@kimyoungjo` / db optimization 경험해보기 \[지도 검색 서비스 제작기\]](https://blex.me/@kimyoungjo/db-optimization-%EA%B2%BD%ED%97%98%ED%95%B4%EB%B3%B4%EA%B8%B0-%EC%A7%80%EB%8F%84-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EC%9E%91%EA%B8%B0)
+
+---
+
 <TagLinks />

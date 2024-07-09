@@ -43,6 +43,16 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`houseman` / Creating a great Python DevX](https://dev.to/houseman/creating-a-great-python-devx-39c6)
+- [`github` / 10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [`m0nica` / How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
+- [`jacktt` / Creating Dynamic `README.md` File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)
+- [`monicafidalgo` / How to showcase your GitHub repositories on LinkedIn 🐱](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non)
+
+---
+
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@pgmjun` / [Github 협업, 이것만은 알자] - Cherry pick](https://velog.io/@pgmjun/Github-%ED%98%91%EC%97%85-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EC%95%8C%EC%9E%90-Cherry-pick)
@@ -57,13 +67,12 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## üntil
 
-- [`houseman` / Creating a great Python DevX](https://dev.to/houseman/creating-a-great-python-devx-39c6)
-- [`github` / 10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
-- [`m0nica` / How To Create A GitHub Profile `README`](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
-- [`jacktt` / Creating Dynamic `README.md` File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o)
-- [`monicafidalgo` / How to showcase your GitHub repositories on LinkedIn 🐱](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non)
+- [`@morethanmin`: morethanmin](https://until.blog/@morethanmin)
+  - [git 공개키 등록하기 git@github.com: Permission denied (publickey)](https://until.blog/@morethanmin/git-%EA%B3%B5%EA%B0%9C%ED%82%A4-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0-git-github-com--permission-denied--publickey-)
+- [`@nahwasa`: nahwasa](https://until.blog/@nahwasa)
+  - [Git 기본 이해 - 기본 명령어의 이해, 충돌 해결, github](https://until.blog/@nahwasa/git-%EA%B8%B0%EB%B3%B8-%EC%9D%B4%ED%95%B4---%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4%EC%9D%98-%EC%9D%B4%ED%95%B4--%EC%B6%A9%EB%8F%8C-%ED%95%B4%EA%B2%B0--github)
 
 ---
 

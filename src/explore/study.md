@@ -753,6 +753,13 @@ https://www.joinc.co.kr/w/Site
   logo="https://illustrated-machine-learning.github.io/favml.png"
   preview="https://illustrated-machine-learning.github.io/img/meme.svg"/>
 
+<SiteInfo
+  name="Total TypeScript Essentials | Total TypeScript"
+  desc="Learn how to use TypeScript to level-up your applications as a web developer through exercise driven self-paced workshops and tutorials hosted by TypeScript wizard Matt Pocock."
+  url="https://www.totaltypescript.com/books/total-typescript-essentials"
+  logo="https://www.totaltypescript.com/favicon.ico"
+  preview="https://res.cloudinary.com/total-typescript/image/upload/v1718801512/typescript-essentials_b2myrp.jpg"/>
+
 <!-- END: Crashcourse -->
 
 @tab Cheatsheet
@@ -904,7 +911,6 @@ https://www.joinc.co.kr/w/Site
   logo="https://quickref.me/images/favicon.png?v=1"
   preview="https://quickref.me/assets/image/javascript-preview.png?v=o1m7tj"/>
 
-
 https://rogerdudler.github.io/git-guide/index.html
 https://rogerdudler.github.io/git-guide/index.ko.html
 https://ui-patterns.com/patterns
@@ -935,6 +941,7 @@ https://ui-patterns.com/patterns
   preview="https://docs.deno.com/img/social.png"/>
 
 <!-- END: Documentation -->
+
 :::
 
 ---

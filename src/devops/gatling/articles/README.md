@@ -10,6 +10,7 @@ category:
   - Article(s)
 tag:
   - blog
+  - freecodecamp.org
   - blog.imqa.io
   - devops
   - test
@@ -27,6 +28,13 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
 ```component VPCard
 {
   "title": "IMQA 기술 블로그",
@@ -38,6 +46,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Perform Load Testing in Spring Boot with Gatling",
+  "desc": "To evaluate the performance of a system, you need a tool that can simulate its behavior in production.  For this purpose, you can use a software tool based on Scala  called Gatling. This article will teach you how to integrate it into a Spring Boot  application",
+  "link": "/explore/articles/freecodecamp.org/how-to-integrate-spring-boot-with-gatling.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 
@@ -54,6 +80,8 @@ head:
   "background": "rgba(86,66,204,0.2)"
 }
 ```
+
+<!-- blog.imqa.io -->
 
 ---
 

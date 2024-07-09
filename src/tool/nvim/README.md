@@ -2,7 +2,7 @@
 lang: ko-KR
 title: NeoVim
 description: NeoVim
-icon: iconfont icon-vim
+icon: iconfont icon-neovim
 category:
   - Linux
   - Shell

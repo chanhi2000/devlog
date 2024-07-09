@@ -96,5 +96,8 @@ tag:
 <MyYouTubeItems jsonName="yu-OpenSecurityTraining" /><!-- OpenSecurityTraining2 -->
 <MyYouTubeItems jsonName="yu-sudoSecurity" /><!-- sudo Security (Florian Dalwigk) -->
 <MyYouTubeItems jsonName="yu-StormWindStudios" /><!-- StormWind Studios -->
+<MyYouTubeItems jsonName="yu-eccouncilusa" /><!-- EC-Council -->
+<MyYouTubeItems jsonName="yu-jeFF0Falltrades" /><!-- jeFF0Falltrades -->
+<MyYouTubeItems jsonName="yu-KeepItTechie" /><!-- KeepItTechie -->
 
 <TagLinks />

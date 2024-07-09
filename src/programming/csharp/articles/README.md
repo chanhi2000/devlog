@@ -8,9 +8,12 @@ category:
   - DotNet
   - Article(s)
 tag: 
+  - blog
+  - freecodecamp.org
+  - johnnyreilly.com
+  - code-maze.com
   - csharp
   - dotnet
-  - blog
 head:
   - - meta:
     - property: og:title
@@ -1384,6 +1387,116 @@ head:
   "title": "Testing Controllers with Unit Tests and Moq in ASP.NET Core",
   "desc": "In this article, we are going to talk about unit testing controllers by using the Moq library, which enables us to isolate dependencies.",
   "link": "/explore/articles/code-maze.com/unit-testing-controllers-aspnetcore-moq.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Send an Email in ASP.NET Core",
+  "desc": "In this article, we are going to learn how to send email from the ASP.NET Core project in sync, async way with attachments as well.",
+  "link": "/explore/articles/code-maze.com/aspnetcore-send-email.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Introducing Identity to the ASP.NET Core Project",
+  "desc": "In this article, we are going to learn how to integrate the ASP.NET Core Identity library in our existing project and add additional tables and columns.",
+  "link": "/explore/articles/code-maze.com/identity-asp-net-core-project.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "User Registration with ASP.NET Core Identity",
+  "desc": "In this article, we are going to learn about the User registration process with ASP.NET Core Identity and how to modify the default Identity configuration.",
+  "link": "/explore/articles/code-maze.com/user-registration-aspnet-core-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "OWASP Top 10 – Injection",
+  "desc": "In this article, we are going to look at the injection attack, which is the most critical web application security threat as per OWASP Top 10 list.",
+  "link": "/explore/articles/code-maze.com/owasp-top-10-injection.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Authentication With ASP.NET Core Identity",
+  "desc": "In this article, we are going to learn about the Authentication process with ASP.NET Core Identity, Logout process and adding additional Claims.",
+  "link": "/explore/articles/code-maze.com/authentication-aspnet-core-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Password Reset with ASP.NET Core Identity",
+  "desc": "In this article, we are going to learn about the Password Reset functionality with ASP.NET Core Identity with detailed examples",
+  "link": "/explore/articles/code-maze.com/password-reset-aspnet-core-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Email Confirmation with ASP.NET Core Identity",
+  "desc": "In this article, we are going to learn how to enable email confirmation during the registration process with ASP.NET Core Identity",
+  "link": "/explore/articles/code-maze.com/email-confirmation-aspnet-core-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "User Lockout with ASP.NET Core Identity",
+  "desc": "In this article, we are going to learn about User Lockout functionality with ASP.NET Core. Additionally, we'll implement a custom password validation.",
+  "link": "/explore/articles/code-maze.com/user-lockout-aspnet-core-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Two-Step Verification with ASP.NET Core Identity",
+  "desc": "In this article, we are going to learn about the Two-Step Verification process with the ASP.NET Core Identity, for more secure login process.",
+  "link": "/explore/articles/code-maze.com/two-step-verification-aspnet-core-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "External Identity Provider with ASP.NET Core Identity",
+  "desc": "In this article, we are going to learn how to configure an External Identity Provider with ASP.NET Core Identity and how to implement it in our solution.",
+  "link": "/explore/articles/code-maze.com/external-identity-provider-aspnet-core-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "OWASP Top 10 – Broken Authentication",
+  "desc": "Broken Authentication, the second most critical vulnerability as per OWASP Top10 list allows attackers to gain control over user accounts in a system.",
+  "link": "/explore/articles/code-maze.com/owasp-broken-authentication.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }

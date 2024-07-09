@@ -49,6 +49,12 @@ head:
 
 ---
 
+## üntil
+
+- [`@legu` / 비정규화와 JOIN 최소화](https://until.blog/@legu/%EB%B9%84%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80-join-%EC%B5%9C%EC%86%8C%ED%99%94)
+
+---
+
 ## great_tables
 
 - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)

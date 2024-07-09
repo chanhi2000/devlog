@@ -60,6 +60,17 @@ head:
 
 ---
 
+## üntil
+
+- [`@morethanmin` / next 서비스에서 동적으로 게시글 썸네일 생성하기 (Open Graph)](https://until.blog/@morethanmin/%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%8D%B8%EB%84%A4%EC%9D%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0--open-graph-)
+- [`@artemismars2` / Next.js 개발 일지 D1](https://until.blog/@artemismars2/next-js-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-d1)
+- [`@artemismars2` / NEXT 공식문서 읽기 D1](https://until.blog/@artemismars2/next-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9D%BD%EA%B8%B0-d1)
+- [`@artemismars2` / NEXT 공식문서 읽기 D2](https://until.blog/@artemismars2/next-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9D%BD%EA%B8%B0-d2)
+- [`@woongsnote` / Next.js에서 노션 데이터베이스 사용하기](https://until.blog/@woongsnote/next-js%EC%97%90%EC%84%9C-%EB%85%B8%EC%85%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`@morethanmin` / next.js 로컬 환경에서 https 개발 환경 만들기 (mkcert)](https://until.blog/@morethanmin/next-js-%EB%A1%9C%EC%BB%AC-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-https-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0--mkcert-)
+
+---
+
 ## 개발 공부 블로그
 
 - [[FE] local TLS인증서가 포함된 Next.js 커스텀 서버 구축하기](https://blog.naver.com/dlaxodud2388/223444514671)

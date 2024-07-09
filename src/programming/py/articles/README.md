@@ -280,6 +280,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What are Markov Chains? Explained With Python Code Examples",
+  "desc": "There are various mathematical tools that can be used to predict the near future based on a current state. One of the most widely used are Markov chains. Markov chains allow you to predict the uncertainty of future events under certain conditions. For this reason, it is widely used in...",
+  "link": "/explore/articles/freecodecamp.org/what-is-a-markov-chain.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -33,6 +33,18 @@ head:
 
 ---
 
+## üntil
+
+- [`@woongsnote` / Next.js에서 노션 데이터베이스 사용하기](https://until.blog/@woongsnote/next-js%EC%97%90%EC%84%9C-%EB%85%B8%EC%85%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+---
+
+## Woongsnote - Woong's technical blog
+
+- [Next.js에서 노션 데이터베이스 사용하기](https://www.woongsnote.dev/blog/how-to-use-notion-database-in-nextjs)
+
+---
+
 ## redpanya
 
 - [에버 소울 (포트폴리오용 작업물)](https://redpanya.notion.site/redpanya/2fd0625ff83d4860a72b7d3690f71b28)
