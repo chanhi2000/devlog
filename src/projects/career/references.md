@@ -228,6 +228,8 @@ tag:
 - [`@2rV` / 성장하는 제품 중심 조직의 핵심: 학습과 실험 - 빠른 학습의 중요성: 마크 저커버그가 말하는 성공적인 기업의 비결](https://brunch.co.kr/@@2rV/134)
 - [`@2weV` / 하반기, 내 커리어에 모멘텀 만들기 (Ringle)](https://brunch.co.kr/@@2weV/528)
 - [`@3L0s` / 디지털 제품 생산-유통 - 디지털 혁신-14](https://brunch.co.kr/@@3L0s/117)
+- [`@2weV` / 1~3년차, 4~8년차, +10년 차의 커리어](https://brunch.co.kr/@@2weV/529)
+- [`@2weV` / 하반기, 내 커리어에 모멘텀 만들기 (Ringle)](https://brunch.co.kr/@@2weV/528)
 
 ---
 
@@ -1301,5 +1303,10 @@ https://blog.naver.com/&logId=
 - [10 Things Every Junior Software Developer Should Know To Be Successful](https://doumer.me/10-things-every-junior-software-developers-should-know/)
 
 ---
+
+## The Missing Notes
+
+- [창의력을 높이기 위해 걸으면서 얘기하는 건 좋은 아이디어라고 생각합니다. 다만 그냥 밖에 나가서 걸으면 될 것을 굳이 저렇게까지 해야 하나 싶네요.](https://likejazz.com/post/755570131715883008)
+
 
 <TagLinks />

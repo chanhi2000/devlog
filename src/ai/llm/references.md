@@ -39,12 +39,6 @@ head:
 
 - [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 
-## <FontIcon icon="iconfont icon-velog"/>velog
-
-- [`@geoffyoon-dev` - 데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy)
-- [`@devstone` - NLP 메트릭 톺아보기](https://velog.io/@devstone/NLP-%EB%A9%94%ED%8A%B8%EB%A6%AD-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
-- [`@kwon0koang` / 오픈소스 LLM으로 RAG 에이전트 만들기 (랭체인, Ollama, Tool Calling 대체)](https://velog.io/@kwon0koang/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9C%BC%EB%A1%9C-RAG-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-
 ---
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
@@ -54,6 +48,24 @@ head:
 - [`thedeephub` / 50+ Open-Source Options for Running LLMs Locally](https://medium.com/thedeephub/50-open-source-options-for-running-llms-locally-db1ec6f5a54f)
 - [`aksh-garg` / Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 - [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
+
+<!-- END: medium.com -->
+
+---
+
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@geoffyoon-dev` - 데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy)
+- [`@devstone` - NLP 메트릭 톺아보기](https://velog.io/@devstone/NLP-%EB%A9%94%ED%8A%B8%EB%A6%AD-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [`@kwon0koang` / 오픈소스 LLM으로 RAG 에이전트 만들기 (랭체인, Ollama, Tool Calling 대체)](https://velog.io/@kwon0koang/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9C%BC%EB%A1%9C-RAG-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+<!-- END: velog.io -->
+
+---
+
+## Substack
+
+- [`aiencoder` /GraphRAG Analysis, Part 1: How Indexing Elevates Knowledge Graph Performance in RAG](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
 
 ---
 
@@ -330,7 +342,7 @@ head:
 - [From bare metal to a 70B model: infrastructure set-up and scripts](https://imbue.com/research/70b-infrastructure/)
 
 ---
- 
+
 ## Jay Alammar
 
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)

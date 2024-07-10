@@ -859,7 +859,6 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-django',
       children: [
         '/programming/py-django/README.md',
-        '/programming/py-django/query.md',
         '/programming/py-django/github.md',
         '/programming/py-django/references.md',
         '/programming/py-django/youtube.md',
@@ -1712,23 +1711,6 @@ export const sidebarEn = sidebar({
           children: [
             '/tool/safari/articles/README.md',
             asb.devtoolstips("safari"),
-          ]
-        }
-      ]
-    }, {
-      text: 'Notion',
-      collapsible: true,
-      icon: 'iconfont icon-notion',
-      children: [
-        '/tool/notion/README.md',
-        '/tool/notion/references.md',
-        '/tool/notion/youtube.md',
-        {
-          text: 'Article(s)',
-          collapsible: true,
-          icon: 'fas fa-square-share-nodes',
-          children: [
-            '/tool/notion/articles/README.md',
           ]
         }
       ]

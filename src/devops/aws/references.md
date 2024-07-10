@@ -453,4 +453,10 @@ head:
 
 ---
 
+## Cloud Security Club
+
+- [Well, it's just an AWS Account ID!](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
+
+---
+
 <TagLinks />

@@ -1020,10 +1020,24 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 
 <SiteInfo
   name="The Airbnb Tech Blog – Medium"
-  desc="Creative engineers and data scientists building a world where you can belong anywhere. http://airbnb.io."
+  desc="Creative engineers and data scientists building a world where you can belong anywhere."
   url="https://medium.com/airbnb-engineering"
   logo="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
   preview="https://cdn-images-1.medium.com/max/1200/1*MlNQKg-sieBGW5prWoe9HQ.jpeg"/>
+
+<SiteInfo
+  name="Algolia"
+  desc="Algolia - Follow our latest articles!"
+  url="https://www.algolia.com/blog/"
+  logo="https://www.algolia.com/blog/favicons/light-mode/apple-touch-icon.png"
+  preview="https://res.cloudinary.com/hilnmyskv/image/upload/v1665563915/Algolia_com_Website_assets/images/og/Algolia_OG_image.jpg"/>
+
+<SiteInfo
+  name="Jetify - Sophisticated Cloud Development"
+  desc="Jetify builds open-source tools that make development a delightful experience.  Follow our blog to learn how to power-up your cloud development"
+  url="https://www.jetify.com/blog"
+  logo="https://res-3.cloudinary.com/jetpack-io/image/upload/q_auto/v1/blog/jetpack-icon.png"
+  preview="https://res-2.cloudinary.com/jetpack-io/image/upload/q_auto/v1/blog/Social-Card---Jetify-Logo.png"/>
 
 <!-- END: Tech Blog -->
 

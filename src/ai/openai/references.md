@@ -373,6 +373,8 @@ head:
 - [GPT4o로 외국어 버전 앱 만들기 1탄 - 광고에 대한 이해](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EC%99%B8%EA%B5%AD%EC%96%B4-%EB%B2%84%EC%A0%84-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%83%84-%EA%B4%91%EA%B3%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
 - [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(2)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC2)
 - [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(1)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC1)
+- [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(2)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC2)
+- [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(3)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC3)
 
 ---
 
@@ -417,6 +419,12 @@ head:
 ## Engraved
 
 - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
+
+---
+
+## Warehouse of PKI
+
+- [\[ChatGPT\] KMIP 에 사용 되는 TTLV 포맷](https://jykim74.tistory.com/m/280)
 
 ---
 

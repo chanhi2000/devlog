@@ -54,6 +54,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build a Counter Button with React, TailwindCSS, and TypeScript",
+  "desc": "How can you keep track of the number of times a user clicks a button? How are the hearts on Instagram or the likes on Facebook counted?  In this tutorial, we will build a button that tracks the number of times a button has been clicked. Along the way...",
+  "link": "/explore/articles/freecodecamp.org/build-a-counter-button-with-react.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
+
 ---
 
 <TagLinks />

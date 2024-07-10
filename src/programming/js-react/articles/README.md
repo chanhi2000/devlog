@@ -415,6 +415,35 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Improve User Experience with Optimistic UI and SWR",
+  "desc": "Have you ever noticed how some apps feel like they can read your mind? You click a button, and before you can even blink, it's done – no loading screens, no waiting around. It's like magic, right? Well, let me tell you a little secret: that's the power of Optimistic...",
+  "link": "/explore/articles/freecodecamp.org/improve-user-experience-with-optimistic-ui-swr.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Build a Counter Button with React, TailwindCSS, and TypeScript",
+  "desc": "How can you keep track of the number of times a user clicks a button? How are the hearts on Instagram or the likes on Facebook counted?  In this tutorial, we will build a button that tracks the number of times a button has been clicked. Along the way...",
+  "link": "/explore/articles/freecodecamp.org/build-a-counter-button-with-react.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Upgrade from Node 16 and Jest 26 While Staying on React Scripts 4",
+  "desc": "Recently, I was trying to upgrade some of my open source projects. They were made using  create-react-app around 2019, and I wanted to upgrade to a newer version of NodeJS and Jest. This would let me take advantage of the security updates, bug fixes, speed improvements, and...",
+  "link": "/explore/articles/freecodecamp.org/how-to-upgrade-node-and-jest-while-on-react-scripts-v4.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 <!-- END: freecodecamp.org -->
 

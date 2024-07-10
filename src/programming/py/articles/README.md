@@ -290,6 +290,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use the Python SDK to Build Your Own Web Scraper",
+  "desc": "What is Web scraping? Web scraping is a technique used to collect large amounts of data automatically using a programming script. This makes it useful for many professionals such as data analysts, market researchers, SEO specialists, business analysts, and academic researchers. What You'll Learn Here Python provides two libraries, Requests...",
+  "link": "/explore/articles/freecodecamp.org/use-python-sdk-to-build-a-web-scraper.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use Python Generators – Explained With Code Examples",
+  "desc": "Python generators are a powerful feature that allow lazy iteration through a sequence of values. They produce items one at a time and only when needed, which makes them the best choice for working with large datasets or streams of data where it would be inefficient and impractical to load...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-python-generators.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

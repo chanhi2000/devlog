@@ -213,6 +213,7 @@ head:
 - [Spring Security Oauth2 Client for Apple](https://junhyunny.github.io/spring-boot/spring-security/spring-security-oauth2-client-for-apple/)
 - [Spring Expression Language](https://junhyunny.github.io/spring/spring-expression-language/)
 - [JCP(Java Community Process)/JSRs(Java Specification Requests)](https://junhyunny.github.io/java/java-community-process-and-java-specification-requests/)
+- [Is Chrome's default SameSite policy safe against CSRF?](https://junhyunny.github.io/spring-boot/spring-security/security/is-chrome-samesite-policy-safe-against-csrf/)
 
 ### 연로그
 
@@ -283,6 +284,7 @@ head:
 - [\[내일배움캠프 46일차 TIL\] 인가 분리와 좋아요 `Transaction` 및 `builder` vs 생성자](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-46%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B8%EA%B0%80-%EB%B6%84%EB%A6%AC%EC%99%80-%EC%A2%8B%EC%95%84%EC%9A%94-Transaction-%EB%B0%8F-builder-vs-%EC%83%9D%EC%84%B1%EC%9E%90)
 - [\[내일배움캠프 56일차 TIL\] 마지막 개인과제 제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-56%EC%9D%BC%EC%B0%A8-TIL-%EB%A7%88%EC%A7%80%EB%A7%89-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C)
 - [\[내일배움캠프 57일차 TIL\] security 유효성 검사에서 403 error](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-57%EC%9D%BC%EC%B0%A8-TIL-security-%EC%9C%A0%ED%9A%A8%EC%84%B1-%EA%B2%80%EC%82%AC%EC%97%90%EC%84%9C-403-error)
+- [\[내일배움캠프 58일차 TIL\] QueryDSL](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-58%EC%9D%BC%EC%B0%A8-TIL-QueryDSL)
 
 ### Hide
 
@@ -398,6 +400,7 @@ head:
 - [6.8. 책 입력 기능 확인하기](https://ysedeveloper.tistory.com/m/entry/68-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 - [6.9. 패키지 정리하기](https://ysedeveloper.tistory.com/m/entry/69-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [7.1. 책 상세 화면 개요](https://ysedeveloper.tistory.com/m/entry/71-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%9A%94)
+- [7.2. 책 상세 화면 응답 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/72-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EC%9D%91%EB%8B%B5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ### Suhwan Jee's blog
 

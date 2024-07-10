@@ -724,6 +724,7 @@ head:
 - [FFmpeg를 사용하여 webcam을 RTSP 스트리밍 하여 OpenCV에서 확인하기](https://webnautes.tistory.com/m/2012)
 - [PyQt5 콤보박스(QComboBox) 예제](https://webnautes.tistory.com/m/2353)
 - [XGBoost에서 파이프라인 사용하여 표준화(standardization) 적용하기](https://webnautes.tistory.com/m/2352)
+- [`defaultdict` vs `dict`: 파이썬에서의 효율적인 카운팅 방법 비교](https://webnautes.tistory.com/m/2354)
 
 ---
 
@@ -1929,6 +1930,28 @@ head:
 ## Маниакальный веблог
 
 - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
+
+---
+
+## Robert Heaton
+
+- [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
+
+---
+
+## 개발자 박진 블로그
+
+- [클래스](https://jinn-blog.tistory.com/m/169)
+- [에러와 예외](https://jinn-blog.tistory.com/m/168)
+- [입력과 출력](https://jinn-blog.tistory.com/m/167)
+- [모듈](https://jinn-blog.tistory.com/m/166)
+- [자료구조](https://jinn-blog.tistory.com/m/165)
+
+---
+
+## 코딩하는 오리
+
+- [Failed building wheel for llama-cpp-python](https://cori.tistory.com/m/335)
 
 ---
 

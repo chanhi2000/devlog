@@ -52,6 +52,9 @@ tag:
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`fwsgonzo` / An Introduction to Low-Latency Scripting for Game Engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
+- [`abdulgh` / Compile-time JSON deserialization in C++](https://medium.com/@abdulgh/compile-time-json-deserialization-in-c-1e3d41a73628)
+
+<!-- END: medim.com -->
 
 ---
 
@@ -176,6 +179,9 @@ tag:
 - [`TipsFinder` 프로그램 업데이트](https://m.blog.naver.com/tipsware/223502808270)
 - [`SetWaitableTimer` 함수](https://m.blog.naver.com/tipsware/223500623894)
 - [\[Q&A\] 문자열의 길이가 이상합니다.](https://m.blog.naver.com/tipsware/223506029759)
+- [\[Q&A\] 클래스의 멤버 함수 구현부 이동하기](https://m.blog.naver.com/tipsware/223507246414)
+
+<!-- END: blog.naver.com/tipsware/ -->
 
 ---
 
@@ -251,6 +257,7 @@ tag:
 - [\[백준 31963번\] 두 배](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31963%EB%B2%88-%EB%91%90-%EB%B0%B0)
 - [\[백준 31964번\] 반품 회수](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31964%EB%B2%88-%EB%B0%98%ED%92%88-%ED%9A%8C%EC%88%98)
 - [\[백준 31965번\] 회의 장소](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31965%EB%B2%88-%ED%9A%8C%EC%9D%98-%EC%9E%A5%EC%86%8C)
+- [\[백준 31997번\] 즐거운 회의](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31997%EB%B2%88-%EC%A6%90%EA%B1%B0%EC%9A%B4-%ED%9A%8C%EC%9D%98)
 
 ---
 
@@ -339,6 +346,18 @@ tag:
 ## sin-ack's writings
 
 - [How malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
+
+---
+
+## SJ CODE
+
+- [c++ 문법 정리](https://1000sj.tistory.com/m/340)
+
+---
+
+## 코딩하는 오리
+
+- [Failed building wheel for llama-cpp-python](https://cori.tistory.com/m/335)
 
 ---
 

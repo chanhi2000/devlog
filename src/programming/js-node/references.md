@@ -1240,4 +1240,16 @@ tag:
 
 ---
 
+## alex reichert
+
+- [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
+
+---
+
+## Jetify - Sophisticated Cloud Development
+
+- [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
+
+---
+
 <TagLinks />

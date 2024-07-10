@@ -383,6 +383,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "awsViz",
+  "desc": "Awsviz.dev simplifying AWS IAM policies",
+  "link": "https://www.awsviz.dev/",
+  "logo": "https://www.awsviz.dev/logoawsviz.png",
+  "background": "rgba(0,86,179,0.2)"
+}
+```
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

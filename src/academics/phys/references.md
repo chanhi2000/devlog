@@ -56,6 +56,7 @@ head:
 - [소리의 스펙트럼 분석 2](https://javalab.org/sound_fft_2/)
 - [자석(or 지구) 주위의 자기장](https://javalab.org/magnet/)
 - [반응 시간 측정 （시각 반응과 청각 반응）](https://javalab.org/reaction_time/)
+- [생태계 시뮬레이션 v2](https://javalab.org/ecosystem2/)
 
 ---
 

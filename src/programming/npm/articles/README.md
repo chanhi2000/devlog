@@ -84,6 +84,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Upgrade from Node 16 and Jest 26 While Staying on React Scripts 4",
+  "desc": "Recently, I was trying to upgrade some of my open source projects. They were made using  create-react-app around 2019, and I wanted to upgrade to a newer version of NodeJS and Jest. This would let me take advantage of the security updates, bug fixes, speed improvements, and...",
+  "link": "/explore/articles/freecodecamp.org/how-to-upgrade-node-and-jest-while-on-react-scripts-v4.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

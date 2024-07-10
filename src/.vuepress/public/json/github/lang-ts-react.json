@@ -154,5 +154,10 @@
     "desc": "",
     "officialSite": "https://www.locatorjs.com",
     "topics": []
+  }, {
+    "repo": "ironman5366/ai-murder-mystery-hackathon",
+    "desc": "The game is afoot",
+    "officialSite": "https://ai-murder-mystery.onrender.com",
+    "topics": []
   }
 ]

@@ -179,6 +179,7 @@ head:
 - [`google-design` / Designing Adaptive Icons](https://medium.com/google-design/designing-adaptive-icons-515af294c783)
 - [`gitconnected` / System Design Interview: Design WhatsApp](https://levelup.gitconnected.com/system-design-interview-design-whatsapp-779fa385ef08)
 - [`javarevisited` / 40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024](https://medium.com/javarevisited/40-must-read-engineering-blogs-to-learn-system-design-and-software-architecture-in-2024-aaa7c4f71ee6)
+- [`giljae` / DevOps로의 전환을 앞두고](https://giljae.medium.com/devops%EB%A1%9C%EC%9D%98-%EC%A0%84%ED%99%98%EC%9D%84-%EC%95%9E%EB%91%90%EA%B3%A0-053ff27b3bc2?source=rss-bb87e9e8047d------2)
 
 ---
 
@@ -227,6 +228,7 @@ head:
 - [`@2fEJ` / 사용자 경험 개선을 통한 가치 창출 - UX 디자인 강의 #22](https://brunch.co.kr/@@2fEJ/1378)
 - [`@2fEJ` / 프로덕트 매니저 관점에서 바라본 이해력 테스트의 중요성 - UX 리서치 강연 #22](https://brunch.co.kr/@@2fEJ/1384)
 - [`@2fEJ` / 형광펜을 활용한 고객 피드백 수집 방법론 - UX 리서치 강연 #24](https://brunch.co.kr/@@2fEJ/1395)
+- [`@2fEJ` / 사용자 인터뷰에서 말과 행동의 차이 이해하기 - UX 리서치 강연 #25](https://brunch.co.kr/@@2fEJ/1396)
 
 ---
 
@@ -630,6 +632,18 @@ head:
 ## 복세편살
 
 - [시스템 설계 스터디 진행기](https://americanopeople.tistory.com/m/456)
+
+---
+
+## Garrett D Bates
+
+- [Why use onion layering?](https://garrettdbates.com/2024/07/07/why-use-onion-layering.html)
+
+---
+
+## Life Log
+
+- [모바일 디자인 시 고려할 부분들](https://ravenkim97.tistory.com/m/474)
 
 ---
 

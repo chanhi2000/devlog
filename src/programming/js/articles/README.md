@@ -249,6 +249,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Callback Functions in JavaScript",
+  "desc": "Nowadays, the interaction between web applications relies on HTTP. For instance, let's say you have an online shop application and you want to create a new product. You have to fill in all the necessary information and probably click on a button that says 'Create'. This action will send...",
+  "link": "/explore/articles/freecodecamp.org/how-to-send-http-requests-using-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

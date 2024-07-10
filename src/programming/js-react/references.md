@@ -359,6 +359,9 @@ head:
 - [`myrealtrip-product` / Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
 - [`junghan92` / 오늘 리액트 컴파일러를 사용해 봤는데, 어땠을 것 같나요? 😉](https://junghan92.medium.com/%EC%98%A4%EB%8A%98-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B4%A4%EB%8A%94%EB%8D%B0-%EC%96%B4%EB%95%A0%EC%9D%84-%EA%B2%83-%EA%B0%99%EB%82%98%EC%9A%94-ece57f076b02)
 - [`nytimes` / Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
+- [`santhoshsundar` / Using the 5S principle in coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
+
+<!-- END: medium.com -->
 
 ---
 

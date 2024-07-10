@@ -89,5 +89,12 @@ head:
 
 - [데이터베이스 이론: CAP와 BASE](https://jusths.tistory.com/m/413)
 
+---
+
+## turbopuffer
+
+- [turbopuffer: fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
+
+---
 
 <TagLinks />

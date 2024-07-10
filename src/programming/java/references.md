@@ -502,6 +502,7 @@ tag:
 - [\# 15_Parameter_파최몇_파라미터_최대_몇개까지_가능](https://hj0216.tistory.com/m/921)
 - [# 16_NULL_널_생각해](https://hj0216.tistory.com/m/922)
 - [# 17_Exception_예외입니다_전_특별하니까요](https://hj0216.tistory.com/m/924)
+- [# 18_Transaction_거래를_시작하지](https://hj0216.tistory.com/m/927)
 
 ### Lifealong
 
@@ -547,6 +548,9 @@ tag:
 
 - [테스트 작성 부담감 극복하기 - POJO와 통합 테스트 중심의 전략](https://shout-to-my-mae.tistory.com/m/435)
 
+### Clean Coder Blog
+
+[The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 
 ---
 

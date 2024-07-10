@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Youtube
 description: Data Science > Youtube
-icon: iconfont icon-share
+icon: fa-brands fa-youtube
 category:
   - Data Science 
   - Youtube

@@ -42,7 +42,7 @@ head:
 ```component VPCard
 {
   "title": "Learn TypeScript with Interactive Lessons",
-  desc="TypeScript can make your life easier as a programmer and make your code less error-prone. We just posted a TypeScript course for beginners on the freeCodeCamp.org YouTube channel. Bob Ziroll from Scrimba teaches this course. Interactive code is avail...",
+  "desc": "TypeScript can make your life easier as a programmer and make your code less error-prone. We just posted a TypeScript course for beginners on the freeCodeCamp.org YouTube channel. Bob Ziroll from Scrimba teaches this course. Interactive code is avail...",
   "link": "/explore/articles/freecodecamp.org/learn-typescript-with-interactive-lessons.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"

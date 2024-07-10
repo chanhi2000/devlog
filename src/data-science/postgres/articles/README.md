@@ -78,6 +78,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Full Stack Development with Next.js, Clerk, and Neon Postgres",
+  "desc": "Full stack development is constantly evolving, with new developer tools and products being introduced that allow us to build secure and reliable applications more efficiently. In this tutorial, I’ll walk you through how to build highly performant web applications with Neon – a serverless PostgreSQL database designed for the...",
+  "link": "/explore/articles/freecodecamp.org/nextjs-clerk-neon-fullstack-development.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

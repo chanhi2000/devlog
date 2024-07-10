@@ -3138,5 +3138,11 @@
     "desc": "A typescript package to execute javascript code in a webassembly quickjs sandbox",
     "officialSite": "https://sebastianwessel.github.io/quickjs/",
     "topics": ["example", "javascript", "module", "package", "quickjs", "quickjs-emscripten", "quickjs-runtime", "sandbox", "sandbox-environment", "typescript", "wasm", "webassembly", "worker", "worker-pool", "worker-threads"]
+  }, {
+    "repo": "palico-ai/palico-ai",
+    "desc": "Quickly Iterate on your LLM Application",
+    "officialSite": "https://docs.palico.ai/",
+    "topics": []
   }
+  
 ]

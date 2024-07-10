@@ -35,7 +35,6 @@ head:
 - [GitHub Copilot Chat in GitHub Mobile is now generally available](https://github.blog/2024-05-07-github-copilot-chat-in-github-mobile/)
 - [Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners](https://github.blog/2024-05-21-introducing-github-copilot-extensions/)
 
-
 ---
 
 ## ar5iv – Articles from arXiv.org as responsive HTML5 web documents
@@ -47,6 +46,12 @@ head:
 ## DAILY LOG
 
 - [\[Copilot\] 깃허브 코파일럿은 어떻게 작동하는가?](https://jiyeonseo.github.io/2024/05/31/how-github-copilot-works/)
+
+---
+
+## 쉽게 살 수 있을까 ?
+
+- [GitHub Copilot 소송..](http://hl1itj.tistory.com/m/263)
 
 ---
 

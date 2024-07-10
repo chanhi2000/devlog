@@ -91,6 +91,7 @@ tag:
 - [`@jwlee010523` / `Swift-guard`](https://velog.io/@jwlee010523/swift-guard)
 - [`@jwlee010523` / Swift - `fallthrough`와 `defer`](https://velog.io/@jwlee010523/swift-fallthrough-defer)
 - [`@jwlee010523` / SwiftUI - `ObservableObject`](https://velog.io/@jwlee010523/SwiftUI-ObservableObject)
+- [`@jwlee010523` / SwiftUI - `Published`와 `ObservedObject`](https://velog.io/@jwlee010523/SwiftUI-PublishedObservedObject)
 
 ---
 

@@ -139,4 +139,12 @@ tag:
 
 ---
 
+## 강준현
+
+- [Is Chrome's default SameSite policy safe against CSRF?](https://junhyunny.github.io/spring-boot/spring-security/security/is-chrome-samesite-policy-safe-against-csrf/)
+- [How to retry HTTP request in Chrome](https://junhyunny.github.io/information/how-to-retry-http-request-in-chrome/)
+
+---
+
+
 <TagLinks />

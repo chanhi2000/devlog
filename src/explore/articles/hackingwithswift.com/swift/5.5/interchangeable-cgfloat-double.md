@@ -49,7 +49,19 @@ isOriginal: false
 
 > Available from Swift 5.5
 
-<!-- TODO: 작성 -->
+[SE-0307 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0307-allow-interchangeable-use-of-double-cgfloat-types.md) introduced a small but important quality of life improvement: Swift is able to implicitly convert between `CGFloat` and `Double` in most places where it is needed.
+
+In its simplest form, this means we can add a `CGFloat` and a `Double` together to produce a new `Double`, like this:
+
+```swift
+import Foundation
+let first: CGFloat = 42
+let second: Double = 19
+let result = first + second
+print(result)
+```
+
+Swift implements this by inserting an implicit initializer as needed, and it will always prefer `Double` if it’s possible. More importantly, none of this is achieved by rewriting existing APIs: technically things like `scaleEffect()` in SwiftUI still work with `CGFloat`, but Swift quietly bridges this to `Double`.
 
 ::: details Other Changes in Swift 5.5
 

@@ -18,7 +18,7 @@ head:
   - - meta:
     - property: og:title
       content: CSharp > Article(s)
-    - property: og:description
+    - property: og:ription
       content: Article(s)
     - property: og:url
       content: https://chanhi2000.github.io/programming/lnag-csharp/articles/
@@ -1500,7 +1500,9 @@ head:
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
-``````component VPCard
+```
+
+```component VPCard
 {
   "title": "C# Design Patterns – Facade",
   "desc": "In this article we are going the describe the Facade Pattern and what difference does it make in our code, as well as its implementation.",
@@ -1610,7 +1612,7 @@ head:
 }
 ```
 
-<!--END: code-maze.com -->
+<!-- END: code-maze.com -->
 
 ---
 

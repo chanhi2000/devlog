@@ -5698,5 +5698,25 @@
     "desc": "MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "lm-sys/RouteLLM",
+    "desc": "A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "microsoft/pyright",
+    "desc": "Static Type Checker for Python",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "darrenburns/posting",
+    "desc": "The modern API client that lives in your terminal.",
+    "officialSite": "",
+    "topics": ["automation", "cli", "developer-tools", "http", "python", "rest", "rest-api", "rest-client", "ssh", "terminal", "textual", "tui"]
+  }, {
+    "repo": "flet-dev/flet",
+    "desc": "Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.",
+    "officialSite": "https://flet.dev",
+    "topics": ["android", "flutter", "ios", "python", "server-driven-ui", "web"]
   }
 ]

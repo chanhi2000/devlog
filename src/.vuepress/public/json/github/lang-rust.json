@@ -1604,5 +1604,10 @@
     "desc": "Maelstrom is a fast Rust test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.",
     "officialSite": "https://maelstrom-software.com/",
     "topics": ["cargo-subcommand", "containers", "distributed-systems", "pytest", "python", "rust", "testing"]
+  }, {
+    "repo": "kitao/pyxel",
+    "desc": "A retro game engine for Python",
+    "officialSite": "",
+    "topics": ["8bit", "fantasy-console", "game", "game-development", "game-engine", "gamedev", "gameengine", "pico-8", "python", "python3", "pyxel", "rust", "tic-80"]
   }
 ]

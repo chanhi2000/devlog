@@ -39,6 +39,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-change-background-color-with-javascript", // 2024-06-28
       "javascript-gamedev-with-kaboomjs", // 2024-06-28
       "how-to-use-callback-functions-in-javascript", // 2024-07-03
+      "how-to-send-http-requests-using-javascript", // 2024-07-10
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -85,6 +86,9 @@ export const template: SidebarInfoTemplate = {
       "react-19-actions-simpliy-form-submission-and-loading-states", // 2024-07-02
       "how-data-flows-in-redux", // 2024-07-03
       "build-a-meditation-app-with-react-native-expo-router", // 2024-07-03
+      "improve-user-experience-with-optimistic-ui-swr", // 2024-07-09
+      "build-a-counter-button-with-react", // 2024-07-10
+      "how-to-upgrade-node-and-jest-while-on-react-scripts-v4", // 2024-07-10
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -92,6 +96,7 @@ export const template: SidebarInfoTemplate = {
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
       "mastering-shadcn-ui-components", // 2024-06-28
+      "nextjs-clerk-neon-fullstack-development", // 2024-07-10
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -108,11 +113,13 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
+      "build-a-counter-button-with-react", // 2024-07-10
     ]],[
     "npm", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
       "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
       "when-to-use-npm-packages", // 2024-06-24
+      "how-to-upgrade-node-and-jest-while-on-react-scripts-v4", // 2024-07-10
     ]],[
     "py", [
       "how-to-parse-a-string-in-python", // 2023-05-04
@@ -136,6 +143,8 @@ export const template: SidebarInfoTemplate = {
       "for-else-loop-in-python", // 2024-06-19
       "pyspark-for-beginners", // 2024-06-26
       "what-is-a-markov-chain", // 2024-07-08
+      "use-python-sdk-to-build-a-web-scraper", // 2024-07-10
+      "how-to-use-python-generators", // 2024-07-10
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -250,6 +259,7 @@ export const template: SidebarInfoTemplate = {
       "postgresql-indexing-strategies", // 2023-05-12
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
       "how-to-create-database-migrations-in-go", // 2024-06-26
+      "nextjs-clerk-neon-fullstack-development", // 2024-07-10
     ]],[
     "mongodb", [
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
@@ -439,6 +449,13 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-pandoc", // 2024-07-09
       "learn-typescript-with-interactive-lessons", // 2024-07-09
       "prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification", // 2024-07-09
+      "improve-user-experience-with-optimistic-ui-swr", // 2024-07-09
+      "use-python-sdk-to-build-a-web-scraper", // 2024-07-10
+      "build-a-counter-button-with-react", // 2024-07-10
+      "nextjs-clerk-neon-fullstack-development", // 2024-07-10
+      "how-to-send-http-requests-using-javascript", // 2024-07-10
+      "how-to-use-python-generators", // 2024-07-10
+      "how-to-upgrade-node-and-jest-while-on-react-scripts-v4", // 2024-07-10
     ]],
   ]),
 }

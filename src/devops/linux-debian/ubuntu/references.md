@@ -85,4 +85,17 @@ tag:
 
 ---
 
+## Daekyue
+
+- [ubuntu 2](https://daekyue.tistory.com/m/28)
+- [ubuntu 설치 오류](https://daekyue.tistory.com/m/27)
+
+---
+
+## 코딩하는 오리
+
+- [Failed building wheel for llama-cpp-python](https://cori.tistory.com/m/335)
+
+---
+
 <TagLinks />

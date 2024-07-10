@@ -1654,5 +1654,15 @@
     "desc": "Optimism is Ethereum, scaled.",
     "officialSite": "https://optimism.io",
     "topics": ["ethereum", "l2-scaling", "optimism", "ovm", "rollup"]
+  }, {
+    "repo": "helm/helm",
+    "desc": "The Kubernetes Package Manager",
+    "officialSite": "https://helm.sh",
+    "topics": ["chart", "charts", "cncf", "helm", "kubernetes"]
+  }, {
+    "repo": "FiloSottile/mkcert",
+    "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "officialSite": "https://mkcert.dev",
+    "topics": ["certificates", "chrome", "firefox", "https", "ios", "linux", "local-development", "localhost", "macos", "root-ca", "tls", "windows"]
   }
 ]
