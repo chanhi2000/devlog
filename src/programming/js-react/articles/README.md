@@ -445,6 +445,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What is the tRPC Library? Explained with a Demo Project",
+  "desc": "For a while now, I've been noticing a technology named tRPC that's cited in many modern tech stacks, including T3. But I didn't know what it was or why it had become so popular. So I began researching and learning about it. I didn't know what it...",
+  "link": "/explore/articles/freecodecamp.org/what-is-trpc.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

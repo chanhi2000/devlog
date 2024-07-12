@@ -47,4 +47,10 @@ head:
 
 ---
 
+## BRIAN DEMERS
+
+- [APACHE MAVEN 102: BEST PRACTICES](https://blog.bdemers.io/presentations/2024/jcon-maven-102/)
+
+---
+
 <TagLinks />

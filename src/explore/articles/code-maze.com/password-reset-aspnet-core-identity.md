@@ -4,7 +4,7 @@ title: Password Reset with ASP.NET Core Identity
 description: Article(s) > Password Reset with ASP.NET Core Identity
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: Password Reset with ASP.NET Core Identity
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/password-reset-aspnet-core-identity.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2024-06-10
 isOriginal: false
 cover: /images/content/code-maze.com/password-reset-aspnet-core-identity/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/password-reset-aspnet-core-identity/banner.
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

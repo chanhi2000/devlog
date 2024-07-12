@@ -178,7 +178,7 @@ head:
 - [`thepythoncodingstack` / The Magician's Sleight of Hand](https://www.thepythoncodingstack.com/p/the-magicians-sleight-of-hand-python)
 - [`aljamal` / Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 - [`bitecode` / Light speed with Python and JS](https://www.bitecode.dev/p/light-speed-with-python-and-js)
-- [`johnloewen` / High Impact Python Streamlit: Beautiful Interactive Maps and Charts](https://johnloewen.substack.com/p/high-impact-python-streamlit-beautiful)
+- [`johnloewen` / High Impact Python Samlit: Beautiful Interactive Maps and Charts](https://johnloewen.substack.com/p/high-impact-python-streamlit-beautiful)
 - [`johnloewen` / Simple Interactive Python Streamlit Maps That Will Make You Shout](https://johnloewen.substack.com/p/simple-interactive-python-streamlit)
 - [`bitecode` / Python as a configuration language](https://www.bitecode.dev/p/python-as-a-configuration-language)
 - [`codingconfessions` / How Many Lines of C it Takes to Execute a + b in Python?](https://blog.codingconfessions.com/p/cpython-dynamic-dispatch-internals)
@@ -188,6 +188,9 @@ head:
 - [`codingconfessions` / How Python Compares Floats and Ints: When Equals Isn’t Really Equal](https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints)
 - [`bitecode` / Testing with Python (part 5): the different types of tests](https://www.bitecode.dev/p/testing-with-python-part-5-the-different)
 - [`codingconfessions` / CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
+- [`johnloewen` / A Beautiful and Timely Python Multi-page Streamlit Application](https://johnloewen.substack.com/p/a-beautiful-and-timely-python-multi)
+
+<!-- END: substack.com -->
 
 ---
 
@@ -874,6 +877,9 @@ head:
 - [TIL #096 – automatically push code changes during live coding](https://mathspp.com/blog/til/automatically-push-code-changes-during-live-coding)
 - [What is `*args` and how do you use it?](https://mathspp.com/blog/what-is-args-and-how-do-you-use-it?ref=sangkon.com)
 - [Python `deque` tutorial](https://mathspp.com/blog/python-deque-tutorial)
+- [Get terminal size](https://mathspp.com/blog/til/get-terminal-size)
+
+<!-- END: mathspp.com -->
 
 ---
 
@@ -1057,6 +1063,12 @@ head:
 - [String Interpolation in Python: Exploring Available Tools](https://realpython.com/python-string-interpolation/)
 - [Python News: What's New From April 2024](https://realpython.com/python-news-april-2024/)
 - [Build Your Python Project Documentation With MkDocs](https://realpython.com/python-project-documentation-with-mkdocs/)
+- [Defining Python Constants for Code Maintainability](https://realpython.com/courses/defining-constants-code-maintainability/)
+- [Python Mappings: A Comprehensive Guide](https://realpython.com/python-mappings/)
+- [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
+- [Creating Great README Files for Your Python Projects Quiz](https://realpython.com/quizzes/readme-python-project/)
+
+<!-- END: realpython.com -->
 
 ---
 
@@ -1211,6 +1223,7 @@ head:
 - [A Comprehensive Guide to Python Logging with Structlog](https://betterstack.com/community/guides/logging/structlog/)
 - [A Beginner's Guide to Unit Testing with Pytest](https://betterstack.com/community/guides/testing/pytest-guide)
 - [Logging in Python: A Comparison of the Top 6 Libraries](https://betterstack.com/community/guides/logging/best-python-logging-libraries/)
+- [A Complete Guide to Pytest Fixtures](https://betterstack.com/community/guides/testing/pytest-fixtures-guide/)
 
 ---
 
@@ -1952,6 +1965,36 @@ head:
 ## 코딩하는 오리
 
 - [Failed building wheel for llama-cpp-python](https://cori.tistory.com/m/335)
+
+---
+
+## Gauge - Solving the Microservices/Monolith Dilemma
+
+- [Parsing Python ASTs 20x Faster with Rust](https://www.gauge.sh/blog/parsing-python-asts-20x-faster-with-rust)
+
+---
+
+## Trey Hunner
+
+- [A beautiful Python monstrosity(using performance test)](https://treyhunner.com/2024/06/a-beautiful-python-monstrosity/)
+
+---
+
+## Veronica Writes
+
+- [Joining Strings in Python: A "Huh" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
+
+---
+
+## Field Notes
+
+- [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
+
+---
+
+## Muhammad | Personal Blog where I write about things I learn or discover.
+
+- [Understanding HTTP Server by implementing in Python](https://muhammadraza.me/2024/building-http-server/)
 
 ---
 

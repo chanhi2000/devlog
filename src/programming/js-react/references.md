@@ -769,6 +769,7 @@ https://o-yeon.tistory.com/227
 ## takeU
 
 - [Create React App / Vite 프록시 설정](https://takeu.tistory.com/391)
+- [\[React\] Props로 컴포넌트 내려주고 `property` 할당하기](https://takeu.tistory.com/m/392)
 
 ---
 

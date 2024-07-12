@@ -4,7 +4,7 @@ title: How to Build CRUD Operations with .NET Core – A Todo API Handbook
 description: Article(s) > How to Build CRUD Operations with .NET Core – A Todo API Handbook
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -20,7 +20,7 @@ head:
       content: How to Build CRUD Operations with .NET Core – A Todo API Handbook
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/build-crud-operations-with-dotnet-core-handbook.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2024-05-24
 isOriginal: false
 cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/Attractive.png
@@ -30,9 +30,9 @@ cover: https://freecodecamp.org/news/content/images/size/w2000/2024/05/Attractiv
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

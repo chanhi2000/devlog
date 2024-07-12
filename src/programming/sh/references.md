@@ -391,4 +391,11 @@ tag:
 
 ---
 
+
+## matttproud.com (blog)
+
+- [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
+
+---
+
 <TagLinks />

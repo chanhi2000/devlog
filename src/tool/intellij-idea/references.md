@@ -110,4 +110,10 @@ head:
 
 ---
 
+## flounder.dev
+
+- [`Debugger.godMode()`](https://flounder.dev/posts/debugger-god-mode/)
+
+---
+
 <TagLinks />

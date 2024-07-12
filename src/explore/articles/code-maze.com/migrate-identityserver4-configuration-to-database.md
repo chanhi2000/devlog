@@ -4,7 +4,7 @@ title: How to Migrate the IdentityServer4 Configuration to the Database with Ent
 description: Article(s) > How to Migrate the IdentityServer4 Configuration to the Database with EntityFramework Core
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: How to Migrate the IdentityServer4 Configuration to the Database with EntityFramework Core
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/migrate-identityserver4-configuration-to-database.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2022-01-11
 isOriginal: false
 cover: /images/content/code-maze.com/migrate-identityserver4-configuration-to-database/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/migrate-identityserver4-configuration-to-da
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

@@ -1124,6 +1124,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://pikimov.com/favicon.png"
   preview="https://pikimov.com/pikimov-cover.png"/>
 
+<SiteInfo
+  name="Convert SVG to PNG - SVG Viewer"
+  desc="The ultimate SVG tool"
+  url="https://www.svgviewer.dev/"
+  logo="https://www.svgviewer.dev/svg-to-png"
+  preview="https://www.svgviewer.dev/images/logo.svg"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps

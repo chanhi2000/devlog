@@ -33,7 +33,7 @@ tag:
 - [<FontIcon icon="fa-brands fa-css3-alt"/>CSS > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/css/youtube.md)
 - [<FontIcon icon="fa-brands fa-rust"/>Rust > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/rust/youtube.md)
 - [<FontIcon icon="iconfont icon-lua"/>Lua > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/lua/youtube.md)
-- [<FontIcon icon="iconfont icon-csharp"/>CSharp > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/csharp/youtube.md)
+- [<FontIcon icon="iconfont icon-csharp"/>CSharp > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/cs/youtube.md)
 - [<FontIcon icon="fa-brands fa-golang"/>Go > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/go/youtube.md)
 - [<FontIcon icon="iconfont icon-dart"/>Dart > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/dart/youtube.md)
 - [<FontIcon icon="fa-brands fa-php"/>PHP > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/php/youtube.md)

@@ -4,7 +4,7 @@ title: How to Use Object-Oriented Programming in C# – Explained With Examples
 description: Article(s) > How to Use Object-Oriented Programming in C# – Explained With Examples
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -19,7 +19,7 @@ head:
       content: How to Use Object-Oriented Programming in C# – Explained With Examples
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-use-oop-in-c-sharp.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2024-05-01
 isOriginal: false
 cover: https://freecodecamp.org/news/content/images/size/w1000/2024/04/Attractive-1.png
@@ -29,9 +29,9 @@ cover: https://freecodecamp.org/news/content/images/size/w1000/2024/04/Attractiv
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

@@ -114,4 +114,10 @@ head:
 
 ---
 
+## IBM
+
+- [IBM Open Enterprise SDK for Apache Kafka - Easily extend your COBOL or C/C++ applications on z/OS to take advantage of Kafka event processing](https://www.ibm.com/products/open-enterprise-sdk-kafka-apache)
+
+---
+
 <TagLinks />

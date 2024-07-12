@@ -4,7 +4,7 @@ title: C# Intermediate – Abstract Classes
 description: Article(s) > C# Intermediate – Abstract Classes
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: C# Intermediate – Abstract Classes
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/csharp-abstract-classes.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2020-08-27
 isOriginal: false
 cover: /images/content/code-maze.com/csharp-abstract-classes/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/csharp-abstract-classes/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

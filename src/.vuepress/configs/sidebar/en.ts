@@ -1022,23 +1022,41 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
-      text: 'CSharp',
+      text: 'C#',
       collapsible: true,
       icon: 'iconfont icon-csharp',
       children: [
-        '/programming/csharp/README.md',
-        '/programming/csharp/references.md',
-        '/programming/csharp/github.md',
-        '/programming/csharp/youtube.md',
+        '/programming/cs/README.md',
+        '/programming/cs/references.md',
+        '/programming/cs/github.md',
+        '/programming/cs/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/programming/csharp/articles/README.md',
-            asb.freecodecamp("csharp"), 
-            asb.johnnyreilly("csharp"),
-            asb.codemaze("csharp"),
+            '/programming/cs/articles/README.md',
+            asb.freecodecamp("cs"), 
+            asb.johnnyreilly("cs"),
+            asb.codemaze("cs"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Blazor',
+      collapsible: true,
+      icon: 'iconfont icon-blazor',
+      children: [
+        '/programming/cs-blazor/README.md',
+        '/programming/cs-blazor/references.md',
+        '/programming/cs-blazor/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/cs-blazor/articles/README.md',
+            asb.codemaze("cs-blazor"),
           ]
         }
       ]

@@ -549,5 +549,10 @@
     "desc": "Replicating D3 Charts with Swift Charts",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "devin-liu/glanceables",
+    "desc": "Glanceables is a handy macOS desktop app that turns parts of websites into easy-to-view widgets. This app makes it simpler to keep tabs on the important stuff from websites without having to dig around too much. Perfect for quickly checking things like travel times!",
+    "officialSite": "",
+    "topics": []
   }
 ]

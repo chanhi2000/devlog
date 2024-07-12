@@ -259,6 +259,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn Asynchronous JavaScript",
+  "desc": "Asynchronous programming is a critical skill in modern JavaScript development, enabling developers to create more efficient and responsive applications. Whether you're a seasoned developer looking to brush up on your skills or a beginner eager to lea...",
+  "link": "/explore/articles/freecodecamp.org/learn-asynchronous-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

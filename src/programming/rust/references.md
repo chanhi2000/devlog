@@ -368,6 +368,12 @@ tag:
 
 ---
 
+## Gauge - Solving the Microservices/Monolith Dilemma
+
+- [Parsing Python ASTs 20x Faster with Rust](https://www.gauge.sh/blog/parsing-python-asts-20x-faster-with-rust)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />

@@ -55,4 +55,10 @@ head:
 
 ---
 
+## jacking75
+
+- [GitHub Copilot 명령어](https://jacking75.github.io/tech-ai_20240711/)
+
+---
+
 <TagLinks />

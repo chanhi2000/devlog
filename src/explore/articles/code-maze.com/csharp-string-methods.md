@@ -4,7 +4,7 @@ title: Working With Strings in C# – String Methods
 description: Article(s) > Working With Strings in C# – String Methods
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: Working With Strings in C# – String Methods
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/csharp-string-methods.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2021-12-16
 isOriginal: false
 cover: /images/content/code-maze.com/csharp-string-methods/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/csharp-string-methods/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

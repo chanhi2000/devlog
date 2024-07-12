@@ -259,4 +259,10 @@ head:
 
 ---
 
+## Jeongchul Kim
+
+- [Kubernetes NFS StorageClass with MySQL](https://jeongchul.tistory.com/m/715)
+
+---
+
 <TagLinks />

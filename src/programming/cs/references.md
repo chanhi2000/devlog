@@ -1,16 +1,28 @@
 ---
 lang: ko-KR
 title: References
-description: CSharp > References
+description: C# > References
 icon: iconfont icon-share
 category:
-  - CSharp
+  - C#
   - References
 tag:
+  - cs
+  - c#
   - csharp
   - dotnet
   - dotnetcore
   - nuget
+head: 
+  - - meta:
+    - property: og:title
+      content: C# > References
+    - property: og:description
+      content: References
+    - propert: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/cs/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

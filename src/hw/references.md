@@ -317,6 +317,7 @@ head:
 
 - [Testing AMD’s Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
 - [The Snapdragon X Elite’s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
+- [Qualcomm’s Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 
 ---
 

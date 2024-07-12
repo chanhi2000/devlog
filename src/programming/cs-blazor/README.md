@@ -1,13 +1,18 @@
 ---
 lang: ko-KR
-title: CSharp
-description: CSharp
-icon: iconfont icon-csharp
+title: Blazor
+description: Blazor
+icon: iconfont icon-blazor
 category:
-  - CSharp
+  - C#
+  - Blazor
 tag:
-  - dotnet
+  - cs
+  - c#
   - csharp
+  - dotnet
+  - dotnetcore
+  - blazor
   - visual-studio
 ---
 
@@ -19,7 +24,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/csharp/" />
+<ToCLocal basePath="/programming/cs-blazor/" />
 
 ---
 

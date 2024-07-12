@@ -164,8 +164,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-lua',
       }, {
         text: 'CSharp',
-        link: '/programming/csharp/README.md',
-        icon: 'iconfont icon-csharp',
+        children: [
+          '/programming/cs/README.md',
+          '/programming/cs-blazor/README.md',
+        ]
       }, {
         text: 'Go',
         children: [

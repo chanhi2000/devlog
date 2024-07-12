@@ -5,7 +5,7 @@ export const template: SidebarInfoTemplate = {
   faviconPath: 'https://johnnyreilly.com/favicon.ico',
   linksMap: new Map([
     [
-    "csharp", [
+    "cs", [
       "using-kernel-memory-to-chunk-documents-into-azure-ai-search", // 2024.04.21
     ]],[
     "js-node", [

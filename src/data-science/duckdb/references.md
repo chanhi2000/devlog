@@ -50,4 +50,10 @@ head:
 
 ---
 
+## ParadeDB
+
+- [Putting DuckDB in Postgres to Query Iceberg](https://blog.paradedb.com/pages/iceberg_lakehouse)
+
+---
+
 <TagLinks />

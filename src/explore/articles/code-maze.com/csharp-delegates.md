@@ -4,7 +4,7 @@ title: C# Intermediate – Delegates
 description: Article(s) > C# Intermediate – Delegates
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: C# Intermediate – Delegates
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/csharp-delegates.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2021-11-07
 isOriginal: false
 cover: /images/content/code-maze.com/csharp-delegates/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/csharp-delegates/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

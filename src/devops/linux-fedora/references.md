@@ -63,4 +63,11 @@ tag:
 
 ---
 
+## Quarkslab's blog
+
+- [Digging into Linux namespaces - part 1](https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html)
+- [Digging into Linux namespaces - part 2](https://blog.quarkslab.com/digging-into-linux-namespaces-part-2.html)
+
+---
+
 <TagLinks />

@@ -241,6 +241,7 @@ head:
 - [Kubernetes, 제대로 이해하기](https://gngsn.tistory.com/m/289)
 - [Kubernetes Cluster Upgrade, 제대로 이해하기](https://gngsn.tistory.com/m/290)
 - [Kubernetes Storage, 제대로 이해하기](https://gngsn.tistory.com/m/293)
+- [Kubernetes Static Pods, 제대로 이해하기](https://gngsn.tistory.com/m/297)
 
 ---
 
@@ -372,7 +373,9 @@ head:
 ## Jeongchul Kim
 
 - [Kubernetes Control-Plane Node에 Taint 해제](https://jeongchul.tistory.com/m/712)
+- [Kubernetes NFS StorageClass with MySQL](https://jeongchul.tistory.com/m/715)
 
 ---
+
 
 <TagLinks />

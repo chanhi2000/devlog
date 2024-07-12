@@ -3143,6 +3143,10 @@
     "desc": "Quickly Iterate on your LLM Application",
     "officialSite": "https://docs.palico.ai/",
     "topics": []
+  }, {
+    "repo": "eclipse-theia/theia",
+    "desc": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "officialSite": "http://theia-ide.org",
+    "topics": ["cloud-ide", "editor", "electron", "ide", "language-server-protocol", "typescript"]
   }
-  
 ]

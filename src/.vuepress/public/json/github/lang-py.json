@@ -5718,5 +5718,10 @@
     "desc": "Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.",
     "officialSite": "https://flet.dev",
     "topics": ["android", "flutter", "ios", "python", "server-driven-ui", "web"]
+  }, {
+    "repo": "wireservice/csvkit",
+    "desc": "A suite of utilities for converting to and working with CSV, the king of tabular file formats.",
+    "officialSite": "https://csvkit.readthedocs.io",
+    "topics": []
   }
 ]

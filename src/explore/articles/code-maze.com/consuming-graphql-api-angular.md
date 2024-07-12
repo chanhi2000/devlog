@@ -6,7 +6,7 @@ icon: fa-brands fa-angular
 category: 
   - Node.js
   - Angular.js
-  - CSharp
+  - C#
   - GraphQL
   - Article(s)
 tag: 
@@ -48,9 +48,9 @@ cover: /images/content/code-maze.com/consuming-graphql-api-angular/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

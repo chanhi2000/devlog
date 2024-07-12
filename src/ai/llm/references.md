@@ -349,4 +349,10 @@ head:
 
 ---
 
+## The Missing Notes
+
+- [42dot LLM은 리더보드 용도로 파인튜닝한게 아니기 때문에 점수는 낮지만, 실제로 써보면 성능은 매우 뛰어난 걸 확인할 수 있습니다. 320장의 GPU로 약 1주일 동안](https://likejazz.com/post/755660739094724609)
+
+---
+
 <TagLinks/>

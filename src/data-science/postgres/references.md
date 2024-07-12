@@ -67,6 +67,7 @@ head:
 
 - [`yugabyte` / Comparing SQL engines by CPU instructions for simple DML](https://dev.to/yugabyte/comparing-sql-engines-by-cpu-instructions-for-dml-48a)
 
+---
 
 ## Substack
 
@@ -163,6 +164,7 @@ head:
 ## ParadeDB
 
 - [`pg_analytics`: Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
+- [Putting DuckDB in Postgres to Query Iceberg](https://blog.paradedb.com/pages/iceberg_lakehouse)
 
 ---
 

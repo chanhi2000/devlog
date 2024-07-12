@@ -654,5 +654,15 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "amakelov/mandala",
+    "desc": "A simple & elegant experiment tracking framework that integrates persistence logic & best practices directly into Python",
+    "officialSite": "",
+    "topics": ["data-science", "experiment-tracking", "incremental-computation", "machine-learning"]
+  }, {
+    "repo": "tum-pbs/pbdl-book",
+    "desc": "Welcome to the Physics-based Deep Learning Book (v0.2) ",
+    "officialSite": "https://physicsbaseddeeplearning.org/",
+    "topics": ["deep-learning", "numerical-simulations", "pde-solvers"]
   }
 ]

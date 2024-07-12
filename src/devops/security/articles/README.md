@@ -101,6 +101,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "More Secure Authentication: From Passwords to Passkeys",
+  "desc": "In the ever-evolving world of cybersecurity, authentication remains a cornerstone. Traditional methods, like passwords and social logins, are increasingly vulnerable to attacks. Enter passkeys—a revolutionary approach promising enhanced security and user convenience.  This guide will explore the current state of authentication, delve into what passkeys are, how they work...",
+  "link": "/explore/articles/freecodecamp.org/more-secure-authentication-from-passwords-to-passkeys.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -4,7 +4,7 @@ title: Using C# and DalSoft.RestClient to Consume Any REST API
 description: Article(s) > Using C# and DalSoft.RestClient to Consume Any REST API
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: Using C# and DalSoft.RestClient to Consume Any REST API
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/dalsoft-restclient-consume-any-rest-api.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2022-10-11
 isOriginal: false
 cover: /images/content/code-maze.com/dalsoft-restclient-consume-any-rest-api/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/dalsoft-restclient-consume-any-rest-api/ban
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

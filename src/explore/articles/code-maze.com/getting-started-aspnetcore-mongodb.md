@@ -4,7 +4,7 @@ title: Getting Started with ASP.NET Core and MongoDB
 description: Article(s) > Getting Started with ASP.NET Core and MongoDB
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - MongoDB
   - Article(s)
 tag: 
@@ -21,7 +21,7 @@ head:
       content: Getting Started with ASP.NET Core and MongoDB
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/getting-started-aspnetcore-mongodb.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2023-12-05
 isOriginal: false
 cover: /images/content/code-maze.com/getting-started-aspnetcore-mongodb/banner.png
@@ -31,9 +31,9 @@ cover: /images/content/code-maze.com/getting-started-aspnetcore-mongodb/banner.p
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

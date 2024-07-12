@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Article(s)
-description: CSharp > Article(s)
+description: C# > Article(s)
 icon: fas fa-square-share-nodes
 category:
-  - CSharp
+  - C#
   - DotNet
   - Article(s)
 tag: 
@@ -12,16 +12,18 @@ tag:
   - freecodecamp.org
   - johnnyreilly.com
   - code-maze.com
+  - cs
+  - c#
   - csharp
   - dotnet
 head:
   - - meta:
     - property: og:title
-      content: CSharp > Article(s)
+      content: C# > Article(s)
     - property: og:ription
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/programming/lnag-csharp/articles/
+      content: https://chanhi2000.github.io/programming/cs/articles/
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -1607,6 +1609,16 @@ head:
   "title": "IdentityServer4 Integration with ASP.NET Core",
   "desc": "In this article, we are going to learn about the IdentityServer4 Integration with ASP.NET Core project. We will learn about the flows and integration setup.",
   "link": "/explore/articles/code-maze.com/identityserver4-integration-aspnetcore.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPComponent
+{
+  "title": "Using Refresh Tokens in ASP.NET Core Authentication",
+  "desc": "Here, we are going to learn the use of refresh tokens, which can be used to seamlessly refresh our access tokens in modern web application development.",
+  "link": "/explore/articles/code-maze.com/using-refresh-tokens-in-asp-net-core-authentication.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }

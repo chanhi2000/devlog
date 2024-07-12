@@ -6,7 +6,7 @@ icon: fa-brands fa-docker
 category: 
   - DevOps
   - Docker
-  - CSharp
+  - C#
   - MySQL
   - Article(s)
 tag: 
@@ -47,9 +47,9 @@ cover: /images/content/code-maze.com/mysql-aspnetcore-docker-compose/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

@@ -9,6 +9,18 @@ category:
 tag: 
   - cpp
   - c++
+  - git
+  - github
+head: 
+  - - meta:
+    - property: og:title
+      content: C++ > Github
+    - property: og:description
+      content: Github
+    - propert: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/cpp/github.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -322,5 +322,13 @@ tag:
 
 - [전 세계 1% 리눅스 기여자가 말하는 eBPF "리눅스와 플랫폼 엔지니어링의 미래"](https://itworld.co.kr/news/342710)
 
+---
+
+## Quarkslab's blog
+
+- [Digging into Linux namespaces - part 1](https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html)
+- [Digging into Linux namespaces - part 2](https://blog.quarkslab.com/digging-into-linux-namespaces-part-2.html)
+
+---
 
 <TagLinks />

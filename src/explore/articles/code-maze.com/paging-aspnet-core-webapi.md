@@ -4,7 +4,7 @@ title: Paging in ASP.NET Core Web API
 description: Article(s) > Paging in ASP.NET Core Web API
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: Paging in ASP.NET Core Web API
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/paging-aspnet-core-webapi.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2024-03-13
 isOriginal: false
 cover: /images/content/code-maze.com/paging-aspnet-core-webapi/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/paging-aspnet-core-webapi/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

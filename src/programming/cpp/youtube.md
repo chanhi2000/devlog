@@ -9,6 +9,17 @@ category:
 tag: 
   - cpp
   - c++
+  - youtube
+head: 
+  - - meta:
+    - property: og:title
+      content: C++ > Youtube
+    - property: og:description
+      content: Youtube
+    - propert: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/cpp/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

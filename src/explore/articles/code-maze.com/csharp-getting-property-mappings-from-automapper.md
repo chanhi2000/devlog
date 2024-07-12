@@ -4,7 +4,7 @@ title: Represent the Relationship of Properties Using Property Mappings From Aut
 description: Article(s) > Represent the Relationship of Properties Using Property Mappings From AutoMapper
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: Represent the Relationship of Properties Using Property Mappings From AutoMapper
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2024-04-21
 isOriginal: false
 cover: /images/content/code-maze.com/csharp-getting-property-mappings-from-automapper/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/csharp-getting-property-mappings-from-autom
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

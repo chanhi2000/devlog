@@ -4,7 +4,7 @@ title: OWASP Top 10 – Broken Authentication
 description: Article(s) > OWASP Top 10 – Broken Authentication
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Security
   - Article(s)
 tag: 
@@ -20,7 +20,7 @@ head:
       content: OWASP Top 10 – Broken Authentication
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/owasp-broken-authentication.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2022-01-11
 isOriginal: false
 cover: /images/content/code-maze.com/owasp-broken-authentication/banner.png
@@ -30,9 +30,9 @@ cover: /images/content/code-maze.com/owasp-broken-authentication/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

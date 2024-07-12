@@ -5,7 +5,7 @@ export const template: SidebarInfoTemplate = {
   faviconPath: "/images/content/code-maze.com/favicon.png",
   linksMap: new Map([
     [
-    "csharp", [
+    "cs", [
       "what-is-continuous-integration", // 2021-10-09
       "top-8-continuous-integration-tools", // 2023-06-15
       "different-ways-consume-restful-api-csharp", // 2024-06-06
@@ -156,7 +156,18 @@ export const template: SidebarInfoTemplate = {
       "deploy-aspnetcore-webapi-kubernetes-cluster-azure", // 2024-01-31
       "identityserver4-ui-webapi-basic-security", // 2024-01-31
       "identityserver4-integration-aspnetcore", // 2022-01-11
+      "using-refresh-tokens-in-asp-net-core-authentication", // 2024-04-04
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
+    ]],[
+    "cs-blazor", [
+      "blazor-webassembly-introduction", // 2022-03-22
+      "blazor-components", // 2022-06-15
+      "blazor-webassembly-pagination", // 2024-01-31
+      "blazor-webassembly-searching", // 2024-01-31
+      "blazor-webassembly-sorting", // 2024-01-31
+      "blazor-webassembly-forms-form-validation", // 2022-05-22
+      "blazor-webassembly-file-upload", // 2024-01-31
+      "blazor-webassembly-put-delete-calling-javascript-functions", // 2021-12-29
     ]],[
     "js-angular", [
       "net-core-web-development-part7", // 2022-04-20
@@ -388,6 +399,15 @@ export const template: SidebarInfoTemplate = {
       "deploy-aspnetcore-webapi-kubernetes-cluster-azure", // 2024-01-31
       "identityserver4-ui-webapi-basic-security", // 2024-01-31
       "identityserver4-integration-aspnetcore", // 2022-01-11
+      "blazor-webassembly-introduction", // 2022-03-22
+      "blazor-components", // 2022-06-15
+      "using-refresh-tokens-in-asp-net-core-authentication", // 2024-04-04
+      "blazor-webassembly-pagination", // 2024-01-31
+      "blazor-webassembly-searching", // 2024-01-31
+      "blazor-webassembly-sorting", // 2024-01-31
+      "blazor-webassembly-forms-form-validation", // 2022-05-22
+      "blazor-webassembly-file-upload", // 2024-01-31
+      "blazor-webassembly-put-delete-calling-javascript-functions", // 2021-12-29
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])

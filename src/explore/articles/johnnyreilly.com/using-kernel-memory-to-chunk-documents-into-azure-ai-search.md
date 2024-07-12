@@ -4,7 +4,7 @@ title: Using Kernel Memory to Chunk Documents into Azure AI Search
 description: Article(s) > Using Kernel Memory to Chunk Documents into Azure AI Search
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - OpenAI
   - ChatGPT
   - Azure
@@ -25,7 +25,7 @@ head:
       content: Using Kernel Memory to Chunk Documents into Azure AI Search
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/johnnyreilly.com/using-kernel-memory-to-chunk-documents-into-azure-ai-search.html  
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2024-04-21
 isOriginal: false
 cover: https://res.cloudinary.com/priou/image/fetch/f_auto,q_auto,w_auto,dpr_auto/https://johnnyreilly.com/assets/images/title-image-337c58e5e55f92f59a1d1db49366ec04.png
@@ -35,9 +35,9 @@ cover: https://res.cloudinary.com/priou/image/fetch/f_auto,q_auto,w_auto,dpr_aut
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

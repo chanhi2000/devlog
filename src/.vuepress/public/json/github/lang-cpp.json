@@ -1483,5 +1483,10 @@
     "desc": "privkey hunt for crypto currencies that use secp256k1  elliptic curve",
     "officialSite": "",
     "topics": ["bitcoin", "bsgs", "crypto-currencies", "cryptocurrency", "privatekeys", "publickeys", "puzzle", "secp256k1"]
+  }, {
+    "repo": "swiftlang/swift",
+    "desc": "The Swift Programming Language",
+    "officialSite": "https://swift.org",
+    "topics": []
   }
 ]

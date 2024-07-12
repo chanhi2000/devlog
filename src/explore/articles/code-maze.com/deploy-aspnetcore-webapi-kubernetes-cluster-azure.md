@@ -6,7 +6,7 @@ icon: iconfont icon-k8s
 category: 
   - DevOps
   - Kubernetes
-  - CSharp
+  - C#
   - Github
   - Docker
   - Mircorspft
@@ -81,9 +81,9 @@ cover: /images/content/code-maze.com/deploy-aspnetcore-webapi-kubernetes-cluster
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

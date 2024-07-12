@@ -459,6 +459,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "개발자가 문제 해결 과정에서 겪는 어려움 3가지 | 요즘IT",
+  "desc": "개발자가 문제 해결 과정에서 겪는 어려움 3가지",
+  "link": "/explore/articles/yozm.wishket.com/2670.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

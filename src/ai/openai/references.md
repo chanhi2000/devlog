@@ -428,4 +428,9 @@ head:
 
 ---
 
+## 드프 DrawingProcess
+
+- [\[생각 정리\] ChatGPT 유료 사용 (ChatGPT Plus 구독)이 필요한 8가지 이유 + 저렴하게 이용하는 방법(feat. OTT 공유 플렛폼: GoingBus)](https://csj000714.tistory.com/m/1149)
+
+
 <TagLinks />

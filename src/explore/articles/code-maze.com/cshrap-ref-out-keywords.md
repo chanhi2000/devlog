@@ -4,7 +4,7 @@ title: Difference Between Ref and Out keywords in C#
 description: Article(s) > Difference Between Ref and Out keywords in C#
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: Difference Between Ref and Out keywords in C#
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/cshrap-ref-out-keywords.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2022-11-26
 isOriginal: false
 cover: /images/content/code-maze.com/cshrap-ref-out-keywords/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/cshrap-ref-out-keywords/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

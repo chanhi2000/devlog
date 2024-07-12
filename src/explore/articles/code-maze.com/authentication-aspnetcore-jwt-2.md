@@ -4,7 +4,7 @@ title: Angular JWT Authentication with ASP.NET Core Web API
 description: Article(s) > Angular JWT Authentication with ASP.NET Core Web API
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -38,9 +38,9 @@ cover: /images/content/code-maze.com/authentication-aspnetcore-jwt-2/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

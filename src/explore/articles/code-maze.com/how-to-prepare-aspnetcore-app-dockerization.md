@@ -4,7 +4,7 @@ title: How to Prepare an ASP.NET Core Application for Dockerization
 description: Article(s) > How to Prepare an ASP.NET Core Application for Dockerization
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -19,7 +19,7 @@ head:
       content: How to Prepare an ASP.NET Core Application for Dockerization
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/how-to-prepare-aspnetcore-app-dockerization.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2020-09-02
 isOriginal: false
 cover: /images/content/code-maze.com/how-to-prepare-aspnetcore-app-dockerization/banner.png
@@ -29,9 +29,9 @@ cover: /images/content/code-maze.com/how-to-prepare-aspnetcore-app-dockerization
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

@@ -31,6 +31,13 @@ tag:
 }
 ```
 
+<SiteInfo
+  name="Getting Started"
+  desc="Magical SDK generation from an OpenAPI definition 🪄 Installation Usage Authentication Parameters and Payloads Making requests Server configurations How does it work? FAQ api is a library that facilitates creating an SDK from an OpenAPI definition. You can use its codegen offering to create an opini..."
+  url="https://api.readme.dev/docs/getting-started"
+  logo="https://files.readme.io/fb78e00-small-owlbert-rocket.png"
+  preview="https://raw.githubusercontent.com/readmeio/api/main/docs/images/logo.svg"/>
+
 ---
 
 ## <FontIcon icon="fa-brands fa-node"/>Node.js

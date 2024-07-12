@@ -4,7 +4,7 @@ title: Handling PUT Requests with Angular and ASP.NET Core Web API
 description: Article(s) > Handling PUT Requests with Angular and ASP.NET Core Web API
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Node.js
   - Angular.js
   - Article(s)
@@ -27,7 +27,7 @@ head:
       content: Handling PUT Requests with Angular and ASP.NET Core Web API
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/net-core-web-development-part14.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2024-01-31
 isOriginal: false
 cover: /images/content/code-maze.com/net-core-web-development-part14/banner.png
@@ -37,9 +37,9 @@ cover: /images/content/code-maze.com/net-core-web-development-part14/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

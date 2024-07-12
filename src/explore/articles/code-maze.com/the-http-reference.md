@@ -4,7 +4,7 @@ title: The HTTP Reference
 description: Article(s) > The HTTP Reference
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: The HTTP Reference
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/the-http-reference.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2020-09-04
 isOriginal: false
 cover: /images/content/code-maze.com/the-http-reference/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/the-http-reference/banner.png
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

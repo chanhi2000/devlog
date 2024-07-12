@@ -45,6 +45,12 @@ head:
 
 ---
 
+## Guillaume Laforge
+
+- [Gemini, Google's Large Language Model, for Java Developers](https://glaforge.dev/talks/2024/05/03/gemini-google-large-language-model-for-java-developers/)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf" />

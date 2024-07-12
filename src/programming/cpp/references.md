@@ -9,6 +9,16 @@ category:
 tag: 
   - cpp
   - c++
+head: 
+  - - meta:
+    - property: og:title
+      content: C++ > References
+    - property: og:description
+      content: References
+    - propert: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/cpp/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -180,6 +190,7 @@ tag:
 - [`SetWaitableTimer` 함수](https://m.blog.naver.com/tipsware/223500623894)
 - [\[Q&A\] 문자열의 길이가 이상합니다.](https://m.blog.naver.com/tipsware/223506029759)
 - [\[Q&A\] 클래스의 멤버 함수 구현부 이동하기](https://m.blog.naver.com/tipsware/223507246414)
+- [MFC 프로그래밍 공부](https://m.blog.naver.com/tipsware/223508063091)
 
 <!-- END: blog.naver.com/tipsware/ -->
 

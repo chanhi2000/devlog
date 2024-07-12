@@ -19,7 +19,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "gradle", [
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
-      "migrate-from-play-core-library", // 2024-06-26
+    "migrate-from-play-core-library", // 2024-06-26
     ]],[
     "js", [
       "loop-through-arrays-javascript", // 2023-10-31
@@ -40,6 +40,7 @@ export const template: SidebarInfoTemplate = {
       "javascript-gamedev-with-kaboomjs", // 2024-06-28
       "how-to-use-callback-functions-in-javascript", // 2024-07-03
       "how-to-send-http-requests-using-javascript", // 2024-07-10
+      "learn-asynchronous-javascript", // 2024-07-11
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -89,6 +90,7 @@ export const template: SidebarInfoTemplate = {
       "improve-user-experience-with-optimistic-ui-swr", // 2024-07-09
       "build-a-counter-button-with-react", // 2024-07-10
       "how-to-upgrade-node-and-jest-while-on-react-scripts-v4", // 2024-07-10
+      "what-is-trpc", // 2024-07-11
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -170,7 +172,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-database-migrations-in-go", // 2024-06-26
       "go-for-absolute-beginners", // 2024-07-01
     ]],[
-    "csharp", [
+    "cs", [
       "how-to-use-oop-in-c-sharp", // 2024-05-01
       "build-crud-operations-with-dotnet-core-handbook", // 2024-05-24
     ]],[
@@ -235,6 +237,7 @@ export const template: SidebarInfoTemplate = {
       "master-the-azure-devops-engineer-expert-certification-az-400", // 2024-06-06
       "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
       "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
+      "how-to-deploy-a-web-app", // 2024-07-11
     ]],[
     "gcp", [
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
@@ -245,6 +248,7 @@ export const template: SidebarInfoTemplate = {
     "security", [
       "how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126", // 2024-05-31
       "how-to-improve-your-digital-security-and-privacy", // 2024-06-18
+      "more-secure-authentication-from-passwords-to-passkeys", // 2024-07-11
     ]],[
     "gatling", [
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
@@ -456,6 +460,10 @@ export const template: SidebarInfoTemplate = {
       "how-to-send-http-requests-using-javascript", // 2024-07-10
       "how-to-use-python-generators", // 2024-07-10
       "how-to-upgrade-node-and-jest-while-on-react-scripts-v4", // 2024-07-10
+      "more-secure-authentication-from-passwords-to-passkeys", // 2024-07-11
+      "how-to-deploy-a-web-app", // 2024-07-11
+      "learn-asynchronous-javascript", // 2024-07-11
+      "what-is-trpc", // 2024-07-11
     ]],
   ]),
 }

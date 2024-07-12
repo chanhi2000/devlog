@@ -401,6 +401,7 @@ head:
 - [6.9. 패키지 정리하기](https://ysedeveloper.tistory.com/m/entry/69-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [7.1. 책 상세 화면 개요](https://ysedeveloper.tistory.com/m/entry/71-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%9A%94)
 - [7.2. 책 상세 화면 응답 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/72-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EC%9D%91%EB%8B%B5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [7.3. 책 엔티티 클래스 수정하기](https://ysedeveloper.tistory.com/m/entry/73-%EC%B1%85-%EC%97%94%ED%8B%B0%ED%8B%B0-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ### Suhwan Jee's blog
 
@@ -463,6 +464,14 @@ head:
 
 - [MySQL는 Order By가 없다면 정렬을 보장하지 않는다](https://hudi.blog/mysql-no-order-by-no-sorting-guarantee/)
 
+### Dimitar Makariev
+
+- [Advanced Practices in Spring Boot: Building a Modular Application with Docker, Zipkin, and 100% Code Coverage](https://www.makariev.com/blog/advanced-spring-boot-structure-clean-architecture-modulith/)
+
+### Vojtech Ruzicka's Programming Blog
+
+- [Spring AI: Getting Started](https://www.vojtechruzicka.com/spring-ai/)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -508,6 +517,10 @@ head:
 ### Seungdols Company
 
 - [kotlin - jackson 관련 이슈 (토비의 스프링 6 강의)](https://seungdols.tistory.com/m/1022)
+
+### will.log
+
+- [Spring Data Cassandra save vs insert 동작 차이](https://willseungh0.tistory.com/m/248)
 
 ---
 

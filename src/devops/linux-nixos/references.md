@@ -26,4 +26,10 @@ tag:
 
 ---
 
+## David Reed
+
+- [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix](https://ktema.org/articles/the-overengineered-resume/)
+
+---
+
 <TagLinks />

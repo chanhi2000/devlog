@@ -1609,5 +1609,15 @@
     "desc": "A retro game engine for Python",
     "officialSite": "",
     "topics": ["8bit", "fantasy-console", "game", "game-development", "game-engine", "gamedev", "gameengine", "pico-8", "python", "python3", "pyxel", "rust", "tic-80"]
+  }, {
+    "repo": "postgresml/korvus",
+    "desc": "Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.",
+    "officialSite": "https://postgresml.org",
+    "topics": ["ai", "embeddings", "javascript", "llm", "ml", "python", "rag", "search", "sql"]
+  }, {
+    "repo": "aws/aws-secretsmanager-agent",
+    "desc": "The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.",
+    "officialSite": "",
+    "topics": ["agent", "aws", "aws-secrets-manager", "caching", "secretsmanager"]
   }
 ]

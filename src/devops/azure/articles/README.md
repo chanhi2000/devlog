@@ -116,6 +116,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Deploy a Web App",
+  "desc": "Deploying a web application can seem daunting, but with the right tools and guidance, it becomes a manageable task. We are excited to share a comprehensive course on the freeCodeCamp.org YouTube channel that will explain this process. This course wil...",
+  "link": "/explore/articles/freecodecamp.org/how-to-deploy-a-web-app.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

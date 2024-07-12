@@ -540,4 +540,10 @@ head:
 
 ---
 
+## KATE.log
+
+- [Lec2. Markov Process, MRPs, MDPs, Evaluation and Control](https://he-kate1130.tistory.com/m/100)
+
+---
+
 <TagLinks />

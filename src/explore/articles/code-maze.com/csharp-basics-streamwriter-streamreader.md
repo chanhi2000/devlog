@@ -4,7 +4,7 @@ title: C# Back to Basics – Files, StreamWriter and StreamReader
 description: Article(s) > C# Back to Basics – Files, StreamWriter and StreamReader
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: C# Back to Basics – Files, StreamWriter and StreamReader
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/csharp-basics-streamwriter-streamreaders.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2020-08-27
 isOriginal: false
 cover: /images/content/code-maze.com/csharp-basics-streamwriter-streamreaders/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/csharp-basics-streamwriter-streamreaders/ba
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

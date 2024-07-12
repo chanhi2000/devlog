@@ -1,12 +1,14 @@
 ---
 lang: ko-KR
 title: Youtube
-description: CSharp > Youtube
+description: C# > Youtube
 icon: fa-brands fa-youtube
 category:
-  - CSharp
+  - C#
   - Youtube
 tag: 
+  - cs
+  - c#
   - csharp
   - dotnet
   - dotnetcore
@@ -16,6 +18,17 @@ tag:
   - blazor
   - aspdotnet
   - asp
+  - youtube
+head: 
+  - - meta:
+    - property: og:title
+      content: C# > Youtube
+    - property: og:description
+      content: Youtube
+    - propert: og:type
+      content: article
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/cs/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -4,7 +4,7 @@ title: Configuring Nonrelational Properties in EF Core
 description: Article(s) > Configuring Nonrelational Properties in EF Core
 icon: iconfont icon-csharp
 category: 
-  - CSharp
+  - C#
   - Article(s)
 tag: 
   - blog
@@ -18,7 +18,7 @@ head:
       content: Configuring Nonrelational Properties in EF Core
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/code-maze.com/configuring-nonrelational-properties.html
-prev: /programming/csharp/articles/README.md
+prev: /programming/cs/articles/README.md
 date: 2022-01-13
 isOriginal: false
 cover: /images/content/code-maze.com/configuring-nonrelational-properties/banner.png
@@ -28,9 +28,9 @@ cover: /images/content/code-maze.com/configuring-nonrelational-properties/banner
 
 ```component VPCard
 {
-  "title": "CSharp > Article(s)",
+  "title": "C# > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/csharp/articles/README.md",
+  "link": "/programming/cs/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

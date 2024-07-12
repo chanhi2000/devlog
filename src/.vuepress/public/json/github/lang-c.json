@@ -1099,5 +1099,10 @@
     "desc": "Platform independent low-level JIT compiler",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "gojue/ecapture",
+    "desc": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+    "officialSite": "https://ecapture.cc",
+    "topics": ["android", "android-https-capture", "ebpf", "ebpf-go", "ebpf-tc", "ebpf-uprobe", "golang", "https", "linux", "network-capture", "security-audit", "ssl", "ssldump", "tcpdump", "tls"]
   }
 ]

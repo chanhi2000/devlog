@@ -672,6 +672,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://rdht.vercel.app/favicon.ico"
   preview="https://rdht.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhabits-dark.e7c1c34e.png&w=1920&q=75"/>
 
+<SiteInfo
+  name="WebVM - Linux virtualization in WebAssembly"
+  desc="Server-less virtual machine, networking included, running browser-side in HTML5/WebAssembly. Code in any programming language inside this Linux terminal."
+  url="https://webvm.io/"
+  logo="https://webvm.io/tower.ico"
+  preview="https://webvm.io/assets/social.png"/>
+
 <!-- END:  Cool Project -->
 
 @tab Portfolio / Resume

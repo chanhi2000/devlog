@@ -129,6 +129,7 @@ head:
 - [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
 - [How Netflix Ensures Highly-Reliable Online Stateful Systems](https://www.infoq.com/articles/netflix-highly-reliable-stateful-systems/)
 - [The Evolution of Use Cases in Modern Software Engineering](https://www.infoq.com/podcasts/evolution-use-cases-modern-software-engineering/)
+- [Platform as a Runtime - the Next Step in Platform Engineering](https://infoq.com/articles/platform-runtime-engineering)
 
 ---
 
@@ -229,6 +230,10 @@ head:
 - [`@2fEJ` / 프로덕트 매니저 관점에서 바라본 이해력 테스트의 중요성 - UX 리서치 강연 #22](https://brunch.co.kr/@@2fEJ/1384)
 - [`@2fEJ` / 형광펜을 활용한 고객 피드백 수집 방법론 - UX 리서치 강연 #24](https://brunch.co.kr/@@2fEJ/1395)
 - [`@2fEJ` / 사용자 인터뷰에서 말과 행동의 차이 이해하기 - UX 리서치 강연 #25](https://brunch.co.kr/@@2fEJ/1396)
+- [`@2fEJ` / 프로덕트 매니저를 위한 강력한 도구: 게릴라 리서치!! - UX 리서치 강연 #26](https://brunch.co.kr/@@2fEJ/1397)
+- [`@2fEJ` / 프로덕트 매니저의 '5 Why' 기법 활용법 - UX 디자인 강의 #25](https://brunch.co.kr/@@2fEJ/1403)
+
+<!-- END: brunch.co.kr -->
 
 ---
 
@@ -246,6 +251,7 @@ head:
 - [`freelancefootprints` / Abandoned Code: The Hidden Risks of Using Unmaintained Software](https://freelancefootprints.substack.com/p/abandoned-code-the-hidden-risks-of)
 - [`lennysnewsletter` / A Three-Step Framework For Solving Problems 👌](https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving)
 - [`techworld-with-milan` / Mastering the Art of Software Architecture Documentation](https://newsletter.techworld-with-milan.com/p/documenting-software-architectures)
+- [`wasteman.codes` / Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 
 ---
 

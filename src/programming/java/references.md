@@ -197,6 +197,7 @@ tag:
 
 - [Effect cases in switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
 - [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)
+- [JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 
 ### QuestDB
 
@@ -551,6 +552,20 @@ tag:
 ### Clean Coder Blog
 
 [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
+
+### 무너지기직전
+
+- [\[백준\] 2018번: 수들의 합 5 - java](https://findsilverlining.tistory.com/m/97)
+- [\[백준\] 1546번: 평균 - java](https://findsilverlining.tistory.com/m/96)
+- [\[백준\] 11720번: 숫자의 합 - java](https://findsilverlining.tistory.com/m/95)
+
+### Event-Driven by Oskar Dudycz
+
+- [This is not your uncle's Java! Modelling with Java 22 records pattern matching in practice](https://event-driven.io/en/this_is_not_your_uncle_java/)
+
+### Nataliia Dziubenko
+
+- [I won’t let Java confuse you #4: unreachable statements](https://nataliiadziubenko.com/2024/05/09/I-wont-let-Java-confuse-you-4.html)
 
 ---
 

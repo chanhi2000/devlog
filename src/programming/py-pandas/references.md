@@ -30,6 +30,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+
+### PyCharm
+
+- [How to Move From pandas to Polars](https://blog.jetbrains.com/pycharm/2024/06/how-to-move-from-pandas-to-polars/)
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`betterprogramming` / Pandas Illustrated: The Definitive Visual Guide to Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
@@ -122,5 +130,7 @@ head:
 [Options to run pandas DataFrame.apply in parallel](https://www.wrighters.io/options-to-run-pandas-dataframe-apply-in-parallel/)
 
 ---
+
+
 
 <TagLinks />
