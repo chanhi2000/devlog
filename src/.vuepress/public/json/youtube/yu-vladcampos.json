@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "vladcampos",
+    "name": "vladcampos",
+    "profile": "https://yt3.googleusercontent.com/8AYpUi2vNNal2MHuKAIA48RwkwE2k9sAiK5BgyurL8RaEadV4CwFmHg3c26sCguvdG-PiccMwA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HHaNWlflKcAULjtT4KjbSTYjdY92At3lDB6cb02VqP3H_p3BTeZHsHM_ewuZT_fQlHeeI7pr=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "13mElDSs0a8", "title": "How I use Kanban in Obsidian" },
+    { "id": "fhzHmC6kdC4", "title": "NEW 🎉 Link to headings (Evernote)" },
+    { "id": "P07ugyCmw2Y", "title": "VCP 3 - Rambling about Evernote's new mobile Home" },
+    { "id": "F6jWMnMB4Lc", "title": "This simple workflow is working very well on my Obsidian" },
+    { "id": "LunytWKXBZ8", "title": "📍 Pinned notes on Evernote (coming soon)" },
+    { "id": "tqMVt1pm3cg", "title": "VCP 4 - Building a central hub to help you share your thoughts and ideas (with: Manton Reece)" },
+    { "id": "un4vw1QscsY", "title": "How to customize the Tiny Theme Archive page on @Micro-blog" },
+    { "id": "lyxdmyVo7Qk", "title": "Are you going back to Evernote? I have a tip for you." },
+    { "id": "1h9N8qd2m_c", "title": "Is the NEW Evernote Home really better? Well, I have some suggestions." },
+    { "id": "xLn1Dv58HP8", "title": "Hey Evernote, please allow us to personalize the new Home." },
+    { "id": "EVkAfAc44cY", "title": "On how Bookmarks became the backbone of my Obsidian system." },
+    { "id": "1nLCpB7bUNI", "title": "🤔 What if organizing has become a waste of time?" },
+    { "id": "7STHQJ3eVTw", "title": "Introduction to Scrintal (how-to)" },
+    { "id": "FUgeAABeV5c", "title": "Evernote Tasks: May 2024 walkthrough." },
+    { "id": "H2j1vZki2HE", "title": "A modern note-taking app that gets to the point | Voicenotes" },
+    { "id": "046RP8VcXN8", "title": "3 mindful options to send Supernote notes to Obsidian" },
+    { "id": "GWjSSo1nI2E", "title": "How to send Supernote files to Evernote" },
+    { "id": "hzNg1_mNoT4", "title": "NEW 🎉  Auto Template Trigger plugin (how-to)" },
+    { "id": "X1MnSOBMa2s", "title": "Must-Have Feature still MISSING (Obsidian 1.6)" },
+    { "id": "uHw_jMxBKT8", "title": "How to add the current date and time to Obsidian notes (automatically)" },
+    { "id": "FzK1hdXFhR8", "title": "VCP 6 - Voicenotes: The Inspiring Story & Future Plans (with: Jijo Sunny)" },
+    { "id": "G5slNwJoAMA", "title": "Obsidian Properties Explained (how-to for beginners)" },
+    { "id": "0cSD9IQ9pQE", "title": "Evernote Templates are broken and driving me crazy. But there's a solution!" },
+    { "id": "3VWZNFdF4as", "title": "Evernote Calendar: 2-WAY Sync (first impressions)" },
+    { "id": "rzAM6pdLj3A", "title": "I Gave Up Evernote Notebooks: Can Search REALLY Replace Them?" },
+    { "id": "IiK0u56hGyI", "title": "My new Evernote system: Day 1" },
+    { "id": "DmBLqACGEUs", "title": "Timeline vs. Work In Progress on my Evernote System" },
+    { "id": "Jp6I8R12Dbg", "title": "Never Lose a Document Again: Organizing Family Documents with Evernote" },
+    { "id": "T1WZTG9o16g", "title": "📦 Evernote is not an Archive. ⏳ It's a Timeline!" },
+    { "id": "uP8jUGWj53M", "title": "🎉 A look at the latest additions to the Evernote mobile" }
+  ],
+  "playlists": [
+
+  ]
+}

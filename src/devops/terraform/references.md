@@ -33,4 +33,11 @@ tag:
 
 ---
 
+## 개발 아카이빙
+
+- [잇츠 스터디 회고 - \[INFRA\] Terraform Beginners](https://soohey.tistory.com/m/83)
+
+---
+
+
 <TagLinks/>

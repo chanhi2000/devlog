@@ -93,6 +93,9 @@ tag:
 - [`@jwlee010523` / SwiftUI - `ObservableObject`](https://velog.io/@jwlee010523/SwiftUI-ObservableObject)
 - [`@jwlee010523` / SwiftUI - `Published`와 `ObservedObject`](https://velog.io/@jwlee010523/SwiftUI-PublishedObservedObject)
 - [`@jwlee010523` / SwiftUI - StateObject](https://velog.io/@jwlee010523/SwiftUI-StateObject)
+- [`@kirri1124` / Swift Concurrency 1](https://velog.io/@kirri1124/Swift-Concurrency)
+- [`@kirri1124` / Swift Concurrency 2](https://velog.io/@kirri1124/Swift-Concurrency-2)
+- [`@kirri1124` / Swift Concurrency 3](https://velog.io/@kirri1124/Swift-Concurrency-3)
 
 <!-- END: velog.io -->
 
@@ -150,6 +153,12 @@ tag:
 - [`donggyu9410` / Swift Protocol](https://donggyu9410.medium.com/swift-protocol-63408ee8b819?source=rss-72a3dab9ff43------2)
 - [`donggyu9410` / SwiftUI 프로젝트에 Swinject 적용하기](https://donggyu9410.medium.com/swiftui-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-swinject-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-3408a0f781fa?source=rss-72a3dab9ff43------2)
 - [`donggyu9410` / iOS에서 Deep Link 와 Universal Link 의 차이점](https://donggyu9410.medium.com/ios%EC%97%90%EC%84%9C-deep-link-%EC%99%80-universal-link-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-5e3863fe5364?source=rss-72a3dab9ff43------2)
+- [`donggyu9410` / KeyChain](https://donggyu9410.medium.com/keychain-8d7947e2847d?source=rss-72a3dab9ff43------2)
+- [`donggyu9410` / SwiftUI의 View 프로토콜이 구조체인 이유](https://donggyu9410.medium.com/swiftui%EC%9D%98-view-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%B4-%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%9D%B8-%EC%9D%B4%EC%9C%A0-ff4346fc3b6e?source=rss-72a3dab9ff43------2)
+- [`donggyu9410` / Swift 생성자 심화](https://donggyu9410.medium.com/swift-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%8B%AC%ED%99%94-e69c0dc53f35?source=rss-72a3dab9ff43------2)
+- [`dimillian` / Some tips & tricks with the new iOS 18 ScrollView API](https://dimillian.medium.com/some-tips-tricks-with-the-new-ios-18-scrollview-api-95632b41bc8e)
+
+<!-- END: medium.com -->
 
 ---
 
@@ -170,6 +179,7 @@ tag:
 
 - [Timer in SwiftUI](https://sarunw.com/posts/timer-in-swiftui/)
 - [How to set ContentInsets on SwiftUI List](https://sarunw.com/posts/how-to-set-contentinsets-in-swiftui)
+- [How to convert Radians to Degrees in Swift](https://sarunw.com/posts/how-to-covert-radins-to-degrees-in-swift)
 
 ---
 
@@ -208,12 +218,6 @@ tag:
 ## jessesquires
 
 - [Swift URL `absoluteString` versus path](https://www.jessesquires.com/blog/2023/08/17/swift-url-absolutestring-path)
-
----
-
-## Sarunw
-
-- [How to convert Radians to Degrees in Swift](https://sarunw.com/posts/how-to-covert-radins-to-degrees-in-swift)
 
 ---
 
@@ -265,6 +269,7 @@ tag:
 - [Actor reentrancy in Swift explained](https://donnywals.com/actor-reentrancy-in-swift-explained)
 - [Using iOS 18’s new TabView with a sidebar](https://donnywals.com/using-ios-18s-new-tabview-with-a-sidebar)
 - [Mixing colors in SwiftUI and Xcode 16](https://www.donnywals.com/mixing-colors-in-swiftui-and-xcode-16/)
+- [Using `PreviewModifier` to build a previewing environment](https://www.donnywals.com/using-previewmodifier-to-build-a-previewing-environment/)
 
 ---
 
@@ -534,6 +539,7 @@ tag:
 - [An Introduction to Isolation in Swift](https://www.massicotte.org/intro-to-isolation)
 - [Swift Isolation Intuition](https://www.massicotte.org/isolation-intuition)
 - [Concurrency in Swift 6: SE-0401](https://www.massicotte.org/concurrency-swift-6-se-401)
+- [SE-0431: `@isolated(any)` Function Types](https://www.massicotte.org/concurrency-swift-6-se-0431)
 
 ---
 
@@ -837,6 +843,24 @@ tag:
 ## Douglas Hill
 
 - [Zoom transitions](https://douglashill.co/zoom-transitions/)
+
+---
+
+## John O'Reilly
+
+- [Exploring New Worlds of UI sharing possibilities in PeopleInSpace using Compose Multiplatform](https://johnoreilly.dev/posts/exploring-compose_multiplatform_sharing_ios/)
+
+---
+
+### Sujan Poudel
+
+- [Manage configurations for the different environment (eg: staging, prod) in Kotlin Multiplatform](https://sujanpoudel.me/blogs/kmp-setup-config-for-different-environment-in-kmp/)
+
+---
+
+## Digital Bunker
+
+[Blend Modes in SwiftUI](https://digitalbunker.dev/blend-modes-in-swiftui/)
 
 ---
 

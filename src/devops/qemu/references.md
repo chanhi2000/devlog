@@ -45,4 +45,10 @@ tag:
 
 ---
 
+## thasso.xyz
+
+- [Setting up an x86 CPU in 64-bit mode](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
+
+---
+
 <TagLinks />

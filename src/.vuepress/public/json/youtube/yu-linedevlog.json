@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/OGMmgjQtWPxL9nuJA18Hr7gnG6EjN5w_azKZpiJ3Uf4hDH2bcFdZYOV6wTRALFZrC6icSh5_jvc=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Zz-IehTBgjY", "title": "글로벌한 라인의 속도와 안정성의 비결은? CDN! Content Delivery Network | 라인개발실록" },
+    { "id": "54PLQS4OS5E", "title": "CDN으로 무엇을 할 수 있나요? Content Delivery Network, CDN QnA  | 라인개발실록" },
+    { "id": "Ii_EG-JKUw4", "title": "AI가 요즘 어떤지, 앞으로가 더 궁금하다면?  | 라인개발실록" },
+    { "id": "8cBrxELl_xc", "title": "서비스에 AI 기술을 적용하기 위한 모델 개발 프로세스란?  | 라인개발실록" },
     { "id": "4pkh-EBukD8", "title": "LINE의 TPM이 프로젝트를 운영하는 방법 - part.2 | 라인개발실록" },
     { "id": "V-Eth7q_cKU", "title": "새롭게 태어난 Kotlin JDSL 3.0 기능 소개부터 찐 에피소드 공유까지  | 라인개발실록" },
     { "id": "9O9YjopIiEQ", "title": "Kotlin JDSL 3.0으로 더욱 쉽고 편리하게! 궁금한 점 QnA, 앞으로의 방향성은?!   | 라인개발실록" },

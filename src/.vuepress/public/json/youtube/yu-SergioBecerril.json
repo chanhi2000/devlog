@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/0Esl6flOQS-BlZiWf94Pu1tHJ3lEftCvwN_2vgKwGBwLrnZRkpVx1KJVjXDm9je7jY2u-O3V0w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "IQ-98hBBVhA", "title": "🔥Esto hago en mis programas de Mentoring cómo iOS Extreme | Cómo funciona el patrón del delegado" },
+    { "id": "paCrwIPn2go", "title": "SwiftUI | 👣 Primeros pasos 🦶🏼 ¿Qué es SwiftUI? Explicación sencilla de uso del Framework de Apple" },
+    { "id": "QIbnqhASrYc", "title": "SwiftUI | La macro @Observable | Descubre la nueva forma de propagar datos con SwiftUI" },
+    { "id": "ixtupTMsy18", "title": "⌨️ Shortcuts en Xcode | Aumenta tu productividad 🔥 con estos atajos de teclado para Xcode" },
     { "id": "xO5CR84djgk", "title": "🔥 Accede a todo el contenido formativo 👩🏼‍💻 de mi programa de Mentoring iOS Extreme 🔥" },
     { "id": "BMsOsuXXFow", "title": "iOS vs Android | Principales similitudes y diferencias de ambas plataformas." },
     { "id": "lzkonCgJ_M0", "title": "🔥 Tutorial: Crear tarjeta animada con SwiftUI. Aprende a crear una animación con SwiftUI" },
@@ -17,6 +21,9 @@
     { "id": "0Ul4hxMGEj0", "title": "👨🏻‍💻 Taller básico iOS: Extreme App 👊🏽 | Sesión 2 de 3. Empieza a crear Apps de forma profesional 🔥" },
     { "id": "p3-osr04GSM", "title": "📅 Aprende a crear una App iOS desde cero | Crea una aplicación de tareas con SwiftUI 🚀 1/4" },
     { "id": "xgmCjPG-HeI", "title": "🚀 Curso práctico iOS | Crea una App de BBDD de películas con MVVM y RxSwift - Xcode13 y Swift 5.5" }
+  ],
+  "playlists": [
+
   ]
 }
 

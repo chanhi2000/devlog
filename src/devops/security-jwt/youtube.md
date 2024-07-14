@@ -31,4 +31,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-tom-delalande" /><!-- Tom Delalande -->
+
 <TagLinks />

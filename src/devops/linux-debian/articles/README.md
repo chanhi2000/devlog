@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag:
   - blog
+  - freecodecamp.org
   - digitalocean.com
   - code-maze.com
   - meetup.nhncloud.com
@@ -26,6 +27,13 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 <SiteInfo
   name="DigitalOcean | Cloud Infrastructure for Developers"
@@ -59,6 +67,24 @@ head:
   preview="/images/content/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "Learn Linux for Beginners: From Basics to Advanced Techniques [Full Book]",
+  "desc": "Learning Linux is one of the most valuable skills in the tech industry. It can help you get things done faster and more efficiently. Many of the world's powerful servers and supercomputers run on Linux. While empowering you in your current role, lear...",
+  "link": "/explore/articles/freecodecamp.org/learn-linux-for-beginners-book-basic-to-advanced.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

@@ -355,4 +355,10 @@ head:
 
 ---
 
+## 드프 DrawingProcess
+
+- [\[Gen AI\] 생성형 모델 및 서비스 정리](https://csj000714.tistory.com/m/1150)
+
+---
+
 <TagLinks/>

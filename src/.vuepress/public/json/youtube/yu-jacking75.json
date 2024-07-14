@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "eEWsMtvst48", "title": "C++23 - std::print" },
+    { "id": "zakVv3vlgsY", "title": "C++ 네트워크 프로그래밍 분석&리팩토링 - GameProject3Re" },
     { "id": "U7jUTEcYQ-k", "title": "C++ POCO 라이브러리 04. 논블럭킹, 멀티플렉싱(Multiplexing)" },
     { "id": "fBCVKPasJOw", "title": "C++ POCO 라이브러리 05. TCPServer 프레임워크" },
     { "id": "g49BA8I9aQ8", "title": "C++ POCO 라이브러리 02. Poco.Net을 이용한 네트워크 프로그래밍 소개" },
@@ -21,5 +23,8 @@
     { "id": "v8tXh1hGdeY", "title": "Windows에서 C++ 오픈소스 Boost 라이브러리 설치와 사용하기" }, 
     { "id": "1E5ovnFy2m8", "title": "[서버 아키텍처] PiggPARTY에서 실시간 통신 시스템" }, 
     { "id": "uGjrPjqGR24", "title": "[.NET Conf 2023 x Seoul] Hands-on-Lab: 데이터 직렬화" }  
+  ],
+  "playlists": [
+    
   ]
 }

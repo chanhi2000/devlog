@@ -774,6 +774,27 @@ https://www.joinc.co.kr/w/Site
   logo="https://www.simplilearn.com/static/frontend/images/favicon/favicon.ico"
   preview="https://www.simplilearn.com/ice9/webinar_thum_image/ReactJS_Tutorial.jpg"/>
 
+<SiteInfo
+  name="Destination Video | Apple Developer Documentation"
+  desc="Leverage SwiftUI to build an immersive media experience in a multiplatform app."
+  url="https://developer.apple.com/documentation/visionos/destination-video"
+  logo="https://developer.apple.com/favicon.ico"
+  preview="https://developer.apple.com/tutorials/developer-og.jpg"/>
+
+<SiteInfo
+  name="Simulating particles in your visionOS app"
+  desc="Add a range of visual effects to a RealityKit view by attaching a particle emitter component to an entity."
+  url="https://developer.apple.com/documentation/realitykit/simulating-particles-in-your-visionos-app"
+  logo="https://developer.apple.com/favicon.ico"
+  preview="https://developer.apple.com/tutorials/developer-og.jpg"/>
+
+<SiteInfo
+  name="BOT-anist | Apple Developer Documentation"
+  desc="Build a multiplatform app that uses windows, volumes, and animations to create a robot botanist’s greenhouse."
+  url="https://developer.apple.com/documentation/visionos/bot-anist"
+  logo="https://developer.apple.com/favicon.ico"
+  preview="https://developer.apple.com/tutorials/developer-og.jpg"/>
+
 <!-- END: Crashcourse -->
 
 @tab Cheatsheet

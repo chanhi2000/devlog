@@ -17,7 +17,7 @@ head:
     - property: og:description
       content: Plugins
     - property: og:url
-      content: https://chanhi2000.github.io/toole/firefox/plugins.html
+      content: https://chanhi2000.github.io/tool/firefox/plugins.html
 ---
 
 # {{ $frontmatter.title }} 관련

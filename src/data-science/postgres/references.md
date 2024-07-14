@@ -391,4 +391,10 @@ head:
 
 ---
 
+## Christophe Avonture
+
+- [Don't query your PostgreSQL db anymore, prefer PostgREST](https://www.avonture.be/blog/docker-postgrest/)
+
+---
+
 <TagLinks />

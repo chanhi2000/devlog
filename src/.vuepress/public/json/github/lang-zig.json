@@ -3,41 +3,57 @@
     "repo": "ziglang/zig",
     "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
     "officialSite": "https://ziglang.org",
-    "topics": ["compiler", "language", "zig"]
+    "topics": ["compiler", "language", "zig"],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "andrewrk/poop",
     "desc": "Performance Optimizer Observation Platform",
     "officialSite": "",
-    "topics": []
+    "topics": [],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "oven-sh/bun",
     "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
     "officialSite": "https://bun.sh",
-    "topics": ["react", "nodejs", "javascript", "npm", "bundler", "typescript", "jsx", "zig", "transpiler", "javascriptcore", "bun", "ziglang"]
+    "topics": ["react", "nodejs", "javascript", "npm", "bundler", "typescript", "jsx", "zig", "transpiler", "javascriptcore", "bun", "ziglang"],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "zigcc/zig-cookbook",
     "desc": "Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.",
     "officialSite": "https://zigcc.github.io/zig-cookbook/",
-    "topics": ["zig", "ziglang"]
+    "topics": ["zig", "ziglang"],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "tigerbeetle/tigerbeetle",
     "desc": "The distributed financial transactions database designed for mission critical safety and performance.",
     "officialSite": "https://tigerbeetle.com",
-    "topics": []
+    "topics": [],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "ZigEmbeddedGroup/microzig",
     "desc": "Unified abstraction layer and HAL for several microcontrollers",
     "officialSite": "",
-    "topics": ["embedded", "hal", "zig", "zig-package", "ziglang"]
+    "topics": ["embedded", "hal", "zig", "zig-package", "ziglang"],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "NilsIrl/dockerc",
     "desc": "container image to single executable compiler",
     "officialSite": "",
-    "topics": ["containers", "docker", "oci", "oci-image"]
+    "topics": ["containers", "docker", "oci", "oci-image"],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "mitchellh/libxev",
     "desc": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
     "officialSite": "",
-    "topics": ["async", "c", "epoll", "io-uring", "kqueue", "wasi", "webassembly", "zig"]
+    "topics": ["async", "c", "epoll", "io-uring", "kqueue", "wasi", "webassembly", "zig"],
+    "avatar": "",
+    "banner": ""
   }
 ]

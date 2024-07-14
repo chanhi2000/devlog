@@ -64,5 +64,6 @@ head:
 <MyYouTubeItems jsonName="yu-user-ln8wt6uz7i" /><!-- 풀리는 수학 - 풀리 -->
 <MyYouTubeItems jsonName="yu-PrimerBlobs" /><!-- Primer -->
 <MyYouTubeItems jsonName="yu-abantu_AI" /><!-- 아반투 (인공지능 및 안드로이드 강의) -->-
+<MyYouTubeItems jsonName="yu-geekblekr" /><!-- 긱블 Geekble -->
 
 <TagLinks />

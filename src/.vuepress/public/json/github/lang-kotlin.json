@@ -385,5 +385,10 @@
     "desc": "",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "sergejsha/logger",
+    "desc": "Minimalistic Logger for Kotlin Multiplatform.",
+    "officialSite": "",
+    "topics": []
   }
 ]

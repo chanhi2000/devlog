@@ -558,6 +558,7 @@ tag:
 - [\[백준\] 2018번: 수들의 합 5 - java](https://findsilverlining.tistory.com/m/97)
 - [\[백준\] 1546번: 평균 - java](https://findsilverlining.tistory.com/m/96)
 - [\[백준\] 11720번: 숫자의 합 - java](https://findsilverlining.tistory.com/m/95)
+- [\[백준\] 11659번: 구간 합 구하기 4 - java](https://findsilverlining.tistory.com/m/98)
 
 ### Event-Driven by Oskar Dudycz
 
@@ -583,6 +584,7 @@ tag:
 - [Introducing Kotlin Notebook](https://blog.jetbrains.com/kotlin/2023/07/introducing-kotlin-notebook/)
 - [Kandy: the new Kotlin plotting library by JetBrains](https://blog.jetbrains.com/kotlin/2023/12/kandy-the-new-kotlin-plotting-library-by-jetbrains)
 - [A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
+- [Enhanced Column Selection DSL in Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/07/enhanced-column-selection-dsl-in-kotlin-dataframe/)
 
 ### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
@@ -638,13 +640,14 @@ tag:
 - [`@maya.mohite` / Type Erasure in Kotlin: Simplifying the Complex](https://medium.com/@maya.mohite/type-erasure-in-kotlin-simplifying-the-complex-e60de7ae3db1)
 - [`@khush.panchal123` / Understanding Kotlin’s Any, Unit, Nothing](https://medium.com/@khush.panchal123/understanding-kotlins-any-unit-nothing-7bcaad73fbc1)
 - [`mariuszsoltysiak` / Convert HTML to PDF with Kotlin/JVM](https://mariuszsoltysiak.medium.com/convert-html-to-pdf-with-kotlin-jvm-35b9a0aeaa44)
-- [`@l2hyunwoo` / Kotlin 2.0으로 마이그레이션하기](https://medium.com/@l2hyunwoo/kotlin-2-0%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-1742f294df51)
+- [`@l2hyunwoo` / Kotlin 2.0으로 마이그레이션하기](https://medium.com/@l2hyunwoo/medkotlin-2-0%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-1742f294df51)
 - [`donraab` / What if null was an Object in Java?](https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2)
 - [`proandroiddev` / Everything you want to know about Functional interfaces in Kotlin](https://proandroiddev.com/everything-you-want-to-know-about-functional-interfaces-in-kotlin-55f4ae7b64ec)
 - [`proandroiddev` / Everything about Customizing coroutine contexts in kotlin](https://proandroiddev.com/everything-about-customizing-coroutine-contexts-in-kotlin-0a8a129bbc41)
 - [`javarevisited` / Kotlin DSL Mastery: Techniques, Patterns & Implementation](https://medium.com/javarevisited/kotlin-dsl-primer-techniques-patterns-implementation-1c16cac90f5d)
 - [`google-developer-experts` / Kotlin Coroutine mechanisms: `launch` v. `async`](https://medium.com/google-developer-experts/kotlin-coroutine-mechanisms-launch-v-async-7877f8b67e30)
 - [`proandroiddev` / SOLID Design Principles In Kotlin](https://proandroiddev.com/solid-design-principles-in-kotlin-79100c670df1)
+- [`proandroiddev` / Destructuring Declarations in Kotlin](https://proandroiddev.com/destructuring-declarations-in-kotlin-b0dfc04b737a)
 
 <!-- END: medium -->
 
@@ -742,6 +745,7 @@ tag:
 - [Kotlin: An Illustrated Guide • Chapter 17 Handling Runtime Exceptions](https://typealias.com/start/kotlin-exceptions/)
 - [Kotlin: An Illustrated Guide • Chapter 18 Generics](https://typealias.com/start/kotlin-generics/)
 - [Kotlin: An Illustrated Guide • Chapter 19 Generic Variance](https://typealias.com/start/kotlin-variance/)
+- [Coroutine Essentials](https://typealias.com/start/kotlin-coroutines/)
 
 ### TOUCHLAB
 
@@ -877,10 +881,27 @@ tag:
 ### 개발자 박진 블로그
 
 - [인프런 - 코틀린 고급편 (3) 함수형 프로그래밍 활용](https://jinn-blog.tistory.com/m/163)
+- [인프런 - 코틀린 고급편 (4) 연산자 오버로딩 & DSL](https://jinn-blog.tistory.com/m/170)
 
 ### 사바라다는 차곡차곡
 
 - [Kotlin Coroutine에서의 TraceId는 어떻게 주입하나 ? - Context 전파와 MDCContext](https://sabarada.tistory.com/m/266)
+
+### 행뽁🐥
+
+- [코틀린 Kotlin `java.util.ConcurrentModificationException` 에러](https://hyunjungchoi.tistory.com/m/155)
+
+---
+
+### Darryl Bayliss – Random Musings
+
+- [Which Map Transformation Should I Use?](https://darrylbayliss.net/which-map-transformation-should-i-use/)
+
+---
+
+### Sujan Poudel
+
+- [Manage configurations for the different environment (eg: staging, prod) in Kotlin Multiplatform](https://sujanpoudel.me/blogs/kmp-setup-config-for-different-environment-in-kmp/)
 
 ---
 

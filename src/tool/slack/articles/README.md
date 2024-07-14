@@ -19,7 +19,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/toole/slack/articles/
+      content: https://chanhi2000.github.io/tool/slack/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

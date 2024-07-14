@@ -1039,6 +1039,20 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://res-3.cloudinary.com/jetpack-io/image/upload/q_auto/v1/blog/jetpack-icon.png"
   preview="https://res-2.cloudinary.com/jetpack-io/image/upload/q_auto/v1/blog/Social-Card---Jetify-Logo.png"/>
 
+<SiteInfo
+  name="Xandr-Tech – Medium"
+  desc="Our latest thoughts, challenges, triumphs, try-again’s, most snarky and profound commit messages. Our proudest achievements, deepest darkest technical debt regrets (just kidding, maybe). All the humbling yet informative things you learn when you try to do things with computers."
+  url="https://medium.com/xandr-tech/"
+  logo="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
+  preview="https://cdn-images-1.medium.com/max/1200/1*I-53yG6S3BUekzkNmpq2uA.png"/>
+
+<SiteInfo
+  name="Home | Arkency Blog"
+  desc="Hi, we're Arkency and it's our blog with meaty content."
+  url="https://blog.arkency.com/"
+  logo="https://blog.arkency.com/favicon.ico"
+  preview="https://blog-arkency.imgix.net/~text?bg=DC3E09&fit=max&h=315&txt=Home&txtalign=middle%2Ccenter&txtclr=FFF&txtfont=Georgia%2CBold&txtpad=30&txtsize=42&w=640"/>
+
 <!-- END: Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)

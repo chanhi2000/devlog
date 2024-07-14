@@ -375,6 +375,12 @@ head:
 
 ---
 
+## 코딩팩토리
+
+- [LG그램 노트북 화면 액정에 물 들어가서 얼룩 생김 + 액정 교체 비용(LG 서비스센터)](https://coding-factory.tistory.com/m/1087)
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

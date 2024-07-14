@@ -533,13 +533,12 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-xcode',
         link: '/tool/xcode/README.md',
       }, {
-        text: 'Intellij Idea',
-        icon: 'iconfont icon-intellijidea',
-        link: '/tool/intellij-idea/README.md',
-      }, {
-        text: 'Writerside',
-        icon: 'iconfont icon-jetbrains',
-        link: '/tool/writerside/README.md',
+        text: 'Jetbrains',
+        children: [
+          '/tool/jetbrains-idea/README.md',
+          '/tool/jetbrains-pycharm/README.md',
+          '/tool/jetbrains-writerside/README.md',
+        ]
       }, {
         text: 'Visual Studio',
         icon: 'iconfont icon-visualstudio',

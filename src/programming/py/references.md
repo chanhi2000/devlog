@@ -130,6 +130,9 @@ head:
 - [`@euisuk-chung` / \[파이썬\] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-vs-code-keymapping-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-shiftenter-ctrlenter-%EB%93%B1)
 - [`@eunbibi` / JPype1](https://velog.io/@eunbibi/jpype1)
 - [`@euisuk-chung` / \[개념정리\] 시계열 분석의 인과관계 분석](https://velog.io/@euisuk-chung/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84-%EB%B6%84%EC%84%9D)
+- [`@euisuk-chung` / Prophet을 활용한 시계열 예측🔭](https://velog.io/@euisuk-chung/Prophet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%9C%EA%B3%84%EC%97%B4-%EC%98%88%EC%B8%A1)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -1995,6 +1998,24 @@ head:
 ## Muhammad | Personal Blog where I write about things I learn or discover.
 
 - [Understanding HTTP Server by implementing in Python](https://muhammadraza.me/2024/building-http-server/)
+
+---
+
+## Tom Mason
+
+- [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
+
+---
+
+## NVIDIA Warp
+
+- [NVIDIA Warp Documentation](https://nvidia.github.io/warp/)
+
+---
+
+## sbensu
+
+- [We need visual programming. No, not like that.](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 
 ---
 

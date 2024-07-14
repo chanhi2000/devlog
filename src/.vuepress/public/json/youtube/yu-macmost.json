@@ -6,6 +6,37 @@
     "banner": "https://yt3.googleusercontent.com/AdzNIsIBcntGRGC78QBiYuuCXyvNbct21x14dMfEWl9QiPT1R_GYC-Ph-cujBjiGU6Hk8xABwA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Ip2f7sBbhG4", "title": "Creating a Photo Collage In Freeform" },
+    { "id": "eJsys_bgTNU", "title": "Move the Menu Bar Below the Camera Notch On Your MacBook" },
+    { "id": "jAJ8fg-GgAA", "title": "How To Free Up Space On iCloud Drive" },
+    { "id": "8vIDnDS_8sw", "title": "6 Ways To Convert Video Files On a Mac" },
+    { "id": "G4rqnT7a5IA", "title": "10 Simple Ways To Improve a Photo in the Mac Photos App" },
+    { "id": "LCKaLzsgRXM", "title": "Import Photos From Cameras and SD Cards Using the Image Capture App On Your Mac" },
+    { "id": "v8xP7uSd9hk", "title": "How To Get File Listings As Text" },
+    { "id": "unm_PQP5_yg", "title": "How To Use Your iPhone As a Scanner For Your Mac" },
+    { "id": "yqp6mC0DH6U", "title": "How Many Mac Third-Party App Installs Work" },
+    { "id": "HjwgT45qLLE", "title": "Learn How To Edit Your Pictures In Mac Photos In 5 Minutes" },
+    { "id": "c7ka0wLrqGE", "title": "Mac Typing and Editing Keyboard Shortcuts" },
+    { "id": "CyXz_BBHFEQ", "title": "How To Translate Text On Your Mac" },
+    { "id": "pFVENsGkY1M", "title": "How To Translate Text On Your iPhone" },
+    { "id": "fGkbyRw3ZM0", "title": "Searching the Text Of a Web Page" },
+    { "id": "jyDwDPfXgyw", "title": "Custom Sort Order In Numbers" },
+    { "id": "pYgp9zV1Rvs", "title": "Windows Menus Vs the Mac Menu Bar" },
+    { "id": "Q0tRCTwD0NE", "title": "Why Your MacBook Battery Drains Fast" },
+    { "id": "tKmgRhelSXA", "title": "How To Select Noncontiguous Text in Pages and Other Apps" },
+    { "id": "f_mXzoAPPd0", "title": "What's Coming In macOS Sequoia" },
+    { "id": "T7op8lEqJ9I", "title": "Understanding How Your Photos Are Stored in Your Mac Photos App" },
+    { "id": "0shhVQhF9IM", "title": "iOS 18 Home Screen, Control Center and Lock Screen Changes Coming To Your iPhone" },
+    { "id": "CmpZXaqVMdw", "title": "10 Ways To Make Text Larger On Web Pages" },
+    { "id": "Lg5VcIfxXoY", "title": "How To Capture Any Text From Your Screen On Mac, iPhone or iPad" },
+    { "id": "l2mPePj2inQ", "title": "Tips To Being More Productive Using Mac Pages" },
+    { "id": "H-5m1GvB4gk", "title": "Turning Off the Caps Lock and Other Text Cursor Indicators on Your Mac" },
+    { "id": "NKU1VkEn-As", "title": "Changing the Accent Color Used in Apple Apps" },
+    { "id": "kWkB8ZvMHBE", "title": "Batch Rename Multiple Files On a Mac" },
+    { "id": "lpzqv9O_Ccs", "title": "Using the Mac News App Even If You Don't Like News" },
+    { "id": "G2-bmsPDgtQ", "title": "What To Do On a Mac When Someone Sends You a Microsoft Word File" },
+    { "id": "ZsgWfYHxzf0", "title": "Building a Retirement Planning Spreadsheet In Numbers" },
+    { "id": "ntW131bOs8U", "title": "10 Ways To Organize Your Notes" },
     { "id": "U4oMnJFD8O4", "title": "Why Does Apple Add New Emoji?" },
     { "id": "7qd6I84xXCk", "title": "ClipTools: The New Clip Manager Window" },
     { "id": "GuESzRxj9R4", "title": "Common Misconceptions About the Desktop" },
@@ -44,5 +75,8 @@
     { "id": "ghZidpnUq4w", "title": "How To Diagnose Battery Drain on a MacBook" }, 
     { "id": "Dxrgh0Myszw", "title": "10 Ways To Use Text Replacements On Your Mac" }, 
     { "id": "BTmZOh1GI3U", "title": "An Introduction To Using Mac Automator" }
+  ],
+  "playlists": [
+
   ]
 }

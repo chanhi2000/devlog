@@ -45,4 +45,10 @@ head:
 
 ---
 
+## pdf(s)
+
+<PDF src="https://datasheets.raspberrypi.com/bcm2711/bcm2711-peripherals.pdf" />
+
+---
+
 <TagLinks />

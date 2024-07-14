@@ -18,7 +18,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/toole/sketch/articles/
+      content: https://chanhi2000.github.io/tool/sketch/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -18,6 +18,7 @@ export const template: SidebarInfoTemplate = {
       "ek-api-stability", // 2024-06-24
       "sharedflow-vs-stateflow", // 2024-06-27
       "cc-dispatchers", // 2024-07-01
+      "ek-contracts-documentation", // 2024-07-08
     ]],[
     "kotlin-spring", [
       "nonblocking-spring-mvc", // 2024-03-25
@@ -40,6 +41,7 @@ export const template: SidebarInfoTemplate = {
       "ek-api-stability", // 2024-06-24
       "sharedflow-vs-stateflow", // 2024-06-27
       "cc-dispatchers", // 2024-07-01
+      "ek-contracts-documentation", // 2024-07-08
     ]]
   ])
 }

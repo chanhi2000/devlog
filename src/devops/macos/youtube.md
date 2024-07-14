@@ -102,5 +102,6 @@ head:
 <MyYouTubeItems jsonName="yu-NETVN82" /><!-- NETVN -->
 <MyYouTubeItems jsonName="yu-bogxd" /><!-- Bog -->
 <MyYouTubeItems jsonName="yu-chriscardoso" /><!-- Chris Cardoso -->
+<MyYouTubeItems jsonName="yu-NovaspiritTech" /> <!-- Novaspirit Tech -->
 
 <TagLinks />

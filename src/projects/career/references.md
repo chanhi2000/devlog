@@ -231,6 +231,9 @@ tag:
 - [`@2weV` / 1~3년차, 4~8년차, +10년 차의 커리어](https://brunch.co.kr/@@2weV/529)
 - [`@2weV` / 하반기, 내 커리어에 모멘텀 만들기 (Ringle)](https://brunch.co.kr/@@2weV/528)
 - [`@2rV` / 북극성 지표에 대한 오해와 정성적 피드백의 중요성](https://brunch.co.kr/@@2rV/139)
+- [`@2rV` / 가치 제안 (Value Propostion) 연습하기 - Michael Skok의 하버드 대학 워크샵](https://brunch.co.kr/@@2rV/140)
+- [`@8w7` / 이기는 게임을 위한 부트캠프 설계와 브랜딩의 힘 - 세부적인 요소가 아닌 총체적인 인지전략을 통해 이기는 방법](https://brunch.co.kr/@@8w7/237)
+- [`@2weV` / 처음부터 잘할 수는 없다.](https://brunch.co.kr/@@2weV/531)
 
 <!-- END: brunch.co.kr -->
 
@@ -477,6 +480,9 @@ tag:
 - [다시 본질로](https://www.thestartupbible.com/2024/07/back-to-the-basics.html)
 - [가장 중요한 점수](https://www.thestartupbible.com/2024/07/the-most-important-point-is-the-point-you-are-playing-right-now.html)
 - [지속 가능한 사업](https://www.thestartupbible.com/2024/07/on-being-ready-to-be-a-sustainable-business.html)
+- [지속 가능한 사업](https://www.thestartupbible.com/2024/07/on-being-ready-to-be-a-sustainable-business.html)
+
+<!-- END: thestartupbible.com -->
 
 ---
 
@@ -1311,6 +1317,12 @@ https://blog.naver.com/&logId=
 ## The Missing Notes
 
 - [창의력을 높이기 위해 걸으면서 얘기하는 건 좋은 아이디어라고 생각합니다. 다만 그냥 밖에 나가서 걸으면 될 것을 굳이 저렇게까지 해야 하나 싶네요.](https://likejazz.com/post/755570131715883008)
+
+---
+
+## Steady Study
+
+- [의사소통자의 아홉 가지 역량](https://www.stdy.blog/communicator-competencies/)
 
 ---
 

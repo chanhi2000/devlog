@@ -71,5 +71,9 @@ head:
 <MyYouTubeItems jsonName="yu-rt9" /><!-- Route 9 루트나인 -->
 <MyYouTubeItems jsonName="yu-HRR" /><!-- HappyRider Reviews -->
 <MyYouTubeItems jsonName="yu-Baseusofficial" /><!-- Baseus -->
+<MyYouTubeItems jsonName="yu-camshand" /><!-- cam shand -->
+<MyYouTubeItems jsonName="yu-core-computinglab" /><!-- Core Computing -->
+<MyYouTubeItems jsonName="yu-Jayztwocents" /><!-- JayzTwoCents -->
+<MyYouTubeItems jsonName="yu-HardwareSavvy" /><!-- Hardware Savvy -->
 
 <TagLinks />

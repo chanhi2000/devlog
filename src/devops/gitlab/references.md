@@ -70,4 +70,10 @@ tag:
 
 ---
 
+## 재우니의 블로그
+
+- [GitLab - git 명령어로 커밋 기록 삭제 (git : clear commits history)](https://aspdotnet.tistory.com/m/3232)
+
+---
+
 <TagLinks />

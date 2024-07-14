@@ -5444,11 +5444,6 @@
     "officialSite": "",
     "topics": []
   }, {
-    "repo": "Lightning-AI/litgpt",
-    "desc": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
-    "officialSite": "https://lightning.ai",
-    "topics": ["ai", "artificial-intelligence", "deep-learning", "large-language-models", "llm", "llm-inference", "llms"]
-  }, {
     "repo": "NX-AI/xlstm",
     "desc": "Official repository of the xLSTM.",
     "officialSite": "",
@@ -5722,6 +5717,71 @@
     "repo": "wireservice/csvkit",
     "desc": "A suite of utilities for converting to and working with CSV, the king of tabular file formats.",
     "officialSite": "https://csvkit.readthedocs.io",
+    "topics": []
+  }, {
+    "repo": "Sinaptik-AI/pandas-ai",
+    "desc": "Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",
+    "officialSite": "https://pandas-ai.com",
+    "topics": ["ai", "csv", "data", "data-analysis", "data-science", "database", "datalake", "gpt-3", "gpt-4", "llm", "pandas", "sql"]
+  }, {
+    "repo": "apify/crawlee-python",
+    "desc": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+    "officialSite": "https://crawlee.dev/python/",
+    "topics": ["apify", "automation", "beautifulsoup", "crawler", "crawling", "headless", "headless-chrome", "pip", "playwright", "python", "scraper", "scraping", "web-crawler", "web-crawling", "web-scraping"]
+  }, {
+    "repo": "PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "officialSite": "",
+    "topics": ["chineseocr", "crnn", "db", "ocr", "ocrlite"]
+  }, {
+    "repo": "bunkerity/bunkerweb",
+    "desc": "🛡️ Make your web services secure by default !",
+    "officialSite": "https://www.bunkerweb.io",
+    "topics": ["antibot", "bunkerized-nginx", "cybersecurity", "devops", "devsecops", "dnsbl", "docker", "hardening", "hosting", "kubernetes", "letsencrypt", "modsecurity", "nginx", "reverse-proxy", "security", "security-tuning", "swarm", "waf", "web-application-firewall", "web-security"]
+  }, {
+    "repo": "raspberrypi/documentation",
+    "desc": "The official documentation for Raspberry Pi computers and microcontrollers",
+    "officialSite": "https://raspberrypi.com/documentation",
+    "topics": ["asciidoc", "documentation", "raspberry-pi", "raspberry-pi-camera", "raspberry-pi-pico"]
+  }, {
+    "repo": "OI-wiki/OI-wiki",
+    "desc": ":star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
+    "officialSite": "https://oi-wiki.org",
+    "topics": ["acm-icpc", "acm-icpc-handbook", "algorithms", "competitive-programming", "data-structures", "hacktoberfest", "icpc", "icpc-handbook", "icpc-training", "oi", "oi-handbook", "oi-training"]
+  }, {
+    "repo": "Lightning-AI/litgpt",
+    "desc": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+    "officialSite": "https://lightning.ai",
+    "topics": ["ai", "artificial-intelligence", "deep-learning", "large-language-models", "llm", "llm-inference", "llms"]
+  }, {
+    "repo": "sauljabin/kaskade",
+    "desc": "kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style!",
+    "officialSite": "https://github.com/sauljabin/kaskade",
+    "topics": ["cli", "kafka", "kafka-cli", "kafka-tools", "kafka-tui", "kafka-ui", "kafka-utils", "python", "tui"]
+  }, {
+    "repo": "facebookresearch/audioseal",
+    "desc": "Localized watermarking for AI-generated speech audios, with SOTA on robustness and very fast detector",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "xhluca/bm25s",
+    "desc": "Fast lexical search library implementing BM25 in Python using Scipy (on average 2x faster than Elasticsearch in single-threaded setting)",
+    "officialSite": "https://bm25s.github.io",
+    "topics": ["bm25", "bm25-l", "bm25-plus", "information-retrieval", "lexical-search", "okapi-bm25", "rag", "retrieval", "robertson", "search"]
+  }, {
+    "repo": "amazon-science/auto-rag-eval",
+    "desc": "Code repo for the ICML 2024 paper \"Automated Evaluation of Retrieval-Augmented Language Models with Task-Specific Exam Generation\"",
+    "officialSite": "https://arxiv.org/abs/2405.13622",
+    "topics": ["evaluation", "genai", "llm", "machine-learning"]
+  }, {
+    "repo": "cohere-ai/DiskVectorIndex",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Atipico1/Kor-IR",
+    "desc": "Kor-IR: Korean Information Retrieval Benchmark",
+    "officialSite": "",
     "topics": []
   }
 ]

@@ -679,6 +679,22 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://webvm.io/tower.ico"
   preview="https://webvm.io/assets/social.png"/>
 
+```component VPCard
+{
+  "title": "Pulse",
+  "desc": "Procedural Art –– 'Pulse'",
+  "link": "https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+<SiteInfo
+  name="The world's best Jeopardy game maker | Buzzinga.io"
+  desc="Create and host your own custom Jeopardy games with Buzzinga. Perfect for game nights, classrooms, corporate trainings, and social events."
+  url="https://buzzinga.io/"
+  logo="https://buzzinga.io/favicon.svg"
+  preview="https://buzzinga.s3.us-east-2.amazonaws.com/75cdf8146ced554ebae24fd8872f07682f3d62a6a05c78d130b5266d7e111b1b"/>
+
 <!-- END:  Cool Project -->
 
 @tab Portfolio / Resume

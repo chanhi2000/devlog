@@ -159,5 +159,25 @@
     "desc": "The game is afoot",
     "officialSite": "https://ai-murder-mystery.onrender.com",
     "topics": []
+  }, {
+    "repo": "tremorlabs/tremor-raw",
+    "desc": "Copy & Paste React components to build modern web applications. ",
+    "officialSite": "https://raw.tremor.so",
+    "topics": ["components", "dashboard", "radix-ui", "react", "tailwindcss", "typescript", "ui"]
+  }, {
+    "repo": "reaviz/reablocks",
+    "desc": "🧩 Component Library for React based on Tailwind. Maintained by @goodcodeus.",
+    "officialSite": "https://reablocks.dev",
+    "topics": ["calendar", "command-palette", "context-menu", "dialog", "drawer", "javascript", "menu", "react", "reactjs", "select", "tailwind", "tree", "typescript"]
+  }, {
+    "repo": "danmindru/page-ui",
+    "desc": "📃 Landing page UI components for React & Next.js, built on top of TailwindCSS",
+    "officialSite": "https://pageui.dev",
+    "topics": ["components", "landing-page", "next", "nextjs", "nextjs14", "react", "reactjs", "shadcn", "shadcn-ui", "shadcnui", "tailwindcss", "typescript", "ui", "ui-components", "ui-library"]
+  }, {
+    "repo": "saasfly/saasfly",
+    "desc": "Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises",
+    "officialSite": "https://show.saasfly.io",
+    "topics": ["bun", "enterprise-boilerplate", "i18n", "kysely", "landingpage", "monorepo", "nextauth", "nextjs", "nextjs15", "postgresql", "prisma", "react19", "saas-boilerplate", "serverless", "shadcn", "stripe", "tailwindcss", "turborepo", "vercel"]
   }
 ]

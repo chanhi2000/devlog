@@ -4,15 +4,26 @@ title: References
 description: Xcode > References
 icon: iconfont icon-share
 category:
+  - IDE
   - Xcode
   - References
 tag: 
+  - ide
+  - xcode
+  - apple
   - swift
   - objc
   - objective-c
-  - xcode
   - ios
-  - macos  
+  - macos
+head:
+  - - meta:
+    - property: og:title
+      content: Xcode > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/xcode/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -100,6 +111,12 @@ tag:
 ## Xcode Tips | Collections of tips for Xcode.
 
 - [Find Problematic Constraint](https://xcode.tips/find-problematic-constraint/)
+
+---
+
+### Sujan Poudel
+
+- [Manage configurations for the different environment (eg: staging, prod) in Kotlin Multiplatform](https://sujanpoudel.me/blogs/kmp-setup-config-for-different-environment-in-kmp/)
 
 ---
 

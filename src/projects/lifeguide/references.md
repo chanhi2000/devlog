@@ -92,4 +92,10 @@ tag:
 
 ---
 
+## 개발자 박진 블로그
+
+- [연말정산 과 소득공제 그리고 맞벌이 부부 전략](https://jinn-blog.tistory.com/m/172)
+
+---
+
 <TagLinks />

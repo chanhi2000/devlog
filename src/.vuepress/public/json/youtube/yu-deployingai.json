@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Ec3e0dvPXE4", "title": "Build an Agent Workflow that Uses Reflection and Planning to Outperform a Complex Prompt" },
+    { "id": "YIdvcKHovjo", "title": "Stream an Agent to a Copilot UI with Groq’s Fast Inference (Llama 3, Groq, LangGraph)" }
+  ],
+  "playlists": [
     {
       "title": "Open LLMs",
       "videos": [

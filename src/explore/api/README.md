@@ -1131,6 +1131,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://www.svgviewer.dev/svg-to-png"
   preview="https://www.svgviewer.dev/images/logo.svg"/>
 
+```component VPCard
+{
+  "title": "CSS Grid Generator",
+  "desc": "CSS Grid Generator - a user-friendly tool designed for web developers to effortlessly create customizable CSS grids for seamless web development.",
+  "link": "https://cssgridgenerator.io/",
+  "logo": "https://cssgridgenerator.io/favicon.ico",
+  "background": "rgba(51,49,46,0.2)"
+}
+```
+
 <!-- END: Design & Image -->
 
 @tab DevOps

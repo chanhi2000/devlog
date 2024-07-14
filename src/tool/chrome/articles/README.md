@@ -26,7 +26,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/toole/googlechrome/articles/
+      content: https://chanhi2000.github.io/tool/googlechrome/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

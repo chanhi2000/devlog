@@ -84,5 +84,6 @@ head:
 <MyYouTubeItems jsonName="yu-BoostMyTool" /><!-- BoostMyTool -->
 <MyYouTubeItems jsonName="yu-code_name_sagang" /><!-- 사강코딩 -->
 <MyYouTubeItems jsonName="yu-SeleniumExpress" /><!-- Selenium Express -->
+<MyYouTubeItems jsonName="yu-micoding" /><!-- 몰입코딩 아카이브 -->
 
 <TagLinks />

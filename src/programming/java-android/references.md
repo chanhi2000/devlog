@@ -114,7 +114,8 @@ tag:
   - [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
   - [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
   - [Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8)
-  - [Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26)  
+  - [Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26)
+  - [Kotlin’s @Keep Annotation: Keeping Your Code Safe and Sound](https://proandroiddev.com/kotlins-keep-annotation-keeping-your-code-safe-and-sound-cfbf4a4e9659)
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
 - [`kotlin-academy` / How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
@@ -147,6 +148,7 @@ tag:
 - [`joostklitsie` / Stop throwing exceptions!](https://medium.com/@joostklitsie/stop-throwing-exceptions-4282c8472027)
 - [`groww` / Adding Repeat Delays to Android Animations](https://tech.groww.in/adding-repeat-delays-to-android-animations-aeaaee491195)
 - [`ZahraHeydari` / Kotlin MultiPlatform (KMP)](https://medium.com/@ZahraHeydari/kotlin-multiplatform-kmp-4799fdfb69f1)
+- [`proandroiddev` / From Hilt to Koin using Koin Annotations](https://proandroiddev.com/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
 - [`santimattius` / From Hilt to Koin using Koin Annotations](https://medium.com/@santimattius/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
 - [`anitaa_1990` / Kotlin Flows — Fundamentals](https://medium.com/@anitaa_1990/kotlin-flows-fundamentals-7d9b984f12bb)
 
@@ -529,6 +531,12 @@ tag:
 ## Kaushik Gopal's Site
 
 - [A few Kotlin constructs](https://kau.sh/blog/important-kotlin-constructs/)
+
+---
+
+## ahmed el-helw’s blog
+
+- [Single Gesture Interaction between Multiple Composables](https://helw.net/2024/07/01/single-gesture-interaction-between-multiple-composables/)
 
 ---
 

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "icitry",
+    "name": "icitry",
+    "profile": "https://yt3.googleusercontent.com/CQYZEkSGB8UzcauS2GegfX-s_mHOxe__7m2-qfALIPJHrdcx430w-wn-X918rCagT5PlB8HSqBI=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SbUS_7GxiFL0s9iTDNa2Hp31p-P8HB5giyeLPfPEo26g3MEgZ5QwR-TqjggCBbc5xE8ZnGwwYg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9a_O3QHLajw", "title": "Can I Create Video Games Using SQL? (No Game Engine)" },
+    { "id": "uME9wZ_Ikkc", "title": "Can I Conceal Reddit As An Emailing Service?" },
+    { "id": "CYNpdmgwNTM", "title": "Can I Run Youtube Entirely From My Terminal? (No Browser)" },
+    { "id": "7viwRDHBrqE", "title": "Can I Play Pac-Man Directly On Its Source Code? (No Libraries)" }
+  ],
+  "playlists": [
+
+  ]
+}

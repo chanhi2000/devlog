@@ -71,6 +71,11 @@ head:
 - [`@2rV` / AI가 이미 바꾸고 있는 세상 - 넥스트 빅 띵(Next Big Thing)이 이미 시작되었다](https://brunch.co.kr/@@2rV/135)
 - [`@2fEJ` / AI 기술과 UX의 융합 - 프로덕트 매니저의 역할 - UX 디자인 강의 #23](https://brunch.co.kr/@@2fEJ/1379)
 - [`@2rV` / 마크 저커버그가 그리는 AI의 미래와 Meta의 도전 - 애플과 결렬, Meta의 선택: AI 오픈소스와 인터페이스 기술](https://brunch.co.kr/@@2rV/133)
+- [`@2rV` / Benedict Evans - The AI Summer](https://brunch.co.kr/@@2rV/143)
+- [`@2rV` / AI Tool 소개 by Peter Yang](https://brunch.co.kr/@@2rV/141)
+- [`@ZVA` / 애플 인텔리전스는 어떻게 엣지AI의 한계를 뛰어넘었나](https://brunch.co.kr/@@ZVA/705)
+
+<!-- END: brunch.co.kr -->
 
 ---
 
@@ -216,6 +221,19 @@ head:
 ## 개발 도전기
 
 - [요약 - 섹션 1) 커피 한잔 마시며 듣는 AI 이야기](https://soohey.tistory.com/m/81)
+
+---
+
+## 개발 아카이빙
+
+- [Data centric AI란?](https://soohey.tistory.com/m/82)
+
+---
+
+## 드프 DrawingProcess
+
+- [\[논문리뷰\] PETR : Position Embedding Transformation for Multi-View 3D Object Detection (2022 ECCV)](https://csj000714.tistory.com/m/1153)
+- [\[논문리뷰\] CF-3DGS: COLMAP-Free 3D Gaussian Splatting (CVPR 2024 Highlight)](https://csj000714.tistory.com/m/1161)
 
 ---
 

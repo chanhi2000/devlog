@@ -1624,6 +1624,86 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Publish Angular with ASP.NET Core",
+  "desc": "In this article, we are going to cover how to publish Angular SPA production files by configuring ASP.NET Core's project file.",
+  "link": "/explore/articles/code-maze.com/how-to-publish-angular-with-aspnet.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Implementing OAuth2 Refresh Token with Angular and IdentityServer4",
+  "desc": "Let's learn how to implement the OAuth2 refresh token with the angular application and IdentityServer4 as our authorization server app.",
+  "link": "/explore/articles/code-maze.com/oauth2-refresh-token-angular-identityserver4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Role-Based Access Control and Claims with Angular and IdentityServer4",
+  "desc": "In this article, we are going to learn about role-based access control with Angular and IdentityServer4 and how to improve it with Guards",
+  "link": "/explore/articles/code-maze.com/role-based-access-control-angular-identityserver4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Securing Requests from Angular to Web API With Access Tokens",
+  "desc": "Let's learn how to extract Access Token from the user object and use it inside the Angular request to access prtected API resources.",
+  "link": "/explore/articles/code-maze.com/secure-angular-calls-to-webapi-using-access-token.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CQRS and MediatR in ASP.NET Core",
+  "desc": "How to use the MediatR NuGet library in ASP.NET Core, and working with the CQRS and Mediator architectural patterns.",
+  "link": "/explore/articles/code-maze.com/cqrs-mediatr-in-aspnet-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Configuration – Azure Key Vault",
+  "desc": "In this article, we're going to talk about how to protect our sensitive configuration data in the production environment with Azure Key Vault",
+  "link": "/explore/articles/code-maze.com/aspnet-configuration-azure-key-vault.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Securing Sensitive Data Locally in ASP.NET Core",
+  "desc": "We've come to the most important part of this series - securing sensitive data when working with the configuration in ASP.NET Core",
+  "link": "/explore/articles/code-maze.com/aspnet-configuration-securing-sensitive-data.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating Custom Configuration Provider in ASP.NET Core",
+  "desc": "In this article, we are going to create a custom configuration provider that reads our configuration from the database.",
+  "link": "/explore/articles/code-maze.com/aspnet-configuration-creating-custom-provider.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

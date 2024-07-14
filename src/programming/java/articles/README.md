@@ -143,6 +143,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Generics in Java – Explained with Code Examples",
+  "desc": "In your Java program, you might have encountered the dreaded ClassCastException  at runtime while working with different types of objects such as Integer, String, and so on. This error is mostly caused by casting an object to the wrong data type. In this article, you'll learn about generics and...",
+  "link": "/explore/articles/freecodecamp.org/generics-in-java.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

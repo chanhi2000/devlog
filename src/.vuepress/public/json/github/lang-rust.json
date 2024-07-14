@@ -1619,5 +1619,15 @@
     "desc": "The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.",
     "officialSite": "",
     "topics": ["agent", "aws", "aws-secrets-manager", "caching", "secretsmanager"]
+  }, {
+    "repo": "TabbyML/tabby",
+    "desc": "Self-hosted AI coding assistant",
+    "officialSite": "https://tabby.tabbyml.com/",
+    "topics": ["ai", "codegen", "coding-assistant", "coding-language", "developer-experience", "developer-tools", "gen-ai", "ide", "llms"]
+  }, {
+    "repo": "nashaofu/node-screenshots",
+    "desc": "Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.",
+    "officialSite": "",
+    "topics": ["linux", "macos", "native", "nodejs", "screenshot", "windows", "zero-dependencies"]
   }
 ]

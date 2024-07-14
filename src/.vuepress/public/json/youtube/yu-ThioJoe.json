@@ -6,6 +6,19 @@
     "banner": "https://yt3.googleusercontent.com/KpXX7M9jXJeUtS70k8I0oAutRKxa70_Se4mFXUcVjHOazUOzV-Ppndmyq3oNNPoBC_xHNTrP=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fPZ7dOo6xHM", "title": "My Stupid Meme Saved HUNDREDS of Wasted Monitors" },
+    { "id": "PtVOpxeqTkA", "title": "Tech News - Android Find My Network, ISP \"Nutrition Labels\", Microsoft Registry Patch, & More" },
+    { "id": "kyhlqvXzsCE", "title": "⚠️ WARNING: Sabrent's Official Website Has Malicious Fake Firmware (DO NOT DOWNLOAD)" },
+    { "id": "AJxfLf2DysE", "title": "Don't Trust GitHub Download Links" },
+    { "id": "eo1b33NrGts", "title": "The New Security Features in Windows 11 You Should Know About" },
+    { "id": "_AV7rPg26oY", "title": "Thieves Are Showing Up At People's Houses Demanding iPhones" },
+    { "id": "_qeTRFD4K8s", "title": "I Created the ULTIMATE Windows Troubleshooter AI" },
+    { "id": "8czf2lc1nXI", "title": "The Most HATED Image Format" },
+    { "id": "yd1TU4auPNM", "title": "A Company Called MemoryC is Trying to SCREW Me" },
+    { "id": "8xwboip8L8c", "title": "My Motherboard Situation Has Been Resolved" },
+    { "id": "D1Q1aKZWjRY", "title": "You're About To See YouTube Thumbnails Start Changing" },
+    { "id": "ir2VuX5W194", "title": "EVERYONE Should Enable This One Windows Feature!" },
+    { "id": "DMDeYemZdYQ", "title": "Windows OEM Version: What's the ACTUAL Difference?" },
     { "id": "25Txv9MmrYA", "title": "The Malware So Tricky Even Programmers Fall For It" },
     { "id": "2QFJLszvDwg", "title": "The New BIOS Hack That Bypasses Every Antivirus" },
     { "id": "7jf6jiZ9S_M", "title": "The Most Useless Windows Folder" },
@@ -45,6 +58,8 @@
     { "id": "v8t4R-8KAKM", "title": "🚨 URGENT VIDEO 🚨: Chromium Browser Exploit - UPDATE NOW! (Chrome/Edge/Brave/Opera)" }, 
     { "id": "T9ZGLQJnpqY", "title": "How to Catch A Hacker In Your Computer" }, 
     { "id": "EJGvfDinUOY", "title": "The Secret Google Chrome Menus" }
- 
+  ],
+  "playlists": [
+
   ]
 }

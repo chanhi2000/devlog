@@ -27,4 +27,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-vladcampos" /><!-- vladcampos -->
+
 <TagLinks />

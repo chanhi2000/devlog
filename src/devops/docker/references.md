@@ -68,6 +68,7 @@ head:
 - [`tungbq`: Introducing DevOps Toolkit](https://dev.to/tungbq/introducing-devops-toolkit-32fa)
 - [`sukkergris` - Developing .NET Inside a devcontainer](https://dev.to/sukkergris/developing-net-inside-a-devcontainer-38k7)
 - [`jensen1806` / Mastering Multi-Stage Builds in Docker 🚀](https://dev.to/jensen1806/mastering-multi-stage-builds-in-docker-2b58)
+- [`kalkwst` / Advanced Dockerfile Directives](https://dev.to/kalkwst/advanced-dockerfile-directives-193f)
 
 <!-- END: dev.to -->
 
@@ -416,6 +417,12 @@ head:
 ## iximiuz Labs - Learning-by-Doing Platform to master Cloud Native craft
 
 - [How to Learn the Main Docker Commands Without Brute-Force Memorization](https://labs.iximiuz.com/tutorials/docker-container-management-command) <!-- TODO: 작성 (/explore/articles/labs.iximiuz.com/docker-container-management-command.md) -->
+
+---
+
+## Christophe Avonture
+
+- [Don't query your PostgreSQL db anymore, prefer PostgREST](https://www.avonture.be/blog/docker-postgrest/)
 
 ---
 

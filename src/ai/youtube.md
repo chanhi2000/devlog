@@ -35,5 +35,7 @@ head:
 <MyYouTubeItems jsonName="yu-crowdworks_academy" /><!-- 크라우드 아카데미 -->
 <MyYouTubeItems jsonName="yu-44BITSTV" /><!-- 44BITS -->
 <MyYouTubeItems jsonName="yu-fitcevents" /><!-- fitcevents -->
+<MyYouTubeItems jsonName="yu-boiledDeveloper" /><!-- 삶은개발 -->
+<MyYouTubeItems jsonName="yu-DarshilParmar" /><!-- Darshil Parmar -->
 
 <TagLinks />

@@ -223,6 +223,66 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Publish Angular with ASP.NET Core",
+  "desc": "In this article, we are going to cover how to publish Angular SPA production files by configuring ASP.NET Core's project file.",
+  "link": "/explore/articles/code-maze.com/how-to-publish-angular-with-aspnet.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Implementing OAuth2 Refresh Token with Angular and IdentityServer4",
+  "desc": "Let's learn how to implement the OAuth2 refresh token with the angular application and IdentityServer4 as our authorization server app.",
+  "link": "/explore/articles/code-maze.com/oauth2-refresh-token-angular-identityserver4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Role-Based Access Control and Claims with Angular and IdentityServer4",
+  "desc": "In this article, we are going to learn about role-based access control with Angular and IdentityServer4 and how to improve it with Guards",
+  "link": "/explore/articles/code-maze.com/role-based-access-control-angular-identityserver4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Securing Requests from Angular to Web API With Access Tokens",
+  "desc": "Let's learn how to extract Access Token from the user object and use it inside the Angular request to access prtected API resources.",
+  "link": "/explore/articles/code-maze.com/secure-angular-calls-to-webapi-using-access-token.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular Authentication Actions with IdentityServer4",
+  "desc": "In this article, we are going to learn about Angular authentication implementation with the Login and Logout actions, and menu modifications.",
+  "link": "/explore/articles/code-maze.com/angular-authentication-actions-with-identityserver4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Angular OAuth2 OIDC Configuration with IdentityServer4",
+  "desc": "In this article, we are going to setup the Angular OAuth2 OIDC configuration to establish communication with the IdentityServer4 server.",
+  "link": "/explore/articles/code-maze.com/angular-oauth2-oidc-configuration-identityserver4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

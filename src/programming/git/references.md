@@ -91,6 +91,9 @@ head:
 - [`@phukon` - How I write Commits like a pro](https://dev.to/phukon/how-i-write-commits-like-a-pro-340l)
 - [`samuelfaure` - How atomic Git commits dramatically increased my productivity - and will increase yours too](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)
 - [`gauri1504` / Mastering Version Control with Git: Beyond the Basics](https://dev.to/gauri1504/mastering-version-control-with-git-beyond-the-basics-44ib)
+- [Git Commands for Software Engineers](https://dev.to/iamcymentho/git-commands-for-software-engineers-51n8)
+
+<!-- END: dev.to -->
 
 ---
 
@@ -374,6 +377,7 @@ head:
 ## 재우니의 블로그
 
 - [GitHub : Branch 위치에서 Main 코드를 merge 하고, 원격지 push 하기](https://aspdotnet.tistory.com/m/3226)
+- [GitLab - git 명령어로 커밋 기록 삭제 (git : clear commits history)](https://aspdotnet.tistory.com/m/3232)
 
 ---
 

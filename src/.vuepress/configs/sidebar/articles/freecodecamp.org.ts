@@ -8,6 +8,7 @@ export const template: SidebarInfoTemplate = {
     "java", [
       "a-guide-to-object-oriented-programming-principles", // 2024-06-19    
       "introduction-to-solid-principles", // 2024-06-24
+      "generics-in-java", // 2024-07-12
     ]],[
     "java-spring",[
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
@@ -211,6 +212,9 @@ export const template: SidebarInfoTemplate = {
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
       "how-to-install-python-on-a-mac", // 2024-05-09
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
+    ]],[
+    "linux-debain", [
+      "learn-linux-for-beginners-book-basic-to-advanced", // 2024-07-12
     ]],[
     "linux-fedora", [
       "free-linux-crash-course-with-labs", // 2024-06-13
@@ -464,6 +468,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-deploy-a-web-app", // 2024-07-11
       "learn-asynchronous-javascript", // 2024-07-11
       "what-is-trpc", // 2024-07-11
+      "learn-linux-for-beginners-book-basic-to-advanced", // 2024-07-12
+      "generics-in-java", // 2024-07-12
     ]],
   ]),
 }

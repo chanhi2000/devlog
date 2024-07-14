@@ -126,6 +126,36 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Continuous Deployment from GitHub to Azure App Service",
+  "desc": "In this article, we are going to learn how to configure Continuous Deployment (CD) from GitHub to Azure App Service using Deployment Center.",
+  "link": "/explore/articles/code-maze.com/continuous-deployment-from-github-to-azure-app-service.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Publishing an ASP.NET Core App to Azure App Service Using Visual Studio",
+  "desc": "In this article, we'll see how to publish an ASP.NET web application to an Azure App Service using Visual Studio.",
+  "link": "/explore/articles/code-maze.com/publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Configuration – Azure Key Vault",
+  "desc": "In this article, we're going to talk about how to protect our sensitive configuration data in the production environment with Azure Key Vault",
+  "link": "/explore/articles/code-maze.com/aspnet-configuration-azure-key-vault.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -48,12 +48,24 @@ tag:
 - [`@gauryan` - Rust: Auto-Reloading Development Server (라이브 리로딩 서](https://blex.me/@gauryan/rust-auto-reloading-development-server-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EB%A6%AC%EB%A1%9C%EB%94%A9-%EC%84%9C)
 - [`@claffee` - 러스트 도전!](https://blex.me/@claffee/%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%A0%84)
 
+<!-- blex.me -->
+
 ---
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`francescoxx` - Rust 🦀 CRUD Rest API with Docker 🐳](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
 - [`emmanuelantony2000` - Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
+
+<!-- END: dev.to -->
+
+---
+
+## Brunch
+
+- [`@1aft` / Rust : 참조 & 역참조 - #Ref #DeRef](https://brunch.co.kr/@@1aft/134)
+
+<!-- END: brunch.co.kr -->
 
 ---
 
@@ -371,6 +383,12 @@ tag:
 ## Gauge - Solving the Microservices/Monolith Dilemma
 
 - [Parsing Python ASTs 20x Faster with Rust](https://www.gauge.sh/blog/parsing-python-asts-20x-faster-with-rust)
+
+---
+
+## Sylvain Kerkour
+
+- [How to organize large Rust codebases](https://kerkour.com/rust-how-to-organize-large-workspaces)
 
 ---
 

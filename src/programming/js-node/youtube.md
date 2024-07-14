@@ -97,7 +97,6 @@ head:
 <MyYouTubeItems jsonName="yu-thegreat-programmers" /><!-- 개발자의품격 -->
 <MyYouTubeItems jsonName="yu-NetNinja" /><!-- The Net Ninja -->
 <MyYouTubeItems jsonName="yu-CognitiveSurge" /><!-- Karl Hadwen -->
-<MyYouTubeItems jsonName="yu-frongt" /><!-- 프롱드 -->
 <MyYouTubeItems jsonName="yu-KentCDodds-vids" /><!-- Kent C. Dodds -->
 <MyYouTubeItems jsonName="yu-awesome-coding" /><!-- Awesome -->
 <MyYouTubeItems jsonName="yu-envatotuts" /><!-- Envato Tuts+ -->

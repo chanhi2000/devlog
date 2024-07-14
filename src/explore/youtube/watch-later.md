@@ -75,6 +75,7 @@ tags:
 <MyYouTubeItems jsonName="yu-TitusTechTalk" /><!-- Titus Tech Talk -->
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
+<MyYouTubeItems jsonName="yu-thefrankring" /><!-- Frank Ring -->
 
 <TagLinks />
 
@@ -83,11 +84,6 @@ tags:
 [yu-rj-code-advance-en]: https://www.youtube.com/@RJCodeAdvanceEN
 [yu-user-fp8lc6ju1n]: https://www.youtube.com/@user-fp8lc6ju1n
 [yu-dev_jeongdaeri]: https://www.youtube.com/@dev_jeongdaeri
-[yu-sketch-2-react]: https://www.youtube.com/@Sketch2React
-[yu-be9952]: https://www.youtube.com/@be9952
-[yu-swiftwithyash]: https://www.youtube.com/@swiftwithyash
-[yu-creativeclue2772]: https://www.youtube.com/@creativeclue2772
-[yu-jj362choi]: https://www.youtube.com/@jj362choi
 [yu-tadaspetra]: https://www.youtube.com/@tadaspetra
 [yu-selfhosted]: https://www.youtube.com/@selfhosted
 [yu-gorandev]: https://www.youtube.com/@gorandev
@@ -125,5 +121,3 @@ tags:
 [yu-coder-journey]: https://www.youtube.com/@Coderjourney
 [yu-user-ls2vk8ic9v]: https://www.youtube.com/@user-ls2vk8ic9v
 [yu-nathaniel-jordon]: https://www.youtube.com/@NathanielJordon
-[yu-sonulodha9215]: https://www.youtube.com/@sonulodha9215
-[yu-codewiththilaks]: https://www.youtube.com/@codewiththilaks

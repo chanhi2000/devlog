@@ -2429,5 +2429,30 @@
     "desc": "Export all uploaded slides from slideshare",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "szimek/sharedrop",
+    "desc": "Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop",
+    "officialSite": "https://www.sharedrop.io",
+    "topics": ["ember", "ember-cli", "file-sharing", "javascript", "peer-to-peer", "webrtc"]
+  }, {
+    "repo": "jaredhanson/passport",
+    "desc": "Simple, unobtrusive authentication for Node.js.",
+    "officialSite": "https://www.passportjs.org?utm_source=github&utm_medium=referral&utm_campaign=passport&utm_content=about",
+    "topics": ["express", "nodejs", "oauth", "oauth2", "openid", "openid-connect", "passport", "saml"]
+  }, {
+    "repo": "nairihar/worker_map",
+    "desc": "🧵 Tread-safe map structure for worker_threads.",
+    "officialSite": "",
+    "topics": ["map", "threads", "worker", "worker-threads"]
+  }, {
+    "repo": "tagconcierge/consent-banner-js",
+    "desc": "A zero-dependency, lightweight (~3kB), consent platform agnostic, cookie banner for any website (compatible with Google Consent Mode).",
+    "officialSite": "",
+    "topics": ["consent", "consent-management", "consent-mode", "consent-mode-v2", "cookie-consent", "google-analytics", "google-tag", "google-tag-manager", "no-dependencies", "zero-dependency"]
+  }, {
+    "repo": "WebReflection/proxy-pants",
+    "desc": "Secured and reliable Proxy based utilities for more or less common tasks.",
+    "officialSite": "https://javascript.plainenglish.io/about-trusting-javascript-execution-8c6b478d6021",
+    "topics": ["proxy", "security", "utilities", "utility"]
   }
 ]

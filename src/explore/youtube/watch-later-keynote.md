@@ -63,7 +63,6 @@ tag:
 <MyYouTubeItems jsonName="yu-FacebookOpenSource" /><!-- Meta Open Source -->
 <MyYouTubeItems jsonName="yu-softwarecraftsmanshipluxem8137" />
 <MyYouTubeItems jsonName="yu-GOTO-" /><!-- GOTO Conferences -->
-<MyYouTubeItems jsonName="yu-AWSKorea" /><!-- Amazon Web Services Korea -->
 <MyYouTubeItems jsonName="yu-OracleKorea" /><!-- Oracle Korea -->
 <MyYouTubeItems jsonName="yu-ndc" /><!-- NDC Conferences-->
 <MyYouTubeItems jsonName="yu-vmwarecloudnativeapps816" /><!-- VMware Cloud Native Apps -->

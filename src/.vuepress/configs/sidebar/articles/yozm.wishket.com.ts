@@ -177,10 +177,10 @@ export const template: SidebarInfoTemplate = {
       "redis", [
         "2296", // 2023-11-01
       ]],[
-      "intellij-idea", [
+      "jetbrains-idea", [
         "2499", // 2024-03-18
       ]],[
-      "writerside", [
+      "jetbrains-writerside", [
         "2314", // 2023-11-13
       ]],[
       "vscode", [

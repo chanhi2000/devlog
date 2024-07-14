@@ -99,5 +99,6 @@ head:
 <MyYouTubeItems jsonName="yu-TonyAlicea" /><!-- Tony Alicea -->
 <MyYouTubeItems jsonName="yu-syntaxfm" /><!-- Syntax -->
 <MyYouTubeItems jsonName="yu-fknight" /><!-- ForrestKnight -->
+<MyYouTubeItems jsonName="yu-frongt" /><!-- 프롱드 -->
 
 <TagLinks />

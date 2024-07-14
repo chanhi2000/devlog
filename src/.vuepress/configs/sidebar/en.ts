@@ -1503,6 +1503,7 @@ export const sidebarEn = sidebar({
       children: [
         '/tool/xcode/README.md',
         '/tool/xcode/references.md',
+        '/tool/xcode/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
@@ -1517,18 +1518,37 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-intellijidea',
       children: [
-        '/tool/intellij-idea/README.md',
-        '/tool/intellij-idea/plugins.md',
-        '/tool/intellij-idea/troubleshooting.md',
-        '/tool/intellij-idea/references.md',
-        '/tool/intellij-idea/youtube.md',
+        '/tool/jetbrains-idea/README.md',
+        '/tool/jetbrains-idea/plugins.md',
+        '/tool/jetbrains-idea/troubleshooting.md',
+        '/tool/jetbrains-idea/references.md',
+        '/tool/jetbrains-idea/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/tool/intellij-idea/articles/README.md',
-            asb.yozm("intellij-idea")
+            '/tool/jetbrains-idea/articles/README.md',
+            asb.yozm("jetbrains-idea")
+          ]
+        }
+      ]
+    }, {
+      text: 'PyCharm',
+      collapsible: true,
+      icon: 'iconfont icon-pycharm',
+      children: [
+        '/tool/jetbrains-pycharm/README.md',
+        '/tool/jetbrains-pycharm/plugins.md',
+        '/tool/jetbrains-pycharm/troubleshooting.md',
+        '/tool/jetbrains-pycharm/references.md',
+        '/tool/jetbrains-pycharm/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/jetbrains-pycharm/articles/README.md',
           ]
         }
       ]
@@ -1537,16 +1557,16 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-jetbranis',
       children: [
-        '/tool/writerside/README.md',
-        '/tool/writerside/references.md',
-        '/tool/writerside/youtube.md',
+        '/tool/jetbrains-writerside/README.md',
+        '/tool/jetbrains-writerside/references.md',
+        '/tool/jetbrains-writerside/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/tool/writerside/articles/README.md',
-            asb.yozm("writerside")
+            '/tool/jetbrains-writerside/articles/README.md',
+            asb.yozm("jetbrains-writerside")
           ]
         }
       ]
@@ -2174,6 +2194,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/linux-debian/articles/README.md',
+            asb.freecodecamp("linux-debian"),
             asb.digitalocean("linux-debian"),
             asb.codemaze("linux-debian"),
             asb.nhn("linux-debian"),

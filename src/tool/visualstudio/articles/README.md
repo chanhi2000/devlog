@@ -54,6 +54,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Publishing an ASP.NET Core App to Azure App Service Using Visual Studio",
+  "desc": "In this article, we'll see how to publish an ASP.NET web application to an Azure App Service using Visual Studio.",
+  "link": "/explore/articles/code-maze.com/publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

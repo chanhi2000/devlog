@@ -90,6 +90,9 @@ head:
 - [`@jwlee010523` / 연결 리스트로 구현한 큐](https://velog.io/@jwlee010523/linked-list-queue)
 - [`@jwlee010523` / 트리(Tree)](https://velog.io/@jwlee010523/tree)
 - [`@jwlee010523` / 이진 탐색 트리(Binary Search Tree)](https://velog.io/@jwlee010523/Binary-Search-Tree)
+- [`@jwlee010523` / 백준 2346 - C++](https://velog.io/@jwlee010523/BOJ-2346-cpp)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -191,6 +194,8 @@ head:
 - [\[Q&A\] 문자열의 길이가 이상합니다.](https://m.blog.naver.com/tipsware/223506029759)
 - [\[Q&A\] 클래스의 멤버 함수 구현부 이동하기](https://m.blog.naver.com/tipsware/223507246414)
 - [MFC 프로그래밍 공부](https://m.blog.naver.com/tipsware/223508063091)
+- [\[Q&A\] 32비트와 64비트를 만족하는 자료형을 어떻게 사용해야 하나요?](https://m.blog.naver.com/tipsware/223509782743)
+- [\[Q&A\] CString 클래스를 런타임 함수나 API 함수에 사용하려면 어떻게 해야 하나요?](https://m.blog.naver.com/tipsware/223510086450)
 
 <!-- END: blog.naver.com/tipsware/ -->
 
@@ -233,6 +238,7 @@ head:
 
 - [C++ - C++23 `std::print` 소개](https://jacking75.github.io/Cpp_20240413/)
 - [Visual Studio에서 C++로 코파일럿 채팅을 사용하기 위한 빠른 팁](https://jacking75.github.io/tech-ai_0507/)
+- [Visual C++ - 리팩터링 도구](https://jacking75.github.io/VS_20240712/)
 
 ---
 

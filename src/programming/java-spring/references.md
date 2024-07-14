@@ -318,6 +318,7 @@ head:
 - [Mybatis resultMap으로 쿼리 결과 하나의 DTO에 매핑하기 & Enum 매핑](https://bbogle2.tistory.com/m/entry/Mybatis-resultMap%EC%9C%BC%EB%A1%9C-%EC%BF%BC%EB%A6%AC-%EA%B2%B0%EA%B3%BC-%ED%95%98%EB%82%98%EC%9D%98-DTO%EC%97%90-%EB%A7%A4%ED%95%91%ED%95%98%EA%B8%B0-Enum-%EB%A7%A4%ED%95%91)
 - [MyBatis INSERT 시 Auto Increment 값 리턴 받기](https://bbogle2.tistory.com/m/entry/MyBatis-INSERT-%EC%8B%9C-Auto-Increment-%EA%B0%92-%EB%A6%AC%ED%84%B4-%EB%B0%9B%EA%B8%B0)
 - [데이터 전송 시 DTO vs Map](https://bbogle2.tistory.com/m/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-%EC%8B%9C-DTO-vs-Map)
+- [사이드 프로젝트에서 Node JS를 선택한 이유](https://bbogle2.tistory.com/m/entry/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-Node-JS%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0)
 
 ### SivaLabs
 
@@ -402,6 +403,9 @@ head:
 - [7.1. 책 상세 화면 개요](https://ysedeveloper.tistory.com/m/entry/71-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%9A%94)
 - [7.2. 책 상세 화면 응답 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/72-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EC%9D%91%EB%8B%B5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [7.3. 책 엔티티 클래스 수정하기](https://ysedeveloper.tistory.com/m/entry/73-%EC%B1%85-%EC%97%94%ED%8B%B0%ED%8B%B0-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
+- [7.4.책 서비스 클래스에 읽기 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/74-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%9D%BD%EA%B8%B0-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [7.5. 책 컨트롤러 클래스에 읽기 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/75-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%9D%BD%EA%B8%B0-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [7.6. 책 상세 뷰 작성하기](https://ysedeveloper.tistory.com/m/entry/76-%EC%B1%85-%EC%83%81%EC%84%B8-%EB%B7%B0-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 
 ### Suhwan Jee's blog
 
@@ -450,7 +454,8 @@ head:
 
 ### 개발하는 자몽
 
-- [[Spring Security] 예외 처리하기](https://backend-jaamong.tistory.com/m/169)
+- [\[Spring Security\] 예외 처리하기](https://backend-jaamong.tistory.com/m/169)
+- [\[Spring Boot / Error\] Required request body is missing](https://backend-jaamong.tistory.com/m/173)
 
 ### 얇고 넓은 개발 블로그
 

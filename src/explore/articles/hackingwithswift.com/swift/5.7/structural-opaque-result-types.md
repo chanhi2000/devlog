@@ -49,7 +49,39 @@ isOriginal: false
 
 > Available from Swift 5.7
 
-<!-- TODO: 작성 -->
+[SE-0328 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0328-structural-opaque-result-types.md) widens the range of places that opaque result types can be used.
+
+For example, we can now return more than one opaque type at a time:
+
+```swift
+import SwiftUI
+
+func showUserDetails() -> (some Equatable, some Equatable) {
+    (Text("Username"), Text("@twostraws"))
+}
+```
+
+We can also return opaque types:
+
+```swift
+func createUser() -> [some View] {
+    let usernames = ["@frankefoster", "@mikaela__caron", "@museumshuffle"]
+    return usernames.map(Text.init)
+}
+```
+
+Or even send back a function that itself returns an opaque type when called:
+
+```swift
+func createDiceRoll() -> () -> some View {
+    return {
+        let diceRoll = Int.random(in: 1...6)
+        return Text(String(diceRoll))
+    }
+}
+```
+
+So, this is another great example of Swift harmonizing the language to make things consistently possible.
 
 ::: details Other Changes in Swift 5.7
 

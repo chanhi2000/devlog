@@ -165,5 +165,9 @@ head:
 <MyYouTubeItems jsonName="yu-Eduonix" /><!-- Eduonix Learning Solutions -->
 <MyYouTubeItems jsonName="yu-teddynote" /><!-- 테디노트 TeddyNote -->
 <MyYouTubeItems jsonName="yu-njm0810" /><!-- 긍정왕수전노 경제적 자유 -->
+<MyYouTubeItems jsonName="yu-SkillLeapAI" /><!-- Skill Leap AI -->
+<MyYouTubeItems jsonName="yu-tom-delalande" /><!-- Tom Delalande -->
+<MyYouTubeItems jsonName="yu-deployingai" /><!-- Deploying AI -->
+<MyYouTubeItems jsonName="yu-micoding" /><!-- 몰입코딩 아카이브 -->
 
 <TagLinks />

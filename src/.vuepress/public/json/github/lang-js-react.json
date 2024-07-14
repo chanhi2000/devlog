@@ -39,5 +39,10 @@
     "desc": "The power of webflow for your React app",
     "officialSite": "https://onlook.dev",
     "topics": ["browser", "electron", "react", "tailwindcss", "typescript", "vitejs"]
+  }, {
+    "repo": "TomaszRewak/js-spread-grid",
+    "desc": "JS library for creating high-performance grid-based applications",
+    "officialSite": "https://spread-grid.tomasz-rewak.com/",
+    "topics": ["canvas", "dash", "grid", "high-performance", "interactive", "javascript", "plotly", "react", "reactjs", "table"]
   }
 ]

@@ -157,6 +157,14 @@ export const template: SidebarInfoTemplate = {
       "identityserver4-ui-webapi-basic-security", // 2024-01-31
       "identityserver4-integration-aspnetcore", // 2022-01-11
       "using-refresh-tokens-in-asp-net-core-authentication", // 2024-04-04
+      "how-to-publish-angular-with-aspnet", // 2022-05-17
+      "oauth2-refresh-token-angular-identityserver4", // 2021-12-27
+      "role-based-access-control-angular-identityserver4", // 2021-12-27
+      "secure-angular-calls-to-webapi-using-access-token", // 2024-01-31
+      "cqrs-mediatr-in-aspnet-core", // 2024-04-04
+      "aspnet-configuration-azure-key-vault", // 2021-12-27
+      "aspnet-configuration-securing-sensitive-data", // 2022-10-12
+      "aspnet-configuration-creating-custom-provider", // 2022-10-12
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]],[
     "cs-blazor", [
@@ -168,6 +176,10 @@ export const template: SidebarInfoTemplate = {
       "blazor-webassembly-forms-form-validation", // 2022-05-22
       "blazor-webassembly-file-upload", // 2024-01-31
       "blazor-webassembly-put-delete-calling-javascript-functions", // 2021-12-29
+      "continuous-deployment-from-github-to-azure-app-service", // 2021-12-27
+      "using-access-token-with-blazor-webassembly-httpclient", // 2022-05-23
+      "how-to-secure-blazor-webassembly-with-identityserver4", // 2021-12-27
+      "creating-blazor-webassembly-signalr-charts", // 2021-12-27
     ]],[
     "js-angular", [
       "net-core-web-development-part7", // 2022-04-20
@@ -188,6 +200,12 @@ export const template: SidebarInfoTemplate = {
       "netcore-signalr-angular-realtime-charts", // 2022-05-05
       "upload-files-dot-net-core-angular", // 2024-01-31
       "consuming-graphql-api-angular", // 2024-01-31
+      "how-to-publish-angular-with-aspnet", // 2022-05-17
+      "oauth2-refresh-token-angular-identityserver4", // 2021-12-27
+      "role-based-access-control-angular-identityserver4", // 2021-12-27
+      "secure-angular-calls-to-webapi-using-access-token", // 2024-01-31
+      "angular-authentication-actions-with-identityserver4", // 2021-12-27
+      "angular-oauth2-oidc-configuration-identityserver4", // 2021-12-27
     ]],[
     "docker", [
       "why-docker-docker-cli-examples", // 2020-09-02
@@ -208,9 +226,13 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "github", [
       "deploy-aspnetcore-webapi-kubernetes-cluster-azure", // 2024-01-31
+      "continuous-deployment-from-github-to-azure-app-service", // 2021-12-27
     ]],[
     "azure", [
       "deploy-aspnetcore-webapi-kubernetes-cluster-azure", // 2024-01-31
+      "continuous-deployment-from-github-to-azure-app-service", // 2021-12-27
+      "publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio", // 2024-01-31
+      "aspnet-configuration-azure-key-vault", // 2021-12-27
     ]],[
     "security", [
       "owasp-top-10-injection", // 2022-01-11
@@ -229,6 +251,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "visualstudio", [
       "visual-studio-productivity", // 2022-02-20
+      "publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio", // 2024-01-31
     ]],[
     "postgres", [
       "configure-postgresql-ef-core", // 2022-01-13
@@ -408,6 +431,22 @@ export const template: SidebarInfoTemplate = {
       "blazor-webassembly-forms-form-validation", // 2022-05-22
       "blazor-webassembly-file-upload", // 2024-01-31
       "blazor-webassembly-put-delete-calling-javascript-functions", // 2021-12-29
+      "continuous-deployment-from-github-to-azure-app-service", // 2021-12-27
+      "using-access-token-with-blazor-webassembly-httpclient", // 2022-05-23
+      "how-to-secure-blazor-webassembly-with-identityserver4", // 2021-12-27
+      "refresh-token-with-blazor-webassembly-and-asp-net-core-web-api", // 2024-01-31
+      "how-to-publish-angular-with-aspnet", // 2022-05-17
+      "oauth2-refresh-token-angular-identityserver4", // 2021-12-27
+      "publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio", // 2024-01-31
+      "role-based-access-control-angular-identityserver4", // 2021-12-27
+      "secure-angular-calls-to-webapi-using-access-token", // 2024-01-31
+      "creating-blazor-webassembly-signalr-charts", // 2021-12-27
+      "angular-authentication-actions-with-identityserver4", // 2021-12-27
+      "angular-oauth2-oidc-configuration-identityserver4", // 2021-12-27
+      "cqrs-mediatr-in-aspnet-core", // 2024-04-04
+      "aspnet-configuration-azure-key-vault", // 2021-12-27
+      "aspnet-configuration-securing-sensitive-data", // 2022-10-12
+      "aspnet-configuration-creating-custom-provider", // 2022-10-12
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])

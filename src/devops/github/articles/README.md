@@ -126,6 +126,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Continuous Deployment from GitHub to Azure App Service",
+  "desc": "In this article, we are going to learn how to configure Continuous Deployment (CD) from GitHub to Azure App Service using Deployment Center.",
+  "link": "/explore/articles/code-maze.com/continuous-deployment-from-github-to-azure-app-service.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

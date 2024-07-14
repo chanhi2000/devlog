@@ -20,7 +20,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/toole/figma/articles/
+      content: https://chanhi2000.github.io/tool/figma/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

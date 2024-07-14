@@ -6,6 +6,22 @@
     "banner": "https://yt3.googleusercontent.com/CJ3jXN8bFt7hqwXZky40MPIkiX71MNlHFB84Vb4Ld54b7FNb3JZ-hY-iwMCCEQ3z_MGjRNAKpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ocM_0yReFzM", "title": "Custom Navigation Drawer component with Jetpack Compose" },
+    { "id": "8y65xBHDHK0", "title": "Load Image URL on both Android and iOS with Ease! 🌼 Kotlin Multiplatform" },
+    { "id": "1ZWJ8V37Ay0", "title": "Efficient Development of iOS/Android Apps with Kotlin & Jetpack Compose" },
+    { "id": "F3AYIuajrng", "title": "NEW Official Shared Element Transition in Jetpack Compose is on Fire! 😍" },
+    { "id": "62EICN_GqbQ", "title": "Show Info Message on both Android/iOS - MessageBar KMP Library" },
+    { "id": "NPUehp4KpSs", "title": "Ultimate Guide on Publishing KMP Library on a New Sonatype Central Platform" },
+    { "id": "r1gpJK7b0S4", "title": "No more String-based Routes! New Compose Navigation Release" },
+    { "id": "3QGNaXVbdjM", "title": "Practice with Quizzes and Speed up your Learning - Kozzie App" },
+    { "id": "5tTKdzEsRNs", "title": "New Smart Item Composition for Better Performance - ContextualFlowRow" },
+    { "id": "GzQ4VNjFnRY", "title": "Building your first Desktop app (Windows, Mac, Linux) using Kotlin/Compose Multiplatform" },
+    { "id": "EuBXe-ZZMWE", "title": "Everything you need to know about Kotlin 2.0 🟣" },
+    { "id": "Xm6f_QF6gKk", "title": "Persist Key-Value pair Locally on both Android/iOS - DataStore KMP" },
+    { "id": "mLfqCyO8-Bc", "title": "User Authentication with Kotlin/Compose Multiplatform for iOS/Android" },
+    { "id": "RGtZXBm30RQ", "title": "Ultimate Guide on Synchronized Concurrency and Thread-safety with Kotlin Mutex 🟠" },
+    { "id": "E8X94pCJ2zs", "title": "Remote Config with Google Sheets is Crazy! 🤯 (Android)" },
+    { "id": "w3TNCRwXaXM", "title": "App Icon & Splash Screen for iOS and Android (Dark/Light) - Compose Multiplatform" },
     { "id": "Zzb-fryOazs", "title": "Here's What's NEW in Compose Multiplatform v1.6.0" },
     { "id": "L39NrirKohg", "title": "ScreenModel: Kotlin Multiplatform ViewModel Solution for Android/iOS - Voyager" },
     { "id": "LM6B03sCFxY", "title": "Useful Wrapper class That I use on a Daily Basis! - RequestState()" },
@@ -93,5 +109,8 @@
     { "id": "4uh-TWfs2dE", "title": "Build a Website from Scratch with Kotlin and Jetpack Compose | Online Course" }, 
     { "id": "ZJJx8tLX89A", "title": "Everything you need to know about Dependency Injection" }, 
     { "id": "uO6igFsa5y0", "title": "Single/Multiple Permission Request with Jetpack Compose | Android Studio Tutorial" }
+  ],
+  "playlists": [
+
   ]
 }

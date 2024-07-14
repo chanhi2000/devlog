@@ -420,6 +420,12 @@ tag:
 
 ---
 
+## Badger Forge – Metal with Marcus
+
+- [The Six Dumbest Ideas in Computer Security](https://www.ranum.com/security/computer_security/editorials/dumb/)
+
+---
+
 ## Project(s)
 
 ```component VPCard

@@ -122,10 +122,11 @@ head:
 
 ---
 
-## Simon William 
+## Simon William
 
 - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers)
 - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus)
+- [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
 
 ---
 
@@ -432,5 +433,12 @@ head:
 
 - [\[생각 정리\] ChatGPT 유료 사용 (ChatGPT Plus 구독)이 필요한 8가지 이유 + 저렴하게 이용하는 방법(feat. OTT 공유 플렛폼: GoingBus)](https://csj000714.tistory.com/m/1149)
 
+---
+
+## 사진찍는 웹 개발자의 블로그
+
+- [ChatGPT랑 비슷한 File Input 컴포넌트 구현하고 react-hook-form에 연동하기(파일 누적 관리하기)](https://donghoon-song.github.io/react.js/chatgpt랑-비슷한-file-input-컴포넌트-구현하고-react-hook-form에-연동하기(파일-누적-관리하기)/)
+
+---
 
 <TagLinks />

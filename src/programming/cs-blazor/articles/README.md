@@ -124,6 +124,46 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Using Access Token with Blazor WebAssembly HttpClient",
+  "desc": "In this article, we are going to learn how to use access token with Blazor WebAssembly HttpClinet to send authorized requests to the API.",
+  "link": "/explore/articles/code-maze.com/using-access-token-with-blazor-webassembly-httpclient.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Secure Blazor WebAssembly with IdentityServer4",
+  "desc": "In this article, we are going to learn how to secure Blazor WebAssembly with IdentityServer4 by using the OAuth2 and OIDC protocols.",
+  "link": "/explore/articles/code-maze.com/how-to-secure-blazor-webassembly-with-identityserver4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Refresh Token with Blazor WebAssembly and ASP.NET Core Web API",
+  "desc": "In this article, we are going to learn how to refresh token with Blazor WebAssembly application and ASP.NET Core Web API.",
+  "link": "/explore/articles/code-maze.com/refresh-token-with-blazor-webassembly-and-asp-net-core-web-api.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating Real-Time Charts with Blazor WebAssembly and SignalR",
+  "desc": "In this article, we'll learn how to use Blazor WebAssembly and SignalR to enable real-time communication between the API and Client app",
+  "link": "/explore/articles/code-maze.com/creating-blazor-webassembly-signalr-charts.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

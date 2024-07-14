@@ -21,7 +21,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/toole/nmap/articles/
+      content: https://chanhi2000.github.io/tool/nmap/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

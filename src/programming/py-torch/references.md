@@ -40,6 +40,7 @@ head:
 - [Road to Sora: OpenAI의 Sora를 이해하기 위한 선행 연구 소개 (feat. Oxen.AI)](https://discuss.pytorch.kr/t/road-to-sora-openai-sora-feat-oxen-ai/3846)
 - [[2024/04/22 ~ 04/28] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-04-22-04-28-ml-top-ml-papers-of-the-week/4237)
 - [\[2024/06/03 ~ 06/09\] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-06-03-06-09-ml-top-ml-papers-of-the-week/4600)
+- [VLMs are blind: 시각-언어 모델이 실패하는 (인간에게는 쉬운) 시각적 작업들에 대한 연구 (feat. BlindTest)](https://discuss.pytorch.kr/t/vlms-are-blind-feat-blindtest/4813/1)
 
 ---
 

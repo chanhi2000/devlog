@@ -1664,5 +1664,15 @@
     "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
     "officialSite": "https://mkcert.dev",
     "topics": ["certificates", "chrome", "firefox", "https", "ios", "linux", "local-development", "localhost", "macos", "root-ca", "tls", "windows"]
+  }, {
+    "repo": "siderolabs/talos",
+    "desc": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+    "officialSite": "https://www.talos.dev",
+    "topics": ["cloud-native", "containerd", "go", "grpc", "kubernetes", "kubernetes-distribution", "linux", "linux-distribution", "musl"]
+  }, {
+    "repo": "picosh/git-pr",
+    "desc": "the easiest git collaboration tool",
+    "officialSite": "https://pr.pico.sh",
+    "topics": []
   }
 ]

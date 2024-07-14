@@ -43,6 +43,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog.io
+
+- [`@leejh3224` / MacOS Sonoma에서 DNS 설정이 동작하지 않는 이슈 해결](https://velog.io/@leejh3224/MacOS-Sonoma%EC%97%90%EC%84%9C-DNS-%EC%84%A4%EC%A0%95%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0)
+
+<!-- END: velog.io -->
+
+---
+
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@DevMinGeonPark` - M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
@@ -281,7 +289,7 @@ head:
 
 ## Adrian's Corner
 
-- [Installing macOS Sequoia Beta in a Separate APFS Volume](https://adrian.schoenig.me/blog/2024/06/13/installing-macos-sequoia-in-a-separate-volume/?utm_campaign=iOS%20Dev%20Weekly)
+- [Installing macOS Sequoia Beta in a Separate APFS Volume](https://adrian.schoenig.me/blog/2024/06/13/installing-macos-sequoia-in-a-separate-volume/)
 
 ---
 

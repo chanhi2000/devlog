@@ -41,11 +41,16 @@ head:
 
 - [`louaiboumediene` / Mastering Relational Database Design: A Comprehensive Guide](https://dev.to/louaiboumediene/mastering-relational-database-design-a-comprehensive-guide-3jh8)
 
+<!-- END: dev.to -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@ehddk0133` / \[자격증\] 비전공자 SQLD 1트 + 3일 공부 합격 후기](https://velog.io/@ehddk0133/%EC%9E%90%EA%B2%A9%EC%A6%9D-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-SQLD-1%ED%8A%B8-3%EC%9D%BC-%EA%B3%B5%EB%B6%80-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)
+- [`@jeong_hun_hui` / 트랜잭션의 동시성 문제를 알아보자](https://velog.io/@jeong_hun_hui/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+
+<!-- END: velog.io -->
 
 ---
 

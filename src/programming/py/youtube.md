@@ -125,5 +125,7 @@ head:
 <MyYouTubeItems jsonName="yu-TechWithAlexduta" /><!-- Tech with Alex -->
 <MyYouTubeItems jsonName="yu-JsKIM_0_0" /><!-- 김종상 -->
 <MyYouTubeItems jsonName="yu-JohnWatsonRooney" /><!-- John Watson Rooney -->
+<MyYouTubeItems jsonName="yu-KeithGalli" /><!-- Keith Galli -->
+<MyYouTubeItems jsonName="yu-micoding" /><!-- 몰입코딩 아카이브 -->
 
 <TagLinks />

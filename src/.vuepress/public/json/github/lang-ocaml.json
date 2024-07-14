@@ -19,5 +19,10 @@
     "desc": "An engine for displaying slips, the next-gen version of slides",
     "officialSite": "",
     "topics": ["slides", "slideshow", "slideshow-html", "slideshow-library", "slideshow-maker", "slip", "slips"]
+  }, {
+    "repo": "mazeppa-dev/mazeppa",
+    "desc": "A modern supercompiler for call-by-value functional languages",
+    "officialSite": "",
+    "topics": ["compiler", "functional", "functional-programming", "intermediate-representation", "language", "optimization", "performance", "program-analysis", "programming-language", "static-analysis", "supercompiler", "symbolic-execution"]
   }
 ]

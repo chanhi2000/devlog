@@ -130,6 +130,9 @@ head:
 - [`@yeonns` / AWS Fargate는 얼마나 자원을 쓰고 있을까](https://velog.io/@yeonns/how-much-resources-is-aws-fargate-using)
 - [`@endmoseung` / 개발자가 클라우드를 공부하는 이유](https://velog.io/@endmoseung/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [`@yeonns` / Cell-based Architecture에 대해 알아보자](https://velog.io/@yeonns/what-is-cell-based-architecture)
+- [`@dradnats1012` / 인프라 스터디 2주차](https://velog.io/@dradnats1012/%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -328,6 +331,8 @@ head:
 - [\[Cloud\]\(EN\) Case study of incident response for cloud service provider (AWS, GCP, Azure) API usage issue](https://twpower.github.io/342-case-study-of-incident-response-for-cloud-service-provider-api-usage-issue-en)
 - [\[AWS\] API 호출에서 Timeout과 같은 네트워크 문제 발생 시 AWS CloudTrail에 대한 기록 여부](https://twpower.github.io/345-aws-cloudtrail-log-result-of-api-call-in-network-issue-such-as-timeout)
 - [\[AWS\]\(EN\) AWS CloudTrail log result of api call in network issue such as timeout](https://twpower.github.io/344-aws-cloudtrail-log-result-of-api-call-in-network-issue-such-as-timeout-en)
+- [\[AWS\] DynamoDB의 Auto Scaling 사용시 Spike(갑작스러운 요청 증가)에 대해 Throttling이 발생한 사례](https://twpower.github.io/351-case-of-throttling-due-to-traffic-spikes-in-dynamodb-auto-scaling)
+- [\[AWS\](EN) Case of throttling due to spike(sudden traffic increase) when using auto scaling in DynamoDB](https://twpower.github.io/350-case-of-throttling-due-to-traffic-spikes-in-dynamodb-auto-scaling-en)
 
 ---
 
@@ -456,6 +461,12 @@ head:
 ## Cloud Security Club
 
 - [Well, it's just an AWS Account ID!](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
+
+---
+
+## HelloWorld..?
+
+- [$0.005 per in-use public ipv4 address per hour (aws 프리티어 서버 과금) 해결](https://m.blog.naver.com/hyewon-0607/223509426191)
 
 ---
 

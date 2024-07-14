@@ -197,6 +197,9 @@ head:
 - [`@joshuara7235` / 테스트코드를 모르던 내게 찾아온 TDD](https://velog.io/@joshuara7235/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AA%A8%EB%A5%B4%EB%8D%98-%EB%82%B4%EA%B2%8C-%EC%B0%BE%EC%95%84%EC%98%A8-TDD)
 - [`@kwonhl0211` / 앞으로 제품 디자인은 어떻게 바뀔까? 멀티모달 프로덕트와 생성형 UI에 대한 생각 정리](https://velog.io/@kwonhl0211/%EC%95%9E%EC%9C%BC%EB%A1%9C-%EC%A0%9C%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EB%80%94%EA%B9%8C-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%99%80-%EC%83%9D%EC%84%B1%ED%98%95-UI%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-%EC%A0%95%EB%A6%AC)
 - [`@joshuara7235` / 좋은 코드를 위해서는 좋은 설계가 우선되어야 한다.](https://velog.io/@joshuara7235/%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%B4%EC%84%9C%EB%8A%94-%EC%A2%8B%EC%9D%80-%EC%84%A4%EA%B3%84%EA%B0%80-%EC%9A%B0%EC%84%A0%EB%90%98%EC%96%B4%EC%95%BC-%ED%95%9C%EB%8B%A4)
+- [`@jeong_hun_hui` / 트랜잭션의 동시성 문제를 알아보자](https://velog.io/@jeong_hun_hui/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -232,6 +235,10 @@ head:
 - [`@2fEJ` / 사용자 인터뷰에서 말과 행동의 차이 이해하기 - UX 리서치 강연 #25](https://brunch.co.kr/@@2fEJ/1396)
 - [`@2fEJ` / 프로덕트 매니저를 위한 강력한 도구: 게릴라 리서치!! - UX 리서치 강연 #26](https://brunch.co.kr/@@2fEJ/1397)
 - [`@2fEJ` / 프로덕트 매니저의 '5 Why' 기법 활용법 - UX 디자인 강의 #25](https://brunch.co.kr/@@2fEJ/1403)
+- [`@2fEJ` / UX 리서치 데이터에서 사실과 의견의 구분 - UX 디자인 이야기 #27](https://brunch.co.kr/@@2fEJ/1405)
+- [`@2fEJ` / 어피니티 다이어그램을 통한 팀 기반 UX 문제 해결 - UX 리서치 이야기 #28](https://brunch.co.kr/@@2fEJ/1399)
+- [`@2fEJ` / 제품 개발의 핵심 초기 단계: 이해관계자 워크숍!!! - UX 리서치 강연 #27](https://brunch.co.kr/@@2fEJ/1398)
+- [`@2fEJ` / 프로덕트 매니저 역량!!! 고객이 되어 보기!!!! - UX 디자인 강의#26](https://brunch.co.kr/@@2fEJ/1404)
 
 <!-- END: brunch.co.kr -->
 
@@ -292,6 +299,7 @@ head:
 
 - [[내일배움캠프 23일차 TIL] 유스케이스 다이어그램 및 RESTful한 API설계(Param vs Query vs Body)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-23%EC%9D%BC%EC%B0%A8-TIL-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%8F-RESTful%ED%95%9C-API%EC%84%A4%EA%B3%84Param-vs-Query-vs-Body)
 - [\[내일배움캠프 34일차 TIL\] 뉴스피드 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-34%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
+- [\[내일배움캠프 59일차 TIL\] 심화 프로젝트 시작](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-59%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%AC%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91)
 
 ---
 

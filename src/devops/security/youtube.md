@@ -99,5 +99,7 @@ tag:
 <MyYouTubeItems jsonName="yu-eccouncilusa" /><!-- EC-Council -->
 <MyYouTubeItems jsonName="yu-jeFF0Falltrades" /><!-- jeFF0Falltrades -->
 <MyYouTubeItems jsonName="yu-KeepItTechie" /><!-- KeepItTechie -->
+<MyYouTubeItems jsonName="yu-Seytonic" /><!-- Seytonic -->
+<MyYouTubeItems jsonName="yu-Cobuman" /><!-- cobuman -->
 
 <TagLinks />

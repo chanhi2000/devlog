@@ -36,4 +36,10 @@ tag:
 
 ---
 
+## brandur.org
+
+- [First contact](https://brandur.org/atoms/gubk5w2)
+
+---
+
 <TagLinks />

@@ -43,6 +43,10 @@ tag:
 - [`@2fEJ` / 패턴 랭귀지!!! 주니어 프로덕트 매니저의 마법 지팡이 - 프로덕트 매니저가 전문가가 되기 위한 노력 #24](https://brunch.co.kr/@@2fEJ/1406)
 - [`@2fEJ` / UX 디자인에 패턴 랭귀지 활용 팁 - 프로덕트 매니저가 전문가가 되기 위한 노력 #26](https://brunch.co.kr/@@2fEJ/1408)
 - [`@2fEJ` / 주니어 프로덕트 매니저의 핵심 역량 개발 - PM 강의 #26](https://brunch.co.kr/@@2fEJ/1412)
+- [`@2rV` / Google PM이 설명하는 PM의 책임](https://brunch.co.kr/@@2rV/142)
+- [`@2fEJ` / 사용자 경험 향상을 위한 패턴 랭귀지의 활용 - 프로덕트 매니저가 전문가가 되기 위한 노력 #27](https://brunch.co.kr/@@2fEJ/1409)
+- [`@2fEJ` / 프로덕트 매니저의 다양한 역할과 필요한 자세 - PM 강의 #27](https://brunch.co.kr/@@2fEJ/1413)
+- [`@2fEJ` / UX 디자인에 패턴 랭귀지 활용 팁 - 프로덕트 매니저가 전문가가 되기 위한 노력 #26](https://brunch.co.kr/@@2fEJ/1408)
 
 <!-- END: brunch.co.kr -->
 

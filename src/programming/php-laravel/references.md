@@ -61,4 +61,10 @@ head:
 
 ---
 
+## Linkedin
+
+- [Laravel In Depth: Understanding Laravel Macros](https://www.linkedin.com/pulse/laravel-depth-understanding-macroables-eyad-mohammed-osama/)
+
+---
+
 <TagLinks />
