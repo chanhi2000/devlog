@@ -57,6 +57,7 @@ export const template: SidebarInfoTemplate = {
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
       "improve-your-javascript-projects-with-build-tools", // 2024-07-02
       "upload-large-files-with-aws", // 2024-07-08
+      "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -92,6 +93,7 @@ export const template: SidebarInfoTemplate = {
       "build-a-counter-button-with-react", // 2024-07-10
       "how-to-upgrade-node-and-jest-while-on-react-scripts-v4", // 2024-07-10
       "what-is-trpc", // 2024-07-11
+      "difference-between-usememo-and-usecallback-hooks", // 2024-07-15
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -176,6 +178,7 @@ export const template: SidebarInfoTemplate = {
     "cs", [
       "how-to-use-oop-in-c-sharp", // 2024-05-01
       "build-crud-operations-with-dotnet-core-handbook", // 2024-05-24
+      "how-to-use-linq", // 2024-07-15
     ]],[
     "c", [
       "complete-c-programming-course-from-dr-chuck", // 2024-05-30
@@ -207,6 +210,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-become-an-open-source-maintainer", // 2024-05-20
       "how-to-create-notice-blocks-in-markdown", // 2024-06-10
       "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
+      "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
     ]],[
     "macos", [
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
@@ -470,6 +474,9 @@ export const template: SidebarInfoTemplate = {
       "what-is-trpc", // 2024-07-11
       "learn-linux-for-beginners-book-basic-to-advanced", // 2024-07-12
       "generics-in-java", // 2024-07-12
+      "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
+      "difference-between-usememo-and-usecallback-hooks", // 2024-07-15
+      "how-to-use-linq", // 2024-07-15
     ]],
   ]),
 }

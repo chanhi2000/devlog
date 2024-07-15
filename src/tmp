@@ -15162,14 +15162,6 @@ https://framagit.org/framasoft/framaspace/argos/
 - [전화망 서비스 개발을 위한 기초 지식 정리](https://kingpiggylab.tistory.com/m/418)
 - [How To Survive 3 Years In North Korea As A Foreigner](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 - [Documenting APIs](https://idratherbewriting.com/learnapidoc/docapis_introtoapis.html)
-<!-- Python -->
-- [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac)
-- [How To Filter Django QuerySets – 15 Examples For Beginners](https://ctrlzblog.com/django-queryset-filter-15-examples/)
-- [When should you upgrade to Python 3.11?](https://pythonspeed.com/articles/upgrade-python-3.11/)
-- [Where exactly does Python 3.11 get its ~25% Speedup? Part 1: General Optimizations](https://log.beshr.com/python-311-speedup-part-1/)
-- [Generating memes and infographics with Pillow](https://rk.edu.pl/en/generating-memes-and-infographics-with-pillow/)
-- [Improving code quality with linting in Python](https://snyk.io/blog/improving-code-quality-with-linting-in-python/)
-- [Writing Robust Tests for Data & Machine Learning Pipelines](https://eugeneyan.com/writing/testing-pipelines/)
 
 <!-- JavaScript -->
 - [TypeScript with Node.js](https://www.robinwieruch.de/typescript-node/)
@@ -15367,6 +15359,27 @@ https://framagit.org/framasoft/framaspace/argos/
 - [When I ask the sysadmin to give me the root access [thecodinglove.com]](https://thecodinglove.com/when-i-ask-the-sysadmin-to-give-me-the-root-access)
 - [If anyone knows us inside out it’s our Father! ❤️ [devhumor.com]](https://devhumor.com/media/if-anyone-knows-us-inside-out-it-s-our-father)
 
+// code-maze-weekly #1
+- [Converting a .NET Standard 2.0 library to .NET Core 3.0 [andrewlock.net]](https://andrewlock.net/converting-a-netstandard-2-library-to-netcore-3/)
+- [IHostingEnvironment vs IHostEnvironment – obsolete types in .NET Core 3.0 [andrewlock.net]](https://andrewlock.net/ihostingenvironment-vs-ihost-environment-obsolete-types-in-net-core-3/)
+- [High-Performance Logging in .NET Core [stevejgordon.co.uk]](https://www.stevejgordon.co.uk/high-performance-logging-in-net-core)
+- [Is Dapper (still) faster than Entity Framework Core [exceptionnotfound.net]](https://exceptionnotfound.net/dapper-vs-entity-framework-core-query-performance-benchmarking-2019/)
+- [How does the ASP.NET Core SPA development experience work with React, Angular, and VueJS? [blog.maartenballiauw.be]](https://blog.maartenballiauw.be/post/2019/11/13/how-does-the-aspnetcore-spa-development-experience-work.html)
+- [Mocking an Authenticated User in Blazor/ASP.NET Core [visualstudiomagazine.com]](https://visualstudiomagazine.com/blogs/tool-tracker/2019/11/mocking-authenticated-users.aspx)
+- [Improvements in .NET Core 3.0 for troubleshooting and monitoring distributed apps [devblogs.microsoft.com]](https://devblogs.microsoft.com/aspnet/improvements-in-net-core-3-0-for-troubleshooting-and-monitoring-distributed-apps/)
+- [Announcing .NET Core 3.1 Preview 3 [devblogs.microsoft.com]](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-1-preview-3/)
+- [ASP.NET Core updates in .NET Core 3.1 Preview 3 [devblogs.microsoft.com]](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-1-preview-3/)
+- [#FAIL [infoq.com]](https://infoq.com/presentations/failures-lessons-keynote/)
+- [Podcast: Dave Farley on taking back software engineering [infoq.com]](https://infoq.com/podcasts/taking-back-software-engineering/)
+- [A Jenkins tutorial for beginners with examples [theserverside.com]](https://www.theserverside.com/tutorial/Need-a-CI-tool-Heres-a-Jenkins-tutorial-for-beginners)
+- [Azure Cosmos DB use cases [searchcloudcomputing.techtarget.com]](https://searchcloudcomputing.techtarget.com/tip/Get-to-know-Microsoft-Azure-Cosmos-DB-use-cases)
+- [Part 21 – WikiLeaks and Julian Assange [simpleprogrammer.com]](https://simpleprogrammer.com/history-of-the-internet-part-21-wikileaks-and-julian-assange/)
+- [Waterfall Process [martinfowler.com]](https://martinfowler.com/bliki/WaterfallProcess.html)
+- [Biggest challenges in society tackled by IoT [internetofthingsagenda.techtarget.com]](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/How-IoT-connectivity-will-tackle-societys-biggest-challenges)
+- [Creating Good Habits for Remote Work [simpleprogrammer.com]](https://simpleprogrammer.com/remote-working-habits/)
+- [Extrapolation [reddit.com]](https://reddit.com/r/ProgrammerHumor/comments/dsmrit/machine_learning/)
+- [Using a Framework Without Documentation [thecodinglove.com]](https://thecodinglove.com/when-we-use-a-framework-without-reading-its-documentation)
+
 - [Still-Moving - A Research Exploration into Customized Video Generation without Customized Video Data](https://still-moving.github.io)
 - [Customizing property graph index in LlamaIndex](https://llamaindex.ai/blog/customizing-property-graph-index-in-llamaindex)
 - [“AI 답변에 광고 붙이고 수수료 지급할 것” 퍼플렉시티, 콘텐츠 제작자 위한 수익 공유 프로그램 공개](https://ciokorea.com/news/344152)
@@ -15466,3 +15479,5 @@ https://framagit.org/framasoft/framaspace/argos/
 - [금융기관 극한 생존기, 스트레스 테스트](https://bok.or.kr/portal/bbs/B0000347/view.do?nttId=10085604&searchCnd=1&searchKwd=&depth2=201106&depth=201106&pageUnit=10&pageIndex=1&programType=newsData&menuNo=201106&oldMenuNo=201150)
 - [프라이팬의 핵심 성능인 코팅 내구성, 제품 간 차이 있어](https://kca.go.kr/home/sub.do?menukey=4002&mode=view&no=1003437619)
 - [BOK 이슈노트 - \[제2024-17호\] 2차 베이비부머의 은퇴연령 진입에 따른 경제적 영향 평가](https://bok.or.kr/portal/bbs/P0002353/view.do?nttId=10085515&searchCnd=1&searchKwd=&depth2=201156&depth3=200433&depth=200433&pageUnit=10&pageIndex=1&programType=newsData&menuNo=200433&oldMenuNo=200433)
+
+- [purphoros/fetch-opengraph 참고](https://github.com/purphoros/fetch-opengraph)

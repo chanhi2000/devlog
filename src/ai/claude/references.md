@@ -50,4 +50,10 @@ head:
 
 ---
 
+## 김태영의 케라스 블로그
+
+- [클로드를 이용한 픽셀 게임판 만들기](http://tykimos.github.io/2024/07/14/creating_a_pixel_game_board_with_claude/)
+
+---
+
 <TagLinks />

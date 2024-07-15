@@ -460,4 +460,10 @@ tag:
 
 ---
 
+## NRK's Homepage
+
+- [I'm not a fan of `strlcpy(3)`](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
+
+---
+
 <TagLinks />

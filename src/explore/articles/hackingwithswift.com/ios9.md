@@ -69,8 +69,7 @@ I've made lots of [completely free tutorials for iOS 9](/explore/articles/hackin
 
 ::: info Update
 
-I wrote a [tutorial on Core Spotlight in iOS 9](https://hackingwithswift.com/read/32/overview) as Hacking with Swift project 32 – check it out!
-<!-- TODO: crashcourse에 추가 -->
+I wrote a [tutorial on Core Spotlight in iOS 9](/explore/articles/hackingwithswift.com/read/32/overview.md) as Hacking with Swift project 32 – check it out!
 <!-- TODO: add VPCard -->
 
 :::
@@ -137,16 +136,14 @@ I wonder whether Apple is shipping app thinning now in preparation to launch an 
 
 ::: info Update
 
-I wrote a [tutorial on GameplayKit and GKMinmaxStrategist in iOS 9](https://hackingwithswift.com/read/34/overview) as Hacking with Swift project 34 – check it out!
-<!-- TODO: crashcourse에 추가 -->
+I wrote a [tutorial on GameplayKit and GKMinmaxStrategist in iOS 9](/explore/articles/hackingwithswift.com/read/34/overview.md) as Hacking with Swift project 34 – check it out!
 <!-- TODO: add VPCard -->
 
 :::
 
 ::: info Update 2
 
-I wrote a [tutorial on GameplayKit and GKRandomSource in iOS 9](https://hackingwithswift.com/read/35/overview) as Hacking with Swift project 35 – check that out too!
-<!-- TODO: crashcourse에 추가 -->
+I wrote a [tutorial on GameplayKit and GKRandomSource in iOS 9](/explore/articles/hackingwithswift.com/read/35/overview.md) as Hacking with Swift project 35 – check that out too!
 <!-- TODO: add VPCard -->
 
 :::
@@ -161,8 +158,7 @@ To give you an idea of just how powerful GameplayKit is, Apple has shipped demo 
 
 ::: info Update
 
-I wrote a [tutorial on SFSafariViewController in iOS 9](https://hackingwithswift.com/read/32/overview) as Hacking with Swift project 32 – check it out!
-<!-- TODO: crashcourse에 추가 -->
+I wrote a [tutorial on SFSafariViewController in iOS 9](/explore/articles/hackingwithswift.com/read/32/overview.md) as Hacking with Swift project 32 – check it out!
 <!-- TODO: add VPCard -->
 
 :::
@@ -212,7 +208,9 @@ let sfc = SFSafariViewController(URL: NSURL(string: "http://www.slashdot.org")!,
 ::: info Update
 
 I wrote a tutorial on UIStackView and iPad multitasking in iOS 9 as Hacking with Swift project 31 – check it out!
-<!-- TODO: crashcourse에 추가 https://hackingwithswift.com/read/31/overview -->
+
+/explore/articles/hackingwithswift.com/read/31/overview.md
+<!-- TODO: add VPCard -->
 
 :::
 

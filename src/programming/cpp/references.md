@@ -196,6 +196,8 @@ head:
 - [MFC 프로그래밍 공부](https://m.blog.naver.com/tipsware/223508063091)
 - [\[Q&A\] 32비트와 64비트를 만족하는 자료형을 어떻게 사용해야 하나요?](https://m.blog.naver.com/tipsware/223509782743)
 - [\[Q&A\] CString 클래스를 런타임 함수나 API 함수에 사용하려면 어떻게 해야 하나요?](https://m.blog.naver.com/tipsware/223510086450)
+- [\[Q&A\] 64비트에서 저장한 데이터를 32비트에 읽으면 문제가 됩니다.](https://m.blog.naver.com/tipsware/223512940267)
+- [\[Q&A\] CString 클래스를 API 함수에 사용하는 예시도 보고 싶습니다.](https://m.blog.naver.com/tipsware/223512320785)
 
 <!-- END: blog.naver.com/tipsware/ -->
 
@@ -275,6 +277,7 @@ head:
 - [\[백준 31964번\] 반품 회수](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31964%EB%B2%88-%EB%B0%98%ED%92%88-%ED%9A%8C%EC%88%98)
 - [\[백준 31965번\] 회의 장소](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31965%EB%B2%88-%ED%9A%8C%EC%9D%98-%EC%9E%A5%EC%86%8C)
 - [\[백준 31997번\] 즐거운 회의](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31997%EB%B2%88-%EC%A6%90%EA%B1%B0%EC%9A%B4-%ED%9A%8C%EC%9D%98)
+- [\[백준 32036번\] 수열과 쿼리 45](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32036%EB%B2%88-%EC%88%98%EC%97%B4%EA%B3%BC-%EC%BF%BC%EB%A6%AC-45)
 
 ---
 
@@ -375,6 +378,12 @@ head:
 ## 코딩하는 오리
 
 - [Failed building wheel for llama-cpp-python](https://cori.tistory.com/m/335)
+
+---
+
+## leeyh0216's devlog
+
+- [JVM Heap과 GC를 다른 관점에서 바라보기](https://leeyh0216.github.io/posts/heap-and-gc/)
 
 ---
 

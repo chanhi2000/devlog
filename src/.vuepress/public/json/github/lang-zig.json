@@ -55,5 +55,12 @@
     "topics": ["async", "c", "epoll", "io-uring", "kqueue", "wasi", "webassembly", "zig"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "Senryoku/smol-string",
+    "desc": "Compression for browsers' localStorage. Alternative to lz-string written in Zig.",
+    "officialSite": "https://senryoku.github.io/smol-string/",
+    "topics": ["browser", "compression", "localstorage", "typescript", "web", "zig"],
+    "avatar": "",
+    "banner": ""
   }
 ]

@@ -890,6 +890,7 @@ tag:
 ### 행뽁🐥
 
 - [코틀린 Kotlin `java.util.ConcurrentModificationException` 에러](https://hyunjungchoi.tistory.com/m/155)
+- [Kotlin 코틀린 백준 25344 행성 정렬](https://hyunjungchoi.tistory.com/m/156)
 
 ---
 

@@ -9,6 +9,8 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - test
+  - test-automation
   - selenium
 head:
   - - meta:

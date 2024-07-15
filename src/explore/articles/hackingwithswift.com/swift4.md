@@ -87,9 +87,15 @@ If you liked this article, you might also enjoy these:
 }
 ```
 
-> [Read my free Swift tutorial series](https://hackingwithswift.com/read)
-
-<!-- TODO: w -->
+```component VPCard
+{
+  "title": "Hacking with iOS – learn to code iPhone and iPad apps with free Swift tutorials",
+  "desc": "Learn Swift coding for iOS with these free tutorials – learn Swift, iOS, and Xcode",
+  "link": "/explore/articles/hackingwithswift.com/read/README.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

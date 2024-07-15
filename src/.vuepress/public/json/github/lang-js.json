@@ -1986,9 +1986,9 @@
     "topics": ["reactjs", "tailwindcss"]
   }, {
     "repo": "HeyPuter/puter",
-    "desc": "🌐 The Web OS! Free, Open-Source, and Self-Hostable.",
+    "desc": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
     "officialSite": "https://puter.com",
-    "topics": ["cloud", "cloud-os", "desktop", "desktop-environment", "javascript", "operating-system", "os", "osjs", "remote-desktop", "web-desktop", "web-os", "webtop"]
+    "topics": ["cloud", "cloud-os", "cloud-storage", "desktop", "desktop-environment", "dropbox", "gui", "javascript", "operating-system", "os", "osjs", "remote-desktop", "web-desktop", "web-os", "webtop"]
   }, {
     "repo": "atherosai/ui",
     "desc": "Simple UI examples from my social media",
@@ -2454,5 +2454,10 @@
     "desc": "Secured and reliable Proxy based utilities for more or less common tasks.",
     "officialSite": "https://javascript.plainenglish.io/about-trusting-javascript-execution-8c6b478d6021",
     "topics": ["proxy", "security", "utilities", "utility"]
+  }, {
+    "repo": "mrd0x/PWA-Phishing",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
   }
 ]

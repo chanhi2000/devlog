@@ -234,6 +234,8 @@ tag:
 - [`@2rV` / 가치 제안 (Value Propostion) 연습하기 - Michael Skok의 하버드 대학 워크샵](https://brunch.co.kr/@@2rV/140)
 - [`@8w7` / 이기는 게임을 위한 부트캠프 설계와 브랜딩의 힘 - 세부적인 요소가 아닌 총체적인 인지전략을 통해 이기는 방법](https://brunch.co.kr/@@8w7/237)
 - [`@2weV` / 처음부터 잘할 수는 없다.](https://brunch.co.kr/@@2weV/531)
+- [`@8w7` / 온라인은 오프라인의 보완재가 아니야. - 온라인에서만 가능한 특별한 인터랙션과 학습의 방법이 있어.](https://brunch.co.kr/@@8w7/238)
+- [`@ZVA` / 연구와 생산의 지리적 분리, 한국 제조업의 불안한 미래](https://brunch.co.kr/@@ZVA/706)
 
 <!-- END: brunch.co.kr -->
 
@@ -481,6 +483,7 @@ tag:
 - [가장 중요한 점수](https://www.thestartupbible.com/2024/07/the-most-important-point-is-the-point-you-are-playing-right-now.html)
 - [지속 가능한 사업](https://www.thestartupbible.com/2024/07/on-being-ready-to-be-a-sustainable-business.html)
 - [지속 가능한 사업](https://www.thestartupbible.com/2024/07/on-being-ready-to-be-a-sustainable-business.html)
+- [경쟁에 임하는 자세](https://www.thestartupbible.com/2024/07/on-the-mindset-of-facing-a-formidable-competitor.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -867,6 +870,9 @@ tag:
 - [리더십의 커뮤니케이션 – 대화하기](http://www.chidoo.me/index.php/2024/06/15/dialog-by-asking-and-listening-in-leadership/)
 - [리더십의 리더 – Lead와 Leader](http://www.chidoo.me/index.php/2024/06/23/lead-vs-leader-in-leadership/)
 - [리더십의 리더 – 같음과 다름](http://www.chidoo.me/index.php/2024/07/07/equality-and-inequality-in-leadership/)
+- [리더십의 리더 – 리더의 팀](http://www.chidoo.me/index.php/2024/07/14/one-team-in-leadership/)
+
+<!-- END: chidoo.me -->
 
 ---
 
@@ -1323,6 +1329,18 @@ https://blog.naver.com/&logId=
 ## Steady Study
 
 - [의사소통자의 아홉 가지 역량](https://www.stdy.blog/communicator-competencies/)
+
+---
+
+## The Codist
+
+- [How To Know When It's Time To Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
+
+---
+
+## JuHyeong.dev
+
+- [NextStep DDD 세레나데 수료 후기](http://dkswnkk.tistory.com/m/755)
 
 ---
 

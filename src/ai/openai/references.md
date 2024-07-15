@@ -441,4 +441,10 @@ head:
 
 ---
 
+## 하이제니스
+
+- [변덕스러운 신과 인간의 반격 - ChatGPT](https://m.blog.naver.com/chandong83/223512398876)
+
+---
+
 <TagLinks />

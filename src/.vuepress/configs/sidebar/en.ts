@@ -891,6 +891,23 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
+      text: 'FastAPI',
+      collapsible: true,
+      icon: 'iconfont icon-fastapi',
+      children: [
+        '/programming/py-fastapi/README.md',
+        '/programming/py-fastapi/references.md',
+        '/programming/py-fastapi/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-fastapi/articles/README.md',
+          ]
+        },
+      ]
+    }, {
       text: 'Jupyter',
       collapsible: true,
       icon: 'iconfont icon-jupyter',
@@ -2009,7 +2026,6 @@ export const sidebarEn = sidebar({
       icon: 'fa-brands fa-github',
       children: [
         '/devops/github/README.md',
-        '/devops/github/awesome-list.md',
         '/devops/github/library.md',
         '/devops/github/news.md',
         '/devops/github/tutorial.md',
@@ -2619,6 +2635,7 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-selenium',
       children: [
         '/devops/selenium/README.md',
+        '/devops/selenium/references.md',
         '/devops/selenium/youtube.md',
         {
           text: 'Article(s)',
@@ -2627,6 +2644,23 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/selenium/articles/README.md',
             asb.freecodecamp("selenium"),
+          ]
+        },
+      ],
+    }, {
+      text: 'Karate',
+      collapsible: true,
+      icon: 'iconfont icon-karate',
+      children: [
+        '/devops/karate/README.md',
+        '/devops/karate/references.md',
+        '/devops/karate/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/karate/articles/README.md',
           ]
         },
       ],
@@ -3353,6 +3387,7 @@ export const sidebarEn = sidebar({
         '/explore/README.md',
         '/explore/newsletter.md',
         '/explore/study.md',
+        '/explore/awesome-list.md',
       ],
     }, {
       text: 'API',

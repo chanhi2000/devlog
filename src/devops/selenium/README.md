@@ -7,8 +7,8 @@ category:
   - Selenium
 tag: 
   - test
-  - selenium
   - test-automation
+  - selenium
 ---
 
 # {{ $frontmatter.description }} 관련

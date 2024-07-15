@@ -145,6 +145,7 @@ head:
 - [`@qkrtkdwns3410` / Spring-open-in-view 속성](https://velog.io/@qkrtkdwns3410/Spring-open-in-view-%EC%86%8D%EC%84%B1)
 - [`@qkrtkdwns3410` / Vue3 + Spring Data Elasticsearch 를 통한 한글 자동완성 API](https://velog.io/@qkrtkdwns3410/Vue3-Spring-Data-Elasticsearch-%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%9C%EA%B8%80-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-API)
 - [`@qkrtkdwns3410` / \[토비의 스프링부트\] 스프링 부트 컨테이너리스 특성 이해하기](https://velog.io/@qkrtkdwns3410/%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A6%AC%EC%8A%A4-%ED%8A%B9%EC%84%B1-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [`@joshuara7235` / 어플리케이션은 완벽할 수 없다. 다만 완벽을 지향할 뿐.](https://velog.io/@joshuara7235/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%80-%EC%99%84%EB%B2%BD%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4.-%EB%8B%A4%EB%A7%8C-%EC%99%84%EB%B2%BD%EC%9D%84-%EC%A7%80%ED%96%A5%ED%95%A0-%EB%BF%90)
 
 ### üntil
 
@@ -406,6 +407,9 @@ head:
 - [7.4.책 서비스 클래스에 읽기 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/74-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%9D%BD%EA%B8%B0-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [7.5. 책 컨트롤러 클래스에 읽기 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/75-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%9D%BD%EA%B8%B0-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [7.6. 책 상세 뷰 작성하기](https://ysedeveloper.tistory.com/m/entry/76-%EC%B1%85-%EC%83%81%EC%84%B8-%EB%B7%B0-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
+- [7.7. 책 오류 뷰 작성하기](https://ysedeveloper.tistory.com/m/entry/77-%EC%B1%85-%EC%98%A4%EB%A5%98-%EB%B7%B0-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
+
+<!-- END: ysedeveloper.tistory.com -->
 
 ### Suhwan Jee's blog
 

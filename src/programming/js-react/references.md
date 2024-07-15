@@ -1107,4 +1107,10 @@ https://o-yeon.tistory.com/227
 
 ---
 
+## JSer.dev
+
+- [React Internals Explorer - easily see how React works](https://jser.dev/2024-05-11-introducing-rie/)
+
+---
+
 <TagLinks />

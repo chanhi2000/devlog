@@ -661,4 +661,10 @@ head:
 
 ---
 
+## just_HS
+
+- [Interface, DIP, IoC 에 대한 비유](https://jusths.tistory.com/m/417)
+
+---
+
 <TagLinks />

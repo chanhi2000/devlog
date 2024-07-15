@@ -28,6 +28,13 @@ tag:
 }
 ```
 
+<SiteInfo
+  name="IT 인재 채용 플랫폼 - 랠릿"
+  desc="업계에서 검증된 회사들의 채용 공고를 랠릿에서 만나보세요"
+  url="https://www.rallit.com/"
+  logo="https://cdn.rallit.com/image/favicon.svg"
+  preview="https://cdn.rallit.com/image/meta-image.png"/>
+
 ```component VPCard
 {
   "title": "Remote OK",

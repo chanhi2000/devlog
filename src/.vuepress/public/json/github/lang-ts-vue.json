@@ -24,5 +24,10 @@
     "desc": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
     "officialSite": "https://sink.cool",
     "topics": ["cloudflare", "link-shortener", "link-shortner", "linkshortener", "sink", "url-shortener", "urlshortener", "urlshorter"]
+  }, {
+    "repo": "chakra-ui/ark",
+    "desc": "A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.",
+    "officialSite": "https://ark-ui.com",
+    "topics": ["accordion", "carousel", "checkbox", "color-picker", "combobox", "dialog", "editable", "headless", "menu", "pagination", "popover", "primitives", "react", "select", "solid", "svelte", "tabs", "toast", "vue"]
   }
 ]

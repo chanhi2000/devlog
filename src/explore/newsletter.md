@@ -1053,6 +1053,20 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://blog.arkency.com/favicon.ico"
   preview="https://blog-arkency.imgix.net/~text?bg=DC3E09&fit=max&h=315&txt=Home&txtalign=middle%2Ccenter&txtclr=FFF&txtfont=Georgia%2CBold&txtpad=30&txtsize=42&w=640"/>
 
+<SiteInfo
+  name="Artsy Engineering"
+  desc="Two years of Next.js at Artsy: A Retrospective"
+  url="https://artsy.github.io/"
+  logo="https://artsy.github.io/favicon.ico"
+  preview="http://artsy.github.io/images/artsy_oss_image.png"/>
+
+<SiteInfo
+  name="Asana Engineering Blog"
+  desc="Are you interested in learning more about working on Asana's engineering team or the work they do? Read the Asana engineering blog."
+  url="https://blog.asana.com/category/eng/"
+  logo="https://d1gwm4cf8hecp4.cloudfront.net/images/favicons/android-chrome-192x192.png"
+  preview="https://blog.asana.com/wp-content/post-images/Blog-home-metadata-2021-3.png"/>
+
 <!-- END: Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)

@@ -149,6 +149,7 @@ export const navbarEn = navbar([
           '/programming/py-keras/README.md',
           '/programming/py-django/README.md',
           '/programming/py-flask/README.md',
+          '/programming/py-fastapi/README.md',
           '/programming/py-jupyter/README.md',
           '/programming/py-celery/README.md',
           '/programming/py-locust/README.md',

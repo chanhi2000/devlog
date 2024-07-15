@@ -262,6 +262,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Set Up a CI/CD Pipeline with Husky and GitHub Actions",
+  "desc": "CI/CD is a core practice in the modern software development ecosystem. It helps agile teams deliver high-quality software in short release cycles. In this tutorial, you'll learn what CI/CD is, and I'll help you set up a CI/CD pipeline using Husky and GitHub Actions in a Next.js application.  This...",
+  "link": "/explore/articles/freecodecamp.org/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

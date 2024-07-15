@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
 title: Awesome List
-description: Github > Awesome List
+description: Explore > Awesome List
 icon: fas fa-glasses
 category:
-  - Github 
+  - Explore 
   - Awesome List
 tag: 
   - awesome-list
@@ -18,6 +18,8 @@ tag:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<ShieldsGroup logos="git,gitlfs,gitignoredotio,github,awesomelists"/>
 
 [[toc]]
 
@@ -47,7 +49,6 @@ tag:
 - [easychen/stack-roadmap][easychen/stack-roadmap]: 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
   - [🌐Official Site](http://road.ftqq.com)
 - [rmcelreath/stat_rethinking_2023][rmcelreath/stat_rethinking_2023]: Statistical Rethinking Course for Jan-Mar 2023
-
 
 ---
 

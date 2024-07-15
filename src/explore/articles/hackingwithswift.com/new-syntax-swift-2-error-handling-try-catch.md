@@ -212,7 +212,7 @@ print(encrypted)
 
 Using the `try!` keyword communicates your intent clearly: you're aware there's the theoretical possibility of the call failing, but you're certain it won't happen in your use case. For example, if you're trying to load the contents of a file in your app's bundle, any failure effectively means your app bundle is damaged or unavailable, so you should terminate.
 
-That's all for error handling in Swift. If you'd like to learn about how Swift handles `try/finally` you should [read my article on Swift's defer keyword](/explore/articles/hackingwithswift.com//new-syntax-swift-2-defer.md).
+That's all for error handling in Swift. If you'd like to learn about how Swift handles `try/finally` you should [read my article on Swift's defer keyword](/explore/articles/hackingwithswift.com/new-syntax-swift-2-defer.md).
 
 ---
 

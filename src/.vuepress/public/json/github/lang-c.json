@@ -1546,5 +1546,12 @@
     "topics": ["android", "android-https-capture", "ebpf", "ebpf-go", "ebpf-tc", "ebpf-uprobe", "golang", "https", "linux", "network-capture", "security-audit", "ssl", "ssldump", "tcpdump", "tls"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "ish-app/ish",
+    "desc": "Linux shell for iOS",
+    "officialSite": "https://ish.app",
+    "topics": ["emulator", "hacktoberfest", "ios", "linux"],
+    "avatar": "",
+    "banner": ""
   }
 ]

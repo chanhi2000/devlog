@@ -361,4 +361,10 @@ head:
 
 ---
 
+## AI Convergence
+
+- [\[Embedding\] 중간값과 백터](http://mobicon.tistory.com/m/605)
+
+---
+
 <TagLinks/>

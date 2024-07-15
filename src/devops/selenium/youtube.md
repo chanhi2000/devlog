@@ -7,14 +7,22 @@ category:
   - Selenium
   - Youtube
 tag: 
-  - "test"
-  - "testing"
-  - "selenium"
-  - "youtube"
+  - test
+  - test-automation
+  - selenium
+  - youtube
   - "@sdetpavan"
   - "@RahulRathore41"
   - "@LambdaTest"
   - "@rameshkudikala83"
+head:
+  - - meta:
+    - property: og:title
+      content: Selenium > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/selenium/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

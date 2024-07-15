@@ -71,7 +71,9 @@ export default {
           repo: data.full_name ?? _repoEndpoint,
           desc: data.description ?? '',
           officialSite: data.homepage ?? '',
-          topics: data.topics ?? []
+          topics: data.topics ?? [],
+          avatar: data.owner.avatar_url ?? '',
+          banner: '',
         }
         const jsonData = JSON.stringify(repoInfo, null, 2)
           .replace(/,\n\s\s\s\s/g, ', ')

@@ -57,6 +57,7 @@
   { "logo": "elixir", "name": "Elixir", "colorHex": "4B275F" },
   { "logo": "erlang", "name": "Erlang", "colorHex": "A90533" },
   { "logo": "facebook", "name": "Facebook", "colorHex": "0866FF" },
+  { "logo": "fastapi", "name": "FastAPI", "colorHex": "009688" },
   { "logo": "firebase", "name": "Firebase", "colorHex": "FFCA28" },
   { "logo": "flask", "name": "Flask", "colorHex": "000000" },
   { "logo": "flutter", "name": "Flutter", "colorHex": "02569B" },

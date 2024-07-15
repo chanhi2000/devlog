@@ -5783,5 +5783,15 @@
     "desc": "Kor-IR: Korean Information Retrieval Benchmark",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "pytube/pytube",
+    "desc": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+    "officialSite": "https://pytube.io",
+    "topics": ["api-wrapper", "python", "pythonic", "youtube"]
+  }, {
+    "repo": "eras/tlsd",
+    "desc": "Generate (message) sequence diagrams from TLA+ state traces",
+    "officialSite": "",
+    "topics": ["model-checking", "sequence-diagram", "tlaplus"]
   }
 ]

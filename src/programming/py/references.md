@@ -131,6 +131,7 @@ head:
 - [`@eunbibi` / JPype1](https://velog.io/@eunbibi/jpype1)
 - [`@euisuk-chung` / \[개념정리\] 시계열 분석의 인과관계 분석](https://velog.io/@euisuk-chung/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84-%EB%B6%84%EC%84%9D)
 - [`@euisuk-chung` / Prophet을 활용한 시계열 예측🔭](https://velog.io/@euisuk-chung/Prophet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%9C%EA%B3%84%EC%97%B4-%EC%98%88%EC%B8%A1)
+- [`@eunbibi` / Transfer learning with ResNet](https://velog.io/@eunbibi/ResNet50-finetuning)
 
 <!-- END: velog.io -->
 
@@ -511,6 +512,7 @@ head:
 
 ## Python⇒Speed
 
+- [When should you upgrade to Python 3.11?](https://pythonspeed.com/articles/upgrade-python-3.11/)
 - [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/)
 - [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
 - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
@@ -731,6 +733,7 @@ head:
 - [PyQt5 콤보박스(QComboBox) 예제](https://webnautes.tistory.com/m/2353)
 - [XGBoost에서 파이프라인 사용하여 표준화(standardization) 적용하기](https://webnautes.tistory.com/m/2352)
 - [`defaultdict` vs `dict`: 파이썬에서의 효율적인 카운팅 방법 비교](https://webnautes.tistory.com/m/2354)
+- [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](http://webnautes.tistory.com/m/2356)
 
 ---
 
@@ -2016,6 +2019,36 @@ head:
 ## sbensu
 
 - [We need visual programming. No, not like that.](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+
+---
+
+## Opensource.com
+
+- [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac)
+
+---
+
+## The Log
+
+- [Where exactly does Python 3.11 get its ~25% Speedup? Part 1: General Optimizations](https://log.beshr.com/python-311-speedup-part-1/)
+
+---
+
+## RkBlog
+
+- [Generating memes and infographics with Pillow](https://rk.edu.pl/en/generating-memes-and-infographics-with-pillow/)
+
+---
+
+## Developer security | Snyk
+
+- [Improving code quality with linting in Python](https://snyk.io/blog/improving-code-quality-with-linting-in-python/)
+
+---
+
+##
+
+- [Writing Robust Tests for Data & Machine Learning Pipelines](https://eugeneyan.com/writing/testing-pipelines/)
 
 ---
 

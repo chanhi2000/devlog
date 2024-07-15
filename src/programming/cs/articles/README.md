@@ -80,6 +80,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How To Use LINQ in C# – With Code Examples",
+  "desc": ".Net (pronounced as 'dot net') has many internal libraries and tools, but one that wields great power is LINQ (Language Integrated Query). It can be used in two ways: the language-level query syntax, or the LINQ API. In this article, we'll explore:  * What LINQ is.  * How...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-linq.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
+
 ---
 
 ## John Reilly

@@ -126,6 +126,7 @@ tag:
 
 ## CTRL+Z - a blog about Django
 
+- [How To Filter Django QuerySets – 15 Examples For Beginners](https://ctrlzblog.com/django-queryset-filter-15-examples/)
 - [Add Vue to your Django templates with Vite](https://ctrlzblog.com/add-vue-to-your-django-templates-with-vite)
 
 ---
@@ -200,6 +201,12 @@ tag:
 ## Neil Kakkar
 
 - [How to simulate a broken database connection for testing in Django](https://neilkakkar.com/test-database-connection-django.html)
+
+---
+
+## Coder | Cloud Development Environment: Remote & Self Hosted
+
+- [Introducing Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
 
 ---
 

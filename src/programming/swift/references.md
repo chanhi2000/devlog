@@ -96,6 +96,7 @@ tag:
 - [`@kirri1124` / Swift Concurrency 1](https://velog.io/@kirri1124/Swift-Concurrency)
 - [`@kirri1124` / Swift Concurrency 2](https://velog.io/@kirri1124/Swift-Concurrency-2)
 - [`@kirri1124` / Swift Concurrency 3](https://velog.io/@kirri1124/Swift-Concurrency-3)
+- [`@jwlee010523` / SwiftUI - State와 Binding](https://velog.io/@jwlee010523/SwiftUI-State-Binding)
 
 <!-- END: velog.io -->
 

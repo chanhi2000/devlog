@@ -664,5 +664,10 @@
     "desc": "Welcome to the Physics-based Deep Learning Book (v0.2) ",
     "officialSite": "https://physicsbaseddeeplearning.org/",
     "topics": ["deep-learning", "numerical-simulations", "pde-solvers"]
+  }, {
+    "repo": "neo4j-labs/llm-graph-builder",
+    "desc": "Neo4j graph construction from unstructured data using LLMs",
+    "officialSite": "https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/",
+    "topics": ["data-import", "genai", "graph", "graph-rag", "graph-search", "graphdb", "graphrag", "knowledge-graph", "langchain", "neo4j", "rag", "unstructured-data", "vectordb"]
   }
 ]

@@ -381,6 +381,18 @@ head:
 
 ---
 
+## StorageReview.com
+
+- [StorageReview Lab Breaks Pi Calculation World Record with Over 202 Trillion Digits](https://www.storagereview.com/news/storagereview-lab-breaks-pi-calculation-world-record-with-over-202-trillion-digits)
+
+---
+
+## op-co.de blog
+
+- [Samsung NX camera to Mastodon bridge](https://op-co.de/blog/posts/samsung_nx_mastodon/)
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

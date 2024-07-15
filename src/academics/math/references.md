@@ -70,6 +70,9 @@ head:
 - [`@ksh4704` - 코드스테이츠-부트캠프 [UX/UI]-Design System(2)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84UXUI-Design-System2)
 - [`@euisuk-chung` / 신호처리 및 푸리에 변환](https://velog.io/@euisuk-chung/%EC%8B%A0%ED%98%B8%EC%B2%98%EB%A6%AC-%EB%B0%8F-%ED%91%B8%EB%A6%AC%EC%97%90-%EB%B3%80%ED%99%98)
 - [`@euisuk-chung` / \[개념정리\] 시계열 분석의 인과관계 분석](https://velog.io/@euisuk-chung/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84-%EB%B6%84%EC%84%9D)
+- [`@skynet` / 직사각형의 넓이는 왜 가로×세로일까?](https://velog.io/@skynet/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%9D%98-%EB%84%93%EC%9D%B4%EB%8A%94-%EC%99%9C-%EA%B0%80%EB%A1%9C%EC%84%B8%EB%A1%9C%EC%9D%BC%EA%B9%8C)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -409,6 +412,10 @@ head:
 - [`nchoosek`, `string`, `unique`를 이용한 경우의 수 문제 풀이](https://lazymatlab.tistory.com/m/250)
 - [수학귀신에 나온 내용들](https://lazymatlab.tistory.com/m/260)
 - [2변수 함수의 극값의 2계도함수 판정법에 대해](https://lazymatlab.tistory.com/m/259)
+- [\[혼공컴운\] 4장. CPU의 작동 원리](https://lazymatlab.tistory.com/m/261)
+<!-- TODO: coen으로 이동 -->
+- [\[혼공컴운\] 5장. CPU의 성능 향상 기법](https://lazymatlab.tistory.com/m/262)
+<!-- TODO: coen으로 이동 -->
 
 ---
 
