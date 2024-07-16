@@ -352,12 +352,14 @@ head:
 ## The Missing Notes
 
 - [42dot LLM은 리더보드 용도로 파인튜닝한게 아니기 때문에 점수는 낮지만, 실제로 써보면 성능은 매우 뛰어난 걸 확인할 수 있습니다. 320장의 GPU로 약 1주일 동안](https://likejazz.com/post/755660739094724609)
+- [현대자동차그룹의 후원으로 MIT 윤킴 교수님과 지난 1년여간 함께 진행해온 산학 연구 논문이 요즘 화제네요.](https://likejazz.com/post/756113715506659328)
 
 ---
 
 ## 드프 DrawingProcess
 
 - [\[Gen AI\] 생성형 모델 및 서비스 정리](https://csj000714.tistory.com/m/1150)
+- [\[논문리뷰\] LiDAR2Map: LiDAR-based distillation scheme - LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation (CVPR 2023)](https://csj000714.tistory.com/m/1156)
 
 ---
 

@@ -69,7 +69,7 @@ Or we can sort by priority in descending order like this:
 @Query(sort: \Destination.priority, order: .reverse) var destinations: [Destination]
 ```
 
-That handles only one property, but so if you need more than one –&nbsp;if you want to sort by priority descending then name ascending, for example, you need to use a `SortDescriptor` array:
+That handles only one property, but so if you need more than one – if you want to sort by priority descending then name ascending, for example, you need to use a `SortDescriptor` array:
 
 ```swift
 @Query(sort: [SortDescriptor(\Destination.priority, order: .reverse), SortDescriptor(\Destination.name)]) var destinations: [Destination]

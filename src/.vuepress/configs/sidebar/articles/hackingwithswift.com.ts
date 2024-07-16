@@ -9,6 +9,7 @@ export const template: SidebarGroupItem = {
       '/explore/articles/hackingwithswift.com/ios9.md', // 2015-06-11
       '/explore/articles/hackingwithswift.com/new-features-swift-2.md', // 2015-06-11
       '/explore/articles/hackingwithswift.com/safari-content-blocking-ios9.md', // 2015-06-12
+      '/explore/articles/hackingwithswift.com/safari-content-blocking-ios9-install.md', // 2015-06-12
       '/explore/articles/hackingwithswift.com/ios9-tutorials.md', // 2015-06-11
       '/explore/articles/hackingwithswift.com/swift2-2.md', // 2016-03-21
       '/explore/articles/hackingwithswift.com/ios10.md', // 2016-06-13
@@ -319,241 +320,241 @@ export const template: SidebarGroupItem = {
             text: 'Introduction: Swift for Complete Beginners',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/00/overview.md',
+              '/explore/articles/hackingwithswift.com/read/00/overview.md',
             ]
           }, {
             text: 'Project 1: Storm Viewer',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/01/overview.md',
+              '/explore/articles/hackingwithswift.com/read/01/overview.md',
             ]
           }, {
             text: 'Project 2: Guess the Flag',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/02/overview.md',
+              '/explore/articles/hackingwithswift.com/read/02/overview.md',
             ]
           }, {
             text: 'Project 3: Social Media',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/03/overview.md',
+              '/explore/articles/hackingwithswift.com/read/03/overview.md',
             ]
           }, {
             text: 'Project 4: Easy Browser',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/04/overview.md',
+              '/explore/articles/hackingwithswift.com/read/04/overview.md',
             ]
           }, {
             text: 'Project 5: Word Scramble',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/05/overview.md',
+              '/explore/articles/hackingwithswift.com/read/05/overview.md',
             ]
           }, {
             text: 'Project 6: Auto Layout',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/06/overview.md',
+              '/explore/articles/hackingwithswift.com/read/06/overview.md',
             ]
           }, {
             text: 'Project 7: Whitehouse Petitions',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/07/overview.md',
+              '/explore/articles/hackingwithswift.com/read/07/overview.md',
             ]
           }, {
             text: 'Project 8: 7 Swifty Words',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/08/overview.md',
+              '/explore/articles/hackingwithswift.com/read/08/overview.md',
             ]
           }, {
             text: 'Project 9: Grand Central Dispatch',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/09/overview.md',
+              '/explore/articles/hackingwithswift.com/read/09/overview.md',
             ]
           }, {
             text: 'Project 10: Names to Faces',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/10/overview.md',
+              '/explore/articles/hackingwithswift.com/read/10/overview.md',
             ]
           }, {
             text: 'Project 11: Pachinko',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/11/overview.md',
+              '/explore/articles/hackingwithswift.com/read/11/overview.md',
             ]
           }, {
             text: 'Project 12: UserDefaults',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/12/overview.md',
+              '/explore/articles/hackingwithswift.com/read/12/overview.md',
             ]
           }, {
             text: 'Project 13: Instafilter',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/13/overview.md',
+              '/explore/articles/hackingwithswift.com/read/13/overview.md',
             ]
           }, {
             text: 'Project 14: Whack-a-Penguin',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/14/overview.md',
+              '/explore/articles/hackingwithswift.com/read/14/overview.md',
             ]
           }, {
             text: 'Project 15: Animation',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/15/overview.md',
+              '/explore/articles/hackingwithswift.com/read/15/overview.md',
             ]
           }, {
             text: 'Project 16: Capital Cities',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/16/overview.md',
+              '/explore/articles/hackingwithswift.com/read/16/overview.md',
             ]
           }, {
             text: 'Project 17: Space Race',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/17/overview.md',
+              '/explore/articles/hackingwithswift.com/read/17/overview.md',
             ]
           }, {
             text: 'Project 18: Debugging',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/18/overview.md',
+              '/explore/articles/hackingwithswift.com/read/18/overview.md',
             ]
           }, {
             text: 'Project 19: JavaScript Injection',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/19/overview.md',
+              '/explore/articles/hackingwithswift.com/read/19/overview.md',
             ]
           }, {
             text: 'Project 20: Fireworks Night',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/20/overview.md',
+              '/explore/articles/hackingwithswift.com/read/20/overview.md',
             ]
           }, {
             text: 'Project 21: Local Notifications',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/21/overview.md',
+              '/explore/articles/hackingwithswift.com/read/21/overview.md',
             ]
           }, {
             text: 'Project 22: Detect-a-Beacon',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/22/overview.md',
+              '/explore/articles/hackingwithswift.com/read/22/overview.md',
             ]
           }, {
             text: 'Project 23: Swifty Ninja',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/23/overview.md',
+              '/explore/articles/hackingwithswift.com/read/23/overview.md',
             ]
           }, {
             text: 'Project 24: Swift Strings',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/24/overview.md',
+              '/explore/articles/hackingwithswift.com/read/24/overview.md',
             ]
           }, {
             text: 'Project 25: Selfie Share',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/25/overview.md',
+              '/explore/articles/hackingwithswift.com/read/25/overview.md',
             ]
           }, {
             text: 'Project 26: Marble Maze',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/26/overview.md',
+              '/explore/articles/hackingwithswift.com/read/26/overview.md',
             ]
           }, {
             text: 'Project 27: Core Graphics',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/27/overview.md',
+              '/explore/articles/hackingwithswift.com/read/27/overview.md',
             ]
           }, {
             text: 'Project 28: Secret Swift',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/28/overview.md',
+              '/explore/articles/hackingwithswift.com/read/28/overview.md',
             ]
           }, {
             text: 'Project 29: Exploding Monkeys',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/29/overview.md',
+              '/explore/articles/hackingwithswift.com/read/29/overview.md',
             ]
           }, {
             text: 'Project 30: Instruments',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/30/overview.md',
+              '/explore/articles/hackingwithswift.com/read/30/overview.md',
             ]
           }, {
             text: 'Project 31: Multibrowser',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/31/overview.md',
+              '/explore/articles/hackingwithswift.com/read/31/overview.md',
             ]
           }, {
             text: 'Project 32: SwiftSearcher',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/32/overview.md',
+              '/explore/articles/hackingwithswift.com/read/32/overview.md',
             ]
           }, {
             text: 'Project 33: What\'s that Whistle?',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/33/overview.md',
+              '/explore/articles/hackingwithswift.com/read/33/overview.md',
             ]
           }, {
             text: 'Project 34: Four in a Row',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/34/overview.md',
+              '/explore/articles/hackingwithswift.com/read/34/overview.md',
             ]
           }, {
             text: 'Project 35: Generating random numbers',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/35/overview.md',
+              '/explore/articles/hackingwithswift.com/read/35/overview.md',
             ]
           }, {
             text: 'Project 36: Crashy Plane',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/36/overview.md',
+              '/explore/articles/hackingwithswift.com/read/36/overview.md',
             ]
           }, {
             text: 'Project 37: Psychic Tester',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/37/overview.md',
+              '/explore/articles/hackingwithswift.com/read/37/overview.md',
             ]
           }, {
             text: 'Project 38: GitHub Commits',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/38/overview.md',
+              '/explore/articles/hackingwithswift.com/read/38/overview.md',
             ]
           }, {
             text: 'Project 39: Unit testing with XCTest',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/39/overview.md',
+              '/explore/articles/hackingwithswift.com/read/39/overview.md',
             ]
           }, 
         ]

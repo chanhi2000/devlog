@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -89,7 +89,7 @@ At the time of writing `keyDecodingStrategy` and `keyEncodingStrategy` are not a
   "desc": "Synthesized Equatable and Hashable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/synthesized-protocols.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -99,7 +99,7 @@ At the time of writing `keyDecodingStrategy` and `keyEncodingStrategy` are not a
   "desc": "Key decoding strategies for Codable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/key-decoding-strategies.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -109,7 +109,7 @@ At the time of writing `keyDecodingStrategy` and `keyEncodingStrategy` are not a
   "desc": "Conditional conformances",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/conditional-conformance.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -119,7 +119,7 @@ At the time of writing `keyDecodingStrategy` and `keyEncodingStrategy` are not a
   "desc": "Recursive constraints on associated types",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/recursive-constraints.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -129,7 +129,7 @@ At the time of writing `keyDecodingStrategy` and `keyEncodingStrategy` are not a
   "desc": "Build configuration import testing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/import-testing.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -139,7 +139,7 @@ At the time of writing `keyDecodingStrategy` and `keyEncodingStrategy` are not a
   "desc": "Target environment testing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/target-environment.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -149,7 +149,7 @@ At the time of writing `keyDecodingStrategy` and `keyEncodingStrategy` are not a
   "desc": "flatMap is now (partly) compactMap()",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/compactmap.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

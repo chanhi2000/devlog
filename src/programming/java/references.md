@@ -648,6 +648,7 @@ tag:
 - [`google-developer-experts` / Kotlin Coroutine mechanisms: `launch` v. `async`](https://medium.com/google-developer-experts/kotlin-coroutine-mechanisms-launch-v-async-7877f8b67e30)
 - [`proandroiddev` / SOLID Design Principles In Kotlin](https://proandroiddev.com/solid-design-principles-in-kotlin-79100c670df1)
 - [`proandroiddev` / Destructuring Declarations in Kotlin](https://proandroiddev.com/destructuring-declarations-in-kotlin-b0dfc04b737a)
+- [`betterprogramming` / Concurrency vs. Parallelism Using Kotlin](https://betterprogramming.pub/the-difference-between-concurrency-and-parallelism-explained-using-kotlin-83f4159581d)
 
 <!-- END: medium -->
 

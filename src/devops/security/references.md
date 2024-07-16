@@ -76,6 +76,7 @@ tag:
 ## Blog - LINE ENGINEERING
 
 - [생체 정보를 활용한 안전한 로그인, passwordless LINE 프로젝트를 소개합니다](https://engineering.linecorp.com/ko/blog/secure-line-login-biometric-key) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/secure-line-login-biometric-key.md) -->
+- [기기와 앱의 무결성 보장부터 서비스 요청 보호까지: LINE의 기기 증명 서비스 - 1편](https://techblog.lycorp.co.jp/ko/line-device-attestation-1) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/line-device-attestation-1.md) -->
 
 ---
 

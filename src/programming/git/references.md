@@ -393,4 +393,10 @@ head:
 
 ---
 
+## 뽀글뽀글 개발 일지
+
+- [Git Submodule 사용 방법](https://bbogle2.tistory.com/m/entry/Git-Submodule-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+
+---
+
 <TagLinks />

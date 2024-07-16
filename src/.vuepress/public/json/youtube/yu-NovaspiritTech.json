@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/4cfS36Ere2G2viZ1eUeJIny-Q-QZ6op3UnM3r0HkThZzZFLyzj69gWgfwoAAd6lNt6c43GLxVw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ix5q6deTT18", "title": "Install This Dashboard on Your Homelab now!" },
+    { "id": "0mvRF4bAhHs", "title": "Hackintosh Install Script For Proxmox" },
+    { "id": "VILBY-xZD8E", "title": "Install Proxmox 8 on Raspberry Pi OS" },
+    { "id": "9EZYM65d04I", "title": "Building Proxmox LXC with smb / cifs support From Your NAS" },
+    { "id": "4N12xgaOnqs", "title": "New Way To Connect To Your Pi" },
+    { "id": "vxT5sRIisJE", "title": "Fake Graphic Acceleration Without a GPU For Your VM" },
+    { "id": "MPHGl8X7tvY", "title": "Moving My Dockers to Proxmox LXC Containers" },
+    { "id": "7QKkisKu9dU", "title": "What's in my Linux : Ubuntu 24.04 Gnome Desktop Setup Tour" },
+    { "id": "JYYLvd13zoY", "title": "Best Upgrade for the Raspberry Pi 5" },
+    { "id": "dI68NoGYl_I", "title": "Building A NAS with Raspberry Pi 5 M.2 Hat+" },
+    { "id": "25MXnCjM9h4", "title": "Macintosh Like Virtual Window Manager!" },
+    { "id": "80PHRWH84Tc", "title": "Upgrade Your Terminal" },
     { "id": "zmtnbl2OJYs", "title": "Play PC Games on Raspberry Pi 5" },
     { "id": "rDNWhwWCk2k", "title": "Outfit your Proxmox with Pi-Hole" },
     { "id": "3pGuZz_1BzI", "title": "A Complete OS on 1.44MB Floppy Disk" },

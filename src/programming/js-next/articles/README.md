@@ -11,6 +11,7 @@ tag:
   - blog
   - freecodecamp.org
   - yozm.wishket.com
+  - toss.tech
   - node
   - nodejs
   - node-js
@@ -45,6 +46,13 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<SiteInfo
+  name="토스 기술 블로그, 토스 테크"
+  desc="토스의 개발과 디자인에 대한 이야기를 다룹니다."
+  url="https://toss.tech/"
+  logo="https://static.toss.im/tds/favicon/favicon.ico"
+  preview="https://static.toss.im/assets/payments/contents/toss-tech-banner2_.png"/>
 
 [[toc]]
 
@@ -95,6 +103,22 @@ head:
 <!-- END: yozm.wishket.com -->
 
 ---
+
+## 토스 기술 블로그, 토스 테크
+
+> toss.tech
+
+```component VPCard
+{
+  "title": "SSR 서버 최적화로 비용 아끼기",
+  "desc": "오늘은 SSR 아키텍처 운영을 위해 반드시 알아두어야 할, SSR 서버의 최적화와 관련된 이야기를 해보려 합니다. 최적화를 통해 토스는 서비스 운영에 필요한 SSR 서버의 수를 절감하여 비용을 개선할 수 있었습니다.",
+  "link": "/explore/articles/toss.tech/ssr-server.md",
+  "logo": "https://static.toss.im/tds/favicon/favicon.ico",
+  "background": "rgba(88,176,209,0.2)"
+}
+```
+
+<!-- END: toss.tech -->
 
 ---
 

@@ -66,7 +66,7 @@ Rectangle()
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/swiftui/how-to-create-new-colors-by-blending-two-other-swiftui-colors-1.zip)
 
-However, you can also customize the colorspace. It's set to `.perceptual` by default, meaning that humans perceive the colors to blend smoothly – it's not strictly accurate to exact color values, but it <em>feels</em> accurate to our eyes. We could also the `.device` colorspace, which means the blending is more mathematically accurate as a value between 0 and 1:
+However, you can also customize the colorspace. It's set to `.perceptual` by default, meaning that humans perceive the colors to blend smoothly – it's not strictly accurate to exact color values, but it *feels* accurate to our eyes. We could also the `.device` colorspace, which means the blending is more mathematically accurate as a value between 0 and 1:
 
 ```swift
 Rectangle()

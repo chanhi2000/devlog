@@ -41,5 +41,12 @@
     "topics": [],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "oskardudycz/EventSourcing.NetCore",
+    "desc": "Examples and Tutorials of Event Sourcing in .NET",
+    "officialSite": "https://event-driven.io",
+    "topics": ["cqrs", "dotnet-core", "event-sourcing", "example", "hacktoberfest", "marten", "mediatr", "netcore"],
+    "avatar": "https://avatars.githubusercontent.com/u/5562528?v=4",
+    "banner": ""
   }
 ]

@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -81,7 +81,7 @@ With `#unavailable`, this behavior no longer makes sense: would writing `if #una
   "desc": "Introduce existential any",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/existential-any.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -91,7 +91,7 @@ With `#unavailable`, this behavior no longer makes sense: would writing `if #una
   "desc": "Type placeholders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/type-placeholders.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -101,7 +101,7 @@ With `#unavailable`, this behavior no longer makes sense: would writing `if #una
   "desc": "Allow coding of non String/Int keyed Dictionary into a KeyedContainer",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/codingkeyrepresentable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -111,7 +111,7 @@ With `#unavailable`, this behavior no longer makes sense: would writing `if #una
   "desc": "Unavailability condition",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/unavailable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -121,7 +121,7 @@ With `#unavailable`, this behavior no longer makes sense: would writing `if #una
   "desc": "More concurrency changes",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/preconcurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -131,7 +131,7 @@ With `#unavailable`, this behavior no longer makes sense: would writing `if #una
   "desc": "Plugins for Swift Package Manager",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/swiftpm-plugins.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

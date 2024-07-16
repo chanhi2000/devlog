@@ -274,7 +274,7 @@ Apple's documentation states that when you adopt speech recognition in your app,
 
 In the old days of iOS 9, you would create a `UILocalNotification` object, and schedule it to run at a time you specified. Now you create notification content (what to show), define a notification trigger (when to show it), wrap them both inside a request, and send it off to a notification center for delivery. That same notification center is also responsible for managing user authorization, because you need the OK from users to show alerts.
 
-Putting all that together, the following code requests user authorization to show alerts, then creates a notification that is shown after 10 seconds. To try it out, put this into your `viewDidLoad()` method, run the app, then press Cmd+L to lock your device so the alert will appear.
+Putting all that together, the following code requests user authorization to show alerts, then creates a notification that is shown after 10 seconds. To try it out, put this into your `viewDidLoad()` method, run the app, then press <kbd>Cmd</kbd>+<kbd>L</kbd> to lock your device so the alert will appear.
 
 ```swift
 let center = UNUserNotificationCenter.current()

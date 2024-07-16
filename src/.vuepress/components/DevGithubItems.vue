@@ -190,7 +190,9 @@ export default {
         repo: data?.full_name ?? _fullName,
         desc: data?.description ?? '',
         officialSite: data?.homepage ?? '',
-        topics: data?.topics ?? []
+        topics: data?.topics ?? [],
+        avatar: data?.owner.avatar_url ?? '',
+        banner: '',
       }
     },
     async copyToClipboard(text = '') {

@@ -284,14 +284,14 @@ This change does help drive consistency: all properties and parameters should st
 At the same time enum cases are also changing, moving from UpperCamelCase to lowerCamelCase. This makes sense: an enum is a data type (like a struct), but enum values are closer to properties. However, it does mean that wherever you've used an Apple enum, it will now be lowercase. So:
 
 ```swift
-UIInterfaceOrientationMask.Portrait <span class="token comment">// old
-UIInterfaceOrientationMask.portrait <span class="token comment">// new
+UIInterfaceOrientationMask.Portrait // old
+UIInterfaceOrientationMask.portrait // new
 
-NSTextAlignment.Left <span class="token comment">// old
-NSTextAlignment.left <span class="token comment">// new
+NSTextAlignment.Left // old
+NSTextAlignment.left // new
 
-SKBlendMode.Replace <span class="token comment">// old
-SKBlendMode.replace <span class="token comment">// new
+SKBlendMode.Replace // old
+SKBlendMode.replace // new
 ```
 
 You get the idea. However, this tiny change brings something much bigger because Swift's optionals are actually just an enum under the hood, like this:
@@ -365,8 +365,8 @@ CGAffineTransform(scaleX: 2, y: 2)
 CGAffineTransformMakeTranslation(128, 128)
 CGAffineTransform(translationX: 128, y: 128)
 
-CGAffineTransformMakeRotation(CGFloat(<span class="token constant">M_PI))
-CGAffineTransform(rotationAngle: CGFloat(<span class="token constant">M_PI))
+CGAffineTransformMakeRotation(CGFloat(M_PI))
+CGAffineTransform(rotationAngle: CGFloat(M_PI))
 ```
 
 ---

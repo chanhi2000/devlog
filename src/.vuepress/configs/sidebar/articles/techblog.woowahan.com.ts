@@ -27,6 +27,9 @@ export const template: SidebarInfoTemplate = {
     "git", [
       "16044", // 2024-03-21
     ]],[
+    "system-design", [
+      "17911", // 2024-06-25
+    ]],[
     "openai", [
       "16044", // 2024-03-21
     ]],[
@@ -40,6 +43,7 @@ export const template: SidebarInfoTemplate = {
       "15903", // 2024-04-24
       "17221", // 2024-04-30
       "17710", // 2024-06-07
+      "17911", // 2024-06-25
     ]],
   ])
 }

@@ -252,7 +252,7 @@ Let's start with a simple example: filtering dictionaries in Swift 3 does *not* 
 
 ```swift
 let cities = ["Shanghai": 24_256_800, "Karachi": 23_500_000, "Beijing": 21_516_000, "Seoul": 9_995_000];
-let massiveCities = cities.filter { $0.value &gt; 10_000_000 }
+let massiveCities = cities.filter { $0.value > 10_000_000 }
 ```
 
 After that code runs you can't read `massiveCities["Shanghai"]` because it is no longer a dictionary. Instead, you need to use `massiveCities[0].value`, which isn't great.
@@ -356,7 +356,7 @@ Here's an example:
 
 ```swift
 let characters = ["Dr Horrible", "Captain Hammer", "Penny", "Bad Horse", "Moist"]
-let bigParts = characters[..&lt;3]
+let bigParts = characters[..<3]
 let smallParts = characters[3...]
 print(bigParts)
 print(smallParts)

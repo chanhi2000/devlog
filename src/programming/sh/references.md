@@ -201,7 +201,7 @@ tag:
 
 ---
 
-## Snyk
+## Developer security | Snyk
 
 - [How to update cURL](https://snyk.io/blog/how-to-update-curl)
 
@@ -391,10 +391,15 @@ tag:
 
 ---
 
-
 ## matttproud.com (blog)
 
 - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
+
+---
+
+## Adrian Sampson
+
+- [Automated Test-Case Reduction](https://www.cs.cornell.edu/~asampson/blog/autoreduction.html)
 
 ---
 

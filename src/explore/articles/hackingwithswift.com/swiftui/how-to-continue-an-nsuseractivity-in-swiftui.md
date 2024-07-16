@@ -52,7 +52,7 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI has a dedicated `onContinueUserActivity()` modifier that can catch a variety of `NSUserActivity` types –&nbsp;clicks from the web, launches from Spotlight or Siri, and more. Previously you might have handled this in your `AppDelegate` using something like `application(_:continue:restorationHandler:)`, but SwiftUI’s approach is more fine-grained and lets us divide functionality more easily.
+SwiftUI has a dedicated `onContinueUserActivity()` modifier that can catch a variety of `NSUserActivity` types – clicks from the web, launches from Spotlight or Siri, and more. Previously you might have handled this in your `AppDelegate` using something like `application(_:continue:restorationHandler:)`, but SwiftUI’s approach is more fine-grained and lets us divide functionality more easily.
 
 To implement this, first create a function that will accept an `NSUserActivity`. You don’t need to do this inside your `App` struct, but it would make sense to do so because you can then route it wherever you need in the rest of your program.
 

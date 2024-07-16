@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -102,7 +102,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Async await",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/async-await.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -112,7 +112,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Async sequences",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/async-sequences.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -122,7 +122,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Effectful read-only properties",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/effectful-read-only-properties.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -132,7 +132,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Structured concurrency",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/structured-concurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -142,7 +142,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "async let bindings",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/async-let-bindings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -152,7 +152,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Continuations for interfacing async tasks with synchronous code",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/continuations.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -162,7 +162,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Actors",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/actors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -172,7 +172,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Global actors",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/global-actors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -182,7 +182,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Sendable and @Sendable closures",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/sendable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -192,7 +192,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "if for postfix member expressions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/postfix-if.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -202,7 +202,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Interchangeable use of CGFloat and Double types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/interchangeable-cgfloat-double.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -212,7 +212,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Codable synthesis for enums with associated values",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/codable-enums.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -222,7 +222,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "lazy now works in local contexts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/local-lazy.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -232,7 +232,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Extending property wrappers to function and closure parameters",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/property-wrapper-function-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -242,7 +242,7 @@ Technically you could make `result` end up as two completely different types if 
   "desc": "Extending static member lookup in generic contexts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/static-member-generic.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

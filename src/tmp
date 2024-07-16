@@ -1,16 +1,4 @@
- 2024-04-16
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "ix5q6deTT18", "title": "Install This Dashboard on Your Homelab now!" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "0mvRF4bAhHs", "title": "Hackintosh Install Script For Proxmox" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "VILBY-xZD8E", "title": "Install Proxmox 8 on Raspberry Pi OS" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "9EZYM65d04I", "title": "Building Proxmox LXC with smb / cifs support From Your NAS" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "4N12xgaOnqs", "title": "New Way To Connect To Your Pi" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "vxT5sRIisJE", "title": "Fake Graphic Acceleration Without a GPU For Your VM" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "MPHGl8X7tvY", "title": "Moving My Dockers to Proxmox LXC Containers" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "7QKkisKu9dU", "title": "What's in my Linux : Ubuntu 24.04 Gnome Desktop Setup Tour" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "JYYLvd13zoY", "title": "Best Upgrade for the Raspberry Pi 5" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "dI68NoGYl_I", "title": "Building A NAS with Raspberry Pi 5 M.2 Hat+" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "25MXnCjM9h4", "title": "Macintosh Like Virtual Window Manager!" },
-{ "channelId": "ashishps_1", "channelName": "Ashish Pratap Singh", "id": "l3X1t3kpmwY", "title": "How to Master System Design Interviews (as a beginner)" },
+// 2024-04-16
 { "channelId": "FaztTech", "channelName": "Fazt", "id": "jgVR6d1m5uE", "title": "Mis Servicios Favoritos de Hosting para Alojar y Desplegar Aplicaciones" },
 { "channelId": "FaztTech", "channelName": "Fazt", "id": "6Mncbrp80To", "title": "¿Qué es ERP? - Conoce porque un ERP vital para empresas" },
 { "channelId": "FaztTech", "channelName": "Fazt", "id": "eymgiK3y2mU", "title": "¿Cuál es el mejor lenguaje de programación de Backend para ti?" },
@@ -13039,14 +13027,12 @@ https://kangmyounghun.blogspot.com/2024/05/splunk.html
 { "channelId": "beardfm", "channelName": "Stephen Robles", "id": "_RnKDM6jwWE", "title": "Clipboard Manager for iPad! Plus 10 Shortcuts for Apple Pencil" },
 { "channelId": "InternetMadeCoder", "channelName": "Internet Made Coder", "id": "ITQwz8dazRI", "title": "Why Big Tech Salaries are Collapsing" },
 { "channelId": "hyukppen", "channelName": "혁펜하임 | AI &amp; 딥러닝 강의", "id": "DQLJdMWV-wA", "title": "[Easy! 딥러닝] 6-3강. MSE vs BCE 비교 분석" },
-{ "channelId": "NovaspiritTech", "channelName": "Novaspirit Tech", "id": "80PHRWH84Tc", "title": "Upgrade Your Terminal" },
 { "channelId": "WebDevCody", "channelName": "Web Dev Cody", "id": "-AvekepqJzw", "title": "How I setup pagination in my Next.js app (with Drizzle ORM)" },
 { "channelId": "tahazsh", "channelName": "Taha Shashtari", "id": "xqEy1p2sFoM", "title": "Smoothly Animate Elements Based on Cursor Position" },
 { "channelId": "boanproject", "channelName": "보안프로젝트[boanproject]", "id": "SrxDwE4H_2s", "title": "파이썬 업무 자동화 - 슬랙(Slack) 웹훅을 이용한 업무 메시지 자동 보내기 #python #slack" },
 { "channelId": "codingambitions", "channelName": "Coding Ambitions", "id": "9eIB_Ahhxx8", "title": "How to use Room Database in Compose Multiplatform | Room DB Kotlin Multiplatform | Room DB for KMP" },
 { "channelId": "PhaestusFox", "channelName": "PhaestusFox", "id": "cfWneHSph4E", "title": "Zero To Pong With Bevy" },
 { "channelId": "aiadjunct", "channelName": "AI 겸임교수 이종범 ", "id": "xj9uqrXSKx8", "title": "GOOVER: 퍼플랙시티를 뛰어넘는 한국의 AI 비서, 검색부터 보고서 작성까지 원스톱 서비스" },
-{ "channelId": "ashishps_1", "channelName": "Ashish Pratap Singh", "id": "F-ao3Q6I2Fc", "title": "How I Mastered Data Structures and Algorithms" },
 { "channelId": "AZisk", "channelName": "Alex Ziskind", "id": "6WaYtvK2uqE", "title": "69 Million Pixels and 2.5Gbps with FusionDock | Giveaway" },
 { "channelId": "GOTO-", "channelName": "GOTO Conferences", "id": "XScwfSk5uTM", "title": "The Verification of a Distributed System • Caitie McCaffrey • YOW! 2016" },
 { "channelId": "jocoding", "channelName": "조코딩 JoCoding", "id": "aXYWt16GO0k", "title": "IT뉴스 - GPT-4o 오픈소스 Moshi, 오픈AI 해킹, Live Portrait, 엔비디아 AI 칩 밀수, 젠-3 알파, ARC-Prize 등" },
@@ -15078,10 +15064,6 @@ https://www.slideshare.net/slideshow/ss-183469952/183469952
 https://www.slideshare.net/slideshow/ab-150118831/150118831
 https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers
 https://gruuuuu.github.io/ibm/db2wh-wxdata/
-DevOps
-
-https://toss.tech/article/ssr-server">SSR 서버 최적화로 비용 아끼기
-https://techblog.woowahan.com/17911/">B마트 주문 유실을 없애보자: 네트워크 편
 
 설계
 https://infoq.com/articles/netflix-highly-reliable-stateful-systems/">How Netflix Ensures Highly-Reliable Online Stateful Systems
@@ -15098,10 +15080,10 @@ https://enterpriseintegrationpatterns.com/ramblings/coupling_facets.html">The Ma
 https://zaidesanton.substack.com/p/the-biggest-problem-in-todays-work?triedRedirect=true">Distracting software engineers is much more harmful than you think
 https://blog.code-cop.org/2024/04/39-years-of-coding.html">39 Years of Coding
 https://v.daum.net/v/20240704185116596">“연봉 1억, 삼성보다 더 준다” 다들 가고 싶어 난리였는데…어쩌다가
-https://www.ciokorea.com/news/342927">금융 혁명과 빅브라더 사이··· 모건스탠리 AI 도구 ‘디브리프’에 엇갈리는 전문가 평가
-https://www.ciokorea.com/news/343004">“한국인 93%가 직장서 번아웃 경험” 유아이패스 설문조사
-https://www.ciokorea.com/news/342997">일선 직원이 AI를 두려워하는 5가지 요소··· 그 해결책은?
-https://www.ciokorea.com/news/342556">정철환 칼럼 | 개발자와 테스터
+https://ciokorea.com/news/342927">금융 혁명과 빅브라더 사이··· 모건스탠리 AI 도구 ‘디브리프’에 엇갈리는 전문가 평가
+https://ciokorea.com/news/343004">“한국인 93%가 직장서 번아웃 경험” 유아이패스 설문조사
+https://ciokorea.com/news/342997">일선 직원이 AI를 두려워하는 5가지 요소··· 그 해결책은?
+https://ciokorea.com/news/342556">정철환 칼럼 | 개발자와 테스터
 https://prologue.rememberapp.co.kr/24070201">‘30년 IT 외길’ 천생 개발자, AI의 바퀴로 세상을 굴리다!
 https://v.daum.net/v/20240702210320266">화이트칼라 시대는 갔다...‘블루칼라’의 역습 [스페셜리포트]
 https://www.bok.or.kr/portal/bbs/P0002353/view.do?nttId=10085515&searchCnd=1&searchKwd=&depth2=201156&depth3=200433&depth=200433&pageUnit=10&pageIndex=1&programType=newsData&menuNo=200433&oldMenuNo=200433">BOK Issue Note - [제2024-17호] 2차 베이비부머의 은퇴연령 진입에 따른 경제적 영향 평가
@@ -15119,7 +15101,7 @@ https://www.thestartupbible.com/2024/06/cynics-sound-smart-but-vcs-have-to-be-op
 https://n.news.naver.com/article/029/0002882969?type=journalists">`8비트 컴퓨터`에 홀딱 반한 소년, `쿵푸팬더 4`의 리드 개발자 되다 [오늘의 DT인]
 https://www.aipostkorea.com/news/articleView.html?idxno=2555">"회사 그만두고 6개월 수강했는데 허탕"…'AI 도시' 광주서 '코딩학원 낭인' 는다
 https://www.hankyung.com/article/2024062508211">월 400만원 준대서 동남아 갔는데…"너 납치된거야"
-https://www.ciokorea.com/news/341723">요식적 관행도, 징벌 수단도 아니다··· IT 조직을 위한 ‘SLA’ 안내서
+https://ciokorea.com/news/341723">요식적 관행도, 징벌 수단도 아니다··· IT 조직을 위한 ‘SLA’ 안내서
 https://sabootcamp.ck.page/posts/microservices-vs-event-driven-plus-sa-interview-mistakes">Microservices Vs. Event Driven Plus SA Interview Mistakes
 https://techblog.lycorp.co.jp/ko/code-review-culture-of-line-client-developers">LINE 클라이언트 개발자들이 만드는 '코드 리뷰 문화'
 https://www.thisisgame.com/webzine/news/nboard/4/?n=190657">엔씨소프트 세 개로 나뉜다... QA와 응용 소프트웨어 사업부 분할 추진
@@ -15130,13 +15112,6 @@ https://news.mt.co.kr/mtview.php?no=2024061809265258954">현대오토에버, '�
 
 - [개발자를 위한 구글 사용 팁](https://taegon.kim/archives/9747)
 - https://www.slideshare.net/slideshow/2018-datayanolja-moreeffectivewebcrawling/120335071
-- [Logo Programming With Turtle Graphics IBM PC](https://archive.org/details/logo-programming-with-turtle-graphics-ibm-pc/page/n9/mode/2up)
-- [\[Qt\] Drag&Drop으로 QTreeWidget 제어하기](https://1d1cblog.tistory.com/m/519)
-- [\[Qt\] QString::toInt 주의사항](https://1d1cblog.tistory.com/m/520)
-- [로컬에서 도메인 구입없이 내 PC에 도메인 사용하기](https://bum752.github.io/posts/%EB%82%B4-PC%EC%97%90-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
-- [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
-- [Identifying leap years](https://davecturner  .github.io/2020/08/07/leapyear-optimization.html)
-https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt
 - [UML Class Diagram Explained with Examples](https://blog.algomaster.io/p/uml-class-diagram-explained-with-examples)
 - [Never* use Datagrams](https://quic.video/blog/never-use-datagrams/)
 - [컴퓨터 밑바닥의 비밀 - 1장](https://mingule.tistory.com/m/80)
@@ -15162,28 +15137,6 @@ https://framagit.org/framasoft/framaspace/argos/
 - [전화망 서비스 개발을 위한 기초 지식 정리](https://kingpiggylab.tistory.com/m/418)
 - [How To Survive 3 Years In North Korea As A Foreigner](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 - [Documenting APIs](https://idratherbewriting.com/learnapidoc/docapis_introtoapis.html)
-
-<!-- JavaScript -->
-- [TypeScript with Node.js](https://www.robinwieruch.de/typescript-node/)
-- [A Guide on How to Build a Blockchain with Javascript](https://hackernoon.com/a-guide-on-how-to-build-a-blockchain-with-javascript)
-- [How to build, test, and publish a TypeScript npm package in 2022](https://www.strictmode.io/articles/build-test-and-publish-npm-package-2022)
-- [How to write your first unit test in JavaScript](https://snyk.io/blog/how-to-write-unit-test-in-javascript/)
-- [How We Improved React Loading Times by 70% with Next.js](https://www.causal.app/blog/next-js)
-- [Building a chat app with Socket.io and React Native 🤯](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
-- [Lessons learned from moving to Recoil.js](https://kitemaker.co/blog/lessons-learned-from-moving-to-recoil)
-
-<!-- Mobile -->
-- [Introduction to SwiftUI Modularisation with SPM](https://holyswift.app/introduction-to-swiftui-modularisation-with-spm/)
-- [Effectively using Android Lint in existing projects](https://proandroiddev.com/effectively-using-android-lint-in-existing-projects-eacff100a919)
-- [Hello Swift Charts - WWDC 2022](https://yaacoub.github.io/articles/swift-tip/hello-swift-charts-wwdc-2022/)
-- [From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
-- [Building a Budget Tracker with Jetpack Compose](https://victorbrandalise.com/budget-tracker-with-jetpack-compose/)
-
-<!-- OOP -->
-- [Cool features in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/cool-features-in-visual-studio-2022/)
-- [Concurrency vs. Parallelism Using Kotlin](https://betterprogramming.pub/the-difference-between-concurrency-and-parallelism-explained-using-kotlin-83f4159581d)
-- [A Quick Guide to Learn ASP.NET Core Web API](https://codingsonata.com/a-quick-guide-to-learn-asp-net-core-web-api/)
-- [Practical Samples and Tutorials of Event Sourcing in .NET](https://github.com/oskardudycz/EventSourcing.NetCore)
 
 <!-- Etc -->
 - [How to Boost Code Coverage with Functional Testing](https://doordash.engineering/2022/11/01/how-to-boost-code-coverage-with-functional-testing/)
@@ -15481,3 +15434,4 @@ https://framagit.org/framasoft/framaspace/argos/
 - [BOK 이슈노트 - \[제2024-17호\] 2차 베이비부머의 은퇴연령 진입에 따른 경제적 영향 평가](https://bok.or.kr/portal/bbs/P0002353/view.do?nttId=10085515&searchCnd=1&searchKwd=&depth2=201156&depth3=200433&depth=200433&pageUnit=10&pageIndex=1&programType=newsData&menuNo=200433&oldMenuNo=200433)
 
 - [purphoros/fetch-opengraph 참고](https://github.com/purphoros/fetch-opengraph)
+- [JIRA6/fate 참고 README](https://github.com/JIRA6/fate)

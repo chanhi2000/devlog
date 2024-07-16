@@ -149,19 +149,21 @@ head:
 - [`remvst` / Path to Glory — post mortem (JS13K 2023)](https://remvst.medium.com/path-to-glory-post-mortem-js13k-2023-be74a5272621)
 - [`nmc-techblog` / Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
 - [`bitsrc` / Frontend Application Security: Tips and Tricks](https://blog.bitsrc.io/frontend-application-security-tips-practices-f9be12169e66)
-- [`jeongwoo` / 모던자바스크립트 스터디 3장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9E%A5-1174b71cdb3d)
 - [`lokesh-prajapati` / JavaScript Shorthand Techniques — Ultimate Cheat-Sheet](https://lokesh-prajapati.medium.com/javascript-shorthand-techniques-ultimate-cheat-sheet-415d9abbe47c)
 - [`junghan92` / (번역) 주의 깊게 XMLHttpRequest 재시도하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%A3%BC%EC%9D%98-%EA%B9%8A%EA%B2%8C-xmlhttprequest-%EC%9E%AC%EC%8B%9C%EB%8F%84%ED%95%98%EA%B8%B0-2895dfa66b43)
 - [`watcha` / 웹브라우저에서 동작하는 녹화앱 만들기](https://medium.com/watcha/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EB%85%B9%ED%99%94%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-70142ce28994)
 - [`naver-place-dev` / 자바스크립트와 V8 엔진의 메모리 관리 프로세스 \[ko\]](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 - [`javascript-scene` / 10 Interview Questions Every JavaScript Developer Should Know in 2024](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb)
 - [`violetboralee` / 모던 자바스크립트란 무엇인가(updated)](https://violetboralee.medium.com/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f7e115f03533)
-- [`jeongwoo` / 모던자바스크립트 스터디 3장(2)](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9E%A5-2-103e10334e6b)
 - [`오늘의-프로그래밍` / 프로젝트에서 jQuery 의 사용을 그만두겠다고 결심한 이유](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-jquery-%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B2%A0%EB%8B%A4%EA%B3%A0-%EA%B2%B0%EC%8B%AC%ED%95%9C-%EC%9D%B4%EC%9C%A0-45379cba95b6)
 - [`performance-engineering-for-the-ordinary-barbie` / How Javascript manages memory](https://medium.com/performance-engineering-for-the-ordinary-barbie/how-javascript-manages-memory-b0ea98f4525b)
 - [`plainenglish` / Code Like a Pro: Cutting-Edge JavaScript Optimization Techniques](https://javascript.plainenglish.io/code-like-a-pro-cutting-edge-javascript-optimization-techniques-7f843dd034b4)
-- [`jeongwooahn` / 모던자바스크립트 스터디 4장](https://jeongwooahn.medium.com/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-4%EC%9E%A5-2b21b48c7ef7?source=rss-3d75258a9bf8------2)
 - [`jeongwooahn` / JavaScript Set객체 활용하기](https://jeongwooahn.medium.com/javascript-set%EA%B0%9D%EC%B2%B4-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-29ecca9acbba?source=rss-3d75258a9bf8------2)
+- [`jeongwoo`](https://blog.jeongwoo.in)
+  - [모던자바스크립트 스터디 3장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9E%A5-1174b71cdb3d)  
+  - [모던자바스크립트 스터디 3장(2)](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9E%A5-2-103e10334e6b)
+  - [모던자바스크립트 스터디 4장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-4%EC%9E%A5-2b21b48c7ef7)
+  - [모던자바스크립트 스터디 5장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-5%EC%9E%A5-3a8d39485e66)
 
 
 <!-- END: medium.com -->
@@ -584,5 +586,11 @@ head:
 - [Why the `with()` method of JavaScript Array is a gem?](https://blog.greenroots.info/javascript-array-method-with-immutability)
 
 ---
+
+## Developer security | Snyk
+
+- [How to write your first unit test in JavaScript](https://snyk.io/blog/how-to-write-unit-test-in-javascript/)
+
+--
 
 <TagLinks />

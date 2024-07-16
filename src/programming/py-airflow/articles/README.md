@@ -55,6 +55,8 @@ head:
 }
 ```
 
+<!-- END: shopify.engineering -->
+
 ---
 
 <TagLinks />

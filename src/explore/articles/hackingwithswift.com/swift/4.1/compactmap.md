@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -71,7 +71,7 @@ That will create an `Int` array containing the numbers 1 and 2, because "Fish" w
   "desc": "Synthesized Equatable and Hashable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/synthesized-protocols.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -81,7 +81,7 @@ That will create an `Int` array containing the numbers 1 and 2, because "Fish" w
   "desc": "Key decoding strategies for Codable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/key-decoding-strategies.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -91,7 +91,7 @@ That will create an `Int` array containing the numbers 1 and 2, because "Fish" w
   "desc": "Conditional conformances",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/conditional-conformance.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -101,7 +101,7 @@ That will create an `Int` array containing the numbers 1 and 2, because "Fish" w
   "desc": "Recursive constraints on associated types",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/recursive-constraints.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -111,7 +111,7 @@ That will create an `Int` array containing the numbers 1 and 2, because "Fish" w
   "desc": "Build configuration import testing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/import-testing.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -121,7 +121,7 @@ That will create an `Int` array containing the numbers 1 and 2, because "Fish" w
   "desc": "Target environment testing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/target-environment.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -131,7 +131,7 @@ That will create an `Int` array containing the numbers 1 and 2, because "Fish" w
   "desc": "flatMap is now (partly) compactMap()",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/compactmap.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->

@@ -139,7 +139,7 @@ modelContext.insert(florence)
 modelContext.insert(naples)
 ```
 
-Run the app again then press Add Samples, and you should see the new destinations appear in our list – it works! Even better, if you go back to Xcode and press Cmd+R again to relaunch the app, you’ll see they are still there, because SwiftData automatically saved them for us.
+Run the app again then press Add Samples, and you should see the new destinations appear in our list – it works! Even better, if you go back to Xcode and press <kbd>Cmd</kbd>+<kbd>R</kbd> again to relaunch the app, you’ll see they are still there, because SwiftData automatically saved them for us.
 
 This autosave behavior is enabled by default: as soon as our button code finishes executing SwiftData will save all our changes to its permanent storage, so our data is always safe.
 

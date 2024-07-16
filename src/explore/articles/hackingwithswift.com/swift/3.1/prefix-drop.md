@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -80,7 +80,7 @@ That will return the subsequence `["Taylor Swift", "Adele Adkins", "Michael Doug
   "desc": "Concrete constrained extensions",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/concrete-constrained-extensions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -90,7 +90,7 @@ That will return the subsequence `["Taylor Swift", "Adele Adkins", "Michael Doug
   "desc": "Generics with nested types",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/generic-nested-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -100,7 +100,7 @@ That will return the subsequence `["Taylor Swift", "Adele Adkins", "Michael Doug
   "desc": "Sequences get prefix(while:) and drop(while:) methods",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/prefix-drop.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->

@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -112,7 +112,7 @@ Even though from our perspective both send us back an `Equatable` type, and we *
 
 An important proviso here is that functions with opaque return types must always return one specific type. If for example we tried to use `Bool.random()` to randomly launch an `XWing` or a `YWing` then Swift would refuse to build our code because the compiler can no longer tell what will be sent back.
 
-You might well think “if we always need to return the same type, why not just write the function as `func launchFighter() -&gt; XWing`? While that might work sometimes, it creates new problems such as:
+You might well think “if we always need to return the same type, why not just write the function as `func launchFighter() -> XWing`? While that might work sometimes, it creates new problems such as:
 
 - We end up with types we don’t really want to expose to the world. For example, if we used `someArray.lazy.drop { … }` we get sent back a `LazyDropWhileSequence` – a dedicated and highly specific type from the Swift standard library. All we actually care about is that this thing is a sequence; we don’t need to know how Swift’s internals work.
 - We lose the ability to change our mind later. Making `launchFighter()` return only an `XWing` means we can’t switch to a different type in the future, and given how much Disney relies on Star Wars toy sales that would be a problem! By returning an opaque type we can return X-Wings today, then move to B-Wings in a year – we only ever return one in any given build of our code, but we can still have the flexibility to change our mind.
@@ -158,7 +158,7 @@ If you ever forget the difference between protocols and opaque types, think of t
   "desc": "Improvements to synthesized memberwise initializers",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/improved-memberwise-initializers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -168,7 +168,7 @@ If you ever forget the difference between protocols and opaque types, think of t
   "desc": "Implicit returns from single-expression functions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/implicit-returns.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -178,7 +178,7 @@ If you ever forget the difference between protocols and opaque types, think of t
   "desc": "Universal Self",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/universal-self.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -188,7 +188,7 @@ If you ever forget the difference between protocols and opaque types, think of t
   "desc": "Opaque return types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/opaque-return-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -198,7 +198,7 @@ If you ever forget the difference between protocols and opaque types, think of t
   "desc": "Static and class subscripts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/static-subscripts.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -208,7 +208,7 @@ If you ever forget the difference between protocols and opaque types, think of t
   "desc": "Warnings for ambiguous none cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/ambiguous-none-enum.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -218,7 +218,7 @@ If you ever forget the difference between protocols and opaque types, think of t
   "desc": "Matching optional enums against non-optionals",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/matching-optional-enums.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -228,7 +228,7 @@ If you ever forget the difference between protocols and opaque types, think of t
   "desc": "Ordered collection diffing",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/ordered-collection-diffing.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -238,7 +238,7 @@ If you ever forget the difference between protocols and opaque types, think of t
   "desc": "Creating uninitialized arrays",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/creating-uninitialized-arrays.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

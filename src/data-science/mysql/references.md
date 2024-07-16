@@ -67,6 +67,7 @@ head:
 - [`@eunbibi` - Tableau tutorial](https://velog.io/@eunbibi/Tableau-tutorial)
 - [`@eunbibi` - Tableau charts](https://velog.io/@eunbibi/Tableau-charts)
 - [`@beberiche` - 프로젝트 DB를 해킹 당했다.](https://velog.io/@beberiche/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-DB%EB%A5%BC-%ED%95%B4%ED%82%B9-%EB%8B%B9%ED%96%88%EB%8B%A4)
+- [`dradnats1012` / DB 서버 분리하기!](https://velog.io/@dradnats1012/DB-%EC%84%9C%EB%B2%84-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
 
 ---
 

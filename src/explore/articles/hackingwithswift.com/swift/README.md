@@ -49,7 +49,7 @@ head:
   "desc": "What's new in Swift?",
   "link": "https://hackingwithswift.com/swift",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -65,7 +65,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Complete concurrency enabled by default",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/concurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -75,7 +75,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "count(where:)",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/count-where.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -85,7 +85,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Typed throws",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/typed-throws.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -95,7 +95,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Pack iteration",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/pack-iteration.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -105,7 +105,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Add Collection Operations on Noncontiguous Elements",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/rangeset.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -115,7 +115,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Access-level modifiers on import declarations",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/access-level-import.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -125,7 +125,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Upgrades for noncopyable types",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/noncopyable-upgrades.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -135,7 +135,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "128-bit Integer Types",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/int128.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -145,7 +145,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "BitwiseCopyable",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/bitwisecopyable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -161,7 +161,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Data races are now clearly diagnosed",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/complete-concurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -171,7 +171,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Allow Protocols to be Nested in Non-Generic Contexts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/nested-protocols.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -181,7 +181,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Deprecate @UIApplicationMain and @NSApplicationMain",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/deprecate-uiapplicationmain.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -191,7 +191,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Refined actor initialization and deinitialization",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/actor-initialization.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -207,7 +207,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "if and switch expressions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/if-switch-expressions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -217,7 +217,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Value and Type Parameter Packs",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/variadic-generics.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -227,7 +227,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Macros",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/macros.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -237,7 +237,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Noncopyable structs and enums",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/noncopyable-structs-and-enums.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -247,7 +247,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "consume operator to end the lifetime of a variable binding",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/consume-operator.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -257,7 +257,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Convenience Async[Throwing]Stream.makeStream methods",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/convenience-asyncthrowingstream-makestream.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -267,7 +267,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Add sleep(for:) to Clock",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/sleep-for-clock.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -277,7 +277,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Discarding task groups",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/discarding-task-groups.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -293,7 +293,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Lift all limitations on variables in result builders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/lift-result-builder-limitations.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -303,7 +303,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Function back deployment",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/function-back-deployment.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -313,7 +313,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Allow implicit self for weak self captures, after self is unwrapped",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/implicit-self-weak-capture.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -323,7 +323,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Concise magic file names",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/concise-magic-file-names.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -333,7 +333,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Opening existential arguments to optional parameters",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/opening-existential-optional.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -343,7 +343,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Collection downcasts in cast patterns are now supported",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/collection-downcasts.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -359,7 +359,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "if let shorthand for unwrapping optionals",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/if-let-shorthand.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -369,7 +369,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Multi-statement closure type inference",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/multi-statement-inference.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -379,7 +379,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Clock, Instant, and Duration",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/clock.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -389,7 +389,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Regular expressions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/regexes.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -399,7 +399,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Type inference from default expressions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/default-type-inference.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -409,7 +409,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Concurrency in top-level code",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/top-level-concurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -419,7 +419,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Opaque parameter declarations",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/opaque-parameter-declarations.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -429,7 +429,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Structural opaque result types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/structural-opaque-result-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -439,7 +439,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Unlock existentials for all protocols",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/unlock-existentials.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -449,7 +449,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Lightweight same-type requirements for primary associated types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/primary-associated-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -459,7 +459,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Constrained existential types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/constrained-existentials.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -469,7 +469,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Distributed actor isolation",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/distributed-actors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -479,7 +479,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "buildPartialBlock for result builders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/buildpartialblock.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -489,7 +489,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Implicitly opened existentials",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/implicitly-opened-existentials.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -499,7 +499,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Unavailable from async attribute",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/noasync.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -515,7 +515,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Introduce existential any",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/existential-any.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -525,7 +525,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Type placeholders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/type-placeholders.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -535,7 +535,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Allow coding of non String/Int keyed Dictionary into a KeyedContainer",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/codingkeyrepresentable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -545,7 +545,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Unavailability condition",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/unavailable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -555,7 +555,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "More concurrency changes",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/preconcurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -565,7 +565,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Plugins for Swift Package Manager",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/swiftpm-plugins.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -581,7 +581,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Async await",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/async-await.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -591,7 +591,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Async sequences",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/async-sequences.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -601,7 +601,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Effectful read-only properties",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/effectful-read-only-properties.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -611,7 +611,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Structured concurrency",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/structured-concurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -621,7 +621,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "async let bindings",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/async-let-bindings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -631,7 +631,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Continuations for interfacing async tasks with synchronous code",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/continuations.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -641,7 +641,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Actors",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/actors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -651,7 +651,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Global actors",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/global-actors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -661,7 +661,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Sendable and @Sendable closures",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/sendable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -671,7 +671,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "if for postfix member expressions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/postfix-if.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -681,7 +681,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Interchangeable use of CGFloat and Double types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/interchangeable-cgfloat-double.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -691,7 +691,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Codable synthesis for enums with associated values",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/codable-enums.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -701,7 +701,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "lazy now works in local contexts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/local-lazy.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -711,7 +711,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Extending property wrappers to function and closure parameters",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/property-wrapper-function-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -721,7 +721,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Extending static member lookup in generic contexts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.5/static-member-generic.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -737,7 +737,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Improved implicit member syntax",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/improved-implicit-member-syntax.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -747,7 +747,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Multiple variadic parameters in functions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/multiple-variadic-parameters-in-functions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -757,7 +757,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Local functions now support overloading",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/local-functions-now-support-overloading.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -767,7 +767,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Creating variables that call a function of the same name",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/local-variables-same-name.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -777,7 +777,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Result builders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/result-builders.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -787,7 +787,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Property wrappers are now supported for local variables",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/local-property-wrappers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -797,7 +797,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Packages can now declare executable targets",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/spm-executable-targets.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -813,7 +813,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Multi-pattern catch clauses",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/multipattern-catch.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -823,7 +823,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Multiple trailing closures",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/multiple-trailing-closures.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -833,7 +833,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Synthesized Comparable conformance for enums",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/synthesized-comparable-enum.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -843,7 +843,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "self is no longer required in many places",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/removing-self.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -853,7 +853,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Type-based program entry points",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/atmain.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -863,7 +863,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "where clauses on contextually generic declarations",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/where-clauses.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -873,7 +873,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Enum cases as protocol witnesses",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/enum-protocol-witnesses.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -883,7 +883,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Refined didSet semantics",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/refined-didset.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -893,7 +893,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "A new Float16 type",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/float16.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -903,7 +903,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Swift Package Manager gains binary dependencies, resources, and more",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/spm-improvements.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -919,7 +919,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Key path expressions as functions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/keypath-expressions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -929,7 +929,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Callable values of user-defined nominal types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/callasfunction.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -939,7 +939,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Subscripts can now declare default arguments",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/subscript-default-arguments.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -949,7 +949,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Lazy filtering order is now reversed",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/lazy-filtering.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -959,7 +959,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "New and improved diagnostics",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/new-diagnostics.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -975,7 +975,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Improvements to synthesized memberwise initializers",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/improved-memberwise-initializers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -985,7 +985,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Implicit returns from single-expression functions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/implicit-returns.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -995,7 +995,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Universal Self",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/universal-self.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1005,7 +1005,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Opaque return types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/opaque-return-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1015,7 +1015,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Static and class subscripts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/static-subscripts.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1025,7 +1025,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Warnings for ambiguous none cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/ambiguous-none-enum.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1035,7 +1035,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Matching optional enums against non-optionals",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/matching-optional-enums.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1045,7 +1045,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Ordered collection diffing",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/ordered-collection-diffing.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1055,7 +1055,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Creating uninitialized arrays",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/creating-uninitialized-arrays.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1071,7 +1071,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Raw strings",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/raw-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1081,7 +1081,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "A standard Result type",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/result.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1091,7 +1091,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Customizing string interpolation",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/string-interpolation.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1101,7 +1101,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Dynamically callable types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/dynamically-callable-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1111,7 +1111,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Handling future enum cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/handling-future-enum-cases.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1121,7 +1121,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Flattening nested optionals resulting from try?",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/flattening-optionals.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1131,7 +1131,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Checking for integer multiples",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/integer-multiples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1141,7 +1141,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Transforming and unwrapping dictionary values with compactMapValues()",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/compactmapvalues.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1157,7 +1157,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Derived collections of enum cases",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/caseiterable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1167,7 +1167,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Warning and error diagnostic directives",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/warning-error.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1177,7 +1177,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Dynamic member look up",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/dynamic-member-lookup.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1187,7 +1187,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Enhanced conditional conformances",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/conditional-conformance.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1197,7 +1197,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Random number generation and shuffling",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/random.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1207,7 +1207,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Simpler, more secure hashing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/hashable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1217,7 +1217,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Checking sequence elements match a condition",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/allsatisfy.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1227,7 +1227,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "In-place collection element removal",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/remove-where.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1237,7 +1237,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Boolean toggling",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/toggle.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1253,7 +1253,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Synthesized Equatable and Hashable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/synthesized-protocols.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1263,7 +1263,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Key decoding strategies for Codable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/key-decoding-strategies.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1273,7 +1273,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Conditional conformances",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/conditional-conformance.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1283,7 +1283,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Recursive constraints on associated types",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/recursive-constraints.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1293,7 +1293,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Build configuration import testing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/import-testing.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1303,7 +1303,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Target environment testing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/target-environment.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1313,7 +1313,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "flatMap is now (partly) compactMap()",
   "link": "/explore/articles/hackingwithswift.com/swift/4.1/compactmap.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1329,7 +1329,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Encoding and decoding data using Codable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/codable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1339,7 +1339,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Multi-line string literals",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/multiline-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1349,7 +1349,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Improved keypaths for key-value coding",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/keypaths.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1359,7 +1359,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Improved dictionary functionality",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/dictionaries.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1369,7 +1369,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Strings are collections again",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1379,7 +1379,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "One-sided ranges",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/one-sided-ranges.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1395,7 +1395,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Concrete constrained extensions",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/concrete-constrained-extensions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1405,7 +1405,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Generics with nested types",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/generic-nested-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1415,7 +1415,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Sequences get prefix(while:) and drop(while:) methods",
   "link": "/explore/articles/hackingwithswift.com/swift/3.1/prefix-drop.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1431,7 +1431,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "All function parameters have labels unless you request otherwise",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/function-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1441,7 +1441,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Omit needless words",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/omit-needless-words.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1451,7 +1451,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "UpperCamelCase has been replaced with lowerCamelCase for enums and properties",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/lower-camel-case.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1461,7 +1461,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Swifty importing of C functions",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/c-functions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1471,7 +1471,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Verbs and nouns",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/verbs-and-nouns.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1487,7 +1487,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "++ and -- are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/increment-decrement.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1497,7 +1497,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Traditional C-style for loops are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/c-loops.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1507,7 +1507,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Comparing tuples",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/comparing-tuples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1517,7 +1517,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Tuple splat syntax is deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/tuple-splat.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1527,7 +1527,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "More keywords can be used as argument labels",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/more-keywords.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1537,7 +1537,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Variable parameters have been deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/variable-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1547,7 +1547,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Renamed debug identifiers: line, function, file",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/renamed-identifiers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1557,7 +1557,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Stringified selectors are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/stringified-selectors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1567,7 +1567,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Compile-time Swift version checking",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/version-checking.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1583,7 +1583,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "String interpolation can now include string literals",
   "link": "/explore/articles/hackingwithswift.com/swift/2.1/string-interpolation.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1600,7 +1600,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Throwing errors",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/try.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1610,7 +1610,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Use the guard keyword for early returns",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/guard.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1620,7 +1620,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Measure strings using their character count",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1630,7 +1630,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Use the defer keyword to delay work until your scope exits",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/defer.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1640,7 +1640,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Mutability warnings",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/mutability.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1650,7 +1650,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Checking API availability",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/api-availability.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1666,7 +1666,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "The zip() function joins two sequences",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/zip.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1676,7 +1676,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "The flatMap() method transforms optionals and arrays",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/flatmap.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1686,7 +1686,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Closures can now be marked @noescape",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/noescape.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1696,7 +1696,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Classes can now have static methods and properties",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/static.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1706,7 +1706,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Constants no longer require immediate initialization",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/constants.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1716,7 +1716,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "A new Set data structure",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/set.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1726,7 +1726,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Implicit bridging has been reduced",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/bridging.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1736,7 +1736,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Multiple if let bindings",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/if-let.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1746,7 +1746,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "Typecasting now includes as!",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/typecasting.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1762,7 +1762,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "countElements() is now count()",
   "link": "/explore/articles/hackingwithswift.com/swift/1.1/countelements.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -1772,7 +1772,7 @@ Here you can find detailed descriptions of all the major Swift changes from laun
   "desc": "macOS apps can now use @NSApplicationMain",
   "link": "/explore/articles/hackingwithswift.com/swift/1.1/nsapplicationmain.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

@@ -1553,5 +1553,12 @@
     "topics": ["emulator", "hacktoberfest", "ios", "linux"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "fairyglade/ly",
+    "desc": "display manager with console UI",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
   }
 ]

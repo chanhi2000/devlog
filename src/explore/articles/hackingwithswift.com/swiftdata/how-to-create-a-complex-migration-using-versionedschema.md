@@ -130,7 +130,7 @@ That completes the first two steps of our process, so the third step is to creat
 2. One or more `MigrationStage` instances, defining how to move from one specific version to another.
 3. A `stages` array that lists all the migration stages you have defined.
 
-Once you’ve done that, SwiftData will take care of all possible migrations for you –&nbsp;if your user has v4 installed and needs to migrate straight to v5, or if they have v1 installed and need to migrate through v2, v3, v4, and then onto v5.
+Once you’ve done that, SwiftData will take care of all possible migrations for you – if your user has v4 installed and needs to migrate straight to v5, or if they have v1 installed and need to migrate through v2, v3, v4, and then onto v5.
 
 In our case, we’d start out with an enum like this:
 
@@ -226,7 +226,7 @@ Last but not least, we need to adjust the `modelContainer()` modifier so that we
 .modelContainer(container)
 ```
 
-It’s a lot of work, but I hope you can see the importance of getting migration right –&nbsp;we’re being very clear on exactly how SwiftData should move between various versions of our data, thus hopefully ensuring user data never gets lost.
+It’s a lot of work, but I hope you can see the importance of getting migration right – we’re being very clear on exactly how SwiftData should move between various versions of our data, thus hopefully ensuring user data never gets lost.
 
 ---
 

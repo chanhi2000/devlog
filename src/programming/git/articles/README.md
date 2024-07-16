@@ -216,6 +216,8 @@ head:
 }
 ```
 
+<!-- END: meetup.nhncloud.com -->
+
 ---
 
 ## 우아한형제들 기술블로그
@@ -231,6 +233,8 @@ head:
   "background": "rgba(43,193,188,0.2)"
 }
 ```
+
+<!-- END: techblog.woowahan.com -->
 
 ---
 
@@ -248,6 +252,8 @@ head:
 }
 ```
 
+<!-- END: d2.naver.com -->
+
 ---
 
 ## Blog - LINE ENGINEERING
@@ -263,6 +269,8 @@ head:
   "background": "rgba(31,31,31,0.2)"
 }
 ```
+
+<!-- END: engineering.linecorp.com -->
 
 ---
 

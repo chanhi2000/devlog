@@ -2105,5 +2105,12 @@
     "topics": ["cypher", "graph", "graph-algorithms", "graph-analysis", "graph-database", "kafka", "kafka-streams", "nosql", "opencypher", "stream-processing", "streaming-data"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "PaddlePaddle/Paddle",
+    "desc": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "officialSite": "http://www.paddlepaddle.org/",
+    "topics": ["deep-learning", "distributed-training", "efficiency", "machine-learning", "neural-network", "paddlepaddle", "python", "scalability"],
+    "avatar": "",
+    "banner": ""
   }
 ]

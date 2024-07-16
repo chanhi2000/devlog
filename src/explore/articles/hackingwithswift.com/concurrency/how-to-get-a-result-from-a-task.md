@@ -102,7 +102,7 @@ await fetchQuotes()
 
 There’s not a lot of code there, but there are a few things I want to point out as being important:
 
-1. Our task might return a string, but also might throw one of two errors. So, when we ask for its `result` property we’ll be given a `Result&lt;String, Error&gt;`.
+1. Our task might return a string, but also might throw one of two errors. So, when we ask for its `result` property we’ll be given a `Result<String, Error>`.
 2. Although we need to use `await` to get the result, we *don’t* need to use `try` even though there could be errors there. This is because we’re just reading out the result, not trying to read the successful value.
 3. We call `get()` on the `Result` object to read the successful, but *that’s* when `try` is needed because it’s when Swift checks whether an error occurred or not.
 4. When it comes to catching errors, we need a “catch everything” block at the end, even though we know we’ll only throw `LoadError`.

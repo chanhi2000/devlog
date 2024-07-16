@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -57,7 +57,7 @@ isOriginal: false
   "desc": "++ and -- are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/increment-decrement.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -67,7 +67,7 @@ isOriginal: false
   "desc": "Traditional C-style for loops are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/c-loops.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -77,7 +77,7 @@ isOriginal: false
   "desc": "Comparing tuples",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/comparing-tuples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -87,7 +87,7 @@ isOriginal: false
   "desc": "Tuple splat syntax is deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/tuple-splat.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -97,7 +97,7 @@ isOriginal: false
   "desc": "More keywords can be used as argument labels",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/more-keywords.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -107,7 +107,7 @@ isOriginal: false
   "desc": "Variable parameters have been deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/variable-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -117,7 +117,7 @@ isOriginal: false
   "desc": "Renamed debug identifiers: line, function, file",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/renamed-identifiers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -127,7 +127,7 @@ isOriginal: false
   "desc": "Stringified selectors are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/stringified-selectors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -137,7 +137,7 @@ isOriginal: false
   "desc": "Compile-time Swift version checking",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/version-checking.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

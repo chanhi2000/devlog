@@ -112,7 +112,7 @@ tag:
 
 ---
 
-## Snyk
+## Developer security | Snyk
 
 - [Top 5 VS Code extensions for security](https://snyk.io/blog/top-5-vs-code-extensions-security)
 

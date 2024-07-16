@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -92,7 +92,7 @@ struct SandboxApp: App {
   "desc": "Data races are now clearly diagnosed",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/complete-concurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -102,7 +102,7 @@ struct SandboxApp: App {
   "desc": "Allow Protocols to be Nested in Non-Generic Contexts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/nested-protocols.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -112,7 +112,7 @@ struct SandboxApp: App {
   "desc": "Deprecate @UIApplicationMain and @NSApplicationMain",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/deprecate-uiapplicationmain.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
  -->
@@ -122,7 +122,7 @@ struct SandboxApp: App {
   "desc": "Refined actor initialization and deinitialization",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/actor-initialization.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

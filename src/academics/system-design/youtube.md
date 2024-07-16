@@ -31,5 +31,6 @@ head:
 <MyYouTubeItems jsonName="yu-chainlift.official" /><!-- Chainlift -->
 <MyYouTubeItems jsonName="yu-interviewpen" /><!-- Interview Pen -->
 <MyYouTubeItems jsonName="yu-rbrtflyd" /><!-- Robert Floyd -->
+<MyYouTubeItems jsonName="yu-ashishps_1" /><!-- Ashish Pratap Singh -->
 
 <TagLinks />

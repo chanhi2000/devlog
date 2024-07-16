@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -59,7 +59,7 @@ isOriginal: false
   "desc": "Complete concurrency enabled by default",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/concurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -69,7 +69,7 @@ isOriginal: false
   "desc": "count(where:)",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/count-where.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -79,7 +79,7 @@ isOriginal: false
   "desc": "Typed throws",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/typed-throws.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -89,7 +89,7 @@ isOriginal: false
   "desc": "Pack iteration",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/pack-iteration.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -99,7 +99,7 @@ isOriginal: false
   "desc": "Add Collection Operations on Noncontiguous Elements",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/rangeset.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -109,7 +109,7 @@ isOriginal: false
   "desc": "Access-level modifiers on import declarations",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/access-level-import.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -119,7 +119,7 @@ isOriginal: false
   "desc": "Upgrades for noncopyable types",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/noncopyable-upgrades.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -129,7 +129,7 @@ isOriginal: false
   "desc": "128-bit Integer Types",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/int128.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -139,7 +139,7 @@ isOriginal: false
   "desc": "BitwiseCopyable",
   "link": "/explore/articles/hackingwithswift.com/swift/6.0/bitwisecopyable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

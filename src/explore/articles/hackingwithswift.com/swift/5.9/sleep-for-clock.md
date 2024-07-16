@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -49,7 +49,44 @@ isOriginal: false
 
 > Available from Swift 5.9
 
-<!-- TODO: 작성 -->
+[SE-0374 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0374-clock-sleep-for.md) adds a new extension method to Swift’s `Clock` protocol that allows us to suspend execution for a set number of seconds, but also extends duration-based `Task` sleeping to support a specific tolerance.
+
+The `Clock` change is a small but important one, particularly if you’re mocking a concrete `Clock` instance to remove delays in tests that would otherwise exist in production.
+
+For example, this class can be created with any kind of `Clock`, and will sleep using that clock before triggering a save operation:
+
+```swift
+import Foundation
+
+class DataController: ObservableObject {
+    var clock: any Clock<Duration>
+
+    init(clock: any Clock<Duration>) {
+        self.clock = clock
+    }
+
+    func delayedSave() async throws {
+        try await clock.sleep(for: .seconds(1))
+        print("Saving…")
+    }
+}
+```
+
+Because that uses `any Clock<Duration>`, it’s now possible to use something like `ContinuousClock` in production but your own `DummyClock` in testing, where you ignore all `sleep()` commands to keep your tests running quickly.
+
+In older versions of Swift the equivalent code would in theory have been `try await clock.sleep(until: clock.now.advanced(by: .seconds(1)))`, but that wouldn’t work in this example because `clock.now` isn’t available as Swift doesn’t know exactly what kind of clock has been used.
+
+As for the change to `Task` sleeping, it means we can go from code like this:
+
+```swift
+try await Task.sleep(until: .now + .seconds(1), tolerance: .seconds(0.5))
+```
+
+To just this:
+
+```swift
+try await Task.sleep(for: .seconds(1), tolerance: .seconds(0.5))
+```
 
 ::: details Other Changes in Swift 5.9
 
@@ -59,7 +96,7 @@ isOriginal: false
   "desc": "if and switch expressions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/if-switch-expressions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -69,7 +106,7 @@ isOriginal: false
   "desc": "Value and Type Parameter Packs",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/variadic-generics.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -79,7 +116,7 @@ isOriginal: false
   "desc": "Macros",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/macros.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -89,7 +126,7 @@ isOriginal: false
   "desc": "Noncopyable structs and enums",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/noncopyable-structs-and-enums.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -99,7 +136,7 @@ isOriginal: false
   "desc": "consume operator to end the lifetime of a variable binding",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/consume-operator.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -109,7 +146,7 @@ isOriginal: false
   "desc": "Convenience Async[Throwing]Stream.makeStream methods",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/convenience-asyncthrowingstream-makestream.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -119,7 +156,7 @@ isOriginal: false
   "desc": "Add sleep(for:) to Clock",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/sleep-for-clock.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -129,7 +166,7 @@ isOriginal: false
   "desc": "Discarding task groups",
   "link": "/explore/articles/hackingwithswift.com/swift/5.9/discarding-task-groups.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

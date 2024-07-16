@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -81,7 +81,7 @@ The proposal makes Swift easier and safer to write, and is purely additive, so I
   "desc": "Derived collections of enum cases",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/caseiterable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -91,7 +91,7 @@ The proposal makes Swift easier and safer to write, and is purely additive, so I
   "desc": "Warning and error diagnostic directives",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/warning-error.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -101,7 +101,7 @@ The proposal makes Swift easier and safer to write, and is purely additive, so I
   "desc": "Dynamic member look up",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/dynamic-member-lookup.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -111,7 +111,7 @@ The proposal makes Swift easier and safer to write, and is purely additive, so I
   "desc": "Enhanced conditional conformances",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/conditional-conformance.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -121,7 +121,7 @@ The proposal makes Swift easier and safer to write, and is purely additive, so I
   "desc": "Random number generation and shuffling",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/random.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -131,7 +131,7 @@ The proposal makes Swift easier and safer to write, and is purely additive, so I
   "desc": "Simpler, more secure hashing",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/hashable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -141,7 +141,7 @@ The proposal makes Swift easier and safer to write, and is purely additive, so I
   "desc": "Checking sequence elements match a condition",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/allsatisfy.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -151,7 +151,7 @@ The proposal makes Swift easier and safer to write, and is purely additive, so I
   "desc": "In-place collection element removal",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/remove-where.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -161,7 +161,7 @@ The proposal makes Swift easier and safer to write, and is purely additive, so I
   "desc": "Boolean toggling",
   "link": "/explore/articles/hackingwithswift.com/swift/4.2/toggle.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->

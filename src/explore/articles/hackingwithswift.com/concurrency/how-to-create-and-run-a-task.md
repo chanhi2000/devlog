@@ -104,7 +104,7 @@ await fetchUpdates()
 Let’s unpick the key parts:
 
 1. Creating and running a task is done by using its initializer, passing in the work you want to do. 
-2. Tasks don’t always need to return a value, but when they do chances are you’ll need to declare exactly what as you create the task – I’ve said `() -&gt; [NewsItem] in`, for example.
+2. Tasks don’t always need to return a value, but when they do chances are you’ll need to declare exactly what as you create the task – I’ve said `() -> [NewsItem] in`, for example.
 3. As soon as you create the task it will start running – there’s no `start()` method or similar.
 4. The entire task is run concurrently with your other code, which means it might be able to run in parallel too. In our case, that means fetching and decoding the data happens inside the task, which keeps our main `fetchUpdates()` function free.
 5. If you want to read the return value of a task, you need to access its `value` property using `await`. In our case our task could also throw errors because we’re accessing the network, so we need to use `try` as well.

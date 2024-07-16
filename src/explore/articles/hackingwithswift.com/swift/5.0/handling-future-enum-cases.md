@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -101,7 +101,7 @@ func showNew(error: PasswordError) {
 }
 ```
 
-That code will now issue warnings because the `switch` block is no longer exhaustive – Swift wants us to handle each case explicitly. Helpfully this is only a <em>warning</em>, which is what makes this attribute so useful: if a framework adds a new case in the future you’ll be warned about it, but it won’t break your source code.
+That code will now issue warnings because the `switch` block is no longer exhaustive – Swift wants us to handle each case explicitly. Helpfully this is only a *warning*, which is what makes this attribute so useful: if a framework adds a new case in the future you’ll be warned about it, but it won’t break your source code.
 
 ::: details Other Changes in Swift 5.0
 
@@ -111,7 +111,7 @@ That code will now issue warnings because the `switch` block is no longer exhaus
   "desc": "Raw strings",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/raw-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -121,7 +121,7 @@ That code will now issue warnings because the `switch` block is no longer exhaus
   "desc": "A standard Result type",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/result.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -131,7 +131,7 @@ That code will now issue warnings because the `switch` block is no longer exhaus
   "desc": "Customizing string interpolation",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/string-interpolation.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -141,7 +141,7 @@ That code will now issue warnings because the `switch` block is no longer exhaus
   "desc": "Dynamically callable types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/dynamically-callable-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -151,7 +151,7 @@ That code will now issue warnings because the `switch` block is no longer exhaus
   "desc": "Handling future enum cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/handling-future-enum-cases.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -161,7 +161,7 @@ That code will now issue warnings because the `switch` block is no longer exhaus
   "desc": "Flattening nested optionals resulting from try?",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/flattening-optionals.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -171,7 +171,7 @@ That code will now issue warnings because the `switch` block is no longer exhaus
   "desc": "Checking for integer multiples",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/integer-multiples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -181,7 +181,7 @@ That code will now issue warnings because the `switch` block is no longer exhaus
   "desc": "Transforming and unwrapping dictionary values with compactMapValues()",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/compactmapvalues.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

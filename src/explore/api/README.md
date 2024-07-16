@@ -49,7 +49,7 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
       link: "https://vuepress-theme-hope.gitee.io/v1/guide/interface/icon.html#featured-icons"
     }, {
       text: "Markdown Enhance",
-      link: "https://plugin-md-enhance.vuejs.press/",
+      link: "https://plugin-md-enhance.vuejs.press/guide/",
       type: "default"
     }, {
       text: "VuePress Theme Hope",
@@ -424,6 +424,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   url="https://tabler.io/icons"
   logo="https://tabler.io/favicon.ico"
   preview="https://tabler.io/icons/opengraph-image-1v9qf3.png?a3eb50029318add4"/>
+
+<SiteInfo
+  name="Cron job editor: multiple cron jobs, calendar view, AWS & Vercel cron support | CronTool"
+  desc="With CronTool you can edit, debug and view one or multiple crontab / cron expressions on a calendar - all online & free forever. The last cron expression editor you'll ever need. Share cron jobs with your team, write AWS & Vercel cron jobs and more."
+  url="https://tool.crontap.com/cronjob-debugger"
+  logo="https://tool.crontap.com/cronjob-debugger/apple-touch-icon.png"
+  preview="https://tool.crontap.com/cronjob-debugger/api/ogImg"/>
 
 ```component VPCard
 {
@@ -1140,6 +1147,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   "background": "rgba(51,49,46,0.2)"
 }
 ```
+
+<SiteInfo
+  name="무료 온라인 전자 서명 포함 PDF 서명"
+  desc="전자 서명으로 문서에 온라인으로 서명할 수 있는 100% 무료 도구입니다. 가입이 필요 없습니다. 온라인으로 전자 서명을 생성하고 PDF에 서명하세요."
+  url="https://smallpdf.com/kr/sign-pdf"
+  logo="https://smallpdf.com/favicon.png"
+  preview="https://smallpdf.com/assets/img/fb/sign.png"/>
 
 <!-- END: Design & Image -->
 

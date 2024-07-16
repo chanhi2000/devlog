@@ -4,7 +4,8 @@ title: Awesome List
 description: Explore > Awesome List
 icon: fas fa-glasses
 category:
-  - Explore 
+  - Explore
+  - Github
   - Awesome List
 tag: 
   - awesome-list
@@ -15,6 +16,14 @@ tag:
   - ios
   - beginner
   - guide
+head:
+  - - meta:
+    - property: og:title
+      content: Awesome List
+    - property: og:description
+      content: Explore > Awesome List
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/awesome-list.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -25,24 +34,17 @@ tag:
 
 ---
 
-## General
+## Repositories
+
+### General
 
 <MyGithubItems jsonName="awesome-list" />
 
----
-
-## Free Books
+### Free Books
 
 <MyGithubItems jsonName="free-books" />
 
-- [dariubs/GoBooks][dariubs/GoBooks]
-  - [🌐Official Site](https://ebookfoundation.github.io/free-programming-books)
-- [gurugio/book_assembly_8086_ko][gurugio/book_assembly_8086_ko]
-- [hehonghui/awesome-english-ebooks][hehonghui/awesome-english-ebooks]: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
-
----
-
-## Roadmap
+### Road Map
 
 - [skydoves/android-developer-roadmap][skydoves/android-developer-roadmap]
 - [MoienTajik/AspNetCore-Developer-Roadmap][MoienTajik/AspNetCore-Developer-Roadmap]: Roadmap to becoming an ASP.NET Core developer in 2022
@@ -54,11 +56,6 @@ tag:
 
 <TagLinks />
 
-<!-- Free Books -->
-[dariubs/GoBooks]: https://github.com/dariubs/GoBooks
-[gurugio/book_assembly_8086_ko]: https://github.com/gurugio/book_assembly_8086_ko
-[hehonghui/awesome-english-ebooks]: https://github.com/hehonghui/awesome-english-ebooks
-<!-- Roadmap -->
 [skydoves/android-developer-roadmap]: https://github.com/skydoves/android-developer-roadmap
 [MoienTajik/AspNetCore-Developer-Roadmap]: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 [easychen/stack-roadmap]: https://github.com/easychen/stack-roadmap

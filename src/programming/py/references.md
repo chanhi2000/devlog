@@ -132,6 +132,7 @@ head:
 - [`@euisuk-chung` / \[개념정리\] 시계열 분석의 인과관계 분석](https://velog.io/@euisuk-chung/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84-%EB%B6%84%EC%84%9D)
 - [`@euisuk-chung` / Prophet을 활용한 시계열 예측🔭](https://velog.io/@euisuk-chung/Prophet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%9C%EA%B3%84%EC%97%B4-%EC%98%88%EC%B8%A1)
 - [`@eunbibi` / Transfer learning with ResNet](https://velog.io/@eunbibi/ResNet50-finetuning)
+- [`eunbibi` / Sympy](https://velog.io/@eunbibi/Sympy)
 
 <!-- END: velog.io -->
 
@@ -2046,7 +2047,7 @@ head:
 
 ---
 
-##
+## Eugene Yan
 
 - [Writing Robust Tests for Data & Machine Learning Pipelines](https://eugeneyan.com/writing/testing-pipelines/)
 

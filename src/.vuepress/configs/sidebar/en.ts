@@ -4,7 +4,7 @@ import { articleSidebars as asb } from './articles'
 export const sidebarEn = sidebar({
   '/programming/': [
     {
-      text: 'Programming',
+      text: '/Programming',
       icon: 'fas fa-keyboard',
       children: [ '/programming/README.md' ],
     },
@@ -613,6 +613,7 @@ export const sidebarEn = sidebar({
             '/programming/js-next/articles/README.md',
             asb.freecodecamp("js-next"),
             asb.yozm("js-next"),
+            asb.toss("js-next"),
           ]
         }
       ]
@@ -1246,7 +1247,7 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            'programming/cpp/articles/README.md',
+            '/programming/cpp/articles/README.md',
             asb.freecodecamp("cpp"), 
             asb.yozm("cpp"),
             asb.nhn("cpp"), 
@@ -1306,7 +1307,7 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            'programming/scala/articles/README.md',
+            '/programming/scala/articles/README.md',
           ]
         }
       ]
@@ -1332,6 +1333,23 @@ export const sidebarEn = sidebar({
         '/programming/solidity/youtube.md',
       ]
     }, {
+      text: 'Qt',
+      collapsible: true,
+      icon: 'iconfont icon-qt',
+      children: [
+        '/programming/qt/README.md',
+        '/programming/qt/references.md',
+        '/programming/qt/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/qt/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Common Lisp',
       collapsible: true,
       icon: 'iconfont icon-common-lisp',
@@ -1345,7 +1363,24 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            'programming/common-lisp/articles/README.md',
+            '/programming/common-lisp/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'OCaml',
+      collapsible: true,
+      icon: 'iconfont icon-ocaml',
+      children: [
+        '/programming/ocaml/README.md',
+        '/programming/ocaml/references.md',
+        '/programming/ocaml/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/ocaml/articles/README.md',
           ]
         }
       ]
@@ -1363,7 +1398,7 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            'programming/julia/articles/README.md',
+            '/programming/julia/articles/README.md',
           ]
         }
       ]
@@ -1398,9 +1433,9 @@ export const sidebarEn = sidebar({
         {
           text: 'Article(s)',
           collapsible: true,
-          icon: 'fas fa-square-share-nodes',
+        icon: 'fas fa-square-share-nodes',
           children: [
-            'programming/erl/articles/README.md',
+            '/programming/erl/articles/README.md',
           ]
         }
       ]
@@ -1418,7 +1453,7 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            'programming/erl-rabbitmq/articles/README.md',
+            '/programming/erl-rabbitmq/articles/README.md',
             asb.learnk8s("erl-rabbitmq"),
           ]
         }
@@ -3514,6 +3549,7 @@ export const sidebarEn = sidebar({
             asb.smashingmagazion("system-design"),
             asb.yozm("system-design"),
             asb.d2("system-design"),
+            asb.woowahan("system-design"),
             asb.oliveyoung("system-design"),
             asb.kurly("system-design"),
             asb.ab180("system-design"),

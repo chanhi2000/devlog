@@ -146,7 +146,7 @@ To add to the complexity a little, `Task.sleep()` measures its time in nanosecon
 
 Like I said, this is more complex, but it’s also a useful, real-world example of `AsyncSequence`. It’s also particularly powerful when combined with SwiftUI’s `task()` modifier, because the network fetches will automatically start when a view is shown and cancelled when it disappears. This allows you to constantly watch for new data coming in, and stream it directly into your UI.
 
-Anyway, here’s the code –&nbsp;it creates a `URLWatcher` struct that conforms to the `AsyncSequence` protocol, along with an example of it being used to display a list of users in a SwiftUI view:
+Anyway, here’s the code – it creates a `URLWatcher` struct that conforms to the `AsyncSequence` protocol, along with an example of it being used to display a list of users in a SwiftUI view:
 
 ```swift
 struct URLWatcher: AsyncSequence, AsyncIteratorProtocol {

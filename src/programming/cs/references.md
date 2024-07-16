@@ -173,6 +173,7 @@ head:
 
 ## CodingSonata
 
+- [A Quick Guide to Learn ASP.NET Core Web API](https://codingsonata.com/a-quick-guide-to-learn-asp-net-core-web-api/)
 - [Your Quick Guide to Pattern Matching in C#](https://codingsonata.com/your-quick-guide-to-pattern-matching-in-c/)
 - [Secure ASP.NET Core Web API using JWT Authentication](https://codingsonata.com/secure-asp-net-core-web-api-using-jwt-authentication)
 

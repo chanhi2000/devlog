@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -68,7 +68,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "Multi-pattern catch clauses",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/multipattern-catch.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -78,7 +78,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "Multiple trailing closures",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/multiple-trailing-closures.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -88,7 +88,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "Synthesized Comparable conformance for enums",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/synthesized-comparable-enum.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -98,7 +98,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "self is no longer required in many places",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/removing-self.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -108,7 +108,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "Type-based program entry points",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/atmain.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -118,7 +118,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "where clauses on contextually generic declarations",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/where-clauses.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -128,7 +128,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "Enum cases as protocol witnesses",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/enum-protocol-witnesses.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -138,7 +138,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "Refined didSet semantics",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/refined-didset.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -148,7 +148,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "A new Float16 type",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/float16.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -158,7 +158,7 @@ It’s worth adding that the “Future Directions” section of SE-0271 mentions
   "desc": "Swift Package Manager gains binary dependencies, resources, and more",
   "link": "/explore/articles/hackingwithswift.com/swift/5.3/spm-improvements.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->

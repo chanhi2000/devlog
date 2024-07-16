@@ -39,7 +39,7 @@ tag:
 - [<FontIcon icon="fa-brands fa-php"/>PHP > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/php/youtube.md)
 - [<FontIcon icon="iconfont icon-ruby"/>Ruby > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/ruby/youtube.md)
 - [<FontIcon icon="iconfont icon-elixir"/>Elixir > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/elixir/youtube.md)
-- [<FontIcon icon="iconfont icon-haskell"/>Haskell > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/haskell/youtube.md)
+- [<FontIcon icon="iconfont icon-haskell"/>Haskell > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/hs/youtube.md)
 - [<FontIcon icon="iconfont icon-c"/>C > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/c/youtube.md)
 - [<FontIcon icon="iconfont icon-cpp"/>C++ > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/programming/cpp/youtube.md)
 - [<FontIcon icon="iconfont icon-vim"/>Vim > <FontIcon icon="fa-brands fa-youtube"/> Youtube](/tool/vim/youtube.md)

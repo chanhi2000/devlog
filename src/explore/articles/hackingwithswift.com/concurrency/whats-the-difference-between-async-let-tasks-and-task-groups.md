@@ -66,7 +66,7 @@ That alone is a helpful feature of task groups, but in some situations it goes f
 
 Third, although all three forms of concurrency will automatically be marked as cancelled if their parent task is cancelled, only `Task` and task group can be cancelled directly, using `cancel()` and `cancelAll()` respectively. There is no equivalent for `async let`. 
 
-Fourth, because `async let` doesn’t give us a handle to the underlying task it creates for us, it’s not possible to pass that task elsewhere – we can’t start an `async let` task in one function then pass that task to a different function. On the other hand, if you create a task that returns a string and never throws an error, you can pass that `Task&lt;String, Never&gt;` object around as needed.
+Fourth, because `async let` doesn’t give us a handle to the underlying task it creates for us, it’s not possible to pass that task elsewhere – we can’t start an `async let` task in one function then pass that task to a different function. On the other hand, if you create a task that returns a string and never throws an error, you can pass that `Task<String, Never>` object around as needed.
 
 And finally, although task groups *can* work with heterogeneous results – i.e., child tasks that return different types of data – it takes the extra work of making an enum to wrap the data. `async let` and `Task` do not suffer from this problem because they always return a single result type, so each result can be different.
 

@@ -52,7 +52,7 @@ isOriginal: false
 
 > Updated for Xcode 15
 
-Swift provides `withCheckedContinuation()` and `withUnsafeContinuation()` to let us create continuations that can’t throw errors, but if the API you’re using <em>can</em> throw errors you should use their throwing equivalents: `withCheckedThrowingContinuation()` and `withUnsafeThrowingContinuation()`.
+Swift provides `withCheckedContinuation()` and `withUnsafeContinuation()` to let us create continuations that can’t throw errors, but if the API you’re using *can* throw errors you should use their throwing equivalents: `withCheckedThrowingContinuation()` and `withUnsafeThrowingContinuation()`.
 
 Both of these replacement functions work identically to their non-throwing counterparts, except now you need to catch any errors thrown inside the continuation.
 

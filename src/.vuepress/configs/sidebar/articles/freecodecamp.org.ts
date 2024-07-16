@@ -9,6 +9,7 @@ export const template: SidebarInfoTemplate = {
       "a-guide-to-object-oriented-programming-principles", // 2024-06-19    
       "introduction-to-solid-principles", // 2024-06-24
       "generics-in-java", // 2024-07-12
+      "multithreading-for-beginners", // 2024-07-16
     ]],[
     "java-spring",[
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
@@ -20,7 +21,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "gradle", [
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
-    "migrate-from-play-core-library", // 2024-06-26
+      "migrate-from-play-core-library", // 2024-06-26
     ]],[
     "js", [
       "loop-through-arrays-javascript", // 2023-10-31
@@ -257,6 +258,7 @@ export const template: SidebarInfoTemplate = {
       "how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126", // 2024-05-31
       "how-to-improve-your-digital-security-and-privacy", // 2024-06-18
       "more-secure-authentication-from-passwords-to-passkeys", // 2024-07-11
+      "getting-started-in-cybersecurity", // 2024-07-16
     ]],[
     "gatling", [
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
@@ -477,6 +479,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
       "difference-between-usememo-and-usecallback-hooks", // 2024-07-15
       "how-to-use-linq", // 2024-07-15
+      "getting-started-in-cybersecurity", // 2024-07-16
+      "multithreading-for-beginners", // 2024-07-16
     ]],
   ]),
 }

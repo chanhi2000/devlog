@@ -111,6 +111,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Get Started With Cybersecurity",
+  "desc": "From design to coding to data science, there are many areas in the IT sector to explore. Because it's such a wealthy and alluring profession, you might be unsure of which one is ideal for you. This is where cybersecurity comes in, one of the most fascinating fields of...",
+  "link": "/explore/articles/freecodecamp.org/getting-started-in-cybersecurity.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

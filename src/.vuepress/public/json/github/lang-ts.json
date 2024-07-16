@@ -2114,9 +2114,9 @@
     "banner": ""
   }, {
     "repo": "supabase/supabase",
-    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "desc": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
     "officialSite": "https://supabase.com",
-    "topics": ["deno", "embeddings", "firebase", "graphql", "postgres", "postgresql", "postgrest", "realtime", "supabase", "vectors", "websockets"],
+    "topics": ["ai", "alternative", "auth", "database", "deno", "embeddings", "example", "firebase", "nextjs", "oauth2", "pgvector", "postgis", "postgres", "postgresql", "postgrest", "realtime", "supabase", "vectors", "websockets"],
     "avatar": "",
     "banner": ""
   }, {
@@ -4435,6 +4435,20 @@
     "officialSite": "https://npmjs.com/merge-anything",
     "topics": ["combine", "combine-merge", "combine-objects", "deep-assign", "deep-merge", "deep-merge-object", "deepmerge", "javascript", "merge", "merge-combine", "merge-object", "merge-objects", "nested-assign", "nested-combine", "nested-merge", "nested-object-assign", "object-assign", "object-assign-deep", "recursively", "typescript"],
     "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rectanglehq/Shapeshift",
+    "desc": "Transform JSON objects using vector embeddings ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "raycast/ray-so",
+    "desc": "Create code snippets, browse AI prompts, create extension icons and more.",
+    "officialSite": "https://ray.so",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/58117316?v=4",
     "banner": ""
   }
 ]

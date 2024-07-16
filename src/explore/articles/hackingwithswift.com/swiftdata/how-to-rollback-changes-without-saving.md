@@ -89,7 +89,7 @@ As you can see, making the model `Codable` follows the standard steps you would 
 
 1. Defining your `CodingKeys` enum, listing all the properties you want to load and save.
 2. Adding an `init(from:)` initializer that knows how to read all the values from your container.
-3. Adding an `encode(to:)` method that knows how to <em>write</em> all the values to a container.
+3. Adding an `encode(to:)` method that knows how to *write* all the values to a container.
 
 Now you can go ahead and use it as normal. So, encoding a `Movie` would look like this:
 

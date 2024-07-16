@@ -75,4 +75,10 @@ head:
 
 ---
 
+## jupiny의 개발일지
+
+- [vim에서 여러 줄 동시에 수정하기](https://jupiny.com/2024/07/15/vim-edit-multiple-lines-simultaneously/)
+
+---
+
 <TagLinks />

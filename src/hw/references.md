@@ -57,6 +57,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`mythos` / \[OSSCA\] Linux Kernel Networking Stack #0 발대식 및 환경 설정](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-0-%EB%B0%9C%EB%8C%80%EC%8B%9D-%EB%B0%8F-%EC%A4%80%EB%B9%84%EC%82%AC%ED%95%AD)
+
+<!-- END: velog.io -->
+
+---
+
 ## Substack
 
 - [`@dynomight` / The midwit home](https://dynomight.substack.com/p/midwit-home)
@@ -390,6 +398,18 @@ head:
 ## op-co.de blog
 
 - [Samsung NX camera to Mastodon bridge](https://op-co.de/blog/posts/samsung_nx_mastodon/)
+
+---
+
+## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+
+- [Logo Programming With Turtle Graphics IBM PC](https://archive.org/details/logo-programming-with-turtle-graphics-ibm-pc/page/n9/mode/2up)
+
+---
+
+## Daniel Estévez – Scientific & Technical Amateur Radio
+
+- [Recording DME with the LimeSDR](https://destevez.net/2024/07/recording-dme-with-the-limesdr/)
 
 ---
 

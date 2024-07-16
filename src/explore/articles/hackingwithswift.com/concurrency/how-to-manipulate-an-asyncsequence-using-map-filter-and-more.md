@@ -151,11 +151,11 @@ try? await printQuotes()
 
 > [<FontIcon icon="fas fa-file-zipper"/>Download this as an Xcode project](https://hackingwithswift.com/files/projects/concurrency/how-to-manipulate-an-asyncsequence-using-map-filter-and-more-5.zip)
 
-Just like using a regular `Sequence`, the order you apply these transformations matters –&nbsp;putting `prefix()` before `filter()` will pick out the first five quotes *then* select only the ones that are anonymous, which might produce fewer results.
+Just like using a regular `Sequence`, the order you apply these transformations matters – putting `prefix()` before `filter()` will pick out the first five quotes *then* select only the ones that are anonymous, which might produce fewer results.
 
 Each of these transformation methods returns a new type specific to what the method does, so calling `map()` returns an `AsyncMapSequence`, calling `filter()` returns an `AsyncFilterSequence`, and calling `prefix()` returns an `AsyncPrefixSequence`.
 
-When you stack multiple transformations together – for example, a filter, then a prefix, then a map, as in our previous example –&nbsp;this will inevitably produce a fairly complex return type, so if you intend to send back one of the complex async sequences you should consider an opaque return type like this:
+When you stack multiple transformations together – for example, a filter, then a prefix, then a map, as in our previous example – this will inevitably produce a fairly complex return type, so if you intend to send back one of the complex async sequences you should consider an opaque return type like this:
 
 ```swift
 func getQuotes() async -> some AsyncSequence {

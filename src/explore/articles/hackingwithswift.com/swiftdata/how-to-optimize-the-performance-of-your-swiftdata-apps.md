@@ -188,7 +188,7 @@ That doesn't mean SwiftData *must* store the data externally, only that it can. 
 
 In Core Data it was common advice to always check a view context's `hasChanges` property before trying to save, to avoid unnecessary work.
 
-In SwiftData this advice is no longer important –&nbsp;just call `save()` whenever you want, or let autosave do it for you, and you'll be fine, because there's no performance impact.
+In SwiftData this advice is no longer important – just call `save()` whenever you want, or let autosave do it for you, and you'll be fine, because there's no performance impact.
 
 ---
 

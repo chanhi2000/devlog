@@ -29,4 +29,10 @@ tag:
 
 ---
 
+## 개발 공부 블로그
+
+- [\[NCP\] Github Actions + NCP Container Registry를 이용한 Next.js 서버 CI/CD 파이프라인 구축하기](https://m.blog.naver.com/dlaxodud2388/223513973995)
+
+---
+
 <TagLinks />

@@ -65,13 +65,13 @@ For example, if we had `Movie` and `Director` models, we could load all movies d
 
 ::: note
 
-`#Predicate` works almost identically in each of those three cases, so although the examples given here use `@Query` they are almost identical elsewhere. The only actual difference is that `@Query` sometimes struggles to get type inference correct, so we need to specify `#Predicate&lt;SomeModelType&gt;` explicitly there.
+`#Predicate` works almost identically in each of those three cases, so although the examples given here use `@Query` they are almost identical elsewhere. The only actual difference is that `@Query` sometimes struggles to get type inference correct, so we need to specify `#Predicate<SomeModelType>` explicitly there.
 
 There are a handful of important things to know about using `#Predicate`.
 
 First, it’s a macro that converts your Swift code into a serious of `PredicateExpressions` objects. This means your predicate is checked at compile time for type safety, unlike the older `NSPredicate` from Core Data.
 
-This means what looks like pure Swift code is in fact being evaluated and converted into something else entirely –&nbsp;something that SwiftData can ultimately convert to SQL to run with its queries.
+This means what looks like pure Swift code is in fact being evaluated and converted into something else entirely – something that SwiftData can ultimately convert to SQL to run with its queries.
 
 **This process isn’t perfect.** Some things that are type-safe will crash at runtime, sometimes you’ll find two almost identical predicates will behave differently, and many things just aren’t supported.
 

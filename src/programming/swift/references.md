@@ -192,6 +192,7 @@ tag:
 
 ## Holy Swift
 
+- [Introduction to SwiftUI Modularisation with SPM](https://holyswift.app/introduction-to-swiftui-modularisation-with-spm/)
 - [A Guided Tour for SwiftUI ForEach Structure](https://holyswift.app/a-guided-tour-for-swiftui-foreach-structure/) 
 - [A Beginner’s Guide to Styling Components in SwiftUI](https://holyswift.app/a-beginners-guide-to-styling-components-in-swiftui/)
 - [Animating Carrousel Transitions in SwiftUI](https://holyswift.app/animating-carrousel-transitions-in-swiftui/)
@@ -432,6 +433,7 @@ tag:
 ## Digital Bunker
 
 - [Exploring ABI stability, `@frozen`, and library evolution mode](https://digitalbunker.dev/understanding-frozen-in-swift/)
+- [Blend Modes in SwiftUI](https://digitalbunker.dev/blend-modes-in-swiftui/)
 
 ---
 
@@ -859,9 +861,9 @@ tag:
 
 ---
 
-## Digital Bunker
+## Yaacoub
 
-[Blend Modes in SwiftUI](https://digitalbunker.dev/blend-modes-in-swiftui/)
+- [Hello Swift Charts - WWDC 2022](https://yaacoub.github.io/articles/swift-tip/hello-swift-charts-wwdc-2022/)
 
 ---
 

@@ -27,6 +27,14 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`mythos` / \[OSSCA\] Linux Kernel Networking Stack #0 발대식 및 환경 설정](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-0-%EB%B0%9C%EB%8C%80%EC%8B%9D-%EB%B0%8F-%EC%A4%80%EB%B9%84%EC%82%AC%ED%95%AD)
+
+<!-- END: velog.io -->
+
+---
+
 ## Martijn de Vos
 
 - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part II)](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2)

@@ -239,6 +239,10 @@ head:
 - [`@2fEJ` / 어피니티 다이어그램을 통한 팀 기반 UX 문제 해결 - UX 리서치 이야기 #28](https://brunch.co.kr/@@2fEJ/1399)
 - [`@2fEJ` / 제품 개발의 핵심 초기 단계: 이해관계자 워크숍!!! - UX 리서치 강연 #27](https://brunch.co.kr/@@2fEJ/1398)
 - [`@2fEJ` / 프로덕트 매니저 역량!!! 고객이 되어 보기!!!! - UX 디자인 강의#26](https://brunch.co.kr/@@2fEJ/1404)
+- [`@2fEJ` / 리서치 데이터 결과 정리 과정의 중요성 - UX 디자인 이야기 #28](https://brunch.co.kr/@@2fEJ/1417)
+- [`@2fEJ` / 사용자 인터뷰에서의 이해력 문제 해결 방안 - UX 리서치 이야기 #29](https://brunch.co.kr/@@2fEJ/1415)
+- [`@2hV3` / 작은 변화, 큰 차이를 만드는 클릭존 UX 라이팅 - 클릭존 주위에 글만 배치했는데... 결과는?](https://brunch.co.kr/@@2hV3/238)
+- [`@1SwI` / 퍼포먼스를 해킹하는 방법](https://brunch.co.kr/@@1SwI/407)
 
 <!-- END: brunch.co.kr -->
 

@@ -32,4 +32,10 @@ tag:
 
 ---
 
+## Miryang | Frontend Engineer
+
+- [Supabase에서 Kakao Login JS SDK를 사용하는 방법](https://miryang.dev/blog/how-to-use-kakao-login-js-sdk-with-supabase)
+
+---
+
 <TagLinks/>

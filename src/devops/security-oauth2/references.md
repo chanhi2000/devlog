@@ -35,4 +35,10 @@ head:
 
 ---
 
+## Auth0 Blog
+
+- [From Idea to Standard: How the JWT Profile for OAuth 2.0 Access Tokens Became RFC9068](https://auth0.com/blog/how-the-jwt-profile-for-oauth-20-access-tokens-became-rfc9068/)
+
+---
+
 <TagLinks />

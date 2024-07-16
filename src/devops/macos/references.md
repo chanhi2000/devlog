@@ -329,4 +329,16 @@ head:
 
 ---
 
+## 삽질.log
+
+- [로컬에서 도메인 구입없이 내 PC에 도메인 사용하기](https://bum752.github.io/posts/%EB%82%B4-PC%EC%97%90-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+
+---
+
+## 개발하는 기획자. 기획하는 개발자.
+
+- [Apple Silicon 개발환경 세팅](https://m.blog.naver.com/gi_balja/223514021482)
+
+---
+
 <TagLinks />

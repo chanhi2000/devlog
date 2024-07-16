@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -72,7 +72,7 @@ But remember: don't grow too fond of your new knowledge, because tuple splats ar
   "desc": "++ and -- are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/increment-decrement.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -82,7 +82,7 @@ But remember: don't grow too fond of your new knowledge, because tuple splats ar
   "desc": "Traditional C-style for loops are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/c-loops.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -92,7 +92,7 @@ But remember: don't grow too fond of your new knowledge, because tuple splats ar
   "desc": "Comparing tuples",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/comparing-tuples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -102,7 +102,7 @@ But remember: don't grow too fond of your new knowledge, because tuple splats ar
   "desc": "Tuple splat syntax is deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/tuple-splat.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -112,7 +112,7 @@ But remember: don't grow too fond of your new knowledge, because tuple splats ar
   "desc": "More keywords can be used as argument labels",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/more-keywords.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -122,7 +122,7 @@ But remember: don't grow too fond of your new knowledge, because tuple splats ar
   "desc": "Variable parameters have been deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/variable-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -132,7 +132,7 @@ But remember: don't grow too fond of your new knowledge, because tuple splats ar
   "desc": "Renamed debug identifiers: line, function, file",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/renamed-identifiers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -142,7 +142,7 @@ But remember: don't grow too fond of your new knowledge, because tuple splats ar
   "desc": "Stringified selectors are deprecated",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/stringified-selectors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -152,7 +152,7 @@ But remember: don't grow too fond of your new knowledge, because tuple splats ar
   "desc": "Compile-time Swift version checking",
   "link": "/explore/articles/hackingwithswift.com/swift/2.2/version-checking.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

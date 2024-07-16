@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -89,7 +89,7 @@ This new behavior matches the existing behavior of optional chaining and conditi
   "desc": "Raw strings",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/raw-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -99,7 +99,7 @@ This new behavior matches the existing behavior of optional chaining and conditi
   "desc": "A standard Result type",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/result.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -109,7 +109,7 @@ This new behavior matches the existing behavior of optional chaining and conditi
   "desc": "Customizing string interpolation",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/string-interpolation.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -119,7 +119,7 @@ This new behavior matches the existing behavior of optional chaining and conditi
   "desc": "Dynamically callable types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/dynamically-callable-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -129,7 +129,7 @@ This new behavior matches the existing behavior of optional chaining and conditi
   "desc": "Handling future enum cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/handling-future-enum-cases.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -139,7 +139,7 @@ This new behavior matches the existing behavior of optional chaining and conditi
   "desc": "Flattening nested optionals resulting from try?",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/flattening-optionals.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -149,7 +149,7 @@ This new behavior matches the existing behavior of optional chaining and conditi
   "desc": "Checking for integer multiples",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/integer-multiples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -159,7 +159,7 @@ This new behavior matches the existing behavior of optional chaining and conditi
   "desc": "Transforming and unwrapping dictionary values with compactMapValues()",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/compactmapvalues.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

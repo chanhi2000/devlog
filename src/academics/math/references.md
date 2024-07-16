@@ -559,5 +559,12 @@ head:
 
 - [Calculating Position from Raw GPS Data](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 
+---
+
+## David Turner says...
+
+- [Identifying leap years](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)
+
+---
 
 <TagLinks />

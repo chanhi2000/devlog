@@ -219,9 +219,17 @@ export const navbarEn = navbar([
         link: '/programming/solidity/README.md',
         icon: 'iconfont icon-solidity',
       }, {
+        text: 'Qt',
+        link: '/programming/qt/README.md',
+        icon: 'iconfont icon-qt',
+      }, {
         text: 'Common Lisp',
         link: '/programming/common-lisp/README.md',
         icon: 'iconfont icon-common-lisp',
+      }, {
+        text: 'OCaml',
+        link: '/programming/ocaml/README.md',
+        icon: 'iconfont icon-ocaml',
       }, {
         text: 'Julia',
         link: '/programming/julia/README.md',
@@ -695,6 +703,7 @@ export const navbarEn = navbar([
           '/explore/README.md',
           '/explore/newsletter.md',
           '/explore/study.md',
+          '/explore/awesome-list.md',
         ]
       }, {
         text: 'API',

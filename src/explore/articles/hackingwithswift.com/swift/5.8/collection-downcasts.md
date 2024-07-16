@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -82,7 +82,7 @@ Before Swift 5.8 that would have led to the error message, “Collection downcas
   "desc": "Lift all limitations on variables in result builders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/lift-result-builder-limitations.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -92,7 +92,7 @@ Before Swift 5.8 that would have led to the error message, “Collection downcas
   "desc": "Function back deployment",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/function-back-deployment.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -102,7 +102,7 @@ Before Swift 5.8 that would have led to the error message, “Collection downcas
   "desc": "Allow implicit self for weak self captures, after self is unwrapped",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/implicit-self-weak-capture.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -112,7 +112,7 @@ Before Swift 5.8 that would have led to the error message, “Collection downcas
   "desc": "Concise magic file names",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/concise-magic-file-names.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -122,7 +122,7 @@ Before Swift 5.8 that would have led to the error message, “Collection downcas
   "desc": "Opening existential arguments to optional parameters",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/opening-existential-optional.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -132,7 +132,7 @@ Before Swift 5.8 that would have led to the error message, “Collection downcas
   "desc": "Collection downcasts in cast patterns are now supported",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/collection-downcasts.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->

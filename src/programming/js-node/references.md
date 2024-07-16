@@ -211,7 +211,7 @@ tag:
 
 ---
 
-## Snyk
+## Developer security | Snyk
 
 - [Preventing SQL injection attacks in Node.js](https://snyk.io/blog/preventing-sql-injection-attacks-node-js)
 - [Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://snyk.io/blog/javascript-runtime-compare-node-deno-bun)
@@ -324,6 +324,7 @@ tag:
 - [`@sehyunny` / (번역) 5가지 노드 버전 관리자 비교 - 어떤 것이 적합할까요?](https://velog.io/@sehyunny/5-node-manager-compared)
 - [`@juhee067` / 1. SQL 대신 Sequelize ORM 적용기 (초기설정,회원관련)](https://velog.io/@juhee067/Sequelize-ORM-%EC%A0%81%EC%9A%A9%EA%B8%B0)
 - [`@ansrjsdn` / Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node. 에러 해결](https://velog.io/@ansrjsdn/Failed-to-execute-removeChild-on-Node-The-node-to-be-removed-is-not-a-child-of-this-node.-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
+- [`surim014` / \[번역\] NPM 패키지 크기 대폭 축소하기](https://velog.io/@surim014/extremely-reducing-the-size-of-npm-packages)
 
 ---
 
@@ -1262,6 +1263,12 @@ tag:
 ## 뽀글뽀글 개발 일지
 
 - [사이드 프로젝트에서 Node JS를 선택한 이유](https://bbogle2.tistory.com/m/entry/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-Node-JS%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0)
+
+---
+
+## Kitemaker
+
+- [Lessons learned from moving to Recoil.js](https://kitemaker.co/blog/lessons-learned-from-moving-to-recoil)
 
 ---
 

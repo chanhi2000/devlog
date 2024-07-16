@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -218,7 +218,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "if let shorthand for unwrapping optionals",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/if-let-shorthand.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -228,7 +228,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Multi-statement closure type inference",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/multi-statement-inference.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -238,7 +238,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Clock, Instant, and Duration",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/clock.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -248,7 +248,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Regular expressions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/regexes.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -258,7 +258,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Type inference from default expressions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/default-type-inference.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -268,7 +268,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Concurrency in top-level code",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/top-level-concurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -278,7 +278,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Opaque parameter declarations",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/opaque-parameter-declarations.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -288,7 +288,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Structural opaque result types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/structural-opaque-result-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -298,7 +298,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Unlock existentials for all protocols",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/unlock-existentials.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -308,7 +308,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Lightweight same-type requirements for primary associated types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/primary-associated-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -318,7 +318,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Constrained existential types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/constrained-existentials.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -328,7 +328,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Distributed actor isolation",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/distributed-actors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -338,7 +338,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "buildPartialBlock for result builders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/buildpartialblock.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -348,7 +348,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Implicitly opened existentials",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/implicitly-opened-existentials.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -358,7 +358,7 @@ Of the three options, I suspect the regex literals will get the most use because
   "desc": "Unavailable from async attribute",
   "link": "/explore/articles/hackingwithswift.com/swift/5.7/noasync.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

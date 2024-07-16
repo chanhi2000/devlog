@@ -86,7 +86,7 @@ The next easiest task is editing data, which means creating a new SwiftUI view w
 
 If we put all those into a `Form` view we'll get a great layout by default.
 
-So, press Cmd+N to make a new SwiftUI view now, and call it `EditDestinationView`. When Xcode opens it for editing, please add `import SwiftData` near the top, so we get access to all the SwiftData API.
+So, press <kbd>Cmd</kbd>+<kbd>N</kbd> to make a new SwiftUI view now, and call it `EditDestinationView`. When Xcode opens it for editing, please add `import SwiftData` near the top, so we get access to all the SwiftData API.
 
 This needs to know the destination that was selected. If we just wanted to read the properties from our destination, we could add an `EditDestinationView` property like this:
 

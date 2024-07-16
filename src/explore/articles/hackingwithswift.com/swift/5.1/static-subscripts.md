@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -106,7 +106,7 @@ Custom subscripts like this have always been possible for instances of types; th
   "desc": "Improvements to synthesized memberwise initializers",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/improved-memberwise-initializers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -116,7 +116,7 @@ Custom subscripts like this have always been possible for instances of types; th
   "desc": "Implicit returns from single-expression functions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/implicit-returns.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -126,7 +126,7 @@ Custom subscripts like this have always been possible for instances of types; th
   "desc": "Universal Self",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/universal-self.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -136,7 +136,7 @@ Custom subscripts like this have always been possible for instances of types; th
   "desc": "Opaque return types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/opaque-return-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -146,7 +146,7 @@ Custom subscripts like this have always been possible for instances of types; th
   "desc": "Static and class subscripts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/static-subscripts.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
  -->
@@ -156,7 +156,7 @@ Custom subscripts like this have always been possible for instances of types; th
   "desc": "Warnings for ambiguous none cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/ambiguous-none-enum.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -166,7 +166,7 @@ Custom subscripts like this have always been possible for instances of types; th
   "desc": "Matching optional enums against non-optionals",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/matching-optional-enums.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -176,7 +176,7 @@ Custom subscripts like this have always been possible for instances of types; th
   "desc": "Ordered collection diffing",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/ordered-collection-diffing.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -186,7 +186,7 @@ Custom subscripts like this have always been possible for instances of types; th
   "desc": "Creating uninitialized arrays",
   "link": "/explore/articles/hackingwithswift.com/swift/5.1/creating-uninitialized-arrays.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

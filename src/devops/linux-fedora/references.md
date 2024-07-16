@@ -21,7 +21,15 @@ tag:
 
 ---
 
-## 위지원의 개발 일기 🐈 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`mythos` / \[OSSCA\] Linux Kernel Networking Stack #0 발대식 및 환경 설정](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-0-%EB%B0%9C%EB%8C%80%EC%8B%9D-%EB%B0%8F-%EC%A4%80%EB%B9%84%EC%82%AC%ED%95%AD)
+
+<!-- END: velog.io -->
+
+---
+
+## 위지원의 개발 일기 🐈
 
 - [libnsl.so.1()(64bit) is needed by oracle-instantclient](https://weejw.tistory.com/617)
 
@@ -67,6 +75,12 @@ tag:
 
 - [Digging into Linux namespaces - part 1](https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html)
 - [Digging into Linux namespaces - part 2](https://blog.quarkslab.com/digging-into-linux-namespaces-part-2.html)
+
+---
+
+## 삽질.log
+
+- [로컬에서 도메인 구입없이 내 PC에 도메인 사용하기](https://bum752.github.io/posts/%EB%82%B4-PC%EC%97%90-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
 ---
 

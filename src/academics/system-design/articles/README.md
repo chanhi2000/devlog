@@ -12,6 +12,7 @@ tag:
   - freecodecamp.org
   - smashingmagazine.com
   - yozm.wishket.com
+  - techblog.woowahan.com
   - d2.maver.com
   - oliveyoung.tech
   - helloworld.kurly.com
@@ -54,6 +55,13 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<SiteInfo
+  name="우아한형제들 기술블로그"
+  desc="우아한형제들의 기술, 서비스, 비전, 가치를 들려 드립니다."
+  url="https://techblog.woowahan.com/"
+  logo="https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico"
+  preview="https://techblog.woowahan.com/wp-content/uploads/2021/06/screenshot.jpg"/>
 
 <SiteInfo
   name="NAVER D2"
@@ -362,6 +370,24 @@ head:
 ```
 
 <!-- END: yozm.wishket.com -->
+
+---
+
+## 우아한형제들 기술블로그
+
+> techblog.woowahan.com
+
+```component VPCard
+{
+  "title": "B마트 주문 유실을 없애보자: 네트워크 편 | 우아한형제들 기술블로그",
+  "desc": "B마트 주문 유실을 없애보자: 네트워크 편",
+  "link": "/explore/artiles/techblog.woowahan.com/17911.md",
+  "logo": "https://techblog.woowahan.com/wp-content/uploads/2020/08/favicon.ico",
+  "background": "rgba(43,193,188,0.2)"
+}
+```
+
+<!-- END: techblog.woowahan.com -->
 
 ---
 

@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -80,7 +80,7 @@ For more information see [the Swift Evolution proposal for this new feature (<Fo
   "desc": "Encoding and decoding data using Codable",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/codable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -90,7 +90,7 @@ For more information see [the Swift Evolution proposal for this new feature (<Fo
   "desc": "Multi-line string literals",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/multiline-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -100,7 +100,7 @@ For more information see [the Swift Evolution proposal for this new feature (<Fo
   "desc": "Improved keypaths for key-value coding",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/keypaths.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -110,7 +110,7 @@ For more information see [the Swift Evolution proposal for this new feature (<Fo
   "desc": "Improved dictionary functionality",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/dictionaries.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -120,7 +120,7 @@ For more information see [the Swift Evolution proposal for this new feature (<Fo
   "desc": "Strings are collections again",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -130,7 +130,7 @@ For more information see [the Swift Evolution proposal for this new feature (<Fo
   "desc": "One-sided ranges",
   "link": "/explore/articles/hackingwithswift.com/swift/4.0/one-sided-ranges.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

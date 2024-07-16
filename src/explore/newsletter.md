@@ -8,6 +8,14 @@ category:
   - Newsletter
 tag:
   - newsletter
+head:
+  - - meta:
+    - property: og:title
+      content: Newsletter
+    - property: og:description
+      content: Explore > Newsletter
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/newsletter.html
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -58,6 +66,13 @@ tag:
   url="https://until.blog/"
   logo="https://until.blog/favicon.ico"
   preview="https://until.blog/og.png"/>
+
+<SiteInfo
+  name="메일리"
+  desc="메일러를 위한 뉴스레터 플랫폼"
+  url="https://maily.so/"
+  logo="https://maily.so/apple-touch-icon.png"
+  preview="https://cdn.maily.so/images/maily-og-image.png"/>
 
 ```component VPCard
 {
@@ -815,6 +830,12 @@ https://paperlined.org/
   url="https://code-maze.com/latest-posts-on-code-maze/"
   logo="/images/content/code-maze.com/favicon.png"
   preview="/images/content/code-maze.com/banner.png"/>
+
+<SiteInfo
+  name="Event-Driven by Oskar Dudycz"
+  desc="Event-Driven by Oskar Dudycz"
+  url="https://event-driven.io/en/"
+  preview="https://event-driven.io/preview.jpg"/>
 
 <SiteInfo
   name="Spring | Blog"

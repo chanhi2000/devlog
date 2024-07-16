@@ -171,6 +171,7 @@ head:
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
+- [`novu` / Building a chat app with Socket.io and React Native 🤯](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
 - [[Javascript Toy Project] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [`@wooder2050` - JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
 - [`@edie_ko` - JavaScript | Class 클래스](https://velog.io/@edie_ko/JavaScript-Class-%ED%81%B4%EB%9E%98%EC%8A%A4)
@@ -190,6 +191,8 @@ head:
 - [`haryan248` / 당기세요(pull) === 민다(push)](https://velog.io/@haryan248/%EB%8B%B9%EA%B2%A8%EC%84%9C-%EC%83%88%EB%A1%9C%EA%B3%A0%EC%B9%A8)
 - [`pjc0247` / \[React 문제 노트\] loading 띄우기](https://velog.io/@pjc0247/React-%EB%AC%B8%EC%A0%9C-%EB%85%B8%ED%8A%B8-loading-%EB%9D%84%EC%9A%B0%EA%B8%B0)
 - [`pjc0247` / \[React 문제 노트\] 최신값 참조하기](https://velog.io/@pjc0247/React-%EB%AC%B8%EC%A0%9C-%EB%85%B8%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EA%B0%92-%EC%B0%B8%EC%A1%B0%ED%95%98%EA%B8%B0)
+
+<!-- END: dev.to -->
 
 ---
 
@@ -1110,6 +1113,18 @@ https://o-yeon.tistory.com/227
 ## JSer.dev
 
 - [React Internals Explorer - easily see how React works](https://jser.dev/2024-05-11-introducing-rie/)
+
+---
+
+## 주로로 통신
+
+- [\[React, Next.js\] Next.js? 꼭 써야하나? 어떤것을 써야 할까?](https://babysunmoon.tistory.com/m/entry/React-Nextjs-Nextjs-%EA%BC%AD-%EC%8D%A8%EC%95%BC%ED%95%98%EB%82%98-%EC%96%B4%EB%96%A4%EA%B2%83%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
+
+---
+
+## Miryang | Frontend Engineer
+
+- [Supabase에서 Kakao Login JS SDK를 사용하는 방법](https://miryang.dev/blog/how-to-use-kakao-login-js-sdk-with-supabase)
 
 ---
 

@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -73,7 +73,7 @@ let answer = 42
 let dontpanic = #"The answer to life, the universe, and everything is \#(answer)."#
 ```
 
-Notice how I’ve used `\#(answer)` to use string interpolation –&nbsp;a regular `\(answer)` will be interpreted as characters in the string, so when you want string interpolation to happen in a raw string you must add the extra `#`.
+Notice how I’ve used `\#(answer)` to use string interpolation – a regular `\(answer)` will be interpreted as characters in the string, so when you want string interpolation to happen in a raw string you must add the extra `#`.
 
 One of the interesting features of Swift’s raw strings is the use of hash symbols at the start and end, because you can use more than one in the unlikely event you’ll need to. It’s hard to provide a good example here because it really ought to be extremely rare, but consider this string: <strong>My dog said "woof"#gooddog</strong>. Because there’s no space before the hash, Swift will see `"#` and immediately interpret it as the string terminator. In this situation we need to change our delimiter from `#"` to `##"`, like this:
 
@@ -115,7 +115,7 @@ We still need *some*, because regular expressions use them too.
   "desc": "Raw strings",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/raw-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -125,7 +125,7 @@ We still need *some*, because regular expressions use them too.
   "desc": "A standard Result type",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/result.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -135,7 +135,7 @@ We still need *some*, because regular expressions use them too.
   "desc": "Customizing string interpolation",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/string-interpolation.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -145,7 +145,7 @@ We still need *some*, because regular expressions use them too.
   "desc": "Dynamically callable types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/dynamically-callable-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -155,7 +155,7 @@ We still need *some*, because regular expressions use them too.
   "desc": "Handling future enum cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/handling-future-enum-cases.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -165,7 +165,7 @@ We still need *some*, because regular expressions use them too.
   "desc": "Flattening nested optionals resulting from try?",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/flattening-optionals.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -175,7 +175,7 @@ We still need *some*, because regular expressions use them too.
   "desc": "Checking for integer multiples",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/integer-multiples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -185,7 +185,7 @@ We still need *some*, because regular expressions use them too.
   "desc": "Transforming and unwrapping dictionary values with compactMapValues()",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/compactmapvalues.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

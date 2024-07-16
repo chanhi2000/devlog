@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -73,7 +73,7 @@ struct ContentView: View {
 
 That would throw up the rather unhelpful warning, "Converting function value of type `@MainActor () -> ()` to `() -> Void` loses global actor MainActor".
 
-The problem here is that SwiftUI's <code>Button</code> view doesn't use <code>@MainActor</code> for its action, so Swift was throwing up a warning that we were calling a main actor-method from somewhere that isn't isolated to the main actor. This warning has been removed by the concurrency checking improvements in Swift 5.10: the compiler can now see the button action exists in side the <code>body</code> property, which *is* isolated to the main actor, and therefore is safe.
+The problem here is that SwiftUI's `Button` view doesn't use `@MainActor` for its action, so Swift was throwing up a warning that we were calling a main actor-method from somewhere that isn't isolated to the main actor. This warning has been removed by the concurrency checking improvements in Swift 5.10: the compiler can now see the button action exists in side the `body` property, which *is* isolated to the main actor, and therefore is safe.
 
 ::: details Other Changes in Swift 5.10
 <!-- 
@@ -83,7 +83,7 @@ The problem here is that SwiftUI's <code>Button</code> view doesn't use <code>@M
   "desc": "Data races are now clearly diagnosed",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/complete-concurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -93,7 +93,7 @@ The problem here is that SwiftUI's <code>Button</code> view doesn't use <code>@M
   "desc": "Allow Protocols to be Nested in Non-Generic Contexts",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/nested-protocols.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -103,7 +103,7 @@ The problem here is that SwiftUI's <code>Button</code> view doesn't use <code>@M
   "desc": "Deprecate @UIApplicationMain and @NSApplicationMain",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/deprecate-uiapplicationmain.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -113,7 +113,7 @@ The problem here is that SwiftUI's <code>Button</code> view doesn't use <code>@M
   "desc": "Refined actor initialization and deinitialization",
   "link": "/explore/articles/hackingwithswift.com/swift/5.10/actor-initialization.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

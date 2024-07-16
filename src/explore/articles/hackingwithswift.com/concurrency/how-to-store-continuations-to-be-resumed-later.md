@@ -68,9 +68,9 @@ func webView(WKWebView, didFail: WKNavigation!, withError: Error) {
 
 So, rather than receiving the result of our work through a single completion closure, we instead get the result in two different places. In this situation we need to do a little more work to create async functions using continuations, because we need to be able to resume the continuation in either method.
 
-To solve this problem you need to know that continuations are just structs with a specific generic type. For example, a checked continuation that succeeds with a string and never throws an error has the type `CheckedContinuation&lt;String, Never&gt;`, and an unchecked continuation that returns an integer array and can throw errors has the type `UnsafeContinuation&lt;[Int], Error&gt;`.
+To solve this problem you need to know that continuations are just structs with a specific generic type. For example, a checked continuation that succeeds with a string and never throws an error has the type `CheckedContinuation<String, Never>`, and an unchecked continuation that returns an integer array and can throw errors has the type `UnsafeContinuation<[Int], Error>`.
 
-All this is important because to solve our delegate callback problem we need to stash away a continuation in one method –&nbsp;when we trigger some functionality – then resume it from different methods based on whether our code succeeds or fails.
+All this is important because to solve our delegate callback problem we need to stash away a continuation in one method – when we trigger some functionality – then resume it from different methods based on whether our code succeeds or fails.
 
 I want to demonstrate this using real code, so we’re going to create an `ObservableObject` to wrap Core Location, making it easier to request the user’s location.
 

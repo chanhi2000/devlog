@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -223,7 +223,7 @@ If you’d like to see more advanced, real-world examples of result builders in 
   "desc": "Improved implicit member syntax",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/improved-implicit-member-syntax.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -233,7 +233,7 @@ If you’d like to see more advanced, real-world examples of result builders in 
   "desc": "Multiple variadic parameters in functions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/multiple-variadic-parameters-in-functions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -243,7 +243,7 @@ If you’d like to see more advanced, real-world examples of result builders in 
   "desc": "Local functions now support overloading",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/local-functions-now-support-overloading.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -253,7 +253,7 @@ If you’d like to see more advanced, real-world examples of result builders in 
   "desc": "Creating variables that call a function of the same name",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/local-variables-same-name.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -263,7 +263,7 @@ If you’d like to see more advanced, real-world examples of result builders in 
   "desc": "Result builders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/result-builders.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -273,7 +273,7 @@ If you’d like to see more advanced, real-world examples of result builders in 
   "desc": "Property wrappers are now supported for local variables",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/local-property-wrappers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -283,7 +283,7 @@ If you’d like to see more advanced, real-world examples of result builders in 
   "desc": "Packages can now declare executable targets",
   "link": "/explore/articles/hackingwithswift.com/swift/5.4/spm-executable-targets.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

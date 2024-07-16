@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -95,7 +95,7 @@ struct NewContentView: View {
   "desc": "Introduce existential any",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/existential-any.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -105,7 +105,7 @@ struct NewContentView: View {
   "desc": "Type placeholders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/type-placeholders.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -115,7 +115,7 @@ struct NewContentView: View {
   "desc": "Allow coding of non String/Int keyed Dictionary into a KeyedContainer",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/codingkeyrepresentable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -125,7 +125,7 @@ struct NewContentView: View {
   "desc": "Unavailability condition",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/unavailable.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -135,7 +135,7 @@ struct NewContentView: View {
   "desc": "More concurrency changes",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/preconcurrency.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -145,7 +145,7 @@ struct NewContentView: View {
   "desc": "Plugins for Swift Package Manager",
   "link": "/explore/articles/hackingwithswift.com/swift/5.6/swiftpm-plugins.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

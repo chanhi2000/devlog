@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -139,7 +139,7 @@ struct CounterView: View {
 }
 ```
 
-However, although that will cause the underlying `UserDefaults` value to change with each tap, using `@AppStorage` in this way *won’t* cause the `body` property to be reinvoked every time `tapCount` changes –&nbsp;our UI won’t automatically be updated to reflect the change.
+However, although that will cause the underlying `UserDefaults` value to change with each tap, using `@AppStorage` in this way *won’t* cause the `body` property to be reinvoked every time `tapCount` changes – our UI won’t automatically be updated to reflect the change.
 
 ::: details Other Changes in Swift 5.8
 <!-- 
@@ -149,7 +149,7 @@ However, although that will cause the underlying `UserDefaults` value to change 
   "desc": "Lift all limitations on variables in result builders",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/lift-result-builder-limitations.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -159,7 +159,7 @@ However, although that will cause the underlying `UserDefaults` value to change 
   "desc": "Function back deployment",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/function-back-deployment.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -169,7 +169,7 @@ However, although that will cause the underlying `UserDefaults` value to change 
   "desc": "Allow implicit self for weak self captures, after self is unwrapped",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/implicit-self-weak-capture.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -179,7 +179,7 @@ However, although that will cause the underlying `UserDefaults` value to change 
   "desc": "Concise magic file names",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/concise-magic-file-names.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -189,7 +189,7 @@ However, although that will cause the underlying `UserDefaults` value to change 
   "desc": "Opening existential arguments to optional parameters",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/opening-existential-optional.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -199,7 +199,7 @@ However, although that will cause the underlying `UserDefaults` value to change 
   "desc": "Collection downcasts in cast patterns are now supported",
   "link": "/explore/articles/hackingwithswift.com/swift/5.8/collection-downcasts.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

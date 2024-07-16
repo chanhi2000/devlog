@@ -147,6 +147,7 @@ tag:
 - [Implementing Vertical Form Controls](https://webkit.org/blog/15190/implementing-vertical-form-controls/)
 - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 - [News from WWDC24: WebKit in Safari 18 beta](https://webkit.org/blog/15443/news-from-wwdc24-webkit-in-safari-18-beta/)
+- [How to use container queries now](https://web.dev/blog/how-to-use-container-queries-now)
 
 ---
 
@@ -154,6 +155,8 @@ tag:
 
 - [Light-dark()를 사용한 CSS 색상 스키마에 종속된 색상](https://web.dev/articles/light-dark)
 - [Popover API가 Baseline에 도입](https://web.dev/blog/popover-api)
+- [`@property`: Next-gen CSS variables now with universal browser support](https://web.dev/blog/at-property-baseline)
+
 
 ---
 

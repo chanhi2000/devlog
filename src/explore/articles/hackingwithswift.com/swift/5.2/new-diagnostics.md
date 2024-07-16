@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -80,7 +80,7 @@ You can find out more about the new diagnostic architecture on the [<FontIcon ic
   "desc": "Key path expressions as functions",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/keypath-expressions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -90,7 +90,7 @@ You can find out more about the new diagnostic architecture on the [<FontIcon ic
   "desc": "Callable values of user-defined nominal types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/callasfunction.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -100,7 +100,7 @@ You can find out more about the new diagnostic architecture on the [<FontIcon ic
   "desc": "Subscripts can now declare default arguments",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/subscript-default-arguments.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -110,7 +110,7 @@ You can find out more about the new diagnostic architecture on the [<FontIcon ic
   "desc": "Lazy filtering order is now reversed",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/lazy-filtering.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -120,7 +120,7 @@ You can find out more about the new diagnostic architecture on the [<FontIcon ic
   "desc": "New and improved diagnostics",
   "link": "/explore/articles/hackingwithswift.com/swift/5.2/new-diagnostics.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->

@@ -41,4 +41,10 @@ head:
 
 ---
 
+## 기계인간 John Grib
+
+- [curl 명령어](https://johngrib.github.io/wiki/cmd/curl/)
+
+---
+
 <TagLinks />

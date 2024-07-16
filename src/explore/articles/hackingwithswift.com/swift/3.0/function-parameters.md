@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -121,7 +121,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
   "desc": "All function parameters have labels unless you request otherwise",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/function-parameters.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -131,7 +131,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
   "desc": "Omit needless words",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/omit-needless-words.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -141,7 +141,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
   "desc": "UpperCamelCase has been replaced with lowerCamelCase for enums and properties",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/lower-camel-case.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -151,7 +151,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
   "desc": "Swifty importing of C functions",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/c-functions.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -161,7 +161,7 @@ func textFieldShouldReturn(_ textField: UITextField) -> Bool
   "desc": "Verbs and nouns",
   "link": "/explore/articles/hackingwithswift.com/swift/3.0/verbs-and-nouns.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

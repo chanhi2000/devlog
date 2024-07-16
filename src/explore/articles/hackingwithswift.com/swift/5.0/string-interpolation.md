@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -62,7 +62,7 @@ struct User {
 }
 ```
 
-If we wanted to add a special string interpolation for that so that we printed users neatly, we would add an extension to `String.StringInterpolation` with a new `appendInterpolation()` method. Swift already has several of these built in, and uses the interpolation <em>type</em> – in this case `User` to figure out which method to call.
+If we wanted to add a special string interpolation for that so that we printed users neatly, we would add an extension to `String.StringInterpolation` with a new `appendInterpolation()` method. Swift already has several of these built in, and uses the interpolation *type* – in this case `User` to figure out which method to call.
 
 In this case, we’re going to add an implementation that puts the user’s name and age into a single string, then calls one of the built-in `appendInterpolation()` methods to add that to our string, like this:
 
@@ -144,7 +144,7 @@ With a combination of the `ExpressibleByStringLiteral` and `ExpressibleByStringI
 To make this work, we need to fulfill some specific criteria:
 
 - Whatever type we create should conform to `ExpressibleByStringLiteral`, `ExpressibleByStringInterpolation`, and `CustomStringConvertible`. The latter is only needed if you want to customize the way the type is printed.
-- <em>Inside</em> your type needs to be a nested struct called `StringInterpolation` that conforms to `StringInterpolationProtocol`.
+- *Inside* your type needs to be a nested struct called `StringInterpolation` that conforms to `StringInterpolationProtocol`.
 - The nested struct needs to have an initializer that accepts two integers telling us roughly how much data it can expect.
 - It also needs to implement an `appendLiteral()` method, as well as one or more `appendInterpolation()` methods.
 - Your main type needs to have two initializers that allow it to be created from string literals and string interpolations.
@@ -215,7 +215,7 @@ Thanks to the `print()` calls that were scattered inside, you’ll see exactly h
   "desc": "Raw strings",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/raw-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -225,7 +225,7 @@ Thanks to the `print()` calls that were scattered inside, you’ll see exactly h
   "desc": "A standard Result type",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/result.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -235,7 +235,7 @@ Thanks to the `print()` calls that were scattered inside, you’ll see exactly h
   "desc": "Customizing string interpolation",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/string-interpolation.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -245,7 +245,7 @@ Thanks to the `print()` calls that were scattered inside, you’ll see exactly h
   "desc": "Dynamically callable types",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/dynamically-callable-types.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -255,7 +255,7 @@ Thanks to the `print()` calls that were scattered inside, you’ll see exactly h
   "desc": "Handling future enum cases",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/handling-future-enum-cases.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -265,7 +265,7 @@ Thanks to the `print()` calls that were scattered inside, you’ll see exactly h
   "desc": "Flattening nested optionals resulting from try?",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/flattening-optionals.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -275,7 +275,7 @@ Thanks to the `print()` calls that were scattered inside, you’ll see exactly h
   "desc": "Checking for integer multiples",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/integer-multiples.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -285,7 +285,7 @@ Thanks to the `print()` calls that were scattered inside, you’ll see exactly h
   "desc": "Transforming and unwrapping dictionary values with compactMapValues()",
   "link": "/explore/articles/hackingwithswift.com/swift/5.0/compactmapvalues.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

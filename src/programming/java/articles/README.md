@@ -153,6 +153,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Multithreading for Beginners",
+  "desc": "Multithreading is a crucial concept in computer science that allows for the concurrent execution of two or more threads, enabling more efficient and optimized use of resources. It can significantly improve the performance of applications, particularl...",
+  "link": "/explore/articles/freecodecamp.org/multithreading-for-beginners.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

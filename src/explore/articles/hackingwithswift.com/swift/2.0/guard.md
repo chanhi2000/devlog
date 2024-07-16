@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -94,7 +94,7 @@ print("Your username is \(unwrappedName)")
   "desc": "Throwing errors",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/try.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -104,7 +104,7 @@ print("Your username is \(unwrappedName)")
   "desc": "Use the guard keyword for early returns",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/guard.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -114,7 +114,7 @@ print("Your username is \(unwrappedName)")
   "desc": "Measure strings using their character count",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -124,7 +124,7 @@ print("Your username is \(unwrappedName)")
   "desc": "Use the defer keyword to delay work until your scope exits",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/defer.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -134,7 +134,7 @@ print("Your username is \(unwrappedName)")
   "desc": "Mutability warnings",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/mutability.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -144,7 +144,7 @@ print("Your username is \(unwrappedName)")
   "desc": "Checking API availability",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/api-availability.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

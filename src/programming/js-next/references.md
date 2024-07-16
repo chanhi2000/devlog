@@ -73,7 +73,8 @@ head:
 
 ## 개발 공부 블로그
 
-- [[FE] local TLS인증서가 포함된 Next.js 커스텀 서버 구축하기](https://blog.naver.com/dlaxodud2388/223444514671)
+- [\[FE\] local TLS인증서가 포함된 Next.js 커스텀 서버 구축하기](https://blog.naver.com/dlaxodud2388/223444514671)
+- [\[NCP\] Github Actions + NCP Container Registry를 이용한 Next.js 서버 CI/CD 파이프라인 구축하기](https://m.blog.naver.com/dlaxodud2388/223513973995)
 
 ---
 
@@ -176,6 +177,18 @@ head:
 ## Neon Serverless Postgres — Ship faster
 
 - [How to upload to S3 in Next.js and save references in Postgres](https://neon.tech/guides/next-upload-aws-s3)
+
+---
+
+## Causal: The finance platform for startups
+
+- [How We Improved React Loading Times by 70% with Next.js](https://www.causal.app/blog/next-js)
+
+---
+
+## 주로로 통신
+
+- [\[React, Next.js\] Next.js? 꼭 써야하나? 어떤것을 써야 할까?](https://babysunmoon.tistory.com/m/entry/React-Nextjs-Nextjs-%EA%BC%AD-%EC%8D%A8%EC%95%BC%ED%95%98%EB%82%98-%EC%96%B4%EB%96%A4%EA%B2%83%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
 
 ---
 

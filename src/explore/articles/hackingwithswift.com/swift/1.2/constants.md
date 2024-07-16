@@ -29,7 +29,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -69,7 +69,7 @@ if authenticated {
   "desc": "The zip() function joins two sequences",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/zip.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -79,7 +79,7 @@ if authenticated {
   "desc": "The flatMap() method transforms optionals and arrays",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/flatmap.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -89,7 +89,7 @@ if authenticated {
   "desc": "Closures can now be marked @noescape",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/noescape.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -99,7 +99,7 @@ if authenticated {
   "desc": "Classes can now have static methods and properties",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/static.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 <!-- 
@@ -109,7 +109,7 @@ if authenticated {
   "desc": "Constants no longer require immediate initialization",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/constants.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 -->
@@ -119,7 +119,7 @@ if authenticated {
   "desc": "A new Set data structure",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/set.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -129,7 +129,7 @@ if authenticated {
   "desc": "Implicit bridging has been reduced",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/bridging.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -139,7 +139,7 @@ if authenticated {
   "desc": "Multiple if let bindings",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/if-let.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -149,7 +149,7 @@ if authenticated {
   "desc": "Typecasting now includes as!",
   "link": "/explore/articles/hackingwithswift.com/swift/1.2/typecasting.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

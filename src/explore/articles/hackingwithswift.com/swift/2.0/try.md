@@ -30,7 +30,7 @@ isOriginal: false
   "desc": "What's new in Swift?",
   "link": "/explore/articles/hackingwithswift.com/swift/README.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -130,7 +130,7 @@ do {
   "desc": "Use the guard keyword for early returns",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/guard.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -140,7 +140,7 @@ do {
   "desc": "Measure strings using their character count",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -150,7 +150,7 @@ do {
   "desc": "Use the defer keyword to delay work until your scope exits",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/defer.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -160,7 +160,7 @@ do {
   "desc": "Mutability warnings",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/mutability.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 
@@ -170,7 +170,7 @@ do {
   "desc": "Checking API availability",
   "link": "/explore/articles/hackingwithswift.com/swift/2.0/api-availability.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
-  "background": "rgba(174,10,10,0.2)"
+  "background": "rgba(54,94,226,0.2)"
 }
 ```
 

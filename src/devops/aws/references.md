@@ -113,6 +113,8 @@ head:
 - [`aws` / Creating a multi architecture CI/CD solution with Amazon ECS and ECS Anywhere](https://dev.to/aws/creating-a-multi-architecture-ci-cd-deployment-for-amazon-ecs-and-ecs-anywhere-15o3)
 - [`kelvinskell` / A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
 
+<!-- END: dev.to -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
@@ -131,6 +133,7 @@ head:
 - [`@endmoseung` / 개발자가 클라우드를 공부하는 이유](https://velog.io/@endmoseung/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [`@yeonns` / Cell-based Architecture에 대해 알아보자](https://velog.io/@yeonns/what-is-cell-based-architecture)
 - [`@dradnats1012` / 인프라 스터디 2주차](https://velog.io/@dradnats1012/%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8)
+- [`dradnats1012` / DB 서버 분리하기!](https://velog.io/@dradnats1012/DB-%EC%84%9C%EB%B2%84-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -467,6 +470,12 @@ head:
 ## HelloWorld..?
 
 - [$0.005 per in-use public ipv4 address per hour (aws 프리티어 서버 과금) 해결](https://m.blog.naver.com/hyewon-0607/223509426191)
+
+---
+
+## Adolfo Ochagavía
+
+- [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 
 ---
 

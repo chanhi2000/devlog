@@ -83,10 +83,17 @@ tag:
 
 ---
 
+## Blog - LINE ENGINEERING
+
+- [기기와 앱의 무결성 보장부터 서비스 요청 보호까지: LINE의 기기 증명 서비스 - 1편](https://techblog.lycorp.co.jp/ko/line-device-attestation-1) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/line-device-attestation-1.md) -->
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`tanaytandon` / Unit testing a fragment with View Model in Android](https://medium.com/@tanaytandon/unit-testing-a-fragment-with-view-model-in-android-172fcd7807aa)
-- [`proandroiddev`: droidcon](https://proandroiddev.com/) 
+- [`proandroiddev`: droidcon](https://proandroiddev.com/)
+  - [Effectively using Android Lint in existing projects](https://proandroiddev.com/effectively-using-android-lint-in-existing-projects-eacff100a919)
   - [Jetpack Compose Migration: Best Practices and Strategies](https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe)
   - [RecyclerView Guide — Pagination, View Types, Shimmer, Error Loading and more…](https://proandroiddev.com/everything-you-need-to-know-about-recyclerview-577bf9248298)
   - [How to Avoid Dependency Conflicts in Android Multi-Module Apps](https://proandroiddev.com/how-to-avoid-dependency-conflicts-in-multi-module-android-apps-88ea88bc48b2)
@@ -538,6 +545,18 @@ tag:
 ## ahmed el-helw’s blog
 
 - [Single Gesture Interaction between Multiple Composables](https://helw.net/2024/07/01/single-gesture-interaction-between-multiple-composables/)
+
+---
+
+## <FontIcon icon="fa-brands fa-meta"/>Engineering at Meta
+
+- [From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
+
+---
+
+## Victor Brandalise
+
+- [Building a Budget Tracker with Jetpack Compose](https://victorbrandalise.com/budget-tracker-with-jetpack-compose/)
 
 ---
 

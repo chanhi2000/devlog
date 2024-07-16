@@ -10,6 +10,14 @@ tag:
   - study
   - exam
   - cbt
+head:
+  - - meta:
+    - property: og:title
+      content: Study
+    - property: og:description
+      content: Explore > Study
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/study.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -981,4 +989,4 @@ https://ui-patterns.com/patterns
 
 ---
 
-<TagLinks />f
+<TagLinks />
