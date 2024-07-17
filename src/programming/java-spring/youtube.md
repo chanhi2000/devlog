@@ -85,5 +85,9 @@ head:
 <MyYouTubeItems jsonName="yu-code_name_sagang" /><!-- 사강코딩 -->
 <MyYouTubeItems jsonName="yu-SeleniumExpress" /><!-- Selenium Express -->
 <MyYouTubeItems jsonName="yu-micoding" /><!-- 몰입코딩 아카이브 -->
+<MyYouTubeItems jsonName="yu-pjh5365" /><!-- 박지혁 -->
+<MyYouTubeItems jsonName="yu-poseidon.program" /><!-- poseidon -->
+<MyYouTubeItems jsonName="yu-codersee" /><!-- Codersee- Kotlin on the backend -->
+<MyYouTubeItems jsonName="yu-uengine5309" /><!-- uEngine -->
 
 <TagLinks />

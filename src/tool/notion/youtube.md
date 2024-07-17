@@ -46,5 +46,6 @@ head:
 <MyYouTubeItems jsonName="yu-Bardeenai" /><!-- Bardeen -->
 <MyYouTubeItems jsonName="yu-Ginseng_Youngman" /><!-- 홍청이의 방방곡곡 -->
 <MyYouTubeItems jsonName="yu-learningspoons" /><!-- 러닝스푼즈 - 성장이 필요한 순간 -->
+<MyYouTubeItems jsonName="yu-notionactually" /><!-- 노션다움 - 노션을 나만의 비서로! -->
 
 <TagLinks />

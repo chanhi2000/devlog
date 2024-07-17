@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "pjh5365",
+    "name": "박지혁",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mpxWpkjxQS2qGN2ffbB3OCm9KwsimroiBqP2QcF-l_ISeV=s120-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "wtceYX3zFnY", "title": "스프링을 이용한 게시판 서비스 만들기 -6 (로그인, 회원가입 구현)" },
+    { "id": "hy98cHpKYzA", "title": "스프링을 이용한 게시판 서비스 만들기 -7 (스프링 시큐리티 적용)" },
+    { "id": "YJ9Bj2d1Iy8", "title": "스프링을 이용한 게시판 서비스 만들기 -8 (향후계획)" },
+    { "id": "-vJpm4S4aYs", "title": "[스프링 개념 -1] 스프링이란?" },
+    { "id": "jp54-euJiCI", "title": "[스프링 개념 -2] 객체 지향 특징 / 객체 지향 설계" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/gsK0EALjlZGWmWu9Uf-KrVdjUAmK3X9dfVX40UZ0tJ54SzBEh_lVWsSzENyAtmCZDaPOItJE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6O8qWzit3EU", "title": "AKS private DNS resolution at scale" },
+    { "id": "4K7MQto-Vtc", "title": "Getting Container Apps logs in Grafana" },
+    { "id": "TOBGA-ztINM", "title": "App Routing, the best AKS feature ?" },
+    { "id": "oRZZZox1D58", "title": "Introduction to AKS Automatic" },
+    { "id": "25VSVE-YQUs", "title": "Introduction to RAG" },
+    { "id": "K-11omMaU1U", "title": "Limitations for private domain names in Container Apps" },
+    { "id": "1_iFSg9Roeg", "title": "Private DNS options for AKS" },
     { "id": "sGWtz_kkKX8", "title": "Azure Managed Prometheus and Grafana for AKS monitoring" },
     { "id": "DNd3QTkm5Dw", "title": "Azure AMPLS demystified" },
     { "id": "h8zCym-OeYg", "title": "Secure AKS with HTTP Proxy" },
@@ -40,6 +47,9 @@
     { "id": "2Y82jW_H-E4", "title": "Deploy Kubernetes Infra with Terraform and Github Actions" }, 
     { "id": "woZGH0lg1ns", "title": "Azure DevOps CLI" }, 
     { "id": "kPDy7Nb32e4", "title": "Custom domains using Kubernetes CoreDNS" }  
+  ],
+  "playlists": [
+
   ]
 }
 

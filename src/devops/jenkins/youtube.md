@@ -37,5 +37,6 @@ tag:
 <MyYouTubeItems jsonName="yu-gorandev" /><!-- Goran Vasić -->
 <MyYouTubeItems jsonName="yu-DevOpsJourney" /><!-- DevOps Journey -->
 <MyYouTubeItems jsonName="yu-MrDevOps" /><!-- Mr. DevOps -->
+<MyYouTubeItems jsonName="yu-kantancoding" /><!-- Kantan Coding -->
 
 <TagLinks />

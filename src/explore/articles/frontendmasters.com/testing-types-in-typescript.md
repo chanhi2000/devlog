@@ -4,14 +4,15 @@ title: Testing Types in TypeScript
 description: Article(s) > Testing Types in TypeScript
 icon: iconfont icon-typescript
 category: 
-  - JavaScript
+  - Node.js
   - TypeScript
   - Article(s)
 tag: 
   - blog
   - frontendmasters.com
-  - js
-  - javascript
+  - node
+  - nodejs
+  - node-js
   - ts
   - typescript
 head:
@@ -22,7 +23,7 @@ head:
       content: Testing Types in TypeScript
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/testing-types-in-typescript.html
-prev: /programming/js/articles/README.md
+prev: /programming/ts/articles/README.md
 date: 2024-06-04
 isOriginal: false
 cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/06/pexels-photo-938165.jpeg?resize=768%2C487&ssl=1
@@ -32,9 +33,9 @@ cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/06/pex
 
 ```component VPCard
 {
-  "title": "JavaScript > Article(s)",
+  "title": "TypeScript > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/js/articles/README.md",
+  "link": "/programming/ts/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

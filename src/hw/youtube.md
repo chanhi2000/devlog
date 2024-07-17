@@ -75,5 +75,6 @@ head:
 <MyYouTubeItems jsonName="yu-core-computinglab" /><!-- Core Computing -->
 <MyYouTubeItems jsonName="yu-Jayztwocents" /><!-- JayzTwoCents -->
 <MyYouTubeItems jsonName="yu-HardwareSavvy" /><!-- Hardware Savvy -->
+<MyYouTubeItems jsonName="yu-E.B._Tech" /><!-- E.B. Tech -->
 
 <TagLinks />

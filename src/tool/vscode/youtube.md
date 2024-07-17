@@ -25,5 +25,8 @@ tag:
 <MyYouTubeItems jsonName="yu-CodinginPublic" /><!-- Coding in Public -->
 <MyYouTubeItems jsonName="yu-HoveredCubeOfficial" /><!-- Hovered Cube -->
 <MyYouTubeItems jsonName="yu-huxnwebdev" /><!-- HuXn WebDev -->
+<MyYouTubeItems jsonName="yu-kimfl" /><!-- 프로그래머 김플 스튜디오 -->
+<MyYouTubeItems jsonName="yu-gui.ferreira" /><!-- Gui Ferreira -->
+<MyYouTubeItems jsonName="yu-programmingwithmosh" /><!-- Programming with Mosh -->
 
 <TagLinks />

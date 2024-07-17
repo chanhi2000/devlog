@@ -426,6 +426,7 @@ head:
 ## Teveloper 개발 & 테니스 이야기
 
 - [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 발표 후기](https://teveloper.tistory.com/79)
+- [ts-pattern으로 선언적으로 분기처리하기](https://teveloper.tistory.com/m/84)
 
 ---
 
@@ -567,6 +568,5 @@ head:
 - [How to build, test, and publish a TypeScript npm package in 2022](https://www.strictmode.io/articles/build-test-and-publish-npm-package-2022)
 
 ---
-
 
 <TagLinks />

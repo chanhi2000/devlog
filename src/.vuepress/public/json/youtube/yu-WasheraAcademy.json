@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "WasheraAcademy",
+    "name": "Washera Academy",
+    "profile": "https://yt3.googleusercontent.com/GsIoir6aKRQLOl_q73s5ZXkJrDL_mKQqhx8FtGDOusG8e6FL8c-6wN99FN-zdNnBEPAxYc6DEvk=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2WuA6J2wVhJLNGgE3Kr3KMHDdu45VYiaWhf2m1OFAFK83VA7J-faFvk_aR1-lfBLCqojUqRHaA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "Python Spring 2024",
+      "videos": [
+        { "id": "LbPawGKOJoE", "title": "Python for Beginners:  Getting started with by Installing and Interacting with Python | Lesson 1" },
+        { "id": "K2XYipet-Tc", "title": "Learn Python with Visual Studio Code and Operators in Python - Lesson 2" },
+        { "id": "mqk890cu99Q", "title": "Python for Beginners:  Python Data Types | Lesson 3" },
+        { "id": "Jmro7eOayYw", "title": "Python for Beginners:  Understanding Most Common Python Built-in Functions | Lesson 4" },
+        { "id": "RrirHSoB_FU", "title": "Python for Beginners: Python Variables Explained - Lesson 5" },
+        { "id": "oj_lE6SEL40", "title": "Python for Beginners: Python String and String Methods | Lesson 6" },
+        { "id": "TMDX8Gx6vSo", "title": "Python for Beginners: Python Conditionals | Lesson 7" },
+        { "id": "zEVoHkZ5nbE", "title": "Python for Beginners: Master Python Loops: For Loop and While Loop Tutorial | Lesson 8" },
+        { "id": "PjfLhGLRp5Y", "title": "Python for Beginners: Python List Manipulation with These Essential List Methods | Lesson 9" },
+        { "id": "I13hz9Dxouk", "title": "Python for Beginners: Solving Problems with  Python List | Lesson 10" },
+        { "id": "HPafsboKtrU", "title": "Python for Beginners: Python Dictionaries Demystified: Everything You Need to Know | Lesson 11" },
+        { "id": "BlVeyp3opbA", "title": "Python for Beginners:  Python Sets Explained | Lesson 12" },
+        { "id": "RdOspU38LxA", "title": "Python for Beginners:  Python Tuples Explained | Lesson 13" },
+        { "id": "enWbdn7tJOE", "title": "Python for Beginners: Mastering Python Functions: Writing Clean and Reusable Code | Lesson 14" },
+        { "id": "6KSjAsgFwtE", "title": "Master Python Functional Programming with Map, Filter, and Reduce | Beginner's Guide - Lesson 15" },
+        { "id": "QeffRxHsYmM", "title": "Python for Beginners: Understanding Python Modules | Lesson 16" },
+        { "id": "Tsu0fBQ7O7A", "title": "Python for Beginners: Python List Comprehension | Lesson 17" },
+        { "id": "OH42kYMF-4k", "title": "Python for Beginners: Object Oriented Programming | Lesson 18" },
+        { "id": "OAQtMoj00Ow", "title": "Python for Beginners: Python Error Types and Exception Handling | Lesson 19" },
+        { "id": "J8BM1S23bgs", "title": "Python for Beginners: Handling file with Python - Lesson | 20" },
+        { "id": "wTmr6OwweQM", "title": "Python for Beginners: File handling with Python - Exercises - Lesson | 21" },
+        { "id": "OHeBueBXoG4", "title": "Python for Beginners: How to create package and use third party packages- Lesson 22" },
+        { "id": "1tiXp8QT_ZA", "title": "Python for Beginners: How to fetch data exercise using requests | Lesson 23" },
+        { "id": "tGxQ0bqQT94", "title": "Python for Beginners: Creating a virtual environment in Python | Lesson 24" }
+      ]
+    }
+  ]
+}

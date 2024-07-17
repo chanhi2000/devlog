@@ -72,5 +72,6 @@ tag:
 <MyYouTubeItems jsonName="yu-neonchang" /><!-- 모바일랩 -->
 <MyYouTubeItems jsonName="yu-Aleksey_Konovalov" /><!-- Aleksey Konovalov -->
 <MyYouTubeItems jsonName="yu-HandyAndyTechTips" /><!-- HandyAndy Tech Tips -->
+<MyYouTubeItems jsonName="yu-freedosproject" /><!-- FreeDOS -->
 
 <TagLinks />

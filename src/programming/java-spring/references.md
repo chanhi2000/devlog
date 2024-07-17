@@ -126,6 +126,7 @@ head:
 - [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
 - [`taesulee93` / Spring Http Interface를 활용한 외부 API 연동 — with WebClient](https://medium.com/@taesulee93/spring-http-interface%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%99%B8%EB%B6%80-api-%EC%97%B0%EB%8F%99-with-webclient-ab3691db5c27?source=rss-524631d9bcfb------2)
 - [Spring Scheduler 설정과 ShedLock을 이용한 간편한 분산락 사용](https://medium.com/@taesulee93/spring-scheduler-%EC%84%A4%EC%A0%95%EA%B3%BC-shedlock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%ED%8E%B8%ED%95%9C-%EB%B6%84%EC%82%B0%EB%9D%BD-%EC%82%AC%EC%9A%A9-74ffcafd0c25?source=rss-524631d9bcfb------2)
+- [`taesulee93` / Spring for RabbitMQ in Action — Declarables을 활용한 Exchange, Queue, Binding, DLQ 간편 설정](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-declarables%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-exchange-queue-binding-dlq-%EA%B0%84%ED%8E%B8-%EC%84%A4%EC%A0%95-a248744d6240?source=rss-524631d9bcfb------2)
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
@@ -411,6 +412,7 @@ head:
 - [7.6. 책 상세 뷰 작성하기](https://ysedeveloper.tistory.com/m/entry/76-%EC%B1%85-%EC%83%81%EC%84%B8-%EB%B7%B0-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [7.7. 책 오류 뷰 작성하기](https://ysedeveloper.tistory.com/m/entry/77-%EC%B1%85-%EC%98%A4%EB%A5%98-%EB%B7%B0-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [7.8. 책 상세 화면 확인하기](https://ysedeveloper.tistory.com/m/entry/78-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+- [8.1. 책 수정 화면 개요](https://ysedeveloper.tistory.com/m/entry/81-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%9A%94)
 
 <!-- END: ysedeveloper.tistory.com -->
 

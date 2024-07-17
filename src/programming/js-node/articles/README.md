@@ -272,6 +272,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Deploy Your Node.js App on Azure",
+  "desc": "The advent of cloud computing marked a turning point in the field of technology. It provides easier access for users across the globe to web and mobile applications and services.  Modern-day computing services also provide a wide range of features which make web apps easier to use and more...",
+  "link": "/explore/articles/code-maze.com/how-to-deploy-node-js-app-on-azure.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -521,36 +531,6 @@ head:
   "title": "User-Agent Client Hints의 도입, UA 프리징을 대비하라 | NAVER D2",
   "desc": "User-Agent Client Hints의 도입, UA 프리징을 대비하라",
   "link": "/explore/articles/d2.naver.com/6532276.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
-  "background": "rgba(54,235,127,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 기초 타입 이론 | NAVER D2",
-  "desc": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 기초 타입 이론",
-  "link": "/explore/articles/d2.naver.com/9283310.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
-  "background": "rgba(54,235,127,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 고급 타입 추론 | NAVER D2",
-  "desc": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 고급 타입 추론",
-  "link": "/explore/articles/d2.naver.com/3713986.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
-  "background": "rgba(54,235,127,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 응용 문제 | NAVER D2",
-  "desc": "infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 응용 문제",
-  "link": "/explore/articles/d2.naver.com/5088940.md",
   "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }

@@ -28,4 +28,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-HoonJo" /><!-- 조 훈(Hoon Jo) -->
+
 <TagLinks />

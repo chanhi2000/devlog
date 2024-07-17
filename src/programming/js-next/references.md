@@ -44,6 +44,7 @@ head:
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`adminjs` / Building a blog with Next.js, AdminJS, and React: a simple step-by-step guide](https://medium.com/adminjs/building-a-blog-with-next-js-adminjs-and-react-a-simple-step-by-step-guide-8838f4e594a6)
+- [`kmong` / Next.js App Router.. 이제는 앱라적 사고가 필요하다. Deep dive 시작부터 파헤치기 Part.1](https://blog.kmong.com/next-js-app-router-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EC%95%B1%EB%9D%BC%EC%A0%81-%EC%82%AC%EA%B3%A0%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4-deep-dive-%EC%8B%9C%EC%9E%91%EB%B6%80%ED%84%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-part-1-6399cea5f11d?source=rss-62ff0a08953f------2)
 
 ---
 
@@ -189,6 +190,7 @@ head:
 ## 주로로 통신
 
 - [\[React, Next.js\] Next.js? 꼭 써야하나? 어떤것을 써야 할까?](https://babysunmoon.tistory.com/m/entry/React-Nextjs-Nextjs-%EA%BC%AD-%EC%8D%A8%EC%95%BC%ED%95%98%EB%82%98-%EC%96%B4%EB%96%A4%EA%B2%83%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
+- [\[Next.js\] 초기 개발 환경 for mac](http://babysunmoon.tistory.com/m/entry/Nextjs-%EC%B4%88%EA%B8%B0-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-for-mac)
 
 ---
 

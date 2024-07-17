@@ -310,6 +310,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What Are Monte Carlo Methods? How to Predict the Future with Python Simulations",
+  "desc": " -0.5 × (x2 + y2)...",
+  "link": "/explore/articles/freecodecamp.org/what-are-monte-carlo-methods.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

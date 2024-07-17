@@ -2283,8 +2283,6 @@
     "officialSite": "https://crates.io/crates/cel-interpreter",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6639685?v=4",
-    "banner": "",
-    "avatar": "",
     "banner": ""
   }, {
     "repo": "guywaldman/magic-cli",
@@ -2292,8 +2290,13 @@
     "officialSite": "https://guywaldman.com/posts/introducing-magic-cli",
     "topics": [],
     "avatar": "",
-    "banner": "",
-    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "seddonm1/sqlite-bench",
+    "desc": "Code to accompany blog post https://reorchestrate.com/posts/sqlite-transactions",
+    "officialSite": "https://reorchestrate.com/posts/sqlite-transactions",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/3468624?v=4",
     "banner": ""
   }
 ]

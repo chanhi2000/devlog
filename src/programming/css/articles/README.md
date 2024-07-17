@@ -172,6 +172,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Create 24 CSS Projects",
+  "desc": "As the web evolves, new tools and ideas are released with the goal of making our lives as web developers easier. This means we have to choose whether to stick with the old ways or discard them entirely for the shiny new stuff. But does this always demand an either-or...",
+  "link": "/explore/articles/freecodecamp.org/create-24-css-projects.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

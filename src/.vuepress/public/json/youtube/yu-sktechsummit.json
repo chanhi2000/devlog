@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "sktechsummit",
+    "name": "SK TECH SUMMIT",
+    "profile": "https://yt3.googleusercontent.com/azFCd5pwHJb9DgRhs_ArXMx0fMpkuCN0LHdtYY-rE8OF2fPaVuDvn06qqUb6xc3yFC76ELPgjA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hw4YD67-U8kWD_sHMQTlwZTGA-ZblqWrkxs8y85BDBMiNmy265tYdhPXFCjxFRvOsWMaTVnd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "[SK TECH SUMMIT 2023] AI ·ICT 융합",
+      "videos": [
+        { "id": "7mv6Wbn7WqA", "title": "[SK TECH SUMMIT 2023] AI를 품은 Full 3D 버추얼휴먼" },
+        { "id": "WFzJjW2UoJU", "title": "[SK TECH SUMMIT 2023] AI Camera에 어떻게 개성을 부여할까? SKT Edge AI의 차별화된 Customized AI 기술" },
+        { "id": "bUoHPe8i33U", "title": "[SK TECH SUMMIT 2023] 이미지를 이해하는 AI는 없나요? - Vision-Language Model을 활용한 SKT만의 Vision Data Asset 구축기" },
+        { "id": "8xW0UZV8aGs", "title": "[SK TECH SUMMIT 2023] Panoptes IM: 이미지 계측에 AI를 활용해 제조 공정을 더욱 효과적으로 제어해보자!" },
+        { "id": "XTAM8bnTnvM", "title": "[SK TECH SUMMIT 2023] 4년차 커머스 T deal(티딜)의 AI 활용법" },
+        { "id": "YdzIn1BcTgw", "title": "[SK TECH SUMMIT 2023] 감성에 딱 맞는 음악을 추천하다: `사용자의 상황과 기분에 딱 맞는 AI 음악 추천 시스템`" },
+        { "id": "OcYCDaM_6J8", "title": "[SK TECH SUMMIT 2023] With AI Co-worker, 통신 Infra 운용 체계의 미래 (AI Coworker, Telco Infra 운용 체계의 혁신)" },
+        { "id": "5fhO_N8oHVw", "title": "[SK TECH SUMMIT 2023] 사람이 더 가치있는 삶을 살 수 있도록 생산 현장에서 로봇을 더 스마트하게!" },
+        { "id": "YfxR3zRw1y4", "title": "[SK TECH SUMMIT 2023] 인공지능으로 하폐수처리장의 에너지도 절감하고 온실가스 배출량도 줄여서 환경 지키기에 앞장서기" },
+        { "id": "6eN63fmbxU4", "title": "[SK TECH SUMMIT 2023] Net Zero를 향한 여정에서 중심이 되는 Infra, CENTERO가 함께 합니다." },
+        { "id": "LDFOGI1TrhA", "title": "[SK TECH SUMMIT 2023] 서버를 물에 담가 보았습니다." },
+        { "id": "6iFTua85X5M", "title": "[SK TECH SUMMIT 2023] 오프라인 간편결제 서비스 확대" },
+        { "id": "sy2asT2c8FM", "title": "[SK TECH SUMMIT 2023] RAG를 위한 Retriever 전략" },
+        { "id": "1-sPZClN0JY", "title": "[SK TECH SUMMIT 2023] 암환자 개개인에 맞는 항암치료제 찾기: 반려동물에서 사람으로" }
+      ]
+    }
+  ]
+}

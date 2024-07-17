@@ -1,0 +1,49 @@
+{
+  "channel": {
+    "id": "user-ck6kt9rg4r",
+    "name": "한국클라우드산업협회",
+    "profile": "https://yt3.googleusercontent.com/RxcEKuh2Ejq2a6WDPFjJXqTChxLHU-kqGcAq1gJWrQZc8mu0KwQ3z4lmp99a_OUtOHGT1t7hsQ=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "[C.C.A] K-AI PaaS Summit 2024",
+      "videos": [
+        { "id": "KV8f4E1T-gI", "title": "[특별강연] AI 산업, PaaS가 가져올 미래" },
+        { "id": "Upj4dy0kvZ4", "title": "[수산아이앤티] 클라우드 통합 네트워크 보안 서비스 플랫폼 ePrismX" },
+        { "id": "h88YbRpH1oI", "title": "[오케스트로] 생성형 AI 시대 클라우드 PaaS 플랫폼의 비즈니스 방향 및 고객사 준비사항" },
+        { "id": "buN8VKFZhUI", "title": "[에이프리카] 클라우드 네이티브 기반 AI PaaS 구현 방안" },
+        { "id": "-cKq0Gax9vo", "title": "[티맥스클라우드] 공공 클라우드 미래 방향과 그 해법" },
+        { "id": "NLYcEyLkNJg", "title": "[오픈마루] 클라우드 네이티브를 위한 Observability와 모니터링 방안" },
+        { "id": "hgfftWclOPA", "title": "[아콘소프트] Why 클라우드 네이티브 PaaS가 안내하는 비즈니스 혁신" },
+        { "id": "tQNFbubYvUY", "title": "[오픈소스컨설팅] Hybrid Cloud 전환점 VM과 컨테이너를 통합하는 클라우드 네이티브 기반 Private Cloud 전략" },
+        { "id": "l9tWDrtHmqA", "title": "[클라이온] DX 대전환 Cloud Native & AI Native" },
+        { "id": "WbjJDpzNOME", "title": "[맨텍솔루션] AI의 기반, 클라우드 네이티브가 일으킨 파괴적 혁신과 사례" },
+        { "id": "njRSjIo143M", "title": "[나무기술] AI PaaS, 성공적인 디지털 전환을 위한 활용 전략" },
+        { "id": "jjWh1HTH9Qw", "title": "[개회사] KeyNote" },
+        { "id": "zd2ta1bAjMY", "title": "[K-AI PaaS Summit 2024] PaaS 기술강연 2 및 클로징" },
+        { "id": "5HAtsfKJzg4", "title": "[K-AI PaaS Summit 2024] PaaS 기술강연 1" },
+        { "id": "8y9stXPJZQI", "title": "[K-AI PaaS Summit 2024] 오프닝 및 기조강연" }
+      ]
+    }, {
+      "title": "[C.C.A] K-PaaS Summit 2023",
+      "videos": [
+        { "id": "9PltxfPEWg8", "title": "[맨텍솔루션] 클라우드, 클라우드 네이티브, 앱 현대화 한방에 정리" },
+        { "id": "EBlLLdKKJAA", "title": "[ETRI] K-PaaS가 고려해야하는 컴퓨팅 환경 멀티클라우드" },
+        { "id": "JTC1DlXNKxs", "title": "[티맥스클라우드] 공공기관 클라우드 풀스택 제공을 위한 모든 것, TCP" },
+        { "id": "OuLRm4kSKl4", "title": "[안랩] 당신의 Application Modernization은 안전하십니까" },
+        { "id": "QjdYMzq0oy8", "title": "[아콘소프트] IT혁신에서 클라우드 네이티브의 역할" },
+        { "id": "cFHW1q8LpE0", "title": "[KT 클라우드] 성공적인 디지털 전환을 위한 K-PaaS 추진방향" },
+        { "id": "gRA58Py3AJo", "title": "[오픈마루] 클라우드 네이티브를 위한 OPENMARU APM" },
+        { "id": "hUzWug3bpkI", "title": "[클라이온] 클라우드 네이티브 기반 DX 혁신과 성공사례" },
+        { "id": "tngffgFNwUo", "title": "[나무기술] 클라우드 네이티브 구축의 핵심요건 : 클라우드 플랫폼(PaaS)" },
+        { "id": "I91yjovvCFQ", "title": "클라우드 서비스 품질 성능 관리체계 검증 소개" },
+        { "id": "ZeXV7a333lU", "title": "클라우드 품질 성능 검증 사업 소개" },
+        { "id": "wFik04lXMHQ", "title": "클라우드 품질 성능 시험 소개" }
+      ]
+    }
+  ]
+}

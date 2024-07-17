@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "MrJakob",
+    "name": "MrJakob",
+    "profile": "https://yt3.googleusercontent.com/XQdlCAlI0H_HZzx7WeOPmGjzGvYE26p-cKW-0HXSUdS71sgx1WQ6iR3i1RacIc0oA-77mpJOZg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QlctGSLDMVUhpVmoKmC-dvW4LVW2EbLfjFI1qI22swPs3JRNNq8klwOM9ltmzEUXLVzR_gZml-8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "XKCD Sync Thing",
+      "videos": [
+        { "id": "n3c4XIWBNPU", "title": "Sync XKCD in Rust: Shockingly Simple!" },
+        { "id": "kFXyAkb1GF8", "title": "Level Up Your CLI: Building a Stylish Progress Bar in Rust!" },
+        { "id": "qLXZbCJLW1s", "title": "Demystifying the Power of Unicode: Fractional Progress Bars in Rust CLI" }
+      ]
+    }
+  ]
+}

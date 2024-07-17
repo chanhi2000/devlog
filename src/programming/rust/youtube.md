@@ -67,5 +67,8 @@ tag:
 <MyYouTubeItems jsonName="yu-awesome-coding" /><!-- Awesome -->
 <MyYouTubeItems jsonName="yu-TravisMedia" /><!-- Travis Media -->
 <MyYouTubeItems jsonName="yu-FloWoelki" /><!-- Flo Woelki -->
+<MyYouTubeItems jsonName="yu-ThePrimeTimeagen" /><!-- ThePrimeTime -->
+<MyYouTubeItems jsonName="yu-fasterthanlime" /><!-- fasterthanlime -->
+<MyYouTubeItems jsonName="yu-MrJakob" /><!-- MrJakob -->
 
 <TagLinks />

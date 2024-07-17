@@ -126,6 +126,7 @@ head:
 ## 상구리의 기술 블로그
 
 - [Raspberry Pi – Ubuntu network setup without monitor](https://www.skyer9.pe.kr/wordpress/?p=8858)
+- [블루투스 장치 주소 (Bluetooth Device Address, BD_ADDR)](https://www.skyer9.pe.kr/wordpress/?p=9155)
 
 ---
 

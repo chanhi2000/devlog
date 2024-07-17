@@ -159,6 +159,16 @@ head:
 
 ```component VPCard
 {
+  "title": "‘팬시 베어, 김수키, 딥 판다…’ 해킹 그룹명의 비밀 | 요즘IT",
+  "desc": "‘팬시 베어, 김수키, 딥 판다…’ 해킹 그룹명의 비밀",
+  "link": "/explore/articles/yozm.wishket.com/2065.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "신원확인, 통합인증관리 오픈소스 '키클락'을 알아보자 | 요즘IT",
   "desc": "신원확인, 통합인증관리 오픈소스 '키클락'을 알아보자",
   "link": "/explore/articles/yozm.wishket.com/2425.md",

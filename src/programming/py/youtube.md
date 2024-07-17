@@ -127,5 +127,10 @@ head:
 <MyYouTubeItems jsonName="yu-JohnWatsonRooney" /><!-- John Watson Rooney -->
 <MyYouTubeItems jsonName="yu-KeithGalli" /><!-- Keith Galli -->
 <MyYouTubeItems jsonName="yu-micoding" /><!-- 몰입코딩 아카이브 -->
+<MyYouTubeItems jsonName="yu-nadocoding" /><!-- 나도코딩 -->
+<MyYouTubeItems jsonName="yu-gis" /><!-- Основы программирования для географов -->
+<MyYouTubeItems jsonName="yu-hacoding" /><!-- 하코딩 -->
+<MyYouTubeItems jsonName="yu-perpear1" /><!-- 코딩형 -->
+<MyYouTubeItems jsonName="yu-WasheraAcademy" /><!-- Washera Academy -->
 
 <TagLinks />

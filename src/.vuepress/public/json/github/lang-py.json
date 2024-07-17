@@ -7168,5 +7168,12 @@
     "topics": [],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "mem0ai/mem0",
+    "desc": "The memory layer for Personalized AI",
+    "officialSite": "https://docs.mem0.ai/",
+    "topics": ["ai", "application", "chatbots", "chatgpt", "embeddings", "llm", "python", "rag", "vector-database"],
+    "avatar": "https://avatars.githubusercontent.com/u/137054526?v=4",
+    "banner": ""
   }
 ]

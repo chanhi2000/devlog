@@ -4450,5 +4450,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/58117316?v=4",
     "banner": ""
+  }, {
+    "repo": "gvergnaud/ts-pattern",
+    "desc": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.",
+    "officialSite": "",
+    "topics": ["branching", "conditions", "exhaustive", "inference", "javascript", "matching", "pattern", "pattern-matching", "ts", "type-inference", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/9265418?v=4",
+    "banner": ""
   }
 ]

@@ -118,6 +118,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Pass the GitHub Advanced Security Certification Exam",
+  "desc": "Ensuring the security of your code is important, and mastering GitHub Advanced Security (GHAS) can significantly enhance your ability to safeguard your projects. If you want to strengthen your security skills, obtaining the GitHub Advanced Security C...",
+  "link": "/explore/articles/freecodecamp.org/pass-the-github-advanced-security-certification-exam.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

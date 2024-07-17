@@ -6,6 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/LCaOD2sQ8AlgLbT2CDc7OFHToMy796FUdU7efuJ8Bdj29dn_hXSE8iTG3CvHyPXftiWigIlwtg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lK-_yUPbDIc", "title": "반복 불가능한 객체 반복되게 만들기(Symbol.iterator)" },
+    { "id": "lkmV6_jBYrQ", "title": "Promise 선언을 깔끔하게 Promise.withResolvers" },
+    { "id": "ufBKADENysk", "title": "초기 스타트업에 갈 때 지분/스톡옵션 제의에 넘어가면 안 되는 이유(feat. 초기 창업 시 개발자가 안 구해지는 이유)" },
+    { "id": "y8zQN_eK7w4", "title": "[4만기념Q&A]개발공부와 연애 병행할 수 있을까, 회사/강의/책/유튜브 동시에 하는 법, 제로초의 장비, 강의보다 전에 봐야할 것, 20대에게 해주고 싶은 말" },
+    { "id": "yWdFwIlsIqc", "title": "vercel.app 도메인 차단 사태[2024/5/11]" },
+    { "id": "nMpQ9uU_cog", "title": "fetch 요청을 취소하는 방법(Promise.race 아님! AbortController, signal)" },
+    { "id": "3SQyeam1bJY", "title": "Reflect API는 왜 있는 것일까?(객체 메서드를 한 곳에!)" },
+    { "id": "U-CLzjXcDGA", "title": "시간을 엄청 아껴줄 Git으로 코드 에러 위치 찾는 방법(git bisect, git rev-parse HEAD)" },
+    { "id": "7_u0q8RJFB4", "title": "null과 undefined의 결정적 차이(없느냐 vs 모르느냐 vs 상관 안하느냐" },
+    { "id": "AoSpKyd2ZsQ", "title": "타입스크립트에서 반환값은 공변성을 가진다! (공변성,반공변성,이변성)" },
+    { "id": "WPeoQit2N_Y", "title": "공변성 반공변성 말고 이변성이 있다? (타입스크립트 객체 메서드 선언 시 주의점)" },
+    { "id": "4X-KN22Q_fA", "title": "리터럴은 되고, 변수는 안 된다? 타입스크립트 잉여 속성 검사" },
+    { "id": "7HdLpDp6F8Y", "title": "{}, Object는 객체 타입이 아닙니다(타입스크립트 교과서)" },
+    { "id": "ND3mMSCqWyI", "title": "한글 자주 쓰는 개발자는 꼭 알아야 할 라이브러리(es-hangul, thx 토스(toss))" },
     { "id": "loKbfbdiylI", "title": "Set 객체 언제 사용하면 좋을까?" },
     { "id": "tX7FjSgq8tM", "title": "배열 중복 요소 제거하기(feat. Set)" },
     { "id": "oIdVWsm-PuY", "title": "객체 속성 모두 나열하기(for in 문, Object.entries)" },
@@ -79,6 +93,9 @@
     { "id": "CDmMwG3-R18", "title": "노드교과서 개정판 - http 서버(4장)" }, 
     { "id": "ulpFuNCA2zc", "title": "네트워크 강좌 - VPN, 프록시(포워드, 리버스), 게이트웨이" }, 
     { "id": "tQaxITImKys", "title": "네트워크 강좌 - HTTPS 원리" } 
+  ],
+  "playlists": [
+
   ]
 }
 

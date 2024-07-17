@@ -479,4 +479,10 @@ head:
 
 ---
 
+## 주로로 통신
+
+- [\[MariaDB\] Amazon Linux 2023에 MariaDB 패키지 설치](http://babysunmoon.tistory.com/m/entry/MariaDB-Amazon-Linux-2023%EC%97%90-MariaDB-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98)
+
+---
+
 <TagLinks />

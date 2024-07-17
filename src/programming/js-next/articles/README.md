@@ -82,6 +82,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Server-Side Rendering in Next.js Apps for Better SEO",
+  "desc": "Server-side rendering (SSR) is a web development technique that can help improve your site's SEO. It does this by generating HTML content on the server in response to a user's request.  This approach contrasts with client-side rendering (CSR), where content is delivered as a basic HTML shell, and JavaScript...",
+  "link": "/explore/articles/freecodecamp.org/server-side-rendering-in-next-js-for-improved-seo.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

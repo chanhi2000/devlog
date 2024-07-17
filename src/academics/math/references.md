@@ -416,6 +416,7 @@ head:
 <!-- TODO: coen으로 이동 -->
 - [\[혼공컴운\] 5장. CPU의 성능 향상 기법](https://lazymatlab.tistory.com/m/262)
 <!-- TODO: coen으로 이동 -->
+- [왜 gradient가 가장 가파른 방향일까?](https://lazymatlab.tistory.com/m/264)
 
 ---
 

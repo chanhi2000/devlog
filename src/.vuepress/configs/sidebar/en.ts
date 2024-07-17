@@ -450,6 +450,9 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/ts/articles/README.md',
             asb.freecodecamp("ts"),
+            asb.frontendmaster("ts"),
+            asb.yozm("ts"),
+            asb.d2("ts"),
           ]
         }
       ]
@@ -1660,6 +1663,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/vscode/articles/README.md',
+            asb.freecodecamp("vscode"),
             asb.yozm("vscode"),
             asb.nhn("vscode"),
           ]
@@ -3524,14 +3528,6 @@ export const sidebarEn = sidebar({
       icon: 'fas fa-graduation-cap',
       children: [ '/academics/README.md' ],
     }, {
-      text: 'Data Structure',
-      icon: 'iconfont icon-class',
-      children: [
-        '/academics/data-structure/README.md',
-        '/academics/data-structure/references.md',
-        '/academics/data-structure/youtube.md',
-      ]
-    }, {
       text: 'System Design',
       collapsible: true,
       icon: 'fas fa-pen-ruler',
@@ -3623,6 +3619,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/academics/phys/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Computer Engineering',
+      collapsible: true,
+      icon: 'fas fa-computer',
+      children: [
+        '/academics/coen/README.md',
+        '/academics/coen/references.md',
+        '/academics/coen/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/academics/coen/articles/README.md',
           ]
         }
       ]

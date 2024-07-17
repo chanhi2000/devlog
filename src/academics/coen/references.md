@@ -1,18 +1,27 @@
 ---
 lang: ko-KR
 title: References
-description: Data Structure > References
+description: Computer Engineering > References
 icon: iconfont icon-share
 category:
-  - Computer Science
-  - Data Structure
+  - Engineering
+  - Computer
   - References
 tag:
-  - computer
-  - computer-science
-  - compsci
-  - algorithm
-  - data-structure
+  - engineering
+  - coen
+  - computerengineering
+  - computer-engineering
+  - ebooks
+  - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: Computer Engineering > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/academics/coen/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

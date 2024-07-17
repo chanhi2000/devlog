@@ -26,6 +26,8 @@ head:
 
 ---
 
+## Programming
+
 <VPBanner
   title="프로그래머스"
   content="코드 중심의 개발자 채용. 스택 기반의 포지션 매칭. 프로그래머스의 개발자 맞춤형 프로필을 등록하고, 나와 기술 궁합이 잘 맞는 기업들을 매칭 받으세요."
@@ -75,6 +77,13 @@ head:
     }
   ]'
 />
+
+<SiteInfo
+  name="DevDocs API Documentation"
+  desc="Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more."
+  url="https://devdocs.io/"
+  logo="https://devdocs.io/favicon.ico"
+  preview="https://devdocs.io/images/icon-320.png"/>
 
 ::: tabs
 
@@ -984,6 +993,125 @@ https://ui-patterns.com/patterns
   preview="https://docs.deno.com/img/social.png"/>
 
 <!-- END: Documentation -->
+
+:::
+
+---
+
+## Mathematics & Science
+
+::: tabs
+
+@tab:active Mathematics
+
+<SiteInfo
+  name="Arun Debray"
+  desc="Department of Mathematics - Purdue Universitys"
+  url="https://adebray.github.io/lecture_notes/"
+  logo="https://adebray.github.io/sun.ico"
+  preview="https://math.purdue.edu/images/homev2/math-writing-equations-760x380.jpgs"/>
+
+<SiteInfo
+  name="Donu Arapura's Home Pages"
+  desc="Department of Mathematics - Purdue Universitys"
+  url="https://math.purdue.edu/~arapura/s"
+  logo="https://purdue.edu/purdue/images/favicon.icos"
+  preview="https://math.purdue.edu/images/homev2/math-writing-equations-760x380.jpgs"/>
+
+<SiteInfo
+  name="Single Variable Calculus | Mathematics | MIT OpenCourseWare"
+  desc="This calculus course covers differentiation and integration of functions of one variable, and concludes with a brief discussion of infinite series. Calculus is fundamental to many scientific disciplines including physics, engineering, and economics."
+  url="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/"
+  logo="https://ocw.mit.edu/favicon.ico"
+  preview="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg"/>
+
+<SiteInfo
+  name="Multivariable Calculus | Mathematics | MIT OpenCourseWare"
+  desc="This course covers differential, integral and vector calculus for functions of more than one variable. These mathematical tools and methods are used extensively in the physical sciences, engineering, economics and computer graphics."
+  url="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/"
+  logo="https://ocw.mit.edu/favicon.ico"
+  preview="https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/98f7f76b373d20b5c3f849016d8ff5a1_18-02scf10.jpg"/>
+
+<SiteInfo
+  name="Cambridge Notes"
+  desc="Dexter Chua - I was a PhD student at Harvard between 2018 and 2022. Previously, I did my undergraduate and Part III at Cambridge (2014–2018)."
+  url="https://dec41.user.srcf.net/notes/"
+  logo="https://dec41.user.srcf.net/includes/favicon.ico"
+  preview="https://srcf.net/_srcf/images/logo.svg"/>
+
+<SiteInfo
+  name="수학 기록지"
+  desc="수학공부를 비롯한 여러 공부를 하며 알게 된 내용을 기록하고 공유합니다. Latex이 섞여있는 글은 PC환경에서 봐주세요. 구독하시면 업데이트 내용을 빠르게 확인하실 수 있습니다. (블로그 주소 .com 뒤에 /m이 있으면 모바일 주소여서 latex이 rendering되지 않습니다.)"
+  url="https://mathmemo.tistory.com/m/"
+  logo="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"
+  preview="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F4411534%2Fattach%2F72b0096a5ddd4e3c9cfbddc0ee2b961e"/>
+
+<SiteInfo
+  name="정빈이의 공부방"
+  desc="지식만은 평등해야 한다."
+  url="https://nate9389.tistory.com/m/"
+  logo="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"
+  preview="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F1983521%2Fattach%2F0684bd1097964d35b8a7863a7b7468f6"/>
+
+<SiteInfo
+  name="다양한 수학세계"
+  desc="1인출판사 '손'의 운영자 정평규(Jung Pyeng-kyu)의 개인 블로그입니다. 수학관련 여러 이야기를 게시합니다."
+  url="https://pkjung.tistory.com/m/"
+  logo="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"
+  preview="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F224A1F35559D086604"/>
+
+<SiteInfo
+  name="단아한섭동"
+  desc="RIDE WITH ME :)"
+  url="https://gosamy.tistory.com/m/"
+  logo="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"
+  preview="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F4362211%2Fattach%2F8a244c4bfc794f7c95d010718fbc2294"/>
+
+<SiteInfo
+  name="Ernonia"
+  desc="카이스트 재학생입니다. 수학, 정보과학, 창작, 음악을 좋아합니다. 모두가 쉽고 재밌게 학습할 수 있는 세상을 꿈꾸고 있습니다."
+  url="https://dimenchoi.tistory.com/m/category/%EC%88%98%ED%95%99"
+  logo="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"
+  preview="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2779190%2Fattach%2F1db9f4f04b624f06a203463d9f0d69fb"/>
+
+<SiteInfo
+  name="Beauty of Surfaces 곡면의 아름다움"
+  desc="운영자의 개인적 생각을 모아 두는 곳입니다."
+  url="https://geometry.tistory.com/m/"
+  logo="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"
+  preview="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F117AE03E4F16685E0D"/>
+
+https://williamchen-mathematics.info/ln.html
+https://iseulbee.com/archives/the-art-of-analysis-4ed/
+https://topologywithouttears.net/
+https://yes24.com/Product/Goods/94670101
+https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf
+https://google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_qaydpbr8AhUEPXAKHTkfDlIQFnoECBsQAQ&url=https%3A%2F%2Fedisciplinas.usp.br%2Fpluginfile.php%2F343758%2Fmod_folder%2Fcontent%2F0%2FProbability%2520With%2520Martingales%2528Williams%2529.pdf%3Fforcedownload%3D1&usg=AOvVaw37uXqDM9XAY2m2IPeurxtE
+https://yes24.com/Product/Goods/463978
+https://sayanmuk.github.io/StochasticAnalysisManifolds.pdf
+https://s2pnd-matematika.fkip.unpatti.ac.id/wp-content/uploads/2019/03/Walter-A-Strauss-Partial-differential-equations-_-an-introduction-Wiley-2009.pdf
+https://home.ustc.edu.cn/~xushijie/pdf/textbooks/pde-evans.pdf
+https://link.springer.com/book/10.1007/978-3-642-61798-0
+https://medium.com/@matt_lee/%EB%AC%B4%EB%A3%8C-%EA%B3%B5%EA%B0%9C-%ED%95%99%EB%B6%80-%EC%88%98%ED%95%99-%EC%A0%84%EA%B3%B5-%EC%B1%85-%EC%86%8C%EA%B0%9C-114a7df3f23d
+https://podbbang.com/channels/10661
+https://estat.me/estat/eStat/
+https://m.blog.naver.com/mykepzzang
+https://angeloyeo.github.io/
+https://freshrimpsushi.github.io/
+https://sasamath.com/blog/
+https://harlequinblue.blogspot.com/2011/04/blog-post_23.html
+https://sites.google.com/mensakorea.org/math
+https://jjycjnmath.tistory.com
+https://mathstorehouse.com/
+https://www2.math.upenn.edu/~brweber/Teaching/Teaching.html
+https://jryoungw.github.io/
+https://stevenstrogatz.com/media/podcasts/category/The+Joy+of+X
+https://terrytao.wordpress.com/
+https://hanbommoon.net/
+https://hwangjy9.github.io/
+https://cosmogeometer.wordpress.com/2015/08/13/hojoo-lee/
+https://lifethroughamathematicianseyes.wordpress.com/
+https://sites.google.com/site/kangtaekim00/home?authuser=0
 
 :::
 

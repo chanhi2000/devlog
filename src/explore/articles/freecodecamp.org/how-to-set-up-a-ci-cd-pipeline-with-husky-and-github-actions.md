@@ -11,6 +11,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - devops
   - microsoft
   - github
   - github-action

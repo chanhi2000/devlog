@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/fcCgvRHuv5nq0kcMERI8SkPFSaKk7_OR4e2ipR-33P-yDjojNv0owVlLtxBwnl5SsNWlNlfb=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "SmOstmWBneE", "title": "Updates Like These Make Tailwind So Fun" },
+    { "id": "-vSnJuLJxCk", "title": "I Made This Open-Source Project" },
+    { "id": "OgVeQVXt7xU", "title": "Fetching Data Doesn't Get Better Than This" },
+    { "id": "dbzwIU2m3tA", "title": "My Favorite Update in a Long Time" },
+    { "id": "dQqe6x4MECg", "title": "It's Time To Talk About This Tailwind Plugin" },
+    { "id": "HInd4QQrgKI", "title": "This Package Saved My SaaS" },
+    { "id": "PZYXTFnP2po", "title": "React 19 has a Problem" },
     { "id": "acI5lbKB5xU", "title": "The New TailwindCSS Looks Promising" },
     { "id": "rqbhBopxrB0", "title": "Everyone's Going Crazy About Devin" },
     { "id": "XMlzAFzWpqM", "title": "The Most Creative NPM Package I've Seen" },
@@ -55,5 +62,8 @@
     { "id": "RvyCAdDmFaw", "title": "5 Amazing Open-Source React Projects to Learn From" }, 
     { "id": "Sbl04kOL1dM", "title": "NextJS App Router: Learn Modern Web Development in 1 Hour" }, 
     { "id": "elvwguckWjQ", "title": "This Open-Source NextJS Project is a Game-Changer" }
+  ],
+  "playlists": [
+
   ]
 }

@@ -59,6 +59,7 @@ export const template: SidebarInfoTemplate = {
       "improve-your-javascript-projects-with-build-tools", // 2024-07-02
       "upload-large-files-with-aws", // 2024-07-08
       "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
+      "how-to-deploy-node-js-app-on-azure", // 2024-07-17
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -103,6 +104,7 @@ export const template: SidebarInfoTemplate = {
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
       "mastering-shadcn-ui-components", // 2024-06-28
       "nextjs-clerk-neon-fullstack-development", // 2024-07-10
+      "server-side-rendering-in-next-js-for-improved-seo", // 2024-07-17
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -116,6 +118,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-a-mansory-layout-using-html-and-css", // 2024-06-18
       "breakpoints-for-responsive-web-design", // 2024-06-24
       "media-queries-vs-container-queries", // 2024-06-28
+      "create-24-css-projects", // 2024-07-17
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
@@ -151,6 +154,7 @@ export const template: SidebarInfoTemplate = {
       "what-is-a-markov-chain", // 2024-07-08
       "use-python-sdk-to-build-a-web-scraper", // 2024-07-10
       "how-to-use-python-generators", // 2024-07-10
+      "what-are-monte-carlo-methods", // 2024-07-16
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -212,6 +216,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-notice-blocks-in-markdown", // 2024-06-10
       "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
       "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
+      "pass-the-github-advanced-security-certification-exam", // 2024-07-17
     ]],[
     "macos", [
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
@@ -247,6 +252,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
       "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
       "how-to-deploy-a-web-app", // 2024-07-11
+      "how-to-deploy-node-js-app-on-azure", // 2024-07-17
     ]],[
     "gcp", [
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
@@ -280,6 +286,9 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "spark", [
       "pyspark-for-beginners", // 2024-06-26
+    ]],[
+    "vscode", [
+      "how-to-deploy-node-js-app-on-azure", // 2024-07-17
     ]],[
     "xls", [
       "excel-vs-google-sheets-tables", // 2024-07-02
@@ -481,6 +490,11 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-linq", // 2024-07-15
       "getting-started-in-cybersecurity", // 2024-07-16
       "multithreading-for-beginners", // 2024-07-16
+      "what-are-monte-carlo-methods", // 2024-07-16
+      "how-to-deploy-node-js-app-on-azure", // 2024-07-17
+      "server-side-rendering-in-next-js-for-improved-seo", // 2024-07-17
+      "create-24-css-projects", // 2024-07-17
+      "pass-the-github-advanced-security-certification-exam", // 2024-07-17
     ]],
   ]),
 }

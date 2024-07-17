@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "yonsei_graduate_school_sw_eng",
+    "name": "연세공학대학원 컴소공학 프로젝트",
+    "profile": "https://yt3.googleusercontent.com/gBH8TlWJMloZfhRdl71DGttAPIfGjXJ0K_Qu6_3Um7azf1qcR7mPQC0yxlHMW7435yiCOoqYXQ=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "2023년 2학기 컴퓨터공학 졸업프로젝트",
+      "videos": [
+        { "id": "9k2BrZku0P4", "title": "[컴퓨터공학프로젝트 이재진] Aime 1.0 - AI로 내 분신 만들기 프로젝트" },
+        { "id": "hR3rKrvg2WA", "title": "[컴퓨터공학프로젝트 한상호] Dense Passage Retriever를 활용한 특허유사검색시스템" },
+        { "id": "sP4mHTcoQvU", "title": "[컴퓨터공학프로젝트 이근하] 운동 일기 웹" },
+        { "id": "LvyDrZpNlzM", "title": "[컴퓨터공학프로젝트 임동원]model quantization for real time model serving" },
+        { "id": "DRr_s-764r0", "title": "[컴퓨터공학프로젝트 김정훈] Unreal Engine과 딥러닝을 이용한 우주 물체 자세 추정 방안 설계" },
+        { "id": "qly4tt2jDHQ", "title": "[컴퓨터공학프로젝트 김수억] GPT API를 활용한 육아 조언 서비스" },
+        { "id": "sTBeyv8KhU4", "title": "[컴퓨터공학프로젝트 신현규] 금융 보고서 PDF 파일 요약 웹 서비스" },
+        { "id": "Fa8I_TRZJ8k", "title": "[컴퓨터공학프로젝트 강구원] 분석리포트 투자의견 분석을 위한 Fine-Tuned LLM model 생성" },
+        { "id": "DGYPo_Y5NYU", "title": "[컴퓨터공학프로젝트 이재상] Container Security Based on Linux Kernel" },
+        { "id": "u7v9h-kiCRw", "title": "[컴퓨터공학프로젝트 이의령] 춤영상 구간 클러스터링 어플리케이션" },
+        { "id": "ffPnfRqS2z4", "title": "[컴퓨터공학프로젝트 조혜원] NLP 모델을 통한 텍스트 요약" }
+      ]
+    }, {
+      "title": "2024년 전기 컴퓨터소프트웨어 졸업 프로젝트",
+      "videos": [
+        { "id": "03NJ4xOG9Ak", "title": "[프로포절]2024년 전기 컴퓨터 소프트웨어 프로젝트 1조" },
+        { "id": "GcWKxXa40OA", "title": "[프로포절]2024년 전기 컴퓨터 소프트웨어 프로젝트 2조" },
+        { "id": "TIDE2VrvxYo", "title": "[프로포절]2024년 전기 컴퓨터 소프트웨어 프로젝트 3조" },
+        { "id": "K_hSXoDHWPY", "title": "[프로포절]2024년 전기 컴퓨터 소프트웨어 프로젝트 4조" },
+        { "id": "-s8TbDxSoV4", "title": "[프로포절]2024년 전기 컴퓨터 소프트웨어 프로젝트 5조" },
+        { "id": "CUFPSoR8CjE", "title": "2024년 전기 졸업프로젝트_[4조] Langchain 및 RAG를 활용한 웹서비스 개발" },
+        { "id": "khH6nYmo6GU", "title": "2024년 전기 졸업프로젝트_[1조] 정서적 지지 대화를 위한 거대 언어 모델 기반 대화 시스템" },
+        { "id": "v-OK41Wu_P4", "title": "2024년 전기 졸업프로젝트_[2조] MobileNetV3 알고리즘 및 Depth Anything 모델 활용을 통한 Factory Automation 장비 운용 방안 검토" },
+        { "id": "Yl1p1uCcHLA", "title": "2024년 전기 졸업프로젝트_[3조] '연세 AI 길라잡이' - 연세대정보를 기반으로한 생성형 AI 개발" },
+        { "id": "EtgdffPALGc", "title": "2024년 전기 졸업프로젝트_[5조] RAG 및 대화형 사용자 인터페이스 기반 AICC 구축" }
+      ]
+    }
+  ]
+}

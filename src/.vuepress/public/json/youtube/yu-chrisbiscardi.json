@@ -6,6 +6,23 @@
     "banner": "https://yt3.googleusercontent.com/hixnmypYndFEira_ZJiE6YzVrjo3JeDn2iQ-O9qIoqgLH2coTUTOhV5i84XZdqiScNSLDshHcgI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vwUz95Oo8IA", "title": "Infinite Pong in the Bevy Game Engine - Let's Code!" },
+    { "id": "oEQ_26czg2k", "title": "Asteroids in Rust with Bevy: New Games" },
+    { "id": "KLOHV7e3OXQ", "title": "Asteroids in Rust with Bevy: Scoring and UFOs" },
+    { "id": "XU-oIxKz4FI", "title": "Ludum Dare, Nannou, and esp32s - This Week in Bevy" },
+    { "id": "M55pVZ6a8yk", "title": "Motion Blur, Visualizations, and Beautiful Renders - This Week in Bevy Engine" },
+    { "id": "bS9qImzPNik", "title": "Bevy Game Development: 2d Isometric Games with Tiled" },
+    { "id": "eSPc6tbtLQ0", "title": "Kinematic controls and colliders: 2d Isometric Games with Tiled" },
+    { "id": "VVNgacn1Eeg", "title": "Drag and Drop player-built levels with Bevy and LDtk" },
+    { "id": "VAXbeqLAd6o", "title": "Rumblings of 0 14, God Rays, and Depth of Field - This Week in Bevy Engine" },
+    { "id": "FcMurqrjK4k", "title": "Sensors, Colliders, and Raycasting with Bevy and Tiled" },
+    { "id": "6m1u1TZrots", "title": "Implementing Fireballs" },
+    { "id": "wHlGB4h-Quk", "title": "Upgrading the game to 0.14-rc.1 - Bevy Game Development" },
+    { "id": "jNLO_rW5gzM", "title": "Meshlets, Stable Interpolation, and Generalized ECS Reactivity with Observers! - This Week in Bevy" },
+    { "id": "Ek8DoD3hGFE", "title": "Ray Marching, Blender Workflows, and Node Graphs - This Week in Bevy" },
+    { "id": "j_TaXEdWzdU", "title": "Bevy Engine 0.14 - Open Source ECS-based game development in Rust" },
+    { "id": "54mnafuJPcc", "title": "Pause Menus with Sub States in 0.14 - Bevy Game Development" },
+    { "id": "VFYIbHr6hOE", "title": "Bevy Game Development: 2d Isometric Games with Tiled" },
     { "id": "_JkIQiZa6Ds", "title": "This Week in Bevy: Animation Graphs, Cheatbook, and googly eyes!" },
     { "id": "uZYhiZahRAc", "title": "Dev tools can be more than a grab bag" },
     { "id": "z-EhQoKKG2k", "title": "Asteroids Particles and Life system" },
@@ -43,5 +60,8 @@
     { "id": "yzKOqLsdQqA", "title": "Introducing the tracing Rust crate | Advent of Code 2022 Day 20" }, 
     { "id": "QAf45SUwyRc", "title": "User Interfaces in Bevy 0.9 with Kayak UI" }, 
     { "id": "omUP1nKsV-I", "title": "What technology you focus on matters" } 
+  ],
+  "playlists": [
+
   ]
 }

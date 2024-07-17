@@ -236,6 +236,8 @@ tag:
 - [`@2weV` / 처음부터 잘할 수는 없다.](https://brunch.co.kr/@@2weV/531)
 - [`@8w7` / 온라인은 오프라인의 보완재가 아니야. - 온라인에서만 가능한 특별한 인터랙션과 학습의 방법이 있어.](https://brunch.co.kr/@@8w7/238)
 - [`@ZVA` / 연구와 생산의 지리적 분리, 한국 제조업의 불안한 미래](https://brunch.co.kr/@@ZVA/706)
+- [`@2rV` / 트위치(Twitch)가 발견한 변곡점 - 책 Pattern Breakers에 소개된 Twitch](https://brunch.co.kr/@@2rV/144)
+- [`@1SwI` / 퍼포먼스를 해킹하는 방법](https://brunch.co.kr/@@1SwI/407)
 
 <!-- END: brunch.co.kr -->
 
@@ -1341,6 +1343,12 @@ https://blog.naver.com/&logId=
 ## JuHyeong.dev
 
 - [NextStep DDD 세레나데 수료 후기](http://dkswnkk.tistory.com/m/755)
+
+---
+
+## 게으른맽랩 lazy matlab
+
+- [자격증에 대한 소고](https://lazymatlab.tistory.com/m/263)
 
 ---
 

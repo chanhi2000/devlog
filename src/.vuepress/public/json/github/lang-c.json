@@ -1560,5 +1560,12 @@
     "topics": [],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "Thraetaona/Blitzping",
+    "desc": "Sending IP packets as fast as possible in userland.",
+    "officialSite": "",
+    "topics": ["c", "ddos", "embedded", "fast", "flood", "hping", "ip", "linux", "multithreading", "nping", "openwrt", "packet-crafting", "packet-generator", "penetration-testing", "pentesting", "posix", "router", "security-tools", "tcp", "userspace"],
+    "avatar": "https://avatars.githubusercontent.com/u/42461518?v=4",
+    "banner": ""
   }
 ]

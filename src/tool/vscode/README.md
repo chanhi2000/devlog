@@ -8,6 +8,7 @@ category:
 tag:
   - vscode
   - visualstudiocode
+  - productivity
 ---
 
 # {{ $frontmatter.description }} 관련

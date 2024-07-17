@@ -83,5 +83,7 @@ head:
 <MyYouTubeItems jsonName="yu-ajudmeister" /><!-- Andreas Jud -->
 <MyYouTubeItems jsonName="yu-JavaHomeCloud" /><!-- Java Home Cloud -->
 <MyYouTubeItems jsonName="yu-AWSKorea" /><!-- Amazon Web Services Korea -->
+<MyYouTubeItems jsonName="yu-a101lab" /><!-- AI101 -->
+<MyYouTubeItems jsonName="yu-pyrasistv" /><!-- 이재홍TV -->
 
 <TagLinks />

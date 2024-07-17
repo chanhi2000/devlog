@@ -289,16 +289,6 @@ head:
 
 ```component VPCard
 {
-  "title": "Testing Types in TypeScript",
-  "desc": "This post explores advanced TypeScript utilities for testing and verifying type correctness, akin to unit testing without extra setup.",
-  "link": "/explore/articles/frontendmasters.com/testing-types-in-typescript.md",
-  "logo": "https://frontendmasters.com/favicon.ico",
-  "background": "rgba(188,75,52,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "Control JavaScript Promises from Anywhere Using Promise.withResolvers()",
   "desc": "This method enhances flexibility by allowing promises to be resolved or rejected remotely, simplifying and streamlining asynchronous code.",
   "link": "/explore/articles/frontendmasters.com/control-javascript-promises-from-anywhere-using-promise-withresolvers.md",
@@ -414,26 +404,6 @@ head:
   "title": "RTCS 실시간 웹 서비스를 위한 도전 | NAVER D2",
   "desc": "RTCS 실시간 웹 서비스를 위한 도전",
   "link": "/explore/articles/d2.naver.com/1052.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
-  "background": "rgba(54,235,127,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "사용자의 액션에 반응하는 UI 라이브러리, eg.Axes | NAVER D2",
-  "desc": "사용자의 액션에 반응하는 UI 라이브러리, eg.Axes",
-  "link": "/explore/articles/d2.naver.com/0590136.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
-  "background": "rgba(54,235,127,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript | NAVER D2",
-  "desc": "infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript",
-  "link": "/explore/articles/d2.naver.com/7472830.md",
   "logo": "/images/content/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }

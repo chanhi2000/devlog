@@ -163,7 +163,6 @@ head:
 <MyYouTubeItems jsonName="yu-reactuikit" /><!-- React-Native by Wilhelm (React-UI-Kit) -->
 <MyYouTubeItems jsonName="yu-LearnWebCode" /><!-- LearnWebCode -->
 <MyYouTubeItems jsonName="yu-webstoryboy" /><!-- webstoryboy -->
-<MyYouTubeItems jsonName="yu-rocketseat" /><!-- Rocketseat -->
 <MyYouTubeItems jsonName="yu-huakun" /><!-- Huakun -->
 <MyYouTubeItems jsonName="yu-codingwithjustin7995" /><!-- Justin Brooks -->
 <MyYouTubeItems jsonName="yu-SyncfusionInc" /><!-- Syncfusion, Inc -->

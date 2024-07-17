@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "a101lab",
+    "name": "AI101",
+    "profile": "https://yt3.googleusercontent.com/4K1iE99wFZZ7jUCsqoVm5PKtCbEeR4ABtTdfHpt2_k4aMcUJWsUlRKMMOxeNKE_kZgG8dfI1RQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "a5CvxlUdLnY", "title": "핵심정리 6: 2024 구글 클라우드 넥스트- 3 x 3 요소 전략 #GoogleCloudNext" },
+    { "id": "gH1WbT7ZB2Y", "title": "2024 AWS 솔루션스 아키텍트 어소시에이트 SAA 핵심정리 교육과정 소개 #aws #saa-c03 #kpc #한국생산성본부 #삼성sds #멀티캠퍼스" },
+    { "id": "VAyxlHpAEaY", "title": "VASA-1, Live Talking Face AI #microsoft #nvidia #genai #sora" },
+    { "id": "RAac-V1OuYg", "title": "Blackwell GPU로1조원짜리 NVIDIA AI Factory 만드는 과정 #nvidia #blackwell #gpu #h100 #GB200 #NVL72" }
+  ],
+  "playlists": [
+
+  ]
+}

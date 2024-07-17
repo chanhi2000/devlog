@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/cjpTrPtj_YIjLcPFsI7PAQI31pHCmJReysnm7vltCaCZM75HwDdU1yXTiJq_iaHHYay3RSB0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wahhJTbUHb8", "title": "Formatted Outputs in Golang" },
     { "id": "1EKBCQXrQ5M", "title": "Docker Scout | Image Analysis | CVES | SBOM | Policy Evaluation | Fixing Compliance Issues" },
     { "id": "0xHappiYvIY", "title": "Setup Kubernetes v1.29 Cluster using Kubeadm and Containerd on AWS" },
     { "id": "XjsHxjwYYbY", "title": "Building Container Images in Kubernetes Pods Using Kubernetes Build Driver for Docker" },

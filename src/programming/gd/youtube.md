@@ -30,4 +30,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-ClearCode" /><!-- Clear Code -->
+
 <TagLinks/>

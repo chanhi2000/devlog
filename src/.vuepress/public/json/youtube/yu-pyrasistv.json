@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "pyrasistv",
+    "name": "이재홍TV",
+    "profile": "https://yt3.googleusercontent.com/rex8lyNlKNcdQI4naGFpxJ54We3cbX26Ff3JE-u3xY8rpLobQlSstHMpbuoy4aKjmX5QtCZ8Rhk=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/giDEuncwGapoVnX85v1sv4Gg2eHc1LIKamjLuBufvii9OHlLYu4Uq9fIeugQ7t9vPkac2rY0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    
+  ],
+  "playlists": [
+    {
+      "title": "AWS",
+      "videos": [
+        { "id": "z6Zqp-Ps0FI", "title": "EC2 T 인스턴스와 M 인스턴스의 차이점 알아보기" },
+        { "id": "pnuf5-sUVvw", "title": "EC2 인스턴스의 유형 쉽게 알아보기" },
+        { "id": "JL9SinfW_-4", "title": "5분만에, EC2 T 인스턴스와 M 인스턴스의 차이점 알아보기" },
+        { "id": "j58Rm6FeQpY", "title": "5분만에, EC2 인스턴스 유형 쉽게 알아보기" },
+        { "id": "hkqGHtUAD4s", "title": "수요일 오전 AWS 설명회 - SQS" },
+        { "id": "HT6FBxGAQM8", "title": "웹사이트 AWS 아키텍쳐 그리기" },
+        { "id": "YEUn2RLcqr4", "title": "화요일 아침 AWS 설명회 - DynamoDB" },
+        { "id": "OzVJOZtHD7k", "title": "일요일 AWS 설명회 - EC2 인스턴스 종류와 자세한 기능 설명" },
+        { "id": "YLBwzJ_LeMQ", "title": "토요일 저녁 AWS 설명회 - Elixir를 AWS Lambda에 실행하기 실패함" },
+        { "id": "YLBwzJ_LeMQ", "title": "토요일 저녁 AWS 설명회 - Elixir를 AWS Lambda에 실행하기 실패함" },
+        { "id": "Hjh7r1aBcM4", "title": "금요일 아침 AWS 설명회 - CloudFront, S3, AWS 중국 리전" },
+        { "id": "Y0ZoxSr7dLo", "title": "수요일 아침 AWS 설명회 - IVS Chat에서 S3에 한글이 정상적으로 저장되지 않는 문제, AWS의 첫 서비스" },
+        { "id": "LKl6Pna1u5U", "title": "금요일 오전 AWS 설명회 - S3, EBS, 파트너사, CloudTrail, Config, Lambda Layer, EC2 맥 인스턴스" },
+        { "id": "p1WcJ84xVjc", "title": "목요일 오전 AWS 설명회 - Amazon IVS Chat" },
+        { "id": "r_JiGzv3hSg", "title": "수요일 아침 AWS 설명회 - IAM과 Terraform" },
+        { "id": "itHaexOyld0", "title": "토요일 AWS 설명회" },
+        { "id": "j3wDdUT2Pik", "title": "화요일 AWS 설명회" },
+        { "id": "f8byvQOXpw8", "title": "일요일 AWS 설명회" }
+      ]
+    }, {
+      "title": "Terraform",
+      "videos": [
+        { "id": "gXuYBqh-0g8", "title": "Terraform으로 EC2 생성하기, Userdata로 Docker 설치하기" },
+        { "id": "72s0YjqILuI", "title": "PYRASIS.COM Terraform 마이그레이션" },
+        { "id": "iFft0aRlPbU", "title": "PYRASIS.COM Terraform 마이그레이션 테스트" },
+        { "id": "mMGagMgdV24", "title": "Pulumi를 Terraform으로 마이그레이션 라이브 코딩" }
+      ]
+    }
+  ]
+}

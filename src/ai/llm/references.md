@@ -353,6 +353,7 @@ head:
 
 - [42dot LLM은 리더보드 용도로 파인튜닝한게 아니기 때문에 점수는 낮지만, 실제로 써보면 성능은 매우 뛰어난 걸 확인할 수 있습니다. 320장의 GPU로 약 1주일 동안](https://likejazz.com/post/755660739094724609)
 - [현대자동차그룹의 후원으로 MIT 윤킴 교수님과 지난 1년여간 함께 진행해온 산학 연구 논문이 요즘 화제네요.](https://likejazz.com/post/756113715506659328)
+- [`llama.cpp`의 K-Quantization https://github.com/ggerganov/llama.cpp/pull/1684 을 따라서 구현해보다가 길을 잃고 😑 좀 더](https://likejazz.com/post/756204304905469952)
 
 ---
 

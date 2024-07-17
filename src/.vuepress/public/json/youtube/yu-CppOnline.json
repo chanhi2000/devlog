@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "CppOnline",
+    "name": "C++Online",
+    "profile": "https://yt3.googleusercontent.com/otKhjbEbrKg50y8GhXbbFGvSDZbWHYsiybS7VrSst4Ln24roek1IAz1ZzJR0Qu3vJEY5Sly0_Q=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vDsj2d8Q8M_PT7i2YMBXlBOmCrZF1BhmQ8aoql_pnN3kPWLC3SYOnvXDGda7TS9uJv2_EBol1A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "C++Online 2024",
+      "videos": [
+        { "id": "28Gp3TTQYp0", "title": "What’s New in Compiler Explorer? 2024 Update - Matt Godbolt - C++Online 2024" },
+        { "id": "4xdef0fRsQ0", "title": "Beginners' Guide to C++20 Coroutines - Andreas Fertig - C++Online 2024" },
+        { "id": "R6QQT8sSmcA", "title": "Debugging Your Hardest C++ Bugs With Time Travel Debugging from Undo - Greg Law - C++Online 2024" },
+        { "id": "Rn6EMwPoHZk", "title": "Clean C++ Code Is Not the Norm: Why? - Sandor Dargo - C++Online 2024" },
+        { "id": "XP21DsoPaGw", "title": "Keynote: What Does It Take to Implement the C++ Standard Library? - Christopher Di Bella - C++Online" },
+        { "id": "c_cXuL_L0Gg", "title": "Optimising a High Performance Audio C++ Library: Lessons Learned - Dave Rowland - C++Online 2024" },
+        { "id": "jA_aOb3OPtY", "title": "Improving Safety With Quantities and Units Library in C++ - Mateusz Pusz - C++Online 2024" },
+        { "id": "jX_NoK-xdrk", "title": "Keynote: Can AI Replace Programmers? - Frances Buontempo - C++Online 2024" },
+        { "id": "lQ05xJEH-w4", "title": "C++ Programming: Why Learning C++ Language Is So Important in Developing Countries - Mathew Benson" },
+        { "id": "qEvd9gqnJhQ", "title": "Why Iterators Got It All Wrong - And What We Should Use Instead - Arno Schoedl - C++Online 2024" },
+        { "id": "qIjA4JpFA7w", "title": "flat_map - WHO NEEDS THEM? THEY’RE JUST LIKE std::map. WE ALL HAVE THEM - Pavel Novikov - C++Online" },
+        { "id": "uAVXVzWIIBM", "title": "Advanced SIMD C++ Algorithms in Pictures - Denis Yaroshevskiy - C++Online 2024" },
+        { "id": "kFgA-47fbjM", "title": "Coroutines and gRPC - Jonathan Storey - C++Online 2024" },
+        { "id": "n7Tl1qJxTew", "title": "Uninitialized Uses in Systems C++ Programming: The Bytes Before the C++ Types - JF Bastien" },
+        { "id": "TFVQpK4dX2E", "title": "Well Balanced Test Driven Development (TDD) in C++ - Jan Van Ryswyck - C++Online 2024" },
+        { "id": "H52B6dGgqHE", "title": "The Evolution of Functional Programming in C++ - Abel Sen - C++Online 2024" },
+        { "id": "MGal7ixwkk4", "title": "Empowerment with the C++ Generic Programming Paradigm - Eduardo Madrid - C++Online 2024" },
+        { "id": "D1oBq4PIEW8", "title": "Designing for C++ Concurrency Using Message Passing - Anthony Williams - C++Online 2024" },
+        { "id": "CALka5ZldL0", "title": "Vulnerable C++ - Peter Sommerlad - C++Online 2024" },
+        { "id": "H9WiyFzaB4o", "title": "Best C++ Debugger for Large Scale Linux Codebases 2024" },
+        { "id": "vZGfj32vPmE", "title": "Hijacking Singletons to Enable Unit Testing of C++ Legacy Code - David Benson - C++Online 2024" },
+        { "id": "lWOx5cuj1hc", "title": "C++ Tooling Intuition - Kevin Carpenter - C++Online 2024" },
+        { "id": "PHJ0jizBhpE", "title": "The Strategy Design Pattern in Cpp - Mike Shah - C++Online 2024" },
+        { "id": "59lFn3dfdOQ", "title": "Templates Made Easy With C++20 Using Constexpr/Consteval, Fold Expressions, and Concepts - C++Online" }
+      ]
+    }
+  ]
+}

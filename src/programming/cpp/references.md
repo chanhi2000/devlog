@@ -198,6 +198,7 @@ head:
 - [\[Q&A\] CString 클래스를 런타임 함수나 API 함수에 사용하려면 어떻게 해야 하나요?](https://m.blog.naver.com/tipsware/223510086450)
 - [\[Q&A\] 64비트에서 저장한 데이터를 32비트에 읽으면 문제가 됩니다.](https://m.blog.naver.com/tipsware/223512940267)
 - [\[Q&A\] CString 클래스를 API 함수에 사용하는 예시도 보고 싶습니다.](https://m.blog.naver.com/tipsware/223512320785)
+- [\[Q&A\] Do it! C 언어 입문 동영상 강좌 17-1에서 오류가 발생합니다.](https://m.blog.naver.com/tipsware/223512976667?fromRss=true&trackingCode=rss)
 
 <!-- END: blog.naver.com/tipsware/ -->
 

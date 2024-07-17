@@ -317,7 +317,17 @@ head:
 
 ## 요즘IT
 
-> yozm.wishket.
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "자바 어댑터 패턴은 어떻게 쓰일까? | 요즘IT",
+  "desc": "자바 어댑터 패턴은 어떻게 쓰일까?",
+  "link": "/explore/articles/yozm.wishket.com/2077.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
 
 ```component VPCard
 {

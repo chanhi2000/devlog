@@ -100,5 +100,8 @@ head:
 <MyYouTubeItems jsonName="yu-syntaxfm" /><!-- Syntax -->
 <MyYouTubeItems jsonName="yu-fknight" /><!-- ForrestKnight -->
 <MyYouTubeItems jsonName="yu-frongt" /><!-- 프롱드 -->
+<MyYouTubeItems jsonName="yu-FaztTech" /><!-- Fazt -->
+<MyYouTubeItems jsonName="yu-rocketseat" /><!-- Rocketseat -->
+<MyYouTubeItems jsonName="yu-crossplatformkorea" /><!-- 크로스플랫폼 코리아 -->
 
 <TagLinks />

@@ -169,5 +169,7 @@ head:
 <MyYouTubeItems jsonName="yu-tom-delalande" /><!-- Tom Delalande -->
 <MyYouTubeItems jsonName="yu-deployingai" /><!-- Deploying AI -->
 <MyYouTubeItems jsonName="yu-micoding" /><!-- 몰입코딩 아카이브 -->
+<MyYouTubeItems jsonName="yu-yonsei_graduate_school_sw_eng" /><!-- 연세공학대학원 컴소공학 프로젝트 -->
+<MyYouTubeItems jsonName="yu-user-ck6kt9rg4r" /><!-- 한국클라우드산업협회 -->
 
 <TagLinks />

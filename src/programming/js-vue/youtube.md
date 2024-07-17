@@ -48,5 +48,6 @@ head:
 <MyYouTubeItems jsonName="yu-shellfolder1625" /><!-- 쉘폴더 ShellFolder -->
 <MyYouTubeItems jsonName="yu-csslick9865" /><!-- csslick - 코딩 튜토리얼 & 팁 -->
 <MyYouTubeItems jsonName="yu-cdruc" /><!-- cdruc -->
+<MyYouTubeItems jsonName="yu-poseidon.program" /><!-- poseidon -->
 
 <TagLinks />

@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "DNCBaeCoMug", "title": "자바 무료 강의 2시간 완성 (1분 자바)" },
     { "id": "rJE6bhVUNhk", "title": "유니티 무료 강의 (Crash Course) - 5시간 만에 게임 만드는 법 배우기" }, 
     { "id": "31EX6TLao5g", "title": "공공데이터를 활용한 우리 동네 아파트 실거래가 분석" }, 
     { "id": "XK3eU9egll8", "title": "파이썬 코딩 무료 강의 (활용편6) - OpenCV 이미지 처리, 얼굴 인식을 통한 캐릭터 씌우기를 해보아요" }, 

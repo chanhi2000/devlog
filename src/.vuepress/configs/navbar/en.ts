@@ -66,8 +66,12 @@ export const navbarEn = navbar([
           '/academics/PHYS034/README.md'
         ]
       }, {
-        text: 'COEN020',
-        link: '/academics/COEN020/README.md'
+        text: 'Computer Engineernig',
+        icon: 'fas fa-computer',
+        children: [
+          '/academics/coen/README.md',
+          '/academics/COEN020/README.md'
+        ]
       }
     ],
   }, {

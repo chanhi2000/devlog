@@ -339,6 +339,7 @@ head:
 - [DALL.E inpainting으로 그림 그리기](https://jehyunlee.github.io/2024/05/19/General-51-dalleinpainting/)
 - [생성 AI 연구 활용 가이드](https://jehyunlee.github.io/2024/05/19/General-52-genairesearch/)
 - [연구용 GPT 만들기 - 논문봇 등](https://jehyunlee.github.io/2024/06/19/General-56-customgpt/)
+- [KIRD - RnD 수행시 생성 AI를 현명하게 활용하는 방법](https://jehyunlee.github.io/2024/07/16/General-57-kirdalphacampus/)
 
 ---
 

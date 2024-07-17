@@ -231,6 +231,16 @@ head:
 
 ```component VPCard
 {
+  "title": "개발자가 테스트를 보는 세 가지 관점 | 요즘IT",
+  "desc": "개발자가 테스트를 보는 세 가지 관점",
+  "link": "/explore/articles/yozm.wishket.com/2068.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "IP 주소의 역사와 서브넷 마스크의 탄생 | 요즘IT",
   "desc": "IP 주소의 역사와 서브넷 마스크의 탄생",
   "link": "/explore/articles/yozm.wishket.com/2108.md",

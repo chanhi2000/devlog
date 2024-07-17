@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "MoritzKlein0",
+    "name": "Moritz Klein",
+    "profile": "https://yt3.googleusercontent.com/sWi1YgUlbIGIh7HhcygONXG8ovV9SI1ojKF1k59XFAktCFUv5diuPV_q3onJVuA1LMDVuIeSppQ=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VPS-s0-bEpA0zVvZdqMrocMbXvMJBEEzAhVTyMCE1zZeqzjW6_r8CwgW6z3gB8Sp3G1cZ9Ci=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zbBY7JL9nnQ", "title": "Designing a TR-606 style hi-hat from scratch" },
+    { "id": "hULEn2_4Unw", "title": "Designing a TR-808 style snare drum from scratch" }
+  ],
+  "playlists": [
+
+  ]
+}

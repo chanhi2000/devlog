@@ -6,6 +6,34 @@
     "banner": "https://yt3.googleusercontent.com/_pZydqxiDpztopjEnxADuUml4ec_MR5Ls02bGclan0ngkqJQaKnY2jKuXHB23VTswx8BR3YZ9xo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MOcekLz18QU", "title": "Steam Machine using Bazzite" },
+    { "id": "F27eX5WHOss", "title": "GitHub Projects and Chat" },
+    { "id": "H8EuQB_pf3Y", "title": "Bazzite on My MAIN PC" },
+    { "id": "B1VTBWH6mXA", "title": "Bazzite PCI Passthrough Stream" },
+    { "id": "ANSHITuk78U", "title": "Zed Editor and AI Models" },
+    { "id": "ZrrZ5vPVGII", "title": "Manual Restore Partitions and Timeshift Files" },
+    { "id": "HYOmT1CYR9A", "title": "Linux Gaming Optimizations - RBar and TKG Kernel" },
+    { "id": "3Ov-lvn8yMQ", "title": "SystemD Optimizations and XDG Configs" },
+    { "id": "RLRL79gceDw", "title": "WinUtil May Updates" },
+    { "id": "Qd77Nwg0kek", "title": "Gamescope in Linux" },
+    { "id": "n7TtE9obUvA", "title": "This is a Terrible Coding Stream" },
+    { "id": "GYaIkbi1oPQ", "title": "The Creation of Linux Toolbox" },
+    { "id": "iyXqheOfDfE", "title": "Rust Day 1 - TUI Menus" },
+    { "id": "qklUvMUoZNk", "title": "Rust Day 2 - Reading the Manual" },
+    { "id": "m0oeb3kLyB0", "title": "Titus Reacts - Debloat Windows from 2018" },
+    { "id": "oV541sgHKGo", "title": "Linux from Scratch" },
+    { "id": "gCUWjySiRvw", "title": "Understanding Linux" },
+    { "id": "tvHaMKSO-7k", "title": "WinUtil June 2024 Updates" },
+    { "id": "X1vQ6va5xOc", "title": "Linux Toolbox Foundation" },
+    { "id": "WBz50JUq7zU", "title": "Linux Toolbox Bash and Neovim" },
+    { "id": "GN30FcLDDGw", "title": "Linux Gaming Setup Script" },
+    { "id": "X5lNKstSGKM", "title": "The State of VR in 2024" },
+    { "id": "CcN6dFQ-8Cs", "title": "Home Theater PC Configuration" },
+    { "id": "LA4_ti-y1no", "title": "Game Testing on Linux" },
+    { "id": "qqYyWL5_R0U", "title": "WinUtil Fixes and Additions" },
+    { "id": "Do5tpLiwsrM", "title": "Linux Toolbox Work - Launch Command Designed" },
+    { "id": "gxLYPxfNmQA", "title": "My New Linux Laptop" },
+    { "id": "03Juz1zwbCA", "title": "Linux Livestream FAIL - Kernel 6.9 Update" },
     { "id": "6YWEooV-MEU", "title": "Why Linux" },
     { "id": "Y7LTdEwR9M8", "title": "Setting up the Ultimate System" },
     { "id": "K2gliga5Vwc", "title": "The Ultimate System - QEMU and VM Setup" },
@@ -74,5 +102,8 @@
     { "id": "_iyDQfoRnbc", "title": "Android Emulation on PC (Broken Right Audio)" },
     { "id": "RZgygoqjI20", "title": "Android Emulation on PC" },
     { "id": "0GMCGLdIRZk", "title": "Microsoft is REMOVING the Start Menu" }
+  ],
+  "playlists": [
+    
   ]
 }

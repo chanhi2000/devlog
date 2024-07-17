@@ -14,6 +14,9 @@ tag:
   - node
   - nodejs
   - node-js
+  - next
+  - nextjs
+  - next-js
   - sql
   - db
   - postgres

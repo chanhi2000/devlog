@@ -30,5 +30,6 @@ head:
 
 <MyYouTubeItems jsonName="yu-LaravelDaily" /><!-- Laravel Daily -->
 <MyYouTubeItems jsonName="yu-Laracastsofficial" /><!-- Laracasts -->
+<MyYouTubeItems jsonName="yu-maximilian-schwarzmueller" /><!-- Maximilian Schwarzmüller -->
 
 <TagLinks />

@@ -6,6 +6,27 @@
     "banner": "https://yt3.googleusercontent.com/7fJsLMthrOyiJPEF3mC749UlO_vyrrNIuGhYWoPlyFEyKreLQ7_VXCKM11FdDKOUpLCiUjSx1w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5oOx3FmBQdA", "title": "ICPC World Finals: Kotlin Heroes Blind Coding Challenge with tourist, ecnerwala, pashka, and Egor" },
+    { "id": "_l7bWjgPR6Y", "title": "Boosting Developer Experience With Serverless Rust Applications in RustRover" },
+    { "id": "nyTq-C8C2gI", "title": "Working with WSL in RubyMine" },
+    { "id": "L3SgNX3U5dc", "title": "Build an Asteroids retro game in 1 hour with Unity and JetBrains Rider" },
+    { "id": "tGpJddd6P1s", "title": "Debugging Go Code in No Time with GoLand" },
+    { "id": "GwmWm4uwKeg", "title": "Empowering Analysts in Financial Services to Move Away From Excel" },
+    { "id": "XmtHfKEXAMM", "title": "Aqua, the IDE for test automation, is now generally available!" },
+    { "id": "CRF-nwNCxUE", "title": "Concatenate Strings in Go with GoLand" },
+    { "id": "QzdnGPEuqnA", "title": "Onboarding Tour / JetBrains Aqua – The IDE for Test Automation" },
+    { "id": "-HMw2PLDdrs", "title": "An Eye For Success in Unity Gaming With Odin Inspector and JetBrains Rider" },
+    { "id": "OUc6Mh5VxJQ", "title": "RustRover, the IDE for Rust developers, is now generally available!" },
+    { "id": "u85bozA3bv0", "title": "Programming Education: Tailoring Tools and Techniques for Rust" },
+    { "id": "67yGbvyM1is", "title": "How to build a REST API with Go and Gin, with GoLand" },
+    { "id": "RMz3eOg82eI", "title": "People Behind Plugins with Yuna Morgenstern, author of the GitHub Workflow plugin" },
+    { "id": "YF06TSxM7z8", "title": "Understand Code Instantly With AI Assistant by JetBrains" },
+    { "id": "XOUlaRuWvuk", "title": "Working With Docker and Docker Compose in RubyMine" },
+    { "id": "7j26dir15Os", "title": "How To Check if a Map Contains a Key in Go?" },
+    { "id": "-1JFPjPfjNo", "title": "Don't Worry About Upgrading to Nuxt 4" },
+    { "id": "4TqR8yVVjV4", "title": "Building a Database Engine in C# & .NET" },
+    { "id": "_4J_DG05sxc", "title": "How to Use AI to Find and Fix Problems in Code" },
+    { "id": "tKGsRGaM8IY", "title": "How to Refactor Code With JetBrains AI Assistant" },
     { "id": "f8QK-X3WZ1g", "title": "Running Builds in Docker and How to Do It in TeamCity" },
     { "id": "gFcR8J90S8c", "title": "Debug Like a Pro: JavaScript Edition" },
     { "id": "X8rX_bYUeh4", "title": "Nx v18 recap / TypeScript 5.4 / Support for Vite in Remix / React Compiler | JS Roundup" },
@@ -70,5 +91,8 @@
     { "id": "U-gdJQeOVAk", "title": "KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov" }, 
     { "id": "8xfQA10Cd7g", "title": "KotlinConf 2018 - Komparing Kotlin Server Frameworks by Ken Yee" }, 
     { "id": "nBoPiEH90Wg", "title": "Remote development in JetBrains IDEs with Google Cloud" }
+  ],
+  "playlists": [
+
   ]
 }

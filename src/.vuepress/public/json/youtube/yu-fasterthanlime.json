@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "fasterthanlime",
+    "name": "fasterthanlime",
+    "profile": "https://yt3.googleusercontent.com/zBpmIVJvy2B_UXdlpK3lxuuIOJBjdWG65xCSgdtuaYc6mGLGaMeoemcBF-chW-AgC1qzVLwqHA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kRrbPlgyvmqszglPJDjHYzDAXBNiLV-NOK8JIvJuqiMmdH-FhWKi0vuK9L_FdyfHB8VSGV91Pg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "Silly Fast Fresh Deploys with Rust",
+      "videos": [
+        { "id": "KAKccfVVslk", "title": "Silly Fast Fresh Deploys with Rust (Part 1)" },
+        { "id": "umeTH5qZUeQ", "title": "Silly Fast Fresh Deploys with Rust (Part 2)" },
+        { "id": "9lMNfcrVMoY", "title": "Silly Fast Fresh Deploys with Rust (Part 3)" },
+        { "id": "5dD55CO7goQ", "title": "Silly Fast Fresh Deploys with Rust (Part 4)" },
+        { "id": "76emMzrigPI", "title": "Silly Fast Fresh Deploys with Rust (Part 5)" },
+        { "id": "-Qx3S9Wv7zI", "title": "Silly Fast Fresh Deploys with Rust (Part 6)" },
+        { "id": "55rfsceitFI", "title": "Silly Fast Fresh Deploys with Rust (Part 7)" }
+      ]
+    }
+  ]
+}

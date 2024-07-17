@@ -156,6 +156,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Deploy Your Node.js App on Azure",
+  "desc": "The advent of cloud computing marked a turning point in the field of technology. It provides easier access for users across the globe to web and mobile applications and services.  Modern-day computing services also provide a wide range of features which make web apps easier to use and more...",
+  "link": "/explore/articles/code-maze.com/how-to-deploy-node-js-app-on-azure.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

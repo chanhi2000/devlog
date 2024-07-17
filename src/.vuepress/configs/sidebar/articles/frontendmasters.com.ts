@@ -7,14 +7,16 @@ export const template: SidebarInfoTemplate = {
     [
     "js", [
       "5-things-designers-can-do-with-javascript", // 2024-05-08
-      "testing-types-in-typescript", // 2024-06-04
       "control-javascript-promises-from-anywhere-using-promise-withresolvers", // 2024-06-05
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
       "popovers-work-pretty-nicely-as-slide-out-drawers", // 2024-06-24
       "browser-support-tests-in-javascript-for-modern-web-features", // 2024-06-28
       "script-integrity", // 2024-07-05
     ]], [
-    "js-node", [
+    "ts", [
+      "testing-types-in-typescript", // 2024-06-04
+    ]], [
+      "js-node", [
       "introducing-drizzle", // 2024-06-17
     ]], [
     "js-react", [

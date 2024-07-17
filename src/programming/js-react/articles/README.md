@@ -544,6 +544,16 @@ head:
 
 ```component VPCard
 {
+  "title": "선언형 프로그래밍으로 이해하기 쉬운 코드 작성하기 | 요즘IT",
+  "desc": "선언형 프로그래밍으로 이해하기 쉬운 코드 작성하기",
+  "link": "/explore/articles/yozm.wishket.com/2083.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "리액트 상태 관리 라이브러리, 어떤 것을 써야 할까? | 요즘IT",
   "desc": "리액트 상태 관리 라이브러리, 어떤 것을 써야 할까?",
   "link": "/explore/articles/yozm.wishket.com/2233.md",

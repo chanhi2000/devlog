@@ -121,6 +121,36 @@ head:
 
 ```component VPCard
 {
+  "title": "주니어 개발자가 면접을 앞두고 준비한 것들 | 요즘IT",
+  "desc": "주니어 개발자가 면접을 앞두고 준비한 것들",
+  "link": "/explore/articles/yozm.wishket.com/2058.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "누구도 알려주지 않는 백엔드 로드맵 | 요즘IT",
+  "desc": "누구도 알려주지 않는 백엔드 로드맵",
+  "link": "/explore/articles/yozm.wishket.com/2064.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "구글 시니어 개발자가 성장을 위해 선택한 길 | 요즘IT",
+  "desc": "구글 시니어 개발자가 성장을 위해 선택한 길",
+  "link": "/explore/articles/yozm.wishket.com/2066.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "'개발자가 수학에 투자하는 시간은 절대 낭비가 아닙니다' C++ 창시자 인터뷰 | 요즘IT",
   "desc": "'개발자가 수학에 투자하는 시간은 절대 낭비가 아닙니다' C++ 창시자 인터뷰",
   "link": "/explore/articles/yozm.wishket.com/2093.md",

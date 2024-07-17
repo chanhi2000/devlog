@@ -243,6 +243,8 @@ head:
 - [`@2fEJ` / 사용자 인터뷰에서의 이해력 문제 해결 방안 - UX 리서치 이야기 #29](https://brunch.co.kr/@@2fEJ/1415)
 - [`@2hV3` / 작은 변화, 큰 차이를 만드는 클릭존 UX 라이팅 - 클릭존 주위에 글만 배치했는데... 결과는?](https://brunch.co.kr/@@2hV3/238)
 - [`@1SwI` / 퍼포먼스를 해킹하는 방법](https://brunch.co.kr/@@1SwI/407)
+- [`@2fEJ` / 시나리오 기반 분석의 장단점과 사용 사례 분석의 활용 - UX 디자인 이야기 #29](https://brunch.co.kr/@@2fEJ/1422)
+- [`@2fEJ` / UX 리서치에서 이해관계자와의 협력의 중요성 - UX 리서치 이야기 #30](https://brunch.co.kr/@@2fEJ/1420)
 
 <!-- END: brunch.co.kr -->
 

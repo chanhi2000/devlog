@@ -51,14 +51,12 @@ tag:
 <MyYouTubeItems jsonName="yu-MicrosoftIgnite" /><!-- Microsoft Ignite -->
 <MyYouTubeItems jsonName="yu-NetflixEngineering" />
 <MyYouTubeItems jsonName="yu-redhatkorea2558" /><!-- Red Hat Korea -->
-<MyYouTubeItems jsonName="yu-NAVERCLOUDPLATFORM" /><!-- NAVER Cloud Platform : 네이버 클라우드 플랫폼 -->
 <MyYouTubeItems jsonName="yu-SKplanetTacademy" /><!-- SKplanet Tacademy -->
 <MyYouTubeItems jsonName="yu-SKplanetRD" /><!-- SKplanetRD -->
 <MyYouTubeItems jsonName="yu-SKTelecomTdevelopers" /><!-- SK open API -->
 <MyYouTubeItems jsonName="yu-googlecloudtech" /><!-- Google Cloud Tech -->
 <MyYouTubeItems jsonName="yu-Firebase" /><!-- Firebase -->
 <MyYouTubeItems jsonName="yu-XojoInc" /><!-- Xojo -->
-<MyYouTubeItems jsonName="yu-hacktivityconf" /><!-- Hacktivity -->
 <MyYouTubeItems jsonName="yu-Bisqwit" /><!-- Bisqwit -->
 <MyYouTubeItems jsonName="yu-FacebookOpenSource" /><!-- Meta Open Source -->
 <MyYouTubeItems jsonName="yu-softwarecraftsmanshipluxem8137" />
@@ -91,7 +89,6 @@ tag:
 <MyYouTubeItems jsonName="yu-gdscsookmyung" /><!-- Google Developer Student Club Sookmyung -->
 <MyYouTubeItems jsonName="yu-xebiafunctional" /><!-- Xebia Functional (formerly 47 Degrees) -->
 <MyYouTubeItems jsonName="yu-gdgosijek5328" /><!-- GDG Osijek -->
-<MyYouTubeItems jsonName="yu-OpenProjectCommunity" /><!-- OpenProject | Open Source Project Management -->
 <MyYouTubeItems jsonName="yu-gdgjohannesburg8669" /><!-- GDG Johannesburg -->
 <MyYouTubeItems jsonName="yu-FireEyeKorea" /><!-- FireEye Korea -->
 <MyYouTubeItems jsonName="yu-DEFCONConference" /><!-- DEFCONConference -->
@@ -114,5 +111,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Google" /><!-- Google -->
 <MyYouTubeItems jsonName="yu-toss_securities" /><!-- 토스증권 -->
 <MyYouTubeItems jsonName="yu-theBankofKoreakr" /><!-- 한국은행 -->
+<MyYouTubeItems jsonName="yu-sktechsummit" /><!-- SK TECH SUMMIT -->
 
 <TagLinks />
