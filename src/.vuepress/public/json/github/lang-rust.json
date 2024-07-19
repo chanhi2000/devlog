@@ -2298,5 +2298,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/3468624?v=4",
     "banner": ""
+  }, {
+    "repo": "ruuda/musium",
+    "desc": "Music playback daemon with web-based library browser",
+    "officialSite": "https://docs.ruuda.nl/musium/",
+    "topics": ["flac", "mediaserver", "music", "music-library", "music-player", "musichoarder"],
+    "avatar": "https://avatars.githubusercontent.com/u/506953?v=4",
+    "banner": ""
   }
 ]

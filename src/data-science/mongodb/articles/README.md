@@ -107,6 +107,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Introduction to gRPC in ASP.NET Core With MongoDB",
+  "desc": "In this article, we’re going to cover how to set up an ASP.NET Core gRPC service with MongoDB as our database.",
+  "link": "/explore/articles/code-maze.com/grpc-introduction-aspnetcore.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

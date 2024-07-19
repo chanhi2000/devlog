@@ -154,7 +154,11 @@ Menu("Sort") {
 
 What's happening here is that we're moving the sort selection up one level from `UserListingView`, which means we can now control it dynamically. SwiftUI will automatically recreate `UserListingView` whenever that sort order changes, which in turn will recreate the query.
 
-<strong>Tip:</strong> You could easily adjust this so your child view's initializer accepts an array of sort descriptors.
+::: tip
+
+You could easily adjust this so your child view's initializer accepts an array of sort descriptors.
+
+:::
 
 ---
 

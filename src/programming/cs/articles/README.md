@@ -1716,6 +1716,116 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Send Client-Specific Messages Using SignalR",
+  "desc": "In this article, we are going to learn how we can send real time client-specific messages using SignalR and Angular as a client-side application.",
+  "link": "/explore/articles/code-maze.com/how-to-send-client-specific-messages-using-signalr.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Implement SignalR Automatic Reconnect with Angular",
+  "desc": "In this article, we are going to look at the SignalR Automatic Reconnect feature and how to implement automatic reconnect in our SignalR app.",
+  "link": "/explore/articles/code-maze.com/signalr-automatic-reconnect-option.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "IncludeMembers and Custom Projections with AutoMapper in ASP.NET Core",
+  "desc": "In this article, get ready to dive into custom projections with AutoMapper, using IncludeMembers and Value and Type Converters.",
+  "link": "/explore/articles/code-maze.com/automapper-net-core-custom-projections.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Introduction to gRPC in ASP.NET Core With MongoDB",
+  "desc": "In this article, we’re going to cover how to set up an ASP.NET Core gRPC service with MongoDB as our database.",
+  "link": "/explore/articles/code-maze.com/grpc-introduction-aspnetcore.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "FluentValidation in ASP.NET Core",
+  "desc": "Learn how to make use of FluentValidation in an ASP.NET Core application, to validate user input and make our applications easier to maintain and test.",
+  "link": "/explore/articles/code-maze.com/fluentvalidation-in-aspnet.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Deep Dive Into Different Validators with FluentValidation",
+  "desc": "In this article we are going to learn more about different Validators with FluentValidation, that we can use to protect our app from bad inputs.",
+  "link": "/explore/articles/code-maze.com/deep-dive-validators-fluentvalidation.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Dependency Injection in ASP.NET Core",
+  "desc": "In this article, we're going to talk about dependency injection, one of the most frequently used design patterns out there.",
+  "link": "/explore/articles/code-maze.com/dependency-injection-aspnet.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Configuration – Basic Concepts",
+  "desc": "In this introductory article, we are going to learn how ASP.NET Core configuration works and cover the basic configuration concepts.",
+  "link": "/explore/articles/code-maze.com/aspnet-configuration-basic-concepts.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Configuration – Options Pattern",
+  "desc": "In this article, we're going to cover another, better way of reading configuration data in .NET Core - the options pattern.",
+  "link": "/explore/articles/code-maze.com/aspnet-configuration-options.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Configuration – Options Validation",
+  "desc": "In this article, we're going to learn the importance of options validation and a few ways to implement it in our ASP.NET Core applications.",
+  "link": "/explore/articles/code-maze.com/aspnet-configuration-options-validation.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Configuration – Configuration Providers",
+  "desc": "In this article, we're going to talk about different configuration providers in ASP.NET Core applications.",
+  "link": "/explore/articles/code-maze.com/aspnet-configuration-providers.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

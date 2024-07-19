@@ -17,7 +17,7 @@ head:
     - property: og:description
       content: "BitwiseCopyable"
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/6.0/complete-concurrency.html
+      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/swift/6.0/bitwisecopyable.html
 isOriginal: false
 ---
 
@@ -41,7 +41,7 @@ isOriginal: false
 {
   "title": "BitwiseCopyable | Changes in Swift 6.0",
   "desc": "BitwiseCopyable",
-  "link": "https://hackingwithswift.com/swift/6.0/complete-concurrency", 
+  "link": "https://hackingwithswift.com/swift/6.0/bitwisecopyable", 
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(54,94,226,0.2)"
 }
@@ -49,7 +49,27 @@ isOriginal: false
 
 > Available from Swift 6.0
 
-<!-- TODO: 작성 -->
+[SE-0426 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0426-bitwise-copyable.md) introduces a new `BitwiseCopyable` protocol, which has the sole purpose of allowing the compiler to create more optimized code for conforming types.
+
+*Most of the time you don't need to do anything to enable `BitwiseCopyable` support*. Swift will automatically apply it to most structs and enums you create as long as all the properties they contain are also bitwise copyable. That includes a huge collection of built-in types: all integers, all floating-point numbers, `Bool`, `Duration`, `StaticString`, and more.
+
+Where things take a little more thinking is when you're building a library – if Swift were to automatically apply a conformance to `BitwiseCopyable` it could cause problems if your type changed in the future in a way that made it *not* support the protocol.
+
+So, Swift disables the automatic inference for types you export with `public` or `package` visibility unless you explicitly mark those types with `@frozen`.
+
+If you specifically need to disable `BitwiseCopyable`, you can do that by adding `~BitwiseCopyable` to your type's inheritance list. For example, the standard library's `CommandLine` enum is both `public` and `@frozen`, so the Swift team explicitly opt out of it being bitwise copyable like this:
+
+```swift
+@frozen
+public enum CommandLine : ~BitwiseCopyable {
+}
+```
+
+::: important
+
+Opting out of `BitwiseCopyable` must happen directly where your type is declared rather than in an extension.
+
+:::
 
 ::: details Other Changes in Swift 6.0
 

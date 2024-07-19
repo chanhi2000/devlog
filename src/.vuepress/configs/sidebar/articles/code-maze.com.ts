@@ -165,6 +165,17 @@ export const template: SidebarInfoTemplate = {
       "aspnet-configuration-azure-key-vault", // 2021-12-27
       "aspnet-configuration-securing-sensitive-data", // 2022-10-12
       "aspnet-configuration-creating-custom-provider", // 2022-10-12
+      "how-to-send-client-specific-messages-using-signalr", // 2022-05-05
+      "signalr-automatic-reconnect-option", // 2022-05-05
+      "automapper-net-core-custom-projections", // 2021-12-29
+      "grpc-introduction-aspnetcore", // 2024-02-10
+      "fluentvalidation-in-aspnet", // 2024-04-28
+      "deep-dive-validators-fluentvalidation", // 2024-04-28
+      "dependency-injection-aspnet", // 2021-12-29
+      "aspnet-configuration-basic-concepts", // 2021-12-27
+      "aspnet-configuration-options", // 2021-12-27
+      "aspnet-configuration-options-validation", // 2021-12-27
+      "aspnet-configuration-providers", // 2021-12-27
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]],[
     "cs-blazor", [
@@ -180,6 +191,10 @@ export const template: SidebarInfoTemplate = {
       "using-access-token-with-blazor-webassembly-httpclient", // 2022-05-23
       "how-to-secure-blazor-webassembly-with-identityserver4", // 2021-12-27
       "creating-blazor-webassembly-signalr-charts", // 2021-12-27
+      "authenticationstateprovider-blazor-webassembly", // 2022-05-22
+      "blazor-webassembly-registration-aspnetcore-identity", // 2022-05-22
+      "blazor-webassembly-authentication-aspnetcore-identity", // 2022-05-22
+      "blazor-webassembly-role-based-authorization", // 2022-05-22
     ]],[
     "js-angular", [
       "net-core-web-development-part7", // 2022-04-20
@@ -206,6 +221,7 @@ export const template: SidebarInfoTemplate = {
       "secure-angular-calls-to-webapi-using-access-token", // 2024-01-31
       "angular-authentication-actions-with-identityserver4", // 2021-12-27
       "angular-oauth2-oidc-configuration-identityserver4", // 2021-12-27
+      "signalr-automatic-reconnect-option", // 2022-05-05
     ]],[
     "docker", [
       "why-docker-docker-cli-examples", // 2020-09-02
@@ -233,6 +249,7 @@ export const template: SidebarInfoTemplate = {
       "continuous-deployment-from-github-to-azure-app-service", // 2021-12-27
       "publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio", // 2024-01-31
       "aspnet-configuration-azure-key-vault", // 2021-12-27
+      "introduction-to-cloud-computing-and-azure", // 2021-12-29
     ]],[
     "security", [
       "owasp-top-10-injection", // 2022-01-11
@@ -248,6 +265,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "mongodb", [
       "getting-started-aspnetcore-mongodb", // 2023-12-05
+      "grpc-introduction-aspnetcore", // 2024-02-10
     ]],[
     "visualstudio", [
       "visual-studio-productivity", // 2022-02-20
@@ -447,6 +465,22 @@ export const template: SidebarInfoTemplate = {
       "aspnet-configuration-azure-key-vault", // 2021-12-27
       "aspnet-configuration-securing-sensitive-data", // 2022-10-12
       "aspnet-configuration-creating-custom-provider", // 2022-10-12
+      "authenticationstateprovider-blazor-webassembly", // 2022-05-22
+      "blazor-webassembly-registration-aspnetcore-identity", // 2022-05-22
+      "blazor-webassembly-authentication-aspnetcore-identity", // 2022-05-22
+      "blazor-webassembly-role-based-authorization", // 2022-05-22
+      "how-to-send-client-specific-messages-using-signalr", // 2022-05-05
+      "signalr-automatic-reconnect-option", // 2022-05-05
+      "automapper-net-core-custom-projections", // 2021-12-29
+      "grpc-introduction-aspnetcore", // 2024-02-10
+      "fluentvalidation-in-aspnet", // 2024-04-28
+      "deep-dive-validators-fluentvalidation", // 2024-04-28
+      "introduction-to-cloud-computing-and-azure", // 2021-12-29
+      "dependency-injection-aspnet", // 2021-12-29
+      "aspnet-configuration-basic-concepts", // 2021-12-27
+      "aspnet-configuration-options", // 2021-12-27
+      "aspnet-configuration-options-validation", // 2021-12-27
+      "aspnet-configuration-providers", // 2021-12-27
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])

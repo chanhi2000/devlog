@@ -559,6 +559,7 @@ tag:
 - [\[백준\] 1546번: 평균 - java](https://findsilverlining.tistory.com/m/96)
 - [\[백준\] 11720번: 숫자의 합 - java](https://findsilverlining.tistory.com/m/95)
 - [\[백준\] 11659번: 구간 합 구하기 4 - java](https://findsilverlining.tistory.com/m/98)
+- [\[백준\] 1717번: 집합의 표현 - java](https://findsilverlining.tistory.com/m/99)
 
 ### Event-Driven by Oskar Dudycz
 

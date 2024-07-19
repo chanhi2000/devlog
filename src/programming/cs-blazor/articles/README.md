@@ -164,6 +164,46 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "AuthenticationStateProvider in Blazor WebAssembly",
+  "desc": "In this article, we are going to inspect the AuthenticationStateProvider functionalities in the Blazor WebAssembly application.",
+  "link": "/explore/articles/code-maze.com/authenticationstateprovider-blazor-webassembly.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Blazor WebAssembly Registration Functionality with ASP.NET Core Identity",
+  "desc": "In this article, we are going to learn about the Blazor WebAssembly Registration functionality with a help of ASP.NET Core Identity.",
+  "link": "/explore/articles/code-maze.com/blazor-webassembly-registration-aspnetcore-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Blazor WebAssembly Authentication with ASP.NET Core Identity",
+  "desc": "In this article, we are going to learn about the Blazor WebAssembly Authentication with external Web API project and ASP.NET Core Identity.",
+  "link": "/explore/articles/code-maze.com/blazor-webassembly-authentication-aspnetcore-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Role-Based Authorization with Blazor WebAssembly",
+  "desc": "In this article, we are going to learn about Role-Based Authorization with Blazor WebAssembly and ASP.NET Core Web API applications.",
+  "link": "/explore/articles/code-maze.com/blazor-webassembly-role-based-authorization.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

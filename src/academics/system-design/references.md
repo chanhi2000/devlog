@@ -245,6 +245,9 @@ head:
 - [`@1SwI` / 퍼포먼스를 해킹하는 방법](https://brunch.co.kr/@@1SwI/407)
 - [`@2fEJ` / 시나리오 기반 분석의 장단점과 사용 사례 분석의 활용 - UX 디자인 이야기 #29](https://brunch.co.kr/@@2fEJ/1422)
 - [`@2fEJ` / UX 리서치에서 이해관계자와의 협력의 중요성 - UX 리서치 이야기 #30](https://brunch.co.kr/@@2fEJ/1420)
+- [`@2fEJ` / 휴리스틱 원칙의 한계와 프로덕트에 적용 방안 - UX 디자인 이야기 #30](https://brunch.co.kr/@@2fEJ/1426)
+- [`@2fEJ` / 파일럿 테스트의 중요성과 효과적인 활용 방법 - UX 리서치 이야기 #31](https://brunch.co.kr/@@2fEJ/1427)
+- [`@2fEJ` / 애플의 독특한 UX 리서치 접근법과 그 특징 - UX 리서치 이야기 #32](https://brunch.co.kr/@@2fEJ/1437)
 
 <!-- END: brunch.co.kr -->
 

@@ -283,6 +283,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Implement SignalR Automatic Reconnect with Angular",
+  "desc": "In this article, we are going to look at the SignalR Automatic Reconnect feature and how to implement automatic reconnect in our SignalR app.",
+  "link": "/explore/articles/code-maze.com/signalr-automatic-reconnect-option.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

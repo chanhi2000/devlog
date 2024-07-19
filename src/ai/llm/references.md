@@ -261,6 +261,9 @@ head:
 - [Weights & Biases로 딥러닝 모델 개발 프로세스 기록, 분석, 가시화 및 모델 튜닝하기](https://daddynkidsmakers.blogspot.com/2024/06/weights-biases.html)
 - [2024년 오픈소스 대형언어모델 소개](https://daddynkidsmakers.blogspot.com/2024/06/2024.html)
 - [AutoRAG 활용 LLM RAG 최적화하기](https://daddynkidsmakers.blogspot.com/2024/07/autorag-llm-rag.html)
+- [LLM 기반 센서 데이터 해석 방법](https://daddynkidsmakers.blogspot.com/2024/07/llm_17.html)
+
+<!-- END: daddynkidsmakers.blogspot.com -->
 
 ---
 
@@ -354,6 +357,7 @@ head:
 - [42dot LLM은 리더보드 용도로 파인튜닝한게 아니기 때문에 점수는 낮지만, 실제로 써보면 성능은 매우 뛰어난 걸 확인할 수 있습니다. 320장의 GPU로 약 1주일 동안](https://likejazz.com/post/755660739094724609)
 - [현대자동차그룹의 후원으로 MIT 윤킴 교수님과 지난 1년여간 함께 진행해온 산학 연구 논문이 요즘 화제네요.](https://likejazz.com/post/756113715506659328)
 - [`llama.cpp`의 K-Quantization https://github.com/ggerganov/llama.cpp/pull/1684 을 따라서 구현해보다가 길을 잃고 😑 좀 더](https://likejazz.com/post/756204304905469952)
+- [The Era of 1-bit LLMs: All Large Language Models are in 1.58&;;hellip;](https://likejazz.com/post/756294915544219648)
 
 ---
 

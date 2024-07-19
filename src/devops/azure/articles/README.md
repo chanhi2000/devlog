@@ -128,41 +128,11 @@ head:
 
 ```component VPCard
 {
-  "title": "Continuous Deployment from GitHub to Azure App Service",
-  "desc": "In this article, we are going to learn how to configure Continuous Deployment (CD) from GitHub to Azure App Service using Deployment Center.",
-  "link": "/explore/articles/code-maze.com/continuous-deployment-from-github-to-azure-app-service.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
-  "background": "rgba(22,22,22,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Publishing an ASP.NET Core App to Azure App Service Using Visual Studio",
-  "desc": "In this article, we'll see how to publish an ASP.NET web application to an Azure App Service using Visual Studio.",
-  "link": "/explore/articles/code-maze.com/publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
-  "background": "rgba(22,22,22,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "ASP.NET Core Configuration – Azure Key Vault",
-  "desc": "In this article, we're going to talk about how to protect our sensitive configuration data in the production environment with Azure Key Vault",
-  "link": "/explore/articles/code-maze.com/aspnet-configuration-azure-key-vault.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
-  "background": "rgba(22,22,22,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "How to Deploy Your Node.js App on Azure",
   "desc": "The advent of cloud computing marked a turning point in the field of technology. It provides easier access for users across the globe to web and mobile applications and services.  Modern-day computing services also provide a wide range of features which make web apps easier to use and more...",
-  "link": "/explore/articles/code-maze.com/how-to-deploy-node-js-app-on-azure.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
-  "background": "rgba(22,22,22,0.2)"
+  "link": "/explore/articles/freecodecamp.org/how-to-deploy-node-js-app-on-azure.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
 }
 ```
 
@@ -204,9 +174,49 @@ head:
 
 ```component VPCard
 {
-  "title": "Getting Started with ASP.NET Core and MongoDB",
-  "desc": "In this article, we’re going to cover how to set up and configure an ASP.NET Core Web API with MongoDB as our database.",
-  "link": "/explore/articles/code-maze.com/getting-started-aspnetcore-mongodb.md",
+  "title": "How to Easily Deploy ASP.NET Core Web API to Kubernetes Cluster on Azure",
+  "desc": "In this article, let's learn about one simple way to deploy an ASP.NET Core Web API app to Kubernetes Cluster on Azure with Codefresh.",
+  "link": "/explore/articles/code-maze.com/deploy-aspnetcore-webapi-kubernetes-cluster-azure.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Continuous Deployment from GitHub to Azure App Service",
+  "desc": "In this article, we are going to learn how to configure Continuous Deployment (CD) from GitHub to Azure App Service using Deployment Center.",
+  "link": "/explore/articles/code-maze.com/continuous-deployment-from-github-to-azure-app-service.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Publishing an ASP.NET Core App to Azure App Service Using Visual Studio",
+  "desc": "In this article, we'll see how to publish an ASP.NET web application to an Azure App Service using Visual Studio.",
+  "link": "/explore/articles/code-maze.com/publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "ASP.NET Core Configuration – Azure Key Vault",
+  "desc": "In this article, we're going to talk about how to protect our sensitive configuration data in the production environment with Azure Key Vault",
+  "link": "/explore/articles/code-maze.com/aspnet-configuration-azure-key-vault.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Introduction to Cloud Computing and Azure",
+  "desc": "In this article, we are going to discuss the fundamentals of Cloud Computing and Microsoft Azure and various services offered by it.",
+  "link": "/explore/articles/code-maze.com/introduction-to-cloud-computing-and-azure.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }

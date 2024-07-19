@@ -1352,4 +1352,10 @@ https://blog.naver.com/&logId=
 
 ---
 
+## 사랑나무아빠의 행복한 세상
+
+- [IT 프로그래머로 살아남기 위한 개발자 실무 교육 필요성](https://m.blog.naver.com/hupers/223516480982)
+
+---
+
 <TagLinks />

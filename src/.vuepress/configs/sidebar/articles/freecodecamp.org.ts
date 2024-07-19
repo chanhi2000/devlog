@@ -96,6 +96,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-upgrade-node-and-jest-while-on-react-scripts-v4", // 2024-07-10
       "what-is-trpc", // 2024-07-11
       "difference-between-usememo-and-usecallback-hooks", // 2024-07-15
+      "use-react-router-to-build-single-page-applications", // 2024-07-18
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -495,6 +496,7 @@ export const template: SidebarInfoTemplate = {
       "server-side-rendering-in-next-js-for-improved-seo", // 2024-07-17
       "create-24-css-projects", // 2024-07-17
       "pass-the-github-advanced-security-certification-exam", // 2024-07-17
+      "use-react-router-to-build-single-page-applications", // 2024-07-18
     ]],
   ]),
 }

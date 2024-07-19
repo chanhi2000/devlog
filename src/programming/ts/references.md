@@ -569,4 +569,10 @@ head:
 
 ---
 
+## Arend van Beelen jr.
+
+- [Post-Architecture: Premature Abstraction Is the Root of All Evil](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
+
+---
+
 <TagLinks />

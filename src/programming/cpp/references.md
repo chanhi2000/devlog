@@ -199,6 +199,7 @@ head:
 - [\[Q&A\] 64비트에서 저장한 데이터를 32비트에 읽으면 문제가 됩니다.](https://m.blog.naver.com/tipsware/223512940267)
 - [\[Q&A\] CString 클래스를 API 함수에 사용하는 예시도 보고 싶습니다.](https://m.blog.naver.com/tipsware/223512320785)
 - [\[Q&A\] Do it! C 언어 입문 동영상 강좌 17-1에서 오류가 발생합니다.](https://m.blog.naver.com/tipsware/223512976667?fromRss=true&trackingCode=rss)
+- [\[LabX\] *.rc 파일에서 원하는 스크립트 정보 분리하기 - Step 2](https://m.blog.naver.com/tipsware/223515947659)
 
 <!-- END: blog.naver.com/tipsware/ -->
 
@@ -279,6 +280,7 @@ head:
 - [\[백준 31965번\] 회의 장소](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31965%EB%B2%88-%ED%9A%8C%EC%9D%98-%EC%9E%A5%EC%86%8C)
 - [\[백준 31997번\] 즐거운 회의](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31997%EB%B2%88-%EC%A6%90%EA%B1%B0%EC%9A%B4-%ED%9A%8C%EC%9D%98)
 - [\[백준 32036번\] 수열과 쿼리 45](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32036%EB%B2%88-%EC%88%98%EC%97%B4%EA%B3%BC-%EC%BF%BC%EB%A6%AC-45)
+- [\[백준 32068번\] 보물 찾기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32068%EB%B2%88-%EB%B3%B4%EB%AC%BC-%EC%B0%BE%EA%B8%B0)
 
 ---
 

@@ -64,6 +64,7 @@ tag:
 ## Brunch
 
 - [`@1aft` / Rust : 참조 & 역참조 - #Ref #DeRef](https://brunch.co.kr/@@1aft/134)
+- [`@1aft` / Rust : `collect()` - #Arr2Vec #collect함수](https://brunch.co.kr/@@1aft/135)
 
 <!-- END: brunch.co.kr -->
 

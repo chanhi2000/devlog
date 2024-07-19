@@ -383,4 +383,10 @@ tag:
 
 ---
 
+## research!rsc
+
+- [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
+
+---
+
 <TagLinks />

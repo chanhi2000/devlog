@@ -109,8 +109,9 @@ tag:
 
 - [Why does `hostname -i` show two values?](https://serverfault.com/questions/847637/why-does-hostname-i-show-two-values)
 
+---
 
-## tecmint
+## Tecmint: Linux Howtos, Tutorials & Guides
 
 - [How to Synchronize Time with Chrony NTP in Linux](https://www.tecmint.com/synchronize-time-with-ntp-in-linux)
 - [How to Install Windows Subsystem for Linux](https://www.tecmint.com/install-windows-subsystem-for-linux)
@@ -302,7 +303,8 @@ tag:
 - [`diff`](https://johngrib.github.io/wiki/cmd/diff/)
 - [`join` 명령어](https://johngrib.github.io/wiki/cmd/join/)
 - [`openssl` 명령어](https://johngrib.github.io/wiki/cmd/openssl/)
-
+- [`date` 명령어](https://johngrib.github.io/wiki/cmd/date/)
+- [`echo` 명령어](https://johngrib.github.io/wiki/cmd/echo/)
 ---
 
 ## Dagger

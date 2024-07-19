@@ -90,6 +90,12 @@ head:
 
 ---
 
+## Brunch
+
+- [`@8w7` / Perplexity 에게 물어봤어요. 그는 누구니!! - 그는 이 업계에서 어떤 변화와 혁신을 만들어왔니. 알려줘](https://brunch.co.kr/@@8w7/239)
+
+---
+
 ## Substack
 
 - [`maximumeffort` / Maximum Effort, Minimum Reward](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)

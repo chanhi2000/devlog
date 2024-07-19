@@ -455,6 +455,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What's the Difference Between the useMemo and useCallback Hooks?",
+  "desc": "React provides various hooks that make it easier to manage application state and other React features in functional components. Hooks provide class component features to functional components, and they don't need a lot of code compared to class components. Hooks also make your life easier by providing some convenient features...",
+  "link": "/explore/articles/freecodecamp.org/difference-between-usememo-and-usecallback-hooks.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use React Router to Build Single Page Applications",
+  "desc": "Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents...",
+  "link": "/explore/articles/freecodecamp.org/use-react-router-to-build-single-page-applications.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

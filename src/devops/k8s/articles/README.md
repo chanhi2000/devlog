@@ -713,6 +713,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "모두가 말하지만 일부만 아는 ‘클라우드 네이티브’ | 요즘IT",
+  "desc": "모두가 말하지만 일부만 아는 ‘클라우드 네이티브’",
+  "link": "/explore/articles/yozm.wishket.com/2680.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

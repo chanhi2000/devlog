@@ -98,4 +98,10 @@ tag:
 
 ---
 
+## 권교의 개발 블로그
+
+- [싱가포르의 아파트(HDB)를 구매하기 위하여 계약금을 넣었다!](http://kwongyo.tistory.com/m/45)
+
+---
+
 <TagLinks />

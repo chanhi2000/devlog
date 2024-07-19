@@ -413,6 +413,7 @@ head:
 - [7.7. 책 오류 뷰 작성하기](https://ysedeveloper.tistory.com/m/entry/77-%EC%B1%85-%EC%98%A4%EB%A5%98-%EB%B7%B0-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [7.8. 책 상세 화면 확인하기](https://ysedeveloper.tistory.com/m/entry/78-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 - [8.1. 책 수정 화면 개요](https://ysedeveloper.tistory.com/m/entry/81-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EA%B0%9C%EC%9A%94)
+- [8.2. 책 수정 화면 응답 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/82-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EC%9D%91%EB%8B%B5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -485,6 +486,10 @@ head:
 ### Vojtech Ruzicka's Programming Blog
 
 - [Spring AI: Getting Started](https://www.vojtechruzicka.com/spring-ai/)
+
+### 나만의공간。
+
+- [\[spring\] embeded tomcat heapsize 부족 - oom](https://m.blog.naver.com/writer0713/223515711497)
 
 ---
 

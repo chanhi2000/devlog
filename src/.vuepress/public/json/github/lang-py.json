@@ -7163,10 +7163,10 @@
     "banner": ""
   }, {
     "repo": "MervinPraison/PraisonAI",
-    "desc": "PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",
+    "desc": "PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration. Chat with your ENTIRE Codebase.",
     "officialSite": "https://docs.praison.ai",
     "topics": [],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/454862?v=4",
     "banner": ""
   }, {
     "repo": "mem0ai/mem0",
@@ -7174,6 +7174,13 @@
     "officialSite": "https://docs.mem0.ai/",
     "topics": ["ai", "application", "chatbots", "chatgpt", "embeddings", "llm", "python", "rag", "vector-database"],
     "avatar": "https://avatars.githubusercontent.com/u/137054526?v=4",
+    "banner": ""
+  }, {
+    "repo": "prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more",
+    "officialSite": "https://prowler.com",
+    "topics": ["aws", "azure", "cis-benchmark", "cloud", "compliance", "devsecops", "forensics", "gcp", "gdpr", "hardening", "iam", "multi-cloud", "python", "security", "security-audit", "security-hardening", "security-tools", "well-architected"],
+    "avatar": "https://avatars.githubusercontent.com/u/97106991?v=4",
     "banner": ""
   }
 ]

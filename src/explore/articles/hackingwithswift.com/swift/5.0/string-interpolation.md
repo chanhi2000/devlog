@@ -81,7 +81,7 @@ let user = User(name: "Guybrush Threepwood", age: 33)
 print("User details: \(user)")
 ```
 
-That will print <strong>User details: My name is Guybrush Threepwood and I'm 33</strong>, whereas with the custom string interpolation it would have printed <strong>User details: User(name: "Guybrush Threepwood", age: 33)</strong>. Of course, that functionality is no different from just implementing the `CustomStringConvertible` protocol, so let’s move on to more advanced usages.
+That will print **User details: My name is Guybrush Threepwood and I'm 33**, whereas with the custom string interpolation it would have printed **User details: User(name: "Guybrush Threepwood", age: 33)**. Of course, that functionality is no different from just implementing the `CustomStringConvertible` protocol, so let’s move on to more advanced usages.
 
 Your custom interpolation method can take as many parameters as you need, labeled or unlabeled. For example, we could add an interpolation to print numbers using various styles, like this:
 

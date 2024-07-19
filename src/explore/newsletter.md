@@ -797,6 +797,13 @@ https://paperlined.org/
   logo="https://kt.academy/logo.png"
   preview="https://kt.academy/images/logo_full.png"/>
 
+<SiteInfo
+  name="Tecmint: Linux Howtos, Tutorials & Guides"
+  desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
+  url="https://tecmint.com/"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  preview="https://tecmint.com/wp-content/uploads/2022/06/tecmint-linux-blog.png"/>
+
 ```component VPCard
 {
   "title": "Home | Meta Open Source",
@@ -1087,6 +1094,20 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   url="https://blog.asana.com/category/eng/"
   logo="https://d1gwm4cf8hecp4.cloudfront.net/images/favicons/android-chrome-192x192.png"
   preview="https://blog.asana.com/wp-content/post-images/Blog-home-metadata-2021-3.png"/>
+
+<SiteInfo
+  name="Developer Archives - Work Life by Atlassian"
+  desc="Atlassian's team collaboration software like Jira, Confluence and Trello help teams organize, discuss, and complete shared work."
+  url="https://www.atlassian.com/blog/developer"
+  logo="https://atlassianblog.wpengine.com/wp-content/uploads/2017/10/android-chrome-256x256.png"
+  preview="https://atlassianblog.wpengine.com/wp-content/uploads/2024/07/1120x545-2x-blog-header@2x-1560x720.png"/>
+
+<SiteInfo
+  name="Homepage | Atomic Spin"
+  desc="Atomic Object’s blog on everything we find fascinating."
+  url="https://spin.atomicobject.com/"
+  logo="https://spin.atomicobject.com/favicon.ico"
+  preview="https://spin.atomicobject.com/wp-content/uploads/Atomic-Object-Spin.jpg"/>
 
 <!-- END: Tech Blog -->
 
