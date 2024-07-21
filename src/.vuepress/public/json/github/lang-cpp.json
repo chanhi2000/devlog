@@ -2119,5 +2119,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/20269775?v=4",
     "banner": ""
+  }, {
+    "repo": "rr-debugger/rr",
+    "desc": "Record and Replay Framework",
+    "officialSite": "http://rr-project.org/",
+    "topics": ["debugger", "gdb", "linux", "reverse-execution"],
+    "avatar": "https://avatars.githubusercontent.com/u/69774253?v=4",
+    "banner": ""
   }
 ]

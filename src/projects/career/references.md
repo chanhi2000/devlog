@@ -238,6 +238,10 @@ tag:
 - [`@ZVA` / 연구와 생산의 지리적 분리, 한국 제조업의 불안한 미래](https://brunch.co.kr/@@ZVA/706)
 - [`@2rV` / 트위치(Twitch)가 발견한 변곡점 - 책 Pattern Breakers에 소개된 Twitch](https://brunch.co.kr/@@2rV/144)
 - [`@1SwI` / 퍼포먼스를 해킹하는 방법](https://brunch.co.kr/@@1SwI/407)
+- [`@ZVA` / VC들은 왜 탈중앙화AI에 투자하나? 4가지 관전포인트](https://brunch.co.kr/@@ZVA/707)
+- [`@2weV` / 폴인 웨비나. '편한 커리어 성장은 없다'](https://brunch.co.kr/@@2weV/532)
+- [`@3L0s` / 디지털 혁신 실행: 서비스의 디지털화 - 디지털 혁신-15](https://brunch.co.kr/@@3L0s/118)
+- [`@2rV` / 어려운 동료와의 대화: 불편함을 해결하는 전략 - 일하기 힘든 사람들을 대하는 현명한 방법](https://brunch.co.kr/@@2rV/145)
 
 <!-- END: brunch.co.kr -->
 
@@ -1355,6 +1359,12 @@ https://blog.naver.com/&logId=
 ## 사랑나무아빠의 행복한 세상
 
 - [IT 프로그래머로 살아남기 위한 개발자 실무 교육 필요성](https://m.blog.naver.com/hupers/223516480982)
+
+---
+
+## 회색분자의 IT 창작 놀이터
+
+- [질문 리더쉽은 반대 : 집중해야 할 것](https://greypencil.tistory.com/m/216)
 
 ---
 

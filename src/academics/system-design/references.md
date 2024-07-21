@@ -248,6 +248,8 @@ head:
 - [`@2fEJ` / 휴리스틱 원칙의 한계와 프로덕트에 적용 방안 - UX 디자인 이야기 #30](https://brunch.co.kr/@@2fEJ/1426)
 - [`@2fEJ` / 파일럿 테스트의 중요성과 효과적인 활용 방법 - UX 리서치 이야기 #31](https://brunch.co.kr/@@2fEJ/1427)
 - [`@2fEJ` / 애플의 독특한 UX 리서치 접근법과 그 특징 - UX 리서치 이야기 #32](https://brunch.co.kr/@@2fEJ/1437)
+- [`@2fEJ` / 애플의 독특한 UX 리서치 접근법과 그 특징 - UX 리서치 이야기 #32](https://brunch.co.kr/@@2fEJ/1437)
+- [`@2fEJ` / UX 디자인의 핵심 요소와 UX 프로세스 선택의 유연성 - UX 디자인 이야기 #31](https://brunch.co.kr/@@2fEJ/1438)
 
 <!-- END: brunch.co.kr -->
 
@@ -309,6 +311,7 @@ head:
 - [[내일배움캠프 23일차 TIL] 유스케이스 다이어그램 및 RESTful한 API설계(Param vs Query vs Body)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-23%EC%9D%BC%EC%B0%A8-TIL-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%8F-RESTful%ED%95%9C-API%EC%84%A4%EA%B3%84Param-vs-Query-vs-Body)
 - [\[내일배움캠프 34일차 TIL\] 뉴스피드 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-34%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
 - [\[내일배움캠프 59일차 TIL\] 심화 프로젝트 시작](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-59%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%AC%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91)
+- [\[내일배움캠프 65일차 TIL\] 최종 프로젝트 - 기획 & 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EC%84%A4%EA%B3%84)
 
 ---
 

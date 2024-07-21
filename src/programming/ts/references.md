@@ -575,4 +575,10 @@ head:
 
 ---
 
+## Effective TypeScript
+
+- [A TypeScripter's Take on Zig (Advent of Code 2023)](https://effectivetypescript.com/2024/07/17/advent2023-zig/)
+
+---
+
 <TagLinks />

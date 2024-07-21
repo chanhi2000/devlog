@@ -1109,6 +1109,13 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://spin.atomicobject.com/favicon.ico"
   preview="https://spin.atomicobject.com/wp-content/uploads/Atomic-Object-Spin.jpg"/>
 
+<SiteInfo
+  name="Apps For Apple Vision Pro"
+  desc="Discover new and exciting apps for visionOS from developers of all sizes. Enjoy groundbreaking immersive experiences, explore new universes and get to know visionOS apps that are available on Apple Vision Pro."
+  url="https://appsforapplevision.com/blog"
+  logo="https://appsforapplevision.com/favicon.ico"
+  preview="https://appsforapplevision.com/images/og-image.jpeg"/>
+
 <!-- END: Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)

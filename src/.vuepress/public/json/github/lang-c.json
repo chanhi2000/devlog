@@ -1567,5 +1567,12 @@
     "topics": ["c", "ddos", "embedded", "fast", "flood", "hping", "ip", "linux", "multithreading", "nping", "openwrt", "packet-crafting", "packet-generator", "penetration-testing", "pentesting", "posix", "router", "security-tools", "tcp", "userspace"],
     "avatar": "https://avatars.githubusercontent.com/u/42461518?v=4",
     "banner": ""
+  }, {
+    "repo": "NVIDIA/open-gpu-kernel-modules",
+    "desc": "NVIDIA Linux open GPU kernel module source",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
+    "banner": ""
   }
 ]

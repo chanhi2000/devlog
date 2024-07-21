@@ -88,8 +88,17 @@ head:
 }
 ```
 
-<!-- END: freecodecamp.org -->
+```component VPCard
+{
+  "title": "How to Migrate a Flutter Application from GetIt to Bloc",
+  "desc": "When I first built an application using Flutter, I quickly ran into situations where I needed to pass state from widget to widget. These widgets weren’t directly related and all I knew back then was that there were only Stateless widgets or Stateful ones. I found it hard to...",
+  "link": "/explore/articles/freecodecamp.org/migrate-a-flutter-application-from-getit-to-bloc.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
+<!-- END: freecodecamp.org -->
 
 ---
 

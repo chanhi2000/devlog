@@ -62,5 +62,12 @@
     "topics": ["browser", "compression", "localstorage", "typescript", "web", "zig"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "Vexu/arocc",
+    "desc": "A C compiler written in Zig.",
+    "officialSite": "http://aro.vexu.eu/",
+    "topics": ["c", "compiler", "zig"],
+    "avatar": "https://avatars.githubusercontent.com/u/15308111?v=4",
+    "banner": ""
   }
 ]

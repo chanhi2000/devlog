@@ -427,6 +427,12 @@ tag:
 
 ---
 
+## The Python Package Index Blog
+
+- [Incident Report: Leaked GitHub Personal Access Token](https://blog.pypi.org/posts/2024-07-08-incident-report-leaked-admin-personal-access-token/)
+
+---
+
 ## Project(s)
 
 ```component VPCard

@@ -69,6 +69,7 @@ head:
 - [`@artemismars2` / NEXT 공식문서 읽기 D2](https://until.blog/@artemismars2/next-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EC%9D%BD%EA%B8%B0-d2)
 - [`@woongsnote` / Next.js에서 노션 데이터베이스 사용하기](https://until.blog/@woongsnote/next-js%EC%97%90%EC%84%9C-%EB%85%B8%EC%85%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [`@morethanmin` / next.js 로컬 환경에서 https 개발 환경 만들기 (mkcert)](https://until.blog/@morethanmin/next-js-%EB%A1%9C%EC%BB%AC-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-https-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0--mkcert-)
+- [`@love` / Next.js에 mixpanel 연동하기](https://until.blog/@love/next-js%EC%97%90-mixpanel-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 
 ---
 

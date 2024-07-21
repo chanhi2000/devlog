@@ -60,6 +60,7 @@ export const template: SidebarInfoTemplate = {
       "upload-large-files-with-aws", // 2024-07-08
       "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
       "how-to-deploy-node-js-app-on-azure", // 2024-07-17
+      "learn-javascript-reactivity-build-signals-from-scratch", // 2024-07-18
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -106,6 +107,7 @@ export const template: SidebarInfoTemplate = {
       "mastering-shadcn-ui-components", // 2024-06-28
       "nextjs-clerk-neon-fullstack-development", // 2024-07-10
       "server-side-rendering-in-next-js-for-improved-seo", // 2024-07-17
+      "next-js-performance-optimization", // 2024-07-19
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -167,6 +169,7 @@ export const template: SidebarInfoTemplate = {
       "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
       "build-a-youtube-clone-with-flutter-firebase-and-riverpod", // 2024-06-04
       "migrate-from-play-core-library", // 2024-06-26
+      "migrate-a-flutter-application-from-getit-to-bloc", // 2024-07-19
     ]],[
     "rust", [
       "procedural-macros-in-rust", // 2024-04-24
@@ -497,6 +500,9 @@ export const template: SidebarInfoTemplate = {
       "create-24-css-projects", // 2024-07-17
       "pass-the-github-advanced-security-certification-exam", // 2024-07-17
       "use-react-router-to-build-single-page-applications", // 2024-07-18
+      "learn-javascript-reactivity-build-signals-from-scratch", // 2024-07-18
+      "next-js-performance-optimization", // 2024-07-19
+      "migrate-a-flutter-application-from-getit-to-bloc", // 2024-07-19
     ]],
   ]),
 }

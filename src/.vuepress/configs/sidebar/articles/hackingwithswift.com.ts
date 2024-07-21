@@ -365,18 +365,32 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/02/overview.md',
+              '/explore/articles/hackingwithswift.com/read/02/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/02/02-designing-your-layout.md',
+              '/explore/articles/hackingwithswift.com/read/02/03-making-the-basic-game-work-uibutton-and-calayer.md',
+              '/explore/articles/hackingwithswift.com/read/02/04-guess-which-flag-random-numbers.md',
+              '/explore/articles/hackingwithswift.com/read/02/05-from-outlets-to-actions-creating-an-ibaction.md',
+              '/explore/articles/hackingwithswift.com/read/02/06-wrap-up.md',
             ]
           }, {
             text: 'Project 3: Social Media',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/03/overview.md',
+              '/explore/articles/hackingwithswift.com/read/03/01-about-technique-projects.md',
+              '/explore/articles/hackingwithswift.com/read/03/02-uiactivityviewcontroller-explained.md',
+              '/explore/articles/hackingwithswift.com/read/03/03-wrap-up.md',
             ]
           }, {
             text: 'Project 4: Easy Browser',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/04/overview.md',
+              '/explore/articles/hackingwithswift.com/read/04/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/04/02-creating-a-simple-browser-with-wkwebview.md',
+              '/explore/articles/hackingwithswift.com/read/04/03-choosing-a-website-uialertcontroller-action-sheets.md',
+              '/explore/articles/hackingwithswift.com/read/04/04-monitoring-page-loads-uitoolbar-and-uiprogressview.md',
+              '/explore/articles/hackingwithswift.com/read/04/05-refactoring-for-the-win.md',
             ]
           }, {
             text: 'Project 5: Word Scramble',

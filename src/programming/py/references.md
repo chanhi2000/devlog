@@ -194,6 +194,7 @@ head:
 - [`bitecode` / Testing with Python (part 5): the different types of tests](https://www.bitecode.dev/p/testing-with-python-part-5-the-different)
 - [`codingconfessions` / CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
 - [`johnloewen` / A Beautiful and Timely Python Multi-page Streamlit Application](https://johnloewen.substack.com/p/a-beautiful-and-timely-python-multi)
+- [`pythonpapers` / Creating Images in Your Terminal with Python and Rich Pixels](https://www.pythonpapers.com/p/creating-images-in-your-terminal)
 
 <!-- END: substack.com -->
 
@@ -324,6 +325,7 @@ head:
 
 - [`@yysttong` / Python: DuckDB(4)](https://brunch.co.kr/@yysttong/128)
 - [`@1aft` / Python: DuckDB(5)](https://brunch.co.kr/@1aft/131)
+- [`@1aft` / Python : 1 / 8145060 - #로또확률 #긴여정 #파이썬과로또](https://brunch.co.kr/@@1aft/136)
 
 ---
 
@@ -735,6 +737,7 @@ head:
 - [XGBoost에서 파이프라인 사용하여 표준화(standardization) 적용하기](https://webnautes.tistory.com/m/2352)
 - [`defaultdict` vs `dict`: 파이썬에서의 효율적인 카운팅 방법 비교](https://webnautes.tistory.com/m/2354)
 - [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](http://webnautes.tistory.com/m/2356)
+- [누구나 다하는 파이썬 강좌 - 제어문](https://webnautes.tistory.com/m/2357)
 
 ---
 
@@ -1920,6 +1923,7 @@ head:
 ## PyPy
 
 - [Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing](https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html)
+- [Mining JIT traces for missing optimizations with Z3](https://pypy.org/posts/2024/07/mining-jit-traces-missing-optimizations-z3.html)
 
 ---
 
@@ -2050,6 +2054,12 @@ head:
 ## Eugene Yan
 
 - [Writing Robust Tests for Data & Machine Learning Pipelines](https://eugeneyan.com/writing/testing-pipelines/)
+
+---
+
+## Summary Of Summer
+
+- [\[코드트리 조별과제\] 1주차 - 프로그래밍 기초](https://su-mmer.tistory.com/m/129)
 
 ---
 

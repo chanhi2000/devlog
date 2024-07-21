@@ -91,6 +91,7 @@ head:
 - [`@jwlee010523` / 트리(Tree)](https://velog.io/@jwlee010523/tree)
 - [`@jwlee010523` / 이진 탐색 트리(Binary Search Tree)](https://velog.io/@jwlee010523/Binary-Search-Tree)
 - [`@jwlee010523` / 백준 2346 - C++](https://velog.io/@jwlee010523/BOJ-2346-cpp)
+- [`@jwlee010523` / \[C++\] 백준 1158 ](https://velog.io/@jwlee010523/BOJ-1158-cpp)
 
 <!-- END: velog.io -->
 
@@ -99,6 +100,12 @@ head:
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@wolfsil` - c++ 요약](https://blex.me/@wolfsil/c-%EC%96%B8%EC%96%B4-%EC%9A%94%EC%95%BD)
+
+---
+
+## üntil
+
+- [`@sin0105` / 코딩테스트 준비 - 폰켓몬](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%ED%8F%B0%EC%BC%93%EB%AA%AC)
 
 ---
 
@@ -200,6 +207,9 @@ head:
 - [\[Q&A\] CString 클래스를 API 함수에 사용하는 예시도 보고 싶습니다.](https://m.blog.naver.com/tipsware/223512320785)
 - [\[Q&A\] Do it! C 언어 입문 동영상 강좌 17-1에서 오류가 발생합니다.](https://m.blog.naver.com/tipsware/223512976667?fromRss=true&trackingCode=rss)
 - [\[LabX\] *.rc 파일에서 원하는 스크립트 정보 분리하기 - Step 2](https://m.blog.naver.com/tipsware/223515947659)
+- [LxMFC - 로그인 기반 채팅 예제 (Socket 프로그래밍)](https://m.blog.naver.com/tipsware/223518473959)
+- [LxMFC - 컴퓨터에 연결된 CAM에서 영상 가져와서 패턴 색상 직접 변경하기](https://m.blog.naver.com/tipsware/223519755297)
+- [좌표 개념 없이 출력문 사용하기 (_printf 함수)](https://m.blog.naver.com/tipsware/223519851250)
 
 <!-- END: blog.naver.com/tipsware/ -->
 
@@ -281,6 +291,7 @@ head:
 - [\[백준 31997번\] 즐거운 회의](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-31997%EB%B2%88-%EC%A6%90%EA%B1%B0%EC%9A%B4-%ED%9A%8C%EC%9D%98)
 - [\[백준 32036번\] 수열과 쿼리 45](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32036%EB%B2%88-%EC%88%98%EC%97%B4%EA%B3%BC-%EC%BF%BC%EB%A6%AC-45)
 - [\[백준 32068번\] 보물 찾기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32068%EB%B2%88-%EB%B3%B4%EB%AC%BC-%EC%B0%BE%EA%B8%B0)
+- [\[백준 32069번\] 가로등](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32069%EB%B2%88-%EA%B0%80%EB%A1%9C%EB%93%B1)
 
 ---
 

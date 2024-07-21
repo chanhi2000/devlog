@@ -22,7 +22,7 @@ head:
       content: "Project 15: Animation"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/15/overview.html
-sisOriginal: false
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련

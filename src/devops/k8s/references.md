@@ -374,6 +374,7 @@ head:
 
 - [Kubernetes Control-Plane Node에 Taint 해제](https://jeongchul.tistory.com/m/712)
 - [Kubernetes NFS StorageClass with MySQL](https://jeongchul.tistory.com/m/715)
+- [ArgoCD Kubernetes 구축](http://jeongchul.tistory.com/m/716)
 
 ---
 

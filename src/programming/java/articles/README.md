@@ -449,6 +449,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "자바 가독성 높이는 5가지 팁 | 요즘IT",
+  "desc": "자바 가독성 높이는 5가지 팁",
+  "link": "/explore/articles/yozm.wishket.com/2682.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그

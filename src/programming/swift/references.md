@@ -97,6 +97,7 @@ tag:
 - [`@kirri1124` / Swift Concurrency 2](https://velog.io/@kirri1124/Swift-Concurrency-2)
 - [`@kirri1124` / Swift Concurrency 3](https://velog.io/@kirri1124/Swift-Concurrency-3)
 - [`@jwlee010523` / SwiftUI - State와 Binding](https://velog.io/@jwlee010523/SwiftUI-State-Binding)
+- [`@jwlee010523` / SwiftUI - Property Wrapper](https://velog.io/@jwlee010523/SwiftUI-PropertyWrapper)
 
 <!-- END: velog.io -->
 
@@ -166,7 +167,6 @@ tag:
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Swift: Evolution and backward compatibility. Exploring `@available` and `#available` attributes.](https://dev.to/bsorrentino/swift-evolution-and-backward-compatibility-exploring-available-and-available-attributes-51il)
-
 
 ---
 
@@ -272,6 +272,7 @@ tag:
 - [Using iOS 18’s new TabView with a sidebar](https://donnywals.com/using-ios-18s-new-tabview-with-a-sidebar)
 - [Mixing colors in SwiftUI and Xcode 16](https://www.donnywals.com/mixing-colors-in-swiftui-and-xcode-16/)
 - [Using `PreviewModifier` to build a previewing environment](https://www.donnywals.com/using-previewmodifier-to-build-a-previewing-environment/)
+- [Adding values to the SwiftUI environment with Xcode 16’s Entry macro](https://www.donnywals.com/adding-values-to-the-swiftui-environment-with-xcode-16s-entry-macro/)
 
 ---
 
@@ -864,6 +865,30 @@ tag:
 ## Yaacoub
 
 - [Hello Swift Charts - WWDC 2022](https://yaacoub.github.io/articles/swift-tip/hello-swift-charts-wwdc-2022/)
+
+---
+
+## SwiftToolkit.dev
+
+- [Using SwiftUI in Command Line Tools](https://swifttoolkit.dev/posts/swiftui-meets-command-line)
+
+---
+
+## Rudrank
+
+- [Exploring SwiftUI: Make SF Symbols Wiggle Wiggle](https://www.rudrank.com/exploring-swiftui-make-sf-symbols-wiggle/)
+
+---
+
+## TIL with Mohammad
+
+- [Some vs Any](https://mfaani.com/posts/swift/some-vs-any/)
+
+---
+
+## Appmilla – FinTech App Agency
+
+- [Harnessing the Power of Kotlin Multiplatform: Combining Native and Shared UIs](https://appmilla.com/latest/harnessing-the-power-of-kotlin-multiplatform-combining-native-and-shared-uis/)
 
 ---
 

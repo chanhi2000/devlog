@@ -4457,5 +4457,19 @@
     "topics": ["branching", "conditions", "exhaustive", "inference", "javascript", "matching", "pattern", "pattern-matching", "ts", "type-inference", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/9265418?v=4",
     "banner": ""
+  }, {
+    "repo": "ZuodaoTech/everyone-can-use-english",
+    "desc": "人人都能用英语",
+    "officialSite": "https://1000h.org",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/87694204?v=4",
+    "banner": ""
+  }, {
+    "repo": "BuilderIO/micro-agent",
+    "desc": "An AI agent that writes (actually useful) code for you",
+    "officialSite": "https://www.builder.io/blog/micro-agent",
+    "topics": ["agent", "ai", "figma", "javascript", "react", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/35700027?v=4",
+    "banner": ""
   }
 ]

@@ -22,7 +22,7 @@ head:
       content: "Project 4: Easy Browser"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/04/overview.html
-sisOriginal: false
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,7 +57,66 @@ Embed Web Kit and learn about delegation, KVO, classes and UIToolbar.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/04/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating a simple browser with WKWebView | Hacking with iOS",
+  "desc": "Creating a simple browser with WKWebView",
+  "link": "/explore/articles/hackingwithswift.com/read/04/02-creating-a-simple-browser-with-wkwebview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Choosing a website: UIAlertController action sheets | Hacking with iOS",
+  "desc": "Choosing a website: UIAlertController action sheets",
+  "link": "/explore/articles/hackingwithswift.com/read/04/03-choosing-a-website-uialertcontroller-action-sheets.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Monitoring page loads: UIToolbar and UIProgressView | Hacking with iOS",
+  "desc": "Monitoring page loads: UIToolbar and UIProgressView",
+  "link": "/explore/articles/hackingwithswift.com/read/04/04-monitoring-page-loads-uitoolbar-and-uiprogressview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Refactoring for the win | Hacking with iOS",
+  "desc": "Refactoring for the win",
+  "link": "/explore/articles/hackingwithswift.com/read/04/05-refactoring-for-the-win.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/04/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
 
 ---
 

@@ -22,7 +22,8 @@ head:
       content: "Project 2: Guess the Flag"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/02/overview.html
-sisOriginal: false
+prev: /explore/articles/hackingwithswift.com/read/01/07-wrap-up.md
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,7 +58,65 @@ Make a game using UIKit, and learn about integers, buttons, colors and actions.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/02/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Designing your layout | Hacking with iOS",
+  "desc": "Designing your layout",
+  "link": "/explore/articles/hackingwithswift.com/read/02/02-designing-your-layout.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Making the basic game work: UIButton and CALayer | Hacking with iOS",
+  "desc": "Making the basic game work: UIButton and CALayer",
+  "link": "/explore/articles/hackingwithswift.com/read/02/03-making-the-basic-game-work-uibutton-and-calayer.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Guess which flag: random numbers | Hacking with iOS",
+  "desc": "Guess which flag: random numbers",
+  "link": "/explore/articles/hackingwithswift.com/read/02/04-guess-which-flag-random-numbers.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "From outlets to actions: creating an IBAction | Hacking with iOS",
+  "desc": "From outlets to actions: creating an IBAction",
+  "link": "/explore/articles/hackingwithswift.com/read/02/05-from-outlets-to-actions-creating-an-ibaction.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/02/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

@@ -262,6 +262,7 @@ head:
 - [2024년 오픈소스 대형언어모델 소개](https://daddynkidsmakers.blogspot.com/2024/06/2024.html)
 - [AutoRAG 활용 LLM RAG 최적화하기](https://daddynkidsmakers.blogspot.com/2024/07/autorag-llm-rag.html)
 - [LLM 기반 센서 데이터 해석 방법](https://daddynkidsmakers.blogspot.com/2024/07/llm_17.html)
+- [sLLM과 vLLM에 대한 이야기](https://daddynkidsmakers.blogspot.com/2024/07/sllm-vllm.html)
 
 <!-- END: daddynkidsmakers.blogspot.com -->
 
@@ -371,6 +372,18 @@ head:
 ## AI Convergence
 
 - [\[Embedding\] 중간값과 백터](http://mobicon.tistory.com/m/605)
+
+---
+
+## 데엔잘하고싶은데엔🔥💎
+
+- [Triton Inference Server 모델서빙1 - NVIDA Triton(트리톤)이란?](https://pearlluck.tistory.com/m/821)
+
+---
+
+## 포티투닷 | 42dot - We Are A Mobility AI Company
+
+- [42dot LLM 1.3B](https://42dot.ai/blog/178)
 
 ---
 

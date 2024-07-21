@@ -551,5 +551,12 @@
     "topics": ["android", "jetpack-compose", "keyboard", "kotlin", "kotlin-android", "material-3", "material-design-3", "material-you", "speech-recognition", "speech-to-text"],
     "avatar": "https://avatars.githubusercontent.com/u/92235850?v=4",
     "banner": ""
+  }, {
+    "repo": "StochasticTinkr/kotlin4vulkan",
+    "desc": "A Kotlin binding for Vulkan on top of LWJGL 3. ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/12673966?v=4",
+    "banner": ""
   }
 ]

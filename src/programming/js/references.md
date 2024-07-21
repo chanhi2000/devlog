@@ -183,6 +183,7 @@ head:
 ## üntil
 
 - [`@nova` / 알아두면 유용한 8가지 자바스크립트 팁](https://until.blog/@nova/%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%9C%A0%EC%9A%A9%ED%95%9C-8%EA%B0%80%EC%A7%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8C%81)
+- [`@swmg03` / 백준 JS 풀기 - 입출력과 사칙연산](https://until.blog/@swmg03/%EB%B0%B1%EC%A4%80-js-%ED%92%80%EA%B8%B0)
 
 ---
 
@@ -560,6 +561,7 @@ head:
 ## David Gerrells
 
 - [How fast is javascript? Simulating 20,000,000 particles](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
+- [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 
 ---
 
@@ -591,6 +593,12 @@ head:
 
 - [How to write your first unit test in JavaScript](https://snyk.io/blog/how-to-write-unit-test-in-javascript/)
 
---
+---
+
+## 멈춤보단 천천히라도
+
+- [JavaScript를 사용하여 웹브라우저에서 RTSP 영상 재생하기](https://webnautes.tistory.com/m/1934)
+
+---
 
 <TagLinks />

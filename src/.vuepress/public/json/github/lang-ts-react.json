@@ -179,5 +179,12 @@
     "desc": "Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises",
     "officialSite": "https://show.saasfly.io",
     "topics": ["bun", "enterprise-boilerplate", "i18n", "kysely", "landingpage", "monorepo", "nextauth", "nextjs", "nextjs15", "postgresql", "prisma", "react19", "saas-boilerplate", "serverless", "shadcn", "stripe", "tailwindcss", "turborepo", "vercel"]
+  }, {
+    "repo": "uiwjs/react-codemirror",
+    "desc": "CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/",
+    "officialSite": "https://uiwjs.github.io/react-codemirror/",
+    "topics": ["codemirror", "codemirror-themes", "codemirror6", "editor", "hook", "ide", "react", "react-codemirror", "react-codemirror2", "themes", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/33082374?v=4",
+    "banner": ""
   }
 ]

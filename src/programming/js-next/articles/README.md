@@ -92,6 +92,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Optimize Next.js App Performance With Lazy Loading",
+  "desc": "People don't like using slow applications. And the initial load time matters a lot for web applications and websites.  An application that takes more than 3 seconds to load is considered slow and may cause users to leave the application or website. Next.js is a React-based framework you can...",
+  "link": "/explore/articles/freecodecamp.org/next-js-performance-optimization.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

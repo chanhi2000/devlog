@@ -27,6 +27,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-notion"/>Notion
+
+- [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
+
+---
+
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` / \[꿀팁\] Notion 단축키📖 (북마크 추천!!)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-Notion-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)

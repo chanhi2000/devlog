@@ -61,4 +61,10 @@ head:
 
 ---
 
+## Outsider's Dev Story
+
+- [GitHub Copilot Workspace: 이슈에서 시작하는 Copilot 네이티브 개발 환경](https://blog.outsider.ne.kr/1730)
+
+---
+
 <TagLinks />

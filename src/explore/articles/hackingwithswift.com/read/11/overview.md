@@ -22,7 +22,7 @@ head:
       content: "Project 11: Pachinko"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/11/overview.html
-sisOriginal: false
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련

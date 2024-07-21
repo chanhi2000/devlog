@@ -255,8 +255,8 @@
     "repo": "2dust/v2rayNG",
     "desc": "A V2Ray client for Android, support Xray core and v2fly core",
     "officialSite": "https://1.2345345.xyz",
-    "topics": ["android", "proxy", "socks5", "shadowsocks", "vpn", "trojan", "v2ray", "vmess", "xray", "v2fly", "vless", "xtls"],
-    "avatar": "",
+    "topics": ["android", "proxy", "shadowsocks", "socks5", "trojan", "v2fly", "v2ray", "vless", "vmess", "vpn", "xray", "xtls"],
+    "avatar": "https://avatars.githubusercontent.com/u/31833384?v=4",
     "banner": ""
   }, {
     "repo": "agrosner/DBFlow",
@@ -677,6 +677,20 @@
     "officialSite": "",
     "topics": ["androidstudio-plugin", "compose", "compose-multiplatform", "imagevector"],
     "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lepicekmichal/SignalRKore",
+    "desc": "A Kotlin multiplatform coroutine-based SignalR client.",
+    "officialSite": "",
+    "topics": ["android", "client", "coroutines", "ios", "js", "jvm", "kotlin", "multiplatform", "multiplatform-kotlin-library", "signalr", "signalr-client", "signalr-core", "web-socket", "websocket"],
+    "avatar": "https://avatars.githubusercontent.com/u/2405645?v=4",
+    "banner": ""
+  }, {
+    "repo": "composablehorizons/composables-core",
+    "desc": "Unstyled, fully accessible Compose Multiplatform UI components that you can customize to your heart's desire.",
+    "officialSite": "https://composablehorizons.github.io/composables-core/",
+    "topics": ["android", "compose-desktop", "compose-multiplatform", "compose-web", "ios", "jetpack-compose", "kotlinmultiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/112760983?v=4",
     "banner": ""
   }
 ]

@@ -22,6 +22,7 @@ head:
       content: "Wrap up"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/01/07-wrap-up.html
+next: /explore/articles/hackingwithswift.com/read/02/overview.md
 isOriginal: false
 ---
 

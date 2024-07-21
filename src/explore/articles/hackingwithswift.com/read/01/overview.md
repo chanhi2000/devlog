@@ -22,7 +22,8 @@ head:
       content: "Project 1: Storm Viewer"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/01/overview.html
-sisOriginal: false
+prev: /explore/articles/hackingwithswift.com/read/00/25-wrap-up.md
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련

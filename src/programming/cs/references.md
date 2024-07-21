@@ -94,6 +94,7 @@ head:
 - [`lovelacecoding` / Modern C# Development: Get Started With TimeOnly](https://dev.to/lovelacecoding/modern-c-development-get-started-with-timeonly-53ej)
 - [`dotnet` / Leveraging Existing Web Content to Build Hybrid Apps with .NET MAUI](https://dev.to/dotnet/leveraging-existing-web-content-to-build-hybrid-apps-with-net-maui-48me)
 - [`bilalarxd` / Optimize Your C# Skills: A Comprehensive Guide to Best Practices and Tips](https://dev.to/bilalarxd/5-game-changing-c-11-tips-and-tricks-you-need-to-know-with-examples-2cm6)
+- [`no-platform` / 3 productivity tips for .NET developers](https://dev.to/uno-platform/3-productivity-tips-for-net-developers-4mmo)
 
 ---
 
@@ -504,6 +505,7 @@ head:
 ## Bruno Sonnino - Thoughts about development
 
 - [Log Formatters in C#](https://blog.revolution.com.br/2023/07/17/log-formatters-in-c/)
+- [Modernizing your WPF application with the Fluent theme](https://blog.revolution.com.br/2024/07/06/modernizing-your-wpf-application-with-the-fluent-theme/)
 
 ---
 

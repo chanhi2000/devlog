@@ -116,4 +116,10 @@ head:
 
 ---
 
+## 뷰티풀 프로그래밍
+
+- [IdeaVim Action Id찾기](https://krksap.tistory.com/m/2305)
+
+---
+
 <TagLinks />

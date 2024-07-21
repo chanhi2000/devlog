@@ -114,9 +114,15 @@ head:
 
 ---
 
-### Sujan Poudel
+## Sujan Poudel
 
 - [Manage configurations for the different environment (eg: staging, prod) in Kotlin Multiplatform](https://sujanpoudel.me/blogs/kmp-setup-config-for-different-environment-in-kmp/)
+
+---
+
+## Touchlab: The KMP Industry Leader
+
+- [Xcode-Kotlin 2.0 Release](https://touchlab.co/xcode-kotlin-2-0)
 
 ---
 

@@ -348,6 +348,8 @@ tag:
 - [`@yeonwoo`: 이연우](https://until.blog/@yeonwoo)
   - [express.js에서 css가 로딩이 안됨](https://until.blog/@yeonwoo/express-js%EC%97%90%EC%84%9C-css%EA%B0%80-%EB%A1%9C%EB%94%A9%EC%9D%B4-%EC%95%88%EB%90%A8)
   - [서버가 뭔지 이해하기 쉽게 알려줌](https://until.blog/@yeonwoo/%EC%84%9C%EB%B2%84%EA%B0%80-%EB%AD%94%EC%A7%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%BD%EA%B2%8C-%EC%95%8C%EB%A0%A4%EC%A4%8C)
+- [`@love` / env 파일 우선순위](https://until.blog/@love/env-%ED%8C%8C%EC%9D%BC-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84)
+- [`@ganymedian` / # 4-1 useAxiosFetch 보완](https://until.blog/@ganymedian/--4-1-useaxiosfetch-%EB%B3%B4%EC%99%84)
 
 ---
 
@@ -1275,6 +1277,18 @@ tag:
 ## 주로로 통신
 
 - [\[node.js\] 설치 for mac](http://babysunmoon.tistory.com/m/entry/nodejs-%EC%84%A4%EC%B9%98-for-mac)
+
+---
+
+## Gseok Blog
+
+- [htmx 소개](https://gseok.github.io/tech-talk-2024/2024-07-18-htmx/)
+
+---
+
+## Platformatic Blog
+
+- [A guide to reading and writing Node.js streams](https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams)
 
 ---
 

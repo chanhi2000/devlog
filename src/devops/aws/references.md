@@ -485,4 +485,10 @@ head:
 
 ---
 
+## 컴맹 : 진화의 시작
+
+- [AWS Redshift: WLM, Queue, and Slot](http://jybaek.tistory.com/m/504716)
+
+---
+
 <TagLinks />

@@ -337,4 +337,10 @@ tag:
 
 ---
 
+## Blog by Joren Vrancken
+
+- [Carving ELF Files](https://blog.nietaanraken.nl/posts/elf-file-size/)
+
+---
+
 <TagLinks />

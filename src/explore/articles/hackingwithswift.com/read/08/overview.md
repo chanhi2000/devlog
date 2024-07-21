@@ -22,7 +22,7 @@ head:
       content: "Project 8: 7 Swifty Words"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/08/overview.html
-sisOriginal: false
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련

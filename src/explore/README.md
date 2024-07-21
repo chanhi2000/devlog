@@ -695,6 +695,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://buzzinga.io/favicon.svg"
   preview="https://buzzinga.s3.us-east-2.amazonaws.com/75cdf8146ced554ebae24fd8872f07682f3d62a6a05c78d130b5266d7e111b1b"/>
 
+<SiteInfo
+  name="(glisp)"
+  desc="A Lisp-based Design Tool Bridging Graphic Design and Computational Arts"
+  url="https://glisp.app/commit:e7fbaae/"
+  logo="https://glisp.app/commit:e7fbaae/favicon/apple-touch-icon.png"
+  preview="https://glisp.app/commit:e7fbaae/ogp.png"/>
+
 <!-- END:  Cool Project -->
 
 @tab Portfolio / Resume

@@ -431,6 +431,8 @@ head:
 - [L1, L2 Regularization](https://devs0n.tistory.com/164)
 - [Dijkstra 알고리즘 문제 유형](https://devs0n.tistory.com/173)
 - [앙상블 기법](https://devs0n.tistory.com/174)
+- [\[통계\] 확률분포의 Expected Value & Variance](https://devs0n.tistory.com/m/187)
+- [\[통계\] KL Divergence](https://devs0n.tistory.com/m/188)
 
 ---
 

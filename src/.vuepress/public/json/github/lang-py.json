@@ -4135,9 +4135,9 @@
     "desc": "💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows",
     "officialSite": "https://neuml.github.io/txtai",
     "topics": ["embeddings", "information-retrieval", "language-model", "large-language-models", "llm", "machine-learning", "neural-search", "nlp", "python", "rag", "retrieval-augmented-generation", "search", "search-engine", "semantic-search", "sentence-embeddings", "transformers", "txtai", "vector-database", "vector-search", "vector-search-engine"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/59890304?v=4",
     "banner": ""
-  }, {
+  }{
     "repo": "dvmazur/mixtral-offloading",
     "desc": "Run Mixtral-8x7B models in Colab or consumer desktops",
     "officialSite": "",
@@ -7181,6 +7181,13 @@
     "officialSite": "https://prowler.com",
     "topics": ["aws", "azure", "cis-benchmark", "cloud", "compliance", "devsecops", "forensics", "gcp", "gdpr", "hardening", "iam", "multi-cloud", "python", "security", "security-audit", "security-hardening", "security-tools", "well-architected"],
     "avatar": "https://avatars.githubusercontent.com/u/97106991?v=4",
+    "banner": ""
+  }, {
+    "repo": "g1879/DrissionPage",
+    "desc": "基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。",
+    "officialSite": "http://g1879.gitee.io/drissionpagedocs",
+    "topics": ["automation-framework", "crawlers", "requests", "selenium-python"],
+    "avatar": "https://avatars.githubusercontent.com/u/50311409?v=4",
     "banner": ""
   }
 ]

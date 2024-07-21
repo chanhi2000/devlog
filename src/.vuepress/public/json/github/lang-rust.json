@@ -2305,5 +2305,19 @@
     "topics": ["flac", "mediaserver", "music", "music-library", "music-player", "musichoarder"],
     "avatar": "https://avatars.githubusercontent.com/u/506953?v=4",
     "banner": ""
+  }, {
+    "repo": "TraceMachina/nativelink",
+    "desc": "NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.",
+    "officialSite": "https://nativelink.com",
+    "topics": ["apache2", "bazel", "buck2", "build-automation", "build-system", "chromium", "ci", "content-addressable-storage", "free", "nix", "re-client", "remote-execution", "rust", "simulation"],
+    "avatar": "https://avatars.githubusercontent.com/u/144973251?v=4",
+    "banner": ""
+  }, {
+    "repo": "ADD-SP/json-threat-protection.rs",
+    "desc": "A crate to protect against malicious JSON payloads.",
+    "officialSite": "https://docs.rs/json-threat-protection",
+    "topics": ["json", "rust", "validation"],
+    "avatar": "https://avatars.githubusercontent.com/u/44437200?v=4",
+    "banner": ""
   }
 ]

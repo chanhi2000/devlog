@@ -67,6 +67,7 @@ tag:
 
 - [GitLab CI Container 이미지 빌드와 GitLab Registry](https://jeongchul.tistory.com/m/714)
 - [GitLab CI Golang 배포](https://jeongchul.tistory.com/m/713)
+- [GitLab Project Runner using Docker](https://jeongchul.tistory.com/m/717)
 
 ---
 

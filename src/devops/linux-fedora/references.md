@@ -25,6 +25,9 @@ tag:
 
 - [`mythos` / \[OSSCA\] Linux Kernel Networking Stack #0 발대식 및 환경 설정](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-0-%EB%B0%9C%EB%8C%80%EC%8B%9D-%EB%B0%8F-%EC%A4%80%EB%B9%84%EC%82%AC%ED%95%AD)
 - [`@mythos` / \[OSSCA\] Linux Kernel Networking Stack #2 리눅스 커널에 커밋하기](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-2-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90%EC%97%90-%EC%BB%A4%EB%B0%8B%ED%95%98%EA%B8%B0)
+- [`@mythos` / \[Linux Kernel\] 커널 패치 방식](https://velog.io/@mythos/Linux-Kernel-%EC%BB%A4%EB%84%90-%ED%8C%A8%EC%B9%98-%EB%B0%A9%EC%8B%9D)
+- [`@mythos` / \[Linux Kernel\] Mailing List 구독하기](https://velog.io/@mythos/Linux-Kernel-Mailing-List-%EA%B5%AC%EB%8F%85%ED%95%98%EA%B8%B0)
+- [`@mythos` / \[Linux Kernel\] 개발 환경 설정하기](https://velog.io/@mythos/Linux-Kernel-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -82,6 +85,12 @@ tag:
 ## 삽질.log
 
 - [로컬에서 도메인 구입없이 내 PC에 도메인 사용하기](https://bum752.github.io/posts/%EB%82%B4-PC%EC%97%90-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+
+  ---
+
+## Blog by Joren Vrancken
+
+- [Carving ELF Files](https://blog.nietaanraken.nl/posts/elf-file-size/)
 
 ---
 

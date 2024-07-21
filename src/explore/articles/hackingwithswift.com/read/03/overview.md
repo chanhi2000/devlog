@@ -22,7 +22,8 @@ head:
       content: "Project 3: Social Media"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/03/overview.html
-sisOriginal: false
+prev: /explore/articles/hackingwithswift.com/read/02/06-wrap-up.md
+isOriginal: false
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,7 +58,35 @@ Let users share to Facebook and Twitter by modifying project 1.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "About technique projects | Hacking with iOS",
+  "desc": "About technique projects",
+  "link": "/explore/articles/hackingwithswift.com/read/03/01-about-technique-projects.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "UIActivityViewController explained | Hacking with iOS",
+  "desc": "UIActivityViewController explained",
+  "link": "/explore/articles/hackingwithswift.com/read/03/02-uiactivityviewcontroller-explained.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/03/03-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

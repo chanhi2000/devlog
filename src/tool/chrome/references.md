@@ -146,5 +146,10 @@ tag:
 
 ---
 
+## Evil Martians transform growth-stage startups into unicorns, build developer tools, and create open source products
+
+- [How to make complex Chrome extensions: a zero gravity guide](https://evilmartians.com/chronicles/how-to-make-complex-chrome-plugins-a-zero-gravity-guide)
+
+---
 
 <TagLinks />

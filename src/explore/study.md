@@ -812,6 +812,13 @@ https://www.joinc.co.kr/w/Site
   logo="https://developer.apple.com/favicon.ico"
   preview="https://developer.apple.com/tutorials/developer-og.jpg"/>
 
+<SiteInfo
+  name="Study online courses & books together | Moocable"
+  desc="Find accountability partners, and study online courses & books with other learners. Study courses, books, and problem sets"
+  url="https://moocable.com/"
+  logo="https://moocable.com/assets/images/favicon.png"
+  preview="https://moocable.com/assets/images/Moocable%20MetaTag.png"/>
+
 <!-- END: Crashcourse -->
 
 @tab Cheatsheet

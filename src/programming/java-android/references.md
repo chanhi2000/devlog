@@ -123,6 +123,8 @@ tag:
   - [Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8)
   - [Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements](https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26)
   - [Kotlin’s @Keep Annotation: Keeping Your Code Safe and Sound](https://proandroiddev.com/kotlins-keep-annotation-keeping-your-code-safe-and-sound-cfbf4a4e9659)
+  - [From Hilt to Koin using Koin Annotations](https://proandroiddev.com/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
+  - [Mastering Date and Time Management in iOS with Kotlinx DateTime: A Step-by-Step Guide](https://proandroiddev.com/mastering-date-and-time-management-in-ios-with-kotlinx-datetime-a-step-by-step-guide-ba1fe3bc32fe)
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
 - [`kotlin-academy` / How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
@@ -155,10 +157,10 @@ tag:
 - [`joostklitsie` / Stop throwing exceptions!](https://medium.com/@joostklitsie/stop-throwing-exceptions-4282c8472027)
 - [`groww` / Adding Repeat Delays to Android Animations](https://tech.groww.in/adding-repeat-delays-to-android-animations-aeaaee491195)
 - [`ZahraHeydari` / Kotlin MultiPlatform (KMP)](https://medium.com/@ZahraHeydari/kotlin-multiplatform-kmp-4799fdfb69f1)
-- [`proandroiddev` / From Hilt to Koin using Koin Annotations](https://proandroiddev.com/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
 - [`santimattius` / From Hilt to Koin using Koin Annotations](https://medium.com/@santimattius/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
 - [`anitaa_1990` / Kotlin Flows — Fundamentals](https://medium.com/@anitaa_1990/kotlin-flows-fundamentals-7d9b984f12bb)
 - [`박상권의-삽질블로그` / Android 14에서 추가된 ‘사진/동영상의 일부 접근 권한’ 제대로 대응하는 방법](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/android-14%EC%97%90%EC%84%9C-%EC%B6%94%EA%B0%80%EB%90%9C-%EC%82%AC%EC%A7%84-%EB%8F%99%EC%98%81%EC%83%81%EC%9D%98-%EC%9D%BC%EB%B6%80-%EC%A0%91%EA%B7%BC-%EA%B6%8C%ED%95%9C-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%8C%80%EC%9D%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-0557db6c46d9)
+- [`kerry.bisset` / I DECLARE….DEPENDENCIESSSS!!!](https://medium.com/@kerry.bisset/i-declare-dependenciessss-4dea5b396d11)
 
 <!-- END: medium.com -->
 
@@ -194,6 +196,12 @@ tag:
 - [`@baealex` / termux 'process completed signal 9 press enter' 해결](https://blex.me/@baealex/how-to-fix-termux-process-completed-signal-9)
 
 <!-- END: blex.me -->
+
+## Brunch
+
+- [`@2Kn8` / 안드로이드 Room - Android Jetpack](https://brunch.co.kr/@@2Kn8/216)
+
+<!-- END: brunch.co.kr -->
 
 ---
 
@@ -339,10 +347,11 @@ tag:
 
 ---
 
-## appmilla
+## Appmilla – FinTech App Agency
 
 - [Experimenting with Composable Presenters in Kotlin Multiplatform](https://appmilla.com/latest/experimenting-with-composable-presenters-in-kotlin-multiplatform/)
 - [Getting Started with Jetpack ViewModels and DataStore in Kotlin Multiplatform](https://appmilla.com/latest/getting-started-with-jetpack-viewmodels-and-datastore-in-kotlin-multiplatform/)
+- [Harnessing the Power of Kotlin Multiplatform: Combining Native and Shared UIs](https://appmilla.com/latest/harnessing-the-power-of-kotlin-multiplatform-combining-native-and-shared-uis/)
 
 ---
 
@@ -557,6 +566,12 @@ tag:
 ## Victor Brandalise
 
 - [Building a Budget Tracker with Jetpack Compose](https://victorbrandalise.com/budget-tracker-with-jetpack-compose/)
+
+---
+
+## PSPDFKit - Complete PDF SDK, Fast Setup & Fully Supported
+
+- [Seamless Room Database Integration for Kotlin Multiplatform Projects](https://pspdfkit.com/blog/2024/seamless-room-database-integration-for-kotlin-multiplatform-projects/)
 
 ---
 

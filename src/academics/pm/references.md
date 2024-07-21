@@ -55,6 +55,9 @@ tag:
 - [`@2fEJ` / 초기 스타트업의 인력 부족으로 인한 PM의 확장된 역할 - 프로덕트 매니저가 전문가가 되기 위한 노력 #30](https://brunch.co.kr/@@2fEJ/1424)
 - [`@2fEJ` / 프로덕트 매니저로서 갖추어야 할 핵심 자질과 역량 - PM/PO 이야기 #29](https://brunch.co.kr/@@2fEJ/1425)
 - [`@2fEJ` / 초기 스타트업의 인력 부족으로 인한 PM의 확장된 역할 - 프로덕트 매니저가 전문가가 되기 위한 노력 #30](https://brunch.co.kr/@@2fEJ/1424)
+- [`@2fEJ` / PRD 작성 시 문제에 집중하는 이유 - PM/PO 이야기 #30](https://brunch.co.kr/@@2fEJ/1429)
+- [`@2fEJ` / 프로덕트 매니저의 확대된 역할과 핵심 역량 - 프로덕트 매니저가 전문가가 되기 위한 노력 #31](https://brunch.co.kr/@@2fEJ/1436)
+- [`@2fEJ` / PRD에서 시각적 자료의 중요성 - PM/PO 이야기 #31](https://brunch.co.kr/@@2fEJ/1439)
 
 <!-- END: brunch.co.kr -->
 

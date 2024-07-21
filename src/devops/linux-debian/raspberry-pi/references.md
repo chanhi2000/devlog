@@ -67,4 +67,10 @@ tag:
 
 ---
 
+## 뽀글뽀글 개발 일지
+
+- [Raspberry PI 모니터 없이 세팅하기](https://bbogle2.tistory.com/m/entry/Raspberry-PI-%EB%AA%A8%EB%8B%88%ED%84%B0-%EC%97%86%EC%9D%B4-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
+
+---
+
 <TagLinks />

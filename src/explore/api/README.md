@@ -393,6 +393,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "fakemail.stream - fakemail.stream",
+  "desc": "A fake SMTP server for software integration testing.",
+  "link": "https://fakemail.stream/",
+  "logo": "https://fakemail.stream/favicon.ico",
+  "background": "rgba(92,99,106,0.2)"
+}
+```
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

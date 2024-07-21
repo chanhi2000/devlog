@@ -234,6 +234,7 @@ head:
 
 - [\[논문리뷰\] PETR : Position Embedding Transformation for Multi-View 3D Object Detection (2022 ECCV)](https://csj000714.tistory.com/m/1153)
 - [\[논문리뷰\] CF-3DGS: COLMAP-Free 3D Gaussian Splatting (CVPR 2024 Highlight)](https://csj000714.tistory.com/m/1161)
+- [\[세미나\] Unsupervised Semantic Segmentation (22.03.18. Open DMQA Seminar)](https://csj000714.tistory.com/m/1160)
 
 ---
 
