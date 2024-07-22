@@ -475,6 +475,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use React's Context API – Tutorial with Examples",
+  "desc": "In React, data is typically passed down from parent to child via props. But this can lead to 'prop drilling' – where we have to pass props down through lots of components to get them where they're needed. Also, some props (for example, the current authenticated user, UI theme, or...",
+  "link": "/explore/articles/freecodecamp.org/react-context-api-tutorial-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```s
+
 <!-- END: freecodecamp.org -->
 
 ---

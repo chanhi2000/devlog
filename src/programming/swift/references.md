@@ -512,6 +512,7 @@ tag:
 
 ## Natascha Fadeeva
 
+- [Developer guide on the iOS file system](https://tanaschita.com/20221010-quick-guide-on-the-ios-file-system/)
 - [Migrating to the Observation framework in SwiftUI](https://tanaschita.com/20230807-migrating-to-observation/)
 - [How to use TipKit to create tool tips in SwiftUI](https://tanaschita.com/20240304-tipkit-feature-hints/)
 - [How to avoid using `AnyView` in SwiftUI](https://tanaschita.com/swiftui-how-to-avoid-using-anyview/)

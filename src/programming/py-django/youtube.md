@@ -22,5 +22,6 @@ tag:
 <MyYouTubeItems jsonName="yu-thenewboston" /><!-- thenewboston -->
 <MyYouTubeItems jsonName="yu-DaveGrayTeachesCode" /><!-- Dave Gray -->
 <MyYouTubeItems jsonName="yu-ajudmeister" /><!-- Andreas Jud -->
+<MyYouTubeItems jsonName="yu-NetNinja" /><!-- The Net Ninja -->
 
 <TagLinks/>

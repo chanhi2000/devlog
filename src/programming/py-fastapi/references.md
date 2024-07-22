@@ -33,4 +33,9 @@ head:
 
 ---
 
+## NVIDIA Developer
+
+- [How to Build an Instant Machine Learning Web Application with Streamlit and FastAPI](https://developer.nvidia.com/blog/how-to-build-an-instant-machine-learning-web-application-with-streamlit-and-fastapi/)
+
+
 <TagLinks />

@@ -98,5 +98,6 @@ head:
 <MyYouTubeItems jsonName="yu-Bogdan_Stashchuk" /><!-- Bogdan Stashchuk -->
 <MyYouTubeItems jsonName="yu-learncloudnative" /><!-- Peter Jausovec -->
 <MyYouTubeItems jsonName="yu-vasiliioleinic" /><!-- Vasilii Oleinic -->
+<MyYouTubeItems jsonName="yu-JamesMontemagno" /><!-- James Montemagno -->
 
 <TagLinks />

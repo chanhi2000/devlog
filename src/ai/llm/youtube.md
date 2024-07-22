@@ -58,5 +58,8 @@ head:
 <MyYouTubeItems jsonName="yu-pixegami" /><!-- pixegami -->
 <MyYouTubeItems jsonName="yu-GaryExplains" /><!-- Gary Explains -->
 <MyYouTubeItems jsonName="yu-teddynote" /><!-- 테디노트 TeddyNote -->
+<MyYouTubeItems jsonName="yu-thebetter-today" /><!-- 더 배러 (The Better) -->
+<MyYouTubeItems jsonName="yu-Data-Centric" /><!-- Data Centric -->
+<MyYouTubeItems jsonName="yu-10xaiclub" /><!-- 10X AI Club -->
 
 <TagLinks/>

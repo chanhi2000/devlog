@@ -35,6 +35,15 @@ head:
 
 ### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
 
+- [Learn about the latest .NET Productivity features](https://devblogs.microsoft.com/dotnet/learn-about-the-latest-net-productivity-features/)
+- [Orchard Core Release Candidate 2 now available](https://devblogs.microsoft.com/aspnet/orchard-core-release-candidate-2-now-available/)
+- [Introducing dotnet-monitor, an experimental tool](https://devblogs.microsoft.com/dotnet/introducing-dotnet-monitor/)
+- [Announcing .NET 5.0 Preview 6](https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-6/)
+- [Announcing Entity Framework Core EFCore 5.0 Preview 6](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-efcore-5-0-preview-6/)
+- [ASP.NET Core updates in .NET 5 Preview 6](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-6/)
+- [Improvements in .NET Core 3.0 for troubleshooting and monitoring distributed apps](https://devblogs.microsoft.com/aspnet/improvements-in-net-core-3-0-for-troubleshooting-and-monitoring-distributed-apps/)
+- [Announcing .NET Core 3.1 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-1-preview-3/)
+- [ASP.NET Core updates in .NET Core 3.1 Preview 3](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-1-preview-3/)
 - [5 .NET MAUI Features for Building Great Desktop Apps](https://devblogs.microsoft.com/dotnet/5-dotnet-maui-desktop-features/)
 - [Arm64 Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/)
 - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)
@@ -369,6 +378,11 @@ head:
 
 ## Andrew Lock | .NET Escapades
 
+- [Converting a .NET Standard 2.0 library to .NET Core 3.0](https://andrewlock.net/converting-a-netstandard-2-library-to-netcore-3/)
+- [Detecting duplicate routes in ASP.NET Core](https://andrewlock.net/detecting-duplicate-routes-in-aspnetcore/)
+- [Visualizing ASP.NET Core 3.0 endpoints using GraphvizOnline – Part 2](https://andrewlock.net/adding-an-endpoint-graph-to-your-aspnetcore-application/)
+- [Visualizing ASP.NET Core endpoints using GraphvizOnline and the DOT language](https://andrewlock.net/visualizing-asp-net-core-endpoints-using-graphvizonline-and-the-dot-language/)
+- [IHostingEnvironment vs IHostEnvironment – obsolete types in .NET Core 3.0](https://andrewlock.net/ihostingenvironment-vs-ihost-environment-obsolete-types-in-net-core-3/)
 - [8 ways to set the URLs for an ASP.NET Core app](https://andrewlock.net/8-ways-to-set-the-urls-for-an-aspnetcore-app/)
 
 ---
@@ -546,4 +560,46 @@ head:
 
 ---
 
+## STEVE GORDON – CODE WITH STEVE
+
+- [High-Performance Logging in .NET Core](https://www.stevejgordon.co.uk/high-performance-logging-in-net-core)
+
+---
+
+## Exception Not Found
+
+- [Modeling Ticket to Ride in C# Part 1: Intro and Game Rules](https://exceptionnotfound.net/ticket-to-ride-csharp-modeling-practice-part-1-intro-and-game-rules/)
+- [Setting the Page Title in a Blazor App](https://exceptionnotfound.net/setting-the-page-title-in-a-blazor-app-net-core/)
+- [Advertising is Strangling the Web, So I’m Getting Rid Of It](https://exceptionnotfound.net/advertising-is-strangling-the-web-so-im-getting-rid-of-it/)
+- [Minesweeper in Blazor WebAssembly Part 1: C# Implementation](https://exceptionnotfound.net/minesweeper-in-blazor-webassembly-part-1-csharp-implementation/)
+- [Minesweeper in Blazor WebAssembly Part 2: The Blazor Component](https://exceptionnotfound.net/minesweeper-in-blazor-webassembly-part-2-the-blazor-component/)
+- [Is Dapper (still) faster than Entity Framework Core](https://exceptionnotfound.net/dapper-vs-entity-framework-core-query-performance-benchmarking-2019/)
+
+---
+
+## Maarten Balliauw {blog}
+
+- [How does the ASP.NET Core SPA development experience work with React, Angular, and VueJS?](https://blog.maartenballiauw.be/post/2019/11/13/how-does-the-aspnetcore-spa-development-experience-work.html)
+
+---
+
+## Visual Studio Magazine Home -- Visual Studio Magazine
+
+- [Mocking an Authenticated User in Blazor/ASP.NET Core](https://visualstudiomagazine.com/blogs/tool-tracker/2019/11/mocking-authenticated-users.aspx)
+
+---
+
+## Pilgaard | dotnet blog
+
+- [Making a Blog with C#](https://pilgaard-blog.azurewebsites.net/)
+
+---
+
+## Meziantou's blog
+
+- [Ensuring best practices for NuGet packages](https://meziantou.net/ensuring-best-practices-for-nuget-packages.htm)
+
+---
+
 <TagLinks />
+

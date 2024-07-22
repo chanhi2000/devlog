@@ -28,5 +28,6 @@ head:
 [[toc]]
 
 <MyYouTubeItems jsonName="yu-Unrealscience" /><!-- 안될과학 Unrealscience -->
+<MyYouTubeItems jsonName="yu-quantumsensechannel" /><!-- Quantum Sense -->
 
 <TagLinks />

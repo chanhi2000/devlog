@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "SuhailTechInfo",
+    "name": "Suhail Tech Info",
+    "profile": "https://yt3.googleusercontent.com/Vs5aZBsE8YZPBh7ReHCGhVoG9uu-QT6FLR0PiQN_qfGGsC9bn0zzXpfDXCQ45VaLIYUZLso=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NSAT_EbjAuW8tq-2aJwaZ62L1vA7bJxnonfglwXFoBxwlZVrpyZ4RkTIyWE8wFAIGY7R0hYGnQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hPXU9OjMryQ", "title": "Suhail-MD replit deploy tutorial | WhatsApp bot without Heroku | Replit deploy tutorial | #suhailmd" },
+    { "id": "3NdJb6_1cJM", "title": "How to create Suhail Md whatsapp bot | Whatsapp bot without heroku | Free whatsapp bot | #SuhailMd" }
+  ],
+  "playlists": [
+
+  ]
+}

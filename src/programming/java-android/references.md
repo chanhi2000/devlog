@@ -91,6 +91,7 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`bladecoder`/ Kotlin JSON Benchmark on Android (2022): Moshi vs Kotlin Serialization](https://bladecoder.medium.com/kotlin-json-benchmark-on-android-2022-moshi-vs-kotlin-serialization-18436c0596c3)
 - [`tanaytandon` / Unit testing a fragment with View Model in Android](https://medium.com/@tanaytandon/unit-testing-a-fragment-with-view-model-in-android-172fcd7807aa)
 - [`proandroiddev`: droidcon](https://proandroiddev.com/)
   - [Effectively using Android Lint in existing projects](https://proandroiddev.com/effectively-using-android-lint-in-existing-projects-eacff100a919)
@@ -268,6 +269,7 @@ tag:
 - [\[정리\] Compose 가이드 문서 ~ 터치&입력](https://pluu.github.io/blog/android/2024/06/15/compose/)
 - [\[정리\] Compose 가이드 문서 ~ Performance](https://pluu.github.io/blog/android/2024/06/19/compose/)
 - [Blog: \[요약\] Designing scalable Compose APIs (Google I/O '24)](http://pluu.github.io/blog/android/io24/2024/06/23/io24-Designing-scalable-Compose-APIs/)
+- [Blog: \[발표자료\] I/O Extended Android in Korea 2024 ~ Whats new in Android development tools](http://pluu.github.io/blog/android/2024/07/21/android-studio/)
 
 ---
 
@@ -572,6 +574,12 @@ tag:
 ## PSPDFKit - Complete PDF SDK, Fast Setup & Fully Supported
 
 - [Seamless Room Database Integration for Kotlin Multiplatform Projects](https://pspdfkit.com/blog/2024/seamless-room-database-integration-for-kotlin-multiplatform-projects/)
+
+---
+
+## 행뽁🐥
+
+- [안드로이드 Android 애니메이션으로 Flow 이해하기](https://hyunjungchoi.tistory.com/m/158)
 
 ---
 

@@ -39,5 +39,8 @@ head:
 <MyYouTubeItems jsonName="yu-DarshilParmar" /><!-- Darshil Parmar -->
 <MyYouTubeItems jsonName="yu-HITSAI" /><!-- HITS -->
 <MyYouTubeItems jsonName="yu-sktechsummit" /><!-- SK TECH SUMMIT -->
+<MyYouTubeItems jsonName="yu-DataCouncil" /><!-- Data Council -->
+<MyYouTubeItems jsonName="yu-realreport" /><!-- RealGrid -->
+<MyYouTubeItems jsonName="yu-TutorialsPoint_" /><!-- Tutorialspoint -->
 
 <TagLinks />

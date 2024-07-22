@@ -3657,7 +3657,7 @@
     "desc": "High performance self-hosted photo and video management solution.",
     "officialSite": "https://immich.app",
     "topics": ["backup-tool", "flutter", "google-photos", "google-photos-alternative", "javascript", "mobile-app", "nestjs", "nodejs", "photo-gallery", "photos", "photos-management", "self-hosted", "svelte", "sveltekit", "typescript", "videos"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/109746326?v=4",
     "banner": ""
   }, {
     "repo": "janhq/jan",
@@ -4470,6 +4470,13 @@
     "officialSite": "https://www.builder.io/blog/micro-agent",
     "topics": ["agent", "ai", "figma", "javascript", "react", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/35700027?v=4",
+    "banner": ""
+  }, {
+    "repo": "wizenheimer/tinkerbird",
+    "desc": "Chrome Native Vector Database",
+    "officialSite": "https://www.npmjs.com/package/tinkerbird",
+    "topics": ["chrome", "hnsw", "indexeddb", "typescript", "vector-database"],
+    "avatar": "https://avatars.githubusercontent.com/u/91504165?v=4",
     "banner": ""
   }
 ]

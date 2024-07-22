@@ -399,4 +399,10 @@ head:
 
 ---
 
+## jupiny의 개발일지
+
+- [git stash 사용하기](https://jupiny.com/2024/07/21/use-git-stash/)
+
+---
+
 <TagLinks />

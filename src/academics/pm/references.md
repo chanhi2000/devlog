@@ -58,6 +58,7 @@ tag:
 - [`@2fEJ` / PRD 작성 시 문제에 집중하는 이유 - PM/PO 이야기 #30](https://brunch.co.kr/@@2fEJ/1429)
 - [`@2fEJ` / 프로덕트 매니저의 확대된 역할과 핵심 역량 - 프로덕트 매니저가 전문가가 되기 위한 노력 #31](https://brunch.co.kr/@@2fEJ/1436)
 - [`@2fEJ` / PRD에서 시각적 자료의 중요성 - PM/PO 이야기 #31](https://brunch.co.kr/@@2fEJ/1439)
+- [`@2fEJ` / 데이터 기반 피드백 분석을 통한 PRD 커멘트 관리 - PM/PO 이야기 #32](https://brunch.co.kr/@@2fEJ/1440)
 
 <!-- END: brunch.co.kr -->
 

@@ -360,6 +360,7 @@ head:
 ## 기계인간 John Grib
 
 - [CAP 정리](https://johngrib.github.io/wiki/jargon/cap-theorem/)
+- [사이드카 패턴 (Sidecar Pattern)](https://johngrib.github.io/wiki/pattern/sidecar/)
 
 ---
 
@@ -676,6 +677,12 @@ head:
 ## just_HS
 
 - [Interface, DIP, IoC 에 대한 비유](https://jusths.tistory.com/m/417)
+
+---
+
+## martinfowler.com
+
+- [Waterfall Process](https://martinfowler.com/bliki/WaterfallProcess.html)
 
 ---
 

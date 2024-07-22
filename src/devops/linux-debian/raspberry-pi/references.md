@@ -70,6 +70,7 @@ tag:
 ## 뽀글뽀글 개발 일지
 
 - [Raspberry PI 모니터 없이 세팅하기](https://bbogle2.tistory.com/m/entry/Raspberry-PI-%EB%AA%A8%EB%8B%88%ED%84%B0-%EC%97%86%EC%9D%B4-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
+- [라즈베리 파이에 Docker 설치 및 컨테이너 실행](https://bbogle2.tistory.com/m/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%97%90-Docker-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%8B%A4%ED%96%89)
 
 ---
 

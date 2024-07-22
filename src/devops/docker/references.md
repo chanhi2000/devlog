@@ -85,7 +85,9 @@ head:
 - [`@dongha1992` - 도커 & CI (7)](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-7)
 - [`@skynet` / Cache mount를 이용한 Dockerfile 빌드 최적화](https://velog.io/@skynet/Cache-mount%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Dockerfile-%EB%B9%8C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94)
 - [`@dongha1992` / 도커 & CI (8) 멀티 컨테이너](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-8-%EB%A9%80%ED%8B%B0-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88)
+- [`@dradnats1012` / 도커(Docker)](https://velog.io/@dradnats1012/%EB%8F%84%EC%BB%A4Docker)
 
+<!-- END: velog.io -->
 ---
 
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
@@ -423,6 +425,18 @@ head:
 ## Christophe Avonture
 
 - [Don't query your PostgreSQL db anymore, prefer PostgREST](https://www.avonture.be/blog/docker-postgrest/)
+
+---
+
+## 뽀글뽀글 개발 일지
+
+- [라즈베리 파이에 Docker 설치 및 컨테이너 실행](https://bbogle2.tistory.com/m/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%97%90-Docker-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%8B%A4%ED%96%89)
+
+---
+
+## Developer security | Snyk
+
+- [Choosing the best Node.js Docker image](https://snyk.io/blog/choosing-the-best-node-js-docker-image/)
 
 ---
 

@@ -102,5 +102,8 @@ tag:
 <MyYouTubeItems jsonName="yu-Seytonic" /><!-- Seytonic -->
 <MyYouTubeItems jsonName="yu-Cobuman" /><!-- cobuman -->
 <MyYouTubeItems jsonName="yu-hacktivityconf" /><!-- Hacktivity -->
+<MyYouTubeItems jsonName="yu-LeetCipher" /><!-- Leet Cipher -->
+<MyYouTubeItems jsonName="yu-DavesGarage" /><!-- Dave's Garage -->
+<MyYouTubeItems jsonName="yu-PracticalNetworking" /><!-- Practical Networking -->
 
 <TagLinks />

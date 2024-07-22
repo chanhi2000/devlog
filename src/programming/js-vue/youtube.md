@@ -49,5 +49,7 @@ head:
 <MyYouTubeItems jsonName="yu-csslick9865" /><!-- csslick - 코딩 튜토리얼 & 팁 -->
 <MyYouTubeItems jsonName="yu-cdruc" /><!-- cdruc -->
 <MyYouTubeItems jsonName="yu-poseidon.program" /><!-- poseidon -->
+<MyYouTubeItems jsonName="yu-NetNinja" /><!-- The Net Ninja -->
+<MyYouTubeItems jsonName="yu-Ezweb" /><!-- Rock's Easyweb -->
 
 <TagLinks />

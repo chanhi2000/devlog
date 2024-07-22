@@ -58,4 +58,10 @@ head:
 
 ---
 
+## The New Stack | DevOps, Open Source, and Cloud Native News
+
+- [How to Build SVG Line Charts with React, SSR and Tailwind CSS](https://thenewstack.io/how-to-build-svg-line-charts-with-react-ssr-and-tailwind-css/)
+
+---
+
 <TagLinks />

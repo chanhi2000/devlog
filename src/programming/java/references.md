@@ -683,6 +683,7 @@ tag:
 
 - [아름다운 코드에 대하여](https://kciter.so/posts/what-is-beautiful-code/)
 - [Railway-Oriented Programming](https://kciter.so/posts/railway-oriented-programming)
+- [Type-Driven Development](https://kciter.so/posts/type-driven-development/)
 
 ### kotlinworld
 

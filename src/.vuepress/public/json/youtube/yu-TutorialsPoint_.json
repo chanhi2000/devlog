@@ -6,6 +6,23 @@
     "banner": "https://yt3.googleusercontent.com/vztRrDSY7dAO4R7TXBmiw3hthRSAafjldduvA3jXHm-Gqku9c6D_Jk9AhuzaBlZauz_9SMWbiQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vk89e_lPn0I", "title": "History Brush Tool Effect in Photoshop | Photoshop for Beginners | Tutorialspoint" },
+    { "id": "HJf9E_qACfk", "title": "Art History Brush Tool Effect in Photoshop | Photoshop Tutorial | Tutorialspoint" },
+    { "id": "vcoAyK2tnJ8", "title": "Naive Bayes Algorithm in Machine Learning | Naive Bayes Tutorial | Tutorialspoint" },
+    { "id": "ev1yZ8GOwmM", "title": "Gradient Tool Photoshop | Gradient Tool Tutorial | Tutorialspoint" },
+    { "id": "AA3KxZIxerI", "title": "How to use Blur Tool in Photoshop | Blur Tool Photoshop Tutorial | Tutorialspoint" },
+    { "id": "YCyekiY0N8Q", "title": "Sharpen Tool in Adobe Photoshop | Sharpen Tool Photoshop Tutorial | Tutorialspoint" },
+    { "id": "2aDt7x2jZ5o", "title": "Types of Blur Effects in Photoshop | Blur Tool Photoshop Tutorial | Tutorialspoint" },
+    { "id": "8HY2FXQ4Hi0", "title": "Smudge Tool in Photoshop | Smudge Tool Photoshop Tutorial | Tutorialspoint" },
+    { "id": "qiXm6xK363o", "title": "Logistic Regression Machine Learning | Logistic Regression Tutorial | Tutorialspoint" },
+    { "id": "gq80PPdWVi0", "title": "Burn Tool in Photoshop | Burn Tool Photoshop Tutorial | Tutorialspoint" },
+    { "id": "J1cpZOYBi8A", "title": "Unsupervised Machine Learning Algorithm | Machine Learning Tutorial | Tutorialspoint" },
+    { "id": "w6TYxcs5Qdo", "title": "HTML Tutorial in 1 Hour | Master the basics of HTML (2024)" },
+    { "id": "z8uvCejr5Qk", "title": "K Means Clustering Algorithm | Machine Learning Tutorial | Tutorialspoint" },
+    { "id": "cdqN7_w6qKQ", "title": "Hierarchical Clustering | Machine Learning Tutorial | Tutorialspoint" },
+    { "id": "NKdpoAooQzA", "title": "Insert COVER PAGE in MS Word (In 2 Easy Steps) #shorts #msword" },
+    { "id": "CDMqAprwpVI", "title": "Create AMAZING PowerPoint Slide in 2 Minutes! #powerpoint" },
+    { "id": "FyVCyjna97U", "title": "Principal Component Analysis | Machine Learning Tutorial | Tutorialspoint" },
     { "id": "EJQiSTykVhE", "title": "Quickly Extract Middle Name in Excel ( In 15 Seconds) #shorts #excel" },
     { "id": "jSdwWCG_x2c", "title": "How to Easily Track Deadlines in Excel? #shorts #excel" },
     { "id": "vdtjFEBJKY8", "title": "Support Vector Machine in Machine Learning | SVM Algorithm | Tutorialspoint" },
@@ -40,5 +57,8 @@
     { "id": "BHoXntWFerI", "title": "Flash Fill in Excel | Don't add full name manually | #shorts #exceltips" },
     { "id": "2ZR7aimVMTU", "title": "How to use barcodes in excel? ( In 2 steps) | Barcode shortcut trick #shorts #exceltricks" },
     { "id": "l5UFTMXOuiU", "title": "How to AutoFit rows and columns in Excel? #shorts #excel" }
+  ],
+  "playlists": [
+
   ]
 }

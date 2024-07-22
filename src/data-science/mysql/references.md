@@ -272,4 +272,10 @@ head:
 
 ---
 
+## 뽀글뽀글 개발 일지
+
+- [MySQL 계정 설정](https://bbogle2.tistory.com/m/entry/MySQL-%EA%B3%84%EC%A0%95-%EC%84%A4%EC%A0%95)
+
+---
+
 <TagLinks />

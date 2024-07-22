@@ -6,6 +6,24 @@
     "banner": "https://yt3.googleusercontent.com/joxgzot2UdPx2_10RWO4rLGmtJRjyrUt1DwZ0-H2YUbfABzmwuUCjrpt__9ito8DWKfRYb2J=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wk4Le4Qk2LY", "title": "Is the SolidJS Router more powerful than the NextJS App Router?" },
+    { "id": "kSCNpTwt9p4", "title": "Debugging Playwright tests with VSCode" },
+    { "id": "4emSz0faaL8", "title": "Eyeballs Fix Bugs …. Principles of Coding" },
+    { "id": "ocfb_EWOWrc", "title": "Bradley’s Bromide …. Principles of Coding" },
+    { "id": "RE25gV1WzZs", "title": "Inner Platform Effect .... Principles of Coding" },
+    { "id": "5eN7BqKXenA", "title": "Implementing Algolia Text Search // BooleanArt DevLog" },
+    { "id": "_oZ2josLb_M", "title": "Law of Natural Language Programming .... Principles of Coding" },
+    { "id": "yZPXXgHm0aE", "title": "Law Of Triviality …. Principles of Coding" },
+    { "id": "TOXF4eyiJqw", "title": "Modern JavaScript gets a native implementation of the Deferred Pattern" },
+    { "id": "NxWFiYa65gA", "title": "Second System Effect …. Principles of Coding" },
+    { "id": "UzYaDM-nUK8", "title": "Parkinson’s Law …. Work ∝ Time // Principles of Coding" },
+    { "id": "8kkWDFaHts0", "title": "Kerckhoff’s Principle … Design Secure Systems // Principles of Coding" },
+    { "id": "szh7jdCwZW0", "title": "Drizzle relations are amazing 🤩 // Stop using manual joins ✋🏻" },
+    { "id": "jGoSJUqUPtM", "title": "Drizzle String Union Type // String Enums" },
+    { "id": "_4TWKJx9yJY", "title": "Drizzle ORM Inferred Column Type // override" },
+    { "id": "ABj9CKaROmg", "title": "Object.groupBy vs Map.groupBy // New methods for Modern JavaScript" },
+    { "id": "Dr5nHlEZhBY", "title": "Code Review - Placing logic for different states of a UI component" },
+    { "id": "WAVHMeTpbCQ", "title": "Code Review: Change the nature of a React Component" },
     { "id": "QXescYDdsUs", "title": "JavaScript ES Modules Demystified // Modern EcmaScript MasterClass" },
     { "id": "ljvEj2ntHew", "title": "Richard Davidson // The Creator of AWS Labs LLRT Low Latency Runtime" },
     { "id": "tIv_OxvLP-U", "title": "Microsoft Playwright Init // Comprehensive Template Walkthrough" },
@@ -43,5 +61,8 @@
     { "id": "ZdDTDTwrzHQ", "title": "Your env handling is wrong in TypeScript" }, 
     { "id": "CqmmIZYKTqQ", "title": "React Native Image Component // Tips, Tricks and Gotchas" }, 
     { "id": "EQsZX-V_q7g", "title": "`useEffect` // Simplifying the React Component Lifecycle" }
+  ],
+  "playlists": [
+
   ]
 }

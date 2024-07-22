@@ -98,6 +98,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Migrate a Flutter Application from GetIt to Bloc",
+  "desc": "Enums are one of the most efficient ways to represent a fixed set of values. For example: days of the week, user online status, traffic light states, role hierarchy in an organization, and so on. What's interesting is that most typed languages such as Typescript, Java, C#, and Dart give...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-enhanced-enums-in-dart.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -29,5 +29,7 @@ head:
 <MyYouTubeItems jsonName="yu-SuperSimpleDev" /><!-- SuperSimpleDev -->
 <MyYouTubeItems jsonName="yu-interviewingio" /><!-- interviewing.io -->
 <MyYouTubeItems jsonName="yu-AlgoJS" /><!-- AlgoJS -->
+<MyYouTubeItems jsonName="yu-theavocoder" /><!-- Lydia Hallie -->
+<MyYouTubeItems jsonName="yu-Steve8708" /><!-- Steve (Builder.io) -->
 
 <TagLinks />

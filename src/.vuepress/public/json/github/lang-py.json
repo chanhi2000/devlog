@@ -4137,7 +4137,7 @@
     "topics": ["embeddings", "information-retrieval", "language-model", "large-language-models", "llm", "machine-learning", "neural-search", "nlp", "python", "rag", "retrieval-augmented-generation", "search", "search-engine", "semantic-search", "sentence-embeddings", "transformers", "txtai", "vector-database", "vector-search", "vector-search-engine"],
     "avatar": "https://avatars.githubusercontent.com/u/59890304?v=4",
     "banner": ""
-  }{
+  }, {
     "repo": "dvmazur/mixtral-offloading",
     "desc": "Run Mixtral-8x7B models in Colab or consumer desktops",
     "officialSite": "",
@@ -7171,8 +7171,8 @@
   }, {
     "repo": "mem0ai/mem0",
     "desc": "The memory layer for Personalized AI",
-    "officialSite": "https://docs.mem0.ai/",
-    "topics": ["ai", "application", "chatbots", "chatgpt", "embeddings", "llm", "python", "rag", "vector-database"],
+    "officialSite": "https://docs.mem0.ai",
+    "topics": ["ai", "application", "chatbots", "chatgpt", "embeddings", "llm", "long-term-memory", "memory", "python", "rag", "vector-database"],
     "avatar": "https://avatars.githubusercontent.com/u/137054526?v=4",
     "banner": ""
   }, {

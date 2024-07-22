@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/KsBgdgUo4NHiy-Bu0S8jB8l8yhOLgutuWberlDXRuDHLzl25MQrdUhBfL0R16vaR99oCBlqmOg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4j0yI41e0j4", "title": "How Creating ZIPFolders for Windows almost got me FIRED from Microsoft!" },
+    { "id": "D82C7JS_2iw", "title": "Docker vs VM:  What's the Difference, and Why You Care!" },
+    { "id": "LrzBKkxGLK4", "title": "Windows SUDO Now Available in 24H2 - Not Windows 12 - New Features!" },
+    { "id": "BR6F0EdyulA", "title": "MS-DOS has been Open-Sourced!  We Build and Run it!" },
+    { "id": "OsK0pkGEHg0", "title": "Building the Ultimate WiFi Driveway Alert System w/ code and parts!" },
+    { "id": "gHsJP5br_ok", "title": "How the amazing technology behind ARGB LEDs works" },
+    { "id": "49PhEUZVjzQ", "title": "DNS Demystified: Everything You Should Know for Faster Internet!" },
+    { "id": "EuSMCWu02hA", "title": "World Record: Tempest High Score!" },
+    { "id": "XT6t2L3SVM8", "title": "I Bought the HEAVIEST Computer on eBay: The PDP-11/34!" },
+    { "id": "ZbhGE5MXAEI", "title": "Add WiFi to ANY Device: The World's WORST Portable Computer!" },
+    { "id": "fr4Q6CF0E_8", "title": "I Worked on the Windows Start Menu!" },
     { "id": "m6O6CLgWiRM", "title": "1000W CPU:  The Most Powerful Desktop Processor" },
     { "id": "DwSxddokmAk", "title": "New C++ Tricks for Our Old Truck: Sequential LEDs" },
     { "id": "ivPptt3Ae5o", "title": "Top 10 Things You Must do to Secure Your Home LAN" },
@@ -28,5 +39,8 @@
     { "id": "HrDovsqJT3U", "title": "Behind the Windows Start Menu - Insider Secrets" },
     { "id": "xi1Lq79mLeE", "title": "The Mind Behind Windows: Dave Cutler" },
     { "id": "2bVhyB7Av8s", "title": "Coding Graphics in C: SetPixel, LineDraw, Moire and More!" }
+  ],
+  "playlists": [
+
   ]
 }

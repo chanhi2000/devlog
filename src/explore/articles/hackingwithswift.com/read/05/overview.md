@@ -22,6 +22,7 @@ head:
       content: "Project 5: Word Scramble"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/05/overview.html
+prev: /explore/articles/hackingwithswift.com/read/04/06-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,75 @@ Create an anagram game while learning about closures and booleans.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/05/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Reading from disk: contentsOf | Hacking with iOS",
+  "desc": "Reading from disk: contentsOf",
+  "link": "/explore/articles/hackingwithswift.com/read/05/02-reading-from-disk-contentsof.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Pick a word, any word: UIAlertController | Hacking with iOS",
+  "desc": "Pick a word, any word: UIAlertController",
+  "link": "/explore/articles/hackingwithswift.com/read/05/03-pick-a-word-any-word-uialertcontroller.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Prepare for submission: lowercased() and IndexPath | Hacking with iOS",
+  "desc": "Prepare for submission: lowercased() and IndexPath",
+  "link": "/explore/articles/hackingwithswift.com/read/05/04-prepare-for-submission-lowercased-and-indexpath.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Checking for valid answers | Hacking with iOS",
+  "desc": "Checking for valid answers",
+  "link": "/explore/articles/hackingwithswift.com/read/05/05-checking-for-valid-answers.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Or else what? | Hacking with iOS",
+  "desc": "Or else what?",
+  "link": "/explore/articles/hackingwithswift.com/read/05/06-or-else-what.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/05/07-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

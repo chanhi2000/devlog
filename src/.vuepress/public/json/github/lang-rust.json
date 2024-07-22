@@ -2319,5 +2319,19 @@
     "topics": ["json", "rust", "validation"],
     "avatar": "https://avatars.githubusercontent.com/u/44437200?v=4",
     "banner": ""
+  }, {
+    "repo": "BurntSushi/jiff",
+    "desc": "A date-time library for Rust that encourages you to jump into the pit of success.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/456674?v=4",
+    "banner": ""
+  }, {
+    "repo": "guywaldman/orch",
+    "desc": "Rust framework for LLM orchestration",
+    "officialSite": "https://crates.io/crates/orch",
+    "topics": ["ai", "llm", "rust"],
+    "avatar": "https://avatars.githubusercontent.com/u/6546430?v=4",
+    "banner": ""
   }
 ]

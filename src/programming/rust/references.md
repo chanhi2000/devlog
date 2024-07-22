@@ -399,6 +399,12 @@ tag:
 
 ---
 
+## Karim Jedda
+
+- [Carefully exploring Rust as a Python developer](https://karimjedda.com/carefully-exploring-rust/)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />

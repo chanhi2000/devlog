@@ -132,5 +132,8 @@ head:
 <MyYouTubeItems jsonName="yu-hacoding" /><!-- 하코딩 -->
 <MyYouTubeItems jsonName="yu-perpear1" /><!-- 코딩형 -->
 <MyYouTubeItems jsonName="yu-WasheraAcademy" /><!-- Washera Academy -->
+<MyYouTubeItems jsonName="yu-dougmercer" /><!-- Doug Mercer -->
+<MyYouTubeItems jsonName="yu-coreyms" /><!-- Corey Schafer -->
+<MyYouTubeItems jsonName="yu-DeveloperVoices" /><!-- Developer Voices -->
 
 <TagLinks />

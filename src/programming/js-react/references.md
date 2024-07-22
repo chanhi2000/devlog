@@ -1134,4 +1134,28 @@ https://o-yeon.tistory.com/227
 
 ---
 
+## Prateek's Digital 🏡
+
+- [The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react/)
+
+---
+
+## Upmostly - Learn React and JavaScript the Right Way
+
+- [Guide: Build a Real-Time Chat Application With ReactJS 🔥+⚛️](https://upmostly.com/tutorials/guide-build-a-real-time-chat-application-with-reactjs)
+
+---
+
+## The New Stack | DevOps, Open Source, and Cloud Native News
+
+- [How to Build SVG Line Charts with React, SSR and Tailwind CSS](https://thenewstack.io/how-to-build-svg-line-charts-with-react-ssr-and-tailwind-css/)
+
+---
+
+## Cloud-as-a-Service | Join our global network with your own managed cloud solution
+
+- [Smooth Scrolling in Action Using React: A Tutorial](https://cloudsigma.com/smooth-scrolling-in-action-using-react-a-tutorial/)
+
+---
+
 <TagLinks />

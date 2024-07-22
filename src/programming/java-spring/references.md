@@ -127,6 +127,9 @@ head:
 - [`taesulee93` / Spring Http Interface를 활용한 외부 API 연동 — with WebClient](https://medium.com/@taesulee93/spring-http-interface%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%99%B8%EB%B6%80-api-%EC%97%B0%EB%8F%99-with-webclient-ab3691db5c27?source=rss-524631d9bcfb------2)
 - [Spring Scheduler 설정과 ShedLock을 이용한 간편한 분산락 사용](https://medium.com/@taesulee93/spring-scheduler-%EC%84%A4%EC%A0%95%EA%B3%BC-shedlock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%ED%8E%B8%ED%95%9C-%EB%B6%84%EC%82%B0%EB%9D%BD-%EC%82%AC%EC%9A%A9-74ffcafd0c25?source=rss-524631d9bcfb------2)
 - [`taesulee93` / Spring for RabbitMQ in Action — Declarables을 활용한 Exchange, Queue, Binding, DLQ 간편 설정](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-declarables%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-exchange-queue-binding-dlq-%EA%B0%84%ED%8E%B8-%EC%84%A4%EC%A0%95-a248744d6240?source=rss-524631d9bcfb------2)
+- [`@taesulee93` / Spring for RabbitMQ in Action — RabbitHandler를 이용하여 Multi-method Listener 설정하기](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-rabbithandler%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-multi-method-listener-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-1576bca43e35?source=rss-524631d9bcfb------2)
+
+<!-- END: medium.com java -->
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 
@@ -148,6 +151,9 @@ head:
 - [`@qkrtkdwns3410` / \[토비의 스프링부트\] 스프링 부트 컨테이너리스 특성 이해하기](https://velog.io/@qkrtkdwns3410/%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A6%AC%EC%8A%A4-%ED%8A%B9%EC%84%B1-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [`@joshuara7235` / 어플리케이션은 완벽할 수 없다. 다만 완벽을 지향할 뿐.](https://velog.io/@joshuara7235/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%80-%EC%99%84%EB%B2%BD%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4.-%EB%8B%A4%EB%A7%8C-%EC%99%84%EB%B2%BD%EC%9D%84-%EC%A7%80%ED%96%A5%ED%95%A0-%EB%BF%90)
 - [`dradnats1012` / DB 서버 분리하기!](https://velog.io/@dradnats1012/DB-%EC%84%9C%EB%B2%84-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [`@joshuara7235` / 항해의 중간지점, 나는 얼마나 성장했나.](https://velog.io/@joshuara7235/%ED%95%AD%ED%95%B4%EC%9D%98-%EC%A4%91%EA%B0%84%EC%A7%80%EC%A0%90-%EB%82%98%EB%8A%94-%EC%96%BC%EB%A7%88%EB%82%98-%EC%84%B1%EC%9E%A5%ED%96%88%EB%82%98)
+
+<!-- END: velog.io -->
 
 ### üntil
 
@@ -422,6 +428,7 @@ head:
 - [8.3. 책 서비스 클래스에 수정 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/83-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%88%98%EC%A0%95-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [8.4. 책 컨트롤러에 @ExceptionHandler 추가하기](https://ysedeveloper.tistory.com/m/entry/84-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EC%97%90-ExceptionHandler-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [8.5. 책 수정 화면 컨트롤러 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/85-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [8.6. 책 수정 화면 뷰 작성하기](https://ysedeveloper.tistory.com/m/entry/86-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EB%B7%B0-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -503,6 +510,10 @@ head:
 ### 뽀글뽀글 개발 일지
 
 - [Spring에서 Logging 설정하기](https://bbogle2.tistory.com/m/entry/Spring%EC%97%90%EC%84%9C-Logging-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+
+### 복세편살
+
+- [spring boot 3.2에서 HTTP 통신하는 방법 아는 체하기](https://americanopeople.tistory.com/m/457)
 
 ---
 

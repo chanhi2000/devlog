@@ -98,6 +98,7 @@ export const template: SidebarInfoTemplate = {
       "what-is-trpc", // 2024-07-11
       "difference-between-usememo-and-usecallback-hooks", // 2024-07-15
       "use-react-router-to-build-single-page-applications", // 2024-07-18
+      "react-context-api-tutorial-examples", // 2024-07-22
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -163,6 +164,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
       "how-to-secure-your-django-app", // 2024-05-22
     ]],[
+    "py-flask", [
+      "how-to-implement-instant-search-with-flask-and-htmx", // 2024-07-22
+    ]],[
     "dart", [
       "how-to-develop-a-flutter-app-from-scratch", // 2024-04-26
       "how-to-make-your-flutter-package-privacy-manifest-compatible", // 2024-05-20
@@ -170,6 +174,7 @@ export const template: SidebarInfoTemplate = {
       "build-a-youtube-clone-with-flutter-firebase-and-riverpod", // 2024-06-04
       "migrate-from-play-core-library", // 2024-06-26
       "migrate-a-flutter-application-from-getit-to-bloc", // 2024-07-19
+      "how-to-use-enhanced-enums-in-dart", // 2024-07-22
     ]],[
     "rust", [
       "procedural-macros-in-rust", // 2024-04-24
@@ -503,6 +508,9 @@ export const template: SidebarInfoTemplate = {
       "learn-javascript-reactivity-build-signals-from-scratch", // 2024-07-18
       "next-js-performance-optimization", // 2024-07-19
       "migrate-a-flutter-application-from-getit-to-bloc", // 2024-07-19
+      "how-to-implement-instant-search-with-flask-and-htmx", // 2024-07-22
+      "how-to-use-enhanced-enums-in-dart", // 2024-07-22
+      "react-context-api-tutorial-examples", // 2024-07-22
     ]],
   ]),
 }

@@ -6,6 +6,29 @@
     "banner": "https://yt3.googleusercontent.com/L0aN4M8ckWFKPyFCyKQYXFb41CZ9PZAuHlN6PlEvCTrQ12WhA2SFNYXXpNiTt4BmaG8Tky-M=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "417qXZ2_Mtc", "title": "ArcGIS Online: Change the Map Projection" },
+    { "id": "vSNcUq_eFwg", "title": "ArcGIS Online: Content Basics" },
+    { "id": "oDPEkh9riEg", "title": "Spatial Map Series in ArcGIS Pro | Tutorial - Part 1" },
+    { "id": "N_cEMO05jpI", "title": "Spatial Map Series In ArcGIS Pro | Tutorial - Part 2" },
+    { "id": "vlsY3f2m2_0", "title": "Manage data in ArcGIS Pro" },
+    { "id": "KNmLDZLAKBI", "title": "Join Data Spatially in ArcGIS Pro" },
+    { "id": "UF-fI2pd1qY", "title": "Author & Share a Local Scene in ArcGIS Pro" },
+    { "id": "RIJY1Stx7JM", "title": "Bookmark Map Series in ArcGIS Pro | Tutorial" },
+    { "id": "vUDcMY-srmk", "title": "Light and Dark Color Schemes in ArcGIS Pro & ArcGIS Online | Tutorial" },
+    { "id": "4V6xQm1pcDk", "title": "Contingent Values in ArcGIS Pro Tutorial" },
+    { "id": "BS3L6wLmOIo", "title": "Color Associations For Maps | ArcGIS Pro Tutorial" },
+    { "id": "9Wg5ZerkBJw", "title": "Getting Started with Map Viewer | ArcGIS Online" },
+    { "id": "GiAhjrC26yI", "title": "Importing Incidents with the Crime Analysis Solution in ArcGIS Pro" },
+    { "id": "Ry76vNTrxuI", "title": "ArcGIS Enterprise on Kubernetes: Handling Chaos with Confidence" },
+    { "id": "6-o9mxGZM_s", "title": "Introducing: Briefings in ArcGIS StoryMaps" },
+    { "id": "q5X0Wdfz7Xk", "title": "Introducing the ArcGIS StoryMaps Briefings App" },
+    { "id": "TI2Q18Pk3IA", "title": "Table Appearance Options in ArcGIS Pro" },
+    { "id": "epsklfvE5uw", "title": "Use the Table to Domain Geoprocessing Tool in ArcGIS Pro" },
+    { "id": "7TlLbA-du1g", "title": "Using the Feature Swatch to Zoom to a Feature | ArcGIS Field Maps Tips" },
+    { "id": "ph8KrqYtkg0", "title": "Introduction to ArcGIS Location Platform" },
+    { "id": "L7ZgADzlS3w", "title": "Find the Right Coordinate System in ArcGIS Pro" },
+    { "id": "80zTatv5Iho", "title": "What's New in ArcGIS Field Maps | June 2024" },
+    { "id": "XHeppuWkZiY", "title": "Create a Report in ArcGIS Online Tutorial" },
     { "id": "jYJz8zQyqS0", "title": "Improve A Map Legend" },
     { "id": "GPlJGbc-7Ak", "title": "Use Geoprocessing Selections & Filters in ArcGIS Pro" },
     { "id": "87UzHoDa320", "title": "ArcGIS Online: Solve a Spatial Problem" },
@@ -31,7 +54,6 @@
     { "id": "-XiNaBtTndU", "title": "Improve Layer Names In A Map" },
     { "id": "o5_yS1T-eb0", "title": "Causal Inference Analysis In ArcGIS Pro" },
     { "id": "As9CoQ_Lsa8", "title": "Extent Control in ArcGIS Pro" },
-    { "id": "jYJz8zQyqS0", "title": "Improve A Map Legend" },
     { "id": "w8mdhD3dxDo", "title": "Getting Started with Model Builder in ArcGIS Pro" },
     { "id": "SeVNWyFJI5A", "title": "How to Create Random Points in ArcGIS Pro" },
     { "id": "nbLwYT9Iwkc", "title": "ArcGIS Utility Network: How to Create a Named Trace Configuration" },
@@ -39,5 +61,8 @@
     { "id": "1gxGBIsiWsw", "title": "Prepare Data for Network Analysis in ArcGIS Pro" },
     { "id": "yPHML3ZXc3Q", "title": "How to Deploy an ArcGIS Solution in 4 Minutes" },
     { "id": "rEBm1Zp2DhM", "title": "How to Use IFrames in ArcGIS Hub" }
+  ],
+  "playlists": [
+    
   ]
 }

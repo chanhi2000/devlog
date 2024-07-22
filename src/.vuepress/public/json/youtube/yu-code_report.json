@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/7g2oVWEobsWWmGVhgl1pNM-QNLxs3SLAmaRRR_Bq42QiwIyjBwFHO23Ikm1X3c7qVV1pBxMmYg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fsIfQqRjc1U", "title": "1 Problem, 4 C++'s" },
+    { "id": "5eneQ9mFbpA", "title": "The Superpower of C++" },
+    { "id": "ra_VpqPkENU", "title": "J vs BQN vs APL vs Jello" },
+    { "id": "FqfXTNp5hJc", "title": "Tacit Talk Episode 1: Uiua with Kai Schmidt" },
+    { "id": "uJUXcPmZJPQ", "title": "Tacit Talk Episode 2: BQN, I and Singeli with Marshall Lochbaum" },
+    { "id": "n6UcXaR-Ffg", "title": "Python vs C++ vs BQN vs Uiua" },
+    { "id": "vn05LDrNhgg", "title": "BQN vs Uiua vs Kap" },
     { "id": "tNaZykHHHWs", "title": "Coding in 🟢🟡🔴 Jello 🔴🟡🟢" },
     { "id": "RAUbKNeA2LA", "title": "Coding in 🟢🟡🔴 Jello 🔴🟡🟢" },
     { "id": "iTEK8SjE0w4", "title": "More Functional C++?" },
@@ -19,5 +26,8 @@
     { "id": "Wah-uQ9ou80", "title": "Python vs Uiua vs BQN" },
     { "id": "wGCWlI4A5z4", "title": "From C ➡️ C++ ➡️  Rust" }, 
     { "id": "Vh3y1ela-_s", "title": "How to Make Beautiful Code Presentations" }
+  ],
+  "playlists": [
+    
   ]
 }

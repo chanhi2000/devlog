@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/djzvKj7bJNpkt2QDpmqcU5x6nbCMVvVkru5d0HjWa0wQ_EyIwidCN9lgyhwm9MABkipjRvc15Jc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EXMrRq2dvBM", "title": "Testing which is the best app for me" },
+    { "id": "YB0Wn3a1ZWc", "title": "Why I am against Atomic Notes and Mini-Essays" },
+    { "id": "XTt0NF-gzK8", "title": "Why I don't use mind-maps" },
+    { "id": "R8ry9s3OkAc", "title": "How I take notes from books" },
+    { "id": "s894oresmSI", "title": "XTiles Alternative to Obsidian for Creatives" },
+    { "id": "awNtEpEfJuo", "title": "Testing Afforai for Research | App Sumo" },
+    { "id": "vpNx4izW5RM", "title": "Obsidian update version 1.6" },
+    { "id": "MwVrMTH-DkM", "title": "Testing BookFusion for Obsidian" },
+    { "id": "CPxuxap1Qss", "title": "I tried Afirstsoft PDF" },
+    { "id": "OkEx1iaI7ws", "title": "3 years using Morgen" },
     { "id": "txgX2j37Zbs", "title": "How I live in my calendar" },
     { "id": "yFQ-OyNmg6U", "title": "Why Justin Sung is wrong about Obsidian" },
     { "id": "O7K0P3YOWNc", "title": "5 Ideas from David's podcast How I Write" },
@@ -26,5 +36,8 @@
     { "id": "wczjLtcWZ6c", "title": "Obsidian Canvas Upgrade" },
     { "id": "ubkzPh29qyw", "title": "Habit tracking vault build from SCRATCH" },
     { "id": "TrA4A6J66XY", "title": "August Bradley inspired from Notion to Obsidian" }
+  ],
+  "playlists": [
+
   ]
 }

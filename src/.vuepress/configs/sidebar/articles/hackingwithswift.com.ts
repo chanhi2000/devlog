@@ -391,18 +391,32 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/read/04/03-choosing-a-website-uialertcontroller-action-sheets.md',
               '/explore/articles/hackingwithswift.com/read/04/04-monitoring-page-loads-uitoolbar-and-uiprogressview.md',
               '/explore/articles/hackingwithswift.com/read/04/05-refactoring-for-the-win.md',
+              '/explore/articles/hackingwithswift.com/read/04/06-wrap-up.md',
             ]
           }, {
             text: 'Project 5: Word Scramble',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/05/overview.md',
+              '/explore/articles/hackingwithswift.com/read/05/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/05/02-reading-from-disk-contentsof.md',
+              '/explore/articles/hackingwithswift.com/read/05/03-pick-a-word-any-word-uialertcontroller.md',
+              '/explore/articles/hackingwithswift.com/read/05/04-prepare-for-submission-lowercased-and-indexpath.md',
+              '/explore/articles/hackingwithswift.com/read/05/05-checking-for-valid-answers.md',
+              '/explore/articles/hackingwithswift.com/read/05/06-or-else-what.md',
+              '/explore/articles/hackingwithswift.com/read/05/07-wrap-up.md',
             ]
           }, {
             text: 'Project 6: Auto Layout',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/06/overview.md',
+              '/explore/articles/hackingwithswift.com/read/06/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/06/02-advanced-auto-layout.md',
+              '/explore/articles/hackingwithswift.com/read/06/03-auto-layout-in-code-addconstraints-with-visual-format-language.md',
+              '/explore/articles/hackingwithswift.com/read/06/04-auto-layout-metrics-and-priorities-constraintswithvisualformat.md',
+              '/explore/articles/hackingwithswift.com/read/06/05-auto-layout-anchors.md',
+              '/explore/articles/hackingwithswift.com/read/06/06-wrap-up.md',
             ]
           }, {
             text: 'Project 7: Whitehouse Petitions',

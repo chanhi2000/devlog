@@ -359,6 +359,7 @@ head:
 - [현대자동차그룹의 후원으로 MIT 윤킴 교수님과 지난 1년여간 함께 진행해온 산학 연구 논문이 요즘 화제네요.](https://likejazz.com/post/756113715506659328)
 - [`llama.cpp`의 K-Quantization https://github.com/ggerganov/llama.cpp/pull/1684 을 따라서 구현해보다가 길을 잃고 😑 좀 더](https://likejazz.com/post/756204304905469952)
 - [The Era of 1-bit LLMs: All Large Language Models are in 1.58&;;hellip;](https://likejazz.com/post/756294915544219648)
+- [간밤에 메타에서 드디어 라마3를 공개했습니다. 역시나 기대했던 대로 압도적인 스케일과 성능을 자랑하네요. 2만 4천 장의 GPU, 15T 학습 데이터, 1천만 건의 인스트럭션&hellip;](https://likejazz.com/post/756657294178140160)
 
 ---
 

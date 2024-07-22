@@ -1396,6 +1396,13 @@ https://mdis.kostat.go.kr/index.do
   logo="https://radio.garden/icons/favicon.png"
   preview="https://radio.garden/public/icons/rg-facebook-1.jpg"/>
 
+<SiteInfo
+  name="서울시 주유소 가격 비교 | Tableau Public"
+  desc="서울시 주유소 가격 비교"
+  url="https://public.tableau.com/app/profile/eunbi.kim4867/viz/_17143222803720/1"
+  logo="https://public.tableau.com/app/favicon.ico"
+  preview="https://public.tableau.com/static/images/_1/_17143222803720/1/4_3_hd.png"/>
+
 <!-- END: Geospatial -->
 
 @tab Network & Security

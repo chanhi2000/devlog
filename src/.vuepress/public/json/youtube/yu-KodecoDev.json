@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/kmAWDPAyp4zc_PHBILKm5C3yiKoRdloAsEgc-6i-HPoKKjAJD0Ni62QUwhSTPlAYbWHlGmDCAQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "23Efpe9Pvh0", "title": "Kodeco Webinar: The Power of People-First Leadership in Mobile Development Teams" },
+    { "id": "eHaKRo2X-_k", "title": "Kodeco Podcast, Season 2 Episode 6 Transitioning to Jetpack Compose" },
+    { "id": "bzXEDgPhUj8", "title": "Kodeco's Google IO 2024 Livecast" },
     { "id": "uvj8ii10QJw", "title": "Build a Real iOS App From Scratch: A Free Workshop for Beginners from Kodeco #free #ios #workshop" },
     { "id": "9YdsmS7AEDo", "title": "Build a Real iOS App From Scratch: A Workshop for Beginners From Kodeco and David Okun" },
     { "id": "dR6EfeiIcI0", "title": "Considering an Android Bootcamp?" },
@@ -23,6 +26,9 @@
     { "id": "5lWUHoha4dU", "title": "Inspecting Variables - Debugging in iOS - raywenderlich.com" }, 
     { "id": "J653BZPMHPc", "title": "Building the UI Overview - Beginning Android Development - Your First Kotlin Android App" }, 
     { "id": "sH5EJWFAw6M", "title": "Outlets  Objects, Data, and Methods - Beginning Programming with iOS 11, Swift 4, and Xcode 9" } 
+  ],
+  "playlists": [
+    
   ]
 }
 

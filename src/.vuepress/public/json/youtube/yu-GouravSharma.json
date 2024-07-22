@@ -6,6 +6,27 @@
     "banner": "https://yt3.googleusercontent.com/ZLv8NFRl9HmbN83EHoxpDViPz3c9CKgUUrPAdR6ysVI_dTyq-HUG2U63LM_nPEFMfKjK028D=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FdUC6d2yffg", "title": "AWS Tutorials - 144 - Amazon RDS - Parameter Groups - How to change RDS Configurations ( In Hindi )" },
+    { "id": "PoJ2I2NAe34", "title": "AWS Tutorials - 144 - Amazon DynamoDB - How to Create Table in DynamoDB - How Partition Key Works" },
+    { "id": "79xTeOtqsY8", "title": "AWS Tutorials - 145 - Amazon DynamoDB - What is sort key - what is the use of sort key" },
+    { "id": "Io1cNaIDHeo", "title": "AWS Tutorials - 146 - Amazon DynamoDB - Where I am utilizing DynamoDB.  and what is Scan And Query" },
+    { "id": "r2Cun-8wv8g", "title": "AWS Tutorials - 147 - Amazon DynamoDB - Read and Write Capacity Units DynamoDB - (In Hindi)" },
+    { "id": "1IJtgCn6jsg", "title": "AWS Tutorials - 148 - Amazon DynamoDB - What is Local Secondary Index in DynamoDB - (In Hindi)" },
+    { "id": "8ThDeWyLnXo", "title": "AWS Tutorials - 149 - Amazon DynamoDB - What is Global Secondary Index in DynamoDB - (In Hindi)" },
+    { "id": "iIhPlHTLNOQ", "title": "AWS Tutorials - 150 - Amazon DynamoDB - Point in Time Recovery and Backup in DynamoDB - (In Hindi)" },
+    { "id": "U8-oHjxcukg", "title": "AWS Tutorials - 151 - Amazon DynamoDB - DynamoDB Global Tables: Multi-Region Replication -(In Hindi)" },
+    { "id": "J4Qxmx8YKfo", "title": "AWS Tutorials - 152 - Amazon DynamoDB - Export  DynamoDB Data to  S3 Bucket-(In Hindi)" },
+    { "id": "f2Gt1tPK-OY", "title": "AWS Tutorials - 154 - Amazon DynamoDB - How to Delete table from DynamoDb -  Cleanup - (In Hindi)" },
+    { "id": "1ixaFRlRgIs", "title": "AWS Tutorials - 153 - Amazon DynamoDB - Import Data in DynamoDB From  S3 Bucket - (In Hindi)" },
+    { "id": "N39IEMQu7nw", "title": "AWS Tutorials - 155 - Amazon Simple Email Service - Where/How we can use it - (In Hindi)" },
+    { "id": "O8lzXZ_WlEc", "title": "AWS Tutorials - 155 - Amazon Simple Email Service - How to Verify Domain in Amazon SES  - (In Hindi)" },
+    { "id": "67udYWJ7TAE", "title": "AWS Tutorials - 156 - Email Service - How Emails End Up in Spam and How to Prevent It - (In Hindi)" },
+    { "id": "kSLzjy6nj7o", "title": "AWS Tutorials - 157 - Email Service - How to Customize Your Mail-From Domain in AWS SES - (Hindi)" },
+    { "id": "KfrghyE7J3E", "title": "AWS Tutorials - 157 - Email Service -  Got SES Production Access  - (Hindi)" },
+    { "id": "-rJUfbas8bA", "title": "AWS Tutorials - 158 - Simple Notification Service -  Send First Notification - (Hindi)" },
+    { "id": "gz0dphCEK2s", "title": "AWS Tutorials - 159 - Simple Notification Service - Why should we use SNS - Configurations - (Hindi)" },
+    { "id": "e_JaORLCrZI", "title": "AWS Tutorials - 160 - Simple Notification Service -  Send Mobile SMS Notification - (Hindi)" },
+    { "id": "zm_AD_Qy8Sc", "title": "AWS Tutorials - 161 - Simple Notification Service - Http/Https Endpoint Notification - (In Hindi)" },
     { "id": "o98frpNl6cs", "title": "AWS Tutorials - 132 - Amazon RDS - Amazon Relational Database Service - (In Hindi)" },
     { "id": "syddeX5h1NM", "title": "AWS Tutorials - 133 - Amazon RDS - Create First Database - (In Hindi)" },
     { "id": "AcM8KQWR3S4", "title": "AWS Tutorials - 134 - Amazon RDS - Connect to RDS Instance - (In Hindi)" },
@@ -30,5 +51,8 @@
     { "id": "vOO9aTF1-Dg", "title": "AWS Tutorials - 123 -  Route53 - IP Based Routing Policy in Action - AWS  (in Hindi)" },
     { "id": "mv4nOW2UBJw", "title": "AWS Tutorials - 124 -  Route53 - Cleanup - AWS  (in Hindi)" },
     { "id": "U5ixJmjJNxM", "title": "AWS Tutorials - 125 -  Route53 - Traffic Policy - AWS  (in Hindi)" }
+  ],
+  "playlists": [
+
   ]
 }

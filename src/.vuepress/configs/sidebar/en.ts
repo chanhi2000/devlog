@@ -891,6 +891,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py-flask/articles/README.md',
+            asb.freecodecamp('py-flask'),
           ]
         },
       ]

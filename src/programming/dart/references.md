@@ -112,4 +112,10 @@ tag:
 
 ---
 
+## 하이제니스
+
+- [플러터(Flutter) FFI를 활용한 SerialPort 사용 예제 코드(윈도우, 리눅스)](https://blog.naver.com/chandong83/223520195079)
+
+---
+
 <TagLinks />

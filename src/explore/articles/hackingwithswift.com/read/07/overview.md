@@ -22,6 +22,7 @@ head:
       content: "Project 7: Whitehouse Petitions"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/07/overview.html
+prev: /explore/articles/hackingwithswift.com/read/06/06-wrap-up.md
 isOriginal: false
 ---
 

@@ -66,4 +66,10 @@ tag:
 
 ---
 
+## TheServerSide | Your Java Community discussing server side development
+
+- [A Jenkins tutorial for beginners with examples](https://www.theserverside.com/tutorial/Need-a-CI-tool-Heres-a-Jenkins-tutorial-for-beginners)
+
+---
+
 <TagLinks />

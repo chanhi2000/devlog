@@ -97,4 +97,10 @@ head:
 
 ---
 
+## Explosion · Developer tools and consulting for AI, Machine Learning and NLP
+
+- [End-to-end Neural Coreference Resolution in spaCy](https://explosion.ai/blog/coref)
+
+---
+
 <TagLinks />

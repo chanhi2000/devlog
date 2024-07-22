@@ -242,6 +242,7 @@ tag:
 - [`@2weV` / 폴인 웨비나. '편한 커리어 성장은 없다'](https://brunch.co.kr/@@2weV/532)
 - [`@3L0s` / 디지털 혁신 실행: 서비스의 디지털화 - 디지털 혁신-15](https://brunch.co.kr/@@3L0s/118)
 - [`@2rV` / 어려운 동료와의 대화: 불편함을 해결하는 전략 - 일하기 힘든 사람들을 대하는 현명한 방법](https://brunch.co.kr/@@2rV/145)
+- [`@ZVA` / 스티브 잡스라면 애플카를 어떻게 만들자고 했을까?](https://brunch.co.kr/@@ZVA/708)
 
 <!-- END: brunch.co.kr -->
 
@@ -490,6 +491,7 @@ tag:
 - [지속 가능한 사업](https://www.thestartupbible.com/2024/07/on-being-ready-to-be-a-sustainable-business.html)
 - [지속 가능한 사업](https://www.thestartupbible.com/2024/07/on-being-ready-to-be-a-sustainable-business.html)
 - [경쟁에 임하는 자세](https://www.thestartupbible.com/2024/07/on-the-mindset-of-facing-a-formidable-competitor.html)
+- [세상에서 가장 큰 학교](https://www.thestartupbible.com/2024/07/being-a-vc-means-that-you-can-get-the-best-education-in-the-world-for-free.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -877,6 +879,7 @@ tag:
 - [리더십의 리더 – Lead와 Leader](http://www.chidoo.me/index.php/2024/06/23/lead-vs-leader-in-leadership/)
 - [리더십의 리더 – 같음과 다름](http://www.chidoo.me/index.php/2024/07/07/equality-and-inequality-in-leadership/)
 - [리더십의 리더 – 리더의 팀](http://www.chidoo.me/index.php/2024/07/14/one-team-in-leadership/)
+- [리더십의 리더 – Global Maximum을 위한 리더의 목표와 결과](http://www.chidoo.me/index.php/2024/07/21/objectives-for-global-maximum-in-leadership/)
 
 <!-- END: chidoo.me -->
 
@@ -1335,6 +1338,7 @@ https://blog.naver.com/&logId=
 ## Steady Study
 
 - [의사소통자의 아홉 가지 역량](https://www.stdy.blog/communicator-competencies/)
+- [어떻게 그 판단을 할 수 있었을까?](https://www.stdy.blog/debugging-and-critical-decision-method/)
 
 ---
 

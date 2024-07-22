@@ -6,7 +6,31 @@
     "banner": "https://yt3.googleusercontent.com/PnAebfcbJ9uxY0MmPTyH9IP2bjUoc21S_50BbcMBm2-uu9CLlb2Dek3bd7FLFtTy2_j6QP-CXg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-    { "id": "bp4npkLIT_M", "title": "LLM Projects Bootcamp: Day 4 Parial Solution" },
+    { "id": "URPfEzewPHE", "title": "Introduction to AI: Generative Adversarial Networks" },
+    { "id": "xjyCzPY3gww", "title": "Introduction to AI: Neural Nets, LLMs & Gen AI: Day 10 (Review of Autoencoders)" },
+    { "id": "b40sQGWr4K0", "title": "Weekly Paper Reading: I-JEPA" },
+    { "id": "YecI0z9TozA", "title": "LLM Projects Bootcamp: Diffusion Models" },
+    { "id": "7kloiAoF_2g", "title": "LLM Projects Bootcamp: Prakash's presentation" },
+    { "id": "nnkxg1doMTI", "title": "LLM Projects Bootcamp: Diffusion Models" },
+    { "id": "fyF1OsHN50c", "title": "LLM Projects Bootcamp: Day 10 Morning" },
+    { "id": "DScZFm6FOW4", "title": "LLM Projects Bootcamp: Yeti Image Generation" },
+    { "id": "ih1lSeXvF94", "title": "LLM Projects Bootcamp: Cowboys Image Generation" },
+    { "id": "hnRwGxCy5ss", "title": "LLM Projects Bootcamp:Kahoa Team Image Generation" },
+    { "id": "LCJpMyxFWEQ", "title": "LLM Projects Bootcamp: Element Team Image Generation" },
+    { "id": "smVQVBmb7fM", "title": "LLM Projects Bootcamp: Heisenberg Team Image Generation" },
+    { "id": "Ymb0dQcCTak", "title": "LLM Projects Bootcamp: Vector Smiths Image Generation" },
+    { "id": "GUk9KYty_aI", "title": "Attention, Self-Attention & Tranformers" },
+    { "id": "dJRIgthvb4U", "title": "Introduction to AI: Day 11 Start" },
+    { "id": "DT6dia0-zpE", "title": "LLM-2 Projects Bootcamp: Final session" },
+    { "id": "VsJKjD5jPR0", "title": "LLM Projects Bootcamp" },
+    { "id": "b0uRSF0Fcjk", "title": "LLM Projects Bootcamp: Adversarial Attacks, LLamaGuard" },
+    { "id": "Nyr_eVMAMVM", "title": "LLM Projects Bootcamp: Adversarial attack project" },
+    { "id": "bRO2pE18A-0", "title": "LLM Projects Bootcamp: Day 11 Morning" },
+    { "id": "PxiubDGRfd4", "title": "V-JEPA Paper reading" },
+    { "id": "K-y8E7CifDY", "title": "GraphRAG: Research Paper reading by Ganges" },
+    { "id": "LPwc-5YqTgg", "title": "Mapping the Mind of a Large Language Model" },
+    { "id": "-OVcpaytloU", "title": "[Reading] GrokFast" },
+    { "id": "aZPkqZOXfMU", "title": "Simple introduction to  Physics Informed Neural Networks" },
     { "id": "bp4npkLIT_M", "title": "LLM Projects Bootcamp: Day 4 Parial Solution" },
     { "id": "y9LXDQfLV3c", "title": "Introduction to AI: Neural Nets, LLMs & Gen AI: Day 5 Pytorch homework" },
     { "id": "TYX9jY-rMZ8", "title": "LLM Projects Bootcamp: Pytorch solutions" },
@@ -24,7 +48,6 @@
     { "id": "OF8onMOLTA8", "title": "LLM Projects Bootcamp: PEFT & LoRA" },
     { "id": "egMWfL8zKxA", "title": "LLM Projects Bootcamp: Day 6 Afternoon" },
     { "id": "jAb6vVcAxdg", "title": "LLM Projects Bootcamp: Fine-tuning Continued" },
-    { "id": "Y4yQBHzRWTQ", "title": "LLM Projects Bootcamp: Day 6 Morning" },
     { "id": "Y4yQBHzRWTQ", "title": "LLM Projects Bootcamp: Day 6 Morning" },
     { "id": "SnQYp_Ormcs", "title": "Introduction to AI: Convolutions continued" },
     { "id": "W3eddR6zDlk", "title": "Weekly Paper Reading: Quiet-STaR" },
@@ -47,7 +70,6 @@
     { "id": "cxhSnNox5qI", "title": "LLM Projects Bootcamp: Albert Pinto Presentation" },
     { "id": "T6ZUTKkiYII", "title": "LLM Projects Bootcamp: Krishnan's Presentation" },
     { "id": "Lyj2IWwjGag", "title": "LLM Projects Bootcamp: Day 8 Morning Session" },
-    { "id": "Lyj2IWwjGag", "title": "LLM Projects Bootcamp: Day 8 Morning Session" },
     { "id": "QQOkmN5j6aw", "title": "LLM Projects Bootcamp: Day 8 Afternoon" },
     { "id": "hXIZIkq38Sg", "title": "Introduction to AI: Variational Autoencoders" },
     { "id": "UrRR2ZZEDD8", "title": "Introduction to AI: Variational Autoencoders introduced" },
@@ -57,5 +79,8 @@
     { "id": "ApYGT4ek2H4", "title": "LLM Projects Bootcamp: DETR paper reading" },
     { "id": "N0htopqU6i0", "title": "LLM Projects Bootcamp: Kahoa Team on Segmentation" },
     { "id": "mlt82lwPnIY", "title": "LLM Projects Bootcamp: Segmentation" }
+  ],
+  "playlists": [
+
   ]
 }

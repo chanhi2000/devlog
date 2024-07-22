@@ -22,6 +22,7 @@ head:
       content: "Project 6: Auto Layout"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/06/overview.html
+prev: /explore/articles/hackingwithswift.com/read/05/07-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,65 @@ Get to grips with Auto Layout using practical examples and code.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/06/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Advanced Auto Layout | Hacking with iOS",
+  "desc": "Advanced Auto Layout",
+  "link": "/explore/articles/hackingwithswift.com/read/06/02-advanced-auto-layout.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Auto Layout in code: addConstraints with Visual Format Language | Hacking with iOS",
+  "desc": "Auto Layout in code: addConstraints with Visual Format Language",
+  "link": "/explore/articles/hackingwithswift.com/read/06/03-auto-layout-in-code-addconstraints-with-visual-format-language.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Auto Layout metrics and priorities: constraints(withVisualFormat:) | Hacking with iOS",
+  "desc": "Auto Layout metrics and priorities: constraints(withVisualFormat:)",
+  "link": "/explore/articles/hackingwithswift.com/read/06/04-auto-layout-metrics-and-priorities-constraintswithvisualformat.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Auto Layout anchors | Hacking with iOS",
+  "desc": "Auto Layout anchors",
+  "link": "/explore/articles/hackingwithswift.com/read/06/05-auto-layout-anchors.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/06/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

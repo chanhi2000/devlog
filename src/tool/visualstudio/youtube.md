@@ -24,5 +24,6 @@ tag:
 ---
 
 <MyYouTubeItems jsonName="yu-visualstudio" /><!-- Microsoft Visual Studio -->
+<MyYouTubeItems jsonName="yu-Ardalis" /><!-- Ardalis -->
 
 <TagLinks />

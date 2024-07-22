@@ -140,6 +140,8 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
+- [`geekculture` / Building a Highly Scalable Data Streaming Pipeline in Python](https://medium.com/geekculture/building-a-highly-scalable-data-streaming-pipeline-in-python-1f3d317a142a)
+- [`betterprogramming` / All the Ways To Introspect Python Objects at Runtime](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6)
 - [`neuml` / Getting started with semantic search](https://medium.com/neuml/getting-started-with-semantic-search-a9fd9d8a48cf)
 - [`towardsdatascience` / Building Generator Pipelines in Python](https://towardsdatascience.com/building-generator-pipelines-in-python-8931535792ff)
 - [`towardsdatascience` / Parallelization in Python: The Easy Way](https://towardsdatascience.com/parallelization-in-python-the-easy-way-aa03ed04c209)
@@ -202,6 +204,7 @@ head:
 
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
+- [`towardsdatascience` / 12 Beginner Concepts About Type Hints To Improve Your Python Code](https://towardsdatascience.com/12-beginner-concepts-about-type-hints-to-improve-your-python-code-90f1ba0ac49)
 - [`@mildsalmon` - [이.취.코] [프로그래머스] Chap 12. 구현 - Q12. 기둥과 보 설치](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-chap-12-%EA%B5%AC%ED%98%84-q12-%EA%B8%B0%EB%91%A5%EA%B3%BC-%EB%B3%B4-%EC%84%A4%EC%B9%98)
 - [`@mildsalmon` - [이.취.코] [백준] Chap 12. 구현 - Q11. 뱀](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94-%EB%B0%B1%EC%A4%80-chap-12-%EA%B5%AC%ED%98%84-q11-%EB%B1%80)
 - [`@mildsalmon` - [이.취.코] [프로그래머스] Chap 12. 구현 - Q10. 자물쇠와 열쇠](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-chap-12-%EA%B5%AC%ED%98%84-q10-%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80-%EC%97%B4%EC%87%A0)
@@ -949,6 +952,7 @@ head:
 
 - [Joblib Memory that expires after timelimit](https://mkseo.pe.kr/blog/?p=4950)
 - [How to suppress “Using categorical units to plot a list of strings that are all parsable as floats or dates.”](https://mkseo.pe.kr/blog/?p=5012)
+- [twelvedata python api](http://mkseo.pe.kr/blog/?p=5018)
 
 ---
 
@@ -2060,6 +2064,24 @@ head:
 ## Summary Of Summer
 
 - [\[코드트리 조별과제\] 1주차 - 프로그래밍 기초](https://su-mmer.tistory.com/m/129)
+
+---
+
+## Learn Data Science and AI Online | DataCamp
+
+- [SQLAlchemy Tutorial With Examples](https://datacamp.com/tutorial/sqlalchemy-tutorial-examples)
+
+---
+
+## Statistically Relevant
+
+- [Decision Trees in Python: Predicting Diabetes](https://statisticallyrelevant.com/decision-trees-in-python-predicting-diabetes/)
+
+---
+
+## NVIDIA H100 for AI & ML Workloads | Cloud GPU Platform | Paperspace
+
+- [Pooling In Convolutional Neural Networks](https://blog.paperspace.com/pooling-in-convolutional-neural-networks/)
 
 ---
 

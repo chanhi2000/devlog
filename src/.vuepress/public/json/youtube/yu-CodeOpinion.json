@@ -6,6 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/MTcKhVE2NDL8DoS5h3M0nbEX7qwFV6aT7EY_o9o0lkgTkxBOkVxQvjcJV6SOJsyudO_gXmeJIFU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Evc0vy7QqhI", "title": "Debunking Kafka Top 5 Use Cases" },
+    { "id": "-AsO5HiyTtc", "title": "Keep your project structure simple!" },
+    { "id": "niAA3bprjNU", "title": "Web-Queue-Worker Architecture Style for Scaling" },
+    { "id": "NCh-N8JOCXA", "title": "API Error Messages for a GOOD Developer Experience" },
+    { "id": "jIivzLKo5pc", "title": "HTMX: What's Old is New Again" },
+    { "id": "APAmLzZVlxU", "title": "Did we learn anything from Microservices? (Part 1)" },
+    { "id": "eEcUAhy7zoM", "title": "HTTP APIs don't magically remove Coupling (Part 2)" },
+    { "id": "aZyghlNOmiU", "title": "One concept plaguing software architecture and design (Part 3)" },
+    { "id": "ylluDpJPvh4", "title": "Your customers don't care about JS" },
+    { "id": "maVXnkYEDIE", "title": "My First look at .NET Aspire. What's with the Hype?" },
+    { "id": "JNuk66FVSM0", "title": "OpenAPI with a sprinkle ✨ of Hypermedia" },
+    { "id": "BI-6_vF31JQ", "title": "Never rewrite code?" },
+    { "id": "mJ_T87x-0N0", "title": "Avoiding Legacy. Keeping your Codebase Evergreen🌲" },
+    { "id": "DSUnHdkKuCM", "title": ".NET Framework Migration&nbsp;to .NET 8" },
     { "id": "q07FkWjtbAY", "title": "Stop leaking and implying logic in your Frontend" },
     { "id": "6WMrfGRf9UA", "title": "\"Serverless sucks!\"... or does it?" },
     { "id": "HKspPiCGE2E", "title": "Event Sourcing Core Concepts" },
@@ -20,5 +34,8 @@
     { "id": "PyxadX8yrsI", "title": "Locking In On Concurrency Control" },
     { "id": "Srt_8a5Nam0", "title": "Build a Monolith and Deploy like Microservices? Maybe with Service Weaver" },
     { "id": "HBH6qnj0trU", "title": "Want to build a good API? Here's 5 Tips for API Design." }
+  ],
+  "playlists": [
+
   ]
 }

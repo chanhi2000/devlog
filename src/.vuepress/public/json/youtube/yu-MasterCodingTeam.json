@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/SmDt0lnsptnVrAPhH5I7m2Au9maCIDmkt6_N1INi8qYolDtqCdl-7iHlHkY6TTrl72IXSvMTTdI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bCxTRJJRXpk", "title": "Linear Layout App - Learn Android from Zero #20" },
+    { "id": "kQLNIvbdJOI", "title": "Relative Layout App - Learn Android from Zero #21 #androidstudio" },
+    { "id": "w-3oRehgMrw", "title": "Constraint Layout App - Learn Android from Zero #22 #androidstudio" },
+    { "id": "tK0wC9hHVr0", "title": "Activity Life Cycle in Android - Learn Android from Zero #24 #androidstudio" },
+    { "id": "AhMNX77Zh6o", "title": "Intents in Android - Learn Android from Zero #25 #androidstudio" },
+    { "id": "mPHaRtBq9tw", "title": "Explicit Intents in Android - Learn Android from Zero #26 #androidstudio" },
+    { "id": "pnDiZZC3114", "title": "Implicit Intents in Android - Learn Android from Zero #27 #androidstudio" },
+    { "id": "K77mJ3kx1bw", "title": "The Manifest in Android - Learn Android from Zero #28 #androidstudio" },
+    { "id": "E1LS3qRwCcY", "title": "Gradle in Android - Learn Android from Zero #29 #androidstudio" },
+    { "id": "E1LS3qRwCcY", "title": "Gradle in Android - Learn Android from Zero #29 #androidstudio" },
     { "id": "chyp_Dv-8Wg", "title": "Building Unit Converter App - Learn Android from Zero #16" },
     { "id": "4uX8uDcV9mQ", "title": "What are Layouts? - Learn Android from Zero #17" },
     { "id": "wKaJlRoaqKk", "title": "Types of Layouts - Learn Android from Zero #18" },
@@ -32,5 +42,8 @@
     { "id": "SZAElsz1_zM", "title": "The Secrets behind Adapters in Android - Mastering Android Course #40" }, 
     { "id": "m_33xFtbta4", "title": "Creating PDF Reader App - Mastering Android Course #39" }, 
     { "id": "WK6u4QYTKJM", "title": "Custom Progress Bar in Android Studio - Mastering Android Course #35" }
+  ],
+  "playlists": [
+
   ]
 }

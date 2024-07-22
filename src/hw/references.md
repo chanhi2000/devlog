@@ -1,4 +1,4 @@
----
+
 lang: ko-KR
 title: References
 description: Hardware > References
@@ -64,6 +64,7 @@ head:
 - [`@mythos` / \[Linux Kernel\] 커널 패치 방식](https://velog.io/@mythos/Linux-Kernel-%EC%BB%A4%EB%84%90-%ED%8C%A8%EC%B9%98-%EB%B0%A9%EC%8B%9D)
 - [`@mythos` / \[Linux Kernel\] Mailing List 구독하기](https://velog.io/@mythos/Linux-Kernel-Mailing-List-%EA%B5%AC%EB%8F%85%ED%95%98%EA%B8%B0)
 - [`@mythos` / \[Linux Kernel\] 개발 환경 설정하기](https://velog.io/@mythos/Linux-Kernel-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [`@mythos` / [Linux Kernel] QEMU 를 통한 커널 디버깅](https://velog.io/@mythos/Linux-Kernel-QEMU-%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%BB%A4%EB%84%90-%EB%94%94%EB%B2%84%EA%B9%85)
 
 <!-- END: velog.io -->
 
@@ -420,6 +421,16 @@ head:
 
 ---
 
+## 게으른맽랩 lazy matlab
+
+- [\[혼공컴운\] 1장. 컴퓨터 구조 시작하기](https://lazymatlab.tistory.com/m/255)
+- [\[혼공컴운\] 2장. 데이터](https://lazymatlab.tistory.com/m/256)
+- [\[혼공컴운\] 3장. 명령어](https://lazymatlab.tistory.com/m/257)
+- [\[혼공컴운\] 8장. 입출력장치](https://lazymatlab.tistory.com/m/269)
+- [\[혼공컴운\] 7장. 보조기억장치](https://lazymatlab.tistory.com/m/268)
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"
@@ -428,3 +439,4 @@ head:
   preview="http://syzygyfpga.io/wp-content/uploads/2020/04/syzygy-og-image.png"/>
 
 <TagLinks />
+

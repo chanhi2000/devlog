@@ -108,7 +108,6 @@ head:
 <MyYouTubeItems jsonName="yu-user-yu8so2ck1z" /><!-- 코딩알려주는누나 -->
 <MyYouTubeItems jsonName="yu-Renewedcart" /><!-- Cat Technologies -->
 <MyYouTubeItems jsonName="yu-Hyperplexed" /><!-- Hyperplexed -->
-<MyYouTubeItems jsonName="yu-Ezweb" /><!-- Rock's Easyweb -->
 <MyYouTubeItems jsonName="yu-FunOfHeuristic" /><!-- Fun Of Heuristic -->
 <MyYouTubeItems jsonName="yu-kossiecoder" /><!-- 코지 코더 Kossie Coder -->
 <MyYouTubeItems jsonName="yu-user-sq7il2ir1e" /><!-- 5분개발지식 -->
@@ -153,7 +152,6 @@ head:
 <MyYouTubeItems jsonName="yu-mraible" /><!-- Matt Raible -->
 <MyYouTubeItems jsonName="yu-WebDevMatics" /><!-- WebDevMatics -->
 <MyYouTubeItems jsonName="yu-Letsboot" /><!-- letsboot.com -->
-<MyYouTubeItems jsonName="yu-QiroLab" /><!-- QiroLab -->
 <MyYouTubeItems jsonName="yu-jejucodingcamp" /><!-- 제주코딩베이스캠프 -->
 <MyYouTubeItems jsonName="yu-javascriptisrael" /><!-- JavaScript Israel -->
 <MyYouTubeItems jsonName="yu-CoderOne" /><!-- CoderOne -->

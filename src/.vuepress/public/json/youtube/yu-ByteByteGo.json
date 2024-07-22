@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/9BCeBFuI8LqoAS9rWKmAZIAy4bMn7zFQaa6WqOoezPiyNf_sJ4Dd_Tut0WvwSkFJTff2RXwxG9g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6WZ6S-qmtqY", "title": "Top 12 Tips For API Security" },
+    { "id": "UuT61kf292A", "title": "Top 9 Must-Read Blogs for Engineers" },
+    { "id": "GmXPwRNIrAU", "title": "10 Coding Principles Explained in 5 Minutes" },
+    { "id": "zY2DMpCUfCg", "title": "Top 9 Most Popular API Protocols" },
+    { "id": "RIX4ufelA58", "title": "Do You Know How Mobile Apps Are Released?" },
+    { "id": "cTyZ_hbmbDw", "title": "KISS, SOLID, CAP, BASE: Important Terms You Might Not Know!" },
+    { "id": "kGT4PcTEPP8", "title": "What is Data Pipeline? | Why Is It So Popular?" },
+    { "id": "x4k1XEjNzYQ", "title": "Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar" },
+    { "id": "_1IKwnbscQU", "title": "7 Must-know Strategies to Scale Your Database" },
+    { "id": "RlM9AfWf1WU", "title": "Concurrency Vs Parallelism!" },
+    { "id": "4N4Q576i3zA", "title": "Linux Crash Course - Understanding File Permissions" },
     { "id": "x_jjhcDrISk", "title": "Top 3 Things You Should Know About Webhooks!" },
     { "id": "wh98s0XhMmQ", "title": "Caching Pitfalls Every Developer Should Know" },
     { "id": "x8lcdDbKZto", "title": "Why is Redis so FAST #javascript #python #web #coding #programming" },
@@ -37,5 +48,8 @@
     { "id": "O1cRJWYF-g4", "title": "What Is Single Sign-on (SSO)? How It Works" }, 
     { "id": "dGAgxozNWFE", "title": "Cache Systems Every Developer Should Know" }, 
     { "id": "TlHvYWVUZyc", "title": "Kubernetes Explained in 6 Minutes | k8s Architecture" }
+  ],
+  "playlists": [
+    
   ]
 }

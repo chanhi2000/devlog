@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
-title: What's new in Swift?
-description: Article(s) > What's new in Swift?
-icon: fa-brands fa-swift
+title: Hacking with iOS – learn to code iPhone and iPad apps with free Swift tutorials
+description: Article(s) > Hacking with iOS – learn to code iPhone and iPad apps with free Swift tutorials
+icon: iconfont icon-ios
 category:
   - Swift
   - iOS
@@ -18,9 +18,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > What's new in Swift?
+      content: Article(s) > Hacking with iOS – learn to code iPhone and iPad apps with free Swift tutorials
     - property: og:description
-      content: What's new in Swift?
+      content: Hacking with iOS – learn to code iPhone and iPad apps with free Swift tutorials
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/
 ---
@@ -484,7 +484,7 @@ Whether you want to learn SwiftUI or UIKit, Hacking with iOS is a complete tutor
 ```component VPCard
 {
   "title": "Project 31: Multibrowser",
-  "desc": "Get started with UIStackView and see just how easy iPad multitasking can be.",
+  "desc": "Get started with UIStackView and see just how easy iPad multitasking is.",
   "link": "/explore/articles/hackingwithswift.com/read/31/overview.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"

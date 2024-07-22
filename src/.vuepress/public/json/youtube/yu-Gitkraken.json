@@ -6,6 +6,21 @@
     "banner": "https://yt3.googleusercontent.com/hZX7_HJ83tC-kgzQOmtzrG49bJzHEZFOHoIM_gbrxviK0tROVkvg1KZFywzXK1uU00oH2Oh80A8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bnR7fN0TXOg", "title": "👀 Want to use #GitKraken features in your terminal? 🖥️ ⚡️ #shorts" },
+    { "id": "z4Zm6KmVm90", "title": "GitKraken Client Tutorial: How to MERGE" },
+    { "id": "l03I3EEtoAo", "title": "GitKraken Client Tutorial: How to REBASE" },
+    { "id": "ihJ2b8w_VQM", "title": "The Shift to Native Git from Libgit2/Nodegit Explained" },
+    { "id": "EOcJE6lJ9gg", "title": "Want an easier way to understand project history? ✍️📚 #GitLens #shorts" },
+    { "id": "N2lE5tOzvjY", "title": "Creating Reliable and Easy to Maintain Connections with Git Integration for Jira" },
+    { "id": "ZIh47IfAWkM", "title": "GitLens Tutorial: Getting Started" },
+    { "id": "oJdlGtsbc3U", "title": "GitLens Tutorial: How to use the VS Code Extension" },
+    { "id": "vWcHo_WQN54", "title": "Designing Modern UI with Lit Web Components" },
+    { "id": "iwHFgIyHYVg", "title": "GitKraken Desktop Tutorial: How to INTERACTIVE REBASE" },
+    { "id": "kfnMPxNexqU", "title": "GitKraken Workshops: Simplify Your Jira Workflows" },
+    { "id": "eU9wSeRgIa4", "title": "How to Create Branches Directly from Jira Issues 👀 🖥️ #Git" },
+    { "id": "gKA-bPkOGz0", "title": "View all Jira issues on your plate 🍽️ in GitKraken Desktop" },
+    { "id": "Yd65oKKq04A", "title": "Ever struggled to track who made changes in your code? 👀 #shorts" },
+    { "id": "KBlyvVebRHI", "title": "Perform bulk operations with Workspaces 🖥️ #shorts" },
     { "id": "uVjywWeP-Os", "title": "Commit Graph Looking like a Subway Map? 🚇 🗺️ Here's a Quick Tip! #GitKraken #Git" },
     { "id": "8ifqSzZTiOY", "title": "Changelog Breakdown: Focus Tab, GitKraken.dev, & more" },
     { "id": "xBAN7mLMf00", "title": "🌲 'Solo' Branches for Enhanced Commit Graph Clarity 🔍 #GitKraken" },
@@ -33,5 +48,8 @@
     { "id": "vQmMJPS_lGw", "title": "From Command Line to GitKraken Client 🦑: Simplifying Version Control for Linux" }, 
     { "id": "s4BTvj1ZVLM", "title": "How to Use Git Worktree | Checkout Multiple Git Branches at Once" }, 
     { "id": "kfLrSERFgQo", "title": "Advanced Git CLI Tips: Git Clean, Git Reflog, Git GC, Git Alias, & More" } 
+  ],
+  "playlists": [
+    
   ]
 }

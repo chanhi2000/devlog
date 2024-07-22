@@ -581,4 +581,10 @@ head:
 
 ---
 
+## Professional TypeScript Training by Matt Pocock  | Total TypeScript
+
+- [Beginner's TypeScript](https://totaltypescript.com/tutorials/beginners-typescript)
+
+---
+
 <TagLinks />
