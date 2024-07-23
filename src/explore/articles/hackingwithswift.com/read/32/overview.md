@@ -53,7 +53,7 @@ isOriginal: false
 
 ::: note Description
 
-Bring your interfaces to life with animation, and meet switch/case at the same time.
+Add your app's content to iOS 9's Spotlight search and take advantage of the new Safari integration.
 
 :::
 

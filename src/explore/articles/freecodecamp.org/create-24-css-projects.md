@@ -50,7 +50,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721240718922/b7d232c
   desc="As the web evolves, new tools and ideas are released with the goal of making our lives as web developers easier. This means we have to choose whether to stick with the old ways or discard them entirely for the shiny new stuff. But does this always demand an either-or..."
   url="https://freecodecamp.org/news/create-24-css-projects/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://freecodecamp.org/news/content/image7-17e/w2000/2024/06/titleimage.png"/>
+  preview="https://cdn.hashnode.com/res/hashnode/image/upload/v1721240718922/b7d232c7-a3ae-4914-9039-c95018c69e7a.png"/>
 
 CSS is an essential skill for web developers, and mastering it can greatly enhance the look and feel of your web projects. Whether you're a beginner looking to sharpen your skills or an experienced developer aiming to stay up-to-date with the latest techniques, our comprehensive challenge pack has something for you.
 

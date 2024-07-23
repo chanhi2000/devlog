@@ -106,6 +106,10 @@ head:
 ## üntil
 
 - [`@sin0105` / 코딩테스트 준비 - 폰켓몬](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%ED%8F%B0%EC%BC%93%EB%AA%AC)
+- [`@sin0105` / 코딩테스트 준비 - 완주하지 못한 선수](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98)
+- [`@sin0105` / 코딩테스트 준비 - 전화번호 목록](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)
+
+<!-- END: until.blog -->
 
 ---
 
@@ -210,6 +214,8 @@ head:
 - [LxMFC - 로그인 기반 채팅 예제 (Socket 프로그래밍)](https://m.blog.naver.com/tipsware/223518473959)
 - [LxMFC - 컴퓨터에 연결된 CAM에서 영상 가져와서 패턴 색상 직접 변경하기](https://m.blog.naver.com/tipsware/223519755297)
 - [좌표 개념 없이 출력문 사용하기 (_printf 함수)](https://m.blog.naver.com/tipsware/223519851250)
+- [클립보드에 저장된 이미지 파일로 저장하기 - Step 1](https://m.blog.naver.com/tipsware/223521616880)
+- [클립보드에 저장된 이미지 파일로 저장하기 - Step 2](https://m.blog.naver.com/tipsware/223523324033)
 
 <!-- END: blog.naver.com/tipsware/ -->
 

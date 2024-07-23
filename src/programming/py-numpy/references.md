@@ -103,4 +103,10 @@ head:
 
 ---
 
+## 큰돌의 터전
+
+- [코사인과 BM25 weight](https://m.blog.naver.com/jhc9639/223521817845)
+
+---
+
 <TagLinks />

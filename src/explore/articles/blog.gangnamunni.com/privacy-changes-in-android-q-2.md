@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: 안드로이드 MotionLayout
-description: Article(s) > 안드로이드 MotionLayout
+title: Privacy Changes in Android Q#2
+description: Article(s) > Privacy Changes in Android Q#2
 icon: fa-brands fa-android
 category: 
   - Java
@@ -15,9 +15,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > 안드로이드 MotionLayout
+      content: Article(s) > Privacy Changes in Android Q#2
     - property: og:description
-      content: 안드로이드 MotionLayout
+      content: Privacy Changes in Android Q#2
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/blog.gangnamunni.com/privacy-changes-in-android-q-2.html
 prev: /programming/java-android/articles/README.md
@@ -43,7 +43,7 @@ cover: https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg
 ---
 
 <SiteInfo
-  name="안드로이드 MotionLayout"
+  name="Privacy Changes in Android Q#2"
   desc="안드로이드 기기 고유 식별자 제한"
   url="https://blog.gangnamunni.com/post/privacy-changes-in-android-q-2/"
   logo="https://blog.gangnamunni.com/favicon.ico"

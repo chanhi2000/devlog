@@ -94,7 +94,8 @@ head:
 
 ## Teveloper 개발 & 테니스 이야기
 
-- [[Next.js] Turborepo에서 build시 cache가 적용되지 않는 이슈](https://teveloper.tistory.com/77)
+- [\[Next.js\] Turborepo에서 build시 cache가 적용되지 않는 이슈](https://teveloper.tistory.com/77)
+- [Next.js + Supabase로 빠르게 블로그 방명록 만들기 (with AI 디자인)](https://teveloper.tistory.com/m/86)
 
 ---
 

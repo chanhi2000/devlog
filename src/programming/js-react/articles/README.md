@@ -483,7 +483,7 @@ head:
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
-```s
+```
 
 <!-- END: freecodecamp.org -->
 
@@ -707,6 +707,26 @@ head:
   "title": "2024 프론트엔드 기술 스택 트렌드 이야기 | 요즘IT",
   "desc": "2024 프론트엔드 기술 스택 트렌드 이야기",
   "link": "/explore/articles/yozm.wishket.com/2625.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "리액트에서 key에 index를 넣으면 안 되는 ‘진짜’ 이유 | 요즘IT",
+  "desc": "리액트에서 key에 index를 넣으면 안 되는 ‘진짜’ 이유",
+  "link": "/explore/articles/yozm.wishket.com/2634.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "알아두면 유용한 ‘리액트’ 개념과 성능 최적화 팁 | 요즘IT",
+  "desc": "알아두면 유용한 ‘리액트’ 개념과 성능 최적화 팁",
+  "link": "/explore/articles/yozm.wishket.com/2688.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

@@ -2126,5 +2126,19 @@
     "topics": ["debugger", "gdb", "linux", "reverse-execution"],
     "avatar": "https://avatars.githubusercontent.com/u/69774253?v=4",
     "banner": ""
+  }, {
+    "repo": "RPCS3/rpcs3",
+    "desc": "PS3 emulator/debugger",
+    "officialSite": "https://rpcs3.net/",
+    "topics": ["assembly-language", "cpp", "emulation", "emulator", "hacktoberfest", "llvm", "ps3", "vulkan"],
+    "avatar": "https://avatars.githubusercontent.com/u/8070735?v=4",
+    "banner": ""
+  }, {
+    "repo": "sqlitebrowser/sqlitebrowser",
+    "desc": "Official home of the DB Browser for SQLite (DB4S) project. Previously known as \"SQLite Database Browser\" and \"Database Browser for SQLite\". Website at: ",
+    "officialSite": "https://sqlitebrowser.org",
+    "topics": ["c-plus-plus", "cross-platform", "database", "database-browser", "database-gui", "sqlite", "sqlitebrowser"],
+    "avatar": "https://avatars.githubusercontent.com/u/7454271?v=4",
+    "banner": ""
   }
 ]

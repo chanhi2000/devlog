@@ -152,6 +152,7 @@ head:
 - [`@joshuara7235` / 어플리케이션은 완벽할 수 없다. 다만 완벽을 지향할 뿐.](https://velog.io/@joshuara7235/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%80-%EC%99%84%EB%B2%BD%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4.-%EB%8B%A4%EB%A7%8C-%EC%99%84%EB%B2%BD%EC%9D%84-%EC%A7%80%ED%96%A5%ED%95%A0-%EB%BF%90)
 - [`dradnats1012` / DB 서버 분리하기!](https://velog.io/@dradnats1012/DB-%EC%84%9C%EB%B2%84-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [`@joshuara7235` / 항해의 중간지점, 나는 얼마나 성장했나.](https://velog.io/@joshuara7235/%ED%95%AD%ED%95%B4%EC%9D%98-%EC%A4%91%EA%B0%84%EC%A7%80%EC%A0%90-%EB%82%98%EB%8A%94-%EC%96%BC%EB%A7%88%EB%82%98-%EC%84%B1%EC%9E%A5%ED%96%88%EB%82%98)
+- [`@kny8092` / JPA QueryMethod 구현해보기](https://velog.io/@kny8092/JPA-QueryMethod-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -429,6 +430,8 @@ head:
 - [8.4. 책 컨트롤러에 @ExceptionHandler 추가하기](https://ysedeveloper.tistory.com/m/entry/84-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EC%97%90-ExceptionHandler-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [8.5. 책 수정 화면 컨트롤러 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/85-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [8.6. 책 수정 화면 뷰 작성하기](https://ysedeveloper.tistory.com/m/entry/86-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EB%B7%B0-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
+- [8.7. 책 수정 화면 확인하기](https://ysedeveloper.tistory.com/m/entry/87-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+- [9.1. 책 수정 기능 개요](https://ysedeveloper.tistory.com/entry/91-%EC%B1%85-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EC%9A%94)
 
 <!-- END: ysedeveloper.tistory.com -->
 

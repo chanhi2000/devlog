@@ -375,6 +375,7 @@ head:
 ## 기계인간 John Grib
 
 - [Cardinality](https://johngrib.github.io/wiki/database/cardinality/)
+- [코페르니쿠스 원리 (Copernican Principle)](https://johngrib.github.io/wiki/jargon/copernican-principle/)
 
 ---
 
@@ -417,6 +418,7 @@ head:
 - [\[혼공컴운\] 5장. CPU의 성능 향상 기법](https://lazymatlab.tistory.com/m/262)
 <!-- TODO: coen으로 이동 -->
 - [왜 gradient가 가장 가파른 방향일까?](https://lazymatlab.tistory.com/m/264)
+- [수학 위시리스트](https://lazymatlab.tistory.com/m/270)
 
 ---
 
@@ -567,6 +569,12 @@ head:
 ## David Turner says...
 
 - [Identifying leap years](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)
+
+---
+
+## Cris’ Image Analysis Blog
+
+- [Median filtering](https://www.crisluengo.net/archives/1138/)
 
 ---
 

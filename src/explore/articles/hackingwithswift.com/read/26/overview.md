@@ -53,7 +53,7 @@ isOriginal: false
 
 ::: note Description
 
-Bring your interfaces to life with animation, and meet switch/case at the same time.
+Respond to device tilting by steering a ball around a vortex maze.
 
 :::
 

@@ -53,7 +53,7 @@ isOriginal: false
 
 ::: note Description
 
-Bring your interfaces to life with animation, and meet switch/case at the same time.
+Let iOS take over the AI in your games using GameplayKit AI.
 
 :::
 

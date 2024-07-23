@@ -423,6 +423,12 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/07/overview.md',
+              '/explore/articles/hackingwithswift.com/read/07/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/07/02-creating-the-basic-ui-uitabbarcontroller.md',
+              '/explore/articles/hackingwithswift.com/read/07/03-parsing-json-using-the-codable-protocol.md',
+              '/explore/articles/hackingwithswift.com/read/07/04-rendering-a-petition-loadhtmlstring.md',
+              '/explore/articles/hackingwithswift.com/read/07/05-finishing-touches-didfinishlaunchingwithoptions.md',
+              '/explore/articles/hackingwithswift.com/read/07/06-wrap-up.md',
             ]
           }, {
             text: 'Project 8: 7 Swifty Words',

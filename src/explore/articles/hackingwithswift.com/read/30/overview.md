@@ -53,7 +53,7 @@ isOriginal: false
 
 ::: note Description
 
-Bring your interfaces to life with animation, and meet switch/case at the same time.
+Become a bug detective and track down lost memory, slow drawing and more.
 
 :::
 

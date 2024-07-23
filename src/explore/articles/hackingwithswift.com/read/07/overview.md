@@ -58,7 +58,65 @@ Make an app to parse Whitehouse petitions using JSON and a tab bar.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/07/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating the basic UI: UITabBarController | Hacking with iOS",
+  "desc": "Creating the basic UI: UITabBarController",
+  "link": "/explore/articles/hackingwithswift.com/read/07/02-creating-the-basic-ui-uitabbarcontroller.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Parsing JSON using the Codable protocol | Hacking with iOS",
+  "desc": "Parsing JSON using the Codable protocol",
+  "link": "/explore/articles/hackingwithswift.com/read/07/03-parsing-json-using-the-codable-protocol.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Rendering a petition: loadHTMLString | Hacking with iOS",
+  "desc": "Rendering a petition: loadHTMLString",
+  "link": "/explore/articles/hackingwithswift.com/read/07/04-rendering-a-petition-loadhtmlstring.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Finishing touches: didFinishLaunchingWithOptions | Hacking with iOS",
+  "desc": "Finishing touches: didFinishLaunchingWithOptions",
+  "link": "/explore/articles/hackingwithswift.com/read/07/05-finishing-touches-didfinishlaunchingwithoptions.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/07/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

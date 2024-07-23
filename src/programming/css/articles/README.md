@@ -182,6 +182,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build a Simple Bitcoin-to-USD Calculator",
+  "desc": "Welcome to this fun and hands-on project where we'll build a calculator that converts Bitcoin to USD. You'll learn about API fetching, DOM manipulation, and localStorage, and you'll use some basic math along the way.  By the end of this tutorial, you'll have a functioning Bitcoin price calculator that...",
+  "link": "/explore/articles/freecodecamp.org/build-a-bitcoin-to-usd-calculator.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

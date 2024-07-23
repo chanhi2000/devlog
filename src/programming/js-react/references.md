@@ -404,6 +404,8 @@ head:
 - [`@dody` / react에서 컴포넌트 위치로 스크롤 시키기](https://until.blog/@dody/react)
 - [`@morethanmin` / react-router에서 useMatch로 현재 route path 확인하기](https://until.blog/@morethanmin/react-router%EC%97%90%EC%84%9C-usematch%EB%A1%9C-%ED%98%84%EC%9E%AC-route-path-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 - [`@ganymedian` / #3. more hooks & custom hooks](https://until.blog/@ganymedian/-3--more-hooks---custom-hooks)
+- [`@ganymedian` / #5. React-Router-Dom](https://until.blog/@ganymedian/-5--react-router-dom)
+- [`@love` / React의 게으른 초기화 (lazy initialization)](https://until.blog/@love/react%EC%9D%98-%EA%B2%8C%EC%9C%BC%EB%A5%B8-%EC%B4%88%EA%B8%B0%ED%99%94--lazy-initialization-)
 
 ---
 
@@ -1155,6 +1157,18 @@ https://o-yeon.tistory.com/227
 ## Cloud-as-a-Service | Join our global network with your own managed cloud solution
 
 - [Smooth Scrolling in Action Using React: A Tutorial](https://cloudsigma.com/smooth-scrolling-in-action-using-react-a-tutorial/)
+
+---
+
+## 이뇽의세상
+
+- [React Compiler 파헤치기](https://helloinyong.tistory.com/m/365)
+
+---
+
+## 개발하는 기획자. 기획하는 개발자.
+
+- [Vitest 세팅](https://m.blog.naver.com/gi_balja/223523330500)
 
 ---
 

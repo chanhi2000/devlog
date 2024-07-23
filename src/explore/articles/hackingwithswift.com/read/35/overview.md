@@ -53,7 +53,7 @@ isOriginal: false
 
 ::: note Description
 
-Bring your interfaces to life with animation, and meet switch/case at the same time.
+Let GameplayKit help you generate random numbers in ways you soon won't be able to live without.
 
 :::
 

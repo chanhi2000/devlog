@@ -79,4 +79,10 @@ tag:
 
 ---
 
+## JP Camara
+
+- [Ruby methods are colorless](https://jpcamara.com/2024/07/15/ruby-methods-are.html)
+
+---
+
 <TagLinks />

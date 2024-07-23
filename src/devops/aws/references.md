@@ -446,6 +446,7 @@ head:
 - [\[내일배움캠프 49일차 TIL\] AWS 계정 생성 및 IAM](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-49%EC%9D%BC%EC%B0%A8-TIL-AWS-%EA%B3%84%EC%A0%95-%EC%83%9D%EC%84%B1-%EB%B0%8F-IAM)
 - [\[AWS\] IAM이란? feat. 관리용 IAM사용자 생성하는 법](https://moonnight0.tistory.com/m/entry/AWS-IAM%EC%9D%B4%EB%9E%80-feat-%EA%B4%80%EB%A6%AC%EC%9E%90-IAM%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B2%95)
 - [\[AWS\] 계정 생성하기](https://moonnight0.tistory.com/m/entry/AWS-%EA%B3%84%EC%A0%95-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+- [[내일배움캠프 67일차 TIL] 최종 프로젝트 - EC2 배포, https 적용](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-67%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-EC2-%EB%B0%B0%ED%8F%AC-https-%EC%A0%81%EC%9A%A9)
 
 ---
 
@@ -488,6 +489,12 @@ head:
 ## 컴맹 : 진화의 시작
 
 - [AWS Redshift: WLM, Queue, and Slot](http://jybaek.tistory.com/m/504716)
+
+---
+
+## 큰돌의 터전
+
+- [AWS S3를 통해 이미지를 올리는 방법 및 권한설정](https://m.blog.naver.com/jhc9639/223522562723)
 
 ---
 

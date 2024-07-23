@@ -198,6 +198,7 @@ head:
 - [`@kwonhl0211` / 앞으로 제품 디자인은 어떻게 바뀔까? 멀티모달 프로덕트와 생성형 UI에 대한 생각 정리](https://velog.io/@kwonhl0211/%EC%95%9E%EC%9C%BC%EB%A1%9C-%EC%A0%9C%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EB%80%94%EA%B9%8C-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%99%80-%EC%83%9D%EC%84%B1%ED%98%95-UI%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-%EC%A0%95%EB%A6%AC)
 - [`@joshuara7235` / 좋은 코드를 위해서는 좋은 설계가 우선되어야 한다.](https://velog.io/@joshuara7235/%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%B4%EC%84%9C%EB%8A%94-%EC%A2%8B%EC%9D%80-%EC%84%A4%EA%B3%84%EA%B0%80-%EC%9A%B0%EC%84%A0%EB%90%98%EC%96%B4%EC%95%BC-%ED%95%9C%EB%8B%A4)
 - [`@jeong_hun_hui` / 트랜잭션의 동시성 문제를 알아보자](https://velog.io/@jeong_hun_hui/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- [`@broccolism` / 왜 내가 누르면 대기 중이라고 뜰까? - 7장. 호텔 예약 시스템](https://velog.io/@broccolism/%EC%99%9C-%EB%82%B4%EA%B0%80-%EB%88%84%EB%A5%B4%EB%A9%B4-%EB%8C%80%EA%B8%B0-%EC%A4%91%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%9C%B0%EA%B9%8C-7%EC%9E%A5.-%ED%98%B8%ED%85%94-%EC%98%88%EC%95%BD-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
 <!-- END: velog.io -->
 
@@ -312,6 +313,8 @@ head:
 - [\[내일배움캠프 34일차 TIL\] 뉴스피드 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-34%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
 - [\[내일배움캠프 59일차 TIL\] 심화 프로젝트 시작](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-59%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%AC%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91)
 - [\[내일배움캠프 65일차 TIL\] 최종 프로젝트 - 기획 & 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EC%84%A4%EA%B3%84)
+- [\[내일배움캠프 66일차 TIL\] 최종 프로젝트 - WBS 작성](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-66%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-WBS-%EC%9E%91%EC%84%B1)
+- [\[내일배움캠프 65일차 TIL\] 최종 프로젝트 - 초기 세팅](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B4%88%EA%B8%B0-%EC%84%B8%ED%8C%85)
 
 ---
 

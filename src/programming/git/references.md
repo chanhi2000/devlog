@@ -383,7 +383,9 @@ head:
 
 ## 기계인간 John Grib
 
-- [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
+- [편리한 `git alias` 설정하기](https://johngrib.github.io/wiki/git-alias/)
+- [`git index`](https://johngrib.github.io/wiki/git/index/)
+- [`git ls-files`](https://johngrib.github.io/wiki/git/ls-files/)
 
 ---
 

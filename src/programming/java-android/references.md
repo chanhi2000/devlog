@@ -201,6 +201,7 @@ tag:
 ## Brunch
 
 - [`@2Kn8` / 안드로이드 Room - Android Jetpack](https://brunch.co.kr/@@2Kn8/216)
+- [`@2Kn8` / 안드로이드 Hilt - Android Jetpack](https://brunch.co.kr/@@2Kn8/217)
 
 <!-- END: brunch.co.kr -->
 

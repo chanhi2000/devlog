@@ -106,6 +106,10 @@ tag:
 - [`@qkrtkdwns3410` / \[이펙티브 자바 아이템.61\] 박싱된 기본 타입보다는 기본 타입을 사용하라](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C.61-%EB%B0%95%EC%8B%B1%EB%90%9C-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 - [`@qkrtkdwns3410` / \[알고리즘 2667\] 발표 자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2667-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C)
 - [`@qkrtkdwns3410` / \[알고리즘 2491\] 발표자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2491-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
+- [`@dongha1992` / 99클럽 코테 스터디 1일차 TIL](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%9D%BC%EC%B0%A8-TIL)
+- [`@dongha1992` / 99클럽 코테 스터디 2일차 TIL - Java](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%9D%BC%EC%B0%A8-TIL-0x2jtusr)
+
+<!-- END: velog.io java -->
 
 ### <FontIcon icon="iconfont icon-blex"/>BLEX
 
@@ -135,6 +139,9 @@ tag:
 - [`@woonideveloper423` / \[Java\] JVM의 개념 및 JDK JRE 와의 차이점](https://until.blog/@woonideveloper423/-java--jvm%EC%9D%98-%EA%B0%9C%EB%85%90-%EB%B0%8F-jdk-jre-%EC%99%80%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 - [`@vitalemon` / Evolution of Java Usage of Netflix](https://until.blog/@vitalemon/evolution-of-java-usage-of-netflix)
 - [`@melba` / Lombok을 사용해보자](https://until.blog/@melba/lombok%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
+- [`@jiheeseo` / 99클럽 코테 스터디 1일차 - n^2 배열 자르기](https://until.blog/@jiheeseo/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%9D%BC%EC%B0%A8---n-2-%EB%B0%B0%EC%97%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0)
+
+<!-- END: until.blog -->
 
 ### 동팡
 

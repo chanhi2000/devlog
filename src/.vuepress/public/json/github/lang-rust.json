@@ -2333,5 +2333,12 @@
     "topics": ["ai", "llm", "rust"],
     "avatar": "https://avatars.githubusercontent.com/u/6546430?v=4",
     "banner": ""
+  }, {
+    "repo": "Troels51/dtui",
+    "desc": "Small TUI for introspecting the state of the system/session dbus",
+    "officialSite": "",
+    "topics": ["dbus", "ratatui", "tui", "zbus"],
+    "avatar": "https://avatars.githubusercontent.com/u/1415528?v=4",
+    "banner": ""
   }
 ]

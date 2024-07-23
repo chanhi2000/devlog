@@ -2,13 +2,17 @@
   {
     "repo": "OpenBapul/hml-equation-parser",
     "desc": "",
+    "officialSite": "https://pypi.python.org/pypi/hml_equation_parser",
     "topics": [],
-    "officialSite": "https://pypi.python.org/pypi/hml_equation_parser"
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "public-apis/public-apis",
     "desc": "A collective list of free APIs",
+    "officialSite": "http://public-apis.org",
     "topics": ["api", "lists", "open-source", "list", "development", "public", "resources", "dataset", "free", "software", "apis", "public-api", "public-apis"],
-    "officialSite": "http://public-apis.org"
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "public-apis-dev/public-apis",
     "desc": "A collaborative list of public APIs for developers",
@@ -19,23 +23,31 @@
   }, {
     "repo": "microsoft/unilm",
     "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "officialSite": "https://aka.ms/nlpagi",
     "topics": [],
-    "officialSite": "https://aka.ms/nlpagi"
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "3b1b/manim",
     "desc": "Animation engine for explanatory math videos",
+    "officialSite": "",
     "topics": [],
-    "officialSite": ""
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "kivy/kivy",
     "desc": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "officialSite": "https://kivy.org",
     "topics": [],
-    "officialSite": "https://kivy.org"
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "mkdocs/mkdocs",
     "desc": "Project documentation with Markdown.",
+    "officialSite": "https://www.mkdocs.org",
     "topics": [],
-    "officialSite": "https://www.mkdocs.org"
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "hwchase17/langchain",
     "desc": "⚡ Building applications with LLMs through composability ⚡",
@@ -7188,6 +7200,34 @@
     "officialSite": "http://g1879.gitee.io/drissionpagedocs",
     "topics": ["automation-framework", "crawlers", "requests", "selenium-python"],
     "avatar": "https://avatars.githubusercontent.com/u/50311409?v=4",
+    "banner": ""
+  }, {
+    "repo": "sinaatalay/rendercv",
+    "desc": "A LaTeX CV/Resume Framework",
+    "officialSite": "http://docs.rendercv.com",
+    "topics": ["cv", "cv-builder", "cv-generator", "cv-template", "latex", "python", "resume", "resume-builder", "resume-generator", "resume-template"],
+    "avatar": "https://avatars.githubusercontent.com/u/79940989?v=4",
+    "banner": ""
+  }, {
+    "repo": "pygamelib/pygamelib",
+    "desc": "A (not so) small python library for console (as in terminal) game development. It is developed as a framework to help learn development and python in an entertaining way.",
+    "officialSite": "https://www.pygamelib.org",
+    "topics": ["game-development", "gamedev", "hacktoberfest", "hacktoberfest2023", "kids-coding", "python", "python3", "roguelike-library", "terminal-based"],
+    "avatar": "https://avatars.githubusercontent.com/u/67972986?v=4",
+    "banner": ""
+  }, {
+    "repo": "ComposioHQ/composio",
+    "desc": "Composio equips agents with well-crafted tools empowering them to tackle complex tasks",
+    "officialSite": "https://docs.composio.dev",
+    "topics": ["agents", "ai", "ai-agents", "aiagents", "developer-tools", "function-calling", "gpt-4", "gpt-4o", "javascript", "js", "llm", "llmops", "python", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/128464815?v=4",
+    "banner": ""
+  }, {
+    "repo": "vye16/shape-of-motion",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/5694811?v=4",
     "banner": ""
   }
 ]

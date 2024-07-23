@@ -433,6 +433,12 @@ tag:
 
 ---
 
+## Vox
+
+- [Traveling this summer? Maybe don’t let the airport scan your face.](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan)
+
+---
+
 ## Project(s)
 
 ```component VPCard

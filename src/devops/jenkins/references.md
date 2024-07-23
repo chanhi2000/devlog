@@ -72,4 +72,9 @@ tag:
 
 ---
 
+## 뽀글뽀글 개발 일지
+
+- [Jenkins 서버 구축하기 (1)](https://bbogle2.tistory.com/m/entry/Jenkins-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1)
+
+
 <TagLinks />

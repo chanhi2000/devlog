@@ -53,7 +53,7 @@ isOriginal: false
 
 ::: note Description
 
-Bring your interfaces to life with animation, and meet switch/case at the same time.
+Remake a classic DOS game and learn about destructible terrain and scene transitions.
 
 :::
 

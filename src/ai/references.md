@@ -56,6 +56,7 @@ head:
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` / \[트리\] 트리 기반 ML 알고리즘](https://velog.io/@euisuk-chung/%ED%8A%B8%EB%A6%AC-%ED%8A%B8%EB%A6%AC-%EA%B8%B0%EB%B0%98-ML-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [`@dev_post` / Dev.POST: AI가 써주는 기술 블로그](https://velog.io/@dev_post/Dev.POST-AI%EA%B0%80-%EC%8D%A8%EC%A3%BC%EB%8A%94-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
 ---
 
@@ -74,6 +75,7 @@ head:
 - [`@2rV` / Benedict Evans - The AI Summer](https://brunch.co.kr/@@2rV/143)
 - [`@2rV` / AI Tool 소개 by Peter Yang](https://brunch.co.kr/@@2rV/141)
 - [`@ZVA` / 애플 인텔리전스는 어떻게 엣지AI의 한계를 뛰어넘었나](https://brunch.co.kr/@@ZVA/705)
+- [`@5jl5` / AI 개발: 서비스를 위한 개인정보 처리 안내서 - 개인정보보호위원회](https://brunch.co.kr/@@5jl5/125)
 
 <!-- END: brunch.co.kr -->
 

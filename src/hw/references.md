@@ -1,4 +1,4 @@
-
+---
 lang: ko-KR
 title: References
 description: Hardware > References
@@ -105,6 +105,7 @@ head:
 - [STM32CubeProgrammer에서 External Loader 연결해 다운로드하기](https://m.blog.naver.com/chandong83/223502438373)
 - [ESP32S3-ETH-CAN485 하드웨어 전체 검증용 예제 코드 추가](https://m.blog.naver.com/chandong83/223519531432)
 - [ESP32S3-ETH-CAN485 UDP 테스트 윈도우 프로그램 추가(플러터/파이썬 소스 코드 포함)](https://m.blog.naver.com/chandong83/223519570189)
+- [STM32H7S-SoM(가칭) 1차 제작 예정](https://m.blog.naver.com/chandong83/223522436199)
 
 ---
 

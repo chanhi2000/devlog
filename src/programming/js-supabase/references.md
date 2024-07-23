@@ -37,6 +37,7 @@ head:
 ## Teveloper 개발 & 테니스 이야기
 
 - [Supabase가 4년간의 베타를 거쳐 GA(General Availability) 릴리즈](https://teveloper.tistory.com/76)
+- [Next.js + Supabase로 빠르게 블로그 방명록 만들기 (with AI 디자인)](https://teveloper.tistory.com/m/86)
 
 ---
 

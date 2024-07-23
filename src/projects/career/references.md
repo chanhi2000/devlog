@@ -243,6 +243,8 @@ tag:
 - [`@3L0s` / 디지털 혁신 실행: 서비스의 디지털화 - 디지털 혁신-15](https://brunch.co.kr/@@3L0s/118)
 - [`@2rV` / 어려운 동료와의 대화: 불편함을 해결하는 전략 - 일하기 힘든 사람들을 대하는 현명한 방법](https://brunch.co.kr/@@2rV/145)
 - [`@ZVA` / 스티브 잡스라면 애플카를 어떻게 만들자고 했을까?](https://brunch.co.kr/@@ZVA/708)
+- [`@2rV` / 패턴 브레이커 - 미래를 바꾸는 스타트업의 특징](https://brunch.co.kr/@@2rV/150)
+- [`@2rV` / 제품 로드맵에서 일정 중심 접근 피하기 - 더 나은 방법은?](https://brunch.co.kr/@@2rV/149)
 
 <!-- END: brunch.co.kr -->
 
@@ -1371,5 +1373,10 @@ https://blog.naver.com/&logId=
 - [질문 리더쉽은 반대 : 집중해야 할 것](https://greypencil.tistory.com/m/216)
 
 ---
+
+## 큰돌의 터전
+
+- [개발 외주 계약 팁](https://m.blog.naver.com/jhc9639/223522724897)
+
 
 <TagLinks />

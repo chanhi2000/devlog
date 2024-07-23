@@ -112,6 +112,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build a Quantum Artificial Intelligence Model – With Python Code Examples",
+  "desc": "Machine learning (ML) is one of the most important subareas of AI used in building great AI systems. In ML, deep learning is a narrow area focused solely on neural networks. Through the field of deep learning, systems like ChatGPT and many other AI models can be created. In other...",
+  "link": "/explore/articles/freecodecamp.org/how-to-build-a-quantum-ai-model.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Build an Interpretable Artificial Intelligence Model – Simple Python Code Example",
+  "desc": "Artificial Intelligence is being used everywhere these days. And many of the groundbreaking applications come from Machine Learning, a subfield of AI. Within Machine Learning, a field called Deep Learning represents one of the main areas of research. It is from Deep Learning that most new, truly effective AI systems...",
+  "link": "/explore/articles/freecodecamp.org/how-to-build-an-interpretable-ai-deep-learning-model.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

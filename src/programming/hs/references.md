@@ -96,4 +96,10 @@ head:
 
 ---
 
+## Two Wrongs
+
+- [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
+
+---
+
 <TagLinks />

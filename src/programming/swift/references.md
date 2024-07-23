@@ -402,6 +402,7 @@ tag:
 - [SwiftUI로 이모지 키보드 만들기](https://www.hohyeonmoon.com/blog/swiftui-emoji-keyboard)
 - [iOS TDD의 시작](https://www.hohyeonmoon.com/blog/ios-starting-tdd)
 - [SwiftUI MV 패턴 알아보기](https://www.hohyeonmoon.com/blog/swiftui-mv-pattern)
+- [UIKit에 Clean Swift 적용하기](https://hohyeonmoon.com/blog/uikit-clean-swift)
 
 ---
 

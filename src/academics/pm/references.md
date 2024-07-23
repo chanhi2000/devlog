@@ -59,6 +59,11 @@ tag:
 - [`@2fEJ` / 프로덕트 매니저의 확대된 역할과 핵심 역량 - 프로덕트 매니저가 전문가가 되기 위한 노력 #31](https://brunch.co.kr/@@2fEJ/1436)
 - [`@2fEJ` / PRD에서 시각적 자료의 중요성 - PM/PO 이야기 #31](https://brunch.co.kr/@@2fEJ/1439)
 - [`@2fEJ` / 데이터 기반 피드백 분석을 통한 PRD 커멘트 관리 - PM/PO 이야기 #32](https://brunch.co.kr/@@2fEJ/1440)
+- [`@2rV` / PM을 위한 뉴스레터 | 2024.07.21 - 패턴 브레이커, 진 세버그, Weezer](https://brunch.co.kr/@@2rV/148)
+- [`@2rV` / PM을 위한 뉴스레터 | 2024.07.13 - 어떤 음악 좋아하시나요? 그리고 누군가의 33초](https://brunch.co.kr/@@2rV/147)
+- [`@2rV` / PM을 위한 뉴스레터 - Discover, Learn, Laugh](https://brunch.co.kr/@@2rV/146)
+- [`@2fEJ` / PRD 작성 및 피드백 관리의 중요성과 성장 기회 - PM/PO 이야기 #33](https://brunch.co.kr/@@2fEJ/1441)
+- [`@2fEJ` / PRD 문서 작성 이후 제품 개발 과정의 효과적인 관리 - PM/PO 이야기 #34](https://brunch.co.kr/@@2fEJ/1442)
 
 <!-- END: brunch.co.kr -->
 
@@ -67,6 +72,12 @@ tag:
 ## 보름의 달빛 ✨
 
 - [프로덕트 매니지먼트의 기술](https://shkisme.vercel.app/product-management-skill)
+
+---
+
+## 테오
+
+- [PM은 무얼 하는 사람?](https://.kr/PM%EC%9D%80-%EB%AC%B4%EC%96%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C/)
 
 ---
 

@@ -1096,7 +1096,14 @@
     "desc": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!",
     "officialSite": "https://mui.com/x/",
     "topics": ["charts", "data-grid", "data-table", "date-picker", "date-range-picker", "hacktoberfest", "react", "time-picker"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/33663932?v=4",
+    "banner": ""
+  }, {
+    "repo": "mui/material-ui",
+    "desc": "Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+    "officialSite": "https://mui.com/material-ui/",
+    "topics": ["design-systems", "hacktoberfest", "material-design", "react", "react-components"],
+    "avatar": "https://avatars.githubusercontent.com/u/33663932?v=4",
     "banner": ""
   }, {
     "repo": "pilcrowOnPaper/lucia",
@@ -1632,10 +1639,10 @@
     "banner": ""
   }, {
     "repo": "openstatusHQ/openstatus",
-    "desc": "The open-source status page",
+    "desc": "🏓  The open-source synthetic monitoring platform  🏓",
     "officialSite": "https://openstatus.dev",
-    "topics": [],
-    "avatar": "",
+    "topics": ["bun", "clerk", "drizzle-orm", "monitoring", "nextjs", "nextjs13", "observability", "on-call", "open-source", "rum", "shadcn-ui", "status-page", "synthetic-monitoring", "tinybird", "turso", "uptime-checker", "uptime-monitor"],
+    "avatar": "https://avatars.githubusercontent.com/u/136892265?v=4",
     "banner": ""
   }, {
     "repo": "sei-protocol/sei-chain",
@@ -4477,6 +4484,41 @@
     "officialSite": "https://www.npmjs.com/package/tinkerbird",
     "topics": ["chrome", "hnsw", "indexeddb", "typescript", "vector-database"],
     "avatar": "https://avatars.githubusercontent.com/u/91504165?v=4",
+    "banner": ""
+  }, {
+    "repo": "umijs/umi",
+    "desc": "A framework in react community ✨",
+    "officialSite": "https://umijs.org",
+    "topics": ["react", "react-framework", "umi", "umijs"],
+    "avatar": "https://avatars.githubusercontent.com/u/33895495?v=4",
+    "banner": ""
+  }, {
+    "repo": "getomni-ai/zerox",
+    "desc": "Zero shot pdf OCR with gpt-4o-mini",
+    "officialSite": "https://getomni.ai/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/152649903?v=4",
+    "banner": ""
+  }, {
+    "repo": "DouglasNeuroInformatics/OpenDataCapture",
+    "desc": "An electronic data capture platform designed for administering remote and in-person clinical instruments",
+    "officialSite": "https://opendatacapture.org/en/",
+    "topics": ["clinical", "data-collection", "electronic-data-capture", "esbuild", "form-builder", "full-stack", "monaco-editor", "monorepo", "multilingual", "nodejs", "prisma", "react", "research", "tailwindcss", "turborepo", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/84101648?v=4",
+    "banner": ""
+  }, {
+    "repo": "bugbakery/audapolis",
+    "desc": "an editor for spoken-word audio with automatic transcription",
+    "officialSite": "",
+    "topics": ["audio-editing", "speech-to-text", "transcription", "video-editing"],
+    "avatar": "https://avatars.githubusercontent.com/u/85747362?v=4",
+    "banner": ""
+  }, {
+    "repo": "hoppscotch/hoppscotch",
+    "desc": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+    "officialSite": "https://hoppscotch.io",
+    "topics": ["api", "api-client", "api-rest", "api-testing", "developer-tools", "graphql", "hacktoberfest", "http", "http-client", "pwa", "rest", "rest-api", "spa", "testing", "testing-tools", "tools", "vue", "vuejs", "websocket"],
+    "avatar": "https://avatars.githubusercontent.com/u/56705483?v=4",
     "banner": ""
   }
 ]

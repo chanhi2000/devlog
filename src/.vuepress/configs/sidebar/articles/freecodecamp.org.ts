@@ -10,6 +10,7 @@ export const template: SidebarInfoTemplate = {
       "introduction-to-solid-principles", // 2024-06-24
       "generics-in-java", // 2024-07-12
       "multithreading-for-beginners", // 2024-07-16
+      "comparable-vs-comparator-explained-in-java", // 2024-07-23
     ]],[
     "java-spring",[
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
@@ -43,6 +44,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-callback-functions-in-javascript", // 2024-07-03
       "how-to-send-http-requests-using-javascript", // 2024-07-10
       "learn-asynchronous-javascript", // 2024-07-11
+      "build-a-bitcoin-to-usd-calculator", // 2024-07-22
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -123,6 +125,7 @@ export const template: SidebarInfoTemplate = {
       "breakpoints-for-responsive-web-design", // 2024-06-24
       "media-queries-vs-container-queries", // 2024-06-28
       "create-24-css-projects", // 2024-07-17
+      "build-a-bitcoin-to-usd-calculator", // 2024-07-22
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
@@ -159,6 +162,8 @@ export const template: SidebarInfoTemplate = {
       "use-python-sdk-to-build-a-web-scraper", // 2024-07-10
       "how-to-use-python-generators", // 2024-07-10
       "what-are-monte-carlo-methods", // 2024-07-16
+      "how-to-build-a-quantum-ai-model", // 2024-07-23
+      "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -321,6 +326,8 @@ export const template: SidebarInfoTemplate = {
       "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
       "knowledge-distillation-in-deep-learning-models", // 2024-07-09
+      "how-to-build-a-quantum-ai-model", // 2024-07-23
+      "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -511,6 +518,10 @@ export const template: SidebarInfoTemplate = {
       "how-to-implement-instant-search-with-flask-and-htmx", // 2024-07-22
       "how-to-use-enhanced-enums-in-dart", // 2024-07-22
       "react-context-api-tutorial-examples", // 2024-07-22
+      "build-a-bitcoin-to-usd-calculator", // 2024-07-22
+      "comparable-vs-comparator-explained-in-java", // 2024-07-23
+      "how-to-build-a-quantum-ai-model", // 2024-07-23
+      "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
     ]],
   ]),
 }

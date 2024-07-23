@@ -3462,5 +3462,12 @@
     "topics": ["azw", "azw3", "cbz", "ebook-reader", "epub", "fb2", "gjs", "gtk", "mobi", "opds"],
     "avatar": "https://avatars.githubusercontent.com/u/50942278?v=4",
     "banner": ""
+  }, {
+    "repo": "popcorn-official/popcorn-desktop",
+    "desc": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
+    "officialSite": "https://popcorn-time.site",
+    "topics": ["bittorrent", "desktop", "nwjs", "popcorn", "popcorn-time", "popcorntime", "streaming"],
+    "avatar": "https://avatars.githubusercontent.com/u/7267937?v=4",
+    "banner": ""
   }
 ]

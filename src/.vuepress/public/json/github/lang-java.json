@@ -1033,5 +1033,12 @@
     "topics": ["cloud", "coap", "dashboard", "iot", "iot-analytics", "iot-platform", "iot-solutions", "java", "kafka", "lwm2m", "microservices", "middleware", "mqtt", "netty", "platform", "snmp", "thingsboard", "visualization", "websockets", "widgets"],
     "avatar": "https://avatars.githubusercontent.com/u/24291394?v=4",
     "banner": ""
-  }  
+  }, {
+    "repo": "Netflix/maestro",
+    "desc": "Maestro: Netflix’s Workflow Orchestrator",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/913567?v=4",
+    "banner": ""
+  }
 ]

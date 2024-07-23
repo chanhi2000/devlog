@@ -53,7 +53,7 @@ isOriginal: false
 
 ::: note Description
 
-Bring your interfaces to life with animation, and meet switch/case at the same time.
+Draw 2D shapes using Apple's high-speed drawing framework.  
 
 :::
 

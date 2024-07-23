@@ -329,6 +329,10 @@ head:
 - [`@yysttong` / Python: DuckDB(4)](https://brunch.co.kr/@yysttong/128)
 - [`@1aft` / Python: DuckDB(5)](https://brunch.co.kr/@1aft/131)
 - [`@1aft` / Python : 1 / 8145060 - #로또확률 #긴여정 #파이썬과로또](https://brunch.co.kr/@@1aft/136)
+- [`@1aft` / Python : 1 / 8145060 (2) - #로또1등 #당첨번호](https://brunch.co.kr/@@1aft/137)
+- [`@1aft` / Python : 1 / 8145060 (3) - #로또 #당첨번호위치 #자동원리 #당첨기원](https://brunch.co.kr/@@1aft/138)
+
+<!-- brunch.co.kr -->
 
 ---
 
@@ -1185,6 +1189,7 @@ head:
 ## 상구리의 기술 블로그
 
 - [Pyrhon3 – How to install packages offline (pip 오프라인 설치)](https://www.skyer9.pe.kr/wordpress/?p=9033)
+- [Python – 16진수 맥어드레스 2진수로 출력하기](https://skyer9.pe.kr/wordpress/?p=9212)
 
 ---
 
@@ -1677,6 +1682,7 @@ head:
 ## Mobile Convergence
 
 - [Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/m/600)
+- [\[Python\] 튜플, 리스트, 딕셔너리 자료구조 이해](https://mobicon.tistory.com/m/606)
 
 ---
 
@@ -2082,6 +2088,12 @@ head:
 ## NVIDIA H100 for AI & ML Workloads | Cloud GPU Platform | Paperspace
 
 - [Pooling In Convolutional Neural Networks](https://blog.paperspace.com/pooling-in-convolutional-neural-networks/)
+
+---
+
+## 내 성격 100% 활용하기
+
+- [파이썬 프로젝트 가상환경 Poetry(포어트리)](https://m.blog.naver.com/drvoss/223523052028)
 
 ---
 

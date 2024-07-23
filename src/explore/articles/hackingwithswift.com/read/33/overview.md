@@ -53,7 +53,7 @@ isOriginal: false
 
 ::: note Description
 
-Bring your interfaces to life with animation, and meet switch/case at the same time.
+Build a crowd-sourced song recognition app using Apple's free platform as a service: CloudKit.
 
 :::
 

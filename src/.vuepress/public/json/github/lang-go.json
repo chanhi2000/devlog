@@ -2358,5 +2358,19 @@
     "topics": ["chat", "devchat", "developer-chat", "devzat", "slack", "social", "ssh", "ssh-chat", "unicorns"],
     "avatar": "https://avatars.githubusercontent.com/u/38882631?v=4",
     "banner": ""
+  }, {
+    "repo": "stretchr/testify",
+    "desc": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "officialSite": "",
+    "topics": ["assertions", "go", "golang", "mocking", "testify", "testing", "toolkit"],
+    "avatar": "https://avatars.githubusercontent.com/u/1841476?v=4",
+    "banner": ""
+  }, {
+    "repo": "stretchr/testify",
+    "desc": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "officialSite": "",
+    "topics": ["assertions", "go", "golang", "mocking", "testify", "testing", "toolkit"],
+    "avatar": "https://avatars.githubusercontent.com/u/1841476?v=4",
+    "banner": ""
   }
 ]
