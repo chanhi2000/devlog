@@ -6,6 +6,23 @@
     "banner": "https://yt3.googleusercontent.com/QXmGUq-Gxdow921k-Wt7ElsoKRD90dFDq5mHLmszhpRE_QXlK4lXuFdfm6nn5ToX4aepgugcSA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "k6VQWiD5Y8o", "title": "Making Money With Apps (Vlog 10)" },
+    { "id": "re8lCGfO-nQ", "title": "Making Money With Apps (Vlog 11)" },
+    { "id": "8Xcq4yRQ0pU", "title": "Xcode 15 Tutorial for Beginners (2024)" },
+    { "id": "JqQQozkFeJU", "title": "SwiftUI TabView Tutorial" },
+    { "id": "aP_Q4YiIgYU", "title": "How To Add Buttons to the Navigation Bar in SwiftUI" },
+    { "id": "by5lVl0bkAE", "title": "SwiftUI ColorPicker Tutorial" },
+    { "id": "Bl0Nbb8Gp2Q", "title": "SwiftUI GroupBox Tutorial" },
+    { "id": "aQUKMwJg0n0", "title": "SwiftUI WebView Tutorial" },
+    { "id": "I6H0YW4OFws", "title": "SwiftUI Label Tutorial" },
+    { "id": "qkm8dAAEKeI", "title": "SwiftUI DisclosureGroup Tutorial" },
+    { "id": "PPqyxuAg70U", "title": "SwiftUI Stepper Tutorial" },
+    { "id": "cpKgkdNL2aQ", "title": "My 3 Urgent Insights as an iOS Developer (WWDC 2024)" },
+    { "id": "m1JOSS2igYk", "title": "SwiftUI Link Tutorial" },
+    { "id": "vtBZmiqZSrQ", "title": "How To Build a YouTube API Video Player App - Lesson 1" },
+    { "id": "Mv7TC6sav6E", "title": "How To Build a YouTube API Video Player App - Lesson 2" },
+    { "id": "80lBTZuqxs8", "title": "How To Build a YouTube API Video Player App - Lesson 3" },
+    { "id": "FnID7dfGy9Y", "title": "How To Build a YouTube API Video Player App - Lesson 4" },
     { "id": "SFL5Y2NXkfY", "title": "SwiftUI TextField Tutorial and Examples" },
     { "id": "K0zubXU50rg", "title": "Making Money With Apps (Vlog 8)" },
     { "id": "0xhIrWbu1Ps", "title": "Making Money With Apps (Vlog 9)" },
@@ -46,5 +63,8 @@
     { "id": "IIDiqgdn2yo", "title": "SwiftUI Basics for Beginners (2020)" }, 
     { "id": "GDJQkyA9n50", "title": "Xcode Tips - How to Find The Detailed Error Message For Your App Crash" }, 
     { "id": "67ImaQ5P2Oc", "title": "Introducing the SwiftUI Menu App Series!" }
+  ],
+  "playlists": [
+
   ]
 }

@@ -1730,10 +1730,10 @@
     "banner": ""
   }, {
     "repo": "ollama/ollama",
-    "desc": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+    "desc": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
     "officialSite": "https://ollama.com",
-    "topics": ["go", "golang", "llama", "llama2", "llm", "llms", "mistral", "ollama"],
-    "avatar": "",
+    "topics": ["gemma", "gemma2", "go", "golang", "llama", "llama2", "llama3", "llava", "llm", "llms", "mistral", "ollama", "phi3"],
+    "avatar": "https://avatars.githubusercontent.com/u/151674099?v=4",
     "banner": ""
   }, {
     "repo": "runreveal/pql",
@@ -2371,6 +2371,13 @@
     "officialSite": "",
     "topics": ["assertions", "go", "golang", "mocking", "testify", "testing", "toolkit"],
     "avatar": "https://avatars.githubusercontent.com/u/1841476?v=4",
+    "banner": ""
+  }, {
+    "repo": "arunsupe/semantic-grep",
+    "desc": "grep for words with similar meaning to the query",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/13948303?v=4",
     "banner": ""
   }
 ]

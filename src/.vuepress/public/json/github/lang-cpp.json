@@ -2140,5 +2140,12 @@
     "topics": ["c-plus-plus", "cross-platform", "database", "database-browser", "database-gui", "sqlite", "sqlitebrowser"],
     "avatar": "https://avatars.githubusercontent.com/u/7454271?v=4",
     "banner": ""
+  }, {
+    "repo": "managarm/managarm",
+    "desc": "Pragmatic microkernel-based OS with fully asynchronous I/O",
+    "officialSite": "",
+    "topics": ["asynchronous-io", "hacktoberfest", "microkernel", "modern-cpp", "operating-system", "posix-compatible", "x86-64"],
+    "avatar": "https://avatars.githubusercontent.com/u/38985399?v=4",
+    "banner": ""
   }
 ]

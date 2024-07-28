@@ -57,39 +57,57 @@ This is a fancy name for what is actually a very simple thing: combining variabl
 
 Clear out all the code you just wrote and leave only this:
 
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Tim McGraw"</span></span></code></pre>
+```swift
+var name = "Tim McGraw"
+```
+
 If we wanted to print out a message to the user that included their name, string interpolation is what makes that easy: you just write a backslash, then an open parenthesis, then your code, then a close parenthesis, like this:
 
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Tim McGraw"</span></span>
-<span class="token string-literal"><span class="token string">"Your name is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">name</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span></code></pre>
-<p class="text-center"><img class="hws" style="margin-top: 0; margin-bottom: 20px;" src="/img/books/hws/string-interpolation-1.png" srcset="/img/books/hws/string-interpolation-1@2x.png 2x" alt="Adding a name to a String using interpolation." loading="lazy">
+```swift
+var name = "Tim McGraw"
+"Your name is \(name)"
+```
+
+![Adding a name to a String using interpolation.](https://hackingwithswift.com/img/books/hws/string-interpolation-1@2x.png)
 
 The results pane will now show "Your name is Tim McGraw" all as one string, because string interpolation combined the two for us.
 
-Now, we could have written that using the <code>+</code> operator, like this:
+Now, we could have written that using the `+` operator, like this:
 
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Tim McGraw"</span></span>
-<span class="token string-literal"><span class="token string">"Your name is "</span></span> <span class="token operator">+</span> name</code></pre>
-<p class="text-center"><img class="hws" style="margin-top: 0; margin-bottom: 20px;" src="/img/books/hws/string-interpolation-2.png" srcset="/img/books/hws/string-interpolation-2@2x.png 2x" alt="Adding a name to a String using the plus operator." loading="lazy">
+
+```swift
+var name = "Tim McGraw"
+"Your name is " + name
+```
+
+![Adding a name to a String using the plus operator.](https://hackingwithswift.com/img/books/hws/string-interpolation-2@2x.png)
 
 …but that's not as efficient, particularly if you're combining multiple variables together. In addition, string interpolation in Swift is smart enough to be able to handle a variety of different data types automatically. For example:
 
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Tim McGraw"</span></span>
-<span class="token keyword">var</span> age <span class="token operator">=</span> <span class="token number">25</span>
-<span class="token keyword">var</span> latitude <span class="token operator">=</span> <span class="token number">36.166667</span>
 
-<span class="token string-literal"><span class="token string">"Your name is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">name</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">, your age is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">age</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">, and your latitude is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">latitude</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span></code></pre>
-<p class="text-center"><img class="hws" style="margin-top: 0; margin-bottom: 20px;" src="/img/books/hws/string-interpolation-3.png" srcset="/img/books/hws/string-interpolation-3@2x.png 2x" alt="Interpolating a String, Int, and Double." loading="lazy">
+```swift
+var name = "Tim McGraw"
+var age = 25
+var latitude = 36.166667
 
-Doing that using <code>+</code> is much more difficult, because Swift doesn't let you add integers and doubles to a string.
+"Your name is \(name), your age is \(age), and your latitude is \(latitude)"
+```
+
+![Interpolating a String, Int, and Double.](https://hackingwithswift.com/img/books/hws/string-interpolation-3@2x.png)
+
+Doing that using `+` is much more difficult, because Swift doesn't let you add integers and doubles to a string.
 
 At this point your result may no longer fit in the results pane, so either resize your window or hover over the result and click the + button that appears to have it shown inline.
 
-One of the powerful features of string interpolation is that everything between <code>\(</code> and <code>)</code> can actually be a full Swift expression. For example, you can do mathematics in there using operators, like this:
+One of the powerful features of string interpolation is that everything between `\(` and `)` can actually be a full Swift expression. For example, you can do mathematics in there using operators, like this:
 
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> age <span class="token operator">=</span> <span class="token number">25</span>
-<span class="token string-literal"><span class="token string">"You are </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">age</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> years old. In another </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">age</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> years you will be </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">age <span class="token operator">*</span> <span class="token number">2</span></span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">."</span></span></code></pre>
-<p class="text-center"><img class="hws" style="margin-top: 0; margin-bottom: 20px;" src="/img/books/hws/string-interpolation-4.png" srcset="/img/books/hws/string-interpolation-4@2x.png 2x" alt="Interpolating a mathematical expression." loading="lazy">
+
+```swift
+var age = 25
+"You are \(age) years old. In another \(age) years you will be \(age * 2)."
+```
+
+![Interpolating a mathematical expression.](https://hackingwithswift.com/img/books/hws/string-interpolation-4@2x.png)
 
 ---
 

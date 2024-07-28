@@ -1709,10 +1709,10 @@
     "banner": ""
   }, {
     "repo": "brave/brave-browser",
-    "desc": "Next generation Brave browser for Android, Linux, macOS, Windows.",
-    "officialSite": "https://www.brave.com",
-    "topics": ["windows", "macos", "linux", "browser", "chromium", "brave"],
-    "avatar": "",
+    "desc": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+    "officialSite": "https://brave.com",
+    "topics": ["brave", "browser", "chromium", "linux", "macos", "windows"],
+    "avatar": "https://avatars.githubusercontent.com/u/12301619?v=4",
     "banner": ""
   }, {
     "repo": "kudoai/chatgpt.js",

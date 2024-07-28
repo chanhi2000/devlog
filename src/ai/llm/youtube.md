@@ -61,5 +61,6 @@ head:
 <MyYouTubeItems jsonName="yu-thebetter-today" /><!-- 더 배러 (The Better) -->
 <MyYouTubeItems jsonName="yu-Data-Centric" /><!-- Data Centric -->
 <MyYouTubeItems jsonName="yu-10xaiclub" /><!-- 10X AI Club -->
+<MyYouTubeItems jsonName="yu-PyDataTV" /><!-- PyData -->
 
 <TagLinks/>

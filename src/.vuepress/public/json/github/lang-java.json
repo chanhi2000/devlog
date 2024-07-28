@@ -1040,5 +1040,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/913567?v=4",
     "banner": ""
+  }, {
+    "repo": "wakingrufus/spring-funk",
+    "desc": "A framework for declarative DSL configuration for Spring Boot.",
+    "officialSite": "",
+    "topics": ["functional-programming", "kotlin", "spring-boot"],
+    "avatar": "https://avatars.githubusercontent.com/u/8632982?v=4",
+    "banner": ""
+  }, {
+    "repo": "L-Briand/tuple",
+    "desc": "Tuple class and serializer for kotlinx-serialization",
+    "officialSite": "",
+    "topics": ["kotlin", "kotlin-library", "kotlin-multiplatform", "kotlin-multiplatform-library", "tuple", "tuples"],
+    "avatar": "https://avatars.githubusercontent.com/u/14044749?v=4",
+    "banner": ""
   }
 ]

@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/KrXOwznWJPljgHTD00XnH0midQlbxbiVrtCDj2sCeoA9OG0w8ELFxnlN48wXCQXxYt15kd2ijg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BQzxg9xf5Kg", "title": "19 표본 추출 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "kcgqQtsxaLI", "title": "21 추정과 검정 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "R_18RZoSjmA", "title": "20 확률 분포 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "mQ_5IRWLmnY", "title": "22 분석 모형 설계 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "VF1VHDj3_Z8", "title": "24 정형 데이터 분석 기법 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "R2WZzONWE0M", "title": "25 비정형 데이터 분석 기법 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "I3WpdUVCcqg", "title": "26 딥러닝 분석 기법 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "KCDXnThBwCk", "title": "27 분석 모형 평가 및 개선 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "CAqMtQEJTqs", "title": "28 분석 결과 해석 및 활용 - 빅데이터 분석 제대로 끝내기" },
     { "id": "UozQROwZPlw", "title": "01 데이터의 역사 - 빅데이터 분석 제대로 끝내기" },
     { "id": "nuFInPEdLe8", "title": "02 데이터 산업 동향 - 빅데이터 분석 제대로 끝내기" },
     { "id": "epN6vh-XFfE", "title": "03 데이터 개념과 종류 - 빅데이터 분석 제대로 끝내기" },
@@ -37,5 +46,8 @@
     { "id": "tjgvXn8hmzk", "title": "03 데이터베이스 발전과 종류 - MySQL 제대로 끝내기" },
     { "id": "pNrxmHpzcYU", "title": "04 데이터 모델링 - MySQL 제대로 끝내기" },
     { "id": "56xBWyLwaDY", "title": "06 집합 연산자 - MySQL 제대로 끝내기" }
+  ],
+  "playlists": [
+
   ]
 }

@@ -81,6 +81,7 @@ tag:
 - [`Javarevisited` / 10 Best Free Courses to Learn Spring and Microservices for Java Programmers in 2023](https://medium.com/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e)
 - [`geekculture` / Java TS Video Downloader](https://medium.com/geekculture/java-ts-video-downloader-a0fcf23ab84a)
 - [`ascendcorp` / Why are my Java virtual threads slower than the platform threads?](https://developers.ascendcorp.com/why-are-my-java-virtual-threads-slower-than-the-platform-threads-74612a1587f3)
+- [`@george.719pap` / Opinionated one-liners in Kotlin](https://medium.com/@george.719pap/opinionated-one-liners-in-kotlin-dfc628b4847a)
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 

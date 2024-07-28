@@ -4520,5 +4520,12 @@
     "topics": ["api", "api-client", "api-rest", "api-testing", "developer-tools", "graphql", "hacktoberfest", "http", "http-client", "pwa", "rest", "rest-api", "spa", "testing", "testing-tools", "tools", "vue", "vuejs", "websocket"],
     "avatar": "https://avatars.githubusercontent.com/u/56705483?v=4",
     "banner": ""
+  }, {
+    "repo": "dbushell/granary",
+    "desc": "🌾 Git Large File Storage (LFS) server implementation written in TypeScript (sorry)",
+    "officialSite": "",
+    "topics": ["bun", "deno", "git", "git-lfs", "javascript", "nodejs", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/998922?v=4",
+    "banner": ""
   }
 ]

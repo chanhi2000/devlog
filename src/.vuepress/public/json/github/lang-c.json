@@ -1574,5 +1574,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
     "banner": ""
+  }, {
+    "repo": "ValdikSS/GoodbyeDPI",
+    "desc": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+    "officialSite": "https://ntc.party/c/community-software/goodbyedpi",
+    "topics": ["anticensorship", "censorship-circumvention", "deep-packet-inspection", "dpi"],
+    "avatar": "https://avatars.githubusercontent.com/u/3054729?v=4",
+    "banner": ""
   }
 ]

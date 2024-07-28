@@ -116,6 +116,7 @@ tag:
   - [Let Kotlin do the code for you — Part III: Mockito, Mockk, and Code Generation](https://proandroiddev.com/let-kotlin-do-the-code-for-you-part-iii-mockito-mockk-and-code-generation-3da26e1f71e9)
   - [Room Relationships Explained](https://proandroiddev.com/room-database-relationships-explained-729d3c705fd9)
   - [Exploring the Viability of Cross-Platform UI Development with Compose Multiplatform](https://proandroiddev.com/exploring-the-viability-of-cross-platform-ui-development-with-compose-multiplatform-c5be0608b69d)
+  - [Command Your User Inputs with Jetpack Compose— Text Field Features Hidden in Plain Sight](https://proandroiddev.com/command-your-user-inputs-with-jetpack-compose-text-field-features-hidden-in-plain-sight-47aaacc56aaf)
 - [(`androiddevelopers`) Android Developers: The official Android Developers publication on Medium](https://medium.com/androiddevelopers)
   - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43)
   - [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
@@ -162,6 +163,9 @@ tag:
 - [`anitaa_1990` / Kotlin Flows — Fundamentals](https://medium.com/@anitaa_1990/kotlin-flows-fundamentals-7d9b984f12bb)
 - [`박상권의-삽질블로그` / Android 14에서 추가된 ‘사진/동영상의 일부 접근 권한’ 제대로 대응하는 방법](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/android-14%EC%97%90%EC%84%9C-%EC%B6%94%EA%B0%80%EB%90%9C-%EC%82%AC%EC%A7%84-%EB%8F%99%EC%98%81%EC%83%81%EC%9D%98-%EC%9D%BC%EB%B6%80-%EC%A0%91%EA%B7%BC-%EA%B6%8C%ED%95%9C-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%8C%80%EC%9D%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-0557db6c46d9)
 - [`kerry.bisset` / I DECLARE….DEPENDENCIESSSS!!!](https://medium.com/@kerry.bisset/i-declare-dependenciessss-4dea5b396d11)
+- [`@galou.minisini` / Advanced Kotlin Coroutine Cheat sheet (for Android Engineer)](https://medium.com/@galou.minisini/advanced-kotlin-coroutine-cheat-sheet-for-android-engineer-15e0d180fc1f)
+- [`insert-koin` / Koin Annotations 1.4 — Better Multimodule & KMP](https://blog.insert-koin.io/koin-annotations-1-4-better-multimodule-kmp-c349ff29f839)
+- [`basaransuleyman` / Leveraging BFF and Dynamic UI in Android Applications with Jetpack Compose](https://basaransuleyman.medium.com/leveraging-bff-and-dynamic-ui-in-android-applications-with-jetpack-compose-27d81edb7c7c)
 
 <!-- END: medium.com -->
 

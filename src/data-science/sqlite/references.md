@@ -21,6 +21,7 @@ tag:
 ## <FontIcon icon="iconfont icon-sqlite"/>SQLite
 
 - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
+- [35% Faster Than The Filesystem](https://sqlite.org/fasterthanfs.html)
 
 ---
 

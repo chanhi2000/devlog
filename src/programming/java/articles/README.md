@@ -321,6 +321,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Item 30: Define contracts with documentation",
+  "desc": "How do we express our library or module contracts and why are they so important.",
+  "link": "/explore/articles/kt.academy/ek-contracts-documentation.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Item 31: Respect abstraction contracts"
+  "desc": "Just because we can do something, does not mean we should. How to respect abstraction contracts and why it is so important.",
+  "link": "/explore/articles/kt.academy/ek-respect-contracts.md",
+  "logo": "https://kt.academy/logo.png",
+  "background": "rgba(243,139,49,0.2)"
+}
+```
+
 <!-- END: kt.academy -->
 
 ---

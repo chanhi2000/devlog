@@ -89,5 +89,6 @@ head:
 <MyYouTubeItems jsonName="yu-poseidon.program" /><!-- poseidon -->
 <MyYouTubeItems jsonName="yu-codersee" /><!-- Codersee- Kotlin on the backend -->
 <MyYouTubeItems jsonName="yu-uengine5309" /><!-- uEngine -->
+<MyYouTubeItems jsonName="yu-virtualJUG" /><!-- v JUG -->
 
 <TagLinks />

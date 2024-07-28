@@ -220,6 +220,7 @@ tag:
 ## jessesquires
 
 - [Swift URL `absoluteString` versus path](https://www.jessesquires.com/blog/2023/08/17/swift-url-absolutestring-path)
+- [SwiftUI app lifecycle: issues with `ScenePhase` and using `AppDelegate` adaptors](https://www.jessesquires.com/blog/2024/06/29/swiftui-scene-phase/)
 
 ---
 
@@ -436,6 +437,7 @@ tag:
 
 - [Exploring ABI stability, `@frozen`, and library evolution mode](https://digitalbunker.dev/understanding-frozen-in-swift/)
 - [Blend Modes in SwiftUI](https://digitalbunker.dev/blend-modes-in-swiftui/)
+- [Using `@DebugDescription` in Xcode 16](https://digitalbunker.dev/debug-description-macro-xcode-16)
 
 ---
 
@@ -675,6 +677,7 @@ tag:
 - [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
 - [Being a good citizen in the land of `SwiftSyntax`](https://www.pointfree.co/blog/posts/116-being-a-good-citizen-in-the-land-of-swiftsyntax)
 - [Perception: A back-port of `@Observable`](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
+- [Unobtrusive and testable issue reporting](https://www.pointfree.co/blog/posts/147-unobtrusive-and-testable-issue-reporting)
 
 ---
 
@@ -873,6 +876,7 @@ tag:
 ## SwiftToolkit.dev
 
 - [Using SwiftUI in Command Line Tools](https://swifttoolkit.dev/posts/swiftui-meets-command-line)
+- [Building Swift Executables](https://swifttoolkit.dev/posts/building-swift-executables)
 
 ---
 

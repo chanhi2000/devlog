@@ -692,5 +692,19 @@
     "topics": ["android", "compose-desktop", "compose-multiplatform", "compose-web", "ios", "jetpack-compose", "kotlinmultiplatform"],
     "avatar": "https://avatars.githubusercontent.com/u/112760983?v=4",
     "banner": ""
+  }, {
+    "repo": "Chaintech-Network/CMP_tooltip",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/143459573?v=4",
+    "banner": ""
+  }, {
+    "repo": "skydoves/Cloudy",
+    "desc": "☁️ Jetpack Compose blur effect library, which falls back onto a CPU-based implementation to support older API levels.",
+    "officialSite": "",
+    "topics": ["android", "blur", "blur-image", "jetpack-compose", "skydoves"],
+    "avatar": "https://avatars.githubusercontent.com/u/24237865?v=4",
+    "banner": ""
   }
 ]

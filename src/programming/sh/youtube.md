@@ -68,5 +68,6 @@ tag:
 <MyYouTubeItems jsonName="yu-sagaratytube" /><!-- Dispatch -->
 <MyYouTubeItems jsonName="yu-charmcli" /><!-- Charm CLI -->
 <MyYouTubeItems jsonName="yu-LeetCipher" /><!-- Leet Cipher -->
+<MyYouTubeItems jsonName="yu-theurbanpenguin" /><!-- theurbanpenguin -->
 
 <TagLinks />
