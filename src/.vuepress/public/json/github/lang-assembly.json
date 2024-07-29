@@ -97,5 +97,12 @@
     "topics": [],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "virtualagc/virtualagc",
+    "desc": "Virtual Apollo Guidance Computer (AGC) software",
+    "officialSite": "http://www.ibiblio.org/apollo",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/21241440?v=4",
+    "banner": ""
   }
 ]

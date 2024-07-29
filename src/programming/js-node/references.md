@@ -1299,4 +1299,10 @@ tag:
 
 ---
 
+## David Gerrells
+
+- [How to save $13.27 on your sAAs bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
+
+---
+
 <TagLinks />

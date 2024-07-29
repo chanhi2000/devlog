@@ -102,4 +102,10 @@ head:
 
 ---
 
+## CrateDB: Real-time Analytics Database and Hybrid Search Engine
+
+- [Doing Hybrid Search in CrateDB](https://cratedb.com/blog/hybrid-search-explained)
+
+---
+
 <TagLinks />

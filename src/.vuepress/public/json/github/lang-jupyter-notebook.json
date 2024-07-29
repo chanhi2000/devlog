@@ -77,11 +77,11 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "facebookresearch/segment-anything",
-    "desc": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+    "repo": "facebookresearch/segment-anything-2",
+    "desc": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
     "officialSite": "",
     "topics": [],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/16943930?v=4",
     "banner": ""
   }, {
     "repo": "IDEA-Research/Grounded-Segment-Anything",

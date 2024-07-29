@@ -142,6 +142,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Prompt Engineering Basics – How to Write Effective AI Prompts",
+  "desc": "Thanks to the popularity of various Large-Language Models like ChatGPT, prompt engineering has become a key skill for developers (and non-developers) to have. It's important if you want to be able to tap into the full potential of these models. Whether you're a developer, researcher, or general user, knowing how...",
+  "link": "/explore/articles/freecodecamp.org/prompt-engineering-basics.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

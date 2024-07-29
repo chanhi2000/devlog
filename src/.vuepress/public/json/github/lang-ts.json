@@ -4534,5 +4534,19 @@
     "topics": ["api", "ffmpeg", "ffmpeg-wrapper", "fluent-ffmpeg", "media"],
     "avatar": "https://avatars.githubusercontent.com/u/170744283?v=4",
     "banner": ""
+  }, {
+    "repo": "PasteBar/PasteBarApp",
+    "desc": "PasteBar - Limitless, Free Clipboard Manager for Mac and Windows",
+    "officialSite": "",
+    "topics": ["clipboard", "clipboard-copy", "clipboard-history", "clipboard-manager", "clips", "copy-paste", "mac", "menubar", "menubar-app", "react", "rust", "tailwind", "taskbar", "taskbar-application", "tauri", "windows"],
+    "avatar": "https://avatars.githubusercontent.com/u/148391726?v=4",
+    "banner": ""
+  }, {
+    "repo": "jodigiordano/gg",
+    "desc": "The software architecture simulator",
+    "officialSite": "https://gg-charts.com",
+    "topics": ["charts", "diagrams", "software-architecture", "software-engineering"],
+    "avatar": "https://avatars.githubusercontent.com/u/481647?v=4",
+    "banner": ""
   }
 ]

@@ -578,4 +578,10 @@ head:
 
 ---
 
+## Eli Bendersky's website
+
+- [Notes on Taylor and Maclaurin series](https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/)
+
+---
+
 <TagLinks />

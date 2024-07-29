@@ -249,6 +249,7 @@ tag:
 - [`@2hV3` / 왜 레퍼런스 분석 시 'WHY'가 중요할까? - 레퍼런스를 활용한 디자인 인사이트](https://brunch.co.kr/@@2hV3/239)
 - [`@2weV` / 실행의 중요성.](https://brunch.co.kr/@@2weV/534)
 - [`@2weV` / 의사결정 내리기 좋게 말하기.](https://brunch.co.kr/@@2weV/533)
+- [`@3L0s` / 디지털 혁신 실행: 솔루션의 디지털화 - 디지털 혁신-16](https://brunch.co.kr/@@3L0s/119)
 
 <!-- END: brunch.co.kr -->
 
@@ -498,6 +499,7 @@ tag:
 - [지속 가능한 사업](https://www.thestartupbible.com/2024/07/on-being-ready-to-be-a-sustainable-business.html)
 - [경쟁에 임하는 자세](https://www.thestartupbible.com/2024/07/on-the-mindset-of-facing-a-formidable-competitor.html)
 - [세상에서 가장 큰 학교](https://www.thestartupbible.com/2024/07/being-a-vc-means-that-you-can-get-the-best-education-in-the-world-for-free.html)
+- [개구리 올챙이 시절](https://www.thestartupbible.com/2024/07/always-remember-where-you-came-from.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -670,6 +672,7 @@ tag:
 ## WONIZZ.LOG
 
 - [[서평 작성] 개발자 기술 면접 노트](https://blog.wonizz.com/2024/04/15/hanbit-reviewer-6/)
+- [\[서평 작성\] 보고 혁명](https://blog.wonizz.com/2024/07/28/hanbit-reviewer-9/)
 
 ---
 
@@ -886,6 +889,7 @@ tag:
 - [리더십의 리더 – 같음과 다름](http://www.chidoo.me/index.php/2024/07/07/equality-and-inequality-in-leadership/)
 - [리더십의 리더 – 리더의 팀](http://www.chidoo.me/index.php/2024/07/14/one-team-in-leadership/)
 - [리더십의 리더 – Global Maximum을 위한 리더의 목표와 결과](http://www.chidoo.me/index.php/2024/07/21/objectives-for-global-maximum-in-leadership/)
+- [리더의 리더십 – 성장을 위한 실패 관리](http://www.chidoo.me/index.php/2024/07/29/fast-fail-and-small-fail-in-leadership/)
 
 <!-- END: chidoo.me -->
 
@@ -1390,5 +1394,6 @@ https://blog.naver.com/&logId=
 
 - [개발 외주 계약 팁](https://m.blog.naver.com/jhc9639/223522724897)
 
+---
 
 <TagLinks />

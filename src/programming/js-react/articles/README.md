@@ -15,6 +15,7 @@ tag:
   - smashingmagazine.com
   - yozm.wishket.com
   - tech.kakao.com
+  - fe-developers.kakaoent.com
   - techblog.woowahan.com
   - tech.inflab.com
   - dev.gmarket.com
@@ -92,6 +93,13 @@ head:
   "background": "rgba(53,79,245,0.2)"
 }
 ```
+
+<SiteInfo
+  name="홈 | 카카오엔터테인먼트 FE 기술블로그"
+  desc="카카오 엔터테인먼트 프론트엔드 개발팀이 관심있는 기술의 경험과 노하우를 공유합니다."
+  url="https://fe-developers.kakaoent.com/"
+  logo="https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded"
+  preview="https://fe-developers.kakaoent.com/static/kakaoEnt-e1e7f4766847f540602de68fd4e88456.png"/>
 
 <SiteInfo
   name="우아한형제들 기술블로그"
@@ -560,6 +568,7 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
 ---
 
 ## Smashing Magazine — For Web Designers And Developers
@@ -760,6 +769,26 @@ head:
 }
 ```
 
+<!-- END: tech.kakao.com -->
+
+---
+
+## 카카오엔터테인먼트 FE 기술블로그
+
+> fe-developers.kakaoent.com
+
+```component VPCard
+{
+  "title": "더 가치 있는 공통 컴포넌트 만들기 | 카카오엔터테인먼트 FE 기술블로그",
+  "desc": "리액트 공통 컴포넌트를 만들 때 고려하면 좋은 점들의 인사이트를 제공합니다.",
+  "link": "/explore/articles/fe-developers.kakaoent.com/240116-common-componente.md",
+  "logo": "https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded",
+  "background": "rgba(254,189,1,0.2)"
+}
+```
+
+<!-- END: fe-developers.kakaoent.com -->
+
 ---
 
 ## 우아한형제들 기술블로그
@@ -840,6 +869,8 @@ head:
 }
 ```
 
+<!-- END: zuminternet.github.io -->
+
 ---
 
 ## Sitepoint
@@ -855,6 +886,8 @@ head:
   "background": "rgba(29,32,36,0.2)"
 }
 ```
+
+<!-- END: sitepoint.com -->
 
 ---
 

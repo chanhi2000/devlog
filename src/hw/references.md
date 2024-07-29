@@ -184,6 +184,7 @@ head:
 ## FABIEN SANGLARD
 
 - [INSIDE THE SUPER NINTENDO CARTRIDGES](https://fabiensanglard.net/snes_carts/index.html)
+- [Designing the Super Nintendo Video System](https://fabiensanglard.net/snes_video/index.html)
 
 ---
 
@@ -440,4 +441,3 @@ head:
   preview="http://syzygyfpga.io/wp-content/uploads/2020/04/syzygy-og-image.png"/>
 
 <TagLinks />
-

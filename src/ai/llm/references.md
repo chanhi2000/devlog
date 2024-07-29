@@ -29,9 +29,11 @@ head:
 ## pdf(s)
 
 - [OLMo : Accelerating the Science of Language Models](https://allenai.org/olmo/olmo-paper.pdf)
+
 <PDF url="https://arxiv.org/pdf/2306.11025" />
 <PDF url="https://arxiv.org/pdf/2404.07143" />
 <PDF url="https://arxiv.org/pdf/2404.14219" />
+<PDF url="https://arxiv.org/pdf/2407.12994" />
 
 ---
 
@@ -59,6 +61,8 @@ head:
 - [`@devstone` - NLP 메트릭 톺아보기](https://velog.io/@devstone/NLP-%EB%A9%94%ED%8A%B8%EB%A6%AD-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [`@kwon0koang` / 오픈소스 LLM으로 RAG 에이전트 만들기 (랭체인, Ollama, Tool Calling 대체)](https://velog.io/@kwon0koang/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9C%BC%EB%A1%9C-RAG-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [`@eunbibi` / 자연어처리](https://velog.io/@eunbibi/%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC)
+- [`@euisuk-chung` / \[NLP\] 1. Introduction to Text Analytics](https://velog.io/@euisuk-chung/NLP-Text-Analytics-Intro)
+- [`@euisuk-chung` / \[NLP\] 2. Steps of Text Analytics](https://velog.io/@euisuk-chung/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%B6%84%EC%84%9D-%EB%8B%A8%EA%B3%84)
 
 <!-- END: velog.io -->
 
@@ -410,5 +414,25 @@ head:
 
 - [“LLM 시장을 흔드는 메타 라마 3.1” 기업과 솔루션 업체의 득실](https://itworld.co.kr/news/345524)
 - [RAG 산업화 여정의 현재와 미래](https://itworld.co.kr/news/345482)
+
+---
+
+## Speaker Deck | Easily Share Your Presentations Online
+
+- [`huffon` / What if...? 처음부터 다시 LLM 어플리케이션을 개발한다면](https://speakerdeck.com/huffon/what-if-dot-dot-dot-ceoeumbuteo-dasi-llm-eopeulrikeisyeoneul-gaebalhandamyeon)
+
+---
+
+## Dable Tech Blog
+
+- [언어 모델의 Fine-Tuning 성능 올리기](https://teamdable.github.io/techblog/Boosting-Fine-Tuning-of-LM)
+
+---
+
+## Augmend
+
+- [TreeSeg: Hierarchical Topic Segmentation at Augmend](https://augmend.com/blog/TreeSeg)
+
+---
 
 <TagLinks/>

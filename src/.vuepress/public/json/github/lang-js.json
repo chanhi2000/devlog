@@ -2657,7 +2657,7 @@
     "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
     "officialSite": "https://gchq.github.io/CyberChef",
     "topics": ["compression", "data-analysis", "data-manipulation", "encoding", "encryption", "hashing", "parsing"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/15800240?v=4",
     "banner": ""
   }, {
     "repo": "awslabs/llrt",
@@ -2954,9 +2954,9 @@
   }, {
     "repo": "drawdb-io/drawdb",
     "desc": "Free, simple, and intuitive online database design tool and SQL generator.",
-    "officialSite": "https://drawdb.vercel.app",
-    "topics": ["database-schema", "editor", "indexeddb", "mariadb", "postgresql", "react", "sql", "sql-server", "sqlite", "svg", "tailwindcss"],
-    "avatar": "",
+    "officialSite": "https://drawdb.app",
+    "topics": ["database-schema", "diagram-editor", "editor", "indexeddb", "javascript", "mariadb", "postgresql", "react", "sql", "sql-server", "sqlite", "svg", "tailwindcss"],
+    "avatar": "https://avatars.githubusercontent.com/u/139706923?v=4",
     "banner": ""
   }, {
     "repo": "amalshaji/portr",

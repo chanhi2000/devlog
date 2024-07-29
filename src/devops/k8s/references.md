@@ -378,5 +378,10 @@ head:
 
 ---
 
+## 컴맹 : 진화의 시작
+
+- [`PodDisruptionBudget`로 애플리케이션 보호](https://jybaek.tistory.com/m/504720)
+
+---
 
 <TagLinks />

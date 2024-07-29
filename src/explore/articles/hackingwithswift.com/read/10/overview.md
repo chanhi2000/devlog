@@ -22,6 +22,7 @@ head:
       content: "Project 10: Names to Faces"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/10/overview.html
+prev: /explore/articles/hackingwithswift.com/read/09/06-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,75 @@ Get started with UICollectionView and the photo library.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/10/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Designing UICollectionView cells | Hacking with iOS",
+  "desc": "Designing UICollectionView cells",
+  "link": "/explore/articles/hackingwithswift.com/read/10/02-designing-uicollectionview-cells.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "UICollectionView data sources | Hacking with iOS",
+  "desc": "UICollectionView data sources",
+  "link": "/explore/articles/hackingwithswift.com/read/10/03-uicollectionview-data-sources.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Importing photos with UIImagePickerController | Hacking with iOS",
+  "desc": "Importing photos with UIImagePickerController",
+  "link": "/explore/articles/hackingwithswift.com/read/10/04-importing-photos-with-uiimagepickercontroller.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Custom subclasses of NSObject | Hacking with iOS",
+  "desc": "Custom subclasses of NSObject",
+  "link": "/explore/articles/hackingwithswift.com/read/10/05-custom-subclasses-of-nsobject.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Connecting up the people | Hacking with iOS",
+  "desc": "Connecting up the people",
+  "link": "/explore/articles/hackingwithswift.com/read/10/06-connecting-up-the-people.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/10/07-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

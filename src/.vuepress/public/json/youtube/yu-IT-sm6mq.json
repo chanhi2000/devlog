@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "3n0MgDCYA8I", "title": "[RPA _ UiPath] #4-2 한글 영문 변환 (웹 - 엑셀 연동)" },
+    { "id": "NkXDNGhh-l0", "title": "[RPA _ UiPath] #4-1 엑셀 컬럼 추가 (Insert Column)" },
+    { "id": "VElEmfF06zg", "title": "[RPA _ UiPath] #5-2 쇼핑몰 리스트 엑셀에 가져오기" },
+    { "id": "Px0HpfdhfII", "title": "[RPA _ UiPath] #5-1  웹 - 엑셀로 표 가져오기" },
+    { "id": "ibEP7mgyQBA", "title": "(경제적으로) 잘 사는 이야기 (개발이야기 아님), 똑똑한 재테크의 시작" },
+    { "id": "HNJ4dA4VoX8", "title": "(경제적으로) 잘 사는 이야기2 - 연금저축, IRP, ISA 이야" },
+    { "id": "cmDQIW8E8RM", "title": "#1 AI 인공지능 - 주식으로 AI 트렌드 공부해 보기" },
+    { "id": "UWs9wa2cgMw", "title": "#2 AI & 개발자 | AI 를 보면서 걱정도 되고 새로운 기대도 있고 .. 복잡 미묘한 심경 입니다." },
     { "id": "uwti6BkJMrU", "title": "Q 그리고 A #1 Java, Js, Db, Spring 어디까지 공부해야 하나? 뻔한 답변이지만 진지하게 영상으로.." },
     { "id": "G_s27ulYg9U", "title": "RPA #1 Prologue Why RPA - RPA 시작해 보고자 합니다." },
     { "id": "RnVtXuZTvUw", "title": "RPA #2 Install , RPA 툴로 UiPath 를 설치합니다." },

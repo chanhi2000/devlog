@@ -71,6 +71,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Using Entity Framework Core with MongoDB",
+  "desc": "Entity Framework Core is a popular ORM (Object-Relational Mapper) for .NET applications, allowing developers to work with databases using .NET objects. It can be used with many types of databases, including MongoDB. In this article, you will learn ho...",
+  "link": "/explore/articles/freecodecamp.org/using-entity-framework-core-with-mongodb.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

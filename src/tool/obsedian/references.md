@@ -33,4 +33,10 @@ head:
 
 ---
 
+## Data Engineering Blog of Simon Späti
+
+- [My Obsidian Note-Taking Workflow](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
+
+---
+
 <TagLinks />

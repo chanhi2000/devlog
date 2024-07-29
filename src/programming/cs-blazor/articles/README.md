@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - code-maze.com
   - cs
   - c#
@@ -30,6 +31,13 @@ head:
 # {{ $frontmatter.title }} 관련
 
 <SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+<SiteInfo
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
@@ -37,6 +45,24 @@ head:
   preview="/images/content/code-maze.com/banner.png"/>
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Add Local Storage to Your Blazor Apps with Blazored.LocalStorage",
+  "desc": "One critical feature of modern web applications is their ability to store and retrieve data on the client side. This is where local storage comes into play. In this article, we'll explore how to leverage the power of the Blazored LocalStorage NuGet package to seamlessly integrate...",
+  "link": "/explore/articles/freecodecamp.org/use-local-storage-in-blazor-apps.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

@@ -67,4 +67,11 @@ head:
 
 ---
 
+## Simon Dobson’s home page
+
+- [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
+
+---
+
+
 <TagLinks />

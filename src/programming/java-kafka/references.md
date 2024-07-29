@@ -39,6 +39,7 @@ head:
 
 - [KafkaProducer Client Internals](https://d2.naver.com/helloworld/6560422) <!-- TODO: 작성 (/explore/articles/d2.naver.com/6560422.md) -->
 - [대용량 스트리밍 데이터 실시간 분석](https://d2.naver.com/helloworld/7731491) <!-- TODO: 작성 (/explore/articles/d2.naver.com/7731491.md) -->
+- [실시간 광고 사용자 ID 매핑](https://d2.naver.com/helloworld/7989422) <!-- TODO: 작성 (/explore/articles/d2.naver.com/7989422.md) -->
 
 ---
 

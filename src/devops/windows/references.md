@@ -259,6 +259,12 @@ tag:
 
 ---
 
+## Easy to analyze if you are really curious about data
+
+- [Defender 이벤트](https://kangmyounghun.blogspot.com/2024/07/defender.html)
+
+---
+
 ## Misc
 
 - [DiskClick](https://deervo.itch.io/diskclick)

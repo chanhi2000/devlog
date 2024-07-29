@@ -207,6 +207,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "데브섹옵스 자동화를 위한 ‘동적 보안 테스팅(DAST)’ | 요즘IT",
+  "desc": "데브섹옵스 자동화를 위한 ‘동적 보안 테스팅(DAST)’",
+  "link": "/explore/articles/yozm.wishket.com/2692.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

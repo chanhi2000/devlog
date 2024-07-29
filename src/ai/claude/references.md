@@ -56,4 +56,10 @@ head:
 
 ---
 
+## The Verge
+
+- [Anthropic’s crawler is ignoring websites’ anti-AI scraping policies](https://theverge.com/2024/7/25/24205943/anthropic-ai-web-crawler-claudebot-ifixit-scraping-training-data)
+
+---
+
 <TagLinks />

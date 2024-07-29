@@ -65,6 +65,7 @@ tag:
 
 - [`@1aft` / Rust : 참조 & 역참조 - #Ref #DeRef](https://brunch.co.kr/@@1aft/134)
 - [`@1aft` / Rust : `collect()` - #Arr2Vec #collect함수](https://brunch.co.kr/@@1aft/135)
+- [`@1aft` / Polars #10 - #전처리 #1억ROW](https://brunch.co.kr/@@1aft/143)
 
 <!-- END: brunch.co.kr -->
 
@@ -414,6 +415,12 @@ tag:
 ## GIS Developer
 
 - [값이 저장된 메모리 주소 얻기, 특정 메모리 주소에 저장된 값 얻기](http://www.gisdeveloper.co.kr/?p=15049)
+
+---
+
+## QuestDB | High performance time series database
+
+- [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
 
 ---
 

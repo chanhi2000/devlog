@@ -178,6 +178,9 @@ head:
 - [`@dongha1992` / [프로그래머스] 단어 변환](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98)
 - [`@ksh4704` / JavaScript \[ES6\] (1)](https://velog.io/@ksh4704/JavaScript-ES6-1)
 - [`@ksh4704` / JavaScript \[ES6\] (2)](https://velog.io/@ksh4704/JavaScript-ES6-2)
+- [`@sehyunny` / (번역) Ecma 인터내셔널에서 ECMAScript 2024를 승인했습니다: 새로운 기능은 무엇일까요?](https://velog.io/@sehyunny/ecmascript-2024)
+
+<!-- END: velog.io -->
 
 ---
 

@@ -220,6 +220,7 @@ head:
 - [클립보드에 저장된 이미지 파일로 저장하기 - Step 2](https://m.blog.naver.com/tipsware/223523324033)
 - [항목 지정 연산자와 번지 지정 연산자의 표기 변환](https://m.blog.naver.com/tipsware/223527705599)
 - [간단한 Png 이미지 뷰어 만들기 - Step 2](https://m.blog.naver.com/tipsware/223525634075)
+- [간단한 Png 이미지 뷰어 만들기 - Step 3](https://m.blog.naver.com/tipsware/223528668669)
 
 <!-- END: blog.naver.com/tipsware/ -->
 
@@ -303,6 +304,7 @@ head:
 - [\[백준 32068번\] 보물 찾기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32068%EB%B2%88-%EB%B3%B4%EB%AC%BC-%EC%B0%BE%EA%B8%B0)
 - [\[백준 32069번\] 가로등](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32069%EB%B2%88-%EA%B0%80%EB%A1%9C%EB%93%B1)
 - [\[백준 32070번\] 색깔 모으기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32070%EB%B2%88-%EC%83%89%EA%B9%94-%EB%AA%A8%EC%9C%BC%EA%B8%B0)
+- [\[백준 25571번\] 지그재그 부분배열](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-25571%EB%B2%88-%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8-%EB%B6%80%EB%B6%84%EB%B0%B0%EC%97%B4)
 
 <!-- END: kesakiyo.tistory.com -->
 
@@ -419,6 +421,12 @@ head:
 ## Tony Finch – blog
 
 - [`tolower()` with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
+
+---
+
+## David Hashe | Personal website and blog
+
+- [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
 
 ---
 

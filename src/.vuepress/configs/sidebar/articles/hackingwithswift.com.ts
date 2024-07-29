@@ -459,6 +459,13 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/10/overview.md',
+              '/explore/articles/hackingwithswift.com/read/10/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/10/02-designing-uicollectionview-cells.md',
+              '/explore/articles/hackingwithswift.com/read/10/03-uicollectionview-data-sources.md',
+              '/explore/articles/hackingwithswift.com/read/10/04-importing-photos-with-uiimagepickercontroller.md',
+              '/explore/articles/hackingwithswift.com/read/10/05-custom-subclasses-of-nsobject.md',
+              '/explore/articles/hackingwithswift.com/read/10/06-connecting-up-the-people.md',
+              '/explore/articles/hackingwithswift.com/read/10/07-wrap-up.md',
             ]
           }, {
             text: 'Project 11: Pachinko',

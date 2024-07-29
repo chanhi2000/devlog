@@ -80,5 +80,7 @@ head:
 <MyYouTubeItems jsonName="yu-MakeUseOf" /><!-- MakeUseOf -->
 <MyYouTubeItems jsonName="yu-Little_Shoes" /><!-- 복구천재 꼬마신발 -->
 <MyYouTubeItems jsonName="yu-comssabu" /><!-- 컴싸부 -->
+<MyYouTubeItems jsonName="yu-ITSUB" /><!-- ITSub잇섭 -->
+<MyYouTubeItems jsonName="yu-teksyndicate" /><!-- Tek Syndicate -->
 
 <TagLinks />

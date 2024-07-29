@@ -267,7 +267,7 @@ head:
 
 ### DEVOCEAN
 
-- [Spring Boot 나만의 의존성 설정하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165727)
+- [Spring Boot 나만의 의존성 설정하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165727) <!-- TODO: 작성 (/explore/articles/devocean.sk.com/165727.md) -->
 
 ### Hong's Store House
 
@@ -436,6 +436,7 @@ head:
 - [9.3. 책 수정 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/93-%EC%B1%85-%EC%88%98%EC%A0%95-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [9.4. 책 서비스 클래스에 수정 기능 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/94-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [9.5. 책 컨트롤러 422 오류 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/95-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-422-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [9.6. 책 컨트롤러 수정 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/96-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%88%98%EC%A0%95-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -525,6 +526,11 @@ head:
 ### 이모저모 개발 블로그
 
 - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
+- [\[1년 후 마실가실\] Entity 수정](https://hj0216.tistory.com/m/931)
+
+### @mjin
+
+- [Spring Batch 관리 도구 Jenkins 대안 탐색기](https://mjin1220.tistory.com/m/57)
 
 ---
 

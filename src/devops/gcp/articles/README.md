@@ -12,6 +12,7 @@ tag:
   - freecodecamp.org
   - learnk8s.io
   - yozm.wishket.com
+  - helloworld.kurly.com
   - google
   - googlecloud
   - google-cloud
@@ -135,6 +136,26 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
+
+---
+
+## 컬리 기술 블로그
+
+> helloworld.kurly.com
+
+```component VPCard
+{
+  "title": "BigQuery와 Gemini로 리뷰 분석 업무 자동화하기 - 컬리 기술 블로그"
+  "desc": "BigQuery에서 LLM 모델 Gemini Pro 활용법 소개",
+  "link": "/explore/articles/helloworld.kurly.com/bigquery-gemini-review.md",
+  "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",
+  "background": "rgba(104,14,135,0.2)"
+}
+```
+
+<!-- END: helloworld.kurly.com -->
 
 ---
 

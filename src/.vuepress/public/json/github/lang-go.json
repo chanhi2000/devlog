@@ -2379,5 +2379,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/13948303?v=4",
     "banner": ""
+  }, {
+    "repo": "opensourcecorp/vdm",
+    "desc": "A General-Purpose Versioned-Dependency Manager",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/80649050?v=4",
+    "banner": ""
+  }, {
+    "repo": "alpkeskin/mosint",
+    "desc": "An automated e-mail OSINT tool",
+    "officialSite": "",
+    "topics": ["automation", "data-breach", "email", "email-checker", "go", "hacking", "information-gathering", "osint", "osint-tool", "pentest", "pwn", "python-hacking", "social-media", "socmint", "verification-service"],
+    "avatar": "https://avatars.githubusercontent.com/u/49457057?v=4",
+    "banner": ""
+  }, {
+    "repo": "SagerNet/sing-box",
+    "desc": "The universal proxy platform",
+    "officialSite": "https://sing-box.sagernet.org/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/83217677?v=4",
+    "banner": ""
   }
 ]

@@ -2147,5 +2147,12 @@
     "topics": ["asynchronous-io", "hacktoberfest", "microkernel", "modern-cpp", "operating-system", "posix-compatible", "x86-64"],
     "avatar": "https://avatars.githubusercontent.com/u/38985399?v=4",
     "banner": ""
+  }, {
+    "repo": "nomic-ai/gpt4all",
+    "desc": "GPT4All: Chat with Local LLMs on Any Device",
+    "officialSite": "https://gpt4all.io",
+    "topics": ["llm-inference"],
+    "avatar": "https://avatars.githubusercontent.com/u/102670180?v=4",
+    "banner": ""
   }
 ]

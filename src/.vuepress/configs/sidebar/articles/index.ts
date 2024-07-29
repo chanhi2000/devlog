@@ -12,6 +12,7 @@ import { template as TEMPLATE_LEARNK8S } from './learnk8s.io';
 import { template as TEMPLATE_LOGROCKET } from './blog.logrocket.com';
 import { template as TEMPLATE_KAKAO_TECH } from './tech.kakao.com';
 import { template as TEMPLATE_KAKAO_PAY_TECH } from './tech.kakaopay.com';
+import { template as TEMPLATE_KAKAO_ENT } from './fe-developers.kakaoent.com';
 import { template as TEMPLATE_NHN } from './meetup.nhncloud.com';
 import { template as TEMPLATE_GANGNAMUNNI } from './blog.gangnamunni.com';
 import { template as TEMPLATE_WOOWAHAN } from './techblog.woowahan.com';
@@ -84,6 +85,7 @@ export const articleSidebars = {
   yozm:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_YOZM, type),
   kakaoTech:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KAKAO_TECH, type),
   kakaoPayTech:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KAKAO_PAY_TECH, type),
+  kakaoEnt:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KAKAO_ENT, type),
   d2:                 (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_D2, type),
   nhn:                (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_NHN, type),
   gangnamunni:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_GANGNAMUNNI, type),

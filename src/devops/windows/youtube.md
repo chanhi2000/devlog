@@ -74,5 +74,6 @@ tag:
 <MyYouTubeItems jsonName="yu-HandyAndyTechTips" /><!-- HandyAndy Tech Tips -->
 <MyYouTubeItems jsonName="yu-freedosproject" /><!-- FreeDOS -->
 <MyYouTubeItems jsonName="yu-techquickie" /><!-- Techquickie -->
+<MyYouTubeItems jsonName="yu-teksyndicate" /><!-- Tek Syndicate -->
 
 <TagLinks />

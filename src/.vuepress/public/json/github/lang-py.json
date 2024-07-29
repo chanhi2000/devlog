@@ -7278,5 +7278,12 @@
     "topics": ["lean", "lean4", "machine-learning", "theorem-proving"],
     "avatar": "https://avatars.githubusercontent.com/u/136513911?v=4",
     "banner": ""
+  }, {
+    "repo": "alexta69/metube",
+    "desc": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+    "officialSite": "",
+    "topics": ["self-hosted", "youtube", "youtube-dl", "yt-dlp"],
+    "avatar": "https://avatars.githubusercontent.com/u/7450369?v=4",
+    "banner": ""
   }
 ]

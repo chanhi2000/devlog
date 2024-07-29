@@ -50,6 +50,9 @@ head:
 - [`@euisuk-chung` / 머신러닝 차원 축소 알고리즘](https://velog.io/@euisuk-chung/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9B%90-%EC%B6%95%EC%86%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [`naver-place-dev` / 지루하지 않게 코노미 사진 4만장 어노테이션하기 (머신러닝과 함께)](https://medium.com/naver-place-dev/%EC%A7%80%EB%A3%A8%ED%95%98%EC%A7%80-%EC%95%8A%EA%B2%8C-%EC%BD%94%EB%85%B8%EB%AF%B8-%EC%82%AC%EC%A7%84-4%EB%A7%8C%EC%9E%A5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%ED%95%A8%EA%BB%98-619c60f8a071)
 - [`@kwon0koang` / AI 무한반복 영상 만들기 (Luma Dream Machine)](https://velog.io/@kwon0koang/AI-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AC%B4%ED%95%9C%EB%B0%98%EB%B3%B5-%EC%98%81%EC%83%81-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [`musinsa-tech` / 속성을 활용한 추천 고도화 : Part 2. 무신사가 개인화 추천을 하는 방법](https://medium.com/musinsa-tech/속성을-활용한-추천-고도화-part-2-무신사가-개인화-추천을-하는-방법-71f7aeb1dc5d)
+
+<!-- END: medium.com -->
 
 ---
 
@@ -265,6 +268,24 @@ s
 ## 나만의공간。
 
 - [\[AI\] ai-digest](https://m.blog.naver.com/writer0713/223524996787)
+
+---
+
+## KoreaViews
+
+- [(보고서) 생성형AI 활용에 분주한 세계 톱 자동차 업체들: 어디까지 가고 있나](https://choonsik.blogspot.com/2024/07/ai_20.html)
+
+---
+
+## 한국지능정보사회진흥원
+
+- [\[AI Report 2024-1\] 2024년 AI 이슈를 용어와 함께 쉽게 이해하기](https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=27035&parentSeq=27035)
+
+---
+
+## 꿈 많은 사람의 이야기
+
+- [인공지능 윤리(AI Ethics)란 무엇일까? AI개발자가 바라본 AI윤리(Feat. AI 기획자 Day 발표)](https://lsjsj92.tistory.com/m/671)
 
 ---
 

@@ -81,6 +81,9 @@ head:
 - [Master the Perfect ChatGPT Prompt Formula](https://medium.com/@eldatero/master-the-perfect-chatgpt-prompt-formula-c776adae8f19)
 - [Connecting Custom GPTs to Slack in 5 minutes (no coding required)](https://snowwhale.medium.com/connecting-custom-gpts-to-slack-in-5-minutes-no-coding-required-17ca39644f5f)
 - [`misc-finance-economics-and-ai-ml` / GPT-4o, 대화를 통한 상호작용으로의 회귀](https://medium.com/misc-finance-economics-and-ai-ml/gpt-4o-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EC%9C%BC%EB%A1%9C%EC%9D%98-%ED%9A%8C%EA%B7%80-c1631b24972d)
+- [`towardsdatascience` / Simple Implementation of OpenAI CLIP model: A Tutorial](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2)
+
+<!-- END: medium.com -->
 
 ---
 
@@ -459,6 +462,12 @@ head:
 - [오픈AI, 검색 엔진 '서치GPT' 프로토타입 공개](https://itworld.co.kr/news/345552)
 - [오픈AI, 'GPT-4o 미니' 무료 미세 조정 발표…24시간당 200만 개 훈련 토큰 제공](https://itworld.co.kr/news/345412)
 - [“챗GPT는 이제 1단계” 오픈 AI, 새로운 AI 평가 등급 발표](https://itworld.co.kr/news/344432)
+
+---
+
+## 데보션 (DEVOCEAN) 기술 블로그 & 커뮤니티
+
+- [GPT-4와 함께하는 수능 국어 만점 도전: 프롬프트 학습 비법 공개](https://devocean.sk.com/blog/techBoardDetail.do?ID=166272) <!-- TODO: 작성 (/explore/articles/devocean.sk.com/166272.md) -->
 
 ---
 

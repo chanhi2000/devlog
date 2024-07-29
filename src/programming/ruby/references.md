@@ -85,4 +85,10 @@ tag:
 
 ---
 
+## zverok's space
+
+- [How it became like this? Ruby Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
+
+---
+
 <TagLinks />

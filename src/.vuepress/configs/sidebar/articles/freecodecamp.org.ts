@@ -202,6 +202,10 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-oop-in-c-sharp", // 2024-05-01
       "build-crud-operations-with-dotnet-core-handbook", // 2024-05-24
       "how-to-use-linq", // 2024-07-15
+      "using-entity-framework-core-with-mongodb", // 2024-07-29
+    ]],[
+    "cs-blazor", [
+      "use-local-storage-in-blazor-apps", // 2024-07-29
     ]],[
     "c", [
       "complete-c-programming-course-from-dr-chuck", // 2024-05-30
@@ -303,6 +307,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "mongodb", [
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
+      "using-entity-framework-core-with-mongodb", // 2024-07-29
     ]],[
     "spark", [
       "pyspark-for-beginners", // 2024-06-26
@@ -336,6 +341,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-a-quantum-ai-model", // 2024-07-23
       "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
       "generative-models-for-data-augmentation", // 2024-07-26
+      "prompt-engineering-basics", // 2024-07-29
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -536,6 +542,9 @@ export const template: SidebarInfoTemplate = {
       "generative-models-for-data-augmentation", // 2024-07-26
       "creational-design-patterns-in-java", // 2024-07-26
       "build-a-crud-app-spring-boot-neon-postgres", // 2024-07-26
+      "use-local-storage-in-blazor-apps", // 2024-07-29
+      "using-entity-framework-core-with-mongodb", // 2024-07-29
+      "prompt-engineering-basics", // 2024-07-29
     ]],
   ]),
 }

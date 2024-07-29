@@ -513,6 +513,7 @@ export const sidebarEn = sidebar({
             asb.logrocket("js-react"),
             asb.yozm("js-react"),
             asb.kakaoTech("js-react"),
+            asb.kakaoEnt("js-react"),
             asb.woowahan("js-react"),
             asb.inflab("js-react"),
             asb.gmarket("js-react"),
@@ -616,6 +617,7 @@ export const sidebarEn = sidebar({
             '/programming/js-next/articles/README.md',
             asb.freecodecamp("js-next"),
             asb.yozm("js-next"),
+            asb.kakaoEnt("js-next"),
             asb.toss("js-next"),
           ]
         }
@@ -892,6 +894,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/py-flask/articles/README.md',
             asb.freecodecamp('py-flask'),
+            asb.yozm('py-flask'),
           ]
         },
       ]
@@ -1078,6 +1081,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/cs-blazor/articles/README.md',
+            asb.freecodecamp("cs-blazor"), 
             asb.codemaze("cs-blazor"),
           ]
         }
@@ -2520,6 +2524,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("gcp"),
             asb.learnk8s("gcp"), 
             asb.yozm("gcp"), 
+            asb.kurly("gcp"), 
           ]
         }
       ]
@@ -3195,26 +3200,6 @@ export const sidebarEn = sidebar({
         }
       ],
     }, {
-      text: 'OpenAI',
-      collapsible: true,
-      icon: 'iconfont icon-openai',
-      children: [
-        '/ai/openai/README.md',
-        '/ai/openai/references.md',
-        '/ai/openai/youtube.md',
-        {
-          text: 'Article(s)',
-          collapsible: true,
-          icon: 'fas fa-square-share-nodes',
-          children: [
-            '/ai/openai/articles/README.md',
-            asb.digitalocean("openai"),
-            asb.yozm("openai"),
-            asb.woowahan("openai"),
-          ]
-        }
-      ]
-    }, {
       text: 'Github Copilot',
       collapsible: true,
       icon: 'iconfont icon-copilot',
@@ -3254,6 +3239,43 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'OpenAI',
+      collapsible: true,
+      icon: 'iconfont icon-openai',
+      children: [
+        '/ai/openai/README.md',
+        '/ai/openai/references.md',
+        '/ai/openai/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/openai/articles/README.md',
+            asb.digitalocean("openai"),
+            asb.yozm("openai"),
+            asb.woowahan("openai"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Llama',
+      collapsible: true,
+      icon: 'fa-brands fa-meta',
+      children: [
+        '/ai/llama/README.md',
+        '/ai/llama/references.md',
+        '/ai/llama/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/llama/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Gemini',
       collapsible: true,
       icon: 'iconfont icon-gemini',
@@ -3268,6 +3290,7 @@ export const sidebarEn = sidebar({
           children: [
             '/ai/gemini/articles/README.md',
             asb.yozm("gemini"),
+            asb.kurly("gemini"),
           ]
         }
       ]
@@ -3489,6 +3512,7 @@ export const sidebarEn = sidebar({
         asb.logrocket(),
         asb.kakaoTech(), 
         asb.kakaoPayTech(), 
+        asb.kakaoEnt(), 
         asb.yozm(), 
         asb.popit(), 
         asb.devkuma(),
@@ -3648,6 +3672,17 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'PHYS034',
+      collapsible: true,
+      children: [
+        '/academics/PHYS034/README.md',
+        '/academics/PHYS034/w01.md',
+        '/academics/PHYS034/w02.md',
+        '/academics/PHYS034/w03.md',
+        '/academics/PHYS034/w04.md',
+        '/academics/PHYS034/hw01.md',
+      ]
+    }, {
       text: 'Computer Engineering',
       collapsible: true,
       icon: 'fas fa-computer',
@@ -3676,17 +3711,6 @@ export const sidebarEn = sidebar({
         '/academics/COEN020/lect02.md',
         '/academics/COEN020/ex01.md',
         '/academics/COEN020/hw.md',
-      ]
-    }, {
-      text: 'PHYS034',
-      collapsible: true,
-      children: [
-        '/academics/PHYS034/README.md',
-        '/academics/PHYS034/w01.md',
-        '/academics/PHYS034/w02.md',
-        '/academics/PHYS034/w03.md',
-        '/academics/PHYS034/w04.md',
-        '/academics/PHYS034/hw01.md',
       ]
     }
   ],

@@ -755,6 +755,7 @@ head:
 - [`defaultdict` vs `dict`: 파이썬에서의 효율적인 카운팅 방법 비교](https://webnautes.tistory.com/m/2354)
 - [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](http://webnautes.tistory.com/m/2356)
 - [누구나 다하는 파이썬 강좌 - 제어문](https://webnautes.tistory.com/m/2357)
+- [SIFT와 XFeat 사용해보기](https://webnautes.tistory.com/m/2360)
 
 ---
 
@@ -2083,6 +2084,9 @@ head:
 ## Summary Of Summer
 
 - [\[코드트리 조별과제\] 1주차 - 프로그래밍 기초](https://su-mmer.tistory.com/m/129)
+- [\[코드트리 조별과제\] 2주차 - 재귀함수](https://su-mmer.tistory.com/m/130)
+
+<!-- END: su-mmer.tistory.com -->
 
 ---
 
@@ -2113,6 +2117,20 @@ head:
 ## Jeremy Morgan's Blog
 
 - [Transcribing Audio with Python on Your Local Machine](https://jeremymorgan.com/tutorials/generative-ai/how-to-transcribe-audio)
+
+---
+
+## 데보션 (DEVOCEAN) 기술 블로그 & 커뮤니티
+
+- [CrewAI로 나만의 AI Agent 만들기](https://devocean.sk.com/blog/techBoardDetail.do?ID=166150) <!-- TODO: 작성 (/explore/articles/devocean.sk.com/166150.md) -->
+
+<!-- END: devocean.sk.com -->
+
+---
+
+## Evgeny Ivanov
+
+- [tea-tasting: a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
 
 ---
 

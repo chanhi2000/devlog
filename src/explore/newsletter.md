@@ -1116,6 +1116,13 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://appsforapplevision.com/favicon.ico"
   preview="https://appsforapplevision.com/images/og-image.jpeg"/>
 
+<SiteInfo
+  name="데보션 (DEVOCEAN) 기술 블로그 & 커뮤니티"
+  desc="데보션 (DEVOCEAN) 기술 블로그, 개발자 커뮤니티이자 내/외부 소통과 성장 플랫폼"
+  url="https://devocean.sk.com/blog/index.do"
+  logo="https://devocean.sk.com/resource/images/external/logo/logo_favicon.ico"
+  preview="https://devocean.sk.com/resource/images/external/logo/devocean-og.png"/>
+
 <!-- END: Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)
@@ -1147,15 +1154,12 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://tech.kakaopay.com/favicon.ico"
   preview="https://tech.kakaopay.com/_astro/techlog.c831e159_Z12ejLo.png"/>
 
-```component VPCard
-{
-  "title": "홈 | 카카오엔터테인먼트 FE 기술블로그",
-  "desc": "카카오 엔터테인먼트 프론트엔드 개발팀이 관심있는 기술의 경험과 노하우를 공유합니다.",
-  "link": "https://fe-developers.kakaoent.com/",
-  "logo": "https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded",
-  "background": "rgba(254,189,1,0.2)"
-}
-```
+<SiteInfo
+  name="홈 | 카카오엔터테인먼트 FE 기술블로그"
+  desc="카카오 엔터테인먼트 프론트엔드 개발팀이 관심있는 기술의 경험과 노하우를 공유합니다."
+  url="https://fe-developers.kakaoent.com/"
+  logo="https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded"
+  preview="https://fe-developers.kakaoent.com/static/kakaoEnt-e1e7f4766847f540602de68fd4e88456.png"/>
 
 ```component VPCard
 {

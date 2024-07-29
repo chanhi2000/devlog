@@ -50,11 +50,21 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`towardsdatascience` / Simple Implementation of OpenAI CLIP model: A Tutorial](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2)
+
+<!-- END: medium.com -->
+
+---
+
 ## Brunch
 
 - [`@1aft` / PyTorch 쓰세요(5). - #VAE #CONV #MNIST](https://brunch.co.kr/@@1aft/132)
 - [`@1aft` / PyTorch 쓰세요(6). - #GEOMETRIC #REC_SYSTEM](https://brunch.co.kr/@@1aft/133)
 - [`@1aft` / PyTorch 쓰세요(6). - #GEOMETRIC #REC_SYSTEM](https://brunch.co.kr/@@1aft/133)
+
+<!-- END: brunch.co.kr -->
 
 ---
 

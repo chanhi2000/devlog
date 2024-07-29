@@ -672,6 +672,7 @@ export const navbarEn = navbar([
         children: [
           '/ai/llm/README.md',
           '/ai/openai/README.md',
+          '/ai/llama/README.md',
           '/ai/gemini/README.md',
           '/ai/claude/README.md',
           '/ai/langchain/README.md',

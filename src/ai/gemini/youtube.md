@@ -20,9 +20,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Google Gemini > Article(s)
+      content: Google Gemini > Youtube
     - property: og:description
-      content: Article(s)
+      content: Youtube
     - property: og:url
       content: https://chanhi2000.github.io/ai/gemini/youtube.html
 ---
@@ -30,6 +30,8 @@ head:
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
+
+---
 
 <MyYouTubeItems jsonName="yu-hasanaboulhasan" /><!-- H-EDUCATE -->
 <MyYouTubeItems jsonName="yu-mewtru" /><!-- mewtru -->
