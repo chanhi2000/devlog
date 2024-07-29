@@ -3589,6 +3589,23 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Finance',
+      collapsible: true,
+      icon: 'fas fa-coins',
+      children: [
+        '/academics/fnce/README.md',
+        '/academics/fnce/references.md',
+        '/academics/fnce/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/academics/fnce/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Mathematics',
       collapsible: true,
       icon: 'fas fa-square-root-variable',
@@ -3605,6 +3622,13 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("math"),
           ]
         }
+      ]
+    }, {
+      text: 'MATH011',
+      collapsible: true,
+      children: [
+        '/academics/MATH011/README.md',
+        '/academics/MATH011/lect01.md',
       ]
     }, {
       text: 'Physics',
@@ -3639,13 +3663,6 @@ export const sidebarEn = sidebar({
             '/academics/coen/articles/README.md',
           ]
         }
-      ]
-    }, {
-      text: 'MATH011',
-      collapsible: true,
-      children: [
-        '/academics/MATH011/README.md',
-        '/academics/MATH011/lect01.md',
       ]
     }, {
       text: 'COEN020',

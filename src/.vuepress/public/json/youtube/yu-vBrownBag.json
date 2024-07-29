@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/rNnvn26N-_lwJJ4PFL5Y4-YIfXEI7nvE3kQO4XkqX49pGffhvZSiVIIS8vRKs1guAJ5ueQOd=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "2-8HEvIz6yU", "title": "Terraforming Azure: Boldly Going Beyond 'azurerm' with Mark Tinderholt" },
+    { "id": "JQlIMDFY6xs", "title": "LIVE - Terraform 1.8 Provider Defined Functions! with Bruno Schaatsbergen" },
+    { "id": "ihgrIJBPhhM", "title": "LIVE: A Builder's Guide: Getting Started with GenAI - Du'An Lightfoot" },
+    { "id": "4aRoUsLPOns", "title": "LIVE - How to Level Up Your AWS Cloud Skills" },
+    { "id": "Vc_G9NHAze4", "title": "How to Level Up Your AWS Cloud Skills with Morgan Willis" },
+    { "id": "iPnNj6Gl2ac", "title": "Cyber Resiliency & Orchestrated DRaaS with Suresh Madhu" },
+    { "id": "5_aajLgZ6B0", "title": "LIVE - Enabling Inter-VPC & Inter-AWS Access with VPC Peering" },
+    { "id": "plZwz2sEtZg", "title": "It's Okay to Not Be Okay: Navigating a Tech Layoff with Compassion and Recovery Tips" },
+    { "id": "gEmGDbVBcX0", "title": "Enabling Inter-VPC & Inter-AWS Access w/ VPC Peering" },
+    { "id": "Ae1TF15e8GU", "title": "LIVE - Multi-Cloud Architectures: When & Why?" },
     { "id": "35eflNIG8Hs", "title": "LIVE - Career Development & Job Searching as a skill with Andrew Brown" },
     { "id": "m4HT7NWPxAk", "title": "Modernizing Healthcare Delivery with AWS Serverless Services" },
     { "id": "-MlbTrR5UE8", "title": "Master Job Hunting in 2024: AWS Hero Andrew Brown's Essential Tips & Mistakes to Avoid" },
@@ -55,6 +65,9 @@
     { "id": "4EPO1vwC-Z8", "title": "What is OpenShift and what does it have to do with Kubernetes?" }, 
     { "id": "esViHI3gusI", "title": "Certified Kubernetes Administrator:  Cluster Configuration presented by Tyler Hatton" }, 
     { "id": "slSTXUm8npc", "title": "Introduction to Infrastructure as Code (IaC) with Pulumi" } 
+  ],
+  "playlists": [
+    
   ]
 }
 

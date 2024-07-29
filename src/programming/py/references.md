@@ -324,6 +324,14 @@ head:
 
 ---
 
+## üntil
+
+- [`@accpython` / 파이썬과 Fraudit을 활용한 회계데이터분석: 새로운 시대의 회계 감사(1)](https://until.blog/@accpython/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-fraudit%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%9A%8C%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D--%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%9A%8C%EA%B3%84-%EA%B0%90%EC%82%AC)
+
+<!-- END: until.blog -->
+
+---
+
 ## Brunch
 
 - [`@yysttong` / Python: DuckDB(4)](https://brunch.co.kr/@yysttong/128)
@@ -331,6 +339,8 @@ head:
 - [`@1aft` / Python : 1 / 8145060 - #로또확률 #긴여정 #파이썬과로또](https://brunch.co.kr/@@1aft/136)
 - [`@1aft` / Python : 1 / 8145060 (2) - #로또1등 #당첨번호](https://brunch.co.kr/@@1aft/137)
 - [`@1aft` / Python : 1 / 8145060 (3) - #로또 #당첨번호위치 #자동원리 #당첨기원](https://brunch.co.kr/@@1aft/138)
+- [`@1aft` / Python : 1 / 8145060 (5) - #2.2M #5.8M #로또희망](https://brunch.co.kr/@@1aft/141)
+- [`@1aft` / Python : 1 / 8145060 (6) - #예측실패 #내돈](https://brunch.co.kr/@@1aft/142)
 
 <!-- brunch.co.kr -->
 
@@ -981,6 +991,9 @@ head:
 - [[백준 30106] 현이의 로봇 청소기](https://davincicoding.tistory.com/m/162)
 - [\[백준 28432\] 끝말잇기](https://davincicoding.tistory.com/m/163)
 - [\[백준 5676\] 음주 코딩](https://davincicoding.tistory.com/m/164)
+- [\[백준 20437\] 문자열 게임 2](https://davincicoding.tistory.com/m/165)
+
+<!-- END: davincicoding.tistory.com -->
 
 ---
 
@@ -2097,11 +2110,16 @@ head:
 
 ---
 
+## Jeremy Morgan's Blog
+
+- [Transcribing Audio with Python on Your Local Machine](https://jeremymorgan.com/tutorials/generative-ai/how-to-transcribe-audio)
+
+---
+
 ## Misc.
 
 - [Working with Excel Files in Python](https://www.python-excel.org/)
 
 ---
-
 
 <TagLinks />

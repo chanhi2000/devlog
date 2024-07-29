@@ -363,7 +363,8 @@ head:
 
 ## Louis.Kim 의 제 3막
 
-[\[Postgresql\] 에 대한 소개 - 1st study](https://hyunki1019.tistory.com/m/192)
+- [\[Postgresql\] 에 대한 소개 - 1st study](https://hyunki1019.tistory.com/m/192)
+- [\[Postgresql-study\] WAL (write ahead log)](https://hyunki1019.tistory.com/m/195)
 
 ---
 
@@ -394,6 +395,12 @@ head:
 ## Christophe Avonture
 
 - [Don't query your PostgreSQL db anymore, prefer PostgREST](https://www.avonture.be/blog/docker-postgrest/)
+
+---
+
+## 코딩도서관
+
+- [Postgresql 사용이유?](https://moonsng.tistory.com/m/99)
 
 ---
 

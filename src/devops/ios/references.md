@@ -45,4 +45,10 @@ head:
 
 ---
 
+## 서울에서 온 남자, 뉴욕에서 온 여자
+
+- [iPhone 11 Pro 침수 후 4013 에러 - 데이터만이라도 살리기](http://lhb0517.tistory.com/m/entry/iPhone-11-Pro-4013-error-keeping-data-at-least)
+
+---
+
 <TagLinks />

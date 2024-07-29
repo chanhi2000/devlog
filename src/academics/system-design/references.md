@@ -271,6 +271,7 @@ head:
 - [`lennysnewsletter` / A Three-Step Framework For Solving Problems 👌](https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving)
 - [`techworld-with-milan` / Mastering the Art of Software Architecture Documentation](https://newsletter.techworld-with-milan.com/p/documenting-software-architectures)
 - [`wasteman.codes` / Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
+- [`codingconfessions` / How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 
 ---
 
@@ -662,6 +663,7 @@ head:
 ## 복세편살
 
 - [시스템 설계 스터디 진행기](https://americanopeople.tistory.com/m/456)
+- [Object-Oriented Reengineering Patterns](https://americanopeople.tistory.com/m/459)
 
 ---
 
@@ -686,6 +688,12 @@ head:
 ## martinfowler.com
 
 - [Waterfall Process](https://martinfowler.com/bliki/WaterfallProcess.html)
+
+---
+
+## 재그지그의 개발 블로그
+
+- [그림으로 이해하는 서버 구조와 기술](https://wormwlrm.github.io/2024/07/27/Structure-and-Technology-of-Server.html)
 
 ---
 

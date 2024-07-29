@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "5zl1jJGCzVI", "title": "Web dev explained: Bundling (in 60s)" },
+    { "id": "N_sUsq_y10U", "title": "Next.js: Authentication (Best Practices for Server Components, Actions, Middleware)" },
     { "id": "MTcPrTIBkpA", "title": "Next.js Explained: Partial Prerendering (What? Why? How?)" }
+  ],
+  "playlists": [
+
   ]
 }

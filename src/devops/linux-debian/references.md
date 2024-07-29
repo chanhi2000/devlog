@@ -349,4 +349,23 @@ tag:
 
 ---
 
+## 드프 DrawingProcess
+
+- [\[Linux\] Ubuntu 프로세스 백그라운드(데몬) 실행: `nohup`과 `&`에 대해서](https://csj000714.tistory.com/m/1175)
+
+---
+
+## 멈춤보단 천천히라도
+
+- [Ubuntu Server Arm64 한글 입력기 설치하기](https://webnautes.tistory.com/m/2104)
+
+---
+
+## 뽀글뽀글 개발 일지
+
+- [리눅스 계정 색상 변경](https://bbogle2.tistory.com/m/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B3%84%EC%A0%95-%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD)
+
+---
+
+
 <TagLinks />

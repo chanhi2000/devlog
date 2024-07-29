@@ -108,6 +108,8 @@ head:
 - [`@sin0105` / 코딩테스트 준비 - 폰켓몬](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%ED%8F%B0%EC%BC%93%EB%AA%AC)
 - [`@sin0105` / 코딩테스트 준비 - 완주하지 못한 선수](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98)
 - [`@sin0105` / 코딩테스트 준비 - 전화번호 목록](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)
+- [`@sin0105` / 코딩테스트 준비 - 기능 개발](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C)
+- [`@sin0105` / 코딩테스트 준비 - 같은 숫자는 싫어](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4)
 
 <!-- END: until.blog -->
 
@@ -216,6 +218,8 @@ head:
 - [좌표 개념 없이 출력문 사용하기 (_printf 함수)](https://m.blog.naver.com/tipsware/223519851250)
 - [클립보드에 저장된 이미지 파일로 저장하기 - Step 1](https://m.blog.naver.com/tipsware/223521616880)
 - [클립보드에 저장된 이미지 파일로 저장하기 - Step 2](https://m.blog.naver.com/tipsware/223523324033)
+- [항목 지정 연산자와 번지 지정 연산자의 표기 변환](https://m.blog.naver.com/tipsware/223527705599)
+- [간단한 Png 이미지 뷰어 만들기 - Step 2](https://m.blog.naver.com/tipsware/223525634075)
 
 <!-- END: blog.naver.com/tipsware/ -->
 
@@ -298,6 +302,9 @@ head:
 - [\[백준 32036번\] 수열과 쿼리 45](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32036%EB%B2%88-%EC%88%98%EC%97%B4%EA%B3%BC-%EC%BF%BC%EB%A6%AC-45)
 - [\[백준 32068번\] 보물 찾기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32068%EB%B2%88-%EB%B3%B4%EB%AC%BC-%EC%B0%BE%EA%B8%B0)
 - [\[백준 32069번\] 가로등](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32069%EB%B2%88-%EA%B0%80%EB%A1%9C%EB%93%B1)
+- [\[백준 32070번\] 색깔 모으기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32070%EB%B2%88-%EC%83%89%EA%B9%94-%EB%AA%A8%EC%9C%BC%EA%B8%B0)
+
+<!-- END: kesakiyo.tistory.com -->
 
 ---
 
@@ -350,12 +357,14 @@ head:
 ## 멈춤보단 천천히라도
 
 - [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
+- [Raspberry Pi 5에 OpenCV 설치하는 방법](https://webnautes.tistory.com/m/1885)
 
 ---
 
 ## Arthur O’Dwyer
 
 - [How the STL uses explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
+- [Don't blindly prefer `emplace_back` to `push_back`](https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back)
 
 ---
 
@@ -404,6 +413,12 @@ head:
 ## leeyh0216's devlog
 
 - [JVM Heap과 GC를 다른 관점에서 바라보기](https://leeyh0216.github.io/posts/heap-and-gc/)
+
+---
+
+## Tony Finch – blog
+
+- [`tolower()` with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 
 ---
 

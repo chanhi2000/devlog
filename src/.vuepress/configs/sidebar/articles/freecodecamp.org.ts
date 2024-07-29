@@ -11,10 +11,12 @@ export const template: SidebarInfoTemplate = {
       "generics-in-java", // 2024-07-12
       "multithreading-for-beginners", // 2024-07-16
       "comparable-vs-comparator-explained-in-java", // 2024-07-23
+      "creational-design-patterns-in-java", // 2024-07-26
     ]],[
     "java-spring",[
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
+      "build-a-crud-app-spring-boot-neon-postgres", // 2024-07-26
     ]],[
     "java-android",[
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
@@ -101,6 +103,7 @@ export const template: SidebarInfoTemplate = {
       "difference-between-usememo-and-usecallback-hooks", // 2024-07-15
       "use-react-router-to-build-single-page-applications", // 2024-07-18
       "react-context-api-tutorial-examples", // 2024-07-22
+      "build-a-sticky-notes-app-with-react-and-appwrite", // 2024-07-25
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -164,6 +167,7 @@ export const template: SidebarInfoTemplate = {
       "what-are-monte-carlo-methods", // 2024-07-16
       "how-to-build-a-quantum-ai-model", // 2024-07-23
       "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
+      "what-is-recursion", // 2024-07-25
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -267,6 +271,7 @@ export const template: SidebarInfoTemplate = {
       "create-an-ml-model-with-azure-machine-learning-designer", // 2024-06-25
       "how-to-deploy-a-web-app", // 2024-07-11
       "how-to-deploy-node-js-app-on-azure", // 2024-07-17
+      "build-a-crud-app-spring-boot-neon-postgres", // 2024-07-26
     ]],[
     "gcp", [
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
@@ -294,6 +299,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
       "how-to-create-database-migrations-in-go", // 2024-06-26
       "nextjs-clerk-neon-fullstack-development", // 2024-07-10
+      "build-a-crud-app-spring-boot-neon-postgres", // 2024-07-26
     ]],[
     "mongodb", [
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
@@ -316,6 +322,7 @@ export const template: SidebarInfoTemplate = {
       "auto-scaling-and-load-balancing", // 2024-06-17
       "best-practices-for-accessibility-in-web-development", // 2024-06-20
       "breakpoints-for-responsive-web-design", // 2024-06-24
+      "learn-system-design-principles", // 2024-07-25
     ]],[
     "pm", [
       "what-is-trunk-based-development", // 2024-06-18
@@ -328,6 +335,7 @@ export const template: SidebarInfoTemplate = {
       "knowledge-distillation-in-deep-learning-models", // 2024-07-09
       "how-to-build-a-quantum-ai-model", // 2024-07-23
       "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
+      "generative-models-for-data-augmentation", // 2024-07-26
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -522,6 +530,12 @@ export const template: SidebarInfoTemplate = {
       "comparable-vs-comparator-explained-in-java", // 2024-07-23
       "how-to-build-a-quantum-ai-model", // 2024-07-23
       "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
+      "build-a-sticky-notes-app-with-react-and-appwrite", // 2024-07-25
+      "learn-system-design-principles", // 2024-07-25
+      "what-is-recursion", // 2024-07-25
+      "generative-models-for-data-augmentation", // 2024-07-26
+      "creational-design-patterns-in-java", // 2024-07-26
+      "build-a-crud-app-spring-boot-neon-postgres", // 2024-07-26
     ]],
   ]),
 }

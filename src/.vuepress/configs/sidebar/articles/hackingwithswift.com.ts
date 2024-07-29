@@ -435,12 +435,24 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/08/overview.md',
+              '/explore/articles/hackingwithswift.com/read/08/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/08/02-building-a-uikit-user-interface-programmatically.md',
+              '/explore/articles/hackingwithswift.com/read/08/03-loading-a-level-and-adding-button-targets.md',
+              '/explore/articles/hackingwithswift.com/read/08/04-its-play-time-firstindexof-and-joined.md',
+              '/explore/articles/hackingwithswift.com/read/08/05-property-observers-didset.md',
+              '/explore/articles/hackingwithswift.com/read/08/06-wrap-up.md',
             ]
           }, {
             text: 'Project 9: Grand Central Dispatch',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/09/overview.md',
+              '/explore/articles/hackingwithswift.com/read/09/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/09/02-why-is-locking-the-ui-bad.md',
+              '/explore/articles/hackingwithswift.com/read/09/03-gcd-101-async.md',
+              '/explore/articles/hackingwithswift.com/read/09/04-back-to-the-main-thread-dispatchqueuemain.md',
+              '/explore/articles/hackingwithswift.com/read/09/05-easy-gcd-using-performselectorinbackground.md',
+              '/explore/articles/hackingwithswift.com/read/09/06-wrap-up.md',
             ]
           }, {
             text: 'Project 10: Names to Faces',

@@ -168,6 +168,19 @@ head:
 - [‘목적에 맞게 설계된 AI’··· 소규모 AI로 전환하고 있는 IT 리더 이야기](https://ciokorea.com/news/340813)
 - [AI로 아낀 시간, 엉뚱한 데 쓴다?··· 슬랙, 워크포스 인덱스 보고서 공개](https://ciokorea.com/news/340085)
 - [“요즘 리더의 최대 관심사”··· ‘AI 인재 확보’ 위해 전략 재구상하는 글로벌 기업들](https://ciokorea.com/news/340484)
+- [점점 더 긴요해질 문제 ‘기업 가치와 AI 시스템 정렬하기’](https://ciokorea.com/news/345489)
+- [생성형 AI, 어쩌면 너무 협소하게 생각하고 있을지 모른다](https://ciokorea.com/news/344544)
+- [쇼핑 앱 경험 바꿀까··· 아마존, 쇼핑 전문 AI 챗봇 ‘루퍼스’ 공식 출시](https://ciokorea.com/news/344369)
+- [LG유플러스, IPTV에 ‘온디바이스AI’ 기술 적용··· “콘텐츠 추천, 자막 및 음질 자동 개선”](https://ciokorea.com/news/344299)
+- [기능 과장에 대한 유혹··· IT 리더가 주의해야 할 ‘AI 워싱’](https://ciokorea.com/news/345342)
+- [“‘스펙트럼 스케일’로 데이터 보관 최적화” IBM이 제시하는 AI 전용 스토리지 구축 전략](https://ciokorea.com/news/344572)
+- [메가존클라우드, 생성형 AI 기반으로 하나투어 ‘AI 채팅 상담’ 서비스 구축](https://ciokorea.com/news/344250)
+- [IT 리더들에게 들어본 ‘과장 단계의 기술’ 10선](https://ciokorea.com/news/344495)
+- [마크 주커버그 메타 CEO가 말하는 "오픈소스 AI가 미래인 이유"](https://ciokorea.com/news/345419)
+- [세일즈포스, AI 생태계 인식 조사 발표 "개방형 AI 생태계 선호 뚜렷"](https://ciokorea.com/news/345104)
+- [오픈AI 경쟁사 코히어, 5억달러 투자 유치··· “AGI보단 기업용 AI 모델 개발 집중할 것”](https://ciokorea.com/news/345181)
+
+<!-- END: ciokorea.com -->
 
 ---
 
@@ -175,7 +188,16 @@ head:
 
 - ["학생과 젊은 직장인이 생성형 AI 혁명 주도" 딜로이트 보고서](https://itworld.co.kr/news/341044)
 - [“모두를 위한 AI 슈퍼컴” 애저 클라우드 AI 데이터센터의 내부 살펴보기](https://itworld.co.kr/news/341541)
-
+- [“AI PC 시대” 꼭 알아야 할 필수 용어 18선](https://itworld.co.kr/news/345202)
+- [AI 챗봇이 사람이라는 착각과 AI 시대](https://itworld.co.kr/news/345286)
+- ["한국 소비자 37%, AI 툴 활용해 최적 가격 파악" 크리테오 설문조사](https://itworld.co.kr/news/345335)
+- [난장판 데이터가 기업의 AI 활용을 방해한다](https://itworld.co.kr/news/344971)
+- [미 대법원 판결, 소셜 미디어 AI 콘텐츠의 표현의 자유 여부 논란에 불 지펴](https://itworld.co.kr/news/344607)
+- ["성과 없는 애널리틱스, 개선 없는 머신러닝" AI/ML 프로젝트가 실패하는 이유](https://itworld.co.kr/news/344460)
+- [“인공지능 거품 붕괴 경보?” 킬러 앱 부재가 위험 요소 : 골드만삭스](https://itworld.co.kr/news/344467)
+- [“인공지능 거품 붕괴 경보?” 킬러 앱 부재가 위험 요소 : 골드만삭스](https://itworld.co.kr/news/344467)
+- [미스트랄 AI, '미스트랄 라지 2' 출시 "라마 3 405B 모델과 비슷한 성능"](https://itworld.co.kr/news/345566)
+s
 ---
 
 ## Buttondown
@@ -237,6 +259,12 @@ head:
 - [\[논문리뷰\] PETR : Position Embedding Transformation for Multi-View 3D Object Detection (2022 ECCV)](https://csj000714.tistory.com/m/1153)
 - [\[논문리뷰\] CF-3DGS: COLMAP-Free 3D Gaussian Splatting (CVPR 2024 Highlight)](https://csj000714.tistory.com/m/1161)
 - [\[세미나\] Unsupervised Semantic Segmentation (22.03.18. Open DMQA Seminar)](https://csj000714.tistory.com/m/1160)
+
+---
+
+## 나만의공간。
+
+- [\[AI\] ai-digest](https://m.blog.naver.com/writer0713/223524996787)
 
 ---
 

@@ -1728,5 +1728,12 @@
     "topics": [],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "desc": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "officialSite": "https://www.theunwindai.com",
+    "topics": ["llms", "python", "rag"],
+    "avatar": "https://avatars.githubusercontent.com/u/31396011?v=4",
+    "banner": ""
   }
 ]

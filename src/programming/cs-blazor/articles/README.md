@@ -204,6 +204,36 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Blazor WebAssembly Role-Based Security with IdentityServer4",
+  "desc": "In this article, we are going to learn about Blazor WebAssembly Role-Based Security by using the IdentityServer4 as a claims provider.",
+  "link": "/explore/articles/code-maze.com/blazor-webassembly-role-based-security-with-identityserver4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Attribute-Based Access Control with Blazor WebAssembly and IdentityServer4",
+  "desc": "Let's learn how to implement Attribute-based access control by using policies and claims to protect our API and client applications.",
+  "link": "/explore/articles/code-maze.com/atribute-based-access-control-blazor-webassembly-identityserver4.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Call JavaScript Functions with C# in Blazor WebAssembly",
+  "desc": "In this article, we are going to learn how to call JavaScript functions with C# using the JSInterop features in Blazor WebAssembly.",
+  "link": "/explore/articles/code-maze.com/how-to-call-javascript-code-from-net-blazor-webassembly.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

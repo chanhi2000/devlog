@@ -489,6 +489,8 @@ head:
 ## 컴맹 : 진화의 시작
 
 - [AWS Redshift: WLM, Queue, and Slot](http://jybaek.tistory.com/m/504716)
+- [AWS Resilience Hub - Fault Injection Service](https://jybaek.tistory.com/m/504717)
+- [AWS Node Termination Handler](https://jybaek.tistory.com/m/504718)
 
 ---
 

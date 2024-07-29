@@ -43,6 +43,7 @@ tag:
 ## Linux Programmer
 
 - [Adacious 리눅스 & 윈도 MP3 플레이어](https://sunyzero.tistory.com/297)
+- [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](http://sunyzero.tistory.com/m/300)
 
 ---
 
@@ -95,9 +96,9 @@ tag:
 
 ---
 
-## Linux Programmer
+## 뽀글뽀글 개발 일지
 
-- [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](http://sunyzero.tistory.com/m/300)
+- [리눅스 계정 색상 변경](https://bbogle2.tistory.com/m/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B3%84%EC%A0%95-%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD)
 
 ---
 

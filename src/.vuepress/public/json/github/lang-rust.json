@@ -2340,5 +2340,12 @@
     "topics": ["dbus", "ratatui", "tui", "zbus"],
     "avatar": "https://avatars.githubusercontent.com/u/1415528?v=4",
     "banner": ""
+  }, {
+    "repo": "swimos/swim-rust",
+    "desc": "Self-contained distributed software platform for building stateful, massively real-time streaming applications in Rust.",
+    "officialSite": "https://www.swimos.org",
+    "topics": ["actor-model", "async", "data-integration", "decentralized-applications", "distributed-systems", "framework", "kafka", "real-time", "rust", "serverless", "stateful", "stream-processing", "streaming", "streaming-data-pipelines", "web"],
+    "avatar": "https://avatars.githubusercontent.com/u/47773227?v=4",
+    "banner": ""
   }
 ]

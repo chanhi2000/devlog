@@ -41,4 +41,10 @@ head:
 
 ---
 
+## 김태영의 케라스 블로그
+
+- [Azure Functions 시작하기 with Visual Studio Code](http://tykimos.github.io/2024/07/28/getting_started_with_azure_functions_using_visual_studio_code/)
+
+---
+
 <TagLinks />

@@ -22,6 +22,7 @@ head:
       content: "Project 9: Grand Central Dispatch"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/09/overview.html
+prev: /explore/articles/hackingwithswift.com/read/08/06-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,65 @@ Learn how to run complex tasks in the background with GCD.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/09/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Why is locking the UI bad | Hacking with iOS",
+  "desc": "Why is locking the UI bad",
+  "link": "/explore/articles/hackingwithswift.com/read/09/02-why-is-locking-the-ui-bad.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "GCD 101: async | Hacking with iOS",
+  "desc": "GCD 101: async",
+  "link": "/explore/articles/hackingwithswift.com/read/09/03-gcd-101-async.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Back to the main thread: DispatchQueue.main | Hacking with iOS",
+  "desc": "Back to the main thread: DispatchQueue.main",
+  "link": "/explore/articles/hackingwithswift.com/read/09/04-back-to-the-main-thread-dispatchqueuemain.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Easy GCD using performSelector(inBackground | Hacking with iOS",
+  "desc": "Easy GCD using performSelector(inBackground",
+  "link": "/explore/articles/hackingwithswift.com/read/09/05-easy-gcd-using-performselectorinbackground.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/09/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

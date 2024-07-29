@@ -340,6 +340,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How Does Recursion Work? Explained with Code Examples",
+  "desc": "In this article, you will learn about recursion and how it works. You need a good understanding of how functions work before learning recursion. I have used Python code for examples in this article because of its simple syntax, but the concept of recursion is the same for every programming...",
+  "link": "/explore/articles/freecodecamp.org/what-is-recursion.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

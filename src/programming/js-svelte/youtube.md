@@ -30,3 +30,7 @@ head:
 [[toc]]
 
 ---
+
+<MyYouTubeItems jsonName="yu-SvelteSociety" /><!-- Svelte Society -->
+
+<TagLinks />

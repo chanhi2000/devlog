@@ -45,6 +45,12 @@ head:
 
 ---
 
+## 멈춤보단 천천히라도
+
+- [Raspberry Pi 5에 OpenCV 설치하는 방법](https://webnautes.tistory.com/m/1885)
+
+---
+
 ## pdf(s)
 
 <PDF src="https://datasheets.raspberrypi.com/bcm2711/bcm2711-peripherals.pdf" />

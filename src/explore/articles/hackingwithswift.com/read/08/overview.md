@@ -22,6 +22,7 @@ head:
       content: "Project 8: 7 Swifty Words"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/08/overview.html
+prev: /explore/articles/hackingwithswift.com/read/07/06-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,65 @@ Build a word-guessing game and master strings once and for all.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/08/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Building a UIKit user interface programmatically | Hacking with iOS",
+  "desc": "Building a UIKit user interface programmatically",
+  "link": "/explore/articles/hackingwithswift.com/read/08/02-building-a-uikit-user-interface-programmatically.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Loading a level and adding button targets | Hacking with iOS",
+  "desc": "Loading a level and adding button targets",
+  "link": "/explore/articles/hackingwithswift.com/read/08/03-loading-a-level-and-adding-button-targets.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "It's play time: firstIndex(of:) and joined() | Hacking with iOS",
+  "desc": "It's play time: firstIndex(of:) and joined()",
+  "link": "/explore/articles/hackingwithswift.com/read/08/04-its-play-time-firstindexof-and-joined.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Property observers: didSet | Hacking with iOS",
+  "desc": "Property observers: didSet",
+  "link": "/explore/articles/hackingwithswift.com/read/08/05-property-observers-didset.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/08/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

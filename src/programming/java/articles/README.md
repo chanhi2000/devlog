@@ -173,6 +173,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What are Creational Design Patterns in Java? Explained With Examples",
+  "desc": "Design Patterns provide you with an idea or a strategy for solving commonly occurring problems. They are proven solutions that follow the best practices and help you make your code flexible, reusable, and maintainable. The design patterns are classified into three categories based on their purpose:  * Creational...",
+  "link": "/explore/articles/freecodecamp.org/creational-design-patterns-in-java.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

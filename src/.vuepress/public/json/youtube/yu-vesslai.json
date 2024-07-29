@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "vesslai",
+    "name": "VESSL AI",
+    "profile": "https://yt3.googleusercontent.com/IqHCDoUA8FOj4XnDPgbyCAbkaQgEk0_Q3sd516X3sChBYzjiOXodEHd6UfHqb5x9iG__mfrN=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZxgO354Uo2rWPw-IyM5OO_fdnbyKJYlx4j93YJXKOWuqPrxfpGQXR-DcLaOWftVh1qu6pjQ7Kg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6vfPlVqBFMU", "title": "MLOps Now — Deploying LLM : Build, serve, and deploy custom private LLMs — 전지환, CTO VESSLAI (베슬에이아이)" },
+    { "id": "-UynCEZEAQ0", "title": "MLOps Now — Deploying LLM : Beyond completion models to systematic Innovation — 박성호, MLE, 뤼튼테크놀로지스" },
+    { "id": "xvIL29UYKFg", "title": "MLOps Now — Deploying LLM : 한국어 LLM 개발기, KoSOLAR 부터 EEVE 까지— 김승덕, Innovate Beyond 실장, 야놀자" },
+    { "id": "rvMXd00CAVc", "title": "MLOps Now May — Complete Session - Custom LLM in Production (by VESSL AI & Pinecone)" },
+    { "id": "J6_ReznVkzk", "title": "MLOps Now — Advancing Vector Search for LLM in Production — ​고석현, CEO, Sionic AI" },
+    { "id": "4EY1TP4FrEE", "title": "MLOps Now — 쉽고 빠르게 커스텀 LLM을 파인튜닝, 배포하는 방법 — 안재만, CEO, VESSL AI" },
+    { "id": "_3KYWn0FdRM", "title": "[VESSL AI 서비스 데모] #8. VESSL Serve로 Production에 배포 방법" },
+    { "id": "x4kLPbWqzUo", "title": "[VESSL AI Demo] How to Deploy to Production with VESSL Serve (ENG)" },
+    { "id": "YotXk7zL3oA", "title": "MLOps Now SF : Evaluation and observability stack for LLMs​ —Atin Sanyal, Galileo, LLM in production" },
+    { "id": "CnURXmL56oE", "title": "MLOps Now SF : Context-augmented LLMs with RAG & Vector DB — ​Bob van Luijt, CEO, Weaviate" },
+    { "id": "tQRVp-AO5FQ", "title": "MLOps Now SF : Custom LLMs—smarter, faster, and cheaper ​— Ryoo Intae, VESSL AI (LLMs in Production)" },
+    { "id": "KXaRE_9eo6A", "title": "MLOps Now SF : Infrastructure challenges of LLMs​ — Jackie Poon, Samsung SDS Research" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1826,6 +1826,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Deploying ASP.NET Core Web API to Azure API Apps",
+  "desc": "We can use Azure API Apps to create and deploy RESTful APIs in Azure with Cross-Origin Resource Sharing (CORS) support.",
+  "link": "/explore/articles/code-maze.com/deploying-aspnet-core-web-api-azure-api-apps.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

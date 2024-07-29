@@ -245,6 +245,10 @@ tag:
 - [`@ZVA` / 스티브 잡스라면 애플카를 어떻게 만들자고 했을까?](https://brunch.co.kr/@@ZVA/708)
 - [`@2rV` / 패턴 브레이커 - 미래를 바꾸는 스타트업의 특징](https://brunch.co.kr/@@2rV/150)
 - [`@2rV` / 제품 로드맵에서 일정 중심 접근 피하기 - 더 나은 방법은?](https://brunch.co.kr/@@2rV/149)
+- [`@ZVA` / 크라우드 스트라이크 글로벌IT대란의 진짜 원인을 말한다](https://brunch.co.kr/@@ZVA/709)
+- [`@2hV3` / 왜 레퍼런스 분석 시 'WHY'가 중요할까? - 레퍼런스를 활용한 디자인 인사이트](https://brunch.co.kr/@@2hV3/239)
+- [`@2weV` / 실행의 중요성.](https://brunch.co.kr/@@2weV/534)
+- [`@2weV` / 의사결정 내리기 좋게 말하기.](https://brunch.co.kr/@@2weV/533)
 
 <!-- END: brunch.co.kr -->
 
@@ -917,6 +921,7 @@ tag:
 - [[더 나은 엔지니어가 되기 위한 루틴] 취미부터 중소기업, 대기업, 스타트업, 창업까지 경험하며 느낀 점](https://dataportal.kr/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%A3%A8%ED%8B%B4-%EC%B7%A8%EB%AF%B8%EB%B6%80%ED%84%B0-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85-%EB%8C%80%EA%B8%B0%EC%97%85-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%EA%B9%8C%EC%A7%80-%EA%B2%BD%ED%97%98%ED%95%98%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90/)
 - [우리가 하는 일은 두 가지 유형의 일 뿐이다. (부제; 직무의 통합)](https://dataportal.kr/%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EC%9D%BC-%EB%BF%90%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%86%B5%ED%95%A9/)
 - [당신은 얼마나 책임 지고 있나요? (feat. Mandate Levels)](https://dataportal.kr/%EB%8B%B9%EC%8B%A0%EC%9D%80-%EC%96%BC%EB%A7%88%EB%82%98-%EC%B1%85%EC%9E%84-%EC%A7%80%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-feat-Mandate-Levels/)
+- [조직이 커지면서 발생하는 문제](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%BB%A4%EC%A7%80%EB%A9%B4%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C/)
 
 ---
 
@@ -1371,6 +1376,13 @@ https://blog.naver.com/&logId=
 ## 회색분자의 IT 창작 놀이터
 
 - [질문 리더쉽은 반대 : 집중해야 할 것](https://greypencil.tistory.com/m/216)
+- [비즈니스 모델, '지속 가능성' : 왜 중요할까?](https://greypencil.tistory.com/m/217)
+
+---
+
+## 토고미의 잡동사니
+
+- [자영업자, 소상공인 여름휴가 시 꼭 해야할 것](https://m.blog.naver.com/oralol/223525970431)
 
 ---
 

@@ -4527,5 +4527,12 @@
     "topics": ["bun", "deno", "git", "git-lfs", "javascript", "nodejs", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/998922?v=4",
     "banner": ""
+  }, {
+    "repo": "StreamPot/StreamPot",
+    "desc": "Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.",
+    "officialSite": "https://streampot.io",
+    "topics": ["api", "ffmpeg", "ffmpeg-wrapper", "fluent-ffmpeg", "media"],
+    "avatar": "https://avatars.githubusercontent.com/u/170744283?v=4",
+    "banner": ""
   }
 ]

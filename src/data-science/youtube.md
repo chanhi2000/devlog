@@ -26,4 +26,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-diplwapl" /><!-- 디플와플 -->
+
 <TagLinks />

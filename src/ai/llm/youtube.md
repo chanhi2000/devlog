@@ -62,5 +62,7 @@ head:
 <MyYouTubeItems jsonName="yu-Data-Centric" /><!-- Data Centric -->
 <MyYouTubeItems jsonName="yu-10xaiclub" /><!-- 10X AI Club -->
 <MyYouTubeItems jsonName="yu-PyDataTV" /><!-- PyData -->
+<MyYouTubeItems jsonName="yu-MakeDataUseful" /><!-- Make Data Useful -->
+<MyYouTubeItems jsonName="yu-vesslai" /><!-- VESSL AI -->
 
 <TagLinks/>

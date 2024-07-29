@@ -454,4 +454,12 @@ head:
 
 ---
 
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- [오픈AI, 검색 엔진 '서치GPT' 프로토타입 공개](https://itworld.co.kr/news/345552)
+- [오픈AI, 'GPT-4o 미니' 무료 미세 조정 발표…24시간당 200만 개 훈련 토큰 제공](https://itworld.co.kr/news/345412)
+- [“챗GPT는 이제 1단계” 오픈 AI, 새로운 AI 평가 등급 발표](https://itworld.co.kr/news/344432)
+
+---
+
 <TagLinks />

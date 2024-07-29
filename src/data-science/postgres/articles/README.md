@@ -88,6 +88,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Develop a CRUD App with Spring Boot, Neon Postgres, and Azure App Service",
+  "desc": "In this article, we'll explore how to develop a CRUD (Create, Read, Update, Delete) application using Spring Boot and Neon Postgres. We'll also deploy the application on Azure App Service and make it production-ready by setting up features like autoscaling and multiple environments. You'll learn how Neon Postgres...",
+  "link": "/explore/articles/freecodecamp.org/build-a-crud-app-spring-boot-neon-postgres.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

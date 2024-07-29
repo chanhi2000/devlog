@@ -43,4 +43,10 @@ tag:
 
 ---
 
+## 신현석(Hyeonseok Shin)
+
+- [Node의 SQLite 지원](https://hyeonseok.com/blog/915)
+
+---
+
 <TagLinks />

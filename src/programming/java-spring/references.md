@@ -243,6 +243,7 @@ head:
 ### JuHyeong.dev
 
 - [`ThreadPoolExecutor` 동작에 관한 오해](https://dkswnkk.tistory.com/745)
+- [단방향 `@OneToMany`의 문제점](http://dkswnkk.tistory.com/m/756)
 
 ### 알아두면 쓸만한 개발 잡학사전
 
@@ -432,6 +433,9 @@ head:
 - [8.6. 책 수정 화면 뷰 작성하기](https://ysedeveloper.tistory.com/m/entry/86-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EB%B7%B0-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [8.7. 책 수정 화면 확인하기](https://ysedeveloper.tistory.com/m/entry/87-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 - [9.1. 책 수정 기능 개요](https://ysedeveloper.tistory.com/entry/91-%EC%B1%85-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EC%9A%94)
+- [9.3. 책 수정 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/93-%EC%B1%85-%EC%88%98%EC%A0%95-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [9.4. 책 서비스 클래스에 수정 기능 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/94-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [9.5. 책 컨트롤러 422 오류 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/95-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-422-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -517,6 +521,10 @@ head:
 ### 복세편살
 
 - [spring boot 3.2에서 HTTP 통신하는 방법 아는 체하기](https://americanopeople.tistory.com/m/457)
+
+### 이모저모 개발 블로그
+
+- [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
 
 ---
 

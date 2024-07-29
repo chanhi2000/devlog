@@ -193,6 +193,13 @@ tag:
 ## jacking75
 
 - [VS Code - VSCode에서 시퀀스 다이어그램 클래스 다이어그램 플로우 차트를 빨리 쓰고 싶다면 Mermaid Graphical Editor](https://jacking75.github.io/VS_code_20240607/)
+- [VS Code - VSCode로 Linux 서버에 SSH 연결 및 개발](https://jacking75.github.io/VS_code_20240728/)
+
+---
+
+## 김태영의 케라스 블로그
+
+- [Azure Functions 시작하기 with Visual Studio Code](http://tykimos.github.io/2024/07/28/getting_started_with_azure_functions_using_visual_studio_code/)
 
 ---
 

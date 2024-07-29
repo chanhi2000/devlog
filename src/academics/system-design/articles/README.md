@@ -155,6 +155,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn System Design Principles and Prepare for an Job Interview",
+  "desc": "Mastering system design is important for anyone who wants to build scalable and reliable applications. System design includes a range of topics from basic computer architecture to complex networking concepts, each playing an important role in creatin...",
+  "link": "/explore/articles/freecodecamp.org/learn-system-design-principles.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

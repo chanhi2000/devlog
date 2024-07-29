@@ -176,6 +176,7 @@ export const template: SidebarInfoTemplate = {
       "aspnet-configuration-options", // 2021-12-27
       "aspnet-configuration-options-validation", // 2021-12-27
       "aspnet-configuration-providers", // 2021-12-27
+      "deploying-aspnet-core-web-api-azure-api-apps", // 2024-01-31
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]],[
     "cs-blazor", [
@@ -195,6 +196,9 @@ export const template: SidebarInfoTemplate = {
       "blazor-webassembly-registration-aspnetcore-identity", // 2022-05-22
       "blazor-webassembly-authentication-aspnetcore-identity", // 2022-05-22
       "blazor-webassembly-role-based-authorization", // 2022-05-22
+      "blazor-webassembly-role-based-security-with-identityserver4", // 2022-05-23
+      "atribute-based-access-control-blazor-webassembly-identityserver4", // 2022-05-23
+      "how-to-call-javascript-code-from-net-blazor-webassembly", // 2022-05-23
     ]],[
     "js-angular", [
       "net-core-web-development-part7", // 2022-04-20
@@ -250,6 +254,7 @@ export const template: SidebarInfoTemplate = {
       "publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio", // 2024-01-31
       "aspnet-configuration-azure-key-vault", // 2021-12-27
       "introduction-to-cloud-computing-and-azure", // 2021-12-29
+      "deploying-aspnet-core-web-api-azure-api-apps", // 2024-01-31
     ]],[
     "security", [
       "owasp-top-10-injection", // 2022-01-11
@@ -481,6 +486,10 @@ export const template: SidebarInfoTemplate = {
       "aspnet-configuration-options", // 2021-12-27
       "aspnet-configuration-options-validation", // 2021-12-27
       "aspnet-configuration-providers", // 2021-12-27
+      "blazor-webassembly-role-based-security-with-identityserver4", // 2022-05-23
+      "atribute-based-access-control-blazor-webassembly-identityserver4", // 2022-05-23
+      "deploying-aspnet-core-web-api-azure-api-apps", // 2024-01-31
+      "how-to-call-javascript-code-from-net-blazor-webassembly", // 2022-05-23
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])

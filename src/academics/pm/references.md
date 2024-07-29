@@ -23,6 +23,14 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`robertjune` / PO는 어떤 역량을 강화해야 할까?](https://robertjune.medium.com/po%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%97%AD%EB%9F%89%EC%9D%84-%EA%B0%95%ED%99%94%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-0b0e751380b5?source=rss-e8d4ff6dbfd8------2)
+
+<!-- END: medium.com -->
+
+---
+
 ## Brunch
 
 - [`@2fEJ` / 프로덕트 매니저의 권한 부족 문제와 해결 방안 - PM 강의 #23](https://brunch.co.kr/@@2fEJ/1390)
@@ -64,6 +72,8 @@ tag:
 - [`@2rV` / PM을 위한 뉴스레터 - Discover, Learn, Laugh](https://brunch.co.kr/@@2rV/146)
 - [`@2fEJ` / PRD 작성 및 피드백 관리의 중요성과 성장 기회 - PM/PO 이야기 #33](https://brunch.co.kr/@@2fEJ/1441)
 - [`@2fEJ` / PRD 문서 작성 이후 제품 개발 과정의 효과적인 관리 - PM/PO 이야기 #34](https://brunch.co.kr/@@2fEJ/1442)
+- [`@2fEJ` / 프로젝트의 성공을 위한 효과적인 의사소통과 PRD 관리 - PM/PO 이야기 #35](https://brunch.co.kr/@@2fEJ/1443)
+- [`@2fEJ` / PRD의 중요성과 활용 방안 - PM/PO 이야기 #36](https://brunch.co.kr/@@2fEJ/1444)
 
 <!-- END: brunch.co.kr -->
 

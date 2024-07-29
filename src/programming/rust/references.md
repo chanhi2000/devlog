@@ -405,6 +405,18 @@ tag:
 
 ---
 
+## Marshall K
+
+- [Docker로 Rust 애플리케이션 배포하기](https://marshallku.com/dev/deploy-rust-with-docker)
+
+---
+
+## GIS Developer
+
+- [값이 저장된 메모리 주소 얻기, 특정 메모리 주소에 저장된 값 얻기](http://www.gisdeveloper.co.kr/?p=15049)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />

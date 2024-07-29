@@ -68,6 +68,10 @@ head:
 - [`@eunbibi` - Tableau charts](https://velog.io/@eunbibi/Tableau-charts)
 - [`@beberiche` - 프로젝트 DB를 해킹 당했다.](https://velog.io/@beberiche/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-DB%EB%A5%BC-%ED%95%B4%ED%82%B9-%EB%8B%B9%ED%96%88%EB%8B%A4)
 - [`dradnats1012` / DB 서버 분리하기!](https://velog.io/@dradnats1012/DB-%EC%84%9C%EB%B2%84-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [`@sonaky47` / MySQL client connections program name](https://velog.io/@sonaky47/MySQL-client-connections-program-name)
+- [`@sunaookamisiroko` / MySQL varchar(255)를 사용하는 이유?](https://velog.io/@sunaookamisiroko/MySQL-varchar255%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -275,6 +279,12 @@ head:
 ## 뽀글뽀글 개발 일지
 
 - [MySQL 계정 설정](https://bbogle2.tistory.com/m/entry/MySQL-%EA%B3%84%EC%A0%95-%EC%84%A4%EC%A0%95)
+
+---
+
+## 개발자입니까?
+
+- [Mac에서 MySQL 설치 후 `my.cnf`를 찾을 수 없을 때](https://devvkkid.tistory.com/m/305)
 
 ---
 

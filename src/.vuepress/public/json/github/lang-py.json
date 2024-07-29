@@ -7243,5 +7243,40 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/203507?v=4",
     "banner": ""
+  }, {
+    "repo": "meta-llama/llama-agentic-system",
+    "desc": "Agentic components of the Llama Stack APIs",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/153379578?v=4",
+    "banner": ""
+  }, {
+    "repo": "tonio-m/python_neural_network",
+    "desc": "🪝\"mnist\" in 60 lines of code, no dependencies. For educational purposes.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/25779394?v=4",
+    "banner": ""
+  }, {
+    "repo": "livekit/agents",
+    "desc": "Build real-time multimodal AI applications 🤖🎙️📹 ",
+    "officialSite": "https://docs.livekit.io/agents",
+    "topics": ["agents", "ai", "multimodal", "real-time", "video", "voice", "voice-assistant"],
+    "avatar": "https://avatars.githubusercontent.com/u/69438833?v=4",
+    "banner": ""
+  }, {
+    "repo": "opslane/opslane",
+    "desc": "Reducing alert fatigue for on-call engineers",
+    "officialSite": "https://opslane.com",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/169500408?v=4",
+    "banner": ""
+  }, {
+    "repo": "lean-dojo/LeanDojo",
+    "desc": "Tool for data extraction and interacting with Lean programmatically.",
+    "officialSite": "https://leandojo.org",
+    "topics": ["lean", "lean4", "machine-learning", "theorem-proving"],
+    "avatar": "https://avatars.githubusercontent.com/u/136513911?v=4",
+    "banner": ""
   }
 ]

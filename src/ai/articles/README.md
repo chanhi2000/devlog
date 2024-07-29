@@ -132,6 +132,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How Do Generative Models Work in Deep Learning? Generative Models For Data Augmentation Explained",
+  "desc": "Data is at the heart of model training in the world of deep learning. The quantity and quality of training data determine the effectiveness of machine learning algorithms.  On the other hand, obtaining massive amounts of precisely categorized data is a difficult and resource-intensive operation. This is where data...",
+  "link": "/explore/articles/freecodecamp.org/generative-models-for-data-augmentation.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

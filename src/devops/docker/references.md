@@ -86,8 +86,10 @@ head:
 - [`@skynet` / Cache mount를 이용한 Dockerfile 빌드 최적화](https://velog.io/@skynet/Cache-mount%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Dockerfile-%EB%B9%8C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94)
 - [`@dongha1992` / 도커 & CI (8) 멀티 컨테이너](https://velog.io/@dongha1992/%EB%8F%84%EC%BB%A4-CI-8-%EB%A9%80%ED%8B%B0-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88)
 - [`@dradnats1012` / 도커(Docker)](https://velog.io/@dradnats1012/%EB%8F%84%EC%BB%A4Docker)
+- [`@qkrtkdwns3410` / 도커 컴포즈 볼륨 설정관련](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4-%EC%BB%B4%ED%8F%AC%EC%A6%88-%EB%B3%BC%EB%A5%A8-%EC%84%A4%EC%A0%95%EA%B4%80%EB%A0%A8)
 
 <!-- END: velog.io -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
@@ -438,6 +440,18 @@ head:
 ## Developer security | Snyk
 
 - [Choosing the best Node.js Docker image](https://snyk.io/blog/choosing-the-best-node-js-docker-image/)
+
+---
+
+## 일단은 프로그래머 나부랭이
+
+- [docker container backup & restore](https://this1.tistory.com/m/99)
+
+---
+
+## Marshall K
+
+- [Docker로 Rust 애플리케이션 배포하기](https://marshallku.com/dev/deploy-rust-with-docker)
 
 ---
 

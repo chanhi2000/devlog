@@ -50,7 +50,15 @@ export const navbarEn = navbar([
       }, {
         text: 'Marketing',
         icon: 'fas fa-rectangle-ad',
-        link: '/academics/marketing/README.md',
+        children: [
+          '/academics/marketing/README.md',
+        ]
+      }, {
+        text: 'Finance',
+        icon: 'fas fa-coins',
+        children: [
+          '/academics/fnce/README.md',
+        ]
       }, {
         text: 'Mathematics',
         icon: 'fas fa-square-root-variable',
@@ -72,7 +80,7 @@ export const navbarEn = navbar([
           '/academics/coen/README.md',
           '/academics/COEN020/README.md'
         ]
-      }
+      }, 
     ],
   }, {
     text: '', // programming

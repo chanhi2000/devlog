@@ -109,6 +109,11 @@ tag:
 - [`@qkrtkdwns3410` / \[알고리즘 2491\] 발표자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2491-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
 - [`@dongha1992` / 99클럽 코테 스터디 1일차 TIL](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%9D%BC%EC%B0%A8-TIL)
 - [`@dongha1992` / 99클럽 코테 스터디 2일차 TIL - Java](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%9D%BC%EC%B0%A8-TIL-0x2jtusr)
+- [`@beberiche` / 개선된 LCA 정복하기](https://velog.io/@beberiche/LCA-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0)
+- [`@dongha1992` / 99클럽 코테 스터디 4일차 TIL - Java](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-4%EC%9D%BC%EC%B0%A8-TIL-Java)
+- [`@dongha1992` / 99클럽 코테 스터디 5일차 TIL - 해시](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-5%EC%9D%BC%EC%B0%A8-TIL-%ED%95%B4%EC%8B%9C)
+- [`@dongha1992` / 99클럽 코테 스터디 6일차 TIL - 해시](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%9D%BC%EC%B0%A8-TIL-%ED%95%B4%EC%8B%9C)
+- [`@qkrtkdwns3410` / 이펙티브 자바 아이템84 : 프로그램의 동작을 스레드 스케줄러에 기대지 말라.](https://velog.io/@qkrtkdwns3410/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98-%EB%8F%99%EC%9E%91%EC%9D%84-%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC%EC%97%90-%EA%B8%B0%EB%8C%80%EC%A7%80-%EB%A7%90%EB%9D%BC)
 
 <!-- END: velog.io java -->
 
@@ -569,6 +574,7 @@ tag:
 - [\[백준\] 11720번: 숫자의 합 - java](https://findsilverlining.tistory.com/m/95)
 - [\[백준\] 11659번: 구간 합 구하기 4 - java](https://findsilverlining.tistory.com/m/98)
 - [\[백준\] 1717번: 집합의 표현 - java](https://findsilverlining.tistory.com/m/99)
+- [\[프로그래머스\] 두 개 뽑아서 더하기 - java](https://findsilverlining.tistory.com/m/104)
 
 ### Event-Driven by Oskar Dudycz
 
@@ -669,6 +675,9 @@ tag:
 - [`@dudgns0507` - [Kotlin] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [`@stella6767` / HTMX TIP](https://velog.io/@stella6767/HTMX-TIP)
+- [`@thd0427` / Route는 왜 직렬화가 가능해야 할까?](https://velog.io/@thd0427/Route%EB%8A%94-%EC%99%9C-%EC%A7%81%EB%A0%AC%ED%99%94%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
+
+<!-- END: velog.io kotlin -->
 
 ### <FontIcon icon="fa-brands fa-dev"/>dev.to
 

@@ -997,6 +997,7 @@ tag:
 ## 신현석(Hyeonseok Shin)
 
 - [노드 간의 포함관계를 확인하는 contains](https://hyeonseok.com/blog/912)
+- [Node의 SQLite 지원](https://hyeonseok.com/blog/915)
 
 ---
 
@@ -1289,6 +1290,12 @@ tag:
 ## Platformatic Blog
 
 - [A guide to reading and writing Node.js streams](https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams)
+
+---
+
+## 개발하는 기획자. 기획하는 개발자.
+
+- [단위 테스트 (Unit Test)](https://m.blog.naver.com/gi_balja/223526833780)
 
 ---
 

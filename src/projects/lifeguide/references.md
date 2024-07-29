@@ -104,4 +104,16 @@ tag:
 
 ---
 
+## 머니투데이 - 돈이 보이는 리얼타임 뉴스
+
+- ["아이 낳고 키우기 딱 좋아" 주민들도 대만족…서울 제친 이 동네](https://news.mt.co.kr/mtview.php?no=2024071821335784545)
+
+---
+
+## BBC News 코리아
+
+- [음식물 쓰레기를 최소화하기 위한 일본식 냉장고 관리법](https://bbc.com/korean/articles/c903v7jnv3eo)
+
+---
+
 <TagLinks />

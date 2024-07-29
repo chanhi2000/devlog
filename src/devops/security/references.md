@@ -27,6 +27,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+
+- [Microsoft technical breakdown of CrowdStrike incident](https://microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools)
+
+---
+
 ## CVE Website
 
 - [CVE-2024-6387](https://www.cve.org/CVERecord?id=CVE-2024-6387)

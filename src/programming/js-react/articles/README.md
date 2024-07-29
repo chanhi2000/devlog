@@ -485,6 +485,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Build a Sticky Notes App with React and Appwrite",
+  "desc": "Are you ready to dive into an exciting project that combines the latest in frontend and backend technologies? Imagine having a personalized notes application with dynamic features like draggable notes, autosave, and customizable colors. Not only will...",
+  "link": "/explore/articles/freecodecamp.org/build-a-sticky-notes-app-with-react-and-appwrite.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

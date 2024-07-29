@@ -82,6 +82,9 @@ tag:
 - [`cloudbric-tech-leaders` / Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 - [`@EJSohn` / \[번역\] 코딩 인터뷰에서 Golang을 사용해야하는 이유](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C-golang%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8b638ab33068)
 - [`gitconnected` / Why and how you should rate-limit your API](https://levelup.gitconnected.com/why-and-how-you-should-rate-limit-your-api-08b6cd0b91b6)
+- [`@3n0ugh` / How to Test gRPC Servers in Go](https://medium.com/@3n0ugh/how-to-test-grpc-servers-in-go-ba90fe365a18)
+
+<!-- END: medium.com -->
 
 ---
 

@@ -171,7 +171,6 @@ head:
 <MyYouTubeItems jsonName="yu-BoostMyTool" /><!-- BoostMyTool -->
 <MyYouTubeItems jsonName="yu-andrewjosephmead1" /><!-- Andrew Mead -->
 <MyYouTubeItems jsonName="yu-tapasadhikary" /><!-- tapaScript by Tapas Adhikary -->
-<MyYouTubeItems jsonName="yu-SvelteSociety" /><!-- Svelte Society -->
 <MyYouTubeItems jsonName="yu-WesDoyle" /><!-- Wes Doyle -->
 <MyYouTubeItems jsonName="yu-thewilltejeda" /><!-- Will Tejeda -->
 <MyYouTubeItems jsonName="yu-learnpratap" /><!-- Learn with Pratap -->
@@ -209,7 +208,6 @@ head:
 <MyYouTubeItems jsonName="yu-FED-RF2023-yg9fv" /><!-- 탐쌤 FED-RF 2023 과정 -->
 <MyYouTubeItems jsonName="yu-user-mg8kt9go7z" /><!-- 모던애자일팀 -->
 <MyYouTubeItems jsonName="yu-yangdongjun" /><!-- 양동준 Yang DongJun -->
-<MyYouTubeItems jsonName="yu-Delba" /><!-- Delba -->
 <MyYouTubeItems jsonName="yu-TomDoesTech" /><!-- TomDoesTech -->
 <MyYouTubeItems jsonName="yu-LachlanMiller" /><!-- Lachlan Miller -->
 <MyYouTubeItems jsonName="yu-codeboba" /><!-- Code Boba -->

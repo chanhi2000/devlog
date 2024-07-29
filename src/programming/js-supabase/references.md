@@ -34,6 +34,15 @@ head:
 
 ---
 
+## üntil
+
+- [`@morethanmin` / firebase로 react 배포하고 *.web.app 도메인 무료로 사용하기](https://until.blog/@morethanmin/firebase%EB%A1%9C-react-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0---web-app-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+<!-- END: until.blog -->
+
+---
+
+
 ## Teveloper 개발 & 테니스 이야기
 
 - [Supabase가 4년간의 베타를 거쳐 GA(General Availability) 릴리즈](https://teveloper.tistory.com/76)

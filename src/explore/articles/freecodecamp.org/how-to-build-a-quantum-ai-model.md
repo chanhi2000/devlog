@@ -5,12 +5,15 @@ description: Article(s) > How to Build a Quantum Artificial Intelligence Model â
 icon: fa-brands fa-python
 category: 
   - Python
+  - AI
   - Article(s)
 tag: 
   - blog
   - freecodecamp.org
   - py
   - python
+  - ai
+  - qai
 head:
   - - meta:
     - property: og:title
@@ -32,6 +35,16 @@ cover: https://freecodecamp.org/news/content/images/size/w1000/2024/07/article_c
   "title": "Python > Article(s)",
   "desc": "Article(s)",
   "link": "/programming/py/articles/README.md",
+  "logo": "/images/ico-wind.svg",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "AI > Article(s)",
+  "desc": "Article(s)",
+  "link": "/ai/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

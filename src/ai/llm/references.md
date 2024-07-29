@@ -58,6 +58,7 @@ head:
 - [`@geoffyoon-dev` - 데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy)
 - [`@devstone` - NLP 메트릭 톺아보기](https://velog.io/@devstone/NLP-%EB%A9%94%ED%8A%B8%EB%A6%AD-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [`@kwon0koang` / 오픈소스 LLM으로 RAG 에이전트 만들기 (랭체인, Ollama, Tool Calling 대체)](https://velog.io/@kwon0koang/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9C%BC%EB%A1%9C-RAG-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [`@eunbibi` / 자연어처리](https://velog.io/@eunbibi/%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC)
 
 <!-- END: velog.io -->
 
@@ -359,8 +360,10 @@ head:
 - [42dot LLM은 리더보드 용도로 파인튜닝한게 아니기 때문에 점수는 낮지만, 실제로 써보면 성능은 매우 뛰어난 걸 확인할 수 있습니다. 320장의 GPU로 약 1주일 동안](https://likejazz.com/post/755660739094724609)
 - [현대자동차그룹의 후원으로 MIT 윤킴 교수님과 지난 1년여간 함께 진행해온 산학 연구 논문이 요즘 화제네요.](https://likejazz.com/post/756113715506659328)
 - [`llama.cpp`의 K-Quantization https://github.com/ggerganov/llama.cpp/pull/1684 을 따라서 구현해보다가 길을 잃고 😑 좀 더](https://likejazz.com/post/756204304905469952)
-- [The Era of 1-bit LLMs: All Large Language Models are in 1.58&;;hellip;](https://likejazz.com/post/756294915544219648)
-- [간밤에 메타에서 드디어 라마3를 공개했습니다. 역시나 기대했던 대로 압도적인 스케일과 성능을 자랑하네요. 2만 4천 장의 GPU, 15T 학습 데이터, 1천만 건의 인스트럭션&hellip;](https://likejazz.com/post/756657294178140160)
+- [The Era of 1-bit LLMs: All Large Language Models are in 1.58](https://likejazz.com/post/756294915544219648)
+- [간밤에 메타에서 드디어 라마3를 공개했습니다. 역시나 기대했던 대로 압도적인 스케일과 성능을 자랑하네요. 2만 4천 장의 GPU, 15T 학습 데이터, 1천만 건의 인스트럭션](https://likejazz.com/post/756657294178140160)
+- [곧 출시되는 ollama의 신규 버전에는 드디어 CJK 문제가 해결되면서 CLI에서 문제 없이 한글 처리가 될 것으로 보이네요. 이외에도 `llama.cpp`에 flash](http://likejazz.com/post/757019683183607808)
+- [`llm.c` 프로젝트로 요즘 pure C/CUDA training 코드를 만들고 있는 카파시가 이번에 GPT-2 124M 모델 학습을 1장의 GPU로 90분만에 재현했네요.](http://likejazz.com/post/757200879566946304)
 
 ---
 
@@ -388,5 +391,24 @@ head:
 - [42dot LLM 1.3B](https://42dot.ai/blog/178)
 
 ---
+
+## Haandol, TL;DR
+
+- [SLM 파인튜닝 하기 전에 알아두면 좋은 내용 - 1/2](https://haandol.github.io/2024/07/27/demystifying-small-language-model-fine-tuning.html)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [엔비디아, 새로운 네모 리트리버 마이크로서비스 발표··· "LLM 정확도 및 처리량 향상 지원"](https://ciokorea.com/news/345545)
+- [상용 RAG의 현주소와 도전 과제](https://ciokorea.com/news/345559)
+- [“로컬 기기에서 AI 성능 극대화”··· 허깅페이스, 소형 언어 모델 ‘스몰LM’ 공개](https://ciokorea.com/news/344684)
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- [“LLM 시장을 흔드는 메타 라마 3.1” 기업과 솔루션 업체의 득실](https://itworld.co.kr/news/345524)
+- [RAG 산업화 여정의 현재와 미래](https://itworld.co.kr/news/345482)
 
 <TagLinks/>

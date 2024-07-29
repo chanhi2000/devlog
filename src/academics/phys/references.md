@@ -78,4 +78,10 @@ head:
 
 ---
 
+## 서민상의 공학과 실무 강의실
+
+- [배터리 용어 - SoH 개념](https://m.blog.naver.com/seo0511/223527913928)
+
+---
+
 <TagLinks />

@@ -165,7 +165,6 @@ head:
   - [모던자바스크립트 스터디 4장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-4%EC%9E%A5-2b21b48c7ef7)
   - [모던자바스크립트 스터디 5장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-5%EC%9E%A5-3a8d39485e66)
 
-
 <!-- END: medium.com -->
 
 ---
@@ -177,6 +176,8 @@ head:
 - [`@dongha1992` / \[프로그래머스\] 합승 택시 요금](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%95%A9%EC%8A%B9-%ED%83%9D%EC%8B%9C-%EC%9A%94%EA%B8%88)
 - [`@dongha1992` / \[PCCP 기출문제\] 2번 / 석유 시추](https://velog.io/@dongha1992/PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-2%EB%B2%88-%EC%84%9D%EC%9C%A0-%EC%8B%9C%EC%B6%94)
 - [`@dongha1992` / [프로그래머스] 단어 변환](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98)
+- [`@ksh4704` / JavaScript \[ES6\] (1)](https://velog.io/@ksh4704/JavaScript-ES6-1)
+- [`@ksh4704` / JavaScript \[ES6\] (2)](https://velog.io/@ksh4704/JavaScript-ES6-2)
 
 ---
 
@@ -290,11 +291,7 @@ head:
 
 ## 개발일지
 
-- [[이펙티브 타입스크립트] 1장 타입스크립트 알아보기](https://paran21.tistory.com/m/235)
-- [[이펙티브 타입스크립트] 3장 타입 추론 19~23](https://paran21.tistory.com/m/236)
-- [\[이펙티브 타입스크립트\] 4장 타입 설계 28~32](https://paran21.tistory.com/m/237)
-- [\[이펙티브 타입스크립트\] 5장 any 다루기](https://paran21.tistory.com/m/238)
-- [\[이펙티브 타입스크립트\] 7장 코드를 작성하게 실행하기 아이템53~55](https://paran21.tistory.com/m/240)
+- [\[모던 JS 딥다이브\] 7~9장](https://paran21.tistory.com/m/242)
 
 ---
 

@@ -349,4 +349,10 @@ head:
 
 ---
 
+## 개발자입니까?
+
+- [Mac에서 MySQL 설치 후 `my.cnf`를 찾을 수 없을 때](https://devvkkid.tistory.com/m/305)
+
+---
+
 <TagLinks />

@@ -702,6 +702,16 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://glisp.app/commit:e7fbaae/favicon/apple-touch-icon.png"
   preview="https://glisp.app/commit:e7fbaae/ogp.png"/>
 
+```component VPCard
+{
+  "title": "Statsbomb Pass Visualizer",
+  "desc": "Paste a raw URL to a StatsBomb event data file from their repository.",
+  "link": "https://statsbomb-3d-viz.vercel.app/",
+  "logo": "https://statsbomb-3d-viz.vercel.app/vite.svg",
+  "background": "rgba(34,197,94,0.2)"
+}
+```
+
 <!-- END:  Cool Project -->
 
 @tab Portfolio / Resume
