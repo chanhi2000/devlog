@@ -1145,6 +1145,7 @@ tag:
 
 - [\[TypeScript\] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/m/194)
 - [\[번역\] 개발자 중심 성능 테스트 선언문](https://puleugo.tistory.com/m/197)
+- [\[번역\] Mocks Aren't Stubs | Classicist vs Mockist](https://puleugo.tistory.com/m/199)
 
 ---
 
@@ -1302,6 +1303,12 @@ tag:
 ## David Gerrells
 
 - [How to save $13.27 on your sAAs bill](https://dgerrells.com/blog/how-to-save-13-27-on-your-saas-bill)
+
+---
+
+## Val Town Blog
+
+- [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
 
 ---
 

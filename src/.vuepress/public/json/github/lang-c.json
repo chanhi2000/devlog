@@ -1581,5 +1581,12 @@
     "topics": ["anticensorship", "censorship-circumvention", "deep-packet-inspection", "dpi"],
     "avatar": "https://avatars.githubusercontent.com/u/3054729?v=4",
     "banner": ""
+  }, {
+    "repo": "c3lang/c3c",
+    "desc": "Compiler for the C3 language",
+    "officialSite": "",
+    "topics": ["c3", "compiler", "language"],
+    "avatar": "https://avatars.githubusercontent.com/u/53541653?v=4",
+    "banner": ""
   }
 ]

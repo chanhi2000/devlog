@@ -1172,6 +1172,20 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://smallpdf.com/favicon.png"
   preview="https://smallpdf.com/assets/img/fb/sign.png"/>
 
+<SiteInfo
+  name="Editor - Stempad"
+  desc="Try for free, no sign in required. Math, graphs, molecule sketches, code, chemistry, drawing, table, and more."
+  url="https://www.stempad.io/editor"
+  logo="https://www.stempad.io/favicon-196x196.png"
+  preview="https://www.stempad.io/logo-square.png"/>
+
+<SiteInfo
+  name="Video Editing SDK - Rendley SDK"
+  desc="A Video Editing SDK that works in any browser and performs rendering client-side, without the need for a server.  "
+  url="https://app.rendley.com/login"
+  logo="https://app.rendley.com/favicon/favicon.svg"
+  preview="https://app.rendley.com/og/og-1200x630.png"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps
@@ -1541,10 +1555,19 @@ https://mdis.kostat.go.kr/index.do
   logo="https://v1.web-check.xyz/favicon.ico"
   preview="https://v1.web-check.xyz/banner.png"/>
 
+<SiteInfo
+  name="Create New Canarytoken"
+  desc="Canarytokens is a free tool that helps you discover you’ve been breached by having attackers announce themselves. The tokens allow you to implant traps around your network and notifies you as soon as they are triggered."
+  url="https://canarytokens.org/nest/"
+  logo="https://canarytokens.org/nest/favicon.ico"
+  preview="https://canary.tools/static/images/ico_canary.png"/>
+
 - https://www.emailjs.com/docs
 - https://open.kickbox.com
 - https://verifier.meetchopra.com/
 - https://www.course-api.com/
+
+<!-- END: Network & Security -->
 
 @tab Documentation
 

@@ -411,4 +411,10 @@ tag:
 
 ---
 
+## Tavis Ormandy
+
+- [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
+
+---
+
 <TagLinks />

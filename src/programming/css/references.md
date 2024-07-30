@@ -697,4 +697,10 @@ tag:
 
 ---
 
+## Ykss
+
+- [(번역) CSS에서의 인라인 조건문?](https://ykss.netlify.app/translation/inline_conditional_in_css/)
+
+---
+
 <TagLinks />

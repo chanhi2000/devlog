@@ -533,10 +533,10 @@
     "banner": ""
   }, {
     "repo": "microsoft/autogen",
-    "desc": "A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ",
+    "desc": "A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap",
     "officialSite": "https://microsoft.github.io/autogen/",
     "topics": ["agent-based-framework", "agent-oriented-programming", "agentic", "agentic-agi", "chat", "chat-application", "chatbot", "chatgpt", "gpt", "gpt-35-turbo", "gpt-4", "llm-agent", "llm-framework", "llm-inference", "llmops"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
     "banner": ""
   }, {
     "repo": "PWhiddy/PokemonRedExperiments",

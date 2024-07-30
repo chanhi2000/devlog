@@ -34,4 +34,10 @@ tag:
 
 ---
 
+## pdf(s)
+
+- [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR/)
+
+---
+
 <TagLinks />

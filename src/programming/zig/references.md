@@ -60,4 +60,10 @@ tag:
 
 ---
 
+## Jacob Strieb
+
+- [C Macro Reflection in Zig](https://jstrieb.github.io/posts/c-reflection-zig/)
+
+---
+
 <TagLinks/>

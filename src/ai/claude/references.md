@@ -32,6 +32,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog.io
+
+- [`@kwonhl0211` / Claude로 코드리뷰 경험 개선하기](https://velog.io/@kwonhl0211/Claude%EB%A1%9C-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0-%EA%B2%BD%ED%97%98-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
+
+---
+
 ## Transformer Circuits Thread
 
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)

@@ -607,4 +607,10 @@ head:
 
 ---
 
+## Blog - JakeArchibald.com
+
+- [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
+
+---
+
 <TagLinks />

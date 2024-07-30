@@ -106,6 +106,10 @@ head:
 - [ESP32S3-ETH-CAN485 하드웨어 전체 검증용 예제 코드 추가](https://m.blog.naver.com/chandong83/223519531432)
 - [ESP32S3-ETH-CAN485 UDP 테스트 윈도우 프로그램 추가(플러터/파이썬 소스 코드 포함)](https://m.blog.naver.com/chandong83/223519570189)
 - [STM32H7S-SoM(가칭) 1차 제작 예정](https://m.blog.naver.com/chandong83/223522436199)
+- [STM32G4-2Relay 하드웨어 통합 구동 예제 코드 추가](https://m.blog.naver.com/chandong83/223529372732)
+- [\[월간 HG Labs\] 7월 세미나 "FreeRTOS, TouchGFX와 연동하기" 간단 후기](https://m.blog.naver.com/chandong83/223529362456)
+
+<!-- END: m.blog.naver.com/chandong83 -->
 
 ---
 

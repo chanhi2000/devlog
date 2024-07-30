@@ -74,6 +74,8 @@ tag:
 - [`@2fEJ` / PRD 문서 작성 이후 제품 개발 과정의 효과적인 관리 - PM/PO 이야기 #34](https://brunch.co.kr/@@2fEJ/1442)
 - [`@2fEJ` / 프로젝트의 성공을 위한 효과적인 의사소통과 PRD 관리 - PM/PO 이야기 #35](https://brunch.co.kr/@@2fEJ/1443)
 - [`@2fEJ` / PRD의 중요성과 활용 방안 - PM/PO 이야기 #36](https://brunch.co.kr/@@2fEJ/1444)
+- [`@2fEJ` / 프로덕트 매니저의 역할과 PRD의 전략적 가치 - PM/PO 이야기 #37](https://brunch.co.kr/@@2fEJ/1446)
+- [`@2fEJ` / 기능 조직과 크로스펑셔널 조직에서 PRD 활용 여부 - PM/PO 이야기 #38](https://brunch.co.kr/@@2fEJ/1450)
 
 <!-- END: brunch.co.kr -->
 

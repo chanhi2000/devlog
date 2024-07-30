@@ -3469,5 +3469,12 @@
     "topics": ["bittorrent", "desktop", "nwjs", "popcorn", "popcorn-time", "popcorntime", "streaming"],
     "avatar": "https://avatars.githubusercontent.com/u/7267937?v=4",
     "banner": ""
+  }, {
+    "repo": "CanadaHonk/porffor",
+    "desc": "A from-scratch experimental AOT JS engine, written in JS",
+    "officialSite": "https://porffor.dev",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/19228318?v=4",
+    "banner": ""
   }
 ]

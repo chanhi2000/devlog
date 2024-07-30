@@ -107,7 +107,7 @@ class Album {
         self.name = name
     }
 
-    func getPerformance() -&gt; String {
+    func getPerformance() -> String {
         return "The album \(name) sold lots"
     }
 }
@@ -120,7 +120,7 @@ class StudioAlbum: Album {
         super.init(name: name)
     }
 
-    override func getPerformance() -&gt; String {
+    override func getPerformance() -> String {
         return "The studio album \(name) sold lots"
     }
 }
@@ -133,7 +133,7 @@ class LiveAlbum: Album {
         super.init(name: name)
     }
 
-    override func getPerformance() -&gt; String {
+    override func getPerformance() -> String {
         return "The live album \(name) sold lots"
     }
 }

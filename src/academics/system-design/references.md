@@ -181,6 +181,9 @@ head:
 - [`gitconnected` / System Design Interview: Design WhatsApp](https://levelup.gitconnected.com/system-design-interview-design-whatsapp-779fa385ef08)
 - [`javarevisited` / 40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024](https://medium.com/javarevisited/40-must-read-engineering-blogs-to-learn-system-design-and-software-architecture-in-2024-aaa7c4f71ee6)
 - [`giljae` / DevOps로의 전환을 앞두고](https://giljae.medium.com/devops%EB%A1%9C%EC%9D%98-%EC%A0%84%ED%99%98%EC%9D%84-%EC%95%9E%EB%91%90%EA%B3%A0-053ff27b3bc2?source=rss-bb87e9e8047d------2)
+- [`junghan92` / (번역) 디자인 시스템에 적합한 코드](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%BD%94%EB%93%9C-71ec6938a909?source=rss-4f4a02f8f2cf------2)
+
+<!-- END: medium.com -->
 
 ---
 

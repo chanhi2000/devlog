@@ -71,23 +71,23 @@
   }, {
     "repo": "mete0r/pyhwp",
     "desc": ".hwp file format v5 parser in python",
-    "topics": [],
-    "officialSite": "http://pythonhosted.org/pyhwp"
+    "officialSit": "http://pythonhosted.org/pyhwp",
+    "topics": []
   }, {
     "repo": "pypa/pipfile",
     "desc": "Pipfile: the replacement for requirements.txt",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []
   }, {
     "repo": "sympy/sympy",
     "desc": "A computer algebra system written in pure Python",
-    "topics": [],
-    "officialSite": "https://sympy.org"
+    "officialSite": "https://sympy.org",
+    "topics": []
   }, {
     "repo": "PaddlePaddle/PaddleSeg",
     "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
-    "topics": [],
-    "officialSite": "https://arxiv.org/abs/2101.06175"
+    "officialSite": "https://arxiv.org/abs/2101.06175",
+    "topics": []
   }, {
     "repo": "mingrammer/diagrams",
     "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
@@ -96,23 +96,23 @@
   }, {
     "repo": "hmartiro/riffusion-inference",
     "desc": "Stable diffusion for real-time music generation",
-    "topics": [],
-    "officialSite": "http://riffusion.com"
+    "officialSite": "http://riffusion.com",
+    "topics": []
   }, {
     "repo": "carson-katri/dream-textures",
     "desc": "Stable Diffusion built-in to the Blender shader editor",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []
   }, {
     "repo": "mui/material-ui",
     "desc": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
-    "topics": ["react", "javascript", "design-systems", "typescript", "material-design", "react-components", "hacktoberfest"],
-    "officialSite": "https://mui.com/core"
+    "officialSite": "https://mui.com/core",
+    "topics": ["react", "javascript", "design-systems", "typescript", "material-design", "react-components", "hacktoberfest"]
   }, {
     "repo": "Jxck-S/plane-notify",
     "desc": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
-    "topics": [],
-    "officialSite": ""
+    "officialSite": "",
+    "topics": []
   }, {
     "repo": "sczhou/CodeFormer",
     "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
@@ -7284,6 +7284,34 @@
     "officialSite": "",
     "topics": ["self-hosted", "youtube", "youtube-dl", "yt-dlp"],
     "avatar": "https://avatars.githubusercontent.com/u/7450369?v=4",
+    "banner": ""
+  }, {
+    "repo": "freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "officialSite": "https://www.freqtrade.io",
+    "topics": ["algorithmic-trading", "bitcoin", "cryptocurrencies", "cryptocurrency", "freqtrade", "python", "telegram-bot", "trade", "trading-bot"],
+    "avatar": "https://avatars.githubusercontent.com/u/37536846?v=4",
+    "banner": ""
+  }, {
+    "repo": "lipku/metahuman-stream",
+    "desc": "Real time interactive streaming digital human",
+    "officialSite": "https://zhuanlan.zhihu.com/p/675131165",
+    "topics": ["aigc", "digihuman", "digital-human", "er-nerf", "lip-sync", "musetalk", "nerf", "realtime", "streaming", "talking-head", "virtualhumans", "wav2lip"],
+    "avatar": "https://avatars.githubusercontent.com/u/5893340?v=4",
+    "banner": ""
+  }, {
+    "repo": "sindresorhus/ky",
+    "desc": "🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API",
+    "officialSite": "",
+    "topics": ["fetch", "http-client", "http-request", "javascript", "js", "json", "npm-package", "request", "rest", "tiny", "whatwg-fetch"],
+    "avatar": "https://avatars.githubusercontent.com/u/170270?v=4",
+    "banner": ""
+  }, {
+    "repo": "idoh/mamba.np",
+    "desc": "A pure NumPy implementation of Mamba.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/5303103?v=4",
     "banner": ""
   }
 ]

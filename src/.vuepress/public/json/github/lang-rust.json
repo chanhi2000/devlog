@@ -2347,5 +2347,12 @@
     "topics": ["actor-model", "async", "data-integration", "decentralized-applications", "distributed-systems", "framework", "kafka", "real-time", "rust", "serverless", "stateful", "stream-processing", "streaming", "streaming-data-pipelines", "web"],
     "avatar": "https://avatars.githubusercontent.com/u/47773227?v=4",
     "banner": ""
+  }, {
+    "repo": "GyulyVGC/sniffnet",
+    "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+    "officialSite": "https://sniffnet.net",
+    "topics": ["application", "gui", "iced", "linux", "macos", "network", "network-analysis", "network-monitoring", "networking", "packet-analyser", "packet-capture", "packet-sniffer", "pcap", "rust", "rust-crate", "security", "utility", "windows"],
+    "avatar": "https://avatars.githubusercontent.com/u/100347457?v=4",
+    "banner": ""
   }
 ]

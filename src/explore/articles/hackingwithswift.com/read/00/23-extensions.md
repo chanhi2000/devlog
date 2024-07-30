@@ -63,7 +63,7 @@ Now add this to the playground, just beneath the `import UIKit` statement:
 
 ```swift
 extension Int {
-    func plusOne() -&gt; Int {
+    func plusOne() -> Int {
         return self + 1
     }
 }
@@ -147,7 +147,7 @@ It's extremely common for developers to use extensions to add functionality to t
 
 The main reason is extensibility: extensions work across all data types, and they don't conflict when you have more than one. That is, we could make a `Dog` subclass that adds `bark()`, but what if we find some open source code that contains a `doTricks()` method? We would have to copy and paste it in to our subclass, or perhaps even subclass again.
 
-With extensions you can have ten different pieces of functionality in ten different files – they can all modify the same type directly, and you don't need to subclass anything. A common naming scheme for naming your extension files is Type+Modifier.swift, for example String+RandomLetter.swift.
+With extensions you can have ten different pieces of functionality in ten different files – they can all modify the same type directly, and you don't need to subclass anything. A common naming scheme for naming your extension files is <FontIcon icon="fa-brands fa-swift"/>`Type+Modifier.swift`, for example <FontIcon icon="fa-brands fa-swift"/>`String+RandomLetter.swift`.
 
 If you find yourself trimming whitespace off strings frequently, you'll probably get tired of using this monstrosity:
 

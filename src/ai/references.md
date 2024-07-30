@@ -79,6 +79,7 @@ head:
 - [`@2rV` / AI Tool 소개 by Peter Yang](https://brunch.co.kr/@@2rV/141)
 - [`@ZVA` / 애플 인텔리전스는 어떻게 엣지AI의 한계를 뛰어넘었나](https://brunch.co.kr/@@ZVA/705)
 - [`@5jl5` / AI 개발: 서비스를 위한 개인정보 처리 안내서 - 개인정보보호위원회](https://brunch.co.kr/@@5jl5/125)
+- [`@2YWz` / Enterprise Private GenAI - GenAI 를 도입해야 하는 이요](https://brunch.co.kr/@@2YWz/109)
 
 <!-- END: brunch.co.kr -->
 

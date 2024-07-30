@@ -102,6 +102,27 @@ tag:
   logo="https://www.relocateforwork.com/favicon.svg"
   preview="https://res.cloudinary.com/dbvvslwpj/image/upload/f_auto,q_auto/c1ng5xtxmksgjwenulzv"/>
 
+<SiteInfo
+  name="NAVER Careers"
+  desc="네이버와 함께할 동료를 기다립니다."
+  url="https://recruit.navercorp.com/rcrt/list.do?sw="
+  logo="https://recruit.navercorp.com/share/tmplat/naver/img/og/naver_favicon_24.ico"
+  preview="https://recruit.navercorp.com/share/tmplat/naver/img/og/Careers_OG_800.png"/>
+
+<SiteInfo
+  name="토스채용"
+  desc="토스가 만드는 금융 서비스가 곧 금융의 미래가 되는 그 과정을 함께해 주세요."
+  url="https://toss.im/career/jobs"
+  logo="https://static.toss.im/tds/favicon/favicon-196x196.png"
+  preview="https://static.toss.im/assets/career/tosscareers-og.jpg?v=2"/>
+
+<SiteInfo
+  name="당근 팀 채용"
+  desc="당근 팀은 채용 중! 빠르게 성장 중인 당근에 합류해보세요."
+  url="https://about.daangn.com/jobs/"
+  logo="https://about.daangn.com/favicon.svg?v=faa29da546934f91eb94665bbe915e8f"
+  preview="https://about.daangn.com/static/faab525eb6f3844219d52fb3581c985a/35c24/bbab1cc9-8912-422b-a384-d07230baa365_daangn_OG.png"/>
+
 ---
 
 <TagLinks />

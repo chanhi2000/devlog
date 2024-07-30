@@ -221,6 +221,7 @@ head:
 - [항목 지정 연산자와 번지 지정 연산자의 표기 변환](https://m.blog.naver.com/tipsware/223527705599)
 - [간단한 Png 이미지 뷰어 만들기 - Step 2](https://m.blog.naver.com/tipsware/223525634075)
 - [간단한 Png 이미지 뷰어 만들기 - Step 3](https://m.blog.naver.com/tipsware/223528668669)
+- [\[미가공/실습 과제\] Png 이미지 뷰어에 색을 합치는 기능을 추가해 보세요.](https://m.blog.naver.com/tipsware/223529967832)
 
 <!-- END: blog.naver.com/tipsware/ -->
 

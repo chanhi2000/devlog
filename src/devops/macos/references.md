@@ -355,4 +355,10 @@ head:
 
 ---
 
+## Get Info
+
+- [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
+
+---
+
 <TagLinks />

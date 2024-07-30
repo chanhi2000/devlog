@@ -472,6 +472,14 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/11/overview.md',
+              '/explore/articles/hackingwithswift.com/read/11/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/11/02-falling-boxes-skspritenode-uitouch-skphysicsbody.md',
+              '/explore/articles/hackingwithswift.com/read/11/03-bouncing-balls-circleofradius.md',
+              '/explore/articles/hackingwithswift.com/read/11/04-spinning-slots-skaction.md',
+              '/explore/articles/hackingwithswift.com/read/11/05-collision-detection-skphysicscontactdelegate.md',
+              '/explore/articles/hackingwithswift.com/read/11/06-scores-on-the-board-sklabelnode.md',
+              '/explore/articles/hackingwithswift.com/read/11/07-special-effects-skemitternode.md',
+              '/explore/articles/hackingwithswift.com/read/11/08-wrap-up.md',
             ]
           }, {
             text: 'Project 12: UserDefaults',

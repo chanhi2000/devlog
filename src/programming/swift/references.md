@@ -30,6 +30,7 @@ tag:
 - [Getting Started with the Static Linux SDK](https://swift.org/documentation/articles/static-linux-getting-started.html)
 - [New GitHub Organization for the Swift Project](https://swift.org/blog/swiftlang-github/)
 - [Plotting a Path to a Package Ecosystem without Data Race Errors](https://www.swift.org/blog/ready-for-swift-6/)
+- [Announcing Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
 
 ### Forums
 

@@ -66,6 +66,7 @@ tag:
 - [`@1aft` / Rust : 참조 & 역참조 - #Ref #DeRef](https://brunch.co.kr/@@1aft/134)
 - [`@1aft` / Rust : `collect()` - #Arr2Vec #collect함수](https://brunch.co.kr/@@1aft/135)
 - [`@1aft` / Polars #10 - #전처리 #1억ROW](https://brunch.co.kr/@@1aft/143)
+- [`@1aft` / Polars #11 - #NATIVE #PYTHON #POLARS](https://brunch.co.kr/@@1aft/144)
 
 <!-- END: brunch.co.kr -->
 
@@ -421,6 +422,12 @@ tag:
 ## QuestDB | High performance time series database
 
 - [Debugging distributed database mysteries with Rust, packet capture and Polars](https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/)
+
+---
+
+## Matt Hall
+
+- [Implementing and Improving Skiplists](https://mattjhall.co.uk/posts/skiplists.html)
 
 ---
 

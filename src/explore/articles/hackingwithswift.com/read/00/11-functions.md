@@ -243,7 +243,7 @@ func getMeaningOfLife() -> Int {
 }
 ```
 
-![A function with an implied `return`.](https://hackingwithswift.com/img/books/hws/functions-10.png" srcset="/img/books/hws/functions-10@2x.png
+![A function with an implied `return`.](https://hackingwithswift.com/img/books/hws/functions-10@2x.png)
 
 This is used very commonly in SwiftUI code.
 

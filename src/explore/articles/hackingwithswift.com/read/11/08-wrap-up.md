@@ -21,8 +21,8 @@ head:
     - property: og:description
       content: "Wrap up"
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/00/25-wrap-up.html
-next: explore/articles/hackingwithswift.com/read/01/overview.md
+      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/11/08-wrap-up.html
+next: /explore/articles/hackingwithswift.com/read/11/overview.md
 isOriginal: false
 ---
 
@@ -46,16 +46,13 @@ isOriginal: false
 {
   "title": "Wrap up | Hacking with iOS",
   "desc": "Wrap up",
-  "link": "https://hackingwithswift.com/read/0/25/wrap-up",
+  "link": "https://hackingwithswift.com/read/11/8/wrap-up",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```
 
-That's the end of our tour around the Swift programming language. I haven't tried to cover everything in the language, but that's okay because you have all the important stuff, all the sometimes-important stuff, and all the nice-to-know stuff – the many other features you'll either come across in a later project or through extended experience with the language.
-
-From here on, we’re going to focus primarily on building apps. If you want to learn more about the Swift language itself, you might want to consider my [<FontIcon icon="fas fa-globe"/>Pro Swift](https://gum.co/proswift) book.
-
+<!-- TODO: 작성 -->
 
 ---
 

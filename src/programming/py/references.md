@@ -2000,6 +2000,7 @@ head:
 ## 코딩하는 오리
 
 - [Failed building wheel for llama-cpp-python](https://cori.tistory.com/m/335)
+- [API Key 유출 방지를 위한 2가지 방법](http://cori.tistory.com/m/341)
 
 ---
 
@@ -2131,6 +2132,12 @@ head:
 ## Evgeny Ivanov
 
 - [tea-tasting: a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
+
+---
+
+## Simple Thoughts
+
+- [Calculating the Cost of a Google Deepmind Paper](https://152334h.github.io/blog/scaling-exponents/)
 
 ---
 

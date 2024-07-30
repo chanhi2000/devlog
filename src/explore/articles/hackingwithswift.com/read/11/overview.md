@@ -22,6 +22,7 @@ head:
       content: "Project 11: Pachinko"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/11/overview.html
+prev: /explore/articles/hackingwithswift.com/read/10/06-wrap-up.md
 isOriginal: false
 ---
 
@@ -31,7 +32,7 @@ isOriginal: false
 {
   "title": "Hacking with iOS – learn to code iPhone and iPad apps with free Swift tutorials",
   "desc": "Learn Swift coding for iOS with these free tutorials – learn Swift, iOS, and Xcode",
-  "link": "/explore/articles/hackingwithswift.com/read/README.md",
+  "link": "/explore/articles/hackingwithswift.comread/README.0m-",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
@@ -57,7 +58,85 @@ Dive into SpriteKit to try your hand at fast 2D games.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/11/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Falling boxes: SKSpriteNode, UITouch, SKPhysicsBody | Hacking with iOS",
+  "desc": "Falling boxes: SKSpriteNode, UITouch, SKPhysicsBody",
+  "link": "/explore/articles/hackingwithswift.com/read/11/02-falling-boxes-skspritenode-uitouch-skphysicsbody.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Bouncing balls: circleOfRadius | Hacking with iOS",
+  "desc": "Bouncing balls: circleOfRadius",
+  "link": "/explore/articles/hackingwithswift.com/read/11/03-bouncing-balls-circleofradius.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Spinning slots: SKAction | Hacking with iOS",
+  "desc": "Spinning slots: SKAction",
+  "link": "/explore/articles/hackingwithswift.com/read/11/04-spinning-slots-skaction.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Collision detection: SKPhysicsContactDelegate | Hacking with iOS",
+  "desc": "Collision detection: SKPhysicsContactDelegate",
+  "link": "/explore/articles/hackingwithswift.com/read/11/05-collision-detection-skphysicscontactdelegate.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scores on the board: SKLabelNode | Hacking with iOS",
+  "desc": "Scores on the board: SKLabelNode",
+  "link": "/explore/articles/hackingwithswift.com/read/11/06-scores-on-the-board-sklabelnode.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Special effects: SKEmitterNode | Hacking with iOS",
+  "desc": "Special effects: SKEmitterNode",
+  "link": "/explore/articles/hackingwithswift.com/read/11/07-special-effects-skemitternode.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/11/08-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

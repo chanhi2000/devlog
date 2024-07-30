@@ -130,6 +130,9 @@ tag:
 - [`@composite` / 개발자의 마음가짐 (feat. 나)](https://velog.io/@composite/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%88%EC%9D%8C%EA%B0%80%EC%A7%90-feat.-%EB%82%98)
 - [`@root-devvoo` / 문과 출신 엔지니어 2024년 1회 정보처리기사 실기 합격 후기 (Feat. 수제비)](https://velog.io/@root-devvoo/%EB%AC%B8%EA%B3%BC-%EC%B6%9C%EC%8B%A0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-2024%EB%85%84-1%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-Feat.-%EC%88%98%EC%A0%9C%EB%B9%84)
 - [`@invidam` / 첫 번째 직장에 오기까지](https://velog.io/@invidam/before-first-jbo)
+- [`@wjsdj2009` / 비전공자 백엔드 취업 성공! 준비기간 1년 6개월! 과정부터 결과까지 싹 다 공개!](https://velog.io/@wjsdj2009/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%84%B1%EA%B3%B5-%EC%A4%80%EB%B9%84%EA%B8%B0%EA%B0%84-1%EB%85%84-6%EA%B0%9C%EC%9B%94-%EA%B3%BC%EC%A0%95%EB%B6%80%ED%84%B0-%EA%B2%B0%EA%B3%BC%EA%B9%8C%EC%A7%80-%EC%8B%B9-%EB%8B%A4-%EA%B3%B5%EA%B0%9C)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -151,6 +154,9 @@ tag:
 - [`erwinousy` / 주니어, 미드레벨과 시니어 개발자의 차이점](https://erwinousy.medium.com/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%AF%B8%EB%93%9C%EB%A0%88%EB%B2%A8%EA%B3%BC-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-d29bffecfec)
 - [`towardsdatascience` / Your End-to-End Product Analytics Strategy](https://towardsdatascience.com/your-end-to-end-product-analytics-strategy-648ecfa586c2)
 - [`happyprogrammer-in-jeju` / 개알못인 당신이 웹개발을 시작한다면 (1)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-1-9415c014a130)
+- [`foundercollective` / AI start-ups: Don’t sell picks and shovels, dig with them](https://foundercollective.medium.com/ai-start-ups-dont-sell-picks-and-shovels-dig-with-them-79e3d12f1947)
+  
+<!-- END: medium.com -->
 
 ---
 
@@ -1393,6 +1399,7 @@ https://blog.naver.com/&logId=
 ## 큰돌의 터전
 
 - [개발 외주 계약 팁](https://m.blog.naver.com/jhc9639/223522724897)
+- [개발자의 각 년차별 바라는 역량](https://m.blog.naver.com/jhc9639/223521476080)
 
 ---
 
