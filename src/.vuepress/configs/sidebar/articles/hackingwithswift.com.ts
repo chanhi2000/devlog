@@ -486,12 +486,23 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/12/overview.md',
+              '/explore/articles/hackingwithswift.com/read/12/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/12/02-reading-and-writing-basics-userdefaults.md',
+              '/explore/articles/hackingwithswift.com/read/12/03-fixing-project-10-nscoding.md',
+              '/explore/articles/hackingwithswift.com/read/12/04-fixing-project-10-codable.md',
+              '/explore/articles/hackingwithswift.com/read/12/05-wrap-up.md',
             ]
           }, {
             text: 'Project 13: Instafilter',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/13/overview.md',
+              '/explore/articles/hackingwithswift.com/read/13/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/13/02-designing-the-interface.md',
+              '/explore/articles/hackingwithswift.com/read/13/03-importing-a-picture.md',
+              '/explore/articles/hackingwithswift.com/read/13/04-applying-filters-cicontext-cifilter.md',
+              '/explore/articles/hackingwithswift.com/read/13/05-saving-to-the-ios-photo-library.md',
+              '/explore/articles/hackingwithswift.com/read/13/06-wrap-up.md',
             ]
           }, {
             text: 'Project 14: Whack-a-Penguin',

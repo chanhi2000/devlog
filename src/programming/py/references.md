@@ -2141,6 +2141,12 @@ head:
 
 ---
 
+## Computer Things
+
+- [Why I prefer `rST` to markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
+
+---
+
 ## Misc.
 
 - [Working with Excel Files in Python](https://www.python-excel.org/)

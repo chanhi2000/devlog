@@ -293,6 +293,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Custom Validators and Handling Errors with Angular and ASP.NET Core Identity",
+  "desc": "Let's learn how to improve the registration functionality by implementing the Custom Validators for the Confirm Password and handle errors.",
+  "link": "/explore/articles/code-maze.com/custom-validators-and-handling-errors-with-angular-and-asp-net-core-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

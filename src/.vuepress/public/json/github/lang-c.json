@@ -1588,5 +1588,12 @@
     "topics": ["c3", "compiler", "language"],
     "avatar": "https://avatars.githubusercontent.com/u/53541653?v=4",
     "banner": ""
+  }, {
+    "repo": "racket/zuo",
+    "desc": "A tiny Racket for scripting",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/232371?v=4",
+    "banner": ""
   }
 ]

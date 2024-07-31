@@ -58,6 +58,15 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog.io
+
+- [`@eunbibi` / 모델 저장을 잊지 마](https://velog.io/@eunbibi/%EB%AA%A8%EB%8D%B8-%EC%A0%80%EC%9E%A5%EC%9D%84-%EC%9E%8A%EC%A7%80-%EB%A7%88)
+
+<!-- END: velog.io -->
+
+---
+
+
 ## Brunch
 
 - [`@1aft` / PyTorch 쓰세요(5). - #VAE #CONV #MNIST](https://brunch.co.kr/@@1aft/132)

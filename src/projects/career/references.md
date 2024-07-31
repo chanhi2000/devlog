@@ -155,6 +155,7 @@ tag:
 - [`towardsdatascience` / Your End-to-End Product Analytics Strategy](https://towardsdatascience.com/your-end-to-end-product-analytics-strategy-648ecfa586c2)
 - [`happyprogrammer-in-jeju` / 개알못인 당신이 웹개발을 시작한다면 (1)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-1-9415c014a130)
 - [`foundercollective` / AI start-ups: Don’t sell picks and shovels, dig with them](https://foundercollective.medium.com/ai-start-ups-dont-sell-picks-and-shovels-dig-with-them-79e3d12f1947)
+- [`@ghilbut` / \[조직문화\] 스쿼드(Squad)는 그만!!](https://medium.com/@ghilbut/%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94-%EC%8A%A4%EC%BF%BC%EB%93%9C-squad-%EB%8A%94-%EA%B7%B8%EB%A7%8C-738b7ebd6998?source=rss-8482dec25ee1------2)
   
 <!-- END: medium.com -->
 
@@ -256,6 +257,7 @@ tag:
 - [`@2weV` / 실행의 중요성.](https://brunch.co.kr/@@2weV/534)
 - [`@2weV` / 의사결정 내리기 좋게 말하기.](https://brunch.co.kr/@@2weV/533)
 - [`@3L0s` / 디지털 혁신 실행: 솔루션의 디지털화 - 디지털 혁신-16](https://brunch.co.kr/@@3L0s/119)
+- [`@2rV` / 일은 재미있으신가요?](https://brunch.co.kr/@@2rV/152)
 
 <!-- END: brunch.co.kr -->
 

@@ -499,6 +499,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "문과생을 위한 IT 용어 강의 ④ 실무에서는 무슨 일이 벌어질까? | 요즘IT",
+  "desc": "문과생을 위한 IT 용어 강의 ④ 실무에서는 무슨 일이 벌어질까?",
+  "link": "/explore/articles/yozm.wishket.com/2697.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

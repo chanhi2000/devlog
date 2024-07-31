@@ -109,4 +109,16 @@ head:
 
 ---
 
+## Be an Overachiever
+
+- [\[통계\] Maximum Likelihood Estimation (MLE)](https://devs0n.tistory.com/m/189)
+
+---
+
+## siboehm
+
+- [Fast Multidimensional Matrix Multiplication on CPU from Scratch](https://siboehm.com/articles/22/Fast-MMM-on-CPU)
+
+---
+
 <TagLinks />

@@ -100,6 +100,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn C# for Unity in Spanish",
+  "desc": "Unity is a very popular and powerful game engine that relies on C# as its primary scripting language. Learn how to bring your games to life with Unity and C#. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide ...",
+  "link": "/explore/articles/freecodecamp.org/learn-c-sharp-for-unity-in-spanish.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -451,16 +461,6 @@ head:
   "title": "How to Easily Create a PDF Document in ASP.NET Core Web API",
   "desc": "Find out how to easily create a PDF document in ASP.NET Core Web API. Play with configuration, save, download or show PDF document in a web browser.",
   "link": "/explore/articles/code-maze.com/create-pdf-dotnetcore.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
-  "background": "rgba(22,22,22,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Using Property Mappings in AutoMapper To Define Mapping Rules",
-  "desc": "AutoMapper allows us to map two objects. Let's take a look at how to get the property mappings that have been defined using AutoMapper.",
-  "link": "/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
@@ -1841,6 +1841,66 @@ head:
   "title": "Deploying ASP.NET Core Web API to Azure API Apps",
   "desc": "We can use Azure API Apps to create and deploy RESTful APIs in Azure with Cross-Origin Resource Sharing (CORS) support.",
   "link": "/explore/articles/code-maze.com/deploying-aspnet-core-web-api-azure-api-apps.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Elasticsearch in ASP.NET Core",
+  "desc": "How to use Elasticsearch in ASP.NET Core, including using queries and aggregations to build a search system.",
+  "link": "/explore/articles/code-maze.com/elasticsearch-aspnet-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Using Azure WebJobs in .NET Applications",
+  "desc": "Azure WebJobs along with Azure WebJobs SDK enables us to create run background jobs which can be based on schedules and triggers.",
+  "link": "/explore/articles/code-maze.com/azure-webjobs-in-app-service.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Send an SMS with ASP.NET Core",
+  "desc": "In this article, we are going to cover how to send an SMS with ASP.NET Core by integrating a Twilio service to help us in a process.",
+  "link": "/explore/articles/code-maze.com/send-sms-aspnetcore.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "User Registration with Angular and ASP.NET Core Identity",
+  "desc": "Let's learn how to create User Registration with Angular and ASP.NET Core Identity. We are going to use the Web API for the server app.",
+  "link": "/explore/articles/code-maze.com/user-registration-angular-aspnet-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Custom Validators and Handling Errors with Angular and ASP.NET Core Identity",
+  "desc": "Let's learn how to improve the registration functionality by implementing the Custom Validators for the Confirm Password and handle errors.",
+  "link": "/explore/articles/code-maze.com/custom-validators-and-handling-errors-with-angular-and-asp-net-core-identity.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Using Property Mappings in AutoMapper To Define Mapping Rules",
+  "desc": "AutoMapper allows us to map two objects. Let's take a look at how to get the property mappings that have been defined using AutoMapper.",
+  "link": "/explore/articles/code-maze.com/csharp-getting-property-mappings-from-automapper.md",
   "logo": "/images/content/code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }

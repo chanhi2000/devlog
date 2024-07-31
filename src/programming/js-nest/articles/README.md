@@ -63,6 +63,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Add JWT-Based Authentication in NestJS",
+  "desc": "Authentication is a very important aspect of software development. It is the process of verifying a user’s identity. Authentication ensures that only authorized individuals access specific resources or perform certain actions within a system. It provides accountability by enabling the tracking of user actions and holding individuals responsible for their...",
+  "link": "/explore/articles/freecodecamp.org/how-to-add-jwt-based-authentication-in-nest-js.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
+
 ---
 
 ## 요즘IT
@@ -78,6 +90,8 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

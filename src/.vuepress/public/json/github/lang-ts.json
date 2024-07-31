@@ -4548,5 +4548,19 @@
     "topics": ["charts", "diagrams", "software-architecture", "software-engineering"],
     "avatar": "https://avatars.githubusercontent.com/u/481647?v=4",
     "banner": ""
+  }, {
+    "repo": "ssoready/ssoready",
+    "desc": "Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.",
+    "officialSite": "https://ssoready.com",
+    "topics": ["auth", "authentication", "authentication-middleware", "saml", "saml-authentication", "saml-service-provider", "saml-sp-single-sign-on", "saml2", "single-sign-on", "single-signin-api", "sso", "sso-api", "sso-authentication", "sso-login", "sso-solution"],
+    "avatar": "https://avatars.githubusercontent.com/u/150834783?v=4",
+    "banner": ""
+  }, {
+    "repo": "rrweb-io/rrweb",
+    "desc": "record and replay the web",
+    "officialSite": "https://www.rrweb.io/",
+    "topics": ["fullstory", "hotjar", "logrocket", "recorder", "session-replay"],
+    "avatar": "https://avatars.githubusercontent.com/u/43396833?v=4",
+    "banner": ""
   }
 ]

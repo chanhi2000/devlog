@@ -22,6 +22,7 @@ head:
       content: "Project 13: Instafilter"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/13/overview.html
+prev: /explore/articles/hackingwithswift.com/read/12/05-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,66 @@ Make a photo manipulation program using Core Image filters and a UISlider.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/13/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Designing the interface | Hacking with iOS",
+  "desc": "Designing the interface",
+  "link": "/explore/articles/hackingwithswift.com/read/13/02-designing-the-interface.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Importing a picture | Hacking with iOS",
+  "desc": "Importing a picture",
+  "link": "/explore/articles/hackingwithswift.com/read/13/03-importing-a-picture.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Applying filters: CIContext, CIFilter | Hacking with iOS",
+  "desc": "Applying filters: CIContext, CIFilter",
+  "link": "/explore/articles/hackingwithswift.com/read/13/04-applying-filters-cicontext-cifilter.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Saving to the iOS photo library | Hacking with iOS",
+  "desc": "Saving to the iOS photo library",
+  "link": "/explore/articles/hackingwithswift.com/read/13/05-saving-to-the-ios-photo-library.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/13/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
 
 ---
 

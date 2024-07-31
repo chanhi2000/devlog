@@ -97,4 +97,10 @@ head:
 
 ---
 
+## code-with-me
+
+- [\[Android Studio\] org.jetbrains.kotlin.backend.common.BackendException: Backend Internal error: Exception during IR lowering](https://inblog.ai/code-with-me/android-studio-orgjetbrainskotlinbackendcommonbackendexception-backend-internal-error-exception-during-ir-lowering-24952)
+
+---
+
 <TagLinks />

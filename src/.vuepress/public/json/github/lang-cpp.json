@@ -2154,5 +2154,12 @@
     "topics": ["llm-inference"],
     "avatar": "https://avatars.githubusercontent.com/u/102670180?v=4",
     "banner": ""
+  }, {
+    "repo": "ClickHouse/ClickHouse",
+    "desc": "ClickHouse® is a real-time analytics DBMS",
+    "officialSite": "https://clickhouse.com",
+    "topics": ["ai", "analytics", "big-data", "clickhouse", "cpp", "dbms", "distributed-database", "hacktoberfest", "mpp", "olap", "rust", "sql"],
+    "avatar": "https://avatars.githubusercontent.com/u/54801242?v=4",
+    "banner": ""
   }
 ]

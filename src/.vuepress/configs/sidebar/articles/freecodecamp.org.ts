@@ -117,6 +117,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
+      "how-to-add-jwt-based-authentication-in-nest-js", // 2024-07-31
     ]],[
     "js-supabase", [
       "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
@@ -203,6 +204,7 @@ export const template: SidebarInfoTemplate = {
       "build-crud-operations-with-dotnet-core-handbook", // 2024-05-24
       "how-to-use-linq", // 2024-07-15
       "using-entity-framework-core-with-mongodb", // 2024-07-29
+      "learn-c-sharp-for-unity-in-spanish", // 2024-07-31
     ]],[
     "cs-blazor", [
       "use-local-storage-in-blazor-apps", // 2024-07-29
@@ -545,6 +547,8 @@ export const template: SidebarInfoTemplate = {
       "use-local-storage-in-blazor-apps", // 2024-07-29
       "using-entity-framework-core-with-mongodb", // 2024-07-29
       "prompt-engineering-basics", // 2024-07-29
+      "learn-c-sharp-for-unity-in-spanish", // 2024-07-31
+      "how-to-add-jwt-based-authentication-in-nest-js", // 2024-07-31
     ]],
   ]),
 }

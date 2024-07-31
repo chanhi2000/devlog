@@ -260,6 +260,126 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Using JSInterop to Pass HTML Elements and Handle JS Errors",
+  "desc": "In this article, we are going to learn about using JsInterop to pass HTML elements to the JS functions and how to handle JS errors with it.",
+  "link": "/explore/articles/code-maze.com/using-jsinterop-to-pass-html-elements-and-handle-js-errors.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Call C# Methods from JavaScript in Blazor WebAssembly",
+  "desc": "In this article, we are going to learn how to call C# methods from JavaScript. We will call static methods as well as non-static from JS.",
+  "link": "/explore/articles/code-maze.com/how-to-call-csharp-methods-from-javascript-in-blazor-webassembly.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use Browser Functionalities with Blazor WebAssembly",
+  "desc": "Let's learn how to use Browser functionalities with Blazor WebAssembly and how to reuse components with Razor class library.",
+  "link": "/explore/articles/code-maze.com/use-browser-functionalities-with-blazor-webassembly.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrapping JavaScript Libraries with C# in Blazor WebAssembly",
+  "desc": "In this article, we are going to learn about Wrapping JavaScript Libraries with C#. We'll show you how to do that by wrapping the Toastr lib.",
+  "link": "/explore/articles/code-maze.com/wrapping-javascript-libraries-with-csharp-in-blazor-webassembly.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Lazy Loading in Blazor WebAssembly",
+  "desc": "In this article, we are going to learn how to improve the loading time of an application by implementing LazyLoading in Blazor WebAssembly",
+  "link": "/explore/articles/code-maze.com/lazy-loading-in-blazor-webassembly.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Global HTTP Error Handling in Blazor WebAssembly",
+  "desc": "In this article, we are going to learn about Global HTTP Error Handling in Blazor WebAssembly and how to use Interceptors to achieve that.",
+  "link": "/explore/articles/code-maze.com/global-http-error-handling-in-blazor-webassembly.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Blazor WebAssembly Component Virtualization with ASP.NET Core API",
+  "desc": "In this article, we are going to learn about Blazor WebAssembly Component Virtualization by using the Virtualize component and its features.",
+  "link": "/explore/articles/code-maze.com/blazor-webassembly-component-virtualization-with-web-api.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Localization in Blazor WebAssembly Applications",
+  "desc": "In this article we are going to learn how to implement Localization in Blazor WebAssembly applications, to support multi-language app.",
+  "link": "/explore/articles/code-maze.com/localization-in-blazor-webassembly-applications.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CSS Isolation in Blazor Applications",
+  "desc": "In this article, we are going to learn about CSS ISolation in Blazor WebAssembly, how it works, and how to support preprocessor.",
+  "link": "/explore/articles/code-maze.com/css-isolation-in-blazor-applications.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Custom Validation in Blazor WebAssembly",
+  "desc": "In this article, we are going to learn how to apply Custom Validation in Blazor WebAssembly with custom attributes and messages.",
+  "link": "/explore/articles/code-maze.com/custom-validation-in-blazor-webassembly.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Working with Binding in Blazor Applications",
+  "desc": "In this article, we'll learn about binding in Blazor applications and how one-way binding and two-way binding works between components.",
+  "link": "/explore/articles/code-maze.com/binding-in-blazor-applications.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Complex Model Validation in Blazor Applications",
+  "desc": "In this article, we are going to learn about the complex model validation in Blazor as well as implementing the compare validation.",
+  "link": "/explore/articles/code-maze.com/complex-model-validation-in-blazor.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
 <!-- END: code-maze.com -->
 
 ---

@@ -95,7 +95,7 @@ But there are many other, smaller improvements, including:
 - [SE-0423 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0423-dynamic-actor-isolation.md) improves concurrency support when needing to operate with Objective-C frameworks.
 - [SE-0420 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0420-inheritance-of-actor-isolation.md) allows us to make `async` functions that are isolated to the same actor as their caller.
 
-Some other changes were present in earlier versions of Swift, but hidden behind feature flags. For example, <a href=""[>SE-0401 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0401-remove-property-wrapper-isolation.md) removes a feature that was introduced back in Swift 5.5: actor inference for property wrappers.
+Some other changes were present in earlier versions of Swift, but hidden behind feature flags. For example, [SE-0401 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0401-remove-property-wrapper-isolation.md) removes a feature that was introduced back in Swift 5.5: actor inference for property wrappers.
 
 Previously, any struct or class using a property wrapper with `@MainActor` for its wrapped value will automatically be `@MainActor`. This is what makes `@StateObject` and `@ObservedObject` convey "main-actor-ness" on SwiftUI views that use them – if you use either of those two property wrappers in a SwiftUI view, the whole view becomes `@MainActor` too.
 

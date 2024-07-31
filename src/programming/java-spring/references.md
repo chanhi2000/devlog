@@ -128,6 +128,7 @@ head:
 - [Spring Scheduler 설정과 ShedLock을 이용한 간편한 분산락 사용](https://medium.com/@taesulee93/spring-scheduler-%EC%84%A4%EC%A0%95%EA%B3%BC-shedlock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%ED%8E%B8%ED%95%9C-%EB%B6%84%EC%82%B0%EB%9D%BD-%EC%82%AC%EC%9A%A9-74ffcafd0c25?source=rss-524631d9bcfb------2)
 - [`taesulee93` / Spring for RabbitMQ in Action — Declarables을 활용한 Exchange, Queue, Binding, DLQ 간편 설정](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-declarables%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-exchange-queue-binding-dlq-%EA%B0%84%ED%8E%B8-%EC%84%A4%EC%A0%95-a248744d6240?source=rss-524631d9bcfb------2)
 - [`@taesulee93` / Spring for RabbitMQ in Action — RabbitHandler를 이용하여 Multi-method Listener 설정하기](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-rabbithandler%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-multi-method-listener-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-1576bca43e35?source=rss-524631d9bcfb------2)
+- [`musinsa-tech` / 리팩토링을 위한 통합 테스트](https://medium.com/musinsa-tech/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-cd23498918a7?source=rss-d4008c147c0e------2)
 
 <!-- END: medium.com java -->
 
@@ -437,6 +438,7 @@ head:
 - [9.4. 책 서비스 클래스에 수정 기능 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/94-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [9.5. 책 컨트롤러 422 오류 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/95-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-422-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [9.6. 책 컨트롤러 수정 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/96-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%88%98%EC%A0%95-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [10.1. 책 삭제 기능 개요](https://ysedeveloper.tistory.com/m/entry/101-%EC%B1%85-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EC%9A%94)
 
 <!-- END: ysedeveloper.tistory.com -->
 

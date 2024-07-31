@@ -254,6 +254,7 @@ head:
 - [`@2fEJ` / 애플의 독특한 UX 리서치 접근법과 그 특징 - UX 리서치 이야기 #32](https://brunch.co.kr/@@2fEJ/1437)
 - [`@2fEJ` / 애플의 독특한 UX 리서치 접근법과 그 특징 - UX 리서치 이야기 #32](https://brunch.co.kr/@@2fEJ/1437)
 - [`@2fEJ` / UX 디자인의 핵심 요소와 UX 프로세스 선택의 유연성 - UX 디자인 이야기 #31](https://brunch.co.kr/@@2fEJ/1438)
+- [`@2YWz` / 아키텍처](https://brunch.co.kr/@@2YWz/110)
 
 <!-- END: brunch.co.kr -->
 

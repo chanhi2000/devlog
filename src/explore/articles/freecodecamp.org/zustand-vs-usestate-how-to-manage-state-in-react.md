@@ -365,11 +365,11 @@ It offers a more centralized approach to state management.
 
 Here are some simple things to think about when choosing between Zustand and useState:
 
-- <strong>State Complexity</strong>: If your app's state is simple, useState might be fine. But for more complex state needs, Zustand could be better.
-- <strong>Speed</strong>: Zustand is known for being fast, which is great if your app needs to be quick.
-- <strong>Team Skills</strong>: If your team already knows how to use React Hooks, useState might be easier. But if they're open to learning something new, Zustand could be worth a try.
-- <strong>App Growth</strong>: Consider how your app might grow over time. Zustand's centralized approach can make it easier to handle state as your app gets bigger.
-- <strong>Community Support</strong>: See what resources and help are available for Zustand and useState. A strong community can be helpful.
+- **State Complexity**: If your app's state is simple, useState might be fine. But for more complex state needs, Zustand could be better.
+- **Speed**: Zustand is known for being fast, which is great if your app needs to be quick.
+- **Team Skills**: If your team already knows how to use React Hooks, useState might be easier. But if they're open to learning something new, Zustand could be worth a try.
+- **App Growth**: Consider how your app might grow over time. Zustand's centralized approach can make it easier to handle state as your app gets bigger.
+- **Community Support**: See what resources and help are available for Zustand and useState. A strong community can be helpful.
 
 Thinking about these things should help you decide. It will show you which state management option is best for your project.
 
@@ -379,13 +379,13 @@ The difference in the two tools lies in their feature with this you can make an 
 
 | Feature | useState | Zustand |
 | :--- | :--- | :--- |
-| <strong>Complexity Handling</strong> | Good for simple state in one component | Better for complex state shared across many components |
-| <strong>State Scope</strong> | Local to one component | Global state that can be used by any component |
-| <strong>Performance</strong> | Works well for small tasks | Designed to reduce re-renders |
-| <strong>Ease of Use</strong> | Very simple to start with, no setup needed | Needs a bit more setup, more features but a bit harder to learn |
-| <strong>Scalability</strong> | Can get tricky as the app grows, often needs other tools for big apps | Handles growth well, easier to manage state in big apps |
-| <strong>Support and Tools</strong> | Part of React, lots of help and info available, no extra libraries needed | Separate library, good support, not as much info as useState but still good |
-| <strong>Learning Curve</strong> | useState is easier to learn  | Zustand has a slightly steeper learning curve due to its store creation process. |
+| **Complexity Handling** | Good for simple state in one component | Better for complex state shared across many components |
+| **State Scope** | Local to one component | Global state that can be used by any component |
+| **Performance** | Works well for small tasks | Designed to reduce re-renders |
+| **Ease of Use** | Very simple to start with, no setup needed | Needs a bit more setup, more features but a bit harder to learn |
+| **Scalability** | Can get tricky as the app grows, often needs other tools for big apps | Handles growth well, easier to manage state in big apps |
+| **Support and Tools** | Part of React, lots of help and info available, no extra libraries needed | Separate library, good support, not as much info as useState but still good |
+| **Learning Curve** | useState is easier to learn  | Zustand has a slightly steeper learning curve due to its store creation process. |
 
 ### Use Cases
 

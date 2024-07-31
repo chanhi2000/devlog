@@ -11,6 +11,7 @@ category:
 tag: 
   - blog
   - learnk8s.io
+  - code-maze.com
   - popit.kr
   - java
   - kotlin
@@ -27,6 +28,20 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="Learnk8s — the Kubernetes training company"
+  desc="We help you get started on your Kubernetes journey through comprehensive online, in person or remote training."
+  url="https://learnk8s.io/archive"
+  logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
+  preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
+
+<SiteInfo
+  name="Code Maze - C#, .NET and Web Development Tutorials"
+  desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
+  url="https://code-maze.com/latest-posts-on-code-maze/"
+  logo="/images/content/code-maze.com/favicon.png"
+  preview="/images/content/code-maze.com/banner.png"/>
 
 ```component VPCard
 {
@@ -57,6 +72,24 @@ head:
 ```
 
 <!-- END: learnk8s.io -->
+
+---
+
+## Code Maze - C#, .NET and Web Development Tutorials
+
+> code-maze.com
+
+```component VPCard
+{
+  "title": "Elasticsearch in ASP.NET Core",
+  "desc": "How to use Elasticsearch in ASP.NET Core, including using queries and aggregations to build a search system.",
+  "link": "/explore/articles/code-maze.com/elasticsearch-aspnet-core.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
+
+<!-- END: code-maze.com -->
 
 ---
 

@@ -70,8 +70,8 @@ Anyone can sit through a tutorial, but it takes actual work to remember what was
 {
   "title": "Review – Project 1: Storm Viewer – Hacking with Swift",
   "desc": "Interactive tests that help gauge your progress learning Swift",
-  "link": "https://www.hackingwithswift.com/review/hws/project-1-storm-viewer",
-  "logo": "https://www.hackingwithswift.com/favicon.svg",
+  "link": "https://hackingwithswift.com/review/hws/project-1-storm-viewer",
+  "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
 ```

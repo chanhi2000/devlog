@@ -5,6 +5,9 @@ export const template: SidebarInfoTemplate = {
   faviconPath: "/images/content/code-maze.com/favicon.png",
   linksMap: new Map([
     [
+    "java-elasticsearch", [
+      "elasticsearch-aspnet-core", // 2024-04-28
+    ]],[
     "cs", [
       "what-is-continuous-integration", // 2021-10-09
       "top-8-continuous-integration-tools", // 2023-06-15
@@ -177,6 +180,11 @@ export const template: SidebarInfoTemplate = {
       "aspnet-configuration-options-validation", // 2021-12-27
       "aspnet-configuration-providers", // 2021-12-27
       "deploying-aspnet-core-web-api-azure-api-apps", // 2024-01-31
+      "elasticsearch-aspnet-core", // 2024-04-28
+      "azure-webjobs-in-app-service", // 2021-12-24
+      "send-sms-aspnetcore", // 2024-04-18
+      "user-registration-angular-aspnet-identity", // 2022-05-17
+      "custom-validators-and-handling-errors-with-angular-and-asp-net-core-identity", // 2022-10-12
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]],[
     "cs-blazor", [
@@ -199,6 +207,18 @@ export const template: SidebarInfoTemplate = {
       "blazor-webassembly-role-based-security-with-identityserver4", // 2022-05-23
       "atribute-based-access-control-blazor-webassembly-identityserver4", // 2022-05-23
       "how-to-call-javascript-code-from-net-blazor-webassembly", // 2022-05-23
+      "using-jsinterop-to-pass-html-elements-and-handle-js-errors", //2021-12-27
+      "how-to-call-csharp-methods-from-javascript-in-blazor-webassembly", // 2022-05-23
+      "use-browser-functionalities-with-blazor-webassembly", // 2022-05-23
+      "wrapping-javascript-libraries-with-csharp-in-blazor-webassembly", // 2021-12-27
+      "lazy-loading-in-blazor-webassembly", // 2021-12-24
+      "global-http-error-handling-in-blazor-webassembly", // 2022-06-30
+      "blazor-webassembly-component-virtualization-with-web-api", // 2021-12-24
+      "localization-in-blazor-webassembly-applications", // 2024-01-31
+      "css-isolation-in-blazor-applications", // 2021-12-24
+      "custom-validation-in-blazor-webassembly", // 2021-12-24
+      "binding-in-blazor-applications", // 2021-12-24
+      "complex-model-validation-in-blazor", // 2021-12-24
     ]],[
     "js-angular", [
       "net-core-web-development-part7", // 2022-04-20
@@ -226,6 +246,7 @@ export const template: SidebarInfoTemplate = {
       "angular-authentication-actions-with-identityserver4", // 2021-12-27
       "angular-oauth2-oidc-configuration-identityserver4", // 2021-12-27
       "signalr-automatic-reconnect-option", // 2022-05-05
+      "custom-validators-and-handling-errors-with-angular-and-asp-net-core-identity", // 2022-10-12
     ]],[
     "docker", [
       "why-docker-docker-cli-examples", // 2020-09-02
@@ -490,6 +511,23 @@ export const template: SidebarInfoTemplate = {
       "atribute-based-access-control-blazor-webassembly-identityserver4", // 2022-05-23
       "deploying-aspnet-core-web-api-azure-api-apps", // 2024-01-31
       "how-to-call-javascript-code-from-net-blazor-webassembly", // 2022-05-23
+      "using-jsinterop-to-pass-html-elements-and-handle-js-errors", //2021-12-27
+      "elasticsearch-aspnet-core", // 2024-04-28
+      "how-to-call-csharp-methods-from-javascript-in-blazor-webassembly", // 2022-05-23
+      "use-browser-functionalities-with-blazor-webassembly", // 2022-05-23
+      "wrapping-javascript-libraries-with-csharp-in-blazor-webassembly", // 2021-12-27
+      "lazy-loading-in-blazor-webassembly", // 2021-12-24
+      "global-http-error-handling-in-blazor-webassembly", // 2022-06-30
+      "azure-webjobs-in-app-service", // 2021-12-24
+      "blazor-webassembly-component-virtualization-with-web-api", // 2021-12-24
+      "localization-in-blazor-webassembly-applications", // 2024-01-31
+      "send-sms-aspnetcore", // 2024-04-18
+      "css-isolation-in-blazor-applications", // 2021-12-24
+      "custom-validation-in-blazor-webassembly", // 2021-12-24
+      "binding-in-blazor-applications", // 2021-12-24
+      "complex-model-validation-in-blazor", // 2021-12-24
+      "user-registration-angular-aspnet-identity", // 2022-05-17
+      "custom-validators-and-handling-errors-with-angular-and-asp-net-core-identity", // 2022-10-12
       "csharp-getting-property-mappings-from-automapper", // 2024-04-21
     ]]
   ])

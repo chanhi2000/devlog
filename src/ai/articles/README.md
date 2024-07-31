@@ -206,6 +206,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "생성형 AI 만난 ‘시리’는 어떻게 똑똑해질 수 있을까? | 요즘IT",
+  "desc": "생성형 AI 만난 ‘시리’는 어떻게 똑똑해질 수 있을까?",
+  "link": "/explore/articles/yozm.wishket.com/2696.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

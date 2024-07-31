@@ -1054,5 +1054,12 @@
     "topics": ["kotlin", "kotlin-library", "kotlin-multiplatform", "kotlin-multiplatform-library", "tuple", "tuples"],
     "avatar": "https://avatars.githubusercontent.com/u/14044749?v=4",
     "banner": ""
+  }, {
+    "repo": "mcastillof/FakeTraveler",
+    "desc": "Fake where your phone is located (Mock location for Android).",
+    "officialSite": "",
+    "topics": ["android-application", "fake-locations", "floss", "mock-locations", "opensource"],
+    "avatar": "https://avatars.githubusercontent.com/u/6936113?v=4",
+    "banner": ""
   }
 ]

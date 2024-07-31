@@ -336,6 +336,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/java-elasticsearch/articles/README.md',
             asb.learnk8s("java-elasticsearch"),
+            asb.codemaze("java-elasticsearch"),
             asb.popit("java-elasticsearch"),
           ]
         }

@@ -80,6 +80,16 @@ head:
 
 - [`@mildsalmon` - 피보나치 수열](https://blex.me/@mildsalmon/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98%EC%97%B4)
 
+<!-- END: blex.me -->
+
+---
+
+## Substack
+
+- [`maartengrootendorst` / A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+
+<!-- END: substack.com -->
+
 ---
 
 ## Hazy Research
@@ -304,6 +314,7 @@ head:
 - [2023년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/152)
 - [2023년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/153)
 - [2023년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/155)
+
 ---
 
 ## Max Slater

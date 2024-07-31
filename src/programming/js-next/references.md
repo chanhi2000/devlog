@@ -197,4 +197,10 @@ head:
 
 ---
 
+## 개발하는 기획자. 기획하는 개발자.
+
+- [Vitest RTK & RTK Query 테스트 환경 세팅](https://m.blog.naver.com/gi_balja/223531133844)
+
+---
+
 <TagLinks />

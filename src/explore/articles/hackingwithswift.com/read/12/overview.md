@@ -22,6 +22,7 @@ head:
       content: "Project 12: UserDefaults"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/12/overview.html
+prev: /explore/articles/hackingwithswift.com/read/11/08-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,55 @@ Learn how to save user settings and data for later use.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/12/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Reading and writing basics: UserDefaults | Hacking with iOS",
+  "desc": "Reading and writing basics: UserDefaults",
+  "link": "/explore/articles/hackingwithswift.com/read/12/02-reading-and-writing-basics-userdefaults.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Fixing Project 10: NSCoding | Hacking with iOS",
+  "desc": "Fixing Project 10: NSCoding",
+  "link": "/explore/articles/hackingwithswift.com/read/12/03-fixing-project-10-nscoding.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Fixing Project 10: Codable | Hacking with iOS",
+  "desc": "Fixing Project 10: Codable",
+  "link": "/explore/articles/hackingwithswift.com/read/12/04-fixing-project-10-codable.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/12/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 
