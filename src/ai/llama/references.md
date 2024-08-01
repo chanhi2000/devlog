@@ -41,6 +41,14 @@ head:
 
 ---
 
+## Brunch
+
+- [`@2YWz` / Mark Zuckerberg on Llama 3.1](https://brunch.co.kr/@@2YWz/111)
+
+<!-- END: brunch.co.kr -->
+
+---
+
 ## LMSYS Org
 
 - [Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM)](https://lmsys.org/blog/2024-07-25-sglang-llama3/)

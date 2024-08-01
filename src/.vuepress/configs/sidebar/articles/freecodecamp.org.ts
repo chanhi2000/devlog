@@ -114,6 +114,7 @@ export const template: SidebarInfoTemplate = {
       "nextjs-clerk-neon-fullstack-development", // 2024-07-10
       "server-side-rendering-in-next-js-for-improved-seo", // 2024-07-17
       "next-js-performance-optimization", // 2024-07-19
+      "build-an-invoice-saas-app-with-next-js-and-neon-postgres", // 2024-08-01
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -306,6 +307,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-database-migrations-in-go", // 2024-06-26
       "nextjs-clerk-neon-fullstack-development", // 2024-07-10
       "build-a-crud-app-spring-boot-neon-postgres", // 2024-07-26
+      "build-an-invoice-saas-app-with-next-js-and-neon-postgres", // 2024-08-01
     ]],[
     "mongodb", [
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
@@ -549,6 +551,7 @@ export const template: SidebarInfoTemplate = {
       "prompt-engineering-basics", // 2024-07-29
       "learn-c-sharp-for-unity-in-spanish", // 2024-07-31
       "how-to-add-jwt-based-authentication-in-nest-js", // 2024-07-31
+      "build-an-invoice-saas-app-with-next-js-and-neon-postgres", // 2024-08-01
     ]],
   ]),
 }

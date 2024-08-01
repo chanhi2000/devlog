@@ -78,7 +78,7 @@ tag:
 - https://www.ovirt.org/develop/developer-guide/debugfrontend.html
 - https://anthonyspiteri.net/ovirt-kvm-homelab-2/
 - https://suee-b.tistory.com/m/entry/Ovirt
-- https://blog.naver.com/ilikebigmac/222013980565
+- https://m.blog.naver.com/ilikebigmac/222013980565
 - https://rhv.bradmin.org/ovirt-engine/docs/Data_Warehouse_Guide/Allowing_Read_Only_Access_to_the_History_Database.html
 - http://ovirt.github.io/ovirt-engine-api-model/4.5/
 - https://www.redhat.com/en/blog/ovirt-dockerized-part-1

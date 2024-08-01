@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Angular Authentication Actions with IdentityServer4
 description: Article(s) > Angular Authentication Actions with IdentityServer4
-icon: fa-brands fa-anuglar
+icon: fa-brands fa-angular
 category: 
   - Node.js
   - Angular.js

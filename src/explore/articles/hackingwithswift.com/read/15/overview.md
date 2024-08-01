@@ -22,6 +22,7 @@ head:
       content: "Project 15: Animation"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/15/overview.html
+prev: /explore/articles/hackingwithswift.com/read/14/05-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,55 @@ Bring your interfaces to life with animation, and meet switch/case at the same t
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/15/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Preparing for action | Hacking with iOS",
+  "desc": "Preparing for action",
+  "link": "/explore/articles/hackingwithswift.com/read/15/02-preparing-for-action.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Switch, case, animate: animate(withDuration:) | Hacking with iOS",
+  "desc": "Switch, case, animate: animate(withDuration:)",
+  "link": "/explore/articles/hackingwithswift.com/read/15/03-switch-case-animate-animatewithduration.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Transform: CGAffineTransform | Hacking with iOS",
+  "desc": "Transform: CGAffineTransform",
+  "link": "/explore/articles/hackingwithswift.com/read/15/04-transform-cgaffinetransform.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/15/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

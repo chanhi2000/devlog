@@ -98,6 +98,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build an Invoice SaaS App with Next.js, Resend, Clerk and Neon Postgres",
+  "desc": "In this tutorial, you will learn how to build an invoicing web app that allows users to add their bank information, manage a list of customers, and create and send invoices to customers. You'll also learn how to print and send React components as invoices and email templates directly from...",
+  "link": "/explore/articles/freecodecamp.org/build-an-invoice-saas-app-with-next-js-and-neon-postgres.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

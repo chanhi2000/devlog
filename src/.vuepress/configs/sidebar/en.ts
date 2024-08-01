@@ -2433,6 +2433,7 @@ export const sidebarEn = sidebar({
             asb.codemaze("k8s"),
             asb.yozm("k8s"),
             asb.d2("k8s"),
+            asb.linecorp("k8s"),
             asb.gmarket("k8s"),
             asb.kurly("k8s"),
           ]

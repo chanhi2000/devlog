@@ -288,8 +288,8 @@ head:
 
 ## Microsoft MVP 프로그래머 김성엽
 
-- [[Q&A] CRect 클래스의 IsRectEmpty 함수와 IsRectNull 함수는 어떤 차이가 있나요?](https://blog.naver.com/tipsware/223378336569)
-- [[Q&A] 생성자가 잘못 호출됩니다.](https://blog.naver.com/tipsware/223396943523?)
+- [[Q&A] CRect 클래스의 IsRectEmpty 함수와 IsRectNull 함수는 어떤 차이가 있나요?](https://m.blog.naver.com/tipsware/223378336569)
+- [[Q&A] 생성자가 잘못 호출됩니다.](https://m.blog.naver.com/tipsware/223396943523?)
 
 ---
 

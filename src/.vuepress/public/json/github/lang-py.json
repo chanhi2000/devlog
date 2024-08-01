@@ -5609,8 +5609,8 @@
     "repo": "infiniflow/ragflow",
     "desc": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
     "officialSite": "https://ragflow.io",
-    "topics": ["data-pipelines", "deep-learning", "document-parser", "document-understanding", "information-retrieval", "llm", "llmops", "machine-learning", "nlp", "ocr", "orchestration", "pdf-to-text", "preprocessing", "rag", "retrieval-augmented-generation", "table-structure-recognition"],
-    "avatar": "",
+    "topics": ["agent", "agents", "chatbot", "data-pipelines", "deep-learning", "document-parser", "document-understanding", "information-retrieval", "llm", "machine-learning", "nlp", "ocr", "orchestration", "pdf-to-text", "preprocessing", "rag", "retrieval-augmented-generation", "table-structure-recognition"],
+    "avatar": "https://avatars.githubusercontent.com/u/69962740?v=4",
     "banner": ""
   }, {
     "repo": "dvlab-research/MiniGemini",
@@ -7233,7 +7233,7 @@
     "repo": "opendatalab/MinerU",
     "desc": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
     "officialSite": "https://opendatalab.com/OpenSourceTools",
-    "topics": ["document-analysis", "extract-data", "layout-analysis", "ocr", "parser", "pdf", "pdf-converter", "pdf-extractor-llm", "pdf-extractor-pretrain", "pdf-extractor-rag", "pdf-parser", "python"],
+    "topics": ["ai4science", "document-analysis", "extract-data", "layout-analysis", "ocr", "parser", "pdf", "pdf-converter", "pdf-extractor-llm", "pdf-extractor-pretrain", "pdf-extractor-rag", "pdf-parser", "python"],
     "avatar": "https://avatars.githubusercontent.com/u/97503431?v=4",
     "banner": ""
   }, {
@@ -7319,6 +7319,27 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/1367707?v=4",
+    "banner": ""
+  }, {
+    "repo": "lipku/metahuman-stream",
+    "desc": "Real time interactive streaming digital human",
+    "officialSite": "https://zhuanlan.zhihu.com/p/675131165",
+    "topics": ["aigc", "digihuman", "digital-human", "er-nerf", "lip-sync", "musetalk", "nerf", "realtime", "streaming", "talking-head", "virtualhumans", "wav2lip"],
+    "avatar": "https://avatars.githubusercontent.com/u/5893340?v=4",
+    "banner": ""
+  }, {
+    "repo": "NVlabs/InstantSplat",
+    "desc": "InstantSplat: Sparse-view SfM-free Gaussian Splatting in Seconds",
+    "officialSite": "https://instantsplat.github.io/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/2695301?v=4",
+    "banner": ""
+  }, {
+    "repo": "evanrolfe/trayce_gui",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/9274?v=4",
     "banner": ""
   }
 ]

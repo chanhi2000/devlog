@@ -891,7 +891,7 @@ tag:
 
 ## rebehayan
 
-- [jQuery `width()`, `height()`, `offset()`은 자바스크립트(Javascript)에선 어떻게 표현할까?](https://blog.naver.com/rebehayan/223378781900)
+- [jQuery `width()`, `height()`, `offset()`은 자바스크립트(Javascript)에선 어떻게 표현할까?](https://m.blog.naver.com/rebehayan/223378781900)
 
 ---
 
@@ -1137,7 +1137,7 @@ tag:
 
 ## 큰돌의 터전
 
-- [모듈 또는 해당 형식 선언을 찾을 수 없습니다. 해결방법](https://blog.naver.com/jhc9639/223468932284)
+- [모듈 또는 해당 형식 선언을 찾을 수 없습니다. 해결방법](https://m.blog.naver.com/jhc9639/223468932284)
 
 ---
 
@@ -1146,6 +1146,9 @@ tag:
 - [\[TypeScript\] TypeORM 커스텀 함수 구현하기](https://puleugo.tistory.com/m/194)
 - [\[번역\] 개발자 중심 성능 테스트 선언문](https://puleugo.tistory.com/m/197)
 - [\[번역\] Mocks Aren't Stubs | Classicist vs Mockist](https://puleugo.tistory.com/m/199)
+- [\[Node.js\] 트랜잭션을 활용한 테스트 격리 환경 구축하기 (1/2) | 솔루션 찾기](https://puleugo.tistory.com/m/201)
+
+<!-- END: puleugo.tistory.com -->
 
 ---
 

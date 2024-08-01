@@ -259,7 +259,7 @@ head:
 
 ## 스파르타 코딩클럽
 
-- [`Dockerfile` 최적화 : 이미지 사이즈 줄이기/ 빌드 시간 단축/ 컨테이너 운영](https://blog.naver.com/spartacoding/223393016523)
+- [`Dockerfile` 최적화 : 이미지 사이즈 줄이기/ 빌드 시간 단축/ 컨테이너 운영](https://m.blog.naver.com/spartacoding/223393016523)
 
 ---
 

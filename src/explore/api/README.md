@@ -1186,6 +1186,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://app.rendley.com/favicon/favicon.svg"
   preview="https://app.rendley.com/og/og-1200x630.png"/>
 
+<SiteInfo
+  name="Freesentation"
+  desc="파워포인트 사용자를 위한 폰트, 프리젠테이션"
+  url="https://freesentation.blog/"
+  logo="https://framerusercontent.com/images/xuZFeXZZkyzf2T6Ltj4rFOo5vo.png"
+  preview="https://framerusercontent.com/assets/HU3CSOvS9DOooJSP13to5Z2A1M.jpg"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps

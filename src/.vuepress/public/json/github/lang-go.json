@@ -2407,5 +2407,19 @@
     "topics": ["analytics", "cli", "metrics", "nginx", "self-hosted"],
     "avatar": "https://avatars.githubusercontent.com/u/1040941?v=4",
     "banner": ""
+  }, {
+    "repo": "miekg/gitopper",
+    "desc": "Gitops for non-Kubernetes folks",
+    "officialSite": "",
+    "topics": ["git", "gitops", "provisioning"],
+    "avatar": "https://avatars.githubusercontent.com/u/353371?v=4",
+    "banner": ""
+  }, {
+    "repo": "cgzirim/not-shazam",
+    "desc": "An implementation of Shazam's song matching algorithm.",
+    "officialSite": "",
+    "topics": ["audio-fingerprinting", "audio-processing", "go", "golang", "not-shazam", "shazam", "song", "song-recognition-algorithm"],
+    "avatar": "https://avatars.githubusercontent.com/u/88312276?v=4",
+    "banner": ""
   }
 ]

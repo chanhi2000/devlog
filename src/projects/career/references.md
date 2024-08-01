@@ -33,6 +33,12 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-github"/>Github
+
+- [How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
+
+---
+
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
@@ -156,7 +162,8 @@ tag:
 - [`happyprogrammer-in-jeju` / 개알못인 당신이 웹개발을 시작한다면 (1)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-1-9415c014a130)
 - [`foundercollective` / AI start-ups: Don’t sell picks and shovels, dig with them](https://foundercollective.medium.com/ai-start-ups-dont-sell-picks-and-shovels-dig-with-them-79e3d12f1947)
 - [`@ghilbut` / \[조직문화\] 스쿼드(Squad)는 그만!!](https://medium.com/@ghilbut/%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94-%EC%8A%A4%EC%BF%BC%EB%93%9C-squad-%EB%8A%94-%EA%B7%B8%EB%A7%8C-738b7ebd6998?source=rss-8482dec25ee1------2)
-  
+- [`mjspring` / 설득에 대한 태도 바로잡기](https://mjspring.medium.com/%EC%84%A4%EB%93%9D%EC%97%90-%EB%8C%80%ED%95%9C-%ED%83%9C%EB%8F%84-%EB%B0%94%EB%A1%9C%EC%9E%A1%EA%B8%B0-cce3117b1c49?source=rss-a5b93d2efa4c------2)
+
 <!-- END: medium.com -->
 
 ---
@@ -330,13 +337,13 @@ tag:
 
 ## codeit;
 
-- [[코드잇 스토리] 치킨 두 마리 가격으로 개발자 취업 스펙 완성했죠_대학생 이진우 님](https://blog.naver.com/codeitofficial/223394834211)
+- [[코드잇 스토리] 치킨 두 마리 가격으로 개발자 취업 스펙 완성했죠_대학생 이진우 님](https://m.blog.naver.com/codeitofficial/223394834211)
 
 ---
 
 ## SK주힉회사 C&C
 
-- [금융업계에 꼭 필요한 디지털 ESG, 어떻게 적용하고 활용해야 할까? l 같이 읽는 IT 트렌드](https://blog.naver.com/skcc_official/223394428587)
+- [금융업계에 꼭 필요한 디지털 ESG, 어떻게 적용하고 활용해야 할까? l 같이 읽는 IT 트렌드](https://m.blog.naver.com/skcc_official/223394428587)
 
 ---
 
@@ -360,16 +367,16 @@ tag:
 
 ## [ 소프트웨어 개발자 이야기 Vol.3 ]
 
-- [안 하는 것과 못하는 것](https://blog.naver.com/cybervictor008/223399042771)
-- [가장 중요한 것은?](https://blog.naver.com/cybervictor008/223401802404)
-- [결이 다르다?](https://blog.naver.com/cybervictor008/223404138961?)
-- [정리하다.](https://blog.naver.com/cybervictor008/223402005645?)
-- [다시 반복되는 하루](https://blog.naver.com/cybervictor008/223402966033?)
-- [지금 할 수 있는 것을 하라.](https://blog.naver.com/cybervictor008/223405231219?)
-- [자투리 시간의 활용](https://blog.naver.com/cybervictor008/223406340741?)
-- [Unix를 알아야 하는 이유(?)](https://blog.naver.com/cybervictor008/223404547371?)
-- [감정 이입](https://blog.naver.com/cybervictor008/223408992830?)
-- [보여주기 위한 삶?](https://blog.naver.com/cybervictor008/223411369171?)
+- [안 하는 것과 못하는 것](https://m.blog.naver.com/cybervictor008/223399042771)
+- [가장 중요한 것은?](https://m.blog.naver.com/cybervictor008/223401802404)
+- [결이 다르다?](https://m.blog.naver.com/cybervictor008/223404138961?)
+- [정리하다.](https://m.blog.naver.com/cybervictor008/223402005645?)
+- [다시 반복되는 하루](https://m.blog.naver.com/cybervictor008/223402966033?)
+- [지금 할 수 있는 것을 하라.](https://m.blog.naver.com/cybervictor008/223405231219?)
+- [자투리 시간의 활용](https://m.blog.naver.com/cybervictor008/223406340741?)
+- [Unix를 알아야 하는 이유(?)](https://m.blog.naver.com/cybervictor008/223404547371?)
+- [감정 이입](https://m.blog.naver.com/cybervictor008/223408992830?)
+- [보여주기 위한 삶?](https://m.blog.naver.com/cybervictor008/223411369171?)
 
 ---
 
@@ -381,15 +388,15 @@ tag:
 
 ## 스파르타 코딩클럽
 
-- [변화를 꿈꾸는 이들을 위한 안내서](https://blog.naver.com/spartacoding/223397157872)
-- ['가치의 가치있음'을 믿으며, 계속 살아내기](https://blog.naver.com/spartacoding/223397154746?)
-- [비전공자도 개발자 취업할 수 있을까? | 팀스파르타 이범규 대표 인터뷰](https://blog.naver.com/spartacoding/223399417138?)
+- [변화를 꿈꾸는 이들을 위한 안내서](https://m.blog.naver.com/spartacoding/223397157872)
+- ['가치의 가치있음'을 믿으며, 계속 살아내기](https://m.blog.naver.com/spartacoding/223397154746?)
+- [비전공자도 개발자 취업할 수 있을까? | 팀스파르타 이범규 대표 인터뷰](https://m.blog.naver.com/spartacoding/223399417138?)
 
 ---
 
 ## 이프로
 
-- [경력사항 세부정리 - 1번째 회사](https://blog.naver.com/hidejj79/223397842492?)
+- [경력사항 세부정리 - 1번째 회사](https://m.blog.naver.com/hidejj79/223397842492?)
 
 ---
 
@@ -508,6 +515,7 @@ tag:
 - [경쟁에 임하는 자세](https://www.thestartupbible.com/2024/07/on-the-mindset-of-facing-a-formidable-competitor.html)
 - [세상에서 가장 큰 학교](https://www.thestartupbible.com/2024/07/being-a-vc-means-that-you-can-get-the-best-education-in-the-world-for-free.html)
 - [개구리 올챙이 시절](https://www.thestartupbible.com/2024/07/always-remember-where-you-came-from.html)
+- [전력 증강자](https://thestartupbible.com/2024/08/force-multiplier.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -530,6 +538,9 @@ tag:
 - [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/m/781)
 - [너무 똑똑한 사람이 되지 않기](https://jojoldu.tistory.com/m/785)
 - [진짜 개발자](https://jojoldu.tistory.com/m/787)
+- ['개발자도 회사의 조직원이다' 를 보고](http://jojoldu.tistory.com/m/794)
+
+<!-- END: jojoldu.tistory.com -->
 
 ---
 
@@ -562,9 +573,9 @@ tag:
 
 ## 파랑새
 
-- [풀지 못한 프로그래머의 생산성 문제](https://blog.naver.com/birdparang/223402009011?)
-- [실마리 프로그램, 그리고 다시 생각나는 풀 스택 개발자 논쟁](https://blog.naver.com/birdparang/223411456071?)
-- [소프트웨어 제품을 혼자서 개발한다는 것](https://blog.naver.com/birdparang/223445277535?)
+- [풀지 못한 프로그래머의 생산성 문제](https://m.blog.naver.com/birdparang/223402009011?)
+- [실마리 프로그램, 그리고 다시 생각나는 풀 스택 개발자 논쟁](https://m.blog.naver.com/birdparang/223411456071?)
+- [소프트웨어 제품을 혼자서 개발한다는 것](https://m.blog.naver.com/birdparang/223445277535?)
 
 ---
 
@@ -726,10 +737,10 @@ tag:
 
 ## 세상을 널리 이롭게 하는 돌 큰돌
 
-- [바야흐로 1인개발자시대에 따른 아키텍처 분석](https://blog.naver.com/jhc9639/223421615148)
-- [도전! K 스타트업 2024 혁신 창업리그 대회 요약 및 정리](https://blog.naver.com/jhc9639/223426056751)
-- [특허권, 기술지원에 특화된 IP나래 프로그램 정리](https://blog.naver.com/jhc9639/223468454493)
-- [예창패, 청창사, 초창패 합격한 썰 및 정부지원사업 팁](https://blog.naver.com/jhc9639/223426111370)
+- [바야흐로 1인개발자시대에 따른 아키텍처 분석](https://m.blog.naver.com/jhc9639/223421615148)
+- [도전! K 스타트업 2024 혁신 창업리그 대회 요약 및 정리](https://m.blog.naver.com/jhc9639/223426056751)
+- [특허권, 기술지원에 특화된 IP나래 프로그램 정리](https://m.blog.naver.com/jhc9639/223468454493)
+- [예창패, 청창사, 초창패 합격한 썰 및 정부지원사업 팁](https://m.blog.naver.com/jhc9639/223426111370)
 
 ---
 
@@ -919,6 +930,7 @@ tag:
 - [넥스트레이드의 매칭기술이 궁금..](https://smallake.kr/?p=34140)
 - [금융위와 금감원이 내놓은 ATS 운영방안](https://smallake.kr/?p=34104)
 - [회원시스템 접속 등에 관한 지침으로 본 DMA영업의 한계](https://smallake.kr/?p=34051)
+- [여의도로 출근하기](https://smallake.kr/?p=30641)
 
 ---
 
@@ -1011,9 +1023,9 @@ tag:
 
 ## 숲속얘기
 
-- [모질라 허브는 왜 확산에 실패했을까? XRCLOUD는 어떻게 바꿔 갈 것인가?](https://blog.naver.com/fstory97&logId=223457715993)
+- [모질라 허브는 왜 확산에 실패했을까? XRCLOUD는 어떻게 바꿔 갈 것인가?](https://m.blog.naver.com/fstory97&logId=223457715993)
 
-https://blog.naver.com/&logId=
+https://m.blog.naver.com/&logId=
 
 ---
 

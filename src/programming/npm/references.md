@@ -88,7 +88,7 @@ head:
 
 ## 용(龍)인 내게 온 깝친년. 아니 갑진년 청룡의해
 
-- [`package-lock.json` 은 git ignore 처리해야할까?](https://blog.naver.com/gingsero/222140320340)
+- [`package-lock.json` 은 git ignore 처리해야할까?](https://m.blog.naver.com/gingsero/222140320340)
 
 ---
 

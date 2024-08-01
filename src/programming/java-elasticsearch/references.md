@@ -36,6 +36,15 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog.io
+
+- [`@qkrtkdwns3410` / Elastic Stack 8. 2일차.](https://velog.io/@qkrtkdwns3410/Elastic-Stack-8.-2%EC%9D%BC%EC%B0%A8)
+- [`@qkrtkdwns3410` / Elastic Stack 8. 1일차.](https://velog.io/@qkrtkdwns3410/Elastic-Stack-8.-1%EC%9D%BC%EC%B0%A8)
+
+<!-- END: velog.io -->
+
+---
+
 ## Share & Discover Presentations | SlideShare
 
 - [엘라스틱서치 클러스터로 수십억 건의 데이터 운영하기](https://slideshare.net/heungrae_kim/ss-123344339)

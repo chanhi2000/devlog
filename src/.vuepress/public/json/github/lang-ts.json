@@ -4562,5 +4562,19 @@
     "topics": ["fullstory", "hotjar", "logrocket", "recorder", "session-replay"],
     "avatar": "https://avatars.githubusercontent.com/u/43396833?v=4",
     "banner": ""
+  }, {
+    "repo": "RSSNext/follow",
+    "desc": "🧡 Next generation information browser",
+    "officialSite": "https://github.com/RSSNext/follow/releases",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/95456295?v=4",
+    "banner": ""
+  }, {
+    "repo": "RedisInsight/RedisInsight",
+    "desc": "Redis GUI by Redis",
+    "officialSite": "https://redis.com/redis-enterprise/redis-insight/",
+    "topics": ["database-gui", "redis", "redis-gui", "redis-gui-client"],
+    "avatar": "https://avatars.githubusercontent.com/u/87389211?v=4",
+    "banner": ""
   }
 ]

@@ -29,7 +29,7 @@ head:
 
 ## hanajava
 
-- [[알티베이스]데이터베이스 보안 점검 체크리스트](https://blog.naver.com/hanajava/220502096562)
+- [[알티베이스]데이터베이스 보안 점검 체크리스트](https://m.blog.naver.com/hanajava/220502096562)
 
 ---
 

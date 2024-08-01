@@ -25,6 +25,7 @@ head:
 prev: /programming/java-spring/articles/README.md
 date: 2024-05-02
 isOriginal: false
+cover: https://techblog.lycorp.co.jp/static/42255ba7ed82a7b0c88c7d62930764c5/7d66e/1714614768494.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -53,15 +54,12 @@ isOriginal: false
 
 ---
 
-```component VPCard
-{
-  "title": "읽기 전용 설정으로 MySQL 이전하기",
-  "desc": "안녕하세요. VOOM Server Unit에서 LINE VOOM 서비스를 개발하고 있는 서용준입니다. LINE VOOM 서비스는 메인 콘텐츠인 포스트를 저장하기 위해 My...",
-  "link": "https://techblog.lycorp.co.jp/ko/migrate-mysql-with-read-only-mode",
-  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
-  "background": "rgba(31,31,31,0.2)"
-}
-```
+<SiteInfo
+  name="읽기 전용 설정으로 MySQL 이전하기"
+  desc="안녕하세요. VOOM Server Unit에서 LINE VOOM 서비스를 개발하고 있는 서용준입니다. LINE VOOM 서비스는 메인 콘텐츠인 포스트를 저장하기 위해 My..."
+  url="https://techblog.lycorp.co.jp/ko/migrate-mysql-with-read-only-mode"
+  logo="https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a"
+  preview="https://techblog.lycorp.co.jp/static/42255ba7ed82a7b0c88c7d62930764c5/7d66e/1714614768494.png"/>
 
 <!-- TODO: 작성 -->
 

@@ -122,7 +122,7 @@ This takes two steps, starting with a definition of what the macro is. In our ca
 @freestanding(expression)
 macro buildDate() -> String =
   #externalMacro(module: "MyMacrosPlugin", type: "BuildDateMacro")
-  ```
+```
 
 And the second step is to actually use the macro, like this:
 

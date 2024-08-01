@@ -35,7 +35,7 @@ tag:
 
 ## 마루아라
 
-- [[Jeus] 제우스 6 사용법](https://blog.naver.com/tyboss/70142167303)
+- [[Jeus] 제우스 6 사용법](https://m.blog.naver.com/tyboss/70142167303)
 
 ---
 

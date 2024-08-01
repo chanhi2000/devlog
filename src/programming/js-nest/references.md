@@ -41,17 +41,17 @@ tag:
 
 ## 개발하는 기획자 기획하는 개발자
 
-- [Nest.js - 트랜잭션 (Transaction)](https://blog.naver.com/gi_balja/223422569009)
-- [Nest.js - 보고서 프로젝트 기본 세팅 (1)](https://blog.naver.com/gi_balja/223436913212)
-- [Nest.js - 보고서 프로젝트 기본 세팅 (2)](https://blog.naver.com/gi_balja/223437238342)
-- [Nest.js - 보고서 프로젝트 CRUD](https://blog.naver.com/gi_balja/223438421755)
-- [Nest.js - 보고서 프로젝트 사용자 정보 생성](https://blog.naver.com/gi_balja/223444118870)
-- [Nest.js - 보고서 프로젝트 Facade 패턴 적용](https://blog.naver.com/gi_balja/223451594165)
-- [Nest.js - 보고서 프로젝트 응답값 설정](https://blog.naver.com/gi_balja/223453109109)
-- [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
-- [Nest.js - 보고서 프로젝트 인증과 인가](https://blog.naver.com/gi_balja/223473547932?)
-- [Nest.js - 보고서 프로젝트 리프레시 토큰](https://blog.naver.com/gi_balja/223487816675)
-- [Nest.js - 보고서 프로젝트 커스텀 데코레이터](https://blog.naver.com/gi_balja/223488374146)
+- [Nest.js - 트랜잭션 (Transaction)](https://m.blog.naver.com/gi_balja/223422569009)
+- [Nest.js - 보고서 프로젝트 기본 세팅 (1)](https://m.blog.naver.com/gi_balja/223436913212)
+- [Nest.js - 보고서 프로젝트 기본 세팅 (2)](https://m.blog.naver.com/gi_balja/223437238342)
+- [Nest.js - 보고서 프로젝트 CRUD](https://m.blog.naver.com/gi_balja/223438421755)
+- [Nest.js - 보고서 프로젝트 사용자 정보 생성](https://m.blog.naver.com/gi_balja/223444118870)
+- [Nest.js - 보고서 프로젝트 Facade 패턴 적용](https://m.blog.naver.com/gi_balja/223451594165)
+- [Nest.js - 보고서 프로젝트 응답값 설정](https://m.blog.naver.com/gi_balja/223453109109)
+- [AWS 서버리스와 Nest.js, RDS 연동](https://m.blog.naver.com/gi_balja/223421657878)
+- [Nest.js - 보고서 프로젝트 인증과 인가](https://m.blog.naver.com/gi_balja/223473547932?)
+- [Nest.js - 보고서 프로젝트 리프레시 토큰](https://m.blog.naver.com/gi_balja/223487816675)
+- [Nest.js - 보고서 프로젝트 커스텀 데코레이터](https://m.blog.naver.com/gi_balja/223488374146)
 
 ---
 

@@ -285,7 +285,7 @@ head:
 
 ## @opendoor_life
 
-- [개발 :: Git 초보를 위한 깃 명령어 & 용어 정리 (+커밋 히스토리 브랜치 그래프 보는법, Git Log 옵션 종류, 단축 명령어 Alias(별칭) 설정, 터미널 커맨드라인)](https://blog.naver.com/jdusans/222043705693)
+- [개발 :: Git 초보를 위한 깃 명령어 & 용어 정리 (+커밋 히스토리 브랜치 그래프 보는법, Git Log 옵션 종류, 단축 명령어 Alias(별칭) 설정, 터미널 커맨드라인)](https://m.blog.naver.com/jdusans/222043705693)
 
 ---
 
@@ -404,6 +404,18 @@ head:
 ## jupiny의 개발일지
 
 - [git stash 사용하기](https://jupiny.com/2024/07/21/use-git-stash/)
+
+---
+
+## GIT.WTF!?! - Figure out ways to fix GIT screw-ups
+
+- [Unlocking Git: Using Cherry for Commit Insights](https://git.wtf/unlocking-git-using-cherry-for-commit-insights/)
+
+---
+
+## pvigier's blog
+
+- [Commit Graph Drawing Algorithms](https://pvigier.github.io/2019/05/06/commit-graph-drawing-algorithms.html)
 
 ---
 

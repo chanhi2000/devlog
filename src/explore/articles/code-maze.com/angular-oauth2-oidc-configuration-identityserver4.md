@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Angular OAuth2 OIDC Configuration with IdentityServer4
 description: Article(s) > Angular OAuth2 OIDC Configuration with IdentityServer4
-icon: fa-brands fa-anuglar
+icon: fa-brands fa-angular
 category: 
   - Node.js
   - Angular.js

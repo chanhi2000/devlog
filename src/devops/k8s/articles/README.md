@@ -16,6 +16,7 @@ tag:
   - code-maze.com
   - yozm.wishket.com
   - d2.naver.com
+  - engineering.linecorp.com
   - dev.gmarket.com
   - helloworld.kurly.com
   - kubernetes
@@ -79,6 +80,16 @@ head:
   url="https://d2.naver.com"
   logo="/images/content/d2.naver.com/favicon.ico"
   preview="/images/content/d2.naver.com/sitebanner.png"/>
+
+```component VPCard
+{
+  "title": "Blog - LINE ENGINEERING",
+  "desc": "2022-LINE-engineering-site",
+  "link": "https://engineering.linecorp.com/ko/blog/",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -752,6 +763,24 @@ head:
 ```
 
 <!-- END: d2.naver.com -->
+
+---
+
+## Blog - LINE ENGINEERING
+
+> engineering.linecorp.com
+
+```component VPCard
+{
+  "title": "Informer를 사용해 쿠버네티스 중계 API 서버의 성능 개선하기",
+  "desc": "안녕하세요. Data Platform Dev에서 쿠버네티스 클러스터를 운영하며 컴포넌트를 개발하는 이현규입니다. 제가 운영하는 쿠버네티스 클러스터는 약 800대 규모로 주로 사내 ...",
+  "link": "/explore/articles/engineering.linecorp.com/improving-kubernetes-relay-api-server-performance-with-informer.md",
+  "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
+  "background": "rgba(31,31,31,0.2)"
+}
+```
+
+<!-- END: engineering.linecorp.com -->
 
 ---
 

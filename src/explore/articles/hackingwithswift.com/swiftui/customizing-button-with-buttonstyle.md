@@ -52,7 +52,7 @@ head:
 
 > Updated for Xcode 15
 
-SwiftUI has a number of styling protocols that allow us to define common styling for views such as  `Button`, `ProgressView`, `Toggle`, and more. They all work by allowing us to centralize any number of modifiers that get a view looking the way we want it, and provide modifiers that let us apply the full set of customizations in a single line.
+SwiftUI has a number of styling protocols that allow us to define common styling for views such as `Button`, `ProgressView`, `Toggle`, and more. They all work by allowing us to centralize any number of modifiers that get a view looking the way we want it, and provide modifiers that let us apply the full set of customizations in a single line.
 
 For example, here’s a button that has its styling declared inline:
 

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Role-Based Access Control and Claims with Angular and IdentityServer4
 description: Article(s) > Role-Based Access Control and Claims with Angular and IdentityServer4
-icon: fa-brands fa-anuglar
+icon: fa-brands fa-angular
 category: 
   - Node.js
   - Angular.js

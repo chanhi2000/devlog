@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Securing Requests from Angular to Web API With Access Tokens
 description: Article(s) > Securing Requests from Angular to Web API With Access Tokens
-icon: fa-brands fa-anuglar
+icon: fa-brands fa-angular
 category: 
   - Node.js
   - Angular.js

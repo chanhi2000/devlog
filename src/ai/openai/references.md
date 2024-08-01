@@ -404,8 +404,8 @@ head:
 
 ## 숲속얘기의 조용한 카페
 
-- [이미지 해석을 ChatGPT4와 ChatGPT4o에게 시켜보고 확인한 차이](https://blog.naver.com/fstory97/223451932063)
-- [최신 인공지능은 얼마나 똑똑할까? ChatGPT 너는 IQ가 얼마야?](https://blog.naver.com/fstory97/223480182064?)
+- [이미지 해석을 ChatGPT4와 ChatGPT4o에게 시켜보고 확인한 차이](https://m.blog.naver.com/fstory97/223451932063)
+- [최신 인공지능은 얼마나 똑똑할까? ChatGPT 너는 IQ가 얼마야?](https://m.blog.naver.com/fstory97/223480182064?)
 
 ---
 

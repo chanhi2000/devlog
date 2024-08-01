@@ -35,7 +35,8 @@ head:
 - [Giving Lambda functions access to resources in an Amazon VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html)
 - [What is VPC peering?](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
 - [AWS가 제공하는 고성능 컴퓨터 서비스(HPC on AWS)를 사용해야 하는 이유](https://aws.amazon.com/ko/blogs/tech/introduction-of-hpc-on-aws/)
-
+- [Amazon Q Developer, 사내 소스 기반 IDE용 코드 추천 기능 출시](https://aws.amazon.com/ko/blogs/korea/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/)
+- [Valkey 및 Redis 오픈 소스용 오픈 소스 클라이언트 라이브러리, Valkey GLIDE 소개](https://aws.amazon.com/ko/blogs/tech/introducing-valkey-glide-an-open-source-client-library-for-valkey-and-redis-open-source-kr/)
 ---
 
 ## DZone
@@ -209,21 +210,21 @@ head:
 
 ## 개발하는 기획자 기획하는 개발자
 
-- [탄력적 IP 적용하기](https://blog.naver.com/gi_balja/223394021270)
-- [Route53과 도메인 연결](https://blog.naver.com/gi_balja/223398889777)
-- [AWS 로드 밸런서 적용하기](https://blog.naver.com/gi_balja/223401436302)
-- [AWS RDS 연결하기](https://blog.naver.com/gi_balja/223402753221)
-- [AWS S3](https://blog.naver.com/gi_balja/223407211913)
-- [AWS S3와 CloudFront](https://blog.naver.com/gi_balja/223408217352)
-- [S3 리액트 자동 배포 (Github Action 사용)](https://blog.naver.com/gi_balja/223410998889)
-- [AWS Lambda](https://blog.naver.com/gi_balja/223415212877)
-- [AWS API Gateway](https://blog.naver.com/gi_balja/223414349399)
-- [AWS SES와 Nodemailer](https://blog.naver.com/gi_balja/223414001298)
-- [AWS API Gateway와 Lambda 연동하기](https://blog.naver.com/gi_balja/223417844588)
-- [AWS 서버리스와 Nest.js, RDS 연동](https://blog.naver.com/gi_balja/223421657878)
-- [AWS 서버리스 기초](https://blog.naver.com/gi_balja/223421350581)
-- [AWS VPC를 위한 네트워크 지식 - IP 기초편](https://blog.naver.com/gi_balja/223425136822)
-- [AWS VPC를 위한 네트워크 지식 - 서브넷](https://blog.naver.com/gi_balja/223431369381)
+- [탄력적 IP 적용하기](https://m.blog.naver.com/gi_balja/223394021270)
+- [Route53과 도메인 연결](https://m.blog.naver.com/gi_balja/223398889777)
+- [AWS 로드 밸런서 적용하기](https://m.blog.naver.com/gi_balja/223401436302)
+- [AWS RDS 연결하기](https://m.blog.naver.com/gi_balja/223402753221)
+- [AWS S3](https://m.blog.naver.com/gi_balja/223407211913)
+- [AWS S3와 CloudFront](https://m.blog.naver.com/gi_balja/223408217352)
+- [S3 리액트 자동 배포 (Github Action 사용)](https://m.blog.naver.com/gi_balja/223410998889)
+- [AWS Lambda](https://m.blog.naver.com/gi_balja/223415212877)
+- [AWS API Gateway](https://m.blog.naver.com/gi_balja/223414349399)
+- [AWS SES와 Nodemailer](https://m.blog.naver.com/gi_balja/223414001298)
+- [AWS API Gateway와 Lambda 연동하기](https://m.blog.naver.com/gi_balja/223417844588)
+- [AWS 서버리스와 Nest.js, RDS 연동](https://m.blog.naver.com/gi_balja/223421657878)
+- [AWS 서버리스 기초](https://m.blog.naver.com/gi_balja/223421350581)
+- [AWS VPC를 위한 네트워크 지식 - IP 기초편](https://m.blog.naver.com/gi_balja/223425136822)
+- [AWS VPC를 위한 네트워크 지식 - 서브넷](https://m.blog.naver.com/gi_balja/223431369381)
 
 ---
 
@@ -241,7 +242,7 @@ head:
 
 ## nanotoly
 
-- [AWS API gateway를 통해서 AWS IOT 에 메세지 PUBLISH 하기](https://blog.naver.com/nanotoly/223408850676)
+- [AWS API gateway를 통해서 AWS IOT 에 메세지 PUBLISH 하기](https://m.blog.naver.com/nanotoly/223408850676)
 
 ---
 
@@ -274,7 +275,7 @@ head:
 
 ## 병훈's blog
 
-- [일 시작 전까지 이것만큼은 끝내자](https://blog.naver.com/thdqudgns96/223436562768?)
+- [일 시작 전까지 이것만큼은 끝내자](https://m.blog.naver.com/thdqudgns96/223436562768?)
 
 ---
 

@@ -188,7 +188,7 @@ head:
 
 ### 비탐인
 
-- [Spring Test 수행 중 나는 XML parsing 오류 하나.  소프트웨어 개발](https://blog.naver.com/anabaral/130041099653)
+- [Spring Test 수행 중 나는 XML parsing 오류 하나.  소프트웨어 개발](https://m.blog.naver.com/anabaral/130041099653)
 >
 > Spring 에서 설정 파일 읽어들일 때 이런 에러를 만날 때가 있다.
 > `javax.xml.parsers.ParserConfigurationException`: Unable to validate using XSD: Your JAXP provider [org.apache.crimson.jaxp.DocumentBuilderFactoryImpl@131f71a] does not support XML Schema. Are you running on Java 1.4 or below with Apache Crimson? Upgrade to Apache Xerces (or Java 1.5) for full XSD support.
@@ -439,6 +439,7 @@ head:
 - [9.5. 책 컨트롤러 422 오류 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/95-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-422-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [9.6. 책 컨트롤러 수정 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/96-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%88%98%EC%A0%95-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [10.1. 책 삭제 기능 개요](https://ysedeveloper.tistory.com/m/entry/101-%EC%B1%85-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EC%9A%94)
+- [10.2. 책 서비스 클래스에 삭제 기능 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/102-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 

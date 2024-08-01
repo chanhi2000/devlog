@@ -787,14 +787,14 @@ head:
 
 ## [ 프로페셔널 프로그래머 ]
 
-- [[ Python By Example #02 ]](https://blog.naver.com/cybervictor008/223397016205)
-- [[ Python By Example #05 ]](https://blog.naver.com/cybervictor008/223416453972)
+- [[ Python By Example #02 ]](https://m.blog.naver.com/cybervictor008/223397016205)
+- [[ Python By Example #05 ]](https://m.blog.naver.com/cybervictor008/223416453972)
 
 ---
 
 ## Codeit
 
-- [[코딩백과101] 파이썬 에러 TOP7 (오류 메시지 종류와 해결 방법)](https://blog.naver.com/codeitofficial/223397232283)
+- [[코딩백과101] 파이썬 에러 TOP7 (오류 메시지 종류와 해결 방법)](https://m.blog.naver.com/codeitofficial/223397232283)
 
 ---
 

@@ -77,6 +77,8 @@ tag:
 - [`@2fEJ` / 프로덕트 매니저의 역할과 PRD의 전략적 가치 - PM/PO 이야기 #37](https://brunch.co.kr/@@2fEJ/1446)
 - [`@2fEJ` / 기능 조직과 크로스펑셔널 조직에서 PRD 활용 여부 - PM/PO 이야기 #38](https://brunch.co.kr/@@2fEJ/1450)
 - [`@2fEJ` / 혁신적인 제품 개발을 위한 PRD 8가지 핵심 접근법 - PM/PO 이야기 39](https://brunch.co.kr/@@2fEJ/1449)
+- [`@2fEJ` / 혁신적인 제품 개발을 위한 PRD 8가지 핵심 접근법 - PM/PO 이야기 #39](https://brunch.co.kr/@@2fEJ/1449)
+- [`@2fEJ` / 사용자 중심의 제품 개발: 성공을 위한 접근법 - PM/PO 이야기 #40](https://brunch.co.kr/@@2fEJ/1448)
 
 <!-- END: brunch.co.kr -->
 

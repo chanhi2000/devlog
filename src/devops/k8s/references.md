@@ -384,4 +384,10 @@ head:
 
 ---
 
+## Mumbling about computers
+
+- [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
+
+---
+
 <TagLinks />

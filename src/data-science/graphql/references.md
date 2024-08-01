@@ -91,4 +91,10 @@ head:
 
 ---
 
+## Marc-Andre Giroux's Blog
+
+- [Why, after 8 years, I still like GraphQL sometimes in the right context](https://www.magiroux.com/eight-years-of-graphql)
+
+---
+
 <TagLinks />

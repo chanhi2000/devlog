@@ -117,6 +117,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 7일차 TIL - 스택](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-7%EC%9D%BC%EC%B0%A8-TIL-%EC%8A%A4%ED%83%9D)
 - [`@dongha1992` / 99클럽 코테 스터디 8일차 TIL - 스택](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-8%EC%9D%BC%EC%B0%A8-TIL-%EC%8A%A4%ED%83%9D)
 - [`@dongha1992` / 99클럽 코테 스터디 9일차 TIL - 힙](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-9%EC%9D%BC%EC%B0%A8-TIL-%ED%9E%99)
+- [`@dongha1992` / 99클럽 코테 스터디 10일차 TIL - 힙](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-9%EC%9D%BC%EC%B0%A8-TIL-%ED%9E%99-xw5kao7v)
 
 <!-- END: velog.io java -->
 
@@ -258,7 +259,7 @@ tag:
 - [싱글톤 패턴이 필요한 이유와 실제 서비스에 적용까지](https://injae-kim.github.io/dev/2020/08/06/singleton-pattern-usage.html)
 - [오라클 버전과 JDBC 버전(JDK버전 확인) / What are the Oracle JDBC releases Vs JDK versions?](https://developerntraveler.tistory.com/3)
 - [Unit Testing is Overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
-- [AXIS Apache XML WebService](https://blog.naver.com/nova750/70003702622)
+- [AXIS Apache XML WebService](https://m.blog.naver.com/nova750/70003702622)
 
 ### cmhteixeira
 
@@ -393,7 +394,7 @@ tag:
 
 ### EunYeong's Note
 
-- [[자바스터디]Java 초심 프로젝트 1일차(About Java)](https://blog.naver.com/koreannick/220587772504)
+- [[자바스터디]Java 초심 프로젝트 1일차(About Java)](https://m.blog.naver.com/koreannick/220587772504)
 
 ### Just try it!
 
@@ -830,6 +831,7 @@ tag:
 - [왜 코루틴을 써야할까?](https://yeonyeon.tistory.com/m/332)
 - [\[Coroutine\] 코루틴 빌더, 코루틴 컨텍스트](https://yeonyeon.tistory.com/m/333)
 - [\[Coroutine\] 코루틴 디스패처](https://yeonyeon.tistory.com/m/336)
+- [\[Coroutine\] 코루틴과 공유 상태](https://yeonyeon.tistory.com/m/337)
 
 ### Yun Blog
 

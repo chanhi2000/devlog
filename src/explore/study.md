@@ -449,7 +449,7 @@ https://www.joinc.co.kr/w/Site
 {
   "title": " 엑셀 교육 과정 목록 &  포스팅 기준 [2024.05.24]",
   "desc": "키샤의 IT 핵심요약",
-  "link": "https://blog.naver.com/kishawing/223440076129",
+  "link": "https://m.blog.naver.com/kishawing/223440076129",
   "logo": "/explore/articles/blog.naver.com/favicon.ico",
   "background": "rgba(237,126,2,0.2)"
 }
@@ -853,6 +853,13 @@ https://www.joinc.co.kr/w/Site
   url="https://www.cloudskillsboost.google/course_templates/1076/labs/488228"
   logo="https://www.cloudskillsboost.google/qwiklabs_logo_900x887.png"
   preview="https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D"/>
+
+<SiteInfo
+  name="Reverse Engineering For Everyone!"
+  desc="You can get the entire tutorial set in PDF or MOBI format. All these ebook versions will get updated automatically as new tutorials will be added."
+  url="https://0xinfection.github.io/reversing/"
+  logo="https://0xinfection.github.io/reversing/gitbook/images/favicon.ico"
+  preview="https://github.com/mytechnotalent/Reverse-Engineering/raw/main/Reverse%20Engineering.png?raw=true"/>
 
 <!-- END: Crashcourse -->
 

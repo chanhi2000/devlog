@@ -2161,5 +2161,12 @@
     "topics": ["ai", "analytics", "big-data", "clickhouse", "cpp", "dbms", "distributed-database", "hacktoberfest", "mpp", "olap", "rust", "sql"],
     "avatar": "https://avatars.githubusercontent.com/u/54801242?v=4",
     "banner": ""
+  }, {
+    "repo": "googlevr/blocks",
+    "desc": "An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift",
+    "officialSite": "https://blog.google/products/google-ar-vr/blocks-easily-create-3d-objects-vr/",
+    "topics": ["3d", "creation", "vr"],
+    "avatar": "https://avatars.githubusercontent.com/u/19274818?v=4",
+    "banner": ""
   }
 ]

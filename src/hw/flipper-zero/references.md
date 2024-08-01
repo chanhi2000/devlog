@@ -52,19 +52,19 @@ head:
 ## HiGenis
 
 - [STM32 External Loader](https://higenis.notion.site/STM32-External-Loader-e7196eefefff435ab1ff26778f7f1360)
-- [NPU 2Tops가 내장된 Allwinner T527 개발 보드 - MYIRTech MYD-LT527](https://blog.naver.com/chandong83/223394412555)
-- [[공지] [월간 HG Labs] 3월 세미나 STM32 External Loader 공지 사항 - 참석자들 필독 요망](https://blog.naver.com/chandong83/223397077312)
-- [ESP32-S3-ETH-CAN485 보드 자료](https://blog.naver.com/chandong83/223397555779)
-- [STM32G4-2Relay 보드 검증 완료](https://blog.naver.com/chandong83/223404390101)
-- [와... 조...졸았나....](https://blog.naver.com/chandong83/223406717717)
-- [USB to CAN 동글 우분투에서 테스트하기](https://blog.naver.com/chandong83/223407505153) 
-- [ESP32S3_ETH-CAN485 개발 보드 자료 링크(예제,회로도 등)](https://blog.naver.com/chandong83/223422514638)
-- [APM32E103-KIT 개발보드 스토어 판매!!!](https://blog.naver.com/chandong83/223435538204)
-- [인바디 체중계 - 다이얼 H30NWi 개봉기](https://blog.naver.com/chandong83/223441854445)
-- [AllwinnerTech T507 안드로이드 빌드 방법](https://blog.naver.com/chandong83/223450810794)
-- [안드로이드 BSP빌드시 Jack-server 에러(AW A40i)](https://blog.naver.com/chandong83/223450764691)
-- [TouchGFX Failed to load native freetype library! 에러 해결 방법](https://blog.naver.com/chandong83/223451548021)
-- [인바디 체중계- 다이얼 H30NWi - 앱 활용기](https://blog.naver.com/chandong83/223456287268)
+- [NPU 2Tops가 내장된 Allwinner T527 개발 보드 - MYIRTech MYD-LT527](https://m.blog.naver.com/chandong83/223394412555)
+- [[공지] [월간 HG Labs] 3월 세미나 STM32 External Loader 공지 사항 - 참석자들 필독 요망](https://m.blog.naver.com/chandong83/223397077312)
+- [ESP32-S3-ETH-CAN485 보드 자료](https://m.blog.naver.com/chandong83/223397555779)
+- [STM32G4-2Relay 보드 검증 완료](https://m.blog.naver.com/chandong83/223404390101)
+- [와... 조...졸았나....](https://m.blog.naver.com/chandong83/223406717717)
+- [USB to CAN 동글 우분투에서 테스트하기](https://m.blog.naver.com/chandong83/223407505153) 
+- [ESP32S3_ETH-CAN485 개발 보드 자료 링크(예제,회로도 등)](https://m.blog.naver.com/chandong83/223422514638)
+- [APM32E103-KIT 개발보드 스토어 판매!!!](https://m.blog.naver.com/chandong83/223435538204)
+- [인바디 체중계 - 다이얼 H30NWi 개봉기](https://m.blog.naver.com/chandong83/223441854445)
+- [AllwinnerTech T507 안드로이드 빌드 방법](https://m.blog.naver.com/chandong83/223450810794)
+- [안드로이드 BSP빌드시 Jack-server 에러(AW A40i)](https://m.blog.naver.com/chandong83/223450764691)
+- [TouchGFX Failed to load native freetype library! 에러 해결 방법](https://m.blog.naver.com/chandong83/223451548021)
+- [인바디 체중계- 다이얼 H30NWi - 앱 활용기](https://m.blog.naver.com/chandong83/223456287268)
 ---
 
 ## The Copetti site

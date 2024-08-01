@@ -47,12 +47,12 @@ head:
 
 ## 제이의 IT 스토리
 
-- [php 로또645 등수 계산](https://blog.naver.com/oralol/223401340442?)
-- [API 이해하기 (feat. PHP)](https://blog.naver.com/oralol/223415862478?)
-- [QR코드 생성기 내 서버에 탑재하기](https://blog.naver.com/oralol/223414704529)
-- [PHP API 코딩 실습 (서버용)](https://blog.naver.com/oralol/223417581963)
-- [서버 이전 시 트래픽 리다이렉션 방법](https://blog.naver.com/oralol/223435443197)
-- [체크박스 선택 방법 - 범위 입력 선택](https://blog.naver.com/oralol/223435360550?)
+- [php 로또645 등수 계산](https://m.blog.naver.com/oralol/223401340442?)
+- [API 이해하기 (feat. PHP)](https://m.blog.naver.com/oralol/223415862478?)
+- [QR코드 생성기 내 서버에 탑재하기](https://m.blog.naver.com/oralol/223414704529)
+- [PHP API 코딩 실습 (서버용)](https://m.blog.naver.com/oralol/223417581963)
+- [서버 이전 시 트래픽 리다이렉션 방법](https://m.blog.naver.com/oralol/223435443197)
+- [체크박스 선택 방법 - 범위 입력 선택](https://m.blog.naver.com/oralol/223435360550?)
 
 ---
 

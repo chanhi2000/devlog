@@ -122,7 +122,7 @@ tag:
 - [\[복붙하세요\] 별 모양 특수문자 모음집(★☆✪✫✦✧✬✭)](https://coding-factory.tistory.com/m/1049)
 - [\[복붙하세요\] 체크 표시 특수 문자 모음집(✓ ✔ ☑ √ ▣)](https://coding-factory.tistory.com/m/1052)
 - [\[복붙하세요\] 얼굴 표정(웃는, 우는, 화난 표정) 특수문자, 이모지 모음집](https://coding-factory.tistory.com/m/1081)
- 
+
 ---
 
 ## 멈춤보단 천천히라도
@@ -131,6 +131,11 @@ tag:
 - [윈도우와 우분투 듀얼 부팅시 윈도우 시간 안 맞는 문제 해결](https://webnautes.tistory.com/2319)
 - [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
 - [Windows에 설치한 WSL2 및 Ubuntu 삭제하는 방법](https://webnautes.tistory.com/m/2013)
+- [Rufus를 사용하여 Ubuntu 설치용 USB 메모리를 만드는 방법 (UEFI/GPT/MBR)](https://webnautes.tistory.com/m/2119)
+- [Windows 11에서 윈도우 업데이트 후 사라진 Grub 부팅 메뉴 복구하기](https://webnautes.tistory.com/m/2361)
+- [grub 복구하기](https://webnautes.tistory.com/m/1147)
+
+<!-- END: webnautes.tistory.com -->
 
 ---
 
@@ -148,13 +153,13 @@ tag:
 
 ## Microsoft MVP 프로그래머 김성엽
 
-- [Windows 샌드박스](https://blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&?blogId=tipsware/223417380962)
+- [Windows 샌드박스](https://m.blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&?blogId=tipsware/223417380962)
 
 ---
 
 ## Programming
 
-- [윈도우 작업 중 화면 밖으로 사라진 프로그램(작업창 사라짐 ㅠㅠ) 다시 화면 안으로 나오도록 하는 방법 ](https://blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&blogId=developer_life/221531598585)
+- [윈도우 작업 중 화면 밖으로 사라진 프로그램(작업창 사라짐 ㅠㅠ) 다시 화면 안으로 나오도록 하는 방법 ](https://m.blog.naver.com/PostView.naver?redirect=Dlog&widgetTypeCall=true&blogId=developer_life/221531598585)
 
 ---
 

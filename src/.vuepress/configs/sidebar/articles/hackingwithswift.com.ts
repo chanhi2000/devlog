@@ -509,12 +509,22 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/14/overview.md',
+              '/explore/articles/hackingwithswift.com/read/14/01-setting-up.md', 
+              '/explore/articles/hackingwithswift.com/read/14/02-getting-up-and-running-skcropnode.md', 
+              '/explore/articles/hackingwithswift.com/read/14/03-penguin-show-thyself-skaction-movebyxyduration.md', 
+              '/explore/articles/hackingwithswift.com/read/14/04-whack-to-win-skaction-sequences.md', 
+              '/explore/articles/hackingwithswift.com/read/14/05-wrap-up.md', 
             ]
           }, {
             text: 'Project 15: Animation',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/15/overview.md',
+              '/explore/articles/hackingwithswift.com/read/15/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/15/02-preparing-for-action.md',
+              '/explore/articles/hackingwithswift.com/read/15/03-switch-case-animate-animatewithduration.md',
+              '/explore/articles/hackingwithswift.com/read/15/04-transform-cgaffinetransform.md',
+              '/explore/articles/hackingwithswift.com/read/15/05-wrap-up.md',
             ]
           }, {
             text: 'Project 16: Capital Cities',

@@ -22,6 +22,7 @@ head:
       content: "Project 14: Whack-a-Penguin"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/14/overview.html
+prev: /explore/articles/hackingwithswift.com/read/13/06-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,55 @@ Build a game using SKCropNode and a sprinkling of Grand Central Dispatch.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/14/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting up and running: SKCropNode | Hacking with iOS",
+  "desc": "Getting up and running: SKCropNode",
+  "link": "/explore/articles/hackingwithswift.com/read/14/02-getting-up-and-running-skcropnode.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Penguin, show thyself: SKAction moveBy(x:y:duration:) | Hacking with iOS",
+  "desc": "Penguin, show thyself: SKAction moveBy(x:y:duration:)",
+  "link": "/explore/articles/hackingwithswift.com/read/14/03-penguin-show-thyself-skaction-movebyxyduration.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Whack to win: SKAction sequences | Hacking with iOS",
+  "desc": "Whack to win: SKAction sequences",
+  "link": "/explore/articles/hackingwithswift.com/read/14/04-whack-to-win-skaction-sequences.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/14/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

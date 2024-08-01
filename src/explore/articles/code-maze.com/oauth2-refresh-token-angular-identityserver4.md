@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Implementing OAuth2 Refresh Token with Angular and IdentityServer4
 description: Article(s) > Implementing OAuth2 Refresh Token with Angular and IdentityServer4
-icon: fa-brands fa-anuglar
+icon: fa-brands fa-angular
 category: 
   - Node.js
   - Angular.js
