@@ -136,6 +136,10 @@ head:
 - [How Netflix Ensures Highly-Reliable Online Stateful Systems](https://www.infoq.com/articles/netflix-highly-reliable-stateful-systems/)
 - [The Evolution of Use Cases in Modern Software Engineering](https://www.infoq.com/podcasts/evolution-use-cases-modern-software-engineering/)
 - [Platform as a Runtime - the Next Step in Platform Engineering](https://infoq.com/articles/platform-runtime-engineering)
+- [Are You Done Yet? Mastering Long-Running Processes in Modern Architectures](https://infoq.com/articles/mastering-long-running-processes/)
+- [Thinking Like an Architect](https://infoq.com/articles/thinking-like-architect/)
+
+<!-- END: infoq.com -->
 
 ---
 
@@ -394,6 +398,12 @@ head:
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
 - [마이크로서비스에서 데이터를 중앙화하면 안 되는 3가지 이유](https://itworld.co.kr/news/198864)
+- ["설계부터 더 나은 API" REST 대신 그래프QL을 선택해야 하는 이유](https://itworld.co.kr/news/345601)
+- [“개방형 표준이란 이런 것” 아파치 아이스버그가 주목받는 이유](https://itworld.co.kr/news/346238)
+- ["철저한 준비만이 살 길" 주의해야 할 또 다른 데브옵스 실수 10가지](https://itworld.co.kr/news/345300)
+- [로우코드·노코드 플랫폼 선택 전 해야 할 7가지 질문](https://itworld.co.kr/news/346182)
+
+<!-- END: itworld.co.kr -->
 
 ---
 
@@ -705,6 +715,12 @@ head:
 ## 재그지그의 개발 블로그
 
 - [그림으로 이해하는 서버 구조와 기술](https://wormwlrm.github.io/2024/07/27/Structure-and-Technology-of-Server.html)
+
+---
+
+## 데엔잘하고싶은데엔🔥💎
+
+- [항공권 숙소 예약, 여행플랫폼 숙박앱의 UX 다크패턴](https://pearlluck.tistory.com/m/823)
 
 ---
 

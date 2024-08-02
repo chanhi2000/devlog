@@ -798,6 +798,13 @@ https://paperlined.org/
   preview="https://kt.academy/images/logo_full.png"/>
 
 <SiteInfo
+  name="Blog - Koin - Cloud-Inject.io"
+  desc="Keep yourself informed about the latest developments in the Koin framework and Cloud-Inject Observability Dev platform directly from the creators."
+  url="https://blog.kotzilla.io/"
+  logo="https://blog.kotzilla.io/hubfs/favicon.png"
+  preview="https://blog.kotzilla.io/hubfs/banner.png"/>
+
+<SiteInfo
   name="Tecmint: Linux Howtos, Tutorials & Guides"
   desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
   url="https://tecmint.com/"

@@ -281,10 +281,10 @@
     "officialSite": ""
   }, {
     "repo": "comfyanonymous/ComfyUI",
-    "desc": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
-    "officialSite": "",
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "officialSite": "https://www.comfy.org/",
     "topics": ["pytorch", "stable-diffusion"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/121283862?v=4",
     "banner": ""
   }, {
     "repo": "pynecone-io/pynecone",

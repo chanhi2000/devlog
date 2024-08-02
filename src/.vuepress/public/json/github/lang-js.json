@@ -3483,5 +3483,12 @@
     "topics": ["buisness-card", "cardie", "css", "django", "html", "javascript", "python", "web"],
     "avatar": "https://avatars.githubusercontent.com/u/92690073?v=4",
     "banner": ""
+  }, {
+    "repo": "dessant/buster",
+    "desc": "Captcha solver extension for humans, available for Chrome, Edge and Firefox",
+    "officialSite": "https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/",
+    "topics": ["browser-extension", "captcha", "captcha-solver", "captcha-solving", "chrome-extension", "firefox-extension", "recaptcha"],
+    "avatar": "https://avatars.githubusercontent.com/u/7513068?v=4",
+    "banner": ""
   }
 ]

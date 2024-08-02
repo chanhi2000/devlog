@@ -1632,6 +1632,13 @@ https://mdis.kostat.go.kr/index.do
   logo="https://developers.naver.com/inc/devcenter/dist/0739723a031b354f5311473e386d3eb1.png"
   preview="https://developers.naver.com/inc/devcenter/images/main_og.jpg"/>
 
+<SiteInfo
+  name="Ask WWDC"
+  desc="Catching up on WWDC? Ask a question and we'll give you a concise summary and recommend the most relevant sessions to watch!"
+  url="https://askwwdc.com/"
+  logo="https://askwwdc.com/favicon.ico"
+  preview="https://askwwdc.com/card.png"/>
+
 ```component VPCard
 {
   "title": "Free Car Service Manuals from Operation CHARM — No strings attached!",

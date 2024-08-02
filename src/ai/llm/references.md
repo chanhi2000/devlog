@@ -78,6 +78,7 @@ head:
 ## Brunch
 
 - [`@ZVA` / 어텐션맵은 뭐고 트랜스포머는 또 뭐냐...LLM 입문](https://brunch.co.kr/@@ZVA/702)
+- [`@2YWz` / Enterprise LLM 사용자 인터페이스](https://brunch.co.kr/@@2YWz/114)
 
 ---
 

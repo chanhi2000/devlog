@@ -483,6 +483,7 @@ export const sidebarEn = sidebar({
             asb.learnk8s("js-node"),
             asb.yozm("js-node"),
             asb.kakaoTech("js-node"),
+            asb.kakaoEnt("js-node"),
             asb.d2("js-node"), 
             asb.nhn("js-node"),
             asb.linecorp("js-node"),
@@ -1126,7 +1127,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/go-grafana/articles/README.md',
-            asb.yozm("grafana"),
+            asb.freecodecamp("go-grafana"),
+            asb.yozm("go-grafana"),
           ]
         }
       ]
@@ -1616,7 +1618,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Writerside',
       collapsible: true,
-      icon: 'iconfont icon-jetbranis',
+      icon: 'iconfont icon-jetbrains',
       children: [
         '/tool/jetbrains-writerside/README.md',
         '/tool/jetbrains-writerside/references.md',

@@ -37,6 +37,7 @@ head:
 ## üntil
 
 - [`@morethanmin` / firebase로 react 배포하고 *.web.app 도메인 무료로 사용하기](https://until.blog/@morethanmin/firebase%EB%A1%9C-react-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0---web-app-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`@susmisc14` / React + Typescript 프로젝트에 SSR을 적용해 파이어베이스에 배포하기(1)](https://until.blog/@susmisc14/react---typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-ssr%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%B4-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-)
 
 <!-- END: until.blog -->
 

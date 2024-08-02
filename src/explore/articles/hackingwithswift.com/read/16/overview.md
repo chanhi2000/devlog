@@ -22,7 +22,7 @@ head:
       content: "Project 16: Capital Cities"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/16/overview.html
-prev: /explore/articles/hackingwithswift.com/read/README.md
+prev: /explore/articles/hackingwithswift.com/read/15/05-wrap-up.md
 isOriginal: false
 ---
 
@@ -58,7 +58,45 @@ Teach users about geography while you learn about MKMapView and annotations.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/16/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Up and running with MapKit | Hacking with iOS",
+  "desc": "Up and running with MapKit",
+  "link": "/explore/articles/hackingwithswift.com/read/16/02-up-and-running-with-mapkit.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Annotations and accessory views: MKPinAnnotationView | Hacking with iOS",
+  "desc": "Annotations and accessory views: MKPinAnnotationView",
+  "link": "/explore/articles/hackingwithswift.com/read/16/03-annotations-and-accessory-views-mkpinannotationview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/16/04-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

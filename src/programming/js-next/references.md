@@ -59,6 +59,14 @@ head:
 
 - [`@composite` / Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
 
+## BLEX
+
+- [`@kimyoungjo` / 07.23 개발 일지 \[YOUR.PUBG 제작기\]](https://blex.me/@kimyoungjo/0723-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-yourpubg-%EC%A0%9C%EC%9E%91%EA%B8%B0)
+- [`@kimyoungjo` / 07.24 개발 일지 \[YOUR.PUBG 제작기\]](https://blex.me/@kimyoungjo/0724-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-yourpubg-%EC%A0%9C%EC%9E%91%EA%B8%B0)
+- [`@kimyoungjo` / 07.25 개발 일지 \[YOUR.PUBG 제작기\]](https://blex.me/@kimyoungjo/0725-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-yourpubg-%EC%A0%9C%EC%9E%91%EA%B8%B0)
+
+<!-- END: blex.me -->
+
 ---
 
 ## üntil

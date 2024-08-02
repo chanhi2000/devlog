@@ -100,6 +100,7 @@ tag:
 - [`@jwlee010523` / SwiftUI - State와 Binding](https://velog.io/@jwlee010523/SwiftUI-State-Binding)
 - [`@jwlee010523` / SwiftUI - Property Wrapper](https://velog.io/@jwlee010523/SwiftUI-PropertyWrapper)
 - [`@jwlee010523` / Swift - 함수(Functions)](https://velog.io/@jwlee010523/Swift-Functions)
+- [`@jwlee010523` / Swift - 클로저(Closures)](https://velog.io/@jwlee010523/Swift-Closures)
 
 <!-- END: velog.io -->
 
@@ -216,6 +217,7 @@ tag:
 - [iOS app setup for remote push notifications](https://nilcoalescing.com/blog/RemotePushSetup)
 - [Testing remote push notifications on iOS simulator in Xcode 14](https://nilcoalescing.com/blog/TestingRemotePushOniOSSimulator)
 - [Scenes types in a SwiftUI Mac app](https://nilcoalescing.com/blog/ScenesTypesInASwiftUIMacApp/)
+- [Count the number of objects that pass a test in Swift using `count(where:)`](https://nilcoalescing.com/blog/CountTheNumberOfObjectsThatPassATestInSwift/)
 
 ---
 
@@ -545,6 +547,7 @@ tag:
 ## Emerge Tools
 
 - [Make Your iOS App Smaller with Dynamic Frameworks](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
+- [Async await in Swift: The Full Toolkit](https://www.emergetools.com/blog/posts/swift-async-await-the-full-toolkit)
 
 ---
 
@@ -555,6 +558,7 @@ tag:
 - [Swift Isolation Intuition](https://www.massicotte.org/isolation-intuition)
 - [Concurrency in Swift 6: SE-0401](https://www.massicotte.org/concurrency-swift-6-se-401)
 - [SE-0431: `@isolated(any)` Function Types](https://www.massicotte.org/concurrency-swift-6-se-0431)
+- [Non-Sendable types are cool too you know](https://www.massicotte.org/non-sendable)
 
 ---
 
@@ -902,6 +906,12 @@ tag:
 ## Appmilla – FinTech App Agency
 
 - [Harnessing the Power of Kotlin Multiplatform: Combining Native and Shared UIs](https://appmilla.com/latest/harnessing-the-power-of-kotlin-multiplatform-combining-native-and-shared-uis/)
+
+---
+
+## Ashish Kakkad
+
+- [How to add animation to MeshGradient in SwiftUI?](https://ashishkakkad.com/2024/07/how-to-add-animation-to-meshgradient-in-swiftui)
 
 ---
 

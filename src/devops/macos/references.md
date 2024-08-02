@@ -361,4 +361,10 @@ head:
 
 ---
 
+## 뭐라도 해야 한다면 기록을..
+
+- [\[Intelli-j\] Spotlight.service broken?](https://jakpentest.tistory.com/m/entry/Try-Reinstalling-Spotlightservice)
+
+---
+
 <TagLinks />

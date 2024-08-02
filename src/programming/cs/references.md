@@ -143,6 +143,9 @@ head:
   - [코딩테스트 준비 - 올바른 괄호](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%98%AC%EB%B0%94%EB%A5%B8-%EA%B4%84%ED%98%B8)
   - [코딩테스트 준비 - Valid Parentheses](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C-i67t26g3)
 
+  - [코딩테스트 준비 - Maximum Product of Two Elements in an Array](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---maximum-product-of-two-elements-in-an-array)
+<!-- END: until.blog -->
+
 ---
 
 ## <FontIcon icon="fa-brands fa-redhat"/>Red Hat Developers

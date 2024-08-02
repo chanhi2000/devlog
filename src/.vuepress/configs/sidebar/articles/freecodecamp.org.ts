@@ -200,6 +200,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-database-migrations-in-go", // 2024-06-26
       "go-for-absolute-beginners", // 2024-07-01
     ]],[
+    "go-grafana", [
+      "how-to-set-up-grafana-on-ec2", // 2024-08-02
+    ]],[
     "cs", [
       "how-to-use-oop-in-c-sharp", // 2024-05-01
       "build-crud-operations-with-dotnet-core-handbook", // 2024-05-24
@@ -269,6 +272,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-time-to-live-in-event-driven-architecture", // 2024-06-19
       "upload-large-files-with-aws", // 2024-07-08
       "prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification", // 2024-07-09
+      "how-to-set-up-grafana-on-ec2", // 2024-08-02
     ]],[
     "azure", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -351,6 +355,7 @@ export const template: SidebarInfoTemplate = {
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
       "retrieval-augmented-generation-rag-handbook", // 2024-06-11
       "building-intelligent-apps-with-mistral-ai", // 2024-06-18
+      "learn-rag-fundamentals-and-advanced-techniques", // 2024-08-01
     ]],[
     "math", [
       "linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai", // 2024-05-28
@@ -551,7 +556,9 @@ export const template: SidebarInfoTemplate = {
       "prompt-engineering-basics", // 2024-07-29
       "learn-c-sharp-for-unity-in-spanish", // 2024-07-31
       "how-to-add-jwt-based-authentication-in-nest-js", // 2024-07-31
+      "learn-rag-fundamentals-and-advanced-techniques", // 2024-08-01
       "build-an-invoice-saas-app-with-next-js-and-neon-postgres", // 2024-08-01
+      "how-to-set-up-grafana-on-ec2", // 2024-08-02
     ]],
   ]),
 }

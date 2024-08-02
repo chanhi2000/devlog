@@ -1604,10 +1604,17 @@
     "banner": ""
   }, {
     "repo": "asg017/sqlite-vec",
-    "desc": "Work-in-progress vector search SQLite extension that runs anywhere.",
+    "desc": "A vector search SQLite extension that runs anywhere!",
     "officialSite": "",
-    "topics": [],
+    "topics": ["sqlite", "sqlite-extension"],
     "avatar": "https://avatars.githubusercontent.com/u/15178711?v=4",
+    "banner": ""
+  }, {
+    "repo": "hufrea/byedpi",
+    "desc": "Bypass DPI",
+    "officialSite": "",
+    "topics": ["anticensorship", "dpi", "socks"],
+    "avatar": "https://avatars.githubusercontent.com/u/135158507?v=4",
     "banner": ""
   }
 ]

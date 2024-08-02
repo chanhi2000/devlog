@@ -96,6 +96,16 @@ head:
 }
 ```
 
+```component VPCar
+{
+  "title": "Learn RAG Fundamentals and Advanced Techniques",
+  "desc": "Understanding how to enhance the capabilities of AI and machine learning systems is a valuable skill. One method is Retrieval-Augmented Generation (RAG), a powerful technique that combines retrieval-based methods with generative models to create more...",
+  "link": "/explore/articles/freecodecamp.org/learn-rag-fundamentals-and-advanced-techniques.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -443,6 +443,7 @@ head:
 - [10.2. 책 서비스 클래스에 삭제 기능 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/102-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [10.3. 책 컨트롤러 삭제 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/103-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%82%AD%EC%A0%9C-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [11.1. 책 목록 개요](https://ysedeveloper.tistory.com/m/entry/111-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EA%B0%9C%EC%9A%94)
+- [11.2. 책 리포지터리 인터페이스에 목록 메소드 만들기](https://ysedeveloper.tistory.com/m/entry/112-%EC%B1%85-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%84%B0%EB%A6%AC-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -546,6 +547,10 @@ head:
 ### e-una
 
 - [\[Spring Boot\] DTO 는 왜, 언제 사용할까?](https://ravenkim97.tistory.com/m/484)
+
+### My Developer Planet
+
+- [How to Monitor a Spring Boot App](https://mydeveloperplanet.com/2021/03/03/how-to-monitor-a-spring-boot-app/)
 
 ---
 

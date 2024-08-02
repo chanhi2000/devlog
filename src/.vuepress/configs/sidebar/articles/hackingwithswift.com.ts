@@ -531,12 +531,21 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/16/overview.md',
+              '/explore/articles/hackingwithswift.com/read/16/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/16/02-up-and-running-with-mapkit.md',
+              '/explore/articles/hackingwithswift.com/read/16/03-annotations-and-accessory-views-mkpinannotationview.md',
+              '/explore/articles/hackingwithswift.com/read/16/04-wrap-up.md',
             ]
           }, {
             text: 'Project 17: Space Race',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/17/overview.md',
+              '/explore/articles/hackingwithswift.com/read/17/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/17/02-space-the-final-frontier.md',
+              '/explore/articles/hackingwithswift.com/read/17/03-bring-on-the-enemies-timer-lineardamping-angulardamping.md',
+              '/explore/articles/hackingwithswift.com/read/17/04-making-contact-didbegin.md',
+              '/explore/articles/hackingwithswift.com/read/17/05-wrap-up.md',
             ]
           }, {
             text: 'Project 18: Debugging',

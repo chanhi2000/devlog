@@ -433,4 +433,10 @@ head:
 
 ---
 
+## pdf(s)
+
+<PDF url="https://agner.org/optimize/optimizing_cpp.pdf" />
+
+---
+
 <TagLinks />

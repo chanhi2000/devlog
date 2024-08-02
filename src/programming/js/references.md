@@ -355,6 +355,9 @@ head:
 ## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
 
 - [“브라우저 보편성+네이티브 기능성” 프로그레시브 웹 앱의 이해와 맛보기](https://itworld.co.kr/news/338020)
+- [자바스크립트 개발자가 자주 찾는 10가지 문제와 해결법](https://itworld.co.kr/news/345188)
+
+<!-- END: itworld.co.kr -->
 
 ---
 

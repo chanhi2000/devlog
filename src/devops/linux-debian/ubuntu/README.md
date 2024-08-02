@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Ubuntu
 description: Ubuntu
-icon: fa-brands fa-raspberry-pi
+icon: fa-brands fa-ubuntu
 category:
   - Linux
   - Debian
@@ -10,7 +10,6 @@ category:
 tag:
   - linux
   - debian
-  - raspberry-pi
 ---
 
 # {{ $frontmatter.description }} 관련

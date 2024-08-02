@@ -56,17 +56,31 @@ head:
 - [`@qkrtkdwns3410` - [카프카] `@KafkaListener`](https://velog.io/@qkrtkdwns3410/%EC%B9%B4%ED%94%84%EC%B9%B4-KafkaListener)
 - [`@qkrtkdwns3410` - 카프카 멱등성 프로듀서에 대해..](https://velog.io/@qkrtkdwns3410/%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A9%B1%EB%93%B1%EC%84%B1-%ED%94%84%EB%A1%9C%EB%93%80%EC%84%9C%EC%97%90-%EB%8C%80%ED%95%B4)
 
+<!-- END: velog.io -->
+
 ---
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`somadevtoo` / Difference between Apache Kafka, RabbitMQ, and ActiveMQ](https://dev.to/somadevtoo/difference-between-apache-kafka-rabbitmq-and-activemq-4f1k)
 
+<!-- END: dev.to -->
+
 ---
 
 ## üntil
 
 - [`@thingk0` / 우리가 카프카를 공부해야 하는 이유 - 브로커와 클러스터 그리고 특징 4가지](https://until.blog/@thingk0/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%B9%B4%ED%94%84%EC%B9%B4%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0---%EB%B8%8C%EB%A1%9C%EC%BB%A4%EC%99%80-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%8A%B9%EC%A7%95-4%EA%B0%80%EC%A7%80)
+
+<!-- END: until.blog -->
+
+---
+
+## InfoQ
+
+- [Tales of Kafka @Cloudflare: Lessons Learnt on the Way to 1 Trillion Messages](https://infoq.com/presentations/kafka-cloudflare/)
+
+<!-- END: infoq.com -->
 
 ---
 
@@ -126,5 +140,10 @@ head:
 - [Commit 실패된 메세지 Producer 가 책임질래 Consumer 가 책임질래](https://6161990src.tistory.com/m/147)
 
 ---
+
+## 시뻘건 개발 도전기
+
+- [Apache Kafka의 탄생 배경과 왜 사용해야하는가?](https://maeng-dev.tistory.com/m/158)
+
 
 <TagLinks />

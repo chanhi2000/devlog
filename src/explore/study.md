@@ -85,6 +85,15 @@ head:
   logo="https://devdocs.io/favicon.ico"
   preview="https://devdocs.io/images/icon-320.png"/>
 
+```component VPCard
+{
+  "title": "쉬운 전문용어",
+  "desc": "EKO: 쉬운 컴퓨터 분야 전문용어 번역",
+  "link": "https://easyword.kr/",
+  "background": "rgba(24,160,72,0.2)"
+}
+```
+
 ::: tabs
 
 @tab 정보처리기사
@@ -860,6 +869,13 @@ https://www.joinc.co.kr/w/Site
   url="https://0xinfection.github.io/reversing/"
   logo="https://0xinfection.github.io/reversing/gitbook/images/favicon.ico"
   preview="https://github.com/mytechnotalent/Reverse-Engineering/raw/main/Reverse%20Engineering.png?raw=true"/>
+
+<SiteInfo
+  name="Start Here | Testing Spring Boot Applications Made Simple"
+  desc="Guides, thorough explanations, and best practices on testing Spring Boot applications. Helping developers incorporate testing as a routine rather than a frustrated afterthought."
+  url="https://rieckpil.de/start-here/"
+  logo="https://cdn-aoloc.nitrocdn.com/LjZAnpMBiKRdWkhommfnyugsAOnHWdxL/assets/images/optimized/rev-3141a61/rieckpil.de/wp-content/uploads/fbrfg/8e5eaafee0c7541c305a9df7ae4aba23.apple-touch-icon.png"
+  preview="https://rieckpil.de/wp-content/uploads/2024/01/rieckpil-revamp-main-banner.png"/>
 
 <!-- END: Crashcourse -->
 

@@ -74,13 +74,14 @@ brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   wget xz zsh mac-cleanup-py;
 
 # Install cask(s)
-brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \
+brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \ 
   dbeaver-community rancher eul flameshot flipper font-jetbrains-mono \
-  google-chrome grandperspective iina intellij-idea-ce jordanbaird-ice \
+  google-chrome grandperspective intellij-idea-ce jordanbaird-ice \
   maccy notion opencore-patcher oversight pennywise raycast \
   resilio-sync sf-symbols shottr spectacle sublime-merge sublime-text \
   the-unarchiver taskexplorer temurin11 transmission visual-studio-code \
   vlc wireshark;
+  # aldente
 ```
 
 ---

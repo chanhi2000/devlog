@@ -457,4 +457,22 @@ head:
 
 ---
 
+## 데엔잘하고싶은데엔🔥💎
+
+- [Triton Inference Server 모델서빙2 - 직접 우리 모델을 서빙해보자!](https://pearlluck.tistory.com/m/822)
+
+---
+
+## 드프 DrawingProcess
+
+- [\[Gen AI\] Stable Diffusion WebUI Docker로 환경 설정하기](https://csj000714.tistory.com/m/1178)
+
+---
+
+## My Developer Planet
+
+- [How to Monitor a Spring Boot App](https://mydeveloperplanet.com/2021/03/03/how-to-monitor-a-spring-boot-app/)
+
+---
+
 <TagLinks />

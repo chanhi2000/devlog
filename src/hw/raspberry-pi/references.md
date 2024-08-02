@@ -48,6 +48,7 @@ head:
 ## 멈춤보단 천천히라도
 
 - [Raspberry Pi 5에 OpenCV 설치하는 방법](https://webnautes.tistory.com/m/1885)
+- [Windows에 Raspberry Pi Pico C 개발 환경 만들기](https://webnautes.tistory.com/m/2092)
 
 ---
 

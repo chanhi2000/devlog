@@ -49,7 +49,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720545043594/ddc3d8e
 
 <SiteInfo
   name="Prepare to pass the AWS SysOps Administrator Associate (SOA-C02) Certification"
-  desc="IAre you trying to earn the AWS SysOps Administrator Associate certification? We just released a MASSIVE course on the freeCodeCamp.org YouTube channel that is is designed to help you pass the certification exam and showcase your expertise in AWS tech..."
+  desc="Are you trying to earn the AWS SysOps Administrator Associate certification? We just released a MASSIVE course on the freeCodeCamp.org YouTube channel that is is designed to help you pass the certification exam and showcase your expertise in AWS tech..."
   url="https://freecodecamp.org/news/prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.hashnode.com/res/hashnode/image/upload/v1720545043594/ddc3d8e9-89d6-4e97-b041-d32739e2cf06.png"/>

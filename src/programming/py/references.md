@@ -907,6 +907,8 @@ head:
 - [What is `*args` and how do you use it?](https://mathspp.com/blog/what-is-args-and-how-do-you-use-it?ref=sangkon.com)
 - [Python `deque` tutorial](https://mathspp.com/blog/python-deque-tutorial)
 - [Get terminal size](https://mathspp.com/blog/til/get-terminal-size)
+- [Module itertools overview](https://mathspp.com/blog/module-itertools-overview)
+- [TIL #101 – difference between `__getattr__` and `__getattribute__`](https://mathspp.com/blog/til/difference-between-__getattr__-and-__getattribute__)
 
 <!-- END: mathspp.com -->
 
@@ -1100,6 +1102,12 @@ head:
 - [Python Mappings: A Comprehensive Guide](https://realpython.com/python-mappings/)
 - [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
 - [Creating Great README Files for Your Python Projects Quiz](https://realpython.com/quizzes/readme-python-project/)
+- [Python Type Checking Quiz](https://realpython.com/quizzes/python-type-checking/)
+- [What Is the `__pycache__` Folder in Python?](https://realpython.com/python-pycache/)
+- [Logging in Python](https://realpython.com/python-logging/)
+- [Understanding the Python Mock Object Library](https://realpython.com/python-mock-library/)
+- [Build a Guitar Synthesizer: Play Musical Tablature in Python](https://realpython.com/python-guitar-synthesizer/)
+- [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
 
 <!-- END: realpython.com -->
 

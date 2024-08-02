@@ -17,6 +17,7 @@ tag:
   - devtoolstips.org
   - yozm.wishket.com
   - tech.kakao.com
+  - fe-developers.kakaoent.com
   - d2.naver.com
   - techblog.woowahan.com
   - johnnyreilly.com
@@ -99,6 +100,13 @@ head:
   "background": "rgba(53,79,245,0.2)"
 }
 ```
+
+<SiteInfo
+  name="홈 | 카카오엔터테인먼트 FE 기술블로그"
+  desc="카카오 엔터테인먼트 프론트엔드 개발팀이 관심있는 기술의 경험과 노하우를 공유합니다."
+  url="https://fe-developers.kakaoent.com/"
+  logo="https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded"
+  preview="https://fe-developers.kakaoent.com/static/kakaoEnt-e1e7f4766847f540602de68fd4e88456.png"/>
 
 <SiteInfo
   name="NAVER D2"
@@ -565,6 +573,24 @@ head:
 ```
 
 <!-- END: techblog.woowahan.com -->
+
+---
+
+## 카카오엔터테인먼트 FE 기술블로그
+
+> fe-developers.kakaoent.com
+
+```component VPCard
+{
+  "title": "BackstopJS 적용 후기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그",
+  "desc": "이번 글에서는 BackstopJS 적용 이후 6개월 동안 카카오엔터테인먼트 스토리 FE팀에선 BackstopJS를 활용하며 어떤 식으로 도움이 되었는지 살펴보고, 겪었던 이슈와 테스트에 자동화를 적용한 사례를 소개하도록 하겠습니다.",
+  "link": "/explore/articles/fe-developers.kakaoent.com/230816-backstopjs-vrt2.md",
+  "logo": "https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded",
+  "background": "rgba(254,189,1,0.2)"
+}
+```
+
+<!-- END: fe-developers.kakaoent.com -->
 
 ---
 

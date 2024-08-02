@@ -2175,5 +2175,19 @@
     "topics": ["benchmark"],
     "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
     "banner": ""
+  }, {
+    "repo": "1yefuwang1/vectorlite",
+    "desc": "A fast and tunable vector search extension for SQLite ",
+    "officialSite": "",
+    "topics": ["cpp17", "hnsw", "python3", "sqlite3", "vector-database"],
+    "avatar": "https://avatars.githubusercontent.com/u/18023393?v=4",
+    "banner": ""
+  }, {
+    "repo": "aws/aws-mysql-odbc",
+    "desc": "The Amazon Web Services (AWS) ODBC Driver for MySQL allows an application to take advantage of the features of clustered MySQL databases. It is based on and can be used as a drop-in compatible for the MySQL Connector/ODBC driver, and is compatible with all MySQL deployments.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/2232217?v=4",
+    "banner": ""
   }
 ]

@@ -130,9 +130,9 @@ webView.load(URLRequest(url: url))
 webView.allowsBackForwardNavigationGestures = true
 ```
 
-The first line creates a new data type called `URL`, which is Swift’s way of storing the location of files. You’re probably already familiar with URLs as being used online, like with <a href="https://www.hackingwithswift.com">https://www.hackingwithswift.com</a>, but they are just as important for storing local filenames too – they are flexible little things!
+The first line creates a new data type called `URL`, which is Swift’s way of storing the location of files. You’re probably already familiar with URLs as being used online, like with [<FontIcon icon="fas fa-globe"/>https://hackingwithswift.com](https://hackingwithswift.com), but they are just as important for storing local filenames too – they are flexible little things!
 
-Even though we’re used to URLs being strings of text, Swift stores URLs in a specific `URL` data type that adds a lot of extra functionality. So, that first line of code creates a new `URL` out of the string “<a href="https://www.hackingwithswift.com">https://www.hackingwithswift.com</a>”. I'm using hackingwithswift.com as an example website, but please change it to something you like.
+Even though we’re used to URLs being strings of text, Swift stores URLs in a specific `URL` data type that adds a lot of extra functionality. So, that first line of code creates a new `URL` out of the string “[<FontIcon icon="fas fa-globe"/>https://hackingwithswift.com](https://hackingwithswift.com)”. I'm using hackingwithswift.com as an example website, but please change it to something you like.
 
 ::: warning
 

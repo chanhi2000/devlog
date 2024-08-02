@@ -1735,5 +1735,12 @@
     "topics": ["llms", "python", "rag"],
     "avatar": "https://avatars.githubusercontent.com/u/31396011?v=4",
     "banner": ""
+  }, {
+    "repo": "0xor0ne/awesome-list",
+    "desc": "Cybersecurity oriented awesome list",
+    "officialSite": "",
+    "topics": ["awesome", "awesome-list", "cybersecurity", "exploitation", "reverse-engineering"],
+    "avatar": "https://avatars.githubusercontent.com/u/69542992?v=4",
+    "banner": ""
   }
 ]

@@ -2354,5 +2354,12 @@
     "topics": ["application", "gui", "iced", "linux", "macos", "network", "network-analysis", "network-monitoring", "networking", "packet-analyser", "packet-capture", "packet-sniffer", "pcap", "rust", "rust-crate", "security", "utility", "windows"],
     "avatar": "https://avatars.githubusercontent.com/u/100347457?v=4",
     "banner": ""
+  }, {
+    "repo": "lvkv/whenfs",
+    "desc": "A FUSE Filesystem for your Google calendar",
+    "officialSite": "",
+    "topics": ["fuse", "rust"],
+    "avatar": "https://avatars.githubusercontent.com/u/20225135?v=4",
+    "banner": ""
   }
 ]

@@ -22,7 +22,7 @@ head:
       content: "Project 17: Space Race"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/17/overview.html
-prev: /explore/articles/hackingwithswift.com/read/README.md
+prev: /explore/articles/hackingwithswift.com/read/16/04-wrap-up.md
 isOriginal: false
 ---
 
@@ -58,7 +58,55 @@ Dodge space debris while you learn about per-pixel collision detection.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/17/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Space: the final frontier | Hacking with iOS",
+  "desc": "Space: the final frontier",
+  "link": "/explore/articles/hackingwithswift.com/read/17/02-space-the-final-frontier.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Bring on the enemies: Timer, linearDamping, angularDamping | Hacking with iOS",
+  "desc": "Bring on the enemies: Timer, linearDamping, angularDamping",
+  "link": "/explore/articles/hackingwithswift.com/read/17/03-bring-on-the-enemies-timer-lineardamping-angulardamping.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Making contact: didBegin() | Hacking with iOS",
+  "desc": "Making contact: didBegin()",
+  "link": "/explore/articles/hackingwithswift.com/read/17/04-making-contact-didbegin.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/17/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

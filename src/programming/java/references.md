@@ -16,16 +16,6 @@ tag:
 
 ---
 
-```component VPCard
-{
-  "title": "Free Java & OpenJDK Info for Daily Java Usage | foojay",
-  "desc": "A place for friends of OpenJDK, foojay provides user-focused Java and OpenJDK technical info and dashboards with free data for everyday Java developers.",
-  "link": "https://foojay.io/",
-  "logo": "https://foojay.io/wp-content/uploads/2020/04/Favicon-3-2.png",
-  "background": "rgba(79,195,247,0.2)"
-}
-```
-
 ## <FontIcon icon="fa-brands fa-java"/>Java
 
 ### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
@@ -122,6 +112,8 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 12일차 TIL](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-12%EC%9D%BC%EC%B0%A8-TIL)
 - [`@qkrtkdwns3410` / \[알고리즘\] 7662 발표자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-7662-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
 - [`@qkrtkdwns3410` / 알고리즘 2343 자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2343-%EC%9E%90%EB%A3%8C)
+- [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 이진 탐색 트리](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%ED%8A%B8%EB%A6%AC)
+- [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 입국심사](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
 
 <!-- END: velog.io java -->
 
@@ -470,6 +462,16 @@ tag:
 
 ### Free Java & OpenJDK Info for Daily Java Usage | foojay
 
+```component VPCard
+{
+  "title": "Free Java & OpenJDK Info for Daily Java Usage | foojay",
+  "desc": "A place for friends of OpenJDK, foojay provides user-focused Java and OpenJDK technical info and dashboards with free data for everyday Java developers.",
+  "link": "https://foojay.io/",
+  "logo": "https://foojay.io/wp-content/uploads/2020/04/Favicon-3-2.png",
+  "background": "rgba(79,195,247,0.2)"
+}
+```
+
 - [Indexing all of Wikipedia, on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 - [How to Detect Cache Misses Using Observability](https://foojay.io/today/how-to-detect-cache-misses-using-observability/)
 - [Debugging Streams with Peek](https://foojay.io/today/debugging-streams-with-peek/)
@@ -477,6 +479,9 @@ tag:
 - [Is your Java application ready for the next generation of server CPUs?](https://foojay.io/today/is-your-java-application-ready-for-the-next-generation-of-server-cpus/)
 - [Let’s Replace the synchronized Keyword](https://foojay.io/today/lets-replace-the-synchronized-keyword/)
 - [Remotely Recording a JFR Log from a Container (Without Using the Command Line)](https://foojay.io/today/remotely-recording-a-jfr-log-from-a-container-without-using-the-command-line/)
+- [Exploring New Features in JDK 23: Simplifying Java with Module Import Declarations with JEP 476](https://foojay.io/today/exploring-new-features-in-jdk-23-simplifying-java-with-module-import-declarations-with-jep-476/)
+- [Become a Better Java Developer: 19 Tips for Staying Ahead in 2024](https://foojay.io/today/become-a-better-java-developer-19-tips-for-staying-ahead-in-2024/)
+- [Who instruments the instrumenters?](https://foojay.io/today/who-instruments-the-instrumenters/)
 
 ### Javalin - A lightweight Java and Kotlin web framework
 
@@ -583,6 +588,9 @@ tag:
 - [\[백준\] 11659번: 구간 합 구하기 4 - java](https://findsilverlining.tistory.com/m/98)
 - [\[백준\] 1717번: 집합의 표현 - java](https://findsilverlining.tistory.com/m/99)
 - [\[프로그래머스\] 두 개 뽑아서 더하기 - java](https://findsilverlining.tistory.com/m/104)
+- [\[프로그래머스\] 모의고사 - java](https://findsilverlining.tistory.com/m/105)
+
+<!-- END: findsilverlining.tistory.com -->
 
 ### Event-Driven by Oskar Dudycz
 
@@ -595,6 +603,11 @@ tag:
 ### 나만의공간。
 
 - [\[java\] mockito - `doReturn` / `thenReturn` 차이점](https://m.blog.naver.com/writer0713/223529361654)
+
+### 기계인간 John Grib
+
+- [`java.util.HashSet`](https://johngrib.github.io/wiki/java/hashset/)
+- [`java.util.HashMap`](https://johngrib.github.io/wiki/java/hashmap/)
 
 ---
 
@@ -929,13 +942,9 @@ tag:
 - [코틀린 Kotlin `java.util.ConcurrentModificationException` 에러](https://hyunjungchoi.tistory.com/m/155)
 - [Kotlin 코틀린 백준 25344 행성 정렬](https://hyunjungchoi.tistory.com/m/156)
 
----
-
 ### Darryl Bayliss – Random Musings
 
 - [Which Map Transformation Should I Use?](https://darrylbayliss.net/which-map-transformation-should-i-use/)
-
----
 
 ### Sujan Poudel
 

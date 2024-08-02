@@ -728,6 +728,16 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 
 :::
 
+```component VPCard
+{
+  "title": "LosslessCut 3.61.1 Free Download - VideoHelp",
+  "desc": "LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.",
+  "link": "https://videohelp.com/software/LosslessCut",
+  "logo": "https://www.videohelp.com/favicon-196x196.png",
+  "background": "rgba(36,95,140,0.2)"
+}
+```
+
 ---
 
 <TagLinks />

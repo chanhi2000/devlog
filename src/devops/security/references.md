@@ -378,6 +378,10 @@ tag:
 - [강은성의 보안 아키텍트ㅣ개발자가 알아야 할 공급망 보안](https://ciokorea.com/news/340729)
 - [2023년 미 정부 기관 주요 보안 사고 11선](https://ciokorea.com/news/340799)
 - [칼럼 | 10건의 사례에서 배우는 클라우드 백업 교훈](https://ciokorea.com/news/340638)
+- ["지난해 전 세계 기업 평균 데이터 유출 비용, 사상 최고치 기록" IBM 보고서](https://ciokorea.com/news/346000)
+- [“크라우드스트라이크 사태 총 피해액은 54억 달러··· 보험 지급액은 10~20% 그칠 듯”](https://ciokorea.com/news/345748)
+
+<!-- END: ciokorea.com -->
 
 ---
 
@@ -386,6 +390,12 @@ tag:
 - [해커가 머신러닝을 사용해 공격하는 6가지 방법](https://itworld.co.kr/news/107984)
 - ["다목적 해킹 툴 개발, 탈취 데이터 요약…" AI로 고도화된 사이버 위협의 실태](https://itworld.co.kr/news/340561)
 - [개인 계정에 보호막 씌우는 마스킹 이메일 시작하는 방법](https://itworld.co.kr/news/340414)
+- [깃허브서 보안 부팅 암호화 키 유출…델, 에이서, 인텔 등 200여 가지 모델에 영향](https://itworld.co.kr/news/345692)
+- [오픈소스의 미래는 이념이 아닌 보안에 있다](https://itworld.co.kr/news/345118)
+- [아이픽스잇·프리랜서, 앤트로픽 고소 "웹 크롤러 차단 조치 우회해 데이터 수집"](https://itworld.co.kr/news/345804)
+- [지원 종료된 운영체제를 '절대' 사용하면 안 되는 이유](https://itworld.co.kr/news/346014)
+
+<!-- END: itworld.co.kr -->
 
 ---
 

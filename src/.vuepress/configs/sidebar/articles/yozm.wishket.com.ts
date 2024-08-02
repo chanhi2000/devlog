@@ -106,6 +106,9 @@ export const template: SidebarInfoTemplate = {
       "go", [
         "2308", // 2023-11-08
       ]],[
+      "go-grafana", [
+        "2280", // 2023-10-20
+      ]],[
       "rust", [
         "2635", // 2024-06-18
       ]],[
@@ -170,9 +173,6 @@ export const template: SidebarInfoTemplate = {
         "2429", // 2024-01-24
         "2584", // 2024-05-14
       ]],[
-      "grafana", [
-        "2280", // 2023-10-20
-      ]],[
       "security", [
         "2065", // 2024-06-13
         "2425", // 2024-01-22
@@ -228,6 +228,7 @@ export const template: SidebarInfoTemplate = {
       ]],[
       "llm", [
         "2641", // 2024-06-22
+        "2701", // 2024-08-03
       ]],[
       "openai", [
         "2619", // 2024-06-07
@@ -429,6 +430,7 @@ export const template: SidebarInfoTemplate = {
         "2692", // 2024-07-29
         "2696", // 2024-07-31
         "2697", // 2024-07-31
+        "2701", // 2024-08-03
       ]],
     ])
   }

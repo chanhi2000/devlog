@@ -117,6 +117,7 @@ tag:
   - [Room Relationships Explained](https://proandroiddev.com/room-database-relationships-explained-729d3c705fd9)
   - [Exploring the Viability of Cross-Platform UI Development with Compose Multiplatform](https://proandroiddev.com/exploring-the-viability-of-cross-platform-ui-development-with-compose-multiplatform-c5be0608b69d)
   - [Command Your User Inputs with Jetpack Compose— Text Field Features Hidden in Plain Sight](https://proandroiddev.com/command-your-user-inputs-with-jetpack-compose-text-field-features-hidden-in-plain-sight-47aaacc56aaf)
+  - [The best way to load data in ViewModels](https://proandroiddev.com/the-best-way-to-load-data-in-viewmodels-a112ced54e07)
 - [(`androiddevelopers`) Android Developers: The official Android Developers publication on Medium](https://medium.com/androiddevelopers)
   - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43)
   - [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
@@ -167,6 +168,7 @@ tag:
 - [`insert-koin` / Koin Annotations 1.4 — Better Multimodule & KMP](https://blog.insert-koin.io/koin-annotations-1-4-better-multimodule-kmp-c349ff29f839)
 - [`basaransuleyman` / Leveraging BFF and Dynamic UI in Android Applications with Jetpack Compose](https://basaransuleyman.medium.com/leveraging-bff-and-dynamic-ui-in-android-applications-with-jetpack-compose-27d81edb7c7c)
 - [`hongbeomi-dev` / Compose Navigation 살펴보기](https://medium.com/hongbeomi-dev/compose-navigation-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-8f9c63426eca?source=rss-c941a8b6c471------2)
+- [`chetan-garg36` / Kotlin MultiPlatform: Sharing Code Between Android and JVM Targets](https://chetan-garg36.medium.com/kotlin-multiplatform-sharing-code-between-android-and-jvm-targets-091c4ab3838c)
 
 <!-- END: medium.com -->
 
@@ -276,6 +278,9 @@ tag:
 - [\[정리\] Compose 가이드 문서 ~ Performance](https://pluu.github.io/blog/android/2024/06/19/compose/)
 - [Blog: \[요약\] Designing scalable Compose APIs (Google I/O '24)](http://pluu.github.io/blog/android/io24/2024/06/23/io24-Designing-scalable-Compose-APIs/)
 - [Blog: \[발표자료\] I/O Extended Android in Korea 2024 ~ Whats new in Android development tools](http://pluu.github.io/blog/android/2024/07/21/android-studio/)
+- [Blog: \[Lint\]](http://pluu.github.io/blog/android/2024/08/03/Compose-Lint/)
+
+<!-- END: pluu.github.io -->
 
 ---
 
@@ -388,6 +393,7 @@ tag:
 - [Using Amper with Fleet in a Kotlin/Compose Multiplatform project](https://johnoreilly.dev/posts/amper-kmp-climatetrace/)
 - [Using Jetpack Room in Kotlin Multiplatform shared code](https://johnoreilly.dev/posts/jetpack_room_kmp/)
 - [Exploring New Worlds of UI sharing possibilities in PeopleInSpace using Compose Multiplatform](https://johnoreilly.dev/posts/exploring-compose_multiplatform_sharing_ios/)
+- [Using kotlin-inject in a Kotlin/Compose Multiplatform project](https://johnoreilly.dev/posts/kotlin-inject-kmp/)
 
 ---
 
@@ -433,6 +439,7 @@ tag:
 
 - [Jetpack Compose for iOS: Interoping with native Components](https://touchlab.co/jetpack-compose-ios-interop)
 - [Jetpack Compose to Compose Multiplatform: Transition Guide](https://touchlab.co/compose-multiplatform-transition-guide)
+- [Compose Multiplatform + Lottie Animations](https://touchlab.co/compose-multiplatform-lottie)
 
 ---
 
@@ -586,6 +593,12 @@ tag:
 ## 행뽁🐥
 
 - [안드로이드 Android 애니메이션으로 Flow 이해하기](https://hyunjungchoi.tistory.com/m/158)
+
+---
+
+##
+
+- [How To Migrate from Hilt to Koin - A Detailed Guide](https://blog.kotzilla.io/migrate-from-hilt-to-koin)
 
 ---
 

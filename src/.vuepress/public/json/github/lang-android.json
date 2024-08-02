@@ -706,5 +706,19 @@
     "topics": ["android", "blur", "blur-image", "jetpack-compose", "skydoves"],
     "avatar": "https://avatars.githubusercontent.com/u/24237865?v=4",
     "banner": ""
+  }, {
+    "repo": "erfansn/NsmaVPN",
+    "desc": "🌎 Access to freedom in the internet world only with one switch!",
+    "officialSite": "",
+    "topics": ["androiddev", "cicd", "compose", "gradle", "networking", "sstp", "vpn", "vpngate"],
+    "avatar": "https://avatars.githubusercontent.com/u/50053121?v=4",
+    "banner": ""
+  }, {
+    "repo": "AndroidPoet/KtorBoost",
+    "desc": "🚀 Simplifying Ktor for Easier Development KMM/Compose Multiplatform ",
+    "officialSite": "https://androidpoet.github.io/KtorBoost/",
+    "topics": ["android-library", "compose", "compose-multiplatform", "kmm", "kmm-library", "ktor", "ktor-client", "networking"],
+    "avatar": "https://avatars.githubusercontent.com/u/13647384?v=4",
+    "banner": ""
   }
 ]

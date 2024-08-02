@@ -60,7 +60,7 @@ This course, created in collaboration between Mistral AI and Scrimba, will guide
 
 ---
 
-## Course Overview<
+## Course Overview
 
 The course begins with an introduction to Mistral's open-source models, including Mistral 7B and Mistral 8x7B, before progressing to their commercial models. You'll gain hands-on experience with Mistral’s La Plateforme, learning to leverage its full suite of tools.
 

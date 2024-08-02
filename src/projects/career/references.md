@@ -39,6 +39,15 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-y-combinator"/>Y Combinator
+
+- [Ask HN: Those of you who've left the SWE world, what did you transition into?](https://news.ycombinator.com/item?id=40780940)
+- [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
+
+<!-- END: news.ycombinator.com -->
+
+---
+
 ## <FontIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
@@ -585,6 +594,7 @@ tag:
 
 - [1인 개발자로 행복하게 살기 (송도 헬로월드 2024 발표)](https://jeho.page/essay/2024/04/01/songdo.html)
 - [앱 개발 의뢰 시장](https://jeho.page/essay/2024/06/12/building-an-app.html)
+- [커피한잔 서버 장애 썰](https://jeho.page/essay/2024/05/03/coffee-server.html)
 
 ---
 
@@ -855,12 +865,6 @@ tag:
 
 ---
 
-## K리그 프로그래머
-
-- [커피한잔 서버 장애 썰](https://jeho.page/essay/2024/05/03/coffee-server.html)
-
----
-
 ## PlugBear
 
 - [기사를 요약하는 슬랙 봇 만들기 (노코드, 5분 소요)](https://plugbear.io/posts/ko/how-to-build-article-summary-bot)
@@ -1015,6 +1019,11 @@ tag:
 - [“IT 다운타임으로 기업 수익 9% 감소” 스플렁크 및 옥스포드 이코노믹스 연구](https://ciokorea.com/news/340778)
 - [칼럼 | 기술 채용의 떠오르는 난관은 ‘우수한 지원자 찾기’](https://ciokorea.com/news/340652)
 - [IT 조직을 ‘플랫폼 엔지니어링 팀’으로 재구성하기 ‘Why  & How’](https://ciokorea.com/news/341422)
+- [아마존 채용 담당자가 전하는 7가지 면접 조언](https://ciokorea.com/news/345839)
+- [“CEO 수준의 비즈니스 감각 필요”··· 서비스나우 CIO가 말하는 IT 리더의 성공 비결](https://ciokorea.com/news/345769)
+- [‘때로는 과한 걱정도 괜찮다’··· 유의해야 할 IT 리스크 5가지](https://ciokorea.com/news/345328)
+
+<!-- END: ciokorea.com -->
 
 ---
 
@@ -1047,6 +1056,11 @@ https://m.blog.naver.com/&logId=
 - [“사무실 복귀 지시는 위장된 정리 해고?” 근무 방식에 따른 생산성 조사](https://itworld.co.kr/news/340407)
 - [노련한 개발자와 초보자의 기술적인 차이 4가지](https://itworld.co.kr/news/342346)
 - [한국 직장인, '월요병'보다 '화요병'에 더 시달린다… 알고케어 보고서](https://itworld.co.kr/news/343298)
+- ["개발자 경험에 대한 관심 높아졌지만 이해도는 여전히 부족" 아틀라시안](https://itworld.co.kr/news/344908)
+- [장기적 성공 위해 기업이 갖춰야 할 필수 역량은 '창의력'…캔바 보고서](https://itworld.co.kr/news/345496)
+- [하드 스킬 못지않게 중요한 소프트 스킬…달라지는 IT 채용 시장](https://itworld.co.kr/news/346322)
+
+<!-- END: itworld.co.kr -->
 
 ---
 
@@ -1423,6 +1437,13 @@ https://m.blog.naver.com/&logId=
 ## Learn How To Learn
 
 - [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
+
+---
+
+## 디지털데일리
+
+- [왜 KB국민은행만 유독 IT비용·인력이 많은가?… "심각한 문제일 수 있다"는 전문가들](https://ddaily.co.kr/page/view/2024071818090454749)
+- ['중대기로' KB국민은행 '차세대 시스템' 프로젝트… 신한은행과 어떻게 다른가](https://ddaily.co.kr/page/view/2024072518255768567)
 
 ---
 

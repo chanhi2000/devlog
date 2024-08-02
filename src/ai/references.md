@@ -203,7 +203,10 @@ head:
 - [“인공지능 거품 붕괴 경보?” 킬러 앱 부재가 위험 요소 : 골드만삭스](https://itworld.co.kr/news/344467)
 - [“인공지능 거품 붕괴 경보?” 킬러 앱 부재가 위험 요소 : 골드만삭스](https://itworld.co.kr/news/344467)
 - [미스트랄 AI, '미스트랄 라지 2' 출시 "라마 3 405B 모델과 비슷한 성능"](https://itworld.co.kr/news/345566)
-s
+- ["단순한 검색 엔진 그 너머" AI가 바꿔놓을 브라우저의 역할](https://itworld.co.kr/news/345895)
+
+<!-- END: itworld.co.kr -->
+
 ---
 
 ## Buttondown

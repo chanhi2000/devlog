@@ -33,4 +33,10 @@ head:
 
 ---
 
+## My Developer Planet
+
+- [How to Monitor a Spring Boot App](https://mydeveloperplanet.com/2021/03/03/how-to-monitor-a-spring-boot-app/)
+
+---
+
 <TagLinks />
