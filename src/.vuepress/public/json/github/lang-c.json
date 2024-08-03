@@ -1602,5 +1602,12 @@
     "topics": ["anti-dpi", "censorship-circumvention", "freebsd", "linux", "macos", "openbsd", "openwrt", "russian", "windows"],
     "avatar": "https://avatars.githubusercontent.com/u/9076680?v=4",
     "banner": ""
+  }, {
+    "repo": "asg017/sqlite-vec",
+    "desc": "Work-in-progress vector search SQLite extension that runs anywhere.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/15178711?v=4",
+    "banner": ""
   }
 ]

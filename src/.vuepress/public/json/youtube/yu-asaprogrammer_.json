@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/bRQQVgLmDp7q5TEPS5aHgZjzL8hUhnP9t-87Gr7zpp4y9flEePj2RxViSRd5m8htAJHWIRSYzvs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0Kzd4k1YuCA", "title": "Build an Extremely Fast Chat App with Redis and React | Full Guide 2024" },
+    { "id": "gRroBZczKAU", "title": "MERN Stack Netflix Clone: React, Node.js, Express.js - Full Course 2024" },
+    { "id": "Dukz-3mS3Us", "title": "MERN Stack Tutorial For Beginners in 2024 - Deployment Included" },
+    { "id": "vL24eiwAG_g", "title": "PERN Stack Project: Build a Chat App From Scratch | Postgres, TypeScript, Prisma, React" },
+    { "id": "Z_AWfuJXXCI", "title": "Gift a website to your MOM before it's too late | React & Tailwind" },
+    { "id": "mduqkHlJujA", "title": "Build an OnlyFans with Next.js, Stripe and React | Complete Guide 2024" },
+    { "id": "R9PwoQwVpPQ", "title": "Stripe Subscriptions with Next.js - Full Course 2024" },
+    { "id": "tWHXaSC2T_s", "title": "JavaScript and Python - Build and Deploy a Full Stack Web App" },
+    { "id": "bMOxwSvo7rk", "title": "These shortcuts will change how you write code forever" },
+    { "id": "4GUVz2psWUg", "title": "Resume Project: Build and Deploy a Full Stack Twitter Clone with React, Node and React Query | MERN" },
     { "id": "G4V4xO9wyD8", "title": "12+ Hour MERN Masterclass: Build and Deploy a Threads App with Real-Time Chat Functionality" },
     { "id": "sQ1zvdS8eU8", "title": "Build and Deploy a Full Stack WhatsApp Clone | Video Calls, Screen Sharing | React.js, TypeScript" },
     { "id": "HwCqsOis894", "title": "MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io | Super Detailed Tutorial" },

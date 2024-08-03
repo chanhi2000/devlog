@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "LifeLoveAndMonads",
+    "name": "LifeLoveAndMonads",
+    "profile": "https://yt3.googleusercontent.com/qQLsAv0-nY4X_IZOTzVdNWzLVqsRZ_t0PaEVmKDVXQCrgXIaX_d2H_XnldKpZQ3YjlFX_7M9nA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-pyNj2P8GKdWUcfruH227_SCLBqYT2l56xVfKU99oBcS60I6ZtxSZ_fbq1BIGi9XBt8sB2aAfw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DAjZvWr-Ehg", "title": "Mental Model of React Rendering I Wish I Had Before" },
+    { "id": "2FyqUNU5aPU", "title": "How I Ensure My Code Maintainability with ESlint and Prettier" },
+    { "id": "7PQ38sHPKqc", "title": "This GIT Command Saved Me Hours Of Work" },
+    { "id": "IlCiwwUgefw", "title": "Why I believe signals don't change anything for React" },
+    { "id": "QtAKwZgWIdo", "title": "React Interview Challenge, Can I Build Wordle in 45 minutes?" },
+    { "id": "EnC8yUcwFac", "title": "How I Deploy My React Single Page Application" },
+    { "id": "kImH1afFRNk", "title": "How I power my React app with IndexedDB" },
+    { "id": "DXOyXkYAdes", "title": "I love useEffect too much..." }
+  ],
+  "playlists": [
+
+  ]
+}

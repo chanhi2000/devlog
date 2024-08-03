@@ -139,6 +139,9 @@ head:
   - [\[코딩테스트 일지 - 99클럽\] 17일차 - Minimum Suffix Flips](https://until.blog/@sin0105/-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9D%BC%EC%A7%80---99%ED%81%B4%EB%9F%BD--17%EC%9D%BC%EC%B0%A8---minimum-suffix-flips)
   - [\[코딩테스트 일지 - 99클럽\] 18일차 - Sort Characters By Frequency](https://until.blog/@sin0105/-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9D%BC%EC%A7%80---99%ED%81%B4%EB%9F%BD--18%EC%9D%BC%EC%B0%A8---sort-characters-by-frequency)
   - [\[코딩테스트 일지 - 99클럽\] 19일차 - Minimum Add to Make Parentheses Valid](https://until.blog/@sin0105/-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9D%BC%EC%A7%80---99%ED%81%B4%EB%9F%BD--19%EC%9D%BC%EC%B0%A8---minimum-add-to-make-parentheses-valid)
+  - [코딩테스트 준비 - Minimum Number Game](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---minimum-number-game)
+  - [코딩테스트 준비 - 올바른 괄호](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%98%AC%EB%B0%94%EB%A5%B8-%EA%B4%84%ED%98%B8)
+  - [코딩테스트 준비 - Valid Parentheses](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C-i67t26g3)
 
 ---
 

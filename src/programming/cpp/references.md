@@ -110,6 +110,7 @@ head:
 - [`@sin0105` / 코딩테스트 준비 - 전화번호 목록](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)
 - [`@sin0105` / 코딩테스트 준비 - 기능 개발](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C)
 - [`@sin0105` / 코딩테스트 준비 - 같은 숫자는 싫어](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4)
+- [`@sin0105` / 코딩테스트 준비 - 더 맵게](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EB%8D%94-%EB%A7%B5%EA%B2%8C)
 
 <!-- END: until.blog -->
 
@@ -127,7 +128,7 @@ head:
 
 ---
 
-## Microsoft MVP 프로그래머 김성엽
+## 프로그래머 김성엽
 
 - [[Q&A] vector에 객체를 직접 대입하는 경우...](https://m.blog.naver.com/https://m.blog.naver.com/tipsware/223395160791)
 - [`printf` 함수의 형식 지정자 실습용 프로그램 - Step 2](https://m.blog.naver.com/https://m.blog.naver.com/tipsware/223400595787)

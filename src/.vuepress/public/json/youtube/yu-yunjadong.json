@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/83bQnkdfKm-4LeQ2R0eiDN1EFoF3OMZ8m_-CytjDK-o7rGqcgLQF2c3a8Kn2hXxZb06CN7BxXg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8xBa8bSUUxc", "title": "스마트폰 & 파이썬을 활용한 업무자동화" },
+    { "id": "KCUq25Quh-A", "title": "파이썬, VBA로 웹 자동화하기" },
     { "id": "cBkqEqbkzLk", "title": "클릭만 하면 끝나는 업무자동화 배우기" },
     { "id": "qEIO_GKq4Lo", "title": "엑셀에 인공지능 심어버리기(Google Gemini)" },
     { "id": "_OEUvJMJPPk", "title": "직장인이 깃허브 코파일럿으로 생산성 2배 올리는 방법(GitHub Copliot)" },

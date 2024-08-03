@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/pZqx4KQXnbL-QaSlHlppVc0xUKiZgyPwvCufpjNNwLSM6s0I-LVa1AWL4PVj18li8vNHKxD5Ig=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QdFs_abQfGc", "title": "BEYOND LAYER - Exploring DIFFERENT APPROACHES to android project ARCHITECTURE | Droidcon Italy 2023" },
+    { "id": "mNzp5apxYXA", "title": "Building Multiple APPS with Composable - Mohit Sarveiya | Droidcon Italy 2023 Talk" },
     { "id": "FDmgH4dz888", "title": "DELIVEROO's Unexpected Insights: Unveiling the Power of A/B TESTING | Droidcon Italy 2023 Talk" },
     { "id": "3qDn7xlja2c", "title": "ROUNDTABLE - JETPACK COMPOSE: Comprehensive Overview and Experiences | Droidcon Italy 2023 Talk" },
     { "id": "CTUSXhQL6hc", "title": "THE POWER OF GENERATIVE AI FOR ANDROID APP DEVELOPMENT - Stefano Rago | Droidcon Italy 2023 Talk" },
@@ -15,5 +17,8 @@
     { "id": "bR33g7XHIvU", "title": "Andrea Cioccarelli - Android App Security Fundamentals - droidcon Italy 2022" }, 
     { "id": "1st3mH8U-QE", "title": "Roberto Orgiu, Android Engineer, The New York Times: An Android Dev start to Kotlin Multiplatform" }, 
     { "id": "TWLkswxjSr0", "title": "Modularizing Android Applications - Marvin Ramin" }
+  ],
+  "playlists": [
+
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "TheMathSorcerer",
+    "name": "The Math Sorcerer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lPetcFBmgKr-Da_LwWlRfYaaOX2rJ1yJr6qkxE6gNn4gg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kU8AIua2TpUPSgNiq4JDCbrdTL1fkuP1Jr6v39kHYEILxlUXm13hpxaYII0dP3sLiB-u3tgsnQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bG9Hd6LIN_Q", "title": "Best Beginner Book for Mathematical Finance" },
+    { "id": "DGNBp24B8d0", "title": "Epic Trigonometry Workbook" },
+    { "id": "_zgqV8eUOYA", "title": "Road Map to Calculus" },
+    { "id": "p0eSlfVBq6U", "title": "Learning Electrical Engineering" },
+    { "id": "ObPz6n9ymac", "title": "Ace Every Math Test" },
+    { "id": "fOF4Mym3tdg", "title": "Advanced Calculus Book for Autodidacts" },
+    { "id": "J0SmQ1qFb6U", "title": "Reading Some Introductory Advanced Calculus" },
+    { "id": "fQKtx7mMV-Q", "title": "Differential Geometry Book for Autodidacts" },
+    { "id": "Spx6lezkM00", "title": "Finite Mathematics Book for Managerial, Life, and Social Sciences" },
+    { "id": "g69OUVCtMAI", "title": "Fourier Series Book for Autodidacts" },
+    { "id": "_46CaEJ7KQc", "title": "Combinatorial Theory" },
+    { "id": "jn0SyGZM0tw", "title": "Learning Math Too Fast" },
+    { "id": "zpNHkp7z7Ko", "title": "Beautiful Math Book on The Theory of Rings" },
+    { "id": "9GxmtWIwcpk", "title": "Teaching Yourself Math Proof Writing" },
+    { "id": "hWEopMAgiis", "title": "The Ultimate Math Book" },
+    { "id": "0gZBB1TmZPI", "title": "Letters From A Stoic: The Ancient Classic" },
+    { "id": "XQl6PTARnRk", "title": "5.5 Math Books For Self Made Mathematicians" },
+    { "id": "fMKdAfUBfVw", "title": "Real Advanced Mathematics" },
+    { "id": "Bzeu2cz_CSM", "title": "Learn Math: Calculus, Differential Equations, and Linear Algebra" },
+    { "id": "nH3ArpZt0Uw", "title": "Getting Started with Linear Algebra" },
+    { "id": "wxARfnS1-VA", "title": "You Probably Shouldn't Watch This" },
+    { "id": "jl9oB-7CEKo", "title": "Cryptography for Beginners" }
+  ],
+  "playlists": [
+
+  ]
+}

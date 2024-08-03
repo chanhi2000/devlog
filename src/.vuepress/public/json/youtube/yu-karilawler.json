@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "karilawler",
+    "name": "Kari",
+    "profile": "https://yt3.googleusercontent.com/oR7Sv-OLnYsqXQtuR2h_PovenzHUiPMzXW_eIcYZnusPCdkcKG4CK6qPQUCNZZjfTWKzPSfRRDM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AnZ_3h1Be8geAUVnn6K-x4aPJtiZ3XuFSPQnLajl2ENMwlpC5M1DRUNVlpQHk_F9cmXzjWK-Mw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pIhw0pk0vgA", "title": "Design & 3D-Print Your Own 8-bit Gaming Figures | Using Inkscape and Fusion 360" },
+    { "id": "3kdM9wyglnw", "title": "Programming Retro Games in Python | 80s Usborne Computer Coding Book" },
+    { "id": "tVFjdikPCIA", "title": "Let's mod a Nintendo Famicom (Japanese version of the NES \"Nintendo Entertainment System\")" },
+    { "id": "JhPz5Jhq3G8", "title": "Removing the Xbox Clock Capacitor before it destroys the console" },
+    { "id": "DKCUTRjNRGY", "title": "8BitDo Retro N (NES) Keyboard and Mouse Review | feat. Typing of the Dead" }
+  ],
+  "playlists": [
+
+  ]
+}

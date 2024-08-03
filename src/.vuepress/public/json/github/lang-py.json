@@ -1019,23 +1019,31 @@
   }, {
     "repo": "CVI-SZU/Linly",
     "desc": "Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集",
+    "officialSite": "",
     "topics": ["nlp", "chatbot", "chinese", "chinese-nlp", "llama", "language-model", "bert", "zero-shot-learning", "gpt-3", "chatgpt"],
-    "officialSite": ""
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "lamini-ai/lamini",
     "desc": "",
+    "officialSite": "",
     "topics": [],
-    "officialSite": ""
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "mlc-ai/mlc-llm",
-    "desc": "Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",
-    "topics": ["language-model", "tvm", "llm", "machine-learning-compilation"],
-    "officialSite": "https://mlc.ai/mlc-llm"
+    "desc": "Universal LLM Deployment Engine with ML Compilation",
+    "officialSite": "https://llm.mlc.ai/",
+    "topics": ["language-model", "llm", "machine-learning-compilation", "tvm"],
+    "avatar": "https://avatars.githubusercontent.com/u/106173866?v=4",
+    "banner": ""
   }, {
     "repo": "gventuri/pandas-ai",
     "desc": "Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational",
+    "officialSite": "",
     "topics": ["python", "pandas", "llm"],
-    "officialSite": ""
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "irgolic/AutoPR",
     "desc": "Fix issues with AI-generated pull requests, powered by ChatGPT",
@@ -7340,6 +7348,20 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/9274?v=4",
+    "banner": ""
+  }, {
+    "repo": "pytorch/torchchat",
+    "desc": "Run PyTorch LLMs locally on servers, desktop and mobile",
+    "officialSite": "",
+    "topics": ["llm", "local", "pytorch"],
+    "avatar": "https://avatars.githubusercontent.com/u/21003710?v=4",
+    "banner": ""
+  }, {
+    "repo": "PellelNitram/xournalpp_htr",
+    "desc": "Developing handwritten text recognition for Xournal++",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/2728265?v=4",
     "banner": ""
   }
 ]

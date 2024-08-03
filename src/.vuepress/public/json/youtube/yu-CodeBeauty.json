@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/gGcbArhkFEY5uE9MXYznZmKmwaIkkX5Q-eG4laj-GJNQSwtU58VOCWBtuNafUQl7bBrT4KJg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UxjdCAlU_QA", "title": "How to set up VS Code for C# and make your First Program? + How to learn Practical Programming" },
+    { "id": "3wTCv143hNI", "title": "Switch case statement - C# programming tutorial for beginners" },
+    { "id": "pKKXGxEapaU", "title": "Difference between copy constructor and assignment operator in C++ (OOP tutorial for beginners)" },
+    { "id": "n5GJRVMPnew", "title": "C# Loops for beginners in 40 min - While, Do-While, For (C# Programming tutorial)" },
+    { "id": "eVWTeoygvFA", "title": "If else statement - C# programming tutorial for beginners" },
     { "id": "obo9oe_o0C8", "title": "C# Introduction - Create your first application (Hello World) - For beginners" },
     { "id": "yquQ9mLtkN8", "title": "C# Variables and Data Types (beginners programming tutorial)" },
     { "id": "yquQ9mLtkN8", "title": "C# Variables and Data Types (beginners programming tutorial)" },
@@ -22,5 +27,8 @@
     { "id": "jc-9wteVajs", "title": "I used web data to identify market trends (Practical App Programming tutorial)" }, 
     { "id": "MR8SOQ619z0", "title": "Function pointers, delegates and callbacks | Beginner friendly" }, 
     { "id": "FxQTXyR4mjs", "title": "Build C++ GUI apps FAST! Your first C++ GUI app!" }
+  ],
+  "playlists": [
+
   ]
 }

@@ -184,6 +184,7 @@ head:
 ## Tyler Cipriani
 
 - [Git Files Hidden In Plain Sight 🫥](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
+- [Git The Stupid Password Store](https://tylercipriani.com/blog/2024/07/31/git-as-a-password-prompt/)
 
 ---
 

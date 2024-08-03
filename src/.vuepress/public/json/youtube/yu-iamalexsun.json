@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "iamalexsun",
+    "name": "Alex Sun",
+    "profile": "https://yt3.googleusercontent.com/M8mh81oNQ9n6_qeSe6dwvV8XvejGiJF1IJI3ptbeZNhTYIQxkXQZ8zsQbSHjTzqxglxaAA4dxR8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Y3gBvyZ_etNUCH-_aP-ON9Ufn50vxBtK9VJOvmegb4SbAxU_lyA5I0f6EEQ9mmg2yM5TCFyqGmY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sCG6Fv-nKZw", "title": "UGREEN NASync DXP4800 Plus Unboxing" },
+    { "id": "85qbJM4g-L8", "title": "Setting Up UNRAID on My UGREEN DXP4800 Plus" }, 
+    { "id": "WiOrS_PHOrc", "title": "3,000mAh VS 3,800mAh iPod Battery Test" },
+    { "id": "E9ewxFGI8pI", "title": "The Reality of Modding iPods in 2024" }
+  ],
+  "playlists": [
+
+  ]
+}

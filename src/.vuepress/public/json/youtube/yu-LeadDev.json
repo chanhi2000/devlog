@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/dwT77K2YhX-UaBKr_ESuCYnVYRnKyhS8NfPzTMJW-36FCRSfZybIALahrfsVvBFiSNIPzJ4kKw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yjQQUfL4rVg", "title": "Measuring developer productivity with DORA, SPACE, or DevEx" },
+    { "id": "ms7OBRQWvaE", "title": "How can developer experience boost team productivity?" },
+    { "id": "lkY6OjHzXP0", "title": "How to get promoted beyond staff engineer" },
+    { "id": "jYuWa2mZzqk", "title": "How does context switching impact team productivity?" },
+    { "id": "dNKEK0jLrFs", "title": "Think like a journalist | Melissa Depuydt | LeadDev West Coast 2023" },
+    { "id": "80n2euxnhEI", "title": "How to balance technical direction and leadership work" },
+    { "id": "3OaFdetOWKE", "title": "Inclusion on purpose: Ruchika Tulshyan in conversation" },
+    { "id": "mCNv2mWvWGo", "title": "How to identify and fix CI pipeline problems" },
+    { "id": "7EmXMLCjjGA", "title": "How can engineering orgs move fast without compromising code security?" },
+    { "id": "b-L_WV16fso", "title": "Breaking down silos between frontend and backend" },
+    { "id": "rJLsS5Mk8yE", "title": "How to build a culture of accountability in your teams" },
+    { "id": "Ivfi43pERIY", "title": "How to become a staff+ engineer" },
     { "id": "ZM7fBR8HsVk", "title": "What is the role of the engineering manager in the hiring process?" },
     { "id": "RDdqSx4Y3zQ", "title": "Help your engineering, product and security teams get on the same page" },
     { "id": "e8i7IHBqIzY", "title": "Essential soft skills you need to succeed as an engineer" },
@@ -18,5 +30,8 @@
     { "id": "xo_f9O8bMNw", "title": "Avoiding the priority zero trap | LeadDev Broadcasts" },
     { "id": "o9sqIOqrzXs", "title": "Why being laid off can help you be a better manager" }, 
     { "id": "_XT3AkDMVoY", "title": "Reducing the burden of incident response on your teams" }
+  ],
+  "playlists": [
+
   ]
 }

@@ -389,6 +389,7 @@ head:
 - [\[Spring Security\] Spring Security 예외를 @ControllerAdvice와 @ExceptionHandler를 사용하여 전역으로 처리해보자](https://colabear754.tistory.com/m/172)
 - [\[MockMvc\] MockMvc 테스트 시 한글이 깨져서 테스트에 실패하는 문제](https://colabear754.tistory.com/m/217)
 - [\[Spring\] Spring REST Docs를 사용해서 API 명세서를 작성해보자](https://colabear754.tistory.com/m/218)
+- [\[Spring Data JPA\] Java의 record 객체를 @EmbeddedId로 사용할 때 Could not set value of type 문제가 발생하는 경우](https://colabear754.tistory.com/m/219)
 
 ### Free Java & OpenJDK Info for Daily Java Usage | foojay
 
@@ -440,6 +441,8 @@ head:
 - [9.6. 책 컨트롤러 수정 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/96-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%88%98%EC%A0%95-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [10.1. 책 삭제 기능 개요](https://ysedeveloper.tistory.com/m/entry/101-%EC%B1%85-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EC%9A%94)
 - [10.2. 책 서비스 클래스에 삭제 기능 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/102-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [10.3. 책 컨트롤러 삭제 처리 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/103-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%82%AD%EC%A0%9C-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [11.1. 책 목록 개요](https://ysedeveloper.tistory.com/m/entry/111-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EA%B0%9C%EC%9A%94)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -534,6 +537,15 @@ head:
 ### @mjin
 
 - [Spring Batch 관리 도구 Jenkins 대안 탐색기](https://mjin1220.tistory.com/m/57)
+- [Spring Cloud Data Flow 로컬 구축기](https://mjin1220.tistory.com/m/59)
+
+### 블로그 이름 뭐하지??
+
+- [\[Spring MVC\] Filter에서 파라미터 처리하는 방법](https://potwings.tistory.com/m/66)
+
+### e-una
+
+- [\[Spring Boot\] DTO 는 왜, 언제 사용할까?](https://ravenkim97.tistory.com/m/484)
 
 ---
 

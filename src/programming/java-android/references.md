@@ -166,6 +166,7 @@ tag:
 - [`@galou.minisini` / Advanced Kotlin Coroutine Cheat sheet (for Android Engineer)](https://medium.com/@galou.minisini/advanced-kotlin-coroutine-cheat-sheet-for-android-engineer-15e0d180fc1f)
 - [`insert-koin` / Koin Annotations 1.4 — Better Multimodule & KMP](https://blog.insert-koin.io/koin-annotations-1-4-better-multimodule-kmp-c349ff29f839)
 - [`basaransuleyman` / Leveraging BFF and Dynamic UI in Android Applications with Jetpack Compose](https://basaransuleyman.medium.com/leveraging-bff-and-dynamic-ui-in-android-applications-with-jetpack-compose-27d81edb7c7c)
+- [`hongbeomi-dev` / Compose Navigation 살펴보기](https://medium.com/hongbeomi-dev/compose-navigation-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-8f9c63426eca?source=rss-c941a8b6c471------2)
 
 <!-- END: medium.com -->
 

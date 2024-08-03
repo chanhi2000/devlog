@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "S7chAOXT0Y8", "title": "개발자가 무료로 기내 와이파이 쓰는 방법" },
+    { "id": "DRjRI-Z4028", "title": "전세계 컴퓨터에 영역전개해서 블루스크린 띄운 기업" },
+    { "id": "Ncl9VfjRyZg", "title": "와 이러면 과속단속 카메라 면역 아님?" },
+    { "id": "7ht7i7Q_smk", "title": "어떤 개발자의 바나나 채굴게임 (동접 90만)" },
+    { "id": "_8deUuO0iJ8", "title": "프론트엔드에서 가장 중요한데 가장 안하는거" },
+    { "id": "ITc1TJVWZGM", "title": "구글 검색은 어쩌다가 쓰레기가 되었나" },
+    { "id": "QYUiuQlS-38", "title": "ARG요소로 20억 벌었던 1인개발 게임" },
+    { "id": "_2MtnLyBdbk", "title": "개발자들은 한글이 밉다 1. 초성검색편" },
+    { "id": "kQwxIkspINk", "title": "요즘 7살도 추천서비스 만들수 있는 이유" },
     { "id": "NyCtO1bTWkY", "title": "당신도 DDoS 공격으로 나락에 갈 수 있다" },
     { "id": "bnus0uaps6k", "title": "채찍피티 혁명… 1년 후 근황.jpg" },
     { "id": "T3lEM26r_2s", "title": "CSS 따위 안쓰는 사나이클럽 (실존함)" },
@@ -69,5 +78,8 @@
     { "id": "jYJ3ygUfPrU", "title": "(Next.js 0강) 요즘 프론트엔드만으로 먹고살기 힘든 이유" }, 
     { "id": "3pUAantkYKc", "title": "GPT4로 특이점 실험을 해봤다는데 결과가 충격임" }, 
     { "id": "nTmAveylPjk", "title": "코파일럿 X 쓰면 코파면서 코딩가능 엌ㅋㅋㅋㅋ" }
+  ],
+  "playlists": [
+    
   ]
 }

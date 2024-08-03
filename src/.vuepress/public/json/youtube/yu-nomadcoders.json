@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/QdltvvjnwoR_pLrwcEB0sG0TAP4aah_ie0mQG44QfzD_DnjYtSW8wf4jFiTGL9Y9Z-RR4Q_pFLQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "z2iodiQW0fg", "title": "Do Yourself A Favor And Learn ffmpeg" },
     { "id": "_RIn7dSUkEg", "title": "Will Developers Switch? Trying Out Zed, A Blazing Fast VS Code" },
     { "id": "_HuQNooKRXQ", "title": "Why I Will Stop Paying For ChatGPT Plus" },
     { "id": "K10yeryaN58", "title": "Will StyleX Replace Tailwind?" },
@@ -28,5 +29,8 @@
     { "id": "QJSLtK2bY_A", "title": "요즘 완전 대세! 크롬 확장앱 만들기. 5분컷." }, 
     { "id": "eSj25owrmTM", "title": "This API is finally here !" }, 
     { "id": "ObT87Xu_CO0", "title": "모르면 손해? 엄청난 웹 API가 나타났다!" }
+  ],
+  "playlists": [
+
   ]
 }

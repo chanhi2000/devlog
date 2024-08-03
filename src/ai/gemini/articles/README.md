@@ -68,7 +68,7 @@ head:
 
 ```component VPCard
 {
-  "title": "BigQuery와 Gemini로 리뷰 분석 업무 자동화하기 - 컬리 기술 블로그"
+  "title": "BigQuery와 Gemini로 리뷰 분석 업무 자동화하기 - 컬리 기술 블로그",
   "desc": "BigQuery에서 LLM 모델 Gemini Pro 활용법 소개",
   "link": "/explore/articles/helloworld.kurly.com/bigquery-gemini-review.md",
   "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",

@@ -6,6 +6,42 @@
     "banner": "https://yt3.googleusercontent.com/ZDtYYYN81ucGglZr-LERJQHr4lxX9BCXeZi8c0A9jIyog2M8AQKAUCQmjTJGnTUola25k_AaGw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lhzKR7DCG4U", "title": "Cross-Cloud Networking: Hybrid Connectivity" },
+    { "id": "Jr2nze3bwd4", "title": "How to prompt Gemini Code Assist" },
+    { "id": "VfpaZLvtI6A", "title": "AlloyDB trial clusters: your playground for PostgreSQL innovation" },
+    { "id": "fc4IGsauStE", "title": "How Gemini and LangChain can supercharge your time series data" },
+    { "id": "9vPJf_nEXkM", "title": "Build beautiful and accessible webs pages quickly with Gemini Code Assist and Material Design" },
+    { "id": "yiGuVoVXDL4", "title": "Fireside Chat with Chen Goldberg: Kubernetes, Serverless, AI & more!" },
+    { "id": "t3js5iy1pcE", "title": "Introducing Gemma 2 for developers and researchers" },
+    { "id": "_EEGRQseO9E", "title": "Troubleshoot and improve code readability with Gemini Code Assist" },
+    { "id": "xzgkSAh-6sg", "title": "Run your Next.js app on Cloud Run" },
+    { "id": "ml2xMeftEG4", "title": "Grounding in Gemini with Vertex AI Search" },
+    { "id": "vcZN4FvY9bs", "title": "Google Cloud Logging 101 - How to manage log routing at scale" },
+    { "id": "zvyFoz8bmAc", "title": "Introducing Oracle Database@Google Cloud" },
+    { "id": "LoA_nMEtX3M", "title": "Modern Edge AI experiences" },
+    { "id": "J4Naxhm9y5g", "title": "Data security with AI powered agents" },
+    { "id": "2qMMcX2kYhs", "title": "Use Gemini for Google Cloud" },
+    { "id": "n1WwfP2SaHA", "title": "Google Cloud Marketplace for deploying AI models faster" },
+    { "id": "RE0--ddR5IE", "title": "Scaling and innovating with Google Cloud databases" },
+    { "id": "gj-rO2NaxqY", "title": "Accelerating AI inference workloads" },
+    { "id": "Pi03Gg_en6o", "title": "The UPS network of the future" },
+    { "id": "S6hjdq4UgUc", "title": "Unlocking Document Automation with Vertex AI Platform" },
+    { "id": "a8bBib3IdKI", "title": "AI solutions for healthcare" },
+    { "id": "nMOnFzjIxTg", "title": "Gemini with AlloyDB for PostgreSQL" },
+    { "id": "L32shIIHm4I", "title": "What is Gemini Code Assist?" },
+    { "id": "-Q3ljzlXKy0", "title": "Google Cloud cybersecurity solutions" },
+    { "id": "xTuVvKWrKM0", "title": "Multi-cloud security made easy for DevOps" },
+    { "id": "QMT5oiPMCNY", "title": "Build your own LLM on Google Cloud" },
+    { "id": "nJ-9HbdlIZk", "title": "Empower your data with AI" },
+    { "id": "yHk3_kqqrAY", "title": "Cloud Run Jobs overrides" },
+    { "id": "ccljdCpEBx0", "title": "Generative AI app development with Cloud SQL for PostgreSQL" },
+    { "id": "zQzL-VRGsJQ", "title": "Google Cloud Storage: managing billions of objects" },
+    { "id": "qrT4g0hZHns", "title": "Analyze data in BigQuery using Gemini models" },
+    { "id": "rLACIlY1u68", "title": "Protecting workloads with Google Cloud next generation firewall" },
+    { "id": "pE7-jgVxP8c", "title": "Analyze documents in BigQuery with Document AI" },
+    { "id": "gOByRkumrbk", "title": "Easy and affordable access to GPUs for AI/ML workloads" },
+    { "id": "NCmwwqC0TCY", "title": "Google Cloud Serverless: Accelerate your AI" },
+    { "id": "Q2i0WBQxjOo", "title": "Analyze audio in BigQuery with Speech-to-Text" },
     { "id": "AXbcadQkayU", "title": "We asked Googlers for top beginner's tips" },
     { "id": "25XA4YlhE30", "title": "We asked Googlers for their most essential Cloud services" },
     { "id": "kJBzcZ_9kUY", "title": "We asked Googlers for their go-to learning resources" },
@@ -62,6 +98,8 @@
     { "id": "VxXJUYcLmTk", "title": "How to monitor quotas in Google Cloud" }, 
     { "id": "7Z1mgOxWTs8", "title": "Moving Cron Jobs to the Cloud" }, 
     { "id": "q-nvbuc59Po", "title": "How to convert PDFs to audiobooks with machine learning" } 
+  ],
+  "playlists": [
+    
   ]
 }
-

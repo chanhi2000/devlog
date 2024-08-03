@@ -38,5 +38,7 @@ tag:
 <MyYouTubeItems jsonName="yu-codemunchies" /><!-- Code Munchies -->
 <MyYouTubeItems jsonName="yu-devmentordave" /><!-- Dev Mentor Dave -->
 <MyYouTubeItems jsonName="yu-SlowSteadyBrown" /><!-- 브라운 일기장 -->
+<MyYouTubeItems jsonName="yu-Codebagel" /><!-- Codebagel -->
+<MyYouTubeItems jsonName="yu-MickeyPedia" /><!-- 미키피디아 -->
 
 <TagLinks />

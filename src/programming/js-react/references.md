@@ -197,6 +197,14 @@ head:
 
 ---
 
+## üntil
+
+- [`@susmisc14` / React + Typescript 프로젝트에 SSR을 적용해 파이어베이스에 배포하기(1)](https://until.blog/@susmisc14/react---typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-ssr%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%B4-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-)
+
+<!-- END: until.blog -->
+
+---
+
 ## Okta
 
 - [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks)

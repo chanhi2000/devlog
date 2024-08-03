@@ -99,6 +99,7 @@ tag:
 - [`@kirri1124` / Swift Concurrency 3](https://velog.io/@kirri1124/Swift-Concurrency-3)
 - [`@jwlee010523` / SwiftUI - State와 Binding](https://velog.io/@jwlee010523/SwiftUI-State-Binding)
 - [`@jwlee010523` / SwiftUI - Property Wrapper](https://velog.io/@jwlee010523/SwiftUI-PropertyWrapper)
+- [`@jwlee010523` / Swift - 함수(Functions)](https://velog.io/@jwlee010523/Swift-Functions)
 
 <!-- END: velog.io -->
 

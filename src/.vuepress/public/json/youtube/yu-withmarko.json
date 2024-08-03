@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "KqrOePY3Oow", "title": "This Framework Changed How I Write Code" },
+    { "id": "kGEOl3BWfgk", "title": "How Coding Changed My Life" },
+    { "id": "amdUS2rfjWI", "title": "Code With Me - Early Morning in Oslo, Norway ☀️" },
     { "id": "OMwACKWpOks", "title": "The Architecture of My App - Day in the Life of a Software Engineer (ep. 41)" },
     { "id": "7fTagbYHkbM", "title": "How to Get What You Want: Communication Tips for Software Engineers" },
     { "id": "xR_uI4YHVpI", "title": "My Daily Driver Notion Setup in 2024 as a Software Engineer" },
@@ -18,5 +21,8 @@
     { "id": "En6KVC_1FAQ", "title": "How I Use Chat GPT at Work - Day in The Life of a Software Engineer (ep. 30) 😃" }, 
     { "id": "6gibI4Fo1R8", "title": "My ChatGPT 4 Workflow & Tips as a Software Engineer" }, 
     { "id": "GqgWz-n4hdE", "title": "Pushing My Mac to The Limit ⚡️" } 
+  ],
+  "playlists": [
+
   ]
 }

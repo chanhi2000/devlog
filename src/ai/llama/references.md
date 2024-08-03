@@ -44,6 +44,7 @@ head:
 ## Brunch
 
 - [`@2YWz` / Mark Zuckerberg on Llama 3.1](https://brunch.co.kr/@@2YWz/111)
+- [`@2rV` / 오픈소스 Llama 3.1 주의사항 - Llama 3.1 커뮤니티 라이선스 약관 주의점](https://brunch.co.kr/@@2rV/153)
 
 <!-- END: brunch.co.kr -->
 
@@ -64,6 +65,7 @@ head:
 ## The Missing Notes
 
 - [지난번 라마3 모델의 순수 NumPy 구현에 이어 이번에는 라마3 모델을 순수 C/CUDA로 구현해봤습니다.](https://likejazz.com/post/757291470304755712)
+- [`llama.cpp`의 내부 구현을 분석하다가 ggml을 이용한 간단한 matmul 샘플을 구현해 봤습니다(프로젝트 링크는 댓글에). 원래 llama.cpp도 Georgi](https://likejazz.com/post/757653866022141952)
 
 ---
 

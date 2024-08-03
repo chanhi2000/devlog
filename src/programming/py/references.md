@@ -756,6 +756,7 @@ head:
 - [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](http://webnautes.tistory.com/m/2356)
 - [누구나 다하는 파이썬 강좌 - 제어문](https://webnautes.tistory.com/m/2357)
 - [SIFT와 XFeat 사용해보기](https://webnautes.tistory.com/m/2360)
+- [한국어 형태소 분석기 Kiwipiepy 사용방법](http://webnautes.tistory.com/m/2362)
 
 ---
 
@@ -2144,6 +2145,12 @@ head:
 ## Computer Things
 
 - [Why I prefer `rST` to markdown](https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
+
+---
+
+## matklad
+
+- [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 
 ---
 

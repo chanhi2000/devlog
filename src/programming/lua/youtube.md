@@ -44,5 +44,7 @@ head:
 <MyYouTubeItems jsonName="yu-10xaiclub" /><!-- 10X AI Club -->
 <MyYouTubeItems jsonName="yu-Axlefublr" /><!-- Axlefublr (she\\they) -->
 <MyYouTubeItems jsonName="yu-SebastianDaschnerIT" /><!-- Sebastian Daschner -->
+<MyYouTubeItems jsonName="yu-tortellini_soup" />
+<!-- Tortellini Soup -->
 
 <TagLinks />

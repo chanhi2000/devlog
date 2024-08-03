@@ -66,5 +66,6 @@ head:
 <MyYouTubeItems jsonName="yu-abantu_AI" /><!-- 아반투 (인공지능 및 안드로이드 강의) -->-
 <MyYouTubeItems jsonName="yu-geekblekr" /><!-- 긱블 Geekble -->
 <MyYouTubeItems jsonName="yu-yisrisri_math" /><!-- 너도 아는 수학 -->
+<MyYouTubeItems jsonName="yu-TheMathSorcerer" /><!-- The Math Sorcerer -->
 
 <TagLinks />

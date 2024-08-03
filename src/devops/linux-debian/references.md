@@ -92,6 +92,7 @@ tag:
 
 - [`@euisuk-chung` / [Linux] 딥러닝 환경 구축 : CUDA, CuDNN](https://velog.io/@euisuk-chung/%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95-CUDA-CuDNN%EC%95%84-%EB%82%98-%EC%A2%80-%EA%B7%B8%EB%A7%8C-%EA%B4%B4%EB%A1%AD%ED%98%80%EB%9D%BC-%E3%85%A0)
 - [`@mythos` / \[Linux\] 마인크래프트 서버 열기](https://velog.io/@mythos/Linux-%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-%EC%84%9C%EB%B2%84-%EC%97%B4%EA%B8%B0)
+- [`@mythos` / \[OSSCA\] Linux Kernel Networking Stack #3 서버 셋팅](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-3-%EC%84%9C%EB%B2%84-%EC%85%8B%ED%8C%85)
 
 <!-- END: velog.io -->
 

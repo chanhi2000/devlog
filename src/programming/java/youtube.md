@@ -226,5 +226,9 @@ head:
 <MyYouTubeItems jsonName="yu-tom-delalande" /><!-- Tom Delalande -->
 <MyYouTubeItems jsonName="yu-perpear1" /><!-- 코딩형 -->
 <MyYouTubeItems jsonName="yu-poseidon.program" /><!-- poseidon -->
+<MyYouTubeItems jsonName="yu-ProgrammingKnowledge" /><!-- ProgrammingKnowledge -->
+<MyYouTubeItems jsonName="yu-typealias" /><!-- Dave Leeds -->
+<MyYouTubeItems jsonName="yu-RefactoringDuncan" /><!-- Refactoring  to Kotlin -->
+<MyYouTubeItems jsonName="yu-amitshekhar" /><!-- Amit Shekhar -->
 
 <TagLinks />

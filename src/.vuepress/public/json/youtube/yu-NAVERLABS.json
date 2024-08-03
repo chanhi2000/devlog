@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "NAVERLABS",
+    "name": "NAVER LABS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k4XbfXS7Ohx0cCHuQsj_qVMcHJQI-bX5MVMx5BVZ_NbsY=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7dosGI88Ih33e7qgBMRNXK686Nxc3sgPTmVO5HvJV3VIZsmhKUFAeJ3kjoVxw0qcXhBQvqWmmQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "syqpqKM1KZ4", "title": "NAVER’s Large-Scale Indoor and Outdoor Digital Twin Technology" },
+    { "id": "34ERBxlsW_Y", "title": "[DUSt3R] Reconstruct the building in 3D with a single click" }
+  ],
+  "playlists": [
+
+  ]
+}

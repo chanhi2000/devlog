@@ -45,7 +45,6 @@ tag:
 <MyYouTubeItems jsonName="yu-angethegreat" /><!-- AngeTheGreat -->
 <MyYouTubeItems jsonName="yu-cpponsea2834" /><!-- cpponsea -->
 <MyYouTubeItems jsonName="yu-IT-es6jl" /><!-- 길벗 IT 전문서(업로드 중단, 구계정) -->
-<MyYouTubeItems jsonName="yu-BoostCon" /><!-- CppNow -->
 <MyYouTubeItems jsonName="yu-songmingi1102" /><!-- 송민기 -->
 <MyYouTubeItems jsonName="yu-user-ej8bq1gs7f" /><!-- 쉽게 배우는 프로그래밍 -->
 <MyYouTubeItems jsonName="yu-ThePolyglotDeveloper" /><!-- The Polyglot Developer -->

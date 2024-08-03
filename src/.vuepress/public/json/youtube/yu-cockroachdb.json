@@ -6,6 +6,26 @@
     "banner": "https://yt3.googleusercontent.com/6RRkZnDgobEWsvxpuXT3Z9dZBqL5s-M065EVcQ5LyWy2wyx7dhjF2-qQmZ0NEkKAq7gRyZsm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bKQ5lojv8bk", "title": "Zero-downtime schema changes in CockroachDB | Database tutorial" },
+    { "id": "RX5SYAap57s", "title": "Read Committed Isolation Levels Explained | Consistency in CockroachDB" },
+    { "id": "tJ01MJQmj7o", "title": "Discussing the Patterns of Distributed Systems with Unmesh Joshi | Big Ideas In App Architecture" },
+    { "id": "Ad8yJ8lHfUM", "title": "Chaos Testing CockroachDB | Behind CockroachDB's Resilience" },
+    { "id": "CdkYsXkHQ5Q", "title": "How to connect CockroachDB to Azure Event Hubs | CockroachDB Integrations" },
+    { "id": "AYt2iDuH3V0", "title": "How to connect CockroachDB to Apache Pulsar in 60 seconds | CockroachDB integrations" },
+    { "id": "pnIsAba648A", "title": "Driving digital transformation with Altimetrik's Chief Architect | Big Ideas In App Architecture" },
+    { "id": "8M_ISTZMAis", "title": "Stored Procedures in CockroachDB 24.1: What's new?" },
+    { "id": "ItaLqjuG-K8", "title": "How to simplify your software architecture | Big Ideas In App Architecture" },
+    { "id": "yvMfrx-OIME", "title": "What's new in CockroachDB's Terraform Provider | CockroachDB 24.1" },
+    { "id": "5D9jUV8Vs_U", "title": "Virtual Computed Column Stats in CockroachDB tested" },
+    { "id": "RZjMbhLYesU", "title": "How To Design Primary Keys & Make Your Database Faster" },
+    { "id": "tWd18WMTNpQ", "title": "Strategies to Mitigate Outages and Maximize Uptime (O'Reilly Architecture Superstream)" },
+    { "id": "UgLBAmELO_M", "title": "Hands-on with UDFs (User Defined Functions) in CockroachDB v23.2" },
+    { "id": "MpcfxeNxPrw", "title": "How to use CDC to get data from CockroachDB through Kafka into Redis" },
+    { "id": "tjWtVCkRwP0", "title": "User Accounts & Metadata | CockroachDB Use Cases" },
+    { "id": "MdE3pbbFFgg", "title": "How to migrate to CockroachDB with MOLT Fetch" },
+    { "id": "lcPnFEv0_eE", "title": "How to use GCP Private Service Connect with CockroachDB" },
+    { "id": "NzhhvgzHJj4", "title": "What are stale reads? | Follower reads explained" },
+    { "id": "fbGo73eoc-o", "title": "Discussing Data Trends in the AI Era | Big Ideas In App Architecture" },
     { "id": "7nXRMBgGrS4", "title": "Make your failover latency predictable | Architectural Simplification" },
     { "id": "FjzKlQlG--Y", "title": "Database migrations with zero downtime? | Architectural Simplification" },
     { "id": "akVR5XDWd_g", "title": "How to simplify your edge computing architecture | Architectural Simplification" },
@@ -36,5 +56,8 @@
     { "id": "V5c6cvGDrY8", "title": "How to build operationally efficient payment infrastructure | Spreedly" }, 
     { "id": "3gmF_yXj3q8", "title": "Multi-Region CockroachDB Serverless | Why Regional Tables are useful" }, 
     { "id": "xvBBQVIGYio", "title": "How to perform zero downtime online schema changes" }
+  ],
+  "playlists": [
+
   ]
 }

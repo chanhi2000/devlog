@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/AQuHeePf5scUCjigJm3vmWJAV6GOtJlkiqt7cimootE0_U7hk9Ym8KZSyH-XdW95opiLZzMimg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kIFL4Je3OKs", "title": "Women in Data Science Fireside Chat with Ilda Ladeira, Karin Kimbrough and Lisa Cohen" },
+    { "id": "ODNKwcYzweo", "title": "TrustRate: A Decentralized Platform for Hijack-Resistant Anonymous Reviews" },
     { "id": "xWB-6IO8_Xg", "title": "Generative AI and Plural Governance: Mitigating Challenges and Surfacing Opportunities" },
     { "id": "eB0SNbTHfl8", "title": "GigaPath: Foundation Model for Digital Pathology" },
     { "id": "oIAmrrAEPE8", "title": "Getting Modular with Language Models: Building, Reusing a Library of Experts for Task Generalization" },
@@ -15,7 +17,7 @@
     { "id": "CJejmZ5Luo4", "title": "Research Forum 2 | Keynote: The Revolution in Scientific Discovery" },
     { "id": "KipmbUmSWoE", "title": "Strategic Subset Selection in Satellite Imagery: Machine Vision Insights" },
     { "id": "bYSY0CY0pY4", "title": "Combining Machine Learning and Bayesian networks for Decision Support in Arrythmia Diagnosis" },
-     { "id": "uXyt_E2_myA", "title": "Kahani: Visual Storytelling through Culturally Nuanced Images" },
+    { "id": "uXyt_E2_myA", "title": "Kahani: Visual Storytelling through Culturally Nuanced Images" },
     { "id": "TNaEicUPvrY", "title": "Generative AI meets Structural Biology: Equilibrium Distribution Prediction" },
     { "id": "MGS6PiZhQgI", "title": "Improving Reasoning in Language Models with LASER: Layer-Selective Rank Reduction" },
     { "id": "9ueDd5-NZco", "title": "Research Forum: Panel Discussion: AI Frontiers" },
@@ -28,5 +30,8 @@
     { "id": "ITnqWWscBsA", "title": "Task Focused IR in the Era of Generative AI Workshop: Intro + Keynote" },
     { "id": "9WrVdluFfpo", "title": "Project Orleans and the distributed database future with Dr. Philip Bernstein | Podcast" }, 
     { "id": "oZQ_c89HFU0", "title": "Installing Microsoft SEAL on Windows" }
+  ],
+  "playlists": [
+
   ]
 }

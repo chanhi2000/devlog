@@ -6,6 +6,29 @@
     "banner": "https://yt3.googleusercontent.com/ndVBX6A95r8QNXWrQoUmFnCH4z4GJKkA3fHo-Wg6PodK2HKIKrsl9zo76SJOQUu27jix8IEHunU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "I5fkYRQtOC8", "title": "[Excel 365] 새 함수 Translage, Detectlanguage 소개" },
+    { "id": "cnJ4-VnQbKY", "title": "[Excel_EGTOOLS] 함수(importrange,importdata)를 이용 구글스프레드시트 데이타 가져오기" },
+    { "id": "WV29Hv_qgDc", "title": "[Excel_EGTOOLS] Excel 추가 기능 EGTOOLS 소개 및 설치 방법" },
+    { "id": "zUwnC1VxtB4", "title": "[Excel_EGTOOLS] importData함수를 이용하여 Local CSV파일 데이타 가져오기" },
+    { "id": "zz42LvTQ1lo", "title": "[excel 365] groupby를 이용하여 항목별  전체  percentage 구하기" },
+    { "id": "q_Odl4boXNA", "title": "[구글스프레드시트] 새로운 기능 [표로 변환] 익히기 (Table)" },
+    { "id": "TBdwwb50qlM", "title": "[구글스프레드시트] Table Chart( Column Sort,  Paging )" },
+    { "id": "SqqWQyo11T0", "title": "[한글 문서 작성 팁] 사진에 메일머지 적용하기" },
+    { "id": "Xag5kMgG6rQ", "title": "[구글스프레드시트] 차트 기능을 이용한 초간단 조직도 만들기" },
+    { "id": "GoW8l00RK3A", "title": "[excel 365] (수식만으로) 꿈에서 본 로또번호로 새로운 로또 번호 세트 만들기" },
+    { "id": "WSftPuIqBhU", "title": "[Python in Excel] Query함수를 이용해 다양하게 필터링하기" },
+    { "id": "i_snRfF3MRk", "title": "[Excel365] How to GROUP BY Multiple Columns and COUNT" },
+    { "id": "_w3d_wQskU0", "title": "[Excel365] GroupBy함수를 이용해 여러 통계값 구하기" },
+    { "id": "Yu2LJodAlX0", "title": "[excel 365] GroupBy를 이용하여 직원별 세부 판매 현황 구하기" },
+    { "id": "pJQHjSvR66w", "title": "[excel365] Map을 이용하여 직원별 세부 판매 현황 구하기" },
+    { "id": "Imxc10ddKlQ", "title": "[excel365] Python을 이용하여 직원별 세부 판매 현황 구하기" },
+    { "id": "tGUBMyLDLlk", "title": "[Python in Excel] Pandas.groupby에서 계산된 필드(Calculated Field) 구현하기" },
+    { "id": "UvfCjoQ3C_8", "title": "[python in Excel] GroupBy_ Grouper 개체를 이용한 다양한 날짜 그룹핑" },
+    { "id": "zBvDwEAMKGA", "title": "[excel365] pivotby함수를  이용하여 가로/세로 방향 합계, 퍼센트 구하기" },
+    { "id": "KQLK8JnX_kI", "title": "[excel_python] itertools를 이용한 순열/조합 경우의 수 모두 구하기" },
+    { "id": "34fiTWrsFX8", "title": "[python in Excel] 가중치를 줘서 랜덤으로 로또 번호 만들기" },
+    { "id": "mgHMjy8z9gM", "title": "[python in excel] 꿈에서 본 로또번호를 가지고 새로운 번호 생성하기" },
+    { "id": "TssYBOP4oB8", "title": "[python in excel] pandas에서 upPivot 구현하기" },
     { "id": "CZ4FPpqnDMo", "title": "[Excel365] Checkbox에 수식 넣기 #checkbox_with_formula" },
     { "id": "a3e3BUu6iN0", "title": "[VBA]  행 단위로 체크박스 1개만 선택하게 하기" },
     { "id": "w7GyUxcNw78", "title": "[Excel] [유효성 검사]를 이용하여 CheckBox_행별로 N개까지 선택하게 하기" },
@@ -33,5 +56,8 @@
     { "id": "-Y6XLEKXnas", "title": "[구글스프레드시트] 수식만으로 부분합(SUB TOTAL) 구현" },
     { "id": "kIDQFfDWEfQ", "title": "[Xlwings] Check된 시트만 Sql함수를 이용하여 통계내기" },
     { "id": "ulmDCYbtFiE", "title": "[XLWings] SQL함수를 이용하여 Shuffle, N개 뽑아내기 구현" }
+  ],
+  "playlists": [
+
   ]
 }

@@ -6,6 +6,23 @@
     "banner": "https://yt3.googleusercontent.com/N9rXZqrdzVF9FU8-FCMfHpLeY4NhLtaz8SV8kyRjYgurURjkKngnAKk2t2mDHUq7EUAA9uboRg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yJGqb4GY2PI", "title": "More Secure Vue & Nuxt Apps - By Default | Vue.js Live 2024" },
+    { "id": "Rp4mElxB3gI", "title": "Composables - The Swiss Army Knife of Every Vue Developer | Vue.js Live 2024" },
+    { "id": "DyS6UdVMCuk", "title": "Scalable Forms in Vue | Vue.js Live 2024" },
+    { "id": "2NZmEhuielg", "title": "No More Mocking! Write Better Tests For Your Nuxt Application With Contract Tests | Vue.js Live 2024" },
+    { "id": "KqrO4y1oW34", "title": "We May Not Need Component Testing | Vue.js Live 2024" },
+    { "id": "XYfQezmhuLI", "title": "6 Levels of Vue Component Reusability | Vue.js Live 2024" },
+    { "id": "tVtDpExui0c", "title": "Who Are Vue? Authn In Vue, The Important Parts | Vue.js Live 2024" },
+    { "id": "LtEvGQr7AZI", "title": "Build Your Own Component Library, With `Shadcn-vue` | Vue.js Live 2024" },
+    { "id": "ve0LiUtCNME", "title": "Nuxt API Routes: Integrate Server-Side Logic Easily" },
+    { "id": "OmrwRrZitv4", "title": "10 Years of Vue: the Past and the Future | Evan You | Vue.js Live 2024" },
+    { "id": "LfH3i-97WyQ", "title": "What's Hot On Tresjs V4 | Alvaro Saburido" },
+    { "id": "EV1urnYTnUk", "title": "How To Web Dev The Right Way With Vue If You Are A Beginner | Vue.js Live 2024" },
+    { "id": "OTfSI7sIhAo", "title": "PrimeVue | The Next-Gen UI Component Library | Vue.js Live 2024" },
+    { "id": "vEPK3oA1TD8", "title": "Building a Better Hammer - The Story of Nuxt 4 | Vue.js Live 2024" },
+    { "id": "z7mMQuGxBOg", "title": "Data Loaders - Elevating Data Fetching in Vue | Vue.js Live 2024" },
+    { "id": "QLaFlFzUG7I", "title": "Vue and Nuxt Rendering Modes: Learn to Pick the Perfect Strategy for Your Site" },
+    { "id": "tYyTt52xxug", "title": "Nuxt's Server-Only Components Should Be on Your Radar" },
     { "id": "AptYLMzTrns", "title": "Easy Interfaces with Vuetify 3" },
     { "id": "bbtt04u71Vs", "title": "Real World Nuxt 3" },
     { "id": "M2f-66jP8VQ", "title": "Evan You: What you're doing wrong with Vue.js 🙅‍♂️" },
@@ -29,5 +46,8 @@
     { "id": "Jkb4wmGrPiw", "title": "SharePoint as a BackEnd framework for Vue" }, 
     { "id": "xyrWIRdGLmw", "title": "How to build a chrome extension with Vue" }, 
     { "id": "MU7K_V6rFjM", "title": "Test Driven Development in Vue with Cypress by Josh Justice" }
+  ],
+  "playlists": [
+
   ]
 }

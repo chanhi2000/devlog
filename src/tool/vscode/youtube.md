@@ -21,12 +21,13 @@ tag:
 <MyYouTubeItems jsonName="yu-code" /><!-- Visual Studio Code -->
 <MyYouTubeItems jsonName="yu-dev.channel" /><!-- Dev tips by MoHo -->
 <MyYouTubeItems jsonName="yu-DanCanCode" /><!-- DanCanCode -->
-<MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
+<MyYouTubeItems jsonName="yu-alohaclass5" /><!-- ALOHA CLASS -->
 <MyYouTubeItems jsonName="yu-CodinginPublic" /><!-- Coding in Public -->
 <MyYouTubeItems jsonName="yu-HoveredCubeOfficial" /><!-- Hovered Cube -->
 <MyYouTubeItems jsonName="yu-huxnwebdev" /><!-- HuXn WebDev -->
 <MyYouTubeItems jsonName="yu-kimfl" /><!-- 프로그래머 김플 스튜디오 -->
 <MyYouTubeItems jsonName="yu-gui.ferreira" /><!-- Gui Ferreira -->
 <MyYouTubeItems jsonName="yu-programmingwithmosh" /><!-- Programming with Mosh -->
+<MyYouTubeItems jsonName="yu-CodeBeauty" /><!-- CodeBeauty -->
 
 <TagLinks />

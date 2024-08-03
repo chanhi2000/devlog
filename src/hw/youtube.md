@@ -82,5 +82,13 @@ head:
 <MyYouTubeItems jsonName="yu-comssabu" /><!-- 컴싸부 -->
 <MyYouTubeItems jsonName="yu-ITSUB" /><!-- ITSub잇섭 -->
 <MyYouTubeItems jsonName="yu-teksyndicate" /><!-- Tek Syndicate -->
+<MyYouTubeItems jsonName="yu-karilawler" /><!-- Kari -->
+<MyYouTubeItems jsonName="yu-AndersNielsenAA" /><!-- Anders Nielsen -->
+<MyYouTubeItems jsonName="yu-Mac1PC" /><!-- Tech Services -->
+<MyYouTubeItems jsonName="yu-Techtablets" /><!-- Techtablets -->
+<MyYouTubeItems jsonName="yu-GregSalazar" /><!-- Greg Salazar -->
+<MyYouTubeItems jsonName="yu-iamalexsun" /><!-- Alex Sun -->
+<MyYouTubeItems jsonName="yu-bgsreview" /><!-- 방구석 리뷰룸 -->
+<MyYouTubeItems jsonName="yu-EngineersSG" /><!-- Engineers.SG -->
 
 <TagLinks />

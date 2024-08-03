@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/tWkUuCaPaEEicIep7t8XCijT03pJQLxo6FIevbScNYr6XDNBO2yEpNTdSpdI-0xe99eZYUMc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "T13gDBXarj0", "title": "Git PULL vs FETCH" },
+    { "id": "BIjrKuJGTxw", "title": "Git Fundamentals: Staging area, repository, working directory, file states, and commits explained." },
     { "id": "DdUy4PYigkw", "title": "What's better than a password? No password." },
     { "id": "7fzZ0B8E2uo", "title": "GitHub wants you to believe this common misconception" },
     { "id": "u-6ryWqAJR4", "title": "Git's most perplexing paradigm" },
@@ -15,6 +17,9 @@
     { "id": "zOnwgxiC0OA", "title": "Git MERGE vs REBASE: The Definitive Guide" },
     { "id": "V5KrD7CmO4o", "title": "Learn Git Squash in 3 minutes // explained with live animations!" }, 
     { "id": "ElRzTuYln0M", "title": "Learn how to rewrite Git history - Amend, Reword, Delete, Reorder, Squash and Split" }
+  ],
+  "playlists": [
+
   ]
 }
 

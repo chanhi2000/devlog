@@ -28,4 +28,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-DanielPersson" /><!-- Daniel Persson -->
+
 <TagLinks />

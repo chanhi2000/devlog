@@ -80,6 +80,8 @@ head:
 - [`@ZVA` / 애플 인텔리전스는 어떻게 엣지AI의 한계를 뛰어넘었나](https://brunch.co.kr/@@ZVA/705)
 - [`@5jl5` / AI 개발: 서비스를 위한 개인정보 처리 안내서 - 개인정보보호위원회](https://brunch.co.kr/@@5jl5/125)
 - [`@2YWz` / Enterprise Private GenAI - GenAI 를 도입해야 하는 이요](https://brunch.co.kr/@@2YWz/109)
+- [`@2YWz` / 마크 저커버그와 젠슨 황이 논의한 AI의 미래](https://brunch.co.kr/@@2YWz/113)
+- [`@2rV` / 앤드류 응이 제안하는 AI 제품 개발 방식](https://brunch.co.kr/@@2rV/156)
 
 <!-- END: brunch.co.kr -->
 

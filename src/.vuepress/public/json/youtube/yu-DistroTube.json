@@ -6,6 +6,23 @@
     "banner": "https://yt3.googleusercontent.com/oMrToBgvTsKkj_uZ1F1qYT2XuGY5gN9mkuVun9L0x2lUlfV-gnntzK3jX-VpoQDLBaTfJCIZebA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "e_TmGraxRzY", "title": "SDesk...Yet Another Arch-Based Linux Distro? Or Something More?" },
+    { "id": "zEe1CqlWKZ0", "title": "The Tiling Shell For The GNOME Desktop" },
+    { "id": "zirQ5RXwcU4", "title": "5 Things To Do Right After Installing Linux" },
+    { "id": "5_m4sbaE3X8", "title": "7 Useful Shell Utilities That I Rarely Use" },
+    { "id": "Ro3fzDJy06k", "title": "Kasperky Offers A Free Virus Removal Tool For Linux" },
+    { "id": "3qRMO9t8rmo", "title": "Kali Linux - The Distro For Script Kiddies And Super Villains" },
+    { "id": "gvZbW_jZZws", "title": "Useful Commands To Help Solve Linux Problems (DT LIVE!)" },
+    { "id": "Kc6ZuIIG3i8", "title": "Turn Your Terminal Into A Tiling Window Manager With Zellij" },
+    { "id": "99pisOo6YYM", "title": "Hey, DT! Why Choose Linux Over Windows? (And Other Questions)" },
+    { "id": "V5kwTKqD23g", "title": "Installing Doom Emacs...For Power Noobs (DT LIVE!)" },
+    { "id": "kvNfrPef0hs", "title": "Qprompt Teleprompter For Video Content Creators (Windows, Mac and Linux)" },
+    { "id": "GmV1LSbZO2s", "title": "Looking At Fedora 40 \"KDE\" (Should THIS Be The Official Fedora Flavor?)" },
+    { "id": "0XR0chZU3vY", "title": "On Arch Linux, The AUR Is Good. But The Chaotic AUR Is GREAT!" },
+    { "id": "xZkU1Y0UUUU", "title": "A Look At Ubuntu Cinnamon 24.04 (Is This The Linux Mint Killer?)" },
+    { "id": "pDU5sVNmXSE", "title": "Linux Users Think About Things...Differently  (DT LIVE!)" },
+    { "id": "X5YPjNKR3iM", "title": "Why Firefox Is Dead (The Many Mistakes Of Mozilla)" },
+    { "id": "0AfPcxOoY4w", "title": "Learn These 3 Commands To Go From Terminal Noob To Power User" },
     { "id": "mpTeUGgpUIw", "title": "What I Learned From Linux and Free Software" },
     { "id": "9wyIECjwAio", "title": "The Absolute Basics of Vim (It's Not THAT Hard!)" },
     { "id": "koPNR_6MOKs", "title": "Void Linux - An Independent Distro Doing Its Own Thing" },
@@ -62,5 +79,8 @@
     { "id": "HrY6Gz1UiE0", "title": "Dmscripts now has '`-d`', '`-r`' and '`-f`' options. (`dmenu`, `rofi`, & `fzf`)" }, 
     { "id": "tTS2KVCJ-MQ", "title": "An Update Borked My Linux System. How Did I Fix It?" }, 
     { "id": "Ab6cWN9ZrXo", "title": "The Amazing Interactive Command Line Fuzzy Finder (`fzf`)" }
+  ],
+  "playlists": [
+
   ]
 }

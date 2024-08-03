@@ -2421,5 +2421,26 @@
     "topics": ["audio-fingerprinting", "audio-processing", "go", "golang", "not-shazam", "shazam", "song", "song-recognition-algorithm"],
     "avatar": "https://avatars.githubusercontent.com/u/88312276?v=4",
     "banner": ""
+  }, {
+    "repo": "xvzc/SpoofDPI",
+    "desc": "A simple and fast anti-censorship tool written in Go",
+    "officialSite": "",
+    "topics": ["anti-censorship", "censorship-circumvention", "censorship-free", "deep-packet-inspection", "dpi", "dpi-bypassing", "dpi-filtering", "golang", "proxy-server"],
+    "avatar": "https://avatars.githubusercontent.com/u/45588457?v=4",
+    "banner": ""
+  }, {
+    "repo": "rancher/rancher",
+    "desc": "Complete container management platform",
+    "officialSite": "http://rancher.com",
+    "topics": ["cattle", "containers", "docker", "kubernetes", "orchestration", "rancher"],
+    "avatar": "https://avatars.githubusercontent.com/u/9343010?v=4",
+    "banner": ""
+  }, {
+    "repo": "flavioribeiro/donut",
+    "desc": "donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion.",
+    "officialSite": "",
+    "topics": ["608", "cea608", "h264", "live-streaming", "srt", "webrtc"],
+    "avatar": "https://avatars.githubusercontent.com/u/244265?v=4",
+    "banner": ""
   }
 ]

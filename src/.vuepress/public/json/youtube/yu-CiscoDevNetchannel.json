@@ -6,6 +6,34 @@
     "banner": "https://yt3.googleusercontent.com/yQyiKRZh3-P0JP0FpZRY5YFPEnhFgfhZyddh-SM_nJ1O8XZ-ceE-eWDhEN2dehIj6NALP6CKZMs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WIcB41vDtio", "title": "Exploring the Power of Webex Bots with Buttons and Cards for Webex Developer Audience" },
+    { "id": "spj5SWg5J7c", "title": "Webex Contact Center APIs" },
+    { "id": "wSMAmQY3x7E", "title": "Unlocking the Power of Custom Widgets in Webex Contact Center" },
+    { "id": "8us4-QSHBFA", "title": "Transform Calls into Experiences Tap into the Webex Web Calling SDK" },
+    { "id": "CQloqBjVcU0", "title": "Webex Developer Year in Review" },
+    { "id": "JkMj90O7sps", "title": "Upgrade Your App with Webex Meetings SDK V3 Simplified Integration and Enhanced Features" },
+    { "id": "T6KnZUwnHT8", "title": "Webex Calling Provisioning APIs" },
+    { "id": "oKyptMtaiwg", "title": "Mastering Header Widgets A Deep Dive into Customization for the Webex Contact Center" },
+    { "id": "sXrSJEw-n0I", "title": "Webex Sidebar Apps" },
+    { "id": "yDJ1qEDu-AY", "title": "Rapidly Create Customized Enterprise GenAI Assistants and Apps, Powered by RAG and NLP Guardrails." },
+    { "id": "t6FeomBCfCg", "title": "DevOps Shop Earning the Cisco DevNet Specialist DevOps Certification" },
+    { "id": "n2IhwohWYZM", "title": "Secure Access APIs: Authentication Best Practices" },
+    { "id": "qwfMm8S5-2o", "title": "30 Questions with \"The Godfather of Programmability\" Jason Gooley" },
+    { "id": "tleKTgYyByk", "title": "NetGru LIVE 'Running Ollama locally on a Cisco Catalyst 9300!'" },
+    { "id": "0Wk5eZ979Gw", "title": "NetGru LIVE: BGP prefix limit Automation using Event Driven Ansible" },
+    { "id": "kVOj8EOhdjI", "title": "DevOps-related Sessions at Cisco Live" },
+    { "id": "qk6LZRi-g38", "title": "Are Humans the Weakest Link in Cybersecurity? | Interview with Dr. Jessica Barker" },
+    { "id": "H_Y1dqb0TgU", "title": "Observability for LLM applications, stream with Nir Gazit OpenLLMetry" },
+    { "id": "Zn9H1RIPt8Y", "title": "Using Retrieval-Augmented Generation to make domain-specific agents" },
+    { "id": "nCy0mKf5Zk8", "title": "Generative AI on AWS" },
+    { "id": "D6nmcGRgpi4", "title": "Exploring Cisco Catalyst WAN SDK and Ansible Collection" },
+    { "id": "jeZOPV9J3FY", "title": "Cisco Umbrella API getting started with Authentication" },
+    { "id": "lbgDjpO-Uks", "title": "Automating security posture and infrastructure management using CDO's APIs" },
+    { "id": "7U1LZU2jNyw", "title": "Create your own API & Code Assistant | Understanding RAG with Cisco Catalyst Center" },
+    { "id": "RWurcal_Nbo", "title": "AI and Cybersecurity with Omar Santos" },
+    { "id": "bhkDU98J4T4", "title": "NetGru LIVE: Model Driven Telemetry with Catalyst 9000 Switches" },
+    { "id": "quNCD8GJ2pE", "title": "Getting Started with Authentication and Cisco Secure Access API" },
+    { "id": "q9qk-G5kED0", "title": "Sustainable DevOps" },
     { "id": "qBqE7G6txAg", "title": "Generative AI models Mistral, Llama2, Gemma" },
     { "id": "Uwc9fqvVgXQ", "title": "Exploring Lang* - A suite of AI tools" },
     { "id": "zwzbKBqOT4M", "title": "Cisco Defense Orchestrator, Installing Secure Device Connector and Secure Events Connector on Ubuntu" },
@@ -39,5 +67,8 @@
     { "id": "zJ7aRuyGHPM", "title": "Convert CLI-based Data from SSH-Accessible Endpoints into InfluxDB Measurement." }, 
     { "id": "2rDAziMChXs", "title": "Intro to Ansible for Automation" }, 
     { "id": "kwxOqQ3fC5o", "title": "Intro to Cisco Modeling Labs for DevOps"}
+  ],
+  "playlists": [
+
   ]
 }

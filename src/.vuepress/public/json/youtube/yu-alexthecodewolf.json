@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/AkFbWpidry0bFjIop0oa6Ct65P6xWu9o93GamfbYSVSF-I_xUuoUTOnpKez77NLKhqNJ6kkzqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "177qX6mpyMg", "title": "Setup and code with a local AI model using Ollama and Phi3." },
+    { "id": "WKj8lo-ZbY4", "title": "Host your own AI Model in 10 minutes...for free!" },
+    { "id": "GkH4Ci0eDLU", "title": "The new OpenAI SDK for .NET is here! Explore the changes." },
+    { "id": "HE79vfNmbMc", "title": "Microsoft Build 2024 - .NET Recap in 6 minutes!" },
+    { "id": "4ZTYjUS705k", "title": "Blazor SignalR File Uploads in .NET .8.0 (Part 3 of the File Upload Series)" },
     { "id": "Ob7zT70laDw", "title": "Blazor Render Modes - Understand Component Feature Compatibility" },
     { "id": "JhfNHnAahZ8", "title": "Use AI to chat with a NoSQL database! A simple intro." },
     { "id": "O1QmK_q2Xfw", "title": "Add authenticated user login to any Azure App Service app in 10 minutes!" },
@@ -24,5 +29,8 @@
     { "id": "EVqA2jTQt_A", "title": "Blazor File Uploads in .NET 8.0 Part 2: WebAssembly" },
     { "id": "a5-iQ5IGtT0", "title": "Blazor File Uploads Series Part 1: Server-Side Rendering" },
     { "id": "WeqwhzpaI6Y", "title": "Quick Tip! The new file comparison feature in Visual Studio 2022" }
+  ],
+  "playlists": [
+
   ]
 }

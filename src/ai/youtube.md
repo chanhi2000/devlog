@@ -42,5 +42,6 @@ head:
 <MyYouTubeItems jsonName="yu-DataCouncil" /><!-- Data Council -->
 <MyYouTubeItems jsonName="yu-realreport" /><!-- RealGrid -->
 <MyYouTubeItems jsonName="yu-TutorialsPoint_" /><!-- Tutorialspoint -->
+<MyYouTubeItems jsonName="yu-mlopslearners" /><!-- MLOps Learners -->
 
 <TagLinks />

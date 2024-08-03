@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/bwyTZo8WNZd7P6nMhHP42hw3bbmJlax-ZMScrGXIBetIS-oqk_4DWCjzHHUXR56blW_53ktmdvw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NPI8MD6SyYs", "title": "Simple Fullscreen Toggle with JavaScript" },
     { "id": "kNwQjs_xy1Q", "title": "How I Plan and Organise Freelance Work with Scrintal!" },
     { "id": "yv0H4ok01Jw", "title": "Starting a VR Development Business From Scratch!" },
     { "id": "j-zjFom9Z7M", "title": "Build a Todo App with Vue JS and Vueform" },

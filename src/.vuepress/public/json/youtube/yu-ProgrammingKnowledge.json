@@ -6,6 +6,21 @@
     "banner": "https://yt3.googleusercontent.com/wyNzzW90NYKDT46ykTUDhbSmzqnlhjdDfjWQTOOeRF_P98XxWluDoZn_OCBuRxtGh7cZTB5Ri48=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NT9caJJsl-0", "title": "How to solve \"Error: Apache shutdown unexpectedly\"" },
+    { "id": "cjdupVSeaQ4", "title": "How to Integrate ChatGPT with Node.js App using the OpenAI API (2024)" },
+    { "id": "gIteoUkSM-k", "title": "How to Build a CRUD API - Node, Express, MongoDB (2024)" },
+    { "id": "DhVjgI57Ino", "title": "How to Install Ubuntu 24.04 LTS on VirtualBox in Windows 11 (2024)" },
+    { "id": "SgfrHKg81Qc", "title": "How to Install Ubuntu 24.04 LTS on VMware Workstation Player On Windows 11 (2024)" },
+    { "id": "gvm0bIOBRCM", "title": "How to Make Ubuntu 24.04 LTS Bootable USB Drive (2024)" },
+    { "id": "UwytmFFQF6Y", "title": "How To Install Oracle Java (JDK) On Ubuntu 24.04 LTS, Debian Linux (2024)" },
+    { "id": "GVgwCRnz_EI", "title": "How to Install Eclipse IDE on Ubuntu 24.04 LTS Linux (2024)" },
+    { "id": "NX8SHmkuLn4", "title": "How to Install and Use Visual Studio Code on Ubuntu 24.04 LTS Linux (VS Code) (2024)" },
+    { "id": "K8C92DRzLQQ", "title": "How to Install PyCharm IDE on Ubuntu 24.04 LTS Linux (2024)" },
+    { "id": "V70gziBFxzM", "title": "How to Install OBS Studio on Mac + Quick Start Screen Recording With OBS Studio On MacOS (2024)" },
+    { "id": "2LglWkwo_vY", "title": "How to Install Ngrok on Mac |  Expose your localhost to everyone | NGROK SETUP MacOS (2024)" },
+    { "id": "igc2zsOKPJs", "title": "How to Set Up MySQL Database with Docker (2024)" },
+    { "id": "ndc8oDSNZzQ", "title": "How to Install GCC and G++ Compiler on Ubuntu 24.04 LTS (Linux) (2024)" },
+    { "id": "Co5DMRh9RjE", "title": "How to Install Java JDK on Windows 11 ( with JAVA_HOME ) (2024)" },
     { "id": "343PpFsTDvM", "title": "How to Install Flutter on Visual Studio Code On Mac | With Emulator ( M1/ M2/ M3) (2024)" },
     { "id": "vqZMgufPwzE", "title": "Object Oriented Programming in Java - Java OOPs Concepts - Learn Object-Oriented Java" },
     { "id": "ZBGzx7-KjSM", "title": "How to Add Python Interpreter in Visual Studio Code - Step By Step (2024)" },
@@ -136,5 +151,8 @@
     { "id": "MKS6EaZxgLo", "title": "How to Cloning GitHub repo using using Shell Scripts in Linux" }, 
     { "id": "pd6FtTmVG6E", "title": "How to Use Nmap Script Engine (NSE) Shell Scripts in Linux" }, 
     { "id": "fowG6TmS3B8", "title": "Nested Functions Shell Scripts In Linux" }
+  ],
+  "playlists": [
+
   ]
 }

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/CF7L3JdN7N-tI9ipLrECkLl5Pj9tqb1GOJYZ_8643X0HINbW0MCFTaBnKxESYmpv77nKITChAw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vKtjiusG6j4", "title": "Lecture 22 - FuseCap: Leveraging Large Language Models for Enriched Fused Image Captions" },
     { "id": "ZbOgzFxLPD4", "title": "Lecture 16 - PG-Video-LLaVA: Pixel Grounding Large Video-Language Models" },
     { "id": "x0dTQcpCA9E", "title": "Lecture 15 - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection" },
     { "id": "DgR_OsWl8Og", "title": "Lecture 18 - Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs" },
@@ -260,5 +261,8 @@
     { "id": "eb-He6BFzJw", "title": "Lecture 9.1 - Features [Introduction to Features]" },
     { "id": "oFVgxlxXh1I", "title": "Lecture 8.16 - PyTorch Tutorial [Model Training - Full Procedure]" },
     { "id": "56DL2MniJI4", "title": "Ce Zheng - Reconstructing 3D Humans from Visual Data" }
+  ],
+  "playlists": [
+
   ]
 }

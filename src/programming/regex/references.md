@@ -93,4 +93,10 @@ tag:
 
 ---
 
+## Easy to analyze if you are really curious about data
+
+- [정규표현식 테스트할 때](https://kangmyounghun.blogspot.com/2024/08/blog-post_2.html)
+
+---
+
 <TagLinks />

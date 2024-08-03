@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/KwUbURd37fSY3pDKHIpH3Dc5aDG8Hzxr6i-HG9AtZeIwMnDhOQ_Q833LkSYrdzDvZqYuKn766Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UyEZ74l40yU", "title": "Laravel 11 & React Messenger Clone - Build and Deploy" },
     { "id": "eUNWzJUvkCA", "title": "Laravel 11 Crash Course - Laravel in 1 hour" },
     { "id": "VrQRa-afCAk", "title": "Laravel 11 + React Full Stack App with Inertia - Project Management App" },
     { "id": "BdGvI3W0f9E", "title": "Laravel 11 + React SaaS with Stripe Integration" },
@@ -61,5 +62,8 @@
     { "id": "W1xxvngjep8", "title": "Yii2 + Bootstrap 4 integration and bug fixing | yii2 tutorials" }, 
     { "id": "sRJ6GYiCwkI", "title": "Yii2 PHP Framework Tutorial - Crash Course for Beginners" }, 
     { "id": "Z99lYtn3quk", "title": "Bulk image resize with PHP" } 
+  ],
+  "playlists": [
+
   ]
 }

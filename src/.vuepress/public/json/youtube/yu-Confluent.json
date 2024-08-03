@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "Confluent",
+    "name": "Confluent",
+    "profile": "https://yt3.googleusercontent.com/UL39JvqfMj2FQShUibj3l0dkOXqiHBxXyLSey4VFue5Vyem0bOTaWsGMX2S2b3Q6fNLNnMxV9w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mPMNJfKBqs9j7uyJcCEUeZP4J1u2sSLtCIrtz-p38UrzT999E7pDF3MC6uHQZzuUVscNQI3h_qA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4jHNC3EfPz8", "title": "Retrieval Augmented Generation (RAG) with Data Streaming" },
+    { "id": "Vg7k_3vlC3Q", "title": "Confluent Data Portal: Data Discovery Made Easy" },
+    { "id": "GNDOMJAT3T0", "title": "Defining Asynchronous Microservice APIs for Fraud Detection | Designing Event-Driven Microservices" },
+    { "id": "HB_TbqCKny4", "title": "How to Analyze Data from a REST API with Flink SQL" },
+    { "id": "8q-Eb0rokX4", "title": "Extracting a Fraud Detection Microservice from a Bank System | Designing Event-Driven Microservices" },
+    { "id": "rg--K26xrvQ", "title": "Using Asynchronous Events to enrich Fraud Detection | Designing Event-Driven Microservices" },
+    { "id": "dahs6jpCYQs", "title": "What is a Headless Data Architecture?" },
+    { "id": "IUTURgxpBUU", "title": "Tabs or spaces? Merge vs. rebase? Let’s settle it with confluent-kafka-javascript" },
+    { "id": "4GffyiSZri4", "title": "Microservice Pitfalls: Solving the Dual-Write Problem | Designing Event-Driven Microservices" },
+    { "id": "eKIiwDII3cs", "title": "How to resolve issues with your Python Kafka Producers" },
+    { "id": "YEsP9zW1h10", "title": "Exactly-Once Processing in Apache Flink" },
+    { "id": "XG7N2C9Ikqk", "title": "Kafka Summit Bangalore 2024 | Keynote" },
+    { "id": "tFTvFHDnkb4", "title": "Event-Driven Microservices in Banking and Fraud Detection | Designing Event-Driven Microservices" },
+    { "id": "7fkS-18KBlw", "title": "Event-Driven Architecture (EDA) vs Request/Response (RR)" },
+    { "id": "tXINs1aQjsI", "title": "Introducing Gitpod for Confluent Developer" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -25,7 +25,6 @@ tag:
 <MyYouTubeItems jsonName="yu-ThePrimeagen" /><!-- ThePrimeagen -->
 <MyYouTubeItems jsonName="yu-jocoding" /><!-- 조코딩 JoCoding -->
 <MyYouTubeItems jsonName="yu-SimplilearnOfficial" /><!-- Simplilearn -->
-<MyYouTubeItems jsonName="yu-ProgrammingKnowledge" /><!-- ProgrammingKnowledge -->
 <MyYouTubeItems jsonName="yu-derekbanas" /><!-- Derek Banas -->
 <MyYouTubeItems jsonName="yu-jimmykimu" /><!-- DEvS -->
 <MyYouTubeItems jsonName="yu-KERBEROSJOO" /><!-- KERBEROS -->

@@ -398,4 +398,10 @@ tag:
 
 ---
 
+## Repeatable Systems
+
+- [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
+
+---
+
 <TagLinks />

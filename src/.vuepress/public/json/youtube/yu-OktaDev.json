@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/K0_q3Z6zbDODlhZ2wab2PnH-szBepybsASSPUV7boJ6O0iuzZeAKDh0e9uPziXiOyiYrVLLphA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NAz2Oi2-N7Y", "title": "Understanding the nuances of passkeys  [The Confused Developer]" },
+    { "id": "adZ5zJ5nZ1A", "title": "Founder of an AI startup on improving how enterprise orgs work, AI deployment, and identity mgmt" },
+    { "id": "BXP6K6oZDRw", "title": "5 reasons to STOP using passwords and start using passkeys [Passkeys 101]" },
+    { "id": "3iVh2MdvQ1Y", "title": "Troubleshooting the Email Flow | Auth0 Support" },
+    { "id": "6nwoZangqwc", "title": "How To Enable MFA for a Subset of Users - Auth0 Support" },
+    { "id": "5UXvQln5yY0", "title": "Configure SSO for Auth0 Dashboard - Auth0 Support" },
+    { "id": "NEllH_jX9Dg", "title": "Get Started with .NET and Auth0 in Less Than 5 Minutes" },
     { "id": "z4JnIYIrvSE", "title": "Using Next.js Server Actions to Call External APIs" },
     { "id": "8s14Nhvgnb0", "title": "Building a Secure and Scalable B2B SaaS App in React" },
     { "id": "9ubpQ_VW158", "title": "Setting up the Auth0 Next.js SDK with App Router Support" },

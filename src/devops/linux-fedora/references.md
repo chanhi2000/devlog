@@ -30,6 +30,7 @@ tag:
 - [`@mythos` / \[Linux Kernel\] 개발 환경 설정하기](https://velog.io/@mythos/Linux-Kernel-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [`@mythos` / [Linux Kernel] QEMU 를 통한 커널 디버깅](https://velog.io/@mythos/Linux-Kernel-QEMU-%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%BB%A4%EB%84%90-%EB%94%94%EB%B2%84%EA%B9%85)
 - [`@mythos` / \[Linux\] 마인크래프트 서버 열기](https://velog.io/@mythos/Linux-%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-%EC%84%9C%EB%B2%84-%EC%97%B4%EA%B8%B0)
+- [`@mythos` / \[OSSCA\] Linux Kernel Networking Stack #3 서버 셋팅](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-3-%EC%84%9C%EB%B2%84-%EC%85%8B%ED%8C%85)
 
 <!-- END: velog.io -->
 

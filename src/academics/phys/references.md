@@ -82,6 +82,7 @@ head:
 
 - [배터리 용어 - SoH 개념](https://m.blog.naver.com/seo0511/223527913928)
 - [배터리 용어 - SoC 개념](https://m.blog.naver.com/seo0511/223532594028)
+- [배터리 용어 - DoD 개념](https://m.blog.naver.com/seo0511/223533133862?fromRss=true&trackingCode=rss)
 
 ---
 

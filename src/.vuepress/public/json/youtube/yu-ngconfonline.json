@@ -6,6 +6,37 @@
     "banner": "https://yt3.googleusercontent.com/Oc4PMpaPSVaZO4TQb2Wzdf3cV5VOxaWTJpbFrQ9yeUdgp6PQDzr78bVKvR0B8c69ZvSy_IS1xj0=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ItHdl63Xuvo", "title": "Ultimate Server-Client State Synchronization w/ Angular Query | Tomasz Ducin" },
+    { "id": "HWJnLVZ22ts", "title": "Alex Rickabaugh & Ed Ezekiel | JAN 2024 | Angular Community Meetup" },
+    { "id": "JTs6ZibNHhU", "title": "Binding Host with Magic of Signals | Ankita Sood | Angular Community Meetup" },
+    { "id": "7lOcE88Gizw", "title": "Making A Splash With View Transitions | Mike Hartington | ng-conf 2024" },
+    { "id": "Vp2Szt-rp-s", "title": "Mike Hartington deserves some applause for this mind-blowing animation hack!" },
+    { "id": "BRIrMEdjf0A", "title": "Three cornerstones ineffable in future Angular architecture | Michael Hladky | ng-conf 2024" },
+    { "id": "Enwe4z_XmOY", "title": "Elevating Your Dev Career: A Discussion with Uncle Bob Martin" },
+    { "id": "3oaO4TUSRuY", "title": "Signal-based architecture for your Angular apps | Alain Chautard" },
+    { "id": "CJODiQNFHEI", "title": "The A+ Show Live | The Angular Feud | ng-conf 2024" },
+    { "id": "qAmHR84Ly50", "title": "Angular Team | Best Practices for Server-side Rendering | Gerald Monaco | ng-conf 2024" },
+    { "id": "oSqqKVA0S98", "title": "Aplicaciones Angular con Signals" },
+    { "id": "skjtZbFBOiU", "title": "Dominando Angular Schematics para Automatización en JS" },
+    { "id": "gTPCJkKOKZw", "title": "#Signal inputs are CLEAN!" },
+    { "id": "HioKmNENQ9Q", "title": "Processing Usability Feedback | Tony Alicea" },
+    { "id": "8Vi-p4wg2EQ", "title": "Refactoring Made Easy with Component Testing | JordanPowell" },
+    { "id": "AEMMyvFkx4c", "title": "Vertical Architectures for Scalable Angular Applications | Manfred Steyer" },
+    { "id": "uDiGj-L78yc", "title": "Deferred Loading for Code of All Ages | Lara Newsom | ng-conf 2024" },
+    { "id": "olui2Dy24PU", "title": "Performance Mistakes You Might Not Realize You Are Making | Lara Newsom" },
+    { "id": "kRBrK6m82YU", "title": "Refactoring in Angular: Ensuring Quality Through Modularity, Metrics, & Testing | Rainer Hahnekamp" },
+    { "id": "fx8H6MuMILQ", "title": "Exploring Angular 18: Unveiling the Future of Angular Development" },
+    { "id": "j6m_Tuno7Bo", "title": "Angular Team | Channel 18 News Angular Update  | Emma Twersky and Mark Thompson | ng-conf 2024" },
+    { "id": "8gz-48o9KZY", "title": "Good Code, Testable Code | Artem Zakharchenko" },
+    { "id": "xKmSgt9HbpM", "title": "Quality Teams = Quality Code | Trevor Kendall" },
+    { "id": "GuwwfDHDtWU", "title": "Angular 18 Launch Party with the Angular Community Meetup" },
+    { "id": "MSZZt_6eTwk", "title": "signalState: The better Signal? |  Rainer Hahnekamp | ng-conf 2024" },
+    { "id": "sht9n9LA1zw", "title": "Elevating Angular Apps w/ Chat Generative AI | Colin Williams | ng-conf 2024" },
+    { "id": "7FETPXArYrg", "title": "Injection, Isolation, and Inject() | Bradley Carestia | ng-conf 2024" },
+    { "id": "ntq7qrd9ofQ", "title": "Angular Unleashed 101: Your Web Dev Starter Pack | John Christiansen | ng-conf 2024" },
+    { "id": "xs8-8xT9A_o", "title": "Angular Community Meetup en Español | Febrero 13 2024 | Efisio Pitzalis" },
+    { "id": "cJ7AuQUBmA4", "title": "Learn Angular Signals By Writing Your Own | Corbin Crutchley" },
+    { "id": "jvklGXdyv94", "title": "Angular Community Meetup en Español | Febrero 13 2024 | Freddy Montes" },
     { "id": "0UAf3Q8KcUE", "title": "Angular 17: Deep Sea Discoveries" },
     { "id": "OJarDJOPw5s", "title": "NG Conf 2024 Thursday Community Keynote" },
     { "id": "nIBseTi6RVk", "title": "NG Conf 2024 Wednesday Morning Keynote w Jeremy Elbourn &  Minko Gechev" },
@@ -23,5 +54,8 @@
     { "id": "-PRgw9exL-8", "title": "Lightweight Architectures with Angular's Latest Innovations | Manfred Steyer | ng-conf 2023" },
     { "id": "Gg4qPvqm2ec", "title": "Angular Community Meetup | Sept 22nd, 2023 | Alain Chautard, Eduardo Roth, & Giovanni Rivas" },
     { "id": "Mu8n3CPdjG4", "title": "Build a Culture of Site Reliability | Brian Love and Mike Ryan from Polaris" }
+  ],
+  "playlists": [
+
   ]
 }

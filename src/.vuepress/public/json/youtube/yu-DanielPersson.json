@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/u0hA3qiqE5Vh5sAREZVdSa-jKWCuTwSJfErbRSpE9Tk8NBCoTrwh73DtXIzPujWaWwZ7hOitrqs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8jCt1QIepTw", "title": "Build Docker Images for Any Platform with Buildx" },
+    { "id": "ZqmbwhDjfdo", "title": "I needed to run one docker container per host - Ansible deploy of Docker workloads" },
+    { "id": "riIcjnVkDXY", "title": "Java 23 - Gathering Modularity" },
+    { "id": "hFLIOUyNMEg", "title": "Say Goodbye to File Size Limits! Uploading Gigabytes with Fetch" },
+    { "id": "3cnDxJ8HqLQ", "title": "Don't get blocked by QOS - RabbitMQ Quality Of Service work-around" },
+    { "id": "7ApRyRSDhVM", "title": "Amazon! Why? Security by Obscurity - AWS4 authentication method." },
+    { "id": "_XTgYvfM2h4", "title": "Automatic Debian install - How to use simple-cdd" },
     { "id": "52AM5GPUshk", "title": "I ran Linux for a year, this is my review." },
     { "id": "1uLZU7h7r9I", "title": "Event sourcing anyone? How to install Apache Kafka in production" },
     { "id": "ZFaHFMQW-fk", "title": "Mobile device management - How to install and use Headwind MDM" },
@@ -38,5 +45,8 @@
     { "id": "GRMrj-mImAc", "title": "How to use expansion files in Android" }, 
     { "id": "sESrjvGpEUQ", "title": "Webassembly with java" }, 
     { "id": "6WU9nipfBGQ", "title": "Getting Started with Sonatype: The Best Way to Manage Your Java Releases" } 
+  ],
+  "playlists": [
+
   ]
 }

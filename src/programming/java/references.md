@@ -118,6 +118,10 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 8일차 TIL - 스택](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-8%EC%9D%BC%EC%B0%A8-TIL-%EC%8A%A4%ED%83%9D)
 - [`@dongha1992` / 99클럽 코테 스터디 9일차 TIL - 힙](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-9%EC%9D%BC%EC%B0%A8-TIL-%ED%9E%99)
 - [`@dongha1992` / 99클럽 코테 스터디 10일차 TIL - 힙](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-9%EC%9D%BC%EC%B0%A8-TIL-%ED%9E%99-xw5kao7v)
+- [`@dongha1992` / 99클럽 코테 스터디 11일차 TIL](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-11%EC%9D%BC%EC%B0%A8-TIL)
+- [`@dongha1992` / 99클럽 코테 스터디 12일차 TIL](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-12%EC%9D%BC%EC%B0%A8-TIL)
+- [`@qkrtkdwns3410` / \[알고리즘\] 7662 발표자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-7662-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
+- [`@qkrtkdwns3410` / 알고리즘 2343 자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2343-%EC%9E%90%EB%A3%8C)
 
 <!-- END: velog.io java -->
 

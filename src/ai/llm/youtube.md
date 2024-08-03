@@ -64,5 +64,7 @@ head:
 <MyYouTubeItems jsonName="yu-PyDataTV" /><!-- PyData -->
 <MyYouTubeItems jsonName="yu-MakeDataUseful" /><!-- Make Data Useful -->
 <MyYouTubeItems jsonName="yu-vesslai" /><!-- VESSL AI -->
+<MyYouTubeItems jsonName="yu-V7labs" /><!-- V7 -->
+<MyYouTubeItems jsonName="yu-Confluent" /><!-- Confluent -->
 
 <TagLinks/>

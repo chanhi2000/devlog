@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "RefactoringDuncan",
+    "name": "Refactoring to Kotlin",
+    "profile": "https://yt3.googleusercontent.com/DBUiMYFc5QDuGo7-MFSNpQBk5YxJGEwUpAair9N7FqcJ0QPUcARGts4Xb2sKFJ971Dk_-MM5hg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6eMTOSrMTjdl81iFeJt1FfoIX8D321aXe8JuVIgSxoz4o-bVgodPiwXhKzywNozMeSeMQA7T=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CQ-HkC8-VWc", "title": "Ktor and Dependency Injection" },
+    { "id": "cfivesAC_cw", "title": "Kotlin Coroutines and Loom" },
+    { "id": "-Pf0xOsRDVY", "title": "(re)Creating a Ktor DSL" }
+  ],
+  "playlists": [
+
+  ]
+}

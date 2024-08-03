@@ -136,5 +136,8 @@ head:
 <MyYouTubeItems jsonName="yu-coreyms" /><!-- Corey Schafer -->
 <MyYouTubeItems jsonName="yu-DeveloperVoices" /><!-- Developer Voices -->
 <MyYouTubeItems jsonName="yu-MakeDataUseful" /><!-- Make Data Useful -->
+<MyYouTubeItems jsonName="yu-ProgrammingKnowledge" /><!-- ProgrammingKnowledge -->
+<MyYouTubeItems jsonName="yu-backendbanterfm" /><!-- Backend Banter -->
+<MyYouTubeItems jsonName="yu-yunjadong" /><!-- 윤자동 -->
 
 <TagLinks />

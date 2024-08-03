@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "raycastapp",
+    "name": "Raycast",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_moe50jwuZJ-fm-wVj9B0suDMoCysiOEguyyy4XdpNHuw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1jwSuRW_Q82RCul_FW9JtxKRANyvnQwmuMVK1VvOA3y-TEgLJzXNYu_0ARGOISU0bSbStxkMWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "TR1fxNGG7Xs", "title": "Future of Raycast AI, Window Management & Typing with a cat 🐈 – Raycast Monthly Release Vlog #2" },
+    { "id": "xm8CTtxAF-k", "title": "AI Attachments in Raycast! 🖇️" },
+    { "id": "OiQ4Eqt5kjE", "title": "Ridd from Dive Club shows his Raycast setup" },
+    { "id": "GhdrQg7_vGI", "title": "AI Models, New Website and a Massive Bug 🐛 – Raycast Monthly Release Vlog #1" },
+    { "id": "HUmvvLlrths", "title": "What's in Rissa's Raycast" },
+    { "id": "4Hi21ZpdrOc", "title": "Introducing Raycast AI Presets" }
+  ],
+  "playlists": [
+
+  ]
+}

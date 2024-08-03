@@ -67,7 +67,7 @@ head:
 <MyYouTubeItems jsonName="yu-airklassofficial" /><!-- 에어클래스 -->
 <MyYouTubeItems jsonName="yu-tech-soft" /><!-- Tech Soft -->
 <MyYouTubeItems jsonName="yu-sergey_tech" /><!-- Sergey Tech -->
-<MyYouTubeItems jsonName="yu-alohaclass8075" /><!-- ALOHA CLASS -->
+<MyYouTubeItems jsonName="yu-alohaclass5" /><!-- ALOHA CLASS -->
 <MyYouTubeItems jsonName="yu-datmt_dev" /><!-- datmt -->
 <MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 코딩하는오후 -->
 <MyYouTubeItems jsonName="yu-RamNJava" /><!-- Ram N Java -->

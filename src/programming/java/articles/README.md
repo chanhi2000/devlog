@@ -343,7 +343,7 @@ head:
 
 ```component VPCard
 {
-  "title": "Item 31: Respect abstraction contracts"
+  "title": "Item 31: Respect abstraction contracts",
   "desc": "Just because we can do something, does not mean we should. How to respect abstraction contracts and why it is so important.",
   "link": "/explore/articles/kt.academy/ek-respect-contracts.md",
   "logo": "https://kt.academy/logo.png",

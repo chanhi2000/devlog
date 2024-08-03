@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "MohamadRejeb",
+    "name": "Mohamad Rejeb",
+    "profile": "https://yt3.googleusercontent.com/msdTRhxFbkHSIBnCncMcfyl5sv_wRoRrhEMKyIj5jKi1_EgKNM3GbNuA5QwwMfxTeDF6fe6FTyI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VPXz5rF8nEg-e5E2_uRJ2AJ3SZdRkKE43yDrYllS6w_jMz-f9Ppc0Z3c8JTs41IiEPA1IqnGuw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "G6FY8jHiDVY", "title": "Kotlin Design Patterns & Best Practices - Part 1: Build a Chess Game" },
+    { "id": "HpfFu2nl32s", "title": "Building a Compose Multiplatform App From Scratch - Understanding the Structure" }
+  ],
+  "playlists": [
+
+  ]
+}

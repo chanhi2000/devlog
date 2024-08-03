@@ -173,5 +173,7 @@ head:
 <MyYouTubeItems jsonName="yu-user-ck6kt9rg4r" /><!-- 한국클라우드산업협회 -->
 <MyYouTubeItems jsonName="yu-realreport" /><!-- RealGrid -->
 <MyYouTubeItems jsonName="yu-CodeOpinion" /><!-- CodeOpinion -->
+<MyYouTubeItems jsonName="yu-murtazasworkshop" /><!-- Murtaza's Workshop - Robotics and AI -->
+<MyYouTubeItems jsonName="yu-mr.5pm" /><!-- Mr.5pm -->
 
 <TagLinks />

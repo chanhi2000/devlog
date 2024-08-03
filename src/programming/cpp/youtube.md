@@ -41,5 +41,6 @@ head:
 <MyYouTubeItems jsonName="yu-LaurieWired" /><!-- LaurieWired -->
 <MyYouTubeItems jsonName="yu-kodejun" /><!-- KodeJUN -->
 <MyYouTubeItems jsonName="yu-CppOnline" /><!-- C++Online -->
+<MyYouTubeItems jsonName="yu-BoostCon" /><!-- CppNow -->
 
 <TagLinks />

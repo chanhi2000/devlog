@@ -137,6 +137,7 @@ tag:
 - [`@root-devvoo` / 문과 출신 엔지니어 2024년 1회 정보처리기사 실기 합격 후기 (Feat. 수제비)](https://velog.io/@root-devvoo/%EB%AC%B8%EA%B3%BC-%EC%B6%9C%EC%8B%A0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-2024%EB%85%84-1%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-Feat.-%EC%88%98%EC%A0%9C%EB%B9%84)
 - [`@invidam` / 첫 번째 직장에 오기까지](https://velog.io/@invidam/before-first-jbo)
 - [`@wjsdj2009` / 비전공자 백엔드 취업 성공! 준비기간 1년 6개월! 과정부터 결과까지 싹 다 공개!](https://velog.io/@wjsdj2009/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%84%B1%EA%B3%B5-%EC%A4%80%EB%B9%84%EA%B8%B0%EA%B0%84-1%EB%85%84-6%EA%B0%9C%EC%9B%94-%EA%B3%BC%EC%A0%95%EB%B6%80%ED%84%B0-%EA%B2%B0%EA%B3%BC%EA%B9%8C%EC%A7%80-%EC%8B%B9-%EB%8B%A4-%EA%B3%B5%EA%B0%9C)
+- [`@composite` / SI는 말이야.](https://velog.io/@composite/SI%EB%8A%94-%EB%A7%90%EC%9D%B4%EC%95%BC)
 
 <!-- END: velog.io -->
 
@@ -265,6 +266,7 @@ tag:
 - [`@2weV` / 의사결정 내리기 좋게 말하기.](https://brunch.co.kr/@@2weV/533)
 - [`@3L0s` / 디지털 혁신 실행: 솔루션의 디지털화 - 디지털 혁신-16](https://brunch.co.kr/@@3L0s/119)
 - [`@2rV` / 일은 재미있으신가요?](https://brunch.co.kr/@@2rV/152)
+- [`@2rV` / 팀 문화를 바꾸는 방법 - 우리가 일하는 방식이 마음에 들지 않지만 내가 그것을 바꿀 수는 없을거야](https://brunch.co.kr/@@2rV/155)
 
 <!-- END: brunch.co.kr -->
 
@@ -946,6 +948,7 @@ tag:
 - [우리가 하는 일은 두 가지 유형의 일 뿐이다. (부제; 직무의 통합)](https://dataportal.kr/%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EC%9D%BC-%EB%BF%90%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%86%B5%ED%95%A9/)
 - [당신은 얼마나 책임 지고 있나요? (feat. Mandate Levels)](https://dataportal.kr/%EB%8B%B9%EC%8B%A0%EC%9D%80-%EC%96%BC%EB%A7%88%EB%82%98-%EC%B1%85%EC%9E%84-%EC%A7%80%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-feat-Mandate-Levels/)
 - [조직이 커지면서 발생하는 문제](https://dataportal.kr/%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%BB%A4%EC%A7%80%EB%A9%B4%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C/)
+- [티몬·위메프](https://dataportal.kr/%ED%8B%B0%EB%AA%AC-%EC%9C%84%EB%A9%94%ED%94%84-%EC%82%AC%ED%83%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%ED%9D%91%EC%9E%90%EB%8F%84%EC%82%B0/)
 
 ---
 
@@ -1414,6 +1417,12 @@ https://m.blog.naver.com/&logId=
 
 - [개발 외주 계약 팁](https://m.blog.naver.com/jhc9639/223522724897)
 - [개발자의 각 년차별 바라는 역량](https://m.blog.naver.com/jhc9639/223521476080)
+
+---
+
+## Learn How To Learn
+
+- [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 
 ---
 

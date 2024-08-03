@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "tortellini_soup",
+    "name": "Tortellini Soup",
+    "profile": "https://yt3.googleusercontent.com/dyVGf6N3HpNqXXm1YKq-pJn-RBxAeqbOxN4B-cPxAZ41vNLLD4JWcW4LbZ60u0zSQK34BVX4wA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ApDvm09BlCebB1sGNuhyYYSw0k5vIRc6qmlSc8RQCbLG6ifAEHvUUmhi_RyCjK727aoRmJ34zxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fR0rlH7a9_g", "title": "Cosmic Reach Community Roundup (June 10, 2024)" },
+    { "id": "zBJzEgDII-w", "title": "Alphadeath Devlog #1 | Defold Game Engine & JSON Save System" },
+    { "id": "ar0sWgXZ0Mk", "title": "Testing Testing 1, 2, 3... | Livestream (May 8, 2024)" },
+    { "id": "pWLuQk9NXYk", "title": "Brainstorming a Forever Game | Livestream (May 9, 2024)" },
+    { "id": "tc_kFAm8d7w", "title": "Lighthouse Showcase | Cosmic Reach" },
+    { "id": "j0Ol28eYO1w", "title": "Community Roundup (April 27, 2024) | Cosmic Reach" },
+    { "id": "h_QaN_Gzizw", "title": "Where Lua Is Actually Used" }
+  ],
+  "playlists": [
+
+  ]
+}
