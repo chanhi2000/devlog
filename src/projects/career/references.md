@@ -987,6 +987,7 @@ tag:
 - [WBS](https://ravenkim97.tistory.com/442)
 - [핵심역량 진단결과 코칭보고서](https://ravenkim97.tistory.com/444)
 - [21년도 보안동아리 활동(네트워크 보안)](https://ravenkim97.tistory.com/m/441)
+- [8월 프런트 (1/4)](https://ravenkim97.tistory.com/m/486)
 
 ---
 

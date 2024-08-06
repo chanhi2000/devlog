@@ -67,7 +67,7 @@ And change it to this:
 class ViewController: UICollectionViewController {
 ```
 
-Now open Main.storyboard in Interface Builder and delete the existing view controller. In its place, drag out a Collection View Controller (*not* a regular collection view!), then mark it as the initial view controller and embed it inside a navigation controller. Make sure you also use the identity inspector to change its class to “ViewController” so that it points to our class in code.
+Now open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard` in Interface Builder and delete the existing view controller. In its place, drag out a Collection View Controller (*not* a regular collection view!), then mark it as the initial view controller and embed it inside a navigation controller. Make sure you also use the identity inspector to change its class to “ViewController” so that it points to our class in code.
 
 Use the document outline to select the collection view inside the collection view controller, then go to the size inspector and set Cell Size to have the width 140 and height 180. Now set the section insets for top, bottom, left and right to all be 10.
 

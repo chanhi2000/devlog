@@ -59,7 +59,7 @@ To sweeten the deal, I'm going to use this opportunity to teach you lots of new 
 
 To get started, create a new Xcode project using the Single View App template, and call it Project4. Make sure Swift is selected for the language, then save the project on your desktop.
 
-Open up Main.storyboard, select the view controller, and choose Editor > Embed In > Navigation Controller – that's our storyboard finished. Nice!
+Open up <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, select the view controller, and choose Editor > Embed In > Navigation Controller – that's our storyboard finished. Nice!
 
 ---
 

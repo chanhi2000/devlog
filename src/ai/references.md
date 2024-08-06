@@ -107,6 +107,8 @@ head:
 - [ROC Curve](https://devs0n.tistory.com/m/170)
 - [CNN에서 layer가 깊어질 수록 channel size를 키우는 이유](https://devs0n.tistory.com/m/176)
 - [CNN Filter Visualization](https://devs0n.tistory.com/m/181)
+- [\[논문 구현\] Auto-Encoding Variational Bayes (Varitional Auto Encoder)](https://devs0n.tistory.com/m/191)
+- [\[논문 리뷰\] Auto-Encoding Variational Bayes (Varitional Auto Encoder)](https://devs0n.tistory.com/m/190)
 
 ---
 
@@ -301,6 +303,11 @@ head:
 
 - [AI 시대의 디자이너와 운영 효율화 - 두 강연에서 배운 것들](https://vurias0203.tistory.com/m/entry/AI-%EC%8B%9C%EB%8C%80%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%99%80-%EC%9A%B4%EC%98%81-%ED%9A%A8%EC%9C%A8%ED%99%94-%EB%91%90-%EA%B0%95%EC%97%B0%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4)
 
+---
+
+## Nicholas Carlini
+
+- [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 
 ---
 

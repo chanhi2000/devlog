@@ -350,6 +350,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build a Rocket Control System: Basic Control Theory with Python",
+  "desc": "Building any control systems, including a rocket control system, involves combining control theory with programming. Control theory is the study of how to make systems behave in a desired way using inputs...",
+  "link": "/explore/articles/freecodecamp.org/basic-control-theory-with-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

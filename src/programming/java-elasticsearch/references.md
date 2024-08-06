@@ -40,6 +40,7 @@ head:
 
 - [`@qkrtkdwns3410` / Elastic Stack 8. 2일차.](https://velog.io/@qkrtkdwns3410/Elastic-Stack-8.-2%EC%9D%BC%EC%B0%A8)
 - [`@qkrtkdwns3410` / Elastic Stack 8. 1일차.](https://velog.io/@qkrtkdwns3410/Elastic-Stack-8.-1%EC%9D%BC%EC%B0%A8)
+- [`@qkrtkdwns3410` / ES 4일차](https://velog.io/@qkrtkdwns3410/ES-4%EC%9D%BC%EC%B0%A8)
 
 <!-- END: velog.io -->
 
@@ -74,6 +75,12 @@ head:
 ## 👨‍💻꿈꾸는 태태태의 공간
 
 - [내 서버에는 누가 들어오는걸까? (실시간 user-agent 분석기)](https://taetaetae.github.io/2018/04/10/apache-access-log-user-agent/)
+
+---
+
+## ParadeDB - Postgres for Search and Analytics
+
+- [Full Text Search over Postgres: Elasticsearch vs. Alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 
 ---
 

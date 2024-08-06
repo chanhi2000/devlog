@@ -120,6 +120,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Index Your Next.js Apps Faster Using IndexNow",
+  "desc": "Next.js is a powerful framework for building lightning-fast applications. However, getting these applications indexed quickly by search engines is crucial for visibility and traffic, and sadly, this is not immediate. Even after uploading your sitemap, it can take up to weeks or even months before search engines crawl your pages...",
+  "link": "/explore/articles/freecodecamp.org/how-to-index-nextjs-pages-with-indexnow.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

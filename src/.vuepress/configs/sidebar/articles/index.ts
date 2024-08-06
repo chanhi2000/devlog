@@ -8,6 +8,8 @@ import { template as TEMPLATE_FREECODECAMP } from './freecodecamp.org';
 import { template as TEMPLATE_FRONTENDMASTER } from './frontendmasters.com';
 import { template as TEMPLATE_SMASHINGMAGAZINE } from './smashingmagazine.com';
 import { template as TEMPLATE_DIGITALOCEAN } from './digitalocean.com';
+import { template as TEMPLATE_TECMINT } from './tecmint.com';
+import { template as TEMPLATE_KOTZILLA } from './blog.kotzilla.io';
 import { template as TEMPLATE_LEARNK8S } from './learnk8s.io';
 import { template as TEMPLATE_LOGROCKET } from './blog.logrocket.com';
 import { template as TEMPLATE_MILAN_JOVANOVIC } from './milanjovanovic.tech';
@@ -81,6 +83,8 @@ export const articleSidebars = {
   frontendmaster:     (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_FRONTENDMASTER, type),
   smashingmagazion:   (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_SMASHINGMAGAZINE, type),
   digitalocean:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_DIGITALOCEAN, type),
+  tecmint:            (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_TECMINT, type),
+  kotzilla:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KOTZILLA, type),
   learnk8s:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LEARNK8S, type),
   logrocket:          (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_LOGROCKET, type),
   yozm:               (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_YOZM, type),

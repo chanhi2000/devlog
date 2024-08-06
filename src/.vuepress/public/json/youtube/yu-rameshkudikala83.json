@@ -2,7 +2,7 @@
   "channel": {
     "id": "rameshkudikala83",
     "name": "RKTestingTools",
-    "profile": "https://yt3.googleusercontent.com/fdcqo32t77bxFpRPwyGZm_98Yi9q1kmxvQDQhyQMETEpuqg3Ae9laZSAZ5FtVBuepjqRrURtP1E=s176-c-k-c0x00ffffff-no-r",
+    "profile": "https://yt3.googleusercontent.com/6ck2ZagK-OymAA_vuBuMIYKnXcyPFJtSFaA8Q7qkdy1dcu8dPhNm2o_iUSQcdNYdNCyup0Xw=s160-c-k-c0x00ffffff-no-rj",
     "banner": ""
   },
   "videos": [
@@ -41,5 +41,8 @@
     { "id": "rTzcSOgnMfw", "title": "Selenium WebDriver - Java | WebElement Commands | 05" },
     { "id": "t6ffk2HKpno", "title": "Selenium WebDriver - Java | Handling Dropdowns | 07" },
     { "id": "odQewY5of0M", "title": "Selenium WebDriver With C#  Workshop -  Part 1" }
+  ],
+  "playlists": [
+
   ]
 }

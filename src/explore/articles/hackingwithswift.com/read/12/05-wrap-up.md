@@ -52,7 +52,39 @@ isOriginal: false
 }
 ```
 
-<!-- TODO: 작성 -->
+<VidStack src="youtube/7vQJ35_df9U" />
+
+You *will* use `UserDefaults` in your projects. That isn't some sort of command, just a statement of inevitability. If you want to save any user settings, or if you want to save program settings, it's just the best place for it. And I hope you'll agree it is (continuing a trend!) easy to use and flexible, particularly when your own classes conform to `Codable`.
+
+As you saw, the `NSCoding` protocol is also available. Yes, it takes extra work to use, and can be quite annoying when your data types have lots of properties you need to save, but it does have the added benefit of Objective-C compatibility if you have a mixed codebase.
+
+One proviso you ought to be aware of: please don't consider `UserDefaults` to be safe, because it isn't. If you have user information that is private, you should consider writing to the keychain instead – something we'll look at in project 28.
+
+---
+
+## Review what you learned
+
+Anyone can sit through a tutorial, but it takes actual work to remember what was taught. It’s my job to make sure you take as much from these tutorials as possible, so I’ve prepared a short review to help you check your learning.
+
+```component VPCard
+{
+  "title": "Review – Project 12: UserDefaults – Hacking with Swift",
+  "desc": "Interactive tests that help gauge your progress learning Swift",
+  "link": "https://hackingwithswift.com/review/hws/project-12-userdefaults",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+---
+
+## Challenge
+
+One of the best ways to learn is to write your own code as often as possible, so here are three ways you should try your new knowledge to make sure you fully understand what’s going on:
+
+1. Modify project 1 so that it remembers how many times each storm image was shown – you don’t need to show it anywhere, but you’re welcome to try modifying your original copy of project 1 to show the view count as a subtitle below each image name in the table view.
+2. Modify project 2 so that it saves the player’s highest score, and shows a special message if their new score beat the previous high score.
+3. Modify project 5 so that it saves the current word and all the player’s entries to `UserDefaults`, then loads them back when the app launches.
 
 ---
 

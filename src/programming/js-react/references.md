@@ -167,6 +167,8 @@ head:
 - [`rasaf_ibrahim` / React Performance Booster - Introduction to the `uemo` hook](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i)
 - [🪄✨Building a blog with a liking feature using React, Hanko and Novu 🔥](https://dev.to/novu/building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81)
 
+<!-- END: dev.to -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
@@ -188,12 +190,13 @@ head:
 - [`@yaytomato` / 🍪 프론트에서 안전하게 로그인 처리하기 (ft. React)](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [`@eunbinn` / [번역] 리액트 컴파일러](https://velog.io/@eunbinn/react-compiler)
 - [`@u-ryu-00` / \[Tool\] React를 위한 Storybook 도입하기 1탄](https://velog.io/@u-ryu-00/Tool-React%EB%A5%BC-%EC%9C%84%ED%95%9C-Storybook-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
-- [`haryan248` / 당기세요(pull) === 민다(push)](https://velog.io/@haryan248/%EB%8B%B9%EA%B2%A8%EC%84%9C-%EC%83%88%EB%A1%9C%EA%B3%A0%EC%B9%A8)
-- [`pjc0247` / \[React 문제 노트\] loading 띄우기](https://velog.io/@pjc0247/React-%EB%AC%B8%EC%A0%9C-%EB%85%B8%ED%8A%B8-loading-%EB%9D%84%EC%9A%B0%EA%B8%B0)
-- [`pjc0247` / \[React 문제 노트\] 최신값 참조하기](https://velog.io/@pjc0247/React-%EB%AC%B8%EC%A0%9C-%EB%85%B8%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EA%B0%92-%EC%B0%B8%EC%A1%B0%ED%95%98%EA%B8%B0)
-- [`opensauced` / The React useRef Hook: Not Just for DOM Elements](https://dev.to/opensauced/the-react-useref-hook-not-just-for-html-elements-3cf3)
+- [`@haryan248` / 당기세요(pull) === 민다(push)](https://velog.io/@haryan248/%EB%8B%B9%EA%B2%A8%EC%84%9C-%EC%83%88%EB%A1%9C%EA%B3%A0%EC%B9%A8)
+- [`@pjc0247` / \[React 문제 노트\] loading 띄우기](https://velog.io/@pjc0247/React-%EB%AC%B8%EC%A0%9C-%EB%85%B8%ED%8A%B8-loading-%EB%9D%84%EC%9A%B0%EA%B8%B0)
+- [`@pjc0247` / \[React 문제 노트\] 최신값 참조하기](https://velog.io/@pjc0247/React-%EB%AC%B8%EC%A0%9C-%EB%85%B8%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EA%B0%92-%EC%B0%B8%EC%A1%B0%ED%95%98%EA%B8%B0)
+- [`@opensauced` / The React useRef Hook: Not Just for DOM Elements](https://dev.to/opensauced/the-react-useref-hook-not-just-for-html-elements-3cf3)
+- [`@eunbinn` / \[번역\] DRY - 잘못된 추상화의 일반적인 원인](https://velog.io/@eunbinn/dry-the-common-source-of-bad-abstractions)
 
-<!-- END: dev.to -->
+<!-- END: velog.io -->
 
 ---
 
@@ -1190,6 +1193,9 @@ https://o-yeon.tistory.com/227
 ## 기록
 
 - [AG-Grid 사용하기](https://coor.tistory.com/m/15)
+- [Rc-Tree 사용하기](http://coor.tistory.com/m/17)
+- [React-Tooltip 사용하기](http://coor.tistory.com/m/16)
+- [하이차트 (Highcharts) 사용하기](http://coor.tistory.com/m/18)
 
 ---
 

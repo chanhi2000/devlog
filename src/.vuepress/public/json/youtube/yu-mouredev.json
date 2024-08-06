@@ -2,8 +2,8 @@
   "channel": {
     "id": "mouredev",
     "name": "MoureDev by Brais Moure",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPuCCPUYy9g-fTDCv-sTQH497C8LSztiyxcC712zA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/xuA8YUhKZcREEfys5Dv3GtoMalQKcezKk22AlJ_-TOMATYn9NuZX5-UJtiqP5pZtFnHKXuDuR_U=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/BrHvTVuz3HnKJx656FpXzm_B8il50fI281AC0PtrE7RgHazzPqmUudw7yUzqmnuFsaCp6YkTEQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EZN2A3Sohp6upz7LdWZkVtGnlKAinY158GsjNPDV2zHaXnpqNdy7eV9Lg1Wa9U_7CKdEUvALBg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "bNy8OZJfA6I", "title": "Curso de PYTHON para WEB Avanzado (API REST, Docker, PostgreSQL...)" },
@@ -28,5 +28,8 @@
     { "id": "Ww16yyN4noo", "title": "SPLASH SCREEN en Android Studio con Jetpack Compose" }, 
     { "id": "vX_qUCXHlNw", "title": "7 + 1 Frameworks en GitHub para MEJORAR tu App iOS/Swift 🚀" }, 
     { "id": "1EAA8WgCQas", "title": "FIREBASE iOS 🔥 Curso XCODE desde CERO" }
+  ],
+  "playlists": [
+    
   ]
 }

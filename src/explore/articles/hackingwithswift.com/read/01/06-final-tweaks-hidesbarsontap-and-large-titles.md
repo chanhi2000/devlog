@@ -57,7 +57,7 @@ At this point you have a working project: you can press <kbd>Cmd</kbd>+<kbd>R</k
 
 First, you might have noticed that all the images are being stretched to fit the screen. This isn't an accident – it's the default setting of `UIImageView`.
 
-This takes just a few clicks to fix: choose Main.storyboard, select the image view in the detail view controller, then choose the attributes inspector. This is in the right-hand pane, near the top, and is the fourth of six inspectors, just to the left of the ruler icon.
+This takes just a few clicks to fix: choose <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, select the image view in the detail view controller, then choose the attributes inspector. This is in the right-hand pane, near the top, and is the fourth of six inspectors, just to the left of the ruler icon.
 
 If you don't fancy hunting around for it, just press <kbd>Cmd</kbd>+<kbd>Alt</kbd>+<kbd>4</kbd> to bring it up. The stretching is caused by the view mode, which is a dropdown button that defaults to either “Aspect Fit” or “Aspect Fill” depending on your version of Xcode Try changing that to “Aspect Fill” to see the image scaled up to fit the available space.
 
@@ -96,7 +96,7 @@ If you run the app now, you'll see that you can tap to see a picture full size, 
 
 The third change is a small but important one. If you look at other apps that use table views and navigation controllers to display screens (again, Settings is great for this), you might notice gray arrows at the right of the table view cells. This is called a disclosure indicator, and it’s a subtle user interface hint that tapping this row will show more information.
 
-It only takes a few clicks in Interface Builder to get this disclosure arrow in our table view. Open Main.storyboard, then click on the table view cell – that’s the one that says “Title”, directly below “Prototype Cells”. The table view contains a cell, the cell contains a content view, and the content view contains a label called “Title” so it’s easy to select the wrong thing. As a result, you’re likely to find it easiest to use the document outline to select exactly the right thing – you want to select the thing marked “Picture”, which is the reuse identifier we attached to our table view cell.
+It only takes a few clicks in Interface Builder to get this disclosure arrow in our table view. Open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, then click on the table view cell – that’s the one that says “Title”, directly below “Prototype Cells”. The table view contains a cell, the cell contains a content view, and the content view contains a label called “Title” so it’s easy to select the wrong thing. As a result, you’re likely to find it easiest to use the document outline to select exactly the right thing – you want to select the thing marked “Picture”, which is the reuse identifier we attached to our table view cell.
 
 When that’s selected, you should be able go to the attributes inspector and see “Style: Basic”, “Identifier: Picture”, and so on. You will also see “Accessory: None” – please change that to “Disclosure Indicator”, which will cause the gray arrow to show.
 

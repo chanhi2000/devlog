@@ -53,7 +53,7 @@ isOriginal: false
 
 <VidStack src="youtube/LYSIFwBeVvE" />
 
-I said we'd return to Interface Builder, and now the time has come: we're going to connect the "tap" action of our `UIButtons` to some code. So, select Main.storyboard, then change to the assistant editor so you can see the code alongside the layout.
+I said we'd return to Interface Builder, and now the time has come: we're going to connect the "tap" action of our `UIButtons` to some code. So, select <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, then change to the assistant editor so you can see the code alongside the layout.
 
 ::: warning
 
@@ -78,7 +78,7 @@ Here's what Xcode will write for you:
 
 …and again, notice the gray circle with a ring around it on the left, signifying this has a connection in Interface Builder.
 
-Before we look at what this is doing, I want you to make two more connections. This time it's a bit different, because we're connecting the other two flag buttons to the same `buttonTapped()` method. To do that, select each of the remaining two buttons, then Ctrl-drag onto the `buttonTapped()` method that was just created. The whole method will turn blue signifying that it's going to be connected, so you can just let go to make it happen. If the method flashes after you let go, it means the connection was made.
+Before we look at what this is doing, I want you to make two more connections. This time it's a bit different, because we're connecting the other two flag buttons to the same `buttonTapped()` method. To do that, select each of the remaining two buttons, then <kbd>Ctrl</kbd>-drag onto the `buttonTapped()` method that was just created. The whole method will turn blue signifying that it's going to be connected, so you can just let go to make it happen. If the method flashes after you let go, it means the connection was made.
 
 So, what do we have? Well, we have a single method called `buttonTapped()`, which is connected to all three `UIButton`s. The event used for the attachment is called `TouchUpInside`, which is the iOS way of saying, "the user touched this button, then released their finger while they were still over it" – i.e., the button was tapped.
 

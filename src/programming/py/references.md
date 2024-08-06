@@ -74,6 +74,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-openai"/>OpenAI
+
+- [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+
+---
+
 ## <FontIcon icon="fa-brands fa-gitlab"/>Gitlab
 
 - [`cpaperma/nondet`: Non deterministic python](https://gitlab.inria.fr/cpaperma/nondet)
@@ -2183,9 +2189,27 @@ head:
 
 ---
 
-## Misc.
+## 조대협의 블로그
 
-- [Working with Excel Files in Python](https://www.python-excel.org/)
+- [Python yield](http://bcho.tistory.com/m/1433)
+
+---
+
+## Min Hsu's Homepage
+
+- [Scheduling Model in LLVM - Part I](https://myhsu.xyz/llvm-sched-model-1/)
+
+---
+
+## Sakis' blog
+
+- [Tracking supermarket prices with playwright](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/)
+
+---
+
+## สาขาวิชาวิศวกรรมคอมพิวเตอร์ - ภาควิชาวิศวกรรมคอมพิวเตอร์
+
+- [Finding Nash Equilibria through Simulation](https://coe.psu.ac.th/ad/nashSim/)
 
 ---
 

@@ -1321,4 +1321,16 @@ tag:
 
 ---
 
+## 오늘도 개발로그
+
+- [\[MobX\] 'There are multiple, different versions of MobX active' 에러 원인과 해결 방법](https://kesakiyo.tistory.com/m/entry/MobX-There-are-multiple-different-versions-of-MobX-active-%EC%97%90%EB%9F%AC-%EC%9B%90%EC%9D%B8%EA%B3%BC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
+
+---
+
+## just quit your job
+
+- [개발자에서 엔지니어로 거듭나기 1탄](https://miconblog.com/2024/08/%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%97%90%ec%84%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a1%9c-%ea%b1%b0%eb%93%ad%eb%82%98%ea%b8%b0-1%ed%83%84/)
+
+---
+
 <TagLinks />

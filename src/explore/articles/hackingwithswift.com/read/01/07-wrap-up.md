@@ -108,7 +108,7 @@ Still here? OK. Let’s take a look at the challenges…
 
 **Use Interface Builder to select the text label inside your table view cell and adjust its font size to something larger – experiment and see what looks good.**
 
-This ought to be easy enough: open Main.storyboard, then use the document outline to select the table view, select the Picture cell inside it, select the Content View inside *that*, and finally select the Title label. In the attributes inspector you’ll find a number of options – try to figure out which one controls the font size.
+This ought to be easy enough: open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, then use the document outline to select the table view, select the Picture cell inside it, select the Content View inside *that*, and finally select the Title label. In the attributes inspector you’ll find a number of options – try to figure out which one controls the font size.
 
 **In your main table view, show the image names in sorted order, so “nssl0033.jpg” comes before “nssl0034.jpg”.**
 

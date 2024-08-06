@@ -2,8 +2,8 @@
   "channel": {
     "id": "amantinband",
     "name": "Amichai Mantinband",
-    "profile": "https://yt3.googleusercontent.com/aL7881BLadt1vARjRGy1nq113j1UaRkGPRD2SgRDi16b4OF0ZyiQzt3DCxEBqQrUS49X_ewk-Q=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/1p_F6MA_A8QqQlG5wgQ4-F8SCijBlpIZ8DQZ4tUZezFAOgH6yIOzyhGMEdqrvHpJPX7qect0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/iEWRcThJSwgMdCQWnAutNwCrYVb8MB4NJwZ0WfqLasI4cdKx3Mms43EhZikoU33F4PgYX1sKkK0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dN9wkzXzBUa8zHfJTSeXTD7a20gCXBq7pNBp7gTCalEdJY2dXhJn0bnkRI03aHdIAVJnv0M2kA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "2hiKyFi1mgI", "title": "Exceptions are evil. This is what I do instead." },
@@ -24,5 +24,8 @@
     { "id": "Edj07MdcnLw", "title": "Why Developers Are OBSESSED With Obsidian" },
     { "id": "7-P6Mxl5elg", "title": "Every Single LINQ Extension Method With Examples | .NET & C# Essentials" },
     { "id": "jnutb5Z4wyg", "title": "Domain Layer Structure & Skeleton | Clean Architecture & DDD From Scratch Tutorial | Part 13" }
+  ],
+  "playlists": [
+    
   ]
 }

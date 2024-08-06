@@ -71,7 +71,7 @@ This view is called the project editor, and contains a huge number of options th
 
 You'll need to support selective orientations in some later projects, but for now let's take the smart solution: add extra rules to Auto Layout so it can make the layout work great in landscape mode.
 
-Open Main.storyboard in Interface Builder, select the bottom flag, then Ctrl-drag from the flag to the white space directly below the flag – in the view controller itself. The direction you drag is important, so please drag straight down.
+Open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard` in Interface Builder, select the bottom flag, then <kbd>Ctrl</kbd>-drag from the flag to the white space directly below the flag – in the view controller itself. The direction you drag is important, so please drag straight down.
 
 When you release your mouse button, a popup will appear that includes the option “Bottom Space to Safe Area” – please select that. This creates a new Auto Layout constraint that the bottom of the flag must be at least X points away from the bottom of the view controller, where X is equal to whatever space there is in there now.
 
@@ -87,9 +87,9 @@ What you need to do is change Equal to be "Greater Than or Equal", then change t
 
 Our problem is still not fixed, though: in landscape, an iPhone SE has just 320 points of space to work with, so Auto Layout is going to make our flags fit by squashing one or maybe even two of them. Squashed flags aren't good, and having uneven sizes of flags isn't good either, so we're going to add some more rules.
 
-Select the second button, then Ctrl-drag to the first button. When given the list of options, choose Equal Heights. Now do the same from the third button to the second button. This rule ensures that at all times the three flags have the same height, so Auto Layout can no longer squash one button to make it all fit and instead has to squash all three equally.
+Select the second button, then <kbd>Ctrl</kbd>-drag to the first button. When given the list of options, choose Equal Heights. Now do the same from the third button to the second button. This rule ensures that at all times the three flags have the same height, so Auto Layout can no longer squash one button to make it all fit and instead has to squash all three equally.
 
-That fixes part of the problem, but in some respects it has made things worse. Rather than having one squashed flag, we now have three! But with one more rule, we can stop the flags from being squashed ever. Select the first button, then Ctrl-drag a little bit upwards – but stay within the button! When you release your mouse button, you'll see the option "Aspect Ratio", so please choose it.
+That fixes part of the problem, but in some respects it has made things worse. Rather than having one squashed flag, we now have three! But with one more rule, we can stop the flags from being squashed ever. Select the first button, then <kbd>Ctrl</kbd>-drag a little bit upwards – but stay within the button! When you release your mouse button, you'll see the option "Aspect Ratio", so please choose it.
 
 The Aspect Ratio constraint solves the squashing once and for all: it means that if Auto Layout is forced to reduce the height of the flag, it will reduce its width by the same proportion, meaning that the flag will always look correct. Add the Aspect Ratio constraint to the other two flags, and run your app again. It should work great in portrait and landscape, all thanks to Auto Layout!
 

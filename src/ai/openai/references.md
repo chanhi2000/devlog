@@ -30,11 +30,12 @@ head:
 
 ---
 
-## OpenAI
+## <FontIcon icon="iconfont icon-openai"/>OpenAI
 
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 - [Improvements to data analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
 - [Extracting Concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
+- [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 
 ### Documentation
 

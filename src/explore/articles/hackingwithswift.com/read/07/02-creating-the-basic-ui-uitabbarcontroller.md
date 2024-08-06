@@ -69,7 +69,7 @@ class ViewController: UIViewController {
 class ViewController: UITableViewController {
 ```
 
-Now open Main.storyboard, remove the existing view controller, and drag out a table view controller in its place. Use the identity inspector to change its class to be “ViewController”, then make sure you check the “Is Initial View Controller” box.
+Now open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, remove the existing view controller, and drag out a table view controller in its place. Use the identity inspector to change its class to be “ViewController”, then make sure you check the “Is Initial View Controller” box.
 
 Select its prototype cell and use the attributes inspector to give it the identifier “Cell”. Set its accessory to “Disclosure Indicator” while you’re there; it’s a great UI hint, and it’s perfect in this project. In this project, we’re also going to change the style of the cell – that’s the first item in the attributes inspector. It’s “Custom” by default, but I’d like you to change it to “Subtitle”, so that each row has a main title label and a subtitle label.
 

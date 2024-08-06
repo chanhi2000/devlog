@@ -159,7 +159,7 @@ That's identical to the previous five, except for the VFL part. This time we're 
 
 Note that our vertical VFL doesn't have a pipe at the end, so we're not forcing the last label to stretch all the way to the edge of our view. This will leave whitespace after the last label, which is what we want right now.
 
-If you run your program now, you'll see all five labels stretching edge-to-edge horizontally, then spaced neatly vertically. It would have taken quite a lot of Ctrl-dragging in Interface Builder to make this same layout, so I hope you can appreciate how powerful VFL is!
+If you run your program now, you'll see all five labels stretching edge-to-edge horizontally, then spaced neatly vertically. It would have taken quite a lot of <kbd>Ctrl</kbd>-dragging in Interface Builder to make this same layout, so I hope you can appreciate how powerful VFL is!
 
 ---
 

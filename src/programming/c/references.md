@@ -417,6 +417,7 @@ tag:
 - [\[Do it! C언어 입문\] 6.3 / 6.4 장 추가 실습 예제](https://m.blog.naver.com/tipsware/223533465196)
 - [\[Do it! C언어 입문\] 7.1장 추가 실습 예제](https://m.blog.naver.com/tipsware/223534564172)
 - [\[Do it! C언어 입문\] 7.2장 추가 실습 예제](https://m.blog.naver.com/tipsware/223535315695)
+- [\[Do it! C언어 입문\] 9장 추가 실습 예제](https://m.blog.naver.com/tipsware/223537649707)
 
 <!-- END: tipsware -->
 ---

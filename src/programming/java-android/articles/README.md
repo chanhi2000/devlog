@@ -7,15 +7,15 @@ category:
   - Java
   - Kotlin
   - Android
-  - JDK
   - Article(s)
 tag: 
   - blog
   - freecodecamp.org
   - kodeco.com
-  - yozm.wishket.com
   - droidcon.com
   - kt.academy
+  - blog.kotzilla.io
+  - yozm.wishket.com
   - meetup.nhncloud.com
   - d2.naver.com
   - blog.gangnamunni.com
@@ -51,16 +51,6 @@ head:
 
 ```component VPCard
 {
-  "title": "요즘IT", 
-  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
-  "link": "https://yozm.wishket.com/magazine/list/develop/", 
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
   "title": "Android Community on a Global Scale - droidcon",
   "desc": "droidcon Community on a Global Scaledroidcon is your source for daily tech blogs, videos, events, jobs and more all around Android development.",
   "link": "https://www.droidcon.com/",
@@ -69,13 +59,27 @@ head:
 }
 ```
 
+<SiteInfo
+  name="Kt. Academy"
+  desc="Teaching programming, with focus on the best practices."
+  url="https://kt.academy/article"
+  logo="https://kt.academy/logo.png"
+  preview="https://kt.academy/images/logo_full.png"/>
+
+<SiteInfo
+  name="Blog - Koin - Cloud-Inject.io"
+  desc="Keep yourself informed about the latest developments in the Koin framework and Cloud-Inject Observability Dev platform directly from the creators."
+  url="https://blog.kotzilla.io/"
+  logo="https://blog.kotzilla.io/hubfs/favicon.png"
+  preview="https://blog.kotzilla.io/hubfs/banner.png"/>
+
 ```component VPCard
 {
-  "title": "Kt. Academy",
-  "desc": "Teaching programming, with focus on the best practices.",
-  "link": "https://kt.academy",
-  "logo": "https://kt.academy/logo.png",
-  "background": "rgba(243,139,49,0.2)"
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -148,6 +152,8 @@ head:
 ## Kodeco
 
 > kodeco.com
+
+### <FontIcon icon="fa-brands fa-java"/>Java
 
 ```component VPCard
 {
@@ -241,36 +247,6 @@ head:
 }
 ```
 
-'', // 2022-03-28
-
----
-
-## 요즘IT
-
-> yozm.wishket.com
-
-```component VPCard
-{
-  "title": "Android, iOS 웹뷰에서 딥링크 열기 | 요즘IT",
-  "desc": "Android, iOS 웹뷰에서 딥링크 열기",
-  "link": "/explore/articles/yozm.wishket.com/2126.md",
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기 | 요즘IT",
-  "desc": "CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기",
-  "link": "/explore/articles/yozm.wishket.com/2457.md",
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
-}
-```
-
-<!-- END: yozm.wishket.com -->
-
 ---
 
 ## Android Community on a Global Scale - droidcon
@@ -306,6 +282,62 @@ head:
 ```
 
 <!-- END: kt.academy -->
+
+---
+
+## Blog - Koin - Cloud-Inject.io
+
+> blog.kotzilla.io
+
+```component VPCard
+{
+  "title": "How To Migrate from Hilt to Koin - A Detailed Guide",
+  "desc": "Migrate from Hilt to Koin for Android devs. A step-by-step guide to cover setup, annotation replacements, module migration, testing, & Compose previews.",
+  "link": "/explore/articles/blog.kotzilla.io/migrate-from-hilt-to-koin.md",
+  "logo": "https://blog.kotzilla.io/hubfs/favicon.png",
+  "background": "rgba(249,178,51,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Leveraging Lazy Modules and Background Loading in Kotlin with Koin",
+  "desc": "Boost Kotlin apps with Koin's lazy modules and background loading to enhance performance and scalability, using asynchronous techniques for efficiency.",
+  "link": "/explore/articles/blog.kotzilla.io/lazy-modules-in-kotlin-with-koin.md",
+  "logo": "https://blog.kotzilla.io/hubfs/favicon.png",
+  "background": "rgba(249,178,51,0.2)"
+}
+```
+
+<!-- END: blog.kotzilla.io -->
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "Android, iOS 웹뷰에서 딥링크 열기 | 요즘IT",
+  "desc": "Android, iOS 웹뷰에서 딥링크 열기",
+  "link": "/explore/articles/yozm.wishket.com/2126.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기 | 요즘IT",
+  "desc": "CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기",
+  "link": "/explore/articles/yozm.wishket.com/2457.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

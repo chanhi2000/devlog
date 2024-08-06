@@ -601,5 +601,12 @@
     "topics": ["free", "hacktoberfest", "hardware", "hardware-monitoring", "libre-hardware-monitor", "monitor", "monitoring", "open-source", "opensource", "system", "system-monitor", "system-monitoring"],
     "avatar": "https://avatars.githubusercontent.com/u/30905571?v=4",
     "banner": ""
+  }, {
+    "repo": "ardalis/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core",
+    "officialSite": "",
+    "topics": ["architecture", "clean-architecture", "csharp", "ddd", "domain-driven-design", "dotnet", "hacktoberfest"],
+    "avatar": "https://avatars.githubusercontent.com/u/782127?v=4",
+    "banner": ""
   }
 ]

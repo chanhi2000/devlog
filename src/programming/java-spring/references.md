@@ -447,6 +447,7 @@ head:
 - [11.1. 책 목록 개요](https://ysedeveloper.tistory.com/m/entry/111-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EA%B0%9C%EC%9A%94)
 - [11.2. 책 리포지터리 인터페이스에 목록 메소드 만들기](https://ysedeveloper.tistory.com/m/entry/112-%EC%B1%85-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%84%B0%EB%A6%AC-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [11.3. 책 목록 응답 DTO 객체 만들기](https://ysedeveloper.tistory.com/m/entry/113-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EC%9D%91%EB%8B%B5-DTO-%EA%B0%9D%EC%B2%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [11.4. 책 서비스 클래스에 목록 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/114-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -538,6 +539,9 @@ head:
 - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
 - [\[1년 후 마실가실\] Entity 수정](https://hj0216.tistory.com/m/931)
 - [\[1년 후 마실가실\] REST API 구현](https://hj0216.tistory.com/m/932)
+- [\[1년 후 마실가실\] Test Code 작성](https://hj0216.tistory.com/m/933)
+
+<!-- END: hj0216.tistory.com -->
 
 ### @mjin
 
@@ -555,6 +559,14 @@ head:
 ### My Developer Planet
 
 - [How to Monitor a Spring Boot App](https://mydeveloperplanet.com/2021/03/03/how-to-monitor-a-spring-boot-app/)
+
+### 쌓고 쌓다
+
+- [컨트롤러 테스트 코드 `@AuthenticationPrincipal` 인증 방법](https://non-stop.tistory.com/m/677)
+
+### Java칩 프라푸치노
+
+- [`@WebMvcTest` 에서 OAuth2 `@AuthenticationPrincipa`l 적용](https://m.blog.naver.com/qjawnswkd/222409298747)
 
 ---
 
@@ -606,7 +618,10 @@ head:
 
 - [Spring Data Cassandra save vs insert 동작 차이](https://willseungh0.tistory.com/m/248)
 
----
+### 빈’s 개발일기
 
+- [Spring Boot + kotlin 프로젝트에 ktlint 적용하기 (Multi module 통합 관리하기)](https://beaniejoy.tistory.com/m/108)
+
+---
 
 <TagLinks />

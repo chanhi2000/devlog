@@ -11,6 +11,7 @@ tag:
   - blog
   - freecodecamp.org
   - digitalocean.com
+  - tecmint.com
   - code-maze.com
   - meetup.nhncloud.com
   - d2.naver.com
@@ -41,6 +42,13 @@ head:
   url="https://digitalocean.com/community/tutorials?sort_by=oldest"
   logo="https://digitalocean.com/_next/static/media/favicon.594d6067.ico"
   preview="https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg"/>
+
+<SiteInfo
+  name="Tecmint: Linux Howtos, Tutorials & Guides"
+  desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
+  url="https://tecmint.com/"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  preview="https://tecmint.com/wp-content/uploads/2022/06/tecmint-linux-blog.png"/>
 
 <SiteInfo
   name="Code Maze - C#, .NET and Web Development Tutorials"
@@ -103,6 +111,74 @@ head:
 ```
 
 <!-- END: digitalocean.com -->
+
+---
+
+## Tecmint: Linux Howtos, Tutorials & Guides
+
+> tecmint.com
+
+```component VPCard
+{
+  "title": "Bashtop - A Resource Monitoring Tool for Linux",
+  "desc": "Bashtop is a terminal-based resource monitoring utility that intuitively displays statistics for your Linux CPU, memory, running processes, and bandwidth usage.",
+  "link": "/explore/articles/tecmint.com/bashtop-linux-resource-monitoring-tool.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Install Windows Subsystem for Linux",
+  "desc": "The Windows Subsystem for Linux (WSL) runs a GNU/Linux Environment which includes most of the command-line utilities and applications on top of Windows OS.",
+  "link": "/explore/articles/tecmint.com/install-windows-subsystem-for-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Install Security Updates in Ubuntu",
+  "desc": "In this article, we will show how to install security updates in Ubuntu and Ubuntu-based Linux systems.",
+  "link": "/explore/articles/tecmint.com/install-security-updates-in-ubuntu.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Synchronize Time with Chrony NTP in Linux",
+  "desc": "The Network Time Protocol (NTP) is a protocol used to synchronize Linux system clocks automatically over a network using the chrony NTP client.",
+  "link": "/explore/articles/tecmint.com/synchronize-time-with-ntp-in-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "MTR – A Network Diagnostic Tool for Linux",
+  "desc": "MTR is a simple, cross-platform command-line network diagnostic tool that combines the functionality of commonly used traceroute and ping programs into a single tool.",
+  "link": "/explore/articles/tecmint.com/mtr-a-network-diagnostic-tool-for-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "whowatch – Monitor Linux Users and Processes in Real Time",
+  "desc": "whowatch is a simple, easy-to-use interactive who-like command line program for monitoring processes and users on a Linux system in real time.",
+  "link": "/explore/articles/tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+<!-- END: tecmint.com -->
 
 ---
 

@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - tecmint.com
   - code-maze.com
   - nignx
   - webserver
@@ -26,6 +27,13 @@ head:
 # {{ $frontmatter.title }} 관련
 
 <SiteInfo
+  name="Tecmint: Linux Howtos, Tutorials & Guides"
+  desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
+  url="https://tecmint.com/"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  preview="https://tecmint.com/wp-content/uploads/2022/06/tecmint-linux-blog.png"/>
+
+<SiteInfo
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
@@ -33,6 +41,24 @@ head:
   preview="/images/content/code-maze.com/banner.png"/>
 
 [[toc]]
+
+---
+
+## Tecmint: Linux Howtos, Tutorials & Guides
+
+> tecmint.com
+
+```component VPCard
+{
+  "title": "How to Set Up Nginx Server Blocks (Virtual Hosts) on CentOS 8",
+  "desc": "In this article, you will learn how to set up Nginx server blocks (virtual hosts) on CentOS 8 and RHEL 8 Linux to host multiple websites.",
+  "link": "/explore/articles/tecmint.com/create-nginx-server-blocks-in-centos.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+<!-- END: tecmint.com -->
 
 ---
 

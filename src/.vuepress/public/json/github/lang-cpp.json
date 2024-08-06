@@ -2189,5 +2189,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/2232217?v=4",
     "banner": ""
+  }, {
+    "repo": "trailofbits/multiplier",
+    "desc": "Code auditing productivity multiplier.",
+    "officialSite": "",
+    "topics": ["analysis", "audit", "clang", "mlir"],
+    "avatar": "https://avatars.githubusercontent.com/u/2314423?v=4",
+    "banner": ""
   }
 ]

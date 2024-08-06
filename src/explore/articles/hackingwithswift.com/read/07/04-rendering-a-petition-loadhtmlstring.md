@@ -118,7 +118,7 @@ I've tried to make the HTML as clear as possible, but if you don't care for HTML
 
 That's it for the detail view controller, it really is that simple. However, we still need to connect it to the table view controller by implementing the `didSelectRowAt` method. 
 
-Previously we used the `instantiateViewController()` method to load a view controller from Main.storyboard, but in this project `DetailViewController` isn’t in the storyboard – it’s just a free-floating class. This makes `didSelectRowAt` easier, because it can load the class directly rather than loading the user interface from a storyboard.
+Previously we used the `instantiateViewController()` method to load a view controller from <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, but in this project `DetailViewController` isn’t in the storyboard – it’s just a free-floating class. This makes `didSelectRowAt` easier, because it can load the class directly rather than loading the user interface from a storyboard.
 
 So, add this new method to your `ViewController` class now:
 

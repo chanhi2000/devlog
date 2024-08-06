@@ -115,6 +115,8 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 이진 탐색 트리](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%ED%8A%B8%EB%A6%AC)
 - [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 입국심사](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
 - [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 이진탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
+- [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
+- [`@june0313` / Mockito : Mock 리스트를 주입하고 테스트 하기](https://velog.io/@june0313/Mockito-Mock-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%A3%BC%EC%9E%85%ED%95%98%EA%B3%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0)
 
 <!-- END: velog.io java -->
 
@@ -358,6 +360,7 @@ tag:
 - [[숫자야구게임 Step2] 비지니스 로직을 작성하자.](https://rutgo-letsgo.tistory.com/m/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step2-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90)
 - [[숫자야구게임 Step1] 실제 애플리케이션이 동작할 코드를 작성하자 & 마무리](https://rutgo-letsgo.tistory.com/m/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step1-%EC%8B%A4%EC%A0%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%A0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%A7%88%EB%AC%B4%EB%A6%AC)
 - [[DDD 세레나데 6기] 1주차 - 0단계 Junit5 학습](https://rutgo-letsgo.tistory.com/m/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-0%EB%8B%A8%EA%B3%84-Junit5-%ED%95%99%EC%8A%B5)
+- [프로젝트에 Kotlin의 컨벤션을 지키기 위해 Ktlint를 사용해보기.](https://rutgo-letsgo.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-Kotlin%EC%9D%98-%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9D%84-%EC%A7%80%ED%82%A4%EA%B8%B0-%EC%9C%84%ED%95%B4-Ktlint%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 ### CK.D. Lee
 
@@ -590,6 +593,7 @@ tag:
 - [\[백준\] 1717번: 집합의 표현 - java](https://findsilverlining.tistory.com/m/99)
 - [\[프로그래머스\] 두 개 뽑아서 더하기 - java](https://findsilverlining.tistory.com/m/104)
 - [\[프로그래머스\] 모의고사 - java](https://findsilverlining.tistory.com/m/105)
+- [\[프로그래머스\] 올바른 괄호 - java](https://findsilverlining.tistory.com/m/106)
 
 <!-- END: findsilverlining.tistory.com -->
 
@@ -951,6 +955,10 @@ tag:
 ### Sujan Poudel
 
 - [Manage configurations for the different environment (eg: staging, prod) in Kotlin Multiplatform](https://sujanpoudel.me/blogs/kmp-setup-config-for-different-environment-in-kmp/)
+
+### Study Note
+
+- [Ktlint 기반 스타일 체크 환경 구축](https://studynote.oopy.io/kotlin/2)
 
 ---
 

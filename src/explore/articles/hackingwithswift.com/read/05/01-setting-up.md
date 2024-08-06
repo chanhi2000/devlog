@@ -69,7 +69,7 @@ Please change it to read this instead:
 class ViewController: UITableViewController {
 ```
 
-If you remember, that only changes the definition of our view controller *in code*. We need to change in the storyboard too, so open Main.storyboard now.
+If you remember, that only changes the definition of our view controller *in code*. We need to change in the storyboard too, so open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard` now.
 
 Inside Interface Builder, use the document outline to select and delete the existing view controller so that the document is blank, then replace it with a new table view controller. Use the identity inspector to change the class of the new controller to be “ViewController”, then select its prototype cell and give it the re-use identifier “Word” and the cell style Basic. 
 

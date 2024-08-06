@@ -3,7 +3,7 @@
     "id": "SSWTV",
     "name": "SSW TV | Videos for developers, by developers",
     "profile": "https://yt3.googleusercontent.com/e5enJPc8qLh6Nlr4RWBuN0D7Jn44bpm5xppZviC-O76uKaaml3zS7DDCOkFbnA9LgayN5WAtdJc=s160-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/yXw0wwrz4T7Bg8HCqeKK9WyW4YTd81UL0pJLjBDh8scieNJp4wsZ76D1OgGjibMuqaYlKH2Y6w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "banner": "https://yt3.googleusercontent.com/njWlG0uuT4jsFXYNs2JRDqGpdKRtxmQlEAFWsFd-mQbRcJ2vcHj7r60R9ItzQuzYQjxKxD-Pug=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "Gi0d8Qahj-I", "title": "Tech News #37 | First AI \"Software Engineer\" - Devin, xAI open sources Grok-1 and Elon sues OpenAI" },
@@ -21,5 +21,8 @@
     { "id": "sMWxVPMS4tg", "title": "TDD: How Fluent Assertions came to be | Luke Parker & Dennis Doomen" },
     { "id": "X8RlScYi-Dg", "title": "Exploring Azure AI Speech Studio | Ulysses Maclaren & Michelle Sandford" },
     { "id": "Oeh2IJw7Zig", "title": "Blazor Web Apps - Goodbye JavaScript! I'm in love with C#" }
+  ],
+  "playlists": [
+
   ]
 }

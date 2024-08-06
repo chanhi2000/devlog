@@ -144,6 +144,8 @@ head:
 ## 시뻘건 개발 도전기
 
 - [Apache Kafka의 탄생 배경과 왜 사용해야하는가?](https://maeng-dev.tistory.com/m/158)
+- [아파치 카프카란?](https://maeng-dev.tistory.com/m/159)
 
+---
 
 <TagLinks />

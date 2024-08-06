@@ -116,6 +116,7 @@ export const template: SidebarInfoTemplate = {
       "server-side-rendering-in-next-js-for-improved-seo", // 2024-07-17
       "next-js-performance-optimization", // 2024-07-19
       "build-an-invoice-saas-app-with-next-js-and-neon-postgres", // 2024-08-01
+      "how-to-index-nextjs-pages-with-indexnow", // 2024-08-06
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -171,6 +172,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-a-quantum-ai-model", // 2024-07-23
       "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
       "what-is-recursion", // 2024-07-25
+      "basic-control-theory-with-python", // 2024-08-06
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -363,6 +365,9 @@ export const template: SidebarInfoTemplate = {
       "linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai", // 2024-05-28
       "how-do-numerical-conversions-work", // 2024-05-29
       "linear-algebra-roadmap", // 2024-06-04
+    ]],[
+    "coen", [
+      "learn-about-operating-systems-in-depth", // 2024-08-06
     ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -563,6 +568,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
       "encoding-and-decoding-data-in-golang", // 2024-08-05
       "how-to-build-an-event-app-with-node-js", // 2024-08-05
+      "how-to-index-nextjs-pages-with-indexnow", // 2024-08-06
+      "basic-control-theory-with-python", // 2024-08-06
+      "learn-about-operating-systems-in-depth", // 2024-08-06
     ]],
   ]),
 }

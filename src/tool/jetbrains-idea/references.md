@@ -53,6 +53,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@yongin01` / IntelliJ Kotlin style guide 적용하기](https://velog.io/@yongin01/IntelliJ-Kotlin-style-guide-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+---
+
 ## üntil
 
 - [`@melba` / IntelliJ로 JSP 개발환경 설정하기](https://until.blog/@melba/intellij%EB%A1%9C-jsp-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
@@ -101,6 +107,7 @@ head:
 ## 기억보단 기록을
 
 - [IntelliJ의 .http를 사용해 Postman 대체하기](https://jojoldu.tistory.com/m/266)
+- [IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)](https://jojoldu.tistory.com/m/673)
 
 ---
 
@@ -137,6 +144,12 @@ head:
 ## 나만의공간。
 
 - [\[Intellij\] Intellij Community - active profile 설정](https://m.blog.naver.com/writer0713/223535970459)
+
+---
+
+## 까먹지 말고 적어두기
+
+- [\[IntelliJ\] Kotlin 코드에서 wildcard('*') import 사용하지 않기](https://blog.leocat.kr/notes/2020/12/14/intellij-avoid-wildcard-imports-in-kotlin-with-intellij)
 
 ---
 

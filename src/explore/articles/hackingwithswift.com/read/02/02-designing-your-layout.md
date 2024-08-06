@@ -55,7 +55,7 @@ isOriginal: false
 
 When working on my own projects, I find designing the user interface the easiest way to begin any project – it's fun, it's immediately clear whether your idea is feasible, and it also forces you to think about user journeys while you work. This project isn't complicated, but still Interface Builder is where we're going to begin.
 
-Just as in project 1, the Single View App template gives you one `UIViewController`, called `ViewController`, and a storyboard called Main.storyboard that contains the layout for our single view controller. Choose that storyboard now to open Interface Builder, and you'll see a big, blank space ready for your genius to begin.
+Just as in project 1, the Single View App template gives you one `UIViewController`, called `ViewController`, and a storyboard called <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard` that contains the layout for our single view controller. Choose that storyboard now to open Interface Builder, and you'll see a big, blank space ready for your genius to begin.
 
 In our game, we're going to show users three flags, with the name of the country to guess shown in the navigation bar at the top. What navigation bar? Well, there isn't one, or at least not yet. We need to add one, just like we did with the previous project.
 
@@ -77,13 +77,13 @@ The next step is to bring in Auto Layout so that we lay down our layout as rules
 
 We're going to create our Auto Layout rules differently from in Project 1. This is not because one way is better than another, instead just so that you can see the various possibilities and decide which one suits you best.
 
-Select the top button, then Ctrl-drag from there directly upwards to just outside itself – i.e., onto the white area of the view controller. As you do this, the white area will turn blue to show that it's going to be used for Auto Layout.
+Select the top button, then <kbd>Ctrl</kbd>-drag from there directly upwards to just outside itself – i.e., onto the white area of the view controller. As you do this, the white area will turn blue to show that it's going to be used for Auto Layout.
 
 ![The Single View App gives you one, large, empty view controller to customize.](https://hackingwithswift.com/img/books/hws/2-5@2x.png)
 
 When you let go of the mouse button, you'll be presented with a list of possible constraints to create. In that list are two we care about: “Top Space to Safe Area“ and "Center Horizontally in Safe Area.”
 
-You have two options when creating multiple constraints like this: you can either select one then Ctrl-drag again and select the other, or you can hold down shift before selecting an item in the menu, and you'll be able to select more than one at a time. That is, Ctrl-drag from the button straight up to the white space in the view controller, let go of the mouse button and Ctrl so the menu appears, then hold down Shift and choose “Top Space to Safe Area“ and "Center Horizontally in Safe Area.” When that’s done, click outside the menu to close it.
+You have two options when creating multiple constraints like this: you can either select one then <kbd>Ctrl</kbd>-drag again and select the other, or you can hold down shift before selecting an item in the menu, and you'll be able to select more than one at a time. That is, <kbd>Ctrl</kbd>-drag from the button straight up to the white space in the view controller, let go of the mouse button and Ctrl so the menu appears, then hold down Shift and choose “Top Space to Safe Area“ and "Center Horizontally in Safe Area.” When that’s done, click outside the menu to close it.
 
 ![Xcode will ask you which Auto Layout constraints you want to make.](https://hackingwithswift.com/img/books/hws/2-6@2x.png)
 
@@ -121,13 +121,13 @@ Once the images are imported, you can go ahead and use them either in code or in
 
 As soon as you set a picture inside the button, our constraints for the button are complete: it has a Y position because we placed a constraint, it has an X position because we're centering it horizontally, and it has a width and a height because it's reading it from the image we assigned. Go ahead and assign the US flag to the other two buttons while you're there.
 
-To complete our Auto Layout constraints, we need to assign Auto Layout constraints for the middle and bottom buttons. Select the middle button, then Ctrl-drag to the first button – not to the view controller. Let go, and you'll see "Vertical Spacing" and "Center Horizontally.” Choose both of these. Now choose the third button and Ctrl-drag to the second button, and again choose "Vertical Spacing" and "Center Horizontally."
+To complete our Auto Layout constraints, we need to assign Auto Layout constraints for the middle and bottom buttons. Select the middle button, then <kbd>Ctrl</kbd>-drag to the first button – not to the view controller. Let go, and you'll see "Vertical Spacing" and "Center Horizontally.” Choose both of these. Now choose the third button and <kbd>Ctrl</kbd>-drag to the second button, and again choose "Vertical Spacing" and "Center Horizontally."
 
 At this point, our Auto Layout is almost complete, but you'll notice that even though we chose to center the flags horizontally, they all seem to be stuck where they were placed. The reason for this is that you need to tell Interface Builder to update all the frames of your buttons to match the Auto Layout rules you just created.
 
 This is easy enough to do: select all three image views, then go to the Editor menu and choose Resolve Auto Layout Issues > Update Frames. Again, you’ll see that option appears twice in the menu, but both do the same thing here so you can select either. This command will update the frames – the positions and sizes – of each image view so that it matches the Auto Layout constraints we set.
 
-The last step before we're finished with Interface Builder for now is to add some outlets for our three flag buttons, so that we can reference them in code. Activate the assistant editor by pressing <kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>Return</kbd> or by going to View > Assistant Editor > Show Assistant Editor. Now Ctrl-drag from the first flag to your code in order to create an outlet called `button1`, then from the second flag to create `button2`, and from the third flag to create `button3`.
+The last step before we're finished with Interface Builder for now is to add some outlets for our three flag buttons, so that we can reference them in code. Activate the assistant editor by pressing <kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>Return</kbd> or by going to View > Assistant Editor > Show Assistant Editor. Now <kbd>Ctrl</kbd>-drag from the first flag to your code in order to create an outlet called `button1`, then from the second flag to create `button2`, and from the third flag to create `button3`.
 
 ![Create three outlets, one for each flag button.](https://hackingwithswift.com/img/books/hws/2-10@2x.png)
 

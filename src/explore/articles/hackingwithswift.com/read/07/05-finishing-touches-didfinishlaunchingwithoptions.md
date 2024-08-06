@@ -76,7 +76,7 @@ Every line of that is new, so let's dig in deeper:
 
 - Our storyboard automatically creates a window in which all our view controllers are shown. This window needs to know what its initial view controller is, and that gets set to its `rootViewController` property. This is all handled by our storyboard.
 - In the Single View App template, the root view controller is the `ViewController`, but we embedded ours inside a navigation controller, then embedded *that* inside a tab bar controller. So, for us the root view controller is a `UITabBarController`.
-- We need to create a new `ViewController` by hand, which first means getting a reference to our Main.storyboard file. This is done using the `UIStoryboard` class, as shown. You don't need to provide a bundle, because `nil` means "use my current app bundle."
+- We need to create a new `ViewController` by hand, which first means getting a reference to our <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard` file. This is done using the `UIStoryboard` class, as shown. You don't need to provide a bundle, because `nil` means "use my current app bundle."
 - We create our view controller using the `instantiateViewController()` method, passing in the storyboard ID of the view controller we want. Earlier we set our navigation controller to have the storyboard ID of "NavController", so we pass that in.
 - We create a `UITabBarItem` object for the new view controller, giving it the "Top Rated" icon and the tag 1. That tag will be important in a moment.
 - We add the new view controller to our tab bar controller's `viewControllers` array, which will cause it to appear in the tab bar.

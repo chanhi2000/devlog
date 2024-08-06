@@ -1015,13 +1015,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "paradedb/paradedb",
-    "desc": "PostgreSQL for Search",
-    "officialSite": "https://paradedb.com",
-    "topics": ["data", "data-engineering", "elasticsearch", "embeddings", "embeddings-similarity", "faceting", "hybrid-search", "llms", "neuralsearch", "opensearch", "pipeline", "postgres", "postgresql", "reranking", "retrieval-augmented-generation", "sparse-vector", "sparse-vectors", "vector-database", "vector-search", "vectors"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "denoland/deno",
     "desc": "A modern runtime for JavaScript and TypeScript.",
     "officialSite": "https://deno.land",
@@ -1945,8 +1938,8 @@
     "repo": "paradedb/paradedb",
     "desc": "Postgres for Search and Analytics",
     "officialSite": "https://paradedb.com",
-    "topics": ["aggregations", "analytics", "big-data", "bm25", "database", "datalake", "elasticsearch", "full-text-search", "htap", "hybrid-search", "lakehouse-platform", "mpp", "object-storage", "olap", "postgresql", "real-time-analytics", "self-hosted", "similarity-search", "sparse-vector", "sql"],
-    "avatar": "",
+    "topics": ["aggregations", "analytics", "big-data", "bm25", "database", "datalake", "elasticsearch", "full-text-search", "htap", "hybrid-search", "iceberg", "lakehouse-platform", "mpp", "object-storage", "olap", "postgresql", "real-time-analytics", "similarity-search", "sparse-vector", "sql"],
+    "avatar": "https://avatars.githubusercontent.com/u/124464601?v=4",
     "banner": ""
   }, {
     "repo": "HigherOrderCO/HVM",
@@ -2360,6 +2353,13 @@
     "officialSite": "",
     "topics": ["fuse", "rust"],
     "avatar": "https://avatars.githubusercontent.com/u/20225135?v=4",
+    "banner": ""
+  }, {
+    "repo": "marvinborner/bruijn",
+    "desc": ":abacus: Programming with pure lambda calculus",
+    "officialSite": "https://bruijn.marvinborner.de",
+    "topics": ["abstract-machine", "balanced-ternary", "call-by-need", "church-encoding", "combinatory-logic", "de-bruijn", "lambda-calculus", "programming-language"],
+    "avatar": "https://avatars.githubusercontent.com/u/32108934?v=4",
     "banner": ""
   }
 ]

@@ -73,7 +73,7 @@ var selectedImage: String?
 
 That’s the first task done, so onto the second: implement `didSelectRowAt` so that it loads a `DetailViewController` from the storyboard.
 
-When we created the detail view controller, you gave it the storyboard ID “Detail”, which allows us to load it from the storyboard using a method called `instantiateViewController(withIdentifier:)`. Every view controller has a property called `storyboard` that is either the storyboard it was loaded from or nil. In the case of `ViewController` it will be Main.storyboard, which is the same storyboard that contains the detail view controller, so we’ll be loading from there.
+When we created the detail view controller, you gave it the storyboard ID “Detail”, which allows us to load it from the storyboard using a method called `instantiateViewController(withIdentifier:)`. Every view controller has a property called `storyboard` that is either the storyboard it was loaded from or nil. In the case of `ViewController` it will be <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, which is the same storyboard that contains the detail view controller, so we’ll be loading from there.
 
 We can break this task down into three smaller tasks, two of which are new:
 

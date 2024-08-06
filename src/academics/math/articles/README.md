@@ -72,6 +72,8 @@ head:
 }
 ```
 
+<!-- END: freecodecamp.org -->
+
 ---
 
 <TagLinks />

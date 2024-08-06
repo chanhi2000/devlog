@@ -63,7 +63,7 @@ You’ll be asked to name the new screen, and also tell iOS what it should build
 
 That’s the first job done – we have a new file that will contain code for the detail screen.
 
-The second task takes a little more thinking. Go back to Main.storyboard, and you’ll see our existing two view controllers there: that’s the navigation view controller on the left, and the table view controller on the right. We’re going to add a new view controller – a new screen – now, which will be our detail screen.
+The second task takes a little more thinking. Go back to <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, and you’ll see our existing two view controllers there: that’s the navigation view controller on the left, and the table view controller on the right. We’re going to add a new view controller – a new screen – now, which will be our detail screen.
 
 First, open the object library and find “View Controller” in there. Drag it out into the space to the right of your existing view controller. You could place it anywhere, really, but it’s nice to arrange your screens so they flow logically from left to right.
 
@@ -123,7 +123,7 @@ Now for the bizarre piece of UI. What I want you to do is this:
 
 If you follow those steps, a balloon should appear with five fields: Connection, Object, Name, Type, and Storage.
 
-![When you Ctrl-drag from Interface Builder into your code, a bubble will appear offering to create an outlet for you.](https://hackingwithswift.com/img/books/hws/1-22@2x.png)
+![When you <kbd>Ctrl</kbd>-drag from Interface Builder into your code, a bubble will appear offering to create an outlet for you.](https://hackingwithswift.com/img/books/hws/1-22@2x.png)
 
 By default the options should be “Outlet” for connection, “Detail View Controller” for Object, nothing for name, “UIImageView” for type, and “Strong” for storage. If you see “Weak” for storage please change it to “Strong” – Xcode will remember that setting from now on.
 
@@ -139,7 +139,7 @@ class DetailViewController: UIViewController {
 
 To the left of the new line of code, in the gutter next to the line number, is a gray circle with a line around it. If you move your mouse cursor over that you’ll see the image view flash – that little circle is Xcode’s way of telling you the line of code is connected to the image view in your storyboard.
 
-So, we Ctrl-dragged from Interface Builder straight into our Swift file, and Xcode wrote a line of code for us as a result. Some bits of that code are new, so let's break down the whole line:
+So, we <kbd>Ctrl</kbd>-dragged from Interface Builder straight into our Swift file, and Xcode wrote a line of code for us as a result. Some bits of that code are new, so let's break down the whole line:
 
 - `@IBOutlet`: This attribute is used to tell Xcode that there's a connection between this line of code and Interface Builder.
 - `var`: This declares a new variable or variable property.

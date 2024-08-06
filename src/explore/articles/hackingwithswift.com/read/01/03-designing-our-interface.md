@@ -79,9 +79,9 @@ Behind the scenes, `UITableViewController` still builds on top of `UIViewControl
 
 We’ve changed the code for `ViewController` so that it builds on `UITableViewController`, but we also need to change the user interface to match. User interfaces can be written entirely in code if you want – and many developers do just that – but more commonly they are created using a graphical editor called Interface Builder. We need to tell Interface Builder (usually just called “IB”) that `ViewController` is a table view controller, so that it matches the change we just made in our code.
 
-Up to this point we’ve been working entirely in the file <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`, but now I’d like you to use the project navigator (the pane on the left) to select the file Main.storyboard. Storyboards contain the user interface for your app, and let you visualize some or all of it on a single screen.
+Up to this point we’ve been working entirely in the file <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`, but now I’d like you to use the project navigator (the pane on the left) to select the file <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`. Storyboards contain the user interface for your app, and let you visualize some or all of it on a single screen.
 
-When you select Main.storyboard, you’ll switch to the Interface Builder visual editor, and you should see something like the picture below:
+When you select <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, you’ll switch to the Interface Builder visual editor, and you should see something like the picture below:
 
 ![The Single View App template gives you one large, empty canvas to draw on.](https://hackingwithswift.com/img/books/hws/1-19@2x.png)
 
