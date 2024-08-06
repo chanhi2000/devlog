@@ -1183,6 +1183,7 @@ https://o-yeon.tistory.com/227
 ## 개발하는 기획자. 기획하는 개발자.
 
 - [Vitest 세팅](https://m.blog.naver.com/gi_balja/223523330500)
+- [Vitest `react-hook-form` 적용](https://m.blog.naver.com/gi_balja/223536276304)
 
 ---
 

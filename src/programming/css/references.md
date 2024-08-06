@@ -76,6 +76,14 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@superlipbalm` / (번역) Shadow DOM을 스타일링 하는 8가지 방법](https://velog.io/@superlipbalm/8-ways-to-style-the-shadow-dom)
+
+<!-- END: velog.io -->
+
+---
+
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 실용적인 프론트엔드 테스트](https://blex.me/@baealex/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8)

@@ -52,5 +52,3 @@ cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/07/you
 ---
 
 <TagLinks />
-
-<meta name="description" content=" ">

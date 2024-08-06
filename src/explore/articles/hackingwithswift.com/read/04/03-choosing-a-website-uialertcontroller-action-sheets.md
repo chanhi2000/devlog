@@ -113,7 +113,7 @@ func webView(_ webView: WKWebView, didFinish navigation: WKNavigation!) {
 
 All this method does is update our view controller's `title` property to be the title of the web view, which will automatically be set to the page title of the web page that was most recently loaded.
 
-Press Cmd+R now to run the app, and you'll see things are starting to come together: your initial web page will load, and when the load finishes you'll see its page title in the navigation bar.
+Press <kbd>Cmd</kbd>+<kbd>R</kbd> now to run the app, and you'll see things are starting to come together: your initial web page will load, and when the load finishes you'll see its page title in the navigation bar.
 
 ![Using a UIAlertController is an easy way to let users choose which website to visit.](https://hackingwithswift.com/img/books/hws/4-2@2x.png)
 

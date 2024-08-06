@@ -88,13 +88,13 @@ This method takes one parameter, called `sender`. It's of type `UIButton` becaus
 
 But how do we know whether the correct button was tapped? Right now, all the buttons look the same, but behind the scenes all views have a special identifying number that we can set, called its Tag. This can be any number you want, so we're going to give our buttons the numbers 0, 1 and 2. This isn't a coincidence: our code is already set to put flags 0, 1 and 2 into those buttons, so if we give them the same tags we know exactly what flag was tapped.
 
-Select the second flag (not the first one!), then look in the attributes inspector (Alt+Cmd+4) for the input box marked Tag. You might need to scroll down, because `UIButton`s have lots of properties to work with! Once you find it (it's about two-thirds of the way down, just above the color and alpha properties), make sure it's set to 1.
+Select the second flag (not the first one!), then look in the attributes inspector (<kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>4</kbd>) for the input box marked Tag. You might need to scroll down, because `UIButton`s have lots of properties to work with! Once you find it (it's about two-thirds of the way down, just above the color and alpha properties), make sure it's set to 1.
 
 ![Setting a tag in Interface Builder is a quick and easy way to distinguish your views.](https://hackingwithswift.com/img/books/hws/2-14@2x.png)
 
 Now choose the third flag and set its tag to be 2. We don't need to change the tag of the first flag because 0 is the default.
 
-We're done with Interface Builder for now, so go back to the standard editor and select ViewController.swift – it's time to finish up by filling in the contents of the `buttonTapped()` method.
+We're done with Interface Builder for now, so go back to the standard editor and select <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` – it's time to finish up by filling in the contents of the `buttonTapped()` method.
 
 This method needs to do three things:
 

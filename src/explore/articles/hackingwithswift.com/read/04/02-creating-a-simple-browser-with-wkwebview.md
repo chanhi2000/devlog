@@ -57,7 +57,7 @@ In our first two projects we used Interface Builder for a lot of layout work, bu
 
 So far, we've been using the `viewDidLoad()` method to configure our view once its layout has loaded. This time we need to override the actual loading of the view because we don't want that empty thing on the storyboard, we want our own code. It will still be placed inside the navigation controller, but the rest is up to us.
 
-iOS has two different ways of working with web views, but the one we’ll be using for this project is called `WKWebView`. It’s part of the WebKit framework rather than the UIKit framework, but we can import it by adding this line to the top of ViewController.swift:
+iOS has two different ways of working with web views, but the one we’ll be using for this project is called `WKWebView`. It’s part of the WebKit framework rather than the UIKit framework, but we can import it by adding this line to the top of <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`:
 
 ```swift
 import WebKit
@@ -154,7 +154,7 @@ Your URL must be complete, and valid, in order for this process to work. That me
 
 The third line enables a property on the web view that allows users to swipe from the left or right edge to move backward or forward in their web browsing. This is a feature from the Safari browser that many users rely on, so it's nice to keep it around.
 
-It’s time to run the app, so please press Cmd+R to run your app, and you should be able to view your website. Step one done!
+It’s time to run the app, so please press <kbd>Cmd</kbd>+<kbd>R</kbd> to run your app, and you should be able to view your website. Step one done!
 
 ![Just by embedding a web view into the app, we can now render any website content – win!](https://hackingwithswift.com/img/books/hws/4-1@2x.png)
 

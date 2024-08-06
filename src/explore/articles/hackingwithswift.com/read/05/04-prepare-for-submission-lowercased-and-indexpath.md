@@ -123,7 +123,7 @@ There are two quirks here that require a little more detail. First, `IndexPath` 
 
 Second, the `with` parameter lets you specify how the row should be animated in. Whenever you're adding and removing things from a table, the `.automatic` value means "do whatever is the standard system animation for this change." In this case, it means "slide the new row in from the top."
 
-Our three checking methods always return true regardless of what word is entered, but apart from that the game is starting to come together. Press Cmd+R to play back what you have: you should be able to tap the + button and enter words into the alert.
+Our three checking methods always return true regardless of what word is entered, but apart from that the game is starting to come together. Press <kbd>Cmd</kbd>+<kbd>R</kbd> to play back what you have: you should be able to tap the + button and enter words into the alert.
 
 ---
 

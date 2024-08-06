@@ -140,7 +140,7 @@ You give the `contains()` method a string to check, and it will return true if i
 
 The `return` statement is new, but it's one you'll be using a lot from now on. It exits the method immediately, executing no further code. If you said your method returns a value, you'll use the `return` statement to return that value.
 
-Your project is complete: press Cmd+R to run the finished app, and enjoy!
+Your project is complete: press <kbd>Cmd</kbd>+<kbd>R</kbd> to run the finished app, and enjoy!
 
 ---
 

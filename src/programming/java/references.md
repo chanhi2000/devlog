@@ -114,6 +114,7 @@ tag:
 - [`@qkrtkdwns3410` / 알고리즘 2343 자료](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2343-%EC%9E%90%EB%A3%8C)
 - [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 이진 탐색 트리](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%ED%8A%B8%EB%A6%AC)
 - [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 입국심사](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
+- [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 이진탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
 
 <!-- END: velog.io java -->
 
@@ -608,6 +609,7 @@ tag:
 
 - [`java.util.HashSet`](https://johngrib.github.io/wiki/java/hashset/)
 - [`java.util.HashMap`](https://johngrib.github.io/wiki/java/hashmap/)
+- [Java 버전별 변경점](https://johngrib.github.io/wiki/java/enhancements/)
 
 ---
 

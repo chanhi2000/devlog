@@ -46,6 +46,13 @@ head:
 }
 ```
 
+<SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
+
 ```component VPCard
 {
   "title": "요즘IT", 
@@ -232,6 +239,26 @@ head:
   "background": "rgba(211,58,44,0.2)"
 }
 ```
+
+<!-- END: smashingmagazine.com -->
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "What Is a Modular Monolith?",
+  "desc": "Modular monoliths blend the simplicity and robustness of traditional monolithic applications with the flexibility and scalability of microservices. Today, I'll introduce you to the modular monolith architecture and why you should know about it.",
+  "link": "/explore/articles/milanjovanovic.tech/what-is-a-modular-monolith.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+<!-- END: milanjovanovic.tech -->
 
 ---
 

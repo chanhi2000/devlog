@@ -1865,6 +1865,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/figma/articles/README.md',
+            asb.frontendmaster("figma"),
             asb.d2("figma"),
             asb.kakaoTech("figma"),
           ]
@@ -3572,6 +3573,7 @@ export const sidebarEn = sidebar({
             '/academics/system-design/articles/README.md',
             asb.freecodecamp("system-design"),
             asb.smashingmagazion("system-design"),
+            asb.milanJovanovic("system-design"),
             asb.yozm("system-design"),
             asb.d2("system-design"),
             asb.woowahan("system-design"),

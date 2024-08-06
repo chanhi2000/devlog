@@ -483,11 +483,11 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "marticliment/WingetUI",
-    "desc": "WingetUI: A better UI for your package managers",
-    "officialSite": "https://www.marticliment.com/wingetui/",
-    "topics": ["chocolatey", "cli", "npm", "package", "package-manager", "pip", "scoop", "windows", "windows-10", "windows-11", "winget", "wingetui"],
-    "avatar": "",
+    "repo": "marticliment/UniGetUI",
+    "desc": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
+    "officialSite": "https://www.marticliment.com/unigetui/",
+    "topics": ["chocolatey", "cli", "npm", "package", "package-manager", "pip", "scoop", "unigetui", "windows", "windows-10", "windows-11", "winget"],
+    "avatar": "https://avatars.githubusercontent.com/u/53119851?v=4",
     "banner": ""
   }, {
     "repo": "DevToys-app/DevToys",

@@ -262,7 +262,7 @@ export const template: SidebarInfoTemplate = {
     "k8s", [
       "deploy-aspnetcore-webapi-kubernetes-cluster-azure", // 2024-01-31
     ]],[
-    "linux-debain", [
+    "linux-debian", [
       "net-core-web-development-part17", // 2024-02-05
     ]],[
     "github", [

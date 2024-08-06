@@ -376,7 +376,6 @@ https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html
 https://how.complexsystems.fail/
 https://medium.com/thousandeyes-engineering/high-performance-alerting-platform-at-thousandeyes-c6cb89fc3acd
 https://engineering.atspotify.com/2024/02/applying-the-facade-pattern-on-spotify-for-artists/
-https://www.milanjovanovic.tech/blog/what-is-a-modular-monolith
 https://applied-langua.ge/posts/zero-feet.html
 https://gamelab.mit.edu/games/a-slower-speed-of-light/
 https://nsl.com/papers/idioms_K3.pdf
@@ -1018,5 +1017,7 @@ https://framagit.org/framasoft/framaspace/argos/
 - [\[혼공컴운\] 13장. 교착 상태](https://lazymatlab.tistory.com/m/276)
 - [\[혼공컴운\] 14장. 가상 메모리](https://lazymatlab.tistory.com/m/277)
 - [\[혼공컴운\] 15장. 파일 시스템](https://lazymatlab.tistory.com/m/278)
+- [ZGC, The Z Garbage Collector](https://johngrib.github.io/wiki/java/gc/zgc/)
+- [I don't know how CPUs work so I simulated one in code](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
 
 <PDF url="https://browncs1951x.github.io/static/files/hitchhikersguide.pdf" />

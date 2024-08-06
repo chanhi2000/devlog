@@ -134,4 +134,10 @@ head:
 
 ---
 
+## 나만의공간。
+
+- [\[Intellij\] Intellij Community - active profile 설정](https://m.blog.naver.com/writer0713/223535970459)
+
+---
+
 <TagLinks />

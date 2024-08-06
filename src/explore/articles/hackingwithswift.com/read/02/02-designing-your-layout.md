@@ -67,7 +67,7 @@ With the new navigation controller in place, scroll so you can see our empty vie
 
 In the early days of iOS, buttons had a white background color and rounded edges so they were visibly tappable, but these days buttons are completely flat with just some text. That's OK, though; we'll make them more interesting soon.
 
-You can jump to the size inspector directly by pressing the keyboard shortcut Alt+Cmd+5 or by going to the View menu and choosing Utilities > Show Size Inspector. Don't worry about the X positions, but the Y positions should be 100 for the first flag, 230 for the second, and 360 for the third. This should make them more or less evenly spaced in the view controller.
+You can jump to the size inspector directly by pressing the keyboard shortcut <kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>5</kbd> or by going to the View menu and choosing Utilities > Show Size Inspector. Don't worry about the X positions, but the Y positions should be 100 for the first flag, 230 for the second, and 360 for the third. This should make them more or less evenly spaced in the view controller.
 
 In the picture below you can see the size inspector, which is the quickest and easiest way to position and size views if you know exactly where you want them.
 
@@ -117,7 +117,7 @@ Cunningly, as of iOS 10 no non-retina devices are supported, so if you’re supp
 
 Now, all this is important because when we imported the images into our asset catalog they were automatically placed into 2x and 3x buckets. This is because I had named the files correctly: france@2x.png, france@3x.png, and so on. Xcode recognized these names, and arranged all the images correctly.
 
-Once the images are imported, you can go ahead and use them either in code or in Interface Builder, just as you would do if they were loose files inside a content folder. So, go back to your storyboard, choose the first button and select the attributes inspector (Alt+Cmd+4). You'll see it has the title "Button" right now (this is in a text field directly beneath where it says "Title: Plain"), so please delete that text. Now click the arrow next to the Image dropdown menu and choose "us".
+Once the images are imported, you can go ahead and use them either in code or in Interface Builder, just as you would do if they were loose files inside a content folder. So, go back to your storyboard, choose the first button and select the attributes inspector (<kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>4</kbd>). You'll see it has the title "Button" right now (this is in a text field directly beneath where it says "Title: Plain"), so please delete that text. Now click the arrow next to the Image dropdown menu and choose "us".
 
 As soon as you set a picture inside the button, our constraints for the button are complete: it has a Y position because we placed a constraint, it has an X position because we're centering it horizontally, and it has a width and a height because it's reading it from the image we assigned. Go ahead and assign the US flag to the other two buttons while you're there.
 
@@ -127,11 +127,11 @@ At this point, our Auto Layout is almost complete, but you'll notice that even t
 
 This is easy enough to do: select all three image views, then go to the Editor menu and choose Resolve Auto Layout Issues > Update Frames. Again, you’ll see that option appears twice in the menu, but both do the same thing here so you can select either. This command will update the frames – the positions and sizes – of each image view so that it matches the Auto Layout constraints we set.
 
-The last step before we're finished with Interface Builder for now is to add some outlets for our three flag buttons, so that we can reference them in code. Activate the assistant editor by pressing Alt+Cmd+Return or by going to View > Assistant Editor > Show Assistant Editor. Now Ctrl-drag from the first flag to your code in order to create an outlet called `button1`, then from the second flag to create `button2`, and from the third flag to create `button3`.
+The last step before we're finished with Interface Builder for now is to add some outlets for our three flag buttons, so that we can reference them in code. Activate the assistant editor by pressing <kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>Return</kbd> or by going to View > Assistant Editor > Show Assistant Editor. Now Ctrl-drag from the first flag to your code in order to create an outlet called `button1`, then from the second flag to create `button2`, and from the third flag to create `button3`.
 
 ![Create three outlets, one for each flag button.](https://hackingwithswift.com/img/books/hws/2-10@2x.png)
 
-We'll come back to it later on, but for now we're done with Interface Builder. Select ViewController.swift and go back to the standard editor (that is, press Cmd+return to turn off the assistant editor) so we can get busy with some coding.
+We'll come back to it later on, but for now we're done with Interface Builder. Select <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` and go back to the standard editor (that is, press <kbd>Cmd</kbd>+<kbd>return</kbd> to turn off the assistant editor) so we can get busy with some coding.
 
 ---
 

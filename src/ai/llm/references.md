@@ -82,6 +82,12 @@ head:
 
 ---
 
+## inblog
+
+- [`graphwoody` / From RAG to GraphRAG , What is the GraphRAG and why i use it?](https://inblog.ai/graphwoody/GraphRAG-01)
+
+---
+
 ## Replicate
 
 - [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
@@ -382,12 +388,14 @@ head:
 ## AI Convergence
 
 - [\[Embedding\] 중간값과 백터](http://mobicon.tistory.com/m/605)
+- [\[LCC-1\] LangChain Concept - Components & RAG](http://mobicon.tistory.com/m/607)
 
 ---
 
 ## 데엔잘하고싶은데엔🔥💎
 
 - [Triton Inference Server 모델서빙1 - NVIDA Triton(트리톤)이란?](https://pearlluck.tistory.com/m/821)
+- [Embedding을 저장하는 VectorDB 그리고 벡터 유사도 검색 Indexing](https://pearlluck.tistory.com/m/824)
 
 ---
 

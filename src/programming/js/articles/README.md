@@ -347,6 +347,36 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Clip Pathing Color Changes",
+  "desc": "Let's look at a cool animated nav effect (from a recent post by Emil Kowalski) that uses CSS `clip-path` to move the highlighted nav item around. It's an interesting look at this CSS feature and adds a lot of polish to a simple idea.",
+  "link": "/explore/articles/frontendmasters.com/clip-pathing-color-changes.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript",
+  "desc": "JavaScript Frameworks generally do a lot of DOM handling for you, but doing it yourself can be the most performant option, and there are quite a few best practices.",
+  "link": "/explore/articles/frontendmasters.com/patterns-for-memory-efficient-dom-manipulation.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Reading from the Clipboard in JavaScript",
+  "desc": "While it's a bit more common to *write* to the clipboard, JavaScript can also read from it. Plain text is pretty simple, while multimedia content is a bit more complex.",
+  "link": "/explore/articles/frontendmasters.com/reading-from-the-clipboard-in-javascript.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
 <!-- END: frontendmasters.com -->
 
 ---

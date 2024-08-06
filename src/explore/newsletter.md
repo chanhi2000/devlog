@@ -846,6 +846,13 @@ https://paperlined.org/
   preview="/images/content/code-maze.com/banner.png"/>
 
 <SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
+
+<SiteInfo
   name="Event-Driven by Oskar Dudycz"
   desc="Event-Driven by Oskar Dudycz"
   url="https://event-driven.io/en/"

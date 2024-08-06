@@ -68,7 +68,7 @@ At the start of the `askQuestion()` method, just before you call the first `setI
 countries.shuffle()
 ```
 
-That will automatically randomize the order of the countries in the array, meaning that `countries[0]`, `countries[1]` and `countries[2]` will refer to different flags each time the `askQuestion()` method is called. To try it out, press Cmd+R to run your program a few times to see different flags each time.
+That will automatically randomize the order of the countries in the array, meaning that `countries[0]`, `countries[1]` and `countries[2]` will refer to different flags each time the `askQuestion()` method is called. To try it out, press <kbd>Cmd</kbd>+<kbd>R</kbd> to run your program a few times to see different flags each time.
 
 The next step is to track which answer should be the correct one, and to do that we're going to create a new property for our view controller called `correctAnswer`. Put this near the top, just above `var score = 0`:
 

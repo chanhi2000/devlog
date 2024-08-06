@@ -12,12 +12,16 @@ export const template: SidebarInfoTemplate = {
       "popovers-work-pretty-nicely-as-slide-out-drawers", // 2024-06-24
       "browser-support-tests-in-javascript-for-modern-web-features", // 2024-06-28
       "script-integrity", // 2024-07-05
+      "clip-pathing-color-changes", // 2024-07-23
+      "patterns-for-memory-efficient-dom-manipulation", // 2024-07-29
+      "reading-from-the-clipboard-in-javascript", // 2024-07-31
     ]], [
     "ts", [
       "testing-types-in-typescript", // 2024-06-04
     ]], [
-      "js-node", [
+    "js-node", [
       "introducing-drizzle", // 2024-06-17
+      "the-pitfalls-of-in-app-browsers", // 2024-07-17
     ]], [
     "js-react", [
       "prefetching-when-server-loading-wont-do", // 2024-05-15
@@ -49,9 +53,16 @@ export const template: SidebarInfoTemplate = {
       "popovers-work-pretty-nicely-as-slide-out-drawers", // 2024-06-24
       "text-reveal-with-conic-gradient", // 2024-06-26
       "youtube-embeds-are-bananas-heavy-and-its-fixable", // 2024-07-01
+      "how-keyboard-navigation-works-in-a-css-game", // 2024-07-08
+      "single-directionally-allowed-overflow", // 2024-07-10
+      "how-to-get-the-width-height-of-any-element-in-only-css", // 2024-07-25
+      "what-if-you-used-container-units-for-everything", // 2024-08-02
     ]], [
     "chrome", [
       "playing-with-the-speculation-rules-api-in-the-console", // 2024-06-07
+    ]], [
+    "figma", [
+      "figma-typography-variables", // 2024-08-05
     ]], [
     "career", [
       "fast-and-budget-friendly-user-research-and-testing", // 2024-06-04
@@ -90,6 +101,15 @@ export const template: SidebarInfoTemplate = {
       "browser-support-tests-in-javascript-for-modern-web-features", // 2024-06-28
       "youtube-embeds-are-bananas-heavy-and-its-fixable", // 2024-07-01
       "script-integrity", // 2024-07-05
+      "how-keyboard-navigation-works-in-a-css-game", // 2024-07-08
+      "single-directionally-allowed-overflow", // 2024-07-10
+      "the-pitfalls-of-in-app-browsers", // 2024-07-17
+      "clip-pathing-color-changes", // 2024-07-23
+      "how-to-get-the-width-height-of-any-element-in-only-css", // 2024-07-25
+      "patterns-for-memory-efficient-dom-manipulation", // 2024-07-29
+      "reading-from-the-clipboard-in-javascript", // 2024-07-31
+      "what-if-you-used-container-units-for-everything", // 2024-08-02
+      "figma-typography-variables", // 2024-08-05
     ]]
   ])
 }

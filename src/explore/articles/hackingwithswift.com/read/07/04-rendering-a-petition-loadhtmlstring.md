@@ -130,7 +130,7 @@ override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: Inde
 }
 ```
 
-Go ahead and run the project now by pressing Cmd+R or clicking play, then tap on a row to see more detail about each petition. Some petitions don’t have detail text, but most do – try a few and see what you can find.
+Go ahead and run the project now by pressing <kbd>Cmd</kbd>+<kbd>R</kbd> or clicking play, then tap on a row to see more detail about each petition. Some petitions don’t have detail text, but most do – try a few and see what you can find.
 
 ---
 

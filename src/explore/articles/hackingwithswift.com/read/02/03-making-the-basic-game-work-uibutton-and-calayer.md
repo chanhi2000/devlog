@@ -55,7 +55,7 @@ isOriginal: false
 
 We're going to create an array of strings that will hold all the countries that will be used for our game, and at the same time we're going to create another property that will hold the player's current score – it's a game, after all!
 
-Let's start with the new properties. Add these two lines directly beneath the `@IBOutlet` lines you added earlier in ViewController.swift:
+Let's start with the new properties. Add these two lines directly beneath the `@IBOutlet` lines you added earlier in <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`:
 
 ```swift
 var countries = [String]()
@@ -116,7 +116,7 @@ askQuestion()
 
 At this point the game is in a fit state to run, so let’s give it a try.
 
-First, select the iPhone XR simulator by going to the Product menu and choosing Destination > iPhone XR. Now press Cmd+R now to launch the Simulator and give it a try.
+First, select the iPhone XR simulator by going to the Product menu and choosing Destination > iPhone XR. Now press <kbd>Cmd</kbd>+<kbd>R</kbd> now to launch the Simulator and give it a try.
 
 You'll immediately notice two problems
 

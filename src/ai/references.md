@@ -82,6 +82,8 @@ head:
 - [`@2YWz` / Enterprise Private GenAI - GenAI 를 도입해야 하는 이요](https://brunch.co.kr/@@2YWz/109)
 - [`@2YWz` / 마크 저커버그와 젠슨 황이 논의한 AI의 미래](https://brunch.co.kr/@@2YWz/113)
 - [`@2rV` / 앤드류 응이 제안하는 AI 제품 개발 방식](https://brunch.co.kr/@@2rV/156)
+- [`@2rV` / 구글의 character.ai 창업자 영입 의미는?](https://brunch.co.kr/@@2rV/157)
+- [`@ZVA` / 보스와 직원이 AI발 생산성을 다르게 보는 까닭은](https://brunch.co.kr/@@ZVA/712)
 
 <!-- END: brunch.co.kr -->
 
@@ -292,6 +294,13 @@ head:
 ## 꿈 많은 사람의 이야기
 
 - [인공지능 윤리(AI Ethics)란 무엇일까? AI개발자가 바라본 AI윤리(Feat. AI 기획자 Day 발표)](https://lsjsj92.tistory.com/m/671)
+
+---
+
+## Miles UX/UI Insight
+
+- [AI 시대의 디자이너와 운영 효율화 - 두 강연에서 배운 것들](https://vurias0203.tistory.com/m/entry/AI-%EC%8B%9C%EB%8C%80%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%99%80-%EC%9A%B4%EC%98%81-%ED%9A%A8%EC%9C%A8%ED%99%94-%EB%91%90-%EA%B0%95%EC%97%B0%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4)
+
 
 ---
 

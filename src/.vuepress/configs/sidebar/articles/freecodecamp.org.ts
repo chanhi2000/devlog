@@ -65,6 +65,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
       "how-to-deploy-node-js-app-on-azure", // 2024-07-17
       "learn-javascript-reactivity-build-signals-from-scratch", // 2024-07-18
+      "how-to-build-an-event-app-with-node-js", // 2024-08-05
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -199,6 +200,7 @@ export const template: SidebarInfoTemplate = {
       "real-time-chat-with-go-fiber-htmx", // 2024-06-06
       "how-to-create-database-migrations-in-go", // 2024-06-26
       "go-for-absolute-beginners", // 2024-07-01
+      "encoding-and-decoding-data-in-golang", // 2024-08-05
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -251,7 +253,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-install-python-on-a-mac", // 2024-05-09
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
     ]],[
-    "linux-debain", [
+    "linux-debian", [
       "learn-linux-for-beginners-book-basic-to-advanced", // 2024-07-12
     ]],[
     "linux-fedora", [
@@ -559,6 +561,8 @@ export const template: SidebarInfoTemplate = {
       "learn-rag-fundamentals-and-advanced-techniques", // 2024-08-01
       "build-an-invoice-saas-app-with-next-js-and-neon-postgres", // 2024-08-01
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
+      "encoding-and-decoding-data-in-golang", // 2024-08-05
+      "how-to-build-an-event-app-with-node-js", // 2024-08-05
     ]],
   ]),
 }

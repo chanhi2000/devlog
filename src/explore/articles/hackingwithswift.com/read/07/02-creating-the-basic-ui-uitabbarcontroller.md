@@ -57,7 +57,7 @@ We’ve already used `UINavigationController` in previous projects to provide a 
 
 Our current app has a single empty view controller, but we’re going to jazz that up with a table view controller, a navigation controller, and a tab bar controller so you can see how they all work together.
 
-You should know the drill by now, or at least part of it. Start by opening ViewController.swift and changing `ViewController` to inherit from `UITableViewController` rather than `UIViewController`. That is, change this line:
+You should know the drill by now, or at least part of it. Start by opening <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` and changing `ViewController` to inherit from `UITableViewController` rather than `UIViewController`. That is, change this line:
 
 ```swift
 class ViewController: UIViewController {
@@ -75,7 +75,7 @@ Select its prototype cell and use the attributes inspector to give it the identi
 
 ![Changing the table view cell style from Basic to Subtitle adds a second line of text we can customize.](https://hackingwithswift.com/img/books/hws/7-3@2x.png)
 
-Now for the interesting part: we need to wrap this view controller inside two other things. Go to Editor > Embed In > Navigation Controller, and then straight away go to Editor > Embed In > Tab Bar Controller. The navigation controller adds a gray bar at the top called a navigation bar, and the tab bar controller adds a gray bar at the bottom called a tab bar. Hit Cmd+R now to see them both in action.
+Now for the interesting part: we need to wrap this view controller inside two other things. Go to Editor > Embed In > Navigation Controller, and then straight away go to Editor > Embed In > Tab Bar Controller. The navigation controller adds a gray bar at the top called a navigation bar, and the tab bar controller adds a gray bar at the bottom called a tab bar. Hit <kbd>Cmd</kbd>+<kbd>R</kbd> now to see them both in action.
 
 ![Interface Builder can embed a view controller directly inside a tab bar controller with one menu click.](https://hackingwithswift.com/img/books/hws/7-2@2x.png)
 
@@ -83,17 +83,17 @@ Behind the scenes, `UITabBarController` manages an array of view controllers tha
 
 Doing everything inside the storyboard would mean duplicating our view controllers, which is A Bad Idea, so instead we're just going to design one of them in the storyboard then create a duplicate of it using code.
 
-Now that our navigation controller is inside a tab bar controller, it will have acquired a gray strip along its bottom in Interface Builder. If you click that now, it will select a new type of object called a `UITabBarItem`, which is the icon and text used to represent a view controller in the tab bar. In the attributes inspector (Alt+Cmd+4) change System Item from "Custom" to "Most Recent".
+Now that our navigation controller is inside a tab bar controller, it will have acquired a gray strip along its bottom in Interface Builder. If you click that now, it will select a new type of object called a `UITabBarItem`, which is the icon and text used to represent a view controller in the tab bar. In the attributes inspector (<kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>4</kbd>) change System Item from "Custom" to "Most Recent".
 
 One important thing about `UITabBarItem` is that when you set its system item, it assigns both an icon and some text for the title of the tab. If you try to change the text to your own text, the icon will be removed and you need to provide your own. This is because Apple has trained users to associate certain icons with certain information, and they don't want you using those icons incorrectly!
 
-Select the navigation controller itself (just click where it says Navigation Controller in big letters in the center of the view controller), then press Alt+Cmd+3 to select the identity inspector. We haven't been here before, because it's not used that frequently. However, here I want you to type "NavController" in the text box to the right of where it says "Storyboard ID". We'll be needing that soon!
+Select the navigation controller itself (just click where it says Navigation Controller in big letters in the center of the view controller), then press <kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>3</kbd> to select the identity inspector. We haven't been here before, because it's not used that frequently. However, here I want you to type "NavController" in the text box to the right of where it says "Storyboard ID". We'll be needing that soon!
 
 In the picture below you can see how the identity inspector should look when configured for your navigation controller. You'll be using this inspector in later projects to give views a custom class by changing the first of these four text boxes.
 
 ![Use the identity inspector to configure your navigation controller with a storyboard identifier.](https://hackingwithswift.com/img/books/hws/7-1@2x.png)
 
-We're done with Interface Builder, so please open the file ViewController.swift so we can make the usual changes to get us a working table view.
+We're done with Interface Builder, so please open the file <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` so we can make the usual changes to get us a working table view.
 
 First, add this property to the `ViewController` class:
 

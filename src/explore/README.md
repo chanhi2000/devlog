@@ -712,6 +712,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+<SiteInfo
+  name="cables - Standalone"
+  desc="Cables is a tool for creating beautiful interactive content"
+  url="https://cables.gl/standalone"
+  logo="https://cables.gl/favicon/favicon-192.png"
+  preview="https://cables.gl/img/metathumb-standalone.jpg"/>
+
 <!-- END:  Cool Project -->
 
 @tab Portfolio / Resume

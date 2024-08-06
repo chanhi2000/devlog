@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - frontendmasters.com
   - d2.naver.com
   - tech.kakao.com
   - design
@@ -24,6 +25,16 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Frontend Masters Boost – Helping Your Journey to Senior Developer",
+  "desc": "Helping Your Journey to Senior Developer",
+  "link": "https://frontendmasters.com/blog/",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
 
 <SiteInfo
   name="NAVER D2"
@@ -43,6 +54,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## Frontend Masters Boost – Helping Your Journey to Senior Developer
+
+> frontendmasters.com
+
+```component VPCard
+{
+  "title": "Figma Typography Variables",
+  "desc": "Figma has support for variables, and they work with the various typography features you may want to set. For instance, you could create a variable called ",
+  "link": "/explore/articles/frontendmasters.com/figma-typography-variables.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+<!-- END: frontendmasters.com -->
 
 ---
 

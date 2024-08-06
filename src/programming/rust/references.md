@@ -76,9 +76,15 @@ tag:
 
 - [`@vitalemon` / Rust Test](https://until.blog/@vitalemon/rust-test)
 
+<!-- END: until.blog -->
+
+---
+
 ## Substack
 
 - [`robertroskam` / 100% test coverage is not enough](https://blog.robertroskam.com/p/100-test-coverage-is-not-enough)
+
+<!-- END: substack.com -->
 
 ---
 
@@ -428,6 +434,18 @@ tag:
 ## Matt Hall
 
 - [Implementing and Improving Skiplists](https://mattjhall.co.uk/posts/skiplists.html)
+
+---
+
+## sunshowers
+
+- [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
+
+---
+
+## Codethink | Software Engineering | Open Source Experts
+
+- [Developing a cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
 
 ---
 

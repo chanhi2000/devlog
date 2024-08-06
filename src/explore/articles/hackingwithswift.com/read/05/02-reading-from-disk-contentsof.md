@@ -61,7 +61,7 @@ The start.txt file contains over 12,000 eight-letter words we can use for our ga
 
 First, go to the start of your class and make two new arrays. We’re going to use the first one to hold all the words in the input file, and the second one will hold all the words the player has currently used in the game.
 
-So, open ViewController.swift and add these two properties:
+So, open <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` and add these two properties:
 
 ```swift
 var allWords = [String]()
@@ -120,7 +120,7 @@ Line 3 is the interesting part: it calls the `reloadData()` method of `tableView
 startGame()
 ```
 
-Now press Cmd+R to run the app, and you ought to see an eight-letter word at the top, ready for play to begin.
+Now press <kbd>Cmd</kbd>+<kbd>R</kbd> to run the app, and you ought to see an eight-letter word at the top, ready for play to begin.
 
 ![Our game so far is less than impressive, but trust me: it's all going to come together shortly!](https://hackingwithswift.com/img/books/hws/5-1@2x.png)
 

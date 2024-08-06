@@ -305,6 +305,9 @@ tag:
 - [`openssl` 명령어](https://johngrib.github.io/wiki/cmd/openssl/)
 - [`date` 명령어](https://johngrib.github.io/wiki/cmd/date/)
 - [`echo` 명령어](https://johngrib.github.io/wiki/cmd/echo/)
+- [`cat` 명령어](https://johngrib.github.io/wiki/cmd/cat/)
+- [`dateutils`](https://johngrib.github.io/wiki/cmd/dateutils/)
+
 ---
 
 ## Dagger

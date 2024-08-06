@@ -57,7 +57,7 @@ Projects 1 to 4 were all fairly easy, because my goal was to teach you the basic
 
 In this project you're going to learn how to make a word game that deals with anagrams, but as per usual I'll be hijacking it as a method to teach you more about iOS development. This time around we're going back to the table views as seen in project 1, but you're also going to learn how to load text from files, how to ask for user input in `UIAlertController`, and get a little more insight to how closures work.
 
-In Xcode, create a new Single View App called Project5. We’re going to turn this into a table view controller, just like we did in project 1. So, open ViewController.swift and find this line:
+In Xcode, create a new Single View App called Project5. We’re going to turn this into a table view controller, just like we did in project 1. So, open <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` and find this line:
 
 ```swift
 class ViewController: UIViewController {

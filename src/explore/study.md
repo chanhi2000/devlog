@@ -877,6 +877,13 @@ https://www.joinc.co.kr/w/Site
   logo="https://cdn-aoloc.nitrocdn.com/LjZAnpMBiKRdWkhommfnyugsAOnHWdxL/assets/images/optimized/rev-3141a61/rieckpil.de/wp-content/uploads/fbrfg/8e5eaafee0c7541c305a9df7ae4aba23.apple-touch-icon.png"
   preview="https://rieckpil.de/wp-content/uploads/2024/01/rieckpil-revamp-main-banner.png"/>
 
+<SiteInfo
+  name="WebGPU Unleashed: A Practical Tutorial"
+  desc="WebGPU Unleashed, your ticket to the dynamic world of graphics programming. Dive in and discover the magic of creating stunning visuals from scratch, mastering the art of real-time graphics, and unlocking the power of WebGPU - all in one captivating tutorial."
+  url="https://shi-yan.github.io/webgpuunleashed/"
+  logo="https://shi-yan.github.io/webgpuunleashed/favicon.ico"
+  preview="https://shi-yan.github.io//webgpuunleashed/meta.png"/>
+
 <!-- END: Crashcourse -->
 
 @tab Cheatsheet

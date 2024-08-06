@@ -3490,5 +3490,12 @@
     "topics": ["browser-extension", "captcha", "captcha-solver", "captcha-solving", "chrome-extension", "firefox-extension", "recaptcha"],
     "avatar": "https://avatars.githubusercontent.com/u/7513068?v=4",
     "banner": ""
+  }, {
+    "repo": "Svapnil/iso20022.js",
+    "desc": "A package to create and manage ISO20022 XML files to create and receive payments.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/23139898?v=4",
+    "banner": ""
   }
 ]

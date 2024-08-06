@@ -414,9 +414,49 @@ head:
 {
   "title": "YouTube Embeds are Bananas Heavy and it’s Fixable",
   "desc": "Which one makes more sense to use, big and slow or small and fast? Especially with the same appearance and functionality, the youtube-lite component is a no-brainer.",
-  "link": "/explore/articles/freecodecamp.org/youtube-embeds-are-bananas-heavy-and-its-fixable.md",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
+  "link": "/explore/articles/frontendmasters.com/youtube-embeds-are-bananas-heavy-and-its-fixable.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How Keyboard Navigation Works in a CSS Game",
+  "desc": "The navigation in this game works with the arrow keys, which is made possible with scroll driven animations, faked collision detection, and maintaining state with CSS custom properties.",
+  "link": "/explore/articles/frontendmasters.com/how-keyboard-navigation-works-in-a-css-game.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Single-Directionally Allowed Overflow",
+  "desc": "CSS allows setting different overflow behaviors for x and y directions. It doesn't actually work with the `hidden` value, but it does with `clip`!",
+  "link": "/explore/articles/frontendmasters.com/single-directionally-allowed-overflow.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Get the Width/Height of Any Element in Only CSS",
+  "desc": "Unlike JavaScript, there is no simple built-in method in CSS to access an element's width and height. But using some (call it hacky) modern CSS techniques, we can get our hands on the number and even use it.",
+  "link": "/explore/articles/frontendmasters.com/how-to-get-the-width-height-of-any-element-in-only-css.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What if you used Container Units for… everything?"
+  "desc": "I said to myself I said what if I used container units for every single unit in a design? I was wondering, partially because I thought the answer might be well, everything will probably scale really nicely then. Container units, in case you haven’t heard of them, are unit (like px or rem, but more […]",
+  "link": "/explore/articles/frontendmasters.com/what-if-you-used-container-units-for-everything.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
 }
 ```
 

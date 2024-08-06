@@ -40,6 +40,7 @@ tag:
 ## 멈춤보단 천천히라도
 
 - [Raspberry Pi 5 사용 방법](https://webnautes.tistory.com/1886)
+- [Raspberry Pi Pico C 프로그래밍 - 온보드 온도 센서](https://webnautes.tistory.com/m/2363)
 
 ---
 

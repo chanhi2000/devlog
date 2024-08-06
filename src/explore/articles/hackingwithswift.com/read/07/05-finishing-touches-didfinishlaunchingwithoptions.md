@@ -59,7 +59,7 @@ As I said previously, we can't really put the second tab into our storyboard bec
 
 Instead, we're going to leave our current storyboard configuration alone, then create the second view controller using code. This isn't something you've done before, but it's not hard and we already took the first step, as you'll see.
 
-Open the file AppDelegate.swift. This has been in all our projects so far, but it's not one we've had to work with until now. Look for the `didFinishLaunchingWithOptions` method, which should be at the top of the file. This gets called by iOS when the app has finished loading and is ready to be used, and we're going to hijack it to insert a second `ViewController` into our tab bar.
+Open the file <FontIcon icon="fa-brands fa-swift"/>`AppDelegate.swift`. This has been in all our projects so far, but it's not one we've had to work with until now. Look for the `didFinishLaunchingWithOptions` method, which should be at the top of the file. This gets called by iOS when the app has finished loading and is ready to be used, and we're going to hijack it to insert a second `ViewController` into our tab bar.
 
 It should already have some default Apple code in there, but we're going to add some more just before the `return true` line:
 
@@ -83,7 +83,7 @@ Every line of that is new, so let's dig in deeper:
 
 So, the code creates a duplicate `ViewController` wrapped inside a navigation controller, gives it a new tab bar item to distinguish it from the existing tab, then adds it to the list of visible tabs. This lets us use the same class for both tabs without having to duplicate things in the storyboard.
 
-The reason we gave a tag of 1 to the new `UITabBarItem` is because it's an easy way to identify it. Remember, both tabs contain a `ViewController`, which means the same code is executed. Right now that means both will download the same JSON feed, which makes having two tabs pointless. But if you modify `urlString` in ViewController.swift’s `viewDidLoad()` method to this, it will work much better:
+The reason we gave a tag of 1 to the new `UITabBarItem` is because it's an easy way to identify it. Remember, both tabs contain a `ViewController`, which means the same code is executed. Right now that means both will download the same JSON feed, which makes having two tabs pointless. But if you modify `urlString` in <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`’s `viewDidLoad()` method to this, it will work much better:
 
 ```swift
 let urlString: String

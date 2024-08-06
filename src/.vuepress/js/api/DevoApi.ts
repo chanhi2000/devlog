@@ -18,11 +18,11 @@ const PUBLIC_GITHUB_BASEPATH = `${Setup.BASEURL}/json/github`
 const URL_JSON_GITHUB_COLOR = `${Setup.BASEURL}/json/github-color.json`
 
 const jsonFullPathsLang = [
-  "android", "assembly", "awk", "basic", "batchfile", "blade", "c", "clojure", "common-lisp", "cpp", "crystal", "csharp", "dart", "dockerfile", "elixir", "elm", "fortran", "gdscript", "go", "haskell", "hcl", "haxe", "java", "js", "js-react", "js-svelte", "js-vue", "julia", "jupyter-notebook", "kotlin", "lua", "mdx", "nextflow", "objc", "ocaml", "prolog", "php", "pwsh", "py", "qml", "r", "ruby", "rust", "scala", "scss",  "sh", "solidity", "swift", "tex", "ts", "ts-react", "ts-vue", "ts-svelte", "v", "vala", "vdhl", "verilog", "vim-script", "zig"
+  "android", "assembly", "awk", "basic", "batchfile", "blade", "c", "clojure", "common-lisp", "cpp", "crystal", "cs", "dart", "dockerfile", "elixir", "elm", "fortran", "gdscript", "go", "haskell", "hcl", "haxe", "java", "js", "js-react", "js-svelte", "js-vue", "julia", "jupyter-notebook", "kotlin", "lua", "mdx", "nextflow", "objc", "ocaml", "prolog", "php", "pwsh", "py", "qml", "r", "ruby", "rust", "scala", "scss",  "sh", "solidity", "swift", "tex", "ts", "ts-react", "ts-vue", "ts-svelte", "v", "vala", "vdhl", "verilog", "vim-script", "zig"
 ].map((e: string) => `${PUBLIC_GITHUB_BASEPATH}/lang-${e}.json`);
 
 const jsonFullPathsLangTut = [
-  "c", "cpp", "csharp", "dart", "dockerfile", "go", "java", "android", "haskell", "js", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "py", "ruby", "rust", "sh", "swift", "ts"
+  "c", "cpp", "cs", "dart", "dockerfile", "go", "java", "android", "haskell", "js", "jupyter-notebook", "kotlin", "lua", "php", "pwsh", "py", "ruby", "rust", "sh", "swift", "ts"
 ].map((e: string) => `${PUBLIC_GITHUB_BASEPATH}/lang-${e}-tut.json`);
 
 const jsonFullPathsOther = [

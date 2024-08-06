@@ -33,11 +33,11 @@ head:
 
 ## C\#
 
-<MyGithubItems jsonName="lang-csharp" />
+<MyGithubItems jsonName="lang-cs" />
 
 ### Tutorial
 
-<MyGithubItems jsonName="lang-csharp-tut" />
+<MyGithubItems jsonName="lang-cs-tut" />
 
 ---
 

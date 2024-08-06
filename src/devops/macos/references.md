@@ -216,6 +216,7 @@ head:
 - [거실의 낡은 맥북에서 서재의 맥미니로 `ssh`로 접속하기](https://johngrib.github.io/wiki/article/ssh-macmini-macbook/)
 - [맥북 설정하기](https://johngrib.github.io/wiki/mac/setting/)
 - [`pass`](https://johngrib.github.io/wiki/cmd/pass/)
+- [GNU core utilities](https://johngrib.github.io/wiki/cmd/gnu-coreutils/)
 
 ---
 
@@ -364,6 +365,12 @@ head:
 ## 뭐라도 해야 한다면 기록을..
 
 - [\[Intelli-j\] Spotlight.service broken?](https://jakpentest.tistory.com/m/entry/Try-Reinstalling-Spotlightservice)
+
+---
+
+## Back to basics
+
+- [iTerm2에서 URL 복사 시 '^\[\[200~' Prefix 제거](https://1minute-before6pm.tistory.com/m/79)
 
 ---
 

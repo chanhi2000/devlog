@@ -61,7 +61,7 @@ Best of all, it takes just a handful of lines of code to make it all work. But b
 
 Project 1, if you recall, used a `UINavigationController` to let users move between two screens. By default, a `UINavigationController` has a bar across the top, called a `UINavigationBar`, and as developers we can add buttons to this navigation bar that call our methods.
 
-Let's create one of those buttons now. First, take a copy of your existing Project1 folder (the whole thing), and rename it to be Project3. Now launch it in Xcode, open the file DetailViewController.swift, and find the `viewDidLoad()` method. Directly beneath the `title =` line,
+Let's create one of those buttons now. First, take a copy of your existing Project1 folder (the whole thing), and rename it to be Project3. Now launch it in Xcode, open the file <FontIcon icon="fa-brands fa-swift"/>`DetailViewController.swift`, and find the `viewDidLoad()` method. Directly beneath the `title =` line,
 
 ```swift
 navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(shareTapped)) 

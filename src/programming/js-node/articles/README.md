@@ -300,6 +300,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build an Application With Node.js",
+  "desc": "Node.js it’s a runtime environment that allows you to run JavaScript code on the server side for building server-side applications. It works well for creating fast and scalable applications.  In this article, I will use a simple event management app as an example to show you how to build...",
+  "link": "/explore/articles/codecamp.org/how-to-build-an-event-app-with-node-js.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -313,6 +323,16 @@ head:
   "title": "Introducing Drizzle",
   "desc": "Drizzle is a new ORM tool that blends traditional ORM querying with a typed SQL API. Drizzle supports various databases (Postgres, MySQL, SQLite) and aims to simplify SQL crafting while avoiding common ORM pitfalls.",
   "link": "/explore/articles/frontendmasters.com/introducing-drizzle.md",
+  "logo": "https://frontendmasters.com/favicon.ico",
+  "background": "rgba(188,75,52,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The Pitfalls of In-App Browsers",
+  "desc": "You should know that in-app browser can and do literally inject JavaScript into the websites you visit with them with tracking scripts from the app you're inside of. And that's just one thing that sucks about them.",
+  "link": "/explore/articles/frontendmasters.com/the-pitfalls-of-in-app-browsers.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }

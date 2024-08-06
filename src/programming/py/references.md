@@ -803,6 +803,7 @@ head:
 
 - [Domain Driven Design for FastAPI(파이썬 FastAPI를 위한 도메인 주도 디자인) - Layered Architecture(계층적 구조)](https://kimkani.tistory.com/59)
 - [Clean Architecture(클린 아키텍처) 공부 - 육각형 아키텍처, 엔티티, 유스케이스, 프레임워크, 드라이버, 관심사 분리(SoC), 험블 객체 패턴, 프레젠터, 뷰, 뷰모델, 아키텍처]([kimkani](https://kimkani.tistory.com/63))
+- [\[SQLAlchemy\] - Asynchronous I/O (asyncio) : 비동기 I/O (asyncio) 공식 문서 번역 1편 : 개요, 동시성 태스크와 같이 사용하기](https://kimkani.tistory.com/m/66)
 
 ---
 
@@ -2095,6 +2096,7 @@ head:
 
 - [\[코드트리 조별과제\] 1주차 - 프로그래밍 기초](https://su-mmer.tistory.com/m/129)
 - [\[코드트리 조별과제\] 2주차 - 재귀함수](https://su-mmer.tistory.com/m/130)
+- [\[코드트리 조별과제\] 3주차 - 객체, 날짜와 시간 계산, Notation](https://su-mmer.tistory.com/m/131)
 
 <!-- END: su-mmer.tistory.com -->
 
@@ -2159,6 +2161,25 @@ head:
 ## matklad
 
 - [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
+
+---
+
+## AI Convergence
+
+- [\[Python\] `docstring` 스펙](http://mobicon.tistory.com/m/608)
+- [\[Python\] `__getattr__` 의미](http://mobicon.tistory.com/m/609)
+
+---
+
+## Yusuf's Deep Learning Blog
+
+- [The Path to StyleGan2 - Implementing the Progressive Growing GAN](https://ym2132.github.io/Progressive_GAN)
+
+---
+
+## Hey There Buddo!
+
+- [State of Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 
 ---
 
