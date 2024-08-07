@@ -616,4 +616,10 @@ head:
 
 ---
 
+## AI Convergence
+
+- [\[JavaScript\] Design Pattern](https://mobicon.tistory.com/m/11)
+
+---
+
 <TagLinks />

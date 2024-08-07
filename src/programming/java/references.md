@@ -117,6 +117,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 이진탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
 - [`@dongha1992` / 99클럽 코테 스터디 13일차 TIL - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-13%EC%9D%BC%EC%B0%A8-TIL-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 - [`@june0313` / Mockito : Mock 리스트를 주입하고 테스트 하기](https://velog.io/@june0313/Mockito-Mock-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%A3%BC%EC%9E%85%ED%95%98%EA%B3%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0)
+- [`@dongha1992` / 99클럽 코테 스터디 16일차 TIL - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-16%EC%9D%BC%EC%B0%A8-TIL-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 
 <!-- END: velog.io java -->
 

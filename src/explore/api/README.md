@@ -1431,6 +1431,16 @@ https://mdis.kostat.go.kr/index.do
   logo="https://public.tableau.com/app/favicon.ico"
   preview="https://public.tableau.com/static/images/_1/_17143222803720/1/4_3_hd.png"/>
 
+```component VPCard
+{
+  "title": "San Francisco Crime Map - SAFEMAP",
+  "desc": "View an interactive crime map and stats for San Francisco with Safemap, a completely free tool. Stay safe in the cities you love.",
+  "link": "https://safemap.io/sf/map",
+  "logo": "https://safemap.io/static/images/favicon.ico",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
 <!-- END: Geospatial -->
 
 @tab Network & Security

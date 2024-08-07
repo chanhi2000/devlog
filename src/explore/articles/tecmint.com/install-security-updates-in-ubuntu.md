@@ -60,7 +60,7 @@ cover: https://wtecmint.com/wp-content/uploads/2020/08/Install-Security-Updates-
   name="How to Install Security Updates in Ubuntu"
   desc="In this article, we will show how to install security updates in Ubuntu and Ubuntu-based Linux systems."
   url="https://tecmint.com/install-security-updates-in-ubuntu"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2020/08/Install-Security-Updates-in-Ubuntu.png"/>
 
 <!-- TODO: 작성 -->

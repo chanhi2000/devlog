@@ -503,6 +503,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Common React Mistakes to Avoid",
+  "desc": "React is a highly popular and powerful JavaScript library for user interface development. Its component-based architecture, combined with its declarative nature, is one of the primary reasons it works well for both small and large-scale applications.  But like with any technology, there are pitfalls that you can fall into...",
+  "link": "/explore/articles/freecodecamp.org/react-common-mistakes.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

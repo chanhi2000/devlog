@@ -51,7 +51,15 @@ isOriginal: false
 }
 ```
 
-<!-- TODO: 작성 -->
+<VidStack src="youtube/p0dOywHx0VI" />
+
+It's time for another app project, and this time you're going to learn about MapKit: Apple's mapping framework that lets us drops pins, plan routes, and zoom around the world with just a few swipes.
+
+Working with MapKit requires you to learn quite a few new classes, so I've tried to construct a project simple enough that we can focus on the mapping element. In this project you'll make an app that shows the locations of capital cities around the world, and when one of them is tapped you can bring up more information.
+
+Create a new Single View App project in Xcode, naming it Project16. Now go to Interface Builder for your view controller, and embed it inside a navigation controller. Search for "map" in the object library, drop a map view into your view controller so that it occupies the full view, then use Resolve Auto Layout Issues > Add Missing Constraints so that it stays next to each edge.
+
+Now, run your program and you should see a basic map working nicely.
 
 ---
 

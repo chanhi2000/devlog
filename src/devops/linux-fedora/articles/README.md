@@ -40,7 +40,7 @@ head:
   name="Tecmint: Linux Howtos, Tutorials & Guides"
   desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
   url="https://tecmint.com/"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2022/06/tecmint-linux-blog.png"/>
 
 <SiteInfo
@@ -79,7 +79,7 @@ head:
   "title": "Bashtop - A Resource Monitoring Tool for Linux",
   "desc": "Bashtop is a terminal-based resource monitoring utility that intuitively displays statistics for your Linux CPU, memory, running processes, and bandwidth usage.",
   "link": "/explore/articles/tecmint.com/bashtop-linux-resource-monitoring-tool.md",
-  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
 ```
@@ -89,7 +89,7 @@ head:
   "title": "How to Set Up Nginx Server Blocks (Virtual Hosts) on CentOS 8",
   "desc": "In this article, you will learn how to set up Nginx server blocks (virtual hosts) on CentOS 8 and RHEL 8 Linux to host multiple websites.",
   "link": "/explore/articles/tecmint.com/create-nginx-server-blocks-in-centos.md",
-  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
 ```
@@ -99,7 +99,7 @@ head:
   "title": "How to Synchronize Time with Chrony NTP in Linux",
   "desc": "The Network Time Protocol (NTP) is a protocol used to synchronize Linux system clocks automatically over a network using the chrony NTP client.",
   "link": "/explore/articles/tecmint.com/synchronize-time-with-ntp-in-linux.md",
-  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
 ```
@@ -109,7 +109,7 @@ head:
   "title": "MTR – A Network Diagnostic Tool for Linux",
   "desc": "MTR is a simple, cross-platform command-line network diagnostic tool that combines the functionality of commonly used traceroute and ping programs into a single tool.",
   "link": "/explore/articles/tecmint.com/mtr-a-network-diagnostic-tool-for-linux.md",
-  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
 ```
@@ -119,7 +119,7 @@ head:
   "title": "whowatch – Monitor Linux Users and Processes in Real Time",
   "desc": "whowatch is a simple, easy-to-use interactive who-like command line program for monitoring processes and users on a Linux system in real time.",
   "link": "/explore/articles/tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time.md",
-  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
 ```

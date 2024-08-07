@@ -58,7 +58,85 @@ Extend Safari with a cool feature for JavaScript developers.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/19/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Making a shell app | Hacking with iOS",
+  "desc": "Making a shell app",
+  "link": "/explore/articles/hackingwithswift.com/read/19/02-making-a-shell-app.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding an extension: NSExtensionItem | Hacking with iOS",
+  "desc": "Adding an extension: NSExtensionItem",
+  "link": "/explore/articles/hackingwithswift.com/read/19/03-adding-an-extension-nsextensionitem.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What do you want to get? | Hacking with iOS",
+  "desc": "What do you want to get?",
+  "link": "/explore/articles/hackingwithswift.com/read/19/04-what-do-you-want-to-get.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Establishing communication | Hacking with iOS",
+  "desc": "Establishing communication",
+  "link": "/explore/articles/hackingwithswift.com/read/19/05-establishing-communication.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Editing multiline text with UITextView | Hacking with iOS",
+  "desc": "Editing multiline text with UITextView",
+  "link": "/explore/articles/hackingwithswift.com/read/19/06-editing-multiline-text-with-uitextview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Fixing the keyboard: NotificationCenter | Hacking with iOS",
+  "desc": "Fixing the keyboard: NotificationCenter",
+  "link": "/explore/articles/hackingwithswift.com/read/19/07-fixing-the-keyboard-notificationcenter.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/19/08-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

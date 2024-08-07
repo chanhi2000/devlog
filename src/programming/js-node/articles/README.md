@@ -310,6 +310,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Create a PC game using JavaScript",
+  "desc": "Did you know you can create PC games using JavaScript? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about making a Flappy Bird-like game in JavaScript with the KAPLAY library, and how to use Tauri to pack...",
+  "link": "/explore/articles/codecamp.org/create-a-pc-game-using-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

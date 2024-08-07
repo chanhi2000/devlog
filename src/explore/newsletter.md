@@ -808,7 +808,7 @@ https://paperlined.org/
   name="Tecmint: Linux Howtos, Tutorials & Guides"
   desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
   url="https://tecmint.com/"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2022/06/tecmint-linux-blog.png"/>
 
 ```component VPCard

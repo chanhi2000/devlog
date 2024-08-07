@@ -608,5 +608,12 @@
     "topics": ["architecture", "clean-architecture", "csharp", "ddd", "domain-driven-design", "dotnet", "hacktoberfest"],
     "avatar": "https://avatars.githubusercontent.com/u/782127?v=4",
     "banner": ""
+  }, {
+    "repo": "dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "officialSite": "",
+    "topics": ["csharp", "language-design"],
+    "avatar": "https://avatars.githubusercontent.com/u/9141961?v=4",
+    "banner": ""
   }
 ]

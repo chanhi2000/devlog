@@ -134,4 +134,10 @@ head:
 
 ---
 
+## nowotarski.info
+
+- [Exploiting authorization by nonce in WordPress plugins](https://nowotarski.info/wordpress-nonce-authorization/)
+
+---
+
 <TagLinks />

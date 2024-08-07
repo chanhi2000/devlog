@@ -502,4 +502,10 @@ head:
 
 ---
 
+## Junhyunny's Devlogs
+
+- [AWS ALB(Application Load Balancer) and Target Group Setup](https://junhyunny.github.io/aws/aws-alb-and-target-group-setup/)
+
+---
+
 <TagLinks />

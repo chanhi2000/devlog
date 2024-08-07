@@ -884,6 +884,17 @@ https://www.joinc.co.kr/w/Site
   logo="https://shi-yan.github.io/webgpuunleashed/favicon.ico"
   preview="https://shi-yan.github.io//webgpuunleashed/meta.png"/>
 
+
+```component VPCard
+{
+  "title": "Plain Vanilla",
+  "desc": "An explainer for doing web development using only vanilla techniques.",
+  "link": "https://plainvanillaweb.com/",
+  "logo": "https://plainvanillaweb.com/favicon.ico",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
 <!-- END: Crashcourse -->
 
 @tab Cheatsheet

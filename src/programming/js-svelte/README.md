@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Svelte.js
 description: Svelte.js
-icon: fa-brands fa-react
+icon: iconfont icon-svelte
 category:
   - Node.js
   - Svelte.js

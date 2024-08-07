@@ -1616,5 +1616,19 @@
     "topics": ["anticensorship", "dpi", "socks"],
     "avatar": "https://avatars.githubusercontent.com/u/135158507?v=4",
     "banner": ""
+  }, {
+    "repo": "pgvector/pgvector",
+    "desc": "Open-source vector similarity search for Postgres",
+    "officialSite": "",
+    "topics": ["approximate-nearest-neighbor-search", "nearest-neighbor-search"],
+    "avatar": "https://avatars.githubusercontent.com/u/98363230?v=4",
+    "banner": ""
+  }, {
+    "repo": "Zirias/xmoji",
+    "desc": "Plain X11 emoji keyboard",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/5891057?v=4",
+    "banner": ""
   }
 ]

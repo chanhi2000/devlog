@@ -448,6 +448,7 @@ head:
 - [11.2. 책 리포지터리 인터페이스에 목록 메소드 만들기](https://ysedeveloper.tistory.com/m/entry/112-%EC%B1%85-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%84%B0%EB%A6%AC-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [11.3. 책 목록 응답 DTO 객체 만들기](https://ysedeveloper.tistory.com/m/entry/113-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EC%9D%91%EB%8B%B5-DTO-%EA%B0%9D%EC%B2%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [11.4. 책 서비스 클래스에 목록 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/114-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [11.5. 책 컨트롤러 클래스에 목록 메소드 추가하기](https://ysedeveloper.tistory.com/m/ntry/115-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 

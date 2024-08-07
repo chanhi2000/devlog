@@ -1187,6 +1187,7 @@ https://o-yeon.tistory.com/227
 
 - [Vitest 세팅](https://m.blog.naver.com/gi_balja/223523330500)
 - [Vitest `react-hook-form` 적용](https://m.blog.naver.com/gi_balja/223536276304)
+- [Vitest GitHub Actions 배포](https://m.blog.naver.com/gi_balja/223539048026)
 
 ---
 

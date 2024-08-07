@@ -360,6 +360,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance",
+  "desc": "In a world where precision is key, handling noisy data effectively is crucial for solving complex problems. Whether you're trying to control a rocket or forecast the stock market, the ability to get good data from an uncertain environment is important. This is exactly the problem Kalman filters help solve...",
+  "link": "/explore/articles/freecodecamp.org/what-is-a-kalman-filter-with-python-code-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

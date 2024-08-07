@@ -250,4 +250,10 @@ tag:
 
 ---
 
+## 개발하는 기획자. 기획하는 개발자.
+
+- [Vitest GitHub Actions 배포](https://m.blog.naver.com/gi_balja/223539048026)
+
+---
+
 <TagLinks />

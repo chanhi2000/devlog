@@ -347,8 +347,10 @@ head:
 - [`@1aft` / Python : 1 / 8145060 (3) - #로또 #당첨번호위치 #자동원리 #당첨기원](https://brunch.co.kr/@@1aft/138)
 - [`@1aft` / Python : 1 / 8145060 (5) - #2.2M #5.8M #로또희망](https://brunch.co.kr/@@1aft/141)
 - [`@1aft` / Python : 1 / 8145060 (6) - #예측실패 #내돈](https://brunch.co.kr/@@1aft/142)
+- [`@1aft` / Python: Maturin#03 - #orjson #그냥json](https://brunch.co.kr/@@1aft/145)
+- [`@1aft` / Python: Maturin#04 - #serde_json #dict](https://brunch.co.kr/@@1aft/146)
 
-<!-- brunch.co.kr -->
+<!-- END: brunch.co.kr -->
 
 ---
 
@@ -1220,6 +1222,7 @@ head:
 
 - [Pyrhon3 – How to install packages offline (pip 오프라인 설치)](https://www.skyer9.pe.kr/wordpress/?p=9033)
 - [Python – 16진수 맥어드레스 2진수로 출력하기](https://skyer9.pe.kr/wordpress/?p=9212)
+- [Python = hex 문자열 디코딩하기](https://skyer9.pe.kr/wordpress/?p=9283)
 
 ---
 
@@ -2023,6 +2026,7 @@ head:
 ## Gauge - Solving the Microservices/Monolith Dilemma
 
 - [Parsing Python ASTs 20x Faster with Rust](https://www.gauge.sh/blog/parsing-python-asts-20x-faster-with-rust)
+- [Python extensions should be lazy](https://gauge.sh/blog/python-extensions-should-be-lazy)
 
 ---
 
@@ -2174,6 +2178,7 @@ head:
 
 - [\[Python\] `docstring` 스펙](http://mobicon.tistory.com/m/608)
 - [\[Python\] `__getattr__` 의미](http://mobicon.tistory.com/m/609)
+- [MQTT 사용하기 - 1](https://mobicon.tistory.com/m/12)
 
 ---
 

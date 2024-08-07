@@ -74,7 +74,7 @@ cover: https://tecmint.com/wp-content/uploads/2018/07/whowatch-Monitor-User-Proc
   name="whowatch – Monitor Linux Users and Processes in Real Time"
   desc="whowatch is a simple, easy-to-use interactive who-like command line program for monitoring processes and users on a Linux system in real time."
   url="https://tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2018/07/whowatch-Monitor-User-Processes-in-Linux.png"/>
 
 <!-- TODO: 작성 -->

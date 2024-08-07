@@ -58,7 +58,65 @@ Everyone hits problems sooner or later, so learning to find and fix them is an i
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/18/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Basic Swift debugging using print() | Hacking with iOS",
+  "desc": "Basic Swift debugging using print()",
+  "link": "/explore/articles/hackingwithswift.com/read/18/02-basic-swift-debugging-using-print.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Debugging with assert() | Hacking with iOS",
+  "desc": "Debugging with assert()",
+  "link": "/explore/articles/hackingwithswift.com/read/18/03-debugging-with-assert.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Debugging with breakpoints | Hacking with iOS",
+  "desc": "Debugging with breakpoints",
+  "link": "/explore/articles/hackingwithswift.com/read/18/04-debugging-with-breakpoints.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "View debugging | Hacking with iOS",
+  "desc": "View debugging",
+  "link": "/explore/articles/hackingwithswift.com/read/18/05-view-debugging.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/18/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

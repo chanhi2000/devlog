@@ -29,7 +29,7 @@ head:
   name="Tecmint: Linux Howtos, Tutorials & Guides"
   desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
   url="https://tecmint.com/"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2022/06/tecmint-linux-blog.png"/>
 
 <SiteInfo
@@ -62,7 +62,7 @@ head:
   "title": "How to Install Windows Subsystem for Linux",
   "desc": "The Windows Subsystem for Linux (WSL) runs a GNU/Linux Environment which includes most of the command-line utilities and applications on top of Windows OS.",
   "link": "/explore/articles/tecmint.com/install-windows-subsystem-for-linux.md",
-  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
 ```

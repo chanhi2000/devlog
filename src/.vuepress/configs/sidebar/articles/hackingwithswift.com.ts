@@ -552,18 +552,37 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/18/overview.md',
+              '/explore/articles/hackingwithswift.com/read/18/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/18/02-basic-swift-debugging-using-print.md',
+              '/explore/articles/hackingwithswift.com/read/18/03-debugging-with-assert.md',
+              '/explore/articles/hackingwithswift.com/read/18/04-debugging-with-breakpoints.md',
+              '/explore/articles/hackingwithswift.com/read/18/05-view-debugging.md',
+              '/explore/articles/hackingwithswift.com/read/18/06-wrap-up.md',
             ]
           }, {
             text: 'Project 19: JavaScript Injection',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/19/overview.md',
+              '/explore/articles/hackingwithswift.com/read/19/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/19/02-making-a-shell-app.md',
+              '/explore/articles/hackingwithswift.com/read/19/03-adding-an-extension-nsextensionitem.md',
+              '/explore/articles/hackingwithswift.com/read/19/04-what-do-you-want-to-get.md',
+              '/explore/articles/hackingwithswift.com/read/19/05-establishing-communication.md',
+              '/explore/articles/hackingwithswift.com/read/19/06-editing-multiline-text-with-uitextview.md',
+              '/explore/articles/hackingwithswift.com/read/19/07-fixing-the-keyboard-notificationcenter.md',
+              '/explore/articles/hackingwithswift.com/read/19/08-wrap-up.md',
             ]
           }, {
             text: 'Project 20: Fireworks Night',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/20/overview.md',
+              '/explore/articles/hackingwithswift.com/read/20/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/20/02-ready-aim-fire-timer-and-follow.md',
+              '/explore/articles/hackingwithswift.com/read/20/03-swipe-to-select.md',
+              '/explore/articles/hackingwithswift.com/read/20/04-making-things-go-bang-skemitternode.md',
+              '/explore/articles/hackingwithswift.com/read/20/05-wrap-up.md',
             ]
           }, {
             text: 'Project 21: Local Notifications',

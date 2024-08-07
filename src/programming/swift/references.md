@@ -102,6 +102,7 @@ tag:
 - [`@jwlee010523` / Swift - 함수(Functions)](https://velog.io/@jwlee010523/Swift-Functions)
 - [`@jwlee010523` / Swift - 클로저(Closures)](https://velog.io/@jwlee010523/Swift-Closures)
 - [`@jwlee010523` / SwiftUI - 생명주기(LifeCycle)](https://velog.io/@jwlee010523/SwiftUI-LifeCycle)
+- [`@jwlee010523` / IOS - 앱스토어 배포과정](https://velog.io/@jwlee010523/ios-app-distribution)
 
 <!-- END: velog.io -->
 

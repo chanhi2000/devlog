@@ -30,4 +30,10 @@ head:
 
 ---
 
+## XDA
+
+- [How I turned an old phone into a NAS](https://www.xda-developers.com/how-turned-old-phone-nas/)
+
+---
+
 <TagLinks />

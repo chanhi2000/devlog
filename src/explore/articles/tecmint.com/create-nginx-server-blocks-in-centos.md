@@ -76,7 +76,7 @@ cover: https://tecmint.com/wp-content/uploads/2020/07/Create-Nginx-Server-Blocks
   name="How to Set Up Nginx Server Blocks (Virtual Hosts) on CentOS 8"
   desc="In this article, you will learn how to set up Nginx server blocks (virtual hosts) on CentOS 8 and RHEL 8 Linux to host multiple websites."
   url="https://tecmint.com/create-nginx-server-blocks-in-centos"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2020/07/Create-Nginx-Server-Blocks-in-CentOS.png"/>
 
 <!-- TODO: 작성 -->

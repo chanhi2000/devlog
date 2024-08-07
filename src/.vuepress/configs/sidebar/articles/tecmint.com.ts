@@ -3,7 +3,7 @@ import { SidebarInfoTemplate } from ".";
 
 export const template: SidebarInfoTemplate = {
   name: 'tecmint.com',
-  faviconPath: 'https://tecmint.com/wp-content/uploads/2020/07/favicon.icon',
+  faviconPath: 'https://tecmint.com/wp-content/uploads/2020/07/favicon.ico',
   linksMap: new Map([
     [
     "sh", [

@@ -225,6 +225,7 @@ head:
 - [\[미가공/실습 과제\] Png 이미지 뷰어에 색을 합치는 기능을 추가해 보세요.](https://m.blog.naver.com/tipsware/223529967832)
 - [클립보드에 저장된 이미지 파일로 저장하기 - Step 3](https://m.blog.naver.com/tipsware/223531216096)
 - [클립보드에 저장된 이미지 파일로 저장하기 - Step 4](https://m.blog.naver.com/tipsware/223536257296)
+- [원형으로 표시되는 Stopwatch 만들기 - Step 1](https://m.blog.naver.com/tipsware/223538516772)
 
 <!-- END: blog.naver.com/tipsware/ -->
 
@@ -432,6 +433,12 @@ head:
 ## David Hashe | Personal website and blog
 
 - [How to build highly-debuggable C++ binaries](https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html)
+
+---
+
+## I Code 4 Coffee – Where coffee turns into code!
+
+- [Tony Hawk’s Pro Strcpy](https://icode4.coffee/?p=954)
 
 ---
 

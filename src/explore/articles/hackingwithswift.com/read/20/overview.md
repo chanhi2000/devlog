@@ -58,7 +58,55 @@ Learn about timers and color blends while making things go bang!
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/20/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Ready... aim... fire: Timer and follow() | Hacking with iOS",
+  "desc": "Ready... aim... fire: Timer and follow()",
+  "link": "/explore/articles/hackingwithswift.com/read/20/02-ready-aim-fire-timer-and-follow.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Swipe to select | Hacking with iOS",
+  "desc": "Swipe to select",
+  "link": "/explore/articles/hackingwithswift.com/read/20/03-swipe-to-select.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Making things go bang: SKEmitterNode | Hacking with iOS",
+  "desc": "Making things go bang: SKEmitterNode",
+  "link": "/explore/articles/hackingwithswift.com/read/20/04-making-things-go-bang-skemitternode.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/20/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

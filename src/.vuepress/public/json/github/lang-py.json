@@ -6349,11 +6349,11 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "OpenBMB/MiniCPM-V",
-    "desc": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
-    "officialSite": "",
-    "topics": [],
-    "avatar": "",
+    "repo": "OpenGVLab/InternVL",
+    "desc": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的可商用开源多模态对话模型",
+    "officialSite": "https://internvl.readthedocs.io/en/latest/",
+    "topics": ["gpt", "gpt-4o", "gpt-4v", "image-classification", "image-text-retrieval", "llm", "multi-modal", "semantic-segmentation", "video-classification", "vision-language-model", "vit-22b", "vit-6b"],
+    "avatar": "https://avatars.githubusercontent.com/u/94522163?v=4",
     "banner": ""
   }, {
     "repo": "Codium-ai/cover-agent",
@@ -7376,6 +7376,13 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/59658056?v=4",
+    "banner": ""
+  }, {
+    "repo": "OpenBMB/MiniCPM-V",
+    "desc": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
+    "officialSite": "",
+    "topics": ["minicpm", "minicpm-v", "multi-modal"],
+    "avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
     "banner": ""
   }
 ]

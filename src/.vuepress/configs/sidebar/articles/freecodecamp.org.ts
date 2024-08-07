@@ -66,6 +66,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-deploy-node-js-app-on-azure", // 2024-07-17
       "learn-javascript-reactivity-build-signals-from-scratch", // 2024-07-18
       "how-to-build-an-event-app-with-node-js", // 2024-08-05
+      "create-a-pc-game-using-javascript", // 2024-08-07
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -105,6 +106,7 @@ export const template: SidebarInfoTemplate = {
       "use-react-router-to-build-single-page-applications", // 2024-07-18
       "react-context-api-tutorial-examples", // 2024-07-22
       "build-a-sticky-notes-app-with-react-and-appwrite", // 2024-07-25
+      "react-common-mistakes", // 2024-08-06
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -173,6 +175,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
       "what-is-recursion", // 2024-07-25
       "basic-control-theory-with-python", // 2024-08-06
+      "what-is-a-kalman-filter-with-python-code-examples", // 2024-08-07
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -365,6 +368,9 @@ export const template: SidebarInfoTemplate = {
       "linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai", // 2024-05-28
       "how-do-numerical-conversions-work", // 2024-05-29
       "linear-algebra-roadmap", // 2024-06-04
+    ]],[
+    "fnce", [
+      "what-is-a-kalman-filter-with-python-code-examples", // 2024-08-07
     ]],[
     "coen", [
       "learn-about-operating-systems-in-depth", // 2024-08-06
@@ -571,6 +577,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-index-nextjs-pages-with-indexnow", // 2024-08-06
       "basic-control-theory-with-python", // 2024-08-06
       "learn-about-operating-systems-in-depth", // 2024-08-06
+      "react-common-mistakes", // 2024-08-06
+      "what-is-a-kalman-filter-with-python-code-examples", // 2024-08-07
+      "create-a-pc-game-using-javascript", // 2024-08-07
     ]],
   ]),
 }

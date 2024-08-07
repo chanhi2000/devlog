@@ -46,6 +46,12 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-firefox"/>Mozilla Hacks - the Web developer blog
+
+- [Announcing Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
+
+---
+
 ## dotenvx | a better dotenv–from the creator of dotenv
 
 - [From dotenv to dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)

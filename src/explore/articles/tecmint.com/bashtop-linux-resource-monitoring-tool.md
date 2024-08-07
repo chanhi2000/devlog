@@ -74,7 +74,7 @@ cover: https://tecmint.com/wp-content/uploads/2020/08/Bashtop-Linux-Resource-Mon
   name="Bashtop - A Resource Monitoring Tool for Linux"
   desc="Bashtop is a terminal-based resource monitoring utility that intuitively displays statistics for your Linux CPU, memory, running processes, and bandwidth usage."
   url="https://tecmint.com/bashtop-linux-resource-monitoring-tool"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2020/08/Bashtop-Linux-Resource-Monitoring-Toodl.jpeg"/>
 
 <!-- TODO: 작성 -->

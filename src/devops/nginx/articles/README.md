@@ -30,7 +30,7 @@ head:
   name="Tecmint: Linux Howtos, Tutorials & Guides"
   desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
   url="https://tecmint.com/"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2022/06/tecmint-linux-blog.png"/>
 
 <SiteInfo
@@ -53,7 +53,7 @@ head:
   "title": "How to Set Up Nginx Server Blocks (Virtual Hosts) on CentOS 8",
   "desc": "In this article, you will learn how to set up Nginx server blocks (virtual hosts) on CentOS 8 and RHEL 8 Linux to host multiple websites.",
   "link": "/explore/articles/tecmint.com/create-nginx-server-blocks-in-centos.md",
-  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.icon",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
 ```

@@ -75,7 +75,7 @@ cover: https://www.tecmint.com/wp-content/uploads/2020/09/Install-Linux-on-Windo
   name="How to Install Windows Subsystem for Linux"
   desc="The Windows Subsystem for Linux (WSL) runs a GNU/Linux Environment which includes most of the command-line utilities and applications on top of Windows OS."
   url="https://tecmint.com/install-windows-subsystem-for-linux"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2020/09/Install-Linux-on-Windows-Using-WSL.png"/>
 
 <!-- TODO: 작성 -->

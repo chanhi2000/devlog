@@ -74,7 +74,7 @@ cover: https://tecmint.com/wp-content/uploads/2018/06/MTR-Network-Diagnostic-Too
   name="MTR – A Network Diagnostic Tool for Linux"
   desc="MTR is a simple, cross-platform command-line network diagnostic tool that combines the functionality of commonly used traceroute and ping programs into a single tool."
   url="https://tecmint.com/mtr-a-network-diagnostic-tool-for-linux"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2018/06/MTR-Network-Diagnostic-Tool-for-Linux.png"/>
 
 <!-- TODO: 작성 -->

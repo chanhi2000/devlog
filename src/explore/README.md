@@ -719,6 +719,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://cables.gl/favicon/favicon-192.png"
   preview="https://cables.gl/img/metathumb-standalone.jpg"/>
 
+<SiteInfo
+  name="BudgetFlow - Visual Budgeting made easy"
+  desc="Transform your financial planning with BudgetFlow's interactive visual budget management tool. Perfect for personal and business use."
+  url="https://www.budgetflow.cc/"
+  logo="https://www.budgetflow.cc/static/images/logo6.png"
+  preview="https://www.budgetflow.cc/static/images/logo6.png"/>
+
 <!-- END:  Cool Project -->
 
 @tab Portfolio / Resume

@@ -74,7 +74,7 @@ cover: https://tecmint.com/wp-content/uploads/2018/04/Synchronize-Time-with-NTP-
   name="How to Synchronize Time with Chrony NTP in Linux"
   desc="The Network Time Protocol (NTP) is a protocol used to synchronize Linux system clocks automatically over a network using the chrony NTP client."
   url="https://tecmint.com/synchronize-time-with-ntp-in-linux"
-  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.icon"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2018/04/Synchronize-Time-with-NTP-in-Linux.png"/>
 
 <!-- TODO: 작성 -->
