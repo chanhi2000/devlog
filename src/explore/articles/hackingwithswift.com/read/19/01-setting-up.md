@@ -51,7 +51,17 @@ isOriginal: false
 }
 ```
 
-<!-- TODO: 작성 -->
+<VidStack src="youtube/Y-EujA71RMY" />
+
+In this project you're going to create a Safari extension, which lets us embed a version of our app directly inside Safari's action menu, then manipulate Safari data in interesting ways. 
+
+What do I mean by "interesting ways"? Well, our little Safari extension is going to read in the URL and page title that the user was visiting, then show them a large text area they can type JavaScript into. When the extension is dismissed, we'll execute that JavaScript in Safari.
+
+This is the first of two projects that are *hard*. This is not because I want to torture you, but because this isn’t one of Apple’s better APIs – in fact, I’d say it’s downright ugly in places. In this project, the actual amount of code you're going to be writing is quite small. However, it's dense, and there's a lot to take in, so it might feel like slow going.
+
+At the very least, the project will still be useful and you'll learn a lot too – not least about Safari extensions and a new class called `NotificationCenter`.
+
+Let's get started: create a new Single View App project in Xcode, naming it Project19.
 
 ---
 

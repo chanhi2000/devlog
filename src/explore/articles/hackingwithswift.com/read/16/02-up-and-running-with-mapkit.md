@@ -55,7 +55,7 @@ isOriginal: false
 
 The default map view works great out of the box – you can pan around, zoom in and out, and so on. If you were wondering, you need to hold down Option to trigger a virtual "pinch" gesture – just click and drag as if you were moving one finger, and the other "finger" will move in the opposite direction.
 
-Using the assistant editor, please create an outlet for your map view called `mapView`. You should also set your view controller to be the delegate of the map view by Ctrl-dragging from the map view to the orange and white view controller button just above the layout area. You will also need to add `import MapKit` to ViewController.swift so it understands what `MKMapView` is.
+Using the assistant editor, please create an outlet for your map view called `mapView`. You should also set your view controller to be the delegate of the map view by <kbd>Ctrl</kbd>-dragging from the map view to the orange and white view controller button just above the layout area. You will also need to add `import MapKit` to <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` so it understands what `MKMapView` is.
 
 ::: note
 
@@ -69,7 +69,7 @@ Map annotations are described not as a class, but as a protocol. This is somethi
 
 Create a new file and choose iOS > Source > Cocoa Touch Class. Make it a subclass of `NSObject` and name it “Capital”. With map annotations, you can't use structs, and you must inherit from `NSObject` because it needs to be interactive with Apple's Objective-C code.
 
-Change the contents of Capital.swift to this:
+Change the contents of <FontIcon icon="fa-brands fa-swift"/>`Capital.swift` to this:
 
 ```swift
 import MapKit

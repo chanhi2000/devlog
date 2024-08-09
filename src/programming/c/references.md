@@ -366,7 +366,7 @@ tag:
 
 ## 상구리의 기술 블로그
 
-- [MSVC – C & SQL Server 연동 with ODBC](https://www.skyer9.pe.kr/wordpress/?p=9066)
+- [MSVC – C & SQL Server 연동 with ODBC](https://skyer9.pe.kr/wordpress/?p=9066)
 
 ---
 
@@ -486,6 +486,12 @@ tag:
 ## SJ CODE
 
 - [TCP/IP Stack 개발 #1 Ethernet & ARP](https://1000sj.tistory.com/m/349)
+
+---
+
+## Welcome to LWN.net
+
+- [Maximal `min()` and `max()`](https://lwn.net/SubscriberLink/983965/3266dc25bf5c68d7/)
 
 ---
 

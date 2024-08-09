@@ -34,10 +34,10 @@ tag:
 
 ## 상구리의 기술 블로그
 
-- [SQL Server – 개발자 버전 설치하기](https://www.skyer9.pe.kr/wordpress/?p=8987)
-- [SQL Server – 백업 (매일/매주)](https://www.skyer9.pe.kr/wordpress/?p=8968)
-- [SQL Server – IntelliSense 캐시 새로고침](https://www.skyer9.pe.kr/wordpress/?p=9009)
-- [SQL Server – 원격접속 허용](https://www.skyer9.pe.kr/wordpress/?p=9076)
+- [SQL Server – 개발자 버전 설치하기](https://skyer9.pe.kr/wordpress/?p=8987)
+- [SQL Server – 백업 (매일/매주)](https://skyer9.pe.kr/wordpress/?p=8968)
+- [SQL Server – IntelliSense 캐시 새로고침](https://skyer9.pe.kr/wordpress/?p=9009)
+- [SQL Server – 원격접속 허용](https://skyer9.pe.kr/wordpress/?p=9076)
 
 ---
 

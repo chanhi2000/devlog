@@ -112,6 +112,7 @@ head:
 - [CNN Filter Visualization](https://devs0n.tistory.com/m/181)
 - [\[논문 구현\] Auto-Encoding Variational Bayes (Varitional Auto Encoder)](https://devs0n.tistory.com/m/191)
 - [\[논문 리뷰\] Auto-Encoding Variational Bayes (Varitional Auto Encoder)](https://devs0n.tistory.com/m/190)
+- [Various Normalizations on CNN](https://devs0n.tistory.com/m/193)
 
 ---
 

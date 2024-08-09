@@ -142,8 +142,9 @@ head:
   - [코딩테스트 준비 - Minimum Number Game](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---minimum-number-game)
   - [코딩테스트 준비 - 올바른 괄호](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%98%AC%EB%B0%94%EB%A5%B8-%EA%B4%84%ED%98%B8)
   - [코딩테스트 준비 - Valid Parentheses](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C-i67t26g3)
-
   - [코딩테스트 준비 - Maximum Product of Two Elements in an Array](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---maximum-product-of-two-elements-in-an-array)
+  - [코딩테스트 준비 - K번째수](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---k%EB%B2%88%EC%A7%B8%EC%88%98)
+  - [코딩테스트 준비 - Smallest Number in Infinite Set](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---smallest-number-in-infinite-set)
 <!-- END: until.blog -->
 
 ---
@@ -330,6 +331,8 @@ head:
 - [ASP.NET CORE : Entity Framework Scaffold-DbContext Login failed for user (db 비밀번호 $ 문자 문제)](https://aspdotnet.tistory.com/m/3229)
 - [ASP.NET CORE : `signInManager.PasswordSignInAsync` 의 Not Allowed 가 true 이면?](https://aspdotnet.tistory.com/m/3230)
 - [EF : Entity Framework Core - Database first 사용해 보기](https://aspdotnet.tistory.com/m/3231)
+- [ASP.NET CORE : 대칭 암호화 알고리즘 AES-256(Advanced Encryption Standard) 구현하기 (Aes Class)](https://aspdotnet.tistory.com/m/3242)
+- [ASP.NET CORE : 대칭 암호화 알고리즘 AES-256 시나리오 2가지로 구현하기](https://aspdotnet.tistory.com/m/3243)
 
 ---
 

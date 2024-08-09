@@ -91,7 +91,7 @@ We set our game scene to have the size 1024x768, which will be sized correctly f
 
 Very often that solution is perfectly fine – the difference is only very slight, after all – but in this case we can ask SpriteKit to gently stretch our scene so that it fits the device dimensions no matter what aspect ratio.
 
-To do that, open GameViewController.swift and find this line of code:
+To do that, open <FontIcon icon="fa-brands fa-swift"/>`GameViewController.swift` and find this line of code:
 
 ```swift
 scene.scaleMode = .aspectFill

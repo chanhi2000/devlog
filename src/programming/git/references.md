@@ -69,7 +69,7 @@ head:
 
 ---
 
-## freecodcamp.org
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [How to Write Commit Messages that Project Maintainers Will Appreciate](https://freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like)
 
@@ -83,6 +83,9 @@ head:
 - [`@endmoseung` - Submodule CI/CD 통합하기](https://velog.io/@endmoseung/Submodule-CICD-%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0)
 - [`@root-devvoo` / oh-my-zsh 업데이트 에러 해결](https://velog.io/@root-devvoo/oh-my-zsh-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
 - [`@euisuk-chung` / [Git] Credential Helper로 GitHub 인증하기](https://velog.io/@euisuk-chung/Git-Credential-Helper%EB%A1%9C-GitHub-%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0)
+- [`@beberiche` / 오픈소스 작업하다가 첫 `git rebase` 적용한 썰](https://velog.io/@beberiche/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9E%91%EC%97%85%ED%95%98%EB%8B%A4%EA%B0%80-%EC%B2%AB-git-rebase-%EC%A0%81%EC%9A%A9%ED%95%9C-%EC%8D%B0)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -321,7 +324,7 @@ head:
 
 ---
 
-## 주먹불끈
+## just_HS
 
 - [`git rebase` vs. `git pull —rebase`](https://jusths.tistory.com/410)
 
@@ -417,6 +420,12 @@ head:
 ## pvigier's blog
 
 - [Commit Graph Drawing Algorithms](https://pvigier.github.io/2019/05/06/commit-graph-drawing-algorithms.html)
+
+---
+
+## 상구리의 기술 블로그
+
+- [`git commit` 취소하기](https://skyer9.pe.kr/wordpress/?p=9293)
 
 ---
 

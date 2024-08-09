@@ -33,6 +33,9 @@ head:
 - [`nchoosek`, `string`, `unique`를 이용한 경우의 수 문제 풀이](https://lazymatlab.tistory.com/m/250)
 - [한글이 포함된 url을 한글 그대로 복붙하기](https://lazymatlab.tistory.com/m/251)
 - [`list.extend`와 `list.iadd`의 차이](https://lazymatlab.tistory.com/m/258)
+- [매트랩 콰인](https://lazymatlab.tistory.com/m/280)
+
+<!-- END: lazymatlab.tistory.com -->
 
 ---
 

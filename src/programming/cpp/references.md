@@ -226,6 +226,10 @@ head:
 - [클립보드에 저장된 이미지 파일로 저장하기 - Step 3](https://m.blog.naver.com/tipsware/223531216096)
 - [클립보드에 저장된 이미지 파일로 저장하기 - Step 4](https://m.blog.naver.com/tipsware/223536257296)
 - [원형으로 표시되는 Stopwatch 만들기 - Step 1](https://m.blog.naver.com/tipsware/223538516772)
+- [원형으로 표시되는 Stopwatch 만들기 - Step 1](https://m.blog.naver.com/tipsware/223538516772)
+- [\[LabX/실습과제\] Stopwatch 기능 업그레이드하기](https://m.blog.naver.com/tipsware/223539612852)
+- [기존 Stopwatch 예제를 LxMFC 버전으로 변경](https://m.blog.naver.com/tipsware/223540504396)
+
 
 <!-- END: blog.naver.com/tipsware/ -->
 
@@ -254,7 +258,7 @@ head:
 
 ## 상구리의 기술 블로그
 
-- [C – error: jump to case label](https://www.skyer9.pe.kr/wordpress/?p=8963)
+- [C – error: jump to case label](https://skyer9.pe.kr/wordpress/?p=8963)
 
 ---
 
@@ -311,6 +315,7 @@ head:
 - [\[백준 32069번\] 가로등](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32069%EB%B2%88-%EA%B0%80%EB%A1%9C%EB%93%B1)
 - [\[백준 32070번\] 색깔 모으기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32070%EB%B2%88-%EC%83%89%EA%B9%94-%EB%AA%A8%EC%9C%BC%EA%B8%B0)
 - [\[백준 25571번\] 지그재그 부분배열](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-25571%EB%B2%88-%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8-%EB%B6%80%EB%B6%84%EB%B0%B0%EC%97%B4)
+- [\[백준 32072번\] 트리 뽑아내기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32072%EB%B2%88-%ED%8A%B8%EB%A6%AC-%EB%BD%91%EC%95%84%EB%82%B4%EA%B8%B0)
 
 <!-- END: kesakiyo.tistory.com -->
 

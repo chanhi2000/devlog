@@ -73,13 +73,13 @@ struct UserFetcher {
 
 ::: tip
 
-Just like using the `@main` attribute with a synchronous `main()` method, you should not include a main.swift file in your command-line project.
+Just like using the `@main` attribute with a synchronous `main()` method, you should not include a <FontIcon icon="fa-brands fa-swift"/>`main.swift` file in your command-line project.
 
 :::
 
 Using `async` and `@main` together benefits from the full range of Swift concurrency features. Behind the scenes, Swift will automatically create a new task in which it runs your `main()` method, then terminate the program when that task finishes.
 
-Although it doesn’t work in the current Xcode release, the goal is for Swift to support async calls in top-level code. This would mean you could use main.swift files and remove most of the code in the previous sample – you could just go ahead and make async calls outside of a function.
+Although it doesn’t work in the current Xcode release, the goal is for Swift to support async calls in top-level code. This would mean you could use <FontIcon icon="fa-brands fa-swift"/>`main.swift` files and remove most of the code in the previous sample – you could just go ahead and make async calls outside of a function.
 
 ::: details Similar solutions…
 

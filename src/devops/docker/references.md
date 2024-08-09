@@ -475,4 +475,10 @@ head:
 
 ---
 
+## flex 공식 블로그
+
+[Testcontainers에 의한 docker container 생성 폭발을 막아라](https://flex.team/blog/2024/07/29/tech-testcontainers/)
+
+---
+
 <TagLinks />

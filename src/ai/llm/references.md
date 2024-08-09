@@ -444,4 +444,10 @@ head:
 
 ---
 
+## Min Hsu
+
+- [Scheduling Model in LLVM - Part I](https://myhsu.xyz/llvm-sched-model-1/)
+
+---
+
 <TagLinks/>

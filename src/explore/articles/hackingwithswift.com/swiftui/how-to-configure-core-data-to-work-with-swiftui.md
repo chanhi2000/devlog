@@ -54,8 +54,8 @@ head:
 
 If you create a new project and check both SwiftUI and Core Data, Xcode does a pretty good job of getting you towards a working configuration. Specifically, it:
 
-1. Creates an empty YourProjectName.xcdatamodeld model file with an example configuration.
-2. Adds a Persistence.swift file that wraps up Core Data neatly in one place.
+1. Creates an empty <FontIcon icon="iconfont icon-xcode"/>`YourProjectName.xcdatamodeld` model file with an example configuration.
+2. Adds a <FontIcon icon="fa-brands fa-swift"/>`Persistence.swift` file that wraps up Core Data neatly in one place.
 3. Injects the context into the initial content view’s environment using the `managedObjectContext` key.
 4. Provides sample code in `ContentView` to create, read, and delete example data.
 
@@ -71,7 +71,7 @@ For example purposes we need some consistent data to work with so that I can giv
 
 Second, you need somewhere to load and manage your Core Data configuration. Apple’s template does this with a `PersistenceController` singleton, which is a nice solution because it does just enough to get Core Data up and running while also providing the ability to make preview contexts for SwiftUI.
 
-So, make a new file called PersistenceController.swift and give it this code:
+So, make a new file called <FontIcon icon="fa-brands fa-swift"/>`PersistenceController.swift` and give it this code:
 
 ```swift
 struct PersistenceController {
@@ -135,7 +135,7 @@ func save() {
 
 Fourth, you need to inject the managed object context for your Core Data container into the SwiftUI environment. 
 
-This takes two smaller steps, both in the YourProjectNameApp.swift file. First, give your app struct a property to store the persistence controller:
+This takes two smaller steps, both in the <FontIcon icon="fa-brands fa-swift"/>`YourProjectNameApp.swift` file. First, give your app struct a property to store the persistence controller:
 
 ```swift
 let persistenceController = PersistenceController.shared

@@ -57,7 +57,7 @@ isOriginal: false
 
 Once you've designed your SwiftData models and injected them into your SwiftUI app using the `modelContainer()` modifier, the next step is to create some SwiftUI code to read out objects of your model and display them somehow.
 
-Start by opening your ContentView.swift file and adding an `import SwiftData` line at the top to bring in all the SwiftData code we need.
+Start by opening your <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift` file and adding an `import SwiftData` line at the top to bring in all the SwiftData code we need.
 
 Now add this new property to the `ContentView` struct:
 

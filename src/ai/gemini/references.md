@@ -39,6 +39,13 @@ head:
 
 ---
 
+## Brunch
+
+- [`@2rV` / 퍼플렉시티가 구글과 경쟁에서 이길 수 있을까?](https://brunch.co.kr/@@2rV/158)
+
+<!-- END: brunch.co.kr -->
+---
+
 ## Lupin & Homles
 
 - [We Hacked Google A.I. for $50,000](https://www.landh.tech/blog/20240304-google-hack-50000/)

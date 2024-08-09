@@ -37,6 +37,7 @@ head:
 - [AWS가 제공하는 고성능 컴퓨터 서비스(HPC on AWS)를 사용해야 하는 이유](https://aws.amazon.com/ko/blogs/tech/introduction-of-hpc-on-aws/)
 - [Amazon Q Developer, 사내 소스 기반 IDE용 코드 추천 기능 출시](https://aws.amazon.com/ko/blogs/korea/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/)
 - [Valkey 및 Redis 오픈 소스용 오픈 소스 클라이언트 라이브러리, Valkey GLIDE 소개](https://aws.amazon.com/ko/blogs/tech/introducing-valkey-glide-an-open-source-client-library-for-valkey-and-redis-open-source-kr/)
+
 ---
 
 ## DZone
@@ -71,7 +72,7 @@ head:
 
 ---
 
-## 
+## LG CNS
 
 - [S3 기능을 활용한 bucket replication](https://www.lgcns.com/blog/cns-tech/aws-ambassador/40867/)
 
@@ -150,6 +151,17 @@ head:
 - [`@mildsalmon` / Data Quality Check를 위한 Assert Runner 구현하기](https://blex.me/@mildsalmon/data-quality-check%EB%A5%BC-%EC%9C%84%ED%95%9C-assert-runner-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [`@kimyoungjo` / EC2, docker를 이용한 배포 후기 \[지도 검색 서비스 제작기\]](https://blex.me/@kimyoungjo/ec2-docker%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-%EC%A7%80%EB%8F%84-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EC%9E%91%EA%B8%B0)
 - [`@mildsalmon` / OOP를 곁들인 Data Quality Check](https://blex.me/@mildsalmon/data-quality-check%EB%A5%BC-%EC%9C%84%ED%95%9C-assert-runner-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+
+<!-- END: blex.me -->
+
+---
+
+## üntil
+
+- [`@octoping`: 노바](https://until.blog/@octoping) 
+  - [커밋될 때마다 Spring Boot 프로젝트를 ECR에 배포하기](https://until.blog/@octoping/커밋될-때마다-spring-boot-프로젝트를-ecr에-배포하기)
+
+<!-- END: until.blog -->
 
 ---
 
@@ -505,6 +517,8 @@ head:
 ## Junhyunny's Devlogs
 
 - [AWS ALB(Application Load Balancer) and Target Group Setup](https://junhyunny.github.io/aws/aws-alb-and-target-group-setup/)
+- [AWS ECS(Elastic Container Service) Setup](https://junhyunny.github.io/aws/aws-ecs-service-setup/)
+- [AWS ECR(Elastic Container Registry) Setup](https://junhyunny.github.io/aws/aws-ecr-setup/)
 
 ---
 

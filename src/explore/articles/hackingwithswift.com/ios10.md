@@ -139,7 +139,7 @@ override func didReceive(_ message: MSMessage, conversation: MSConversation) {
 }
 ```
 
-Once you've crafted your custom message and written code to receive it, all you need to do now is send it. You get a default Main.storyboard with your messages extension, which contains a default label. Please delete it – we'll add a button in code instead.
+Once you've crafted your custom message and written code to receive it, all you need to do now is send it. You get a default <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard` with your messages extension, which contains a default label. Please delete it – we'll add a button in code instead.
 
 Back in MessagesViewController.swift, add this to `viewDidLoad()`:
 
@@ -316,7 +316,7 @@ Note: you'll need to enable your app in Settings > Siri.
 
 Go to the Info.plist file for your extension, then open up NSExtension > NSExtensionAttributes > IntentsSupported and remove the workout intents – they only work on Apple Watch, which doesn't make for a great example to use for a template. Instead of the workout intents, add one called `INSendMessageIntent` – this lets us send messages like a messaging app.
 
-Now open IntentHandler.swift and replace the existing workout class with something much simpler:
+Now open <FontIcon icon="fa-brands fa-swift"/>`IntentHandler.swift` and replace the existing workout class with something much simpler:
 
 ```swift
 class IntentHandler: INExtension, INSendMessageIntentHandling {

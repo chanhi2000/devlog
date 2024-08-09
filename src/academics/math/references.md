@@ -569,6 +569,7 @@ head:
 
 - [Lec2. Markov Process, MRPs, MDPs, Evaluation and Control](https://he-kate1130.tistory.com/m/100)
 - [Loss Function: Log Likelihood Loss](https://he-kate1130.tistory.com/m/06)
+- [\[CS224N\] Lecture 1 - Intro & Word Vectors](https://he-kate1130.tistory.com/m/106)
 
 ---
 

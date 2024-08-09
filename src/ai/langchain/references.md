@@ -59,6 +59,7 @@ head:
 ## AI Convergence
 
 - [\[LCC-2\] LangChain document loaders 이해](http://mobicon.tistory.com/m/610)
+- [\[LCC-4\] LangChain Text Embedding 이해](https://mobicon.tistory.com/m/613)
 
 ---
 

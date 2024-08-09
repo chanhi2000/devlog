@@ -27,4 +27,12 @@ head:
 
 ---
 
+## 데엔잘하고싶은데엔🔥💎
+
+- [\[로컬에서\] Locust사용법, API 부하 테스트 및 성능 지표 해석하기](https://pearlluck.tistory.com/m/825)
+
+<!-- END: pearlluck.tistory.com -->
+
+---
+
 <TagLinks />

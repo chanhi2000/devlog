@@ -40,6 +40,16 @@ tag:
 
 - [Go Fiber vs Rust: Performance comparison for JWT verify and MySQL query](https://medium.com/deno-the-complete-reference/go-fiber-vs-rust-performance-comparison-for-jwt-verify-and-mysql-query-9f5b7129a20)
 
+<!-- END: medium.com -->
+
+---
+
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@bestswlkh0310` / Rust는 우주최강슈퍼짱짱 언어입니다. ㄹㅇ임](https://velog.io/@bestswlkh0310/Rust%EB%8A%94-%EC%9A%B0%EC%A3%BC%EC%B5%9C%EA%B0%95%EC%8A%88%ED%8D%BC%EC%A7%B1%EC%A7%B1-%EC%96%B8%EC%96%B4%EC%9E%85%EB%8B%88%EB%8B%A4.-%E3%84%B9%E3%85%87%EC%9E%84)
+
+<!-- END: velog.io -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
@@ -48,7 +58,7 @@ tag:
 - [`@gauryan` - Rust: Auto-Reloading Development Server (라이브 리로딩 서](https://blex.me/@gauryan/rust-auto-reloading-development-server-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EB%A6%AC%EB%A1%9C%EB%94%A9-%EC%84%9C)
 - [`@claffee` - 러스트 도전!](https://blex.me/@claffee/%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%A0%84)
 
-<!-- blex.me -->
+<!-- END: blex.me -->
 
 ---
 

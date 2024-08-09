@@ -49,9 +49,9 @@ isOriginal: false
 
 > Available from Swift 5.7
 
-[SE-0343 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0343-top-level-concurrency.md) upgrades Swift’s support for top-level code – think main.swift in a macOS Command Line Tool project – so that it supports concurrency out of the box. This is one of those changes that might seem trivial on the surface, but [took (<FontIcon icon="iconfont icon-github"/>`apple/swift`)](https://github.com/apple/swift/pull/40998) a lot of [work (<FontIcon icon="iconfont icon-github"/>`apple/swift`)](https://github.com/apple/swift/pull/41061) to make [happen (<FontIcon icon="iconfont icon-github"/>`apple/swift`)](https://github.com/apple/swift/pull/40963).
+[SE-0343 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0343-top-level-concurrency.md) upgrades Swift’s support for top-level code – think <FontIcon icon="fa-brands fa-swift"/>`main.swift` in a macOS Command Line Tool project – so that it supports concurrency out of the box. This is one of those changes that might seem trivial on the surface, but [took (<FontIcon icon="iconfont icon-github"/>`apple/swift`)](https://github.com/apple/swift/pull/40998) a lot of [work (<FontIcon icon="iconfont icon-github"/>`apple/swift`)](https://github.com/apple/swift/pull/41061) to make [happen (<FontIcon icon="iconfont icon-github"/>`apple/swift`)](https://github.com/apple/swift/pull/40963).
 
-In practice, it means you can write code like this directly into your main.swift files:
+In practice, it means you can write code like this directly into your <FontIcon icon="fa-brands fa-swift"/>`main.swift` files:
 
 ```swift
 import Foundation

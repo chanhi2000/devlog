@@ -51,9 +51,16 @@ tag:
 
 ---
 
-## Google Security Blog
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### Google Security Blog
 
 - [Google Public DNS's approach to fight against cache poisoning attacks](https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html)
+
+### Google Bug Hunters
+
+- [A deep dive into CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
+
 
 ---
 

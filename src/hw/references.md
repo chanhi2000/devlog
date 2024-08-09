@@ -137,8 +137,8 @@ head:
 
 ## 상구리의 기술 블로그
 
-- [Raspberry Pi – Ubuntu network setup without monitor](https://www.skyer9.pe.kr/wordpress/?p=8858)
-- [블루투스 장치 주소 (Bluetooth Device Address, BD_ADDR)](https://www.skyer9.pe.kr/wordpress/?p=9155)
+- [Raspberry Pi – Ubuntu network setup without monitor](https://skyer9.pe.kr/wordpress/?p=8858)
+- [블루투스 장치 주소 (Bluetooth Device Address, BD_ADDR)](https://skyer9.pe.kr/wordpress/?p=9155)
 
 ---
 
@@ -434,6 +434,18 @@ head:
 - [\[혼공컴운\] 3장. 명령어](https://lazymatlab.tistory.com/m/257)
 - [\[혼공컴운\] 8장. 입출력장치](https://lazymatlab.tistory.com/m/269)
 - [\[혼공컴운\] 7장. 보조기억장치](https://lazymatlab.tistory.com/m/268)
+
+---
+
+## 큰돌의 터전
+
+- [서멀구리스로 CPU 온도 낮추는 방법](https://m.blog.naver.com/jhc9639/223539434814)
+
+---
+
+## Project Gus - Might even work.
+
+- [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 
 ---
 

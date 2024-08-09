@@ -488,7 +488,7 @@ tag:
 
 ---
 
-## 주먹불끈
+## just_HS
 
 - [책: 그들의 생각을 바꾸는 방법 - 딥 캔버싱](https://jusths.tistory.com/392)
 - [책: 그들의 생각을 바꾸는 방법 - 자신만의 현실](https://jusths.tistory.com/393)
@@ -529,6 +529,7 @@ tag:
 - [개구리 올챙이 시절](https://thestartupbible.com/2024/07/always-remember-where-you-came-from.html)
 - [전력 증강자](https://thestartupbible.com/2024/08/force-multiplier.html)
 - [평판 만들기](https://thestartupbible.com/2024/08/on-your-reputation-preceding-you.html)
+- [글로벌 사업의 기본은 영어](https://thestartupbible.com/2024/08/the-very-first-requirement-for-any-global-business-is-english.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -597,6 +598,7 @@ tag:
 - [1인 개발자로 행복하게 살기 (송도 헬로월드 2024 발표)](https://jeho.page/essay/2024/04/01/songdo.html)
 - [앱 개발 의뢰 시장](https://jeho.page/essay/2024/06/12/building-an-app.html)
 - [커피한잔 서버 장애 썰](https://jeho.page/essay/2024/05/03/coffee-server.html)
+- [레거시 처리 개발자](https://jeho.page/essay/2024/08/08/defense-fun.html)
 
 ---
 

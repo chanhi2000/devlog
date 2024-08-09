@@ -164,6 +164,7 @@ head:
 - [`@jeonbw06`: 전병우](https://until.blog/@jeonbw06)
   - [스프링 입문 - Ch 2. 스프링 웹 개발 기초](https://until.blog/@jeonbw06/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8---ch-2--%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88)
   - [스프링 입문 - Ch 1. 프로젝트 환경설정](https://until.blog/@jeonbw06/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8---ch-1--%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)
+  - [\[Spring Cloud\] 스프링 클라우드란?](https://until.blog/@jeonbw06/-spring-cloud--%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%9E%80-)
 - [`@hyerin1225` / Spring](https://until.blog/@hyerin1225/spring)
 - [`@brightdawn` / \[Spring Boot\] Lombok 적용 오류](https://until.blog/@brightdawn/-spring-boot--lombok-%EC%A0%81%EC%9A%A9-%EC%98%A4%EB%A5%98)
 - [`@brightdawn` / Spring boot에서 환경변수 설정이 필요한 경우](https://until.blog/@brightdawn/spring-boot%EC%97%90%EC%84%9C-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B2%BD%EC%9A%B0)
@@ -179,6 +180,7 @@ head:
   - [서버 환경에 따라 상수 값 분기하기](https://until.blog/@octoping/%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%83%81%EC%88%98-%EA%B0%92-%EB%B6%84%EA%B8%B0%ED%95%98%EA%B8%B0)
   - [Spring 없는 Java조차 서버리스에서 못 써먹는걸까?](https://until.blog/@octoping/spring-%EC%97%86%EB%8A%94-java%EB%8F%84-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EC%97%90%EC%84%9C-%EB%AA%BB-%EC%8D%A8%EB%A8%B9%EB%8A%94-%EC%A0%95%EB%8F%84%EC%9D%B8%EA%B1%B8%EA%B9%8C-)
   - [스프링 표현식 언어 (SpEL) 알아보기](https://until.blog/@octoping/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%91%9C%ED%98%84%EC%8B%9D-%EC%96%B8%EC%96%B4--spel--%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+  - [커밋될 때마다 Spring Boot 프로젝트를 ECR에 배포하기](https://until.blog/@octoping/커밋될-때마다-spring-boot-프로젝트를-ecr에-배포하기)
 
 ### Heee's Development Blog
 
@@ -449,6 +451,8 @@ head:
 - [11.3. 책 목록 응답 DTO 객체 만들기](https://ysedeveloper.tistory.com/m/entry/113-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EC%9D%91%EB%8B%B5-DTO-%EA%B0%9D%EC%B2%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [11.4. 책 서비스 클래스에 목록 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/114-%EC%B1%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [11.5. 책 컨트롤러 클래스에 목록 메소드 추가하기](https://ysedeveloper.tistory.com/m/ntry/115-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [11.5. 책 컨트롤러 클래스에 목록 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/115-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [11.6. 책 목록 뷰 추가하기](https://ysedeveloper.tistory.com/m/entry/116-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EB%B7%B0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -568,6 +572,14 @@ head:
 ### Java칩 프라푸치노
 
 - [`@WebMvcTest` 에서 OAuth2 `@AuthenticationPrincipa`l 적용](https://m.blog.naver.com/qjawnswkd/222409298747)
+
+### flex 공식 블로그
+
+[Testcontainers에 의한 docker container 생성 폭발을 막아라](https://flex.team/blog/2024/07/29/tech-testcontainers/)
+
+### 6161990
+
+- [SpringKafka Consumer 설정값으로 요리조리 테스트 해보기](https://6161990src.tistory.com/m/148)
 
 ---
 

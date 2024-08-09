@@ -4613,6 +4613,13 @@
     "avatar": "",
     "banner": ""
   }, {
+    "repo": "LLaVA-VL/LLaVA-NeXT",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/131001649?v=4",
+    "banner": ""
+  }, {
     "repo": "dkogan/gnuplotlib",
     "desc": "gnuplot for numpy",
     "officialSite": "",
@@ -7383,6 +7390,27 @@
     "officialSite": "",
     "topics": ["minicpm", "minicpm-v", "multi-modal"],
     "avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
+    "banner": ""
+  }, {
+    "repo": "karpathy/nano-llama31",
+    "desc": "nanoGPT style version of Llama 3.1",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/241138?v=4",
+    "banner": ""
+  }, {
+    "repo": "hacksider/Deep-Live-Cam",
+    "desc": "real time face swap and one-click video deepfake with only a single image (uncensored)",
+    "officialSite": "",
+    "topics": ["ai", "ai-deep-fake", "ai-face", "ai-webcam", "artificial-intelligence", "deep-fake", "deepfake", "deepfake-webcam", "faceswap", "fake-webcam", "real-time-deepfake", "realtime-deepfake", "realtime-face-changer", "video-deepfake", "webcam", "webcamera"],
+    "avatar": "https://avatars.githubusercontent.com/u/1267200?v=4",
+    "banner": ""
+  }, {
+    "repo": "THUDM/CogVideo",
+    "desc": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+    "officialSite": "",
+    "topics": ["cogvideox", "llm", "sora", "video-generation"],
+    "avatar": "https://avatars.githubusercontent.com/u/48590610?v=4",
     "banner": ""
   }
 ]

@@ -197,7 +197,7 @@ This is a small change, but trust me: it's a welcome one. To try it out in Xcode
 
 In Objective C header files provided a list of the functionality exposed by classes – think of them like summaries telling you what methods are available and what parameters they take, but with none of the code.
 
-Swift doesn't have header files, whch means you write all your code in a .swift file and don't have to worry about updating header files. Instead, you use keywords like "private" to mark how methods should be exposed to the outside world.
+Swift doesn't have header files, whch means you write all your code in a <FontIcon icon="fa-brands fa-swift"/>`.swift` file and don't have to worry about updating header files. Instead, you use keywords like "private" to mark how methods should be exposed to the outside world.
 
 But in losing header files, Swift lost one important piece of functionality: being able to see at a glance what functions are inside a class. So if you give me a 1000-line Swift file and I just want to see how I can call your functions, I have to dig through all the code, which is unpleasant.
 

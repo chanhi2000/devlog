@@ -76,6 +76,10 @@ tag:
   - [git 공개키 등록하기 git@github.com: Permission denied (publickey)](https://until.blog/@morethanmin/git-%EA%B3%B5%EA%B0%9C%ED%82%A4-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0-git-github-com--permission-denied--publickey-)
 - [`@nahwasa`: nahwasa](https://until.blog/@nahwasa)
   - [Git 기본 이해 - 기본 명령어의 이해, 충돌 해결, github](https://until.blog/@nahwasa/git-%EA%B8%B0%EB%B3%B8-%EC%9D%B4%ED%95%B4---%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4%EC%9D%98-%EC%9D%B4%ED%95%B4--%EC%B6%A9%EB%8F%8C-%ED%95%B4%EA%B2%B0--github)
+- [`@octoping`: 노바](https://until.blog/@octoping) 
+  - [커밋될 때마다 Spring Boot 프로젝트를 ECR에 배포하기](https://until.blog/@octoping/커밋될-때마다-spring-boot-프로젝트를-ecr에-배포하기)
+
+<!-- END: until.blog -->
 
 ---
 
@@ -139,7 +143,7 @@ tag:
 
 ---
 
-## 주먹불끈
+## just_HS
 
 - [GitHub Autolink 를 알아보자](https://jusths.tistory.com/396)
 

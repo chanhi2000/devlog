@@ -138,6 +138,7 @@ head:
 ## 6161990
 
 - [Commit 실패된 메세지 Producer 가 책임질래 Consumer 가 책임질래](https://6161990src.tistory.com/m/147)
+- [SpringKafka Consumer 설정값으로 요리조리 테스트 해보기](https://6161990src.tistory.com/m/148)
 
 ---
 

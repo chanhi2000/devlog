@@ -51,7 +51,16 @@ isOriginal: false
 }
 ```
 
-<!-- TODO: 작성 -->
+<VidStack src="youtube/01K6Oy5ktaQ" />
+
+The last debugging technique I want to look at is view debugging, Xcode comes with a marvelous feature called Capture View Hierarchy, and when it's used your see your current view layout inside Xcode with thin gray lines around all the views. 
+
+First, launch a project with some interesting UI. Project 13, for example, has enough in there to be interesting. Now run the program as normal, then in Xcode go to the Debug menu and choose View Debugging > Capture View Hierarchy. After a few seconds of thinking, Xcode will show you a screenshot of your app’s UI.
+
+Here’s the clever part: if you click and drag inside the hierarchy display, you'll see you're actually viewing a 3D representation of your view, which means you can look behind the layers to see what else is there. The hierarchy automatically puts some depth between each of its views, so they appear to pop off the canvas as you rotate them.
+
+This debug mode is perfect for times when you know you've placed your view but for some reason can't see it – often you'll find the view is behind something else by accident.
+
 
 ---
 

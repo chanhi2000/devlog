@@ -62,6 +62,7 @@ head:
 - [esql timezone](https://kangmyounghun.blogspot.com/2024/06/esql-timezone.html)
 - [데이터 시인성 - 7th](https://kangmyounghun.blogspot.com/2024/06/7th.html)
 - [ingest pipeline - 4th](https://kangmyounghun.blogspot.com/2024/05/ingest-pipeline-4th.html)
+- [데이터 노가다 실수담 - 6th](https://kangmyounghun.blogspot.com/2024/08/6th.html)
 
 ---
 

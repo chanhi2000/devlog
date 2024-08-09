@@ -472,4 +472,10 @@ head:
 
 ---
 
+## just_HS
+
+- [오만과 편견 with ChatGPT](https://jusths.tistory.com/m/419)
+
+---
+
 <TagLinks />

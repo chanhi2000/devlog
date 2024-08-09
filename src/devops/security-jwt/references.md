@@ -68,4 +68,10 @@ head:
 
 ---
 
+## Life Log
+
+- [jwt 클라이언트, 서버, 디비 별 관점과 관리방법](https://ravenkim97.tistory.com/m/487)
+
+---
+
 <TagLinks />

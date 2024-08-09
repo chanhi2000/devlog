@@ -63,7 +63,7 @@ If you don’t remember all the steps, here’s the abridged version:
 - Open GameScene.sks and delete the “Hello World” label.
 - Change the scene’s anchor point to X:0 Y:0, its width to 1024 and its height to 768.
 
-Finally, remove almost everything in GameScene.swift so that it looks like this:
+Finally, remove almost everything in <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift` so that it looks like this:
 
 ```swift
 import SpriteKit
@@ -81,7 +81,7 @@ I won’t be repeating those instructions again from now on.
 
 Now download the files for this project from [GitHub (<FontIcon icon="iconfont icon-github"/>`twostraws/HackingWithSwift`)](https://github.com/twostraws/HackingWithSwift) and copy the assets from the Content folder into your Xcode project.
 
-All set? Open up GameScene.swift and get whacking!
+All set? Open up <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift` and get whacking!
 
 ::: note Reminder
 

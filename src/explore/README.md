@@ -726,6 +726,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://www.budgetflow.cc/static/images/logo6.png"
   preview="https://www.budgetflow.cc/static/images/logo6.png"/>
 
+<SiteInfo
+  name="Public Work by Cosmos"
+  desc="Public Work is a visual search engine for public domain content. Explore 100,000+ copyright-free images from The MET, New York Public Library, and other sources"
+  url="https://public.work/"
+  logo="https://public.work/favicon.ico"
+  preview="https://public.work/public-work.jpg"/>
+
 <!-- END:  Cool Project -->
 
 @tab Portfolio / Resume

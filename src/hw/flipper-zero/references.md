@@ -91,7 +91,7 @@ head:
 
 ## 상구리의 기술 블로그
 
-- [Raspberry Pi – Ubuntu network setup without monitor](https://www.skyer9.pe.kr/wordpress/?p=8858)
+- [Raspberry Pi – Ubuntu network setup without monitor](https://skyer9.pe.kr/wordpress/?p=8858)
 
 ---
 

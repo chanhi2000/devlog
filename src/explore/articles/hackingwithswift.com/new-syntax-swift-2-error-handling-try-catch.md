@@ -75,7 +75,7 @@ The fourth and fifth keywords are `throw` and `throws`, and we'll look at them i
 
 Please create a new Xcode project, using the Single View App template. You can name it whatever you feel like, and target whatever device you want – it doesn't matter, because we're not doing anything visual here.
 
-Select ViewController.swift and add this new method:
+Select <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` and add this new method:
 
 ```swift
 func encrypt(_ str: String, withPassword password: String) -> String {

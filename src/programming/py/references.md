@@ -203,6 +203,7 @@ head:
 - [`codingconfessions` / CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
 - [`johnloewen` / A Beautiful and Timely Python Multi-page Streamlit Application](https://johnloewen.substack.com/p/a-beautiful-and-timely-python-multi)
 - [`pythonpapers` / Creating Images in Your Terminal with Python and Rich Pixels](https://www.pythonpapers.com/p/creating-images-in-your-terminal)
+- [`codingconfessions` / Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 
 <!-- END: substack.com -->
 
@@ -1185,6 +1186,7 @@ head:
 - [게으른 예외처리는 독이 될 수도 있다.](https://lazymatlab.tistory.com/m/232)
 - [syntax sugar in python](https://lazymatlab.tistory.com/m/236)
 - [파이썬을 왜 공부하나요?](https://lazymatlab.tistory.com/m/75)
+- [매트랩 콰인](https://lazymatlab.tistory.com/m/280)
 
 ---
 
@@ -1220,9 +1222,10 @@ head:
 
 ## 상구리의 기술 블로그
 
-- [Pyrhon3 – How to install packages offline (pip 오프라인 설치)](https://www.skyer9.pe.kr/wordpress/?p=9033)
+- [Pyrhon3 – How to install packages offline (pip 오프라인 설치)](https://skyer9.pe.kr/wordpress/?p=9033)
 - [Python – 16진수 맥어드레스 2진수로 출력하기](https://skyer9.pe.kr/wordpress/?p=9212)
 - [Python = hex 문자열 디코딩하기](https://skyer9.pe.kr/wordpress/?p=9283)
+- [Python – parameter by reference (참조로 값 전달)](https://skyer9.pe.kr/wordpress/?p=9291)
 
 ---
 
@@ -2179,6 +2182,7 @@ head:
 - [\[Python\] `docstring` 스펙](http://mobicon.tistory.com/m/608)
 - [\[Python\] `__getattr__` 의미](http://mobicon.tistory.com/m/609)
 - [MQTT 사용하기 - 1](https://mobicon.tistory.com/m/12)
+- [\[Python\] 클래스의 변수와 속성 이해](http://mobicon.tistory.com/m/612)
 
 ---
 
@@ -2197,6 +2201,9 @@ head:
 ## 조대협의 블로그
 
 - [Python yield](http://bcho.tistory.com/m/1433)
+- [Pytorch - 선형회귀 (Linear Regression)을 통한 코드 구조 이해](https://bcho.tistory.com/m/1434)
+
+<!-- END: bcho.tistory.com -->
 
 ---
 

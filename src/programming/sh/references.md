@@ -69,11 +69,15 @@ tag:
 - [`netflixtechblog` / Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 - [`benchling` / Signals, shells, and docker: an onion of footguns](https://benchling.engineering/signals-shells-and-docker-an-onion-of-footguns-ee592e2b587b)
 
+<!-- END: medium.com -->
+
 ---
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`tasinishmam` - Awesome Command-Line tools to boost your productivity](https://dev.to/tasinishmam/awesome-command-line-tools-to-boost-your-productivity-22n8)
+
+<!-- END: dev.to -->
 
 ---
 
@@ -82,17 +86,29 @@ tag:
 - [`@kameals` / `ls`보다는 `exa`를 사용하자! 모던 리눅스 명령어 소개[번역]](https://velog.io/@kameals/modern-linux-command)
 - [`@root-devvoo` / 쉘 스크립트에서 ’ ’, ” ”, ` ` 및 괄호 기능과 차이점](https://velog.io/@root-devvoo/%EC%89%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%94%B0%EC%98%B4%ED%91%9C-%EC%8C%8D%EB%94%B0%EC%98%B4%ED%91%9C-%EB%B0%B1%ED%8B%B1-%EB%B0%8F-%EA%B4%84%ED%98%B8-%EA%B8%B0%EB%8A%A5%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
+<!-- END: velog -->
+
 ---
 
 ## Substack
 
 - [`highgrowthengineer` - How I setup my terminal for max productivity](https://read.highgrowthengineer.com/p/how-i-setup-my-terminal-for-max-productivity)
 
+<!-- END: substack.com -->
+
+---
+
+## üntil
+
+- [`@love` / 터미널에서 내 IP 주소 바로 가져오기](https://until.blog/@love/%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-%EB%82%B4-ip-%EC%A3%BC%EC%86%8C-%EB%B0%94%EB%A1%9C-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+
 ---
 
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - `crontab`](https://blex.me/@mildsalmon/crontab)
+
+<!-- END: blex.me -->
 
 ---
 

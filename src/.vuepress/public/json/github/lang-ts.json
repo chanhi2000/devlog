@@ -3311,10 +3311,10 @@
     "banner": ""
   }, {
     "repo": "teableio/teable",
-    "desc": "✨ A Super fast, Real-time, Professional, Developer friendly, No code database",
+    "desc": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
     "officialSite": "https://teable.io",
-    "topics": ["airtable", "airtable-alternative", "database", "low-code", "no-code", "nocode", "postgres", "postgresql", "realtime", "spreadsheet", "sqlite"],
-    "avatar": "",
+    "topics": ["airtable", "airtable-alternative", "app-builder", "database", "internal-tool", "low-code", "no-code", "nocode", "postgres", "postgresql", "realtime", "spreadsheet", "sqlite"],
+    "avatar": "https://avatars.githubusercontent.com/u/113977713?v=4",
     "banner": ""
   }, {
     "repo": "cuixueshe/earthworm",
@@ -4575,6 +4575,20 @@
     "officialSite": "https://redis.com/redis-enterprise/redis-insight/",
     "topics": ["database-gui", "redis", "redis-gui", "redis-gui-client"],
     "avatar": "https://avatars.githubusercontent.com/u/87389211?v=4",
+    "banner": ""
+  }, {
+    "repo": "Infisical/infisical",
+    "desc": "♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
+    "officialSite": "https://infisical.com",
+    "topics": ["cli", "end-to-end-encryption", "environment-variables", "go", "golang", "nextjs", "nodejs", "open-source", "postgres", "react", "secret-management", "secret-manager", "secret-scanning", "secrets", "security", "security-tools", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/107880645?v=4",
+    "banner": ""
+  }, {
+    "repo": "stack-auth/stack",
+    "desc": "Open-source Clerk/Auth0 alternative",
+    "officialSite": "https://stack-auth.com",
+    "topics": ["auth", "auth0", "authentication", "clerk", "email-password", "firebase-auth", "keycloak", "login", "magic-link", "nextjs", "oauth", "password", "react", "session-management", "signin", "social-login", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/161534807?v=4",
     "banner": ""
   }
 ]

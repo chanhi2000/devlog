@@ -61,7 +61,7 @@ please read the following text very carefully. In my haste I screw this up all t
 
 :::
 
-Select the first button, then Ctrl+drag from it down to the space in your code immediately after the end of the `askQuestion()` method. If you're doing it correctly, you should see a tooltip saying, "Insert Outlet, Action, or Outlet Collection." When you let go, you'll see the same popup you normally see when creating outlets, but here's the catch: **don't choose outlet**.
+Select the first button, then <kbd>Ctrl</kbd>+drag from it down to the space in your code immediately after the end of the `askQuestion()` method. If you're doing it correctly, you should see a tooltip saying, "Insert Outlet, Action, or Outlet Collection." When you let go, you'll see the same popup you normally see when creating outlets, but here's the catch: **don't choose outlet**.
 
 ![Creating an action in the Xcode assistant editor is very similar to creating an outlet.](https://hackingwithswift.com/img/books/hws/2-13@2x.png)
 

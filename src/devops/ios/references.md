@@ -41,7 +41,7 @@ head:
 
 ## 상구리의 기술 블로그
 
-- [아이폰 – 단축어 위치서비스 메뉴 열기](https://www.skyer9.pe.kr/wordpress/?p=9031)
+- [아이폰 – 단축어 위치서비스 메뉴 열기](https://skyer9.pe.kr/wordpress/?p=9031)
 
 ---
 

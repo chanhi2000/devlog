@@ -163,7 +163,7 @@ tag:
 
 ## 상구리의 기술 블로그
 
-- [VS Code – 컬럼 복사](https://www.skyer9.pe.kr/wordpress/?p=9019)
+- [VS Code – 컬럼 복사](https://skyer9.pe.kr/wordpress/?p=9019)
 
 ---
 

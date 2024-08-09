@@ -59,7 +59,7 @@ The best way to start any new project is to define your data model, because once
 
 In SwiftData all our models are created using code – we can kiss goodbye to the Core Data model editor UI in Xcode, because now everything is described in pure Swift.
 
-For this project we’re going to create a simple model to describe one destination, so create a new Swift file called Destination.swift and give it this code:
+For this project we’re going to create a simple model to describe one destination, so create a new Swift file called <FontIcon icon="fa-brands fa-swift"/>`Destination.swift` and give it this code:
 
 ```swift
 class Destination {
@@ -106,9 +106,9 @@ init(name: String = "", details: String = "", date: Date = .now, priority: Int =
 
 So far this is all pretty standard Swift, but now it’s time to bring in SwiftData. This takes exactly three steps:
 
-1. Add `import SwiftData` to the top of both Destination.swift and iTourApp.swift.
+1. Add `import SwiftData` to the top of both <FontIcon icon="fa-brands fa-swift"/>`Destination.swift` and <FontIcon icon="fa-brands fa-swift"/>`iTourApp.swift`.
 2. Add the `@Model` macro before `class Destination`.
-3. Add this modifier to your `WindowGroup` in iTourApp.swift: `.modelContainer(for: Destination.self)`
+3. Add this modifier to your `WindowGroup` in <FontIcon icon="fa-brands fa-swift"/>`iTourApp.swift`: `.modelContainer(for: Destination.self)`
 
 That’s it: those three changes, all of which are trivial, give us a complete SwiftData stack.
 

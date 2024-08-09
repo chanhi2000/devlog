@@ -266,6 +266,7 @@ head:
 - [`@2fEJ` / 애플의 독특한 UX 리서치 접근법과 그 특징 - UX 리서치 이야기 #32](https://brunch.co.kr/@@2fEJ/1437)
 - [`@2fEJ` / UX 디자인의 핵심 요소와 UX 프로세스 선택의 유연성 - UX 디자인 이야기 #31](https://brunch.co.kr/@@2fEJ/1438)
 - [`@2YWz` / 아키텍처](https://brunch.co.kr/@@2YWz/110)
+- [`@2hV3` / 디자인 심리학 A to Z, 31가지 법칙을 한눈에 - 미니 디자인 심리학 사전](https://brunch.co.kr/@@2hV3/243)
 
 <!-- END: brunch.co.kr -->
 
@@ -301,6 +302,7 @@ head:
 ## Hide
 
 - [틴더(Tinder) 시스템 디자인](https://hides.tistory.com/1145)
+- [Rate Limiter 시스템 디자인](https://hides.tistory.com/m/1152)
 
 ---
 
