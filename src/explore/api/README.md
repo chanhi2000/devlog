@@ -410,6 +410,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://thinkpost.io/images/favicon.ico"
   preview="https://thinkpost.io/images/codebase/ogartwork.png"/>
 
+<SiteInfo
+  name="Node.js Toolbox"
+  desc="Node.js Toolbox. Find actively maintained and popular packages in the Node.js ecosystem."
+  url="https://nodejstoolbox.com/"
+  logo="https://nodejstoolbox.com/apple-touch-icon.png"
+  preview="https://nodejstoolbox.com/social-image.png"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

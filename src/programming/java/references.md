@@ -120,6 +120,10 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 16일차 TIL - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-16%EC%9D%BC%EC%B0%A8-TIL-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 - [`@dongha1992` / 99클럽 코테 스터디 16일차 TIL - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-16%EC%9D%BC%EC%B0%A8-TIL-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 - [`@dongha1992` / 99클럽 코테 스터디 17일차 TIL - 중위순회](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-17%EC%9D%BC%EC%B0%A8-TIL-%EC%A4%91%EC%9C%84%EC%88%9C%ED%9A%8C)
+- [`@dongha1992` / 99클럽 코테 스터디 18일차 TIL - 트리 순회](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-18%EC%9D%BC%EC%B0%A8-TIL-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C)
+- [`@dongha1992` / 99클럽 코테 스터디 19일차 TIL - 그리디](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-19%EC%9D%BC%EC%B0%A8-TIL-%EA%B7%B8%EB%A6%AC%EB%94%94)
+- [`@qkrtkdwns3410` / \[알고리즘 1058\] 친구](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1058-%EC%B9%9C%EA%B5%AC)
+- [`@qkrtkdwns3410` / \[알고리즘 1068\] 트리](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1068-%ED%8A%B8%EB%A6%AC)
 
 <!-- END: velog.io java -->
 
@@ -155,13 +159,37 @@ tag:
 
 <!-- END: until.blog -->
 
-### 동팡
+### tistory
 
-- [Spring-Legacy to Spring-Boot 마이그레이션(Feat. 외장/내장-Tomcat/JSP/Multiple-Datasource(With-JNDI)/External-Lib)](https://ehdvudee.tistory.com/48)
-
-### 야우미야티
-
-- [Spring boot로 migration하기 전 고려해볼 것들?(+스프링부트 개념정리)](https://suzyalrahala.tistory.com/37)
+- [`ehdvudee`: 동팡](https://ehdvudee.tistory.com/m/)
+  - [Spring-Legacy to Spring-Boot 마이그레이션(Feat. 외장/내장-Tomcat/JSP/Multiple-Datasource(With-JNDI)/External-Lib)](https://ehdvudee.tistory.com/m/48)
+- [`suzyalrahala`: 야우미야티](https://suzyalrahala.tistory.com/m/)
+  - [Spring boot로 migration하기 전 고려해볼 것들?(+스프링부트 개념정리)](https://suzyalrahala.tistory.com/m/37)
+- [`yangbongsoo`: 나만의 인덱스](https://yangbongsoo.tistory.com/m/)
+  - [github action matrix strategy 활용](https://yangbongsoo.tistory.com/m/110)
+- [`niee`: niee](https://niees.tistory.com/m/)
+  - [10. spring security 권한 없는 사용자 접근시 처리 방법](https://niees.tistory.com/m/21)
+- [`ssjeong`: 프뚜](https://ssjeong.tistory.com/m)
+  - [[Spring] Spring boot에서 PostgreSQL 연동하기](https://ssjeong.tistory.com/m/entry/Spring-Spring-boot%EC%97%90%EC%84%9C-PostgreSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+- [`2dongdong`: 즐겁게 살고 싶은 개발자](https://2dongdong.tistory.com/m/)
+  - [Spring JPA  Multiple Databases 설정](https://2dongdong.tistory.com/m/33)
+- [`herojoon-dev`: Herojoon](https://herojoon-dev.tistory.com/m/)
+  - [Spring Boot에서 JPA 사용하기](https://herojoon-dev.tistory.com/m/135)
+- [`sga8`: 내 세상](https://sga8.tistory.com/m/)
+  - [[Java] 현재 시간을 `yyyyMMddHHmmss` `String`으로 추출하는 코드](https://sga8.tistory.com/m/199)
+- [`rnokhs`: 🛵꾸준한 꿈틀꿈틀](https://rnokhs.tistory.com/m/)
+  - [JPA UUID varchar로 저장하기](https://rnokhs.tistory.com/m/entry/JPA-UUID-varchar%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+- [`parkho79`: The world of Parkho](https://parkho79.tistory.com/m/)
+  - [Task (2) - taskAffinity](https://parkho79.tistory.com/m/42)
+- [`developerntraveler`: 개발여행의 블로그](https://developerntraveler.tistory.com/m/)
+  - [오라클 버전과 JDBC 버전(JDK버전 확인) / What are the Oracle JDBC releases Vs JDK versions?](https://developerntraveler.tistory.com/m/3)
+- [`rachel0115`: 기억의 정류장](https://rachel0115.tistory.com/m/)
+  - [intelliJ, Gradle 환경에서 JavaFX 사용하기](https://rachel0115.tistory.com/m/entry/intelliJ-Gradle-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-JavaFX-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`shout-to-my-mae`: star collector](https://shout-to-my-mae.tistory.com/m/)
+  - [Java와 객체 지향 : OOP 4대 특성](https://shout-to-my-mae.tistory.com/m/412)
+  - [[Test] `static` 블록 vs `@BeforeClass`](https://shout-to-my-mae.tistory.com/413)
+  - [Java가 확장한 객체 지향 (`abstract`, 생성자, `static`, `final`, `this`, `super`)](https://shout-to-my-mae.tistory.com/414)
+  - [스프링 삼각형 : IoC(제어의 역전) / DI(의존성 주입)](https://shout-to-my-mae.tistory.com/425)
 
 ### EastGlow
 
@@ -196,14 +224,6 @@ tag:
 
 - [Appium With Cucumber: Using Them Together](https://www.waldo.com/blog/using-appium-cucumber)
 
-### 나만의 인덱스
-
-- [github action matrix strategy 활용](https://yangbongsoo.tistory.com/110)
-
-### niee
-
-- [10. spring security 권한 없는 사용자 접근시 처리 방법](https://niees.tistory.com/21)
-
 ### Incheol's TECH BLOG
 
 - [CHAP 16. 스프링 부트 액추에이터 사용하기](https://incheol-jung.gitbook.io/docs/study/srping-in-action-5th/chap-16.)
@@ -224,42 +244,20 @@ tag:
 - [Concurrent Data Structure Design Walkthrough](https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough)
 - [The Billion Row Challenge (1BRC) - Step-by-step from 71s to 1.7s](https://questdb.io/blog/billion-row-challenge-step-by-step/)
 
-### 프뚜
-
-- [[Spring] Spring boot에서 PostgreSQL 연동하기](https://ssjeong.tistory.com/m/entry/Spring-Spring-boot%EC%97%90%EC%84%9C-PostgreSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
-
-### 즐겁게 살고 싶은 개발자
-
-- [Spring JPA  Multiple Databases 설정](https://2dongdong.tistory.com/33)
-
 ### 밥줄과 취미 사이 ːː 못 먹어도 고!
 
 - [`log4j-slf4j-impl` cannot be present with `log4j-to-slf4j` 에러](https://dejavuhyo.github.io/posts/log4j-to-slf4j-error)
-
-### Herojoon
-
-- [Spring Boot에서 JPA 사용하기](https://herojoon-dev.tistory.com/135)
-
-### 내 세상
-
-- [[Java] 현재 시간을 yyyyMMddHHmmss String으로 추출하는 코드](https://sga8.tistory.com/199)
 
 ### JH Blog
 
 - [JPA 에서 UUID 삽질기록](https://jehuipark.github.io/java/my-sql-binary-reference)
 
-### 🛵꾸준한 꿈틀꿈틀
-
-- [JPA UUID varchar로 저장하기](https://rnokhs.tistory.com/m/entry/JPA-UUID-varchar%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
-
 ### Misc
 
-- [Task (2) - taskAffinity](https://parkho79.tistory.com/42)
 - [The 2023 Java Developer RoadMap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html)
 - [Java 8 `java.util.function.Function` Tutorial with Examples](https://www.javabrahman.com/java-8/java-8-java-util-function-function-tutorial-with-examples)
 - [Java NIO `FileChannel` 과 `DirectByteBuffer`](https://homoefficio.github.io/2020/08/10/Java-NIO-FileChannel-%EA%B3%BC-DirectByteBuffer)
 - [싱글톤 패턴이 필요한 이유와 실제 서비스에 적용까지](https://injae-kim.github.io/dev/2020/08/06/singleton-pattern-usage.html)
-- [오라클 버전과 JDBC 버전(JDK버전 확인) / What are the Oracle JDBC releases Vs JDK versions?](https://developerntraveler.tistory.com/3)
 - [Unit Testing is Overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
 - [AXIS Apache XML WebService](https://m.blog.naver.com/nova750/70003702622)
 
@@ -270,17 +268,6 @@ tag:
 ### Laurence Tratt
 
 - [Parsing: The Solved Problem That Isn't](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
-
-### 기억의 정류장
-
-- [intelliJ, Gradle 환경에서 JavaFX 사용하기](https://rachel0115.tistory.com/m/entry/intelliJ-Gradle-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-JavaFX-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
-
-### star collector
-
-- [Java와 객체 지향 : OOP 4대 특성](https://shout-to-my-mae.tistory.com/412)
-- [[Test] `static` 블록 vs `@BeforeClass`](https://shout-to-my-mae.tistory.com/413)
-- [Java가 확장한 객체 지향 (`abstract`, 생성자, `static`, `final`, `this`, `super`)](https://shout-to-my-mae.tistory.com/414)
-- [스프링 삼각형 : IoC(제어의 역전) / DI(의존성 주입)](https://shout-to-my-mae.tistory.com/425)
 
 ### 컴공생의 발자취
 
@@ -597,6 +584,8 @@ tag:
 - [\[프로그래머스\] 두 개 뽑아서 더하기 - java](https://findsilverlining.tistory.com/m/104)
 - [\[프로그래머스\] 모의고사 - java](https://findsilverlining.tistory.com/m/105)
 - [\[프로그래머스\] 올바른 괄호 - java](https://findsilverlining.tistory.com/m/106)
+- [\[프로그래머스\] 괄호 회전하기 - java](https://findsilverlining.tistory.com/m/107)
+- [\[프로그래머스\] 짝지어 제거하기 - java](https://findsilverlining.tistory.com/m/108)
 
 <!-- END: findsilverlining.tistory.com -->
 

@@ -87,6 +87,10 @@ head:
 - [`@2rV` / 앤드류 응이 제안하는 AI 제품 개발 방식](https://brunch.co.kr/@@2rV/156)
 - [`@2rV` / 구글의 character.ai 창업자 영입 의미는?](https://brunch.co.kr/@@2rV/157)
 - [`@ZVA` / 보스와 직원이 AI발 생산성을 다르게 보는 까닭은](https://brunch.co.kr/@@ZVA/712)
+- [`@2YWz` / 글로벌 AI 인재 육성: 맞춤형 취업 준비 프로그램](https://brunch.co.kr/@@2YWz/117)
+- [`@2YWz` / AI시대, 데이터베이스 분야의 최신 전망](https://brunch.co.kr/@@2YWz/118)
+- [`@2rV` / 생성형 AI와 창의성 - 단편 소설 쓰기에서의 대규모 실증 연구 분석](https://brunch.co.kr/@@2rV/159)
+- [`@2weV` / AI, 그리고 서비스 스타트업](https://brunch.co.kr/@@2weV/537)
 
 <!-- END: brunch.co.kr -->
 

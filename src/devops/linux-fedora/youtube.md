@@ -32,5 +32,6 @@ tag:
 <MyYouTubeItems jsonName="yu-KeepItTechie" /><!-- KeepItTechie -->
 <MyYouTubeItems jsonName="yu-TitusTechTalk" /><!-- Titus Tech Talk -->
 <MyYouTubeItems jsonName="yu-teksyndicate" /><!-- Tek Syndicate -->
+<MyYouTubeItems jsonName="yu-SavvyNik" /><!-- SavvyNik -->
 
 <TagLinks />

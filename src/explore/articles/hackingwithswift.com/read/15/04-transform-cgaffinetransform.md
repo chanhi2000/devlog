@@ -162,7 +162,7 @@ UIView.animate(withDuration: 1, delay: 0, options: [],
 UIView.animate(withDuration: 1, delay: 0, usingSpringWithDamping: 0.5, initialSpringVelocity: 5, options: [],
 ```
 
-This changes the `animate(withDuration:)` so that it uses spring animations rather than the default, ease-in-ease-out animation. I'm not even going to tell you what this does because I'm sure you're going to be impressed – press Cmd+R to run the app and tap the button for yourself. We're done!
+This changes the `animate(withDuration:)` so that it uses spring animations rather than the default, ease-in-ease-out animation. I'm not even going to tell you what this does because I'm sure you're going to be impressed – press <kbd>Cmd</kbd>+<kbd>R</kbd> to run the app and tap the button for yourself. We're done!
 
 ---
 

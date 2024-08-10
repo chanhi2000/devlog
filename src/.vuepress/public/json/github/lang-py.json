@@ -7412,5 +7412,19 @@
     "topics": ["cogvideox", "llm", "sora", "video-generation"],
     "avatar": "https://avatars.githubusercontent.com/u/48590610?v=4",
     "banner": ""
+  }, {
+    "repo": "evilsocket/opensnitch",
+    "desc": "OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.",
+    "officialSite": "",
+    "topics": ["application-firewall", "data-breach", "firewall", "linux", "networking", "security"],
+    "avatar": "https://avatars.githubusercontent.com/u/86922?v=4",
+    "banner": ""
+  }, {
+    "repo": "Dicklesworthstone/llm_aided_ocr",
+    "desc": "Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.",
+    "officialSite": "",
+    "topics": ["ai-assist", "hallucinations", "llama2", "llm", "ocr", "tesseract"],
+    "avatar": "https://avatars.githubusercontent.com/u/35050222?v=4",
+    "banner": ""
   }
 ]

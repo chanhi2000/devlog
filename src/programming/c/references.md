@@ -418,8 +418,9 @@ tag:
 - [\[Do it! C언어 입문\] 7.1장 추가 실습 예제](https://m.blog.naver.com/tipsware/223534564172)
 - [\[Do it! C언어 입문\] 7.2장 추가 실습 예제](https://m.blog.naver.com/tipsware/223535315695)
 - [\[Do it! C언어 입문\] 9장 추가 실습 예제](https://m.blog.naver.com/tipsware/223537649707)
+- [\[Do it! C언어 입문\] 16장 추가 실습 예제](https://m.blog.naver.com/tipsware/223542756013)
 
-<!-- END: tipsware -->
+<!-- END: tipsware.blog.naver.com -->
 ---
 
 ## Max Bernstein

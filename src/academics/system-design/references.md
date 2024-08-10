@@ -303,6 +303,7 @@ head:
 
 - [틴더(Tinder) 시스템 디자인](https://hides.tistory.com/1145)
 - [Rate Limiter 시스템 디자인](https://hides.tistory.com/m/1152)
+- [토스 SLASH 22 - 토스뱅크의 완전히 새로운 대출 시스템 정리](https://hides.tistory.com/m/1153)
 
 ---
 

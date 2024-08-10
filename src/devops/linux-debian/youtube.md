@@ -142,5 +142,6 @@ tag:
 <MyYouTubeItems jsonName="yu-teksyndicate" /><!-- Tek Syndicate -->
 <MyYouTubeItems jsonName="yu-michael_tunnell" /><!-- Michael Tunnell -->
 <MyYouTubeItems jsonName="yu-TechHut" /><!-- TechHut -->
+<MyYouTubeItems jsonName="yu-SavvyNik" /><!-- SavvyNik -->
 
 <TagLinks />

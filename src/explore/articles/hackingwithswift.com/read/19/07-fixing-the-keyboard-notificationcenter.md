@@ -55,7 +55,7 @@ isOriginal: false
 
 Before we're done, there's a bug in our extension, and it's a bad one – or at least it's bad once you spot it. You see, when you tap to edit a text view, the iOS keyboard automatically appears so that user can start typing. But if you try typing lots, you'll notice that you can actually type underneath the keyboard because the text view hasn't adjusted its size because the keyboard appeared.
 
-If you don't see a keyboard when you tap to edit, it probably means you have the Connect Hardware Keyboard setting turned on. Press Shift+Cmd+K to disable the hardware keyboard and use the on-screen one.
+If you don't see a keyboard when you tap to edit, it probably means you have the Connect Hardware Keyboard setting turned on. Press <kbd>Shift</kbd>+<kbd>Cmd</kbd>+<kbd>K</kbd> to disable the hardware keyboard and use the on-screen one.
 
 Having our view adjust to the presence of a keyboard is tricky, because there are a number of situations you need to cope with. For example, various keyboards are different heights, the user can rotate their device at will, they can connect a hardware keyboard when they need to, and there's even the QuickType bar that can be shown or hidden on demand.
 

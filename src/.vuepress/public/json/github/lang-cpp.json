@@ -358,10 +358,10 @@
     "banner": ""
   }, {
     "repo": "cocos/cocos-engine",
-    "desc": "Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited from the legacy Cocos2d-x with a redesigned modern architecture. To run this engine, please download Cocos Creator.",
+    "desc": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
     "officialSite": "https://www.cocos.com/en/creator",
-    "topics": ["open-source", "gamedev", "metal", "game-engine", "engine", "vulkan", "game-development", "cocos2d", "mit-license", "cocoscreator", "cocos"],
-    "avatar": "",
+    "topics": ["3d", "cocos", "cocoscreator", "engine", "game-development", "game-engine", "gamedev", "metal", "mit-license", "open-source", "vulkan", "webgl", "webgl2", "webgpu"],
+    "avatar": "https://avatars.githubusercontent.com/u/6937061?v=4",
     "banner": ""
   }, {
     "repo": "dalathegreat/BYD-Battery-Emulator-For-Gen24",

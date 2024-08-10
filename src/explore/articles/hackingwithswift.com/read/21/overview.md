@@ -58,7 +58,45 @@ Send reminders, prompts and alerts even when your app isn't running.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/21/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scheduling notifications: UNUserNotificationCenter and UNNotificationRequest | Hacking with iOS",
+  "desc": "Scheduling notifications: UNUserNotificationCenter and UNNotificationRequest",
+  "link": "/explore/articles/hackingwithswift.com/read/21/02-scheduling-notifications-unusernotificationcenter-and-unnotificationrequest.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Acting on responses | Hacking with iOS",
+  "desc": "Acting on responses",
+  "link": "/explore/articles/hackingwithswift.com/read/21/03-acting-on-responses.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/21/04-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

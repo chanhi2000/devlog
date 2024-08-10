@@ -74,8 +74,6 @@ Anyone can sit through a tutorial, but it takes actual work to remember what was
 }
 ```
 
-<a href="/review/hws/project-14-whack-a-penguin">Click here to review what you learned in project 14</a>.
-
 ---
 
 ## Challenge

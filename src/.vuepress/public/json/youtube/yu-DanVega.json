@@ -6,6 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/YZszOyMVJh2dRmktetnCGJVHMf5QTTvjZFn9GOmsw_SYRhhruhSa37Ah3jN0KDZnURZa4rO1I0k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-ChpDCIjyh0", "title": "Spring Boot Rest Client Testing with @RestClientTest Issue & Work-around" },
+    { "id": "6_6AIzxPXvQ", "title": "How to add Tailwind CSS to your Spring Boot Application" },
+    { "id": "ZpBayFcvtdM", "title": "Spring Security Custom Login Form (Using Tailwind CSS)" },
+    { "id": "Di4XaajLNNk", "title": "Spring Framework 6.2 Supports Rendering Multiple Fragments" },
+    { "id": "KNK9FJujm48", "title": "An overview of the clients available in Spring Boot" },
+    { "id": "cjL0n1NApRA", "title": "Getting started with HTMX in Spring Boot with Thymeleaf" },
+    { "id": "De9a-TaJImI", "title": "What's new in Spring AI 1.0.0 M1" },
+    { "id": "jJ63tedBAzI", "title": "Building a ChatGPT Clone in Java with HTMX, Spring Boot, and Spring AI" },
+    { "id": "4-rG2qsTrAs", "title": "Getting started with (Retrieval Augmented Generation) RAG in Java & Spring AI" },
+    { "id": "ZoPVGrB8iHU", "title": "Building a Spring Boot Reference Documentation Assistant with Spring AI & GPT-4" },
+    { "id": "n7IvE1VSbvI", "title": "Spring AI Functions - How to register custom Java functions with the Chat Client" },
+    { "id": "EDJLHWcFvpQ", "title": "Getting Started with GPT-4o in Java" },
+    { "id": "y90CkHvDGls", "title": "Getting Started with GPT-4o in Spring AI with Chat and Vision Capabilities" },
+    { "id": "TL3cko6YkgU", "title": "Spring AI - Bring your own data by Stuffing the Prompt" },
     { "id": "PbkROQPTBao", "title": "5 Common Mistakes Spring Developers Make" },
     { "id": "aR580OCEp7w", "title": "Spring MVC Http Interfaces - How to Create a Rest Client with almost no code!" },
     { "id": "lGAYLVk5HaY", "title": "Java is slow and verbose (or so they say)" },
@@ -57,5 +71,8 @@
     { "id": "UgX5lgv4uVM", "title": "Spring Boot Tutorial for Beginners - 2023 Crash Course using Spring Boot 3"  }, 
     { "id": "PczgM2L3w60", "title": "Advanced Spring Security - How to create multiple Spring Security Configurations"  }, 
     { "id": "CWEQ-1vff1o", "title": "Spring Beans Showdown: Unraveling the Mystery of @Component vs @Bean!" }
+  ],
+  "playlists": [
+
   ]
 }

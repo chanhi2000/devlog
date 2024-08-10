@@ -3497,5 +3497,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/23139898?v=4",
     "banner": ""
+  }, {
+    "repo": "WeeJeWel/node-google-backup",
+    "desc": "A Command-Line Utility to automatically backup Google Mail, Calendar & Contacts to local files.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/319873?v=4",
+    "banner": ""
   }
 ]

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/2l1QxRVzLpg2h1iEYFyXqzXOq8ZI32Uv5IG2ruvskbgwEjZOKVBm-4iO1JDG2eRDnFC5KCLo=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iFEVef5XdMI", "title": "Build a Django Rest API and Integrate with Next.js! Django Ninja, shadcn, Neon Postgres, Railway..." },
+    { "id": "kykDfDtp7Wg", "title": "Django Tutorial: Run Multi-Node Django for Time Series Data with TimescaleDB, Celery and more." },
+    { "id": "WbNNESIxJnY", "title": "Python Tutorial: Build a SaaS App with Django, Stripe, Neon PostgreSQL, TailwindCSS, GitHub Actions" },
+    { "id": "ITOZkzjtjUA", "title": "Build Full Stack Web Apps in Pure Python with Reflex - No Javascript Required" },
+    { "id": "Rol2SR11oZU", "title": "Chat with PDFs on Slack with LLMs! Using Django, Celery, Upstash, LlamaIndex, OpenAI and more." },
     { "id": "zogTcEZb8Wk", "title": "How I create new Redis instances with Docker Compose #redis  #database #docker" },
     { "id": "vms6yy7KYKA", "title": "How I create new Postgres for each new project. #postgresql #docker #database" },
     { "id": "S3ok3_4swZY", "title": "LLMs Locally with Llama2 and Ollama and OpenAI Python" },
@@ -22,6 +27,9 @@
     { "id": "qx9nshX9CQQ", "title": "Micro eCommerce with Python, Django, Neon Serverless Postgres, Stripe, TailwindCSS and more" }, 
     { "id": "NAOsLaB6Lfc", "title": "Deploy Django into Production with Kubernetes, Docker, & Github Actions. Complete Tutorial Series" }, 
     { "id": "PmZ29Vta7Vc", "title": "OpenCV Python TUTORIAL #4 for Face Recognition and Identification" }
+  ],
+  "playlists": [
+
   ]
 }
 

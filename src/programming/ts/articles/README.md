@@ -79,6 +79,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn TypeScript – A Comprehensive Guide for Beginners",
+  "desc": "TypeScript has become an industry standard for building large-scale applications, with many organizations choosing it as their primary language for application development. This tutorial will serve as your introductory guide to TypeScript. It's designed to cater to learners at all stages – from beginners to advanced users. It teaches both...",
+  "link": "/explore/articles/freecodecamp.org/typescript-for-beginners-guide.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

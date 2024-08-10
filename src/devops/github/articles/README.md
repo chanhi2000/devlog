@@ -128,6 +128,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Host Your Project on GitHub – Explained With Examples",
+  "desc": "Seven years ago, I began my journey into web development with HTML and CSS. As soon as I got the hang of JavaScript, I built my first website. The excitement was overwhelming, and I wanted to share it with my friends and the world. Like many beginners, I started researching...",
+  "link": "/explore/articles/frontendmasters.com/host-your-first-project-on-github.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

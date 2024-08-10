@@ -30,6 +30,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("sh"),
             asb.smashingmagazion("sh"),
             asb.tecmint("sh"),
+            asb.onceupon("sh"),
             asb.yozm("sh"),
             asb.devkuma("sh"),
             asb.nhn("sh"),
@@ -792,6 +793,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py-numpy/articles/README.md',
+            asb.freecodecamp("py-numpy"),
           ]
         },
       ]

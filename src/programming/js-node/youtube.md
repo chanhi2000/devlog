@@ -146,7 +146,6 @@ head:
 <MyYouTubeItems jsonName="yu-TimErmilov" /><!-- Tim Ermilov -->
 <MyYouTubeItems jsonName="yu-LearnProgrammingTogether" /><!-- Learn Programming Together -->
 <MyYouTubeItems jsonName="yu-gis" /><!-- Основы программирования для географов -->
-<MyYouTubeItems jsonName="yu-danielbark" /><!-- Daniel Bark -->
 <MyYouTubeItems jsonName="yu-dannytwlc3666" /><!-- Danny TWLC -->
 <MyYouTubeItems jsonName="yu-bostonreact9402" /><!-- Boston React -->
 <MyYouTubeItems jsonName="yu-mraible" /><!-- Matt Raible -->
@@ -216,5 +215,6 @@ head:
 <MyYouTubeItems jsonName="yu-JsKIM_0_0" /><!-- 김종상 -->
 <MyYouTubeItems jsonName="yu-TimCarambat" /><!-- Tim Carambat -->
 <MyYouTubeItems jsonName="yu-effect-ts" /><!-- Effect | TypeScript at Scale -->
+<MyYouTubeItems jsonName="yu-NizzyABI" /><!-- Nizzy -->
 
 <TagLinks />

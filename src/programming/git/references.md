@@ -8,7 +8,6 @@ category:
   - References
 tag: 
   - git
-  - github
   - git-cli
 head:
   - - meta:

@@ -50,5 +50,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Bogdan_Stashchuk" /><!-- Bogdan Stashchuk -->
 <MyYouTubeItems jsonName="yu-Algolia" /><!-- Algolia -->
 <MyYouTubeItems jsonName="yu-academind" /><!-- Academind -->
+<MyYouTubeItems jsonName="yu-bonieky" /><!-- Bonieky Lacerda -->
 
 <TagLinks />

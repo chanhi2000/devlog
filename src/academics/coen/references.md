@@ -49,4 +49,12 @@ head:
 
 ---
 
+## tistory
+
+- [`lazymatlab`: 게으른맽랩 lazy matlab](https://lazymatlab.tistory.com/m/)
+  - [\[혼공컴운\] 4장. CPU의 작동 원리](https://lazymatlab.tistory.com/m/261)
+  - [\[혼공컴운\] 5장. CPU의 성능 향상 기법](https://lazymatlab.tistory.com/m/262)
+
+---
+
 <TagLinks />

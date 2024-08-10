@@ -26,4 +26,10 @@ head:
 
 ---
 
+## SW Developer
+
+- [\[Spark\] PySpark 설정과 주요기능](https://wonyong-jang.github.io/spark/2024/08/08/Spark-PySpark.html)
+
+---
+
 <TagLinks />

@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "codingambitions",
+    "name": "Coding Ambitions",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_ky0gg0qpw4vZjQ5UgCemU9gGRV1kUvlYp3h75Rvt7FeA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/m0kYpxVM2J1MNYYuAmTx2AcV3AVhcUpU33BzKVMB8IH0Dqe9V8aw4Qtz_WIWaqgl0gEgmfsHmA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wouRs5mcSE0", "title": "Share ViewModel in Compose Multi Platform Using Official Compose ViewModel | KMP ViewModel" },
+    { "id": "9eIB_Ahhxx8", "title": "How to use Room Database in Compose Multiplatform | Room DB Kotlin Multiplatform | Room DB for KMP" },
+    { "id": "vnHAT95p0JA", "title": "How To Share Resources In Compose Multiplatform | KMP Images, Fonts, Files & Multi Language Strings" },
+    { "id": "vTQDpb5LpME", "title": "Android Instagram Social Media App Feed UI  | Jetpack Compose  Constraint Layout Tutorial" },
+    { "id": "wouRs5mcSE0", "title": "Share ViewModel in Compose Multi Platform Using Official Compose ViewModel | KMP ViewModel" },
+    { "id": "9eIB_Ahhxx8", "title": "How to use Room Database in Compose Multiplatform | Room DB Kotlin Multiplatform | Room DB for KMP" },
+    { "id": "vnHAT95p0JA", "title": "How To Share Resources In Compose Multiplatform | KMP Images, Fonts, Files & Multi Language Strings" },
+    { "id": "vTQDpb5LpME", "title": "Android Instagram Social Media App Feed UI  | Jetpack Compose  Constraint Layout Tutorial" },
+    { "id": "atnHqTngrMA", "title": "Jetpack Compose Shared Bounds Transition | Button To Menu Transition | Jetpack Compose Animations" },
+    { "id": "a4lnni-N3Ko", "title": "ListDetailPane & SupportingPane Scaffold in Jetpack Compose | Auto Adaptive UI | Material 3 Adaptive" },
+    { "id": "w4bIYCrW_mM", "title": "Navigation In Compose Multi Platform Using Official Navigation Compose Library | KMP Navigation" },
+    { "id": "HEN8tQk3HnM", "title": "How To Use Shared Element Transitions in Jetpack Compose | Customize Animation in Shared Elements" },
+    { "id": "OdAjnzU9fnM", "title": "Firebase Authentication in Compose Multiplatform for Android, iOS & Web | Firebase Login - KMP" }
+  ],
+  "playlists": [
+
+  ]
+}

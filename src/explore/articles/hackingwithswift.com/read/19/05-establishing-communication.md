@@ -77,15 +77,15 @@ print(javaScriptValues)
 
 Before I explain what that code does, please run the code. I'm saying this because if you're like me then you're probably desperate to see anything working at this point, so let's at least make sure things are working. When you press Run, wait for the list of host applications to finish loading, then select Safari and click Run.
 
-![](https://hackingwithswift.com19-5.png" srcset="/img/books/hws/19-5@2x.png)Xcode will ask you which app you should run with your extension. Please choose Safari.
+![](https://hackingwithswift.com19-5https://hackingwithswift.com/img/books/hws/19-5@2x.png)Xcode will ask you which app you should run with your extension. Please choose Safari.
 
 When Safari loads, go to any web page, then tap the action toolbar button on the bottom – it's the box with an arrow coming out. You'll see two rows of icons: swipe to the right on the bottom row. If your extension isn't listed, click More and enable it there. Don't be surprised if you see strange messages being printed out in the Xcode debug console while you're doing this, because Apple sometimes likes to spout unhelpful warnings in their own code.
 
 In the picture below you can see where your extension's icon should appear inside Safari's action menu. If you don't see it there, tap More.
 
-![](https://hackingwithswift.com19-2.png" srcset="/img/books/hws/19-2@2x.png)Look for your extension inside Safari's action menu.
+![](https://hackingwithswift.com19-2https://hackingwithswift.com/img/books/hws/19-2@2x.png)Look for your extension inside Safari's action menu.
 
-When your app runs, you should see messages in the console at the bottom of your Xcode window. If the console isn't visible, use Shift+Cmd+C to activate it, and you should see something like this:
+When your app runs, you should see messages in the console at the bottom of your Xcode window. If the console isn't visible, use <kbd>Shift</kbd>+<kbd>Cmd</kbd>+<kbd>C</kbd> to activate it, and you should see something like this:
 
 ```swift
 {

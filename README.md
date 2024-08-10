@@ -1,6 +1,6 @@
 # chanhi2000.github.io
 
-> Vuepress-based Chan's Personal Devlog
+![Vuepress-based Chan's Personal Devlog](src/.vuepress/public/images/code-monkey.gif)
 
 ![shield-proj-v][shield-proj-v]
 ![shield-license-gpl][shield-license-gpl]
@@ -12,21 +12,23 @@
 
 ## 🚀Quickstart
 
-### Build
+> [!TIP]
+> ### Build
+> 
+> run the following command
+>
+> ```sh
+> npm run dev
+> ```
 
-run the following command
-
-```sh
-npm run dev
-```
-
-### Deploy
-
-run the following command
-
-```sh
-npm run build
-```
+> [!TIP]
+> ### Deploy
+> 
+> run the following command
+> 
+> ```sh
+> npm run build
+> ```
 
 [shield-proj-v]: https://img.shields.io/github/package-json/v/chanhi2000/devlog?style=flat-square
 [shield-license-gpl]: https://img.shields.io/aur/license/node?style=flat-square

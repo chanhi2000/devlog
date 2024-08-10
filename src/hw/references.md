@@ -108,6 +108,9 @@ head:
 - [STM32H7S-SoM(가칭) 1차 제작 예정](https://m.blog.naver.com/chandong83/223522436199)
 - [STM32G4-2Relay 하드웨어 통합 구동 예제 코드 추가](https://m.blog.naver.com/chandong83/223529372732)
 - [\[월간 HG Labs\] 7월 세미나 "FreeRTOS, TouchGFX와 연동하기" 간단 후기](https://m.blog.naver.com/chandong83/223529362456)
+- [ESP32-S3-ETHCAN485 보드의 확장 보드 시리즈 - No1. 3채널 릴레 보드 출시 예정](https://m.blog.naver.com/chandong83/223540789136)
+- [A3 인쇄 가능한 저렴한 프린터를 구입하다. - 캐논 ix6770](https://m.blog.naver.com/chandong83/223540804598)
+- [\[월간 HG Labs\] 8월 세미나 "STM32 TouchGFX와 FreeRTOS, SD카드 활용하기"](https://m.blog.naver.com/chandong83/223542099449)
 
 <!-- END: m.blog.naver.com/chandong83 -->
 

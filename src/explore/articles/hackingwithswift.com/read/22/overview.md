@@ -58,7 +58,45 @@ Learn to find and range iBeacons using our first project for a physical device.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/22/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Requesting location: Core Location | Hacking with iOS",
+  "desc": "Requesting location: Core Location",
+  "link": "/explore/articles/hackingwithswift.com/read/22/02-requesting-location-core-location.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Hunting the beacon: CLBeaconRegion | Hacking with iOS",
+  "desc": "Hunting the beacon: CLBeaconRegion",
+  "link": "/explore/articles/hackingwithswift.com/read/22/03-hunting-the-beacon-clbeaconregion.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/22/04-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

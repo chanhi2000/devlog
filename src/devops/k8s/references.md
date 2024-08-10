@@ -254,6 +254,7 @@ head:
 ## Zerohertz
 
 - [CKA (Certified Kubernetes Administrator)](https://zerohertz.github.io/cka/)
+- [Setting Up Kubernetes v1.30.3](https://zerohertz.github.io/k8s-v1-30/)
 
 ---
 

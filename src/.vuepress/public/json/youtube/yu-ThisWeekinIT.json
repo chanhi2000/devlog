@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "ThisWeekinIT",
+    "name": "This Week in IT",
+    "profile": "https://yt3.googleusercontent.com/HWKQaT07pNMgKWC3OTdd-Xr-5TZZK6P-cvfjEqK1LHWLND8RrkqKLfRNCEVegFxN-VImL1PS=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-fZ6TYOP5xzz3v0kYyOR7nw790rzaNr7h8zIRWgihAHSuB_D2qwSs9lvW6TGEDRyWJnsTCvCqg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7K3aBUjP4P0", "title": "Unlock the Power: New Microsoft Entra PowerShell Module for Legacy Azure AD" },
+    { "id": "FNARCt9-0W4", "title": "CrowdStrike Postmortem - Is the EU to Blame?" },
+    { "id": "AAYwhVXOXwk", "title": "Unlocking New Possibilities: Microsoft’s VCF License Mobility Unveiled!" },
+    { "id": "lN1krAbpQE4", "title": "Microsoft Copilot+ vs. Apple Intelligence - Privacy & Performance Showdown" },
+    { "id": "N-2tM0_UGDo", "title": "OneDrive and Dropbox Leave Google Behind with New Offline and Collaboration Features" },
+    { "id": "LH8EfQQM5OY", "title": "Microsoft Announces Big Changes for On-Premises Exchange Server" },
+    { "id": "Qah6TngmLnk", "title": "Revolutionize Teamwork: Discover Microsoft’s NEW App for Hybrid Teams!" },
+    { "id": "b3YQVEPm0KQ", "title": "NEW A.I. Features in Microsoft Teams and Edge Explained (April 2024)" }
+  ],
+  "playlists": [
+
+  ]
+}

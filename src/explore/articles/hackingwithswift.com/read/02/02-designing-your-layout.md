@@ -91,7 +91,7 @@ That's the first flag complete, so before we go any further let's bring it to li
 
 In Project 1, we added images to a project just by dragging a folder called Content into our Xcode project. That's perfectly fine and you're welcome to continue doing that for your other projects, but I want to introduce you to another option called *asset catalogs*. These are highly optimized ways of importing and using images in iOS projects, and are just as easy to use as a content folder.
 
-In your Xcode project, select the file called Assets.xcassets. This isn't really a file, instead it's our default Xcode asset catalog. If you haven't already downloaded the files for this project, please do so now from [GitHub (<FontIcon icon="iconfont icon-github"/>`twostraws/HackingWithSwift`)](https://github.com/twostraws/HackingWithSwift).
+In your Xcode project, select the file called <FontIcon icon="iconfont icon-xcode"/>`Assets.xcassets`. This isn't really a file, instead it's our default Xcode asset catalog. If you haven't already downloaded the files for this project, please do so now from [GitHub (<FontIcon icon="iconfont icon-github"/>`twostraws/HackingWithSwift`)](https://github.com/twostraws/HackingWithSwift).
 
 Select all 24 flag pictures from the project files, and drag them into the Xcode window to beneath where it says "AppIcon" in our asset catalog. This will create 12 new entries in the asset catalog, one for each country.
 

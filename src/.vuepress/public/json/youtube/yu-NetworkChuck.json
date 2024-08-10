@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/6TsuYML3OSXSVVFkRGfPfq1qhEiG0tkKj-UV6XPfifmDDAuV8QTF4wna5maptTBMhikcjaAWcg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vxTW22y8zV8", "title": "Linux on Windows......Windows on Linux" },
+    { "id": "jJrnJ9rj6fs", "title": "the FrankeNAS - (Raspberry Pi, Zima Board, Dell Server, Ugreen) // a CEPH Tutorial" },
+    { "id": "UbDyjIIGaxQ", "title": "You've been using AI Wrong" },
+    { "id": "AaseHnf0k2o", "title": "RetroPie: A Raspberry Pi Gaming Machine" },
+    { "id": "spoZ2zKnK88", "title": "well...this is embarrassing" },
+    { "id": "Wjrdr0NU4Sk", "title": "host ALL your AI locally" },
+    { "id": "-2yzXSIuC8o", "title": "monitor all your stuff RIGHT NOW!!" },
+    { "id": "aMzdeZ8vGXQ", "title": "I use this everyday" },
+    { "id": "EXfFBEuCAr0", "title": "you STILL need a website RIGHT NOW!! (yes, even in 2024)" },
     { "id": "WxYC9-hBM_g", "title": "Run your own AI (but private)" },
     { "id": "gL4j-a-g9pA", "title": "60 Hacking Commands You NEED to Know" },
     { "id": "LCPZygnoyLo", "title": "Top 10 Study Habits 2024" },
@@ -42,7 +51,8 @@
     { "id": "gd7BXuUQ91w", "title": "60 Linux Commands you NEED to know (in 10 minutes)" },
     { "id": "prVHU1fLR20", "title": "30 Windows Commands you CAN’T live without" },
     { "id": "Jfvg3CS1X3A", "title": "40 Windows Commands you NEED to know (in 10 Minutes)" }
+  ],
+  "playlists": [
+
   ]
 }
-
-

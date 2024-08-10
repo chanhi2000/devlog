@@ -424,12 +424,9 @@ head:
 - [`nchoosek`, `string`, `unique`를 이용한 경우의 수 문제 풀이](https://lazymatlab.tistory.com/m/250)
 - [수학귀신에 나온 내용들](https://lazymatlab.tistory.com/m/260)
 - [2변수 함수의 극값의 2계도함수 판정법에 대해](https://lazymatlab.tistory.com/m/259)
-- [\[혼공컴운\] 4장. CPU의 작동 원리](https://lazymatlab.tistory.com/m/261)
-<!-- TODO: coen으로 이동 -->
-- [\[혼공컴운\] 5장. CPU의 성능 향상 기법](https://lazymatlab.tistory.com/m/262)
-<!-- TODO: coen으로 이동 -->
 - [왜 gradient가 가장 가파른 방향일까?](https://lazymatlab.tistory.com/m/264)
 - [수학 위시리스트](https://lazymatlab.tistory.com/m/270)
+- [Every vector space has a basis.](https://lazymatlab.tistory.com/m/282)
 
 ---
 

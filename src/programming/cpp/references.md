@@ -229,9 +229,9 @@ head:
 - [원형으로 표시되는 Stopwatch 만들기 - Step 1](https://m.blog.naver.com/tipsware/223538516772)
 - [\[LabX/실습과제\] Stopwatch 기능 업그레이드하기](https://m.blog.naver.com/tipsware/223539612852)
 - [기존 Stopwatch 예제를 LxMFC 버전으로 변경](https://m.blog.naver.com/tipsware/223540504396)
+- [VS2022 원격 디버거 설치 파일 받기 (Remote Debugger)](https://m.blog.naver.com/tipsware/223542614227)
 
-
-<!-- END: blog.naver.com/tipsware/ -->
+<!-- END: tipsware.blog.naver.com -->
 
 ---
 

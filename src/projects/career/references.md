@@ -147,6 +147,7 @@ tag:
 - [`@invidam` / 첫 번째 직장에 오기까지](https://velog.io/@invidam/before-first-jbo)
 - [`@wjsdj2009` / 비전공자 백엔드 취업 성공! 준비기간 1년 6개월! 과정부터 결과까지 싹 다 공개!](https://velog.io/@wjsdj2009/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%84%B1%EA%B3%B5-%EC%A4%80%EB%B9%84%EA%B8%B0%EA%B0%84-1%EB%85%84-6%EA%B0%9C%EC%9B%94-%EA%B3%BC%EC%A0%95%EB%B6%80%ED%84%B0-%EA%B2%B0%EA%B3%BC%EA%B9%8C%EC%A7%80-%EC%8B%B9-%EB%8B%A4-%EA%B3%B5%EA%B0%9C)
 - [`@composite` / SI는 말이야.](https://velog.io/@composite/SI%EB%8A%94-%EB%A7%90%EC%9D%B4%EC%95%BC)
+- [`@prayme` / 이직 고민기](https://velog.io/@prayme/%EC%9D%B4%EC%A7%81-%EA%B3%A0%EB%AF%BC%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -277,6 +278,9 @@ tag:
 - [`@2rV` / 일은 재미있으신가요?](https://brunch.co.kr/@@2rV/152)
 - [`@2rV` / 팀 문화를 바꾸는 방법 - 우리가 일하는 방식이 마음에 들지 않지만 내가 그것을 바꿀 수는 없을거야](https://brunch.co.kr/@@2rV/155)
 - [`@3Y0` / 지금 이 순간에 충실하라 - 평범한 직장인의 고민 일기](https://brunch.co.kr/@@3Y0/78)
+- [`@2rV` / 공채 면접관으로서의 개인적 경험](https://brunch.co.kr/@@2rV/160)
+- [`@2weV` / MBA 준비하는 분들을 위한 조언](https://brunch.co.kr/@@2weV/539)
+- [`@2YWz` / 글로벌 데이터 엔지니어링 인재 육성 - 8주 집중 실무 인턴십 프로그램](https://brunch.co.kr/@@2YWz/119)
 
 <!-- END: brunch.co.kr -->
 

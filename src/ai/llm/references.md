@@ -389,6 +389,7 @@ head:
 
 - [\[Embedding\] 중간값과 백터](http://mobicon.tistory.com/m/605)
 - [\[LCC-1\] LangChain Concept - Components & RAG](http://mobicon.tistory.com/m/607)
+- [\[LCC-5\] LangChain VectorStore 이해](https://mobicon.tistory.com/m/614)
 
 ---
 

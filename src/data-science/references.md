@@ -108,4 +108,10 @@ head:
 
 ---
 
+## 위지원의 개발 일기 🐈
+
+- [\[SQLP\] 조인 튜닝](https://weejw.tistory.com/m/627)
+
+---
+
 <TagLinks />

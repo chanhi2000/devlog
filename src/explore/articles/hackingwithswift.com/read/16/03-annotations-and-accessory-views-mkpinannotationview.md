@@ -114,7 +114,7 @@ func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnota
 }
 ```
 
-You can press Cmd+R to run your app, and now if you tap on any pin you'll see a city's name as well as a button you can tap to show more information. Like I said, you don't need to use `addTarget()` to add an action to the button, because you'll automatically be told by the map view using a `calloutAccessoryControlTapped` method.
+You can press <kbd>Cmd</kbd>+<kbd>R</kbd> to run your app, and now if you tap on any pin you'll see a city's name as well as a button you can tap to show more information. Like I said, you don't need to use `addTarget()` to add an action to the button, because you'll automatically be told by the map view using a `calloutAccessoryControlTapped` method.
 
 When this method is called, you'll be told what map view sent it (we only have one, so that's easy enough), what annotation view the button came from (this is useful), as well as the button that was tapped.
 

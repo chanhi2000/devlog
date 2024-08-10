@@ -58,7 +58,85 @@ Learn to draw shapes in SpriteKit while making a fun and tense slicing game.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/23/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Basics quick start: SKShapeNode | Hacking with iOS",
+  "desc": "Basics quick start: SKShapeNode",
+  "link": "/explore/articles/hackingwithswift.com/read/23/02-basics-quick-start-skshapenode.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Shaping up for action: CGPath and UIBezierPath | Hacking with iOS",
+  "desc": "Shaping up for action: CGPath and UIBezierPath",
+  "link": "/explore/articles/hackingwithswift.com/read/23/03-shaping-up-for-action-cgpath-and-uibezierpath.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Enemy or bomb: AVAudioPlayer | Hacking with iOS",
+  "desc": "Enemy or bomb: AVAudioPlayer",
+  "link": "/explore/articles/hackingwithswift.com/read/23/04-enemy-or-bomb-avaudioplayer.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Follow the sequence | Hacking with iOS",
+  "desc": "Follow the sequence",
+  "link": "/explore/articles/hackingwithswift.com/read/23/05-follow-the-sequence.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Slice to win | Hacking with iOS",
+  "desc": "Slice to win",
+  "link": "/explore/articles/hackingwithswift.com/read/23/06-slice-to-win.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Game over, man: SKTexture | Hacking with iOS",
+  "desc": "Game over, man: SKTexture",
+  "link": "/explore/articles/hackingwithswift.com/read/23/07-game-over-man-sktexture.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/23/08-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

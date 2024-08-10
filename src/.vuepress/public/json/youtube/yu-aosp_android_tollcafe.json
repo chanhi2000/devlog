@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "aosp_android_tollcafe",
+    "name": "AOSP »» Android »» AI »» Tech News to Go",
+    "profile": "https://yt3.googleusercontent.com/Xo04WqPP-KGG7tbxzAzNTvFf6OP1sSzC8BJt4v4BqoTsSh0nvKcqTJ5QpM9Z6q62ljZeGu2u7xY=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/odo57tEQoT_oBTw_VAhOeahN7MDIqf_Ad373q8343XyKXmh_GvGOwLwEWQ_DFO_furIoMAS5CfY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H2t3126vAOo", "title": "AWS Interview Q&A - Determine appropriate data security controls   Implementing access policies" },
+    { "id": "6-ABXrZpphg", "title": "AWS Interview Q&A  Determine appropriate data security controls   Encrypting data in transit" },
+    { "id": "XIHlDIcqkOs", "title": "AWS Interview Q&A - Determine appropriate data security controls   Data recovery" },
+    { "id": "qMAyd8Bocjk", "title": "AWS Interview Q&A -  Determine appropriate data security controls Data retention and classification" },
+    { "id": "ydiUoAsXDlE", "title": "AWS Interview Q&A - Determine appropriate data security controls and  Rotating encryption keys" },
+    { "id": "5KwSq_nALC0", "title": "AWS Interview Q&A - Determine appropriate data security controls   Implementing data backups and" }
+  ],
+  "playlists": [
+
+  ]
+}

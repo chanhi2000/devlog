@@ -589,18 +589,34 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/21/overview.md',
+              '/explore/articles/hackingwithswift.com/read/21/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/21/02-scheduling-notifications-unusernotificationcenter-and-unnotificationrequest.md',
+              '/explore/articles/hackingwithswift.com/read/21/03-acting-on-responses.md',
+              '/explore/articles/hackingwithswift.com/read/21/04-wrap-up.md',
             ]
           }, {
             text: 'Project 22: Detect-a-Beacon',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/22/overview.md',
+              '/explore/articles/hackingwithswift.com/read/22/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/22/02-requesting-location-core-location.md',
+              '/explore/articles/hackingwithswift.com/read/22/03-hunting-the-beacon-clbeaconregion.md',
+              '/explore/articles/hackingwithswift.com/read/22/04-wrap-up.md',
             ]
           }, {
             text: 'Project 23: Swifty Ninja',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/23/overview.md',
+              '/explore/articles/hackingwithswift.com/read/23/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/23/02-basics-quick-start-skshapenode.md',
+              '/explore/articles/hackingwithswift.com/read/23/03-shaping-up-for-action-cgpath-and-uibezierpath.md',
+              '/explore/articles/hackingwithswift.com/read/23/04-enemy-or-bomb-avaudioplayer.md',
+              '/explore/articles/hackingwithswift.com/read/23/05-follow-the-sequence.md',
+              '/explore/articles/hackingwithswift.com/read/23/06-slice-to-win.md',
+              '/explore/articles/hackingwithswift.com/read/23/07-game-over-man-sktexture.md',
+              '/explore/articles/hackingwithswift.com/read/23/08-wrap-up.md',
             ]
           }, {
             text: 'Project 24: Swift Strings',

@@ -72,7 +72,7 @@ override func viewDidLoad() {
     if navigationController?.tabBarItem.tag == 0 {
         urlString = "https://api.whitehouse.gov/v1/petitions.json?limit=100"
     } else {
-        urlString = "https://api.whitehouse.gov/v1/petitions.json?signatureCountFloor=10000&amp;limit=100"
+        urlString = "https://api.whitehouse.gov/v1/petitions.json?signatureCountFloor=10000&limit=100"
     }
 
     if let url = URL(string: urlString) {

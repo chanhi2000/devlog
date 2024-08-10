@@ -117,7 +117,7 @@ Did you see how easy it is to make per-pixel collision detection work? You just 
 
 The last line of code in that method sets our current game scene to be the contact delegate of the physics world, so you'll need to conform to the `SKPhysicsContactDelegate` protocol.
 
-![](https://hackingwithswift.com17-1.png" srcset="/img/books/hws/17-1@2x.png)Our basic game has the user piloting a space rocket through space.
+![](https://hackingwithswift.com17-1https://hackingwithswift.com/img/books/hws/17-1@2x.png)Our basic game has the user piloting a space rocket through space.
 
 ---
 

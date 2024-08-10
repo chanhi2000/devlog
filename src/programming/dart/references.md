@@ -109,6 +109,7 @@ tag:
 ## Teveloper 개발 & 테니스 이야기
 
 - [\[Flutter\] share_plus로 앱에서 링크 공유하기](https://teveloper.tistory.com/m/85)
+- [\[Flutter\] `addPostFrameCallback`, widget이 빌드된 후에 작업이 필요할때](https://teveloper.tistory.com/m/87)
 
 ---
 

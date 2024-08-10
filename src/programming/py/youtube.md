@@ -139,5 +139,6 @@ head:
 <MyYouTubeItems jsonName="yu-ProgrammingKnowledge" /><!-- ProgrammingKnowledge -->
 <MyYouTubeItems jsonName="yu-backendbanterfm" /><!-- Backend Banter -->
 <MyYouTubeItems jsonName="yu-yunjadong" /><!-- 윤자동 -->
+<MyYouTubeItems jsonName="yu-hnasr" /><!-- Hussein Nasser -->
 
 <TagLinks />

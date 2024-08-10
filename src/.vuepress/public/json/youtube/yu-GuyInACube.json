@@ -6,6 +6,22 @@
     "banner": "https://yt3.googleusercontent.com/3AfskTu89xkDj02bZK3Sp5aNcG9WMu4eiQ-pXKPni3o2lLmtaf4tRHyHeqEij0zhuFxYuvxVJA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QI_5MD9qY2k", "title": "Unlock Data Factory Power with Existing Connections" },
+    { "id": "OQKgnJkjJDI", "title": "Leverage Power Query Parameters with Power BI Paginated reports" },
+    { "id": "Fuk2FWYc8bs", "title": "Multiple DAX Measure updates in DAX Query View? Yes, Please!" },
+    { "id": "NRg4VkHSibU", "title": "Overwhelmed with all the Microsoft Fabric Updates???" },
+    { "id": "aPrh4sK8CX4", "title": "Happy little accidents with the Power BI Card Visual" },
+    { "id": "43bQYReo2q4", "title": "REPLAY Let's talk Microsoft Fabric - LIVE w/ Matthew Roche (July 27, 2024)" },
+    { "id": "ZIu2bJxzsd8", "title": "On-premises data with Data Factory in Microsoft Fabric" },
+    { "id": "qIt2n46Qa7s", "title": "Install Power BI Desktop the RIGHT WAY! (2024)" },
+    { "id": "Noox00b8ZHo", "title": "Reframe your Power BI Direct Lake Semantic Model" },
+    { "id": "mXngl2ChBxM", "title": "Update Data Sources within Deployment Pipelines" },
+    { "id": "ftb2nN3eukg", "title": "Get a custom endpoint without creating an EventHub for EventStreams" },
+    { "id": "FbVh05_QlYo", "title": "A look at the Microsoft Fabric Admin Portal" },
+    { "id": "nDH0fqAyUf4", "title": "Unleash Your Power BI Mobile Audience Potential with Automated layouts!" },
+    { "id": "xuEYxJ5gkGA", "title": "Leverage RLS with Direct Lake in Microsoft Fabric without access to OneLake" },
+    { "id": "3GL_ZA3UnHA", "title": "Ditch the whiteboard! Use Microsoft Fabric task flows!" },
+    { "id": "iNm73rguVjY", "title": "REPLAY Microsoft Fabric / Power BI Q&A w/ Kasper de Jonge (April 27, 2024)" },
     { "id": "Tw-n4o5LErw", "title": "Dive into Microsoft Fabric's Power BI Direct Lake" },
     { "id": "-_jY87oo9Sw", "title": "Include in Refresh can trip you up within Power Query" },
     { "id": "twT9BERneMI", "title": "Decoding Direct Lake: The Truth Behind DirectQuery Fallback" },
@@ -33,5 +49,8 @@
     { "id": "GFENAFw1co4", "title": "Create a measure from a filtered visual in Power BI? Of Course, you can!" },
     { "id": "K2WdIdfpIic", "title": "Let's look at using some PySpark in your first Microsoft Fabric Notebook" },
     { "id": "ECmhdB5Rdzo", "title": "Using Microsoft Fabric Workspaces (Power BI and more!)" }
+  ],
+  "playlists": [
+
   ]
 }

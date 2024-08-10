@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "homenetworkguy",
+    "name": "Home Network Guy",
+    "profile": "https://yt3.googleusercontent.com/w6b83Lasb8gYPCKcANLa4nnnbHDx3ADEnK1PFl6-nAZs2b7Bg8lSVrhtOsUzXlk3v_cgqgfWvg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9AbGU0OKQ7bqkWzHaaF7vaDq0MaxDW7gfUKkz38JGz7qixs6hoiOBV0E2YCmk5E_LlspLBFY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LFwlof7S2Tg", "title": "ZimaBlade - TrueNAS Replication Target" },
+    { "id": "2iXcUdd0Sqg", "title": "Prepping for the transition to a Proxmox cluster!" },
+    { "id": "39pEpa_OSl0", "title": "Build a Standalone Plex Media Server/Media Player for Your TV!" },
+    { "id": "hSOFshCkSys", "title": "Creating a Basic 3 Node Proxmox Cluster!" },
+    { "id": "H6VzlZXBikg", "title": "PC Builds with be quiet! Cases, CPU Coolers, and Power Supplies" },
+    { "id": "h2_cQxTkh3Q", "title": "Set up a Full Network using OPNsense (Part 2: OPNsense)" },
+    { "id": "54JWsGedXpo", "title": "Set up a Full Network using OPNsense (Part 1: Overview)" },
+    { "id": "CXp0CgilMRA", "title": "Beginner's Guide to Set up a Full Network using OPNsense" },
+    { "id": "Qtgs6tnFsRM", "title": "Addendum: Virtualizing OPNsense on Proxmox as Your Primary Router" }
+  ],
+  "playlists": [
+
+  ]
+}

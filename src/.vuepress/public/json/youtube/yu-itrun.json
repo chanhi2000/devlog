@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "PP9Rc-_rjRo", "title": "CCNA 200-301 시뮬레이션(Simulation) 풀이(라우터_IPv6-1)" },
+    { "id": "gDn7haNnMtY", "title": "CCNA 200-301 시뮬레이션(Simulation) 풀이(라우터_IPv4-2)" },
+    { "id": "ON0gGY-mkbQ", "title": "22_FTZ Level19(gets&입력)" },
+    { "id": "ZpR-6RxopSY", "title": "CCNA 200-301 시뮬레이션(Simulation) 풀이(라우터_IPv6-2)" },
+    { "id": "-Qy_E0c5UMk", "title": "CCNA 200-301 시뮬레이션(Simulation) 풀이(라우터_IPv4-2)" },
+    { "id": "aSXky63NX4Q", "title": "CCNA 200-301 시뮬레이션(Simulation) 풀이(라우터_IPv4-1)" },
     { "id": "JZOBfqJjrVY", "title": "15_Kubernetes VScode 연동" },
     { "id": "cmpSsbL1SAU", "title": "08_AWS Terraform(테라폼을 이용한 AWS 리소스 생성)" },
     { "id": "90cwrWzu4dM", "title": "07_AWS CloudFormation(CloudFormation를 이용한 네트워크 로드 분산 구성)" },

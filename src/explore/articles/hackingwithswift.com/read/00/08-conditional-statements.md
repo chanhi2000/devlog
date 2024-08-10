@@ -96,14 +96,14 @@ That will check each condition in order, and only one of the blocks will be exec
 
 ## Evaluating multiple conditions
 
-You can ask Swift to evaluate as many conditions as you want, but they all need to be true in order for Swift to execute the block of code. To check multiple conditions, use the `&amp;&amp;` operator – it means "and". For example:
+You can ask Swift to evaluate as many conditions as you want, but they all need to be true in order for Swift to execute the block of code. To check multiple conditions, use the `&&` operator – it means "and". For example:
 
 ```swift
 var action: String
 var stayOutTooLate = true
 var nothingInBrain = true
 
-if stayOutTooLate &amp;&amp; nothingInBrain {
+if stayOutTooLate && nothingInBrain {
     action = "cruise"
 }
 ```
@@ -119,7 +119,7 @@ Because `stayOutTooLate` and `nothingInBrain` are both true, the whole condition
 This might sound deeply philosophical, but actually this is important: sometimes you care whether a condition is not true, i.e. is false. You can do this with the `!` (not) operator that was introduced earlier. For example:
 
 ```swift
-if !stayOutTooLate &amp;&amp; !nothingInBrain {
+if !stayOutTooLate && !nothingInBrain {
     action = "cruise"
 }
 ```

@@ -1719,6 +1719,7 @@ head:
 
 - [Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/m/600)
 - [\[Python\] 튜플, 리스트, 딕셔너리 자료구조 이해](https://mobicon.tistory.com/m/606)
+- [\[Python\] `from` 과 `import` 구문](https://mobicon.tistory.com/m/615)
 
 ---
 
@@ -2222,6 +2223,12 @@ head:
 ## สาขาวิชาวิศวกรรมคอมพิวเตอร์ - ภาควิชาวิศวกรรมคอมพิวเตอร์
 
 - [Finding Nash Equilibria through Simulation](https://coe.psu.ac.th/ad/nashSim/)
+
+---
+
+## 꼬마개발자의 일기
+
+- [\[Python\] 페이지 요청 보낼 때 가상의 유저 만들기 - `fake_useragent`](https://seojeong-99.tistory.com/m/150)
 
 ---
 

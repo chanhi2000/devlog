@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "trySwiftConference",
+    "name": "try! Swift Conference",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mWq7Mn0TNY9acBYXEJScMpcb28z8H0AwAuDXw-hbYbBg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HUsecCEkSTMtGmOlT7W1OahyZhkaPiJuTiNpSh1lVsHxMuNEl81fXHbTMbt7E_P1C57V3Cv4dQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BUDp_An-Nwc", "title": "try! Swift Tokyo 2024 - Big Little Wins for You or Your App" },
+    { "id": "NdhdM7du5Ug", "title": "try! Swift Tokyo 2024 - Building a Smaller App Binary" },
+    { "id": "ZzIbqkusedU", "title": "try! Swift Tokyo 2024 - Code Signing - Have Fun and Take Control" },
+    { "id": "OpenCwVkEGs", "title": "try! Swift Tokyo 2024 - The Fascinating World of Addition in Swift" },
+    { "id": "EF_FX6Ct9wE", "title": "try! Swift Tokyo 2024 - Automation for App Localization" },
+    { "id": "AubflnfDszE", "title": "try! Swift Tokyo 2024 - Learning Swift's Type Inference" },
+    { "id": "liCLBUyqfIg", "title": "try! Swift Tokyo 2024 - Creating Retro-Style Photos Using Swift" },
+    { "id": "zbqJyd9YPN0", "title": "try! Swift Tokyo 2024 - Enhancing Applications with the Accessibility API" },
+    { "id": "wfkIJOwIWtQ", "title": "try! Swift Tokyo 2024 - Drive Through File Provider" },
+    { "id": "bQkKHysw68U", "title": "try! Swift Tokyo 2024 - Getting to Know TextKit" },
+    { "id": "thhfol_62mA", "title": "try! Swift Tokyo 2024 - What Can We Do Without AI in the Future?" },
+    { "id": "P1IwI0Wh-Rg", "title": "try! Swift Tokyo 2024 - The Future of C++ Interoperability: Insights from Porting a Game to Swift" },
+    { "id": "tSJF1rx0hhA", "title": "try! Swift Tokyo 2024 - Macro testing" },
+    { "id": "42fZ1yuOvQ4", "title": "try! Swift Tokyo 2024 - Migrating Large Codebases Without Breaking The World" },
+    { "id": "qJNovYI6hiI", "title": "try! Swift Tokyo 2024 - Prioritizing Health: Developing a Personalized App" },
+    { "id": "X9ys_Q_tB08", "title": "try! Swift Tokyo 2024 - Build your next website with Swift" },
+    { "id": "_vnlVjt59mU", "title": "try! Swift Tokyo 2024 - SwiftでvisionOSのアプリをつくろう" },
+    { "id": "-qZk-hZCRFM", "title": "try! Swift Tokyo 2024 - SF Symbolsの芸術的世界：限りない可能性を解き放つ" },
+    { "id": "mfQ_0ZXYlJI", "title": "try! Swift Tokyo 2024 - HelloSwift.EXE: Writing a Windows Application as a non-Windows Developer" },
+    { "id": "GOkRgoAmmbg", "title": "try! Swift Tokyo 2024 - Parallel Socket Communication in Swift" },
+    { "id": "7C0MmsE9bEk", "title": "try! Swift Tokyo 2024 - Transforming Language Learning with AI: A Deep Dive into Duolingo's AI Tutor" },
+    { "id": "AOAyAPHdkko", "title": "try! Swift Tokyo 2024 - Cultivating a Sense for Designing Great Applications" }
+  ],
+  "playlists": [
+
+  ]
+}

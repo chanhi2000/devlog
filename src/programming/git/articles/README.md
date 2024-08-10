@@ -119,12 +119,22 @@ head:
   "title": "What is Trunk Based Development? A Different Approach to the Software Development Lifecycle",
   "desc": "The Software Development Lifecycle (SDLC) is different at every company. The version control system used, peer review process, code review process, design review process, how you do CI, automated testing, and manual testing – all vary greatly depending on where you work. How a company plans, writes, builds, reviews, deploys...",
   "link": "/explore/articles/frontendmasters.com/what-is-trunk-based-development.md",
-  "logo": "https://frontendmasters.com/favicon.ico",
-  "background": "rgba(188,75,52,0.2)"
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
 }
 ```
 
-<!-- END: freecodecamp.org -->
+```component VPCard
+{
+  "title": "How to Host Your Project on GitHub – Explained With Examples",
+  "desc": "Seven years ago, I began my journey into web development with HTML and CSS. As soon as I got the hang of JavaScript, I built my first website. The excitement was overwhelming, and I wanted to share it with my friends and the world. Like many beginners, I started researching...",
+  "link": "/explore/articles/frontendmasters.com/host-your-first-project-on-github.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: frontendmasters.com -->
 
 ---
 

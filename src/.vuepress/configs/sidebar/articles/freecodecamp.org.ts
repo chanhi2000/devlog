@@ -12,6 +12,7 @@ export const template: SidebarInfoTemplate = {
       "multithreading-for-beginners", // 2024-07-16
       "comparable-vs-comparator-explained-in-java", // 2024-07-23
       "creational-design-patterns-in-java", // 2024-07-26
+      "how-java-hashmaps-work-internal-mechanics-explained", // 2024-08-09
     ]],[
     "java-spring",[
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
@@ -50,6 +51,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
+      "typescript-for-beginners-guide", // 2024-08-08
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024-03-28
@@ -184,6 +186,9 @@ export const template: SidebarInfoTemplate = {
     "py-flask", [
       "how-to-implement-instant-search-with-flask-and-htmx", // 2024-07-22
     ]],[
+    "py-numpy", [
+      "how-to-build-an-ai-model-for-predicting-data-with-python", // 2024-08-08
+    ]],[
     "dart", [
       "how-to-develop-a-flutter-app-from-scratch", // 2024-04-26
       "how-to-make-your-flutter-package-privacy-manifest-compatible", // 2024-05-20
@@ -238,6 +243,7 @@ export const template: SidebarInfoTemplate = {
       "git-checkout-remote-branch-how-to-fetch-and-list-remote-branches", // 2024-04-30
       "how-to-use-git-submodules", // 2024-05-07
       "what-is-trunk-based-development", // 2024-06-18
+      "host-your-first-project-on-github", // 2024-08-08
     ]],[
     "gd", [
       "learn-to-create-a-3d-rpg-game-with-godot", // 2024-06-20
@@ -252,6 +258,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-host-static-sites-on-azure-static-web-apps", // 2024-06-18
       "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
       "pass-the-github-advanced-security-certification-exam", // 2024-07-17
+      "host-your-first-project-on-github", // 2024-08-08
     ]],[
     "macos", [
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
@@ -357,6 +364,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-an-interpretable-ai-deep-learning-model", // 2024-07-23
       "generative-models-for-data-augmentation", // 2024-07-26
       "prompt-engineering-basics", // 2024-07-29
+      "how-to-build-an-ai-model-for-predicting-data-with-python", // 2024-08-08
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -580,6 +588,10 @@ export const template: SidebarInfoTemplate = {
       "react-common-mistakes", // 2024-08-06
       "what-is-a-kalman-filter-with-python-code-examples", // 2024-08-07
       "create-a-pc-game-using-javascript", // 2024-08-07
+      "host-your-first-project-on-github", // 2024-08-08
+      "how-to-build-an-ai-model-for-predicting-data-with-python", // 2024-08-08
+      "typescript-for-beginners-guide", // 2024-08-08
+      "how-java-hashmaps-work-internal-mechanics-explained", // 2024-08-09
     ]],
   ]),
 }

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/CkRN5o47Ux9DMBOO5ePLVQ0hBqZ98znNNU4a7Wig4BRYBqmZA6kQm_0P-xZx_fw7_x16V-bukg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lZbUGhVtCRs", "title": "마작 점수 계산하기 강좌 (완전 알참)" },
+    { "id": "cZoaSYqM-0I", "title": "아두이노 도움좀 주셈 ㅡ.ㅡ" },
     { "id": "UYVEln8qNrE", "title": "1062 - C언어 6차시" },
     { "id": "cIzgTESemfk", "title": "1062 - C언어 7차시" },
     { "id": "UpyJ-gRT_5Y", "title": "1062 - C언어 8차시" },
@@ -24,5 +26,8 @@
     { "id": "pASu-72HWtg", "title": "Discord.py 2.3.2로 디코 봇 만들기" },
     { "id": "2iABD4oucJI", "title": "Aicé 상용구 프로그램 사용법" },
     { "id": "llOI9-vQu5Q", "title": "G1 BOJ 문제풀이 방송 2023. 10. 20" }
+  ],
+  "playlists": [
+    
   ]
 }

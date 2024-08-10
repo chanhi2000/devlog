@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/VZfZhVWE3F7bvUA9aVm20_gsbkiw9-JLOp5CL_ALIRoDDRrs9vyPalyhZixwQT4Dd4e_MZGFmzo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QAq3HRMmdbo", "title": "They made Kafka 80% faster by switching file systems" },
+    { "id": "93Q1vPe-z00", "title": "They made Python faster with this compiler option" },
+    { "id": "0UjIAcwkT8o", "title": "io uring gets even faster" },
+    { "id": "gEsEl_NZORQ", "title": "New Course Alert - Fundamentals of Operating Systems" },
     { "id": "g0nKNhP0j0I", "title": "The Cost of Memory Fragmentation" },
     { "id": "WpMwuo13-7w", "title": "Cloudflare Open sources Pingora (NGINX replacement)" },
     { "id": "qo1FFNUVB-Q", "title": "Google Patches Linux kernel with 40% TCP performance" },

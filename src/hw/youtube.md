@@ -90,5 +90,9 @@ head:
 <MyYouTubeItems jsonName="yu-iamalexsun" /><!-- Alex Sun -->
 <MyYouTubeItems jsonName="yu-bgsreview" /><!-- 방구석 리뷰룸 -->
 <MyYouTubeItems jsonName="yu-EngineersSG" /><!-- Engineers.SG -->
+<MyYouTubeItems jsonName="yu-WorkFromHype" /><!-- Work From Hype -->
+<MyYouTubeItems jsonName="yu-aChairLeg" /><!-- aChair Leg -->
+<MyYouTubeItems jsonName="yu-HughJeffreys" /><!-- Hugh Jeffreys -->
+<MyYouTubeItems jsonName="yu-partspluspods3689" /><!-- Parts Plus Pods -->
 
 <TagLinks />

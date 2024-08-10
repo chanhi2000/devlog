@@ -26,4 +26,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-MahlerLab" /><!-- 말러랩 -->
+
 <TagLinks />

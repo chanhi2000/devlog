@@ -118,7 +118,7 @@ override func update(_ currentTime: TimeInterval) {
 }
 ```
 
-![](https://hackingwithswift.com17-2.png" srcset="/img/books/hws/17-2@2x.png)Random deadly objects are thrown at the player, who scores points simply by staying alive.
+![](https://hackingwithswift.com17-2https://hackingwithswift.com/img/books/hws/17-2@2x.png)Random deadly objects are thrown at the player, who scores points simply by staying alive.
 
 ---
 

@@ -183,6 +183,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How Java HashMaps Work – Internal Mechanics Explained",
+  "desc": "A HashMap is one of the most commonly used data structures in Java, and it's known for its efficiency. Data in a HashMap is stored in the form of key-value pairs. In this article, I will introduce you to HashMaps in Java. We will explore the common o...",
+  "link": "/explore/articles/freecodecamp.org/how-java-hashmaps-work-internal-mechanics-explained.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

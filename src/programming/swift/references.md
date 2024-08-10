@@ -79,6 +79,7 @@ tag:
 - [`@jacobbartlett` / he 2FA app that tells you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
 - [`@fatbobman` / Fatbobman's Swift Weekly #026](https://weekly.fatbobman.com/p/fatbobmans-swift-weekly-026)
 - [`@rudrank` / Exploring Claude: Streaming Messages Using Claude 3 Haiku](https://www.rudrank.com/exploring-claude-streaming-messages-using-claude-3-haiku)
+- [The Meme that gave me Imposter Syndrome](https://jacobbartlett.substack.com/p/the-meme-that-gave-me-imposter-syndrome)
 
 ---
 
@@ -287,6 +288,7 @@ tag:
 ## Polpiella
 
 - [Xcode 15: Automated accessibility audits](https://www.polpiella.dev/xcode-15-automated-accessibility-audits)
+- [How to automatically detect memory leaks on CI/CD using UI tests](https://www.polpiella.dev/automatically-detect-memory-leaks-using-ui-tests/)
 
 ---
 
@@ -692,6 +694,7 @@ tag:
 - [Being a good citizen in the land of `SwiftSyntax`](https://www.pointfree.co/blog/posts/116-being-a-good-citizen-in-the-land-of-swiftsyntax)
 - [Perception: A back-port of `@Observable`](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
 - [Unobtrusive and testable issue reporting](https://www.pointfree.co/blog/posts/147-unobtrusive-and-testable-issue-reporting)
+- [Swift Navigation: Powerful navigation tools for all Swift platforms](https://www.pointfree.co/blog/posts/149-swift-navigation-powerful-navigation-tools-for-all-swift-platforms)
 
 ---
 
@@ -915,6 +918,18 @@ tag:
 ## Ashish Kakkad
 
 - [How to add animation to MeshGradient in SwiftUI?](https://ashishkakkad.com/2024/07/how-to-add-animation-to-meshgradient-in-swiftui)
+
+---
+
+## Super Easy Apps
+
+- [Embedded Swift Tutorial - Getting Started (Everything you need to know)](https://blog.supereasyapps.com/embedded-swift-tutorial-getting-started-everything-you-need-to-know/)
+
+---
+
+## twocentstudios
+
+[Reminder: Conditional Breakpoints are Slow](https://twocentstudios.com/2024/08/08/conditional-breakpoints/)
 
 ---
 

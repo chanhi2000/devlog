@@ -453,6 +453,8 @@ head:
 - [11.5. 책 컨트롤러 클래스에 목록 메소드 추가하기](https://ysedeveloper.tistory.com/m/ntry/115-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [11.5. 책 컨트롤러 클래스에 목록 메소드 추가하기](https://ysedeveloper.tistory.com/m/entry/115-%EC%B1%85-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%AA%A9%EB%A1%9D-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [11.6. 책 목록 뷰 추가하기](https://ysedeveloper.tistory.com/m/entry/116-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EB%B7%B0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+- [11.7. 책 목록 기능 확인하기](https://ysedeveloper.tistory.com/m/entry/117-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+- [12.1. 책 기록 개요](https://ysedeveloper.tistory.com/m/entry/121-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EA%B0%9C%EC%9A%94)
 
 <!-- END: ysedeveloper.tistory.com -->
 

@@ -4590,5 +4590,12 @@
     "topics": ["auth", "auth0", "authentication", "clerk", "email-password", "firebase-auth", "keycloak", "login", "magic-link", "nextjs", "oauth", "password", "react", "session-management", "signin", "social-login", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/161534807?v=4",
     "banner": ""
+  }, {
+    "repo": "TrafficGuard/nous",
+    "desc": "TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more",
+    "officialSite": "https://nous.trafficguard.ai",
+    "topics": ["agentic-framework", "agents", "ai-agents", "ai-agents-framework", "ai-code-review", "ai-software-engineer", "llm", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/47138526?v=4",
+    "banner": ""
   }
 ]

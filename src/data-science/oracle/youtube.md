@@ -31,5 +31,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Coding4Change" /><!-- Coding4Change-NPO코딩캠프 -->
 <MyYouTubeItems jsonName="yu-alohaclass5" /><!-- ALOHA CLASS -->
 <MyYouTubeItems jsonName="yu-techTFQ" /><!-- techTFQ -->
+<MyYouTubeItems jsonName="yu-Asianometry" /><!-- Asianometry -->
 
 <TagLinks />
