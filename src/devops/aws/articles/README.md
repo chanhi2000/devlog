@@ -158,6 +158,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Ultimate AWS Certified Developer Associate (DVA-C02) Course from Andrew Brown",
+  "desc": "Are you ready to elevate your AWS skills and become a certified AWS Developer Associate? Look no further! The comprehensive AWS Certified Developer Associate (DVA-C02) course by Andrew Brown is now available for free on the freeCodeCamp.org YouTube c...",
+  "link": "/explore/articles/freecodecamp.org/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

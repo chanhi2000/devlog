@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Kali Linux
 description: Kali Linux
-icon: iconfont icon-kali-linux
+icon: iconfont icon-kalilinux
 category:
   - Linux
   - Debian
@@ -10,7 +10,7 @@ category:
 tag:
   - linux
   - debian
-  - kali-linux
+  - kali
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -21,7 +21,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/devops/linux-debian/kali-linux" />
+<ToCLocal basePath="/devops/linux-debian/kali/" />
 
 ---
 

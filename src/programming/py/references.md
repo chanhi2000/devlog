@@ -204,6 +204,7 @@ head:
 - [`johnloewen` / A Beautiful and Timely Python Multi-page Streamlit Application](https://johnloewen.substack.com/p/a-beautiful-and-timely-python-multi)
 - [`pythonpapers` / Creating Images in Your Terminal with Python and Rich Pixels](https://www.pythonpapers.com/p/creating-images-in-your-terminal)
 - [`codingconfessions` / Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
+- [`bitecode` / What's up Python? Setuptools breaks, a better PDB, cPython on CalVer...](https://www.bitecode.dev/p/whats-up-python-setuptools-breaks)
 
 <!-- END: substack.com -->
 
@@ -754,6 +755,29 @@ head:
   - [Clean Architecture(클린 아키텍처) 공부 - 육각형 아키텍처, 엔티티, 유스케이스, 프레임워크, 드라이버, 관심사 분리(SoC), 험블 객체 패턴, 프레젠터, 뷰, 뷰모델, 아키텍처]([kimkani]https://kimkani.tistory.com/m/63)
   - [\[SQLAlchemy\] - Asynchronous I/O (asyncio) : 비동기 I/O (asyncio) 공식 문서 번역 1편 : 개요, 동시성 태스크와 같이 사용하기](https://kimkani.tistory.com/m/66)
   <!-- END: kimkani -->
+- [`mobicon` / AI Convergence](https://mobicon.tistory.com/m/)
+  - [MQTT 사용하기 - 1](https://mobicon.tistory.com/m/12)
+  - [Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/m/600)
+  - [\[Python\] 튜플, 리스트, 딕셔너리 자료구조 이해](https://mobicon.tistory.com/m/606)
+  - [\[Python\] `docstring` 스펙](http://mobicon.tistory.com/m/608)
+  - [\[Python\] `__getattr__` 의미](http://mobicon.tistory.com/m/609)
+  - [\[Python\] 클래스의 변수와 속성 이해](http://mobicon.tistory.com/m/612)
+  - [\[Python\] `from` 과 `import` 구문](https://mobicon.tistory.com/m/615)
+  - [\[Python\] classmethod에서 cls로 감싸 반환하기](https://mobicon.tistory.com/m/618)
+  - [\[Python\] 여러 Dictionary 병합하기](https://mobicon.tistory.com/m/619)
+  - [\[Python\] Union 과 isinstance 사용법](https://mobicon.tistory.com/m/620)
+  - [\[Python\] 함수 정의시 * 인수 사용법](https://mobicon.tistory.com/m/621)
+  - [\[Python\] 패키지와 모듈 범위](https://mobicon.tistory.com/m/622)
+  <!-- END: mobicon -->
+- [`iostream` / Make headway towards solving the problem](https://iostream.tistory.com/m/)
+  - [Adapter Pattern](https://iostream.tistory.com/m/178)
+  <!-- END: iostream -->
+- [`sjquant` / solaqualog](https://sjquant.tistory.com/m/)
+  - [`poetry`와 github actions를 활용한 파이썬 라이브러리 배포 자동화](https://sjquant.tistory.com/m/97)
+  <!-- END: sjquant -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [DOM](https://bbogle2.tistory.com/m/entry/DOM)
+  <!-- END: bbogle2 -->
 <!-- END: tistory.com -->
 
 ---
@@ -916,12 +940,6 @@ head:
 
 ---
 
-## Make headway towards solving the problem
-
-- [Adapter Pattern](https://iostream.tistory.com/178)
-
----
-
 ## 김태영의 케라스 블로그
 
 - [오늘의어시 - 블로그 작성 어시](https://tykimos.github.io/2024/04/04/todayassi___blog_writing_assi/)
@@ -935,12 +953,6 @@ head:
 - [The Strange Practices at The Broadcaster's Inn • Broadcasting in NumPy (A NumPy for Numpties article)](https://www.thepythoncodingstack.com/p/numpy-broadcasting-python-the-broadcasters-inn)
 - [`bytes`: The Lesser-Known Python Built-In Sequence • And Understanding UTF-8 Encoding](https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding)
 - [If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
-
----
-
-## solaqualog
-
-- [`poetry`와 github actions를 활용한 파이썬 라이브러리 배포 자동화](https://sjquant.tistory.com/97)
 
 ---
 
@@ -973,12 +985,6 @@ head:
 ## YA-Hwang 기술 블로그
 
 - [optional label과 비용효과적인 Protobuf 처리](https://yahwang.github.io/posts/110)
-
----
-
-## 뽀글뽀글 개발 일지
-
-- [DOM](https://bbogle2.tistory.com/m/entry/DOM)
 
 ---
 
@@ -1702,14 +1708,6 @@ head:
 
 ---
 
-## Mobile Convergence
-
-- [Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/m/600)
-- [\[Python\] 튜플, 리스트, 딕셔너리 자료구조 이해](https://mobicon.tistory.com/m/606)
-- [\[Python\] `from` 과 `import` 구문](https://mobicon.tistory.com/m/615)
-
----
-
 ## Brian Kitano
 
 - [Llama from scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/)
@@ -2024,6 +2022,7 @@ head:
 ## Trey Hunner
 
 - [A beautiful Python monstrosity(using performance test)](https://treyhunner.com/2024/06/a-beautiful-python-monstrosity/)
+- [Why does `python -m json` not work? Why is it "json.tool"?](https://treyhunner.com/2024/08/why-does-python-m-json-not-work/)
 
 ---
 
@@ -2165,15 +2164,6 @@ head:
 
 ---
 
-## AI Convergence
-
-- [\[Python\] `docstring` 스펙](http://mobicon.tistory.com/m/608)
-- [\[Python\] `__getattr__` 의미](http://mobicon.tistory.com/m/609)
-- [MQTT 사용하기 - 1](https://mobicon.tistory.com/m/12)
-- [\[Python\] 클래스의 변수와 속성 이해](http://mobicon.tistory.com/m/612)
-
----
-
 ## Yusuf's Deep Learning Blog
 
 - [The Path to StyleGan2 - Implementing the Progressive Growing GAN](https://ym2132.github.io/Progressive_GAN)
@@ -2216,6 +2206,19 @@ head:
 ## 꼬마개발자의 일기
 
 - [\[Python\] 페이지 요청 보낼 때 가상의 유저 만들기 - `fake_useragent`](https://seojeong-99.tistory.com/m/150)
+
+---
+
+## TWpower's Tech Blog
+
+- [\[Python\] PyYAML 사용시 키 이름 “on”이 True로 바뀌는 사례](https://twpower.github.io/353-case-of-converting-key-name-on-to-true-in-pyyaml)
+- [\[Python\](EN) Case of converting key name “on” to True when using PyYAML](https://twpower.github.io/352-case-of-converting-key-name-on-to-true-in-pyyaml-en)
+
+---
+
+## Joshua Cook
+
+- [How I use Python to organize my data analyses](https://joshuacook.netlify.app/posts/2024-07-27_python-data-analysis-org/)
 
 ---
 

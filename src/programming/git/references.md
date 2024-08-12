@@ -407,6 +407,7 @@ head:
 ## jupiny의 개발일지
 
 - [git stash 사용하기](https://jupiny.com/2024/07/21/use-git-stash/)
+- [git 커밋 메시지 앞에 이슈 넘버 입력 자동화하기](https://jupiny.com/2024/08/11/automate-issue-number-input-in-git-commit-message/)
 
 ---
 

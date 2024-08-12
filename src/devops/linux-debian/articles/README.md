@@ -178,6 +178,36 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Configure ZFS Storage and NFS Shares in TrueNAS – Part 2",
+  desc="In this article, we will cover the configuration of TrueNAS to set up ZFS storage disks and enable NFS share on TrueNAS to share on Unix and Windows systems.",
+  "link": "/explore/articles/tecmint.com/add-storage-disks-to-truenas-server.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "TrueNAS: Create Own “Home Media Streaming Server” Using Plex – Part 3",
+  "desc": "In this post, we will show you how to set up a home-based streaming server using the Plex Media Server plugin in TrueNAS.",
+  "link": "/explore/articles/tecmint.com/home-media-streaming-server-using-plex-with-truenas.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Parrot OS: Security-Focused Linux Distro for Security and Privacy",
+  "desc": "ParrotOS is a free and open-source Debian-based Linux distribution, which is designed for security experts, developers, and people who care about privacy.",
+  "link": "/explore/articles/tecmint.com/parrot-os-security-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
 <!-- END: tecmint.com -->
 
 ---

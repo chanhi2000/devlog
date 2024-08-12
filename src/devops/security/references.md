@@ -78,11 +78,23 @@ tag:
 - [`infosecwriteups` / Taking your web application pentesting to another level](https://infosecwriteups.com/taking-your-web-application-pentesting-to-another-level-8ca39238a1e4)
 - [`chequer`/ 한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
 
+<!-- END: medium.com -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@ilotoki0804` / KT 60만명 해킹의 심각성: 사상 최악의 사이버 범죄로부터 당신은 지금도 안전하지 않다](https://velog.io/@ilotoki0804/kt)
+
+<!-- END: velog.io -->
+
+---
+
+## Brunch
+
+- [`@ZVA` / 대형고래의 승리, 디파이 컴파운드 거버넌스 공격의 실체](https://brunch.co.kr/@@ZVA/714)
+
+<!-- END: brunch.co.kr -->
 
 ---
 

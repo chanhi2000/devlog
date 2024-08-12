@@ -51,7 +51,13 @@ isOriginal: false
 }
 ```
 
-<!-- TODO: 작성 -->
+<VidStack src="youtube/V9cWsGJ4aLc" />
+
+After a long project 23, it’s time to ease off and look at something that you might think would be much easier: strings. Yes, those pieces of text we take for granted in almost every program we write – they ought to be fairly straightforward things, but it turns out that they are complicated little beasts and take a little thinking.
+
+In this technique project we’re going to look at why strings often confuse newcomers to Swift, we’ll try out a variety of properties and methods that are useful, and we’re also going to look at how to add *formatting* to strings – bold, italics, color, and more – using a separate class called `NSAttributedString`. Supported for attributed strings is baked into most of UIKit, so you can use it with `UILabel`, `UITextView`, and more.
+
+In Xcode, go to the File menu and choose New > Playground. Name it Project24, make sure iOS is selected as the platform, then choose Next and save it somewhere you can find later.
 
 ---
 

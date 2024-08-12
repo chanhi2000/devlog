@@ -69,5 +69,12 @@
     "topics": ["c", "compiler", "zig"],
     "avatar": "https://avatars.githubusercontent.com/u/15308111?v=4",
     "banner": ""
+  }, {
+    "repo": "judofyr/spice",
+    "desc": "Fine-grained parallelism with sub-nanosecond overhead in Zig",
+    "officialSite": "",
+    "topics": ["concurrency", "parallelism", "threads", "zig", "zig-package"],
+    "avatar": "https://avatars.githubusercontent.com/u/499?v=4",
+    "banner": ""
   }
 ]

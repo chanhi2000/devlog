@@ -260,4 +260,10 @@ tag:
 
 ---
 
+## Stefanie Molin
+
+- [Tips for Navigating an Issue Tracker on GitHub](https://stefaniemolin.com/articles/open-source/navigating-an-issue-tracker/)
+
+---
+
 <TagLinks />

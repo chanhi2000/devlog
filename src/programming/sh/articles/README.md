@@ -197,6 +197,56 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Configure FirewallD in RHEL-based Distributions",
+  "desc": "In newer versions of RHEL-based distributions such as Fedora, Rocky Linux, CentOS Stream, AlmaLinux, and openSUSE - the iptables is being replaced by firewalld.",
+  "link": "/explore/articles/tecmint.com/configure-firewalld-rhel-rocky-almalinux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use ‘next’ Command with Awk in Linux – Part 6",
+  "desc": "In this article, we’ll explore how the `next` command in `awk` skips remaining patterns and moves to the next input line.",
+  "link": "/explore/articles/tecmint.com/use-next-command-with-awk-in-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Search Files by Name or Extension Using find Command",
+  "desc": "One of the utilities for locating files is `find`. In this article, we'll explore examples of using the `find` command to search for multiple filenames.",
+  "link": "/explore/articles/tecmint.com/find-files-by-extension-in-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Sync New and Changed Files Using ‘rsync’ Command",
+  "desc": "In this article, we shall examine how rsync can help us only sync new or changed files or directory content while making backups and beyond in Linux.",
+  "link": "/explore/articles/tecmint.com/sync-new-changed-modified-files-rsync-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Read and Filter Awk Input from STDIN in Linux – Part 7",
+  "desc": "In this Part 7 of Awk series, we shall look at few examples where you can filter the output of other commands instead of reading input from a file.",
+  "link": "/explore/articles/tecmint.com/read-awk-input-from-stdin-in-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
 <!-- END: tecmint.com -->
 
 ## 요즘IT

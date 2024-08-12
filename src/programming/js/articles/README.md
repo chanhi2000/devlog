@@ -279,6 +279,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Match Parentheses in JavaScript without Using Regex",
+  "desc": "While writing my Lisp interpreter (for the Scheme dialect, to be precise), I decided to include support for square brackets. I did this because some of the Scheme books use them interchangeably with parentheses. But I didn't want to make the parser t...",
+  "link": "/explore/articles/freecodecamp.org/how-to-match-parentheses-in-javascript-without-using-regex.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

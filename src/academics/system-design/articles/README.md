@@ -417,6 +417,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "경쟁력 있는 개발자를 위한 ‘클라우드 디자인 패턴’ | 요즘IT",
+  "desc": "경쟁력 있는 개발자를 위한 ‘클라우드 디자인 패턴’",
+  "link": "/explore/articles/yozm.wishket.com/2713.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

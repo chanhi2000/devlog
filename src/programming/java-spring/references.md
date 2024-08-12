@@ -156,6 +156,8 @@ head:
 - [`@kny8092` / JPA QueryMethod 구현해보기](https://velog.io/@kny8092/JPA-QueryMethod-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [`@joshuara7235` / 동시성 문제를 극복해보자 - (feat. DB 락과 Redis 분산락)](https://velog.io/@joshuara7235/%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EA%B7%B9%EB%B3%B5%ED%95%B4%EB%B3%B4%EC%9E%90-feat-DB-%EB%9D%BD%EA%B3%BC-Redis-%EB%B6%84%EC%82%B0%EB%9D%BD)
 - [`@joshuara7235` / 대량의 트래픽이 몰려올 때 나는 어떻게 해야하나? - (feat. Cache, 대기열 구현)](https://velog.io/@joshuara7235/%EB%8C%80%EB%9F%89%EC%9D%98-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%B4-%EB%AA%B0%EB%A0%A4%EC%98%AC-%EB%95%8C-%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98-feat.-Cache-%EB%8C%80%EA%B8%B0%EC%97%B4-%EA%B5%AC%ED%98%84)
+- [`@qkrtkdwns3410` / Lombok 과 Spring Data 에서 생기는 'org.springframework.data.mapping.MappingException' exception 문제 해결](https://velog.io/@qkrtkdwns3410/Lombok-%EA%B3%BC-Spring-Data-%EC%97%90%EC%84%9C-%EC%83%9D%EA%B8%B0%EB%8A%94-org.springframework.data.mapping.MappingException-exception-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+- [`@joshuara7235` / 2024년 인프콘 후기 - #4 클린 스프링](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-4-%ED%81%B4%EB%A6%B0-%EC%8A%A4%ED%94%84%EB%A7%81)
 
 <!-- END: velog.io -->
 
@@ -186,9 +188,59 @@ head:
 
 - [[Annotation] `@WebServlet`](https://gmlwjd9405.github.io/2018/12/22/webservlet-annotation.html)
 
-### DEVLOG
+### tistory
 
-- [서블릿 구현 및 실행 (`web.xml`, `@WebServlet` 설정)](https://kgvovc.tistory.com/29)
+- [`kgvovc` / DEVLOG](https://kgvovc.tistory.com/m/)
+  - [서블릿 구현 및 실행 (`web.xml`, `@WebServlet` 설정)](https://kgvovc.tistory.com/m/29)
+  <!-- END: kgvovc -->
+- [`seungdols` / Seungdols Company](https://seungdols.tistory.com/m/)
+  - [스프링 핵심 원리 기본편 강의 - 싱글톤](https://seungdols.tistory.com/m/1012)
+  - [스프링 핵심 원리 기본편 강의 - 스프링](https://seungdols.tistory.com/m/1013)
+  - [스프링 핵심 원리 기본편 강의 - Bean scope & Bean lifecycle](https://seungdols.tistory.com/m/1014)
+  - [스프링 핵심 원리 기본편 강의 - Bean Definition](https://seungdols.tistory.com/m/1015)
+  - [스프링 핵심 원리 기본편 강의 - `ComponentScan`과 의존 관계 자동 주입](https://seungdols.tistory.com/m/1016)
+  <!-- END: seungdols -->
+- [`pearlluck` / 데엔잘하고싶은데엔🔥💎](https://pearlluck.tistory.com/m/)
+  - [Spring Boot Actuator로 메모리 이슈 모니터링하기](https://pearlluck.tistory.com/m/801)
+  - [[강의] 유데미 Spring Boot 강의추천 (Spring 개념, Ioc/DI/Beans/Component/Autowired)](https://pearlluck.tistory.com/m/802)
+  <!-- pearlluck -->
+- [`rutgo-letsgo` / Enthusiastically, Steady, Slowly](https://rutgo-letsgo.tistory.com/m/)
+  - [Top 10 REST Interview Questions for Java and Spring Developers(Java와 Spring 개발자를 위한 10개의 REST 면접 질문)](https://rutgo-letsgo.tistory.com/m/entry/Top-10-REST-Interview-Questions-for-Java-and-Spring-DevelopersJava%EC%99%80-Spring-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%9C%EC%9D%98-REST-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8)
+  <!-- END: rutgo-letsgo -->
+- [`octoping` / Octoping](https://octoping.tistory.com/m/)
+  - [[번역] Spring Topical Guides - Spring Boot Docker](https://octoping.tistory.com/m/58)
+  <!-- END: octoping -->
+- [`yeonyeon` / 연로그](https://yeonyeon.tistory.com/m/)
+  - [[Spring] `ReactiveCrudRepository`를 이용한 삭제 시 주의점](https://yeonyeon.tistory.com/m/329)
+  <!-- END: yeonyeon -->
+- [`leeiopd` / 몽상실현개발주의](https://leeiopd.tistory.com/m/)
+  - [SpringBoot VO 와 DTO](https://leeiopd.tistory.com/m/entry/SpringBoot-VO-%EC%99%80-DTO)
+  - [Spring Boot에서 의존성 주입: `@Bean`과 `@Autowired`의 이해](https://leeiopd.tistory.com/m/entry/Spring-Boot%EC%97%90%EC%84%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-Bean%EA%B3%BC-Autowired%EC%9D%98-%EC%9D%B4%ED%95%B4)
+  - [Lombok in Spring Framework](https://leeiopd.tistory.com/m/entry/Lombok-in-Spring-Framework)
+  <!-- END: leeiopd -->
+- [`dkswnkk` / JuHyeong.dev](https://dkswnkk.tistory.com/m/)
+  - [`ThreadPoolExecutor` 동작에 관한 오해](https://dkswnkk.tistory.com/m/745)
+  - [단방향 `@OneToMany`의 문제점](http://dkswnkk.tistory.com/m/756)
+  - [\[JPA\] deleteAll(), deleteAllInBatch(), deleteInBatch() 정리](https://dkswnkk.tistory.com/m/757)
+  <!-- END: dkswnkk -->
+- [`devel-repository` / 알아두면 쓸만한 개발 잡학사전](https://devel-repository.tistory.com/m/)
+  - [spring scheduler task에 shedlock + redis 적용방법](https://devel-repository.tistory.com/m/66)
+  <!-- END: devel-repository -->
+- [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
+  - [\[Spring Boot\] Mapping 종류](https://findsilverlining.tistory.com/m/111)
+  - [\[Spring Boot\] IoC, DI, AOP 정리](https://findsilverlining.tistory.com/m/112)
+  - [\[Spring Boot\] 디렉터리 패키지 구조 - 도메인형, 계층형](https://findsilverlining.tistory.com/m/113)
+  <!-- END: findsilverlining -->
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
+  - [\[1년 후 마실가실\] Entity 수정](https://hj0216.tistory.com/m/931)
+  - [\[1년 후 마실가실\] REST API 구현](https://hj0216.tistory.com/m/932)
+  - [\[1년 후 마실가실\] Test Code 작성](https://hj0216.tistory.com/m/933)
+  - [\[1년 후 마실가실\] JWT 공부](https://hj0216.tistory.com/m/935)
+  - [\[해결방법\] `EmptyResultDataAccessException`](https://hj0216.tistory.com/m/936)
+  <!-- END: hj0216 -->
+
+<!-- END: tistory.com -->
 
 ### 비탐인
 
@@ -201,30 +253,9 @@ head:
 
 - [Spring Boot 테스트 애노테이션](https://catsbi.oopy.io/e2fa9884-eb59-4f79-8732-6e3e14e456fd)
 
-### Seungdols Company
-
-- [스프링 핵심 원리 기본편 강의 - 싱글톤](https://seungdols.tistory.com/1012)
-- [스프링 핵심 원리 기본편 강의 - 스프링](https://seungdols.tistory.com/1013)
-- [스프링 핵심 원리 기본편 강의 - Bean scope & Bean lifecycle](https://seungdols.tistory.com/1014)
-- [스프링 핵심 원리 기본편 강의 - Bean Definition](https://seungdols.tistory.com/1015)
-- [스프링 핵심 원리 기본편 강의 - `ComponentScan`과 의존 관계 자동 주입](https://seungdols.tistory.com/1016)
-
 ### 기계인간 John Grib
 
 - [릴리즈 트레인 (Release Train)](https://johngrib.github.io/wiki/spring/cloud/release-train/)
-
-### 데엔잘하고싶은데엔🔥💎
-
-- [Spring Boot Actuator로 메모리 이슈 모니터링하기](https://pearlluck.tistory.com/801)
-- [[강의] 유데미 Spring Boot 강의추천 (Spring 개념, Ioc/DI/Beans/Component/Autowired)](https://pearlluck.tistory.com/802)
-
-### Enthusiastically, Steady, Slowly
-
-- [Top 10 REST Interview Questions for Java and Spring Developers(Java와 Spring 개발자를 위한 10개의 REST 면접 질문)](https://rutgo-letsgo.tistory.com/m/entry/Top-10-REST-Interview-Questions-for-Java-and-Spring-DevelopersJava%EC%99%80-Spring-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%9C%EC%9D%98-REST-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8)
-
-### Octoping
-
-- [[번역] Spring Topical Guides - Spring Boot Docker](https://octoping.tistory.com/58)
 
 ### 강준현
 
@@ -234,25 +265,6 @@ head:
 - [Spring Expression Language](https://junhyunny.github.io/spring/spring-expression-language/)
 - [JCP(Java Community Process)/JSRs(Java Specification Requests)](https://junhyunny.github.io/java/java-community-process-and-java-specification-requests/)
 - [Is Chrome's default SameSite policy safe against CSRF?](https://junhyunny.github.io/spring-boot/spring-security/security/is-chrome-samesite-policy-safe-against-csrf/)
-
-### 연로그
-
-- [[Spring] `ReactiveCrudRepository`를 이용한 삭제 시 주의점](https://yeonyeon.tistory.com/329)
-
-### 몽상실현개발주의
-
-- [SpringBoot VO 와 DTO](https://leeiopd.tistory.com/m/entry/SpringBoot-VO-%EC%99%80-DTO)
-- [Spring Boot에서 의존성 주입: `@Bean`과 `@Autowired`의 이해](https://leeiopd.tistory.com/m/entry/Spring-Boot%EC%97%90%EC%84%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-Bean%EA%B3%BC-Autowired%EC%9D%98-%EC%9D%B4%ED%95%B4)
-- [Lombok in Spring Framework](https://leeiopd.tistory.com/m/entry/Lombok-in-Spring-Framework)
-
-### JuHyeong.dev
-
-- [`ThreadPoolExecutor` 동작에 관한 오해](https://dkswnkk.tistory.com/745)
-- [단방향 `@OneToMany`의 문제점](http://dkswnkk.tistory.com/m/756)
-
-### 알아두면 쓸만한 개발 잡학사전
-
-- [spring scheduler task에 shedlock + redis 적용방법](https://devel-repository.tistory.com/66)
 
 ### 북극 펭귄
 
@@ -456,6 +468,7 @@ head:
 - [11.7. 책 목록 기능 확인하기](https://ysedeveloper.tistory.com/m/entry/117-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 - [12.1. 책 기록 개요](https://ysedeveloper.tistory.com/m/entry/121-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EA%B0%9C%EC%9A%94)
 - [12.2. 책 기록 엔티티 만들기](https://ysedeveloper.tistory.com/m/entry/122-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [12.3. 책 기록 리포지터리 인터페이스 만들기](https://ysedeveloper.tistory.com/m/entry/123-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%84%B0%EB%A6%AC-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -541,16 +554,6 @@ head:
 ### 복세편살
 
 - [spring boot 3.2에서 HTTP 통신하는 방법 아는 체하기](https://americanopeople.tistory.com/m/457)
-
-### 이모저모 개발 블로그
-
-- [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
-- [\[1년 후 마실가실\] Entity 수정](https://hj0216.tistory.com/m/931)
-- [\[1년 후 마실가실\] REST API 구현](https://hj0216.tistory.com/m/932)
-- [\[1년 후 마실가실\] Test Code 작성](https://hj0216.tistory.com/m/933)
-- [\[1년 후 마실가실\] JWT 공부](https://hj0216.tistory.com/m/935)
-
-<!-- END: hj0216.tistory.com -->
 
 ### @mjin
 

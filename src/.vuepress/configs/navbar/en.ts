@@ -313,8 +313,10 @@ export const navbarEn = navbar([
         children: [
           '/devops/linux-debian/README.md',
           '/devops/linux-debian/ubuntu/README.md',
-          '/devops/linux-debian/kali-linux/README.md',
+          '/devops/linux-debian/kali/README.md',
+          '/devops/linux-debian/parrot/README.md',
           '/devops/linux-debian/alpine/README.md',
+          '/devops/linux-debian/turenas/README.md',
           '/devops/linux-debian/raspberry-pi/README.md',
         ]
       }, {
@@ -322,6 +324,7 @@ export const navbarEn = navbar([
         children: [
           '/devops/linux-fedora/README.md',
           '/devops/linux-fedora/centos/README.md',
+          '/devops/linux-fedora/rocky/README.md',
         ]
       }, {
         text: 'Linux - NixOS',

@@ -1131,11 +1131,18 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   preview="https://appsforapplevision.com/images/og-image.jpeg"/>
 
 <SiteInfo
-  name="데보션 (DEVOCEAN) 기술 블로그 & 커뮤니티"
-  desc="데보션 (DEVOCEAN) 기술 블로그, 개발자 커뮤니티이자 내/외부 소통과 성장 플랫폼"
-  url="https://devocean.sk.com/blog/index.do"
-  logo="https://devocean.sk.com/resource/images/external/logo/logo_favicon.ico"
-  preview="https://devocean.sk.com/resource/images/external/logo/devocean-og.png"/>
+  name="Dev.java: The Destination for Java Developers"
+  desc="The Destination for Java Developers"
+  url="https://dev.java/"
+  logo="https://dev.java/favicon.ico"
+  preview="https://dev.java/assets/images/java-logo-vert-blk.png"/>
+
+<SiteInfo
+  name="Cloud, DevOps & SRE Guidance | Build5Nines"
+  desc="All about the Microsoft Cloud! Articles, Tutorials, Videos, Books, and more! Voted the #1 Microsoft Azure blog to follow!"
+  url="https://build5nines.com/"
+  logo="https://i0.wp.com/build5nines.com/wp-content/uploads/2020/08/image.jpg?fit=192%2C192&ssl=1"
+  preview="https://i0.wp.com/build5nines.com/wp-content/uploads/2024/05/Build5Nines_Featured_Image_full_20240507.jpg"/>
 
 <!-- END: Tech Blog -->
 
@@ -1487,6 +1494,13 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   url="https://ridicorp.com/story-category/tech-blog/"
   logo="https://ridicorp.com/wp-content/uploads/2022/03/cropped-favicon-512x512-1-192x192.png"
   preview="https://ridicorp.com/wp-content/uploads/2022/03/metaimage_ridi-crop.png"/>
+
+<SiteInfo
+  name="데보션 (DEVOCEAN) 기술 블로그 & 커뮤니티"
+  desc="데보션 (DEVOCEAN) 기술 블로그, 개발자 커뮤니티이자 내/외부 소통과 성장 플랫폼"
+  url="https://devocean.sk.com/blog/index.do"
+  logo="https://devocean.sk.com/resource/images/external/logo/logo_favicon.ico"
+  preview="https://devocean.sk.com/resource/images/external/logo/devocean-og.png"/>
 
 <!-- END: Tech Blog (Korea) -->
 

@@ -83,6 +83,8 @@ tag:
 - [`@2fEJ` / \[PM/PO 특강: UX 디자인 프레임워크\]](https://brunch.co.kr/@@2fEJ/1453)
 - [`@2fEJ` / \[PM/PO 강의 특강: 사용성 법칙\]](https://brunch.co.kr/@@2fEJ/1452)
 - [`@2fEJ` / \[PM/PO 강의 특강: 인지심리학\]](https://brunch.co.kr/@@2fEJ/1451)
+- [`@2fEJ` / \[PM/PO 특강: 사용성 테스트\]](https://brunch.co.kr/@@2fEJ/1454)
+- [`@2fEJ` / \[PM/PO 특강\] 휴리스틱 평가](https://brunch.co.kr/@@2fEJ/1455)
 
 <!-- END: brunch.co.kr -->
 

@@ -22,6 +22,7 @@ head:
       content: "Project 33: What's that Whistle?"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/33/overview.html
+prev: /explore/articles/hackingwithswift.com/read/32/05-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,95 @@ Build a crowd-sourced song recognition app using Apple's free platform as a serv
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/33/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Recording from the microphone with AVAudioRecorder | Hacking with iOS",
+  "desc": "Recording from the microphone with AVAudioRecorder",
+  "link": "/explore/articles/hackingwithswift.com/read/33/02-recording-from-the-microphone-with-avaudiorecorder.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Animating UIStackView subview layout | Hacking with iOS",
+  "desc": "Animating UIStackView subview layout",
+  "link": "/explore/articles/hackingwithswift.com/read/33/03-animating-uistackview-subview-layout.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Writing to iCloud with CloudKit: CKRecord and CKAsset | Hacking with iOS",
+  "desc": "Writing to iCloud with CloudKit: CKRecord and CKAsset",
+  "link": "/explore/articles/hackingwithswift.com/read/33/04-writing-to-icloud-with-cloudkit-ckrecord-and-ckasset.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "A hands-on guide to the CloudKit dashboard | Hacking with iOS",
+  "desc": "A hands-on guide to the CloudKit dashboard",
+  "link": "/explore/articles/hackingwithswift.com/read/33/05-a-hands-on-guide-to-the-cloudkit-dashboard.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Reading from iCloud with CloudKit: CKQueryOperation and NSPredicate | Hacking with iOS",
+  "desc": "Reading from iCloud with CloudKit: CKQueryOperation and NSPredicate",
+  "link": "/explore/articles/hackingwithswift.com/read/33/06-reading-from-icloud-with-cloudkit-ckqueryoperation-and-nspredicate.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Working with CloudKit records: CKRecord.Reference, fetch(withRecordID:), and save() | Hacking with iOS",
+  "desc": "Working with CloudKit records: CKRecord.Reference, fetch(withRecordID:), and save()",
+  "link": "/explore/articles/hackingwithswift.com/read/33/07-working-with-cloudkit-records-ckrecordreference-fetchwithrecordid-and-save.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Delivering notifications with CloudKit push messages: CKQuerySubscription | Hacking with iOS",
+  "desc": "Delivering notifications with CloudKit push messages: CKQuerySubscription",
+  "link": "/explore/articles/hackingwithswift.com/read/33/08-delivering-notifications-with-cloudkit-push-messages-ckquerysubscription.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/33/09-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

@@ -22,6 +22,7 @@ head:
       content: "Project 29: Exploding Monkeys"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/29/overview.html
+prev: /explore/articles/hackingwithswift.com/read/28/05-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,65 @@ Remake a classic DOS game and learn about destructible terrain and scene transit
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/29/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Building the environment: SKTexture and filling a path | Hacking with iOS",
+  "desc": "Building the environment: SKTexture and filling a path",
+  "link": "/explore/articles/hackingwithswift.com/read/29/02-building-the-environment-sktexture-and-filling-a-path.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Mixing UIKit and SpriteKit: UISlider and SKView | Hacking with iOS",
+  "desc": "Mixing UIKit and SpriteKit: UISlider and SKView",
+  "link": "/explore/articles/hackingwithswift.com/read/29/03-mixing-uikit-and-spritekit-uislider-and-skview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Unleash the bananas: SpriteKit texture atlases | Hacking with iOS",
+  "desc": "Unleash the bananas: SpriteKit texture atlases",
+  "link": "/explore/articles/hackingwithswift.com/read/29/04-unleash-the-bananas-spritekit-texture-atlases.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Destructible terrain: presentScene() | Hacking with iOS",
+  "desc": "Destructible terrain: presentScene()",
+  "link": "/explore/articles/hackingwithswift.com/read/29/05-destructible-terrain-presentscene.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/29/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

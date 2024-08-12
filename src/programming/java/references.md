@@ -125,6 +125,8 @@ tag:
 - [`@qkrtkdwns3410` / \[알고리즘 1058\] 친구](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1058-%EC%B9%9C%EA%B5%AC)
 - [`@qkrtkdwns3410` / \[알고리즘 1068\] 트리](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1068-%ED%8A%B8%EB%A6%AC)
 - [`@dongha1992` / 99클럽 코테 스터디 20일차 TIL - 그리디](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-20%EC%9D%BC%EC%B0%A8-TIL-%EA%B7%B8%EB%A6%AC%EB%94%94)
+- [`@dongha1992` / 99클럽 코테 스터디 21일차 TIL - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-21%EC%9D%BC%EC%B0%A8-TIL-DP)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 객체 지향 설계 과정](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-%EA%B3%BC%EC%A0%95)
 
 <!-- END: velog.io java -->
 
@@ -191,6 +193,30 @@ tag:
   - [[Test] `static` 블록 vs `@BeforeClass`](https://shout-to-my-mae.tistory.com/413)
   - [Java가 확장한 객체 지향 (`abstract`, 생성자, `static`, `final`, `this`, `super`)](https://shout-to-my-mae.tistory.com/414)
   - [스프링 삼각형 : IoC(제어의 역전) / DI(의존성 주입)](https://shout-to-my-mae.tistory.com/425)
+- [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
+  - [\[백준\] 2018번: 수들의 합 5 - java](https://findsilverlining.tistory.com/m/97)
+  - [\[백준\] 1546번: 평균 - java](https://findsilverlining.tistory.com/m/96)
+  - [\[백준\] 11720번: 숫자의 합 - java](https://findsilverlining.tistory.com/m/95)
+  - [\[백준\] 11659번: 구간 합 구하기 4 - java](https://findsilverlining.tistory.com/m/98)
+  - [\[백준\] 1717번: 집합의 표현 - java](https://findsilverlining.tistory.com/m/99)
+  - [\[프로그래머스\] 두 개 뽑아서 더하기 - java](https://findsilverlining.tistory.com/m/104)
+  - [\[프로그래머스\] 모의고사 - java](https://findsilverlining.tistory.com/m/105)
+  - [\[프로그래머스\] 올바른 괄호 - java](https://findsilverlining.tistory.com/m/106)
+  - [\[프로그래머스\] 괄호 회전하기 - java](https://findsilverlining.tistory.com/m/107)
+  - [\[프로그래머스\] 짝지어 제거하기 - java](https://findsilverlining.tistory.com/m/108)
+  - [\[프로그래머스\] 기능개발 - java](https://findsilverlining.tistory.com/m/109)
+  - [\[프로그래머스\] 완주하지 못한 선수 - java](https://findsilverlining.tistory.com/m/110)
+  <!-- END: findsilverlining -->
+- [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
+  - [Java에서 외부 프로그램 실행하기](https://backend-jaamong.tistory.com/m/172)
+  - [\[Java\] new Integer와 Integer.valueOf()의 차이점](https://backend-jaamong.tistory.com/m/174)
+  <!-- END: backend-jaamong -->
+- [`jakpentest` / 뭐라도 해야 한다면 기록을 하자](https://jakpentest.tistory.com/m/)
+  - [[Programmers] 코딩 테스트 입문 - 배열관련 문제들 (with Java)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%B0%B0%EC%97%B4%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C%EB%93%A4-with-Java)
+  - [\[Programmers\]\[Java\] 모음 제거](https://jakpentest.tistory.com/m/entry/ProgrammersJava-%EB%AA%A8%EC%9D%8C-%EC%A0%9C%EA%B1%B0)
+  <!-- END: jakpentest -->
+
+<!-- END: tistory.com -->
 
 ### EastGlow
 
@@ -340,10 +366,6 @@ tag:
 ## 푸르고
 
 - [[DDD] 도메인 엔티티, Domain Entity](https://puleugo.tistory.com/187)
-
-### 뭐라도 해야 한다면 기록을 하자
-
-- [[Programmers] 코딩 테스트 입문 - 배열관련 문제들 (with Java)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%B0%B0%EC%97%B4%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C%EB%93%A4-with-Java)
 
 ## Enthusiastically, Steady, Slowly
 
@@ -515,6 +537,7 @@ tag:
 
 - [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
 - [TreeMap in Java: A Must-Know Data Structure](https://igorstechnoclub.com/java-treemap/)
+- [5 Java JUnit 5 Features I Wish I Knew Earlier](https://igorstechnoclub.com/java-junit5-new-features/)
 
 ### JuHyeong.dev
 
@@ -564,10 +587,6 @@ tag:
 
 - [My attempt to understand why people perceive Java as complex](https://www.sivalabs.in/my-attempt-to-understand-why-people-perceive-java-as-complex/)
 
-### 개발하는 자몽
-
-- [Java에서 외부 프로그램 실행하기](https://backend-jaamong.tistory.com/m/172)
-
 ### Minty Box
 
 - [테스트 작성 부담감 극복하기 - POJO와 통합 테스트 중심의 전략](https://shout-to-my-mae.tistory.com/m/435)
@@ -575,21 +594,6 @@ tag:
 ### Clean Coder Blog
 
 [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
-
-### 무너지기직전
-
-- [\[백준\] 2018번: 수들의 합 5 - java](https://findsilverlining.tistory.com/m/97)
-- [\[백준\] 1546번: 평균 - java](https://findsilverlining.tistory.com/m/96)
-- [\[백준\] 11720번: 숫자의 합 - java](https://findsilverlining.tistory.com/m/95)
-- [\[백준\] 11659번: 구간 합 구하기 4 - java](https://findsilverlining.tistory.com/m/98)
-- [\[백준\] 1717번: 집합의 표현 - java](https://findsilverlining.tistory.com/m/99)
-- [\[프로그래머스\] 두 개 뽑아서 더하기 - java](https://findsilverlining.tistory.com/m/104)
-- [\[프로그래머스\] 모의고사 - java](https://findsilverlining.tistory.com/m/105)
-- [\[프로그래머스\] 올바른 괄호 - java](https://findsilverlining.tistory.com/m/106)
-- [\[프로그래머스\] 괄호 회전하기 - java](https://findsilverlining.tistory.com/m/107)
-- [\[프로그래머스\] 짝지어 제거하기 - java](https://findsilverlining.tistory.com/m/108)
-
-<!-- END: findsilverlining.tistory.com -->
 
 ### Event-Driven by Oskar Dudycz
 
@@ -608,6 +612,10 @@ tag:
 - [`java.util.HashSet`](https://johngrib.github.io/wiki/java/hashset/)
 - [`java.util.HashMap`](https://johngrib.github.io/wiki/java/hashmap/)
 - [Java 버전별 변경점](https://johngrib.github.io/wiki/java/enhancements/)
+
+### Dev.java: The Destination for Java Developers
+
+- [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
 
 ---
 

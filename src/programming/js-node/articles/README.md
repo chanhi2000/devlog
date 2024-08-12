@@ -13,6 +13,7 @@ tag:
   - digitalocean.com
   - smashingmagazine.com
   - learnk8s.io
+  - tecmint.com
   - sitepoint.com
   - devtoolstips.org
   - yozm.wishket.com
@@ -70,6 +71,20 @@ head:
   "background": "rgba(211,58,44,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Learnk8s — the Kubernetes training company"
+  desc="We help you get started on your Kubernetes journey through comprehensive online, in person or remote training."
+  url="https://learnk8s.io/archive"
+  logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
+  preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
+
+<SiteInfo
+  name="Tecmint: Linux Howtos, Tutorials & Guides"
+  desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
+  url="https://tecmint.com/"
+  logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
+  preview="https://tecmint.com/wp-content/uploads/2022/06/tecmint-linux-blog.png"/>
 
 ```component VPCard
 {
@@ -453,6 +468,24 @@ head:
 ```
 
 <!-- END: learnk8s.io -->
+
+---
+
+## Tecmint: Linux Howtos, Tutorials & Guides
+
+> tecmint.com
+
+```component VPCard
+{
+  "title": "How to Minify CSS and JS Files Using Linux Command Line",
+  "desc": "This article will guide you through the process of minifying CSS and JS files using the Linux command line interface (CLI) with UglifyJS and UglifyCSS tools.",
+  "link": "/explore/articles/tecmint.com/minify-css-and-js-files-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+<!-- END: tecmint.com -->
 
 ---
 

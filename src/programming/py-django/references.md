@@ -29,7 +29,8 @@ tag:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
-- [Django Model Relations(Tracking the models)](https://awstip.com/django-model-relations-tracking-the-models-c03a65e8d76e)
+- [`awstip` / Django Model Relations(Tracking the models)](https://awstip.com/django-model-relations-tracking-the-models-c03a65e8d76e)
+- [`lemonbase` / 배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례](https://blog.lemonbase.team/%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B8%89%EC%83%81%EC%8A%B9%ED%95%98%EB%8A%94-api-latency-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-django-gunicorn-%EC%82%AC%EB%A1%80-7f7a1da7b0aa)
 
 ---
 

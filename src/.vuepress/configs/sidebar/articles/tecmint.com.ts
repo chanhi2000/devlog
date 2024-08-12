@@ -13,6 +13,14 @@ export const template: SidebarInfoTemplate = {
       'synchronize-time-with-ntp-in-linux', // 2022-11-15
       'mtr-a-network-diagnostic-tool-for-linux', // 2023-07-13
       'whowatch-monitor-linux-users-and-processes-in-real-time', // 2023-07-14
+      'configure-firewalld-rhel-rocky-almalinux', // 2024-07-30
+      'use-next-command-with-awk-in-linux', // 2024-08-07
+      'find-files-by-extension-in-linux', // 2024-08-07
+      'sync-new-changed-modified-files-rsync-linux', // 2024-08-08
+      'read-awk-input-from-stdin-in-linux', // 2024-08-09
+    ]],[
+    "js-node", [
+      'minify-css-and-js-files-linux', // 2024-08-01
     ]],[
     "windows", [
       'install-windows-subsystem-for-linux', // 2020-09-18
@@ -24,6 +32,8 @@ export const template: SidebarInfoTemplate = {
       'synchronize-time-with-ntp-in-linux', // 2022-11-15
       'mtr-a-network-diagnostic-tool-for-linux', // 2023-07-13
       'whowatch-monitor-linux-users-and-processes-in-real-time', // 2023-07-14
+      'home-media-streaming-server-using-plex-with-truenas', // 2024-07-31
+      'parrot-os-security-linux', // 2024-08-08
     ]],[
     "linux-fedora", [
       'bashtop-linux-resource-monitoring-tool', // 2020-08-07
@@ -31,9 +41,14 @@ export const template: SidebarInfoTemplate = {
       'synchronize-time-with-ntp-in-linux', // 2022-11-15
       'mtr-a-network-diagnostic-tool-for-linux', // 2023-07-13
       'whowatch-monitor-linux-users-and-processes-in-real-time', // 2023-07-14
+      'configure-firewalld-rhel-rocky-almalinux', // 2024-07-30
     ]],[
     "nginx", [
       'create-nginx-server-blocks-in-centos', // 2022-02-07
+    ]],[
+    "awk", [
+      'use-next-command-with-awk-in-linux', // 2024-08-07
+      'read-awk-input-from-stdin-in-linux', // 2024-08-09
     ]],[
     "all", [
       'bashtop-linux-resource-monitoring-tool', // 2020-08-07
@@ -43,6 +58,14 @@ export const template: SidebarInfoTemplate = {
       'synchronize-time-with-ntp-in-linux', // 2022-11-15
       'mtr-a-network-diagnostic-tool-for-linux', // 2023-07-13
       'whowatch-monitor-linux-users-and-processes-in-real-time', // 2023-07-14
+      'configure-firewalld-rhel-rocky-almalinux', // 2024-07-30
+      'home-media-streaming-server-using-plex-with-truenas', // 2024-07-31
+      'minify-css-and-js-files-linux', // 2024-08-01
+      'use-next-command-with-awk-in-linux', // 2024-08-07
+      'find-files-by-extension-in-linux', // 2024-08-07
+      'parrot-os-security-linux', // 2024-08-08
+      'sync-new-changed-modified-files-rsync-linux', // 2024-08-08
+      'read-awk-input-from-stdin-in-linux', // 2024-08-09
     ]],
   ])
 }

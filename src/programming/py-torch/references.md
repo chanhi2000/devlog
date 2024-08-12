@@ -97,7 +97,7 @@ head:
 
 ## Learn Data Science and AI Online | DataCamp
 
-- [PyTorch Lightning: A Comprehensive Hands-On Tutorial](https://www.datacamp.com/tutorial/pytorch-lightning-tutorial)
+- [PyTorch Lightning: A Comprehensive Hands-On Tutorial](https://datacamp.com/tutorial/pytorch-lightning-tutorial)
 
 ---
 

@@ -195,5 +195,12 @@
     "topics": ["api-documentation", "app", "devdocs", "developer-tools", "docs", "documentation", "documentation-tool", "hacktoberfest", "offline", "pwa"],
     "avatar": "https://avatars.githubusercontent.com/u/9892522?v=4",
     "banner": ""
+  }, {
+    "repo": "mawise/bookshelf",
+    "desc": "3D animated bookshelf for ebooks",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/3422894?v=4",
+    "banner": ""
   }
 ]

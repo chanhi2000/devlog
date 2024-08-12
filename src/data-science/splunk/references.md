@@ -31,6 +31,7 @@ head:
 - [Splunk의 검색 필드 처리 순서](https://kangmyounghun.blogspot.com/2024/06/splunk.html)
 - [Splunk의 `eval`과 `rex` - 4th](https://kangmyounghun.blogspot.com/2024/06/splunk-eval-rex-4th.html)
 - [스플렁크 위주로 해주세요](https://kangmyounghun.blogspot.com/2024/08/blog-post.html)
+- [Splunk의 dedup](https://kangmyounghun.blogspot.com/2024/08/splunk-dedup.html)
 
 ---
 

@@ -452,7 +452,7 @@ head:
 
 ```component VPCard
 {
-  "title": "What if you used Container Units for… everything?"
+  "title": "What if you used Container Units for… everything?",
   "desc": "I said to myself I said what if I used container units for every single unit in a design? I was wondering, partially because I thought the answer might be well, everything will probably scale really nicely then. Container units, in case you haven’t heard of them, are unit (like px or rem, but more […]",
   "link": "/explore/articles/frontendmasters.com/what-if-you-used-container-units-for-everything.md",
   "logo": "https://frontendmasters.com/favicon.ico",

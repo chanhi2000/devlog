@@ -195,7 +195,7 @@ head:
 - [MFC 프로그래밍 테스트 과제 - Step 6](https://m.blog.naver.com/tipsware/223484562487)
 - [LNK4099 경고](https://m.blog.naver.com/tipsware/223485629126?)
 - [MFC 프로그래밍 테스트 과제 - Step 7](https://m.blog.naver.com/tipsware/223486268700?)
-- [\[Q&A\] ScreenToClient 함수를 사용할 때](https://m.blog.naver.com/tipsware/223487961033?fromRss=true&trackingCode=rss)
+- [\[Q&A\] ScreenToClient 함수를 사용할 때](https://m.blog.naver.com/tipsware/223487961033)
 - [\[Q&A\] 실숫값 출력할 때 소수점 자릿수 지정하기](https://m.blog.naver.com/tipsware/223488659328)
 - [`_fcvt` 함수와 `_fcvt_s` 함수에 대하여](https://m.blog.naver.com/tipsware/223488583942)
 - [StringCbPrintf 함수](https://m.blog.naver.com/tipsware/223491407426)
@@ -212,7 +212,7 @@ head:
 - [\[Q&A\] CString 클래스를 런타임 함수나 API 함수에 사용하려면 어떻게 해야 하나요?](https://m.blog.naver.com/tipsware/223510086450)
 - [\[Q&A\] 64비트에서 저장한 데이터를 32비트에 읽으면 문제가 됩니다.](https://m.blog.naver.com/tipsware/223512940267)
 - [\[Q&A\] CString 클래스를 API 함수에 사용하는 예시도 보고 싶습니다.](https://m.blog.naver.com/tipsware/223512320785)
-- [\[Q&A\] Do it! C 언어 입문 동영상 강좌 17-1에서 오류가 발생합니다.](https://m.blog.naver.com/tipsware/223512976667?fromRss=true&trackingCode=rss)
+- [\[Q&A\] Do it! C 언어 입문 동영상 강좌 17-1에서 오류가 발생합니다.](https://m.blog.naver.com/tipsware/223512976667)
 - [\[LabX\] *.rc 파일에서 원하는 스크립트 정보 분리하기 - Step 2](https://m.blog.naver.com/tipsware/223515947659)
 - [LxMFC - 로그인 기반 채팅 예제 (Socket 프로그래밍)](https://m.blog.naver.com/tipsware/223518473959)
 - [LxMFC - 컴퓨터에 연결된 CAM에서 영상 가져와서 패턴 색상 직접 변경하기](https://m.blog.naver.com/tipsware/223519755297)
@@ -362,9 +362,9 @@ head:
 ## HiGenis
 
 - [TouchGFX 시뮬레이션에서 윈도우 COM 포트 사용하기 예제 코드](https://m.blog.naver.com/chandong83/223477320971)
-- [TouchGFX `CustomContainer`에서 `handleTickEvent` 함수 사용하기](https://m.blog.naver.com/chandong83/223487001959?fromRss=true&trackingCode=rss)
+- [TouchGFX `CustomContainer`에서 `handleTickEvent` 함수 사용하기](https://m.blog.naver.com/chandong83/223487001959)
 - [TouchGFX FlexButton Icon 나타났다 숨겼다 하기](https://m.blog.naver.com/chandong83/223490145191)
-- [TouchGFX TextArea 텍스트 변경 시 길이 변경에 따른 화면 갱신하기](https://m.blog.naver.com/chandong83/223490551115?fromRss=true&trackingCode=rss)
+- [TouchGFX TextArea 텍스트 변경 시 길이 변경에 따른 화면 갱신하기](https://m.blog.naver.com/chandong83/223490551115)
 - [리눅스 `EXPORT_SYMBOL` 의존성 문제 해결하기 unknown symbol xxxfunc (err 0)](https://m.blog.naver.com/chandong83/223492298460)
 
 ---

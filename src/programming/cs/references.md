@@ -610,5 +610,17 @@ head:
 
 ---
 
+## Development Simply Put
+
+- [Unit Testing Best Practices In .NET C#](https://www.developmentsimplyput.com/post/unit-testing-best-practices-in-net-c)
+
+---
+
+## Cloud, DevOps & SRE Guidance | Build5Nines
+
+- [Azure Functions Best Practices for Performance, Reliability and Security](https://build5nines.com/azure-functions-best-practices-for-performance-reliability-and-security/)
+
+---
+
 <TagLinks />
 

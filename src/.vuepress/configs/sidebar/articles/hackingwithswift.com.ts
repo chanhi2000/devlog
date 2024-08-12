@@ -680,30 +680,63 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/29/overview.md',
+              '/explore/articles/hackingwithswift.com/read/29/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/29/02-building-the-environment-sktexture-and-filling-a-path.md',
+              '/explore/articles/hackingwithswift.com/read/29/03-mixing-uikit-and-spritekit-uislider-and-skview.md',
+              '/explore/articles/hackingwithswift.com/read/29/04-unleash-the-bananas-spritekit-texture-atlases.md',
+              '/explore/articles/hackingwithswift.com/read/29/05-destructible-terrain-presentscene.md',
+              '/explore/articles/hackingwithswift.com/read/29/06-wrap-up.md',
             ]
           }, {
             text: 'Project 30: Instruments',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/30/overview.md',
+              '/explore/articles/hackingwithswift.com/read/30/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/30/02-what-are-we-working-with.md',
+              '/explore/articles/hackingwithswift.com/read/30/03-what-can-instruments-tell-us.md',
+              '/explore/articles/hackingwithswift.com/read/30/04-fixing-the-bugs-slow-shadows.md',
+              '/explore/articles/hackingwithswift.com/read/30/05-fixing-the-bugs-wasted-allocations.md',
+              '/explore/articles/hackingwithswift.com/read/30/06-fixing-the-bugs-running-out-of-memory.md',
+              '/explore/articles/hackingwithswift.com/read/30/07-wrap-up.md',
             ]
           }, {
             text: 'Project 31: Multibrowser',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/31/overview.md',
+              '/explore/articles/hackingwithswift.com/read/31/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/31/02-uistackview-by-example.md',
+              '/explore/articles/hackingwithswift.com/read/31/03-adding-views-to-uistackview-with-addarrangedsubview.md',
+              '/explore/articles/hackingwithswift.com/read/31/04-removing-views-from-a-uistackview-with-removearrangedsubview.md',
+              '/explore/articles/hackingwithswift.com/read/31/05-ipad-multitasking.md',
+              '/explore/articles/hackingwithswift.com/read/31/06-wrap-up.md',
             ]
           }, {
             text: 'Project 32: SwiftSearcher',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/32/overview.md',
+              '/explore/articles/hackingwithswift.com/read/32/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/32/02-automatically-resizing-uitableviewcells-with-dynamic-type-and-nsattributedstring.md',
+              '/explore/articles/hackingwithswift.com/read/32/03-how-to-use-sfsafariviewcontroller-to-browse-a-web-page.md',
+              '/explore/articles/hackingwithswift.com/read/32/04-how-to-add-core-spotlight-to-index-your-app-content.md',
+              '/explore/articles/hackingwithswift.com/read/32/05-wrap-up.md',
             ]
           }, {
             text: 'Project 33: What\'s that Whistle?',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/33/overview.md',
+              '/explore/articles/hackingwithswift.com/read/33/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/33/02-recording-from-the-microphone-with-avaudiorecorder.md',
+              '/explore/articles/hackingwithswift.com/read/33/03-animating-uistackview-subview-layout.md',
+              '/explore/articles/hackingwithswift.com/read/33/04-writing-to-icloud-with-cloudkit-ckrecord-and-ckasset.md',
+              '/explore/articles/hackingwithswift.com/read/33/05-a-hands-on-guide-to-the-cloudkit-dashboard.md',
+              '/explore/articles/hackingwithswift.com/read/33/06-reading-from-icloud-with-cloudkit-ckqueryoperation-and-nspredicate.md',
+              '/explore/articles/hackingwithswift.com/read/33/07-working-with-cloudkit-records-ckrecordreference-fetchwithrecordid-and-save.md',
+              '/explore/articles/hackingwithswift.com/read/33/08-delivering-notifications-with-cloudkit-push-messages-ckquerysubscription.md',
+              '/explore/articles/hackingwithswift.com/read/33/09-wrap-up.md',
             ]
           }, {
             text: 'Project 34: Four in a Row',

@@ -50,6 +50,12 @@ head:
 
 ---
 
+## Web and mobile developer | Alex Plescan
+
+- [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
+
+---
+
 ## 기계인간 John Grib
 
 <SiteInfo

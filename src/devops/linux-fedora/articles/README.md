@@ -124,6 +124,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Configure FirewallD in RHEL-based Distributions",
+  "desc": "In newer versions of RHEL-based distributions such as Fedora, Rocky Linux, CentOS Stream, AlmaLinux, and openSUSE - the iptables is being replaced by firewalld.",
+  "link": "/explore/articles/tecmint.com/configure-firewalld-rhel-rocky-almalinux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
 <!-- END: tecmint.com -->
 
 ---

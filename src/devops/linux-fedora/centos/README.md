@@ -2,7 +2,7 @@
 lang: ko-KR
 title: CentOS
 description: CentOS
-icon: iconfont icon-centos
+icon: fa-brands fa-centos
 category:
   - Linux
   - Fedora

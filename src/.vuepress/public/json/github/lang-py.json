@@ -1941,9 +1941,11 @@
     "banner": ""
   }, {
     "repo": "geekan/MetaGPT",
-    "desc": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
-    "topics": ["agent", "gpt", "llm", "metagpt"],
-    "officialSite": ""
+    "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "officialSite": "https://deepwisdom.ai/",
+    "topics": ["agent", "gpt", "hacktoberfest", "llm", "metagpt", "multi-agent"],
+    "avatar": "https://avatars.githubusercontent.com/u/2707039?v=4",
+    "banner": ""
   }, {
     "repo": "InternLM/InternLM",
     "desc": "InternLM has open-sourced 7 and 20 billion parameter base models and chat models.",
@@ -7474,6 +7476,13 @@
     "officialSite": "",
     "topics": ["ai-red-team", "blackhat2023", "blackhat2024", "copilot-for-microsoft-365", "copilotstudio", "defcon30", "hacking", "hacking-tool", "lowcode", "m365", "microsoft365", "nocode", "pentesting", "powerapps", "powerautomate", "redteam", "redteamer", "redteaming", "roboticprocessautomation", "rpa"],
     "avatar": "https://avatars.githubusercontent.com/u/11074433?v=4",
+    "banner": ""
+  }, {
+    "repo": "markuman/sms",
+    "desc": "simple mbtiles server",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/3920157?v=4",
     "banner": ""
   }
 ]

@@ -4597,5 +4597,19 @@
     "topics": ["agentic-framework", "agents", "ai-agents", "ai-agents-framework", "ai-code-review", "ai-software-engineer", "llm", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/47138526?v=4",
     "banner": ""
+  }, {
+    "repo": "shardeum/shardeum",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/98940804?v=4",
+    "banner": ""
+  }, {
+    "repo": "timlrx/tailwind-nextjs-starter-blog",
+    "desc": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
+    "officialSite": "https://tailwind-nextjs-starter-blog.vercel.app/",
+    "topics": ["blogging", "demo-blog", "mdx", "nextjs", "publishing", "reactjs", "tailwind-css"],
+    "avatar": "https://avatars.githubusercontent.com/u/28362229?v=4",
+    "banner": ""
   }
 ]

@@ -51,6 +51,7 @@ head:
 - [`thedeephub` / 50+ Open-Source Options for Running LLMs Locally](https://medium.com/thedeephub/50-open-source-options-for-running-llms-locally-db1ec6f5a54f)
 - [`aksh-garg` / Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 - [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
+- [`jhk0530` / LG의 오픈소스 AI, 엑사원 3.0 사용후기](https://jhk0530.medium.com/lg-exaone-3-0-0e7221db6356?source=rss-cb820693bed5------2)
 
 <!-- END: medium.com -->
 
@@ -464,6 +465,12 @@ head:
 ## Min Hsu
 
 - [Scheduling Model in LLVM - Part I](https://myhsu.xyz/llvm-sched-model-1/)
+
+---
+
+## Chip Huyen
+
+- [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
 
 ---
 

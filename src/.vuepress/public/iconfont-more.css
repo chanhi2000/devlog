@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_vly6fjgbp5.woff2?t=1722993079563') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_vly6fjgbp5.woff?t=1722993079563') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_vly6fjgbp5.ttf?t=1722993079563') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_vly6fjgbp5.svg?t=1722993079563#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_9adf7rsyxrr.woff2?t=1723443126915') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_9adf7rsyxrr.woff?t=1723443126915') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_9adf7rsyxrr.ttf?t=1723443126915') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_9adf7rsyxrr.svg?t=1723443126915#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-almalinux:before { content: "\e96b"; }
+.icon-rockylinux:before { content: "\e96a"; }
+.icon-truenas:before { content: "\e969"; }
+.icon-parrotsecurity:before { content: "\e968"; }
+.icon-linuxmint:before { content: "\e967"; }
+.icon-nuxt:before { content: "\e966"; }
 .icon-icon-polars:before { content: "\e965"; }
 .icon-awesome-list:before { content: "\e964"; }
 .icon-ocaml:before { content: "\e963"; }
@@ -104,7 +110,7 @@
 .icon-claude:before { content: "\e90e"; }
 .icon-hadoop:before { content: "\e90d"; }
 .icon-power-bi:before { content: "\e90c"; }
-.icon-kali-linux:before { content: "\e90b"; }
+.icon-kalilinux:before { content: "\e90b"; }
 .icon-ansible:before { content: "\e90a"; }
 .icon-apachecassandra:before { content: "\e908"; }
 .icon-supabase:before { content: "\e907"; }

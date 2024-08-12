@@ -274,6 +274,9 @@ tag:
 - [`junghan92` / (번역) 웹에서 텍스트 크기 조정에 대해 다시 생각하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0-6ed827589fd9)
 - [`daangn` / 안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
 - [`fourwingsy` / GraphQL을 오해하다](https://fourwingsy.medium.com/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
+- [`@sunyi233` / Netlify cli로 deploy하기](https://medium.com/@sunyi233/netlify-cli%EB%A1%9C-deploy%ED%95%98%EA%B8%B0-2ba73e892285?source=rss-57ff999ab1fc------2)
+
+<!-- END: medium.com -->
 
 ---
 
@@ -334,6 +337,8 @@ tag:
 - [`@ansrjsdn` / Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node. 에러 해결](https://velog.io/@ansrjsdn/Failed-to-execute-removeChild-on-Node-The-node-to-be-removed-is-not-a-child-of-this-node.-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
 - [`surim014` / \[번역\] NPM 패키지 크기 대폭 축소하기](https://velog.io/@surim014/extremely-reducing-the-size-of-npm-packages)
 - [`@leejh3224` / Node.js 서버에서 DB 연결 끊김에 대처하기](https://velog.io/@leejh3224/Node.js-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-DB-%EC%97%B0%EA%B2%B0-%EB%81%8A%EA%B9%80%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EA%B8%B0)
+- [`@ksh4704` / 바닐라-영화소개프로젝트(heropy.js)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8heropy.js)
+- [`@ksh4704` / 바닐라-영화소개프로젝트(1)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81)
 
 <!-- END: velog.io -->
 

@@ -484,6 +484,7 @@ export const sidebarEn = sidebar({
             asb.digitalocean("js-node"), 
             asb.smashingmagazion("js-node"), 
             asb.learnk8s("js-node"),
+            asb.tecmint("js-node"),
             asb.yozm("js-node"),
             asb.kakaoTech("js-node"),
             asb.kakaoEnt("js-node"),
@@ -1510,6 +1511,15 @@ export const sidebarEn = sidebar({
         '/programming/regex/README.md',
         '/programming/regex/tips.md',
         '/programming/regex/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/regex/articles/README.md',
+            asb.freecodecamp("regex"),
+          ]
+        },
       ],
     }, {
       text: 'Markdown',
@@ -1977,6 +1987,15 @@ export const sidebarEn = sidebar({
         '/tool/awk/README.md',
         '/tool/awk/references.md',
         '/tool/awk/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/awk/articles/README.md',
+            asb.tecmint("awk"),
+          ]
+        },
       ]
     }, {
       text: 'wget',
@@ -2206,8 +2225,8 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/windows/articles/README.md',
-            asb.tecmint("windows"),
             asb.learnk8s("windows"),
+            asb.tecmint("windows"),
             asb.yozm("windows"),
           ]
         }
@@ -2231,11 +2250,20 @@ export const sidebarEn = sidebar({
         }, {
           text: 'Kali Linux',
           collapsible: true,
-          icon: 'iconfont icon-kali-linux',
+          icon: 'iconfont icon-kalilinux',
           children: [
-            '/devops/linux-debian/kali-linux/README.md',
-            '/devops/linux-debian/kali-linux/references.md',
-            '/devops/linux-debian/kali-linux/youtube.md',
+            '/devops/linux-debian/kali/README.md',
+            '/devops/linux-debian/kali/references.md',
+            '/devops/linux-debian/kali/youtube.md',
+          ]
+        }, {
+          text: 'Parrot OS',
+          collapsible: true,
+          icon: 'iconfont icon-parrotsecurity',
+          children: [
+            '/devops/linux-debian/parrot/README.md',
+            '/devops/linux-debian/parrot/references.md',
+            '/devops/linux-debian/parrot/youtube.md',
           ]
         }, {
           text: 'Alpine',
@@ -2283,11 +2311,20 @@ export const sidebarEn = sidebar({
         {
           text: 'CentOS',
           collapsible: true,
-          icon: 'fa-brands fa-ubuntu',
+          icon: 'fa-brands fa-centos',
           children: [
             '/devops/linux-fedora/centos/README.md',
             '/devops/linux-fedora/centos/references.md',
             '/devops/linux-fedora/centos/youtube.md',
+          ]
+        },  {
+          text: 'CentOS',
+          collapsible: true,
+          icon: 'iconfont icon-rockylinux',
+          children: [
+            '/devops/linux-fedora/rocky/README.md',
+            '/devops/linux-fedora/rocky/references.md',
+            '/devops/linux-fedora/rocky/youtube.md',
           ]
         }, 
         '/devops/linux-fedora/references.md',

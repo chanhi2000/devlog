@@ -114,4 +114,10 @@ head:
 
 ---
 
+## begriffs
+
+- [User-defined Order in SQL](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
+
+---
+
 <TagLinks />

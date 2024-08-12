@@ -23,6 +23,7 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/30/overview.html
 isOriginal: false
+prev: /explore/articles/hackingwithswift.com/read/29/06-wrap-up.md
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,7 +58,75 @@ Become a bug detective and track down lost memory, slow drawing and more.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/30/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What are we working with? | Hacking with iOS",
+  "desc": "What are we working with?",
+  "link": "/explore/articles/hackingwithswift.com/read/30/02-what-are-we-working-with.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What can Instruments tell us? | Hacking with iOS",
+  "desc": "What can Instruments tell us?",
+  "link": "/explore/articles/hackingwithswift.com/read/30/03-what-can-instruments-tell-us.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Fixing the bugs: slow shadows | Hacking with iOS",
+  "desc": "Fixing the bugs: slow shadows",
+  "link": "/explore/articles/hackingwithswift.com/read/30/04-fixing-the-bugs-slow-shadows.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Fixing the bugs: wasted allocations | Hacking with iOS",
+  "desc": "Fixing the bugs: wasted allocations",
+  "link": "/explore/articles/hackingwithswift.com/read/30/05-fixing-the-bugs-wasted-allocations.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Fixing the bugs: Running out of memory | Hacking with iOS",
+  "desc": "Fixing the bugs: Running out of memory",
+  "link": "/explore/articles/hackingwithswift.com/read/30/06-fixing-the-bugs-running-out-of-memory.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/30/07-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

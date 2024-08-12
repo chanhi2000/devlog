@@ -43,6 +43,9 @@ tag:
 
 - [`@2weV` / 거절을 마주하는 삶. 이를 받아들이는 자세.](https://brunch.co.kr/@@2weV/527)
 - [`@2weV` / 버틴다는 것의 정의](https://brunch.co.kr/@@2weV/536)
+- [`@1W2S` / 100일의 기적? 100일의 기절! - 이성적인 판단으로 아가를 낳을 순 없다.](https://brunch.co.kr/@@1W2S/256)
+
+<!-- END: brunch.co.kr -->
 
 ---
 

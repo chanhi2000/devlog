@@ -218,4 +218,10 @@ head:
 
 ---
 
+## Nikhil S
+
+- [Dissecting Partial Pre Rendering](https://www.nikhilsnayak.dev/blogs/dissecting-partial-pre-rendering)
+
+---
+
 <TagLinks />

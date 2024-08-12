@@ -79,6 +79,7 @@ head:
 
 - [Elixir clustering using Postgres](https://supabase.com/blog/elixir-clustering-using-postgres)
 - [What's new in pgvector v0.7.0](https://supabase.com/blog/pgvector-0-7-0)
+- [`postgres.new`: In-browser Postgres with an AI interface](https://supabase.com/blog/postgres-new)
 
 ---
 

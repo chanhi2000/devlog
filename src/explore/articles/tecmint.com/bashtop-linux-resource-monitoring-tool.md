@@ -58,9 +58,9 @@ cover: https://tecmint.com/wp-content/uploads/2020/08/Bashtop-Linux-Resource-Mon
 
 ```component VPCard
 {
-  "title": "Ubuntu > Article(s)",
+  "title": "Debian > Article(s)",
   "desc": "Article(s)",
-  "link": "/devops/linux-ubuntu/articles/README.md",
+  "link": "/devops/linux-debian/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

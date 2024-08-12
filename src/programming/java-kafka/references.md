@@ -135,23 +135,19 @@ head:
 
 ---
 
-## 6161990
+## tistory
 
-- [Commit 실패된 메세지 Producer 가 책임질래 Consumer 가 책임질래](https://6161990src.tistory.com/m/147)
-- [SpringKafka Consumer 설정값으로 요리조리 테스트 해보기](https://6161990src.tistory.com/m/148)
-
----
-
-## 시뻘건 개발 도전기
-
-- [Apache Kafka의 탄생 배경과 왜 사용해야하는가?](https://maeng-dev.tistory.com/m/158)
-- [아파치 카프카란?](https://maeng-dev.tistory.com/m/159)
-
----
-
-## 튼튼발자 개발 성장기🏋️
-
-- [카프카 클라이언트](https://maeng-dev.tistory.com/m/160)
+- [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
+  - [Commit 실패된 메세지 Producer 가 책임질래 Consumer 가 책임질래](https://6161990src.tistory.com/m/147)
+  - [SpringKafka Consumer 설정값으로 요리조리 테스트 해보기](https://6161990src.tistory.com/m/148)
+  <!-- END: 6161990src -->
+- [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
+  - [Apache Kafka의 탄생 배경과 왜 사용해야하는가?](https://maeng-dev.tistory.com/m/158)
+  - [아파치 카프카란?](https://maeng-dev.tistory.com/m/159)
+  - [카프카 클라이언트](https://maeng-dev.tistory.com/m/160)
+  - [카프카 스트림즈](https://maeng-dev.tistory.com/m/161)
+  <!-- END: maeng-dev -->
+<!-- END: tistory.com -->
 
 ---
 

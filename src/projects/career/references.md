@@ -284,6 +284,7 @@ tag:
 - [`@2YWz` / 글로벌 데이터 엔지니어링 인재 육성 - 8주 집중 실무 인턴십 프로그램](https://brunch.co.kr/@@2YWz/119)
 - [`@ZVA` / 나이키 DTC와 데이터 드리븐 전략은 왜 실패했는가?](https://brunch.co.kr/@@ZVA/713)
 - [`@3L0s` / DX 실행: 생산공정의 디지털화 개념 - 디지털 혁신-17](https://brunch.co.kr/@@3L0s/120)
+- [`@2rV` / Perplexity 창업자가 바라본 빅테크 창업자 - 구글, 메타, 아마존, 테슬라 창업자, 엔비디아 젠슨 황에 대하여](https://brunch.co.kr/@@2rV/161)
 
 <!-- END: brunch.co.kr -->
 
@@ -928,6 +929,7 @@ tag:
 - [리더십의 리더 – Global Maximum을 위한 리더의 목표와 결과](http://www.chidoo.me/index.php/2024/07/21/objectives-for-global-maximum-in-leadership/)
 - [리더의 리더십 – 성장을 위한 실패 관리](http://www.chidoo.me/index.php/2024/07/29/fast-fail-and-small-fail-in-leadership/)
 - [리더의 리더십 – 심리적 안정 vs. 안전](http://www.chidoo.me/index.php/2024/08/04/psychological-safety-in-leadership/)
+- [리더십의 안전감 – Comfort Zone](https://chidoo.me/index.php/2024/08/12/comfort-zone-in-leadership/)
 
 <!-- END: chidoo.me -->
 

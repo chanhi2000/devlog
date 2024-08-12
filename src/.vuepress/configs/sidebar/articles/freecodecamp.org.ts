@@ -48,6 +48,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-send-http-requests-using-javascript", // 2024-07-10
       "learn-asynchronous-javascript", // 2024-07-11
       "build-a-bitcoin-to-usd-calculator", // 2024-07-22
+      "how-to-match-parentheses-in-javascript-without-using-regex", // 2024-08-12
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -109,6 +110,7 @@ export const template: SidebarInfoTemplate = {
       "react-context-api-tutorial-examples", // 2024-07-22
       "build-a-sticky-notes-app-with-react-and-appwrite", // 2024-07-25
       "react-common-mistakes", // 2024-08-06
+      "relative-vs-dynamic-routing-in-react", // 2024-08-12
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -251,6 +253,9 @@ export const template: SidebarInfoTemplate = {
     "hs", [
       "how-to-use-pandoc", // 2024-07-09
     ]],[
+    "regex", [
+      "how-to-match-parentheses-in-javascript-without-using-regex", // 2024-08-12
+    ]],[
     "github", [
       "create-personalized-github-profile-page", // 2024-05-01
       "how-to-become-an-open-source-maintainer", // 2024-05-20
@@ -287,6 +292,7 @@ export const template: SidebarInfoTemplate = {
       "upload-large-files-with-aws", // 2024-07-08
       "prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification", // 2024-07-09
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
+      "ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown", // 2024-08-12
     ]],[
     "azure", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -592,6 +598,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-an-ai-model-for-predicting-data-with-python", // 2024-08-08
       "typescript-for-beginners-guide", // 2024-08-08
       "how-java-hashmaps-work-internal-mechanics-explained", // 2024-08-09
+      "relative-vs-dynamic-routing-in-react", // 2024-08-12
+      "ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown", // 2024-08-12
+      "how-to-match-parentheses-in-javascript-without-using-regex", // 2024-08-12
     ]],
   ]),
 }

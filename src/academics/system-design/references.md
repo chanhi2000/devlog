@@ -217,6 +217,10 @@ head:
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 객체](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EA%B0%9D%EC%B2%B4)
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 의존](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%9D%98%EC%A1%B4)
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 캡슐화](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%BA%A1%EC%8A%90%ED%99%94)
+- [`@joshuara7235` / 2024년 인프콘 후기 - #1 지속가능한 설계를 만들어 가는 방법](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-1-%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%84%A4%EA%B3%84%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4-%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- [`@joshuara7235` / 2024년 인프콘 후기 - #2 인프런 아키텍쳐 2024 ~ 2025](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-2-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-2024-2025-e9sj66sj)
+- [`@joshuara7235` / 2024년 인프콘 후기 - #3 경력이 늘수록 CS 이론이 중요해지는 이유](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-3-%EA%B2%BD%EB%A0%A5%EC%9D%B4-%EB%8A%98%EC%88%98%EB%A1%9D-CS-%EC%9D%B4%EB%A1%A0%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%B4%EC%A7%80%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+- [`@joshuara7235` / 2024년 인프콘 후기 - #5 객체지향은 여전히 유용한가](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-5-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%80-%EC%97%AC%EC%A0%84%ED%9E%88-%EC%9C%A0%EC%9A%A9%ED%95%9C%EA%B0%80)
 
 <!-- END: velog.io -->
 
@@ -281,6 +285,8 @@ head:
 - [`@keartt` / 도메인이 뭔가요?](https://until.blog/@keartt/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94-)
 - [`@thingk0` / 내가 쓰려고 만든 RestfulAPI 설계 규칙 !](https://until.blog/@thingk0/%EB%82%B4%EA%B0%80-%EC%93%B0%EB%A0%A4%EA%B3%A0-%EB%A7%8C%EB%93%A0-restfulapi-%EC%84%A4%EA%B3%84-%EA%B7%9C%EC%B9%99--)
 
+<!-- END: until.blog -->
+
 ---
 
 ## Substack
@@ -292,6 +298,9 @@ head:
 - [`techworld-with-milan` / Mastering the Art of Software Architecture Documentation](https://newsletter.techworld-with-milan.com/p/documenting-software-architectures)
 - [`wasteman.codes` / Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 - [`codingconfessions` / How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
+- [`frest` / Distributed == Relational](https://frest.substack.com/p/distributed-relational)
+
+<!-- END: substack.com -->
 
 ---
 
@@ -391,6 +400,7 @@ head:
 ## Architecture 101 | http://www.architecture101.blog
 
 - [Uber 아키텍처와 시스템 디자인](https://architecture101.blog/2021/12/01/uber-architecture-design)
+- [프로덕션 테스트에서 흔히 범하는 실수들](https://architecture101.blog/2024/08/11/commonmistakesbeforefinaluserdeployment/)
 
 ---
 
@@ -607,7 +617,6 @@ head:
 
 - [(번역) 기능 분할 설계 - 최고의 프런트엔드 아키텍처](https://emewjin.github.io/feature-sliced-design/)
 
-
 ---
 
 ## 디파이너리 헬프센터
@@ -698,6 +707,12 @@ head:
 ## 푸르고 개발 블로그w
 
 - [만개의 테스트를 작성하지 마라.](https://puleugo.tistory.com/m/202)
+
+---
+
+## Enterprise Integration Patterns
+
+- [Queues invert control flow but require flow control](https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html)
 
 ---
 

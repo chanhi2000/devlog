@@ -22,6 +22,7 @@ head:
       content: "Project 31: Multibrowser"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/31/overview.html
+prev: /explore/articles/hackingwithswift.com/read/30/07-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,65 @@ Bring your interfaces to life with animation, and meet switch/case at the same t
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/31/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "UIStackView by example | Hacking with iOS",
+  "desc": "UIStackView by example",
+  "link": "/explore/articles/hackingwithswift.com/read/31/02-uistackview-by-example.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding views to UIStackView with addArrangedSubview() | Hacking with iOS",
+  "desc": "Adding views to UIStackView with addArrangedSubview()",
+  "link": "/explore/articles/hackingwithswift.com/read/31/03-adding-views-to-uistackview-with-addarrangedsubview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Removing views from a UIStackView with removeArrangedSubview() | Hacking with iOS",
+  "desc": "Removing views from a UIStackView with removeArrangedSubview()",
+  "link": "/explore/articles/hackingwithswift.com/read/31/04-removing-views-from-a-uistackview-with-removearrangedsubview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "iPad multitasking | Hacking with iOS",
+  "desc": "iPad multitasking",
+  "link": "/explore/articles/hackingwithswift.com/read/31/05-ipad-multitasking.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/31/06-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

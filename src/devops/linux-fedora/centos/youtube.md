@@ -15,6 +15,14 @@ tag:
   - cent-os
   - youtube
   - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: "CentOS > Youtube"
+    - property: og:description
+      content: "Youtube"
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-fedora/centos/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

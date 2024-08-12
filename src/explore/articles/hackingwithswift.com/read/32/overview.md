@@ -22,6 +22,7 @@ head:
       content: "Project 32: SwiftSearcher"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/32/overview.html
+prev: /explore/articles/hackingwithswift.com/read/31/06-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,55 @@ Add your app's content to iOS 9's Spotlight search and take advantage of the new
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with Swift",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/32/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Automatically resizing UITableViewCells with Dynamic Type and NSAttributedString | Hacking with Swift",
+  "desc": "Automatically resizing UITableViewCells with Dynamic Type and NSAttributedString",
+  "link": "/explore/articles/hackingwithswift.com/read/32/02-automatically-resizing-uitableviewcells-with-dynamic-type-and-nsattributedstring.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to use SFSafariViewController to browse a web page | Hacking with Swift",
+  "desc": "How to use SFSafariViewController to browse a web page",
+  "link": "/explore/articles/hackingwithswift.com/read/32/03-how-to-use-sfsafariviewcontroller-to-browse-a-web-page.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to add Core Spotlight to index your app content | Hacking with Swift",
+  "desc": "How to add Core Spotlight to index your app content",
+  "link": "/explore/articles/hackingwithswift.com/read/32/04-how-to-add-core-spotlight-to-index-your-app-content.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with Swift",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/32/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

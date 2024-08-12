@@ -323,6 +323,12 @@ head:
 
 ---
 
+## THE STARTUP BIBLE
+
+- [“인공” 지능](https://thestartupbible.com/2024/08/artificial-intelligence.html)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

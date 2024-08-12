@@ -13,6 +13,14 @@ tag:
   - centos
   - cent-os
   - package-manager
+head:
+  - - meta:
+    - property: og:title
+      content: "Article(s) > References"
+    - property: og:description
+      content: "References"
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-fedora/centos/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

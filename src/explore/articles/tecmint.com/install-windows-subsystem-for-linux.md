@@ -49,9 +49,9 @@ cover: https://www.tecmint.com/wp-content/uploads/2020/09/Install-Linux-on-Windo
 
 ```component VPCard
 {
-  "title": "Ubuntu > Article(s)",
+  "title": "Debian > Article(s)",
   "desc": "Article(s)",
-  "link": "/devops/linux-ubuntu/articles/README.md",
+  "link": "/devops/linux-debian/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }
