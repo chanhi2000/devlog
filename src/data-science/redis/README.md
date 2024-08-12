@@ -6,7 +6,7 @@ icon: iconfont icon-redis
 category:
   - Redis
 tag:
-  - Redis
+  - redis
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -57,7 +57,55 @@ Save user data securely using the device keychain and Touch ID.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/28/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating a basic text editor | Hacking with iOS",
+  "desc": "Creating a basic text editor",
+  "link": "/explore/articles/hackingwithswift.com/read/28/02-creating-a-basic-text-editor.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Writing somewhere safe: the iOS keychain | Hacking with iOS",
+  "desc": "Writing somewhere safe: the iOS keychain",
+  "link": "/explore/articles/hackingwithswift.com/read/28/03-writing-somewhere-safe-the-ios-keychain.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Touch to activate: Touch ID, Face ID and LocalAuthentication | Hacking with iOS",
+  "desc": "Touch to activate: Touch ID, Face ID and LocalAuthentication",
+  "link": "/explore/articles/hackingwithswift.com/read/28/04-touch-to-activate-touch-id-face-id-and-localauthentication.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/28/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

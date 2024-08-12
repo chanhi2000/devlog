@@ -37,6 +37,9 @@ head:
 - [AWS가 제공하는 고성능 컴퓨터 서비스(HPC on AWS)를 사용해야 하는 이유](https://aws.amazon.com/ko/blogs/tech/introduction-of-hpc-on-aws/)
 - [Amazon Q Developer, 사내 소스 기반 IDE용 코드 추천 기능 출시](https://aws.amazon.com/ko/blogs/korea/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/)
 - [Valkey 및 Redis 오픈 소스용 오픈 소스 클라이언트 라이브러리, Valkey GLIDE 소개](https://aws.amazon.com/ko/blogs/tech/introducing-valkey-glide-an-open-source-client-library-for-valkey-and-redis-open-source-kr/)
+- [Amazon Titan Image Generator v2, Amazon Bedrock에 정식 출시](https://aws.amazon.com/ko/blogs/korea/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/)
+- [AWS 기술 파트너와 함께 구축한 푸드테크 기업 식신의 Amazon Bedrock 기반 AI 대시보드 구축기](https://aws.amazon.com/ko/blogs/tech/sikshin-built-ai-dashboard-with-aws-technology-partners-based-on-amazon-bedrock/)
+- [Amazon Bedrock으로 Multi Modal 문서에 대해 RAG 적용 하기](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-multi-modal-document-rag/)
 
 ---
 
@@ -240,9 +243,17 @@ head:
 
 ---
 
-## clean up the desk
+## tistory
 
-- [[aws summit seoul 2023] 당신만 모르고 있는 AWS 컨트롤 타워 트렌드](https://cleanupthedesk.tistory.com/70)
+- [`cleanupthedesk` / clean up the desk](https://cleanupthedesk.tistory.com/m/)
+  - [[aws summit seoul 2023] 당신만 모르고 있는 AWS 컨트롤 타워 트렌드](https://cleanupthedesk.tistory.com/m/70)
+- [`dkswnkk` / JuHyeong.dev](https://dkswnkk.tistory.com/m/)
+  - [AWS VPC를 사용한다면 알아야 할 네트워크 기초 지식](https://dkswnkk.tistory.com/m/750)
+  - [AWS Solution Architect Associate(SAA-C03) 취득 후기](https://dkswnkk.tistory.com/m/751)
+- [`jakpentest` / 뭐라도 해야 한다면 기록을 하자](https://jakpentest.tistory.com/m/)
+  - [[LocalStack] 24년에 다시보는 LocalStack 설치하기](https://jakpentest.tistory.com/m/entry/LocalStack-24%EB%85%84%EC%97%90-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94-LocalStack-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+  - [[LocalStack] LocalStack에서 EC2를 다뤄보자.](https://jakpentest.tistory.com/m/entry/LocalStack-EC2%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-ssh-%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80)
+  - [\[AWS\] SESv2를 이용한 수신측 메일 열람여부 확인하기](https://jakpentest.tistory.com/m/entry/%EC%86%A1%EC%8B%A0-%EB%A9%94%EC%9D%BC%EC%9D%84-%EC%88%98%EC%8B%A0-%EC%B8%A1%EC%97%90%EC%84%9C-%EC%97%B4%EC%96%B4%EB%B4%A4%EB%8A%94%EC%A7%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C)
 
 ---
 
@@ -267,21 +278,6 @@ head:
 ## Atlassian
 
 - [Deploy on AWS using Bitbucket Pipelines OpenID Connect](https://support.atlassian.com/bitbucket-cloud/docs/deploy-on-aws-using-bitbucket-pipelines-openid-connect)
-
----
-
-## JuHyeong.dev
-
-- [AWS VPC를 사용한다면 알아야 할 네트워크 기초 지식](https://dkswnkk.tistory.com/750)
-- [AWS Solution Architect Associate(SAA-C03) 취득 후기](https://dkswnkk.tistory.com/751)
-
----
-
-## 뭐라도 해야 한다면 기록을 하자
-
-- [[LocalStack] 24년에 다시보는 LocalStack 설치하기](https://jakpentest.tistory.com/m/entry/LocalStack-24%EB%85%84%EC%97%90-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94-LocalStack-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
-- [[LocalStack] LocalStack에서 EC2를 다뤄보자.](https://jakpentest.tistory.com/m/entry/LocalStack-EC2%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-ssh-%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80)
-- [\[AWS\] SESv2를 이용한 수신측 메일 열람여부 확인하기](https://jakpentest.tistory.com/m/entry/%EC%86%A1%EC%8B%A0-%EB%A9%94%EC%9D%BC%EC%9D%84-%EC%88%98%EC%8B%A0-%EC%B8%A1%EC%97%90%EC%84%9C-%EC%97%B4%EC%96%B4%EB%B4%A4%EB%8A%94%EC%A7%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C)
 
 ---
 

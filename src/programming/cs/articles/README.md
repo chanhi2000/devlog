@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - milanjovanovic.tech
   - johnnyreilly.com
   - code-maze.com
   - cs
@@ -34,6 +35,13 @@ head:
   url="https://freecodecamp.org/news/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+<SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
 
 ```component VPCard
 {
@@ -111,6 +119,104 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "Caching in ASP.NET Core: Improving Application Performance",
+  "desc": "Caching is one of the simplest techniques to significantly improve your application's performance. In this newsletter, we will explore how to implement caching in ASP.NET Core applications.",
+  "link": "/explore/articles/milanjovanovic.tech/caching-in-aspnetcore-improving-application-performance.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "From Transaction Scripts to Domain Models: A Refactoring Journey",
+  "desc": "Transaction Scripts organizes business logic by procedures where each procedure handles a single request from the presentation. We will explore when you should consider introducing a Domain Model.",
+  "link": "/explore/articles/milanjovanovic.tech/from-transaction-scripts-to-domain-models-a-refactoring-journey.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What You Need To Know About EF Core Bulk Updates",
+  "desc": "EF Core 7 introduced two powerful new methods, ExecuteUpdate and ExecuteDelete. However, there's an important caveat: these bulk operations bypass the EF Core Change Tracker.",
+  "link": "/explore/articles/milanjovanovic.tech/what-you-need-to-know-about-ef-core-bulk-updates.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Service Discovery in Microservices With .NET and Consul",
+  "desc": "Service discovery is a pattern that allows developers to use logical names to refer to external services, instead of physical IP addresses and ports. In this week's issue, we'll see how to implement service discovery in your .NET microservices with Consul.",
+  "link": "/explore/articles/milanjovanovic.tech/service-discovery-in-microservices-with-net-and-consul.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Building Your First Use Case With Clean Architecture",
+  "desc": "This is a question I often hear: how do I design my use case with Clean Architecture? In this article, we'll explore a practical example of how to apply Clean Architecture principles by building a user registration feature.",
+  "link": "/explore/articles/milanjovanovic.tech/building-your-first-use-case-with-clean-architecture.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Testing Modular Monoliths: System Integration Testing",
+  "desc": "System integration testing is the perfect testing approach for modular monoliths. It's an approach to testing the interactions between various modules within a single system.",
+  "link": "/explore/articles/milanjovanovic.tech/testing-modular-monoliths-system-integration-testing.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Simple Messaging in .NET With Redis Pub/Sub",
+  "desc": "Redis is a popular choice for caching data, but its capabilities go far beyond that. One of its lesser-known features is Pub/Sub support. Redis channels offer an interesting approach for implementing real-time messaging in your .NET applications.",
+  "link": "/explore/articles/milanjovanovic.tech/simple-messaging-in-dotnet-with-redis-pubsub.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Improving Code Quality in C# With Static Code Analysis",
+  "desc": "Static code analysis helps you build secure, maintainable, and high-quality C# code. In this week's newsletter, we'll explore how to integrate it into your .NET projects.",
+  "link": "/explore/articles/milanjovanovic.tech/improving-code-quality-in-csharp-with-static-code-analysis.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "5 EF Core Features You Need To Know",
+  "desc": "EF Core is powerful, and knowing a few key features can save you lots of time and frustration. I've cherry-picked five essential features that you really need to know.",
+  "link": "/explore/articles/milanjovanovic.tech/5-ef-core-features-you-need-to-know.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+<!-- END: milanjovanovic.tech -->
 
 ---
 

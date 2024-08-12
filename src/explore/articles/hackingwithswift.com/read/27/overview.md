@@ -22,6 +22,7 @@ head:
       content: "Project 27: Core Graphics"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/27/overview.html
+prev: /explore/articles/hackingwithswift.com/read/26/05-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,75 @@ Draw 2D shapes using Apple's high-speed drawing framework.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/27/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating the sandbox | Hacking with iOS",
+  "desc": "Creating the sandbox",
+  "link": "/explore/articles/hackingwithswift.com/read/27/02-creating-the-sandbox.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Drawing into a Core Graphics context with UIGraphicsImageRenderer | Hacking with iOS",
+  "desc": "Drawing into a Core Graphics context with UIGraphicsImageRenderer",
+  "link": "/explore/articles/hackingwithswift.com/read/27/03-drawing-into-a-core-graphics-context-with-uigraphicsimagerenderer.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Ellipses and checkerboards | Hacking with iOS",
+  "desc": "Ellipses and checkerboards",
+  "link": "/explore/articles/hackingwithswift.com/read/27/04-ellipses-and-checkerboards.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Transforms and lines | Hacking with iOS",
+  "desc": "Transforms and lines",
+  "link": "/explore/articles/hackingwithswift.com/read/27/05-transforms-and-lines.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Images and text | Hacking with iOS",
+  "desc": "Images and text",
+  "link": "/explore/articles/hackingwithswift.com/read/27/06-images-and-text.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/27/07-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

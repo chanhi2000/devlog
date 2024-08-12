@@ -22,7 +22,7 @@ head:
       content: "Project 18: Debugging"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/18/overview.html
-prev: /explore/articles/hackingwithswift.com/read/README.md
+prev: /explore/articles/hackingwithswift.com/read/17/05-wrap-up.md
 isOriginal: false
 ---
 

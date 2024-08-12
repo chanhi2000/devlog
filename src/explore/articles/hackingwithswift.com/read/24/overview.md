@@ -22,7 +22,7 @@ head:
       content: "Project 24: Swift Strings"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/24/overview.html
-prev: /explore/articles/hackingwithswift.com/read/README.md
+prev: /explore/articles/hackingwithswift.com/read/23/08-wrap-up.md
 isOriginal: false
 ---
 
@@ -58,7 +58,55 @@ Dive deep into how strings work in Swift, and learn how to add formatting on top
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/24/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Strings are not arrays | Hacking with iOS",
+  "desc": "Strings are not arrays",
+  "link": "/explore/articles/hackingwithswift.com/read/24/02-strings-are-not-arrays.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Working with strings in Swift | Hacking with iOS",
+  "desc": "Working with strings in Swift",
+  "link": "/explore/articles/hackingwithswift.com/read/24/03-working-with-strings-in-swift.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Formatting strings with NSAttributedString | Hacking with iOS",
+  "desc": "Formatting strings with NSAttributedString",
+  "link": "/explore/articles/hackingwithswift.com/read/24/04-formatting-strings-with-nsattributedstring.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/24/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

@@ -58,6 +58,14 @@ head:
 
 ---
 
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [포스코홀딩스, 구글 제미나이 1.5 모델 기반 뉴스∙지식 검색 포털 구축](https://ciokorea.com/news/346441)
+
+<!-- END: ciokorea.com -->
+
+---
+
 ## pdf(s)
 
 <PDF url="https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf" />

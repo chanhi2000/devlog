@@ -675,9 +675,86 @@ head:
 
 ---
 
-## ENFJ.dev
+## tistory
 
-- [| Hacks | conda - Python multiple venv manger](https://gngsn.tistory.com/279)
+- [`gngsn` / ENFJ.dev](https://gngsn.tistory.com/m/)
+  - [| Hacks | conda - Python multiple venv manger](https://gngsn.tistory.com/m/279)
+  <!-- END: gngsn.tistory.com -->
+- [`jakpentest` / 뭐라도 해야 한다면 기록을 하자](https://jakpentest.tistory.com/m/)
+  - [Google API 없이 Youtube 데이터 수집하기](https://jakpentest.tistory.com/m/entry/Google-API-%EC%97%86%EB%8A%94-Youtube-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
+  - [[Programmers] 코딩테스트입문 - 로그인 성공?](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9E%85%EB%AC%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%84%B1%EA%B3%B5)
+  - [[Programmers] 코딩테스트 입문 #1 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-1)
+  - [[Programmers] 코딩테스트 입문 #2 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-2-with-Python)
+  - [[LocalStack] LocalStack에서 Simple Email Service를 사용해보자.](https://jakpentest.tistory.com/m/entry/LocalStack-LocalStack%EC%97%90%EC%84%9C-Simple-Email-Service%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
+  - [[Programmers] 코딩테스트 입문 #4 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-4-with-Python)
+  <!-- END: jakpentest -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
+  - [컬럼에서 특정 값을 가진 행 삭제하는 Pandas 예제](https://webnautes.tistory.com/m/2299)
+  - [fps 계산하는 Python 예제](https://webnautes.tistory.com/m/2325)
+  - [OpenCV - 이미지 파일을 mp4 동영상 파일로 변환하는 파이썬 코드](https://webnautes.tistory.com/m/2041)
+  - [OpenCV Python - 동영상 파일을 일련번호 붙은 이미지 파일로 저장하기](https://webnautes.tistory.com/m/2323)
+  - [OpenCV Python 검은색 빈 공간 채우기](https://webnautes.tistory.com/m/2322)
+  - [Keras 예제 – `flow_from_directory`와 `flow_from_dataframe`](https://webnautes.tistory.com/m/2077)
+  - [requirements.txt 사용방법](https://webnautes.tistory.com/m/2278)
+  - [디렉토리 존재 여부 확인 후, 새로 디렉토리 생성하는 Python 예제](https://webnautes.tistory.com/m/2326)
+  - [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/m/2109)
+  - [lap/_lapjv.cpp:181:12: fatal error: longintrepr.h 해결방법](https://webnautes.tistory.com/m/2330)
+  - [CoreNet으로 OpenELM 모델을 사용해보기](https://webnautes.tistory.com/m/2329)
+  - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
+  - [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/m/2328)
+  - [Python if문 내부에 있는 조건별로 주석 달기](https://webnautes.tistory.com/m/2333)
+  - [OpenCV Python 마우스 이벤트 예제](https://webnautes.tistory.com/m/2334)
+  - [OpenCV Python Tracking 예제](https://webnautes.tistory.com/m/2338)
+  - [PyQt5 QTableWidget 예제](https://webnautes.tistory.com/m/2337)
+  - [miniconda/anaconda에서 conda 사용하는 방법](https://webnautes.tistory.com/m/2276)
+  - [모델 평가하는 방법(혼동행렬, confusion matrix 사용방법, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
+  - [Matplotlib를 사용하여 원형 그래프 그리기](https://webnautes.tistory.com/m/2341)
+  - [asyncio를 사용한 비동기 소켓 통신 예제](https://webnautes.tistory.com/m/2343)
+  - [XGBoost에서 GPU(cuda) 사용하는 예제](https://webnautes.tistory.com/m/2344)
+  - [Python 강좌 - 문자열](https://webnautes.tistory.com/m/2345)
+  - [logging을 사용하여 레벨별로 다른 파일에 로그를 저장하는 예제](https://webnautes.tistory.com/m/2346)
+  - [Python 강좌 - 리스트(list)](https://webnautes.tistory.com/m/2347)
+  - [FFmpeg를 사용하여 webcam을 RTSP 스트리밍 하여 OpenCV에서 확인하기](https://webnautes.tistory.com/m/2012)
+  - [XGBoost에서 파이프라인 사용하여 표준화(standardization) 적용하기](https://webnautes.tistory.com/m/2352)
+  - [`defaultdict` vs `dict`: 파이썬에서의 효율적인 카운팅 방법 비교](https://webnautes.tistory.com/m/2354)
+  - [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](http://webnautes.tistory.com/m/2356)
+  - [누구나 다하는 파이썬 강좌 - 제어문](https://webnautes.tistory.com/m/2357)
+  - [SIFT와 XFeat 사용해보기](https://webnautes.tistory.com/m/2360)
+  - [한국어 형태소 분석기 Kiwipiepy 사용방법](http://webnautes.tistory.com/m/2362)
+  - [특정 단어 뒤에 있는 단어 찾는 Python 예제](https://webnautes.tistory.com/m/2367)
+  - [sqlite3 테이블 출력하는 Python 예제](https://webnautes.tistory.com/m/2372)
+  - [SQLite3 Python 예제](https://webnautes.tistory.com/m/2284)
+  <!-- END: webnautes -->
+- [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
+  - [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/m/15)
+  - [[백준] 1026번: 보물 - python](https://findsilverlining.tistory.com/m/17)
+  - [[백준] 11399번: ATM - python](https://findsilverlining.tistory.com/m/18)
+  - [[백준] 2847번: 게임을 만든 동준이 - python](https://findsilverlining.tistory.com/m/20)
+  - [[백준] 11501번: 주식 - python](https://findsilverlining.tistory.com/m/21)
+  - [[백준] 1012번: 유기농 배추 - python](https://findsilverlining.tistory.com/m/22)
+  - [[백준] 1697번: 숨바꼭질 - python](https://findsilverlining.tistory.com/m/23)
+  - [[백준] 7562번: 나이트의 이동 - python](https://findsilverlining.tistory.com/m/25)
+  - [[백준] 2583번: 영역 구하기 - python](https://findsilverlining.tistory.com/m/26)
+  - [[백준] 9657번: 돌 게임 3 - python](https://findsilverlining.tistory.com/m/27)
+  - [[백준] 1931번: 회의실 배정 - python](https://findsilverlining.tistory.com/m/28)
+  - [[백준] 1541번: 잃어버린 괄호 - python](https://findsilverlining.tistory.com/m/29)
+  - [[백준] 1929번: 소수 구하기 - python](https://findsilverlining.tistory.com/m/36)
+  - [[백준] 11653번: 소인수분해 - python](https://findsilverlining.tistory.com/m/37)
+  - [[백준] 14501번: 퇴사 - python](https://findsilverlining.tistory.com/m/84)
+  - [[백준] 13913번: 숨바꼭질 4 - python](https://findsilverlining.tistory.com/m/85)
+  - [[백준] 15486번: 퇴사 2 - python](https://findsilverlining.tistory.com/m/86)
+  - [[백준] 1182번: 부분수열의 합 - python](https://findsilverlining.tistory.com/m/87)
+  - [[백준] 2252번: 줄 세우기 - python](https://findsilverlining.tistory.com/m/88)
+  - [[백준] 10026번: 적록색약 - python](https://findsilverlining.tistory.com/m/89)
+  - [[백준] 15988번: 1, 2, 3 더하기 3 - python](https://findsilverlining.tistory.com/m/90)
+  <!-- END: findsilverlining -->
+- [`kimkani` / Kani Kim Dev](https://kimkani.tistory.com/m/)
+  - [Domain Driven Design for FastAPI(파이썬 FastAPI를 위한 도메인 주도 디자인) - Layered Architecture(계층적 구조)](https://kimkani.tistory.com/m/59)
+  - [Clean Architecture(클린 아키텍처) 공부 - 육각형 아키텍처, 엔티티, 유스케이스, 프레임워크, 드라이버, 관심사 분리(SoC), 험블 객체 패턴, 프레젠터, 뷰, 뷰모델, 아키텍처]([kimkani]https://kimkani.tistory.com/m/63)
+  - [\[SQLAlchemy\] - Asynchronous I/O (asyncio) : 비동기 I/O (asyncio) 공식 문서 번역 1편 : 개요, 동시성 태스크와 같이 사용하기](https://kimkani.tistory.com/m/66)
+  <!-- END: kimkani -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -712,89 +789,6 @@ head:
 
 ---
 
-## 뭐라도 해야 한다면 기록을 하자
-
-- [Google API 없이 Youtube 데이터 수집하기](https://jakpentest.tistory.com/m/entry/Google-API-%EC%97%86%EB%8A%94-Youtube-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91)
-- [[Programmers] 코딩테스트입문 - 로그인 성공?](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9E%85%EB%AC%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%84%B1%EA%B3%B5)
-- [[Programmers] 코딩테스트 입문 #1 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-1)
-- [[Programmers] 코딩테스트 입문 #2 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-2-with-Python)
-- [[LocalStack] LocalStack에서 Simple Email Service를 사용해보자.](https://jakpentest.tistory.com/m/entry/LocalStack-LocalStack%EC%97%90%EC%84%9C-Simple-Email-Service%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
-- [[Programmers] 코딩테스트 입문 #4 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-4-with-Python)
-
----
-
-## 멈춤보단 천천히라도
-
-- [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
-- [컬럼에서 특정 값을 가진 행 삭제하는 Pandas 예제](https://webnautes.tistory.com/m/2299)
-- [pyQt5에서 libGL error: MESA-LOADER: failed to open 에러 발생시 해결방법입니다.](https://webnautes.tistory.com/m/2302)
-- [`qt.qpa.plugin`: Could not load the Qt platform plugin "xcb" 에러 해결 방법](https://webnautes.tistory.com/m/2303)
-- [pyQt5 - process에서 메시지 박스를 보여주는 예제](https://webnautes.tistory.com/m/2318)
-- [PyQt5 예제 - 단축키로 버튼 누르기](https://webnautes.tistory.com/m/2316)
-- [PyQT5 - 랜덤 컬러 그리드 생성하기](https://webnautes.tistory.com/m/2320)
-- [fps 계산하는 Python 예제](https://webnautes.tistory.com/m/2325)
-- [OpenCV - 이미지 파일을 mp4 동영상 파일로 변환하는 파이썬 코드](https://webnautes.tistory.com/m/2041)
-- [OpenCV Python - 동영상 파일을 일련번호 붙은 이미지 파일로 저장하기](https://webnautes.tistory.com/m/2323)
-- [OpenCV Python 검은색 빈 공간 채우기](https://webnautes.tistory.com/m/2322)
-- [Keras 예제 – `flow_from_directory`와 `flow_from_dataframe`](https://webnautes.tistory.com/m/2077)
-- [requirements.txt 사용방법](https://webnautes.tistory.com/m/2278)
-- [디렉토리 존재 여부 확인 후, 새로 디렉토리 생성하는 Python 예제](https://webnautes.tistory.com/m/2326)
-- [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/m/2109)
-- [lap/_lapjv.cpp:181:12: fatal error: longintrepr.h 해결방법](https://webnautes.tistory.com/m/2330)
-- [CoreNet으로 OpenELM 모델을 사용해보기](https://webnautes.tistory.com/m/2329)
-- [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
-- [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/m/2328)
-- [Python if문 내부에 있는 조건별로 주석 달기](https://webnautes.tistory.com/m/2333)
-- [OpenCV Python 마우스 이벤트 예제](https://webnautes.tistory.com/m/2334)
-- [PyQt5에서 윈도우의 모든 창 버튼(최소화, 최대화, 닫기)을 제거](https://webnautes.tistory.com/m/2335)
-- [pyQt5 윈도우를 화면의 중앙에 배치하기](http://webnautes.tistory.com/m/2336)
-- [OpenCV Python Tracking 예제](https://webnautes.tistory.com/m/2338)
-- [PyQt5 QTableWidget 예제](https://webnautes.tistory.com/m/2337)
-- [miniconda/anaconda에서 conda 사용하는 방법](https://webnautes.tistory.com/m/2276)
-- [모델 평가하는 방법(혼동행렬, confusion matrix 사용방법, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
-- [Matplotlib를 사용하여 원형 그래프 그리기](https://webnautes.tistory.com/m/2341)
-- [asyncio를 사용한 비동기 소켓 통신 예제](https://webnautes.tistory.com/m/2343)
-- [XGBoost에서 GPU(cuda) 사용하는 예제](https://webnautes.tistory.com/m/2344)
-- [Python 강좌 - 문자열](https://webnautes.tistory.com/m/2345)
-- [logging을 사용하여 레벨별로 다른 파일에 로그를 저장하는 예제](https://webnautes.tistory.com/m/2346)
-- [Python 강좌 - 리스트(list)](https://webnautes.tistory.com/m/2347)
-- [FFmpeg를 사용하여 webcam을 RTSP 스트리밍 하여 OpenCV에서 확인하기](https://webnautes.tistory.com/m/2012)
-- [PyQt5 콤보박스(QComboBox) 예제](https://webnautes.tistory.com/m/2353)
-- [XGBoost에서 파이프라인 사용하여 표준화(standardization) 적용하기](https://webnautes.tistory.com/m/2352)
-- [`defaultdict` vs `dict`: 파이썬에서의 효율적인 카운팅 방법 비교](https://webnautes.tistory.com/m/2354)
-- [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](http://webnautes.tistory.com/m/2356)
-- [누구나 다하는 파이썬 강좌 - 제어문](https://webnautes.tistory.com/m/2357)
-- [SIFT와 XFeat 사용해보기](https://webnautes.tistory.com/m/2360)
-- [한국어 형태소 분석기 Kiwipiepy 사용방법](http://webnautes.tistory.com/m/2362)
-
----
-
-## 무너지기직전
-
-- [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/15)
-- [[백준] 1026번: 보물 - python](https://findsilverlining.tistory.com/17)
-- [[백준] 11399번: ATM - python](https://findsilverlining.tistory.com/18)
-- [[백준] 2847번: 게임을 만든 동준이 - python](https://findsilverlining.tistory.com/20)
-- [[백준] 11501번: 주식 - python](https://findsilverlining.tistory.com/21)
-- [[백준] 1012번: 유기농 배추 - python](https://findsilverlining.tistory.com/22)
-- [[백준] 1697번: 숨바꼭질 - python](https://findsilverlining.tistory.com/23)
-- [[백준] 7562번: 나이트의 이동 - python](https://findsilverlining.tistory.com/25)
-- [[백준] 2583번: 영역 구하기 - python](https://findsilverlining.tistory.com/26)
-- [[백준] 9657번: 돌 게임 3 - python](https://findsilverlining.tistory.com/27)
-- [[백준] 1931번: 회의실 배정 - python](https://findsilverlining.tistory.com/28)
-- [[백준] 1541번: 잃어버린 괄호 - python](https://findsilverlining.tistory.com/29)
-- [[백준] 1929번: 소수 구하기 - python](https://findsilverlining.tistory.com/36)
-- [[백준] 11653번: 소인수분해 - python](https://findsilverlining.tistory.com/37)
-- [[백준] 14501번: 퇴사 - python](https://findsilverlining.tistory.com/84)
-- [[백준] 13913번: 숨바꼭질 4 - python](https://findsilverlining.tistory.com/85)
-- [[백준] 15486번: 퇴사 2 - python](https://findsilverlining.tistory.com/86)
-- [[백준] 1182번: 부분수열의 합 - python](https://findsilverlining.tistory.com/87)
-- [[백준] 2252번: 줄 세우기 - python](https://findsilverlining.tistory.com/88)
-- [[백준] 10026번: 적록색약 - python](https://findsilverlining.tistory.com/89)
-- [[백준] 15988번: 1, 2, 3 더하기 3 - python](https://findsilverlining.tistory.com/90)
-
----
-
 ## [ 프로페셔널 프로그래머 ]
 
 - [[ Python By Example #02 ]](https://m.blog.naver.com/cybervictor008/223397016205)
@@ -805,14 +799,6 @@ head:
 ## Codeit
 
 - [[코딩백과101] 파이썬 에러 TOP7 (오류 메시지 종류와 해결 방법)](https://m.blog.naver.com/codeitofficial/223397232283)
-
----
-
-## Kani Kim Dev
-
-- [Domain Driven Design for FastAPI(파이썬 FastAPI를 위한 도메인 주도 디자인) - Layered Architecture(계층적 구조)](https://kimkani.tistory.com/59)
-- [Clean Architecture(클린 아키텍처) 공부 - 육각형 아키텍처, 엔티티, 유스케이스, 프레임워크, 드라이버, 관심사 분리(SoC), 험블 객체 패턴, 프레젠터, 뷰, 뷰모델, 아키텍처]([kimkani](https://kimkani.tistory.com/63))
-- [\[SQLAlchemy\] - Asynchronous I/O (asyncio) : 비동기 I/O (asyncio) 공식 문서 번역 1편 : 개요, 동시성 태스크와 같이 사용하기](https://kimkani.tistory.com/m/66)
 
 ---
 
@@ -1118,6 +1104,7 @@ head:
 - [Understanding the Python Mock Object Library](https://realpython.com/python-mock-library/)
 - [Build a Guitar Synthesizer: Play Musical Tablature in Python](https://realpython.com/python-guitar-synthesizer/)
 - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
+- [Natural Language Processing (NLP) with Python's Natural Language Toolkit (NLTK).](https://realpython.com/nltk-nlp-python/)
 
 <!-- END: realpython.com -->
 

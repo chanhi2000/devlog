@@ -565,5 +565,26 @@
     "topics": ["android", "home-theater", "media-center", "multimedia", "video-streaming"],
     "avatar": "https://avatars.githubusercontent.com/u/110591699?v=4",
     "banner": ""
+  }, {
+    "repo": "kikermo/ble-server",
+    "desc": "BLE server-side library for the BLUEZ stack",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/5659713?v=4",
+    "banner": ""
+  }, {
+    "repo": "fork-handles/forkhandles",
+    "desc": "Foundational libraries for Kotlin",
+    "officialSite": "https://forkhandles.dev",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/67378500?v=4",
+    "banner": ""
+  }, {
+    "repo": "drawers/abecedary",
+    "desc": "A set of lint rules for ordering Kotlin enums, sealed classes, and more",
+    "officialSite": "",
+    "topics": ["android", "android-lint", "android-lint-rule", "android-lints", "kotlin"],
+    "avatar": "https://avatars.githubusercontent.com/u/11054916?v=4",
+    "banner": ""
   }
 ]

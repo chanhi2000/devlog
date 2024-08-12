@@ -174,6 +174,7 @@ tag:
 - [`foundercollective` / AI start-ups: Don’t sell picks and shovels, dig with them](https://foundercollective.medium.com/ai-start-ups-dont-sell-picks-and-shovels-dig-with-them-79e3d12f1947)
 - [`@ghilbut` / \[조직문화\] 스쿼드(Squad)는 그만!!](https://medium.com/@ghilbut/%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94-%EC%8A%A4%EC%BF%BC%EB%93%9C-squad-%EB%8A%94-%EA%B7%B8%EB%A7%8C-738b7ebd6998?source=rss-8482dec25ee1------2)
 - [`mjspring` / 설득에 대한 태도 바로잡기](https://mjspring.medium.com/%EC%84%A4%EB%93%9D%EC%97%90-%EB%8C%80%ED%95%9C-%ED%83%9C%EB%8F%84-%EB%B0%94%EB%A1%9C%EC%9E%A1%EA%B8%B0-cce3117b1c49?source=rss-a5b93d2efa4c------2)
+- [`giljae` / 린스타트업](https://giljae.medium.com/%EB%A6%B0%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-ffb9e7134731?source=rss-bb87e9e8047d------2)
 
 <!-- END: medium.com -->
 
@@ -281,6 +282,8 @@ tag:
 - [`@2rV` / 공채 면접관으로서의 개인적 경험](https://brunch.co.kr/@@2rV/160)
 - [`@2weV` / MBA 준비하는 분들을 위한 조언](https://brunch.co.kr/@@2weV/539)
 - [`@2YWz` / 글로벌 데이터 엔지니어링 인재 육성 - 8주 집중 실무 인턴십 프로그램](https://brunch.co.kr/@@2YWz/119)
+- [`@ZVA` / 나이키 DTC와 데이터 드리븐 전략은 왜 실패했는가?](https://brunch.co.kr/@@ZVA/713)
+- [`@3L0s` / DX 실행: 생산공정의 디지털화 개념 - 디지털 혁신-17](https://brunch.co.kr/@@3L0s/120)
 
 <!-- END: brunch.co.kr -->
 
@@ -796,7 +799,8 @@ tag:
 
 ## 쉽게 살 수 있을까 ?
 
-- [자기소개서 이해와 잘 쓰는 법](https://hl1itj.tistory.com/261)
+- [자기소개서 이해와 잘 쓰는 법](https://hl1itj.tistory.com/n/261)
+- ['요새 개발자 채용시장'에 관한 동영상의 댓글들](http://hl1itj.tistory.com/m/266)
 
 ---
 

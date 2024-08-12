@@ -316,6 +316,8 @@ head:
 - [\[백준 32070번\] 색깔 모으기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32070%EB%B2%88-%EC%83%89%EA%B9%94-%EB%AA%A8%EC%9C%BC%EA%B8%B0)
 - [\[백준 25571번\] 지그재그 부분배열](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-25571%EB%B2%88-%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8-%EB%B6%80%EB%B6%84%EB%B0%B0%EC%97%B4)
 - [\[백준 32072번\] 트리 뽑아내기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32072%EB%B2%88-%ED%8A%B8%EB%A6%AC-%EB%BD%91%EC%95%84%EB%82%B4%EA%B8%B0)
+- [\[백준 17608번\] 막대기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17608%EB%B2%88-%EB%A7%89%EB%8C%80%EA%B8%B0)
+- [\[백준 17610번\] 양팔저울](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17610%EB%B2%88-%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8)
 
 <!-- END: kesakiyo.tistory.com -->
 

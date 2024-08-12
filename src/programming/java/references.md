@@ -124,6 +124,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 19일차 TIL - 그리디](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-19%EC%9D%BC%EC%B0%A8-TIL-%EA%B7%B8%EB%A6%AC%EB%94%94)
 - [`@qkrtkdwns3410` / \[알고리즘 1058\] 친구](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1058-%EC%B9%9C%EA%B5%AC)
 - [`@qkrtkdwns3410` / \[알고리즘 1068\] 트리](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1068-%ED%8A%B8%EB%A6%AC)
+- [`@dongha1992` / 99클럽 코테 스터디 20일차 TIL - 그리디](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-20%EC%9D%BC%EC%B0%A8-TIL-%EA%B7%B8%EB%A6%AC%EB%94%94)
 
 <!-- END: velog.io java -->
 
@@ -525,6 +526,7 @@ tag:
 - [# 16_NULL_널_생각해](https://hj0216.tistory.com/m/922)
 - [# 17_Exception_예외입니다_전_특별하니까요](https://hj0216.tistory.com/m/924)
 - [# 18_Transaction_거래를_시작하지](https://hj0216.tistory.com/m/927)
+- [\[1년 후 마실가실\] Custom Exception](https://hj0216.tistory.com/m/934)
 
 ### Lifealong
 

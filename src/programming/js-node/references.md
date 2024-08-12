@@ -295,6 +295,8 @@ tag:
 - [`0shuvo0` / I made Squid Game with JavaScript](https://dev.to/0shuvo0/i-made-squid-game-with-javascript-10j9)
 - [`brainiacneit` / Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
 
+<!-- END: dev.to -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
@@ -331,6 +333,9 @@ tag:
 - [`@juhee067` / 1. SQL 대신 Sequelize ORM 적용기 (초기설정,회원관련)](https://velog.io/@juhee067/Sequelize-ORM-%EC%A0%81%EC%9A%A9%EA%B8%B0)
 - [`@ansrjsdn` / Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node. 에러 해결](https://velog.io/@ansrjsdn/Failed-to-execute-removeChild-on-Node-The-node-to-be-removed-is-not-a-child-of-this-node.-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
 - [`surim014` / \[번역\] NPM 패키지 크기 대폭 축소하기](https://velog.io/@surim014/extremely-reducing-the-size-of-npm-packages)
+- [`@leejh3224` / Node.js 서버에서 DB 연결 끊김에 대처하기](https://velog.io/@leejh3224/Node.js-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-DB-%EC%97%B0%EA%B2%B0-%EB%81%8A%EA%B9%80%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EA%B8%B0)
+
+<!-- END: velog.io -->
 
 ---
 

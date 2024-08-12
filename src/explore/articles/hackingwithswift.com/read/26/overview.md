@@ -22,6 +22,7 @@ head:
       content: "Project 26: Marble Maze"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/26/overview.html
+prev: /explore/articles/hackingwithswift.com/read/25/05-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,55 @@ Respond to device tilting by steering a ball around a vortex maze.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/26/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Loading a level: categoryBitMask, collisionBitMask, contactTestBitMask | Hacking with iOS",
+  "desc": "Loading a level: categoryBitMask, collisionBitMask, contactTestBitMask",
+  "link": "/explore/articles/hackingwithswift.com/read/26/02-loading-a-level-categorybitmask-collisionbitmask-contacttestbitmask.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Tilt to move: CMMotionManager | Hacking with iOS",
+  "desc": "Tilt to move: CMMotionManager",
+  "link": "/explore/articles/hackingwithswift.com/read/26/03-tilt-to-move-cmmotionmanager.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+"title": "Contacting but not colliding | Hacking with iOS",
+  "desc": "Contacting but not colliding",
+  "link": "/explore/articles/hackingwithswift.com/read/26/04-contacting-but-not-colliding.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/26/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

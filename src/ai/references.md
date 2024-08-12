@@ -197,6 +197,8 @@ head:
 - [마크 주커버그 메타 CEO가 말하는 "오픈소스 AI가 미래인 이유"](https://ciokorea.com/news/345419)
 - [세일즈포스, AI 생태계 인식 조사 발표 "개방형 AI 생태계 선호 뚜렷"](https://ciokorea.com/news/345104)
 - [오픈AI 경쟁사 코히어, 5억달러 투자 유치··· “AGI보단 기업용 AI 모델 개발 집중할 것”](https://ciokorea.com/news/345181)
+- ['아직은 빙산의 일각'··· 비즈니스에서의 생성형 AI 사용 사례 7가지](https://ciokorea.com/news/346063)
+- ['온디바이스 AI', 스마트폰 사용 방식을 완전히 바꿀 이유](https://ciokorea.com/news/346525)
 
 <!-- END: ciokorea.com -->
 
@@ -216,6 +218,8 @@ head:
 - [“인공지능 거품 붕괴 경보?” 킬러 앱 부재가 위험 요소 : 골드만삭스](https://itworld.co.kr/news/344467)
 - [미스트랄 AI, '미스트랄 라지 2' 출시 "라마 3 405B 모델과 비슷한 성능"](https://itworld.co.kr/news/345566)
 - ["단순한 검색 엔진 그 너머" AI가 바꿔놓을 브라우저의 역할](https://itworld.co.kr/news/345895)
+- [오픈소스 AI의 정의를 둘러싼 혼란과 현실](https://itworld.co.kr/news/345909)
+- ["데이터옵스 성숙도 높은 기업일수록 혼합형 접근 방식 채택" BMC 보고서](https://itworld.co.kr/news/345671)
 
 <!-- END: itworld.co.kr -->
 

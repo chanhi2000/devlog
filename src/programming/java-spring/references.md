@@ -455,6 +455,7 @@ head:
 - [11.6. 책 목록 뷰 추가하기](https://ysedeveloper.tistory.com/m/entry/116-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EB%B7%B0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [11.7. 책 목록 기능 확인하기](https://ysedeveloper.tistory.com/m/entry/117-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 - [12.1. 책 기록 개요](https://ysedeveloper.tistory.com/m/entry/121-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EA%B0%9C%EC%9A%94)
+- [12.2. 책 기록 엔티티 만들기](https://ysedeveloper.tistory.com/m/entry/122-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 <!-- END: ysedeveloper.tistory.com -->
 
@@ -547,6 +548,7 @@ head:
 - [\[1년 후 마실가실\] Entity 수정](https://hj0216.tistory.com/m/931)
 - [\[1년 후 마실가실\] REST API 구현](https://hj0216.tistory.com/m/932)
 - [\[1년 후 마실가실\] Test Code 작성](https://hj0216.tistory.com/m/933)
+- [\[1년 후 마실가실\] JWT 공부](https://hj0216.tistory.com/m/935)
 
 <!-- END: hj0216.tistory.com -->
 
@@ -554,6 +556,7 @@ head:
 
 - [Spring Batch 관리 도구 Jenkins 대안 탐색기](https://mjin1220.tistory.com/m/57)
 - [Spring Cloud Data Flow 로컬 구축기](https://mjin1220.tistory.com/m/59)
+- [Spring Cloud Data Flow 톺아보기 - Architecture (1)](https://mjin1220.tistory.com/m/60)
 
 ### 블로그 이름 뭐하지??
 
@@ -636,6 +639,10 @@ head:
 ### 빈’s 개발일기
 
 - [Spring Boot + kotlin 프로젝트에 ktlint 적용하기 (Multi module 통합 관리하기)](https://beaniejoy.tistory.com/m/108)
+
+### 하고 싶은 것을 즐겁게 - 매일매일 행복한 소프트웨어 엔지니어
+
+- [테스트 코드가 뭐예요? 이걸요? 제가요?](https://katfun.blog/posts/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%AD%90%EC%98%88%EC%9A%94-%EC%9D%B4%EA%B1%B8%EC%9A%94-%EC%A0%9C%EA%B0%80%EC%9A%94/)
 
 ---
 

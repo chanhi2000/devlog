@@ -427,6 +427,7 @@ head:
 - [왜 gradient가 가장 가파른 방향일까?](https://lazymatlab.tistory.com/m/264)
 - [수학 위시리스트](https://lazymatlab.tistory.com/m/270)
 - [Every vector space has a basis.](https://lazymatlab.tistory.com/m/282)
+- [자연수의 서수와 기수](https://lazymatlab.tistory.com/m/283)
 
 ---
 

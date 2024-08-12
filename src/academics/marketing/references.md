@@ -28,4 +28,10 @@ tag:
 
 ---
 
+## SparkToro | Audience Research at Your Fingertips
+
+- [Attribution is Dying. Clicks are Dying. Marketing is Going Back to the 20th Century.](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/)
+
+---
+
 <TagLinks />

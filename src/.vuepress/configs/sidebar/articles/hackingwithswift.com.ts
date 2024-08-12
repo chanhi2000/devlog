@@ -623,30 +623,57 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/24/overview.md',
+              '/explore/articles/hackingwithswift.com/read/24/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/24/02-strings-are-not-arrays.md',
+              '/explore/articles/hackingwithswift.com/read/24/03-working-with-strings-in-swift.md',
+              '/explore/articles/hackingwithswift.com/read/24/04-formatting-strings-with-nsattributedstring.md',
+              '/explore/articles/hackingwithswift.com/read/24/05-wrap-up.md',
             ]
           }, {
             text: 'Project 25: Selfie Share',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/25/overview.md',
+              '/explore/articles/hackingwithswift.com/read/25/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/25/02-importing-photos-again.md',
+              '/explore/articles/hackingwithswift.com/read/25/03-going-peer-to-peer-mcsession-mcbrowserviewcontroller.md',
+              '/explore/articles/hackingwithswift.com/read/25/04-invitation-only-mcpeerid.md',
+              '/explore/articles/hackingwithswift.com/read/25/05-wrap-up.md',
             ]
           }, {
             text: 'Project 26: Marble Maze',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/26/overview.md',
+              '/explore/articles/hackingwithswift.com/read/26/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/26/02-loading-a-level-categorybitmask-collisionbitmask-contacttestbitmask.md',
+              '/explore/articles/hackingwithswift.com/read/26/03-tilt-to-move-cmmotionmanager.md',
+              '/explore/articles/hackingwithswift.com/read/26/04-contacting-but-not-colliding.md',
+              '/explore/articles/hackingwithswift.com/read/26/05-wrap-up.md',
             ]
           }, {
             text: 'Project 27: Core Graphics',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/27/overview.md',
+              '/explore/articles/hackingwithswift.com/read/27/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/27/02-creating-the-sandbox.md',
+              '/explore/articles/hackingwithswift.com/read/27/03-drawing-into-a-core-graphics-context-with-uigraphicsimagerenderer.md',
+              '/explore/articles/hackingwithswift.com/read/27/04-ellipses-and-checkerboards.md',
+              '/explore/articles/hackingwithswift.com/read/27/05-transforms-and-lines.md',
+              '/explore/articles/hackingwithswift.com/read/27/06-images-and-text.md',
+              '/explore/articles/hackingwithswift.com/read/27/07-wrap-up.md',
             ]
           }, {
             text: 'Project 28: Secret Swift',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/28/overview.md',
+              '/explore/articles/hackingwithswift.com/read/28/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/28/02-creating-a-basic-text-editor.md',
+              '/explore/articles/hackingwithswift.com/read/28/03-writing-somewhere-safe-the-ios-keychain.md',
+              '/explore/articles/hackingwithswift.com/read/28/04-touch-to-activate-touch-id-face-id-and-localauthentication.md',
+              '/explore/articles/hackingwithswift.com/read/28/05-wrap-up.md',
             ]
           }, {
             text: 'Project 29: Exploding Monkeys',

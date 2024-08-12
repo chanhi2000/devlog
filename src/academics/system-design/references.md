@@ -213,6 +213,10 @@ head:
 - [`@joshuara7235` / 좋은 코드를 위해서는 좋은 설계가 우선되어야 한다.](https://velog.io/@joshuara7235/%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%B4%EC%84%9C%EB%8A%94-%EC%A2%8B%EC%9D%80-%EC%84%A4%EA%B3%84%EA%B0%80-%EC%9A%B0%EC%84%A0%EB%90%98%EC%96%B4%EC%95%BC-%ED%95%9C%EB%8B%A4)
 - [`@jeong_hun_hui` / 트랜잭션의 동시성 문제를 알아보자](https://velog.io/@jeong_hun_hui/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 - [`@broccolism` / 왜 내가 누르면 대기 중이라고 뜰까? - 7장. 호텔 예약 시스템](https://velog.io/@broccolism/%EC%99%9C-%EB%82%B4%EA%B0%80-%EB%88%84%EB%A5%B4%EB%A9%B4-%EB%8C%80%EA%B8%B0-%EC%A4%91%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%9C%B0%EA%B9%8C-7%EC%9E%A5.-%ED%98%B8%ED%85%94-%EC%98%88%EC%95%BD-%EC%8B%9C%EC%8A%A4%ED%85%9C)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 절차지향과 객체 지향](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 객체](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EA%B0%9D%EC%B2%B4)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 의존](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%9D%98%EC%A1%B4)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 캡슐화](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%BA%A1%EC%8A%90%ED%99%94)
 
 <!-- END: velog.io -->
 
@@ -291,19 +295,41 @@ head:
 
 ---
 
-## 힘차게, 열심히 공대생
+## tistory
 
-- [OpenAPI 와 스웨거를 활용한 실전 API 설계 (feat. 요구사항으로 부터 도메인 모델링하기)](https://thalals.tistory.com/477)
-- [[한빛앤 MSA 세미나] 서비스 장애 잘 이해하고 대비하기 | 박순영](https://thalals.tistory.com/m/480)
-- [Repository는 어느 모듈에 위치해야할까? (DIP. 고수준모듈, 저수준 모듈)](https://thalals.tistory.com/m/483)
+- [`thalals` / 힘차게, 열심히 공대생](https://thalals.tistory.com/m/)
+  - [OpenAPI 와 스웨거를 활용한 실전 API 설계 (feat. 요구사항으로 부터 도메인 모델링하기)](https://thalals.tistory.com/m/477)
+  - [[한빛앤 MSA 세미나] 서비스 장애 잘 이해하고 대비하기 | 박순영](https://thalals.tistory.com/m/480)
+  - [Repository는 어느 모듈에 위치해야할까? (DIP. 고수준모듈, 저수준 모듈)](https://thalals.tistory.com/m/483)
+- [`hides` / Hide](https://hides.tistory.com/m/1)
+  - [틴더(Tinder) 시스템 디자인](https://hides.tistory.com/m/1145)
+  - [Rate Limiter 시스템 디자인](https://hides.tistory.com/m/1152)
+  - [토스 SLASH 22 - 토스뱅크의 완전히 새로운 대출 시스템 정리](https://hides.tistory.com/m/1153)
+- [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
+  - [[내일배움캠프 23일차 TIL] 유스케이스 다이어그램 및 RESTful한 API설계(Param vs Query vs Body)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-23%EC%9D%BC%EC%B0%A8-TIL-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%8F-RESTful%ED%95%9C-API%EC%84%A4%EA%B3%84Param-vs-Query-vs-Body)
+  - [\[내일배움캠프 34일차 TIL\] 뉴스피드 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-34%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
+  - [\[내일배움캠프 59일차 TIL\] 심화 프로젝트 시작](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-59%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%AC%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91)
+  - [\[내일배움캠프 65일차 TIL\] 최종 프로젝트 - 기획 & 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EC%84%A4%EA%B3%84)
+  - [\[내일배움캠프 66일차 TIL\] 최종 프로젝트 - WBS 작성](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-66%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-WBS-%EC%9E%91%EC%84%B1)
+  - [\[내일배움캠프 65일차 TIL\] 최종 프로젝트 - 초기 세팅](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B4%88%EA%B8%B0-%EC%84%B8%ED%8C%85)
+- [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
+  - [새로운 디자인 컴포넌트 도입 절차](https://vurias0203.tistory.com/m/entry/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%88%EC%B0%A8)
+- [`germweapon` / 세균무기, 지구별에 기록을 남기다!](https://germweapon.tistory.com/m/)
+  - [\[화면(상세) 기획\] 이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/m/384)
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [다중 서버에서 세션 불일치 문제를 해결하는 방법](https://bbogle2.tistory.com/m/entry/%EB%8B%A4%EC%A4%91-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EC%84%B8%EC%85%98-%EB%B6%88%EC%9D%BC%EC%B9%98-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- [`bebong` / BlaBlaBlah](https://bebong.tistory.com/m/)
+  - [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
+- [`lob-dev` / Lob!](https://lob-dev.tistory.com/m/)
+  - [RESTful 설계 원칙에 대한 못다 한 이야기](https://lob-dev.tistory.com/m/90)
+- [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
+  - [데이터 스누핑 편향이란?](https://sonseungha.tistory.com/m/724)
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [소프트웨어 생산성을 높이기 위한 방법](https://aspdotnet.tistory.com/m/3220)
+- [`jh-bk` / 잡다한 AI 관련 글들](https://jh-bk.tistory.com/m/)
+  - [\[Review\] 토스에서 말하는 "가독성 좋은 코드" 란 무엇일까?](https://jh-bk.tistory.com/m/69)
 
----
-
-## Hide
-
-- [틴더(Tinder) 시스템 디자인](https://hides.tistory.com/1145)
-- [Rate Limiter 시스템 디자인](https://hides.tistory.com/m/1152)
-- [토스 SLASH 22 - 토스뱅크의 완전히 새로운 대출 시스템 정리](https://hides.tistory.com/m/1153)
+<!-- END: tistory.com -->
 
 ---
 
@@ -323,17 +349,6 @@ head:
 ## Insane - TheInsaneApp.com
 
 - [How To Build Recommendation Algorithms And System Designs](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
-
----
-
-## 컴공생의 발자취
-
-- [[내일배움캠프 23일차 TIL] 유스케이스 다이어그램 및 RESTful한 API설계(Param vs Query vs Body)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-23%EC%9D%BC%EC%B0%A8-TIL-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%8F-RESTful%ED%95%9C-API%EC%84%A4%EA%B3%84Param-vs-Query-vs-Body)
-- [\[내일배움캠프 34일차 TIL\] 뉴스피드 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-34%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
-- [\[내일배움캠프 59일차 TIL\] 심화 프로젝트 시작](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-59%EC%9D%BC%EC%B0%A8-TIL-%EC%8B%AC%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91)
-- [\[내일배움캠프 65일차 TIL\] 최종 프로젝트 - 기획 & 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EC%84%A4%EA%B3%84)
-- [\[내일배움캠프 66일차 TIL\] 최종 프로젝트 - WBS 작성](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-66%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-WBS-%EC%9E%91%EC%84%B1)
-- [\[내일배움캠프 65일차 TIL\] 최종 프로젝트 - 초기 세팅](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B4%88%EA%B8%B0-%EC%84%B8%ED%8C%85)
 
 ---
 
@@ -416,12 +431,6 @@ head:
 
 ---
 
-## Miles UX/UI Insight
-
-- [새로운 디자인 컴포넌트 도입 절차](https://vurias0203.tistory.com/m/entry/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%88%EC%B0%A8)
-
----
-
 ## Increase — Enterprise-grade Banking APIs
 
 - [No Abstractions: an Increase API design principle](https://increase.com/articles/no-abstractions)
@@ -477,12 +486,6 @@ head:
 
 ---
 
-## 세균무기, 지구별에 기록을 남기다!
-
-- [\[화면(상세) 기획\] 이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/m/384)
-
----
-
 ## 개발자스럽다
 
 - [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
@@ -498,12 +501,6 @@ head:
 ## 센드버드 - 채팅과 영상통화 개발의 완벽한 솔루션 | Sendbird
 
 - [SB-OSC: 센드버드 온라인 스키마 변경](https://sendbird.com/ko/blog/sendbird-online-schema-change)
-
----
-
-## 뽀글뽀글 개발 일지
-
-- [다중 서버에서 세션 불일치 문제를 해결하는 방법](https://bbogle2.tistory.com/m/entry/%EB%8B%A4%EC%A4%91-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EC%84%B8%EC%85%98-%EB%B6%88%EC%9D%BC%EC%B9%98-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
 ---
 
@@ -556,12 +553,6 @@ head:
 
 ---
 
-## BlaBlaBlah
-
-- [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
-
----
-
 ## 프로그래밍으로 예술을 꿈꾼다 - 『프로그래밍 예술가, DeKu』
 
 - [BlaBoo 앱 개발기(RN, React Native)](https://deku.posstree.com/ko/blaboo/development-journal/)
@@ -584,12 +575,6 @@ head:
 ## ziwon.github.io
 
 - [\[번역\] 최신 네트워크 로드 밸런싱 및 프록시 소개](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
-
----
-
-## Lob!
-
-- [RESTful 설계 원칙에 대한 못다 한 이야기](https://lob-dev.tistory.com/m/90)
 
 ---
 
@@ -618,27 +603,10 @@ head:
 
 ---
 
-## Developer's Delight
-
-- [데이터 스누핑 편향이란?](https://sonseungha.tistory.com/m/724)
-
----
-
 ## emewjin.log
 
 - [(번역) 기능 분할 설계 - 최고의 프런트엔드 아키텍처](https://emewjin.github.io/feature-sliced-design/)
 
----
-
-## 재우니의 블로그
-
-- [소프트웨어 생산성을 높이기 위한 방법](https://aspdotnet.tistory.com/m/3220)
-
----
-
-## 잡다한 AI 관련 글들
-
-- [\[Review\] 토스에서 말하는 "가독성 좋은 코드" 란 무엇일까?](https://jh-bk.tistory.com/m/69)
 
 ---
 
@@ -724,6 +692,12 @@ head:
 ## 데엔잘하고싶은데엔🔥💎
 
 - [항공권 숙소 예약, 여행플랫폼 숙박앱의 UX 다크패턴](https://pearlluck.tistory.com/m/823)
+
+---
+
+## 푸르고 개발 블로그w
+
+- [만개의 테스트를 작성하지 마라.](https://puleugo.tistory.com/m/202)
 
 ---
 

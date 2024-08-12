@@ -2361,5 +2361,12 @@
     "topics": ["abstract-machine", "balanced-ternary", "call-by-need", "church-encoding", "combinatory-logic", "de-bruijn", "lambda-calculus", "programming-language"],
     "avatar": "https://avatars.githubusercontent.com/u/32108934?v=4",
     "banner": ""
+  }, {
+    "repo": "versotile-org/verso",
+    "desc": "A web browser that plays old world blues to build new world hope",
+    "officialSite": "",
+    "topics": ["browser", "rust", "servo"],
+    "avatar": "https://avatars.githubusercontent.com/u/159318978?v=4",
+    "banner": ""
   }
 ]

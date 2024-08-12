@@ -80,6 +80,9 @@ tag:
 - [`@2fEJ` / 혁신적인 제품 개발을 위한 PRD 8가지 핵심 접근법 - PM/PO 이야기 #39](https://brunch.co.kr/@@2fEJ/1449)
 - [`@2fEJ` / 사용자 중심의 제품 개발: 성공을 위한 접근법 - PM/PO 이야기 #40](https://brunch.co.kr/@@2fEJ/1448)
 - [`@2rV` / PM을 위한 뉴스레터 | 2024.08.02 - 시몬 바일스,Meta의 Llama 3.1, 읽고 쓰고 소유하다...](https://brunch.co.kr/@@2rV/154)
+- [`@2fEJ` / \[PM/PO 특강: UX 디자인 프레임워크\]](https://brunch.co.kr/@@2fEJ/1453)
+- [`@2fEJ` / \[PM/PO 강의 특강: 사용성 법칙\]](https://brunch.co.kr/@@2fEJ/1452)
+- [`@2fEJ` / \[PM/PO 강의 특강: 인지심리학\]](https://brunch.co.kr/@@2fEJ/1451)
 
 <!-- END: brunch.co.kr -->
 

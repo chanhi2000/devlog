@@ -74,4 +74,10 @@ head:
 
 ---
 
+## 이모저모 개발 블로그
+
+- [\[1년 후 마실가실\] JWT 공부](https://hj0216.tistory.com/m/935)
+
+---
+
 <TagLinks />

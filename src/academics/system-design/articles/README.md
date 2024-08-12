@@ -11,6 +11,7 @@ tag:
   - blog
   - freecodecamp.org
   - smashingmagazine.com
+  - milanjovanovic.tech
   - yozm.wishket.com
   - techblog.woowahan.com
   - d2.maver.com

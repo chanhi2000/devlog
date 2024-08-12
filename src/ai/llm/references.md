@@ -34,6 +34,7 @@ head:
 <PDF url="https://arxiv.org/pdf/2404.07143" />
 <PDF url="https://arxiv.org/pdf/2404.14219" />
 <PDF url="https://arxiv.org/pdf/2407.12994" />
+<PDF url="https://arxiv.org/pdf/2407.21059" />
 
 ---
 
@@ -248,6 +249,15 @@ head:
 
 ---
 
+## Real Python
+
+- [Hugging Face Transformers: Leverage Open-Source AI in Python](https://realpython.com/huggingface-transformers/)
+- [Natural Language Processing (NLP) with Python's Natural Language Toolkit (NLTK).](https://realpython.com/nltk-nlp-python/)
+
+<!-- END: realpython.com -->
+
+---
+
 ## 정우일 블로그
 
 - [GGUF 파일로 로컬에서 LLM 실행하기](https://wooiljeong.github.io/ml/gguf-llm/)
@@ -424,6 +434,12 @@ head:
 
 - [“LLM 시장을 흔드는 메타 라마 3.1” 기업과 솔루션 업체의 득실](https://itworld.co.kr/news/345524)
 - [RAG 산업화 여정의 현재와 미래](https://itworld.co.kr/news/345482)
+- ["모델에 구애받지 않는 LLM 프롬프트 관리" 프롬프티 시작 가이드](https://itworld.co.kr/news/345734)
+- [AI 환상을 현실로 옮기는 가장 효과적인 방법](https://itworld.co.kr/news/346616)
+- ["프로젝트 3개 중 1개는 폐기" 생성형 AI 가치 입증이 어려운 이유](https://itworld.co.kr/news/346070)
+- [커뮤니티에 공개된 애플 인텔리전스 '비밀 지침'으로 보는 생성형 AI의 과제](https://itworld.co.kr/news/346882)
+
+<!-- END: itworld.co.kr -->
 
 ---
 

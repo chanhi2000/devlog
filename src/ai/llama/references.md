@@ -34,6 +34,7 @@ head:
 ### Blog
 
 - [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/)
+- [Introducing SAM 2: The next generation of Meta Segment Anything Model for videos and images](https://ai.meta.com/blog/segment-anything-2/)
 
 ### Research
 
@@ -66,6 +67,14 @@ head:
 
 - [지난번 라마3 모델의 순수 NumPy 구현에 이어 이번에는 라마3 모델을 순수 C/CUDA로 구현해봤습니다.](https://likejazz.com/post/757291470304755712)
 - [`llama.cpp`의 내부 구현을 분석하다가 ggml을 이용한 간단한 matmul 샘플을 구현해 봤습니다(프로젝트 링크는 댓글에). 원래 llama.cpp도 Georgi](https://likejazz.com/post/757653866022141952)
+
+---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [메타, 차세대 통합 모델 ‘SAM 2’ 출시 "실시간으로 비디오·이미지에서 객체 분할"](https://ciokorea.com/news/346581)
+
+<!-- END: ciokorea.com -->
 
 ---
 

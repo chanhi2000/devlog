@@ -22,7 +22,7 @@ head:
       content: "Project 23: Swifty Ninja"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/23/overview.html
-prev: /explore/articles/hackingwithswift.com/read/README.md
+prev: /explore/articles/hackingwithswift.com/read/22/04-wrap-up.md
 isOriginal: false
 ---
 

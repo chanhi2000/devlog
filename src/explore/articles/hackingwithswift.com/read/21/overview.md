@@ -22,7 +22,7 @@ head:
       content: "Project 21: Local Notifications"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/21/overview.html
-prev: /explore/articles/hackingwithswift.com/read/README.md
+prev: /explore/articles/hackingwithswift.com/read/20/04-wrap-up.md
 isOriginal: false
 ---
 

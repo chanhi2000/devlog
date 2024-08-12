@@ -651,13 +651,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "rasbt/LLMs-from-scratch",
-    "desc": "Implementing a ChatGPT-like LLM from scratch, step by step",
-    "officialSite": "https://www.manning.com/books/build-a-large-language-model-from-scratch",
-    "topics": ["chatgpt", "gpt", "large-language-models", "llm", "python", "pytorch"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "cfahlgren1/natural-sql",
     "desc": "A series of top performing Text to SQL LLMs",
     "officialSite": "",
@@ -830,13 +823,6 @@
     "desc": "llama3 implementation one matrix multiplication at a time",
     "officialSite": "",
     "topics": [],
-    "avatar": "",
-    "banner": ""
-  }, {
-    "repo": "rasbt/LLMs-from-scratch",
-    "desc": "Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step",
-    "officialSite": "https://www.manning.com/books/build-a-large-language-model-from-scratch",
-    "topics": ["chatgpt", "gpt", "large-language-models", "llm", "python", "pytorch"],
     "avatar": "",
     "banner": ""
   }, {

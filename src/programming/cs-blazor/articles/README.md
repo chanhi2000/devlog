@@ -10,6 +10,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - milanjovanovic.tech
   - code-maze.com
   - cs
   - c#
@@ -38,6 +39,13 @@ head:
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 <SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
+
+<SiteInfo
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
@@ -63,6 +71,24 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "Flexible PDF Reporting in .NET Using Razor Views",
+  "desc": "In this article, we'll explore the power of using Razor views for flexible PDF reporting in .NET. We'll see how to create report templates with Razor views, convert them to HTML, and then transform that HTML into beautifully formatted PDF documents.",
+  "link": "/explore/articles/milanjovanovic.tech/flexible-pdf-reporting-in-net-using-razor-views.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+<!-- END: milanjovanovic.tech -->
 
 ---
 

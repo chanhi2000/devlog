@@ -1068,6 +1068,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/cs/articles/README.md',
             asb.freecodecamp("cs"), 
+            asb.milanJovanovic("cs"),
             asb.johnnyreilly("cs"),
             asb.codemaze("cs"),
           ]
@@ -2397,6 +2398,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("docker"),
             asb.digitalocean("docker"),
             asb.learnk8s("docker"),
+            asb.milanJovanovic("redis"),
             asb.codemaze("docker"),
             asb.logrocket("docker"),
             asb.yozm("docker"),
@@ -3033,6 +3035,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/redis/articles/README.md',
+            asb.milanJovanovic("redis"),
             asb.yozm("redis"),
             asb.zuminternet("redis"),
           ]

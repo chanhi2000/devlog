@@ -25,6 +25,16 @@ tag:
 
 ---
 
+## tistory
+
+- [`webnautes`: 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [sqlite3 테이블 출력하는 Python 예제](https://webnautes.tistory.com/m/2372)
+  - [SQLite3 Python 예제](https://webnautes.tistory.com/m/2284)
+  
+<!-- END: tistory.com -->
+
+---
+
 ## Alex Garcia's Blog
 
 - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)

@@ -12,6 +12,7 @@ tag:
   - freecodecamp.org
   - digitalocean.com
   - learnk8s.io
+  - milanjovanovic.tech
   - code-maze.com
   - blog.logrocket.com
   - yozm.wishket.com
@@ -52,6 +53,13 @@ head:
   url="https://learnk8s.io/archive"
   logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
   preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
+
+<SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
 
 <SiteInfo
   name="Code Maze - C#, .NET and Web Development Tutorials"
@@ -197,6 +205,24 @@ head:
 ```
 
 <!-- END: learnk8s.io -->
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "Simple Messaging in .NET With Redis Pub/Sub",
+  "desc": "Redis is a popular choice for caching data, but its capabilities go far beyond that. One of its lesser-known features is Pub/Sub support. Redis channels offer an interesting approach for implementing real-time messaging in your .NET applications.",
+  "link": "/explore/articles/milanjovanovic.tech/simple-messaging-in-dotnet-with-redis-pubsub.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+<!-- milanjovanovic.tech -->
 
 ---
 

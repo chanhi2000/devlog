@@ -895,6 +895,13 @@ https://www.joinc.co.kr/w/Site
 }
 ```
 
+<SiteInfo
+  name="Understanding Deep Learning"
+  desc="Understanding Deep Learning - Simon J.D. Prince"
+  url="https://udlbook.github.io/udlbook/"
+  logo="https://udlbook.github.io/udlbook/favicon.ico"
+  preview="https://udlbook.github.io/udlbook/assets/book_cover-B3FyEkB6.jpg"/>
+
 <!-- END: Crashcourse -->
 
 @tab Cheatsheet

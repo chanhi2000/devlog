@@ -22,7 +22,7 @@ head:
       content: "Project 22: Detect-a-Beacon"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/22/overview.html
-prev: /explore/articles/hackingwithswift.com/read/README.md
+prev: /explore/articles/hackingwithswift.com/read/21/04-wrap-up.md
 isOriginal: false
 ---
 

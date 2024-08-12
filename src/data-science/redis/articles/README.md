@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - milanjovanovic.tech
   - yozm.wishket.com
   - zuminternet.github.io
   - redis
@@ -22,6 +23,13 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
 
 ```component VPCard
 {
@@ -44,6 +52,34 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "Caching in ASP.NET Core: Improving Application Performance",
+  "desc": "Caching is one of the simplest techniques to significantly improve your application's performance. In this newsletter, we will explore how to implement caching in ASP.NET Core applications.",
+  "link": "/explore/articles/milanjovanovic.tech/caching-in-aspnetcore-improving-application-performance.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Simple Messaging in .NET With Redis Pub/Sub",
+  "desc": "Redis is a popular choice for caching data, but its capabilities go far beyond that. One of its lesser-known features is Pub/Sub support. Redis channels offer an interesting approach for implementing real-time messaging in your .NET applications.",
+  "link": "/explore/articles/milanjovanovic.tech/simple-messaging-in-dotnet-with-redis-pubsub.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+<!-- milanjovanovic.tech -->
 
 ---
 

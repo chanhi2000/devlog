@@ -22,7 +22,7 @@ head:
       content: "Project 25: Selfie Share"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/25/overview.html
-prev: /explore/articles/hackingwithswift.com/read/README.md
+prev: /explore/articles/hackingwithswift.com/read/24/05-wrap-up.md
 isOriginal: false
 ---
 
@@ -58,7 +58,55 @@ Make a multipeer photo sharing app in just 150 lines of code.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/25/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Importing photos again | Hacking with iOS",
+  "desc": "Importing photos again",
+  "link": "/explore/articles/hackingwithswift.com/read/25/02-importing-photos-again.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Going peer to peer: MCSession, MCBrowserViewControll | Hacking with iOS",
+  "desc": "Going peer to peer: MCSession, MCBrowserViewControll",
+  "link": "/explore/articles/hackingwithswift.com/read/25/03-going-peer-to-peer-mcsession-mcbrowserviewcontroller.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Invitation only: MCPeerID | Hacking with iOS",
+  "desc": "Invitation only: MCPeerID",
+  "link": "/explore/articles/hackingwithswift.com/read/25/04-invitation-only-mcpeerid.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/25/05-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

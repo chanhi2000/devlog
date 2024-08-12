@@ -350,6 +350,7 @@ head:
 - [생성 AI 연구 활용 가이드](https://jehyunlee.github.io/2024/05/19/General-52-genairesearch/)
 - [연구용 GPT 만들기 - 논문봇 등](https://jehyunlee.github.io/2024/06/19/General-56-customgpt/)
 - [KIRD - RnD 수행시 생성 AI를 현명하게 활용하는 방법](https://jehyunlee.github.io/2024/07/16/General-57-kirdalphacampus/)
+- [데이터 분석용 GPTs - 플랏봇](https://jehyunlee.github.io/2024/08/11/General-58-plotbot/)
 
 ---
 
@@ -477,5 +478,11 @@ head:
 - [오만과 편견 with ChatGPT](https://jusths.tistory.com/m/419)
 
 ---
+
+## 비즈니스, 테크놀로지, 리더십 - CIO Korea
+
+- [“JSON 형식으로 AI 결과물 출력”··· 오픈AI, 개발자 공략한 GPT-4o 새 버전 출시](https://ciokorea.com/news/347071)
+
+<!-- END: ciokorea.com -->
 
 <TagLinks />

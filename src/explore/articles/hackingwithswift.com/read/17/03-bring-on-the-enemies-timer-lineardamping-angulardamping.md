@@ -75,7 +75,11 @@ We need to create a new enemy on a regular basis, so the first thing to do is cr
 gameTimer = Timer.scheduledTimer(timeInterval: 0.35, target: self, selector: #selector(createEnemy), userInfo: nil, repeats: true)
 ```
 
-**Tip:** The `scheduledTimer()` timer not only creates a timer, but also starts it immediately.
+::: tip
+
+The `scheduledTimer()` timer not only creates a timer, but also starts it immediately.
+
+:::
 
 Creating an enemy needs to use techniques that you've mostly seen already: it will shuffle the `possibleEnemies` array, create a sprite node using the first item in that array, position it off the right edge and with a random vertical position, then add it to the scene.
 
