@@ -335,6 +335,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide",
+  "desc": "In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...",
+  "link": "/explore/articles/codecamp.org/get-mongodb-url-to-connect-to-a-nodejs-application.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

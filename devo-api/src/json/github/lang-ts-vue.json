@@ -1,0 +1,52 @@
+[
+  {
+    "repo": "CorentinTh/it-tools",
+    "desc": "Collection of handy online tools for developers, with great UX.",
+    "officialSite": "https://it-tools.tech",
+    "topics": ["javascript", "productivity", "converter", "website", "vuejs", "typescript", "tools", "frontend", "tool", "developer-tools", "developer-productivity"],
+    "banner": "",
+    "avatar": ""
+  }, {
+    "repo": "tillywork/tillywork",
+    "desc": "Opensource work management",
+    "officialSite": "https://tilly.work",
+    "topics": ["agile-management", "crm", "nestjs", "project-management", "sales-crm", "vue3", "vuetify"],
+    "banner": "",
+    "avatar": ""
+  }, {
+    "repo": "ccbikai/Sink",
+    "desc": "A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.",
+    "officialSite": "https://sink.cool",
+    "topics": ["cloudflare", "link-shortener", "link-shortner", "linkshortener", "sink", "url-shortener", "urlshortener", "urlshorter"],
+    "banner": "",
+    "avatar": ""
+  }, {
+    "repo": "epicmaxco/vuestic-ui",
+    "desc": "Free and Open Source UI Library for Vue 3 🤘",
+    "officialSite": "https://vuestic.dev",
+    "topics": ["accessibility", "components", "javascript", "semantic", "typescript", "ui-components", "ui-kit", "vue", "vue-components", "vue3", "vuejs", "vuejs3", "vuestic", "vuestic-ui"],
+    "banner": "",
+    "avatar": ""
+  }, {
+    "repo": "ccbikai/Sink",
+    "desc": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+    "officialSite": "https://sink.cool",
+    "topics": ["cloudflare", "link-shortener", "link-shortner", "linkshortener", "sink", "url-shortener", "urlshortener", "urlshorter"],
+    "banner": "",
+    "avatar": ""
+  }, {
+    "repo": "chakra-ui/ark",
+    "desc": "A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.",
+    "officialSite": "https://ark-ui.com",
+    "topics": ["accordion", "carousel", "checkbox", "color-picker", "combobox", "dialog", "editable", "headless", "menu", "pagination", "popover", "primitives", "react", "select", "solid", "svelte", "tabs", "toast", "vue"],
+    "banner": "",
+    "avatar": ""
+  }, {
+    "repo": "vbenjs/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！",
+    "officialSite": "https://www.vben.pro",
+    "topics": ["admin-template", "ant-design", "tsx", "typescript", "vben", "vite", "vite-template", "vue-router", "vue3", "vuex"],
+    "avatar": "https://avatars.githubusercontent.com/u/76995045?v=4",
+    "banner": ""
+  }
+]

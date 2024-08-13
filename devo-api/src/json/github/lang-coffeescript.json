@@ -1,0 +1,17 @@
+[
+  {
+    "repo": "jashkenas/coffeescript",
+    "desc": "Unfancy JavaScript",
+    "officialSite": "https://coffeescript.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mojs/mojs",
+    "desc": "The motion graphics toolbelt for the web",
+    "officialSite": "https://mojs.github.io",
+    "topics": ["javascript", "svg", "design", "library", "webpack", "web", "modern", "es6", "timeline", "animation", "shape", "graphics", "motion", "burst", "motion-graphics", "swirl", "toolbelt", "mojs", "mo-js"],
+    "avatar": "",
+    "banner": ""
+  }
+]

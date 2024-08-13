@@ -1,0 +1,43 @@
+[
+  {
+    "repo": "linuxserver/docker-bookstack",
+    "desc": "A Docker container for the BookStack documentation wiki",
+    "officialSite": "",
+    "topics": ["docker", "documentation", "hacktoberfest", "bookstack-container"]
+  }, {
+    "repo": "linuxserver/docker-mariadb",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["hacktoberfest"]
+  }, {
+    "repo": "linuxserver/docker-kasm",
+    "desc": "Kasm Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "iv-org/documentation",
+    "desc": "The official Invidious documentation",
+    "officialSite": "https://docs.invidious.io",
+    "topics": []
+  }, {
+    "repo": "justinclift/docker-pgautoupgrade",
+    "desc": "PostgreSQL docker container which automatically upgrades to latest PostgreSQL version",
+    "officialSite": "https://hub.docker.com/r/pgautoupgrade/pgautoupgrade",
+    "topics": ["docker", "postgres", "postgresql", "postgresql-database", "upgrade"]
+  }, {
+    "repo": "vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "officialSite": "https://vulhub.org",
+    "topics": ["docker", "docker-compose", "dockerfile", "vulhub", "vulnerability-environment"]
+  }, {
+    "repo": "jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "officialSite": "https://jaywcjlove.github.io/reference",
+    "topics": ["cheatsheet", "docker", "javascript", "npm", "npm-package", "reactjs", "references", "semver", "toml", "typescript"]
+  }, {
+    "repo": "Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+    "officialSite": "https://cook.aiursoft.cn",
+    "topics": ["chinese", "cookbook", "cooking", "dishes", "recipes"]
+  }
+]

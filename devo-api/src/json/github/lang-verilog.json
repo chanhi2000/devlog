@@ -1,0 +1,52 @@
+[
+  {
+    "repo": "nukeykt/Nuked-MD-FPGA",
+    "desc": "Mega Drive/Genesis core written in Verilog",
+    "officialSite": "",
+    "topics": ["fpga", "emulation", "reverse-engineering", "z80", "verilog", "mega-drive", "genesis", "megadrive", "sega-megadrive", "sega-genesis", "68000", "ym2612", "ym3438", "ym7101", "ym6045", "ym6046"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lawrie/fpga_pio",
+    "desc": "An attempt to recreate the RP2040 PIO in an FPGA",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "The-OpenROAD-Project/OpenROAD",
+    "desc": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+    "officialSite": "https://theopenroadproject.org/",
+    "topics": ["cpp", "def", "eda", "gdsii", "lef", "opendb-database", "openroad", "rtl", "tcl", "timing-analysis", "verilog"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "adam-maj/tiny-gpu",
+    "desc": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rejunity/z80-open-silicon",
+    "desc": "Z80 open-source silicon. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.",
+    "officialSite": "https://rejunity.github.io/z80-open-silicon/",
+    "topics": ["chip", "foss", "tinytapeout", "z80"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "adam-maj/tiny-gpu",
+    "desc": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "turbo9team/turbo9",
+    "desc": "Turbo9 - Pipelined 6809 Microprocessor IP",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }
+]

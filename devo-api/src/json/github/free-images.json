@@ -1,0 +1,59 @@
+[
+  {
+    "repo": "KenneyNL/Godot-SplashScreens",
+    "desc": "Over 30 splash screens to use in Godot",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/material-design-icons",
+    "desc": "Material Design icons by Google",
+    "officialSite": "http://google.github.io/material-design-icons",
+    "topics": ["android", "icons", "ios", "material", "material-design", "sprites", "web"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Ileriayo/markdown-badges",
+    "desc": "Badges for your personal developer branding, profile, and projects.",
+    "officialSite": "https://ileriayo.github.io/markdown-badges",
+    "topics": ["badges-markdown", "branding", "developer-portfolio", "github-profile", "github-profile-readme", "hacktoberfest", "markdown"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "n3r4zzurr0/svg-spinners",
+    "desc": "A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)",
+    "officialSite": "",
+    "topics": ["svg-animated-icons"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tailwindlabs/heroicons",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "officialSite": "https://heroicons.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "upptime/upptime",
+    "desc": "⬆️ Free uptime monitor and status page powered by GitHub",
+    "officialSite": "https://upptime.js.org",
+    "topics": ["incidents-reports", "status", "statuspage", "upptime", "uptime", "uptime-monitor"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wanteddev/wanted-sans",
+    "desc": "곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul",
+    "officialSite": "",
+    "topics": ["font", "fonts", "typeface"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SAWARATSUKI/KawaiiLogos",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }
+]

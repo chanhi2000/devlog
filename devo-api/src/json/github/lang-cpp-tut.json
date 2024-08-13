@@ -1,0 +1,24 @@
+[
+  {
+    "repo": "RainerGrimm/FundamentalsForCppProfessionals",
+    "desc": "Source Code for the Mentoring Program \"Fundamentals for C++ Professionals\"",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TheAlgorithms/C-Plus-Plus",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "officialSite": "https://thealgorithms.github.io/C-Plus-Plus",
+    "topics": ["algorithm", "algorithm-competitions", "algorithms", "algorithms-implemented", "artificial-intelligence-algorithms", "computer-science", "cpp", "data-structures", "educational", "hacktoberfest", "instructor-materials", "interview-preparation", "interview-questions", "machine-learning", "machine-learning-algorithms", "mathematics", "search", "sort"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cp-algorithms/cp-algorithms",
+    "desc": "Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)",
+    "officialSite": "https://cp-algorithms.com/",
+    "topics": ["algorithm-competitions", "algorithms", "algorithms-and-data-structures", "competitive-programming", "competitive-programming-contests", "data-structures", "hacktoberfest", "hacktoberfest-accepted", "learning-materials", "programming-competitions", "programming-contests", "translation"],
+    "avatar": "",
+    "banner": ""
+  }
+]

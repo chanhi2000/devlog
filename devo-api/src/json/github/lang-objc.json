@@ -1,0 +1,53 @@
+[
+  {
+    "repo": "abbiio/iosdk",
+    "desc": "Abbi iOS SDK",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tumblr/TMTumblrSDK",
+    "desc": "Unopinionated and flexible library for easily integrating Tumblr data into your iOS or OS X application.",
+    "officialSite": "http://tumblr.github.com/TMTumblrSDK",
+    "topics": []
+  }, {
+    "repo": "jonreid/OCMockito",
+    "desc": "Mockito for Objective-C: creation, verification and stubbing of mock objects",
+    "officialSite": "",
+    "topics": ["mocking", "mocking-framework", "mockito", "objective-c", "testing", "xctest"]
+  }, {
+    "repo": "darlinghq/darling",
+    "desc": "Darwin/macOS emulation layer for Linux",
+    "officialSite": "http://www.darlinghq.org",
+    "topics": []
+  }, {
+    "repo": "roothide/Bootstrap",
+    "desc": "A full featured bootstrap for ios14.0~17.0 (A8~A17,M1+M2)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "zydeco/minivmac4ios",
+    "desc": "Mini vMac for iOS",
+    "officialSite": "https://namedfork.net/minivmac",
+    "topics": ["emulator", "ios", "m68k", "macintosh", "mini-vmac"]
+  }, {
+    "repo": "aleixsr/HP-Pavilion-Aero-13-Hackintosh",
+    "desc": "OpenCore EFI for HP Pavilion Aero 13 - be0006ns Laptop",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "parkle-project/Sparkle",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mrustaa/ContainerView",
+    "desc": "ContainerView is designed to add a cool swim from the bottom to the animation with the effect of scale, controlled by the help of a gesture, scrollView also takes control. The idea is taken from the application: https://www.apple.com/ios/maps/",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "firebase/firebase-ios-sdk",
+    "desc": "Firebase SDK for Apple App Development",
+    "officialSite": "https://firebase.google.com",
+    "topics": ["authentication", "database-as-a-service", "firebase", "firebase-auth", "firebase-authentication", "firebase-database", "firebase-messaging", "firebase-storage", "ios-sdk", "objective-c", "push-notifications", "storage-service"]
+  }
+]

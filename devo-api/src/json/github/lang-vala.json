@@ -1,0 +1,17 @@
+[
+  {
+    "repo": "RajSolai/TextSnatcher",
+    "desc": "How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop.",
+    "officialSite": "https://textsnatcher.rf.gd/",
+    "topics": ["elementary-apps", "flatpak", "gtk3", "libhandy", "linux-app", "meson", "ocr", "tesseract-ocr", "vala"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "linuxmint/timeshift",
+    "desc": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/107184?v=4",
+    "banner": ""
+  }
+]

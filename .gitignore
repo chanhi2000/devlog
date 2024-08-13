@@ -132,3 +132,5 @@ dist
 .pnp.*
 
 *.proflaw
+awesome-devblog-*-*-*.md
+devo-*-*-*.json

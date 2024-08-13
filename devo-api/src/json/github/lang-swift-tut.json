@@ -1,0 +1,58 @@
+[
+  {
+    "repo": "pointfreeco/episode-code-samples",
+    "desc": "💾 Point-Free episode code.",
+    "officialSite": "https://www.pointfree.co",
+    "topics": []
+  }, {
+    "repo": "twostraws/HackingWithSwift",
+    "desc": "The project source code for hackingwithswift.com",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "twostraws/wwdc",
+    "desc": "WWDC Community: Learning and sharing together",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "apple/sample-backyard-birds",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "vincent-pradeilles/swift-tips",
+    "desc": "A collection useful tips for the Swift language",
+    "officialSite": "",
+    "topics": ["swift", "tips"]
+  }, {
+    "repo": "satoshi0212/visionOS_30Days",
+    "desc": "visionOS 30 days challenge.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "twostraws/Inferno",
+    "desc": "Metal shaders for SwiftUI.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "apple/swift-aoc-starter-example",
+    "desc": "Swift starter project for solving Advent of Code challenges.",
+    "officialSite": "https://adventofcode.com",
+    "topics": ["advent-of-code", "advent-of-code-2023", "advent-of-code-2023-swift", "swift"]
+  }, {
+    "repo": "mattmassicotte/ConcurrencyRecipes",
+    "desc": "Practical solutions to problems with Swift Concurrency",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "kotlin-hands-on/kotlin-swift-interopedia",
+    "desc": "Kotlin Swift Interopedia",
+    "officialSite": "",
+    "topics": ["interoperability", "kotlin", "swift"]
+  }, {
+    "repo": "ml-explore/mlx-swift-examples",
+    "desc": "Examples using MLX Swift",
+    "officialSite": "",
+    "topics": ["mlx"]
+  }
+]

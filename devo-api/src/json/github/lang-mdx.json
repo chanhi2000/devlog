@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "weaveworks/weave-gitops",
+    "desc": "Weave GitOps provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your teams.",
+    "officialSite": "https://docs.gitops.weave.works/",
+    "topics": ["cloudnative", "flux", "flux2", "gitops", "k8s", "ui"]
+  }
+]

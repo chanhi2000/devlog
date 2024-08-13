@@ -1,0 +1,45 @@
+[ 
+  {
+    "repo": "BrunoLevy/learn-fpga",
+    "desc": "Learning FPGA, yosys, nextpnr, and RISC-V",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "below/HelloSilicon",
+    "desc": "An introduction to ARM64 assembly on Apple Silicon Macs",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cstack/db_tutorial",
+    "desc": "Writing a sqlite clone from scratch in C",
+    "officialSite": "https://cstack.github.io/db_tutorial",
+    "topics": ["databse"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "RainerGrimm/DesignPatternsAndArchitecturalPatterns",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "RahulSChand/llama2.c-for-dummies",
+    "desc": "Step by step explanation/tutorial of llama2.c",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "phitronio/Batch-4-Introduction-to-C-Programming",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }
+]

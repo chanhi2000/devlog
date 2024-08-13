@@ -173,6 +173,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What is a Component Library? When to Build Your Own and When to Use Someone Else's",
+  "desc": "If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...",
+  "link": "/explore/articles/freecodecamp.org/what-is-a-component-library-when-to-build-your-own.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -452,6 +452,14 @@ head:
 
 ---
 
+## 프로그래머 김성엽
+
+- [남는 공유기로 무선 확장하기](https://m.blog.naver.com/tipsware/223545815618)
+
+<!-- END tipsware -->
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

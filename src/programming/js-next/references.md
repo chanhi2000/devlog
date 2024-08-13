@@ -58,6 +58,11 @@ head:
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@composite` / Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
+- [`@winterlood` / 한 입 크기로 잘라먹는 Next.js(15+) 사전등록 이벤트 안내](https://velog.io/@winterlood/%ED%95%9C-%EC%9E%85-%ED%81%AC%EA%B8%B0%EB%A1%9C-%EC%9E%98%EB%9D%BC%EB%A8%B9%EB%8A%94-Next.js15)
+
+<!-- END: velog.io -->
+
+---
 
 ## BLEX
 

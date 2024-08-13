@@ -176,6 +176,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns",
+  "desc": "Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...",
+  "link": "/explore/articles/freecodecamp.org/graceful-shutdowns-k8s-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

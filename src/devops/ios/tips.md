@@ -25,4 +25,8 @@ head:
 
 ---
 
+Unexpected device state 'Recovery' expected 'RestoreOS' (Probably caused by corruption or panic in the bundle's restored) [`com.apple.MobileDevice.MobileRestore` – 0xFAD (4013)]
+
+---
+
 <TagLinks />

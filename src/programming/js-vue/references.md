@@ -164,4 +164,12 @@ head:
 
 - [Vue를 만드는 여정은 개발자로 성장하는 여정이었다 - 비전공자가 Vue.js를 창작하기까지](https://m.blog.naver.com/fastcampus/220969253285)
 
+---
+
+## 큰돌의 터전
+
+- [Vue.js  컴포넌트 모듈화의 기준](https://m.blog.naver.com/jhc9639/223545702387)
+
+---
+
 <TagLinks />

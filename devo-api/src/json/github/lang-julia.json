@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "lukemerrick/JuLox.jl",
+    "desc": "A new Julia implementation of the Lox language from Robert Nystrom's Crafting Interpreters",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "nathanleiby/jlox",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Clemapfel/mousetrap.jl",
+    "desc": "Finally, a GUI Engine made for Julia",
+    "officialSite": "https://clemens-cords.com/mousetrap",
+    "topics": ["gui", "julia", "julia-language", "gui-framework", "julia-package", "gui-frontend", "gui-frontend-framework"]
+  }
+]

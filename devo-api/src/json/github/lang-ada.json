@@ -1,0 +1,17 @@
+[
+  {
+    "repo": "alkhimey/Ada_Kernel_Module_Framework",
+    "desc": "Framework for writing Linux kernel modules in Ada",
+    "officialSite": "http://www.nihamkin.com/tag/kernel.html",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alire-project/alire",
+    "desc": "Command-line tool from the Alire project and supporting library",
+    "officialSite": "",
+    "topics": ["ada", "ada-2012", "package-management", "package-manager", "package-manager-tool", "reproducible-builds"],
+    "avatar": "",
+    "banner": ""
+  }
+]

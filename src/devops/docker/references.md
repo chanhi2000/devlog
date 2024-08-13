@@ -271,10 +271,16 @@ head:
 
 ---
 
-## Octoping
+## tistory
 
-- [[번역] Spring Topical Guides - Spring Boot Docker](https://octoping.tistory.com/58)
-  
+- [`octoping` / Octoping](https://octoping.tistory.com/m/)
+  - [[번역] Spring Topical Guides - Spring Boot Docker](https://octoping.tistory.com/m/58)
+  <!-- END: octoping -->
+- [`cori` / 코딩하는 오리](http://cori.tistory.com/m/)
+  - [나의 개발 일지 (1) 서버 세팅](http://cori.tistory.com/m/345)
+  - [나의 개발 일지 (2) Docker 설정](http://cori.tistory.com/m/346)
+  <!-- END: cori -->
+<!-- END: tistory.com -->
 ---
 
 ## jacking75
@@ -437,6 +443,7 @@ head:
 
 - [라즈베리 파이에 Docker 설치 및 컨테이너 실행](https://bbogle2.tistory.com/m/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%97%90-Docker-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%8B%A4%ED%96%89)
 - [Jenkins 서버 구축하기 (1)](https://bbogle2.tistory.com/m/entry/Jenkins-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1)
+- [Jenkins로 Docker Container 배포하기](https://bbogle2.tistory.com/m/entry/Jenkins%EB%A1%9C-Docker-Container-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
 ---
 

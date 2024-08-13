@@ -1,0 +1,24 @@
+[
+  {
+    "repo": "zedeus/nitter",
+    "desc": "Alternative Twitter front-end",
+    "officialSite": "https://nitter.net",
+    "topics": ["nim", "privacy", "self-hosted", "twitter"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "khaledh/fusion",
+    "desc": "A hobby OS implemented in Nim",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mratsim/constantine",
+    "desc": "Constantine: modular, high-performance, zero-dependency  cryptography stack for verifiable computation, proof systems and blockchain protocols.",
+    "officialSite": "",
+    "topics": ["barreto-naehrig", "bigint", "bignum", "bls", "bls-signature", "bls12-381", "constant-time", "cryptography", "digital-signature", "elliptic-curve-arithmetic", "elliptic-curve-cryptography", "elliptic-curves", "finite-fields", "galois-field", "hash-to-curve", "pairing", "pairing-cryptography", "public-key-cryptography", "side-channels", "zkp"],
+    "avatar": "https://avatars.githubusercontent.com/u/22738317?v=4",
+    "banner": ""
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "repo": "leanprover/lean4",
+    "desc": "Lean 4 programming language and theorem prover",
+    "officialSite": "https://lean-lang.org",
+    "topics": ["lean", "lean4"],
+    "avatar": "https://avatars.githubusercontent.com/u/7233018?v=4",
+    "banner": ""
+  }
+]

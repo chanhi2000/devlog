@@ -43,6 +43,7 @@ head:
   - [pyQt5 다중 탭에 텍스트 에디터가 포함된 예제](https://webnautes.tistory.com/m/2364)
   - [두 개의 바를 사용하여 최대값, 최소값 조정하는 슬라이더 PyQt5 예제](https://webnautes.tistory.com/m/2366)
   - [pyQt5 QDoubleSpinBox 예제](https://webnautes.tistory.com/m/2368)
+  - [PyQt5 검색창 UI 예제](https://webnautes.tistory.com/m/2369)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

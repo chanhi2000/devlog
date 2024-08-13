@@ -127,6 +127,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 20일차 TIL - 그리디](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-20%EC%9D%BC%EC%B0%A8-TIL-%EA%B7%B8%EB%A6%AC%EB%94%94)
 - [`@dongha1992` / 99클럽 코테 스터디 21일차 TIL - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-21%EC%9D%BC%EC%B0%A8-TIL-DP)
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 객체 지향 설계 과정](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-%EA%B3%BC%EC%A0%95)
+- [`@dongha1992` / 99클럽 코테 스터디 22일차 TIL - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-22%EC%9D%BC%EC%B0%A8-TIL-DP)
 
 <!-- END: velog.io java -->
 
@@ -206,6 +207,7 @@ tag:
   - [\[프로그래머스\] 짝지어 제거하기 - java](https://findsilverlining.tistory.com/m/108)
   - [\[프로그래머스\] 기능개발 - java](https://findsilverlining.tistory.com/m/109)
   - [\[프로그래머스\] 완주하지 못한 선수 - java](https://findsilverlining.tistory.com/m/110)
+  - [\[프로그래머스\] 예상 대진표 - java](https://findsilverlining.tistory.com/m/114)
   <!-- END: findsilverlining -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [Java에서 외부 프로그램 실행하기](https://backend-jaamong.tistory.com/m/172)
@@ -214,6 +216,7 @@ tag:
 - [`jakpentest` / 뭐라도 해야 한다면 기록을 하자](https://jakpentest.tistory.com/m/)
   - [[Programmers] 코딩 테스트 입문 - 배열관련 문제들 (with Java)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%B0%B0%EC%97%B4%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C%EB%93%A4-with-Java)
   - [\[Programmers\]\[Java\] 모음 제거](https://jakpentest.tistory.com/m/entry/ProgrammersJava-%EB%AA%A8%EC%9D%8C-%EC%A0%9C%EA%B1%B0)
+  - [\[Programmers\]\[Java\] 가장 큰 수 찾기](https://jakpentest.tistory.com/m/entry/ProgrammersJava-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%B0%BE%EA%B8%B0)
   <!-- END: jakpentest -->
 
 <!-- END: tistory.com -->

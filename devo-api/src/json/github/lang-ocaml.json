@@ -1,0 +1,28 @@
+[
+  {
+    "repo": "ocaml-wasm/wasm_of_ocaml",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "austral/austral",
+    "desc": "Systems language with linear types and capability-based security.",
+    "officialSite": "https://austral-lang.org",
+    "topics": ["compiler", "capabilities", "linear-types"]
+  }, {
+    "repo": "CatalaLang/catala",
+    "desc": "Programming language for literate programming law specification",
+    "officialSite": "https://catala-lang.org",
+    "topics": ["programming-language", "legislative-texts"]
+  }, {
+    "repo": "panglesd/slipshow",
+    "desc": "An engine for displaying slips, the next-gen version of slides",
+    "officialSite": "",
+    "topics": ["slides", "slideshow", "slideshow-html", "slideshow-library", "slideshow-maker", "slip", "slips"]
+  }, {
+    "repo": "mazeppa-dev/mazeppa",
+    "desc": "A modern supercompiler for call-by-value functional languages",
+    "officialSite": "",
+    "topics": ["compiler", "functional", "functional-programming", "intermediate-representation", "language", "optimization", "performance", "program-analysis", "programming-language", "static-analysis", "supercompiler", "symbolic-execution"]
+  }
+]

@@ -306,6 +306,8 @@ head:
 
 ## tistory
 
+- [`rhlinux` / + ROOT:/ 루트 슬래쉬 +](http://rhlinux.tistory.com/m/)
+  - [시험](http://rhlinux.tistory.com/m/50)
 - [`thalals` / 힘차게, 열심히 공대생](https://thalals.tistory.com/m/)
   - [OpenAPI 와 스웨거를 활용한 실전 API 설계 (feat. 요구사항으로 부터 도메인 모델링하기)](https://thalals.tistory.com/m/477)
   - [[한빛앤 MSA 세미나] 서비스 장애 잘 이해하고 대비하기 | 박순영](https://thalals.tistory.com/m/480)

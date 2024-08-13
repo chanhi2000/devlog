@@ -194,6 +194,8 @@ tag:
 - [`@devyang97` / [Android] `productFlavors` 별로 `google-services.json` 설정하기](https://velog.io/@devyang97/Android-productFlavors-%EB%B3%84%EB%A1%9C-google-service.json-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [`@thd0427` / Compose 부수 효과 총정리](https://velog.io/@thd0427/Compose-%EB%B6%80%EC%88%98-%ED%9A%A8%EA%B3%BC-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 - [`@stella6767` / 인앱 구독 결제 (In-App Purchase: IAP) 서버사이드 검증 2 - Android](https://velog.io/@stella6767/%EC%9D%B8%EC%95%B1-%EA%B5%AC%EB%8F%85-%EA%B2%B0%EC%A0%9C-In-App-Purchase-IAP-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EA%B2%80%EC%A6%9D-2-Android)
+- [`@thd0427` / Benchmark에 대하여](https://velog.io/@thd0427/Benchmark%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+- [`@thd0427` / Android Baseline Profile란](https://velog.io/@thd0427/Android-Baseline-Profile%EB%9E%80)
 
 <!-- END: velog.io -->
 

@@ -1,0 +1,80 @@
+[
+  {
+    "repo": "ziglang/zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "officialSite": "https://ziglang.org",
+    "topics": ["compiler", "language", "zig"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "andrewrk/poop",
+    "desc": "Performance Optimizer Observation Platform",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "oven-sh/bun",
+    "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "officialSite": "https://bun.sh",
+    "topics": ["react", "nodejs", "javascript", "npm", "bundler", "typescript", "jsx", "zig", "transpiler", "javascriptcore", "bun", "ziglang"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zigcc/zig-cookbook",
+    "desc": "Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.",
+    "officialSite": "https://zigcc.github.io/zig-cookbook/",
+    "topics": ["zig", "ziglang"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tigerbeetle/tigerbeetle",
+    "desc": "The distributed financial transactions database designed for mission critical safety and performance.",
+    "officialSite": "https://tigerbeetle.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ZigEmbeddedGroup/microzig",
+    "desc": "Unified abstraction layer and HAL for several microcontrollers",
+    "officialSite": "",
+    "topics": ["embedded", "hal", "zig", "zig-package", "ziglang"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NilsIrl/dockerc",
+    "desc": "container image to single executable compiler",
+    "officialSite": "",
+    "topics": ["containers", "docker", "oci", "oci-image"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mitchellh/libxev",
+    "desc": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "officialSite": "",
+    "topics": ["async", "c", "epoll", "io-uring", "kqueue", "wasi", "webassembly", "zig"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Senryoku/smol-string",
+    "desc": "Compression for browsers' localStorage. Alternative to lz-string written in Zig.",
+    "officialSite": "https://senryoku.github.io/smol-string/",
+    "topics": ["browser", "compression", "localstorage", "typescript", "web", "zig"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Vexu/arocc",
+    "desc": "A C compiler written in Zig.",
+    "officialSite": "http://aro.vexu.eu/",
+    "topics": ["c", "compiler", "zig"],
+    "avatar": "https://avatars.githubusercontent.com/u/15308111?v=4",
+    "banner": ""
+  }, {
+    "repo": "judofyr/spice",
+    "desc": "Fine-grained parallelism with sub-nanosecond overhead in Zig",
+    "officialSite": "",
+    "topics": ["concurrency", "parallelism", "threads", "zig", "zig-package"],
+    "avatar": "https://avatars.githubusercontent.com/u/499?v=4",
+    "banner": ""
+  }
+]

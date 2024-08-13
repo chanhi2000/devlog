@@ -1,0 +1,52 @@
+[
+  {
+    "repo": "microsoft/hack-together",
+    "desc": "Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/hack-together-teams",
+    "desc": "HackTogether: The Microsoft Teams Global Hack | Register, Hack, Win 👇",
+    "officialSite": "https://aka.ms/hack-together-teams/register",
+    "topics": ["javascript", "microsoft", "dotnet", "hackathon", "microsoft-teams"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dodyg/practical-aspnetcore",
+    "desc": "Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0, 7.0 and 8.0 RC 1 projects you can use. Readme contains explanations on all projects.",
+    "officialSite": "",
+    "topics": ["aspnetcore", "dotnet-core", "aspnet-core", "asp-net-core", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "evolutionary-architecture/evolutionary-architecture-by-example",
+    "desc": "Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.",
+    "officialSite": "",
+    "topics": ["microservices", "ddd", "clean-code", "architecture", "domain-driven-design", "clean-architecture", "software", "software-engineering", "software-development", "ddd-patterns", "software-architecture", "ddd-architecture", "architecture-decision-records", "software-design", "architecture-guidelines", "architecture-components", "ddd-example", "modular-monolith", "modular-monolith-architecture", "modular-monolith-design"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "milanm/DotNet-Developer-Roadmap",
+    "desc": "The comprehensive .NET Developer Roadmap by seniority level.",
+    "officialSite": "https://newsletter.techworld-with-milan.com/",
+    "topics": ["asp-net", "asp-net-core", "aspnet", "aspnetcore", "blazor", "csharp", "dotnet", "dotnet-core", "maui", "razor", "roadmap"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "StefanTheCode/dotnet_interview_questions",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "oskardudycz/EventSourcing.NetCore",
+    "desc": "Examples and Tutorials of Event Sourcing in .NET",
+    "officialSite": "https://event-driven.io",
+    "topics": ["cqrs", "dotnet-core", "event-sourcing", "example", "hacktoberfest", "marten", "mediatr", "netcore"],
+    "avatar": "https://avatars.githubusercontent.com/u/5562528?v=4",
+    "banner": ""
+  }
+]

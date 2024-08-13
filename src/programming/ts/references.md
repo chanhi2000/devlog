@@ -171,6 +171,9 @@ head:
 - [`@dongha1992` / \[프로그래머스\] 합승 택시 요금](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%95%A9%EC%8A%B9-%ED%83%9D%EC%8B%9C-%EC%9A%94%EA%B8%88)
 - [`@dongha1992` / \[PCCP 기출문제\] 2번 / 석유 시추](https://velog.io/@dongha1992/PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-2%EB%B2%88-%EC%84%9D%EC%9C%A0-%EC%8B%9C%EC%B6%94)
 - [`@dongha1992` / [프로그래머스] 단어 변환](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98)
+- [`@sehyunny` / (번역) 타입스크립트에 대한 다른 접근법](https://velog.io/@sehyunny/a-diff-way-to-think-about-ts)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -178,12 +181,18 @@ head:
 
 - [`@nova` / 알아두면 유용한 8가지 자바스크립트 팁](https://until.blog/@nova/%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%9C%A0%EC%9A%A9%ED%95%9C-8%EA%B0%80%EC%A7%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8C%81)
 
+<!-- END: until.blog -->
+
 ---
 
-## 푸르고
+## tistory
 
-- [[DDD] 값 객체, Value Object](https://puleugo.tistory.com/186)
-- [[Typescript] builder 패턴 남용 금지](https://puleugo.tistory.com/188)
+- [`puleugo` / 푸르고 개발 블로그](https://puleugo.tistory.com/m/)
+  - [[DDD] 값 객체, Value Object](https://puleugo.tistory.com/m/186)
+  - [[Typescript] builder 패턴 남용 금지](https://puleugo.tistory.com/m/188)
+  - [\[번역\] 방금 당신이 작성한 코드는 도메인 로직인가? | What is domain logic?](https://puleugo.tistory.com/m/204)
+  <!-- END: puleugo -->
+<!-- END: tistory.com -->
 
 ---
 

@@ -1,0 +1,48 @@
+[
+  {
+    "repo": "godotengine/godot-demo-projects",
+    "desc": "Demonstration and Template Projects",
+    "officialSite": "https://godotengine.org",
+    "topics": []
+  }, {
+    "repo": "godotengine/godot-docs",
+    "desc": "Godot Engine official documentation",
+    "officialSite": "https://docs.godotengine.org",
+    "topics": ["open-source", "gamedev", "documentation", "multi-platform", "docs", "game-engine", "game-development", "godotengine", "godot", "hacktoberfest"]
+  }, {
+    "repo": "KenneyNL/Starter-Kit-3D-Platformer",
+    "desc": "Godot",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "KenneyNL/Starter-Kit-City-Builder",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "KenneyNL/Starter-Kit-FPS",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "popcar2/GodotOS",
+    "desc": "An Operating System Interface made in Godot!",
+    "officialSite": "",
+    "topics": ["application", "godot-engine", "godot4", "interface"]
+  }, {
+    "repo": "the-mirror-gdp/the-mirror",
+    "desc": "The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.",
+    "officialSite": "https://themirror.space",
+    "topics": ["game-development", "gaming", "gdscript", "godot", "godot-engine", "godotengine", "mit", "mongodb", "mongoose", "multiplayer", "nestjs", "no-code", "open-source", "redis", "roblox", "server", "uefn", "unreal", "visual-scripting", "visual-scripting-language"]
+  }, {
+    "repo": "face-hh/griddycode",
+    "desc": "A code editor made with Godot. Code has never been more lit!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Brackeys/first-game-in-godot",
+    "desc": "Project files for our video on making your first game in Godot.",
+    "officialSite": "",
+    "topics": []
+  }
+]

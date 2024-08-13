@@ -56,10 +56,15 @@ head:
 
 ---
 
-## AI Convergence
+## tistory
 
-- [\[LCC-2\] LangChain document loaders 이해](http://mobicon.tistory.com/m/610)
-- [\[LCC-4\] LangChain Text Embedding 이해](https://mobicon.tistory.com/m/613)
+- [`mobicon` / AI Convergence](http://mobicon.tistory.com/m/)
+  - [\[LCC-2\] LangChain document loaders 이해](http://mobicon.tistory.com/m/610)
+  - [\[LCC-4\] LangChain Text Embedding 이해](https://mobicon.tistory.com/m/613)
+  - [\[LCC-9\] LangChain Runnable 이해](http://mobicon.tistory.com/m/624)
+  - [\[LCC-10\] LangChain RunnableParallel, @chain 이해](http://mobicon.tistory.com/m/625)
+  <!-- END: mobicon -->
+<!-- END: tistory.com -->
 
 ---
 

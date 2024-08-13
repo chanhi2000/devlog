@@ -370,6 +370,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Merge Word Documents in Python – Three Effective Methods with Examples",
+  "desc": "In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...",
+  "link": "/explore/articles/freecodecamp.org/merge-word-documents-in-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

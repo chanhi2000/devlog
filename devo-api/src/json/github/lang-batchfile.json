@@ -1,0 +1,52 @@
+[
+  {
+    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "desc": "A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
+    "officialSite": "https://massgrave.dev",
+    "topics": ["activator", "hwid", "kms", "kms38", "massgrave", "massgravel", "microsoft", "microsoft365", "office", "office365", "ohook", "windows", "windows-10", "windows-11"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Atlas-OS/Atlas",
+    "desc": "🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.",
+    "officialSite": "https://atlasos.net",
+    "topics": ["windows", "open-source", "security", "performance", "privacy", "gaming", "fps", "latency", "tweaks", "atlas", "debloat"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "focus-editor/focus",
+    "desc": "A simple and fast text editor",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pengzhile/cocopilot",
+    "desc": "你可以把它称为：联合副驾驶。",
+    "officialSite": "https://cocopilot.org",
+    "topics": ["copilot"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Alex313031/Thorium-Win",
+    "desc": "Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium",
+    "officialSite": "https://thorium.rocks",
+    "topics": ["avx", "chrome", "chromedriver", "chromium", "chromium-browser", "content-shell", "thorium", "thorium-browser", "web-browser", "web-platform", "webbrowser", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TheMMC/In-Place_Upgrade_Helper",
+    "desc": "Helper-Tool für Windows 10/11 Inplace-Upgrades und Editionswechsel",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Gktwo/wuwa-mod",
+    "desc": "Wuthering Waves pak mods",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }
+]

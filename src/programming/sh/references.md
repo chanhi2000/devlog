@@ -323,6 +323,8 @@ tag:
 - [`echo` 명령어](https://johngrib.github.io/wiki/cmd/echo/)
 - [`cat` 명령어](https://johngrib.github.io/wiki/cmd/cat/)
 - [`dateutils`](https://johngrib.github.io/wiki/cmd/dateutils/)
+- [`bash`](https://johngrib.github.io/wiki/cmd/bash/)
+- [`chsh`](https://johngrib.github.io/wiki/cmd/chsh/)
 
 ---
 

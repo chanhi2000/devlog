@@ -561,6 +561,7 @@ tag:
 - [너무 똑똑한 사람이 되지 않기](https://jojoldu.tistory.com/m/785)
 - [진짜 개발자](https://jojoldu.tistory.com/m/787)
 - ['개발자도 회사의 조직원이다' 를 보고](http://jojoldu.tistory.com/m/794)
+- [창피한 일](http://jojoldu.tistory.com/m/797)
 
 <!-- END: jojoldu.tistory.com -->
 
@@ -1460,6 +1461,12 @@ https://m.blog.naver.com/&logId=
 
 - [왜 KB국민은행만 유독 IT비용·인력이 많은가?… "심각한 문제일 수 있다"는 전문가들](https://ddaily.co.kr/page/view/2024071818090454749)
 - ['중대기로' KB국민은행 '차세대 시스템' 프로젝트… 신한은행과 어떻게 다른가](https://ddaily.co.kr/page/view/2024072518255768567)
+
+---
+
+## Zerohertz
+
+- [전문연구요원: 법](https://zerohertz.github.io/professional-research-agent-raw/)
 
 ---
 

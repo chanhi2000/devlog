@@ -49,6 +49,7 @@ export const template: SidebarInfoTemplate = {
       "learn-asynchronous-javascript", // 2024-07-11
       "build-a-bitcoin-to-usd-calculator", // 2024-07-22
       "how-to-match-parentheses-in-javascript-without-using-regex", // 2024-08-12
+      "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -70,6 +71,7 @@ export const template: SidebarInfoTemplate = {
       "learn-javascript-reactivity-build-signals-from-scratch", // 2024-07-18
       "how-to-build-an-event-app-with-node-js", // 2024-08-05
       "create-a-pc-game-using-javascript", // 2024-08-07
+      "get-mongodb-url-to-connect-to-a-nodejs-application", // 2024-08-12
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -180,6 +182,7 @@ export const template: SidebarInfoTemplate = {
       "what-is-recursion", // 2024-07-25
       "basic-control-theory-with-python", // 2024-08-06
       "what-is-a-kalman-filter-with-python-code-examples", // 2024-08-07
+      "merge-word-documents-in-python", // 2024-08-13
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -213,6 +216,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-database-migrations-in-go", // 2024-06-26
       "go-for-absolute-beginners", // 2024-07-01
       "encoding-and-decoding-data-in-golang", // 2024-08-05
+      "graceful-shutdowns-k8s-go", // 2024-08-13
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -281,6 +285,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "k8s", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
+      "graceful-shutdowns-k8s-go", // 2024-08-13
     ]],[
     "aws", [
       "what-is-amazon-ec2-auto-scaling", // 2024-05-06
@@ -293,6 +298,7 @@ export const template: SidebarInfoTemplate = {
       "prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification", // 2024-07-09
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
       "ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown", // 2024-08-12
+      "simplify-aws-multi-account-management", // 2024-08-13
     ]],[
     "azure", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -336,6 +342,7 @@ export const template: SidebarInfoTemplate = {
     "mongodb", [
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
       "using-entity-framework-core-with-mongodb", // 2024-07-29
+      "get-mongodb-url-to-connect-to-a-nodejs-application", // 2024-08-12
     ]],[
     "spark", [
       "pyspark-for-beginners", // 2024-06-26
@@ -356,6 +363,7 @@ export const template: SidebarInfoTemplate = {
       "best-practices-for-accessibility-in-web-development", // 2024-06-20
       "breakpoints-for-responsive-web-design", // 2024-06-24
       "learn-system-design-principles", // 2024-07-25
+      "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
     ]],[
     "pm", [
       "what-is-trunk-based-development", // 2024-06-18
@@ -601,6 +609,11 @@ export const template: SidebarInfoTemplate = {
       "relative-vs-dynamic-routing-in-react", // 2024-08-12
       "ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown", // 2024-08-12
       "how-to-match-parentheses-in-javascript-without-using-regex", // 2024-08-12
+      "get-mongodb-url-to-connect-to-a-nodejs-application", // 2024-08-12
+      "simplify-aws-multi-account-management", // 2024-08-13
+      "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
+      "merge-word-documents-in-python", // 2024-08-13
+      "graceful-shutdowns-k8s-go", // 2024-08-13
     ]],
   ]),
 }
