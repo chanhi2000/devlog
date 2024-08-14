@@ -93,7 +93,7 @@ for await number in sequence {
 
 ::: tip
 
-In case you haven’t seen it before, `&amp;*=` multiples with overflow, meaning that rather than running out of room when the value goes beyond the highest number of a 64-bit integer, it will instead flip around to be negative. We use this to our advantage, returning `nil` when we reach that point.
+In case you haven’t seen it before, `&*=` multiples with overflow, meaning that rather than running out of room when the value goes beyond the highest number of a 64-bit integer, it will instead flip around to be negative. We use this to our advantage, returning `nil` when we reach that point.
 
 :::
 

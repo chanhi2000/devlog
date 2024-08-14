@@ -1,5 +1,5 @@
 {
-  "version": "0.12.0",
+  "version": "0.12.1",
   "private": true,
   "name": "chanhi2000.github.io",
   "description": "My Personal Super Mindmap",
@@ -11,8 +11,6 @@
   "type": "module",
   "scripts": {
     "dev": "cross-env NODE_OPTIONS='--inspect' vuepress dev src",
-    "start-proxy": "node scripts/proxyServer.mjs",
-    "fetch": "node scripts/fetchContents.mjs",
     "clean-dev": "vuepress dev src --clean-cache",
     "build": "cross-env NODE_OPTIONS=--max-old-space-size=12288 vuepress build src",
     "clean-build": "vuepress build src --clean-cache"
@@ -36,7 +34,6 @@
     "chart.js": "4.4.1",
     "copyfiles": "^2.4.1",
     "cross-env": "7.0.3",
-    "devo-api": "file://./devo-api",
     "echarts": "5.5.0",
     "flowchart.ts": "3.0.0",
     "http-proxy-middleware": "^3.0.0",

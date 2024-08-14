@@ -72,6 +72,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-an-event-app-with-node-js", // 2024-08-05
       "create-a-pc-game-using-javascript", // 2024-08-07
       "get-mongodb-url-to-connect-to-a-nodejs-application", // 2024-08-12
+      "how-to-implement-message-queues-in-your-backend-applications", // 2024-08-14
+      "learn-ml5js-for-machine-learning-in-javascript", // 2024-08-14
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -614,6 +616,8 @@ export const template: SidebarInfoTemplate = {
       "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
       "merge-word-documents-in-python", // 2024-08-13
       "graceful-shutdowns-k8s-go", // 2024-08-13
+      "how-to-implement-message-queues-in-your-backend-applications", // 2024-08-14
+      "learn-ml5js-for-machine-learning-in-javascript", // 2024-08-14
     ]],
   ]),
 }

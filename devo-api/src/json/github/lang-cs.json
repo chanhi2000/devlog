@@ -615,5 +615,12 @@
     "topics": ["csharp", "language-design"],
     "avatar": "https://avatars.githubusercontent.com/u/9141961?v=4",
     "banner": ""
+  }, {
+    "repo": "microsoft/kiota",
+    "desc": "OpenAPI based HTTP Client code generator",
+    "officialSite": "https://aka.ms/kiota/docs",
+    "topics": ["api", "csharp", "dotnet", "golang", "hacktoberfest", "http", "java", "kiota", "openapi", "openapi-codegen", "openapi-specification", "openapi3", "php", "python", "ruby", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "banner": ""
   }
 ]

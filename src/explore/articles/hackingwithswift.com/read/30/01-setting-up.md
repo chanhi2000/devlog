@@ -51,7 +51,15 @@ isOriginal: false
 }
 ```
 
-<!-- TODO: 작성 -->
+<VidStack src="youtube/RIiyITB0sQM" />
+
+This technique project is different to all the others so far. You see, I've already written all the code for you and I'm giving you a working app. Sure it has a few bugs here and there, but it's not *too* bad. Well, OK: perhaps it's full of bugs, and perhaps this whole project is about showing you how to find and fix those bugs!
+
+We're going to be using a tool called Instruments. It ships as part of Xcode, and is responsible for profiling your app. "Profiling" is the term used when we monitor performance, memory usage and other information of an app, with the aim of improving efficiency.
+
+I'm not going to make you a master of Instruments, but I can at least show you how it helps you find problems with your code. Plus, along the way you'll learn a few extra bits about how iOS works, including shadows, image caching, cell reuse and more.
+
+You should download the source code for this project from [GitHub (<FontIcon icon="iconfont icon-github"/>`twostraws/HackingWithSwift`)](https://github.com/twostraws/HackingWithSwift) then modify it as we go. When you open the project, go ahead and run the project either on a real device or using the simulator. The real device will always be more trustworthy in terms of performance, but some options are only available in the simulator.
 
 ---
 

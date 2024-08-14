@@ -1,4 +1,4 @@
-import { SidebarInfoTemplate } from "../";
+import { SidebarInfoTemplate } from "..";
 
 export const template: SidebarInfoTemplate = {
   name: 'rutgo-letsgo.tistory.com',

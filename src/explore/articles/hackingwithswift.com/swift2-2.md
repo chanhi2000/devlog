@@ -203,7 +203,7 @@ In older versions of Swift, you couldn't compare two tuples without writing some
 
 ```swift
 func ==  (t1: (T, T), t2: (T, T)) -> Bool {
-    return t1.0 == t2.0 &amp;&amp; t1.1 == t2.1
+    return t1.0 == t2.0 && t1.1 == t2.1
 }
 ```
 

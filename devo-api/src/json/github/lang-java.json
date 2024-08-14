@@ -1082,5 +1082,12 @@
     "topics": ["animation", "drawing", "game-dev", "game-development", "game-development-workflow", "image-editor", "indie", "java", "painting", "pixel-art", "pixel-editor", "software", "sprite-animation", "sprite-editor"],
     "avatar": "https://avatars.githubusercontent.com/u/19690276?v=4",
     "banner": ""
+  }, {
+    "repo": "dougdonohoe/ddpoker",
+    "desc": "DD Poker Source Code",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1576240?v=4",
+    "banner": ""
   }
 ]

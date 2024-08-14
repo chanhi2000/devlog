@@ -2368,5 +2368,12 @@
     "topics": ["browser", "rust", "servo"],
     "avatar": "https://avatars.githubusercontent.com/u/159318978?v=4",
     "banner": ""
+  }, {
+    "repo": "project-oak/oak",
+    "desc": "Meaningful control of data in distributed systems.",
+    "officialSite": "",
+    "topics": ["distributed-systems", "enclave", "policy"],
+    "avatar": "https://avatars.githubusercontent.com/u/43030739?v=4",
+    "banner": ""
   }
 ]

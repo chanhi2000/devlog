@@ -53,7 +53,7 @@ isOriginal: false
 
 <VidStack src="youtube/0lEWz4fBzoA" />
 
-Open Main.storyboard in Interface Builder, and embed the default view controller inside a navigation controller. Now place a text view inside (*not* a text field!) so that it fills up most of the space: it should touch the left and right edges of our view, go up to the bottom of the navigation bar, then go down to the bottom of the safe area – that’s where IB will snap to when you drag near the virtual home indicator at the bottom of the view controller. We don’t need anything special for our Auto Layout constraints, so just go to Editor > Resolve Auto Layout Issues > Add Missing Constraints to place them automatically.
+Open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard` in Interface Builder, and embed the default view controller inside a navigation controller. Now place a text view inside (*not* a text field!) so that it fills up most of the space: it should touch the left and right edges of our view, go up to the bottom of the navigation bar, then go down to the bottom of the safe area – that’s where IB will snap to when you drag near the virtual home indicator at the bottom of the view controller. We don’t need anything special for our Auto Layout constraints, so just go to Editor > Resolve Auto Layout Issues > Add Missing Constraints to place them automatically.
 
 Delete the "Lorem ipsum" text in the text view, then use the assistant editor to make an outlet for it called `secret`. That's us done with the storyboard for now; switch back to the standard editor and open ViewController.swift.
 

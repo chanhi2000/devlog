@@ -345,6 +345,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Implement Message Queues in Your Backend Applications",
+  "desc": "The goal of every web developer is to create a product that appeals to a wide range of users. However, this comes with its problems, chief among them being scalability issues to meet overwhelming user demands. If not addressed, this can result in a d...",
+  "link": "/explore/articles/codecamp.org/how-to-implement-message-queues-in-your-backend-applications.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

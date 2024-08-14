@@ -53,7 +53,7 @@ isOriginal: false
 
 <VidStack src="youtube/_Z-KrWJrv1c" />
 
-Open Main.storyboard in Interface Builder, then drag out an image view so that it fills the whole space of the view. Set its aspect mode to be Aspect Fit, so that images will be correctly resized according to the device’s aspect ratio. Now place a button near the bottom of the view controller, centered horizontally, then give it the title “Redraw”.
+Open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard` in Interface Builder, then drag out an image view so that it fills the whole space of the view. Set its aspect mode to be Aspect Fit, so that images will be correctly resized according to the device’s aspect ratio. Now place a button near the bottom of the view controller, centered horizontally, then give it the title “Redraw”.
 
 We can make Interface Builder do all the constraints for this one: select the main view in the document outline, then go to Editor > Resolve Auto Layout Issues > Reset to Suggested Constraints.
 

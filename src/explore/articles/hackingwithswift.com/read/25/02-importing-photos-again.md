@@ -67,7 +67,7 @@ To this:
 class ViewController: UICollectionViewController {
 ```
 
-Now open Main.storyboard in Interface Builder, then delete the existing view controller and replace it with a new collection view controller. Use the attributes inspector to make it the initial view controller, use the identity inspector to give it the class “ViewController”, then finally embed it inside a navigation controller.
+Now open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard` in Interface Builder, then delete the existing view controller and replace it with a new collection view controller. Use the attributes inspector to make it the initial view controller, use the identity inspector to give it the class “ViewController”, then finally embed it inside a navigation controller.
 
 With the collection view selected, set cell size to be 145 wide and 145 high, and give all four section insets a value of 10. Click inside the prototype cell that Xcode made for you and give it the reuse identifier "ImageView". Finally, drop an image view into the cell so that it occupies all its space, and give it the tag 1000.
 
