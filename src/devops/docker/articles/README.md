@@ -214,6 +214,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Horizontally Scaling ASP.NET Core APIs With YARP Load Balancing",
+  "desc": "When a single server reaches its limits, performance degrades, leading to slow response times, errors, or complete downtime. We'll dive into load balancing, why it matters, and how YARP simplifies the process for .NET applications.",
+  "link": "/explore/articles/milanjovanovic.tech/horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Simple Messaging in .NET With Redis Pub/Sub",
   "desc": "Redis is a popular choice for caching data, but its capabilities go far beyond that. One of its lesser-known features is Pub/Sub support. Redis channels offer an interesting approach for implementing real-time messaging in your .NET applications.",
   "link": "/explore/articles/milanjovanovic.tech/simple-messaging-in-dotnet-with-redis-pubsub.md",

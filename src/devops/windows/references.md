@@ -49,9 +49,18 @@ tag:
 
 - [이벤트 뷰어, 윈도우 시스템 사용 기록 각종 로그 정보 보기](https://prolite.tistory.com/959)
 - [[JavaScript] IE팝업 경고창 없이 닫기.](https://smoh.tistory.com/127)
-- [[Javascript] 익스플로러창 10초후 묻지않고 강제닫기(종료) - window.close()](https://metalzang.tistory.com/216)
-- [ie 브라우저 묻지 않고 창닫기](https://jwchoi1224.tistory.com/188)
-- [자바스크립트 확인창 무시하기: 지금 보고 있는 웹 페이지 창을 닫으려고 합니다.](https://lbnl1027.tistory.com/354)
+- [[Javascript] 익스플로러창 10초후 묻지않고 강제닫기(종료) - `window.close()`](https://metalzang.tistory.com/216)
+- [`jwchoi1224` / devstudy](https://jwchoi1224.tistory.com/m/)
+  - [ie 브라우저 묻지 않고 창닫기](https://jwchoi1224.tistory.com/m/188)
+  <!-- END: jwchoi1224 -->
+- [`lbnl1027` / Once in a Lifetime](https://lbnl1027.tistory.com/m/)
+  - [자바스크립트 확인창 무시하기: 지금 보고 있는 웹 페이지 창을 닫으려고 합니다.](https://lbnl1027.tistory.com/m/354)
+  <!-- END: lbnl1027 -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [윈도우 11 에서 검색으로 파일의 최근 수정한 날짜 기준 보는 방법](https://aspdotnet.tistory.com/m/2929)
+  <!-- END: aspdotnet -->
+
+<!-- END: tistory.com -->
 
 ---
 

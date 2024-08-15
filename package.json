@@ -1,5 +1,5 @@
 {
-  "version": "0.12.1",
+  "version": "0.12.2",
   "private": true,
   "name": "chanhi2000.github.io",
   "description": "My Personal Super Mindmap",
@@ -15,6 +15,10 @@
     "build": "cross-env NODE_OPTIONS=--max-old-space-size=12288 vuepress build src",
     "clean-build": "vuepress build src --clean-cache"
   },
+  "workspaces": [
+    "devo-api",
+    "scripts"
+  ],
   "engines": {},
   "license": "MIT",
   "devDependencies": {

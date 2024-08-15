@@ -595,4 +595,10 @@ head:
 
 ---
 
+## Jonathan Olson
+
+- [Exact Polygonal Filtering](https://jonathanolson.net/exact-polygonal-filtering)
+
+---
+
 <TagLinks />

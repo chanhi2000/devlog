@@ -91,6 +91,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Emulate Real Dependencies in Integration Tests using Testcontainers",
+  "desc": "What is Integration Testing? The purpose of integration tests is to validate that different software components, subsystems, or applications work well together combined as a group. It’s an important step in the testing pyramid that can help you ident...",
+  "link": "/explore/articles/freecodecamp.org/integration-tests-using-testcontainers.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

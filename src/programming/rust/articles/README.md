@@ -79,6 +79,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How Asynchronous Programming Works in Rust – Futures and Async/Await Explained with Examples",
+  "desc": "If you're familiar with languages like JavaScript and Python, you may have heard about asynchronous programming. And perhaps you're wondering how it works in Rust. In this article, I'll give you a simple overview of how asynchronous programming works...",
+  "link": "/explore/articles/freecodecamp.org/how-asynchronous-programming-works-in-rust.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

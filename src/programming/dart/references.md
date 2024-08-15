@@ -75,9 +75,25 @@ tag:
 
 ---
 
-## 기록을 남기는 Teveloper 블로그 입니다
+## tistory
 
-- [[Flutter] Flutter를 위한 Code Push Shorebird 1.0 릴리즈](https://teveloper.tistory.com/75)
+- [`nkstar-ios` / 뚝딱뚝딱 모바일](https://nkstar-ios.tistory.com/m/)
+  - [\[Flutter\]\[Error\] iOS 17 + Xcode 15에서 발생하는 Build Error](https://nkstar-ios.tistory.com/m/36)
+  <!-- END: nkstar-ios -->
+- [`anpigon` / 안피곤 성장블로그](https://anpigon.tistory.com/m/)
+  - [(Flutter) Riverpod의 Provider 사용 방법](https://anpigon.tistory.com/m/359)
+  <!-- END: anpigon -->
+- [`hunderboy-ultra90` / Take a Chance](https://hunderboy-ultra90.tistory.com/m/)
+  - [Dart : isolate](https://hunderboy-ultra90.tistory.com/m/26)
+  <!-- END: hunderboy-ultra90 -->
+- [`teveloper` / Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/m/)
+  - [[Flutter] Flutter를 위한 Code Push Shorebird 1.0 릴리즈](https://teveloper.tistory.com/m/75)
+  - [\[Flutter\] share_plus로 앱에서 링크 공유하기](https://teveloper.tistory.com/m/85)
+  - [\[Flutter\] `addPostFrameCallback`, widget이 빌드된 후에 작업이 필요할때](https://teveloper.tistory.com/m/87)
+  - [\[Flutter\] Riverpod `autoDispose`로 자동 해제시켜주기](https://teveloper.tistory.com/m/88)
+  <!-- END: teveloper -->
+
+<!-- END: tistory.com -->
 
 ---
 
@@ -88,35 +104,12 @@ tag:
 
 ---
 
-## 뚝딱뚝딱 모바일
-
-- [\[Flutter\]\[Error\] iOS 17 + Xcode 15에서 발생하는 Build Error](https://nkstar-ios.tistory.com/36)
-
----
-
-## 안피곤 성장블로그
-
-- [(Flutter) Riverpod의 Provider 사용 방법](https://anpigon.tistory.com/m/359)
-
----
-
-## Take a Chance
-
-- [Dart : isolate](https://hunderboy-ultra90.tistory.com/m/26)
-
----
-
-## Teveloper 개발 & 테니스 이야기
-
-- [\[Flutter\] share_plus로 앱에서 링크 공유하기](https://teveloper.tistory.com/m/85)
-- [\[Flutter\] `addPostFrameCallback`, widget이 빌드된 후에 작업이 필요할때](https://teveloper.tistory.com/m/87)
-
----
-
 ## 하이제니스
 
 - [플러터(Flutter) FFI를 활용한 SerialPort 사용 예제 코드(윈도우, 리눅스)](https://m.blog.naver.com/chandong83/223520195079)
 
 ---
+
+
 
 <TagLinks />

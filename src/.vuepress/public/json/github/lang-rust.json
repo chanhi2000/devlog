@@ -2368,5 +2368,19 @@
     "topics": ["browser", "rust", "servo"],
     "avatar": "https://avatars.githubusercontent.com/u/159318978?v=4",
     "banner": ""
+  }, {
+    "repo": "probably-nothing-labs/denormalized",
+    "desc": "Embeddable stream processing engine based on Apache DataFusion",
+    "officialSite": "https://www.denormalized.io",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/105390443?v=4",
+    "banner": ""
+  }, {
+    "repo": "supabase/pg_replicate",
+    "desc": "Build Postgres replication apps in Rust",
+    "officialSite": "",
+    "topics": ["logical-replication", "postgres", "postresql", "replication", "rust", "rust-lang"],
+    "avatar": "https://avatars.githubusercontent.com/u/54469796?v=4",
+    "banner": ""
   }
 ]

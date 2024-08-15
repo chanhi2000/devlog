@@ -22,6 +22,7 @@ head:
       content: "Project 34: Four in a Row"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/34/overview.html
+prev: /explore/articles/hackingwithswift.com/read/33/09-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,95 @@ Let iOS take over the AI in your games using GameplayKit AI.
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/34/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating the interface with UIStackView | Hacking with iOS",
+  "desc": "Creating the interface with UIStackView",
+  "link": "/explore/articles/hackingwithswift.com/read/34/02-creating-the-interface-with-uistackview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Preparing for basic play | Hacking with iOS",
+  "desc": "Preparing for basic play",
+  "link": "/explore/articles/hackingwithswift.com/read/34/03-preparing-for-basic-play.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding in players: GKGameModelPlayer | Hacking with iOS",
+  "desc": "Adding in players: GKGameModelPlayer",
+  "link": "/explore/articles/hackingwithswift.com/read/34/04-adding-in-players-gkgamemodelplayer.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Detecting wins and draws in Four in a Row | Hacking with iOS",
+  "desc": "Detecting wins and draws in Four in a Row",
+  "link": "/explore/articles/hackingwithswift.com/read/34/05-detecting-wins-and-draws-in-four-in-a-row.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How GameplayKit AI works: GKGameModel, GKGameModelPlayer and GKGameModelUpdate | Hacking with iOS",
+  "desc": "How GameplayKit AI works: GKGameModel, GKGameModelPlayer and GKGameModelUpdate",
+  "link": "/explore/articles/hackingwithswift.com/read/34/06-how-gameplaykit-ai-works-gkgamemodel-gkgamemodelplayer-and-gkgamemodelupdate.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Implementing GKGameModel: gameModelUpdates(for:) and apply() | Hacking with iOS",
+  "desc": "Implementing GKGameModel: gameModelUpdates(for:) and apply()",
+  "link": "/explore/articles/hackingwithswift.com/read/34/07-implementing-gkgamemodel-gamemodelupdatesfor-and-apply.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating a GameplayKit AI using GKMinmaxStrategist | Hacking with iOS",
+  "desc": "Creating a GameplayKit AI using GKMinmaxStrategist",
+  "link": "/explore/articles/hackingwithswift.com/read/34/08-creating-a-gameplaykit-ai-using-gkminmaxstrategist.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/34/09-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

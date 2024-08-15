@@ -1200,6 +1200,12 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://framerusercontent.com/images/xuZFeXZZkyzf2T6Ltj4rFOo5vo.png"
   preview="https://framerusercontent.com/assets/HU3CSOvS9DOooJSP13to5Z2A1M.jpg"/>
 
+https://cgbookcase.com/
+https://ambientcg.com/
+https://blenderkit.com/
+https://texture.ninja/
+http://texturer.com/
+
 <!-- END: Design & Image -->
 
 @tab DevOps

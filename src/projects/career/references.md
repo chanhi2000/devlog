@@ -562,6 +562,7 @@ tag:
 - [진짜 개발자](https://jojoldu.tistory.com/m/787)
 - ['개발자도 회사의 조직원이다' 를 보고](http://jojoldu.tistory.com/m/794)
 - [창피한 일](http://jojoldu.tistory.com/m/797)
+- [운이 따르는 조직](http://jojoldu.tistory.com/m/798)
 
 <!-- END: jojoldu.tistory.com -->
 

@@ -12,22 +12,21 @@
 
 ## 🚀Quickstart
 
-> [!TIP]
-> ### Build
+> [!NOTE]
+> ### Web Scraping
 > 
-> run the following command
->
 > ```sh
-> npm run dev
+> npm run --prefix devo-api build      # api 관련 
+> npm run --prefix scripts start-proxy # 프록시 서버 기동
+> npm run --prefix scripts fetch       # Web Scraping
 > ```
 
 > [!TIP]
-> ### Deploy
-> 
-> run the following command
+> ### Vuepress
 > 
 > ```sh
-> npm run build
+> npm run dev                          # vuepress 블로그 기동 (개발용)
+> npm run build                        # vuepress 결과물 생성
 > ```
 
 [shield-proj-v]: https://img.shields.io/github/package-json/v/chanhi2000/devlog?style=flat-square

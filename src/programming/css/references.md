@@ -716,4 +716,10 @@ tag:
 
 ---
 
+## 재우니의 블로그
+
+- [image, xml, javascript, css, font 파일을 base64 로 치환하여 html 적용해 보기](https://aspdotnet.tistory.com/m/2848)
+
+---
+
 <TagLinks />

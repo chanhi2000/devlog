@@ -2210,5 +2210,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/109763747?v=4",
     "banner": ""
+  }, {
+    "repo": "k2-fsa/sherpa-onnx",
+    "desc": "Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter",
+    "officialSite": "https://k2-fsa.github.io/sherpa/onnx/index.html",
+    "topics": ["aarch64", "android", "arm32", "asr", "cpp", "csharp", "dotnet", "ios", "linux", "macos", "mfc", "onnx", "openkylin", "raspberry-pi", "risc-v", "speech-to-text", "text-to-speech", "vits", "windows"],
+    "avatar": "https://avatars.githubusercontent.com/u/71431748?v=4",
+    "banner": ""
   }
 ]

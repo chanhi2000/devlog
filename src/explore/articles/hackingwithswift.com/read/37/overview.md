@@ -22,6 +22,7 @@ head:
       content: "Project 37: Psychic Tester"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/37/overview.html
+prev: /explore/articles/hackingwithswift.com/read/36/08-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,105 @@ Are you psychic? Of course not. But what if we could use our coding skills to ma
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/37/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Laying out the cards: addChildViewController() | Hacking with iOS",
+  "desc": "Laying out the cards: addChildViewController()",
+  "link": "/explore/articles/hackingwithswift.com/read/37/02-laying-out-the-cards-addchildviewcontroller.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Animating a 3D flip effect using transition(with:) | Hacking with iOS",
+  "desc": "Animating a 3D flip effect using transition(with:)",
+  "link": "/explore/articles/hackingwithswift.com/read/37/03-animating-a-3d-flip-effect-using-transitionwith.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding a CAGradientLayer with IBDesignable and IBInspectable | Hacking with iOS",
+  "desc": "Adding a CAGradientLayer with IBDesignable and IBInspectable",
+  "link": "/explore/articles/hackingwithswift.com/read/37/04-adding-a-cagradientlayer-with-ibdesignable-and-ibinspectable.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating a particle system using CAEmitterLayer | Hacking with iOS",
+  "desc": "Creating a particle system using CAEmitterLayer",
+  "link": "/explore/articles/hackingwithswift.com/read/37/05-creating-a-particle-system-using-caemitterlayer.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wiggling cards and background music with AVAudioPlayer | Hacking with iOS",
+  "desc": "Wiggling cards and background music with AVAudioPlayer",
+  "link": "/explore/articles/hackingwithswift.com/read/37/06-wiggling-cards-and-background-music-with-avaudioplayer.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to measure touch strength using 3D Touch | Hacking with iOS",
+  "desc": "How to measure touch strength using 3D Touch",
+  "link": "/explore/articles/hackingwithswift.com/read/37/07-how-to-measure-touch-strength-using-3d-touch.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Communicating between iOS and watchOS: WCSession | Hacking with iOS",
+  "desc": "Communicating between iOS and watchOS: WCSession",
+  "link": "/explore/articles/hackingwithswift.com/read/37/08-communicating-between-ios-and-watchos-wcsession.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Designing a simple watchOS app to receive data | Hacking with iOS",
+  "desc": "Designing a simple watchOS app to receive data",
+  "link": "/explore/articles/hackingwithswift.com/read/37/09-designing-a-simple-watchos-app-to-receive-data.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/37/01-/wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

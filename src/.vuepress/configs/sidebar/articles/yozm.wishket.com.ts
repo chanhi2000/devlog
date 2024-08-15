@@ -183,6 +183,7 @@ export const template: SidebarInfoTemplate = {
       ]],[
       "data-science", [
         "2171", // 2023-08-11
+        "2717", // 2024-08-15
       ]],[
       "mysql", [
         "2209", // 2023-09-01
@@ -433,6 +434,7 @@ export const template: SidebarInfoTemplate = {
         "2697", // 2024-07-31
         "2701", // 2024-08-03
         "2713", // 2024-08-12
+        "2717", // 2024-08-15
       ]],
     ])
   }

@@ -60,6 +60,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "CHAR vs. VARCHAR, 언제 어떻게 써야 할까? | 요즘IT",
+  "desc": "CHAR vs. VARCHAR, 언제 어떻게 써야 할까?",
+  "link": "/explore/articles/yozm.wishket.com/2717.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

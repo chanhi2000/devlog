@@ -106,6 +106,16 @@ head:
 }
 ```
 
+```component VPCar
+{
+  "title": "A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?",
+  "desc": "ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...",
+  "link": "/explore/articles/freecodecamp.org/a-beginners-guide-to-large-language-models.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

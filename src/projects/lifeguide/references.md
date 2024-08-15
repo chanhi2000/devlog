@@ -44,14 +44,22 @@ tag:
 - [`@2weV` / 거절을 마주하는 삶. 이를 받아들이는 자세.](https://brunch.co.kr/@@2weV/527)
 - [`@2weV` / 버틴다는 것의 정의](https://brunch.co.kr/@@2weV/536)
 - [`@1W2S` / 100일의 기적? 100일의 기절! - 이성적인 판단으로 아가를 낳을 순 없다.](https://brunch.co.kr/@@1W2S/256)
+- [`@2xm` / 나의 쓰임이 필요하다 - '운칠기삼(運七技三)', '새옹지마(塞翁之馬)'](https://brunch.co.kr/@@2xm/81)
 
 <!-- END: brunch.co.kr -->
 
 ---
 
-## 4대보험
+## tistory
 
-- [회사에서 4대보험을 미납했을때 대처방법, 미납조회 (국민연금 / 건강보험 / 고용보험 / 산재보험; 빡침 주의..)](https://ts-bless.tistory.com/32)
+- [`ts-bless` / 4대보험](https://ts-bless.tistory.com/m/)
+  - [회사에서 4대보험을 미납했을때 대처방법, 미납조회 (국민연금 / 건강보험 / 고용보험 / 산재보험; 빡침 주의..)](https://ts-bless.tistory.com/m/32)
+  <!-- END: ts-bless -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [2024년 8월 16일 이후 디딤돌·버팀목 금리, 최대 0.4%p 인상](https://aspdotnet.tistory.com/m/3248)
+  <!-- END: aspdotnet -->
+
+<!-- END: tistory.com -->
 
 ---
 

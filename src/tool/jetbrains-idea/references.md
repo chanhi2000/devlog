@@ -72,9 +72,30 @@ head:
 
 ---
 
-## 주먹불끈
+## tistory
 
-- [TIL: IntelliJ 에서 구조체 자동완성하기](https://jusths.tistory.com/397)
+- [`jusths` / 주먹불끈](https://jusths.tistory.com/m/)
+  - [TIL: IntelliJ 에서 구조체 자동완성하기](https://jusths.tistory.com/m/397)
+  <!-- END: jusths -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [인텔리제이 웹스톰 젯브레인 jetbrain 자동완성 단축키](https://ravenkim97.tistory.com/m/427)
+  - [젯브레인 자동 줄바꿈 간격 조정](https://ravenkim97.tistory.com/m/430)
+  <!-- END: ravenkim97 -->
+- [`keepgoin9` / 𝚔𝚎𝚎𝚙 𝟿𝚘𝚒𝚗𝟿](https://keepgoin9.tistory.com/m/)
+  - [[IntelliJ] 인텔리제이 시작 시 `PluginException` 해결](https://keepgoin9.tistory.com/m/62)
+  <!-- END: keepgoin9 -->
+- [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
+  - [IntelliJ의 .http를 사용해 Postman 대체하기](https://jojoldu.tistory.com/m/266)
+  - [IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)](https://jojoldu.tistory.com/m/673)
+  <!-- END: jojoldu -->
+- [`krksap` / 뷰티풀 프로그래밍](https://krksap.tistory.com/m/)
+  - [IdeaVim Action Id찾기](https://krksap.tistory.com/m/2305)
+  <!-- END: krksap -->
+- [`jakpentest` / 뭐라도 해야 한다면 기록을..](https://jakpentest.tistory.com/m/)
+  - [\[Intelli-j\] Spotlight.service broken?](https://jakpentest.tistory.com/m/entry/Try-Reinstalling-Spotlightservice)
+  - [\[Intelli-j\] IntelliJ에서 Java 라이브러리 직접 설치하기](https://jakpentest.tistory.com/m/entry/Intelli-j-IntelliJ%EC%97%90%EC%84%9C-Java-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%A7%81%EC%A0%91-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+  <!-- END: jakpentest -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -91,26 +112,6 @@ head:
 
 ---
 
-## Life Log
-
-- [인텔리제이 웹스톰 젯브레인 jetbrain 자동완성 단축키](https://ravenkim97.tistory.com/427)
-- [젯브레인 자동 줄바꿈 간격 조정](https://ravenkim97.tistory.com/430)
-
----
-
-## 𝚔𝚎𝚎𝚙 𝟿𝚘𝚒𝚗𝟿
-
-- [[IntelliJ] 인텔리제이 시작 시 `PluginException` 해결](https://keepgoin9.tistory.com/62)
-
----
-
-## 기억보단 기록을
-
-- [IntelliJ의 .http를 사용해 Postman 대체하기](https://jojoldu.tistory.com/m/266)
-- [IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)](https://jojoldu.tistory.com/m/673)
-
----
-
 ## Developer security | Snyk
 
 - [Advanced IntelliJ debugger features you’re missing out on](https://snyk.io/blog/advanced-intellij-debugger-features/)
@@ -123,21 +124,9 @@ head:
 
 ---
 
-## 뷰티풀 프로그래밍
-
-- [IdeaVim Action Id찾기](https://krksap.tistory.com/m/2305)
-
----
-
 ## code-with-me
 
 - [\[Android Studio\] org.jetbrains.kotlin.backend.common.BackendException: Backend Internal error: Exception during IR lowering](https://inblog.ai/code-with-me/android-studio-orgjetbrainskotlinbackendcommonbackendexception-backend-internal-error-exception-during-ir-lowering-24952)
-
----
-
-## 뭐라도 해야 한다면 기록을..
-
-- [\[Intelli-j\] Spotlight.service broken?](https://jakpentest.tistory.com/m/entry/Try-Reinstalling-Spotlightservice)
 
 ---
 

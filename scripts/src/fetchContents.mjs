@@ -19,27 +19,43 @@ var currentYYYYMMDD = () => {
   return `${year}-${month}-${day}`;
 }
 
+async function doFetch(url, outputFName, parsingHtmlContent) {
+  console.log(`START doFetch ... url: ${url}`)
+  try {
+    const response = await axios.get(url);
+    const html = response.data;
+    
+    const $ = cheerio.load(html);
+    const content = await parsingHtmlContent($);
+
+    const filePath = path.join(path.resolve(), 'src', outputFName);
+    fs.writeFileSync(filePath, content, 'utf8');
+
+    console.log(`Markdown content saved to src/${outputFName}`);
+  } catch (error) {
+    console.error(`Error fetching the URL: ${error}`);
+  }
+}
+
 export async function fetchAwesomeDevlog() {
   console.log('START fetchAwesomeDevlog')
-  try {
-    const response = await axios.get(URL_AWESOME_DEVLOG);
-    const html = response.data;
-
-    const $ = cheerio.load(html);
+  doFetch(URL_AWESOME_DEVLOG, `awesome-devblog-${currentYYYYMMDD()}.md`, ($) => {
     const items = [];
-
-    $('h3 > a').each((index, element) => {
+    $('h3 > a').each((i, element) => {
       const link = $(element).attr('href')
-        .replace(/https:\/\/www/g, 'https://')
+        .replace(/https:\/\/www\./g, 'https://')
         .replace(/\?fromRss=true&trackingCode=rss/g, '')
         .replace(/tistory\.com/g, 'tistory.com/m')
         .replace(/blog\.naver\.com/g, 'm.blog.naver.com');
+      let title = $(element).text().trim()
+        .replace(/\[/g, '\\[').replace(/\]/g, '\\]')
+        .replace(/&middot;/g, '·').replace(/&amp;/g, '&').replace(/&quot;/g, '\'')
       const isVelog = link.match(/velog.io/g);
       const velogId = (isVelog) ? link.match(/(?<=velog.io\/)(.*?)(?=\/)/g) : '';
       const isBrunch = link.match(/brunch.co.kr/g);
       const brunchId = (isBrunch) ? link.match(/(?<=brunch.co.kr\/@)(.*?)(?=\/)/g) : ''
-      let title = $(element).text().trim()
-        .replace(/\[/g, '\\[').replace(/\]/g, '\\]')
+      const isUntil = link.match(/until.blog/g)
+      const untilId = (isUntil) ? link.match(/(?<=until.blog\/)(.*?)(?=\/)/g) : ''
       if (isVelog) { 
         const idToAppend = ''.concat('\`').concat(velogId).concat('\`');
         title = `${idToAppend} / ${title}`
@@ -48,25 +64,51 @@ export async function fetchAwesomeDevlog() {
         const idToAppend = ''.concat('\`').concat(brunchId).concat('\`');
         title = `${idToAppend} / ${title}`
       }
+      if (isUntil) {
+        const idToAppend = ''.concat('\`').concat(untilId).concat('\`');
+        title = `${idToAppend} / ${title}`
+      }
       items.push(`- [${title}](${link})`);
     });
 
+    console.log(items)
     let mdContent = items.join('\n');
     mdContent = `<!-- https://awesome-devblog.netlify.app/korean/people/feeds -->
 
 ${mdContent}
 
 <!-- END: https://awesome-devblog.netlify.app/korean/people/feeds -->`
-    // console.log(mdContent);
+    return mdContent
+  })
+}
 
-    const mdFName = `awesome-devblog-${currentYYYYMMDD()}.md`
-    const filePath = path.join(path.resolve(), 'src', mdFName);
-    fs.writeFileSync(filePath, mdContent, 'utf8');
+const URL_GEEK = "http://localhost:3000/geek"
 
-    console.log(`Markdown content saved to src/${mdFName}`);
-  } catch (error) {
-    console.error(`Error fetching the URL: ${error}`);
-  }
+export async function fetchGeek() {
+  console.log('START fetchAwesomeDevlog')
+  doFetch(URL_GEEK, `geek-${currentYYYYMMDD()}.md`, ($) => {
+    const items = [];
+    
+    $('.topictitle > a').each((i, element) => {
+      const link = $(element).attr('href')
+        .replace(/https:\/\/www\./g, 'https://')
+        .replace(/\?fromRss=true&trackingCode=rss/g, '')
+        .replace(/tistory\.com/g, 'tistory.com/m')
+        .replace(/blog\.naver\.com/g, 'm.blog.naver.com');
+      let title = $(element).text().trim()
+        .replace(/\[/g, '\\[').replace(/\]/g, '\\]')
+        .replace(/&middot;/g, '·').replace(/&amp;/g, '&').replace(/&quot;/g, '\'')
+      items.push(`- [${title}](${link})`);
+    });
+
+    let mdContent = items.join('\n');
+    mdContent = `<!-- https://news.hada.io/ -->
+
+${mdContent}
+
+<!-- END: https://news.hada.io/ -->`
+    return mdContent
+  })
 }
 
 const URL_DEVO = 'http://localhost:3000/devo/github.json'
@@ -157,7 +199,8 @@ function renderJson(data = {}) {
 // Conditional check for script execution
 if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.resolve(__filename)) {
   console.log('Script is being run directly.');  // Debugging log
-  // fetchAwesomeDevlog();
+  fetchAwesomeDevlog();
+  fetchGeek();
   fetchDevoGithubItems();
 } else {
   console.log('Script is being imported as a module.');  // Debugging log

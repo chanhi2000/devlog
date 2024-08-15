@@ -325,6 +325,8 @@ tag:
 - [`dateutils`](https://johngrib.github.io/wiki/cmd/dateutils/)
 - [`bash`](https://johngrib.github.io/wiki/cmd/bash/)
 - [`chsh`](https://johngrib.github.io/wiki/cmd/chsh/)
+- [`factor` 명령어](https://johngrib.github.io/wiki/cmd/factor/)
+- [`sed`](https://johngrib.github.io/wiki/cmd/sed/)
 
 ---
 

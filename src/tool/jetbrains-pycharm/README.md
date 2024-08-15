@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Intellij Idea
-description: Intellij Idea
+title: PyCharm
+description: PyCharm
 icon: iconfont icon-pycharm
 category:
   - IDE

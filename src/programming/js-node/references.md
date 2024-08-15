@@ -339,6 +339,10 @@ tag:
 - [`@leejh3224` / Node.js 서버에서 DB 연결 끊김에 대처하기](https://velog.io/@leejh3224/Node.js-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-DB-%EC%97%B0%EA%B2%B0-%EB%81%8A%EA%B9%80%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EA%B8%B0)
 - [`@ksh4704` / 바닐라-영화소개프로젝트(heropy.js)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8heropy.js)
 - [`@ksh4704` / 바닐라-영화소개프로젝트(1)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81)
+- [`@ksh4704` / 바닐라-영화소개프로젝트(2)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82)
+- [`@ksh4704` / 바닐라-영화소개프로젝트(css)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8css)
+- [`@ksh4704` / 바닐라-영화소개프로젝트(3)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B83)
+- [`@surim014` / \[번역\] James Snell과 함께하는 Node.js 심층 분석](https://velog.io/@surim014/deep-dive-into-node-js-with-james-snell)
 
 <!-- END: velog.io -->
 
@@ -1346,6 +1350,12 @@ tag:
 ## just quit your job
 
 - [개발자에서 엔지니어로 거듭나기 1탄](https://miconblog.com/2024/08/%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%97%90%ec%84%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a1%9c-%ea%b1%b0%eb%93%ad%eb%82%98%ea%b8%b0-1%ed%83%84/)
+
+---
+
+## 개발자 박진 블로그
+
+- [로드 밸런싱 알고리즘의 상세 분석과 실제 적용 사례](https://jinn-blog.tistory.com/m/176)
 
 ---
 

@@ -245,8 +245,10 @@ For the visual experience, we need to modify the` server-error.component.html` f
 ```html
 <section fxLayout="column wrap" fxLayoutAlign="center center" fxLayoutGap="30px">
   <div fxFlex>
-    <p>500 Server Error</p>
-    <p>We are sorry for the inconvinience, plese report this error.</p>
+    500 Server Error
+
+    We are sorry for the inconvinience, plese report this error.
+
   </div>
   <div fxFlex>
     <mat-checkbox (change)="checkChanged($event)" color="primary">I want to report this error.</mat-checkbox>

@@ -429,4 +429,10 @@ head:
 
 ---
 
+## 개발자 박진 블로그
+
+- [Git 커밋 마스터하기: 효과적인 버전 관리의 비밀](https://jinn-blog.tistory.com/m/177)
+
+---
+
 <TagLinks />

@@ -316,7 +316,7 @@ export const navbarEn = navbar([
           '/devops/linux-debian/kali/README.md',
           '/devops/linux-debian/parrot/README.md',
           '/devops/linux-debian/alpine/README.md',
-          '/devops/linux-debian/turenas/README.md',
+          '/devops/linux-debian/truenas/README.md',
           '/devops/linux-debian/raspberry-pi/README.md',
         ]
       }, {

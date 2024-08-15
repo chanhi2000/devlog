@@ -9,7 +9,6 @@ category:
 tag: 
   - js
   - javascript
-  - blex.me
 head:
   - - meta:
     - property: og:title
@@ -622,6 +621,13 @@ head:
 ## AI Convergence
 
 - [\[JavaScript\] Design Pattern](https://mobicon.tistory.com/m/11)
+
+---
+
+## 재우니의 블로그
+
+- [fullCalendar 의 좌측 시분 hour minute 표기 hh:mm 형태로 변경하기](https://aspdotnet.tistory.com/m/3004)
+- [jquery select 태그의 option 비활성화 disabled 또는 선택막기 ✔](https://aspdotnet.tistory.com/m/2068)
 
 ---
 

@@ -22,7 +22,7 @@ head:
 prev: /programming/rust/articles/README.md
 date: 2024-06-04
 isOriginal: false
-cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/JSON-Parser-Cover.png
+cover: https://freecodecamp.org/news/content/images/size/w2000/2024/06/How-to-Build-and-Deploy-a-Smart-Contract-With-Rust-and-the-Gear-Protocol-Cover.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -46,7 +46,7 @@ cover: https://freecodecamp.org/news/content/images/size/w1000/2024/05/JSON-Pars
   desc="Smart contracts are like digital agreements that run on blockchain technology, making transactions automatic and secure. While many people use Ethereum and Solidity to create these contracts, there are other options that can be just as powerful. One great combination is using Rust with the Gear Protocol. In this..."
   url="https://freecodecamp.org/news/build-and-deploy-smart-contract-rust-gear-protocol/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/06/How-to-Build-and-Deploy-a-Smart-Contract-With-Rust-and-the-Gear-Protocol-Cover.png" />
+  preview="https://freecodecamp.org/news/content/images/size/w2000/2024/06/How-to-Build-and-Deploy-a-Smart-Contract-With-Rust-and-the-Gear-Protocol-Cover.png" />
 
 <!-- TODO: 작성 -->
 

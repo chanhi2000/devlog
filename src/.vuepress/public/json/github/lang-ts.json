@@ -4611,5 +4611,12 @@
     "topics": ["blogging", "demo-blog", "mdx", "nextjs", "publishing", "reactjs", "tailwind-css"],
     "avatar": "https://avatars.githubusercontent.com/u/28362229?v=4",
     "banner": ""
+  }, {
+    "repo": "useplunk/plunk",
+    "desc": "The Open-Source Email Platform",
+    "officialSite": "https://www.useplunk.com",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/108571922?v=4",
+    "banner": ""
   }
 ]

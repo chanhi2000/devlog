@@ -244,9 +244,19 @@ head:
 
 ---
 
-## Make headway towards solving the problem
+## tistory
 
-- [Full Stack Optimization of Transformer Inference: a Survey (1)](https://iostream.tistory.com/179)
+- [`iostream` / Make headway towards solving the problem](https://iostream.tistory.com/m/)
+  - [Full Stack Optimization of Transformer Inference: a Survey (1)](https://iostream.tistory.com/m/179)
+  <!-- END: iostream -->
+- [`cori` / 코딩하는 오리](https://cori.tistory.com/m/)
+  - [나의 개발 일지 (3) RAG 구현 및 개선](https://cori.tistory.com/m/347)
+  <!-- END: cori -->
+- [`soohey` / 개발 아카이빙](https://soohey.tistory.com/m/)
+  - [벤치마크 데이터셋에 대해](https://soohey.tistory.com/m/86)
+  <!-- END: soohey -->
+
+<!-- END: tistory.com -->
 
 ---
 

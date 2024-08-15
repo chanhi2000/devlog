@@ -743,24 +743,58 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/34/overview.md',
+              '/explore/articles/hackingwithswift.com/read/34/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/34/02-creating-the-interface-with-uistackview.md',
+              '/explore/articles/hackingwithswift.com/read/34/03-preparing-for-basic-play.md',
+              '/explore/articles/hackingwithswift.com/read/34/04-adding-in-players-gkgamemodelplayer.md',
+              '/explore/articles/hackingwithswift.com/read/34/05-detecting-wins-and-draws-in-four-in-a-row.md',
+              '/explore/articles/hackingwithswift.com/read/34/06-how-gameplaykit-ai-works-gkgamemodel-gkgamemodelplayer-and-gkgamemodelupdate.md',
+              '/explore/articles/hackingwithswift.com/read/34/07-implementing-gkgamemodel-gamemodelupdatesfor-and-apply.md',
+              '/explore/articles/hackingwithswift.com/read/34/08-creating-a-gameplaykit-ai-using-gkminmaxstrategist.md',
+              '/explore/articles/hackingwithswift.com/read/34/09-wrap-up.md',
             ]
           }, {
             text: 'Project 35: Generating random numbers',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/35/overview.md',
+              '/explore/articles/hackingwithswift.com/read/35/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/35/02-generating-random-numbers-without-gameplaykit.md',
+              '/explore/articles/hackingwithswift.com/read/35/03-generating-random-numbers-with-gameplaykit-gkrandomsource.md',
+              '/explore/articles/hackingwithswift.com/read/35/04-choosing-a-random-number-source-gkarc4randomsource-and-other-gameplaykit-options.md',
+              '/explore/articles/hackingwithswift.com/read/35/05-shaping-gameplaykit-random-numbers-gkrandomdistribution-gkshuffleddistribution-and-gkgaussiandistribution.md',
+              '/explore/articles/hackingwithswift.com/read/35/06-shuffling-an-array-with-gameplaykit-arraybyshufflingobjectsin.md',
+              '/explore/articles/hackingwithswift.com/read/35/07-wrap-up.md',
             ]
           }, {
             text: 'Project 36: Crashy Plane',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/36/overview.md',
+              '/explore/articles/hackingwithswift.com/read/36/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/36/02-creating-a-player-resizefill-vs-aspectfill.md',
+              '/explore/articles/hackingwithswift.com/read/36/03-sky-background-and-ground-parallax-scrolling-with-spritekit.md',
+              '/explore/articles/hackingwithswift.com/read/36/04-creating-collisions.md',
+              '/explore/articles/hackingwithswift.com/read/36/05-pixel-perfect-physics-in-spritekit-plus-explosions-and-more.md',
+              '/explore/articles/hackingwithswift.com/read/36/06-background-music-with-skaudionode-an-intro-plus-game-over.md',
+              '/explore/articles/hackingwithswift.com/read/36/07-optimizing-spritekit-physics.md',
+              '/explore/articles/hackingwithswift.com/read/36/08-wrap-up.md',
             ]
           }, {
             text: 'Project 37: Psychic Tester',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/37/overview.md',
+              '/explore/articles/hackingwithswift.com/read/37/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/37/02-laying-out-the-cards-addchildviewcontroller.md',
+              '/explore/articles/hackingwithswift.com/read/37/03-animating-a-3d-flip-effect-using-transitionwith.md',
+              '/explore/articles/hackingwithswift.com/read/37/04-adding-a-cagradientlayer-with-ibdesignable-and-ibinspectable.md',
+              '/explore/articles/hackingwithswift.com/read/37/05-creating-a-particle-system-using-caemitterlayer.md',
+              '/explore/articles/hackingwithswift.com/read/37/06-wiggling-cards-and-background-music-with-avaudioplayer.md',
+              '/explore/articles/hackingwithswift.com/read/37/07-how-to-measure-touch-strength-using-3d-touch.md',
+              '/explore/articles/hackingwithswift.com/read/37/08-communicating-between-ios-and-watchos-wcsession.md',
+              '/explore/articles/hackingwithswift.com/read/37/09-designing-a-simple-watchos-app-to-receive-data.md',
+              '/explore/articles/hackingwithswift.com/read/37/10-wrap-up.md',
             ]
           }, {
             text: 'Project 38: GitHub Commits',

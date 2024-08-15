@@ -111,6 +111,8 @@ head:
 - [ESP32-S3-ETHCAN485 보드의 확장 보드 시리즈 - No1. 3채널 릴레 보드 출시 예정](https://m.blog.naver.com/chandong83/223540789136)
 - [A3 인쇄 가능한 저렴한 프린터를 구입하다. - 캐논 ix6770](https://m.blog.naver.com/chandong83/223540804598)
 - [\[월간 HG Labs\] 8월 세미나 "STM32 TouchGFX와 FreeRTOS, SD카드 활용하기"](https://m.blog.naver.com/chandong83/223542099449)
+- [STM32H7S7 펌웨어 다운로드 시 Target not responding retrying....... 발생 후 더 이상 연결 안 되는 문제](https://m.blog.naver.com/chandong83/223546908959)
+- [STM32H7S7I8K6 데이터시트 오류](https://m.blog.naver.com/chandong83/223546928955)
 
 <!-- END: m.blog.naver.com/chandong83 -->
 
@@ -457,6 +459,12 @@ head:
 - [남는 공유기로 무선 확장하기](https://m.blog.naver.com/tipsware/223545815618)
 
 <!-- END tipsware -->
+
+---
+
+## yuchi's development
+
+- [CPU벤치마크 2024년 – Qualcomm Elite X , Apple M1, i7 13700K, i7 13700H, AMD Ryzen Z1 Extreme …](https://megayuchi.com/2024/08/14/cpu%eb%b2%a4%ec%b9%98%eb%a7%88%ed%81%ac-2024%eb%85%84-qualcomm-elite-x-apple-m1-i7-13700k-i7-13700h-amd-ryzen-z1-extreme/)
 
 ---
 

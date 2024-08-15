@@ -22,6 +22,7 @@ head:
       content: "Project 35: Generating random numbers"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/35/overview.html
+prev: /explore/articles/hackingwithswift.com/read/34/09-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,75 @@ Let GameplayKit help you generate random numbers in ways you soon won't be able 
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/35/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Generating random numbers without GameplayKit | Hacking with iOS",
+  "desc": "Generating random numbers without GameplayKit",
+  "link": "/explore/articles/hackingwithswift.com/read/35/02-generating-random-numbers-without-gameplaykit.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Generating random numbers with GameplayKit: GKRandomSource | Hacking with iOS",
+  "desc": "Generating random numbers with GameplayKit: GKRandomSource",
+  "link": "/explore/articles/hackingwithswift.com/read/35/03-generating-random-numbers-with-gameplaykit-gkrandomsource.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Choosing a random number source: GKARC4RandomSource and other GameplayKit options | Hacking with iOS",
+  "desc": "Choosing a random number source: GKARC4RandomSource and other GameplayKit options",
+  "link": "/explore/articles/hackingwithswift.com/read/35/04-choosing-a-random-number-source-gkarc4randomsource-and-other-gameplaykit-options.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Shaping GameplayKit random numbers: GKRandomDistribution, GKShuffledDistribution and GKGaussianDistribution | Hacking with iOS",
+  "desc": "Shaping GameplayKit random numbers: GKRandomDistribution, GKShuffledDistribution and GKGaussianDistribution",
+  "link": "/explore/articles/hackingwithswift.com/read/35/05-shaping-gameplaykit-random-numbers-gkrandomdistribution-gkshuffleddistribution-and-gkgaussiandistribution.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Shuffling an array with GameplayKit: arrayByShufflingObjects(in:) | Hacking with iOS",
+  "desc": "Shuffling an array with GameplayKit: arrayByShufflingObjects(in:)",
+  "link": "/explore/articles/hackingwithswift.com/read/35/06-shuffling-an-array-with-gameplaykit-arraybyshufflingobjectsin.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/35/07-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

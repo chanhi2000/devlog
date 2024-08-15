@@ -7491,5 +7491,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/33983539?v=4",
     "banner": ""
+  }, {
+    "repo": "markqvist/NomadNet",
+    "desc": "Communicate Freely",
+    "officialSite": "",
+    "topics": ["lora", "lxmf", "mesh-networks", "off-grid", "packet-radio", "privacy", "reticulum", "rns"],
+    "avatar": "https://avatars.githubusercontent.com/u/1438012?v=4",
+    "banner": ""
+  }, {
+    "repo": "Zipstack/unstract",
+    "desc": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+    "officialSite": "https://unstract.com",
+    "topics": ["etl-pipeline", "llm-platform", "unstructured-data"],
+    "avatar": "https://avatars.githubusercontent.com/u/89070934?v=4",
+    "banner": ""
+  }, {
+    "repo": "JoinMusic/fish",
+    "desc": "YouTube video to chords, lyrics, beat and melody.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/151514198?v=4",
+    "banner": ""
   }
 ]

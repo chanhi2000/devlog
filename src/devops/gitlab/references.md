@@ -36,10 +36,27 @@ tag:
 
 ---
 
-## 하하하하하
+## tistory
 
-- [[Docker for Windows] GitLab & Admin 관리자 계정 설정법](https://forgiveall.tistory.com/552)
-- [[GitLab-Runner] windows10 Pro에 설치하기](https://forgiveall.tistory.com/553)
+- [`forgiveall` / 하하하하하](https://forgiveall.tistory.com/m/)
+  - [[Docker for Windows] GitLab & Admin 관리자 계정 설정법](https://forgiveall.tistory.com/m/552)
+  - [[GitLab-Runner] windows10 Pro에 설치하기](https://forgiveall.tistory.com/m/553)
+  <!-- END: forgiveall -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [gitlab 422](https://ravenkim97.tistory.com/m/449)
+  - [git lab Authentication failed. Some common reasons include:](https://ravenkim97.tistory.com/m/458)
+  - [깃랩에서 깃허브로](https://ravenkim97.tistory.com/m/462)
+  <!-- END: ravenkim97 -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [GitLab CI Container 이미지 빌드와 GitLab Registry](https://jeongchul.tistory.com/m/714)
+  - [GitLab CI Golang 배포](https://jeongchul.tistory.com/m/713)
+  - [GitLab Project Runner using Docker](https://jeongchul.tistory.com/m/717)
+  <!-- END: jeongchul -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [GitLab - git 명령어로 커밋 기록 삭제 (git : clear commits history)](https://aspdotnet.tistory.com/m/3232)
+  - [GitLab : ASP.NET CORE 8 - .gitlab-ci.yml 내부 설명 - CI/CD](https://aspdotnet.tistory.com/m/3247)
+  <!-- END: aspdotnet -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -52,28 +69,6 @@ tag:
 ## <FontIcon icon="iconfont icon-github"/>Github
 
 - [BytemarkHosting/configs-gitlab-docker](https://github.com/BytemarkHosting/configs-gitlab-docker/blob/master/docker-compose.yml)
-
----
-
-## Life Log
-
-- [gitlab 422](https://ravenkim97.tistory.com/m/449)
-- [git lab Authentication failed. Some common reasons include:](https://ravenkim97.tistory.com/m/458)
-- [깃랩에서 깃허브로](https://ravenkim97.tistory.com/m/462)
-
----
-
-## Jeongchul Kim
-
-- [GitLab CI Container 이미지 빌드와 GitLab Registry](https://jeongchul.tistory.com/m/714)
-- [GitLab CI Golang 배포](https://jeongchul.tistory.com/m/713)
-- [GitLab Project Runner using Docker](https://jeongchul.tistory.com/m/717)
-
----
-
-## 재우니의 블로그
-
-- [GitLab - git 명령어로 커밋 기록 삭제 (git : clear commits history)](https://aspdotnet.tistory.com/m/3232)
 
 ---
 

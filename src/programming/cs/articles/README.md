@@ -128,6 +128,106 @@ head:
 
 ```component VPCard
 {
+  "title": "Horizontally Scaling ASP.NET Core APIs With YARP Load Balancing",
+  "desc": "When a single server reaches its limits, performance degrades, leading to slow response times, errors, or complete downtime. We'll dive into load balancing, why it matters, and how YARP simplifies the process for .NET applications.",
+  "link": "/explore/articles/milanjovanovic.tech/horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Master Claims Transformation for Flexible ASP.NET Core Authorization",
+  "desc": "Claims-based authorization mechanisms are central to modern authorization in ASP.NET Core. However, the access tokens issued by your Identity Provider (IDP) might not always perfectly align with your application's internal authorization needs. The solution? Claims transformation.",
+  "link": "/explore/articles/milanjovanovic.tech/master-claims-transformation-for-flexible-aspnetcore-authorization.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "A Clever Way To Implement Pessimistic Locking in EF Core",
+  "desc": "Sometimes, especially in high-traffic scenarios, you absolutely need to ensure that only one process can modify a piece of data at a time. Entity Framework Core is a fantastic tool, but it doesn't have a direct mechanism for pessimistic locking. In this article, I'll show you how we can solve that problem with raw SQL queries.",
+  "link": "/explore/articles/milanjovanovic.tech/a-clever-way-to-implement-pessimistic-locking-in-ef-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Introduction to Distributed Tracing With OpenTelemetry in .NET",
+  "desc": "Sometimes, especially in high-traffic scenarios, you absolutely need to ensure that only one process can modify a piece of data at a time. Entity Framework Core is a fantastic tool, but it doesn't have a direct mechanism for pessimistic locking. In this article, I'll show you how we can solve that problem with raw SQL queries.",
+  "link": "/explore/articles/milanjovanovic.tech/introduction-to-distributed-tracing-with-opentelemetry-in-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Request-Response Messaging Pattern With MassTransit",
+  "desc": "When building distributed systems with .NET, direct calls between services can create tight coupling. The request-response messaging pattern can allow distributed services to communicate in a loosely coupled way.",
+  "link": "/explore/articles/milanjovanovic.tech/request-response-messaging-pattern-with-masstransit.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Implementing API Gateway Authentication With YARP",
+  "desc": "In this newsletter, we'll explore how you can implement API gateway authentication using YARP (Yet Another Reverse Proxy), a powerful and flexible reverse proxy library for .NET applications.",
+  "link": "/explore/articles/milanjovanovic.tech/implementing-api-gateway-authentication-with-yarp.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Building Resilient Cloud Applications With .NET",
+  "desc": "By designing your applications with resilience in mind, you can create robust and reliable systems, even when the going gets tough. In this newsletter, we'll explore the tools and techniques we have in .NET to build resilient systems.",
+  "link": "/explore/articles/milanjovanovic.tech/building-resilient-cloud-applications-with-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "EF Core Migrations: A Detailed Guide",
+  "desc": "In this newsletter, we'll break down the essentials of EF Migrations. We'll explore creating migrations, SQL scripts, applying migrations, migration tooling, and more.",
+  "link": "/explore/articles/milanjovanovic.tech/efcore-migrations-a-detailed-guide.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Shift Left With Architecture Testing in .NET",
+  "desc": "In this newsletter, we'll explore how architecture testing can safeguard our project's architecture. Architecture tests can help us shift left and detect architectural issues faster.",
+  "link": "/explore/articles/milanjovanovic.tech/shift-left-with-architecture-testing-in-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Vertical Slice Architecture: Structuring Vertical Slices",
+  "desc": "Are you tired of organizing your project across layers? Vertical Slice Architecture is a compelling alternative to traditional layered architectures.",
+  "link": "/explore/articles/milanjovanovic.tech/vertical-slice-architecture-structuring-vertical-slices.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Caching in ASP.NET Core: Improving Application Performance",
   "desc": "Caching is one of the simplest techniques to significantly improve your application's performance. In this newsletter, we will explore how to implement caching in ASP.NET Core applications.",
   "link": "/explore/articles/milanjovanovic.tech/caching-in-aspnetcore-improving-application-performance.md",

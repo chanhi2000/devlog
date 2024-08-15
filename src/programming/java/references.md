@@ -128,6 +128,9 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 21일차 TIL - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-21%EC%9D%BC%EC%B0%A8-TIL-DP)
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 객체 지향 설계 과정](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-%EA%B3%BC%EC%A0%95)
 - [`@dongha1992` / 99클럽 코테 스터디 22일차 TIL - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-22%EC%9D%BC%EC%B0%A8-TIL-DP)
+- [`@dongha1992` / 99클럽 코테 스터디 23일차 TIL - 그리디](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-%EA%B7%B8%EB%A6%AC%EB%94%94)
+- [`@dongha1992` / 99클럽 코테 스터디 23일차 TIL - 그래프](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-%EA%B7%B8%EB%9E%98%ED%94%84)
+- [`@dongha1992` / \[프로그래머스\] 가장 먼 노드](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%EB%A8%BC-%EB%85%B8%EB%93%9C)
 
 <!-- END: velog.io java -->
 
@@ -620,6 +623,10 @@ tag:
 
 - [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
 
+### 개발자 박진 블로그
+
+- [SOLID 원칙: 객체 지향 프로그래밍의 기반](https://jinn-blog.tistory.com/m/178)
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -703,6 +710,7 @@ tag:
 - [`betterprogramming` / Concurrency vs. Parallelism Using Kotlin](https://betterprogramming.pub/the-difference-between-concurrency-and-parallelism-explained-using-kotlin-83f4159581d)
 - [`proandroiddev` / Variance (in & out) in Kotlin Explained](https://proandroiddev.com/variance-in-out-in-kotlin-explained-5adcd9308954)
 - [`proandroiddev` / Coroutine Cancellation and Timeouts](https://proandroiddev.com/coroutine-cancellation-and-timeouts-5ad1f6c43805)
+- `@zakharenko` / [How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
 
 <!-- END: medium.com -->
 

@@ -65,4 +65,10 @@ tag:
 
 ---
 
+## Anton Zhiyanov
+
+- [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
+
+---
+
 <TagLinks />

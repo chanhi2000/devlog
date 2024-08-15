@@ -2375,5 +2375,12 @@
     "topics": ["distributed-systems", "enclave", "policy"],
     "avatar": "https://avatars.githubusercontent.com/u/43030739?v=4",
     "banner": ""
+  }, {
+    "repo": "probably-nothing-labs/denormalized",
+    "desc": "Embeddable stream processing engine based on Apache DataFusion",
+    "officialSite": "https://www.denormalized.io",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/105390443?v=4",
+    "banner": ""
   }
 ]

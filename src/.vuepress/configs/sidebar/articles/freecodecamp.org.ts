@@ -50,6 +50,7 @@ export const template: SidebarInfoTemplate = {
       "build-a-bitcoin-to-usd-calculator", // 2024-07-22
       "how-to-match-parentheses-in-javascript-without-using-regex", // 2024-08-12
       "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
+      "create-color-picker-using-html-css-and-javascript", // 2024-08-15
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -209,6 +210,7 @@ export const template: SidebarInfoTemplate = {
       "procedural-macros-in-rust", // 2024-04-24
       "rust-tutorial-build-a-json-parse", // 2024-05-29
       "build-and-deploy-smart-contract-rust-gear-protocol", // 2024-06-04
+      "how-asynchronous-programming-works-in-rust", // 2024-08-15
     ]],[
     "go", [
       "how-to-handle-concurrency-in-go", // 2024-05-10
@@ -219,6 +221,7 @@ export const template: SidebarInfoTemplate = {
       "go-for-absolute-beginners", // 2024-07-01
       "encoding-and-decoding-data-in-golang", // 2024-08-05
       "graceful-shutdowns-k8s-go", // 2024-08-13
+      "integration-tests-using-testcontainers", // 2024-08-14
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -345,6 +348,7 @@ export const template: SidebarInfoTemplate = {
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
       "using-entity-framework-core-with-mongodb", // 2024-07-29
       "get-mongodb-url-to-connect-to-a-nodejs-application", // 2024-08-12
+      "integration-tests-using-testcontainers", // 2024-08-14
     ]],[
     "spark", [
       "pyspark-for-beginners", // 2024-06-26
@@ -387,6 +391,7 @@ export const template: SidebarInfoTemplate = {
       "retrieval-augmented-generation-rag-handbook", // 2024-06-11
       "building-intelligent-apps-with-mistral-ai", // 2024-06-18
       "learn-rag-fundamentals-and-advanced-techniques", // 2024-08-01
+      "a-beginners-guide-to-large-language-models", // 2024-08-15
     ]],[
     "math", [
       "linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai", // 2024-05-28
@@ -618,6 +623,10 @@ export const template: SidebarInfoTemplate = {
       "graceful-shutdowns-k8s-go", // 2024-08-13
       "how-to-implement-message-queues-in-your-backend-applications", // 2024-08-14
       "learn-ml5js-for-machine-learning-in-javascript", // 2024-08-14
+      "integration-tests-using-testcontainers", // 2024-08-14
+      "create-color-picker-using-html-css-and-javascript", // 2024-08-15
+      "how-asynchronous-programming-works-in-rust", // 2024-08-15
+      "a-beginners-guide-to-large-language-models", // 2024-08-15
     ]],
   ]),
 }

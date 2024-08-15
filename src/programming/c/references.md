@@ -304,10 +304,20 @@ tag:
 
 ---
 
-## Enthusiastically, Steady, Slowly
+## tistory
 
-- [박정국 CTO가 알려주는 ‘서버 성능 측정 방법’ (포브스 선정, 신입 개발자, API, 백엔드)](https://rutgo-letsgo.tistory.com/m/entry/%EB%B0%95%EC%A0%95%EA%B5%AD-CTO%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%E2%80%98%EC%84%9C%EB%B2%84-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-%EB%B0%A9%EB%B2%95%E2%80%99-%ED%8F%AC%EB%B8%8C%EC%8A%A4-%EC%84%A0%EC%A0%95-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-API-%EB%B0%B1%EC%97%94%EB%93%9C)
-  
+- [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
+  - [소켓에서 서버까지: 유닉스/리눅스 네트워크 프로그래밍 완벽 가이드](https://jinn-blog.tistory.com/m/174)
+  - [소켓 프로그래밍의 세계: 레스토랑 주방에서 배우는 네트워크 통신의 비밀 (상세편)](https://jinn-blog.tistory.com/m/175)
+  <!-- END: jinn-blog -->
+- [`rutgo-letsgo` / Enthusiastically, Steady, Slowly](https://rutgo-letsgo.tistory.com/m/)
+  - [박정국 CTO가 알려주는 ‘서버 성능 측정 방법’ (포브스 선정, 신입 개발자, API, 백엔드)](https://rutgo-letsgo.tistory.com/m/entry/%EB%B0%95%EC%A0%95%EA%B5%AD-CTO%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%E2%80%98%EC%84%9C%EB%B2%84-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-%EB%B0%A9%EB%B2%95%E2%80%99-%ED%8F%AC%EB%B8%8C%EC%8A%A4-%EC%84%A0%EC%A0%95-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-API-%EB%B0%B1%EC%97%94%EB%93%9C)
+  <!-- END: rutgo-letsgo -->
+- [`1000sj` / SJ CODE](https://1000sj.tistory.com/m/)
+  - [TCP/IP Stack 개발 #1 Ethernet & ARP](https://1000sj.tistory.com/m/349)
+  <!-- END: 1000sj -->
+<!-- END: tistory.com -->
+
 ---
 
 ## Knowledge Base
@@ -481,12 +491,6 @@ tag:
 ## Austin Z. Henley
 
 - [Optimizing a `bignum` library for fun](https://austinhenley.com/blog/bignum2.html)
-
----
-
-## SJ CODE
-
-- [TCP/IP Stack 개발 #1 Ethernet & ARP](https://1000sj.tistory.com/m/349)
 
 ---
 

@@ -296,6 +296,8 @@ head:
   - [12.2. 책 기록 엔티티 만들기](https://ysedeveloper.tistory.com/m/entry/122-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   - [12.3. 책 기록 리포지터리 인터페이스 만들기](https://ysedeveloper.tistory.com/m/entry/123-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%84%B0%EB%A6%AC-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   - [12.4. 책 기록 입력 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/124-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9E%85%EB%A0%A5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  - [12.5. 책 기록 응답 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/125-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9D%91%EB%8B%B5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  - [12.6. 책 기록 서비스 만들기](https://ysedeveloper.tistory.com/m/entry/126-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   <!-- END: ysedeveloper -->
 <!-- END: tistory.com -->
 
@@ -463,6 +465,7 @@ head:
 - [\[MockMvc\] MockMvc 테스트 시 한글이 깨져서 테스트에 실패하는 문제](https://colabear754.tistory.com/m/217)
 - [\[Spring\] Spring REST Docs를 사용해서 API 명세서를 작성해보자](https://colabear754.tistory.com/m/218)
 - [\[Spring Data JPA\] Java의 record 객체를 @EmbeddedId로 사용할 때 Could not set value of type 문제가 발생하는 경우](https://colabear754.tistory.com/m/219)
+- [\[Spring/Spring Boot\] 파일 다운로드와 multipart/form-data 업로드 컨트롤러 메소드 테스트 코드를 작성해보자](https://colabear754.tistory.com/m/220)
 
 ### Free Java & OpenJDK Info for Daily Java Usage | foojay
 

@@ -22,6 +22,7 @@ head:
       content: "Project 36: Crashy Plane"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/36/overview.html
+prev: /explore/articles/hackingwithswift.com/read/35/07-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,85 @@ Bring your interfaces to life with animation, and meet switch/case at the same t
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/36/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating a player: resizeFill vs aspectFill | Hacking with iOS",
+  "desc": "Creating a player: resizeFill vs aspectFill",
+  "link": "/explore/articles/hackingwithswift.com/read/36/02-creating-a-player-resizefill-vs-aspectfill.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Sky, background and ground: parallax scrolling with SpriteKit | Hacking with iOS",
+  "desc": "Sky, background and ground: parallax scrolling with SpriteKit",
+  "link": "/explore/articles/hackingwithswift.com/read/36/03-sky-background-and-ground-parallax-scrolling-with-spritekit.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating collisions | Hacking with iOS",
+  "desc": "Creating collisions",
+  "link": "/explore/articles/hackingwithswift.com/read/36/04-creating-collisions.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Pixel-perfect physics in SpriteKit, plus explosions and more | Hacking with iOS",
+  "desc": "Pixel-perfect physics in SpriteKit, plus explosions and more",
+  "link": "/explore/articles/hackingwithswift.com/read/36/05-pixel-perfect-physics-in-spritekit-plus-explosions-and-more.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Background music with SKAudioNode, an intro, plus game over | Hacking with iOS",
+  "desc": "Background music with SKAudioNode, an intro, plus game over",
+  "link": "/explore/articles/hackingwithswift.com/read/36/06-background-music-with-skaudionode-an-intro-plus-game-over.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Optimizing SpriteKit physics | Hacking with iOS",
+  "desc": "Optimizing SpriteKit physics",
+  "link": "/explore/articles/hackingwithswift.com/read/36/07-optimizing-spritekit-physics.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/36/08-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

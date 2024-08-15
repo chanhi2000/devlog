@@ -76,9 +76,46 @@ head:
 
 ---
 
-## GS리테일 DX블로그
+## tistory
 
-- [실시간 추천을 위한 kubeflow 환경 구축](https://gsretail.tistory.com/12) <!-- TODO: 작성 (/explore/articles/gsretail.tistory.com/12.md) -->
+- [`gsretail` / GS리테일 DX블로그](https://gsretail.tistory.com/m/)
+  - [실시간 추천을 위한 kubeflow 환경 구축](https://gsretail.tistory.com/m/12) <!-- TODO: 작성 (/explore/articles/gsretail.tistory.com/12.md) -->
+  <!-- END: gsretail -->
+- [`arisu1000` / 아리수](https://arisu1000.tistory.com/m/)
+  - [쿠버네티스 서비스(kubernetes services) (2)](https://arisu1000.tistory.com/m/27839)
+  <!-- END:arisu1000 -->
+- [`peterica` / 피터의 개발이야기](https://peterica.tistory.com/m/)
+  - [[모니터링] kubernetes, 모든 Pod의 CPU, 메모리 Request, limit 조회](https://peterica.tistory.com/m/418)
+  <!-- END: peterica -->
+- [`gngsn` / ENFJ.dev](https://gngsn.tistory.com/m/)
+  - [Kubernetes Affinity, 제대로 이해하기](https://gngsn.tistory.com/m/283)
+  - [Kubernetes Scheduler, 제대로 이해하기](https://gngsn.tistory.com/m/284)
+  - [Kubernetes ConfigMap & Secret, 제대로 이해하기](https://gngsn.tistory.com/m/288)
+  - [Kubernetes, 제대로 이해하기](https://gngsn.tistory.com/m/289)
+  - [Kubernetes Cluster Upgrade, 제대로 이해하기](https://gngsn.tistory.com/m/290)
+  - [Kubernetes Storage, 제대로 이해하기](https://gngsn.tistory.com/m/293)
+  - [Kubernetes Static Pods, 제대로 이해하기](https://gngsn.tistory.com/m/297)
+  <!-- END: gngsn -->
+- [`134130` / 134130](https://134130.tistory.com/m/)
+  - [쿠버네티스 접근제어 개발 회고](https://134130.tistory.com/m/20)
+  <!-- END: 134130 -->
+- [`jflip` / Jflip의 기술 블로그](https://jflip.tistory.com/m/)
+  - [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지](https://jflip.tistory.com/m/13)
+  <!-- END: jflip -->
+- [`bcho` / 조대협의 블로그](https://bcho.tistory.com/m/)
+  - [Istio #1 - 마이크로 서비스와 서비스 매쉬](https://bcho.tistory.com/m/1293)
+  <!-- END: bcho -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Kubernetes Control-Plane Node에 Taint 해제](https://jeongchul.tistory.com/m/712)
+  - [Kubernetes NFS StorageClass with MySQL](https://jeongchul.tistory.com/m/715)
+  - [ArgoCD Kubernetes 구축](http://jeongchul.tistory.com/m/716)
+  - [Istio Kubernetes 구축 및 Nginx 테스트](https://jeongchul.tistory.com/m/720)
+  - [Istio Kubernetes 구축 및 Nginx 테스트](http://jeongchul.tistory.com/m/720)
+  <!-- END: jeongchul -->
+- [`jybaek` / 컴맹 : 진화의 시작](https://jybaek.tistory.com/m/)
+  - [`PodDisruptionBudget`로 애플리케이션 보호](https://jybaek.tistory.com/m/504720)
+  <!-- END: jybaek -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -185,21 +222,9 @@ head:
 
 ---
 
-## 아리수
-
-- [쿠버네티스 서비스(kubernetes services) (2)](https://arisu1000.tistory.com/27839)
-
----
-
 ## SigNoz
 
 - [Maximizing Scalability - Apache Kafka and OpenTelemetry](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry)
-
----
-
-## 피터의 개발이야기
-
-- [[모니터링] kubernetes, 모든 Pod의 CPU, 메모리 Request, limit 조회](https://peterica.tistory.com/418)
 
 ---
 
@@ -230,18 +255,6 @@ head:
 - [`@qkrtkdwns3410` - [도커&쿠버] 도커 컨테이너에서 호스트 파일 복사 등](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4%EC%BF%A0%EB%B2%84-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%ED%98%B8%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EB%B3%B5%EC%82%AC-%EB%93%B1)
 - [`@qkrtkdwns3410` - 쿠버네티스란](https://velog.io/@qkrtkdwns3410/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%9E%80)
 - [`@qkrtkdwns3410` - 마스터 노드와 워커 노드](https://velog.io/@qkrtkdwns3410/%EB%A7%88%EC%8A%A4%ED%84%B0-%EB%85%B8%EB%93%9C%EC%99%80-%EC%9B%8C%EC%BB%A4-%EB%85%B8%EB%93%9C)
-
----
-
-## ENFJ.dev
-
-- [Kubernetes Affinity, 제대로 이해하기](https://gngsn.tistory.com/m/283)
-- [Kubernetes Scheduler, 제대로 이해하기](https://gngsn.tistory.com/m/284)
-- [Kubernetes ConfigMap & Secret, 제대로 이해하기](https://gngsn.tistory.com/m/288)
-- [Kubernetes, 제대로 이해하기](https://gngsn.tistory.com/m/289)
-- [Kubernetes Cluster Upgrade, 제대로 이해하기](https://gngsn.tistory.com/m/290)
-- [Kubernetes Storage, 제대로 이해하기](https://gngsn.tistory.com/m/293)
-- [Kubernetes Static Pods, 제대로 이해하기](https://gngsn.tistory.com/m/297)
 
 ---
 
@@ -279,12 +292,6 @@ head:
 ## Hackernoon
 
 - [How to Work With the Kubectl Debug Command](https://hackernoon.com/how-to-work-with-the-kubectl-debug-command)
-
----
-
-## 134130
-
-- [쿠버네티스 접근제어 개발 회고](https://134130.tistory.com/20)
 
 ---
 
@@ -326,12 +333,6 @@ head:
 
 ---
 
-## Jflip의 기술 블로그
-
-- [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지](https://jflip.tistory.com/m/13)
-
----
-
 ## Share & Discover Presentations | SlideShare
 
 - [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/slideshow/kubernetes-prometheus-monitoring/118250853)
@@ -342,12 +343,6 @@ head:
 ## Eric Han's IT Blog
 
 - [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
-
----
-
-## 조대협의 블로그
-
-- [Istio #1 - 마이크로 서비스와 서비스 매쉬](https://bcho.tistory.com/m/1293)
 
 ---
 
@@ -368,20 +363,6 @@ head:
 ## Martin Heinz | Personal Website & Blog
 
 - [Boost Your Python Application Performance using Continuous Profiling](https://martinheinz.dev/blog/89)
-
----
-
-## Jeongchul Kim
-
-- [Kubernetes Control-Plane Node에 Taint 해제](https://jeongchul.tistory.com/m/712)
-- [Kubernetes NFS StorageClass with MySQL](https://jeongchul.tistory.com/m/715)
-- [ArgoCD Kubernetes 구축](http://jeongchul.tistory.com/m/716)
-
----
-
-## 컴맹 : 진화의 시작
-
-- [`PodDisruptionBudget`로 애플리케이션 보호](https://jybaek.tistory.com/m/504720)
 
 ---
 

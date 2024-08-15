@@ -15,6 +15,12 @@ app.use('/awesome-devlog', createProxyMiddleware({
   pathRewrite: {
     '^/devo': '',
   }
+})).use('/geek', createProxyMiddleware({
+  target: 'https://news.hada.io',
+  changeOrigin: true,
+  pathRewrite: {
+    '^/geek': '',
+  }
 }));
 
 const PORT = 3000;

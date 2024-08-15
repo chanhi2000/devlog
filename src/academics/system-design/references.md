@@ -308,14 +308,19 @@ head:
 
 - [`rhlinux` / + ROOT:/ 루트 슬래쉬 +](http://rhlinux.tistory.com/m/)
   - [시험](http://rhlinux.tistory.com/m/50)
+  <!-- END: rhlinux -->
 - [`thalals` / 힘차게, 열심히 공대생](https://thalals.tistory.com/m/)
   - [OpenAPI 와 스웨거를 활용한 실전 API 설계 (feat. 요구사항으로 부터 도메인 모델링하기)](https://thalals.tistory.com/m/477)
   - [[한빛앤 MSA 세미나] 서비스 장애 잘 이해하고 대비하기 | 박순영](https://thalals.tistory.com/m/480)
   - [Repository는 어느 모듈에 위치해야할까? (DIP. 고수준모듈, 저수준 모듈)](https://thalals.tistory.com/m/483)
+  <!-- END: thalas -->
 - [`hides` / Hide](https://hides.tistory.com/m/1)
   - [틴더(Tinder) 시스템 디자인](https://hides.tistory.com/m/1145)
   - [Rate Limiter 시스템 디자인](https://hides.tistory.com/m/1152)
   - [토스 SLASH 22 - 토스뱅크의 완전히 새로운 대출 시스템 정리](https://hides.tistory.com/m/1153)
+  - [토스 SLASH 23 - 실시간 시세 데이터 안전하고 빠르게 처리하기 정리](http://hides.tistory.com/m/1154)
+  - [MSA 환경에서 선착순 쿠폰 발급 설계해보기](http://hides.tistory.com/m/1155)
+  <!-- END: hides -->
 - [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
   - [[내일배움캠프 23일차 TIL] 유스케이스 다이어그램 및 RESTful한 API설계(Param vs Query vs Body)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-23%EC%9D%BC%EC%B0%A8-TIL-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%8F-RESTful%ED%95%9C-API%EC%84%A4%EA%B3%84Param-vs-Query-vs-Body)
   - [\[내일배움캠프 34일차 TIL\] 뉴스피드 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-34%EC%9D%BC%EC%B0%A8-TIL-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
@@ -323,10 +328,13 @@ head:
   - [\[내일배움캠프 65일차 TIL\] 최종 프로젝트 - 기획 & 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EC%84%A4%EA%B3%84)
   - [\[내일배움캠프 66일차 TIL\] 최종 프로젝트 - WBS 작성](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-66%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-WBS-%EC%9E%91%EC%84%B1)
   - [\[내일배움캠프 65일차 TIL\] 최종 프로젝트 - 초기 세팅](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-65%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B4%88%EA%B8%B0-%EC%84%B8%ED%8C%85)
+  <!-- END: moonnight0 -->
 - [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
   - [새로운 디자인 컴포넌트 도입 절차](https://vurias0203.tistory.com/m/entry/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%88%EC%B0%A8)
+  <!-- END: vurias0203 -->
 - [`germweapon` / 세균무기, 지구별에 기록을 남기다!](https://germweapon.tistory.com/m/)
   - [\[화면(상세) 기획\] 이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/m/384)
+  <!-- END: germweapon -->
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
   - [다중 서버에서 세션 불일치 문제를 해결하는 방법](https://bbogle2.tistory.com/m/entry/%EB%8B%A4%EC%A4%91-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EC%84%B8%EC%85%98-%EB%B6%88%EC%9D%BC%EC%B9%98-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [`bebong` / BlaBlaBlah](https://bebong.tistory.com/m/)
@@ -715,6 +723,12 @@ head:
 ## Enterprise Integration Patterns
 
 - [Queues invert control flow but require flow control](https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html)
+
+---
+
+## Hardcover - Social discovery for serious book lovers
+
+- [How We Survived 10k Requests a Second: Switching to Signed Asset URLs in an Emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
 
 ---
 

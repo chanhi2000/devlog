@@ -119,29 +119,25 @@ tag:
 
 ---
 
-## 드프 DrawingProcess
+## tistory
 
-- [[IDE] VSCode 파일 확장자 인식 설정 방법](https://csj000714.tistory.com/1071)
-- [[Vision] EXR Extended Dynamic Range Image File Format (feat. OpenEXR, 무손실 고해상도 데이터 저장)](https://csj000714.tistory.com/1092)
+- [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
+  - [[IDE] VSCode 파일 확장자 인식 설정 방법](https://csj000714.tistory.com/m/1071)
+  - [[Vision] EXR Extended Dynamic Range Image File Format (feat. OpenEXR, 무손실 고해상도 데이터 저장)](https://csj000714.tistory.com/m/1092)
+  <!-- END: csj000714 -->
 
----
+<!-- END: tistory.com -->
 
-## Developer's Delight
-
-- [[Numpy] Serise `clip()` 함수 - 값 범위 제한하기](https://sonseungha.tistory.com/716)
-
----
-
-## 나는 내 좌절에 값어치를 매긴다
-
-- [[vscode 1% 이해하기] Jetbrains Mono 폰트 vscode 적용하기 (feat. Font Ligature)](https://helicopter55.tistory.com/84)
-- [[IDE 99% 에러잡기] cursor ide - cursor . 명령어 "zsh: command not found: cursor"](https://helicopter55.tistory.com/87)
-
----
-
-## Seungdols Company
-
-- [Conventional commit plugin 추천 - commit prefix 자동화를 하자.](https://seungdols.tistory.com/1017)
+- [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
+  - [[Numpy] Serise `clip()` 함수 - 값 범위 제한하기](https://sonseungha.tistory.com/m/716)
+  <!-- END: sonseungha -->
+- [`helicopter55` / 나는 내 좌절에 값어치를 매긴다](https://helicopter55.tistory.com/m/)
+  - [[vscode 1% 이해하기] Jetbrains Mono 폰트 vscode 적용하기 (feat. Font Ligature)](https://helicopter55.tistory.com/m/84)
+  - [[IDE 99% 에러잡기] cursor ide - cursor . 명령어 "zsh: command not found: cursor"](https://helicopter55.tistory.com/m/87)
+  <!-- END: helicopter55 -->
+- [`seungdols` / Seungdols Company](https://seungdols.tistory.com/m/)
+  - [Conventional commit plugin 추천 - commit prefix 자동화를 하자.](https://seungdols.tistory.com/m/1017)
+  <!-- END: seungdols -->
 
 ---
 
@@ -151,14 +147,14 @@ tag:
 
 ---
 
-## 멈춤보단 천천히라도
-
-- [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/2109)
-- [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/1842)
-- [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/2328)
-- [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/2101)
-- [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
-
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/m/2109)
+  - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
+  - [Visual Studio Code의 터미널에서 miniconda 가상 환경 2개 보이는 현상 해결방법](https://webnautes.tistory.com/m/2328)
+  - [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/m/2101)
+  - [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
+  - [Visual Studio Code에서 외부 터미널에서 파이썬 코드 실행하기](https://webnautes.tistory.com/m/2373)
+  <!-- END: webnautes -->
 ---
 
 ## 상구리의 기술 블로그

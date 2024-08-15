@@ -299,6 +299,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Create A Color Picker Tool Using HTML, CSS, and JavaScript",
+  "desc": "Have you ever wanted to create your own interactive tools using just HTML, CSS, and JavaScript? In this article, we'll create a fun and straightforward project: a color picker tool. This handy little tool will let users select any color they like and...",
+  "link": "/explore/articles/freecodecamp.org/create-color-picker-using-html-css-and-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

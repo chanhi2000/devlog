@@ -329,6 +329,12 @@ head:
 
 ---
 
+## Cojette의 Data Wonderland
+
+- [질문이 답을 바꾼다- AI시대, 좋은 답을 이끄는 질문 (feat. INFCON 2024)](http://cojette.github.io/posts/infcon2024/)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

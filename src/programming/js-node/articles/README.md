@@ -80,6 +80,13 @@ head:
   preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
 
 <SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
+
+<SiteInfo
   name="Tecmint: Linux Howtos, Tutorials & Guides"
   desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
   url="https://tecmint.com/"
@@ -488,6 +495,24 @@ head:
 ```
 
 <!-- END: learnk8s.io -->
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "Horizontally Scaling ASP.NET Core APIs With YARP Load Balancing",
+  "desc": "When a single server reaches its limits, performance degrades, leading to slow response times, errors, or complete downtime. We'll dive into load balancing, why it matters, and how YARP simplifies the process for .NET applications.",
+  "link": "/explore/articles/milanjovanovic.tech/horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+<!-- END: milanjovanovic.tech -->
 
 ---
 

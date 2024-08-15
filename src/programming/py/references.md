@@ -726,6 +726,9 @@ head:
   - [특정 단어 뒤에 있는 단어 찾는 Python 예제](https://webnautes.tistory.com/m/2367)
   - [sqlite3 테이블 출력하는 Python 예제](https://webnautes.tistory.com/m/2372)
   - [SQLite3 Python 예제](https://webnautes.tistory.com/m/2284)
+  - [한글 표기 가격을 만원 단위로 변환하는 Python 예제](https://webnautes.tistory.com/m/2370)
+  - [Python 리스트에서 중복 원소 제거하기 `set`, `dict.fromkeys`](https://webnautes.tistory.com/m/2371)
+  - [Visual Studio Code에서 외부 터미널에서 파이썬 코드 실행하기](https://webnautes.tistory.com/m/2373)
   <!-- END: webnautes -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/m/15)
@@ -768,6 +771,7 @@ head:
   - [\[Python\] Union 과 isinstance 사용법](https://mobicon.tistory.com/m/620)
   - [\[Python\] 함수 정의시 * 인수 사용법](https://mobicon.tistory.com/m/621)
   - [\[Python\] 패키지와 모듈 범위](https://mobicon.tistory.com/m/622)
+  - [\[Python\] Pydantic 의  BaseModel 클래스 사용](http://mobicon.tistory.com/m/627)
   <!-- END: mobicon -->
 - [`iostream` / Make headway towards solving the problem](https://iostream.tistory.com/m/)
   - [Adapter Pattern](https://iostream.tistory.com/m/178)
@@ -979,6 +983,7 @@ head:
 - [Joblib Memory that expires after timelimit](https://mkseo.pe.kr/blog/?p=4950)
 - [How to suppress “Using categorical units to plot a list of strings that are all parsable as floats or dates.”](https://mkseo.pe.kr/blog/?p=5012)
 - [twelvedata python api](http://mkseo.pe.kr/blog/?p=5018)
+- [Predicting next state and observation in hmmlearn](http://mkseo.pe.kr/blog/?p=5029)
 
 ---
 
@@ -1054,6 +1059,7 @@ head:
 - [Classification task에서 Cross-Entropy](https://devs0n.tistory.com/163)
 - [Dropout vs Inverted Dropout](https://devs0n.tistory.com/168)
 - [`reduce`를 언제 사용할 수 있을까](https://devs0n.tistory.com/177)
+- [Transformers - CLIPModel을 사용한 Image Classification](https://devs0n.tistory.com/m/194)
 
 ---
 

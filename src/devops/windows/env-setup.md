@@ -363,6 +363,13 @@ fastfetch
   preview="https://boostping.kilho.net/boostping.png"/>
 
 <SiteInfo
+  name="이미지컨버터"
+  desc="이미지 포맷 변경을 클릭 한번에 할 수 있습니다."
+  url="https://imageconverter.kilho.net/"
+  logo="https://kilho.net/favicon.png"
+  preview="https://imageconverter.kilho.net/imageconverter.png"/>
+
+<SiteInfo
   name="Cyber Scarecrow"
   desc="An app for scaring away malware"
   url="https://www.cyberscarecrow.com/"
