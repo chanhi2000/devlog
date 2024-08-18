@@ -2534,6 +2534,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("aws"),
             asb.learnk8s("aws"), 
             asb.yozm("aws"),
+            asb.kakaoEnt("aws"),
             asb.inflab("aws"),
           ]
         }
@@ -3371,6 +3372,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/ai/langchain/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Perplexity',
+      collapsible: true,
+      icon: 'iconfont icon-perplexity',
+      children: [
+        '/ai/perplexity/README.md',
+        '/ai/perplexity/references.md',
+        '/ai/perplexity/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/perplexity/articles/README.md',
           ]
         }
       ]

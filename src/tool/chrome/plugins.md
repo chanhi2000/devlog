@@ -253,6 +253,16 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "SponsorBlock for YouTube - Skip Sponsorships",
+  "desc": "Skip sponsorships, subscription begging and more on YouTube videos. Report sponsors on videos you watch to save others' time.",
+  "link": "https://chromewebstore.google.com/detail/mnjggcdmjocbbbhaepdhchncahnbgone",
+  "logo": "https://lh3.googleusercontent.com/oSoXDpjLX_iytl11_ROa1thmFI0xPk9pL8ttEtnFkBI8Cie0Ge8KxVFaokgBRscvUR1cXH4bVeG_C_Fl6kBw3A3_=s120",
+  "background": "rgba(234,51,35,0.2)"
+}
+```
+
 ---
 
 <TagLinks />

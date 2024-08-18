@@ -75,7 +75,7 @@ enum CollisionTypes: UInt32 {
 }
 ```
 
-OK, back to BuildingNode.swift. Please add this code to the class – it's a property followed by two methods:
+OK, back to <FontIcon icon="fa-brands fa-swift"/>`BuildingNode.swift`. Please add this code to the class – it's a property followed by two methods:
 
 ```swift
 var currentImage: UIImage!

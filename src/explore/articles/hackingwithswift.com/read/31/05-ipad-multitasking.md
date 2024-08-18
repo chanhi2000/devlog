@@ -107,7 +107,7 @@ Second, we need to call that method in the two places it's needed: whenever we s
 updateUI(for: webView)
 ```
 
-The latter is a matter of implementing the web view’s `didFinish` method, which we can receive because we configured our view controller to be the delegate of each of the web views. So, put this code somewhere in ViewController.swift:
+The latter is a matter of implementing the web view’s `didFinish` method, which we can receive because we configured our view controller to be the delegate of each of the web views. So, put this code somewhere in <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`:
 
 ```swift
 func webView(_ webView: WKWebView, didFinish navigation: WKNavigation!) {

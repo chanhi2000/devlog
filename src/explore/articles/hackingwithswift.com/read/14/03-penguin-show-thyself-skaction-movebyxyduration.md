@@ -98,7 +98,7 @@ You may have noticed that I made the method accept a parameter called `hideTime`
 
 The `show()` method is going to be triggered by the view controller on a recurring basis, managed by a property we're going to create called `popupTime`. This will start at 0.85 (create a new enemy a bit faster than once a second), but every time we create an enemy we'll also decrease `popupTime` so that the game gets harder over time.
 
-First, the easy bit: add this property to GameScene.swift:
+First, the easy bit: add this property to <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift`:
 
 ```swift
 var popupTime = 0.85

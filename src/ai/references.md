@@ -335,6 +335,24 @@ head:
 
 ---
 
+## 최윤섭의 디지털 헬스케어
+
+- [미국의 의료 인공지능은 보험 급여를 얼마나 받고 있나](https://yoonsupchoi.com/2024/08/16/us-ai-cpt/)
+
+---
+
+## 한국경제 - 성공을 부르는 습관
+
+- [은행 AI 혁신 막던 '망 분리' 폐지](https://hankyung.com/article/2024081314891)
+
+---
+
+## pxd story
+
+- [AI를 위한 UI 패턴](https://story.pxd.co.kr/1783)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

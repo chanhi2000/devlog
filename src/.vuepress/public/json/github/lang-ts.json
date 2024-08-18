@@ -2814,10 +2814,10 @@
     "banner": ""
   }, {
     "repo": "marimo-team/marimo",
-    "desc": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.",
+    "desc": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. ",
     "officialSite": "https://marimo.io",
-    "topics": ["artificial-intelligence", "data-science", "data-visualization", "developer-tools", "machine-learning", "notebooks", "pipeline", "python", "reactive", "web-app"],
-    "avatar": "",
+    "topics": ["artificial-intelligence", "dag", "data-science", "data-visualization", "dataflow", "developer-tools", "machine-learning", "notebooks", "pipeline", "python", "reactive", "web-app"],
+    "avatar": "https://avatars.githubusercontent.com/u/98563464?v=4",
     "banner": ""
   }, {
     "repo": "maybe-finance/maybe",

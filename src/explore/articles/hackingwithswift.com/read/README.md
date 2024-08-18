@@ -121,7 +121,7 @@ Whether you want to learn SwiftUI or UIKit, Hacking with iOS is a complete tutor
 {
   "title": "Project 5: Word Scramble",
   "desc": "Create an anagram game while learning about closures and booleans.",
-  "link": "/explore/articles/hackingwithswift.com/read/5/overview.md",
+  "link": "/explore/articles/hackingwithswift.com/read/05/overview.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
@@ -135,7 +135,7 @@ Whether you want to learn SwiftUI or UIKit, Hacking with iOS is a complete tutor
 {
   "title": "Project 6: Auto Layout",
   "desc": "Get to grips with Auto Layout using practical examples and code.",
-  "link": "/explore/articles/hackingwithswift.com/read/6/overview.md",
+  "link": "/explore/articles/hackingwithswift.com/read/06/overview.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
@@ -149,7 +149,7 @@ Whether you want to learn SwiftUI or UIKit, Hacking with iOS is a complete tutor
 {
   "title": "Project 7: Whitehouse Petitions",
   "desc": "Make an app to parse Whitehouse petitions using JSON and a tab bar.",
-  "link": "/explore/articles/hackingwithswift.com/read/7/overview.md",
+  "link": "/explore/articles/hackingwithswift.com/read/07/overview.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
@@ -163,7 +163,7 @@ Whether you want to learn SwiftUI or UIKit, Hacking with iOS is a complete tutor
 {
   "title": "Project 8: 7 Swifty Words",
   "desc": "Build a word-guessing game and master strings once and for all.",
-  "link": "/explore/articles/hackingwithswift.com/read/8/overview.md",
+  "link": "/explore/articles/hackingwithswift.com/read/08/overview.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
@@ -177,7 +177,7 @@ Whether you want to learn SwiftUI or UIKit, Hacking with iOS is a complete tutor
 {
   "title": "Project 9: Grand Central Dispatch",
   "desc": "Learn how to run complex tasks in the background with GCD.",
-  "link": "/explore/articles/hackingwithswift.com/read/9/overview.md",
+  "link": "/explore/articles/hackingwithswift.com/read/09/overview.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

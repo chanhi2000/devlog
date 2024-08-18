@@ -221,7 +221,8 @@ head:
 - [`dkswnkk` / JuHyeong.dev](https://dkswnkk.tistory.com/m/)
   - [`ThreadPoolExecutor` 동작에 관한 오해](https://dkswnkk.tistory.com/m/745)
   - [단방향 `@OneToMany`의 문제점](http://dkswnkk.tistory.com/m/756)
-  - [\[JPA\] deleteAll(), deleteAllInBatch(), deleteInBatch() 정리](https://dkswnkk.tistory.com/m/757)
+  - [\[JPA\] `deleteAll()`, `deleteAllInBatch()`, `deleteInBatch()` 정리](https://dkswnkk.tistory.com/m/757)
+  - [Spring Boot에서 여러 Kafka 클러스터 사용하기](https://dkswnkk.tistory.com/m/758)
   <!-- END: dkswnkk -->
 - [`devel-repository` / 알아두면 쓸만한 개발 잡학사전](https://devel-repository.tistory.com/m/)
   - [spring scheduler task에 shedlock + redis 적용방법](https://devel-repository.tistory.com/m/66)
@@ -230,6 +231,7 @@ head:
   - [\[Spring Boot\] Mapping 종류](https://findsilverlining.tistory.com/m/111)
   - [\[Spring Boot\] IoC, DI, AOP 정리](https://findsilverlining.tistory.com/m/112)
   - [\[Spring Boot\] 디렉터리 패키지 구조 - 도메인형, 계층형](https://findsilverlining.tistory.com/m/113)
+  - [\[Spring Boot\] JPA `@Id` 전략](https://findsilverlining.tistory.com/m/115)
   <!-- END: findsilverlining -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
@@ -239,6 +241,7 @@ head:
   - [\[1년 후 마실가실\] JWT 공부](https://hj0216.tistory.com/m/935)
   - [\[해결방법\] `EmptyResultDataAccessException`](https://hj0216.tistory.com/m/936)
   - [\[해결방법\] `duplicateKeyException`](https://hj0216.tistory.com/m/937)
+  - [\[해결방법\] JWT Login 시, `accessToken`이 `null`](https://hj0216.tistory.com/m/938)
   <!-- END: hj0216 -->
 - [`ysedeveloper` / 생계형 개발자 연서은](https://ysedeveloper.tistory.com/m/)
   - [스프링 부트 하루만에 배우기](https://ysedeveloper.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
@@ -298,7 +301,13 @@ head:
   - [12.4. 책 기록 입력 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/124-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9E%85%EB%A0%A5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   - [12.5. 책 기록 응답 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/125-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9D%91%EB%8B%B5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   - [12.6. 책 기록 서비스 만들기](https://ysedeveloper.tistory.com/m/entry/126-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  - [12.7. 책 기록 컨트롤러 만들기](https://ysedeveloper.tistory.com/m/entry/127-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  - [12.8. 책 기록 확인해보기](https://ysedeveloper.tistory.com/m/entry/128-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%ED%99%95%EC%9D%B8%ED%95%B4%EB%B3%B4%EA%B8%B0)
+  - [12.9. 책 상세 화면에서 책 기록 기능 추가하기](https://ysedeveloper.tistory.com/m/entry/129-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
   <!-- END: ysedeveloper -->
+- [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
+  - [영속성 관리](https://maeng-dev.tistory.com/m/162)
+  <!-- END: maeng-dev -->
 <!-- END: tistory.com -->
 
 ### 비탐인

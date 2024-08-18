@@ -67,7 +67,7 @@ JavaScript is quite a murky language, so you might be staring at that blankly. I
 
 As with the previous JavaScript, don't worry about the nitty-gritty. There are many volumes of books on learning JavaScript and I don't intend to repeat them here.
 
-Now that data is being sent from JavaScript, data will be received in Swift. In ActionViewController.swift, replace the `// do stuff!` comment with this:
+Now that data is being sent from JavaScript, data will be received in Swift. In <FontIcon icon="fa-brands fa-swift"/>`ActionViewController.swift`, replace the `// do stuff!` comment with this:
 
 ```swift
 guard let itemDictionary = dict as? NSDictionary else { return }

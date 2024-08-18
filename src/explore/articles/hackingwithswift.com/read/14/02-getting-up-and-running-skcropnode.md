@@ -136,7 +136,7 @@ We want to create four rows of slots, with five slots in the top row, then four 
 2. A `createSlot(at:)` method that handles slot creation.
 3. Four loops, one for each row.
 
-The first item is easy enough – just add this property above the existing `gameScore` definition in GameScene.swift:
+The first item is easy enough – just add this property above the existing `gameScore` definition in <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift`:
 
 ```swift
 var slots = [WhackSlot]()
@@ -172,7 +172,7 @@ By default, nodes don't crop, they just form part of a node tree. The reason we 
 
 The easiest way to demonstrate the need for `SKCropNode` is to give it a `nil` mask – this will effectively stop the crop node from doing anything, thus allowing you to see the trick behind our game.
 
-In WhackSlot.swift, add a property to your class in which we'll store the penguin picture node:
+In <FontIcon icon="fa-brands fa-swift"/>`WhackSlot.swift`, add a property to your class in which we'll store the penguin picture node:
 
 ```swift
 var charNode: SKSpriteNode!

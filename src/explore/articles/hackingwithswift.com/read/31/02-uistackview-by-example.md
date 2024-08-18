@@ -59,7 +59,6 @@ The problems usually occur if you want to make changes later: what if there's no
 
 Multitasking comes in two varieties:
 
-
 - **Slide Over** is when your app literally sits over the screen on the right edge, with the original application remaining full screen but dimmed. This is supported on most newer iPads.
 - **Split View** is activated if the user drags the Slide Over divider to the left slightly, and it causes your app to be pinned to the screen edge while the original application is resized to take up less space. This is supported only on iPad Air 2 and newer devices.
 
@@ -85,10 +84,9 @@ You'll see even more Auto Layout warnings, and your view still looks like a mess
 
 ![Once Auto Layout rules have been added, the text field and stack view automatically jump into place.](https://hackingwithswift.com/img/books/hws/31-2@2x.png)
 
-Before we're done with Interface Builder, we're going to make two small changes to the stack view, so make sure it's selected then open the attributes inspector (Alt+Command+4). From the list of attributes, please change Distribution to Fill Equally, then for Spacing enter 5.
+Before we're done with Interface Builder, we're going to make two small changes to the stack view, so make sure it's selected then open the attributes inspector (<kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>4</kbd>). From the list of attributes, please change Distribution to Fill Equally, then for Spacing enter 5.
 
 There are a few options for the Distribution attribute, and it's worth covering what they do briefly. If our stack view had four subviews in there, then:
-
 
 - **Fill** will leave three of them their natural size, and make the fourth one take up the most space. It uses Auto Layout's content hugging priority to decide which one to stretch.
 - **Fill Equally** will make each subview the same size so they fill all the space available to the stack view.
@@ -100,9 +98,9 @@ There are a few options for the Distribution attribute, and it's worth covering 
 
 As for the Spacing attribute, this just determines how much margin to place between items in the stack view. We've set it to 5 here so there's a nice gap between our web views.
 
-The last thing to do is create some connections, so hit Alt+Cmd+Return to go to the Assistant Editor. Now create IBOutlets for the text field and stack view, called `addressBar` and `stackView` respectively. Please also set the view controller to be the delegate of the text field by Ctrl+dragging from the text field to the gold and white View Controller icon in the document outline.
+The last thing to do is create some connections, so hit <kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>Return</kbd> to go to the Assistant Editor. Now create IBOutlets for the text field and stack view, called `addressBar` and `stackView` respectively. Please also set the view controller to be the delegate of the text field by <kbd>Ctrl</kbd>+dragging from the text field to the gold and white View Controller icon in the document outline.
 
-We're done with Interface Builder, so press Cmd+Return to return to the Standard Editor, then open <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` for editing. Time to write some code! And I hope you're ready for just how easy this is going to be…
+We're done with Interface Builder, so press <kbd>Cmd</kbd>+<kbd>Return</kbd> to return to the Standard Editor, then open <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift` for editing. Time to write some code! And I hope you're ready for just how easy this is going to be…
 
 ---
 

@@ -196,8 +196,17 @@ Now when you want to throw an error of type `EncryptionError.obvious` you must p
 guard password != "12345" else { throw EncryptionError.obvious("I've got the same passcode on my luggage!") }
 ```
 
-Obviously you don't want to provide hundreds (or thousands!) of `guard` statements to filter out obvious passwords, but hopefully you remember [how to use UITextChecker](https://hackingwithswift.com/read/5/5/returning-values-contains) to do spell checking – that would be a smart thing here!
-<!-- TODO: 작성 (/explore/articles/hackingwithswift.com/read/5/returning-values-contains.md) -->
+Obviously you don't want to provide hundreds (or thousands!) of `guard` statements to filter out obvious passwords, but hopefully you remember [how to use UITextChecker](/explore/articles/hackingwithswift.com/read/5/05-checking-for-valid-answers.md) to do spell checking – that would be a smart thing here!
+
+```component VPCard
+{
+  "title": "Checking for valid answers | Hacking with iOS",
+  "desc": "Checking for valid answers",
+  "link": "/explore/articles/hackingwithswift.com/read/5/5/checking-for-valid-answers.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 That's our basic `do/try/throw/catch` Swift example complete. You might look at the `try` statement and think it useless, but it's primarily there to signal to developers "this call might fail." This matters: when a `try` calls fails, execution immediately jumps to the `catch` blocks, so if you see `try` before a call it signals that the code beneath it might not get called.
 

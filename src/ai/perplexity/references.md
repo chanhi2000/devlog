@@ -1,0 +1,48 @@
+---
+lang: ko-KR
+title: References
+description: Perplexity > References
+icon: iconfont icon-share
+category: 
+  - AI
+  - Perplexity
+  - References
+tag: 
+  - ai
+  - llm
+  - perplexity
+head:
+  - - meta:
+    - property: og:title
+      content: Perplexity > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/perplexity/references.html
+---
+
+# {{ $frontmatter.title }} 관련
+
+[[toc]]
+
+---
+
+## Brunch
+
+- [`@2rV` / 1. Perplexity 소개](https://brunch.co.kr/@@2rV/162)
+- [`@2rV` / 2. Perplexity만이 제공하는 사용자 경험](https://brunch.co.kr/@@2rV/163)
+- [`@2rV` / 3. Perplexity와 전통적 검색 엔진 비교](https://brunch.co.kr/@@2rV/164)
+- [`@2rV` / 4. Perplexity: 영감과 영향력](https://brunch.co.kr/@@2rV/165)
+- [`@2rV` / 5. Perplexity의 제품 개발 문화](https://brunch.co.kr/@@2rV/166)
+- [`@2rV` / 6. Perplexity의 시작과 전략적 진화 - Twitter 검색에서 웹 검색으로](https://brunch.co.kr/@@2rV/167)
+- [`@2rV` / 7. Perplexity의 검색 모델의 기반: RAG](https://brunch.co.kr/@@2rV/168)
+- [`@2rV` / 8. LLM 역사와 함께한 Perplexity의 여정](https://brunch.co.kr/@@2rV/169)
+- [`@2rV` / 9. Perplexity:인간을 특별하게 만드는 호기심](https://brunch.co.kr/@@2rV/170)
+- [`@2rV` / 10. Perplexity 창업자가 생각하는 스타트업](https://brunch.co.kr/@@2rV/171)
+- [`@2rV` / 11. Perplexity: 검색과 AI의 미래](https://brunch.co.kr/@@2rV/172)
+
+<!-- END: brunch.co.kr -->
+
+---
+
+<TagLinks />

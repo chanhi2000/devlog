@@ -602,11 +602,6 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "TabbyML/tabby",
-    "desc": "Self-hosted AI coding assistant",
-    "topics": [],
-    "officialSite": "https://tabbyml.github.io/tabby"
-  }, {
     "repo": "chroma-core/chroma",
     "desc": "the open source embedding database",
     "topics": [],
@@ -769,10 +764,12 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "OpenBB-finance/OpenBBTerminal",
+    "repo": "OpenBB-finance/OpenBB",
     "desc": "Investment Research for Everyone, Everywhere.",
-    "topics": [],
-    "officialSite": "https://openbb.co"
+    "officialSite": "https://openbb.co",
+    "topics": ["artificial-intelligence", "crypto", "cryptocurrency", "economics", "finance", "hacktoberfest", "investment", "investment-research", "machine-learning", "openbb", "python", "quantitative-finance", "stocks"],
+    "avatar": "https://avatars.githubusercontent.com/u/80064875?v=4",
+    "banner": ""
   }, {
     "repo": "jdagdelen/hyperDB",
     "desc": "A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $35M cap.",
@@ -2277,13 +2274,6 @@
     "desc": "Chat language model that can interpret and execute functions/plugins",
     "topics": [],
     "officialSite": ""
-  }, {
-    "repo": "tinygrad/tinygrad",
-    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️ ",
-    "officialSite": "",
-    "topics": [],
-    "avatar": "",
-    "banner": ""
   }, {
     "repo": "QwenLM/Qwen-7B",
     "desc": "The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.",
@@ -5638,10 +5628,10 @@
     "banner": ""
   }, {
     "repo": "princeton-nlp/SWE-agent",
-    "desc": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.",
-    "officialSite": "https://swe-agent.com/",
+    "desc": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+    "officialSite": "https://princeton-nlp.github.io/SWE-agent/",
     "topics": ["agent", "agent-based-model", "ai", "developer-tools", "llm", "lms"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/44678448?v=4",
     "banner": ""
   }, {
     "repo": "AlexanderKoch-Koch/low_cost_robot",
@@ -7511,6 +7501,13 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/151514198?v=4",
+    "banner": ""
+  }, {
+    "repo": "janbjorge/PgQueuer",
+    "desc": "PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing.",
+    "officialSite": "https://pgqueuer.readthedocs.io/en/latest/index.html",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/16663421?v=4",
     "banner": ""
   }
 ]

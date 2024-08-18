@@ -3477,13 +3477,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/7267937?v=4",
     "banner": ""
   }, {
-    "repo": "CanadaHonk/porffor",
-    "desc": "A from-scratch experimental AOT JS engine, written in JS",
-    "officialSite": "https://porffor.dev",
-    "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/19228318?v=4",
-    "banner": ""
-  }, {
     "repo": "nfoert/cardie",
     "desc": "An open source business card designer and sharing platform",
     "officialSite": "https://cardie-uwtwy.ondigitalocean.app/",

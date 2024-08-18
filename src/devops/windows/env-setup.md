@@ -370,6 +370,13 @@ fastfetch
   preview="https://imageconverter.kilho.net/imageconverter.png"/>
 
 <SiteInfo
+  name="오토클릭"
+  desc="마우스를 자동으로 클릭합니다."
+  url="https://autoclick.kilho.net/"
+  logo="https://kilho.net/favicon.png"
+  preview="https://autoclick.kilho.net/AutoClick.png"/>
+
+<SiteInfo
   name="Cyber Scarecrow"
   desc="An app for scaring away malware"
   url="https://www.cyberscarecrow.com/"

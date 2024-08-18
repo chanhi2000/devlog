@@ -31,6 +31,7 @@ tag:
 - [Dependabot on GitHub Actions and self-hosted runners is now generally available](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/)
 - [Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
 - [Make your GitHub projects re accessible with accessibility-alt-text-bot](https://github.blog/2023-06-12-make-your-github-projects-more-accessible-with-accessibility-alt-text-bot/)
+- [Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
 
 ---
 

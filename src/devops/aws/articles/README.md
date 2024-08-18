@@ -13,7 +13,9 @@ tag:
   - freecodecamp.org
   - learnk8s.io
   - yozm.wishket.com
+  - fe-developers.kakaoent.com
   - tech.inflab.com
+  - devops
   - aws
   - amazon-web-services
   - aws-cdk
@@ -54,6 +56,13 @@ head:
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+<SiteInfo
+  name="홈 | 카카오엔터테인먼트 FE 기술블로그"
+  desc="카카오 엔터테인먼트 프론트엔드 개발팀이 관심있는 기술의 경험과 노하우를 공유합니다."
+  url="https://fe-developers.kakaoent.com/"
+  logo="https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded"
+  preview="https://fe-developers.kakaoent.com/static/kakaoEnt-e1e7f4766847f540602de68fd4e88456.png"/>
 
 <SiteInfo
   name="tech.inflab.com"
@@ -277,6 +286,24 @@ head:
 ```
 
 <!-- END: yozm.wishket.com -->
+
+---
+
+## 카카오엔터테인먼트 FE 기술블로그
+
+> fe-developers.kakaoent.com
+
+```component VPCard
+{
+  "title": "AWS amplify로 서버리스 웹 애플리케이션 구축하기 | 카카오엔터테인먼트 FE 기술블로그",
+  "desc": "프런트엔드 개발자가 어느 날 기똥찬 웹 애플리케이션 아이디어가 떠올랐다면, 제일 먼저 드는 생각은 '백엔드 개발을 누군가 해줬으면 좋겠다' 일 겁니다.",
+  "link": "/explore/articles/fe-developers.kakaoent.com/230612-aws-amplify-serverless.md",
+  "logo": "https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded",
+  "background": "rgba(254,189,1,0.2)"
+}
+```
+
+<!-- END: fe-developers.kakaoent.com -->
 
 ---
 

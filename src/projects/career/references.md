@@ -175,6 +175,7 @@ tag:
 - [`@ghilbut` / \[조직문화\] 스쿼드(Squad)는 그만!!](https://medium.com/@ghilbut/%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94-%EC%8A%A4%EC%BF%BC%EB%93%9C-squad-%EB%8A%94-%EA%B7%B8%EB%A7%8C-738b7ebd6998?source=rss-8482dec25ee1------2)
 - [`mjspring` / 설득에 대한 태도 바로잡기](https://mjspring.medium.com/%EC%84%A4%EB%93%9D%EC%97%90-%EB%8C%80%ED%95%9C-%ED%83%9C%EB%8F%84-%EB%B0%94%EB%A1%9C%EC%9E%A1%EA%B8%B0-cce3117b1c49?source=rss-a5b93d2efa4c------2)
 - [`giljae` / 린스타트업](https://giljae.medium.com/%EB%A6%B0%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-ffb9e7134731?source=rss-bb87e9e8047d------2)
+- [`giljae` / 비기술 관리자의 함정](https://giljae.medium.com/%EB%B9%84%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%9D%98-%ED%95%A8%EC%A0%95-6ae75543cafe?source=rss-bb87e9e8047d------2)
 
 <!-- END: medium.com -->
 
@@ -285,6 +286,8 @@ tag:
 - [`@ZVA` / 나이키 DTC와 데이터 드리븐 전략은 왜 실패했는가?](https://brunch.co.kr/@@ZVA/713)
 - [`@3L0s` / DX 실행: 생산공정의 디지털화 개념 - 디지털 혁신-17](https://brunch.co.kr/@@3L0s/120)
 - [`@2rV` / Perplexity 창업자가 바라본 빅테크 창업자 - 구글, 메타, 아마존, 테슬라 창업자, 엔비디아 젠슨 황에 대하여](https://brunch.co.kr/@@2rV/161)
+- [`@ZVA` / 나이키 전략에 비친 데이터 드리븐 전략의 딜레마](https://brunch.co.kr/@@ZVA/715)
+- [`@ZVA` / 기로에선 코스모스, 다시 앞서 나가기 위한 조건](https://brunch.co.kr/@@ZVA/716)
 
 <!-- END: brunch.co.kr -->
 
@@ -563,6 +566,7 @@ tag:
 - ['개발자도 회사의 조직원이다' 를 보고](http://jojoldu.tistory.com/m/794)
 - [창피한 일](http://jojoldu.tistory.com/m/797)
 - [운이 따르는 조직](http://jojoldu.tistory.com/m/798)
+- [좋은 회사와 커뮤니티](https://jojoldu.tistory.com/m/799)
 
 <!-- END: jojoldu.tistory.com -->
 
@@ -1468,6 +1472,18 @@ https://m.blog.naver.com/&logId=
 ## Zerohertz
 
 - [전문연구요원: 법](https://zerohertz.github.io/professional-research-agent-raw/)
+
+---
+
+## 개발자 박진 블로그
+
+- [\[원문 번역\]기술 리더로서의 첫 경험: 번역과 개인적 소회](https://jinn-blog.tistory.com/m/185)
+
+---
+
+## 온라인 결제의 모든 것, 포트원 기업 블로그
+
+- [전금법 개정, 온라인 커머스도 대비해야합니다.](https://blog.portone.io/partner-settlement-lawinfo/)
 
 ---
 

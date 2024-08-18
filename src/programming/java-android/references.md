@@ -128,6 +128,8 @@ tag:
   - [Kotlin’s @Keep Annotation: Keeping Your Code Safe and Sound](https://proandroiddev.com/kotlins-keep-annotation-keeping-your-code-safe-and-sound-cfbf4a4e9659)
   - [From Hilt to Koin using Koin Annotations](https://proandroiddev.com/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
   - [Mastering Date and Time Management in iOS with Kotlinx DateTime: A Step-by-Step Guide](https://proandroiddev.com/mastering-date-and-time-management-in-ios-with-kotlinx-datetime-a-step-by-step-guide-ba1fe3bc32fe)
+  - [Android Process Lifecycle + Coroutines == ❤](https://proandroiddev.com/android-process-lifecycle-coroutines-7a8128470dd4)
+  <!-- END: proandroiddev -->
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
 - [`kotlin-academy` / How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
@@ -170,6 +172,10 @@ tag:
 - [`hongbeomi-dev` / Compose Navigation 살펴보기](https://medium.com/hongbeomi-dev/compose-navigation-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-8f9c63426eca?source=rss-c941a8b6c471------2)
 - [`chetan-garg36` / Kotlin MultiPlatform: Sharing Code Between Android and JVM Targets](https://chetan-garg36.medium.com/kotlin-multiplatform-sharing-code-between-android-and-jvm-targets-091c4ab3838c)
 - [`hafizmohd999` / How to upload file image into server in kotlin multiplatform](https://medium.com/@hafizmohd999/how-to-upload-file-image-into-server-in-kotlin-multiplatform-007197c8f593)
+- [`galou.minisini` / Advanced Kotlin Flow Cheat sheet (for Android Engineer)](https://medium.com/@galou.minisini/advanced-kotlin-flow-cheat-sheet-for-android-engineer-cb8157d4f848)
+- [`mohitsoni48` / Biometric Authorization in Compose Multiplatform App](https://medium.com/@mohitsoni48/biometric-authorization-in-compose-multiplatform-app-a00e0fa64640)
+- [`chetan-garg36` / HomeMade ImageLoading Library for KMP from Scratch — Part 1](https://chetan-garg36.medium.com/homemade-imageloading-library-for-kmp-from-scratch-part-1-d075f2fd5ec3)
+- [`mmartosdev` / Pushing the Boundaries of Compose Multiplatform with AGSL Shaders](https://medium.com/@mmartosdev/pushing-the-boundaries-of-compose-multiplatform-with-agsl-shaders-d6d47380ba8a)
 
 <!-- END: medium.com -->
 
@@ -602,9 +608,21 @@ tag:
 
 ---
 
-##
+## Koin - Cloud-Inject.io
 
 - [How To Migrate from Hilt to Koin - A Detailed Guide](https://blog.kotzilla.io/migrate-from-hilt-to-koin)
+
+---
+
+## Philo blog - © 2024 Philo
+
+- [Kotlin Multiplatform at Philo](https://blog.philo.com/kotlin-multiplatform-at-philo/)
+
+---
+
+## Krzysztof Borowy
+
+- [Hassle-free Snackbar in Jetpack Compose](https://www.kborowy.com/blog/easy-compose-snackbar/)
 
 ---
 

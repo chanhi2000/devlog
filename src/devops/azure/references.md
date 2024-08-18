@@ -50,6 +50,7 @@ head:
 ## 재우니의 블로그
 
 - [AZURE : Prompty로 .NET 앱에 AI를 쉽게 추가하세요](https://aspdotnet.tistory.com/m/3245)
+- [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
 
 ---
 

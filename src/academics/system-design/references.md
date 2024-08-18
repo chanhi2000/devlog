@@ -193,6 +193,7 @@ head:
 - [`giljae` / DevOps로의 전환을 앞두고](https://giljae.medium.com/devops%EB%A1%9C%EC%9D%98-%EC%A0%84%ED%99%98%EC%9D%84-%EC%95%9E%EB%91%90%EA%B3%A0-053ff27b3bc2?source=rss-bb87e9e8047d------2)
 - [`junghan92` / (번역) 디자인 시스템에 적합한 코드](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%BD%94%EB%93%9C-71ec6938a909?source=rss-4f4a02f8f2cf------2)
 - [`netflixtechblog` / Maestro: Data/ML Workflow Orchestrator at Netflix](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
+- [`daangn` / 회원 시스템 MSA 전환 도전기: MAU 1,900만 당근 유저를 위한 선택](https://medium.com/daangn/%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-msa-%EC%A0%84%ED%99%98-%EB%8F%84%EC%A0%84%EA%B8%B0-mau-1-900%EB%A7%8C-%EB%8B%B9%EA%B7%BC-%EC%9C%A0%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%84%A0%ED%83%9D-43993c582f69)
 
 <!-- END: medium.com -->
 
@@ -337,17 +338,25 @@ head:
   <!-- END: germweapon -->
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
   - [다중 서버에서 세션 불일치 문제를 해결하는 방법](https://bbogle2.tistory.com/m/entry/%EB%8B%A4%EC%A4%91-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EC%84%B8%EC%85%98-%EB%B6%88%EC%9D%BC%EC%B9%98-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+  <!-- END: bbogle2 -->
 - [`bebong` / BlaBlaBlah](https://bebong.tistory.com/m/)
   - [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
+  <!-- END: bebong -->
 - [`lob-dev` / Lob!](https://lob-dev.tistory.com/m/)
   - [RESTful 설계 원칙에 대한 못다 한 이야기](https://lob-dev.tistory.com/m/90)
+  <!-- END: lob-dev -->
 - [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
   - [데이터 스누핑 편향이란?](https://sonseungha.tistory.com/m/724)
+  <!-- END: sonseungha -->
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [소프트웨어 생산성을 높이기 위한 방법](https://aspdotnet.tistory.com/m/3220)
+  <!-- END: aspdotnet -->
 - [`jh-bk` / 잡다한 AI 관련 글들](https://jh-bk.tistory.com/m/)
   - [\[Review\] 토스에서 말하는 "가독성 좋은 코드" 란 무엇일까?](https://jh-bk.tistory.com/m/69)
-
+  <!-- END: jh-bk -->
+- [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
+  - [분산 시스템의 성공을 위한 9가지 핵심 아키텍처 패턴](https://jinn-blog.tistory.com/m/184)
+  <!-- END: jinn-blog -->
 <!-- END: tistory.com -->
 
 ---
@@ -729,6 +738,12 @@ head:
 ## Hardcover - Social discovery for serious book lovers
 
 - [How We Survived 10k Requests a Second: Switching to Signed Asset URLs in an Emergency](https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls)
+
+---
+
+## pxd story
+
+- [AI를 위한 UI 패턴](https://story.pxd.co.kr/1783)
 
 ---
 

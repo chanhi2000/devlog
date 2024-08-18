@@ -113,9 +113,9 @@ func explodeFireworks() {
 
 As you can see, exploding five fireworks is worth 20x more points than exploding just one, hence the incentive to select groups by color!
 
-There's one last thing to do before this game is complete, and that's to detect the device being shaken. This is easy enough to do because iOS will automatically call a method called `motionBegan()` on our game when the device is shaken. Well, it's a little more complicated than *that* – what actually happens is that the method gets called in GameViewController.swift, which is the `UIViewController` that hosts our SpriteKit game scene.
+There's one last thing to do before this game is complete, and that's to detect the device being shaken. This is easy enough to do because iOS will automatically call a method called `motionBegan()` on our game when the device is shaken. Well, it's a little more complicated than *that* – what actually happens is that the method gets called in <FontIcon icon="fa-brands fa-swift"/>`GameViewController.swift`, which is the `UIViewController` that hosts our SpriteKit game scene.
 
-The default view controller doesn't know that it has a SpriteKit view, and certainly doesn't know what scene is showing, so we need to do a little typecasting. Once we have a reference to our actual game scene, we can call `explodeFireworks()`. Put this method just after the `prefersStatusBarHidden` property in GameViewController.swift:
+The default view controller doesn't know that it has a SpriteKit view, and certainly doesn't know what scene is showing, so we need to do a little typecasting. Once we have a reference to our actual game scene, we can call `explodeFireworks()`. Put this method just after the `prefersStatusBarHidden` property in <FontIcon icon="fa-brands fa-swift"/>`GameViewController.swift`:
 
 ```swift
 override func motionBegan(_ motion: UIEvent.EventSubtype, with event: UIEvent?) {

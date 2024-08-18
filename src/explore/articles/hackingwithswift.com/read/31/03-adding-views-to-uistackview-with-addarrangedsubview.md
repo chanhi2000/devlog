@@ -87,7 +87,7 @@ First, add an import for `WebKit` so we can use `WKWebView`:
 import WebKit
 ```
 
-Now here’s the code for `addWebView()` – put this into ViewController.swift, just below `setDefaultTitle()`:
+Now here’s the code for `addWebView()` – put this into <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`, just below `setDefaultTitle()`:
 
 ```swift
 @objc func addWebView() {

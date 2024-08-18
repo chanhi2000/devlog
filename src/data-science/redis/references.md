@@ -117,4 +117,10 @@ tag:
 
 ---
 
+## Jeongchul Kim
+
+- [Kubernetes Redis Cluster 설치](https://jeongchul.tistory.com/m/725)
+
+---
+
 <TagLinks />

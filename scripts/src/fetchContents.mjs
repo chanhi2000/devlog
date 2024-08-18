@@ -50,6 +50,7 @@ export async function fetchAwesomeDevlog() {
       let title = $(element).text().trim()
         .replace(/\[/g, '\\[').replace(/\]/g, '\\]')
         .replace(/&middot;/g, '·').replace(/&amp;/g, '&').replace(/&quot;/g, '\'')
+        .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&hellip;/g, '…');
       const isVelog = link.match(/velog.io/g);
       const velogId = (isVelog) ? link.match(/(?<=velog.io\/)(.*?)(?=\/)/g) : '';
       const isBrunch = link.match(/brunch.co.kr/g);

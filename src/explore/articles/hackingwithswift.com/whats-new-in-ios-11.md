@@ -382,7 +382,7 @@ Xcode comes with a great ARKit template right out of the box, so I encourage you
 
 I want to walk through the template just briefly so you can see how everything fits together. First, create a new Xcode project using the Augmented Reality App template, then select SpriteKit for Content Technology. Yes, SpriteKit is a 2D framework, but it still works great in ARKit because it billboards your sprites so they appear to twist and turn in 3D.
 
-If you open Main.storyboard, you'll see that the ARKit template works a little differently from the regular SpriteKit template: it uses a new `ARSKView` Interface Builder object, which is what brings together the two worlds of ARKit and SpriteKit. That's connected to an outlet in <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`, which sets up the AR tracking in `viewWillAppear()` and pauses it in `viewWillDisappear()`.
+If you open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, you'll see that the ARKit template works a little differently from the regular SpriteKit template: it uses a new `ARSKView` Interface Builder object, which is what brings together the two worlds of ARKit and SpriteKit. That's connected to an outlet in <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`, which sets up the AR tracking in `viewWillAppear()` and pauses it in `viewWillDisappear()`.
 
 However, the *real* work takes place in two other places: the `touchesBegan()` method of <FontIcon icon="fa-brands fa-swift"/>`Scene.swift`, and the `nodeFor` method in <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`. In regular SpriteKit you create nodes and add them to your scene directly, but with ARKit you create *anchors* – placeholders that have a position in the scene and an identifier, but no actual content. These then get converted into SpriteKit nodes as needed using the `nodeFor` method. If you've ever used `MKMapView`, this is similar to the way annotations and pins work – annotations are your model data, and pins are the views.
 
@@ -477,7 +477,7 @@ pdfView.displaysAsBook = true
 
 The `PDFView` class comes with a bunch of helpful methods to let users navigate and manipulate the PDF. To try this out, we're going to add some navigation bar buttons to our view controller, because that's the easiest way to add some interactivity.
 
-This takes three steps, starting with adding a navigation controller so we have an actual navigation bar to work with. So, open Main.storyboard, select View Controller Scene in the document outline, then go to the Editor menu and choose Embed In > Navigation Controller.
+This takes three steps, starting with adding a navigation controller so we have an actual navigation bar to work with. So, open <FontIcon icon="iconfont icon-xcode"/>`Main.storyboard`, select View Controller Scene in the document outline, then go to the Editor menu and choose Embed In > Navigation Controller.
 
 Next, add this code to `viewDidLoad()` in <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`
 

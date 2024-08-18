@@ -480,6 +480,12 @@ tag:
 
 ---
 
+## CrowdStrike
+
+- [CrowdStrike: External Technical Root Cause Analysis — Channel File 291](https://crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
+
+---
+
 ## Project(s)
 
 ```component VPCard

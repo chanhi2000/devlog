@@ -75,7 +75,7 @@ var banana: SKSpriteNode!
 var currentPlayer = 1
 ```
 
-Now here's the code for `createPlayers()` – please put this in GameScene.swift:
+Now here's the code for `createPlayers()` – please put this in <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift`:
 
 ```swift
 func createPlayers() {

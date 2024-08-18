@@ -343,6 +343,7 @@ tag:
 - [`@ksh4704` / 바닐라-영화소개프로젝트(css)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8css)
 - [`@ksh4704` / 바닐라-영화소개프로젝트(3)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B83)
 - [`@surim014` / \[번역\] James Snell과 함께하는 Node.js 심층 분석](https://velog.io/@surim014/deep-dive-into-node-js-with-james-snell)
+- [`@ksh4704` / 바닐라-영화소개프로젝트(4)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B84)
 
 <!-- END: velog.io -->
 
@@ -941,8 +942,8 @@ tag:
 
 ## GIS Developer
 
-- [TypeScript의 배열로 Union Type 정의하기](http://www.gisdeveloper.co.kr/?p=14606)
-- [바닐라 JS의 동적 스크립트 임포팅](http://www.gisdeveloper.co.kr/?p=14820)
+- [TypeScript의 배열로 Union Type 정의하기](https://gisdeveloper.co.kr/?p=14606)
+- [바닐라 JS의 동적 스크립트 임포팅](https://gisdeveloper.co.kr/?p=14820)
 
 ---
 
@@ -1356,6 +1357,8 @@ tag:
 ## 개발자 박진 블로그
 
 - [로드 밸런싱 알고리즘의 상세 분석과 실제 적용 사례](https://jinn-blog.tistory.com/m/176)
+- [CORS 완벽 가이드: 웹 개발자를 위한 상세 설명서](https://jinn-blog.tistory.com/m/179)
+- [URL에서 화면까지: 브라우저의 특급 웹페이지 배달 서비스](https://jinn-blog.tistory.com/m/180)
 
 ---
 

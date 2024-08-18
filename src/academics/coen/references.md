@@ -57,4 +57,27 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@dongha1992` / 99클럽 코테 스터디 25일차 - 그래프](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-%EA%B7%B8%EB%9E%98%ED%94%84)
+- [`@broccolism` / 📚 합의 알고리즘 Raft  논문 읽기 - 0. 그게 무엇?](https://velog.io/@broccolism/%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Raft-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-0.-%EA%B7%B8%EA%B2%8C-%EB%AC%B4%EC%97%87)
+- [`@qkrtkdwns3410` / BSON 이 뭐야?](https://velog.io/@qkrtkdwns3410/BSON-%EC%9D%B4-%EB%AD%90%EC%95%BC)
+- [`@euisuk-chung` / \[CV Notes\] Lecture 18 - Videos](https://velog.io/@euisuk-chung/CV-Notes-Lecture-18-Videos)
+
+<!-- END: velog.io -->
+
+---
+
+## Minty Box
+
+- [\[1주차\] 운영체제 개요 & 컴퓨터 시스템 동작원리](https://shout-to-my-mae.tistory.com/m/436)
+
+---
+
+## 김 용묵의 절대공간
+
+- [Windows 95 이전의 별세계 컴퓨터와 운영체제들](http://moogi.new21.org/tc/2331)
+
+---
+
 <TagLinks />

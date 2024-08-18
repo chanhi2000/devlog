@@ -181,6 +181,7 @@ head:
 
 - [Raspberry Pi 400에 RetroPie 설치하기](https://webnautes.tistory.com/2314)
 - [Keychron B1 ( 키크론 B1 ) 간단 후기](https://webnautes.tistory.com/m/2342)
+- [AVRISP mkII 및 Microchip Studio 사용법](https://webnautes.tistory.com/m/2154)
 
 ---
 

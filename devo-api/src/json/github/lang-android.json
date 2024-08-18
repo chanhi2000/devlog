@@ -734,5 +734,26 @@
     "topics": ["android", "compose-multiplatform", "kotlin-multiplatform", "swiftui"],
     "avatar": "https://avatars.githubusercontent.com/u/10727543?v=4",
     "banner": ""
+  }, {
+    "repo": "Ahmad-Hamwi/lazy-pagination-compose",
+    "desc": "An intuitive and customizable Compose Multiplatform pagination composables that are built on top of lazy scrollables.",
+    "officialSite": "",
+    "topics": ["android", "cmp", "compose", "compose-multiplatform", "desktop", "ios", "javascript", "jvm", "kmp", "lazycolumn", "lazyrow", "linux", "macos", "pagination", "webassembly"],
+    "avatar": "https://avatars.githubusercontent.com/u/37661295?v=4",
+    "banner": ""
+  }, {
+    "repo": "a-sit-plus/multibase",
+    "desc": "100% Kotlin Multiplatform Multibase Encoder/Decoder",
+    "officialSite": "https://a-sit-plus.github.io/multibase/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/14927738?v=4",
+    "banner": ""
+  }, {
+    "repo": "burnoo/compose-remember-setting",
+    "desc": "Compose Multiplatform library for remembering state persistently (based on Multiplatform Settings)",
+    "officialSite": "https://burnoo.github.io/compose-remember-setting/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/17478192?v=4",
+    "banner": ""
   }
 ]

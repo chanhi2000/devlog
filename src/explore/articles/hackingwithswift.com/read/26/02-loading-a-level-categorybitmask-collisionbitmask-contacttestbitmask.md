@@ -116,7 +116,7 @@ By default, physics bodies have a collision bitmask that means "everything", so 
 
 A bitmask is a complicated beast to explain, but what it means in practice is that you can combine values together. In our game, vortexes, stars and the finish flag all have the player set for their contact test bitmask, and the player has star *and* vortex *and* finish flag.
 
-SpriteKit expects these three bitmasks to be described using a `UInt32`. It's a particular way of storing numbers, but rather than using numbers we're going to use enums with a raw value. This means we can refer to the various options using names. Put this enum definition above your class in GameScene.swift:
+SpriteKit expects these three bitmasks to be described using a `UInt32`. It's a particular way of storing numbers, but rather than using numbers we're going to use enums with a raw value. This means we can refer to the various options using names. Put this enum definition above your class in <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift`:
 
 ```swift
 enum CollisionTypes: UInt32 {

@@ -604,8 +604,10 @@
   }, {
     "repo": "TabbyML/tabby",
     "desc": "Self-hosted AI coding assistant",
-    "topics": [],
-    "officialSite": "https://tabbyml.github.io/tabby"
+    "officialSite": "https://tabby.tabbyml.com/",
+    "topics": ["ai", "codegen", "coding-assistant", "coding-language", "developer-experience", "developer-tools", "gen-ai", "ide", "llms"],
+    "avatar": "https://avatars.githubusercontent.com/u/125617854?v=4",
+    "banner": ""
   }, {
     "repo": "chroma-core/chroma",
     "desc": "the open source embedding database",
@@ -2282,7 +2284,7 @@
     "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️ ",
     "officialSite": "",
     "topics": [],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/132956020?v=4",
     "banner": ""
   }, {
     "repo": "QwenLM/Qwen-7B",
@@ -7490,6 +7492,55 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/33983539?v=4",
+    "banner": ""
+  }, {
+    "repo": "Netflix/vmaf",
+    "desc": "Perceptual video quality assessment based on multi-method fusion.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/913567?v=4",
+    "banner": ""
+  }, {
+    "repo": "VigneshVSV/hololinked",
+    "desc": "ZMQ/HTTP-RPC for SCADA / IoT applications in python",
+    "officialSite": "https://hololinked.readthedocs.io/",
+    "topics": ["data-acquisition", "data-logging", "instrument-control", "iot", "laboratory", "rpc", "scada", "web-of-things", "zmq"],
+    "avatar": "https://avatars.githubusercontent.com/u/62492557?v=4",
+    "banner": ""
+  }, {
+    "repo": "google-deepmind/treescope",
+    "desc": "An interactive HTML pretty-printer for machine learning research in IPython notebooks.",
+    "officialSite": "https://treescope.readthedocs.io/",
+    "topics": ["machine-learning", "ndarray", "neural-networks", "pretty-printing", "visualization"],
+    "avatar": "https://avatars.githubusercontent.com/u/8596759?v=4",
+    "banner": ""
+  }, {
+    "repo": "mriale/PyDPainter",
+    "desc": "A usable pixel art paint program written in Python",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/26576606?v=4",
+    "banner": ""
+  }, {
+    "repo": "Proteusiq/saa",
+    "desc": "Making Time Speak! 🎙️",
+    "officialSite": "",
+    "topics": ["nlp", "time"],
+    "avatar": "https://avatars.githubusercontent.com/u/14926709?v=4",
+    "banner": ""
+  }, {
+    "repo": "patched-codes/patchwork",
+    "desc": "Automate development gruntwork like code reviews, patching and documentation with LLM workflows.",
+    "officialSite": "https://patched.codes",
+    "topics": ["chores", "codereview", "devops", "devtools", "llms", "workflows"],
+    "avatar": "https://avatars.githubusercontent.com/u/126387417?v=4",
+    "banner": ""
+  }, {
+    "repo": "mraza007/python-file-analyzer",
+    "desc": "A simple utility script which allows you to analyze your python file",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/21070545?v=4",
     "banner": ""
   }
 ]

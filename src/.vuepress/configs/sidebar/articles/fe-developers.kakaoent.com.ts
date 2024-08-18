@@ -6,6 +6,7 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "js-node", [
+      "230612-aws-amplify-serverless", // 2023-06-22
       "230816-backstopjs-vrt2", // 2023-09-01
     ]],[
     "js-react", [
@@ -15,7 +16,11 @@ export const template: SidebarInfoTemplate = {
     "js-next", [
       "240418-optimizing-nextjs-cache", // 2024-05-03
     ]],[
+    "aws", [
+      "230612-aws-amplify-serverless", // 2023-06-22
+    ]],[
     "all", [
+      "230612-aws-amplify-serverless", // 2023-06-22
       "230720-react-query", // 2023-07-20
       "230816-backstopjs-vrt2", // 2023-09-01
       "240116-common-component", // 2024-01-16

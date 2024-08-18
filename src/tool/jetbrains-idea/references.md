@@ -66,9 +66,10 @@ head:
 
 ---
 
-## 기계인간 John Grib 
+## 기계인간 John Grib
 
 - [IntelliJ 이것저것](https://johngrib.github.io/wiki/intellij/tips/)
+- [DataGrip 이것저것](https://johngrib.github.io/wiki/tool/jetbrains/datagrip/)
 
 ---
 

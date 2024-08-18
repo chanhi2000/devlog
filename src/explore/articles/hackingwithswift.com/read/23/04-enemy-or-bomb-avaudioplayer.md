@@ -65,7 +65,7 @@ An additional complexity is that in the early stages of the game we sometimes wa
 
 We're going to specify what kind of enemy we want using an enum. You've used enums already (not least in project 2), but you've never created one before. To make `createEnemy()` work, we need to declare a new enum that tracks what kind of enemy should be created: should we force a bomb always, should we force a bomb never, or use the default randomization?
 
-Add this *above* your class definition in GameScene.swift:
+Add this *above* your class definition in <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift`:
 
 ```swift
 enum ForceBomb {

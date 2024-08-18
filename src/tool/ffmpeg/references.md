@@ -38,6 +38,7 @@ head:
 ## 멈춤보단 천천히라도
 
 - [FFmpeg를 사용하여 webcam을 RTSP 스트리밍 하여 OpenCV에서 확인하기](https://webnautes.tistory.com/m/2012)
+- [FFmpeg를 사용하여 웹캠 영상을 RTSP 스트리밍하기](https://webnautes.tistory.com/m/2066)
 
 ---
 

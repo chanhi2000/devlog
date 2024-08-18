@@ -44,6 +44,8 @@ head:
   - [두 개의 바를 사용하여 최대값, 최소값 조정하는 슬라이더 PyQt5 예제](https://webnautes.tistory.com/m/2366)
   - [pyQt5 QDoubleSpinBox 예제](https://webnautes.tistory.com/m/2368)
   - [PyQt5 검색창 UI 예제](https://webnautes.tistory.com/m/2369)
+  - [pyQt5 QTableWidget 예제 코드](https://webnautes.tistory.com/m/2374)
+  - [정수 입력시 천 단위로 콤마를  추가해주는 pyQt5 예제](https://webnautes.tistory.com/m/2375)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

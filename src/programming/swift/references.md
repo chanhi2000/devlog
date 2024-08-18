@@ -42,6 +42,7 @@ tag:
 
 - [WebObjectsOverview](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
 - [Hello Developer: January 2024](https://developer.apple.com/news/?id=8fppguuh)
+- [NFC & SE Platform for secure contactless transactions](https://developer.apple.com/support/nfc-se-platform/)
 
 ---
 
@@ -222,6 +223,7 @@ tag:
 - [Testing remote push notifications on iOS simulator in Xcode 14](https://nilcoalescing.com/blog/TestingRemotePushOniOSSimulator)
 - [Scenes types in a SwiftUI Mac app](https://nilcoalescing.com/blog/ScenesTypesInASwiftUIMacApp/)
 - [Count the number of objects that pass a test in Swift using `count(where:)`](https://nilcoalescing.com/blog/CountTheNumberOfObjectsThatPassATestInSwift/)
+- [Recursive enums in Swift](https://nilcoalescing.com/blog/RecursiveEnumsInSwift/)
 
 ---
 
@@ -289,6 +291,7 @@ tag:
 
 - [Xcode 15: Automated accessibility audits](https://www.polpiella.dev/xcode-15-automated-accessibility-audits)
 - [How to automatically detect memory leaks on CI/CD using UI tests](https://www.polpiella.dev/automatically-detect-memory-leaks-using-ui-tests/)
+- [Developer guide to Swift AWS Lambdas](https://www.polpiella.dev/developer-guide-to-swift-aws-lambdas)
 
 ---
 
@@ -564,6 +567,7 @@ tag:
 - [Concurrency in Swift 6: SE-0401](https://www.massicotte.org/concurrency-swift-6-se-401)
 - [SE-0431: `@isolated(any)` Function Types](https://www.massicotte.org/concurrency-swift-6-se-0431)
 - [Non-Sendable types are cool too you know](https://www.massicotte.org/non-sendable)
+[Concurrency Step-by-Step: A Network Request](https://www.massicotte.org/step-by-step-network-request)
 
 ---
 
@@ -894,6 +898,7 @@ tag:
 
 - [Using SwiftUI in Command Line Tools](https://swifttoolkit.dev/posts/swiftui-meets-command-line)
 - [Building Swift Executables](https://swifttoolkit.dev/posts/building-swift-executables)
+- [An Initial Hands-On with SwiftCloud](https://swifttoolkit.dev/posts/hello-swift-cloud)
 
 ---
 
@@ -930,6 +935,17 @@ tag:
 ## twocentstudios
 
 [Reminder: Conditional Breakpoints are Slow](https://twocentstudios.com/2024/08/08/conditional-breakpoints/)
+
+---
+
+## Project(s)
+
+<SiteInfo
+  name="String Catalog: Localize your App in up to 40 Languages"
+  desc="Streamline your app localization with String Catalog. Leverage AI to translate and adapt your app for global markets in minutes. Easily integrate with Xcode, eliminating manual work and speeding up your localization process."
+  url="https://stringcatalog.com/"
+  logo="https://stringcatalog.com/images/icons/string-catalog-180x180.png"
+  preview="https://stringcatalog.com/images/stringcatalog-social-image.png"/>
 
 ---
 

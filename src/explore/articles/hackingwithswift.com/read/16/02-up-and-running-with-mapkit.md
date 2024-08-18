@@ -92,7 +92,7 @@ There are our three properties, along with a basic initializer that just copies 
 
 With this custom subclass, we can create capital cities by passing in their name, coordinate and information – I'll be using the `info` property to hold one priceless (read: off-the-cuff, I sucked at geography) informational nugget about each city. You're welcome to do better!
 
-Put these lines into the `viewDidLoad()` method of ViewController.swift:
+Put these lines into the `viewDidLoad()` method of <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`:
 
 ```swift
 let london = Capital(title: "London", coordinate: CLLocationCoordinate2D(latitude: 51.507222, longitude: -0.1275), info: "Home to the 2012 Summer Olympics.")

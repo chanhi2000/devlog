@@ -115,7 +115,7 @@ This takes four steps:
 3. Creating an example `Destination` object that contains some sample data. This will automatically be created inside the model container we just made.
 4. Sending that example object and our model container into the `EditDestinationView`, then returning it all.
 
-We didn't need to do steps 1 and 2 so far because it was all taken care of by the `modelContainer()` modifier in iTourApp.swift, but now we need to do it by hand so we can create a `Destination` object to pass into the view.
+We didn't need to do steps 1 and 2 so far because it was all taken care of by the `modelContainer()` modifier in <FontIcon icon="fa-brands fa-swift"/>`iTourApp.swift`, but now we need to do it by hand so we can create a `Destination` object to pass into the view.
 
 Modify your preview code to this:
 

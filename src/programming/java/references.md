@@ -131,6 +131,13 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 23일차 TIL - 그리디](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-%EA%B7%B8%EB%A6%AC%EB%94%94)
 - [`@dongha1992` / 99클럽 코테 스터디 23일차 TIL - 그래프](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-%EA%B7%B8%EB%9E%98%ED%94%84)
 - [`@dongha1992` / \[프로그래머스\] 가장 먼 노드](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%EB%A8%BC-%EB%85%B8%EB%93%9C)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 다형성과 추상타입 - 다형성과 상속](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B3%BC-%EC%B6%94%EC%83%81%ED%83%80%EC%9E%85-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B3%BC-%EC%83%81%EC%86%8D)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 추상 타입과 유연함 개요](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%B6%94%EC%83%81-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%9C%A0%EC%97%B0%ED%95%A8-%EA%B0%9C%EC%9A%94)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 추상 타입과 유연함 개요](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%B6%94%EC%83%81-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%9C%A0%EC%97%B0%ED%95%A8-%EA%B0%9C%EC%9A%94)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 추상 타입을 이용한 구현 교체의 유연함](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%B6%94%EC%83%81-%ED%83%80%EC%9E%85%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B5%AC%ED%98%84-%EA%B5%90%EC%B2%B4%EC%9D%98-%EC%9C%A0%EC%97%B0%ED%95%A8)
+- [`@qkrtkdwns3410` / \[알고리즘 2644\] 촌수 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2644-%EC%B4%8C%EC%88%98-%EA%B3%84%EC%82%B0)
+- [`@dongha1992` / 99클럽 코테 스터디 26일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-26%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
+- [`@dongha1992` / 99클럽 코테 스터디 27일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 
 <!-- END: velog.io java -->
 
@@ -211,6 +218,7 @@ tag:
   - [\[프로그래머스\] 기능개발 - java](https://findsilverlining.tistory.com/m/109)
   - [\[프로그래머스\] 완주하지 못한 선수 - java](https://findsilverlining.tistory.com/m/110)
   - [\[프로그래머스\] 예상 대진표 - java](https://findsilverlining.tistory.com/m/114)
+  - [\[프로그래머스\] 다단계 칫솔 판매 - java](https://findsilverlining.tistory.com/m/117)
   <!-- END: findsilverlining -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [Java에서 외부 프로그램 실행하기](https://backend-jaamong.tistory.com/m/172)

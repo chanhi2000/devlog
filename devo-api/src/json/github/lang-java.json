@@ -1003,7 +1003,7 @@
     "desc": "1 Java Project Manager, is a Maven/Gradle alternative with a twist. Its a single Java file itself, which should be edited by you to configure your project.",
     "officialSite": "",
     "topics": ["build-tool", "dependecy-manager", "project-management"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/59899645?v=4",
     "banner": ""
   }, {
     "repo": "dotCMS/core",
@@ -1088,6 +1088,13 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/1576240?v=4",
+    "banner": ""
+  }, {
+    "repo": "wimdeblauwe/htmx-spring-boot",
+    "desc": "Spring Boot and Thymeleaf helpers for working with htmx",
+    "officialSite": "",
+    "topics": ["htmx", "spring-boot", "thymeleaf"],
+    "avatar": "https://avatars.githubusercontent.com/u/1115823?v=4",
     "banner": ""
   }
 ]

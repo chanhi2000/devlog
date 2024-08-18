@@ -432,6 +432,7 @@ head:
 ## 개발자 박진 블로그
 
 - [Git 커밋 마스터하기: 효과적인 버전 관리의 비밀](https://jinn-blog.tistory.com/m/177)
+- [Git 마스터 클래스: 초보자부터 중급자를 위한 포괄적 가이드](https://jinn-blog.tistory.com/m/183)
 
 ---
 

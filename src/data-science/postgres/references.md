@@ -203,7 +203,7 @@ head:
 
 ## GIS Developer
 
-- [PostgreSQL 삭제 (on CentOS)](http://www.gisdeveloper.co.kr/?p=14597)
+- [PostgreSQL 삭제 (on CentOS)](https://gisdeveloper.co.kr/?p=14597)
 
 ---
 

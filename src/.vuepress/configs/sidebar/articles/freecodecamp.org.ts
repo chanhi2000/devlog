@@ -326,6 +326,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-improve-your-digital-security-and-privacy", // 2024-06-18
       "more-secure-authentication-from-passwords-to-passkeys", // 2024-07-11
       "getting-started-in-cybersecurity", // 2024-07-16
+      "vm-data-protection-best-practices", // 2024-08-16
     ]],[
     "gatling", [
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
@@ -627,6 +628,7 @@ export const template: SidebarInfoTemplate = {
       "create-color-picker-using-html-css-and-javascript", // 2024-08-15
       "how-asynchronous-programming-works-in-rust", // 2024-08-15
       "a-beginners-guide-to-large-language-models", // 2024-08-15
+      "vm-data-protection-best-practices", // 2024-08-16
     ]],
   ]),
 }

@@ -310,9 +310,15 @@ head:
 
 ---
 
-## 맹의 코딩 기록장
+## tistory
 
-- [Axios를 사용하면 왜 CORS 이슈가 생기는걸까?](https://aodtns.tistory.com/121)
+- [`aodtns` / 맹의 코딩 기록장](https://aodtns.tistory.com/m/)
+  - [Axios를 사용하면 왜 CORS 이슈가 생기는걸까?](https://aodtns.tistory.com/m/121)
+  <!-- END: aodtns -->
+- [`ding-co` / Aaron's blog](https://ding-co.tistory.com/m/)
+  - [About Tanstack Query 세미나 그리고 근황](https://ding-co.tistory.com/m/624)
+  <!-- END: ding-co -->
+<!-- END: tistory.com -->
 
 ---
 

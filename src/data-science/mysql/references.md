@@ -267,6 +267,8 @@ head:
 ## Jeongchul Kim
 
 - [Kubernetes NFS StorageClass with MySQL](https://jeongchul.tistory.com/m/715)
+- [Kubernetes MySQL Operator 설치](https://jeongchul.tistory.com/m/722)
+- [Kubernetes MySQL Cluster DB Migration using mysqldump](https://jeongchul.tistory.com/m/723)
 
 ---
 

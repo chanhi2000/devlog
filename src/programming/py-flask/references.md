@@ -78,4 +78,10 @@ head:
 
 ---
 
+## Passion is like genius; a miracle.
+
+- [Interactive plotly charts on jinja2 + flask](http://mkseo.pe.kr/blog/?p=5032)
+
+---
+
 <TagLinks />

@@ -59,7 +59,7 @@ So far we’ve had a simple data model containing a collection of destinations. 
 
 In SwiftData this is called a *relationship*: each destination has many sights to see. Rather than trying to cram all the sights into a single `Destination` object, we can instead create a separate `Sight` model, then tell SwiftData that our original `Destination` model has an array of sights – it will take care of linking the two for us.
 
-To get started, create another new Swift file called Sight.swift, give it an import for SwiftData, then add this code there:
+To get started, create another new Swift file called <FontIcon icon="fa-brands fa-swift"/>`Sight.swift`, give it an import for SwiftData, then add this code there:
 
 ```swift
 @Model

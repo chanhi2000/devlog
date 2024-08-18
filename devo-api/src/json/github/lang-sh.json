@@ -294,13 +294,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "sickcodes/Docker-OSX",
-    "desc": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
-    "officialSite": "https://hub.docker.com/r/sickcodes/docker-osx",
-    "topics": ["container", "docker", "docker-osx", "kvm", "macos", "os", "osx", "osx-kvm", "x", "x11"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "hectorm/docker-qemu-win2000",
     "desc": "A Docker image for Windows 2000 Advanced Server with SP4.",
     "officialSite": "https://hub.docker.com/r/hectorm/qemu-win2000",

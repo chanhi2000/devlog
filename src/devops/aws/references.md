@@ -254,7 +254,10 @@ head:
   - [[LocalStack] 24년에 다시보는 LocalStack 설치하기](https://jakpentest.tistory.com/m/entry/LocalStack-24%EB%85%84%EC%97%90-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94-LocalStack-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
   - [[LocalStack] LocalStack에서 EC2를 다뤄보자.](https://jakpentest.tistory.com/m/entry/LocalStack-EC2%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-ssh-%EC%A0%91%EC%86%8D%EA%B9%8C%EC%A7%80)
   - [\[AWS\] SESv2를 이용한 수신측 메일 열람여부 확인하기](https://jakpentest.tistory.com/m/entry/%EC%86%A1%EC%8B%A0-%EB%A9%94%EC%9D%BC%EC%9D%84-%EC%88%98%EC%8B%A0-%EC%B8%A1%EC%97%90%EC%84%9C-%EC%97%B4%EC%96%B4%EB%B4%A4%EB%8A%94%EC%A7%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C)
-
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Cert Manager with SSL Domain with AWS Route53](https://jeongchul.tistory.com/m/721)
+  <!-- END: jeongchul -->
+<!-- END: tistory.com -->
 ---
 
 ## Inflab Tech
@@ -524,5 +527,10 @@ head:
 - [LitmusChaos에서 EC2 인스턴스 중지 실험하기](https://thearchivelog.dev/article/how-to-run-aws-ec2-stop-experiment-in-litmuschaos/)
 
 ---
+
+## Polpiella
+
+- [Developer guide to Swift AWS Lambdas](https://www.polpiella.dev/developer-guide-to-swift-aws-lambdas)
+
 
 <TagLinks />

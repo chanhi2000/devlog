@@ -52,7 +52,11 @@ isOriginal: false
 }
 ```
 
-<!-- TODO: 작성 -->
+I realize technique projects can be a little dry, but I hope you can see some real advantages to using GameplayKit randomization over other solutions. Not only does it offer a wider range of functionality (shuffled and Gaussian distributions are awesome!) but it makes your code much simpler, and also has the guarantee of being provably random.
+
+Of course, if you're stuck supporting prior versions of iOS, you'll need to mix and match GameplayKit randomization with calls to `arc4random_uniform()` and the like. 
+
+It bears repeating that this is only a small slice of what GameplayKit offers. If you haven't already read tutorial 34, you should check it out now - it's a [tutorial for GKMinmaxStrategist` from `GameplayKit`](/explore/articles/hackingwithswift.com/read/34/overview.md) that shows you how to create an AI for Four in a Row.
 
 ---
 

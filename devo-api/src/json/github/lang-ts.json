@@ -2814,10 +2814,10 @@
     "banner": ""
   }, {
     "repo": "marimo-team/marimo",
-    "desc": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.",
+    "desc": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. ",
     "officialSite": "https://marimo.io",
-    "topics": ["artificial-intelligence", "data-science", "data-visualization", "developer-tools", "machine-learning", "notebooks", "pipeline", "python", "reactive", "web-app"],
-    "avatar": "",
+    "topics": ["artificial-intelligence", "dag", "data-science", "data-visualization", "dataflow", "developer-tools", "machine-learning", "notebooks", "pipeline", "python", "reactive", "web-app"],
+    "avatar": "https://avatars.githubusercontent.com/u/98563464?v=4",
     "banner": ""
   }, {
     "repo": "maybe-finance/maybe",
@@ -4624,6 +4624,13 @@
     "officialSite": "https://grafana.com",
     "topics": ["alerting", "analytics", "business-intelligence", "dashboard", "data-visualization", "elasticsearch", "go", "grafana", "hacktoberfest", "influxdb", "metrics", "monitoring", "mysql", "postgres", "prometheus"],
     "avatar": "https://avatars.githubusercontent.com/u/7195757?v=4",
+    "banner": ""
+  }, {
+    "repo": "naver/pr-stats",
+    "desc": "PR에 대한 유용한 통계를 산출하는 GitHub Actions",
+    "officialSite": "",
+    "topics": ["dev-culture", "github-actions", "pr-review", "pr-stats", "pull-request", "statistics", "stats"],
+    "avatar": "https://avatars.githubusercontent.com/u/6589568?v=4",
     "banner": ""
   }
 ]

@@ -36,6 +36,9 @@ tag:
 
 - [`@mythos` / [Book] 소크라테스의 변명ㆍ크리톤ㆍ파이돈ㆍ향연 (최유경)](https://velog.io/@mythos/Book-%EC%86%8C%ED%81%AC%EB%9D%BC%ED%85%8C%EC%8A%A4%EC%9D%98-%EB%B3%80%EB%AA%85%E3%86%8D%ED%81%AC%EB%A6%AC%ED%86%A4%E3%86%8D%ED%8C%8C%EC%9D%B4%EB%8F%88%E3%86%8D%ED%96%A5%EC%97%B0-%EC%B5%9C%EC%9C%A0%EA%B2%BD)
 - [`@diadntjr` / 꿈이 뭐에요?](https://velog.io/@diadntjr/%EA%BF%88%EC%9D%B4-%EB%AD%90%EC%97%90%EC%9A%94)
+- [`@diadntjr` / 왜? 넌 충분히 잘하고 있어](https://velog.io/@diadntjr/%EC%99%9C-%EB%84%8C-%EC%B6%A9%EB%B6%84%ED%9E%88-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%96%B4)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -45,6 +48,7 @@ tag:
 - [`@2weV` / 버틴다는 것의 정의](https://brunch.co.kr/@@2weV/536)
 - [`@1W2S` / 100일의 기적? 100일의 기절! - 이성적인 판단으로 아가를 낳을 순 없다.](https://brunch.co.kr/@@1W2S/256)
 - [`@2xm` / 나의 쓰임이 필요하다 - '운칠기삼(運七技三)', '새옹지마(塞翁之馬)'](https://brunch.co.kr/@@2xm/81)
+- [`@5jl5` / 광복절 기념식 및 윤정권의 미래에 대한 GPT4o 대답](https://brunch.co.kr/@@5jl5/126)
 
 <!-- END: brunch.co.kr -->
 

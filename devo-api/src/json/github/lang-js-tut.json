@@ -75,11 +75,6 @@
     "officialSite": "",
     "topics": ["async", "book", "book-series", "closures", "education", "es2015", "es6", "javascript", "learn-to-code", "programming", "prototypes", "training-materials", "training-providers"]
   }, {
-    "repo": "florinpop17/app-ideas",
-    "desc": "A Collection of application ideas which can be used to improve your coding skills.",
-    "officialSite": "",
-    "topics": ["applications", "coding", "ideas", "hacktoberfest"]
-  }, {
     "repo": "phuocng/html-dom",
     "desc": "Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.",
     "officialSite": "https://htmldom.dev",

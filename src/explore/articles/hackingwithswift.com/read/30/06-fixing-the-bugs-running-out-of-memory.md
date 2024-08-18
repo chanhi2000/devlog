@@ -87,7 +87,7 @@ weak var owner: SelectionViewController!
 
 Run Instruments again and you'll see that the problem is… still there?! That's right: those two were either red herrings or weren't enough to solve the problem, because something far more sneaky is happening.
 
-The view controllers aren't destroyed because of this line of code in ImageViewController.swift:
+The view controllers aren't destroyed because of this line of code in <FontIcon icon="fa-brands fa-swift"/>`ImageViewController.swift`:
 
 ```swift
 animTimer = Timer.scheduledTimer(withTimeInterval: 5, repeats: true) { timer in

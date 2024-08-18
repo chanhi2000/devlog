@@ -22,6 +22,7 @@ head:
       content: "Project 38: GitHub Commits"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/38/overview.html
+prev: /explore/articles/hackingwithswift.com/read/37/10-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,115 @@ Get started with Core Data by building an app to fetch and store GitHub commits 
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/38/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Designing a Core Data model | Hacking with iOS",
+  "desc": "Designing a Core Data model",
+  "link": "/explore/articles/hackingwithswift.com/read/38/02-designing-a-core-data-model.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding Core Data to our project: NSPersistentContainer | Hacking with iOS",
+  "desc": "Adding Core Data to our project: NSPersistentContainer",
+  "link": "/explore/articles/hackingwithswift.com/read/38/03-adding-core-data-to-our-project-nspersistentcontainer.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating an NSManagedObject subclass with Xcode | Hacking with iOS",
+  "desc": "Creating an NSManagedObject subclass with Xcode",
+  "link": "/explore/articles/hackingwithswift.com/read/38/04-creating-an-nsmanagedobject-subclass-with-xcode.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Loading Core Data objects using NSFetchRequest and NSSortDescriptor | Hacking with iOS",
+  "desc": "Loading Core Data objects using NSFetchRequest and NSSortDescriptor",
+  "link": "/explore/articles/hackingwithswift.com/read/38/05-loading-core-data-objects-using-nsfetchrequest-and-nssortdescriptor.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to make a Core Data attribute unique using constraints | Hacking with iOS",
+  "desc": "How to make a Core Data attribute unique using constraints",
+  "link": "/explore/articles/hackingwithswift.com/read/38/06-how-to-make-a-core-data-attribute-unique-using-constraints.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Examples of using NSPredicate to filter NSFetchRequest | Hacking with iOS",
+  "desc": "Examples of using NSPredicate to filter NSFetchRequest",
+  "link": "/explore/articles/hackingwithswift.com/read/38/07-examples-of-using-nspredicate-to-filter-nsfetchrequest.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding Core Data entity relationships: lightweight vs heavyweight migration | Hacking with iOS",
+  "desc": "Adding Core Data entity relationships: lightweight vs heavyweight migration",
+  "link": "/explore/articles/hackingwithswift.com/read/38/08-adding-core-data-entity-relationships-lightweight-vs-heavyweight-migration.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to delete a Core Data object | Hacking with iOS",
+  "desc": "How to delete a Core Data object",
+  "link": "/explore/articles/hackingwithswift.com/read/38/09-how-to-delete-a-core-data-object.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Optimizing Core Data Performance using NSFetchedResultsController | Hacking with iOS",
+  "desc": "Optimizing Core Data Performance using NSFetchedResultsController",
+  "link": "/explore/articles/hackingwithswift.com/read/38/10-optimizing-core-data-performance-using-nsfetchedresultscontroller.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/38/11-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

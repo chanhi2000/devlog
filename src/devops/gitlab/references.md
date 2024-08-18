@@ -72,4 +72,11 @@ tag:
 
 ---
 
+## 개발자 박진 블로그
+
+- [혁신적인 소프트웨어 개발의 핵심: CI/CD 파이프라인 마스터하기](https://jinn-blog.tistory.com/m/181)
+- [CI/CD 파이프라인의 진화: 보안, 모니터링, 최적화로 한 단계 도약하기](https://jinn-blog.tistory.com/m/182)
+
+---
+
 <TagLinks />

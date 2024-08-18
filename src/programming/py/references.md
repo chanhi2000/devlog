@@ -688,6 +688,8 @@ head:
   - [[Programmers] 코딩테스트 입문 #2 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-2-with-Python)
   - [[LocalStack] LocalStack에서 Simple Email Service를 사용해보자.](https://jakpentest.tistory.com/m/entry/LocalStack-LocalStack%EC%97%90%EC%84%9C-Simple-Email-Service%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
   - [[Programmers] 코딩테스트 입문 #4 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-4-with-Python)
+  - [\[FastAPI\] FastAPI에서 MVC Pattern !](https://jakpentest.tistory.com/m/entry/FastAPI-FastAPI%EC%97%90%EC%84%9C-MVC-Pattern)
+  - [마비노기 패킷 송수신 데이터 관찰기](https://jakpentest.tistory.com/m/entry/%EB%A7%88%EB%B9%84%EB%85%B8%EA%B8%B0-%ED%8C%A8%ED%82%B7-%EC%86%A1%EC%88%98%EC%8B%A0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EC%B0%B0%EA%B8%B0)
   <!-- END: jakpentest -->
 - [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
   - [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
@@ -782,6 +784,9 @@ head:
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
   - [DOM](https://bbogle2.tistory.com/m/entry/DOM)
   <!-- END: bbogle2 -->
+- [`isn-t` / 노오력을해라](https://isn-t.tistory.com/m/)
+  - [시간 복잡도와 빅오 표기법](https://isn-t.tistory.com/m/60)
+  <!-- END: isn-t -->
 <!-- END: tistory.com -->
 
 ---
@@ -1060,6 +1065,7 @@ head:
 - [Dropout vs Inverted Dropout](https://devs0n.tistory.com/168)
 - [`reduce`를 언제 사용할 수 있을까](https://devs0n.tistory.com/177)
 - [Transformers - CLIPModel을 사용한 Image Classification](https://devs0n.tistory.com/m/194)
+- [Transformers - CLIPModel fine-tuning](https://devs0n.tistory.com/m/195)
 
 ---
 
@@ -2225,6 +2231,24 @@ head:
 ## Joshua Cook
 
 - [How I use Python to organize my data analyses](https://joshuacook.netlify.app/posts/2024-07-27_python-data-analysis-org/)
+
+---
+
+## Data Doctor
+
+- [Py) 크롤링 BS(select)](https://datadoctorblog.com/2024/08/17/Py-Crawling-BS-select/)
+- [Py) 크롤링 - BS(table-01)](https://datadoctorblog.com/2024/08/17/Py-Crawling-BS-table-01/)
+
+---
+
+## Project(s)
+
+<SiteInfo
+  name="marimo | a next-generation Python notebook"
+  desc="Explore data and build apps seamlessly with marimo, a next-generation Python notebook."
+  url="https://marimo.app/"
+  logo="https://marimo.app/apple-touch-icon.png"
+  preview="https://marimo-playground-6ob2ub481-marimo.vercel.app/og.png"/>
 
 ---
 

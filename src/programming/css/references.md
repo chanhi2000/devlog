@@ -722,4 +722,10 @@ tag:
 
 ---
 
+## GlyphDrawing.Club
+
+- [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+
+---
+
 <TagLinks />

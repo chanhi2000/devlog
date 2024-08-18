@@ -106,7 +106,7 @@ That's the layout all done, but we also need lots of outlets: using the assistan
 
 You'll also need to create actions from the left slider, the right slider and the button: `angleChanged()`, `velocityChanged()` and `launch()` respectively.
 
-That's all the layout done, so we're finished with Interface Builder and you can open up GameViewController.swift.
+That's all the layout done, so we're finished with Interface Builder and you can open up <FontIcon icon="fa-brands fa-swift"/>`GameViewController.swift`.
 
 We need to fill in three methods (`angleChanged()`, `velocityChanged()` and `launch()`), write one new method, then make two small changes to `viewDidLoad()`.
 
@@ -169,7 +169,7 @@ func activatePlayer(number: Int) {
 }
 ```
 
-To make your code compile, you need to add a `launch()` method to GameScene.swift. It doesn't need to be the real thing, but it does need to accept parameters for angle and velocity. Give it this code for now:
+To make your code compile, you need to add a `launch()` method to <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift`. It doesn't need to be the real thing, but it does need to accept parameters for angle and velocity. Give it this code for now:
 
 ```swift
 func launch(angle: Int, velocity: Int) {

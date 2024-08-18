@@ -76,6 +76,12 @@ head:
 
 ---
 
+## LY Corporation Tech Blog
+
+- [쿠버네티스에서 파드를 분산 처리하기 위한 토폴로지 분배 제약 조건 활용 사례 소개](https://techblog.lycorp.co.jp/ko/using-topology-spread-constraints-to-spread-out-pods)
+
+---
+
 ## tistory
 
 - [`gsretail` / GS리테일 DX블로그](https://gsretail.tistory.com/m/)
@@ -111,10 +117,15 @@ head:
   - [ArgoCD Kubernetes 구축](http://jeongchul.tistory.com/m/716)
   - [Istio Kubernetes 구축 및 Nginx 테스트](https://jeongchul.tistory.com/m/720)
   - [Istio Kubernetes 구축 및 Nginx 테스트](http://jeongchul.tistory.com/m/720)
+  - [Kubernetes MySQL Operator 설치](https://jeongchul.tistory.com/m/722)
+  - [Kubernetes MySQL Cluster DB Migration using mysqldump](https://jeongchul.tistory.com/m/723)
+  - [Istio IngressGateway External IP 설정](https://jeongchul.tistory.com/m/724)
+  - [Kubernetes Redis Cluster 설치](https://jeongchul.tistory.com/m/725)
   <!-- END: jeongchul -->
 - [`jybaek` / 컴맹 : 진화의 시작](https://jybaek.tistory.com/m/)
   - [`PodDisruptionBudget`로 애플리케이션 보호](https://jybaek.tistory.com/m/504720)
   <!-- END: jybaek -->
+
 <!-- END: tistory.com -->
 
 ---

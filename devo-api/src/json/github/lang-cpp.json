@@ -2217,5 +2217,12 @@
     "topics": ["aarch64", "android", "arm32", "asr", "cpp", "csharp", "dotnet", "ios", "linux", "macos", "mfc", "onnx", "openkylin", "raspberry-pi", "risc-v", "speech-to-text", "text-to-speech", "vits", "windows"],
     "avatar": "https://avatars.githubusercontent.com/u/71431748?v=4",
     "banner": ""
+  }, {
+    "repo": "chrxh/alien",
+    "desc": "ALIEN is a CUDA-powered artificial life simulation program.",
+    "officialSite": "https://alien-project.org",
+    "topics": ["agent-based-simulation", "artificial-life", "cuda", "open-ended-evolution", "physics-engine"],
+    "avatar": "https://avatars.githubusercontent.com/u/73127001?v=4",
+    "banner": ""
   }
 ]

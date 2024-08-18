@@ -731,6 +731,13 @@ https://paperlined.org/
   logo="https://static.wixstatic.com/media/4c8897_2c2ffd87d8a040fc9702be0625b245c0%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/4c8897_2c2ffd87d8a040fc9702be0625b245c0%7Emv2.png"
   preview="https://static.wixstatic.com/media/4c8897_b1ac37ff970c487ab7b51b633e9b3027~mv2.png/v1/fill/w_1200,h_630,al_c/4c8897_b1ac37ff970c487ab7b51b633e9b3027~mv2.png"/>
 
+<SiteInfo
+  name="온라인 결제의 모든 것, 포트원 기업 블로그"
+  desc="온라인 비즈니스를 위한 B2B 통합 핀테크 기업 포트원의 공식 블로그입니다. 포트원의 최신 소식을 빠르게 접해보세요."
+  url="https://blog.portone.io/"
+  logo="https://blog.portone.io/favicon.png"
+  preview="https://blog.portone.io/portone_og.png"/>
+
 <!-- END: Trending Korea -->
 
 @tab <FontIcon icon="fas fa-globe"/>Tech Blog

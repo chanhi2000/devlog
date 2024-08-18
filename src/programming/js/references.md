@@ -609,6 +609,7 @@ head:
 ## ONE LIFE 2 LIVE
 
 - [\[JavaScript\]　특수 언어가 있는 문자열 배열을 정렬하는 방법, `localeCompare()`](https://oliviakim.tistory.com/m/183)
+- [\[JavaScript\]　객체의 속성에 접근하는 점 표기법(마침표 표기법)과 대괄호 표기법 (ft. 좋은 코드)](https://oliviakim.tistory.com/m/184)
 
 ---
 
@@ -628,6 +629,12 @@ head:
 
 - [fullCalendar 의 좌측 시분 hour minute 표기 hh:mm 형태로 변경하기](https://aspdotnet.tistory.com/m/3004)
 - [jquery select 태그의 option 비활성화 disabled 또는 선택막기 ✔](https://aspdotnet.tistory.com/m/2068)
+
+---
+
+## GIS Developer
+
+- [gwc-card + `gwc-vscrollview` 에서 resizing](https://gisdeveloper.co.kr/?p=15148)
 
 ---
 

@@ -63,7 +63,7 @@ when making performance changes you should change only one thing at a time, then
 
 Let's begin with the table view: you should have seen parts of the table view turn dark yellow when Color Offscreen-Rendered Yellow was selected. This is happening because the images are being rendered inefficiently: the rounded corners effect and the shadow are being done in real-time, which is computationally expensive.
 
-You can find the code for this in SelectionViewController.swift, inside the `cellForRowAt` method:
+You can find the code for this in <FontIcon icon="fa-brands fa-swift"/>`SelectionViewController.swift`, inside the `cellForRowAt` method:
 
 ```swift
 let renderer = UIGraphicsImageRenderer(size: original.size)

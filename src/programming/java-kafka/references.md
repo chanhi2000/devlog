@@ -146,6 +146,8 @@ head:
   - [아파치 카프카란?](https://maeng-dev.tistory.com/m/159)
   - [카프카 클라이언트](https://maeng-dev.tistory.com/m/160)
   - [카프카 스트림즈](https://maeng-dev.tistory.com/m/161)
+  - [카프카 커넥트](https://maeng-dev.tistory.com/m/163)
+  - [Kafka MirrorMaker 2](https://maeng-dev.tistory.com/m/164)
   <!-- END: maeng-dev -->
 <!-- END: tistory.com -->
 

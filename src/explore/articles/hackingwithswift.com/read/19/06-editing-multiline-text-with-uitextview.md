@@ -53,7 +53,7 @@ isOriginal: false
 
 <VidStack src="youtube/We4VzqqJTow" />
 
-Our extension is going to let users type in JavaScript, so before we get onto more coding we're going to add a basic user interface. Open MainInterface.storyboard, then delete its UIImageView and navigation bar. Once that's done, embed the view controller in a navigation controller.
+Our extension is going to let users type in JavaScript, so before we get onto more coding we're going to add a basic user interface. Open <FontIcon icon="iconfont icon-xcode"/>`MainInterface.storyboard`, then delete its UIImageView and navigation bar. Once that's done, embed the view controller in a navigation controller.
 
 ::: note
 

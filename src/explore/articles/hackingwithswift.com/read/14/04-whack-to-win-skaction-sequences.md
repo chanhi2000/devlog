@@ -78,7 +78,7 @@ func hit() {
 }
 ```
 
-With that new method in place, we can call it from the `touchesBegan()` method in GameScene.swift. This method needs to figure out what was tapped using the same `nodes(at:)` method you saw in project 11: find any touch, find out where it was tapped, then get a node array of all nodes at that point in the scene.
+With that new method in place, we can call it from the `touchesBegan()` method in <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift`. This method needs to figure out what was tapped using the same `nodes(at:)` method you saw in project 11: find any touch, find out where it was tapped, then get a node array of all nodes at that point in the scene.
 
 We then need to loop through the list of all nodes that are at that point, and see if they have the name "charFriend" or "charEnemy" and take the appropriate action. Rather than dump all the code on you at once, here's the basic outline of `touchesBegan()` to start with:
 
@@ -154,7 +154,7 @@ charNode.xScale = 1
 charNode.yScale = 1
 ```
 
-Now, looking at our `touchesBegan()` method in GameScene.swift, you should see we can actually move the code around a little to remove duplication. Specifically, checking `isVisible` and `isHit` doesn’t need to be done twice, and neither does calling `whackSlot.hit()` – a better idea is to move those lines outside of their conditions, like this:
+Now, looking at our `touchesBegan()` method in <FontIcon icon="fa-brands fa-swift"/>`GameScene.swift`, you should see we can actually move the code around a little to remove duplication. Specifically, checking `isVisible` and `isHit` doesn’t need to be done twice, and neither does calling `whackSlot.hit()` – a better idea is to move those lines outside of their conditions, like this:
 
 ```swift
 for node in tappedNodes {

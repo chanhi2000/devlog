@@ -690,6 +690,16 @@ head:
 
 ```component VPCard
 {
+  "title": "AWS amplify로 서버리스 웹 애플리케이션 구축하기 | 카카오엔터테인먼트 FE 기술블로그",
+  "desc": "프런트엔드 개발자가 어느 날 기똥찬 웹 애플리케이션 아이디어가 떠올랐다면, 제일 먼저 드는 생각은 '백엔드 개발을 누군가 해줬으면 좋겠다' 일 겁니다.",
+  "link": "/explore/articles/fe-developers.kakaoent.com/230612-aws-amplify-serverless.md",
+  "logo": "https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded",
+  "background": "rgba(254,189,1,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "BackstopJS 적용 후기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그",
   "desc": "이번 글에서는 BackstopJS 적용 이후 6개월 동안 카카오엔터테인먼트 스토리 FE팀에선 BackstopJS를 활용하며 어떤 식으로 도움이 되었는지 살펴보고, 겪었던 이슈와 테스트에 자동화를 적용한 사례를 소개하도록 하겠습니다.",
   "link": "/explore/articles/fe-developers.kakaoent.com/230816-backstopjs-vrt2.md",

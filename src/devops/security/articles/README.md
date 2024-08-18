@@ -121,6 +121,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "VM Data Protection Best Practices: How to Mitigate Risk in a Virtual Environment",
+  "desc": "Vast amounts of data flow through virtualized environments these days. And that data needs to be protected. So making sure that your virtual machines are secured, along with their associated data, is key for maintaining operational continuity and saf...",
+  "link": "/explore/articles/freecodecamp.org/vm-data-protection-best-practices.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

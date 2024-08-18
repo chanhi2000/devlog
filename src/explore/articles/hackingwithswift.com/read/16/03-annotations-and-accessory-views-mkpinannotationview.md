@@ -72,7 +72,7 @@ Here's a breakdown of what the method will do:
 5. Create a new `UIButton` using the built-in `.detailDisclosure` type. This is a small blue "i" symbol with a circle around it.
 6. If it can reuse a view, update that view to use a different annotation.
 
-We already used Interface Builder to make our view controller the delegate for the map view, but if you want code completion to work you should also update your code to declare that the class conforms. So, in ViewController.swift, find this line:
+We already used Interface Builder to make our view controller the delegate for the map view, but if you want code completion to work you should also update your code to declare that the class conforms. So, in <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`, find this line:
 
 ```swift
 class ViewController: UIViewController {

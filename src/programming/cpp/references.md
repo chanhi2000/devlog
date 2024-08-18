@@ -232,6 +232,8 @@ head:
 - [VS2022 원격 디버거 설치 파일 받기 (Remote Debugger)](https://m.blog.naver.com/tipsware/223542614227)
 - [강의실 관리 프로그램 만들기 0.01](https://m.blog.naver.com/tipsware/223545736593)
 - [카톡 대화방에서 실시간으로 채팅 내용 가져오기](https://m.blog.naver.com/tipsware/223547939396)
+- [화면이 바뀌면 카톡으로 화면 전송하기](https://m.blog.naver.com/tipsware/223548767927)
+- [PC 카톡을 터미널처럼 사용하기 - Step 1](https://m.blog.naver.com/tipsware/223549324483)
 
 <!-- END: tipsware.blog.naver.com -->
 

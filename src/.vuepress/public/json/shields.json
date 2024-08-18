@@ -131,6 +131,7 @@
   { "logo": "openjdk", "name": "Java", "colorHex": "007396" },
   { "logo": "oracle", "name": "Oracle%20SQL", "colorHex": "F80000" },
   { "logo": "parrotsecurity", "name": "Parrot%20Security", "colorHex": "15E0ED" },
+  { "logo": "perplexity", "name": "Perplexity", "colorHex": "1FB8CD" },
   { "logo": "playwright", "name": "Playwright", "colorHex": "2EAD33" },
   { "logo": "php", "name": "PHP", "colorHex": "777BB4" },
   { "logo": "phpmyadmin", "name": "phpMyAdmin", "colorHex": "6C78AF" },

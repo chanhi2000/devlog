@@ -801,6 +801,17 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/38/overview.md',
+              '/explore/articles/hackingwithswift.com/read/38/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/38/02-designing-a-core-data-model.md',
+              '/explore/articles/hackingwithswift.com/read/38/03-adding-core-data-to-our-project-nspersistentcontainer.md',
+              '/explore/articles/hackingwithswift.com/read/38/04-creating-an-nsmanagedobject-subclass-with-xcode.md',
+              '/explore/articles/hackingwithswift.com/read/38/05-loading-core-data-objects-using-nsfetchrequest-and-nssortdescriptor.md',
+              '/explore/articles/hackingwithswift.com/read/38/06-how-to-make-a-core-data-attribute-unique-using-constraints.md',
+              '/explore/articles/hackingwithswift.com/read/38/07-examples-of-using-nspredicate-to-filter-nsfetchrequest.md',
+              '/explore/articles/hackingwithswift.com/read/38/08-adding-core-data-entity-relationships-lightweight-vs-heavyweight-migration.md',
+              '/explore/articles/hackingwithswift.com/read/38/09-how-to-delete-a-core-data-object.md',
+              '/explore/articles/hackingwithswift.com/read/38/10-optimizing-core-data-performance-using-nsfetchedresultscontroller.md',
+              '/explore/articles/hackingwithswift.com/read/38/11-wrap-up.md',
             ]
           }, {
             text: 'Project 39: Unit testing with XCTest',

@@ -49,7 +49,7 @@ isOriginal: false
 
 > Available from Swift 5.8
 
-[SE-0274 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0274-magic-file.md) adjusts the `#file` magic identifier to use the format Module/Filename, e.g. MyApp/ContentView.swift. Previously, `#file` contained the whole path to the Swift file, e.g. <FontIcon icon="fas fa-folder-open"/>`/Users/twostraws/Desktop/WhatsNewInSwift/WhatsNewInSwift/`<FontIcon icon="fa-brands fa-swift"/>`ContentView.swift``, which is unnecessarily long and also likely to contain things you’d rather not reveal.
+[SE-0274 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/main/proposals/0274-magic-file.md) adjusts the `#file` magic identifier to use the format Module/Filename, e.g. <FontIcon icon="fas fa-folder-open"/>`MyApp/`<FontIcon icon="fa-brands fa-swift"/>`ContentView.swift`. Previously, `#file` contained the whole path to the Swift file, e.g. <FontIcon icon="fas fa-folder-open"/>`/Users/twostraws/Desktop/WhatsNewInSwift/WhatsNewInSwift/`<FontIcon icon="fa-brands fa-swift"/>`ContentView.swift`, which is unnecessarily long and also likely to contain things you’d rather not reveal.
 
 ::: important
 

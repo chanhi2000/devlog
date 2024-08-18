@@ -586,5 +586,19 @@
     "topics": ["android", "android-lint", "android-lint-rule", "android-lints", "kotlin"],
     "avatar": "https://avatars.githubusercontent.com/u/11054916?v=4",
     "banner": ""
+  }, {
+    "repo": "y9san9/calkt",
+    "desc": "Calkt is a Kotlin library that supports parsing and calculating various expressions. Parser is written in a way to have an ability to be extended.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/46930374?v=4",
+    "banner": ""
+  }, {
+    "repo": "L-Briand/obor",
+    "desc": "A CBOR serializer implemented with kotlinx-serialization",
+    "officialSite": "",
+    "topics": ["cbor", "kotlin", "kotlinx-serialization"],
+    "avatar": "https://avatars.githubusercontent.com/u/14044749?v=4",
+    "banner": ""
   }
 ]
