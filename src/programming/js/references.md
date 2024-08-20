@@ -610,6 +610,7 @@ head:
 
 - [\[JavaScript\]　특수 언어가 있는 문자열 배열을 정렬하는 방법, `localeCompare()`](https://oliviakim.tistory.com/m/183)
 - [\[JavaScript\]　객체의 속성에 접근하는 점 표기법(마침표 표기법)과 대괄호 표기법 (ft. 좋은 코드)](https://oliviakim.tistory.com/m/184)
+- [\[JavaScript\]　객체 내부에서의 `getter`, `setter`](https://oliviakim.tistory.com/m/185)
 
 ---
 

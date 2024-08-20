@@ -139,6 +139,8 @@ head:
 - [`@yeonns` / Cell-based Architecture에 대해 알아보자](https://velog.io/@yeonns/what-is-cell-based-architecture)
 - [`@dradnats1012` / 인프라 스터디 2주차](https://velog.io/@dradnats1012/%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8)
 - [`dradnats1012` / DB 서버 분리하기!](https://velog.io/@dradnats1012/DB-%EC%84%9C%EB%B2%84-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [`@dradnats1012` / 쉽게 설명하는 AWS 기초 강좌 정리](https://velog.io/@dradnats1012/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-AWS-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C-%EC%A0%95%EB%A6%AC)
+- [`@dradnats1012` / AWS를 이해하기 위한 기초지식(OSI 7계층, DNS)](https://velog.io/@dradnats1012/AWS%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9DOSI-7%EA%B3%84%EC%B8%B5-DNS)
 
 <!-- END: velog.io -->
 

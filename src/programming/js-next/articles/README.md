@@ -130,6 +130,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Secure a Next.js AI Application Deployed on Vercel",
+  "desc": "In this in-depth guide, I’ll be showing how to secure a Next.js AI app deployed on Vercel. We’ll be taking a hands-on approach by starting with a simple AI app riddled with vulnerabilities. This article will guide you through how you can detect vulne...",
+  "link": "/explore/articles/freecodecamp.org/how-to-secure-a-nextjs-ai-application-deployed-on-vercel.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

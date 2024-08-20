@@ -138,6 +138,7 @@ tag:
 - [`@qkrtkdwns3410` / \[알고리즘 2644\] 촌수 계산](https://velog.io/@qkrtkdwns3410/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2644-%EC%B4%8C%EC%88%98-%EA%B3%84%EC%82%B0)
 - [`@dongha1992` / 99클럽 코테 스터디 26일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-26%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 - [`@dongha1992` / 99클럽 코테 스터디 27일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
+- [`@dongha1992` / 99클럽 코테 스터디 27일차 - 큐](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-%ED%81%90)
 
 <!-- END: velog.io java -->
 

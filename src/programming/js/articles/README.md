@@ -309,6 +309,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Variables and Data Types in JavaScript – Explained With Code Examples",
+  "desc": "A variable is like a box where you can store data or a reference to data. In this article, you will learn how to create and use variables. You'll also learn about the different data types in JavaScript and how to use them. Let's get started! Table of...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-variables-and-data-types-in-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

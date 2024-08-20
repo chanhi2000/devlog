@@ -234,6 +234,7 @@ head:
 - [카톡 대화방에서 실시간으로 채팅 내용 가져오기](https://m.blog.naver.com/tipsware/223547939396)
 - [화면이 바뀌면 카톡으로 화면 전송하기](https://m.blog.naver.com/tipsware/223548767927)
 - [PC 카톡을 터미널처럼 사용하기 - Step 1](https://m.blog.naver.com/tipsware/223549324483)
+- [PC 카톡을 터미널처럼 사용하기 - Step 2](https://m.blog.naver.com/tipsware/223552246855)
 
 <!-- END: tipsware.blog.naver.com -->
 
@@ -456,6 +457,7 @@ head:
 ## pdf(s)
 
 <PDF url="https://agner.org/optimize/optimizing_cpp.pdf" />
+<PDF url="https://arxiv.org/pdf/2309.04259" />
 
 ---
 

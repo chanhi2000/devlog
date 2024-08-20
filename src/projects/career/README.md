@@ -35,6 +35,13 @@ tag:
   logo="https://cdn.rallit.com/image/favicon.svg"
   preview="https://cdn.rallit.com/image/meta-image.png"/>
 
+<SiteInfo
+  name="OKKY Jobs - 국내 최대 개발자 전문 채용 플랫폼"
+  desc="OKKY Jobs는 국내 최대의 개발자 전문 채용 플랫폼입니다."
+  url="https://jobs.okky.kr/fulltime"
+  logo="https://jobs.okky.kr/favicon.ico"
+  preview="https://jobs.okky.kr/og/okky-jobs.png"/>
+
 ```component VPCard
 {
   "title": "Remote OK",

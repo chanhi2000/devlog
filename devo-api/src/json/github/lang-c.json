@@ -1665,5 +1665,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/1298595?v=4",
     "banner": ""
+  }, {
+    "repo": "mpv-player/mpv",
+    "desc": "🎥 Command line video player",
+    "officialSite": "https://mpv.io",
+    "topics": ["audio", "c", "ffmpeg", "hacktoberfest", "libav", "mplayer", "mpv", "multimedia", "video"],
+    "avatar": "https://avatars.githubusercontent.com/u/2550273?v=4",
+    "banner": ""
   }
 ]

@@ -120,6 +120,7 @@ tag:
 ## Jeongchul Kim
 
 - [Kubernetes Redis Cluster 설치](https://jeongchul.tistory.com/m/725)
+- [Redis Insight Kubernetes 배포](https://jeongchul.tistory.com/m/726)
 
 ---
 

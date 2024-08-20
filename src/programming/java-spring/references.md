@@ -304,9 +304,11 @@ head:
   - [12.7. 책 기록 컨트롤러 만들기](https://ysedeveloper.tistory.com/m/entry/127-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   - [12.8. 책 기록 확인해보기](https://ysedeveloper.tistory.com/m/entry/128-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%ED%99%95%EC%9D%B8%ED%95%B4%EB%B3%B4%EA%B8%B0)
   - [12.9. 책 상세 화면에서 책 기록 기능 추가하기](https://ysedeveloper.tistory.com/m/entry/129-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+  - [13.1. 책 상세 화면에 책 기록 나오게 하기 개요](https://ysedeveloper.tistory.com/m/entry/131-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4%EC%97%90-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EB%82%98%EC%98%A4%EA%B2%8C-%ED%95%98%EA%B8%B0-%EA%B0%9C%EC%9A%94)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
+  - [연관관계 매핑 기초](https://maeng-dev.tistory.com/m/165)
   <!-- END: maeng-dev -->
 <!-- END: tistory.com -->
 
@@ -614,6 +616,12 @@ head:
 #### 카카오페이 기술 블로그
 
 - [WebFlux와 코루틴으로 BFF(Backend For Frontend) 구현하기](https://tech.kakaopay.com/post/bff_webflux_coroutine/) <!-- TODO: 작성 (/explore/articles/tech.kakaopay.com/bff-webflux-coroutine.md) -->
+
+### <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@joshuara7235` / MSA를 찍먹해보자.  - feat. Saga Pattern](https://velog.io/@joshuara7235/MSA%EB%A5%BC-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EC%9E%90.-feat.-Saga-Pattern)
+
+<!-- END: velog.io kotlin -->
 
 ### Kt.academy
 

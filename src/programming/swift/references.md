@@ -438,6 +438,7 @@ tag:
 - [[iOS][SwiftPM][Xcode 13.0] SwiftPM로 RxSwift 사용할 때 RxBlocking, RxTest를 유닛테스트에서 사용하기 - 절반해결(코드복사)](https://minsone.github.io/ios/mac/ios-swiftpm-rxblocking-rxtest-on-unit-test)
 - [\[Swift 5.10\] Nested Protocol With RIBs](https://minsone.github.io/swift-nested-protocol-with-ribs)
 - [\[Swift 5.9+\] Generic과 Noncopyable을 활용하여 보다 안전한 상태머신을 만들기](https://minsone.github.io/swift-type-safe-state-machine-using-generics-noncopyable)
+- [\[Swift\] Private Extension과 Helper 타입](https://minsOne.github.io/swift-private-extension-and-helper-type)
 
 ---
 

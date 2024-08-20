@@ -2463,5 +2463,12 @@
     "topics": ["audio-fingerprinting", "audio-processing", "go", "golang", "not-shazam", "shazam", "song", "song-recognition-algorithm"],
     "avatar": "https://avatars.githubusercontent.com/u/88312276?v=4",
     "banner": ""
-  }  
+  }, {
+    "repo": "TomWright/dasel",
+    "desc": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.",
+    "officialSite": "https://daseldocs.tomwright.me",
+    "topics": ["cli", "config", "configuration", "data-processing", "data-structures", "data-wrangling", "devops-tools", "go", "golang", "json", "json-processing", "parser", "query", "selector", "toml", "update", "xml", "yaml", "yaml-processor"],
+    "avatar": "https://avatars.githubusercontent.com/u/935867?v=4",
+    "banner": ""
+  }
 ]

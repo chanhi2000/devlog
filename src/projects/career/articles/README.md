@@ -509,6 +509,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "뽑히는 개발자는 어떤 프로젝트를 하나요? | 요즘IT",
+  "desc": "뽑히는 개발자는 어떤 프로젝트를 하나요?",
+  "link": "/explore/articles/yozm.wishket.com/2722.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

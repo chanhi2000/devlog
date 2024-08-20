@@ -2382,5 +2382,12 @@
     "topics": ["logical-replication", "postgres", "postresql", "replication", "rust", "rust-lang"],
     "avatar": "https://avatars.githubusercontent.com/u/54469796?v=4",
     "banner": ""
+  }, {
+    "repo": "SorellaLabs/brontes",
+    "desc": "A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection",
+    "officialSite": "https://book.brontes.xyz",
+    "topics": ["ethereum", "etl-pipeline", "evm", "mev", "rust"],
+    "avatar": "https://avatars.githubusercontent.com/u/107031885?v=4",
+    "banner": ""
   }
 ]

@@ -25,6 +25,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-x-twitter"/>X
+
+- [`RaulJuncoV` / Your data has a temperature, and you are wasting money if you don't know it.](https://x.com/RaulJuncoV/status/1824064836742853094)
+
+---
+
 ## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [데이터 분석 결과를 효과적으로 제공하기 위한 그래프 데이터베이스 구축](https://d2.naver.com/helloworld/8446520) <!-- TODO: 작성 (/explore/articles/d2.naver.com/8446520.md) -->

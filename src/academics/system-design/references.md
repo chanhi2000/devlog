@@ -720,6 +720,7 @@ head:
 ## 데엔잘하고싶은데엔🔥💎
 
 - [항공권 숙소 예약, 여행플랫폼 숙박앱의 UX 다크패턴](https://pearlluck.tistory.com/m/823)
+- [숏폼 컨텐츠를 위한 올바른 UX, 결국 도파민 중독이 맞아?](https://pearlluck.tistory.com/m/827)
 
 ---
 

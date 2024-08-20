@@ -22,6 +22,7 @@ head:
       content: "Project 39: Unit testing with XCTest"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/read/39/overview.html
+prev: /explore/articles/hackingwithswift.com/read/38/11-wrap-up.md
 isOriginal: false
 ---
 
@@ -57,7 +58,95 @@ Learn how to write unit tests and user interface tests using Xcode's built-in te
 
 :::
 
-<!-- TODO: 작성 -->
+```component VPCard
+{
+  "title": "Setting up | Hacking with iOS",
+  "desc": "Setting up",
+  "link": "/explore/articles/hackingwithswift.com/read/39/01-setting-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating our first unit test using XCTest | Hacking with iOS",
+  "desc": "Creating our first unit test using XCTest",
+  "link": "/explore/articles/hackingwithswift.com/read/39/02-creating-our-first-unit-test-using-xctest.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Loading our data and splitting up words: filter() | Hacking with iOS",
+  "desc": "Loading our data and splitting up words: filter()",
+  "link": "/explore/articles/hackingwithswift.com/read/39/03-loading-our-data-and-splitting-up-words-filter.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Counting unique strings in an array | Hacking with iOS",
+  "desc": "Counting unique strings in an array",
+  "link": "/explore/articles/hackingwithswift.com/read/39/04-counting-unique-strings-in-an-array.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "measure(): How to optimize our slow code and adjust the baseline | Hacking with iOS",
+  "desc": "measure(): How to optimize our slow code and adjust the baseline",
+  "link": "/explore/articles/hackingwithswift.com/read/39/05-measure-how-to-optimize-our-slow-code-and-adjust-the-baseline.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Filtering using functions as parameters | Hacking with iOS",
+  "desc": "Filtering using functions as parameters",
+  "link": "/explore/articles/hackingwithswift.com/read/39/06-filtering-using-functions-as-parameters.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Updating the user interface with filtering | Hacking with iOS",
+  "desc": "Updating the user interface with filtering",
+  "link": "/explore/articles/hackingwithswift.com/read/39/07-updating-the-user-interface-with-filtering.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "User interface testing with XCTest | Hacking with iOS",
+  "desc": "User interface testing with XCTest",
+  "link": "/explore/articles/hackingwithswift.com/read/39/08-user-interface-testing-with-xctest.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Wrap up | Hacking with iOS",
+  "desc": "Wrap up",
+  "link": "/explore/articles/hackingwithswift.com/read/39/09-wrap-up.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ---
 

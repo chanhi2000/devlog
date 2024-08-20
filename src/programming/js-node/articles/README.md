@@ -362,6 +362,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Read and Write Files with Node.js",
+  "desc": "Node.js is a powerful JavaScript runtime environment that lets you run JS code outside the browser. And a fundamental part of many Node.js applications involves reading and writing files – whether that's text, JSON, HTML, or other file formats. So yo...",
+  "link": "/explore/articles/codecamp.org/how-to-read-and-write-files-with-nodejs.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

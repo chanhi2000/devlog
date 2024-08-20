@@ -196,6 +196,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What are Variables and Constants in Go? Explained With Examples",
+  "desc": "Variables and constants are fundamental concepts in most programming languages. They are the building blocks for storing and managing data. In this article, we'll take a look at how variables and constant work in Go. Table of contents: What are Vari...",
+  "link": "/explore/articles/freecodecamp.org/variables-and-constants-in-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

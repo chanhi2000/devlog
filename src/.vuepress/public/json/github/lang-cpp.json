@@ -2217,5 +2217,12 @@
     "topics": ["aarch64", "android", "arm32", "asr", "cpp", "csharp", "dotnet", "ios", "linux", "macos", "mfc", "onnx", "openkylin", "raspberry-pi", "risc-v", "speech-to-text", "text-to-speech", "vits", "windows"],
     "avatar": "https://avatars.githubusercontent.com/u/71431748?v=4",
     "banner": ""
+  }, {
+    "repo": "duckdb/pg_duckdb",
+    "desc": "DuckDB-powered Postgres for high performance apps & analytics.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/82039556?v=4",
+    "banner": ""
   }
 ]

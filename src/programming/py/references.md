@@ -27,6 +27,12 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-x-twitter"/>X
+
+- [`Python_Dv` / Unpacking function arguments in Python](https://x.com/Python_Dv/status/1822771225787011194)
+
+---
+
 ## LearnDjango
 
 - [Django Login, Logout, Signup, Password Change, and Password Reset](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
@@ -938,6 +944,8 @@ head:
 - [Get terminal size](https://mathspp.com/blog/til/get-terminal-size)
 - [Module itertools overview](https://mathspp.com/blog/module-itertools-overview)
 - [TIL #101 – difference between `__getattr__` and `__getattribute__`](https://mathspp.com/blog/til/difference-between-__getattr__-and-__getattribute__)
+- [<kbd>Ctrl</kbd>+<kbd>left</kbd> and <kbd>Ctrl</kbd>+<kbd>right</kbd> not working in the Python REPL on MacOS](https://mathspp.com/blog/til/ctrl-left-and-ctrl-right-not-working-in-the-python-repl-on-macos)
+- [Module itertools overview](https://mathspp.com/blog/module-itertools-overview)
 
 <!-- END: mathspp.com -->
 
@@ -1123,6 +1131,9 @@ head:
 - [Build a Guitar Synthesizer: Play Musical Tablature in Python](https://realpython.com/python-guitar-synthesizer/)
 - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
 - [Natural Language Processing (NLP) with Python's Natural Language Toolkit (NLTK).](https://realpython.com/nltk-nlp-python/)
+- [Asynchronous Iterators and Iterables in Python](https://realpython.com/python-async-iterators/)
+- [How to Write an Installable Django App](https://realpython.com/installable-django-app/)
+- [Working With JSON Data in Python](https://realpython.com/python-json/)
 
 <!-- END: realpython.com -->
 
@@ -2109,6 +2120,7 @@ head:
 - [\[코드트리 조별과제\] 1주차 - 프로그래밍 기초](https://su-mmer.tistory.com/m/129)
 - [\[코드트리 조별과제\] 2주차 - 재귀함수](https://su-mmer.tistory.com/m/130)
 - [\[코드트리 조별과제\] 3주차 - 객체, 날짜와 시간 계산, Notation](https://su-mmer.tistory.com/m/131)
+- [\[코드트리 조별과제\] 5주차 - 배열 기록](https://su-mmer.tistory.com/m/132)
 
 <!-- END: su-mmer.tistory.com -->
 
@@ -2192,6 +2204,7 @@ head:
 
 - [Python yield](http://bcho.tistory.com/m/1433)
 - [Pytorch - 선형회귀 (Linear Regression)을 통한 코드 구조 이해](https://bcho.tistory.com/m/1434)
+- [파이토치 4 - 쿠버네티스에서 학습하기](http://bcho.tistory.com/m/1436)
 
 <!-- END: bcho.tistory.com -->
 
@@ -2238,6 +2251,12 @@ head:
 
 - [Py) 크롤링 BS(select)](https://datadoctorblog.com/2024/08/17/Py-Crawling-BS-select/)
 - [Py) 크롤링 - BS(table-01)](https://datadoctorblog.com/2024/08/17/Py-Crawling-BS-table-01/)
+
+---
+
+## Neel Gupta
+
+- [PyTorch is dead. Long live JAX.](https://neel04.github.io/my-website/blog/pytorch_rant/)
 
 ---
 

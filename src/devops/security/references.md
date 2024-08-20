@@ -93,6 +93,7 @@ tag:
 ## Brunch
 
 - [`@ZVA` / 대형고래의 승리, 디파이 컴파운드 거버넌스 공격의 실체](https://brunch.co.kr/@@ZVA/714)
+- [`@ZVA` / 투팩터 인증의 어리석음에 대하여?](https://brunch.co.kr/@@ZVA/717)
 
 <!-- END: brunch.co.kr -->
 
@@ -486,6 +487,12 @@ tag:
 
 ---
 
+## Welcome/whoami
+
+- [Hacking the Scammers](https://blog.smithsecurity.biz/hacking-the-scammers)
+
+---
+
 ## Project(s)
 
 ```component VPCard
@@ -496,6 +503,13 @@ tag:
   "background": "rgba(3,102,214,0.2)"
 }
 ```
+
+<SiteInfo
+  name="h4x0r-dz/Leaked-Credentials"
+  desc="how to look for Leaked Credentials !"
+  url="https://github.com/h4x0r-dz/Leaked-Credentials"
+  logo="https://avatars.githubusercontent.com/u/26070859?v=4"
+  preview="https://opengraph.githubassets.com/0942ba6ef3b6b06f9ac2e1b5924b1a1d7baafab54d33cbbee034961ac20f9539/h4x0r-dz/Leaked-Credentials"/>
 
 ---
 

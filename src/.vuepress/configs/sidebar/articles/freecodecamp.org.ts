@@ -51,6 +51,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-match-parentheses-in-javascript-without-using-regex", // 2024-08-12
       "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
       "create-color-picker-using-html-css-and-javascript", // 2024-08-15
+      "how-to-use-variables-and-data-types-in-javascript", // 2024-08-19
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -75,6 +76,7 @@ export const template: SidebarInfoTemplate = {
       "get-mongodb-url-to-connect-to-a-nodejs-application", // 2024-08-12
       "how-to-implement-message-queues-in-your-backend-applications", // 2024-08-14
       "learn-ml5js-for-machine-learning-in-javascript", // 2024-08-14
+      "how-to-read-and-write-files-with-nodejs", // 2024-08-19
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -128,6 +130,7 @@ export const template: SidebarInfoTemplate = {
       "next-js-performance-optimization", // 2024-07-19
       "build-an-invoice-saas-app-with-next-js-and-neon-postgres", // 2024-08-01
       "how-to-index-nextjs-pages-with-indexnow", // 2024-08-06
+      "how-to-secure-a-nextjs-ai-application-deployed-on-vercel", // 2024-08-19
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -222,6 +225,7 @@ export const template: SidebarInfoTemplate = {
       "encoding-and-decoding-data-in-golang", // 2024-08-05
       "graceful-shutdowns-k8s-go", // 2024-08-13
       "integration-tests-using-testcontainers", // 2024-08-14
+      "variables-and-constants-in-go", // 2024-08-19
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -629,6 +633,10 @@ export const template: SidebarInfoTemplate = {
       "how-asynchronous-programming-works-in-rust", // 2024-08-15
       "a-beginners-guide-to-large-language-models", // 2024-08-15
       "vm-data-protection-best-practices", // 2024-08-16
+      "variables-and-constants-in-go", // 2024-08-19
+      "how-to-use-variables-and-data-types-in-javascript", // 2024-08-19
+      "how-to-read-and-write-files-with-nodejs", // 2024-08-19
+      "how-to-secure-a-nextjs-ai-application-deployed-on-vercel", // 2024-08-19
     ]],
   ]),
 }

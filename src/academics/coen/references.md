@@ -54,6 +54,13 @@ head:
 - [`lazymatlab`: 게으른맽랩 lazy matlab](https://lazymatlab.tistory.com/m/)
   - [\[혼공컴운\] 4장. CPU의 작동 원리](https://lazymatlab.tistory.com/m/261)
   - [\[혼공컴운\] 5장. CPU의 성능 향상 기법](https://lazymatlab.tistory.com/m/262)
+  - [\[혼공컴운\] 9장. 운영체제 시작하기](https://lazymatlab.tistory.com/m/271)
+  - [\[혼공컴운\] 10장. 프로세스와 스레드](https://lazymatlab.tistory.com/m/272)
+  - [\[혼공컴운\] 11장. CPU 스케줄링](https://lazymatlab.tistory.com/m/273)
+  - [\[혼공컴운\] 12장. 프로세스 동기화](https://lazymatlab.tistory.com/m/275)
+  - [\[혼공컴운\] 13장. 교착 상태](https://lazymatlab.tistory.com/m/276)
+  - [\[혼공컴운\] 14장. 가상 메모리](https://lazymatlab.tistory.com/m/277)
+  - [\[혼공컴운\] 15장. 파일 시스템](https://lazymatlab.tistory.com/m/278)
 
 ---
 
@@ -63,6 +70,7 @@ head:
 - [`@broccolism` / 📚 합의 알고리즘 Raft  논문 읽기 - 0. 그게 무엇?](https://velog.io/@broccolism/%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Raft-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-0.-%EA%B7%B8%EA%B2%8C-%EB%AC%B4%EC%97%87)
 - [`@qkrtkdwns3410` / BSON 이 뭐야?](https://velog.io/@qkrtkdwns3410/BSON-%EC%9D%B4-%EB%AD%90%EC%95%BC)
 - [`@euisuk-chung` / \[CV Notes\] Lecture 18 - Videos](https://velog.io/@euisuk-chung/CV-Notes-Lecture-18-Videos)
+- [`@qkrtkdwns3410` / \[웹서버 만들기\] 배경지식. URL 의 구성](https://velog.io/@qkrtkdwns3410/%EC%9B%B9%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%B0%B0%EA%B2%BD%EC%A7%80%EC%8B%9D.-URL-%EC%9D%98-%EA%B5%AC%EC%84%B1)
 
 <!-- END: velog.io -->
 

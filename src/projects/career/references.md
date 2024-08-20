@@ -541,6 +541,7 @@ tag:
 - [전력 증강자](https://thestartupbible.com/2024/08/force-multiplier.html)
 - [평판 만들기](https://thestartupbible.com/2024/08/on-your-reputation-preceding-you.html)
 - [글로벌 사업의 기본은 영어](https://thestartupbible.com/2024/08/the-very-first-requirement-for-any-global-business-is-english.html)
+- [노력의 부족으로 실패하지 말자](https://thestartupbible.com/2024/08/if-you-fail-make-sure-its-not-because-of-a-lack-of-effort.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -715,6 +716,7 @@ tag:
 
 - [엔지니어를 위한, 연금 제도 쉽게 이해하기](https://aws-hyoh.tistory.com/287)
 - [퇴직연금 쉽게 이해하기 #2](https://aws-hyoh.tistory.com/291)
+- [국비지원교육(IT)을 신청하기 전에 생각해보아야 할 것들](https://aws-hyoh.tistory.com/m/295)
 
 ---
 
@@ -924,18 +926,19 @@ tag:
 
 ## DREAMING FOR THE FUTURE
 
-- [리더십으로의 정원사](http://www.chidoo.me/index.php/2024/05/06/gardener-as-a-leadership/)
-- [리더십의 커뮤니케이션 – 소통](http://www.chidoo.me/index.php/2024/05/19/why-radical-communication-in-leadership/)
-- [리더십의 커뮤니케이션 – 공감](http://www.chidoo.me/index.php/2024/06/02/empathy-in-leadership/)
-- [리더십의 커뮤니케이션 – 완벽하지 않음의 인정](http://www.chidoo.me/index.php/2024/06/09/vulnerability-of-leadership/)
-- [리더십의 커뮤니케이션 – 대화하기](http://www.chidoo.me/index.php/2024/06/15/dialog-by-asking-and-listening-in-leadership/)
-- [리더십의 리더 – Lead와 Leader](http://www.chidoo.me/index.php/2024/06/23/lead-vs-leader-in-leadership/)
-- [리더십의 리더 – 같음과 다름](http://www.chidoo.me/index.php/2024/07/07/equality-and-inequality-in-leadership/)
-- [리더십의 리더 – 리더의 팀](http://www.chidoo.me/index.php/2024/07/14/one-team-in-leadership/)
-- [리더십의 리더 – Global Maximum을 위한 리더의 목표와 결과](http://www.chidoo.me/index.php/2024/07/21/objectives-for-global-maximum-in-leadership/)
-- [리더의 리더십 – 성장을 위한 실패 관리](http://www.chidoo.me/index.php/2024/07/29/fast-fail-and-small-fail-in-leadership/)
-- [리더의 리더십 – 심리적 안정 vs. 안전](http://www.chidoo.me/index.php/2024/08/04/psychological-safety-in-leadership/)
+- [리더십으로의 정원사](https://chidoo.me/index.php/2024/05/06/gardener-as-a-leadership/)
+- [리더십의 커뮤니케이션 – 소통](https://chidoo.me/index.php/2024/05/19/why-radical-communication-in-leadership/)
+- [리더십의 커뮤니케이션 – 공감](https://chidoo.me/index.php/2024/06/02/empathy-in-leadership/)
+- [리더십의 커뮤니케이션 – 완벽하지 않음의 인정](https://chidoo.me/index.php/2024/06/09/vulnerability-of-leadership/)
+- [리더십의 커뮤니케이션 – 대화하기](https://chidoo.me/index.php/2024/06/15/dialog-by-asking-and-listening-in-leadership/)
+- [리더십의 리더 – Lead와 Leader](https://chidoo.me/index.php/2024/06/23/lead-vs-leader-in-leadership/)
+- [리더십의 리더 – 같음과 다름](https://chidoo.me/index.php/2024/07/07/equality-and-inequality-in-leadership/)
+- [리더십의 리더 – 리더의 팀](https://chidoo.me/index.php/2024/07/14/one-team-in-leadership/)
+- [리더십의 리더 – Global Maximum을 위한 리더의 목표와 결과](https://chidoo.me/index.php/2024/07/21/objectives-for-global-maximum-in-leadership/)
+- [리더의 리더십 – 성장을 위한 실패 관리](https://chidoo.me/index.php/2024/07/29/fast-fail-and-small-fail-in-leadership/)
+- [리더의 리더십 – 심리적 안정 vs. 안전](https://chidoo.me/index.php/2024/08/04/psychological-safety-in-leadership/)
 - [리더십의 안전감 – Comfort Zone](https://chidoo.me/index.php/2024/08/12/comfort-zone-in-leadership/)
+- [리더십의 안전감 – 가족 같은 팀 vs. 프로 팀](https://chidoo.me/index.php/2024/08/19/team-as-a-pro-team-in-leadership/)
 
 <!-- END: chidoo.me -->
 

@@ -24,4 +24,10 @@ tag:
 
 ---
 
+## 기계인간 John Grib
+
+- [Clojure vector](https://johngrib.github.io/wiki/clojure/study/vector/)
+
+---
+
 <TagLinks />

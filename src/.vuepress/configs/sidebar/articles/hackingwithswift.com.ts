@@ -818,6 +818,15 @@ export const template: SidebarGroupItem = {
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/read/39/overview.md',
+              '/explore/articles/hackingwithswift.com/read/39/01-setting-up.md',
+              '/explore/articles/hackingwithswift.com/read/39/02-creating-our-first-unit-test-using-xctest.md',
+              '/explore/articles/hackingwithswift.com/read/39/03-loading-our-data-and-splitting-up-words-filter.md',
+              '/explore/articles/hackingwithswift.com/read/39/04-counting-unique-strings-in-an-array.md',
+              '/explore/articles/hackingwithswift.com/read/39/05-measure-how-to-optimize-our-slow-code-and-adjust-the-baseline.md',
+              '/explore/articles/hackingwithswift.com/read/39/06-filtering-using-functions-as-parameters.md',
+              '/explore/articles/hackingwithswift.com/read/39/07-updating-the-user-interface-with-filtering.md',
+              '/explore/articles/hackingwithswift.com/read/39/08-user-interface-testing-with-xctest.md',
+              '/explore/articles/hackingwithswift.com/read/39/09-wrap-up.md',
             ]
           }, 
         ]

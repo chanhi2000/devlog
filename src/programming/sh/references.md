@@ -440,4 +440,10 @@ tag:
 
 ---
 
+## rein's world
+
+- [TIL: qpdf로 pdf 파일에 걸린 암호 해제하기](https://rein.kr/posts/2024-08-18-til-qpdf-decrypt/)
+
+---
+
 <TagLinks />

@@ -40,6 +40,7 @@ head:
 - [`@2rV` / 9. Perplexity:인간을 특별하게 만드는 호기심](https://brunch.co.kr/@@2rV/170)
 - [`@2rV` / 10. Perplexity 창업자가 생각하는 스타트업](https://brunch.co.kr/@@2rV/171)
 - [`@2rV` / 11. Perplexity: 검색과 AI의 미래](https://brunch.co.kr/@@2rV/172)
+- [`@2rV` / 퍼플렉시티(Perplexity): AI 검색의 미래 - '검색 엔진'을 넘어, '지식 발견 엔진'으로 향하는 여정](https://brunch.co.kr/@@2rV/173)
 
 <!-- END: brunch.co.kr -->
 
