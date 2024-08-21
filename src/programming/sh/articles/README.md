@@ -249,6 +249,8 @@ head:
 
 <!-- END: tecmint.com -->
 
+---
+
 ## 요즘IT
 
 > yozm.wishket.com

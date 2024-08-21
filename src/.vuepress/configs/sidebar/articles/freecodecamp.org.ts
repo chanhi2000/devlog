@@ -189,6 +189,8 @@ export const template: SidebarInfoTemplate = {
       "basic-control-theory-with-python", // 2024-08-06
       "what-is-a-kalman-filter-with-python-code-examples", // 2024-08-07
       "merge-word-documents-in-python", // 2024-08-13
+      "how-to-generate-financial-press-reviews-using-ai", // 2024-08-20
+      "how-to-build-good-coding-habits", // 2024-08-20
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -259,6 +261,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-git-submodules", // 2024-05-07
       "what-is-trunk-based-development", // 2024-06-18
       "host-your-first-project-on-github", // 2024-08-08
+      "git-cheat-sheet-helpful-git-commands-with-examples", // 2024-08-20
     ]],[
     "gd", [
       "learn-to-create-a-3d-rpg-game-with-godot", // 2024-06-20
@@ -367,6 +370,9 @@ export const template: SidebarInfoTemplate = {
     "google-drive", [
       "excel-vs-google-sheets-tables", // 2024-07-02
     ]],[
+    "davinci", [
+      "master-video-editing-with-davinci-resolve", // 2024-08-20
+    ]],[
     "system-design", [
       "minimum-viable-product-between-an-idea-and-the-product", // 2024-05-24
       "how-to-use-viewing-patterns-in-your-website-design", // 2024-06-12
@@ -375,6 +381,7 @@ export const template: SidebarInfoTemplate = {
       "breakpoints-for-responsive-web-design", // 2024-06-24
       "learn-system-design-principles", // 2024-07-25
       "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
+      "how-to-effectively-manage-unique-identifiers-at-scale", // 2024-08-20
     ]],[
     "pm", [
       "what-is-trunk-based-development", // 2024-06-18
@@ -398,6 +405,9 @@ export const template: SidebarInfoTemplate = {
       "learn-rag-fundamentals-and-advanced-techniques", // 2024-08-01
       "a-beginners-guide-to-large-language-models", // 2024-08-15
     ]],[
+    "claude", [
+      "how-to-generate-financial-press-reviews-using-ai", // 2024-08-20
+    ]],[
     "math", [
       "linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai", // 2024-05-28
       "how-do-numerical-conversions-work", // 2024-05-29
@@ -405,6 +415,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "fnce", [
       "what-is-a-kalman-filter-with-python-code-examples", // 2024-08-07
+      "how-to-generate-financial-press-reviews-using-ai", // 2024-08-20
     ]],[
     "coen", [
       "learn-about-operating-systems-in-depth", // 2024-08-06
@@ -637,6 +648,11 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-variables-and-data-types-in-javascript", // 2024-08-19
       "how-to-read-and-write-files-with-nodejs", // 2024-08-19
       "how-to-secure-a-nextjs-ai-application-deployed-on-vercel", // 2024-08-19
+      "how-to-generate-financial-press-reviews-using-ai", // 2024-08-20
+      "master-video-editing-with-davinci-resolve", // 2024-08-20
+      "git-cheat-sheet-helpful-git-commands-with-examples", // 2024-08-20
+      "how-to-effectively-manage-unique-identifiers-at-scale", // 2024-08-20
+      "how-to-build-good-coding-habits", // 2024-08-20
     ]],
   ]),
 }

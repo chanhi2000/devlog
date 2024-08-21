@@ -738,6 +738,13 @@ https://paperlined.org/
   logo="https://blog.portone.io/favicon.png"
   preview="https://blog.portone.io/portone_og.png"/>
 
+<SiteInfo
+  name="다양한 해외 뉴스를 번역, 요약하여 제공합니다. | Briefy"
+  desc="AI를 이용하여 다양한 해외 뉴스를 번역, 요약하여 제공합니다. | Briefy"
+  url="https://briefy.dev/"
+  logo="https://briefy.dev/favicon.png"
+  preview="https://news-affordance.vercel.app/images/ogp_image.png"/>
+
 <!-- END: Trending Korea -->
 
 @tab <FontIcon icon="fas fa-globe"/>Tech Blog

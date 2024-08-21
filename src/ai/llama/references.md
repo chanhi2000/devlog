@@ -51,6 +51,13 @@ head:
 
 ---
 
+## tistory
+
+- [`skyil` / 컴퓨터와 수학, 몽상 조금](https://skyil.tistory.com/m/)
+  - [Llama 3.1 Vision Language Model 관련 요약 (Llama 3-V)](https://skyil.tistory.com/m/303)
+  <!-- END: skyil -->
+<!-- END: tistory.com -->
+
 ## LMSYS Org
 
 - [Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM)](https://lmsys.org/blog/2024-07-25-sglang-llama3/)

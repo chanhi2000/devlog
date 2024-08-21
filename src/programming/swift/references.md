@@ -106,6 +106,7 @@ tag:
 - [`@jwlee010523` / SwiftUI - 생명주기(LifeCycle)](https://velog.io/@jwlee010523/SwiftUI-LifeCycle)
 - [`@jwlee010523` / IOS - 앱스토어 배포과정](https://velog.io/@jwlee010523/ios-app-distribution)
 - [`@jwlee010523`/ SwiftUI - ScenePhase](https://velog.io/@jwlee010523/SwiftUI-ScenePhase)
+- [`@jwlee010523` / 탈출 클로저(Escaping Closure)](https://velog.io/@jwlee010523/Escaping-Closure)
 
 <!-- END: velog.io -->
 

@@ -18,7 +18,7 @@ head:
     - property: og:description`
       content: "What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance"
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/freecodecamp.what-is-a-kalman-filter-with-python-code-examples.html
+      content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/what-is-a-kalman-filter-with-python-code-examples.html
 prev: /programming/py/articles/README.md
 date: 2024-08-07
 isOriginal: false

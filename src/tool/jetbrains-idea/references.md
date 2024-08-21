@@ -88,6 +88,7 @@ head:
 - [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
   - [IntelliJ의 .http를 사용해 Postman 대체하기](https://jojoldu.tistory.com/m/266)
   - [IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)](https://jojoldu.tistory.com/m/673)
+  - [IntelliJ 등에서 메모리 점유율이 계속 높아질 때 (feat. vanilla JBR)](http://jojoldu.tistory.com/m/800)
   <!-- END: jojoldu -->
 - [`krksap` / 뷰티풀 프로그래밍](https://krksap.tistory.com/m/)
   - [IdeaVim Action Id찾기](https://krksap.tistory.com/m/2305)

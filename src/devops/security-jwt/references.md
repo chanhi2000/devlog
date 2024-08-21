@@ -53,30 +53,30 @@ head:
 
 ---
 
-## 컴공생의 발자취
+## tistory
 
-- [[내일배움캠프 25일차 TIL] 쿠키-세션 방식과 JWT 기반 인증](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-24%EC%9D%BC%EC%B0%A8-TIL-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EB%B0%A9%EC%8B%9D%EA%B3%BC-JWT-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D)
-- [\[내일배움캠프 33일차 TIL\] JWT 활용 과제 피드백 및 재제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-33%EC%9D%BC%EC%B0%A8-TIL-JWT-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%8F-%EC%9E%AC%EC%A0%9C%EC%B6%9C)
-- [\[내일배움캠프 7주차 WIL\] 개인과제 제출 & JWT 그리고 독서토론](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-7%EC%A3%BC%EC%B0%A8-WIL-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C-JWT-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
-- [\[내일배움캠프 8주차 WIL\] JWT 활용 과제 재제출 및 뉴스피드 프로젝트](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-8%EC%A3%BC%EC%B0%A8-WIL-JWT-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%9E%AC%EC%A0%9C%EC%B6%9C-%EB%B0%8F-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
+  - [[내일배움캠프 25일차 TIL] 쿠키-세션 방식과 JWT 기반 인증](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-24%EC%9D%BC%EC%B0%A8-TIL-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EB%B0%A9%EC%8B%9D%EA%B3%BC-JWT-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D)
+  - [\[내일배움캠프 33일차 TIL\] JWT 활용 과제 피드백 및 재제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-33%EC%9D%BC%EC%B0%A8-TIL-JWT-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%8F-%EC%9E%AC%EC%A0%9C%EC%B6%9C)
+  - [\[내일배움캠프 7주차 WIL\] 개인과제 제출 & JWT 그리고 독서토론](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-7%EC%A3%BC%EC%B0%A8-WIL-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C-JWT-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
+  - [\[내일배움캠프 8주차 WIL\] JWT 활용 과제 재제출 및 뉴스피드 프로젝트](https://moonnight0.tistory.com/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-8%EC%A3%BC%EC%B0%A8-WIL-JWT-%ED%99%9C%EC%9A%A9-%EA%B3%BC%EC%A0%9C-%EC%9E%AC%EC%A0%9C%EC%B6%9C-%EB%B0%8F-%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+  <!-- END: moonnight0 -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [jwt 클라이언트, 서버, 디비 별 관점과 관리방법](https://ravenkim97.tistory.com/m/487)
+  <!-- END: ravenkim97 -->
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\[1년 후 마실가실\] JWT 공부](https://hj0216.tistory.com/m/935)
+  <!-- END: hj0216 -->
+- [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
+  - [JWT 완벽 가이드](https://jinn-blog.tistory.com/m/187)
+  <!-- END: jinn-blog -->
+<!-- END: tistory.com -->
 
 ---
 
 ## Auth0 Blog
 
 - [From Idea to Standard: How the JWT Profile for OAuth 2.0 Access Tokens Became RFC9068](https://auth0.com/blog/how-the-jwt-profile-for-oauth-20-access-tokens-became-rfc9068/)
-
----
-
-## Life Log
-
-- [jwt 클라이언트, 서버, 디비 별 관점과 관리방법](https://ravenkim97.tistory.com/m/487)
-
----
-
-## 이모저모 개발 블로그
-
-- [\[1년 후 마실가실\] JWT 공부](https://hj0216.tistory.com/m/935)
 
 ---
 

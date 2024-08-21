@@ -297,6 +297,7 @@ head:
 - [AutoRAG 활용 LLM RAG 최적화하기](https://daddynkidsmakers.blogspot.com/2024/07/autorag-llm-rag.html)
 - [LLM 기반 센서 데이터 해석 방법](https://daddynkidsmakers.blogspot.com/2024/07/llm_17.html)
 - [sLLM과 vLLM에 대한 이야기](https://daddynkidsmakers.blogspot.com/2024/07/sllm-vllm.html)
+- [AI 과학자 Sakana.AI 사용법](https://daddynkidsmakers.blogspot.com/2024/08/ai-sakanaai.html)
 
 <!-- END: daddynkidsmakers.blogspot.com -->
 

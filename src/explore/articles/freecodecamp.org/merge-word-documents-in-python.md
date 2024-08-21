@@ -5,12 +5,15 @@ description: "Article(s) > How to Merge Word Documents in Python – Three Effec
 icon: fa-brands fa-python
 category: 
   - Python
+  - Finance
   - Article(s)
 tag: 
   - blog
   - freecodecamp.org
   - py
   - python
+  - fnce
+  - finance
 head:
   - - meta:
     - property: og:title
@@ -18,7 +21,7 @@ head:
     - property: og:description`
       content: "How to Merge Word Documents in Python – Three Effective Methods with Examples"
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/freecodecamp.merge-word-documents-in-python.html
+      content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/merge-word-documents-in-python.html
 prev: /programming/py/articles/README.md
 date: 2024-08-13
 isOriginal: false
@@ -32,16 +35,6 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723552225928/558a428
   "title": "Python > Article(s)",
   "desc": "Article(s)",
   "link": "/programming/py/articles/README.md",
-  "logo": "/images/ico-wind.svg",
-  "background": "rgba(10,10,10,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Finance > Article(s)",
-  "desc": "Article(s)",
-  "link": "/academics/fnce/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

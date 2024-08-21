@@ -18,7 +18,7 @@ head:
     - property: og:description`
       content: "How to Build a Rocket Control System: Basic Control Theory with Python"
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/freecodecamp.basic-control-theory-with-python.html
+      content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/basic-control-theory-with-python.html
 prev: /programming/py/articles/README.md
 date: 2024-08-06
 isOriginal: false

@@ -38,10 +38,10 @@ head:
 - [entrypoint file not found](https://stackoverflow.com/questions/44460825/entrypoint-file-not-found)
 - [How to run shell script on host from docker container?](https://stackoverflow.com/questions/32163955/how-to-run-shell-script-on-host-from-docker-container)
 
-## Github
+## <FontIcon icon="iconfont icon-github"/>Github
 
 - [`adtac/Dockerfile`](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
-
+- [`rancher-sandbox/rancher-desktop`](https://github.com/rancher-sandbox/rancher-desktop/issues/7169)
 ---
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium

@@ -1053,9 +1053,17 @@ https://www.joinc.co.kr/w/Site
   logo="https://quickref.me/images/favicon.png?v=1"
   preview="https://quickref.me/assets/image/javascript-preview.png?v=o1m7tj"/>
 
+<SiteInfo
+  name="Flavio Copes"
+  desc="I help people learn to code."
+  url="https://flaviocopes.com/access/"
+  logo="https://flaviocopes.com/favicon.ico"
+  preview="https://flaviocopes.com/images/og.png"/>
+
 https://rogerdudler.github.io/git-guide/index.html
 https://rogerdudler.github.io/git-guide/index.ko.html
 https://ui-patterns.com/patterns
+
 
 <!-- END: Cheatsheet -->
 

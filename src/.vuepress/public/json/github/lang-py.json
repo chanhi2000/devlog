@@ -6144,10 +6144,10 @@
     "banner": ""
   }, {
     "repo": "huggingface/lerobot",
-    "desc": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+    "desc": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
     "officialSite": "",
     "topics": [],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
     "banner": ""
   }, {
     "repo": "hbb1/2d-gaussian-splatting",
@@ -7576,6 +7576,13 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/4620457?v=4",
+    "banner": ""
+  }, {
+    "repo": "LibreTranslate/LibreTranslate",
+    "desc": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+    "officialSite": "https://libretranslate.com",
+    "topics": ["api", "machine", "translate", "translation", "translator"],
+    "avatar": "https://avatars.githubusercontent.com/u/77352747?v=4",
     "banner": ""
   }
 ]

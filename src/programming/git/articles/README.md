@@ -118,7 +118,7 @@ head:
 {
   "title": "What is Trunk Based Development? A Different Approach to the Software Development Lifecycle",
   "desc": "The Software Development Lifecycle (SDLC) is different at every company. The version control system used, peer review process, code review process, design review process, how you do CI, automated testing, and manual testing – all vary greatly depending on where you work. How a company plans, writes, builds, reviews, deploys...",
-  "link": "/explore/articles/frontendmasters.com/what-is-trunk-based-development.md",
+  "link": "/explore/articles/freecodecamp.org/what-is-trunk-based-development.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -128,13 +128,23 @@ head:
 {
   "title": "How to Host Your Project on GitHub – Explained With Examples",
   "desc": "Seven years ago, I began my journey into web development with HTML and CSS. As soon as I got the hang of JavaScript, I built my first website. The excitement was overwhelming, and I wanted to share it with my friends and the world. Like many beginners, I started researching...",
-  "link": "/explore/articles/frontendmasters.com/host-your-first-project-on-github.md",
+  "link": "/explore/articles/freecodecamp.org/host-your-first-project-on-github.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
 ```
 
-<!-- END: frontendmasters.com -->
+```component VPCard
+{
+  "title": "Git Cheat Sheet – Helpful Git Commands with Examples",
+  "desc": "This Git Cheat Sheet will provide you with a handy list of common (and not so common) commands that will make your life easier when working with Git. You can also download the Git Cheat Sheet in PDF format (along with some other resources) for free b...",
+  "link": "/explore/articles/freecodecamp.org/git-cheat-sheet-helpful-git-commands-with-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

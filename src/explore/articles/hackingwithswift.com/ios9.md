@@ -70,7 +70,16 @@ I've made lots of [completely free tutorials for iOS 9](/explore/articles/hackin
 ::: info Update
 
 I wrote a [tutorial on Core Spotlight in iOS 9](/explore/articles/hackingwithswift.com/read/32/overview.md) as Hacking with Swift project 32 – check it out!
-<!-- TODO: add VPCard -->
+
+```component VPCard
+{
+  "title": "Project 32: SwiftSearcher",
+  "desc": "Add your app's content to iOS 9's Spotlight search and take advantage of the new Safari integration.",
+  "link": "/explore/articles/hackingwithswift.com/read/32/overview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 :::
 
@@ -137,14 +146,32 @@ I wonder whether Apple is shipping app thinning now in preparation to launch an 
 ::: info Update
 
 I wrote a [tutorial on GameplayKit and GKMinmaxStrategist in iOS 9](/explore/articles/hackingwithswift.com/read/34/overview.md) as Hacking with Swift project 34 – check it out!
-<!-- TODO: add VPCard -->
+
+```component VPCard
+{
+  "title": "Project 34: Four in a Row",
+  "desc": "Let iOS take over the AI in your games using GameplayKit.",
+  "link": "/explore/articles/hackingwithswift.com/read/34/overview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 :::
 
 ::: info Update 2
 
 I wrote a [tutorial on GameplayKit and GKRandomSource in iOS 9](/explore/articles/hackingwithswift.com/read/35/overview.md) as Hacking with Swift project 35 – check that out too!
-<!-- TODO: add VPCard -->
+
+```component VPCard
+{
+  "title": "Project 35: Generating random numbers",
+  "desc": "GameplayKit lets you generate random numbers in ways you soon won't be able to live without.",
+  "link": "/explore/articles/hackingwithswift.com/read/35/overview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 :::
 
@@ -159,7 +186,16 @@ To give you an idea of just how powerful GameplayKit is, Apple has shipped demo 
 ::: info Update
 
 I wrote a [tutorial on SFSafariViewController in iOS 9](/explore/articles/hackingwithswift.com/read/32/overview.md) as Hacking with Swift project 32 – check it out!
-<!-- TODO: add VPCard -->
+
+```component VPCard
+{
+  "title": "Project 32: SwiftSearcher",
+  "desc": "Add your app's content to iOS 9's Spotlight search and take advantage of the new Safari integration.",
+  "link": "/explore/articles/hackingwithswift.com/read/32/overview.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 :::
 

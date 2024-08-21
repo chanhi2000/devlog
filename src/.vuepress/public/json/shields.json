@@ -46,6 +46,7 @@
   { "logo": "cssmodules", "name": "CSS%20Modules", "colorHex": "000000" },
   { "logo": "curl", "name": "curl", "colorHex": "073551" },
   { "logo": "dart", "name": "Dart", "colorHex": "0175C2" },
+  { "logo": "davinciresolve", "name": "DaVinci%20Resolve", "colorHex": "233A51" },
   { "logo": "debian", "name": "Debian", "colorHex": "A81D33" },
   { "logo": "django", "name": "Django", "colorHex": "092E20" },
   { "logo": "docker", "name": "Docker", "colorHex": "2496ED" },

@@ -1203,6 +1203,7 @@ head:
 - [syntax sugar in python](https://lazymatlab.tistory.com/m/236)
 - [파이썬을 왜 공부하나요?](https://lazymatlab.tistory.com/m/75)
 - [매트랩 콰인](https://lazymatlab.tistory.com/m/280)
+- [conda 초간단 매뉴얼](https://lazymatlab.tistory.com/m/289)
 
 ---
 
@@ -2025,6 +2026,7 @@ head:
 - [입력과 출력](https://jinn-blog.tistory.com/m/167)
 - [모듈](https://jinn-blog.tistory.com/m/166)
 - [자료구조](https://jinn-blog.tistory.com/m/165)
+- [BCrypt 심층 분석: 비밀번호 보안의 강력한 수호자](https://jinn-blog.tistory.com/m/186)
 
 ---
 

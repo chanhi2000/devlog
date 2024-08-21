@@ -964,9 +964,11 @@ tag:
 
 ---
 
-## 푸르고
+## 푸르고 개발 블로그
 
 - [그냥 하기 (명량한 염세주의)](https://puleugo.tistory.com/193)
+- [이상적인 개발자의 해커톤을 준비 방법](https://puleugo.tistory.com/m/205)
+- [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/m/206)
 
 ---
 
@@ -1487,6 +1489,12 @@ https://m.blog.naver.com/&logId=
 ## 온라인 결제의 모든 것, 포트원 기업 블로그
 
 - [전금법 개정, 온라인 커머스도 대비해야합니다.](https://blog.portone.io/partner-settlement-lawinfo/)
+
+---
+
+## Tiny struggles
+
+- [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
 
 ---
 

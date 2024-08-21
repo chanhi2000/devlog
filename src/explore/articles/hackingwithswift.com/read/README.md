@@ -607,7 +607,15 @@ Whether you want to learn SwiftUI or UIKit, Hacking with iOS is a complete tutor
 
 ## Archived articles
 
-/explore/articles/hackingwithswift.com/example-code Get free Swift example code
+```component VPCard
+{
+  "title": "Swift Knowledge Base - free Swift example code",
+  "desc": "Learn Swift coding for iOS with these free tutorials – learn Swift, iOS, and Xcode",
+  "link": "/explore/articles/hackingwithswift.com/example-code/README.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
 
 ```component VPCard
 {

@@ -183,6 +183,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Effectively Manage Unique Identifiers at Scale: From GUIDs to Snowflake IDs and Other Modern Solutions",
+  "desc": "What Are Unique Identifiers? 🪪 Unique identifiers (UIDs) are crucial components in software engineering and data management. They serve as distinct references for entities within a system and ensure that each item – whether a database record, a user...",
+  "link": "/explore/articles/freecodecamp.org/how-to-effectively-manage-unique-identifiers-at-scale.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

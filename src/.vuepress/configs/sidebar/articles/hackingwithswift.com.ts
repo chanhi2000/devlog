@@ -1589,6 +1589,22 @@ export const template: SidebarGroupItem = {
             ]
           }
         ]
+      }, {
+        text: 'Swift Knowledge Base',
+        collapsible: true,
+        icon: 'fa-brands fa-swift',
+        children: [
+          '/explore/articles/hackingwithswift.com/example-code/README.md',
+          /*
+          {
+            text: 'Accessibility',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/accessibitlity/README.md',
+            ]
+          }
+          */
+        ]
       }
     ]
 };

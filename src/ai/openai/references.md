@@ -351,6 +351,7 @@ head:
 - [연구용 GPT 만들기 - 논문봇 등](https://jehyunlee.github.io/2024/06/19/General-56-customgpt/)
 - [KIRD - RnD 수행시 생성 AI를 현명하게 활용하는 방법](https://jehyunlee.github.io/2024/07/16/General-57-kirdalphacampus/)
 - [데이터 분석용 GPTs - 플랏봇](https://jehyunlee.github.io/2024/08/11/General-58-plotbot/)
+- [논문봇 v2 - 출력물 일관성 확보](https://jehyunlee.github.io/2024/08/19/General-59-paperbot2/)
 
 ---
 

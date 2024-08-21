@@ -206,6 +206,7 @@ head:
 - [`@ganymedian` / #6-1. Suspense and Next](https://until.blog/@ganymedian/-6--suspense-and-next)
 - [`@ganymedian` / #6-2. Suspense and Next](https://until.blog/@ganymedian/-6-2--suspense-and-next)
 - [`@octoping` / `<form>`을 기본 HTML로 더 잘 써보기](https://until.blog/@octoping/-form-%EC%9D%84-%EA%B8%B0%EB%B3%B8-html%EB%A1%9C-%EB%8D%94-%EC%9E%98-%EC%8D%A8%EB%B3%B4%EA%B8%B0)
+- [`@octoping` / React에서 Class 사용해보기](https://until.blog/@octoping/react에서-class-사용해보기)
 
 <!-- END: until.blog -->
 

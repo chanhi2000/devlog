@@ -1906,6 +1906,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'DaVinci',
+      collapsible: true,
+      icon: 'iconfont icon-davinci',
+      children: [
+        '/tool/davinci/README.md',
+        '/tool/davinci/references.md',
+        '/tool/davinci/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/davinci/articles/README.md',
+            asb.freecodecamp("davinci"),
+          ]
+        }
+      ]
+    }, {
       text: 'crontab',
       collapsible: true,
       icon: 'iconfont icon-crontab',
@@ -3357,6 +3375,15 @@ export const sidebarEn = sidebar({
         '/ai/claude/README.md',
         '/ai/claude/references.md',
         '/ai/claude/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/claude/articles/README.md',
+            asb.freecodecamp("claude"),
+          ]
+        }
       ]
     }, {
       text: 'LangChain',
@@ -3774,6 +3801,7 @@ export const sidebarEn = sidebar({
           children: [
             '/academics/coen/articles/README.md',
             asb.freecodecamp("coen"),
+            asb.yozm("coen"),
           ]
         }
       ]

@@ -380,6 +380,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Generate Financial Press Reviews Using AI",
+  "desc": "In today’s fast-paced business environment, staying informed about the latest developments in your industry is crucial for making strategic decisions. Companies must know market trends, competitor activities, and potential risks to remain competitive...",
+  "link": "/explore/articles/freecodecamp.org/how-to-generate-financial-press-reviews-using-ai.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Build Good Coding Habits as a New Python Developer",
+  "desc": "When you're starting out as a new Python developer, you'll likely develop some habits, both good and bad. Coding is something of an art form. Flexibility and customization are encouraged — and you can usually write code how you want within the contex...",
+  "link": "/explore/articles/freecodecamp.org/how-to-build-good-coding-habits.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

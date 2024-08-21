@@ -1,23 +1,28 @@
 ---
 lang: ko-KR
 title: Article(s)
-description: Finance > Article(s)
+description: Claude > Article(s)
 icon: fas fa-square-share-nodes
 category:
-  - Finance
+  - AI
+  - LLM
+  - Claude
   - Article(s)
-tag:
+tag: 
   - blog
   - freecodecamp.org
-  - finance
+  - ai
+  - llm
+  - claude
+  - anthropic
 head:
   - - meta:
     - property: og:title
-      content: Finance > Article(s)
+      content: Claude > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/academics/fnce/references.html
+      content: https://chanhi2000.github.io/ai/claude/articles/
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -36,16 +41,6 @@ head:
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 > freecodecamp.org
-
-```component VPCard
-{
-  "title": "What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance",
-  "desc": "In a world where precision is key, handling noisy data effectively is crucial for solving complex problems. Whether you're trying to control a rocket or forecast the stock market, the ability to get good data from an uncertain environment is important. This is exactly the problem Kalman filters help solve...",
-  "link": "/explore/articles/freecodecamp.org/what-is-a-kalman-filter-with-python-code-examples.md",
-  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
-  "background": "rgba(10,10,35,0.2)"
-}
-```
 
 ```component VPCard
 {

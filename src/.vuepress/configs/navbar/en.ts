@@ -603,6 +603,7 @@ export const navbarEn = navbar([
         children: [
           '/tool/figma/README.md',
           '/tool/sketch/README.md',
+          '/tool/davinci/README.md',
         ]
       }, { 
         text: 'crontab',
@@ -655,7 +656,7 @@ export const navbarEn = navbar([
         text: 'Airtable',
         icon: 'iconfont icon-airtable',
         link: '/tool/airtable/README.md',
-      }
+      }, 
     ]
   }, {
     text: '', // ai

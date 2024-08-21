@@ -10,6 +10,7 @@ category:
 tag:
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - engineering
   - coen
   - computerengineering
@@ -33,6 +34,16 @@ head:
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -54,4 +65,23 @@ head:
 <!-- END: freecodecamp.org -->
 
 ---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "개발자의 논리적 사고와 문제 해결 ‘Set 구현 과정’ 따라가기 | 요즘IT",
+  "desc": "개발자의 논리적 사고와 문제 해결 ‘Set 구현 과정’ 따라가기",
+  "link": "/explore/articles/yozm.wishket.com/2723.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
+
+---
+
 <TagLinks />
