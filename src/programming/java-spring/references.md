@@ -306,6 +306,7 @@ head:
   - [12.9. 책 상세 화면에서 책 기록 기능 추가하기](https://ysedeveloper.tistory.com/m/entry/129-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
   - [13.1. 책 상세 화면에 책 기록 나오게 하기 개요](https://ysedeveloper.tistory.com/m/entry/131-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4%EC%97%90-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EB%82%98%EC%98%A4%EA%B2%8C-%ED%95%98%EA%B8%B0-%EA%B0%9C%EC%9A%94)
   - [13.2. 책 정보에 책 기록 연결하기](https://ysedeveloper.tistory.com/m/entry/132-%EC%B1%85-%EC%A0%95%EB%B3%B4%EC%97%90-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
+  - [13.3. 책 기록 응답 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/133-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9D%91%EB%8B%B5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -601,6 +602,10 @@ head:
 ### 6161990
 
 - [SpringKafka Consumer 설정값으로 요리조리 테스트 해보기](https://6161990src.tistory.com/m/148)
+
+### 상구리의 기술 블로그
+
+- [`No AuthenticationProvider found for authentication.UsernamePasswordAuthenticationToken`](https://skyer9.pe.kr/wordpress/?p=9329)
 
 ---
 

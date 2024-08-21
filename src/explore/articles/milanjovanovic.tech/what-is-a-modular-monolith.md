@@ -23,7 +23,7 @@ head:
 prev: /academics/system-design/articles/README.md
 date: 2024-03-09
 isOriginal: false
-cover: https://milanjovanovic.tech/blog-covers/mnw_080.png?imwidth=1920
+cover: https://milanjovanovic.tech/blog-covers/mnw_080.png
 ---
 
 # {{ $frontmatter.title }} 관련

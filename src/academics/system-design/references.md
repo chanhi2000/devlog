@@ -279,6 +279,7 @@ head:
 - [`@2fEJ` / \[UI/UX원칙#1\]사이트 개선을 위한 12가지 방법](https://brunch.co.kr/@@2fEJ/1461)
 - [`@2fEJ` / \[UI/UX 원칙#2\] 회원 가입을 유도하는 UX전략](https://brunch.co.kr/@@2fEJ/1462)
 - [`@11Qy` / AI를 위한 UX 요소들](https://brunch.co.kr/@@11Qy/197)
+- [`@2fEJ` / \[UX리서치#1\] 5초 테스트가 첫인상에 미치는 영향  - 5초 테스트는 웹 디자인 성공의 열쇠](https://brunch.co.kr/@@2fEJ/1463)
 
 <!-- END: brunch.co.kr -->
 
@@ -317,6 +318,7 @@ head:
   - [OpenAPI 와 스웨거를 활용한 실전 API 설계 (feat. 요구사항으로 부터 도메인 모델링하기)](https://thalals.tistory.com/m/477)
   - [[한빛앤 MSA 세미나] 서비스 장애 잘 이해하고 대비하기 | 박순영](https://thalals.tistory.com/m/480)
   - [Repository는 어느 모듈에 위치해야할까? (DIP. 고수준모듈, 저수준 모듈)](https://thalals.tistory.com/m/483)
+  - [\[한빛앤 MSA 세미나\] 모니터링 | 강동호](https://thalals.tistory.com/m/484)
   <!-- END: thalas -->
 - [`hides` / Hide](https://hides.tistory.com/m/1)
   - [틴더(Tinder) 시스템 디자인](https://hides.tistory.com/m/1145)

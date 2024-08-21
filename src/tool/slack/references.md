@@ -27,4 +27,10 @@ head:
 
 ---
 
+## 기계인간 John Grib
+
+- [Slack](https://johngrib.github.io/wiki/tool/slack/)
+
+---
+
 <TagLinks />

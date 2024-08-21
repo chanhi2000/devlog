@@ -870,6 +870,7 @@ https://paperlined.org/
   name="Event-Driven by Oskar Dudycz"
   desc="Event-Driven by Oskar Dudycz"
   url="https://event-driven.io/en/"
+  logo="/images/content/event-driven.io/favicon.jfif"
   preview="https://event-driven.io/preview.jpg"/>
 
 <SiteInfo

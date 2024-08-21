@@ -70,6 +70,7 @@ head:
 - [`dradnats1012` / DB 서버 분리하기!](https://velog.io/@dradnats1012/DB-%EC%84%9C%EB%B2%84-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [`@sonaky47` / MySQL client connections program name](https://velog.io/@sonaky47/MySQL-client-connections-program-name)
 - [`@sunaookamisiroko` / MySQL varchar(255)를 사용하는 이유?](https://velog.io/@sunaookamisiroko/MySQL-varchar255%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+- [`@qkrtkdwns3410` / postgresql vs mysql 비교](https://velog.io/@qkrtkdwns3410/postgresql-vs-mysql-%EB%B9%84%EA%B5%90)
 
 <!-- END: velog.io -->
 

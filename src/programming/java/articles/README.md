@@ -12,6 +12,7 @@ tag:
   - freecodecamp.org
   - kodeco.com
   - kt.academy
+  - event-driven.io
   - yozm.wishket.com
   - meetup.nhncloud.com
   - d2.naver.com
@@ -53,6 +54,13 @@ head:
   url="https://kt.academy/article"
   logo="https://kt.academy/logo.png"
   preview="https://kt.academy/images/logo_full.png"/>
+
+<SiteInfo
+  name="Event-Driven by Oskar Dudycz"
+  desc="Event-Driven by Oskar Dudycz"
+  url="https://event-driven.io/en/"
+  logo="/images/content/event-driven.io/favicon.jfif"
+  preview="https://event-driven.io/preview.jpg"/>
 
 ```component VPCard
 {
@@ -362,6 +370,25 @@ head:
 ```
 
 <!-- END: kt.academy -->
+
+---
+
+## Event-Driven by Oskar Dudycz
+
+> event-driven.io
+<!-- 
+```component VPCard
+{
+  "title": "Writing and testing event-driven projections with Emmett, Pongo and PostgreSQL - Event-Driven.io",
+  "desc": "Writing and testing event-driven projections with Emmett, Pongo and PostgreSQL",
+  "link": "/explore/articles/event-driven.io/emmett-projections-testing.md",
+  "logo": "/images/content/event-driven.io/favicon.jfif",
+  "background": rgba(112,148,37,0.2)"
+}
+```
+-->
+
+<!-- END: event-driven.io -->
 
 ---
 

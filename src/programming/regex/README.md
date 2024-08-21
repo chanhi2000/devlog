@@ -1,10 +1,10 @@
 ---
 lang: ko-KR
-title: Regex
-description: Regex
+title: RegEx
+description: RegEx
 icon: iconfont icon-regexp
 category:
-  - Regex
+  - RegEx
 tag:
   - regex
   - regular-expression

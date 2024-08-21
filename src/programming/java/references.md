@@ -140,6 +140,13 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 27일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 - [`@dongha1992` / 99클럽 코테 스터디 27일차 - 큐](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-27%EC%9D%BC%EC%B0%A8-%ED%81%90)
 - [`@dongha1992` / 99클럽 코테 스터디 28일차 - 이진탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-28%EC%9D%BC%EC%B0%A8-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
+- [`@seochan99` / 전세계 AI 1위 대학에서 2달간 파견연구를 다녀오다(feat. 저는 주로..웹앱개발을 했는데요..) - 1(지원편)](https://velog.io/@seochan99/%EC%A0%84%EC%84%B8%EA%B3%84-AI-1%EC%9C%84-%EB%8C%80%ED%95%99%EC%97%90%EC%84%9C-2%EB%8B%AC%EA%B0%84-%ED%8C%8C%EA%B2%AC%EC%97%B0%EA%B5%AC%EB%A5%BC-%EB%8B%A4%EB%85%80%EC%98%A4%EB%8B%A4feat.-%EC%A0%80%EB%8A%94-%EC%A3%BC%EB%A1%9C..%EC%9B%B9%EC%95%B1%EA%B0%9C%EB%B0%9C%EC%9D%84-%ED%96%88%EB%8A%94%EB%8D%B0%EC%9A%94..-1%EC%A7%80%EC%9B%90%ED%8E%B8)
+- [`@dongha1992` / 99클럽 코테 스터디 29일차 - 이진탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-29%EC%9D%BC%EC%B0%A8-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
+- [`@qkrtkdwns3410` / IDE 는 어떤식으로 구문 분석을 하나?](https://velog.io/@qkrtkdwns3410/IDE-%EB%8A%94-%EC%96%B4%EB%96%A4%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EB%AC%B8-%EB%B6%84%EC%84%9D%EC%9D%84-%ED%95%98%EB%82%98)
+- [`@qkrtkdwns3410` / postgresql vs mysql 비교](https://velog.io/@qkrtkdwns3410/postgresql-vs-mysql-%EB%B9%84%EA%B5%90)
+- [`@qkrtkdwns3410` / 자바 21 가상스레드](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-21-%EA%B0%80%EC%83%81%EC%8A%A4%EB%A0%88%EB%93%9C)
+- [`@qkrtkdwns3410` / IDE 는 어떤식으로 구문 분석을 하나?](https://velog.io/@qkrtkdwns3410/IDE-%EB%8A%94-%EC%96%B4%EB%96%A4%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EB%AC%B8-%EB%B6%84%EC%84%9D%EC%9D%84-%ED%95%98%EB%82%98)
+- [`@dongha1992` / 99클럽 코테 스터디 29일차 - 이진탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-29%EC%9D%BC%EC%B0%A8-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
 
 <!-- END: velog.io java -->
 

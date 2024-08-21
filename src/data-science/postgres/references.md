@@ -69,6 +69,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@qkrtkdwns3410` / postgresql vs mysql 비교](https://velog.io/@qkrtkdwns3410/postgresql-vs-mysql-%EB%B9%84%EA%B5%90)
+
+<!-- END: velog.io -->
+
+---
+
 ## Substack
 
 - [`@bawolf` - Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point)

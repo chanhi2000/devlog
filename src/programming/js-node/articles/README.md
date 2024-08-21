@@ -15,6 +15,7 @@ tag:
   - learnk8s.io
   - tecmint.com
   - sitepoint.com
+  - event-driven.io
   - devtoolstips.org
   - yozm.wishket.com
   - tech.kakao.com
@@ -92,6 +93,23 @@ head:
   url="https://tecmint.com/"
   logo="https://tecmint.com/wp-content/uploads/2020/07/favicon.ico"
   preview="https://tecmint.com/wp-content/uploads/2022/06/tecmint-linux-blog.png"/>
+
+```component VPCard
+{
+  "title": "SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design", 
+  "desc": "Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design", 
+  "link": "https://www.sitepoint.com/javascript/", 
+  "logo": "https://www.sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
+}
+```
+
+<SiteInfo
+  name="Event-Driven by Oskar Dudycz"
+  desc="Event-Driven by Oskar Dudycz"
+  url="https://event-driven.io/en/"
+  logo="/images/content/event-driven.io/favicon.jfif"
+  preview="https://event-driven.io/preview.jpg"/>
 
 ```component VPCard
 {
@@ -544,6 +562,62 @@ head:
 
 ---
 
+## Sitepoint
+
+> sitepoint.com
+
+```component VPCard
+{
+  "title": "5 Exciting New JavaScript Features in 2024 — SitePoint",
+  "desc": "Explore some hotly anticipated new additions to JavaScript, including better date management with the Temporal API and pipe operators.",
+  "link": "/explore/articles/sitepoint.com/new-javascript-ecmascript.md",
+  "logo": "https://www.sitepoint.com/favicons/512x512.png",
+  "background": "rgba(29,32,36,0.2)"
+}
+```
+
+<!-- END: sitepoint.com -->
+
+---
+
+## Event-Driven by Oskar Dudycz
+
+> event-driven.io
+
+```component VPCard
+{
+  "title": "Pongo - Mongo but on Postgres and with strong consistency benefits - Event-Driven.io",
+  "desc": "Pongo - Mongo but on Postgres and with strong consistency benefits",
+  "link": "/explore/articles/event-driven.io/introducting-pongo.md",
+  "logo": "/images/content/event-driven.io/favicon.jfif",
+  "background": rgba(112,148,37,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Event Sourcing on PostgreSQL in Node.js just became possible with Emmett - Event-Driven.io",
+  "desc": "Event Sourcing on PostgreSQL in Node.js just became possible with Emmett",
+  "link": "/explore/articles/event-driven.io/emmett-postgresql-event-store.md",
+  "logo": "/images/content/event-driven.io/favicon.jfif",
+  "background": rgba(112,148,37,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Writing and testing event-driven projections with Emmett, Pongo and PostgreSQL - Event-Driven.io",
+  "desc": "Writing and testing event-driven projections with Emmett, Pongo and PostgreSQL",
+  "link": "/explore/articles/event-driven.io/emmett-projections-testing.md",
+  "logo": "/images/content/event-driven.io/favicon.jfif",
+  "background": rgba(112,148,37,0.2)"
+}
+```
+
+<!-- END: event-driven.io -->
+
+---
+
 ## 요즘IT
 
 > yozm.wishket.com
@@ -719,22 +793,6 @@ head:
 ```
 
 <!-- END: fe-developers.kakaoent.com -->
-
----
-
-## Sitepoint
-
-> sitepoint.com
-
-```component VPCard
-{
-  "title": "5 Exciting New JavaScript Features in 2024 — SitePoint",
-  "desc": "Explore some hotly anticipated new additions to JavaScript, including better date management with the Temporal API and pipe operators.",
-  "link": "/explore/articles/sitepoint.com/new-javascript-ecmascript.md",
-  "logo": "https://www.sitepoint.com/favicons/512x512.png",
-  "background": "rgba(29,32,36,0.2)"
-}
-```
 
 ---
 

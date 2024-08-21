@@ -175,6 +175,7 @@ head:
 - [`lemonbase` / 이거 어디까지 올라가는 거예요? - 성능 테스트 환경 구축기](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
 - [`jhk0530` / Quarto 블로그에서 여러 언어로 포스팅하기](https://jhk0530.medium.com/quarto-blog-multilanguage-e04dd562ba5c)
 - [`techtofreedom` / 8 Levels of Using Type Hints in Python](https://medium.com/techtofreedom/8-levels-of-using-type-hints-in-python-a6717e28f8fd)
+- [`chrisjune-13837` / \[개발로그\] CUDA_ERROR_SYSTEM_DRIVER_MISMATCH 이슈 해결](https://chrisjune-13837.medium.com/%EA%B0%9C%EB%B0%9C%EB%A1%9C%EA%B7%B8-cuda-error-system-driver-mismatch-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0-de8e47488b58?source=rss-e74406582b08------2)
 
 <!-- END: medium.com -->
 
@@ -737,6 +738,7 @@ head:
   - [한글 표기 가격을 만원 단위로 변환하는 Python 예제](https://webnautes.tistory.com/m/2370)
   - [Python 리스트에서 중복 원소 제거하기 `set`, `dict.fromkeys`](https://webnautes.tistory.com/m/2371)
   - [Visual Studio Code에서 외부 터미널에서 파이썬 코드 실행하기](https://webnautes.tistory.com/m/2373)
+  - [Python List sorted 와 sort 메소드 차이 및 사용 방법](https://webnautes.tistory.com/m/2377)
   <!-- END: webnautes -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/m/15)

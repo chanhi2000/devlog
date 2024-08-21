@@ -10,6 +10,7 @@ tag:
   - blog
   - freecodecamp.org
   - code-maze.com
+  - event-driven.io
   - sql
   - db
   - postgres
@@ -39,6 +40,13 @@ head:
   url="https://code-maze.com/latest-posts-on-code-maze/"
   logo="/images/content/code-maze.com/favicon.png"
   preview="/images/content/code-maze.com/banner.png"/>
+
+<SiteInfo
+  name="Event-Driven by Oskar Dudycz"
+  desc="Event-Driven by Oskar Dudycz"
+  url="https://event-driven.io/en/"
+  logo="/images/content/event-driven.io/favicon.jfif"
+  preview="https://event-driven.io/preview.jpg"/>
 
 [[toc]]
 
@@ -127,6 +135,44 @@ head:
 ```
 
 <!-- END: code-maze.com -->
+
+---
+
+## Event-Driven by Oskar Dudycz
+
+> event-driven.io
+
+```component VPCard
+{
+  "title": "Pongo - Mongo but on Postgres and with strong consistency benefits - Event-Driven.io",
+  "desc": "Pongo - Mongo but on Postgres and with strong consistency benefits",
+  "link": "/explore/articles/event-driven.io/introducting-pongo.md",
+  "logo": "/images/content/event-driven.io/favicon.jfif",
+  "background": rgba(112,148,37,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Event Sourcing on PostgreSQL in Node.js just became possible with Emmett - Event-Driven.io",
+  "desc": "Event Sourcing on PostgreSQL in Node.js just became possible with Emmett",
+  "link": "/explore/articles/event-driven.io/emmett-postgresql-event-store.md",
+  "logo": "/images/content/event-driven.io/favicon.jfif",
+  "background": rgba(112,148,37,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Writing and testing event-driven projections with Emmett, Pongo and PostgreSQL - Event-Driven.io",
+  "desc": "Writing and testing event-driven projections with Emmett, Pongo and PostgreSQL",
+  "link": "/explore/articles/event-driven.io/emmett-projections-testing.md",
+  "logo": "/images/content/event-driven.io/favicon.jfif",
+  "background": rgba(112,148,37,0.2)"
+}
+```
+
+<!-- END: event-driven.io -->
 
 ---
 

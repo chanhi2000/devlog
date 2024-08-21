@@ -96,9 +96,18 @@ head:
 
 ---
 
-## just_HS
+## tistory
 
-- [데이터베이스 이론: CAP와 BASE](https://jusths.tistory.com/m/413)
+- [`jusths` / just_HS](https://jusths.tistory.com/m/)
+  - [데이터베이스 이론: CAP와 BASE](https://jusths.tistory.com/m/413)
+  <!-- END: jusths -->
+- [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
+  - [관계형 데이터베이스 설계의 완벽 가이드: 기초부터 고급 기법까지](https://jinn-blog.tistory.com/m/188)
+  <!-- END: jinn-blog -->
+- [`weejw` / 위지원의 개발 일기 🐈](https://weejw.tistory.com/m/)
+  - [\[SQLP\] 조인 튜닝](https://weejw.tistory.com/m/627)
+  <!-- END: weejw -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -111,12 +120,6 @@ head:
 ## CrateDB: Real-time Analytics Database and Hybrid Search Engine
 
 - [Doing Hybrid Search in CrateDB](https://cratedb.com/blog/hybrid-search-explained)
-
----
-
-## 위지원의 개발 일기 🐈
-
-- [\[SQLP\] 조인 튜닝](https://weejw.tistory.com/m/627)
 
 ---
 

@@ -182,12 +182,13 @@ export const sidebarEn = sidebar({
             '/programming/java/articles/README.md',
             asb.freecodecamp("java"),
             asb.kodeco("kotlin"),
+            asb.ktAcademy("kotlin"),
+            asb.eventDriven("java"),
             asb.yozm("java"),
             asb.nhn("java"),
             asb.d2("java"),
             asb.gangnamunni("java"),
             asb.gangnamunni("kotlin"),
-            asb.ktAcademy("kotlin"),
             asb.linecorp("kotlin"),
           ]
         }
@@ -486,6 +487,8 @@ export const sidebarEn = sidebar({
             asb.learnk8s("js-node"),
             asb.milanJovanovic("js-node"),
             asb.tecmint("js-node"),
+            asb.sitepoint("js-node"),
+            asb.eventDriven("js-node"),
             asb.yozm("js-node"),
             asb.kakaoTech("js-node"),
             asb.kakaoEnt("js-node"),
@@ -1072,7 +1075,8 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("cs"), 
             asb.milanJovanovic("cs"),
             asb.johnnyreilly("cs"),
-            asb.codemaze("cs"),
+            asb.eventDriven("java"),
+            asb.eventDriven("cs"),
           ]
         }
       ]
@@ -1519,6 +1523,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/regex/articles/README.md',
             asb.freecodecamp("regex"),
+            asb.eventDriven("regex"),
           ]
         },
       ],
@@ -3016,6 +3021,7 @@ export const sidebarEn = sidebar({
             '/data-science/postgres/articles/README.md',
             asb.freecodecamp("postgres"), 
             asb.codemaze("postgres"), 
+            asb.eventDriven("postgres"),
             asb.linecorp("postgres"),
           ]
         },
@@ -3615,12 +3621,13 @@ export const sidebarEn = sidebar({
         asb.learnk8s(),
         asb.antonioleiva(),
         asb.johnnyreilly(),
-        asb.milanJovanovic(),
         asb.codemaze(),
+        asb.milanJovanovic(),
         asb.shopify(),
         asb.devtoolstips(),
         asb.piccalilli(),
         asb.sitepoint(),
+        asb.eventDriven(),
         asb.towardsdatascience(),
         asb.douggregor(), 
         asb.kakaoTech(), 

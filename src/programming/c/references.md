@@ -398,7 +398,7 @@ tag:
 
 ---
 
-## invlpg 
+## invlpg
 
 - [ANTI-CHEAT EXPERT: ALL YOUR PIXELS ARE BELONG TO US](https://invlpg.dev/post/ace_screenshots/)
 
@@ -433,6 +433,7 @@ tag:
 - [\[Do it! C언어 입문\] 10장 추가 실습 예제](https://m.blog.naver.com/tipsware/223553669022)
 
 <!-- END: tipsware.blog.naver.com -->
+
 ---
 
 ## Max Bernstein

@@ -495,9 +495,12 @@ tag:
 
 ---
 
-## 맹의 코딩 기록장
-
-- [Axios를 사용하면 왜 CORS 이슈가 생기는걸까?](https://aodtns.tistory.com/121)
+- [`aodtns` / 맹의 코딩 기록장](https://aodtns.tistory.com/m/)
+  - [Axios를 사용하면 왜 CORS 이슈가 생기는걸까?](https://aodtns.tistory.com/m/121)
+  <!-- END: aodtns -->
+- [`jacky0831` / DEV_JACKY](https://jacky0831.tistory.com/m/)
+  - [\[네이버 부스트캠프\] node.js를 한번 파보자](https://jacky0831.tistory.com/m/95)
+  <!-- END: jacky0831 -->
 
 ---
 

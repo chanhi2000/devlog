@@ -111,6 +111,7 @@ head:
 
 - [파이토치 1. 기본 자료형 텐서](http://bcho.tistory.com/m/1432)
 - [파이토치 3. 파이토치라이트닝](http://bcho.tistory.com/m/1435)
+- [파이토치 분산 학습 도구 비교](https://bcho.tistory.com/m/1437)
 
 ---
 

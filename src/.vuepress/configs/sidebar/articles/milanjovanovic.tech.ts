@@ -6,6 +6,14 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "cs", [
+      "how-to-build-a-url-shortener-with-dotnet", // 2024-01-27
+      "how-i-made-my-efcore-query-faster-with-batching", // 2024-02-03
+      "getting-the-current-user-in-clean-architecture", // 2024-02-10
+      "using-scoped-services-from-singletons-in-aspnetcore", // 2024-02-17
+      "automatically-register-minimal-apis-in-aspnetcore", // 2024-02-24
+      "lightweight-in-memory-message-bus-using-dotnet-channels", // 2024-03-02
+      "implementing-soft-delete-with-ef-core", // 2024-03-16
+      "fast-sql-bulk-inserts-with-csharp-and-ef-core", // 2024-03-23
       "horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing", // 2024-03-30
       "master-claims-transformation-for-flexible-aspnetcore-authorization", // 2024-04-06
       "a-clever-way-to-implement-pessimistic-locking-in-ef-core", // 2024-04-13
@@ -44,7 +52,15 @@ export const template: SidebarInfoTemplate = {
       "what-is-a-modular-monolith", // 2024-03-09
     ]],[
     "all", [
+      "how-to-build-a-url-shortener-with-dotnet", // 2024-01-27
+      "how-i-made-my-efcore-query-faster-with-batching", // 2024-02-03
+      "getting-the-current-user-in-clean-architecture", // 2024-02-10
+      "using-scoped-services-from-singletons-in-aspnetcore", // 2024-02-17
+      "automatically-register-minimal-apis-in-aspnetcore", // 2024-02-24
+      "lightweight-in-memory-message-bus-using-dotnet-channels", // 2024-03-02
       "what-is-a-modular-monolith", // 2024-03-09
+      "implementing-soft-delete-with-ef-core", // 2024-03-16
+      "fast-sql-bulk-inserts-with-csharp-and-ef-core", // 2024-03-23
       "horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing", // 2024-03-30
       "master-claims-transformation-for-flexible-aspnetcore-authorization", // 2024-04-06
       "a-clever-way-to-implement-pessimistic-locking-in-ef-core", // 2024-04-13

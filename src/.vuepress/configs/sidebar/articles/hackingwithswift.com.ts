@@ -1595,15 +1595,22 @@ export const template: SidebarGroupItem = {
         icon: 'fa-brands fa-swift',
         children: [
           '/explore/articles/hackingwithswift.com/example-code/README.md',
-          /*
           {
             text: 'Accessibility',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/example-code/accessibitlity/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/accessibility/how-to-fix-incorrect-voiceover-pronunciations.md',
+              '/explore/articles/hackingwithswift.com/example-code/accessibility/how-to-help-voiceover-read-specific-kinds-of-text-using-accessibilitytextualcontext.md',
+            ]
+          }, {
+            text: 'ARKit',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/arkit/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/arkit/how-to-detect-images-using-arimagetrackingconfiguration.md',
             ]
           }
-          */
         ]
       }
     ]

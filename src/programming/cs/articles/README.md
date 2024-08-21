@@ -13,6 +13,7 @@ tag:
   - milanjovanovic.tech
   - johnnyreilly.com
   - code-maze.com
+  - event-driven.io
   - cs
   - c#
   - csharp
@@ -59,6 +60,13 @@ head:
   url="https://code-maze.com/latest-posts-on-code-maze/"
   logo="/images/content/code-maze.com/favicon.png"
   preview="/images/content/code-maze.com/banner.png"/>
+
+<SiteInfo
+  name="Event-Driven by Oskar Dudycz"
+  desc="Event-Driven by Oskar Dudycz"
+  url="https://event-driven.io/en/"
+  logo="/images/content/event-driven.io/favicon.jfif"
+  preview="https://event-driven.io/preview.jpg"/>
 
 [[toc]]
 
@@ -125,6 +133,86 @@ head:
 ## Milan Jovanović | Helping You Become a Better .NET Engineer
 
 > milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "How to Build a URL Shortener With .NET",
+  "desc": "A URL shortener is a simple yet powerful tool that converts long URLs into more manageable, shorter versions. Today, I'll guide you through the design, implementation, and considerations for creating your URL shortener in .NET",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-build-a-url-shortener-with-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How I Made My EF Core Query 3.42x Faster With Batching",
+  "desc": "EF Core is a fantastic ORM if you're building .NET applications. Today, I'll show you a simple idea I used to get an almost 4x performance improvement.",
+  "link": "/explore/articles/milanjovanovic.tech/how-i-made-my-efcore-query-faster-with-batching.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting the Current User in Clean Architecture",
+  "desc": "The applications you build serve your users (customers), to help them solve some problems. It's a common requirement that you will need to know who the current application user is.",
+  "link": "/explore/articles/milanjovanovic.tech/getting-the-current-user-in-clean-architecture.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Using Scoped Services From Singletons in ASP.NET Core",
+  "desc": "Did you ever need to inject a scoped service into a singleton service? I'll explain how you can solve this problem and safely use scoped services from within singletons in ASP.NET Core.",
+  "link": "/explore/articles/milanjovanovic.tech/using-scoped-services-from-singletons-in-aspnetcore.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Automatically Register Minimal APIs in ASP.NET Core",
+  "desc": "In ASP.NET Core applications using Minimal APIs, registering each API endpoint with app.MapGet, app.MapPost, etc. can introduce repetitive code. Today, I'll show you how to automatically register your Minimal APIs with a simple abstraction.",
+  "link": "/explore/articles/milanjovanovic.tech/automatically-register-minimal-apis-in-aspnetcore.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Lightweight In-Memory Message Bus Using .NET Channels",
+  "desc": "Suppose you're building a modular monolith, a type of software architecture where different components are organized into loosely coupled modules. Or you might need to process data asynchronously. You'll need a tool or service that allows you to implement this.",
+  "link": "/explore/articles/milanjovanovic.tech/lightweight-in-memory-message-bus-using-dotnet-channels.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Implementing Soft Delete With EF Core",
+  "desc": "A soft delete is a data persistence strategy that prevents the permanent deletion of records from your database. Today, we'll dive into the details of how to implement soft deletes using EF Core.",
+  "link": "/explore/articles/milanjovanovic.tech/implementing-soft-delete-with-ef-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Fast SQL Bulk Inserts With C# and EF Core",
+  "desc": "Explore various methods for fast bulk inserts in SQL with C# and EF Core, highlighting techniques like Dapper, EF Core optimizations, EF Core Bulk Extensions, and SQL Bulk Copy.",
+  "link": "/explore/articles/milanjovanovic.tech/fast-sql-bulk-inserts-with-csharp-and-ef-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
 
 ```component VPCard
 {
@@ -2113,6 +2201,24 @@ head:
 ```
 
 <!-- END: code-maze.com -->
+
+---
+
+## Event-Driven by Oskar Dudycz
+
+> event-driven.io
+
+```component VPCard
+{
+  "title": "Filtering EventStoreDB subscriptions by event types - Event-Driven.io",
+  "desc": "Filtering EventStoreDB subscriptions by event types",
+  "link": "/explore/articles/event-driven.io/filtering-eventstoredb-subscriptions-by-event-types.md",
+  "logo": "/images/content/event-driven.io/favicon.jfif",
+  "background": rgba(112,148,37,0.2)"
+}
+```
+
+<!-- END: event-driven.io -->
 
 ---
 

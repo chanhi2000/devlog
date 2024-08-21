@@ -192,6 +192,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What is CSS Subgrid? A Practical Tutorial",
+  "desc": "When designers create layouts in their mockups, everything including the content typically looks perfectly aligned and consistent. But in the real world, user-generated content varies wildly. For example, one testimonial card might have a brief sente...",
+  "link": "/explore/articles/freecodecamp.org/what-is-css-subgrid.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

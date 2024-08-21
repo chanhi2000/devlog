@@ -4618,5 +4618,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/108571922?v=4",
     "banner": ""
+  }, {
+    "repo": "midday-ai/midday",
+    "desc": "Run your business smarter 🪄",
+    "officialSite": "https://midday.ai",
+    "topics": ["finance", "nextjs", "supabase", "tailwind", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/145366395?v=4",
+    "banner": ""
   }
 ]

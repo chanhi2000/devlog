@@ -147,6 +147,7 @@ export const template: SidebarInfoTemplate = {
       "media-queries-vs-container-queries", // 2024-06-28
       "create-24-css-projects", // 2024-07-17
       "build-a-bitcoin-to-usd-calculator", // 2024-07-22
+      "what-is-css-subgrid", // 2024-08-21
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
@@ -653,6 +654,7 @@ export const template: SidebarInfoTemplate = {
       "git-cheat-sheet-helpful-git-commands-with-examples", // 2024-08-20
       "how-to-effectively-manage-unique-identifiers-at-scale", // 2024-08-20
       "how-to-build-good-coding-habits", // 2024-08-20
+      "what-is-css-subgrid", // 2024-08-21
     ]],
   ]),
 }
