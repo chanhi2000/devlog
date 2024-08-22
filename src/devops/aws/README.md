@@ -4,10 +4,11 @@ title: AWS
 description: AWS
 icon: fa-brands fa-aws
 category:
-  - AWS
-  - Amazon
   - DevOps
+  - Amazon
+  - AWS
 tag:
+  - devops
   - aws
   - amazon-web-services
 ---

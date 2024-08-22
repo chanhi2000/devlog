@@ -2,7 +2,7 @@
 lang: ko-KR
 title: "How to Effectively Manage Unique Identifiers at Scale: From GUIDs to Snowflake IDs and Other Modern Solutions"
 description: "Article(s) > How to Effectively Manage Unique Identifiers at Scale: From GUIDs to Snowflake IDs and Other Modern Solutions"
-icon: fa-brands fa-js
+icon: fas fa-pen-ruler
 category: 
   - Design
   - System

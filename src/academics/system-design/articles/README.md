@@ -193,6 +193,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Create Software Architecture Diagrams Using the C4 Model",
+  "desc": "As a developer, you'll likely work on a complex project at some point where deciphering the codebase feels like reading a whole novel. Engineers are code wizards, but even the best get lost in sprawling code. The challenge is that architecture diagra...",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-software-architecture-diagrams-using-the-c4-mode.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

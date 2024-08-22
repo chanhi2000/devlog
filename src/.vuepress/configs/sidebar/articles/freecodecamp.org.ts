@@ -77,6 +77,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-implement-message-queues-in-your-backend-applications", // 2024-08-14
       "learn-ml5js-for-machine-learning-in-javascript", // 2024-08-14
       "how-to-read-and-write-files-with-nodejs", // 2024-08-19
+      "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -281,6 +282,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions", // 2024-07-15
       "pass-the-github-advanced-security-certification-exam", // 2024-07-17
       "host-your-first-project-on-github", // 2024-08-08
+      "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
     ]],[
     "macos", [
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
@@ -312,6 +314,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
       "ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown", // 2024-08-12
       "simplify-aws-multi-account-management", // 2024-08-13
+      "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
     ]],[
     "azure", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -383,6 +386,7 @@ export const template: SidebarInfoTemplate = {
       "learn-system-design-principles", // 2024-07-25
       "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
       "how-to-effectively-manage-unique-identifiers-at-scale", // 2024-08-20
+      "how-to-create-software-architecture-diagrams-using-the-c4-mode", // 2024-08-21
     ]],[
     "pm", [
       "what-is-trunk-based-development", // 2024-06-18
@@ -655,6 +659,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-effectively-manage-unique-identifiers-at-scale", // 2024-08-20
       "how-to-build-good-coding-habits", // 2024-08-20
       "what-is-css-subgrid", // 2024-08-21
+      "how-to-create-software-architecture-diagrams-using-the-c4-mode", // 2024-08-21
+      "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
     ]],
   ]),
 }

@@ -1658,5 +1658,33 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/7284063?v=4",
     "banner": ""
+  }, {
+    "repo": "Wren6991/PicoDVI",
+    "desc": "Bitbanged DVI on the RP2040 Microcontroller",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1298595?v=4",
+    "banner": ""
+  }, {
+    "repo": "mpv-player/mpv",
+    "desc": "🎥 Command line video player",
+    "officialSite": "https://mpv.io",
+    "topics": ["audio", "c", "ffmpeg", "hacktoberfest", "libav", "mplayer", "mpv", "multimedia", "video"],
+    "avatar": "https://avatars.githubusercontent.com/u/2550273?v=4",
+    "banner": ""
+  }, {
+    "repo": "jbreckmckye/notris",
+    "desc": "Tetris clone for PlayStation 1 (PSX)",
+    "officialSite": "",
+    "topics": ["c", "game", "playstation", "playstation-homebrew", "ps1", "psnoobsdk", "psone", "psone-game", "psx", "retrogaming", "tetris-clone"],
+    "avatar": "https://avatars.githubusercontent.com/u/3148617?v=4",
+    "banner": ""
+  }, {
+    "repo": "microsoft/mimalloc",
+    "desc": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "banner": ""
   }
 ]

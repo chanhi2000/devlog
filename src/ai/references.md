@@ -91,6 +91,7 @@ head:
 - [`@2YWz` / AI시대, 데이터베이스 분야의 최신 전망](https://brunch.co.kr/@@2YWz/118)
 - [`@2rV` / 생성형 AI와 창의성 - 단편 소설 쓰기에서의 대규모 실증 연구 분석](https://brunch.co.kr/@@2rV/159)
 - [`@2weV` / AI, 그리고 서비스 스타트업](https://brunch.co.kr/@@2weV/537)
+- [`@2weV` / AI와 시너지를 낼 수 있는 산업](https://brunch.co.kr/@@2weV/541)
 
 <!-- END: brunch.co.kr -->
 

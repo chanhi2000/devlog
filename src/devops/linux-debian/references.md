@@ -375,6 +375,9 @@ tag:
 ## 상구리의 기술 블로그
 
 - [Ubuntu – 주기적인 서비스 재시작](https://skyer9.pe.kr/wordpress/?p=9242)
+- [A start job is running for wait for network to be configured](https://skyer9.pe.kr/wordpress/?p=9331)
+
+<!-- END: skyer9.pe.kr -->
 
 ---
 

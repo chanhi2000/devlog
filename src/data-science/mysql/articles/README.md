@@ -109,6 +109,28 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "CHAR vs. VARCHAR, 언제 어떻게 써야 할까? | 요즘IT",
+  "desc": "CHAR vs. VARCHAR, 언제 어떻게 써야 할까?",
+  "link": "/explore/articles/yozm.wishket.com/2717.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "VARCHAR vs. TEXT, 뭐가 다를까? | 요즘IT",
+  "desc": "VARCHAR vs. TEXT, 뭐가 다를까?",
+  "link": "/explore/articles/yozm.wishket.com/2726.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
+
 ---
 
 ## Blog - LINE ENGINEERING
@@ -124,6 +146,8 @@ head:
   "background": "rgba(31,31,31,0.2)"
 }
 ```
+
+<!-- END: engineering.linecorp.com -->
 
 ---
 

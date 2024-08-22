@@ -288,6 +288,7 @@ tag:
 - [`@2rV` / Perplexity 창업자가 바라본 빅테크 창업자 - 구글, 메타, 아마존, 테슬라 창업자, 엔비디아 젠슨 황에 대하여](https://brunch.co.kr/@@2rV/161)
 - [`@ZVA` / 나이키 전략에 비친 데이터 드리븐 전략의 딜레마](https://brunch.co.kr/@@ZVA/715)
 - [`@ZVA` / 기로에선 코스모스, 다시 앞서 나가기 위한 조건](https://brunch.co.kr/@@ZVA/716)
+- [`@2rV` / 2024년 구글 검색엔진 반독점 소송 관련](https://brunch.co.kr/@@2rV/174)
 
 <!-- END: brunch.co.kr -->
 

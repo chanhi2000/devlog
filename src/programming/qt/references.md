@@ -49,6 +49,7 @@ head:
   - [정수를 읽어서 한글로 변환해주는 pyQt5 예제](https://webnautes.tistory.com/m/2376)
   - [pyQt5 QSlider 예제](https://webnautes.tistory.com/m/2378)
   - [pyQt5 윈도우를 화면의 중앙에 배치하기](https://webnautes.tistory.com/m/2336)
+  - [pyQt5로 만든 이미지 뷰어](https://webnautes.tistory.com/m/2379)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

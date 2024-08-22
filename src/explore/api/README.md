@@ -1210,6 +1210,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+```component VPCard
+{
+  "title": "Structurizr",
+  "desc": "Visualise, document and explore your software architecture with Structurizr",
+  "link": "https://structurizr.com/",
+  "logo": "https://static.structurizr.com/img/favicon.png",
+  "background": "rgba(8,66,123,0.2)"
+}
+```
+
 https://cgbookcase.com/
 https://ambientcg.com/
 https://blenderkit.com/

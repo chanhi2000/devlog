@@ -59,6 +59,7 @@ head:
 
 - [`@composite` / Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
 - [`@winterlood` / 한 입 크기로 잘라먹는 Next.js(15+) 사전등록 이벤트 안내](https://velog.io/@winterlood/%ED%95%9C-%EC%9E%85-%ED%81%AC%EA%B8%B0%EB%A1%9C-%EC%9E%98%EB%9D%BC%EB%A8%B9%EB%8A%94-Next.js15)
+- [`@ansrjsdn` / NextJS 12 에서 14로 업데이트 하면서 간단한 꿀팁](https://velog.io/@ansrjsdn/NextJS-12-%EC%97%90%EC%84%9C-14%EB%A1%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EB%A9%B4%EC%84%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%BF%80%ED%8C%81)
 
 <!-- END: velog.io -->
 

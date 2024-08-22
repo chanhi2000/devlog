@@ -404,4 +404,10 @@ tag:
 
 ---
 
+## SergeantBiggs Blog
+
+- [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
+
+---
+
 <TagLinks />

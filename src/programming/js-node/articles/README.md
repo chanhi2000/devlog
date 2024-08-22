@@ -390,6 +390,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build a Serverless CRUD REST API with the Serverless Framework, Node.js, and GitHub Actions",
+  "desc": "Serverless computing emerged as a response to the challenges of traditional server-based architectures. With serverless, developers no longer need to manage or scale servers manually. Instead, cloud providers handle infrastructure management, allowin...",
+  "link": "/explore/articles/freecodecamp.org/how-to-build-a-serverless-crud-rest-api.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

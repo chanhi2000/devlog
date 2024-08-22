@@ -1599,7 +1599,7 @@ export const template: SidebarGroupItem = {
             text: 'Accessibility',
             collapsible: true,
             children: [
-              '/explore/articles/hackingwithswift.com/example-code/accessibitlity/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/accessibility/README.md',
               '/explore/articles/hackingwithswift.com/example-code/accessibility/how-to-fix-incorrect-voiceover-pronunciations.md',
               '/explore/articles/hackingwithswift.com/example-code/accessibility/how-to-help-voiceover-read-specific-kinds-of-text-using-accessibilitytextualcontext.md',
             ]
@@ -1609,6 +1609,22 @@ export const template: SidebarGroupItem = {
             children: [
               '/explore/articles/hackingwithswift.com/example-code/arkit/README.md',
               '/explore/articles/hackingwithswift.com/example-code/arkit/how-to-detect-images-using-arimagetrackingconfiguration.md',
+            ]
+          }, {
+            text: 'Array',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/arrays/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-count-objects-in-a-set-using-nscountedset.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-enumerate-items-in-an-array.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-find-an-item-in-an-array-using-firstindexof.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-loop-through-an-array-in-reverse.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-loop-through-items-in-an-array.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-randomize-the-order-of-an-array-shuffle-and-shuffled.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-shuffle-an-array-using-arc4random-uniform.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-sort-an-array-using-sort.md',
+              '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-tell-if-an-array-contains-an-object.md',
             ]
           }
         ]

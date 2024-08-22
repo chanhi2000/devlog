@@ -147,6 +147,7 @@ tag:
 - [`@qkrtkdwns3410` / 자바 21 가상스레드](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-21-%EA%B0%80%EC%83%81%EC%8A%A4%EB%A0%88%EB%93%9C)
 - [`@qkrtkdwns3410` / IDE 는 어떤식으로 구문 분석을 하나?](https://velog.io/@qkrtkdwns3410/IDE-%EB%8A%94-%EC%96%B4%EB%96%A4%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EB%AC%B8-%EB%B6%84%EC%84%9D%EC%9D%84-%ED%95%98%EB%82%98)
 - [`@dongha1992` / 99클럽 코테 스터디 29일차 - 이진탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-29%EC%9D%BC%EC%B0%A8-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
+- [`@dongha1992` / 99클럽 코테 스터디 30일차 - bfs](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-30%EC%9D%BC%EC%B0%A8-bfs)
 
 <!-- END: velog.io java -->
 
@@ -643,6 +644,10 @@ tag:
 ### 개발자 박진 블로그
 
 - [SOLID 원칙: 객체 지향 프로그래밍의 기반](https://jinn-blog.tistory.com/m/178)
+
+### Zerohertz
+
+- [Java (2)](https://zerohertz.github.io/java-2/)
 
 ---
 

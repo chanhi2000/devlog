@@ -12,6 +12,7 @@ export const template: SidebarInfoTemplate = {
     "js-react", [
       "230720-react-query", // 2023-07-20
       "240116-common-component", // 2024-01-16
+      "240715-handling-file-variables", // 2024-07-15
     ]],[
     "js-next", [
       "240418-optimizing-nextjs-cache", // 2024-05-03
@@ -25,6 +26,7 @@ export const template: SidebarInfoTemplate = {
       "230816-backstopjs-vrt2", // 2023-09-01
       "240116-common-component", // 2024-01-16
       "240418-optimizing-nextjs-cache", // 2024-05-03
+      "240715-handling-file-variables", // 2024-07-15
     ]],
   ]),
 }

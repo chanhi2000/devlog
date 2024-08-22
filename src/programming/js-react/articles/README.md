@@ -817,6 +817,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "파일 변수 Deep-Dive | 카카오엔터테인먼트 FE 기술블로그",
+  "desc": "파일 변수가 무엇인지 알아보고, 어떻게 활용할 수 있는지 알아봅니다.",
+  "link": "/explore/articles/fe-developers.kakaoent.com/240715-handling-file-variables.md",
+  "logo": "https://fe-developers.kakaoent.com/favicon-32x32.png?v=44803cb16c1e2debd3984cf2e8cb2ded",
+  "background": "rgba(254,189,1,0.2)"
+}
+```
+
 <!-- END: fe-developers.kakaoent.com -->
 
 ---

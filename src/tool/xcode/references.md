@@ -126,4 +126,10 @@ head:
 
 ---
 
+## WONIZZ.LOG
+
+- [\[DevOps\] IOS 빌드 파이프라인 구성](https://blog.wonizz.com/2024/08/21/devops-ios-build-pipeline/)
+
+---
+
 <TagLinks />

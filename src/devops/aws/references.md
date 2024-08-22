@@ -191,6 +191,7 @@ head:
 ## All Things Distributed
 
 - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+- [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 
 ---
 
@@ -521,6 +522,7 @@ head:
 - [AWS ECS(Elastic Container Service) Setup](https://junhyunny.github.io/aws/aws-ecs-service-setup/)
 - [AWS ECR(Elastic Container Registry) Setup](https://junhyunny.github.io/aws/aws-ecr-setup/)
 - [Connect AWS ECS and RDS](https://junhyunny.github.io/aws/connect-aws-ecs-and-rds/)
+- [EC2 SSH Tunnel for RDS connection](https://junhyunny.github.io/aws/ec2-ssh-tunnel-for-rds-connection/)
 
 ---
 
@@ -534,5 +536,6 @@ head:
 
 - [Developer guide to Swift AWS Lambdas](https://www.polpiella.dev/developer-guide-to-swift-aws-lambdas)
 
+---
 
 <TagLinks />

@@ -104,4 +104,12 @@ tag:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [A start job is running for wait for network to be configured](https://skyer9.pe.kr/wordpress/?p=9331)
+
+<!-- END: skyer9.pe.kr -->
+
+---
+
 <TagLinks />

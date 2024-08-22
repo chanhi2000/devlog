@@ -193,6 +193,9 @@ head:
   - [[Typescript] builder 패턴 남용 금지](https://puleugo.tistory.com/m/188)
   - [\[번역\] 방금 당신이 작성한 코드는 도메인 로직인가? | What is domain logic?](https://puleugo.tistory.com/m/204)
   <!-- END: puleugo -->
+- [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
+  - [\[TypeScript\] infer를 이용해 배열의 구성요소 타입 추출하기](https://kesakiyo.tistory.com/m/entry/TypeScript-infer%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%B0%B0%EC%97%B4%EC%9D%98-%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C-%ED%83%80%EC%9E%85-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0)
+  <!-- END: kesakiyo -->
 <!-- END: tistory.com -->
 
 ---

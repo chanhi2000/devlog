@@ -494,4 +494,10 @@ head:
 
 ---
 
+## Kendrick B Jung's Blog
+
+- [월 20달러로 고용하는 AI 변호사 with 챗GPT](https://sonim1.com/ko/blog/review-ai-lawyer-with-chatgpt/)
+
+---
+
 <TagLinks />

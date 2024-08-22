@@ -2456,5 +2456,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/177444070?v=4",
     "banner": ""
+  }, {
+    "repo": "grafana/k6",
+    "desc": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "officialSite": "",
+    "topics": ["es6", "go", "golang", "hacktoberfest", "javascript", "load-generator", "load-testing", "performance"],
+    "avatar": "https://avatars.githubusercontent.com/u/7195757?v=4",
+    "banner": ""
   }
 ]

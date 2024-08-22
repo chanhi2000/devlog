@@ -280,6 +280,7 @@ head:
 - [`@2fEJ` / \[UI/UX 원칙#2\] 회원 가입을 유도하는 UX전략](https://brunch.co.kr/@@2fEJ/1462)
 - [`@11Qy` / AI를 위한 UX 요소들](https://brunch.co.kr/@@11Qy/197)
 - [`@2fEJ` / \[UX리서치#1\] 5초 테스트가 첫인상에 미치는 영향  - 5초 테스트는 웹 디자인 성공의 열쇠](https://brunch.co.kr/@@2fEJ/1463)
+- [`@2hV3` / UX, UI, UX/UI, 프로덕트 디자이너의 차이? - 디자인 직군의 변화와 진화, 나는 어디에 해당될까?](https://brunch.co.kr/@@2hV3/244)
 
 <!-- END: brunch.co.kr -->
 

@@ -244,5 +244,12 @@
     "topics": ["api", "api-gateway", "api-management", "apigateway", "apis", "apisix", "cloud-native", "devops", "docker", "iot", "kubernetes", "kubernetes-ingress", "kubernetes-ingress-controller", "loadbalancing", "luajit", "microservices", "nginx", "reverse-proxy", "serverless", "service-mesh"],
     "avatar": "https://avatars.githubusercontent.com/u/47359?v=4",
     "banner": ""
+  }, {
+    "repo": "pragtical/pragtical",
+    "desc": "The practical and pragmatic code editor.",
+    "officialSite": "https://pragtical.dev",
+    "topics": ["code", "cross-platform", "editor", "liteweight", "luajit", "sdl"],
+    "avatar": "https://avatars.githubusercontent.com/u/134111137?v=4",
+    "banner": ""
   }
 ]

@@ -254,6 +254,7 @@ head:
   <!-- END: cori -->
 - [`soohey` / 개발 아카이빙](https://soohey.tistory.com/m/)
   - [벤치마크 데이터셋에 대해](https://soohey.tistory.com/m/86)
+  - [실전 LLM chp1](https://soohey.tistory.com/m/87)
   <!-- END: soohey -->
 
 <!-- END: tistory.com -->

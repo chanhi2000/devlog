@@ -2224,5 +2224,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/82039556?v=4",
     "banner": ""
+  }, {
+    "repo": "google/flatbuffers",
+    "desc": "FlatBuffers: Memory Efficient Serialization Library",
+    "officialSite": "https://flatbuffers.dev/",
+    "topics": ["c", "c-plus-plus", "c-sharp", "cross-platform", "flatbuffers", "go", "grpc", "java", "javascript", "json-parser", "marshalling", "mmap", "protobuf", "python", "rpc", "rust", "serialization", "serialization-library", "typescript", "zero-copy"],
+    "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "banner": ""
+  }, {
+    "repo": "zen-browser/desktop",
+    "desc": "🌀 Experience tranquillity while browsing the web without people tracking you!",
+    "officialSite": "https://zen-browser.app",
+    "topics": ["firefox", "firefox-based", "firefox-browser"],
+    "avatar": "https://avatars.githubusercontent.com/u/165225155?v=4",
+    "banner": ""
   }
 ]

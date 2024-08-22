@@ -129,4 +129,10 @@ head:
 
 ---
 
+## 어쩐지 오늘은
+
+- [데이터 분석가 로드맵(프로덕트 분석가)을 만들며 했던 생각들](https://zzsza.github.io/diary/2024/08/21/product-analyst-roadmap/)
+
+---
+
 <TagLinks />

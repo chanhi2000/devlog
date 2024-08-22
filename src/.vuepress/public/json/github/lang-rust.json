@@ -1488,10 +1488,10 @@
     "banner": ""
   }, {
     "repo": "astral-sh/uv",
-    "desc": "An extremely fast Python package installer and resolver, written in Rust.",
-    "officialSite": "https://astral.sh/",
+    "desc": "An extremely fast Python package and project manager, written in Rust.",
+    "officialSite": "https://docs.astral.sh/uv",
     "topics": [],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/115962839?v=4",
     "banner": ""
   }, {
     "repo": "scroll-tech/scroll-prover",
