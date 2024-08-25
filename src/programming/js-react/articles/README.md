@@ -523,6 +523,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Create a MacOS App with React Native",
+  "desc": "Single-Page Applications (SPAs) have been growing in popularity as people become accustomed to better user experiences and improved application responsiveness. This is in part thanks to the introduction of Client-Side Routing (CSR). CSR enables navig...",
+  "link": "/explore/articles/freecodecamp.org/create-a-macos-app-with-react-native.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

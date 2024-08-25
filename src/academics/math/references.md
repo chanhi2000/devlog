@@ -428,6 +428,7 @@ head:
 - [수학 위시리스트](https://lazymatlab.tistory.com/m/270)
 - [Every vector space has a basis.](https://lazymatlab.tistory.com/m/282)
 - [자연수의 서수와 기수](https://lazymatlab.tistory.com/m/283)
+- [테일러 급수의 수렴 조건](https://lazymatlab.tistory.com/m/291)
 
 ---
 

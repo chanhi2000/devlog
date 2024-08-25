@@ -119,6 +119,7 @@ export const template: SidebarInfoTemplate = {
       "build-a-sticky-notes-app-with-react-and-appwrite", // 2024-07-25
       "react-common-mistakes", // 2024-08-06
       "relative-vs-dynamic-routing-in-react", // 2024-08-12
+      "create-a-macos-app-with-react-native", // 2024-08-22
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -402,6 +403,7 @@ export const template: SidebarInfoTemplate = {
       "generative-models-for-data-augmentation", // 2024-07-26
       "prompt-engineering-basics", // 2024-07-29
       "how-to-build-an-ai-model-for-predicting-data-with-python", // 2024-08-08
+      "how-to-future-proof-your-software-engineering-career-for-the-age-of-agi", // 2024-08-23
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -409,6 +411,9 @@ export const template: SidebarInfoTemplate = {
       "building-intelligent-apps-with-mistral-ai", // 2024-06-18
       "learn-rag-fundamentals-and-advanced-techniques", // 2024-08-01
       "a-beginners-guide-to-large-language-models", // 2024-08-15
+    ]],[
+    "gemini", [
+      "learn-to-use-the-gemini-ai-multimodal-model", // 2024-08-22
     ]],[
     "claude", [
       "how-to-generate-financial-press-reviews-using-ai", // 2024-08-20
@@ -661,6 +666,9 @@ export const template: SidebarInfoTemplate = {
       "what-is-css-subgrid", // 2024-08-21
       "how-to-create-software-architecture-diagrams-using-the-c4-mode", // 2024-08-21
       "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
+      "learn-to-use-the-gemini-ai-multimodal-model", // 2024-08-22
+      "create-a-macos-app-with-react-native", // 2024-08-22
+      "how-to-future-proof-your-software-engineering-career-for-the-age-of-agi", // 2024-08-23
     ]],
   ]),
 }

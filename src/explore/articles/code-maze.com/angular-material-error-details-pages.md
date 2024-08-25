@@ -69,6 +69,8 @@ In this article, we are going to create the error pages and the details componen
 
 We are going to create the Not-Found component, the Server-Error component, and finally the Owner-Details component. Through these components, we will learn how to use different Angular Material components in our project.
 
+::: details
+
 ```component VPCard
 {
   "title": "Getting Started With Angular Material",
@@ -99,7 +101,15 @@ We are going to create the Not-Found component, the Server-Error component, and 
 }
 ```
 
-- Angular Material Progress Bar, Spinner, CheckBox, Card, Select, Expansion Panel (Current article)
+```component VPCard
+{
+  "title": "Angular Material – Error and Details Pages With Material Components",
+  "desc": "In this article we create different pages by using Angular Material Progress Bar, Spinner, Check Box, Card, Select and Expansion Panel Components.",
+  "link": "/explore/articles/code-maze.com/angular-material-error-details-pages.md",
+  "logo": "/images/content/code-maze.com/favicon.png",
+  "background": "rgba(22,22,22,0.2)"
+}
+```
 
 ```component VPCard
 {
@@ -110,6 +120,8 @@ We are going to create the Not-Found component, the Server-Error component, and 
   "background": "rgba(22,22,22,0.2)"
 }
 ```
+
+:::
 
 For the complete navigation and all the basic instructions of the Angular Material series, check out: [Introduction of the Angular Material series.](https://code-maze.com/angular-material-series/)
 

@@ -10,6 +10,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - yozm.wishket.com
   - helloworld.kurly.com
   - ai
@@ -30,6 +31,13 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
 ```component VPCard
 {
   "title": "요즘IT", 
@@ -40,7 +48,32 @@ head:
 }
 ```
 
+<SiteInfo
+  name="컬리 기술 블로그"
+  desc="컬리 기술 블로그"
+  url="https://helloworld.kurly.com/"
+  logo="https://helloworld.kurly.com/assets/logo/ico_192.png"
+  preview="http://thefarmersfront.github.io/assets/logo-square.png"/>
+
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "Learn to Use the Gemini AI MultiModal Model",
+  "desc": "Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...",
+  "link": "/explore/articles/freecodecamp.org/learn-to-use-the-gemini-ai-multimodal-model.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

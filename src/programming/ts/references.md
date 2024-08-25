@@ -172,6 +172,10 @@ head:
 - [`@dongha1992` / \[PCCP 기출문제\] 2번 / 석유 시추](https://velog.io/@dongha1992/PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-2%EB%B2%88-%EC%84%9D%EC%9C%A0-%EC%8B%9C%EC%B6%94)
 - [`@dongha1992` / [프로그래머스] 단어 변환](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98)
 - [`@sehyunny` / (번역) 타입스크립트에 대한 다른 접근법](https://velog.io/@sehyunny/a-diff-way-to-think-about-ts)
+- [`@ksh4704` / TypeScript 공부(1)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%801)
+- [`@ksh4704` / TypeScript 공부(2)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%802)
+- [`@ksh4704` / TypeScript 공부(3)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%803)
+- [`@ksh4704` / TypeScript 공부(4)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%804)
 
 <!-- END: velog.io -->
 

@@ -32,5 +32,13 @@ head:
 
 ---
 
+## tistory
+
+- [`jusths` / just_HS](https://jusths.tistory.com/m/)
+  - [터미널에서 Jira 빠르게 열기](https://jusths.tistory.com/m/421)
+  <!-- END: jusths -->
+<!-- END: tistory.com -->
+
+---
 
 <TagLinks />

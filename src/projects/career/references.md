@@ -148,6 +148,7 @@ tag:
 - [`@wjsdj2009` / 비전공자 백엔드 취업 성공! 준비기간 1년 6개월! 과정부터 결과까지 싹 다 공개!](https://velog.io/@wjsdj2009/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%84%B1%EA%B3%B5-%EC%A4%80%EB%B9%84%EA%B8%B0%EA%B0%84-1%EB%85%84-6%EA%B0%9C%EC%9B%94-%EA%B3%BC%EC%A0%95%EB%B6%80%ED%84%B0-%EA%B2%B0%EA%B3%BC%EA%B9%8C%EC%A7%80-%EC%8B%B9-%EB%8B%A4-%EA%B3%B5%EA%B0%9C)
 - [`@composite` / SI는 말이야.](https://velog.io/@composite/SI%EB%8A%94-%EB%A7%90%EC%9D%B4%EC%95%BC)
 - [`@prayme` / 이직 고민기](https://velog.io/@prayme/%EC%9D%B4%EC%A7%81-%EA%B3%A0%EB%AF%BC%EA%B8%B0)
+- [`@jaehyun_ground` / 첫 면접을 다녀오고](https://velog.io/@jaehyun_ground/%EC%B2%AB-%EB%A9%B4%EC%A0%91%EC%9D%84-%EB%8B%A4%EB%85%80%EC%98%A4%EA%B3%A0)
 
 <!-- END: velog.io -->
 
@@ -289,6 +290,9 @@ tag:
 - [`@ZVA` / 나이키 전략에 비친 데이터 드리븐 전략의 딜레마](https://brunch.co.kr/@@ZVA/715)
 - [`@ZVA` / 기로에선 코스모스, 다시 앞서 나가기 위한 조건](https://brunch.co.kr/@@ZVA/716)
 - [`@2rV` / 2024년 구글 검색엔진 반독점 소송 관련](https://brunch.co.kr/@@2rV/174)
+- [`@3L0s` / DX 실행: 생산공정의 디지털화 사례 - 디지털 혁신-18](https://brunch.co.kr/@@3L0s/121)
+- [`@2weV` / 유학/취업 준비자의 추석 연휴, 그리고 휴가 활용법](https://brunch.co.kr/@@2weV/542)
+- [`@2weV` / 내가 어렵지 않게 도울 수 있는 사람을 만나자.](https://brunch.co.kr/@@2weV/544)
 
 <!-- END: brunch.co.kr -->
 
@@ -543,6 +547,7 @@ tag:
 - [평판 만들기](https://thestartupbible.com/2024/08/on-your-reputation-preceding-you.html)
 - [글로벌 사업의 기본은 영어](https://thestartupbible.com/2024/08/the-very-first-requirement-for-any-global-business-is-english.html)
 - [노력의 부족으로 실패하지 말자](https://thestartupbible.com/2024/08/if-you-fail-make-sure-its-not-because-of-a-lack-of-effort.html)
+- [제품도 없는데 수익은 어떻게?](https://thestartupbible.com/2024/08/how-do-you-make-a-profit-when-you-dont-have-a-product.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -1496,6 +1501,12 @@ https://m.blog.naver.com/&logId=
 ## Tiny struggles
 
 - [Postmortem of my 9 year journey at Google](https://tinystruggles.com/posts/google_postmortem/)
+
+---
+
+## Seonu'ss
+
+- [\[24년 주저리 #2\] 나만의 태양계 만들기](https://sjquant.tistory.com/m/101)
 
 ---
 

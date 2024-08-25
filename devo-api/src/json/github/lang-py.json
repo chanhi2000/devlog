@@ -1273,10 +1273,10 @@
     "officialSite": "https://askmarvin.ai"
   }, {
     "repo": "QuivrHQ/quivr",
-    "desc": "Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
-    "officialSite": "https://quivr.app",
-    "topics": ["ai", "api", "chatbot", "chatgpt", "database", "docker", "frontend", "html", "javascript", "llm", "openai", "postgresql", "privacy", "rag", "react", "rest-api", "security", "typescript", "vector", "ycombinator"],
-    "avatar": "",
+    "desc": "Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Efficient retrieval augmented generation framework",
+    "officialSite": "https://quivr.com",
+    "topics": ["ai", "api", "chatbot", "chatgpt", "database", "docker", "framework", "frontend", "groq", "html", "javascript", "llm", "openai", "postgresql", "privacy", "rag", "react", "security", "typescript", "vector"],
+    "avatar": "https://avatars.githubusercontent.com/u/159330290?v=4",
     "banner": ""
   }, {
     "repo": "eth-sri/lmql",

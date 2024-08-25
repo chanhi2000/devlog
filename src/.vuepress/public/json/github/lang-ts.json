@@ -4625,5 +4625,26 @@
     "topics": ["finance", "nextjs", "supabase", "tailwind", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/145366395?v=4",
     "banner": ""
+  }, {
+    "repo": "OpenCTI-Platform/opencti",
+    "desc": "Open Cyber Threat Intelligence Platform",
+    "officialSite": "https://opencti.io",
+    "topics": ["cti", "cyber", "cybersecurity", "intelligence", "osint", "security", "threat-intelligence"],
+    "avatar": "https://avatars.githubusercontent.com/u/51881218?v=4",
+    "banner": ""
+  }, {
+    "repo": "chartdb/chartdb",
+    "desc": "Free and Open-source database diagrams editor, visualize and design your DB with a single query.",
+    "officialSite": "https://chartdb.io",
+    "topics": ["database", "db", "db-migration", "editor", "erd", "mariadb", "mssql", "mysql", "postgresql", "react", "react-flow", "schema-migrations", "sql", "sqlite", "typescript", "visualization", "xyflow"],
+    "avatar": "https://avatars.githubusercontent.com/u/177466511?v=4",
+    "banner": ""
+  }, {
+    "repo": "PlasmoHQ/plasmo",
+    "desc": "🧩 The Browser Extension Framework",
+    "officialSite": "https://www.plasmo.com",
+    "topics": ["browser-extension", "bundler", "chrome-extension", "edge-addon", "firefox-addon", "parcel", "reactjs", "sdk", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/96090470?v=4",
+    "banner": ""
   }
 ]

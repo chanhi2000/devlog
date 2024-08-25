@@ -794,6 +794,7 @@ head:
   <!-- END: bbogle2 -->
 - [`isn-t` / 노오력을해라](https://isn-t.tistory.com/m/)
   - [시간 복잡도와 빅오 표기법](https://isn-t.tistory.com/m/60)
+  - [데이터 타입, 앱실론, 함수, 람다표현식](https://isn-t.tistory.com/m/61)
   <!-- END: isn-t -->
 <!-- END: tistory.com -->
 

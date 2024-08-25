@@ -291,9 +291,14 @@ tag:
 
 ---
 
-## 운동하는 개발자
+## tistory
 
-- [Linux to Linux 파일 전송 (SCP)](https://singo112ok.tistory.com/265)
+- [`singo112ok` / 운동하는 개발자](https://singo112ok.tistory.com/m/)
+  - [Linux to Linux 파일 전송 (SCP)](https://singo112ok.tistory.com/m/265)
+- [`jusths` / just_HS](https://jusths.tistory.com/m/)
+  - [터미널에서 Jira 빠르게 열기](https://jusths.tistory.com/m/421)
+  <!-- END: jusths -->
+<!-- END: tistory.com -->
 
 ---
 

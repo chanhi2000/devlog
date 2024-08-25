@@ -70,7 +70,7 @@ head:
   "desc": "Filtering EventStoreDB subscriptions by event types",
   "link": "/explore/articles/event-driven.io/filtering-eventstoredb-subscriptions-by-event-types.md",
   "logo": "/images/content/event-driven.io/favicon.jfif",
-  "background": rgba(112,148,37,0.2)"
+  "background": "rgba(112,148,37,0.2)"
 }
 ```
 

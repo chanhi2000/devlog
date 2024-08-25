@@ -235,6 +235,7 @@ head:
 - [화면이 바뀌면 카톡으로 화면 전송하기](https://m.blog.naver.com/tipsware/223548767927)
 - [PC 카톡을 터미널처럼 사용하기 - Step 1](https://m.blog.naver.com/tipsware/223549324483)
 - [PC 카톡을 터미널처럼 사용하기 - Step 2](https://m.blog.naver.com/tipsware/223552246855)
+- [PC 카톡을 터미널처럼 사용하기 - Step 3](https://m.blog.naver.com/tipsware/223558638179)
 
 <!-- END: tipsware.blog.naver.com -->
 
@@ -323,6 +324,7 @@ head:
 - [\[백준 32072번\] 트리 뽑아내기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-32072%EB%B2%88-%ED%8A%B8%EB%A6%AC-%EB%BD%91%EC%95%84%EB%82%B4%EA%B8%B0)
 - [\[백준 17608번\] 막대기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17608%EB%B2%88-%EB%A7%89%EB%8C%80%EA%B8%B0)
 - [\[백준 17610번\] 양팔저울](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17610%EB%B2%88-%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8)
+- [\[백준 3632번\] Drying](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-3632%EB%B2%88-Drying)
 
 <!-- END: kesakiyo.tistory.com -->
 

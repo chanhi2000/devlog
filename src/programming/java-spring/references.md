@@ -232,6 +232,8 @@ head:
   - [\[Spring Boot\] IoC, DI, AOP 정리](https://findsilverlining.tistory.com/m/112)
   - [\[Spring Boot\] 디렉터리 패키지 구조 - 도메인형, 계층형](https://findsilverlining.tistory.com/m/113)
   - [\[Spring Boot\] JPA `@Id` 전략](https://findsilverlining.tistory.com/m/115)
+  - [\[Spring Boot\] Spring Security 내부 구조 파악하기](https://findsilverlining.tistory.com/m/118)
+  - [\[Spring Boot\] Spring Security 기본 필터 살펴보기](https://findsilverlining.tistory.com/m/119)
   <!-- END: findsilverlining -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
@@ -242,6 +244,7 @@ head:
   - [\[해결방법\] `EmptyResultDataAccessException`](https://hj0216.tistory.com/m/936)
   - [\[해결방법\] `duplicateKeyException`](https://hj0216.tistory.com/m/937)
   - [\[해결방법\] JWT Login 시, `accessToken`이 `null`](https://hj0216.tistory.com/m/938)
+  - [\[1년 후 마실가실\] JWT와 로그아웃(1) Redis 설정](https://hj0216.tistory.com/m/939)
   <!-- END: hj0216 -->
 - [`ysedeveloper` / 생계형 개발자 연서은](https://ysedeveloper.tistory.com/m/)
   - [스프링 부트 하루만에 배우기](https://ysedeveloper.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
@@ -308,11 +311,16 @@ head:
   - [13.2. 책 정보에 책 기록 연결하기](https://ysedeveloper.tistory.com/m/entry/132-%EC%B1%85-%EC%A0%95%EB%B3%B4%EC%97%90-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
   - [13.3. 책 기록 응답 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/133-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9D%91%EB%8B%B5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   - [13.4. 책 정보 응답 DTO에 책 기록 응답 객체 추가하기](https://ysedeveloper.tistory.com/m/entry/134-%EC%B1%85-%EC%A0%95%EB%B3%B4-%EC%9D%91%EB%8B%B5-DTO%EC%97%90-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9D%91%EB%8B%B5-%EA%B0%9D%EC%B2%B4-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+  - [13.5. 책 상세 화면에서 책 기록 표시하기](https://ysedeveloper.tistory.com/m/entry/135-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
   - [연관관계 매핑 기초](https://maeng-dev.tistory.com/m/165)
+  - [Deep한 JPA 매핑](https://maeng-dev.tistory.com/m/166)
   <!-- END: maeng-dev -->
+- [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
+  - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)
+  <!-- END: backend-jaamong -->
 <!-- END: tistory.com -->
 
 ### 비탐인

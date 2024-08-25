@@ -1200,6 +1200,7 @@ https://o-yeon.tistory.com/227
 - [Vitest GitHub Actions 배포](https://m.blog.naver.com/gi_balja/223539048026)
 - [Vitest TDD](https://m.blog.naver.com/gi_balja/223540204373)
 - [Vitest 스냅샷 테스트](https://m.blog.naver.com/gi_balja/223544193972)
+- [크로마틱(Chromatic)을 사용한 UI 테스트](https://m.blog.naver.com/gi_balja/223559065559)
 
 ---
 

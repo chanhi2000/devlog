@@ -36,6 +36,8 @@ head:
   - [`list.extend`와 `list.iadd`의 차이](https://lazymatlab.tistory.com/m/258)
   - [매트랩 콰인](https://lazymatlab.tistory.com/m/280)
   - [hgtransform을 이용하여 이미지 회전시키기](https://lazymatlab.tistory.com/m/287)
+  - [애증의 정규식... 3탄](https://lazymatlab.tistory.com/m/290)
+  - [테일러 급수의 수렴 조건](https://lazymatlab.tistory.com/m/291)
   <!-- END: lazymatlab -->
 <!-- END: tistory.com -->
 

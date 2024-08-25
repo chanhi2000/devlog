@@ -3368,6 +3368,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/ai/gemini/articles/README.md',
+            asb.freecodecamp("gemini"),
             asb.yozm("gemini"),
             asb.kurly("gemini"),
           ]

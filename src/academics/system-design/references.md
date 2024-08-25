@@ -281,6 +281,7 @@ head:
 - [`@11Qy` / AI를 위한 UX 요소들](https://brunch.co.kr/@@11Qy/197)
 - [`@2fEJ` / \[UX리서치#1\] 5초 테스트가 첫인상에 미치는 영향  - 5초 테스트는 웹 디자인 성공의 열쇠](https://brunch.co.kr/@@2fEJ/1463)
 - [`@2hV3` / UX, UI, UX/UI, 프로덕트 디자이너의 차이? - 디자인 직군의 변화와 진화, 나는 어디에 해당될까?](https://brunch.co.kr/@@2hV3/244)
+- [`@2hV3` / UX, UI, UX/UI, 프로덕트 디자이너의 차이? - 디자인 직군의 변화와 진화, 나는 어디에 해당될까?](https://brunch.co.kr/@@2hV3/244)
 
 <!-- END: brunch.co.kr -->
 
@@ -362,6 +363,7 @@ head:
   <!-- END: jh-bk -->
 - [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
   - [분산 시스템의 성공을 위한 9가지 핵심 아키텍처 패턴](https://jinn-blog.tistory.com/m/184)
+  - [API 설계: 초보자부터 전문가를 위한 종합 가이드](https://jinn-blog.tistory.com/m/190)
   <!-- END: jinn-blog -->
 <!-- END: tistory.com -->
 
@@ -702,6 +704,7 @@ head:
 ## Life Log
 
 - [모바일 디자인 시 고려할 부분들](https://ravenkim97.tistory.com/m/474)
+- [언제 공통 코드를 만들어서 사용해야 할까?](https://ravenkim97.tistory.com/m/493)
 
 ---
 

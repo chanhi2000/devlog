@@ -92,6 +92,7 @@ head:
 - [`@2rV` / 생성형 AI와 창의성 - 단편 소설 쓰기에서의 대규모 실증 연구 분석](https://brunch.co.kr/@@2rV/159)
 - [`@2weV` / AI, 그리고 서비스 스타트업](https://brunch.co.kr/@@2weV/537)
 - [`@2weV` / AI와 시너지를 낼 수 있는 산업](https://brunch.co.kr/@@2weV/541)
+- [`@2weV` / AI 시대, 좋은 사람이 인정받는 시대.](https://brunch.co.kr/@@2weV/543)
 
 <!-- END: brunch.co.kr -->
 

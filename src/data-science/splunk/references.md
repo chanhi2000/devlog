@@ -32,6 +32,7 @@ head:
 - [Splunk의 `eval`과 `rex` - 4th](https://kangmyounghun.blogspot.com/2024/06/splunk-eval-rex-4th.html)
 - [스플렁크 위주로 해주세요](https://kangmyounghun.blogspot.com/2024/08/blog-post.html)
 - [Splunk의 dedup](https://kangmyounghun.blogspot.com/2024/08/splunk-dedup.html)
+- [비율 계산](https://kangmyounghun.blogspot.com/2024/08/blog-post_22.html)
 
 ---
 

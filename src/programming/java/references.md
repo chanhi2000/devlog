@@ -148,6 +148,9 @@ tag:
 - [`@qkrtkdwns3410` / IDE 는 어떤식으로 구문 분석을 하나?](https://velog.io/@qkrtkdwns3410/IDE-%EB%8A%94-%EC%96%B4%EB%96%A4%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EB%AC%B8-%EB%B6%84%EC%84%9D%EC%9D%84-%ED%95%98%EB%82%98)
 - [`@dongha1992` / 99클럽 코테 스터디 29일차 - 이진탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-29%EC%9D%BC%EC%B0%A8-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
 - [`@dongha1992` / 99클럽 코테 스터디 30일차 - bfs](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-30%EC%9D%BC%EC%B0%A8-bfs)
+- [`@dongha1992` / 99클럽 코테 스터디 31일차 - bfs](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-31%EC%9D%BC%EC%B0%A8-bfs)
+- [`@dongha1992` / 99클럽 코테 스터디 32일차 - bfs](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-32%EC%9D%BC%EC%B0%A8-bfs)
+- [`@dongha1992` / 99클럽 코테 스터디 33일차 - dfs](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-32%EC%9D%BC%EC%B0%A8-dfs)
 
 <!-- END: velog.io java -->
 
@@ -238,8 +241,12 @@ tag:
   - [[Programmers] 코딩 테스트 입문 - 배열관련 문제들 (with Java)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%B0%B0%EC%97%B4%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C%EB%93%A4-with-Java)
   - [\[Programmers\]\[Java\] 모음 제거](https://jakpentest.tistory.com/m/entry/ProgrammersJava-%EB%AA%A8%EC%9D%8C-%EC%A0%9C%EA%B1%B0)
   - [\[Programmers\]\[Java\] 가장 큰 수 찾기](https://jakpentest.tistory.com/m/entry/ProgrammersJava-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%B0%BE%EA%B8%B0)
+  - [\[Java\] `JDBC` & `JDBCTemplate` & `NamedParameterJDBCTemplate`](https://jakpentest.tistory.com/m/entry/Java-JDBC-JDBCTemplate-NamedParameterJDBCTemplate)
   <!-- END: jakpentest -->
-
+- [`splendidlolli` / yyeennyy](https://splendidlolli.tistory.com/m/)
+  - [\[Java\] Generic Type erasure / 제네릭 타입 소거](https://splendidlolli.tistory.com/m/758)
+  - [\[Java\] `ObjectMapper`에 `TypeReference`를 사용할 때](https://splendidlolli.tistory.com/m/759)
+  <!-- END: splendidlolli -->
 <!-- END: tistory.com -->
 
 ### EastGlow
@@ -806,6 +813,7 @@ tag:
 - [[Kotlin] 백준 17612 : 쇼핑몰](https://colabear754.tistory.com/m/214)
 - [\[Kotlin\] 백준 14715 : 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)](https://colabear754.tistory.com/m/215)
 - [\[Kotlin\] 백준 6523 : 요세푸스 한 번 더!](https://colabear754.tistory.com/m/216)
+- [\[Kotlin\] 백준 31882 : 근수](https://colabear754.tistory.com/m/221)
 
 ### Square Lab
 

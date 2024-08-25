@@ -719,6 +719,7 @@ tag:
 ## 재우니의 블로그
 
 - [image, xml, javascript, css, font 파일을 base64 로 치환하여 html 적용해 보기](https://aspdotnet.tistory.com/m/2848)
+- [html : 애니메이션 효과, 특정 텍스트 자주색으로 형광펜 칠하듯이 보여주기](https://aspdotnet.tistory.com/m/3250)
 
 ---
 

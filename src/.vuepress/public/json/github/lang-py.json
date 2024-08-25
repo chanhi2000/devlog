@@ -7592,11 +7592,18 @@
     "avatar": "https://avatars.githubusercontent.com/u/169105795?v=4",
     "banner": ""
   }, {
-  "repo": "NVlabs/VILA",
+    "repo": "NVlabs/VILA",
     "desc": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/2695301?v=4",
+    "banner": ""
+  }, {
+    "repo": "facebookresearch/sapiens",
+    "desc": "High-resolution models for human tasks.",
+    "officialSite": "https://about.meta.com/realitylabs/codecavatars/sapiens/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/16943930?v=4",
     "banner": ""
   }
 ]

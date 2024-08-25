@@ -951,5 +951,12 @@
     "topics": ["asr", "speaker-diarization", "speech", "speech-recognition", "speech-to-text", "whisper"],
     "avatar": "https://avatars.githubusercontent.com/u/32404268?v=4",
     "banner": ""
+  }, {
+    "repo": "JohnLaTwC/Shared",
+    "desc": "Shared Blogs and Notebooks",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/16035087?v=4",
+    "banner": ""
   }
 ]

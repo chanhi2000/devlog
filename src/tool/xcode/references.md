@@ -132,4 +132,16 @@ head:
 
 ---
 
+## Neil Macy
+
+[Quickly move between changes in a file in Xcode with this keyboard shortcut](https://www.neilmacy.co.uk/blog/keyboard-shortcut-next-change)
+
+---
+
+## polpielladev 📱 | A blog about iOS mobile app development and Swift
+
+[How to use EditorConfig files in Xcode](https://www.polpiella.dev/xcode-editor-config/)
+
+---
+
 <TagLinks />

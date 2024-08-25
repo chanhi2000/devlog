@@ -113,6 +113,8 @@ head:
 - [\[월간 HG Labs\] 8월 세미나 "STM32 TouchGFX와 FreeRTOS, SD카드 활용하기"](https://m.blog.naver.com/chandong83/223542099449)
 - [STM32H7S7 펌웨어 다운로드 시 Target not responding retrying....... 발생 후 더 이상 연결 안 되는 문제](https://m.blog.naver.com/chandong83/223546908959)
 - [STM32H7S7I8K6 데이터시트 오류](https://m.blog.naver.com/chandong83/223546928955)
+- [STM32G4-AUTO 개발보드 제작 중](https://m.blog.naver.com/chandong83/223558438717)
+- [STM32H7-GFX 저항막 터치 캘리브레이션 실습 영상 및 프로젝트 링크 공유 - 누들마스터](https://m.blog.naver.com/chandong83/223558450019)
 
 <!-- END: m.blog.naver.com/chandong83 -->
 

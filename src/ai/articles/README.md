@@ -162,6 +162,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Future-Proof Your Software Engineering Career for the Age of AGI",
+  "desc": "In the viral essay The Decade Ahead, Leopold Aschenbrenner predicts that Artificial General Intelligence (AGI) will be a reality in only a few years. But what exactly is AGI, and how does it differ from the AI we have today? AGI refers to a type of a...",
+  "link": "/explore/articles/freecodecamp.org/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

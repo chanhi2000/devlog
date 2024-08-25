@@ -10,7 +10,6 @@ category:
 tag: 
   - ai
   - llm
-  - llama
   - google
   - google-gemini
   - bard

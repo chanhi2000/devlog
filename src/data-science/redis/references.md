@@ -81,9 +81,25 @@ tag:
 
 ---
 
-## Be an Overachiever
+## tistory
 
-- [Redis를 활용한 다양한 시스템 설계](https://devs0n.tistory.com/92)
+- [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
+  - [Redis를 활용한 다양한 시스템 설계](https://devs0n.tistory.com/m/92)
+  <!-- END: devs0n -->
+- [`hides` / Hide](https://hides.tistory.com/m/)
+  - [레디스 클러스터 모드 MGET 동작 방식(feat. Lettuce)](https://hides.tistory.com/m/1150)
+  <!-- END: hides -->
+- [`0soo` / Lifealong](https://0soo.tistory.com/m/)
+  - [레디스를 활용한 분산 락(Distrubuted Lock) feat lettuce, redisson](https://0soo.tistory.com/m/256)
+  <!-- END: 0soo -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Kubernetes Redis Cluster 설치](https://jeongchul.tistory.com/m/725)
+  - [Redis Insight Kubernetes 배포](https://jeongchul.tistory.com/m/726)
+  <!-- END: jeongchul -->
+- [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
+  - [\[CS\] Redis 사용이유, 자료구조 살펴보기](https://findsilverlining.tistory.com/m/121)
+  <!-- END: findsilverlining -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -99,28 +115,9 @@ tag:
 
 ---
 
-## Hide
-
-- [레디스 클러스터 모드 MGET 동작 방식(feat. Lettuce)](https://hides.tistory.com/m/1150)
-
----
-
-## Lifealong
-
-- [레디스를 활용한 분산 락(Distrubuted Lock) feat lettuce, redisson](https://0soo.tistory.com/m/256)
-
----
-
 ## hudi.blog
 
 - [레디스 다중 명령에 대한 원자성 보장 방법](https://hudi.blog/redis-atomicity/)
-
----
-
-## Jeongchul Kim
-
-- [Kubernetes Redis Cluster 설치](https://jeongchul.tistory.com/m/725)
-- [Redis Insight Kubernetes 배포](https://jeongchul.tistory.com/m/726)
 
 ---
 

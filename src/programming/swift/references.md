@@ -368,6 +368,7 @@ tag:
 - [Mastering Preview macro in Swift](https://swiftwithmajid.com/2023/10/17/mastering-preview-macro-in-swift/)
 - [Trigger value pattern in SwiftUI](https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/)
 - [Mastering ScrollView in SwiftUI. Scroll Offset](https://swiftwithmajid.com/2024/06/17/mastering-scrollview-in-swiftui-scroll-offset/)
+[Typed throws in Swift](https://swiftwithmajid.com/2024/08/20/typed-throws-in-swift/)
 
 ---
 
@@ -937,6 +938,12 @@ tag:
 ## twocentstudios
 
 [Reminder: Conditional Breakpoints are Slow](https://twocentstudios.com/2024/08/08/conditional-breakpoints/)
+
+---
+
+## TrozWare
+
+- [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
 
 ---
 

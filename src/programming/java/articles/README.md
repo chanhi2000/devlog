@@ -383,7 +383,7 @@ head:
   "desc": "Writing and testing event-driven projections with Emmett, Pongo and PostgreSQL",
   "link": "/explore/articles/event-driven.io/emmett-projections-testing.md",
   "logo": "/images/content/event-driven.io/favicon.jfif",
-  "background": rgba(112,148,37,0.2)"
+  "background": "rgba(112,148,37,0.2)"
 }
 ```
 -->
