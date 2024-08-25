@@ -48,7 +48,7 @@ isOriginal: false
 {
   "title": "How to sort an array using sort() | Array - free Swift example code",
   "desc": "How to sort an array using sort()",
-  "link": "https://www.hackingwithswift.com/example-code/arrays/how-to-sort-an-array-using-sort",
+  "link": "https://hackingwithswift.com/example-code/arrays/how-to-sort-an-array-using-sort",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

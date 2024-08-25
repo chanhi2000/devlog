@@ -25,7 +25,7 @@ head:
 prev: /programming/swift/articles/README.md
 date: 2019-09-18
 isOriginal: false
-cover: https://www.hackingwithswift.com/uploads/swift-evolution-1.jpg
+cover: https://hackingwithswift.com/uploads/swift-evolution-1.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -49,7 +49,7 @@ cover: https://www.hackingwithswift.com/uploads/swift-evolution-1.jpg
   desc="Opaque return types, implicit returns, universal self, and more"
   url="https://hackingwithswift.com/articles/182/whats-new-in-swift-5-1"
   logo="https://hackingwithswift.com/favicon.svg"
-  preview="https://www.hackingwithswift.com/uploads/swift-evolution-1.jpg"/>
+  preview="https://hackingwithswift.com/uploads/swift-evolution-1.jpg"/>
 
 Swift 5.1 has finally landed, albeit slightly incompletely because function builders haven't gone through the Swift Evolution process yet, Still, we are getting another keystone feature in the form of module stability, which allows us to use third-party libraries without worrying which version of the Swift compiler they were built with.
 

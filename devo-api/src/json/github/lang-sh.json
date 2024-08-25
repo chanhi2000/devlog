@@ -225,10 +225,10 @@
     "banner": ""
   }, {
     "repo": "getlago/lago",
-    "desc": "Open Source Metering and Usage Based Billing",
+    "desc": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
     "officialSite": "https://www.getlago.com",
-    "topics": ["invoices", "invoicing", "payments", "pricing", "fintech", "billing", "subscriptions", "metering", "lago", "usage-based-billing"],
-    "avatar": "",
+    "topics": ["analytics", "billing", "clickhouse", "fintech", "invoices", "metering", "open-source", "payments", "pricing", "pricing-data-science", "react", "ruby", "self-hosted", "subscriptions", "usage-based-billing"],
+    "avatar": "https://avatars.githubusercontent.com/u/75492405?v=4",
     "banner": ""
   }, {
     "repo": "markshust/docker-magento",
@@ -515,13 +515,6 @@
     "desc": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.",
     "officialSite": "https://atlasos.net",
     "topics": ["atlas", "atlasos", "debloat", "fps", "gaming", "latency", "open-source", "opensource", "performance", "privacy", "security", "tweaks", "windows"],
-    "avatar": "",
-    "banner": ""
-  }, {
-    "repo": "getlago/lago",
-    "desc": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
-    "officialSite": "https://www.getlago.com",
-    "topics": ["analytics", "billing", "clickhouse", "fintech", "invoices", "metering", "open-source", "payments", "pricing", "pricing-data-science", "react", "ruby", "self-hosted", "subscriptions", "usage-based-billing"],
     "avatar": "",
     "banner": ""
   }, {

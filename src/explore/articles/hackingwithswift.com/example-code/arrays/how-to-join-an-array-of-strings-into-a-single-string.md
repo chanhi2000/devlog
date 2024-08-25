@@ -48,7 +48,7 @@ isOriginal: false
 {
   "title": "How to join an array of strings into a single string | Array - free Swift example code",
   "desc": "How to join an array of strings into a single string",
-  "link": "https://www.hackingwithswift.com/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string",
+  "link": "https://hackingwithswift.com/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

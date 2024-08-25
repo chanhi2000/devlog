@@ -1626,6 +1626,25 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-sort-an-array-using-sort.md',
               '/explore/articles/hackingwithswift.com/example-code/arrays/how-to-tell-if-an-array-contains-an-object.md',
             ]
+          }, {
+            text: 'CALayer',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/calayer/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-add-a-border-outline-color-to-a-uiview.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-change-a-views-anchor-point-without-moving-it.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-create-a-marching-ants-effect-using-linedashphase.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-create-keyframe-animations-using-cakeyframeanimation.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-draw-color-gradients-using-cagradientlayer.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-draw-shapes-using-cashapelayer.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-emit-particles-using-caemitterlayer.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-make-a-shape-draw-itself-using-strokeend.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-make-a-uiview-fade-out.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-make-a-uiview-glow-using-shadowcolor.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-round-only-specific-corners-using-maskedcorners.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-round-the-corners-of-a-uiview.md',
+              '/explore/articles/hackingwithswift.com/example-code/calayer/what-is-calayer.md',
+            ]
           }
         ]
       }

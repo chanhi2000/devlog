@@ -539,4 +539,10 @@ head:
 
 ---
 
+## High Signal Security – YAIB (Yet Another Infosec blog).
+
+- [An AWS IAM Security Tooling Reference \[2024\]](https://ramimac.me/aws-iam-tools-2024)
+
+---
+
 <TagLinks />

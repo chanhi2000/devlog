@@ -50,7 +50,7 @@ tag:
 <MyYouTubeItems jsonName="yu-CodingwithT" /><!-- Coding With Tea -->
 <MyYouTubeItems jsonName="yu-DavidSerranoIO" /><!-- David Serrano -->
 <MyYouTubeItems jsonName="yu-airklassofficial" /><!-- 에어클래스 -->
-<MyYouTubeItems jsonName="yu-alohaclass5" /><!-- ALOHA CLASS -->
+<MyYouTubeItems jsonName="yu-alohaclass" /><!-- ALOHA CLASS -->
 <MyYouTubeItems jsonName="yu-mungcoding" /><!-- 멍코딩 -->
 <MyYouTubeItems jsonName="yu-programgarden" /><!-- 프로그램 동산 - IT 지식 공유 -->
 <MyYouTubeItems jsonName="yu-ambitiouslabs" /><!-- Ambitious Alim -->

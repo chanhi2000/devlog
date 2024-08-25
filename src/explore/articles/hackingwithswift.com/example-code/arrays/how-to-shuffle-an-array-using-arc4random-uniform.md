@@ -48,7 +48,7 @@ isOriginal: false
 {
   "title": "How to shuffle an array using arc4random_uniform() | Array - free Swift example code",
   "desc": "How to shuffle an array using arc4random_uniform()",
-  "link": "https://www.hackingwithswift.com/example-code/arrays/how-to-shuffle-an-array-using-arc4random-uniform",
+  "link": "https://hackingwithswift.com/example-code/arrays/how-to-shuffle-an-array-using-arc4random-uniform",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

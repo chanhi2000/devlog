@@ -48,7 +48,7 @@ isOriginal: false
 {
   "title": "How to tell if an array contains an object | Array - free Swift example code",
   "desc": "How to tell if an array contains an object",
-  "link": "https://www.hackingwithswift.com/example-code/arrays/how-to-tell-if-an-array-contains-an-object",
+  "link": "https://hackingwithswift.com/example-code/arrays/how-to-tell-if-an-array-contains-an-object",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

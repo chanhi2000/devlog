@@ -25,7 +25,7 @@ head:
 prev: /programming/swift/articles/README.md
 date: 2019-03-29
 isOriginal: false
-cover: https://www.hackingwithswift.com/uploads/coding-man-3.jpg
+cover: https://hackingwithswift.com/uploads/coding-man-3.jpg
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -49,9 +49,9 @@ cover: https://www.hackingwithswift.com/uploads/coding-man-3.jpg
   desc="SE-0195 has been approved, so here’s a guide to get you started."
   url="https://hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift"
   logo="https://hackingwithswift.com/favicon.svg"
-  preview="https://www.hackingwithswift.com/uploads/coding-man-3.jpg"/>
+  preview="https://hackingwithswift.com/uploads/coding-man-3.jpg"/>
 
-![](https://www.hackingwithswift.com/uploads/coding-man-3.jpg)
+![](https://hackingwithswift.com/uploads/coding-man-3.jpg)
 
 [Swift Evolution proposal SE-0195 (<FontIcon icon="iconfont icon-github"/>`apple/swift-evolution`)](https://github.com/apple/swift-evolution/blob/master/proposals/0195-dynamic-member-lookup.md) brings Swift closer in behavior to scripting languages, but does so in a type-safe way – you don’t lose any of Swift’s safety, but you do gain the ability to write the kind of code you’re more likely to see in PHP and Python.
 

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "Brackeys",
+    "name": "Brackeys",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mtZcOqYceTTKJehGYh1QFEn0zBqRCig4MRz0TE3tmdXJ8=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mogs_l8YUARNJ_stcZlQjpDAhagDethGwq03y7gabpfxaKLMXlqbe_8L9wqexWEHGuHi8sgI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LOhfqjmasi0", "title": "How to make a Video Game - Godot Beginner Tutorial" },
+    { "id": "e1zJS31tr88", "title": "How to program in Godot - GDScript Tutorial" }
+  ],
+  "playlists": [
+
+  ]
+}

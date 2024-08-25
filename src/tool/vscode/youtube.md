@@ -21,7 +21,7 @@ tag:
 <MyYouTubeItems jsonName="yu-code" /><!-- Visual Studio Code -->
 <MyYouTubeItems jsonName="yu-dev.channel" /><!-- Dev tips by MoHo -->
 <MyYouTubeItems jsonName="yu-DanCanCode" /><!-- DanCanCode -->
-<MyYouTubeItems jsonName="yu-alohaclass5" /><!-- ALOHA CLASS -->
+<MyYouTubeItems jsonName="yu-alohaclass" /><!-- ALOHA CLASS -->
 <MyYouTubeItems jsonName="yu-CodinginPublic" /><!-- Coding in Public -->
 <MyYouTubeItems jsonName="yu-HoveredCubeOfficial" /><!-- Hovered Cube -->
 <MyYouTubeItems jsonName="yu-huxnwebdev" /><!-- HuXn WebDev -->

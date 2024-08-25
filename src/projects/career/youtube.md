@@ -40,5 +40,6 @@ tag:
 <MyYouTubeItems jsonName="yu-SlowSteadyBrown" /><!-- 브라운 일기장 -->
 <MyYouTubeItems jsonName="yu-Codebagel" /><!-- Codebagel -->
 <MyYouTubeItems jsonName="yu-MickeyPedia" /><!-- 미키피디아 -->
+<MyYouTubeItems jsonName="yu-tryexponent" /><!-- Exponent -->
 
 <TagLinks />

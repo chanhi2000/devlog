@@ -874,6 +874,13 @@ https://paperlined.org/
   preview="https://event-driven.io/preview.jpg"/>
 
 <SiteInfo
+  name="Outcome School | Get High Paying Tech Job"
+  desc="Software engineers like you join Outcome School to achieve the outcome that is a high-paying tech job."
+  url="https://outcomeschool.com/blog"
+  logo="https://outcomeschool.com/static/favicons/apple-touch-icon.png"
+  preview="https://outcomeschool.com/static/images/social-banner.png"/>
+
+<SiteInfo
   name="Spring | Blog"
   desc="Level up your Java code and explore what Spring can do for you."
   url="https://spring.io/blog"

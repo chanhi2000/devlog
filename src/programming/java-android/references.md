@@ -177,6 +177,8 @@ tag:
 - [`mohitsoni48` / Biometric Authorization in Compose Multiplatform App](https://medium.com/@mohitsoni48/biometric-authorization-in-compose-multiplatform-app-a00e0fa64640)
 - [`chetan-garg36` / HomeMade ImageLoading Library for KMP from Scratch — Part 1](https://chetan-garg36.medium.com/homemade-imageloading-library-for-kmp-from-scratch-part-1-d075f2fd5ec3)
 - [`mmartosdev` / Pushing the Boundaries of Compose Multiplatform with AGSL Shaders](https://medium.com/@mmartosdev/pushing-the-boundaries-of-compose-multiplatform-with-agsl-shaders-d6d47380ba8a)
+- [`mohitsoni48` / How to “get()” your Koin dependency in iOS](https://medium.com/@mohitsoni48/how-to-get-your-koin-dependency-in-ios-efb6d83ee165)
+- [`renaud.mathieu` / Discovering Material3 for Android — SwipeToDismissBox](https://medium.com/@renaud.mathieu/discovering-material3-for-android-swipetodismissbox-f64905b2b677)
 
 <!-- END: medium.com -->
 
@@ -189,6 +191,8 @@ tag:
 - [`bubenheimer` / Effective Map Composables: Non-Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-non-draggable-markers-2b2)
 - [`tkuenneth` / From Swing to Jetpack Compose Desktop #1](https://dev.to/tkuenneth/from-swing-to-jetpack-compose-desktop-1-12kf)
 - [`altavir` / Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
+- [`cdsap` / Resource observability case study: jemalloc in Android builds](https://dev.to/cdsap/resource-observability-case-study-jemalloc-in-android-builds-22og)
+- [`bubenheimer` / Effective Map Composables: Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-draggable-markers-3bea)
 
 <!-- END: dev.to -->
 
@@ -368,6 +372,7 @@ tag:
 
 - [Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)
 - [Build a Real-Time Zoom Clone with Jetpack Compose](https://getstream.io/blog/zoom-clone-compose/)
+- [Designing Effective UIs For Enhancing Compose Previews](https://getstream.io/blog/effective-compose-preview/)
 
 ---
 

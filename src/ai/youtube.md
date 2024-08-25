@@ -43,5 +43,7 @@ head:
 <MyYouTubeItems jsonName="yu-realreport" /><!-- RealGrid -->
 <MyYouTubeItems jsonName="yu-TutorialsPoint_" /><!-- Tutorialspoint -->
 <MyYouTubeItems jsonName="yu-mlopslearners" /><!-- MLOps Learners -->
+<MyYouTubeItems jsonName="yu-indydevdan" /><!-- IndyDevDan -->
+<MyYouTubeItems jsonName="yu-Unplug-IT" /><!-- UnplugIT -->
 
 <TagLinks />

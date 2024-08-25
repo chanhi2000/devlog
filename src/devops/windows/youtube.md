@@ -77,5 +77,6 @@ tag:
 <MyYouTubeItems jsonName="yu-teksyndicate" /><!-- Tek Syndicate -->
 <MyYouTubeItems jsonName="yu-THEPHINTAGECOLLECTOR" /><!-- THE PHINTAGE COLLECTOR -->
 <MyYouTubeItems jsonName="yu-ThisWeekinIT" /><!-- This Week in IT -->
+<MyYouTubeItems jsonName="yu-comtechGoodInfo" /><!-- 컴테크 -->
 
 <TagLinks />

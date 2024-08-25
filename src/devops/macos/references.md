@@ -374,4 +374,16 @@ head:
 
 ---
 
+## ReverseMe
+
+- [MacOS X Malware Development](https://0xf00sec.github.io/0x1A)
+
+---
+
+## Thomas
+
+- [Emulating the early Macintosh floppy drive](https://thomasw.dev/post/mac-floppy-emu/)
+
+---
+
 <TagLinks />

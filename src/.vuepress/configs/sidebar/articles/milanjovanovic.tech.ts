@@ -6,6 +6,15 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "cs", [
+      "5-awesome-csharp-refactoring-tips", // 2023-11-25
+      "global-error-handling-in-aspnetcore-8", // 2023-12-02
+      "modular-monolith-data-isolation", // 2023-12-09
+      "5-serilog-best-practices-for-better-structured-logging", // 2023-12-16
+      "value-objects-in-dotnet-ddd-fundamentals", // 2023-12-23
+      "api-versioning-in-aspnetcore", // 2023-12-30
+      "using-masstransit-with-rabbitmq-and-azure-service-bus", // 2024-01-06
+      "extending-httpclient-with-delegating-handlers-in-aspnetcore", // 2024-01-13
+      "balancing-cross-cutting-concerns-in-clean-architecture", // 2024-01-20
       "how-to-build-a-url-shortener-with-dotnet", // 2024-01-27
       "how-i-made-my-efcore-query-faster-with-batching", // 2024-02-03
       "getting-the-current-user-in-clean-architecture", // 2024-02-10
@@ -52,6 +61,15 @@ export const template: SidebarInfoTemplate = {
       "what-is-a-modular-monolith", // 2024-03-09
     ]],[
     "all", [
+      "5-awesome-csharp-refactoring-tips", // 2023-11-25
+      "global-error-handling-in-aspnetcore-8", // 2023-12-02
+      "modular-monolith-data-isolation", // 2023-12-09
+      "5-serilog-best-practices-for-better-structured-logging", // 2023-12-16
+      "value-objects-in-dotnet-ddd-fundamentals", // 2023-12-23
+      "api-versioning-in-aspnetcore", // 2023-12-30
+      "using-masstransit-with-rabbitmq-and-azure-service-bus", // 2024-01-06
+      "extending-httpclient-with-delegating-handlers-in-aspnetcore", // 2024-01-13
+      "balancing-cross-cutting-concerns-in-clean-architecture", // 2024-01-20
       "how-to-build-a-url-shortener-with-dotnet", // 2024-01-27
       "how-i-made-my-efcore-query-faster-with-batching", // 2024-02-03
       "getting-the-current-user-in-clean-architecture", // 2024-02-10

@@ -96,7 +96,7 @@ Now here’s the code for `addWebView()` – put this into <FontIcon icon="fa-br
 
     stackView.addArrangedSubview(webView)
 
-    let url = URL(string: "https://www.hackingwithswift.com")!
+    let url = URL(string: "https://hackingwithswift.com")!
     webView.load(URLRequest(url: url))
 }
 ```

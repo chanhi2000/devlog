@@ -757,4 +757,10 @@ head:
 
 ---
 
+## Generative art by Anders Hoff · inconvergent
+
+- [From Datalog to SVG](https://inconvergent.net/2023/datalog-to-svg/)
+
+---
+
 <TagLinks />

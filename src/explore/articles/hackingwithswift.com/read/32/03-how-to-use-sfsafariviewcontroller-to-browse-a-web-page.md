@@ -75,7 +75,7 @@ Bringing all that together, let's write some code. Go ahead and add this new met
 
 ```swift
 func showTutorial(_ which: Int) {
-    if let url = URL(string: "https://www.hackingwithswift.com/read/\(which + 1)") {
+    if let url = URL(string: "https://hackingwithswift.com/read/\(which + 1)") {
         let config = SFSafariViewController.Configuration()
         config.entersReaderIfAvailable = true
 

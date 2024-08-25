@@ -125,7 +125,7 @@ So, the complete meaning of this line is "create a new subclass of `UIViewContro
 This program is almost doing something useful, so before you run it let's add three more lines. Please place these in the `viewDidLoad()` method, just after the `super` call:
 
 ```swift
-let url = URL(string: "https://www.hackingwithswift.com")!
+let url = URL(string: "https://hackingwithswift.com")!
 webView.load(URLRequest(url: url))
 webView.allowsBackForwardNavigationGestures = true
 ```

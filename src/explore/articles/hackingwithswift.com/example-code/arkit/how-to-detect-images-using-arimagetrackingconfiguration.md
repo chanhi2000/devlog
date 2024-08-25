@@ -48,7 +48,7 @@ isOriginal: false
 {
   "title": "How to detect images using ARImageTrackingConfiguration | ARKit - free Swift example code",
   "desc": "How to detect images using ARImageTrackingConfiguration",
-  "link": "https://www.hackingwithswift.com/example-code/arkit/how-to-detect-images-using-arimagetrackingconfiguration",
+  "link": "https://hackingwithswift.com/example-code/arkit/how-to-detect-images-using-arimagetrackingconfiguration",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

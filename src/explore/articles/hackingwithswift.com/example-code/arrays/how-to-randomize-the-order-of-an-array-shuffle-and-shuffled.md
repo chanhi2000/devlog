@@ -48,7 +48,7 @@ isOriginal: false
 {
   "title": "How to randomize the order of an array: shuffle() and shuffled() | Array - free Swift example code",
   "desc": "How to randomize the order of an array: shuffle() and shuffled()",
-  "link": "https://www.hackingwithswift.com/example-code/arrays/how-to-randomize-the-order-of-an-array-shuffle-and-shuffled",
+  "link": "https://hackingwithswift.com/example-code/arrays/how-to-randomize-the-order-of-an-array-shuffle-and-shuffled",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

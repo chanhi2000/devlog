@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Unplug-IT",
+    "name": "UnplugIT",
+    "profile": "https://yt3.googleusercontent.com/2_YZsshPpzuTEK1oA_kmzMXLDZfpngkq1dEubmqs_tAzGohhTkM6qE1DzREFa14OVLn1ficasA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ekVLdkHMiqfjxfZtRn6ZxDZDpKF99iJnCxZvDy-lah4qiJUWY7y6ks81B05hFkqnAAk3039K=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_ezgpN-LCsE", "title": "Unlocking AI's Potential in SharePoint: A Conversation with Richard Harbridge" },
+    { "id": "RyPhFofkUeU", "title": "Unlocking the Power of Copilot Prompts" },
+    { "id": "DaZh28NDCrg", "title": "Unlocking the Secrets of App Security!" }
+  ],
+  "playlists": [
+
+  ]
+}

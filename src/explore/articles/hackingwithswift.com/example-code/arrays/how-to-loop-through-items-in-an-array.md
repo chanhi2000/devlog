@@ -48,7 +48,7 @@ isOriginal: false
 {
   "title": "How to loop through items in an array | Array - free Swift example code",
   "desc": "How to loop through items in an array",
-  "link": "https://www.hackingwithswift.com/example-code/arrays/how-to-loop-through-items-in-an-array",
+  "link": "https://hackingwithswift.com/example-code/arrays/how-to-loop-through-items-in-an-array",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

@@ -2463,5 +2463,12 @@
     "topics": ["es6", "go", "golang", "hacktoberfest", "javascript", "load-generator", "load-testing", "performance"],
     "avatar": "https://avatars.githubusercontent.com/u/7195757?v=4",
     "banner": ""
+  }, {
+    "repo": "nicolasgere/monogo",
+    "desc": "Go workspace monorepo tool",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/2502591?v=4",
+    "banner": ""
   }
 ]

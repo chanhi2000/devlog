@@ -1631,7 +1631,7 @@
     "desc": "Sketch and take handwritten notes.",
     "officialSite": "https://rnote.flxzt.net",
     "topics": ["drawing", "gtk", "gtk-rs", "gtk4", "gtk4-rs", "hacktoberfest", "handwriting", "infinite-canvas", "notes", "notes-app", "pdf", "rust", "wacom-tablet"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/19841886?v=4",
     "banner": ""
   }, {
     "repo": "altsem/gitu",
@@ -2395,6 +2395,20 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/4702188?v=4",
+    "banner": ""
+  }, {
+    "repo": "buffdb/buffdb",
+    "desc": "Embedded storage built for multiplexing. Smart machines don't need to read JSON, they only need protocol buffers. The world's first MODMS (Machine-Oriented Database Management System), built to support RocksDB, SQLite, and DuckDB as backends.",
+    "officialSite": "https://buffdb.dev",
+    "topics": ["flattbuffers", "grpc", "proto", "protobuf"],
+    "avatar": "https://avatars.githubusercontent.com/u/158233525?v=4",
+    "banner": ""
+  }, {
+    "repo": "casey/just",
+    "desc": "🤖 Just a command runner",
+    "officialSite": "https://just.systems",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1945?v=4",
     "banner": ""
   }
 ]

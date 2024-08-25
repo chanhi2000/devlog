@@ -108,7 +108,7 @@ func fetchUnreadCount1(from urlString: String, completionHandler: @escaping (Res
 To use that code we need to check the value inside our `Result` to see whether our call succeeded or failed, like this:
 
 ```swift
-fetchUnreadCount1(from: "https://www.hackingwithswift.com") { result in
+fetchUnreadCount1(from: "https://hackingwithswift.com") { result in
     switch result {
     case .success(let count):
         print("\(count) unread messages.")
@@ -123,7 +123,7 @@ There are three more things you ought to know before you start using `Result` in
 First, `Result` has a `get()` method that either returns the successful value if it exists, or throws its error otherwise. This allows you to convert `Result` into a regular throwing call, like this:
 
 ```swift
-fetchUnreadCount1(from: "https://www.hackingwithswift.com") { result in
+fetchUnreadCount1(from: "https://hackingwithswift.com") { result in
     if let count = try? result.get() {
         print("\(count) unread messages.")
     }

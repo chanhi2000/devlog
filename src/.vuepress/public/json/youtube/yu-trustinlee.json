@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/GeJQsfYruMQScd0llHWfPQIVk0WhA2BNau_fLzzwRgHQou-3FMRdJFaP7f-YMFqD2rr8oFEV=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PHL9EjkGBwM", "title": "51: GitHub Actions Self-hosted Runner를 위한 auto-scaler를 디자인하자" },
+    { "id": "1s_NdNEygGY", "title": "52: GitHub Actions Self-hosted Runner를 위한 auto-scaler 개발 1" },
+    { "id": "4g9EPJxxGtA", "title": "53: GitHub Actions Self-hosted Runner를 위한 auto-scaler 개발 2" },
+    { "id": "FT4_DSetr5c", "title": "54: GitHub Actions Self-hosted Runner를 위한 auto-scaler 개발 3" },
+    { "id": "EbOBropPOOQ", "title": "49: Project Reactor에 PR을 보내 보자" },
+    { "id": "w3grWtoSAuo", "title": "50: Project Reactor에 보낸 PR follow-up하고 NullAway 적용해 보자" },
+    { "id": "5Wl6yyuC1O8", "title": "47: Virtual thread 로 만든 ExecutorService 안전히 종료하기" },
     { "id": "FtSHkUyzPwQ", "title": "켠 김에 PR까지 42: Thread pool 을 만들자 14부" },
     { "id": "h0InAgN2MdY", "title": "켠 김에 PR까지 43: Thread pool 을 만들자 15부" },
     { "id": "2Zto_nMOROM", "title": "켠 김에 PR까지 44: Virtual thread 지원하는 Thread pool 을 만들자 16부" },

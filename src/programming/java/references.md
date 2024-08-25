@@ -822,6 +822,7 @@ tag:
 ### Rock the JVM Blog
 
 - [Kotlin Flows - The Ultimate Guide](https://blog.rockthejvm.com/kotlin-flows/)
+- [Raise Your Tests: Testing Functional Kotlin with Arrow and Raise](https://blog.rockthejvm.com/testing-raise/)
 
 ### The house sometimes wins
 
@@ -1002,6 +1003,14 @@ tag:
 ### Study Note
 
 - [Ktlint 기반 스타일 체크 환경 구축](https://studynote.oopy.io/kotlin/2)
+
+### Outcome School | Get High Paying Tech Job
+
+- [Extension function in Kotlin](https://outcomeschool.com/blog/extension-function-in-kotlin)
+
+### maiatoday
+
+- [50 ways to run some Kotlin code](https://maiatoday.net/p/50-ways-to-run-some-kotlin-code/)
 
 ---
 

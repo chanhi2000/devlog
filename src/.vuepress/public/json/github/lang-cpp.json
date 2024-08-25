@@ -2238,5 +2238,12 @@
     "topics": ["firefox", "firefox-based", "firefox-browser"],
     "avatar": "https://avatars.githubusercontent.com/u/165225155?v=4",
     "banner": ""
+  }, {
+    "repo": "amnezia-vpn/amnezia-client",
+    "desc": "Amnezia VPN Client (Desktop+Mobile)",
+    "officialSite": "https://amnezia.org",
+    "topics": ["cloak", "gfw", "ikev2", "openvpn", "shadowsocks", "vpn", "vpn-client", "vpn-server", "wireguard"],
+    "avatar": "https://avatars.githubusercontent.com/u/74861536?v=4",
+    "banner": ""
   }
 ]

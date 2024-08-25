@@ -276,6 +276,7 @@ tag:
 ## notgull
 
 - [Why choose `async`/`await` over threads?](https://notgull.net/why-not-threads/)
+- [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 
 ---
 
@@ -456,6 +457,12 @@ tag:
 ## Codethink | Software Engineering | Open Source Experts
 
 - [Developing a cryptographically secure bootloader for RISC-V in Rust](https://www.codethink.co.uk/articles/2024/secure_bootloader/)
+
+---
+
+## Quentin Santos
+
+- [Linux Pipes are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)
 
 ---
 

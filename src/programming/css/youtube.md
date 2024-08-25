@@ -40,7 +40,7 @@ tag:
 <MyYouTubeItems jsonName="yu-craftsman-mentality" /><!-- 크래프트맨 멘탈리티 -->
 <MyYouTubeItems jsonName="yu-Homgwart" /> <!-- 홈페이지마법사 -->
 <MyYouTubeItems jsonName="yu-rc_codex" /><!-- rccodex -->
-<MyYouTubeItems jsonName="yu-alohaclass5" /><!-- ALOHA CLASS -->
+<MyYouTubeItems jsonName="yu-alohaclass" /><!-- ALOHA CLASS -->
 <MyYouTubeItems jsonName="yu-appbrewery" /><!-- London App Brewery -->
 <MyYouTubeItems jsonName="yu-MattVisiwig" /><!-- Matt Visiwig -->
 <MyYouTubeItems jsonName="yu-hyena-sunny" /><!-- 중써니 -->

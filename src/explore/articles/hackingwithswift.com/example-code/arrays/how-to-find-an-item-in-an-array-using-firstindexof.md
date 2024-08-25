@@ -48,7 +48,7 @@ isOriginal: false
 {
   "title": "How to find an item in an array using firstIndex(of:) | Array - free Swift example code",
   "desc": "How to find an item in an array using firstIndex(of:)",
-  "link": "https://www.hackingwithswift.com/example-code/arrays/how-to-find-an-item-in-an-array-using-firstindexof",
+  "link": "https://hackingwithswift.com/example-code/arrays/how-to-find-an-item-in-an-array-using-firstindexof",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }

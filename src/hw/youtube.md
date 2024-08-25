@@ -94,5 +94,6 @@ head:
 <MyYouTubeItems jsonName="yu-aChairLeg" /><!-- aChair Leg -->
 <MyYouTubeItems jsonName="yu-HughJeffreys" /><!-- Hugh Jeffreys -->
 <MyYouTubeItems jsonName="yu-partspluspods3689" /><!-- Parts Plus Pods -->
+<MyYouTubeItems jsonName="yu-OzTalksHW" /><!-- OzTalksHW -->
 
 <TagLinks />

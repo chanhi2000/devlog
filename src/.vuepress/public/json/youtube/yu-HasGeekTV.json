@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/q9Vx3-YvO8ZzLsHWeuacnsotv9BbzbFunyVBN87yGEfhdSNLhCkEcyl2G4vyEiR7K8iZEad3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4vTWd3QOlpg", "title": "Food for thought: scaling delight at Zomato using GenAI | Yuvraj Gagneja" },
+    { "id": "qCFqnr3Df5g", "title": "[Wrap Up - Track A] Data Engineering and Infrastructure | The Fifth Elephant 2024 Annual Conference" },
+    { "id": "D6cxPz8Qe1I", "title": "[Wrap Up - Track B] GenAI and LLMs in Business | The Fifth Elephant 2024 Annual Conference" },
+    { "id": "xMu_kBtUCPE", "title": "[Demo] Empowering Indian Languages’ Subtitling with LLMs | Indic Subtitler | The Fifth Elephant" },
+    { "id": "e1ElgWpgIl0", "title": "[Demo] Redefining Survey Tools with LLMs | Knowledge Preservation | The Fifth Elephant" },
+    { "id": "U9pc-yCSLPE", "title": "[Demo] Education Accessibility in India with On-Device AI | Hole in your Palm | The Fifth Elephant" },
+    { "id": "GgcHsDJEvs4", "title": "[Demo] Indian Statutes and Laws in Akoma Ntoso Format | Schematise | The Fifth Elephant" },
+    { "id": "aS7Y_aU6w7A", "title": "[Demo] Multimodal Tools for Media Accessibility & Customization | [Decon]struct | The Fifth Elephant" },
     { "id": "WUv95Mq-WG4", "title": "Data Governance Practices in the Account Aggregator Ecosystem" },
     { "id": "Mf0HKewmGIM", "title": "Detecting Deepfakes: From Classical Physics to Deep Learning" },
     { "id": "jKcY8elwidE", "title": "Introduction to Transformer Architecture" },

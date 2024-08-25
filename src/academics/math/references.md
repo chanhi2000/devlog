@@ -608,4 +608,10 @@ head:
 
 ---
 
+## Wishful Coding
+
+- [Why is a Guillotine blade diagonal?](https://pepijndevos.nl/2024/08/24/why-is-a-guillotine-blade-diagonal.html)
+
+---
+
 <TagLinks />

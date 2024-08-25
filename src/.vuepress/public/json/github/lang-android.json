@@ -734,5 +734,19 @@
     "topics": ["android", "compose-multiplatform", "kotlin-multiplatform", "swiftui"],
     "avatar": "https://avatars.githubusercontent.com/u/10727543?v=4",
     "banner": ""
+  }, {
+    "repo": "idfinance-oss/LogKMPanion",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/177936045?v=4",
+    "banner": ""
+  }, {
+    "repo": "wisemuji/compose-would-you-rather-game",
+    "desc": "📱 Compose Multiplatform, 100% UI shared by Compose, generates contents by Gemini",
+    "officialSite": "",
+    "topics": ["android", "compose", "compose-multiplatform", "compose-ui", "gemini", "kotlin", "kotlin-multiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/32327475?v=4",
+    "banner": ""
   }
 ]

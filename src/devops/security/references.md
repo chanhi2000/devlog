@@ -493,6 +493,12 @@ tag:
 
 ---
 
+## Moxie Marlinspike
+
+- [The Cryptographic Doom Principle](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
+
+---
+
 ## Project(s)
 
 ```component VPCard

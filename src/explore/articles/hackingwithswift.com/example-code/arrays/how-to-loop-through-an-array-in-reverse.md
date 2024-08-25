@@ -48,7 +48,7 @@ isOriginal: false
 {
   "title": "How to loop through an array in reverse | Array - free Swift example code",
   "desc": "How to loop through an array in reverse",
-  "link": "https://www.hackingwithswift.com/example-code/arrays/how-to-loop-through-an-array-in-reverse",
+  "link": "https://hackingwithswift.com/example-code/arrays/how-to-loop-through-an-array-in-reverse",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
 }
