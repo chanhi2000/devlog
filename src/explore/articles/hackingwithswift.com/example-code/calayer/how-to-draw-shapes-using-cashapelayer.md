@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to draw shapes using CAShapeLayer | Array - free Swift example code",
+  "title": "How to draw shapes using CAShapeLayer | CALayer - free Swift example code",
   "desc": "How to draw shapes using CAShapeLayer",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-draw-shapes-using-cashapelayer",
   "logo": "https://hackingwithswift.com/favicon.svg",

@@ -226,6 +226,7 @@ head:
 - [React Libraries for 2024](https://www.robinwieruch.de/react-libraries/) <!-- TODO: 읽고 라이브러리 추출 -->
 - [Linear Algebra in JavaScript with Matrix Operations](https://www.robinwieruch.de/linear-algebra-matrix-javascript)
 - [rwieruch - 10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends)
+- [React is (becoming) a Full-Stack Framework](https://www.robinwieruch.de/react-full-stack-framework/)
 
 ---
 
@@ -319,6 +320,9 @@ head:
 - [`ding-co` / Aaron's blog](https://ding-co.tistory.com/m/)
   - [About Tanstack Query 세미나 그리고 근황](https://ding-co.tistory.com/m/624)
   <!-- END: ding-co -->
+- [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
+  - [React에서 비동기 작업을 할 때 Race Condition을 방지하는 효과적인 해결 방법들](https://kesakiyo.tistory.com/m/entry/React%EC%97%90%EC%84%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9E%91%EC%97%85%EC%9D%84-%ED%95%A0-%EB%95%8C-Race-Condition%EC%9D%84-%EB%B0%A9%EC%A7%80%ED%95%98%EB%8A%94-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95%EB%93%A4)
+  <!-- END: kesakiyo -->
 <!-- END: tistory.com -->
 
 ---

@@ -2410,5 +2410,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/1945?v=4",
     "banner": ""
+  }, {
+    "repo": "makeecat/Peng",
+    "desc": "A minimal quadrotor pipeline in Rust (Mac, Linux, Windows)",
+    "officialSite": "https://makeecat.github.io/Peng/",
+    "topics": ["drone", "quadcopter", "quadrotor", "rerun", "robotics", "rust", "uav"],
+    "avatar": "https://avatars.githubusercontent.com/u/4675968?v=4",
+    "banner": ""
   }
 ]

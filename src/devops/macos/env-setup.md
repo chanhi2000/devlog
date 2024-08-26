@@ -169,11 +169,18 @@ Install the following(s)
   preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/22/cf/1d/22cf1d7f-9297-4ee3-7f94-d1460a1bfcb6/e04c9b19-1505-4136-9646-c86c80f6667c_Dependencies_Mac_EN_3.png/313x0w.webp"/>
 
 <SiteInfo
-  name="MarkChart - Mermaid Preview 4+"
+  name="MarkChart - Mermaid Preview"
   desc="Markdown diagrams"
   url="https://apps.apple.com/us/app/markchart-mermaid-preview/id6475648822"
   logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/52/9d/bf529dcc-fdf8-1e8e-9e47-ea18496d1510/AppIcon-0-0-85-220-0-4-0-2x-P3.png/217x0w.webp"
   preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8e/1e/85/8e1e8559-a164-fb75-ea13-0603a826fd03/0bf6f663-ef17-4000-964d-e605cfd45476_MarkChart_Mac_EN_1.png/217x0w.webp"/>
+
+<SiteInfo
+  name="DayMoney - Budget, Diary"
+  desc="Manage money, Enjoy days"
+  url="https://apps.apple.com/us/app/daymoney-budget-diary/id6443419421"
+  logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/3a/49/523a495e-a6d7-b576-63b2-43176a7eeb05/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/460x0w.webp"
+  preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/62/99/b262998c-0105-20f4-7eb7-569da5434768/84d7d4ee-38e2-49a5-9b39-1612311d592e__Ub370_Uc774_Uba38_Ub2c8_Mac__U00281_U0029.jpg/626x0w.webp"/>
 
 ### B3. Use `mas` to install
 
@@ -186,6 +193,7 @@ Install the following(s)
 # 1612199418: Cheetah - Virtual Machines
 # 1429033973: RunCat
 # 1635954549: ScanTexter - AI translation 
+# 6443419421: DayMoney - Budget, Diary
 mas install 497799835 \
     1604176982 \
     885120167 \
@@ -193,7 +201,8 @@ mas install 497799835 \
     # 595191960 \
     1612199418 \
     1429033973 \
-    1635954549
+    1635954549 \
+    # 6443419421
 ```
 
 ---

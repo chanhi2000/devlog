@@ -332,6 +332,8 @@ tag:
 - [`chsh`](https://johngrib.github.io/wiki/cmd/chsh/)
 - [`factor` 명령어](https://johngrib.github.io/wiki/cmd/factor/)
 - [`sed`](https://johngrib.github.io/wiki/cmd/sed/)
+- [`time` 명령어](https://johngrib.github.io/wiki/cmd/time/)
+- [`join` 명령어](https://johngrib.github.io/wiki/cmd/join/)
 
 ---
 

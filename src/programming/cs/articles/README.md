@@ -136,6 +136,106 @@ head:
 
 ```component VPCard
 {
+  "title": "Feature Flags in .NET and How I Use Them for A/B Testing",
+  "desc": "The ability to conditionally turn features on or off in your application without redeploying the code is a powerful tool. It lets you quickly iterate on new features and frequently integrate your changes with the main branch. You can use feature flags to achieve this. Feature flags are a software development technique that allows you to wrap application features in a conditional statement. You can then toggle the feature on or off in runtime to control which features are enabled.",
+  "link": "/explore/articles/milanjovanovic.tech/feature-flags-in-dotnet-and-how-i-use-them-for-ab-testing.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Monolith to Microservices: How a Modular Monolith Helps",
+  "desc": "You start building a beautiful monolith system. Maybe a modular monolith. The system grows, and requirements are ever-changing. Slowly, cracks begin to appear in the system. This could be for organizational reasons and distributing the work across a team. Or it could be because of scaling issues and performance bottlenecks. You begin the process of evaluating the benefits and tradeoffs of possible solutions. At last, you come to a decision. It's time to migrate parts of the system to individual services. So, how do we approach this migration from monolith to microservices?",
+  "link": "/explore/articles/milanjovanovic.tech/monolith-to-microservices-how-a-modular-monolith-helps.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CQRS Validation with MediatR Pipeline and FluentValidation",
+  "desc": "Validation is an essential cross-cutting concern that you need to solve in your application. You want to ensure the request is valid before you consider processing it. Another important question you need to answer is how you approach different types of validation. For example, I consider input and business validation differently, and each deserves a specific solution. I want to show you an elegant solution for validation using MediatR and FluentValidation. If you aren't using CQRS with MediatR, don't worry. Everything I explain about validation can easily be adapted to other paradigms.",
+  "link": "/explore/articles/milanjovanovic.tech/cqrs-validation-with-mediatr-pipeline-and-fluentvalidation.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Getting Started With NServiceBus in .NET",
+  "desc": "NServiceBus is a feature-rich messaging framework supporting many different message transports. It's developed and maintained by Particular Software. And it simplifies the process of building complex distributed systems across various cloud-based queueing technologies. The basic building blocks of NServiceBus are messages and endpoints. A message contains the required information to execute a business operation. Endpoints are logical entities that send and receive messages.",
+  "link": "/explore/articles/milanjovanovic.tech/getting-started-with-nservicebus-in-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Improving ASP.NET Core Dependency Injection With Scrutor",
+  "desc": "Dependency injection (DI) is one of the most exciting features of ASP.NET Core. It helps us build more testable and maintainable applications. However, ASP.NET Core's built-in DI system sometimes needs a little help to achieve more advanced scenarios. So I want to introduce you to a powerful library for enhancing your ASP.NET Core DI - Scrutor.",
+  "link": "/explore/articles/milanjovanovic.tech/improving-aspnetcore-dependency-injection-with-scrutor.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CQRS Pattern With MediatR",
+  "desc": "Today I want to show you how to use the CQRS pattern to build fast and scalable applications. The CQRS pattern separates the writes and reads in the application. This separation can be logical or physical and has many benefits. I'm also going to show you how to implement CQRS in your application using MediatR.",
+  "link": "/explore/articles/milanjovanovic.tech/cqrs-pattern-with-mediatr.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Functional Error Handling in .NET With the Result Pattern",
+  "desc": "How should you handle errors in your code? This has been a topic of many discussions, and I want to share my opinion. One school of thought suggests using exceptions for flow control. This is not a good approach because it makes the code harder to reason about. The caller must know the implementation details and which exceptions to handle. Exceptions are for exceptional situations. Today, I want to show you how to implement error handling using the Result pattern. It's a functional approach to error handling, making your code more expressive.",
+  "link": "/explore/articles/milanjovanovic.tech/functional-error-handling-in-dotnet-with-the-result-pattern.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Vertical Slice Architecture",
+  "desc": "Layered architectures are the foundation of many software systems. However, layered architectures organize the system around technical layers. And the cohesion between layers is low. What if you wanted to organize the system around features instead? This is where Vertical Slice Architecture comes in.",
+  "link": "/explore/articles/milanjovanovic.tech/vertical-slice-architecture.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Easily Create PDF Documents in ASP.NET Core",
+  "desc": "Reporting is essential for business applications like e-commerce, shipping, fintech, etc. One of the most popular document formats for reporting purposes is PDF. Today I want to show you a few interesting ways to generate PDF files in .NET.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-easily-create-pdf-documents-in-aspnetcore.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Use EF Core Interceptors",
+  "desc": "EF Core is my favorite ORM for .NET applications. Yet, its many fantastic features sometimes go unnoticed. For example, query splitting, query filters, and interceptors. EF interceptors are interesting because you can do powerful things with them. For example, you can hook into materialization, handle optimistic concurrency errors, or add query hints. The most practical use case is adding behavior when saving changes to the database.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-use-ef-core-interceptors.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "How to Build a URL Shortener With .NET",
   "desc": "A URL shortener is a simple yet powerful tool that converts long URLs into more manageable, shorter versions. Today, I'll guide you through the design, implementation, and considerations for creating your URL shortener in .NET",
   "link": "/explore/articles/milanjovanovic.tech/how-to-build-a-url-shortener-with-dotnet.md",

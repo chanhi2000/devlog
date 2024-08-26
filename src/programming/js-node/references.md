@@ -1024,6 +1024,7 @@ tag:
 
 - [노드 간의 포함관계를 확인하는 contains](https://hyeonseok.com/blog/912)
 - [Node의 SQLite 지원](https://hyeonseok.com/blog/915)
+- [Puppeteer로 웹페이지 열고 조작하기](https://hyeonseok.com/blog/916)
 
 ---
 

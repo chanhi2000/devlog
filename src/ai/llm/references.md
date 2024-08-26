@@ -82,6 +82,9 @@ head:
 
 - [`@ZVA` / 어텐션맵은 뭐고 트랜스포머는 또 뭐냐...LLM 입문](https://brunch.co.kr/@@ZVA/702)
 - [`@2YWz` / Enterprise LLM 사용자 인터페이스](https://brunch.co.kr/@@2YWz/114)
+- [`@5jl5` / \[책소개\] 금융 AI의 이해  - 신용 평가, 사기 탐지, 퀀트투자, 생성형 AI를 활용한 실전 금융 AI](https://brunch.co.kr/@@5jl5/127)
+
+<!-- END: brunch.co.kr -->
 
 ---
 
@@ -300,6 +303,7 @@ head:
 - [LLM 기반 센서 데이터 해석 방법](https://daddynkidsmakers.blogspot.com/2024/07/llm_17.html)
 - [sLLM과 vLLM에 대한 이야기](https://daddynkidsmakers.blogspot.com/2024/07/sllm-vllm.html)
 - [AI 과학자 Sakana.AI 사용법](https://daddynkidsmakers.blogspot.com/2024/08/ai-sakanaai.html)
+- [인공지능 딥러닝 모델 성능 지표](https://daddynkidsmakers.blogspot.com/2024/08/blog-post.html)
 
 <!-- END: daddynkidsmakers.blogspot.com -->
 

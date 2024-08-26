@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "What is CALayer? | Array - free Swift example code",
+  "title": "What is CALayer? | CALayer - free Swift example code",
   "desc": "What is CALayer?",
   "link": "https://hackingwithswift.com/example-code/calayer/what-is-calayer",
   "logo": "https://hackingwithswift.com/favicon.svg",

@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to round the corners of a UIView | Array - free Swift example code",
+  "title": "How to round the corners of a UIView | CALayer - free Swift example code",
   "desc": "How to round the corners of a UIView",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-round-the-corners-of-a-uiview",
   "logo": "https://hackingwithswift.com/favicon.svg",

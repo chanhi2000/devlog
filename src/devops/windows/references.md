@@ -59,7 +59,26 @@ tag:
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [윈도우 11 에서 검색으로 파일의 최근 수정한 날짜 기준 보는 방법](https://aspdotnet.tistory.com/m/2929)
   <!-- END: aspdotnet -->
-
+- [`coding-factory` / 코딩팩토리](https://coding-factory.tistory.com/m/)
+  - [\[복붙하세요\] 로마 숫자 특수기호 모음집 (Ⅰ, Ⅱ, Ⅲ, Ⅳ, Ⅴ, Ⅵ, Ⅶ...)](https://coding-factory.tistory.com/m/1046)
+  - [\[복붙하세요\] 말 줄임표 특수기호(···. ······.) 모음집](https://coding-factory.tistory.com/m/1047)
+  - [\[복붙하세요\] 세모 모양 특수 문자 모음집(▲△▶▷◢◣◤◥◬)](https://coding-factory.tistory.com/m/1051)
+  - [\[복붙하세요\] 네모 모양 특수 문자 모음집(□■▣▤▥▨▧▦▩)](https://coding-factory.tistory.com/m/1050)
+  - [\[복붙하세요\] 별 모양 특수문자 모음집(★☆✪✫✦✧✬✭)](https://coding-factory.tistory.com/m/1049)
+  - [\[복붙하세요\] 체크 표시 특수 문자 모음집(✓ ✔ ☑ √ ▣)](https://coding-factory.tistory.com/m/1052)
+  - [\[복붙하세요\] 얼굴 표정(웃는, 우는, 화난 표정) 특수문자, 이모지 모음집](https://coding-factory.tistory.com/m/1081)
+  <!-- END: coding-factory -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [Windows에서 웹 개발 환경 만들기 ( WampServer : MariaDB, PHP, MySQL, PhpMyAdmin )](http://webnautes.tistory.com/1206)
+  - [윈도우와 우분투 듀얼 부팅시 윈도우 시간 안 맞는 문제 해결](https://webnautes.tistory.com/2319)
+  - [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
+  - [Windows에 설치한 WSL2 및 Ubuntu 삭제하는 방법](https://webnautes.tistory.com/m/2013)
+  - [Rufus를 사용하여 Ubuntu 설치용 USB 메모리를 만드는 방법 (UEFI/GPT/MBR)](https://webnautes.tistory.com/m/2119)
+  - [Windows 11에서 윈도우 업데이트 후 사라진 Grub 부팅 메뉴 복구하기](https://webnautes.tistory.com/m/2361)
+  - [grub 복구하기](https://webnautes.tistory.com/m/1147)
+  - [Windows에서 Miniconda 삭제하기](https://webnautes.tistory.com/m/2382)
+  - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
+  <!-- END: webnautes -->
 <!-- END: tistory.com -->
 
 ---
@@ -119,32 +138,6 @@ tag:
 ## Henri Sivonen's pages
 
 - [Activating Browser Modes with Doctype](https://hsivonen.fi/doctype/)
-
----
-
-## 코딩팩토리
-
-- [\[복붙하세요\] 로마 숫자 특수기호 모음집 (Ⅰ, Ⅱ, Ⅲ, Ⅳ, Ⅴ, Ⅵ, Ⅶ...)](https://coding-factory.tistory.com/m/1046)
-- [\[복붙하세요\] 말 줄임표 특수기호(···. ······.) 모음집](https://coding-factory.tistory.com/m/1047)
-- [\[복붙하세요\] 세모 모양 특수 문자 모음집(▲△▶▷◢◣◤◥◬)](https://coding-factory.tistory.com/m/1051)
-- [\[복붙하세요\] 네모 모양 특수 문자 모음집(□■▣▤▥▨▧▦▩)](https://coding-factory.tistory.com/m/1050)
-- [\[복붙하세요\] 별 모양 특수문자 모음집(★☆✪✫✦✧✬✭)](https://coding-factory.tistory.com/m/1049)
-- [\[복붙하세요\] 체크 표시 특수 문자 모음집(✓ ✔ ☑ √ ▣)](https://coding-factory.tistory.com/m/1052)
-- [\[복붙하세요\] 얼굴 표정(웃는, 우는, 화난 표정) 특수문자, 이모지 모음집](https://coding-factory.tistory.com/m/1081)
-
----
-
-## 멈춤보단 천천히라도
-
-- [Windows에서 웹 개발 환경 만들기 ( WampServer : MariaDB, PHP, MySQL, PhpMyAdmin )](http://webnautes.tistory.com/1206)
-- [윈도우와 우분투 듀얼 부팅시 윈도우 시간 안 맞는 문제 해결](https://webnautes.tistory.com/2319)
-- [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
-- [Windows에 설치한 WSL2 및 Ubuntu 삭제하는 방법](https://webnautes.tistory.com/m/2013)
-- [Rufus를 사용하여 Ubuntu 설치용 USB 메모리를 만드는 방법 (UEFI/GPT/MBR)](https://webnautes.tistory.com/m/2119)
-- [Windows 11에서 윈도우 업데이트 후 사라진 Grub 부팅 메뉴 복구하기](https://webnautes.tistory.com/m/2361)
-- [grub 복구하기](https://webnautes.tistory.com/m/1147)
-
-<!-- END: webnautes.tistory.com -->
 
 ---
 

@@ -38,6 +38,7 @@ head:
   - [hgtransform을 이용하여 이미지 회전시키기](https://lazymatlab.tistory.com/m/287)
   - [애증의 정규식... 3탄](https://lazymatlab.tistory.com/m/290)
   - [테일러 급수의 수렴 조건](https://lazymatlab.tistory.com/m/291)
+  - [다변수 함수의 미분 가능성](https://lazymatlab.tistory.com/m/292)
   <!-- END: lazymatlab -->
 <!-- END: tistory.com -->
 

@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to make a UIView fade out | Array - free Swift example code",
+  "title": "How to make a UIView fade out | CALayer - free Swift example code",
   "desc": "How to make a UIView fade out",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-make-a-uiview-fade-out",
   "logo": "https://hackingwithswift.com/favicon.svg",

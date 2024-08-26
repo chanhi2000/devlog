@@ -819,6 +819,13 @@ https://paperlined.org/
   preview="https://blog.kotzilla.io/hubfs/banner.png"/>
 
 <SiteInfo
+  name="Android Community on a Global Scale - droidcon"
+  desc="droidcon Community on a Global Scaledroidcon is your source for daily tech blogs, videos, events, jobs and more all around Android development."
+  url="https://droidcon.com/"
+  logo="https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png"
+  preview="https://droidcon.com/wp-content/uploads/2021/09/droidcon_visuals_Flaechen_RGB_droidcon-visual-23-scaled.jpg"/>
+
+<SiteInfo
   name="Tecmint: Linux Howtos, Tutorials & Guides"
   desc="Tecmint - Linux Howtos, Tutorials, Guides, News, Tips and Tricks."
   url="https://tecmint.com/"

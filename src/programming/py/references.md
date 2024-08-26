@@ -782,6 +782,7 @@ head:
   - [\[Python\] 함수 정의시 * 인수 사용법](https://mobicon.tistory.com/m/621)
   - [\[Python\] 패키지와 모듈 범위](https://mobicon.tistory.com/m/622)
   - [\[Python\] Pydantic 의  BaseModel 클래스 사용](http://mobicon.tistory.com/m/627)
+  - [\[Python\] with `get_openai_callback` as cb: 의미](http://mobicon.tistory.com/m/628)
   <!-- END: mobicon -->
 - [`iostream` / Make headway towards solving the problem](https://iostream.tistory.com/m/)
   - [Adapter Pattern](https://iostream.tistory.com/m/178)
@@ -2126,6 +2127,7 @@ head:
 - [\[코드트리 조별과제\] 2주차 - 재귀함수](https://su-mmer.tistory.com/m/130)
 - [\[코드트리 조별과제\] 3주차 - 객체, 날짜와 시간 계산, Notation](https://su-mmer.tistory.com/m/131)
 - [\[코드트리 조별과제\] 5주차 - 배열 기록](https://su-mmer.tistory.com/m/132)
+- [\[코드트리 조별과제\] 6주차 - dx dy technique](https://su-mmer.tistory.com/m/133)
 
 <!-- END: su-mmer.tistory.com -->
 
@@ -2268,6 +2270,18 @@ head:
 ## Pydong
 
 - [Python's Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
+
+---
+
+## 달리나음 노트
+
+- [나는 어떻게 상대 강도를 계산하였는가?](https://dalinaum.github.io/investment/2024/08/26/how-i-calculated-relative-strength.html)
+
+---
+
+## Jon Udell
+
+- [The Tao of Unicode Sparklines](https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/)
 
 ---
 

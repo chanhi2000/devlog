@@ -429,6 +429,7 @@ head:
 - [Every vector space has a basis.](https://lazymatlab.tistory.com/m/282)
 - [자연수의 서수와 기수](https://lazymatlab.tistory.com/m/283)
 - [테일러 급수의 수렴 조건](https://lazymatlab.tistory.com/m/291)
+- [다변수 함수의 미분 가능성](https://lazymatlab.tistory.com/m/292)
 
 ---
 
@@ -611,6 +612,18 @@ head:
 ## Wishful Coding
 
 - [Why is a Guillotine blade diagonal?](https://pepijndevos.nl/2024/08/24/why-is-a-guillotine-blade-diagonal.html)
+
+---
+
+## Expert consulting in applied mathematics & data privacy
+
+- [Compression and interpolation](https://www.johndcook.com/blog/2024/08/17/compression-and-interpolation/)
+
+---
+
+## Eric Lengyel’s Blog
+
+- [Poor Foundations in Geometric Algebra](https://terathon.com/blog/poor-foundations-ga.html)
 
 ---
 

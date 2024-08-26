@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to change a view’s anchor point without moving it | Array - free Swift example code",
+  "title": "How to change a view’s anchor point without moving it | CALayer - free Swift example code",
   "desc": "How to change a view’s anchor point without moving it",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-change-a-views-anchor-point-without-moving-it",
   "logo": "https://hackingwithswift.com/favicon.svg",

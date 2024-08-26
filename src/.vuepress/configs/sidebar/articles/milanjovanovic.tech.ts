@@ -6,7 +6,17 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "cs", [
-      "5-awesome-csharp-refactoring-tips", // 2023-11-25
+      "feature-flags-in-dotnet-and-how-i-use-them-for-ab-testing", // 2023-09-16
+      "monolith-to-microservices-how-a-modular-monolith-helps", // 2023-09-23
+      "cqrs-validation-with-mediatr-pipeline-and-fluentvalidation", // 2023-09-30
+      "getting-started-with-nservicebus-in-dotnet", // 2023-10-07
+      "improving-aspnetcore-dependency-injection-with-scrutor", // 2023-10-14
+      "cqrs-pattern-with-mediatr", // 2023-10-21
+      "functional-error-handling-in-dotnet-with-the-result-pattern", // 2023-10-28
+      "vertical-slice-architecture", // 2023-11-04
+      "how-to-easily-create-pdf-documents-in-aspnetcore", // 2023-11-11
+      "how-to-use-ef-core-interceptors", // 2023-11-18
+      "5-awesome-csharp-refactoring-tips", // 2023-11-25  
       "global-error-handling-in-aspnetcore-8", // 2023-12-02
       "modular-monolith-data-isolation", // 2023-12-09
       "5-serilog-best-practices-for-better-structured-logging", // 2023-12-16
@@ -61,6 +71,16 @@ export const template: SidebarInfoTemplate = {
       "what-is-a-modular-monolith", // 2024-03-09
     ]],[
     "all", [
+      "feature-flags-in-dotnet-and-how-i-use-them-for-ab-testing", // 2023-09-16
+      "monolith-to-microservices-how-a-modular-monolith-helps", // 2023-09-23
+      "cqrs-validation-with-mediatr-pipeline-and-fluentvalidation", // 2023-09-30
+      "getting-started-with-nservicebus-in-dotnet", // 2023-10-07
+      "improving-aspnetcore-dependency-injection-with-scrutor", // 2023-10-14
+      "cqrs-pattern-with-mediatr", // 2023-10-21
+      "functional-error-handling-in-dotnet-with-the-result-pattern", // 2023-10-28
+      "vertical-slice-architecture", // 2023-11-04
+      "how-to-easily-create-pdf-documents-in-aspnetcore", // 2023-11-11
+      "how-to-use-ef-core-interceptors", // 2023-11-18
       "5-awesome-csharp-refactoring-tips", // 2023-11-25
       "global-error-handling-in-aspnetcore-8", // 2023-12-02
       "modular-monolith-data-isolation", // 2023-12-09

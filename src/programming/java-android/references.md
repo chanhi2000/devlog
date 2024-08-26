@@ -261,14 +261,6 @@ tag:
 
 ---
 
-## droidcon
-
-- [WRITING SWIFT-FRIENDLY KOTLIN MULTIPLATFORM APIS — PART IX: FLOW](https://www.droidcon.com/2023/09/14/writing-swift-friendly-kotlin-multiplatform-apis-part-ix-flow/)
-- [INTRODUCING IRIS MOCK: AN EASIER WAY TO MOCK NETWORK CALLS ON ANDROID](https://www.droidcon.com/2023/10/22/introducing-iris-mock-an-easier-way-to-mock-network-calls-on-android)
-- [HOW SUSPEND FUNCTIONS WORK IN KOTLIN: UNDER THE HOOD](https://www.droidcon.com/2024/04/25/how-suspend-functions-work-in-kotlin-under-the-hood/)
-
----
-
 ## Vincent Tsen
 
 - [Beginner's Guide to Understand Build Gradle Files in Android Studio](https://vtsen.hashnode.dev/beginners-guide-to-understand-build-gradle-files-in-android-studio)

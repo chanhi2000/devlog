@@ -49,15 +49,12 @@ head:
   logo="https://kodeco.com/apple-touch-icon.png"
   preview="https://assets.carolus.kodeco.com/assets/kodeco/kodeco_og-card-407902405b9dd0a39ca47efb3b6477865605d373002abcd9b28846491c4d7717.png"/>
 
-```component VPCard
-{
-  "title": "Android Community on a Global Scale - droidcon",
-  "desc": "droidcon Community on a Global Scaledroidcon is your source for daily tech blogs, videos, events, jobs and more all around Android development.",
-  "link": "https://www.droidcon.com/",
-  "logo": "https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
-  "background": "rgba(4,20,221,0.2)"
-}
-```
+<SiteInfo
+  name="Android Community on a Global Scale - droidcon"
+  desc="droidcon Community on a Global Scaledroidcon is your source for daily tech blogs, videos, events, jobs and more all around Android development."
+  url="https://droidcon.com/"
+  logo="https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png"
+  preview="https://droidcon.com/wp-content/uploads/2021/09/droidcon_visuals_Flaechen_RGB_droidcon-visual-23-scaled.jpg"/>
 
 <SiteInfo
   name="Kt. Academy"
@@ -255,10 +252,40 @@ head:
 
 ```component VPCard
 {
+  "title": "Writing Swift-friendly Kotlin Multiplatform APIs — Part IX: Flow - droidcon",
+  "desc": "I know you have been waiting long for the Great Season Finale of this series: Flow! Let us see if we can apply what we learned so far.",
+  "link": "/explore/articles/droidcon.com/writing-swift-friendly-kotlin-multiplatform-apis-part-ix-flow.md",
+  "logo": "https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
+  "background": "rgba(4,20,221,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Introducing Iris Mock: An easier way to mock network calls on Android - droidcon",
+  "desc": "This article is a mix of presenting a new tool I have developed to make network mocks easier on Retrofit, Volley and any OkHttp based tool and my learnings during the process. Let's start by introducing Iris Mock and what is possible to do with it.",
+  "link": "/explore/articles/droidcon.com/introducing-iris-mock-an-easier-way-to-mock-network-calls-on-android.md",
+  "logo": "https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
+  "background": "rgba(4,20,221,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Publishing Kotlin Multiplatform Libraries With Sonatype Central - droidcon",
   "desc": "With JCenter sunsetted, distributing public Kotlin Multiplatform libraries now often relies on Maven Central via Sonatype. However, the transition from issues.sonatype.org to central.sonatype.com in March 2024 has left many developers grappling with outdated resources and scarce guidance.",
   "link": "/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md",
-  "logo": "https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
+  "logo": "https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
+  "background": "rgba(4,20,221,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How Suspend Functions Work in Kotlin: Under the hood - droidcon"
+  "desc": "The suspension capability is the most essential feature upon which all other Kotlin Coroutines concepts are built. Your main goal in this article will be to gain a solid understanding of how it works internally.",
+  "link": "/explore/articles/droidcon.com/how-suspend-functions-work-in-kotlin-under-the-hood.md",
+  "logo": "https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
   "background": "rgba(4,20,221,0.2)"
 }
 ```

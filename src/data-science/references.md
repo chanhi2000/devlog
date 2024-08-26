@@ -135,4 +135,10 @@ head:
 
 ---
 
+## Zola Gonano · Blog
+
+- [A Very Technical Look at BitMessage: Learning From a Dead Project](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
+
+---
+
 <TagLinks />

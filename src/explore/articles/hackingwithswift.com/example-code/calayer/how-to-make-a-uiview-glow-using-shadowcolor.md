@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to make a UIView glow using shadowColor | Array - free Swift example code",
+  "title": "How to make a UIView glow using shadowColor | CALayer - free Swift example code",
   "desc": "How to make a UIView glow using shadowColor",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-make-a-uiview-glow-using-shadowcolor",
   "logo": "https://hackingwithswift.com/favicon.svg",

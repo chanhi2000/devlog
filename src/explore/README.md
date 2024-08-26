@@ -743,6 +743,23 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+```component VPCard
+{
+  "title": "all texts in nyc: brooklyn",
+  "desc": "Explore Brooklyn's urban landscape through text. Search and visualize every sign, notice, and street art captured in street images in this unique digital archive of NYC typography.",
+  "link": "https://brooklyn.alltexts.nyc/",
+  "logo": "https://brooklyn.alltexts.nyc/favicon.ico",
+  "background": "rgba(34,34,34,0.2)"
+}
+```
+
+<SiteInfo
+  name="Vim Racer - An Online Game for VIM Navigation"
+  desc="Put your VIM navigation skills to the test with this game for VIM. It's like a typing speed test, but for VIM. Top scores will rank on the leaderboard"
+  url="https://vim-racer.com/"
+  logo="https://vim-racer.com/favicon-32x32.png?v=2918fddef437d28310392792d835d13b"
+  preview="https://vim-racer.com/vim-racer-logo.jpg"/>
+
 <!-- END: Cool Project -->
 
 @tab Portfolio / Resume

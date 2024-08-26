@@ -293,6 +293,7 @@ tag:
 - [`@3L0s` / DX 실행: 생산공정의 디지털화 사례 - 디지털 혁신-18](https://brunch.co.kr/@@3L0s/121)
 - [`@2weV` / 유학/취업 준비자의 추석 연휴, 그리고 휴가 활용법](https://brunch.co.kr/@@2weV/542)
 - [`@2weV` / 내가 어렵지 않게 도울 수 있는 사람을 만나자.](https://brunch.co.kr/@@2weV/544)
+- [`@1dLN` / 문제 식별 능력](https://brunch.co.kr/@@1dLN/62)
 
 <!-- END: brunch.co.kr -->
 
@@ -548,6 +549,7 @@ tag:
 - [글로벌 사업의 기본은 영어](https://thestartupbible.com/2024/08/the-very-first-requirement-for-any-global-business-is-english.html)
 - [노력의 부족으로 실패하지 말자](https://thestartupbible.com/2024/08/if-you-fail-make-sure-its-not-because-of-a-lack-of-effort.html)
 - [제품도 없는데 수익은 어떻게?](https://thestartupbible.com/2024/08/how-do-you-make-a-profit-when-you-dont-have-a-product.html)
+- [회사는 놀이터가 아니다](https://thestartupbible.com/2024/08/your-company-is-not-your-playground.html)
 
 <!-- END: thestartupbible.com -->
 

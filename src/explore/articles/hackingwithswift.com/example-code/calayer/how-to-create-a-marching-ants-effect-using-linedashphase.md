@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to create a marching ants effect using lineDashPhase | Array - free Swift example code",
+  "title": "How to create a marching ants effect using lineDashPhase | CALayer - free Swift example code",
   "desc": "How to create a marching ants effect using lineDashPhase",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-create-a-marching-ants-effect-using-linedashphase",
   "logo": "https://hackingwithswift.com/favicon.svg",

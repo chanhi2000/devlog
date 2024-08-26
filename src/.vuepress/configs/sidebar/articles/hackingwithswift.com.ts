@@ -1645,6 +1645,32 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/calayer/how-to-round-the-corners-of-a-uiview.md',
               '/explore/articles/hackingwithswift.com/example-code/calayer/what-is-calayer.md',
             ]
+          }, {
+            text: 'Catalyst',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/catalyst/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/catalyst/how-to-detect-your-ios-app-is-running-on-macos-catalyst.md',
+            ]
+          }, {
+            text: 'Core Graphics',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-calculate-the-distance-between-two-cgpoints.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-calculate-the-manhattan-distance-between-two-cgpoints.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-calculate-the-point-where-two-lines-intersect.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-compare-two-cgrects-with-equalto.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-draw-a-circle-using-core-graphics-addellipsein.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-draw-a-square-using-core-graphics-addrect.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-draw-a-text-string-using-core-graphics.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-draw-lines-in-core-graphics-moveto-and-addlineto.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-find-the-rotation-from-a-cgaffinetransform.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-find-the-scale-from-a-cgaffinetransform.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-find-the-translation-from-a-cgaffinetransform.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-render-a-pdf-to-an-image.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently.md',
+            ]
           }
         ]
       }

@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to draw color gradients using CAGradientLayer | Array - free Swift example code",
+  "title": "How to draw color gradients using CAGradientLayer | CALayer - free Swift example code",
   "desc": "How to draw color gradients using CAGradientLayer",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-draw-color-gradients-using-cagradientlayer",
   "logo": "https://hackingwithswift.com/favicon.svg",

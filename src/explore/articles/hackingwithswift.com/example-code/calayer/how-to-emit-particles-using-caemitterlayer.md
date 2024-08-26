@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to emit particles using CAEmitterLayer | Array - free Swift example code",
+  "title": "How to emit particles using CAEmitterLayer | CALayer - free Swift example code",
   "desc": "How to emit particles using CAEmitterLayer",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-emit-particles-using-caemitterlayer",
   "logo": "https://hackingwithswift.com/favicon.svg",

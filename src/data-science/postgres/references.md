@@ -420,4 +420,10 @@ head:
 
 ---
 
+## any blockers?
+
+- [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
+
+---
+
 <TagLinks />

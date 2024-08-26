@@ -85,6 +85,7 @@ tag:
 - [`@2fEJ` / \[PM/PO 강의 특강: 인지심리학\]](https://brunch.co.kr/@@2fEJ/1451)
 - [`@2fEJ` / \[PM/PO 특강: 사용성 테스트\]](https://brunch.co.kr/@@2fEJ/1454)
 - [`@2fEJ` / \[PM/PO 특강\] 휴리스틱 평가](https://brunch.co.kr/@@2fEJ/1455)
+- [`@2fEJ` / 고객 중심의 제품 관리](https://brunch.co.kr/@@2fEJ/1466)
 
 <!-- END: brunch.co.kr -->
 

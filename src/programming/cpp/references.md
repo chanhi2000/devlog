@@ -456,6 +456,24 @@ head:
 
 ---
 
+## JusticeHui가 PS하는 블로그
+
+- [2024 NYPC 예선 Round 1/2-A/2-B 풀이](https://justiceHui.github.io/review/2024/08/25/2024-nypc-qual/)
+
+---
+
+## Casey Primozic
+
+- [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
+
+---
+
+## transactional.blog
+
+- [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://agner.org/optimize/optimizing_cpp.pdf" />

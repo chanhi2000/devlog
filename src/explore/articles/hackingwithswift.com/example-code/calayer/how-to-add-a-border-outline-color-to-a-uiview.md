@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to add a border outline color to a UIView | Array - free Swift example code",
+  "title": "How to add a border outline color to a UIView | CALayer - free Swift example code",
   "desc": "How to add a border outline color to a UIView",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-add-a-border-outline-color-to-a-uiview",
   "logo": "https://hackingwithswift.com/favicon.svg",

@@ -23,15 +23,12 @@ head:
 
 # {{ $frontmatter.description }} 관련
 
-```component VPCard
-{
-  "title": "Android Community on a Global Scale - droidcon",
-  "desc": "droidcon Community on a Global Scaledroidcon is your source for daily tech blogs, videos, events, jobs and more all around Android development.",
-  "link": "https://www.droidcon.com/",
-  "logo": "https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
-  "background": "rgba(4,20,221,0.2)"
-}
-```
+<SiteInfo
+  name="Android Community on a Global Scale - droidcon"
+  desc="droidcon Community on a Global Scaledroidcon is your source for daily tech blogs, videos, events, jobs and more all around Android development."
+  url="https://droidcon.com/"
+  logo="https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png"
+  preview="https://droidcon.com/wp-content/uploads/2021/09/droidcon_visuals_Flaechen_RGB_droidcon-visual-23-scaled.jpg"/>
 
 ---
 
@@ -48,6 +45,8 @@ head:
   "background": "rgba(4,20,221,0.2)"
 }
 ```
+
+<!-- END: droidcon.com -->
 
 ---
 

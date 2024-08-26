@@ -251,5 +251,12 @@
     "topics": ["code", "cross-platform", "editor", "liteweight", "luajit", "sdl"],
     "avatar": "https://avatars.githubusercontent.com/u/134111137?v=4",
     "banner": ""
+  }, {
+    "repo": "yetone/avante.nvim",
+    "desc": "Use your Neovim like using Cursor AI IDE!",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+    "banner": ""
   }
 ]

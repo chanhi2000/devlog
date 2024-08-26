@@ -2463,5 +2463,26 @@
     "topics": ["es6", "go", "golang", "hacktoberfest", "javascript", "load-generator", "load-testing", "performance"],
     "avatar": "https://avatars.githubusercontent.com/u/7195757?v=4",
     "banner": ""
+  }, {
+    "repo": "jozu-ai/kitops",
+    "desc": "Tools for easing the handoff between AI/ML and App/SRE teams.",
+    "officialSite": "https://KitOps.ml",
+    "topics": ["ai", "code", "datasets", "devops", "devops-tools", "gguf", "kubernetes", "kubernetes-deployment", "ml", "mlops", "mlops-tools", "model-interpretability", "model-packer", "model-serving", "models", "pytorch", "sklearn", "tensorflow"],
+    "avatar": "https://avatars.githubusercontent.com/u/158621199?v=4",
+    "banner": ""
+  }, {
+    "repo": "pachyderm/pachyderm",
+    "desc": "Data-Centric Pipelines and Data Versioning",
+    "officialSite": "https://www.pachyderm.com/",
+    "topics": ["analytics", "big-data", "containers", "data-analysis", "data-science", "distributed-systems", "docker", "go", "kubernetes", "pachyderm"],
+    "avatar": "https://avatars.githubusercontent.com/u/10432478?v=4",
+    "banner": ""
+  }, {
+    "repo": "flyteorg/flyte",
+    "desc": "Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",
+    "officialSite": "https://flyte.org",
+    "topics": ["data", "data-analysis", "data-science", "dataops", "declarative", "fine-tuning", "flyte", "golang", "grpc", "kubernetes", "kubernetes-operator", "llm", "machine-learning", "mlops", "orchestration-engine", "production", "production-grade", "python", "scale", "workflow"],
+    "avatar": "https://avatars.githubusercontent.com/u/35380635?v=4",
+    "banner": ""
   }
 ]

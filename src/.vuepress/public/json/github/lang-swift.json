@@ -804,5 +804,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/140503484?v=4",
     "banner": ""
+  }, {
+    "repo": "TelegramMessenger/Telegram-iOS",
+    "desc": "Telegram-iOS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/22377696?v=4",
+    "banner": ""
+  }, {
+    "repo": "ssut/Matchumbeop",
+    "desc": "한글 맞춤법 검사기 for macOS (match-um-beop 아님)",
+    "officialSite": "http://matchumbeop.ssut.me/",
+    "topics": ["hangul", "macos"],
+    "avatar": "https://avatars.githubusercontent.com/u/2366668?v=4",
+    "banner": ""
   }
 ]

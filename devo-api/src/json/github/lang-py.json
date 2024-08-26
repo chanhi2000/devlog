@@ -3430,10 +3430,10 @@
     "banner": ""
   }, {
     "repo": "iterative/dvc",
-    "desc": "🦉 ML Experiments Management with Git",
+    "desc": "🦉 ML Experiments and Data Management with Git",
     "officialSite": "https://dvc.org",
     "topics": ["ai", "collaboration", "data-science", "data-version-control", "developer-tools", "git", "hacktoberfest", "machine-learning", "python", "reproducibility"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/39572954?v=4",
     "banner": ""
   }, {
     "repo": "CycodeLabs/raven",
@@ -7508,6 +7508,13 @@
     "officialSite": "https://pgqueuer.readthedocs.io/en/latest/index.html",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/16663421?v=4",
+    "banner": ""
+  }, {
+    "repo": "whylabs/whylogs",
+    "desc": "An open-source data logging library for machine learning models and data pipelines. 📚 Provides visibility into data quality & model performance over time. 🛡️ Supports privacy-preserving data collection, ensuring safety & robustness. 📈",
+    "officialSite": "https://whylogs.readthedocs.io/",
+    "topics": ["ai-pipelines", "analytics", "approximate-statistics", "calculate-statistics", "constraints", "data-constraints", "data-pipeline", "data-quality", "data-science", "dataops", "dataset", "logging", "machine-learning", "ml-pipelines", "mlops", "model-performance", "python", "statistical-properties"],
+    "avatar": "https://avatars.githubusercontent.com/u/56651354?v=4",
     "banner": ""
   }
 ]

@@ -958,5 +958,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/16035087?v=4",
     "banner": ""
+  }, {
+    "repo": "SeldonIO/seldon-core",
+    "desc": "An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models",
+    "officialSite": "https://www.seldon.io/tech/products/core/",
+    "topics": ["aiops", "deployment", "kubernetes", "machine-learning", "machine-learning-operations", "mlops", "production-machine-learning", "serving"],
+    "avatar": "https://avatars.githubusercontent.com/u/10297834?v=4",
+    "banner": ""
+  }, {
+    "repo": "featureform/featureform",
+    "desc": "The Virtual Feature Store. Turn your existing data infrastructure into a feature store.",
+    "officialSite": "https://www.featureform.com",
+    "topics": ["data-quality", "data-science", "embeddings", "embeddings-similarity", "feature-engineering", "feature-store", "hacktoberfest", "machine-learning", "ml", "mlops", "python", "vector-database"],
+    "avatar": "https://avatars.githubusercontent.com/u/72954069?v=4",
+    "banner": ""
   }
 ]

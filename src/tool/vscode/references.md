@@ -125,9 +125,6 @@ tag:
   - [[IDE] VSCode 파일 확장자 인식 설정 방법](https://csj000714.tistory.com/m/1071)
   - [[Vision] EXR Extended Dynamic Range Image File Format (feat. OpenEXR, 무손실 고해상도 데이터 저장)](https://csj000714.tistory.com/m/1092)
   <!-- END: csj000714 -->
-
-<!-- END: tistory.com -->
-
 - [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
   - [[Numpy] Serise `clip()` 함수 - 값 범위 제한하기](https://sonseungha.tistory.com/m/716)
   <!-- END: sonseungha -->
@@ -138,15 +135,6 @@ tag:
 - [`seungdols` / Seungdols Company](https://seungdols.tistory.com/m/)
   - [Conventional commit plugin 추천 - commit prefix 자동화를 하자.](https://seungdols.tistory.com/m/1017)
   <!-- END: seungdols -->
-
----
-
-## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
-
-- [비주얼 스튜디오 코드로 생산성을 높이는 10가지 방법](https://itworld.co.kr/news/330552)
-
----
-
 - [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
   - [Visual Studio Code + Jupyter Notebook 개발 환경 만들기](https://webnautes.tistory.com/m/2109)
   - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
@@ -154,7 +142,16 @@ tag:
   - [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/m/2101)
   - [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
   - [Visual Studio Code에서 외부 터미널에서 파이썬 코드 실행하기](https://webnautes.tistory.com/m/2373)
+  - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
   <!-- END: webnautes -->
+<!-- END: tistory.com -->
+
+---
+
+## 테크놀로지 리더를 위한 글로벌 IT 뉴스 - ITWorld Korea
+
+- [비주얼 스튜디오 코드로 생산성을 높이는 10가지 방법](https://itworld.co.kr/news/330552)
+
 ---
 
 ## 상구리의 기술 블로그

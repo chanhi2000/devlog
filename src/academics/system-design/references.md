@@ -282,6 +282,7 @@ head:
 - [`@2fEJ` / \[UX리서치#1\] 5초 테스트가 첫인상에 미치는 영향  - 5초 테스트는 웹 디자인 성공의 열쇠](https://brunch.co.kr/@@2fEJ/1463)
 - [`@2hV3` / UX, UI, UX/UI, 프로덕트 디자이너의 차이? - 디자인 직군의 변화와 진화, 나는 어디에 해당될까?](https://brunch.co.kr/@@2hV3/244)
 - [`@2hV3` / UX, UI, UX/UI, 프로덕트 디자이너의 차이? - 디자인 직군의 변화와 진화, 나는 어디에 해당될까?](https://brunch.co.kr/@@2hV3/244)
+- [`@R17` / 프로그램 개발과 귀납 추론](https://brunch.co.kr/@@R17/648)
 
 <!-- END: brunch.co.kr -->
 
@@ -760,6 +761,12 @@ head:
 ## Generative art by Anders Hoff · inconvergent
 
 - [From Datalog to SVG](https://inconvergent.net/2023/datalog-to-svg/)
+
+---
+
+## chiark home page
+
+- [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 
 ---
 

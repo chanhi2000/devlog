@@ -96,7 +96,7 @@ head:
 
 ::: tabs
 
-@tab 정보처리기사
+@tab:active 정보처리기사
 
 ```component VPCard
 {
@@ -1063,7 +1063,6 @@ https://www.joinc.co.kr/w/Site
 https://rogerdudler.github.io/git-guide/index.html
 https://rogerdudler.github.io/git-guide/index.ko.html
 https://ui-patterns.com/patterns
-
 
 <!-- END: Cheatsheet -->
 

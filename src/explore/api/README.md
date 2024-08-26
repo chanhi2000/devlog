@@ -1220,6 +1220,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 }
 ```
 
+<SiteInfo
+  name="Image generation API - Bannerify"
+  desc="Take your visuals to the next level with our automated image generation API. Perfect for social media, ecommerce, podcasts and more"
+  url="https://bannerify.co/tools/remove-bg"
+  logo="https://bannerify.co/favicon.svg"
+  preview="https://ogcool.vercel.app/templates/v1/tpl_B11s5ULETa?d=eyJtb2RpZmljYXRpb25zIjpbeyJuYW1lIjoiVGV4dCIsInRleHQiOiJCYW5uZXJpZnkifSx7Im5hbWUiOiJEZXNjcmlwdGlvbiIsInRleHQiOiJBdXRvLWdlbmVyYXRlIHlvdXIgaW1hZ2Ugd2l0aCBCYW5uZXJpZnkifV19&sdk=ogcool%400.1.10"/>
+
 https://cgbookcase.com/
 https://ambientcg.com/
 https://blenderkit.com/

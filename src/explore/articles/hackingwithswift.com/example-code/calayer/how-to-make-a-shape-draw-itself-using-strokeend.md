@@ -46,7 +46,7 @@ isOriginal: false
 
 ```component VPCard
 {
-  "title": "How to make a shape draw itself using strokeEnd | Array - free Swift example code",
+  "title": "How to make a shape draw itself using strokeEnd | CALayer - free Swift example code",
   "desc": "How to make a shape draw itself using strokeEnd",
   "link": "https://hackingwithswift.com/example-code/calayer/how-to-make-a-shape-draw-itself-using-strokeend",
   "logo": "https://hackingwithswift.com/favicon.svg",
