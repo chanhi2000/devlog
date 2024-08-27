@@ -625,4 +625,10 @@ tag:
 
 ---
 
+## 제이의 IT 스토리
+
+- [\[Android\] 앱 자동실행 오류 해결 방법](https://m.blog.naver.com/oralol/223561251361)
+
+---
+
 <TagLinks />

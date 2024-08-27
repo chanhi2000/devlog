@@ -2245,5 +2245,19 @@
     "topics": ["cloak", "gfw", "ikev2", "openvpn", "shadowsocks", "vpn", "vpn-client", "vpn-server", "wireguard"],
     "avatar": "https://avatars.githubusercontent.com/u/74861536?v=4",
     "banner": ""
+  }, {
+    "repo": "klee/klee",
+    "desc": "KLEE Symbolic Execution Engine",
+    "officialSite": "https://klee-se.org/",
+    "topics": ["klee", "symbolic-execution"],
+    "avatar": "https://avatars.githubusercontent.com/u/6224192?v=4",
+    "banner": ""
+  }, {
+    "repo": "GothenburgBitFactory/taskwarrior",
+    "desc": "Taskwarrior - Command line Task Management",
+    "officialSite": "https://taskwarrior.org",
+    "topics": ["cli", "commandline", "gtd", "hackoctoberfest", "task", "taskwarrior", "todo"],
+    "avatar": "https://avatars.githubusercontent.com/u/36100920?v=4",
+    "banner": ""
   }
 ]

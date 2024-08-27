@@ -294,6 +294,8 @@ tag:
 - [`@2weV` / 유학/취업 준비자의 추석 연휴, 그리고 휴가 활용법](https://brunch.co.kr/@@2weV/542)
 - [`@2weV` / 내가 어렵지 않게 도울 수 있는 사람을 만나자.](https://brunch.co.kr/@@2weV/544)
 - [`@1dLN` / 문제 식별 능력](https://brunch.co.kr/@@1dLN/62)
+- [`@8w7` / 취준생들이 정말 좋은 부트캠프에 가면 좋겠어요 - 좋지 않은 부트캠프에서는 대부분의 운영진들이 허둥대요.](https://brunch.co.kr/@@8w7/241)
+- [`@2weV` / 도전의 가치](https://brunch.co.kr/@@2weV/545)
 
 <!-- END: brunch.co.kr -->
 
@@ -947,6 +949,7 @@ tag:
 - [리더의 리더십 – 심리적 안정 vs. 안전](https://chidoo.me/index.php/2024/08/04/psychological-safety-in-leadership/)
 - [리더십의 안전감 – Comfort Zone](https://chidoo.me/index.php/2024/08/12/comfort-zone-in-leadership/)
 - [리더십의 안전감 – 가족 같은 팀 vs. 프로 팀](https://chidoo.me/index.php/2024/08/19/team-as-a-pro-team-in-leadership/)
+- [리더십의 안전감 – 실패와 책임](https://chidoo.me/index.php/2024/08/26/failure-and-responsibility-in-leadership/)
 
 <!-- END: chidoo.me -->
 

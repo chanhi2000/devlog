@@ -76,7 +76,15 @@ head:
 - [`@thechipletter` / SPUR - RISC IV: The LISP Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
 - [`abortretry` / Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 
+<!-- END: substack.com -->
+
 ---
+
+## Brunch
+
+- [`@2Kn8` / Razer Kishi V2 게임 컨트롤러](https://brunch.co.kr/@@2Kn8/219)
+
+<!-- END: brunch.co.kr -->
 
 ## HiGenis
 

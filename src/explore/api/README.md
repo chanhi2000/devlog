@@ -151,6 +151,16 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
 
 @tab Programming Tools - General
 
+```component VPCard
+{
+  "title": "Free Public APIs",
+  "desc": "A collection of Free Public APIs for Students and Developers. Tested every single day.",
+  "link": "https://freepublicapis.com/",
+  "logo": "https://www.freepublicapis.com/favicon.ico",
+  "background": "rgba(255,107,0,0.2)"
+}
+```
+
 <SiteInfo
   name="delve"
   desc="Go down rabbit holes"

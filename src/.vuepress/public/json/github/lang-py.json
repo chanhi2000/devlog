@@ -1130,9 +1130,11 @@
     "officialSite": "https://strawberry.rocks"
   }, {
     "repo": "sherlock-project/sherlock",
-    "desc": "🔎 Hunt down social media accounts by username across social networks",
-    "topics": ["python", "windows", "macos", "linux", "cli", "osint", "tools", "sherlock", "python3", "hacktoberfest", "information-gathering", "reconnaissance", "redteam", "hacktoberfest2022"],
-    "officialSite": "http://sherlock-project.github.io"
+    "desc": "Hunt down social media accounts by username across social networks",
+    "officialSite": "https://sherlockproject.xyz",
+    "topics": ["cli", "cti", "cybersecurity", "forensics", "hacktoberfest", "information-gathering", "infosec", "linux", "osint", "pentesting", "python", "python3", "reconnaissance", "redteam", "sherlock", "tools"],
+    "avatar": "https://avatars.githubusercontent.com/u/48293496?v=4",
+    "banner": ""
   }, {
     "repo": "tatsu-lab/stanford_alpaca",
     "desc": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
@@ -7690,6 +7692,27 @@
     "officialSite": "https://gauge.sh",
     "topics": ["ci", "cli", "code-quality", "config", "dependency-management", "developer-tools", "devops", "framework", "library", "monorepo", "open-source", "package", "productivity", "programming", "python", "rust", "static-code-analysis", "terminal"],
     "avatar": "https://avatars.githubusercontent.com/u/158083724?v=4",
+    "banner": ""
+  }, {
+    "repo": "PromtEngineer/Verbi",
+    "desc": "A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/134474669?v=4",
+    "banner": ""
+  }, {
+    "repo": "mendableai/firecrawl",
+    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+    "officialSite": "https://firecrawl.dev",
+    "topics": ["ai", "ai-scraping", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"],
+    "avatar": "https://avatars.githubusercontent.com/u/135057108?v=4",
+    "banner": ""
+  }, {
+    "repo": "btsmart/splatt3r",
+    "desc": "Official repository for Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/114722382?v=4",
     "banner": ""
   }
 ]

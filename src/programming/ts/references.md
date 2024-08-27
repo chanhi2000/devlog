@@ -177,6 +177,8 @@ head:
 - [`@ksh4704` / TypeScript 공부(3)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%803)
 - [`@ksh4704` / TypeScript 공부(4)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%804)
 - [`@dnr6054` / Effective typescript #1](https://velog.io/@dnr6054/Effective-typescript-1)
+- [`@ksh4704` / TypeScript 공부(5)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%805)
+- [`@ksh4704` / TypeScript 공부(6)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%806)
 
 <!-- END: velog.io -->
 
@@ -201,6 +203,7 @@ head:
 - [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
   - [\[TypeScript\] infer를 이용해 배열의 구성요소 타입 추출하기](https://kesakiyo.tistory.com/m/entry/TypeScript-infer%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%B0%B0%EC%97%B4%EC%9D%98-%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C-%ED%83%80%EC%9E%85-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0)
   <!-- END: kesakiyo -->
+
 <!-- END: tistory.com -->
 
 ---

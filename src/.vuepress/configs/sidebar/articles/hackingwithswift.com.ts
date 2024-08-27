@@ -1671,6 +1671,22 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-render-a-pdf-to-an-image.md',
               '/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently.md',
             ]
+          }, {
+            text: 'Core Haptics',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/core-haptics/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-haptics/how-to-detect-whether-haptic-event-playback-is-supported.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-haptics/how-to-modify-haptic-events-over-time-using-chhapticparametercurve.md',
+              '/explore/articles/hackingwithswift.com/example-code/core-haptics/how-to-play-custom-vibrations-using-core-haptics.md',
+            ]
+          }, {
+            text: 'CryptoKit',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/cryptokit/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/cryptokit/how-to-calculate-the-sha-hash-of-a-string-or-data-instance.md',
+            ]
           }
         ]
       }

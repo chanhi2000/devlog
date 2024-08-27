@@ -4653,5 +4653,12 @@
     "topics": ["analytics", "charts", "google-analytics", "statistics", "web-analytics"],
     "avatar": "https://avatars.githubusercontent.com/u/105618662?v=4",
     "banner": ""
+  }, {
+    "repo": "ducan-ne/remove-bg",
+    "desc": "Remove background directly in your browser, powered by WebGPU",
+    "officialSite": "https://bannerify.co/tools/remove-bg",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/16853175?v=4",
+    "banner": ""
   }
 ]

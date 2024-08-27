@@ -28,6 +28,12 @@ head:
 
 ---
 
+## nbviewer
+
+- [This is an Jupyter notebook backed by a Ruby kernel](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
+
+---
+
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`jupyter` / Accelerating JupyterLab](https://blog.jupyter.org/accelerating-jupyterlab-68942bb8d602)
@@ -58,5 +64,6 @@ head:
 - [JupySQL: Better SQL in Jupyter](https://ploomber.io/blog/jupysql/)
 
 ---
+
 
 <TagLinks />

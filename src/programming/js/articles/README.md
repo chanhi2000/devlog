@@ -319,6 +319,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Create Interactive HTML Prototypes – How Far Can You Go Without JavaScript?",
+  "desc": "Interactivity is what makes a website come alive. Whether it's a button that reveals more content or a form that responds to your input, these little touches keep users engaged. Traditionally, we've relied heavily on JavaScript to make websites inter...",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-interactive-html-prototypes.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -430,6 +440,16 @@ head:
   "title": "프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기 | 요즘IT",
   "desc": "프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기",
   "link": "/explore/articles/yozm.wishket.com/2106.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "시작하는 개발자를 위한 JS 매개 변수 활용법 2가지 | 요즘IT",
+  "desc": "시작하는 개발자를 위한 JS 매개 변수 활용법 2가지",
+  "link": "/explore/articles/yozm.wishket.com/2732.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

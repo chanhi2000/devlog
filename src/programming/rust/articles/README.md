@@ -89,6 +89,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Blend Images in Rust Using Pixel Math",
+  "desc": "For anyone looking to learn about image processing as a programming niche, blending images is a very good place to start. It's one of the simplest yet most rewarding techniques when it comes to image processing. To help your intuition, it's best to i...",
+  "link": "/explore/articles/freecodecamp.org/how-to-blend-images-in-rust-using-pixel-math.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -234,6 +234,7 @@ head:
   - [\[Spring Boot\] JPA `@Id` 전략](https://findsilverlining.tistory.com/m/115)
   - [\[Spring Boot\] Spring Security 내부 구조 파악하기](https://findsilverlining.tistory.com/m/118)
   - [\[Spring Boot\] Spring Security 기본 필터 살펴보기](https://findsilverlining.tistory.com/m/119)
+  - [\[Spring Boot\] JPA와 동작원리](https://findsilverlining.tistory.com/m/122)
   <!-- END: findsilverlining -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
@@ -317,6 +318,7 @@ head:
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
   - [연관관계 매핑 기초](https://maeng-dev.tistory.com/m/165)
   - [Deep한 JPA 매핑](https://maeng-dev.tistory.com/m/166)
+  - [프록시와 연관관계 관리](https://maeng-dev.tistory.com/m/168)
   <!-- END: maeng-dev -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)

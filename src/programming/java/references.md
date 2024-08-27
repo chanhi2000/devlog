@@ -152,6 +152,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 32일차 - bfs](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-32%EC%9D%BC%EC%B0%A8-bfs)
 - [`@dongha1992` / 99클럽 코테 스터디 33일차 - dfs](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-32%EC%9D%BC%EC%B0%A8-dfs)
 - [`@dongha1992` / 99클럽 코테 스터디 34일차 - dfs](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-34%EC%9D%BC%EC%B0%A8-dfs)
+- [`@dongha1992` / 99클럽 코테 스터디 35일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-35%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 
 <!-- END: velog.io java -->
 
@@ -243,6 +244,7 @@ tag:
   - [\[Programmers\]\[Java\] 모음 제거](https://jakpentest.tistory.com/m/entry/ProgrammersJava-%EB%AA%A8%EC%9D%8C-%EC%A0%9C%EA%B1%B0)
   - [\[Programmers\]\[Java\] 가장 큰 수 찾기](https://jakpentest.tistory.com/m/entry/ProgrammersJava-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%B0%BE%EA%B8%B0)
   - [\[Java\] `JDBC` & `JDBCTemplate` & `NamedParameterJDBCTemplate`](https://jakpentest.tistory.com/m/entry/Java-JDBC-JDBCTemplate-NamedParameterJDBCTemplate)
+  - [Real-World Software Development :  Chapter02 : KISS, Code Maintainability, SRP, Cohension, Coupling](https://jakpentest.tistory.com/m/entry/Real-World-Software-Development-Chapter02-KISS-Code-Maintainability-SRP-Cohension-Coupling)
   <!-- END: jakpentest -->
 - [`splendidlolli` / yyeennyy](https://splendidlolli.tistory.com/m/)
   - [\[Java\] Generic Type erasure / 제네릭 타입 소거](https://splendidlolli.tistory.com/m/758)
@@ -598,6 +600,7 @@ tag:
 ### 기억보단 기록을
 
 - [\[Mac\] Java 21 & Gradle 8 설치하기](https://jojoldu.tistory.com/m/789)
+- [1. TS를 만나고 - 디자인](https://jojoldu.tistory.com/m/801)
 
 ### stulle123's Blog
 

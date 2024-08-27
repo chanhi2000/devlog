@@ -11,6 +11,7 @@ tag:
   - blog
   - freecodecamp.org
   - code-maze.com
+  - milanjovanovic.tech
   - yozm.wishket.com
   - engineering.linecorp.com
   - git
@@ -41,6 +42,13 @@ head:
   url="https://code-maze.com/latest-posts-on-code-maze/"
   logo="/images/content/code-maze.com/favicon.png"
   preview="/images/content/code-maze.com/banner.png"/>
+
+<SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
 
 ```component VPCard
 {
@@ -177,6 +185,23 @@ head:
 ```
 
 <!-- END: code-maze.com -->
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "Testcontainers - Integration Testing Using Docker In .NET",
+  "desc": "Modern software applications rarely work in isolation. On the contrary, a typical application will talk to several external systems like databases, messaging systems, cache providers, and many 3rd party services. And it's up to you to ensure everything functions correctly. Hopefully, I don't have to convince you about the value of writing tests. You should be writing tests. Period. However, I do want to discuss the value of integration testing. Unit tests are helpful to test business logic in isolation, without any external services. They are easy to write and provide almost instant feedback. But you can't be fully confident in your application without integration tests.",
+  "link": "/explore/articles/milanjovanovic.tech/testcontainers-integration-testing-using-docker-in-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+
+<!-- END: milanjovanovic.tech -->
 
 ---
 

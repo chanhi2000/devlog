@@ -2417,5 +2417,12 @@
     "topics": ["drone", "quadcopter", "quadrotor", "rerun", "robotics", "rust", "uav"],
     "avatar": "https://avatars.githubusercontent.com/u/4675968?v=4",
     "banner": ""
+  }, {
+    "repo": "beac0n/ruroco",
+    "desc": "Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1389452?v=4",
+    "banner": ""
   }
 ]

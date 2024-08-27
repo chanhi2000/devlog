@@ -281,6 +281,36 @@ head:
 
 ```component VPCard
 {
+  "title": "Why Clean Architecture Is Great For Complex Projects",
+  "desc": "I've been using Clean Architecture for 6+ years on large scale applications serving thousands of customers and millions of requests. Today I want to talk about why it's a great approach for structuring your applications. I'm aware that Clean Architecture isn't a silver bullet, so I will discuss what types of systems can benefit from this architecture. Clean architecture isn't revolutionary. But it's prescriptive about how you should structure the code. It's an evolution of the layered architecture, focusing on the core domain and the direction of dependencies. All dependencies should point inwards, applying dependency inversion.",
+  "link": "/explore/articles/milanjovanovic.tech/why-clean-architecture-is-great-for-complex-projects.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Modular Monolith Communication Patterns",
+  "desc": "Modular monoliths are becoming more popular in the software engineering community. The allure of Microservices is becoming less compelling. We also have seasoned veterans of our industry saying you should reconsider: > You shouldn't start a new project with microservices, even if you're sure your application will be big enough to make it worthwhile. — Martin Fowler Modular monoliths give you the logical architecture of Microservices without the operational complexity. You can safely determine the boundaries between modules. And refactoring is straightforward and less risky. They can also be easily migrated into Microservices if you decide to do so. I've built and maintained several Modular monolith systems in the past years.",
+  "link": "/explore/articles/milanjovanovic.tech/modular-monolith-communication-patterns.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Orchestration vs Choreography",
+  "desc": "More than 63%+ of organizations said in a Dzone survey that they are adopting Microservices for some or all of their applications. As more businesses adopt the use of Microservice architectures, we as developers have to become more skilled with Microservices communication. Working with distributed systems is both fun and challenging at the same time. One of those challenges is designing effective communication between services. More centralization or less centralization? More coupling or less coupling? More control or less control? These are only a few questions you need to answer.",
+  "link": "/explore/articles/milanjovanovic.tech/orchestration-vs-choreography.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "What Is a Modular Monolith?",
   "desc": "Modular monoliths blend the simplicity and robustness of traditional monolithic applications with the flexibility and scalability of microservices. Today, I'll introduce you to the modular monolith architecture and why you should know about it.",
   "link": "/explore/articles/milanjovanovic.tech/what-is-a-modular-monolith.md",

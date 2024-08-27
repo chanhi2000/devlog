@@ -52,6 +52,7 @@ export const template: SidebarInfoTemplate = {
       "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
       "create-color-picker-using-html-css-and-javascript", // 2024-08-15
       "how-to-use-variables-and-data-types-in-javascript", // 2024-08-19
+      "how-to-create-interactive-html-prototypes", // 2024-08-27
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -150,6 +151,7 @@ export const template: SidebarInfoTemplate = {
       "create-24-css-projects", // 2024-07-17
       "build-a-bitcoin-to-usd-calculator", // 2024-07-22
       "what-is-css-subgrid", // 2024-08-21
+      "how-to-build-an-accessible-modal-with-example-code", // 2024-08-27
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
@@ -219,6 +221,7 @@ export const template: SidebarInfoTemplate = {
       "rust-tutorial-build-a-json-parse", // 2024-05-29
       "build-and-deploy-smart-contract-rust-gear-protocol", // 2024-06-04
       "how-asynchronous-programming-works-in-rust", // 2024-08-15
+      "how-to-blend-images-in-rust-using-pixel-math", // 2024-08-27
     ]],[
     "go", [
       "how-to-handle-concurrency-in-go", // 2024-05-10
@@ -669,6 +672,9 @@ export const template: SidebarInfoTemplate = {
       "learn-to-use-the-gemini-ai-multimodal-model", // 2024-08-22
       "create-a-macos-app-with-react-native", // 2024-08-22
       "how-to-future-proof-your-software-engineering-career-for-the-age-of-agi", // 2024-08-23
+      "how-to-blend-images-in-rust-using-pixel-math", // 2024-08-27
+      "how-to-create-interactive-html-prototypes", // 2024-08-27
+      "how-to-build-an-accessible-modal-with-example-code", // 2024-08-27
     ]],
   ]),
 }

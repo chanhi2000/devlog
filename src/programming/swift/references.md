@@ -108,6 +108,7 @@ tag:
 - [`@jwlee010523`/ SwiftUI - ScenePhase](https://velog.io/@jwlee010523/SwiftUI-ScenePhase)
 - [`@jwlee010523` / 탈출 클로저(Escaping Closure)](https://velog.io/@jwlee010523/Escaping-Closure)
 - [`@jwlee010523` / Swift - 자동 클로저(Auto Closure)](https://velog.io/@jwlee010523/Swift-Auto-Closure)
+- [`@kirri1124` / SwiftUI PreferenceKey](https://velog.io/@kirri1124/SwiftUI-PreferenceKey)
 
 <!-- END: velog.io -->
 

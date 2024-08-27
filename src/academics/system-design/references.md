@@ -283,6 +283,8 @@ head:
 - [`@2hV3` / UX, UI, UX/UI, 프로덕트 디자이너의 차이? - 디자인 직군의 변화와 진화, 나는 어디에 해당될까?](https://brunch.co.kr/@@2hV3/244)
 - [`@2hV3` / UX, UI, UX/UI, 프로덕트 디자이너의 차이? - 디자인 직군의 변화와 진화, 나는 어디에 해당될까?](https://brunch.co.kr/@@2hV3/244)
 - [`@R17` / 프로그램 개발과 귀납 추론](https://brunch.co.kr/@@R17/648)
+- [`@2fEJ` / \[사용성 #1\] 사용성 테스트 앞서 가설 설계하라!](https://brunch.co.kr/@@2fEJ/1467)
+- [`@2fEJ` / \[UI/UX 원칙#3\] 마이크로인터랙션 6원칙](https://brunch.co.kr/@@2fEJ/1468)
 
 <!-- END: brunch.co.kr -->
 

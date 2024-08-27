@@ -39,6 +39,12 @@ head:
 
 ---
 
+## Chromium Docs
+
+- [How Chrome Accessibility Works](https://chromium.googlesource.com/chromium/src/+/main/docs/accessibility/browser/how_a11y_works.md)
+
+---
+
 ## <FontIcon icon="fa-brands fa-meta"/>Engineering at Meta
 
 - [The evolution of Facebook’s iOS app architecture](https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/)
@@ -236,6 +242,7 @@ head:
 - [PC 카톡을 터미널처럼 사용하기 - Step 1](https://m.blog.naver.com/tipsware/223549324483)
 - [PC 카톡을 터미널처럼 사용하기 - Step 2](https://m.blog.naver.com/tipsware/223552246855)
 - [PC 카톡을 터미널처럼 사용하기 - Step 3](https://m.blog.naver.com/tipsware/223558638179)
+- [\[Q&A\] 배열 초기화와 관련해서 궁금합니다.](https://m.blog.naver.com/tipsware/223561899584)
 
 <!-- END: tipsware.blog.naver.com -->
 

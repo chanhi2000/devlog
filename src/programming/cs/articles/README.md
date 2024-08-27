@@ -136,6 +136,76 @@ head:
 
 ```component VPCard
 {
+  "title": "Implementing an API Gateway For Microservices With YARP",
+  "desc": "Large Microservice-based systems can consist of tens or even hunders of individual services. A client application needs to have all of this information to be able to make requests to the relevant microservice directly. However, this has numerous issues such as security concerns, complexity, and coupling. We can solve this by introducing an API gateway that acts as a reverse proxy to accept API calls from the client application, forwarding this traffic to the appropriate service. The API gateway also enforces security and ensures scalability and high availability. In this week's newsletter, I'll show you how to implement an API gateway using the YARP reverse proxy.",
+  "link": "/explore/articles/milanjovanovic.tech/implementing-an-api-gateway-for-microservices-with-yarp.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "8 Tips To Write Clean Code",
+  "desc": "Clean code is code that's easy to read, maintain, and understand. I consider writing clean code a skill. And it's a skill that you can learn and improve with deliberate practice. My favorite approach to practice clean coding is doing refactoring exercises. So I prepared one for you today, and we're going to improve one step at a time by applying clean code principles.",
+  "link": "/explore/articles/milanjovanovic.tech/8-tips-to-write-clean-code.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Use Domain Events To Build Loosely Coupled Systems",
+  "desc": "In software engineering, coupling means how much different parts of a software system depend on each other. If they are tightly coupled, changes to one part can affect many others. But if they are loosely coupled, changes to one part won't cause big problems in the rest of the system. Domain events are a Domain-Driven Design (DDD) tactical pattern that we can use to build loosely coupled systems. You can raise a domain event from the domain, which represents a fact that has occurred. And other components in the system can subscribe subscribe to this event, and handle it accordingly.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-use-domain-events-to-build-loosely-coupled-systems.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Mastering Dapper Relationship Mappings",
+  "desc": "Dapper is a lightweight object-relational mapper in .NET. It's popular because it's easy to use and fast at the same time. Dapper extends the IDbConnection interface with methods for sending SQL queries to the database. But, because of the nature of SQL, mapping the result into an object model can be tricky.",
+  "link": "/explore/articles/milanjovanovic.tech/mastering-dapper-relationship-mappings.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Advanced Rate Limiting Use Cases In .NET",
+  "desc": "Rate limiting is about restricting the number of requests to your application. It's usually applied within a specific time window or based on some other criteria. Rate limiting is practical for a few reasons: - Improves security - Guards against DDoS attacks - Prevents overloading of application servers - Reduces costs by preventing unnecessary resource consumption But you need to know how to implement it correctly, or you could grind your system to a halt.",
+  "link": "/explore/articles/milanjovanovic.tech/advanced-rate-limiting-use-cases-in-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Testcontainers - Integration Testing Using Docker In .NET",
+  "desc": "Modern software applications rarely work in isolation. On the contrary, a typical application will talk to several external systems like databases, messaging systems, cache providers, and many 3rd party services. And it's up to you to ensure everything functions correctly. Hopefully, I don't have to convince you about the value of writing tests. You should be writing tests. Period. However, I do want to discuss the value of integration testing. Unit tests are helpful to test business logic in isolation, without any external services. They are easy to write and provide almost instant feedback. But you can't be fully confident in your application without integration tests.",
+  "link": "/explore/articles/milanjovanovic.tech/testcontainers-integration-testing-using-docker-in-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Solving Race Conditions With EF Core Optimistic Locking",
+  "desc": "How often do you think about concurrency conflicts when writing code? You write the code for a new feature, confirm that it works, and call it a day. But one week later, you find out you introduced a nasty bug because you didn't think about concurrency. The most common issue is race conditions with two competing threads executing the same function. If you don't consider this during development, you introduce the risk of leaving the system in a corrupted state.",
+  "link": "/explore/articles/milanjovanovic.tech/solving-race-conditions-with-ef-core-optimistic-locking.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Feature Flags in .NET and How I Use Them for A/B Testing",
   "desc": "The ability to conditionally turn features on or off in your application without redeploying the code is a powerful tool. It lets you quickly iterate on new features and frequently integrate your changes with the main branch. You can use feature flags to achieve this. Feature flags are a software development technique that allows you to wrap application features in a conditional statement. You can then toggle the feature on or off in runtime to control which features are enabled.",
   "link": "/explore/articles/milanjovanovic.tech/feature-flags-in-dotnet-and-how-i-use-them-for-ab-testing.md",

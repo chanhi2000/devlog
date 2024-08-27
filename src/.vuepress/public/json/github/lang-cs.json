@@ -615,5 +615,12 @@
     "topics": ["csharp", "language-design"],
     "avatar": "https://avatars.githubusercontent.com/u/9141961?v=4",
     "banner": ""
+  }, {
+    "repo": "mono/mono",
+    "desc": "Mono open source ECMA CLI, C# and .NET implementation.",
+    "officialSite": "https://www.mono-project.com",
+    "topics": ["android", "csharp", "dotnet", "garbage-collector", "ios", "jit", "runtime", "xamarin"],
+    "avatar": "https://avatars.githubusercontent.com/u/53395?v=4",
+    "banner": ""
   }
 ]

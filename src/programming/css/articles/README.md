@@ -202,6 +202,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build an Accessible Modal – with Example Code",
+  "desc": "We often use modals or popups to display important information or prompt users to take action. Unlike regular pop-ups that can be opened in new windows or tabs, these dialogues keep the user on the same page by overlaying the existing content. This e...",
+  "link": "/explore/articles/freecodecamp.org/how-to-build-an-accessible-modal-with-example-code.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

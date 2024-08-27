@@ -144,6 +144,9 @@ tag:
   - [Visual Studio Code에서 외부 터미널에서 파이썬 코드 실행하기](https://webnautes.tistory.com/m/2373)
   - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
   <!-- END: webnautes -->
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\[1년 후 마실가실\] 쉬어가는 마실가실 - 디버깅](https://hj0216.tistory.com/m/940)
+  <!-- END: hj0216 -->
 <!-- END: tistory.com -->
 
 ---

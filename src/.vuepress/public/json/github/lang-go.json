@@ -2484,5 +2484,12 @@
     "topics": ["data", "data-analysis", "data-science", "dataops", "declarative", "fine-tuning", "flyte", "golang", "grpc", "kubernetes", "kubernetes-operator", "llm", "machine-learning", "mlops", "orchestration-engine", "production", "production-grade", "python", "scale", "workflow"],
     "avatar": "https://avatars.githubusercontent.com/u/35380635?v=4",
     "banner": ""
+  }, {
+    "repo": "Permify/permify",
+    "desc": "An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",
+    "officialSite": "https://docs.permify.co/",
+    "topics": ["abac", "access-control", "acl", "authorization", "ciam", "cloud-native", "distributed", "fga", "fine-grained-access-control", "golang", "grpc", "kubernetes", "least-privilege", "permission", "permissions", "rbac", "rebac", "security", "zanzibar"],
+    "avatar": "https://avatars.githubusercontent.com/u/87805264?v=4",
+    "banner": ""
   }
 ]

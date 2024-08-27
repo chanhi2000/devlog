@@ -6,6 +6,13 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "cs", [
+      "implementing-an-api-gateway-for-microservices-with-yarp", // 2023-07-08
+      "8-tips-to-write-clean-code", // 2023-07-15
+      "how-to-use-domain-events-to-build-loosely-coupled-systems", // 2023-07-22
+      "mastering-dapper-relationship-mappings", // 2023-08-12
+      "advanced-rate-limiting-use-cases-in-dotnet", // 2023-08-19
+      "testcontainers-integration-testing-using-docker-in-dotnet", // 2023-09-02
+      "solving-race-conditions-with-ef-core-optimistic-locking", // 2023-09-09
       "feature-flags-in-dotnet-and-how-i-use-them-for-ab-testing", // 2023-09-16
       "monolith-to-microservices-how-a-modular-monolith-helps", // 2023-09-23
       "cqrs-validation-with-mediatr-pipeline-and-fluentvalidation", // 2023-09-30
@@ -63,14 +70,30 @@ export const template: SidebarInfoTemplate = {
       "horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing", // 2024-03-30
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
     ]],[
+    "github", [
+      "testcontainers-integration-testing-using-docker-in-dotnet", // 2023-09-02
+    ]],[
     "redis", [
       "caching-in-aspnetcore-improving-application-performance", // 2024-06-08
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
     ]],[
     "system-design", [
+      "why-clean-architecture-is-great-for-complex-projects", // 2023-07-29
+      "modular-monolith-communication-patterns", // 2023-08-05
+      "orchestration-vs-choreography", // 2023-08-26
       "what-is-a-modular-monolith", // 2024-03-09
     ]],[
     "all", [
+      "implementing-an-api-gateway-for-microservices-with-yarp", // 2023-07-08
+      "8-tips-to-write-clean-code", // 2023-07-15
+      "how-to-use-domain-events-to-build-loosely-coupled-systems", // 2023-07-22
+      "why-clean-architecture-is-great-for-complex-projects", // 2023-07-29
+      "modular-monolith-communication-patterns", // 2023-08-05
+      "mastering-dapper-relationship-mappings", // 2023-08-12
+      "advanced-rate-limiting-use-cases-in-dotnet", // 2023-08-19
+      "orchestration-vs-choreography", // 2023-08-26
+      "testcontainers-integration-testing-using-docker-in-dotnet", // 2023-09-02
+      "solving-race-conditions-with-ef-core-optimistic-locking", // 2023-09-09
       "feature-flags-in-dotnet-and-how-i-use-them-for-ab-testing", // 2023-09-16
       "monolith-to-microservices-how-a-modular-monolith-helps", // 2023-09-23
       "cqrs-validation-with-mediatr-pipeline-and-fluentvalidation", // 2023-09-30

@@ -134,6 +134,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "AI는 왜 잘못된 답변을 할까? AI 할루시네이션과 해결책 | 요즘IT",
+  "desc": "AI는 왜 잘못된 답변을 할까? AI 할루시네이션과 해결책",
+  "link": "/explore/articles/yozm.wishket.com/2733.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---
