@@ -201,6 +201,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn Java Testing with Selenium",
+  "desc": "Are you looking to enhance your skills in automated web testing? We just published a comprehensive video course on the freeCodeCamp.org YouTube channel, designed to teach you how to use Selenium with Java using the Page Object Model. Created by Rex J...",
+  "link": "/explore/articles/freecodecamp.org/learn-java-testing-with-selenium.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -77,10 +77,16 @@ tag:
 
 ---
 
-## Life Log
+## tistory
 
-- [보안 학과를 나온 개발자의 nginx 버전 숨기기](https://ravenkim97.tistory.com/m/452)
-- [리버스 프록시 장점](https://ravenkim97.tistory.com/m/463)
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [보안 학과를 나온 개발자의 nginx 버전 숨기기](https://ravenkim97.tistory.com/m/452)
+  - [리버스 프록시 장점](https://ravenkim97.tistory.com/m/463)
+  <!-- END: ravenkim97 -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [Nginx + No IP + Let's Encrypt 서버 배포](https://bbogle2.tistory.com/m/entry/Nginx-No-IP-Lets-Encrypt-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
+  <!-- END: bbogle2 -->
+<!-- END: tistory.com -->
 
 ---
 

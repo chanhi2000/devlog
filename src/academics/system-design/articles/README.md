@@ -12,12 +12,15 @@ tag:
   - freecodecamp.org
   - smashingmagazine.com
   - milanjovanovic.tech
+  - packagemain.tech
   - yozm.wishket.com
   - techblog.woowahan.com
   - d2.maver.com
   - oliveyoung.tech
   - helloworld.kurly.com
   - engineering.ab180.co
+  - system
+  - design
 head:
   - - meta:
     - property: og:title
@@ -25,7 +28,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/explore/system-design/articles/
+      content: https://chanhi2000.github.io/academics/system-design/articles/
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -53,6 +56,13 @@ head:
   url="https://milanjovanovic.tech/blog"
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/og_image.png"/>
+
+<SiteInfo
+  name="packagemain.tech | Alex Pliutau | Substack"
+  desc="Welcome to packagemain.tech, your one-stop shop for mastering Backend, Cloud, Kubernetes, Microservices, APIs, and more. We'll provide you with hands-on, practical and real-world tutorials that you can use to build your software development skills. Click to read packagemain.tech, a Substack publication with thousands of subscribers."
+  url="https://packagemain.tech/"
+  logo="https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png"
+  preview="https://substack-post-media.s3.amazonaws.com/public/images/9bcf6f54-70e1-498f-b291-3fb402eccaad_2743x1457.jpeg"/>
 
 ```component VPCard
 {
@@ -320,6 +330,24 @@ head:
 ```
 
 <!-- END: milanjovanovic.tech -->
+
+---
+
+## packagemain.tech | Alex Pliutau | Substack
+
+> packagemain.tech
+
+```component VPCard
+{
+  "title": "Software Architecture Diagrams with C4 Model",
+  "desc": "Diagrams should be effortless to create and update, ensuring everyone has access to the latest information.",
+  "link": "/explore/articles/packagemain.tech/identifying-container-image-vulnerabilities.md",
+  "logo": "https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png",
+  "background": "rgba(202,177,187,0,2)"
+}
+```
+
+<!-- END: packagemain.tech -->
 
 ---
 

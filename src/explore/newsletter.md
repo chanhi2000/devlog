@@ -1173,6 +1173,13 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://i0.wp.com/build5nines.com/wp-content/uploads/2020/08/image.jpg?fit=192%2C192&ssl=1"
   preview="https://i0.wp.com/build5nines.com/wp-content/uploads/2024/05/Build5Nines_Featured_Image_full_20240507.jpg"/>
 
+<SiteInfo
+  name="packagemain.tech | Alex Pliutau | Substack"
+  desc="Welcome to packagemain.tech, your one-stop shop for mastering Backend, Cloud, Kubernetes, Microservices, APIs, and more. We'll provide you with hands-on, practical and real-world tutorials that you can use to build your software development skills. Click to read packagemain.tech, a Substack publication with thousands of subscribers."
+  url="https://packagemain.tech/"
+  logo="https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png"
+  preview="https://substack-post-media.s3.amazonaws.com/public/images/9bcf6f54-70e1-498f-b291-3fb402eccaad_2743x1457.jpeg"/>
+
 <!-- END: Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)

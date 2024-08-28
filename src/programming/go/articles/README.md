@@ -11,6 +11,7 @@ tag:
   - freecodecamp.org
   - learnk8s.io
   - blog.logrocket.com
+  - packagemain.tech
   - yozm.wishket.com
   - tech.kakao.com
   - popit.kr
@@ -50,6 +51,13 @@ head:
   url="https://blog.logrocket.com/dev"
   logo="/images/content/blog.logrocket.com/favicon.png"
   preview="/images/content/blog.logrocket.com/banner.png"/>
+
+<SiteInfo
+  name="packagemain.tech | Alex Pliutau | Substack"
+  desc="Welcome to packagemain.tech, your one-stop shop for mastering Backend, Cloud, Kubernetes, Microservices, APIs, and more. We'll provide you with hands-on, practical and real-world tutorials that you can use to build your software development skills. Click to read packagemain.tech, a Substack publication with thousands of subscribers."
+  url="https://packagemain.tech/"
+  logo="https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png"
+  preview="https://substack-post-media.s3.amazonaws.com/public/images/9bcf6f54-70e1-498f-b291-3fb402eccaad_2743x1457.jpeg"/>
 
 ```component VPCard
 {
@@ -206,6 +214,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Implement Server-Sent Events in Go",
+  "desc": "Server-Sent Events (SSE) is a powerful technology that enables real-time, unidirectional communication from servers to clients. In this article, we'll explore how to implement SSE in Go, discussing its benefits, use cases, and providing practical exa...",
+  "link": "/explore/articles/freecodecamp.org/how-to-implement-server-sent-events-in-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -243,6 +261,24 @@ head:
 ```
 
 <!-- END: blog.logrocket.com -->
+
+---
+
+## packagemain.tech | Alex Pliutau | Substack
+
+> packagemain.tech
+
+```component VPCard
+{
+  "title": "Identifying Container Image Vulnerabilities with Docker Scout",
+  "desc": "A guide on how to maintain a more secure containerized software.",
+  "link": "/explore/articles/packagemain.tech/identifying-container-image-vulnerabilities.md",
+  "logo": "https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png",
+  "background": "rgba(202,177,187,0,2)"
+}
+```
+
+<!-- END: packagemain.tech -->
 
 ---
 

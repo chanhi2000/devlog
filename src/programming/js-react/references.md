@@ -324,6 +324,9 @@ head:
   - [React에서 비동기 작업을 할 때 Race Condition을 방지하는 효과적인 해결 방법들](https://kesakiyo.tistory.com/m/entry/React%EC%97%90%EC%84%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9E%91%EC%97%85%EC%9D%84-%ED%95%A0-%EB%95%8C-Race-Condition%EC%9D%84-%EB%B0%A9%EC%A7%80%ED%95%98%EB%8A%94-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95%EB%93%A4)
   - [React에서 `useState`의 인자로 함수 반환값 대신 함수를 넘겨준다면?](https://kesakiyo.tistory.com/m/entry/React%EC%97%90%EC%84%9C-useState%EC%9D%98-%EC%9D%B8%EC%9E%90%EB%A1%9C-%ED%95%A8%EC%88%98-%EB%B0%98%ED%99%98%EA%B0%92-%EB%8C%80%EC%8B%A0-%ED%95%A8%EC%88%98%EB%A5%BC-%EB%84%98%EA%B2%A8%EC%A4%80%EB%8B%A4%EB%A9%B4)
   <!-- END: kesakiyo -->
+- [`all-dev-kang` / 편리함을 추구하는 핸디의 지식 블로그](https://all-dev-kang.tistory.com/m/)
+  - [en_US인가 en-US인가 그것이 문제로다(feat. i18n)](https://all-dev-kang.tistory.com/m/entry/enUS%EC%9D%B8%EA%B0%80-en-US%EC%9D%B8%EA%B0%80-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EB%A1%9C%EB%8B%A4feat-i18n)
+  <!-- END: all-dev-kang -->
 <!-- END: tistory.com -->
 
 ---

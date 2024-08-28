@@ -1097,6 +1097,13 @@ https://ui-patterns.com/patterns
 
 ## Mathematics & Science
 
+<SiteInfo
+  name="Llama Tutor – AI Personal Tutor"
+  desc="Learn faster with our open source AI personal tutor"
+  url="https://llamatutor.together.ai/"
+  logo="https://llamatutor.together.ai/favicon.ico"
+  preview="https://llamatutor.together.ai/og-image.png"/>
+
 ::: tabs
 
 @tab:active Mathematics

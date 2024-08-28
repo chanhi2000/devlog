@@ -15,6 +15,7 @@ tag:
   - milanjovanovic.tech
   - code-maze.com
   - blog.logrocket.com
+  - packagemain.tech
   - yozm.wishket.com
   - blog.gangnamunni.com
   - towardsdatascience.com
@@ -74,6 +75,13 @@ head:
   url="https://blog.logrocket.com/dev"
   logo="/images/content/blog.logrocket.com/favicon.png"
   preview="/images/content/blog.logrocket.com/banner.png"/>
+
+<SiteInfo
+  name="packagemain.tech | Alex Pliutau | Substack"
+  desc="Welcome to packagemain.tech, your one-stop shop for mastering Backend, Cloud, Kubernetes, Microservices, APIs, and more. We'll provide you with hands-on, practical and real-world tutorials that you can use to build your software development skills. Click to read packagemain.tech, a Substack publication with thousands of subscribers."
+  url="https://packagemain.tech/"
+  logo="https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png"
+  preview="https://substack-post-media.s3.amazonaws.com/public/images/9bcf6f54-70e1-498f-b291-3fb402eccaad_2743x1457.jpeg"/>
 
 ```component VPCard
 {
@@ -349,6 +357,34 @@ head:
 ```
 
 <!-- END: blog.logrocket.com -->
+
+---
+
+## packagemain.tech | Alex Pliutau | Substack
+
+> packagemain.tech
+
+```component VPCard
+{
+  "title": "Identifying Container Image Vulnerabilities with Docker Scout",
+  "desc": "A guide on how to maintain a more secure containerized software.",
+  "link": "/explore/articles/packagemain.tech/identifying-container-image-vulnerabilities.md",
+  "logo": "https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png",
+  "background": "rgba(202,177,187,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Streamline Your Development Workflow: Deploying Preview Environments on Kubernetes Using Github Actions",
+  "desc": "Testing deployed code before it's merged in total isolation from your real traffic.",
+  "link": "/explore/articles/packagemain.tech/streamline-your-development-workflow.md",
+  "logo": "https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png",
+  "background": "rgba(202,177,187,0,2)"
+}
+```
+
+<!-- END: packagemain.tech -->
 
 ---
 

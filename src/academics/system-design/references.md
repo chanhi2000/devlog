@@ -285,6 +285,8 @@ head:
 - [`@R17` / 프로그램 개발과 귀납 추론](https://brunch.co.kr/@@R17/648)
 - [`@2fEJ` / \[사용성 #1\] 사용성 테스트 앞서 가설 설계하라!](https://brunch.co.kr/@@2fEJ/1467)
 - [`@2fEJ` / \[UI/UX 원칙#3\] 마이크로인터랙션 6원칙](https://brunch.co.kr/@@2fEJ/1468)
+- [`@2fEJ` / \[UX원칙#4\]좋은 캐러셀 디자인을 위한 가이드 5가지](https://brunch.co.kr/@@2fEJ/1470)
+- [`@2fEJ` / \[UI/UX 원칙 #5\] 브레드크럼 UX 원칙](https://brunch.co.kr/@@2fEJ/1469)
 
 <!-- END: brunch.co.kr -->
 

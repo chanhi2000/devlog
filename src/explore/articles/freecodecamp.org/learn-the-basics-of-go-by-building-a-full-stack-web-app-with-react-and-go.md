@@ -83,7 +83,7 @@ For data storage, the course will guide you through integrating MongoDB, a NoSQL
 
 Here are the sections in this course:
 
-- **Intro &amp; Demo:** Get an overview of the course and see a demo of the final project.
+- **Intro & Demo:** Get an overview of the course and see a demo of the final project.
 - **Comparing to Node.js:** Understand the differences between Go and Node.js and why you might choose Go for your projects.
 - **Project Setup:** Set up your development environment and initialize your project.
 - **API without DB:** Build the initial API endpoints without connecting to a database.

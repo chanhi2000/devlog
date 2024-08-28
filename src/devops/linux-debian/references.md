@@ -369,6 +369,7 @@ tag:
 ## 뽀글뽀글 개발 일지
 
 - [리눅스 계정 색상 변경](https://bbogle2.tistory.com/m/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B3%84%EC%A0%95-%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD)
+- [Nginx + No IP + Let's Encrypt 서버 배포](https://bbogle2.tistory.com/m/entry/Nginx-No-IP-Lets-Encrypt-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
 
 ---
 

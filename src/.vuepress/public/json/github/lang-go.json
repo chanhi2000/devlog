@@ -2491,5 +2491,19 @@
     "topics": ["abac", "access-control", "acl", "authorization", "ciam", "cloud-native", "distributed", "fga", "fine-grained-access-control", "golang", "grpc", "kubernetes", "least-privilege", "permission", "permissions", "rbac", "rebac", "security", "zanzibar"],
     "avatar": "https://avatars.githubusercontent.com/u/87805264?v=4",
     "banner": ""
+  }, {
+    "repo": "tinygo-org/tinygo",
+    "desc": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+    "officialSite": "https://tinygo.org",
+    "topics": ["adafruit", "arduino", "arm", "avr", "esp32", "gpio", "hacktoberfest", "i2c", "llvm", "microbit", "microcontroller", "nrf51", "nrf52", "samd21", "spi", "stm32", "tinygo", "wasi", "wasm", "webassembly"],
+    "avatar": "https://avatars.githubusercontent.com/u/45223613?v=4",
+    "banner": ""
+  }, {
+    "repo": "Zxilly/go-size-analyzer",
+    "desc": "A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.",
+    "officialSite": "https://gsa.zxilly.dev/",
+    "topics": ["analyzer", "binary", "dependency", "go", "golang", "react", "symbol", "terminal-ui", "treemap", "typescript", "visualization"],
+    "avatar": "https://avatars.githubusercontent.com/u/31370133?v=4",
+    "banner": ""
   }
 ]

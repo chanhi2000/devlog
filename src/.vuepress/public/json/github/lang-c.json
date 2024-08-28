@@ -1693,5 +1693,12 @@
     "topics": ["citybuilder", "clone", "game"],
     "avatar": "https://avatars.githubusercontent.com/u/104874?v=4",
     "banner": ""
+  }, {
+    "repo": "unikraft/unikraft",
+    "desc": "A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.",
+    "officialSite": "http://unikraft.org",
+    "topics": ["application", "cloud", "cloud-native", "hacktoberfest", "kernel", "library", "microservice", "operating-system", "os", "osdev", "performance", "qemu", "security", "unikernel", "unikernels", "unikraft", "virtualization"],
+    "avatar": "https://avatars.githubusercontent.com/u/44058005?v=4",
+    "banner": ""
   }
 ]

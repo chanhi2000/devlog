@@ -13,6 +13,7 @@ export const template: SidebarInfoTemplate = {
       "comparable-vs-comparator-explained-in-java", // 2024-07-23
       "creational-design-patterns-in-java", // 2024-07-26
       "how-java-hashmaps-work-internal-mechanics-explained", // 2024-08-09
+      "learn-java-testing-with-selenium", // 2024-08-27
     ]],[
     "java-spring",[
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
@@ -121,6 +122,7 @@ export const template: SidebarInfoTemplate = {
       "react-common-mistakes", // 2024-08-06
       "relative-vs-dynamic-routing-in-react", // 2024-08-12
       "create-a-macos-app-with-react-native", // 2024-08-22
+      "react-compiler-complete-guide-react-19", // 2024-08-27
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -138,6 +140,7 @@ export const template: SidebarInfoTemplate = {
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
       "how-to-add-jwt-based-authentication-in-nest-js", // 2024-07-31
+      "how-to-handle-file-uploads-in-nestjs-with-multer", // 2024-08-28
     ]],[
     "js-supabase", [
       "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
@@ -234,6 +237,7 @@ export const template: SidebarInfoTemplate = {
       "graceful-shutdowns-k8s-go", // 2024-08-13
       "integration-tests-using-testcontainers", // 2024-08-14
       "variables-and-constants-in-go", // 2024-08-19
+      "how-to-implement-server-sent-events-in-go", // 2024-08-28
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -348,6 +352,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "selenium", [
       "empire-state-building-run-up-analysis-with-python", // 2024-05-08
+      "learn-java-testing-with-selenium", // 2024-08-27
     ]],[
     "vim", [
       "mastering-vim-your-guide-to-efficient-text-editing", // 2024-06-24
@@ -374,6 +379,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "xls", [
       "excel-vs-google-sheets-tables", // 2024-07-02
+      "excel-for-data-visualization", // 2024-08-27
     ]],[
     "google-drive", [
       "excel-vs-google-sheets-tables", // 2024-07-02
@@ -414,6 +420,9 @@ export const template: SidebarInfoTemplate = {
       "building-intelligent-apps-with-mistral-ai", // 2024-06-18
       "learn-rag-fundamentals-and-advanced-techniques", // 2024-08-01
       "a-beginners-guide-to-large-language-models", // 2024-08-15
+    ]],[
+    "openai", [
+      "how-to-use-gpt-to-analyze-large-datasets", // 2024-08-28
     ]],[
     "gemini", [
       "learn-to-use-the-gemini-ai-multimodal-model", // 2024-08-22
@@ -675,6 +684,12 @@ export const template: SidebarInfoTemplate = {
       "how-to-blend-images-in-rust-using-pixel-math", // 2024-08-27
       "how-to-create-interactive-html-prototypes", // 2024-08-27
       "how-to-build-an-accessible-modal-with-example-code", // 2024-08-27
+      "learn-java-testing-with-selenium", // 2024-08-27
+      "excel-for-data-visualization", // 2024-08-27
+      "react-compiler-complete-guide-react-19", // 2024-08-27
+      "how-to-handle-file-uploads-in-nestjs-with-multer", // 2024-08-28
+      "how-to-implement-server-sent-events-in-go", // 2024-08-28
+      "how-to-use-gpt-to-analyze-large-datasets", // 2024-08-28
     ]],
   ]),
 }

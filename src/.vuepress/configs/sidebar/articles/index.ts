@@ -15,6 +15,7 @@ import { template as TEMPLATE_LEARNK8S } from './learnk8s.io';
 import { template as TEMPLATE_LOGROCKET } from './blog.logrocket.com';
 import { template as TEMPLATE_MILAN_JOVANOVIC } from './milanjovanovic.tech';
 import { template as TEMPLATE_EVENT_DRIVEN } from './event-driven.io';
+import { template as TEMPLATE_PACKAGEMAIN_TECH } from './packagemain.tech';
 import { template as TEMPLATE_ONCEUPON } from './onceupon.github.io';
 import { template as TEMPLATE_KAKAO_TECH } from './tech.kakao.com';
 import { template as TEMPLATE_KAKAO_PAY_TECH } from './tech.kakaopay.com';
@@ -96,6 +97,7 @@ export const articleSidebars = {
   kakaoPayTech:       (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KAKAO_PAY_TECH, type),
   kakaoEnt:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_KAKAO_ENT, type),
   milanJovanovic:     (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_MILAN_JOVANOVIC, type),
+  packgemainTech:     (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_PACKAGEMAIN_TECH, type),
   eventDriven:        (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_EVENT_DRIVEN, type),
   onceupon:           (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_ONCEUPON, type),
   d2:                 (type: string = DEFAULT_KEY_ALL): SidebarGroupItem => sidebarByTemplate(TEMPLATE_D2, type),

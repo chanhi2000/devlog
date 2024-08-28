@@ -2424,5 +2424,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/1389452?v=4",
     "banner": ""
+  }, {
+    "repo": "openobserve/openobserve",
+    "desc": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+    "officialSite": "https://openobserve.ai",
+    "topics": ["analytics", "apm", "datadog", "elasticsearch", "jaeger", "kibana", "log-analytics", "log-management", "log-search", "logs", "metrics", "monitoring", "observability", "openobserve", "opentelemetry", "prometheus", "rust", "rust-lang", "traces"],
+    "avatar": "https://avatars.githubusercontent.com/u/95867656?v=4",
+    "banner": ""
+  }, {
+    "repo": "seekbytes/IPA",
+    "desc": "GUI analyzer for deep-diving into PDF files. Detect malicious payloads, understand object relationships, and extract key information for threat analysis.",
+    "officialSite": "",
+    "topics": ["egui", "malware-analysis", "pdf", "pdf-rs"],
+    "avatar": "https://avatars.githubusercontent.com/u/102438368?v=4",
+    "banner": ""
+  }, {
+    "repo": "queer/boxxy",
+    "desc": "boxxy puts bad Linux applications in a box with only their files.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/23562067?v=4",
+    "banner": ""
   }
 ]

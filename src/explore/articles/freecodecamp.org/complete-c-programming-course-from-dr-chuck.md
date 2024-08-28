@@ -56,18 +56,18 @@ We just released a comprehensive C course on the freeCodeCamp.org YouTube channe
 
 ## About the Course
 
-In this comprehensive course, Dr. Chuck uses the classic book "The C Programming Language" by Brian Kernighan and Dennis Ritchie, often referred to as K&amp;R, to guide you through the fundamentals of C. This book, first published in 1978, has been instrumental in shaping modern programming languages and provides a solid foundation for learning C.
+In this comprehensive course, Dr. Chuck uses the classic book "The C Programming Language" by Brian Kernighan and Dennis Ritchie, often referred to as K&R, to guide you through the fundamentals of C. This book, first published in 1978, has been instrumental in shaping modern programming languages and provides a solid foundation for learning C.
 
 Here are the sections in this course:
 
-- **K&amp;R 0: Historical Context:** Understand the historical significance of C and its impact on computing.
+- **K&R 0: Historical Context:** Understand the historical significance of C and its impact on computing.
 - **From Python to C:** Transition smoothly from Python to C, comparing and contrasting the two languages.
-- **K&amp;R 1: A Tutorial Introduction:** Get an introduction to the basics of C programming.
-- **K&amp;R 2: Types, Operators, and Expressions:** Learn about data types, operators, and expressions in C.
-- **K&amp;R 3: Control Flow:** Explore control flow constructs like loops and conditionals.
-- **K&amp;R 4: Functions and Program Structure:** Understand how to structure programs and write functions.
-- **K&amp;R 5: Pointers and Arrays:** Dive deep into pointers and arrays, key concepts in C.
-- **K&amp;R 6: Structures:** Learn about structures and their uses in C programming.
+- **K&R 1: A Tutorial Introduction:** Get an introduction to the basics of C programming.
+- **K&R 2: Types, Operators, and Expressions:** Learn about data types, operators, and expressions in C.
+- **K&R 3: Control Flow:** Explore control flow constructs like loops and conditionals.
+- **K&R 4: Functions and Program Structure:** Understand how to structure programs and write functions.
+- **K&R 5: Pointers and Arrays:** Dive deep into pointers and arrays, key concepts in C.
+- **K&R 6: Structures:** Learn about structures and their uses in C programming.
 - **Object-Oriented Programming:** Discover the underpinnings of object-oriented concepts in C-based languages.
 - **Encapsulation and Abstraction:** Improve your understanding of these critical programming principles.
 - **Tree Maps and Hash Maps:** Implement complex data structures.

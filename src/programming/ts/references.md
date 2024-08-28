@@ -179,6 +179,8 @@ head:
 - [`@dnr6054` / Effective typescript #1](https://velog.io/@dnr6054/Effective-typescript-1)
 - [`@ksh4704` / TypeScript 공부(5)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%805)
 - [`@ksh4704` / TypeScript 공부(6)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%806)
+- [`@ksh4704` / TypeScript 공부(7)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%807)
+- [`@ksh4704` / TypeScript 공부(8)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%808)
 
 <!-- END: velog.io -->
 

@@ -70,7 +70,7 @@ In this section, you will explore the fundamentals of computer architecture, inc
 
 ### Production App Architecture
 
-Here, the course teaches the architecture of production applications, covering Continuous Integration/Continuous Deployment (CI/CD), load balancers, and logging &amp; monitoring. These concepts are important for maintaining and scaling applications in a real-world environment.
+Here, the course teaches the architecture of production applications, covering Continuous Integration/Continuous Deployment (CI/CD), load balancers, and logging & monitoring. These concepts are important for maintaining and scaling applications in a real-world environment.
 
 ### Design Requirements
 

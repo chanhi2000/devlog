@@ -645,4 +645,10 @@ head:
 
 ---
 
+## 항동킴 Blog
+
+- [jQuery로 HTML 변경하는 두가지 방법](https://jinseong0928.blogspot.com/2024/08/jquery-html.html)
+
+---
+
 <TagLinks />

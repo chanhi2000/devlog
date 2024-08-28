@@ -45,6 +45,15 @@ head:
 
 ---
 
+## tistory
+
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [Google Analytics API 세팅](https://bbogle2.tistory.com/m/entry/Google-Analytics-API-%EC%84%B8%ED%8C%85)
+  <!-- END: bbogle2 -->
+<!-- END: tistory.com -->
+
+---
+
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
 - [구글 클라우드의 ‘무료 등급’을 알차게 활용하는 10가지 팁](https://ciokorea.com/news/170709)

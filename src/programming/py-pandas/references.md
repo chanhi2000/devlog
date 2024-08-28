@@ -57,11 +57,17 @@ head:
 
 ---
 
-## 멈춤보단 천천히라도
+## tistory
 
-- [Optuna를 사용하여 XGBoost 최적 하이퍼 파라미터 구하는 예제코드](https://webnautes.tistory.com/2029)
-- [RandomizedSearchCV를 사용하여 XGBoost 최적 하이퍼 파라미터 구하는 예제코드](https://webnautes.tistory.com/2339)
-- [Pandas 강좌 3 - 데이터 선택하는 방법, iloc](https://webnautes.tistory.com/m/1959)
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [Optuna를 사용하여 XGBoost 최적 하이퍼 파라미터 구하는 예제코드](https://webnautes.tistory.com/2029)
+  - [RandomizedSearchCV를 사용하여 XGBoost 최적 하이퍼 파라미터 구하는 예제코드](https://webnautes.tistory.com/2339)
+  - [Pandas 강좌 3 - 데이터 선택하는 방법, iloc](https://webnautes.tistory.com/m/1959)
+  <!-- END: webnautes -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [PYTHON : pandas 로 MS-SQL 연결하여 EXCEL, CSV 생성하기](https://aspdotnet.tistory.com/m/3251)
+  <!-- END: aspdotnet -->
+<!-- END: tistory.com -->
 
 ---
 

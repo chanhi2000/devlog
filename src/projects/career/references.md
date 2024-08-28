@@ -296,6 +296,7 @@ tag:
 - [`@1dLN` / 문제 식별 능력](https://brunch.co.kr/@@1dLN/62)
 - [`@8w7` / 취준생들이 정말 좋은 부트캠프에 가면 좋겠어요 - 좋지 않은 부트캠프에서는 대부분의 운영진들이 허둥대요.](https://brunch.co.kr/@@8w7/241)
 - [`@2weV` / 도전의 가치](https://brunch.co.kr/@@2weV/545)
+- [`@2weV` / 중국 생산/판매 시대에서 미국 생산/판매 시대로.](https://brunch.co.kr/@@2weV/546)
 
 <!-- END: brunch.co.kr -->
 

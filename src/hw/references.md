@@ -479,6 +479,12 @@ head:
 
 ---
 
+## 드프 DrawingProcess
+
+- [\[데이터 복구\] 대학 생활의 전부가 담긴 삼성 하드디스크 J3 1TB (feat. TDS 데이터 복구): 젠더 손상으로 인한 수리](https://csj000714.tistory.com/m/1193)
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

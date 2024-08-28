@@ -533,6 +533,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use React Compiler – A Complete Guide",
+  "desc": "In this tutorial, you'll learn how the React compiler can help you write more optimized React applications. React is a user interface library that has been doing its job quite well for over a decade. The component architecture, uni-directional data f...",
+  "link": "/explore/articles/freecodecamp.org/react-compiler-complete-guide-react-19.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

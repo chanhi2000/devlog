@@ -111,8 +111,8 @@ head:
 
 ```component VPCard
 {
-  "title": "CHAR vs. VARCHAR, 언제 어떻게 써야 할까? | 요즘IT",
-  "desc": "CHAR vs. VARCHAR, 언제 어떻게 써야 할까?",
+  "title": "<code>CHAR</code> vs. <code>VARCHAR</code>, 언제 어떻게 써야 할까? | 요즘IT",
+  "desc": "<code>CHAR</code> vs. <code>VARCHAR</code>, 언제 어떻게 써야 할까?",
   "link": "/explore/articles/yozm.wishket.com/2717.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
@@ -121,9 +121,19 @@ head:
 
 ```component VPCard
 {
-  "title": "VARCHAR vs. TEXT, 뭐가 다를까? | 요즘IT",
-  "desc": "VARCHAR vs. TEXT, 뭐가 다를까?",
+  "title": "<code>VARCHAR</code> vs. <code>TEXT</code>, 뭐가 다를까? | 요즘IT",
+  "desc": "<code>VARCHAR</code> vs. <code>TEXT</code>, 뭐가 다를까?",
   "link": "/explore/articles/yozm.wishket.com/2726.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "MySQL 콜레이션은 어떻게 동작할까? | 요즘IT",
+  "desc": "MySQL 콜레이션은 어떻게 동작할까?",
+  "link": "/explore/articles/yozm.wishket.com/2736.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

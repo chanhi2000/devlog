@@ -67,7 +67,7 @@ Here are the key sections and what you'll learn from each:
 
 The course begins with an introduction that sets the stage for your learning journey. You'll get an overview of Linux, its importance in the IT industry, and what you can expect to gain from the course.
 
-### Log into Local &amp; Remote Consoles
+### Log into Local & Remote Consoles
 
 Learn how to access Linux systems both locally and remotely. This section covers the basics of logging into consoles, which is crucial for managing servers and systems from various locations.
 

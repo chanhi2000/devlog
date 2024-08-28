@@ -51,6 +51,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Excel for Data Visualization",
+  "desc": "Excel can be great for data visualization. We just published course on the freeCodeCamp.org YouTube channel that is a comprehensive guide to Excel data visualization and dashboard creation. This course is designed to equip you with the skills needed ...",
+  "link": "/explore/articles/freecodecamp.org/excel-for-data-visualization.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

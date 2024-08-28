@@ -2140,6 +2140,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp('github'),
             asb.codemaze('github'),
             asb.milanJovanovic('github'),
+            asb.packgemainTech("docker"),
             asb.yozm("github"),
             asb.linecorp("github"),
           ]
@@ -2464,6 +2465,7 @@ export const sidebarEn = sidebar({
             asb.milanJovanovic("docker"),
             asb.codemaze("docker"),
             asb.logrocket("docker"),
+            asb.packgemainTech("docker"),
             asb.yozm("docker"),
             asb.towardsdatascience("docker"),
           ]
@@ -3333,6 +3335,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/ai/openai/articles/README.md',
+            asb.freecodecamp("openai"),
             asb.digitalocean("openai"),
             asb.yozm("openai"),
             asb.woowahan("openai"),
@@ -3632,6 +3635,7 @@ export const sidebarEn = sidebar({
         asb.piccalilli(),
         asb.sitepoint(),
         asb.eventDriven(),
+        asb.packgemainTech(),
         asb.towardsdatascience(),
         asb.douggregor(), 
         asb.kakaoTech(), 
@@ -3682,6 +3686,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp("system-design"),
             asb.smashingmagazion("system-design"),
             asb.milanJovanovic("system-design"),
+            asb.packgemainTech("system-design"),
             asb.yozm("system-design"),
             asb.d2("system-design"),
             asb.woowahan("system-design"),
