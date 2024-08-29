@@ -195,6 +195,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Build a Shopping Cart Backend with Spring Boot and Spring Security",
+  "desc": "We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you master Spring Boot and Spring Security by guiding you through the development of a fully functional shopping cart backend application. Samson Alfred created ...",
+  "link": "/explore/articles/freecodecamp.org/build-a-shopping-cart-backend-with-spring-boot-and-spring-security.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

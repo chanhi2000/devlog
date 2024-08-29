@@ -58,7 +58,7 @@ In this guide, you'll learn about VM-specific risks for data and workloads. I'll
 
 Both VMware and Proxmox offer robust solutions for virtualization, but they come with their own set of challenges and risks that can impact VM data protection.
 
-VMware is the market leader in virtualization [<FontIcon icon="fas fa-globe"/>with almost 50% of the market share](https://www.6sense.com/tech/virtualization/vmware-market-share#:~:text=VMware%20has%20market%20share%20of,ESXi%20with%205.99%25%20market%20share.), which is both a boon and a bane.
+VMware is the market leader in virtualization [<FontIcon icon="fas fa-globe"/>with almost 50% of the market share](https://6sense.com/tech/virtualization/vmware-market-share#:~:text=VMware%20has%20market%20share%20of,ESXi%20with%205.99%25%20market%20share.), which is both a boon and a bane.
 
 On the one hand, VMware has a high-end, efficient portfolio of solutions to build IT environments of any complexity and size. On the other, such popularity means that malicious actors know what they can target during cyberattacks, posing challenges in virtualization security for VMware users.
 
@@ -75,7 +75,7 @@ The workloads themselves can be mission-critical and cause global disruption and
 Before we proceed with VM security best practices, let’s go over some general security issues associated with virtual environments.
 
 - **Data breaches** are a regular issue that most IT protection systems experience. A lone hacker or an organized cybercriminal group can intrude into corporate environments to steal data. Their targets are typically clients' personal data, credit card info, credentials, and intellectual property.
-- **Insider threats** are usually the most underrated yet [<FontIcon icon="fas fa-globe"/>exceptionally dangerous issue](https://www.ekransystem.com/en/blog/insider-threat-statistics-facts-and-figures). Malicious insiders sneakily strike from the inside of an organization’s security perimeter and may have advanced access privileges. This can lead to a global IT disaster, and preventing it is a high-level challenge.
+- **Insider threats** are usually the most underrated yet [<FontIcon icon="fas fa-globe"/>exceptionally dangerous issue](https://ekransystem.com/en/blog/insider-threat-statistics-facts-and-figures). Malicious insiders sneakily strike from the inside of an organization’s security perimeter and may have advanced access privileges. This can lead to a global IT disaster, and preventing it is a high-level challenge.
 - **Malware and ransomware attacks** are an ever-evolving threat for organizations of all sizes and types.
 - **System vulnerabilities and exploits.** The supply chains of today’s IT services can be complicated and consist of multiple synchronized solutions. Every solution involved in service provisioning is a potential source of vulnerabilities that malicious actors can exploit upon discovery.
 
@@ -91,7 +91,7 @@ Key factors that can weaken virtualized infrastructure security include:
 
 ### Hypervisor security vulnerabilities
 
-- **VMware**: Because of its extensive use in enterprises, attackers frequently target VMware. Major issues can arise due to the integration and complexity of VMware's hypervisor. The "[<FontIcon icon="fas fa-globe"/>ESXiArgs](https://www.nakivo.com/blog/vmware-esxi-ransomware/)" ransomware strain takes advantage of VMware vulnerabilities to infiltrate computers before the distribution of updates.
+- **VMware**: Because of its extensive use in enterprises, attackers frequently target VMware. Major issues can arise due to the integration and complexity of VMware's hypervisor. The "[<FontIcon icon="fas fa-globe"/>ESXiArgs](https://nakivo.com/blog/vmware-esxi-ransomware/)" ransomware strain takes advantage of VMware vulnerabilities to infiltrate computers before the distribution of updates.
 - **Proxmox**: While this open-source technology does have the potential for hypervisor vulnerabilities, the community can also provide security improvements such as timely patches, vulnerability reports, and enhancements to security protocols. Insufficiently managed upgrades or third-party modules can xput Proxmox users at risk of security vulnerabilities.
 
 ### VM sprawl
@@ -150,13 +150,13 @@ In case your main infrastructure is down due to a disruption, offsite backups in
 
 **Disaster recovery planning and testing.** Virtualized environments can include hundreds and thousands of virtual machines, servers and clusters to provide stable and efficient services.
 
-To minimize downtime after global failures, you need to [<FontIcon icon="fas fa-globe"/>plan disaster recovery](https://www.nakivo.com/blog/components-disaster-recovery-plan-checklist/) (DR) sequences and test them regularly. Set up a scheduled testing workflow to ensure checks.
+To minimize downtime after global failures, you need to [<FontIcon icon="fas fa-globe"/>plan disaster recovery](https://nakivo.com/blog/components-disaster-recovery-plan-checklist/) (DR) sequences and test them regularly. Set up a scheduled testing workflow to ensure checks.
 
 Also, you might want to conduct disaster recovery testing sessions every time you introduce changes into your main virtualized environment.
 
-Advanced [<FontIcon icon="fas fa-globe"/>VM data protection](https://www.cybersecurity-insiders.com/proxmox-backup-by-nakivo-powerful-vm-data-protection/) solutions for secure virtualization, such as [<FontIcon icon="fas fa-globe"/>NAKIVO Backup & Replication](https://www.nakivo.com/proxmox-backup/), provide the set of features and functions required to implement the above-mentioned VM backup recommendations.
+Advanced [<FontIcon icon="fas fa-globe"/>VM data protection](https://cybersecurity-insiders.com/proxmox-backup-by-nakivo-powerful-vm-data-protection/) solutions for secure virtualization, such as [<FontIcon icon="fas fa-globe"/>NAKIVO Backup & Replication](https://nakivo.com/proxmox-backup/), provide the set of features and functions required to implement the above-mentioned VM backup recommendations.
 
-As a regular user of the NAKIVO solution, specifically for protecting virtualized environments, I’ve experienced firsthand the benefits of its robust features. I highly recommend taking advantage of the [<FontIcon icon="fas fa-globe"/>free version](https://www.nakivo.com/resources/download/trial-download/) of this solution, which is available until the end of 2024.
+As a regular user of the NAKIVO solution, specifically for protecting virtualized environments, I’ve experienced firsthand the benefits of its robust features. I highly recommend taking advantage of the [<FontIcon icon="fas fa-globe"/>free version](https://nakivo.com/resources/download/trial-download/) of this solution, which is available until the end of 2024.
 
 ### Monitoring and Auditing
 
@@ -209,7 +209,7 @@ However, the same idea works for VM security best practices. AI-driven cyber def
 
 Advanced VM threat detection based on behavioral analysis throughout the entire infrastructure can help reveal malware earlier. Prevention tools independently reacting to potentially dangerous changes in an environment can enable quick response and counter cyberattacks right after they begin.
 
-Lastly, AI can learn how to enhance protection flexibility and introduce defensive changes in an environment depending on how a cyberattack develops. The boosted speed and variety of [<FontIcon icon="fas fa-globe"/>cybersecurity](https://www.hostpapa.com/blog/web-hosting/what-small-businesses-need-to-know-about-cybersecurity/) moves then promote virtualized security (and data protection as a whole) to notably higher effectiveness levels.
+Lastly, AI can learn how to enhance protection flexibility and introduce defensive changes in an environment depending on how a cyberattack develops. The boosted speed and variety of [<FontIcon icon="fas fa-globe"/>cybersecurity](https://hostpapa.com/blog/web-hosting/what-small-businesses-need-to-know-about-cybersecurity/) moves then promote virtualized security (and data protection as a whole) to notably higher effectiveness levels.
 
 ---
 
@@ -217,7 +217,7 @@ Lastly, AI can learn how to enhance protection flexibility and introduce defensi
 
 Thorough VM security is crucial for any organization that's using virtualized IT environments. Consider implementing strong access controls, patch management, network segmentation, monitoring, auditing and app security to counter key threats and mitigate their outcomes.
 
-You might also want to build an advanced [<FontIcon icon="fas fa-globe"/>Proxmox replication](https://www.nakivo.com/blog/proxmox-backup/) or [<FontIcon icon="fas fa-globe"/>VMware backup](https://www.nakivo.com/blog/vmware-backup/) system to have a swift data recovery option in case of a breach or system failure.
+You might also want to build an advanced [<FontIcon icon="fas fa-globe"/>Proxmox replication](https://nakivo.com/blog/proxmox-backup/) or [<FontIcon icon="fas fa-globe"/>VMware backup](https://nakivo.com/blog/vmware-backup/) system to have a swift data recovery option in case of a breach or system failure.
 
 ---
 

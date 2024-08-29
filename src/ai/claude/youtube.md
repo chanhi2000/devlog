@@ -32,5 +32,6 @@ head:
 <MyYouTubeItems jsonName="yu-SkillLeapAI" /><!-- Skill Leap AI -->
 <MyYouTubeItems jsonName="yu-TheEasyoung" /><!-- Minsuk Heo 허민석 -->
 <MyYouTubeItems jsonName="yu-potato_ai" /><!-- 감자나라ai -->
+<MyYouTubeItems jsonName="yu-AIJasonZ" /><!-- AI Jason -->
 
 <TagLinks />

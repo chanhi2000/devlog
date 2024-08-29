@@ -3518,5 +3518,12 @@
     "topics": ["benchmarking", "collaborative-editing", "crdt", "crdts", "rope-string", "text-editor"],
     "avatar": "https://avatars.githubusercontent.com/u/47413?v=4",
     "banner": ""
+  }, {
+    "repo": "google/closure-library",
+    "desc": "Google's common JavaScript library",
+    "officialSite": "code.google.com/closure/library/",
+    "topics": ["closure", "closure-library", "goog", "google", "javascript"],
+    "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "banner": ""
   }
 ]

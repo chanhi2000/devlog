@@ -243,6 +243,7 @@ head:
 - [PC 카톡을 터미널처럼 사용하기 - Step 2](https://m.blog.naver.com/tipsware/223552246855)
 - [PC 카톡을 터미널처럼 사용하기 - Step 3](https://m.blog.naver.com/tipsware/223558638179)
 - [\[Q&A\] 배열 초기화와 관련해서 궁금합니다.](https://m.blog.naver.com/tipsware/223561899584)
+- [\[Q&A\] 배열을 가리키는 포인터를 사용할 때](https://m.blog.naver.com/tipsware/223563732195)
 
 <!-- END: tipsware.blog.naver.com -->
 

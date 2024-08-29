@@ -57,7 +57,7 @@ State management in React applications has evolved a lot in recent years, especi
 
 Developers have more flexibility and state management has generally become simpler. But as applications grow, they become more complex to manage – and you may find yourself needing a more robust state management solution. 
 
-React hooks provide built-in solutions to managing the state of your applications – for example, with the `useState()` hook. But there are other libraries like [<FontIcon icon="fas fa-globe"/>MobX](https://mobx.js.org/README.html), [<FontIcon icon="fa-brands fa-npm"/>Zustand (`zustand`)](https://www.npmjs.com/package/zustand), and [<FontIcon icon="fas fa-globe"/>Recoil](https://recoiljs.org/) that ca help make state management easier.
+React hooks provide built-in solutions to managing the state of your applications – for example, with the `useState()` hook. But there are other libraries like [<FontIcon icon="fas fa-globe"/>MobX](https://mobx.js.org/README.html), [<FontIcon icon="fa-brands fa-npm"/>Zustand (`zustand`)](https://npmjs.com/package/zustand), and [<FontIcon icon="fas fa-globe"/>Recoil](https://recoiljs.org/) that ca help make state management easier.
 
 In this article, I’ll focus on `Zustand` and compare it with the `useState()` hook. You can check out a comparison of [`useState()` and Redux here](https://freecodecamp.org/news/usestate-vs-redux-state-management/) if you want to learn more about Redux and how it compares to `useState()`.
 
@@ -71,7 +71,7 @@ Before you begin coding, please ensure you have the following:
 
 - [<FontIcon icon="fa-brands fa-node"/>Node.js](https://nodejs.org/en) installed on your system.
 - A basic understanding of [<FontIcon icon="fa-brands fa-react"/>React.js](https://react.dev/).
-- A code editor that you prefer, such as [<FontIcon icon="iconfont icon-vscode"/>Visual Studio Code](https://code.visualstudio.com/), or [<FontIcon icon="iconfont icon-subl"/>Sublime Text](https://www.sublimetext.com/download).
+- A code editor that you prefer, such as [<FontIcon icon="iconfont icon-vscode"/>Visual Studio Code](https://code.visualstudio.com/), or [<FontIcon icon="iconfont icon-subl"/>Sublime Text](https://sublimetext.com/download).
 
 ---
 

@@ -453,4 +453,10 @@ tag:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [Linux – `sed` 명령 사용법](https://skyer9.pe.kr/wordpress/?p=9341)
+
+---
+
 <TagLinks />

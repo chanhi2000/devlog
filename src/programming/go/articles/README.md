@@ -270,9 +270,19 @@ head:
 
 ```component VPCard
 {
-  "title": "Identifying Container Image Vulnerabilities with Docker Scout",
-  "desc": "A guide on how to maintain a more secure containerized software.",
-  "link": "/explore/articles/packagemain.tech/identifying-container-image-vulnerabilities.md",
+  "title": "Unified Cache Keys: How Namespaced Keys Improve Service Interoperability",
+  "desc": "More than just random keys in a Redis.",
+  "link": "/explore/articles/packagemain.tech/unified-namespaced-cache-keys.md",
+  "logo": "https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png",
+  "background": "rgba(202,177,187,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The Developer's Guide to Database Proxies: When to Use Them and How to Create One",
+  "desc": "Database Proxies can enhance performance and security in complex, high-traffic distributed systems built with Microservices.",
+  "link": "/explore/articles/packagemain.tech/the-developers-guide-to-database.md",
   "logo": "https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png",
   "background": "rgba(202,177,187,0,2)"
 }

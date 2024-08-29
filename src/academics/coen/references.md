@@ -64,10 +64,14 @@ head:
   <!-- END: lazymatlab -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[CS\] 웹 서버와 WAS](https://findsilverlining.tistory.com/m/120)
+  - [\[CS\] 웹 페이지를 접속할 때 생기는 일](https://findsilverlining.tistory.com/m/124)
   <!-- END: findsilverlining -->
 - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
   - [\[2주차\] 프로세스와 스레드](https://shout-to-my-mae.tistory.com/m/438)
   <!-- END: shout-to-my-mae -->
+- [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
+  - [로드 밸런서란?](https://maeng-dev.tistory.com/m/172)
+  <!-- END: jojoldu -->
 <!-- END: tistory.com  -->
 
 ---

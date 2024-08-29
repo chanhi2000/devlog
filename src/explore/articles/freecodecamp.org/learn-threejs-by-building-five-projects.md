@@ -113,7 +113,7 @@ In this course, you'll learn Three.js by building five hands-on projects. Each p
 
 Three.js opens up a world of possibilities for web developers. By learning Three.js, you can create engaging and interactive experiences that captivate users and provide new ways to visualize data and content. Whether you're a web developer looking to expand your skillset or a hobbyist interested in 3D graphics, this course will give you the knowledge and hands-on experience you need.
 
-Watch the full course on [<FontIcon icon="fa-brands fa-youtube"/>the freeCodeCamp.org YouTube channel](https://www.youtu.be/UMqNHi1GDAE) (1.5-hour watch).
+Watch the full course on [<FontIcon icon="fa-brands fa-youtube"/>the freeCodeCamp.org YouTube channel](https://youtu.be/UMqNHi1GDAE) (1.5-hour watch).
 
 <VidStack src="youtube/UMqNHi1GDAE" />
 

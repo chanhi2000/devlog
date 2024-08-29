@@ -287,6 +287,8 @@ head:
 - [`@2fEJ` / \[UI/UX 원칙#3\] 마이크로인터랙션 6원칙](https://brunch.co.kr/@@2fEJ/1468)
 - [`@2fEJ` / \[UX원칙#4\]좋은 캐러셀 디자인을 위한 가이드 5가지](https://brunch.co.kr/@@2fEJ/1470)
 - [`@2fEJ` / \[UI/UX 원칙 #5\] 브레드크럼 UX 원칙](https://brunch.co.kr/@@2fEJ/1469)
+- [`@2fEJ` / \[UX리서치#2\] 5초테스트로 디자인 효과성을 확인하기](https://brunch.co.kr/@@2fEJ/1464)
+- [`@2fEJ` / \[UI/UX 원칙 #6\] 여백의 미를 고려한 UX 법칙](https://brunch.co.kr/@@2fEJ/1471)
 
 <!-- END: brunch.co.kr -->
 
@@ -370,6 +372,9 @@ head:
   - [분산 시스템의 성공을 위한 9가지 핵심 아키텍처 패턴](https://jinn-blog.tistory.com/m/184)
   - [API 설계: 초보자부터 전문가를 위한 종합 가이드](https://jinn-blog.tistory.com/m/190)
   <!-- END: jinn-blog -->
+- [`jykim74` / Warehouse of PKI](https://jykim74.tistory.com/m/)
+  - [블록 암호 운영 모드 ( Block Cipher mode of operation )](https://jykim74.tistory.com/m/283)
+  <!-- END: jykim74 -->
 <!-- END: tistory.com -->
 
 ---
@@ -771,6 +776,12 @@ head:
 ## chiark home page
 
 - [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
+
+---
+
+## Kagi Blog
+
+- [Dawn of a new era in Search: Balancing innovation, competition, and public good](https://blog.kagi.com/dawn-new-era-search)
 
 ---
 

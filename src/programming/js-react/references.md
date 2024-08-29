@@ -1227,4 +1227,10 @@ https://o-yeon.tistory.com/227
 
 ---
 
+## ChatGPT for teams
+
+- [OpenAI is shockingly good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
+
+---
+
 <TagLinks />

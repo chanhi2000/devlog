@@ -74,9 +74,9 @@ Or you can listen to the podcast in Apple Podcasts, Spotify, or your favorite po
 Links we talk about during our conversation:
 
 - [<FontIcon icon="fa-brands fa-free-code-camp"/>Suz's article on live coding on freeCodeCamp](https://freecodecamp.org/news/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)
-- [<FontIcon icon="fa-brands fa-youtube"/>NoClip video game development documentaries](https://www.youtube.com/@NoclipDocs)
+- [<FontIcon icon="fa-brands fa-youtube"/>NoClip video game development documentaries](https://youtube.com/@NoclipDocs)
 - [The Dream Machine by M. Mitchell Waldrop. Suz says it's "Dense and long, but the best narrative about how computing came to be."](https://press.stripe.com/the-dream-machine) <!-- TODO: add VPCard -->
-- [Space Rogue: How the Hackers Known as L0pht Changed the World by Cris Thomas. "A book about the original cult of the dead cow hacking group."](https://www.barnesandnoble.com/w/space-rogue-cris-thomas/1142912008)
+- [Space Rogue: How the Hackers Known as L0pht Changed the World by Cris Thomas. "A book about the original cult of the dead cow hacking group."](https://barnesandnoble.com/w/space-rogue-cris-thomas/1142912008)
 
 ---
 

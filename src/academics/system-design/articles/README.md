@@ -213,6 +213,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?",
+  "desc": "Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...",
+  "link": "/explore/articles/freecodecamp.org/design-first-vs-logic-first-approach.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

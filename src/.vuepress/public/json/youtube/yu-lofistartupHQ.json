@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/4DWRAziv_CozVGxdKk3tkY-oflrIDByg6ar7bWv7oX9iLL5DQNE_hJmKfwzVXtPociP4satKpCI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "R_1AutOoOUg", "title": "Minecraft Server Hosting Platform" },
     { "id": "ZRNtKEftw8s", "title": "API Deployment Pipeline & DevOps at a Startup" },
     { "id": "hLE6juwtovE", "title": "Generate Backends Using Retool & AI - Startup Engineering Hacks" }
   ]

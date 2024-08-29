@@ -19,6 +19,7 @@ export const template: SidebarInfoTemplate = {
       "oauth2-resourceserver-with-spring-security", // 2024-05-08
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
       "build-a-crud-app-spring-boot-neon-postgres", // 2024-07-26
+      "build-a-shopping-cart-backend-with-spring-boot-and-spring-security", // 2024-08-28
     ]],[
     "java-android",[
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
@@ -397,6 +398,7 @@ export const template: SidebarInfoTemplate = {
       "what-is-a-component-library-when-to-build-your-own", // 2024-08-13
       "how-to-effectively-manage-unique-identifiers-at-scale", // 2024-08-20
       "how-to-create-software-architecture-diagrams-using-the-c4-mode", // 2024-08-21
+      "design-first-vs-logic-first-approach", // 2024-08-29
     ]],[
     "pm", [
       "what-is-trunk-based-development", // 2024-06-18
@@ -690,6 +692,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-handle-file-uploads-in-nestjs-with-multer", // 2024-08-28
       "how-to-implement-server-sent-events-in-go", // 2024-08-28
       "how-to-use-gpt-to-analyze-large-datasets", // 2024-08-28
+      "build-a-shopping-cart-backend-with-spring-boot-and-spring-security", // 2024-08-28
+      "design-first-vs-logic-first-approach", // 2024-08-29
     ]],
   ]),
 }

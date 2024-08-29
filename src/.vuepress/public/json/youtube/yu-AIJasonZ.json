@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "AIJasonZ",
+    "name": "AI Jason",
+    "profile": "https://yt3.googleusercontent.com/4Cr1CODrmOzV2i9V4sEE1Re7Ip5-XMKl3iM-zOrXFMzUx2AsXvqak7MgsbzKefFa00LO7aCRKA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/H8zPvQArGduFe78AFuZ7eHhxBabA4ZvgJt-H-YrndaEM0lSyMtJVVWRoH7Dn7t53k1XK7cEpFXQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2PKCOVqhngY", "title": "\"I want Llama3.1 to perform 10x with my private knowledge\" - Self learning Local Llama3.1 405B" },
+    { "id": "01g_EfO-Dms", "title": "Make your agents 10x more reliable? Flow engineer 101" },
+    { "id": "MGkByeDm-90", "title": "\"Make Agent 10x cheaper, faster & better?\" -  LLM System Evaluation 101" },
+    { "id": "kZap-tDA1i4", "title": "Claude 3.5 struggle too?! The $Million dollar challenge" },
+    { "id": "u5Vcrwpzoz8", "title": "\"I want Llama3 to perform 10x with my private knowledge\" - Local Agentic RAG w/ llama3" }
+  ],
+  "playlists": [
+
+  ]
+}

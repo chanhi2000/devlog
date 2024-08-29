@@ -101,8 +101,8 @@
     "repo": "jpmorganchase/python-training",
     "desc": "Python training for business analysts and traders",
     "officialSite": "",
-    "topics": [],
-    "avatar": "",
+    "topics": ["banking", "binder", "binder-ready", "cib", "data-science", "finance", "jpmorgan", "jupyter", "jupyterlab", "python"],
+    "avatar": "https://avatars.githubusercontent.com/u/22640571?v=4",
     "banner": ""
   }, {
     "repo": "prophesier/diff-svc",

@@ -154,6 +154,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 34일차 - dfs](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-34%EC%9D%BC%EC%B0%A8-dfs)
 - [`@dongha1992` / 99클럽 코테 스터디 35일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-35%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 - [`@dongha1992` / 99클럽 코테 스터디 36일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-36%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
+- [`@dongha1992` / 99클럽 코테 스터디 37일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-37%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 
 <!-- END: velog.io java -->
 
@@ -661,6 +662,13 @@ tag:
 
 - [Java (2)](https://zerohertz.github.io/java-2/)
 - [Java (3)](https://zerohertz.github.io/java-3/)
+
+### 튼튼발자 개발 성장기🏋️
+
+- [Error와 Exception의 차이를 아시나요?](https://maeng-dev.tistory.com/m/169)
+- [문자열을 생성할 때 어떻게 생성하나요?](https://maeng-dev.tistory.com/m/170)
+- [대칭키 암호화 vs 공개키 암호화](https://maeng-dev.tistory.com/m/173)
+- [값을 비교할 것인가 메모리 주소를 비교할 것인가?](https://maeng-dev.tistory.com/m/171)
 
 ---
 

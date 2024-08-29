@@ -34,5 +34,6 @@ head:
 <MyYouTubeItems jsonName="yu-SQLBANK" /><!-- SQL뱅크 -->
 <MyYouTubeItems jsonName="yu-techTFQ" /><!-- techTFQ -->
 <MyYouTubeItems jsonName="yu-perpear1" /><!-- 코딩형 -->
+<MyYouTubeItems jsonName="yu-PlanetScale" /><!-- PlanetScale -->
 
 <TagLinks />

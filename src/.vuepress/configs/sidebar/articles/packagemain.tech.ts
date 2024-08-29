@@ -6,10 +6,15 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "go", [
+      "unified-namespaced-cache-keys", // 2024-06-07
+      "the-developers-guide-to-database", // 2024-06-10
     ]],[
     "docker", [
       "identifying-container-image-vulnerabilities", // 2024-05-30
       "streamline-your-development-workflow", // 2024-05-30
+    ]],[
+    "k8s", [
+      "millisecond-scale-to-zero-with-unikernels", // 2024-06-05
     ]],[
     "github", [
       "identifying-container-image-vulnerabilities", // 2024-05-30
@@ -23,6 +28,9 @@ export const template: SidebarInfoTemplate = {
       "identifying-container-image-vulnerabilities", // 2024-05-30
       "streamline-your-development-workflow", // 2024-05-30
       "software-architecture-diagrams-c4", // 2024-06-03
+      "millisecond-scale-to-zero-with-unikernels", // 2024-06-05
+      "unified-namespaced-cache-keys", // 2024-06-07
+      "the-developers-guide-to-database", // 2024-06-10
     ]]
   ])
 }

@@ -74,7 +74,7 @@ But all that's old news by now. The *next-level* level will solve the problem of
 
 Ok. So what *is* the "problem with business analytics"? It's the hard work of building sophisticated code that parses large datasets to make them consistently machine readable (also known as "data wrangling"). It then applies complex algorithms to tease out useful insights. The figure below broadly outlines the process.
 
-![A diagram illustrating the data wrangling process](https://www.freecodecamp.org/news/content/images/2023/12/gai-8-1.png)
+![A diagram illustrating the data wrangling process](https://freecodecamp.org/news/content/images/2023/12/gai-8-1.png)
 
 A lot of the code that fits that description is incredibly complicated, not to mention clever. Inspiring clever data engineers to write that clever code can, of course, cost organizations many, many fortunes. The "problem" then, is the cost.
 

@@ -1700,5 +1700,12 @@
     "topics": ["application", "cloud", "cloud-native", "hacktoberfest", "kernel", "library", "microservice", "operating-system", "os", "osdev", "performance", "qemu", "security", "unikernel", "unikernels", "unikraft", "virtualization"],
     "avatar": "https://avatars.githubusercontent.com/u/44058005?v=4",
     "banner": ""
+  }, {
+    "repo": "rscott2049/pico-rmii-ethernet_nce",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/173579633?v=4",
+    "banner": ""
   }
 ]

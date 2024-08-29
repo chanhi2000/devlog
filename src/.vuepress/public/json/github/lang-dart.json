@@ -49,13 +49,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "AppFlowy-IO/AppFlowy",
-    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
-    "officialSite": "https://www.appflowy.io",
-    "topics": ["editor", "rust", "wiki", "rust-language", "rust-lang", "content-management", "flutter", "hacktoberfest", "notion", "low-code", "no-code", "content-services", "flutter-apps", "flutter-examples", "flutter-ui", "flutter-app", "no-code-platform", "notion-alternative"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "mylxsw/aidea",
     "desc": "AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。",
     "officialSite": "",
@@ -152,6 +145,13 @@
     "officialSite": "",
     "topics": ["clash", "clash-meta", "flutter", "hysteria", "multi-platform", "proxy", "v2ray", "vless", "vpn"],
     "avatar": "https://avatars.githubusercontent.com/u/66918471?v=4",
+    "banner": ""
+  }, {
+    "repo": "AppFlowy-IO/AppFlowy",
+    "desc": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+    "officialSite": "https://www.appflowy.io",
+    "topics": ["content-management", "content-services", "editor", "flutter", "flutter-app", "hacktoberfest", "low-code", "no-code", "notion", "notion-alternative", "project-management", "rust", "rust-lang", "rust-language", "team-collaboration", "wiki"],
+    "avatar": "https://avatars.githubusercontent.com/u/86002201?v=4",
     "banner": ""
   }
 ]

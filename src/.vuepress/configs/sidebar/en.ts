@@ -2508,6 +2508,7 @@ export const sidebarEn = sidebar({
             asb.digitalocean("k8s"),
             asb.learnk8s("k8s"),
             asb.codemaze("k8s"),
+            asb.packgemainTech("k8s"),
             asb.yozm("k8s"),
             asb.d2("k8s"),
             asb.linecorp("k8s"),

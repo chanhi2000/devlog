@@ -27,7 +27,7 @@ head:
 prev: /programming/js-react/articles/README.md
 date: 2024-07-18
 isOriginal: false
-cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/07/Using-React-Router-to-build-SPAs--Twitter-Post-.png
+cover: https://freecodecamp.org/news/content/images/size/w1000/2024/07/Using-React-Router-to-build-SPAs--Twitter-Post-.png
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -51,7 +51,7 @@ cover: https://www.freecodecamp.org/news/content/images/size/w1000/2024/07/Using
   desc="Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents..."
   url="https://freecodecamp.org/news/use-react-router-to-build-single-page-applications/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
-  preview="https://www.freecodecamp.org/news/content/images/size/w1000/2024/07/Using-React-Router-to-build-SPAs--Twitter-Post-.png"/>
+  preview="https://freecodecamp.org/news/content/images/size/w1000/2024/07/Using-React-Router-to-build-SPAs--Twitter-Post-.png"/>
 
 <!-- TODO: 작성 -->
 

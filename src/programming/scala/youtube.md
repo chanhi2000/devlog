@@ -27,4 +27,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-rockthejvm" /><!-- Rock the JVM -->
+
 <TagLinks />

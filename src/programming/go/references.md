@@ -350,9 +350,18 @@ tag:
 
 ---
 
-## junior_datalist
+## tistory
 
-- [예시를 통한 Go 객체 생성 이해하기](https://junior-datalist.tistory.com/m/377)
+- [`junior-datalist` junior_datalist](https://junior-datalist.tistory.com/m/)
+  - [예시를 통한 Go 객체 생성 이해하기](https://junior-datalist.tistory.com/m/377)
+  <!-- END: junior-datalist -->
+- [`togomi` / 토고미의 잡동사니](https://togomi.tistory.com/m/)
+  - [Go 테스트 코드 깔끔하게 작성하기](https://togomi.tistory.com/m/89)
+  <!-- END: togomi -->
+- [`134130` / 134130](https://134130.tistory.com/m/)
+  - [오픈소스 기여하기 : tus/tusd #1148](https://134130.tistory.com/m/21)
+  <!-- END: 134130 -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -389,12 +398,6 @@ tag:
 ## research!rsc
 
 - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
-
----
-
-## 134130
-
-- [오픈소스 기여하기 : tus/tusd #1148](https://134130.tistory.com/m/21)
 
 ---
 

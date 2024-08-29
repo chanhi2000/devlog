@@ -52,6 +52,7 @@ head:
   - [pyQt5로 만든 이미지 뷰어](https://webnautes.tistory.com/m/2379)
   - [pyQt5을 사용하여 만든 간단한 알람 시계](https://webnautes.tistory.com/m/2380)
   - [탭 재생성 시 이전 선택 탭 복원하는 pyQt5 예제](https://webnautes.tistory.com/m/2381)
+  - [OpenCV Python +  pyQt5 구현 - 두 개의 이미지 더하는  블렌딩](https://webnautes.tistory.com/m/2383)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

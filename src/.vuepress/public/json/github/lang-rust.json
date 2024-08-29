@@ -21,13 +21,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "surrealdb/surrealdb",
-    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
-    "topics": [],
-    "officialSite":"https://surrealdb.com",
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "paradigmxyz/reth",
     "desc": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
     "topics": [],

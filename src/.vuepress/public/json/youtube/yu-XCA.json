@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "XCA",
+    "name": "Xcoding with Alfian",
+    "profile": "https://yt3.googleusercontent.com/x9C5jE7WSkMbUtzBSvYCxS6wux27ujFl5KJIioiVwzw--RcV7EUgJ2Gsz3ZZLrvz8hcxyjScfgw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jc7cDk5ROrndxlfkhaUqHMQwKGz-bWXVhOqxShC28mU87PsHu2C2YJzHxMF5KTTSL5eyDfYAig=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jfpNfABEnys", "title": "ByteCast #1 - Search with Debounce in SwiftUI | @Observable | Combine" },
+    { "id": "IRRZfUyShUs", "title": "ByteCast #2 - Thread Safe GCD Property Wrapper | Swift" },
+    { "id": "RQGdXCf4gV0", "title": "ByteCast #3 - SwiftUI Network Status Monitor | NWPathMonitor" },
+    { "id": "6WQF-cX6AoI", "title": "ByteCast #4 - SwiftUI Task Modifier Lifecycle Handling" },
+    { "id": "y1aj4X6nn94", "title": "AI Receipt Scanner in Expense Tracker App Demo | GPT-4o Vision | SPM Lib" },
+    { "id": "W7z9dHIrKco", "title": "Build an AI Assistant Expense Tracker SwiftUI App | Part 3 | AI Receipt Scanner | gpt-4o Vision" },
+    { "id": "g4Eugw6GJ-U", "title": "iOS 18 Live Activities Broadcast Demo with Live Score Match SwiftUI App" },
+    { "id": "vR4ZzX1hSck", "title": "Build an AI Assistant Expense Tracker SwiftUI App | Part 2 | ChatGPT Function Calling" },
+    { "id": "nc7N4mGN7Y4", "title": "Build GPT4 AI Voice Assistant SwiftUI App #iosdevelopment #swiftui #gpt" },
+    { "id": "tU81xrWx6uY", "title": "Build an AI Assistant Expense Tracker SwiftUI App | Part 1 | iOS/iPadOS | macOS | visionOS | ChatGPT" }
+  ],
+  "playlists": [
+
+  ]
+}

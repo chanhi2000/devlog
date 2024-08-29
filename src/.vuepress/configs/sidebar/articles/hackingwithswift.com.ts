@@ -1687,6 +1687,36 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/cryptokit/README.md',
               '/explore/articles/hackingwithswift.com/example-code/cryptokit/how-to-calculate-the-sha-hash-of-a-string-or-data-instance.md',
             ]
+          }, {
+            text: 'Games',
+            collapsible: true,
+            children: [
+              // '/explore/articles/hackingwithswift.com/example-code/games/README.md',
+            ]
+          }, {
+            text: 'Language',
+            collapsible: true,
+            children: [
+              // '/explore/articles/hackingwithswift.com/example-code/language/README.md',
+            ]
+          }, {
+            text: 'Libraries',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/libraries/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-convert-speech-to-text-using-sfspeechrecognizer.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-display-pdfs-using-pdfview.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-extract-text-from-a-pdf-using-pdfkit.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-get-a-cover-flow-effect-on-ios.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-parse-json-using-swiftyjson.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-preview-files-using-quick-look-and-qlpreviewcontroller.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-scan-nfc-tags-using-core-nfc.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-search-your-apps-spotlight-index.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-show-pdf-thumbnails-using-pdfthumbnailview.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-watermark-pdfs-inside-a-pdfview.md',
+              '/explore/articles/hackingwithswift.com/example-code/libraries/what-is-cloudkit.md',
+            ]
           }
         ]
       }

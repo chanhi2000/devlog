@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/pJ93ZB_eSgEtP9c4MB90COANphSKhOBYL0OdAMUBdZzuxfk9xndhL83Zpt12BDX4OT0PVk5DGJs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gSUAw_f0NIs", "title": "Cherry Picking Git Commits To A Different Branch" },
+    { "id": "oG9iYkZQpcw", "title": "How IntelliJ IDEA Performance Improved: Past, Present, and Future" },
+    { "id": "K1RBTAESM-w", "title": "Building and Testing Applications With Micronaut and Testcontainers in IntelliJ IDEA" },
+    { "id": "1NUwUBtttzU", "title": "Hidden Risks in Open-Source Code and AI Models" },
+    { "id": "Pmxh-sObDKg", "title": "Mastering Java Testing With JUnit, Mockito, and AssertJ in IntelliJ IDEA" },
+    { "id": "6XUN2YS6jWA", "title": "Don't Get Burned! Secure Coding Essentials to Protect Your Application" },
+    { "id": "Rt3SeUd2VoE", "title": "To Java 22 and Beyond!" },
+    { "id": "DdvgvSHrN9g", "title": "Back to the Stdlib: Making the Most of Kotlin’s Standard Library" },
+    { "id": "Q0toFxwB_Is", "title": "Running Uncensored and Open Source LLMs on Your Local Machine" },
     { "id": "jDHQvfAVfKc", "title": "Developer Productivity With IntelliJ IDEA" },
     { "id": "nv8euZ2gOys", "title": "Working With Databases in IntelliJ IDEA" },
     { "id": "tAGv4QH29QU", "title": "The Current State of Apache Maven 4" },

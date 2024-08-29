@@ -132,5 +132,12 @@
     "topics": ["internships", "interview-preparation", "jobs", "university"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "krishnadey30/LeetCode-Questions-CompanyWise",
+    "desc": "Contains Company Wise Questions sorted based on Frequency and all time",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/22263782?v=4",
+    "banner": ""
   }
 ]

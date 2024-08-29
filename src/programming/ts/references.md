@@ -181,6 +181,7 @@ head:
 - [`@ksh4704` / TypeScript 공부(6)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%806)
 - [`@ksh4704` / TypeScript 공부(7)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%807)
 - [`@ksh4704` / TypeScript 공부(8)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%808)
+- [`@ksh4704` / TypeScript 공부(9)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%809)
 
 <!-- END: velog.io -->
 

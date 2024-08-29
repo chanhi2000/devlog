@@ -356,6 +356,12 @@ head:
 
 ---
 
+## WONIZZ.LOG - DEVELOPMENT & LIFE LOG
+
+- [\[서평 작성\] 쓸모 있는 AI 서비스 만들기](https://blog.wonizz.com/2024/08/28/hanbit-reviewer-10/)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

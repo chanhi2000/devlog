@@ -235,7 +235,8 @@ head:
   - [\[Spring Boot\] Spring Security 내부 구조 파악하기](https://findsilverlining.tistory.com/m/118)
   - [\[Spring Boot\] Spring Security 기본 필터 살펴보기](https://findsilverlining.tistory.com/m/119)
   - [\[Spring Boot\] JPA와 동작원리](https://findsilverlining.tistory.com/m/122)
-  <!-- END: findsilverlining -->
+  - [\[Spring Boot\] Swagger vs Spring REST Docs,  Swagger API 문서 자동화](https://findsilverlining.tistory.com/m/123)
+  <!-- END: findsilverlining -->w
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
   - [\[1년 후 마실가실\] Entity 수정](https://hj0216.tistory.com/m/931)

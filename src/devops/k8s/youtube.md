@@ -101,5 +101,6 @@ head:
 <MyYouTubeItems jsonName="yu-JeffGeerling" /><!-- Jeff Geerling -->
 <MyYouTubeItems jsonName="yu-NullLabs" /><!-- The Null Channel -->
 <MyYouTubeItems jsonName="yu-OpenProjectCommunity" /><!-- OpenProject | Open Source Project Management -->
+<MyYouTubeItems jsonName="yu-PlanetScale" /><!-- PlanetScale -->
 
 <TagLinks />

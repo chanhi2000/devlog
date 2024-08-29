@@ -56,6 +56,8 @@ isOriginal: false
 
 > Available from iOS 13.0
 
+<!-- TODO: 작성 -->
+
 <!-- 
 <p>iOS 13 introduced a new framework called CryptoKit, which adds important cryptographic functionality such as encryption and hashing.</p>
 <p>If you want to calculate the hash value of a string you need to convert it to an instance of <code>Data</code> like this:</p>

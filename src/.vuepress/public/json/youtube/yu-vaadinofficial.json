@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/cUc68B9FqXJnFL9T-o74Xuexs5AvGs1PiJxVn9cVyoRFNsAmAzl79aPI5pAcBaXjvobnmn6hew=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6eWqWG8u4ls", "title": "How to turn a Figma design into a web app using Vaadin Flow" },
+    { "id": "2zIlw_ni5sw", "title": "Manage spreadsheets in your web app with 2 Vaadin web components #shorts #coding #programming" },
+    { "id": "cfm5wtgpf0k", "title": "Build an AI-powered web app in 16 lines of Java! 🤯" },
+    { "id": "_k7AmdJSVFg", "title": "Announcing Vaadin Copilot" },
     { "id": "ZrXphwkhSRA", "title": "Hilla: The Full-stack Web App Solution for Java Developers" },
     { "id": "WhUqfLA2Htw", "title": "What if Java developers could build web apps without touching JavaScript? 🤔" },
     { "id": "fUxSZavRCjs", "title": "Thinking in React Signals" },

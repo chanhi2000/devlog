@@ -40,4 +40,13 @@ head:
 
 ---
 
+## tistory
+
+- [`seungdols` / Seungdols Company](https://seungdols.tistory.com/m/)
+  - [Rest API와 Grpc API 서버를 하나로 서비스 할 수 있다고?!](https://seungdols.tistory.com/m/1024)
+  <!-- END: seungdols -->
+<!-- END: tistory.com -->
+
+---
+
 <TagLinks />

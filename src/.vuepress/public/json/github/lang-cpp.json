@@ -2259,5 +2259,12 @@
     "topics": ["cli", "commandline", "gtd", "hackoctoberfest", "task", "taskwarrior", "todo"],
     "avatar": "https://avatars.githubusercontent.com/u/36100920?v=4",
     "banner": ""
+  }, {
+    "repo": "remipch/solar_concentrator",
+    "desc": "Homemade automated solar concentrator 🔧 ☀️ 🔎",
+    "officialSite": "",
+    "topics": ["cablebot", "concentrator", "energy", "esp32", "sun"],
+    "avatar": "https://avatars.githubusercontent.com/u/75692116?v=4",
+    "banner": ""
   }
 ]

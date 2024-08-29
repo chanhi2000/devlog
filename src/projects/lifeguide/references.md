@@ -65,7 +65,9 @@ tag:
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [2024년 8월 16일 이후 디딤돌·버팀목 금리, 최대 0.4%p 인상](https://aspdotnet.tistory.com/m/3248)
   <!-- END: aspdotnet -->
-
+- [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
+  - [아무도 없어도 규칙을 지키는 사람](https://jojoldu.tistory.com/m/802)
+  <!-- END: jojoldu -->
 <!-- END: tistory.com -->
 
 ---

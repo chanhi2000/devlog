@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/2MyQMZe2BEAcixMF4IZCy9sCq_w9SINKlwS5O5rvCySEstJSKGEpUod7bGx9cD9f62J0W-tm4w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZC83mglmk5I", "title": "Serverless PHP is pretty good" },
+    { "id": "Fuz-jLIo2g8", "title": "You don't need a frontend framework" },
     { "id": "ksW2z8So3EQ", "title": "Modern monoliths: SPA and API in a single codebase" },
     { "id": "LG6GvFm4meg", "title": "Live Stream - Building a form app with Laravel, Vue, and Inertia.js (Part 2)" },
     { "id": "au27CwIFHzs", "title": "Let's create a filter table component in Vue" },
@@ -16,5 +18,8 @@
     { "id": "uUDxCUVkdLY", "title": "Building a shopping cart app with Laravel, Vue + Stripe" }, 
     { "id": "BQ0gi9YHuek", "title": "Getting started with Amazon S3 storage in Laravel" }, 
     { "id": "G5Nk4VykcUw", "title": "Easily deploy a Laravel application with Docker" }
+  ],
+  "playlists": [
+    
   ]
 }

@@ -760,6 +760,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://vim-racer.com/favicon-32x32.png?v=2918fddef437d28310392792d835d13b"
   preview="https://vim-racer.com/vim-racer-logo.jpg"/>
 
+<SiteInfo
+  name="Web Design Museum - Discover old websites, apps and software"
+  desc="Web Design Museum exhibits thousands of websites that chronicle forgotten trends in web design from its beginnings in the 1990s to the mid-00s."
+  url="https://webdesignmuseum.org/"
+  logo="https://webdesignmuseum.org/wp-content/themes/webdesignmuseum/favicons/apple-touch-icon.png"
+  preview="https://webdesignmuseum.org/uploaded/others/cropped-social-image-bg.png"/>
+
 <!-- END: Cool Project -->
 
 @tab Portfolio / Resume

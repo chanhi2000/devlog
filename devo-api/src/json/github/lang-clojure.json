@@ -35,13 +35,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "penpot/penpot",
-    "desc": "Penpot: The open-source design tool for design and code collaboration",
-    "officialSite": "https://penpot.app",
-    "topics": ["clojure", "clojurescript", "design", "prototyping", "ui", "ux-design", "ux-experience"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "imteekay/programming-language-research",
     "desc": "Programming Language Research, Applied PLT & Compilers",
     "officialSite": "https://iamtk.co/tags/programming-language-design",

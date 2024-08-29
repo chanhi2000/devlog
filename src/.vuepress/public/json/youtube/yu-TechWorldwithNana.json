@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/7ugoNeZgrqsBMFE5nk9B2G5O5k2X5m-RWP4MrEEzZ4EX4GOBbHX-k7aEEVLEAQm6U9aLEUTq89M=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iInUBOVeBCc", "title": "NGINX Tutorial - What is Nginx" },
+    { "id": "boEB2fMUZnU", "title": "Top 4 AI Tools for Engineers that are ACTUALLY useful" },
+    { "id": "MIWH2CpVyXs", "title": "The ONLY Continuous Integration (CI) Tutorial you need as an Engineer" },
+    { "id": "cA8KrHFm4So", "title": "Amazon Q - Build on AWS like a Pro using Amazon's new AI coding assistant" },
     { "id": "FtaQSdrl7YA", "title": "JavaScript Tutorial for Beginners [JS Crash Course 2024]" },
     { "id": "9JGONx_X4ho", "title": "GitHub Copilot Tutorial | How useful is it for Cloud and DevOps?" },
     { "id": "SXwC9fSwct8", "title": "Ultimate Docker Compose Tutorial" },

@@ -553,6 +553,7 @@ tag:
 - [노력의 부족으로 실패하지 말자](https://thestartupbible.com/2024/08/if-you-fail-make-sure-its-not-because-of-a-lack-of-effort.html)
 - [제품도 없는데 수익은 어떻게?](https://thestartupbible.com/2024/08/how-do-you-make-a-profit-when-you-dont-have-a-product.html)
 - [회사는 놀이터가 아니다](https://thestartupbible.com/2024/08/your-company-is-not-your-playground.html)
+- [자신감에 대해서 – part 1](https://thestartupbible.com/2024/08/on-confidence-part-1.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -731,7 +732,7 @@ tag:
 
 ---
 
-## WONIZZ.LOG
+## WONIZZ.LOG - DEVELOPMENT & LIFE LOG
 
 - [[서평 작성] 개발자 기술 면접 노트](https://blog.wonizz.com/2024/04/15/hanbit-reviewer-6/)
 - [\[서평 작성\] 보고 혁명](https://blog.wonizz.com/2024/07/28/hanbit-reviewer-9/)
@@ -1457,6 +1458,7 @@ https://m.blog.naver.com/&logId=
 
 - [질문 리더쉽은 반대 : 집중해야 할 것](https://greypencil.tistory.com/m/216)
 - [비즈니스 모델, '지속 가능성' : 왜 중요할까?](https://greypencil.tistory.com/m/217)
+- [꿈 꾸는 사람, 구현하는 사람, 돈 만드는 사람](https://greypencil.tistory.com/m/220)
 
 ---
 

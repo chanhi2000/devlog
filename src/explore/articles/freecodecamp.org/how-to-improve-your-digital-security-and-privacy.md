@@ -161,7 +161,7 @@ Well, when it comes to digital privacy and security, understanding the differenc
 
 Let's start with https:// over http://. Why does it matter what type of site you're browsing?
 
-HTTP powers the web. Essentially, when you're browsing the Internet, under the hood your device is making a series of HTTP requests to servers you direct it to. With regular http:// traffic, however, anytime somebody sees HTTP requests and communications, [<FontIcon icon="fas fa-globe"/>they can see the text within](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/). This means that if you were sending passwords, credit card information, or other sensitive communications, it would be trivial to intercept those messages.
+HTTP powers the web. Essentially, when you're browsing the Internet, under the hood your device is making a series of HTTP requests to servers you direct it to. With regular http:// traffic, however, anytime somebody sees HTTP requests and communications, [<FontIcon icon="fas fa-globe"/>they can see the text within](https://cloudflare.com/learning/ssl/why-is-http-not-secure/). This means that if you were sending passwords, credit card information, or other sensitive communications, it would be trivial to intercept those messages.
 
 HTTPS, on the other hand, signs HTTP with encryption keys using a [<FontIcon icon="fa-brands fa-free-code-camp"/>method called TLS](https://freecodecamp.org/news/what-is-tls-transport-layer-security-encryption-explained-in-plain-english/). The short of it is that if you're using https:// and browsing sites everywhere with https:// (which an extension like HTTPs Everywhere can help force), that you're less likely to leak your data to attackers. <!-- TODO: 작성 (/explore/articles/freecodecamp.org/what-is-tls-transport-layer-security-encryption-explained-in-plain-english.md) -->
 
@@ -181,7 +181,7 @@ Other services offer variants, but you have to trigger them – for example, Tel
 
 ::: note Takeaway
 
-Make sure you're browsing on https:// sites with a browser extension ([<FontIcon icon="fas fa-globe"/>HTTPs Everywhere](https://www.eff.org/https-everywhere)). Also, check to see if your passwords have been compromised and how they've been compromised with [<FontIcon icon="fas fa-globe"/>HaveIBeenPwned.com](https://haveibeenpwned.com/). And stick to end-to-end encryption on chat and communications if you want to make sure the people you want to see your communications are the only ones that do.
+Make sure you're browsing on https:// sites with a browser extension ([<FontIcon icon="fas fa-globe"/>HTTPs Everywhere](https://eff.org/https-everywhere)). Also, check to see if your passwords have been compromised and how they've been compromised with [<FontIcon icon="fas fa-globe"/>HaveIBeenPwned.com](https://haveibeenpwned.com/). And stick to end-to-end encryption on chat and communications if you want to make sure the people you want to see your communications are the only ones that do.
 
 :::
 
