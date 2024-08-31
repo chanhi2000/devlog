@@ -4674,5 +4674,12 @@
     "topics": ["browser", "design", "devtool", "electron", "frontend", "local-first", "low-code", "nextjs", "no-code", "react", "tailwindcss", "typescript", "ui", "vitejs", "webflow"],
     "avatar": "https://avatars.githubusercontent.com/u/157326433?v=4",
     "banner": ""
+  }, {
+    "repo": "elastic/kibana",
+    "desc": "Your window into the Elastic Stack",
+    "officialSite": "https://www.elastic.co/products/kibana",
+    "topics": ["dashboards", "elasticsearch", "hacktoberfest", "kibana", "metrics", "observability", "visualizations"],
+    "avatar": "https://avatars.githubusercontent.com/u/6764390?v=4",
+    "banner": ""
   }
 ]

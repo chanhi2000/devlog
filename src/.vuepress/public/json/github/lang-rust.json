@@ -2438,5 +2438,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/23562067?v=4",
     "banner": ""
+  }, {
+    "repo": "alexpasmantier/grip-grab",
+    "desc": "A somewhat faster, more lightweight, ripgrep-inspired alternative.",
+    "officialSite": "https://crates.io/crates/grip-grab",
+    "topics": ["ag", "cli", "grep", "json", "regex", "ripgrep", "rust", "search", "speed", "terminal"],
+    "avatar": "https://avatars.githubusercontent.com/u/47638216?v=4",
+    "banner": ""
   }
 ]

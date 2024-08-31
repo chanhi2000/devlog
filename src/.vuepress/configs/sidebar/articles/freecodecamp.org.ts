@@ -429,6 +429,9 @@ export const template: SidebarInfoTemplate = {
     "gemini", [
       "learn-to-use-the-gemini-ai-multimodal-model", // 2024-08-22
     ]],[
+    "llama", [
+      "how-to-build-a-rag-pipeline-with-llamaindex", // 2024-08-30
+    ]],[
     "claude", [
       "how-to-generate-financial-press-reviews-using-ai", // 2024-08-20
     ]],[
@@ -694,6 +697,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-gpt-to-analyze-large-datasets", // 2024-08-28
       "build-a-shopping-cart-backend-with-spring-boot-and-spring-security", // 2024-08-28
       "design-first-vs-logic-first-approach", // 2024-08-29
+      "how-to-build-a-rag-pipeline-with-llamaindex", // 2024-08-30
     ]],
   ]),
 }

@@ -41,7 +41,19 @@ head:
 ## <FontIcon icon="iconfont icon-github"/>Github
 
 - [`adtac/Dockerfile`](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
-- [`rancher-sandbox/rancher-desktop`](https://github.com/rancher-sandbox/rancher-desktop/issues/7169)
+
+::: warning <FontIcon icon="iconfont icon-github"/> Rancher Desktop
+
+> [`rancher-sandbox/rancher-desktop`](https://github.com/rancher-sandbox/rancher-desktop/issues/7169)
+
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+```sh
+sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
+```
+
+:::
+
 ---
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium

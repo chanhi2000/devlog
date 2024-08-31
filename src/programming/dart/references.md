@@ -92,7 +92,9 @@ tag:
   - [\[Flutter\] `addPostFrameCallback`, widget이 빌드된 후에 작업이 필요할때](https://teveloper.tistory.com/m/87)
   - [\[Flutter\] Riverpod `autoDispose`로 자동 해제시켜주기](https://teveloper.tistory.com/m/88)
   <!-- END: teveloper -->
-
+- [`greypencil` / 회색분자의 IT 창작 놀이터](https://greypencil.tistory.com/m/)
+  - [한달 동안 AI와 함께 Flutter앱을 개발하면서 느낀 점](https://greypencil.tistory.com/m/221)
+  <!-- END: greypencil -->
 <!-- END: tistory.com -->
 
 ---

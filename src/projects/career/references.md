@@ -297,6 +297,7 @@ tag:
 - [`@8w7` / 취준생들이 정말 좋은 부트캠프에 가면 좋겠어요 - 좋지 않은 부트캠프에서는 대부분의 운영진들이 허둥대요.](https://brunch.co.kr/@@8w7/241)
 - [`@2weV` / 도전의 가치](https://brunch.co.kr/@@2weV/545)
 - [`@2weV` / 중국 생산/판매 시대에서 미국 생산/판매 시대로.](https://brunch.co.kr/@@2weV/546)
+- [`@3Y0` / 위임 못하는 리더의 숨겨진 속마음 - 질투심 - 리더가 된 후, 이런 고민들을 하고 있습니다. #2](https://brunch.co.kr/@@3Y0/79)
 
 <!-- END: brunch.co.kr -->
 
@@ -432,38 +433,35 @@ tag:
 
 ---
 
-## 컴공생의 발자취
+## tistory
 
-- [[스파르타코딩클럽] 데일리 미션 - Lv.2 웹개발자 JD 분석](https://moonnight0.tistory.com/m/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EB%AF%B8%EC%85%98-Lv2-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90-JD-%EB%B6%84%EC%84%9D)
-- [[스파르타코딩클럽] 데일리미션 - Lv.3 비슷한 직무 JD 분석](https://moonnight0.tistory.com/m/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv3-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A7%81%EB%AC%B4-JD-%EB%B6%84%EC%84%9D)
-- [[스파르타코딩클럽] 데일리미션 - Lv.4 웹개발 용어 정리 2](https://moonnight0.tistory.com/m/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv4-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-2)
-- [[내일배움캠프 1일차 TIL] 새로운 팀원 & 미니 프로젝트](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%9D%BC%EC%B0%A8-TIL-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%80%EC%9B%90-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-- [[내일배움캠프 2일차 TIL] 미니 프로젝트 개발 진척 상황](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-2%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A9)
-- [[내일배움캠프 3일차 TIL] 미니 프로젝트 개발 진척 상황2](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A92)
-- [[정보처리기사 실기] 개념요약 - 01. 요구사항 확인](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-01-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%99%95%EC%9D%B8)
-- [[정보처리기사 실기] 개념요약 - 03. 통합 구현](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-03-%ED%86%B5%ED%95%A9-%EA%B5%AC%ED%98%84)
-- [[정보처리기사 실기] 개념요약 - 02. 데이터 입출력 구현](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-02-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B5%AC%ED%98%84)
-- [[ 99클럽 코테 스터디 23일차 TIL ] Call by Value, Call by Reference 및 프로그래머스(행렬 테두리 회전하기)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-Call-by-Value-Call-by-Reference-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
-- [[내일배움캠프 5일차 TIL] 미니 프로젝트 발표](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C)
-- [[정보처리기사 실기] 개념요약 - 04. 서버 프로그램 구현](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-04-%EC%84%9C%EB%B2%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B5%AC%ED%98%84)
-- [[내일배움캠프 1주차 WIL] 미니 프로젝트 및 코딩 테스트](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%A3%BC%EC%B0%A8-WIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B)
-- [[내일배움캠프 4주차 WIL] 프로그래밍 기초 팀 프로젝트 마무리 및 독서토론](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-4%EC%A3%BC%EC%B0%A8-WIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
-- [[내일배움캠프 19일차 TIL] 팀 프로젝트 발표 및 KPT 회고](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-19%EC%9D%BC%EC%B0%A8-TIL-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C-%EB%B0%8F-KPT-%ED%9A%8C%EA%B3%A0)
-- [\[내일배움캠프 10주차 WIL\] 테스트 코드 개인과제 및 아웃소싱 프로젝트 그리고 독서토론(feat. 구의 증명)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-10%EC%A3%BC%EC%B0%A8-WIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EB%B0%8F-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0feat-%EA%B5%AC%EC%9D%98-%EC%A6%9D%EB%AA%85)
-- [\[내일배움캠프 48일차 TIL\] 아웃소싱 프로젝트 (feat. KPT 회고)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-48%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-feat-KPT-%ED%9A%8C%EA%B3%A0)
-- [\[내일배움캠프 47일차 TIL\] 아웃소싱 프로젝트 마무리 및 수정](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-47%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EC%88%98%EC%A0%95)
-
----
-
-## 힘차게, 열심히 공대생
-
-- [육각형 개발자 - 시니어 개발자로 성장하기 위한 10가지 핵심 역량 | 최범균](https://th.tistory.com/474)
-
----
-
-## 편리함을 추구하는 핸디의 지식 블로그
-
-- [[개발회고] 24년 1분기 회고](https://all-dev-kang.tistory.com/m/entry/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0-24%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
+- [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
+  - [[스파르타코딩클럽] 데일리 미션 - Lv.2 웹개발자 JD 분석](https://moonnight0.tistory.com/m/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EB%AF%B8%EC%85%98-Lv2-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90-JD-%EB%B6%84%EC%84%9D)
+  - [[스파르타코딩클럽] 데일리미션 - Lv.3 비슷한 직무 JD 분석](https://moonnight0.tistory.com/m/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv3-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A7%81%EB%AC%B4-JD-%EB%B6%84%EC%84%9D)
+  - [[스파르타코딩클럽] 데일리미션 - Lv.4 웹개발 용어 정리 2](https://moonnight0.tistory.com/m/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BD%94%EB%94%A9%ED%81%B4%EB%9F%BD-%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%AF%B8%EC%85%98-Lv4-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-2)
+  - [[내일배움캠프 1일차 TIL] 새로운 팀원 & 미니 프로젝트](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%9D%BC%EC%B0%A8-TIL-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%80%EC%9B%90-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+  - [[내일배움캠프 2일차 TIL] 미니 프로젝트 개발 진척 상황](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-2%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A9)
+  - [[내일배움캠프 3일차 TIL] 미니 프로젝트 개발 진척 상황2](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-3%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%EC%B2%99-%EC%83%81%ED%99%A92)
+  - [[정보처리기사 실기] 개념요약 - 01. 요구사항 확인](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-01-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%99%95%EC%9D%B8)
+  - [[정보처리기사 실기] 개념요약 - 03. 통합 구현](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-03-%ED%86%B5%ED%95%A9-%EA%B5%AC%ED%98%84)
+  - [[정보처리기사 실기] 개념요약 - 02. 데이터 입출력 구현](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-02-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EA%B5%AC%ED%98%84)
+  - [[ 99클럽 코테 스터디 23일차 TIL ] Call by Value, Call by Reference 및 프로그래머스(행렬 테두리 회전하기)](https://moonnight0.tistory.com/m/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-23%EC%9D%BC%EC%B0%A8-TIL-Call-by-Value-Call-by-Reference-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
+  - [[내일배움캠프 5일차 TIL] 미니 프로젝트 발표](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-5%EC%9D%BC%EC%B0%A8-TIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C)
+  - [[정보처리기사 실기] 개념요약 - 04. 서버 프로그램 구현](https://moonnight0.tistory.com/m/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EA%B0%9C%EB%85%90%EC%9A%94%EC%95%BD-04-%EC%84%9C%EB%B2%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B5%AC%ED%98%84)
+  - [[내일배움캠프 1주차 WIL] 미니 프로젝트 및 코딩 테스트](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-1%EC%A3%BC%EC%B0%A8-WIL-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B)
+  - [[내일배움캠프 4주차 WIL] 프로그래밍 기초 팀 프로젝트 마무리 및 독서토론](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-4%EC%A3%BC%EC%B0%A8-WIL-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0)
+  - [[내일배움캠프 19일차 TIL] 팀 프로젝트 발표 및 KPT 회고](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-19%EC%9D%BC%EC%B0%A8-TIL-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C-%EB%B0%8F-KPT-%ED%9A%8C%EA%B3%A0)
+  - [\[내일배움캠프 10주차 WIL\] 테스트 코드 개인과제 및 아웃소싱 프로젝트 그리고 독서토론(feat. 구의 증명)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-10%EC%A3%BC%EC%B0%A8-WIL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EB%B0%8F-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0feat-%EA%B5%AC%EC%9D%98-%EC%A6%9D%EB%AA%85)
+  - [\[내일배움캠프 48일차 TIL\] 아웃소싱 프로젝트 (feat. KPT 회고)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-48%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-feat-KPT-%ED%9A%8C%EA%B3%A0)
+  - [\[내일배움캠프 47일차 TIL\] 아웃소싱 프로젝트 마무리 및 수정](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-47%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC-%EB%B0%8F-%EC%88%98%EC%A0%95)
+  <!-- END: moonnight0 -->
+- [`th` / 힘차게, 열심히 공대생](https://th.tistory.com/m/)
+  - [육각형 개발자 - 시니어 개발자로 성장하기 위한 10가지 핵심 역량 | 최범균](https://th.tistory.com/m/474)
+  <!-- END: th -->
+- [`all-dev-kang` / 편리함을 추구하는 핸디의 지식 블로그](https://all-dev-kang.tistory.com/m/)
+  - [[개발회고] 24년 1분기 회고](https://all-dev-kang.tistory.com/m/entry/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0-24%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
+  <!-- END: all-dev-kang -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -510,10 +508,10 @@ tag:
 
 ## just_HS
 
-- [책: 그들의 생각을 바꾸는 방법 - 딥 캔버싱](https://jusths.tistory.com/392)
-- [책: 그들의 생각을 바꾸는 방법 - 자신만의 현실](https://jusths.tistory.com/393)
-- [피드백하는 12가지 방법](https://jusths.tistory.com/403)
-- [책: 도메인 주도 설계 핵심](https://jusths.tistory.com/409)
+- [책: 그들의 생각을 바꾸는 방법 - 딥 캔버싱](https://jusths.tistory.com/m/392)
+- [책: 그들의 생각을 바꾸는 방법 - 자신만의 현실](https://jusths.tistory.com/m/393)
+- [피드백하는 12가지 방법](https://jusths.tistory.com/m/403)
+- [책: 도메인 주도 설계 핵심](https://jusths.tistory.com/m/409)
 
 ---
 
@@ -965,6 +963,7 @@ tag:
 - [[도서서평단] 더 나은 프로그래머 되는 법](pearlluck.tistory.com/807)
 - [[책] 더 나은 프로그래머 되는법 부록.국내 개발자 8인의 이야기](https://pearlluck.tistory.com/814)
 - [\[글쓰기 세미나 후기\] 글쓰기 어려운 이유와 글쓰는 과정(1/2) (feat.글또)](https://pearlluck.tistory.com/815)
+- [심리를 파악하면 고객을 사로잡을 수 있다: 골디락스와 자이가르닉 효과](https://pearlluck.tistory.com/m/828)
 
 ---
 

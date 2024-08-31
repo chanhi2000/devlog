@@ -49,9 +49,13 @@ cover: https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg
   logo="https://blog.gangnamunni.com/favicon.ico"
   preview="https://blog.gangnamunni.com/_nuxt/img/ae65a45.jpg"/>
 
->  안녕하세요. 강남언니에서 Android 개발을 맡고 있는 David 입니다.
->
-> 해당 글은 제가 Google I/O 19 Extended in Korea Android 에서 발표했던 부분을 정리한 글입니다.
+::: info
+
+안녕하세요. 강남언니에서 Android 개발을 맡고 있는 David 입니다.
+
+해당 글은 제가 Google I/O 19 Extended in Korea Android 에서 발표했던 부분을 정리한 글입니다.
+
+:::
 
 안드로이드에서 새로운 버전이 나올때 마다 개인정보를 보호하기 위하여 다양한 기능을 추가하고 있습니다
 

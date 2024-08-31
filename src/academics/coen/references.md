@@ -68,6 +68,7 @@ head:
   <!-- END: findsilverlining -->
 - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
   - [\[2주차\] 프로세스와 스레드](https://shout-to-my-mae.tistory.com/m/438)
+  - [\[3주차\] CPU 스케줄링](https://shout-to-my-mae.tistory.com/m/439)
   <!-- END: shout-to-my-mae -->
 - [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
   - [로드 밸런서란?](https://maeng-dev.tistory.com/m/172)

@@ -7728,5 +7728,26 @@
     "topics": ["chatbot", "llms", "open-source", "rag"],
     "avatar": "https://avatars.githubusercontent.com/u/3265185?v=4",
     "banner": ""
+  }, {
+    "repo": "slashback100/presence_simulation",
+    "desc": "Home Assistant Presence Simulation",
+    "officialSite": "",
+    "topics": ["hacs", "historic", "home-assistant", "home-automation", "homeassistant", "homeassistant-components", "presence", "presence-simulation", "simulation"],
+    "avatar": "https://avatars.githubusercontent.com/u/43109757?v=4",
+    "banner": ""
+  }, {
+    "repo": "frappe/frappe_docker",
+    "desc": "Docker images for production and development setups of the Frappe framework and ERPNext",
+    "officialSite": "",
+    "topics": ["containers", "erpnext", "frappe"],
+    "avatar": "https://avatars.githubusercontent.com/u/836974?v=4",
+    "banner": ""
+  }, {
+    "repo": "frappe/erpnext",
+    "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "officialSite": "https://erpnext.com",
+    "topics": ["accounting", "asset-management", "crm", "distribution", "erp", "erpnext", "frappe", "healthcare", "hrms", "manufacturing", "point-of-sale", "procurement", "project-management", "python", "retail", "support"],
+    "avatar": "https://avatars.githubusercontent.com/u/836974?v=4",
+    "banner": ""
   }
 ]

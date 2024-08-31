@@ -1707,5 +1707,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/173579633?v=4",
     "banner": ""
+  }, {
+    "repo": "nginx/nginx",
+    "desc": "The official NGINX Open Source repository.",
+    "officialSite": "https://nginx.org/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1412239?v=4",
+    "banner": ""
   }
 ]

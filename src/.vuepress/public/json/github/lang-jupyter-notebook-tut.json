@@ -188,5 +188,12 @@
     "topics": ["chatgpt", "gpt", "large-language-models", "llm", "python", "pytorch"],
     "avatar": "https://avatars.githubusercontent.com/u/5618407?v=4",
     "banner": ""
+  }, {
+    "repo": "datawhalechina/leedl-tutorial",
+    "desc": "《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+    "officialSite": "",
+    "topics": ["bert", "chatgpt", "cnn", "deep-learning", "diffusion", "gan", "leedl-tutorial", "machine-learning", "network-compression", "pruning", "reinforcement-learning", "rnn", "self-attention", "transfer-learning", "transformer", "tutorial"],
+    "avatar": "https://avatars.githubusercontent.com/u/46047812?v=4",
+    "banner": ""
   }
 ]

@@ -393,6 +393,7 @@ head:
 - [`junghan92` / 오늘 리액트 컴파일러를 사용해 봤는데, 어땠을 것 같나요? 😉](https://junghan92.medium.com/%EC%98%A4%EB%8A%98-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B4%A4%EB%8A%94%EB%8D%B0-%EC%96%B4%EB%95%A0%EC%9D%84-%EA%B2%83-%EA%B0%99%EB%82%98%EC%9A%94-ece57f076b02)
 - [`nytimes` / Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 - [`santhoshsundar` / Using the 5S principle in coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
+- [`kmong` / React Server Component로 프론트엔드 개발 혁신하기 Part.2](https://blog.kmong.com/react-server-component%EB%A1%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%98%81%EC%8B%A0%ED%95%98%EA%B8%B0-part-2-5cf0bf4416b0?source=rss-62ff0a08953f------2)
 
 <!-- END: medium.com -->
 
@@ -809,6 +810,7 @@ https://o-yeon.tistory.com/227
 ## Unidev
 
 - [HOC와 UI 컴포넌트를 결합한 선언적인 비즈니스 컴포넌트](https://univdev.page/posts/declarative-programming-with-hoc/)
+- [사용자 경험 증대를 위한 낙관적 업데이트 (feat. React Query)](https://univdev.github.io/posts/optimistic-update/)
 
 ---
 

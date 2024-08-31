@@ -97,6 +97,9 @@ head:
 ## Brunch
 
 - [`@8w7` / Perplexity 에게 물어봤어요. 그는 누구니!! - 그는 이 업계에서 어떤 변화와 혁신을 만들어왔니. 알려줘](https://brunch.co.kr/@@8w7/239)
+- [`@24SO` / GPT, Brain, and Running](https://brunch.co.kr/@@24SO/46)
+
+<!-- END: brunch.co.kr -->
 
 ---
 
@@ -352,6 +355,7 @@ head:
 - [KIRD - RnD 수행시 생성 AI를 현명하게 활용하는 방법](https://jehyunlee.github.io/2024/07/16/General-57-kirdalphacampus/)
 - [데이터 분석용 GPTs - 플랏봇](https://jehyunlee.github.io/2024/08/11/General-58-plotbot/)
 - [논문봇 v2 - 출력물 일관성 확보](https://jehyunlee.github.io/2024/08/19/General-59-paperbot2/)
+- [인공지능소사이어티 - 연구활용 실전 LLMs](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
 
 ---
 

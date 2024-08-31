@@ -76,15 +76,42 @@ head:
 ## Blogs
 
 - [RAVI SHANKAR](https://rshankar.com)
-- [구형 맥의 부트 스크린을 최신 디자인으로 변경하는 방법 'DarkBoot'](http://macnews.tistory.com/2914)
 - [How to delete files in `/System/Library/Desktop Pictures` on Catalina?](https://apple.stackexchange.com/questions/375519/how-to-delete-files-in-system-library-desktop-pictures-on-catalina)
 
 ---
 
-## 기억보단 기록을
+## tistory
 
-- [[IntelliJ] Mac에서 IntelliJ <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
-- [\[Mac\] Java 21 & Gradle 8 설치하기](https://jojoldu.tistory.com/m/789)
+- [`macnews` / Back to the Mac](http://macnews.tistory.com/m/)
+  - [구형 맥의 부트 스크린을 최신 디자인으로 변경하는 방법 'DarkBoot'](http://macnews.tistory.com/m/2914)
+  <!-- END: macnews -->
+- [`su-mmer` / Summary Of Summer](https://su-mmer.tistory.com/m/)
+  - [\[Setting\] M2 IntelliJ Homebrew Tomcat 설치부터 연동까지](https://su-mmer.tistory.com/m/134)
+  <!-- END: su-mmer -->
+- [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
+  - [[IntelliJ] Mac에서 IntelliJ <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
+  - [\[Mac\] Java 21 & Gradle 8 설치하기](https://jojoldu.tistory.com/m/789)
+  <!-- END: jojoldu -->
+- [`webnautes` / 멈춤보단 천천히라도](http://webnautes.tistory.com/m/)
+  - [Apple Silicon Macbook에 Ubuntu ARM64 설치하는 방법 ( UTM )](http://webnautes.tistory.com/m/2103)
+  - [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/m/2101)
+  <!-- END: webnautes -->
+- [`mobicon` / AI Convergence](https://mobicon.tistory.com/m/)
+  - [Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/m/600)
+  <!-- END: mobicon -->
+- [`babysunmoon` / 주로로 통신](http://babysunmoon.tistory.com/m/)
+  - [\[node.js\] 설치 for mac](http://babysunmoon.tistory.com/m/entry/nodejs-%EC%84%A4%EC%B9%98-for-mac)
+  <!-- END: babysunmoon -->
+- [`devvkkid` / 개발자입니까?](https://devvkkid.tistory.com/m/)
+  - [Mac에서 MySQL 설치 후 `my.cnf`를 찾을 수 없을 때](https://devvkkid.tistory.com/m/305)
+  <!-- END: devvkkid -->
+- [`jakpentest` / 뭐라도 해야 한다면 기록을..](https://jakpentest.tistory.com/m/)
+  - [\[Intelli-j\] Spotlight.service broken?](entry/Try-Reinstalling-Spotlightservice)
+  <!-- END: jakpentest -->
+- [`1minute-before6pm` / Back to basics](https://1minute-before6pm.tistory.com/m/)
+  - [iTerm2에서 URL 복사 시 '^\[\[200~' Prefix 제거](https://1minute-before6pm.tistory.com/m/79)
+  <!-- END: 1minute-before6pm -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -258,13 +285,6 @@ head:
 
 ---
 
-## 멈춤보단 천천히라도
-
-- [Apple Silicon Macbook에 Ubuntu ARM64 설치하는 방법 ( UTM )](http://webnautes.tistory.com/2103)
-- [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/2101)
-
----
-
 ## Smashing Magazine — For Web Designers And Developers
 
 - [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md) -->
@@ -293,12 +313,6 @@ head:
 ## Adrian's Corner
 
 - [Installing macOS Sequoia Beta in a Separate APFS Volume](https://adrian.schoenig.me/blog/2024/06/13/installing-macos-sequoia-in-a-separate-volume/)
-
----
-
-## Mobile Convergence
-
-- [Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/m/600)
 
 ---
 
@@ -344,33 +358,9 @@ head:
 
 ---
 
-## 주로로 통신
-
-- [\[node.js\] 설치 for mac](http://babysunmoon.tistory.com/m/entry/nodejs-%EC%84%A4%EC%B9%98-for-mac)
-
----
-
-## 개발자입니까?
-
-- [Mac에서 MySQL 설치 후 `my.cnf`를 찾을 수 없을 때](https://devvkkid.tistory.com/m/305)
-
----
-
 ## Get Info
 
 - [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
-
----
-
-## 뭐라도 해야 한다면 기록을..
-
-- [\[Intelli-j\] Spotlight.service broken?](https://jakpentest.tistory.com/m/entry/Try-Reinstalling-Spotlightservice)
-
----
-
-## Back to basics
-
-- [iTerm2에서 URL 복사 시 '^\[\[200~' Prefix 제거](https://1minute-before6pm.tistory.com/m/79)
 
 ---
 

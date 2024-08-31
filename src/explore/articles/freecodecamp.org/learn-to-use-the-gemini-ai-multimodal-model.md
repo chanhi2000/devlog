@@ -2,7 +2,7 @@
 lang: ko-KR
 title: "Learn to Use the Gemini AI MultiModal Model"
 description: "Article(s) > Learn to Use the Gemini AI MultiModal Model"
-icon: fas fa-language
+icon: iconfont icon-gemini
 category: 
   - AI
   - Google 

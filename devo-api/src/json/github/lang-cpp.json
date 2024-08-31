@@ -444,8 +444,8 @@
     "repo": "libsdl-org/SDL",
     "desc": "Simple Directmedia Layer",
     "officialSite": "https://libsdl.org",
-    "topics": ["sdl2"],
-    "avatar": "",
+    "topics": ["sdl", "sdl2", "sdl3"],
+    "avatar": "https://avatars.githubusercontent.com/u/77683370?v=4",
     "banner": ""
   }, {
     "repo": "TrinityCore/TrinityCore",

@@ -339,6 +339,7 @@ head:
 - [ASP.NET CORE : 대칭 암호화 알고리즘 AES-256(Advanced Encryption Standard) 구현하기 (Aes Class)](https://aspdotnet.tistory.com/m/3242)
 - [ASP.NET CORE : 대칭 암호화 알고리즘 AES-256 시나리오 2가지로 구현하기](https://aspdotnet.tistory.com/m/3243)
 - [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
+- [한글 자모 교정기 (Hangul Grapheme Corrector) 프로그램 exe](https://aspdotnet.tistory.com/m/3254)
 
 ---
 

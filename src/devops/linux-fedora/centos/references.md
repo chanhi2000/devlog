@@ -48,6 +48,9 @@ head:
 - [`@mythos` / \[Linux Kernel\] Mailing List 구독하기](https://velog.io/@mythos/Linux-Kernel-Mailing-List-%EA%B5%AC%EB%8F%85%ED%95%98%EA%B8%B0)
 - [`@mythos` / \[Linux Kernel\] 개발 환경 설정하기](https://velog.io/@mythos/Linux-Kernel-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [`@mythos` / [Linux Kernel] QEMU 를 통한 커널 디버깅](https://velog.io/@mythos/Linux-Kernel-QEMU-%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%BB%A4%EB%84%90-%EB%94%94%EB%B2%84%EA%B9%85)
+- [`@composite` / CentOS 7 ISO 받고 싶은 틀딱들 주목](https://velog.io/@composite/CentOS-7-ISO-%EB%B0%9B%EA%B3%A0-%EC%8B%B6%EC%9D%80-%ED%8B%80%EB%94%B1%EB%93%A4-%EC%A3%BC%EB%AA%A9)
+
+<!-- END: velog.io -->
 
 ---
 

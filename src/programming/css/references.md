@@ -423,6 +423,12 @@ tag:
   - [HTML에서 DOCTYPE을 꼭 사용해야 하는 이유](https://kesakiyo.tistory.com/m/entry/HTML%EC%97%90%EC%84%9C-DOCTYPE%EC%9D%84-%EA%BC%AD-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   - [한 번쯤 들어봤을 Reset CSS와 Normalize CSS, 무슨 차이가 있을까?](https://kesakiyo.tistory.com/m/entry/%ED%95%9C-%EB%B2%88%EC%AF%A4-%EB%93%A4%EC%96%B4%EB%B4%A4%EC%9D%84-Reset-CSS%EC%99%80-Normalize-CSS-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EC%9E%88%EC%9D%84%EA%B9%8C)
   <!-- END: kesakiyo -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [image, xml, javascript, css, font 파일을 base64 로 치환하여 html 적용해 보기](https://aspdotnet.tistory.com/m/2848)
+  - [html : 애니메이션 효과, 특정 텍스트 자주색으로 형광펜 칠하듯이 보여주기](https://aspdotnet.tistory.com/m/3250)
+  - [html_css : 마우스 우클릭 방지와 텍스트 드래그 방지를 구현 (Prevent right-clicking and dragging text)](https://aspdotnet.tistory.com/m/3252)
+  <!-- END: aspdotnet -->
+
 <!-- END: tistory.com -->
 
 ---
@@ -713,13 +719,6 @@ tag:
 ## Ykss
 
 - [(번역) CSS에서의 인라인 조건문?](https://ykss.netlify.app/translation/inline_conditional_in_css/)
-
----
-
-## 재우니의 블로그
-
-- [image, xml, javascript, css, font 파일을 base64 로 치환하여 html 적용해 보기](https://aspdotnet.tistory.com/m/2848)
-- [html : 애니메이션 효과, 특정 텍스트 자주색으로 형광펜 칠하듯이 보여주기](https://aspdotnet.tistory.com/m/3250)
 
 ---
 

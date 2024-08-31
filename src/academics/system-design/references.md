@@ -289,6 +289,7 @@ head:
 - [`@2fEJ` / \[UI/UX 원칙 #5\] 브레드크럼 UX 원칙](https://brunch.co.kr/@@2fEJ/1469)
 - [`@2fEJ` / \[UX리서치#2\] 5초테스트로 디자인 효과성을 확인하기](https://brunch.co.kr/@@2fEJ/1464)
 - [`@2fEJ` / \[UI/UX 원칙 #6\] 여백의 미를 고려한 UX 법칙](https://brunch.co.kr/@@2fEJ/1471)
+- [`@2fEJ` / \[UX원칙#7\]구매를 유발하는 제품정보 구성 6가지원칙](https://brunch.co.kr/@@2fEJ/1472)
 
 <!-- END: brunch.co.kr -->
 

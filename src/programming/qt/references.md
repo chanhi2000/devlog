@@ -53,6 +53,9 @@ head:
   - [pyQt5을 사용하여 만든 간단한 알람 시계](https://webnautes.tistory.com/m/2380)
   - [탭 재생성 시 이전 선택 탭 복원하는 pyQt5 예제](https://webnautes.tistory.com/m/2381)
   - [OpenCV Python +  pyQt5 구현 - 두 개의 이미지 더하는  블렌딩](https://webnautes.tistory.com/m/2383)
+  - [PyQt5에서 QTableWidget를 마우스로 클릭하여 선택되는 것 방지](https://webnautes.tistory.com/m/2384)
+  - [PyQt5 그룹박스(QGroupBox)  예제](https://webnautes.tistory.com/m/2385)
+  - [프로그레스 바(QProgressBar)를 제어하는 간단한 PyQt5 예제](https://webnautes.tistory.com/m/2386)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

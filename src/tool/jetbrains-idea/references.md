@@ -100,6 +100,9 @@ head:
 - [`splendidlolli` / yyeennyy](https://splendidlolli.tistory.com/m/)
   - [\[IntelliJ\] 사내망 개발환경 세팅](https://splendidlolli.tistory.com/m/756)
   <!-- END: yyeennyy -->
+- [`su-mmer` / Summary Of Summer](https://su-mmer.tistory.com/m/)
+  - [\[Setting\] M2 IntelliJ Homebrew Tomcat 설치부터 연동까지](https://su-mmer.tistory.com/m/134)
+  <!-- END: su-mmer -->
 <!-- END: tistory.com -->
 
 ---

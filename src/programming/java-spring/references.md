@@ -158,6 +158,7 @@ head:
 - [`@joshuara7235` / 대량의 트래픽이 몰려올 때 나는 어떻게 해야하나? - (feat. Cache, 대기열 구현)](https://velog.io/@joshuara7235/%EB%8C%80%EB%9F%89%EC%9D%98-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%B4-%EB%AA%B0%EB%A0%A4%EC%98%AC-%EB%95%8C-%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98-feat.-Cache-%EB%8C%80%EA%B8%B0%EC%97%B4-%EA%B5%AC%ED%98%84)
 - [`@qkrtkdwns3410` / Lombok 과 Spring Data 에서 생기는 'org.springframework.data.mapping.MappingException' exception 문제 해결](https://velog.io/@qkrtkdwns3410/Lombok-%EA%B3%BC-Spring-Data-%EC%97%90%EC%84%9C-%EC%83%9D%EA%B8%B0%EB%8A%94-org.springframework.data.mapping.MappingException-exception-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 - [`@joshuara7235` / 2024년 인프콘 후기 - #4 클린 스프링](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-4-%ED%81%B4%EB%A6%B0-%EC%8A%A4%ED%94%84%EB%A7%81)
+- [`@qkrtkdwns3410` / Spring boot 에서 테스트코드 `@DataJpaTest` 와 `@DataRedisTest` java.lang.IllegalStateException: Configuration error: found multiple declarations of @BootstrapWith for test class](https://velog.io/@qkrtkdwns3410/Spring-boot-%EC%97%90%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-DataJpaTest-%EC%99%80-DataRedisTest-java.lang.IllegalStateException-Configuration-error-found-multiple-declarations-of-BootstrapWith-for-test-class)
 
 <!-- END: velog.io -->
 
@@ -236,6 +237,7 @@ head:
   - [\[Spring Boot\] Spring Security 기본 필터 살펴보기](https://findsilverlining.tistory.com/m/119)
   - [\[Spring Boot\] JPA와 동작원리](https://findsilverlining.tistory.com/m/122)
   - [\[Spring Boot\] Swagger vs Spring REST Docs,  Swagger API 문서 자동화](https://findsilverlining.tistory.com/m/123)
+  - [\[Spring Boot\] `@Bean`, `@Configuration`, `@Component`](https://findsilverlining.tistory.com/m/125)
   <!-- END: findsilverlining -->w
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
@@ -247,6 +249,7 @@ head:
   - [\[해결방법\] `duplicateKeyException`](https://hj0216.tistory.com/m/937)
   - [\[해결방법\] JWT Login 시, `accessToken`이 `null`](https://hj0216.tistory.com/m/938)
   - [\[1년 후 마실가실\] JWT와 로그아웃(1) Redis 설정](https://hj0216.tistory.com/m/939)
+  - [\[해결방법\] `io.jsonwebtoken.ExpiredJwtException`](https://hj0216.tistory.com/m/941)
   <!-- END: hj0216 -->
 - [`ysedeveloper` / 생계형 개발자 연서은](https://ysedeveloper.tistory.com/m/)
   - [스프링 부트 하루만에 배우기](https://ysedeveloper.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
@@ -510,6 +513,7 @@ head:
 ### 힘차게, 열심히 공대생
 
 - [`@Transactional` 동작과정 살펴보기 (with. Spring AOP)](https://thalals.tistory.com/m/478)
+- [동시성 제어 문제에 대한 고찰 (With. Spring, JAVA, MySQL, Redis, Kafka)](https://thalals.tistory.com/m/485)
 
 ### Lifealong
 
