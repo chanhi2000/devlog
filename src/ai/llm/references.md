@@ -83,6 +83,7 @@ head:
 - [`@ZVA` / 어텐션맵은 뭐고 트랜스포머는 또 뭐냐...LLM 입문](https://brunch.co.kr/@@ZVA/702)
 - [`@2YWz` / Enterprise LLM 사용자 인터페이스](https://brunch.co.kr/@@2YWz/114)
 - [`@5jl5` / \[책소개\] 금융 AI의 이해  - 신용 평가, 사기 탐지, 퀀트투자, 생성형 AI를 활용한 실전 금융 AI](https://brunch.co.kr/@@5jl5/127)
+- [`@ZVA` / 자바의 아버지 제임스 고슬링, 생성AI를 생각한다](https://brunch.co.kr/@@ZVA/722)
 
 <!-- END: brunch.co.kr -->
 

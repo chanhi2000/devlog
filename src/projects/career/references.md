@@ -298,6 +298,7 @@ tag:
 - [`@2weV` / 도전의 가치](https://brunch.co.kr/@@2weV/545)
 - [`@2weV` / 중국 생산/판매 시대에서 미국 생산/판매 시대로.](https://brunch.co.kr/@@2weV/546)
 - [`@3Y0` / 위임 못하는 리더의 숨겨진 속마음 - 질투심 - 리더가 된 후, 이런 고민들을 하고 있습니다. #2](https://brunch.co.kr/@@3Y0/79)
+- [`@ZVA` / 홍콩과 유럽 암호화폐 규제의 현재와 향후 시나리오](https://brunch.co.kr/@@ZVA/721)
 
 <!-- END: brunch.co.kr -->
 

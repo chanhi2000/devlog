@@ -748,5 +748,12 @@
     "topics": ["android", "compose", "compose-multiplatform", "compose-ui", "gemini", "kotlin", "kotlin-multiplatform"],
     "avatar": "https://avatars.githubusercontent.com/u/32327475?v=4",
     "banner": ""
+  }, {
+    "repo": "OShane-McKenzie/IdleOS",
+    "desc": "IdleOS is a simulated desktop environment built using Kotlin/WASM and compose multiplatform",
+    "officialSite": "https://oshane-mckenzie.github.io/IdleOS/app/index.html",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/123428296?v=4",
+    "banner": ""
   }
 ]

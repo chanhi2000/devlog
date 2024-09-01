@@ -825,5 +825,12 @@
     "topics": ["ios", "ipa", "ipad", "iphone", "itunes", "maplesign", "sideload", "sign", "signature", "signing"],
     "avatar": "https://avatars.githubusercontent.com/u/97859147?v=4",
     "banner": ""
+  }, {
+    "repo": "PicoMLX/PicoAIProxy",
+    "desc": "Reverse proxy for OpenAI and Anthropic written in server-side Swift",
+    "officialSite": "",
+    "topics": ["anthropic", "anthropic-ai", "anthropic-claude", "ios", "macos", "openai", "openai-api", "server-side-swift", "swift"],
+    "avatar": "https://avatars.githubusercontent.com/u/168484881?v=4",
+    "banner": ""
   }
 ]

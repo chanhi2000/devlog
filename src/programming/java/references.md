@@ -157,6 +157,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 37일차 - 완전탐색](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-37%EC%9D%BC%EC%B0%A8-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 - [`@dongha1992` / 99클럽 코테 스터디 37일차 - 그리디](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-37%EC%9D%BC%EC%B0%A8-%EA%B7%B8%EB%A6%AC%EB%94%94)
 - [`@dongha1992` / 99클럽 코테 스터디 37일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-37%EC%9D%BC%EC%B0%A8-DP)
+- [`@dongha1992` / 99클럽 코테 스터디 38일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-38%EC%9D%BC%EC%B0%A8-DP)
 
 <!-- END: velog.io java -->
 
@@ -689,6 +690,7 @@ tag:
 - [Kandy: the new Kotlin plotting library by JetBrains](https://blog.jetbrains.com/kotlin/2023/12/kandy-the-new-kotlin-plotting-library-by-jetbrains)
 - [A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
 - [Enhanced Column Selection DSL in Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/07/enhanced-column-selection-dsl-in-kotlin-dataframe/)
+- [Track and Analyze GitHub Star Growth With Kandy and Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/08/track-and-analyze-github-star-growth-with-kandy-and-kotlin-dataframe/)
 
 ### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 

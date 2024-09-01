@@ -505,6 +505,12 @@ tag:
 
 ---
 
+## Log on Me
+
+- [\[KANS\] 3기 1주 – 컨테이너 격리 & 네트워크 및 보안](https://logonme.net/activities/etc/kans_3_1/)
+
+---
+
 ## Project(s)
 
 ```component VPCard

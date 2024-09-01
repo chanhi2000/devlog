@@ -134,6 +134,56 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Install Joomla to Host Website on RHEL 9",
+  "desc": "In this guide, we'll walk you through the steps to install the latest version of Joomla on Red Hat Enterprise Linux (RHEL) 9 using the LAMP stack.",
+  "link": "/explore/articles/tecmint.com/install-joomla-in-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Install GCC and Development Tools on RHEL-based Systems",
+  "desc": "In this article, we will explain how to install GNU C and C++ compilers and their related development tools in RHEL-based distributions.",
+  "link": "/explore/articles/tecmint.com/install-c-c-compiler-and-development-tool-in-centos-fedora-redhat.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Install GCC (C and C++ Compiler) on Fedora",
+  "desc": "In this article, we will guide you through the steps to install gcc and development tools to get started with compiling C programs on Fedora Linux.",
+  "link": "/explore/articles/tecmint.com/install-gcc-c-compiler-fedora.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "11 Best Linux Console File Managers",
+  "desc": "Linux console file managers can be very helpful in day-to-day tasks, when managing files on a local machine, or when connected to a remote one.",
+  "link": "/explore/articles/tecmint.com/linux-terminal-file-managers.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Clifm – Lightning-Fast Command Line File Manager for Linux",
+  "desc": "Clifm is a lightning-fast command-line file manager built on the principles of a shell-like environment, meaning users can interact with their file system.",
+  "link": "/explore/articles/tecmint.com/clifm-fast-commandline-file-manager.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
 <!-- END: tecmint.com -->
 
 ---

@@ -548,6 +548,7 @@ tag:
 
 - [Customising the DocC documentation theme](https://swiftpackageindex.com/blog/customising-the-docc-documentation-theme)
 - [Ready for Swift 6](https://swiftpackageindex.com/ready-for-swift-6)
+- [`SwiftOpenAIProxy`](https://swiftpackageindex.com/PicoMLX/PicoAIProxy)
 
 ---
 
@@ -946,6 +947,24 @@ tag:
 ## TrozWare
 
 - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
+
+---
+
+## OhMySwift
+
+- [Send data Between iOS Apps and Extensions Using Darwin Notifications](https://ohmyswift.com/blog/2024/08/27/send-data-between-ios-apps-and-extensions-using-darwin-notifications/)
+
+---
+
+## Swiftly Bald
+
+- [JavaScript to Swift and back: Bridging location services in WKWebView](https://swiftlybald.com/javascript-to-swift-and-back-bridging-location-services-in-wkwebview/)
+
+---
+
+## Paulo Andrade | Geek. Skater. Bearded.
+
+- [Swift Build Times and Module Verification…](https://pfandrade.me/blog/swift-build-times-and-module-verification/)
 
 ---
 

@@ -346,6 +346,7 @@ tag:
 - [`@ksh4704` / 바닐라-영화소개프로젝트(4)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B84)
 - [`@ksh4704` / 바닐라-영화소개프로젝트(5)](https://velog.io/@ksh4704/%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%98%81%ED%99%94%EC%86%8C%EA%B0%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B85)
 - [`@superlipbalm` / (번역) 테스트 경계란 무엇일까요?](https://velog.io/@superlipbalm/what-is-a-test-boundary)
+- [`@leejh3224` / 내부 통신 시 발생하는 네트워크 에러 해결하기 (Node.js)](https://velog.io/@leejh3224/%EB%82%B4%EB%B6%80-%ED%86%B5%EC%8B%A0-%EC%8B%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-Node.js)
 
 <!-- END: velog.io -->
 

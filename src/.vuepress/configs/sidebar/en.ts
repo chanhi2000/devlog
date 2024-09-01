@@ -1946,6 +1946,15 @@ export const sidebarEn = sidebar({
         '/tool/rsync/README.md',
         '/tool/rsync/references.md',
         '/tool/rsync/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/rsync/articles/README.md',
+            asb.tecmint("rsync"),
+          ]
+        }
       ]
     }, {
       text: 'ffmpeg',

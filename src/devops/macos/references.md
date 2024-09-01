@@ -244,6 +244,7 @@ head:
 - [맥북 설정하기](https://johngrib.github.io/wiki/mac/setting/)
 - [`pass`](https://johngrib.github.io/wiki/cmd/pass/)
 - [GNU core utilities](https://johngrib.github.io/wiki/cmd/gnu-coreutils/)
+- [macOS 초보를 위한 터미널 사용 가이드 - Week 07](https://johngrib.github.io/wiki/mac/terminal-guide/07/)
 
 ---
 
@@ -373,6 +374,18 @@ head:
 ## Thomas
 
 - [Emulating the early Macintosh floppy drive](https://thomasw.dev/post/mac-floppy-emu/)
+
+---
+
+## rein's world
+
+- [macOS Rectangle](https://rein.kr/posts/2024-08-31-macos-rectangle/)
+
+---
+
+## 신현석(Hyeonseok Shin)
+
+- [맥북 USB-C 충전 전력 확인하기](https://hyeonseok.com/blog/917)
 
 ---
 

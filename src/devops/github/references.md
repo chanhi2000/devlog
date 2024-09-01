@@ -277,4 +277,11 @@ tag:
 
 ---
 
+## TWpower's Tech Blog
+
+- [\[CI/CD\](EN) Usage and example of github actions matrix](https://twpower.github.io/354-usage-and-example-of-github-actions-matrix-en)
+- [\[CI/CD\] Github Actions Matrix 사용법과 예제](https://twpower.github.io/355-usage-and-example-of-github-actions-matrix)
+
+---
+
 <TagLinks />

@@ -1717,6 +1717,23 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/libraries/how-to-watermark-pdfs-inside-a-pdfview.md',
               '/explore/articles/hackingwithswift.com/example-code/libraries/what-is-cloudkit.md',
             ]
+          }, {
+            text: 'Location',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/location/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/adding-places-to-mkmapview-using-mkplacemark.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/how-to-add-a-button-to-an-mkmapview-annotation.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/how-to-add-an-mkmapview-using-mapkit.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/how-to-add-annotations-to-mkmapview-using-mkpointannotation-and-mkpinannotationview.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/how-to-detect-ibeacons.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/how-to-find-directions-using-mkmapview-and-mkdirectionsrequest.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/how-to-look-up-a-location-with-mklocalsearchrequest.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/how-to-make-an-iphone-transmit-an-ibeacon.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/how-to-read-the-users-location-while-your-app-is-in-the-background.md',
+              '/explore/articles/hackingwithswift.com/example-code/location/how-to-request-a-users-location-only-once-using-requestlocation.md',
+
+            ]
           }
         ]
       }

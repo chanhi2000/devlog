@@ -130,6 +130,7 @@ tag:
   - [From Hilt to Koin using Koin Annotations](https://proandroiddev.com/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
   - [Mastering Date and Time Management in iOS with Kotlinx DateTime: A Step-by-Step Guide](https://proandroiddev.com/mastering-date-and-time-management-in-ios-with-kotlinx-datetime-a-step-by-step-guide-ba1fe3bc32fe)
   - [Android Process Lifecycle + Coroutines == ❤](https://proandroiddev.com/android-process-lifecycle-coroutines-7a8128470dd4)
+  - [Using Native iOS Navigation from Compose Multiplatform](https://proandroiddev.com/voyaging-through-compose-multiplatform-with-native-ios-navigation-59683464e070)
   <!-- END: proandroiddev -->
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
@@ -179,6 +180,7 @@ tag:
 - [`mmartosdev` / Pushing the Boundaries of Compose Multiplatform with AGSL Shaders](https://medium.com/@mmartosdev/pushing-the-boundaries-of-compose-multiplatform-with-agsl-shaders-d6d47380ba8a)
 - [`mohitsoni48` / How to “get()” your Koin dependency in iOS](https://medium.com/@mohitsoni48/how-to-get-your-koin-dependency-in-ios-efb6d83ee165)
 - [`renaud.mathieu` / Discovering Material3 for Android — SwipeToDismissBox](https://medium.com/@renaud.mathieu/discovering-material3-for-android-swipetodismissbox-f64905b2b677)
+- [`snapp-mobile` / Kotlin Flow to Swift Combine: A KMP Bridge. Part I](https://medium.com/snapp-mobile/kotlin-flow-to-swift-combine-a-kmp-bridge-part-i-6332bbfcad5d)
 
 <!-- END: medium.com -->
 

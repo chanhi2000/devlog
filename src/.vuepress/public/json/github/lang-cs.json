@@ -622,5 +622,12 @@
     "topics": ["android", "csharp", "dotnet", "garbage-collector", "ios", "jit", "runtime", "xamarin"],
     "avatar": "https://avatars.githubusercontent.com/u/53395?v=4",
     "banner": ""
+  }, {
+    "repo": "bluesky-social/social-app",
+    "desc": "The Bluesky Social application for Web, iOS, and Android",
+    "officialSite": "https://bsky.app",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/94650532?v=4",
+    "banner": ""
   }
 ]

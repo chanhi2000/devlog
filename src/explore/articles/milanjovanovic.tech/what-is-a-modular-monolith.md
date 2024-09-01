@@ -47,7 +47,7 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_080.png
   desc="Modular monoliths blend the simplicity and robustness of traditional monolithic applications with the flexibility and scalability of microservices. Today, I'll introduce you to the modular monolith architecture and why you should know about it."
   url="https://milanjovanovic.tech/blog/what-is-a-modular-monolith/"
   logo="https://milanjovanovic.tech/profile_favicon.png"
-  preview="https://milanjovanovic.tech/blog-covers/mnw_080.png?imwidth=1920"/>
+  preview="https://milanjovanovic.tech/blog-covers/mnw_080.png"/>
 
 <!-- TODO: 작성 -->
 

@@ -301,6 +301,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Visualize Your Software Architecture With The C4 Model",
+  "desc": "Software architecture diagrams are a great way to communicate how you are planning to build a software system or how an existing software system works. However, the majority of software architecture diagrams I've seen are a total mess. If only there was a standard way to visualize your software architecture... Enter the C4 model, which stands for context, containers, components, and code. The C4 model is a lightweight approach to describing your software architecture.",
+  "link": "/explore/articles/milanjovanovic.tech/visualize-your-software-architecture-with-the-c4-model.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Why Clean Architecture Is Great For Complex Projects",
   "desc": "I've been using Clean Architecture for 6+ years on large scale applications serving thousands of customers and millions of requests. Today I want to talk about why it's a great approach for structuring your applications. I'm aware that Clean Architecture isn't a silver bullet, so I will discuss what types of systems can benefit from this architecture. Clean architecture isn't revolutionary. But it's prescriptive about how you should structure the code. It's an evolution of the layered architecture, focusing on the core domain and the direction of dependencies. All dependencies should point inwards, applying dependency inversion.",
   "link": "/explore/articles/milanjovanovic.tech/why-clean-architecture-is-great-for-complex-projects.md",

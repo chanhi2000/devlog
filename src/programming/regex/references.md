@@ -50,9 +50,17 @@ tag:
 
 ---
 
-## uznam8x
+## tistory
 
-- [자주 사용하는 정규식 패턴](https://uznam8x.tistory.com/62)
+- [`uznam8x` / uznam8x](https://uznam8x.tistory.com/m/)
+  - [자주 사용하는 정규식 패턴](https://uznam8x.tistory.com/m/62)
+  <!-- END: uznam8x -->
+- [`lazymatlab` / 게으른맽랩 lazy matlab](https://lazymatlab.tistory.com/m/)
+  - [애증의 정규식... 1탄](https://lazymatlab.tistory.com/m/233)
+  - [애증의 정규식... 2탄](https://lazymatlab.tistory.com/m/238)
+  - [애증의 정규식... 4탄](https://lazymatlab.tistory.com/m/293)
+  <!-- END: lazymatlab -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -71,13 +79,6 @@ tag:
 ## 재그지그의 개발 블로그
 
 - [정규표현식 완전정복](https://wormwlrm.github.io/2020/07/19/Regular-Expressions-Tutorial.html)
-
----
-
-## 게으른맽랩 lazy matlab
-
-- [애증의 정규식... 1탄](https://lazymatlab.tistory.com/233)
-- [애증의 정규식... 2탄](https://lazymatlab.tistory.com/238)
 
 ---
 

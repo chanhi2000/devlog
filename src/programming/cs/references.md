@@ -149,6 +149,8 @@ head:
   - [코딩테스트 준비 - H - Index](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---h---index)
   - [코딩테스트 준비 - Count Pairs Whose Sum is Less than Target](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---count-pairs-whose-sum-is-less-than-target)
   - [코딩테스트 준비 - 가장 큰 수](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98)
+  - [코딩테스트 준비 - 카펫](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%B9%B4%ED%8E%AB)
+  - [코딩테스트 준비 - 모의고사](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
   <!-- END: sin0105 -->
 <!-- END: until.blog -->
 

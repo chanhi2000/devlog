@@ -6,6 +6,13 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "cs", [
+      "enforcing-software-architecture-with-architecture-tests", // 2023-05-06
+      "multi-tenant-applications-with-ef-core", // 2023-05-20
+      "scheduling-background-jobs-with-quartz-net", // 2023-06-03
+      "the-right-way-to-use-httpclient-in-dotnet", // 2023-06-10
+      "refactoring-from-an-anemic-domain-model-to-a-rich-domain-model", // 2023-06-17
+      "adding-real-time-functionality-to-dotnet-applications-with-signalr", // 2023-06-24
+      "response-compression-in-aspnetcore", // 2023-07-01
       "implementing-an-api-gateway-for-microservices-with-yarp", // 2023-07-08
       "8-tips-to-write-clean-code", // 2023-07-15
       "how-to-use-domain-events-to-build-loosely-coupled-systems", // 2023-07-22
@@ -71,6 +78,7 @@ export const template: SidebarInfoTemplate = {
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
     ]],[
     "github", [
+      "how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet", // 2023-05-27
       "testcontainers-integration-testing-using-docker-in-dotnet", // 2023-09-02
     ]],[
     "redis", [
@@ -78,12 +86,22 @@ export const template: SidebarInfoTemplate = {
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
     ]],[
     "system-design", [
+      "visualize-your-software-architecture-with-the-c4-model", // 2023-05-13
       "why-clean-architecture-is-great-for-complex-projects", // 2023-07-29
       "modular-monolith-communication-patterns", // 2023-08-05
       "orchestration-vs-choreography", // 2023-08-26
       "what-is-a-modular-monolith", // 2024-03-09
     ]],[
     "all", [
+      "enforcing-software-architecture-with-architecture-tests", // 2023-05-06
+      "visualize-your-software-architecture-with-the-c4-model", // 2023-05-13
+      "multi-tenant-applications-with-ef-core", // 2023-05-20
+      "how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet", // 2023-05-27
+      "scheduling-background-jobs-with-quartz-net", // 2023-06-03
+      "the-right-way-to-use-httpclient-in-dotnet", // 2023-06-10
+      "refactoring-from-an-anemic-domain-model-to-a-rich-domain-model", // 2023-06-17
+      "adding-real-time-functionality-to-dotnet-applications-with-signalr", // 2023-06-24
+      "response-compression-in-aspnetcore", // 2023-07-01
       "implementing-an-api-gateway-for-microservices-with-yarp", // 2023-07-08
       "8-tips-to-write-clean-code", // 2023-07-15
       "how-to-use-domain-events-to-build-loosely-coupled-systems", // 2023-07-22

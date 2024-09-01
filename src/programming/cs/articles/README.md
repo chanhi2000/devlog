@@ -136,6 +136,76 @@ head:
 
 ```component VPCard
 {
+  "title": "Enforcing Software Architecture With Architecture Tests",
+  "desc": "Software architecture is a blueprint for how you should structure your system. You can follow this blueprint strictly, or you can give yourself varying levels of freedom. But when deadlines are tight, and you start cutting corners, that beautiful software architecture you built crumbles like a house of cards. How can you enforce your software architecture? By writing architecture tests. Architecture tests are automated tests that verify the structure and design of your code. You can use them to enforce your software architecture and the direction of dependencies of your projects.",
+  "link": "/explore/articles/milanjovanovic.tech/enforcing-software-architecture-with-architecture-tests.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Multi-Tenant Applications With EF Core",
+  "desc": "Most software applications today are built around the concept of multi-tenancy. One application serves multiple customers, while keeping their data isolated. You can approach multi-tenancy in two ways: - Single database & logical isolation of tenants - Multiple databases & physical isolation of tenants Which option you decide to use will depend mostly on your requirements. Some industries like healthcare require a high degree of data isolation, and using a database per tenant is a must. So how are we going to implement multi-tenancy support with EF Core? We can use Query Filters to apply a tenant filter to all database queries.",
+  "link": "/explore/articles/milanjovanovic.tech/multi-tenant-applications-with-ef-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Scheduling Background Jobs With Quartz.NET",
+  "desc": "If you're building a scalable application, it's a common requirement to offload some work in your application to a background job. A few examples of that are: - Publishing email notifications - Generating reports - Updating a cache - Image processing How can you create a recurring background job in .NET? Quartz.NET is a full-featured, open source job scheduling system that can be used from smallest apps to large scale enterprise systems.",
+  "link": "/explore/articles/milanjovanovic.tech/scheduling-background-jobs-with-quartz-net.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The Right Way To Use HttpClient In .NET",
+  "desc": "If you're building a .NET application, chances are high that you'll need to call an external API over HTTP. The easy way to make HTTP requests in .NET is to use the HttpClient to send those requests. And it's a great abstraction to work with, especially with the methods supporting JSON payloads and responses. Unfortunately, it's easy to misuse the HttpClient. Port exhaustion and DNS behavior are some of the most common problems.",
+  "link": "/explore/articles/milanjovanovic.tech/the-right-way-to-use-httpclient-in-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Refactoring From an Anemic Domain Model To a Rich Domain Model",
+  "desc": "Today's modern applications must deliver the latest information without Is the Anemic domain model an antipattern? It's a domain model without any behavior and only data properties. Anemic domain models work great in simple applications, but they are difficult to maintain and evolve if you have rich business logic. The important parts of your business logic and rules end up being scattered all over the application. It reduces cohesiveness and reusability, and makes adding new features more difficult. Rich domain model attempts to solve this by encapsulating as much of the business logic as possible. This is a never-ending process of moving business logic into the domain and refining your domain model.",
+  "link": "/explore/articles/milanjovanovic.tech/refactoring-from-an-anemic-domain-model-to-a-rich-domain-model.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding Real-Time Functionality To .NET Applications With SignalR",
+  "desc": "Today's modern applications must deliver the latest information without refreshing the user interface. If you need to introduce real-time functionality to your application in .NET, there's one library you will most likely reach for - SignalR. SignalR allows you to push content from your server-side code to any connected clients as changes happen in real-time.",
+  "link": "/explore/articles/milanjovanovic.tech/adding-real-time-functionality-to-dotnet-applications-with-signalr.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Response Compression In ASP.NET Core",
+  "desc": "Reducing the size of your API responses can noticeably improve the performance of your application. And since network bandwidth is a limited resource, you should at least consider the benefits of response compression.",
+  "link": "/explore/articles/milanjovanovic.tech/response-compression-in-aspnetcore.mdhttps://milanjovanovic.tech/profile_favicon.png",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Implementing an API Gateway For Microservices With YARP",
   "desc": "Large Microservice-based systems can consist of tens or even hunders of individual services. A client application needs to have all of this information to be able to make requests to the relevant microservice directly. However, this has numerous issues such as security concerns, complexity, and coupling. We can solve this by introducing an API gateway that acts as a reverse proxy to accept API calls from the client application, forwarding this traffic to the appropriate service. The API gateway also enforces security and ensures scalability and high availability. In this week's newsletter, I'll show you how to implement an API gateway using the YARP reverse proxy.",
   "link": "/explore/articles/milanjovanovic.tech/implementing-an-api-gateway-for-microservices-with-yarp.md",

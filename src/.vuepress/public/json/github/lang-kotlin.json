@@ -586,5 +586,19 @@
     "topics": ["android", "android-lint", "android-lint-rule", "android-lints", "kotlin"],
     "avatar": "https://avatars.githubusercontent.com/u/11054916?v=4",
     "banner": ""
+  }, {
+    "repo": "eTipio/client-sdk-kotlin-template",
+    "desc": "A project template for creating Kotlin Client SDK for HTTP based APIs ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/78708048?v=4",
+    "banner": ""
+  }, {
+    "repo": "JavierSegoviaCordoba/kopy",
+    "desc": "Nested copies made easy in Kotlin",
+    "officialSite": "https://kopy.javiersc.com",
+    "topics": ["codegen", "compiler", "copies", "copy", "deep", "deep-copies", "deep-copy", "gradle", "k2", "kotlin", "plugin", "runtime"],
+    "avatar": "https://avatars.githubusercontent.com/u/7463564?v=4",
+    "banner": ""
   }
 ]

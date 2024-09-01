@@ -7749,5 +7749,12 @@
     "topics": ["accounting", "asset-management", "crm", "distribution", "erp", "erpnext", "frappe", "healthcare", "hrms", "manufacturing", "point-of-sale", "procurement", "project-management", "python", "retail", "support"],
     "avatar": "https://avatars.githubusercontent.com/u/836974?v=4",
     "banner": ""
+  }, {
+    "repo": "Zeyi-Lin/HivisionIDPhotos",
+    "desc": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+    "officialSite": "https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo",
+    "topics": ["cnn", "demo", "docker", "face-recognition", "fastapi", "gradio", "idphoto", "machine-learning", "matting", "mtcnn", "tools", "unet"],
+    "avatar": "https://avatars.githubusercontent.com/u/58305964?v=4",
+    "banner": ""
   }
 ]

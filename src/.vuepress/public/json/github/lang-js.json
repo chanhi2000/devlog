@@ -3525,5 +3525,12 @@
     "topics": ["closure", "closure-library", "goog", "google", "javascript"],
     "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
     "banner": ""
+  }, {
+    "repo": "jcubic/tagger",
+    "desc": "Zero Dependency, Vanilla JavaScript Tag Editor",
+    "officialSite": "",
+    "topics": ["component", "editor", "hacktoberfest", "interface", "javascript", "ui", "ui-component", "widget"],
+    "avatar": "https://avatars.githubusercontent.com/u/280241?v=4",
+    "banner": ""
   }
 ]

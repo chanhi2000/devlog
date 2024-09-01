@@ -796,6 +796,7 @@ head:
 - [`isn-t` / 노오력을해라](https://isn-t.tistory.com/m/)
   - [시간 복잡도와 빅오 표기법](https://isn-t.tistory.com/m/60)
   - [데이터 타입, 앱실론, 함수, 람다표현식](https://isn-t.tistory.com/m/61)
+  - [배열](https://isn-t.tistory.com/m/62)
   <!-- END: isn-t -->
 <!-- END: tistory.com -->
 
@@ -1208,6 +1209,7 @@ head:
 - [파이썬을 왜 공부하나요?](https://lazymatlab.tistory.com/m/75)
 - [매트랩 콰인](https://lazymatlab.tistory.com/m/280)
 - [conda 초간단 매뉴얼](https://lazymatlab.tistory.com/m/289)
+- [애증의 정규식... 4탄](https://lazymatlab.tistory.com/m/293)
 
 ---
 

@@ -64,6 +64,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Work with Awk Variables, Expressions, and Operators – Part 8",
+  "desc": "We'll explore advanced Awk features for complex text filtering, including variables, numeric expressions, and assignment operators.",
+  "link": "/explore/articles/tecmint.com/work-with-awk-variables-expressions-and-operators.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use Awk Special Patterns ‘BEGIN and END’ – Part 9",
+  "desc": "In this article, we shall cover Awk special patterns: BEGIN and END and these special features will help to expand and explore more complex Awk operations.",
+  "link": "/explore/articles/tecmint.com/learn-use-awk-special-patterns-begin-and-end.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
 <!-- END: tecmint.com -->
 
 ---

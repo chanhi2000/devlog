@@ -334,6 +334,11 @@ tag:
 - [`sed`](https://johngrib.github.io/wiki/cmd/sed/)
 - [`time` 명령어](https://johngrib.github.io/wiki/cmd/time/)
 - [`join` 명령어](https://johngrib.github.io/wiki/cmd/join/)
+- [`errno` 명령어](https://johngrib.github.io/wiki/cmd/errno/)
+- [`pee` 명령어](https://johngrib.github.io/wiki/cmd/pee/)
+- [`moreutils`](https://johngrib.github.io/wiki/cmd/moreutils/)
+- [`vipe` 명령어](https://johngrib.github.io/wiki/cmd/vipe/)
+- [macOS 초보를 위한 터미널 사용 가이드 - Week 07](https://johngrib.github.io/wiki/mac/terminal-guide/07/)
 
 ---
 
@@ -456,6 +461,12 @@ tag:
 ## 상구리의 기술 블로그
 
 - [Linux – `sed` 명령 사용법](https://skyer9.pe.kr/wordpress/?p=9341)
+
+---
+
+## Log on Me
+
+- [\[KANS\] 3기 1주 – 컨테이너 격리 & 네트워크 및 보안](https://logonme.net/activities/etc/kans_3_1/)
 
 ---
 

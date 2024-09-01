@@ -208,6 +208,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "11 Best Linux Console File Managers",
+  "desc": "Linux console file managers can be very helpful in day-to-day tasks, when managing files on a local machine, or when connected to a remote one.",
+  "link": "/explore/articles/tecmint.com/linux-terminal-file-managers.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Clifm – Lightning-Fast Command Line File Manager for Linux",
+  "desc": "Clifm is a lightning-fast command-line file manager built on the principles of a shell-like environment, meaning users can interact with their file system.",
+  "link": "/explore/articles/tecmint.com/clifm-fast-commandline-file-manager.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
 <!-- END: tecmint.com -->
 
 ---

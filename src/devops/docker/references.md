@@ -295,7 +295,11 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[DevOps\] Docker와 Jenkins를 이용한 CI/CD 구축 (1)](https://findsilverlining.tistory.com/m/116)
   <!-- END: findsilverlining -->
+- [`yongho1037` / 개발 노트](http://yongho1037.tistory.com/m/)
+  - [\[KANS\] 1주차 - 컨테이너 격리 & 네트워크 및 보안](http://yongho1037.tistory.com/m/841)
+  <!-- END: yongho1037 -->
 <!-- END: tistory.com -->
+
 ---
 
 ## jacking75
@@ -513,6 +517,12 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 ## Hamel's Blog
 
 - [Dokku: my favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
+
+---
+
+## Log on Me
+
+- [\[KANS\] 3기 1주 – 컨테이너 격리 & 네트워크 및 보안](https://logonme.net/activities/etc/kans_3_1/)
 
 ---
 

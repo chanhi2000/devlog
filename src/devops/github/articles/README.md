@@ -202,6 +202,16 @@ head:
 
 ```component VPCard
 {
+  "title": "How To Build a CI/CD Pipeline With GitHub Actions And .NET",
+  "desc": "Do you want to streamline your software development process and accelerate your release cycles? Imagine being able to automatically build, test, and deploy your .NET applications with every code change. With CI/CD, you can significantly reduce manual effort and focus more on creating software, ensuring faster and more reliable releases. And it's never been easier to get started with CI/CD. GitHub Actions are completely free and simple to use.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Testcontainers - Integration Testing Using Docker In .NET",
   "desc": "Modern software applications rarely work in isolation. On the contrary, a typical application will talk to several external systems like databases, messaging systems, cache providers, and many 3rd party services. And it's up to you to ensure everything functions correctly. Hopefully, I don't have to convince you about the value of writing tests. You should be writing tests. Period. However, I do want to discuss the value of integration testing. Unit tests are helpful to test business logic in isolation, without any external services. They are easy to write and provide almost instant feedback. But you can't be fully confident in your application without integration tests.",
   "link": "/explore/articles/milanjovanovic.tech/testcontainers-integration-testing-using-docker-in-dotnet.md",

@@ -51,6 +51,7 @@ tag:
   - [GitLab CI Container 이미지 빌드와 GitLab Registry](https://jeongchul.tistory.com/m/714)
   - [GitLab CI Golang 배포](https://jeongchul.tistory.com/m/713)
   - [GitLab Project Runner using Docker](https://jeongchul.tistory.com/m/717)
+  - [GitLab CI를 활용한 Harbor Registry로 Container Image Push](https://jeongchul.tistory.com/m/727)
   <!-- END: jeongchul -->
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [GitLab - git 명령어로 커밋 기록 삭제 (git : clear commits history)](https://aspdotnet.tistory.com/m/3232)

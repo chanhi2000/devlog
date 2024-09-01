@@ -247,6 +247,56 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Work with Awk Variables, Expressions, and Operators – Part 8",
+  "desc": "We'll explore advanced Awk features for complex text filtering, including variables, numeric expressions, and assignment operators.",
+  "link": "/explore/articles/tecmint.com/work-with-awk-variables-expressions-and-operators.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Install Joomla to Host Website on RHEL 9",
+  "desc": "In this guide, we'll walk you through the steps to install the latest version of Joomla on Red Hat Enterprise Linux (RHEL) 9 using the LAMP stack.",
+  "link": "/explore/articles/tecmint.com/install-joomla-in-linux.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Install GCC and Development Tools on RHEL-based Systems",
+  "desc": "In this article, we will explain how to install GNU C and C++ compilers and their related development tools in RHEL-based distributions.",
+  "link": "/explore/articles/tecmint.com/install-c-c-compiler-and-development-tool-in-centos-fedora-redhat.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Install GCC (C and C++ Compiler) on Fedora",
+  "desc": "In this article, we will guide you through the steps to install gcc and development tools to get started with compiling C programs on Fedora Linux.",
+  "link": "/explore/articles/tecmint.com/install-gcc-c-compiler-fedora.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use Awk Special Patterns ‘BEGIN and END’ – Part 9",
+  "desc": "In this article, we shall cover Awk special patterns: BEGIN and END and these special features will help to expand and explore more complex Awk operations.",
+  "link": "/explore/articles/tecmint.com/learn-use-awk-special-patterns-begin-and-end.md",
+  "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+  "background": "rgba(9,102,183,0.2)"
+}
+```
+
 <!-- END: tecmint.com -->
 
 ---

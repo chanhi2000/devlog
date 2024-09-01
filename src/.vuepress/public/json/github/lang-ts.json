@@ -4681,5 +4681,19 @@
     "topics": ["dashboards", "elasticsearch", "hacktoberfest", "kibana", "metrics", "observability", "visualizations"],
     "avatar": "https://avatars.githubusercontent.com/u/6764390?v=4",
     "banner": ""
+  }, {
+    "repo": "gitroomhq/postiz-app",
+    "desc": "📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+    "officialSite": "https://postiz.com",
+    "topics": ["launch-week", "nextjs", "open-source", "oss", "redis", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/128401275?v=4",
+    "banner": ""
+  }, {
+    "repo": "bluesky-social/social-app",
+    "desc": "The Bluesky Social application for Web, iOS, and Android",
+    "officialSite": "https://bsky.app",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/94650532?v=4",
+    "banner": ""
   }
 ]
