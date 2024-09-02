@@ -2505,5 +2505,26 @@
     "topics": ["analyzer", "binary", "dependency", "go", "golang", "react", "symbol", "terminal-ui", "treemap", "typescript", "visualization"],
     "avatar": "https://avatars.githubusercontent.com/u/31370133?v=4",
     "banner": ""
+  }, {
+    "repo": "aceberg/WatchYourLAN",
+    "desc": "Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history",
+    "officialSite": "https://hub.docker.com/r/aceberg/watchyourlan",
+    "topics": ["arp-scan", "docker", "golang", "gui", "self-hosted", "selfhosted"],
+    "avatar": "https://avatars.githubusercontent.com/u/1502200?v=4",
+    "banner": ""
+  }, {
+    "repo": "crossplane/crossplane",
+    "desc": "The Cloud Native Control Plane",
+    "officialSite": "https://crossplane.io",
+    "topics": ["cloud-computing", "cloud-management", "cloud-native", "cncf", "containers", "control-plane", "infrastructure", "infrastructure-as-code", "kubernetes", "multicloud", "serverless"],
+    "avatar": "https://avatars.githubusercontent.com/u/45158470?v=4",
+    "banner": ""
+  }, {
+    "repo": "TomWright/dasel",
+    "desc": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.",
+    "officialSite": "https://daseldocs.tomwright.me",
+    "topics": ["cli", "config", "configuration", "data-processing", "data-structures", "data-wrangling", "devops-tools", "go", "golang", "json", "json-processing", "parser", "query", "selector", "toml", "update", "xml", "yaml", "yaml-processor"],
+    "avatar": "https://avatars.githubusercontent.com/u/935867?v=4",
+    "banner": ""
   }
 ]

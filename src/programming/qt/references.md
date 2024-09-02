@@ -56,6 +56,7 @@ head:
   - [PyQt5에서 QTableWidget를 마우스로 클릭하여 선택되는 것 방지](https://webnautes.tistory.com/m/2384)
   - [PyQt5 그룹박스(QGroupBox)  예제](https://webnautes.tistory.com/m/2385)
   - [프로그레스 바(QProgressBar)를 제어하는 간단한 PyQt5 예제](https://webnautes.tistory.com/m/2386)
+  - [테이블(QTableWidget)에 콤보박스(QComboBox) 추가하기](https://webnautes.tistory.com/m/2387)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

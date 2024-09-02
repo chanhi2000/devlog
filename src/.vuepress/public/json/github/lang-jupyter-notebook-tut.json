@@ -195,5 +195,12 @@
     "topics": ["bert", "chatgpt", "cnn", "deep-learning", "diffusion", "gan", "leedl-tutorial", "machine-learning", "network-compression", "pruning", "reinforcement-learning", "rnn", "self-attention", "transfer-learning", "transformer", "tutorial"],
     "avatar": "https://avatars.githubusercontent.com/u/46047812?v=4",
     "banner": ""
+  }, {
+    "repo": "graviraja/MLOps-Basics",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/7556119?v=4",
+    "banner": ""
   }
 ]

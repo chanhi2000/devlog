@@ -172,4 +172,15 @@ head:
 
 ---
 
+## Project(s)
+
+<SiteInfo
+  name="GOV.UK Vue"
+  desc="Vue versions of every GOV.UK component"
+  url="https://govukvue.org/"
+  logo="https://govukvue.org/favicon.ico"
+  preview="https://govukvue.org/assets/images/gv-twitter.png"/>
+
+---
+
 <TagLinks />

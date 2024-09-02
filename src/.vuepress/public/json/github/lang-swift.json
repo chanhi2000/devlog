@@ -832,5 +832,12 @@
     "topics": ["anthropic", "anthropic-ai", "anthropic-claude", "ios", "macos", "openai", "openai-api", "server-side-swift", "swift"],
     "avatar": "https://avatars.githubusercontent.com/u/168484881?v=4",
     "banner": ""
+  }, {
+    "repo": "maxgoedjen/secretive",
+    "desc": "Store SSH keys in the Secure Enclave",
+    "officialSite": "",
+    "topics": ["mac", "secure-enclave", "security", "ssh"],
+    "avatar": "https://avatars.githubusercontent.com/u/342665?v=4",
+    "banner": ""
   }
 ]

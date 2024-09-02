@@ -339,6 +339,10 @@ tag:
 - [`moreutils`](https://johngrib.github.io/wiki/cmd/moreutils/)
 - [`vipe` 명령어](https://johngrib.github.io/wiki/cmd/vipe/)
 - [macOS 초보를 위한 터미널 사용 가이드 - Week 07](https://johngrib.github.io/wiki/mac/terminal-guide/07/)
+- [`ts` 명령어](https://johngrib.github.io/wiki/cmd/ts/)
+- [`sponge` 명령어](https://johngrib.github.io/wiki/cmd/sponge/)
+
+<!-- END: johngrib.github.io -->
 
 ---
 
@@ -467,6 +471,18 @@ tag:
 ## Log on Me
 
 - [\[KANS\] 3기 1주 – 컨테이너 격리 & 네트워크 및 보안](https://logonme.net/activities/etc/kans_3_1/)
+
+---
+
+## Lifestack | Experience and Thinking about Software Development
+
+- [나도 eBPF 프로그램을 만들어 볼 수 있을까?](https://blog.ashon.dev/blog/2024/08/25/ebpf-network-monitor.html)
+
+---
+
+## Sebastian Marines
+
+- [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
 
 ---
 

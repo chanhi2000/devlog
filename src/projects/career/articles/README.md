@@ -519,6 +519,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "소프트웨어 개발의 미래를 생각하다 | 요즘IT",
+  "desc": "소프트웨어 개발의 미래를 생각하다",
+  "link": "/explore/articles/yozm.wishket.com/2741.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

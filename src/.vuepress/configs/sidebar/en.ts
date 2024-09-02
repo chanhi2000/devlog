@@ -1478,6 +1478,7 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/erl-rabbitmq/articles/README.md',
             asb.learnk8s("erl-rabbitmq"),
+            asb.milanJovanovic("erl-rabbitmq"),
           ]
         }
       ]

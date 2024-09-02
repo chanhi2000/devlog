@@ -136,6 +136,106 @@ head:
 
 ```component VPCard
 {
+  "title": "Outbox Pattern For Reliable Microservices Messaging",
+  "desc": "Working with Microservices, or any distributed system for that matter, is difficult. In a distributed system many things can go wrong, and there are even research papers about this. If you want to explore this topic futher, I suggest that you read about the fallacies of distributed computing. Reducing the surface area for things to go wrong should be one of your goals, as an engineer. In this week's newsletter, we'll try to achieve exactly that using the Outbox pattern. How can you implement reliable communication between components in a distributed system? The Outbox pattern is an elegant solution to this problem, allowing you to achieve transactional guarantees in a single service and at-least-once message delivery to external systems.",
+  "link": "/explore/articles/milanjovanovic.tech/outbox-pattern-for-reliable-microservices-messaging.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Apply Functional Programming In C#",
+  "desc": "Although C# is an object-oriented programming language, it received many new functional features in recent versions. To mention just a few of these features: - Pattern matching - Switch expressions - Records You're probably already doing functional programming without even knowing it. Do you use LINQ? If you do, then you're doing functional programming. Because LINQ is a functional .NET library.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-apply-functional-programming-in-csharp.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Using Multiple EF Core DbContexts In a Single Application",
+  "desc": "Entity Framework Core (EF Core) is a popular ORM in .NET that allows you to work with SQL databases. EF Core uses a DbContext, which represents a session with the database and is responsible for tracking changes, performing database operations, and managing database connections. It's common to have only one DbContext for the entire application. But what if you need to have multiple DbContexts?",
+  "link": "/explore/articles/milanjovanovic.tech/using-multiple-ef-core-dbcontext-in-single-application.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Creating Data-Driven Tests With xUnit",
+  "desc": "Data-driven testing is a testing method where test data is provided through some external source. Hence it's also known as parameterized testing. A popular testing library in .NET that supports parameterized testing is xUnit. It uses attributes to define test methods. The Fact attribute defines a simple test, and the Theory attribute defines a parameterized test.",
+  "link": "/explore/articles/milanjovanovic.tech/creating-data-driven-tests-with-xunit.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Publish MediatR Notifications In Parallel",
+  "desc": "MediatR is a popular library with a simple mediator pattern implementation in .NET. Here's a definiton taken from MediatR's GitHub: 'In-process messaging with no dependencies.' With the rise in popularity of the CQRS pattern, MediatR became the go-to library to implement commands and queries. However, MediatR also has support for the publish-subscribe pattern using notifications. You can publish an INotification instance and have multiple subscribers handle the published message. Until recently, the handlers subscribing to an INotification message could only execute serially, one by one.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-publish-mediatr-notifications-in-parallel.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Implementing The Saga Pattern With Rebus And RabbitMQ",
+  "desc": "Designing long-lived processes in a distributed environment is an interesting engineering challenge. And a well known pattern for solving this problem is a Saga. A Saga is a sequence of local transactions, where each local transaction updates the Saga state and publishes a message triggering the next step in the Saga. Sagas come in two forms: Orchestrated Choreographed With an orchestrated Saga, there's a central component responsible for orchestrating the individual steps. In a choreographed Saga, processes work independently but coordinate with each other using events.",
+  "link": "/explore/articles/milanjovanovic.tech/implementing-the-saga-pattern-with-rebus-and-rabbitmq.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Use Rate Limiting In ASP.NET Core",
+  "desc": "Rate limiting is a technique to limit the number of requests to a server or an API. A limit is introduced within a given time period to prevent server overload and protect against abuse. In ASP.NET Core 7 we have a built-in rate limiter middleware, that's easy to integrate into your API.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-use-rate-limiting-in-aspnet-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "EF Core Raw SQL Queries",
+  "desc": "EF Core is getting many new and exciting features in the upcoming version. EF7 introduced support for returning scalar types using SQL queries. And now we're getting support for querying unmapped types with raw SQL queries in EF8. This is exactly what Dapper offers out of the box, and it's good to see EF Core catching up.",
+  "link": "/explore/articles/milanjovanovic.tech/ef-core-raw-sql-queries.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Idempotent Consumer - Handling Duplicate Messages",
+  "desc": "What happens when a message is retried in an event-driven system? It happens more often than you think. The worst case scenario is that the message is processed twice, and the side effects can also be applied more than once. Do you want your bank account to be double charged? I'll assume the answer is no, of course. You can use the Idempotent Consumer pattern to solve this problem.",
+  "link": "/explore/articles/milanjovanovic.tech/idempotent-consumer-handling-duplicate-messages.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Health Checks In ASP.NET Core For Monitoring Your Applications",
+  "desc": "We all want to build robust and reliable applications that can scale indefinitely and handle any number of requests. But with distributed systems and microservices architectures growing in complexity, it's becoming increasingly harder to monitor the health of our applications. It's vital that you have a system in place to receive quick feedback of your application health. That's where health checks come in. Health checks provide a way to monitor and verify the health of various components of an application including: - Databases - APIs - Caches - External services",
+  "link": "/explore/articles/milanjovanovic.tech/health-checks-in-asp-net-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Enforcing Software Architecture With Architecture Tests",
   "desc": "Software architecture is a blueprint for how you should structure your system. You can follow this blueprint strictly, or you can give yourself varying levels of freedom. But when deadlines are tight, and you start cutting corners, that beautiful software architecture you built crumbles like a house of cards. How can you enforce your software architecture? By writing architecture tests. Architecture tests are automated tests that verify the structure and design of your code. You can use them to enforce your software architecture and the direction of dependencies of your projects.",
   "link": "/explore/articles/milanjovanovic.tech/enforcing-software-architecture-with-architecture-tests.md",

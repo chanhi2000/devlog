@@ -158,6 +158,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 37일차 - 그리디](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-37%EC%9D%BC%EC%B0%A8-%EA%B7%B8%EB%A6%AC%EB%94%94)
 - [`@dongha1992` / 99클럽 코테 스터디 37일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-37%EC%9D%BC%EC%B0%A8-DP)
 - [`@dongha1992` / 99클럽 코테 스터디 38일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-38%EC%9D%BC%EC%B0%A8-DP)
+- [`@dongha1992` / 99클럽 코테 스터디 39일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-39%EC%9D%BC%EC%B0%A8-DP)
 
 <!-- END: velog.io java -->
 
@@ -251,6 +252,7 @@ tag:
   - [\[Java\] `JDBC` & `JDBCTemplate` & `NamedParameterJDBCTemplate`](https://jakpentest.tistory.com/m/entry/Java-JDBC-JDBCTemplate-NamedParameterJDBCTemplate)
   - [Real-World Software Development :  Chapter02 : KISS, Code Maintainability, SRP, Cohension, Coupling](https://jakpentest.tistory.com/m/entry/Real-World-Software-Development-Chapter02-KISS-Code-Maintainability-SRP-Cohension-Coupling)
   <!-- END: jakpentest -->
+  - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter01\] - 절차지향과객체지향 / 객체지향의 본질 / TDA 원칙](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter01-%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EB%B3%B8%EC%A7%88-TDA-%EC%9B%90%EC%B9%99)
 - [`splendidlolli` / yyeennyy](https://splendidlolli.tistory.com/m/)
   - [\[Java\] Generic Type erasure / 제네릭 타입 소거](https://splendidlolli.tistory.com/m/758)
   - [\[Java\] `ObjectMapper`에 `TypeReference`를 사용할 때](https://splendidlolli.tistory.com/m/759)
@@ -672,6 +674,11 @@ tag:
 - [문자열을 생성할 때 어떻게 생성하나요?](https://maeng-dev.tistory.com/m/170)
 - [대칭키 암호화 vs 공개키 암호화](https://maeng-dev.tistory.com/m/173)
 - [값을 비교할 것인가 메모리 주소를 비교할 것인가?](https://maeng-dev.tistory.com/m/171)
+- [값 타입](https://maeng-dev.tistory.com/m/174)
+
+### 당근케잌
+
+- [집나간 zip 파일 찾아요](https://yeon-kr.tistory.com/m/235)
 
 ---
 

@@ -238,6 +238,10 @@ head:
   - [\[Spring Boot\] JPA와 동작원리](https://findsilverlining.tistory.com/m/122)
   - [\[Spring Boot\] Swagger vs Spring REST Docs,  Swagger API 문서 자동화](https://findsilverlining.tistory.com/m/123)
   - [\[Spring Boot\] `@Bean`, `@Configuration`, `@Component`](https://findsilverlining.tistory.com/m/125)
+  - [\[Spring Boot\] JPA 연관관계 매핑](https://findsilverlining.tistory.com/m/126)
+  - [\[Spring Boot\] JPA 고급매핑 상속관계 매핑, @MappedSuperclass](https://findsilverlining.tistory.com/m/127)
+  - [\[Spring Boot\] JPA 프록시](https://findsilverlining.tistory.com/m/128)
+  - [\[Spring Boot\] JPA 영속성 전이, 고아 객체](https://findsilverlining.tistory.com/m/129)
   <!-- END: findsilverlining -->w
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)

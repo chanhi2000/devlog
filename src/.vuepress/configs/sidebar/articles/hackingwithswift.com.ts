@@ -1732,7 +1732,36 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/location/how-to-make-an-iphone-transmit-an-ibeacon.md',
               '/explore/articles/hackingwithswift.com/example-code/location/how-to-read-the-users-location-while-your-app-is-in-the-background.md',
               '/explore/articles/hackingwithswift.com/example-code/location/how-to-request-a-users-location-only-once-using-requestlocation.md',
-
+            ]
+          }, {
+            text: 'Media',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/media/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/cidetectortypeface-how-to-detect-faces-in-a-uiimage.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-choose-a-photo-from-the-camera-roll-using-uiimagepickercontroller.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-control-the-pitch-and-speed-of-audio-using-avaudioengine.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-convert-text-to-speech-using-avspeechsynthesizer-avspeechutterance-and-avspeechsynthesisvoice.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-create-a-barcode.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-create-a-pdf417-barcode.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-create-a-qr-code.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-desaturate-an-image-to-make-it-black-and-white.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-filter-images-using-core-image-and-cifilter.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-highlight-text-to-speech-words-being-read-using-avspeechsynthesizer.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-loop-audio-using-avaudioplayer-and-numberofloops.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-make-resizable-images-using-resizableimagewithcapinsets.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-pixellate-a-uiimage.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-play-sounds-using-avaudioplayer.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-play-videos-using-avplayerviewcontroller.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-read-the-average-color-of-a-uiimage-using-ciareaaverage.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-record-audio-using-avaudiorecorder.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-record-user-videos-using-replaykit.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-render-a-uiview-to-a-uiimage.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-save-a-uiimage-to-a-file-using-jpegdata-and-pngdata.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-scan-a-barcode.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-scan-a-qr-code.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/how-to-turn-on-the-camera-flashlight-to-make-a-torch.md',
+              '/explore/articles/hackingwithswift.com/example-code/media/uiimagewritetosavedphotosalbum-how-to-write-to-the-ios-photo-album.md',
             ]
           }
         ]

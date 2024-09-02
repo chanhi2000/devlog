@@ -767,6 +767,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://webdesignmuseum.org/wp-content/themes/webdesignmuseum/favicons/apple-touch-icon.png"
   preview="https://webdesignmuseum.org/uploaded/others/cropped-social-image-bg.png"/>
 
+<SiteInfo
+  name="DEFRAG THE GAME"
+  desc="Welcome to DEFRAG the game! Embark on a retro journey as you defrag a virtual hard drive"
+  url="https://defrag-game.com/"
+  logo="https://defrag-game.com/favicon.ico"
+  preview="https://defrag-game.com/defrag-game-hero.png"/>
+
 <!-- END: Cool Project -->
 
 @tab Portfolio / Resume

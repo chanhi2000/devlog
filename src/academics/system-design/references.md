@@ -194,6 +194,8 @@ head:
 - [`junghan92` / (번역) 디자인 시스템에 적합한 코드](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%BD%94%EB%93%9C-71ec6938a909?source=rss-4f4a02f8f2cf------2)
 - [`netflixtechblog` / Maestro: Data/ML Workflow Orchestrator at Netflix](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
 - [`daangn` / 회원 시스템 MSA 전환 도전기: MAU 1,900만 당근 유저를 위한 선택](https://medium.com/daangn/%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-msa-%EC%A0%84%ED%99%98-%EB%8F%84%EC%A0%84%EA%B8%B0-mau-1-900%EB%A7%8C-%EB%8B%B9%EA%B7%BC-%EC%9C%A0%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%84%A0%ED%83%9D-43993c582f69)
+- [`jhk0530` / 5년 전 만든 패키지를 다듬어 의학용 커스텀 플로우차트 만들기](https://jhk0530.medium.com/clinical-flowchart-shinycyjs-f9625b0f7ed8?source=rss-cb820693bed5------2)
+- [`lemonbase` / 배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례](https://blog.lemonbase.team/%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B8%89%EC%83%81%EC%8A%B9%ED%95%98%EB%8A%94-api-latency-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-django-gunicorn-%EC%82%AC%EB%A1%80-7f7a1da7b0aa)
 
 <!-- END: medium.com -->
 
@@ -290,6 +292,7 @@ head:
 - [`@2fEJ` / \[UX리서치#2\] 5초테스트로 디자인 효과성을 확인하기](https://brunch.co.kr/@@2fEJ/1464)
 - [`@2fEJ` / \[UI/UX 원칙 #6\] 여백의 미를 고려한 UX 법칙](https://brunch.co.kr/@@2fEJ/1471)
 - [`@2fEJ` / \[UX원칙#7\]구매를 유발하는 제품정보 구성 6가지원칙](https://brunch.co.kr/@@2fEJ/1472)
+- [`@2fEJ` / \[사용성 #2\] 사용성 테스트 과제 시나리오 작성 방법](https://brunch.co.kr/@@2fEJ/1473)
 
 <!-- END: brunch.co.kr -->
 
@@ -786,4 +789,9 @@ head:
 
 ---
 
+## Monzo | Your New Favourite Bank
+
+- [How we run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
+
+---
 <TagLinks />

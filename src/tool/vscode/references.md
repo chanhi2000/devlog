@@ -200,4 +200,10 @@ tag:
 
 ---
 
+## Juan Stoppa
+
+- [Code Smarter, Not Harder: Developing with Cursor and Claude Sonnet](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/)
+
+---
+
 <TagLinks />

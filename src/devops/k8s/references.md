@@ -122,6 +122,8 @@ head:
   - [Istio IngressGateway External IP 설정](https://jeongchul.tistory.com/m/724)
   - [Kubernetes Redis Cluster 설치](https://jeongchul.tistory.com/m/725)
   - [Redis Insight Kubernetes 배포](https://jeongchul.tistory.com/m/726)
+  - [Harbor Kubernetes Helm 설치](https://jeongchul.tistory.com/m/728)
+  - [ArgoCD Kubenetes Helm 구축](https://jeongchul.tistory.com/m/729)
   <!-- END: jeongchul -->
 - [`jybaek` / 컴맹 : 진화의 시작](https://jybaek.tistory.com/m/)
   - [`PodDisruptionBudget`로 애플리케이션 보호](https://jybaek.tistory.com/m/504720)
@@ -165,6 +167,8 @@ head:
 - [`daangn` / 딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a)
 [`google-cloud` / Tutorial : Making a Kubernetes Risk Analyser from scratch](https://medium.com/google-cloud/tutorial-making-a-kubernetes-risk-analyser-from-scratch-3d7c74e10b41)
 - [`adidoescode` / Reducing Cloud Costs of Kubernetes Clusters](https://medium.com/adidoescode/reducing-cloud-costs-of-kubernetes-clusters-c8c1e3bdb669)
+- [`fengruohang` / Database in Kubernetes: Is that a good idea?](https://medium.com/@fengruohang/database-in-kubernetes-is-that-a-good-idea-daf5775b5c1f)
+- [`mathieuces` / How to calculate CPU for containers in k8s dynamically ?](https://medium.com/@mathieuces/how-to-calculate-cpu-for-containers-in-k8s-dynamically-47a89e3886eb)
 
 <!-- END: medium.com -->
 

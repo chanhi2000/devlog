@@ -2459,5 +2459,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/86002201?v=4",
     "banner": ""
+  }, {
+    "repo": "pythonbrad/afrim",
+    "desc": "This application allows you to type most of the characters in the african language in any text field.",
+    "officialSite": "https://pythonbrad.github.io/afrim-man/",
+    "topics": ["africa", "afrim", "ime", "input-method", "rust"],
+    "avatar": "https://avatars.githubusercontent.com/u/45305909?v=4",
+    "banner": ""
   }
 ]

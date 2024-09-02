@@ -488,6 +488,7 @@ tag:
 - [Rapid Mock API creation with ChatGPT and json-server](https://www.builder.io/blog/mock-api-data-with-chatgpt)
 - [A Visual Guide to the new App Router in Next.js 13](https://www.builder.io/blog/next-13-app-router)
 - [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
+- [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
 
 ---
 
@@ -1368,6 +1369,12 @@ tag:
 - [URL에서 화면까지: 브라우저의 특급 웹페이지 배달 서비스](https://jinn-blog.tistory.com/m/180)
 - [JWT 완벽 가이드](https://jinn-blog.tistory.com/m/187)
 - [웹 인증의 미로를 헤쳐나가기: 2024년 종합 가이드](https://jinn-blog.tistory.com/m/189)
+
+---
+
+## Prisma | Simplify working and interacting with databases
+
+- [Announcing TypedSQL: Make your raw SQL queries type-safe with Prisma ORM](https://prisma.io/blog/announcing-typedsql-make-your-raw-sql-queries-type-safe-with-prisma-orm)
 
 ---
 

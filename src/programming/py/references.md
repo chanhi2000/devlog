@@ -2287,6 +2287,12 @@ head:
 
 ---
 
+## Astral: Next-gen Python tooling
+
+- [`uv`: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
+
+---
+
 ## Project(s)
 
 <SiteInfo

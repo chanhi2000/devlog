@@ -2266,5 +2266,12 @@
     "topics": ["cablebot", "concentrator", "energy", "esp32", "sun"],
     "avatar": "https://avatars.githubusercontent.com/u/75692116?v=4",
     "banner": ""
+  }, {
+    "repo": "envoyproxy/envoy",
+    "desc": "Cloud-native high-performance edge/middle/service proxy",
+    "officialSite": "https://www.envoyproxy.io",
+    "topics": ["cars", "cats", "cats-over-dogs", "cncf", "corgis", "more-cats", "nanoservices", "rocket-ships"],
+    "avatar": "https://avatars.githubusercontent.com/u/30125649?v=4",
+    "banner": ""
   }
 ]

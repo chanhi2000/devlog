@@ -7756,5 +7756,40 @@
     "topics": ["cnn", "demo", "docker", "face-recognition", "fastapi", "gradio", "idphoto", "machine-learning", "matting", "mtcnn", "tools", "unet"],
     "avatar": "https://avatars.githubusercontent.com/u/58305964?v=4",
     "banner": ""
+  }, {
+    "repo": "ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations. ",
+    "officialSite": "https://www.manim.community",
+    "topics": ["animations", "hacktoberfest", "manim", "math", "python"],
+    "avatar": "https://avatars.githubusercontent.com/u/65579849?v=4",
+    "banner": ""
+  }, {
+    "repo": "ComposioHQ/composio",
+    "desc": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+    "officialSite": "https://docs.composio.dev",
+    "topics": ["agents", "ai", "ai-agents", "aiagents", "developer-tools", "function-calling", "gpt-4", "gpt-4o", "javascript", "js", "llm", "llmops", "python", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/128464815?v=4",
+    "banner": ""
+  }, {
+    "repo": "feder-cr/linkedIn_auto_jobs_applier_with_AI",
+    "desc": "LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.",
+    "officialSite": "",
+    "topics": ["application-resume", "automate", "automation", "bot", "challenge", "chatgpt", "chrome", "gpt", "job", "jobsearch", "jobseeker", "linkedin-api", "linkedin-scraper", "opeai", "python", "python3", "resume", "scraper", "scraping", "selenium"],
+    "avatar": "https://avatars.githubusercontent.com/u/85809106?v=4",
+    "banner": ""
+  }, {
+    "repo": "gauge-sh/pare",
+    "desc": "Pare is the easiest way to deploy Python Lambdas alongside your primary web application.",
+    "officialSite": "",
+    "topics": ["continuous-deployment", "deployments", "developer-tools", "devops", "lambda", "library", "open-source", "package", "programming", "python", "serverless"],
+    "avatar": "https://avatars.githubusercontent.com/u/158083724?v=4",
+    "banner": ""
+  }, {
+    "repo": "taichi-dev/taichi",
+    "desc": "Productive, portable, and performant GPU programming in Python.",
+    "officialSite": "https://taichi-lang.org",
+    "topics": ["computer-graphics", "differentiable-programming", "gpu", "gpu-programming", "sparse-computation", "taichi"],
+    "avatar": "https://avatars.githubusercontent.com/u/33354891?v=4",
+    "banner": ""
   }
 ]

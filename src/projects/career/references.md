@@ -553,6 +553,7 @@ tag:
 - [제품도 없는데 수익은 어떻게?](https://thestartupbible.com/2024/08/how-do-you-make-a-profit-when-you-dont-have-a-product.html)
 - [회사는 놀이터가 아니다](https://thestartupbible.com/2024/08/your-company-is-not-your-playground.html)
 - [자신감에 대해서 – part 1](https://thestartupbible.com/2024/08/on-confidence-part-1.html)
+- [자신감에 대해서 – part 2](https://thestartupbible.com/2024/09/on-confidence-part-2.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -1515,6 +1516,12 @@ https://m.blog.naver.com/&logId=
 ## Seonu'ss
 
 - [\[24년 주저리 #2\] 나만의 태양계 만들기](https://sjquant.tistory.com/m/101)
+
+---
+
+## ByteDrum
+
+- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 
 ---
 

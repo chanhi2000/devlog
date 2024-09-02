@@ -245,6 +245,8 @@ head:
 - [\[Q&A\] 배열 초기화와 관련해서 궁금합니다.](https://m.blog.naver.com/tipsware/223561899584)
 - [\[Q&A\] 배열을 가리키는 포인터를 사용할 때](https://m.blog.naver.com/tipsware/223563732195)
 - [단톡방에서 말한 횟수 보여주기](https://m.blog.naver.com/tipsware/223566279985)
+- [\[Q&A\] 버튼이 눌러진 것처럼 메시지 처리하기](https://m.blog.naver.com/tipsware/223568133085)
+- [클립보드에 텍스트가 복사되면 자동으로 가져오기 - Step 1](https://m.blog.naver.com/tipsware/223568495504)
 
 <!-- END: tipsware.blog.naver.com -->
 

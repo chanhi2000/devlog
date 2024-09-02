@@ -6,6 +6,16 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "cs", [
+      "outbox-pattern-for-reliable-microservices-messaging", // 2023-02-25
+      "how-to-apply-functional-programming-in-csharp", // 2023-03-04
+      "using-multiple-ef-core-dbcontext-in-single-application", // 2023-03-11
+      "creating-data-driven-tests-with-xunit", // 2023-03-18
+      "how-to-publish-mediatr-notifications-in-parallel", // 2023-03-25
+      "implementing-the-saga-pattern-with-rebus-and-rabbitmq", // 2023-04-01
+      "how-to-use-rate-limiting-in-aspnet-core", // 2023-04-08
+      "ef-core-raw-sql-queries", // 2023-04-15
+      "idempotent-consumer-handling-duplicate-messages", // 2023-04-22
+      "health-checks-in-asp-net-core", // 2023-04-29
       "enforcing-software-architecture-with-architecture-tests", // 2023-05-06
       "multi-tenant-applications-with-ef-core", // 2023-05-20
       "scheduling-background-jobs-with-quartz-net", // 2023-06-03
@@ -73,6 +83,9 @@ export const template: SidebarInfoTemplate = {
     "js-node", [
       "horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing", // 2024-03-30
     ]],[
+    "erl-rabbitmq", [
+      "implementing-the-saga-pattern-with-rebus-and-rabbitmq", // 202404-01
+    ]],[
     "docker", [
       "horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing", // 2024-03-30
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
@@ -93,6 +106,16 @@ export const template: SidebarInfoTemplate = {
       "what-is-a-modular-monolith", // 2024-03-09
     ]],[
     "all", [
+      "outbox-pattern-for-reliable-microservices-messaging", // 2023-02-25
+      "how-to-apply-functional-programming-in-csharp", // 2023-03-04
+      "using-multiple-ef-core-dbcontext-in-single-application", // 2023-03-11
+      "creating-data-driven-tests-with-xunit", // 2023-03-18
+      "how-to-publish-mediatr-notifications-in-parallel", // 2023-03-25
+      "implementing-the-saga-pattern-with-rebus-and-rabbitmq", // 2023-04-01
+      "how-to-use-rate-limiting-in-aspnet-core", // 2023-04-08
+      "ef-core-raw-sql-queries", // 2023-04-15
+      "idempotent-consumer-handling-duplicate-messages", // 2023-04-22
+      "health-checks-in-asp-net-core", // 2023-04-29
       "enforcing-software-architecture-with-architecture-tests", // 2023-05-06
       "visualize-your-software-architecture-with-the-c4-model", // 2023-05-13
       "multi-tenant-applications-with-ef-core", // 2023-05-20

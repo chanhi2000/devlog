@@ -2023,10 +2023,10 @@
     "banner": ""
   }, {
     "repo": "lobehub/lobe-chat",
-    "desc": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+    "desc": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
     "officialSite": "https://chat-preview.lobehub.com",
-    "topics": ["ai", "azure-openai", "chat", "chatglm", "chatgpt", "claude", "dalle-3", "function-calling", "gemini", "gpt", "gpt-4", "gpt-4-vision", "llama2", "nextjs", "ollama", "openai", "tts"],
-    "avatar": "",
+    "topics": ["ai", "azure-openai-api", "chat", "chatglm", "chatgpt", "claude", "dalle-3", "function-calling", "gemini", "gpt", "gpt-4", "gpt-4-vision", "knowledge-base", "nextjs", "ollama", "openai", "qwen2", "rag", "tts"],
+    "avatar": "https://avatars.githubusercontent.com/u/131470832?v=4",
     "banner": ""
   }, {
     "repo": "bitwarden/clients",
@@ -4694,6 +4694,27 @@
     "officialSite": "https://bsky.app",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/94650532?v=4",
+    "banner": ""
+  }, {
+    "repo": "dahlia/logtape",
+    "desc": "Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions",
+    "officialSite": "http://logtape.org/",
+    "topics": ["bun", "deno", "javascript", "log", "logging", "nodejs", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/12431?v=4",
+    "banner": ""
+  }, {
+    "repo": "CEREBRUS-MAXIMUS/Surfer-Data",
+    "desc": "Export your personal data in one click",
+    "officialSite": "https://surfsup.ai",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/150551714?v=4",
+    "banner": ""
+  }, {
+    "repo": "fastapi/full-stack-fastapi-template",
+    "desc": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+    "officialSite": "",
+    "topics": ["backend", "chakra-ui", "docker", "fastapi", "frontend", "json", "json-schema", "jwt", "letsencrypt", "openapi", "postgresql", "python", "react", "sqlmodel", "swagger", "tanstack-query", "tanstack-router", "traefik", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/156354296?v=4",
     "banner": ""
   }
 ]

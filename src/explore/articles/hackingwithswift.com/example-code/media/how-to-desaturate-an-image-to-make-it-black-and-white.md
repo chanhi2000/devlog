@@ -1,0 +1,95 @@
+---
+lang: ko-KR
+title: "How to desaturate an image to make it black and white"
+description: "Article(s) > How to desaturate an image to make it black and white"
+category:
+  - Swift
+  - iOS
+  - Article(s)
+tag: 
+  - blog
+  - hackingwithswift.com
+  - crashcourse
+  - swift
+  - swift-5.10
+  - ios
+  - ios-6.0
+  - xcode
+  - appstore
+head:
+  - - meta:
+    - property: og:title
+      content: "Article(s) > How to desaturate an image to make it black and white"
+    - property: og:description
+      content: "How to desaturate an image to make it black and white"
+    - property: og:url
+      content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/example-code/media/how-to-desaturate-an-image-to-make-it-black-and-white.html
+date: 2019-03-28
+isOriginal: false
+---
+
+# {{ $frontmatter.title }} 관련
+
+```component VPCard
+{
+  "title": "Media - free Swift example code",
+  "desc": "Learn Swift coding for iOS with these free tutorials – learn Swift, iOS, and Xcode",
+  "link": "/explore/articles/hackingwithswift.com/example-code/media/README.md",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+[[toc]]
+
+---
+
+```component VPCard
+{
+  "title": "How to desaturate an image to make it black and white | Media - free Swift example code",
+  "desc": "How to desaturate an image to make it black and white",
+  "link": "https://hackingwithswift.com/example-code/media/how-to-desaturate-an-image-to-make-it-black-and-white",
+  "logo": "https://hackingwithswift.com/favicon.svg",
+  "background": "rgba(174,10,10,0.2)"
+}
+```
+
+> Available from iOS 6.0
+
+<!-- TODO: 작성 -->
+
+<!-- 
+<p>One of the most useful filters to have in your toolbox is called <code>CIColorMonochrome</code>, and its job is to remove the color variance from an image then tint it however you want. If you use gray as your tint color, it produces plain black and white images, but you can also use other colors to get sepia tone and other effects.</p>
+<p>Here’s some example code to get you started:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">guard</span> <span class="token keyword">let</span> currentCGImage <span class="token operator">=</span> yourUIImage<span class="token punctuation">.</span>cgImage <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token punctuation">}</span>
+<span class="token keyword">let</span> currentCIImage <span class="token operator">=</span> <span class="token class-name">CIImage</span><span class="token punctuation">(</span>cgImage<span class="token punctuation">:</span> currentCGImage<span class="token punctuation">)</span>
+
+<span class="token keyword">let</span> filter <span class="token operator">=</span> <span class="token class-name">CIFilter</span><span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"CIColorMonochrome"</span></span><span class="token punctuation">)</span>
+filter<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">setValue</span><span class="token punctuation">(</span>currentCIImage<span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"inputImage"</span></span><span class="token punctuation">)</span>
+
+<span class="token comment">// set a gray value for the tint color</span>
+filter<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">setValue</span><span class="token punctuation">(</span><span class="token class-name">CIColor</span><span class="token punctuation">(</span>red<span class="token punctuation">:</span> <span class="token number">0.7</span><span class="token punctuation">,</span> green<span class="token punctuation">:</span> <span class="token number">0.7</span><span class="token punctuation">,</span> blue<span class="token punctuation">:</span> <span class="token number">0.7</span><span class="token punctuation">)</span><span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"inputColor"</span></span><span class="token punctuation">)</span>
+
+filter<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">setValue</span><span class="token punctuation">(</span><span class="token number">1.0</span><span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"inputIntensity"</span></span><span class="token punctuation">)</span>
+<span class="token keyword">guard</span> <span class="token keyword">let</span> outputImage <span class="token operator">=</span> filter<span class="token operator">?</span><span class="token punctuation">.</span>outputImage <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token punctuation">}</span>
+
+<span class="token keyword">let</span> context <span class="token operator">=</span> <span class="token class-name">CIContext</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+
+<span class="token keyword">if</span> <span class="token keyword">let</span> cgimg <span class="token operator">=</span> context<span class="token punctuation">.</span><span class="token function">createCGImage</span><span class="token punctuation">(</span>outputImage<span class="token punctuation">,</span> from<span class="token punctuation">:</span> outputImage<span class="token punctuation">.</span>extent<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">let</span> processedImage <span class="token operator">=</span> <span class="token class-name">UIImage</span><span class="token punctuation">(</span>cgImage<span class="token punctuation">:</span> cgimg<span class="token punctuation">)</span>
+    <span class="token function">print</span><span class="token punctuation">(</span>processedImage<span class="token punctuation">.</span>size<span class="token punctuation">)</span>
+<span class="token punctuation">}</span></code></pre>
+<p>To make that work you’ll need a <code>UIImage</code> called <code>yourUIImage</code>, then replace the <code>print(processedImage.size)</code> line at the end with whatever you want to do with your black and white image.</p>
+-->
+
+::: details Similar solutions…
+
+<!--
+<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a></li></ul>
+-->
+
+:::
+
+---
+
+<TagLinks />

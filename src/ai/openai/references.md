@@ -510,4 +510,10 @@ head:
 
 ---
 
+## Eduardo Blancas
+
+- [Using GPT-4o for web scraping](https://blancas.io/blog/ai-web-scraper/)
+
+---
+
 <TagLinks />

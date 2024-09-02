@@ -535,6 +535,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "쇼핑몰도 ‘맞춤 개발’ 하는 이유 | 요즘IT",
+  "desc": "쇼핑몰도 ‘맞춤 개발’ 하는 이유",
+  "link": "/explore/articles/yozm.wishket.com/2734.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "개발자를 위한 ‘소프트웨어 아키텍처’ 개념과 활용법 | 요즘IT",
+  "desc": "개발자를 위한 ‘소프트웨어 아키텍처’ 개념과 활용법",
+  "link": "/explore/articles/yozm.wishket.com/2743.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

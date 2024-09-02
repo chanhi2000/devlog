@@ -94,6 +94,7 @@ head:
 - [`@2weV` / AI와 시너지를 낼 수 있는 산업](https://brunch.co.kr/@@2weV/541)
 - [`@2weV` / AI 시대, 좋은 사람이 인정받는 시대.](https://brunch.co.kr/@@2weV/543)
 - [`@ZVA` / AI는 기업용 소프트웨어판을 어떻게 바꿀 것인가](https://brunch.co.kr/@@ZVA/720)
+- [`@5jl5` / \[책소개\] AI시대의 프로그래머 - AI-Assisted Programming](https://brunch.co.kr/@@5jl5/128)
 
 <!-- END: brunch.co.kr -->
 

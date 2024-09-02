@@ -455,6 +455,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "시작하는 개발자를 위한 JS 전개 구문 활용법 3가지 | 요즘IT",
+  "desc": "시작하는 개발자를 위한 JS 전개 구문 활용법 3가지",
+  "link": "/explore/articles/yozm.wishket.com/2742.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

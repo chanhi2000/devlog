@@ -52,6 +52,7 @@ tag:
 - [`@1W2S` / 100일의 기적? 100일의 기절! - 이성적인 판단으로 아가를 낳을 순 없다.](https://brunch.co.kr/@@1W2S/256)
 - [`@2xm` / 나의 쓰임이 필요하다 - '운칠기삼(運七技三)', '새옹지마(塞翁之馬)'](https://brunch.co.kr/@@2xm/81)
 - [`@5jl5` / 광복절 기념식 및 윤정권의 미래에 대한 GPT4o 대답](https://brunch.co.kr/@@5jl5/126)
+- [`@gpO` / 우리는 그릇된 가치를 강요 받아 왔다.](https://brunch.co.kr/@@gpO/110)
 
 <!-- END: brunch.co.kr -->
 
