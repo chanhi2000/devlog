@@ -728,4 +728,10 @@ tag:
 
 ---
 
+## Build Your Own X From Scratch Books
+
+- [CSS finally adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
+
+---
+
 <TagLinks />

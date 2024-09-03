@@ -482,6 +482,8 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 - [Docker로 Rust 애플리케이션 배포하기](https://marshallku.com/dev/deploy-rust-with-docker)
 
+<!-- END: marshallku.com -->
+
 ---
 
 ## 데엔잘하고싶은데엔🔥💎

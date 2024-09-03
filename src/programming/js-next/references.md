@@ -99,6 +99,8 @@ head:
 
 - [Next.js에서 번들 사이즈 최적화하기](https://marshallku.com/dev/nextjs-%EB%B2%88%EB%93%A4-%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%B5%9C%EC%A0%81%ED%99%94)
 
+<!-- END: marshallku.com -->
+
 ---
 
 ## 로토의 블로그

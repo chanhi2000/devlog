@@ -242,6 +242,7 @@ head:
   - [\[Spring Boot\] JPA 고급매핑 상속관계 매핑, @MappedSuperclass](https://findsilverlining.tistory.com/m/127)
   - [\[Spring Boot\] JPA 프록시](https://findsilverlining.tistory.com/m/128)
   - [\[Spring Boot\] JPA 영속성 전이, 고아 객체](https://findsilverlining.tistory.com/m/129)
+  - [\[Spring Boot\] JPA 값 타입](https://findsilverlining.tistory.com/m/130)
   <!-- END: findsilverlining -->w
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
@@ -255,6 +256,9 @@ head:
   - [\[1년 후 마실가실\] JWT와 로그아웃(1) Redis 설정](https://hj0216.tistory.com/m/939)
   - [\[해결방법\] `io.jsonwebtoken.ExpiredJwtException`](https://hj0216.tistory.com/m/941)
   <!-- END: hj0216 -->
+- [`coor` / 기록](https://coor.tistory.com/m/)
+  - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
+  <!-- END: coor -->
 - [`ysedeveloper` / 생계형 개발자 연서은](https://ysedeveloper.tistory.com/m/)
   - [스프링 부트 하루만에 배우기](https://ysedeveloper.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
   - [0. 들어가며](https://ysedeveloper.tistory.com/m/entry/0-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0-1)

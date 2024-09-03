@@ -516,4 +516,10 @@ tag:
 
 ---
 
+## Blog - Wietze
+
+- [Why bother with `argv\[0\]`?](https://www.wietzebeukema.nl/blog/why-bother-with-argv0)
+
+---
+
 <TagLinks />

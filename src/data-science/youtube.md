@@ -27,5 +27,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-diplwapl" /><!-- 디플와플 -->
+<MyYouTubeItems jsonName="yu-SQL" /><!-- SQL전문가 정미나 -->
 
 <TagLinks />

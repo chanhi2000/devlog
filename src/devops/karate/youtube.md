@@ -12,10 +12,6 @@ tag:
   - karate
   - karate-framework
   - youtube
-  - "@sdetpavan"
-  - "@RahulRathore41"
-  - "@LambdaTest"
-  - "@rameshkudikala83"
 head:
   - - meta:
     - property: og:title

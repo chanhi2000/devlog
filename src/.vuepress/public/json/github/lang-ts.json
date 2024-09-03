@@ -4683,7 +4683,7 @@
     "banner": ""
   }, {
     "repo": "gitroomhq/postiz-app",
-    "desc": "📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+    "desc": "📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀",
     "officialSite": "https://postiz.com",
     "topics": ["launch-week", "nextjs", "open-source", "oss", "redis", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/128401275?v=4",
@@ -4715,6 +4715,27 @@
     "officialSite": "",
     "topics": ["backend", "chakra-ui", "docker", "fastapi", "frontend", "json", "json-schema", "jwt", "letsencrypt", "openapi", "postgresql", "python", "react", "sqlmodel", "swagger", "tanstack-query", "tanstack-router", "traefik", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/156354296?v=4",
+    "banner": ""
+  }, {
+    "repo": "baidu/amis",
+    "desc": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "officialSite": "https://baidu.github.io/amis/",
+    "topics": ["admin", "frontend", "frontend-framework", "json", "low-code", "low-code-development-platform", "lowcode", "no-code"],
+    "avatar": "https://avatars.githubusercontent.com/u/13245940?v=4",
+    "banner": ""
+  }, {
+    "repo": "anthropics/anthropic-quickstarts",
+    "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "banner": ""
+  }, {
+    "repo": "bluesky-social/atproto",
+    "desc": "Social networking technology created by Bluesky",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/94650532?v=4",
     "banner": ""
   }
 ]

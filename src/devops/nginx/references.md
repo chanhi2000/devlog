@@ -86,6 +86,9 @@ tag:
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
   - [Nginx + No IP + Let's Encrypt 서버 배포](https://bbogle2.tistory.com/m/entry/Nginx-No-IP-Lets-Encrypt-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
   <!-- END: bbogle2 -->
+- [`coor` / 기록](https://coor.tistory.com/m/)
+  - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
+  <!-- END: coor -->
 <!-- END: tistory.com -->
 
 ---

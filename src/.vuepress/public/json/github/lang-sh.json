@@ -657,5 +657,12 @@
     "topics": ["buildpack", "containers", "devops", "docker", "dokku", "heroku", "kubernetes", "nomad", "paas"],
     "avatar": "https://avatars.githubusercontent.com/u/13455795?v=4",
     "banner": ""
+  }, {
+    "repo": "orbstack/orbstack",
+    "desc": "Fast, light, simple Docker containers & Linux machines for macOS",
+    "officialSite": "https://orbstack.dev",
+    "topics": ["colima", "docker", "docker-desktop", "lima", "linux", "mac", "macos", "utm", "virtual-machine"],
+    "avatar": "https://avatars.githubusercontent.com/u/125163402?v=4",
+    "banner": ""
   }
 ]

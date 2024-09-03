@@ -136,6 +136,96 @@ head:
 
 ```component VPCard
 {
+  "title": "Fast Document Database In .NET With Marten",
+  "desc": "Did you know you can turn PostgreSQL into a fully-fledged Document database? Marten is a .NET library that allows developers to use the PostgreSQL database as both a document database and a fully-featured event store. You don't need to install anything else to be able to use PostgreSQL as a document database, outside of the Nuget pacakge. Marten relies on the JSONB support available since PostgreSQL 9.4. In this week's newsletter, I want to introduce you to the basics of working with Marten and show you how easy it is to get started.",
+  "link": "/explore/articles/milanjovanovic.tech/fast-document-database-in-net-with-marten.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Clean Architecture And The Benefits Of Structured Software Design",
+  "desc": "In the world of software development, there are countless approaches and methodologies to choose from. It's easy to get swayed with the latest trends, and loose sight of architectural principles that really matter. One of the more popular ones is Clean Architecture, a design approach that prioritizes maintainability, scalability, flexibility, and productivity. In this week's newsletter, we will explore the key benefits of using Clean Architecture and how it can help your team build better software.",
+  "link": "/explore/articles/milanjovanovic.tech/clean-architecture-and-the-benefits-of-structured-software-design.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Adding Validation To The Options Pattern In ASP.NET Core",
+  "desc": "In this week's newsletter I will show you how to easily add validation the strongly-typed configuration objects injected with IOptions. The Options pattern allows us to use classes to provide strongly-typed configuration values in our application at runtime. But you have no guarantee that the configuration values injected with IOptions will be correctly read from the application settings. Let's see how we can introduce validation for our IOptions and make sure the application settings are correct.",
+  "link": "/explore/articles/milanjovanovic.tech/adding-validation-to-the-options-pattern-in-asp-net-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Unleash EF Core Performance With Compiled Queries",
+  "desc": "In this week's newsletter I want to introduce you to an interesting feature in EF Core called Compiled Queries. If you have queries that you execute frequently in your application with a different set of parameters, it can be helpful to explicitly compile the query and reuse it throughout the lifetime of your application. Compiled Queries are more performant than standard EF queries, because they can take advantage of some additional optimizations. Let me show you how to use Compiled Queries, and how much performance improvement to expect.",
+  "link": "/explore/articles/milanjovanovic.tech/unleash-ef-core-performance-with-compiled-queries.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "C# Yield Return Statement",
+  "desc": "In this week's newsletter I want to talk about the yield keyword in C#. I think it's a powerful C# feature and I wanted to highlight the benefits. The yield keyword tells the compiler that the method in which it appears is an iterator block. An iterator block, or method, returns an IEnumerable as the result. And the yield keyword is used to return the values for the IEnumerable. An interesting thing aboug IEnumerable is that it is lazily evaluted. Calling a method with an iterator block doesn't run any code. It's only when the IEnumerable is iterated over, or enumerated, that we get the actual values. I'll talk about this more later.",
+  "link": "/explore/articles/milanjovanovic.tech/csharp-yield-return-statement.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Implement API Key Authentication In ASP.NET Core",
+  "desc": "In this week's newsletter I want to show you how to implement API Key authentication in ASP.NET Core. This authentication approach uses an API Key to authenticate the client of an API. You can pass the API Key to the API in a few ways, such as through the query string or a request header. I will show you how to implement API Key authentication where the API key is passed in a request header. But the implementation would be similar if we were to use any other approach. When would you want to use API Key authentication? This kind of authentication mechanism is common in Server-to-Server (S2S) communication. When your API serves request for other server-side applications to consume and integrate with. It's less common in client-server communication scenarios.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-implement-api-key-authentication-in-aspnet-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Working With Transactions In EF Core",
+  "desc": "Every software engineer working with SQL databases needs to know about transactions. And since most of the time the SQL database will be abstracted by an ORM like EF Core, it's important to understand how you can work with transactions using the available abstractions.",
+  "link": "/explore/articles/milanjovanovic.tech/working-with-transactions-in-ef-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Messaging Made Easy With Azure Service Bus",
+  "desc": "If you're working in a distributed system, you need to be able to communicate between multiple services. There are a few ways that you can implement this. Depending on your chosen approach, you can either introduce tight coupling between your services or stay loosely coupled. Loose coupling is an important quality in a distributed system. It will allow you to evolve your services independently. So how do you implement loosely coupled communication between services?",
+  "link": "/explore/articles/milanjovanovic.tech/messaging-made-easy-with-azure-service-bus.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Structured Logging In ASP.NET Core With Serilog",
+  "desc": "Structured logging is a practice where you apply the same message format to all of your application logs. The end result is that all your logs will have a similar structure, allowing them to be easily searched and analyzed. Serilog is a popular logging library in .NET, packed with many features. It provides logging to files, logging to the console, and elsewhere. However, why Serilog is unique is because it comes with support for structured logging out of the box.",
+  "link": "/explore/articles/milanjovanovic.tech/structured-logging-in-asp-net-core-with-serilog.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Outbox Pattern For Reliable Microservices Messaging",
   "desc": "Working with Microservices, or any distributed system for that matter, is difficult. In a distributed system many things can go wrong, and there are even research papers about this. If you want to explore this topic futher, I suggest that you read about the fallacies of distributed computing. Reducing the surface area for things to go wrong should be one of your goals, as an engineer. In this week's newsletter, we'll try to achieve exactly that using the Outbox pattern. How can you implement reliable communication between components in a distributed system? The Outbox pattern is an elegant solution to this problem, allowing you to achieve transactional guarantees in a single service and at-least-once message delivery to external systems.",
   "link": "/explore/articles/milanjovanovic.tech/outbox-pattern-for-reliable-microservices-messaging.md",

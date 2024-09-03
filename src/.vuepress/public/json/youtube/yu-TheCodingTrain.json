@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/DKu3blYCDVczjLvvr4sRNetij6DlCpkubLIcahtnxkInjThPUvSQh2mpmh0OY_W-9dVqiVf9pQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vfeUb7w8Hr8", "title": "Let's Build a Nature of Code 404 Page!" },
+    { "id": "MazpwQNdJYQ", "title": "Unfolding the Dragon (Coding Challenge 185)" },
+    { "id": "dJNFPv9Mj-Y", "title": "Collisions Without a Physics Library! (Coding Challenge 184)" },
+    { "id": "p7IGZTjC008", "title": "Coding Challenge 183: Paper Marbling Algorithm" },
     { "id": "Bxdt6T_1qgc", "title": "Coding Challenge 181: Weighted Voronoi Stippling" },
     { "id": "6UlGLB_jiCs", "title": "Coding Challenge 182: Apollonian Gasket" },
     { "id": "-_ivRdVjjzA", "title": "Passenger Showcase and Building a Creative Coding AI Agent?" },

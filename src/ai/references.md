@@ -363,6 +363,12 @@ head:
 
 ---
 
+## beyond the great filter
+
+- [Engineering over AI](https://martinantos.com/engineering-over-ai/)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

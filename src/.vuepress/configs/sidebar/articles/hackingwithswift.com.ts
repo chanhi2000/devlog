@@ -1763,6 +1763,15 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/media/how-to-turn-on-the-camera-flashlight-to-make-a-torch.md',
               '/explore/articles/hackingwithswift.com/example-code/media/uiimagewritetosavedphotosalbum-how-to-write-to-the-ios-photo-album.md',
             ]
+          }, {
+            text: 'Media',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/naturallanguage/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/naturallanguage/how-to-find-similar-words-for-a-search-term.md',
+              '/explore/articles/hackingwithswift.com/example-code/naturallanguage/how-to-lemmatize-text-using-nltagger.md',
+              '/explore/articles/hackingwithswift.com/example-code/naturallanguage/how-to-perform-sentiment-analysis-on-a-string-using-nltagger.md',
+            ]
           }
         ]
       }

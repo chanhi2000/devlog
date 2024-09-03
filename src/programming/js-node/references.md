@@ -1138,6 +1138,8 @@ tag:
 
 - [Visual regression test 도입기](https://marshallku.com/dev/visual-regression-test)
 
+<!-- END: marshallku.com -->
+
 ---
 
 ## Nearform

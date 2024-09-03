@@ -11,6 +11,7 @@ tag:
   - blog
   - frontendmasters.com
   - smashingmagazine.com
+  - milanjovanovic.tech
   - yozm.wishket.com
   - tech.kakao.com
   - tech.inflab.com
@@ -47,6 +48,13 @@ head:
   "background": "rgba(211,58,44,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
 
 ```component VPCard
 {
@@ -112,6 +120,24 @@ head:
 ```
 
 <!-- END: smashingmagazine.com -->
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "How To Be a Better Software Engineer In 2023",
+  "desc": "In this week's newsletter I will share 5 simple tips on how you can be a better software engineer in 2023. I find it a little amusing that the last newsletter of the year and is also coming out on the last day of the year. Here are 5 tips for being a better software engineer in 2023.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-be-a-better-software-engineer-in-2023.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+<!-- milanjovanovic.tech -->
 
 ---
 

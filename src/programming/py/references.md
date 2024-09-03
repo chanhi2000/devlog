@@ -212,6 +212,7 @@ head:
 - [`pythonpapers` / Creating Images in Your Terminal with Python and Rich Pixels](https://www.pythonpapers.com/p/creating-images-in-your-terminal)
 - [`codingconfessions` / Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 - [`bitecode` / What's up Python? Setuptools breaks, a better PDB, cPython on CalVer...](https://www.bitecode.dev/p/whats-up-python-setuptools-breaks)
+- [`victortao` / Song Pong](https://victortao.substack.com/p/song-pong)
 
 <!-- END: substack.com -->
 
@@ -697,6 +698,7 @@ head:
   - [[Programmers] 코딩테스트 입문 #4 (with Python)](https://jakpentest.tistory.com/m/entry/Programmers-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-4-with-Python)
   - [\[FastAPI\] FastAPI에서 MVC Pattern !](https://jakpentest.tistory.com/m/entry/FastAPI-FastAPI%EC%97%90%EC%84%9C-MVC-Pattern)
   - [마비노기 패킷 송수신 데이터 관찰기](https://jakpentest.tistory.com/m/entry/%EB%A7%88%EB%B9%84%EB%85%B8%EA%B8%B0-%ED%8C%A8%ED%82%B7-%EC%86%A1%EC%88%98%EC%8B%A0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EC%B0%B0%EA%B8%B0)
+  - [\[Experience\] wkhtmltopdf 사용으로 인해 발생한 SSTI 해결하기](https://jakpentest.tistory.com/m/entry/Experience-wkhtmltopdf-%EC%82%AC%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%B4-%EB%B0%9C%EC%83%9D%ED%95%9C-SSTI-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
   <!-- END: jakpentest -->
 - [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
   - [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
@@ -798,6 +800,9 @@ head:
   - [데이터 타입, 앱실론, 함수, 람다표현식](https://isn-t.tistory.com/m/61)
   - [배열](https://isn-t.tistory.com/m/62)
   <!-- END: isn-t -->
+- [`potwings` / 블로그 이름 뭐하지??](https://potwings.tistory.com/m/)
+  - [텍스트 전처리(1) - 토큰화, 정제, 정규화](https://potwings.tistory.com/m/67)
+  <!-- END: potwings -->
 <!-- END: tistory.com -->
 
 ---
@@ -2290,6 +2295,12 @@ head:
 ## Astral: Next-gen Python tooling
 
 - [`uv`: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
+
+---
+
+## Moriz Büsing–Independent Web Developer
+
+- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 
 ---
 

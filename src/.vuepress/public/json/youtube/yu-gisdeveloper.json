@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/EVs-Tc52zuZ1ubvo9u-BAG7fbHbo2EXpJEYF4AEkMXlVKE21mLwjITjlzAz0YdSnJWQ6LV3R=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Zuyg_x3wmVs", "title": "실시간 텍스트 파티클 (3D WEB, three.js)" },
+    { "id": "JvyA4w1dgAs", "title": "TypeScript로 즐기는 Three.js : 5. 광원(Lights)" },
+    { "id": "k5wXPO-a2tY", "title": "TypeScript로 즐기는 Three.js : 6. 카메라(Camera)" },
+    { "id": "X8K0iOBwkhQ", "title": "TypeScript로 즐기는 Three.js : 7. 그림자(Shadow)" },
+    { "id": "DvFIBRz4X34", "title": "TypeScript로 즐기는 Three.js : 8. 외부 모델 데이터(External Model Data)" },
     { "id": "rd5HEykN1AQ", "title": "TypeScript로 즐기는 Three.js : 2. 지오메트리(Geometry)" },
     { "id": "QDPwVfiYu7g", "title": "TypeScript로 즐기는 Three.js : 3. 트렌스폼(Transfrom)" },
     { "id": "uKYv1UYZOl4", "title": "프론트엔드 개발 방법의 정석 PART-4" },

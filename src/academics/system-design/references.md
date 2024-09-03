@@ -293,6 +293,7 @@ head:
 - [`@2fEJ` / \[UI/UX 원칙 #6\] 여백의 미를 고려한 UX 법칙](https://brunch.co.kr/@@2fEJ/1471)
 - [`@2fEJ` / \[UX원칙#7\]구매를 유발하는 제품정보 구성 6가지원칙](https://brunch.co.kr/@@2fEJ/1472)
 - [`@2fEJ` / \[사용성 #2\] 사용성 테스트 과제 시나리오 작성 방법](https://brunch.co.kr/@@2fEJ/1473)
+- [`@2fEJ` / \[UI/UX 원칙#8\] 버튼 UI 디자인의 스타일 진화](https://brunch.co.kr/@@2fEJ/1474)
 
 <!-- END: brunch.co.kr -->
 

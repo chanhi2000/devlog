@@ -629,5 +629,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/94650532?v=4",
     "banner": ""
+  }, {
+    "repo": "seerge/g-helper",
+    "desc": "Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models",
+    "officialSite": "https://seerge.github.io/g-helper/",
+    "topics": ["ally", "amd", "armoury", "armoury-crate", "asus", "aura", "cpu", "fan", "g-helper", "g14", "g16", "gpu", "intel", "mux", "nvidia", "overclock", "power", "rog", "strix", "tuf"],
+    "avatar": "https://avatars.githubusercontent.com/u/5920850?v=4",
+    "banner": ""
   }
 ]

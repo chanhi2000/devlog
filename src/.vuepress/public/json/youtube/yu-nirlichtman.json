@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/12NqD7utK2pTos8vt_b6aITBE7gtnE_U5z3VsjiznrsfUXNWHoXqOIfy_CqCxzAAJbkCA-Bv4Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OYq9rpwl9Dc", "title": "How Windows Kernel Draws Graphics" },
+    { "id": "aAuw2EVCBBg", "title": "How Linux Kernel Prints Text on Screen" },
+    { "id": "D4k1Q3aHpT8", "title": "Exploring How Linux Boots with GDB" },
+    { "id": "a4_r0pqQErE", "title": "Diving into Windows XP Pinball Code" },
+    { "id": "bWbbGSqiYPQ", "title": "Screwing Up Linux Kernel VGA Driver" },
+    { "id": "ey3sKdOmPa8", "title": "Making Minimal Linux Distro with Buildroot" },
+    { "id": "f11GzJk9NiE", "title": "What Happens If We Stack Overflow in Linux Kernel" },
+    { "id": "FR1P6g89Vrk", "title": "Diving into Windows Keyboard Driver" },
+    { "id": "d8eDTE_MaEQ", "title": "How to Call Assembly Code from C" },
     { "id": "Vpv1nWoxdNw", "title": "Making Simple Man Page from Scratch" },
     { "id": "cabuolISweY", "title": "Reverse Engineering Simple Windows Driver" },
     { "id": "utHei1hq0Y4", "title": "FreeBSD Explained in 3 Minutes" },

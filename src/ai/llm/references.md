@@ -305,6 +305,8 @@ head:
 - [sLLM과 vLLM에 대한 이야기](https://daddynkidsmakers.blogspot.com/2024/07/sllm-vllm.html)
 - [AI 과학자 Sakana.AI 사용법](https://daddynkidsmakers.blogspot.com/2024/08/ai-sakanaai.html)
 - [인공지능 딥러닝 모델 성능 지표](https://daddynkidsmakers.blogspot.com/2024/08/blog-post.html)
+- [효율적인 딥러닝 모델링을 위한 시계열 데이터 처리](https://daddynkidsmakers.blogspot.com/2024/09/blog-post.html)
+- [로컬 멀티모달 LLM 기반 간단한 RAG Enhanced Visual Question Answering 개발하기](https://daddynkidsmakers.blogspot.com/2024/09/llm-rag-enhanced-visual-question.html)
 
 <!-- END: daddynkidsmakers.blogspot.com -->
 

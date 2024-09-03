@@ -774,6 +774,27 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://defrag-game.com/favicon.ico"
   preview="https://defrag-game.com/defrag-game-hero.png"/>
 
+<SiteInfo
+  name="GitHub Star History"
+  desc="View and compare GitHub star history graph of open source projects."
+  url="https://star-history.com/"
+  logo="https://star-history.com/assets/favicon.ico"
+  preview="https://star-history.com/assets/star-history.webp"/>
+
+<SiteInfo
+  name="Shehzadi in Peril"
+  desc="Can you save Shehzadi from the ants?"
+  url="https://shehzadi.vercel.app/"
+  logo="https://shehzadi.vercel.app/apple-touch-icon.png"
+  preview="https://shehzadi.vercel.app/banner.png"/>
+
+<SiteInfo
+  name="Chromatone | Chromatone.center"
+  desc="Visual music language"
+  url="https://chromatone.center/"
+  logo="https://chromatone.center/media/logo/click-logo.svg"
+  preview="https://og.chromatone.center/api/image/?text=Chromatone"/>
+
 <!-- END: Cool Project -->
 
 @tab Portfolio / Resume

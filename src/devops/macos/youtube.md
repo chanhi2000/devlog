@@ -78,7 +78,6 @@ head:
 <MyYouTubeItems jsonName="yu-TechHut" /><!-- TechHut -->
 <MyYouTubeItems jsonName="yu-RetroGameCorps" /><!-- Retro Game Corps -->
 <MyYouTubeItems jsonName="yu-macvince" /><!-- MacVince -->
-<MyYouTubeItems jsonName="yu-ProperHonestTech" /><!-- Proper Honest Tech -->
 <MyYouTubeItems jsonName="yu-KevinShroff" /><!-- Kevin Shroff -->
 <MyYouTubeItems jsonName="yu-Gael9A" /><!-- MacToLive -->
 <MyYouTubeItems jsonName="yu-raccoony_" /><!-- 라꾸니의 담기Raccoony's DAMGI -->

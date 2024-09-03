@@ -545,4 +545,10 @@ head:
 
 ---
 
+## chay.dev
+
+- [Create an internal CLI](https://blog.chay.dev/create-an-internal-cli/)
+
+---
+
 <TagLinks />

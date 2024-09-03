@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/9PtJaEzOYciK-2T2trscBvt8nae8wPaKp1n5jmuuvxqIg0gR5zpgZ_HPefSKX1zAgd_RkKBk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YIvxa1fUcmQ", "title": "Tired of Slow GUIs? Speedy CLI Tools with Python's click Library!" },
+    { "id": "_izXY2Vdjgc", "title": "Save Your F*cks! Python CLI 'F*ck It List' App!" },
     { "id": "gvTCcqlDv3w", "title": "Let's Talk Ollama" },
     { "id": "b6PGPyd_ajE", "title": "Let's make a quick HTMX Ollama Web App" },
     { "id": "syiwwgnhmkQ", "title": "LLM Long Time" },

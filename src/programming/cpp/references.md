@@ -247,6 +247,7 @@ head:
 - [단톡방에서 말한 횟수 보여주기](https://m.blog.naver.com/tipsware/223566279985)
 - [\[Q&A\] 버튼이 눌러진 것처럼 메시지 처리하기](https://m.blog.naver.com/tipsware/223568133085)
 - [클립보드에 텍스트가 복사되면 자동으로 가져오기 - Step 1](https://m.blog.naver.com/tipsware/223568495504)
+- [클립보드에 텍스트가 복사되면 자동으로 가져오기 - Step 2](https://m.blog.naver.com/tipsware/223570013654)
 
 <!-- END: tipsware.blog.naver.com -->
 
@@ -336,6 +337,7 @@ head:
 - [\[백준 17608번\] 막대기](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17608%EB%B2%88-%EB%A7%89%EB%8C%80%EA%B8%B0)
 - [\[백준 17610번\] 양팔저울](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17610%EB%B2%88-%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8)
 - [\[백준 3632번\] Drying](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-3632%EB%B2%88-Drying)
+- [\[백준 22742번\] Make Friendships](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-22742%EB%B2%88-Make-Friendships)
 
 <!-- END: kesakiyo.tistory.com -->
 

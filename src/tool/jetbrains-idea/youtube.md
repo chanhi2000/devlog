@@ -39,5 +39,6 @@ head:
 <MyYouTubeItems jsonName="yu-intellijidea" /><!-- IntelliJ IDEA -->
 <MyYouTubeItems jsonName="yu-JetBrainsTV" /><!-- JetbrainsTV -->
 <MyYouTubeItems jsonName="yu-AndroidDevelopers" /><!-- Android Developers -->
+<MyYouTubeItems jsonName="yu-SebastianDaschnerIT" /><!-- Sebastian Daschner -->
 
 <TagLinks />

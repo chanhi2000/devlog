@@ -6,6 +6,15 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "cs", [
+      "fast-document-database-in-net-with-marten", // 2022-12-17
+      "clean-architecture-and-the-benefits-of-structured-software-design", // 2022-12-24
+      "adding-validation-to-the-options-pattern-in-asp-net-core", // 2023-01-07
+      "unleash-ef-core-performance-with-compiled-queries", // 2023-01-14
+      "csharp-yield-return-statement", // 2023-01-21
+      "how-to-implement-api-key-authentication-in-aspnet-core", // 2023-01-28
+      "working-with-transactions-in-ef-core", // 2023-02-04
+      "messaging-made-easy-with-azure-service-bus", // 2023-02-11
+      "structured-logging-in-asp-net-core-with-serilog", // 2023-02-18
       "outbox-pattern-for-reliable-microservices-messaging", // 2023-02-25
       "how-to-apply-functional-programming-in-csharp", // 2023-03-04
       "using-multiple-ef-core-dbcontext-in-single-application", // 2023-03-11
@@ -94,6 +103,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet", // 2023-05-27
       "testcontainers-integration-testing-using-docker-in-dotnet", // 2023-09-02
     ]],[
+    "azure", [
+      "messaging-made-easy-with-azure-service-bus", // 2023-02-11
+    ]],[
     "redis", [
       "caching-in-aspnetcore-improving-application-performance", // 2024-06-08
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
@@ -105,7 +117,20 @@ export const template: SidebarInfoTemplate = {
       "orchestration-vs-choreography", // 2023-08-26
       "what-is-a-modular-monolith", // 2024-03-09
     ]],[
+    "career", [
+      "how-to-be-a-better-software-engineer-in-2023", // 2022-12-31
+    ]],[
     "all", [
+      "fast-document-database-in-net-with-marten", // 2022-12-17
+      "clean-architecture-and-the-benefits-of-structured-software-design", // 2022-12-24
+      "how-to-be-a-better-software-engineer-in-2023", // 2022-12-31
+      "adding-validation-to-the-options-pattern-in-asp-net-core", // 2023-01-07
+      "unleash-ef-core-performance-with-compiled-queries", // 2023-01-14
+      "csharp-yield-return-statement", // 2023-01-21
+      "how-to-implement-api-key-authentication-in-aspnet-core", // 2023-01-28
+      "working-with-transactions-in-ef-core", // 2023-02-04
+      "messaging-made-easy-with-azure-service-bus", // 2023-02-11
+      "structured-logging-in-asp-net-core-with-serilog", // 2023-02-18
       "outbox-pattern-for-reliable-microservices-messaging", // 2023-02-25
       "how-to-apply-functional-programming-in-csharp", // 2023-03-04
       "using-multiple-ef-core-dbcontext-in-single-application", // 2023-03-11

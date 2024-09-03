@@ -29,5 +29,6 @@ head:
 <MyYouTubeItems jsonName="yu-RamonFerreira" /><!-- Ramon Ferreira -->
 <MyYouTubeItems jsonName="yu-dmug" /><!-- Definitive Mac Upgrade Guide -->
 <MyYouTubeItems jsonName="yu-macmost" /><!-- macmostvideo -->
+<MyYouTubeItems jsonName="yu-ProperHonestTech" /><!-- Proper Honest Tech -->
 
 <TagLinks />

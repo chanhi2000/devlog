@@ -299,6 +299,8 @@ tag:
 - [`@2weV` / 중국 생산/판매 시대에서 미국 생산/판매 시대로.](https://brunch.co.kr/@@2weV/546)
 - [`@3Y0` / 위임 못하는 리더의 숨겨진 속마음 - 질투심 - 리더가 된 후, 이런 고민들을 하고 있습니다. #2](https://brunch.co.kr/@@3Y0/79)
 - [`@ZVA` / 홍콩과 유럽 암호화폐 규제의 현재와 향후 시나리오](https://brunch.co.kr/@@ZVA/721)
+- [`@3L0s` / DX 실행: 유통방식의 디지털화 개념 - 디지털 혁신-19](https://brunch.co.kr/@@3L0s/122)
+- [`@2rV` / 우리는 모른다는 것을 알았다 - 제품 발견을 통해 빠르게 근거를 확보하는 것의 중요성](https://brunch.co.kr/@@2rV/176)
 
 <!-- END: brunch.co.kr -->
 
@@ -952,6 +954,7 @@ tag:
 - [리더십의 안전감 – Comfort Zone](https://chidoo.me/index.php/2024/08/12/comfort-zone-in-leadership/)
 - [리더십의 안전감 – 가족 같은 팀 vs. 프로 팀](https://chidoo.me/index.php/2024/08/19/team-as-a-pro-team-in-leadership/)
 - [리더십의 안전감 – 실패와 책임](https://chidoo.me/index.php/2024/08/26/failure-and-responsibility-in-leadership/)
+- [리더십의 안전감 – 위임을 통한 성장](https://chidoo.me/index.php/2024/09/02/empowerment-in-leadership/)
 
 <!-- END: chidoo.me -->
 

@@ -85,4 +85,12 @@ head:
 
 ---
 
+## Daddy Maker
+
+- [WebUI 기반 Ollama 서비스 구동 방법](https://daddynkidsmakers.blogspot.com/2024/09/webui-ollama.html)
+
+<!-- END: daddynkidsmakers.blogspot.com -->
+
+---
+
 <TagLinks />

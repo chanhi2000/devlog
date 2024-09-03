@@ -25,4 +25,10 @@ head:
 
 ---
 
+## ferd.ca
+
+- [My Blog Engine is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
+
+---
+
 <TagLinks />

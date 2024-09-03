@@ -13,7 +13,10 @@ tag:
   - freecodecamp.org
   - learnk8s.io
   - code-maze.com
+  - milanjovanovic.tech
   - johnnyreilly.com
+  - devops
+  - microsoft
   - azure
 head:
   - - meta:
@@ -47,6 +50,13 @@ head:
   url="https://code-maze.com/latest-posts-on-code-maze/"
   logo="/images/content/code-maze.com/favicon.png"
   preview="/images/content/code-maze.com/banner.png"/>
+
+<SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
 
 ```component VPCard
 {
@@ -243,6 +253,24 @@ head:
 ```
 
 <!-- END: code-maze.com -->
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "Messaging Made Easy With Azure Service Bus",
+  "desc": "If you're working in a distributed system, you need to be able to communicate between multiple services. There are a few ways that you can implement this. Depending on your chosen approach, you can either introduce tight coupling between your services or stay loosely coupled. Loose coupling is an important quality in a distributed system. It will allow you to evolve your services independently. So how do you implement loosely coupled communication between services?",
+  "link": "/explore/articles/milanjovanovic.tech/messaging-made-easy-with-azure-service-bus.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+<!-- END: milanjovanovic.tech -->
 
 ---
 

@@ -187,7 +187,6 @@ head:
 <MyYouTubeItems jsonName="yu-MasterNKS" /><!-- 남궁성의 정석코딩 -->
 <MyYouTubeItems jsonName="yu-user-tu5nq1er9t" /><!-- 구멍가게 코딩단 -->
 <MyYouTubeItems jsonName="yu-user-io1lo4zs8n" /><!-- 유영준 -->
-<MyYouTubeItems jsonName="yu-devCJH" /><!-- devCJH -->
 <MyYouTubeItems jsonName="yu-Techtter" /><!-- Techtter -->
 <MyYouTubeItems jsonName="yu-ithotgi" /><!-- IT핥기 -->
 <MyYouTubeItems jsonName="yu-SpringIOConference" /><!-- Spring I/O -->
