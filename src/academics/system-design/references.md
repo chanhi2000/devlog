@@ -380,6 +380,9 @@ head:
 - [`jykim74` / Warehouse of PKI](https://jykim74.tistory.com/m/)
   - [블록 암호 운영 모드 ( Block Cipher mode of operation )](https://jykim74.tistory.com/m/283)
   <!-- END: jykim74 -->
+- [`ingeec` / 없으면 없는대로검색하기](http://ingeec.tistory.com/m/)
+  - [태동 중인 인증 기술 FedCM API 소개](http://ingeec.tistory.com/m/130)
+  <!-- END: ingeec -->
 <!-- END: tistory.com -->
 
 ---

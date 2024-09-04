@@ -2526,5 +2526,12 @@
     "topics": ["cli", "config", "configuration", "data-processing", "data-structures", "data-wrangling", "devops-tools", "go", "golang", "json", "json-processing", "parser", "query", "selector", "toml", "update", "xml", "yaml", "yaml-processor"],
     "avatar": "https://avatars.githubusercontent.com/u/935867?v=4",
     "banner": ""
+  }, {
+    "repo": "danielmiessler/fabric",
+    "desc": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "officialSite": "https://danielmiessler.com/p/fabric-origin-story",
+    "topics": ["ai", "augmentation", "flourishing", "life", "work"],
+    "avatar": "https://avatars.githubusercontent.com/u/50654?v=4",
+    "banner": ""
   }
 ]

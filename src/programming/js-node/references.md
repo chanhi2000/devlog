@@ -275,6 +275,7 @@ tag:
 - [`daangn` / 안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
 - [`fourwingsy` / GraphQL을 오해하다](https://fourwingsy.medium.com/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 - [`@sunyi233` / Netlify cli로 deploy하기](https://medium.com/@sunyi233/netlify-cli%EB%A1%9C-deploy%ED%95%98%EA%B8%B0-2ba73e892285?source=rss-57ff999ab1fc------2)
+- [`towardsdatascience` / Use R to build Clinical Flowchart with shinyCyJS](https://towardsdatascience.com/clinical-flowchart-shinycyjs-e-2f5489154794?source=rss-cb820693bed5------2)
 
 <!-- END: medium.com -->
 

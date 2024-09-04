@@ -130,6 +130,35 @@ tag:
   logo="https://about.daangn.com/favicon.svg?v=faa29da546934f91eb94665bbe915e8f"
   preview="https://about.daangn.com/static/faab525eb6f3844219d52fb3581c985a/35c24/bbab1cc9-8912-422b-a384-d07230baa365_daangn_OG.png"/>
 
+https://skcareers.com/Recruit/
+
+<SiteInfo
+  name="카카오모빌리티"
+  desc="회사 : 카카오모빌리티, 산업 : 3, 회사 유형 : 대기업, 회사 주소 : 경기도 성남시 분당구 판교역로 152, 13층(백현동, 알파돔타워), 지역 : 1"
+  url="https://zighang.com/company/149b323d-1ba3-46b8-b9f1-9883351f5503"
+  logo="https://zighang.com/icon.ico?ad2982078a9be7a7"
+  preview="https://d2juy7qzamcf56.cloudfront.net/2024-08-07/29f8e0bd-fa69-4d06-85e5-197a3c2427d8.png"/>
+
+```component VPCard
+{
+  "title": "2024년 KB국민카드 채용사이트",
+  "desc": "2024년 KB국민카드 채용정보,모집부문, 전형절차, 지원자격, 지원서작성 및 합격자발표를 확인할 수 있습니다.",
+  "link": "https://kbcard.incruit.com/hire/viewhire.asp?projectid=101",
+  "logo": "https://kbcard.incruit.com/favicon.ico",
+  "background": "rgba(235,169,56,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "2024년 신한카드 채용사이트",
+  "desc": "2024년 신한카드 채용정보,모집부문, 전형절차, 지원자격, 지원서작성 및 합격자발표를 확인할 수 있습니다.",
+  "link": "https://shcard.incruit.com/hire/viewhire.asp?projectid=103",
+  "logo": "https://shcard.incruit.com/favicon.ico",
+  "background": "rgba(0,70,255,0.2)"
+}
+```
+
 ---
 
 <TagLinks />

@@ -181,6 +181,7 @@ tag:
 - [`mohitsoni48` / How to “get()” your Koin dependency in iOS](https://medium.com/@mohitsoni48/how-to-get-your-koin-dependency-in-ios-efb6d83ee165)
 - [`renaud.mathieu` / Discovering Material3 for Android — SwipeToDismissBox](https://medium.com/@renaud.mathieu/discovering-material3-for-android-swipetodismissbox-f64905b2b677)
 - [`snapp-mobile` / Kotlin Flow to Swift Combine: A KMP Bridge. Part I](https://medium.com/snapp-mobile/kotlin-flow-to-swift-combine-a-kmp-bridge-part-i-6332bbfcad5d)
+- [`hongbeomi-dev` / `StateFlow`의 재시도 처리](https://medium.com/hongbeomi-dev/stateflow%EC%9D%98-%EC%9E%AC%EC%8B%9C%EB%8F%84-%EC%B2%98%EB%A6%AC-de224e1127de?source=rss-c941a8b6c471------2)
 
 <!-- END: medium.com -->
 

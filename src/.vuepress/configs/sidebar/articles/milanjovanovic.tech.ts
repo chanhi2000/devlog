@@ -89,7 +89,7 @@ export const template: SidebarInfoTemplate = {
     "cs-razor", [
       "flexible-pdf-reporting-in-net-using-razor-views", // 2024-06-29
     ]],[
-    "js-node", [
+  "js-node", [
       "horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing", // 2024-03-30
     ]],[
     "erl-rabbitmq", [

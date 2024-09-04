@@ -803,6 +803,12 @@ head:
 - [`potwings` / 블로그 이름 뭐하지??](https://potwings.tistory.com/m/)
   - [텍스트 전처리(1) - 토큰화, 정제, 정규화](https://potwings.tistory.com/m/67)
   <!-- END: potwings -->
+- [`jykim74` / Warehouse of PKI](https://jykim74.tistory.com/m/)
+  - [몬테 카를로 테스트 ( Monte Carlo Test )](https://jykim74.tistory.com/m/284)
+  <!-- END: jykim74 -->
+- [`aspdotnet` / 재우니의 블로그](http://aspdotnet.tistory.com/m/)
+  - [Python : Playwright 라이브러리, 웹사이트 내용  PDF로 변환](http://aspdotnet.tistory.com/m/3262)
+  <!-- END: aspdotnet -->
 <!-- END: tistory.com -->
 
 ---
@@ -854,6 +860,7 @@ head:
 ## Daddy Makers
 
 - [몬테카를로 시뮬레이션 기반 주가 예측](https://daddynkidsmakers.blogspot.com/2024/03/blog-post_30.html)
+- [CuPy 사용해 CUDA 프로그래밍하기](https://daddynkidsmakers.blogspot.com/2024/09/cupy-cuda.html)
 
 ---
 

@@ -150,7 +150,7 @@ head:
 ```component VPCard
 {
   "title": "How to render a PDF to an image",
-  "desc": "iOS has built-in APIs for drawing PDFs, which means it's relatively straight forward to render a PDF to an image. I say "relatively" because there's still some boilerplate you need to worry about: figuring out the document size, filling the background in a solid color to avoid transparency, and flipping the rendering so that the PDF draws the right way up....",
+  "desc": "iOS has built-in APIs for drawing PDFs, which means it's relatively straight forward to render a PDF to an image. I say 'relatively' because there's still some boilerplate you need to worry about figuring out the document size, filling the background in a solid color to avoid transparency, and flipping the rendering so that the PDF draws the right way up....",
   "link": "/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-render-a-pdf-to-an-image.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"

@@ -70,7 +70,7 @@ head:
 ```component VPCard
 {
   "title": "How to convert text to speech using AVSpeechSynthesizer, AVSpeechUtterance and AVSpeechSynthesisVoice",
-  "desc": "If you're looking for text-to-speech conversion, it's baked right into iOS thanks to the <code>AVSpeechSynthesizer</code> class and its friends. As you can tell from the "AV" part of its name, you'll need to add AVFoundation to your project, like this:",
+  "desc": "If you're looking for text-to-speech conversion, it's baked right into iOS thanks to the <code>AVSpeechSynthesizer</code> class and its friends. As you can tell from the 'AV' part of its name, you'll need to add AVFoundation to your project, like this",
   "link": "/explore/articles/hackingwithswift.com/example-code/media/how-to-convert-text-to-speech-using-avspeechsynthesizer-avspeechutterance-and-avspeechsynthesisvoice.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"

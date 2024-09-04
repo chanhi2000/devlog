@@ -1243,6 +1243,13 @@ https://blenderkit.com/
 https://texture.ninja/
 http://texturer.com/
 
+<SiteInfo
+  name="Departure Mono"
+  desc="Departure Mono is a monospaced pixel font by Helena Zhang, licensed under the SIL OFL."
+  url="https://departuremono.com/"
+  logo="https://departuremono.com/assets/favicon.ico"
+  preview="https://departuremono.com/assets/departure-og.png"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps

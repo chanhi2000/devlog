@@ -282,7 +282,7 @@ head:
 
 ```component VPCard
 {
-  "title": "How Suspend Functions Work in Kotlin: Under the hood - droidcon"
+  "title": "How Suspend Functions Work in Kotlin: Under the hood - droidcon",
   "desc": "The suspension capability is the most essential feature upon which all other Kotlin Coroutines concepts are built. Your main goal in this article will be to gain a solid understanding of how it works internally.",
   "link": "/explore/articles/droidcon.com/how-suspend-functions-work-in-kotlin-under-the-hood.md",
   "logo": "https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",

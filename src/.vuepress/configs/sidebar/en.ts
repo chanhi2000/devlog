@@ -3539,6 +3539,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/projects/career/articles/README.md',
+            asb.freecodecamp("career"),
             asb.frontendmaster("career"),
             asb.smashingmagazion("career"),
             asb.yozm("career"),

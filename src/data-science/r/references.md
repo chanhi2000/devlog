@@ -22,6 +22,14 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`towardsdatascience` / Use R to build Clinical Flowchart with shinyCyJS](https://towardsdatascience.com/clinical-flowchart-shinycyjs-e-2f5489154794?source=rss-cb820693bed5------2)
+
+<!-- END: medium -->
+
+---
+
 ## Rasmus Bååth's Blog
 
 - [Why pandas feels clunky when coming from R](https://www.sumsar.net/blog/pandas-feels-clunky-when-coming-from-r/)

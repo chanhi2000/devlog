@@ -5308,10 +5308,10 @@
     "banner": ""
   }, {
     "repo": "BerriAI/litellm",
-    "desc": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",
+    "desc": "Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
     "officialSite": "https://docs.litellm.ai/docs/",
     "topics": ["anthropic", "langchain", "langchain-python", "llm", "llmops", "openai"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/121462774?v=4",
     "banner": ""
   }, {
     "repo": "amazon-science/chronos-forecasting",
@@ -6182,11 +6182,11 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "kyegomez/AlphaFold3",
-    "desc": "Implementation of Alpha Fold 3 from the paper: \"Accurate structure prediction of biomolecular interactions with AlphaFold3\" in PyTorch",
-    "officialSite": "https://discord.gg/7VckQVxvKk",
-    "topics": ["ai", "alphafold", "artificial-intelligence", "bio", "biology", "biology-ai", "geneml", "ml"],
-    "avatar": "",
+    "repo": "Ligo-Biosciences/AlphaFold3",
+    "desc": "Open source implementation of AlphaFold3",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/175976429?v=4",
     "banner": ""
   }, {
     "repo": "stooged/PI-Pwn",
@@ -7099,6 +7099,13 @@
     "avatar": "",
     "banner": ""
   }, {
+    "repo": "PaddlePaddle/PaddleHelix",
+    "desc": "Bio-Computing Platform Featuring Large-Scale Representation Learning and Multi-Task Deep Learning “螺旋桨”生物计算工具集",
+    "officialSite": "",
+    "topics": ["biocomputing", "ddi", "deeplearning", "dti", "graph-networks", "machine-learning", "molecule-design", "ppi", "protein-design", "protein-docking", "protein-folding", "protein-structure-prediction", "representation-learning", "rna-structure-prediction", "self-supervised-learning"],
+    "avatar": "https://avatars.githubusercontent.com/u/23534030?v=4",
+    "banner": ""
+  }, {
     "repo": "raspberrypi/documentation",
     "desc": "The official documentation for Raspberry Pi computers and microcontrollers",
     "officialSite": "https://raspberrypi.com/documentation",
@@ -7198,9 +7205,9 @@
     "banner": ""
   }, {
     "repo": "mem0ai/mem0",
-    "desc": "The memory layer for Personalized AI",
-    "officialSite": "https://docs.mem0.ai",
-    "topics": ["ai", "application", "chatbots", "chatgpt", "embeddings", "llm", "long-term-memory", "memory", "python", "rag", "vector-database"],
+    "desc": "The Memory layer for your AI apps",
+    "officialSite": "https://mem0.ai",
+    "topics": ["agent", "ai", "aiagent", "application", "chatbots", "chatgpt", "embeddings", "llm", "long-term-memory", "memory", "memory-management", "python", "rag", "state-management", "vector-database"],
     "avatar": "https://avatars.githubusercontent.com/u/137054526?v=4",
     "banner": ""
   }, {
@@ -7797,6 +7804,20 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/693511?v=4",
+    "banner": ""
+  }, {
+    "repo": "MLSysOps/MLE-agent",
+    "desc": "🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. :fireworks: Code RAG",
+    "officialSite": "https://repx.app/",
+    "topics": ["agent", "ai", "llm", "ml", "mle", "mlops"],
+    "avatar": "https://avatars.githubusercontent.com/u/85268109?v=4",
+    "banner": ""
+  }, {
+    "repo": "getzep/graphiti",
+    "desc": "Build and query dynamic, temporally-aware Knowledge Graphs",
+    "officialSite": "https://help.getzep.com/graphiti",
+    "topics": ["agents", "graph", "llms", "rag"],
+    "avatar": "https://avatars.githubusercontent.com/u/132832125?v=4",
     "banner": ""
   }
 ]

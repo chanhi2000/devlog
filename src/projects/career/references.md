@@ -464,6 +464,9 @@ tag:
 - [`all-dev-kang` / 편리함을 추구하는 핸디의 지식 블로그](https://all-dev-kang.tistory.com/m/)
   - [[개발회고] 24년 1분기 회고](https://all-dev-kang.tistory.com/m/entry/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0-24%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
   <!-- END: all-dev-kang -->
+- [`bcho` / 조대협의 블로그](http://bcho.tistory.com/m/)
+  - [GTM 전략의 이해](http://bcho.tistory.com/m/1438)
+  <!-- END: bcho -->
 <!-- END: tistory.com -->
 
 ---

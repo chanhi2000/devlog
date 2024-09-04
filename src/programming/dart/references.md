@@ -95,6 +95,9 @@ tag:
 - [`greypencil` / 회색분자의 IT 창작 놀이터](https://greypencil.tistory.com/m/)
   - [한달 동안 AI와 함께 Flutter앱을 개발하면서 느낀 점](https://greypencil.tistory.com/m/221)
   <!-- END: greypencil -->
+- [`holykisa` / HolyKisa](https://holykisa.tistory.com/m/)
+  - [Flutter: Module 'path_provider_foundation' not found](https://holykisa.tistory.com/m/133)
+  <!-- END: holykisa -->
 <!-- END: tistory.com -->
 
 ---

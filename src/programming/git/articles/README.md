@@ -96,6 +96,16 @@ head:
 
 ```component VPCard
 {
+  "title": "Gitting Things Done – A Visual and Practical Guide to Git [Full Book]",
+  "desc": "Introduction Git is awesome. Most software developers use Git on a daily basis. But how many truly understand Git? Do you feel like you know what's going on under the hood as you use Git to perform various tasks? For example, what happens when you us...",
+  "link": "/explore/articles/freecodecamp.org/gitting-things-done-book.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Git Checkout Remote Branch – How to Fetch and List Remote Branches",
   "desc": "You can use branches in Git to work on different features without affecting your main codebase. For example, you can experiment with a new layout for your webpage on a different branch without affecting the main branch where your website is being dep...",
   "link": "/explore/articles/freecodecamp.org/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches.md",

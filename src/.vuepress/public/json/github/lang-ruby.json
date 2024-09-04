@@ -202,5 +202,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/3422894?v=4",
     "banner": ""
+  }, {
+    "repo": "Freika/dawarich",
+    "desc": "Self-hosted alternative to Google Location History (Google Maps Timeline)",
+    "officialSite": "https://dawarich.app",
+    "topics": ["google-maps", "homelab", "maps", "owntracks", "self-hosted"],
+    "avatar": "https://avatars.githubusercontent.com/u/3738638?v=4",
+    "banner": ""
   }
 ]

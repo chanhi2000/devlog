@@ -56,7 +56,15 @@ const PATH_BASE_ARTICLES = "/explore/articles"
 export type SidebarInfoTemplate = {
   name: string,
   faviconPath: string,
-  linksMap: Map<string, string[]>,
+  linksMap: Map<string, any[]>,
+}
+
+export type SidebarInfoSubgroupTemplate = {
+  text: string | '',
+  collapsible: boolean | true,
+  icon: string | '',
+  subPath: string,
+  children: SidebarInfoSubgroupTemplate | string[]
 }
 
 export const sidebarByTemplate = (itemTemplate: SidebarInfoTemplate, type: string = DEFAULT_KEY_ALL): SidebarGroupItem => {
@@ -65,12 +73,26 @@ export const sidebarByTemplate = (itemTemplate: SidebarInfoTemplate, type: strin
     _all.push(...values);
   }
   
-  const _children: string[] = (
+  const _children: any[] = (
     // (type === "all") 
     // ?  _all 
     // : 
     itemTemplate.linksMap.get(type)
-  )?.map((e: string) => `${PATH_BASE_ARTICLES}/${itemTemplate.name}/${e}.${EXT_MD}`) ?? []
+  )?.map((e: any) => {
+    switch(typeof e) {
+      case 'string': 
+        return `${PATH_BASE_ARTICLES}/${itemTemplate.name}/${e}.${EXT_MD}`
+      case 'object': // SidebarInfoSubgroupTemplate
+        return {
+          text: e?.text,
+          collapsible: e?.collapsible ?? true,
+          icon: e?.icon ?? '',
+          children: (e?.children ?? []).map((a: string) => `${PATH_BASE_ARTICLES}/${itemTemplate.name}/${e?.subPath}/${a}.${EXT_MD}`)
+        }
+      default:
+        return ''
+    }
+  }) ?? []
 
   return {
     text: itemTemplate.name,

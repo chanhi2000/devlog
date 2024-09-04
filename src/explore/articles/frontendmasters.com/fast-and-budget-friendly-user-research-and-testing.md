@@ -20,7 +20,7 @@ head:
       content: Fast and Budget-Friendly User Research and Testing
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/frontendmasters.com/fast-and-budget-friendly-user-research-and-testing.html
-prev: /programming/js/articles/README.md
+prev: /projects/career/articles/README.md
 date: 2024-06-04
 isOriginal: false
 cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/1024px-Project_User_Experience_Testing_9719939867.jpg?resize=768%2C514&ssl=1
@@ -30,9 +30,9 @@ cover: https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/05/102
 
 ```component VPCard
 {
-  "title": "JavaScript > Article(s)",
+  "title": "Career > Article(s)",
   "desc": "Article(s)",
-  "link": "/programming/js/articles/README.md",
+  "link": "/projects/career/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

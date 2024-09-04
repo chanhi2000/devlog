@@ -1,4 +1,15 @@
-import { SidebarInfoTemplate } from ".";
+import { SidebarInfoTemplate, SidebarInfoSubgroupTemplate } from ".";
+
+
+const GITTING_THINGS_DONE_BOOK: SidebarInfoSubgroupTemplate = { // 2024-01-08
+  text: 'Gitting Things Done – A Visual and Practical Guide to Git [Full Book]',
+  collapsible: true,
+  icon: 'iconfont icon-git',
+  subPath: 'gitting-things-done-book',
+  children: [
+    'README'
+  ],
+}
 
 export const template: SidebarInfoTemplate = {
   name: 'freecodecamp.org',
@@ -268,6 +279,7 @@ export const template: SidebarInfoTemplate = {
       "linux-terminal-piping-and-redirection-guide", //2024-04-26
     ]],[
     "git", [
+      GITTING_THINGS_DONE_BOOK, // 2024-01-08
       "git-checkout-remote-branch-how-to-fetch-and-list-remote-branches", // 2024-04-30
       "how-to-use-git-submodules", // 2024-05-07
       "what-is-trunk-based-development", // 2024-06-18
@@ -347,6 +359,7 @@ export const template: SidebarInfoTemplate = {
       "more-secure-authentication-from-passwords-to-passkeys", // 2024-07-11
       "getting-started-in-cybersecurity", // 2024-07-16
       "vm-data-protection-best-practices", // 2024-08-16
+      "what-is-rate-limiting-web-apis", // 2024-09-04
     ]],[
     "gatling", [
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
@@ -447,9 +460,13 @@ export const template: SidebarInfoTemplate = {
     "coen", [
       "learn-about-operating-systems-in-depth", // 2024-08-06
     ]],[
+    "career", [
+      "skills-you-need-to-become-a-backend-developer-roadmap", // 2024-09-03
+    ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
       "perfect-html-input", // 2023-01-05
+      GITTING_THINGS_DONE_BOOK,  // 2023-01-08
       "how-to-parse-a-string-in-python", // 2023-05-04
       "postgresql-indexing-strategies", // 2023-05-12
       "check-python-version-how-to-check-py-in-mac-windows-and-linux", // 2023-07-07
@@ -698,6 +715,8 @@ export const template: SidebarInfoTemplate = {
       "build-a-shopping-cart-backend-with-spring-boot-and-spring-security", // 2024-08-28
       "design-first-vs-logic-first-approach", // 2024-08-29
       "how-to-build-a-rag-pipeline-with-llamaindex", // 2024-08-30
+      "skills-you-need-to-become-a-backend-developer-roadmap", // 2024-09-03
+      "what-is-rate-limiting-web-apis", // 2024-09-04
     ]],
   ]),
 }

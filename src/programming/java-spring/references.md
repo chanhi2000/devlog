@@ -255,6 +255,7 @@ head:
   - [\[해결방법\] JWT Login 시, `accessToken`이 `null`](https://hj0216.tistory.com/m/938)
   - [\[1년 후 마실가실\] JWT와 로그아웃(1) Redis 설정](https://hj0216.tistory.com/m/939)
   - [\[해결방법\] `io.jsonwebtoken.ExpiredJwtException`](https://hj0216.tistory.com/m/941)
+  - [\[1년 후 마실가실\] 패키지 구조](https://hj0216.tistory.com/m/942)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)

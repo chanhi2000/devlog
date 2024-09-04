@@ -107,11 +107,15 @@ head:
 
 ---
 
-## 조대협의 블로그
+## tistory
 
-- [파이토치 1. 기본 자료형 텐서](http://bcho.tistory.com/m/1432)
-- [파이토치 3. 파이토치라이트닝](http://bcho.tistory.com/m/1435)
-- [파이토치 분산 학습 도구 비교](https://bcho.tistory.com/m/1437)
+- [`bcho` / 조대협의 블로그](http://bcho.tistory.com/m/)
+  - [파이토치 1. 기본 자료형 텐서](http://bcho.tistory.com/m/1432)
+  - [파이토치 3. 파이토치라이트닝](http://bcho.tistory.com/m/1435)
+  - [파이토치 분산 학습 도구 비교](https://bcho.tistory.com/m/1437)
+  - [5. 파이토치 - 분산 학습의 개념과 하드웨어](http://bcho.tistory.com/m/1439)
+  <!-- END: bcho -->
+<!-- END: tistory.com -->
 
 ---
 

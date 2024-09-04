@@ -248,6 +248,7 @@ head:
 - [\[Q&A\] 버튼이 눌러진 것처럼 메시지 처리하기](https://m.blog.naver.com/tipsware/223568133085)
 - [클립보드에 텍스트가 복사되면 자동으로 가져오기 - Step 1](https://m.blog.naver.com/tipsware/223568495504)
 - [클립보드에 텍스트가 복사되면 자동으로 가져오기 - Step 2](https://m.blog.naver.com/tipsware/223570013654)
+- [\[Q&A\] 줄 바꿈 문자 기준으로 문자열을 나누고 싶습니다.](https://m.blog.naver.com/tipsware/223570096600)
 
 <!-- END: tipsware.blog.naver.com -->
 
