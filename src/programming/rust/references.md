@@ -18,6 +18,16 @@ tag:
 
 ---
 
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### Google Security Blog
+
+- [Deploying Rust in Existing Firmware Codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
+
+<!-- END: security.googleblog.com -->
+
+---
+
 ## `seed.redicle.garden`
 
 - [`seed.redicle.garden`/`heartwood`](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
@@ -218,9 +228,16 @@ tag:
 
 ---
 
-## Rust
+## tistory
 
-- [[Rust] `Cargo.toml`을 알아보자](https://baroqcat.tistory.com/m/entry/Cargotoml%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- [`baroqcat` / 코딩 Rust](https://baroqcat.tistory.com/m/)
+  - [[Rust] `Cargo.toml`을 알아보자](https://baroqcat.tistory.com/m/entry/Cargotoml%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+  <!-- END: baroqcat -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [MeiliSearch 검색 엔진 기능 분석](https://bbogle2.tistory.com/m/entry/MeiliSearch-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84-%EA%B8%B0%EB%8A%A5-%EB%B6%84%EC%84%9D)
+  - [MeiliSearch 설치 및 실행 방법](https://bbogle2.tistory.com/m/entry/MeiliSearch-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95)
+  <!-- END: bbogle2 -->
+<!-- END: tistory.com -->
 
 ---
 

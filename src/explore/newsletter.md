@@ -1060,6 +1060,13 @@ https://paperlined.org/
 ```
 
 <SiteInfo
+  name="Stealth Security"
+  desc="Learn to attack and defend yourself online. Ethically."
+  url="https://stealthsecurity.sh/"
+  logo="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/e2d29914-80f5-46c4-8e92-b2e96e013d4d/thumb_Stealth_security.gif"
+  preview="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/e2d29914-80f5-46c4-8e92-b2e96e013d4d/Stealth_security.gif"/>
+  
+<SiteInfo
   name="Unicorn Utterances"
   desc="Learning programming from magically majestic words. A place to learn about all sorts of programming topics from entry-level concepts to advanced abstractions"
   url="https://unicorn-utterances.com/"

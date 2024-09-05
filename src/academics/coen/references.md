@@ -89,6 +89,12 @@ head:
 
 ---
 
+## Substack
+
+- [`semianalysis` / The Memory Wall: Past, Present, and Future of DRAM](https://semianalysis.com/p/the-memory-wall)
+
+---
+
 ## Minty Box
 
 - [\[1주차\] 운영체제 개요 & 컴퓨터 시스템 동작원리](https://shout-to-my-mae.tistory.com/m/436)
@@ -98,6 +104,14 @@ head:
 ## 김 용묵의 절대공간
 
 - [Windows 95 이전의 별세계 컴퓨터와 운영체제들](http://moogi.new21.org/tc/2331)
+
+---
+
+## 그대안의작은호수
+
+- [Cache latency와 cache hit/miss](https://smallake.kr/?p=34273)
+
+<!-- END: smallake.kr -->
 
 ---
 

@@ -4,9 +4,12 @@ title: Library
 description: Github > Library
 icon: fas fa-book-bookmark
 category:
+  - DevOps
+  - Git
   - Github
   - Library
 tag: 
+  - devops
   - git 
   - github 
   - multiplatform 

@@ -972,5 +972,12 @@
     "topics": ["data-quality", "data-science", "embeddings", "embeddings-similarity", "feature-engineering", "feature-store", "hacktoberfest", "machine-learning", "ml", "mlops", "python", "vector-database"],
     "avatar": "https://avatars.githubusercontent.com/u/72954069?v=4",
     "banner": ""
+  }, {
+    "repo": "GoogleCloudPlatform/python-docs-samples",
+    "desc": "Code samples used on cloud.google.com",
+    "officialSite": "",
+    "topics": ["python", "samples"],
+    "avatar": "https://avatars.githubusercontent.com/u/2810941?v=4",
+    "banner": ""
   }
 ]

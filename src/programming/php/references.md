@@ -53,6 +53,7 @@ head:
 - [PHP API 코딩 실습 (서버용)](https://m.blog.naver.com/oralol/223417581963)
 - [서버 이전 시 트래픽 리다이렉션 방법](https://m.blog.naver.com/oralol/223435443197)
 - [체크박스 선택 방법 - 범위 입력 선택](https://m.blog.naver.com/oralol/223435360550?)
+- [\[php\] 이미지 크기, 파일 크기 변경 예제](https://m.blog.naver.com/oralol/223572314207)
 
 ---
 

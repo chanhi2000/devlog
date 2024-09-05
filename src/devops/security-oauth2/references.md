@@ -41,4 +41,10 @@ head:
 
 ---
 
+## Stack Auth
+
+- [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
+
+---
+
 <TagLinks />

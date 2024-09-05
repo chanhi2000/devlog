@@ -7,7 +7,13 @@ const GITTING_THINGS_DONE_BOOK: SidebarInfoSubgroupTemplate = { // 2024-01-08
   icon: 'iconfont icon-git',
   subPath: 'gitting-things-done-book',
   children: [
-    'README'
+    'README',
+    'introduction',
+    'part-1-main-objects-and-introducing-changes',
+    'part-2-branching-and-integrating-changes',
+    'part-3-undoing-changes',
+    'part-4-amazing-and-useful-git-tools',
+    'summary',
   ],
 }
 
@@ -135,6 +141,7 @@ export const template: SidebarInfoTemplate = {
       "relative-vs-dynamic-routing-in-react", // 2024-08-12
       "create-a-macos-app-with-react-native", // 2024-08-22
       "react-compiler-complete-guide-react-19", // 2024-08-27
+      "learn-the-mern-stack-by-building-a-store", // 2024-09-04
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -148,6 +155,7 @@ export const template: SidebarInfoTemplate = {
       "build-an-invoice-saas-app-with-next-js-and-neon-postgres", // 2024-08-01
       "how-to-index-nextjs-pages-with-indexnow", // 2024-08-06
       "how-to-secure-a-nextjs-ai-application-deployed-on-vercel", // 2024-08-19
+      "what-is-speedy-web-compiler", // 2024-09-05
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -211,6 +219,7 @@ export const template: SidebarInfoTemplate = {
       "merge-word-documents-in-python", // 2024-08-13
       "how-to-generate-financial-press-reviews-using-ai", // 2024-08-20
       "how-to-build-good-coding-habits", // 2024-08-20
+      "master-multimodal-data-analysis-with-llms-and-python", // 2024-09-04
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -304,6 +313,7 @@ export const template: SidebarInfoTemplate = {
       "pass-the-github-advanced-security-certification-exam", // 2024-07-17
       "host-your-first-project-on-github", // 2024-08-08
       "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
+      "how-to-manage-your-open-source-project-with-github", // 2024-09-05
     ]],[
     "macos", [
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
@@ -360,6 +370,7 @@ export const template: SidebarInfoTemplate = {
       "getting-started-in-cybersecurity", // 2024-07-16
       "vm-data-protection-best-practices", // 2024-08-16
       "what-is-rate-limiting-web-apis", // 2024-09-04
+      "what-is-cache-poisoning-and-how-to-avoid-it", // 2024-09-05
     ]],[
     "gatling", [
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
@@ -384,6 +395,7 @@ export const template: SidebarInfoTemplate = {
       "using-entity-framework-core-with-mongodb", // 2024-07-29
       "get-mongodb-url-to-connect-to-a-nodejs-application", // 2024-08-12
       "integration-tests-using-testcontainers", // 2024-08-14
+      "learn-the-mern-stack-by-building-a-store", // 2024-09-04
     ]],[
     "spark", [
       "pyspark-for-beginners", // 2024-06-26
@@ -438,6 +450,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "openai", [
       "how-to-use-gpt-to-analyze-large-datasets", // 2024-08-28
+      "master-multimodal-data-analysis-with-llms-and-python", // 2024-09-04
     ]],[
     "gemini", [
       "learn-to-use-the-gemini-ai-multimodal-model", // 2024-08-22
@@ -717,6 +730,11 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-a-rag-pipeline-with-llamaindex", // 2024-08-30
       "skills-you-need-to-become-a-backend-developer-roadmap", // 2024-09-03
       "what-is-rate-limiting-web-apis", // 2024-09-04
+      "master-multimodal-data-analysis-with-llms-and-python", // 2024-09-04
+      "learn-the-mern-stack-by-building-a-store", // 2024-09-04
+      "what-is-speedy-web-compiler", // 2024-09-05
+      "how-to-manage-your-open-source-project-with-github", // 2024-09-05
+      "what-is-cache-poisoning-and-how-to-avoid-it", // 2024-09-05
     ]],
   ]),
 }

@@ -98,7 +98,7 @@ head:
 {
   "title": "Gitting Things Done – A Visual and Practical Guide to Git [Full Book]",
   "desc": "Introduction Git is awesome. Most software developers use Git on a daily basis. But how many truly understand Git? Do you feel like you know what's going on under the hood as you use Git to perform various tasks? For example, what happens when you us...",
-  "link": "/explore/articles/freecodecamp.org/gitting-things-done-book.md",
+  "link": "/explore/articles/freecodecamp.org/gitting-things-done-book/READE.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

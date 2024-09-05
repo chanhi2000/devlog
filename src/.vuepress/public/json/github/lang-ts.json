@@ -4737,5 +4737,33 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/94650532?v=4",
     "banner": ""
+  }, {
+    "repo": "cloudflare/serverless-registry",
+    "desc": "A Docker registry backed by Workers and R2.",
+    "officialSite": "",
+    "topics": ["artifacts", "cloudflare", "docker", "docker-registry", "javascript", "r2", "registry", "typescript", "workers"],
+    "avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+    "banner": ""
+  }, {
+    "repo": "Scthe/nanite-webgpu",
+    "desc": "UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis.",
+    "officialSite": "https://scthe.github.io/nanite-webgpu/?scene_file=jinxCombined&impostors_threshold=4000&softwarerasterizer_threshold=1360&nanite_errorthreshold=0.1",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/9325337?v=4",
+    "banner": ""
+  }, {
+    "repo": "tilyupo/qustar",
+    "desc": "Query SQL database through an array-like API",
+    "officialSite": "https://github.com/tilyupo/qustar",
+    "topics": ["query-builder", "sql", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/23105559?v=4",
+    "banner": ""
+  }, {
+    "repo": "DifuseHQ/Kalmia",
+    "desc": "A documentation CMS written in go",
+    "officialSite": "https://kalmia.difuse.io",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/118109979?v=4",
+    "banner": ""
   }
 ]

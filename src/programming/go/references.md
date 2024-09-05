@@ -413,4 +413,10 @@ tag:
 
 ---
 
+## Jon Seager
+
+- [Libations: Tailscale on the Rocks](https://jnsgr.uk/2024/08/tailscale-on-the-rocks)
+
+---
+
 <TagLinks />

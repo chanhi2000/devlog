@@ -30,4 +30,13 @@ head:
 
 ---
 
+## Brunch
+
+- [`@5jl5` / \[GPT4o\] 금융공학과 퀀트금융 유래 - Financial Engineering and Quan Finance](https://brunch.co.kr/@@5jl5/129)
+
+<!-- END: brunch.co.kr -->
+
+---
+
+
 <TagLinks />

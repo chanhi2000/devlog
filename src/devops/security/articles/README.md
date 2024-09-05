@@ -133,9 +133,19 @@ head:
 
 ```component VPCard
 {
-  "title":"What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks",
+  "title": "What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks",
   "desc": "Back-end servers are the powerhouse of modern-day applications; hence, a high level of expertise goes into building them. However, it's important to ensure that these back-end servers are well-secured from bad actors (hackers, phishers). These bad el...",
   "link": "/explore/articles/freecodecamp.org/what-is-rate-limiting-web-apis.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What is Cache Poisoning? How Hackers Manipulate Web Caches and How to Avoid It",
+  "desc": "Web caches play an important role in speeding up our browsing experience. They save copies of web pages and other resources so that users can access them faster. But what happens when these caches become a tool for hackers? Let’s look at cache poison...",
+  "link": "/explore/articles/freecodecamp.org/what-is-cache-poisoning-and-how-to-avoid-it.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

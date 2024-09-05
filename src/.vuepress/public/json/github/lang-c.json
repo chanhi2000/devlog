@@ -1721,5 +1721,12 @@
     "topics": ["3dfx", "allegro", "djgpp", "dos", "dzcomm", "freedos", "glide", "hacktoberfest", "javascript", "ms-dos", "msdos", "mujs", "p5js", "processing", "retro", "retrocomputing", "retrogaming", "voodoo-card"],
     "avatar": "https://avatars.githubusercontent.com/u/1155988?v=4",
     "banner": ""
+  }, {
+    "repo": "confluentinc/librdkafka",
+    "desc": "The Apache Kafka C/C++ library",
+    "officialSite": "",
+    "topics": ["apache-kafka", "c", "c-plus-plus", "consumer", "high-performance", "kafka", "kafka-consumer", "kafka-producer", "librdkafka"],
+    "avatar": "https://avatars.githubusercontent.com/u/9439498?v=4",
+    "banner": ""
   }
 ]

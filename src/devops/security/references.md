@@ -511,6 +511,12 @@ tag:
 
 ---
 
+## BleepingComputer
+
+- [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
+
+---
+
 ## Project(s)
 
 ```component VPCard

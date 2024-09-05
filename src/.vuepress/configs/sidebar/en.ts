@@ -91,6 +91,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/git/articles/README.md',
+            asb.freecodecamp("git"),
             asb.learnk8s("git"),
             asb.yozm("git"),
             asb.d2("git"),

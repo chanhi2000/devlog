@@ -784,6 +784,16 @@ tag:
 - [`@daredev` / Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
 - [`jakub_zalas` / Functional domain model](https://dev.to/jakub_zalas/functional-domain-model-o3j)
 
+## tistory (kotlin)
+
+- [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
+  - [인프런 - 코틀린 고급편 (3) 함수형 프로그래밍 활용](https://jinn-blog.tistory.com/m/163)
+  - [인프런 - 코틀린 고급편 (4) 연산자 오버로딩 & DSL](https://jinn-blog.tistory.com/m/170)
+  - [코틀린 고급편 - 어노테이션 & 리플렉션 활용](https://jinn-blog.tistory.com/m/173)
+  - [kotlin - coroutine (1) 코루틴의 기초 개념](https://jinn-blog.tistory.com/m/191)
+  <!-- END: jinn-blog -->
+<!-- END: tistory.com kotiln -->
+
 ### Leo3418
 
 - [Introducing ebuilds That Build Kotlin Core Libraries from Source](https://leo3418.github.io/2021/07/05/gentoo-build-kt-src.html)
@@ -1001,12 +1011,6 @@ tag:
 ### AKJAW
 
 - [5 Beginner Testing Mistakes I Noticed While Working with Less Experienced Developers](https://akjaw.com/5-beginner-testing-mistakes-i-noticed-while-working-with-less-experienced-developers/)
-
-### 개발자 박진 블로그
-
-- [인프런 - 코틀린 고급편 (3) 함수형 프로그래밍 활용](https://jinn-blog.tistory.com/m/163)
-- [인프런 - 코틀린 고급편 (4) 연산자 오버로딩 & DSL](https://jinn-blog.tistory.com/m/170)
-- [코틀린 고급편 - 어노테이션 & 리플렉션 활용](https://jinn-blog.tistory.com/m/173)
 
 ### 사바라다는 차곡차곡
 

@@ -55,8 +55,13 @@ head:
 - [`remnant24c` / 행복한 하루](https://remnant24c.tistory.com/m/)
   - [Raspberry Pi – Linux Device Driver 만들어 보기-1 (module 형태 만들기)](https://remnant24c.tistory.com/m/395)
   <!-- END: remnant24c -->
-
 <!-- END: tistory.com -->
+
+---
+
+## Christian Hollinger
+
+- [Why I still self host my servers (and what I've recently learned)](https://chollinger.com/blog/2024/08/why-i-still-self-host-my-servers-and-what-ive-recently-learned/)
 
 ---
 

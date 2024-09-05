@@ -400,6 +400,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Master Multimodal Data Analysis with LLMs and Python",
+  "desc": "Large Language Models (LLMs) can be super helpful for advanced data analysis. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you all about multimodal data analysis using LLMs and Python. This course will teach ...",
+  "link": "/explore/articles/freecodecamp.org/master-multimodal-data-analysis-with-llms-and-python.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

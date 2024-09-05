@@ -294,6 +294,7 @@ head:
 - [`@2fEJ` / \[UX원칙#7\]구매를 유발하는 제품정보 구성 6가지원칙](https://brunch.co.kr/@@2fEJ/1472)
 - [`@2fEJ` / \[사용성 #2\] 사용성 테스트 과제 시나리오 작성 방법](https://brunch.co.kr/@@2fEJ/1473)
 - [`@2fEJ` / \[UI/UX 원칙#8\] 버튼 UI 디자인의 스타일 진화](https://brunch.co.kr/@@2fEJ/1474)
+- [`@2fEJ` / \[UX리서치#3\]UX 리서치의 중요성과 인사이트 발굴](https://brunch.co.kr/@@2fEJ/1475)
 
 <!-- END: brunch.co.kr -->
 
@@ -383,6 +384,11 @@ head:
 - [`ingeec` / 없으면 없는대로검색하기](http://ingeec.tistory.com/m/)
   - [태동 중인 인증 기술 FedCM API 소개](http://ingeec.tistory.com/m/130)
   <!-- END: ingeec -->
+- [`pronist` / hELLO.](https://pronist.tistory.com/m/)
+  - [hELLO PORTFOLIO 를 소개합니다.](https://pronist.tistory.com/m/193)
+  - [hELLO TYPOGRAPHY 를 소개합니다.](https://pronist.tistory.com/m/194)
+  - [hELLO 티스토리 스킨을 소개합니다.](https://pronist.tistory.com/m/5)
+  <!-- END: pronist   -->
 <!-- END: tistory.com -->
 
 ---

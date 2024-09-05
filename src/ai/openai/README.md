@@ -4,9 +4,9 @@ title: OpenAI
 description: OpenAI
 icon: iconfont icon-openai
 category: 
+  - AI
   - OpenAI
   - ChatGPT
-  - AI
 tag:
   - ai
   - openai

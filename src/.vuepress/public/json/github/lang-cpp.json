@@ -2273,5 +2273,12 @@
     "topics": ["cars", "cats", "cats-over-dogs", "cncf", "corgis", "more-cats", "nanoservices", "rocket-ships"],
     "avatar": "https://avatars.githubusercontent.com/u/30125649?v=4",
     "banner": ""
+  }, {
+    "repo": "odygrd/quill",
+    "desc": "Asynchronous Low Latency C++ Logging Library",
+    "officialSite": "",
+    "topics": ["async", "asynchronous", "cpp", "cpp14", "cpp17", "cpp20", "cross-platform", "fmtlib", "high-performance", "log-library", "logger", "logging", "logging-library", "low-latency"],
+    "avatar": "https://avatars.githubusercontent.com/u/7397786?v=4",
+    "banner": ""
   }
 ]

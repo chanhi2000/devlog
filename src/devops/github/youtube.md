@@ -4,11 +4,14 @@ title: Youtube
 description: Github > Youtube
 icon: fa-brands fa-youtube
 category:
+  - DevOps
+  - Git
   - Github 
   - Youtube
 tag: 
   - youtube
   - tutorial
+  - devosp
   - git
   - github
   - github-action

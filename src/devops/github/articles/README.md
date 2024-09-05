@@ -4,6 +4,7 @@ title: Article(s)
 description: Github > Article(s)
 icon: fas fa-square-share-nodes
 category: 
+  - DevOps
   - Git
   - Github
   - Article(s)
@@ -15,6 +16,7 @@ tag:
   - packagemain.tech
   - yozm.wishket.com
   - engineering.linecorp.com
+  - devops
   - git
   - github
   - github-action
@@ -164,6 +166,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Manage your Open Source Project with GitHub",
+  "desc": "Managing your repository is one of the most important tasks for every open-source, individual, or proprietary software project. Small open-source project repositories are easily maintained without using additional functionality because few developers...",
+  "link": "/explore/articles/freecodecamp.org/how-to-manage-your-open-source-project-with-github.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -271,6 +283,16 @@ head:
   "title": "깃허브 액션으로 CI/CD 구현하기 | 요즘IT",
   "desc": "깃허브 액션으로 CI/CD 구현하기",
   "link": "/explore/articles/yozm.wishket.com/2197.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "R 개발자가 ‘R-universe’로 패키지 생태계 운영하는 법 | 요즘IT",
+  "desc": "R 개발자가 ‘R-universe’로 패키지 생태계 운영하는 법",
+  "link": "/explore/articles/yozm.wishket.com/2745.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

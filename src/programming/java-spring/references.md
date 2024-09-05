@@ -243,7 +243,7 @@ head:
   - [\[Spring Boot\] JPA 프록시](https://findsilverlining.tistory.com/m/128)
   - [\[Spring Boot\] JPA 영속성 전이, 고아 객체](https://findsilverlining.tistory.com/m/129)
   - [\[Spring Boot\] JPA 값 타입](https://findsilverlining.tistory.com/m/130)
-  <!-- END: findsilverlining -->w
+<!-- END: findsilverlining -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
   - [\[1년 후 마실가실\] Entity 수정](https://hj0216.tistory.com/m/931)
@@ -256,6 +256,7 @@ head:
   - [\[1년 후 마실가실\] JWT와 로그아웃(1) Redis 설정](https://hj0216.tistory.com/m/939)
   - [\[해결방법\] `io.jsonwebtoken.ExpiredJwtException`](https://hj0216.tistory.com/m/941)
   - [\[1년 후 마실가실\] 패키지 구조](https://hj0216.tistory.com/m/942)
+  - [\[해결 방법\] `NoUniqueBeanDefinitionException`](https://hj0216.tistory.com/m/943)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)

@@ -301,6 +301,7 @@ tag:
 - [`@ZVA` / 홍콩과 유럽 암호화폐 규제의 현재와 향후 시나리오](https://brunch.co.kr/@@ZVA/721)
 - [`@3L0s` / DX 실행: 유통방식의 디지털화 개념 - 디지털 혁신-19](https://brunch.co.kr/@@3L0s/122)
 - [`@2rV` / 우리는 모른다는 것을 알았다 - 제품 발견을 통해 빠르게 근거를 확보하는 것의 중요성](https://brunch.co.kr/@@2rV/176)
+- [`@5sFx` / 02. 팀장이 되기 전에는 몰랐던 것들 - '그랬구나'](https://brunch.co.kr/@@5sFx/120)
 
 <!-- END: brunch.co.kr -->
 
@@ -631,6 +632,7 @@ tag:
 - [앱 개발 의뢰 시장](https://jeho.page/essay/2024/06/12/building-an-app.html)
 - [커피한잔 서버 장애 썰](https://jeho.page/essay/2024/05/03/coffee-server.html)
 - [레거시 처리 개발자](https://jeho.page/essay/2024/08/08/defense-fun.html)
+- [다시 취업할 수 있을까](https://jeho.page/essay/2024/09/04/ever-be-get-job-again.html)
 
 ---
 
@@ -641,6 +643,7 @@ tag:
 - [[서평] 코딩도 하고, 사장도 합니다](https://ohseyong.com/%ec%84%9c%ed%8f%89-%ec%bd%94%eb%94%a9%eb%8f%84-%ed%95%98%ea%b3%a0-%ec%82%ac%ec%9e%a5%eb%8f%84-%ed%95%a9%eb%8b%88%eb%8b%a4/)
 - [[오세용의 에세이 #38] 불안](https://ohseyong.com/%ec%98%a4%ec%84%b8%ec%9a%a9%ec%9d%98-%ec%97%90%ec%84%b8%ec%9d%b4-38-%eb%b6%88%ec%95%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ec%2584%25b8%25ec%259a%25a9%25ec%259d%2598-%25ec%2597%2590%25ec%2584%25b8%25ec%259d%25b4-38-%25eb%25b6%2588%25ec%2595%2588)
 - [[라프디 창업기 #39] 유자랩스 사명 변경](https://ohseyong.com/%EB%9D%BC%ED%94%84%EB%94%94-%EC%B0%BD%EC%97%85%EA%B8%B0-39-%EC%9C%A0%EC%9E%90%EB%9E%A9%EC%8A%A4-%EC%82%AC%EB%AA%85-%EB%B3%80%EA%B2%BD)
+- [\[라프디 창업기 #41\] 생각보다 괜찮을지도](https://ohseyong.com/%eb%9d%bc%ed%94%84%eb%94%94-%ec%b0%bd%ec%97%85%ea%b8%b0-41-%ec%83%9d%ea%b0%81%eb%b3%b4%eb%8b%a4-%ea%b4%9c%ec%b0%ae%ec%9d%84%ec%a7%80%eb%8f%84/)
 
 ---
 

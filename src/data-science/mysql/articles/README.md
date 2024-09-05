@@ -139,6 +139,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "MySQL 콜레이션 사용 시 주의할 점은? | 요즘IT",
+  "desc": "MySQL 콜레이션 사용 시 주의할 점은?",
+  "link": "/explore/articles/yozm.wishket.com/27476.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

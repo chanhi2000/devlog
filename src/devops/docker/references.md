@@ -463,6 +463,8 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [라즈베리 파이에 Docker 설치 및 컨테이너 실행](https://bbogle2.tistory.com/m/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%97%90-Docker-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%8B%A4%ED%96%89)
 - [Jenkins 서버 구축하기 (1)](https://bbogle2.tistory.com/m/entry/Jenkins-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1)
 - [Jenkins로 Docker Container 배포하기](https://bbogle2.tistory.com/m/entry/Jenkins%EB%A1%9C-Docker-Container-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+- [MeiliSearch 설치 및 실행 방법](https://bbogle2.tistory.com/m/entry/MeiliSearch-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95)
+- [Docker Ubuntu 개발 환경 구축](https://bbogle2.tistory.com/m/entry/Docker-Ubuntu-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
 
 ---
 

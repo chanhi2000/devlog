@@ -232,4 +232,10 @@ head:
 
 ---
 
+## DISQUIET
+
+- [제품개발을 주저하는 비개발자를 위해](https://disquiet.io/@williamjung/makerlog/%EC%A0%9C%ED%92%88%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%A3%BC%EC%A0%80%ED%95%98%EB%8A%94-%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%B4)
+
+---
+
 <TagLinks />

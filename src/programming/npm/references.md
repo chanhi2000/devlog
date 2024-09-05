@@ -74,9 +74,15 @@ head:
 
 ---
 
-## xtring.dev
+## tistory
 
-- [[NPM] `npm install`시 `--save-exact` 옵션을 사용해주세요](https://xtring-dev.tistory.com/m/entry/NPM-npm-install%EC%8B%9C-save-exact-%EC%98%B5%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
+- [`xtring-dev` / xtring.dev](https://xtring-dev.tistory.com/m/)
+  - [[NPM] `npm install`시 `--save-exact` 옵션을 사용해주세요](https://xtring-dev.tistory.com/m/entry/NPM-npm-install%EC%8B%9C-save-exact-%EC%98%B5%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
+  <!-- END: xtring-dev -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [yarn 이 프로젝트를 설치 하는 방법 (pnp, pnpm, node-modules)](https://ravenkim97.tistory.com/m/496)
+  <!-- END: ravenkim97 -->
+<!-- END: tistory.com -->
 
 ---
 

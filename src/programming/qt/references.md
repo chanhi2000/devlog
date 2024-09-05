@@ -58,6 +58,7 @@ head:
   - [프로그레스 바(QProgressBar)를 제어하는 간단한 PyQt5 예제](https://webnautes.tistory.com/m/2386)
   - [테이블(QTableWidget)에 콤보박스(QComboBox) 추가하기](https://webnautes.tistory.com/m/2387)
   - [PyQt5 라벨 사용 예제 - QLabel, QFont, StyleSheet](http://webnautes.tistory.com/m/2388)
+  - [PyQt5 QDateEdit 사용 예제](https://webnautes.tistory.com/m/2390)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

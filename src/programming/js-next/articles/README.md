@@ -140,6 +140,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What is Speedy Web Compiler? SWC Explained With Examples",
+  "desc": "In the evolving landscape of JavaScript development, the need for efficient and powerful tooling has become increasingly important. Developers rely on tools like compilers and bundlers to transform their code, optimize performance, and ensure compati...",
+  "link": "/explore/articles/freecodecamp.org/what-is-speedy-web-compiler.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -2480,5 +2480,12 @@
     "topics": ["librespot", "rust", "spotify", "spotify-connect"],
     "avatar": "https://avatars.githubusercontent.com/u/35786875?v=4",
     "banner": ""
+  }, {
+    "repo": "SoptikHa2/desed",
+    "desc": "Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.",
+    "officialSite": "https://soptik.tech/articles/building-desed-the-sed-debugger.html",
+    "topics": ["rust", "sed", "tui-rs", "unix"],
+    "avatar": "https://avatars.githubusercontent.com/u/24734779?v=4",
+    "banner": ""
   }
 ]

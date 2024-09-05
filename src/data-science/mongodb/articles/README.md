@@ -101,6 +101,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn the MERN Stack by Building a Store",
+  "desc": "The MERN stack is a popular method to develop full-stack web applications. We just released a new course on the freeCodeCamp.org YouTube channel that will guide you through building dynamic, responsive web applications using the popular MERN stack. T....",
+  "link": "/explore/articles/freecodecamp.org/learn-the-mern-stack-by-building-a-store.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+````
+
 <!-- END: freecodecamp.org -->
 
 ---

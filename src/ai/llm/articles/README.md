@@ -144,6 +144,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "AI 스마트폰의 핵심, LLM 경량화 테크닉| 요즘IT",
+  "desc": "AI 스마트폰의 핵심, LLM 경량화 테크닉",
+  "link": "/explore/articles/yozm.wishket.com/2747.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---
