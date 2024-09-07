@@ -419,4 +419,10 @@ tag:
 
 ---
 
+## jacking75
+
+- [golang - Go 1.22  버전의 math/rand/v2](https://jacking75.github.io/go_20240906/)
+
+---
+
 <TagLinks />

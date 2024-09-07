@@ -3525,5 +3525,12 @@
     "topics": ["component", "editor", "hacktoberfest", "interface", "javascript", "ui", "ui-component", "widget"],
     "avatar": "https://avatars.githubusercontent.com/u/280241?v=4",
     "banner": ""
+  }, {
+    "repo": "tobesimple7/TbsGrid",
+    "desc": "html Javascript web grid",
+    "officialSite": "https://tobesimple.net",
+    "topics": ["data-grid", "datagrid", "datagridview", "grid", "javascript", "javascript-grid", "webgrid"],
+    "avatar": "https://avatars.githubusercontent.com/u/177661600?v=4",
+    "banner": ""
   }
 ]

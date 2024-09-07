@@ -489,6 +489,12 @@ tag:
 
 ---
 
+## Freedomlayer
+
+- [Creating an empty iterator of a certain type in Rust](https://www.freedomlayer.org/offset/option-iterator/)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />

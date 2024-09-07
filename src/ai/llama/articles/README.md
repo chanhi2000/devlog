@@ -11,6 +11,7 @@ category:
 tag: 
   - blog
   - freecodecamp.org
+  - yozm.wishket.com
   - ai
   - meta
   - llm
@@ -34,6 +35,16 @@ head:
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
+```component VPCard
+{
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 [[toc]]
 
 ---
@@ -53,6 +64,24 @@ head:
 ```
 
 <!-- END: freecodecamp.org -->
+
+---
+
+## 요즘IT
+
+> yozm.wishket.com
+
+```component VPCard
+{
+  "title": "Ollama에 없는 모델 내가 만들어 사용하기 | 요즘IT",
+  "desc": "Ollama에 없는 모델 내가 만들어 사용하기",
+  "link": "/explore/articles/yozm.wishket.com/2751.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+<!-- END: yozm.wishket.com -->
 
 ---
 

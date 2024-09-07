@@ -182,7 +182,7 @@ If you haven't already, start by initializing a new project. In your terminal, r
 npm init -y
 ```
 
-@tab 2. Install SWC with <code>npm</code>:
+@tab 2. Install SWC with `npm`:
 
 Run the following command to download the pre-built binaries:
 

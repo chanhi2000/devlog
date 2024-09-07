@@ -741,6 +741,7 @@ head:
   - [Python 리스트에서 중복 원소 제거하기 `set`, `dict.fromkeys`](https://webnautes.tistory.com/m/2371)
   - [Visual Studio Code에서 외부 터미널에서 파이썬 코드 실행하기](https://webnautes.tistory.com/m/2373)
   - [Python List sorted 와 sort 메소드 차이 및 사용 방법](https://webnautes.tistory.com/m/2377)
+  - [누구나 다하는 파이썬 원페이지 강좌](https://webnautes.tistory.com/m/2391)
   <!-- END: webnautes -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/m/15)
@@ -2309,6 +2310,12 @@ head:
 ## Moriz Büsing–Independent Web Developer
 
 - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+
+---
+
+## Vitalik Buterin's website
+
+- [Glue and coprocessor architectures](https://vitalik.eth.limo/general/2024/09/02/gluecp.html)
 
 ---
 

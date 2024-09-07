@@ -182,6 +182,7 @@ head:
 - [`@ksh4704` / TypeScript 공부(7)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%807)
 - [`@ksh4704` / TypeScript 공부(8)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%808)
 - [`@ksh4704` / TypeScript 공부(9)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%809)
+- [`@pandati0710` / 구글의 구조화된 데이터로 검색순위 높이기](https://velog.io/@pandati0710/%EA%B5%AC%EA%B8%80%EC%9D%98-%EA%B5%AC%EC%A1%B0%ED%99%94%EB%90%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EA%B2%80%EC%83%89%EC%88%9C%EC%9C%84-%EB%86%92%EC%9D%B4%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -614,6 +615,12 @@ head:
 ## Maeng's Blog
 
 - [`typeRoots` vs `include`](https://maeng2418.github.io/markdowns/typescript/typeDefinition/)
+
+---
+
+## Ykss
+
+- [(번역) 좋은 리팩터링 vs 나쁜 리팩터링](https://ykss.netlify.app/translation/good_refactoring_vs_bad_refactoring/)
 
 ---
 

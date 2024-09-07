@@ -50,6 +50,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@euisuk-chung` / \[Pandas\] 실무에서 쓰려고 정리해둔 Code Snippet](https://velog.io/@euisuk-chung/Pandas-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EC%93%B0%EB%A0%A4%EA%B3%A0-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%91%94-Code-Snippet)
+
+<!-- END: velog.io -->
+
+---
+
 ## Brunch
 
 - [`@yysttong` / Polars #08](https://brunch.co.kr/@yysttong/129)

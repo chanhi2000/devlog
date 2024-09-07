@@ -4765,5 +4765,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/118109979?v=4",
     "banner": ""
+  }, {
+    "repo": "appsmithorg/appsmith",
+    "desc": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+    "officialSite": "https://www.appsmith.com",
+    "topics": ["admin-dashboard", "admin-panels", "app-builder", "automation", "crud", "custom-internal", "developer-tools", "gui", "gui-application", "hacktoberfest", "internal-tools", "java", "javascript", "low-code", "low-code-framework", "react", "self-hosted", "typescript", "webdevelopment", "workflows"],
+    "avatar": "https://avatars.githubusercontent.com/u/67620218?v=4",
+    "banner": ""
+  }, {
+    "repo": "Stanko/pulsar",
+    "desc": "Micro creative coding playground",
+    "officialSite": "https://muffinman.io/pulsar/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/776788?v=4",
+    "banner": ""
+  }, {
+    "repo": "afadil/wealthfolio",
+    "desc": "A Beautiful Private and Secure Desktop Investment Tracking Application",
+    "officialSite": "https://wealthfolio.app",
+    "topics": ["macos-app", "portfolio-tracker", "tauri-app"],
+    "avatar": "https://avatars.githubusercontent.com/u/8382496?v=4",
+    "banner": ""
   }
 ]

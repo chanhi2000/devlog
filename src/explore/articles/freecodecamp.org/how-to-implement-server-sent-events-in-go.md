@@ -186,7 +186,7 @@ On the front end or client side, you will have to use the [<FontIcon icon="fa-br
 <!DOCTYPE html>
 <html>
     <body>
-        <ul id="list"></ul>
+        <ul id="list">
     </body>
 
     <script type="text/javascript">

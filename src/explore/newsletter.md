@@ -68,6 +68,13 @@ head:
   preview="https://until.blog/og.png"/>
 
 <SiteInfo
+  name="데브허브 | DEVHUB | 최신 개발 트렌드"
+  desc="최신 개발 트렌드는 데브허브"
+  url="https://devhub-ko.vercel.app/"
+  logo="https://devhub-ko.vercel.app/favicon.ico"
+  preview="https://devhub-ko.vercel.app/logos/devhub-high-resolution-logo.png"/>
+
+<SiteInfo
   name="메일리"
   desc="메일러를 위한 뉴스레터 플랫폼"
   url="https://maily.so/"
@@ -1545,6 +1552,13 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://devocean.sk.com/resource/images/external/logo/logo_favicon.ico"
   preview="https://devocean.sk.com/resource/images/external/logo/devocean-og.png"/>
 
+<SiteInfo
+  name="폴시랩"
+  desc="자바스트립트, PHP, 워드프레스, HTML, CSS, 팁, 가이드, 일상이야기."
+  url="https://falsy.me/"
+  logo="https://falsy.me/wp-content/themes/Cheolguso/img/favicon_v4.ico"
+  preview="https://falsy.me/wp-content/uploads/2020/07/falsylab.jpg"/>
+  
 <!-- END: Tech Blog (Korea) -->
 
 @tab App(s)

@@ -487,4 +487,10 @@ tag:
 
 ---
 
+## I Am Dan
+
+- [Better Dotfiles](https://iamdan.me/better-dotfiles)
+
+---
+
 <TagLinks />

@@ -3369,6 +3369,7 @@ export const sidebarEn = sidebar({
           children: [
             '/ai/llama/articles/README.md',
             asb.freecodecamp("llama"),
+            asb.yozm("llama"),
           ]
         }
       ]

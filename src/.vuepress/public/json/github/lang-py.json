@@ -7819,5 +7819,19 @@
     "topics": ["agents", "graph", "llms", "rag"],
     "avatar": "https://avatars.githubusercontent.com/u/132832125?v=4",
     "banner": ""
+  }, {
+    "repo": "deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "officialSite": "https://www.faceswap.dev",
+    "topics": ["deep-face-swap", "deep-learning", "deep-neural-networks", "deepface", "deepfakes", "deeplearning", "face-swap", "faceswap", "fakeapp", "machine-learning", "myfakeapp", "neural-nets", "neural-networks", "openfaceswap"],
+    "avatar": "https://avatars.githubusercontent.com/u/34667098?v=4",
+    "banner": ""
+  }, {
+    "repo": "polarsource/polar",
+    "desc": "An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.",
+    "officialSite": "https://polar.sh",
+    "topics": ["blog", "fastapi", "funding", "github-app", "nextjs", "polar", "python", "react", "sponsor", "stripe", "subscriptions", "tailwindcss", "turborepo", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/105373340?v=4",
+    "banner": ""
   }
 ]

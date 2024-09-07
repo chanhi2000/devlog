@@ -664,5 +664,12 @@
     "topics": ["colima", "docker", "docker-desktop", "lima", "linux", "mac", "macos", "utm", "virtual-machine"],
     "avatar": "https://avatars.githubusercontent.com/u/125163402?v=4",
     "banner": ""
+  }, {
+    "repo": "etcd-io/etcd",
+    "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "officialSite": "https://etcd.io",
+    "topics": ["cncf", "consensus", "database", "distributed-database", "distributed-systems", "etcd", "go", "key-value", "kubernetes", "raft"],
+    "avatar": "https://avatars.githubusercontent.com/u/41972792?v=4",
+    "banner": ""
   }
 ]

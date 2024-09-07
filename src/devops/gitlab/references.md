@@ -57,6 +57,9 @@ tag:
   - [GitLab - git 명령어로 커밋 기록 삭제 (git : clear commits history)](https://aspdotnet.tistory.com/m/3232)
   - [GitLab : ASP.NET CORE 8 - .gitlab-ci.yml 내부 설명 - CI/CD](https://aspdotnet.tistory.com/m/3247)
   <!-- END: aspdotnet -->
+- [`1minute-before6pm` / Back to basics](https://1minute-before6pm.tistory.com/m/)
+  - [GitLab CI 특정 브랜치에서만 파이프라인 실행 (workflow)](https://1minute-before6pm.tistory.com/m/80)
+  <!-- END: 1minute-before6pm -->
 <!-- END: tistory.com -->
 
 ---

@@ -250,6 +250,8 @@ head:
 - [클립보드에 텍스트가 복사되면 자동으로 가져오기 - Step 2](https://m.blog.naver.com/tipsware/223570013654)
 - [\[Q&A\] 줄 바꿈 문자 기준으로 문자열을 나누고 싶습니다.](https://m.blog.naver.com/tipsware/223570096600)
 - [전등 이미지 on/off 예제 - Step 1](https://m.blog.naver.com/tipsware/223572107041)
+- [전등 이미지 on/off 예제 - Step 2 (비트 연산자 사용)](https://m.blog.naver.com/tipsware/223572177612)
+- [\[실습과제\] 색을 밝기 단계로 나누어 출력하기](https://m.blog.naver.com/tipsware/223575076337)
 
 <!-- END: tipsware.blog.naver.com -->
 
@@ -486,6 +488,12 @@ head:
 ## transactional.blog
 
 - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
+
+---
+
+## Marius Bancila's Blog
+
+- [What’s new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
 
 ---
 

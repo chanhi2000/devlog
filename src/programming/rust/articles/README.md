@@ -99,6 +99,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What are Lifetimes in Rust? Explained with Code Examples",
+  "desc": "Lifetimes are fundamental mechanisms in Rust. There's a very high chance you'll need to work with lifetimes in any Rust project that has any sort of complexity. Even though they are important to Rust projects, lifetimes can be quite tricky to wrap yo...",
+  "link": "/explore/articles/freecodecamp.org/what-are-lifetimes-in-rust-explained-with-code-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

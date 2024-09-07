@@ -314,5 +314,12 @@
     "topics": ["react", "react-applications", "react-architecture", "react-best-practices", "react-typescript", "reactjs"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "weinberg/SQLToy",
+    "desc": "Learn SQL by creating a SQL database in JavaScript",
+    "officialSite": "",
+    "topics": ["database", "educational-project", "javascript", "sql"],
+    "avatar": "https://avatars.githubusercontent.com/u/1189473?v=4",
+    "banner": ""
   }
 ]

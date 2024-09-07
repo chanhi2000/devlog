@@ -337,7 +337,24 @@ head:
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)
   <!-- END: backend-jaamong -->
-<!-- END: tistory.com -->
+- [`cla9` / 북극 펭귄](https://cla9.tistory.com/m/)
+  - [Spring Boot Excel 업로드 라이브러리 개발기](https://cla9.tistory.com/m/118)
+  <!-- END: cla9 -->
+- [`sunghs` / 개발노트](https://sunghs.tistory.com/m/)
+  - [[Spring redis] value 에 큰 따옴표 (double quote) 한번 더 들어가는 문제](https://sunghs.tistory.com/m/159)
+  <!-- END: sunghs -->
+- [`tobyepril` / Toby's Epril](https://tobyepril.tistory.com/m/)
+  - [테스트가 관리하는 트랜잭션 - 향로 님의 `@Transactional` 글을 읽고](https://tobyepril.tistory.com/m/8)
+  <!-- END: tobyepril -->
+- [`moonsiri` / Just try it!](https://moonsiri.tistory.com/m/)
+  - [Spring MVC의 PathPattern (`AntPathMatcher`, `PathPatternParser`)](https://moonsiri.tistory.com/m/203)
+  - [JJWT 0.11.2 에서 0.12.5 버전 마이그레이션](https://moonsiri.tistory.com/m/206)
+  <!-- END: moonsiri -->
+- [`jakpentest` / 뭐라도 해야 한다면 기록을..](https://jakpentest.tistory.com/m/)
+  - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter02\] - VO,DTO, DAO, SO](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter02-VODTO-DAO-SO)
+  - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter03\] - 덕 타이핑,인터페이스,행동과역할,메서드와함수](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter03-%EB%8D%95-%ED%83%80%EC%9D%B4%ED%95%91%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%96%89%EB%8F%99%EA%B3%BC%EC%97%AD%ED%95%A0%EB%A9%94%EC%84%9C%EB%93%9C%EC%99%80%ED%95%A8%EC%88%98)
+  <!-- END: jakpentest -->
+<!-- END: tistory.com java -->
 
 ### 비탐인
 
@@ -363,21 +380,9 @@ head:
 - [JCP(Java Community Process)/JSRs(Java Specification Requests)](https://junhyunny.github.io/java/java-community-process-and-java-specification-requests/)
 - [Is Chrome's default SameSite policy safe against CSRF?](https://junhyunny.github.io/spring-boot/spring-security/security/is-chrome-samesite-policy-safe-against-csrf/)
 
-### 북극 펭귄
-
-- [Spring Boot Excel 업로드 라이브러리 개발기](https://cla9.tistory.com/118)
-
 ### 기록은 기억을 지배한다
 
 - [쿠폰 재고의 설계 및 개발](https://pkgonan.github.io/2020/04/stock)
-
-### 개발노트
-
-- [[Spring redis] value 에 큰 따옴표 (double quote) 한번 더 들어가는 문제](https://sunghs.tistory.com/159)
-
-### Toby's Epril
-
-- [테스트가 관리하는 트랜잭션 - 향로 님의 `@Transactional` 글을 읽고](https://tobyepril.tistory.com/8)
 
 ### DEVOCEAN
 
@@ -386,11 +391,6 @@ head:
 ### Hong's Store House
 
 - [[JAVA] `SynchronizedList` vs `CopyOnWriteArrayList`](https://asuraiv.blogspot.com/2020/02/java-synchronizedlist-vs.html)
-
-### Just try it!
-
-- [Spring MVC의 PathPattern (`AntPathMatcher`, `PathPatternParser`)](https://moonsiri.tistory.com/203)
-- [JJWT 0.11.2 에서 0.12.5 버전 마이그레이션](https://moonsiri.tistory.com/m/206)
 
 ### 한정수 Jeongsu Han
 
@@ -415,6 +415,7 @@ head:
 - [\[내일배움캠프 56일차 TIL\] 마지막 개인과제 제출](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-56%EC%9D%BC%EC%B0%A8-TIL-%EB%A7%88%EC%A7%80%EB%A7%89-%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EC%A0%9C%EC%B6%9C)
 - [\[내일배움캠프 57일차 TIL\] security 유효성 검사에서 403 error](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-57%EC%9D%BC%EC%B0%A8-TIL-security-%EC%9C%A0%ED%9A%A8%EC%84%B1-%EA%B2%80%EC%82%AC%EC%97%90%EC%84%9C-403-error)
 - [\[내일배움캠프 58일차 TIL\] QueryDSL](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-58%EC%9D%BC%EC%B0%A8-TIL-QueryDSL)
+- [\[TIL\] 나는 왜 Java Spring Boot를 사용했을까?](https://moonnight0.tistory.com/m/entry/TIL-%EB%82%98%EB%8A%94-%EC%99%9C-Java-Spring-Boot%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%96%88%EC%9D%84%EA%B9%8C)
 
 ### Hide
 
@@ -557,11 +558,6 @@ head:
 
 - [Spring WebSocket 예외 처리 - `@MessageExceptionHandler`, `StompSubProtocolErrorHandler`](https://shout-to-my-mae.tistory.com/m/434)
 
-### 개발하는 자몽
-
-- [\[Spring Security\] 예외 처리하기](https://backend-jaamong.tistory.com/m/169)
-- [\[Spring Boot / Error\] Required request body is missing](https://backend-jaamong.tistory.com/m/173)
-
 ### 얇고 넓은 개발 블로그
 
 - [Transactional의 Self Injection이 올바른가](https://sundries-in-myidea.tistory.com/m/167)
@@ -669,9 +665,17 @@ head:
 - [Spring 레플리케이션 트랜잭션 처리 방식](https://cheese10yun.github.io/spring-transaction)
 - [Resilience4j를 이용한 서킷 브레이커 기초](https://cheese10yun.github.io/resilience4j-basic)
 
-### 연로그
+### tistory
 
-- [\[Reactor\] 서버 느리게 만드는 API 개발하기 (feat: block)](https://yeonyeon.tistory.com/m/330)
+- [`yeonyeon` / 연로그](https://yeonyeon.tistory.com/m/)
+  - [\[Reactor\] 서버 느리게 만드는 API 개발하기 (feat: block)](https://yeonyeon.tistory.com/m/330)
+  <!-- END: yeonyeon -->
+- [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
+  - [\[Spring Security\] 예외 처리하기](https://backend-jaamong.tistory.com/m/169)
+  - [\[Spring Boot / Error\] Required request body is missing](https://backend-jaamong.tistory.com/m/173)
+  - [\[Gradle\] gradle build와 gradle bootJar의 차이](https://backend-jaamong.tistory.com/m/176)
+  <!-- END: backend-jaamong -->
+<!-- END: tistory.com -->
 
 ### suhwan.dev
 

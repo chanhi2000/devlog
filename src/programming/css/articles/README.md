@@ -212,6 +212,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use HTML Attributes to Make Your Websites and Apps More Accessible",
+  "desc": "Have you ever used an attribute in HTML without fully understanding its purpose? You're not alone! Over time, I've dug into the meaning behind many HTML attributes, especially those that are crucial for accessibility. In this in-depth tutorial, I'll ...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

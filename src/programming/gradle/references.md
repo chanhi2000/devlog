@@ -67,9 +67,14 @@ head:
 
 ---
 
-## 사각사각
+## tistory
 
-- [[Gradle] war 실행 시 Exploded war 생성하기 (Groovy, Kotlin DSL)](https://jolly-sally.tistory.com/63)
+- [`jolly-sally` / 사각사각](https://jolly-sally.tistory.com/m/)
+  - [[Gradle] war 실행 시 Exploded war 생성하기 (Groovy, Kotlin DSL)](https://jolly-sally.tistory.com/m/63)
+- [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
+  - [\[Gradle\] gradle build와 gradle bootJar의 차이](https://backend-jaamong.tistory.com/m/176)
+  <!-- END: backend-jaamong -->
+<!-- END: tistory.com -->
 
 ---
 

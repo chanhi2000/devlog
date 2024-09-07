@@ -175,6 +175,7 @@ export const template: SidebarInfoTemplate = {
       "build-a-bitcoin-to-usd-calculator", // 2024-07-22
       "what-is-css-subgrid", // 2024-08-21
       "how-to-build-an-accessible-modal-with-example-code", // 2024-08-27
+      "how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible", // 2024-09-06
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
@@ -246,6 +247,7 @@ export const template: SidebarInfoTemplate = {
       "build-and-deploy-smart-contract-rust-gear-protocol", // 2024-06-04
       "how-asynchronous-programming-works-in-rust", // 2024-08-15
       "how-to-blend-images-in-rust-using-pixel-math", // 2024-08-27
+      "what-are-lifetimes-in-rust-explained-with-code-examples", // 2024-09-06
     ]],[
     "go", [
       "how-to-handle-concurrency-in-go", // 2024-05-10
@@ -735,6 +737,8 @@ export const template: SidebarInfoTemplate = {
       "what-is-speedy-web-compiler", // 2024-09-05
       "how-to-manage-your-open-source-project-with-github", // 2024-09-05
       "what-is-cache-poisoning-and-how-to-avoid-it", // 2024-09-05
+      "what-are-lifetimes-in-rust-explained-with-code-examples", // 2024-09-06
+      "how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible", // 2024-09-06
     ]],
   ]),
 }

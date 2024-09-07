@@ -139,5 +139,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/22263782?v=4",
     "banner": ""
+  }, {
+    "repo": "SimplifyJobs/New-Grad-Positions",
+    "desc": "A collection of full time roles in SWE, Quant, and PM for new grads.",
+    "officialSite": "https://swelist.com/",
+    "topics": ["applications", "coderquad", "college", "fulltime", "hacktoberfest", "jobs", "newgrad", "position", "posting", "university"],
+    "avatar": "https://avatars.githubusercontent.com/u/63759855?v=4",
+    "banner": ""
   }
 ]

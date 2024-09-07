@@ -272,6 +272,12 @@ tag:
 
 ---
 
+## Microsoft Activation Scripts (MAS) | MAS
+
+- [Keyhole](https://massgrave.dev/blog/keyhole)
+
+---
+
 ## Misc
 
 - [DiskClick](https://deervo.itch.io/diskclick)

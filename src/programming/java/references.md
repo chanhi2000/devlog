@@ -225,6 +225,8 @@ tag:
   - [[Test] `static` 블록 vs `@BeforeClass`](https://shout-to-my-mae.tistory.com/413)
   - [Java가 확장한 객체 지향 (`abstract`, 생성자, `static`, `final`, `this`, `super`)](https://shout-to-my-mae.tistory.com/414)
   - [스프링 삼각형 : IoC(제어의 역전) / DI(의존성 주입)](https://shout-to-my-mae.tistory.com/425)
+  - [\[4주차\] 프로세스 동기화, 교착 상태](https://shout-to-my-mae.tistory.com/m/441)
+  <!-- END: shout-to-my-mae -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[백준\] 2018번: 수들의 합 5 - java](https://findsilverlining.tistory.com/m/97)
   - [\[백준\] 1546번: 평균 - java](https://findsilverlining.tistory.com/m/96)
@@ -774,6 +776,7 @@ tag:
 - [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [`@stella6767` / HTMX TIP](https://velog.io/@stella6767/HTMX-TIP)
 - [`@thd0427` / Route는 왜 직렬화가 가능해야 할까?](https://velog.io/@thd0427/Route%EB%8A%94-%EC%99%9C-%EC%A7%81%EB%A0%AC%ED%99%94%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
+- [`@jeong_hun_hui` / \[설문이용\] 설문 클래스를 어떻게 설계해야할까? (feat. DDD, TDD)](https://velog.io/@jeong_hun_hui/%EC%84%A4%EB%AC%B8%EC%9D%B4%EC%9A%A9-%EC%84%A4%EB%AC%B8-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-feat.-DDD-TDD)
 
 <!-- END: velog.io kotlin -->
 
@@ -791,6 +794,16 @@ tag:
   - [인프런 - 코틀린 고급편 (4) 연산자 오버로딩 & DSL](https://jinn-blog.tistory.com/m/170)
   - [코틀린 고급편 - 어노테이션 & 리플렉션 활용](https://jinn-blog.tistory.com/m/173)
   - [kotlin - coroutine (1) 코루틴의 기초 개념](https://jinn-blog.tistory.com/m/191)
+  - [kotlin - coroutine (2) 코루틴 스코프 및 컨텍스트](https://jinn-blog.tistory.com/m/192)
+  - [kotlin - coroutine (3) 코루틴의 동작 원리 및 구조화된 동시성 (Structured Concurrency)](https://jinn-blog.tistory.com/m/193)
+  - [kotlin - coroutine (4) 비동기 흐름 제어: `suspend` 함수와 `withContext`](https://jinn-blog.tistory.com/m/194)
+  - [kotlin - coroutine (5) 코루틴 채널(Channels) 및 흐름(Flow)](https://jinn-blog.tistory.com/m/195)
+  - [kotlin - coroutine (6) 코루틴 취소 및 타임아웃](https://jinn-blog.tistory.com/m/196)
+  - [kotlin - coroutine (7) 실제 프로젝트 적용 예제](https://jinn-blog.tistory.com/m/197)
+  - [kotlin - coroutine (부록1) launch VS coroutineScope](https://jinn-blog.tistory.com/m/198)
+  - [kotlin - coroutine (부록2) Channel과 Flow의 사용 예시](https://jinn-blog.tistory.com/m/199)
+  - [kotlin - coroutine (부록3) Stream VS Flow](https://jinn-blog.tistory.com/m/200)
+  - [kotlin - coroutine (부록4) Flow](https://jinn-blog.tistory.com/m/201)
   <!-- END: jinn-blog -->
 <!-- END: tistory.com kotiln -->
 

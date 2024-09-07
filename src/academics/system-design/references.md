@@ -295,6 +295,8 @@ head:
 - [`@2fEJ` / \[사용성 #2\] 사용성 테스트 과제 시나리오 작성 방법](https://brunch.co.kr/@@2fEJ/1473)
 - [`@2fEJ` / \[UI/UX 원칙#8\] 버튼 UI 디자인의 스타일 진화](https://brunch.co.kr/@@2fEJ/1474)
 - [`@2fEJ` / \[UX리서치#3\]UX 리서치의 중요성과 인사이트 발굴](https://brunch.co.kr/@@2fEJ/1475)
+- [`@2fEJ` / \[UI/UX 원칙#9\]폼(Forms) 디자인 14가지](https://brunch.co.kr/@@2fEJ/1476)
+- [`@2fEJ` / \[UI/UX 원칙#10\] 랜딩 페이지의 10가지 팁](https://brunch.co.kr/@@2fEJ/1477)
 
 <!-- END: brunch.co.kr -->
 
@@ -389,6 +391,9 @@ head:
   - [hELLO TYPOGRAPHY 를 소개합니다.](https://pronist.tistory.com/m/194)
   - [hELLO 티스토리 스킨을 소개합니다.](https://pronist.tistory.com/m/5)
   <!-- END: pronist   -->
+- [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
+  - [\[CS\] DB - 트랜잭션과 격리성](https://findsilverlining.tistory.com/m/131)
+  <!-- END: findsilverlining -->
 <!-- END: tistory.com -->
 
 ---
@@ -804,4 +809,11 @@ head:
 - [How we run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
 
 ---
+
+## 폴시랩
+
+- [객체 지향 프로그래밍(OOP)과 객체 지향 프로그래밍 설계의 5가지 원칙 SOLID에 대해 알아보자](https://falsy.me/%ea%b0%9d%ec%b2%b4-%ec%a7%80%ed%96%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8doop%ea%b3%bc-%ea%b0%9d%ec%b2%b4-%ec%a7%80%ed%96%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ec%84%a4/)
+
+---
+
 <TagLinks />

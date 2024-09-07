@@ -1728,5 +1728,12 @@
     "topics": ["apache-kafka", "c", "c-plus-plus", "consumer", "high-performance", "kafka", "kafka-consumer", "kafka-producer", "librdkafka"],
     "avatar": "https://avatars.githubusercontent.com/u/9439498?v=4",
     "banner": ""
+  }, {
+    "repo": "bjornbytes/lovr",
+    "desc": "Lua Virtual Reality Framework",
+    "officialSite": "https://lovr.org",
+    "topics": ["game-engine", "gamedev", "lovr", "lua", "oculus", "oculus-quest", "openvr", "openxr", "virtual-reality", "vr"],
+    "avatar": "https://avatars.githubusercontent.com/u/784805?v=4",
+    "banner": ""
   }
 ]

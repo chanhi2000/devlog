@@ -50,7 +50,7 @@ head:
 ```component VPCard
 {
   "title": "How to calculate the Manhattan distance between two CGPoints",
-  "desc": "Manhattan distance is the distance between two integer points when you are unable to move diagonally. It's named "Manhattan distance" because of the grid-like layout of New York: whether you go four streets up then five streets across, or five streets across then four streets up, or you zig zag to and fro, the actual end distance is identical because you're just moving across a grid....",
+  "desc": "Manhattan distance is the distance between two integer points when you are unable to move diagonally. It's named 'Manhattan distance' because of the grid-like layout of New York: whether you go four streets up then five streets across, or five streets across then four streets up, or you zig zag to and fro, the actual end distance is identical because you're just moving across a grid....",
   "link": "/explore/articles/hackingwithswift.com/example-code/core-graphics/how-to-calculate-the-manhattan-distance-between-two-cgpoints.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"

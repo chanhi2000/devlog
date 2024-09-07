@@ -149,6 +149,7 @@ tag:
 - [`@composite` / SI는 말이야.](https://velog.io/@composite/SI%EB%8A%94-%EB%A7%90%EC%9D%B4%EC%95%BC)
 - [`@prayme` / 이직 고민기](https://velog.io/@prayme/%EC%9D%B4%EC%A7%81-%EA%B3%A0%EB%AF%BC%EA%B8%B0)
 - [`@jaehyun_ground` / 첫 면접을 다녀오고](https://velog.io/@jaehyun_ground/%EC%B2%AB-%EB%A9%B4%EC%A0%91%EC%9D%84-%EB%8B%A4%EB%85%80%EC%98%A4%EA%B3%A0)
+- [`@kwonhl0211` / 컴공, 디자인 취준생 분들에게 하고 싶은 말](https://velog.io/@kwonhl0211/%EC%BB%B4%EA%B3%B5-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B7%A8%EC%A4%80%EC%83%9D-%EB%B6%84%EB%93%A4%EC%97%90%EA%B2%8C-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%90)
 
 <!-- END: velog.io -->
 
@@ -468,6 +469,9 @@ tag:
 - [`bcho` / 조대협의 블로그](http://bcho.tistory.com/m/)
   - [GTM 전략의 이해](http://bcho.tistory.com/m/1438)
   <!-- END: bcho -->
+- [`dev-ws` / 테오의 학습기록](https://dev-ws.tistory.com/m/)
+  - [LG CNS Software Engineer 인턴 및 최종 전환 회고](https://dev-ws.tistory.com/m/126)
+  <!-- END: dev-ws -->
 <!-- END: tistory.com -->
 
 ---

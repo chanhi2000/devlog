@@ -258,21 +258,21 @@
     "topics": [],
     "avatar": "",
     "banner": ""
-  } ,{
+  }, {
     "repo": "macrozheng/mall",
     "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
     "officialSite": "https://www.macrozheng.com/admin",
     "topics": [],
     "avatar": "",
     "banner": ""
-  } ,{
+  }, {
     "repo": "dataease/dataease",
-    "desc": "人人可用的开源数据可视化分析工具。",
-    "officialSite": "https://dataease.io",
-    "topics": [],
-    "avatar": "",
+    "desc": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
+    "officialSite": "https://dataease.io/",
+    "topics": ["apache-doris", "business-intelligence", "data-analysis", "data-visualization", "echarts", "kettle", "superset", "tableau"],
+    "avatar": "https://avatars.githubusercontent.com/u/75054108?v=4",
     "banner": ""
-  } ,{
+  }, {
     "repo": "jbake-org/jbake",
     "desc": "Java based open source static site/blog generator for developers & designers.",
     "officialSite": "http://jbake.org",
