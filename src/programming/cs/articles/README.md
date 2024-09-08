@@ -136,6 +136,96 @@ head:
 
 ```component VPCard
 {
+  "title": "How I Optimized an API Endpoint to Make It 15x Faster",
+  "desc": "Performance optimizations are my favorite thing about software engineering. Over the last 5 years, I've encountered various performance problems that taught me different ways to overcome them.",
+  "link": "/explore/articles/milanjovanovic.tech/how-i-optimized-an-api-endpoint-to-make-it-15x-faster.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Introduction To Locking And Concurrency Control in .NET 6",
+  "desc": "In this week's newsletter, we'll see how we can work with locking in .NET 6. We won't talk about how the lock is actually implemented at the operating system level. We will focus on application-level locking mechanisms instead. Locking allows us to control how many threads can access some piece of code. Why would you want to do this?",
+  "link": "/explore/articles/milanjovanovic.tech/introduction-to-locking-and-concurrency-control-in-dotnet-6.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Use Global Query Filters in EF Core",
+  "desc": "In this week's newsletter, I'll show you how you can remove repetitive conditions in EF Core database queries. An example would be when you implement soft-delete, and have to check if a record was soft-deleted or not in every query. Also, it is practical if you're working in a multi-tenant system and need to specify a tenantId on every query. EF Core has a powerful feature called Query Filters that can help you remove repetitive conditions from your code.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-use-global-query-filters-in-ef-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "5 Ways To Check For Duplicates In Collections, With Benchmarks",
+  "desc": "In this week's newsletter, we will take a look at five different ways to check if a collection contains duplicates. I'm going to explain the idea behind each algorithm, discuss the algorithm complexity (Big O Notation), and at the end, we'll look at some benchmark results.",
+  "link": "/explore/articles/milanjovanovic.tech/5-ways-to-check-for-duplicates-in-collections.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "What's New In .NET 7?",
+  "desc": "In this week's newsletter I want to highlight a few interesting things that are now available with the release of C# 11 and .NET 7. In case you missed it, .NET 7 was released November 8th.",
+  "link": "/explore/articles/milanjovanovic.tech/whats-new-in-dotnet-7.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Use The Options Pattern In ASP.NET Core 7",
+  "desc": "In this week's newsletter I want to show you how you can use the powerful Options pattern in ASP.NET Core 7. The options pattern uses classes to provide strongly typed settings in your application at runtime. The values for the options instance can come from multiple sources. The typical use case is to provide the settings from application configuration.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-use-the-options-pattern-in-asp-net-core-7.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Use The New Bulk Update Feature In EF Core 7",
+  "desc": "In this week's newsletter, we're going to explore the new ExecuteUpdate and ExecuteDelete methods that were released with EF7. ExecuteUpdate allows us to write a query and run a bulk update operation on the entities matching that query. Similarly, ExecuteDelete allows us to write a query and delete the entities matching that query. We can significantly improve performance using the new methods in some scenarios, and I'm going to show you what those scenarios are.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-use-the-new-bulk-update-feature-in-ef-core-7.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Running Background Tasks In ASP.NET Core",
+  "desc": "In this week's newsletter we will talk about running background tasks in ASP .NET Core. After reading this newsletter, you will be able to set up a background task and have it up and running within minutes. Background tasks are used to offload some work in your application to the background, outside of the normal application flow. A typical example can be asynchronously processing messages from a queue. I will show you how to create a simple background task that runs once and completes. And you will also see how to configure a continuous background task, that repeats after a specific period.",
+  "link": "/explore/articles/milanjovanovic.tech/running-background-tasks-in-asp-net-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Structure Minimal APIs",
+  "desc": "Minimal APIs were introduced to remove some of the ceremony of creating traditional APIs with controllers. To define an endpoint, you can use the new extension methods the were introduced such as MapGet to define a GET endpoint. I see one big issue with Minimal APIs, and that is the lack of clear guidance around how to structure applications built with Minimal APIs. In this newsletter, I want to offer a few solutions for that problem.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-structure-minimal-apis.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Fast Document Database In .NET With Marten",
   "desc": "Did you know you can turn PostgreSQL into a fully-fledged Document database? Marten is a .NET library that allows developers to use the PostgreSQL database as both a document database and a fully-featured event store. You don't need to install anything else to be able to use PostgreSQL as a document database, outside of the Nuget pacakge. Marten relies on the JSONB support available since PostgreSQL 9.4. In this week's newsletter, I want to introduce you to the basics of working with Marten and show you how easy it is to get started.",
   "link": "/explore/articles/milanjovanovic.tech/fast-document-database-in-net-with-marten.md",

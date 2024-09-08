@@ -1381,4 +1381,12 @@ tag:
 
 ---
 
+## Max Böck
+
+- [Going Buildless](https://mxb.dev/blog/buildless/)
+
+<!-- END: mxb.dev -->
+
+---
+
 <TagLinks />

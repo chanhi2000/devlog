@@ -600,5 +600,12 @@
     "topics": ["codegen", "compiler", "copies", "copy", "deep", "deep-copies", "deep-copy", "gradle", "k2", "kotlin", "plugin", "runtime"],
     "avatar": "https://avatars.githubusercontent.com/u/7463564?v=4",
     "banner": ""
+  }, {
+    "repo": "j-roskopf/KotlinWarningBaselineGenerator",
+    "desc": "A Gradle plugin to generate baselines for Kotlin warnings",
+    "officialSite": "",
+    "topics": ["baselines", "generators", "kotlin", "warning"],
+    "avatar": "https://avatars.githubusercontent.com/u/7951665?v=4",
+    "banner": ""
   }
 ]

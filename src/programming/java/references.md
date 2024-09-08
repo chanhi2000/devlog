@@ -259,6 +259,9 @@ tag:
   - [\[Java\] Generic Type erasure / 제네릭 타입 소거](https://splendidlolli.tistory.com/m/758)
   - [\[Java\] `ObjectMapper`에 `TypeReference`를 사용할 때](https://splendidlolli.tistory.com/m/759)
   <!-- END: splendidlolli -->
+- [`zzang9ha` / 🐔](https://zzang9ha.tistory.com/m/)
+  - [Modern Java: An In-Depth Guide from Java 8 to Java 21](https://zzang9ha.tistory.com/m/462)
+  <!-- END: zzang9ha -->
 <!-- END: tistory.com -->
 
 ### EastGlow

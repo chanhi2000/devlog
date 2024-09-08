@@ -47,9 +47,15 @@ tag:
 
 ---
 
-## 꿈잡이 소굴
+## tistory
 
-- [리눅스 컨버팅 오류 : `convert-im6.q16: not authorized `filename.pdf' @ error/constitute.c/ReadImage/412`](https://bedreams.tistory.com/97)
+- [`bedreams` / 꿈잡이 소굴](https://bedreams.tistory.com/m/)
+  - [리눅스 컨버팅 오류 : `convert-im6.q16: not authorized `filename.pdf' @ error/constitute.c/ReadImage/412`](https://bedreams.tistory.com/m/97)
+  <!-- END: bedreams -->
+- [`takeu` / takeU](https://takeu.tistory.com/m/)
+  - [1. 우분투 설치](https://takeu.tistory.com/m/394)
+  <!-- END: takeu -->
+<!-- END: tistory.com -->
 
 ---
 

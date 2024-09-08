@@ -1735,5 +1735,12 @@
     "topics": ["game-engine", "gamedev", "lovr", "lua", "oculus", "oculus-quest", "openvr", "openxr", "virtual-reality", "vr"],
     "avatar": "https://avatars.githubusercontent.com/u/784805?v=4",
     "banner": ""
+  }, {
+    "repo": "LuaJIT/LuaJIT",
+    "desc": "Mirror of the LuaJIT git repository",
+    "officialSite": "http://luajit.org",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/11773774?v=4",
+    "banner": ""
   }
 ]

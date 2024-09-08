@@ -29,4 +29,10 @@ head:
 
 ---
 
+## Chris Siebenmann
+
+- [Using rsync to create a limited ability to write remote files](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncForLimitedRemoteWrite)
+
+---
+
 <TagLinks />

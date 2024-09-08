@@ -7400,6 +7400,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
     "banner": ""
   }, {
+    "repo": "OpenBMB/MiniCPM",
+    "desc": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
+    "banner": ""
+  }, {
     "repo": "karpathy/nano-llama31",
     "desc": "nanoGPT style version of Llama 3.1",
     "officialSite": "",

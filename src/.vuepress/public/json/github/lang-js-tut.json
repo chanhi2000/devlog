@@ -321,5 +321,12 @@
     "topics": ["database", "educational-project", "javascript", "sql"],
     "avatar": "https://avatars.githubusercontent.com/u/1189473?v=4",
     "banner": ""
+  }, {
+    "repo": "TheOdinProject/curriculum",
+    "desc": "The open curriculum for learning web development",
+    "officialSite": "https://www.theodinproject.com/",
+    "topics": ["css", "curriculum", "hacktoberfest", "html", "javascript", "lessons", "node", "nodejs", "ruby", "ruby-on-rails", "students"],
+    "avatar": "https://avatars.githubusercontent.com/u/4441966?v=4",
+    "banner": ""
   }
 ]

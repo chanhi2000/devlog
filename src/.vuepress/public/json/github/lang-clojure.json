@@ -76,5 +76,12 @@
     "topics": ["babashka", "bash", "clojure", "graalvm", "scripting", "shell-scripting"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "damn/core",
+    "desc": "Experiment - can videogame development be simple?",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/842388?v=4",
+    "banner": ""
   }
 ]

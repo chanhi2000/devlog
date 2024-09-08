@@ -213,6 +213,7 @@ head:
 - [`codingconfessions` / Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 - [`bitecode` / What's up Python? Setuptools breaks, a better PDB, cPython on CalVer...](https://www.bitecode.dev/p/whats-up-python-setuptools-breaks)
 - [`victortao` / Song Pong](https://victortao.substack.com/p/song-pong)
+- [`conspirator0` / Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 
 <!-- END: substack.com -->
 
@@ -800,6 +801,7 @@ head:
   - [시간 복잡도와 빅오 표기법](https://isn-t.tistory.com/m/60)
   - [데이터 타입, 앱실론, 함수, 람다표현식](https://isn-t.tistory.com/m/61)
   - [배열](https://isn-t.tistory.com/m/62)
+  - [스택(stack)](https://isn-t.tistory.com/m/63)
   <!-- END: isn-t -->
 - [`potwings` / 블로그 이름 뭐하지??](https://potwings.tistory.com/m/)
   - [텍스트 전처리(1) - 토큰화, 정제, 정규화](https://potwings.tistory.com/m/67)

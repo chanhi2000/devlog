@@ -527,6 +527,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 ## Log on Me
 
 - [\[KANS\] 3기 1주 – 컨테이너 격리 & 네트워크 및 보안](https://logonme.net/activities/etc/kans_3_1/)
+- [\[KANS\] 3기 2주 – K8S Flannel CNI & Pause 컨테이너](https://logonme.net/activities/kans_3_2/)
 
 ---
 

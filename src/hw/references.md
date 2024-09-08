@@ -50,10 +50,16 @@ head:
 
 ---
 
-## Linux Programmer
+## tistory
 
-- [인텔 N100 미니PC (SZBOX W6)](https://sunyzero.tistory.com/295)
-- [M.2 NVMe Enclosure - USB4 외장 인클로저 Maiwo K1625](http://sunyzero.tistory.com/m/299)
+- [`sunyzero` / Linux Programmer](https://sunyzero.tistory.com/m/)
+  - [인텔 N100 미니PC (SZBOX W6)](https://sunyzero.tistory.com/m/295)
+  - [M.2 NVMe Enclosure - USB4 외장 인클로저 Maiwo K1625](http://sunyzero.tistory.com/m/299)
+  <!-- END: sunyzero -->
+- [`takeu` / takeU](https://takeu.tistory.com/m/)
+  - [0. 미니 PC 구매](https://takeu.tistory.com/m/393)
+  <!-- END: takeu -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -128,6 +134,7 @@ head:
 - [STM32G4-Auto 프로젝트 링크](https://m.blog.naver.com/chandong83/223573689545)
 - [다양한 CAN 통신 모듈들 제작 중](https://m.blog.naver.com/chandong83/223573703235)
 - [STM32H7S7-SOM이 곧 도착한다.](https://m.blog.naver.com/chandong83/223573714944)
+- [STM32G4-LIN 프로젝트 링크](https://m.blog.naver.com/chandong83/223576120871)
 
 <!-- END: chandong83 -->
 
@@ -493,6 +500,22 @@ head:
 ## Hopefully Useful
 
 - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
+
+---
+
+## Adventures in PC Emulation
+
+- [PC Floppy Copy Protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
+
+<!-- END: martypc.blogspot.com -->
+
+---
+
+## Osman's Odyssey: Byte & Build
+
+- [Serving AI From The Basement](https://ahmadosman.com/blog/serving-ai-from-basement/)
+
+<!-- END: ahmadosman.com -->
 
 ---
 

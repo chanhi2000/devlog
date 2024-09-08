@@ -1104,6 +1104,13 @@ https://ui-patterns.com/patterns
   logo="https://llamatutor.together.ai/favicon.ico"
   preview="https://llamatutor.together.ai/og-image.png"/>
 
+<SiteInfo
+  name="alphaXiv"
+  desc="Comment directly on top of arXiv papers."
+  url="https://alphaxiv.org/"
+  logo="https://alphaxiv.org/icon.ico?dee6ef1e73a0cd52"
+  preview="https://arxivdevcache.s3.us-west-2.amazonaws.com/images/alpha_icon_154x154.png"/>
+
 ::: tabs
 
 @tab:active Mathematics
@@ -1216,6 +1223,10 @@ https://hwangjy9.github.io/
 https://cosmogeometer.wordpress.com/2015/08/13/hojoo-lee/
 https://lifethroughamathematicianseyes.wordpress.com/
 https://sites.google.com/site/kangtaekim00/home?authuser=0
+
+@tab Music
+
+https://citizen-dj.labs.loc.gov/
 
 :::
 

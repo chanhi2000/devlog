@@ -6,6 +6,15 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "cs", [
+      "how-i-optimized-an-api-endpoint-to-make-it-15x-faster", // 2022-10-15
+      "introduction-to-locking-and-concurrency-control-in-dotnet-6", // 2022-10-22
+      "how-to-use-global-query-filters-in-ef-core", // 2022-10-29
+      "5-ways-to-check-for-duplicates-in-collections", // 2022-11-05,
+      "whats-new-in-dotnet-7", // 2022-11-12
+      "how-to-use-the-options-pattern-in-asp-net-core-7", // 2022-11-19
+      "how-to-use-the-new-bulk-update-feature-in-ef-core-7", // 2022-11-26
+      "running-background-tasks-in-asp-net-core", // 2022-12-03,
+      "how-to-structure-minimal-apis", // 2022-12-10
       "fast-document-database-in-net-with-marten", // 2022-12-17
       "clean-architecture-and-the-benefits-of-structured-software-design", // 2022-12-24
       "adding-validation-to-the-options-pattern-in-asp-net-core", // 2023-01-07
@@ -121,6 +130,15 @@ export const template: SidebarInfoTemplate = {
       "how-to-be-a-better-software-engineer-in-2023", // 2022-12-31
     ]],[
     "all", [
+      "how-i-optimized-an-api-endpoint-to-make-it-15x-faster", // 2022-10-15
+      "introduction-to-locking-and-concurrency-control-in-dotnet-6", // 2022-10-22
+      "how-to-use-global-query-filters-in-ef-core", // 2022-10-29
+      "5-ways-to-check-for-duplicates-in-collections", // 2022-11-05,
+      "whats-new-in-dotnet-7", // 2022-11-12
+      "how-to-use-the-options-pattern-in-asp-net-core-7", // 2022-11-19
+      "how-to-use-the-new-bulk-update-feature-in-ef-core-7", // 2022-11-26
+      "running-background-tasks-in-asp-net-core", // 2022-12-03,
+      "how-to-structure-minimal-apis", // 2022-12-10
       "fast-document-database-in-net-with-marten", // 2022-12-17
       "clean-architecture-and-the-benefits-of-structured-software-design", // 2022-12-24
       "how-to-be-a-better-software-engineer-in-2023", // 2022-12-31

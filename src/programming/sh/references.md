@@ -493,4 +493,10 @@ tag:
 
 ---
 
+## John Graham-Cumming's blog
+
+- [Cracking an old ZIP file to help open source the ANC's "Operation Vula" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
+
+---
+
 <TagLinks />

@@ -342,5 +342,12 @@
     "topics": ["acorn", "blade", "laravel", "wordpress-laravel", "wordpress-plugin", "wordpress-plugin-library"],
     "avatar": "https://avatars.githubusercontent.com/u/4986074?v=4",
     "banner": ""
+  }, {
+    "repo": "HiEventsDev/Hi.Events",
+    "desc": "Open-source event management and ticket selling platform 🎟️",
+    "officialSite": "https://hi.events",
+    "topics": ["attendize-alternative", "event-management", "event-registration", "event-ticketing", "eventbrite-alternative", "events", "laravel", "open-source", "react", "self-hosted", "sell-tickets", "sell-tickets-online", "ticket-selling", "ticketing-system", "tickettailor-alternative", "tito-alternative"],
+    "avatar": "https://avatars.githubusercontent.com/u/148843671?v=4",
+    "banner": ""
   }
 ]

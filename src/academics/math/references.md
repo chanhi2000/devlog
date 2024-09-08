@@ -294,28 +294,86 @@ head:
 
 ---
 
-## 다빈치코딩
+## tistory
 
-- [2019년 정보올림피아드 필기 중등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/120)
-- [2020년 정보올림피아드 필기 초등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/123)
-- [2020년 정보올림피아드 필기 초등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/124)
-- [2021년 정보올림피아드 필기 초등부(1 ~ 5)](https://davincicoding.tistory.com/125)
-- [2021년 정보올림피아드 필기 초등부(11 ~ 15)](https://davincicoding.tistory.com/128)
-- [2021년 정보올림피아드 필기 초등부(16 ~ 20)](https://davincicoding.tistory.com/129)
-- [2020년 정보올림피아드 필기 중등부(2-4 ~ 2-8)](https://davincicoding.tistory.com/142)
-- [2020년 정보올림피아드 필기 중등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/141)
-- [2021년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/143)
-- [부동소수점 이해하기](https://davincicoding.tistory.com/144)
-- [2021년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/145)
-- [2021년 정보올림피아드 필기 중등부(11 ~ 15)](https://davincicoding.tistory.com/146)
-- [2022년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/149)
-- [2022년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/148)
-- [2021년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/147)
-- [2022년 정보올림피아드 필기 중등부(11 ~ 15)](https://davincicoding.tistory.com/150)
-- [2022년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/151)
-- [2023년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/152)
-- [2023년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/153)
-- [2023년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/155)
+- [`davincicoding` / 다빈치코딩](https://davincicoding.tistory.com/m/)
+  - [2019년 정보올림피아드 필기 중등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/m/120)
+  - [2020년 정보올림피아드 필기 초등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/m/123)
+  - [2020년 정보올림피아드 필기 초등부(2 - 4 ~ 2 - 8)](https://davincicoding.tistory.com/m/124)
+  - [2021년 정보올림피아드 필기 초등부(1 ~ 5)](https://davincicoding.tistory.com/m/125)
+  - [2021년 정보올림피아드 필기 초등부(11 ~ 15)](https://davincicoding.tistory.com/m/128)
+  - [2021년 정보올림피아드 필기 초등부(16 ~ 20)](https://davincicoding.tistory.com/m/129)
+  - [2020년 정보올림피아드 필기 중등부(2-4 ~ 2-8)](https://davincicoding.tistory.com/m/142)
+  - [2020년 정보올림피아드 필기 중등부(11 ~ 2 - 3)](https://davincicoding.tistory.com/m/141)
+  - [2021년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/m/143)
+  - [부동소수점 이해하기](https://davincicoding.tistory.com/m/144)
+  - [2021년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/m/145)
+  - [2021년 정보올림피아드 필기 중등부(11 ~ 15)](https://davincicoding.tistory.com/m/146)
+  - [2022년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/m/149)
+  - [2022년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/m/148)
+  - [2021년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/m/147)
+  - [2022년 정보올림피아드 필기 중등부(11 ~ 15)](https://davincicoding.tistory.com/m/150)
+  - [2022년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/m/151)
+  - [2023년 정보올림피아드 필기 중등부(1 ~ 5)](https://davincicoding.tistory.com/m/152)
+  - [2023년 정보올림피아드 필기 중등부(6 ~ 10)](https://davincicoding.tistory.com/m/153)
+  - [2023년 정보올림피아드 필기 중등부(16 ~ 20)](https://davincicoding.tistory.com/m/155)
+  <!-- END: davincicoding -->
+- [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
+  - [희소행렬을 효율적으로 저장하는 COO, CSR 형식](https://sonseungha.tistory.com/m/711)
+  - [\[차원축소\] LDA (Linear Discriminant Analysis)](https://sonseungha.tistory.com/m/726)
+  <!-- END: sonseungha -->
+- [`topnanis` / 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔](https://topnanis.tistory.com/m/)
+  - [#0. 강의소개_반도체는 과연 무엇일까? (+ 패키징 반도체 비법 과외교실 소개)](https://topnanis.tistory.com/m/243)
+  - [#1. 반도체 공정이란 (반도체 8대 공정 + 패키징 공정 추가)](https://topnanis.tistory.com/m/244)
+  - [#2. 반도체 수율 (제조업 공통) 한 방에 정리!!](https://topnanis.tistory.com/m/245)
+  <!-- END: topnanis -->
+- [`lazymatlab` / 게으른맽랩 lazy matlab](https://lazymatlab.tistory.com/m/)
+  - [타원, 케플러, 궤도운동](https://lazymatlab.tistory.com/m/228)
+  - [힘이 축에 대해 가하는 모멘트 계산하기](https://lazymatlab.tistory.com/m/229)
+  - [자연수의 개수와 짝수의 개수가 같다고?](https://lazymatlab.tistory.com/m/237)
+  - [수학에서의 역설](https://lazymatlab.tistory.com/m/239)
+  - [흰색은 어떻게 만들어지는가?](https://lazymatlab.tistory.com/m/242)
+  - [CIE chromaticity diagram 이해하기](https://lazymatlab.tistory.com/m/243)
+  - [미적분학 공부 중...](https://lazymatlab.tistory.com/m/245)
+  - [피보나치 수열의 일반항](https://lazymatlab.tistory.com/m/248)
+  - [자연수를 순서대로 무한분수로 배열해서 √2 만들기](https://lazymatlab.tistory.com/m/249)
+  - [`nchoosek`, `string`, `unique`를 이용한 경우의 수 문제 풀이](https://lazymatlab.tistory.com/m/250)
+  - [수학귀신에 나온 내용들](https://lazymatlab.tistory.com/m/260)
+  - [2변수 함수의 극값의 2계도함수 판정법에 대해](https://lazymatlab.tistory.com/m/259)
+  - [왜 gradient가 가장 가파른 방향일까?](https://lazymatlab.tistory.com/m/264)
+  - [수학 위시리스트](https://lazymatlab.tistory.com/m/270)
+  - [Every vector space has a basis.](https://lazymatlab.tistory.com/m/282)
+  - [자연수의 서수와 기수](https://lazymatlab.tistory.com/m/283)
+  - [테일러 급수의 수렴 조건](https://lazymatlab.tistory.com/m/291)
+  - [다변수 함수의 미분 가능성](https://lazymatlab.tistory.com/m/292)
+  <!-- END: lazymatlab -->
+- [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
+  - [L1, L2 Regularization](https://devs0n.tistory.com/m/164)
+  - [Dijkstra 알고리즘 문제 유형](https://devs0n.tistory.com/m/173)
+  - [앙상블 기법](https://devs0n.tistory.com/m/174)
+  - [\[통계\] 확률분포의 Expected Value & Variance](https://devs0n.tistory.com/m/187)
+  - [\[통계\] KL Divergence](https://devs0n.tistory.com/m/188)
+  <!-- END: devs0n -->
+- [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
+  - [[백준 17404번] RGB거리 2](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17404%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC-2)
+  - [[백준 10021번] Watering the Fields](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-10021%EB%B2%88-watering-the-fields)
+  - [[백준 17086번] 아기 상어 2](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17086%EB%B2%88-%EC%95%84%EA%B8%B0-%EC%83%81%EC%96%B4-2)
+  <!-- END: kesakiyo -->
+- [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
+  - [[Paper] Academic 논문 쓰기 가이드라인](https://csj000714.tistory.com/m/1113)
+  <!-- END: csj000714 -->
+- [`jykim74` / Warehouse of PKI](https://jykim74.tistory.com/m/)
+  - [RSA 개인키 특성](https://jykim74.tistory.com/m/275)
+  <!-- END: jykim74 -->
+- [`darkpgmr` / 다크 프로그래머](https://darkpgmr.tistory.com/m/)
+  - [영상 특징점(keypoint) 추출방법](https://darkpgmr.tistory.com/m/131)
+  <!-- END: darkpgmr -->
+- [`he-kate1130` / KATE.log](https://he-kate1130.tistory.com/m/)
+  - [Lec2. Markov Process, MRPs, MDPs, Evaluation and Control](https://he-kate1130.tistory.com/m/100)
+  - [Loss Function: Log Likelihood Loss](https://he-kate1130.tistory.com/m/06)
+  - [\[CS224N\] Lecture 1 - Intro & Word Vectors](https://he-kate1130.tistory.com/m/106)
+  <!-- END: he-kate1130 -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -346,12 +404,6 @@ head:
 ## pizzathief
 
 - [Conformal Prediction으로 모델의 불확실성 계산하기](https://pizzathiefz.github.io/posts/introduction-to-conformal-prediction/)
-
----
-
-## Developer's Delight
-
-- [희소행렬을 효율적으로 저장하는 COO, CSR 형식](https://sonseungha.tistory.com/711)
 
 ---
 
@@ -392,14 +444,6 @@ head:
 
 ---
 
-## 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔
-
-- [#2. 반도체 수율 (제조업 공통) 한 방에 정리!!](https://topnanis.tistory.com/245)
-- [#1. 반도체 공정이란 (반도체 8대 공정 + 패키징 공정 추가)](https://topnanis.tistory.com/244)
-- [#0. 강의소개_반도체는 과연 무엇일까? (+ 패키징 반도체 비법 과외교실 소개)](https://topnanis.tistory.com/243)
-
----
-
 ## Phillip Tennen
 
 - [Building a GPS Receiver, Part 1: Hearing Whispers](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
@@ -412,42 +456,9 @@ head:
 
 ---
 
-## 게으른맽랩 lazy matlab
-
-- [타원, 케플러, 궤도운동](https://lazymatlab.tistory.com/m/228)
-- [힘이 축에 대해 가하는 모멘트 계산하기](https://lazymatlab.tistory.com/m/229)
-- [자연수의 개수와 짝수의 개수가 같다고?](https://lazymatlab.tistory.com/m/237)
-- [수학에서의 역설](https://lazymatlab.tistory.com/m/239)
-- [흰색은 어떻게 만들어지는가?](https://lazymatlab.tistory.com/m/242)
-- [CIE chromaticity diagram 이해하기](https://lazymatlab.tistory.com/m/243)
-- [미적분학 공부 중...](https://lazymatlab.tistory.com/m/245)
-- [피보나치 수열의 일반항](https://lazymatlab.tistory.com/m/248)
-- [자연수를 순서대로 무한분수로 배열해서 √2 만들기](https://lazymatlab.tistory.com/m/249)
-- [`nchoosek`, `string`, `unique`를 이용한 경우의 수 문제 풀이](https://lazymatlab.tistory.com/m/250)
-- [수학귀신에 나온 내용들](https://lazymatlab.tistory.com/m/260)
-- [2변수 함수의 극값의 2계도함수 판정법에 대해](https://lazymatlab.tistory.com/m/259)
-- [왜 gradient가 가장 가파른 방향일까?](https://lazymatlab.tistory.com/m/264)
-- [수학 위시리스트](https://lazymatlab.tistory.com/m/270)
-- [Every vector space has a basis.](https://lazymatlab.tistory.com/m/282)
-- [자연수의 서수와 기수](https://lazymatlab.tistory.com/m/283)
-- [테일러 급수의 수렴 조건](https://lazymatlab.tistory.com/m/291)
-- [다변수 함수의 미분 가능성](https://lazymatlab.tistory.com/m/292)
-
----
-
 ## MachBase
 
 - [마크베이스 네오를 활용한 실시간 고속 푸리에 변환 (FFT : Fast Fourier Transformation)](https://www.machbase.com/post/machbase-neo-tsdb-fft-analytics)
-
----
-
-## Be an Overachiever
-
-- [L1, L2 Regularization](https://devs0n.tistory.com/164)
-- [Dijkstra 알고리즘 문제 유형](https://devs0n.tistory.com/173)
-- [앙상블 기법](https://devs0n.tistory.com/174)
-- [\[통계\] 확률분포의 Expected Value & Variance](https://devs0n.tistory.com/m/187)
-- [\[통계\] KL Divergence](https://devs0n.tistory.com/m/188)
 
 ---
 
@@ -487,29 +498,9 @@ head:
 
 ---
 
-## 오늘도 개발로그
-
-- [[백준 17404번] RGB거리 2](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17404%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC-2)
-- [[백준 10021번] Watering the Fields](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-10021%EB%B2%88-watering-the-fields)
-- [[백준 17086번] 아기 상어 2](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17086%EB%B2%88-%EC%95%84%EA%B8%B0-%EC%83%81%EC%96%B4-2)
-
----
-
 ## sligocki
 
 - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
-
----
-
-## 드프 DrawingProcess
-
-- [[Paper] Academic 논문 쓰기 가이드라인](https://csj000714.tistory.com/1113)
-
----
-
-## Warehouse of PKI
-
-- [RSA 개인키 특성](https://jykim74.tistory.com/275)
 
 ---
 
@@ -549,12 +540,6 @@ head:
 
 ---
 
-## 다크 프로그래머
-
-- [영상 특징점(keypoint) 추출방법](https://darkpgmr.tistory.com/m/131)
-
----
-
 ## Speaker Deck | Easily Share Your Presentations Online
 
 - [머신러닝을 위한 기초 수학 살펴보기](https://speakerdeck.com/mingrammer/meosinreoningeul-wihan-gico-suhag-salpyeobogi)
@@ -564,14 +549,6 @@ head:
 ## Középiskolai Matematikai és Fizikai Lapok Informatika rovattal (KöMaL)
 
 - [What makes $e$ natural?](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
-
----
-
-## KATE.log
-
-- [Lec2. Markov Process, MRPs, MDPs, Evaluation and Control](https://he-kate1130.tistory.com/m/100)
-- [Loss Function: Log Likelihood Loss](https://he-kate1130.tistory.com/m/06)
-- [\[CS224N\] Lecture 1 - Intro & Word Vectors](https://he-kate1130.tistory.com/m/106)
 
 ---
 
@@ -629,4 +606,4 @@ head:
 
 ---
 
-<TagLinks />fpdf
+<TagLinks />

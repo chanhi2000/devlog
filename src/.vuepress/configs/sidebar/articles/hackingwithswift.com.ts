@@ -1764,13 +1764,50 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/media/uiimagewritetosavedphotosalbum-how-to-write-to-the-ios-photo-album.md',
             ]
           }, {
-            text: 'Media',
+            text: 'NaturalLanguage',
             collapsible: true,
             children: [
               '/explore/articles/hackingwithswift.com/example-code/naturallanguage/README.md',
               '/explore/articles/hackingwithswift.com/example-code/naturallanguage/how-to-find-similar-words-for-a-search-term.md',
               '/explore/articles/hackingwithswift.com/example-code/naturallanguage/how-to-lemmatize-text-using-nltagger.md',
               '/explore/articles/hackingwithswift.com/example-code/naturallanguage/how-to-perform-sentiment-analysis-on-a-string-using-nltagger.md',
+            ]
+          }, {
+            text: 'Networking',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/networking/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/networking/how-to-check-for-internet-connectivity-using-nwpathmonitor.md',
+              '/explore/articles/hackingwithswift.com/example-code/networking/how-to-create-a-peer-to-peer-network-using-the-multipeer-connectivity-framework.md',
+              '/explore/articles/hackingwithswift.com/example-code/networking/how-to-download-files-with-urlsession-and-downloadtask.md',
+              '/explore/articles/hackingwithswift.com/example-code/networking/how-to-make-a-network-request-wait-for-an-internet-connection-using-waitsforconnectivity.md',
+              '/explore/articles/hackingwithswift.com/example-code/networking/how-to-support-low-data-mode-networking-using-allowsconstrainednetworkaccess.md',
+            ]
+          }, {
+            text: 'Strings',
+            collapsible: true,
+            children: [
+              // '/explore/articles/hackingwithswift.com/example-code/strings/README.md',
+            ]
+          }, {
+            text: 'System',
+            collapsible: true,
+            children: [
+              // '/explore/articles/hackingwithswift.com/example-code/system/README.md',
+            ]
+          }, {
+            text: 'Testing',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/testing/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/testing/how-to-benchmark-app-launch-time-using-xctossignpostmetricapplicationlaunch.md',
+              '/explore/articles/hackingwithswift.com/example-code/testing/how-to-check-and-unwrap-optionals-in-tests-using-xctunwrap.md',
+              '/explore/articles/hackingwithswift.com/example-code/testing/how-to-do-conditional-test-tear-down-using-addteardownblock.md',
+              '/explore/articles/hackingwithswift.com/example-code/testing/how-to-do-one-time-setup-for-your-tests.md',
+              '/explore/articles/hackingwithswift.com/example-code/testing/how-to-set-baselines-for-your-performance-tests.md',
+              '/explore/articles/hackingwithswift.com/example-code/testing/how-to-test-asynchronous-functions-using-expectation.md',
+              '/explore/articles/hackingwithswift.com/example-code/testing/how-to-test-throwing-functions.md',
+              '/explore/articles/hackingwithswift.com/example-code/testing/how-to-write-performance-tests-using-measure.md',
             ]
           }
         ]

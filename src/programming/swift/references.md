@@ -52,6 +52,14 @@ tag:
 
 ---
 
+## The Vapor Blog
+
+- [The Future of Vapor](https://blog.vapor.codes/posts/the-future-of-vapor/)
+
+<!-- END:  blog.vapor.codes -->
+
+---
+
 ## Nonstrict
 
 - [Transferable drag & drop with only a FileRepresentation not working on macOS](https://nonstrict.eu/blog/2023/transferable-drag-drop-fails-with-only-FileRepresentation)
@@ -768,6 +776,9 @@ tag:
 - [Implementing volumes in visionOS](https://createwithswift.com/implementing-volumes-in-visionos/)
 - [Create an animated transition with Matched Geometry Effect in SwiftUI](https://createwithswift.com/create-an-animated-transition-with-matched-geometry-effect-in-swiftui/)
 - [Understanding typography in visionOS](https://createwithswift.com/understanding-typography-in-visionos)
+- [Revolutionizing Surgery and Medical Treatments with visionOS](https://createwithswift.com/revolutionizing-surgery-and-medical-treatments-with-visionos/)
+
+<!-- END: createwithswift.com -->
 
 ---
 
@@ -965,6 +976,14 @@ tag:
 ## Paulo Andrade | Geek. Skater. Bearded.
 
 - [Swift Build Times and Module Verification…](https://pfandrade.me/blog/swift-build-times-and-module-verification/)
+
+---
+
+## Alejandro M. P.
+
+- [Swift Package Manager Dependency Owners](https://alejandromp.com/development/blog/swift-package-manager-dependency-owners/)
+
+<!-- END: alejandromp.com -->
 
 ---
 

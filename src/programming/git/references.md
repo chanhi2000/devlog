@@ -429,4 +429,10 @@ head:
 
 ---
 
+## Avestura's Blog
+
+- [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
+
+---
+
 <TagLinks />

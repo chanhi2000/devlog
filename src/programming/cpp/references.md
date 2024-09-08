@@ -252,6 +252,7 @@ head:
 - [전등 이미지 on/off 예제 - Step 1](https://m.blog.naver.com/tipsware/223572107041)
 - [전등 이미지 on/off 예제 - Step 2 (비트 연산자 사용)](https://m.blog.naver.com/tipsware/223572177612)
 - [\[실습과제\] 색을 밝기 단계로 나누어 출력하기](https://m.blog.naver.com/tipsware/223575076337)
+- [색상의 유사도를 이용해 색상을 합치는 예시](https://m.blog.naver.com/tipsware/223575870588)
 
 <!-- END: tipsware.blog.naver.com -->
 
@@ -350,6 +351,7 @@ head:
 ## Blog | Max Bernstein
 
 - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
+- [microui+fenster=small gui](https://bernsteinbear.com/blog/fenster-microui/)
 
 ---
 

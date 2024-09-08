@@ -425,4 +425,12 @@ tag:
 
 ---
 
+## Trail of Bits Blog
+
+- [“Unstripping” binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
+
+<!-- END: blog.trailofbits.com -->
+
+---
+
 <TagLinks />

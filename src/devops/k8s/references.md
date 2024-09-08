@@ -130,6 +130,7 @@ head:
   <!-- END: jybaek -->
 - [`yongho1037` / 개발 노트](http://yongho1037.tistory.com/m/)
   - [\[Kubernetes\] Overlay 파일시스템으로 이미지 중복 제거](http://yongho1037.tistory.com/m/840)
+  - [\[KANS\] 2주차 - K8S Flannel CNI & Pause 정리](https://yongho1037.tistory.com/m/842)
   <!-- END: yongho1037 -->
 <!-- END: tistory.com -->
 
@@ -282,6 +283,7 @@ head:
 ## Log On Me.net
 
 - [[Udemy 강의후기] DevOps (데브옵스) : Kubernetes 완전 정복](https://www.logonme.net/activities/etc/udemy-devops-k8s-master/)
+- [\[KANS\] 3기 2주 – K8S Flannel CNI & Pause 컨테이너](https://logonme.net/activities/kans_3_2/)
 
 ---
 
@@ -402,6 +404,7 @@ head:
 ## Cloud Catalyst
 
 - [커널 강화 도구 사용하기](https://ddii.dev/kubernetes/kernelhardening/)
+- [파드 Readiness & Probe](https://ddii.dev/kubernetes/readinessandprobe/)
 
 ---
 

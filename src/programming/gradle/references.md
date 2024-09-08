@@ -45,7 +45,8 @@ head:
 
 ## <FontIcon icon="fa-brands fa-dev"/>dev.to
 
-- [`marlonlom` / ](https://dev.to/marlonlom/adapt-kotlin-20-in-android-applications-3cmk)
+- [`marlonlom` / Adapt Kotlin 2.0 in Android applications](https://dev.to/marlonlom/adapt-kotlin-20-in-android-applications-3cmk)
+- [`autonomousapps` / Announcing Dependency Analysis Gradle Plugin 2.0.0!](https://dev.to/autonomousapps/announcing-dependency-analysis-gradle-plugin-200-426c)
 
 ---
 
@@ -74,6 +75,12 @@ head:
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[Gradle\] gradle build와 gradle bootJar의 차이](https://backend-jaamong.tistory.com/m/176)
   <!-- END: backend-jaamong -->
+- [`dkswnkk` / JuHyeong.dev](http://dkswnkk.tistory.com/m/)
+  - [\[gradle\] `implementation`, `api` 차이](http://dkswnkk.tistory.com/m/759)
+  <!-- END: dkswnkk -->
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\[1년 후 마실가실\] 쉬어가는 마실가실 - SonarQube](https://hj0216.tistory.com/m/944)
+  <!-- END: hj0216 -->
 <!-- END: tistory.com -->
 
 ---

@@ -81,4 +81,10 @@ head:
 
 ---
 
+## 기계인간 John Grib
+
+- [Vim 의 CLI 옵션들](https://johngrib.github.io/wiki/vim/cli-options/)
+
+---
+
 <TagLinks />

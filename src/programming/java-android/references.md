@@ -182,6 +182,8 @@ tag:
 - [`renaud.mathieu` / Discovering Material3 for Android — SwipeToDismissBox](https://medium.com/@renaud.mathieu/discovering-material3-for-android-swipetodismissbox-f64905b2b677)
 - [`snapp-mobile` / Kotlin Flow to Swift Combine: A KMP Bridge. Part I](https://medium.com/snapp-mobile/kotlin-flow-to-swift-combine-a-kmp-bridge-part-i-6332bbfcad5d)
 - [`hongbeomi-dev` / `StateFlow`의 재시도 처리](https://medium.com/hongbeomi-dev/stateflow%EC%9D%98-%EC%9E%AC%EC%8B%9C%EB%8F%84-%EC%B2%98%EB%A6%AC-de224e1127de?source=rss-c941a8b6c471------2)
+- [`israeli-tech-radar` / In the Cross-Platform world, is Kotlin Multiplatform the right choice for your next application?](https://medium.com/israeli-tech-radar/in-the-cross-platform-world-is-kotlin-multiplatform-the-right-choice-for-your-next-application-96073b17a91c)
+[`cohen.n.raphael` / Advanced Kotlin Magic: Unlocking the Power of `combine` for Android Development! 🧠💪](https://medium.com/@cohen.n.raphael/advanced-kotlin-magic-unlocking-the-power-of-combine-for-android-development-4352dc486b7f)
 
 <!-- END: medium.com -->
 
@@ -196,6 +198,7 @@ tag:
 - [`altavir` / Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
 - [`cdsap` / Resource observability case study: jemalloc in Android builds](https://dev.to/cdsap/resource-observability-case-study-jemalloc-in-android-builds-22og)
 - [`bubenheimer` / Effective Map Composables: Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-draggable-markers-3bea)
+- [`bubenheimer` / Effective Map Composables: Collections of Non-Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-collections-of-non-draggable-markers-261i)
 
 <!-- END: dev.to -->
 
@@ -451,6 +454,7 @@ tag:
 - [Jetpack Compose for iOS: Interoping with native Components](https://touchlab.co/jetpack-compose-ios-interop)
 - [Jetpack Compose to Compose Multiplatform: Transition Guide](https://touchlab.co/compose-multiplatform-transition-guide)
 - [Compose Multiplatform + Lottie Animations](https://touchlab.co/compose-multiplatform-lottie)
+- [Compose Multiplatform and the Native App Future](https://touchlab.co/cmp-and-the-future)
 
 ---
 
@@ -632,6 +636,12 @@ tag:
 ## 제이의 IT 스토리
 
 - [\[Android\] 앱 자동실행 오류 해결 방법](https://m.blog.naver.com/oralol/223561251361)
+
+---
+
+## Zac Sweers
+
+- [Writing a Kotlin Multiplatform App from Start to Store](https://www.zacsweers.dev/writing-a-kotlin-multiplatform-app-from-start-to-store/)
 
 ---
 

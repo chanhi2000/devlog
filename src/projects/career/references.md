@@ -303,6 +303,9 @@ tag:
 - [`@3L0s` / DX 실행: 유통방식의 디지털화 개념 - 디지털 혁신-19](https://brunch.co.kr/@@3L0s/122)
 - [`@2rV` / 우리는 모른다는 것을 알았다 - 제품 발견을 통해 빠르게 근거를 확보하는 것의 중요성](https://brunch.co.kr/@@2rV/176)
 - [`@5sFx` / 02. 팀장이 되기 전에는 몰랐던 것들 - '그랬구나'](https://brunch.co.kr/@@5sFx/120)
+- [`@ZVA` / 개발자들, PoS 이후 이더리움의 현재와 미래를 말하다](https://brunch.co.kr/@@ZVA/723)
+- [`@2weV` / 미국 현지 취업 후 10+년 근무한 분들께 들은 이야기](https://brunch.co.kr/@@2weV/547)
+- [`@5sFx` / 03. 팀원은 팀장을 평가할 수 있어야 한다 - '제 점수는요'](https://brunch.co.kr/@@5sFx/121)
 
 <!-- END: brunch.co.kr -->
 

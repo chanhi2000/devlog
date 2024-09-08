@@ -257,6 +257,7 @@ head:
   - [\[해결방법\] `io.jsonwebtoken.ExpiredJwtException`](https://hj0216.tistory.com/m/941)
   - [\[1년 후 마실가실\] 패키지 구조](https://hj0216.tistory.com/m/942)
   - [\[해결 방법\] `NoUniqueBeanDefinitionException`](https://hj0216.tistory.com/m/943)
+  - [\[1년 후 마실가실\] 쉬어가는 마실가실 - SonarQube](https://hj0216.tistory.com/m/944)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -327,12 +328,14 @@ head:
   - [13.3. 책 기록 응답 DTO 만들기](https://ysedeveloper.tistory.com/m/entry/133-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9D%91%EB%8B%B5-DTO-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   - [13.4. 책 정보 응답 DTO에 책 기록 응답 객체 추가하기](https://ysedeveloper.tistory.com/m/entry/134-%EC%B1%85-%EC%A0%95%EB%B3%B4-%EC%9D%91%EB%8B%B5-DTO%EC%97%90-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9D%91%EB%8B%B5-%EA%B0%9D%EC%B2%B4-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
   - [13.5. 책 상세 화면에서 책 기록 표시하기](https://ysedeveloper.tistory.com/m/entry/135-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0)
+  - [스프링 MVC 하루만에 배우기](https://ysedeveloper.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
   - [연관관계 매핑 기초](https://maeng-dev.tistory.com/m/165)
   - [Deep한 JPA 매핑](https://maeng-dev.tistory.com/m/166)
   - [프록시와 연관관계 관리](https://maeng-dev.tistory.com/m/168)
+  - [객체지향 쿼리: JPQL](https://maeng-dev.tistory.com/m/175)
   <!-- END: maeng-dev -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)
