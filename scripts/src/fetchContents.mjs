@@ -37,6 +37,8 @@ async function doFetch(url, outputFName, parsingHtmlContent) {
   }
 }
 
+
+//region: AwesomeBlog
 export async function fetchAwesomeDevlog() {
   console.log('START fetchAwesomeDevlog')
   doFetch(URL_AWESOME_DEVLOG, `awesome-devblog-${currentYYYYMMDD()}.md`, ($) => {
@@ -83,7 +85,10 @@ ${mdContent}
     return mdContent
   })
 }
+//endregion: AwesomeBlog
 
+
+//region: GeekNews
 const URL_GEEK = "http://localhost:3000/geek"
 
 export async function fetchGeek() {
@@ -112,7 +117,9 @@ ${mdContent}
     return mdContent
   })
 }
+//endregion: GeekNews
 
+//region: Devo
 const URL_DEVO = 'http://localhost:3000/devo/github.json'
 import DevoApi from 'devo-api'
 
@@ -177,7 +184,6 @@ export async function fetchDevoGithubItems() {
 ${jsonContent}
 // END devo
 `
-
     const jsonFName = `devo-${currentYYYYMMDD()}.json`
     const filePath = path.join(path.resolve(), 'src', jsonFName);
     fs.writeFileSync(filePath, jsonContent, 'utf8');
@@ -197,6 +203,96 @@ function renderJson(data = {}) {
     banner: '',
   }
 }
+//endregion: Devo
+
+
+//region: 컴퓨터 vs 책
+const URL_JHROGUE = 'http://localhost:3000/jhrogue'
+export async function fetchJhrogue() {
+  console.log('START fetchJhrogue');
+  doFetch(URL_JHROGUE, `jhrogue-${currentYYYYMMDD()}.md`, ($) => {
+    const items = [];
+    try {
+      const selLatestArticle = '.blog-posts.hfeed .date-outer:first-child'
+      const latestArticle = $(selLatestArticle)
+      // console.log(`latestArticle: ${latestArticle.html()}`)
+
+      const selDate = `${selLatestArticle} .date-header>span`
+      const date = $(selDate).text()
+
+      const selContent = `${selLatestArticle} .date-posts .post-outer .post-body.entry-content ol`
+      const content = $(selContent)
+      // console.log(`content: ${content.html()}`)
+
+      const selOl = `${selContent} > li`
+      $(selOl).each((i, e) => {
+        const _html = $(e).html()
+        // console.log(`html: ${_html}`)
+        
+        const _title = $(e).text().split('\n')[0]
+        // console.log(`title: ${_title}`)
+
+        const _items = []
+        const _itemss = $(e).find('ul>li>a');
+        _itemss.each((i, o) => {
+          const link = $(o).attr('href').replace(/https:\/\/www./g, 'https://')
+          const isGithub = link.match(/https:\/\/github.com/g);
+          
+          var t = $(o).text()
+          const isMedium = link.match(/medium.com/g);
+          const mediumId = (isMedium) ? link.match(/(?<=medium.com\/)(.*?)(?=\/)/g) : '';
+          
+          if (isMedium) { 
+            const idToAppend = ''.concat('\`').concat(mediumId).concat('\`');
+            t = `${idToAppend} / ${t}`
+          }
+          if (isGithub) {
+            // TODO: github에 대한 처리
+          }
+          _items.push(`- [${t}](${link})` )
+          // console.log(`_item: ${text}`)
+        })
+        // console.log(`items: ${_items}`)
+        
+        items.push({
+          title: _title,
+          contents: _items ?? []
+        })
+      })
+
+      // const categories = $(selOl).map(() => {
+      //   const _html = $(this).html()
+      //   console.log(`title: ${_html}`)
+      //   const _title = $(this).text()
+      //   console.log(`title: ${_title}`)
+        
+      //   const _items = $(this).find('ul>li').map(() => {
+      //     const link = $(this).attr('href').replace(/https:\/\/www./g, 'https://')
+      //     return `- [${$(this).text()}](${link})`
+      //   })
+      //   console.log(`items: ${_items}`)
+
+      //   return {
+      //     title: _title,
+      //     items: _items ?? [],
+      //   }
+      // })
+
+      let mdContent = items.reduce((acc, e, i) => {
+        const ll = e.contents.join('\n')
+        return acc + `\n${i+1}: ${e.title}\n\n${ll}\n`
+      }, '');
+    mdContent = `<!-- https://jhrogue.blogspot.com/ (${date})-->\n${mdContent}\n<!-- END: https://jhrogue.blogspot.com/ -->`
+
+      return mdContent
+    } catch (err) {
+      console.error(`Error fetching the URL: ${URL_JHROGUE} ... ${err}`);
+    }
+  })
+}
+
+//endregion: 컴퓨터 vs 책
+
 
 // Conditional check for script execution
 if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.resolve(__filename)) {
@@ -204,6 +300,7 @@ if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.
   fetchAwesomeDevlog();
   fetchGeek();
   fetchDevoGithubItems();
+  fetchJhrogue();
 } else {
   console.log('Script is being imported as a module.');  // Debugging log
 }

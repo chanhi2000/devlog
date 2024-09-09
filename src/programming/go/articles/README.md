@@ -224,6 +224,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How the Comma Ok Idiom and Package System Work in Go",
+  "desc": "The 'comma ok' idiom and the package system are two fundamental concepts in Go. They help enhance the readability of your code, and reflect Go's philosophy of simplicity and explicitness. In this article, you'll learn about both the comma ok idiom an...",
+  "link": "/explore/articles/freecodecamp.org/how-the-comma-ok-idiom-and-package-system-work-in-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

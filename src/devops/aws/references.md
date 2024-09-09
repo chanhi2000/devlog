@@ -551,4 +551,10 @@ head:
 
 ---
 
+## Bug Bounty & Agile Pentesting Platform | Intigriti
+
+- [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
+
+---
+
 <TagLinks />

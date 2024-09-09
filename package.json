@@ -1,5 +1,5 @@
 {
-  "version": "0.12.21",
+  "version": "0.12.22",
   "private": true,
   "name": "chanhi2000.github.io",
   "description": "My Personal Super Mindmap",
@@ -13,7 +13,12 @@
     "dev": "cross-env NODE_OPTIONS='--inspect' vuepress dev src",
     "clean-dev": "vuepress dev src --clean-cache",
     "build": "cross-env NODE_OPTIONS=--max-old-space-size=12288 vuepress build src",
-    "clean-build": "vuepress build src --clean-cache"
+    "clean-build": "vuepress build src --clean-cache",
+
+    "devo-api-build": "npm run --prefix devo-api build",
+    
+    "start-proxy": "npm run --prefix scripts start-proxy",
+    "fetch": "npm run --prefix scripts fetch"
   },
   "workspaces": [
     "devo-api",

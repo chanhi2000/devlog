@@ -91,9 +91,10 @@ head:
 
 ---
 
-## PlanetScale
+## The ultimate MySQL database platform — PlanetScale
 
 - [Pagination in MySQL](https://planetscale.com/blog/mysql-pagination)
+- [B-trees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes)
   
 ---
 
@@ -115,29 +116,42 @@ head:
 
 ---
 
-## 거북탄 토끼
+## tistory
 
-- [MySQL8.0 desc Index 사용사례](https://qidan3500.tistory.com/1)
-
----
-
-## Information Security
-
-- [Oracle) INSTR,SUBSTR,REPLACE 함수](https://jinseok12.tistory.com/74)
+- [`kingpiggylab` / 왕꿀꿀](https://kingpiggylab.tistory.com/m/)
+  - [\[인프런\] Real MySQL 시즌 1](https://kingpiggylab.tistory.com/m/420)
+  <!-- END: kingpiggylab -->
+- [`qidan3500` / 거북탄 토끼](https://qidan3500.tistory.com/m/)
+  - [MySQL8.0 desc Index 사용사례](https://qidan3500.tistory.com/m/1)
+  <!-- END: qidan3500 -->
+- [`jinseok12` / Information Security](https://jinseok12.tistory.com/m/)
+  - [Oracle) INSTR,SUBSTR,REPLACE 함수](https://jinseok12.tistory.com/m/74)
+  <!-- END: jinseok12 -->
+- [`stricky` / The DataBase that i am good at](https://stricky.tistory.com/m/)
+  - [mysql 백업 shell script crontab](https://stricky.tistory.com/m/304)
+  - [index 의 중요성과 이해](https://stricky.tistory.com/m/310)
+  - [MySQL 기본 select SQL 예제](https://stricky.tistory.com/m/328)
+  <!-- END: stricky -->
+- [`ysedeveloper` / 생계형 개발자 연서은](https://ysedeveloper.tistory.com/m/)
+  - [4.01. MySQL 데이터베이스 생성하기](https://ysedeveloper.tistory.com/m/entry/401-MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+  - [4.02. MySQL 테이블 생성하기](https://ysedeveloper.tistory.com/m/entry/402-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+  - [4.03. MySQL 테이블에 값 가져오기](https://ysedeveloper.tistory.com/m/entry/403-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+  - [4.04. MySQL 테이블에 값 입력하기](https://ysedeveloper.tistory.com/m/entry/404-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
+  - [4.05. MySQL 테이블에 값 수정하기](https://ysedeveloper.tistory.com/m/entry/405-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
+  - [4.08. PHP에서 MySQL 값 가져오기](https://ysedeveloper.tistory.com/m/entry/408-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+  - [4.09. PHP에서 MySQL 값 입력하기](https://ysedeveloper.tistory.com/m/entry/409-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
+  - [4.10. PHP에서 MySQL 값 수정 / 삭제하기](https://ysedeveloper.tistory.com/m/entry/410-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+  - [8.02. 데이터베이스 유저 생성하기](https://ysedeveloper.tistory.com/m/entry/802-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+  - [8.03. 데이터베이스 유저에 권한 추가하기](https://ysedeveloper.tistory.com/m/entry/803-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80%EC%97%90-%EA%B6%8C%ED%95%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+  - [8.04. 데이터베이스 테이블 생성하기](https://ysedeveloper.tistory.com/m/entry/804-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+  <!-- END: ysedeveloper -->
+<!-- END: tistory.com -->
 
 ---
 
 ## Popit | 전문 지식 공유를 위한 팀블로그
 
 - [Presto를 이용하여 Google Sheets와 mysql 등 DB 데이터 JOIN 하기](https://popit.kr/presto%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%97%ac-google-sheets%ec%99%80-mysql-%eb%93%b1-db-%eb%8d%b0%ec%9d%b4%ed%84%b0-join-%ed%95%98%ea%b8%b0/)
-
----
-
-## The DataBase that i am good at
-
-- [mysql 백업 shell script crontab](https://stricky.tistory.com/304)
-- [index 의 중요성과 이해](https://stricky.tistory.com/310)
-- [MySQL 기본 select SQL 예제](https://stricky.tistory.com/328)
 
 ---
 
@@ -150,22 +164,6 @@ head:
 ## lefred blog: tribulations of a MySQL Evangelist
 
 - [Javascript support in MySQL: the UUID example](https://lefred.be/content/javascript-support-in-mysql-the-uuid-example/)
-
----
-
-## 생계형 개발자 연서은
-
-- [4.01. MySQL 데이터베이스 생성하기](https://ysedeveloper.tistory.com/m/entry/401-MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
-- [4.02. MySQL 테이블 생성하기](https://ysedeveloper.tistory.com/m/entry/402-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
-- [4.03. MySQL 테이블에 값 가져오기](https://ysedeveloper.tistory.com/m/entry/403-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
-- [4.04. MySQL 테이블에 값 입력하기](https://ysedeveloper.tistory.com/m/entry/404-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
-- [4.05. MySQL 테이블에 값 수정하기](https://ysedeveloper.tistory.com/m/entry/405-MySQL-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B0%92-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
-- [4.08. PHP에서 MySQL 값 가져오기](https://ysedeveloper.tistory.com/m/entry/408-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
-- [4.09. PHP에서 MySQL 값 입력하기](https://ysedeveloper.tistory.com/m/entry/409-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
-- [4.10. PHP에서 MySQL 값 수정 / 삭제하기](https://ysedeveloper.tistory.com/m/entry/410-PHP%EC%97%90%EC%84%9C-MySQL-%EA%B0%92-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
-- [8.02. 데이터베이스 유저 생성하기](https://ysedeveloper.tistory.com/m/entry/802-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
-- [8.03. 데이터베이스 유저에 권한 추가하기](https://ysedeveloper.tistory.com/m/entry/803-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A0%80%EC%97%90-%EA%B6%8C%ED%95%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
-- [8.04. 데이터베이스 테이블 생성하기](https://ysedeveloper.tistory.com/m/entry/804-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 
 ---
 

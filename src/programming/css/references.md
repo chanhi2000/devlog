@@ -234,6 +234,7 @@ tag:
 - [`@morethanmin` / 터치 디바이스에서 hover 스타일 제어하기](https://until.blog/@morethanmin/%ED%84%B0%EC%B9%98-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EC%97%90%EC%84%9C-hover-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0-1jb9tb9e)
 - [`@swmg03` / \[STUDYLOG\] CSS 정리 - (3)](https://until.blog/@swmg03/-studylog--css-%EC%A0%95%EB%A6%AC----3-)
 - [`@morethanmin` / mobile safari에서 video poster 렌더링 이슈](https://until.blog/@morethanmin/mobile-safari%EC%97%90%EC%84%9C-video-poster-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%EC%8A%88)
+- [`@baealex` / 쉐도우 돔을 스타일링 하는 방법](https://blex.me/@baealex/shadow-dom-styling)
 
 <!-- END: until.blog -->
 

@@ -66,4 +66,10 @@ head:
 
 ---
 
+## 감자박스
+
+- [Google Apps Script를 활용해 무료로 서울사랑상품권 발행 알림 봇 운영하기](https://gamjaa.com/blog/1634)
+
+---
+
 <TagLinks />

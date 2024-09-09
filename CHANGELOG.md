@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.12.22 2024-09-09][v0.12.22]
+
+- 내용채워넣기
+
+---
+
 ## [v0.12.21 2024-09-09][v0.12.21]
 
 - 내용채워넣기
@@ -2050,6 +2056,7 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 - `markdown` 항목 추가
 
 ### Modified
+
 - Nav 타이틀 변경
 - `cli`로 그룹지어 정리
 
@@ -2060,14 +2067,15 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 내용채워넣기
 
 ### Added
+
 - `site-github`, `site-others`
 - `markdown` 항목 추가
 
 ### Modified
+
 - devops-ide로 그룹지어 정리
 - devops-os로 그룹지어 정리
 - sql로 그룹지어 정리
-
 
 ---
 
@@ -2118,25 +2126,30 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 - index 변경
 
 ### Added
+
 - todo: 블로그 작업계획 작성
 - site-github, site-other
 - 태그기록
 - Github Action 추가 테스트
 
 ---
+
 ## [v0.0.4: 2022-12-07][v0.0.4]
 
 내용 채워넣기
 
 ### Modified
+
 - 라이브러리 변경: @renovamen/vuepress-plugin-mermaid
 
 ### Added
+
 - js-mermaid: 예제
 - lang-bash: 예제
 - site-github, site-other
 
 ---
+
 ## [v0.0.3: 2022-12-07][v0.0.3]
 
 내용 채워넣기
@@ -2147,6 +2160,7 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 - site-others: 기타 사이트 Bookmarks정리
 
 ---
+
 ## [v0.0.2: 2022-12-06][v0.0.2]
 
 Tips 트리구조 구성
@@ -2498,3 +2512,4 @@ Tips 트리구조 구성
 [v0.12.19]: https://github.com/chanhi2000/devlog/compare/v0.12.18...v0.12.19
 [v0.12.20]: https://github.com/chanhi2000/devlog/compare/v0.12.19...v0.12.20
 [v0.12.21]: https://github.com/chanhi2000/devlog/compare/v0.12.20...v0.12.21
+[v0.12.22]: https://github.com/chanhi2000/devlog/compare/v0.12.21...v0.12.22

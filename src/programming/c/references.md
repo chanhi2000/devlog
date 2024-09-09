@@ -438,6 +438,7 @@ tag:
 - [\[Do it! C언어 입문\] 15장 추가 실습 예제](https://m.blog.naver.com/tipsware/223561832256)
 - [\[Do it! C언어 입문\] 2차원 배열의 메모리 배치](https://m.blog.naver.com/tipsware/223564418444)
 - [Do it! C언어 입문, 16쇄 발행](https://m.blog.naver.com/tipsware/223567554947)
+- [C 언어 소스 설명용 프로그램](https://m.blog.naver.com/tipsware/223576987868)
 
 <!-- END: tipsware.blog.naver.com -->
 

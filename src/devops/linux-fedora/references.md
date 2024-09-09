@@ -32,6 +32,7 @@ tag:
 - [`@mythos` / \[Linux\] 마인크래프트 서버 열기](https://velog.io/@mythos/Linux-%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-%EC%84%9C%EB%B2%84-%EC%97%B4%EA%B8%B0)
 - [`@mythos` / \[OSSCA\] Linux Kernel Networking Stack #3 서버 셋팅](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-3-%EC%84%9C%EB%B2%84-%EC%85%8B%ED%8C%85)
 - [`@mythos` / \[Linux Kernel\] 리눅스 커널의 버전 관리 (Versioning)](https://velog.io/@mythos/Linux-Kernel-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90%EC%9D%98-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-Versioning)
+- [`@mythos` / \[Linux Kernel\] 패치 라이프 사이클 (next, staging tree)](https://velog.io/@mythos/Linux-Kernel-%ED%8C%A8%EC%B9%98-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%82%AC%EC%9D%B4%ED%81%B4)
 
 <!-- END: velog.io -->
 

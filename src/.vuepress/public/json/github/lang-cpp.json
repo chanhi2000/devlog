@@ -2280,5 +2280,19 @@
     "topics": ["async", "asynchronous", "cpp", "cpp14", "cpp17", "cpp20", "cross-platform", "fmtlib", "high-performance", "log-library", "logger", "logging", "logging-library", "low-latency"],
     "avatar": "https://avatars.githubusercontent.com/u/7397786?v=4",
     "banner": ""
+  }, {
+    "repo": "Alexays/Waybar",
+    "desc": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+    "officialSite": "",
+    "topics": ["bar", "gtk", "i3status", "statusbar", "sway", "wayland", "wlroots"],
+    "avatar": "https://avatars.githubusercontent.com/u/13947260?v=4",
+    "banner": ""
+  }, {
+    "repo": "TrinityCore/TrinityCore",
+    "desc": "TrinityCore Open Source MMO Framework (master = 11.0.2.56461, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)",
+    "officialSite": "http://www.trinitycore.org",
+    "topics": ["hacktoberfest", "linux", "mmorpg", "multi-platform", "multiplayer", "trinitycore", "wow"],
+    "avatar": "https://avatars.githubusercontent.com/u/539602?v=4",
+    "banner": ""
   }
 ]

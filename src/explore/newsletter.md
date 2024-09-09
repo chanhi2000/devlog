@@ -1194,6 +1194,16 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   logo="https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png"
   preview="https://substack-post-media.s3.amazonaws.com/public/images/9bcf6f54-70e1-498f-b291-3fb402eccaad_2743x1457.jpeg"/>
 
+```component VPCard
+{
+  "title": "Piccalilli - level up your front-end development skills",
+  "desc": "We are Piccalilli. A publication dedicated to providing high quality educational content to level up your front-end skills.",
+  "link": "https://piccalil.li/",
+  "logo": "https://piccalil.li/favicons/apple-touch-icon.png",
+  "background": "rgba(253,208,0,0.2)"
+}
+```
+
 <!-- END: Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)

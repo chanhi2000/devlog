@@ -2926,10 +2926,10 @@
     "banner": ""
   }, {
     "repo": "wasp-lang/open-saas",
-    "desc": "A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.",
+    "desc": "A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.",
     "officialSite": "https://opensaas.sh",
-    "topics": ["boilerplate", "full-stack", "nodejs", "open-source", "prisma", "react", "saas"],
-    "avatar": "",
+    "topics": ["ai", "authentication", "aws-s3", "boilerplate", "chatgpt", "full-stack", "google-auth", "kit", "nodejs", "open-source", "openai-api", "postgresql", "prisma", "react", "saas", "saas-boilerplate", "saas-starter", "saas-template", "typesafe", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/55102317?v=4",
     "banner": ""
   }, {
     "repo": "projectstorm/dynamouse",
@@ -4563,9 +4563,9 @@
     "avatar": "https://avatars.githubusercontent.com/u/43396833?v=4",
     "banner": ""
   }, {
-    "repo": "RSSNext/follow",
+    "repo": "RSSNext/Follow",
     "desc": "🧡 Next generation information browser",
-    "officialSite": "https://github.com/RSSNext/follow/releases",
+    "officialSite": "https://app.follow.is",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/95456295?v=4",
     "banner": ""
@@ -4785,6 +4785,13 @@
     "officialSite": "https://wealthfolio.app",
     "topics": ["macos-app", "portfolio-tracker", "tauri-app"],
     "avatar": "https://avatars.githubusercontent.com/u/8382496?v=4",
+    "banner": ""
+  }, {
+    "repo": "johannesjo/super-productivity",
+    "desc": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+    "officialSite": "http://super-productivity.com",
+    "topics": ["electron-app", "hacktoberfest", "hacktoberfest2022", "jira", "linux", "macos", "productivity", "task-manager", "time-tracker", "timetracking", "to-do-list", "todo"],
+    "avatar": "https://avatars.githubusercontent.com/u/1456265?v=4",
     "banner": ""
   }
 ]

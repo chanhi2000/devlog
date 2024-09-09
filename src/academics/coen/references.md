@@ -46,6 +46,7 @@ head:
 
 - [B-Tree](https://johngrib.github.io/wiki/algorithm/b-tree/)
 - [퀵 정렬 (Quick Sort)](https://johngrib.github.io/wiki/algorithm/quick-sort/)
+- [Alan J. Perlis](https://johngrib.github.io/wiki/people/alan-j-perlis/)
 
 ---
 
@@ -92,6 +93,9 @@ head:
 ## Substack
 
 - [`semianalysis` / The Memory Wall: Past, Present, and Future of DRAM](https://semianalysis.com/p/the-memory-wall)
+- [`blogsystem5` / Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
+
+<!-- END: substack.com -->
 
 ---
 

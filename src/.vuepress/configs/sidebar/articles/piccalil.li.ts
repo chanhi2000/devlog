@@ -2,7 +2,7 @@ import { SidebarInfoTemplate } from ".";
 
 export const template: SidebarInfoTemplate = {
   name: 'piccalil.li',
-  faviconPath: 'https://piccalil.li/favicon.ico',
+  faviconPath: 'https://piccalil.li/favicons/apple-touch-icon.png',
   linksMap: new Map([
     [
     "css", [

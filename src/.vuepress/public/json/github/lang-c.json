@@ -1742,5 +1742,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/11773774?v=4",
     "banner": ""
+  }, {
+    "repo": "digital-fabric/iou",
+    "desc": "Ruby gem for working with io_uring",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/42543943?v=4",
+    "banner": ""
   }
 ]

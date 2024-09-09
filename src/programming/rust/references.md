@@ -495,6 +495,12 @@ tag:
 
 ---
 
+## AI-First infrastructure API for search, recommendations, and RAG that combines language models with tools for fine tuning ranking and relevance
+
+- [How we Built 300μs Typo Detection for 1.3M Words in Rust](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />

@@ -301,6 +301,16 @@ head:
 
 ```component VPCard
 {
+  "title": "How To Approach Clean Architecture Folder Structure",
+  "desc": "Clean Architecture is a popular approach to structuring your .NET application. It's a layered architecture and splits into four layers: Domain, Application, Infrastructure, and Presentation. Each of the layers is typically one project in your solution. How do we create this in our .NET solutions?",
+  "link": "/explore/articles/milanjovanovic.tech/clean-architecture-folder-structure.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "Visualize Your Software Architecture With The C4 Model",
   "desc": "Software architecture diagrams are a great way to communicate how you are planning to build a software system or how an existing software system works. However, the majority of software architecture diagrams I've seen are a total mess. If only there was a standard way to visualize your software architecture... Enter the C4 model, which stands for context, containers, components, and code. The C4 model is a lightweight approach to describing your software architecture.",
   "link": "/explore/articles/milanjovanovic.tech/visualize-your-software-architecture-with-the-c4-model.md",

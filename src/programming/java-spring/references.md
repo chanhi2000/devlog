@@ -243,6 +243,7 @@ head:
   - [\[Spring Boot\] JPA 프록시](https://findsilverlining.tistory.com/m/128)
   - [\[Spring Boot\] JPA 영속성 전이, 고아 객체](https://findsilverlining.tistory.com/m/129)
   - [\[Spring Boot\] JPA 값 타입](https://findsilverlining.tistory.com/m/130)
+  - [\[Spring Boot\] Jacoco - 코드 커버리지](https://findsilverlining.tistory.com/m/132)
 <!-- END: findsilverlining -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
@@ -329,6 +330,7 @@ head:
   - [13.4. 책 정보 응답 DTO에 책 기록 응답 객체 추가하기](https://ysedeveloper.tistory.com/m/entry/134-%EC%B1%85-%EC%A0%95%EB%B3%B4-%EC%9D%91%EB%8B%B5-DTO%EC%97%90-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%EC%9D%91%EB%8B%B5-%EA%B0%9D%EC%B2%B4-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
   - [13.5. 책 상세 화면에서 책 기록 표시하기](https://ysedeveloper.tistory.com/m/entry/135-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0)
   - [스프링 MVC 하루만에 배우기](https://ysedeveloper.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
+  - [01. 들어가며](https://ysedeveloper.tistory.com/m/entry/01-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -336,6 +338,9 @@ head:
   - [Deep한 JPA 매핑](https://maeng-dev.tistory.com/m/166)
   - [프록시와 연관관계 관리](https://maeng-dev.tistory.com/m/168)
   - [객체지향 쿼리: JPQL](https://maeng-dev.tistory.com/m/175)
+  - [객체지향 쿼리 심화](https://maeng-dev.tistory.com/m/176)
+  - [스프링 데이터 JPA](https://maeng-dev.tistory.com/m/177)
+  - [웹 애플리케이션과 영속성 관리](https://maeng-dev.tistory.com/m/178)
   <!-- END: maeng-dev -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)
@@ -356,6 +361,7 @@ head:
 - [`jakpentest` / 뭐라도 해야 한다면 기록을..](https://jakpentest.tistory.com/m/)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter02\] - VO,DTO, DAO, SO](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter02-VODTO-DAO-SO)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter03\] - 덕 타이핑,인터페이스,행동과역할,메서드와함수](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter03-%EB%8D%95-%ED%83%80%EC%9D%B4%ED%95%91%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%96%89%EB%8F%99%EA%B3%BC%EC%97%AD%ED%95%A0%EB%A9%94%EC%84%9C%EB%93%9C%EC%99%80%ED%95%A8%EC%88%98)
+  - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter04\] : SOLID, 의존성, SOLID & 객체지향, 디자인 패턴](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter04-SOLID-%EC%9D%98%EC%A1%B4%EC%84%B1-SOLID-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
   <!-- END: jakpentest -->
 <!-- END: tistory.com java -->
 

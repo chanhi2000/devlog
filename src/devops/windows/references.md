@@ -78,6 +78,7 @@ tag:
   - [grub 복구하기](https://webnautes.tistory.com/m/1147)
   - [Windows에서 Miniconda 삭제하기](https://webnautes.tistory.com/m/2382)
   - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
+  - [Fire Toolbox 사용하여 Amazon Fire HD 10 2023에 구글 플레이 스토어 설치하기](https://webnautes.tistory.com/m/2392)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

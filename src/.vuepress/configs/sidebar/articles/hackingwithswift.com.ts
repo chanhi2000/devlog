@@ -1809,6 +1809,39 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/testing/how-to-test-throwing-functions.md',
               '/explore/articles/hackingwithswift.com/example-code/testing/how-to-write-performance-tests-using-measure.md',
             ]
+          }, {
+            text: 'UIColor',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/uicolor/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/uicolor/how-to-convert-a-hex-color-to-a-uicolor.md',
+              '/explore/articles/hackingwithswift.com/example-code/uicolor/how-to-convert-a-html-name-string-into-a-uicolor.md',
+              '/explore/articles/hackingwithswift.com/example-code/uicolor/how-to-create-custom-colors-using-uicolor-rgb-and-hues.md',
+              '/explore/articles/hackingwithswift.com/example-code/uicolor/how-to-read-the-red-green-blue-and-alpha-color-components-from-a-uicolor.md',
+              '/explore/articles/hackingwithswift.com/example-code/uicolor/how-to-use-an-image-for-your-background-color-with-uicolorpatternimage.md',
+              '/explore/articles/hackingwithswift.com/example-code/uicolor/how-to-use-semantic-colors-to-help-your-ios-app-adapt-to-dark-mode.md',
+            ]
+          }, {
+            text: 'Vision',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/vision/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/vision/how-to-detect-documents-using-vndocumentcameraviewcontroller.md',
+              '/explore/articles/hackingwithswift.com/example-code/vision/how-to-use-vnrecognizetextrequests-optical-character-recognition-to-detect-text-in-an-image.md',
+            ]
+          }, {
+            text: 'WKWebView',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/wkwebview/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/wkwebview/how-to-control-the-sites-a-wkwebview-can-visit-using-wknavigationdelegate.md',
+              '/explore/articles/hackingwithswift.com/example-code/wkwebview/how-to-control-the-user-interface-of-a-wkwebview-using-wkuidelegate.md',
+              '/explore/articles/hackingwithswift.com/example-code/wkwebview/how-to-enable-back-and-forward-swiping-gestures-in-wkwebview.md',
+              '/explore/articles/hackingwithswift.com/example-code/wkwebview/how-to-load-http-content-in-wkwebview-and-uiwebview.md',
+              '/explore/articles/hackingwithswift.com/example-code/wkwebview/how-to-monitor-wkwebview-page-load-progress-using-key-value-observing.md',
+              '/explore/articles/hackingwithswift.com/example-code/wkwebview/how-to-run-javascript-on-a-wkwebview-with-evaluatejavascript.md',
+              '/explore/articles/hackingwithswift.com/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview.md',
+            ]
           }
         ]
       }

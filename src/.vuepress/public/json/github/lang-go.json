@@ -2575,5 +2575,12 @@
     "topics": ["cncf", "consensus", "database", "distributed-database", "distributed-systems", "etcd", "go", "key-value", "kubernetes", "raft"],
     "avatar": "https://avatars.githubusercontent.com/u/41972792?v=4",
     "banner": ""
+  }, {
+    "repo": "sqlc-dev/sqlc",
+    "desc": "Generate type-safe code from SQL",
+    "officialSite": "https://sqlc.dev",
+    "topics": ["code-generator", "go", "kotlin", "mysql", "orm", "postgresql", "python", "sql", "sqlite"],
+    "avatar": "https://avatars.githubusercontent.com/u/136738596?v=4",
+    "banner": ""
   }
 ]

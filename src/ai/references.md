@@ -95,6 +95,7 @@ head:
 - [`@2weV` / AI 시대, 좋은 사람이 인정받는 시대.](https://brunch.co.kr/@@2weV/543)
 - [`@ZVA` / AI는 기업용 소프트웨어판을 어떻게 바꿀 것인가](https://brunch.co.kr/@@ZVA/720)
 - [`@5jl5` / \[책소개\] AI시대의 프로그래머 - AI-Assisted Programming](https://brunch.co.kr/@@5jl5/128)
+- [`@ZVA` / AI 개발자, AI 시대 개발자로서의 일에 대해 묻다](https://brunch.co.kr/@@ZVA/725)
 
 <!-- END: brunch.co.kr -->
 

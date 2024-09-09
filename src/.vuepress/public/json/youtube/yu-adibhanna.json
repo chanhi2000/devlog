@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "adibhanna",
+    "name": "Adib Hanna",
+    "profile": "https://yt3.googleusercontent.com/MoyeYy1W0QKZPCl9uAH9ON9xGNiF11K9v6zNmwXCi49gD1hnZ_A5rtVa41Fb9y4TFyDALRza_vE=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "9unISDZ6OqQ", "title": "Shallow vs Deep Copying in Go" },
+    { "id": "4IqsqWLqR9Y", "title": "CLI Tools For Visualizing Data" },
+    { "id": "ZsxDaQbRfZo", "title": "What font, colorscheme, terminal, etc… do I use?" },
+    { "id": "bKkmCDSFefE", "title": "This Zed feature is unbelievably powerful!" }
+  ],
+  "playlists": [
+
+  ]
+}

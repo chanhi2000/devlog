@@ -519,6 +519,12 @@ head:
 
 ---
 
+## 자바실험실
+
+- [Javalab MBL 프레임](https://javalab.org/javalab_mbl_frame/)
+
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

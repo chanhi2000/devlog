@@ -884,7 +884,6 @@ https://www.joinc.co.kr/w/Site
   logo="https://shi-yan.github.io/webgpuunleashed/favicon.ico"
   preview="https://shi-yan.github.io//webgpuunleashed/meta.png"/>
 
-
 ```component VPCard
 {
   "title": "Plain Vanilla",
@@ -1090,6 +1089,10 @@ https://ui-patterns.com/patterns
   preview="https://docs.deno.com/img/social.png"/>
 
 <!-- END: Documentation -->
+
+@tab Book
+
+<PDF url="https://crimede-coder.com/images/DS_PythonCrimeAnalysis_EarlyRelease.pdf" />
 
 :::
 

@@ -21,6 +21,7 @@ head:
 prev: /programming/css/articles/README.md
 date: 2024-04-18
 isOriginal: false
+cover: https://api.urlbox.io/v1/ln9ptArKXobLRpDQ/16a48673888911c85a0056c6d0659c703b12aa6ba83125c75dfbd78eb43fee0a/png?url=https://piccalil.li/og/a-primer-on-the-cascade-and-specificity/&width=1024&height=526&retina=true
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -39,15 +40,12 @@ isOriginal: false
 
 ---
 
-```component VPCard
-{
-  "title": "A primer on the cascade and specificity | Piccalilli",
-  "desc": "A primer on the cascade and specificity",
-  "link": "https://piccalil.li/news/a-primer-on-the-cascade-and-specificity/",
-  "logo": "https://piccalil.li/favicon.ico",
-  "background": "rgba(172,42,81,0.2)"
-}
-```
+<SiteInfo
+  name="A primer on the cascade and specificity | Piccalilli"
+  desc="Often feared by developers, the cascade and specificity is actually really simple if you utilise the right mental model when authoring CSS."
+  url="https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity/"
+  logo="https://piccalil.li/favicons/apple-touch-icon.png"
+  preview="https://api.urlbox.io/v1/ln9ptArKXobLRpDQ/16a48673888911c85a0056c6d0659c703b12aa6ba83125c75dfbd78eb43fee0a/png?url=https://piccalil.li/og/a-primer-on-the-cascade-and-specificity/&width=1024&height=526&retina=true"/>
 
 <!-- TODO: 작성 -->
 

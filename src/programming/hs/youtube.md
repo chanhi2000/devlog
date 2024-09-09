@@ -28,4 +28,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-well-typed" /><!-- Well-Typed -->
+
 <TagLinks />

@@ -581,6 +581,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "개발자를 위한 실전 ‘코딩테스트’ 준비 팁 | 요즘IT",
+  "desc": "개발자를 위한 실전 ‘코딩테스트’ 준비 팁",
+  "link": "/explore/articles/yozm.wishket.com/2755.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 <!-- END: yozm.wishket.com -->
 
 ---

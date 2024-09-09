@@ -21,6 +21,7 @@ head:
 prev: /programming/css/articles/README.md
 date: 2024-04-29
 isOriginal: false
+cover : https://api.urlbox.io/v1/ln9ptArKXobLRpDQ/5317863aa0317f901b8a9cbf0f25120e61268dfb13d6664819608439bebc4428/png?url=https://piccalil.li/og/css-inheritance/&width=1024&height=526&retina=true
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -39,15 +40,12 @@ isOriginal: false
 
 ---
 
-```component VPCard
-{
-  "title": "CSS inheritance | Piccalilli",
-  "desc": "CSS inheritance",
-  "link": "https://piccalil.li/news/css-inheritance/",
-  "logo": "https://piccalil.li/favicon.ico",
-  "background": "rgba(172,42,81,0.2)"
-}
-```
+<SiteInfo
+  name="CSS inheritance | Piccalilli"
+  desc="Inheritance truly is a superpower and it’s what makes developing on the web a joy if you embrace it. In this quick post, I’m going to convert you into a super fan."
+  url="https://piccalil.li/blog/css-inheritance/"
+  logo="https://piccalil.li/favicons/apple-touch-icon.png"
+  preview="https://api.urlbox.io/v1/ln9ptArKXobLRpDQ/5317863aa0317f901b8a9cbf0f25120e61268dfb13d6664819608439bebc4428/png?url=https://piccalil.li/og/css-inheritance/&width=1024&height=526&retina=true"/>
 
 <!-- TODO: 작성 -->
 

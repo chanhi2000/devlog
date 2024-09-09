@@ -21,7 +21,13 @@ app.use('/awesome-devlog', createProxyMiddleware({
   pathRewrite: {
     '^/geek': '',
   }
-}));
+})).use('/jhrogue', createProxyMiddleware({
+  target: 'https://jhrogue.blogspot.com/',
+  changeOrigin: true,
+  pathRewrite: {
+    '^/jhrogue': '',
+  }
+}))
 
 const PORT = 3000;
 app.listen(PORT, () => {

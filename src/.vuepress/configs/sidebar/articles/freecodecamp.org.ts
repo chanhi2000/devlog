@@ -261,6 +261,7 @@ export const template: SidebarInfoTemplate = {
       "integration-tests-using-testcontainers", // 2024-08-14
       "variables-and-constants-in-go", // 2024-08-19
       "how-to-implement-server-sent-events-in-go", // 2024-08-28
+      "how-the-comma-ok-idiom-and-package-system-work-in-go", // 2024-09-09
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -739,6 +740,7 @@ export const template: SidebarInfoTemplate = {
       "what-is-cache-poisoning-and-how-to-avoid-it", // 2024-09-05
       "what-are-lifetimes-in-rust-explained-with-code-examples", // 2024-09-06
       "how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible", // 2024-09-06
+      "how-the-comma-ok-idiom-and-package-system-work-in-go", // 2024-09-09
     ]],
   ]),
 }

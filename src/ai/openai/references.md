@@ -357,6 +357,9 @@ head:
 - [데이터 분석용 GPTs - 플랏봇](https://jehyunlee.github.io/2024/08/11/General-58-plotbot/)
 - [논문봇 v2 - 출력물 일관성 확보](https://jehyunlee.github.io/2024/08/19/General-59-paperbot2/)
 - [인공지능소사이어티 - 연구활용 실전 LLMs](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
+- [플랏봇 v0.15 - 시각화 커스터마이징](https://jehyunlee.github.io/2024/09/08/General-61-plotbot2/)
+
+<!-- END: jehyunlee.github.io -->
 
 ---
 

@@ -979,5 +979,12 @@
     "topics": ["python", "samples"],
     "avatar": "https://avatars.githubusercontent.com/u/2810941?v=4",
     "banner": ""
+  }, {
+    "repo": "AnswerDotAI/llms-txt",
+    "desc": "The /llms.txt file, helping language models use your website",
+    "officialSite": "http://llmstxt.org/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/156509747?v=4",
+    "banner": ""
   }
 ]

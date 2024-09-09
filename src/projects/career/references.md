@@ -475,6 +475,159 @@ tag:
 - [`dev-ws` / 테오의 학습기록](https://dev-ws.tistory.com/m/)
   - [LG CNS Software Engineer 인턴 및 최종 전환 회고](https://dev-ws.tistory.com/m/126)
   <!-- END: dev-ws -->
+- [`jusths` / just_HS](https://jusths.tistory.com/m/)
+  - [책: 그들의 생각을 바꾸는 방법 - 딥 캔버싱](https://jusths.tistory.com/m/392)
+  - [책: 그들의 생각을 바꾸는 방법 - 자신만의 현실](https://jusths.tistory.com/m/393)
+  - [피드백하는 12가지 방법](https://jusths.tistory.com/m/403)
+  - [책: 도메인 주도 설계 핵심](https://jusths.tistory.com/m/409)
+  <!-- END: jusths -->
+- [`jakpentest` / 뭐라도 해야 한다면 기록을 하자](https://jakpentest.tistory.com/m/)
+  - [[24년 3월] 하기 싫으면 관둬라](https://jakpentest.tistory.com/m/entry/24%EB%85%84-3%EC%9B%94-%ED%95%98%EA%B8%B0-%EC%8B%AB%EC%9C%BC%EB%A9%B4-%EA%B4%80%EB%91%AC%EB%9D%BC)
+  - [[Review] 더 나은 프로그래머 되는 법](https://jakpentest.tistory.com/m/entry/Review-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8A%94-%EB%B2%95)
+  <!-- END: jakpentest -->
+- [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
+  - [혼란하게 진행하기](https://jojoldu.tistory.com/m/776)
+  - [1. 페이징 성능 개선하기](https://jojoldu.tistory.com/m/528)
+  - [Public API의 CDN 캐시](https://jojoldu.tistory.com/m/779)
+  - [언제 이직할 회사를 고르면 좋을까?](https://jojoldu.tistory.com/m/778)
+  - [의미에 매몰되지 않기](https://jojoldu.tistory.com/m/780)
+  - [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/m/781)
+  - [너무 똑똑한 사람이 되지 않기](https://jojoldu.tistory.com/m/785)
+  - [진짜 개발자](https://jojoldu.tistory.com/m/787)
+  - ['개발자도 회사의 조직원이다' 를 보고](http://jojoldu.tistory.com/m/794)
+  - [창피한 일](http://jojoldu.tistory.com/m/797)
+  - [운이 따르는 조직](http://jojoldu.tistory.com/m/798)
+  - [좋은 회사와 커뮤니티](https://jojoldu.tistory.com/m/799)
+  <!-- END: jojoldu -->
+- [`aws-hyoh` / 네트워크 엔지니어 환영의 기술블로그](https://aws-hyoh.tistory.com/m/)
+  - [엔지니어를 위한, 연금 제도 쉽게 이해하기](https://aws-hyoh.tistory.com/m/287)
+  - [퇴직연금 쉽게 이해하기 #2](https://aws-hyoh.tistory.com/m/291)
+  - [국비지원교육(IT)을 신청하기 전에 생각해보아야 할 것들](https://aws-hyoh.tistory.com/m/295)
+- [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
+  <!-- END: aws-hyoh -->
+  - [블록체인 프로젝트 기획 경험기 (1) - Experience planning a blockchain project](https://vurias0203.tistory.com/m/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EA%B2%BD%ED%97%98%EA%B8%B0-1-Experience-planning-a-blockchain-project)
+  - [이직의 시기: 당신의 커리어 성장을 위한 신호를 알아차리는 법](https://vurias0203.tistory.com/m/entry/%EC%9D%B4%EC%A7%81%EC%9D%98-%EC%8B%9C%EA%B8%B0-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A0%ED%98%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EC%B0%A8%EB%A6%AC%EB%8A%94-%EB%B2%95)
+  <!-- END: vurias0203 -->
+- [`dev-wnstjd` / 💻 준성 개발 일지](https://dev-wnstjd.tistory.com/m/)
+  - [[자격증] [정보처리기사] 정보처리기사 필기](https://dev-wnstjd.tistory.com/m/525)
+  - [[자격증] [정보처리기사] 정보처리기사 필기](https://dev-wnstjd.tistory.com/m/526)
+  <!-- END: dev-wnstjd -->
+- [`rutgo-letsgo` /  Enthusiastically, Steady, Slowly](https://rutgo-letsgo.tistory.com/m/)
+  - [쉽게 설명하는 29CM Architecture Manifesto](https://rutgo-letsgo.tistory.com/m/entry/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-29CM-Architecture-Manifesto)
+  - [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 2장. 개략적인 규모 측정](https://rutgo-letsgo.tistory.com/m/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-2%EC%9E%A5-%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8-%EA%B7%9C%EB%AA%A8-%EC%B8%A1%EC%A0%95)
+  - [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 1장. 사용자 수에 따른 규모 확장성](https://rutgo-letsgo.tistory.com/m/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-1)
+  - [3장. 시스템 설계 면접 공략법](https://rutgo-letsgo.tistory.com/m/entry/3%EC%9E%A5-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EB%A9%B4%EC%A0%91-%EA%B3%B5%EB%9E%B5%EB%B2%95)
+  - [[DDD 세레나데 6기] 1주차 강의](https://rutgo-letsgo.tistory.com/m/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-%EA%B0%95%EC%9D%98)
+  <!-- END: rutgo-letsgo -->
+- [`americanopeople` / 복세편살](https://americanopeople.tistory.com/m/)
+  - [<타냐 라일리> 개발자를 넘어 기술 리더로 가는 길: 성공적인 프로젝트 실행력](https://americanopeople.tistory.com/m/454)
+  - [<유영경님> 개발자를 위한 글쓰기 가이드](https://americanopeople.tistory.com/m/455)
+  <!-- END: americanopeople -->
+- [`hl1itj` / 쉽게 살 수 있을까 ?](https://hl1itj.tistory.com/m/)
+  - [자기소개서 이해와 잘 쓰는 법](https://hl1itj.tistory.com/m/261)
+  - ['요새 개발자 채용시장'에 관한 동영상의 댓글들](http://hl1itj.tistory.com/m/266)
+  <!-- END: hl1itj -->
+- [`pjh3749` / JayTech의 기술 블로그](https://pjh3749.tistory.com/m/)
+  - [우아한형제들을 퇴사하며](https://pjh3749.tistory.com/m/289)
+  <!-- END: pjh3749 -->
+- [`min-0` / min-0's  Growth Diary](https://min-0.tistory.com/m/)
+  - [2024년 정기 1회 정보처리기사 필기 합격 + 실기 접수, 시험 후기(+개꿀팁 모음)](https://min-0.tistory.com/m/entry/2024%EB%85%84-%EC%A0%95%EA%B8%B0-1%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%ED%95%84%EA%B8%B0-%ED%95%A9%EA%B2%A9-%EC%8B%A4%EA%B8%B0-%EC%A0%91%EC%88%98-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0)
+  <!-- END: min-0 -->
+- [`duriepark` / 두레박 캠퍼스](https://duriepark.tistory.com/m/)
+  - [[상담] 01.내가 하고싶은 걸 어떻게 찾을 수 있을까?](https://duriepark.tistory.com/m/entry/%EC%83%81%EB%8B%B4-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80-%EA%B1%B8-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
+  - [[개인] 영어 회화 공부방법 찾는 분들에게](https://duriepark.tistory.com/m/entry/%EA%B0%9C%EC%9D%B8-%EC%98%81%EC%96%B4-%ED%9A%8C%ED%99%94-%EA%B3%B5%EB%B6%80%EB%B0%A9%EB%B2%95-%EC%B0%BE%EB%8A%94-%EB%B6%84%EB%93%A4%EC%97%90%EA%B2%8C)
+  - [05. 내 주변에 사람을 남기고 싶은데 어떻게 해야할까요?](https://duriepark.tistory.com/m/entry/05-%EB%82%B4-%EC%A3%BC%EB%B3%80%EC%97%90-%EC%82%AC%EB%9E%8C%EC%9D%84-%EB%82%A8%EA%B8%B0%EA%B3%A0-%EC%8B%B6%EC%9D%80%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94)
+  - [[상담 내용 접수] 상담을 할만한 내용이 있으면 비밀 방명록으로 작성해 주세요!](https://duriepark.tistory.com/notice/714)
+  - [04.다른 사람들 보면 쉽고 빠르게 성공하는 것 같은데 그런 방법이 없을까요? ](https://duriepark.tistory.com/m/entry/04%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EB%93%A4-%EB%B3%B4%EB%A9%B4-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-%EA%B7%B8%EB%9F%B0-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%97%86%EC%9D%84%EA%B9%8C%EC%9A%94)
+  - [08.다른 사람이 내 맘을 몰라줍니다. 어떻게 해야 할까요?](https://duriepark.tistory.com/m/entry/08%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%82%B4-%EB%A7%98%EC%9D%84-%EB%AA%B0%EB%9D%BC%EC%A4%8D%EB%8B%88%EB%8B%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
+  - [09.소통을 잘하고 싶습니다. 방법이 있을까요?](https://duriepark.tistory.com/m/entry/09%EC%86%8C%ED%86%B5%EC%9D%84-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
+  - [10.성공하는 배우자를 선택하는 방법이 있을까요?](https://duriepark.tistory.com/722)
+  - [11.나와 맞는 사람을 찾는 좋은 방법이 있을까요?](https://duriepark.tistory.com/726)
+  - [16.혹시 '인생 멘토'나 조언을 구할 사람을 만나려면 어떤 방법이 있을까요?](https://duriepark.tistory.com/736)
+  - [17.일을 잘하려면 어떻게 해야 되나요?](https://duriepark.tistory.com/737)
+  - [[duriepark's thought] day17-0522](https://duriepark.tistory.com/740)
+  - [\[도서\] 더 나은 프로그래머 되는 법(becoming a better programmer)](https://duriepark.tistory.com/742)
+  <!-- END: duriepark -->
+- [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
+  - [[취준] 3-4월 KPT 회고](https://shout-to-my-mae.tistory.com/m/428)
+  - [스타트업 평가단이 되어 배운 발표의 기술](https://shout-to-my-mae.tistory.com/m/429)
+  <!-- END: shout-to-my-mae -->
+- [`hides` / Hide](https://hides.tistory.com/m/)
+  - [Uber는 어떻게 Redis를 통해 초당 4천만 읽기를 제공하는가](https://hides.tistory.com/m/1143)
+  <!-- END: hides -->
+- [`pearlluck` / 데엔잘하고싶은데엔🔥💎](https://pearlluck.tistory.com/m/)
+  - [결정을 도와주는 '힉의 법칙'이 적용된 UX사례](https://pearlluck.tistory.com/m/804)
+  - [[책] 더 나은 프로그래머 되는법 Part1. you.write(code);](https://pearlluck.tistory.com/m/808)
+  - [[책] 더 나은 프로그래머 되는법 Part5. 사람의 일](https://pearlluck.tistory.com/m/813)
+  - [[도서서평단] 더 나은 프로그래머 되는 법](pearlluck.tistory.com/m/807)
+  - [[책] 더 나은 프로그래머 되는법 부록.국내 개발자 8인의 이야기](https://pearlluck.tistory.com/m/814)
+  - [\[글쓰기 세미나 후기\] 글쓰기 어려운 이유와 글쓰는 과정(1/2) (feat.글또)](https://pearlluck.tistory.com/m/815)
+  - [심리를 파악하면 고객을 사로잡을 수 있다: 골디락스와 자이가르닉 효과](https://pearlluck.tistory.com/m/828)
+  <!-- END: pearlluck -->
+- [`puleugo` / 푸르고 개발 블로그](https://puleugo.tistory.com/m/)
+  - [그냥 하기 (명량한 염세주의)](https://puleugo.tistory.com/m/193)
+  - [이상적인 개발자의 해커톤을 준비 방법](https://puleugo.tistory.com/m/205)
+  - [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/m/206)
+  <!-- END: puleugo -->
+- [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
+  - [\[생각 정리\] 왜 이렇게 열심히 살까? 목표가 있는 건가?](https://csj000714.tistory.com/m/1133)
+  - [\[생각정리\] NAVER가 관심 있는 것들 (1784, 디지털 트윈, 3D Recon, SLAM, ..ALIKE Solution)](https://csj000714.tistory.com/m/1110)
+  <!-- END: csj000714 -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [그리고 한 가지 더 (스티브잡스)](https://ravenkim97.tistory.com/m/m/437)
+  - [현업자 인터뷰](https://ravenkim97.tistory.com/m/436)
+  - [웹사이트 점검 & 보안](https://ravenkim97.tistory.com/m/440)
+  - [21년도 보안동아리 활동(네트워크 보안)](https://ravenkim97.tistory.com/m/441)
+  - [WBS](https://ravenkim97.tistory.com/m/442)
+  - [핵심역량 진단결과 코칭보고서](https://ravenkim97.tistory.com/m/444)
+  - [21년도 보안동아리 활동(네트워크 보안)](https://ravenkim97.tistory.com/m/441)
+  - [8월 프런트 (1/4)](https://ravenkim97.tistory.com/m/486)
+  <!-- END: ravenkim97 -->
+- [`jeinalog` / Jeina, De'vLog](https://jeinalog.tistory.com/m/)
+  - [Google Coding Interview｜구글 신입 엔지니어 인터뷰 준비 후기](https://jeinalog.tistory.com/m/30)
+  <!-- END: jeinalog -->
+- [`jins-dev` / Jins' Dev Inside](https://jins-dev.tistory.com/m/)
+  - [개발을 시작하는 이들을 위한 주니어 개발자 두번의 이직 이야기](https://jins-dev.tistory.com/m/233)
+  <!-- END: jins-dev -->
+- [`reoim` / 기술 저장소](https://reoim.tistory.com/m/)
+  - [클라우드알못에서 AWS 이직까지](https://reoim.tistory.com/m/entry/%ED%81%B4%EC%95%8C%EB%AA%BB%EC%97%90%EC%84%9C-AWS-%EC%9D%B4%EC%A7%81%EA%B9%8C%EC%A7%80)
+  <!-- END: reoim -->
+- [`imasoftwareengineer` / 삐멜 소프트웨어 엔지니어](https://imasoftwareengineer.tistory.com/m/)
+  - [소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)](https://imasoftwareengineer.tistory.com/m/66)
+  <!-- END: imasoftwareengineer -->
+- [`kdinner` / 강디너의 개발 일지](https://kdinner.tistory.com/m/)
+  - [새로운 시작... feat. 시니어 개발자를 향하여](https://kdinner.tistory.com/m/127)
+  <!-- END: kdinner -->
+- [`co1nam` / 코드 읽는 남자](https://co1nam.tistory.com/m/)
+  - [개발할 때 실수를 줄이는 방법](https://co1nam.tistory.com/m/98)
+  <!-- END: co1nam -->
+- [`teveloper` / Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/m/)
+  - [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 2번째 발표 후기](https://teveloper.tistory.com/m/81)
+  <!-- END: teveloper -->
+- [`krksap` / 뷰티풀 프로그래밍](http://krksap.tistory.com/m/)
+  - [개발자는 ESG를 신경 써야 하는가?](http://krksap.tistory.com/m/2294)
+  <!-- END: krksap -->
+- [`jinson` / 지앤선의 책 사랑](https://jinson.tistory.com/m/)
+  - [\[한글화 프로젝트\] 개발자에서 관리자까지: 기술력을 유지해라](https://jinson.tistory.com/m/285)
+  <!-- END: jinson -->
+- [`dkswnkk` / JuHyeong.dev](http://dkswnkk.tistory.com/m/)
+  - [NextStep DDD 세레나데 수료 후기](http://dkswnkk.tistory.com/m/755)
+  <!-- END: dkswnkk -->
+- [`lazymatlab` / 게으른맽랩 lazy matlab](https://lazymatlab.tistory.com/m/)
+  - [자격증에 대한 소고](https://lazymatlab.tistory.com/m/263)
+  <!-- END: lazymatlab -->
+- [`greypencil` / 회색분자의 IT 창작 놀이터](https://greypencil.tistory.com/m/)
+  - [질문 리더쉽은 반대 : 집중해야 할 것](https://greypencil.tistory.com/m/216)
+  - [비즈니스 모델, '지속 가능성' : 왜 중요할까?](https://greypencil.tistory.com/m/217)
+  - [꿈 꾸는 사람, 구현하는 사람, 돈 만드는 사람](https://greypencil.tistory.com/m/220)
+  <!-- END: greypencil -->
+- [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
+  - [\[원문 번역\]기술 리더로서의 첫 경험: 번역과 개인적 소회](https://jinn-blog.tistory.com/m/185)
+  - [프로젝트 히드라 효과: 끝없는 시작과 마주하기 (번역)](https://jinn-blog.tistory.com/m/202)
+  <!-- END: jinn-blog -->
+- [`sjquant` /  Seonu'ss](https://sjquant.tistory.com/m/)
+  - [\[24년 주저리 #2\] 나만의 태양계 만들기](https://sjquant.tistory.com/m/101)
+  <!-- END: sjquant -->
 <!-- END: tistory.com -->
 
 ---
@@ -520,15 +673,6 @@ tag:
 
 ---
 
-## just_HS
-
-- [책: 그들의 생각을 바꾸는 방법 - 딥 캔버싱](https://jusths.tistory.com/m/392)
-- [책: 그들의 생각을 바꾸는 방법 - 자신만의 현실](https://jusths.tistory.com/m/393)
-- [피드백하는 12가지 방법](https://jusths.tistory.com/m/403)
-- [책: 도메인 주도 설계 핵심](https://jusths.tistory.com/m/409)
-
----
-
 ## The Startup Bible
 
 - [과소평가, 과대평가 – 기술](https://thestartupbible.com/2024/04/things-we-overestimate-and-underestimate-technology.html)
@@ -567,34 +711,9 @@ tag:
 - [회사는 놀이터가 아니다](https://thestartupbible.com/2024/08/your-company-is-not-your-playground.html)
 - [자신감에 대해서 – part 1](https://thestartupbible.com/2024/08/on-confidence-part-1.html)
 - [자신감에 대해서 – part 2](https://thestartupbible.com/2024/09/on-confidence-part-2.html)
+- [노가다에 대해서](https://thestartupbible.com/2024/09/not-scalable-until-scalable.html)
 
 <!-- END: thestartupbible.com -->
-
----
-
-## 뭐라도 해야 한다면 기록을 하자
-
-- [[24년 3월] 하기 싫으면 관둬라](https://jakpentest.tistory.com/m/entry/24%EB%85%84-3%EC%9B%94-%ED%95%98%EA%B8%B0-%EC%8B%AB%EC%9C%BC%EB%A9%B4-%EA%B4%80%EB%91%AC%EB%9D%BC)
-- [[Review] 더 나은 프로그래머 되는 법](https://jakpentest.tistory.com/m/entry/Review-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8A%94-%EB%B2%95)
-
----
-
-## 기억보단 기록을
-
-- [혼란하게 진행하기](https://jojoldu.tistory.com/m/776)
-- [1. 페이징 성능 개선하기](https://jojoldu.tistory.com/m/528)
-- [Public API의 CDN 캐시](https://jojoldu.tistory.com/m/779)
-- [언제 이직할 회사를 고르면 좋을까?](https://jojoldu.tistory.com/m/778)
-- [의미에 매몰되지 않기](https://jojoldu.tistory.com/m/780)
-- [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/m/781)
-- [너무 똑똑한 사람이 되지 않기](https://jojoldu.tistory.com/m/785)
-- [진짜 개발자](https://jojoldu.tistory.com/m/787)
-- ['개발자도 회사의 조직원이다' 를 보고](http://jojoldu.tistory.com/m/794)
-- [창피한 일](http://jojoldu.tistory.com/m/797)
-- [운이 따르는 조직](http://jojoldu.tistory.com/m/798)
-- [좋은 회사와 커뮤니티](https://jojoldu.tistory.com/m/799)
-
-<!-- END: jojoldu.tistory.com -->
 
 ---
 
@@ -739,14 +858,6 @@ tag:
 
 ---
 
-## 네트워크 엔지니어 환영의 기술블로그
-
-- [엔지니어를 위한, 연금 제도 쉽게 이해하기](https://aws-hyoh.tistory.com/287)
-- [퇴직연금 쉽게 이해하기 #2](https://aws-hyoh.tistory.com/291)
-- [국비지원교육(IT)을 신청하기 전에 생각해보아야 할 것들](https://aws-hyoh.tistory.com/m/295)
-
----
-
 ## WONIZZ.LOG - DEVELOPMENT & LIFE LOG
 
 - [[서평 작성] 개발자 기술 면접 노트](https://blog.wonizz.com/2024/04/15/hanbit-reviewer-6/)
@@ -768,13 +879,6 @@ tag:
 
 ---
 
-## Miles UX/UI Insight
-
-- [블록체인 프로젝트 기획 경험기 (1) - Experience planning a blockchain project](https://vurias0203.tistory.com/m/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EA%B2%BD%ED%97%98%EA%B8%B0-1-Experience-planning-a-blockchain-project)
-- [이직의 시기: 당신의 커리어 성장을 위한 신호를 알아차리는 법](https://vurias0203.tistory.com/m/entry/%EC%9D%B4%EC%A7%81%EC%9D%98-%EC%8B%9C%EA%B8%B0-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A0%ED%98%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EC%B0%A8%EB%A6%AC%EB%8A%94-%EB%B2%95)
-
----
-
 ## 해맥(海脈)의 IT/정보기술
 
 - [CIO로서 2가지 주요 영역에만 집중하기로 결정했다면, 그 영역은 무엇일까?](https://i-bada.blogspot.com/2024/04/cio-2.html)
@@ -784,13 +888,6 @@ tag:
 ## Atomic Object
 
 - [Two Symptoms Your Team Isn't Agile](https://spin.atomicobject.com/agile-practices/)
-
----
-
-## 💻 준성 개발 일지
-
-- [[자격증] [정보처리기사] 정보처리기사 필기](https://dev-wnstjd.tistory.com/525)
-- [[자격증] [정보처리기사] 정보처리기사 필기](https://dev-wnstjd.tistory.com/526)
 
 ---
 
@@ -816,39 +913,9 @@ tag:
 
 ---
 
-## Enthusiastically, Steady, Slowly
-
-- [쉽게 설명하는 29CM Architecture Manifesto](https://rutgo-letsgo.tistory.com/m/entry/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-29CM-Architecture-Manifesto)
-- [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 2장. 개략적인 규모 측정](https://rutgo-letsgo.tistory.com/m/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-2%EC%9E%A5-%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8-%EA%B7%9C%EB%AA%A8-%EC%B8%A1%EC%A0%95)
-- [[가상면접 사례로 배우는 대규모 시스템 설계 vol.1] 1장. 사용자 수에 따른 규모 확장성](https://rutgo-letsgo.tistory.com/m/entry/%EA%B0%80%EC%83%81%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-vol1-1)
-- [3장. 시스템 설계 면접 공략법](https://rutgo-letsgo.tistory.com/m/entry/3%EC%9E%A5-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EB%A9%B4%EC%A0%91-%EA%B3%B5%EB%9E%B5%EB%B2%95)
-- [[DDD 세레나데 6기] 1주차 강의](https://rutgo-letsgo.tistory.com/m/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-%EA%B0%95%EC%9D%98)
-
----
-
-## 복세편살
-
-- [<타냐 라일리> 개발자를 넘어 기술 리더로 가는 길: 성공적인 프로젝트 실행력](https://americanopeople.tistory.com/454)
-- [<유영경님> 개발자를 위한 글쓰기 가이드](https://americanopeople.tistory.com/455)
-
----
-
-## 쉽게 살 수 있을까 ?
-
-- [자기소개서 이해와 잘 쓰는 법](https://hl1itj.tistory.com/n/261)
-- ['요새 개발자 채용시장'에 관한 동영상의 댓글들](http://hl1itj.tistory.com/m/266)
-
----
-
 ## Real Insight Comes From Fixing Error
 
 - [사람에 집중한 개발자 생산성 측정](https://www.getoutsidedoor.com/2024/04/23/%ec%82%ac%eb%9e%8c%ec%97%90-%ec%a7%91%ec%a4%91%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%83%9d%ec%82%b0%ec%84%b1-%ec%b8%a1%ec%a0%95/)
-
----
-
-## JayTech의 기술 블로그
-
-- [우아한형제들을 퇴사하며](https://pjh3749.tistory.com/289)
 
 ---
 
@@ -858,7 +925,7 @@ tag:
 
 ---
 
-## 기계인간 John Grib 
+## 기계인간 John Grib
 
 - [(책) 컨설팅의 비밀](https://johngrib.github.io/wiki/book/secret-of-consulting/)
 
@@ -870,46 +937,15 @@ tag:
 
 ---
 
-## min-0's  Growth Diary
-
-- [2024년 정기 1회 정보처리기사 필기 합격 + 실기 접수, 시험 후기(+개꿀팁 모음)](https://min-0.tistory.com/m/entry/2024%EB%85%84-%EC%A0%95%EA%B8%B0-1%ED%9A%8C-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%ED%95%84%EA%B8%B0-%ED%95%A9%EA%B2%A9-%EC%8B%A4%EA%B8%B0-%EC%A0%91%EC%88%98-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0)
-
----
-
 ## 김동호의 스타트업 이야기
 
 - [한국신용데이터 창립 8주년에 부쳐](https://kelvinkim.net/2024/04/27/kcd-8th-anniversary/)
 
 ---
 
-## 두레박 캠퍼스
-
-- [[상담] 01.내가 하고싶은 걸 어떻게 찾을 수 있을까?](https://duriepark.tistory.com/m/entry/%EC%83%81%EB%8B%B4-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80-%EA%B1%B8-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
-- [[개인] 영어 회화 공부방법 찾는 분들에게 ](https://duriepark.tistory.com/m/entry/%EA%B0%9C%EC%9D%B8-%EC%98%81%EC%96%B4-%ED%9A%8C%ED%99%94-%EA%B3%B5%EB%B6%80%EB%B0%A9%EB%B2%95-%EC%B0%BE%EB%8A%94-%EB%B6%84%EB%93%A4%EC%97%90%EA%B2%8C)
-- [05. 내 주변에 사람을 남기고 싶은데 어떻게 해야할까요? ](https://duriepark.tistory.com/m/entry/05-%EB%82%B4-%EC%A3%BC%EB%B3%80%EC%97%90-%EC%82%AC%EB%9E%8C%EC%9D%84-%EB%82%A8%EA%B8%B0%EA%B3%A0-%EC%8B%B6%EC%9D%80%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94)
-- [[상담 내용 접수] 상담을 할만한 내용이 있으면 비밀 방명록으로 작성해 주세요!](https://duriepark.tistory.com/notice/714)
-- [04.다른 사람들 보면 쉽고 빠르게 성공하는 것 같은데 그런 방법이 없을까요? ](https://duriepark.tistory.com/m/entry/04%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EB%93%A4-%EB%B3%B4%EB%A9%B4-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94-%EA%B2%83-%EA%B0%99%EC%9D%80%EB%8D%B0-%EA%B7%B8%EB%9F%B0-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%97%86%EC%9D%84%EA%B9%8C%EC%9A%94)
-- [08.다른 사람이 내 맘을 몰라줍니다. 어떻게 해야 할까요?](https://duriepark.tistory.com/m/entry/08%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%82%B4-%EB%A7%98%EC%9D%84-%EB%AA%B0%EB%9D%BC%EC%A4%8D%EB%8B%88%EB%8B%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
-- [09.소통을 잘하고 싶습니다. 방법이 있을까요?](https://duriepark.tistory.com/m/entry/09%EC%86%8C%ED%86%B5%EC%9D%84-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
-- [10.성공하는 배우자를 선택하는 방법이 있을까요?](https://duriepark.tistory.com/722)
-- [11.나와 맞는 사람을 찾는 좋은 방법이 있을까요?](https://duriepark.tistory.com/726)
-- [16.혹시 '인생 멘토'나 조언을 구할 사람을 만나려면 어떤 방법이 있을까요?](https://duriepark.tistory.com/736)
-- [17.일을 잘하려면 어떻게 해야 되나요?](https://duriepark.tistory.com/737)
-- [[duriepark's thought] day17-0522](https://duriepark.tistory.com/740)
-- [\[도서\] 더 나은 프로그래머 되는 법(becoming a better programmer)](https://duriepark.tistory.com/742)
-
----
-
 ## Outsider's Dev Story
 
 - [[Book] 규칙 없음 - 넷플릭스, 지구상 가장 빠르고 유연한 기업의 비밀](https://blog.outsider.ne.kr/1720)
-
----
-
-## Minty Box
-
-- [[취준] 3-4월 KPT 회고](https://shout-to-my-mae.tistory.com/428)
-- [스타트업 평가단이 되어 배운 발표의 기술](https://shout-to-my-mae.tistory.com/429)
 
 ---
 
@@ -945,12 +981,6 @@ tag:
 
 ---
 
-## Hide
-
-- [Uber는 어떻게 Redis를 통해 초당 4천만 읽기를 제공하는가](https://hides.tistory.com/1143)
-
----
-
 ## DREAMING FOR THE FUTURE
 
 - [리더십으로의 정원사](https://chidoo.me/index.php/2024/05/06/gardener-as-a-leadership/)
@@ -968,20 +998,9 @@ tag:
 - [리더십의 안전감 – 가족 같은 팀 vs. 프로 팀](https://chidoo.me/index.php/2024/08/19/team-as-a-pro-team-in-leadership/)
 - [리더십의 안전감 – 실패와 책임](https://chidoo.me/index.php/2024/08/26/failure-and-responsibility-in-leadership/)
 - [리더십의 안전감 – 위임을 통한 성장](https://chidoo.me/index.php/2024/09/02/empowerment-in-leadership/)
+- [리더십의 안전감 – 안전의 요소: Empathy, Vulnerability, Radical Candor](https://chidoo.me/index.php/2024/09/09/why-radical-candor-in-leaderships/)
 
 <!-- END: chidoo.me -->
-
----
-
-## 데엔잘하고싶은데엔🔥💎
-
-- [결정을 도와주는 '힉의 법칙'이 적용된 UX사례](https://pearlluck.tistory.com/804)
-- [[책] 더 나은 프로그래머 되는법 Part1. you.write(code);](https://pearlluck.tistory.com/808)
-- [[책] 더 나은 프로그래머 되는법 Part5. 사람의 일](https://pearlluck.tistory.com/813)
-- [[도서서평단] 더 나은 프로그래머 되는 법](pearlluck.tistory.com/807)
-- [[책] 더 나은 프로그래머 되는법 부록.국내 개발자 8인의 이야기](https://pearlluck.tistory.com/814)
-- [\[글쓰기 세미나 후기\] 글쓰기 어려운 이유와 글쓰는 과정(1/2) (feat.글또)](https://pearlluck.tistory.com/815)
-- [심리를 파악하면 고객을 사로잡을 수 있다: 골디락스와 자이가르닉 효과](https://pearlluck.tistory.com/m/828)
 
 ---
 
@@ -991,14 +1010,6 @@ tag:
 - [금융위와 금감원이 내놓은 ATS 운영방안](https://smallake.kr/?p=34104)
 - [회원시스템 접속 등에 관한 지침으로 본 DMA영업의 한계](https://smallake.kr/?p=34051)
 - [여의도로 출근하기](https://smallake.kr/?p=30641)
-
----
-
-## 푸르고 개발 블로그
-
-- [그냥 하기 (명량한 염세주의)](https://puleugo.tistory.com/193)
-- [이상적인 개발자의 해커톤을 준비 방법](https://puleugo.tistory.com/m/205)
-- [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/m/206)
 
 ---
 
@@ -1021,26 +1032,6 @@ tag:
 ## Dongjun Lee
 
 - [Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life)
-
----
-
-## 드프 DrawingProcess
-
-- [\[생각 정리\] 왜 이렇게 열심히 살까? 목표가 있는 건가?](https://csj000714.tistory.com/m/1133)
-- [\[생각정리\] NAVER가 관심 있는 것들 (1784, 디지털 트윈, 3D Recon, SLAM, ..ALIKE Solution)](https://csj000714.tistory.com/m/1110)
-
----
-
-## Life Log
-
-- [그리고 한 가지 더 (스티브잡스)](https://ravenkim97.tistory.com/437)
-- [현업자 인터뷰](https://ravenkim97.tistory.com/436)
-- [웹사이트 점검 & 보안](https://ravenkim97.tistory.com/440)
-- [21년도 보안동아리 활동(네트워크 보안)](https://ravenkim97.tistory.com/441)
-- [WBS](https://ravenkim97.tistory.com/442)
-- [핵심역량 진단결과 코칭보고서](https://ravenkim97.tistory.com/444)
-- [21년도 보안동아리 활동(네트워크 보안)](https://ravenkim97.tistory.com/m/441)
-- [8월 프런트 (1/4)](https://ravenkim97.tistory.com/m/486)
 
 ---
 
@@ -1187,12 +1178,6 @@ https://m.blog.naver.com/&logId=
 
 ---
 
-## Jeina, De'vLog
-
-- [Google Coding Interview｜구글 신입 엔지니어 인터뷰 준비 후기](https://jeinalog.tistory.com/m/30)
-
----
-
 ## 기획자 데이먼
 
 - [당신은 대체 불가능한 기획자인가요?](https://yslab.kr/135)
@@ -1223,18 +1208,6 @@ https://m.blog.naver.com/&logId=
 
 ---
 
-## Jins' Dev Inside
-
-- [개발을 시작하는 이들을 위한 주니어 개발자 두번의 이직 이야기](https://jins-dev.tistory.com/m/233)
-
----
-
-## 기술 저장소
-
-- [클라우드알못에서 AWS 이직까지](https://reoim.tistory.com/m/entry/%ED%81%B4%EC%95%8C%EB%AA%BB%EC%97%90%EC%84%9C-AWS-%EC%9D%B4%EC%A7%81%EA%B9%8C%EC%A7%80)
-
----
-
 ## 👨‍💻꿈꾸는 태태태의 공간
 
 - [개발하기 바쁜데 글까지 쓰라고? (글쓰는 개발자가 되자.)](https://taetaetae.github.io/2019/10/27/a-reason-for-writing/)
@@ -1259,12 +1232,6 @@ https://m.blog.naver.com/&logId=
 
 ---
 
-## 삐멜 소프트웨어 엔지니어
-
-- [소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)](https://imasoftwareengineer.tistory.com/m/66)
-
----
-
 ## Muchtrans
 
 - [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html)
@@ -1280,12 +1247,6 @@ https://m.blog.naver.com/&logId=
 ## 리드미 - LeadMe
 
 - [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
-
----
-
-## 강디너의 개발 일지
-
-- [새로운 시작... feat. 시니어 개발자를 향하여](https://kdinner.tistory.com/m/127)
 
 ---
 
@@ -1313,18 +1274,6 @@ https://m.blog.naver.com/&logId=
 
 ---
 
-## 코드 읽는 남자
-
-- [개발할 때 실수를 줄이는 방법](https://co1nam.tistory.com/m/98)
-
----
-
-## Teveloper 개발 & 테니스 이야기
-
-- [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 2번째 발표 후기](https://teveloper.tistory.com/m/81)
-
----
-
 ## Mimul Tech log
 
 - [프로그래밍에서 인지 편향](https://www.mimul.com/blog/cognitive-biases-in-programming/)
@@ -1347,12 +1296,6 @@ https://m.blog.naver.com/&logId=
 ## 보름의 달빛 ✨
 
 - [센디 자체 주소 검색 시스템 릴리즈 🎉](https://shkisme.vercel.app/Sendy-Juso-Retrospect)
-
----
-
-## 뷰티풀 프로그래밍
-
-- [개발자는 ESG를 신경 써야 하는가?](http://krksap.tistory.com/m/2294)
 
 ---
 
@@ -1416,12 +1359,6 @@ https://m.blog.naver.com/&logId=
 
 ---
 
-## 지앤선의 책 사랑
-
-- [\[한글화 프로젝트\] 개발자에서 관리자까지: 기술력을 유지해라](https://jinson.tistory.com/m/285)
-
----
-
 ## Paul Graham
 
 - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
@@ -1453,29 +1390,9 @@ https://m.blog.naver.com/&logId=
 
 ---
 
-## JuHyeong.dev
-
-- [NextStep DDD 세레나데 수료 후기](http://dkswnkk.tistory.com/m/755)
-
----
-
-## 게으른맽랩 lazy matlab
-
-- [자격증에 대한 소고](https://lazymatlab.tistory.com/m/263)
-
----
-
 ## 사랑나무아빠의 행복한 세상
 
 - [IT 프로그래머로 살아남기 위한 개발자 실무 교육 필요성](https://m.blog.naver.com/hupers/223516480982)
-
----
-
-## 회색분자의 IT 창작 놀이터
-
-- [질문 리더쉽은 반대 : 집중해야 할 것](https://greypencil.tistory.com/m/216)
-- [비즈니스 모델, '지속 가능성' : 왜 중요할까?](https://greypencil.tistory.com/m/217)
-- [꿈 꾸는 사람, 구현하는 사람, 돈 만드는 사람](https://greypencil.tistory.com/m/220)
 
 ---
 
@@ -1511,12 +1428,6 @@ https://m.blog.naver.com/&logId=
 
 ---
 
-## 개발자 박진 블로그
-
-- [\[원문 번역\]기술 리더로서의 첫 경험: 번역과 개인적 소회](https://jinn-blog.tistory.com/m/185)
-
----
-
 ## 온라인 결제의 모든 것, 포트원 기업 블로그
 
 - [전금법 개정, 온라인 커머스도 대비해야합니다.](https://blog.portone.io/partner-settlement-lawinfo/)
@@ -1529,15 +1440,15 @@ https://m.blog.naver.com/&logId=
 
 ---
 
-## Seonu'ss
-
-- [\[24년 주저리 #2\] 나만의 태양계 만들기](https://sjquant.tistory.com/m/101)
-
----
-
 ## ByteDrum
 
 - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
+
+---
+
+## Eric's DevLog (데브로그)
+
+- [리팩토링 그게 돈이 됩니까?](https://kyungyeon.dev/posts/116)
 
 ---
 

@@ -12,8 +12,8 @@ tag:
   - frontendmasters.com
   - smashingmagazine.com
   - blog.logrocket.com
-  - yozm.wishket.com
   - piccalil.li
+  - yozm.wishket.com
   - meetup.nhncloud.com
   - sitepoint.com
   - devtoolstips.org
@@ -66,21 +66,21 @@ head:
 
 ```component VPCard
 {
-  "title": "요즘IT", 
-  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
-  "link": "https://yozm.wishket.com/magazine/list/develop/", 
-  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
-  "background": "rgba(84,7,224,0.2)"
+  "title": "Piccalilli - level up your front-end development skills",
+  "desc": "We are Piccalilli. A publication dedicated to providing high quality educational content to level up your front-end skills.",
+  "link": "https://piccalil.li/",
+  "logo": "https://piccalil.li/favicons/apple-touch-icon.png",
+  "background": "rgba(253,208,0,0.2)"
 }
 ```
 
 ```component VPCard
 {
-  "title": "Piccalilli - level up your front-end development skills",
-  "desc": "We are Piccalilli. A publication dedicated to providing high quality educational content to level up your front-end skills.",
-  "link": "https://piccalil.li/blog",
-  "logo": "https://piccalil.li/favicon.ico?v=1",
-  "background": "rgba(172,42,81,0.2)"
+  "title": "요즘IT", 
+  "desc": "요즘 사람들의 IT 매거진, 요즘IT", 
+  "link": "https://yozm.wishket.com/magazine/list/develop/", 
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
 }
 ```
 
@@ -597,6 +597,52 @@ head:
 ```
 
 <!-- END: blog.logrocket.com -->
+
+## Piccalilli - level up your front-end development skills
+
+> piccalil.li
+
+```component VPCard
+{
+  "title": "How we’re approaching theming with modern CSS | Piccalilli",
+  "desc": "We’ve started a new project which requires heavy, creative theming, so I made a prototype to test some ideas out.",
+  "link": "/explore/articles/piccalil.li/how-were-approaching-theming-with-modern-css.md",
+  "logo": "https://piccalil.li/favicons/apple-touch-icon.png",
+  "background": "rgba(253,208,0,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "A primer on the cascade and specificity | Piccalilli",
+  "desc": "Often feared by developers, the cascade and specificity is actually really simple if you utilise the right mental model when authoring CSS.",
+  "link": "/explore/articles/piccalil.li/a-primer-on-the-cascade-and-specificity.md",
+  "logo": "https://piccalil.li/favicons/apple-touch-icon.png",
+  "background": "rgba(253,208,0,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "CSS inheritance | Piccalilli",
+  "desc": "Inheritance truly is a superpower and it’s what makes developing on the web a joy if you embrace it. In this quick post, I’m going to convert you into a super fan.",
+  "link": "/explore/articles/piccalil.li/css-inheritance.md",
+  "logo": "https://piccalil.li/favicons/apple-touch-icon.png",
+  "background": "rgba(253,208,0,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "I’m worried about the tabbing behaviour, rather than the syntax and name of CSS masonry | Piccalilli",",
+  "desc": "There’s a lot of chatter about CSS masonry at the moment. Should it be called “masonry” and should it be grid? Let’s worry about the basics first.,",
+  "link": "/explore/articles/piccalil.li/masonry-and-tabbing.md",
+  "logo": "https://piccalil.li/favicons/apple-touch-icon.png",
+  "background": "rgba(253,208,0,0.2)"
+}
+```
+
+<!-- END: piccalil.li -->
 
 ---
 

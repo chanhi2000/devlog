@@ -137,5 +137,6 @@ head:
 <MyYouTubeItems jsonName="yu-sikbo" /><!-- 이재성 박사의 식탁보감 -->
 <MyYouTubeItems jsonName="yu-NJT_BOOK" /><!-- 너진똑 NJT BOOK -->
 <MyYouTubeItems jsonName="yu-DreamSchool_KR" /><!-- DreamSchool 이윤규 -->
+<MyYouTubeItems jsonName="yu-review_songmini" /><!-- END: 리뷰한다 송미니 -->
 
 <TagLinks />

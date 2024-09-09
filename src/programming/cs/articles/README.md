@@ -136,6 +136,56 @@ head:
 
 ```component VPCard
 {
+  "title": "Why I Write My LINQ Queries Tall, Not Wide",
+  "desc": "In this newsletter, I'll show you how you can write tall LINQ queries to improve readability and make your code easier to maintain. We are going to start from a wide LINQ query, and see how we can refactor it into a tall LINQ query.",
+  "link": "/explore/articles/milanjovanovic.tech/why-i-write-tall-linq-queries.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Records, Anonymous Types, and Non-Destructive Mutation",
+  "desc": "Today, I'm going to share some fascinating things you can do with records and anonymous types. I will introduce you to the concept of non-destructive mutation. And I will talk about when and why we might want to use this C# language feature.",
+  "link": "/explore/articles/milanjovanovic.tech/records-anonymous-types-non-destructive-mutation.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How To Improve Performance With EF Core Query Splitting",
+  "desc": "I recently ran into an issue with Entity Framework Core. The query I was running was constantly timing out. So I used a new EF Core feature called Query Splitting to significantly improve my performance.",
+  "link": "/explore/articles/milanjovanovic.tech/how-to-improve-performance-with-ef-core-query-splitting.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "3 Ways To Create Middleware In ASP.NET Core",
+  "desc": "In this newsletter, we'll be covering three ways to create middleware in ASP.NET Core applications. Middleware allows us to introduce additional logic before or after executing an HTTP request. You are already using many of the built-in middleware available in the framework. I'm going to show you three approaches to how you can define custom middleware: With Request Delegates, By Convention, and Factory-Based.",
+  "link": "/explore/articles/milanjovanovic.tech/3-ways-to-create-middleware-in-asp-net-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Decorator Pattern In ASP.NET Core",
+  "desc": "Let's imagine we have an existing Repository implementation, and we want to introduce caching to reduce the load on the database. How can we achieve this without changing anything about the Repository implementation? Decorator pattern is a structural design pattern that allows you to introduce new behavior to an existing class, without modifying the original class in any way. I'll show you how you can implement this with the ASP.NET Core DI container.",
+  "link": "/explore/articles/milanjovanovic.tech/decorator-pattern-in-asp-net-core.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "How I Optimized an API Endpoint to Make It 15x Faster",
   "desc": "Performance optimizations are my favorite thing about software engineering. Over the last 5 years, I've encountered various performance problems that taught me different ways to overcome them.",
   "link": "/explore/articles/milanjovanovic.tech/how-i-optimized-an-api-endpoint-to-make-it-15x-faster.md",

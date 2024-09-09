@@ -6,6 +6,11 @@ export const template: SidebarInfoTemplate = {
   linksMap: new Map([
     [
     "cs", [
+      "why-i-write-tall-linq-queries", // 2022-09-03
+      "records-anonymous-types-non-destructive-mutation", // 2022-09-10
+      "how-to-improve-performance-with-ef-core-query-splitting", // 2022-09-17
+      "3-ways-to-create-middleware-in-asp-net-core", // 2022-10-01
+      "decorator-pattern-in-asp-net-core", // 2022-10-08
       "how-i-optimized-an-api-endpoint-to-make-it-15x-faster", // 2022-10-15
       "introduction-to-locking-and-concurrency-control-in-dotnet-6", // 2022-10-22
       "how-to-use-global-query-filters-in-ef-core", // 2022-10-29
@@ -98,7 +103,7 @@ export const template: SidebarInfoTemplate = {
     "cs-razor", [
       "flexible-pdf-reporting-in-net-using-razor-views", // 2024-06-29
     ]],[
-  "js-node", [
+    "js-node", [
       "horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing", // 2024-03-30
     ]],[
     "erl-rabbitmq", [
@@ -120,6 +125,7 @@ export const template: SidebarInfoTemplate = {
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
     ]],[
     "system-design", [
+      "clean-architecture-folder-structure", // 2022-09-24
       "visualize-your-software-architecture-with-the-c4-model", // 2023-05-13
       "why-clean-architecture-is-great-for-complex-projects", // 2023-07-29
       "modular-monolith-communication-patterns", // 2023-08-05
@@ -130,6 +136,12 @@ export const template: SidebarInfoTemplate = {
       "how-to-be-a-better-software-engineer-in-2023", // 2022-12-31
     ]],[
     "all", [
+      "why-i-write-tall-linq-queries", // 2022-09-03
+      "records-anonymous-types-non-destructive-mutation", // 2022-09-10
+      "how-to-improve-performance-with-ef-core-query-splitting", // 2022-09-17
+      "clean-architecture-folder-structure", // 2022-09-24
+      "3-ways-to-create-middleware-in-asp-net-core", // 2022-10-01
+      "decorator-pattern-in-asp-net-core", // 2022-10-08
       "how-i-optimized-an-api-endpoint-to-make-it-15x-faster", // 2022-10-15
       "introduction-to-locking-and-concurrency-control-in-dotnet-6", // 2022-10-22
       "how-to-use-global-query-filters-in-ef-core", // 2022-10-29

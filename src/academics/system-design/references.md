@@ -394,6 +394,15 @@ head:
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[CS\] DB - 트랜잭션과 격리성](https://findsilverlining.tistory.com/m/131)
   <!-- END: findsilverlining -->
+- [`martian36` / 웹디자인 & 포토샵](http://martian36.tistory.com/m/)
+  - [한림 웹폰트](http://martian36.tistory.com/m/1636)
+  <!-- END: martian36 -->
+- [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
+  - [웹 애플리케이션과 영속성 관리](https://maeng-dev.tistory.com/m/178)
+  <!-- END: maeng-dev -->
+- [`jakpentest` / 뭐라도 해야 한다면 기록을..](https://jakpentest.tistory.com/m/)
+  - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter04\] : SOLID, 의존성, SOLID & 객체지향, 디자인 패턴](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter04-SOLID-%EC%9D%98%EC%A1%B4%EC%84%B1-SOLID-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
+  <!-- END: jakpentest -->
 <!-- END: tistory.com -->
 
 ---
@@ -813,6 +822,12 @@ head:
 ## 폴시랩
 
 - [객체 지향 프로그래밍(OOP)과 객체 지향 프로그래밍 설계의 5가지 원칙 SOLID에 대해 알아보자](https://falsy.me/%ea%b0%9d%ec%b2%b4-%ec%a7%80%ed%96%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8doop%ea%b3%bc-%ea%b0%9d%ec%b2%b4-%ec%a7%80%ed%96%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ec%84%a4/)
+
+---
+
+## The ultimate MySQL database platform — PlanetScale
+
+- [B-trees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes)
 
 ---
 

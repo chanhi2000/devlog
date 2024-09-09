@@ -47,5 +47,6 @@ head:
 <MyYouTubeItems jsonName="yu-DevOpsMadeEasy" /><!-- DevOps Made Easy -->
 <MyYouTubeItems jsonName="yu-kantancoding" /><!-- Kantan Coding -->
 <MyYouTubeItems jsonName="yu-backendbanterfm" /><!-- Backend Banter -->
+<MyYouTubeItems jsonName="yu-adibhanna" /><!-- Adib Hanna -->
 
 <TagLinks/>

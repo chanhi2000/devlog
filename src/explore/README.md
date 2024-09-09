@@ -795,6 +795,22 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://chromatone.center/media/logo/click-logo.svg"
   preview="https://og.chromatone.center/api/image/?text=Chromatone"/>
 
+<SiteInfo
+  name="Hacker News Book Map"
+  desc="The 1000 most popular books on Hacker News visualized on an interactive map."
+  url="https://hnbooks.pieterma.es/"
+  logo="https://hnbooks.pieterma.es/favicon.png"
+  preview="https://hnbooks.pieterma.es/thumbnail.jpg"/>
+
+```component VPCard
+{
+  "title": "ASCII Webcam",
+  "desc": "...",
+  "link": "https://ascii-cam.replit.app/",
+  "background": "rgba(0,92,200,0.2)"
+}
+```
+
 <!-- END: Cool Project -->
 
 @tab Portfolio / Resume

@@ -53,6 +53,7 @@ tag:
 - [`@2xm` / 나의 쓰임이 필요하다 - '운칠기삼(運七技三)', '새옹지마(塞翁之馬)'](https://brunch.co.kr/@@2xm/81)
 - [`@5jl5` / 광복절 기념식 및 윤정권의 미래에 대한 GPT4o 대답](https://brunch.co.kr/@@5jl5/126)
 - [`@gpO` / 우리는 그릇된 가치를 강요 받아 왔다.](https://brunch.co.kr/@@gpO/110)
+- [`@2weV` / 한 끝 차이인, 원망하는 마음과 감사하는 마음.](https://brunch.co.kr/@@2weV/548)
 
 <!-- END: brunch.co.kr -->
 
