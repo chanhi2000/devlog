@@ -590,6 +590,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-angular/articles/README.md',
+            asb.freecodecamp("js-angular"),
             asb.codemaze("js-angular"),
           ]
         }

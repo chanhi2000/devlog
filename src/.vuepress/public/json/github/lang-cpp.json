@@ -2294,5 +2294,12 @@
     "topics": ["hacktoberfest", "linux", "mmorpg", "multi-platform", "multiplayer", "trinitycore", "wow"],
     "avatar": "https://avatars.githubusercontent.com/u/539602?v=4",
     "banner": ""
+  }, {
+    "repo": "ArduPilot/ardupilot",
+    "desc": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "officialSite": "http://ardupilot.org/",
+    "topics": ["arducopter", "ardupilot", "arduplane", "ardurover", "ardusub", "autopilot", "auv", "copter", "drone", "dronekit", "mavlink", "plane", "robotics", "ros", "rov", "rover", "sub", "uas", "uav", "ugv"],
+    "avatar": "https://avatars.githubusercontent.com/u/17919847?v=4",
+    "banner": ""
   }
 ]

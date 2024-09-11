@@ -624,4 +624,10 @@ head:
 
 ---
 
+## Unidev
+
+- [서버와 클라이언트의 우아한(?) 대화 방법, Adapter Pattern (Feat. FSD)](https://univdev.github.io/posts/adapter-pattern/)
+
+---
+
 <TagLinks />

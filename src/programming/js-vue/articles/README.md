@@ -74,6 +74,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How Event Handling Works in Vue 3: A Guide for Developers",
+  "desc": "Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...",
+  "link": "/explore/articles/freecodecamp.org/how-event-handling-works-in-vue-3-guide-for-devs.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

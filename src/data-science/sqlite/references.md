@@ -77,4 +77,10 @@ tag:
 
 ---
 
+## Fractaled Mind: Thoughts on Ruby and beyond
+
+- [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
+
+---
+
 <TagLinks />

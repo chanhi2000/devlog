@@ -260,6 +260,15 @@ head:
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [Cert Manager with SSL Domain with AWS Route53](https://jeongchul.tistory.com/m/721)
   <!-- END: jeongchul -->
+- [`coor` / 기록](https://coor.tistory.com/m/)
+  - [EC2에서 디스크 용량 부족 문제로 발생한 API 오류 해결하기](https://coor.tistory.com/m/65)
+  <!-- END: coor -->
+- [`sungwookoo` / Koo's Devlog](https://sungwookoo.tistory.com/m/)
+  - [\[K8s\] Self-Managed 쿠버네티스 CI/CD 구축기 (Spring Cloud, MetalLB)](https://sungwookoo.tistory.com/m/133)
+  <!-- END: sungwookoo -->
+- [`kdhyo98` / 일단은 내 이야기](https://kdhyo98.tistory.com/m/)
+  - [비공개 Github Repository SSH로 clone](https://kdhyo98.tistory.com/m/144)
+  <!-- END: kdhyo98 -->
 <!-- END: tistory.com -->
 ---
 

@@ -40,4 +40,14 @@ head:
 
 ---
 
+## tistory
+
+- [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
+  - [\[Tensorflow\] `ReduceLROnPlateau` CallBack 정리](https://sonseungha.tistory.com/m/727)
+  <!-- END: sonseungha -->
+<!-- END: tistory.com -->
+
+---
+
+
 <TagLinks />

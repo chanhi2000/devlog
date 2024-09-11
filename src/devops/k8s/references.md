@@ -132,6 +132,9 @@ head:
   - [\[Kubernetes\] Overlay 파일시스템으로 이미지 중복 제거](http://yongho1037.tistory.com/m/840)
   - [\[KANS\] 2주차 - K8S Flannel CNI & Pause 정리](https://yongho1037.tistory.com/m/842)
   <!-- END: yongho1037 -->
+- [`sungwookoo` / Koo's Devlog](https://sungwookoo.tistory.com/m/)
+  - [\[K8s\] Self-Managed 쿠버네티스 CI/CD 구축기 (Spring Cloud, MetalLB)](https://sungwookoo.tistory.com/m/133)
+  <!-- END: sungwookoo -->
 <!-- END: tistory.com -->
 
 ---

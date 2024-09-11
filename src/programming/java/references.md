@@ -1057,6 +1057,10 @@ tag:
 
 - [50 ways to run some Kotlin code](https://maiatoday.net/p/50-ways-to-run-some-kotlin-code/)
 
+### 하고 싶은 것을 즐겁게
+
+- [상속은 아무나 받을 수 없다](https://katfun.blog/posts/%EC%83%81%EC%86%8D%EC%9D%80-%EC%95%84%EB%AC%B4%EB%82%98-%EB%B0%9B%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4/)
+
 ---
 
 <TagLinks />

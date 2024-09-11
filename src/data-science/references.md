@@ -107,6 +107,9 @@ head:
 - [`weejw` / 위지원의 개발 일기 🐈](https://weejw.tistory.com/m/)
   - [\[SQLP\] 조인 튜닝](https://weejw.tistory.com/m/627)
   <!-- END: weejw -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [10만건 정도에서 중복 확인 시간](https://ravenkim97.tistory.com/m/498)
+  <!-- END: ravenkim97 -->
 <!-- END: tistory.com -->
 
 ---

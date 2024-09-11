@@ -345,6 +345,7 @@ tag:
 - [`pipe`](https://johngrib.github.io/wiki/cmd/bash/pipe/)
 - [`gron` 명령어](https://johngrib.github.io/wiki/cmd/gron/)
 - [`jq`](https://johngrib.github.io/wiki/cmd/jq/)
+- [`tail` 명령어](https://johngrib.github.io/wiki/cmd/tail/)
 
 <!-- END: johngrib.github.io -->
 

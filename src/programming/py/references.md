@@ -2321,6 +2321,12 @@ head:
 
 ---
 
+## Bytepawn - Marton Trencseni
+
+- [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
+
+---
+
 ## Project(s)
 
 <SiteInfo

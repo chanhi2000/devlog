@@ -606,4 +606,10 @@ head:
 
 ---
 
+## Thinking about Science with David Hukins
+
+- [24.8 Passive damping – bathroom scales](https://thinking-about-science.com/)
+
+---
+
 <TagLinks />

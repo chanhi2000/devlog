@@ -69,6 +69,7 @@ head:
 
 - [`fwsgonzo` / An Introduction to Low-Latency Scripting for Game Engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
 - [`abdulgh` / Compile-time JSON deserialization in C++](https://medium.com/@abdulgh/compile-time-json-deserialization-in-c-1e3d41a73628)
+- [`netflixtechblog` / Noisy Neighbor Detection with eBPF](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
 
 <!-- END: medim.com -->
 
@@ -253,6 +254,7 @@ head:
 - [전등 이미지 on/off 예제 - Step 2 (비트 연산자 사용)](https://m.blog.naver.com/tipsware/223572177612)
 - [\[실습과제\] 색을 밝기 단계로 나누어 출력하기](https://m.blog.naver.com/tipsware/223575076337)
 - [색상의 유사도를 이용해 색상을 합치는 예시](https://m.blog.naver.com/tipsware/223575870588)
+- [최대, 최솟값 구하기 - Step 1](https://m.blog.naver.com/tipsware/223579038423)
 
 <!-- END: tipsware.blog.naver.com -->
 
@@ -343,6 +345,7 @@ head:
 - [\[백준 17610번\] 양팔저울](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17610%EB%B2%88-%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8)
 - [\[백준 3632번\] Drying](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-3632%EB%B2%88-Drying)
 - [\[백준 22742번\] Make Friendships](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-22742%EB%B2%88-Make-Friendships)
+- [\[백준 17216번\] 가장 큰 감소 부분 수열](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17216%EB%B2%88-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EA%B0%90%EC%86%8C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)
 
 <!-- END: kesakiyo.tistory.com -->
 

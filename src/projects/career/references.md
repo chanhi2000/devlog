@@ -306,6 +306,7 @@ tag:
 - [`@ZVA` / 개발자들, PoS 이후 이더리움의 현재와 미래를 말하다](https://brunch.co.kr/@@ZVA/723)
 - [`@2weV` / 미국 현지 취업 후 10+년 근무한 분들께 들은 이야기](https://brunch.co.kr/@@2weV/547)
 - [`@5sFx` / 03. 팀원은 팀장을 평가할 수 있어야 한다 - '제 점수는요'](https://brunch.co.kr/@@5sFx/121)
+- [`@2rV` / 곤도 마리에처럼 회고하기 - '설레지 않으면 버려라' - 팀의 의식과 무의식을 의식적으로 전환하는 방법](https://brunch.co.kr/@@2rV/179)
 
 <!-- END: brunch.co.kr -->
 

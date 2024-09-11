@@ -7847,5 +7847,27 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/4193389?v=4",
     "banner": ""
+  }, {
+    "repo": "felafax/felafax",
+    "desc": "Felafax is building AI infra for non-NVIDIA GPUs",
+    "officialSite": "https://felafax.ai",
+    "topics": ["ai", "infra", "jax", "xla"],
+    "avatar": "https://avatars.githubusercontent.com/u/173708117?v=4",
+    "banner": ""
+  }, {
+    "repo": "openedx/edx-platform",
+    "desc": "The Open edX LMS & Studio, powering education sites around the world!",
+    "officialSite": "https://openedx.org",
+    "topics": ["backend-service", "hacktoberfest", "pr-sandboxes-enabled"],
+    "avatar": "https://avatars.githubusercontent.com/u/40179672?v=4",
+    "banner": ""
+  }, {
+    "repo": "mherrmann/fbs",
+    "desc": "Create Python GUIs with Qt in minutes",
+    "officialSite": "https://build-system.fman.io",
+    "topics": ["pyinstaller", "pyqt5", "pyqt6", "pyside2", "pyside6", "python3"],
+    "avatar": "https://avatars.githubusercontent.com/u/1076393?v=4",
+    "banner": ""
   }
+  
 ]

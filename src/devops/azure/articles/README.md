@@ -156,6 +156,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Pass the Azure AI Engineer Associate Certification (AI-102)",
+  "desc": "Are you ready to take your AI skills to the next level and earn the Azure AI Engineer Associate Certification (AI-102)? We just posted a comprehensive course on the freeCodeCamp.org YouTube channel that is designed to help you prepare for and pass th...",
+  "link": "/explore/articles/freecodecamp.org/pass-the-azure-ai-engineer-associate-certification-ai-102.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

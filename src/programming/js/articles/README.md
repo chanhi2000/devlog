@@ -329,6 +329,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build an Expense Tracker with HTML, CSS, and JavaScript",
+  "desc": "Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...",
+  "link": "/explore/articles/freecodecamp.org/how-to-build-an-expense-tracker-with-html-css-and-javascript.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

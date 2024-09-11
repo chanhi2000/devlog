@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - code-maze.com
   - js
   - node
@@ -29,6 +30,13 @@ head:
 # {{ $frontmatter.title }} 관련
 
 <SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+<SiteInfo
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
@@ -36,6 +44,24 @@ head:
   preview="/images/content/code-maze.com/banner.png"/>
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Transform an Angular Application with Signals",
+  "desc": "Angular is a famous framework for building robust and complex enterprise applications. It is widely used by large companies. Therefore, having the skills to build a performant application using Angular is one of the top skills for a developer.. Angul...",
+  "link": "/explore/articles/freecodecamp.org/how-to-transform-an-angular-appl-with-signals.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

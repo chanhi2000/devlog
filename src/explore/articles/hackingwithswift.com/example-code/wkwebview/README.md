@@ -80,7 +80,7 @@ head:
 ```component VPCard
 {
   "title": "How to monitor WKWebView page load progress using key-value observing",
-  "desc": "iOS often uses a delegate system to report important changes, such as when a table view cell has been tapped or when a web page has finished loading. But the delegate system only goes so far, and if you want fine-grained detailed information sometimes you need to turn to KVO, or "key-value observing."...",
+  "desc": "iOS often uses a delegate system to report important changes, such as when a table view cell has been tapped or when a web page has finished loading. But the delegate system only goes so far, and if you want fine-grained detailed information sometimes you need to turn to KVO, or 'key-value observing.'...",
   "link": "/explore/articles/hackingwithswift.com/example-code/wkwebview/how-to-monitor-wkwebview-page-load-progress-using-key-value-observing.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"

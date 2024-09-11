@@ -69,7 +69,6 @@ The AZ-400 exam typically lasts 150 minutes and includes multiple-choice questio
 
 Whether you’re an experienced DevOps professional or just starting, this course is designed to equip you with the skills and knowledge needed to pass the AZ-400 certification and advance your career. Watch the full course on [<FontIcon icon="fa-brands fa-youtube"/>the freeCodeCamp.org YouTube channel](https://youtu.be/11KT1hPNkY4) (8-hour watch).
 
-
 <VidStack src="youtube/11KT1hPNkY4" />
 
 ---

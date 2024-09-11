@@ -39,6 +39,7 @@ head:
   - [애증의 정규식... 3탄](https://lazymatlab.tistory.com/m/290)
   - [테일러 급수의 수렴 조건](https://lazymatlab.tistory.com/m/291)
   - [다변수 함수의 미분 가능성](https://lazymatlab.tistory.com/m/292)
+  - [BPM 측정기 및 메트로놈](https://lazymatlab.tistory.com/m/294)
   <!-- END: lazymatlab -->
 <!-- END: tistory.com -->
 

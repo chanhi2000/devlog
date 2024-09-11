@@ -1749,5 +1749,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/42543943?v=4",
     "banner": ""
+  }, {
+    "repo": "RfidResearchGroup/proxmark3",
+    "desc": "Iceman Fork - Proxmark3",
+    "officialSite": "http://www.icedev.se",
+    "topics": ["125khz", "clone", "contactless", "darkside", "hitag2", "iceman", "iclass", "iso14443a", "iso14443b", "iso15693", "mifare", "nfc", "pm3", "proxmark", "proxmark3", "rdv40", "rfid", "rrg", "simulate", "sniffer"],
+    "avatar": "https://avatars.githubusercontent.com/u/40314039?v=4",
+    "banner": ""
   }
 ]

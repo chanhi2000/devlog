@@ -66,6 +66,12 @@ head:
 
 ---
 
+## 나만의공간。
+
+- [\[데브허브\] AI 신약개발 역사에 또 한 획이 그어지다… 구글 딥마인드 AlphaProteo 출시 | 단백질 결합 구조 예측하며 암, 바이러스 AI 신약개발 혁명](https://m.blog.naver.com/writer0713/223578425550)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf" />

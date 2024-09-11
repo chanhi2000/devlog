@@ -103,7 +103,7 @@ cover: https://freecodecamp.org/news/content/images/size/w2000/2023/12/Gitting-T
 {
   "title": "Summary",
   "desc": "(6/6) Gitting Things Done – A Visual and Practical Guide to Git [Full Book]",
-  "link": "explore/articles/freecodecamp.org/gitting-things-done-book/summary.md",
+  "link": "/explore/articles/freecodecamp.org/gitting-things-done-book/summary.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

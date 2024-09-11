@@ -38,16 +38,25 @@ tag:
 
 ---
 
-## 위지원의 개발 일기 🐈
+## tistory
 
-- [libnsl.so.1()(64bit) is needed by oracle-instantclient](https://weejw.tistory.com/617)
-
----
-
-## Linux Programmer
-
-- [Adacious 리눅스 & 윈도 MP3 플레이어](https://sunyzero.tistory.com/297)
-- [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](http://sunyzero.tistory.com/m/300)
+- [`weejw` / 위지원의 개발 일기 🐈](https://weejw.tistory.com/m/)
+  - [`libnsl.so.1()`(64bit) is needed by oracle-instantclient](https://weejw.tistory.com/m/617)
+  <!-- END: weejw -->
+- [`takeu` / takeU](https://takeu.tistory.com/m/)
+  - [2. 개발 환경 세팅 (SSH 설정, 키 페어 등록, 포트포워딩)](https://takeu.tistory.com/m/395)
+  <!-- END: takeu -->
+- [`sunyzero` / Linux Programmer](https://sunyzero.tistory.com/m/)
+  - [Adacious 리눅스 & 윈도 MP3 플레이어](https://sunyzero.tistory.com/m/297)
+  - [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](http://sunyzero.tistory.com/m/300)
+  <!-- END: sunyzero -->
+- [`naleejang` / Nalee와 함께 떠나는 IT이야기](https://naleejang.tistory.com/m/)
+  - [Linux Process Story](https://naleejang.tistory.com/m/276)
+  <!-- END: naleejang -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [리눅스 계정 색상 변경](https://bbogle2.tistory.com/m/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B3%84%EC%A0%95-%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD)
+  <!-- END: bbogle2 -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -66,12 +75,6 @@ tag:
 ## Mimul Tech log
 
 - [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
-
----
-
-## Nalee와 함께 떠나는 IT이야기
-
-- [Linux Process Story](https://naleejang.tistory.com/m/276)
 
 ---
 
@@ -97,12 +100,6 @@ tag:
 ## Blog by Joren Vrancken
 
 - [Carving ELF Files](https://blog.nietaanraken.nl/posts/elf-file-size/)
-
----
-
-## 뽀글뽀글 개발 일지
-
-- [리눅스 계정 색상 변경](https://bbogle2.tistory.com/m/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B3%84%EC%A0%95-%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD)
 
 ---
 

@@ -234,6 +234,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How the Comma Ok Idiom and Package System Work in Go",
+  "desc": "One of the biggest strengths of Go is its compiler. It abstracts many things for you and lets you compile your program easily for almost any platform and architecture. And though it seems easy, there are some nuances to it and multiple ways of compil...",
+  "link": "/explore/articles/freecodecamp.org/golang-statically-and-dynamically-linked-go-binaries.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

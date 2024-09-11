@@ -1842,6 +1842,31 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/wkwebview/how-to-run-javascript-on-a-wkwebview-with-evaluatejavascript.md',
               '/explore/articles/hackingwithswift.com/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview.md',
             ]
+          }, {
+            text: 'Xcode',
+            collapsible: true,
+            children: [
+              '/explore/articles/hackingwithswift.com/example-code/xcode/README.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-add-conditions-to-a-breakpoint.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-add-markers-to-the-jump-bar.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-create-a-project-using-swift-package-manager.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-create-exception-breakpoints-in-xcode.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-debug-view-layouts-in-xcode.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-fix-the-error-view-controller-is-unreachable-because-it-has-no-entry-points-and-no-identifier-for-runtime-access.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-load-assets-from-xcode-asset-catalogs.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-lock-interface-builder-controls-to-stop-accidental-changes.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-make-xcode-play-sounds-while-debugging.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-render-example-content-using-prepareforinterfacebuilder.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-repeat-code-when-debugging-using-the-instruction-pointer.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-set-the-clock-in-the-ios-simulator.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-use-storyboard-references-to-simplify-your-storyboards.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-use-vector-images-in-your-asset-catalog.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/how-to-used-a-named-uicolor-in-code-and-interface-builder.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/what-are-breakpoints.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/what-are-swift-error-breakpoints.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/what-are-watchpoints.md',
+              '/explore/articles/hackingwithswift.com/example-code/xcode/what-is-an-iboutlet.md',
+            ]
           }
         ]
       }

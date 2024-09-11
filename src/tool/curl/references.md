@@ -34,8 +34,9 @@ head:
 - [`kibua20` / 모바일 SW 개발자가 운영하는 블로그](https://kibua20.tistory.com/m/)
   - [카카오 TV 동영상 다운로드: m4s 파일 다운로드 방법](https://kibua20.tistory.com/m/130)
   <!-- END: kibua20 -->
-- `jakpentest` / 뭐라도 해야 한다면 기록을..
+- [`jakpentest` / 뭐라도 해야 한다면 기록을..](https://jakpentest.tistory.com/m/)
   - [\[picoCTF\] Forbidden Paths](https://jakpentest.tistory.com/m/entry/picoCTF-Forbidden-Paths)
+  - [\[picoCTF\] Who are You](https://jakpentest.tistory.com/m/entry/picoCTF-Who-are-You)
   <!-- END: jakpentest -->
 <!-- END: tistory.com -->
 

@@ -47,4 +47,10 @@ head:
 
 ---
 
+## 나만의공간。
+
+- [\[데브허브\] 구글 대체하는 AI 검색 ‘Perpexity’ 사용법과 꿀팁](https://m.blog.naver.com/writer0713/223578429903)
+
+---
+
 <TagLinks />

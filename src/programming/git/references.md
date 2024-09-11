@@ -35,8 +35,9 @@ head:
 
 ## <FontIcon icon="iconfont icon-github"/>Github
 
-- [<FontIcon icon="iconfont icon-github"/>`eashish93/git-cheatsheet.md`](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
+- [`eashish93` / git-cheatsheet.md`](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
 - [Securing Git: Addressing 5 new vulnerabilities](https://github.blog/2024-05-14-securing-git-addressing-5-new-vulnerabilities/)
+- [`thoughtpolice` / Why some of us like "interdiff" code review](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 
 ---
 

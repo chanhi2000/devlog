@@ -45,7 +45,7 @@ tag:
 
 - [Why does part of the Windows 98 Setup program look older than the rest?](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
 
-## Tistory
+## tistory
 
 - [이벤트 뷰어, 윈도우 시스템 사용 기록 각종 로그 정보 보기](https://prolite.tistory.com/959)
 - [[JavaScript] IE팝업 경고창 없이 닫기.](https://smoh.tistory.com/127)
@@ -226,6 +226,7 @@ tag:
 ## 운동하는 개발자
 
 - [복붙을 많이 하는 당신에게 필요한 클립보드 히스토리 (고급 클립보드)](https://singo112ok.tistory.com/m/275)
+- [Slack 자동 붙여넣기 문제 해결](https://singo112ok.tistory.com/m/280)
 
 ---
 

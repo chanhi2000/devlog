@@ -135,6 +135,7 @@ head:
 - [다양한 CAN 통신 모듈들 제작 중](https://m.blog.naver.com/chandong83/223573703235)
 - [STM32H7S7-SOM이 곧 도착한다.](https://m.blog.naver.com/chandong83/223573714944)
 - [STM32G4-LIN 프로젝트 링크](https://m.blog.naver.com/chandong83/223576120871)
+- [STM32H7S7 - XSPI 2개 동시 사용 시 CS(ChipSelect) 동작 안 하는 문제](https://m.blog.naver.com/chandong83/223578323322)
 
 <!-- END: chandong83 -->
 

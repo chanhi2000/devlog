@@ -72,4 +72,10 @@ head:
 
 ---
 
+## 제이의 IT 스토리
+
+- [Google Play Console - Google Play 결제 실시간 알림(문자)](https://m.blog.naver.com/oralol/223578316450)
+
+---
+
 <TagLinks />

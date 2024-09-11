@@ -331,6 +331,8 @@ head:
   - [13.5. 책 상세 화면에서 책 기록 표시하기](https://ysedeveloper.tistory.com/m/entry/135-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%B1%85-%EA%B8%B0%EB%A1%9D-%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0)
   - [스프링 MVC 하루만에 배우기](https://ysedeveloper.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
   - [01. 들어가며](https://ysedeveloper.tistory.com/m/entry/01-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)
+  - [02. 필요한 프로그램 설치](https://ysedeveloper.tistory.com/m/entry/02-%ED%95%84%EC%9A%94%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98)
+  - [03.01. 프로젝트 세팅 - 1](https://ysedeveloper.tistory.com/m/entry/0301-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85-1)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -363,6 +365,9 @@ head:
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter03\] - 덕 타이핑,인터페이스,행동과역할,메서드와함수](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter03-%EB%8D%95-%ED%83%80%EC%9D%B4%ED%95%91%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%96%89%EB%8F%99%EA%B3%BC%EC%97%AD%ED%95%A0%EB%A9%94%EC%84%9C%EB%93%9C%EC%99%80%ED%95%A8%EC%88%98)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter04\] : SOLID, 의존성, SOLID & 객체지향, 디자인 패턴](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter04-SOLID-%EC%9D%98%EC%A1%B4%EC%84%B1-SOLID-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
   <!-- END: jakpentest -->
+- [`colabear754` / 개발하는 곰돌이](https://colabear754.tistory.com/m/)
+  - [\[Spring Scheduler\] 서버 이중화 또는 증설 시 `ShedLock`을 사용하여 스케쥴러 중복 실행 방지하기](https://colabear754.tistory.com/m/222)
+  <!-- END: colabear754 -->
 <!-- END: tistory.com java -->
 
 ### 비탐인

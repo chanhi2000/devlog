@@ -76,5 +76,12 @@
     "topics": ["concurrency", "parallelism", "threads", "zig", "zig-package"],
     "avatar": "https://avatars.githubusercontent.com/u/499?v=4",
     "banner": ""
+  }, {
+    "repo": "yamafaktory/hypergraphz",
+    "desc": "HypergraphZ - A Hypergraph Implementation in Zig",
+    "officialSite": "https://yamafaktory.github.io/hypergraphz/",
+    "topics": ["graph", "graph-algorithms", "hypergraph", "zig", "zig-library", "ziglang"],
+    "avatar": "https://avatars.githubusercontent.com/u/465519?v=4",
+    "banner": ""
   }
 ]

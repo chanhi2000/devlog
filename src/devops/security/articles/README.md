@@ -151,6 +151,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Shodan – What to Know About the Internet’s Most Dangerous Search Engine",
+  "desc": "Shodan is a search engine that discovers devices connected to the internet. In this article, we’ll look at why it’s both a valuable tool and a potential threat. When you hear the term “search engine,” your mind likely jumps to Google, Bing, or Yahoo...",
+  "link": "/explore/articles/freecodecamp.org/shodan-what-to-know-about-the-internets-most-dangerous-search-engine.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

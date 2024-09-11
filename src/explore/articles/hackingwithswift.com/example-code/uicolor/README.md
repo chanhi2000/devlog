@@ -50,7 +50,7 @@ head:
 ```component VPCard
 {
   "title": "How to convert a HTML name string into a UIColor",
-  "desc": "HTML color names let you use familiar titles like "steel blue" and "mint cream" rather than hex values, but sadly these standardized names aren't available in iOS – or at least not by default. Fortunately, it's easy to add an extension to <code>UIColor</code> that maps these names to hexadecimal color values, then add another extension to convert hex colors to <code>UIColors</code>. Here's the code:...",
+  "desc": "HTML color names let you use familiar titles like 'steel blue' and 'mint cream' rather than hex values, but sadly these standardized names aren't available in iOS – or at least not by default. Fortunately, it's easy to add an extension to <code>UIColor</code> that maps these names to hexadecimal color values, then add another extension to convert hex colors to <code>UIColors</code>. Here's the code:...",
   "link": "/explore/articles/hackingwithswift.com/example-code/uicolor/how-to-convert-a-html-name-string-into-a-uicolor.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"

@@ -143,11 +143,22 @@ head:
 {
   "title": "MySQL 콜레이션 사용 시 주의할 점은? | 요즘IT",
   "desc": "MySQL 콜레이션 사용 시 주의할 점은?",
-  "link": "/explore/articles/yozm.wishket.com/27476.md",
+  "link": "/explore/articles/yozm.wishket.com/2746.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "MySQL에서 SQL 문장 가독성 향상시키는 법 | 요즘IT",
+  "desc": "MySQL에서 SQL 문장 가독성 향상시키는 법",
+  "link": "/explore/articles/yozm.wishket.com/2758.md",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
 
 <!-- END: yozm.wishket.com -->
 

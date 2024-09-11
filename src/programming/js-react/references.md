@@ -195,6 +195,7 @@ head:
 - [`@pjc0247` / \[React 문제 노트\] 최신값 참조하기](https://velog.io/@pjc0247/React-%EB%AC%B8%EC%A0%9C-%EB%85%B8%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EA%B0%92-%EC%B0%B8%EC%A1%B0%ED%95%98%EA%B8%B0)
 - [`@opensauced` / The React useRef Hook: Not Just for DOM Elements](https://dev.to/opensauced/the-react-useref-hook-not-just-for-html-elements-3cf3)
 - [`@eunbinn` / \[번역\] DRY - 잘못된 추상화의 일반적인 원인](https://velog.io/@eunbinn/dry-the-common-source-of-bad-abstractions)
+- [`@juhee067` / \[React\] 함수형 컴포넌트에서 `ref` 사용에 대한 고민](https://velog.io/@juhee067/React-%ED%95%A8%EC%88%98%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EC%84%9C-ref-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC)
 
 <!-- END: velog.io -->
 
@@ -327,6 +328,10 @@ head:
 - [`all-dev-kang` / 편리함을 추구하는 핸디의 지식 블로그](https://all-dev-kang.tistory.com/m/)
   - [en_US인가 en-US인가 그것이 문제로다(feat. i18n)](https://all-dev-kang.tistory.com/m/entry/enUS%EC%9D%B8%EA%B0%80-en-US%EC%9D%B8%EA%B0%80-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EB%A1%9C%EB%8B%A4feat-i18n)
   <!-- END: all-dev-kang -->
+- [`dlsdn73` / IT grow.](https://dlsdn73.tistory.com/m/)
+  - [\[ react \] documentation `hooks` ( 18.2.0 )](https://dlsdn73.tistory.com/m/entry/react-react-documentation-hooks)
+  - [\[ react \] documentation `useState` ( 18.2.0 )](https://dlsdn73.tistory.com/m/entry/react-react-documentation-useState-1820)
+  <!-- END: dlsdn73 -->
 <!-- END: tistory.com -->
 
 ---

@@ -241,9 +241,38 @@ tag:
 
 ---
 
-## 운동하는 개발자
+## tistory
 
-- [Linux 서비스 로그 확인 (`journalctl`)](https://singo112ok.tistory.com/271)
+- [`singo112ok` / 운동하는 개발자](https://singo112ok.tistory.com/m/)
+  - [Linux 서비스 로그 확인 (`journalctl`)](https://singo112ok.tistory.com/m/271)
+  <!-- END: singo112ok -->
+- [`takeu` / takeU](https://takeu.tistory.com/m/)
+  - [2. 개발 환경 세팅 (SSH 설정, 키 페어 등록, 포트포워딩)](https://takeu.tistory.com/m/395)
+  <!-- END: takeu -->
+- [`naleejang` / Nalee와 함께 떠나는 IT이야기](https://naleejang.tistory.com/m/)
+  - [Linux Process Story](https://naleejang.tistory.com/m/276)
+  <!-- END: naleejang -->
+- [`sunyzero` / Linux Programmer](http://sunyzero.tistory.com/m/)
+  - [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](http://sunyzero.tistory.com/m/300)
+  <!-- END: sunyzero -->
+- [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
+  - [\[Linux\] Ubuntu 프로세스 백그라운드(데몬) 실행: `nohup`과 `&`에 대해서](https://csj000714.tistory.com/m/1175)
+  <!-- END: csj000714 -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [Ubuntu Server Arm64 한글 입력기 설치하기](https://webnautes.tistory.com/m/2104)
+  <!-- END: webnautes -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [리눅스 계정 색상 변경](https://bbogle2.tistory.com/m/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B3%84%EC%A0%95-%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD)
+  - [Nginx + No IP + Let's Encrypt 서버 배포](https://bbogle2.tistory.com/m/entry/Nginx-No-IP-Lets-Encrypt-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
+  - [Docker Ubuntu 개발 환경 구축](https://bbogle2.tistory.com/m/entry/Docker-Ubuntu-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
+  <!-- END: bbogle2 -->
+- [`1000sj` / SJ Code](https://1000sj.tistory.com/m/)
+  - [임베디드 리눅스 디버깅 & 프로파일링](https://1000sj.tistory.com/m/348)
+  <!-- END: 1000sj -->
+- [`myinfrabox` / MyInfraBox](https://myinfrabox.tistory.com/m/)
+  - [\[Linux\] Port Forwarding - 포트 포워딩](https://myinfrabox.tistory.com/m/281)
+  <!-- END: myinfrabox -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -301,12 +330,6 @@ tag:
 
 ---
 
-## Nalee와 함께 떠나는 IT이야기
-
-- [Linux Process Story](https://naleejang.tistory.com/m/276)
-
----
-
 ## Brandon Rhodes
 
 - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
@@ -350,32 +373,6 @@ tag:
 
 ---
 
-## Linux Programmer
-
-- [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](http://sunyzero.tistory.com/m/300)
-
----
-
-## 드프 DrawingProcess
-
-- [\[Linux\] Ubuntu 프로세스 백그라운드(데몬) 실행: `nohup`과 `&`에 대해서](https://csj000714.tistory.com/m/1175)
-
----
-
-## 멈춤보단 천천히라도
-
-- [Ubuntu Server Arm64 한글 입력기 설치하기](https://webnautes.tistory.com/m/2104)
-
----
-
-## 뽀글뽀글 개발 일지
-
-- [리눅스 계정 색상 변경](https://bbogle2.tistory.com/m/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B3%84%EC%A0%95-%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD)
-- [Nginx + No IP + Let's Encrypt 서버 배포](https://bbogle2.tistory.com/m/entry/Nginx-No-IP-Lets-Encrypt-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
-- [Docker Ubuntu 개발 환경 구축](https://bbogle2.tistory.com/m/entry/Docker-Ubuntu-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
-
----
-
 ## 상구리의 기술 블로그
 
 - [Ubuntu – 주기적인 서비스 재시작](https://skyer9.pe.kr/wordpress/?p=9242)
@@ -383,18 +380,6 @@ tag:
 - [Failed to fetch …… Hash Sum mismatch](https://skyer9.pe.kr/wordpress/?p=9364)
 
 <!-- END: skyer9.pe.kr -->
-
----
-
-## SJ Code
-
-- [임베디드 리눅스 디버깅 & 프로파일링](https://1000sj.tistory.com/m/348)
-
----
-
-## MyInfraBox
-
-- [\[Linux\] Port Forwarding - 포트 포워딩](https://myinfrabox.tistory.com/m/281)
 
 ---
 

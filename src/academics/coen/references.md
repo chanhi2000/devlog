@@ -34,6 +34,16 @@ head:
 
 - [`@endmoseung` / [길벗 개발자 리뷰어] 읽고 나면 진짜 쉬워지는 자료 구조](https://velog.io/@endmoseung/%EA%B8%B8%EB%B2%97-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A6%AC%EB%B7%B0%EC%96%B4-%EC%9D%BD%EA%B3%A0-%EB%82%98%EB%A9%B4-%EC%A7%84%EC%A7%9C-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0)
 
+<!-- END: velog.io -->
+
+---
+
+## Brunch
+
+- [`@2xm` / 14. 소프트웨어 공학의 특성 - 소프트웨어 개발의 3가지 메타포 중 하나인 공학에 대해서](https://brunch.co.kr/@@2xm/83)
+
+<!-- END: brunch.co.kr -->
+
 ---
 
 ## theokwebb
@@ -74,6 +84,13 @@ head:
 - [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
   - [로드 밸런서란?](https://maeng-dev.tistory.com/m/172)
   <!-- END: jojoldu -->
+- [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
+  - [서킷 브레이커 (Circuit Breaker)](https://jinn-blog.tistory.com/m/203)
+  - [QUIC 프로토콜](https://jinn-blog.tistory.com/m/204)
+  <!-- END: jinn-blog -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [아키텍처](https://ravenkim97.tistory.com/m/500)
+  <!-- END: ravenkim97 -->
 <!-- END: tistory.com  -->
 
 ---
@@ -116,6 +133,12 @@ head:
 - [Cache latency와 cache hit/miss](https://smallake.kr/?p=34273)
 
 <!-- END: smallake.kr -->
+
+---
+
+## chiark home page
+
+- [Possibly all the ways to get loop-finding in graphs wrong](https://chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 
 ---
 

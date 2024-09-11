@@ -400,6 +400,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Implement API Rate Limiting in Strapi CMS",
+  "desc": "Implementing rate limiting in web applications is a necessary web development best practice. In an article published earlier, I delved deep into the benefits and real life use cases of API rate limiting. Some of the benefits include its use by develo...",
+  "link": "/explore/articles/freecodecamp.org/implement-api-rate-limiting-in-strapi.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

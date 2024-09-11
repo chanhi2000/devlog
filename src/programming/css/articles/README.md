@@ -144,8 +144,8 @@ head:
 
 ```component VPCard
 {
-  "title":"How to Create a Masonry Layout Using HTML and CSS",
-  "desc":"A masonry layout is a grid-based design where items are arranged in a way that minimizes vertical gaps between them.  an example of a masonry layoutUnlike traditional grids with fixed row heights, masonry layouts adjust the positioning of items dynamically based on their content height, creating a visually appealing...",
+  "title": "How to Create a Masonry Layout Using HTML and CSS",
+  "desc": "A masonry layout is a grid-based design where items are arranged in a way that minimizes vertical gaps between them.  an example of a masonry layoutUnlike traditional grids with fixed row heights, masonry layouts adjust the positioning of items dynamically based on their content height, creating a visually appealing...",
   "link": "/explore/articles/freecodecamp.org/how-to-create-a-mansory-layout-using-html-and-css.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
@@ -634,8 +634,8 @@ head:
 
 ```component VPCard
 {
-  "title": "I’m worried about the tabbing behaviour, rather than the syntax and name of CSS masonry | Piccalilli",",
-  "desc": "There’s a lot of chatter about CSS masonry at the moment. Should it be called “masonry” and should it be grid? Let’s worry about the basics first.,",
+  "title": "I’m worried about the tabbing behaviour, rather than the syntax and name of CSS masonry | Piccalilli",
+  "desc": "There’s a lot of chatter about CSS masonry at the moment. Should it be called “masonry” and should it be grid? Let’s worry about the basics first.",
   "link": "/explore/articles/piccalil.li/masonry-and-tabbing.md",
   "logo": "https://piccalil.li/favicons/apple-touch-icon.png",
   "background": "rgba(253,208,0,0.2)"

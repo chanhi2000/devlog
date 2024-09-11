@@ -1257,6 +1257,16 @@ http://texturer.com/
   logo="https://departuremono.com/assets/favicon.ico"
   preview="https://departuremono.com/assets/departure-og.png"/>
 
+```component VPCard
+{
+  "title": "Transparent Textures",
+  "desc": "Standing on the shoulders of Subtle Patterns. Built and maintained by @mikehearn.",
+  "link": "https://transparenttextures.com/",
+  "logo": "https://transparenttextures.com/favicon.png",
+  "background": "rgba(119,18,119,0.2)"
+}
+```
+
 <!-- END: Design & Image -->
 
 @tab DevOps
@@ -1504,6 +1514,13 @@ https://mdis.kostat.go.kr/index.do
   "background": "rgba(10,10,10,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Taconomical"
+  desc="This site shows the price of a taco at every Taco Bell in the US. Updated a few hours ago."
+  url="https://taconomical.com/"
+  logo="https://taconomical.com/apple-touch-icon.png"
+  preview="https://taconomical.com/taconomical.jpg"/>
 
 <!-- END: Geospatial -->
 

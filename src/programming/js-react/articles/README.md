@@ -553,6 +553,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Essential JavaScript Concepts to Know Before Learning React – With Code Examples",
+  "desc": "You may have seen the shiny technologies like React, Vue, and Angular that promise to revolutionize your front-end development. It's tempting to dive headfirst into these frameworks, eager to build stunning user interfaces. But hold on! Before you em...",
+  "link": "/explore/articles/freecodecamp.org/essential-javascript-concepts-before-react.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

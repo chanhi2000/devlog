@@ -17,6 +17,26 @@ const GITTING_THINGS_DONE_BOOK: SidebarInfoSubgroupTemplate = { // 2024-01-08
   ],
 }
 
+const HOW_AI_AGENTS_CAN_SUPERCHARGE_LANGUAGE_MODELS_HANDBOOK: SidebarInfoSubgroupTemplate = { // 2024-09-10
+  text: 'How AI Agents Can Help Supercharge Language Models – A Handbook for Developers',
+  collapsible: true,
+  icon: 'fas fa-language',
+  subPath: 'how-ai-agents-can-supercharge-language-models-handbook',
+  children: [
+    'README',
+    'the-emergence-of-ai-agents-in-language-models',
+    'chapter-1-introduction-to-ai-agents-and-language-models',
+    'chapter-2-the-history-of-artificial-intelligence-and-ai-agents',
+    'chapter-3-where-ai-agents-shine-the-brightest',
+    'chapter-4-the-philosophical-foundation-of-intelligent-systems',
+    'chapter-5-ai-agents-as-llm-enhancers',
+    'chapter-6-architectural-design-for-integrating-ai-agents-with-llms',
+    'chapter-7-the-future-of-ai-agents-and-llms',
+    'chapter-8-ai-agents-in-mission-critical-fields',
+    'conclusion',
+  ]
+}
+
 export const template: SidebarInfoTemplate = {
   name: 'freecodecamp.org',
   faviconPath: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
@@ -72,10 +92,12 @@ export const template: SidebarInfoTemplate = {
       "create-color-picker-using-html-css-and-javascript", // 2024-08-15
       "how-to-use-variables-and-data-types-in-javascript", // 2024-08-19
       "how-to-create-interactive-html-prototypes", // 2024-08-27
+      "how-to-build-an-expense-tracker-with-html-css-and-javascript", // 2024-09-11
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
       "typescript-for-beginners-guide", // 2024-08-08
+      "what-are-type-predicates-in-typescript", // 2024-09-10
     ]],[
     "js-node", [
       "what-is-dead-zone-in-javascript", // 2024-03-28
@@ -98,6 +120,7 @@ export const template: SidebarInfoTemplate = {
       "learn-ml5js-for-machine-learning-in-javascript", // 2024-08-14
       "how-to-read-and-write-files-with-nodejs", // 2024-08-19
       "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
+      "implement-api-rate-limiting-in-strapi", // 2024-09-10
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -142,9 +165,11 @@ export const template: SidebarInfoTemplate = {
       "create-a-macos-app-with-react-native", // 2024-08-22
       "react-compiler-complete-guide-react-19", // 2024-08-27
       "learn-the-mern-stack-by-building-a-store", // 2024-09-04
+      "essential-javascript-concepts-before-react", // 2024-09-10
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
+      "how-event-handling-works-in-vue-3-guide-for-devs", // 2024-09-11
     ]],[
     "js-next", [
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
@@ -161,6 +186,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
       "how-to-add-jwt-based-authentication-in-nest-js", // 2024-07-31
       "how-to-handle-file-uploads-in-nestjs-with-multer", // 2024-08-28
+    ]],[
+    "js-angular", [
+      "how-to-transform-an-angular-appl-with-signals", // 2024-09-10
     ]],[
     "js-supabase", [
       "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
@@ -221,6 +249,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-generate-financial-press-reviews-using-ai", // 2024-08-20
       "how-to-build-good-coding-habits", // 2024-08-20
       "master-multimodal-data-analysis-with-llms-and-python", // 2024-09-04
+      "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -262,6 +291,7 @@ export const template: SidebarInfoTemplate = {
       "variables-and-constants-in-go", // 2024-08-19
       "how-to-implement-server-sent-events-in-go", // 2024-08-28
       "how-the-comma-ok-idiom-and-package-system-work-in-go", // 2024-09-09
+      "golang-statically-and-dynamically-linked-go-binaries", // 2024-09-10
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -359,6 +389,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-deploy-a-web-app", // 2024-07-11
       "how-to-deploy-node-js-app-on-azure", // 2024-07-17
       "build-a-crud-app-spring-boot-neon-postgres", // 2024-07-26
+      "pass-the-azure-ai-engineer-associate-certification-ai-102", // 2024-09-10
     ]],[
     "gcp", [
       "build-a-rag-chatbot-agent-cloud-google-sheets", // 2024-06-26
@@ -374,6 +405,7 @@ export const template: SidebarInfoTemplate = {
       "vm-data-protection-best-practices", // 2024-08-16
       "what-is-rate-limiting-web-apis", // 2024-09-04
       "what-is-cache-poisoning-and-how-to-avoid-it", // 2024-09-05
+      "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
     ]],[
     "gatling", [
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
@@ -450,6 +482,7 @@ export const template: SidebarInfoTemplate = {
       "building-intelligent-apps-with-mistral-ai", // 2024-06-18
       "learn-rag-fundamentals-and-advanced-techniques", // 2024-08-01
       "a-beginners-guide-to-large-language-models", // 2024-08-15
+      HOW_AI_AGENTS_CAN_SUPERCHARGE_LANGUAGE_MODELS_HANDBOOK, // 2024-09-10
     ]],[
     "openai", [
       "how-to-use-gpt-to-analyze-large-datasets", // 2024-08-28
@@ -741,6 +774,15 @@ export const template: SidebarInfoTemplate = {
       "what-are-lifetimes-in-rust-explained-with-code-examples", // 2024-09-06
       "how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible", // 2024-09-06
       "how-the-comma-ok-idiom-and-package-system-work-in-go", // 2024-09-09
+      "essential-javascript-concepts-before-react", // 2024-09-10
+      "how-to-transform-an-angular-appl-with-signals", // 2024-09-10
+      "golang-statically-and-dynamically-linked-go-binaries", // 2024-09-10
+      "implement-api-rate-limiting-in-strapi", // 2024-09-10
+      "what-are-type-predicates-in-typescript", // 2024-09-10
+      HOW_AI_AGENTS_CAN_SUPERCHARGE_LANGUAGE_MODELS_HANDBOOK, // 2024-09-10
+      "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
+      "pass-the-azure-ai-engineer-associate-certification-ai-102", // 2024-09-10
+      "how-event-handling-works-in-vue-3-guide-for-devs", // 2024-09-11
     ]],
   ]),
 }
