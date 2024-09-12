@@ -3539,5 +3539,12 @@
     "topics": ["browser-extension", "consent-management", "cookies", "gdpr"],
     "avatar": "https://avatars.githubusercontent.com/u/58287273?v=4",
     "banner": ""
+  }, {
+    "repo": "expressjs/express",
+    "desc": "Fast, unopinionated, minimalist web framework for node.",
+    "officialSite": "https://expressjs.com",
+    "topics": ["express", "javascript", "nodejs", "server"],
+    "avatar": "https://avatars.githubusercontent.com/u/5658226?v=4",
+    "banner": ""
   }
 ]

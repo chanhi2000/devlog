@@ -96,6 +96,7 @@ head:
 - [`@ZVA` / AI는 기업용 소프트웨어판을 어떻게 바꿀 것인가](https://brunch.co.kr/@@ZVA/720)
 - [`@5jl5` / \[책소개\] AI시대의 프로그래머 - AI-Assisted Programming](https://brunch.co.kr/@@5jl5/128)
 - [`@ZVA` / AI 개발자, AI 시대 개발자로서의 일에 대해 묻다](https://brunch.co.kr/@@ZVA/725)
+- [`@5jl5` / 제8회 한국 퀀트투자 컨퍼런스(10월 18일) - 알고리즘에서 AI로: 퀀트투자의 지속적인 진화](https://brunch.co.kr/@@5jl5/130)
 
 <!-- END: brunch.co.kr -->
 

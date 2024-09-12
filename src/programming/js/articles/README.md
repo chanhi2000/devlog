@@ -339,6 +339,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Chart js for Interactive Data Visualization",
+  "desc": "Data surrounds us, but its raw form can be overwhelming and difficult to interpret. That's where data visualization comes in. It can help you take your data and turn it into charts and graphs that make sense at a glance. Among the many data visualiza...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-chart-js-for-interactive-data-visualization.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

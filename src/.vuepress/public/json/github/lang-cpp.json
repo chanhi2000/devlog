@@ -2301,5 +2301,12 @@
     "topics": ["arducopter", "ardupilot", "arduplane", "ardurover", "ardusub", "autopilot", "auv", "copter", "drone", "dronekit", "mavlink", "plane", "robotics", "ros", "rov", "rover", "sub", "uas", "uav", "ugv"],
     "avatar": "https://avatars.githubusercontent.com/u/17919847?v=4",
     "banner": ""
+  }, {
+    "repo": "Avicted/galaxy_visualization_raylib",
+    "desc": "100k real ( +100k random ) galaxies from a sector. Visualized with Raylib.",
+    "officialSite": "",
+    "topics": ["c", "cmake", "galaxies", "gamedev", "linux", "meson", "physics", "raylib"],
+    "avatar": "https://avatars.githubusercontent.com/u/6322199?v=4",
+    "banner": ""
   }
 ]

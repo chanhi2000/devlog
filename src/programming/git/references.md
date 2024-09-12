@@ -367,6 +367,7 @@ head:
 ## KENDRICK'S BLOG
 
 - [\[번역\] Art of Clean Pull Requests - 클린한 Git PR의 기술](https://blog.sonim1.com/224?)
+- [알아두면 좋은 GIT 명령어들](https://sonim1.com/ko/blog/git-commands-that-are-good-to-know/)
 
 ---
 

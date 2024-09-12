@@ -53,6 +53,211 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_036.png
 
 <!-- TODO: 작성 -->
 
+<!-- 
+**Software architecture** is a blueprint for how you should structure your system.
+You can follow this blueprint strictly, or you can give yourself varying levels of freedom.
+
+But when deadlines are tight, and you start cutting corners, that beautiful software architecture you built crumbles like a house of cards.
+
+How can you **enforce** your **software architecture**?
+
+By writing **architecture tests**.
+
+**Architecture tests** are automated tests that verify the structure and design of your code.
+
+You can use them to enforce your software architecture and the direction of dependencies of your projects.
+
+In this week's issue I'll explain how to:
+
+- Write architecture tests
+<li>Enforce architecture
+<li>Enforce design rules
+
+Let's dive in!
+
+---
+
+## writing-architecture-tests"><a href="#writing-architecture-tests">Writing Architecture Tests
+
+You write **architecture tests** the same as any unit test in your application.
+There's an excellent library for writing architecture tests that already implements the boilerplate code we need to start writing tests.
+
+We're going to use the `NetArchTest.Rules` library for writing architecture tests.
+
+First, you have to install the NuGet package:
+
+```pwsh
+Install-Package NetArchTest.Rules
+
+```
+
+And now you can use it to write rules in your test project.
+
+The starting point for writing architecture tests is the static `Types` class, which you can use to load a set of types.
+
+Once you have loaded your types you can further filter them to find a more specific set of types.
+
+Some of the available filtering methods:
+
+- `ResideInNamespace`
+<li>`AreClasses`
+<li>`AreInterfaces`
+<li>`HaveNameStartingWith`
+<li>`HaveNameEndingWith`
+
+Finally, when you are satisfied with your selection, you can write the rule you want to enforce by calling `Should` or `ShouldNot`
+and applying the condition you want to check.
+
+Here's an example checking that all classes in the domain assembly are sealed:
+
+```cs
+var result = Types
+  .InAssembly(DomainAssembly)
+  .That()
+  .AreClasses()
+  .Should()
+  .BeSealed()
+  .GetResult();
+
+Assert.True(result.IsSuccessful);
+
+```
+
+---
+
+## enforcing-architecture-rules"><a href="#enforcing-architecture-rules">Enforcing Architecture Rules
+
+**Architecture tests** are particularly useful to **enforce software architecture rules** in a layered architecture or **Modular Monolith**.
+
+Let's take the example of the Clean architecture:
+
+- Domain should not have any dependencies
+<li>Application should not depend on Infrastructure
+<li>Infrastructure should depend on Application and Domain
+
+Here's how you can write tests for enforcing architecture rules.
+
+**Domain should not have any dependencies**
+
+```cs
+var result = Types
+  .InAssembly(DomainAssembly)
+  .ShouldNot()
+  .HaveDependencyOnAny("Application", "Infrastructure")
+  .GetResult();
+
+Assert.True(result.IsSuccessful);
+
+```
+
+**Application should not depend on Infrastructure**
+
+```cs
+var result = Types
+  .InAssembly(AplicationAssembly)
+  .Should()
+  .NotHaveDependencyOn("Infrastructure")
+  .GetResult();
+
+Assert.True(result.IsSuccessful);
+
+```
+
+**Infrastructure should depend on Application and Domain**
+
+How the `NetArchTest.Rules` library works is by scanning the imported namespaces of your types.
+
+Because of this, writing negative conditions like in the previous two examples is straightforward.
+
+But writing positive conditions has to be scoped to a more specific set of types.
+
+For example, we can validate this dependency by checking that all repositories must have a dependency on the `Domain` namespace.
+
+```cs
+var result = Types
+  .InAssembly(InfrastructureAssembly)
+  .HaveNameEndingWith("Repository")
+  .Should()
+  .HaveDependencyOn("Domain")
+  .GetResult();
+
+Assert.True(result.IsSuccessful);
+
+```
+
+---
+
+## enforcing-design-rules"><a href="#enforcing-design-rules">Enforcing Design Rules
+
+Another valuable **use case** for **architecture tests** is **enforcing design rules** in your application.
+
+Design rules are more specific than project references, and focus on the implementation details of your classes.
+
+Here are some **design rules** that you can enforce:
+
+- Services must be internal
+<li>Entities and Value objects must be sealed
+<li>Controllers can't depend on repositories directly
+<li>Command (or query) handlers must follow a naming convention
+
+The possibilities are endless, and it's up to you how many design rules you want to enforce.
+
+Here's how you can write tests for enforcing design rules.
+
+**Command handlers must end with `CommandHandler`**
+
+```cs
+var result = Types
+    .InAssembly(ApplicationAssembly)
+    .That()
+    .ImplementInterface(typeof(ICommandHandler))
+    .Should()
+    .HaveNameEndingWith("CommandHandler")
+    .GetResult();
+
+Assert.True(result.IsSuccessful);
+
+```
+
+**Controllers can't directly reference repositories**
+
+```cs
+var result = Types
+    .InAssembly(ApiAssembly)
+    .That()
+    .HaveNameEndingWith("Controller")
+    .ShouldNot()
+    .HaveDependencyOn("Infrastructure.Repositories")
+    .GetResult();
+
+Assert.True(result.IsSuccessful);
+
+```
+
+---
+
+## takeaway"><a href="#takeaway">Takeaway
+
+**Architecture tests** are an easy way to **enforce software architecture** and design rules with automated tests.
+
+One of the best investments you can make as a software engineer is writing automated tests.
+You write the tests once, and use them to verify your system forever.
+Granted, you also have to maintain the tests over time as your system grows.
+
+Manually enforcing software architecture with pair programming and constant PR reviews is:
+
+- Error prone
+<li>Time consuming
+<li>Not cost effective
+
+**Architecture tests** really shine here, since you can write them quickly and reduce the cost of enforcing your software architecture rules to zero.
+
+Thanks for reading.
+
+Hope that was helpful!
+
+-->
+
 ---
 
 <TagLinks />

@@ -1789,8 +1789,10 @@
   }, {
     "repo": "vllm-project/vllm",
     "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-    "topics": ["inference", "pytorch", "transformer", "gpt", "model-serving", "mlops", "llm", "llmops", "llm-serving"],
-    "officialSite": "https://vllm.readthedocs.io"
+    "officialSite": "https://docs.vllm.ai",
+    "topics": ["amd", "cuda", "gpt", "inference", "inferentia", "llama", "llm", "llm-serving", "llmops", "mlops", "model-serving", "pytorch", "rocm", "tpu", "trainium", "transformer", "xpu"],
+    "avatar": "https://avatars.githubusercontent.com/u/136984999?v=4",
+    "banner": ""
   }, {
     "repo": "s0md3v/sd-webui-roop",
     "desc": "roop extension for StableDiffusion web-ui",
@@ -6949,7 +6951,7 @@
     "desc": "Brand new TTS solution",
     "officialSite": "https://speech.fish.audio",
     "topics": ["llama", "transformer", "tts", "valle", "vits", "vqgan", "vqvae"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/122017386?v=4",
     "banner": ""
   }, {
     "repo": "tanelpoder/0xtools",
@@ -7868,6 +7870,33 @@
     "topics": ["pyinstaller", "pyqt5", "pyqt6", "pyside2", "pyside6", "python3"],
     "avatar": "https://avatars.githubusercontent.com/u/1076393?v=4",
     "banner": ""
+  }, {
+    "repo": "langflow-ai/langflow",
+    "desc": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+    "officialSite": "http://www.langflow.org",
+    "topics": ["chatgpt", "generative-ai", "large-language-models", "react-flow"],
+    "avatar": "https://avatars.githubusercontent.com/u/85702467?v=4",
+    "banner": ""
+  }, {
+    "repo": "bridgecrewio/checkov",
+    "desc": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+    "officialSite": "https://www.checkov.io/",
+    "topics": ["aws", "aws-security", "azure", "cloudformation", "compliance", "devops", "gcp", "hacktoberfest", "infrastructure-as-code", "kubernetes", "scans", "static-analysis", "terraform"],
+    "avatar": "https://avatars.githubusercontent.com/u/48174253?v=4",
+    "banner": ""
+  }, {
+    "repo": "gr-b/repogather",
+    "desc": "Easily copy all relevant source files in a repository to clipboard. For use in LLM code understanding and generation workflows",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/18386065?v=4",
+    "banner": ""
+  }, {
+    "repo": "tiran/defusedxml",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/444071?v=4",
+    "banner": ""
   }
-  
 ]

@@ -671,5 +671,12 @@
     "topics": ["cncf", "consensus", "database", "distributed-database", "distributed-systems", "etcd", "go", "key-value", "kubernetes", "raft"],
     "avatar": "https://avatars.githubusercontent.com/u/41972792?v=4",
     "banner": ""
+  }, {
+    "repo": "OpenBMB/ChatDev",
+    "desc": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+    "officialSite": "https://arxiv.org/abs/2307.07924",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
+    "banner": ""
   }
 ]

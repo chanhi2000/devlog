@@ -103,6 +103,9 @@ head:
 - [`su-mmer` / Summary Of Summer](https://su-mmer.tistory.com/m/)
   - [\[Setting\] M2 IntelliJ Homebrew Tomcat 설치부터 연동까지](https://su-mmer.tistory.com/m/134)
   <!-- END: su-mmer -->
+- [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
+  - [CodeGPT로 IntelliJ에서 Ollama LLM 사용하기](https://devs0n.tistory.com/m/196)
+  <!-- END: devs0n -->
 <!-- END: tistory.com -->
 
 ---

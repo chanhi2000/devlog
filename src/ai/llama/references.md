@@ -56,6 +56,9 @@ head:
 - [`skyil` / 컴퓨터와 수학, 몽상 조금](https://skyil.tistory.com/m/)
   - [Llama 3.1 Vision Language Model 관련 요약 (Llama 3-V)](https://skyil.tistory.com/m/303)
   <!-- END: skyil -->
+- [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
+  - [CodeGPT로 IntelliJ에서 Ollama LLM 사용하기](https://devs0n.tistory.com/m/196)
+  <!-- END: devs0n -->
 <!-- END: tistory.com -->
 
 ## LMSYS Org

@@ -53,6 +53,144 @@ cover: https://www.milanjovanovic.tech/blog-covers/mnw_006.png
 
 <!-- TODO: 작성 -->
 
+<!-- 
+Let's imagine we have an existing `Repository` implementation, and we want to introduce caching to reduce the load on the database.
+
+How can we achieve this without changing the original `Repository` implementation?
+
+**Decorator pattern** is a structural design pattern that allows you
+to introduce new behavior to an existing class, without modifying the original class in any way.
+
+I'll show you how you can implement this with the **ASP.NET Core DI** container.
+
+---
+
+## how-to-implement-the-decorator-pattern"><a href="#how-to-implement-the-decorator-pattern">How To Implement The Decorator Pattern
+
+We'll start with an existing `MemberRepository` implementation that implements the `IMemberRepository` interface.
+
+It has only one method, which loads the `Member` from the database.
+
+Here's what the implementation looks like:
+
+```cs
+public interface IMemberRepository
+{
+    Member GetById(int id);
+}
+
+public class MemberRepository : IMemberRepository
+{
+    private readonly DatabaseContext _dbContext;
+
+    public MemberRepository(DatabaseContext dbContext)
+    {
+        _dbContext = dbContext;
+    }
+
+    public Member GetById(int id)
+    {
+        return _dbContext
+            .Set<Member>()
+            .First(member => member.Id == id);
+    }
+}
+
+```
+
+We want to introduce caching to the `MemberRepository` implementation without modifying the existing class.
+
+To achieve this, we can use the **Decorator pattern** and create a wrapper around our `MemberRepository` implementation.
+
+We can create a `CachingMemberRepository` that will have a dependency on `IMemberRepository`.
+
+```cs
+public class CachingMemberRepository : IMemberRepository
+{
+    private readonly IMemberRepository _repository;
+    private readonly IMemoryCache _cache;
+
+    public CachingMemberRepository(
+        IMemberRepository repository,
+        IMemoryCache cache)
+    {
+        _repository = repository;
+        _cache = cache;
+    }
+
+    public Member GetById(int id)
+    {
+        string key = $"members-{id}";
+
+        return _cache.GetOrCreate(
+            key,
+            entry => {
+                entry.SetAbsouluteExpiration(
+                    TimeSpan.FromMinutes(5));
+
+                return _repository.GetById(id);
+            });
+    }
+}
+
+```
+
+Now I'm going to show you the power of **ASP.NET Core DI**.
+
+We will configure the `IMemberRepository` to resolve an instance of `CachingMemberRepository`,
+while it will receive the `MemberRepository` instance as its dependency.
+
+---
+
+## configuring-the-decorator-in-asp-net-core-di"><a href="#configuring-the-decorator-in-asp-net-core-di">Configuring The Decorator In ASP .NET Core DI
+
+For the DI container to be able to resolve `IMemberRepository` as `CachingMemberRepository`,
+we need to manually configure the service.
+
+We can use the overload that exposes a service provider,
+that we will use to resolve the services required to construct a `MemberRepository`.
+
+Here's what the configuration would look like:
+
+```cs
+services.AddScoped<IMemberRepository>(provider => {
+    var context = provider.GetService<DatabaseContext>();
+    var cache = provider.GetService<IMemoryCache>();
+
+    return new CachingRepository(
+         new MemberRepository(context),
+         cache);
+});
+
+```
+
+Now you can inject the `IMemberRepository`, and the DI will be able to resolve an instance of `CachingMemberRepository`.
+
+---
+
+## configuring-the-decorator-with-scrutor"><a href="#configuring-the-decorator-with-scrutor">Configuring The Decorator With Scrutor
+
+If the previous approach seems *cumbersome* to you and like a lot of manual work - that's because it is.
+
+However, there is a simpler way to achieve the same behavior.
+
+We can use the **<a href="https://github.com/khellang/Scrutor">Scrutor</a>** library to register the decorator:
+
+```cs
+services.AddScoped<IMemberRepository, MemberRepository>();
+
+services.Decorate<IMemberRepository, CachingMemberRepository>();
+
+```
+
+**<a href="https://github.com/khellang/Scrutor">Scrutor</a>** exposes the `Decorate` method.
+The call to `Decorate` will register the `CachingMemberRepository` while ensuring
+that it receives the expected `MemberRepository` instance as its dependency.
+
+I think this approach is much simpler, and it's what I use in my projects.
+
+-->
+
 ---
 
 <TagLinks />

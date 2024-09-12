@@ -75,4 +75,10 @@ tag:
 
 ---
 
+## IOT 개발 가이드
+
+- [라즈베리파이 우분투에서 팀뷰어(teamviewer) 설치](https://m.blog.naver.com/nanotoly/223581043687)
+
+---
+
 <TagLinks />

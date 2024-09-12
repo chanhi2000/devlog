@@ -53,6 +53,143 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_017.png
 
 <!-- TODO: 작성 -->
 
+<!-- 
+In the world of software development, there are countless approaches
+and methodologies to choose from. It's easy to get swayed with the
+latest trends, and loose sight of architectural principles that really matter.
+
+One of the more popular ones is **Clean Architecture**, a design approach
+that prioritizes maintainability, scalability, flexibility, and productivity.
+
+In this week's newsletter, we will explore the key benefits of using
+**Clean Architecture** and how it can help your team build better software.
+
+Let's dive in.
+
+---
+
+## what-is-clean-architecture"><a href="#what-is-clean-architecture">What Is Clean Architecture?
+
+**Clean Architecture**, also known as "The Onion Architecture," was first
+introduced by Robert C. Martin (aka "Uncle Bob") in his book
+"Clean Architecture: A Craftsman's Guide to Software Structure and Design".
+
+At its core, **Clean Architecture** is a way of organizing a software system
+in a way that separates the concerns of the various components,
+making it easier to understand and maintain.
+
+In **Clean Architecture**, the core of the system is the **"inner circle"**,
+which contains the business rules and logic.
+
+Surrounding this **inner circle** are layers of abstraction,
+each one representing a different concern.
+
+<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271920%27%20height=%271080%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_017/clean_architecture.png?imwidth=1920 1x, /blogs/mnw_017/clean_architecture.png?imwidth=3840 2x" src="/blogs/mnw_017/clean_architecture.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+The typical outer layers are **Infrastructure** and **Presentation** layers.
+The **Infrastructure** layer handles external concerns such as APIs and databases.
+While the **Presentation** layer exposes an interface for clients to interact with
+the application.
+
+The key principle of **Clean Architecture** is that the **inner circle**
+should not depend on the outer layers. Instead, the outer layers should
+depend on the **inner circle**. This helps to ensure that the **core** of the
+system is flexible and easy to modify, without worrying about the impact
+on other parts of the system.
+
+---
+
+## benefits-of-using-clean-architecture"><a href="#benefits-of-using-clean-architecture">Benefits Of Using Clean Architecture
+
+I want to highlight some of the key benefits of using **Clean Architecture**.
+
+### improved-maintainability"><a href="#improved-maintainability">Improved Maintainability
+
+One of the primary benefits of using **Clean Architecture** is improved **maintainability**.
+By separating the concerns of the various components and enforcing the dependency rule,
+it becomes much easier to understand and modify the code.
+Depending on abstractions allows you to design your business logic in a flexible way,
+without having to know the implementation details.
+
+### modularity-and-separation-of-concerns"><a href="#modularity-and-separation-of-concerns">Modularity and Separation of Concerns
+
+**Clean Architecture** helps to create a clear **separation of concerns**
+within the codebase. Each layer has a specific purpose and is decoupled
+from the others, making it easier to understand and modify individual
+components without affecting the rest of the system. This modularity
+also makes it easier to reuse components in other projects.
+
+### testability"><a href="#testability">Testability
+
+**Clean Architecture** also makes it **easier to test** and debug the code.
+Because the inner circle is independent of the outer layers,
+it's easier to write unit tests that focus specifically on the business
+rules. This can help to catch errors early on in the development
+process and reduce the overall testing effort.
+
+### loose-coupling-of-components"><a href="#loose-coupling-of-components">Loose Coupling of Components
+
+**Clean Architecture** also promotes **loose coupling** between the various
+components of the system. This means that it's easier to swap out
+external dependencies or make other modifications without affecting
+the core business logic. This can be especially useful when it comes
+to upgrading or replacing technology.
+
+### increased-flexibility"><a href="#increased-flexibility">Increased Flexibility
+
+Another key benefit of **Clean Architecture** is increased **flexibility**.
+By separating the concerns of the various components, it's easier
+to modify and adapt the code to changing requirements. This can be
+especially useful in fast-paced environments where requirements
+are constantly evolving.
+
+### improved-team-productivity"><a href="#improved-team-productivity">Improved Team Productivity
+
+**Clean Architecture** can help to improve team **productivity**.
+By establishing clear separation of responsibilities and well-defined
+boundaries, it's easier for team members to understand their roles
+and responsibilities. This can improve communication and collaboration,
+leading to more efficient and effective work.
+
+---
+
+## clean-architecture-in-the-real-world"><a href="#clean-architecture-in-the-real-world">Clean Architecture In The Real World
+
+This all sounds nice in theory, but how does **Clean Architecture**
+perform in the real world?
+
+I have used **Clean Architecture** on roughly 10 projects in the
+last 5 years, and I've had a lot of success with it. It was
+easy to add new features, and scale the applications when
+necessary. **Clean Architecture** can easily be broken down
+into multiple modules or services, if performance is suffering
+and there is a need to scale out.
+
+One problem with the **Clean Architecture** is that it is **easy to overengineer**.
+
+Dogmatism is a real issue, as I see many people with strong
+opinions of what **Clean Architecture** should be.
+I've been guilty of this myself in the past.
+
+Recently, I try to be more **pragmatic** when using **Clean Architecture**.
+I apply what I like, and give myself the flexibility of **"breaking"**
+**Clean Architecture** if I think it will simplify things in the long run.
+
+---
+
+## closing-thoughts"><a href="#closing-thoughts">Closing Thoughts
+
+By following the principles of **Clean Architecture**, you can create a flexible
+and maintainable codebase that is well-suited to evolving requirements and technology.
+
+However, it's important to be **pragmatic** with **Clean Architecture** and
+allow yourself to be flexible in the design, in order to simplify things in the long run.
+
+If you want to see how to apply **Clean Architecture** in practice,
+I have a
+<a href="https://youtu.be/tLk4pZZtiDY?list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa">**playlist with more than 20 videos on Clean Architecture**</a>.
+
+-->
+
 ---
 
 <TagLinks />

@@ -145,6 +145,7 @@ head:
 - [`@euisuk-chung` / Prophet을 활용한 시계열 예측🔭](https://velog.io/@euisuk-chung/Prophet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%9C%EA%B3%84%EC%97%B4-%EC%98%88%EC%B8%A1)
 - [`@eunbibi` / Transfer learning with ResNet](https://velog.io/@eunbibi/ResNet50-finetuning)
 - [`eunbibi` / Sympy](https://velog.io/@eunbibi/Sympy)
+- [`@euisuk-chung` / \[파이썬\] 정규표현식 활용  방법](https://velog.io/@euisuk-chung/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 
 <!-- END: velog.io -->
 

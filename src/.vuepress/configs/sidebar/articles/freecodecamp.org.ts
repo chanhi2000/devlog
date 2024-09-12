@@ -93,6 +93,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-variables-and-data-types-in-javascript", // 2024-08-19
       "how-to-create-interactive-html-prototypes", // 2024-08-27
       "how-to-build-an-expense-tracker-with-html-css-and-javascript", // 2024-09-11
+      "how-to-use-chart-js-for-interactive-data-visualization", // 2024-09-12
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -783,6 +784,7 @@ export const template: SidebarInfoTemplate = {
       "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
       "pass-the-azure-ai-engineer-associate-certification-ai-102", // 2024-09-10
       "how-event-handling-works-in-vue-3-guide-for-devs", // 2024-09-11
+      "how-to-use-chart-js-for-interactive-data-visualization", // 2024-09-12
     ]],
   ]),
 }

@@ -206,8 +206,11 @@ tag:
 - [Oruga - UI components library without CSS framework dependency](https://dev.to/jtommy/oruga-ui-components-library-without-css-framework-dependency-4m3m)
 - [The Best Way To Dark Mode Your Website In My Opinion.](https://dev.to/zxcodes/the-best-way-to-dark-mode-your-website-1g7f)
 - [8 SCSS Best Practices to Keep in Mind](https://dev.to/liaowow/8-css-best-practices-to-keep-in-mind-4n5h)
-- [`jaredcodes` - Finally Understand Responsive Design!](https://dev.to/jaredcodes/finally-understand-responsive-design-3con)
-- [`madhusaini22` - How to remove background of an image with CSS](https://dev.to/madhusaini22/how-to-remove-background-of-image-with-css-1e6e)
+- [`jaredcodes` / Finally Understand Responsive Design!](https://dev.to/jaredcodes/finally-understand-responsive-design-3con)
+- [`madhusaini22` / How to remove background of an image with CSS](https://dev.to/madhusaini22/how-to-remove-background-of-image-with-css-1e6e)
+- [`black7375` / Rethinking CSS in JS](https://dev.to/black7375/rethinking-css-in-js-5dip)
+
+<!-- END: dev.to -->
 
 ---
 
@@ -429,6 +432,7 @@ tag:
   - [image, xml, javascript, css, font 파일을 base64 로 치환하여 html 적용해 보기](https://aspdotnet.tistory.com/m/2848)
   - [html : 애니메이션 효과, 특정 텍스트 자주색으로 형광펜 칠하듯이 보여주기](https://aspdotnet.tistory.com/m/3250)
   - [html_css : 마우스 우클릭 방지와 텍스트 드래그 방지를 구현 (Prevent right-clicking and dragging text)](https://aspdotnet.tistory.com/m/3252)
+  - [html : froala Editor 사용하여 콘텐츠 작성 및 미리보기 설정하기](https://aspdotnet.tistory.com/m/3267)
   <!-- END: aspdotnet -->
 
 <!-- END: tistory.com -->

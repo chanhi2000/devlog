@@ -43,6 +43,14 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@euisuk-chung` / \[파이썬\] 정규표현식 활용  방법](https://velog.io/@euisuk-chung/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+
+<!-- END: velog.io -->
+
+---
+
 ## Tools
 
 - [iHateRegex](https://ihateregex.io)

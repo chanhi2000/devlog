@@ -242,6 +242,7 @@ tag:
   - [\[프로그래머스\] 완주하지 못한 선수 - java](https://findsilverlining.tistory.com/m/110)
   - [\[프로그래머스\] 예상 대진표 - java](https://findsilverlining.tistory.com/m/114)
   - [\[프로그래머스\] 다단계 칫솔 판매 - java](https://findsilverlining.tistory.com/m/117)
+  - [\[백준\] 8979번: 올림픽 - java](https://findsilverlining.tistory.com/m/133)
   <!-- END: findsilverlining -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [Java에서 외부 프로그램 실행하기](https://backend-jaamong.tistory.com/m/172)

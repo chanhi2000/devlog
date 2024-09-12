@@ -53,6 +53,171 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_056.png
 
 <!-- TODO: 작성 -->
 
+<!--
+You start building a beautiful monolith system.
+Maybe a modular monolith.
+
+The system grows over time, and requirements are ever-changing. Slowly, cracks begin to appear in the system.
+
+This could be for organizational reasons and distributing the work across a team.
+Or it could be because of scaling issues and performance bottlenecks.
+
+You begin evaluating the possible solutions, and the benefits and tradeoffs of each one.
+At last, you come to a decision.
+
+It's time to migrate parts of the system to individual (micro)services.
+
+So, how do we approach this migration from monolith to microservices?
+
+That is the topic of this week's newsletter.
+
+Let's dive in!
+
+---
+
+## decoupling-using-bounded-contexts"><a href="#decoupling-using-bounded-contexts">Decoupling Using Bounded Contexts
+
+The first step in moving from a monolith to microservices is identifying the bounded contexts.
+Because they represent cohesive parts of the domain that are candidates for extraction.
+
+One solution is to identify <a href="https://martinfowler.com/bliki/BoundedContext.html">bounded contexts</a>
+using the domain-driven design strategic modeling.
+
+Bounded contexts define the explicit boundaries between modules and separate the responsibilities.
+This is one of the biggest challenges when migrating to microservices.
+<a href="https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis">Identifying good boundaries</a>
+between modules ensures microservices are narrowly focused on one problem domain.
+
+Defining boundaries is also easier in a monolith because you aren't working with a distributed system.
+<a href="https://cloud.google.com/architecture/microservices-architecture-refactoring-monoliths">Refactoring bad boundaries</a>
+is less risky, and you have more freedom to "get it right".
+
+<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27978%27%20height=%27597%27/%3e"><img alt="Bounded contexts." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Bounded contexts." srcSet="/blogs/mnw_056/bounded_contexts.png?imwidth=1080 1x, /blogs/mnw_056/bounded_contexts.png?imwidth=2048 2x" src="/blogs/mnw_056/bounded_contexts.png?imwidth=2048" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+And the size of the bounded context shouldn't worry you.
+Instead, focus on <a href="https://go.particular.net/right-sized-services">service boundaries.</a>
+
+The next problem you need to solve is coupling.
+Coupling is manifested in two ways:
+
+- Database dependencies
+<li>Communication between modules
+
+You can solve these problems from the start by building a modular monolith.
+But I'll also explain the guiding principles you can use to solve coupling.
+
+---
+
+## how-a-modular-monolith-solves-coupling"><a href="#how-a-modular-monolith-solves-coupling">How a Modular Monolith Solves Coupling
+
+A <a href="modular-monolith-communication-patterns#what-is-a-modular-monolith">modular monolith</a> is a catchy name for a monolith system built from a few
+bounded contexts (modules) and following a set of principles to control coupling.
+Each module contains a cohesive set of functionalities and is isolated from other modules in the system.
+The isolation refers to database dependencies and inter-module communication.
+
+<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27978%27%20height=%27597%27/%3e"><img alt="Modular monolith." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Modular monolith." srcSet="/blogs/mnw_056/modular_monolith.png?imwidth=1080 1x, /blogs/mnw_056/modular_monolith.png?imwidth=2048 2x" src="/blogs/mnw_056/modular_monolith.png?imwidth=2048" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+You can think of a module as a distinct application within the system.
+A module has its own domain, entities, use cases, database tables.
+The modules are deployed together as a single executable application.
+But they are otherwise independent.
+
+You can apply different architectural approaches to each module, like <a href="/pragmatic-clean-architecture">Clean Architecture.</a>
+
+So I mentioned that you need to reduce the coupling between modules.
+
+Here are two principles to solve database coupling:
+
+- Modules can't share tables in the database
+<li>Modules can't directly query the database tables of other modules
+
+Sharing database tables leads to a high degree of coupling, and this is exactly what you are trying to avoid.
+You can isolate the data for each module on a logical level using schemas or physically with different databases.
+
+A module should expose a public API that other modules can call.
+This public API is the entry point into the module.
+And this is the only way for modules to communicate.
+
+Communication between modules can be <a href="modular-monolith-communication-patterns#synchronous-communication-with-method-calls">synchronous</a>
+using method calls, or <a href="modular-monolith-communication-patterns#asynchronous-communication-with-messaging">asynchronous</a>
+using a message bus.
+
+My preferred approach is asynchronous communication using messaging.
+It's loosely coupled and makes the transition to microservices easier.
+
+---
+
+## adding-a-message-broker-to-the-system"><a href="#adding-a-message-broker-to-the-system">Adding a Message Broker To The System
+
+To implement asynchronous communication between modules, you can introduce a message broker.
+But you don't need to introduce a full-blown message broker from the start.
+
+You can implement messaging between modules using an abstraction like <a href="https://masstransit.io">MassTransit</a> while abstracting away the transport mechanism.
+
+MassTransit has an in-memory transport that works well inside a single process.
+It's very fast.
+But it isn't durable, and you can lose messages if the bus is stopped.
+
+You only need to configure a different transport mechanism when introducing a real message broker.
+But you don't need to change your messaging code.
+
+<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27978%27%20height=%27597%27/%3e"><img alt="Modular monolith with a queue." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Modular monolith with a queue." srcSet="/blogs/mnw_056/modular_monolith_queue.png?imwidth=1080 1x, /blogs/mnw_056/modular_monolith_queue.png?imwidth=2048 2x" src="/blogs/mnw_056/modular_monolith_queue.png?imwidth=2048" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+What is the purpose of messaging inside a modular monolith?
+
+Designing your system like this makes the modules loosely coupled and independent.
+The price you pay in increased complexity at the start is justified as the project matures.
+
+---
+
+## extracting-modules-to-microservices"><a href="#extracting-modules-to-microservices">Extracting Modules to Microservices
+
+We decided to move from a monolith system to microservices.
+Since we built our system in a modular way, the migration comes down to extracting a module into a new process.
+
+You should introduce a <a href="implementing-an-api-gateway-for-microservices-with-yarp">reverse proxy</a> in front of your services to route incoming traffic.
+This will hide the implementation details of the microservices system from client applications.
+
+The new microservice needs to connect to the message bus, but we don't need to change anything in our code.
+Using messaging for communication between modules simplifies the migration process.
+This might remind you of <a href="https://go.particular.net/break-that-big-ball-of-mud">event-driven architecture.</a>
+
+If you implement inter-module communication using method calls, you must replace that implementation with HTTP calls over the network.
+Because you're now building a distributed system, and the previous implementation using method calls will not work.
+You also need to consider authentication, fault tolerance...
+
+<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27978%27%20height=%27597%27/%3e"><img alt="Microservices with extracting modules." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Microservices with extracting modules." srcSet="/blogs/mnw_056/extracting_modules.png?imwidth=1080 1x, /blogs/mnw_056/extracting_modules.png?imwidth=2048 2x" src="/blogs/mnw_056/extracting_modules.png?imwidth=2048" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+Extracting modules from the monolith system leads to replacing all the functionalities of the old system with new microservices.
+This process of migrating to microservices follows the <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig">strangler fig pattern.</a>
+
+---
+
+## closing-thoughts"><a href="#closing-thoughts">Closing Thoughts
+
+The biggest blocker for moving from a monolith to microservices is coupling.
+Coupling is a change preventer.
+So, this is the first thing you need to tackle.
+
+You need to solve coupling at the database level and between components in the code.
+Building the system in a modular way can prevent these problems from the start.
+
+Which is why a Modular monolith is an excellent approach.
+
+You can identify bounded contexts in the system and use them as the boundaries in the monolith.
+And getting the boundaries right is easier in a monolith.
+
+Migrating to microservices comes down to extracting the modules into individual services.
+
+Of course, you still need to think about security and fault tolerance because you now have a distributed system.
+
+Talking about architecture in abstract terms can be difficult to grasp, but it's important when discussing conceptual solutions.
+
+I'll show you a practical Modular monolith implementation soon to complete the circle.
+
+Until then, I hope this was valuable.
+
+See you next week!
+
+<hr></article>
+-->
+
 ---
 
 <TagLinks />

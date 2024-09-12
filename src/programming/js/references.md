@@ -655,6 +655,7 @@ head:
 ## 오늘도 개발로그
 
 - [JavaScript에서 배열의 원소들을 그룹핑하는 방법들](https://kesakiyo.tistory.com/m/entry/JavaScript%EC%97%90%EC%84%9C-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%84-%EA%B7%B8%EB%A3%B9%ED%95%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4)
+- [네이밍 컨벤션(Naming Convention)이란? - 변수의 이름을 짓는 규칙](https://kesakiyo.tistory.com/m/entry/%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-Naming-Convention-%EC%9D%B4%EB%9E%80-%EB%B3%80%EC%88%98%EC%9D%98-%EC%9D%B4%EB%A6%84%EC%9D%84-%EC%A7%93%EB%8A%94-%EA%B7%9C%EC%B9%99)
 
 ---
 

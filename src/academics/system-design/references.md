@@ -224,6 +224,7 @@ head:
 - [`@joshuara7235` / 2024년 인프콘 후기 - #2 인프런 아키텍쳐 2024 ~ 2025](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-2-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-2024-2025-e9sj66sj)
 - [`@joshuara7235` / 2024년 인프콘 후기 - #3 경력이 늘수록 CS 이론이 중요해지는 이유](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-3-%EA%B2%BD%EB%A0%A5%EC%9D%B4-%EB%8A%98%EC%88%98%EB%A1%9D-CS-%EC%9D%B4%EB%A1%A0%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%B4%EC%A7%80%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [`@joshuara7235` / 2024년 인프콘 후기 - #5 객체지향은 여전히 유용한가](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-5-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%80-%EC%97%AC%EC%A0%84%ED%9E%88-%EC%9C%A0%EC%9A%A9%ED%95%9C%EA%B0%80)
+- [`@hyemin916` / 순간 판매량을 200%로 늘린, 재고 관리 개발기](https://velog.io/@hyemin916/%EC%88%9C%EA%B0%84-%ED%8C%90%EB%A7%A4%EB%9F%89%EC%9D%84-200-%EB%A1%9C-%EB%8A%98%EB%A6%B0-%EC%9E%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -297,6 +298,7 @@ head:
 - [`@2fEJ` / \[UX리서치#3\]UX 리서치의 중요성과 인사이트 발굴](https://brunch.co.kr/@@2fEJ/1475)
 - [`@2fEJ` / \[UI/UX 원칙#9\]폼(Forms) 디자인 14가지](https://brunch.co.kr/@@2fEJ/1476)
 - [`@2fEJ` / \[UI/UX 원칙#10\] 랜딩 페이지의 10가지 팁](https://brunch.co.kr/@@2fEJ/1477)
+- [`@2hV3` / 실전에서 통하는 진짜 프로덕트 디자인? - 콜로소: 문제 해결 중심의 UX/UI 실전 가이드](https://brunch.co.kr/@@2hV3/246)
 
 <!-- END: brunch.co.kr -->
 

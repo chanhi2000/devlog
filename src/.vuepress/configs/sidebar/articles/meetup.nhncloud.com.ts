@@ -67,7 +67,7 @@ export const template: SidebarInfoTemplate = {
       "65", // 2016.02.17
     ]], [
     "deep-learning", [
-      "375", // 2023.11.06 TODO: deep-learning
+      "375", // 2023.11.06 src/explore/articles/milanjovanovic.tech/deep-learning
     ]], [
     "chrome", [
       "293", // 2021-07-16

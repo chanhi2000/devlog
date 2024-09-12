@@ -255,6 +255,7 @@ head:
 - [\[실습과제\] 색을 밝기 단계로 나누어 출력하기](https://m.blog.naver.com/tipsware/223575076337)
 - [색상의 유사도를 이용해 색상을 합치는 예시](https://m.blog.naver.com/tipsware/223575870588)
 - [최대, 최솟값 구하기 - Step 1](https://m.blog.naver.com/tipsware/223579038423)
+- [최대, 최솟값 구하기 - Step 2](https://m.blog.naver.com/tipsware/223580481462)
 
 <!-- END: tipsware.blog.naver.com -->
 

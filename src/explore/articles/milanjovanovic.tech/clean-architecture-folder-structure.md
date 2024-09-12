@@ -53,6 +53,156 @@ cover: https://www.milanjovanovic.tech/blog-covers/mnw_004.png
 
 <!-- TODO: 작성 -->
 
+<!-- 
+**Clean Architecture** is a popular approach to structuring your application.
+
+It's a layered architecture that splits the project into four layers:
+
+- <a href="#domain-layer">Domain</a>
+<li><a href="#application-layer">Application</a>
+<li><a href="#infrastructure-layer">Infrastructure</a>
+<li><a href="#presentation-layer">Presentation</a>
+
+Each of the layers is typically one project in your solution.
+
+Here's a visual representation of the **Clean Architecture**:
+
+<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271920%27%20height=%271080%27/%3e"><img src="/blogs/mnw_004/clean_architecture.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" srcset="/blogs/mnw_004/clean_architecture.png?imwidth=1920 1x, /blogs/mnw_004/clean_architecture.png?imwidth=3840 2x"><noscript><img srcSet="/blogs/mnw_004/clean_architecture.png?imwidth=1920 1x, /blogs/mnw_004/clean_architecture.png?imwidth=3840 2x" src="/blogs/mnw_004/clean_architecture.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+How do we create this in our .NET solutions?
+
+---
+
+## domain-layer"><a href="#domain-layer">Domain Layer
+
+The **Domain layer** sits at the core of the **Clean Architecture**.
+Here we define things like: entities, value objects, aggregates, domain events, exceptions, repository interfaces, etc.
+
+Here is the folder structure I like to use:
+
+<pre><code class="code-highlight">📁 Domain
+|__ 📁 DomainEvents
+|__ 📁 Entities
+|__ 📁 Exceptions
+|__ 📁 Repositories
+|__ 📁 Shared
+|__ 📁 ValueObjects
+
+```
+
+You can introduce more things here if you think it's required.
+
+One thing to note is that the **Domain layer** is not allowed to reference other projects in your solution.
+
+---
+
+## application-layer"><a href="#application-layer">Application Layer
+
+The **Application layer** sits right above the **Domain layer**.
+It acts as an orchestrator for the **Domain layer**, containing the most important use cases in your application.
+
+You can structure your use cases using services or using commands and queries.
+
+I'm a big fan of the **CQRS** pattern, so I like to use the command and query approach.
+
+Here is the folder structure I like to use:
+
+<pre><code class="code-highlight">📁 Application
+|__ 📁 Abstractions
+    |__ 📁 Data
+    |__ 📁 Email
+    |__ 📁 Messaging
+|__ 📁 Behaviors
+|__ 📁 Contracts
+|__ 📁 Entity1
+    |__ 📁 Commands
+    |__ 📁 Events
+    |__ 📁 Queries
+|__ 📁 Entity2
+    |__ 📁 Commands
+    |__ 📁 Events
+    |__ 📁 Queries
+
+```
+
+In the `Abstractions` folder, I define the interfaces required for the **Application layer**.
+The implementations for these interfaces are in one of the upper layers.
+
+For every entity in the **Domain layer**, I create one folder with the commands, queries, and events definitions.
+
+---
+
+## infrastructure-layer"><a href="#infrastructure-layer">Infrastructure Layer
+
+The **Infrastructure layer** contains implementations for external-facing services.
+
+What would fall into this category?
+
+- Databases - PostgreSQL, MongoDB
+<li>Identity providers - Auth0, Keycloak
+<li>Emails providers
+<li>Storage services - AWS S3, Azure Blob Storage
+<li>Message queues - Rabbit MQ
+
+Here is the folder structure I like to use:
+
+<pre><code class="code-highlight">📁 Infrastructure
+|__ 📁 BackgroundJobs
+|__ 📁 Services
+    |__ 📁 Email
+    |__ 📁 Messaging
+|__ 📁 Persistence
+    |__ 📁 EntityConfigurations
+    |__ 📁 Migrations
+    |__ 📁 Repositories
+    |__ #️⃣ ApplicationDbContext.cs
+|__ 📁 ...
+
+```
+
+I place my `DbContext` implementation here if I'm using **EF Core**.
+
+It's not uncommon to make the Persistence folder its project.
+I frequently do this to have all database facing-code inside of one project.
+
+---
+
+## presentation-layer"><a href="#presentation-layer">Presentation Layer
+
+The **Presentation layer** is the entry point to our system.
+Typically, you would implement this as a Web API project.
+
+The most important part of the **Presentation layer** is the `Controllers`, which define the API endpoints in our system.
+
+Here is the folder structure I like to use:
+
+<pre><code class="code-highlight">📁 Presentation
+|__ 📁 Controllers
+|__ 📁 Middlewares
+|__ 📁 ViewModels
+|__ 📁 ...
+|__ #️⃣ Program.cs
+
+```
+
+Sometimes, I will move the **Presentation layer** away from the actual Web API project.
+I do this to isolate the `Controllers` and enforce stricter constraints.
+You don't have to do this if it is too complicated for you.
+
+---
+
+## is-this-the-only-way"><a href="#is-this-the-only-way">Is This The Only Way?
+
+You don't have to follow the folder structure I proposed to the T.
+**Clean Architecture** is very flexible, and you can experiment with it and structure it the way you like.
+
+Do you like more granularity? Create more specific projects.
+
+Do you dislike a lot of projects? Separate concerns using folders.
+
+I'm here to give you options to explore. But it's up to you to decide what's best.
+
+-->
+
 ---
 
 <TagLinks />

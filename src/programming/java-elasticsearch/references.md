@@ -64,6 +64,7 @@ head:
 - [ingest pipeline - 4th](https://kangmyounghun.blogspot.com/2024/05/ingest-pipeline-4th.html)
 - [데이터 노가다 실수담 - 6th](https://kangmyounghun.blogspot.com/2024/08/6th.html)
 - [데이터 시인성 - 8th](https://kangmyounghun.blogspot.com/2024/08/8th.html)
+- [내가 처음이 아니다](https://kangmyounghun.blogspot.com/2024/09/blog-post.html)
 
 ---
 

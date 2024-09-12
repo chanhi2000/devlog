@@ -110,6 +110,9 @@ head:
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [10만건 정도에서 중복 확인 시간](https://ravenkim97.tistory.com/m/498)
   <!-- END: ravenkim97 -->
+- [`dev-wnstjd` / 💻 준성 개발 일지](https://dev-wnstjd.tistory.com/m/)
+  - [\[자격증\] \[SQLD\] 2024년 제 54회 SQLD 개발자 시험 후기](https://dev-wnstjd.tistory.com/m/527)
+  <!-- END: dev-wnstjd -->
 <!-- END: tistory.com -->
 
 ---

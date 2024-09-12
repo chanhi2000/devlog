@@ -333,6 +333,7 @@ head:
   - [01. 들어가며](https://ysedeveloper.tistory.com/m/entry/01-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)
   - [02. 필요한 프로그램 설치](https://ysedeveloper.tistory.com/m/entry/02-%ED%95%84%EC%9A%94%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98)
   - [03.01. 프로젝트 세팅 - 1](https://ysedeveloper.tistory.com/m/entry/0301-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85-1)
+  - [03.02. 프로젝트 세팅 - 2](https://ysedeveloper.tistory.com/m/entry/0302-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85-2)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)

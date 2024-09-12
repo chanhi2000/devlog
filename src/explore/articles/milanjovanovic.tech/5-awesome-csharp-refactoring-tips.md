@@ -51,11 +51,9 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_065.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_065.png"/>
 
-Refactoring is a technique for restructuring existing code without changing its behavior.
-You can think of refactoring as a series of small code transformations.
+Refactoring is a technique for restructuring existing code without changing its behavior. You can think of refactoring as a series of small code transformations.
 
-One change (refactoring) does little.
-But a sequence of refactors produces a significant transformation.
+One change (refactoring) does little. But a sequence of refactors produces a significant transformation.
 
 There's no better way to learn refactoring than practicing.
 
@@ -102,8 +100,7 @@ It's difficult to test because we can't control any external dependencies.
 
 It's impossible to extend the behavior of the `CustomerService` without changing the code.
 
-But we can fix all these problems.
-Let me show you how.
+But we can fix all these problems. Let me show you how.
 
 ```cs
 public class CustomerService
@@ -473,7 +470,7 @@ public class CustomerService(
         (customer.HasCreditLimit, customer.CreditLimit) =
             creditLimitCalculator.Calculate(customer, company);
 
-        if (customer is { HasCreditLimit: true, <span class="token named-parameter punctuation">CreditLimit: < 500 })
+        if (customer is { HasCreditLimit: true, CreditLimit: < 500 })
         {
             return false;
         }

@@ -53,6 +53,211 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_022.png
 
 <!-- TODO: 작성 -->
 
+<!-- 
+In this week's newsletter I want to talk about the `yield` keyword in **C#**.
+I think it's a powerful **C#** feature and I wanted to highlight the benefits.
+
+The `yield` keyword tells the compiler that the method in which it appears
+is an **iterator block**. An iterator block, or method, returns an `IEnumerable`
+as the result. And the `yield` keyword is used to return the values for the
+`IEnumerable`.
+
+An interesting thing aboug `IEnumerable` is that it is lazily evaluted.
+Calling a method with an iterator block doesn't run any code. It's only
+when the `IEnumerable` is iterated over, or enumerated, that we get
+the actual values. I'll talk about this more later.
+
+Let's see how we can start using the `yield` keyword!
+
+---
+
+## how-to-use-the-yield-keyword"><a href="#how-to-use-the-yield-keyword">How To Use The Yield Keyword
+
+The `yield` keyword on it's own doesn't do anything, you have to combine
+it with the `return` or `break` statement:
+
+- `yield return` - provides the next value of the iterator
+<li>`yield-break` - signals the end of iteration
+
+In every project I worked on, there's a piece of code similar to the
+following. You create a list to hold the results, add elements to the
+list, and return the list in the end.
+
+```cs
+var engineers = GetSoftwareEngineers();
+
+public IEnumerable<SoftwareEngineer> GetSoftwareEngineers()
+{
+    var result = new List<SoftwareEngineer>();
+
+    for(var i = 0; i < 10; i++)
+    {
+        result.Add(new SoftwareEngineer
+        {
+            Id = i
+        });
+    }
+
+    return result;
+}
+
+```
+
+You can simplify the method using the `yield return` statement, and
+completely remove the intermediate list required to hold the results.
+
+```cs
+var engineers = GetSoftwareEngineers();
+
+public IEnumerable<SoftwareEngineer> GetSoftwareEngineers()
+{
+    for(var i = 0; i < 10; i++)
+    {
+        yield return new SoftwareEngineer
+        {
+            Id = i
+        };
+    }
+}
+
+```
+
+However, it's important to note these two implementation are fundamentally
+different from each other. In the first example, the entire list is
+populated and materialized. In the second example, the `IEnumerable`
+returned will not be materialized and you have to either iterate over
+it inside a `foreach` loop or call `ToList()`.
+
+---
+
+## stopping-iteration-with-yield-break"><a href="#stopping-iteration-with-yield-break">Stopping Iteration With Yield Break
+
+You can use the `yield break` statement to stop iteration and exit
+the iterator block. Typically you would do this when a certain
+condition is met, or you only want to return a specific set of values
+from the iterator block.
+
+Here's an example where this would be useful:
+
+```cs
+Console.WriteLine(string.Join(", ", TakeWhilePositive(new[] { 1, 2, -3, 4 })));
+// Output: 1, 2
+
+public IEnumerable<int> TakeWhilePositive(IEnumerable<int> numbers)
+{
+    foreach(int num in numbers)
+    {
+        if (num > 0)
+        {
+            yield return num;
+        }
+        else
+        {
+            yield break;
+        }
+    }
+}
+
+```
+
+---
+
+## working-with-iasyncenumerable"><a href="#working-with-iasyncenumerable">Working With IAsyncEnumerable
+
+In **C# 8** we got the `IAsyncEnumerable` type which allows us to
+iterate over a collection asynchronously with the `yield` statement.
+
+For example, this can be useful when you want to call a thid-party
+API multiple times to fetch some data. A common situation is when
+you get a list of users from the database, and then have to call
+an external storage service to get profile picture information.
+
+Without `IAsyncEnumerable` you would have to do something like this:
+
+```cs
+public async Task<IEnumerable<User>> GetUsersAsync()
+{
+    var users = await GetUsersFromDbAsync();
+
+    foreach(var user in users)
+    {
+        user.ProfileImage = await GetProfileImageAsync(user.Id);
+    }
+
+    return users;
+}
+
+// And you would call the method like this.
+var users = await GetUsersAsync();
+
+foreach(var user in users)
+{
+    Console.WriteLine(user);
+}
+
+```
+
+Now, consider this same example with the use of `IAsyncEnumerable`:
+
+```cs
+public async IAsyncEnumerable<User> GetUsersAsync()
+{
+    var users = await GetUsersFromDbAsync();
+
+    foreach(var user in users)
+    {
+        user.ProfileImage = await GetProfileImageAsync(user.Id);
+
+        yield return user;
+    }
+}
+
+// And you would call the method like this.
+await foreach(var user in GetUsersAsync())
+{
+    Console.WriteLine(user);
+}
+
+```
+
+The second implementation will iterate over the users returned from
+the database when they are yielded by the `IAsyncEnumerable`.
+
+---
+
+## when-should-i-use-yield"><a href="#when-should-i-use-yield">When Should I Use Yield?
+
+I've found a few interesting practical applications for the `yield` keyword.
+One example is when implementing Domain-Driven Design value objects.
+
+Value objects need to support structural equality. They need to implement
+a method that returns all of the equality components. Here's an example of
+that using the `yield return` statement:
+
+```cs
+public class Address
+{
+    public string City { get; init; }
+
+    public string Street { get; init; }
+
+    public string Zip { get; init; }
+
+    public string Country { get; init; }
+
+    public IEnumerable<object> GetEqualityComponents()
+    {
+        yield return City;
+        yield return Street;
+        yield return Zip;
+        yield return Country;
+    }
+}
+
+```
+
+-->
+
 ---
 
 <TagLinks />

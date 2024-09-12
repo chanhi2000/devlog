@@ -307,6 +307,7 @@ tag:
 - [`@2weV` / 미국 현지 취업 후 10+년 근무한 분들께 들은 이야기](https://brunch.co.kr/@@2weV/547)
 - [`@5sFx` / 03. 팀원은 팀장을 평가할 수 있어야 한다 - '제 점수는요'](https://brunch.co.kr/@@5sFx/121)
 - [`@2rV` / 곤도 마리에처럼 회고하기 - '설레지 않으면 버려라' - 팀의 의식과 무의식을 의식적으로 전환하는 방법](https://brunch.co.kr/@@2rV/179)
+- [`@2rV` / 기업의 제품 개발 문화에 대한 이해](https://brunch.co.kr/@@2rV/180)
 
 <!-- END: brunch.co.kr -->
 
@@ -713,6 +714,7 @@ tag:
 - [자신감에 대해서 – part 1](https://thestartupbible.com/2024/08/on-confidence-part-1.html)
 - [자신감에 대해서 – part 2](https://thestartupbible.com/2024/09/on-confidence-part-2.html)
 - [노가다에 대해서](https://thestartupbible.com/2024/09/not-scalable-until-scalable.html)
+- [분위기](https://thestartupbible.com/2024/09/the-vibe.html)
 
 <!-- END: thestartupbible.com -->
 

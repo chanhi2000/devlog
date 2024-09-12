@@ -53,6 +53,68 @@ cover: https://www.milanjovanovic.tech/blog-covers/mnw_001.png
 
 <!-- TODO: 작성 -->
 
+<!-- 
+---
+
+## Wishing You a Warm Welcome
+
+First, I want to welcome you to the first edition of **Milan's .NET Weekly** newsletter.
+
+I hope that this newsletter can become a positive force in the .NET community. To bring many of us together so that we can all continue learning and improving.
+
+With that out of the way, let's get into .NET!
+
+---
+
+## The Problem With Wide LINQ
+
+Let's consider the following LINQ expression from a code style perspective.
+
+I call this a wide LINQ expression because it stretches horizontally across the entire screen.
+
+```cs
+dbContext.Animals.Where(animal => animal.HasBigEars)
+    .OrderBy(animal => animal.IsDangerous).Select(
+        animal => (animal.Id, animal.Name)).ToList();
+
+```
+
+- It is difficult to read.
+- It is difficult to reason about.
+- It is difficult to extend or maintain.
+
+To improve this, I created a simple rule that you can follow:
+
+> When writing LINQ, try to go tall, not wide.
+
+---
+
+## How to Write Tall LINQ
+
+So how do we write tall LINQ expressions?
+
+I'm going to rewrite the previous expression, to improve it.
+
+Try to follow the *one dot per line rule*:
+
+```cs
+dbContext
+    .Animals
+    .Where(animal => animal.HasBigEars)
+    .OrderBy(animal => animal.IsDangerous)
+    .Select(animal => (animal.Id, animal.Name))
+    .ToList();
+
+```
+
+Is the new version easier to read? **Yes**, very much so.
+
+It is easier to understand what each expression does, and how it feeds into the next one in the chain.
+
+If you are working in a team, try to propose this as a coding standard (if it isn't one already).<br>You will see that over time this will make a noticeable difference.
+
+-->
+
 ---
 
 <TagLinks />
